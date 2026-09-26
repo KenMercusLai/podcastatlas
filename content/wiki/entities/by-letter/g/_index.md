@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 10821
+wiki_total_pages: 10825
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -332,6 +332,9 @@ wiki_pages:
   - key: "GermanNationalAnthem"
     title: "German National Anthem / Das Lied der Deutschen"
     url: "/wiki/entities/germannationalanthem/"
+  - key: "GermanPeasantsWar"
+    title: "German Peasants' War"
+    url: "/wiki/entities/germanpeasantswar/"
   - key: "GermanSwissInternationalSchool"
     title: "German Swiss International School / 香港德瑞国际学校"
     url: "/wiki/entities/germanswissinternationalschool/"

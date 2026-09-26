@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [437. Luther: A World Torn Apart (Part 5)](sources/437-luther-a-world-torn-apart-part-5-glt3328267667.md) — The Rest Is History finale on Luther's split with Karlstadt and Müntzer, the Peasants' War, two-kingdoms theology, and his morally divided legacy.
 - [Anthropic IPO at Risk, Meta's Muse Pop, Token Prices Fall, Open Source Gains Share, Alignment Fails](sources/all-in-with-chamath-jason-sacks-friedberg-anthropic-ipo-at-risk-metas-muse-pop-token-prices-fall-open-source-g.md) — All-In on frontier-model commoditization, Anthropic IPO disclosure, consumer agents, delegated commerce, AI accountability, and biological validation.
 - [438. The Moonwalkers, with Tom Hanks](sources/438-the-moonwalkers-with-tom-hanks-glt1422432857.md) — The Rest Is History conversation restoring contingency, staged learning, crew responsibility, crisis discipline, and technological optimism to the Apollo story.
 - [Overcoming Physical & Emotional Challenges | Coleman Ruiz](sources/overcoming-physical-emotional-challenges-coleman-ruiz-scim6632700547.md) — Huberman Lab interview on disciplined intensity, team identity, cumulative combat loss, civilian transition, depression, suicide risk, recovery, and range-based toughness.
@@ -2870,6 +2871,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Protocols to Strengthen & Pain Proof Your Back](sources/protocols-to-strengthen-pain-proof-your-back-scim8264963647.md) — Huberman Lab solo episode on mechanism-sensitive back care, the McGill Big Three, whole-body support, movement awareness, and clinical escalation boundaries.
 
 ## Entities
+- [Martin Luther](entities/MartinLuther.md) — German reformer whose theology and print power disrupted church authority while his anti-peasant and antisemitic rhetoric burdened his legacy.
+- [Thomas Müntzer](entities/ThomasMuntzer.md) — Radical reformer who joined apocalyptic theology to armed revolt and later became a contested revolutionary symbol.
+- [Andreas Karlstadt](entities/AndreasKarlstadt.md) — Wittenberg reformer whose iconoclasm, poverty ethics, and political implications exceeded Luther's limits.
+- [German Peasants' War](entities/GermanPeasantsWar.md) — 1524-1525 revolt joining social grievance, biblical argument, fragmented authority, and princely repression.
 - [Anthropic Biological Research Laboratory](entities/AnthropicBiologicalResearchLab.md) — Source-described BSL-1/BSL-2 facility testing model-generated protein and enzyme hypotheses through wet-lab validation.
 - [Tom Hanks](entities/TomHanks.md) — Actor, producer, and public-history enthusiast interpreting Apollo through childhood memory, research, and astronaut conversations.
 - [Apollo Program](entities/ApolloProgram.md) — NASA lunar program synthesized as staged learning, interdependent mission systems, scientific work, and cultural memory.
@@ -13706,6 +13711,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lord Elgin](entities/LordElgin.md) — British diplomat at the center of Byron's cultural-plunder attack and Hobhouse's preservation counterargument.
 
 ## Concepts
+- [Sola Scriptura and Interpretive Pluralism](concepts/SolaScripturaInterpretivePluralism.md) — Scriptural supremacy empowers institutional challenge while permitting incompatible reform conclusions.
+- [Two Kingdoms Doctrine](concepts/TwoKingdomsDoctrine.md) — Luther's distinction between spiritual Christian freedom and worldly political authority.
+- [Revolutionary Outflanking](concepts/RevolutionaryOutflanking.md) — Followers extend portable movement principles and recast the founder as a conservative obstacle.
+- [Reformation Legacy Ambivalence](concepts/ReformationLegacyAmbivalence.md) — Framework for judging religious innovation, coercion, harmful rhetoric, structural causes, and later appropriation together.
 - [AI Company Product Liability](concepts/AICompanyProductLiability.md) — Baseline that commercial AI developers remain responsible for testing, release decisions, foreseeable harms, and ordinary corporate liability.
 - [Apollo Mission Risk Discipline](concepts/ApolloMissionRiskDiscipline.md) — Staged testing, contingency planning, trained judgment, and next-task focus under extreme mission uncertainty.
 - [Mid-Century Technological Optimism](concepts/MidCenturyTechnologicalOptimism.md) — Qualified belief that public ambition and coordinated engineering could turn difficult imagined futures into working systems.

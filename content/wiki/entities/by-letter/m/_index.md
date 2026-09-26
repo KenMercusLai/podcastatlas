@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 10821
+wiki_total_pages: 10825
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -428,6 +428,9 @@ wiki_pages:
   - key: "MartinLau"
     title: "Martin Lau / 刘炽平"
     url: "/wiki/entities/martinlau/"
+  - key: "MartinLuther"
+    title: "Martin Luther"
+    url: "/wiki/entities/martinluther/"
   - key: "MartinLutherKingJr"
     title: "Martin Luther King Jr."
     url: "/wiki/entities/martinlutherkingjr/"

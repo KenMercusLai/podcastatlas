@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 8189
+wiki_total_pages: 8193
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1157,6 +1157,9 @@ wiki_pages:
   - key: "SoftwareDefinedShipbuilding"
     title: "Software-Defined Shipbuilding"
     url: "/wiki/concepts/softwaredefinedshipbuilding/"
+  - key: "SolaScripturaInterpretivePluralism"
+    title: "Sola Scriptura and Interpretive Pluralism"
+    url: "/wiki/concepts/solascripturainterpretivepluralism/"
   - key: "SolarGeoengineering"
     title: "Solar Geoengineering"
     url: "/wiki/concepts/solargeoengineering/"

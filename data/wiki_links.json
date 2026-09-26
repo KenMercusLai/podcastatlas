@@ -1099,6 +1099,10 @@
     "title": "43.西游记：咄！你是什么妖精！",
     "url": "/wiki/sources/43-xiyouji-duo-ni-shi-shenme-yaojing-618154182/"
   },
+  "437-luther-a-world-torn-apart-part-5-glt3328267667": {
+    "title": "437. Luther: A World Torn Apart (Part 5)",
+    "url": "/wiki/sources/437-luther-a-world-torn-apart-part-5-glt3328267667/"
+  },
   "438-the-moonwalkers-with-tom-hanks-glt1422432857": {
     "title": "438. The Moonwalkers, with Tom Hanks",
     "url": "/wiki/sources/438-the-moonwalkers-with-tom-hanks-glt1422432857/"
@@ -5986,6 +5990,10 @@
   "AndreHeiniger": {
     "title": "Andre Heiniger",
     "url": "/wiki/entities/andreheiniger/"
+  },
+  "AndreasKarlstadt": {
+    "title": "Andreas Karlstadt",
+    "url": "/wiki/entities/andreaskarlstadt/"
   },
   "AndreasVesalius": {
     "title": "Andreas Vesalius / 安德烈亚斯·维萨里",
@@ -27727,6 +27735,10 @@
     "title": "German National Anthem / Das Lied der Deutschen",
     "url": "/wiki/entities/germannationalanthem/"
   },
+  "GermanPeasantsWar": {
+    "title": "German Peasants' War",
+    "url": "/wiki/entities/germanpeasantswar/"
+  },
   "GermanSwissInternationalSchool": {
     "title": "German Swiss International School / 香港德瑞国际学校",
     "url": "/wiki/entities/germanswissinternationalschool/"
@@ -43779,6 +43791,10 @@
     "title": "Martin Lau / 刘炽平",
     "url": "/wiki/entities/martinlau/"
   },
+  "MartinLuther": {
+    "title": "Martin Luther",
+    "url": "/wiki/entities/martinluther/"
+  },
   "MartinLutherKingJr": {
     "title": "Martin Luther King Jr.",
     "url": "/wiki/entities/martinlutherkingjr/"
@@ -56115,6 +56131,10 @@
     "title": "Reform Without Popular Deliberation / 不与民虑始",
     "url": "/wiki/concepts/reformwithoutpopulardeliberation/"
   },
+  "ReformationLegacyAmbivalence": {
+    "title": "Reformation Legacy Ambivalence",
+    "url": "/wiki/concepts/reformationlegacyambivalence/"
+  },
   "RefugeeAidRegistrationGap": {
     "title": "Refugee Aid Registration Gap / 难民登记援助空窗",
     "url": "/wiki/concepts/refugeeaidregistrationgap/"
@@ -56982,6 +57002,10 @@
   "RevolutionaryOperaCulturalMemory": {
     "title": "Revolutionary Opera Cultural Memory",
     "url": "/wiki/concepts/revolutionaryoperaculturalmemory/"
+  },
+  "RevolutionaryOutflanking": {
+    "title": "Revolutionary Outflanking",
+    "url": "/wiki/concepts/revolutionaryoutflanking/"
   },
   "RevolutionaryPopularJustice": {
     "title": "Revolutionary Popular Justice",
@@ -61967,6 +61991,10 @@
     "title": "Sol Price",
     "url": "/wiki/entities/solprice/"
   },
+  "SolaScripturaInterpretivePluralism": {
+    "title": "Sola Scriptura and Interpretive Pluralism",
+    "url": "/wiki/concepts/solascripturainterpretivepluralism/"
+  },
   "SolarGeoengineering": {
     "title": "Solar Geoengineering",
     "url": "/wiki/concepts/solargeoengineering/"
@@ -66707,6 +66735,10 @@
     "title": "Thomas Laffont",
     "url": "/wiki/entities/thomaslaffont/"
   },
+  "ThomasMuntzer": {
+    "title": "Thomas Müntzer",
+    "url": "/wiki/entities/thomasmuntzer/"
+  },
   "ThomasPaine": {
     "title": "Thomas Paine / 托马斯·潘恩",
     "url": "/wiki/entities/thomaspaine/"
@@ -68314,6 +68346,10 @@
   "Twitter": {
     "title": "Twitter / X",
     "url": "/wiki/entities/twitter/"
+  },
+  "TwoKingdomsDoctrine": {
+    "title": "Two Kingdoms Doctrine",
+    "url": "/wiki/concepts/twokingdomsdoctrine/"
   },
   "TwoRatsCourageMaxim": {
     "title": "Two Rats Courage Maxim / 两鼠斗穴勇者胜",

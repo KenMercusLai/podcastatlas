@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 8189
+wiki_total_pages: 8193
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -863,6 +863,9 @@ wiki_pages:
   - key: "TwentyFifthAmendment"
     title: "Twenty-Fifth Amendment"
     url: "/wiki/concepts/twentyfifthamendment/"
+  - key: "TwoKingdomsDoctrine"
+    title: "Two Kingdoms Doctrine"
+    url: "/wiki/concepts/twokingdomsdoctrine/"
   - key: "TwoRatsCourageMaxim"
     title: "Two Rats Courage Maxim / 两鼠斗穴勇者胜"
     url: "/wiki/concepts/tworatscouragemaxim/"

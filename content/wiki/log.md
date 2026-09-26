@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-26] ingest | 437. Luther: A World Torn Apart (Part 5)
+
+Added source `437-luther-a-world-torn-apart-part-5-glt3328267667`; created `MartinLuther`, `ThomasMuntzer`, `AndreasKarlstadt`, `GermanPeasantsWar`, `SolaScripturaInterpretivePluralism`, `TwoKingdomsDoctrine`, `RevolutionaryOutflanking`, and `ReformationLegacyAmbivalence`; and updated the canonical index. Core synthesis: scriptural and Christian-freedom arguments weakened inherited authority but did not determine one reform program, so Karlstadt, Müntzer, and rebel peasants could outflank Luther before his two-kingdoms boundary and reliance on princely order turned him against political revolt. No settled contradiction found. Müntzer's causal importance, Karlstadt's long-range influence, casualty totals, personal motives, and proposed lines to private religion, secularism, atheism, individualism, and later revolutionary politics remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-26] ingest | Anthropic IPO at Risk, Meta's Muse Pop, Token Prices Fall, Open Source Gains Share, Alignment Fails
 
 Added source `all-in-with-chamath-jason-sacks-friedberg-anthropic-ipo-at-risk-metas-muse-pop-token-prices-fall-open-source-g`; created `AnthropicBiologicalResearchLab` and `AICompanyProductLiability`; and updated `ClosedModelAPIMoatPressure`, `MusePersonalAgent`, `AgenticCommerce`, and `AIIPOValuation` from their complete bounded source sets. Core synthesis: falling token prices and stronger open models divide the market between premium frontier workloads and commoditizing routine work; Anthropic's IPO case must absorb capital intensity, customer concentration, disclosure, safety rhetoric, and a short capability lead; and mainstream agents can increase user convenience and price transparency while creating permission, recovery, platform-access, and disintermediation risk. No settled contradiction found. IPO figures, market-share shifts, downloads, political motives, alignment effects, and disruption forecasts remain source-scoped; the biological laboratory is described as a BSL-1/BSL-2 validation facility rather than high-risk pathogen research. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -22766,6 +22770,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-26] ingest | 438. The Moonwalkers, with Tom Hanks
 
 Added source `438-the-moonwalkers-with-tom-hanks-glt1422432857`; created `TomHanks`, `ApolloProgram`, `Apollo11`, `NeilArmstrong`, `BuzzAldrin`, `MichaelCollins`, `ApolloMissionRiskDiscipline`, and `MidCenturyTechnologicalOptimism`; and updated `Moon`, the canonical index, and overview from its complete bounded source set. Core synthesis: Apollo's achievement depended on staged learning, explicit catastrophe planning, trained judgment, and sustained attention to the next solvable task, while the Moon became a scientific, memorial, governance, and future-infrastructure environment. No settled contradiction found. Risk estimates, astronaut motives and dialogue, geology proportions, and future lunar-return timing remain episode-attributed or source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-26] lint | Wiki health check
 

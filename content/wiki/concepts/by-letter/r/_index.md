@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 8189
+wiki_total_pages: 8193
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -245,6 +245,9 @@ wiki_pages:
   - key: "ReformWithoutPopularDeliberation"
     title: "Reform Without Popular Deliberation / 不与民虑始"
     url: "/wiki/concepts/reformwithoutpopulardeliberation/"
+  - key: "ReformationLegacyAmbivalence"
+    title: "Reformation Legacy Ambivalence"
+    url: "/wiki/concepts/reformationlegacyambivalence/"
   - key: "RefugeeAidRegistrationGap"
     title: "Refugee Aid Registration Gap / 难民登记援助空窗"
     url: "/wiki/concepts/refugeeaidregistrationgap/"
@@ -746,6 +749,9 @@ wiki_pages:
   - key: "RevolutionaryOperaCulturalMemory"
     title: "Revolutionary Opera Cultural Memory"
     url: "/wiki/concepts/revolutionaryoperaculturalmemory/"
+  - key: "RevolutionaryOutflanking"
+    title: "Revolutionary Outflanking"
+    url: "/wiki/concepts/revolutionaryoutflanking/"
   - key: "RevolutionaryPopularJustice"
     title: "Revolutionary Popular Justice"
     url: "/wiki/concepts/revolutionarypopularjustice/"
