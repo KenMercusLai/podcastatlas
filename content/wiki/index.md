@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.92中医科｜今冬勿扰 来年身体好｜流感家庭用药、心脑血管防护、饮食｜冬季养生宝典](sources/vol-92-zhongyike-jindong-wurao-lainian-shenti-hao-liugan-jiating-yongyao-xinnaoxueguan-fanghu-yinshi-dongji-yangsheng-baodian-ljvut60fr8kvkmkczra9p7-w7yde.md) — 这病说来话长 episode with 毛哲 on winter routines, temperature changes, food, influenza claims, cardiovascular risk, foot soaking, and constitution-sensitive self-care boundaries.
 - [403. The Mystery of the Pregnant Pope](sources/403-the-mystery-of-the-pregnant-pope-glt1981561492.md) — The Rest Is History episode debunking Pope Joan while tracing the legend through Gregorian reform, papal ritual, gendered clerical authority, and the Guglielma-Maifreda movement.
 - [AMA #14: 2023 Philanthropy, Evening Routine, Light Therapy, Health Metrics & More](sources/ama-14-2023-philanthropy-evening-routine-light-therapy-health-metrics-more-scim2172700344.md) — Huberman Lab premium Q&A on research funding, safe difficulty, circadian light, function-first fitness, sleep-score interpretation, strength goals, MRI tradeoffs, and limb asymmetry.
 - [404. The Nazis in Power: The Night of the Long Knives (Part 1)](sources/404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861584466.md) — The Rest Is History episode on the false SA coup claim, the Röhm purge, SS-police violence, army accommodation, retrospective legality, and Hitler's consolidation of personal rule.
@@ -13895,6 +13896,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kay Tye](entities/KayTye.md) — Neuroscientist connecting emotional-valence circuits to loneliness, social homeostasis, hierarchy, and sustainable scientific leadership.
 
 ## Concepts
+- [TCM Winter Self-Care Boundary / 中医冬季养生边界](concepts/TCMWinterSelfCareBoundary.md) — Separates adaptable winter routines from unvalidated seasonal, diagnostic, food-therapy, medicine, and treatment claims.
 - [Gregorian Reform](concepts/GregorianReform.md) — Medieval program joining clerical discipline, papal independence, cardinal election, and intensified legitimacy concerns.
 - [Legend as Institutional Anxiety](concepts/LegendAsInstitutionalAnxiety.md) — Framework for reading false stories as evidence of real institutional fears, boundaries, and polemical reuse.
 - [Ritual Object Legend Formation](concepts/RitualObjectLegendFormation.md) — Process by which ambiguous ritual objects attract stories that later appear to validate the objects' supposed purpose.

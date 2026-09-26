@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-27] ingest | VOL.92中医科｜今冬勿扰 来年身体好｜流感家庭用药、心脑血管防护、饮食｜冬季养生宝典
+
+Added source `vol-92-zhongyike-jindong-wurao-lainian-shenti-hao-liugan-jiating-yongyao-xinnaoxueguan-fanghu-yinshi-dongji-yangsheng-baodian-ljvut60fr8kvkmkczra9p7-w7yde`; created `TCMWinterSelfCareBoundary`; and updated `MaoZheTCMDoctor`, the canonical index, and overview from the complete bounded source set. Core synthesis: adaptable warmth, moderate activity, tolerable food, and reduced temperature extremes are distinct from unvalidated “winter storage,” yang, qi, blood-stasis, food-therapy, foot-soak, influenza-classification, and treatment claims. No settled contradiction found. Respiratory, cardiovascular, metabolic, circulatory, pregnancy, and persistent symptoms remain qualified-care contexts rather than targets for podcast-guided self-treatment. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
 ## [2026-09-27] ingest | VOL.93消化内科｜有屁不放损害五脏？这几个坏习惯你占几个？便秘和腹泻时这样做！
 
 Added source `vol-93-xiaohuaneike-you-pi-bu-fang-sunhai-wuzang-zhe-jige-huai-xiguan-ni-zhan-jige-bianmi-he-fuxie-shi-zheyang-zuo-lgrsyf6ozplphgjjpcrh7dspc_do`; created `HelicobacterPyloriHouseholdManagement` and `PancreaticImagingFindingTriage`; and updated `JiangYongliang`, `BowelSymptomTriage`, `ColorectalCancerScreening`, the canonical index, and overview from their complete bounded source sets. Core synthesis: digestive symptoms should be compared with a person's baseline and routed by persistence, bleeding, pain, hydration, family history, and imaging context, while household-aware H. pylori management and risk-based colorectal screening support prevention without turning one food, symptom, or report phrase into a diagnosis. No settled contradiction found. Transmission, food-temperature, oral-rehydration, cancer-risk, post-gastrectomy, and pancreatic-imaging claims remain source-scoped public education. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
@@ -23321,6 +23325,10 @@ Added source `404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861
 
 Ran lint. See lint-report.md for details.
 ## [2026-09-27] ingest | AMA #14: 2023 Philanthropy, Evening Routine, Light Therapy, Health Metrics & More
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-27] lint | Wiki health check
 

@@ -9,6 +9,7 @@ sources:
   - vol-103-zhongyike-zhongyi-dafu-jiao-ni-shipuo-chunji-yangsheng-yingxiao-pianju-fang-guomin-chunji-yinshi-zheme-chi-liocs7vqytyxu6y4oaqlwj57h0jp
   - vol-102-zhongyike-zhenxiang-jianfei-jiu-bie-zai-peng-zhexie-zhongyi-jiao-ni-kanqing-zhe-wu-ge-liaofa-li-de-da-huyou-jiushi-ta-lr4crzrbp8ladtcrn7r4hyren-25
   - vol-96-zhongyi-xiaohua-cong-fanhua-baozong-paofan-liao-yangwei-piwei-buhe-cong-paigu-niangao-liao-xiaohua-buliang-lpuafqvhm2jz705x53xahkr3g8ha
+  - vol-92-zhongyike-jindong-wurao-lainian-shenti-hao-liugan-jiating-yongyao-xinnaoxueguan-fanghu-yinshi-dongji-yangsheng-baodian-ljvut60fr8kvkmkczra9p7-w7yde
 last_updated: 2026-09-27
 knowledge_schema: synthesis-v1
 ---
@@ -31,6 +32,8 @@ The weight-management episode extends the same individualization into [[TCMWeigh
 
 The digestive-health episode applies “因时、因地、因人” to pao fan, porridge, rice cake, bloating, meal timing, food temperature, and holiday eating. [[TCMDigestiveSelfCareBoundary]] retains his emphasis on preparation, amount, individual tolerance, and avoiding excess, but treats the episode's regional-climate, starch, spleen-stomach, qi, dampness, atrophic-gastritis, and H. pylori claims as source-scoped. Diabetes, persistent digestive symptoms, diagnosed gastritis, and confirmed infection remain clinical contexts rather than targets for food anecdotes.
 
+The winter-health episode extends this individualized, anti-extreme approach into [[TCMWinterSelfCareBoundary]]. Mao rejects forced heavy sweating, excessive indoor heat, universal tonics, universal foot soaking, and a single preventive formula, while discussing thermal transitions, warm soft food, influenza, cardiovascular risk, cold extremities, throat discomfort, anemia, glucose, and pregnancy. Its “winter storage,” yang, qi, blood stasis, yin deficiency, food-therapy, tea, and syndrome-treatment claims remain source-scoped; concerning symptoms and diagnosed disease exceed seasonal self-care.
+
 ## Key Characteristics
 - Uses “因时、因地、因人” to individualize seasonal and regional interpretations.
 - Classifies allergic symptoms through TCM patterns such as wind-heat, wind-cold, damp accumulation, and deficiency.
@@ -38,7 +41,7 @@ The digestive-health episode applies “因时、因地、因人” to pao fan, 
 - Explicitly treats breathing difficulty as an urgent risk and cautions that deliberate allergen exposure can be painful and unpredictable.
 - Remembers outpatient care longitudinally, including partial symptom improvement, later wellbeing, and patients' deaths.
 - Provides treatment anecdotes whose causal interpretation remains explicitly uncertain.
-- Rejects universal weight-loss, extreme seasonal routines, single “stomach-nourishing” foods, and some premium-product claims while using source-scoped TCM mechanisms to individualize weight, digestion, food, cooling, and self-care claims; persistent digestive symptoms, diagnosed gastric disease, unexplained weight change, severe allergy, heat illness, and prolonged amenorrhea remain escalation points.
+- Rejects universal weight-loss, extreme seasonal routines, single “stomach-nourishing” foods, universal winter tonics, and some premium-product claims while using source-scoped TCM mechanisms to individualize weight, digestion, food, temperature, and self-care; persistent symptoms, diagnosed disease, pregnancy concerns, severe allergy, heat illness, and prolonged amenorrhea remain escalation points.
 
 ## Evidence
 - Explanatory model: [[vol-154-chuntian-yang-dao-naoxin-poju-guomin-jie-de-shengcun-zhinan-lnxaxys733qzi9rkcwvgqt6uzfur]] records his seasonal, climatic, constitutional, and TCM pattern account of allergy.
@@ -49,15 +52,16 @@ The digestive-health episode applies “因时、因地、因人” to pao fan, 
 - Spring routines and marketing: [[vol-103-zhongyike-zhongyi-dafu-jiao-ni-shipuo-chunji-yangsheng-yingxiao-pianju-fang-guomin-chunji-yinshi-zheme-chi-liocs7vqytyxu6y4oaqlwj57h0jp]] records his weather-sensitive routine, allergy, amenorrhea, food, tea, herb, moxibustion, and acupoint claims alongside his rejection of routine 安宫牛黄丸 and premium ingredient hype.
 - Weight-management boundary: [[vol-102-zhongyike-zhenxiang-jianfei-jiu-bie-zai-peng-zhexie-zhongyi-jiao-ni-kanqing-zhe-wu-ge-liaofa-li-de-da-huyou-jiushi-ta-lr4crzrbp8ladtcrn7r4hyren-25]] records his health-before-aesthetics, gradual-change, and treatment-individualization messages alongside source-scoped TCM pattern, food, procedure, and rapid-loss claims.
 - Digestive self-care: [[vol-96-zhongyi-xiaohua-cong-fanhua-baozong-paofan-liao-yangwei-piwei-buhe-cong-paigu-niangao-liao-xiaohua-buliang-lpuafqvhm2jz705x53xahkr3g8ha]] records his preparation-, portion-, region-, and tolerance-sensitive food advice alongside source-scoped spleen-stomach, climate, glucose, gastritis, and H. pylori claims.
+- Winter moderation and limits: [[vol-92-zhongyike-jindong-wurao-lainian-shenti-hao-liugan-jiating-yongyao-xinnaoxueguan-fanghu-yinshi-dongji-yangsheng-baodian-ljvut60fr8kvkmkczra9p7-w7yde]] records his rejection of universal remedies and extremes alongside source-scoped winter-storage, yang, qi, blood-stasis, influenza, food, tea, foot-soak, and treatment claims.
 
 ## Qualifications
-The available sources do not provide an institutional affiliation, formal credential details, clinical evidence review, individualized assessment, dosing, contraindications, or treatment algorithm. The page therefore identifies Mao Zhe only as the episodes' TCM guest and does not treat his recommendations, digestive-disease anecdotes, weight-loss mechanisms, heat-illness mechanism, regional-climate mechanisms, seasonal organ associations, self-diagnostic signs, “发物” lists, broad medicine uses, or remembered outcomes as general medical evidence.
+The available sources do not provide an institutional affiliation, formal credential details, clinical evidence review, individualized assessment, dosing, contraindications, or treatment algorithm. The page therefore identifies Mao Zhe only as the episodes' TCM guest and does not treat his recommendations, digestive-disease anecdotes, weight-loss mechanisms, heat-illness mechanism, regional-climate mechanisms, seasonal organ associations, winter influenza classification, self-diagnostic signs, “发物” lists, broad medicine uses, or remembered outcomes as general medical evidence.
 
 ## What Changed
-- Added Mao's rejection of a universal “stomach-nourishing” food and his attention to preparation, portion, tolerance, and meal timing.
-- Extended the evidence boundary to regional-climate, starch-gelatinization, spleen-stomach, qi, dampness, gastritis, and H. pylori claims.
-- Added diabetes, persistent digestive symptoms, diagnosed gastric disease, and confirmed infection as contexts that exceed casual food advice.
-- Preserved warm or soft food as a preference-sensitive comfort strategy rather than a demonstrated cure.
+- Extended Mao's anti-extremism profile from spring and summer into winter heating, exercise, food, and foot-soaking practices.
+- Preserved his rejection of universal tonics and preventive formulas while qualifying the proposed TCM mechanisms.
+- Added influenza, cardiovascular, metabolic, circulatory, throat, and pregnancy contexts to the profile's escalation boundary.
+- Treated warm or soft food and reduced temperature swings as comfort-oriented practices rather than demonstrated disease prevention or treatment.
 
 ## Relationships
 - [[ZheBingShuoLaiHuaChang]] - podcast in which Mao Zhe appears as a guest.
@@ -75,3 +79,4 @@ The available sources do not provide an institutional affiliation, formal creden
 - [[TCMWeightManagementBoundary]] - bounded weight-management frame derived from Mao's anti-extremism message and qualified TCM claims.
 - [[LifestyleWeightManagement]] - broader evidence-bounded counterpart for sustainable eating, activity, body composition, and maintenance.
 - [[TCMDigestiveSelfCareBoundary]] - bounded digestive-health frame derived from Mao's individualized eating advice and qualified TCM claims.
+- [[TCMWinterSelfCareBoundary]] - bounded winter-health frame derived from Mao's moderation message and qualified seasonal, diagnostic, and treatment claims.

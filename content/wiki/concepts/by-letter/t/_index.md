@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 8332
+wiki_total_pages: 8333
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -194,6 +194,9 @@ wiki_pages:
   - key: "TCMWeightManagementBoundary"
     title: "TCM Weight-Management Boundary / 中医减重边界"
     url: "/wiki/concepts/tcmweightmanagementboundary/"
+  - key: "TCMWinterSelfCareBoundary"
+    title: "TCM Winter Self-Care Boundary / 中医冬季养生边界"
+    url: "/wiki/concepts/tcmwinterselfcareboundary/"
   - key: "TeacherAIAugmentation"
     title: "Teacher AI Augmentation"
     url: "/wiki/concepts/teacheraiaugmentation/"
