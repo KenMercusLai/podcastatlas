@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [426. History's Greatest Monkeys](sources/426-historys-greatest-monkeys-glt5532014348.md) — The Rest Is History on primates as pets, fighters, performers, workers, mascots, political symbols, artistic provocations, and scientific mirrors under persistent source uncertainty.
 - [VOL.103中医科｜中医大夫教你识破春季养生营销骗局 防过敏、春季饮食这么吃](sources/vol-103-zhongyike-zhongyi-dafu-jiao-ni-shipuo-chunji-yangsheng-yingxiao-pianju-fang-guomin-chunji-yinshi-zheme-chi-liocs7vqytyxu6y4oaqlwj57h0jp.md) — 这病说来话长 episode on bounded spring routines, TCM evidence limits, allergy and amenorrhea escalation, and skepticism toward seasonal wellness marketing.
 - [How to Enhance Focus and Improve Productivity | Dr. Cal Newport](sources/how-to-enhance-focus-and-improve-productivity-dr-cal-newport-scim6504498504.md) — Huberman Lab interview on deep work, slow productivity, active recall, task switching, digital minimalism, pseudo-productivity, message-driven collaboration, and workload planning.
 - [VOL.104胸外科｜肺结节是什么？哪种肺结节会发展成肺癌？吐黑水排黑便就是排毒了吗](sources/vol-104-xiongwaike-feijiejie-shishenme-nazhong-feijiejie-huifazhan-cheng-feiai-tu-heishui-pai-heibian-jiushi-paidu-le-ma-ljic0qvysuboyxunoz-espjdvlvj.md) — 这病说来话长 episode on pulmonary-nodule interpretation, surveillance and surgical tradeoffs, false detox attribution, multimodal lung-cancer care, hospital matching, and clinical trust.
@@ -2892,6 +2893,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.106胸外科｜王兴：病人家属问我怎么能够讨好医生｜胸闷、气胸、肺结节问题回答篇](sources/vol-106-xiongwaike-wangxing-bingren-jiashu-wen-wo-zenme-nenggou-taohao-yisheng-lrjqaw3ovznk0zn4-jfj3f2xyvzi.md) — 这病说来话长 listener Q&A on pulmonary-nodule surveillance, chest-symptom attribution, postoperative pain, chest-wall deformity, pneumothorax recurrence, and medical-care boundaries.
 
 ## Entities
+- [Jenny the Orangutan](entities/JennyOrangutan.md) — London Zoo orangutan whose behavior became a notable human-animal continuity case for Charles Darwin.
+- [Jaco Macaco](entities/JacoMacaco.md) — Regency London fighting primate whose disputed biography entered parliamentary animal-welfare debate.
+- [Bubbles the Chimpanzee](entities/BubblesChimpanzee.md) — Celebrity chimpanzee whose path from infant pet to sanctuary exposes the limits of humanized private ownership.
 - [Cal Newport](entities/CalNewport.md) — computer science professor and author connecting attention design, deep work, digital minimalism, and sustainable knowledge-work systems.
 - [John Jacob Astor IV](entities/JohnJacobAstor.md) — Gilded Age millionaire connecting Titanic's first class to New York wealth and luxury hospitality.
 - [W. T. Stead](entities/WTStead.md) — Late-Victorian editor, campaigner, sensationalist, and spiritualist aboard Titanic.
@@ -13769,6 +13773,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lord Elgin](entities/LordElgin.md) — British diplomat at the center of Byron's cultural-plunder attack and Hobhouse's preservation counterargument.
 
 ## Concepts
+- [Human–Primate Mirror](concepts/HumanPrimateMirror.md) — Framework for monkeys and apes as near-human figures in science, art, politics, celebrity, status, and moral projection.
+- [Captive Primate Spectacle](concepts/CaptivePrimateSpectacle.md) — Continuum linking primate pet keeping, blood sport, performance, mascot work, display, and sanctuary transition.
+- [Animal Anecdote Source Uncertainty](concepts/AnimalAnecdoteSourceUncertainty.md) — Method for preserving disputed species, biographies, deaths, motives, and folklore without losing their cultural afterlives.
 - [TCM Spring Self-Care Boundary / 中医春季养生边界](concepts/TCMSpringSelfCareBoundary.md) — Separates adaptable clothing, movement, sleep, food, and exposure routines from unvalidated seasonal TCM diagnosis and treatment claims.
 - [Seasonal Wellness Marketing Boundary / 节气养生营销边界](concepts/SeasonalWellnessMarketingBoundary.md) — Checks emergency-medicine, premium-ingredient, rarity, age, color, packaging, and novelty claims against identity, need, evidence, and safety.
 - [Deep Work Practice](concepts/DeepWorkPractice.md) — protected and trained attention for cognitively demanding learning and valuable output.

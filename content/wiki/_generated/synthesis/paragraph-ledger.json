@@ -733,12 +733,13 @@
       "be97331b4fe91182d6fc3fa934473f4c23b5899f00b06f785aca5aa6d31e921f",
       "fb80aad3fb0f83bb14ebfd51ceb86a6de23a0d1ebcaacbdb106de4eb8a3ab95d",
       "364a6adb5ce615964b1409fc3ac18d1a8f3824ae0603cd456b594fbfea4542d0",
-      "97f8cc77304e41e3885229787f8659d88055623487dd7526205b5b4e510cf1f0"
+      "97f8cc77304e41e3885229787f8659d88055623487dd7526205b5b4e510cf1f0",
+      "f24efd40c0c6afcf9067ba23b759935de70c4697445bc5d55c4633328ece6b74"
     ],
-    "paragraph_count": 733
+    "paragraph_count": 734
   },
-  "overview_commit": "30e2072894dd880d36fac2c0cac038267b71fa4f",
-  "overview_digest": "8889e7738f645a37bed2b9ac7058274afd24456a5ccc2521bb59a09db4458247",
+  "overview_commit": "c0aaab8dad86543b23bb788d9062977fa5e6f08f",
+  "overview_digest": "805480e68d9563f1b37312c9666bb2d7b9772baaa86a6b87dc444aa9110feb75",
   "paragraphs": [
     {
       "id": "ecf59e934a9e2b03f5a6bfe5d9d7de60750480c6a0fafcbbe4a6acb86451f7e3",
@@ -21729,6 +21730,33 @@
         "ThomasAndrews",
         "TitanicPassengerSocialComplexity",
         "WhiteStarLine"
+      ]
+    },
+    {
+      "id": "f24efd40c0c6afcf9067ba23b759935de70c4697445bc5d55c4633328ece6b74",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics",
+        "culture-and-media"
+      ],
+      "text": "The latest addition is [[426-historys-greatest-monkeys-glt5532014348|426. History's Greatest Monkeys]], a [[TheRestIsHistory]] survey of primates as elite pets, fighting animals, performers, celebrity companions, workers, military mascots, civic folklore, artistic provocations, and scientific mirrors. It adds [[JennyOrangutan|Jenny the orangutan]], [[JacoMacaco]], [[BubblesChimpanzee|Bubbles the chimpanzee]], [[HumanPrimateMirror]], [[CaptivePrimateSpectacle]], and [[AnimalAnecdoteSourceUncertainty]], while extending [[CharlesDarwin]]. Its core synthesis is that human-like appearance and behavior make primates unusually effective vehicles for status, comedy, politics, art, and evolutionary comparison, but the same fascination repeatedly subordinates species needs to spectacle and possession. No settled contradiction is recorded; disputed species, origins, injuries, deaths, military affiliations, folklore, dialogue, motives, and causal claims remain episode-attributed or source-scoped, while Hartlepool's later mascot and political afterlife is more secure than the initiating hanging legend.",
+      "topic_scores": {
+        "culture-and-media": 2,
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 1,
+        "science-health-and-climate": 2
+      },
+      "wikilinks": [
+        "426-historys-greatest-monkeys-glt5532014348",
+        "AnimalAnecdoteSourceUncertainty",
+        "BubblesChimpanzee",
+        "CaptivePrimateSpectacle",
+        "CharlesDarwin",
+        "HumanPrimateMirror",
+        "JacoMacaco",
+        "JennyOrangutan",
+        "TheRestIsHistory"
       ]
     }
   ],

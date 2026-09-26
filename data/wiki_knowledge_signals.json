@@ -8977,6 +8977,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/animalabuseviolencelink/"
     },
+    "AnimalAnecdoteSourceUncertainty": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5532014348 [GLT5532014348].md",
+          "key": "426-historys-greatest-monkeys-glt5532014348",
+          "show": "The Rest Is History",
+          "title": "426. History's Greatest Monkeys",
+          "url": "/wiki/sources/426-historys-greatest-monkeys-glt5532014348/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/animalanecdotesourceuncertainty/"
+    },
     "AnimalIntelligenceModes": {
       "episode_count": 3,
       "show_count": 2,
@@ -17611,6 +17627,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/buyanglatehan/"
     },
+    "BubblesChimpanzee": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5532014348 [GLT5532014348].md",
+          "key": "426-historys-greatest-monkeys-glt5532014348",
+          "show": "The Rest Is History",
+          "title": "426. History's Greatest Monkeys",
+          "url": "/wiki/sources/426-historys-greatest-monkeys-glt5532014348/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/bubbleschimpanzee/"
+    },
     "BuddhistSpeechRestraint": {
       "episode_count": 2,
       "show_count": 1,
@@ -20557,6 +20589,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/concepts/capitalizedresearchprocess/"
     },
+    "CaptivePrimateSpectacle": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5532014348 [GLT5532014348].md",
+          "key": "426-historys-greatest-monkeys-glt5532014348",
+          "show": "The Rest Is History",
+          "title": "426. History's Greatest Monkeys",
+          "url": "/wiki/sources/426-historys-greatest-monkeys-glt5532014348/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/captiveprimatespectacle/"
+    },
     "CaptiveSubmissionResidualLoyalty": {
       "episode_count": 3,
       "show_count": 1,
@@ -22067,6 +22115,57 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/entities/charlesalexandredecalonne/"
+    },
+    "CharlesDarwin": {
+      "episode_count": 6,
+      "show_count": 3,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "EP256 AI时代,“自由意志”还存在吗？ [lk9AcI8oqNwerk26JY683NbDddCX].md",
+          "key": "ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx",
+          "show": "Talk三联",
+          "title": "EP256 AI时代，“自由意志”还存在吗？",
+          "url": "/wiki/sources/ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx/"
+        },
+        {
+          "episode_file": "37.智商测试：请问你是智力婆罗门吗？ [608020679].md",
+          "key": "37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679",
+          "show": "蜜獾吃书",
+          "title": "37.智商测试：请问你是智力婆罗门吗？",
+          "url": "/wiki/sources/37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679/"
+        },
+        {
+          "episode_file": "116.不服从的艺术：分享一些实战方法，还有力量 [764416021].md",
+          "key": "116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021",
+          "show": "蜜獾吃书",
+          "title": "116.不服从的艺术：分享一些实战方法，还有力量",
+          "url": "/wiki/sources/116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021/"
+        },
+        {
+          "episode_file": "97.花粉症与人类：从尼安德特人（啊啾！）到空气净化器… [728113059].md",
+          "key": "97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059",
+          "show": "蜜獾吃书",
+          "title": "97.花粉症与人类：从尼安德特人（啊啾！）到空气净化器…",
+          "url": "/wiki/sources/97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059/"
+        },
+        {
+          "episode_file": "68.疯狂实验史：哎！这该死的求知欲… [664384549].md",
+          "key": "68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549",
+          "show": "蜜獾吃书",
+          "title": "68.疯狂实验史：哎！这该死的求知欲…",
+          "url": "/wiki/sources/68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549/"
+        },
+        {
+          "episode_file": "GLT5532014348 [GLT5532014348].md",
+          "key": "426-historys-greatest-monkeys-glt5532014348",
+          "show": "The Rest Is History",
+          "title": "426. History's Greatest Monkeys",
+          "url": "/wiki/sources/426-historys-greatest-monkeys-glt5532014348/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/charlesdarwin/"
     },
     "CharlesDawson": {
       "episode_count": 1,
@@ -68382,6 +68481,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/humanmovementdigitaltwin/"
     },
+    "HumanPrimateMirror": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5532014348 [GLT5532014348].md",
+          "key": "426-historys-greatest-monkeys-glt5532014348",
+          "show": "The Rest Is History",
+          "title": "426. History's Greatest Monkeys",
+          "url": "/wiki/sources/426-historys-greatest-monkeys-glt5532014348/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/humanprimatemirror/"
+    },
     "HumanRobotSafetyCertification": {
       "episode_count": 1,
       "show_count": 1,
@@ -73330,6 +73445,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/entities/jackiefisher/"
     },
+    "JacoMacaco": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5532014348 [GLT5532014348].md",
+          "key": "426-historys-greatest-monkeys-glt5532014348",
+          "show": "The Rest Is History",
+          "title": "426. History's Greatest Monkeys",
+          "url": "/wiki/sources/426-historys-greatest-monkeys-glt5532014348/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/jacomacaco/"
+    },
     "JacobCoxon": {
       "episode_count": 2,
       "show_count": 2,
@@ -74161,6 +74292,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/jenniferking/"
+    },
+    "JennyOrangutan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5532014348 [GLT5532014348].md",
+          "key": "426-historys-greatest-monkeys-glt5532014348",
+          "show": "The Rest Is History",
+          "title": "426. History's Greatest Monkeys",
+          "url": "/wiki/sources/426-historys-greatest-monkeys-glt5532014348/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/jennyorangutan/"
     },
     "JerusalemHymn": {
       "episode_count": 1,

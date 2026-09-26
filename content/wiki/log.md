@@ -22946,3 +22946,11 @@ Added source `vol-103-zhongyike-zhongyi-dafu-jiao-ni-shipuo-chunji-yangsheng-yin
 ## [2026-09-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-26] ingest | 426. History's Greatest Monkeys
+
+Added source `426-historys-greatest-monkeys-glt5532014348`; created `JennyOrangutan`, `JacoMacaco`, `BubblesChimpanzee`, `HumanPrimateMirror`, `CaptivePrimateSpectacle`, and `AnimalAnecdoteSourceUncertainty`; and updated `CharlesDarwin`, the canonical index, and overview from the complete bounded source set. Core synthesis: primate resemblance makes monkeys and apes powerful mirrors for human status, comedy, politics, art, intelligence, and evolutionary continuity, while pet keeping, fighting, performance, military use, and celebrity display repeatedly create welfare costs. No settled contradiction found. Species labels, origins, injuries, deaths, military affiliations, dialogue, motives, folklore, and causal claims remain episode-attributed or source-scoped; Hartlepool's later civic and political afterlife is better documented than the initiating legend. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

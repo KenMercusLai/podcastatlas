@@ -2,34 +2,63 @@
 title: "Charles Darwin / 查尔斯·达尔文"
 type: entity
 tags: [person, science, natural-history, evolution]
-sources: [ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx, 37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679, 116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021, 97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059, 68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549]
-last_updated: 2026-08-07
+sources:
+  - ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx
+  - 37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679
+  - 116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021
+  - 97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059
+  - 68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549
+  - 426-historys-greatest-monkeys-glt5532014348
+last_updated: 2026-09-26
+knowledge_schema: synthesis-v1
 ---
 
 # Charles Darwin / 查尔斯·达尔文
 
-Charles Darwin appears in [[68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549]] through the episode's earthworm experiments. The source highlights his tests of whether earthworms could see, distinguish color, hear music, or respond to vibration, including the comic image of playing music and bassoon for worms.
+## Overview
 
-In the episode, Darwin's earthworms are a counterweight to the more horrific medical and public-spectacle cases. The experiments look funny, but they still model [[ObservationBeforeInference]]: ask a precise question, vary stimuli, and separate hearing from vibration rather than infer from human intuition.
+Charles Darwin is represented across the wiki as an evolutionist, experimental naturalist, scientific dissenter, influence on later hereditarian thought, and observer of continuity between humans and other animals.
 
-[[97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059]] adds a second, lighter Darwin connection through [[CharlesHarrisonBlackley]]. The hay-fever episode says Darwin noticed and encouraged Blackley's pollen experiments, placing Darwin in the background of another evidence-discipline story where careful exposure tests made [[HayFeverEnvironmentalHistory|hay fever]] medically legible.
+## Current Profile
 
-[[116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021]] adds Darwin as a [[PrincipledDisobedience|principled disobedience]] strategy case. The episode contrasts earlier evolution-adjacent dissenters who paid heavier costs with Darwin's ability to build credibility before confrontation, write accessibly, choose timing, and rely on allies, making scientific dissent a problem of communication and social trust as well as evidence.
+The sources present Darwin less through one complete biography than through several modes of inquiry. His earthworm experiments ask narrow sensory questions and separate hearing from vibration; his encouragement of Charles Harrison Blackley's pollen work supports careful exposure and measurement; and his encounters with [[JennyOrangutan|Jenny the orangutan]] use emotion, jealousy, tools, and mirror response to test the human-animal boundary.
 
-[[37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679]] adds Darwin as the boundary figure behind [[FrancisGalton|Francis Galton / 弗朗西斯·高尔顿]]'s hereditarian turn. The source says Darwin's evolutionary theory deeply affected Galton, while also distinguishing Darwin's caution from later [[SocialDarwinism|social Darwinist]] uses of evolution to justify class, race, intelligence, and reproductive hierarchy.
+Darwin also functions as a public-strategy case. The principled-disobedience source emphasizes credibility, timing, accessible prose, and allies in making evolutionary dissent travel. The intelligence-testing source then draws an important boundary: Darwin influenced [[FrancisGalton]]'s hereditarian turn, but Darwin's caution should not be collapsed into later [[SocialDarwinism|social-Darwinist]] policy. The free-will source places evolution in a still broader shift toward [[BiologicalAgency]], evolved meaning, and embodied action.
 
-[[ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx]] adds Darwin as the biological turn in the wiki's free-will branch. [[TuMotuo|土摩托]] uses evolutionary life science to move beyond a purely physical determinism frame, asking how living organisms develop [[BiologicalAgency|agency]], [[MeaningAsEvolvedFunction|meaning]], and body-grounded orientation toward action.
+## Key Characteristics
 
-## Connections
-- [[68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549]] - source episode.
-- [[97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059]] - hay-fever source where Darwin encourages Blackley's work.
-- [[116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021]] - disobedience source that uses Darwin as a strategic dissent case.
-- [[37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679]] - intelligence-testing source that distinguishes Darwin from later social-Darwinist policy.
-- [[FreeWill]], [[BiologicalAgency]], and [[MeaningAsEvolvedFunction]] - EP256's biology-of-agency branch.
-- [[CharlesHarrisonBlackley]] - pollen self-experimenter noticed by Darwin in the source.
-- [[FrancisGalton]] and [[SocialDarwinism]] - episode 37's heredity and social-policy branch.
-- [[ObservationBeforeInference]] - method value of testing a small question.
-- [[ExperimentalScienceEthics]] - broader context of using living subjects for knowledge.
-- [[AnimalExperimentEthics]] - lower-intensity but still animal-subject experimentation.
-- [[ScientificSelfCorrection]] - careful experiment narrows interpretation.
-- [[InsiderDissentStrategy]] - credibility, timing, and ally-building frame added by the disobedience source.
+- Experimental naturalist who tested precise behavioral questions before inference.
+- Observer of cross-species continuity in worms, orangutans, and evolutionary life.
+- Strategic scientific dissenter who joined evidence to communication, timing, credibility, and allies.
+- Background influence on heredity debates whose own claims remain distinct from later eugenic and social-Darwinist uses.
+- Boundary figure connecting evolution to agency, embodiment, meaning, and the human-animal relationship.
+
+## Evidence
+
+- Experimental observation - [[68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549]] uses earthworm tests to model precise questions, varied stimuli, and correction.
+- Pollen research support - [[97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059]] places Darwin behind Blackley's evidence-disciplined self-experiments.
+- Human-ape continuity - [[426-historys-greatest-monkeys-glt5532014348]] follows Darwin's 1838 encounters with Jenny and his attention to emotional and cognitive behavior.
+- Dissent strategy - [[116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021]] presents credibility, accessible writing, timing, and allies as part of Darwin's success.
+- Heredity boundary - [[37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679]] links Darwin to Galton while distinguishing evolutionary theory from later social sorting.
+- Agency and embodiment - [[ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx]] uses Darwinian evolution in a move from mechanical determinism toward life-grounded agency and meaning.
+
+## Qualifications
+
+These sources use selected episodes from Darwin's life to support broader arguments; they do not constitute a full account of his science, correspondence, colonial setting, moral views, or intellectual development. Jenny's significance is interpreted through a narrative-history episode, and claims about direct causal influence on Darwin's later work remain source-scoped. Distinguishing Darwin from later social Darwinism does not settle every historical debate about heredity, race, hierarchy, or the uses of evolution.
+
+## What Changed
+
+- Added Darwin's observations of Jenny as a human-ape continuity case.
+- Reorganized five earlier source-specific portraits into one bounded synthesis.
+- Preserved the distinction between evolutionary influence and later social-Darwinist policy.
+
+## Relationships
+
+- [[JennyOrangutan]] - observed ape whose behavior sharpened Darwin's human-animal comparison.
+- [[HumanPrimateMirror]] - framework linking primate resemblance to evolutionary inference and projection risk.
+- [[ObservationBeforeInference]] - shared method across earthworm, pollen, and orangutan cases.
+- [[BiologicalAgency]] - evolutionary route from mechanical causation toward purposive living action.
+- [[FrancisGalton]] - hereditarian thinker influenced by Darwin but not interchangeable with him.
+- [[SocialDarwinism]] - later social-policy branch that the sources distinguish from Darwin's caution.
+- [[InsiderDissentStrategy]] - communication and credibility framework applied to Darwin's public dissent.
+- [[AnimalExperimentEthics]] - ethical neighbor to Darwin's animal observation and experimentation.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8234
+wiki_total_pages: 8237
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -218,6 +218,9 @@ wiki_pages:
   - key: "CaptiveAnimalCareLabor"
     title: "Captive Animal Care Labor / 圈养动物照护劳动"
     url: "/wiki/concepts/captiveanimalcarelabor/"
+  - key: "CaptivePrimateSpectacle"
+    title: "Captive Primate Spectacle"
+    url: "/wiki/concepts/captiveprimatespectacle/"
   - key: "CaptiveSubmissionResidualLoyalty"
     title: "Captive Submission with Residual Loyalty / 被俘归顺与旧主忠义"
     url: "/wiki/concepts/captivesubmissionresidualloyalty/"

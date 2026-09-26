@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 8234
+wiki_total_pages: 8237
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1862,6 +1862,9 @@ wiki_pages:
   - key: "AnimalAbuseViolenceLink"
     title: "Animal Abuse Violence Link"
     url: "/wiki/concepts/animalabuseviolencelink/"
+  - key: "AnimalAnecdoteSourceUncertainty"
+    title: "Animal Anecdote Source Uncertainty"
+    url: "/wiki/concepts/animalanecdotesourceuncertainty/"
   - key: "AnimalElectricityDebate"
     title: "Animal Electricity Debate / 动物电争论"
     url: "/wiki/concepts/animalelectricitydebate/"

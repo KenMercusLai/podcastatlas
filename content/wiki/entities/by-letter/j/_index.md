@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 10862
+wiki_total_pages: 10865
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -53,6 +53,9 @@ wiki_pages:
   - key: "JackieRobinson"
     title: "Jackie Robinson"
     url: "/wiki/entities/jackierobinson/"
+  - key: "JacoMacaco"
+    title: "Jaco Macaco"
+    url: "/wiki/entities/jacomacaco/"
   - key: "JacobBarber"
     title: "Jacob Barber"
     url: "/wiki/entities/jacobbarber/"
@@ -377,6 +380,9 @@ wiki_pages:
   - key: "JenniferKing"
     title: "Jennifer King"
     url: "/wiki/entities/jenniferking/"
+  - key: "JennyOrangutan"
+    title: "Jenny the Orangutan"
+    url: "/wiki/entities/jennyorangutan/"
   - key: "JensSpahn"
     title: "Jens Spahn"
     url: "/wiki/entities/jensspahn/"
