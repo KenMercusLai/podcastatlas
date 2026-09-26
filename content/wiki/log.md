@@ -23010,3 +23010,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | Protocols for Excellent Parenting & Improving Relationships of All Kinds | Dr. Becky Kennedy
+
+Added source `protocols-for-excellent-parenting-improving-relationships-of-all-kinds-dr-becky-kennedy-scim7905596498`; created `BeckyKennedy`, `GoodInside`, `ParentingSturdiness`, `BoundaryEmpathyParenting`, and `FrustrationToleranceLearningSpace`; and updated `ParentalRepairAfterHarm` and `AdolescentAutonomyScaffolding` from their complete bounded source sets. Core synthesis: sturdy parenting combines adult-owned limits with belief in the child's inner experience; repair names adult responsibility without recruiting the child for reassurance; manageable frustration builds learning capacity; and adolescents need continued connection plus decisive safety intervention when functioning narrows. No settled contradiction found. Reward-system critiques, “deeply feeling kids,” neurodivergence overlap, dopamine mechanisms, trauma definitions, and performer generalizations remain source-scoped public psychoeducation rather than universal developmental or clinical claims. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

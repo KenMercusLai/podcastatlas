@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 8254
+wiki_total_pages: 8257
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -575,6 +575,9 @@ wiki_pages:
   - key: "BoundarylessKindnessTrap"
     title: "Boundaryless Kindness Trap / 无边界善良陷阱"
     url: "/wiki/concepts/boundarylesskindnesstrap/"
+  - key: "BoundaryEmpathyParenting"
+    title: "Boundary–Empathy Parenting"
+    url: "/wiki/concepts/boundaryempathyparenting/"
   - key: "BoundedSpeculativeOptionality"
     title: "Bounded Speculative Optionality / 有边界的彩票仓位"
     url: "/wiki/concepts/boundedspeculativeoptionality/"

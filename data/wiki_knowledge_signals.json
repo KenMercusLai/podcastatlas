@@ -5210,9 +5210,9 @@
       "url": "/wiki/concepts/administrativerenamingoverreach/"
     },
     "AdolescentAutonomyScaffolding": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM9155116429 [SCIM9155116429].md",
@@ -5220,9 +5220,16 @@
           "show": "Huberman Lab",
           "title": "Vaping, Alcohol Use & Other Risky Youth Behaviors | Dr. Bonnie Halpern-Felsher",
           "url": "/wiki/sources/vaping-alcohol-use-other-risky-youth-behaviors-dr-bonnie-halpern-felsher-scim9155116429/"
+        },
+        {
+          "episode_file": "SCIM7905596498 [SCIM7905596498].md",
+          "key": "protocols-for-excellent-parenting-improving-relationships-of-all-kinds-dr-becky-kennedy-scim7905596498",
+          "show": "Huberman Lab",
+          "title": "Protocols for Excellent Parenting & Improving Relationships of All Kinds | Dr. Becky Kennedy",
+          "url": "/wiki/sources/protocols-for-excellent-parenting-improving-relationships-of-all-kinds-dr-becky-kennedy-scim7905596498/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/adolescentautonomyscaffolding/"
     },
     "AdolescentDigitalSensitivePeriod": {
@@ -14429,6 +14436,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/beckweathers/"
     },
+    "BeckyKennedy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7905596498 [SCIM7905596498].md",
+          "key": "protocols-for-excellent-parenting-improving-relationships-of-all-kinds-dr-becky-kennedy-scim7905596498",
+          "show": "Huberman Lab",
+          "title": "Protocols for Excellent Parenting & Improving Relationships of All Kinds | Dr. Becky Kennedy",
+          "url": "/wiki/sources/protocols-for-excellent-parenting-improving-relationships-of-all-kinds-dr-becky-kennedy-scim7905596498/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/beckykennedy/"
+    },
     "BedBasedSleepSensing": {
       "episode_count": 2,
       "show_count": 2,
@@ -16527,6 +16550,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/concepts/boudiccanrevolt/"
+    },
+    "BoundaryEmpathyParenting": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7905596498 [SCIM7905596498].md",
+          "key": "protocols-for-excellent-parenting-improving-relationships-of-all-kinds-dr-becky-kennedy-scim7905596498",
+          "show": "Huberman Lab",
+          "title": "Protocols for Excellent Parenting & Improving Relationships of All Kinds | Dr. Becky Kennedy",
+          "url": "/wiki/sources/protocols-for-excellent-parenting-improving-relationships-of-all-kinds-dr-becky-kennedy-scim7905596498/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/boundaryempathyparenting/"
     },
     "BoundarylessKindnessTrap": {
       "episode_count": 7,
@@ -53380,6 +53419,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/frugalimperialburialrestraint/"
     },
+    "FrustrationToleranceLearningSpace": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7905596498 [SCIM7905596498].md",
+          "key": "protocols-for-excellent-parenting-improving-relationships-of-all-kinds-dr-becky-kennedy-scim7905596498",
+          "show": "Huberman Lab",
+          "title": "Protocols for Excellent Parenting & Improving Relationships of All Kinds | Dr. Becky Kennedy",
+          "url": "/wiki/sources/protocols-for-excellent-parenting-improving-relationships-of-all-kinds-dr-becky-kennedy-scim7905596498/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/frustrationtolerancelearningspace/"
+    },
     "FuGan": {
       "episode_count": 2,
       "show_count": 1,
@@ -58281,6 +58336,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/goodfriendsfilm/"
+    },
+    "GoodInside": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7905596498 [SCIM7905596498].md",
+          "key": "protocols-for-excellent-parenting-improving-relationships-of-all-kinds-dr-becky-kennedy-scim7905596498",
+          "show": "Huberman Lab",
+          "title": "Protocols for Excellent Parenting & Improving Relationships of All Kinds | Dr. Becky Kennedy",
+          "url": "/wiki/sources/protocols-for-excellent-parenting-improving-relationships-of-all-kinds-dr-becky-kennedy-scim7905596498/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/goodinside/"
     },
     "GoodLifeAsHappyTogether": {
       "episode_count": 1,
@@ -106913,9 +106984,9 @@
       "url": "/wiki/concepts/parentalprojectioncontrol/"
     },
     "ParentalRepairAfterHarm": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》891丨高段位的母亲，是家的定海神针 [lmqKzsNhTIWc9wZcee869Kuu57M5].md",
@@ -106923,10 +106994,33 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》891丨高段位的母亲，是家的定海神针",
           "url": "/wiki/sources/zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5/"
+        },
+        {
+          "episode_file": "SCIM7905596498 [SCIM7905596498].md",
+          "key": "protocols-for-excellent-parenting-improving-relationships-of-all-kinds-dr-becky-kennedy-scim7905596498",
+          "show": "Huberman Lab",
+          "title": "Protocols for Excellent Parenting & Improving Relationships of All Kinds | Dr. Becky Kennedy",
+          "url": "/wiki/sources/protocols-for-excellent-parenting-improving-relationships-of-all-kinds-dr-becky-kennedy-scim7905596498/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/parentalrepairafterharm/"
+    },
+    "ParentingSturdiness": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7905596498 [SCIM7905596498].md",
+          "key": "protocols-for-excellent-parenting-improving-relationships-of-all-kinds-dr-becky-kennedy-scim7905596498",
+          "show": "Huberman Lab",
+          "title": "Protocols for Excellent Parenting & Improving Relationships of All Kinds | Dr. Becky Kennedy",
+          "url": "/wiki/sources/protocols-for-excellent-parenting-improving-relationships-of-all-kinds-dr-becky-kennedy-scim7905596498/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/parentingsturdiness/"
     },
     "Paris": {
       "episode_count": 1,

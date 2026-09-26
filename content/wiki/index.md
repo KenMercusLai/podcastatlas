@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Protocols for Excellent Parenting & Improving Relationships of All Kinds | Dr. Becky Kennedy](sources/protocols-for-excellent-parenting-improving-relationships-of-all-kinds-dr-becky-kennedy-scim7905596498.md) — Huberman Lab interview on sturdy parenting, action-based boundaries, validation, repair, frustration tolerance, adolescent connection, and safety intervention.
 - [VOL.100百期特别策划：聊了99期后才敢还原医院里这些刺激的真实事件！](sources/vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt.md) — 这病说来话长 roundtable on operating-room privacy, anesthesia and ICU recovery, perioperative pain control, MRI object screening, and gastrointestinal foreign-body safety.
 - [424. Carthage vs. Rome: Total War (Part 4)](sources/424-carthage-vs-rome-total-war-part-4-glt9312780357.md) — The Rest Is History on the First Punic War, Roman naval adaptation and persistence, Carthaginian fiscal pressure, the Mercenary War, Sardinia, and Hamilcar's turn to Spain.
 - [AMA #16: Sleep, Vertigo, TBI, OCD, Tips for Travelers, Gut-Brain Axis & More](sources/ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965.md) — Huberman Lab subscriber AMA on contextual sleep assessment, travel clock-shifting, vertigo, brain-injury and OCD boundaries, NSDR, biomarkers, gut health, and oral care.
@@ -2900,6 +2901,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.106胸外科｜王兴：病人家属问我怎么能够讨好医生｜胸闷、气胸、肺结节问题回答篇](sources/vol-106-xiongwaike-wangxing-bingren-jiashu-wen-wo-zenme-nenggou-taohao-yisheng-lrjqaw3ovznk0zn4-jfj3f2xyvzi.md) — 这病说来话长 listener Q&A on pulmonary-nodule surveillance, chest-symptom attribution, postoperative pain, chest-wall deformity, pneumothorax recurrence, and medical-care boundaries.
 
 ## Entities
+- [Becky Kennedy](entities/BeckyKennedy.md) — Clinical psychologist and Good Inside founder connecting sturdy leadership, boundaries, validation, repair, and frustration tolerance.
+- [Good Inside](entities/GoodInside.md) — Parenting platform and identity-without-excusing-behavior framework founded by Becky Kennedy.
 - [Cadbury](entities/Cadbury.md) — British chocolate company connecting Quaker enterprise, branding, Bournville welfare, and mass consumption.
 - [John Cadbury](entities/JohnCadbury.md) — Quaker founder of Cadbury's 1824 Birmingham shop and 1831 factory.
 - [Bournville](entities/Bournville.md) — Cadbury factory site and model village combining housing and welfare with employer-shaped culture.
@@ -13786,6 +13789,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lord Elgin](entities/LordElgin.md) — British diplomat at the center of Byron's cultural-plunder attack and Hobhouse's preservation counterargument.
 
 ## Concepts
+- [Parenting Sturdiness](concepts/ParentingSturdiness.md) — Adult capacity to retain values, responsibility, warmth, and connection during a child's distress or opposition.
+- [Boundary–Empathy Parenting](concepts/BoundaryEmpathyParenting.md) — Parenting model pairing adult-enforced limits with validation that does not transfer decision authority to emotion.
+- [Frustration-Tolerance Learning Space](concepts/FrustrationToleranceLearningSpace.md) — Manageable interval between inability or disappointment and adaptation where learning and resilience develop.
 - [Perioperative Pain Control / 围手术期疼痛控制](concepts/PerioperativePainControl.md) — patient-reported, anticipatory, monitored analgesia and agency around procedures.
 - [Gastrointestinal Foreign Body Escalation / 消化道异物升级处置](concepts/GastrointestinalForeignBodyEscalation.md) — prevention and timely-care boundary for swallowed and rectally retained objects.
 - [First Punic War / 第一次布匿战争](concepts/FirstPunicWar.md) — Roman-Carthaginian war synthesized through Sicilian escalation, naval learning, attrition, finance, manpower, and political endurance.
