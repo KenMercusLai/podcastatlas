@@ -4395,9 +4395,9 @@
       "url": "/wiki/concepts/ableistcurepressure/"
     },
     "AbnormalFindingFollowupContinuity": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "luCD43f_M0X0fDW09zM6iSzatgtB [luCD43f_M0X0fDW09zM6iSzatgtB].md",
@@ -4412,9 +4412,16 @@
           "show": "这病说来话长",
           "title": "VOL.135直面体检｜医生们带你看懂报告里的惊悚指标",
           "url": "/wiki/sources/vol-135-zhimian-tijian-yishengmen-dai-ni-kandong-baogao-li-de-jingsong-zhibiao-lmjlyxmiy2v2r0f8rxttabkkawk9/"
+        },
+        {
+          "episode_file": "lrjqaW3ovZNk0zN4-jfJ3F2XyVZI [lrjqaW3ovZNk0zN4-jfJ3F2XyVZI].md",
+          "key": "vol-106-xiongwaike-wangxing-bingren-jiashu-wen-wo-zenme-nenggou-taohao-yisheng-lrjqaw3ovznk0zn4-jfj3f2xyvzi",
+          "show": "这病说来话长",
+          "title": "VOL.106胸外科｜王兴：病人家属问我怎么能够讨好医生｜胸闷、气胸、肺结节问题回答篇",
+          "url": "/wiki/sources/vol-106-xiongwaike-wangxing-bingren-jiashu-wen-wo-zenme-nenggou-taohao-yisheng-lrjqaw3ovznk0zn4-jfj3f2xyvzi/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-26",
       "url": "/wiki/concepts/abnormalfindingfollowupcontinuity/"
     },
     "AbolitionistPublicWitness": {
@@ -36794,9 +36801,9 @@
       "url": "/wiki/concepts/distributedlocalresilience/"
     },
     "DoctorPatientCommunication": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 3,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "EP274 如何找到适合自己的“更年期答案”？ [li2BP1rTITdNVc04rMIZyfg1tXfH].md",
@@ -36839,6 +36846,13 @@
           "show": "这病说来话长",
           "title": "VOL.110善终是为了更好的活着！生老病死，6位医生视角怎么看？｜世界读书日",
           "url": "/wiki/sources/vol-110-shanzhong-shi-weile-genghao-de-huozhe-shenglaobingsi-6-wei-yisheng-shijiao-zenme-kan-shijie-dushuri-lklwhndplyk73rpqxuraocs4cii5/"
+        },
+        {
+          "episode_file": "lrjqaW3ovZNk0zN4-jfJ3F2XyVZI [lrjqaW3ovZNk0zN4-jfJ3F2XyVZI].md",
+          "key": "vol-106-xiongwaike-wangxing-bingren-jiashu-wen-wo-zenme-nenggou-taohao-yisheng-lrjqaw3ovznk0zn4-jfj3f2xyvzi",
+          "show": "这病说来话长",
+          "title": "VOL.106胸外科｜王兴：病人家属问我怎么能够讨好医生｜胸闷、气胸、肺结节问题回答篇",
+          "url": "/wiki/sources/vol-106-xiongwaike-wangxing-bingren-jiashu-wen-wo-zenme-nenggou-taohao-yisheng-lrjqaw3ovznk0zn4-jfj3f2xyvzi/"
         }
       ],
       "updated": "2026-09-26",
@@ -113524,6 +113538,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/pueryunnan/"
     },
+    "PulmonaryNoduleSurveillance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lrjqaW3ovZNk0zN4-jfJ3F2XyVZI [lrjqaW3ovZNk0zN4-jfJ3F2XyVZI].md",
+          "key": "vol-106-xiongwaike-wangxing-bingren-jiashu-wen-wo-zenme-nenggou-taohao-yisheng-lrjqaw3ovznk0zn4-jfj3f2xyvzi",
+          "show": "这病说来话长",
+          "title": "VOL.106胸外科｜王兴：病人家属问我怎么能够讨好医生｜胸闷、气胸、肺结节问题回答篇",
+          "url": "/wiki/sources/vol-106-xiongwaike-wangxing-bingren-jiashu-wen-wo-zenme-nenggou-taohao-yisheng-lrjqaw3ovznk0zn4-jfj3f2xyvzi/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/pulmonarynodulesurveillance/"
+    },
     "Puma": {
       "episode_count": 2,
       "show_count": 2,
@@ -130207,6 +130237,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/spoilsproofdemoralization/"
     },
+    "SpontaneousPneumothoraxRiskAndRecurrence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lrjqaW3ovZNk0zN4-jfJ3F2XyVZI [lrjqaW3ovZNk0zN4-jfJ3F2XyVZI].md",
+          "key": "vol-106-xiongwaike-wangxing-bingren-jiashu-wen-wo-zenme-nenggou-taohao-yisheng-lrjqaw3ovznk0zn4-jfj3f2xyvzi",
+          "show": "这病说来话长",
+          "title": "VOL.106胸外科｜王兴：病人家属问我怎么能够讨好医生｜胸闷、气胸、肺结节问题回答篇",
+          "url": "/wiki/sources/vol-106-xiongwaike-wangxing-bingren-jiashu-wen-wo-zenme-nenggou-taohao-yisheng-lrjqaw3ovznk0zn4-jfj3f2xyvzi/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/spontaneouspneumothoraxriskandrecurrence/"
+    },
     "SportAsReconciliationRitual": {
       "episode_count": 1,
       "show_count": 1,
@@ -146073,9 +146119,9 @@
       "url": "/wiki/entities/wangxiaowei/"
     },
     "WangXingDoctor": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "70.医生，你在想什么：少看百度，以及吃药时别吃西柚啊 [668238394].md",
@@ -146090,6 +146136,13 @@
           "show": "这病说来话长",
           "title": "VOL.110善终是为了更好的活着！生老病死，6位医生视角怎么看？｜世界读书日",
           "url": "/wiki/sources/vol-110-shanzhong-shi-weile-genghao-de-huozhe-shenglaobingsi-6-wei-yisheng-shijiao-zenme-kan-shijie-dushuri-lklwhndplyk73rpqxuraocs4cii5/"
+        },
+        {
+          "episode_file": "lrjqaW3ovZNk0zN4-jfJ3F2XyVZI [lrjqaW3ovZNk0zN4-jfJ3F2XyVZI].md",
+          "key": "vol-106-xiongwaike-wangxing-bingren-jiashu-wen-wo-zenme-nenggou-taohao-yisheng-lrjqaw3ovznk0zn4-jfj3f2xyvzi",
+          "show": "这病说来话长",
+          "title": "VOL.106胸外科｜王兴：病人家属问我怎么能够讨好医生｜胸闷、气胸、肺结节问题回答篇",
+          "url": "/wiki/sources/vol-106-xiongwaike-wangxing-bingren-jiashu-wen-wo-zenme-nenggou-taohao-yisheng-lrjqaw3ovznk0zn4-jfj3f2xyvzi/"
         }
       ],
       "updated": "2026-09-26",

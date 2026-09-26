@@ -22822,3 +22822,11 @@ Added source `434-luther-the-revolution-begins-part-2-glt4080973410`; created `J
 ## [2026-09-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-26] ingest | VOL.106胸外科｜王兴：病人家属问我怎么能够讨好医生｜胸闷、气胸、肺结节问题回答篇
+
+Added source `vol-106-xiongwaike-wangxing-bingren-jiashu-wen-wo-zenme-nenggou-taohao-yisheng-lrjqaw3ovznk0zn4-jfj3f2xyvzi`; created `PulmonaryNoduleSurveillance` and `SpontaneousPneumothoraxRiskAndRecurrence`; and updated `WangXingDoctor`, `DoctorPatientCommunication`, `AbnormalFindingFollowupContinuity`, the canonical index, and overview from their complete bounded source sets. Core synthesis: small pulmonary nodules are interpreted through comparable longitudinal imaging rather than single-measurement panic or automatic symptom attribution, while recurrent pneumothorax changes the assessment without making one past episode a universal activity ban. No settled contradiction found. Size thresholds, natural-history claims, scan intervals, symptom exclusions, postoperative pain course, chest-wall correction, pneumothorax mechanism, exercise advice, surgical indications, and workforce forecasts remain source-scoped public education rather than individualized guidance. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

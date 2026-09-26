@@ -54495,6 +54495,10 @@
     "title": "Pulley",
     "url": "/wiki/entities/pulley/"
   },
+  "PulmonaryNoduleSurveillance": {
+    "title": "肺结节随访 / Pulmonary Nodule Surveillance",
+    "url": "/wiki/concepts/pulmonarynodulesurveillance/"
+  },
   "Puma": {
     "title": "Puma",
     "url": "/wiki/entities/puma/"
@@ -62662,6 +62666,10 @@
   "SpontaneousGenerationLifeOrigin": {
     "title": "Spontaneous Generation As Life-Origin Frame / 自然发生论作为生命起源框架",
     "url": "/wiki/concepts/spontaneousgenerationlifeorigin/"
+  },
+  "SpontaneousPneumothoraxRiskAndRecurrence": {
+    "title": "自发性气胸风险与复发 / Spontaneous Pneumothorax Risk and Recurrence",
+    "url": "/wiki/concepts/spontaneouspneumothoraxriskandrecurrence/"
   },
   "SportAsReconciliationRitual": {
     "title": "Sport as Reconciliation Ritual",
@@ -82358,6 +82366,10 @@
   "vol-106-dibai-zhende-biandi-shi-huangjin-lpxchutxf7yomjdfykwzvvnmbaq8": {
     "title": "vol.106.迪拜，真的遍地是黄金？",
     "url": "/wiki/sources/vol-106-dibai-zhende-biandi-shi-huangjin-lpxchutxf7yomjdfykwzvvnmbaq8/"
+  },
+  "vol-106-xiongwaike-wangxing-bingren-jiashu-wen-wo-zenme-nenggou-taohao-yisheng-lrjqaw3ovznk0zn4-jfj3f2xyvzi": {
+    "title": "VOL.106胸外科｜王兴：病人家属问我怎么能够讨好医生｜胸闷、气胸、肺结节问题回答篇",
+    "url": "/wiki/sources/vol-106-xiongwaike-wangxing-bingren-jiashu-wen-wo-zenme-nenggou-taohao-yisheng-lrjqaw3ovznk0zn4-jfj3f2xyvzi/"
   },
   "vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa": {
     "title": "vol.107.85后提问95后：如果事情不需要做选择，那我就装尸体旁观",

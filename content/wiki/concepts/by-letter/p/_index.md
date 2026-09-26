@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8203
+wiki_total_pages: 8205
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2249,6 +2249,9 @@ wiki_pages:
   - key: "PostUsurpationRoyalHouseContainment"
     title: "篡位后旧皇族收束 / Post-Usurpation Royal House Containment"
     url: "/wiki/concepts/postusurpationroyalhousecontainment/"
+  - key: "PulmonaryNoduleSurveillance"
+    title: "肺结节随访 / Pulmonary Nodule Surveillance"
+    url: "/wiki/concepts/pulmonarynodulesurveillance/"
   - key: "PostVictoryAmnestySignal"
     title: "胜后既往不咎信号 / Post-Victory Amnesty Signal"
     url: "/wiki/concepts/postvictoryamnestysignal/"

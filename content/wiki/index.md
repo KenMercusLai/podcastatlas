@@ -2875,6 +2875,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [450. Custer's Last Stand: Death in the Black Hills (Part 5)](sources/450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770.md) — The Rest Is History episode on Custer's pre-Little Bighorn career, Yellowstone fighting, Black Hills gold publicity, failed land-sale talks, and the road toward war.
 - [Protocols to Strengthen & Pain Proof Your Back](sources/protocols-to-strengthen-pain-proof-your-back-scim8264963647.md) — Huberman Lab solo episode on mechanism-sensitive back care, the McGill Big Three, whole-body support, movement awareness, and clinical escalation boundaries.
 
+- [VOL.106胸外科｜王兴：病人家属问我怎么能够讨好医生｜胸闷、气胸、肺结节问题回答篇](sources/vol-106-xiongwaike-wangxing-bingren-jiashu-wen-wo-zenme-nenggou-taohao-yisheng-lrjqaw3ovznk0zn4-jfj3f2xyvzi.md) — 这病说来话长 listener Q&A on pulmonary-nodule surveillance, chest-symptom attribution, postoperative pain, chest-wall deformity, pneumothorax recurrence, and medical-care boundaries.
+
 ## Entities
 - [Johann von Staupitz](entities/JohannVonStaupitz.md) — Augustinian confessor who redirected Luther's spiritual crisis toward doctoral study and public theology.
 - [Johann Tetzel](entities/JohannTetzel.md) — Dominican indulgence preacher whose 1517 campaign became Luther's immediate public target.
@@ -21942,5 +21944,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Beauty as Mythic Power](concepts/BeautyAsMythicPower.md) — Framework for exceptional beauty acting through loyalty, prudence, punishment, and public violence inside mythic narrative.
 - [Mythic and Material War Causation](concepts/MythicAndMaterialWarCausation.md) — Contrast between symbolic explanations of war and accounts centered on power, resources, institutions, and political choice.
 - [Gut Sensory Neural Signaling](concepts/GutSensoryNeuralSignaling.md) — Rapid conversion of digestive chemical, thermal, and mechanical conditions into vagal and brainstem signals alongside slower endocrine communication.
+
+- [肺结节随访 / Pulmonary Nodule Surveillance](concepts/PulmonaryNoduleSurveillance.md) — Longitudinal frame for comparable imaging, measurement variation, symptom attribution, and qualified escalation of lung nodules.
+- [自发性气胸风险与复发 / Spontaneous Pneumothorax Risk and Recurrence](concepts/SpontaneousPneumothoraxRiskAndRecurrence.md) — Thoracic-care frame for predisposition, activity boundaries, recurrent episodes, and surgery assessment.
 
 ## Syntheses
