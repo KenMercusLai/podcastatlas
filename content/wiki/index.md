@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.97呼吸科｜今冬流感、肺炎这么“猛”？我咋整？｜儿童支原体肺炎总不好？有后遗症吗？](sources/vol-97-huxike-jindong-liugan-feiyan-zheme-meng-wo-zazheng-ertong-zhiyuanti-feiyan-zong-buhao-you-houyizheng-ma-liz9rdhhqkbxpktg1gd2z2sb2klq.md) — 这病说来话长 episode on respiratory symptom triage, pneumonia and imaging interpretation, pediatric mycoplasma escalation, antibiotic stewardship, care-setting choice, and household prevention.
 - [411. The Man in the Iron Mask](sources/411-the-man-in-the-iron-mask-glt3787137343.md) — The Rest Is History on the masked prisoner's documentary trail, Eustache Degé identification, rejected royal theories, and the myth-generating effects of state secrecy.
 - [Journal Club with Dr. Peter Attia | Effects of Light & Dark on Mental Health & Treatments for Cancer](sources/journal-club-with-dr-peter-attia-effects-of-light-dark-on-mental-health-treatments-for-cancer-scim9183043757.md) — Huberman Lab Journal Club on day-night light exposure and psychiatric outcomes, observational-study limits, cancer immune recognition, CTLA-4 blockade, survival, and autoimmune toxicity.
 - [412. Romans in Space: Star Wars, Dune and Beyond...](sources/412-romans-in-space-star-wars-dune-and-beyond-glt3832078172.md) — The Rest Is History on Roman political memory across Star Wars, Foundation, Dune, Star Trek, and The Hunger Games, with a guardrail against one-to-one allegory.
@@ -2922,6 +2923,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tools to Enhance Working Memory & Attention](sources/tools-to-enhance-working-memory-attention-scim1948560111.md) — Huberman Lab solo episode on active working memory, sequencing, distractor control, task switching, baseline-dependent dopamine effects, and evidence-bounded behavioral, supplement, and prescription tools.
 
 ## Entities
+- [张宇涵 / Zhang Yuhan (Respiratory Physician)](entities/ZhangYuhanRespiratoryDoctor.md) — Source-scoped respiratory physician explaining symptom patterns, pneumonia interpretation, pediatric mycoplasma care, and antibiotic boundaries.
+- [上海交通大学医学院附属瑞金医院 / Ruijin Hospital](entities/RuijinHospital.md) — Hospital affiliation attributed to Zhang Yuhan in the VOL.97 respiratory-health episode.
 - [Eustache Degé](entities/EustacheDege.md) — Valet and state prisoner identified by the episode as the strongest candidate for the Man in the Iron Mask.
 - [Bénigne Dauvergne de Saint-Mars](entities/SaintMars.md) — Royal jailer whose successive commands connect the masked prisoner's documentary trail.
 - [Louis XIV](entities/LouisXIV.md) — French monarch whose absolutist prison system forms the political setting of the iron-mask case.
@@ -13845,6 +13848,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kay Tye](entities/KayTye.md) — Neuroscientist connecting emotional-valence circuits to loneliness, social homeostasis, hierarchy, and sustainable scientific leadership.
 
 ## Concepts
+- [呼吸道症状分诊 / Respiratory Symptom Triage](concepts/RespiratorySymptomTriage.md) — Pattern-based respiratory assessment that separates symptoms and imaging labels from diagnosis and escalation.
+- [儿童支原体肺炎照护边界 / Pediatric Mycoplasma Pneumonia Care Boundary](concepts/PediatricMycoplasmaPneumoniaCareBoundary.md) — Pediatric severity, follow-up, treatment, testing, and antibiotic-stewardship boundary.
 - [Secrecy-Driven Historical Myth](concepts/SecrecyDrivenHistoricalMyth.md) — Feedback loop in which conspicuous concealment signals importance, invites conjecture, and lets later stories fill archival gaps.
 - [Day-Night Light and Mental Health](concepts/DayNightLightMentalHealth.md) — Observational framework separating morning and evening timing cues, bright daytime exposure, nighttime darkness, psychiatric associations, and causal limits.
 - [Immune Checkpoint Inhibition](concepts/ImmuneCheckpointInhibition.md) — T-cell brake-release strategy joining CTLA-4 blockade, overall-survival benefit, response limits, and autoimmune toxicity.

@@ -9717,6 +9717,29 @@
       "updated": "2026-09-25",
       "url": "/wiki/concepts/antihypertensivemedicationadherence/"
     },
+    "AntimicrobialResistance": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "I, robot？ AI and consciousness [6a880840b0d5e24ea40c7015].md",
+          "key": "i-robot-ai-and-consciousness-6a880840b0d5e24ea40c7015",
+          "show": "Economist Podcasts",
+          "title": "I, robot? AI and consciousness",
+          "url": "/wiki/sources/i-robot-ai-and-consciousness-6a880840b0d5e24ea40c7015/"
+        },
+        {
+          "episode_file": "liz9RDhHqKBXPKtG1gD2z2Sb2klq [liz9RDhHqKBXPKtG1gD2z2Sb2klq].md",
+          "key": "vol-97-huxike-jindong-liugan-feiyan-zheme-meng-wo-zazheng-ertong-zhiyuanti-feiyan-zong-buhao-you-houyizheng-ma-liz9rdhhqkbxpktg1gd2z2sb2klq",
+          "show": "这病说来话长",
+          "title": "VOL.97呼吸科｜今冬流感、肺炎这么“猛”？我咋整？｜儿童支原体肺炎总不好？有后遗症吗？",
+          "url": "/wiki/sources/vol-97-huxike-jindong-liugan-feiyan-zheme-meng-wo-zazheng-ertong-zhiyuanti-feiyan-zong-buhao-you-houyizheng-ma-liz9rdhhqkbxpktg1gd2z2sb2klq/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/antimicrobialresistance/"
+    },
     "AntisemitismIsraelCriticismBoundary": {
       "episode_count": 1,
       "show_count": 1,
@@ -67247,9 +67270,9 @@
       "url": "/wiki/concepts/hospicecare/"
     },
     "HospitalCapabilityPatientComplexityMatching": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ljiC0qvYSuboYxunoz-ESPJDVLvj [ljiC0qvYSuboYxunoz-ESPJDVLvj].md",
@@ -67257,9 +67280,16 @@
           "show": "这病说来话长",
           "title": "VOL.104胸外科｜肺结节是什么？哪种肺结节会发展成肺癌？吐黑水排黑便就是排毒了吗",
           "url": "/wiki/sources/vol-104-xiongwaike-feijiejie-shishenme-nazhong-feijiejie-huifazhan-cheng-feiai-tu-heishui-pai-heibian-jiushi-paidu-le-ma-ljic0qvysuboyxunoz-espjdvlvj/"
+        },
+        {
+          "episode_file": "liz9RDhHqKBXPKtG1gD2z2Sb2klq [liz9RDhHqKBXPKtG1gD2z2Sb2klq].md",
+          "key": "vol-97-huxike-jindong-liugan-feiyan-zheme-meng-wo-zazheng-ertong-zhiyuanti-feiyan-zong-buhao-you-houyizheng-ma-liz9rdhhqkbxpktg1gd2z2sb2klq",
+          "show": "这病说来话长",
+          "title": "VOL.97呼吸科｜今冬流感、肺炎这么“猛”？我咋整？｜儿童支原体肺炎总不好？有后遗症吗？",
+          "url": "/wiki/sources/vol-97-huxike-jindong-liugan-feiyan-zheme-meng-wo-zazheng-ertong-zhiyuanti-feiyan-zong-buhao-you-houyizheng-ma-liz9rdhhqkbxpktg1gd2z2sb2klq/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/hospitalcapabilitypatientcomplexitymatching/"
     },
     "HostCountryManufacturingBacklash": {
@@ -81900,9 +81930,9 @@
       "url": "/wiki/concepts/layeredlocalelitedemobilization/"
     },
     "LayeredRespiratoryInfectionPrevention": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM4509990462 [SCIM4509990462].md",
@@ -81910,9 +81940,16 @@
           "show": "Huberman Lab",
           "title": "How to Enhance Your Immune System | Dr. Roger Seheult",
           "url": "/wiki/sources/how-to-enhance-your-immune-system-dr-roger-seheult-scim4509990462/"
+        },
+        {
+          "episode_file": "liz9RDhHqKBXPKtG1gD2z2Sb2klq [liz9RDhHqKBXPKtG1gD2z2Sb2klq].md",
+          "key": "vol-97-huxike-jindong-liugan-feiyan-zheme-meng-wo-zazheng-ertong-zhiyuanti-feiyan-zong-buhao-you-houyizheng-ma-liz9rdhhqkbxpktg1gd2z2sb2klq",
+          "show": "这病说来话长",
+          "title": "VOL.97呼吸科｜今冬流感、肺炎这么“猛”？我咋整？｜儿童支原体肺炎总不好？有后遗症吗？",
+          "url": "/wiki/sources/vol-97-huxike-jindong-liugan-feiyan-zheme-meng-wo-zazheng-ertong-zhiyuanti-feiyan-zong-buhao-you-houyizheng-ma-liz9rdhhqkbxpktg1gd2z2sb2klq/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/layeredrespiratoryinfectionprevention/"
     },
     "LayneNorton": {
@@ -95875,9 +95912,9 @@
       "url": "/wiki/concepts/medicalcreatorplatformpressure/"
     },
     "MedicalDiagnosticReasoning": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "70.医生，你在想什么：少看百度，以及吃药时别吃西柚啊 [668238394].md",
@@ -95899,9 +95936,16 @@
           "show": "这病说来话长",
           "title": "VOL.139当代打工人体检指南：如何选项目？如何避坑？报告怎么看？公立医院医生来支招",
           "url": "/wiki/sources/vol-139-dangdai-dagongren-tijian-zhinan-ruhe-xuan-xiangmu-ruhe-bikeng-baogao-zenme-kan-gongli-yiyuan-yisheng-lai-zhizhao-lucd43f_m0x0fdw09zm6iszatgtb/"
+        },
+        {
+          "episode_file": "liz9RDhHqKBXPKtG1gD2z2Sb2klq [liz9RDhHqKBXPKtG1gD2z2Sb2klq].md",
+          "key": "vol-97-huxike-jindong-liugan-feiyan-zheme-meng-wo-zazheng-ertong-zhiyuanti-feiyan-zong-buhao-you-houyizheng-ma-liz9rdhhqkbxpktg1gd2z2sb2klq",
+          "show": "这病说来话长",
+          "title": "VOL.97呼吸科｜今冬流感、肺炎这么“猛”？我咋整？｜儿童支原体肺炎总不好？有后遗症吗？",
+          "url": "/wiki/sources/vol-97-huxike-jindong-liugan-feiyan-zheme-meng-wo-zazheng-ertong-zhiyuanti-feiyan-zong-buhao-you-houyizheng-ma-liz9rdhhqkbxpktg1gd2z2sb2klq/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/medicaldiagnosticreasoning/"
     },
     "MedicalDogmaTrustRepair": {
@@ -108946,9 +108990,9 @@
       "url": "/wiki/entities/peasantsrevolt1381/"
     },
     "PediatricFeverHomeCareTriage": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ljLYg0KUQvUJ2R89K6O5HHUeFJt9 [ljLYg0KUQvUJ2R89K6O5HHUeFJt9].md",
@@ -108956,9 +109000,16 @@
           "show": "这病说来话长",
           "title": "VOL.115冇满分父母，你做60分已不易 13位医生10学科出招身心性健康教育攻略｜儿童节专题",
           "url": "/wiki/sources/vol-115-mao-manfen-fumu-ni-zuo-60-fen-yi-buyi-13-wei-yisheng-10-xueke-chuzhao-shenxinxing-jiankang-jiaoyu-gonglue-ertongjie-zhuanti-ljlyg0kuqvuj2r89k6o5hhuefjt9/"
+        },
+        {
+          "episode_file": "liz9RDhHqKBXPKtG1gD2z2Sb2klq [liz9RDhHqKBXPKtG1gD2z2Sb2klq].md",
+          "key": "vol-97-huxike-jindong-liugan-feiyan-zheme-meng-wo-zazheng-ertong-zhiyuanti-feiyan-zong-buhao-you-houyizheng-ma-liz9rdhhqkbxpktg1gd2z2sb2klq",
+          "show": "这病说来话长",
+          "title": "VOL.97呼吸科｜今冬流感、肺炎这么“猛”？我咋整？｜儿童支原体肺炎总不好？有后遗症吗？",
+          "url": "/wiki/sources/vol-97-huxike-jindong-liugan-feiyan-zheme-meng-wo-zazheng-ertong-zhiyuanti-feiyan-zong-buhao-you-houyizheng-ma-liz9rdhhqkbxpktg1gd2z2sb2klq/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/pediatricfeverhomecaretriage/"
     },
     "PediatricLanguageDelayEarlyIntervention": {
@@ -108976,6 +109027,22 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/concepts/pediatriclanguagedelayearlyintervention/"
+    },
+    "PediatricMycoplasmaPneumoniaCareBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "liz9RDhHqKBXPKtG1gD2z2Sb2klq [liz9RDhHqKBXPKtG1gD2z2Sb2klq].md",
+          "key": "vol-97-huxike-jindong-liugan-feiyan-zheme-meng-wo-zazheng-ertong-zhiyuanti-feiyan-zong-buhao-you-houyizheng-ma-liz9rdhhqkbxpktg1gd2z2sb2klq",
+          "show": "这病说来话长",
+          "title": "VOL.97呼吸科｜今冬流感、肺炎这么“猛”？我咋整？｜儿童支原体肺炎总不好？有后遗症吗？",
+          "url": "/wiki/sources/vol-97-huxike-jindong-liugan-feiyan-zheme-meng-wo-zazheng-ertong-zhiyuanti-feiyan-zong-buhao-you-houyizheng-ma-liz9rdhhqkbxpktg1gd2z2sb2klq/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/pediatricmycoplasmapneumoniacareboundary/"
     },
     "PediatricMyopiaControl": {
       "episode_count": 3,
@@ -120609,6 +120676,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/concepts/respectbasedconflictdeescalation/"
     },
+    "RespiratorySymptomTriage": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "liz9RDhHqKBXPKtG1gD2z2Sb2klq [liz9RDhHqKBXPKtG1gD2z2Sb2klq].md",
+          "key": "vol-97-huxike-jindong-liugan-feiyan-zheme-meng-wo-zazheng-ertong-zhiyuanti-feiyan-zong-buhao-you-houyizheng-ma-liz9rdhhqkbxpktg1gd2z2sb2klq",
+          "show": "这病说来话长",
+          "title": "VOL.97呼吸科｜今冬流感、肺炎这么“猛”？我咋整？｜儿童支原体肺炎总不好？有后遗症吗？",
+          "url": "/wiki/sources/vol-97-huxike-jindong-liugan-feiyan-zheme-meng-wo-zazheng-ertong-zhiyuanti-feiyan-zong-buhao-you-houyizheng-ma-liz9rdhhqkbxpktg1gd2z2sb2klq/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/respiratorysymptomtriage/"
+    },
     "ResponsibilityBoundRiskAvoidance": {
       "episode_count": 1,
       "show_count": 1,
@@ -123699,6 +123782,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/rugbyworldcup1995/"
+    },
+    "RuijinHospital": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "liz9RDhHqKBXPKtG1gD2z2Sb2klq [liz9RDhHqKBXPKtG1gD2z2Sb2klq].md",
+          "key": "vol-97-huxike-jindong-liugan-feiyan-zheme-meng-wo-zazheng-ertong-zhiyuanti-feiyan-zong-buhao-you-houyizheng-ma-liz9rdhhqkbxpktg1gd2z2sb2klq",
+          "show": "这病说来话长",
+          "title": "VOL.97呼吸科｜今冬流感、肺炎这么“猛”？我咋整？｜儿童支原体肺炎总不好？有后遗症吗？",
+          "url": "/wiki/sources/vol-97-huxike-jindong-liugan-feiyan-zheme-meng-wo-zazheng-ertong-zhiyuanti-feiyan-zong-buhao-you-houyizheng-ma-liz9rdhhqkbxpktg1gd2z2sb2klq/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/ruijinhospital/"
     },
     "RuleOverKinshipPower": {
       "episode_count": 4,
@@ -163245,6 +163344,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/zhangyuwesternhan/"
+    },
+    "ZhangYuhanRespiratoryDoctor": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "liz9RDhHqKBXPKtG1gD2z2Sb2klq [liz9RDhHqKBXPKtG1gD2z2Sb2klq].md",
+          "key": "vol-97-huxike-jindong-liugan-feiyan-zheme-meng-wo-zazheng-ertong-zhiyuanti-feiyan-zong-buhao-you-houyizheng-ma-liz9rdhhqkbxpktg1gd2z2sb2klq",
+          "show": "这病说来话长",
+          "title": "VOL.97呼吸科｜今冬流感、肺炎这么“猛”？我咋整？｜儿童支原体肺炎总不好？有后遗症吗？",
+          "url": "/wiki/sources/vol-97-huxike-jindong-liugan-feiyan-zheme-meng-wo-zazheng-ertong-zhiyuanti-feiyan-zong-buhao-you-houyizheng-ma-liz9rdhhqkbxpktg1gd2z2sb2klq/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/zhangyuhanrespiratorydoctor/"
     },
     "ZhangYuhanSportsMedicine": {
       "episode_count": 1,

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8302
+wiki_total_pages: 8304
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2123,6 +2123,9 @@ wiki_pages:
   - key: "PalaceConstructionFeeExtraction"
     title: "修宫钱转嫁盘剥 / Palace Construction Fee Extraction"
     url: "/wiki/concepts/palaceconstructionfeeextraction/"
+  - key: "PediatricMycoplasmaPneumoniaCareBoundary"
+    title: "儿童支原体肺炎照护边界 / Pediatric Mycoplasma Pneumonia Care Boundary"
+    url: "/wiki/concepts/pediatricmycoplasmapneumoniacareboundary/"
   - key: "PartyProhibitionKinshipExpansion"
     title: "党锢亲属牵连扩大 / Party Prohibition Kinship Expansion"
     url: "/wiki/concepts/partyprohibitionkinshipexpansion/"

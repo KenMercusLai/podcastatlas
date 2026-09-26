@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 10908
+wiki_total_pages: 10910
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -701,6 +701,9 @@ wiki_pages:
   - key: "ZhangNingPonyAI"
     title: "张宁 / Zhang Ning (Pony.ai)"
     url: "/wiki/entities/zhangningponyai/"
+  - key: "ZhangYuhanRespiratoryDoctor"
+    title: "张宇涵 / Zhang Yuhan (Respiratory Physician)"
+    url: "/wiki/entities/zhangyuhanrespiratorydoctor/"
   - key: "ZhangAnshiWesternHan"
     title: "张安世 / Zhang Anshi (Western Han)"
     url: "/wiki/entities/zhanganshiwesternhan/"

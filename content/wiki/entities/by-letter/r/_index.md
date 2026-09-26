@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 10908
+wiki_total_pages: 10910
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -875,6 +875,9 @@ wiki_pages:
   - key: "ReEnteringLifeTechEraBook"
     title: "《重新回到生活：科技时代的工作、情绪、爱情和死亡》"
     url: "/wiki/entities/reenteringlifetecherabook/"
+  - key: "RuijinHospital"
+    title: "上海交通大学医学院附属瑞金医院 / Ruijin Hospital"
+    url: "/wiki/entities/ruijinhospital/"
   - key: "RedCrownedCrane"
     title: "丹顶鹤 / Red-crowned Crane"
     url: "/wiki/entities/redcrownedcrane/"

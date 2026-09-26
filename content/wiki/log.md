@@ -23188,3 +23188,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | VOL.97呼吸科｜今冬流感、肺炎这么“猛”？我咋整？｜儿童支原体肺炎总不好？有后遗症吗？
+
+Added source `vol-97-huxike-jindong-liugan-feiyan-zheme-meng-wo-zazheng-ertong-zhiyuanti-feiyan-zong-buhao-you-houyizheng-ma-liz9rdhhqkbxpktg1gd2z2sb2klq`; created `ZhangYuhanRespiratoryDoctor`, `RuijinHospital`, `RespiratorySymptomTriage`, and `PediatricMycoplasmaPneumoniaCareBoundary`; and updated `MedicalDiagnosticReasoning`, `PediatricFeverHomeCareTriage`, `HospitalCapabilityPatientComplexityMatching`, `LayeredRespiratoryInfectionPrevention`, `AntimicrobialResistance`, the canonical index, and overview from their complete bounded source sets. Core synthesis: respiratory symptoms and imaging labels require multi-input interpretation; pediatric mycoplasma illness should be routed by severity and functional change; and antibiotic stewardship, capable care settings, and layered prevention matter alongside pathogen-specific treatment. No settled contradiction found. Beta-lactam ineffectiveness against wall-less mycoplasmas is preserved, while macrolide selection and resistance, home testing, steroid indications and duration, imaging thresholds, and department age rules remain source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

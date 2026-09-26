@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 8302
+wiki_total_pages: 8304
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -1169,6 +1169,9 @@ wiki_pages:
   - key: "RulerWillAsLaw"
     title: "君意即法 / Ruler Will as Law"
     url: "/wiki/concepts/rulerwillaslaw/"
+  - key: "RespiratorySymptomTriage"
+    title: "呼吸道症状分诊 / Respiratory Symptom Triage"
+    url: "/wiki/concepts/respiratorysymptomtriage/"
   - key: "RoyalKinshipScandalAdjudication"
     title: "宗室亲属丑闻审理 / Royal Kinship Scandal Adjudication"
     url: "/wiki/concepts/royalkinshipscandaladjudication/"
