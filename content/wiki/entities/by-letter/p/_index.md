@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 10892
+wiki_total_pages: 10897
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -251,6 +251,9 @@ wiki_pages:
   - key: "PeakAI"
     title: "Peak AI"
     url: "/wiki/entities/peakai/"
+  - key: "PeasantsRevolt1381"
+    title: "Peasants’ Revolt of 1381"
+    url: "/wiki/entities/peasantsrevolt1381/"
   - key: "Pebble"
     title: "Pebble"
     url: "/wiki/entities/pebble/"

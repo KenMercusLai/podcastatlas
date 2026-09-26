@@ -1087,6 +1087,10 @@
     "title": "41.施剑翘复仇案：超越哈贝马斯的情与法",
     "url": "/wiki/sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038/"
   },
+  "414-the-peasants-revolt-londons-burning-part-2-glt6726049231": {
+    "title": "414. The Peasants’ Revolt: London’s Burning (Part 2)",
+    "url": "/wiki/sources/414-the-peasants-revolt-londons-burning-part-2-glt6726049231/"
+  },
   "415-the-murder-of-richard-ii-part-3-glt6435684837": {
     "title": "415. The Murder of Richard II (Part 3)",
     "url": "/wiki/sources/415-the-murder-of-richard-ii-part-3-glt6435684837/"
@@ -36695,6 +36699,10 @@
     "title": "John Adams",
     "url": "/wiki/entities/johnadams/"
   },
+  "JohnBall": {
+    "title": "John Ball",
+    "url": "/wiki/entities/johnball/"
+  },
   "JohnBogle": {
     "title": "John Bogle",
     "url": "/wiki/entities/johnbogle/"
@@ -51515,6 +51523,10 @@
     "title": "Pearl River Delta Manufacturing Transformation / 珠三角制造业变迁",
     "url": "/wiki/concepts/pearlriverdeltamanufacturingtransformation/"
   },
+  "PeasantsRevolt1381": {
+    "title": "Peasants’ Revolt of 1381",
+    "url": "/wiki/entities/peasantsrevolt1381/"
+  },
   "Pebble": {
     "title": "Pebble",
     "url": "/wiki/entities/pebble/"
@@ -53015,6 +53027,10 @@
     "title": "Political Propaganda Backfire / 政治宣传反噬",
     "url": "/wiki/concepts/politicalpropagandabackfire/"
   },
+  "PoliticalRecordDestruction": {
+    "title": "Political Record Destruction",
+    "url": "/wiki/concepts/politicalrecorddestruction/"
+  },
   "PoliticalRegulatoryLeverage": {
     "title": "Political Regulatory Leverage",
     "url": "/wiki/concepts/politicalregulatoryleverage/"
@@ -53134,6 +53150,10 @@
   "PopularNPDDiscourse": {
     "title": "Popular NPD Discourse / 大众NPD话语",
     "url": "/wiki/concepts/popularnpddiscourse/"
+  },
+  "PopularRevoltCoalition": {
+    "title": "Popular Revolt Coalition",
+    "url": "/wiki/concepts/popularrevoltcoalition/"
   },
   "PopularSufferingGovernanceDiagnostic": {
     "title": "民困治理诊断 / Popular Suffering Governance Diagnostic",
@@ -56434,6 +56454,10 @@
   "RebelMandateManufacture": {
     "title": "Rebel Mandate Manufacture / 起义天命制造",
     "url": "/wiki/concepts/rebelmandatemanufacture/"
+  },
+  "RebelRoyalism": {
+    "title": "Rebel Royalism",
+    "url": "/wiki/concepts/rebelroyalism/"
   },
   "RebellionJustifiedPowerExpansion": {
     "title": "以叛乱反证加权 / Rebellion-Justified Power Expansion",
@@ -61842,6 +61866,10 @@
   "SimonLordOfTheFlies": {
     "title": "Simon / 西蒙（《蝇王》）",
     "url": "/wiki/entities/simonlordoftheflies/"
+  },
+  "SimonSudbury": {
+    "title": "Simon Sudbury",
+    "url": "/wiki/entities/simonsudbury/"
   },
   "SimoneDeBeauvoir": {
     "title": "Simone de Beauvoir / 西蒙娜·德·波伏娃",
@@ -71695,6 +71723,10 @@
     "title": "Wassenaar Arrangement / 瓦森纳安排",
     "url": "/wiki/entities/wassenaararrangement/"
   },
+  "WatTyler": {
+    "title": "Wat Tyler",
+    "url": "/wiki/entities/wattyler/"
+  },
   "Watchmen": {
     "title": "《守望者》 / Watchmen",
     "url": "/wiki/entities/watchmen/"
@@ -72750,6 +72782,10 @@
   "WilliamTheConqueror": {
     "title": "William the Conqueror",
     "url": "/wiki/entities/williamtheconqueror/"
+  },
+  "WilliamWalworth": {
+    "title": "William Walworth",
+    "url": "/wiki/entities/williamwalworth/"
   },
   "WillieWhitelaw": {
     "title": "Willie Whitelaw",

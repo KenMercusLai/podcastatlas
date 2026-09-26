@@ -8,6 +8,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Sources
 - [AMA #15: Fluoride Benefits/Risks & Vagus Nerve Stimulation](sources/ama-15-fluoride-benefits-risks-vagus-nerve-stimulation-scim9500186850.md) — Huberman Lab subscriber AMA on fluoride's anticaries mechanism, dose and exposure, water-policy tradeoffs, filtration choices, and wider oral-health boundaries.
 - [VOL.99八学科联合｜春节健康带回家 给咱不听劝的爸妈 「震惊」家族群的养生干货｜饮食、护理、打鼾、心梗、卒中、消化等](sources/vol-99-ba-xueke-lianhe-chunjie-jiankang-dai-huijia-gei-zan-bu-tingquan-de-bama-zhenjing-jiazuqun-de-yangsheng-ganhuo-yinshi-huli-dahan-xingeng-zuzhong-xiaohua-deng-lrvlx1wbukf4g2pbsem4cbzqbuqz.md) — 这病说来话长 multidisciplinary episode on older-adult home care, falls, emergency warning signs, pancreatitis, sleep apnea, oral care, and holiday nutrition.
+- [414. The Peasants’ Revolt: London’s Burning (Part 2)](sources/414-the-peasants-revolt-londons-burning-part-2-glt6726049231.md) — The Rest Is History on the 1381 rebels in London, royalist radicalism, targeted destruction, Wat Tyler’s death, Richard II’s intervention, and the revolt’s mixed legacy.
 - [415. The Murder of Richard II (Part 3)](sources/415-the-murder-of-richard-ii-part-3-glt6435684837.md) — The Rest Is History episode on Richard II's sacred kingship, the Lords Appellant, coercive personal rule, deposition, and the Lancastrian legitimacy crisis.
 - [416. The Canterbury Tales (Part 4)](sources/416-the-canterbury-tales-part-4-glt1956280616.md) — The Rest Is History on Chaucer, plague-era mobility, pilgrimage, hierarchy, the Wife of Bath, and English vernacular literary legitimacy.
 - [417. Britain in 1974: State of Emergency (Part 1)](sources/417-britain-in-1974-state-of-emergency-part-1-glt6761791949.md) — The Rest Is History on Heath's technocratic government, incomes policy, the oil shock, miners' leverage, and the three-day week before the February election.
@@ -2915,6 +2916,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Biology of Social Interactions and Emotions | Dr. Kay Tye](sources/the-biology-of-social-interactions-and-emotions-dr-kay-tye-scim4105255786.md) — Huberman Lab interview on amygdala valence, social homeostasis, contact synchrony, hierarchy, experiential priors, and sustainable scientific life.
 
 ## Entities
+- [Peasants’ Revolt of 1381](entities/PeasantsRevolt1381.md) — Royalist and socially radical English rising whose London climax joined anti-serfdom demands, documentary destruction, coalition violence, and royal crisis management.
+- [Wat Tyler](entities/WatTyler.md) — Rebel leader whose expanded Smithfield demands and death precipitated the London revolt’s decisive crisis.
+- [John Ball](entities/JohnBall.md) — Radical preacher associated with the revolt’s egalitarian and anticlerical currents.
+- [Simon Sudbury](entities/SimonSudbury.md) — Archbishop and chancellor executed as a symbol of ecclesiastical, governmental, and documentary power.
+- [William Walworth](entities/WilliamWalworth.md) — London mayor who struck Wat Tyler and helped mobilize the coercive suppression of the rising.
 - [Geoffrey Chaucer](entities/GeoffreyChaucer.md) — Medieval poet, diplomat, royal servant, and customs official whose work records a changing 14th-century social world.
 - [The Canterbury Tales](entities/TheCanterburyTales.md) — Chaucer's multi-voiced pilgrimage collection, read as hierarchy-disrupting literature and qualified social evidence.
 - [Wife of Bath](entities/WifeOfBath.md) — Chaucerian clothmaker and pilgrim whose prologue and tale connect wealth, marriage, abuse, and female sovereignty.
@@ -13822,6 +13828,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kay Tye](entities/KayTye.md) — Neuroscientist connecting emotional-valence circuits to loneliness, social homeostasis, hierarchy, and sustainable scientific leadership.
 
 ## Concepts
+- [Rebel Royalism](concepts/RebelRoyalism.md) — Insurgent loyalty to a monarch combined with violent rejection of ministers, lords, and institutional intermediaries.
+- [Political Record Destruction](concepts/PoliticalRecordDestruction.md) — Deliberate attack on documents because they operationalize status, debt, property, jurisdiction, and privilege.
+- [Popular Revolt Coalition](concepts/PopularRevoltCoalition.md) — Temporary alignment of heterogeneous actors around shared targets without a single ideology or preferred outcome.
 - [Older-Adult Home-Care Safety / 老年居家照护安全](concepts/OlderAdultHomeCareSafety.md) — Function-matched household care linking dignity, medication, feeding, skin, mobility, cognition, and escalation.
 - [Older-Adult Fall Prevention / 老年人跌倒预防](concepts/OlderAdultFallPrevention.md) — Layered fall-risk reduction across history, medicines, environment, transfers, strength, assistance, and post-fall assessment.
 - [Acute Pancreatitis Emergency Escalation / 急性胰腺炎急症升级](concepts/AcutePancreatitisEmergencyEscalation.md) — Urgent routing framework for severe upper-abdominal pain, diagnostic confirmation, systemic deterioration, and recurrence prevention.

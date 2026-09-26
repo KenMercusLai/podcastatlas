@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 10892
+wiki_total_pages: 10897
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -794,6 +794,9 @@ wiki_pages:
   - key: "SimonKuper"
     title: "Simon Kuper"
     url: "/wiki/entities/simonkuper/"
+  - key: "SimonSudbury"
+    title: "Simon Sudbury"
+    url: "/wiki/entities/simonsudbury/"
   - key: "SimoneDeBeauvoir"
     title: "Simone de Beauvoir / 西蒙娜·德·波伏娃"
     url: "/wiki/entities/simonedebeauvoir/"

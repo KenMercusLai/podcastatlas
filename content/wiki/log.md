@@ -23128,3 +23128,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | 414. The Peasants’ Revolt: London’s Burning (Part 2)
+
+Added source `414-the-peasants-revolt-londons-burning-part-2-glt6726049231`; created `PeasantsRevolt1381`, `WatTyler`, `JohnBall`, `SimonSudbury`, `WilliamWalworth`, `RebelRoyalism`, `PoliticalRecordDestruction`, and `PopularRevoltCoalition`; and updated `RichardIIOfEngland`, `JohnOfGaunt`, and `SacralKingshipPoliticalControl` from their complete bounded source sets. Core synthesis: the revolt joined anti-serfdom, anti-tax, anticlerical, anti-monopoly, urban, royalist, and xenophobic currents; Richard’s personal intervention contained the Smithfield crisis, but the formal program failed while poll taxation became politically toxic. No settled contradiction found; Richard’s sincerity, the planning behind Tyler’s death, Tower access, Wycliffite influence, and later ideological lineages remain source-scoped.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

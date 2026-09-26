@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 10892
+wiki_total_pages: 10897
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -212,6 +212,9 @@ wiki_pages:
   - key: "WassenaarArrangement"
     title: "Wassenaar Arrangement / 瓦森纳安排"
     url: "/wiki/entities/wassenaararrangement/"
+  - key: "WatTyler"
+    title: "Wat Tyler"
+    url: "/wiki/entities/wattyler/"
   - key: "WaterlooRods"
     title: "Waterloo Rods"
     url: "/wiki/entities/waterloorods/"
@@ -551,6 +554,9 @@ wiki_pages:
   - key: "WilliamTheConqueror"
     title: "William the Conqueror"
     url: "/wiki/entities/williamtheconqueror/"
+  - key: "WilliamWalworth"
+    title: "William Walworth"
+    url: "/wiki/entities/williamwalworth/"
   - key: "WillieWhitelaw"
     title: "Willie Whitelaw"
     url: "/wiki/entities/williewhitelaw/"

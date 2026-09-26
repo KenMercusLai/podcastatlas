@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2046
+topic_total_pages: 2047
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -4635,6 +4635,9 @@ topic_sources:
   - key: "41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038"
     title: "41.施剑翘复仇案：超越哈贝马斯的情与法"
     url: "/wiki/sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038/"
+  - key: "414-the-peasants-revolt-londons-burning-part-2-glt6726049231"
+    title: "414. The Peasants’ Revolt: London’s Burning (Part 2)"
+    url: "/wiki/sources/414-the-peasants-revolt-londons-burning-part-2-glt6726049231/"
   - key: "415-the-murder-of-richard-ii-part-3-glt6435684837"
     title: "415. The Murder of Richard II (Part 3)"
     url: "/wiki/sources/415-the-murder-of-richard-ii-part-3-glt6435684837/"

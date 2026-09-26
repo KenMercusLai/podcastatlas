@@ -76911,6 +76911,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/johnadams/"
     },
+    "JohnBall": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6726049231 [GLT6726049231].md",
+          "key": "414-the-peasants-revolt-londons-burning-part-2-glt6726049231",
+          "show": "The Rest Is History",
+          "title": "414. The Peasants’ Revolt: London’s Burning (Part 2)",
+          "url": "/wiki/sources/414-the-peasants-revolt-londons-burning-part-2-glt6726049231/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/johnball/"
+    },
     "JohnCadbury": {
       "episode_count": 1,
       "show_count": 1,
@@ -77214,9 +77230,9 @@
       "url": "/wiki/entities/johnmccarthy/"
     },
     "JohnOfGaunt": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT8868267122 [GLT8868267122].md",
@@ -77231,6 +77247,13 @@
           "show": "The Rest Is History",
           "title": "415. The Murder of Richard II (Part 3)",
           "url": "/wiki/sources/415-the-murder-of-richard-ii-part-3-glt6435684837/"
+        },
+        {
+          "episode_file": "GLT6726049231 [GLT6726049231].md",
+          "key": "414-the-peasants-revolt-londons-burning-part-2-glt6726049231",
+          "show": "The Rest Is History",
+          "title": "414. The Peasants’ Revolt: London’s Burning (Part 2)",
+          "url": "/wiki/sources/414-the-peasants-revolt-londons-burning-part-2-glt6726049231/"
         }
       ],
       "updated": "2026-09-27",
@@ -108515,6 +108538,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/peacefultransferofpower/"
     },
+    "PeasantsRevolt1381": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6726049231 [GLT6726049231].md",
+          "key": "414-the-peasants-revolt-londons-burning-part-2-glt6726049231",
+          "show": "The Rest Is History",
+          "title": "414. The Peasants’ Revolt: London’s Burning (Part 2)",
+          "url": "/wiki/sources/414-the-peasants-revolt-londons-burning-part-2-glt6726049231/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/peasantsrevolt1381/"
+    },
     "PediatricFeverHomeCareTriage": {
       "episode_count": 1,
       "show_count": 1,
@@ -111462,6 +111501,22 @@
       "updated": "2026-09-24",
       "url": "/wiki/concepts/politicalmartyremulation/"
     },
+    "PoliticalRecordDestruction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6726049231 [GLT6726049231].md",
+          "key": "414-the-peasants-revolt-londons-burning-part-2-glt6726049231",
+          "show": "The Rest Is History",
+          "title": "414. The Peasants’ Revolt: London’s Burning (Part 2)",
+          "url": "/wiki/sources/414-the-peasants-revolt-londons-burning-part-2-glt6726049231/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/politicalrecorddestruction/"
+    },
     "PoliticalResourceCurse": {
       "episode_count": 3,
       "show_count": 1,
@@ -111760,6 +111815,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/concepts/popularnpddiscourse/"
+    },
+    "PopularRevoltCoalition": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6726049231 [GLT6726049231].md",
+          "key": "414-the-peasants-revolt-londons-burning-part-2-glt6726049231",
+          "show": "The Rest Is History",
+          "title": "414. The Peasants’ Revolt: London’s Burning (Part 2)",
+          "url": "/wiki/sources/414-the-peasants-revolt-londons-burning-part-2-glt6726049231/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/popularrevoltcoalition/"
     },
     "PopularSufferingGovernanceDiagnostic": {
       "episode_count": 1,
@@ -118155,6 +118226,22 @@
       "updated": "2026-09-03",
       "url": "/wiki/concepts/rebelmandatemanufacture/"
     },
+    "RebelRoyalism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6726049231 [GLT6726049231].md",
+          "key": "414-the-peasants-revolt-londons-burning-part-2-glt6726049231",
+          "show": "The Rest Is History",
+          "title": "414. The Peasants’ Revolt: London’s Burning (Part 2)",
+          "url": "/wiki/sources/414-the-peasants-revolt-londons-burning-part-2-glt6726049231/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/rebelroyalism/"
+    },
     "RebellionJustifiedPowerExpansion": {
       "episode_count": 1,
       "show_count": 1,
@@ -121117,9 +121204,9 @@
       "url": "/wiki/entities/richardiiiplay/"
     },
     "RichardIIOfEngland": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT8868267122 [GLT8868267122].md",
@@ -121134,6 +121221,13 @@
           "show": "The Rest Is History",
           "title": "415. The Murder of Richard II (Part 3)",
           "url": "/wiki/sources/415-the-murder-of-richard-ii-part-3-glt6435684837/"
+        },
+        {
+          "episode_file": "GLT6726049231 [GLT6726049231].md",
+          "key": "414-the-peasants-revolt-londons-burning-part-2-glt6726049231",
+          "show": "The Rest Is History",
+          "title": "414. The Peasants’ Revolt: London’s Burning (Part 2)",
+          "url": "/wiki/sources/414-the-peasants-revolt-londons-burning-part-2-glt6726049231/"
         }
       ],
       "updated": "2026-09-27",
@@ -123546,9 +123640,9 @@
       "url": "/wiki/entities/saboramexicosalsas/"
     },
     "SacralKingshipPoliticalControl": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6435684837 [GLT6435684837].md",
@@ -123556,6 +123650,13 @@
           "show": "The Rest Is History",
           "title": "415. The Murder of Richard II (Part 3)",
           "url": "/wiki/sources/415-the-murder-of-richard-ii-part-3-glt6435684837/"
+        },
+        {
+          "episode_file": "GLT6726049231 [GLT6726049231].md",
+          "key": "414-the-peasants-revolt-londons-burning-part-2-glt6726049231",
+          "show": "The Rest Is History",
+          "title": "414. The Peasants’ Revolt: London’s Burning (Part 2)",
+          "url": "/wiki/sources/414-the-peasants-revolt-londons-burning-part-2-glt6726049231/"
         }
       ],
       "updated": "2026-09-27",
@@ -129578,6 +129679,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/simonlordoftheflies/"
+    },
+    "SimonSudbury": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6726049231 [GLT6726049231].md",
+          "key": "414-the-peasants-revolt-londons-burning-part-2-glt6726049231",
+          "show": "The Rest Is History",
+          "title": "414. The Peasants’ Revolt: London’s Burning (Part 2)",
+          "url": "/wiki/sources/414-the-peasants-revolt-londons-burning-part-2-glt6726049231/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/simonsudbury/"
     },
     "SimulatedRealityEpistemology": {
       "episode_count": 1,
@@ -150054,6 +150171,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/wassenaararrangement/"
     },
+    "WatTyler": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6726049231 [GLT6726049231].md",
+          "key": "414-the-peasants-revolt-londons-burning-part-2-glt6726049231",
+          "show": "The Rest Is History",
+          "title": "414. The Peasants’ Revolt: London’s Burning (Part 2)",
+          "url": "/wiki/sources/414-the-peasants-revolt-londons-burning-part-2-glt6726049231/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/wattyler/"
+    },
     "WaterSystemCyberResilience": {
       "episode_count": 2,
       "show_count": 2,
@@ -151973,6 +152106,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/williamtheconqueror/"
+    },
+    "WilliamWalworth": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6726049231 [GLT6726049231].md",
+          "key": "414-the-peasants-revolt-londons-burning-part-2-glt6726049231",
+          "show": "The Rest Is History",
+          "title": "414. The Peasants’ Revolt: London’s Burning (Part 2)",
+          "url": "/wiki/sources/414-the-peasants-revolt-londons-burning-part-2-glt6726049231/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/williamwalworth/"
     },
     "WillieWhitelaw": {
       "episode_count": 2,

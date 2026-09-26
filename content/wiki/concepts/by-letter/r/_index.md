@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 8291
+wiki_total_pages: 8294
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -161,6 +161,9 @@ wiki_pages:
   - key: "RebelMandateManufacture"
     title: "Rebel Mandate Manufacture / 起义天命制造"
     url: "/wiki/concepts/rebelmandatemanufacture/"
+  - key: "RebelRoyalism"
+    title: "Rebel Royalism"
+    url: "/wiki/concepts/rebelroyalism/"
   - key: "ReceivablesRisk"
     title: "Receivables Risk"
     url: "/wiki/concepts/receivablesrisk/"

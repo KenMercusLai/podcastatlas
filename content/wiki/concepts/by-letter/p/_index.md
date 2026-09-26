@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8291
+wiki_total_pages: 8294
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -947,6 +947,9 @@ wiki_pages:
   - key: "PoliticalPropagandaBackfire"
     title: "Political Propaganda Backfire / 政治宣传反噬"
     url: "/wiki/concepts/politicalpropagandabackfire/"
+  - key: "PoliticalRecordDestruction"
+    title: "Political Record Destruction"
+    url: "/wiki/concepts/politicalrecorddestruction/"
   - key: "PoliticalRegulatoryLeverage"
     title: "Political Regulatory Leverage"
     url: "/wiki/concepts/politicalregulatoryleverage/"
@@ -995,6 +998,9 @@ wiki_pages:
   - key: "PopularNPDDiscourse"
     title: "Popular NPD Discourse / 大众NPD话语"
     url: "/wiki/concepts/popularnpddiscourse/"
+  - key: "PopularRevoltCoalition"
+    title: "Popular Revolt Coalition"
+    url: "/wiki/concepts/popularrevoltcoalition/"
   - key: "PopularisPolitics"
     title: "Popularis Politics / 民众派政治"
     url: "/wiki/concepts/popularispolitics/"

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2728
+topic_total_pages: 2729
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -2695,6 +2695,9 @@ topic_concepts:
   - key: "PoliticalPropagandaBackfire"
     title: "Political Propaganda Backfire / 政治宣传反噬"
     url: "/wiki/concepts/politicalpropagandabackfire/"
+  - key: "PoliticalRecordDestruction"
+    title: "Political Record Destruction"
+    url: "/wiki/concepts/politicalrecorddestruction/"
   - key: "PoliticalRegulatoryLeverage"
     title: "Political Regulatory Leverage"
     url: "/wiki/concepts/politicalregulatoryleverage/"
