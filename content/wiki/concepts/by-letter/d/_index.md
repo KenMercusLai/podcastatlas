@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 8318
+wiki_total_pages: 8320
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -515,6 +515,9 @@ wiki_pages:
   - key: "DeterministicLegalAIControls"
     title: "Deterministic Legal AI Controls"
     url: "/wiki/concepts/deterministiclegalaicontrols/"
+  - key: "DeterrenceFailureAgainstExpansion"
+    title: "Deterrence Failure Against Expansion"
+    url: "/wiki/concepts/deterrencefailureagainstexpansion/"
   - key: "DeveloperHiddenDebtStack"
     title: "Developer Hidden Debt Stack / 房企隐性债务堆叠"
     url: "/wiki/concepts/developerhiddendebtstack/"

@@ -750,12 +750,13 @@
       "f9eaf87ee30e858ab40b0c1553f63df088fff30d966a9c32ab3a98f5c2560e42",
       "86510c4854df490886b2db4efc6d983f529322212e9367eaa1c89733b3ac720c",
       "2ae29881a5f9c6ce369656541cc8b6de4cac697325be9f32bd0e6b1132891b55",
+      "8b5ede398926abd502ebdfba3f57f00a484fcaea87d1bd59feee284620ca59ce",
       "1f02005c80ec3e7ac3f24acac820a9118d51d7e2de5614db5e13752add4f80b9"
     ],
-    "paragraph_count": 750
+    "paragraph_count": 751
   },
-  "overview_commit": "b08e832fc438de293772230a6017ea1245139779",
-  "overview_digest": "bc35626ded63c5621608d4af56a5337375a9470f6b297dae1dfee4285efd40c8",
+  "overview_commit": "2bf60486828d77b7d8f949b07cd34eda8b15a05d",
+  "overview_digest": "bae762bfaa978c4fdf828bd81938e4fae915633930cddbdbe74df3f7b9a70fd2",
   "paragraphs": [
     {
       "id": "c08eabc3cd1e0688edcae00268e9415ac6aa247d282687aba9ac3177bc9aac49",
@@ -22119,6 +22120,27 @@
         "SecrecyDrivenHistoricalMyth",
         "TheRestIsHistory",
         "Voltaire"
+      ]
+    },
+    {
+      "id": "8b5ede398926abd502ebdfba3f57f00a484fcaea87d1bd59feee284620ca59ce",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[406-the-nazis-in-power-hitlers-road-to-war-part-3-glt6776521114|406. The Nazis in Power: Hitler’s Road to War (Part 3)]], a [[TheRestIsHistory]] episode supplying the ideological, economic, and diplomatic prehistory before the existing Nazi-in-power sequence. It adds [[RhinelandRemilitarization]], [[NaziRearmamentWarEconomy]], and [[DeterrenceFailureAgainstExpansion]], while extending [[AdolfHitler]], [[NaziGermany]], and [[BenitoMussolini]]. Its core synthesis is that Hitler joined racial struggle and eastern expansion to a rearmament economy whose prestige gains coexisted with import dependence, consumer shortages, and an expectation that conquest would supply future resources; opponent division then converted the reversible Rhineland deployment into strategic protection, domestic triumph, and confidence in further risk. No settled contradiction is recorded. Broad revisionist support did not imply uniform acceptance of Hitler’s racial endpoint, while troop totals, economic causal weights, public attitudes, private calculations, and intervention counterfactuals remain source-scoped.",
+      "topic_scores": {
+        "business-and-markets": 1,
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 2
+      },
+      "wikilinks": [
+        "406-the-nazis-in-power-hitlers-road-to-war-part-3-glt6776521114",
+        "AdolfHitler",
+        "BenitoMussolini",
+        "DeterrenceFailureAgainstExpansion",
+        "NaziGermany",
+        "NaziRearmamentWarEconomy",
+        "RhinelandRemilitarization",
+        "TheRestIsHistory"
       ]
     },
     {

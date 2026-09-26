@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [406. The Nazis in Power: Hitler’s Road to War (Part 3)](sources/406-the-nazis-in-power-hitlers-road-to-war-part-3-glt6776521114.md) — The Rest Is History episode on struggle ideology, conquest-dependent rearmament, Allied division, the Rhineland gamble, and success-driven escalation.
 - [VOL.95无·事｜「麦乐村」一针扎破你对主旋律剧的刻板印象 和央广对谈编剧、首席医疗顾问](sources/vol-95-wu-shi-mailecun-yizhen-zhapo-ni-dui-zhuxuanlv-ju-de-keban-yinxiang-he-yangguang-duitan-bianju-shouxi-yiliao-guwen-lj1pk4rns8hrpqls6jrmkdzin2u.md) — 这病说来话长 episode with 胡亚婷 and a foreign-aid TCM adviser on 《欢迎来到麦乐村》, resource-constrained medicine, cross-cultural communication, composite adaptation, and humanized public-interest storytelling.
 - [407. The Nazis in Power: The Conquest of Austria (Part 4)](sources/407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144.md) — The Rest Is History episode on the Anschluss, Austrian coercion and participation, institutional plunder, anti-Jewish violence, and forced-emigration administration.
 - [Tools to Reduce & Manage Pain | Dr. Sean Mackey](sources/tools-to-reduce-manage-pain-dr-sean-mackey-scim1698075556.md) — Huberman Lab interview on distributed pain construction, hurt-versus-harm reframing, function-centered multimodal care, medication risk, rehabilitation, and pain policy.
@@ -2931,6 +2932,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Prevent & Treat Colds & Flu](sources/how-to-prevent-treat-colds-flu-scim6817932732.md) — Huberman Lab solo episode on respiratory-virus transmission, layered immune defense, sleep and training load, heat boundaries, and supplement evidence.
 
 ## Entities
+- [Remilitarization of the Rhineland](entities/RhinelandRemilitarization.md) — March 1936 German treaty violation whose unopposed success changed the strategic balance and Hitler’s risk expectations.
 - [胡亚婷 / Hu Yating (Screenwriter)](entities/HuYatingScreenwriter.md) — Screenwriter explaining the composite research, imperfect protagonist, light-comedy tone, and equality-based intent of 《欢迎来到麦乐村》.
 - [孙老师 / Doctor Sun (Foreign-Aid TCM Adviser)](entities/SunDoctorForeignAidTCMAdvisor.md) — Source-scoped TCM physician and television adviser discussing resource constraints, communication, adaptation, and professional meaning in foreign-aid medicine.
 - [《欢迎来到麦乐村》 / Welcome to Milele Village](entities/WelcomeToMileleVillage.md) — Medical television drama using fictional geography, composite characters, and light comedy to portray Chinese foreign-aid clinicians.
@@ -13873,6 +13875,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kay Tye](entities/KayTye.md) — Neuroscientist connecting emotional-valence circuits to loneliness, social homeostasis, hierarchy, and sustainable scientific leadership.
 
 ## Concepts
+- [Deterrence Failure Against Expansion](concepts/DeterrenceFailureAgainstExpansion.md) — How an unopposed reversible probe can strengthen an aggressor’s position, prestige, and confidence in further escalation.
+- [Nazi Rearmament War Economy](concepts/NaziRearmamentWarEconomy.md) — System linking military recovery and domestic legitimacy to import pressure, consumer sacrifice, autarky, and anticipated conquest.
 - [援外医疗实践 / Foreign-Aid Medical Practice](concepts/ForeignAidMedicalPractice.md) — Context-sensitive clinical collaboration under resource, language, infrastructure, team, and cross-cultural constraints.
 - [跨文化公益题材叙事 / Cross-Cultural Public-Interest Storytelling](concepts/CrossCulturalPublicInterestStorytelling.md) — Framework for balancing researched detail, composite adaptation, entertainment, institutional purpose, and fair representation across cultures.
 - [Austrian First Victim Narrative](concepts/AustrianFirstVictimNarrative.md) — Qualified memory frame preserving Austria's coercion and state victimization without erasing enthusiasm, collaboration, and local persecution.

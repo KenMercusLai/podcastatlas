@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2112
+topic_total_pages: 2113
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2044,6 +2044,9 @@ topic_concepts:
   - key: "NationalExportBranding"
     title: "National Export Branding"
     url: "/wiki/concepts/nationalexportbranding/"
+  - key: "NaziRearmamentWarEconomy"
+    title: "Nazi Rearmament War Economy"
+    url: "/wiki/concepts/nazirearmamentwareconomy/"
   - key: "NeedDrivenStartupIdeas"
     title: "Need-Driven Startup Ideas"
     url: "/wiki/concepts/needdrivenstartupideas/"

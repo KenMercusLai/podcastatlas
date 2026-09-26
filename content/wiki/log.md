@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-27] ingest | 406. The Nazis in Power: Hitler’s Road to War (Part 3)
+
+Added source `406-the-nazis-in-power-hitlers-road-to-war-part-3-glt6776521114`; created `RhinelandRemilitarization`, `NaziRearmamentWarEconomy`, and `DeterrenceFailureAgainstExpansion`; and updated `AdolfHitler`, `NaziGermany`, `BenitoMussolini`, the canonical index, and overview from their complete bounded source sets. Core synthesis: racial struggle and eastern expansion were joined to a rearmament economy whose prestige gains coexisted with import dependence, consumer shortages, and anticipated conquest; Allied division then converted the reversible Rhineland deployment into strategic protection, domestic triumph, and confidence in further risk. No settled contradiction found. Broad revisionist support did not imply uniform acceptance of Hitler’s racial endpoint, while troop totals, economic causal weights, public attitudes, private calculations, and intervention counterfactuals remain source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
 ## [2026-09-27] ingest | How to Prevent & Treat Colds & Flu
 
 Added source `how-to-prevent-treat-colds-flu-scim6817932732`; created `ColdFluSupplementEvidenceBoundary`; and updated `AndrewHuberman`, `HubermanLab`, `FoundationalImmuneHealthFramework`, `LayeredRespiratoryInfectionPrevention`, `FeverHeatImmuneResponseBoundary`, `SleepImmuneRepair`, the canonical index, and overview from their complete bounded source sets. Core synthesis: exposure becomes illness through entry routes, barriers, innate response, adaptive memory, and recovery state; layered prevention, sleep, manageable exercise, and rest during systemic malaise outrank any single remedy, while supplement and heat claims require evidence and safety boundaries. No settled contradiction found. The host's personal flu-vaccine choice is not generalized, and exact transmission, vaccine, exercise, sauna, microbiome, nasal-breathing, vitamin, zinc, echinacea, and NAC claims remain source-scoped public education. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
@@ -23256,6 +23260,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-27] ingest | VOL.95无·事｜「麦乐村」一针扎破你对主旋律剧的刻板印象 和央广对谈编剧、首席医疗顾问
 
 Added source `vol-95-wu-shi-mailecun-yizhen-zhapo-ni-dui-zhuxuanlv-ju-de-keban-yinxiang-he-yangguang-duitan-bianju-shouxi-yiliao-guwen-lj1pk4rns8hrpqls6jrmkdzin2u`; created `HuYatingScreenwriter`, `SunDoctorForeignAidTCMAdvisor`, `WelcomeToMileleVillage`, `ForeignAidMedicalPractice`, and `CrossCulturalPublicInterestStorytelling`; and updated the canonical index and overview. Core synthesis: foreign-aid medicine is collaborative clinical work shaped by material resources, infrastructure, language, culture, trust, and team life, while composite geography, imperfect characters, everyday detail, and light comedy can humanize a public-interest drama without making it documentary or guaranteeing equal representation. No settled contradiction found. Historical counts, trip details, prototype mapping, production scale, and claims about reception, realism, or representativeness remain source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-27] lint | Wiki health check
 

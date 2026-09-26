@@ -5334,9 +5334,9 @@
       "url": "/wiki/entities/adolfeichmann/"
     },
     "AdolfHitler": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT5771265943 [GLT5771265943].md",
@@ -5365,6 +5365,13 @@
           "show": "The Rest Is History",
           "title": "407. The Nazis in Power: The Conquest of Austria (Part 4)",
           "url": "/wiki/sources/407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144/"
+        },
+        {
+          "episode_file": "GLT6776521114 [GLT6776521114].md",
+          "key": "406-the-nazis-in-power-hitlers-road-to-war-part-3-glt6776521114",
+          "show": "The Rest Is History",
+          "title": "406. The Nazis in Power: Hitler’s Road to War (Part 3)",
+          "url": "/wiki/sources/406-the-nazis-in-power-hitlers-road-to-war-part-3-glt6776521114/"
         }
       ],
       "updated": "2026-09-27",
@@ -15149,9 +15156,9 @@
       "url": "/wiki/concepts/benevolentspeechpractice/"
     },
     "BenitoMussolini": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "I, robot？ AI and consciousness [6a880840b0d5e24ea40c7015].md",
@@ -15180,6 +15187,13 @@
           "show": "The Rest Is History",
           "title": "407. The Nazis in Power: The Conquest of Austria (Part 4)",
           "url": "/wiki/sources/407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144/"
+        },
+        {
+          "episode_file": "GLT6776521114 [GLT6776521114].md",
+          "key": "406-the-nazis-in-power-hitlers-road-to-war-part-3-glt6776521114",
+          "show": "The Rest Is History",
+          "title": "406. The Nazis in Power: Hitler’s Road to War (Part 3)",
+          "url": "/wiki/sources/406-the-nazis-in-power-hitlers-road-to-war-part-3-glt6776521114/"
         }
       ],
       "updated": "2026-09-11",
@@ -36645,6 +36659,22 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/concepts/deterministiclegalaicontrols/"
+    },
+    "DeterrenceFailureAgainstExpansion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6776521114 [GLT6776521114].md",
+          "key": "406-the-nazis-in-power-hitlers-road-to-war-part-3-glt6776521114",
+          "show": "The Rest Is History",
+          "title": "406. The Nazis in Power: Hitler’s Road to War (Part 3)",
+          "url": "/wiki/sources/406-the-nazis-in-power-hitlers-road-to-war-part-3-glt6776521114/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/deterrencefailureagainstexpansion/"
     },
     "DeutscheBahn": {
       "episode_count": 1,
@@ -102496,9 +102526,9 @@
       "url": "/wiki/concepts/navierstokesequations/"
     },
     "NaziGermany": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 2,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "37.智商测试：请问你是智力婆罗门吗？ [608020679].md",
@@ -102562,6 +102592,13 @@
           "show": "The Rest Is History",
           "title": "407. The Nazis in Power: The Conquest of Austria (Part 4)",
           "url": "/wiki/sources/407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144/"
+        },
+        {
+          "episode_file": "GLT6776521114 [GLT6776521114].md",
+          "key": "406-the-nazis-in-power-hitlers-road-to-war-part-3-glt6776521114",
+          "show": "The Rest Is History",
+          "title": "406. The Nazis in Power: Hitler’s Road to War (Part 3)",
+          "url": "/wiki/sources/406-the-nazis-in-power-hitlers-road-to-war-part-3-glt6776521114/"
         }
       ],
       "updated": "2026-09-27",
@@ -102598,6 +102635,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/naziracialmorality/"
+    },
+    "NaziRearmamentWarEconomy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6776521114 [GLT6776521114].md",
+          "key": "406-the-nazis-in-power-hitlers-road-to-war-part-3-glt6776521114",
+          "show": "The Rest Is History",
+          "title": "406. The Nazis in Power: Hitler’s Road to War (Part 3)",
+          "url": "/wiki/sources/406-the-nazis-in-power-hitlers-road-to-war-part-3-glt6776521114/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/nazirearmamentwareconomy/"
     },
     "Ndongo": {
       "episode_count": 1,
@@ -122420,6 +122473,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/concepts/rewardeddenunciationfiscalenforcement/"
+    },
+    "RhinelandRemilitarization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6776521114 [GLT6776521114].md",
+          "key": "406-the-nazis-in-power-hitlers-road-to-war-part-3-glt6776521114",
+          "show": "The Rest Is History",
+          "title": "406. The Nazis in Power: Hitler’s Road to War (Part 3)",
+          "url": "/wiki/sources/406-the-nazis-in-power-hitlers-road-to-war-part-3-glt6776521114/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/rhinelandremilitarization/"
     },
     "RhodeBeauty": {
       "episode_count": 1,

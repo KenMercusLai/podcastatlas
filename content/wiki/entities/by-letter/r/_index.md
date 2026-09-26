@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 10927
+wiki_total_pages: 10928
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -218,6 +218,9 @@ wiki_pages:
   - key: "RelevantSports"
     title: "Relevant Sports"
     url: "/wiki/entities/relevantsports/"
+  - key: "RhinelandRemilitarization"
+    title: "Remilitarization of the Rhineland"
+    url: "/wiki/entities/rhinelandremilitarization/"
   - key: "RemoraCarbon"
     title: "Remora Carbon"
     url: "/wiki/entities/remoracarbon/"

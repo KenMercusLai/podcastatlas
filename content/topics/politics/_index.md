@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2733
+topic_total_pages: 2736
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -994,6 +994,9 @@ topic_concepts:
   - key: "DeterministicLegalAIControls"
     title: "Deterministic Legal AI Controls"
     url: "/wiki/concepts/deterministiclegalaicontrols/"
+  - key: "DeterrenceFailureAgainstExpansion"
+    title: "Deterrence Failure Against Expansion"
+    url: "/wiki/concepts/deterrencefailureagainstexpansion/"
   - key: "DevelopmentEconomics"
     title: "Development Economics"
     url: "/wiki/concepts/developmenteconomics/"
@@ -6155,6 +6158,9 @@ topic_entities:
   - key: "ReginaldMaudling"
     title: "Reginald Maudling"
     url: "/wiki/entities/reginaldmaudling/"
+  - key: "RhinelandRemilitarization"
+    title: "Remilitarization of the Rhineland"
+    url: "/wiki/entities/rhinelandremilitarization/"
   - key: "RepublicanParty"
     title: "Republican Party"
     url: "/wiki/entities/republicanparty/"
@@ -7257,6 +7263,9 @@ topic_sources:
   - key: "36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522"
     title: "36.黑暗的左手：流放与爱的未来往事"
     url: "/wiki/sources/36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522/"
+  - key: "406-the-nazis-in-power-hitlers-road-to-war-part-3-glt6776521114"
+    title: "406. The Nazis in Power: Hitler’s Road to War (Part 3)"
+    url: "/wiki/sources/406-the-nazis-in-power-hitlers-road-to-war-part-3-glt6776521114/"
   - key: "41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038"
     title: "41.施剑翘复仇案：超越哈贝马斯的情与法"
     url: "/wiki/sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038/"

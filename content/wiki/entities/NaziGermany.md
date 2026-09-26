@@ -12,6 +12,7 @@ sources:
   - 409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455
   - 408-the-nazis-in-power-hitlers-dream-part-5-glt6100029744
   - 407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144
+  - 406-the-nazis-in-power-hitlers-road-to-war-part-3-glt6776521114
 last_updated: 2026-09-27
 knowledge_schema: synthesis-v1
 ---
@@ -20,7 +21,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Nazi Germany / 纳粹德国 was the racial dictatorship led by [[AdolfHitler]] that joined racial morality, cumulative antisemitic exclusion, eugenic classification and killing, territorial war, economic dispossession, forced labor, bureaucratic administration, organized terror, and genocide.
+Nazi Germany / 纳粹德国 was the racial dictatorship led by [[AdolfHitler]] that joined a conquest-dependent rearmament economy, racial morality, cumulative antisemitic exclusion, eugenic classification and killing, territorial war, economic dispossession, forced labor, bureaucratic administration, organized terror, and genocide.
 
 ## Current Profile
 
@@ -28,11 +29,15 @@ The ideological evidence defines the regime's claimed moral universe before trac
 
 The 1933–36 evidence adds the regime's early escalation pattern. Hitler's eliminationist ideology was already established, but an insecure government worked around conservative elites, business, the army, public reaction, and foreign opinion. Street violence, the failed national boycott, professional restrictions, school quotas, local signage, and communal exclusion advanced unevenly. Under [[WorkingTowardsTheFuhrer|working towards the Führer]], activists and officials anticipated broad goals, while central leadership selectively restrained embarrassing disorder and converted radical demands into the [[NurembergLaws|Nuremberg Laws]].
 
+The road-to-war evidence adds the military-economic system around that consolidation. Rearmament offered employment, industrial demand, patriotic production, and restored status, but Germany remained dependent on imported food and raw materials while weapons spending strained foreign exchange and consumer supply. [[NaziRearmamentWarEconomy|The regime treated later conquest as the answer to pressures its own buildup intensified]], then moved toward autarky and the Four Year Plan.
+
 Law did not make persecution moderate. Citizenship, ancestry, marriage, sexuality, schools, professions, public space, and friendship became fields of political control. Judges, doctors, civil servants, teachers, police, genealogists, firms, service providers, neighbors, and denouncers translated fabricated racial categories into lived isolation. Temporary pauses, especially Olympic image management, created [[IncrementalPersecutionFalseStabilization|false stabilization]] while the underlying capacity accumulated.
 
 The eugenic branch joined reproductive and lethal control to the same racial-health logic. Compulsory sterilization operated through hereditary-health law and medical courts; in 1939, the [[NaziInvoluntaryEuthanasiaProgram|involuntary-euthanasia program]] extended classification into killing. The 1937–39 branch joins these foundations to war planning, identification, [[EconomicAryanization|economic Aryanization]], [[Kristallnacht]], mass arrest, collective punishment, refugee barriers, and centralized coerced emigration. The broader evidence set extends the profile through punched-card classification, Eastern forced labor, intellectual accommodation, bureaucratic murder, and individual resistance.
 
 The Austrian evidence makes territorial expansion a mechanism of domestic radicalization. Diplomatic isolation, threats, Austrian Nazi pressure, invasion, and a legal facade delivered the [[Anschluss]] without general war. Annexation then transferred Austrian institutions and resources to the Reich while mass detention, local anti-Jewish violence, dispossession, and Eichmann's Vienna emigration office widened the persecutory system.
+
+The [[RhinelandRemilitarization|Rhineland]] provides the earlier strategic hinge. German forces entered with orders to withdraw if France acted, but British and French non-intervention converted a reversible operation into protection for western industry, a propaganda triumph, and evidence to Hitler that divided opponents would tolerate further faits accomplis.
 
 Modern capacities were not intrinsically Nazi: law, data processing, expertise, logistics, administration, industry, and research became catastrophic through their purposes and uses. The source set therefore preserves both central criminal responsibility and [[DistributedComplicityUnderAuthoritarianism|distributed complicity]] without assigning equal guilt to every person under dictatorship.
 
@@ -41,7 +46,7 @@ Modern capacities were not intrinsically Nazi: law, data processing, expertise, 
 - Racial morality treated Jews, disabled people, Slavs, and other targeted groups as threats while displacing individual and universal obligations with alleged collective health, survival, and dominance.
 - Leader direction, local initiative, tactical restraint, and legal consolidation produced cumulative radicalization.
 - Law and bureaucracy carried persecution from public policy into ancestry, family, education, work, and intimacy.
-- Territorial expansion, resource seizure, war planning, and internal persecution developed together rather than as separate policy tracks.
+- Rearmament, import and consumer constraints, territorial expansion, resource seizure, war planning, and internal persecution developed together rather than as separate policy tracks.
 - Firms, professionals, officials, technical systems, and material beneficiaries widened the regime's reach.
 - Forced emigration, dispossession, forced labor, mass arrest, and extermination formed connected but historically developing mechanisms.
 - Eugenic law and professional authority carried reproductive control into involuntary killing.
@@ -57,18 +62,19 @@ Modern capacities were not intrinsically Nazi: law, data processing, expertise, 
 - Early persecution branch: [[409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455]] connects local radicalism, professional exclusion, racial law, school segregation, denunciation, and Olympic concealment.
 - Prewar terror branch: [[410-the-nazis-in-power-the-night-of-broken-glass-part-7-glt5771265943]] connects war planning, Aryanization, Kristallnacht, mass arrest, forced emigration, and the 1939 annihilation threat.
 - Annexation branch: [[407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144]] connects diplomatic coercion and invasion to complete institutional absorption, resource transfer, local participation, mass detention, and forced-emigration administration.
+- Rearmament and deterrence branch: [[406-the-nazis-in-power-hitlers-road-to-war-part-3-glt6776521114]] connects military spending, import dependence, consumer shortages, alliance division, and the Rhineland gamble to later autarky and expansion.
 
 ## Qualifications
 
-The source set consists of narrative podcast episodes with different purposes rather than a comprehensive history of the Third Reich. Reconstructing an internally structured Nazi morality does not make it coherent in fact, morally valid, or uniformly accepted. Early eliminationist ideology did not mean the later extermination system was already a fixed operational blueprint in 1933. Claims about specific corporate knowledge, Austrian and German public attitudes, private motives, crowd meaning, casualty totals, and direct causal links remain bounded by their source notes. Explaining distributed implementation must not dilute the responsibility of Hitler, Nazi leaders, the SS, and the state.
+The source set consists of narrative podcast episodes with different purposes rather than a comprehensive history of the Third Reich. Reconstructing an internally structured Nazi morality does not make it coherent in fact, morally valid, or uniformly accepted. Early eliminationist ideology did not mean the later extermination system was already a fixed operational blueprint in 1933. Claims about economic causality, counterfactual intervention, specific corporate knowledge, Austrian and German public attitudes, private motives, crowd meaning, casualty totals, and direct causal links remain bounded by their source notes. Explaining distributed implementation must not dilute the responsibility of Hitler, Nazi leaders, the SS, and the state.
 
 ## What Changed
 
-- Added the 1933–36 sequence connecting unstable violence, local initiative, law, bureaucracy, and social isolation.
-- Reframed tactical pauses and Olympic concealment as false stabilization within cumulative persecution.
-- Distinguished longstanding ideological direction from changing methods and the historically developing path to genocide.
-- Added racial morality and the sterilization-to-involuntary-killing sequence as ideological and institutional foundations.
-- Added the Anschluss as a model joining coercive expansion, plunder, local collaboration, and persecutory administration.
+- Added the rearmament economy as a system joining recovery and prestige to import pressure, consumer shortage, autarky, and expected conquest.
+- Added the 1934 Austrian constraint and 1936 Rhineland success as evidence that external resistance shaped the timing and confidence of expansion.
+- Integrated the Rhineland and Anschluss into a sequence joining strategic protection, prestige, annexation, plunder, and persecution.
+- Preserved uneven domestic escalation through local initiative, law, bureaucracy, and false stabilization.
+- Preserved the developing, rather than pre-fixed, path from racial ideology and eugenic coercion toward genocide.
 
 ## Relationships
 
@@ -80,6 +86,9 @@ The source set consists of narrative podcast episodes with different purposes ra
 - [[IncrementalPersecutionFalseStabilization]] - uneven escalation pattern that could conceal accumulating harm.
 - [[Kristallnacht]] - watershed from exclusion and dispossession into coordinated mass violence.
 - [[Anschluss]] - coercive annexation that expanded the regime's territory, resources, and persecution machinery.
+- [[RhinelandRemilitarization]] - early strategic victory that reduced western vulnerability and encouraged further expansion.
+- [[NaziRearmamentWarEconomy]] - system tying military recovery and domestic legitimacy to resource pressure and conquest.
+- [[DeterrenceFailureAgainstExpansion]] - external mechanism through which reversible probes became durable gains.
 - [[TheHolocaust]] - genocidal outcome toward which the documented systems and policies developed.
 - [[DistributedComplicityUnderAuthoritarianism]] - differentiated participation across institutions and society.
 - [[RationalizedStateViolence]] - organizational scaling of coercion through categories, offices, law, and logistics.

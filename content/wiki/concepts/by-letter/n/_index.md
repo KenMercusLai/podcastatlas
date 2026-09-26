@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 8318
+wiki_total_pages: 8320
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -122,6 +122,9 @@ wiki_pages:
   - key: "NaziRacialMorality"
     title: "Nazi Racial Morality"
     url: "/wiki/concepts/naziracialmorality/"
+  - key: "NaziRearmamentWarEconomy"
+    title: "Nazi Rearmament War Economy"
+    url: "/wiki/concepts/nazirearmamentwareconomy/"
   - key: "NearMissDesign"
     title: "Near-Miss Design"
     url: "/wiki/concepts/nearmissdesign/"
