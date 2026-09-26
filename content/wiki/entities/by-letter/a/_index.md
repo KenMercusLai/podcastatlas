@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 10820
+wiki_total_pages: 10821
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1115,6 +1115,9 @@ wiki_pages:
   - key: "Anthropic"
     title: "Anthropic"
     url: "/wiki/entities/anthropic/"
+  - key: "AnthropicBiologicalResearchLab"
+    title: "Anthropic Biological Research Laboratory"
+    url: "/wiki/entities/anthropicbiologicalresearchlab/"
   - key: "AntiGravity"
     title: "Anti-Gravity"
     url: "/wiki/entities/antigravity/"

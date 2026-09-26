@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3174
+topic_total_pages: 3176
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -289,6 +289,9 @@ topic_concepts:
   - key: "AICompanyDeepWell"
     title: "AI Company Deep Well"
     url: "/wiki/concepts/aicompanydeepwell/"
+  - key: "AICompanyProductLiability"
+    title: "AI Company Product Liability"
+    url: "/wiki/concepts/aicompanyproductliability/"
   - key: "AICompetitionAntitrustRemedy"
     title: "AI Competition Antitrust Remedy"
     url: "/wiki/concepts/aicompetitionantitrustremedy/"
@@ -8364,6 +8367,9 @@ topic_sources:
   - key: "tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128"
     title: "An Ohio newspaper gives AI a byline"
     url: "/wiki/sources/tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-anthropic-ipo-at-risk-metas-muse-pop-token-prices-fall-open-source-g"
+    title: "Anthropic IPO at Risk, Meta's Muse Pop, Token Prices Fall, Open Source Gains Share, Alignment Fails"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropic-ipo-at-risk-metas-muse-pop-token-prices-fall-open-source-g/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555"
     title: "Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555/"

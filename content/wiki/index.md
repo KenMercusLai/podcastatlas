@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Anthropic IPO at Risk, Meta's Muse Pop, Token Prices Fall, Open Source Gains Share, Alignment Fails](sources/all-in-with-chamath-jason-sacks-friedberg-anthropic-ipo-at-risk-metas-muse-pop-token-prices-fall-open-source-g.md) — All-In on frontier-model commoditization, Anthropic IPO disclosure, consumer agents, delegated commerce, AI accountability, and biological validation.
 - [438. The Moonwalkers, with Tom Hanks](sources/438-the-moonwalkers-with-tom-hanks-glt1422432857.md) — The Rest Is History conversation restoring contingency, staged learning, crew responsibility, crisis discipline, and technological optimism to the Apollo story.
 - [Overcoming Physical & Emotional Challenges | Coleman Ruiz](sources/overcoming-physical-emotional-challenges-coleman-ruiz-scim6632700547.md) — Huberman Lab interview on disciplined intensity, team identity, cumulative combat loss, civilian transition, depression, suicide risk, recovery, and range-based toughness.
 - [VOL.107躁狂？抑郁？网红急诊科医生的精神AB面](sources/likqsiszm7z-evaz5ajxerxzdliv-likqsiszm7z-evaz5ajxerxzdliv.md) — 这病说来话长 episode on clinician vulnerability, 住院总 role overload, mood and self-diagnosis boundaries, medical-creator pressure, and ICU recovery.
@@ -2869,6 +2870,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Protocols to Strengthen & Pain Proof Your Back](sources/protocols-to-strengthen-pain-proof-your-back-scim8264963647.md) — Huberman Lab solo episode on mechanism-sensitive back care, the McGill Big Three, whole-body support, movement awareness, and clinical escalation boundaries.
 
 ## Entities
+- [Anthropic Biological Research Laboratory](entities/AnthropicBiologicalResearchLab.md) — Source-described BSL-1/BSL-2 facility testing model-generated protein and enzyme hypotheses through wet-lab validation.
 - [Tom Hanks](entities/TomHanks.md) — Actor, producer, and public-history enthusiast interpreting Apollo through childhood memory, research, and astronaut conversations.
 - [Apollo Program](entities/ApolloProgram.md) — NASA lunar program synthesized as staged learning, interdependent mission systems, scientific work, and cultural memory.
 - [Apollo 11](entities/Apollo11.md) — First crewed lunar landing, framed through contingency planning, difficult descent, crew-role asymmetry, and return-chain risk.
@@ -13704,6 +13706,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lord Elgin](entities/LordElgin.md) — British diplomat at the center of Byron's cultural-plunder attack and Hobhouse's preservation counterargument.
 
 ## Concepts
+- [AI Company Product Liability](concepts/AICompanyProductLiability.md) — Baseline that commercial AI developers remain responsible for testing, release decisions, foreseeable harms, and ordinary corporate liability.
 - [Apollo Mission Risk Discipline](concepts/ApolloMissionRiskDiscipline.md) — Staged testing, contingency planning, trained judgment, and next-task focus under extreme mission uncertainty.
 - [Mid-Century Technological Optimism](concepts/MidCenturyTechnologicalOptimism.md) — Qualified belief that public ambition and coordinated engineering could turn difficult imagined futures into working systems.
 - [Clinician Vulnerability and Self-Care / 医护脆弱性与自我照护](concepts/ClinicianVulnerabilityAndSelfCare.md) — Medical expertise does not remove clinicians' bodily limits, fear, help needs, or patient-side learning.

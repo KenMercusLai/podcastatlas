@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-26] ingest | Anthropic IPO at Risk, Meta's Muse Pop, Token Prices Fall, Open Source Gains Share, Alignment Fails
+
+Added source `all-in-with-chamath-jason-sacks-friedberg-anthropic-ipo-at-risk-metas-muse-pop-token-prices-fall-open-source-g`; created `AnthropicBiologicalResearchLab` and `AICompanyProductLiability`; and updated `ClosedModelAPIMoatPressure`, `MusePersonalAgent`, `AgenticCommerce`, and `AIIPOValuation` from their complete bounded source sets. Core synthesis: falling token prices and stronger open models divide the market between premium frontier workloads and commoditizing routine work; Anthropic's IPO case must absorb capital intensity, customer concentration, disclosure, safety rhetoric, and a short capability lead; and mainstream agents can increase user convenience and price transparency while creating permission, recovery, platform-access, and disintermediation risk. No settled contradiction found. IPO figures, market-share shifts, downloads, political motives, alignment effects, and disruption forecasts remain source-scoped; the biological laboratory is described as a BSL-1/BSL-2 validation facility rather than high-risk pathogen research. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-26] ingest | Middlegarchs are the new Oligarchs
 
 Added source `middlegarchs-are-the-new-oligarchs-32587514`; created `EricZwick`, `OwenZidar`, `DannyYagan`, `PassThroughBusinessTaxAdvantage`, and `DispersedBusinessElitePower`; and updated the canonical index and overview. Core synthesis: linked tax data make wealthy pass-through-business owners a major but less visible part of top-income growth, while tax preferences, direct legislative representation, and locally embedded regulatory influence can reinforce wealth that also reflects genuine entrepreneurship and owner-specific business value. No settled contradiction found. Wealth totals, industry rankings, owner-origin shares, profit effects, tax comparisons, representation rates, fiscal costs, conflicts of interest, and consumer-price effects remain episode-attributed or source-scoped. The downstream synthesis refresh only reads the canonical `wiki/overview.md`.
@@ -22762,6 +22766,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-26] ingest | 438. The Moonwalkers, with Tom Hanks
 
 Added source `438-the-moonwalkers-with-tom-hanks-glt1422432857`; created `TomHanks`, `ApolloProgram`, `Apollo11`, `NeilArmstrong`, `BuzzAldrin`, `MichaelCollins`, `ApolloMissionRiskDiscipline`, and `MidCenturyTechnologicalOptimism`; and updated `Moon`, the canonical index, and overview from its complete bounded source set. Core synthesis: Apollo's achievement depended on staged learning, explicit catastrophe planning, trained judgment, and sustained attention to the next solvable task, while the Moon became a scientific, memorial, governance, and future-infrastructure environment. No settled contradiction found. Risk estimates, astronaut motives and dialogue, geology proportions, and future lunar-return timing remain episode-attributed or source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-26] lint | Wiki health check
 

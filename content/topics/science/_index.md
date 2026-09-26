@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1209
+topic_total_pages: 1211
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -2189,6 +2189,9 @@ topic_entities:
   - key: "Antarctica"
     title: "Antarctica"
     url: "/wiki/entities/antarctica/"
+  - key: "AnthropicBiologicalResearchLab"
+    title: "Anthropic Biological Research Laboratory"
+    url: "/wiki/entities/anthropicbiologicalresearchlab/"
   - key: "AntoineLavoisier"
     title: "Antoine Lavoisier / 拉瓦锡"
     url: "/wiki/entities/antoinelavoisier/"
@@ -3210,6 +3213,9 @@ topic_sources:
   - key: "an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c"
     title: "An interview with Elon Musk"
     url: "/wiki/sources/an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-anthropic-ipo-at-risk-metas-muse-pop-token-prices-fall-open-source-g"
+    title: "Anthropic IPO at Risk, Meta's Muse Pop, Token Prices Fall, Open Source Gains Share, Alignment Fails"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropic-ipo-at-risk-metas-muse-pop-token-prices-fall-open-source-g/"
   - key: "tech-20260818-tech-pod-128-tech-20260818-tech-pod-128"
     title: "As space launches increase, there aren't enough spaceports"
     url: "/wiki/sources/tech-20260818-tech-pod-128-tech-20260818-tech-pod-128/"

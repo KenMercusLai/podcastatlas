@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2707
+topic_total_pages: 2709
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -100,6 +100,9 @@ topic_concepts:
   - key: "AIColdWar"
     title: "AI Cold War"
     url: "/wiki/concepts/aicoldwar/"
+  - key: "AICompanyProductLiability"
+    title: "AI Company Product Liability"
+    url: "/wiki/concepts/aicompanyproductliability/"
   - key: "AICompetitionAntitrustRemedy"
     title: "AI Competition Antitrust Remedy"
     url: "/wiki/concepts/aicompetitionantitrustremedy/"
@@ -7314,6 +7317,9 @@ topic_sources:
   - key: "an-interview-with-yuval-noah-harari-6a872b94c71d02aaba56ca7c"
     title: "An interview with Yuval Noah Harari"
     url: "/wiki/sources/an-interview-with-yuval-noah-harari-6a872b94c71d02aaba56ca7c/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-anthropic-ipo-at-risk-metas-muse-pop-token-prices-fall-open-source-g"
+    title: "Anthropic IPO at Risk, Meta's Muse Pop, Token Prices Fall, Open Source Gains Share, Alignment Fails"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropic-ipo-at-risk-metas-muse-pop-token-prices-fall-open-source-g/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-anthropics-30b-ramp-mythos-doomsday-openclaw-ankled-iran-war-ceasefire-israels-influence-40808300"
     title: "Anthropic's $30B Ramp, Mythos Doomsday, OpenClaw Ankled, Iran War Ceasefire, Israel's Influence"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-30b-ramp-mythos-doomsday-openclaw-ankled-iran-war-ceasefire-israels-influence-40808300/"

@@ -149,20 +149,20 @@
       "earliest_episode_date": "2026-01-08",
       "latest_episode_date": "2026-09-26",
       "latest_episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic IPO at Risk, Meta’s Muse Pop, Token Prices Fall, Open Source G.md",
-      "source_note_count": 72,
-      "topic_matched_source_note_count": 65,
+      "source_note_count": 73,
+      "topic_matched_source_note_count": 66,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 50
+          "source_note_count": 51
         },
         {
           "key": "politics",
           "label": "Politics",
           "url": "/topics/politics/",
-          "source_note_count": 25
+          "source_note_count": 26
         },
         {
           "key": "economics",
@@ -174,7 +174,7 @@
           "key": "science",
           "label": "Science",
           "url": "/topics/science/",
-          "source_note_count": 8
+          "source_note_count": 9
         }
       ],
       "entities": [
@@ -236,10 +236,10 @@
         }
       ],
       "start_here_episode_files": [
-        "All-In with Chamath, Jason, Sacks & Friedberg - Luca Ferrari, Bending Spoons CEO： The $40K Origin Story, Buying Product-.md",
-        "All-In with Chamath, Jason, Sacks & Friedberg - Steve Hilton & Spencer Pratt： Fixing California, Cheaper Gas, Ballot Fraud & CA Republicans [43001393].md",
+        "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic IPO at Risk, Meta’s Muse Pop, Token Prices Fall, Open Source G.md",
         "All-In with Chamath, Jason, Sacks & Friedberg - Brad Gerstner： No AI Bubble, Semis Eat the Nasdaq & AI's Take Off Problem [42936597].md",
-        "All-In with Chamath, Jason, Sacks & Friedberg - Jared Isaacman： A New Era for NASA and American Space Exploration [42953838].md"
+        "All-In with Chamath, Jason, Sacks & Friedberg - Steve Hilton & Spencer Pratt： Fixing California, Cheaper Gas, Ballot Fraud & CA Republicans [43001393].md",
+        "All-In with Chamath, Jason, Sacks & Friedberg - Luca Ferrari, Bending Spoons CEO： The $40K Origin Story, Buying Product-.md"
       ]
     },
     "Anyway.FM 设计杂谈": {
