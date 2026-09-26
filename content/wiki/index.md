@@ -2928,6 +2928,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve Oral Health & Its Critical Role in Brain & Body Health](sources/how-to-improve-oral-health-its-critical-role-in-brain-body-health-scim4393023678.md) — Huberman Lab solo episode on saliva, oral pH, biofilm control, tooth mineral balance, gum-systemic evidence boundaries, and restrained product use.
 - [The Biology of Social Interactions and Emotions | Dr. Kay Tye](sources/the-biology-of-social-interactions-and-emotions-dr-kay-tye-scim4105255786.md) — Huberman Lab interview on amygdala valence, social homeostasis, contact synchrony, hierarchy, experiential priors, and sustainable scientific life.
 - [Tools to Enhance Working Memory & Attention](sources/tools-to-enhance-working-memory-attention-scim1948560111.md) — Huberman Lab solo episode on active working memory, sequencing, distractor control, task switching, baseline-dependent dopamine effects, and evidence-bounded behavioral, supplement, and prescription tools.
+- [How to Prevent & Treat Colds & Flu](sources/how-to-prevent-treat-colds-flu-scim6817932732.md) — Huberman Lab solo episode on respiratory-virus transmission, layered immune defense, sleep and training load, heat boundaries, and supplement evidence.
 
 ## Entities
 - [胡亚婷 / Hu Yating (Screenwriter)](entities/HuYatingScreenwriter.md) — Screenwriter explaining the composite research, imperfect protagonist, light-comedy tone, and equality-based intent of 《欢迎来到麦乐村》.
@@ -22202,5 +22203,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Social Rank Flexibility](concepts/SocialRankFlexibility.md) — Distinction between fixed dominance and rank or leadership that changes with identity, competence, task, and group context.
 - [Experiential Statistics](concepts/ExperientialStatistics.md) — Learned expectations from repeated scarcity, safety, punishment, trust, and social experience.
 - [Diversified Happiness Portfolio](concepts/DiversifiedHappinessPortfolio.md) — Resilience frame based on maintaining several meaningful life domains rather than tying wellbeing to one achievement hierarchy.
+- [Cold and Flu Supplement Evidence Boundary](concepts/ColdFluSupplementEvidenceBoundary.md) — Evidence and safety hierarchy separating deficiency correction, symptom support, limited trials, and treatment claims for common cold and influenza supplements.
 
 ## Syntheses

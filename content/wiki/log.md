@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-27] ingest | How to Prevent & Treat Colds & Flu
+
+Added source `how-to-prevent-treat-colds-flu-scim6817932732`; created `ColdFluSupplementEvidenceBoundary`; and updated `AndrewHuberman`, `HubermanLab`, `FoundationalImmuneHealthFramework`, `LayeredRespiratoryInfectionPrevention`, `FeverHeatImmuneResponseBoundary`, `SleepImmuneRepair`, the canonical index, and overview from their complete bounded source sets. Core synthesis: exposure becomes illness through entry routes, barriers, innate response, adaptive memory, and recovery state; layered prevention, sleep, manageable exercise, and rest during systemic malaise outrank any single remedy, while supplement and heat claims require evidence and safety boundaries. No settled contradiction found. The host's personal flu-vaccine choice is not generalized, and exact transmission, vaccine, exercise, sauna, microbiome, nasal-breathing, vitamin, zinc, echinacea, and NAC claims remain source-scoped public education. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
 ## [2026-09-27] ingest | 407. The Nazis in Power: The Conquest of Austria (Part 4)
 
 Added source `407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144`; created `Anschluss`, `KurtVonSchuschnigg`, `ArthurSeyssInquart`, `EngelbertDollfuss`, and `AustrianFirstVictimNarrative`; and updated `AdolfHitler`, `Austria`, `NaziGermany`, `BenitoMussolini`, `AdolfEichmann`, `DistributedComplicityUnderAuthoritarianism`, `EconomicAryanization`, `RationalizedStateViolence`, the canonical index, and overview from their complete bounded source sets. Core synthesis: coercion, diplomatic isolation, ultimatum, and invasion destroyed Austrian independence, while substantial enthusiasm and local participation complicate the first-victim story; annexation also accelerated plunder, anti-Jewish violence, and forced-emigration administration. No settled contradiction found. Crowd meaning, private motives, legal details, numerical estimates, and the causal weight of specific military and diplomatic changes remain source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
@@ -23252,6 +23256,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-27] ingest | VOL.95无·事｜「麦乐村」一针扎破你对主旋律剧的刻板印象 和央广对谈编剧、首席医疗顾问
 
 Added source `vol-95-wu-shi-mailecun-yizhen-zhapo-ni-dui-zhuxuanlv-ju-de-keban-yinxiang-he-yangguang-duitan-bianju-shouxi-yiliao-guwen-lj1pk4rns8hrpqls6jrmkdzin2u`; created `HuYatingScreenwriter`, `SunDoctorForeignAidTCMAdvisor`, `WelcomeToMileleVillage`, `ForeignAidMedicalPractice`, and `CrossCulturalPublicInterestStorytelling`; and updated the canonical index and overview. Core synthesis: foreign-aid medicine is collaborative clinical work shaped by material resources, infrastructure, language, culture, trust, and team life, while composite geography, imperfect characters, everyday detail, and light comedy can humanize a public-interest drama without making it documentary or guaranteeing equal representation. No settled contradiction found. Historical counts, trip details, prototype mapping, production scale, and claims about reception, realism, or representativeness remain source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-27] lint | Wiki health check
 

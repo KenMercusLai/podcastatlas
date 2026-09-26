@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "c08eabc3cd1e0688edcae00268e9415ac6aa247d282687aba9ac3177bc9aac49",
       "7f10a2b8b99c384dc46b7c64c1182b70e9b4db3e0f32e8ff64d2a8ff07aa7b44",
       "3ee4e9dfdf318618e8dbe288b29547869e163245e372cfb3556ec4faaa1fd122",
       "82ca494ef22525a52a5b487affa4099502b58e7a9771f43fe3742a9c9d49a629",
@@ -751,11 +752,35 @@
       "2ae29881a5f9c6ce369656541cc8b6de4cac697325be9f32bd0e6b1132891b55",
       "1f02005c80ec3e7ac3f24acac820a9118d51d7e2de5614db5e13752add4f80b9"
     ],
-    "paragraph_count": 749
+    "paragraph_count": 750
   },
-  "overview_commit": "64e0f11e3cedf4da7ded274f471a1522c5fa2e1d",
-  "overview_digest": "e1b1ca9458334555261d7441e83598049b0ff94ddbfaeb23db1e45a0bb8bf09a",
+  "overview_commit": "b08e832fc438de293772230a6017ea1245139779",
+  "overview_digest": "bc35626ded63c5621608d4af56a5337375a9470f6b297dae1dfee4285efd40c8",
   "paragraphs": [
+    {
+      "id": "c08eabc3cd1e0688edcae00268e9415ac6aa247d282687aba9ac3177bc9aac49",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "science-health-and-climate",
+        "work-education-and-society"
+      ],
+      "text": "The newest respiratory-health source, [[how-to-prevent-treat-colds-flu-scim6817932732|How to Prevent & Treat Colds & Flu]], extends [[AndrewHuberman]], [[HubermanLab]], [[LayeredRespiratoryInfectionPrevention]], [[FoundationalImmuneHealthFramework]], [[SleepImmuneRepair]], and [[FeverHeatImmuneResponseBoundary]] while adding [[ColdFluSupplementEvidenceBoundary]]. Its core synthesis is that exposure becomes illness through an interaction among entry routes, physical barriers, innate response, adaptive memory, sleep, training load, and recovery state; hand-to-face caution, vaccination context, adequate sleep, manageable exercise, and rest during systemic malaise are more foundational than any single remedy. No settled contradiction is adopted. The host's personal flu-vaccine choice is not generalized, and exact transmission, vaccine, exercise, sauna, microbiome, nasal-breathing, vitamin, zinc, echinacea, and NAC claims remain source-scoped public education rather than individualized prevention or treatment.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "science-health-and-climate": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AndrewHuberman",
+        "ColdFluSupplementEvidenceBoundary",
+        "FeverHeatImmuneResponseBoundary",
+        "FoundationalImmuneHealthFramework",
+        "HubermanLab",
+        "LayeredRespiratoryInfectionPrevention",
+        "SleepImmuneRepair",
+        "how-to-prevent-treat-colds-flu-scim6817932732"
+      ]
+    },
     {
       "id": "7f10a2b8b99c384dc46b7c64c1182b70e9b4db3e0f32e8ff64d2a8ff07aa7b44",
       "primary_topic": "science-health-and-climate",

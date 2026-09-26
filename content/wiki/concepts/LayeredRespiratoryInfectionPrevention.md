@@ -5,6 +5,7 @@ tags: [respiratory-health, infection-prevention, vaccination, masks, public-heal
 sources:
   - how-to-enhance-your-immune-system-dr-roger-seheult-scim4509990462
   - vol-97-huxike-jindong-liugan-feiyan-zheme-meng-wo-zazheng-ertong-zhiyuanti-feiyan-zong-buhao-you-houyizheng-ma-liz9rdhhqkbxpktg1gd2z2sb2klq
+  - how-to-prevent-treat-colds-flu-scim6817932732
 last_updated: 2026-09-27
 knowledge_schema: synthesis-v1
 ---
@@ -21,12 +22,14 @@ Masks are differentiated by function rather than treated as interchangeable: sur
 
 VOL.97 adds a household-transmission application. Where no pathogen-specific vaccine exists, as for Mycoplasma pneumoniae, prevention still combines reduced close exposure, context-appropriate masking, ventilation, hand hygiene, cough and sneeze etiquette, prompt disposal of tissues, cleaning shared items, and separation where feasible. These measures reduce but do not eliminate risk, and they work alongside symptom-based care and avoidance of preventive antibiotic use.
 
+The portal-of-entry and host-defense account connects eyes, nose, and mouth with contaminated hands, close-contact exposure, physical barriers, innate immunity, and later adaptive memory. Seasonal influenza vaccination is partial rather than absolute protection, and personal exposure, vulnerable contacts, contraindications, and clinician guidance matter more than copying a host's individual choice.
+
 ## Key Claims
 - Prevention works best as multiple partially protective layers rather than a single guarantee.
 - Vaccination decisions depend on exposure, vulnerability, likely severity reduction, contraindications, and clinician guidance.
 - Surgical masks and respirators serve different source-control and inhalation-protection functions.
 - Mask fit, tolerance, setting, and respiratory disease affect real-world usefulness.
-- Handwashing is not presented as conclusive protection, but reducing contaminated hand-to-face contact remains reasonable.
+- Hand hygiene is one layer, with particular emphasis on reducing contaminated hand-to-eye, nose, and mouth contact without neglecting respiratory exposure.
 - Smoking and vaping add avoidable pulmonary risk and are not equivalent to breathing clean air.
 - Household cleaning, cough etiquette, temporary separation, baseline health, and responsible antimicrobial use complement but do not replace exposure-specific protections or timely care.
 
@@ -37,15 +40,17 @@ VOL.97 adds a household-transmission application. Where no pathogen-specific vac
 - Lung-exposure boundary: [[how-to-enhance-your-immune-system-dr-roger-seheult-scim4509990462]] advises against smoking, cigars, vaping, and inhaling non-air substances other than lung medicines.
 - Household prevention: [[vol-97-huxike-jindong-liugan-feiyan-zheme-meng-wo-zazheng-ertong-zhiyuanti-feiyan-zong-buhao-you-houyizheng-ma-liz9rdhhqkbxpktg1gd2z2sb2klq]] combines masks, ventilation, handwashing, cough etiquette, tissue disposal, shared-item cleaning, and reduced contact during respiratory illness.
 - Antibiotic boundary: [[vol-97-huxike-jindong-liugan-feiyan-zheme-meng-wo-zazheng-ertong-zhiyuanti-feiyan-zong-buhao-you-houyizheng-ma-liz9rdhhqkbxpktg1gd2z2sb2klq]] rejects preventive antibiotic use as an infection-prevention substitute.
+- Entry routes and flu-vaccine context: [[how-to-prevent-treat-colds-flu-scim6817932732]] connects eyes, nose, mouth, contaminated hands, droplets, and aerosols while describing seasonal vaccination as strain-matched risk and severity reduction rather than a guarantee.
 
 ## Counterevidence & Qualifications
-The sources do not provide a full vaccine schedule, quantitative mask-effect estimate, ventilation standard, disinfection protocol, or individualized contraindication screen. Infection prevalence, pathogen, setting, fit, adherence, prior immunity, comorbidity, and local clinical guidance can change the balance. Hand hygiene should not displace attention to airborne exposure and clean air, while surface cleaning should be proportionate rather than indiscriminate. Nicotine replacement may reduce lung exposure relative to smoking but retains cardiovascular, pregnancy, dependence, and other risks.
+The sources do not provide a full vaccine schedule, quantitative mask-effect estimate, ventilation standard, disinfection protocol, or individualized contraindication screen. Infection prevalence, pathogen, setting, fit, adherence, prior immunity, comorbidity, and local clinical guidance can change the balance. The newest source's exact surface-survival, contagiousness, vaccine-effect, and nasal-breathing claims remain source-scoped. Hand hygiene should not displace attention to airborne exposure and clean air, while surface cleaning should be proportionate rather than indiscriminate. Nicotine replacement may reduce lung exposure relative to smoking but retains cardiovascular, pregnancy, dependence, and other risks.
 
 ## What Changed
 - Created a proportional prevention framework from the episode's vaccination, masking, hygiene, air, and host-health discussion.
 - Distinguished source control from inhalation protection.
 - Preserved individualized medical and setting-specific tradeoffs.
 - Added household source-control, cleaning, and antimicrobial-stewardship layers from VOL.97.
+- Added eye/nose/mouth entry routes and a partial-protection framing for seasonal influenza vaccination.
 
 ## Related Concepts
 - [[FoundationalImmuneHealthFramework]] - host-health foundation beneath exposure-specific protection.
@@ -56,3 +61,4 @@ The sources do not provide a full vaccine schedule, quantitative mask-effect est
 - [[RespiratorySymptomTriage]] - recognition and care-routing layer when prevention does not avert illness.
 - [[PediatricMycoplasmaPneumoniaCareBoundary]] - infection-specific boundary where prevention and stewardship meet.
 - [[AntimicrobialResistance]] - reason preventive antibiotic use is not a substitute for exposure reduction.
+- [[ColdFluSupplementEvidenceBoundary]] - separates adjunct supplement claims from prevention layers with stronger direct relevance.

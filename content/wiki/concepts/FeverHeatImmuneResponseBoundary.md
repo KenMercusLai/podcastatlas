@@ -4,7 +4,8 @@ type: concept
 tags: [fever, heat, hydrotherapy, immunity, respiratory-health]
 sources:
   - how-to-enhance-your-immune-system-dr-roger-seheult-scim4509990462
-last_updated: 2026-09-22
+  - how-to-prevent-treat-colds-flu-scim6817932732
+last_updated: 2026-09-27
 knowledge_schema: synthesis-v1
 ---
 
@@ -17,6 +18,8 @@ Fever and heat immune-response boundary distinguishes the physiological possibil
 [[RogerSeheult]] argues that fever is part of host defense rather than automatically the disease itself, highlighting interferon and temperature-sensitive antiviral signaling. This supports a cautious conceptual correction: symptom suppression and disease control are not always the same goal.
 
 The episode then moves from physiology to intervention by discussing hot baths, showers, fomentations, sauna, and hot-cold contrast. That move requires an evidence boundary. Historical sanitarium reports, laboratory signaling results, and traditional practice can motivate research, but they do not establish safe or effective home treatment for acute infection. Temperature, duration, hydration, cardiovascular status, pregnancy, age, medication use, and illness severity all matter.
+
+The repeated-sauna evidence adds a useful state boundary: heat exposure may act as a training stress when a person is well, but sauna is not recommended when someone is already clearly sick or very run down. A transient cortisol or leukocyte change still does not prove fewer infections or faster recovery.
 
 ## Key Claims
 - Fever can be a coordinated host response and should not automatically be interpreted as biological failure.
@@ -32,14 +35,16 @@ The episode then moves from physiology to intervention by discussing hot baths, 
 - Heat practices: [[how-to-enhance-your-immune-system-dr-roger-seheult-scim4509990462]] describes hot fomentations, baths, showers, sauna, and historical hydrotherapy.
 - Cold mechanism: [[how-to-enhance-your-immune-system-dr-roger-seheult-scim4509990462]] proposes vasoconstriction-related demargination as an explanation for transient white-blood-cell movement.
 - Evidence limit: [[how-to-enhance-your-immune-system-dr-roger-seheult-scim4509990462]] relies partly on 1918-era institutional comparisons and traditional practice rather than contemporary randomized outcome trials.
+- Sauna-state boundary: [[how-to-prevent-treat-colds-flu-scim6817932732]] reports cortisol and leukocyte changes after repeated sessions but advises avoiding sauna when clearly ill or depleted.
 
 ## Counterevidence & Qualifications
-Mechanistic signaling, transient cell-count changes, and historical group comparisons do not establish clinical benefit. Deliberate heat can worsen dehydration, dizziness, hypotension, cardiovascular strain, or overheating, and cold can provoke cardiovascular or respiratory stress. This concept is not advice to withhold antipyretics, induce fever, or use sauna or hydrotherapy during illness; those decisions depend on symptoms, diagnosis, risk factors, and professional guidance.
+Mechanistic signaling, transient cell-count changes, a small training study, and historical group comparisons do not establish clinical benefit. Deliberate heat can worsen dehydration, dizziness, hypotension, cardiovascular strain, or overheating, and cold can provoke cardiovascular or respiratory stress. This concept is not advice to withhold antipyretics, induce fever, or use sauna or hydrotherapy during illness; those decisions depend on symptoms, diagnosis, risk factors, and professional guidance.
 
 ## What Changed
 - Created a boundary between fever physiology and deliberate heat-treatment claims.
 - Preserved the interferon hypothesis while preventing direct inference from mechanism to clinical efficacy.
 - Added explicit heat, cold, hydration, and escalation qualifications.
+- Added a well-versus-actively-ill state boundary for sauna and other deliberate heat stress.
 
 ## Related Concepts
 - [[AcuteStressImmunePriming]] - adjacent short-term stress-response mechanism with chronic-use limits.

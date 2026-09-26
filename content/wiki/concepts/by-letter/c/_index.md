@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8317
+wiki_total_pages: 8318
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -1256,6 +1256,9 @@ wiki_pages:
   - key: "CoinRetirementEconomics"
     title: "Coin Retirement Economics"
     url: "/wiki/concepts/coinretirementeconomics/"
+  - key: "ColdFluSupplementEvidenceBoundary"
+    title: "Cold and Flu Supplement Evidence Boundary"
+    url: "/wiki/concepts/coldflusupplementevidenceboundary/"
   - key: "ColdShiveringThermogenesis"
     title: "Cold and Shivering Thermogenesis"
     url: "/wiki/concepts/coldshiveringthermogenesis/"
