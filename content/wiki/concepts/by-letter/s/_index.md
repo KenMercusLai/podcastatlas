@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 8287
+wiki_total_pages: 8288
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -38,6 +38,9 @@ wiki_pages:
   - key: "SaaSTrustMoat"
     title: "SaaS Trust Moat"
     url: "/wiki/concepts/saastrustmoat/"
+  - key: "SacralKingshipPoliticalControl"
+    title: "Sacral Kingship and Political Control"
+    url: "/wiki/concepts/sacralkingshippoliticalcontrol/"
   - key: "SacralQueenshipAndRegency"
     title: "Sacral Queenship and Regency"
     url: "/wiki/concepts/sacralqueenshipandregency/"

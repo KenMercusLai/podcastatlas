@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [415. The Murder of Richard II (Part 3)](sources/415-the-murder-of-richard-ii-part-3-glt6435684837.md) — The Rest Is History episode on Richard II's sacred kingship, the Lords Appellant, coercive personal rule, deposition, and the Lancastrian legitimacy crisis.
 - [416. The Canterbury Tales (Part 4)](sources/416-the-canterbury-tales-part-4-glt1956280616.md) — The Rest Is History on Chaucer, plague-era mobility, pilgrimage, hierarchy, the Wife of Bath, and English vernacular literary legitimacy.
 - [417. Britain in 1974: State of Emergency (Part 1)](sources/417-britain-in-1974-state-of-emergency-part-1-glt6761791949.md) — The Rest Is History on Heath's technocratic government, incomes policy, the oil shock, miners' leverage, and the three-day week before the February election.
 - [418. Britain in 1974: The Crisis Election (Part 2)](sources/418-britain-in-1974-the-crisis-election-part-2-glt9690615062.md) — The Rest Is History on the M62 bombing, Heath's failed February 1974 election gamble, Labour's radical manifesto, Liberal gains, Powell's Europe intervention, and Wilson's minority return.
@@ -3168,14 +3169,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [傅饶 / Fu Rao](entities/FuRao.md) — Ophthalmology-side doctor recounting delayed retinal detachment and an acute patient-crisis intervention.
 - [吴宾 / Wu Bin](entities/WuBin.md) — Oral-surgery doctor connecting early patient trust with recognition and referral of unusual adolescent oral tumors.
 - [John Dickie](entities/JohnDickie.md) — Historian of Italy presenting Italian cuisine as a city-centered, exchange-driven tradition rather than an unchanged peasant inheritance.
-- [Richard II of England](entities/RichardIIOfEngland.md) — Deposed English king whose confiscation of the Lancastrian inheritance and death made Henry IV's legitimacy crisis durable.
+- [John of Gaunt](entities/JohnOfGaunt.md) — Lancastrian magnate whose stabilizing influence and contested inheritance linked Richard II's government to Henry IV's return.
+- [Lords Appellant](entities/LordsAppellant.md) — Magnate coalition that defeated Richard II's favorites, imposed control through Parliament, and became the target of delayed royal revenge.
+- [Richard II of England](entities/RichardIIOfEngland.md) — Anointed English king whose Appellant conflict, coercive restoration, inheritance seizure, deposition, and death created a durable legitimacy crisis.
 - [Teo Soleymani](entities/TeoSoleymani.md) — Dermatologist and dermatologic surgeon connecting simple barrier care, calibrated UV protection, active treatment, immune biology, and skin-cancer surveillance.
 - [Battle of Shrewsbury](entities/BattleOfShrewsbury.md) — 1403 royal victory where longbow combat, Prince Henry's facial wound, and Hotspur's death preserved Lancastrian rule.
 - [Henry Percy "Hotspur"](entities/HenryPercyHotspur.md) — Rebel noble whose failed 1403 rising and Shakespearean afterlife made him Prince Hal's remembered rival.
 - [Owain Glyndŵr](entities/OwainGlyndwr.md) — Welsh revolt leader whose sustained challenge became Prince Henry's school of command and administration.
 - [Sir John Oldcastle](entities/JohnOldcastle.md) — Prince Henry's soldier-friend, later Lollard rebel, and historical name behind the early Falstaff character.
 - [Sir John Falstaff](entities/Falstaff.md) — Shakespeare's comic knight and skeptical counterweight to honour, glory, and Prince Hal's transformation.
-- [Henry IV of England](entities/HenryIVOfEngland.md) — Lancastrian king whose disputed accession, rebellion survival, family government, and French interventions shaped Henry V's inheritance.
+- [Henry IV of England](entities/HenryIVOfEngland.md) — Former Lord Appellant and inheritance claimant whose disputed accession, rebellion survival, and family government shaped Henry V's inheritance.
 - [Louis of Orléans](entities/LouisOfOrleans.md) — French prince whose murder by John the Fearless helped turn court rivalry into civil war.
 - [Southampton Plot](entities/SouthamptonPlot.md) — Pre-invasion conspiracy exposing the domestic legitimacy risk surrounding Henry V's 1415 campaign.
 - [方舟 / Fangzhou (Photographer)](entities/FangzhouPhotographer.md) — Story-led portrait photographer combining research, direction, location production, contingency, client service, and self-directed creation.
@@ -14124,7 +14127,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Trust Reciprocity Loop](concepts/TrustReciprocityLoop.md) — Feedback process through which trust or guardedness changes counterpart behavior and the evidence available for future belief.
 - [Perceived Polarization Gap](concepts/PerceivedPolarizationGap.md) — Difference between imagined rival extremity and representative evidence about political attitudes, hostility, and violence support.
 - [Armagnac-Burgundian Civil War](concepts/ArmagnacBurgundianCivilWar.md) — French factional struggle that fragmented resistance, enabled English expansion, and culminated in post-Montereau realignment.
-- [Lancastrian Legitimacy](concepts/LancastrianLegitimacy.md) — Process from disputed deposition, election, and regicide burden through military survival to Agincourt's dynastic stabilization.
+- [Lancastrian Legitimacy](concepts/LancastrianLegitimacy.md) — Process from Appellant conflict, inheritance seizure, disputed deposition, and regicide burden through military survival to Agincourt's stabilization.
+- [Sacral Kingship and Political Control](concepts/SacralKingshipPoliticalControl.md) — Richard II's fusion of anointing, image, fiscal independence, obedience, and coercive authority, qualified by coalition failure.
 - [Anglo-French Dual Monarchy](concepts/AngloFrenchDualMonarchy.md) — Intended union of separate English and French kingdoms under one hereditary crown after Troyes.
 - [Lifecycle Oral Health Prevention / 全生命周期口腔预防](concepts/LifecycleOralHealthPrevention.md) — Age-sensitive framework joining daily hygiene, diet, developmental review, professional prevention, and timely restoration.
 - [Oral-Care Product Treatment Boundary / 口腔护理产品治疗边界](concepts/OralCareProductTreatmentBoundary.md) — Boundary separating supportive hygiene products from cure, regeneration, infection-treatment, or permanent-repair claims.

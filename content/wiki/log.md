@@ -23104,3 +23104,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | 415. The Murder of Richard II (Part 3)
+
+Added source `415-the-murder-of-richard-ii-part-3-glt6435684837`; created `JohnOfGaunt`, `LordsAppellant`, and `SacralKingshipPoliticalControl`; and updated `RichardIIOfEngland`, `HenryIVOfEngland`, `LancastrianLegitimacy`, `ShakespeareHistoryPlayPoliticalMemory`, the canonical index, and overview from their complete bounded source sets. Core synthesis: Richard's sacred image and recovered authority could not compensate for weak military prestige, fiscal conflict, favorite politics, confiscation, and revenge, while Henry's inheritance defense became a deposition that transferred the crisis into disputed Lancastrian legitimacy. No settled contradiction found; Richard's psychology, Gloucester's death, Henry's initial intentions, succession priority, Richard's death, and 1399's exact causal weight in the Wars of the Roses remain interpretive or source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

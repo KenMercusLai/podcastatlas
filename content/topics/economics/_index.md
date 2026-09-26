@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2110
+topic_total_pages: 2111
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2524,6 +2524,9 @@ topic_concepts:
   - key: "SaaSCapitalStructureReset"
     title: "SaaS Capital Structure Reset"
     url: "/wiki/concepts/saascapitalstructurereset/"
+  - key: "SacralKingshipPoliticalControl"
+    title: "Sacral Kingship and Political Control"
+    url: "/wiki/concepts/sacralkingshippoliticalcontrol/"
   - key: "SakokuDutchWindow"
     title: "Sakoku Dutch Window"
     url: "/wiki/concepts/sakokudutchwindow/"

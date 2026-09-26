@@ -64561,9 +64561,9 @@
       "url": "/wiki/entities/henryiofengland/"
     },
     "HenryIVOfEngland": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT7554933021 [GLT7554933021].md",
@@ -64585,9 +64585,16 @@
           "show": "The Rest Is History",
           "title": "485. Henry IV: The Usurper King (Part 1)",
           "url": "/wiki/sources/485-henry-iv-the-usurper-king-part-1-glt8868267122/"
+        },
+        {
+          "episode_file": "GLT6435684837 [GLT6435684837].md",
+          "key": "415-the-murder-of-richard-ii-part-3-glt6435684837",
+          "show": "The Rest Is History",
+          "title": "415. The Murder of Richard II (Part 3)",
+          "url": "/wiki/sources/415-the-murder-of-richard-ii-part-3-glt6435684837/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-27",
       "url": "/wiki/entities/henryivofengland/"
     },
     "HenryMintzberg": {
@@ -77155,6 +77162,29 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/johnmccarthy/"
     },
+    "JohnOfGaunt": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "GLT8868267122 [GLT8868267122].md",
+          "key": "485-henry-iv-the-usurper-king-part-1-glt8868267122",
+          "show": "The Rest Is History",
+          "title": "485. Henry IV: The Usurper King (Part 1)",
+          "url": "/wiki/sources/485-henry-iv-the-usurper-king-part-1-glt8868267122/"
+        },
+        {
+          "episode_file": "GLT6435684837 [GLT6435684837].md",
+          "key": "415-the-murder-of-richard-ii-part-3-glt6435684837",
+          "show": "The Rest Is History",
+          "title": "415. The Murder of Richard II (Part 3)",
+          "url": "/wiki/sources/415-the-murder-of-richard-ii-part-3-glt6435684837/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/johnofgaunt/"
+    },
     "JohnOldcastle": {
       "episode_count": 1,
       "show_count": 1,
@@ -80819,9 +80849,9 @@
       "url": "/wiki/entities/lambdalabs/"
     },
     "LancastrianLegitimacy": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT2692942762 [GLT2692942762].md",
@@ -80857,9 +80887,16 @@
           "show": "The Rest Is History",
           "title": "485. Henry IV: The Usurper King (Part 1)",
           "url": "/wiki/sources/485-henry-iv-the-usurper-king-part-1-glt8868267122/"
+        },
+        {
+          "episode_file": "GLT6435684837 [GLT6435684837].md",
+          "key": "415-the-murder-of-richard-ii-part-3-glt6435684837",
+          "show": "The Rest Is History",
+          "title": "415. The Murder of Richard II (Part 3)",
+          "url": "/wiki/sources/415-the-murder-of-richard-ii-part-3-glt6435684837/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/lancastrianlegitimacy/"
     },
     "LaneGreen": {
@@ -89228,6 +89265,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/lordoftheflies/"
+    },
+    "LordsAppellant": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6435684837 [GLT6435684837].md",
+          "key": "415-the-murder-of-richard-ii-part-3-glt6435684837",
+          "show": "The Rest Is History",
+          "title": "415. The Murder of Richard II (Part 3)",
+          "url": "/wiki/sources/415-the-murder-of-richard-ii-part-3-glt6435684837/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/lordsappellant/"
     },
     "LoriGottlieb": {
       "episode_count": 2,
@@ -120960,9 +121013,9 @@
       "url": "/wiki/entities/richardiiiplay/"
     },
     "RichardIIOfEngland": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8868267122 [GLT8868267122].md",
@@ -120970,9 +121023,16 @@
           "show": "The Rest Is History",
           "title": "485. Henry IV: The Usurper King (Part 1)",
           "url": "/wiki/sources/485-henry-iv-the-usurper-king-part-1-glt8868267122/"
+        },
+        {
+          "episode_file": "GLT6435684837 [GLT6435684837].md",
+          "key": "415-the-murder-of-richard-ii-part-3-glt6435684837",
+          "show": "The Rest Is History",
+          "title": "415. The Murder of Richard II (Part 3)",
+          "url": "/wiki/sources/415-the-murder-of-richard-ii-part-3-glt6435684837/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-27",
       "url": "/wiki/entities/richardiiofengland/"
     },
     "RichardJDaley": {
@@ -123380,6 +123440,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/saboramexicosalsas/"
+    },
+    "SacralKingshipPoliticalControl": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6435684837 [GLT6435684837].md",
+          "key": "415-the-murder-of-richard-ii-part-3-glt6435684837",
+          "show": "The Rest Is History",
+          "title": "415. The Murder of Richard II (Part 3)",
+          "url": "/wiki/sources/415-the-murder-of-richard-ii-part-3-glt6435684837/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/sacralkingshippoliticalcontrol/"
     },
     "SacralQueenshipAndRegency": {
       "episode_count": 1,
@@ -126694,9 +126770,9 @@
       "url": "/wiki/entities/shakespeareandcompany/"
     },
     "ShakespeareHistoryPlayPoliticalMemory": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lthQTLI5T6jSfN38mjTITZpOq3Oo [lthQTLI5T6jSfN38mjTITZpOq3Oo].md",
@@ -126718,9 +126794,16 @@
           "show": "The Rest Is History",
           "title": "485. Henry IV: The Usurper King (Part 1)",
           "url": "/wiki/sources/485-henry-iv-the-usurper-king-part-1-glt8868267122/"
+        },
+        {
+          "episode_file": "GLT6435684837 [GLT6435684837].md",
+          "key": "415-the-murder-of-richard-ii-part-3-glt6435684837",
+          "show": "The Rest Is History",
+          "title": "415. The Murder of Richard II (Part 3)",
+          "url": "/wiki/sources/415-the-murder-of-richard-ii-part-3-glt6435684837/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/shakespearehistoryplaypoliticalmemory/"
     },
     "ShanBingLateHan": {

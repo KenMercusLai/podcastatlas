@@ -1658,6 +1658,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "415-the-murder-of-richard-ii-part-3-glt6435684837": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "416-the-canterbury-tales-part-4-glt1956280616": [
     {
       "key": "history",
@@ -63433,6 +63440,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "SacralKingshipPoliticalControl": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "SacrificingOthersEthics": [
