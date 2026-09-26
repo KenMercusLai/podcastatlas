@@ -9,7 +9,7 @@ topic_pages:
     label: "Technology"
     description: "AI, software, infrastructure, computing, robotics, security, chips, and the systems that turn technical capability into products."
     url: "/topics/technology/"
-    count: 3173
+    count: 3174
   - key: "economics"
     label: "Economics"
     description: "Markets, finance, investing, trade, companies, entrepreneurship, and the policies and incentives that shape economic activity."
@@ -19,7 +19,7 @@ topic_pages:
     label: "History"
     description: "Historical people, events, institutions, evidence, and interpretation across Chinese and world history."
     url: "/topics/history/"
-    count: 2016
+    count: 2019
   - key: "politics"
     label: "Politics"
     description: "Government, governance, law, diplomacy, elections, regulation, civil liberties, and geopolitical power."

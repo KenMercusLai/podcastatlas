@@ -9780,6 +9780,54 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/apobparticleburden/"
     },
+    "Apollo11": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1422432857 [GLT1422432857].md",
+          "key": "438-the-moonwalkers-with-tom-hanks-glt1422432857",
+          "show": "The Rest Is History",
+          "title": "438. The Moonwalkers, with Tom Hanks",
+          "url": "/wiki/sources/438-the-moonwalkers-with-tom-hanks-glt1422432857/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/apollo11/"
+    },
+    "ApolloMissionRiskDiscipline": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1422432857 [GLT1422432857].md",
+          "key": "438-the-moonwalkers-with-tom-hanks-glt1422432857",
+          "show": "The Rest Is History",
+          "title": "438. The Moonwalkers, with Tom Hanks",
+          "url": "/wiki/sources/438-the-moonwalkers-with-tom-hanks-glt1422432857/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/apollomissionriskdiscipline/"
+    },
+    "ApolloProgram": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1422432857 [GLT1422432857].md",
+          "key": "438-the-moonwalkers-with-tom-hanks-glt1422432857",
+          "show": "The Rest Is History",
+          "title": "438. The Moonwalkers, with Tom Hanks",
+          "url": "/wiki/sources/438-the-moonwalkers-with-tom-hanks-glt1422432857/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/apolloprogram/"
+    },
     "AppLovin": {
       "episode_count": 1,
       "show_count": 1,
@@ -17655,6 +17703,22 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/concepts/businesseliterulehongkong/"
+    },
+    "BuzzAldrin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1422432857 [GLT1422432857].md",
+          "key": "438-the-moonwalkers-with-tom-hanks-glt1422432857",
+          "show": "The Rest Is History",
+          "title": "438. The Moonwalkers, with Tom Hanks",
+          "url": "/wiki/sources/438-the-moonwalkers-with-tom-hanks-glt1422432857/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/buzzaldrin/"
     },
     "ByHealth": {
       "episode_count": 1,
@@ -94572,6 +94636,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/miaoweisanlian/"
     },
+    "MichaelCollins": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1422432857 [GLT1422432857].md",
+          "key": "438-the-moonwalkers-with-tom-hanks-glt1422432857",
+          "show": "The Rest Is History",
+          "title": "438. The Moonwalkers, with Tom Hanks",
+          "url": "/wiki/sources/438-the-moonwalkers-with-tom-hanks-glt1422432857/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/michaelcollins/"
+    },
     "MichaelKratsios": {
       "episode_count": 3,
       "show_count": 1,
@@ -94955,6 +95035,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/entities/microsoft/"
+    },
+    "MidCenturyTechnologicalOptimism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1422432857 [GLT1422432857].md",
+          "key": "438-the-moonwalkers-with-tom-hanks-glt1422432857",
+          "show": "The Rest Is History",
+          "title": "438. The Moonwalkers, with Tom Hanks",
+          "url": "/wiki/sources/438-the-moonwalkers-with-tom-hanks-glt1422432857/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/midcenturytechnologicaloptimism/"
     },
     "MidMarketDataTalentGap": {
       "episode_count": 1,
@@ -96809,6 +96905,43 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/concepts/moodmeteremotionalcheckin/"
+    },
+    "Moon": {
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "tech_20260807_0807_MP_TECH_pod_128 [tech_20260807_0807_MP_TECH_pod_128].md",
+          "key": "tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Gig workers train humanoids on household chores",
+          "url": "/wiki/sources/tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260211_0211_MP_TECH_pod_128 [tech_20260211_0211_MP_TECH_pod_128].md",
+          "key": "tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Is the moon (and its resources) up for grabs?",
+          "url": "/wiki/sources/tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "E239｜SpaceX要让太空算力从科幻走向现实，但它划算吗？ [259291f5-2715-4dde-bcfe-b5beb4df5793].md",
+          "key": "e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793",
+          "show": "硅谷101",
+          "title": "E239｜SpaceX要让太空算力从科幻走向现实，但它划算吗？",
+          "url": "/wiki/sources/e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793/"
+        },
+        {
+          "episode_file": "GLT1422432857 [GLT1422432857].md",
+          "key": "438-the-moonwalkers-with-tom-hanks-glt1422432857",
+          "show": "The Rest Is History",
+          "title": "438. The Moonwalkers, with Tom Hanks",
+          "url": "/wiki/sources/438-the-moonwalkers-with-tom-hanks-glt1422432857/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/moon/"
     },
     "MoonMarsStrategySplit": {
       "episode_count": 2,
@@ -98958,6 +99091,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/entities/nemoclaw/"
+    },
+    "NeilArmstrong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1422432857 [GLT1422432857].md",
+          "key": "438-the-moonwalkers-with-tom-hanks-glt1422432857",
+          "show": "The Rest Is History",
+          "title": "438. The Moonwalkers, with Tom Hanks",
+          "url": "/wiki/sources/438-the-moonwalkers-with-tom-hanks-glt1422432857/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/neilarmstrong/"
     },
     "NelsonMandela": {
       "episode_count": 2,
@@ -138457,6 +138606,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/toleranceofdifference/"
+    },
+    "TomHanks": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1422432857 [GLT1422432857].md",
+          "key": "438-the-moonwalkers-with-tom-hanks-glt1422432857",
+          "show": "The Rest Is History",
+          "title": "438. The Moonwalkers, with Tom Hanks",
+          "url": "/wiki/sources/438-the-moonwalkers-with-tom-hanks-glt1422432857/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/tomhanks/"
     },
     "TomNuttall": {
       "episode_count": 1,

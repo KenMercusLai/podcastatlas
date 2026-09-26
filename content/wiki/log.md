@@ -22758,3 +22758,11 @@ Added source `overcoming-physical-emotional-challenges-coleman-ruiz-scim66327005
 ## [2026-09-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-26] ingest | 438. The Moonwalkers, with Tom Hanks
+
+Added source `438-the-moonwalkers-with-tom-hanks-glt1422432857`; created `TomHanks`, `ApolloProgram`, `Apollo11`, `NeilArmstrong`, `BuzzAldrin`, `MichaelCollins`, `ApolloMissionRiskDiscipline`, and `MidCenturyTechnologicalOptimism`; and updated `Moon`, the canonical index, and overview from its complete bounded source set. Core synthesis: Apollo's achievement depended on staged learning, explicit catastrophe planning, trained judgment, and sustained attention to the next solvable task, while the Moon became a scientific, memorial, governance, and future-infrastructure environment. No settled contradiction found. Risk estimates, astronaut motives and dialogue, geology proportions, and future lunar-return timing remain episode-attributed or source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

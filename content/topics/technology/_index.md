@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3173
+topic_total_pages: 3174
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2890,6 +2890,9 @@ topic_concepts:
   - key: "Microsoft365CopilotAdoption"
     title: "Microsoft 365 Copilot Adoption"
     url: "/wiki/concepts/microsoft365copilotadoption/"
+  - key: "MidCenturyTechnologicalOptimism"
+    title: "Mid-Century Technological Optimism"
+    url: "/wiki/concepts/midcenturytechnologicaloptimism/"
   - key: "MidMarketDataTalentGap"
     title: "Mid-Market Data Talent Gap"
     url: "/wiki/concepts/midmarketdatatalentgap/"

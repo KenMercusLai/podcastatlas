@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 10814
+wiki_total_pages: 10820
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -776,6 +776,9 @@ wiki_pages:
   - key: "TomGardner"
     title: "Tom Gardner"
     url: "/wiki/entities/tomgardner/"
+  - key: "TomHanks"
+    title: "Tom Hanks"
+    url: "/wiki/entities/tomhanks/"
   - key: "TomMayer"
     title: "Tom Mayer"
     url: "/wiki/entities/tommayer/"

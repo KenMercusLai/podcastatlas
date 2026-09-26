@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [438. The Moonwalkers, with Tom Hanks](sources/438-the-moonwalkers-with-tom-hanks-glt1422432857.md) — The Rest Is History conversation restoring contingency, staged learning, crew responsibility, crisis discipline, and technological optimism to the Apollo story.
 - [Overcoming Physical & Emotional Challenges | Coleman Ruiz](sources/overcoming-physical-emotional-challenges-coleman-ruiz-scim6632700547.md) — Huberman Lab interview on disciplined intensity, team identity, cumulative combat loss, civilian transition, depression, suicide risk, recovery, and range-based toughness.
 - [VOL.107躁狂？抑郁？网红急诊科医生的精神AB面](sources/likqsiszm7z-evaz5ajxerxzdliv-likqsiszm7z-evaz5ajxerxzdliv.md) — 这病说来话长 episode on clinician vulnerability, 住院总 role overload, mood and self-diagnosis boundaries, medical-creator pressure, and ICU recovery.
 - [GUEST SERIES | Dr. Matt Walker: Protocols to Improve Your Sleep](sources/guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663.md) — Huberman Lab sleep-series episode on regularity, light, temperature, caffeine, substances, CBT-I tools, sleep anxiety, and experimental enhancement technologies.
@@ -2868,6 +2869,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Protocols to Strengthen & Pain Proof Your Back](sources/protocols-to-strengthen-pain-proof-your-back-scim8264963647.md) — Huberman Lab solo episode on mechanism-sensitive back care, the McGill Big Three, whole-body support, movement awareness, and clinical escalation boundaries.
 
 ## Entities
+- [Tom Hanks](entities/TomHanks.md) — Actor, producer, and public-history enthusiast interpreting Apollo through childhood memory, research, and astronaut conversations.
+- [Apollo Program](entities/ApolloProgram.md) — NASA lunar program synthesized as staged learning, interdependent mission systems, scientific work, and cultural memory.
+- [Apollo 11](entities/Apollo11.md) — First crewed lunar landing, framed through contingency planning, difficult descent, crew-role asymmetry, and return-chain risk.
+- [Neil Armstrong](entities/NeilArmstrong.md) — Apollo 11 commander represented through landing judgment, first-step symbolism, and mission interdependence.
+- [Buzz Aldrin](entities/BuzzAldrin.md) — Apollo 11 lunar module pilot connecting technical work, personal ritual, and astronaut competition.
+- [Michael Collins](entities/MichaelCollins.md) — Apollo 11 command module pilot whose orbital work included preparing for a possible solo return.
 - [Coleman Ruiz](entities/ColemanRuiz.md) — Former Navy SEAL and Tier 1 operator connecting elite performance, cumulative loss, civilian transition, severe depression, and recovery.
 - [萌萌将 / Mengmeng Jiang](entities/MengmengJiang.md) — Emergency physician and medical creator discussing 住院总 work, clinician vulnerability, emotional fluctuation, and online visibility.
 - [David Mancuso](entities/DavidMancuso.md) — New York host whose Love Saves the Day and Loft parties helped form disco's mixed club culture.
@@ -13697,6 +13704,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lord Elgin](entities/LordElgin.md) — British diplomat at the center of Byron's cultural-plunder attack and Hobhouse's preservation counterargument.
 
 ## Concepts
+- [Apollo Mission Risk Discipline](concepts/ApolloMissionRiskDiscipline.md) — Staged testing, contingency planning, trained judgment, and next-task focus under extreme mission uncertainty.
+- [Mid-Century Technological Optimism](concepts/MidCenturyTechnologicalOptimism.md) — Qualified belief that public ambition and coordinated engineering could turn difficult imagined futures into working systems.
 - [Clinician Vulnerability and Self-Care / 医护脆弱性与自我照护](concepts/ClinicianVulnerabilityAndSelfCare.md) — Medical expertise does not remove clinicians' bodily limits, fear, help needs, or patient-side learning.
 - [Clinical Role Overload / 临床角色过载](concepts/ClinicalRoleOverload.md) — Accumulation of care, teaching, administration, scheduling, coordination, and conflict work in one clinician role.
 - [Medical Creator Platform Pressure / 医学创作者平台压力](concepts/MedicalCreatorPlatformPressure.md) — Identity, scrutiny, harassment, imitation, and emotional costs attached to visible public medical education.

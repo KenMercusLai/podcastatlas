@@ -1099,6 +1099,10 @@
     "title": "43.西游记：咄！你是什么妖精！",
     "url": "/wiki/sources/43-xiyouji-duo-ni-shi-shenme-yaojing-618154182/"
   },
+  "438-the-moonwalkers-with-tom-hanks-glt1422432857": {
+    "title": "438. The Moonwalkers, with Tom Hanks",
+    "url": "/wiki/sources/438-the-moonwalkers-with-tom-hanks-glt1422432857/"
+  },
   "439-disco-sex-and-race-in-seventies-america-glt8206137792": {
     "title": "439. Disco: Sex and Race in Seventies America",
     "url": "/wiki/sources/439-disco-sex-and-race-in-seventies-america-glt8206137792/"
@@ -6651,9 +6655,21 @@
     "title": "Apodex",
     "url": "/wiki/entities/apodex/"
   },
+  "Apollo11": {
+    "title": "Apollo 11",
+    "url": "/wiki/entities/apollo11/"
+  },
   "ApolloGlobalManagement": {
     "title": "Apollo Global Management",
     "url": "/wiki/entities/apolloglobalmanagement/"
+  },
+  "ApolloMissionRiskDiscipline": {
+    "title": "Apollo Mission Risk Discipline",
+    "url": "/wiki/concepts/apollomissionriskdiscipline/"
+  },
+  "ApolloProgram": {
+    "title": "Apollo Program",
+    "url": "/wiki/entities/apolloprogram/"
   },
   "AppLovin": {
     "title": "AppLovin",
@@ -10734,6 +10750,10 @@
   "BuySideInvestmentAdvisory": {
     "title": "Buy-Side Investment Advisory / 买方投资顾问",
     "url": "/wiki/concepts/buysideinvestmentadvisory/"
+  },
+  "BuzzAldrin": {
+    "title": "Buzz Aldrin",
+    "url": "/wiki/entities/buzzaldrin/"
   },
   "BuzzFeed": {
     "title": "BuzzFeed",
@@ -45035,6 +45055,10 @@
     "title": "Michael Burry",
     "url": "/wiki/entities/michaelburry/"
   },
+  "MichaelCollins": {
+    "title": "Michael Collins",
+    "url": "/wiki/entities/michaelcollins/"
+  },
   "MichaelCoppenheifer": {
     "title": "Michael Coppenheifer",
     "url": "/wiki/entities/michaelcoppenheifer/"
@@ -45202,6 +45226,10 @@
   "MicrosoftResearchAsia": {
     "title": "Microsoft Research Asia",
     "url": "/wiki/entities/microsoftresearchasia/"
+  },
+  "MidCenturyTechnologicalOptimism": {
+    "title": "Mid-Century Technological Optimism",
+    "url": "/wiki/concepts/midcenturytechnologicaloptimism/"
   },
   "MidMarketDataTalentGap": {
     "title": "Mid-Market Data Talent Gap",
@@ -47458,6 +47486,10 @@
   "NeihuangBattleLateHan": {
     "title": "内黄之战 / Neihuang Battle (Late Han)",
     "url": "/wiki/entities/neihuangbattlelatehan/"
+  },
+  "NeilArmstrong": {
+    "title": "Neil Armstrong",
+    "url": "/wiki/entities/neilarmstrong/"
   },
   "NeilBlaney": {
     "title": "Neil Blaney",
@@ -67286,6 +67318,10 @@
   "TomGardner": {
     "title": "Tom Gardner",
     "url": "/wiki/entities/tomgardner/"
+  },
+  "TomHanks": {
+    "title": "Tom Hanks",
+    "url": "/wiki/entities/tomhanks/"
   },
   "TomMayer": {
     "title": "Tom Mayer",

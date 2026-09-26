@@ -1684,6 +1684,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "438-the-moonwalkers-with-tom-hanks-glt1422432857": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "439-disco-sex-and-race-in-seventies-america-glt8206137792": [
     {
       "key": "history",
@@ -48731,6 +48738,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "MidCenturyTechnologicalOptimism": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "MidMarketDataTalentGap": [
     {
       "key": "technology",
@@ -73317,6 +73336,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "TomHanks": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "TomMayer": [

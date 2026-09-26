@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 10814
+wiki_total_pages: 10820
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -863,6 +863,9 @@ wiki_pages:
   - key: "MichaelBurry"
     title: "Michael Burry"
     url: "/wiki/entities/michaelburry/"
+  - key: "MichaelCollins"
+    title: "Michael Collins"
+    url: "/wiki/entities/michaelcollins/"
   - key: "MichaelCoppenheifer"
     title: "Michael Coppenheifer"
     url: "/wiki/entities/michaelcoppenheifer/"
