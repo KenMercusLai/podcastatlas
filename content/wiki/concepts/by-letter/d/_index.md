@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 8179
+wiki_total_pages: 8182
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -755,6 +755,12 @@ wiki_pages:
   - key: "DisciplineOverMotivation"
     title: "Discipline Over Motivation"
     url: "/wiki/concepts/disciplineovermotivation/"
+  - key: "Disco"
+    title: "Disco"
+    url: "/wiki/concepts/disco/"
+  - key: "DiscoBacklash"
+    title: "Disco Backlash"
+    url: "/wiki/concepts/discobacklash/"
   - key: "DiscoveryAdvertising"
     title: "Discovery Advertising"
     url: "/wiki/concepts/discoveryadvertising/"

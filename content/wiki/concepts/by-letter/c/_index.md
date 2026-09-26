@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8179
+wiki_total_pages: 8182
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -1781,6 +1781,9 @@ wiki_pages:
   - key: "ContinuousBatching"
     title: "Continuous Batching"
     url: "/wiki/concepts/continuousbatching/"
+  - key: "ContinuousDJMixing"
+    title: "Continuous DJ Mixing"
+    url: "/wiki/concepts/continuousdjmixing/"
   - key: "ContinuousGlucoseMonitoring"
     title: "Continuous Glucose Monitoring"
     url: "/wiki/concepts/continuousglucosemonitoring/"

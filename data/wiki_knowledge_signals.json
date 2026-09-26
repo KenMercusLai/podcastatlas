@@ -28812,6 +28812,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/continentalcongress/"
     },
+    "ContinuousDJMixing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8206137792 [GLT8206137792].md",
+          "key": "439-disco-sex-and-race-in-seventies-america-glt8206137792",
+          "show": "The Rest Is History",
+          "title": "439. Disco: Sex and Race in Seventies America",
+          "url": "/wiki/sources/439-disco-sex-and-race-in-seventies-america-glt8206137792/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/continuousdjmixing/"
+    },
     "ContinuousGlucoseMonitoring": {
       "episode_count": 3,
       "show_count": 3,
@@ -33116,6 +33132,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/entities/davidhyam/"
     },
+    "DavidMancuso": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8206137792 [GLT8206137792].md",
+          "key": "439-disco-sex-and-race-in-seventies-america-glt8206137792",
+          "show": "The Rest Is History",
+          "title": "439. Disco: Sex and Race in Seventies America",
+          "url": "/wiki/sources/439-disco-sex-and-race-in-seventies-america-glt8206137792/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/davidmancuso/"
+    },
     "DavidSilver": {
       "episode_count": 2,
       "show_count": 2,
@@ -36196,6 +36228,38 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/disciplineovermotivation/"
     },
+    "Disco": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8206137792 [GLT8206137792].md",
+          "key": "439-disco-sex-and-race-in-seventies-america-glt8206137792",
+          "show": "The Rest Is History",
+          "title": "439. Disco: Sex and Race in Seventies America",
+          "url": "/wiki/sources/439-disco-sex-and-race-in-seventies-america-glt8206137792/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/disco/"
+    },
+    "DiscoBacklash": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8206137792 [GLT8206137792].md",
+          "key": "439-disco-sex-and-race-in-seventies-america-glt8206137792",
+          "show": "The Rest Is History",
+          "title": "439. Disco: Sex and Race in Seventies America",
+          "url": "/wiki/sources/439-disco-sex-and-race-in-seventies-america-glt8206137792/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/discobacklash/"
+    },
     "Discord": {
       "episode_count": 2,
       "show_count": 2,
@@ -37177,6 +37241,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/donnaharaway/"
+    },
+    "DonnaSummer": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8206137792 [GLT8206137792].md",
+          "key": "439-disco-sex-and-race-in-seventies-america-glt8206137792",
+          "show": "The Rest Is History",
+          "title": "439. Disco: Sex and Race in Seventies America",
+          "url": "/wiki/sources/439-disco-sex-and-race-in-seventies-america-glt8206137792/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/donnasummer/"
     },
     "DopamineBaselineMaintenance": {
       "episode_count": 1,
@@ -50913,6 +50993,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/francescodelgiocondo/"
     },
+    "FrancisGrasso": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8206137792 [GLT8206137792].md",
+          "key": "439-disco-sex-and-race-in-seventies-america-glt8206137792",
+          "show": "The Rest Is History",
+          "title": "439. Disco: Sex and Race in Seventies America",
+          "url": "/wiki/sources/439-disco-sex-and-race-in-seventies-america-glt8206137792/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/francisgrasso/"
+    },
     "FrancisScottKey": {
       "episode_count": 1,
       "show_count": 1,
@@ -55975,6 +56071,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/ginapoe/"
+    },
+    "GiorgioMoroder": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8206137792 [GLT8206137792].md",
+          "key": "439-disco-sex-and-race-in-seventies-america-glt8206137792",
+          "show": "The Rest Is History",
+          "title": "439. Disco: Sex and Race in Seventies America",
+          "url": "/wiki/sources/439-disco-sex-and-race-in-seventies-america-glt8206137792/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/giorgiomoroder/"
     },
     "GiorgioVasari": {
       "episode_count": 1,
@@ -130152,6 +130264,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/stevebernard/"
     },
+    "SteveDahl": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8206137792 [GLT8206137792].md",
+          "key": "439-disco-sex-and-race-in-seventies-america-glt8206137792",
+          "show": "The Rest Is History",
+          "title": "439. Disco: Sex and Race in Seventies America",
+          "url": "/wiki/sources/439-disco-sex-and-race-in-seventies-america-glt8206137792/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/stevedahl/"
+    },
     "SteveHilton": {
       "episode_count": 3,
       "show_count": 1,
@@ -131300,6 +131428,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/entities/stuartmcmillan/"
+    },
+    "Studio54": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8206137792 [GLT8206137792].md",
+          "key": "439-disco-sex-and-race-in-seventies-america-glt8206137792",
+          "show": "The Rest Is History",
+          "title": "439. Disco: Sex and Race in Seventies America",
+          "url": "/wiki/sources/439-disco-sex-and-race-in-seventies-america-glt8206137792/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/studio54/"
     },
     "StutteringSpeechCoordination": {
       "episode_count": 2,

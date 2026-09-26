@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 10806
+wiki_total_pages: 10812
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -320,6 +320,9 @@ wiki_pages:
   - key: "DavidLieb"
     title: "David Lieb"
     url: "/wiki/entities/davidlieb/"
+  - key: "DavidMancuso"
+    title: "David Mancuso"
+    url: "/wiki/entities/davidmancuso/"
   - key: "DavidMcKenzie"
     title: "David McKenzie"
     url: "/wiki/entities/davidmckenzie/"
@@ -734,6 +737,9 @@ wiki_pages:
   - key: "DonnaHaraway"
     title: "Donna Haraway / 唐娜·哈拉维"
     url: "/wiki/entities/donnaharaway/"
+  - key: "DonnaSummer"
+    title: "Donna Summer"
+    url: "/wiki/entities/donnasummer/"
   - key: "DoorDash"
     title: "DoorDash"
     url: "/wiki/entities/doordash/"

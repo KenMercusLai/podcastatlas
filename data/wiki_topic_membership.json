@@ -1684,6 +1684,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "439-disco-sex-and-race-in-seventies-america-glt8206137792": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308": [
     {
       "key": "culture",
@@ -19533,6 +19545,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "ContinuousDJMixing": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "ContinuousLearningAgainstDisplacement": [
     {
       "key": "technology",
@@ -23224,6 +23248,20 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "Disco": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "DiscoBacklash": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "DiscourseOnMethod": [

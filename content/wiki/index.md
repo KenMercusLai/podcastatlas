@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [439. Disco: Sex and Race in Seventies America](sources/439-disco-sex-and-race-in-seventies-america-glt8206137792.md) — The Rest Is History on disco's underground formation, music technology, mixed club culture, commercial mainstreaming, backlash, and afterlife.
 - [Middlegarchs are the new Oligarchs](sources/middlegarchs-are-the-new-oligarchs-32587514.md) — Planet Money on wealthy pass-through-business owners, top-income growth, entrepreneurship, tax advantages, legislative representation, and locally protected markets.
 - [VOL.108精神心理科｜你只是误会了你的高光时刻 多动症不等于聪明 ADHD需不需要治是个问题](sources/lvfirgzbmtwypcjqyqry291qz6cw-lvfirgzbmtwypcjqyqry291qz6cw.md) — 这病说来话长 episode on age-relative ADHD assessment, functional impairment, family context, intelligence stereotypes, and individualized intervention.
 - [2026秋季篇E04 恋爱脑？石卷市未成年人杀人事件！](sources/2026-qiuji-pian-e04-lianai-nao-shijuan-shi-wei-chengnian-ren-sharen-shijian-flxcz-xqebpuihv6v-bh9hhdtbq1.md) — 日谈物语 excerpt on a holiday release pause, public-interest reasoning for a free future episode, and a small elevation-based Japan foliage trip; it never reaches the juvenile-murder case named in the title.
@@ -2864,6 +2865,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Protocols to Strengthen & Pain Proof Your Back](sources/protocols-to-strengthen-pain-proof-your-back-scim8264963647.md) — Huberman Lab solo episode on mechanism-sensitive back care, the McGill Big Three, whole-body support, movement awareness, and clinical escalation boundaries.
 
 ## Entities
+- [David Mancuso](entities/DavidMancuso.md) — New York host whose Love Saves the Day and Loft parties helped form disco's mixed club culture.
+- [Francis Grasso](entities/FrancisGrasso.md) — Sanctuary DJ associated with obscure selection, beat mixing, slip cueing, and continuous sets.
+- [Donna Summer](entities/DonnaSummer.md) — Singer whose Giorgio Moroder collaborations exemplify disco's vocal and electronic possibilities.
+- [Giorgio Moroder](entities/GiorgioMoroder.md) — Producer associated with Donna Summer and disco's production-intensive electronic turn.
+- [Studio 54](entities/Studio54.md) — New York nightclub symbolizing disco's glamour, gatekeeping, spectacle, and commercial excess.
+- [Steve Dahl](entities/SteveDahl.md) — Chicago radio personality associated with the Disco Sucks campaign and Disco Demolition Derby.
 - [Eric Zwick](entities/EricZwick.md) — Economist whose linked tax-record research frames the episode's dispersed class of wealthy private-business owners.
 - [Owen Zidar](entities/OwenZidar.md) — Economist and coauthor of the private-business, taxation, and top-income research featured by Planet Money.
 - [Danny Yagan](entities/DannyYagan.md) — Economist and coauthor of the linked tax-data research on pass-through businesses and income concentration.
@@ -13685,6 +13692,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lord Elgin](entities/LordElgin.md) — British diplomat at the center of Byron's cultural-plunder attack and Hobhouse's preservation counterargument.
 
 ## Concepts
+- [Disco](concepts/Disco.md) — Dance-music and club culture joining DJ practice, mixed nightlife, studio production, mass commercialization, and later inheritance.
+- [Continuous DJ Mixing](concepts/ContinuousDJMixing.md) — Selection, cueing, beat alignment, and transitions sustaining an uninterrupted dance-floor experience.
+- [Disco Backlash](concepts/DiscoBacklash.md) — Reaction combining musical fatigue with rock identity, generational change, and anxieties about race, sexuality, gender, and masculinity.
 - [Pass-Through Business Tax Advantage](concepts/PassThroughBusinessTaxAdvantage.md) — Relative tax benefit of routing profits to owners, bounded from the separate question of how firms create value.
 - [Dispersed Business-Elite Power](concepts/DispersedBusinessElitePower.md) — Political influence built from private wealth, local employment, community ties, officeholding, and incumbent-protecting rules.
 - [Byronic Hero](concepts/ByronicHero.md) — Attractive, brooding, rebellious, and morally dangerous literary type amplified by Byron's public persona.

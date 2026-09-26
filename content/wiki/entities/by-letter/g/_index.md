@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 10806
+wiki_total_pages: 10812
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -401,6 +401,9 @@ wiki_pages:
   - key: "GiorgiaMeloni"
     title: "Giorgia Meloni"
     url: "/wiki/entities/giorgiameloni/"
+  - key: "GiorgioMoroder"
+    title: "Giorgio Moroder"
+    url: "/wiki/entities/giorgiomoroder/"
   - key: "GiorgioVasari"
     title: "Giorgio Vasari"
     url: "/wiki/entities/giorgiovasari/"

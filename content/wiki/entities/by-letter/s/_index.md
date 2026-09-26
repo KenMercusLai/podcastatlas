@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 10806
+wiki_total_pages: 10812
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1352,6 +1352,9 @@ wiki_pages:
   - key: "SteveBernard"
     title: "Steve Bernard"
     url: "/wiki/entities/stevebernard/"
+  - key: "SteveDahl"
+    title: "Steve Dahl"
+    url: "/wiki/entities/stevedahl/"
   - key: "SteveFredette"
     title: "Steve Fredette"
     url: "/wiki/entities/stevefredette/"
@@ -1445,6 +1448,9 @@ wiki_pages:
   - key: "StubbinsFfirth"
     title: "Stubbins Ffirth / 斯塔宾斯·福斯"
     url: "/wiki/entities/stubbinsffirth/"
+  - key: "Studio54"
+    title: "Studio 54"
+    url: "/wiki/entities/studio54/"
   - key: "StudioGhibli"
     title: "Studio Ghibli / 吉卜力工作室"
     url: "/wiki/entities/studioghibli/"

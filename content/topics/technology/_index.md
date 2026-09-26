@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3172
+topic_total_pages: 3173
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1537,6 +1537,9 @@ topic_concepts:
   - key: "ContinuousBatching"
     title: "Continuous Batching"
     url: "/wiki/concepts/continuousbatching/"
+  - key: "ContinuousDJMixing"
+    title: "Continuous DJ Mixing"
+    url: "/wiki/concepts/continuousdjmixing/"
   - key: "ContinuousLearningAgainstDisplacement"
     title: "Continuous Learning Against Displacement / 以持续学习对抗替代"
     url: "/wiki/concepts/continuouslearningagainstdisplacement/"

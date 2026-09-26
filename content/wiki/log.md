@@ -22640,6 +22640,10 @@ Added source `google-touzi-a24-ai-jiang-chengwei-haolaiwu-de-weilai-faaf14098cca
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-26] ingest | 439. Disco: Sex and Race in Seventies America
+
+Added source `439-disco-sex-and-race-in-seventies-america-glt8206137792`; created `Disco`, `ContinuousDJMixing`, `DiscoBacklash`, `DavidMancuso`, `FrancisGrasso`, `DonnaSummer`, `GiorgioMoroder`, `Studio54`, and `SteveDahl`; and updated the canonical index. Core synthesis: disco began as a DJ-led, mixed, often gay and racially diverse club practice whose continuous sound, studio production, and communal release later became mass-market entertainment; its backlash combined commercial fatigue and generational change with racism, homophobia, gender anxiety, and rock-coded masculinity. No settled contradiction found. Founder language, attendance, song priority, crowd motives, chart timing, and causal links among backlash, political reaction, AIDS, and disco's decline remain episode-attributed or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-26] ingest | 443. Lord Byron: Death of a Vampire (Part 4)
 
 Added source `443-lord-byron-death-of-a-vampire-part-4-glt3247503776`; created `TeresaGuiccioli`, `AllegraByron`, `GreekWarOfIndependence`, `AristocraticVampire`, and `ByronicCelebrityPolitics`; and updated `LordByron`, `JohnPolidori`, `PercyShelley`, `ClaireClairmont`, `TheRestIsHistory`, the canonical index, and overview from their complete bounded source sets. Core synthesis: Polidori authored *The Vampyre* but turned Byron's scandalous aristocratic persona into a durable Gothic type; Byron then converted exile and celebrity into literary, Italian-radical, and Greek political roles. His Greek commitment combined theatrical self-fashioning with real money, liaison work, danger, illness, and death, without erasing private harm or proving decisive military impact. No settled contradiction found. The fatal diagnosis, private motives, reported conversations, and exact political usefulness remain uncertain or source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
@@ -22718,6 +22722,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-26] ingest | VOL.108精神心理科｜你只是误会了你的高光时刻 多动症不等于聪明 ADHD需不需要治是个问题
 
 Added source `lvfirgzbmtwypcjqyqry291qz6cw-lvfirgzbmtwypcjqyqry291qz6cw`; corrected the displayed Chinese name of `ZhangDaming` to 张达明; and updated the ADHD attention-control, external-structure, self-diagnosis, treatment-selection, psychiatric-function, child-family-system, destigmatization, canonical index, and overview pages from their complete bounded source sets. Core synthesis: ADHD assessment depends on age-relative, cross-setting functional impairment rather than ordinary activity, misbehavior, grades, intelligence stereotypes, or isolated high-performance moments; family and environmental support can modify function without becoming sole-cause blame, while observation, training, and medication decisions require individualized clinical judgment. No settled contradiction found. Heritability, pregnancy and birth risk, attention interruption, screens, exercise, intelligence thresholds, criminality, individual cases, and course claims remain source-scoped public education. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-26] lint | Wiki health check
 

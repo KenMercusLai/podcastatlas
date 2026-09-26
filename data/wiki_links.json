@@ -1099,6 +1099,10 @@
     "title": "43.西游记：咄！你是什么妖精！",
     "url": "/wiki/sources/43-xiyouji-duo-ni-shi-shenme-yaojing-618154182/"
   },
+  "439-disco-sex-and-race-in-seventies-america-glt8206137792": {
+    "title": "439. Disco: Sex and Race in Seventies America",
+    "url": "/wiki/sources/439-disco-sex-and-race-in-seventies-america-glt8206137792/"
+  },
   "44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308": {
     "title": "44.运气的诱饵：赌博成瘾，因为我们害怕自由",
     "url": "/wiki/sources/44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308/"
@@ -16023,6 +16027,10 @@
     "title": "Continuous Batching",
     "url": "/wiki/concepts/continuousbatching/"
   },
+  "ContinuousDJMixing": {
+    "title": "Continuous DJ Mixing",
+    "url": "/wiki/concepts/continuousdjmixing/"
+  },
   "ContinuousGlucoseMonitoring": {
     "title": "Continuous Glucose Monitoring",
     "url": "/wiki/concepts/continuousglucosemonitoring/"
@@ -18151,6 +18159,10 @@
     "title": "David Lieb",
     "url": "/wiki/entities/davidlieb/"
   },
+  "DavidMancuso": {
+    "title": "David Mancuso",
+    "url": "/wiki/entities/davidmancuso/"
+  },
   "DavidMcKenzie": {
     "title": "David McKenzie",
     "url": "/wiki/entities/davidmckenzie/"
@@ -19539,6 +19551,14 @@
     "title": "Discipline Over Motivation",
     "url": "/wiki/concepts/disciplineovermotivation/"
   },
+  "Disco": {
+    "title": "Disco",
+    "url": "/wiki/concepts/disco/"
+  },
+  "DiscoBacklash": {
+    "title": "Disco Backlash",
+    "url": "/wiki/concepts/discobacklash/"
+  },
   "Discord": {
     "title": "Discord",
     "url": "/wiki/entities/discord/"
@@ -20058,6 +20078,10 @@
   "DonnaHaraway": {
     "title": "Donna Haraway / 唐娜·哈拉维",
     "url": "/wiki/entities/donnaharaway/"
+  },
+  "DonnaSummer": {
+    "title": "Donna Summer",
+    "url": "/wiki/entities/donnasummer/"
   },
   "DonnerApacheAgent": {
     "title": "唐纳 / Donner",
@@ -25811,6 +25835,10 @@
     "title": "Francis Galton / 弗朗西斯·高尔顿",
     "url": "/wiki/entities/francisgalton/"
   },
+  "FrancisGrasso": {
+    "title": "Francis Grasso",
+    "url": "/wiki/entities/francisgrasso/"
+  },
   "FrancisScottKey": {
     "title": "Francis Scott Key",
     "url": "/wiki/entities/francisscottkey/"
@@ -27770,6 +27798,10 @@
   "GiorgiaMeloni": {
     "title": "Giorgia Meloni",
     "url": "/wiki/entities/giorgiameloni/"
+  },
+  "GiorgioMoroder": {
+    "title": "Giorgio Moroder",
+    "url": "/wiki/entities/giorgiomoroder/"
   },
   "GiorgioVasari": {
     "title": "Giorgio Vasari",
@@ -63283,6 +63315,10 @@
     "title": "Steve Bernard",
     "url": "/wiki/entities/stevebernard/"
   },
+  "SteveDahl": {
+    "title": "Steve Dahl",
+    "url": "/wiki/entities/stevedahl/"
+  },
   "SteveFredette": {
     "title": "Steve Fredette",
     "url": "/wiki/entities/stevefredette/"
@@ -63742,6 +63778,10 @@
   "StubbinsFfirth": {
     "title": "Stubbins Ffirth / 斯塔宾斯·福斯",
     "url": "/wiki/entities/stubbinsffirth/"
+  },
+  "Studio54": {
+    "title": "Studio 54",
+    "url": "/wiki/entities/studio54/"
   },
   "StudioGhibli": {
     "title": "Studio Ghibli / 吉卜力工作室",
