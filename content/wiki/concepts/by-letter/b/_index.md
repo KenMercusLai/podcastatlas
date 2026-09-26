@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 8294
+wiki_total_pages: 8297
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -827,6 +827,15 @@ wiki_pages:
   - key: "ByzantineCourtCultureTransfer"
     title: "Byzantine Court Culture Transfer"
     url: "/wiki/concepts/byzantinecourtculturetransfer/"
+  - key: "BreastSelfAwarenessBoundary"
+    title: "乳房自我觉察边界 / Breast Self-Awareness Boundary"
+    url: "/wiki/concepts/breastselfawarenessboundary/"
+  - key: "BreastFindingRecognitionAndTriage"
+    title: "乳腺异常识别与分诊 / Breast Finding Recognition and Triage"
+    url: "/wiki/concepts/breastfindingrecognitionandtriage/"
+  - key: "BreastCancerRiskContext"
+    title: "乳腺癌风险情境化 / Breast Cancer Risk Context"
+    url: "/wiki/concepts/breastcancerriskcontext/"
   - key: "BuddhistSpeechRestraint"
     title: "佛门止语修行 / Buddhist Speech Restraint"
     url: "/wiki/concepts/buddhistspeechrestraint/"

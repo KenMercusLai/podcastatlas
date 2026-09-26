@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 10897
+wiki_total_pages: 10898
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1766,6 +1766,9 @@ wiki_pages:
   - key: "AJianInsuranceWriter"
     title: "阿健"
     url: "/wiki/entities/ajianinsurancewriter/"
+  - key: "AziguliAbuduluoheman"
+    title: "阿兹古利·阿布杜洛何曼 / Aziguli Abuduluoheman"
+    url: "/wiki/entities/aziguliabuduluoheman/"
   - key: "Abei"
     title: "阿北 / Abei"
     url: "/wiki/entities/abei/"

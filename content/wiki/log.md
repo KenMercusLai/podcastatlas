@@ -23152,3 +23152,11 @@ Added source `413-the-peasants-revolt-england-erupts-part-1-glt8198769595`; upda
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | VOL.98乳腺外科｜谁的乳腺不是乳腺呢 乳腺疾病是被气出来的吗？｜乳腺自查指南
+
+Added source `vol-98-ruxianwaike-sheide-ruxian-bushi-ruxian-ne-ruxian-jibing-shi-bei-qi-chulai-de-ma-ruxian-zicha-zhinan-lginwlcqmjiaxozgtogn7sqlgqlt`; created `AziguliAbuduluoheman`, `BreastFindingRecognitionAndTriage`, `BreastSelfAwarenessBoundary`, and `BreastCancerRiskContext`; and updated the canonical index and overview. Core synthesis: a breast lump is a finding rather than a diagnosis, change awareness should lead persistent or visible abnormalities into clinical assessment, and risk is multifactorial rather than reducible to breast size, anger, soy foods, or sex. No settled contradiction found. Current guidance favors breast self-awareness over routine systematic self-examination for average-risk people; the episode's mammography age, massage-spread claim, male-cancer prognosis, imaging, genetic-testing, and treatment details remain source-scoped public education. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
