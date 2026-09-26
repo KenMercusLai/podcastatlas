@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 8237
+wiki_total_pages: 8238
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -188,6 +188,9 @@ wiki_pages:
   - key: "TCMSummerPatternDifferentiation"
     title: "TCM Summer Pattern Differentiation / 中医夏季寒湿湿热辨别"
     url: "/wiki/concepts/tcmsummerpatterndifferentiation/"
+  - key: "TCMWeightManagementBoundary"
+    title: "TCM Weight-Management Boundary / 中医减重边界"
+    url: "/wiki/concepts/tcmweightmanagementboundary/"
   - key: "TeacherAIAugmentation"
     title: "Teacher AI Augmentation"
     url: "/wiki/concepts/teacheraiaugmentation/"

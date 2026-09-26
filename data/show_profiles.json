@@ -3458,7 +3458,7 @@
       "earliest_episode_date": "2022-12-15",
       "latest_episode_date": "2026-09-21",
       "latest_episode_file": "lnkG92MQovwQW-ixwqRGJs-evrRi [lnkG92MQovwQW-ixwqRGJs-evrRi].md",
-      "source_note_count": 81,
+      "source_note_count": 82,
       "topic_matched_source_note_count": 7,
       "topics": [
         {
@@ -3496,6 +3496,13 @@
           "episode_count": 7
         },
         {
+          "key": "MaoZheTCMDoctor",
+          "title": "毛哲 / Mao Zhe (TCM Guest)",
+          "url": "/wiki/entities/maozhetcmdoctor/",
+          "kind": "person",
+          "episode_count": 5
+        },
+        {
           "key": "MaHaoning",
           "title": "马浩宁 / Ma Haoning",
           "url": "/wiki/entities/mahaoning/",
@@ -3506,13 +3513,6 @@
           "key": "FengYanfeiVascularSurgery",
           "title": "冯燕飞 / Feng Yanfei (Vascular Surgery)",
           "url": "/wiki/entities/fengyanfeivascularsurgery/",
-          "kind": "person",
-          "episode_count": 4
-        },
-        {
-          "key": "MaoZheTCMDoctor",
-          "title": "毛哲 / Mao Zhe (TCM Guest)",
-          "url": "/wiki/entities/maozhetcmdoctor/",
           "kind": "person",
           "episode_count": 4
         },

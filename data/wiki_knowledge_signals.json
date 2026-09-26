@@ -92538,9 +92538,9 @@
       "url": "/wiki/entities/maoyisheng/"
     },
     "MaoZheTCMDoctor": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "lnXaXyS733qZi9RkCwVGQT6uzfuR [lnXaXyS733qZi9RkCwVGQT6uzfuR].md",
@@ -92569,6 +92569,13 @@
           "show": "这病说来话长",
           "title": "VOL.103中医科｜中医大夫教你识破春季养生营销骗局 防过敏、春季饮食这么吃",
           "url": "/wiki/sources/vol-103-zhongyike-zhongyi-dafu-jiao-ni-shipuo-chunji-yangsheng-yingxiao-pianju-fang-guomin-chunji-yinshi-zheme-chi-liocs7vqytyxu6y4oaqlwj57h0jp/"
+        },
+        {
+          "episode_file": "lr4cRZRBP8LAdtCrN7r4hYrEn-25 [lr4cRZRBP8LAdtCrN7r4hYrEn-25].md",
+          "key": "vol-102-zhongyike-zhenxiang-jianfei-jiu-bie-zai-peng-zhexie-zhongyi-jiao-ni-kanqing-zhe-wu-ge-liaofa-li-de-da-huyou-jiushi-ta-lr4crzrbp8ladtcrn7r4hyren-25",
+          "show": "这病说来话长",
+          "title": "VOL.102中医科｜真想减肥就别再碰这些！中医教你看清这五个疗法里的大忽悠就是它！",
+          "url": "/wiki/sources/vol-102-zhongyike-zhenxiang-jianfei-jiu-bie-zai-peng-zhexie-zhongyi-jiao-ni-kanqing-zhe-wu-ge-liaofa-li-de-da-huyou-jiushi-ta-lr4crzrbp8ladtcrn7r4hyren-25/"
         }
       ],
       "updated": "2026-09-26",
@@ -136167,6 +136174,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/concepts/tcmsummerpatterndifferentiation/"
+    },
+    "TCMWeightManagementBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lr4cRZRBP8LAdtCrN7r4hYrEn-25 [lr4cRZRBP8LAdtCrN7r4hYrEn-25].md",
+          "key": "vol-102-zhongyike-zhenxiang-jianfei-jiu-bie-zai-peng-zhexie-zhongyi-jiao-ni-kanqing-zhe-wu-ge-liaofa-li-de-da-huyou-jiushi-ta-lr4crzrbp8ladtcrn7r4hyren-25",
+          "show": "这病说来话长",
+          "title": "VOL.102中医科｜真想减肥就别再碰这些！中医教你看清这五个疗法里的大忽悠就是它！",
+          "url": "/wiki/sources/vol-102-zhongyike-zhenxiang-jianfei-jiu-bie-zai-peng-zhexie-zhongyi-jiao-ni-kanqing-zhe-wu-ge-liaofa-li-de-da-huyou-jiushi-ta-lr4crzrbp8ladtcrn7r4hyren-25/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/tcmweightmanagementboundary/"
     },
     "TCellEducationAndThymusAging": {
       "episode_count": 2,

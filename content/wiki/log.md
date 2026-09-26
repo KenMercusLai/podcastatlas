@@ -22954,3 +22954,11 @@ Added source `426-historys-greatest-monkeys-glt5532014348`; created `JennyOrangu
 ## [2026-09-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-26] ingest | VOL.102中医科｜真想减肥就别再碰这些！中医教你看清这五个疗法里的大忽悠就是它！
+
+Added source `vol-102-zhongyike-zhenxiang-jianfei-jiu-bie-zai-peng-zhexie-zhongyi-jiao-ni-kanqing-zhe-wu-ge-liaofa-li-de-da-huyou-jiushi-ta-lr4crzrbp8ladtcrn7r4hyren-25`; created `TCMWeightManagementBoundary`; and updated `MaoZheTCMDoctor`, the canonical index, and overview from the complete bounded source set. Core synthesis: health, symptoms, function, body composition, medication context, sustainable behavior, and informed goals should come before aesthetic pressure, scale targets, or rapid-loss promises. No settled contradiction found; dampness, spleen, constitution, wind-cold, food-temperature, alcohol, acupuncture, decoction, moxibustion, gua-sha, massage, and rapid-loss mechanisms remain source-scoped public education rather than individualized care. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

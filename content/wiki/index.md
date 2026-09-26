@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.102中医科｜真想减肥就别再碰这些！中医教你看清这五个疗法里的大忽悠就是它！](sources/vol-102-zhongyike-zhenxiang-jianfei-jiu-bie-zai-peng-zhexie-zhongyi-jiao-ni-kanqing-zhe-wu-ge-liaofa-li-de-da-huyou-jiushi-ta-lr4crzrbp8ladtcrn7r4hyren-25.md) — 这病说来话长 episode on health-first weight decisions, gradual change, TCM treatment boundaries, and skepticism toward universal or rapid-loss claims.
 - [426. History's Greatest Monkeys](sources/426-historys-greatest-monkeys-glt5532014348.md) — The Rest Is History on primates as pets, fighters, performers, workers, mascots, political symbols, artistic provocations, and scientific mirrors under persistent source uncertainty.
 - [VOL.103中医科｜中医大夫教你识破春季养生营销骗局 防过敏、春季饮食这么吃](sources/vol-103-zhongyike-zhongyi-dafu-jiao-ni-shipuo-chunji-yangsheng-yingxiao-pianju-fang-guomin-chunji-yinshi-zheme-chi-liocs7vqytyxu6y4oaqlwj57h0jp.md) — 这病说来话长 episode on bounded spring routines, TCM evidence limits, allergy and amenorrhea escalation, and skepticism toward seasonal wellness marketing.
 - [How to Enhance Focus and Improve Productivity | Dr. Cal Newport](sources/how-to-enhance-focus-and-improve-productivity-dr-cal-newport-scim6504498504.md) — Huberman Lab interview on deep work, slow productivity, active recall, task switching, digital minimalism, pseudo-productivity, message-driven collaboration, and workload planning.
@@ -3243,7 +3244,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Pedro de Ursúa](entities/PedroDeUrsua.md) — Crown-appointed El Dorado expedition commander murdered in the 1561 mutiny.
 - [Ursúa-Aguirre Expedition](entities/AguirreExpedition.md) — 1560-1561 Amazon conquest venture that became an anti-royal rebellion and collapsed in Venezuela.
 - [Richard Schwartz](entities/RichardSchwartz.md) — Founder of Internal Family Systems presenting parts work, Self-leadership, experiential inquiry, and trauma-sensitive practice boundaries.
-- [毛哲 / Mao Zhe (TCM Guest)](entities/MaoZheTCMDoctor.md) — Source-scoped TCM guest discussing spring and summer self-care, allergy, and wellness marketing while retaining medication, emergency-care, and evidence-quality boundaries.
+- [毛哲 / Mao Zhe (TCM Guest)](entities/MaoZheTCMDoctor.md) — Source-scoped TCM guest discussing weight management, seasonal self-care, allergy, and wellness marketing while retaining treatment, emergency-care, and evidence-quality boundaries.
 - [Marianne](entities/Marianne.md) — Female personification of the French Republic whose symbolism coexisted with women's political exclusion.
 - [Olympe de Gouges](entities/OlympeDeGouges.md) — Revolutionary writer and abolitionist who applied universal rights language to women.
 - [Madame Roland](entities/MadameRoland.md) — Influential Girondin salon organizer who defended indirect female politics and faced misogynistic backlash.
@@ -13773,6 +13774,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lord Elgin](entities/LordElgin.md) — British diplomat at the center of Byron's cultural-plunder attack and Hobhouse's preservation counterargument.
 
 ## Concepts
+- [TCM Weight-Management Boundary / 中医减重边界](concepts/TCMWeightManagementBoundary.md) — Separates health-first, gradual, individualized weight management from unvalidated TCM diagnostic and treatment claims.
 - [Human–Primate Mirror](concepts/HumanPrimateMirror.md) — Framework for monkeys and apes as near-human figures in science, art, politics, celebrity, status, and moral projection.
 - [Captive Primate Spectacle](concepts/CaptivePrimateSpectacle.md) — Continuum linking primate pet keeping, blood sport, performance, mascot work, display, and sanctuary transition.
 - [Animal Anecdote Source Uncertainty](concepts/AnimalAnecdoteSourceUncertainty.md) — Method for preserving disputed species, biographies, deaths, motives, and folklore without losing their cultural afterlives.
