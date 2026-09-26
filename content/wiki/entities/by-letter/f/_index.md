@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 10825
+wiki_total_pages: 10831
 wiki_pages:
   - key: "FIFAWorldCup1934"
     title: "1934 FIFA World Cup"
@@ -584,6 +584,9 @@ wiki_pages:
   - key: "FrederickBenteen"
     title: "Frederick Benteen"
     url: "/wiki/entities/frederickbenteen/"
+  - key: "FrederickTheWise"
+    title: "Frederick the Wise"
+    url: "/wiki/entities/frederickthewise/"
   - key: "FreeDerry"
     title: "Free Derry"
     url: "/wiki/entities/freederry/"

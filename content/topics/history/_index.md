@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2020
+topic_total_pages: 2021
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -4626,6 +4626,9 @@ topic_sources:
   - key: "41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038"
     title: "41.施剑翘复仇案：超越哈贝马斯的情与法"
     url: "/wiki/sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038/"
+  - key: "436-luther-showdown-with-the-emperor-part-4-glt5159022101"
+    title: "436. Luther: Showdown with the Emperor (Part 4)"
+    url: "/wiki/sources/436-luther-showdown-with-the-emperor-part-4-glt5159022101/"
   - key: "437-luther-a-world-torn-apart-part-5-glt3328267667"
     title: "437. Luther: A World Torn Apart (Part 5)"
     url: "/wiki/sources/437-luther-a-world-torn-apart-part-5-glt3328267667/"

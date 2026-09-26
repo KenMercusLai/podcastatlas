@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 8196
+wiki_total_pages: 8198
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -248,6 +248,9 @@ wiki_pages:
   - key: "ReformationLegacyAmbivalence"
     title: "Reformation Legacy Ambivalence"
     url: "/wiki/concepts/reformationlegacyambivalence/"
+  - key: "ReformationPrintCulture"
+    title: "Reformation Print Culture"
+    url: "/wiki/concepts/reformationprintculture/"
   - key: "RefugeeAidRegistrationGap"
     title: "Refugee Aid Registration Gap / 难民登记援助空窗"
     url: "/wiki/concepts/refugeeaidregistrationgap/"

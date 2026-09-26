@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-26] ingest | 436. Luther: Showdown with the Emperor (Part 4)
+
+Added source `436-luther-showdown-with-the-emperor-part-4-glt5159022101`; created `CharlesV`, `FrederickTheWise`, `LucasCranachTheElder`, `DietOfWorms`, `Wartburg`, `Wittenberg`, `ReformationPrintCulture`, and `VernacularScriptureReach`; and updated `MartinLuther`, `AndreasKarlstadt`, `SolaScripturaInterpretivePluralism`, `RevolutionaryOutflanking`, and `ReformationLegacyAmbivalence` from their complete bounded source sets. Core synthesis: Luther's scriptural-conscience stand at Worms depended on princely and imperial procedure, while Wartburg translation and recognizable print culture widened reform beyond elite theology and beyond Luther's control; Wittenberg's liturgical reform and iconoclasm made that loss of control concrete before the later Peasants' War. No settled contradiction found. The “Here I stand” wording is distinguished from the official record, and translation timing, crowd scenes, personality, motives, miracle stories, and modern branding or social-media analogies remain source-scoped or qualified. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-26] ingest | 437. Luther: A World Torn Apart (Part 5)
 
 Added source `437-luther-a-world-torn-apart-part-5-glt3328267667`; created `MartinLuther`, `ThomasMuntzer`, `AndreasKarlstadt`, `GermanPeasantsWar`, `SolaScripturaInterpretivePluralism`, `TwoKingdomsDoctrine`, `RevolutionaryOutflanking`, and `ReformationLegacyAmbivalence`; and updated the canonical index. Core synthesis: scriptural and Christian-freedom arguments weakened inherited authority but did not determine one reform program, so Karlstadt, Müntzer, and rebel peasants could outflank Luther before his two-kingdoms boundary and reliance on princely order turned him against political revolt. No settled contradiction found. Müntzer's causal importance, Karlstadt's long-range influence, casualty totals, personal motives, and proposed lines to private religion, secularism, atheism, individualism, and later revolutionary politics remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -22786,6 +22790,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-26] ingest | GUEST SERIES | Dr. Matt Walker: The Biology of Sleep & Your Unique Sleep Needs
 
 Added source `guest-series-dr-matt-walker-the-biology-of-sleep-your-unique-sleep-needs-scim9752150487`; created `SleepHealthQQRT`, `TwoProcessSleepRegulation`, and `SystemicSleepLossEffects`; and updated `MatthewWalker`, `SleepStageFunctionalArchitecture`, the canonical index, and overview from their complete bounded source sets. Core synthesis: sleep health depends on quantity, quality, regularity, and chronotype-aligned timing; variable non-REM/REM architecture and interacting circadian and adenosine processes explain why duration alone misses restoration and daytime risk; and insufficient sleep can affect cognition, emotion, metabolism, endocrine function, immunity, cardiovascular regulation, appetite, and safety without making one bad night a chronic-disease verdict. No settled contradiction found. Exact cycle, efficiency, regularity, hormone, glucose, immune, vaccine, cardiovascular, gene-expression, appetite, mortality, brain-clearing, position, and yawning claims remain source-scoped public education. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-26] lint | Wiki health check
 

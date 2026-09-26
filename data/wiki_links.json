@@ -1099,6 +1099,10 @@
     "title": "43.西游记：咄！你是什么妖精！",
     "url": "/wiki/sources/43-xiyouji-duo-ni-shi-shenme-yaojing-618154182/"
   },
+  "436-luther-showdown-with-the-emperor-part-4-glt5159022101": {
+    "title": "436. Luther: Showdown with the Emperor (Part 4)",
+    "url": "/wiki/sources/436-luther-showdown-with-the-emperor-part-4-glt5159022101/"
+  },
   "437-luther-a-world-torn-apart-part-5-glt3328267667": {
     "title": "437. Luther: A World Torn Apart (Part 5)",
     "url": "/wiki/sources/437-luther-a-world-torn-apart-part-5-glt3328267667/"
@@ -12655,6 +12659,10 @@
     "title": "Charles Sled",
     "url": "/wiki/entities/charlessled/"
   },
+  "CharlesV": {
+    "title": "Charles V",
+    "url": "/wiki/entities/charlesv/"
+  },
   "CharlesVIIOfFrance": {
     "title": "Charles VII of France",
     "url": "/wiki/entities/charlesviioffrance/"
@@ -19146,6 +19154,10 @@
   "DiegoDrakeAlly": {
     "title": "Diego (Drake Ally)",
     "url": "/wiki/entities/diegodrakeally/"
+  },
+  "DietOfWorms": {
+    "title": "Diet of Worms",
+    "url": "/wiki/entities/dietofworms/"
   },
   "DietTrialEquipoise": {
     "title": "Diet Trial Equipoise",
@@ -26034,6 +26046,10 @@
   "FrederickBenteen": {
     "title": "Frederick Benteen",
     "url": "/wiki/entities/frederickbenteen/"
+  },
+  "FrederickTheWise": {
+    "title": "Frederick the Wise",
+    "url": "/wiki/entities/frederickthewise/"
   },
   "FreeCashFlowIndexing": {
     "title": "Free Cash Flow Indexing",
@@ -42207,6 +42223,10 @@
     "title": "Lucas Babic",
     "url": "/wiki/entities/lucasbabic/"
   },
+  "LucasCranachTheElder": {
+    "title": "Lucas Cranach the Elder",
+    "url": "/wiki/entities/lucascranachtheelder/"
+  },
   "LucasDrone": {
     "title": "Lucas Drone",
     "url": "/wiki/entities/lucasdrone/"
@@ -56135,6 +56155,10 @@
     "title": "Reformation Legacy Ambivalence",
     "url": "/wiki/concepts/reformationlegacyambivalence/"
   },
+  "ReformationPrintCulture": {
+    "title": "Reformation Print Culture",
+    "url": "/wiki/concepts/reformationprintculture/"
+  },
   "RefugeeAidRegistrationGap": {
     "title": "Refugee Aid Registration Gap / 难民登记援助空窗",
     "url": "/wiki/concepts/refugeeaidregistrationgap/"
@@ -69535,6 +69559,10 @@
     "title": "Vernacular Industrialism",
     "url": "/wiki/concepts/vernacularindustrialism/"
   },
+  "VernacularScriptureReach": {
+    "title": "Vernacular Scripture Reach",
+    "url": "/wiki/concepts/vernacularscripturereach/"
+  },
   "VeronicaPrice": {
     "title": "Veronica Price / 维罗尼卡·普莱斯",
     "url": "/wiki/entities/veronicaprice/"
@@ -70943,6 +70971,10 @@
     "title": "Wars of the Roses / 玫瑰战争",
     "url": "/wiki/entities/warsoftheroses/"
   },
+  "Wartburg": {
+    "title": "Wartburg",
+    "url": "/wiki/entities/wartburg/"
+  },
   "WartimeAgriculturalLaborCollapse": {
     "title": "Wartime Agricultural Labor Collapse / 战争抽空农业劳动力",
     "url": "/wiki/concepts/wartimeagriculturallaborcollapse/"
@@ -72130,6 +72162,10 @@
   "WithoutADoubt": {
     "title": "Without a Doubt",
     "url": "/wiki/entities/withoutadoubt/"
+  },
+  "Wittenberg": {
+    "title": "Wittenberg",
+    "url": "/wiki/entities/wittenberg/"
   },
   "Wiz": {
     "title": "Wiz",

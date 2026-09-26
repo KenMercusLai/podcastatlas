@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 10825
+wiki_total_pages: 10831
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -194,6 +194,9 @@ wiki_pages:
   - key: "WarsOfTheRoses"
     title: "Wars of the Roses / 玫瑰战争"
     url: "/wiki/entities/warsoftheroses/"
+  - key: "Wartburg"
+    title: "Wartburg"
+    url: "/wiki/entities/wartburg/"
   - key: "WashingtonPost"
     title: "Washington Post"
     url: "/wiki/entities/washingtonpost/"
@@ -578,6 +581,9 @@ wiki_pages:
   - key: "WithoutADoubt"
     title: "Without a Doubt"
     url: "/wiki/entities/withoutadoubt/"
+  - key: "Wittenberg"
+    title: "Wittenberg"
+    url: "/wiki/entities/wittenberg/"
   - key: "Wiz"
     title: "Wiz"
     url: "/wiki/entities/wiz/"

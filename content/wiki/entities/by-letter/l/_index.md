@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 10825
+wiki_total_pages: 10831
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -782,6 +782,9 @@ wiki_pages:
   - key: "LucasBabic"
     title: "Lucas Babic"
     url: "/wiki/entities/lucasbabic/"
+  - key: "LucasCranachTheElder"
+    title: "Lucas Cranach the Elder"
+    url: "/wiki/entities/lucascranachtheelder/"
   - key: "LucasDrone"
     title: "Lucas Drone"
     url: "/wiki/entities/lucasdrone/"

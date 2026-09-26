@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [436. Luther: Showdown with the Emperor (Part 4)](sources/436-luther-showdown-with-the-emperor-part-4-glt5159022101.md) — The Rest Is History on Luther at Worms, Charles V, Frederick's protection, Wartburg translation, print propaganda, and Wittenberg radicalization.
 - [GUEST SERIES | Dr. Matt Walker: The Biology of Sleep & Your Unique Sleep Needs](sources/guest-series-dr-matt-walker-the-biology-of-sleep-your-unique-sleep-needs-scim9752150487.md) — Huberman Lab sleep-series opener on QQRT, sleep stages, circadian and adenosine regulation, systemic sleep-loss effects, chronotype, and daytime safety.
 - [437. Luther: A World Torn Apart (Part 5)](sources/437-luther-a-world-torn-apart-part-5-glt3328267667.md) — The Rest Is History finale on Luther's split with Karlstadt and Müntzer, the Peasants' War, two-kingdoms theology, and his morally divided legacy.
 - [Anthropic IPO at Risk, Meta's Muse Pop, Token Prices Fall, Open Source Gains Share, Alignment Fails](sources/all-in-with-chamath-jason-sacks-friedberg-anthropic-ipo-at-risk-metas-muse-pop-token-prices-fall-open-source-g.md) — All-In on frontier-model commoditization, Anthropic IPO disclosure, consumer agents, delegated commerce, AI accountability, and biological validation.
@@ -2872,10 +2873,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Protocols to Strengthen & Pain Proof Your Back](sources/protocols-to-strengthen-pain-proof-your-back-scim8264963647.md) — Huberman Lab solo episode on mechanism-sensitive back care, the McGill Big Three, whole-body support, movement awareness, and clinical escalation boundaries.
 
 ## Entities
-- [Martin Luther](entities/MartinLuther.md) — German reformer whose theology and print power disrupted church authority while his anti-peasant and antisemitic rhetoric burdened his legacy.
+- [Martin Luther](entities/MartinLuther.md) — German reformer whose Worms defiance, vernacular translation, and print power disrupted church authority while radicalization and later harmful rhetoric burdened his legacy.
 - [Thomas Müntzer](entities/ThomasMuntzer.md) — Radical reformer who joined apocalyptic theology to armed revolt and later became a contested revolutionary symbol.
-- [Andreas Karlstadt](entities/AndreasKarlstadt.md) — Wittenberg reformer whose iconoclasm, poverty ethics, and political implications exceeded Luther's limits.
+- [Andreas Karlstadt](entities/AndreasKarlstadt.md) — Wittenberg reformer whose vernacular worship, communion changes, iconoclasm, poverty ethics, and political implications exceeded Luther's limits.
 - [German Peasants' War](entities/GermanPeasantsWar.md) — 1524-1525 revolt joining social grievance, biblical argument, fragmented authority, and princely repression.
+- [Charles V](entities/CharlesV.md) — Habsburg emperor who heard Luther at Worms, defended Catholic continuity, honored safe conduct, and then backed legal suppression.
+- [Frederick the Wise](entities/FrederickTheWise.md) — Saxon elector whose political leverage and covert protection enabled Luther's hearing, survival, and Wartburg refuge.
+- [Lucas Cranach the Elder](entities/LucasCranachTheElder.md) — Court painter whose portraits, book design, and woodcuts gave the Reformation a recognizable visual language.
+- [Diet of Worms](entities/DietOfWorms.md) — 1521 imperial assembly where Luther refused unconditional recantation before Charles V.
+- [Wartburg](entities/Wartburg.md) — Castle refuge joining Luther's concealment, German New Testament translation, distress, and loss of movement control.
+- [Wittenberg](entities/Wittenberg.md) — Saxon university and print center where reform accelerated beyond Luther during his absence.
 - [Anthropic Biological Research Laboratory](entities/AnthropicBiologicalResearchLab.md) — Source-described BSL-1/BSL-2 facility testing model-generated protein and enzyme hypotheses through wet-lab validation.
 - [Tom Hanks](entities/TomHanks.md) — Actor, producer, and public-history enthusiast interpreting Apollo through childhood memory, research, and astronaut conversations.
 - [Apollo Program](entities/ApolloProgram.md) — NASA lunar program synthesized as staged learning, interdependent mission systems, scientific work, and cultural memory.
@@ -13715,10 +13722,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sleep Health QQRT](concepts/SleepHealthQQRT.md) — Four-part sleep-health frame covering quantity, quality, regularity, and chronotype-aligned timing.
 - [Two-Process Sleep Regulation](concepts/TwoProcessSleepRegulation.md) — Interaction between circadian alerting and adenosine-based homeostatic sleep pressure.
 - [Systemic Sleep-Loss Effects](concepts/SystemicSleepLossEffects.md) — Cross-system framework for cognitive, emotional, metabolic, endocrine, immune, cardiovascular, appetite, and safety effects of insufficient sleep.
-- [Sola Scriptura and Interpretive Pluralism](concepts/SolaScripturaInterpretivePluralism.md) — Scriptural supremacy empowers institutional challenge while permitting incompatible reform conclusions.
+- [Sola Scriptura and Interpretive Pluralism](concepts/SolaScripturaInterpretivePluralism.md) — Scriptural conscience empowers institutional challenge while vernacular access permits incompatible reform conclusions.
 - [Two Kingdoms Doctrine](concepts/TwoKingdomsDoctrine.md) — Luther's distinction between spiritual Christian freedom and worldly political authority.
-- [Revolutionary Outflanking](concepts/RevolutionaryOutflanking.md) — Followers extend portable movement principles and recast the founder as a conservative obstacle.
-- [Reformation Legacy Ambivalence](concepts/ReformationLegacyAmbivalence.md) — Framework for judging religious innovation, coercion, harmful rhetoric, structural causes, and later appropriation together.
+- [Revolutionary Outflanking](concepts/RevolutionaryOutflanking.md) — Followers use portable principles and distributed media to exceed a founder's limits and recast the founder as an obstacle.
+- [Reformation Legacy Ambivalence](concepts/ReformationLegacyAmbivalence.md) — Framework for judging courage, documentary memory, religious innovation, coercion, harmful rhetoric, and later appropriation together.
+- [Reformation Print Culture](concepts/ReformationPrintCulture.md) — System joining accessible prose, portraits, book design, woodcuts, heroic narrative, propaganda, and distributed escalation.
+- [Vernacular Scripture Reach](concepts/VernacularScriptureReach.md) — Expansion of religious access and interpretive participation through local-language translation and print.
 - [AI Company Product Liability](concepts/AICompanyProductLiability.md) — Baseline that commercial AI developers remain responsible for testing, release decisions, foreseeable harms, and ordinary corporate liability.
 - [Apollo Mission Risk Discipline](concepts/ApolloMissionRiskDiscipline.md) — Staged testing, contingency planning, trained judgment, and next-task focus under extreme mission uncertainty.
 - [Mid-Century Technological Optimism](concepts/MidCenturyTechnologicalOptimism.md) — Qualified belief that public ambition and coordinated engineering could turn difficult imagined futures into working systems.

@@ -8173,9 +8173,9 @@
       "url": "/wiki/entities/andingcommandery/"
     },
     "AndreasKarlstadt": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3328267667 [GLT3328267667].md",
@@ -8183,6 +8183,13 @@
           "show": "The Rest Is History",
           "title": "437. Luther: A World Torn Apart (Part 5)",
           "url": "/wiki/sources/437-luther-a-world-torn-apart-part-5-glt3328267667/"
+        },
+        {
+          "episode_file": "GLT5159022101 [GLT5159022101].md",
+          "key": "436-luther-showdown-with-the-emperor-part-4-glt5159022101",
+          "show": "The Rest Is History",
+          "title": "436. Luther: Showdown with the Emperor (Part 4)",
+          "url": "/wiki/sources/436-luther-showdown-with-the-emperor-part-4-glt5159022101/"
         }
       ],
       "updated": "2026-09-26",
@@ -21943,6 +21950,22 @@
       "updated": "2026-09-25",
       "url": "/wiki/entities/charlesiiofengland/"
     },
+    "CharlesV": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5159022101 [GLT5159022101].md",
+          "key": "436-luther-showdown-with-the-emperor-part-4-glt5159022101",
+          "show": "The Rest Is History",
+          "title": "436. Luther: Showdown with the Emperor (Part 4)",
+          "url": "/wiki/sources/436-luther-showdown-with-the-emperor-part-4-glt5159022101/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/charlesv/"
+    },
     "CharlesVIIOfFrance": {
       "episode_count": 1,
       "show_count": 1,
@@ -35687,6 +35710,22 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/entities/diegobohorquez/"
+    },
+    "DietOfWorms": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5159022101 [GLT5159022101].md",
+          "key": "436-luther-showdown-with-the-emperor-part-4-glt5159022101",
+          "show": "The Rest Is History",
+          "title": "436. Luther: Showdown with the Emperor (Part 4)",
+          "url": "/wiki/sources/436-luther-showdown-with-the-emperor-part-4-glt5159022101/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/dietofworms/"
     },
     "DietTrialEquipoise": {
       "episode_count": 1,
@@ -51698,6 +51737,22 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/entities/frederickbenteen/"
+    },
+    "FrederickTheWise": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5159022101 [GLT5159022101].md",
+          "key": "436-luther-showdown-with-the-emperor-part-4-glt5159022101",
+          "show": "The Rest Is History",
+          "title": "436. Luther: Showdown with the Emperor (Part 4)",
+          "url": "/wiki/sources/436-luther-showdown-with-the-emperor-part-4-glt5159022101/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/frederickthewise/"
     },
     "FreeDerry": {
       "episode_count": 1,
@@ -88703,6 +88758,22 @@
       "updated": "2026-09-24",
       "url": "/wiki/entities/lucaferrari/"
     },
+    "LucasCranachTheElder": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5159022101 [GLT5159022101].md",
+          "key": "436-luther-showdown-with-the-emperor-part-4-glt5159022101",
+          "show": "The Rest Is History",
+          "title": "436. Luther: Showdown with the Emperor (Part 4)",
+          "url": "/wiki/sources/436-luther-showdown-with-the-emperor-part-4-glt5159022101/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/lucascranachtheelder/"
+    },
     "LucasStartupEmbassyResident": {
       "episode_count": 1,
       "show_count": 1,
@@ -92332,9 +92403,9 @@
       "url": "/wiki/entities/martinkutter/"
     },
     "MartinLuther": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3328267667 [GLT3328267667].md",
@@ -92342,6 +92413,13 @@
           "show": "The Rest Is History",
           "title": "437. Luther: A World Torn Apart (Part 5)",
           "url": "/wiki/sources/437-luther-a-world-torn-apart-part-5-glt3328267667/"
+        },
+        {
+          "episode_file": "GLT5159022101 [GLT5159022101].md",
+          "key": "436-luther-showdown-with-the-emperor-part-4-glt5159022101",
+          "show": "The Rest Is History",
+          "title": "436. Luther: Showdown with the Emperor (Part 4)",
+          "url": "/wiki/sources/436-luther-showdown-with-the-emperor-part-4-glt5159022101/"
         }
       ],
       "updated": "2026-09-26",
@@ -115854,9 +115932,9 @@
       "url": "/wiki/concepts/reflexiveselfawareness/"
     },
     "ReformationLegacyAmbivalence": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3328267667 [GLT3328267667].md",
@@ -115864,10 +115942,33 @@
           "show": "The Rest Is History",
           "title": "437. Luther: A World Torn Apart (Part 5)",
           "url": "/wiki/sources/437-luther-a-world-torn-apart-part-5-glt3328267667/"
+        },
+        {
+          "episode_file": "GLT5159022101 [GLT5159022101].md",
+          "key": "436-luther-showdown-with-the-emperor-part-4-glt5159022101",
+          "show": "The Rest Is History",
+          "title": "436. Luther: Showdown with the Emperor (Part 4)",
+          "url": "/wiki/sources/436-luther-showdown-with-the-emperor-part-4-glt5159022101/"
         }
       ],
       "updated": "2026-09-26",
       "url": "/wiki/concepts/reformationlegacyambivalence/"
+    },
+    "ReformationPrintCulture": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5159022101 [GLT5159022101].md",
+          "key": "436-luther-showdown-with-the-emperor-part-4-glt5159022101",
+          "show": "The Rest Is History",
+          "title": "436. Luther: Showdown with the Emperor (Part 4)",
+          "url": "/wiki/sources/436-luther-showdown-with-the-emperor-part-4-glt5159022101/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/reformationprintculture/"
     },
     "RefugeeAidRegistrationGap": {
       "episode_count": 1,
@@ -117995,9 +118096,9 @@
       "url": "/wiki/concepts/revolutionaryoperaculturalmemory/"
     },
     "RevolutionaryOutflanking": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3328267667 [GLT3328267667].md",
@@ -118005,6 +118106,13 @@
           "show": "The Rest Is History",
           "title": "437. Luther: A World Torn Apart (Part 5)",
           "url": "/wiki/sources/437-luther-a-world-torn-apart-part-5-glt3328267667/"
+        },
+        {
+          "episode_file": "GLT5159022101 [GLT5159022101].md",
+          "key": "436-luther-showdown-with-the-emperor-part-4-glt5159022101",
+          "show": "The Rest Is History",
+          "title": "436. Luther: Showdown with the Emperor (Part 4)",
+          "url": "/wiki/sources/436-luther-showdown-with-the-emperor-part-4-glt5159022101/"
         }
       ],
       "updated": "2026-09-26",
@@ -128604,9 +128712,9 @@
       "url": "/wiki/entities/sogdianrock/"
     },
     "SolaScripturaInterpretivePluralism": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3328267667 [GLT3328267667].md",
@@ -128614,6 +128722,13 @@
           "show": "The Rest Is History",
           "title": "437. Luther: A World Torn Apart (Part 5)",
           "url": "/wiki/sources/437-luther-a-world-torn-apart-part-5-glt3328267667/"
+        },
+        {
+          "episode_file": "GLT5159022101 [GLT5159022101].md",
+          "key": "436-luther-showdown-with-the-emperor-part-4-glt5159022101",
+          "show": "The Rest Is History",
+          "title": "436. Luther: Showdown with the Emperor (Part 4)",
+          "url": "/wiki/sources/436-luther-showdown-with-the-emperor-part-4-glt5159022101/"
         }
       ],
       "updated": "2026-09-26",
@@ -142774,6 +142889,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/vernacularfemalereligiouswriting/"
     },
+    "VernacularScriptureReach": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5159022101 [GLT5159022101].md",
+          "key": "436-luther-showdown-with-the-emperor-part-4-glt5159022101",
+          "show": "The Rest Is History",
+          "title": "436. Luther: Showdown with the Emperor (Part 4)",
+          "url": "/wiki/sources/436-luther-showdown-with-the-emperor-part-4-glt5159022101/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/vernacularscripturereach/"
+    },
     "Versailles": {
       "episode_count": 1,
       "show_count": 1,
@@ -146295,6 +146426,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/warofthegoldenstool/"
     },
+    "Wartburg": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5159022101 [GLT5159022101].md",
+          "key": "436-luther-showdown-with-the-emperor-part-4-glt5159022101",
+          "show": "The Rest Is History",
+          "title": "436. Luther: Showdown with the Emperor (Part 4)",
+          "url": "/wiki/sources/436-luther-showdown-with-the-emperor-part-4-glt5159022101/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/wartburg/"
+    },
     "WartimeCoalitionAccountability": {
       "episode_count": 1,
       "show_count": 1,
@@ -148455,6 +148602,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/wishfulfrontierconciliation/"
+    },
+    "Wittenberg": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5159022101 [GLT5159022101].md",
+          "key": "436-luther-showdown-with-the-emperor-part-4-glt5159022101",
+          "show": "The Rest Is History",
+          "title": "436. Luther: Showdown with the Emperor (Part 4)",
+          "url": "/wiki/sources/436-luther-showdown-with-the-emperor-part-4-glt5159022101/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/wittenberg/"
     },
     "WoZhuChangjiangWei": {
       "episode_count": 1,

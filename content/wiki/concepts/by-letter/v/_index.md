@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "v"
-wiki_total_pages: 8196
+wiki_total_pages: 8198
 wiki_pages:
   - key: "VacationShame"
     title: "Vacation Shame / 休假羞耻感"
@@ -101,6 +101,9 @@ wiki_pages:
   - key: "VernacularIndustrialism"
     title: "Vernacular Industrialism"
     url: "/wiki/concepts/vernacularindustrialism/"
+  - key: "VernacularScriptureReach"
+    title: "Vernacular Scripture Reach"
+    url: "/wiki/concepts/vernacularscripturereach/"
   - key: "VerticalAgentSaaSification"
     title: "Vertical Agent SaaSification"
     url: "/wiki/concepts/verticalagentsaasification/"
