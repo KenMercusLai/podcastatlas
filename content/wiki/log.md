@@ -23117,6 +23117,14 @@ Added source `415-the-murder-of-richard-ii-part-3-glt6435684837`; created `JohnO
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-27] ingest | AMA #15: Fluoride Benefits/Risks & Vagus Nerve Stimulation
+
+Added source `ama-15-fluoride-benefits-risks-vagus-nerve-stimulation-scim9500186850`; updated `FluorideRiskBenefitBoundary`, `ToothDemineralizationRemineralization`, `OralMicrobiomePreventiveCare`, and `PeriodontalSystemicHealthBoundary` from their complete bounded source sets. Core synthesis: fluoride's anticaries mechanism is distinct from dose, route, cumulative exposure, and population-policy questions; local concentration and intake context matter, while thyroid, neurologic, filter, litigation, and oral-systemic claims remain source-scoped. No settled contradiction found. The source title names vagus-nerve stimulation, but the supplied summary contains no substantive material on that topic, so none was inferred.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
