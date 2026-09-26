@@ -47,7 +47,8 @@ sources:
   - essentials-how-hormones-shape-sexual-development-scim8971920142
   - the-effects-of-microplastics-on-your-health-how-to-reduce-them-scim4809756720
   - optimal-protocols-for-studying-learning-scim3722040660
-last_updated: 2026-09-23
+  - how-to-improve-oral-health-its-critical-role-in-brain-body-health-scim4393023678
+last_updated: 2026-09-27
 knowledge_schema: synthesis-v1
 ---
 
@@ -107,6 +108,8 @@ In the microplastics episode, he applies that exposure boundary to particle size
 
 In the studying-and-learning episode, he organizes learning around offsetting forgetting. [[SelfTestingMemoryPractice]] becomes the core action: retrieve soon after exposure, prefer open-ended prompts, inspect errors, and repeat, while [[LearningStyleMatchingBoundary]] separates format preferences from demonstrated retention. [[MemoryConsolidationWindows]], [[Neuroplasticity]], and [[DesirableDifficulty]] connect focused engagement to later sleep or deep rest, with schedules, distraction control, teaching, brief pauses, salience, and interleaving kept as supporting tools.
 
+In the oral-health episode, he translates consulted dental views into an ecosystem-and-timing model. [[OralMicrobiomePreventiveCare]] joins gentle brushing, interdental cleaning, nighttime hygiene, saliva support, and restrained antimicrobial use; [[ToothDemineralizationRemineralization]] distinguishes early enamel repair from deeper cavities; and [[PeriodontalSystemicHealthBoundary]] plus [[FluorideRiskBenefitBoundary]] keep systemic-disease and product claims qualified.
+
 ## Key Characteristics
 - Frames everyday concerns through guest expertise, practical mechanisms, and first-person examples.
 - Uses guest answers to distinguish useful tools from treatment, protocol, or replacement overclaims.
@@ -163,6 +166,7 @@ In the studying-and-learning episode, he organizes learning around offsetting fo
 - Sexual-development framing: [[essentials-how-hormones-shape-sexual-development-scim8971920142]] has Huberman connect chromosomes, gonads, DHT, aromatase, receptors, developmental timing, puberty, fertility, and heterogeneous environmental-exposure evidence.
 - Microplastic exposure framing: [[the-effects-of-microplastics-on-your-health-how-to-reduce-them-scim4809756720]] has Huberman connect particle definitions, tissue findings, analytical uncertainty, endocrine-active plastic chemicals, and proportionate household exposure reduction.
 - Studying and learning framing: [[optimal-protocols-for-studying-learning-scim3722040660]] has Huberman connect early open-ended retrieval, corrective feedback, misleading rereading confidence, learning-style evidence, attention, neuroplasticity, sleep, and secondary study supports.
+- Oral-health framing: [[how-to-improve-oral-health-its-critical-role-in-brain-body-health-scim4393023678]] has Huberman connect saliva, pH, exposure duration, biofilm control, gum health, nighttime cleaning, xylitol, mouthwash restraint, fluoride, hydroxyapatite, and dental monitoring while preserving clinical boundaries.
 
 ## Qualifications
 The page reflects only the current source notes. It does not make broader claims about Huberman's research background, medical credentials, or advice outside these recorded discussions. The Fei-Fei Li episode includes future-facing discussion of brain/body signals, robotics, creative industries, and WorldLabs that remains source-scoped. The Liemandt education episode includes Alpha School performance, SAT-average, two-hour learning-rate, voucher-demand, Founder School guarantee, GT Squared scale, and lower-cost-school claims that remain source-scoped pending independent validation. The Eastwick episode includes app-swipe rates, age-preference data, gendered support patterns, income-effect claims, same-gender dating observations, attachment change, and sexual-satisfaction claims that remain source-scoped relationship science rather than individualized dating or therapy advice. The neuromodulator, dopamine/procrastination, immune-system, flexibility, sleep-toolkit, Epel stress-biology, Attia longevity, sugar-cravings, and Galpin fitness-assessment episodes include practical claims about sunlight, caffeine, cold exposure, breathing, supplements, nicotine, serotonin, dopamine baseline, dopamine peaks/troughs, reward prediction, L-tyrosine, mucuna pruriens, NSDR, addiction recovery, intrinsic motivation, vaccines, peptides, cell banking, meditation, immune-state modulation, low-intensity stretching, static-stretching dose, pre-training stretching, yoga pain tolerance, insular gray matter, alcohol/THC sleep effects, melatonin, sauna, red light, temperature-minimum phase shifting, telomerase, mitochondria, pregnancy mindfulness, obesity medication, soda-policy, glutamine, cinnamon, lemon/lime juice, berberine, metformin, glibenclamide, sodium caprate, CGM self-experimentation, uncertainty practice, Wim Hof breathwork, grip and dead-hang thresholds, VO2 max estimates, FFMI cutoffs, and maximal-effort field tests that remain source-scoped and medically context-dependent. The Willink episode includes exercise, nutrition timing, leadership, parenting, discipline, detachment, and resilience claims that remain source-scoped lived-practice claims rather than clinical or universal rules. The Q&A, Gillett, and Norton episodes include supplement, fertility, testosterone, hormone-therapy, tadalafil, hair-loss treatment, surgery-recovery, creatine, seed-oil, sweetener, protein, weight-management, and life-advice claims that remain source-scoped and clinically bounded where relevant. The Harris episode is philosophical and experiential, so no-self, psychedelic, and ordinary-freedom claims remain source-scoped rather than clinical protocols. The Wood episode includes concussion, dementia-prevention, peptide, nutrient-testing, exercise, and supplement claims that remain source-scoped and clinically bounded. The bipolar-disorder and OCD episodes are public psychiatric education and should not be read as diagnosis, medication selection, or individualized treatment guidance. The Millan episode's dog-energy, pack-position, spirituality, cold-exposure, and leadership claims remain source-scoped practical philosophy rather than individualized veterinary, behavioral, or clinical guidance. The Portal episode's sleep-transition, pain, depression, psychedelic-connectivity, body-schema, will, and transformation claims remain experiential and source-scoped rather than clinical protocols. The flexibility episode is public education about stretching and range of motion, not physical therapy, injury diagnosis, or individualized rehabilitation. The Stumpf episode includes social-media, alcohol, cannabis, wingsuiting, anterior mid-cingulate, suicide, pain-disclosure, and success-boundary claims that remain source-scoped public conversation rather than mental-health, medical, legal, or extreme-sport instruction. The Galpin episode is public fitness-assessment education whose numeric minimums, movement screen, and maximal testing items are practical screens rather than clinical norms or individualized exercise, rehabilitation, or medical advice.
@@ -183,12 +187,18 @@ The microplastics episode's particle counts, tissue burdens, IBS, semen, testost
 
 The studying-and-learning episode's historical experiments, medical-student correlations, estimated retention improvement, hippocampal replay rate, REM comparison, meditation findings, NSDR, caffeine, and interleaving explanations remain source-scoped. It supports a general study framework, not individualized treatment for sleep, attention, learning, or memory disorders. This addition brings the bounded profile to forty-four episode notes.
 
+The oral-health episode's periodontal-systemic, blood-brain-barrier, nitric-oxide, xylitol, fluoride, hydroxyapatite, rinse, filling, sealant, probiotic, and visit-frequency claims remain source-scoped public education rather than individualized dental or medical advice. This addition brings the bounded profile to forty-five episode notes.
+
 ## What Changed
-- Added an explicit study protocol centered on early, open-ended retrieval and corrective feedback.
-- Distinguished rereading confidence and preferred learning formats from demonstrated retention.
-- Kept pauses, meditation, NSDR, caffeine, salience, and interleaving secondary and source-scoped.
+- Added an oral-health branch centered on saliva, pH, biofilm disruption, nighttime hygiene, and lesion stage.
+- Distinguished serious periodontal care from unproven individualized systemic-disease prediction.
+- Kept xylitol, mouthwash, fluoride, hydroxyapatite, rinses, fillings, sealants, probiotics, and visit frequency source-scoped.
 
 ## Relationships
+- [[OralMicrobiomePreventiveCare]] - daily-care framework for gentle biofilm control, saliva support, and product restraint.
+- [[ToothDemineralizationRemineralization]] - lesion-stage and exposure-time framework from the oral-health episode.
+- [[PeriodontalSystemicHealthBoundary]] - evidence boundary for cardiovascular, metabolic, and neurologic claims.
+- [[FluorideRiskBenefitBoundary]] - mechanism and individualized product-choice boundary.
 - [[SelfTestingMemoryPractice]] - central study branch for early effortful recall, error detection, and correction.
 - [[LearningStyleMatchingBoundary]] - evidence boundary separating format preference from durable learning outcomes.
 - [[MemoryConsolidationWindows]] - timing branch linking early retrieval with rest and sleep.

@@ -2906,6 +2906,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Protocols to Strengthen & Pain Proof Your Back](sources/protocols-to-strengthen-pain-proof-your-back-scim8264963647.md) — Huberman Lab solo episode on mechanism-sensitive back care, the McGill Big Three, whole-body support, movement awareness, and clinical escalation boundaries.
 
 - [VOL.106胸外科｜王兴：病人家属问我怎么能够讨好医生｜胸闷、气胸、肺结节问题回答篇](sources/vol-106-xiongwaike-wangxing-bingren-jiashu-wen-wo-zenme-nenggou-taohao-yisheng-lrjqaw3ovznk0zn4-jfj3f2xyvzi.md) — 这病说来话长 listener Q&A on pulmonary-nodule surveillance, chest-symptom attribution, postoperative pain, chest-wall deformity, pneumothorax recurrence, and medical-care boundaries.
+- [How to Improve Oral Health & Its Critical Role in Brain & Body Health](sources/how-to-improve-oral-health-its-critical-role-in-brain-body-health-scim4393023678.md) — Huberman Lab solo episode on saliva, oral pH, biofilm control, tooth mineral balance, gum-systemic evidence boundaries, and restrained product use.
 
 ## Entities
 - [Enoch Powell](entities/EnochPowell.md) — Former Conservative whose anti-Heath, free-market, and anti-European intervention shaped the February 1974 campaign.

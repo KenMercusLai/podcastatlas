@@ -23073,3 +23073,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | How to Improve Oral Health & Its Critical Role in Brain & Body Health
+
+Added source `how-to-improve-oral-health-its-critical-role-in-brain-body-health-scim4393023678`; updated `AndrewHuberman`, `HubermanLab`, `OralMicrobiomePreventiveCare`, `ToothDemineralizationRemineralization`, `PeriodontalSystemicHealthBoundary`, and `FluorideRiskBenefitBoundary` from their complete bounded source sets. Core synthesis: oral health depends on gentle biofilm disruption, saliva, pH and exposure time, with early enamel change distinguished from established cavities and broad systemic or product claims kept qualified. No settled contradiction found; bleeding, systemic-disease, nitric-oxide, xylitol, fluoride, hydroxyapatite, rinse, filling, sealant, probiotic, and visit-frequency claims remain source-scoped or patient-specific.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

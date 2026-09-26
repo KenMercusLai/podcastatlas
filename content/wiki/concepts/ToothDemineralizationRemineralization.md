@@ -5,7 +5,8 @@ tags: [oral-health, cavities, enamel, saliva, preventive-dentistry]
 sources:
   - how-to-improve-your-teeth-oral-microbiome-for-brain-body-health-dr-staci-whitman-scim9002750849
   - vol-132-bao-zhu-ni-qian-bao-bi-lei-na-xie-keng-ren-de-kou-qiang-hu-li-chan-pin-he-wei-ke-pu-lmjeye3oacbawtn3omsskuqeubeh
-last_updated: 2026-09-23
+  - how-to-improve-oral-health-its-critical-role-in-brain-body-health-scim4393023678
+last_updated: 2026-09-27
 knowledge_schema: synthesis-v1
 ---
 
@@ -15,7 +16,7 @@ knowledge_schema: synthesis-v1
 Tooth demineralization and remineralization are the recurring loss and return of mineral at the tooth surface as oral acidity, saliva, calcium, phosphate, fluoride or hydroxyapatite exposure, and lesion stage interact.
 
 ## Current Synthesis
-[[how-to-improve-your-teeth-oral-microbiome-for-brain-body-health-dr-staci-whitman-scim9002750849]] explains cavities as acid-driven mineral loss over time rather than sugar acting directly on teeth: oral bacteria ferment sugars and flour-like starches, saliva later buffers pH and supplies minerals, and less frequent exposure can create more recovery time. [[vol-132-bao-zhu-ni-qian-bao-bi-lei-na-xie-keng-ren-de-kou-qiang-hu-li-chan-pin-he-wei-ke-pu-lmjeye3oacbawtn3omsskuqeubeh]] strengthens the lesion-stage boundary by rejecting advertising that converts laboratory remineralization or material research into rapid tooth regrowth or permanent repair. Early non-cavitated enamel change and an established hole remain different states; neither fluoride, hydroxyapatite, nor a “repair liquid” compensates for uncontrolled exposure, poor hygiene, or indicated treatment.
+[[how-to-improve-your-teeth-oral-microbiome-for-brain-body-health-dr-staci-whitman-scim9002750849]] and [[how-to-improve-oral-health-its-critical-role-in-brain-body-health-scim4393023678]] explain cavities as acid-driven mineral loss over time rather than sugar acting directly on teeth: oral bacteria ferment carbohydrates, saliva later buffers pH and supplies minerals, and shorter or less frequent exposure creates more recovery time. Both distinguish potentially reversible early enamel change from decay extending into dentin, which generally needs treatment. [[vol-132-bao-zhu-ni-qian-bao-bi-lei-na-xie-keng-ren-de-kou-qiang-hu-li-chan-pin-he-wei-ke-pu-lmjeye3oacbawtn3omsskuqeubeh]] strengthens that lesion-stage boundary by rejecting advertising that converts laboratory remineralization or material research into rapid tooth regrowth or permanent repair. Neither fluoride, hydroxyapatite, nor a “repair liquid” compensates for uncontrolled exposure, poor hygiene, or indicated treatment.
 
 ## Key Claims
 - Acid production, exposure frequency, saliva, and time determine whether the tooth surface trends toward mineral loss or repair.
@@ -27,9 +28,9 @@ Tooth demineralization and remineralization are the recurring loss and return of
 - Gentle technique and waiting after major acid exposure can avoid adding abrasion when enamel is temporarily softened.
 
 ## Evidence
-- Mechanism and timing: [[how-to-improve-your-teeth-oral-microbiome-for-brain-body-health-dr-staci-whitman-scim9002750849]] describes post-meal pH decline, later salivary buffering, and repeated-snacking risk.
-- Lesion stage: [[how-to-improve-your-teeth-oral-microbiome-for-brain-body-health-dr-staci-whitman-scim9002750849]] distinguishes potentially reversible early mineral loss from cavitation that generally needs restoration.
-- Mineral tools: [[how-to-improve-your-teeth-oral-microbiome-for-brain-body-health-dr-staci-whitman-scim9002750849]] discusses hydroxyapatite as a tooth mineral and fluoride as a route to more acid-resistant fluorapatite.
+- Mechanism and timing: [[how-to-improve-your-teeth-oral-microbiome-for-brain-body-health-dr-staci-whitman-scim9002750849]] describes post-meal pH decline, later salivary buffering, and repeated-snacking risk; [[how-to-improve-oral-health-its-critical-role-in-brain-body-health-scim4393023678]] reinforces exposure duration, daytime saliva windows, and the risk of prolonged acidic sipping.
+- Lesion stage: [[how-to-improve-your-teeth-oral-microbiome-for-brain-body-health-dr-staci-whitman-scim9002750849]] distinguishes potentially reversible early mineral loss from cavitation that generally needs restoration; [[how-to-improve-oral-health-its-critical-role-in-brain-body-health-scim4393023678]] places dentin involvement beyond the episode's at-home remineralization protocol.
+- Mineral tools: [[how-to-improve-your-teeth-oral-microbiome-for-brain-body-health-dr-staci-whitman-scim9002750849]] and [[how-to-improve-oral-health-its-critical-role-in-brain-body-health-scim4393023678]] discuss hydroxyapatite as a tooth mineral and fluoride as a route to more acid-resistant tooth structure without establishing product equivalence.
 - Marketing boundary: [[vol-132-bao-zhu-ni-qian-bao-bi-lei-na-xie-keng-ren-de-kou-qiang-hu-li-chan-pin-he-wei-ke-pu-lmjeye3oacbawtn3omsskuqeubeh]] distinguishes laboratory and animal research from routine human clinical use and rejects 48-hour repair or tooth-regrowth claims.
 - Practical technique: [[how-to-improve-your-teeth-oral-microbiome-for-brain-body-health-dr-staci-whitman-scim9002750849]] supports interdental cleaning, soft-bristle brushing, and delaying brushing after eating or vomiting.
 
@@ -39,6 +40,7 @@ The supplied source notes do not establish comparative efficacy, concentration, 
 ## What Changed
 - Added an explicit research-to-clinic boundary against rapid regrowth and permanent-repair marketing.
 - Preserved the distinction between potentially supportable early mineral change and established structural damage needing professional care.
+- Added independent support for exposure duration, salivary recovery windows, and the enamel-versus-dentin treatment boundary.
 
 ## Related Concepts
 - [[OralMicrobiomePreventiveCare]] - supplies the food, biofilm, saliva, and cleaning context for the mineral cycle.
