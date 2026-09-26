@@ -22874,3 +22874,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-26] ingest | 431. Titanic: Nightmare at Midnight (Part 5)
+
+Added source `431-titanic-nightmare-at-midnight-part-5-glt2941711597`; created `ThomasAndrews`, `EdwardSmith`, `WilliamMurdoch`, `CharlesLightoller`, and `MaritimeEmergencyEvacuation`; and updated `RMSTitanic`, `BruceIsmay`, `DisasterSurvivalInequality`, `TitanicDisasterMemory`, the canonical index, and overview from their complete bounded source sets. Core synthesis: Titanic's short technical deadline became an evacuation-allocation crisis shaped by delayed belief, insufficient and underused boat capacity, ambiguous priority language, different officer practice, class geography, controlled movement, language, baggage, and fear. No settled contradiction found. The episode qualifies simple class-cruelty and survivor-cowardice stories while preserving unequal access; exact timings, occupancy, dialogue, motives, Smith's final actions, and the alleged Murdoch shooting remain source-scoped or disputed. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

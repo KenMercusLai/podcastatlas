@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [431. Titanic: Nightmare at Midnight (Part 5)](sources/431-titanic-nightmare-at-midnight-part-5-glt2941711597.md) — The Rest Is History reconstruction of Titanic's collision, progressive flooding, evacuation ambiguity, unequal access, final plunge, and disputed moral stories.
 - [VOL.105悲剧！规培生不止沦为了廉价劳动力！和7位医生解剖规培利弊得失](sources/vol-105-beiju-guipeisheng-buzhi-lunweile-lianjia-laodongli-he-7-wei-yisheng-jiepo-guipei-libi-deshi-lgutjxt-7vqzecklqyxe_osyzr43.md) — 这病说来话长 roundtable on residency-training purpose, trainee categories, role overload, clinical supervision, unequal conditions, and psychosocial safety.
 - [432. Titanic: The Survivors (Part 6)](sources/432-titanic-the-survivors-part-6-glt4613169046.md) — The Rest Is History on Carpathia's rescue, unequal survival, blame, inquiry, safety reform, survivor trauma, and Titanic's cultural afterlife.
 - [433. Luther: The Man Who Changed the World (Part 1)](sources/433-luther-the-man-who-changed-the-world-part-1-glt7298373279.md) — The Rest Is History on Luther's Saxon formation, humanism, late-medieval salvation practices, Jan Hus, and the conditions that turned reform into rupture.
@@ -2883,6 +2884,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.106胸外科｜王兴：病人家属问我怎么能够讨好医生｜胸闷、气胸、肺结节问题回答篇](sources/vol-106-xiongwaike-wangxing-bingren-jiashu-wen-wo-zenme-nenggou-taohao-yisheng-lrjqaw3ovznk0zn4-jfj3f2xyvzi.md) — 这病说来话长 listener Q&A on pulmonary-nodule surveillance, chest-symptom attribution, postoperative pain, chest-wall deformity, pneumothorax recurrence, and medical-care boundaries.
 
 ## Entities
+- [Thomas Andrews](entities/ThomasAndrews.md) — Titanic designer whose flooding diagnosis established the ship's short survival horizon.
+- [Edward Smith](entities/EdwardSmith.md) — Titanic captain whose evacuation priority was interpreted differently by officers.
+- [William Murdoch](entities/WilliamMurdoch.md) — Titanic officer who used remaining lifeboat capacity while his final moments remain disputed.
+- [Charles Lightoller](entities/CharlesLightoller.md) — Titanic officer and survivor whose categorical loading rule excluded men from unused places.
 - [RMS Titanic](entities/RMSTitanic.md) — 1912 maritime disaster whose unequal survival, safety reforms, survivor reputations, and cultural afterlife became inseparable.
 - [RMS Carpathia](entities/RMSCarpathia.md) — Cunard rescue ship that answered Titanic's distress and received its traumatized survivors.
 - [Bruce Ismay](entities/BruceIsmay.md) — White Star chairman and Titanic survivor whose public villain role exceeded the episode's evidence about speed pressure and lifeboat conduct.
@@ -13744,6 +13749,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lord Elgin](entities/LordElgin.md) — British diplomat at the center of Byron's cultural-plunder attack and Hobhouse's preservation counterargument.
 
 ## Concepts
+- [Maritime Emergency Evacuation](concepts/MaritimeEmergencyEvacuation.md) — Conversion of warning and finite time into movement, capacity allocation, launching, and rescue under uncertainty.
 - [Titanic Disaster Memory](concepts/TitanicDisasterMemory.md) — Process turning Titanic into moral characters and reusable metaphors while intimate loss and chance resist one total interpretation.
 - [Disaster Survival Inequality](concepts/DisasterSurvivalInequality.md) — Pattern in which emergency rules, physical access, information, assistance, and class shape unequal survival opportunity.
 - [Maritime Disaster Safety Reform](concepts/MaritimeDisasterSafetyReform.md) — System-level conversion of shipwreck failures into capacity, training, monitoring, and route changes.

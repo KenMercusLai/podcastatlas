@@ -17446,9 +17446,9 @@
       "url": "/wiki/entities/broadcom/"
     },
     "BruceIsmay": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4613169046 [GLT4613169046].md",
@@ -17456,6 +17456,13 @@
           "show": "The Rest Is History",
           "title": "432. Titanic: The Survivors (Part 6)",
           "url": "/wiki/sources/432-titanic-the-survivors-part-6-glt4613169046/"
+        },
+        {
+          "episode_file": "GLT2941711597 [GLT2941711597].md",
+          "key": "431-titanic-nightmare-at-midnight-part-5-glt2941711597",
+          "show": "The Rest Is History",
+          "title": "431. Titanic: Nightmare at Midnight (Part 5)",
+          "url": "/wiki/sources/431-titanic-nightmare-at-midnight-part-5-glt2941711597/"
         }
       ],
       "updated": "2026-09-26",
@@ -22064,6 +22071,22 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/entities/charlesiiofengland/"
+    },
+    "CharlesLightoller": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2941711597 [GLT2941711597].md",
+          "key": "431-titanic-nightmare-at-midnight-part-5-glt2941711597",
+          "show": "The Rest Is History",
+          "title": "431. Titanic: Nightmare at Midnight (Part 5)",
+          "url": "/wiki/sources/431-titanic-nightmare-at-midnight-part-5-glt2941711597/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/charleslightoller/"
     },
     "CharlesV": {
       "episode_count": 1,
@@ -36645,9 +36668,9 @@
       "url": "/wiki/concepts/disasterreliefcorruption/"
     },
     "DisasterSurvivalInequality": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4613169046 [GLT4613169046].md",
@@ -36655,6 +36678,13 @@
           "show": "The Rest Is History",
           "title": "432. Titanic: The Survivors (Part 6)",
           "url": "/wiki/sources/432-titanic-the-survivors-part-6-glt4613169046/"
+        },
+        {
+          "episode_file": "GLT2941711597 [GLT2941711597].md",
+          "key": "431-titanic-nightmare-at-midnight-part-5-glt2941711597",
+          "show": "The Rest Is History",
+          "title": "431. Titanic: Nightmare at Midnight (Part 5)",
+          "url": "/wiki/sources/431-titanic-nightmare-at-midnight-part-5-glt2941711597/"
         }
       ],
       "updated": "2026-09-26",
@@ -40470,6 +40500,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/entities/edwardsaid/"
+    },
+    "EdwardSmith": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2941711597 [GLT2941711597].md",
+          "key": "431-titanic-nightmare-at-midnight-part-5-glt2941711597",
+          "show": "The Rest Is History",
+          "title": "431. Titanic: Nightmare at Midnight (Part 5)",
+          "url": "/wiki/sources/431-titanic-nightmare-at-midnight-part-5-glt2941711597/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/edwardsmith/"
     },
     "EdwardTheConfessor": {
       "episode_count": 4,
@@ -92462,6 +92508,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/concepts/maritimedisastersafetyreform/"
     },
+    "MaritimeEmergencyEvacuation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2941711597 [GLT2941711597].md",
+          "key": "431-titanic-nightmare-at-midnight-part-5-glt2941711597",
+          "show": "The Rest Is History",
+          "title": "431. Titanic: Nightmare at Midnight (Part 5)",
+          "url": "/wiki/sources/431-titanic-nightmare-at-midnight-part-5-glt2941711597/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/maritimeemergencyevacuation/"
+    },
     "MarkCarney": {
       "episode_count": 2,
       "show_count": 1,
@@ -115257,9 +115319,9 @@
       "url": "/wiki/entities/rmslusitania/"
     },
     "RMSTitanic": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4613169046 [GLT4613169046].md",
@@ -115267,6 +115329,13 @@
           "show": "The Rest Is History",
           "title": "432. Titanic: The Survivors (Part 6)",
           "url": "/wiki/sources/432-titanic-the-survivors-part-6-glt4613169046/"
+        },
+        {
+          "episode_file": "GLT2941711597 [GLT2941711597].md",
+          "key": "431-titanic-nightmare-at-midnight-part-5-glt2941711597",
+          "show": "The Rest Is History",
+          "title": "431. Titanic: Nightmare at Midnight (Part 5)",
+          "url": "/wiki/sources/431-titanic-nightmare-at-midnight-part-5-glt2941711597/"
         }
       ],
       "updated": "2026-09-26",
@@ -138576,6 +138645,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/entities/thomabravo/"
     },
+    "ThomasAndrews": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2941711597 [GLT2941711597].md",
+          "key": "431-titanic-nightmare-at-midnight-part-5-glt2941711597",
+          "show": "The Rest Is History",
+          "title": "431. Titanic: Nightmare at Midnight (Part 5)",
+          "url": "/wiki/sources/431-titanic-nightmare-at-midnight-part-5-glt2941711597/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/thomasandrews/"
+    },
     "ThomasHowardDukeOfNorfolk": {
       "episode_count": 1,
       "show_count": 1,
@@ -139500,9 +139585,9 @@
       "url": "/wiki/entities/tiresias/"
     },
     "TitanicDisasterMemory": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4613169046 [GLT4613169046].md",
@@ -139510,6 +139595,13 @@
           "show": "The Rest Is History",
           "title": "432. Titanic: The Survivors (Part 6)",
           "url": "/wiki/sources/432-titanic-the-survivors-part-6-glt4613169046/"
+        },
+        {
+          "episode_file": "GLT2941711597 [GLT2941711597].md",
+          "key": "431-titanic-nightmare-at-midnight-part-5-glt2941711597",
+          "show": "The Rest Is History",
+          "title": "431. Titanic: Nightmare at Midnight (Part 5)",
+          "url": "/wiki/sources/431-titanic-nightmare-at-midnight-part-5-glt2941711597/"
         }
       ],
       "updated": "2026-09-26",
@@ -149038,6 +149130,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/williamgolding/"
+    },
+    "WilliamMurdoch": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2941711597 [GLT2941711597].md",
+          "key": "431-titanic-nightmare-at-midnight-part-5-glt2941711597",
+          "show": "The Rest Is History",
+          "title": "431. Titanic: Nightmare at Midnight (Part 5)",
+          "url": "/wiki/sources/431-titanic-nightmare-at-midnight-part-5-glt2941711597/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/williammurdoch/"
     },
     "WilliamOfOrange": {
       "episode_count": 2,

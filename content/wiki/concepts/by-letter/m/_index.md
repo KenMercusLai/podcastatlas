@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 8216
+wiki_total_pages: 8217
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -233,6 +233,9 @@ wiki_pages:
   - key: "MaritimeDrugInterdictionCapacity"
     title: "Maritime Drug Interdiction Capacity"
     url: "/wiki/concepts/maritimedruginterdictioncapacity/"
+  - key: "MaritimeEmergencyEvacuation"
+    title: "Maritime Emergency Evacuation"
+    url: "/wiki/concepts/maritimeemergencyevacuation/"
   - key: "MarketBreadthNarrowing"
     title: "Market Breadth Narrowing / 市场广度收窄"
     url: "/wiki/concepts/marketbreadthnarrowing/"

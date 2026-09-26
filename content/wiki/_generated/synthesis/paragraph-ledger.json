@@ -730,12 +730,13 @@
       "7d29e080e1fbfaacb253d9d31189c20c16c51ffc72d0e011d4ec7a1797d23729",
       "5508c647db991b895556c7319899c4b97872aa5e39286efb84e0333985c7f92d",
       "34df1c2e8804f5214a38f77733d73c4efd8161905ce2ee717f86530fdbfa5fcc",
-      "fb80aad3fb0f83bb14ebfd51ceb86a6de23a0d1ebcaacbdb106de4eb8a3ab95d"
+      "fb80aad3fb0f83bb14ebfd51ceb86a6de23a0d1ebcaacbdb106de4eb8a3ab95d",
+      "364a6adb5ce615964b1409fc3ac18d1a8f3824ae0603cd456b594fbfea4542d0"
     ],
-    "paragraph_count": 730
+    "paragraph_count": 731
   },
-  "overview_commit": "b78b0e71194a6d0bc951bd2ba14d6ad06b4cc8d6",
-  "overview_digest": "c7cd8be08250ba81987d57ccf408468db841bb3dfc3ac3d7df2687f830e812e0",
+  "overview_commit": "7398a6e3717304e92592860163b3ee69c24d651e",
+  "overview_digest": "2a929b8f68d3edeca348499f4d94ac298a4290fefbe14af077f6d814a602e3b1",
   "paragraphs": [
     {
       "id": "ecf59e934a9e2b03f5a6bfe5d9d7de60750480c6a0fafcbbe4a6acb86451f7e3",
@@ -21645,6 +21646,28 @@
         "RMSTitanic",
         "TheRestIsHistory",
         "TitanicDisasterMemory"
+      ]
+    },
+    {
+      "id": "364a6adb5ce615964b1409fc3ac18d1a8f3824ae0603cd456b594fbfea4542d0",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest Titanic-series addition is [[431-titanic-nightmare-at-midnight-part-5-glt2941711597|431. Titanic: Nightmare at Midnight (Part 5)]], a [[TheRestIsHistory]] reconstruction of [[RMSTitanic|RMS Titanic]] from the iceberg strike through the final plunge. It adds [[ThomasAndrews]], [[EdwardSmith]], [[WilliamMurdoch]], [[CharlesLightoller]], and [[MaritimeEmergencyEvacuation]], while extending [[BruceIsmay]], [[DisasterSurvivalInequality]], and [[TitanicDisasterMemory]]. Its core synthesis is that the disaster's technical deadline became a human allocation crisis: delayed danger recognition, too few boats, underfilled launches, ambiguous “women and children first” language, different officer interpretations, class geography, gate timing, language, baggage, and fear all shaped survival. No settled contradiction is recorded. The episode qualifies simple class-cruelty and survivor-cowardice stories without denying unequal access, while exact timings, occupancy, dialogue, motives, Captain Smith's final actions, and the alleged Murdoch shooting remain source-scoped or disputed.",
+      "topic_scores": {
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "431-titanic-nightmare-at-midnight-part-5-glt2941711597",
+        "BruceIsmay",
+        "CharlesLightoller",
+        "DisasterSurvivalInequality",
+        "EdwardSmith",
+        "MaritimeEmergencyEvacuation",
+        "RMSTitanic",
+        "TheRestIsHistory",
+        "ThomasAndrews",
+        "TitanicDisasterMemory",
+        "WilliamMurdoch"
       ]
     }
   ],

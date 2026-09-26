@@ -4,6 +4,7 @@ type: entity
 tags: [shipping, titanic, survivor, public-memory]
 sources:
   - 432-titanic-the-survivors-part-6-glt4613169046
+  - 431-titanic-nightmare-at-midnight-part-5-glt2941711597
 last_updated: 2026-09-26
 knowledge_schema: synthesis-v1
 ---
@@ -12,35 +13,36 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Bruce Ismay was the White Star chairman and [[RMSTitanic|Titanic]] survivor whose post-disaster vilification anchors [[432-titanic-the-survivors-part-6-glt4613169046]]'s study of blame and moral storytelling.
+Bruce Ismay was the White Star chairman and [[RMSTitanic|Titanic]] survivor whose evacuation conduct and post-disaster vilification are reconsidered in [[431-titanic-nightmare-at-midnight-part-5-glt2941711597]] and [[432-titanic-the-survivors-part-6-glt4613169046]].
 
 ## Current Profile
 
-The episode distinguishes Ismay's corporate association with Titanic from the simplified public character built from his survival. It rejects the claim that he ordered the ship to race for an early New York arrival, notes that the British inquiry cleared him, and argues that occupying an otherwise available lifeboat place did not itself cause another death. Yet survival made him available as a cowardly foil to the dead Captain Smith, and later retellings, including [[JamesCameron]]'s film, preserved the speed-pressure accusation.
+The episodes distinguish Ismay's corporate association with Titanic from the simplified public character built from his survival. The sinking reconstruction says he helped load passengers before entering lifeboat C when places reportedly remained. The aftermath episode rejects the claim that he ordered an early New York arrival, notes that the British inquiry cleared him, and argues that occupying an otherwise available place did not itself cause another death. Yet survival made him a cowardly foil to the dead [[EdwardSmith|Captain Smith]], and later retellings, including [[JamesCameron]]'s film, preserved the speed-pressure accusation.
 
 ## Key Characteristics
 
 - White Star chairman closely identified with Titanic's ownership and corporate responsibility.
+- Helped load boats before entering lifeboat C, which the source says still had unused places.
 - Survivor taken aboard [[RMSCarpathia|Carpathia]], sedated, and kept in the doctor's cabin.
 - Public scapegoat contrasted with Captain Smith's heroic death narrative.
 - Cleared by Lord Mersey's inquiry in the episode's account.
 - Subject of a speed-pressure claim that the episode treats as debunked.
-- Retired after resigning from White Star in 1913 and avoided discussing the disaster.
-- Durable film and literary character whose reputation exceeds the episode's evidentiary case.
+- Resigned from White Star, withdrew from public discussion, and became a durable literary and film character whose reputation exceeds the evidence presented.
 
 ## Evidence
 
+- Evacuation conduct: [[431-titanic-nightmare-at-midnight-part-5-glt2941711597]] says Ismay assisted passengers and entered lifeboat C with places remaining.
 - Rescue and condition: [[432-titanic-the-survivors-part-6-glt4613169046]] places Ismay aboard Carpathia under sedation and separate medical care.
 - Blame and inquiry: [[432-titanic-the-survivors-part-6-glt4613169046]] describes public humiliation, the rejected speed-order story, and Lord Mersey's clearance.
 - Later life and memory: [[432-titanic-the-survivors-part-6-glt4613169046]] follows his resignation, withdrawn routine, 1937 death, grave imagery, poetic representation, and film portrayal.
 
 ## Qualifications
 
-Clearing Ismay of the episode's specific speed-pressure accusation does not resolve every question about White Star's corporate responsibility or Titanic's safety culture. The source's account of his inner state, humiliation, and later silence is interpretive and should not be treated as a complete biography.
+Clearing Ismay of the specific speed-pressure accusation and noting unused boat capacity do not resolve every question about White Star's corporate responsibility, his exact conduct, or Titanic's safety culture. The sources' accounts of boat occupancy, his inner state, humiliation, and later silence remain episode-attributed and do not constitute a complete biography.
 
 ## What Changed
 
-- Created a profile separating corporate responsibility from the simplified cowardice and speed-pressure narrative.
+- Added his reported assistance loading passengers and the unused capacity in lifeboat C, strengthening the distinction between survival and displacement.
 
 ## Relationships
 
