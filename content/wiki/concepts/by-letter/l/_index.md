@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 8277
+wiki_total_pages: 8281
 wiki_pages:
   - key: "LaborIllusion"
     title: "Labor Illusion"
@@ -458,6 +458,9 @@ wiki_pages:
   - key: "LiterarySubcultureSymbolization"
     title: "Literary Subculture Symbolization"
     url: "/wiki/concepts/literarysubculturesymbolization/"
+  - key: "LiteratureAsSocialHistory"
+    title: "Literature as Social History"
+    url: "/wiki/concepts/literatureassocialhistory/"
   - key: "LithiumBipolarTreatment"
     title: "Lithium Bipolar Treatment"
     url: "/wiki/concepts/lithiumbipolartreatment/"

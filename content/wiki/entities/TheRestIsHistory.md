@@ -33,6 +33,7 @@ sources:
   - 443-lord-byron-death-of-a-vampire-part-4-glt3247503776
   - 441-lord-byron-scandal-sex-and-celebrity-part-2-glt1954408695
   - 440-lord-byron-mad-bad-and-dangerous-to-know-part-1-glt4389862746
+  - 416-the-canterbury-tales-part-4-glt1956280616
 last_updated: 2026-09-26
 knowledge_schema: synthesis-v1
 ---
@@ -41,7 +42,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-The Rest Is History is a narrative podcast represented in the wiki through selected multi-part historical branches, including ancient Greek war memory, a 1915 [[FirstWorldWar|First World War]] branch, national-symbol and sport-politics episodes, literary and legendary afterlives, founding and Roman political-crisis branches, a medieval Anglo-French branch, comparative African female power, early Quaker abolitionist activism, and [[LordByron|Lord Byron / 拜伦]]'s celebrity, Gothic, and philhellenic afterlives.
+The Rest Is History is a narrative podcast represented in the wiki through selected multi-part historical branches, including ancient Greek war memory, a 1915 [[FirstWorldWar|First World War]] branch, national-symbol and sport-politics episodes, literary and legendary afterlives, founding and Roman political-crisis branches, medieval Anglo-French and Chaucer branches, comparative African female power, early Quaker abolitionist activism, and [[LordByron|Lord Byron / 拜伦]]'s celebrity, Gothic, and philhellenic afterlives.
 
 ## Current Profile
 
@@ -55,6 +56,8 @@ The African comparative branch uses [[Kush]], [[KandakeQueens]], [[QueenNjinga]]
 
 The [[HundredYearsWar|Hundred Years' War]] branch uses [[England]], [[France]], [[Gascony]], [[Aquitaine]], [[Scotland]], [[EdwardIIIOfEngland|Edward III]], and [[PhilipVIOfFrance|Philip VI]] to show how dynastic claim, feudal homage, alliance pressure, trade, and national framing combine before open war. The Elizabeth I versus Catholics sequence treats court security, dynastic succession, espionage, privateering, the [[DutchRevolt|Dutch Revolt]], Mary Stuart, and the Armada path as a connected confessional-political field. The Troubles sequence treats Northern Ireland's escalation as a chain of institutional, memory, policing, paramilitary, and counterinsurgency decisions rather than timeless hatred.
 
+The Chaucer branch uses [[GeoffreyChaucer]], [[TheCanterburyTales]], and [[WifeOfBath]] to connect plague, war, trade, pilgrimage, rank, gender, and literary language. It treats fiction as qualified social evidence: the Miller's interruption, varied pilgrim voices, and female sovereignty expose hierarchy under pressure, while [[VernacularLiteraryLegitimacy]] is presented as a cosmopolitan outcome of multilingual contact rather than an anti-foreign turn.
+
 The national-symbol and sport branches use South Africa, Brazil, the Netherlands, Germany, Britain, and Mussolini's World Cup Italy to show how anthems, sport, flags, monarchy, republic, revolt, slavery, dictatorship, propaganda, protest, postwar convention, and constituent-nation football can be inherited, staged, narrowed, or reworked. The Homeric branch retells both halves of [[TheOdyssey]], moving from nostos and fantasy geography to recognition, hospitality, domestic loyalty, and disturbing revenge. The Mayerling branch treats Habsburg scandal as family, religious, imperial, succession, and information-suppression crisis. The Founding Fathers branch starts with Washington and Franklin as military-endurance, public-dignity, diplomacy, persona, and slavery-contradiction cases. The Roman Civil War branch opens the pre-Caesar crisis through [[GaiusMarius]], outsider politics, military credit, and the early [[LuciusCorneliusSulla|Sulla]] rivalry.
 
 The [[StGeorge|St George]] episode adds a legend-and-symbol branch. It separates an uncertain martyr core from late torture stories, mounted serpent imagery, the dragon rescue narrative, [[OrderOfTheGarter|Garter]] patronage, Protestant allegory, English national use, and transnational veneration. The result treats skepticism as part of the tradition's own history and symbolic flexibility as a historical outcome rather than evidence that every legend is true.
@@ -66,7 +69,7 @@ The Byron branch now begins with family mythology, childhood adversity, educatio
 - The show is used as a source of chronological narrative history with emphasis on decisions, symbols, inherited constraints, contingency, and multi-part war sequences, from Marathon's tactical and memory problem to the 1915 war branch.
 - Its abolitionist branch uses Benjamin Lay to connect Quaker equality, plantation slavery, ethical consumption, public stunts, and institutional discipline.
 - Its African female-power branch treats women rulers, queen mothers, and warriors as institutional cases while preserving slavery, coercion, and source-bias qualifications.
-- Its medieval branch treats the Hundred Years' War as a multi-causal origin problem rather than a simple throne dispute.
+- Its medieval branches treat the Hundred Years' War as a multi-causal origin problem and Chaucer's writing as qualified evidence for post-plague social and linguistic change.
 - Its Elizabethan and Northern Ireland branches connect security crises to institutions, memory, legitimacy, intelligence, policing, and armed escalation.
 - Its national-symbol, saint, and sport-politics branches show public symbols as politically usable without assuming one fixed meaning or secure biographical core.
 - Its Homeric, Mayerling, Founding Fathers, Roman Civil War, and Byron branches use literature, scandal, biography, celebrity, and military or political careers to expose institutional crisis and public authority while preserving uncertainty about motives and impact.
@@ -77,6 +80,7 @@ The Byron branch now begins with family mythology, childhood adversity, educatio
 - First World War branch: [[671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565]] introduces the Western Front through Graves, Junger, trench routine, shell shock, gas, Loos, and the Kipling family; [[672-the-first-world-war-italys-doomed-campaign-part-2-glt3383347829]], [[673-the-first-world-war-the-submarine-strikes-part-3-glt3632974949]], [[674-the-first-world-war-the-spy-who-took-on-the-germans-part-4-glt1889262052]], [[675-the-first-world-war-slaughter-at-gallipoli-part-5-glt4394132715]], and [[676-the-first-world-war-churchills-calamity-part-6-glt1275431911]] extend the sequence through Italy, Lusitania, Edith Cavell, and Gallipoli.
 - Abolitionist activism branch: [[316-the-first-abolitionist-glt2136062721]] follows [[BenjaminLay]] and [[SarahLay]] from Colchester to [[Barbados]] and Pennsylvania, connecting [[Quakers|Quaker]] inward equality, plantation brutality, boycott, public stunts, [[BenjaminFranklin]]'s printing connection, and late Philadelphia Friends discipline against slaveholding.
 - Hundred Years' War branch: [[318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008]] follows the build-up to 1337 through French power, English continental loss, Gascony homage, Capetian succession rupture, Scottish alliance pressure, Aquitaine's confiscation, and Edward III's manifesto.
+- Chaucer and medieval social-history branch: [[416-the-canterbury-tales-part-4-glt1956280616]] connects Chaucer's career and pilgrims to plague, labor mobility, trade, gendered authority, hierarchy disruption, and vernacular literary legitimacy while keeping fictional and source-scope limits explicit.
 - African female-power branch: [[317-african-amazons-glt5973082485]] moves from [[TheWomanKing]] and the "African Amazons" frame through [[Kush]], [[KandakeQueens]], [[Amanirenas]], [[QueenNjinga]], [[AsanteQueenMothers]], [[YaaAsantewaa]], [[WarOfTheGoldenStool]], [[RanavalonaI]], [[Dahomey]], [[Agojie]], and [[Ghezo]] to compare female authority, military institutions, source bias, slavery, and violent rule.
 - Elizabethan security-state branch: [[692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025]], [[694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087]], and [[696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496]] connect the St Bartholomew's Day Massacre, priest missions, Walsingham's intelligence work, the Throckmorton and Babington plots, Mary Stuart, trial, execution, and Armada escalation.
 - Elizabethan maritime and Dutch-war branch: [[693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329]] and [[695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455]] connect Francis Drake, John Hawkins, privateering ambiguity, Sidney, Antwerp, the Treaty of Nonsuch, and the Low Countries intervention threshold.
@@ -94,13 +98,12 @@ The Byron branch now begins with family mythology, childhood adversity, educatio
 
 ## Qualifications
 
-This page summarizes only the episodes currently listed in its evidence inventory. The show should not be treated as endorsing one uniform theory of history or literature; the covered episodes mix narrative reconstruction, source uncertainty, moral interpretation, symbolic interpretation, and explicit cautions against overreading. The Marathon branch is especially dependent on surviving Greek literary evidence and later memory traditions, so Persian perspective, Pheidippides legends, and broad civilizational interpretations remain qualified. The Lay branch explicitly rejects the literal "first abolitionist" label and keeps the exact reach of his influence source-scoped. The African Amazons branch is especially dependent on mediated European, missionary, traveler, and popular-history accounts. The George branch cannot establish the saint's existence, identity, relics, or dragon story as contemporary history; its strongest claims concern the development and reuse of the tradition. The Byron inventory covers three installments rather than a complete life or literary study, and childhood abuse, sexuality, causal psychological claims, private motives, reported dialogue, the Elgin controversy, fatal diagnosis, and degree of political usefulness remain source-scoped.
+This page summarizes only the episodes currently listed in its evidence inventory. The show should not be treated as endorsing one uniform theory of history or literature; the covered episodes mix narrative reconstruction, source uncertainty, moral interpretation, symbolic interpretation, and explicit cautions against overreading. The Marathon branch is especially dependent on surviving Greek literary evidence and later memory traditions, so Persian perspective, Pheidippides legends, and broad civilizational interpretations remain qualified. The Lay branch explicitly rejects the literal "first abolitionist" label and keeps the exact reach of his influence source-scoped. The African Amazons branch is especially dependent on mediated European, missionary, traveler, and popular-history accounts. The George branch cannot establish the saint's existence, identity, relics, or dragon story as contemporary history; its strongest claims concern the development and reuse of the tradition. The Byron inventory covers three installments rather than a complete life or literary study. The Chaucer branch uses fictional characters as suggestive rather than representative evidence, and its Cecily Champagne, plague-season, women's-autonomy, and dialect-influence claims remain source-scoped.
 
 ## What Changed
 
-- Added Byron's family, childhood, school, Cambridge, bodily, and early literary formation before the existing travel-and-fame origin.
-- Distinguished explanatory adversity from moral excuse within the show's biographical method.
-- Added the [[ByronicHero|Byronic hero]] as the literary type linking public persona to later Gothic afterlives.
+- Added a Chaucer branch connecting literary form with plague, labor, hierarchy, gender, and language change.
+- Made the fiction-to-social-evidence boundary explicit within the show's literary-history profile.
 
 ## Relationships
 
@@ -185,3 +188,6 @@ This page summarizes only the episodes currently listed in its evidence inventor
 - [[ByronicCelebrityPolitics]] - framework joining public image to literary, financial, diplomatic, and political capacity.
 - [[GreekWarOfIndependence]] - conflict setting for Byron's final material and symbolic commitment.
 - [[ByronicHero]] - literary type through which Byron's cultivated outsider persona gained a wider afterlife.
+- [[GeoffreyChaucer]] - poet whose biography connects commerce, court service, war, diplomacy, and literary innovation.
+- [[TheCanterburyTales]] - multi-voiced literary work used as qualified social history.
+- [[LiteratureAsSocialHistory]] - interpretive method grounding the Chaucer branch.

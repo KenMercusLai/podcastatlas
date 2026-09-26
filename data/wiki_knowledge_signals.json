@@ -7168,6 +7168,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/entities/alipasha/"
     },
+    "AliceChaucer": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1956280616 [GLT1956280616].md",
+          "key": "416-the-canterbury-tales-part-4-glt1956280616",
+          "show": "The Rest Is History",
+          "title": "416. The Canterbury Tales (Part 4)",
+          "url": "/wiki/sources/416-the-canterbury-tales-part-4-glt1956280616/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/alicechaucer/"
+    },
     "AliceFullwood": {
       "episode_count": 1,
       "show_count": 1,
@@ -56942,6 +56958,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/geonet/"
     },
+    "GeoffreyChaucer": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1956280616 [GLT1956280616].md",
+          "key": "416-the-canterbury-tales-part-4-glt1956280616",
+          "show": "The Rest Is History",
+          "title": "416. The Canterbury Tales (Part 4)",
+          "url": "/wiki/sources/416-the-canterbury-tales-part-4-glt1956280616/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/geoffreychaucer/"
+    },
     "GeometricUnity": {
       "episode_count": 1,
       "show_count": 1,
@@ -84873,6 +84905,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/literaryadaptationtextureloss/"
     },
+    "LiteratureAsSocialHistory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1956280616 [GLT1956280616].md",
+          "key": "416-the-canterbury-tales-part-4-glt1956280616",
+          "show": "The Rest Is History",
+          "title": "416. The Canterbury Tales (Part 4)",
+          "url": "/wiki/sources/416-the-canterbury-tales-part-4-glt1956280616/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/literatureassocialhistory/"
+    },
     "LithiumBipolarTreatment": {
       "episode_count": 1,
       "show_count": 1,
@@ -110114,6 +110162,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/piggylordoftheflies/"
     },
+    "PilgrimageAsSocialReconnection": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1956280616 [GLT1956280616].md",
+          "key": "416-the-canterbury-tales-part-4-glt1956280616",
+          "show": "The Rest Is History",
+          "title": "416. The Canterbury Tales (Part 4)",
+          "url": "/wiki/sources/416-the-canterbury-tales-part-4-glt1956280616/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/pilgrimageassocialreconnection/"
+    },
     "PiltdownMan": {
       "episode_count": 1,
       "show_count": 1,
@@ -112054,6 +112118,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/postlearningarousaltagging/"
+    },
+    "PostPlagueSocialMobility": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1956280616 [GLT1956280616].md",
+          "key": "416-the-canterbury-tales-part-4-glt1956280616",
+          "show": "The Rest Is History",
+          "title": "416. The Canterbury Tales (Part 4)",
+          "url": "/wiki/sources/416-the-canterbury-tales-part-4-glt1956280616/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/postplaguesocialmobility/"
     },
     "PostPracticeMotorConsolidation": {
       "episode_count": 2,
@@ -139527,6 +139607,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/entities/thebeatles/"
     },
+    "TheCanterburyTales": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1956280616 [GLT1956280616].md",
+          "key": "416-the-canterbury-tales-part-4-glt1956280616",
+          "show": "The Rest Is History",
+          "title": "416. The Canterbury Tales (Part 4)",
+          "url": "/wiki/sources/416-the-canterbury-tales-part-4-glt1956280616/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/thecanterburytales/"
+    },
     "TheCarrierBagTheoryOfFiction": {
       "episode_count": 1,
       "show_count": 1,
@@ -139813,9 +139909,9 @@
       "url": "/wiki/entities/theprincipleofresponsibility/"
     },
     "TheRestIsHistory": {
-      "episode_count": 30,
+      "episode_count": 31,
       "show_count": 1,
-      "source_note_count": 30,
+      "source_note_count": 31,
       "sources": [
         {
           "episode_file": "GLT4665799025 [GLT4665799025].md",
@@ -140026,6 +140122,13 @@
           "show": "The Rest Is History",
           "title": "440. Lord Byron: Mad, Bad and Dangerous to Know (Part 1)",
           "url": "/wiki/sources/440-lord-byron-mad-bad-and-dangerous-to-know-part-1-glt4389862746/"
+        },
+        {
+          "episode_file": "GLT1956280616 [GLT1956280616].md",
+          "key": "416-the-canterbury-tales-part-4-glt1956280616",
+          "show": "The Rest Is History",
+          "title": "416. The Canterbury Tales (Part 4)",
+          "url": "/wiki/sources/416-the-canterbury-tales-part-4-glt1956280616/"
         }
       ],
       "updated": "2026-09-26",
@@ -145862,6 +145965,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/vernacularfemalereligiouswriting/"
     },
+    "VernacularLiteraryLegitimacy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1956280616 [GLT1956280616].md",
+          "key": "416-the-canterbury-tales-part-4-glt1956280616",
+          "show": "The Rest Is History",
+          "title": "416. The Canterbury Tales (Part 4)",
+          "url": "/wiki/sources/416-the-canterbury-tales-part-4-glt1956280616/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/vernacularliterarylegitimacy/"
+    },
     "VernacularScriptureReach": {
       "episode_count": 1,
       "show_count": 1,
@@ -151157,6 +151276,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/widgeryinquiry/"
+    },
+    "WifeOfBath": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1956280616 [GLT1956280616].md",
+          "key": "416-the-canterbury-tales-part-4-glt1956280616",
+          "show": "The Rest Is History",
+          "title": "416. The Canterbury Tales (Part 4)",
+          "url": "/wiki/sources/416-the-canterbury-tales-part-4-glt1956280616/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/wifeofbath/"
     },
     "WildChildMarginality": {
       "episode_count": 1,

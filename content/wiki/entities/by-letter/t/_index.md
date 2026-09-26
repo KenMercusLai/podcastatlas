@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 10885
+wiki_total_pages: 10889
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -362,6 +362,9 @@ wiki_pages:
   - key: "TheBlackParade"
     title: "The Black Parade"
     url: "/wiki/entities/theblackparade/"
+  - key: "TheCanterburyTales"
+    title: "The Canterbury Tales"
+    url: "/wiki/entities/thecanterburytales/"
   - key: "TheCantos"
     title: "The Cantos"
     url: "/wiki/entities/thecantos/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [416. The Canterbury Tales (Part 4)](sources/416-the-canterbury-tales-part-4-glt1956280616.md) — The Rest Is History on Chaucer, plague-era mobility, pilgrimage, hierarchy, the Wife of Bath, and English vernacular literary legitimacy.
 - [417. Britain in 1974: State of Emergency (Part 1)](sources/417-britain-in-1974-state-of-emergency-part-1-glt6761791949.md) — The Rest Is History on Heath's technocratic government, incomes policy, the oil shock, miners' leverage, and the three-day week before the February election.
 - [418. Britain in 1974: The Crisis Election (Part 2)](sources/418-britain-in-1974-the-crisis-election-part-2-glt9690615062.md) — The Rest Is History on the M62 bombing, Heath's failed February 1974 election gamble, Labour's radical manifesto, Liberal gains, Powell's Europe intervention, and Wilson's minority return.
 - [419. Britain in 1974: Countdown to a Coup (Part 3)](sources/419-britain-in-1974-countdown-to-a-coup-part-3-glt2033018212.md) — The Rest Is History on Wilson's fragile minority government, the Social Contract, Number 10 dysfunction, Sunningdale's collapse, and qualified fears of a right-wing coup.
@@ -2910,6 +2911,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve Oral Health & Its Critical Role in Brain & Body Health](sources/how-to-improve-oral-health-its-critical-role-in-brain-body-health-scim4393023678.md) — Huberman Lab solo episode on saliva, oral pH, biofilm control, tooth mineral balance, gum-systemic evidence boundaries, and restrained product use.
 
 ## Entities
+- [Geoffrey Chaucer](entities/GeoffreyChaucer.md) — Medieval poet, diplomat, royal servant, and customs official whose work records a changing 14th-century social world.
+- [The Canterbury Tales](entities/TheCanterburyTales.md) — Chaucer's multi-voiced pilgrimage collection, read as hierarchy-disrupting literature and qualified social evidence.
+- [Wife of Bath](entities/WifeOfBath.md) — Chaucerian clothmaker and pilgrim whose prologue and tale connect wealth, marriage, abuse, and female sovereignty.
+- [Alice Chaucer](entities/AliceChaucer.md) — Chaucer's granddaughter and exceptional heiress whose descendants approached late-medieval royal succession.
 - [Enoch Powell](entities/EnochPowell.md) — Former Conservative whose anti-Heath, free-market, and anti-European intervention shaped the February 1974 campaign.
 - [Jeremy Thorpe](entities/JeremyThorpe.md) — Liberal leader whose electoral surge made him pivotal in Heath's failed coalition talks.
 - [Marcia Williams](entities/MarciaWilliams.md) — Wilson's private secretary and gatekeeper, presented through a qualified account of political dependence, office conflict, and hostile aide testimony.
@@ -13810,6 +13815,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lord Elgin](entities/LordElgin.md) — British diplomat at the center of Byron's cultural-plunder attack and Hobhouse's preservation counterargument.
 
 ## Concepts
+- [Literature as Social History](concepts/LiteratureAsSocialHistory.md) — Qualified use of literary voices, forms, and conflicts to interpret hierarchy, work, gender, and social change.
+- [Post-Plague Social Mobility](concepts/PostPlagueSocialMobility.md) — Mechanism linking mortality, inheritance, labor scarcity, wage controls, commerce, and selective mobility.
+- [Vernacular Literary Legitimacy](concepts/VernacularLiteraryLegitimacy.md) — Process by which multilingual exchange and literary range raise a vernacular language's cultural prestige.
+- [Pilgrimage as Social Reconnection](concepts/PilgrimageAsSocialReconnection.md) — Reading of collective sacred travel and storytelling as a qualified reversal of epidemic isolation.
 - [February 1974 UK General Election](concepts/February1974UKGeneralElection.md) — Heath's failed miners-and-unions mandate gamble, producing a hung parliament and Wilson minority government.
 - [UK Three-Day Week of 1974](concepts/ThreeDayWeekUK1974.md) — Planned electricity restrictions that converted a miners' dispute and energy shock into a test of governing authority.
 - [Heath Government Incomes Policy](concepts/HeathIncomesPolicy.md) — Stage 3 wage limits and threshold payments destabilized by growth policy, inflation, and the oil shock.

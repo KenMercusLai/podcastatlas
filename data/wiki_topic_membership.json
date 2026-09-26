@@ -1658,6 +1658,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "416-the-canterbury-tales-part-4-glt1956280616": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "417-britain-in-1974-state-of-emergency-part-1-glt6761791949": [
     {
       "key": "economics",
@@ -32005,6 +32017,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "GeoffreyChaucer": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "GeologicalResearchInstitute": [
     {
       "key": "science",
@@ -44948,6 +44967,13 @@
     }
   ],
   "LiteraryTravelAsCareerStrategy": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "LiteratureAsSocialHistory": [
     {
       "key": "culture",
       "label": "Culture",
@@ -72286,6 +72312,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "TheCanterburyTales": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "TheCantervilleGhost": [
     {
       "key": "culture",
@@ -76270,6 +76303,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "VernacularLiteraryLegitimacy": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "VerticalAgentSaaSification": [
     {
       "key": "technology",
@@ -78539,6 +78579,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "WifeOfBath": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "WildChildMarginality": [

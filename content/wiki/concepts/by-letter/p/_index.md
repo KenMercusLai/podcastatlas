@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8277
+wiki_total_pages: 8281
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -647,6 +647,9 @@ wiki_pages:
   - key: "PigButcheringScam"
     title: "Pig Butchering Scam"
     url: "/wiki/concepts/pigbutcheringscam/"
+  - key: "PilgrimageAsSocialReconnection"
+    title: "Pilgrimage as Social Reconnection"
+    url: "/wiki/concepts/pilgrimageassocialreconnection/"
   - key: "PiracyPrivateeringBoundary"
     title: "Piracy-Privateering Boundary"
     url: "/wiki/concepts/piracyprivateeringboundary/"
@@ -1124,6 +1127,9 @@ wiki_pages:
   - key: "PostMortemAIConsent"
     title: "Post-Mortem AI Consent"
     url: "/wiki/concepts/postmortemaiconsent/"
+  - key: "PostPlagueSocialMobility"
+    title: "Post-Plague Social Mobility"
+    url: "/wiki/concepts/postplaguesocialmobility/"
   - key: "PostPowerSafetyCollapse"
     title: "Post-Power Safety Collapse / 失势后的安全崩塌"
     url: "/wiki/concepts/postpowersafetycollapse/"

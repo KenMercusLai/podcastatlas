@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 10885
+wiki_total_pages: 10889
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -647,6 +647,9 @@ wiki_pages:
   - key: "AliceWonderlandCharacter"
     title: "Alice / 爱丽丝"
     url: "/wiki/entities/alicewonderlandcharacter/"
+  - key: "AliceChaucer"
+    title: "Alice Chaucer"
+    url: "/wiki/entities/alicechaucer/"
   - key: "AliceEvans"
     title: "Alice Evans"
     url: "/wiki/entities/aliceevans/"

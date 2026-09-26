@@ -3,16 +3,16 @@
 generated: true
 topic_id: culture-and-media
 title: "Culture and Media"
-last_updated: 2026-09-26
-as_of_overview_commit: c0aaab8dad86543b23bb788d9062977fa5e6f08f
-input_digest: 106e2c347a32359bc3cbc98546d4e044f479ac61c1ae87545c7477bbb9612d1f
+last_updated: 2026-09-27
+as_of_overview_commit: ece8f7d29bca20f7062b225b551ee18bd00da616
+input_digest: b392ae91797baa1b348abb81e7068ef33b19b3f6cffdbb04a5506cb7765f9cdd
 ---
 
 # Culture and Media
 
 ## Current State
 
-The primate-history episode adds that human-animal resemblance itself can function as cultural form, making apes and monkeys carriers of celebrity, art, civic identity, comedy, and evolutionary meaning while also enabling spectacle and possession. Culture and media sources treat form as infrastructure: podcasts, exhibitions, books, games, platforms, rituals, public artifacts, and historical narratives shape what becomes legible, intimate, durable, authoritative, or imaginable. Durable value appears when medium, material form, audience practice, provenance, and interpretation are designed together, while forecasts, metrics, adaptation judgments, demographic generalizations, symbolic effects, and incomplete reconstructions remain qualified. The Luther source adds a print-history case: reproduction and directed correspondence, rather than the probably legendary church-door scene, transformed a university dispute into a portable public challenge embedded in wider theological, financial, and political conflict.
+The primate-history episode adds that human-animal resemblance itself can function as cultural form, making apes and monkeys carriers of celebrity, art, civic identity, comedy, and evolutionary meaning while also enabling spectacle and possession. Culture and media sources treat form as infrastructure: podcasts, exhibitions, books, games, platforms, rituals, public artifacts, and historical narratives shape what becomes legible, intimate, durable, authoritative, or imaginable. Durable value appears when medium, material form, audience practice, provenance, and interpretation are designed together, while forecasts, metrics, adaptation judgments, demographic generalizations, symbolic effects, and incomplete reconstructions remain qualified. The Luther source adds a print-history case: reproduction and directed correspondence, rather than the probably legendary church-door scene, transformed a university dispute into a portable public challenge embedded in wider theological, financial, and political conflict. The Chaucer addition shows literary form functioning as social evidence: competing pilgrim voices make hierarchy, gender, plague memory, and vernacular prestige legible while the fictional and source-scoped limits remain explicit.
 
 ## Cross-source Findings
 
@@ -198,3 +198,14 @@ Place-based culture becomes legible through routes that join sites, memory, and 
 - Species, origins, injuries, deaths, motives, and causal claims in several cases remain episode-attributed or source-scoped.
 - The Hartlepool story is stronger as a documented civic and political afterlife than as a verified Napoleonic event.
 - Human-like behavior can support recognition of continuity without proving identical experience or justifying humanized captive care.
+
+### Chaucer Literary Form Makes Social Change Legible
+
+[[416-the-canterbury-tales-part-4-glt1956280616|The Chaucer episode]] adds a medieval literary case: [[TheCanterburyTales]], [[LiteratureAsSocialHistory]], and [[VernacularLiteraryLegitimacy]] use competing voices, comic interruption, pilgrimage, and cosmopolitan English writing to make hierarchy and social change legible without treating fiction as representative demographic evidence.
+
+**Evidence:** [[416-the-canterbury-tales-part-4-glt1956280616]], [[TheCanterburyTales]], [[LiteratureAsSocialHistory]], [[VernacularLiteraryLegitimacy]], [[GeoffreyChaucer]], [[WifeOfBath]]
+
+**Qualifications:**
+
+- The literary characters are suggestive rather than statistically representative evidence of medieval society.
+- Claims about Chaucer’s dialect influence, plague season, and women’s post-plague autonomy remain source-scoped.

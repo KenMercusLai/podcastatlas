@@ -741,12 +741,13 @@
       "f24efd40c0c6afcf9067ba23b759935de70c4697445bc5d55c4633328ece6b74",
       "9fe4c68dcdba2239d5b685180fda81f5ec5e3c0e32bf471d9471328c09d598fc",
       "86e3b56d496e8d1657bce09184013c2cb10b205729180137608d7f31f504f61d",
-      "9c6a00cde7f684f1bb851d74c7fe1c200cb764a6ec54495df3c75f137f04e3c4"
+      "9c6a00cde7f684f1bb851d74c7fe1c200cb764a6ec54495df3c75f137f04e3c4",
+      "3b0c014c987a39993d088c448d1248990efc00e4ac954c464445df342bccebfe"
     ],
-    "paragraph_count": 741
+    "paragraph_count": 742
   },
-  "overview_commit": "b6420d711ff8de5fb714a911240fff56d672cdec",
-  "overview_digest": "5183f771b079e57dfcd6338afe9967d7409ca3a3e659c37c3f6e7d69818baf81",
+  "overview_commit": "ece8f7d29bca20f7062b225b551ee18bd00da616",
+  "overview_digest": "f6bbf6b5eeb0c0193b67ce99e09b2542dc4202b08cd6252a9459a90ff8a73f7b",
   "paragraphs": [
     {
       "id": "b67fb6e022a5bec44261cedb519d987f5829df622d50e4cef4be63496a7a7a79",
@@ -21929,6 +21930,33 @@
         "LenMurray",
         "TheRestIsHistory",
         "ThreeDayWeekUK1974"
+      ]
+    },
+    {
+      "id": "3b0c014c987a39993d088c448d1248990efc00e4ac954c464445df342bccebfe",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [
+        "history-and-geopolitics",
+        "culture-and-media"
+      ],
+      "text": "The latest addition is [[416-the-canterbury-tales-part-4-glt1956280616|416. The Canterbury Tales (Part 4)]], a [[TheRestIsHistory]] episode using [[GeoffreyChaucer]] and [[TheCanterburyTales]] as a window onto plague, war, commerce, pilgrimage, rank, gender, and language in 14th-century England. It adds [[WifeOfBath]], [[AliceChaucer]], [[LiteratureAsSocialHistory]], [[PostPlagueSocialMobility]], [[VernacularLiteraryLegitimacy]], and [[PilgrimageAsSocialReconnection]]. Its core synthesis is that Chaucer's commercial, courtly, diplomatic, and literary career mirrors a society whose inherited hierarchy was being unsettled by mortality, labor scarcity, urban wealth, mobile women, and competing vernacular voices, while fiction remains suggestive rather than statistically representative evidence. No settled contradiction is recorded; the Cecily Champagne reinterpretation, April plague-season claim, breadth of women's post-plague autonomy, and Chaucer's dialect influence remain source-scoped.",
+      "topic_scores": {
+        "culture-and-media": 2,
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 2,
+        "work-education-and-society": 4
+      },
+      "wikilinks": [
+        "416-the-canterbury-tales-part-4-glt1956280616",
+        "AliceChaucer",
+        "GeoffreyChaucer",
+        "LiteratureAsSocialHistory",
+        "PilgrimageAsSocialReconnection",
+        "PostPlagueSocialMobility",
+        "TheCanterburyTales",
+        "TheRestIsHistory",
+        "VernacularLiteraryLegitimacy",
+        "WifeOfBath"
       ]
     }
   ],
