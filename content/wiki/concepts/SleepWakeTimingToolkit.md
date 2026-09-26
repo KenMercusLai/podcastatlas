@@ -10,6 +10,7 @@ sources:
   - essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382
   - vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng-bu-chiyao-lvn_cutp5uob9zeosq-wiv3c4zot
   - guest-series-dr-matt-walker-how-to-structure-your-sleep-use-naps-time-caffeine-scim8589399999
+  - guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663
 last_updated: 2026-09-26
 knowledge_schema: synthesis-v1
 ---
@@ -34,6 +35,8 @@ The 这病说来话长 episode adds an insomnia-clinic interpretation. It uses w
 
 The Walker sleep-structure episode makes the nap branch more conditional. Adults are mainly monophasic, though an early-afternoon nap can fit some good sleepers and chronotypes. Because naps reduce accumulated sleep pressure, later naps can delay or fragment nighttime sleep, and insomnia shifts the priority toward preserving nighttime sleepiness. A roughly 20-minute nap is presented as an alertness-oriented target, while longer naps can reach more sleep stages but increase sleep inertia.
 
+The protocols episode adds recovery discipline around one bad night. It recommends keeping the usual wake time, bedtime, caffeine pattern, and nap boundary rather than trying to force recovery through sleeping in, going to bed early, or adding stimulants. It also links a dim wind-down period, leaving bed during prolonged wakefulness, and returning only when sleepy to the broader goal of keeping environmental and learned cues aligned with sleep.
+
 ## Key Claims
 - Sleep is framed as the output of a full-day timing system rather than a bedtime-only behavior, with work, exercise, meals, and post-meal movement included alongside light, caffeine, temperature, and darkness.
 - Morning outdoor light, especially within 30-60 minutes after waking, is the strongest external anchor in the sleep-toolkit source.
@@ -41,7 +44,7 @@ The Walker sleep-structure episode makes the nap branch more conditional. Adults
 - Evening darkness, reduced overhead light, calming routines, and a cool sleep environment protect the sleep side of the cycle.
 - Consistent sleep timing matters because early slow-wave and later REM-rich windows have different functions.
 - Alcohol, THC, supplements, and melatonin are treated as bounded interventions, not replacements for circadian, behavioral, and stage-architecture cues.
-- Stable rhythm is presented as more important than irregular catch-up sleep; social schedules, meal and exercise timing, daytime state, and sleep diaries can expose misalignment without making one night's duration or device score decisive.
+- Stable rhythm is presented as more important than irregular catch-up sleep; after one poor night, keeping the usual wake time, bedtime opportunity, caffeine boundary, and nap pattern protects the following night.
 
 ## Evidence
 - Full-day system - [[essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468]] frames sleep as a 24-hour cycle shaped by morning light, temperature, caffeine, meals, naps, late-day light, evening darkness, substances, supplements, and consistency.
@@ -56,14 +59,15 @@ The Walker sleep-structure episode makes the nap branch more conditional. Adults
 - Daytime sequencing - [[essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382]] connects walking, focused work, exercise, meals, afternoon light, dinner, cooling, and sleep as [[DailyCircadianPerformanceRoutine|one adaptable daily sequence]].
 - Insomnia-clinic application - [[vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng-bu-chiyao-lvn_cutp5uob9zeosq-wiv3c4zot]] connects sleep diaries, stable schedules, daytime movement, limited naps, screen reduction, and functional outcomes while preserving clinical escalation.
 - Nap timing and sleep pressure - [[guest-series-dr-matt-walker-how-to-structure-your-sleep-use-naps-time-caffeine-scim8589399999]] distinguishes early short naps for some good sleepers from late naps or insomnia contexts where nighttime sleep pressure has priority.
+- Recovery and learned cues - [[guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663]] joins schedule regularity, wind-down, dim light, stimulus control, and restraint after a poor night.
 
 ## Counterevidence & Qualifications
-The sources are public sleep education, not clinical sleep-medicine protocols. They do not settle individual treatment for insomnia, sleep apnea, psychiatric illness, medication effects, pregnancy, pediatric sleep, shift-work safety, trauma-related nightmares, gastrointestinal disease, adolescent school policy, or serious circadian disorders. The supplement, red-light, THC, alcohol, sauna, cold-exposure, tracker, growth-hormone, REM, nap-duration, nap-effect, social-jetlag, meal-timing, optic-flow, light-intensity, and travel claims remain source-scoped.
+The sources are public sleep education, not clinical sleep-medicine protocols. They do not settle individual treatment for insomnia, sleep apnea, psychiatric illness, medication effects, pregnancy, pediatric sleep, shift-work safety, trauma-related nightmares, gastrointestinal disease, adolescent school policy, or serious circadian disorders. Bedtime rescheduling can create hazardous sleepiness and requires more caution than ordinary sleep hygiene. The supplement, red-light, THC, alcohol, sauna, cold-exposure, tracker, growth-hormone, REM, nap-duration, nap-effect, social-jetlag, meal-timing, optic-flow, light-intensity, and travel claims remain source-scoped.
 
 ## What Changed
-- Made nap advice conditional on timing, duration, insomnia status, and observed nighttime effects.
-- Added sleep inertia and the roughly 20-minute alertness-oriented nap target.
-- Clarified that nighttime sleep pressure takes priority when sleep is already fragile.
+- Added the recommendation to preserve ordinary timing and sleep pressure after one poor night.
+- Integrated wind-down and stimulus control as learned-cue components of the full-day system.
+- Separated ordinary timing tools from supervised bedtime rescheduling.
 
 ## Related Concepts
 - [[SleepAsDailyHealthAccount]] - broader sleep-health account that this toolkit operationalizes.
@@ -79,3 +83,4 @@ The sources are public sleep education, not clinical sleep-medicine protocols. T
 - [[SocialJetlag]] - social-time mismatch that the toolkit tries to reduce.
 - [[ChronicInsomniaRecognitionAndTreatment]] - clinical pathway that uses the toolkit without reducing insomnia to timing alone.
 - [[AdultNappingSleepPressure]] - focused branch for balancing daytime nap benefits against nighttime sleep.
+- [[ClosedLoopSleepEnhancementBoundary]] - experimental enhancement branch that remains subordinate to the timing foundations.

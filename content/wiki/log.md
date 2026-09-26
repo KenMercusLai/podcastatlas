@@ -22734,3 +22734,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-26] ingest | GUEST SERIES | Dr. Matt Walker: Protocols to Improve Your Sleep
+
+Added source `guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663`; created `ClosedLoopSleepEnhancementBoundary`; and updated `MatthewWalker`, `SleepWakeTimingToolkit`, `SleepTemperatureToolkit`, `CaffeineAdenosineSleepTiming`, `SubstanceSleepArchitectureBoundary`, `ChronicInsomniaRecognitionAndTreatment`, `SleepAnxietyLoop`, the canonical index, and overview from their complete bounded source sets. Core synthesis: stable timing, light-dark contrast, thermal direction, restrained compensation after a poor night, and CBT-I-style stimulus control protect sleep, while caffeine, alcohol, THC, CBD, supplements, bedtime rescheduling, and stage-targeted stimulation require evidence and safety boundaries. No settled contradiction found. Food-timing rules are less rigid than common dogma, and the cortisol, temperature, substance, stimulation, DORA, acetylcholine, supplement, and sleep-stage findings remain source-scoped public education rather than individualized sleep-medicine advice. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

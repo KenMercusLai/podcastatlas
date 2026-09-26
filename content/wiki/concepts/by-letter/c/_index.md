@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8182
+wiki_total_pages: 8183
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -1067,6 +1067,9 @@ wiki_pages:
   - key: "ClosedModelAPIMoatPressure"
     title: "Closed Model API Moat Pressure"
     url: "/wiki/concepts/closedmodelapimoatpressure/"
+  - key: "ClosedLoopSleepEnhancementBoundary"
+    title: "Closed-Loop Sleep Enhancement Boundary"
+    url: "/wiki/concepts/closedloopsleepenhancementboundary/"
   - key: "ClosedSiteAutonomousDriving"
     title: "Closed-Site Autonomous Driving"
     url: "/wiki/concepts/closedsiteautonomousdriving/"

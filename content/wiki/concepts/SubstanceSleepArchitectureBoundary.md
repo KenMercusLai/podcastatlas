@@ -7,7 +7,8 @@ sources:
   - essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982
   - no-230-chuantai-wanwushengzhang-kafei-xuming-jiujing-zhumian-dangdairen-de-shuimian-shikong-yu-guanli-gkwrijiowpmzaipwcatimbil
   - guest-series-dr-matt-walker-improve-sleep-to-boost-mood-emotional-regulation-scim1989437288
-last_updated: 2026-09-07
+  - guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663
+last_updated: 2026-09-26
 knowledge_schema: synthesis-v1
 ---
 
@@ -25,14 +26,16 @@ The 三五环 crossover adds a lay experience version of the same boundary: alco
 
 Walker extends the mental-health stakes. He describes alcohol and THC as potent REM suppressors, chronic-THC cessation as capable of producing REM rebound and vivid dreams, and evening alcohol as fragmenting the deep-sleep-rich first half of the night. This supports an architecture boundary without supplying a withdrawal or addiction-treatment protocol.
 
+The protocols episode makes the substance distinctions more explicit. Alcohol is framed as sedation rather than natural sleep and is linked with fragmentation, altered deep-sleep electrical quality, and REM suppression even when use occurs earlier in the day. THC can shorten sleep onset but tolerance may drive dose escalation, while cessation can produce vivid-dream REM rebound and insomnia. CBD is kept separate: possible anxiety, temperature, or direct sleep effects are discussed, but mixed evidence, dose uncertainty, regulation, and label reliability prevent treating retail CBD as a dependable sleep aid.
+
 ## Key Claims
 - Alcohol and THC may help some people fall asleep or stay asleep in the short term.
 - Sedation or sleep onset is not the same as restorative sleep architecture.
-- Alcohol- or THC-influenced sleep architecture is described as suboptimal compared with sleep without them.
-- Alcohol is specifically described as suppressing REM, interfering with transitions from stage two toward REM, and sometimes producing early waking.
+- Alcohol- or THC-influenced sleep architecture is described as suboptimal; alcohol can suppress REM, interfere with stage transitions, fragment sleep, and produce early waking.
 - Substance-based sleep help can disrupt memory, creativity, emotional processing, and next-day state by altering stage structure.
-- Substance-based sleep help should not replace light, temperature, caffeine, schedule, environment, or clinical-context tools.
-- The concept is a public-education boundary, not a substance-use diagnosis or treatment plan.
+- THC tolerance and withdrawal can turn a short-term sleep-onset effect into dose escalation, REM rebound, and insomnia.
+- CBD should not be merged with THC: proposed sleep effects remain mixed, dose-sensitive, and product-quality dependent.
+- Substance-based sleep help should not replace behavioral or clinical care; this is not a substance-use diagnosis or treatment plan.
 
 ## Evidence
 - Short-term effect - [[essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468]] acknowledges that alcohol and THC may help some people fall asleep or stay asleep.
@@ -44,15 +47,16 @@ Walker extends the mental-health stakes. He describes alcohol and THC as potent 
 - Parallel caffeine example - [[no-230-chuantai-wanwushengzhang-kafei-xuming-jiujing-zhumian-dangdairen-de-shuimian-shikong-yu-guanli-gkwrijiowpmzaipwcatimbil]] says caffeine may not stop a person from falling asleep yet can still affect later sleep quality.
 - REM and rebound - [[guest-series-dr-matt-walker-improve-sleep-to-boost-mood-emotional-regulation-scim1989437288]] describes alcohol and THC as REM suppressors and vivid dreams after stopping chronic THC as REM rebound.
 - Deep-sleep fragmentation - [[guest-series-dr-matt-walker-improve-sleep-to-boost-mood-emotional-regulation-scim1989437288]] says evening alcohol fragments the first half of the night, when deep non-REM sleep is concentrated.
+- Alcohol sedation and timing - [[guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663]] separates sedation from sleep and reports deep-sleep and REM effects even from earlier alcohol exposure.
+- THC tolerance and CBD uncertainty - [[guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663]] distinguishes THC sleep onset, tolerance, withdrawal, and REM rebound from mixed and poorly regulated CBD evidence.
 
 ## Counterevidence & Qualifications
-The sources do not provide individualized guidance for caffeine dependence, cannabis use, alcohol use disorder, withdrawal, pain, PTSD, anxiety, insomnia, medication interactions, pregnancy, or psychiatric conditions. They also do not quantify dose-response effects, compare all cannabinoid preparations, or establish that every person has the same REM or deep-sleep disruption. REM rebound should not be used to guide unsupervised withdrawal. Substance dependence, withdrawal risk, or persistent insomnia requires qualified care.
+The sources do not provide individualized guidance for caffeine dependence, cannabis use, alcohol use disorder, withdrawal, pain, PTSD, anxiety, insomnia, medication interactions, pregnancy, or psychiatric conditions. They also do not quantify dose-response effects, compare all cannabinoid preparations, validate aldehyde mechanisms, or establish that every person has the same REM or deep-sleep disruption. The single-afternoon-drink claim and CBD mechanisms lack full study context here. REM rebound should not be used to guide unsupervised withdrawal. Substance dependence, withdrawal risk, or persistent insomnia requires qualified care.
 
 ## What Changed
-- Added Gina Poe's REM-suppression and stage-transition explanation to the existing sedation-versus-architecture boundary.
-- Clarified why substance-altered sleep can matter for memory, creativity, emotional processing, and next-day recovery.
-- Added the 三五环 crossover's practical alcohol and caffeine examples of sleep onset diverging from sleep quality.
-- Added REM rebound and early-night deep-sleep fragmentation while preserving withdrawal-care boundaries.
+- Strengthened the distinction between alcohol sedation and natural sleep across deep non-REM and REM measures.
+- Added THC tolerance, dose escalation, cessation insomnia, and REM rebound as one dependence-sensitive sequence.
+- Separated mixed CBD evidence and product reliability from the better-defined THC architecture boundary.
 
 ## Related Concepts
 - [[SleepWakeTimingToolkit]] - parent sleep timing toolkit.

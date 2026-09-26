@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1208
+topic_total_pages: 1209
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -337,6 +337,9 @@ topic_concepts:
   - key: "ClimateAlteredSummer"
     title: "Climate-Altered Summer"
     url: "/wiki/concepts/climatealteredsummer/"
+  - key: "ClosedLoopSleepEnhancementBoundary"
+    title: "Closed-Loop Sleep Enhancement Boundary"
+    url: "/wiki/concepts/closedloopsleepenhancementboundary/"
   - key: "CoFounderConflict"
     title: "Co-Founder Conflict"
     url: "/wiki/concepts/cofounderconflict/"

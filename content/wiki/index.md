@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [GUEST SERIES | Dr. Matt Walker: Protocols to Improve Your Sleep](sources/guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663.md) — Huberman Lab sleep-series episode on regularity, light, temperature, caffeine, substances, CBT-I tools, sleep anxiety, and experimental enhancement technologies.
 - [439. Disco: Sex and Race in Seventies America](sources/439-disco-sex-and-race-in-seventies-america-glt8206137792.md) — The Rest Is History on disco's underground formation, music technology, mixed club culture, commercial mainstreaming, backlash, and afterlife.
 - [Middlegarchs are the new Oligarchs](sources/middlegarchs-are-the-new-oligarchs-32587514.md) — Planet Money on wealthy pass-through-business owners, top-income growth, entrepreneurship, tax advantages, legislative representation, and locally protected markets.
 - [VOL.108精神心理科｜你只是误会了你的高光时刻 多动症不等于聪明 ADHD需不需要治是个问题](sources/lvfirgzbmtwypcjqyqry291qz6cw-lvfirgzbmtwypcjqyqry291qz6cw.md) — 这病说来话长 episode on age-relative ADHD assessment, functional impairment, family context, intelligence stereotypes, and individualized intervention.
@@ -15653,6 +15654,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Morning Light Circadian Anchoring](concepts/MorningLightCircadianAnchoring.md) — Practice of using outdoor morning light, and sometimes late-day light, to set circadian timing, daytime alertness, mood, and later sleep.
 - [Sleep-Wake Timing Toolkit](concepts/SleepWakeTimingToolkit.md) — Huberman sleep-toolkit frame coordinating light, temperature, caffeine, food, substances, supplements, consistency, clock-shifting cues, and stage-specific sleep timing across the day.
 - [Sleep Temperature Toolkit](concepts/SleepTemperatureToolkit.md) — Sleep-temperature frame spanning morning arousal, evening cooling, and personalized overnight curves with partner-specific zones.
+- [Closed-Loop Sleep Enhancement Boundary](concepts/ClosedLoopSleepEnhancementBoundary.md) — Evidence and safety boundary for electrical, acoustic, thermal, and rocking-based sleep interventions timed to detected sleep state.
 - [Caffeine-Adenosine Sleep Timing](concepts/CaffeineAdenosineSleepTiming.md) — Caffeine timing frame that links adenosine, delayed morning intake, late-day cutoff, tolerance, and sleep pressure.
 - [Substance Sleep Architecture Boundary](concepts/SubstanceSleepArchitectureBoundary.md) — Boundary separating alcohol or THC sedation from sleep architecture, including alcohol's REM suppression and THC's sedation-versus-restoration tradeoff.
 - [Sleep Supplement Boundary](concepts/SleepSupplementBoundary.md) — Sleep-aid boundary placing supplements and melatonin behind behavior, nutrition, side-effect awareness, and clinical context.

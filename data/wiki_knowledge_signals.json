@@ -17985,9 +17985,9 @@
       "url": "/wiki/concepts/caesarsbritishexpeditions/"
     },
     "CaffeineAdenosineSleepTiming": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 3,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM6408620468 [SCIM6408620468].md",
@@ -18023,6 +18023,13 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Matt Walker: How to Structure Your Sleep, Use Naps & Time Caffeine",
           "url": "/wiki/sources/guest-series-dr-matt-walker-how-to-structure-your-sleep-use-naps-time-caffeine-scim8589399999/"
+        },
+        {
+          "episode_file": "SCIM2515095663 [SCIM2515095663].md",
+          "key": "guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Matt Walker: Protocols to Improve Your Sleep",
+          "url": "/wiki/sources/guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663/"
         }
       ],
       "updated": "2026-09-26",
@@ -24994,9 +25001,9 @@
       "url": "/wiki/concepts/chronicillnessqualityoflife/"
     },
     "ChronicInsomniaRecognitionAndTreatment": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lvn_CUtP5UoB9zeoSq-wiV3C4Zot [lvn_CUtP5UoB9zeoSq-wiV3C4Zot].md",
@@ -25004,6 +25011,13 @@
           "show": "这病说来话长",
           "title": "VOL.129医生教你睡大觉 解决睡眠障碍也能不吃药",
           "url": "/wiki/sources/vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng-bu-chiyao-lvn_cutp5uob9zeosq-wiv3c4zot/"
+        },
+        {
+          "episode_file": "SCIM2515095663 [SCIM2515095663].md",
+          "key": "guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Matt Walker: Protocols to Improve Your Sleep",
+          "url": "/wiki/sources/guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663/"
         }
       ],
       "updated": "2026-09-23",
@@ -25937,6 +25951,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/concepts/clinicaltrustbuilding/"
+    },
+    "ClosedLoopSleepEnhancementBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2515095663 [SCIM2515095663].md",
+          "key": "guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Matt Walker: Protocols to Improve Your Sleep",
+          "url": "/wiki/sources/guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/closedloopsleepenhancementboundary/"
     },
     "CloudSegmentRevenueDisclosure": {
       "episode_count": 1,
@@ -92392,9 +92422,9 @@
       "url": "/wiki/entities/matthewhill/"
     },
     "MatthewWalker": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM1698271951 [SCIM1698271951].md",
@@ -92423,6 +92453,13 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Matt Walker: How to Structure Your Sleep, Use Naps & Time Caffeine",
           "url": "/wiki/sources/guest-series-dr-matt-walker-how-to-structure-your-sleep-use-naps-time-caffeine-scim8589399999/"
+        },
+        {
+          "episode_file": "SCIM2515095663 [SCIM2515095663].md",
+          "key": "guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Matt Walker: Protocols to Improve Your Sleep",
+          "url": "/wiki/sources/guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663/"
         }
       ],
       "updated": "2026-09-26",
@@ -126585,9 +126622,9 @@
       "url": "/wiki/concepts/slaverynationalidentitycontradiction/"
     },
     "SleepAnxietyLoop": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 4,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "tech_20260811_0811_MP_TECH_pod_128 [tech_20260811_0811_MP_TECH_pod_128].md",
@@ -126623,6 +126660,13 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Matt Walker: Using Sleep to Improve Learning, Creativity & Memory",
           "url": "/wiki/sources/guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory-scim9549338704/"
+        },
+        {
+          "episode_file": "SCIM2515095663 [SCIM2515095663].md",
+          "key": "guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Matt Walker: Protocols to Improve Your Sleep",
+          "url": "/wiki/sources/guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663/"
         }
       ],
       "updated": "2026-09-26",
@@ -126906,9 +126950,9 @@
       "url": "/wiki/concepts/sleepsupplementboundary/"
     },
     "SleepTemperatureToolkit": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 3,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM6408620468 [SCIM6408620468].md",
@@ -126937,15 +126981,22 @@
           "show": "硅谷101",
           "title": "E252｜硅谷睡眠外挂：富人的玩具，还是预防医疗的入口？｜对话Eight Sleep创始人",
           "url": "/wiki/sources/e252-guigu-shuimian-waigua-furende-wanju-haishi-yufang-yiliao-de-rukou-duihua-eight-sleep-chuangshiren-833a6b89-e6a1-4d61-a3b3-46f4d664894e/"
+        },
+        {
+          "episode_file": "SCIM2515095663 [SCIM2515095663].md",
+          "key": "guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Matt Walker: Protocols to Improve Your Sleep",
+          "url": "/wiki/sources/guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-09-26",
       "url": "/wiki/concepts/sleeptemperaturetoolkit/"
     },
     "SleepWakeTimingToolkit": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 4,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "SCIM6408620468 [SCIM6408620468].md",
@@ -126995,6 +127046,13 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Matt Walker: How to Structure Your Sleep, Use Naps & Time Caffeine",
           "url": "/wiki/sources/guest-series-dr-matt-walker-how-to-structure-your-sleep-use-naps-time-caffeine-scim8589399999/"
+        },
+        {
+          "episode_file": "SCIM2515095663 [SCIM2515095663].md",
+          "key": "guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Matt Walker: Protocols to Improve Your Sleep",
+          "url": "/wiki/sources/guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663/"
         }
       ],
       "updated": "2026-09-26",
@@ -131768,9 +131826,9 @@
       "url": "/wiki/concepts/subconsciouscreativeincubation/"
     },
     "SubstanceSleepArchitectureBoundary": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM6408620468 [SCIM6408620468].md",
@@ -131799,9 +131857,16 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Matt Walker: Improve Sleep to Boost Mood & Emotional Regulation",
           "url": "/wiki/sources/guest-series-dr-matt-walker-improve-sleep-to-boost-mood-emotional-regulation-scim1989437288/"
+        },
+        {
+          "episode_file": "SCIM2515095663 [SCIM2515095663].md",
+          "key": "guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Matt Walker: Protocols to Improve Your Sleep",
+          "url": "/wiki/sources/guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-26",
       "url": "/wiki/concepts/substancesleeparchitectureboundary/"
     },
     "SuccessfulAging": {
