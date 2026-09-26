@@ -23212,3 +23212,11 @@ Added source `409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt946011145
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | VOL.96中医消化｜从「繁花」宝总泡饭聊养胃、脾胃不和 从排骨年糕聊消化不良
+
+Added source `vol-96-zhongyi-xiaohua-cong-fanhua-baozong-paofan-liao-yangwei-piwei-buhe-cong-paigu-niangao-liao-xiaohua-buliang-lpuafqvhm2jz705x53xahkr3g8ha`; created `TCMDigestiveSelfCareBoundary`; and updated `MaoZheTCMDoctor`, the canonical index, and overview from the complete bounded source set. Core synthesis: preparation, portion, symptoms, tolerance, and metabolic context matter more than a universal “stomach-nourishing” food label; warm or soft food can be a comfort strategy without becoming a disease treatment. No settled contradiction found. Regional-climate, starch-gelatinization, spleen-stomach, qi, dampness, atrophic-gastritis, and H. pylori treatment claims remain source-scoped, while diabetes, persistent digestive symptoms, diagnosed gastric disease, and confirmed infection require qualified care. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.96中医消化｜从「繁花」宝总泡饭聊养胃、脾胃不和 从排骨年糕聊消化不良](sources/vol-96-zhongyi-xiaohua-cong-fanhua-baozong-paofan-liao-yangwei-piwei-buhe-cong-paigu-niangao-liao-xiaohua-buliang-lpuafqvhm2jz705x53xahkr3g8ha.md) — 这病说来话长 episode on pao fan, digestive comfort, glucose context, symptom escalation, and the evidence boundary around regional and TCM food claims.
 - [409. The Nazis in Power: Hitler's War on the Jews (Part 6)](sources/409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455.md) — The Rest Is History episode on the uneven 1933–36 escalation from local violence and professional exclusion to racial law, social isolation, coerced emigration, and Olympic concealment.
 - [410. The Nazis in Power: The Night of Broken Glass (Part 7)](sources/410-the-nazis-in-power-the-night-of-broken-glass-part-7-glt5771265943.md) — The Rest Is History episode on war-linked antisemitic escalation, Aryanization, distributed complicity, Kristallnacht, refugee barriers, and the bureaucratic road toward genocide.
 - [VOL.97呼吸科｜今冬流感、肺炎这么“猛”？我咋整？｜儿童支原体肺炎总不好？有后遗症吗？](sources/vol-97-huxike-jindong-liugan-feiyan-zheme-meng-wo-zazheng-ertong-zhiyuanti-feiyan-zong-buhao-you-houyizheng-ma-liz9rdhhqkbxpktg1gd2z2sb2klq.md) — 这病说来话长 episode on respiratory symptom triage, pneumonia and imaging interpretation, pediatric mycoplasma escalation, antibiotic stewardship, care-setting choice, and household prevention.
@@ -3322,7 +3323,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Pedro de Ursúa](entities/PedroDeUrsua.md) — Crown-appointed El Dorado expedition commander murdered in the 1561 mutiny.
 - [Ursúa-Aguirre Expedition](entities/AguirreExpedition.md) — 1560-1561 Amazon conquest venture that became an anti-royal rebellion and collapsed in Venezuela.
 - [Richard Schwartz](entities/RichardSchwartz.md) — Founder of Internal Family Systems presenting parts work, Self-leadership, experiential inquiry, and trauma-sensitive practice boundaries.
-- [毛哲 / Mao Zhe (TCM Guest)](entities/MaoZheTCMDoctor.md) — Source-scoped TCM guest discussing weight management, seasonal self-care, allergy, and wellness marketing while retaining treatment, emergency-care, and evidence-quality boundaries.
+- [毛哲 / Mao Zhe (TCM Guest)](entities/MaoZheTCMDoctor.md) — Source-scoped TCM guest discussing digestive self-care, weight management, seasonal health, allergy, and wellness marketing while retaining treatment, escalation, and evidence-quality boundaries.
 - [Marianne](entities/Marianne.md) — Female personification of the French Republic whose symbolism coexisted with women's political exclusion.
 - [Olympe de Gouges](entities/OlympeDeGouges.md) — Revolutionary writer and abolitionist who applied universal rights language to women.
 - [Madame Roland](entities/MadameRoland.md) — Influential Girondin salon organizer who defended indirect female politics and faced misogynistic backlash.
@@ -13859,6 +13860,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kay Tye](entities/KayTye.md) — Neuroscientist connecting emotional-valence circuits to loneliness, social homeostasis, hierarchy, and sustainable scientific leadership.
 
 ## Concepts
+- [TCM Digestive Self-Care Boundary / 中医消化自我调理边界](concepts/TCMDigestiveSelfCareBoundary.md) — Separates adaptable food and comfort strategies from unvalidated digestive diagnoses, climate mechanisms, and disease-treatment claims.
 - [Working Towards the Führer](concepts/WorkingTowardsTheFuhrer.md) — Model of subordinates anticipating broad leader wishes and competitively radicalizing policy without detailed orders for every action.
 - [Incremental Persecution and False Stabilization](concepts/IncrementalPersecutionFalseStabilization.md) — Uneven escalation pattern in which pauses and legal form conceal accumulating structures of exclusion.
 - [Economic Aryanization](concepts/EconomicAryanization.md) — Coerced elimination and transfer of Jewish economic life through professional bans, forced sales, confiscation, collective punishment, and exclusion.

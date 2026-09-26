@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 8308
+wiki_total_pages: 8309
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -182,6 +182,9 @@ wiki_pages:
   - key: "TayloristFactoryTime"
     title: "Taylorist Factory Time / 泰勒制工厂时间"
     url: "/wiki/concepts/tayloristfactorytime/"
+  - key: "TCMDigestiveSelfCareBoundary"
+    title: "TCM Digestive Self-Care Boundary / 中医消化自我调理边界"
+    url: "/wiki/concepts/tcmdigestiveselfcareboundary/"
   - key: "TCMSpringSelfCareBoundary"
     title: "TCM Spring Self-Care Boundary / 中医春季养生边界"
     url: "/wiki/concepts/tcmspringselfcareboundary/"

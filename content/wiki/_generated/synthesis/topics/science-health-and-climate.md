@@ -4,17 +4,29 @@ generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
 last_updated: 2026-09-27
-as_of_overview_commit: b3289eb1bca92b994d45eabff791d867ea4d622e
-input_digest: 7e352ec2d3cd5e05a3af5e2e73064bb110362b07674e696cb491a64f6c675553
+as_of_overview_commit: 6a0f2a0ddd41fbe8a5a3f255cea9708cdc09a0eb
+input_digest: 0bff6d3435c21c1e5624f22e7bfdbf9cf02d09345e639c1f02e38f3f29b72829
 ---
 
 # Science, Health, and Climate
 
 ## Current State
 
-Science, health, and climate sources consistently separate public literacy from individualized care: mechanisms, measurements, urgent escalation, qualified treatment, environmental context, and uncertainty matter more than labels or cure claims. The topic spans social neuroscience, sleep and mental health, chronic and acute care, metabolism and nutrition, exercise and sensory health, disability and animal welfare, climate adaptation, and science governance; interventions remain population-, comparator-, dose-, timing-, endpoint-, goal-, and supervision-dependent. Expectation effects can change symptoms and physiology without proving restored function or disease modification; end-of-life and intensive-care decisions depend on reversibility and stated wishes; elite performance does not establish psychological safety; and social need depends on acute versus chronic state, prior experience, contact quality, and translation boundaries.
+Science, health, and climate sources consistently separate public literacy from individualized care: mechanisms, measurements, urgent escalation, qualified treatment, environmental context, and uncertainty matter more than labels or cure claims. The topic spans social neuroscience, sleep and mental health, chronic and acute care, metabolism and nutrition, exercise and sensory health, disability and animal welfare, climate adaptation, and science governance; interventions remain population-, comparator-, dose-, timing-, endpoint-, goal-, and supervision-dependent. Digestive comfort and food familiarity do not establish disease treatment, just as expectation effects can change symptoms without proving restored function; end-of-life and intensive-care decisions depend on reversibility and stated wishes, elite performance does not establish psychological safety, and social need depends on state, history, contact quality, and translation boundaries.
 
 ## Cross-source Findings
+
+### Digestive Self Care Needs Symptom Metabolic And Disease Boundaries
+
+[[vol-96-zhongyi-xiaohua-cong-fanhua-baozong-paofan-liao-yangwei-piwei-buhe-cong-paigu-niangao-liao-xiaohua-buliang-lpuafqvhm2jz705x53xahkr3g8ha|VOL.96]] adds [[TCMDigestiveSelfCareBoundary]]: preparation, portion, symptoms, tolerance, and metabolic context matter more than a universal stomach-nourishing label, while [[BowelSymptomTriage]], [[FlatulenceAsHealthSignal]], [[EndoscopyPathologyFollowup]], and [[ContinuousGlucoseMonitoring]] keep persistent digestive symptoms, diabetes, atrophic gastritis, and H. pylori inside qualified assessment rather than [[MaoZheTCMDoctor|毛哲]]'s regional or TCM food anecdotes.
+
+**Evidence:** [[vol-96-zhongyi-xiaohua-cong-fanhua-baozong-paofan-liao-yangwei-piwei-buhe-cong-paigu-niangao-liao-xiaohua-buliang-lpuafqvhm2jz705x53xahkr3g8ha]], [[TCMDigestiveSelfCareBoundary]], [[MaoZheTCMDoctor]], [[BowelSymptomTriage]], [[FlatulenceAsHealthSignal]], [[EndoscopyPathologyFollowup]], [[ContinuousGlucoseMonitoring]]
+
+**Qualifications:**
+
+- The episode is public TCM and digestive-health discussion, not a nutrition trial, diabetes protocol, diagnostic assessment, gastroenterology guideline, or individualized treatment plan.
+- Regional familiarity, warm or soft texture, and starch preparation may affect preference or tolerance without proving that a food nourishes the stomach, treats symptoms, reverses atrophic gastritis, or eradicates H. pylori.
+- Spleen-stomach, qi, dampness, climate, gelatinization, glucose-ranking, and treatment claims remain source-scoped; diagnosed disease and persistent or alarming symptoms require qualified assessment.
 
 ### Social Need Is State History And Contact Quality Dependent
 

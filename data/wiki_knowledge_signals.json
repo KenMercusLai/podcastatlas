@@ -94182,9 +94182,9 @@
       "url": "/wiki/entities/maoyisheng/"
     },
     "MaoZheTCMDoctor": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "lnXaXyS733qZi9RkCwVGQT6uzfuR [lnXaXyS733qZi9RkCwVGQT6uzfuR].md",
@@ -94220,9 +94220,16 @@
           "show": "这病说来话长",
           "title": "VOL.102中医科｜真想减肥就别再碰这些！中医教你看清这五个疗法里的大忽悠就是它！",
           "url": "/wiki/sources/vol-102-zhongyike-zhenxiang-jianfei-jiu-bie-zai-peng-zhexie-zhongyi-jiao-ni-kanqing-zhe-wu-ge-liaofa-li-de-da-huyou-jiushi-ta-lr4crzrbp8ladtcrn7r4hyren-25/"
+        },
+        {
+          "episode_file": "lpuAFqVhM2jz705x53xaHkr3G8Ha [lpuAFqVhM2jz705x53xaHkr3G8Ha].md",
+          "key": "vol-96-zhongyi-xiaohua-cong-fanhua-baozong-paofan-liao-yangwei-piwei-buhe-cong-paigu-niangao-liao-xiaohua-buliang-lpuafqvhm2jz705x53xahkr3g8ha",
+          "show": "这病说来话长",
+          "title": "VOL.96中医消化｜从「繁花」宝总泡饭聊养胃、脾胃不和 从排骨年糕聊消化不良",
+          "url": "/wiki/sources/vol-96-zhongyi-xiaohua-cong-fanhua-baozong-paofan-liao-yangwei-piwei-buhe-cong-paigu-niangao-liao-xiaohua-buliang-lpuafqvhm2jz705x53xahkr3g8ha/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-09-27",
       "url": "/wiki/entities/maozhetcmdoctor/"
     },
     "MaoZhongqun": {
@@ -138856,6 +138863,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/concepts/systemicsleeplosseffects/"
+    },
+    "TCMDigestiveSelfCareBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lpuAFqVhM2jz705x53xaHkr3G8Ha [lpuAFqVhM2jz705x53xaHkr3G8Ha].md",
+          "key": "vol-96-zhongyi-xiaohua-cong-fanhua-baozong-paofan-liao-yangwei-piwei-buhe-cong-paigu-niangao-liao-xiaohua-buliang-lpuafqvhm2jz705x53xahkr3g8ha",
+          "show": "这病说来话长",
+          "title": "VOL.96中医消化｜从「繁花」宝总泡饭聊养胃、脾胃不和 从排骨年糕聊消化不良",
+          "url": "/wiki/sources/vol-96-zhongyi-xiaohua-cong-fanhua-baozong-paofan-liao-yangwei-piwei-buhe-cong-paigu-niangao-liao-xiaohua-buliang-lpuafqvhm2jz705x53xahkr3g8ha/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/tcmdigestiveselfcareboundary/"
     },
     "TCMSpringSelfCareBoundary": {
       "episode_count": 1,
