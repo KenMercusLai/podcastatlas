@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 8320
+wiki_total_pages: 8323
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -557,6 +557,9 @@ wiki_pages:
   - key: "TotalitarianDoubleLife"
     title: "Totalitarian Double Life / 极权双重生活"
     url: "/wiki/concepts/totalitariandoublelife/"
+  - key: "TotalitarianSpectacleAndRitual"
+    title: "Totalitarian Spectacle and Ritual"
+    url: "/wiki/concepts/totalitarianspectacleandritual/"
   - key: "TotemismNationalism"
     title: "Totemism And Nationalism / 图腾主义与民族主义"
     url: "/wiki/concepts/totemismnationalism/"

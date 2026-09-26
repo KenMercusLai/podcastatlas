@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 8320
+wiki_total_pages: 8323
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -116,6 +116,9 @@ wiki_pages:
   - key: "NavigationDeviceCommoditization"
     title: "Navigation Device Commoditization"
     url: "/wiki/concepts/navigationdevicecommoditization/"
+  - key: "NaziDomesticAndYouthSocialization"
+    title: "Nazi Domestic and Youth Socialization"
+    url: "/wiki/concepts/nazidomesticandyouthsocialization/"
   - key: "NaziInvoluntaryEuthanasiaProgram"
     title: "Nazi Involuntary-Euthanasia Program"
     url: "/wiki/concepts/naziinvoluntaryeuthanasiaprogram/"

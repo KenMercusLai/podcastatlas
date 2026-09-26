@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [405. The Nazis in Power: The Nuremberg Rallies (Part 2)](sources/405-the-nazis-in-power-the-nuremberg-rallies-part-2-glt8681167377.md) — The Rest Is History episode on Nazi spectacle, ritual, film and radio saturation, gender and youth socialization, schooling, and Olympic propaganda.
 - [406. The Nazis in Power: Hitler’s Road to War (Part 3)](sources/406-the-nazis-in-power-hitlers-road-to-war-part-3-glt6776521114.md) — The Rest Is History episode on struggle ideology, conquest-dependent rearmament, Allied division, the Rhineland gamble, and success-driven escalation.
 - [VOL.94消化内科｜困扰当代年轻人的最多肠胃问题就是胀气｜答疑篇](sources/vol-94-xiaohuaneike-kunrao-dangdai-nianqingren-de-zuiduo-changwei-wenti-jiushi-zhangqi-dayi-pian-lq93ijp72zi8t5vmctfbifrg7kzz.md) — 这病说来话长 listener Q&A on bloating, bowel symptoms, probiotics, bleeding, reflux, polyps, pathology, and risk-specific endoscopy follow-up.
 - [VOL.95无·事｜「麦乐村」一针扎破你对主旋律剧的刻板印象 和央广对谈编剧、首席医疗顾问](sources/vol-95-wu-shi-mailecun-yizhen-zhapo-ni-dui-zhuxuanlv-ju-de-keban-yinxiang-he-yangguang-duitan-bianju-shouxi-yiliao-guwen-lj1pk4rns8hrpqls6jrmkdzin2u.md) — 这病说来话长 episode with 胡亚婷 and a foreign-aid TCM adviser on 《欢迎来到麦乐村》, resource-constrained medicine, cross-cultural communication, composite adaptation, and humanized public-interest storytelling.
@@ -2933,6 +2934,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Prevent & Treat Colds & Flu](sources/how-to-prevent-treat-colds-flu-scim6817932732.md) — Huberman Lab solo episode on respiratory-virus transmission, layered immune defense, sleep and training load, heat boundaries, and supplement evidence.
 
 ## Entities
+- [1934 Nuremberg Rally](entities/NurembergRally1934.md) — Nazi congress that staged post-purge consolidation through historical myth, sacred ritual, mass choreography, light, and film.
 - [Remilitarization of the Rhineland](entities/RhinelandRemilitarization.md) — March 1936 German treaty violation whose unopposed success changed the strategic balance and Hitler’s risk expectations.
 - [胡亚婷 / Hu Yating (Screenwriter)](entities/HuYatingScreenwriter.md) — Screenwriter explaining the composite research, imperfect protagonist, light-comedy tone, and equality-based intent of 《欢迎来到麦乐村》.
 - [孙老师 / Doctor Sun (Foreign-Aid TCM Adviser)](entities/SunDoctorForeignAidTCMAdvisor.md) — Source-scoped TCM physician and television adviser discussing resource constraints, communication, adaptation, and professional meaning in foreign-aid medicine.
@@ -2945,8 +2947,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kristallnacht / Night of Broken Glass](entities/Kristallnacht.md) — State-enabled November 1938 pogrom joining central direction, police nonprotection, local participation, mass arrest, and dispossession.
 - [Herschel Grünspan](entities/HerschelGrunspan.md) — Polish Jewish refugee whose shooting of Ernst vom Rath was appropriated as the pogrom's public pretext.
 - [Ernst vom Rath](entities/ErnstVomRath.md) — German diplomat whose death Nazi leaders converted into propaganda authorization for Kristallnacht.
-- [Adolf Hitler](entities/AdolfHitler.md) — Nazi dictator whose territorial coercion, racial morality, legal consolidation, eugenic violence, and pogrom authorization drove expansion and escalating persecution.
-- [Joseph Goebbels](entities/JosephGoebbels.md) — Nazi propagandist who articulated racial-health morality and linked agitation, mobilization, timing, and deniability from the 1935 campaign through Kristallnacht.
+- [Adolf Hitler](entities/AdolfHitler.md) — Nazi dictator who joined spectacle and socialization to racial morality, territorial coercion, legal escalation, eugenic violence, and war.
+- [Joseph Goebbels](entities/JosephGoebbels.md) — Nazi propagandist who joined centralized film and radio distribution to racial-health morality, agitation, mobilization, and deniability.
 - [Nuremberg Laws](entities/NurembergLaws.md) — 1935 legal package that fused party-state symbolism with racial citizenship and intimate-life exclusion.
 - [Victor Klemperer](entities/VictorKlemperer.md) — German Jewish veteran and academic whose rootedness illustrates the emigration decisions created by uneven persecution.
 - [Heinrich Himmler](entities/HeinrichHimmler.md) — SS leader who joined blood-based law and invented precedent to ancestry documentation, racial enforcement, and coerced-emigration pressure.
@@ -11633,7 +11635,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《聊斋志异》](entities/LiaozhaiZhiyi.md) — Ghost-story collection used by episode 136 to show underworld offices as examinations, appointments, favors, and moral tests.
 - [Charlie Chaplin / 卓别林](entities/CharlieChaplin.md) — Film director and actor used by episode 107 to separate artistic stature and political persecution from private moral reliability.
 - [Alfred Hitchcock / 希区柯克](entities/AlfredHitchcock.md) — Suspense director discussed by episode 107 through fear, set control, actress treatment, pranks, and director myth deflation.
-- [Leni Riefenstahl / 莱妮·里芬斯塔尔](entities/LeniRiefenstahl.md) — German director used by episode 107 to connect technical film influence with Nazi propaganda, coerced labor, and moral accountability.
+- [Leni Riefenstahl / 莱妮·里芬斯塔尔](entities/LeniRiefenstahl.md) — German director whose technically influential rally and Olympic films joined state patronage, racialized spectacle, and political responsibility.
 - [Alice Guy-Blache / 艾丽斯·盖-布兰奇](entities/AliceGuyBlache.md) — Early woman film director highlighted by episode 107 as a pre-Hollywood cinema pioneer whose work complicates male-only film-history memory.
 - [Lois Weber / 洛伊斯·韦伯](entities/LoisWeber.md) — Early woman director discussed by episode 107 for long-form narrative work and social-issue filmmaking.
 - [Dorothy Arzner / 多罗西·阿兹娜](entities/DorothyArzner.md) — Hollywood woman and lesbian director used by episode 107 to recover women and queer filmmakers inside early studio history.
@@ -13876,6 +13878,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kay Tye](entities/KayTye.md) — Neuroscientist connecting emotional-valence circuits to loneliness, social homeostasis, hierarchy, and sustainable scientific leadership.
 
 ## Concepts
+- [Totalitarian Spectacle and Ritual](concepts/TotalitarianSpectacleAndRitual.md) — Organization of history, sacred form, crowds, gesture, architecture, and light so domination is experienced as belonging and destiny.
+- [Media Saturation and Everyday Conformity](concepts/MediaSaturationAndEverydayConformity.md) — Distribution and behavioral-pressure system joining film, radio, entertainment, symbols, greetings, and visible gestures.
+- [Nazi Domestic and Youth Socialization](concepts/NaziDomesticAndYouthSocialization.md) — Regime reproduction through gender roles, motherhood policy, youth organizations, schools, discipline, curriculum, and bodily training.
 - [Deterrence Failure Against Expansion](concepts/DeterrenceFailureAgainstExpansion.md) — How an unopposed reversible probe can strengthen an aggressor’s position, prestige, and confidence in further escalation.
 - [Nazi Rearmament War Economy](concepts/NaziRearmamentWarEconomy.md) — System linking military recovery and domestic legitimacy to import pressure, consumer sacrifice, autarky, and anticipated conquest.
 - [援外医疗实践 / Foreign-Aid Medical Practice](concepts/ForeignAidMedicalPractice.md) — Context-sensitive clinical collaboration under resource, language, infrastructure, team, and cross-cultural constraints.
@@ -15610,7 +15615,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hydropower Concentration Risk](concepts/HydropowerConcentrationRisk.md) — Infrastructure risk when too much power generation sits along the same exposed river systems.
 - [Listening Bar Cultural Export](concepts/ListeningBarCulturalExport.md) — Spread of Japan-inspired venues where curated high-fidelity music listening is the central social activity.
 - [Ongaku Kissa](concepts/OngakuKissa.md) — Japanese music-cafe model built around attentive listening, audio equipment, records, and restrained social atmosphere.
-- [Authoritarian Sports Propaganda](concepts/AuthoritarianSportsPropaganda.md) — Regime use of sport, media, spectacle, infrastructure, and victory to advertise power while leaving audience effects uncertain.
+- [Authoritarian Sports Propaganda](concepts/AuthoritarianSportsPropaganda.md) — Regime use of sport, media, spectacle, concealment, and film to advertise power while leaving audience effects uncertain.
 - [Fascist Sport Policy](concepts/FascistSportPolicy.md) — Mussolini-era policy apparatus linking physical education, leisure organizations, military preparation, football reform, and language politics.
 - [Sports Propaganda Effect Uncertainty](concepts/SportsPropagandaEffectUncertainty.md) — Historical-method boundary between documented propaganda intent and claims about mass persuasion or match corruption.
 - [礼俗农事式边疆整合 / Ritual-Agrarian Frontier Integration](concepts/RitualAgrarianFrontierIntegration.md) — Frontier-governance pattern where ritual, social-custom, and agricultural instruction follow formal allegiance.
@@ -20380,7 +20385,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Director Myth Deflation](concepts/DirectorMythDeflation.md) — Practice of bringing celebrated directors down from pure-genius images without reducing film history to scandal alone.
 - [Film Set Power And Abuse](concepts/FilmSetPowerAndAbuse.md) — Production-side pattern where creative authority, scheduling pressure, money, and career control can turn into fear, coercion, or exploitation.
 - [Artistic Achievement Moral Accountability](concepts/ArtisticAchievementMoralAccountability.md) — Judgment frame that artistic greatness or technical influence cannot automatically cancel personal harm or political responsibility.
-- [Propaganda Aesthetics](concepts/PropagandaAesthetics.md) — Problem of technically powerful art that makes political domination beautiful, heroic, and emotionally persuasive.
+- [Propaganda Aesthetics](concepts/PropagandaAesthetics.md) — Technically powerful art whose staging, access, imagery, and editing make political domination beautiful and emotionally persuasive.
 - [Early Women Film Pioneers](concepts/EarlyWomenFilmPioneers.md) — Corrective film-history branch recovering women directors active from cinema's early decades.
 - [False Choice Governance](concepts/FalseChoiceGovernance.md) — Pattern where power leaves apparent options while removing the option people actually value, developed through Andor's Aldhani arc.
 - [Institutional Overcompliance](concepts/InstitutionalOvercompliance.md) — Pattern where zealous functionaries intensify authority beyond immediate need, crystallized through Syril Karn.

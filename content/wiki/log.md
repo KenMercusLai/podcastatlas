@@ -23284,3 +23284,11 @@ Added source `vol-94-xiaohuaneike-kunrao-dangdai-nianqingren-de-zuiduo-changwei-
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | 405. The Nazis in Power: The Nuremberg Rallies (Part 2)
+
+Added source `405-the-nazis-in-power-the-nuremberg-rallies-part-2-glt8681167377`; created `NurembergRally1934`, `TotalitarianSpectacleAndRitual`, `MediaSaturationAndEverydayConformity`, and `NaziDomesticAndYouthSocialization`; and updated `AdolfHitler`, `JosephGoebbels`, `LeniRiefenstahl`, `PropagandaAesthetics`, `AuthoritarianSportsPropaganda`, the canonical index, and overview from their complete bounded source sets. Core synthesis: Nazi consolidation joined coercion to staged emotional experience through historical myth, sacred ritual, mass choreography, film, radio, visible everyday conformity, gender policy, youth organizations, schooling, bodily training, and Olympic spectacle. No settled contradiction found. Propaganda intent, reach, and visible participation do not establish uniform belief, while participation totals, radio coverage, teacher support, film-production figures, individual conviction, and broader influence claims remain source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

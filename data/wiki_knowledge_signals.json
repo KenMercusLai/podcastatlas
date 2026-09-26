@@ -5334,9 +5334,9 @@
       "url": "/wiki/entities/adolfeichmann/"
     },
     "AdolfHitler": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT5771265943 [GLT5771265943].md",
@@ -5372,6 +5372,13 @@
           "show": "The Rest Is History",
           "title": "406. The Nazis in Power: Hitler’s Road to War (Part 3)",
           "url": "/wiki/sources/406-the-nazis-in-power-hitlers-road-to-war-part-3-glt6776521114/"
+        },
+        {
+          "episode_file": "GLT8681167377 [GLT8681167377].md",
+          "key": "405-the-nazis-in-power-the-nuremberg-rallies-part-2-glt8681167377",
+          "show": "The Rest Is History",
+          "title": "405. The Nazis in Power: The Nuremberg Rallies (Part 2)",
+          "url": "/wiki/sources/405-the-nazis-in-power-the-nuremberg-rallies-part-2-glt8681167377/"
         }
       ],
       "updated": "2026-09-27",
@@ -12348,9 +12355,9 @@
       "url": "/wiki/concepts/authorcommercialfilmbalance/"
     },
     "AuthoritarianSportsPropaganda": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5810592007 [GLT5810592007].md",
@@ -12358,9 +12365,16 @@
           "show": "The Rest Is History",
           "title": "The Fascist World Cup: Mussolini's Football Dictatorship | History of the World Cup",
           "url": "/wiki/sources/the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007/"
+        },
+        {
+          "episode_file": "GLT8681167377 [GLT8681167377].md",
+          "key": "405-the-nazis-in-power-the-nuremberg-rallies-part-2-glt8681167377",
+          "show": "The Rest Is History",
+          "title": "405. The Nazis in Power: The Nuremberg Rallies (Part 2)",
+          "url": "/wiki/sources/405-the-nazis-in-power-the-nuremberg-rallies-part-2-glt8681167377/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/authoritariansportspropaganda/"
     },
     "AuthorityDisguiseInfiltration": {
@@ -78481,9 +78495,9 @@
       "url": "/wiki/entities/josephconrad/"
     },
     "JosephGoebbels": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT5771265943 [GLT5771265943].md",
@@ -78505,6 +78519,13 @@
           "show": "The Rest Is History",
           "title": "408. The Nazis in Power: Hitler's Dream (Part 5)",
           "url": "/wiki/sources/408-the-nazis-in-power-hitlers-dream-part-5-glt6100029744/"
+        },
+        {
+          "episode_file": "GLT8681167377 [GLT8681167377].md",
+          "key": "405-the-nazis-in-power-the-nuremberg-rallies-part-2-glt8681167377",
+          "show": "The Rest Is History",
+          "title": "405. The Nazis in Power: The Nuremberg Rallies (Part 2)",
+          "url": "/wiki/sources/405-the-nazis-in-power-the-nuremberg-rallies-part-2-glt8681167377/"
         }
       ],
       "updated": "2026-09-27",
@@ -83324,6 +83345,29 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/entities/lenacurtis/"
+    },
+    "LeniRiefenstahl": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "107.闲聊伟大导演们的八卦（第一弹） [744150818].md",
+          "key": "107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818",
+          "show": "蜜獾吃书",
+          "title": "107.闲聊伟大导演们的八卦（第一弹）",
+          "url": "/wiki/sources/107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818/"
+        },
+        {
+          "episode_file": "GLT8681167377 [GLT8681167377].md",
+          "key": "405-the-nazis-in-power-the-nuremberg-rallies-part-2-glt8681167377",
+          "show": "The Rest Is History",
+          "title": "405. The Nazis in Power: The Nuremberg Rallies (Part 2)",
+          "url": "/wiki/sources/405-the-nazis-in-power-the-nuremberg-rallies-part-2-glt8681167377/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/leniriefenstahl/"
     },
     "LeoVamaka": {
       "episode_count": 1,
@@ -96489,6 +96533,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/concepts/mediaaiworkflowacceleration/"
     },
+    "MediaSaturationAndEverydayConformity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8681167377 [GLT8681167377].md",
+          "key": "405-the-nazis-in-power-the-nuremberg-rallies-part-2-glt8681167377",
+          "show": "The Rest Is History",
+          "title": "405. The Nazis in Power: The Nuremberg Rallies (Part 2)",
+          "url": "/wiki/sources/405-the-nazis-in-power-the-nuremberg-rallies-part-2-glt8681167377/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/mediasaturationandeverydayconformity/"
+    },
     "MedicalAIRobotCollaborationBoundary": {
       "episode_count": 1,
       "show_count": 1,
@@ -102576,6 +102636,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/concepts/navierstokesequations/"
     },
+    "NaziDomesticAndYouthSocialization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8681167377 [GLT8681167377].md",
+          "key": "405-the-nazis-in-power-the-nuremberg-rallies-part-2-glt8681167377",
+          "show": "The Rest Is History",
+          "title": "405. The Nazis in Power: The Nuremberg Rallies (Part 2)",
+          "url": "/wiki/sources/405-the-nazis-in-power-the-nuremberg-rallies-part-2-glt8681167377/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/nazidomesticandyouthsocialization/"
+    },
     "NaziGermany": {
       "episode_count": 10,
       "show_count": 2,
@@ -105096,6 +105172,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/nuremberglaws/"
+    },
+    "NurembergRally1934": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8681167377 [GLT8681167377].md",
+          "key": "405-the-nazis-in-power-the-nuremberg-rallies-part-2-glt8681167377",
+          "show": "The Rest Is History",
+          "title": "405. The Nazis in Power: The Nuremberg Rallies (Part 2)",
+          "url": "/wiki/sources/405-the-nazis-in-power-the-nuremberg-rallies-part-2-glt8681167377/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/nurembergrally1934/"
     },
     "NutritionLabelSugarTraps": {
       "episode_count": 2,
@@ -116031,6 +116123,29 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/promotionstatusrelationshiprupture/"
+    },
+    "PropagandaAesthetics": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "107.闲聊伟大导演们的八卦（第一弹） [744150818].md",
+          "key": "107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818",
+          "show": "蜜獾吃书",
+          "title": "107.闲聊伟大导演们的八卦（第一弹）",
+          "url": "/wiki/sources/107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818/"
+        },
+        {
+          "episode_file": "GLT8681167377 [GLT8681167377].md",
+          "key": "405-the-nazis-in-power-the-nuremberg-rallies-part-2-glt8681167377",
+          "show": "The Rest Is History",
+          "title": "405. The Nazis in Power: The Nuremberg Rallies (Part 2)",
+          "url": "/wiki/sources/405-the-nazis-in-power-the-nuremberg-rallies-part-2-glt8681167377/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/propagandaaesthetics/"
     },
     "ProphecyTriggeredPolicy": {
       "episode_count": 6,
@@ -144597,6 +144712,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/totalattentionpractice/"
+    },
+    "TotalitarianSpectacleAndRitual": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8681167377 [GLT8681167377].md",
+          "key": "405-the-nazis-in-power-the-nuremberg-rallies-part-2-glt8681167377",
+          "show": "The Rest Is History",
+          "title": "405. The Nazis in Power: The Nuremberg Rallies (Part 2)",
+          "url": "/wiki/sources/405-the-nazis-in-power-the-nuremberg-rallies-part-2-glt8681167377/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/totalitarianspectacleandritual/"
     },
     "TotemBranding": {
       "episode_count": 1,

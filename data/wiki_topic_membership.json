@@ -1641,6 +1641,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "405-the-nazis-in-power-the-nuremberg-rallies-part-2-glt8681167377": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "406-the-nazis-in-power-hitlers-road-to-war-part-3-glt6776521114": [
     {
       "key": "history",
@@ -48358,6 +48365,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "MediaSaturationAndEverydayConformity": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "MediaWorkAsLifestyle": [
     {
       "key": "culture",
@@ -51652,6 +51666,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "NaziDomesticAndYouthSocialization": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "NaziInvoluntaryEuthanasiaProgram": [

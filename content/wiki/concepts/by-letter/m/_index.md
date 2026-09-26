@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 8320
+wiki_total_pages: 8323
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -401,6 +401,9 @@ wiki_pages:
   - key: "MediaOwnershipIndependenceRisk"
     title: "Media Ownership Independence Risk"
     url: "/wiki/concepts/mediaownershipindependencerisk/"
+  - key: "MediaSaturationAndEverydayConformity"
+    title: "Media Saturation and Everyday Conformity"
+    url: "/wiki/concepts/mediasaturationandeverydayconformity/"
   - key: "MediaWorkAsLifestyle"
     title: "Media Work As Lifestyle / 媒体工作作为生活方式"
     url: "/wiki/concepts/mediaworkaslifestyle/"

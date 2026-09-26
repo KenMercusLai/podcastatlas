@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2056
+topic_total_pages: 2057
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -4635,6 +4635,9 @@ topic_sources:
   - key: "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008"
     title: "318: Hundred Years' War: A Game of Thrones (Part 1)"
     url: "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+  - key: "405-the-nazis-in-power-the-nuremberg-rallies-part-2-glt8681167377"
+    title: "405. The Nazis in Power: The Nuremberg Rallies (Part 2)"
+    url: "/wiki/sources/405-the-nazis-in-power-the-nuremberg-rallies-part-2-glt8681167377/"
   - key: "406-the-nazis-in-power-hitlers-road-to-war-part-3-glt6776521114"
     title: "406. The Nazis in Power: Hitler’s Road to War (Part 3)"
     url: "/wiki/sources/406-the-nazis-in-power-hitlers-road-to-war-part-3-glt6776521114/"
