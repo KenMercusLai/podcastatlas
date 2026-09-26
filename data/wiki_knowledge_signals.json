@@ -17038,9 +17038,9 @@
       "url": "/wiki/entities/bowangslopebattlelatehan/"
     },
     "BowelSymptomTriage": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lvTxC2z3hN5UkH3VA9rzijreMCIh [lvTxC2z3hN5UkH3VA9rzijreMCIh].md",
@@ -17062,6 +17062,13 @@
           "show": "这病说来话长",
           "title": "VOL.94消化内科｜困扰当代年轻人的最多肠胃问题就是胀气｜答疑篇",
           "url": "/wiki/sources/vol-94-xiaohuaneike-kunrao-dangdai-nianqingren-de-zuiduo-changwei-wenti-jiushi-zhangqi-dayi-pian-lq93ijp72zi8t5vmctfbifrg7kzz/"
+        },
+        {
+          "episode_file": "lgrsYF6oZPLPHgJjpCrh7DSpC_dO [lgrsYF6oZPLPHgJjpCrh7DSpC_dO].md",
+          "key": "vol-93-xiaohuaneike-you-pi-bu-fang-sunhai-wuzang-zhe-jige-huai-xiguan-ni-zhan-jige-bianmi-he-fuxie-shi-zheyang-zuo-lgrsyf6ozplphgjjpcrh7dspc_do",
+          "show": "这病说来话长",
+          "title": "VOL.93消化内科｜有屁不放损害五脏？这几个坏习惯你占几个？便秘和腹泻时这样做！",
+          "url": "/wiki/sources/vol-93-xiaohuaneike-you-pi-bu-fang-sunhai-wuzang-zhe-jige-huai-xiguan-ni-zhan-jige-bianmi-he-fuxie-shi-zheyang-zuo-lgrsyf6ozplphgjjpcrh7dspc_do/"
         }
       ],
       "updated": "2026-09-27",
@@ -28399,9 +28406,9 @@
       "url": "/wiki/concepts/colorvisiondeficiency/"
     },
     "ColorectalCancerScreening": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lvTxC2z3hN5UkH3VA9rzijreMCIh [lvTxC2z3hN5UkH3VA9rzijreMCIh].md",
@@ -28409,9 +28416,16 @@
           "show": "这病说来话长",
           "title": "VOL.203 靠冰美式通便？一紧张就腹泻？你的“脆皮肠道”需要这份使用说明书",
           "url": "/wiki/sources/vol-203-kao-bingmeishi-tongbian-yi-jinzhang-jiu-fuxie-nide-cuipi-changdao-xuyao-zhefen-shiyongshu-lvtxc2z3hn5ukh3va9rzijremcih/"
+        },
+        {
+          "episode_file": "lgrsYF6oZPLPHgJjpCrh7DSpC_dO [lgrsYF6oZPLPHgJjpCrh7DSpC_dO].md",
+          "key": "vol-93-xiaohuaneike-you-pi-bu-fang-sunhai-wuzang-zhe-jige-huai-xiguan-ni-zhan-jige-bianmi-he-fuxie-shi-zheyang-zuo-lgrsyf6ozplphgjjpcrh7dspc_do",
+          "show": "这病说来话长",
+          "title": "VOL.93消化内科｜有屁不放损害五脏？这几个坏习惯你占几个？便秘和腹泻时这样做！",
+          "url": "/wiki/sources/vol-93-xiaohuaneike-you-pi-bu-fang-sunhai-wuzang-zhe-jige-huai-xiguan-ni-zhan-jige-bianmi-he-fuxie-shi-zheyang-zuo-lgrsyf6ozplphgjjpcrh7dspc_do/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/colorectalcancerscreening/"
     },
     "ComedyAsInvoluntaryJudgment": {
@@ -65183,6 +65197,22 @@
       "updated": "2026-09-25",
       "url": "/wiki/entities/helenoftroy/"
     },
+    "HelicobacterPyloriHouseholdManagement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgrsYF6oZPLPHgJjpCrh7DSpC_dO [lgrsYF6oZPLPHgJjpCrh7DSpC_dO].md",
+          "key": "vol-93-xiaohuaneike-you-pi-bu-fang-sunhai-wuzang-zhe-jige-huai-xiguan-ni-zhan-jige-bianmi-he-fuxie-shi-zheyang-zuo-lgrsyf6ozplphgjjpcrh7dspc_do",
+          "show": "这病说来话长",
+          "title": "VOL.93消化内科｜有屁不放损害五脏？这几个坏习惯你占几个？便秘和腹泻时这样做！",
+          "url": "/wiki/sources/vol-93-xiaohuaneike-you-pi-bu-fang-sunhai-wuzang-zhe-jige-huai-xiguan-ni-zhan-jige-bianmi-he-fuxie-shi-zheyang-zuo-lgrsyf6ozplphgjjpcrh7dspc_do/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/helicobacterpylorihouseholdmanagement/"
+    },
     "Helijia": {
       "episode_count": 1,
       "show_count": 1,
@@ -76729,9 +76759,9 @@
       "url": "/wiki/entities/jiangxuxinofficial/"
     },
     "JiangYongliang": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lmiFB8pnp9D-QS_eZkdzyIjYUTov [lmiFB8pnp9D-QS_eZkdzyIjYUTov].md",
@@ -76739,9 +76769,16 @@
           "show": "这病说来话长",
           "title": "VOL.158高嘉程：这肠胃镜非做不可吗？ft. Luffy医学频道&高贵FM",
           "url": "/wiki/sources/vol-158-gaojiacheng-zhe-changweijing-feizuo-bukema-ft-luffy-yixue-pindao-gaoguifm-lmifb8pnp9d-qs_ezkdzyijyutov/"
+        },
+        {
+          "episode_file": "lgrsYF6oZPLPHgJjpCrh7DSpC_dO [lgrsYF6oZPLPHgJjpCrh7DSpC_dO].md",
+          "key": "vol-93-xiaohuaneike-you-pi-bu-fang-sunhai-wuzang-zhe-jige-huai-xiguan-ni-zhan-jige-bianmi-he-fuxie-shi-zheyang-zuo-lgrsyf6ozplphgjjpcrh7dspc_do",
+          "show": "这病说来话长",
+          "title": "VOL.93消化内科｜有屁不放损害五脏？这几个坏习惯你占几个？便秘和腹泻时这样做！",
+          "url": "/wiki/sources/vol-93-xiaohuaneike-you-pi-bu-fang-sunhai-wuzang-zhe-jige-huai-xiguan-ni-zhan-jige-bianmi-he-fuxie-shi-zheyang-zuo-lgrsyf6ozplphgjjpcrh7dspc_do/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-27",
       "url": "/wiki/entities/jiangyongliang/"
     },
     "JiangYuliangDoctor": {
@@ -108842,6 +108879,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/panweili/"
+    },
+    "PancreaticImagingFindingTriage": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgrsYF6oZPLPHgJjpCrh7DSpC_dO [lgrsYF6oZPLPHgJjpCrh7DSpC_dO].md",
+          "key": "vol-93-xiaohuaneike-you-pi-bu-fang-sunhai-wuzang-zhe-jige-huai-xiguan-ni-zhan-jige-bianmi-he-fuxie-shi-zheyang-zuo-lgrsyf6ozplphgjjpcrh7dspc_do",
+          "show": "这病说来话长",
+          "title": "VOL.93消化内科｜有屁不放损害五脏？这几个坏习惯你占几个？便秘和腹泻时这样做！",
+          "url": "/wiki/sources/vol-93-xiaohuaneike-you-pi-bu-fang-sunhai-wuzang-zhe-jige-huai-xiguan-ni-zhan-jige-bianmi-he-fuxie-shi-zheyang-zuo-lgrsyf6ozplphgjjpcrh7dspc_do/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/pancreaticimagingfindingtriage/"
     },
     "PangCanLateHan": {
       "episode_count": 5,

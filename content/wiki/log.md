@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-27] ingest | VOL.93消化内科｜有屁不放损害五脏？这几个坏习惯你占几个？便秘和腹泻时这样做！
+
+Added source `vol-93-xiaohuaneike-you-pi-bu-fang-sunhai-wuzang-zhe-jige-huai-xiguan-ni-zhan-jige-bianmi-he-fuxie-shi-zheyang-zuo-lgrsyf6ozplphgjjpcrh7dspc_do`; created `HelicobacterPyloriHouseholdManagement` and `PancreaticImagingFindingTriage`; and updated `JiangYongliang`, `BowelSymptomTriage`, `ColorectalCancerScreening`, the canonical index, and overview from their complete bounded source sets. Core synthesis: digestive symptoms should be compared with a person's baseline and routed by persistence, bleeding, pain, hydration, family history, and imaging context, while household-aware H. pylori management and risk-based colorectal screening support prevention without turning one food, symptom, or report phrase into a diagnosis. No settled contradiction found. Transmission, food-temperature, oral-rehydration, cancer-risk, post-gastrectomy, and pancreatic-imaging claims remain source-scoped public education. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
 ## [2026-09-27] ingest | 406. The Nazis in Power: Hitler’s Road to War (Part 3)
 
 Added source `406-the-nazis-in-power-hitlers-road-to-war-part-3-glt6776521114`; created `RhinelandRemilitarization`, `NaziRearmamentWarEconomy`, and `DeterrenceFailureAgainstExpansion`; and updated `AdolfHitler`, `NaziGermany`, `BenitoMussolini`, the canonical index, and overview from their complete bounded source sets. Core synthesis: racial struggle and eastern expansion were joined to a rearmament economy whose prestige gains coexisted with import dependence, consumer shortages, and anticipated conquest; Allied division then converted the reversible Rhineland deployment into strategic protection, domestic triumph, and confidence in further risk. No settled contradiction found. Broad revisionist support did not imply uniform acceptance of Hitler’s racial endpoint, while troop totals, economic causal weights, public attitudes, private calculations, and intervention counterfactuals remain source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
@@ -23288,6 +23292,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-27] ingest | 405. The Nazis in Power: The Nuremberg Rallies (Part 2)
 
 Added source `405-the-nazis-in-power-the-nuremberg-rallies-part-2-glt8681167377`; created `NurembergRally1934`, `TotalitarianSpectacleAndRitual`, `MediaSaturationAndEverydayConformity`, and `NaziDomesticAndYouthSocialization`; and updated `AdolfHitler`, `JosephGoebbels`, `LeniRiefenstahl`, `PropagandaAesthetics`, `AuthoritarianSportsPropaganda`, the canonical index, and overview from their complete bounded source sets. Core synthesis: Nazi consolidation joined coercion to staged emotional experience through historical myth, sacred ritual, mass choreography, film, radio, visible everyday conformity, gender policy, youth organizations, schooling, bodily training, and Olympic spectacle. No settled contradiction found. Propaganda intent, reach, and visible participation do not establish uniform belief, while participation totals, radio coverage, teacher support, film-production figures, individual conviction, and broader influence claims remain source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-27] lint | Wiki health check
 

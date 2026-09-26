@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.93消化内科｜有屁不放损害五脏？这几个坏习惯你占几个？便秘和腹泻时这样做！](sources/vol-93-xiaohuaneike-you-pi-bu-fang-sunhai-wuzang-zhe-jige-huai-xiguan-ni-zhan-jige-bianmi-he-fuxie-shi-zheyang-zuo-lgrsyf6ozplphgjjpcrh7dspc_do.md) — 这病说来话长 episode with 蒋永亮 on digestive symptoms, H. pylori, diet myths, bowel warning signs, colorectal screening, gastrectomy recovery, and pancreatic imaging findings.
 - [405. The Nazis in Power: The Nuremberg Rallies (Part 2)](sources/405-the-nazis-in-power-the-nuremberg-rallies-part-2-glt8681167377.md) — The Rest Is History episode on Nazi spectacle, ritual, film and radio saturation, gender and youth socialization, schooling, and Olympic propaganda.
 - [406. The Nazis in Power: Hitler’s Road to War (Part 3)](sources/406-the-nazis-in-power-hitlers-road-to-war-part-3-glt6776521114.md) — The Rest Is History episode on struggle ideology, conquest-dependent rearmament, Allied division, the Rhineland gamble, and success-driven escalation.
 - [VOL.94消化内科｜困扰当代年轻人的最多肠胃问题就是胀气｜答疑篇](sources/vol-94-xiaohuaneike-kunrao-dangdai-nianqingren-de-zuiduo-changwei-wenti-jiushi-zhangqi-dayi-pian-lq93ijp72zi8t5vmctfbifrg7kzz.md) — 这病说来话长 listener Q&A on bloating, bowel symptoms, probiotics, bleeding, reflux, polyps, pathology, and risk-specific endoscopy follow-up.
@@ -3380,7 +3381,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kievan Rus](entities/KievanRus.md) — Urban, commercial, Christian polity connecting Scandinavian mobility to river trade, military service, and Byzantium.
 - [Magnus the Good](entities/MagnusTheGood.md) — Norwegian and Danish king whose wealth-backed accommodation with Harald Hardrada briefly creates shared rule before Harald's sole succession.
 - [吴浩天 / Wu Haotian (Anesthesiologist)](entities/WuHaotianAnesthesiologist.md) — Anesthesiologist and Luffy医学频道 founder explaining continuous monitoring, airway safety, and recovery during painless gastrointestinal endoscopy.
-- [蒋永亮 / Jiang Yongliang](entities/JiangYongliang.md) — Gastroenterologist explaining endoscopy findings, pathology, polyp treatment, aftercare, and return review.
+- [蒋永亮 / Jiang Yongliang](entities/JiangYongliang.md) — Gastroenterologist explaining digestive symptoms, cancer warning signs, endoscopy, pathology, imaging context, and follow-up.
 - [高嘉诚 / Gao Jiacheng (Podcast Guest)](entities/GaoJiachengPodcastGuest.md) — Patient-experience guest whose painless gastroscopy and colonoscopy anchor the episode, with a source-level name-spelling qualification.
 - [Luffy医学频道 / Luffy Medical Channel](entities/LuffyMedicalChannel.md) — Source-scoped medical-education channel associated with anesthesiologist 吴浩天.
 - [Harald Hardrada](entities/HaraldHardrada.md) — Stiklestad survivor who converts Rus and Byzantine service into wealth, Norwegian kingship, coercive centralization, and a failed English conquest bid.
@@ -13878,6 +13879,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kay Tye](entities/KayTye.md) — Neuroscientist connecting emotional-valence circuits to loneliness, social homeostasis, hierarchy, and sustainable scientific leadership.
 
 ## Concepts
+- [Helicobacter pylori Household Management / 幽门螺杆菌家庭管理](concepts/HelicobacterPyloriHouseholdManagement.md) — Household-aware framework for infection risk, testing, treatment discussion, hygiene, and reinfection without automatic family-wide diagnosis.
+- [Pancreatic Imaging Finding Triage / 胰腺影像异常分诊](concepts/PancreaticImagingFindingTriage.md) — Contextual interpretation of diffuse, focal, inflammatory, and cystic pancreatic imaging findings without treating enlargement as a diagnosis.
 - [Totalitarian Spectacle and Ritual](concepts/TotalitarianSpectacleAndRitual.md) — Organization of history, sacred form, crowds, gesture, architecture, and light so domination is experienced as belonging and destiny.
 - [Media Saturation and Everyday Conformity](concepts/MediaSaturationAndEverydayConformity.md) — Distribution and behavioral-pressure system joining film, radio, entertainment, symbols, greetings, and visible gestures.
 - [Nazi Domestic and Youth Socialization](concepts/NaziDomesticAndYouthSocialization.md) — Regime reproduction through gender roles, motherhood policy, youth organizations, schools, discipline, curriculum, and bodily training.

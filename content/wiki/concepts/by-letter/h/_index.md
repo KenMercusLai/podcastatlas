@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 8323
+wiki_total_pages: 8325
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -230,6 +230,9 @@ wiki_pages:
   - key: "HeirSacrificeAppeasement"
     title: "Heir Sacrifice Appeasement / 杀储求和式保祀"
     url: "/wiki/concepts/heirsacrificeappeasement/"
+  - key: "HelicobacterPyloriHouseholdManagement"
+    title: "Helicobacter pylori Household Management / 幽门螺杆菌家庭管理"
+    url: "/wiki/concepts/helicobacterpylorihouseholdmanagement/"
   - key: "HelicopterParenting"
     title: "Helicopter Parenting"
     url: "/wiki/concepts/helicopterparenting/"
