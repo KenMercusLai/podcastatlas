@@ -21058,9 +21058,9 @@
       "url": "/wiki/concepts/carrierbagnarrative/"
     },
     "Carthage": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7606824410 [GLT7606824410].md",
@@ -21068,9 +21068,16 @@
           "show": "The Rest Is History",
           "title": "568. Hannibal: Rome's Greatest Enemy (Part 1)",
           "url": "/wiki/sources/568-hannibal-romes-greatest-enemy-part-1-glt7606824410/"
+        },
+        {
+          "episode_file": "GLT9312780357 [GLT9312780357].md",
+          "key": "424-carthage-vs-rome-total-war-part-4-glt9312780357",
+          "show": "The Rest Is History",
+          "title": "424. Carthage vs. Rome: Total War (Part 4)",
+          "url": "/wiki/sources/424-carthage-vs-rome-total-war-part-4-glt9312780357/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-26",
       "url": "/wiki/entities/carthage/"
     },
     "CaseExpansionPoliticalPurge": {
@@ -49965,6 +49972,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/concepts/firstpersonaimemory/"
     },
+    "FirstPunicWar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9312780357 [GLT9312780357].md",
+          "key": "424-carthage-vs-rome-total-war-part-4-glt9312780357",
+          "show": "The Rest Is History",
+          "title": "424. Carthage vs. Rome: Total War (Part 4)",
+          "url": "/wiki/sources/424-carthage-vs-rome-total-war-part-4-glt9312780357/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/firstpunicwar/"
+    },
     "FirstSouthwestBank": {
       "episode_count": 1,
       "show_count": 1,
@@ -60800,9 +60823,9 @@
       "url": "/wiki/entities/halliemiller/"
     },
     "HamilcarBarca": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7606824410 [GLT7606824410].md",
@@ -60810,9 +60833,16 @@
           "show": "The Rest Is History",
           "title": "568. Hannibal: Rome's Greatest Enemy (Part 1)",
           "url": "/wiki/sources/568-hannibal-romes-greatest-enemy-part-1-glt7606824410/"
+        },
+        {
+          "episode_file": "GLT9312780357 [GLT9312780357].md",
+          "key": "424-carthage-vs-rome-total-war-part-4-glt9312780357",
+          "show": "The Rest Is History",
+          "title": "424. Carthage vs. Rome: Total War (Part 4)",
+          "url": "/wiki/sources/424-carthage-vs-rome-total-war-part-4-glt9312780357/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-26",
       "url": "/wiki/entities/hamilcarbarca/"
     },
     "HamiltonBurrDuel": {
@@ -62241,9 +62271,9 @@
       "url": "/wiki/concepts/hannibalalpinecrossing/"
     },
     "HannibalBarca": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT2952414067 [GLT2952414067].md",
@@ -62265,9 +62295,16 @@
           "show": "The Rest Is History",
           "title": "568. Hannibal: Rome's Greatest Enemy (Part 1)",
           "url": "/wiki/sources/568-hannibal-romes-greatest-enemy-part-1-glt7606824410/"
+        },
+        {
+          "episode_file": "GLT9312780357 [GLT9312780357].md",
+          "key": "424-carthage-vs-rome-total-war-part-4-glt9312780357",
+          "show": "The Rest Is History",
+          "title": "424. Carthage vs. Rome: Total War (Part 4)",
+          "url": "/wiki/sources/424-carthage-vs-rome-total-war-part-4-glt9312780357/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-26",
       "url": "/wiki/entities/hannibalbarca/"
     },
     "HannibalicOperationalDeception": {
@@ -95522,6 +95559,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/concepts/mentormindsetfeedback/"
     },
+    "MercenaryWar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9312780357 [GLT9312780357].md",
+          "key": "424-carthage-vs-rome-total-war-part-4-glt9312780357",
+          "show": "The Rest Is History",
+          "title": "424. Carthage vs. Rome: Total War (Part 4)",
+          "url": "/wiki/sources/424-carthage-vs-rome-total-war-part-4-glt9312780357/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/mercenarywar/"
+    },
     "MerchantExchangeInfrastructure": {
       "episode_count": 1,
       "show_count": 1,
@@ -121460,9 +121513,9 @@
       "url": "/wiki/concepts/romanprovincialconsolidation/"
     },
     "RomanRepublic": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
@@ -121498,9 +121551,16 @@
           "show": "The Rest Is History",
           "title": "704. Roman Civil War: Master of the Republic (Part 4)",
           "url": "/wiki/sources/704-roman-civil-war-master-of-the-republic-part-4-glt9669112656/"
+        },
+        {
+          "episode_file": "GLT9312780357 [GLT9312780357].md",
+          "key": "424-carthage-vs-rome-total-war-part-4-glt9312780357",
+          "show": "The Rest Is History",
+          "title": "424. Carthage vs. Rome: Total War (Part 4)",
+          "url": "/wiki/sources/424-carthage-vs-rome-total-war-part-4-glt9312780357/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-26",
       "url": "/wiki/entities/romanrepublic/"
     },
     "RomanceOfTheThreeKingdoms": {

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 8250
+wiki_total_pages: 8252
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -533,6 +533,9 @@ wiki_pages:
   - key: "FirstPrinciplesManufacturing"
     title: "First Principles Manufacturing"
     url: "/wiki/concepts/firstprinciplesmanufacturing/"
+  - key: "FirstPunicWar"
+    title: "First Punic War / 第一次布匿战争"
+    url: "/wiki/concepts/firstpunicwar/"
   - key: "FirstSaleDoctrine"
     title: "First Sale Doctrine"
     url: "/wiki/concepts/firstsaledoctrine/"

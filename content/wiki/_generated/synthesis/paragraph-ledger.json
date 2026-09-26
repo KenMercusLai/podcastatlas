@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "83047354e3fa22c2f2d2f929ac8ba1a39ba99862f6ef55ba725edcfbb26b5c32",
       "0f4bc4fa6424f4467d6b682c4c4f438379c76dad0108626ff8925a0d26c76891",
       "ecf59e934a9e2b03f5a6bfe5d9d7de60750480c6a0fafcbbe4a6acb86451f7e3",
       "c9e85069b607738833cb29cfa7c02f660b64c4148758cd4f5c0737cfd2039667",
@@ -738,11 +739,32 @@
       "f24efd40c0c6afcf9067ba23b759935de70c4697445bc5d55c4633328ece6b74",
       "9fe4c68dcdba2239d5b685180fda81f5ec5e3c0e32bf471d9471328c09d598fc"
     ],
-    "paragraph_count": 736
+    "paragraph_count": 737
   },
-  "overview_commit": "88de6624cf971b41a5bdd446122dd3fa6a9ff41c",
-  "overview_digest": "2b102c6be9eb89472637bbace4b14a0b9fa42e893a86c595361b8cda317329f4",
+  "overview_commit": "b000edb1e8ef72d9c177fbf728d5472d77630a2c",
+  "overview_digest": "926c9be2c1803c905ef9f80446ad4d47d5f417c02236a1464d7e636b1583ea5e",
   "paragraphs": [
+    {
+      "id": "83047354e3fa22c2f2d2f929ac8ba1a39ba99862f6ef55ba725edcfbb26b5c32",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[424-carthage-vs-rome-total-war-part-4-glt9312780357|424. Carthage vs. Rome: Total War (Part 4)]], a [[TheRestIsHistory]] episode on the [[FirstPunicWar|First Punic War]] and [[MercenaryWar|Mercenary War]]. It adds those two conflict syntheses while extending [[Carthage]], [[HamilcarBarca]], [[RomanRepublic]], and [[HannibalBarca]]. Its core synthesis is that Rome wins through alliance-backed manpower, rapid naval learning, replacement after catastrophic loss, elite fleet finance, and refusal to negotiate, while Carthage's dependence on sea access, cash flow, and paid troops turns Sicilian defeat into an internal demobilization crisis; Hamilcar's brutal recovery, Rome's seizure of Sardinia, and Iberian expansion then create the inherited setting for Hannibal. Two source tensions are preserved: the episode says Hamilcar sent Gisco to negotiate the peace rather than doing so personally, and its factual presentation of Hannibal's oath is qualified by the later episode's explicit treatment of that oath as ancient tradition. Exact forces, losses, inventions, atrocities, dialogue, motives, and Flaubert-mediated scenes remain source-scoped.",
+      "topic_scores": {
+        "business-and-markets": 1,
+        "history-and-geopolitics": 2,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "424-carthage-vs-rome-total-war-part-4-glt9312780357",
+        "Carthage",
+        "FirstPunicWar",
+        "HamilcarBarca",
+        "HannibalBarca",
+        "MercenaryWar",
+        "RomanRepublic",
+        "TheRestIsHistory"
+      ]
+    },
     {
       "id": "0f4bc4fa6424f4467d6b682c4c4f438379c76dad0108626ff8925a0d26c76891",
       "primary_topic": "science-health-and-climate",

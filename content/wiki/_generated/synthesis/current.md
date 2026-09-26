@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-26
-as_of_overview_commit: 88de6624cf971b41a5bdd446122dd3fa6a9ff41c
-summary: "Podcast Atlas maps how technology, markets, institutions, culture, history, health, psychology, work, education, and care interact as evidence-bound lived systems."
-episode_count: 2874
-source_count: 2874
-paragraph_count: 736
+as_of_overview_commit: b000edb1e8ef72d9c177fbf728d5472d77630a2c
+summary: "Podcast Atlas maps how technology, markets, institutions, culture, history, health, psychology, work, education, and care interact as evidence-bound systems."
+episode_count: 2875
+source_count: 2875
+paragraph_count: 737
 topic_count: 9
 ---
 
@@ -47,7 +47,7 @@ Evidence transfers across domains only when mechanism, intended outcome, compara
 
 ### Culture and Media
 
-Media form, materiality, provenance, audience practice, and human-animal projection shape what becomes legible, portable, authoritative, durable, or exploitable.
+Media form, materiality, provenance, audience practice, and projection shape what becomes legible, portable, authoritative, durable, or exploitable.
 
 - [[434-luther-the-revolution-begins-part-2-glt4080973410|The Luther episode]] adds a historical media case: [[ReformationPrintCulture]] made the Ninety-five Theses portable through printing and directed correspondence, so reproducibility and networked delivery mattered more than the probably legendary church-door scene in turning a university dispute into public revolt. Evidence: [[434-luther-the-revolution-begins-part-2-glt4080973410]], [[ReformationPrintCulture]], [[MartinLuther]], [[Wittenberg]], [[TheRestIsHistory]].
 - [[TheRollingStones]] show cultural form operating through both image and medium: [[CelebrityFolkDevilMoralPanic]] turned the [[RedlandsDrugCase]] into a wider conflict over drugs, class, and youth, while [[PopToAlbumRockTransition]] joined audience conduct, musicianship, and album economics to durable rock authority; [[AltamontFreeConcert]] then became a retrospective cultural endpoint without being a single cause of the decade's collapse. Evidence: [[TheRollingStones]], [[CelebrityFolkDevilMoralPanic]], [[RedlandsDrugCase]], [[PopToAlbumRockTransition]], [[AltamontFreeConcert]], [[559-the-rolling-stones-satanic-majesties-of-sixties-rebellion-part-2-glt1390188077]].
@@ -61,7 +61,7 @@ Institutions turn power and investment into order through capacity, evidence, le
 
 ### History and Geopolitics
 
-Historical outcomes join legitimacy and material capacity to routes, logistics, coalition, testimony, memory, layered provenance, and disciplined uncertainty.
+Historical outcomes join legitimacy and material capacity to adaptation, routes, logistics, coalitions, postwar settlement, testimony, memory, and disciplined uncertainty.
 
 - [[562-peter-the-great-the-rise-of-russia-part-1-glt5535116202|Peter Part 1]] extends the [[GreatNorthernWar|Great Northern War]] sequence back to the [[MoscowUprising1682|1682 succession crisis]]: genuine [[Streltsy]] grievances and dynastic manipulation produce Kremlin violence and [[SophiaAlekseyevna|Sophia]]'s regency, while Peter's mock regiments, technical craft, foreign contacts, and sailing form a practical-military identity inside an already Westernizing court under [[VasilyGolitsyn|Golitsyn]]. [[563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819|Peter Part 2]] then turns the [[GreatEmbassy]] into technical recruitment without political limits, joins [[CoerciveWesternization]] and the Streltsy purge to autocratic consolidation, and uses [[AugustusTheStrong|Augustus the Strong]] plus an Ottoman truce to redirect [[PeterTheGreat|Peter]] toward Sweden. [[564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070|War Part 1]], [[565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243|Part 2]], and [[566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587|Part 3]] show outcomes working through systems: [[BattleOfNarva|Narva]] drives Russian reform and [[SaintPetersburg|Baltic consolidation]], before resource denial, [[BattleOfLesnaya|Lesnaya]], [[Baturin]], winter, absent allies, injury, and divided command let [[BattleOfPoltava|Poltava]] convert capacity into decline of the [[SwedishEmpire]] and ascent of the [[RussianEmpire]]. Evidence: [[562-peter-the-great-the-rise-of-russia-part-1-glt5535116202]], [[563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819]], [[564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070]], [[565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243]], [[566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587]], [[MoscowUprising1682]], [[SophiaAlekseyevna]], [[VasilyGolitsyn]], [[BattleOfNarva]], [[SaintPetersburg]], [[BattleOfPoltava]], [[BattleOfLesnaya]], [[Baturin]], [[CharlesXII]], [[PeterTheGreat]], [[SwedishEmpire]], [[RussianEmpire]], [[GreatNorthernWar]], [[GreatEmbassy]], [[CoerciveWesternization]], [[Streltsy]], [[AugustusTheStrong]].
 - [[501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o|Episode 501]] adds [[QingMidDynastyAccumulatedMaladies|a mid-Qing case]] in which underfunded implementation, embedded interests, [[GovernanceNormalizationParadox|procedural accretion]], and [[AdministrativeInformationConformity|safe information channels]] weaken problem solving before open disorder, while [[DynasticCyclePerception|different cycle perceptions]] shape reform and [[StatecraftGenerationRelay|personnel preparation]]. Evidence: [[501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o]], [[QingMidDynastyAccumulatedMaladies]], [[GovernanceNormalizationParadox]], [[AdministrativeInformationConformity]], [[DynasticCyclePerception]], [[StatecraftGenerationRelay]].

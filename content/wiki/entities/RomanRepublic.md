@@ -8,7 +8,8 @@ sources:
   - 702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089
   - 703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511
   - 704-roman-civil-war-master-of-the-republic-part-4-glt9669112656
-last_updated: 2026-09-10
+  - 424-carthage-vs-rome-total-war-part-4-glt9312780357
+last_updated: 2026-09-26
 knowledge_schema: synthesis-v1
 ---
 
@@ -16,7 +17,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-The Roman Republic / 罗马共和国 is the institutional order whose late crisis frames both the Caesar assassination branch and the Marius-Sulla Roman Civil War branch. The wiki now treats it as a powerful Mediterranean republic whose success intensified political, military, citizenship, moral, and social pressures until office, command, and public procedure could no longer reliably contain armed rivalry.
+The Roman Republic / 罗马共和国 is the expansionary institutional order whose early Mediterranean endurance in the [[FirstPunicWar]] and later Marius-Sulla crisis show both sides of Roman capacity: alliance-backed mobilization and adaptation abroad, followed by political, military, citizenship, moral, and social pressures that republican office could no longer contain.
 
 ## Current Profile
 
@@ -28,14 +29,16 @@ Episode 703 changes the republic's profile again because the command-transfer th
 
 Episode 704 turns the republic into the object of Sulla's bloody cure. The anti-Sullan side is not a stable constitutional alternative: Cinna holds consecutive consulships and dies in mutiny, while [[GaiusMariusYounger]] becomes consul at 26 and uses temple treasure for private armies. Sulla's victory over the [[Samnites]] at the Colline Gate is followed by prisoner massacre, [[SullanProscriptions]], confiscation, and an open-ended [[SullanDictatorship|dictatorship]]. His reforms strengthen the Senate, regularize office rules, restrict repeat consulships, and weaken the tribunate, but the same settlement proves that republican form can be remade by a victorious commander.
 
+The First Punic War source backfills an earlier stage of that expansion. Rome absorbs Italian manpower into a coalition, treats elite military success as political status, and frames its intervention at Messana as justified despite the strategic expansion that follows. It then copies Carthaginian ship design, uses the corvus to turn naval combat toward infantry strength, survives the Regulus defeat, storms, and Drepana, and raises a final fleet through elite loans. This persistence is a major capacity, but it is not morally neutral: Acragas is sacked and enslaved, Sicilian communities suffer reprisals, and Rome later uses Carthage's weakness to seize Sardinia.
+
 ## Key Characteristics
 
 - The republic combined anti-king memory, elected office, aristocratic competition, popular assemblies, and senatorial authority.
 - Mediterranean expansion made Rome dominant while importing wealth, luxury, provincial extraction, and inequality pressure.
 - The tribunate and popular mobilization became dangerous after the Gracchi murders and emergency violence.
-- Outsider ascent through the [[CursusHonorum|cursus honorum]] exposed tension between merit, military proof, and aristocratic lineage.
-- Foreign wars such as the Jugurthine and Mithridatic conflicts fed domestic competition over command, wealth, and public credit.
+- Outsider ascent and foreign wars fed competition over military proof, command, wealth, public credit, and aristocratic lineage.
 - Italian allied exclusion shows that Rome's citizen institutions lag behind its peninsula-scale military and economic system.
+- Earlier expansion joined Italian manpower, elite status competition, technological adaptation, private finance, and refusal to accept defeat.
 - By episode 704, republican legality still exists but is repeatedly reconstructed under army pressure, outlawry, killing, confiscation, and extraordinary office.
 
 ## Evidence
@@ -51,17 +54,19 @@ Episode 704 turns the republic into the object of Sulla's bloody cure. The anti-
 - Regime conflict after Sulla: [[703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511]] says Cinna is expelled and outlawed, raises an army, joins Marius, takes Rome, and later leads a regime committed to Sulla's destruction.
 - Anti-Sullan norm collapse: [[704-roman-civil-war-master-of-the-republic-part-4-glt9669112656]] says Cinna's fourth consecutive consulship and Marius Younger's consulship at 26 show Sulla's opponents also violating republican restraint.
 - Sullan terror and reform: [[704-roman-civil-war-master-of-the-republic-part-4-glt9669112656]] describes the Villa Publica massacre, proscriptions, confiscations, open-ended dictatorship, Senate expansion, office age rules, repeat-consulship limits, and tribunate restriction.
+- Early expansion and adaptation: [[424-carthage-vs-rome-total-war-part-4-glt9312780357]] connects Italian mobilization, military-status culture, copied ships, the corvus, replacement after disaster, private fleet finance, and final victory over Carthage.
+- Expansion's coercive edge: [[424-carthage-vs-rome-total-war-part-4-glt9312780357]] describes the sack and enslavement of Acragas, reprisals in Sicily, punitive treatment of failed commanders, and the later seizure of Sardinia.
 - Pre-Caesar breakdown: [[124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361]], [[701-roman-civil-war-rise-of-the-general-part-1-glt1262857909]], [[702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089]], [[703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511]], and [[704-roman-civil-war-master-of-the-republic-part-4-glt9669112656]] all place Marius and Sulla before Caesar as evidence that the crisis was already advanced.
 
 ## Qualifications
 
-The current evidence does not make the Roman Republic a generic template for all republics or democracies. The sources are podcast interpretations of late-republic crisis. Episode 704 resolves the immediate Sullan settlement, but the page still does not offer a full post-Sulla path through Pompey's mature career, Caesar's campaigns, or the final imperial transition.
+The current evidence does not make the Roman Republic a generic template for all republics or democracies. The sources are podcast interpretations of two widely separated periods, not a continuous institutional history. First Punic War force totals, inventions, motives, patriotic-finance claims, and casualty figures remain source-scoped, and persistence should not be mistaken for consistent strategy or moral superiority. Episode 704 resolves the immediate Sullan settlement, but the page still does not offer a full post-Sulla path through Pompey's mature career, Caesar's campaigns, or the final imperial transition.
 
 ## What Changed
 
-- Added Sulla's final victory, Samnite massacre, proscriptions, dictatorship, conservative reforms, and abdication.
-- Reframed the republic's Sullan moment as a failed cure: institutional repair attempted through methods that deepen the precedent for commander rule.
-- Added anti-Sullan norm breakdown through Cinna's consecutive consulships and Marius Younger's illegal acceleration.
+- Extended the profile backward to show the mobilization, learning, finance, and refusal to concede behind early Mediterranean expansion.
+- Qualified Roman adaptability with defeat, allied dependence, enslavement, reprisal, and opportunistic territorial seizure.
+- Connected the earlier culture of military status and expansion to, without treating it as a sufficient cause of, the later command crisis.
 
 ## Relationships
 
@@ -82,3 +87,5 @@ The current evidence does not make the Roman Republic a generic template for all
 - [[SullanDictatorship]] - extraordinary office and reform program through which Sulla claims to restore the republic.
 - [[LateRomanRepublicCrisis]] - synthesis concept for the republic's structural breakdown.
 - [[RomanExpansionMoralAnxiety]] - expansion-pressure concept grounded by the Roman Civil War sequence.
+- [[FirstPunicWar]] - early conflict exposing the republic's adaptive and replacement capacity.
+- [[Carthage]] - rival whose defeat and survival shape Rome's western Mediterranean expansion.

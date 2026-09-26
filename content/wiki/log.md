@@ -22994,3 +22994,11 @@ Added source `ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-mor
 ## [2026-09-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-26] ingest | 424. Carthage vs. Rome: Total War (Part 4)
+
+Added source `424-carthage-vs-rome-total-war-part-4-glt9312780357`; created `FirstPunicWar` and `MercenaryWar`; and updated `Carthage`, `HamilcarBarca`, `RomanRepublic`, `HannibalBarca`, the canonical index, and overview from their complete bounded source sets. Core synthesis: Rome's alliance-backed manpower, naval learning, replacement capacity, elite finance, and refusal to negotiate eventually overcome Carthaginian sea power, while Carthage's dependence on access, cash, and paid troops turns defeat into a violent demobilization crisis. The source tension over Hamilcar's role in the peace is resolved by distinguishing authorization from Gisco's personal negotiation; Hannibal's oath remains qualified as later ancient tradition despite this episode's factual presentation. Exact forces, losses, inventions, atrocities, dialogue, motives, and Flaubert-mediated scenes remain source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,8 @@ sources:
   - 570-hannibal-the-invasion-of-italy-part-3-glt2952414067
   - 569-hannibal-elephants-cross-the-alps-part-2-glt8313087633
   - 568-hannibal-romes-greatest-enemy-part-1-glt7606824410
-last_updated: 2026-09-21
+  - 424-carthage-vs-rome-total-war-part-4-glt9312780357
+last_updated: 2026-09-26
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,7 +19,9 @@ Hannibal Barca / 汉尼拔 is the Carthaginian commander who inherits the [[Barc
 
 ## Current Profile
 
-The three episodes present Hannibal less as a commander appearing fully formed than as the inheritor of a family and state rebuilding project. [[HamilcarBarca]] creates the Spanish foundation after Carthage's First Punic War defeat, [[HasdrubalTheHandsome]] consolidates it around [[NewCarthage]], and the army selects Hannibal after Hasdrubal's assassination. Childhood formation, cavalry command, inland campaigns, reward, and army loyalty precede his Mediterranean invasion.
+The four episodes present Hannibal less as a commander appearing fully formed than as the inheritor of a family and state rebuilding project. The new backfill shows the [[FirstPunicWar]], [[MercenaryWar]], Roman seizure of Sardinia, and Hamilcar's turn to Iberia as the sequence behind Hannibal's childhood. [[HamilcarBarca]] creates the Spanish foundation, [[HasdrubalTheHandsome]] consolidates it around [[NewCarthage]], and the army selects Hannibal after Hasdrubal's assassination. Childhood formation, cavalry command, inland campaigns, reward, and army loyalty precede his Mediterranean invasion.
+
+Both relevant episodes repeat the childhood oath against Rome, but they do not warrant treating it as securely contemporary evidence. The later Hannibal episode explicitly calls it a later ancient tradition, so the profile uses it as a memory claim expressing accumulated grievance rather than as a sufficient explanation of Hannibal's choices.
 
 The [[SaguntumWarTrigger|Saguntum crisis]] joins that inherited capacity to Roman-Carthaginian rivalry. Rome warns Hannibal away from a friendly city south of the Ebro; Hannibal invokes the recognized Carthaginian sphere and claims local allies need protection. The siege, sack, Roman delay, and demand for his surrender turn disputed commitments into war without proving that war was inevitable or that either side's legal interpretation was uncontested.
 
@@ -34,14 +37,15 @@ The political result remains incomplete. Gallic support grows, but leniency towa
 
 - Treats initiative and choice of theater as worth very high operational cost.
 - Inherits and commands a Spanish resource, recruitment, and loyalty system built across two predecessors.
+- Is remembered through an oath tradition linking family formation to First Punic War defeat and Roman seizure of Sardinia.
 - Prepares movement through diplomacy, intelligence, local exchange, signaling, scouting, and adaptive march order.
 - Uses opponent psychology and political incentives as inputs to battle design.
 - Combines cavalry, infantry, elephants, concealed troops, and terrain.
-- Converts victory into recruitment, intimidation, propaganda, and alliance opportunity.
 
 ## Evidence
 
 - Formation and succession: [[568-hannibal-romes-greatest-enemy-part-1-glt7606824410]] connects Hannibal's upbringing, cavalry apprenticeship, inland campaigns, army election, and Carthaginian ratification.
+- Prehistory and oath tradition: [[424-carthage-vs-rome-total-war-part-4-glt9312780357]] connects Roman-Carthaginian war, the mercenary revolt, Sardinia, and Hamilcar's departure for Spain to the reported oath; [[568-hannibal-romes-greatest-enemy-part-1-glt7606824410]] explicitly qualifies that oath as later tradition.
 - War threshold: [[568-hannibal-romes-greatest-enemy-part-1-glt7606824410]] traces the Ebro settlement, Roman warning, siege and fall of Saguntum, surrender demand, and declaration scene.
 - Strategic logic: [[569-hannibal-elephants-cross-the-alps-part-2-glt8313087633]] connects Roman sea control, Spain's value, direct invasion of Italy, and attempted allied defection.
 - Movement preparation: [[569-hannibal-elephants-cross-the-alps-part-2-glt8313087633]] describes diplomacy with Gallic communities, spies, local purchases, the Rhone maneuver, scouting, decoy fires, night movement, and adaptive formation.
@@ -54,13 +58,12 @@ The political result remains incomplete. Gallic support grows, but leniency towa
 
 ## Qualifications
 
-The profile is bounded to three consecutive podcast episodes covering Hannibal's formation, the opening of war, the march from Spain, and the campaign through late 217 BC. Roman and later traditions dominate the recoverable portrait, so the childhood oath, cruelty and treachery claims, numbers, speeches, dreams, motives, precise routes, elephant details, and dramatic scenes remain qualified. It does not yet cover Cannae, the long Italian stalemate, or the war's outcome.
+The profile is bounded to four podcast episodes covering the inherited postwar setting, Hannibal's formation, the opening of war, the march from Spain, and the campaign through late 217 BC. Roman and later traditions dominate the recoverable portrait, so the childhood oath, cruelty and treachery claims, numbers, speeches, dreams, motives, precise routes, elephant details, and dramatic scenes remain qualified. It does not yet cover Cannae, the long Italian stalemate, or the war's outcome.
 
 ## What Changed
 
-- Added Hamilcar and Hasdrubal's Spanish state-building as the foundation Hannibal inherits.
-- Added Hannibal's military apprenticeship, army succession, and early consolidation campaigns.
-- Reframed Saguntum as an immediate but legally and politically disputed war trigger.
+- Extended Hannibal's inherited setting through the First Punic War, mercenary revolt, Sardinia, and Hamilcar's Spanish turn.
+- Reclassified the childhood oath as a qualified memory tradition rather than a settled motive.
 
 ## Relationships
 
@@ -72,5 +75,7 @@ The profile is bounded to three consecutive podcast episodes covering Hannibal's
 - [[FabianStrategy]] - Roman endurance response intended to neutralize Hannibal's advantage.
 - [[RomanRepublic]] - opponent whose manpower and alliance system define Hannibal's strategic problem.
 - [[HamilcarBarca]] - father whose Spanish campaigns create Hannibal's resource and command base.
+- [[FirstPunicWar]] - family and state defeat behind the later oath and recovery traditions.
+- [[MercenaryWar]] - crisis that elevates Hamilcar before the move into Iberia.
 - [[HasdrubalTheHandsome]] - predecessor whose consolidation and Ebro agreement shape Hannibal's inheritance.
 - [[SaguntumWarTrigger]] - disputed crisis through which Hannibal's Spanish command enters open war with Rome.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [424. Carthage vs. Rome: Total War (Part 4)](sources/424-carthage-vs-rome-total-war-part-4-glt9312780357.md) — The Rest Is History on the First Punic War, Roman naval adaptation and persistence, Carthaginian fiscal pressure, the Mercenary War, Sardinia, and Hamilcar's turn to Spain.
 - [AMA #16: Sleep, Vertigo, TBI, OCD, Tips for Travelers, Gut-Brain Axis & More](sources/ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965.md) — Huberman Lab subscriber AMA on contextual sleep assessment, travel clock-shifting, vertigo, brain-injury and OCD boundaries, NSDR, biomarkers, gut health, and oral care.
 - [425. The History of Chocolate](sources/425-the-history-of-chocolate-glt9203655246.md) — The Rest Is History on cacao's ritual and beverage past, colonial commodity chains, solid-chocolate technology, Quaker enterprise, Bournville, and mass consumption.
 - [How Placebo Effects Work to Change Our Biology & Psychology](sources/how-placebo-effects-work-to-change-our-biology-psychology-scim2208611274.md) — Huberman Lab solo episode on placebo, nocebo, learned physiological conditioning, treatment framing, symptom-function separation, mindset effects, and clinical limits.
@@ -3370,8 +3371,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tom Segura](entities/TomSegura.md) — Comedian, writer, actor, and director whose stand-up develops through live testing and audience feedback.
 - [Bad Thoughts](entities/BadThoughts.md) — Segura's short-form screen-comedy project and extension of his acting and writing ambitions.
 - [Tsarevich Alexei / 阿列克谢皇太子](entities/TsarevichAlexei.md) — Peter the Great's frightened and politically dangerous heir whose attempted withdrawal ends in forced return, torture, and death.
-- [Carthage / 迦太基](entities/Carthage.md) — North African maritime polity that rebuilds through Iberia after the First Punic War and enters war over Saguntum.
-- [Hamilcar Barca / 哈米尔卡·巴卡](entities/HamilcarBarca.md) — Carthaginian commander who founds the Barcid Spanish power base inherited by Hannibal.
+- [Carthage / 迦太基](entities/Carthage.md) — Maritime-commercial polity that survives First Punic War defeat and the Mercenary War before rebuilding through Iberia.
+- [Hamilcar Barca / 哈米尔卡·巴卡](entities/HamilcarBarca.md) — Carthaginian commander linking the Sicilian holding war, Mercenary War, and Spanish power base inherited by Hannibal.
 - [Hasdrubal the Handsome / 美男子哈斯德鲁巴](entities/HasdrubalTheHandsome.md) — Hamilcar's successor who consolidates Iberia, founds New Carthage, and negotiates the Ebro agreement.
 - [New Carthage / 新迦太基](entities/NewCarthage.md) — Iberian capital and resource-command center of Barcid Spain.
 - [Saguntum / 萨贡托](entities/Saguntum.md) — Iberian city whose disputed alignment and siege trigger the Second Punic War.
@@ -3379,7 +3380,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [黎医生 / Li Doctor (respiratory and smoking cessation)](entities/LiDoctorSmokingCessation.md) — Source-scoped respiratory guest explaining vaping harms, environmental smoke exposure, and supported smoking cessation.
 - [Costello (Andrew Huberman's dog)](entities/CostelloDog.md) — Huberman's companion dog whose decline, remembered character, and public bond ground the episode's account of care and grief.
 - [Homer (Lex Fridman's dog)](entities/HomerLexFridmanDog.md) — Fridman's Newfoundland companion whose shared life, cancer, euthanasia, and death ground the episode's attachment framework.
-- [Hannibal Barca / 汉尼拔](entities/HannibalBarca.md) — Carthaginian commander whose Italian campaign joins initiative, alliance politics, deception, and encirclement against Rome's deeper manpower.
+- [Hannibal Barca / 汉尼拔](entities/HannibalBarca.md) — Carthaginian commander whose inherited postwar base and Italian campaign join initiative, alliance politics, deception, and encirclement.
 - [Quintus Fabius Maximus / 昆图斯·费边·马克西姆斯](entities/QuintusFabiusMaximus.md) — Roman dictator who shadows Hannibal, avoids pitched battle, and buys time for recruitment and training.
 - [Battle of Trebia / 特雷比亚河战役](entities/BattleOfTrebia.md) — Late-218 BC battle where provocation, cold, a river crossing, wing pressure, and a hidden rear force defeat Rome.
 - [Battle of Lake Trasimene / 特拉西梅诺湖战役](entities/BattleOfLakeTrasimene.md) — 217 BC lakeside ambush using pursuit, fog, constrained terrain, and concealed forces to destroy Flaminius's army.
@@ -10400,7 +10401,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Stanislas Maillard](entities/StanislasMaillard.md) — Identifiable local organizer associated with September Massacres killing teams and improvised tribunals.
 - [Thomas Paine / 托马斯·潘恩](entities/ThomasPaine.md) — Republican anti-death-penalty counterpoint in episode 125's discussion of revolution, punishment, and killing.
 - [Julius Caesar / 尤利乌斯·恺撒](entities/JuliusCaesar.md) — Roman commander who turned frontier reach into prestige before civil war and personal rule produced an unresolved legitimacy crisis.
-- [Roman Republic / 罗马共和国](entities/RomanRepublic.md) — Republican polity whose late crisis now runs through expansion, Gracchan violence, Marius, Italian citizenship exclusion, Sulla's march, proscriptions, dictatorship, reform attempt, Caesar, and imperial aftermath.
+- [Roman Republic / 罗马共和国](entities/RomanRepublic.md) — Expansionary polity whose early adaptive endurance and later command crisis expose both the capacity and pressures of republican mobilization.
 - [Roman Empire / 罗马帝国](entities/RomanEmpire.md) — Imperial order emerging after Caesar's assassination, appearing as Da Qin in Gan Ying's Eastern Han mission, and serving as the western endpoint of a qualified Hunnic/Gothic pressure sequence.
 - [阿提拉 / Attila the Hun](entities/AttilaTheHun.md) — Hunnic leader used in Hanji 764 as the remembered late figure in the qualified migration-pressure chain from steppe displacement to Roman crisis.
 - [Assassination of Julius Caesar / 恺撒遇刺](entities/CaesarAssassination.md) — Ides of March event treated by episode 124 as both republican tyrannicide and failed political repair.
@@ -13784,6 +13785,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lord Elgin](entities/LordElgin.md) — British diplomat at the center of Byron's cultural-plunder attack and Hobhouse's preservation counterargument.
 
 ## Concepts
+- [First Punic War / 第一次布匿战争](concepts/FirstPunicWar.md) — Roman-Carthaginian war synthesized through Sicilian escalation, naval learning, attrition, finance, manpower, and political endurance.
+- [Mercenary War / 雇佣兵战争](concepts/MercenaryWar.md) — Carthaginian postwar fiscal and demobilization crisis that becomes organized rebellion and reciprocal atrocity.
 - [Circadian Travel Adaptation](concepts/CircadianTravelAdaptation.md) — Flexible travel clock-shifting through coordinated light, wake time, activity, meals, caffeine, social cues, and evening darkness.
 - [Non-Sleep Deep Rest Recovery](concepts/NonSleepDeepRestRecovery.md) — Guided-rest recovery frame separating optional stress regulation from sleep replacement or compensation for chronic overload.
 - [Vertigo Visual Anchoring](concepts/VertigoVisualAnchoring.md) — Visual-vestibular symptom tool with explicit diagnostic and urgent-escalation boundaries.
