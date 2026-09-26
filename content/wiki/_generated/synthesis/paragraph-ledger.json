@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "caa500d3b49a06620daf7b604591dfb45482cc2db11d0df8640db4696ddeab6b",
       "4b2405414d02c41126368f3ebb97baf73835c2d95957adf63420261474ca1016",
       "c08eabc3cd1e0688edcae00268e9415ac6aa247d282687aba9ac3177bc9aac49",
       "7f10a2b8b99c384dc46b7c64c1182b70e9b4db3e0f32e8ff64d2a8ff07aa7b44",
@@ -755,11 +756,36 @@
       "1f02005c80ec3e7ac3f24acac820a9118d51d7e2de5614db5e13752add4f80b9",
       "60d22980877c9a07564718a1614f1e06e5947001e678ff946ba7dbbc77be1f31"
     ],
-    "paragraph_count": 753
+    "paragraph_count": 754
   },
-  "overview_commit": "08e9e78f9421ba09343aaff397e9797e6b3845e7",
-  "overview_digest": "087a248cf009cb571459f27d03367da5f97e1f003c0958fd57f34215cc284037",
+  "overview_commit": "dc5153b7c396cd11491967cdaf24d3a7d46d8fa0",
+  "overview_digest": "f3a7c31a03b94da1c8895b7508e795597414cffbead575671736179ddc263548",
   "paragraphs": [
+    {
+      "id": "caa500d3b49a06620daf7b604591dfb45482cc2db11d0df8640db4696ddeab6b",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "science-health-and-climate",
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[protocols-to-access-creative-energy-and-process-rick-rubin-scim5595688842|Protocols to Access Creative Energy and Process | Rick Rubin]], a [[HubermanLab]] listener-Q&A conversation with [[AndrewHuberman]] and [[RickRubin]] on creative blocks, routines, deadlines, uncertainty, feedback, dreams, idea capture, and attention. It adds [[OutcomeIndependentCreativePractice]] and [[CreativeReceptivityAndIdeaCapture]], while extending [[RickRubin]], [[CreativityAsFeltProcess]], [[CreativePhaseSeparation]], and [[ArtisticFeedbackBoundary]]. Its core synthesis is that honest creative work can be rigorous without being governed by approval or predicted outcome: early openness, revisable beliefs, captured fragments, and diary-like truth supply material, while testing, later constraints, and completion shape it. No settled contradiction is recorded; Rubin's breathing, HRV, light, diet, technology, dream, and unconscious-processing remarks remain personal or source-scoped, and live performance qualifies any simple rejection of audience evidence.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "science-health-and-climate": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AndrewHuberman",
+        "ArtisticFeedbackBoundary",
+        "CreativePhaseSeparation",
+        "CreativeReceptivityAndIdeaCapture",
+        "CreativityAsFeltProcess",
+        "HubermanLab",
+        "OutcomeIndependentCreativePractice",
+        "RickRubin",
+        "protocols-to-access-creative-energy-and-process-rick-rubin-scim5595688842"
+      ]
+    },
     {
       "id": "4b2405414d02c41126368f3ebb97baf73835c2d95957adf63420261474ca1016",
       "primary_topic": "governance-and-institutions",

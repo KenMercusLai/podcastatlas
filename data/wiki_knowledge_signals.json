@@ -11029,9 +11029,9 @@
       "url": "/wiki/concepts/artisticcreationbeyondbiography/"
     },
     "ArtisticFeedbackBoundary": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7816635332 [SCIM7816635332].md",
@@ -11039,9 +11039,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Access Your Creativity | Rick Rubin",
           "url": "/wiki/sources/essentials-how-to-access-your-creativity-rick-rubin-scim7816635332/"
+        },
+        {
+          "episode_file": "SCIM5595688842 [SCIM5595688842].md",
+          "key": "protocols-to-access-creative-energy-and-process-rick-rubin-scim5595688842",
+          "show": "Huberman Lab",
+          "title": "Protocols to Access Creative Energy and Process | Rick Rubin",
+          "url": "/wiki/sources/protocols-to-access-creative-energy-and-process-rick-rubin-scim5595688842/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/artisticfeedbackboundary/"
     },
     "Asante": {
@@ -31398,9 +31405,9 @@
       "url": "/wiki/concepts/creativehobbycommercializationboundary/"
     },
     "CreativePhaseSeparation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7816635332 [SCIM7816635332].md",
@@ -31408,15 +31415,38 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Access Your Creativity | Rick Rubin",
           "url": "/wiki/sources/essentials-how-to-access-your-creativity-rick-rubin-scim7816635332/"
+        },
+        {
+          "episode_file": "SCIM5595688842 [SCIM5595688842].md",
+          "key": "protocols-to-access-creative-energy-and-process-rick-rubin-scim5595688842",
+          "show": "Huberman Lab",
+          "title": "Protocols to Access Creative Energy and Process | Rick Rubin",
+          "url": "/wiki/sources/protocols-to-access-creative-energy-and-process-rick-rubin-scim5595688842/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/creativephaseseparation/"
     },
+    "CreativeReceptivityAndIdeaCapture": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5595688842 [SCIM5595688842].md",
+          "key": "protocols-to-access-creative-energy-and-process-rick-rubin-scim5595688842",
+          "show": "Huberman Lab",
+          "title": "Protocols to Access Creative Energy and Process | Rick Rubin",
+          "url": "/wiki/sources/protocols-to-access-creative-energy-and-process-rick-rubin-scim5595688842/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/creativereceptivityandideacapture/"
+    },
     "CreativityAsFeltProcess": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM7816635332 [SCIM7816635332].md",
@@ -31438,9 +31468,16 @@
           "show": "Huberman Lab",
           "title": "The Science & Art of Comedy & Creativity | Tom Segura",
           "url": "/wiki/sources/the-science-art-of-comedy-creativity-tom-segura-scim7538555033/"
+        },
+        {
+          "episode_file": "SCIM5595688842 [SCIM5595688842].md",
+          "key": "protocols-to-access-creative-energy-and-process-rick-rubin-scim5595688842",
+          "show": "Huberman Lab",
+          "title": "Protocols to Access Creative Energy and Process | Rick Rubin",
+          "url": "/wiki/sources/protocols-to-access-creative-energy-and-process-rick-rubin-scim5595688842/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/creativityasfeltprocess/"
     },
     "CreatorGiftingDemandManufacture": {
@@ -107940,6 +107977,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/outcomedrivenaiworkflow/"
     },
+    "OutcomeIndependentCreativePractice": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5595688842 [SCIM5595688842].md",
+          "key": "protocols-to-access-creative-energy-and-process-rick-rubin-scim5595688842",
+          "show": "Huberman Lab",
+          "title": "Protocols to Access Creative Energy and Process | Rick Rubin",
+          "url": "/wiki/sources/protocols-to-access-creative-energy-and-process-rick-rubin-scim5595688842/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/outcomeindependentcreativepractice/"
+    },
     "OutdoorFlowState": {
       "episode_count": 2,
       "show_count": 2,
@@ -123266,9 +123319,9 @@
       "url": "/wiki/entities/rickknudtson/"
     },
     "RickRubin": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "汉洋：挖坑、媒介枷锁、好内容、对谈、为什么做蜉蝣天地 [59b766f5-ee1d-4040-a650-a96b7b4b70d5].md",
@@ -123283,9 +123336,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Access Your Creativity | Rick Rubin",
           "url": "/wiki/sources/essentials-how-to-access-your-creativity-rick-rubin-scim7816635332/"
+        },
+        {
+          "episode_file": "SCIM5595688842 [SCIM5595688842].md",
+          "key": "protocols-to-access-creative-energy-and-process-rick-rubin-scim5595688842",
+          "show": "Huberman Lab",
+          "title": "Protocols to Access Creative Energy and Process | Rick Rubin",
+          "url": "/wiki/sources/protocols-to-access-creative-energy-and-process-rick-rubin-scim5595688842/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-27",
       "url": "/wiki/entities/rickrubin/"
     },
     "RickSchultz": {

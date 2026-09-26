@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8333
+wiki_total_pages: 8335
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -2069,6 +2069,9 @@ wiki_pages:
   - key: "CreativeProducerMediation"
     title: "Creative Producer Mediation"
     url: "/wiki/concepts/creativeproducermediation/"
+  - key: "CreativeReceptivityAndIdeaCapture"
+    title: "Creative Receptivity and Idea Capture"
+    url: "/wiki/concepts/creativereceptivityandideacapture/"
   - key: "CreativeRiskAvoidanceCulture"
     title: "Creative Risk-Avoidance Culture"
     url: "/wiki/concepts/creativeriskavoidanceculture/"

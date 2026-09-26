@@ -1698,9 +1698,28 @@
         "WearableHealthDataAnxiety",
         "StrengthHypertrophyProgramming"
       ]
+    },
+    {
+      "global_candidate": false,
+      "id": "rubin-routines-remain-nonclinical-creative-supports",
+      "qualifications": [
+        "The overview paragraph does not provide systematic evidence for breathing, HRV, light, diet, dream, or unconscious-processing effects.",
+        "Personal routines can support one practitioner without generalizing as medical, sleep, or creativity prescriptions."
+      ],
+      "statement": "[[protocols-to-access-creative-energy-and-process-rick-rubin-scim5595688842|The Rick Rubin Q&A]] adds a nonclinical creativity-and-routine boundary: [[CreativeReceptivityAndIdeaCapture]], [[OutcomeIndependentCreativePractice]], and [[CreativityAsFeltProcess]] describe practitioner methods, while breathing, HRV, light, diet, dreams, and unconscious-processing remarks remain personal or source-scoped rather than validated health or causal protocols.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "protocols-to-access-creative-energy-and-process-rick-rubin-scim5595688842",
+        "RickRubin",
+        "HubermanLab",
+        "AndrewHuberman",
+        "CreativeReceptivityAndIdeaCapture",
+        "OutcomeIndependentCreativePractice",
+        "CreativityAsFeltProcess"
+      ]
     }
   ],
   "input_digest": "37a479d9ae4ba0fdedd9c3e99f13dcb145fe2a70ba484b7ecac84afa6d71ac15",
-  "summary": "Science, health, and climate sources consistently separate public literacy from individualized care: mechanisms, measurements, urgent escalation, qualified treatment, environmental context, and uncertainty matter more than labels or cure claims. The topic spans social neuroscience, sleep and mental health, chronic and acute care, metabolism and nutrition, exercise and sensory health, disability and animal welfare, climate adaptation, and science governance; interventions remain population-, comparator-, dose-, timing-, endpoint-, goal-, and supervision-dependent. Digestive comfort and food familiarity do not establish disease treatment, just as expectation effects can change symptoms without proving restored function; end-of-life and intensive-care decisions depend on reversibility and stated wishes, elite performance does not establish psychological safety, and social need depends on state, history, contact quality, and translation boundaries. The newest fitness-and-self-regulation branch adds that health tools should support adaptable function through safe effort, day-night light contrast, mixed physical capacity, trend-based tracking, and proportionate follow-up rather than one score, scan, or protocol; exact neuroscience, light, sleep-score, training, and screening claims remain source-scoped. Respiratory illness likewise reflects exposure, entry routes, physical barriers, innate response, adaptive memory, and recovery state, so layered prevention, sleep, manageable exercise, and rest during systemic malaise remain more foundational than supplements, deliberate heat, or microbiome hypotheses.",
+  "summary": "Science, health, and climate sources consistently separate public literacy from individualized care: mechanisms, measurements, urgent escalation, qualified treatment, environmental context, and uncertainty matter more than labels or cure claims. The topic spans social neuroscience, sleep and mental health, chronic and acute care, metabolism and nutrition, exercise and sensory health, disability and animal welfare, climate adaptation, and science governance; interventions remain population-, comparator-, dose-, timing-, endpoint-, goal-, and supervision-dependent. Digestive comfort and food familiarity do not establish disease treatment, just as expectation effects can change symptoms without proving restored function; end-of-life and intensive-care decisions depend on reversibility and stated wishes, elite performance does not establish psychological safety, and social need depends on state, history, contact quality, and translation boundaries. The newest fitness-and-self-regulation branch adds that health tools should support adaptable function through safe effort, day-night light contrast, mixed physical capacity, trend-based tracking, and proportionate follow-up rather than one score, scan, or protocol; exact neuroscience, light, sleep-score, training, and screening claims remain source-scoped. Respiratory illness likewise reflects exposure, entry routes, physical barriers, innate response, adaptive memory, and recovery state, so layered prevention, sleep, manageable exercise, and rest during systemic malaise remain more foundational than supplements, deliberate heat, or microbiome hypotheses. The Rick Rubin Q&A adds a nonclinical boundary: its creative methods are practitioner guidance, and its breathing, HRV, light, diet, dream, and unconscious-processing remarks do not become universal health protocols.",
   "topic_id": "science-health-and-climate"
 }

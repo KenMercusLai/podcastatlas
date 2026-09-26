@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 8333
+wiki_total_pages: 8335
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -560,6 +560,9 @@ wiki_pages:
   - key: "OutcomeDrivenAIWorkflow"
     title: "Outcome-Driven AI Workflow"
     url: "/wiki/concepts/outcomedrivenaiworkflow/"
+  - key: "OutcomeIndependentCreativePractice"
+    title: "Outcome-Independent Creative Practice"
+    url: "/wiki/concepts/outcomeindependentcreativepractice/"
   - key: "OutdoorBodyMindReintegration"
     title: "Outdoor Body-Mind Reintegration / 户外身心重新合场"
     url: "/wiki/concepts/outdoorbodymindreintegration/"

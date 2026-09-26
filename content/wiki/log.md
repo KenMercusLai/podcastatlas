@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-27] ingest | Protocols to Access Creative Energy and Process | Rick Rubin
+
+Added source `protocols-to-access-creative-energy-and-process-rick-rubin-scim5595688842`; created `OutcomeIndependentCreativePractice` and `CreativeReceptivityAndIdeaCapture`; and updated `RickRubin`, `CreativityAsFeltProcess`, `CreativePhaseSeparation`, `ArtisticFeedbackBoundary`, the canonical index, and overview from their complete bounded source sets. Core synthesis: rigorous creative work need not be governed by approval or predicted outcome; diary-like honesty, revisable beliefs, captured fragments, phase-specific constraints, and medium-sensitive feedback boundaries protect and shape the work. No settled contradiction found. Rubin's breathing, HRV, light, diet, technology, dream, and unconscious-processing remarks remain personal or source-scoped, while live performance qualifies any simple rejection of audience evidence. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
 ## [2026-09-27] ingest | VOL.92中医科｜今冬勿扰 来年身体好｜流感家庭用药、心脑血管防护、饮食｜冬季养生宝典
 
 Added source `vol-92-zhongyike-jindong-wurao-lainian-shenti-hao-liugan-jiating-yongyao-xinnaoxueguan-fanghu-yinshi-dongji-yangsheng-baodian-ljvut60fr8kvkmkczra9p7-w7yde`; created `TCMWinterSelfCareBoundary`; and updated `MaoZheTCMDoctor`, the canonical index, and overview from the complete bounded source set. Core synthesis: adaptable warmth, moderate activity, tolerable food, and reduced temperature extremes are distinct from unvalidated “winter storage,” yang, qi, blood-stasis, food-therapy, foot-soak, influenza-classification, and treatment claims. No settled contradiction found. Respiratory, cardiovascular, metabolic, circulatory, pregnancy, and persistent symptoms remain qualified-care contexts rather than targets for podcast-guided self-treatment. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
@@ -23325,6 +23329,10 @@ Added source `404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861
 
 Ran lint. See lint-report.md for details.
 ## [2026-09-27] ingest | AMA #14: 2023 Philanthropy, Evening Routine, Light Therapy, Health Metrics & More
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-27] lint | Wiki health check
 

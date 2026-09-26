@@ -1,33 +1,33 @@
 {
   "content_date": "2026-09-27",
   "corpus": {
-    "episode_count": 2916,
-    "source_count": 2916
+    "episode_count": 2917,
+    "source_count": 2917
   },
   "generated": true,
   "global": {
-    "candidate_digest": "d1474fd6332b3055c3334cfa00eeebd3896cb43b25f91b734ba21404e5725317",
-    "compacted_at": "2026-09-26T23:07:15.624896Z",
+    "candidate_digest": "aabca03e7aa136c772bd9086dad23a4faf371d3ae404edb9bfd3f98ae7a33977",
+    "compacted_at": "2026-09-26T23:40:00.694991Z",
     "content_date": "2026-09-27",
     "corpus": {
-      "episode_count": 2914,
-      "source_count": 2914
+      "episode_count": 2917,
+      "source_count": 2917
     },
-    "output_digest": "73394977473549a6fddb27c46c23366ce6e14ed1299fcf3041174c6ff4e64fd7",
-    "overview_commit": "7325c9e8adaa4a01c01904834ff6faf4f26b87d8",
-    "overview_digest": "98f07f49748a0bd7c82e05a082ff046b39cfe1a2b8db89e4b8eed41b527dd120",
-    "pending_ingests": 2,
+    "output_digest": "c6ec370991364a1801774061dbd35cb233e991909456d5330bcf987801e7ce69",
+    "overview_commit": "dc5153b7c396cd11491967cdaf24d3a7d46d8fa0",
+    "overview_digest": "f3a7c31a03b94da1c8895b7508e795597414cffbead575671736179ddc263548",
+    "pending_ingests": 0,
     "pending_topics": []
   },
-  "overview_commit": "08e9e78f9421ba09343aaff397e9797e6b3845e7",
-  "overview_digest": "087a248cf009cb571459f27d03367da5f97e1f003c0958fd57f34215cc284037",
-  "paragraph_count": 753,
+  "overview_commit": "dc5153b7c396cd11491967cdaf24d3a7d46d8fa0",
+  "overview_digest": "f3a7c31a03b94da1c8895b7508e795597414cffbead575671736179ddc263548",
+  "paragraph_count": 754,
   "schema_version": 1,
   "topics": {
     "ai-and-technology": {
-      "claim_digest": "4d3de1d3cd1c0944a967a066404d2567cbc462e220ea1c2cf68d1560713dd852",
-      "input_digest": "336693e52fe6219200b0d358fc9295cc1a6715876a4fb20d85fa6d8e915e7d03",
-      "output_digest": "ad35006608aa2b0fe15b069fddcd096d7e3c53d81a519ced76a3a9dc0dc3d6c4",
+      "claim_digest": "14aed0cc478406ffef6adc7c2a39f0322c28389ad1218f81d80c182a8bce02df",
+      "input_digest": "8e3a3964e971644c57bca3458a310c02ff4d74b4a84b9a48d177339de5dc58c8",
+      "output_digest": "04f40c569689ad5b56dbb68b452a43328d4b2f62365121d16a8a12300ffd6676",
       "title": "AI and Technology"
     },
     "business-and-markets": {
@@ -67,15 +67,15 @@
       "title": "Psychology and Personal Development"
     },
     "science-health-and-climate": {
-      "claim_digest": "d835dc5b8249693f1246a90567f0193c1b08a970457b3cd2a868779a3be68c32",
-      "input_digest": "37a479d9ae4ba0fdedd9c3e99f13dcb145fe2a70ba484b7ecac84afa6d71ac15",
-      "output_digest": "3a2a17497a6323e6a0d400a00e4ed625354a98c670d4ed5f756b231d8b44d7f2",
+      "claim_digest": "5be941623251d3064f5118005a8c425603b20cf952f35508136eac7dcc09e48b",
+      "input_digest": "8abdf34014ba0eab7b2ffc6696961ce799ff877c72f18108bae7c0ac5b73da4b",
+      "output_digest": "a1b0e5ffef4835e11958115b845dd2fdfb10491b7a729ee83ed14d094920d11e",
       "title": "Science, Health, and Climate"
     },
     "work-education-and-society": {
-      "claim_digest": "89e84e87e5d112367b73c9b9b61afdf73e5761011c95adab58719ea55140fe71",
-      "input_digest": "fcbf25d594f8c93a61d0f62f2a07d64a3f76776f3fc787a1ac11c88f596f0017",
-      "output_digest": "416bb0586e9800e4b23861718512e1a9d8612dca17d7900002538bd518d8cb5a",
+      "claim_digest": "67f996dd73e90187a4b56312475aa196a76b78d855de0b259cb99e69b65fe2d8",
+      "input_digest": "7308d4eb35071f47ff9caa6b72e7dfa8371b74ab9a866b1e4178ecf81e53b362",
+      "output_digest": "7500394540ab40ad9b766f24e8d4d2201022111f7994e1bc57628dd99260abbc",
       "title": "Work, Education, and Society"
     }
   }

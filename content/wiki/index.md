@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Protocols to Access Creative Energy and Process | Rick Rubin](sources/protocols-to-access-creative-energy-and-process-rick-rubin-scim5595688842.md) — Huberman Lab Q&A on diary-like honesty, outcome-independent creative work, receptivity, idea capture, phase-specific deadlines, feedback boundaries, and personal routines.
 - [VOL.92中医科｜今冬勿扰 来年身体好｜流感家庭用药、心脑血管防护、饮食｜冬季养生宝典](sources/vol-92-zhongyike-jindong-wurao-lainian-shenti-hao-liugan-jiating-yongyao-xinnaoxueguan-fanghu-yinshi-dongji-yangsheng-baodian-ljvut60fr8kvkmkczra9p7-w7yde.md) — 这病说来话长 episode with 毛哲 on winter routines, temperature changes, food, influenza claims, cardiovascular risk, foot soaking, and constitution-sensitive self-care boundaries.
 - [403. The Mystery of the Pregnant Pope](sources/403-the-mystery-of-the-pregnant-pope-glt1981561492.md) — The Rest Is History episode debunking Pope Joan while tracing the legend through Gregorian reform, papal ritual, gendered clerical authority, and the Guglielma-Maifreda movement.
 - [AMA #14: 2023 Philanthropy, Evening Routine, Light Therapy, Health Metrics & More](sources/ama-14-2023-philanthropy-evening-routine-light-therapy-health-metrics-more-scim2172700344.md) — Huberman Lab premium Q&A on research funding, safe difficulty, circadian light, function-first fitness, sleep-score interpretation, strength goals, MRI tradeoffs, and limb asymmetry.
@@ -12729,7 +12730,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lex Fridman](entities/LexFridman.md) — Long-form interviewer and AI/robotics researcher connecting learning systems, human-machine relationships, shared time, and grief.
 - [Joe Rogan](entities/JoeRogan.md) — Long-form podcast reference used by Han Yang to show how private interests can develop public meaning.
 - [John Carmack](entities/JohnCarmack.md) — Engineering interview example showing how side topics can reveal values better than narrow technology-media framing.
-- [Rick Rubin](entities/RickRubin.md) — Music and creativity-process figure linking long-form interview detail to felt creative judgment, attention shifts, feedback boundaries, finishing, and meditation.
+- [Rick Rubin](entities/RickRubin.md) — Music producer and creativity-process figure linking felt judgment, open attention, phase-specific constraints, outcome independence, idea capture, and protected daily routines.
 - [魏小康 / Wei Xiaokang](entities/WeiXiaokang.md) — AI recruiting founder and former ByteDance/Meituan organization participant explaining business-model-shaped organization design, recruiting supply, reference checks, and AI-era small-team structure.
 - [王兴 / Wang Xing](entities/WangXing.md) — Meituan founder reference used in the Wei Xiaokang episode to frame company success as riding a larger industry wave rather than pure founder genius.
 - [Li Xiaobo / 李晓波](entities/LiXiaobo.md) — E44 conversation partner pressing Meng Yan on user interest, product friction, 本分, and investment as a life-practice question.
@@ -13896,6 +13897,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kay Tye](entities/KayTye.md) — Neuroscientist connecting emotional-valence circuits to loneliness, social homeostasis, hierarchy, and sustainable scientific leadership.
 
 ## Concepts
+- [Outcome-Independent Creative Practice](concepts/OutcomeIndependentCreativePractice.md) — Creative discipline separating honest present effort from approval, revenue, prestige, and other results outside the maker's control.
+- [Creative Receptivity and Idea Capture](concepts/CreativeReceptivityAndIdeaCapture.md) — Practice joining revisable beliefs, surprise, intuition, off-task emergence, fragment capture, and later selection.
 - [TCM Winter Self-Care Boundary / 中医冬季养生边界](concepts/TCMWinterSelfCareBoundary.md) — Separates adaptable winter routines from unvalidated seasonal, diagnostic, food-therapy, medicine, and treatment claims.
 - [Gregorian Reform](concepts/GregorianReform.md) — Medieval program joining clerical discipline, papal independence, cardinal election, and intensified legitimacy concerns.
 - [Legend as Institutional Anxiety](concepts/LegendAsInstitutionalAnxiety.md) — Framework for reading false stories as evidence of real institutional fears, boundaries, and polemical reuse.
