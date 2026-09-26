@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [434. Luther: The Revolution Begins (Part 2)](sources/434-luther-the-revolution-begins-part-2-glt4080973410.md) — The Rest Is History on Luther's monastic crisis, Wittenberg formation, indulgence finance, the Ninety-five Theses, and print-driven revolt.
 - [435. Luther: The Battle Against Satan (Part 3)](sources/435-luther-the-battle-against-satan-part-3-glt9360370091.md) — The Rest Is History on faith and grace, scriptural authority, political protection, Augsburg and Leipzig, and print-driven escalation before Worms.
 - [Benefits & Risks of Peptide Therapeutics for Physical & Mental Health](sources/benefits-risks-of-peptide-therapeutics-for-physical-mental-health-scim1922606198.md) — Huberman Lab solo episode organizing repair, growth-hormone, longevity, and vitality peptides through evidence, sourcing, pleiotropy, and clinical-risk boundaries.
 - [436. Luther: Showdown with the Emperor (Part 4)](sources/436-luther-showdown-with-the-emperor-part-4-glt5159022101.md) — The Rest Is History on Luther at Worms, Charles V, Frederick's protection, Wartburg translation, print propaganda, and Wittenberg radicalization.
@@ -2875,6 +2876,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Protocols to Strengthen & Pain Proof Your Back](sources/protocols-to-strengthen-pain-proof-your-back-scim8264963647.md) — Huberman Lab solo episode on mechanism-sensitive back care, the McGill Big Three, whole-body support, movement awareness, and clinical escalation boundaries.
 
 ## Entities
+- [Johann von Staupitz](entities/JohannVonStaupitz.md) — Augustinian confessor who redirected Luther's spiritual crisis toward doctoral study and public theology.
+- [Johann Tetzel](entities/JohannTetzel.md) — Dominican indulgence preacher whose 1517 campaign became Luther's immediate public target.
 - [Cardinal Cajetan](entities/CardinalCajetan.md) — Dominican cardinal whose Augsburg meetings with Luther exposed the conflict between papal judgment and scriptural authority.
 - [Johann Eck](entities/JohannEck.md) — Catholic debater who forced Luther toward explicit Hussite implications at Leipzig but lost the public aftermath to reform print culture.
 - [Philip Melanchthon](entities/PhilipMelanchthon.md) — Humanist scholar and early Wittenberg faculty ally of Luther.
@@ -13724,6 +13727,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lord Elgin](entities/LordElgin.md) — British diplomat at the center of Byron's cultural-plunder attack and Hobhouse's preservation counterargument.
 
 ## Concepts
+- [Indulgence Economy](concepts/IndulgenceEconomy.md) — System linking purgatorial relief and transferable merit to relics, preaching, payment, church finance, banking, and political office.
 - [Sola Fide and Grace](concepts/SolaFideGrace.md) — Salvation through divine grace received by personal faith rather than earned merit or exclusive institutional mediation.
 - [Thymosin Beta-4 Tissue Repair](concepts/ThymosinBeta4TissueRepair.md) — Thymosin beta-4 and TB-500 repair frame separating animal plausibility and combination use from controlled human evidence.
 - [Melanocortin Peptide Vitality](concepts/MelanocortinPeptideVitality.md) — Melanocortin analogue framework separating pigmentation, appetite, mood, libido, regulated PT-141 use, and adverse-effect boundaries.

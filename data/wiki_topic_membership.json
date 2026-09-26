@@ -1684,6 +1684,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "434-luther-the-revolution-begins-part-2-glt4080973410": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "435-luther-the-battle-against-satan-part-3-glt9360370091": [
     {
       "key": "history",
@@ -37975,6 +37982,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "IndulgenceEconomy": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "Industrial5GDeploymentConstraint": [

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 8202
+wiki_total_pages: 8203
 wiki_pages:
   - key: "IBDPatientEducationAndPeerSupport"
     title: "IBD Patient Education and Peer Support / IBD患者教育与同伴支持"
@@ -314,6 +314,9 @@ wiki_pages:
   - key: "IndividualizedRiskResponsibility"
     title: "Individualized Risk Responsibility / 风险责任个体化"
     url: "/wiki/concepts/individualizedriskresponsibility/"
+  - key: "IndulgenceEconomy"
+    title: "Indulgence Economy"
+    url: "/wiki/concepts/indulgenceeconomy/"
   - key: "Industrial5GDeploymentConstraint"
     title: "Industrial 5G Deployment Constraint"
     url: "/wiki/concepts/industrial5gdeploymentconstraint/"

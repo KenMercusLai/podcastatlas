@@ -22814,3 +22814,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-26] ingest | 434. Luther: The Revolution Begins (Part 2)
+
+Added source `434-luther-the-revolution-begins-part-2-glt4080973410`; created `JohannVonStaupitz`, `JohannTetzel`, and `IndulgenceEconomy`; and updated `MartinLuther`, `FrederickTheWise`, `Wittenberg`, `SolaFideGrace`, `SolaScripturaInterpretivePluralism`, `ReformationPrintCulture`, the canonical index, and overview from their complete bounded source sets. Core synthesis: Luther's failed pursuit of assurance through monastic works became a scriptural and grace-centered challenge whose public force depended on Wittenberg, princely patronage, indulgence finance, and print; the door-nailing story is treated as probably legendary. No settled contradiction found. Retrospective psychology, reported dialogue, relic and remission totals, Tetzel's precise language, financial details, motives, and media analogies remain episode-attributed or source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

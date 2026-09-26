@@ -5,6 +5,7 @@ tags: [reformation, print, propaganda, visual-culture]
 sources:
   - 436-luther-showdown-with-the-emperor-part-4-glt5159022101
   - 435-luther-the-battle-against-satan-part-3-glt9360370091
+  - 434-luther-the-revolution-begins-part-2-glt4080973410
 last_updated: 2026-09-26
 knowledge_schema: synthesis-v1
 ---
@@ -17,7 +18,9 @@ Reformation print culture is the system through which accessible prose, pamphlet
 
 ## Current Synthesis
 
-Before Worms, print had already changed the contest's scale and incentives. German and Latin versions of the Ninety-five Theses carried a university dispute across the empire; student burnings, parodies, polemics, cartoons, and the public destruction of *Exsurge Domine* made participation theatrical as well as textual. A formal loss at Leipzig or papal condemnation could therefore produce fresh material and attention for Luther's side.
+The first circulation of the Ninety-five Theses shows print changing both scale and historical memory. The episode treats their posting on the church door as probably legendary and instead emphasizes printing and correspondence to Augustinian superiors, German elites, and Archbishop Albrecht. Reproduction, rather than one dramatic local gesture, made the challenge portable.
+
+Before Worms, print had already changed the contest's incentives. German and Latin versions of the theses carried a university dispute across the empire; student burnings, parodies, polemics, cartoons, and the public destruction of *Exsurge Domine* made participation theatrical as well as textual. A formal loss at Leipzig or papal condemnation could therefore produce fresh material and attention for Luther's side.
 
 The episode shows communication doing more than carrying Luther's ideas. [[MartinLuther|Luther's]] concise German, [[LucasCranachTheElder|Lucas Cranach's]] portraits and layouts, heroic reports from the [[DietOfWorms]], and satirical contrasts between Christ and the pope made reform easy to recognize and retell.
 
@@ -35,6 +38,7 @@ Reach also weakened control. Writers and image-makers continued while Luther was
 
 ## Evidence
 
+- Initial thesis circulation: [[434-luther-the-revolution-begins-part-2-glt4080973410]] replaces the doubtful door-nailing scene with printers and directed correspondence as the mechanism of spread.
 - Early pamphlet network: [[435-luther-the-battle-against-satan-part-3-glt9360370091]] follows the theses across German and Latin presses and links Wittenberg allies to public participation.
 - Defeat-to-publicity conversion: [[435-luther-the-battle-against-satan-part-3-glt9360370091]] contrasts Eck's Leipzig performance with the satirical campaign against him and the later contempt shown toward the papal bull.
 - Open defiance: [[435-luther-the-battle-against-satan-part-3-glt9360370091]] treats the December 1520 burning as theology, theater, and strategic communication.
@@ -45,15 +49,16 @@ Reach also weakened control. Writers and image-makers continued while Luther was
 
 ## Counterevidence & Qualifications
 
-Print did not cause the Reformation by itself. Patronage, imperial fragmentation, urban institutions, theology, literacy, oral transmission, and local conflict determined what could circulate and matter. Pamphlet-share figures remain episode-attributed. Modern “branding,” “pile-on,” and “social media” comparisons clarify functions without establishing institutional equivalence.
+Print did not cause the Reformation by itself. Patronage, imperial fragmentation, urban institutions, theology, literacy, oral transmission, finance, and local conflict determined what could circulate and matter. The denial of door-nailing is an episode-level historical judgment, and pamphlet-share figures remain episode-attributed. Modern internet, “branding,” “pile-on,” and “social media” comparisons clarify functions without establishing institutional equivalence.
 
 ## What Changed
 
-- Extended the system backward to thesis circulation, Leipzig counter-publicity, student action, and the burning of the bull.
-- Added the conversion of formal defeat and censure into attention as a central media asymmetry.
+- Extended the system to the first dissemination of the Ninety-five Theses through printing and correspondence.
+- Qualified the door-nailing story and made reproducibility, rather than a single symbolic gesture, the causal emphasis.
 
 ## Related Concepts
 
 - [[VernacularScriptureReach]] - supplies accessible biblical text to the same widening public.
 - [[SolaScripturaInterpretivePluralism]] - explains why wider access can multiply conclusions.
 - [[RevolutionaryOutflanking]] - describes the movement acceleration that distributed media can amplify.
+- [[IndulgenceEconomy]] - institutional target whose financial and theological structure gave early print polemic its stakes.

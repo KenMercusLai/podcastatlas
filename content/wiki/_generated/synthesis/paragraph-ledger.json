@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "3090ff1b99d2e1853706bbcd023aa7deb7b25a7c194f3d480758c9833acd4020",
       "98d86637d61404ff3cb03bc67bdb0b459b10ccc2cf6aca63326e499b44eb9f49",
       "cd0ef74273e32997c31235124b5ea406f79eecf55a62526d67ee998e299f39b0",
       "60aba550d2bc9d7e4ce53212d97d1f6c5fcda17cc528b34092969c30ccfcecca",
@@ -726,11 +727,39 @@
       "5508c647db991b895556c7319899c4b97872aa5e39286efb84e0333985c7f92d",
       "34df1c2e8804f5214a38f77733d73c4efd8161905ce2ee717f86530fdbfa5fcc"
     ],
-    "paragraph_count": 724
+    "paragraph_count": 725
   },
-  "overview_commit": "a3925c0b1897857f91a80c0c3eda18ca7ecb2b62",
-  "overview_digest": "59b698a3669b9c237ecd1a61d7a9cfe03946016c0f574997886c55ebfe7ddab3",
+  "overview_commit": "66da1b8d373b8ab66d412b044a030100076018ad",
+  "overview_digest": "beaca12151b6dc8f1721c11656dd1777b8444067f15781d352d9a00bc8a95b57",
   "paragraphs": [
+    {
+      "id": "3090ff1b99d2e1853706bbcd023aa7deb7b25a7c194f3d480758c9833acd4020",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "culture-and-media"
+      ],
+      "text": "The latest Luther-series addition is [[434-luther-the-revolution-begins-part-2-glt4080973410|434. Luther: The Revolution Begins (Part 2)]], a [[TheRestIsHistory]] episode extending [[MartinLuther]] backward through mortality anxiety, conflict with his father, Augustinian asceticism, [[JohannVonStaupitz|Johann von Staupitz's]] mentorship, and biblical teaching at [[Wittenberg]]. It adds [[JohannVonStaupitz]], [[JohannTetzel]], and [[IndulgenceEconomy]], while extending [[FrederickTheWise]], [[SolaFideGrace]], [[SolaScripturaInterpretivePluralism]], and [[ReformationPrintCulture]]. Its core synthesis is that Luther's revolt joined an intensely personal failure to obtain assurance through works to a structural conflict involving relics, purgatory, church finance, banking, political office, and print; the Ninety-five Theses became consequential through reproduction and correspondence rather than the probably legendary door-nailing scene. No settled contradiction is recorded; retrospective psychology, reported dialogue, relic and remission totals, Tetzel's precise language, financial details, motives, and media analogies remain episode-attributed or source-scoped.",
+      "topic_scores": {
+        "business-and-markets": 3,
+        "culture-and-media": 2,
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "434-luther-the-revolution-begins-part-2-glt4080973410",
+        "FrederickTheWise",
+        "IndulgenceEconomy",
+        "JohannTetzel",
+        "JohannVonStaupitz",
+        "MartinLuther",
+        "ReformationPrintCulture",
+        "SolaFideGrace",
+        "SolaScripturaInterpretivePluralism",
+        "TheRestIsHistory",
+        "Wittenberg"
+      ]
+    },
     {
       "id": "98d86637d61404ff3cb03bc67bdb0b459b10ccc2cf6aca63326e499b44eb9f49",
       "primary_topic": "science-health-and-climate",

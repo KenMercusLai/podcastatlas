@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2095
+topic_total_pages: 2096
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1570,6 +1570,9 @@ topic_concepts:
   - key: "IndianCheeseMarketAdaptation"
     title: "Indian Cheese Market Adaptation"
     url: "/wiki/concepts/indiancheesemarketadaptation/"
+  - key: "IndulgenceEconomy"
+    title: "Indulgence Economy"
+    url: "/wiki/concepts/indulgenceeconomy/"
   - key: "IndustryToFinanceCareerPath"
     title: "Industry-To-Finance Career Path / 产业转金融职业路径"
     url: "/wiki/concepts/industrytofinancecareerpath/"

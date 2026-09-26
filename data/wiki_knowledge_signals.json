@@ -51776,9 +51776,9 @@
       "url": "/wiki/entities/frederickbenteen/"
     },
     "FrederickTheWise": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5159022101 [GLT5159022101].md",
@@ -51793,6 +51793,13 @@
           "show": "The Rest Is History",
           "title": "435. Luther: The Battle Against Satan (Part 3)",
           "url": "/wiki/sources/435-luther-the-battle-against-satan-part-3-glt9360370091/"
+        },
+        {
+          "episode_file": "GLT4080973410 [GLT4080973410].md",
+          "key": "434-luther-the-revolution-begins-part-2-glt4080973410",
+          "show": "The Rest Is History",
+          "title": "434. Luther: The Revolution Begins (Part 2)",
+          "url": "/wiki/sources/434-luther-the-revolution-begins-part-2-glt4080973410/"
         }
       ],
       "updated": "2026-09-26",
@@ -70466,6 +70473,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/individualizedriskresponsibility/"
     },
+    "IndulgenceEconomy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4080973410 [GLT4080973410].md",
+          "key": "434-luther-the-revolution-begins-part-2-glt4080973410",
+          "show": "The Rest Is History",
+          "title": "434. Luther: The Revolution Begins (Part 2)",
+          "url": "/wiki/sources/434-luther-the-revolution-begins-part-2-glt4080973410/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/indulgenceeconomy/"
+    },
     "Industrial5GDeploymentConstraint": {
       "episode_count": 1,
       "show_count": 1,
@@ -75296,6 +75319,38 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/johannloschek/"
+    },
+    "JohannTetzel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4080973410 [GLT4080973410].md",
+          "key": "434-luther-the-revolution-begins-part-2-glt4080973410",
+          "show": "The Rest Is History",
+          "title": "434. Luther: The Revolution Begins (Part 2)",
+          "url": "/wiki/sources/434-luther-the-revolution-begins-part-2-glt4080973410/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/johanntetzel/"
+    },
+    "JohannVonStaupitz": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4080973410 [GLT4080973410].md",
+          "key": "434-luther-the-revolution-begins-part-2-glt4080973410",
+          "show": "The Rest Is History",
+          "title": "434. Luther: The Revolution Begins (Part 2)",
+          "url": "/wiki/sources/434-luther-the-revolution-begins-part-2-glt4080973410/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/johannvonstaupitz/"
     },
     "Johannesburg": {
       "episode_count": 1,
@@ -92493,9 +92548,9 @@
       "url": "/wiki/entities/martinkutter/"
     },
     "MartinLuther": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT3328267667 [GLT3328267667].md",
@@ -92517,6 +92572,13 @@
           "show": "The Rest Is History",
           "title": "435. Luther: The Battle Against Satan (Part 3)",
           "url": "/wiki/sources/435-luther-the-battle-against-satan-part-3-glt9360370091/"
+        },
+        {
+          "episode_file": "GLT4080973410 [GLT4080973410].md",
+          "key": "434-luther-the-revolution-begins-part-2-glt4080973410",
+          "show": "The Rest Is History",
+          "title": "434. Luther: The Revolution Begins (Part 2)",
+          "url": "/wiki/sources/434-luther-the-revolution-begins-part-2-glt4080973410/"
         }
       ],
       "updated": "2026-09-26",
@@ -116098,9 +116160,9 @@
       "url": "/wiki/concepts/reformationlegacyambivalence/"
     },
     "ReformationPrintCulture": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5159022101 [GLT5159022101].md",
@@ -116115,6 +116177,13 @@
           "show": "The Rest Is History",
           "title": "435. Luther: The Battle Against Satan (Part 3)",
           "url": "/wiki/sources/435-luther-the-battle-against-satan-part-3-glt9360370091/"
+        },
+        {
+          "episode_file": "GLT4080973410 [GLT4080973410].md",
+          "key": "434-luther-the-revolution-begins-part-2-glt4080973410",
+          "show": "The Rest Is History",
+          "title": "434. Luther: The Revolution Begins (Part 2)",
+          "url": "/wiki/sources/434-luther-the-revolution-begins-part-2-glt4080973410/"
         }
       ],
       "updated": "2026-09-26",
@@ -128869,9 +128938,9 @@
       "url": "/wiki/entities/sogdianrock/"
     },
     "SolaFideGrace": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9360370091 [GLT9360370091].md",
@@ -128879,15 +128948,22 @@
           "show": "The Rest Is History",
           "title": "435. Luther: The Battle Against Satan (Part 3)",
           "url": "/wiki/sources/435-luther-the-battle-against-satan-part-3-glt9360370091/"
+        },
+        {
+          "episode_file": "GLT4080973410 [GLT4080973410].md",
+          "key": "434-luther-the-revolution-begins-part-2-glt4080973410",
+          "show": "The Rest Is History",
+          "title": "434. Luther: The Revolution Begins (Part 2)",
+          "url": "/wiki/sources/434-luther-the-revolution-begins-part-2-glt4080973410/"
         }
       ],
       "updated": "2026-09-26",
       "url": "/wiki/concepts/solafidegrace/"
     },
     "SolaScripturaInterpretivePluralism": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT3328267667 [GLT3328267667].md",
@@ -128909,6 +128985,13 @@
           "show": "The Rest Is History",
           "title": "435. Luther: The Battle Against Satan (Part 3)",
           "url": "/wiki/sources/435-luther-the-battle-against-satan-part-3-glt9360370091/"
+        },
+        {
+          "episode_file": "GLT4080973410 [GLT4080973410].md",
+          "key": "434-luther-the-revolution-begins-part-2-glt4080973410",
+          "show": "The Rest Is History",
+          "title": "434. Luther: The Revolution Begins (Part 2)",
+          "url": "/wiki/sources/434-luther-the-revolution-begins-part-2-glt4080973410/"
         }
       ],
       "updated": "2026-09-26",
@@ -148800,9 +148883,9 @@
       "url": "/wiki/concepts/wishfulfrontierconciliation/"
     },
     "Wittenberg": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5159022101 [GLT5159022101].md",
@@ -148817,6 +148900,13 @@
           "show": "The Rest Is History",
           "title": "435. Luther: The Battle Against Satan (Part 3)",
           "url": "/wiki/sources/435-luther-the-battle-against-satan-part-3-glt9360370091/"
+        },
+        {
+          "episode_file": "GLT4080973410 [GLT4080973410].md",
+          "key": "434-luther-the-revolution-begins-part-2-glt4080973410",
+          "show": "The Rest Is History",
+          "title": "434. Luther: The Revolution Begins (Part 2)",
+          "url": "/wiki/sources/434-luther-the-revolution-begins-part-2-glt4080973410/"
         }
       ],
       "updated": "2026-09-26",

@@ -5,6 +5,7 @@ tags: [city, university, reformation, saxony]
 sources:
   - 436-luther-showdown-with-the-emperor-part-4-glt5159022101
   - 435-luther-the-battle-against-satan-part-3-glt9360370091
+  - 434-luther-the-revolution-begins-part-2-glt4080973410
 last_updated: 2026-09-26
 knowledge_schema: synthesis-v1
 ---
@@ -17,7 +18,9 @@ Wittenberg was the Saxon university and publishing center where [[MartinLuther]]
 
 ## Current Profile
 
-Before Luther's Wartburg absence, Wittenberg had already joined university solidarity to public performance. [[PhilipMelanchthon]], [[AndreasKarlstadt]], faculty allies, students, printers, and townspeople helped turn the Ninety-five Theses and later condemnations into a participatory campaign of pamphlets, processions, parody, and public burning.
+Wittenberg first entered Luther's story as [[FrederickTheWise|Frederick the Wise's]] prestige project. Its university gave [[MartinLuther]] a biblical professorship, while Frederick's enormous relic collection and promised purgatorial remissions made the town part of the [[IndulgenceEconomy|indulgence economy]] Luther would challenge. A local printer and university network then helped turn the Ninety-five Theses into reproducible controversy.
+
+Before Luther's Wartburg absence, Wittenberg joined university solidarity to public performance. [[PhilipMelanchthon]], [[AndreasKarlstadt]], faculty allies, students, printers, and townspeople helped turn the theses and later condemnations into a participatory campaign of pamphlets, processions, parody, and public burning.
 
 The episode presents Wittenberg as an institutional ecosystem rather than only Luther's base. University prestige, princely patronage, printers, artists, clergy, students, monks, nuns, and town authorities all helped make reform portable.
 
@@ -26,14 +29,15 @@ After Luther went to the [[Wartburg]], the town became a test of decentralized c
 ## Key Characteristics
 
 - University center founded and protected by [[FrederickTheWise]].
+- Pilgrimage and relic center whose indulgences exposed the late-medieval spiritual economy.
 - Base for Luther's professorial, writing, and publishing influence.
 - Network linking theology to visual production and cheap print.
 - Site where academic alliance and student performance widened controversy into a movement.
-- Site of bottom-up and officially backed liturgical reform.
-- Example of reform outpacing its most famous founder.
+- Site of officially backed and bottom-up reform that eventually outpaced its most famous founder.
 
 ## Evidence
 
+- Founding platform: [[434-luther-the-revolution-begins-part-2-glt4080973410]] links Frederick's university-building project, Luther's professorship, the relic collection, and early local printing.
 - Early movement base: [[435-luther-the-battle-against-satan-part-3-glt9360370091]] describes faculty support, student burnings, anti-papal procession, parody, and print circulation.
 - Institutional base: [[436-luther-showdown-with-the-emperor-part-4-glt5159022101]] identifies Luther as its celebrated professor and Cranach as a key local visual producer.
 - Radicalization: [[436-luther-showdown-with-the-emperor-part-4-glt5159022101]] follows departures from cloisters, attacks on masses and images, and Karlstadt's Christmas service.
@@ -41,12 +45,12 @@ After Luther went to the [[Wartburg]], the town became a test of decentralized c
 
 ## Qualifications
 
-The sources compress a complex urban and institutional history into moments of student mobilization, Luther's absence, and his return. “Bottom-up” does not mean change lacked faculty, council, university, or princely involvement.
+The sources compress a complex urban and institutional history into Frederick's patronage, Luther's professorship, student mobilization, Luther's absence, and his return. The relic inventory and remission total remain episode-attributed. “Bottom-up” does not mean change lacked faculty, council, university, or princely involvement.
 
 ## What Changed
 
-- Added faculty support, student action, parody, and public burning before the later liturgical reforms.
-- Extended Wittenberg's collective movement role backward to the initial pamphlet crisis.
+- Added the university's prestige-building origins, relic economy, and Luther's early biblical teaching.
+- Extended Wittenberg's print role backward to the first circulation of the Ninety-five Theses.
 
 ## Relationships
 
@@ -55,3 +59,4 @@ The sources compress a complex urban and institutional history into moments of s
 - [[LucasCranachTheElder]] - court artist and printer-network figure shaping reform's visual identity.
 - [[PhilipMelanchthon]] - humanist faculty ally in the early controversy.
 - [[RevolutionaryOutflanking]] - movement pattern enacted when Wittenberg reformers outran Luther.
+- [[IndulgenceEconomy]] - relic-and-remission system located within the same town that incubated its critic.
