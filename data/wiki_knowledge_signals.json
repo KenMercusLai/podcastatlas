@@ -26862,6 +26862,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/coldshiveringthermogenesis/"
     },
+    "ColemanRuiz": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6632700547 [SCIM6632700547].md",
+          "key": "overcoming-physical-emotional-challenges-coleman-ruiz-scim6632700547",
+          "show": "Huberman Lab",
+          "title": "Overcoming Physical & Emotional Challenges | Coleman Ruiz",
+          "url": "/wiki/sources/overcoming-physical-emotional-challenges-coleman-ruiz-scim6632700547/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/colemanruiz/"
+    },
     "CollegeLogoLicensingMerchandise": {
       "episode_count": 1,
       "show_count": 1,
@@ -27687,9 +27703,9 @@
       "url": "/wiki/concepts/compelleddnasamplingfourthamendment/"
     },
     "CompetenceStatusMentalHealthBlindSpot": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2498586099 [SCIM2498586099].md",
@@ -27697,9 +27713,16 @@
           "show": "Huberman Lab",
           "title": "The Mental Frame & Specific Daily Actions to Succeed | Andy Stumpf",
           "url": "/wiki/sources/the-mental-frame-specific-daily-actions-to-succeed-andy-stumpf-scim2498586099/"
+        },
+        {
+          "episode_file": "SCIM6632700547 [SCIM6632700547].md",
+          "key": "overcoming-physical-emotional-challenges-coleman-ruiz-scim6632700547",
+          "show": "Huberman Lab",
+          "title": "Overcoming Physical & Emotional Challenges | Coleman Ruiz",
+          "url": "/wiki/sources/overcoming-physical-emotional-challenges-coleman-ruiz-scim6632700547/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-26",
       "url": "/wiki/concepts/competencestatusmentalhealthblindspot/"
     },
     "ComplexDestinationTravelRisk": {
@@ -63365,6 +63388,29 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/concepts/heromemorypoliticalcredibility/"
+    },
+    "HeroReturnWithBoon": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "29.千面英雄：俄狄浦斯正在下班挤地铁 [590112891].md",
+          "key": "29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891",
+          "show": "蜜獾吃书",
+          "title": "29.千面英雄：俄狄浦斯正在下班挤地铁",
+          "url": "/wiki/sources/29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891/"
+        },
+        {
+          "episode_file": "SCIM6632700547 [SCIM6632700547].md",
+          "key": "overcoming-physical-emotional-challenges-coleman-ruiz-scim6632700547",
+          "show": "Huberman Lab",
+          "title": "Overcoming Physical & Emotional Challenges | Coleman Ruiz",
+          "url": "/wiki/sources/overcoming-physical-emotional-challenges-coleman-ruiz-scim6632700547/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/heroreturnwithboon/"
     },
     "Herodotus": {
       "episode_count": 1,
@@ -109197,9 +109243,9 @@
       "url": "/wiki/concepts/positiveairwaypressuretherapy/"
     },
     "PositiveMasculinityCode": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7501986841 [SCIM7501986841].md",
@@ -109207,9 +109253,16 @@
           "show": "Huberman Lab",
           "title": "Male Roles, Obligations and Options for Building a Fulfilling Life | Scott Galloway",
           "url": "/wiki/sources/male-roles-obligations-options-for-building-a-fulfilling-life-scott-galloway-scim7501986841/"
+        },
+        {
+          "episode_file": "SCIM6632700547 [SCIM6632700547].md",
+          "key": "overcoming-physical-emotional-challenges-coleman-ruiz-scim6632700547",
+          "show": "Huberman Lab",
+          "title": "Overcoming Physical & Emotional Challenges | Coleman Ruiz",
+          "url": "/wiki/sources/overcoming-physical-emotional-challenges-coleman-ruiz-scim6632700547/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-09-26",
       "url": "/wiki/concepts/positivemasculinitycode/"
     },
     "PositiveStressBreathwork": {

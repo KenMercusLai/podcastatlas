@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 10813
+wiki_total_pages: 10814
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -1109,6 +1109,9 @@ wiki_pages:
   - key: "Coinbase"
     title: "Coinbase"
     url: "/wiki/entities/coinbase/"
+  - key: "ColemanRuiz"
+    title: "Coleman Ruiz"
+    url: "/wiki/entities/colemanruiz/"
   - key: "ColemanStrumpf"
     title: "Coleman Strumpf"
     url: "/wiki/entities/colemanstrumpf/"

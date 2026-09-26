@@ -2,6 +2,24 @@
   "claims": [
     {
       "global_candidate": true,
+      "id": "elite-competence-does-not-prove-psychological-safety",
+      "qualifications": [
+        "Ruiz's account is retrospective personal testimony rather than a universal veteran-transition model or causal treatment study.",
+        "BUD/S predictors, casualty counts, operational detail, treatment effects, physiology, bodywork, psychedelic experience, and recovery causation remain anecdotal or source-scoped.",
+        "Friendship and routine can support recovery, but acute suicide risk requires direct professional or emergency assessment."
+      ],
+      "statement": "[[ColemanRuiz]] adds a first-person case to [[CompetenceStatusMentalHealthBlindSpot]]: discipline, fear, toughness, and team belonging can sustain elite performance while grief and distress accumulate; [[HeroReturnWithBoon]] and [[PositiveMasculinityCode]] then frame recovery as reintegration through trusted support, professional care, ordinary routines, vulnerability, and a wider range of strength.",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "overcoming-physical-emotional-challenges-coleman-ruiz-scim6632700547",
+        "ColemanRuiz",
+        "CompetenceStatusMentalHealthBlindSpot",
+        "HeroReturnWithBoon",
+        "PositiveMasculinityCode"
+      ]
+    },
+    {
+      "global_candidate": true,
       "id": "clinical-trust-requires-honest-limits-and-continuity",
       "qualifications": [
         "The episode consists of selected clinician recollections rather than a validated communication protocol or representative outcome study.",
@@ -1940,8 +1958,8 @@
       ]
     }
   ],
-  "input_digest": "0b5d8e6bc0c6790ce3d77b5cd9cee4b6758e4108e844578de0239cd44d1f0571",
-  "summary": "Psychology and personal-development sources converge on embodied regulation, relational safety, calibrated action, self-narration, and careful limits on self-interpretation. The Byron origin episode adds a bounded historical case in which adversity and bodily self-discipline can inform deliberate self-fashioning without establishing diagnosis, deterministic causation, or moral excuse. The clinical-relationship source adds that trust depends on honest outcome limits, visible responsibility, durable communication, encouragement, referral, and continuity rather than title or reassurance alone; selected patient recollections do not establish treatment causation or typical prognosis. VOL.123 adds a bounded body-management case: posture awareness, temporary comfort, and gradual movement can support agency, but they should not become cure claims, rigid self-monitoring, or substitutes for neurological and functional assessment. Mental-health, diagnostic, crisis, diet, sensory, and altered-state claims remain bounded to evidence and professional judgment. Historical decision episodes contribute source-scoped cases about immediate versus long-run rationality, high-risk choice, counterfactual restraint, status, self-presentation, persuasion, loyalty, and survival, but do not become general psychological laws. The Custer episode adds a source-scoped historical case in which spectacle, ambition, impulsivity, intimate distress, public reputation, and patronage interact with repeated risk and recovery; it supports analysis of self-presentation and institutional reinforcement, not a retrospective clinical diagnosis. VOL.108 adds a developmental ADHD boundary: age-relative, cross-setting impairment matters more than activity, grades, or isolated high performance; family context can modify function without sole-cause blame, and intervention remains individualized.",
+  "input_digest": "2a6beb1d635e41a105bcbe70aa2fcce9dc6ae8aedd91d306e72fd0ef055669dc",
+  "summary": "Psychology and personal-development sources converge on embodied regulation, relational safety, calibrated action, self-narration, and careful limits on self-interpretation. The Byron origin episode adds a bounded historical case in which adversity and bodily self-discipline can inform deliberate self-fashioning without establishing diagnosis, deterministic causation, or moral excuse. The clinical-relationship source adds that trust depends on honest outcome limits, visible responsibility, durable communication, encouragement, referral, and continuity rather than title or reassurance alone; selected patient recollections do not establish treatment causation or typical prognosis. VOL.123 adds a bounded body-management case: posture awareness, temporary comfort, and gradual movement can support agency, but they should not become cure claims, rigid self-monitoring, or substitutes for neurological and functional assessment. Mental-health, diagnostic, crisis, diet, sensory, and altered-state claims remain bounded to evidence and professional judgment. Historical decision episodes contribute source-scoped cases about immediate versus long-run rationality, high-risk choice, counterfactual restraint, status, self-presentation, persuasion, loyalty, and survival, but do not become general psychological laws. The Custer episode adds a source-scoped historical case in which spectacle, ambition, impulsivity, intimate distress, public reputation, and patronage interact with repeated risk and recovery; it supports analysis of self-presentation and institutional reinforcement, not a retrospective clinical diagnosis. VOL.108 adds a developmental ADHD boundary: age-relative, cross-setting impairment matters more than activity, grades, or isolated high performance; family context can modify function without sole-cause blame, and intervention remains individualized. The Ruiz episode adds that elite competence and team belonging can conceal accumulating grief and post-service distress; gradual recovery can combine trusted support, professional care, ordinary routines, and a broader model of strength without becoming a universal treatment path.",
   "title": "Psychology and Personal Development",
   "topic_id": "psychology-and-personal-development"
 }

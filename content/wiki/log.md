@@ -22750,3 +22750,11 @@ Added source `likqsiszm7z-evaz5ajxerxzdliv-likqsiszm7z-evaz5ajxerxzdliv`; create
 ## [2026-09-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-26] ingest | Overcoming Physical & Emotional Challenges | Coleman Ruiz
+
+Added source `overcoming-physical-emotional-challenges-coleman-ruiz-scim6632700547`; created `ColemanRuiz`; and updated `CompetenceStatusMentalHealthBlindSpot`, `HeroReturnWithBoon`, `PositiveMasculinityCode`, the canonical index, and overview from their complete bounded source sets. Core synthesis: discipline, fear, toughness, and team belonging can enable exceptional performance without protecting psychological safety; repeated loss may remain hidden during operational tempo, and civilian return can require trusted relationships, professional care, sobriety, sleep, movement, and a broader capacity for gentleness and help-seeking. No settled contradiction found. BUD/S predictors, casualty counts, operational details, therapy interpretations, treatment effects, physiological explanations, caffeine timing, bodywork, psychedelic experience, and recovery causation remain anecdotal, self-reported, or source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

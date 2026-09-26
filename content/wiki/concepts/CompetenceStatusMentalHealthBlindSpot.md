@@ -4,7 +4,8 @@ type: concept
 tags: [mental-health, status, suicide-risk, veterans, relationships]
 sources:
   - the-mental-frame-specific-daily-actions-to-succeed-andy-stumpf-scim2498586099
-last_updated: 2026-09-02
+  - overcoming-physical-emotional-challenges-coleman-ruiz-scim6632700547
+last_updated: 2026-09-26
 knowledge_schema: synthesis-v1
 ---
 
@@ -14,15 +15,15 @@ knowledge_schema: synthesis-v1
 Competence-status mental health blind spot is the mistaken assumption that elite performance, toughness, public competence, or high status protects a person from shame, isolation, suicide risk, pain, trauma, or distorted self-view.
 
 ## Current Synthesis
-The Stumpf source makes this a mental-health and relationship boundary. Former elite military operators, accomplished performers, parents, and public figures can still face ordinary human suffering, and their competence may even make distress harder for others to notice. The episode's suicide discussion is anchored in Stumpf's account of Dave, a top performer whose internal self-view appeared far worse than how others saw him, with alcohol, isolation, and an impossible personal standard named as part of the situation as Stumpf understands it.
+The Stumpf and Ruiz sources make this a mental-health, transition, and relationship boundary. Former elite military operators, accomplished performers, parents, and public figures can still face ordinary human suffering, and competence may make distress harder for the person or others to recognize. Stumpf's account of Dave links a top performer's suicide to a severely distorted self-view, isolation, alcohol, and impossible personal standards as Stumpf understands them. Ruiz adds a first-person trajectory: fear, discipline, team loyalty, and operational focus supported exceptional performance while repeated loss accumulated, then severe depression emerged after he left the military and slowed down.
 
-The practical lesson is not that friends can solve crisis alone. It is that ordinary connection, honest pain communication, and regular check-ins matter because status can hide need until danger has narrowed options. The source also points to pre-military trauma, post-service identity loss, isolation, and moving away from a peer group as compounding factors.
+The practical lesson is not that friends can solve crisis alone. Ordinary connection, honest pain communication, and regular check-ins matter because status can hide need until danger has narrowed options. Ruiz's account adds that trusted people may need to hold decisions temporarily when a person's judgment is impaired, while family insistence, therapy, prescribed medication, sleep stabilization, sobriety, and exercise can form a broader recovery scaffold. Imminent danger still requires trained or emergency care.
 
 ## Key Claims
 - External competence and toughness do not prove psychological safety.
 - High standards can become dangerous when failure to meet them collapses into shame or worthlessness.
 - Isolation, alcohol, identity loss, and separation from a trusted peer group can compound mental-health risk.
-- Pre-existing trauma can travel into elite environments rather than being erased by achievement.
+- Repeated trauma or grief can remain partly hidden while operational tempo and role demands continue.
 - Openness about pain can create practical help that silence blocks.
 - Regular check-ins and sustained connection can matter before a crisis becomes visible.
 - Severe suicide risk still requires trained, emergency, or professional support rather than friendship alone.
@@ -34,13 +35,15 @@ The practical lesson is not that friends can solve crisis alone. It is that ordi
 - Veteran transition factors: [[the-mental-frame-specific-daily-actions-to-succeed-andy-stumpf-scim2498586099]] says identity loss, isolation, unhealthy alcohol use, and leaving a peer group can compound after military service.
 - Pain disclosure: [[the-mental-frame-specific-daily-actions-to-succeed-andy-stumpf-scim2498586099]] has Stumpf connect emergency surgery after ignored abdominal pain to the lesson that openness about pain can improve care.
 - Check-ins: [[the-mental-frame-specific-daily-actions-to-succeed-andy-stumpf-scim2498586099]] has Huberman describe small regular friend messages as meaningful in the suicide-prevention context.
+- Delayed recognition: [[overcoming-physical-emotional-challenges-coleman-ruiz-scim6632700547]] has [[ColemanRuiz]] describe repeated combat loss, memorials, casualty notifications, and memory gaps whose cumulative impact became clearer after leaving service.
+- Impaired-judgment support: [[overcoming-physical-emotional-challenges-coleman-ruiz-scim6632700547]] says trusted friends temporarily helped Ruiz outsource decisions and identity framing during an acute suicidal period, followed by regular therapy and other stabilizing supports.
 
 ## Counterevidence & Qualifications
-This is a source-scoped mental-health concept, not a diagnostic model or causal account of suicide. The Dave case is filtered through Stumpf's understanding and should not be generalized beyond the evidence given. Friendship, check-ins, and openness can help, but imminent self-harm, suicide threats, or life-threatening distress require emergency or trained support.
+This is a source-scoped mental-health concept, not a diagnostic model or causal account of suicide. The Dave case is filtered through Stumpf's understanding, and Ruiz's account is retrospective self-report; neither should be generalized into a universal veteran pathway or treatment plan. Friendship, check-ins, and openness can help, but imminent self-harm, suicide threats, or life-threatening distress require emergency or trained support.
 
 ## What Changed
-- Created the concept to capture the episode's warning that competence and status can hide mental-health danger.
-- Linked veteran transition, isolation, alcohol, impossible standards, pain disclosure, and regular check-ins under one bounded frame.
+- Added a first-person case in which operational competence coexisted with cumulative loss and later severe depression.
+- Added temporary decision support by trusted people and multi-part professional recovery while preserving the crisis-escalation boundary.
 
 ## Related Concepts
 - [[MentalHealthCrisisInterventionBoundary]] - escalation boundary when self-harm or suicide risk exceeds ordinary support.
@@ -49,3 +52,4 @@ This is a source-scoped mental-health concept, not a diagnostic model or causal 
 - [[RelationshipNeedDiversification]] - social-support neighbor because relying on one tie or no tie can make distress more fragile.
 - [[SocialTrustAndHappiness]] - connection branch that helps explain why ordinary relationships can be protective.
 - [[ActionAfterAdversity]] - next-step resilience frame that still needs safety and support boundaries.
+- [[HeroReturnWithBoon]] - return-stage framework Ruiz uses to understand civilian reintegration.

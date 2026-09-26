@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Overcoming Physical & Emotional Challenges | Coleman Ruiz](sources/overcoming-physical-emotional-challenges-coleman-ruiz-scim6632700547.md) — Huberman Lab interview on disciplined intensity, team identity, cumulative combat loss, civilian transition, depression, suicide risk, recovery, and range-based toughness.
 - [VOL.107躁狂？抑郁？网红急诊科医生的精神AB面](sources/likqsiszm7z-evaz5ajxerxzdliv-likqsiszm7z-evaz5ajxerxzdliv.md) — 这病说来话长 episode on clinician vulnerability, 住院总 role overload, mood and self-diagnosis boundaries, medical-creator pressure, and ICU recovery.
 - [GUEST SERIES | Dr. Matt Walker: Protocols to Improve Your Sleep](sources/guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663.md) — Huberman Lab sleep-series episode on regularity, light, temperature, caffeine, substances, CBT-I tools, sleep anxiety, and experimental enhancement technologies.
 - [439. Disco: Sex and Race in Seventies America](sources/439-disco-sex-and-race-in-seventies-america-glt8206137792.md) — The Rest Is History on disco's underground formation, music technology, mixed club culture, commercial mainstreaming, backlash, and afterlife.
@@ -2867,6 +2868,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Protocols to Strengthen & Pain Proof Your Back](sources/protocols-to-strengthen-pain-proof-your-back-scim8264963647.md) — Huberman Lab solo episode on mechanism-sensitive back care, the McGill Big Three, whole-body support, movement awareness, and clinical escalation boundaries.
 
 ## Entities
+- [Coleman Ruiz](entities/ColemanRuiz.md) — Former Navy SEAL and Tier 1 operator connecting elite performance, cumulative loss, civilian transition, severe depression, and recovery.
 - [萌萌将 / Mengmeng Jiang](entities/MengmengJiang.md) — Emergency physician and medical creator discussing 住院总 work, clinician vulnerability, emotional fluctuation, and online visibility.
 - [David Mancuso](entities/DavidMancuso.md) — New York host whose Love Saves the Day and Loft parties helped form disco's mixed club culture.
 - [Francis Grasso](entities/FrancisGrasso.md) — Sanctuary DJ associated with obscure selection, beat mixing, slip cueing, and continuous sets.

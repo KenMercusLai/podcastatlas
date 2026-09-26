@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-26
-as_of_overview_commit: 6bd0f0939462c6879c1bf4bc50803d5ced13942b
+as_of_overview_commit: 94cd64d0a1f4bdceba1a12811d41e9938f1fb625
 summary: "Podcast Atlas maps how technology, markets, institutions, culture, history, health, psychology, work, and care interact as evidence-bound lived systems."
-episode_count: 2841
-source_count: 2841
-paragraph_count: 723
+episode_count: 2845
+source_count: 2845
+paragraph_count: 724
 topic_count: 9
 ---
 
@@ -21,7 +21,7 @@ topic_count: 9
 - Cultural form is an interpretive infrastructure: [[MuseumInterpretationLegibility]], [[PlaceBasedExhibitionCuration]], [[AncientChineseBookMateriality]], [[BookPublishingEconomics]], and [[PhysicalBookDesignTradeoff]] show that objects, books, and exhibitions need labels, material form, production choices, and local context before audiences can understand them.
 - [[middlegarchs-are-the-new-oligarchs-32587514|The middlegarchs episode]] adds that geographically dispersed private-business wealth can become [[DispersedBusinessElitePower]] through local employment, direct legislative representation, tax preferences, and rules that protect incumbents, while [[PassThroughBusinessTaxAdvantage]] supplies one institutional reinforcement channel.
 - Formal legitimacy only matters when it is paired with material capacity, timing, and enforceable alliances rather than title or moral claim alone.
-- [[ClinicalTrustBuilding]] and [[ClinicalOutcomeUncertainty]] add that clinical trust becomes usable when competence and responsibility are paired with honest limits, durable [[DoctorPatientCommunication]], specific encouragement, referral, and continuity; technical success alone does not establish survival, function, recovery, or discharge.
+- [[ColemanRuiz]] adds a first-person case to [[CompetenceStatusMentalHealthBlindSpot]]: discipline, fear, toughness, and team belonging can sustain elite performance while grief and distress accumulate; [[HeroReturnWithBoon]] and [[PositiveMasculinityCode]] then frame recovery as reintegration through trusted support, professional care, ordinary routines, vulnerability, and a wider range of strength.
 - [[IntensiveCareAsTimeBuying]], [[HospiceCare]], [[DeathNormalizationPractice]], and [[DoctorPatientCommunication]] jointly distinguish acute support from terminal comfort: ICU can stabilize failing organs while potentially reversible illness is treated, but admission depends on expected benefit and capacity; when decline is irreversible, reducing invasive burden can become a positive care goal, while advance conversation and post-sedation explanation help patients and families understand choices they could not fully anticipate, witness, or remember.
 - The Alpha School and Yeager episodes jointly add a modern education-institution claim: [[AIMasteryLearningModel]], [[RemedialEducationTargeting]], and [[WorkingMemoryLearningBottleneck]] address level and prerequisites, while [[EducationMotivationArchitecture]], [[GrowthMindset]], [[MentorMindsetFeedback]], [[PurposeIntegratedMotivation]], and [[ThreatChallengeStressReappraisal]] show that beliefs about effort and pressure work only with credible opportunity, strategy, purpose, feedback, and support; [[BuilderBasedSchoolDay]] supplies one source-scoped applied environment rather than a universal model.
 
@@ -68,21 +68,21 @@ Historical outcomes join legitimacy and material capacity to bargaining, logisti
 
 ### Psychology and Personal Development
 
-Psychological interpretation depends on embodied regulation, relational safety, calibrated action, honest limits, and contextual care boundaries.
+Personal development joins embodied regulation, relational safety, calibrated action, and self-understanding while keeping crisis, diagnosis, and treatment clinically bounded.
 
+- [[ColemanRuiz]] adds a first-person case to [[CompetenceStatusMentalHealthBlindSpot]]: discipline, fear, toughness, and team belonging can sustain elite performance while grief and distress accumulate; [[HeroReturnWithBoon]] and [[PositiveMasculinityCode]] then frame recovery as reintegration through trusted support, professional care, ordinary routines, vulnerability, and a wider range of strength. Evidence: [[overcoming-physical-emotional-challenges-coleman-ruiz-scim6632700547]], [[ColemanRuiz]], [[CompetenceStatusMentalHealthBlindSpot]], [[HeroReturnWithBoon]], [[PositiveMasculinityCode]].
 - [[ClinicalTrustBuilding]] and [[ClinicalOutcomeUncertainty]] add that clinical trust becomes usable when competence and responsibility are paired with honest limits, durable [[DoctorPatientCommunication]], specific encouragement, referral, and continuity; technical success alone does not establish survival, function, recovery, or discharge. Evidence: [[ClinicalTrustBuilding]], [[ClinicalOutcomeUncertainty]], [[DoctorPatientCommunication]], [[vol-128-he-7-wei-yisheng-de-liaotianju-jiangshu-le-12-wei-huanzhe-de-zhenshi-gushi-yishijie-litblbacavb9homqxo81g71oujyz]].
-- Across [[ShiDiFuShuo]] and related pages, psychological knowledge is most useful when it restores contact with body, context, and responsibility boundaries; otherwise concepts such as [[PsychologyConceptSelfPunishment]] and [[OmnipotentSelfBlame]] can become new self-monitoring tools. Evidence: [[OverintellectualizedRelationshipAnalysis]], [[PsychologyConceptSelfPunishment]], [[PureRationalityTrap]], [[BodyBasedSelfTrust]], [[ShiDiFuShuo]], [[SteveShiDiFuShuoHost]], [[OmnipotentSelfBlame]], [[PainOrientation]], [[MentalizingProjection]], [[shi-di-fu-shuo-468-zixunshi-huixin-duzi-nuli-zhangda-de-ren-rongyi-xianru-quanneng-zilian-de-xianjing-llwra0a8mt-ocndm9eokzxaryb-j]].
 
 ### Science, Health, and Climate
 
-Science and health literacy require mechanism, measurement, qualified care, escalation, and explicit uncertainty rather than single-sign inference.
+Health and science literacy require mechanisms, measurement, uncertainty, urgent escalation, and qualified care rather than labels, anecdotes, or cure claims.
 
 - [[guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory-scim9549338704|The Walker sleep-and-learning episode]] adds a staged learning cycle: [[MemoryConsolidationWindows]] begins with sleep-supported encoding readiness, [[SleepStageFunctionalArchitecture]] and [[SleepSpindleSchemaFormation]] distinguish deep non-REM fact-memory transfer from stage-two motor gains and REM-rich association, [[PostPracticeMotorConsolidation]] connects practice to quiet rest and sleep, and [[SleepAnxietyLoop]] keeps tracker feedback from becoming orthosomnia. Evidence: [[guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory-scim9549338704]], [[AndrewHuberman]], [[MatthewWalker]], [[MemoryConsolidationWindows]], [[SleepStageFunctionalArchitecture]], [[SleepSpindleSchemaFormation]], [[PostPracticeMotorConsolidation]], [[SleepAnxietyLoop]], [[SubconsciousCreativeIncubation]].
 - [[guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951|The Walker Huberman Lab sleep-series finale]] and [[lutsrqrswkekdi3ujtokur2q1hv-lutsrqrswkekdi3ujtokur2q1hv|VOL.109]] jointly bound dream science: [[DreamFunctionAndMeaning]] and [[SleepStageFunctionalArchitecture]] connect vivid REM dreaming with active memory, emotion, association, bodily or environmental input, and stage-dependent recall without creating a universal symbol code; [[NightmareImageryRehearsalTherapy]] and [[TargetedMemoryReactivation]] keep treatment inside bounded protocols; [[LucidDreamingEvidenceBoundary]] separates verified awareness from unsettled control; and [[DreamDistressAndParasomniaEscalation]] distinguishes ordinary dream content from persistent distress, daytime impairment, and sleepwalking that warrant assessment. Evidence: [[guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951]], [[AndrewHuberman]], [[MatthewWalker]], [[DreamFunctionAndMeaning]], [[SleepStageFunctionalArchitecture]], [[REMEmotionalMemorySeparation]], [[NightmareImageryRehearsalTherapy]], [[TargetedMemoryReactivation]], [[LucidDreamingEvidenceBoundary]], [[SleepAnxietyLoop]], [[SleepSupplementBoundary]], [[lutsrqrswkekdi3ujtokur2q1hv-lutsrqrswkekdi3ujtokur2q1hv]], [[DreamDistressAndParasomniaEscalation]], [[ZhangDaming]].
 
 ### Work, Education, and Society
 
-Learning, work, participation, and care improve through active practice, credible opportunity, demanding support, trustworthy institutions, visible labor, judgment, recovery, and durable social capacity.
+Work and education systems depend on trust, incentives, practical routines, protected access, human judgment, and intergenerational capacity.
 
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough. Evidence: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], [[LearningExperienceDesign]].
 - AI and product/work sources repeatedly show that capability becomes useful only when embedded in [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]], workflows, distribution, and customer or classroom context. Evidence: [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].

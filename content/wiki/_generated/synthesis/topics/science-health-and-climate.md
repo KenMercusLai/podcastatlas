@@ -4,17 +4,29 @@ generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
 last_updated: 2026-09-26
-as_of_overview_commit: b4ac5ff0fbbcca2441830b723a9f490e9a33e3cd
-input_digest: ea019f789fed6814735d77677a4254114a2e60e1114c50e054615746574ae7a4
+as_of_overview_commit: 94cd64d0a1f4bdceba1a12811d41e9938f1fb625
+input_digest: 8a9710bbe741082fe134f6d9bc5f75ea5496946d2da0962fc714cc82bee1d5f3
 ---
 
 # Science, Health, and Climate
 
 ## Current State
 
-Science, health, and climate sources consistently separate public literacy from individualized care: mechanisms, measurements, urgent escalation, qualified treatment, environmental context, and uncertainty matter more than labels or cure claims. The topic spans sleep and mental health, chronic and acute care, metabolism and nutrition, exercise and sensory health, disability and animal welfare, climate adaptation, and science governance; interventions remain population-, comparator-, dose-, timing-, endpoint-, goal-, and supervision-dependent. The latest medical-humanities addition sharpens end-of-life boundaries: comfort-focused care belongs to irreversible terminal decline, ICU can buy time for potentially reversible illness, and advance conversation can clarify wishes without perfectly predicting a later clinical state.
+Science, health, and climate sources consistently separate public literacy from individualized care: mechanisms, measurements, urgent escalation, qualified treatment, environmental context, and uncertainty matter more than labels or cure claims. The topic spans sleep and mental health, chronic and acute care, metabolism and nutrition, exercise and sensory health, disability and animal welfare, climate adaptation, and science governance; interventions remain population-, comparator-, dose-, timing-, endpoint-, goal-, and supervision-dependent. The latest medical-humanities addition sharpens end-of-life boundaries: comfort-focused care belongs to irreversible terminal decline, ICU can buy time for potentially reversible illness, and advance conversation can clarify wishes without perfectly predicting a later clinical state. The Ruiz episode reinforces that elite performance does not establish psychological safety and that multi-part recovery testimony must remain clinically bounded rather than converted into a universal protocol.
 
 ## Cross-source Findings
+
+### Elite Performance Recovery Remains Clinically Bounded
+
+[[overcoming-physical-emotional-challenges-coleman-ruiz-scim6632700547|The Ruiz interview]] adds a clinically bounded recovery case: [[CompetenceStatusMentalHealthBlindSpot]] separates elite performance from psychological safety, while sleep, prescribed medication, sobriety, exercise, trusted support, and help-seeking are presented as interacting supports rather than a self-treatment protocol.
+
+**Evidence:** [[overcoming-physical-emotional-challenges-coleman-ruiz-scim6632700547]], [[ColemanRuiz]], [[CompetenceStatusMentalHealthBlindSpot]], [[HubermanLab]]
+
+**Qualifications:**
+
+- The episode is personal testimony and public discussion, not individualized psychiatric, medication, sleep, substance-use, suicide-prevention, or psychedelic-treatment guidance.
+- Reported treatment effects and recovery causation cannot be separated from the combined support context or generalized from one person.
+- Immediate self-harm risk requires direct human assessment and urgent professional or emergency support.
 
 ### Sleep Learning Needs Stage And Institutional Boundaries
 
