@@ -75893,6 +75893,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/entities/johnirwin/"
     },
+    "JohnJacobAstor": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1273657377 [GLT1273657377].md",
+          "key": "429-titanic-countdown-to-disaster-part-3-glt1273657377",
+          "show": "The Rest Is History",
+          "title": "429. Titanic: Countdown to Disaster (Part 3)",
+          "url": "/wiki/sources/429-titanic-countdown-to-disaster-part-3-glt1273657377/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/johnjacobastor/"
+    },
     "JohnJumper": {
       "episode_count": 2,
       "show_count": 2,
@@ -76275,6 +76291,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/josephignaceguillotin/"
+    },
+    "JosephLaroche": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1273657377 [GLT1273657377].md",
+          "key": "429-titanic-countdown-to-disaster-part-3-glt1273657377",
+          "show": "The Rest Is History",
+          "title": "429. Titanic: Countdown to Disaster (Part 3)",
+          "url": "/wiki/sources/429-titanic-countdown-to-disaster-part-3-glt1273657377/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/josephlaroche/"
     },
     "JosephStiglitz": {
       "episode_count": 1,
@@ -93200,9 +93232,9 @@
       "url": "/wiki/concepts/marylandvking/"
     },
     "MasabumiHosono": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4613169046 [GLT4613169046].md",
@@ -93210,6 +93242,13 @@
           "show": "The Rest Is History",
           "title": "432. Titanic: The Survivors (Part 6)",
           "url": "/wiki/sources/432-titanic-the-survivors-part-6-glt4613169046/"
+        },
+        {
+          "episode_file": "GLT1273657377 [GLT1273657377].md",
+          "key": "429-titanic-countdown-to-disaster-part-3-glt1273657377",
+          "show": "The Rest Is History",
+          "title": "429. Titanic: Countdown to Disaster (Part 3)",
+          "url": "/wiki/sources/429-titanic-countdown-to-disaster-part-3-glt1273657377/"
         }
       ],
       "updated": "2026-09-26",
@@ -115436,9 +115475,9 @@
       "url": "/wiki/entities/rmslusitania/"
     },
     "RMSTitanic": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT4613169046 [GLT4613169046].md",
@@ -115460,6 +115499,13 @@
           "show": "The Rest Is History",
           "title": "430. Titanic: The Iceberg Strikes (Part 4)",
           "url": "/wiki/sources/430-titanic-the-iceberg-strikes-part-4-glt2129072034/"
+        },
+        {
+          "episode_file": "GLT1273657377 [GLT1273657377].md",
+          "key": "429-titanic-countdown-to-disaster-part-3-glt1273657377",
+          "show": "The Rest Is History",
+          "title": "429. Titanic: Countdown to Disaster (Part 3)",
+          "url": "/wiki/sources/429-titanic-countdown-to-disaster-part-3-glt1273657377/"
         }
       ],
       "updated": "2026-09-26",
@@ -138793,9 +138839,9 @@
       "url": "/wiki/entities/thomabravo/"
     },
     "ThomasAndrews": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2941711597 [GLT2941711597].md",
@@ -138803,6 +138849,13 @@
           "show": "The Rest Is History",
           "title": "431. Titanic: Nightmare at Midnight (Part 5)",
           "url": "/wiki/sources/431-titanic-nightmare-at-midnight-part-5-glt2941711597/"
+        },
+        {
+          "episode_file": "GLT1273657377 [GLT1273657377].md",
+          "key": "429-titanic-countdown-to-disaster-part-3-glt1273657377",
+          "show": "The Rest Is History",
+          "title": "429. Titanic: Countdown to Disaster (Part 3)",
+          "url": "/wiki/sources/429-titanic-countdown-to-disaster-part-3-glt1273657377/"
         }
       ],
       "updated": "2026-09-26",
@@ -139754,6 +139807,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/concepts/titanicdisastermemory/"
     },
+    "TitanicPassengerSocialComplexity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1273657377 [GLT1273657377].md",
+          "key": "429-titanic-countdown-to-disaster-part-3-glt1273657377",
+          "show": "The Rest Is History",
+          "title": "429. Titanic: Countdown to Disaster (Part 3)",
+          "url": "/wiki/sources/429-titanic-countdown-to-disaster-part-3-glt1273657377/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/titanicpassengersocialcomplexity/"
+    },
     "TitaniumAsConsumerMaterial": {
       "episode_count": 1,
       "show_count": 1,
@@ -140666,9 +140735,9 @@
       "url": "/wiki/concepts/transatlanticburdenshifting/"
     },
     "TransatlanticMigrantPassage": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2129072034 [GLT2129072034].md",
@@ -140676,6 +140745,13 @@
           "show": "The Rest Is History",
           "title": "430. Titanic: The Iceberg Strikes (Part 4)",
           "url": "/wiki/sources/430-titanic-the-iceberg-strikes-part-4-glt2129072034/"
+        },
+        {
+          "episode_file": "GLT1273657377 [GLT1273657377].md",
+          "key": "429-titanic-countdown-to-disaster-part-3-glt1273657377",
+          "show": "The Rest Is History",
+          "title": "429. Titanic: Countdown to Disaster (Part 3)",
+          "url": "/wiki/sources/429-titanic-countdown-to-disaster-part-3-glt1273657377/"
         }
       ],
       "updated": "2026-09-26",
@@ -144737,6 +144813,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/wiplimitpersonalproductivity/"
+    },
+    "WTStead": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1273657377 [GLT1273657377].md",
+          "key": "429-titanic-countdown-to-disaster-part-3-glt1273657377",
+          "show": "The Rest Is History",
+          "title": "429. Titanic: Countdown to Disaster (Part 3)",
+          "url": "/wiki/sources/429-titanic-countdown-to-disaster-part-3-glt1273657377/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/wtstead/"
     },
     "WahahaADCalciumMilk": {
       "episode_count": 1,
@@ -148956,9 +149048,9 @@
       "url": "/wiki/entities/whiteshipdisaster/"
     },
     "WhiteStarLine": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2129072034 [GLT2129072034].md",
@@ -148966,6 +149058,13 @@
           "show": "The Rest Is History",
           "title": "430. Titanic: The Iceberg Strikes (Part 4)",
           "url": "/wiki/sources/430-titanic-the-iceberg-strikes-part-4-glt2129072034/"
+        },
+        {
+          "episode_file": "GLT1273657377 [GLT1273657377].md",
+          "key": "429-titanic-countdown-to-disaster-part-3-glt1273657377",
+          "show": "The Rest Is History",
+          "title": "429. Titanic: Countdown to Disaster (Part 3)",
+          "url": "/wiki/sources/429-titanic-countdown-to-disaster-part-3-glt1273657377/"
         }
       ],
       "updated": "2026-09-26",

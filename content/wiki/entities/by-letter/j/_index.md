@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 10853
+wiki_total_pages: 10856
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -722,6 +722,9 @@ wiki_pages:
   - key: "JohnIrwin"
     title: "John Irwin"
     url: "/wiki/entities/johnirwin/"
+  - key: "JohnJacobAstor"
+    title: "John Jacob Astor IV"
+    url: "/wiki/entities/johnjacobastor/"
   - key: "JohnJumper"
     title: "John Jumper"
     url: "/wiki/entities/johnjumper/"
@@ -872,6 +875,9 @@ wiki_pages:
   - key: "JosephConrad"
     title: "Joseph Conrad"
     url: "/wiki/entities/josephconrad/"
+  - key: "JosephLaroche"
+    title: "Joseph Laroche"
+    url: "/wiki/entities/josephlaroche/"
   - key: "JosephSchumpeter"
     title: "Joseph Schumpeter"
     url: "/wiki/entities/josephschumpeter/"

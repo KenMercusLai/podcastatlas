@@ -8,6 +8,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Sources
 - [VOL.104胸外科｜肺结节是什么？哪种肺结节会发展成肺癌？吐黑水排黑便就是排毒了吗](sources/vol-104-xiongwaike-feijiejie-shishenme-nazhong-feijiejie-huifazhan-cheng-feiai-tu-heishui-pai-heibian-jiushi-paidu-le-ma-ljic0qvysuboyxunoz-espjdvlvj.md) — 这病说来话长 episode on pulmonary-nodule interpretation, surveillance and surgical tradeoffs, false detox attribution, multimodal lung-cancer care, hospital matching, and clinical trust.
 - [How the Brain Works, Curing Blindness & How to Navigate a Career Path | Dr. E.J. Chichilnisky](sources/how-the-brain-works-curing-blindness-how-to-navigate-a-career-path-dr-e-j-chichilnisky-scim7934230780.md) — Huberman Lab interview on retinal coding, living human-retina experiments, cell-type-aware vision restoration, neural-interface precision, augmentation, adult adaptation, and nonlinear career choice.
+- [429. Titanic: Countdown to Disaster (Part 3)](sources/429-titanic-countdown-to-disaster-part-3-glt1273657377.md) — The Rest Is History on Titanic's first- and second-class passenger society, floating-hotel luxury, migration networks, class barriers, and the missing middle.
 - [430. Titanic: The Iceberg Strikes (Part 4)](sources/430-titanic-the-iceberg-strikes-part-4-glt2129072034.md) — The Rest Is History on Titanic's third-class migrant world, fragmented ice warnings, accepted speed practice, difficult visibility, and the collision.
 - [431. Titanic: Nightmare at Midnight (Part 5)](sources/431-titanic-nightmare-at-midnight-part-5-glt2941711597.md) — The Rest Is History reconstruction of Titanic's collision, progressive flooding, evacuation ambiguity, unequal access, final plunge, and disputed moral stories.
 - [VOL.105悲剧！规培生不止沦为了廉价劳动力！和7位医生解剖规培利弊得失](sources/vol-105-beiju-guipeisheng-buzhi-lunweile-lianjia-laodongli-he-7-wei-yisheng-jiepo-guipei-libi-deshi-lgutjxt-7vqzecklqyxe_osyzr43.md) — 这病说来话长 roundtable on residency-training purpose, trainee categories, role overload, clinical supervision, unequal conditions, and psychosocial safety.
@@ -2887,6 +2888,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.106胸外科｜王兴：病人家属问我怎么能够讨好医生｜胸闷、气胸、肺结节问题回答篇](sources/vol-106-xiongwaike-wangxing-bingren-jiashu-wen-wo-zenme-nenggou-taohao-yisheng-lrjqaw3ovznk0zn4-jfj3f2xyvzi.md) — 这病说来话长 listener Q&A on pulmonary-nodule surveillance, chest-symptom attribution, postoperative pain, chest-wall deformity, pneumothorax recurrence, and medical-care boundaries.
 
 ## Entities
+- [John Jacob Astor IV](entities/JohnJacobAstor.md) — Gilded Age millionaire connecting Titanic's first class to New York wealth and luxury hospitality.
+- [W. T. Stead](entities/WTStead.md) — Late-Victorian editor, campaigner, sensationalist, and spiritualist aboard Titanic.
+- [Joseph Laroche](entities/JosephLaroche.md) — Haitian engineer whose family widened Titanic's second-class and migration story.
 - [E.J. Chichilnisky](entities/EJChichilnisky.md) — retinal neuroscientist linking human retinal recording and cell-type identification to adaptive vision-restoring implants.
 - [White Star Line](entities/WhiteStarLine.md) — Titanic operator and selective migration intermediary competing through improved third-class passage.
 - [Marconi Company](entities/MarconiCompany.md) — wireless provider whose Titanic operators handled commercial messages, news, and navigational warnings across an organizational boundary.
@@ -13755,6 +13759,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lord Elgin](entities/LordElgin.md) — British diplomat at the center of Byron's cultural-plunder attack and Hobhouse's preservation counterargument.
 
 ## Concepts
+- [Titanic Passenger Social Complexity](concepts/TitanicPassengerSocialComplexity.md) — Framework restoring the internally diverse first- and second-class passenger society obscured by binary retellings.
 - [Hospital Capability–Patient Complexity Matching / 医院能力与患者复杂度匹配](concepts/HospitalCapabilityPatientComplexityMatching.md) — Hospital selection by disease complexity, whole-patient risk, institutional capability, access, continuity, and trust.
 - [Lung Cancer Multimodal Treatment / 肺癌多模式综合治疗](concepts/LungCancerMultimodalTreatment.md) — Histology-, stage-, and sequence-aware coordination of surgery, radiation, chemotherapy, targeted therapy, immunotherapy, and follow-up.
 - [Retinal Neural Coding](concepts/RetinalNeuralCoding.md) — parallel feature-specific spike representation produced by distinct retinal ganglion-cell types.

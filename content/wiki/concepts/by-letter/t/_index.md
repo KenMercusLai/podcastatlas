@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 8223
+wiki_total_pages: 8224
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -482,6 +482,9 @@ wiki_pages:
   - key: "TitanicDisasterMemory"
     title: "Titanic Disaster Memory"
     url: "/wiki/concepts/titanicdisastermemory/"
+  - key: "TitanicPassengerSocialComplexity"
+    title: "Titanic Passenger Social Complexity"
+    url: "/wiki/concepts/titanicpassengersocialcomplexity/"
   - key: "TitaniumAsConsumerMaterial"
     title: "Titanium As Consumer Material / 钛作为消费材料"
     url: "/wiki/concepts/titaniumasconsumermaterial/"

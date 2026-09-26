@@ -22668,6 +22668,10 @@ Added source `google-touzi-a24-ai-jiang-chengwei-haolaiwu-de-weilai-faaf14098cca
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-26] ingest | 429. Titanic: Countdown to Disaster (Part 3)
+
+Added source `429-titanic-countdown-to-disaster-part-3-glt1273657377`; created `JohnJacobAstor`, `WTStead`, `JosephLaroche`, and `TitanicPassengerSocialComplexity`; and updated `RMSTitanic`, `WhiteStarLine`, `ThomasAndrews`, `MasabumiHosono`, `TransatlanticMigrantPassage`, the canonical index, and overview from their complete bounded source sets. Core synthesis: Titanic's first and second classes formed a layered passenger society of wealth, commerce, media, professions, labor, family, migration, and belief rather than a simple plutocrats-versus-steerage cast; physical class barriers expressed hierarchy while also carrying an immigration disease-control rationale. No settled contradiction found. Passenger counts, occupancy, wealth, relationships, identities, cancellation motives, amenity comparisons, barrier rules, dialogue, and conspiracy claims remain episode-attributed, interpretive, or source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
 ## [2026-09-26] ingest | VOL.105悲剧！规培生不止沦为了廉价劳动力！和7位医生解剖规培利弊得失
 
 Added source `vol-105-beiju-guipeisheng-buzhi-lunweile-lianjia-laodongli-he-7-wei-yisheng-jiepo-guipei-libi-deshi-lgutjxt-7vqzecklqyxe_osyzr43`; created `ResidentPhysicianStandardizedTraining`, `ClinicalTeachingRelationship`, and `MedicalTraineePsychosocialSafety`; and updated `ClinicalRoleOverload` and `ZihanDoctor` from their complete bounded source sets. Core synthesis: standardized residency training can build portable clinical competence, but pathway, region, compensation, housing, academic duties, supervision, belonging, and job prospects determine whether it functions as education, productive labor, or both. No settled contradiction found. The opening death was not independently adjudicated; policy, pay, staffing, incident-pattern, and outcome claims remain source-scoped. Partial-name speakers were not merged into existing people without stronger identity evidence.
@@ -22898,6 +22902,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-26] ingest | 430. Titanic: The Iceberg Strikes (Part 4)
 
 Added source `430-titanic-the-iceberg-strikes-part-4-glt2129072034`; created `WhiteStarLine`, `MarconiCompany`, `TransatlanticMigrantPassage`, and `MaritimeWarningFragmentation`; and updated `RMSTitanic`, `EdwardSmith`, `WilliamMurdoch`, `BruceIsmay`, the canonical index, and overview from their complete bounded source sets. Core synthesis: unusually comfortable third class formed part of a classed and selective migration system, while fragmented ice reports, wireless backlog, organizational boundaries, accepted speed practice, poor visual conditions, and bridge response combined into catastrophe. No settled contradiction found. The episode reinforces rejection of the claim that Ismay forced a publicity race and qualifies a uniformly grim image of steerage without denying later evacuation inequality; passenger totals, route policy, warning transmission, collision mechanics, dialogue, motives, and causal weight remain source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-26] lint | Wiki health check
 

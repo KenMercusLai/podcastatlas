@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 10853
+wiki_total_pages: 10856
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -14,6 +14,9 @@ wiki_pages:
   - key: "WBYeats"
     title: "W. B. Yeats / 叶芝"
     url: "/wiki/entities/wbyeats/"
+  - key: "WTStead"
+    title: "W. T. Stead"
+    url: "/wiki/entities/wtstead/"
   - key: "WWNorton"
     title: "W. W. Norton & Company"
     url: "/wiki/entities/wwnorton/"
