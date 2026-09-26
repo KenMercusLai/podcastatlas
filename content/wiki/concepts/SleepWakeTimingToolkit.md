@@ -11,6 +11,7 @@ sources:
   - vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng-bu-chiyao-lvn_cutp5uob9zeosq-wiv3c4zot
   - guest-series-dr-matt-walker-how-to-structure-your-sleep-use-naps-time-caffeine-scim8589399999
   - guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663
+  - ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965
 last_updated: 2026-09-26
 knowledge_schema: synthesis-v1
 ---
@@ -37,6 +38,8 @@ The Walker sleep-structure episode makes the nap branch more conditional. Adults
 
 The protocols episode adds recovery discipline around one bad night. It recommends keeping the usual wake time, bedtime, caffeine pattern, and nap boundary rather than trying to force recovery through sleeping in, going to bed early, or adding stimulants. It also links a dim wind-down period, leaving bed during prolonged wakefulness, and returning only when sleepy to the broader goal of keeping environmental and learned cues aligned with sleep.
 
+The AMA adds a travel application. A three-hour eastward shift can be approached by moving wake time earlier before departure or, more simply, by adopting local wake time and coordinating light, movement, caffeine, meals, social activity, and evening dimness after arrival. This becomes [[CircadianTravelAdaptation]]: a flexible use of the same timing cues rather than a separate set of travel hacks.
+
 ## Key Claims
 - Sleep is framed as the output of a full-day timing system rather than a bedtime-only behavior, with work, exercise, meals, and post-meal movement included alongside light, caffeine, temperature, and darkness.
 - Morning outdoor light, especially within 30-60 minutes after waking, is the strongest external anchor in the sleep-toolkit source.
@@ -60,14 +63,14 @@ The protocols episode adds recovery discipline around one bad night. It recommen
 - Insomnia-clinic application - [[vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng-bu-chiyao-lvn_cutp5uob9zeosq-wiv3c4zot]] connects sleep diaries, stable schedules, daytime movement, limited naps, screen reduction, and functional outcomes while preserving clinical escalation.
 - Nap timing and sleep pressure - [[guest-series-dr-matt-walker-how-to-structure-your-sleep-use-naps-time-caffeine-scim8589399999]] distinguishes early short naps for some good sleepers from late naps or insomnia contexts where nighttime sleep pressure has priority.
 - Recovery and learned cues - [[guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663]] joins schedule regularity, wind-down, dim light, stimulus control, and restraint after a poor night.
+- Travel adaptation - [[ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965]] coordinates gradual pre-travel wake shifts or after-arrival local light, movement, caffeine, meals, social activity, and nighttime dimness.
 
 ## Counterevidence & Qualifications
 The sources are public sleep education, not clinical sleep-medicine protocols. They do not settle individual treatment for insomnia, sleep apnea, psychiatric illness, medication effects, pregnancy, pediatric sleep, shift-work safety, trauma-related nightmares, gastrointestinal disease, adolescent school policy, or serious circadian disorders. Bedtime rescheduling can create hazardous sleepiness and requires more caution than ordinary sleep hygiene. The supplement, red-light, THC, alcohol, sauna, cold-exposure, tracker, growth-hormone, REM, nap-duration, nap-effect, social-jetlag, meal-timing, optic-flow, light-intensity, and travel claims remain source-scoped.
 
 ## What Changed
-- Added the recommendation to preserve ordinary timing and sleep pressure after one poor night.
-- Integrated wind-down and stimulus control as learned-cue components of the full-day system.
-- Separated ordinary timing tools from supervised bedtime rescheduling.
+- Added a flexible travel branch that reuses the toolkit's light, activity, food, caffeine, and darkness cues.
+- Separated gradual pre-adjustment from direct adoption of destination time after arrival.
 
 ## Related Concepts
 - [[SleepAsDailyHealthAccount]] - broader sleep-health account that this toolkit operationalizes.
@@ -79,6 +82,7 @@ The sources are public sleep education, not clinical sleep-medicine protocols. T
 - [[SubstanceSleepArchitectureBoundary]] - sedation-versus-sleep-quality boundary inside the toolkit.
 - [[SleepSupplementBoundary]] - supplement and melatonin boundary inside the toolkit.
 - [[TemperatureMinimumClockShifting]] - travel, shift-work, and phase-shifting branch inside the toolkit.
+- [[CircadianTravelAdaptation]] - travel-specific coordination of pre-departure and destination-time cues.
 - [[BedBasedSleepSensing]] - home sensing branch that can automate sleep-environment timing.
 - [[SocialJetlag]] - social-time mismatch that the toolkit tries to reduce.
 - [[ChronicInsomniaRecognitionAndTreatment]] - clinical pathway that uses the toolkit without reducing insomnia to timing alone.

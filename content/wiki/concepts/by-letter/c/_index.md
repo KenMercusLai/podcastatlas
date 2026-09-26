@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8247
+wiki_total_pages: 8250
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -896,6 +896,9 @@ wiki_pages:
   - key: "CircadianRhythmExperimentation"
     title: "Circadian Rhythm Experimentation"
     url: "/wiki/concepts/circadianrhythmexperimentation/"
+  - key: "CircadianTravelAdaptation"
+    title: "Circadian Travel Adaptation"
+    url: "/wiki/concepts/circadiantraveladaptation/"
   - key: "CircleOfCompetence"
     title: "Circle Of Competence"
     url: "/wiki/concepts/circleofcompetence/"

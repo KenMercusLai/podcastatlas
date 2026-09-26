@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 8247
+wiki_total_pages: 8250
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -347,6 +347,9 @@ wiki_pages:
   - key: "NonMoralPoliticalAnalysis"
     title: "Non-Moral Political Analysis"
     url: "/wiki/concepts/nonmoralpoliticalanalysis/"
+  - key: "NonSleepDeepRestRecovery"
+    title: "Non-Sleep Deep Rest Recovery"
+    url: "/wiki/concepts/nonsleepdeeprestrecovery/"
   - key: "NonStandardLodgingSearch"
     title: "Non-Standard Lodging Search / 非标住宿搜索"
     url: "/wiki/concepts/nonstandardlodgingsearch/"

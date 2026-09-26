@@ -735,12 +735,13 @@
       "fb80aad3fb0f83bb14ebfd51ceb86a6de23a0d1ebcaacbdb106de4eb8a3ab95d",
       "364a6adb5ce615964b1409fc3ac18d1a8f3824ae0603cd456b594fbfea4542d0",
       "97f8cc77304e41e3885229787f8659d88055623487dd7526205b5b4e510cf1f0",
-      "f24efd40c0c6afcf9067ba23b759935de70c4697445bc5d55c4633328ece6b74"
+      "f24efd40c0c6afcf9067ba23b759935de70c4697445bc5d55c4633328ece6b74",
+      "9fe4c68dcdba2239d5b685180fda81f5ec5e3c0e32bf471d9471328c09d598fc"
     ],
-    "paragraph_count": 735
+    "paragraph_count": 736
   },
-  "overview_commit": "2dfad1a50e68fcdcfe5387ef69d1b855bc952e4d",
-  "overview_digest": "42a9eac0a176fe762955c4d087ceeb78b08600fc137731815193666fd440e640",
+  "overview_commit": "88de6624cf971b41a5bdd446122dd3fa6a9ff41c",
+  "overview_digest": "2b102c6be9eb89472637bbace4b14a0b9fa42e893a86c595361b8cda317329f4",
   "paragraphs": [
     {
       "id": "0f4bc4fa6424f4467d6b682c4c4f438379c76dad0108626ff8925a0d26c76891",
@@ -21786,6 +21787,30 @@
         "JacoMacaco",
         "JennyOrangutan",
         "TheRestIsHistory"
+      ]
+    },
+    {
+      "id": "9fe4c68dcdba2239d5b685180fda81f5ec5e3c0e32bf471d9471328c09d598fc",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [],
+      "text": "The latest addition is [[ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965|AMA #16: Sleep, Vertigo, TBI, OCD, Tips for Travelers, Gut-Brain Axis & More]], a [[HubermanLab]] subscriber AMA with [[AndrewHuberman]]. It adds [[CircadianTravelAdaptation]], [[NonSleepDeepRestRecovery]], and [[VertigoVisualAnchoring]] while extending [[SleepHealthQQRT]], [[SleepWakeTimingToolkit]], [[OCDCompulsionReinforcementLoop]], [[ConcussionActiveRecovery]], [[ExerciseRecoveryReadiness]], and [[LifecycleOralHealthPrevention]]. Its core synthesis is that practical health tools work best as contextual supports: sleep duration is interpreted with QQRT and daytime function, travel cues should be coordinated without rigidity, NSDR should not conceal unsustainable load, and symptom tools, supplements, laboratory values, or advanced interventions should not become stand-alone diagnoses or universal protocols. No settled contradiction is recorded; the AMA's insomnia wording is narrower than formal assessment, and vertigo exercises, TBI interventions, EPA effects, hormone testing, fermented-food dosing, and oral-care claims remain source-scoped public education rather than individualized care.",
+      "topic_scores": {
+        "science-health-and-climate": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "AndrewHuberman",
+        "CircadianTravelAdaptation",
+        "ConcussionActiveRecovery",
+        "ExerciseRecoveryReadiness",
+        "HubermanLab",
+        "LifecycleOralHealthPrevention",
+        "NonSleepDeepRestRecovery",
+        "OCDCompulsionReinforcementLoop",
+        "SleepHealthQQRT",
+        "SleepWakeTimingToolkit",
+        "VertigoVisualAnchoring",
+        "ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965"
       ]
     }
   ],

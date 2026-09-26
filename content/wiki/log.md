@@ -22986,3 +22986,11 @@ Added source `425-the-history-of-chocolate-glt9203655246`; created `Cadbury`, `J
 ## [2026-09-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-26] ingest | AMA #16: Sleep, Vertigo, TBI, OCD, Tips for Travelers, Gut-Brain Axis & More
+
+Added source `ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965`; created `CircadianTravelAdaptation`, `NonSleepDeepRestRecovery`, and `VertigoVisualAnchoring`; and updated `SleepHealthQQRT`, `SleepWakeTimingToolkit`, `OCDCompulsionReinforcementLoop`, `ConcussionActiveRecovery`, `ExerciseRecoveryReadiness`, `LifecycleOralHealthPrevention`, the canonical index, and overview from their complete bounded source sets. Core synthesis: practical health tools should remain contextual supports rather than rigid protocols, stand-alone diagnoses, or substitutes for qualified care. No settled contradiction found; the AMA's insomnia wording is narrower than formal assessment, and vertigo, TBI, supplement, hormone, gut-health, and oral-care claims remain source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

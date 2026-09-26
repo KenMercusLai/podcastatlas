@@ -4,6 +4,7 @@ type: concept
 tags: [sleep, health, circadian-rhythm, assessment]
 sources:
   - guest-series-dr-matt-walker-the-biology-of-sleep-your-unique-sleep-needs-scim9752150487
+  - ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965
 last_updated: 2026-09-26
 knowledge_schema: synthesis-v1
 ---
@@ -18,6 +19,8 @@ The framework separates four questions that can fail independently. Quantity ask
 
 QQRT is useful because equal time in bed can produce different outcomes. Fragmentation can reduce quality, social schedules can reduce regularity, and an imposed early or late window can misalign timing even when nominal duration is adequate. Daytime mood, cognition, alertness, caffeine dependence, sleepiness, and safety provide functional checks, but they do not diagnose a particular disorder.
 
+The AMA applies that framework to the common question of whether five or six hours is enough. Rather than treating a short duration or tracker score as dispositive, it asks whether the person is alert and functional during the day while preserving the other QQRT dimensions. That functional audit qualifies fixed hour targets without making unusually short sleep universally adequate.
+
 ## Key Claims
 - Sleep quantity is necessary but insufficient for judging sleep health.
 - Quality includes continuity, efficiency, restoration, and stage organization rather than sleep onset alone.
@@ -31,14 +34,14 @@ QQRT is useful because equal time in bed can produce different outcomes. Fragmen
 - Quality and efficiency - [[guest-series-dr-matt-walker-the-biology-of-sleep-your-unique-sleep-needs-scim9752150487]] distinguishes time in bed from time asleep and discusses continuity and electrical depth.
 - Regularity and timing - [[guest-series-dr-matt-walker-the-biology-of-sleep-your-unique-sleep-needs-scim9752150487]] connects stable schedules and chronotype alignment with sleep quality.
 - Functional audit - [[guest-series-dr-matt-walker-the-biology-of-sleep-your-unique-sleep-needs-scim9752150487]] uses alarm dependence, late-morning grogginess, excessive daytime sleepiness, and early caffeine reliance as prompts to examine sleep sufficiency and quality.
+- Short-sleep interpretation - [[ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965]] applies QQRT and subjective daytime function to the question of whether five or six hours is sufficient and cautions against treating tracker output as the whole judgment.
 
 ## Counterevidence & Qualifications
 The source is a structured public-education summary, not a validated diagnostic instrument or individualized sleep prescription. Its seven-to-nine-hour range, roughly 85% efficiency threshold, plus-or-minus-30-minute regularity target, chronotype genetics, and mortality associations remain source-scoped. Age, pregnancy, illness, medication, caregiving, disability, shift work, insomnia, apnea, hypersomnia, and other sleep disorders can change interpretation. One poor night should not be converted into disease prediction or sleep anxiety.
 
 ## What Changed
-- Created a general sleep-health frame that separates duration from continuity, schedule stability, and biological timing.
-- Added chronotype alignment and daytime function as qualified interpretation layers.
-- Added a boundary between self-audit and clinical assessment for persistent or dangerous impairment.
+- Applied QQRT to short-sleep sufficiency without converting daytime function into proof that short sleep is universally adequate.
+- Reinforced the boundary against interpreting a tracker score without subjective function and broader clinical context.
 
 ## Related Concepts
 - [[SleepWakeTimingToolkit]] - practical cues and routines that influence regularity and timing.

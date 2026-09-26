@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [AMA #16: Sleep, Vertigo, TBI, OCD, Tips for Travelers, Gut-Brain Axis & More](sources/ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965.md) — Huberman Lab subscriber AMA on contextual sleep assessment, travel clock-shifting, vertigo, brain-injury and OCD boundaries, NSDR, biomarkers, gut health, and oral care.
 - [425. The History of Chocolate](sources/425-the-history-of-chocolate-glt9203655246.md) — The Rest Is History on cacao's ritual and beverage past, colonial commodity chains, solid-chocolate technology, Quaker enterprise, Bournville, and mass consumption.
 - [How Placebo Effects Work to Change Our Biology & Psychology](sources/how-placebo-effects-work-to-change-our-biology-psychology-scim2208611274.md) — Huberman Lab solo episode on placebo, nocebo, learned physiological conditioning, treatment framing, symptom-function separation, mindset effects, and clinical limits.
 - [VOL.101别再拿明星说事儿了 ICU医生揭穿这些减肥毒招](sources/vol-101-bie-zai-na-mingxing-shuoshier-le-icu-yisheng-jiechuan-zhexie-jianfei-duzhao-lpvfocagwyw5ahn49nt-yqkxom18.md) — 这病说来话长 episode on assessment before weight loss, rapid-loss harms, exercise overload, eating-disorder escalation, prescription and procedure boundaries, and sustainable maintenance.
@@ -13783,6 +13784,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lord Elgin](entities/LordElgin.md) — British diplomat at the center of Byron's cultural-plunder attack and Hobhouse's preservation counterargument.
 
 ## Concepts
+- [Circadian Travel Adaptation](concepts/CircadianTravelAdaptation.md) — Flexible travel clock-shifting through coordinated light, wake time, activity, meals, caffeine, social cues, and evening darkness.
+- [Non-Sleep Deep Rest Recovery](concepts/NonSleepDeepRestRecovery.md) — Guided-rest recovery frame separating optional stress regulation from sleep replacement or compensation for chronic overload.
+- [Vertigo Visual Anchoring](concepts/VertigoVisualAnchoring.md) — Visual-vestibular symptom tool with explicit diagnostic and urgent-escalation boundaries.
 - [Chocolate Drink-to-Solid Transition](concepts/ChocolateDrinkToSolidTransition.md) — Technological and cultural shift from cacao beverages to scalable solid eating chocolate.
 - [Colonial Chocolate Commodity Chain](concepts/ColonialChocolateCommodityChain.md) — Imperial chain linking cacao, sugar, plantation production, enslaved labor, shipping, and European consumption.
 - [Quaker Industrial Paternalism](concepts/QuakerIndustrialPaternalism.md) — Bournville's combination of worker welfare, model-community provision, and asymmetric employer authority.

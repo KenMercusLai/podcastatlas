@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-26
-as_of_overview_commit: bf79f7f07a8ba3f78b8ed6bb740fa04b017d4cfe
+as_of_overview_commit: 88de6624cf971b41a5bdd446122dd3fa6a9ff41c
 summary: "Podcast Atlas maps how technology, markets, institutions, culture, history, health, psychology, work, education, and care interact as evidence-bound lived systems."
-episode_count: 2872
-source_count: 2872
-paragraph_count: 735
+episode_count: 2874
+source_count: 2874
+paragraph_count: 736
 topic_count: 9
 ---
 
@@ -54,7 +54,7 @@ Media form, materiality, provenance, audience practice, and human-animal project
 
 ### Governance and Institutions
 
-Institutions turn power and investment into order through capacity, evidence, legitimacy, accountability, bounded consent, and safeguards against coercion, capture, hierarchy, normalized safety gaps, and contested care.
+Institutions turn power and investment into order through capacity, evidence, legitimacy, accountability, bounded consent, and safeguards against coercion and capture.
 
 - [[islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a|The Britain-and-Islamism episode]] makes [[IslamIslamismConflation]] a two-sided governance failure: institutions can stigmatize Muslims by generalizing from a political fringe, or grant organized actors unearned representative authority; [[IslamistEntryism]] therefore requires case-specific evidence, plural consultation, and protection against coercion rather than identity-based suspicion. Evidence: [[islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a]], [[IslamIslamismConflation]], [[IslamistEntryism]], [[Islamism]], [[PreventProgramme]].
 - [[defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029|The Natalia Olson interview]] adds that [[GovernmentInnovation]] depends on career-staff capacity, democratic accountability, [[OpenDataTransparency]], and consequential [[PolicyLeverageForSystemChange]] rather than business-style command alone; [[GlobalAIGovernanceFramework]] then extends the same logic internationally, while [[SovereignInfrastructureInterdependence]] limits claims of simple national technological separation. Evidence: [[defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029]], [[NataliaOlson]], [[JDVance]], [[GovernmentInnovation]], [[OpenDataTransparency]], [[PolicyLeverageForSystemChange]], [[GlobalAIGovernanceFramework]], [[SovereignInfrastructureInterdependence]].
@@ -68,21 +68,21 @@ Historical outcomes join legitimacy and material capacity to routes, logistics, 
 
 ### Psychology and Personal Development
 
-Personal development joins embodied regulation, relational safety, calibrated action, self-understanding, and pathway-limited belief effects while keeping crisis and treatment clinically bounded.
+Personal development joins embodied regulation, relational safety, calibrated action, self-understanding, and bounded belief effects while keeping crisis and treatment clinically scoped.
 
 - [[ColemanRuiz]] adds a first-person case to [[CompetenceStatusMentalHealthBlindSpot]]: discipline, fear, toughness, and team belonging can sustain elite performance while grief and distress accumulate; [[HeroReturnWithBoon]] and [[PositiveMasculinityCode]] then frame recovery as reintegration through trusted support, professional care, ordinary routines, vulnerability, and a wider range of strength. Evidence: [[overcoming-physical-emotional-challenges-coleman-ruiz-scim6632700547]], [[ColemanRuiz]], [[CompetenceStatusMentalHealthBlindSpot]], [[HeroReturnWithBoon]], [[PositiveMasculinityCode]].
 - [[ClinicalTrustBuilding]] and [[ClinicalOutcomeUncertainty]] add that clinical trust becomes usable when competence and responsibility are paired with honest limits, durable [[DoctorPatientCommunication]], specific encouragement, referral, and continuity; technical success alone does not establish survival, function, recovery, or discharge. Evidence: [[ClinicalTrustBuilding]], [[ClinicalOutcomeUncertainty]], [[DoctorPatientCommunication]], [[vol-128-he-7-wei-yisheng-de-liaotianju-jiangshu-le-12-wei-huanzhe-de-zhenshi-gushi-yishijie-litblbacavb9homqxo81g71oujyz]].
 
 ### Science, Health, and Climate
 
-Health and science literacy require mechanisms, objective measurement, uncertainty, urgent escalation, and qualified care; symptom relief or expectation effects do not by themselves establish restored function or disease modification.
+Health and science literacy require mechanisms, objective measurement, uncertainty, urgent escalation, and qualified care rather than stand-alone symptom or protocol claims.
 
 - [[guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory-scim9549338704|The Walker sleep-and-learning episode]] adds a staged learning cycle: [[MemoryConsolidationWindows]] begins with sleep-supported encoding readiness, [[SleepStageFunctionalArchitecture]] and [[SleepSpindleSchemaFormation]] distinguish deep non-REM fact-memory transfer from stage-two motor gains and REM-rich association, [[PostPracticeMotorConsolidation]] connects practice to quiet rest and sleep, and [[SleepAnxietyLoop]] keeps tracker feedback from becoming orthosomnia. Evidence: [[guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory-scim9549338704]], [[AndrewHuberman]], [[MatthewWalker]], [[MemoryConsolidationWindows]], [[SleepStageFunctionalArchitecture]], [[SleepSpindleSchemaFormation]], [[PostPracticeMotorConsolidation]], [[SleepAnxietyLoop]], [[SubconsciousCreativeIncubation]].
 - [[guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951|The Walker Huberman Lab sleep-series finale]] and [[lutsrqrswkekdi3ujtokur2q1hv-lutsrqrswkekdi3ujtokur2q1hv|VOL.109]] jointly bound dream science: [[DreamFunctionAndMeaning]] and [[SleepStageFunctionalArchitecture]] connect vivid REM dreaming with active memory, emotion, association, bodily or environmental input, and stage-dependent recall without creating a universal symbol code; [[NightmareImageryRehearsalTherapy]] and [[TargetedMemoryReactivation]] keep treatment inside bounded protocols; [[LucidDreamingEvidenceBoundary]] separates verified awareness from unsettled control; and [[DreamDistressAndParasomniaEscalation]] distinguishes ordinary dream content from persistent distress, daytime impairment, and sleepwalking that warrant assessment. Evidence: [[guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951]], [[AndrewHuberman]], [[MatthewWalker]], [[DreamFunctionAndMeaning]], [[SleepStageFunctionalArchitecture]], [[REMEmotionalMemorySeparation]], [[NightmareImageryRehearsalTherapy]], [[TargetedMemoryReactivation]], [[LucidDreamingEvidenceBoundary]], [[SleepAnxietyLoop]], [[SleepSupplementBoundary]], [[lutsrqrswkekdi3ujtokur2q1hv-lutsrqrswkekdi3ujtokur2q1hv]], [[DreamDistressAndParasomniaEscalation]], [[ZhangDaming]].
 
 ### Work, Education, and Society
 
-Work and education depend on role clarity, active learning, trustworthy feedback, fair conditions, skilled labor, social support, and institutional capacity.
+Work and education depend on role clarity, active learning, trustworthy feedback, fair conditions, skilled labor, social support, and contextual self-management boundaries.
 
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough. Evidence: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], [[LearningExperienceDesign]].
 - AI and product/work sources repeatedly show that capability becomes useful only when embedded in [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]], workflows, distribution, and customer or classroom context. Evidence: [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].

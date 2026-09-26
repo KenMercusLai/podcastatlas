@@ -25749,6 +25749,22 @@
       "updated": "2026-09-25",
       "url": "/wiki/concepts/circadianeatingwindowalignment/"
     },
+    "CircadianTravelAdaptation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8512997965 [SCIM8512997965].md",
+          "key": "ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965",
+          "show": "Huberman Lab",
+          "title": "AMA #16: Sleep, Vertigo, TBI, OCD, Tips for Travelers, Gut-Brain Axis & More",
+          "url": "/wiki/sources/ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/circadiantraveladaptation/"
+    },
     "Circe": {
       "episode_count": 1,
       "show_count": 1,
@@ -28541,9 +28557,9 @@
       "url": "/wiki/concepts/concerninfluencesorting/"
     },
     "ConcussionActiveRecovery": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM4201272551 [SCIM4201272551].md",
@@ -28565,6 +28581,13 @@
           "show": "Huberman Lab",
           "title": "How to Improve Brain Health & Offset Neurodegeneration | Dr. Gary Steinberg",
           "url": "/wiki/sources/how-to-improve-brain-health-offset-neurodegeneration-dr-gary-steinberg-scim3649091801/"
+        },
+        {
+          "episode_file": "SCIM8512997965 [SCIM8512997965].md",
+          "key": "ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965",
+          "show": "Huberman Lab",
+          "title": "AMA #16: Sleep, Vertigo, TBI, OCD, Tips for Travelers, Gut-Brain Axis & More",
+          "url": "/wiki/sources/ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965/"
         }
       ],
       "updated": "2026-09-25",
@@ -46120,9 +46143,9 @@
       "url": "/wiki/concepts/exercisepillarsforlongevity/"
     },
     "ExerciseRecoveryReadiness": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM4036424126 [SCIM4036424126].md",
@@ -46144,6 +46167,13 @@
           "show": "Huberman Lab",
           "title": "Tools for Nutrition & Fitness | Dr. Layne Norton",
           "url": "/wiki/sources/tools-for-nutrition-fitness-dr-layne-norton-scim5519161031/"
+        },
+        {
+          "episode_file": "SCIM8512997965 [SCIM8512997965].md",
+          "key": "ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965",
+          "show": "Huberman Lab",
+          "title": "AMA #16: Sleep, Vertigo, TBI, OCD, Tips for Travelers, Gut-Brain Axis & More",
+          "url": "/wiki/sources/ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965/"
         }
       ],
       "updated": "2026-09-23",
@@ -83530,9 +83560,9 @@
       "url": "/wiki/concepts/lifetimevsmachinetime/"
     },
     "LifecycleOralHealthPrevention": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lmjeyE3oACbaWtN3OmssKuQeubeh [lmjeyE3oACbaWtN3OmssKuQeubeh].md",
@@ -83547,6 +83577,13 @@
           "show": "这病说来话长",
           "title": "VOL.115冇满分父母，你做60分已不易 13位医生10学科出招身心性健康教育攻略｜儿童节专题",
           "url": "/wiki/sources/vol-115-mao-manfen-fumu-ni-zuo-60-fen-yi-buyi-13-wei-yisheng-10-xueke-chuzhao-shenxinxing-jiankang-jiaoyu-gonglue-ertongjie-zhuanti-ljlyg0kuqvuj2r89k6o5hhuefjt9/"
+        },
+        {
+          "episode_file": "SCIM8512997965 [SCIM8512997965].md",
+          "key": "ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965",
+          "show": "Huberman Lab",
+          "title": "AMA #16: Sleep, Vertigo, TBI, OCD, Tips for Travelers, Gut-Brain Axis & More",
+          "url": "/wiki/sources/ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965/"
         }
       ],
       "updated": "2026-09-25",
@@ -102220,6 +102257,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/concepts/nonmoralpoliticalanalysis/"
     },
+    "NonSleepDeepRestRecovery": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8512997965 [SCIM8512997965].md",
+          "key": "ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965",
+          "show": "Huberman Lab",
+          "title": "AMA #16: Sleep, Vertigo, TBI, OCD, Tips for Travelers, Gut-Brain Axis & More",
+          "url": "/wiki/sources/ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/nonsleepdeeprestrecovery/"
+    },
     "NonStandardLodgingSearch": {
       "episode_count": 1,
       "show_count": 1,
@@ -103019,9 +103072,9 @@
       "url": "/wiki/concepts/o2oplatformeconomics/"
     },
     "OCDCompulsionReinforcementLoop": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM8423515647 [SCIM8423515647].md",
@@ -103029,9 +103082,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: The Science & Treatment of Obsessive Compulsive Disorder (OCD)",
           "url": "/wiki/sources/essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647/"
+        },
+        {
+          "episode_file": "SCIM8512997965 [SCIM8512997965].md",
+          "key": "ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965",
+          "show": "Huberman Lab",
+          "title": "AMA #16: Sleep, Vertigo, TBI, OCD, Tips for Travelers, Gut-Brain Axis & More",
+          "url": "/wiki/sources/ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-09-26",
       "url": "/wiki/concepts/ocdcompulsionreinforcementloop/"
     },
     "OCDOrderPressure": {
@@ -128925,9 +128985,9 @@
       "url": "/wiki/concepts/sleepdisruptionsuiciderisksignal/"
     },
     "SleepHealthQQRT": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM9752150487 [SCIM9752150487].md",
@@ -128935,6 +128995,13 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Matt Walker: The Biology of Sleep & Your Unique Sleep Needs",
           "url": "/wiki/sources/guest-series-dr-matt-walker-the-biology-of-sleep-your-unique-sleep-needs-scim9752150487/"
+        },
+        {
+          "episode_file": "SCIM8512997965 [SCIM8512997965].md",
+          "key": "ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965",
+          "show": "Huberman Lab",
+          "title": "AMA #16: Sleep, Vertigo, TBI, OCD, Tips for Travelers, Gut-Brain Axis & More",
+          "url": "/wiki/sources/ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965/"
         }
       ],
       "updated": "2026-09-26",
@@ -129158,9 +129225,9 @@
       "url": "/wiki/concepts/sleeptemperaturetoolkit/"
     },
     "SleepWakeTimingToolkit": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 4,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "SCIM6408620468 [SCIM6408620468].md",
@@ -129217,6 +129284,13 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Matt Walker: Protocols to Improve Your Sleep",
           "url": "/wiki/sources/guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663/"
+        },
+        {
+          "episode_file": "SCIM8512997965 [SCIM8512997965].md",
+          "key": "ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965",
+          "show": "Huberman Lab",
+          "title": "AMA #16: Sleep, Vertigo, TBI, OCD, Tips for Travelers, Gut-Brain Axis & More",
+          "url": "/wiki/sources/ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965/"
         }
       ],
       "updated": "2026-09-26",
@@ -144824,6 +144898,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/concepts/verticalintegrationfordatacoldstart/"
+    },
+    "VertigoVisualAnchoring": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8512997965 [SCIM8512997965].md",
+          "key": "ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965",
+          "show": "Huberman Lab",
+          "title": "AMA #16: Sleep, Vertigo, TBI, OCD, Tips for Travelers, Gut-Brain Axis & More",
+          "url": "/wiki/sources/ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/vertigovisualanchoring/"
     },
     "VestibularLearningActivation": {
       "episode_count": 1,

@@ -6,6 +6,7 @@ sources:
   - accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551
   - essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826
   - how-to-improve-brain-health-offset-neurodegeneration-dr-gary-steinberg-scim3649091801
+  - ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965
 knowledge_schema: synthesis-v1
 last_updated: 2026-09-25
 ---
@@ -23,6 +24,8 @@ The practical recovery path is staged. Low-level aerobic activity comes first wh
 The smell-and-taste Essentials episode adds olfactory injury as a narrower monitoring branch: head impact can shear olfactory fibers at the cribriform plate, and smell recovery may provide one useful but incomplete recovery signal alongside balance, cognition, sleep, and other clinical measures.
 
 Steinberg reinforces the move away from prolonged sensory deprivation while adding diagnostic limits. Ordinary MRI may be unrevealing because concussion can involve molecular or functional disturbance rather than a gross structural lesion, and eye tracking can expose subtle deficits, especially when a baseline exists. An everyday bump whose symptoms resolve quickly differs from persistent or severe injury, but symptom evolution and red flags remain the reason evaluation comes before self-reassurance.
+
+The AMA emphasizes sleep and present-day rehabilitation rather than rumination about earlier poor sleep or diet. It also mentions creatine, transcranial magnetic stimulation, hyperbaric oxygen, glymphatic outflow, inflammation, and slightly elevated feet during sleep. These are best retained as source-scoped topics to discuss with qualified clinicians, not folded into the established staged-return pathway or used to imply that inflammation should be indiscriminately suppressed.
 
 ## Key Claims
 - Significant head injury should receive appropriate medical evaluation; scans may be needed, but normal structural imaging does not exclude concussion and eye tracking may add a functional measure in selected settings.
@@ -42,12 +45,13 @@ Steinberg reinforces the move away from prolonged sensory deprivation while addi
 - Olfactory marker - [[essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826]] describes cribriform-plate fiber injury and treats smell recovery as an incomplete indicator alongside balance, cognition, and sleep.
 - Imaging and eye-tracking boundary - [[how-to-improve-brain-health-offset-neurodegeneration-dr-gary-steinberg-scim3649091801]] says MRI often does not show concussion's subtle abnormalities and describes eye tracking as a potentially sensitive measure, especially with baseline data.
 - Relative-rest reinforcement - [[how-to-improve-brain-health-offset-neurodegeneration-dr-gary-steinberg-scim3649091801]] advises against both overstressing the injured brain and prolonged dark-room sensory deprivation.
+- Advanced-tool boundary - [[ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965]] foregrounds sleep and discusses creatine, TMS, hyperbaric oxygen, inflammation, glymphatic outflow, and sleep posture without supplying individualized selection criteria or controlled effect estimates.
 
 ## Counterevidence & Qualifications
-This page is not concussion medical advice. The sources put significant head injury inside medical evaluation, and neither supplements, smell training, eye tracking, nor a normal MRI are presented as definitive stand-alone clearance tools. Improvement in one domain does not establish readiness to return to risky activity, and repeated head injury changes the risk context.
+This page is not concussion medical advice. The sources put significant head injury inside medical evaluation, and neither supplements, smell training, eye tracking, TMS, hyperbaric oxygen, sleep posture, nor a normal MRI are definitive stand-alone treatment or clearance tools. Improvement in one domain does not establish readiness to return to risky activity, repeated head injury changes the risk context, and suppressing inflammation is not automatically beneficial.
 
 ## What Changed
-- Added structural-imaging limits, eye tracking, and a reinforced relative-rest boundary.
+- Added sleep and advanced-intervention discussion while keeping creatine, TMS, hyperbaric oxygen, glymphatic, inflammation, and sleep-posture claims outside the established staged-return core.
 
 ## Related Concepts
 - [[MedicalRiskManagement]] - clinical safety boundary for head injury and supplements.

@@ -6,6 +6,7 @@ sources:
   - essentials-build-muscle-size-increase-strength-improve-recovery-scim4036424126
   - essentials-supercharge-exercise-performance-recovery-with-cooling-scim3687301411
   - tools-for-nutrition-fitness-dr-layne-norton-scim5519161031
+  - ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965
 last_updated: 2026-09-23
 knowledge_schema: synthesis-v1
 ---
@@ -24,6 +25,8 @@ The intervention evidence adds a goal distinction. [[ExerciseHeatManagement]] us
 
 The Norton interview places these tactics beneath the recovery fundamentals: sleep, consistent nutrition, stress management, and overall activity. It also narrows post-workout urgency. A high-quality protein meal within a few hours is reasonable, but immediate whey and fast carbohydrate are not required after every session; for most people training once daily, total daily carbohydrate matters more than rapid glycogen replenishment, and fruit can contribute alongside other carbohydrate sources.
 
+The AMA adds [[NonSleepDeepRestRecovery]] as an optional post-training downshift while turning repeated need for it into a load-management clue. If every session demands a rescue practice, intensity or duration may be too high. The episode's suggestion to sometimes stop at roughly 80-90% effort supports sustainable consistency but remains a general heuristic rather than a readiness test or sport-specific prescription.
+
 ## Key Claims
 - Recovery can be tracked against a person's own repeatable baseline rather than a population score.
 - Morning grip force is presented as a simple proxy for current nervous-system force production.
@@ -41,15 +44,14 @@ The Norton interview places these tactics beneath the recovery fundamentals: sle
 - NSAID tradeoff: [[essentials-build-muscle-size-increase-strength-improve-recovery-scim4036424126]] and [[essentials-supercharge-exercise-performance-recovery-with-cooling-scim3687301411]] caution that routine performance or recovery use can conflict with adaptation or organ-safety considerations.
 - Recovery hierarchy: [[tools-for-nutrition-fitness-dr-layne-norton-scim5519161031]] ranks sleep, consistent nutrition, stress management, and overall activity above narrow recovery hacks.
 - Fuel timing: [[tools-for-nutrition-fitness-dr-layne-norton-scim5519161031]] says a protein meal within a few hours is reasonable and that total daily carbohydrate matters more than immediate glycogen replenishment for most once-daily trainees.
+- NSDR and load signal: [[ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965]] presents NSDR as a possible post-training recovery aid while treating dependence after every session as evidence to reconsider training dose.
 
 ## Counterevidence & Qualifications
 The episode summaries supply no validation data, sensitivity, specificity, test-retest reliability, or clinical thresholds for either readiness test, and the cooling source omits complete study methods and individualized temperature targets. Grip dynamometry and slow-exhale measures are influenced by technique and health status, so poor results do not diagnose overtraining and good results do not establish clearance. Protein and carbohydrate needs vary with body size, diet, training volume, sport, session frequency, metabolic health, and clinical context; the relaxed timing claim does not apply automatically to rapid competition turnaround or repeated same-day training. Breathing symptoms, chest pain, faintness, acute injury, severe fatigue, persistent performance decline, or signs of heat illness require appropriate assessment.
 
 ## What Changed
-- Added sleep, nutrition, stress management, and overall activity as the recovery hierarchy above tactical interventions.
-- Qualified immediate post-workout protein and glycogen urgency for most once-daily training.
-- Distinguished targeted heat removal from whole-body cold immersion after resistance training.
-- Made acute safety, competition turnaround, pain relief, and long-term adaptation explicit competing goals.
+- Added NSDR as an optional recovery aid rather than a substitute for appropriate training load.
+- Added repeated need for rescue and inability to leave capacity in reserve as practical prompts to reassess intensity or duration.
 
 ## Related Concepts
 - [[StrengthBenchmarkTesting]] - population and periodic strength testing that should not be conflated with morning readiness trends.
@@ -60,3 +62,4 @@ The episode summaries supply no validation data, sensitivity, specificity, test-
 - [[ExerciseHeatManagement]] - targeted heat-removal framework using moderate cooling of glabrous skin.
 - [[MedicalRiskManagement]] - escalation boundary when symptoms or treatment needs exceed self-monitoring.
 - [[ProteinBodyCompositionLever]] - total-protein and meal-timing context for recovery and adaptation.
+- [[NonSleepDeepRestRecovery]] - guided-rest branch and overload-compensation boundary.

@@ -4,7 +4,8 @@ type: concept
 tags: [psychiatry, ocd, anxiety, learning]
 sources:
   - essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647
-last_updated: 2026-08-29
+  - ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965
+last_updated: 2026-09-26
 knowledge_schema: synthesis-v1
 ---
 
@@ -17,6 +18,8 @@ The OCD compulsion reinforcement loop is the source's mechanism for how an intru
 [[essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647]] makes this loop the practical center of [[ObsessiveCompulsiveDisorder]]. The episode's repeated claim is not simply that obsessions are unpleasant or that rituals are repetitive; it is that relief after a ritual becomes a learning signal. The compulsion solves the immediate feeling enough to make the behavior more likely next time, while leaving the underlying obsession more powerful.
 
 The loop also explains why treatment targets ritual interruption rather than comfort alone. [[ExposureResponsePreventionForOCD]] asks the patient to encounter a feared trigger while not performing the usual ritual, so the anxiety can rise and fall without confirming that compulsion is required. [[CorticostriatalThalamicLoop]] supplies the neural background by linking recurrent salience, action selection, and gating to cortex-striatum-thalamus circuitry.
+
+The AMA reinforces the same loop while framing treatment as a plasticity sequence: neurological or pharmacological support may create conditions in which therapist-guided exposure and resistance to compulsions can train a different response. This does not reduce OCD to basal-ganglia “miswiring” or make replacement behaviors, SSRIs, or neuroplasticity language universal prescriptions.
 
 ## Key Claims
 - Anxiety is the bridge between intrusive obsession and compulsive response.
@@ -32,12 +35,13 @@ The loop also explains why treatment targets ritual interruption rather than com
 - Symptom range - [[essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647]] applies the loop across checking, repetition, order, contamination, and related categories.
 - Fear mapping - [[essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647]] stresses identifying the largest catastrophic fear behind the obsession.
 - Treatment mechanism - [[essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647]] describes exposure-based CBT as anxiety tolerance plus doing the opposite of the usual compulsion.
+- Plasticity framing - [[ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965]] says compulsions can exacerbate obsessions and presents medication or neurological support, exposure, response resistance, and selected replacement behavior as severity- and clinician-dependent parts of change.
 
 ## Counterevidence & Qualifications
-The source gives a high-level reinforcement model rather than a full learning-theory account, individualized formulation, or relapse-prevention protocol. It also does not claim that every repetitive behavior is OCD or that anxiety tolerance alone replaces assessment, medication decisions, or professional care.
+The sources give high-level reinforcement and circuit models rather than a full learning-theory account, individualized formulation, or relapse-prevention protocol. They do not establish that every repetitive behavior is OCD, that basal-ganglia “miswiring” is a complete cause, or that anxiety tolerance alone replaces assessment, medication decisions, or professional care.
 
 ## What Changed
-- Created the reinforcement-loop concept to hold the episode's core mechanism and treatment target.
+- Added the qualified treatment-window idea that biological support and therapist-guided learning can work together without making either a universal protocol.
 
 ## Related Concepts
 - [[ObsessiveCompulsiveDisorder]] - condition in which the loop is presented.
