@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 8193
+wiki_total_pages: 8196
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -869,6 +869,9 @@ wiki_pages:
   - key: "TwoRatsCourageMaxim"
     title: "Two Rats Courage Maxim / 两鼠斗穴勇者胜"
     url: "/wiki/concepts/tworatscouragemaxim/"
+  - key: "TwoProcessSleepRegulation"
+    title: "Two-Process Sleep Regulation"
+    url: "/wiki/concepts/twoprocesssleepregulation/"
   - key: "TwoRoundPresidentialElection"
     title: "Two-Round Presidential Election"
     url: "/wiki/concepts/tworoundpresidentialelection/"

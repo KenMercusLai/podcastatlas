@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [GUEST SERIES | Dr. Matt Walker: The Biology of Sleep & Your Unique Sleep Needs](sources/guest-series-dr-matt-walker-the-biology-of-sleep-your-unique-sleep-needs-scim9752150487.md) — Huberman Lab sleep-series opener on QQRT, sleep stages, circadian and adenosine regulation, systemic sleep-loss effects, chronotype, and daytime safety.
 - [437. Luther: A World Torn Apart (Part 5)](sources/437-luther-a-world-torn-apart-part-5-glt3328267667.md) — The Rest Is History finale on Luther's split with Karlstadt and Müntzer, the Peasants' War, two-kingdoms theology, and his morally divided legacy.
 - [Anthropic IPO at Risk, Meta's Muse Pop, Token Prices Fall, Open Source Gains Share, Alignment Fails](sources/all-in-with-chamath-jason-sacks-friedberg-anthropic-ipo-at-risk-metas-muse-pop-token-prices-fall-open-source-g.md) — All-In on frontier-model commoditization, Anthropic IPO disclosure, consumer agents, delegated commerce, AI accountability, and biological validation.
 - [438. The Moonwalkers, with Tom Hanks](sources/438-the-moonwalkers-with-tom-hanks-glt1422432857.md) — The Rest Is History conversation restoring contingency, staged learning, crew responsibility, crisis discipline, and technological optimism to the Apollo story.
@@ -13711,6 +13712,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lord Elgin](entities/LordElgin.md) — British diplomat at the center of Byron's cultural-plunder attack and Hobhouse's preservation counterargument.
 
 ## Concepts
+- [Sleep Health QQRT](concepts/SleepHealthQQRT.md) — Four-part sleep-health frame covering quantity, quality, regularity, and chronotype-aligned timing.
+- [Two-Process Sleep Regulation](concepts/TwoProcessSleepRegulation.md) — Interaction between circadian alerting and adenosine-based homeostatic sleep pressure.
+- [Systemic Sleep-Loss Effects](concepts/SystemicSleepLossEffects.md) — Cross-system framework for cognitive, emotional, metabolic, endocrine, immune, cardiovascular, appetite, and safety effects of insufficient sleep.
 - [Sola Scriptura and Interpretive Pluralism](concepts/SolaScripturaInterpretivePluralism.md) — Scriptural supremacy empowers institutional challenge while permitting incompatible reform conclusions.
 - [Two Kingdoms Doctrine](concepts/TwoKingdomsDoctrine.md) — Luther's distinction between spiritual Christian freedom and worldly political authority.
 - [Revolutionary Outflanking](concepts/RevolutionaryOutflanking.md) — Followers extend portable movement principles and recast the founder as a conservative obstacle.

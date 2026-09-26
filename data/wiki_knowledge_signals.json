@@ -92716,9 +92716,9 @@
       "url": "/wiki/entities/matthewhill/"
     },
     "MatthewWalker": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM1698271951 [SCIM1698271951].md",
@@ -92754,6 +92754,13 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Matt Walker: Protocols to Improve Your Sleep",
           "url": "/wiki/sources/guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663/"
+        },
+        {
+          "episode_file": "SCIM9752150487 [SCIM9752150487].md",
+          "key": "guest-series-dr-matt-walker-the-biology-of-sleep-your-unique-sleep-needs-scim9752150487",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Matt Walker: The Biology of Sleep & Your Unique Sleep Needs",
+          "url": "/wiki/sources/guest-series-dr-matt-walker-the-biology-of-sleep-your-unique-sleep-needs-scim9752150487/"
         }
       ],
       "updated": "2026-09-26",
@@ -127240,6 +127247,22 @@
       "updated": "2026-09-25",
       "url": "/wiki/concepts/sleepdisruptionsuiciderisksignal/"
     },
+    "SleepHealthQQRT": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9752150487 [SCIM9752150487].md",
+          "key": "guest-series-dr-matt-walker-the-biology-of-sleep-your-unique-sleep-needs-scim9752150487",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Matt Walker: The Biology of Sleep & Your Unique Sleep Needs",
+          "url": "/wiki/sources/guest-series-dr-matt-walker-the-biology-of-sleep-your-unique-sleep-needs-scim9752150487/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/sleephealthqqrt/"
+    },
     "SleepImmuneRepair": {
       "episode_count": 1,
       "show_count": 1,
@@ -127312,9 +127335,9 @@
       "url": "/wiki/concepts/sleepspindleschemaformation/"
     },
     "SleepStageFunctionalArchitecture": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 3,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "SCIM7156610982 [SCIM7156610982].md",
@@ -127364,6 +127387,13 @@
           "show": "这病说来话长",
           "title": "VOL.109精神心理科｜你还记得昨晚的梦吗？这2种情况需要就医",
           "url": "/wiki/sources/lutsrqrswkekdi3ujtokur2q1hv-lutsrqrswkekdi3ujtokur2q1hv/"
+        },
+        {
+          "episode_file": "SCIM9752150487 [SCIM9752150487].md",
+          "key": "guest-series-dr-matt-walker-the-biology-of-sleep-your-unique-sleep-needs-scim9752150487",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Matt Walker: The Biology of Sleep & Your Unique Sleep Needs",
+          "url": "/wiki/sources/guest-series-dr-matt-walker-the-biology-of-sleep-your-unique-sleep-needs-scim9752150487/"
         }
       ],
       "updated": "2026-09-26",
@@ -134543,6 +134573,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/systemiclupuserythematosusmanagement/"
     },
+    "SystemicSleepLossEffects": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9752150487 [SCIM9752150487].md",
+          "key": "guest-series-dr-matt-walker-the-biology-of-sleep-your-unique-sleep-needs-scim9752150487",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Matt Walker: The Biology of Sleep & Your Unique Sleep Needs",
+          "url": "/wiki/sources/guest-series-dr-matt-walker-the-biology-of-sleep-your-unique-sleep-needs-scim9752150487/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/systemicsleeplosseffects/"
+    },
     "TCMSummerPatternDifferentiation": {
       "episode_count": 1,
       "show_count": 1,
@@ -140507,6 +140553,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/concepts/twokingdomsdoctrine/"
+    },
+    "TwoProcessSleepRegulation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9752150487 [SCIM9752150487].md",
+          "key": "guest-series-dr-matt-walker-the-biology-of-sleep-your-unique-sleep-needs-scim9752150487",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Matt Walker: The Biology of Sleep & Your Unique Sleep Needs",
+          "url": "/wiki/sources/guest-series-dr-matt-walker-the-biology-of-sleep-your-unique-sleep-needs-scim9752150487/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/twoprocesssleepregulation/"
     },
     "TwoRoundPresidentialElection": {
       "episode_count": 2,

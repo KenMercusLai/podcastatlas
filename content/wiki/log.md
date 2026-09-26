@@ -22782,3 +22782,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-26] ingest | GUEST SERIES | Dr. Matt Walker: The Biology of Sleep & Your Unique Sleep Needs
+
+Added source `guest-series-dr-matt-walker-the-biology-of-sleep-your-unique-sleep-needs-scim9752150487`; created `SleepHealthQQRT`, `TwoProcessSleepRegulation`, and `SystemicSleepLossEffects`; and updated `MatthewWalker`, `SleepStageFunctionalArchitecture`, the canonical index, and overview from their complete bounded source sets. Core synthesis: sleep health depends on quantity, quality, regularity, and chronotype-aligned timing; variable non-REM/REM architecture and interacting circadian and adenosine processes explain why duration alone misses restoration and daytime risk; and insufficient sleep can affect cognition, emotion, metabolism, endocrine function, immunity, cardiovascular regulation, appetite, and safety without making one bad night a chronic-disease verdict. No settled contradiction found. Exact cycle, efficiency, regularity, hormone, glucose, immune, vaccine, cardiovascular, gene-expression, appetite, mortality, brain-clearing, position, and yawning claims remain source-scoped public education. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

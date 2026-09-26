@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1211
+topic_total_pages: 1215
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1765,6 +1765,9 @@ topic_concepts:
   - key: "SleepDurationUShape"
     title: "Sleep Duration U-Shape"
     url: "/wiki/concepts/sleepdurationushape/"
+  - key: "SleepHealthQQRT"
+    title: "Sleep Health QQRT"
+    url: "/wiki/concepts/sleephealthqqrt/"
   - key: "SleepImmuneRepair"
     title: "Sleep Immune Repair"
     url: "/wiki/concepts/sleepimmunerepair/"
@@ -1954,6 +1957,9 @@ topic_concepts:
   - key: "SystemicLupusErythematosusManagement"
     title: "Systemic Lupus Erythematosus Management / 系统性红斑狼疮管理"
     url: "/wiki/concepts/systemiclupuserythematosusmanagement/"
+  - key: "SystemicSleepLossEffects"
+    title: "Systemic Sleep-Loss Effects"
+    url: "/wiki/concepts/systemicsleeplosseffects/"
   - key: "TargetedMemoryReactivation"
     title: "Targeted Memory Reactivation"
     url: "/wiki/concepts/targetedmemoryreactivation/"
@@ -2008,6 +2014,9 @@ topic_concepts:
   - key: "TunnelingTax"
     title: "Tunneling Tax / 管窥税"
     url: "/wiki/concepts/tunnelingtax/"
+  - key: "TwoProcessSleepRegulation"
+    title: "Two-Process Sleep Regulation"
+    url: "/wiki/concepts/twoprocesssleepregulation/"
   - key: "UnexpectedApproachFortressAssault"
     title: "Unexpected-Approach Fortress Assault / 意外进路式要塞突袭"
     url: "/wiki/concepts/unexpectedapproachfortressassault/"
@@ -3408,6 +3417,9 @@ topic_sources:
   - key: "guest-series-dr-matt-walker-improve-sleep-to-boost-mood-emotional-regulation-scim1989437288"
     title: "GUEST SERIES | Dr. Matt Walker: Improve Sleep to Boost Mood & Emotional Regulation"
     url: "/wiki/sources/guest-series-dr-matt-walker-improve-sleep-to-boost-mood-emotional-regulation-scim1989437288/"
+  - key: "guest-series-dr-matt-walker-the-biology-of-sleep-your-unique-sleep-needs-scim9752150487"
+    title: "GUEST SERIES | Dr. Matt Walker: The Biology of Sleep & Your Unique Sleep Needs"
+    url: "/wiki/sources/guest-series-dr-matt-walker-the-biology-of-sleep-your-unique-sleep-needs-scim9752150487/"
   - key: "guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951"
     title: "GUEST SERIES | Dr. Matt Walker: The Science of Dreams, Nightmares & Lucid Dreaming"
     url: "/wiki/sources/guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951/"

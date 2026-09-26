@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 8193
+wiki_total_pages: 8196
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -884,6 +884,9 @@ wiki_pages:
   - key: "SleepDurationUShape"
     title: "Sleep Duration U-Shape"
     url: "/wiki/concepts/sleepdurationushape/"
+  - key: "SleepHealthQQRT"
+    title: "Sleep Health QQRT"
+    url: "/wiki/concepts/sleephealthqqrt/"
   - key: "SleepImmuneRepair"
     title: "Sleep Immune Repair"
     url: "/wiki/concepts/sleepimmunerepair/"
@@ -2213,6 +2216,9 @@ wiki_pages:
   - key: "SystemicRiskException"
     title: "Systemic Risk Exception"
     url: "/wiki/concepts/systemicriskexception/"
+  - key: "SystemicSleepLossEffects"
+    title: "Systemic Sleep-Loss Effects"
+    url: "/wiki/concepts/systemicsleeplosseffects/"
   - key: "SanhuLawAppointmentConstraint"
     title: "三互法任官限制 / Sanhu Law Appointment Constraint"
     url: "/wiki/concepts/sanhulawappointmentconstraint/"
