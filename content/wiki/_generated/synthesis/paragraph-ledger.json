@@ -744,12 +744,13 @@
       "9fe4c68dcdba2239d5b685180fda81f5ec5e3c0e32bf471d9471328c09d598fc",
       "86e3b56d496e8d1657bce09184013c2cb10b205729180137608d7f31f504f61d",
       "9c6a00cde7f684f1bb851d74c7fe1c200cb764a6ec54495df3c75f137f04e3c4",
-      "3b0c014c987a39993d088c448d1248990efc00e4ac954c464445df342bccebfe"
+      "3b0c014c987a39993d088c448d1248990efc00e4ac954c464445df342bccebfe",
+      "f9eaf87ee30e858ab40b0c1553f63df088fff30d966a9c32ab3a98f5c2560e42"
     ],
-    "paragraph_count": 744
+    "paragraph_count": 745
   },
-  "overview_commit": "4ac9dc21fde1b9881f8ff2d34fc5f74e8118dfa9",
-  "overview_digest": "d4c82fc502733aeebc6a3e7ca0ad8c9cc7fb37ec959609197f9e55e9d2f46ea9",
+  "overview_commit": "744959d4728f89b503848484b26acf77b765aa8e",
+  "overview_digest": "6c3786837cc2b94c3d0ae0dbc9aaa83f4f03e4dd9b7c0c63ae6f83e84369181b",
   "paragraphs": [
     {
       "id": "3ee4e9dfdf318618e8dbe288b29547869e163245e372cfb3556ec4faaa1fd122",
@@ -22006,6 +22007,26 @@
         "TheRestIsHistory",
         "VernacularLiteraryLegitimacy",
         "WifeOfBath"
+      ]
+    },
+    {
+      "id": "f9eaf87ee30e858ab40b0c1553f63df088fff30d966a9c32ab3a98f5c2560e42",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[tools-to-enhance-working-memory-attention-scim1948560111|Tools to Enhance Working Memory & Attention]], a solo [[HubermanLab]] episode with [[AndrewHuberman]] on [[WorkingMemoryActiveControl]], immediate action sequencing, distractor suppression, task switching, and [[DopamineInvertedU]]. It extends [[DopamineToolTiming]], [[NonSleepDeepRestRecovery]], [[ColdExposureDoseAndSafety]], and [[SoundBasedStateRegulation]]. Its core synthesis is that working memory is temporary active control rather than stored memory, while attempts to improve it must account for baseline state and evidence tier: bromocriptine supplies a direct baseline-dependent example, whereas yoga nidra, cold exposure, binaural beats, L-tyrosine, and mucuna pruriens vary in directness and risk. No settled contradiction is recorded; informal span tests are not diagnostic, dopamine change is not proof of working-memory benefit, cold timing is extrapolated, and supplement or prescription approaches remain medically bounded.",
+      "topic_scores": {
+        "governance-and-institutions": 2
+      },
+      "wikilinks": [
+        "AndrewHuberman",
+        "ColdExposureDoseAndSafety",
+        "DopamineInvertedU",
+        "DopamineToolTiming",
+        "HubermanLab",
+        "NonSleepDeepRestRecovery",
+        "SoundBasedStateRegulation",
+        "WorkingMemoryActiveControl",
+        "tools-to-enhance-working-memory-attention-scim1948560111"
       ]
     }
   ],

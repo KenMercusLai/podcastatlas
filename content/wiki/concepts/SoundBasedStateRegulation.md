@@ -4,7 +4,8 @@ type: concept
 tags: [neuroscience, sound, focus, learning, anxiety]
 sources:
   - essentials-how-hearing-balance-enhance-focus-learning-scim1135697510
-last_updated: 2026-09-21
+  - tools-to-enhance-working-memory-attention-scim1948560111
+last_updated: 2026-09-27
 knowledge_schema: synthesis-v1
 ---
 
@@ -16,7 +17,7 @@ Sound-based state regulation is the deliberate use of binaural beats or low-leve
 ## Current Synthesis
 The source separates two sound tools that are often blurred together. Binaural beats present different frequencies to the two ears and are framed mainly as possible state-shifting aids, with slower delta, theta, or alpha patterns emphasized for anxiety reduction and chronic pain. Low-level white noise is instead presented as a possible adult learning aid that may support auditory working memory, alertness, and dopaminergic midbrain activity.
 
-The working judgment is conditional rather than prescriptive. The episode says binaural beats are not uniquely special for learning, quiet white noise may help only some adults, and developing auditory systems deserve a stricter boundary because prolonged infant exposure may disturb tonotopic-map formation.
+The working judgment is conditional rather than prescriptive. The hearing episode says binaural beats are not uniquely special for learning, quiet white noise may help only some adults, and developing auditory systems deserve a stricter boundary because prolonged infant exposure may disturb tonotopic-map formation. [[tools-to-enhance-working-memory-attention-scim1948560111]] adds small-to-moderate working-memory findings for 40 Hz and 15 Hz binaural beats while explicitly leaving their dopamine mechanism unestablished.
 
 ## Key Claims
 - Sound can be used as an environmental state cue, but binaural beats and white noise operate through different proposed mechanisms.
@@ -25,18 +26,19 @@ The working judgment is conditional rather than prescriptive. The episode says b
 - The proposed adult white-noise mechanism includes alertness and modulation of dopamine-related midbrain regions.
 - Volume and salience matter: the suggested noise is quiet and backgrounded, not loud or attention-grabbing.
 - Developmental timing matters because prolonged white noise may disrupt auditory-map formation before tonotopic organization is established.
+- Reported binaural-beat working-memory effects are modest and do not establish a dopamine mechanism.
 
 ## Evidence
 - Binaural-beat state claims: [[essentials-how-hearing-balance-enhance-focus-learning-scim1135697510]] links different beat ranges to sleep, meditation, alertness, recall, sustained focus, learning, anxiety reduction, and chronic pain while denying that they are uniquely effective for learning.
 - Adult white-noise claims: [[essentials-how-hearing-balance-enhance-focus-learning-scim1135697510]] describes low-intensity white noise as improving an auditory working-memory task and modulating dopaminergic midbrain regions and the right superior temporal sulcus.
 - Developmental boundary: [[essentials-how-hearing-balance-enhance-focus-learning-scim1135697510]] cites animal work in which prolonged white-noise exposure disrupted developing tonotopic maps and distinguishes that setting from adult use after map formation.
+- Working-memory evidence: [[tools-to-enhance-working-memory-attention-scim1948560111]] reports small-to-moderate improvement with 40 Hz and 15 Hz binaural beats while saying the discussed studies do not establish a dopamine link.
 
 ## Counterevidence & Qualifications
-The source does not provide study sizes, populations, effect magnitudes, protocols, or a comparison showing that these sounds outperform simpler environmental controls. Benefits may vary by person and task, and the episode's dopamine, anxiety, chronic-pain, and infant-development claims remain source-scoped. This page is not pediatric, audiological, pain-treatment, or mental-health guidance.
+The sources do not provide enough study detail to establish who benefits, how consistently, or whether these sounds outperform simpler environmental controls. Effects may vary by person and task, and the dopamine, anxiety, chronic-pain, working-memory, and infant-development claims remain source-scoped. This page is not pediatric, audiological, pain-treatment, or mental-health guidance.
 
 ## What Changed
-- Created a conditional framework separating binaural-beat state shifting from low-level adult white-noise support.
-- Added the developmental boundary that infant auditory-map formation should not be generalized from adult use.
+- Added qualified 40 Hz and 15 Hz working-memory findings while preserving the unknown dopamine mechanism.
 
 ## Related Concepts
 - [[SelectiveAuditoryAttention]] - explains when background sound competes with rather than supports a chosen signal.

@@ -8295,9 +8295,9 @@
       "url": "/wiki/entities/andreaskarlstadt/"
     },
     "AndrewHuberman": {
-      "episode_count": 45,
+      "episode_count": 46,
       "show_count": 1,
-      "source_note_count": 45,
+      "source_note_count": 46,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -8613,6 +8613,13 @@
           "show": "Huberman Lab",
           "title": "How to Improve Oral Health & Its Critical Role in Brain & Body Health",
           "url": "/wiki/sources/how-to-improve-oral-health-its-critical-role-in-brain-body-health-scim4393023678/"
+        },
+        {
+          "episode_file": "SCIM1948560111 [SCIM1948560111].md",
+          "key": "tools-to-enhance-working-memory-attention-scim1948560111",
+          "show": "Huberman Lab",
+          "title": "Tools to Enhance Working Memory & Attention",
+          "url": "/wiki/sources/tools-to-enhance-working-memory-attention-scim1948560111/"
         }
       ],
       "updated": "2026-09-27",
@@ -27765,9 +27772,9 @@
       "url": "/wiki/concepts/cognitivetrustallocation/"
     },
     "ColdExposureDoseAndSafety": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1100391235 [SCIM1100391235].md",
@@ -27775,9 +27782,16 @@
           "show": "Huberman Lab",
           "title": "AMA #18: Cold Therapy Advice, Skin Health Tips, Motivation, Learning Strategies & More",
           "url": "/wiki/sources/ama-18-cold-therapy-advice-skin-health-tips-motivation-learning-strategies-more-scim1100391235/"
+        },
+        {
+          "episode_file": "SCIM1948560111 [SCIM1948560111].md",
+          "key": "tools-to-enhance-working-memory-attention-scim1948560111",
+          "show": "Huberman Lab",
+          "title": "Tools to Enhance Working Memory & Attention",
+          "url": "/wiki/sources/tools-to-enhance-working-memory-attention-scim1948560111/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/coldexposuredoseandsafety/"
     },
     "ColdShiveringThermogenesis": {
@@ -38540,9 +38554,9 @@
       "url": "/wiki/concepts/dopaminebaselinemaintenance/"
     },
     "DopamineInvertedU": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM3386045656 [SCIM3386045656].md",
@@ -38557,6 +38571,13 @@
           "show": "Huberman Lab",
           "title": "How to Optimize Cognitive Function & Brain Health | Dr. Mark D'Esposito",
           "url": "/wiki/sources/how-to-optimize-cognitive-function-brain-health-dr-mark-desposito-scim4205449835/"
+        },
+        {
+          "episode_file": "SCIM1948560111 [SCIM1948560111].md",
+          "key": "tools-to-enhance-working-memory-attention-scim1948560111",
+          "show": "Huberman Lab",
+          "title": "Tools to Enhance Working Memory & Attention",
+          "url": "/wiki/sources/tools-to-enhance-working-memory-attention-scim1948560111/"
         }
       ],
       "updated": "2026-09-27",
@@ -38579,9 +38600,9 @@
       "url": "/wiki/concepts/dopaminepeaktroughbaseline/"
     },
     "DopamineToolTiming": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM6495209379 [SCIM6495209379].md",
@@ -38596,9 +38617,16 @@
           "show": "Huberman Lab",
           "title": "Leverage Dopamine to Overcome Procrastination & Optimize Effort",
           "url": "/wiki/sources/leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288/"
+        },
+        {
+          "episode_file": "SCIM1948560111 [SCIM1948560111].md",
+          "key": "tools-to-enhance-working-memory-attention-scim1948560111",
+          "show": "Huberman Lab",
+          "title": "Tools to Enhance Working Memory & Attention",
+          "url": "/wiki/sources/tools-to-enhance-working-memory-attention-scim1948560111/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/dopaminetooltiming/"
     },
     "DopamineWantingLoop": {
@@ -68460,9 +68488,9 @@
       "url": "/wiki/entities/hubeihumanoidinnovationcenter/"
     },
     "HubermanLab": {
-      "episode_count": 45,
+      "episode_count": 46,
       "show_count": 1,
-      "source_note_count": 45,
+      "source_note_count": 46,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -68778,6 +68806,13 @@
           "show": "Huberman Lab",
           "title": "How to Improve Oral Health & Its Critical Role in Brain & Body Health",
           "url": "/wiki/sources/how-to-improve-oral-health-its-critical-role-in-brain-body-health-scim4393023678/"
+        },
+        {
+          "episode_file": "SCIM1948560111 [SCIM1948560111].md",
+          "key": "tools-to-enhance-working-memory-attention-scim1948560111",
+          "show": "Huberman Lab",
+          "title": "Tools to Enhance Working Memory & Attention",
+          "url": "/wiki/sources/tools-to-enhance-working-memory-attention-scim1948560111/"
         }
       ],
       "updated": "2026-09-27",
@@ -103174,9 +103209,9 @@
       "url": "/wiki/concepts/nonmoralpoliticalanalysis/"
     },
     "NonSleepDeepRestRecovery": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM8512997965 [SCIM8512997965].md",
@@ -103184,9 +103219,16 @@
           "show": "Huberman Lab",
           "title": "AMA #16: Sleep, Vertigo, TBI, OCD, Tips for Travelers, Gut-Brain Axis & More",
           "url": "/wiki/sources/ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965/"
+        },
+        {
+          "episode_file": "SCIM1948560111 [SCIM1948560111].md",
+          "key": "tools-to-enhance-working-memory-attention-scim1948560111",
+          "show": "Huberman Lab",
+          "title": "Tools to Enhance Working Memory & Attention",
+          "url": "/wiki/sources/tools-to-enhance-working-memory-attention-scim1948560111/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/nonsleepdeeprestrecovery/"
     },
     "NonStandardLodgingSearch": {
@@ -132215,9 +132257,9 @@
       "url": "/wiki/entities/sophiezhang/"
     },
     "SoundBasedStateRegulation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1135697510 [SCIM1135697510].md",
@@ -132225,9 +132267,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: How Hearing & Balance Enhance Focus & Learning",
           "url": "/wiki/sources/essentials-how-hearing-balance-enhance-focus-learning-scim1135697510/"
+        },
+        {
+          "episode_file": "SCIM1948560111 [SCIM1948560111].md",
+          "key": "tools-to-enhance-working-memory-attention-scim1948560111",
+          "show": "Huberman Lab",
+          "title": "Tools to Enhance Working Memory & Attention",
+          "url": "/wiki/sources/tools-to-enhance-working-memory-attention-scim1948560111/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/soundbasedstateregulation/"
     },
     "SouthAfrica": {
@@ -152609,9 +152658,9 @@
       "url": "/wiki/concepts/workerbasemodelrouting/"
     },
     "WorkingMemoryActiveControl": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM4205449835 [SCIM4205449835].md",
@@ -152619,6 +152668,13 @@
           "show": "Huberman Lab",
           "title": "How to Optimize Cognitive Function & Brain Health | Dr. Mark D'Esposito",
           "url": "/wiki/sources/how-to-optimize-cognitive-function-brain-health-dr-mark-desposito-scim4205449835/"
+        },
+        {
+          "episode_file": "SCIM1948560111 [SCIM1948560111].md",
+          "key": "tools-to-enhance-working-memory-attention-scim1948560111",
+          "show": "Huberman Lab",
+          "title": "Tools to Enhance Working Memory & Attention",
+          "url": "/wiki/sources/tools-to-enhance-working-memory-attention-scim1948560111/"
         }
       ],
       "updated": "2026-09-27",

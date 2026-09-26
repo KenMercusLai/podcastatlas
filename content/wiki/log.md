@@ -23136,3 +23136,11 @@ Added source `414-the-peasants-revolt-londons-burning-part-2-glt6726049231`; cre
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | Tools to Enhance Working Memory & Attention
+
+Added source `tools-to-enhance-working-memory-attention-scim1948560111`; updated `AndrewHuberman`, `HubermanLab`, `WorkingMemoryActiveControl`, `DopamineInvertedU`, `DopamineToolTiming`, `NonSleepDeepRestRecovery`, `ColdExposureDoseAndSafety`, and `SoundBasedStateRegulation` from their complete bounded source sets. Core synthesis: working memory is temporary active control for sequencing, distractor suppression, and task switching, while dopamine-linked enhancement depends on baseline state and evidence tier. No settled contradiction found; span tests are non-diagnostic, dopamine availability is not direct proof of working-memory improvement, cold timing is extrapolated, binaural-beat effects are modest, and supplement or prescription approaches remain medically bounded.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

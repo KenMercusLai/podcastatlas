@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1233
+topic_total_pages: 1234
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -3621,6 +3621,9 @@ topic_sources:
   - key: "tools-to-bolster-your-mental-health-confidence-dr-paul-conti-scim9301011958"
     title: "Tools to Bolster Your Mental Health & Confidence | Dr. Paul Conti"
     url: "/wiki/sources/tools-to-bolster-your-mental-health-confidence-dr-paul-conti-scim9301011958/"
+  - key: "tools-to-enhance-working-memory-attention-scim1948560111"
+    title: "Tools to Enhance Working Memory & Attention"
+    url: "/wiki/sources/tools-to-enhance-working-memory-attention-scim1948560111/"
   - key: "using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040"
     title: "Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li"
     url: "/wiki/sources/using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040/"

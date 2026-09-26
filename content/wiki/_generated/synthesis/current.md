@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-27
-as_of_overview_commit: 96319340a45bf2e1d5df94ace880c709b96d5dbc
+as_of_overview_commit: 744959d4728f89b503848484b26acf77b765aa8e
 summary: "Podcast Atlas maps how technology, markets, institutions, culture, history, health, psychology, work, education, and care interact as evidence-bound systems."
-episode_count: 2890
-source_count: 2890
-paragraph_count: 744
+episode_count: 2893
+source_count: 2893
+paragraph_count: 745
 topic_count: 9
 ---
 
@@ -54,7 +54,7 @@ Media form, materiality, provenance, audience practice, and projection shape wha
 
 ### Governance and Institutions
 
-Institutions turn power and investment into order through capacity, evidence, legitimacy, accountability, bounded consent, and safeguards against coercion and capture.
+Institutions turn power and intervention into order through capacity, evidence tiering, legitimacy, accountability, bounded consent, and safeguards against coercion, capture, and unjustified treatment claims.
 
 - [[islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a|The Britain-and-Islamism episode]] makes [[IslamIslamismConflation]] a two-sided governance failure: institutions can stigmatize Muslims by generalizing from a political fringe, or grant organized actors unearned representative authority; [[IslamistEntryism]] therefore requires case-specific evidence, plural consultation, and protection against coercion rather than identity-based suspicion. Evidence: [[islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a]], [[IslamIslamismConflation]], [[IslamistEntryism]], [[Islamism]], [[PreventProgramme]].
 - [[defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029|The Natalia Olson interview]] adds that [[GovernmentInnovation]] depends on career-staff capacity, democratic accountability, [[OpenDataTransparency]], and consequential [[PolicyLeverageForSystemChange]] rather than business-style command alone; [[GlobalAIGovernanceFramework]] then extends the same logic internationally, while [[SovereignInfrastructureInterdependence]] limits claims of simple national technological separation. Evidence: [[defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029]], [[NataliaOlson]], [[JDVance]], [[GovernmentInnovation]], [[OpenDataTransparency]], [[PolicyLeverageForSystemChange]], [[GlobalAIGovernanceFramework]], [[SovereignInfrastructureInterdependence]].
