@@ -23015,6 +23015,10 @@ Added source `424-carthage-vs-rome-total-war-part-4-glt9312780357`; created `Fir
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-27] ingest | The Biology of Social Interactions and Emotions | Dr. Kay Tye
+
+Added source `the-biology-of-social-interactions-and-emotions-dr-kay-tye-scim4105255786`; created `KayTye`, `AmygdalaValenceAssignment`, `SocialHomeostasis`, `SocialContactSynchrony`, `SocialRankFlexibility`, `ExperientialStatistics`, and `DiversifiedHappinessPortfolio`; and updated `PatientSM`, `AmygdalaFearDissociation`, the canonical index, and overview. Core synthesis: emotional and social behavior depends on flexible state regulation, with projection-specific valence assignment, acute-versus-chronic isolation dynamics, contact quality, experiential priors, and context-dependent hierarchy kept distinct. No settled contradiction found; social-media, empathy, rank-development, oxytocin, and psychedelic mechanisms remain source-scoped or preliminary.
+
 ## [2026-09-27] ingest | 418. Britain in 1974: The Crisis Election (Part 2)
 
 Added a source page for The Rest Is History on the M62 bombing, the February 1974 election, Heath's failed mandate gamble, Wilson's return, Labour's radical manifesto, Liberal vote-seat disproportionality, Powell's Europe intervention, and failed Heath-Thorpe coalition talks. Created Enoch Powell, Jeremy Thorpe, and February 1974 UK General Election; updated Edward Heath, Harold Wilson, Tony Benn, Denis Healey, Provisional IRA, The Troubles, Terrorism Pressure and Wrongful Conviction, and British EC Referendum 1975. No settled contradiction found; Wilson's possible early decline, causal campaign effects, and responsibility for specific attacks remain qualified.
@@ -23092,6 +23096,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-27] ingest | 416. The Canterbury Tales (Part 4)
 
 Added source `416-the-canterbury-tales-part-4-glt1956280616`; created `GeoffreyChaucer`, `TheCanterburyTales`, `WifeOfBath`, `AliceChaucer`, `LiteratureAsSocialHistory`, `PostPlagueSocialMobility`, `VernacularLiteraryLegitimacy`, and `PilgrimageAsSocialReconnection`; and updated `TheRestIsHistory`, the canonical index, and overview. Core synthesis: Chaucer's career and pilgrims make literature a qualified window onto plague-era mobility, commerce, hierarchy, gender, pilgrimage, and the cosmopolitan rise of literary English. No settled contradiction found. The Cecily Champagne reinterpretation, April plague-season claim, breadth of women's post-plague autonomy, and Chaucer's dialect influence remain source-scoped.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-27] lint | Wiki health check
 

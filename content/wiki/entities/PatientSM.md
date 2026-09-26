@@ -4,38 +4,40 @@ type: entity
 tags: [research-case, neuroscience, emotion, amygdala]
 sources:
   - neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716
+  - the-biology-of-social-interactions-and-emotions-dr-kay-tye-scim4105255786
 knowledge_schema: synthesis-v1
-last_updated: 2026-08-27
+last_updated: 2026-09-27
 ---
 
 # Patient SM
 
 ## Overview
-Patient SM is the amygdala-lesion research case used in the Huberman Lab emotion episode to separate fear perception, external-threat fear, and internal panic.
+Patient SM is the bilateral-amygdala-lesion research case used in two [[HubermanLab]] sources to separate fear perception, external-threat fear, and internally triggered panic.
 
 ## Current Profile
-In the source, [[RalphAdolphs]] presents SM as a central caution against calling the amygdala a single fear center. Bilateral amygdala lesions are associated with difficulty perceiving fear in facial expressions and little reported conscious fear in some external-threat contexts, yet carbon-dioxide inhalation can still produce panic. The case therefore supports [[AmygdalaFearDissociation]] rather than a simple absence-of-fear story.
+Across the bounded sources, SM is a central caution against calling the amygdala a single fear center. [[RalphAdolphs]] emphasizes impaired facial-fear perception, little reported conscious fear in some external-threat contexts, and retained carbon-dioxide-induced panic. [[KayTye]] uses the same broad dissociation to argue that the amygdala assigns significance without necessarily generating every panic-like autonomic response. The case therefore supports [[AmygdalaFearDissociation]] and helps bound [[AmygdalaValenceAssignment]].
 
 ## Key Characteristics
-- SM is described as having bilateral amygdala lesions.
+- SM is described as having bilateral amygdala damage.
 - The case is linked to difficulty perceiving fear in facial expressions.
-- The episode reports little conscious fear in some external-threat settings.
-- CO2-induced panic is used to show that internal suffocation signals can rely on different circuits.
-- The case qualifies, rather than erases, the amygdala's importance for fear.
+- Some external-threat settings reportedly produce little conscious fear.
+- Suffocation-related or carbon-dioxide challenge can still produce panic.
+- The case separates amygdala-dependent significance processing from every route to autonomic arousal.
 
 ## Evidence
-- Facial fear perception - [[neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716]] has Adolphs describe SM's difficulty perceiving fear in facial expressions after bilateral amygdala lesions.
-- External threat - [[neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716]] reports little apparent conscious fear in settings such as haunted houses, snakes, spiders, or horror movies.
-- Internal panic - [[neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716]] says amygdala-lesion patients still had panic attacks after inhaling carbon dioxide.
+- Facial fear and external threat - [[neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716]] describes impaired facial-fear perception and little conscious fear in several external-threat examples.
+- Internal panic - [[neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716]] reports panic after carbon-dioxide inhalation despite amygdala lesions.
+- Significance boundary - [[the-biology-of-social-interactions-and-emotions-dr-kay-tye-scim4105255786]] uses SM to distinguish amygdala significance assignment from suffocation-related panic generation.
 
 ## Qualifications
-The page is source-scoped to the episode summary. It does not independently reconstruct SM's full clinical record or the broader lesion literature.
+The page synthesizes two episode summaries rather than reconstructing SM's full clinical history or the entire lesion literature. The sources support a functional dissociation, not the claim that the amygdala is irrelevant to fear.
 
 ## What Changed
-- Added SM as the amygdala-lesion case anchoring the fear-dissociation concept.
+- Added Tye's distinction between amygdala significance assignment and retained suffocation-related panic.
 
 ## Relationships
-- [[RalphAdolphs]] - researcher explaining the case in the episode.
+- [[RalphAdolphs]] - researcher explaining the lesion and fear-perception evidence.
+- [[KayTye]] - researcher using the case to bound the amygdala's role in significance and panic.
 - [[AmygdalaFearDissociation]] - main concept supported by the case.
-- [[SocialEmotionInferenceLimits]] - related facial-expression inference boundary.
-- [[BrainBodyEmotionMapping]] - related internal-body-signal branch.
+- [[AmygdalaValenceAssignment]] - broader valence model qualified by the case.
+- [[BrainBodyEmotionMapping]] - internal-body-signal branch connected to panic.

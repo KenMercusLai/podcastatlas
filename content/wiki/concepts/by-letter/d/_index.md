@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 8281
+wiki_total_pages: 8287
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -833,6 +833,9 @@ wiki_pages:
   - key: "DiversificationAlpha"
     title: "Diversification Alpha"
     url: "/wiki/concepts/diversificationalpha/"
+  - key: "DiversifiedHappinessPortfolio"
+    title: "Diversified Happiness Portfolio"
+    url: "/wiki/concepts/diversifiedhappinessportfolio/"
   - key: "DividendDiscountModel"
     title: "Dividend Discount Model"
     url: "/wiki/concepts/dividenddiscountmodel/"

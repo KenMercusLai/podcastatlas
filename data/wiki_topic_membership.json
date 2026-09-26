@@ -9331,6 +9331,13 @@
       "url": "/topics/science/"
     }
   ],
+  "AmygdalaValenceAssignment": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "AmyloidHypothesisUncertainty": [
     {
       "key": "science",
@@ -42138,6 +42145,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "KayTye": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "KeikoGazeFilm": [
     {
       "key": "culture",
@@ -67031,6 +67045,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "SocialHomeostasis": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "SocialImitationMarketBubbles": [
     {
       "key": "economics",
@@ -67088,6 +67109,13 @@
     }
   ],
   "SocialPsychology": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "SocialRankFlexibility": [
     {
       "key": "science",
       "label": "Science",
@@ -89454,6 +89482,13 @@
     }
   ],
   "the-art-of-true-happiness-dr-arthur-brooks-scim2290485637": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "the-biology-of-social-interactions-and-emotions-dr-kay-tye-scim4105255786": [
     {
       "key": "science",
       "label": "Science",

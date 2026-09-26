@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 8281
+wiki_total_pages: 8287
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1790,6 +1790,9 @@ wiki_pages:
   - key: "AmygdalaFearDissociation"
     title: "Amygdala Fear Dissociation"
     url: "/wiki/concepts/amygdalafeardissociation/"
+  - key: "AmygdalaValenceAssignment"
+    title: "Amygdala Valence Assignment"
+    url: "/wiki/concepts/amygdalavalenceassignment/"
   - key: "AmyloidHypothesisUncertainty"
     title: "Amyloid Hypothesis Uncertainty"
     url: "/wiki/concepts/amyloidhypothesisuncertainty/"

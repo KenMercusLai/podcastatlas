@@ -7942,9 +7942,9 @@
       "url": "/wiki/entities/amywebb/"
     },
     "AmygdalaFearDissociation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1222961716 [SCIM1222961716].md",
@@ -7952,10 +7952,33 @@
           "show": "Huberman Lab",
           "title": "Neuroscience of Emotions & Tools for Improving Emotion Regulation | Dr. Ralph Adolphs",
           "url": "/wiki/sources/neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716/"
+        },
+        {
+          "episode_file": "SCIM4105255786 [SCIM4105255786].md",
+          "key": "the-biology-of-social-interactions-and-emotions-dr-kay-tye-scim4105255786",
+          "show": "Huberman Lab",
+          "title": "The Biology of Social Interactions and Emotions | Dr. Kay Tye",
+          "url": "/wiki/sources/the-biology-of-social-interactions-and-emotions-dr-kay-tye-scim4105255786/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/amygdalafeardissociation/"
+    },
+    "AmygdalaValenceAssignment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4105255786 [SCIM4105255786].md",
+          "key": "the-biology-of-social-interactions-and-emotions-dr-kay-tye-scim4105255786",
+          "show": "Huberman Lab",
+          "title": "The Biology of Social Interactions and Emotions | Dr. Kay Tye",
+          "url": "/wiki/sources/the-biology-of-social-interactions-and-emotions-dr-kay-tye-scim4105255786/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/amygdalavalenceassignment/"
     },
     "AnGuoKhotanLateHan": {
       "episode_count": 1,
@@ -37623,6 +37646,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/concepts/distributedlocalresilience/"
     },
+    "DiversifiedHappinessPortfolio": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4105255786 [SCIM4105255786].md",
+          "key": "the-biology-of-social-interactions-and-emotions-dr-kay-tye-scim4105255786",
+          "show": "Huberman Lab",
+          "title": "The Biology of Social Interactions and Emotions | Dr. Kay Tye",
+          "url": "/wiki/sources/the-biology-of-social-interactions-and-emotions-dr-kay-tye-scim4105255786/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/diversifiedhappinessportfolio/"
+    },
     "DoctorPatientCommunication": {
       "episode_count": 7,
       "show_count": 3,
@@ -46778,6 +46817,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/experientialassociation/"
+    },
+    "ExperientialStatistics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4105255786 [SCIM4105255786].md",
+          "key": "the-biology-of-social-interactions-and-emotions-dr-kay-tye-scim4105255786",
+          "show": "Huberman Lab",
+          "title": "The Biology of Social Interactions and Emotions | Dr. Kay Tye",
+          "url": "/wiki/sources/the-biology-of-social-interactions-and-emotions-dr-kay-tye-scim4105255786/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/experientialstatistics/"
     },
     "ExpertiseAmplifiedAIUse": {
       "episode_count": 3,
@@ -78456,6 +78511,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/kateaha/"
     },
+    "KayTye": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4105255786 [SCIM4105255786].md",
+          "key": "the-biology-of-social-interactions-and-emotions-dr-kay-tye-scim4105255786",
+          "show": "Huberman Lab",
+          "title": "The Biology of Social Interactions and Emotions | Dr. Kay Tye",
+          "url": "/wiki/sources/the-biology-of-social-interactions-and-emotions-dr-kay-tye-scim4105255786/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/kaytye/"
+    },
     "Kearney": {
       "episode_count": 1,
       "show_count": 1,
@@ -108027,9 +108098,9 @@
       "url": "/wiki/concepts/patientledrarediseaseinfrastructure/"
     },
     "PatientSM": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1222961716 [SCIM1222961716].md",
@@ -108037,9 +108108,16 @@
           "show": "Huberman Lab",
           "title": "Neuroscience of Emotions & Tools for Improving Emotion Regulation | Dr. Ralph Adolphs",
           "url": "/wiki/sources/neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716/"
+        },
+        {
+          "episode_file": "SCIM4105255786 [SCIM4105255786].md",
+          "key": "the-biology-of-social-interactions-and-emotions-dr-kay-tye-scim4105255786",
+          "show": "Huberman Lab",
+          "title": "The Biology of Social Interactions and Emotions | Dr. Kay Tye",
+          "url": "/wiki/sources/the-biology-of-social-interactions-and-emotions-dr-kay-tye-scim4105255786/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-27",
       "url": "/wiki/entities/patientsm/"
     },
     "PatientSymbolizationProjection": {
@@ -130777,6 +130855,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/snyderslance/"
     },
+    "SocialContactSynchrony": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4105255786 [SCIM4105255786].md",
+          "key": "the-biology-of-social-interactions-and-emotions-dr-kay-tye-scim4105255786",
+          "show": "Huberman Lab",
+          "title": "The Biology of Social Interactions and Emotions | Dr. Kay Tye",
+          "url": "/wiki/sources/the-biology-of-social-interactions-and-emotions-dr-kay-tye-scim4105255786/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/socialcontactsynchrony/"
+    },
     "SocialContractUK1970s": {
       "episode_count": 1,
       "show_count": 1,
@@ -130847,6 +130941,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/socialhistorycaseframing/"
+    },
+    "SocialHomeostasis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4105255786 [SCIM4105255786].md",
+          "key": "the-biology-of-social-interactions-and-emotions-dr-kay-tye-scim4105255786",
+          "show": "Huberman Lab",
+          "title": "The Biology of Social Interactions and Emotions | Dr. Kay Tye",
+          "url": "/wiki/sources/the-biology-of-social-interactions-and-emotions-dr-kay-tye-scim4105255786/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/socialhomeostasis/"
     },
     "SocialImitationMarketBubbles": {
       "episode_count": 1,
@@ -131189,6 +131299,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/concepts/socialmisprediction/"
+    },
+    "SocialRankFlexibility": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4105255786 [SCIM4105255786].md",
+          "key": "the-biology-of-social-interactions-and-emotions-dr-kay-tye-scim4105255786",
+          "show": "Huberman Lab",
+          "title": "The Biology of Social Interactions and Emotions | Dr. Kay Tye",
+          "url": "/wiki/sources/the-biology-of-social-interactions-and-emotions-dr-kay-tye-scim4105255786/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/socialrankflexibility/"
     },
     "SocialRoboticsElderCare": {
       "episode_count": 1,

@@ -4,17 +4,29 @@ generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
 last_updated: 2026-09-27
-as_of_overview_commit: 1b971f6d3d194dd769a488b9f007c9ccf6e3b8c8
-input_digest: d87a7c05e82ed7a1c308ed2b3524f3f31167c5c4b74e6c3db4541f0441ce1a24
+as_of_overview_commit: 7a5431230ec53aa31bfd43173605a13168b8b5dc
+input_digest: 8274750dbb5280e801ac1703ce44cfec3286c25370b1251fadd6051528275e27
 ---
 
 # Science, Health, and Climate
 
 ## Current State
 
-Science, health, and climate sources consistently separate public literacy from individualized care: mechanisms, measurements, urgent escalation, qualified treatment, environmental context, and uncertainty matter more than labels or cure claims. The topic spans sleep and mental health, chronic and acute care, metabolism and nutrition, exercise and sensory health, disability and animal welfare, climate adaptation, and science governance; interventions remain population-, comparator-, dose-, timing-, endpoint-, goal-, and supervision-dependent. Expectation effects can change symptoms and physiology without proving restored function or disease modification; end-of-life and intensive-care decisions depend on reversibility and stated wishes; and elite performance does not establish psychological safety. The newest cognitive-control branch adds that executive function and working memory emerge from distributed, state-sensitive networks, so dopamine effects and rehabilitation response depend on baseline state and remain clinically bounded.
+Science, health, and climate sources consistently separate public literacy from individualized care: mechanisms, measurements, urgent escalation, qualified treatment, environmental context, and uncertainty matter more than labels or cure claims. The topic spans social neuroscience, sleep and mental health, chronic and acute care, metabolism and nutrition, exercise and sensory health, disability and animal welfare, climate adaptation, and science governance; interventions remain population-, comparator-, dose-, timing-, endpoint-, goal-, and supervision-dependent. Expectation effects can change symptoms and physiology without proving restored function or disease modification; end-of-life and intensive-care decisions depend on reversibility and stated wishes; elite performance does not establish psychological safety; and social need depends on acute versus chronic state, prior experience, contact quality, and translation boundaries.
 
 ## Cross-source Findings
+
+### Social Need Is State History And Contact Quality Dependent
+
+[[the-biology-of-social-interactions-and-emotions-dr-kay-tye-scim4105255786|The Tye Huberman Lab episode]] adds a state- and history-sensitive social-neuroscience branch: [[AmygdalaValenceAssignment]] separates motivational significance from a single fear center, [[SocialHomeostasis]] distinguishes acute affiliative rebound from chronic isolation adaptation, [[SocialContactSynchrony]] makes reciprocity and real-time mutual attention candidate dimensions of nourishment, and [[SocialRankFlexibility]] with [[ExperientialStatistics]] connects rank, scarcity, trust, and prior experience to what organisms expect and monitor.
+
+**Evidence:** [[the-biology-of-social-interactions-and-emotions-dr-kay-tye-scim4105255786]], [[HubermanLab]], [[KayTye]], [[AmygdalaValenceAssignment]], [[SocialHomeostasis]], [[SocialContactSynchrony]], [[SocialRankFlexibility]], [[ExperientialStatistics]], [[PatientSM]], [[AmygdalaFearDissociation]]
+
+**Qualifications:**
+
+- Animal circuit, isolation, hierarchy, and competition findings do not directly establish human treatment, leadership, or social-media guidance.
+- Social-media satiation, inter-brain synchrony, oxytocin, empathy asymmetry, developmental rank effects, and psychedelic mechanisms remain speculative, preliminary, or source-scoped.
+- The sources do not yet determine whether chronic-isolation harm arises mainly from deficit detection, failed correction, baseline adaptation, or their interaction.
 
 ### Elite Performance Recovery Remains Clinically Bounded
 

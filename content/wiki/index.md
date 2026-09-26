@@ -2909,6 +2909,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [VOL.106胸外科｜王兴：病人家属问我怎么能够讨好医生｜胸闷、气胸、肺结节问题回答篇](sources/vol-106-xiongwaike-wangxing-bingren-jiashu-wen-wo-zenme-nenggou-taohao-yisheng-lrjqaw3ovznk0zn4-jfj3f2xyvzi.md) — 这病说来话长 listener Q&A on pulmonary-nodule surveillance, chest-symptom attribution, postoperative pain, chest-wall deformity, pneumothorax recurrence, and medical-care boundaries.
 - [How to Improve Oral Health & Its Critical Role in Brain & Body Health](sources/how-to-improve-oral-health-its-critical-role-in-brain-body-health-scim4393023678.md) — Huberman Lab solo episode on saliva, oral pH, biofilm control, tooth mineral balance, gum-systemic evidence boundaries, and restrained product use.
+- [The Biology of Social Interactions and Emotions | Dr. Kay Tye](sources/the-biology-of-social-interactions-and-emotions-dr-kay-tye-scim4105255786.md) — Huberman Lab interview on amygdala valence, social homeostasis, contact synchrony, hierarchy, experiential priors, and sustainable scientific life.
 
 ## Entities
 - [Geoffrey Chaucer](entities/GeoffreyChaucer.md) — Medieval poet, diplomat, royal servant, and customs official whose work records a changing 14th-century social world.
@@ -13813,6 +13814,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ali Pasha](entities/AliPasha.md) — Ottoman-Albanian regional ruler whose hospitality, political protection, and brutality fascinated Byron.
 - [Childe Harold's Pilgrimage](entities/ChildeHaroldsPilgrimage.md) — Byron poem that converted Mediterranean travel into an alienated Romantic hero and mass celebrity.
 - [Lord Elgin](entities/LordElgin.md) — British diplomat at the center of Byron's cultural-plunder attack and Hobhouse's preservation counterargument.
+- [Kay Tye](entities/KayTye.md) — Neuroscientist connecting emotional-valence circuits to loneliness, social homeostasis, hierarchy, and sustainable scientific leadership.
 
 ## Concepts
 - [Literature as Social History](concepts/LiteratureAsSocialHistory.md) — Qualified use of literary voices, forms, and conflicts to interpret hierarchy, work, gender, and social change.
@@ -22109,5 +22111,11 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [肺结节随访 / Pulmonary Nodule Surveillance](concepts/PulmonaryNoduleSurveillance.md) — Longitudinal frame for comparable imaging, measurement variation, symptom attribution, and qualified escalation of lung nodules.
 - [自发性气胸风险与复发 / Spontaneous Pneumothorax Risk and Recurrence](concepts/SpontaneousPneumothoraxRiskAndRecurrence.md) — Thoracic-care frame for predisposition, activity boundaries, recurrent episodes, and surgery assessment.
+- [Amygdala Valence Assignment](concepts/AmygdalaValenceAssignment.md) — Projection- and state-sensitive model of how the amygdala helps assign motivational meaning beyond a simple fear-center account.
+- [Social Homeostasis](concepts/SocialHomeostasis.md) — Model of flexible social need distinguishing acute affiliative rebound from chronic isolation adaptation.
+- [Social Contact Synchrony](concepts/SocialContactSynchrony.md) — Qualified hypothesis that reciprocal real-time contact can be more socially nourishing than passive or asynchronous contact.
+- [Social Rank Flexibility](concepts/SocialRankFlexibility.md) — Distinction between fixed dominance and rank or leadership that changes with identity, competence, task, and group context.
+- [Experiential Statistics](concepts/ExperientialStatistics.md) — Learned expectations from repeated scarcity, safety, punishment, trust, and social experience.
+- [Diversified Happiness Portfolio](concepts/DiversifiedHappinessPortfolio.md) — Resilience frame based on maintaining several meaningful life domains rather than tying wellbeing to one achievement hierarchy.
 
 ## Syntheses

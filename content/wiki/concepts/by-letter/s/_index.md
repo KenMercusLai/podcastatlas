@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 8281
+wiki_total_pages: 8287
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1043,6 +1043,9 @@ wiki_pages:
   - key: "SocialComparisonPressure"
     title: "Social Comparison Pressure / 社会比较压力"
     url: "/wiki/concepts/socialcomparisonpressure/"
+  - key: "SocialContactSynchrony"
+    title: "Social Contact Synchrony"
+    url: "/wiki/concepts/socialcontactsynchrony/"
   - key: "SocialDarwinism"
     title: "Social Darwinism / 社会达尔文主义"
     url: "/wiki/concepts/socialdarwinism/"
@@ -1067,6 +1070,9 @@ wiki_pages:
   - key: "SocialHistoryCaseFraming"
     title: "Social History Case Framing / 社会史案件叙事"
     url: "/wiki/concepts/socialhistorycaseframing/"
+  - key: "SocialHomeostasis"
+    title: "Social Homeostasis"
+    url: "/wiki/concepts/socialhomeostasis/"
   - key: "SocialHospitalization"
     title: "Social Hospitalization / 社会性住院"
     url: "/wiki/concepts/socialhospitalization/"
@@ -1109,6 +1115,9 @@ wiki_pages:
   - key: "SocialPsychology"
     title: "Social Psychology / 社会心理学"
     url: "/wiki/concepts/socialpsychology/"
+  - key: "SocialRankFlexibility"
+    title: "Social Rank Flexibility"
+    url: "/wiki/concepts/socialrankflexibility/"
   - key: "SocialRealityConstruction"
     title: "Social Reality Construction / 社会现实建构"
     url: "/wiki/concepts/socialrealityconstruction/"

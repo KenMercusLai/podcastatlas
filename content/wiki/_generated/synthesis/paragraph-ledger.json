@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "82ca494ef22525a52a5b487affa4099502b58e7a9771f43fe3742a9c9d49a629",
       "b67fb6e022a5bec44261cedb519d987f5829df622d50e4cef4be63496a7a7a79",
       "bfb6f8b0bb17ffe05901f40938c7eebbd54cb4d85688a5ac64a7bfb97e0fd98d",
       "83047354e3fa22c2f2d2f929ac8ba1a39ba99862f6ef55ba725edcfbb26b5c32",
@@ -744,11 +745,38 @@
       "9c6a00cde7f684f1bb851d74c7fe1c200cb764a6ec54495df3c75f137f04e3c4",
       "3b0c014c987a39993d088c448d1248990efc00e4ac954c464445df342bccebfe"
     ],
-    "paragraph_count": 742
+    "paragraph_count": 743
   },
-  "overview_commit": "ece8f7d29bca20f7062b225b551ee18bd00da616",
-  "overview_digest": "f6bbf6b5eeb0c0193b67ce99e09b2542dc4202b08cd6252a9459a90ff8a73f7b",
+  "overview_commit": "7a5431230ec53aa31bfd43173605a13168b8b5dc",
+  "overview_digest": "da6efd559e0c4dec06648699b5ff8b692328b4c4196501fa22d798b62a92354c",
   "paragraphs": [
+    {
+      "id": "82ca494ef22525a52a5b487affa4099502b58e7a9771f43fe3742a9c9d49a629",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [],
+      "text": "The newest social-neuroscience source, [[the-biology-of-social-interactions-and-emotions-dr-kay-tye-scim4105255786|The Biology of Social Interactions and Emotions | Dr. Kay Tye]], extends [[HubermanLab]] through [[KayTye]], [[AmygdalaValenceAssignment]], [[SocialHomeostasis]], [[SocialContactSynchrony]], [[SocialRankFlexibility]], [[ExperientialStatistics]], and [[DiversifiedHappinessPortfolio]], while refining [[PatientSM]] and [[AmygdalaFearDissociation]]. Its core synthesis is that social behavior is state- and history-dependent: acute deprivation can drive reconnection, chronic isolation can reset the social baseline toward avoidance or overload, reciprocal synchrony may matter more than raw contact volume, and prior scarcity or rank changes what organisms expect and monitor. No settled contradiction is recorded; social-media satiation, oxytocin, empathy asymmetry, developmental rank effects, psychedelic mechanisms, and human translation from animal studies remain source-scoped or preliminary.",
+      "topic_scores": {
+        "culture-and-media": 1,
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1,
+        "science-health-and-climate": 2,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AmygdalaFearDissociation",
+        "AmygdalaValenceAssignment",
+        "DiversifiedHappinessPortfolio",
+        "ExperientialStatistics",
+        "HubermanLab",
+        "KayTye",
+        "PatientSM",
+        "SocialContactSynchrony",
+        "SocialHomeostasis",
+        "SocialRankFlexibility",
+        "the-biology-of-social-interactions-and-emotions-dr-kay-tye-scim4105255786"
+      ]
+    },
     {
       "id": "b67fb6e022a5bec44261cedb519d987f5829df622d50e4cef4be63496a7a7a79",
       "primary_topic": "governance-and-institutions",

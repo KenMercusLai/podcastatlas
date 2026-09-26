@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1228
+topic_total_pages: 1233
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -100,6 +100,9 @@ topic_concepts:
   - key: "AmygdalaFearDissociation"
     title: "Amygdala Fear Dissociation"
     url: "/wiki/concepts/amygdalafeardissociation/"
+  - key: "AmygdalaValenceAssignment"
+    title: "Amygdala Valence Assignment"
+    url: "/wiki/concepts/amygdalavalenceassignment/"
   - key: "AmyloidHypothesisUncertainty"
     title: "Amyloid Hypothesis Uncertainty"
     url: "/wiki/concepts/amyloidhypothesisuncertainty/"
@@ -1816,6 +1819,9 @@ topic_concepts:
   - key: "SocialEmotionInferenceLimits"
     title: "Social Emotion Inference Limits"
     url: "/wiki/concepts/socialemotioninferencelimits/"
+  - key: "SocialHomeostasis"
+    title: "Social Homeostasis"
+    url: "/wiki/concepts/socialhomeostasis/"
   - key: "SocialIsolationTachykinin"
     title: "Social Isolation Tachykinin"
     url: "/wiki/concepts/socialisolationtachykinin/"
@@ -1825,6 +1831,9 @@ topic_concepts:
   - key: "SocialPsychology"
     title: "Social Psychology / 社会心理学"
     url: "/wiki/concepts/socialpsychology/"
+  - key: "SocialRankFlexibility"
+    title: "Social Rank Flexibility"
+    url: "/wiki/concepts/socialrankflexibility/"
   - key: "SocialRealityConstruction"
     title: "Social Reality Construction / 社会现实建构"
     url: "/wiki/concepts/socialrealityconstruction/"
@@ -2543,6 +2552,9 @@ topic_entities:
   - key: "KathyHochul"
     title: "Kathy Hochul"
     url: "/wiki/entities/kathyhochul/"
+  - key: "KayTye"
+    title: "Kay Tye"
+    url: "/wiki/entities/kaytye/"
   - key: "KelentoHouTaiyu"
     title: "Kelento 侯泰宇"
     url: "/wiki/entities/kelentohoutaiyu/"
@@ -3585,6 +3597,9 @@ topic_sources:
   - key: "the-art-of-true-happiness-dr-arthur-brooks-scim2290485637"
     title: "The Art of True Happiness | Dr. Arthur Brooks"
     url: "/wiki/sources/the-art-of-true-happiness-dr-arthur-brooks-scim2290485637/"
+  - key: "the-biology-of-social-interactions-and-emotions-dr-kay-tye-scim4105255786"
+    title: "The Biology of Social Interactions and Emotions | Dr. Kay Tye"
+    url: "/wiki/sources/the-biology-of-social-interactions-and-emotions-dr-kay-tye-scim4105255786/"
   - key: "the-continent-nobody-owns-everyone-benefits-from-summer-school"
     title: "The continent nobody owns & everyone benefits from (Summer School)"
     url: "/wiki/sources/the-continent-nobody-owns-everyone-benefits-from-summer-school/"

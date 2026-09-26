@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 10889
+wiki_total_pages: 10890
 wiki_pages:
   - key: "KunyangBattle"
     title: "Battle of Kunyang / 昆阳之战"
@@ -176,6 +176,9 @@ wiki_pages:
   - key: "KayKamen"
     title: "Kay Kamen"
     url: "/wiki/entities/kaykamen/"
+  - key: "KayTye"
+    title: "Kay Tye"
+    url: "/wiki/entities/kaytye/"
   - key: "Kearney"
     title: "Kearney"
     url: "/wiki/entities/kearney/"

@@ -5935,6 +5935,10 @@
     "title": "Amygdala Fear Dissociation",
     "url": "/wiki/concepts/amygdalafeardissociation/"
   },
+  "AmygdalaValenceAssignment": {
+    "title": "Amygdala Valence Assignment",
+    "url": "/wiki/concepts/amygdalavalenceassignment/"
+  },
   "AmyloidHypothesisUncertainty": {
     "title": "Amyloid Hypothesis Uncertainty",
     "url": "/wiki/concepts/amyloidhypothesisuncertainty/"
@@ -19955,6 +19959,10 @@
     "title": "Diversification Alpha",
     "url": "/wiki/concepts/diversificationalpha/"
   },
+  "DiversifiedHappinessPortfolio": {
+    "title": "Diversified Happiness Portfolio",
+    "url": "/wiki/concepts/diversifiedhappinessportfolio/"
+  },
   "DividendDiscountModel": {
     "title": "Dividend Discount Model",
     "url": "/wiki/concepts/dividenddiscountmodel/"
@@ -23394,6 +23402,10 @@
   "ExperientialRetail": {
     "title": "Experiential Retail",
     "url": "/wiki/concepts/experientialretail/"
+  },
+  "ExperientialStatistics": {
+    "title": "Experiential Statistics",
+    "url": "/wiki/concepts/experientialstatistics/"
   },
   "ExperimentalFailureAsKnowledge": {
     "title": "Experimental Failure As Knowledge",
@@ -37750,6 +37762,10 @@
   "KayKamen": {
     "title": "Kay Kamen",
     "url": "/wiki/entities/kaykamen/"
+  },
+  "KayTye": {
+    "title": "Kay Tye",
+    "url": "/wiki/entities/kaytye/"
   },
   "KeZiHost": {
     "title": "柯子",
@@ -62335,6 +62351,10 @@
     "title": "Social Comparison Pressure / 社会比较压力",
     "url": "/wiki/concepts/socialcomparisonpressure/"
   },
+  "SocialContactSynchrony": {
+    "title": "Social Contact Synchrony",
+    "url": "/wiki/concepts/socialcontactsynchrony/"
+  },
   "SocialContractUK1970s": {
     "title": "UK Social Contract in the 1970s",
     "url": "/wiki/concepts/socialcontractuk1970s/"
@@ -62370,6 +62390,10 @@
   "SocialHistoryCaseFraming": {
     "title": "Social History Case Framing / 社会史案件叙事",
     "url": "/wiki/concepts/socialhistorycaseframing/"
+  },
+  "SocialHomeostasis": {
+    "title": "Social Homeostasis",
+    "url": "/wiki/concepts/socialhomeostasis/"
   },
   "SocialHospitalization": {
     "title": "Social Hospitalization / 社会性住院",
@@ -62426,6 +62450,10 @@
   "SocialPsychology": {
     "title": "Social Psychology / 社会心理学",
     "url": "/wiki/concepts/socialpsychology/"
+  },
+  "SocialRankFlexibility": {
+    "title": "Social Rank Flexibility",
+    "url": "/wiki/concepts/socialrankflexibility/"
   },
   "SocialRealityConstruction": {
     "title": "Social Reality Construction / 社会现实建构",
@@ -82526,6 +82554,10 @@
   "the-art-of-true-happiness-dr-arthur-brooks-scim2290485637": {
     "title": "The Art of True Happiness | Dr. Arthur Brooks",
     "url": "/wiki/sources/the-art-of-true-happiness-dr-arthur-brooks-scim2290485637/"
+  },
+  "the-biology-of-social-interactions-and-emotions-dr-kay-tye-scim4105255786": {
+    "title": "The Biology of Social Interactions and Emotions | Dr. Kay Tye",
+    "url": "/wiki/sources/the-biology-of-social-interactions-and-emotions-dr-kay-tye-scim4105255786/"
   },
   "the-business-of-heated-rivalry": {
     "title": "The Business of Heated Rivalry",

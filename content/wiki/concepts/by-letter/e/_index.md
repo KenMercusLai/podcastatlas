@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 8281
+wiki_total_pages: 8287
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -980,6 +980,9 @@ wiki_pages:
   - key: "ExperientialRetail"
     title: "Experiential Retail"
     url: "/wiki/concepts/experientialretail/"
+  - key: "ExperientialStatistics"
+    title: "Experiential Statistics"
+    url: "/wiki/concepts/experientialstatistics/"
   - key: "ExperimentalFailureAsKnowledge"
     title: "Experimental Failure As Knowledge"
     url: "/wiki/concepts/experimentalfailureasknowledge/"
