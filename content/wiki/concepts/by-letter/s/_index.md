@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 8232
+wiki_total_pages: 8234
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -335,6 +335,9 @@ wiki_pages:
   - key: "SeasonalWarLogistics"
     title: "Seasonal War Logistics / 战争季节后勤"
     url: "/wiki/concepts/seasonalwarlogistics/"
+  - key: "SeasonalWellnessMarketingBoundary"
+    title: "Seasonal Wellness Marketing Boundary / 节气养生营销边界"
+    url: "/wiki/concepts/seasonalwellnessmarketingboundary/"
   - key: "SecondFirstImpression"
     title: "Second First Impression"
     url: "/wiki/concepts/secondfirstimpression/"

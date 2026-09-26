@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.103中医科｜中医大夫教你识破春季养生营销骗局 防过敏、春季饮食这么吃](sources/vol-103-zhongyike-zhongyi-dafu-jiao-ni-shipuo-chunji-yangsheng-yingxiao-pianju-fang-guomin-chunji-yinshi-zheme-chi-liocs7vqytyxu6y4oaqlwj57h0jp.md) — 这病说来话长 episode on bounded spring routines, TCM evidence limits, allergy and amenorrhea escalation, and skepticism toward seasonal wellness marketing.
 - [How to Enhance Focus and Improve Productivity | Dr. Cal Newport](sources/how-to-enhance-focus-and-improve-productivity-dr-cal-newport-scim6504498504.md) — Huberman Lab interview on deep work, slow productivity, active recall, task switching, digital minimalism, pseudo-productivity, message-driven collaboration, and workload planning.
 - [VOL.104胸外科｜肺结节是什么？哪种肺结节会发展成肺癌？吐黑水排黑便就是排毒了吗](sources/vol-104-xiongwaike-feijiejie-shishenme-nazhong-feijiejie-huifazhan-cheng-feiai-tu-heishui-pai-heibian-jiushi-paidu-le-ma-ljic0qvysuboyxunoz-espjdvlvj.md) — 这病说来话长 episode on pulmonary-nodule interpretation, surveillance and surgical tradeoffs, false detox attribution, multimodal lung-cancer care, hospital matching, and clinical trust.
 - [How the Brain Works, Curing Blindness & How to Navigate a Career Path | Dr. E.J. Chichilnisky](sources/how-the-brain-works-curing-blindness-how-to-navigate-a-career-path-dr-e-j-chichilnisky-scim7934230780.md) — Huberman Lab interview on retinal coding, living human-retina experiments, cell-type-aware vision restoration, neural-interface precision, augmentation, adult adaptation, and nonlinear career choice.
@@ -3238,7 +3239,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Pedro de Ursúa](entities/PedroDeUrsua.md) — Crown-appointed El Dorado expedition commander murdered in the 1561 mutiny.
 - [Ursúa-Aguirre Expedition](entities/AguirreExpedition.md) — 1560-1561 Amazon conquest venture that became an anti-royal rebellion and collapsed in Venezuela.
 - [Richard Schwartz](entities/RichardSchwartz.md) — Founder of Internal Family Systems presenting parts work, Self-leadership, experiential inquiry, and trauma-sensitive practice boundaries.
-- [毛哲 / Mao Zhe (TCM Guest)](entities/MaoZheTCMDoctor.md) — Source-scoped TCM guest discussing seasonal allergy and summer patterning while retaining medication, heat-illness, emergency-care, and evidence-quality boundaries.
+- [毛哲 / Mao Zhe (TCM Guest)](entities/MaoZheTCMDoctor.md) — Source-scoped TCM guest discussing spring and summer self-care, allergy, and wellness marketing while retaining medication, emergency-care, and evidence-quality boundaries.
 - [Marianne](entities/Marianne.md) — Female personification of the French Republic whose symbolism coexisted with women's political exclusion.
 - [Olympe de Gouges](entities/OlympeDeGouges.md) — Revolutionary writer and abolitionist who applied universal rights language to women.
 - [Madame Roland](entities/MadameRoland.md) — Influential Girondin salon organizer who defended indirect female politics and faced misogynistic backlash.
@@ -13768,6 +13769,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lord Elgin](entities/LordElgin.md) — British diplomat at the center of Byron's cultural-plunder attack and Hobhouse's preservation counterargument.
 
 ## Concepts
+- [TCM Spring Self-Care Boundary / 中医春季养生边界](concepts/TCMSpringSelfCareBoundary.md) — Separates adaptable clothing, movement, sleep, food, and exposure routines from unvalidated seasonal TCM diagnosis and treatment claims.
+- [Seasonal Wellness Marketing Boundary / 节气养生营销边界](concepts/SeasonalWellnessMarketingBoundary.md) — Checks emergency-medicine, premium-ingredient, rarity, age, color, packaging, and novelty claims against identity, need, evidence, and safety.
 - [Deep Work Practice](concepts/DeepWorkPractice.md) — protected and trained attention for cognitively demanding learning and valuable output.
 - [Slow Productivity](concepts/SlowProductivity.md) — longer-horizon knowledge-work philosophy built on fewer simultaneous commitments, variable pace, and recovery.
 - [Pseudo-Productivity](concepts/PseudoProductivity.md) — visible activity used as a proxy for valuable output when knowledge work lacks clear production measures.

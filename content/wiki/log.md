@@ -22938,3 +22938,11 @@ Added source `427-titanic-the-tragedy-begins-part-1-glt3124111041`; created `Wil
 ## [2026-09-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-26] ingest | VOL.103中医科｜中医大夫教你识破春季养生营销骗局 防过敏、春季饮食这么吃
+
+Added source `vol-103-zhongyike-zhongyi-dafu-jiao-ni-shipuo-chunji-yangsheng-yingxiao-pianju-fang-guomin-chunji-yinshi-zheme-chi-liocs7vqytyxu6y4oaqlwj57h0jp`; created `TCMSpringSelfCareBoundary` and `SeasonalWellnessMarketingBoundary`; and updated `MaoZheTCMDoctor`, the canonical index, and overview from the complete bounded source set. Core synthesis: adaptable clothing, movement, ordinary food, and exposure reduction should be separated from unvalidated seasonal TCM mechanisms, while price, age, rarity, color, packaging, novelty, and calendar timing do not establish clinical need or value. The source appropriately rejects routine use of 安宫牛黄丸 and escalates severe allergy and prolonged amenorrhea. No settled contradiction found; liver, wind, dampness, “发物,” qi, blood, yin, yang, food, herb, patent-medicine, moxibustion, and acupoint claims remain source-scoped public education rather than individualized care. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

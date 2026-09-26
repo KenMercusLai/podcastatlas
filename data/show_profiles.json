@@ -3458,7 +3458,7 @@
       "earliest_episode_date": "2022-12-15",
       "latest_episode_date": "2026-09-21",
       "latest_episode_file": "lnkG92MQovwQW-ixwqRGJs-evrRi [lnkG92MQovwQW-ixwqRGJs-evrRi].md",
-      "source_note_count": 80,
+      "source_note_count": 81,
       "topic_matched_source_note_count": 7,
       "topics": [
         {
@@ -3510,6 +3510,13 @@
           "episode_count": 4
         },
         {
+          "key": "MaoZheTCMDoctor",
+          "title": "毛哲 / Mao Zhe (TCM Guest)",
+          "url": "/wiki/entities/maozhetcmdoctor/",
+          "kind": "person",
+          "episode_count": 4
+        },
+        {
           "key": "DongXintong",
           "title": "董心彤 / Dong Xintong",
           "url": "/wiki/entities/dongxintong/",
@@ -3527,13 +3534,6 @@
           "key": "YaMengDoctor",
           "title": "亚萌 / Ya Meng",
           "url": "/wiki/entities/yamengdoctor/",
-          "kind": "person",
-          "episode_count": 3
-        },
-        {
-          "key": "YinLaoshiZheBing",
-          "title": "尹老师 / Yin Laoshi (Zhe Bing speaker)",
-          "url": "/wiki/entities/yinlaoshizhebing/",
           "kind": "person",
           "episode_count": 3
         }

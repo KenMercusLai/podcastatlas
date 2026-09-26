@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 8232
+wiki_total_pages: 8234
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -182,6 +182,9 @@ wiki_pages:
   - key: "TayloristFactoryTime"
     title: "Taylorist Factory Time / 泰勒制工厂时间"
     url: "/wiki/concepts/tayloristfactorytime/"
+  - key: "TCMSpringSelfCareBoundary"
+    title: "TCM Spring Self-Care Boundary / 中医春季养生边界"
+    url: "/wiki/concepts/tcmspringselfcareboundary/"
   - key: "TCMSummerPatternDifferentiation"
     title: "TCM Summer Pattern Differentiation / 中医夏季寒湿湿热辨别"
     url: "/wiki/concepts/tcmsummerpatterndifferentiation/"
