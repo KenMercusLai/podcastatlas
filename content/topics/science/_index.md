@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1215
+topic_total_pages: 1217
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1582,6 +1582,9 @@ topic_concepts:
   - key: "RetailBullMarketPsychology"
     title: "Retail Bull Market Psychology"
     url: "/wiki/concepts/retailbullmarketpsychology/"
+  - key: "RetinalNeuralCoding"
+    title: "Retinal Neural Coding"
+    url: "/wiki/concepts/retinalneuralcoding/"
   - key: "RetrosynthesisAI"
     title: "Retrosynthesis AI"
     url: "/wiki/concepts/retrosynthesisai/"
@@ -3441,6 +3444,9 @@ topic_sources:
   - key: "how-relationships-shape-your-brain-dr-allan-schore-scim1947263719"
     title: "How Relationships Shape Your Brain | Dr. Allan Schore"
     url: "/wiki/sources/how-relationships-shape-your-brain-dr-allan-schore-scim1947263719/"
+  - key: "how-the-brain-works-curing-blindness-how-to-navigate-a-career-path-dr-e-j-chichilnisky-scim7934230780"
+    title: "How the Brain Works, Curing Blindness & How to Navigate a Career Path | Dr. E.J. Chichilnisky"
+    url: "/wiki/sources/how-the-brain-works-curing-blindness-how-to-navigate-a-career-path-dr-e-j-chichilnisky-scim7934230780/"
   - key: "how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733"
     title: "How to Better Regulate Your Emotions | Dr. Marc Brackett"
     url: "/wiki/sources/how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733/"

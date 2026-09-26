@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 8217
+wiki_total_pages: 8219
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -665,6 +665,9 @@ wiki_pages:
   - key: "Retatrutide"
     title: "Retatrutide"
     url: "/wiki/concepts/retatrutide/"
+  - key: "RetinalNeuralCoding"
+    title: "Retinal Neural Coding"
+    url: "/wiki/concepts/retinalneuralcoding/"
   - key: "RetirementCashFlowSecurity"
     title: "Retirement Cash-Flow Security"
     url: "/wiki/concepts/retirementcashflowsecurity/"

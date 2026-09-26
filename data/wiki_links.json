@@ -12219,6 +12219,10 @@
     "title": "Cell-to-Cell Logic Stacking",
     "url": "/wiki/concepts/celltocelllogicstacking/"
   },
+  "CellTypeAwareRetinalProsthesis": {
+    "title": "Cell-Type-Aware Retinal Prosthesis",
+    "url": "/wiki/concepts/celltypeawareretinalprosthesis/"
+  },
   "CellularMetabolismMosaic": {
     "title": "Cellular Metabolism Mosaic",
     "url": "/wiki/concepts/cellularmetabolismmosaic/"
@@ -20914,6 +20918,10 @@
   "EEGBrainReading": {
     "title": "EEG Brain Reading",
     "url": "/wiki/concepts/eegbrainreading/"
+  },
+  "EJChichilnisky": {
+    "title": "E.J. Chichilnisky",
+    "url": "/wiki/entities/ejchichilnisky/"
   },
   "ELFCosmetics": {
     "title": "e.l.f. Cosmetics",
@@ -57019,6 +57027,10 @@
     "title": "Retatrutide",
     "url": "/wiki/concepts/retatrutide/"
   },
+  "RetinalNeuralCoding": {
+    "title": "Retinal Neural Coding",
+    "url": "/wiki/concepts/retinalneuralcoding/"
+  },
   "RetirementCashFlowSecurity": {
     "title": "Retirement Cash-Flow Security",
     "url": "/wiki/concepts/retirementcashflowsecurity/"
@@ -80286,6 +80298,10 @@
   "how-smartphones-social-media-impact-mental-health-the-realistic-solutions-dr-jonathan-haidt-scim1870541944": {
     "title": "How Smartphones & Social Media Impact Mental Health & the Realistic Solutions | Dr. Jonathan Haidt",
     "url": "/wiki/sources/how-smartphones-social-media-impact-mental-health-the-realistic-solutions-dr-jonathan-haidt-scim1870541944/"
+  },
+  "how-the-brain-works-curing-blindness-how-to-navigate-a-career-path-dr-e-j-chichilnisky-scim7934230780": {
+    "title": "How the Brain Works, Curing Blindness & How to Navigate a Career Path | Dr. E.J. Chichilnisky",
+    "url": "/wiki/sources/how-the-brain-works-curing-blindness-how-to-navigate-a-career-path-dr-e-j-chichilnisky-scim7934230780/"
   },
   "how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815": {
     "title": "How to Accelerate Learning & Improve Education | Joe Liemandt",

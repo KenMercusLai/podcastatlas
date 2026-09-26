@@ -21196,6 +21196,22 @@
       "updated": "2026-09-15",
       "url": "/wiki/concepts/celebrityledmarketentry/"
     },
+    "CellTypeAwareRetinalProsthesis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7934230780 [SCIM7934230780].md",
+          "key": "how-the-brain-works-curing-blindness-how-to-navigate-a-career-path-dr-e-j-chichilnisky-scim7934230780",
+          "show": "Huberman Lab",
+          "title": "How the Brain Works, Curing Blindness & How to Navigate a Career Path | Dr. E.J. Chichilnisky",
+          "url": "/wiki/sources/how-the-brain-works-curing-blindness-how-to-navigate-a-career-path-dr-e-j-chichilnisky-scim7934230780/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/celltypeawareretinalprosthesis/"
+    },
     "CellularMetabolismMosaic": {
       "episode_count": 1,
       "show_count": 1,
@@ -39845,6 +39861,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/ectbipolardepressionboundary/"
+    },
+    "EJChichilnisky": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7934230780 [SCIM7934230780].md",
+          "key": "how-the-brain-works-curing-blindness-how-to-navigate-a-career-path-dr-e-j-chichilnisky-scim7934230780",
+          "show": "Huberman Lab",
+          "title": "How the Brain Works, Curing Blindness & How to Navigate a Career Path | Dr. E.J. Chichilnisky",
+          "url": "/wiki/sources/how-the-brain-works-curing-blindness-how-to-navigate-a-career-path-dr-e-j-chichilnisky-scim7934230780/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/ejchichilnisky/"
     },
     "EVProductFailureRecovery": {
       "episode_count": 1,
@@ -118374,6 +118406,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/retatrutide/"
     },
+    "RetinalNeuralCoding": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7934230780 [SCIM7934230780].md",
+          "key": "how-the-brain-works-curing-blindness-how-to-navigate-a-career-path-dr-e-j-chichilnisky-scim7934230780",
+          "show": "Huberman Lab",
+          "title": "How the Brain Works, Curing Blindness & How to Navigate a Career Path | Dr. E.J. Chichilnisky",
+          "url": "/wiki/sources/how-the-brain-works-curing-blindness-how-to-navigate-a-career-path-dr-e-j-chichilnisky-scim7934230780/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/retinalneuralcoding/"
+    },
     "RetirementCashFlowSecurity": {
       "episode_count": 3,
       "show_count": 2,
@@ -123801,9 +123849,9 @@
       "url": "/wiki/concepts/selectiveauditoryattention/"
     },
     "SelectiveNeuralStimulationPrecision": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2644851631 [SCIM2644851631].md",
@@ -123811,9 +123859,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Understanding & Healing the Mind | Dr. Karl Deisseroth",
           "url": "/wiki/sources/essentials-understanding-healing-the-mind-dr-karl-deisseroth-scim2644851631/"
+        },
+        {
+          "episode_file": "SCIM7934230780 [SCIM7934230780].md",
+          "key": "how-the-brain-works-curing-blindness-how-to-navigate-a-career-path-dr-e-j-chichilnisky-scim7934230780",
+          "show": "Huberman Lab",
+          "title": "How the Brain Works, Curing Blindness & How to Navigate a Career Path | Dr. E.J. Chichilnisky",
+          "url": "/wiki/sources/how-the-brain-works-curing-blindness-how-to-navigate-a-career-path-dr-e-j-chichilnisky-scim7934230780/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-26",
       "url": "/wiki/concepts/selectiveneuralstimulationprecision/"
     },
     "SelectiveSinicizationInJapan": {

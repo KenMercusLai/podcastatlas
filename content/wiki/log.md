@@ -22882,3 +22882,11 @@ Added source `431-titanic-nightmare-at-midnight-part-5-glt2941711597`; created `
 ## [2026-09-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-26] ingest | How the Brain Works, Curing Blindness & How to Navigate a Career Path | Dr. E.J. Chichilnisky
+
+Added source `how-the-brain-works-curing-blindness-how-to-navigate-a-career-path-dr-e-j-chichilnisky-scim7934230780`; created `EJChichilnisky`, `RetinalNeuralCoding`, and `CellTypeAwareRetinalProsthesis`; and updated `SelectiveNeuralStimulationPrecision` from its complete bounded source set. Core synthesis: the retina sends multiple cell-type-specific feature channels rather than a simple pixel map, so useful prosthetic vision requires identifying and calibrating surviving output cells and reproducing coordinated activity patterns. No settled contradiction found. Current implants produce crude percepts; high-fidelity restoration, augmentation, AI-guided calibration, and gradual sensory expansion remain research aims. The source-body surname typo was normalized from episode metadata. The automatic `wiki/overview.md` was not rewritten; downstream synthesis refresh reads it as canonical input.
+
+## [2026-09-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8217
+wiki_total_pages: 8219
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -386,6 +386,9 @@ wiki_pages:
   - key: "CellToCellLogicStacking"
     title: "Cell-to-Cell Logic Stacking"
     url: "/wiki/concepts/celltocelllogicstacking/"
+  - key: "CellTypeAwareRetinalProsthesis"
+    title: "Cell-Type-Aware Retinal Prosthesis"
+    url: "/wiki/concepts/celltypeawareretinalprosthesis/"
   - key: "CellularMetabolismMosaic"
     title: "Cellular Metabolism Mosaic"
     url: "/wiki/concepts/cellularmetabolismmosaic/"
