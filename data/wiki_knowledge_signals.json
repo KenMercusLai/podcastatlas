@@ -8399,9 +8399,9 @@
       "url": "/wiki/entities/andreaskarlstadt/"
     },
     "AndrewHuberman": {
-      "episode_count": 47,
+      "episode_count": 48,
       "show_count": 1,
-      "source_note_count": 47,
+      "source_note_count": 48,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -8731,6 +8731,13 @@
           "show": "Huberman Lab",
           "title": "How to Prevent & Treat Colds & Flu",
           "url": "/wiki/sources/how-to-prevent-treat-colds-flu-scim6817932732/"
+        },
+        {
+          "episode_file": "SCIM6232468504 [SCIM6232468504].md",
+          "key": "how-to-build-immense-inner-strength-david-goggins-scim6232468504",
+          "show": "Huberman Lab",
+          "title": "How to Build Immense Inner Strength | David Goggins",
+          "url": "/wiki/sources/how-to-build-immense-inner-strength-david-goggins-scim6232468504/"
         }
       ],
       "updated": "2026-09-27",
@@ -34612,6 +34619,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/entities/davidgiffels/"
     },
+    "DavidGoggins": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6232468504 [SCIM6232468504].md",
+          "key": "how-to-build-immense-inner-strength-david-goggins-scim6232468504",
+          "show": "Huberman Lab",
+          "title": "How to Build Immense Inner Strength | David Goggins",
+          "url": "/wiki/sources/how-to-build-immense-inner-strength-david-goggins-scim6232468504/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/davidgoggins/"
+    },
     "DavidHume": {
       "episode_count": 1,
       "show_count": 1,
@@ -37874,9 +37897,9 @@
       "url": "/wiki/concepts/disastervictimidentificationandbodyabsentmourning/"
     },
     "DisciplineOverMotivation": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM2090153799 [SCIM2090153799].md",
@@ -37898,9 +37921,16 @@
           "show": "Huberman Lab",
           "title": "The Mental Frame & Specific Daily Actions to Succeed | Andy Stumpf",
           "url": "/wiki/sources/the-mental-frame-specific-daily-actions-to-succeed-andy-stumpf-scim2498586099/"
+        },
+        {
+          "episode_file": "SCIM6232468504 [SCIM6232468504].md",
+          "key": "how-to-build-immense-inner-strength-david-goggins-scim6232468504",
+          "show": "Huberman Lab",
+          "title": "How to Build Immense Inner Strength | David Goggins",
+          "url": "/wiki/sources/how-to-build-immense-inner-strength-david-goggins-scim6232468504/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/disciplineovermotivation/"
     },
     "Disco": {
@@ -69316,9 +69346,9 @@
       "url": "/wiki/entities/hubeihumanoidinnovationcenter/"
     },
     "HubermanLab": {
-      "episode_count": 47,
+      "episode_count": 48,
       "show_count": 1,
-      "source_note_count": 47,
+      "source_note_count": 48,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -69648,6 +69678,13 @@
           "show": "Huberman Lab",
           "title": "How to Prevent & Treat Colds & Flu",
           "url": "/wiki/sources/how-to-prevent-treat-colds-flu-scim6817932732/"
+        },
+        {
+          "episode_file": "SCIM6232468504 [SCIM6232468504].md",
+          "key": "how-to-build-immense-inner-strength-david-goggins-scim6232468504",
+          "show": "Huberman Lab",
+          "title": "How to Build Immense Inner Strength | David Goggins",
+          "url": "/wiki/sources/how-to-build-immense-inner-strength-david-goggins-scim6232468504/"
         }
       ],
       "updated": "2026-09-27",
@@ -132335,9 +132372,9 @@
       "url": "/wiki/entities/slicy/"
     },
     "SlightlyHarderChoice": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2498586099 [SCIM2498586099].md",
@@ -132345,9 +132382,16 @@
           "show": "Huberman Lab",
           "title": "The Mental Frame & Specific Daily Actions to Succeed | Andy Stumpf",
           "url": "/wiki/sources/the-mental-frame-specific-daily-actions-to-succeed-andy-stumpf-scim2498586099/"
+        },
+        {
+          "episode_file": "SCIM6232468504 [SCIM6232468504].md",
+          "key": "how-to-build-immense-inner-strength-david-goggins-scim6232468504",
+          "show": "Huberman Lab",
+          "title": "How to Build Immense Inner Strength | David Goggins",
+          "url": "/wiki/sources/how-to-build-immense-inner-strength-david-goggins-scim6232468504/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/slightlyharderchoice/"
     },
     "SlowGatheringImprovisation": {

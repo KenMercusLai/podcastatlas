@@ -23300,3 +23300,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | How to Build Immense Inner Strength | David Goggins
+
+Added source `how-to-build-immense-inner-strength-david-goggins-scim6232468504`; created `DavidGoggins`; and updated `AndrewHuberman`, `HubermanLab`, `DisciplineOverMotivation`, `SlightlyHarderChoice`, the canonical index, and overview from their complete bounded source sets. Core synthesis: discipline is a maintained practice spanning physical effort, medical study, repetition, self-examination, solitude, internal dialogue, and confidence built from remembered action rather than external applause. No settled contradiction found. Goggins's extreme autobiographical method is not a universal dose, and the episode's anterior mid-cingulate, dopamine, pain, obesity, dieting, athletic, longevity, plasticity, and will-to-live claims remain source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

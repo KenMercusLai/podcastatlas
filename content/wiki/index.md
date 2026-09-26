@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Build Immense Inner Strength | David Goggins](sources/how-to-build-immense-inner-strength-david-goggins-scim6232468504.md) — Huberman Lab interview on willpower as maintained practice, difficult self-examination, repeated study, inner dialogue, earned confidence, and the limits of extreme autobiographical discipline.
 - [VOL.93消化内科｜有屁不放损害五脏？这几个坏习惯你占几个？便秘和腹泻时这样做！](sources/vol-93-xiaohuaneike-you-pi-bu-fang-sunhai-wuzang-zhe-jige-huai-xiguan-ni-zhan-jige-bianmi-he-fuxie-shi-zheyang-zuo-lgrsyf6ozplphgjjpcrh7dspc_do.md) — 这病说来话长 episode with 蒋永亮 on digestive symptoms, H. pylori, diet myths, bowel warning signs, colorectal screening, gastrectomy recovery, and pancreatic imaging findings.
 - [405. The Nazis in Power: The Nuremberg Rallies (Part 2)](sources/405-the-nazis-in-power-the-nuremberg-rallies-part-2-glt8681167377.md) — The Rest Is History episode on Nazi spectacle, ritual, film and radio saturation, gender and youth socialization, schooling, and Olympic propaganda.
 - [406. The Nazis in Power: Hitler’s Road to War (Part 3)](sources/406-the-nazis-in-power-hitlers-road-to-war-part-3-glt6776521114.md) — The Rest Is History episode on struggle ideology, conquest-dependent rearmament, Allied division, the Rhineland gamble, and success-driven escalation.
@@ -2935,6 +2936,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Prevent & Treat Colds & Flu](sources/how-to-prevent-treat-colds-flu-scim6817932732.md) — Huberman Lab solo episode on respiratory-virus transmission, layered immune defense, sleep and training load, heat boundaries, and supplement evidence.
 
 ## Entities
+- [David Goggins](entities/DavidGoggins.md) — Endurance athlete, author, and paramedic student framing discipline as repeated constructive action, self-examination, and confidence earned without external applause.
 - [1934 Nuremberg Rally](entities/NurembergRally1934.md) — Nazi congress that staged post-purge consolidation through historical myth, sacred ritual, mass choreography, light, and film.
 - [Remilitarization of the Rhineland](entities/RhinelandRemilitarization.md) — March 1936 German treaty violation whose unopposed success changed the strategic balance and Hitler’s risk expectations.
 - [胡亚婷 / Hu Yating (Screenwriter)](entities/HuYatingScreenwriter.md) — Screenwriter explaining the composite research, imperfect protagonist, light-comedy tone, and equality-based intent of 《欢迎来到麦乐村》.
