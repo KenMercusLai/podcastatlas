@@ -1658,6 +1658,23 @@
       "url": "/topics/culture/"
     }
   ],
+  "419-britain-in-1974-countdown-to-a-coup-part-3-glt2033018212": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "42-anduo-fengqi-yu-qingping-zhi-mo-616391638": [
     {
       "key": "politics",
@@ -14164,6 +14181,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "BritishCoupParanoia1974": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "BritishDeindustrialization1970s": [
     {
       "key": "economics",
@@ -22079,6 +22103,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "DavidStirling": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "DavidWeng": [
@@ -47152,6 +47183,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "MarciaWilliams": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "MarcoRubio": [
     {
       "key": "politics",
@@ -66856,6 +66894,13 @@
       "url": "/topics/science/"
     }
   ],
+  "SocialContractUK1970s": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "SocialDarwinism": [
     {
       "key": "politics",
@@ -69926,6 +69971,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "SunningdalePowerSharingCollapse": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "Suno": [
@@ -76778,6 +76830,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "WalterWalker": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "WanCounty": [

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 8271
+wiki_total_pages: 8274
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2033,6 +2033,9 @@ wiki_pages:
   - key: "SummitCeremonySubstanceGap"
     title: "Summit Ceremony-Substance Gap"
     url: "/wiki/concepts/summitceremonysubstancegap/"
+  - key: "SunningdalePowerSharingCollapse"
+    title: "Sunningdale Power-Sharing Collapse"
+    url: "/wiki/concepts/sunningdalepowersharingcollapse/"
   - key: "SuperJustice"
     title: "Super Justice"
     url: "/wiki/concepts/superjustice/"
@@ -2231,6 +2234,9 @@ wiki_pages:
   - key: "SystemicSleepLossEffects"
     title: "Systemic Sleep-Loss Effects"
     url: "/wiki/concepts/systemicsleeplosseffects/"
+  - key: "SocialContractUK1970s"
+    title: "UK Social Contract in the 1970s"
+    url: "/wiki/concepts/socialcontractuk1970s/"
   - key: "SanhuLawAppointmentConstraint"
     title: "三互法任官限制 / Sanhu Law Appointment Constraint"
     url: "/wiki/concepts/sanhulawappointmentconstraint/"

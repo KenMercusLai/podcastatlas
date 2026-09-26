@@ -17389,9 +17389,9 @@
       "url": "/wiki/concepts/briggsvmullen/"
     },
     "Britain1976IMFCrisis": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT9598017819 [GLT9598017819].md",
@@ -17420,6 +17420,13 @@
           "show": "The Rest Is History",
           "title": "420. Britain in 1974: Thatcher Enters the Ring (Part 4)",
           "url": "/wiki/sources/420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515/"
+        },
+        {
+          "episode_file": "GLT2033018212 [GLT2033018212].md",
+          "key": "419-britain-in-1974-countdown-to-a-coup-part-3-glt2033018212",
+          "show": "The Rest Is History",
+          "title": "419. Britain in 1974: Countdown to a Coup (Part 3)",
+          "url": "/wiki/sources/419-britain-in-1974-countdown-to-a-coup-part-3-glt2033018212/"
         }
       ],
       "updated": "2026-09-27",
@@ -17454,6 +17461,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/britisharmy/"
+    },
+    "BritishCoupParanoia1974": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2033018212 [GLT2033018212].md",
+          "key": "419-britain-in-1974-countdown-to-a-coup-part-3-glt2033018212",
+          "show": "The Rest Is History",
+          "title": "419. Britain in 1974: Countdown to a Coup (Part 3)",
+          "url": "/wiki/sources/419-britain-in-1974-countdown-to-a-coup-part-3-glt2033018212/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/britishcoupparanoia1974/"
     },
     "BritishDeindustrialization1970s": {
       "episode_count": 1,
@@ -34153,6 +34176,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/davidsilver/"
     },
+    "DavidStirling": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2033018212 [GLT2033018212].md",
+          "key": "419-britain-in-1974-countdown-to-a-coup-part-3-glt2033018212",
+          "show": "The Rest Is History",
+          "title": "419. Britain in 1974: Countdown to a Coup (Part 3)",
+          "url": "/wiki/sources/419-britain-in-1974-countdown-to-a-coup-part-3-glt2033018212/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/davidstirling/"
+    },
     "DavidYeager": {
       "episode_count": 2,
       "show_count": 1,
@@ -35775,9 +35814,9 @@
       "url": "/wiki/concepts/deniablepatronagesignaling/"
     },
     "DenisHealey": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT9598017819 [GLT9598017819].md",
@@ -35792,6 +35831,13 @@
           "show": "The Rest Is History",
           "title": "664. Britain in the 70s: Scandal in Downing Street (Part 3)",
           "url": "/wiki/sources/664-britain-in-the-70s-scandal-in-downing-street-part-3-glt9115516865/"
+        },
+        {
+          "episode_file": "GLT2033018212 [GLT2033018212].md",
+          "key": "419-britain-in-1974-countdown-to-a-coup-part-3-glt2033018212",
+          "show": "The Rest Is History",
+          "title": "419. Britain in 1974: Countdown to a Coup (Part 3)",
+          "url": "/wiki/sources/419-britain-in-1974-countdown-to-a-coup-part-3-glt2033018212/"
         }
       ],
       "updated": "2026-09-13",
@@ -63101,9 +63147,9 @@
       "url": "/wiki/entities/haroldgodwinson/"
     },
     "HaroldWilson": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT2308408988 [GLT2308408988].md",
@@ -63132,6 +63178,13 @@
           "show": "The Rest Is History",
           "title": "420. Britain in 1974: Thatcher Enters the Ring (Part 4)",
           "url": "/wiki/sources/420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515/"
+        },
+        {
+          "episode_file": "GLT2033018212 [GLT2033018212].md",
+          "key": "419-britain-in-1974-countdown-to-a-coup-part-3-glt2033018212",
+          "show": "The Rest Is History",
+          "title": "419. Britain in 1974: Countdown to a Coup (Part 3)",
+          "url": "/wiki/sources/419-britain-in-1974-countdown-to-a-coup-part-3-glt2033018212/"
         }
       ],
       "updated": "2026-09-27",
@@ -93197,6 +93250,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/marcellolippi/"
     },
+    "MarciaWilliams": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2033018212 [GLT2033018212].md",
+          "key": "419-britain-in-1974-countdown-to-a-coup-part-3-glt2033018212",
+          "show": "The Rest Is History",
+          "title": "419. Britain in 1974: Countdown to a Coup (Part 3)",
+          "url": "/wiki/sources/419-britain-in-1974-countdown-to-a-coup-part-3-glt2033018212/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/marciawilliams/"
+    },
     "MarconiCompany": {
       "episode_count": 1,
       "show_count": 1,
@@ -103686,9 +103755,9 @@
       "url": "/wiki/entities/oceanbase/"
     },
     "October1974UKGeneralElection": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2799978515 [GLT2799978515].md",
@@ -103696,6 +103765,13 @@
           "show": "The Rest Is History",
           "title": "420. Britain in 1974: Thatcher Enters the Ring (Part 4)",
           "url": "/wiki/sources/420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515/"
+        },
+        {
+          "episode_file": "GLT2033018212 [GLT2033018212].md",
+          "key": "419-britain-in-1974-countdown-to-a-coup-part-3-glt2033018212",
+          "show": "The Rest Is History",
+          "title": "419. Britain in 1974: Countdown to a Coup (Part 3)",
+          "url": "/wiki/sources/419-britain-in-1974-countdown-to-a-coup-part-3-glt2033018212/"
         }
       ],
       "updated": "2026-09-27",
@@ -130418,6 +130494,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/snyderslance/"
     },
+    "SocialContractUK1970s": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2033018212 [GLT2033018212].md",
+          "key": "419-britain-in-1974-countdown-to-a-coup-part-3-glt2033018212",
+          "show": "The Rest Is History",
+          "title": "419. Britain in 1974: Countdown to a Coup (Part 3)",
+          "url": "/wiki/sources/419-britain-in-1974-countdown-to-a-coup-part-3-glt2033018212/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/socialcontractuk1970s/"
+    },
     "SocialEmbarrassmentFear": {
       "episode_count": 1,
       "show_count": 1,
@@ -136066,6 +136158,22 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/concepts/sunkcostentrapment/"
+    },
+    "SunningdalePowerSharingCollapse": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2033018212 [GLT2033018212].md",
+          "key": "419-britain-in-1974-countdown-to-a-coup-part-3-glt2033018212",
+          "show": "The Rest Is History",
+          "title": "419. Britain in 1974: Countdown to a Coup (Part 3)",
+          "url": "/wiki/sources/419-britain-in-1974-countdown-to-a-coup-part-3-glt2033018212/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/sunningdalepowersharingcollapse/"
     },
     "SunwodaPower": {
       "episode_count": 1,
@@ -141867,9 +141975,9 @@
       "url": "/wiki/entities/tonyacrcloud/"
     },
     "TonyBenn": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT9598017819 [GLT9598017819].md",
@@ -141891,6 +141999,13 @@
           "show": "The Rest Is History",
           "title": "420. Britain in 1974: Thatcher Enters the Ring (Part 4)",
           "url": "/wiki/sources/420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515/"
+        },
+        {
+          "episode_file": "GLT2033018212 [GLT2033018212].md",
+          "key": "419-britain-in-1974-countdown-to-a-coup-part-3-glt2033018212",
+          "show": "The Rest Is History",
+          "title": "419. Britain in 1974: Countdown to a Coup (Part 3)",
+          "url": "/wiki/sources/419-britain-in-1974-countdown-to-a-coup-part-3-glt2033018212/"
         }
       ],
       "updated": "2026-09-27",
@@ -146518,6 +146633,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/entities/walterraleigh/"
+    },
+    "WalterWalker": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2033018212 [GLT2033018212].md",
+          "key": "419-britain-in-1974-countdown-to-a-coup-part-3-glt2033018212",
+          "show": "The Rest Is History",
+          "title": "419. Britain in 1974: Countdown to a Coup (Part 3)",
+          "url": "/wiki/sources/419-britain-in-1974-countdown-to-a-coup-part-3-glt2033018212/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/walterwalker/"
     },
     "WanChengLujiang": {
       "episode_count": 1,

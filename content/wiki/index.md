@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [419. Britain in 1974: Countdown to a Coup (Part 3)](sources/419-britain-in-1974-countdown-to-a-coup-part-3-glt2033018212.md) — The Rest Is History on Wilson's fragile minority government, the Social Contract, Number 10 dysfunction, Sunningdale's collapse, and qualified fears of a right-wing coup.
 - [420. Britain in 1974: Thatcher Enters the Ring (Part 4)](sources/420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515.md) — The Rest Is History on the October 1974 election, Guildford and Birmingham bombings and wrongful convictions, structural industrial decline, Heath's collapse, and Thatcher's decision to challenge.
 - [How to Optimize Cognitive Function & Brain Health | Dr. Mark D'Esposito](sources/how-to-optimize-cognitive-function-brain-health-dr-mark-desposito-scim4205449835.md) — Huberman Lab interview on executive function, active working memory, dopamine's inverted-U, goal-management training, concussion recovery, and brain-network modularity.
 - [421. Ancient Carthage: Lords of the Sea (Part 1)](sources/421-ancient-carthage-lords-of-the-sea-part-1-glt1311066631.md) — The Rest Is History on Tyre, Phoenician identity and maritime networks, Dido, alphabet transmission, and archaeological evidence for Carthaginian child sacrifice.
@@ -2906,6 +2907,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.106胸外科｜王兴：病人家属问我怎么能够讨好医生｜胸闷、气胸、肺结节问题回答篇](sources/vol-106-xiongwaike-wangxing-bingren-jiashu-wen-wo-zenme-nenggou-taohao-yisheng-lrjqaw3ovznk0zn4-jfj3f2xyvzi.md) — 这病说来话长 listener Q&A on pulmonary-nodule surveillance, chest-symptom attribution, postoperative pain, chest-wall deformity, pneumothorax recurrence, and medical-care boundaries.
 
 ## Entities
+- [Marcia Williams](entities/MarciaWilliams.md) — Wilson's private secretary and gatekeeper, presented through a qualified account of political dependence, office conflict, and hostile aide testimony.
+- [Walter Walker](entities/WalterWalker.md) — Retired general whose anti-communist strongman rhetoric became part of 1974 coup speculation without proving operational capability.
+- [David Stirling](entities/DavidStirling.md) — SAS founder and GB75 organizer whose essential-services plan fed coup fears without demonstrating a seizure plan.
 - [Mark D'Esposito](entities/MarkDEsposito.md) — Neurologist and cognitive neuroscientist connecting frontal control, working memory, rehabilitation, and network organization.
 - [Becky Kennedy](entities/BeckyKennedy.md) — Clinical psychologist and Good Inside founder connecting sturdy leadership, boundaries, validation, repair, and frustration tolerance.
 - [Good Inside](entities/GoodInside.md) — Parenting platform and identity-without-excusing-behavior framework founded by Becky Kennedy.
@@ -13798,6 +13802,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lord Elgin](entities/LordElgin.md) — British diplomat at the center of Byron's cultural-plunder attack and Hobhouse's preservation counterargument.
 
 ## Concepts
+- [UK Social Contract in the 1970s](concepts/SocialContractUK1970s.md) — Labour bargain exchanging social-policy gains for voluntary wage restraint, weakened by decentralized bargaining and unequal inflation protection.
+- [Sunningdale Power-Sharing Collapse](concepts/SunningdalePowerSharingCollapse.md) — May 1974 defeat of Northern Ireland power-sharing under essential-service shutdown, loyalist coercion, and paramilitary violence.
+- [British Coup Paranoia in 1974](concepts/BritishCoupParanoia1974.md) — Qualified synthesis separating real suspicion, rhetoric, and emergency organizing from evidence of an operational anti-Wilson coup.
 - [October 1974 UK General Election](concepts/October1974UKGeneralElection.md) — Labour's three-seat victory amid terrorism, inflation, industrial decline, and Conservative leadership collapse.
 - [Terrorism Pressure and Wrongful Conviction](concepts/TerrorismPressureWrongfulConviction.md) — Justice failure risk when attack-driven urgency, coercion, and institutional certainty produce convictions of innocent people.
 - [British Deindustrialization in the 1970s](concepts/BritishDeindustrialization1970s.md) — Structural contraction of older British industries and the tradeoffs among subsidy, planning, protection, and restructuring.

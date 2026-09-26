@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 10877
+wiki_total_pages: 10880
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -236,6 +236,9 @@ wiki_pages:
   - key: "MarchHare"
     title: "March Hare / 三月兔"
     url: "/wiki/entities/marchhare/"
+  - key: "MarciaWilliams"
+    title: "Marcia Williams"
+    url: "/wiki/entities/marciawilliams/"
   - key: "MarcoRubio"
     title: "Marco Rubio"
     url: "/wiki/entities/marcorubio/"

@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2104
+topic_total_pages: 2106
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2977,6 +2977,9 @@ topic_concepts:
   - key: "USChinaStrategicStalemate"
     title: "U.S.-China Strategic Stalemate"
     url: "/wiki/concepts/uschinastrategicstalemate/"
+  - key: "SocialContractUK1970s"
+    title: "UK Social Contract in the 1970s"
+    url: "/wiki/concepts/socialcontractuk1970s/"
   - key: "UncertainEraOptionality"
     title: "Uncertain-Era Optionality / 乱纪元选择权"
     url: "/wiki/concepts/uncertaineraoptionality/"
@@ -5613,6 +5616,9 @@ topic_sources:
   - key: "22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427"
     title: "22.足球经济学：读者不必是球迷"
     url: "/wiki/sources/22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427/"
+  - key: "419-britain-in-1974-countdown-to-a-coup-part-3-glt2033018212"
+    title: "419. Britain in 1974: Countdown to a Coup (Part 3)"
+    url: "/wiki/sources/419-britain-in-1974-countdown-to-a-coup-part-3-glt2033018212/"
   - key: "420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515"
     title: "420. Britain in 1974: Thatcher Enters the Ring (Part 4)"
     url: "/wiki/sources/420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515/"

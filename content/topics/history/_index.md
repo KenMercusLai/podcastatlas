@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2041
+topic_total_pages: 2042
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -4635,6 +4635,9 @@ topic_sources:
   - key: "41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038"
     title: "41.施剑翘复仇案：超越哈贝马斯的情与法"
     url: "/wiki/sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038/"
+  - key: "419-britain-in-1974-countdown-to-a-coup-part-3-glt2033018212"
+    title: "419. Britain in 1974: Countdown to a Coup (Part 3)"
+    url: "/wiki/sources/419-britain-in-1974-countdown-to-a-coup-part-3-glt2033018212/"
   - key: "420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515"
     title: "420. Britain in 1974: Thatcher Enters the Ring (Part 4)"
     url: "/wiki/sources/420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515/"
