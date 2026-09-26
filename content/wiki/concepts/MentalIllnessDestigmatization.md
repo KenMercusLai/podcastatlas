@@ -5,7 +5,8 @@ tags: [mental-health, stigma, psychiatry, public-health]
 sources:
   - shidai-zhenghou-yu-anding-cixin-lphaw0qek8ibr0jt44yygou6akql
   - shi-di-fu-shuo-466-jiangtao-5wan-jingshenke-yisheng-dui-1yi-jingshen-jibing-huanzhe-lpdsk96akpwtccxyesjdgtw8skbn
-last_updated: 2026-09-08
+  - lvfirgzbmtwypcjqyqry291qz6cw-lvfirgzbmtwypcjqyqry291qz6cw
+last_updated: 2026-09-26
 knowledge_schema: synthesis-v1
 ---
 
@@ -19,7 +20,7 @@ The episode makes destigmatization practical by joining the patient and family p
 
 Destigmatization here does not mean minimizing severity. The source still discusses hospitalization, suicide risk, psychosis, long-term medication, side effects, relapse, and family burden. Its anti-stigma claim is that these realities become harder to handle when patients and relatives must also carry shame, secrecy, online labeling, or fear that diagnosis proves defective personhood.
 
-The current synthesis now includes the other side of public acceptance: once mental-health vocabulary becomes common, diagnostic terms can become too casual. Jiang Tao treats destigmatization and diagnostic seriousness as paired obligations. People should seek help without shame, but ADHD, NPD, schizophrenia, depression, anxiety, and personality-disorder language should not be used as identity fashion or everyday insult.
+The current synthesis also includes the other side of public acceptance: once mental-health vocabulary becomes common, diagnostic terms can become too casual. Jiang Tao treats destigmatization and diagnostic seriousness as paired obligations. VOL.108 applies that pair to children: fear of an ADHD label should not block assessment when function is impaired, while “淘气,” “爱动,” or “聪明” should not become informal diagnosis. People should seek help without shame, but ADHD, NPD, schizophrenia, depression, anxiety, and personality-disorder language should not be used as identity fashion or everyday insult.
 
 ## Key Claims
 - Psychiatric illness should not be treated as a shameful category separate from other illness.
@@ -38,12 +39,13 @@ The current synthesis now includes the other side of public acceptance: once men
 - Medication meaning - [[shidai-zhenghou-yu-anding-cixin-lphaw0qek8ibr0jt44yygou6akql]] lists shame, side effects, inconvenience, and rejection of patient identity among reasons patients resist medication.
 - Social shift - [[shi-di-fu-shuo-466-jiangtao-5wan-jingshenke-yisheng-dui-1yi-jingshen-jibing-huanzhe-lpdsk96akpwtccxyesjdgtw8skbn]] says public understanding has moved from equating mental illness with "madness" toward more acceptance of depression, anxiety, and emotional disorders.
 - Label caution - [[shi-di-fu-shuo-466-jiangtao-5wan-jingshenke-yisheng-dui-1yi-jingshen-jibing-huanzhe-lpdsk96akpwtccxyesjdgtw8skbn]] warns that ADHD, NPD, and personality-disorder labels should not become casual self-diagnosis or social shorthand.
+- Pediatric label boundary - [[lvfirgzbmtwypcjqyqry291qz6cw-lvfirgzbmtwypcjqyqry291qz6cw]] rejects both shame-based avoidance of psychiatric assessment and casual labeling of ordinary activity, misbehavior, or intelligence as ADHD.
 
 ## Counterevidence & Qualifications
-Destigmatization should not flatten clinical differences among schizophrenia, depression, bipolar disorder, anxiety, obsessive-compulsive disorder, dementia, ADHD, personality disorders, trauma, or ordinary distress. Some conditions carry acute risk and need professional care. Public disclosure also has privacy and safety boundaries, especially for patients who did not consent to becoming examples.
+Destigmatization should not flatten clinical differences among schizophrenia, depression, bipolar disorder, anxiety, obsessive-compulsive disorder, dementia, ADHD, personality disorders, trauma, or ordinary distress. Some conditions carry acute risk and need professional care. Nor should anti-stigma messaging turn one diagnosis into a flattering stereotype such as “ADHD means smart.” Public disclosure also has privacy and safety boundaries, especially for patients who did not consent to becoming examples.
 
 ## What Changed
-- Added the 史蒂夫说 source's distinction between reducing shame and preserving diagnostic seriousness.
+- Added the pediatric ADHD distinction between lowering care-seeking shame and resisting casual or flattering labels.
 
 ## Related Concepts
 - [[ChinaMentalHealthAccessGap]] - access problem that can become more visible as stigma changes.

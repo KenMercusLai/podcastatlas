@@ -1,7 +1,8 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
-      "28a8993cce040266c6a731791b36cc2f2f9dbd2aae10f3a7d753f0908b286243",
+      "60aba550d2bc9d7e4ce53212d97d1f6c5fcda17cc528b34092969c30ccfcecca",
+      "9250852b0d77c1ef1c94bac6a27bd3a52ebbb3792de778d4f24996aabf7cc0ed",
       "af5daa52f5fa680cca58e51d040c8d17467e18b04bce7e32016ff221bf304eb1",
       "f38ecfc99f189bfa1e54378e30bb3b76f11ede63afa3e40aab557b0cf90b334e",
       "8e01eb07604ed4ec013b671d74c4674769c3bd8a20ed6ad90a6b95ab3563d608",
@@ -723,19 +724,45 @@
       "5508c647db991b895556c7319899c4b97872aa5e39286efb84e0333985c7f92d",
       "34df1c2e8804f5214a38f77733d73c4efd8161905ce2ee717f86530fdbfa5fcc"
     ],
-    "paragraph_count": 721
+    "paragraph_count": 722
   },
-  "overview_commit": "300e3ce241ebb2314a224fd19efc39cae2ad0f34",
-  "overview_digest": "5d107934f981ff1570f14710e7bce5bbac228070a8e3251fbf546d92afc925e4",
+  "overview_commit": "b4ac5ff0fbbcca2441830b723a9f490e9a33e3cd",
+  "overview_digest": "5756f3ed2a3b226ea53b8ddfe43038c02f4f1ccc7a1804b6e876aa8b7d009392",
   "paragraphs": [
     {
-      "id": "28a8993cce040266c6a731791b36cc2f2f9dbd2aae10f3a7d753f0908b286243",
+      "id": "60aba550d2bc9d7e4ce53212d97d1f6c5fcda17cc528b34092969c30ccfcecca",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest pediatric mental-health addition is [[lvfirgzbmtwypcjqyqry291qz6cw-lvfirgzbmtwypcjqyqry291qz6cw|VOL.108精神心理科｜你只是误会了你的高光时刻]], a [[ZheBingShuoLaiHuaChang|这病说来话长]] episode with [[ZhangDaming|张达明]] on ADHD, development, family context, intelligence stereotypes, and treatment thresholds. It extends [[ADHDAttentionControlModel]], [[ADHDSelfDiagnosisBoundary]], [[PsychiatricFunctionalDiagnosis]], [[ChildMentalHealthFamilySystemsSupport]], [[ADHDExternalStructureAndTiming]], [[ADHDTreatmentSelectionBoundary]], and [[MentalIllnessDestigmatization]]. Its core synthesis is that ADHD should be judged through age-relative, cross-setting function in attention, impulse, learning, emotion, relationships, and daily execution rather than ordinary activity, misbehavior, grades, or an isolated high-performance moment; environmental support can modify function without becoming sole-cause blame, and intervention should follow impairment, developmental timing, risks, preferences, and qualified assessment. No settled contradiction is recorded; heritability, pregnancy and birth risk, attention interruption, screens, exercise, intelligence thresholds, criminality, individual cases, and course claims remain source-scoped public education rather than individualized diagnosis, prognosis, parenting judgment, or treatment guidance.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "psychology-and-personal-development": 2,
+        "science-health-and-climate": 1,
+        "work-education-and-society": 3
+      },
+      "wikilinks": [
+        "ADHDAttentionControlModel",
+        "ADHDExternalStructureAndTiming",
+        "ADHDSelfDiagnosisBoundary",
+        "ADHDTreatmentSelectionBoundary",
+        "ChildMentalHealthFamilySystemsSupport",
+        "MentalIllnessDestigmatization",
+        "PsychiatricFunctionalDiagnosis",
+        "ZhangDaming",
+        "ZheBingShuoLaiHuaChang",
+        "lvfirgzbmtwypcjqyqry291qz6cw-lvfirgzbmtwypcjqyqry291qz6cw"
+      ]
+    },
+    {
+      "id": "9250852b0d77c1ef1c94bac6a27bd3a52ebbb3792de778d4f24996aabf7cc0ed",
       "primary_topic": "science-health-and-climate",
       "secondary_topics": [
         "work-education-and-society",
         "psychology-and-personal-development"
       ],
-      "text": "The latest dream-and-sleep addition is [[lutsrqrswkekdi3ujtokur2q1hv-lutsrqrswkekdi3ujtokur2q1hv|VOL.109精神心理科｜你还记得昨晚的梦吗？]], a [[ZheBingShuoLaiHuaChang|这病说来话长]] episode with [[ZhangDaming|张大明]] on dream meaning, sleep stages, recall, bodily and emotional context, and clinical escalation. It adds [[DreamDistressAndParasomniaEscalation]] while extending [[DreamFunctionAndMeaning]], [[LucidDreamingEvidenceBoundary]], [[SleepStageFunctionalArchitecture]], and [[SigmundFreud]]. Its core synthesis is that dream content can reflect memory, emotion, wishes, bodily sensation, external input, or creativity without becoming prophecy, diagnosis, or a universal symbol code; dream frequency alone does not establish poor sleep, while persistent distress or daytime impairment and sleepwalking justify qualified assessment through distinct pathways. No settled contradiction is recorded; Freudian categories, cycle timing, animal-dream inference, bodily-warning anecdotes, anxiety interpretations, lucid-control claims, and clinical routing remain source-scoped public education rather than individualized care.",
+      "text": "The latest dream-and-sleep addition is [[lutsrqrswkekdi3ujtokur2q1hv-lutsrqrswkekdi3ujtokur2q1hv|VOL.109精神心理科｜你还记得昨晚的梦吗？]], a [[ZheBingShuoLaiHuaChang|这病说来话长]] episode with [[ZhangDaming|张达明]] on dream meaning, sleep stages, recall, bodily and emotional context, and clinical escalation. It adds [[DreamDistressAndParasomniaEscalation]] while extending [[DreamFunctionAndMeaning]], [[LucidDreamingEvidenceBoundary]], [[SleepStageFunctionalArchitecture]], and [[SigmundFreud]]. Its core synthesis is that dream content can reflect memory, emotion, wishes, bodily sensation, external input, or creativity without becoming prophecy, diagnosis, or a universal symbol code; dream frequency alone does not establish poor sleep, while persistent distress or daytime impairment and sleepwalking justify qualified assessment through distinct pathways. No settled contradiction is recorded; Freudian categories, cycle timing, animal-dream inference, bodily-warning anecdotes, anxiety interpretations, lucid-control claims, and clinical routing remain source-scoped public education rather than individualized care.",
       "topic_scores": {
         "psychology-and-personal-development": 1,
         "science-health-and-climate": 1,

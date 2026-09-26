@@ -7,7 +7,8 @@ sources:
   - shi-di-fu-shuo-466-jiangtao-5wan-jingshenke-yisheng-dui-1yi-jingshen-jibing-huanzhe-lpdsk96akpwtccxyesjdgtw8skbn
   - lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg
   - improve-focus-with-behavioral-tools-medication-for-adhd-dr-john-kruse-scim4112569463
-last_updated: 2026-09-22
+  - lvfirgzbmtwypcjqyqry291qz6cw-lvfirgzbmtwypcjqyqry291qz6cw
+last_updated: 2026-09-26
 knowledge_schema: synthesis-v1
 ---
 
@@ -27,14 +28,16 @@ The Luo Yonghao panel adds a first-person and creative-work layer without changi
 
 Adult assessment adds a more explicit checklist without turning the checklist into a self-test. The interview describes 18 symptom items divided between inattentive and hyperactive-impulsive domains, with adult diagnosis requiring enough excessive and impairing symptoms across multiple life settings. The durable synthesis is developmental history, cross-setting impairment, alternative explanations, and qualified evaluation: fluctuating attention or hyperfocus alone does not establish ADHD.
 
+VOL.108 extends the same boundary to children and to the “ADHD means smart” stereotype. Ordinary activity, mischief, a quick answer, or one strong performance is not enough; clinicians need age-relative attention and activity, learning, emotion, peer interaction, home and school function, and developmental history. Recent-onset adult inattention also needs alternatives such as anxiety, mood difficulty, fatigue, or sleep considered before an ADHD label.
+
 ## Key Claims
 - ADHD is presented as a psychiatric neurodevelopmental disorder, not merely a synonym for adult distraction.
 - Childhood onset or long developmental history matters in the source's explanation.
 - Impulsivity, hyperactivity, emotional-control difficulty, conflict, and unusual behavior can be part of ADHD, but they are not specific enough for casual self-labeling.
 - Adult attention decline can arise from sleep, stress, context, task load, and bodily state.
 - The safer boundary is to seek qualified evaluation when symptoms persist, worsen, or impair life rather than treating internet vocabulary as diagnosis.
-- First-person diagnosed ADHD accounts can help describe creative form and work impairment, but they still should not become treatment advice for listeners.
-- Adult ADHD can persist beyond childhood, yet symptom count, severity, developmental history, and impairment across settings still matter.
+- First-person diagnosed ADHD accounts can describe creative form and work impairment, but adult persistence still requires symptom severity, developmental history, and impairment across settings rather than becoming treatment advice for listeners.
+- Neither childhood activity nor isolated “high-light” performance establishes ADHD, intelligence, or absence of impairment.
 
 ## Evidence
 - Disorder frame - [[vol-216-tingzhi-shenhua-qianeye-bie-rang-wangluo-reci-biancheng-nide-zhenduanshu-lp0cll17cydzmh36sawfj7-rjwur]] defines ADHD as attention deficit hyperactivity disorder within psychiatry and neurodevelopmental framing.
@@ -45,13 +48,14 @@ Adult assessment adds a more explicit checklist without turning the checklist in
 - Label-fashion caution - [[shi-di-fu-shuo-466-jiangtao-5wan-jingshenke-yisheng-dui-1yi-jingshen-jibing-huanzhe-lpdsk96akpwtccxyesjdgtw8skbn]] places ADHD in a broader warning against turning psychiatric vocabulary into casual labels.
 - First-person diagnosis and work examples - [[lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg]] has Luo Yonghao and Lin Jianxin describe diagnosis, medication, attention branching, one-liner structure, multi-screen work, deadline risk, and the difference between ordinary delay and impaired delivery.
 - Adult assessment - [[improve-focus-with-behavioral-tools-medication-for-adhd-dr-john-kruse-scim4112569463]] describes nine inattentive and nine hyperactive-impulsive symptom items, an adult threshold of at least five, and the need for excessive, impairing symptoms across life domains.
+- Pediatric and adult boundary - [[lvfirgzbmtwypcjqyqry291qz6cw-lvfirgzbmtwypcjqyqry291qz6cw]] separates ordinary child activity and isolated high performance from age-incongruent, functionally impairing patterns, while requiring childhood history and alternative explanations for adult assessment.
 
 ## Counterevidence & Qualifications
-The sources are public podcast explanations, not diagnostic guidelines. This page should not be used to rule ADHD in or out for a specific person; its role is to keep self-description, internet vocabulary, and professional assessment separate. Exact symptom thresholds and the Huberman episode's heritability, prevalence, life-expectancy, and risk estimates remain source-scoped rather than self-screening rules.
+The sources are public podcast explanations, not diagnostic guidelines. This page should not be used to rule ADHD in or out for a specific person; its role is to keep self-description, internet vocabulary, stereotype, and professional assessment separate. Exact symptom thresholds, intelligence-score claims, and the episodes' heritability, prevalence, life-expectancy, and risk estimates remain source-scoped rather than self-screening rules.
 
 ## What Changed
-- Added adult symptom-count, cross-setting impairment, persistence, and developmental-history context.
-- Preserved the boundary between fluctuating attention or hyperfocus and qualified diagnosis.
+- Added the pediatric boundary separating ordinary activity and high-performance moments from age-relative, cross-setting impairment.
+- Added alternative explanations for recent adult attention decline while preserving childhood-history requirements.
 
 ## Related Concepts
 - [[PrefrontalCortexOverattribution]] - adjacent boundary against turning attention problems into one-region brain diagnosis.

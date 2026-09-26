@@ -4,8 +4,8 @@ generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
 last_updated: 2026-09-26
-as_of_overview_commit: 87f5810b40d38bec18dcad5c8a1f6ee7a8be37dd
-input_digest: 617822c625d82aa50d29e3dcb1bee596c4c75cf76a873c84c7493703fa8e080b
+as_of_overview_commit: b4ac5ff0fbbcca2441830b723a9f490e9a33e3cd
+input_digest: ea019f789fed6814735d77677a4254114a2e60e1114c50e054615746574ae7a4
 ---
 
 # Science, Health, and Climate

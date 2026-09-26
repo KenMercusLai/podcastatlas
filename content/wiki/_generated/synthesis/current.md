@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-26
-as_of_overview_commit: 93c3015c4d94560aef4feae6c9695630b9979cd8
+as_of_overview_commit: b4ac5ff0fbbcca2441830b723a9f490e9a33e3cd
 summary: "Podcast Atlas maps how technology, markets, institutions, culture, history, health, psychology, work, education, and care interact as evidence-bound lived systems."
-episode_count: 2838
-source_count: 2838
-paragraph_count: 721
+episode_count: 2840
+source_count: 2840
+paragraph_count: 722
 topic_count: 9
 ---
 

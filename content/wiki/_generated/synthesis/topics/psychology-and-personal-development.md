@@ -4,15 +4,15 @@ generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
 last_updated: 2026-09-26
-as_of_overview_commit: 93c3015c4d94560aef4feae6c9695630b9979cd8
-input_digest: ba1991944079f6a14d652bf1e4492e28a63c5f700615a3f1e0b546912191cc14
+as_of_overview_commit: b4ac5ff0fbbcca2441830b723a9f490e9a33e3cd
+input_digest: 0b5d8e6bc0c6790ce3d77b5cd9cee4b6758e4108e844578de0239cd44d1f0571
 ---
 
 # Psychology and Personal Development
 
 ## Current State
 
-Psychology and personal-development sources converge on embodied regulation, relational safety, calibrated action, self-narration, and careful limits on self-interpretation. The Byron origin episode adds a bounded historical case in which adversity and bodily self-discipline can inform deliberate self-fashioning without establishing diagnosis, deterministic causation, or moral excuse. The clinical-relationship source adds that trust depends on honest outcome limits, visible responsibility, durable communication, encouragement, referral, and continuity rather than title or reassurance alone; selected patient recollections do not establish treatment causation or typical prognosis. VOL.123 adds a bounded body-management case: posture awareness, temporary comfort, and gradual movement can support agency, but they should not become cure claims, rigid self-monitoring, or substitutes for neurological and functional assessment. Mental-health, diagnostic, crisis, diet, sensory, and altered-state claims remain bounded to evidence and professional judgment. Historical decision episodes contribute source-scoped cases about immediate versus long-run rationality, high-risk choice, counterfactual restraint, status, self-presentation, persuasion, loyalty, and survival, but do not become general psychological laws. The Custer episode adds a source-scoped historical case in which spectacle, ambition, impulsivity, intimate distress, public reputation, and patronage interact with repeated risk and recovery; it supports analysis of self-presentation and institutional reinforcement, not a retrospective clinical diagnosis.
+Psychology and personal-development sources converge on embodied regulation, relational safety, calibrated action, self-narration, and careful limits on self-interpretation. The Byron origin episode adds a bounded historical case in which adversity and bodily self-discipline can inform deliberate self-fashioning without establishing diagnosis, deterministic causation, or moral excuse. The clinical-relationship source adds that trust depends on honest outcome limits, visible responsibility, durable communication, encouragement, referral, and continuity rather than title or reassurance alone; selected patient recollections do not establish treatment causation or typical prognosis. VOL.123 adds a bounded body-management case: posture awareness, temporary comfort, and gradual movement can support agency, but they should not become cure claims, rigid self-monitoring, or substitutes for neurological and functional assessment. Mental-health, diagnostic, crisis, diet, sensory, and altered-state claims remain bounded to evidence and professional judgment. Historical decision episodes contribute source-scoped cases about immediate versus long-run rationality, high-risk choice, counterfactual restraint, status, self-presentation, persuasion, loyalty, and survival, but do not become general psychological laws. The Custer episode adds a source-scoped historical case in which spectacle, ambition, impulsivity, intimate distress, public reputation, and patronage interact with repeated risk and recovery; it supports analysis of self-presentation and institutional reinforcement, not a retrospective clinical diagnosis. VOL.108 adds a developmental ADHD boundary: age-relative, cross-setting impairment matters more than activity, grades, or isolated high performance; family context can modify function without sole-cause blame, and intervention remains individualized.
 
 ## Cross-source Findings
 
@@ -188,15 +188,16 @@ Historical and cultural psychology examples in the topic function mainly as sour
 
 ### Mental Health And Crisis Boundaries Remain Clinical
 
-Mental-health and crisis material keeps a clinical boundary: [[ComplexTraumaRecognition]], [[EmotionRegulationToolkit]], [[OmnipotentSelfBlame]], and [[EmotionalFlashbackGrounding]] can organize public self-understanding, while [[DreamFunctionAndMeaning]] permits contextual reflection without fixed decoding and [[DreamDistressAndParasomniaEscalation]] uses persistent distress, daytime impairment, or sleepwalking to route qualified assessment; diagnosis, treatment, and high-risk care still require professional judgment.
+Mental-health and crisis material keeps a clinical boundary: [[ComplexTraumaRecognition]], [[EmotionRegulationToolkit]], [[OmnipotentSelfBlame]], and [[EmotionalFlashbackGrounding]] can organize public self-understanding; [[DreamDistressAndParasomniaEscalation]] routes persistent dream or sleep impairment toward care; and [[lvfirgzbmtwypcjqyqry291qz6cw-lvfirgzbmtwypcjqyqry291qz6cw|VOL.108]] uses [[PsychiatricFunctionalDiagnosis]] and [[ADHDSelfDiagnosisBoundary]] to separate age-relative, cross-setting ADHD impairment from ordinary activity, intelligence stereotypes, and isolated high performance. Diagnosis, treatment, and high-risk care still require professional judgment.
 
-**Evidence:** [[ComplexTraumaRecognition]], [[TherapyRelationshipAndBoundaries]], [[EmbodiedAnxietyRegulation]], [[EmotionRegulationToolkit]], [[OmnipotentSelfBlame]], [[EmotionalFlashbackGrounding]], [[shi-di-fu-shuo-468-zixunshi-huixin-duzi-nuli-zhangda-de-ren-rongyi-xianru-quanneng-zilian-de-xianjing-llwra0a8mt-ocndm9eokzxaryb-j]], [[DreamFunctionAndMeaning]], [[DreamDistressAndParasomniaEscalation]], [[LucidDreamingEvidenceBoundary]], [[SleepStageFunctionalArchitecture]], [[lutsrqrswkekdi3ujtokur2q1hv-lutsrqrswkekdi3ujtokur2q1hv]]
+**Evidence:** [[ComplexTraumaRecognition]], [[TherapyRelationshipAndBoundaries]], [[EmbodiedAnxietyRegulation]], [[EmotionRegulationToolkit]], [[OmnipotentSelfBlame]], [[EmotionalFlashbackGrounding]], [[shi-di-fu-shuo-468-zixunshi-huixin-duzi-nuli-zhangda-de-ren-rongyi-xianru-quanneng-zilian-de-xianjing-llwra0a8mt-ocndm9eokzxaryb-j]], [[DreamFunctionAndMeaning]], [[DreamDistressAndParasomniaEscalation]], [[LucidDreamingEvidenceBoundary]], [[SleepStageFunctionalArchitecture]], [[lutsrqrswkekdi3ujtokur2q1hv-lutsrqrswkekdi3ujtokur2q1hv]], [[lvfirgzbmtwypcjqyqry291qz6cw-lvfirgzbmtwypcjqyqry291qz6cw]], [[PsychiatricFunctionalDiagnosis]], [[ADHDSelfDiagnosisBoundary]], [[ADHDAttentionControlModel]], [[ChildMentalHealthFamilySystemsSupport]], [[ADHDTreatmentSelectionBoundary]]
 
 **Qualifications:**
 
 - Bipolar, OCD-like, anxiety, depression, trauma, stress, ADHD, and crisis references remain source-scoped unless a clinical source grounds them.
 - The wiki should preserve these distinctions when synthesizing podcast advice.
 - Dream content can support contextual reflection without becoming a universal symbol code, diagnosis, health omen, or substitute for assessment when distress, daytime impairment, or sleepwalking is present.
+- The VOL.108 heritability, pregnancy and birth risk, interruption, screen, exercise, intelligence, criminality, individual-case, and course claims remain source-scoped public education rather than diagnosis, prognosis, parenting judgment, or treatment guidance.
 
 ### Strategic Patron Exit Is Source Scoped Self Protection Case
 

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.108精神心理科｜你只是误会了你的高光时刻 多动症不等于聪明 ADHD需不需要治是个问题](sources/lvfirgzbmtwypcjqyqry291qz6cw-lvfirgzbmtwypcjqyqry291qz6cw.md) — 这病说来话长 episode on age-relative ADHD assessment, functional impairment, family context, intelligence stereotypes, and individualized intervention.
 - [2026秋季篇E04 恋爱脑？石卷市未成年人杀人事件！](sources/2026-qiuji-pian-e04-lianai-nao-shijuan-shi-wei-chengnian-ren-sharen-shijian-flxcz-xqebpuihv6v-bh9hhdtbq1.md) — 日谈物语 excerpt on a holiday release pause, public-interest reasoning for a free future episode, and a small elevation-based Japan foliage trip; it never reaches the juvenile-murder case named in the title.
 - [440. Lord Byron: Mad, Bad and Dangerous to Know (Part 1)](sources/440-lord-byron-mad-bad-and-dangerous-to-know-part-1-glt4389862746.md) — The Rest Is History on Byron's family inheritance, childhood adversity, Cambridge formation, early self-fashioning, and the Byronic hero.
 - [How to Master Growth Mindset to Improve Performance | Dr. David Yeager](sources/how-to-master-growth-mindset-to-improve-performance-dr-david-yeager-scim6606381639.md) — Huberman Lab interview on conditional growth mindset, stress appraisal, demanding support, purpose, adolescent status, and the environmental requirements for durable change.
@@ -2862,7 +2863,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Protocols to Strengthen & Pain Proof Your Back](sources/protocols-to-strengthen-pain-proof-your-back-scim8264963647.md) — Huberman Lab solo episode on mechanism-sensitive back care, the McGill Big Three, whole-body support, movement awareness, and clinical escalation boundaries.
 
 ## Entities
-- [张大明 / Zhang Daming (Mental-Health Guest)](entities/ZhangDaming.md) — Source-bounded 这病说来话长 guest explaining dreams, sleep stages, distress thresholds, sleepwalking, and interpretation limits.
+- [张达明 / Zhang Daming (Mental-Health Guest)](entities/ZhangDaming.md) — 这病说来话长 mental-health guest explaining pediatric ADHD, dreams, functional thresholds, and qualified-care boundaries.
 - [Jev](entities/Jev.md) — Source-described low-latency model or service for choices, scores, classifications, and structured output.
 - [Lady Caroline Lamb](entities/LadyCarolineLamb.md) — Aristocratic writer whose affair with Byron escalated into pursuit, self-harm, allegation, and public scandal.
 - [Annabella Milbank](entities/AnnabellaMilbank.md) — Byron's mathematically gifted wife, Ada Lovelace's mother, and central witness to the marriage crisis and separation.

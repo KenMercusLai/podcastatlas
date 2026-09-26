@@ -211,9 +211,9 @@
       "url": "/wiki/entities/acrcloud/"
     },
     "ADHDAttentionControlModel": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM4112569463 [SCIM4112569463].md",
@@ -228,15 +228,22 @@
           "show": "Huberman Lab",
           "title": "How to Improve Memory & Focus Using Science Protocols | Dr. Charan Ranganath",
           "url": "/wiki/sources/how-to-improve-memory-focus-using-science-protocols-dr-charan-ranganath-scim5612458885/"
+        },
+        {
+          "episode_file": "lvFiRgZbmtYWPCjqYqrY291QZ6CW [lvFiRgZbmtYWPCjqYqrY291QZ6CW].md",
+          "key": "lvfirgzbmtwypcjqyqry291qz6cw-lvfirgzbmtwypcjqyqry291qz6cw",
+          "show": "这病说来话长",
+          "title": "VOL.108精神心理科｜你只是误会了你的高光时刻 多动症不等于聪明 ADHD需不需要治是个问题",
+          "url": "/wiki/sources/lvfirgzbmtwypcjqyqry291qz6cw-lvfirgzbmtwypcjqyqry291qz6cw/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-26",
       "url": "/wiki/concepts/adhdattentioncontrolmodel/"
     },
     "ADHDExternalStructureAndTiming": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM4112569463 [SCIM4112569463].md",
@@ -244,9 +251,16 @@
           "show": "Huberman Lab",
           "title": "Improve Focus With Behavioral Tools & Medication for ADHD | Dr. John Kruse",
           "url": "/wiki/sources/improve-focus-with-behavioral-tools-medication-for-adhd-dr-john-kruse-scim4112569463/"
+        },
+        {
+          "episode_file": "lvFiRgZbmtYWPCjqYqrY291QZ6CW [lvFiRgZbmtYWPCjqYqrY291QZ6CW].md",
+          "key": "lvfirgzbmtwypcjqyqry291qz6cw-lvfirgzbmtwypcjqyqry291qz6cw",
+          "show": "这病说来话长",
+          "title": "VOL.108精神心理科｜你只是误会了你的高光时刻 多动症不等于聪明 ADHD需不需要治是个问题",
+          "url": "/wiki/sources/lvfirgzbmtwypcjqyqry291qz6cw-lvfirgzbmtwypcjqyqry291qz6cw/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-26",
       "url": "/wiki/concepts/adhdexternalstructureandtiming/"
     },
     "ADHDHyperfocusAIWorkflow": {
@@ -266,9 +280,9 @@
       "url": "/wiki/concepts/adhdhyperfocusaiworkflow/"
     },
     "ADHDSelfDiagnosisBoundary": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 4,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "lp0clL17CYDZMH36saWfj7-rjWUr [lp0clL17CYDZMH36saWfj7-rjWUr].md",
@@ -297,15 +311,22 @@
           "show": "Huberman Lab",
           "title": "Improve Focus With Behavioral Tools & Medication for ADHD | Dr. John Kruse",
           "url": "/wiki/sources/improve-focus-with-behavioral-tools-medication-for-adhd-dr-john-kruse-scim4112569463/"
+        },
+        {
+          "episode_file": "lvFiRgZbmtYWPCjqYqrY291QZ6CW [lvFiRgZbmtYWPCjqYqrY291QZ6CW].md",
+          "key": "lvfirgzbmtwypcjqyqry291qz6cw-lvfirgzbmtwypcjqyqry291qz6cw",
+          "show": "这病说来话长",
+          "title": "VOL.108精神心理科｜你只是误会了你的高光时刻 多动症不等于聪明 ADHD需不需要治是个问题",
+          "url": "/wiki/sources/lvfirgzbmtwypcjqyqry291qz6cw-lvfirgzbmtwypcjqyqry291qz6cw/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-26",
       "url": "/wiki/concepts/adhdselfdiagnosisboundary/"
     },
     "ADHDTreatmentSelectionBoundary": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM4112569463 [SCIM4112569463].md",
@@ -313,9 +334,16 @@
           "show": "Huberman Lab",
           "title": "Improve Focus With Behavioral Tools & Medication for ADHD | Dr. John Kruse",
           "url": "/wiki/sources/improve-focus-with-behavioral-tools-medication-for-adhd-dr-john-kruse-scim4112569463/"
+        },
+        {
+          "episode_file": "lvFiRgZbmtYWPCjqYqrY291QZ6CW [lvFiRgZbmtYWPCjqYqrY291QZ6CW].md",
+          "key": "lvfirgzbmtwypcjqyqry291qz6cw-lvfirgzbmtwypcjqyqry291qz6cw",
+          "show": "这病说来话长",
+          "title": "VOL.108精神心理科｜你只是误会了你的高光时刻 多动症不等于聪明 ADHD需不需要治是个问题",
+          "url": "/wiki/sources/lvfirgzbmtwypcjqyqry291qz6cw-lvfirgzbmtwypcjqyqry291qz6cw/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-26",
       "url": "/wiki/concepts/adhdtreatmentselectionboundary/"
     },
     "AFCChampionsLeague": {
@@ -23506,9 +23534,9 @@
       "url": "/wiki/concepts/childcommunicationdevelopmentsignals/"
     },
     "ChildMentalHealthFamilySystemsSupport": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ljLYg0KUQvUJ2R89K6O5HHUeFJt9 [ljLYg0KUQvUJ2R89K6O5HHUeFJt9].md",
@@ -23516,9 +23544,16 @@
           "show": "这病说来话长",
           "title": "VOL.115冇满分父母，你做60分已不易 13位医生10学科出招身心性健康教育攻略｜儿童节专题",
           "url": "/wiki/sources/vol-115-mao-manfen-fumu-ni-zuo-60-fen-yi-buyi-13-wei-yisheng-10-xueke-chuzhao-shenxinxing-jiankang-jiaoyu-gonglue-ertongjie-zhuanti-ljlyg0kuqvuj2r89k6o5hhuefjt9/"
+        },
+        {
+          "episode_file": "lvFiRgZbmtYWPCjqYqrY291QZ6CW [lvFiRgZbmtYWPCjqYqrY291QZ6CW].md",
+          "key": "lvfirgzbmtwypcjqyqry291qz6cw-lvfirgzbmtwypcjqyqry291qz6cw",
+          "show": "这病说来话长",
+          "title": "VOL.108精神心理科｜你只是误会了你的高光时刻 多动症不等于聪明 ADHD需不需要治是个问题",
+          "url": "/wiki/sources/lvfirgzbmtwypcjqyqry291qz6cw-lvfirgzbmtwypcjqyqry291qz6cw/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-09-26",
       "url": "/wiki/concepts/childmentalhealthfamilysystemssupport/"
     },
     "ChildbearingIrreversibility": {
@@ -93557,9 +93592,9 @@
       "url": "/wiki/concepts/mentalhealthhelpseekingscamrisk/"
     },
     "MentalIllnessDestigmatization": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "时代症候 与 安定此心 [lpHAw0Qek8iBR0Jt44yYGoU6akql].md",
@@ -93574,9 +93609,16 @@
           "show": "史蒂夫说",
           "title": "史蒂夫说466期 - 姜涛 - 5万精神科医生对1亿精神疾病患者",
           "url": "/wiki/sources/shi-di-fu-shuo-466-jiangtao-5wan-jingshenke-yisheng-dui-1yi-jingshen-jibing-huanzhe-lpdsk96akpwtccxyesjdgtw8skbn/"
+        },
+        {
+          "episode_file": "lvFiRgZbmtYWPCjqYqrY291QZ6CW [lvFiRgZbmtYWPCjqYqrY291QZ6CW].md",
+          "key": "lvfirgzbmtwypcjqyqry291qz6cw-lvfirgzbmtwypcjqyqry291qz6cw",
+          "show": "这病说来话长",
+          "title": "VOL.108精神心理科｜你只是误会了你的高光时刻 多动症不等于聪明 ADHD需不需要治是个问题",
+          "url": "/wiki/sources/lvfirgzbmtwypcjqyqry291qz6cw-lvfirgzbmtwypcjqyqry291qz6cw/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-09-26",
       "url": "/wiki/concepts/mentalillnessdestigmatization/"
     },
     "MentalizingProjection": {
@@ -111804,9 +111846,9 @@
       "url": "/wiki/concepts/psychiatriceverydaylanguage/"
     },
     "PsychiatricFunctionalDiagnosis": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "时代症候 与 安定此心 [lpHAw0Qek8iBR0Jt44yYGoU6akql].md",
@@ -111821,9 +111863,16 @@
           "show": "史蒂夫说",
           "title": "史蒂夫说466期 - 姜涛 - 5万精神科医生对1亿精神疾病患者",
           "url": "/wiki/sources/shi-di-fu-shuo-466-jiangtao-5wan-jingshenke-yisheng-dui-1yi-jingshen-jibing-huanzhe-lpdsk96akpwtccxyesjdgtw8skbn/"
+        },
+        {
+          "episode_file": "lvFiRgZbmtYWPCjqYqrY291QZ6CW [lvFiRgZbmtYWPCjqYqrY291QZ6CW].md",
+          "key": "lvfirgzbmtwypcjqyqry291qz6cw-lvfirgzbmtwypcjqyqry291qz6cw",
+          "show": "这病说来话长",
+          "title": "VOL.108精神心理科｜你只是误会了你的高光时刻 多动症不等于聪明 ADHD需不需要治是个问题",
+          "url": "/wiki/sources/lvfirgzbmtwypcjqyqry291qz6cw-lvfirgzbmtwypcjqyqry291qz6cw/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-09-26",
       "url": "/wiki/concepts/psychiatricfunctionaldiagnosis/"
     },
     "PsychiatricMedicationSupervisionBoundary": {
@@ -156387,9 +156436,9 @@
       "url": "/wiki/entities/zhangdai/"
     },
     "ZhangDaming": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "luTSrQrswkeKdi3UjTokur2q1hv- [luTSrQrswkeKdi3UjTokur2q1hv-].md",
@@ -156397,6 +156446,13 @@
           "show": "这病说来话长",
           "title": "VOL.109精神心理科｜你还记得昨晚的梦吗？这2种情况需要就医",
           "url": "/wiki/sources/lutsrqrswkekdi3ujtokur2q1hv-lutsrqrswkekdi3ujtokur2q1hv/"
+        },
+        {
+          "episode_file": "lvFiRgZbmtYWPCjqYqrY291QZ6CW [lvFiRgZbmtYWPCjqYqrY291QZ6CW].md",
+          "key": "lvfirgzbmtwypcjqyqry291qz6cw-lvfirgzbmtwypcjqyqry291qz6cw",
+          "show": "这病说来话长",
+          "title": "VOL.108精神心理科｜你只是误会了你的高光时刻 多动症不等于聪明 ADHD需不需要治是个问题",
+          "url": "/wiki/sources/lvfirgzbmtwypcjqyqry291qz6cw-lvfirgzbmtwypcjqyqry291qz6cw/"
         }
       ],
       "updated": "2026-09-26",

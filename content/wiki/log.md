@@ -22710,3 +22710,11 @@ Added source `2026-qiuji-pian-e04-lianai-nao-shijuan-shi-wei-chengnian-ren-share
 ## [2026-09-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-26] ingest | VOL.108精神心理科｜你只是误会了你的高光时刻 多动症不等于聪明 ADHD需不需要治是个问题
+
+Added source `lvfirgzbmtwypcjqyqry291qz6cw-lvfirgzbmtwypcjqyqry291qz6cw`; corrected the displayed Chinese name of `ZhangDaming` to 张达明; and updated the ADHD attention-control, external-structure, self-diagnosis, treatment-selection, psychiatric-function, child-family-system, destigmatization, canonical index, and overview pages from their complete bounded source sets. Core synthesis: ADHD assessment depends on age-relative, cross-setting functional impairment rather than ordinary activity, misbehavior, grades, intelligence stereotypes, or isolated high-performance moments; family and environmental support can modify function without becoming sole-cause blame, while observation, training, and medication decisions require individualized clinical judgment. No settled contradiction found. Heritability, pregnancy and birth risk, attention interruption, screens, exercise, intelligence thresholds, criminality, individual cases, and course claims remain source-scoped public education. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
