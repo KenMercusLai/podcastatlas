@@ -3,9 +3,9 @@
 generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
-last_updated: 2026-09-26
-as_of_overview_commit: bf79f7f07a8ba3f78b8ed6bb740fa04b017d4cfe
-input_digest: c2b5dea5d5c35d817f35e200e46d75705caee1c2eaf1769f6b63581be9e1dea1
+last_updated: 2026-09-27
+as_of_overview_commit: 8a19fbc56810a98dc5e8bb469b0d6298aaba9b81
+input_digest: 7d502d543c02c9dc288ac1b2790a99358747740692765726d14c29d982cd9aab
 ---
 
 # Psychology and Personal Development
@@ -1155,3 +1155,15 @@ The Benjamin Lay paragraph enters psychology-and-personal-development secondaril
 - The episode does not provide complete study methods, effect sizes, replication evidence, or a validated way to identify individual responders.
 - Mindset and expectation are not substitutes for nutrition, exercise, medication, or disease-directed care.
 - Nocebo effects mean that belief and framing can worsen as well as improve experience or performance.
+
+### Appealing Historical Parallels Need Causal Restraint
+
+[[402-christmas-pagan-or-christian-glt8329172184|Christmas: Pagan or Christian?]] enters this topic only as a bounded reasoning case: [[December25ChristmasDating]] shows why memorable resemblance among [[Mithras]], [[SolInvictus]], [[Saturnalia]], and Christmas must be separated from dated evidence of priority and transmission.
+
+**Evidence:** [[402-christmas-pagan-or-christian-glt8329172184]], [[December25ChristmasDating]], [[Mithras]], [[SolInvictus]], [[Saturnalia]]
+
+**Qualifications:**
+
+- This is a historical source-criticism case, not a clinical or general cognitive-bias diagnosis.
+- Shared timing, symbols, or festive practices can motivate inquiry without proving direct transmission.
+- The episode's March 25 calculation remains preferred but source-scoped rather than a settled universal explanation.

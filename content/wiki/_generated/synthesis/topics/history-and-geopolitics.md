@@ -4,8 +4,8 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-09-27
-as_of_overview_commit: 745d8465988ab4442113dff1ca0e4a6daab67562
-input_digest: 782d061a1cfd149a931f06821e79332d48fcdc2b58db319675da2ed078d40d18
+as_of_overview_commit: 8a19fbc56810a98dc5e8bb469b0d6298aaba9b81
+input_digest: 02a1227bb1a56fb886b80eb84065a2a0091214a9c32e00860e7ef8a9da996d33
 ---
 
 # History and Geopolitics
@@ -635,3 +635,15 @@ The same campaign supplies a motive-and-consequence pair for the topic: [[Imperi
 - The SA was violent, massive, and institutionally threatening, but the episode explicitly rejects the claim that Röhm and the organization were preparing a coup.
 - Public relief at SA suppression and a dictatorship-era plebiscite do not establish free consent to extrajudicial killing or personal rule.
 - Death totals, referendum support, reported dialogue, French-payment claims, private motives, and precise command calculations remain source-scoped.
+
+### Christmas Origin Parallels Require Transmission Evidence
+
+[[402-christmas-pagan-or-christian-glt8329172184|Christmas: Pagan or Christian?]] adds a source-transmission case: unsupported [[Mithras]] birth and resurrection parallels, ambiguous [[SolInvictus]] calendar evidence, and the earlier dates and separate late-antique observance of [[Saturnalia]] do not by themselves prove Christian borrowing; [[December25ChristmasDating]] instead keeps the unknown birth date distinct from the episode's preferred March 25-plus-nine-month calculation.
+
+**Evidence:** [[402-christmas-pagan-or-christian-glt8329172184]], [[Mithras]], [[SolInvictus]], [[Saturnalia]], [[December25ChristmasDating]], [[TheRestIsHistory]]
+
+**Qualifications:**
+
+- The episode does not establish Jesus' historical birth date or prove that one calculation fixed the feast everywhere.
+- The Calendar of Philocalus supports coexistence of December 25 observances without settling the identity of the unconquered one, chronological priority, or direct borrowing.
+- Broader Roman cultural interaction remains possible even where specific Mithras, Sol Invictus, and Saturnalia descent claims are unsupported.

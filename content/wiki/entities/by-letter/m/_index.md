@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 10941
+wiki_total_pages: 10943
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -1151,6 +1151,9 @@ wiki_pages:
   - key: "MitchMorando"
     title: "Mitch Morando"
     url: "/wiki/entities/mitchmorando/"
+  - key: "Mithras"
+    title: "Mithras"
+    url: "/wiki/entities/mithras/"
   - key: "MithridatesVI"
     title: "Mithridates VI / 米特里达梯六世"
     url: "/wiki/entities/mithridatesvi/"

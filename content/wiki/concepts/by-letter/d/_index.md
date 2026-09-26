@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 8335
+wiki_total_pages: 8337
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -272,6 +272,9 @@ wiki_pages:
   - key: "DebtFinancedSaaSRollupRisk"
     title: "Debt-Financed SaaS Rollup Risk"
     url: "/wiki/concepts/debtfinancedsaasrolluprisk/"
+  - key: "December25ChristmasDating"
+    title: "December 25 Christmas Dating"
+    url: "/wiki/concepts/december25christmasdating/"
   - key: "DecentLifeAsControl"
     title: "Decent Life As Control"
     url: "/wiki/concepts/decentlifeascontrol/"

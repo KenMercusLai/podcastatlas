@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "ff38ff2149c88ba8332e4a0444a48ebc7757430d2a4c9e21920ae07be179adf6",
       "caa500d3b49a06620daf7b604591dfb45482cc2db11d0df8640db4696ddeab6b",
       "4b2405414d02c41126368f3ebb97baf73835c2d95957adf63420261474ca1016",
       "c08eabc3cd1e0688edcae00268e9415ac6aa247d282687aba9ac3177bc9aac49",
@@ -756,11 +757,31 @@
       "1f02005c80ec3e7ac3f24acac820a9118d51d7e2de5614db5e13752add4f80b9",
       "60d22980877c9a07564718a1614f1e06e5947001e678ff946ba7dbbc77be1f31"
     ],
-    "paragraph_count": 754
+    "paragraph_count": 755
   },
-  "overview_commit": "dc5153b7c396cd11491967cdaf24d3a7d46d8fa0",
-  "overview_digest": "f3a7c31a03b94da1c8895b7508e795597414cffbead575671736179ddc263548",
+  "overview_commit": "8a19fbc56810a98dc5e8bb469b0d6298aaba9b81",
+  "overview_digest": "1039622837058c2d2d2bf91f3a49a01ceaf0af6bf2047440282e34b31c2ffca1",
   "paragraphs": [
+    {
+      "id": "ff38ff2149c88ba8332e4a0444a48ebc7757430d2a4c9e21920ae07be179adf6",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[402-christmas-pagan-or-christian-glt8329172184|402. Christmas: Pagan or Christian?]], a [[TheRestIsHistory]] episode testing whether Christmas was copied from [[Mithras]], [[SolInvictus]], [[Saturnalia]], or other ancient religions. It adds [[Mithras]], [[SolInvictus]], [[Saturnalia]], and [[December25ChristmasDating]]. Its core synthesis is that resemblance is not transmission: alleged Mithras death-and-resurrection and December 25 birth parallels lack the ancient evidence claimed for them, the Calendar of Philocalus does not establish whether Christmas or the “unconquered one” observance came first, and Saturnalia ended before December 25 and remained distinct from Christmas in late antiquity. No settled contradiction is recorded; Jesus' actual birth date, the identity and priority of the calendar's December 25 observance, broader cultural interaction, and the episode's preferred March 25-plus-nine-month Christian calculation remain uncertain or source-scoped.",
+      "topic_scores": {
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "402-christmas-pagan-or-christian-glt8329172184",
+        "December25ChristmasDating",
+        "Mithras",
+        "Saturnalia",
+        "SolInvictus",
+        "TheRestIsHistory"
+      ]
+    },
     {
       "id": "caa500d3b49a06620daf7b604591dfb45482cc2db11d0df8640db4696ddeab6b",
       "primary_topic": "ai-and-technology",

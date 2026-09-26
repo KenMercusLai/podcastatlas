@@ -23345,3 +23345,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | 402. Christmas: Pagan or Christian?
+
+Added source `402-christmas-pagan-or-christian-glt8329172184`; created `Mithras`, `SolInvictus`, `Saturnalia`, and `December25ChristmasDating`; and updated the canonical index. Core synthesis: resemblance between Roman winter religion and Christmas does not establish transmission; the episode rejects unsupported Mithras parallels, treats the December 25 Sol evidence as ambiguous, distinguishes Saturnalia's dates and later customs, and favors an internal March 25-plus-nine-month Christian calculation. No settled contradiction found; Jesus' actual birth date, the identity and priority of the Calendar of Philocalus observance, and the degree of wider Roman cultural interaction remain uncertain.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

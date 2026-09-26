@@ -1973,9 +1973,27 @@
         "MindsetPhysiologyEffects",
         "SymptomFunctionDissociation"
       ]
+    },
+    {
+      "global_candidate": false,
+      "id": "appealing-historical-parallels-need-causal-restraint",
+      "qualifications": [
+        "This is a historical source-criticism case, not a clinical or general cognitive-bias diagnosis.",
+        "Shared timing, symbols, or festive practices can motivate inquiry without proving direct transmission.",
+        "The episode's March 25 calculation remains preferred but source-scoped rather than a settled universal explanation."
+      ],
+      "statement": "[[402-christmas-pagan-or-christian-glt8329172184|Christmas: Pagan or Christian?]] enters this topic only as a bounded reasoning case: [[December25ChristmasDating]] shows why memorable resemblance among [[Mithras]], [[SolInvictus]], [[Saturnalia]], and Christmas must be separated from dated evidence of priority and transmission.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "402-christmas-pagan-or-christian-glt8329172184",
+        "December25ChristmasDating",
+        "Mithras",
+        "SolInvictus",
+        "Saturnalia"
+      ]
     }
   ],
-  "input_digest": "c2b5dea5d5c35d817f35e200e46d75705caee1c2eaf1769f6b63581be9e1dea1",
+  "input_digest": "7d502d543c02c9dc288ac1b2790a99358747740692765726d14c29d982cd9aab",
   "summary": "Placebo, nocebo, and mindset evidence adds that beliefs can become biologically consequential through prediction and learned context, but their effects remain pathway- and outcome-specific. Psychology and personal-development sources converge on embodied regulation, relational safety, calibrated action, self-narration, and careful limits on self-interpretation. The Byron origin episode adds a bounded historical case in which adversity and bodily self-discipline can inform deliberate self-fashioning without establishing diagnosis, deterministic causation, or moral excuse. The clinical-relationship source adds that trust depends on honest outcome limits, visible responsibility, durable communication, encouragement, referral, and continuity rather than title or reassurance alone; selected patient recollections do not establish treatment causation or typical prognosis. VOL.123 adds a bounded body-management case: posture awareness, temporary comfort, and gradual movement can support agency, but they should not become cure claims, rigid self-monitoring, or substitutes for neurological and functional assessment. Mental-health, diagnostic, crisis, diet, sensory, and altered-state claims remain bounded to evidence and professional judgment. Historical decision episodes contribute source-scoped cases about immediate versus long-run rationality, high-risk choice, counterfactual restraint, status, self-presentation, persuasion, loyalty, and survival, but do not become general psychological laws. The Custer episode adds a source-scoped historical case in which spectacle, ambition, impulsivity, intimate distress, public reputation, and patronage interact with repeated risk and recovery; it supports analysis of self-presentation and institutional reinforcement, not a retrospective clinical diagnosis. VOL.108 adds a developmental ADHD boundary: age-relative, cross-setting impairment matters more than activity, grades, or isolated high performance; family context can modify function without sole-cause blame, and intervention remains individualized. The Ruiz episode adds that elite competence and team belonging can conceal accumulating grief and post-service distress; gradual recovery can combine trusted support, professional care, ordinary routines, and a broader model of strength without becoming a universal treatment path.",
   "title": "Psychology and Personal Development",
   "topic_id": "psychology-and-personal-development"

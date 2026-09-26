@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 10941
+wiki_total_pages: 10943
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -968,6 +968,9 @@ wiki_pages:
   - key: "SogdianRock"
     title: "Sogdian Rock / 粟特岩堡"
     url: "/wiki/entities/sogdianrock/"
+  - key: "SolInvictus"
+    title: "Sol Invictus"
+    url: "/wiki/entities/solinvictus/"
   - key: "SolPrice"
     title: "Sol Price"
     url: "/wiki/entities/solprice/"

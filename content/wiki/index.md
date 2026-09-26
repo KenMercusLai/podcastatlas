@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [402. Christmas: Pagan or Christian?](sources/402-christmas-pagan-or-christian-glt8329172184.md) — The Rest Is History episode testing pagan-origin claims about Mithras, Sol Invictus, Saturnalia, and the internal Christian calculation of December 25.
 - [Protocols to Access Creative Energy and Process | Rick Rubin](sources/protocols-to-access-creative-energy-and-process-rick-rubin-scim5595688842.md) — Huberman Lab Q&A on diary-like honesty, outcome-independent creative work, receptivity, idea capture, phase-specific deadlines, feedback boundaries, and personal routines.
 - [VOL.92中医科｜今冬勿扰 来年身体好｜流感家庭用药、心脑血管防护、饮食｜冬季养生宝典](sources/vol-92-zhongyike-jindong-wurao-lainian-shenti-hao-liugan-jiating-yongyao-xinnaoxueguan-fanghu-yinshi-dongji-yangsheng-baodian-ljvut60fr8kvkmkczra9p7-w7yde.md) — 这病说来话长 episode with 毛哲 on winter routines, temperature changes, food, influenza claims, cardiovascular risk, foot soaking, and constitution-sensitive self-care boundaries.
 - [403. The Mystery of the Pregnant Pope](sources/403-the-mystery-of-the-pregnant-pope-glt1981561492.md) — The Rest Is History episode debunking Pope Joan while tracing the legend through Gregorian reform, papal ritual, gendered clerical authority, and the Guglielma-Maifreda movement.
@@ -2941,6 +2942,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Prevent & Treat Colds & Flu](sources/how-to-prevent-treat-colds-flu-scim6817932732.md) — Huberman Lab solo episode on respiratory-virus transmission, layered immune defense, sleep and training load, heat boundaries, and supplement evidence.
 
 ## Entities
+- [Mithras](entities/Mithras.md) — Roman mystery-cult god distinguished from Persian Mithra, Sol Invictus, and unsupported death-resurrection parallels.
+- [Sol Invictus](entities/SolInvictus.md) — Roman solar deity whose probable December 25 observance does not establish direct influence on Christmas.
 - [Pope Joan](entities/PopeJoan.md) — Legendary disguised female pope whose fictional biography became historically consequential through ritual, repetition, and polemic.
 - [Jean de Mailly](entities/JeanDeMailly.md) — Early thirteenth-century chronicler who supplied an early surviving punitive account of Pope Joan.
 - [Martin of Poland](entities/MartinOfPoland.md) — Medieval chronicler whose detailed biography became the canonical Pope Joan version.
@@ -13897,6 +13900,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kay Tye](entities/KayTye.md) — Neuroscientist connecting emotional-valence circuits to loneliness, social homeostasis, hierarchy, and sustainable scientific leadership.
 
 ## Concepts
+- [Saturnalia](concepts/Saturnalia.md) — Roman winter festival of Saturn whose feasting, inversion, and gifts do not by resemblance alone establish descent into Christmas.
+- [December 25 Christmas Dating](concepts/December25ChristmasDating.md) — Source-critical separation of Jesus' unknown birth date, Roman solar observance, and an internal Christian calendar calculation.
 - [Outcome-Independent Creative Practice](concepts/OutcomeIndependentCreativePractice.md) — Creative discipline separating honest present effort from approval, revenue, prestige, and other results outside the maker's control.
 - [Creative Receptivity and Idea Capture](concepts/CreativeReceptivityAndIdeaCapture.md) — Practice joining revisable beliefs, surprise, intuition, off-task emergence, fragment capture, and later selection.
 - [TCM Winter Self-Care Boundary / 中医冬季养生边界](concepts/TCMWinterSelfCareBoundary.md) — Separates adaptable winter routines from unvalidated seasonal, diagnostic, food-therapy, medicine, and treatment claims.
