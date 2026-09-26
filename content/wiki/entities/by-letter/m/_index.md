@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 10842
+wiki_total_pages: 10846
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -497,6 +497,9 @@ wiki_pages:
   - key: "Mas"
     title: "Mas"
     url: "/wiki/entities/mas/"
+  - key: "MasabumiHosono"
+    title: "Masabumi Hosono"
+    url: "/wiki/entities/masabumihosono/"
   - key: "MasayoshiSon"
     title: "Masayoshi Son / 孙正义"
     url: "/wiki/entities/masayoshison/"

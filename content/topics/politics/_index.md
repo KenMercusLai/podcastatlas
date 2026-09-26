@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2709
+topic_total_pages: 2710
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -2143,6 +2143,9 @@ topic_concepts:
   - key: "MaritimeChokepointTolling"
     title: "Maritime Chokepoint Tolling"
     url: "/wiki/concepts/maritimechokepointtolling/"
+  - key: "MaritimeDisasterSafetyReform"
+    title: "Maritime Disaster Safety Reform"
+    url: "/wiki/concepts/maritimedisastersafetyreform/"
   - key: "MarriageAllianceWarExposure"
     title: "Marriage Alliance War Exposure / 联姻同盟战场暴露"
     url: "/wiki/concepts/marriagealliancewarexposure/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 8213
+wiki_total_pages: 8216
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -479,6 +479,9 @@ wiki_pages:
   - key: "TitForTatCooperation"
     title: "Tit-For-Tat Cooperation / 一报还一报合作"
     url: "/wiki/concepts/titfortatcooperation/"
+  - key: "TitanicDisasterMemory"
+    title: "Titanic Disaster Memory"
+    url: "/wiki/concepts/titanicdisastermemory/"
   - key: "TitaniumAsConsumerMaterial"
     title: "Titanium As Consumer Material / 钛作为消费材料"
     url: "/wiki/concepts/titaniumasconsumermaterial/"

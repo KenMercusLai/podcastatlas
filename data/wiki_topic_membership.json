@@ -1684,6 +1684,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "432-titanic-the-survivors-part-6-glt4613169046": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "433-luther-the-man-who-changed-the-world-part-1-glt7298373279": [
     {
       "key": "history",
@@ -47079,6 +47086,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "MaritimeDisasterSafetyReform": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "Mariupol": [
     {
       "key": "history",
@@ -73215,6 +73229,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "TitanicDisasterMemory": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "TitleRealityRestraint": [

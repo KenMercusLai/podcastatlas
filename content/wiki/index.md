@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [VOL.105悲剧！规培生不止沦为了廉价劳动力！和7位医生解剖规培利弊得失](sources/vol-105-beiju-guipeisheng-buzhi-lunweile-lianjia-laodongli-he-7-wei-yisheng-jiepo-guipei-libi-deshi-lgutjxt-7vqzecklqyxe_osyzr43.md) — 这病说来话长 roundtable on residency-training purpose, trainee categories, role overload, clinical supervision, unequal conditions, and psychosocial safety.
+- [432. Titanic: The Survivors (Part 6)](sources/432-titanic-the-survivors-part-6-glt4613169046.md) — The Rest Is History on Carpathia's rescue, unequal survival, blame, inquiry, safety reform, survivor trauma, and Titanic's cultural afterlife.
 - [433. Luther: The Man Who Changed the World (Part 1)](sources/433-luther-the-man-who-changed-the-world-part-1-glt7298373279.md) — The Rest Is History on Luther's Saxon formation, humanism, late-medieval salvation practices, Jan Hus, and the conditions that turned reform into rupture.
 - [EP285 踏访古蜀道：敢问路在何方？](sources/ep285-tafang-gushudao-ganwen-lu-zai-hefang-li20senvn3oelioproznnykdajvt.md) — Talk三联 episode with 薛鹏、艾江涛、张星云 on the Shu-road network, Jinniu/Baoxie/Litchi routes, road archaeology, transport technology, political geography, trade, and contested local heritage.
 - [What Magic & Mind Reading Reveal About the Brain | Asi Wind](sources/what-magic-mind-reading-reveal-about-the-brain-asi-wind-scim6818902310.md) — Huberman Lab conversation on magic as applied cognitive science, reconstructive memory, attentional design, audience connection, consent-based deception, and creative practice.
@@ -2882,6 +2883,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.106胸外科｜王兴：病人家属问我怎么能够讨好医生｜胸闷、气胸、肺结节问题回答篇](sources/vol-106-xiongwaike-wangxing-bingren-jiashu-wen-wo-zenme-nenggou-taohao-yisheng-lrjqaw3ovznk0zn4-jfj3f2xyvzi.md) — 这病说来话长 listener Q&A on pulmonary-nodule surveillance, chest-symptom attribution, postoperative pain, chest-wall deformity, pneumothorax recurrence, and medical-care boundaries.
 
 ## Entities
+- [RMS Titanic](entities/RMSTitanic.md) — 1912 maritime disaster whose unequal survival, safety reforms, survivor reputations, and cultural afterlife became inseparable.
+- [RMS Carpathia](entities/RMSCarpathia.md) — Cunard rescue ship that answered Titanic's distress and received its traumatized survivors.
+- [Bruce Ismay](entities/BruceIsmay.md) — White Star chairman and Titanic survivor whose public villain role exceeded the episode's evidence about speed pressure and lifeboat conduct.
+- [Masabumi Hosono](entities/MasabumiHosono.md) — Japanese civil servant and Titanic survivor whose ostracism reveals the transnational reach of gendered disaster shame.
 - [Jan Hus](entities/JanHus.md) — Bohemian reformer whose scriptural emphasis, church criticism, and execution became a warning and precedent for Luther.
 - [古蜀道网络 / Shu Road Network](entities/ShuRoadNetwork.md) — Changing Qinling-Daba route system linking northern political centers, Hanzhong, Ba-Shu, Chengdu, and the upper Yangtze.
 - [金牛道 / Jinniu Road](entities/JinniuRoad.md) — Long-lived Hanzhong-to-Chengdu trunk with layered Ming-Qing remains, rerouting, and modern transport overlays.
@@ -10259,7 +10264,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Metamorphoses / 《变形记》](entities/Metamorphoses.md) — Ovidian transformation frame used by episode 130 to read chosen bodily change in 〈变形中心〉.
 - [徐熙元](entities/XuXiyuan.md) — Figure to whom episode 130 dedicates its closing wolf/transformation reading.
 - [《如何成为不完美主义者》 / How to Be an Imperfectionist](entities/HowToBeAnImperfectionist.md) — Book discussed by episode 129 as a practical guide to lowering action standards, tolerating failure, and acting before confidence or ideal conditions arrive.
-- [James Cameron](entities/JamesCameron.md) — Episode 129 example for distinguishing excellence, correctness, completion, and moving on from harmful perfectionism.
+- [James Cameron](entities/JamesCameron.md) — Filmmaker connecting completion-oriented excellence to the technically ambitious, culturally dominant, but historically simplifying 1997 Titanic.
 - [Oprah Winfrey](entities/OprahWinfrey.md) — Episode 129 example for separating excellence from perfectionism in public work and self-expectation.
 - [小S / Xiao S](entities/XiaoS.md) — Episode 129 media example of visible female imperfection, looseness, and self-acceptance against image-control pressure.
 - [《康熙来了》 / Kangxi Coming](entities/KangxiLaile.md) — Variety-show context for episode 129's Xiao S example of public imperfection and female self-possession.
@@ -13739,6 +13744,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lord Elgin](entities/LordElgin.md) — British diplomat at the center of Byron's cultural-plunder attack and Hobhouse's preservation counterargument.
 
 ## Concepts
+- [Titanic Disaster Memory](concepts/TitanicDisasterMemory.md) — Process turning Titanic into moral characters and reusable metaphors while intimate loss and chance resist one total interpretation.
+- [Disaster Survival Inequality](concepts/DisasterSurvivalInequality.md) — Pattern in which emergency rules, physical access, information, assistance, and class shape unequal survival opportunity.
+- [Maritime Disaster Safety Reform](concepts/MaritimeDisasterSafetyReform.md) — System-level conversion of shipwreck failures into capacity, training, monitoring, and route changes.
 - [Medical Trainee Psychosocial Safety / 医学培训者心理社会安全](concepts/MedicalTraineePsychosocialSafety.md) — Cumulative-risk and support model spanning workload, finances, belonging, teaching culture, help-seeking, and crisis escalation.
 - [Clinical Teaching Relationship / 临床带教关系](concepts/ClinicalTeachingRelationship.md) — Supervised relationship joining learning opportunity, feedback, trainee participation, respectful correction, and patient safety.
 - [Resident Physician Standardized Training / 住院医师规范化培训](concepts/ResidentPhysicianStandardizedTraining.md) — Clinical rotation and competency system whose educational value depends on trainee pathway, supervision, conditions, and employment context.

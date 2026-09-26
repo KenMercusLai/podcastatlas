@@ -729,12 +729,13 @@
       "455f81574ea47d9c3647de95d09b80cc9be7dfb65303264a3e3231d202fdf44c",
       "7d29e080e1fbfaacb253d9d31189c20c16c51ffc72d0e011d4ec7a1797d23729",
       "5508c647db991b895556c7319899c4b97872aa5e39286efb84e0333985c7f92d",
-      "34df1c2e8804f5214a38f77733d73c4efd8161905ce2ee717f86530fdbfa5fcc"
+      "34df1c2e8804f5214a38f77733d73c4efd8161905ce2ee717f86530fdbfa5fcc",
+      "fb80aad3fb0f83bb14ebfd51ceb86a6de23a0d1ebcaacbdb106de4eb8a3ab95d"
     ],
-    "paragraph_count": 729
+    "paragraph_count": 730
   },
-  "overview_commit": "5727e1b76a9acc5aa687bdadf600d724529a69ed",
-  "overview_digest": "9fa0ad365bf0238ead66f95d7ff2991d774bba83c89ffa372025248c85b40aa6",
+  "overview_commit": "b78b0e71194a6d0bc951bd2ba14d6ad06b4cc8d6",
+  "overview_digest": "c7cd8be08250ba81987d57ccf408468db841bb3dfc3ac3d7df2687f830e812e0",
   "paragraphs": [
     {
       "id": "ecf59e934a9e2b03f5a6bfe5d9d7de60750480c6a0fafcbbe4a6acb86451f7e3",
@@ -21621,6 +21622,29 @@
         "PurposeIntegratedMotivation",
         "ThreatChallengeStressReappraisal",
         "how-to-master-growth-mindset-to-improve-performance-dr-david-yeager-scim6606381639"
+      ]
+    },
+    {
+      "id": "fb80aad3fb0f83bb14ebfd51ceb86a6de23a0d1ebcaacbdb106de4eb8a3ab95d",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[432-titanic-the-survivors-part-6-glt4613169046|432. Titanic: The Survivors (Part 6)]], a [[TheRestIsHistory]] episode following [[RMSTitanic|RMS Titanic]] from [[RMSCarpathia|Carpathia]]'s rescue through casualty patterns, public mourning, inquiries, survivor stigma, safety reform, and cultural afterlife. It adds [[RMSTitanic]], [[RMSCarpathia]], [[BruceIsmay]], [[MasabumiHosono]], [[TitanicDisasterMemory]], [[DisasterSurvivalInequality]], and [[MaritimeDisasterSafetyReform]], while extending [[JamesCameron]]. Its core synthesis is that Titanic's aftermath cannot be reduced either to individual morality or to abstract metaphor: gender rules, class access, lifeboat capacity, warnings, speed, procedures, and industry norms structured survival and reform, while newspapers, memorials, national myth, poems, books, and film turned survivors into moral characters and the ship into a reusable image of hubris, empire, capitalism, patriarchy, and civilizational danger. No settled contradiction is recorded. The episode rejects the durable claim that Ismay ordered an early New York arrival, while casualty totals, class mechanisms, reported scenes, survivor psychology, and broad metaphorical readings remain source-scoped.",
+      "topic_scores": {
+        "culture-and-media": 1,
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "432-titanic-the-survivors-part-6-glt4613169046",
+        "BruceIsmay",
+        "DisasterSurvivalInequality",
+        "JamesCameron",
+        "MaritimeDisasterSafetyReform",
+        "MasabumiHosono",
+        "RMSCarpathia",
+        "RMSTitanic",
+        "TheRestIsHistory",
+        "TitanicDisasterMemory"
       ]
     }
   ],

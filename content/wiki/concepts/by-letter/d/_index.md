@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 8213
+wiki_total_pages: 8216
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -734,6 +734,9 @@ wiki_pages:
   - key: "DisasterSilenceAndShame"
     title: "Disaster Silence And Shame / 灾难后的沉默与羞耻"
     url: "/wiki/concepts/disastersilenceandshame/"
+  - key: "DisasterSurvivalInequality"
+    title: "Disaster Survival Inequality"
+    url: "/wiki/concepts/disastersurvivalinequality/"
   - key: "DisasterVictimIdentificationAndBodyAbsentMourning"
     title: "Disaster Victim Identification and Body-Absent Mourning"
     url: "/wiki/concepts/disastervictimidentificationandbodyabsentmourning/"

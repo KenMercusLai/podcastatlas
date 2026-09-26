@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-26] ingest | 432. Titanic: The Survivors (Part 6)
+
+Added source `432-titanic-the-survivors-part-6-glt4613169046`; created `RMSTitanic`, `RMSCarpathia`, `BruceIsmay`, `MasabumiHosono`, `TitanicDisasterMemory`, `DisasterSurvivalInequality`, and `MaritimeDisasterSafetyReform`; and updated `JamesCameron` from its complete bounded source set. Core synthesis: Titanic's aftermath joins unequal survival, industry-normalized safety failure, regulatory learning, survivor trauma, scapegoating, and cultural mythmaking; public narratives made Ismay and Hosono into moral characters while inquiries produced lifeboat, training, ice-patrol, and route reforms. No settled contradiction found. The episode rejects the claim that Ismay ordered an early New York arrival, while exact casualty totals, class mechanisms, reported scenes, psychology, and broad metaphorical readings remain source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
 ## [2026-09-26] ingest | 435. Luther: The Battle Against Satan (Part 3)
 
 Added source `435-luther-the-battle-against-satan-part-3-glt9360370091`; created `CardinalCajetan`, `JohannEck`, `PhilipMelanchthon`, and `SolaFideGrace`; and updated `MartinLuther`, `FrederickTheWise`, `Wittenberg`, `AndreasKarlstadt`, `SolaScripturaInterpretivePluralism`, and `ReformationPrintCulture` from their complete bounded source sets. Core synthesis: Luther's Pauline faith-and-grace breakthrough expanded an indulgence dispute into a conflict over Scripture, conscience, and papal authority, while Frederick's political protection and Wittenberg's print network converted Augsburg failure, Leipzig defeat, papal censure, and public burning into wider movement visibility. No settled contradiction found. The tower-experience chronology, pamphlet share, reported dialogue, motives, crowd behavior, and proposed lines to individualism, nationalism, or unbelief remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -22854,6 +22858,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-26] ingest | 433. Luther: The Man Who Changed the World (Part 1)
 
 Added source `433-luther-the-man-who-changed-the-world-part-1-glt7298373279`; created `JanHus` and `LateMedievalSalvationSystem`; and updated `MartinLuther`, `IndulgenceEconomy`, `ReformationLegacyAmbivalence`, and the canonical index from their complete bounded source sets. Core synthesis: Luther's unusual agency emerged from provincial Saxon piety, family mobility, apocalyptic expectation, humanist learning, and a sophisticated late-medieval salvation system rather than a uniformly rotten church; Jan Hus shows the danger of crossing accepted reform into condemned heresy. No settled contradiction found. The door-nailing story remains partly mythical, while family memories, population shares, prosperity estimates, prophetic reports, doctrinal generalizations, and broad Protestant-modernity genealogies remain episode-attributed or source-scoped. The automatic `wiki/overview.md` was not rewritten; downstream synthesis refresh reads it as canonical input.
+
+## [2026-09-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-26] lint | Wiki health check
 

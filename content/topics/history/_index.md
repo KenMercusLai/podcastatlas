@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2026
+topic_total_pages: 2027
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -4629,6 +4629,9 @@ topic_sources:
   - key: "41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038"
     title: "41.施剑翘复仇案：超越哈贝马斯的情与法"
     url: "/wiki/sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038/"
+  - key: "432-titanic-the-survivors-part-6-glt4613169046"
+    title: "432. Titanic: The Survivors (Part 6)"
+    url: "/wiki/sources/432-titanic-the-survivors-part-6-glt4613169046/"
   - key: "433-luther-the-man-who-changed-the-world-part-1-glt7298373279"
     title: "433. Luther: The Man Who Changed the World (Part 1)"
     url: "/wiki/sources/433-luther-the-man-who-changed-the-world-part-1-glt7298373279/"

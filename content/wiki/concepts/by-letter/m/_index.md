@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 8213
+wiki_total_pages: 8216
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -227,6 +227,9 @@ wiki_pages:
   - key: "MaritimeChokepointTolling"
     title: "Maritime Chokepoint Tolling"
     url: "/wiki/concepts/maritimechokepointtolling/"
+  - key: "MaritimeDisasterSafetyReform"
+    title: "Maritime Disaster Safety Reform"
+    url: "/wiki/concepts/maritimedisastersafetyreform/"
   - key: "MaritimeDrugInterdictionCapacity"
     title: "Maritime Drug Interdiction Capacity"
     url: "/wiki/concepts/maritimedruginterdictioncapacity/"

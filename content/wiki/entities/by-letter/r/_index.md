@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 10842
+wiki_total_pages: 10846
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -431,9 +431,15 @@ wiki_pages:
   - key: "ReallyMagicalStuff"
     title: "RMS / Really Magical Stuff"
     url: "/wiki/entities/reallymagicalstuff/"
+  - key: "RMSCarpathia"
+    title: "RMS Carpathia"
+    url: "/wiki/entities/rmscarpathia/"
   - key: "RMSLusitania"
     title: "RMS Lusitania"
     url: "/wiki/entities/rmslusitania/"
+  - key: "RMSTitanic"
+    title: "RMS Titanic"
+    url: "/wiki/entities/rmstitanic/"
   - key: "RoaldDahl"
     title: "Roald Dahl / 罗尔德·达尔"
     url: "/wiki/entities/roalddahl/"

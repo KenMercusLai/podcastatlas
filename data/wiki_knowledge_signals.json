@@ -17445,6 +17445,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/entities/broadcom/"
     },
+    "BruceIsmay": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4613169046 [GLT4613169046].md",
+          "key": "432-titanic-the-survivors-part-6-glt4613169046",
+          "show": "The Rest Is History",
+          "title": "432. Titanic: The Survivors (Part 6)",
+          "url": "/wiki/sources/432-titanic-the-survivors-part-6-glt4613169046/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/bruceismay/"
+    },
     "BruceSchneier": {
       "episode_count": 1,
       "show_count": 1,
@@ -36627,6 +36643,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/disasterreliefcorruption/"
+    },
+    "DisasterSurvivalInequality": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4613169046 [GLT4613169046].md",
+          "key": "432-titanic-the-survivors-part-6-glt4613169046",
+          "show": "The Rest Is History",
+          "title": "432. Titanic: The Survivors (Part 6)",
+          "url": "/wiki/sources/432-titanic-the-survivors-part-6-glt4613169046/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/disastersurvivalinequality/"
     },
     "DisasterVictimIdentificationAndBodyAbsentMourning": {
       "episode_count": 1,
@@ -73151,6 +73183,29 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/jamescallender/"
     },
+    "JamesCameron": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "129.如何成为真正的不完美主义者，浑身是劲儿！ [799220151].md",
+          "key": "129-ruhe-chengwei-zhenzheng-de-buwanmei-zhuyizhe-hunshen-shi-jiner-799220151",
+          "show": "蜜獾吃书",
+          "title": "129.如何成为真正的不完美主义者，浑身是劲儿！",
+          "url": "/wiki/sources/129-ruhe-chengwei-zhenzheng-de-buwanmei-zhuyizhe-hunshen-shi-jiner-799220151/"
+        },
+        {
+          "episode_file": "GLT4613169046 [GLT4613169046].md",
+          "key": "432-titanic-the-survivors-part-6-glt4613169046",
+          "show": "The Rest Is History",
+          "title": "432. Titanic: The Survivors (Part 6)",
+          "url": "/wiki/sources/432-titanic-the-survivors-part-6-glt4613169046/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/jamescameron/"
+    },
     "JamesEarlRay": {
       "episode_count": 1,
       "show_count": 1,
@@ -92391,6 +92446,22 @@
       "updated": "2026-09-24",
       "url": "/wiki/entities/marinelepen/"
     },
+    "MaritimeDisasterSafetyReform": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4613169046 [GLT4613169046].md",
+          "key": "432-titanic-the-survivors-part-6-glt4613169046",
+          "show": "The Rest Is History",
+          "title": "432. Titanic: The Survivors (Part 6)",
+          "url": "/wiki/sources/432-titanic-the-survivors-part-6-glt4613169046/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/maritimedisastersafetyreform/"
+    },
     "MarkCarney": {
       "episode_count": 2,
       "show_count": 1,
@@ -92955,6 +93026,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/marylandvking/"
+    },
+    "MasabumiHosono": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4613169046 [GLT4613169046].md",
+          "key": "432-titanic-the-survivors-part-6-glt4613169046",
+          "show": "The Rest Is History",
+          "title": "432. Titanic: The Survivors (Part 6)",
+          "url": "/wiki/sources/432-titanic-the-survivors-part-6-glt4613169046/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/masabumihosono/"
     },
     "Maserati": {
       "episode_count": 2,
@@ -115137,6 +115224,22 @@
       "updated": "2026-09-25",
       "url": "/wiki/concepts/rememotionalmemoryseparation/"
     },
+    "RMSCarpathia": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4613169046 [GLT4613169046].md",
+          "key": "432-titanic-the-survivors-part-6-glt4613169046",
+          "show": "The Rest Is History",
+          "title": "432. Titanic: The Survivors (Part 6)",
+          "url": "/wiki/sources/432-titanic-the-survivors-part-6-glt4613169046/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/rmscarpathia/"
+    },
     "RMSLusitania": {
       "episode_count": 1,
       "show_count": 1,
@@ -115152,6 +115255,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/rmslusitania/"
+    },
+    "RMSTitanic": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4613169046 [GLT4613169046].md",
+          "key": "432-titanic-the-survivors-part-6-glt4613169046",
+          "show": "The Rest Is History",
+          "title": "432. Titanic: The Survivors (Part 6)",
+          "url": "/wiki/sources/432-titanic-the-survivors-part-6-glt4613169046/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/rmstitanic/"
     },
     "RNAInterferenceGeneSilencing": {
       "episode_count": 1,
@@ -139379,6 +139498,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/tiresias/"
+    },
+    "TitanicDisasterMemory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4613169046 [GLT4613169046].md",
+          "key": "432-titanic-the-survivors-part-6-glt4613169046",
+          "show": "The Rest Is History",
+          "title": "432. Titanic: The Survivors (Part 6)",
+          "url": "/wiki/sources/432-titanic-the-survivors-part-6-glt4613169046/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/titanicdisastermemory/"
     },
     "TitaniumAsConsumerMaterial": {
       "episode_count": 1,
