@@ -26185,9 +26185,9 @@
       "url": "/wiki/concepts/clinicaloutcomeuncertainty/"
     },
     "ClinicalRoleOverload": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "liKQsiszM7Z-evaZ5AjXeRXzdLiV [liKQsiszM7Z-evaZ5AjXeRXzdLiV].md",
@@ -26195,10 +26195,33 @@
           "show": "这病说来话长",
           "title": "VOL.107躁狂？抑郁？网红急诊科医生的精神AB面",
           "url": "/wiki/sources/likqsiszm7z-evaz5ajxerxzdliv-likqsiszm7z-evaz5ajxerxzdliv/"
+        },
+        {
+          "episode_file": "lgutjXt-7VqzeCklQyXE_OsyZR43 [lgutjXt-7VqzeCklQyXE_OsyZR43].md",
+          "key": "vol-105-beiju-guipeisheng-buzhi-lunweile-lianjia-laodongli-he-7-wei-yisheng-jiepo-guipei-libi-deshi-lgutjxt-7vqzecklqyxe_osyzr43",
+          "show": "这病说来话长",
+          "title": "VOL.105悲剧！规培生不止沦为了廉价劳动力！和7位医生解剖规培利弊得失",
+          "url": "/wiki/sources/vol-105-beiju-guipeisheng-buzhi-lunweile-lianjia-laodongli-he-7-wei-yisheng-jiepo-guipei-libi-deshi-lgutjxt-7vqzecklqyxe_osyzr43/"
         }
       ],
       "updated": "2026-09-26",
       "url": "/wiki/concepts/clinicalroleoverload/"
+    },
+    "ClinicalTeachingRelationship": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgutjXt-7VqzeCklQyXE_OsyZR43 [lgutjXt-7VqzeCklQyXE_OsyZR43].md",
+          "key": "vol-105-beiju-guipeisheng-buzhi-lunweile-lianjia-laodongli-he-7-wei-yisheng-jiepo-guipei-libi-deshi-lgutjxt-7vqzecklqyxe_osyzr43",
+          "show": "这病说来话长",
+          "title": "VOL.105悲剧！规培生不止沦为了廉价劳动力！和7位医生解剖规培利弊得失",
+          "url": "/wiki/sources/vol-105-beiju-guipeisheng-buzhi-lunweile-lianjia-laodongli-he-7-wei-yisheng-jiepo-guipei-libi-deshi-lgutjxt-7vqzecklqyxe_osyzr43/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/clinicalteachingrelationship/"
     },
     "ClinicalTrustBuilding": {
       "episode_count": 1,
@@ -93803,6 +93826,22 @@
       "updated": "2026-09-25",
       "url": "/wiki/concepts/medicalimagingcommunicationboundary/"
     },
+    "MedicalTraineePsychosocialSafety": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgutjXt-7VqzeCklQyXE_OsyZR43 [lgutjXt-7VqzeCklQyXE_OsyZR43].md",
+          "key": "vol-105-beiju-guipeisheng-buzhi-lunweile-lianjia-laodongli-he-7-wei-yisheng-jiepo-guipei-libi-deshi-lgutjxt-7vqzecklqyxe_osyzr43",
+          "show": "这病说来话长",
+          "title": "VOL.105悲剧！规培生不止沦为了廉价劳动力！和7位医生解剖规培利弊得失",
+          "url": "/wiki/sources/vol-105-beiju-guipeisheng-buzhi-lunweile-lianjia-laodongli-he-7-wei-yisheng-jiepo-guipei-libi-deshi-lgutjxt-7vqzecklqyxe_osyzr43/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/medicaltraineepsychosocialsafety/"
+    },
     "MedicationSelfCombinationRisk": {
       "episode_count": 1,
       "show_count": 1,
@@ -117764,6 +117803,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/researchinstitutionsasstrategiccapacity/"
+    },
+    "ResidentPhysicianStandardizedTraining": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgutjXt-7VqzeCklQyXE_OsyZR43 [lgutjXt-7VqzeCklQyXE_OsyZR43].md",
+          "key": "vol-105-beiju-guipeisheng-buzhi-lunweile-lianjia-laodongli-he-7-wei-yisheng-jiepo-guipei-libi-deshi-lgutjxt-7vqzecklqyxe_osyzr43",
+          "show": "这病说来话长",
+          "title": "VOL.105悲剧！规培生不止沦为了廉价劳动力！和7位医生解剖规培利弊得失",
+          "url": "/wiki/sources/vol-105-beiju-guipeisheng-buzhi-lunweile-lianjia-laodongli-he-7-wei-yisheng-jiepo-guipei-libi-deshi-lgutjxt-7vqzecklqyxe_osyzr43/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/residentphysicianstandardizedtraining/"
     },
     "ResourceAsymmetryAttrition": {
       "episode_count": 3,
@@ -162914,9 +162969,9 @@
       "url": "/wiki/entities/zibianliang/"
     },
     "ZihanDoctor": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "lhze9i64H8iFso_oN-1cMnSKXtng [lhze9i64H8iFso_oN-1cMnSKXtng].md",
@@ -162959,6 +163014,13 @@
           "show": "这病说来话长",
           "title": "VOL.110善终是为了更好的活着！生老病死，6位医生视角怎么看？｜世界读书日",
           "url": "/wiki/sources/vol-110-shanzhong-shi-weile-genghao-de-huozhe-shenglaobingsi-6-wei-yisheng-shijiao-zenme-kan-shijie-dushuri-lklwhndplyk73rpqxuraocs4cii5/"
+        },
+        {
+          "episode_file": "lgutjXt-7VqzeCklQyXE_OsyZR43 [lgutjXt-7VqzeCklQyXE_OsyZR43].md",
+          "key": "vol-105-beiju-guipeisheng-buzhi-lunweile-lianjia-laodongli-he-7-wei-yisheng-jiepo-guipei-libi-deshi-lgutjxt-7vqzecklqyxe_osyzr43",
+          "show": "这病说来话长",
+          "title": "VOL.105悲剧！规培生不止沦为了廉价劳动力！和7位医生解剖规培利弊得失",
+          "url": "/wiki/sources/vol-105-beiju-guipeisheng-buzhi-lunweile-lianjia-laodongli-he-7-wei-yisheng-jiepo-guipei-libi-deshi-lgutjxt-7vqzecklqyxe_osyzr43/"
         }
       ],
       "updated": "2026-09-26",

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.105悲剧！规培生不止沦为了廉价劳动力！和7位医生解剖规培利弊得失](sources/vol-105-beiju-guipeisheng-buzhi-lunweile-lianjia-laodongli-he-7-wei-yisheng-jiepo-guipei-libi-deshi-lgutjxt-7vqzecklqyxe_osyzr43.md) — 这病说来话长 roundtable on residency-training purpose, trainee categories, role overload, clinical supervision, unequal conditions, and psychosocial safety.
 - [433. Luther: The Man Who Changed the World (Part 1)](sources/433-luther-the-man-who-changed-the-world-part-1-glt7298373279.md) — The Rest Is History on Luther's Saxon formation, humanism, late-medieval salvation practices, Jan Hus, and the conditions that turned reform into rupture.
 - [EP285 踏访古蜀道：敢问路在何方？](sources/ep285-tafang-gushudao-ganwen-lu-zai-hefang-li20senvn3oelioproznnykdajvt.md) — Talk三联 episode with 薛鹏、艾江涛、张星云 on the Shu-road network, Jinniu/Baoxie/Litchi routes, road archaeology, transport technology, political geography, trade, and contested local heritage.
 - [What Magic & Mind Reading Reveal About the Brain | Asi Wind](sources/what-magic-mind-reading-reveal-about-the-brain-asi-wind-scim6818902310.md) — Huberman Lab conversation on magic as applied cognitive science, reconstructive memory, attentional design, audience connection, consent-based deception, and creative practice.
@@ -13738,6 +13739,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lord Elgin](entities/LordElgin.md) — British diplomat at the center of Byron's cultural-plunder attack and Hobhouse's preservation counterargument.
 
 ## Concepts
+- [Medical Trainee Psychosocial Safety / 医学培训者心理社会安全](concepts/MedicalTraineePsychosocialSafety.md) — Cumulative-risk and support model spanning workload, finances, belonging, teaching culture, help-seeking, and crisis escalation.
+- [Clinical Teaching Relationship / 临床带教关系](concepts/ClinicalTeachingRelationship.md) — Supervised relationship joining learning opportunity, feedback, trainee participation, respectful correction, and patient safety.
+- [Resident Physician Standardized Training / 住院医师规范化培训](concepts/ResidentPhysicianStandardizedTraining.md) — Clinical rotation and competency system whose educational value depends on trainee pathway, supervision, conditions, and employment context.
 - [Late-Medieval Salvation System](concepts/LateMedievalSalvationSystem.md) — Clerical, legal, sacramental, and devotional order joining purgatory, masses, saints, indulgences, and shared religious authority.
 - [道路考古 / Road Archaeology](concepts/RoadArchaeology.md) — Reconstruction of vanished linear routes through documents, terrain, surface traces, bridges, geospatial tools, oral memory, and walking.
 - [交通技术与地形关系 / Terrain-Bound Transport Evolution](concepts/TerrainBoundTransportEvolution.md) — Shift from valley- and ridge-bound paths toward trestles, cliff roads, highways, viaducts, tunnels, and high-speed rail.

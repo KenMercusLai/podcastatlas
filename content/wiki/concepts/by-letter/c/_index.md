@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8210
+wiki_total_pages: 8213
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -1061,6 +1061,9 @@ wiki_pages:
   - key: "ClinicalRoleOverload"
     title: "Clinical Role Overload / 临床角色过载"
     url: "/wiki/concepts/clinicalroleoverload/"
+  - key: "ClinicalTeachingRelationship"
+    title: "Clinical Teaching Relationship / 临床带教关系"
+    url: "/wiki/concepts/clinicalteachingrelationship/"
   - key: "ClinicalTrialContinuity"
     title: "Clinical Trial Continuity"
     url: "/wiki/concepts/clinicaltrialcontinuity/"

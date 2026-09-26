@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 8210
+wiki_total_pages: 8213
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -521,6 +521,9 @@ wiki_pages:
   - key: "ReservationValue"
     title: "Reservation Value / 谈判底线"
     url: "/wiki/concepts/reservationvalue/"
+  - key: "ResidentPhysicianStandardizedTraining"
+    title: "Resident Physician Standardized Training / 住院医师规范化培训"
+    url: "/wiki/concepts/residentphysicianstandardizedtraining/"
   - key: "ResistanceAxisBackfire"
     title: "Resistance Axis Backfire / 抵抗之弧反噬"
     url: "/wiki/concepts/resistanceaxisbackfire/"

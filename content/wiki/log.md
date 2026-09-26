@@ -22660,6 +22660,10 @@ Added source `google-touzi-a24-ai-jiang-chengwei-haolaiwu-de-weilai-faaf14098cca
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-26] ingest | VOL.105悲剧！规培生不止沦为了廉价劳动力！和7位医生解剖规培利弊得失
+
+Added source `vol-105-beiju-guipeisheng-buzhi-lunweile-lianjia-laodongli-he-7-wei-yisheng-jiepo-guipei-libi-deshi-lgutjxt-7vqzecklqyxe_osyzr43`; created `ResidentPhysicianStandardizedTraining`, `ClinicalTeachingRelationship`, and `MedicalTraineePsychosocialSafety`; and updated `ClinicalRoleOverload` and `ZihanDoctor` from their complete bounded source sets. Core synthesis: standardized residency training can build portable clinical competence, but pathway, region, compensation, housing, academic duties, supervision, belonging, and job prospects determine whether it functions as education, productive labor, or both. No settled contradiction found. The opening death was not independently adjudicated; policy, pay, staffing, incident-pattern, and outcome claims remain source-scoped. Partial-name speakers were not merged into existing people without stronger identity evidence.
+
 ## [2026-09-26] ingest | 439. Disco: Sex and Race in Seventies America
 
 Added source `439-disco-sex-and-race-in-seventies-america-glt8206137792`; created `Disco`, `ContinuousDJMixing`, `DiscoBacklash`, `DavidMancuso`, `FrancisGrasso`, `DonnaSummer`, `GiorgioMoroder`, `Studio54`, and `SteveDahl`; and updated the canonical index. Core synthesis: disco began as a DJ-led, mixed, often gay and racially diverse club practice whose continuous sound, studio production, and communal release later became mass-market entertainment; its backlash combined commercial fatigue and generational change with racism, homophobia, gender anxiety, and rock-coded masculinity. No settled contradiction found. Founder language, attendance, song priority, crowd motives, chart timing, and causal links among backlash, political reaction, AIDS, and disco's decline remain episode-attributed or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -22850,6 +22854,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-26] ingest | 433. Luther: The Man Who Changed the World (Part 1)
 
 Added source `433-luther-the-man-who-changed-the-world-part-1-glt7298373279`; created `JanHus` and `LateMedievalSalvationSystem`; and updated `MartinLuther`, `IndulgenceEconomy`, `ReformationLegacyAmbivalence`, and the canonical index from their complete bounded source sets. Core synthesis: Luther's unusual agency emerged from provincial Saxon piety, family mobility, apocalyptic expectation, humanist learning, and a sophisticated late-medieval salvation system rather than a uniformly rotten church; Jan Hus shows the danger of crossing accepted reform into condemned heresy. No settled contradiction found. The door-nailing story remains partly mythical, while family memories, population shares, prosperity estimates, prophetic reports, doctrinal generalizations, and broad Protestant-modernity genealogies remain episode-attributed or source-scoped. The automatic `wiki/overview.md` was not rewritten; downstream synthesis refresh reads it as canonical input.
+
+## [2026-09-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-26] lint | Wiki health check
 

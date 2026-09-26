@@ -14811,6 +14811,10 @@
     "title": "Clinical Role Overload / 临床角色过载",
     "url": "/wiki/concepts/clinicalroleoverload/"
   },
+  "ClinicalTeachingRelationship": {
+    "title": "Clinical Teaching Relationship / 临床带教关系",
+    "url": "/wiki/concepts/clinicalteachingrelationship/"
+  },
   "ClinicalTrialContinuity": {
     "title": "Clinical Trial Continuity",
     "url": "/wiki/concepts/clinicaltrialcontinuity/"
@@ -44467,6 +44471,10 @@
     "title": "Medical Testing Validation Integrity",
     "url": "/wiki/concepts/medicaltestingvalidationintegrity/"
   },
+  "MedicalTraineePsychosocialSafety": {
+    "title": "Medical Trainee Psychosocial Safety / 医学培训者心理社会安全",
+    "url": "/wiki/concepts/medicaltraineepsychosocialsafety/"
+  },
   "MedicalVisualHistory": {
     "title": "Medical Visual History",
     "url": "/wiki/concepts/medicalvisualhistory/"
@@ -56754,6 +56762,10 @@
   "ReshoringInitiative": {
     "title": "Reshoring Initiative",
     "url": "/wiki/entities/reshoringinitiative/"
+  },
+  "ResidentPhysicianStandardizedTraining": {
+    "title": "Resident Physician Standardized Training / 住院医师规范化培训",
+    "url": "/wiki/concepts/residentphysicianstandardizedtraining/"
   },
   "ResistanceAxisBackfire": {
     "title": "Resistance Axis Backfire / 抵抗之弧反噬",
@@ -82410,6 +82422,10 @@
   "vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90": {
     "title": "vol.104.普通人港股完全生存指南 | 串台三点下班",
     "url": "/wiki/sources/vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90/"
+  },
+  "vol-105-beiju-guipeisheng-buzhi-lunweile-lianjia-laodongli-he-7-wei-yisheng-jiepo-guipei-libi-deshi-lgutjxt-7vqzecklqyxe_osyzr43": {
+    "title": "VOL.105悲剧！规培生不止沦为了廉价劳动力！和7位医生解剖规培利弊得失",
+    "url": "/wiki/sources/vol-105-beiju-guipeisheng-buzhi-lunweile-lianjia-laodongli-he-7-wei-yisheng-jiepo-guipei-libi-deshi-lgutjxt-7vqzecklqyxe_osyzr43/"
   },
   "vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe": {
     "title": "vol.105.如何判断一个投资组合是否适合自己？",

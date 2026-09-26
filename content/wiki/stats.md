@@ -11,22 +11,22 @@ outputs: ["html"]
 
 ## Pages
 - Overview: 1
-- Concepts: 8210
+- Concepts: 8213
 - Entities: 10842
-- Sources: 2857
-- Total wiki content pages: 21910
+- Sources: 2858
+- Total wiki content pages: 21914
 
 ## Links
-- Wiki link references: 555605
-- Unique wiki link targets: 21915
-- Missing targets: 7
+- Wiki link references: 555674
+- Unique wiki link targets: 21918
+- Missing targets: 6
 - Exact duplicate keys: 0
 - Case-insensitive key collisions: 0
 - Public route collisions: 0
 
 ## Source Episodes
-- Source pages: 2857
-- Matched episodes: 2857
+- Source pages: 2858
+- Matched episodes: 2858
 - Missing source_file: 0
 - Unmatched source_file: 0
 
@@ -44,8 +44,6 @@ outputs: ["html"]
   - `content/wiki/log.md`
 - `[[CoordinatedVulnerabilityDisclosure]]`
   - `content/wiki/sources/tech-20260924-0924-mp-tech-pod-128-tech-20260924-0924-mp-tech-pod-128.md`
-- `[[EmotionalLabor]]`
-  - `content/wiki/concepts/ClinicalRoleOverload.md`
 - `[[SupplementContaminationAndMislabelling]]`
   - `content/wiki/concepts/ShilajitEvidenceBoundary.md`
 

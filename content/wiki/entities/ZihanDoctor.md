@@ -9,6 +9,7 @@ sources:
   - lnrbqztehpu3nnpofuw1ihascwrm-lnrbqztehpu3nnpofuw1ihascwrm
   - vol-117-geshou-xinxiaoqi-bu-qu-jianshenfang-jiu-zai-jia-chaomanpao-qianwan-bie-jieshi-lvzc4-syubatlt-nmkxggpdymdb3
   - vol-110-shanzhong-shi-weile-genghao-de-huozhe-shenglaobingsi-6-wei-yisheng-shijiao-zenme-kan-shijie-dushuri-lklwhndplyk73rpqxuraocs4cii5
+  - vol-105-beiju-guipeisheng-buzhi-lunweile-lianjia-laodongli-he-7-wei-yisheng-jiepo-guipei-libi-deshi-lgutjxt-7vqzecklqyxe_osyzr43
 last_updated: 2026-09-26
 knowledge_schema: synthesis-v1
 ---
@@ -31,6 +32,8 @@ VOL.117 adds a lower-acuity lifestyle-education role. After [[XinXiaoqi|辛晓�
 
 VOL.110 adds her medical-humanities and end-of-life role through 《最好的告别》. Drawing on ICU experience, she distinguishes potentially reversible critical illness from irreversible terminal decline and presents comfort-focused care as reducing invasive burden when cure is no longer realistic. Her formulation that a good death supports better living connects advance conversation, family understanding, and present quality of life without claiming that people can fully rehearse their final feelings.
 
+VOL.105 adds her trainee and supervisor perspective. She describes having combined professional-master's requirements with residency training, difficult departments, early information gathering, long shifts, and severe fatigue. As a later teacher, she emphasizes sustainable ways to release pressure, acknowledges that distress during a low-power training period can be real, and asks trainees to use short ICU rotations for actual learning rather than only task completion.
+
 ## Key Characteristics
 - Explains hantavirus through subtype, geography, host reservoir, transmission route, and clinical syndrome, distinguishing localized outbreak risk from broad community-transmission fear.
 - Connects public medical education to concrete prevention and lifestyle behavior, from rodent-safe cleanup to low-friction aerobic activity and moderate eating.
@@ -38,7 +41,7 @@ VOL.110 adds her medical-humanities and end-of-life role through 《最好的告
 - Frames ICU as time- and organ-support for acute, potentially reversible disease rather than a terminal label, while distinguishing comfort-focused care in irreversible terminal decline.
 - Connects acute survival to rehabilitation, ordinary function, and patient-defined quality of life.
 - Explains how ICU teams reconstruct missing history from relatives, tests, and clinical clues when the patient cannot communicate.
-- Connects narrative medicine, reassurance, touch, and explanation to the experience of patients who are frightened, sedated, restrained, or unable to speak.
+- Connects narrative medicine, reassurance, touch, and explanation to vulnerable patients while extending the same humane stance to trainees under clinical and academic strain.
 
 ## Evidence
 - Public-health framing: [[vol-205-xiangbi-hantanbingdu-ni-genggai-liaojie-hantan-hancheng-yaxing-chuxian-zhege-zhengzhuang-yiding-like-qu-yiyuan-lhze9i64h8ifso_on-1cmnskxtng]] has 子涵医生 classify the cruise-ship event as serious for exposed people but low as a global population threat.
@@ -50,13 +53,15 @@ VOL.110 adds her medical-humanities and end-of-life role through 《最好的告
 - Narrative and patient experience: [[lnrbqztehpu3nnpofuw1ihascwrm-lnrbqztehpu3nnpofuw1ihascwrm]] connects encouragement during ultrasound, post-sedation misunderstanding, bedside touch, invisible night work, and clinician storytelling to humane critical care.
 - Exercise and eating translation: [[vol-117-geshou-xinxiaoqi-bu-qu-jianshenfang-jiu-zai-jia-chaomanpao-qianwan-bie-jieshi-lvzc4-syubatlt-nmkxggpdymdb3]] has 子涵医生 explain relaxed super-slow jogging, gradual session progression, seven-to-eight-tenths fullness, and the difference between mild hunger and meal-skipping.
 - End-of-life distinction: [[vol-110-shanzhong-shi-weile-genghao-de-huozhe-shenglaobingsi-6-wei-yisheng-shijiao-zenme-kan-shijie-dushuri-lklwhndplyk73rpqxuraocs4cii5]] has 子涵医生 use ICU experience and 《最好的告别》 to distinguish active support for reversibility from comfort-focused terminal care.
+- Training and supervision: [[vol-105-beiju-guipeisheng-buzhi-lunweile-lianjia-laodongli-he-7-wei-yisheng-jiepo-guipei-libi-deshi-lgutjxt-7vqzecklqyxe_osyzr43]] has 子涵老师 connect her combined professional-master's and residency experience with exhausting work, difficult teaching environments, pressure-release practices, and a later commitment to making ICU rotation educational.
 
 ## Qualifications
-The wiki has no independent biographical evidence for 尹子涵 beyond these episode notes. VOL.118 supplies the full name, attending-physician title, and Peking University Shenzhen Hospital affiliation, strengthening the linkage to sources that call her 子涵医生, 子涵老师, or 子涵, but the credentials remain source-scoped. Her comments are public education, not individualized diagnosis, treatment, prognosis, ICU admission, rehabilitation, cleaning, vaccination, travel, infectious-disease, nephrology, pulmonary, rheumatology, history-taking, privacy, insurance, emergency-care, exercise, nutrition, fasting, or weight-management advice.
+The wiki has no independent biographical evidence for 尹子涵 beyond these episode notes. VOL.118 supplies the full name, attending-physician title, and Peking University Shenzhen Hospital affiliation, strengthening the linkage to sources that call her 子涵医生, 子涵老师, or 子涵, but the credentials remain source-scoped. Her training recollection cannot establish typical workload, mental-health outcomes, or teaching quality across programs. Her comments are public education, not individualized diagnosis, treatment, prognosis, ICU admission, rehabilitation, cleaning, vaccination, travel, infectious-disease, nephrology, pulmonary, rheumatology, history-taking, privacy, insurance, emergency-care, exercise, nutrition, fasting, weight-management, occupational-health, or crisis guidance.
 
 ## What Changed
 - Added her reading-led explanation of comfort-focused terminal care.
 - Clarified her boundary between ICU support for reversible illness and treatment limitation in irreversible decline.
+- Added the continuity between her own overloaded training experience and her later supervision of ICU trainees.
 
 ## Relationships
 - [[ZheBingShuoLaiHuaChang]] - show where she appears as medical guest.
@@ -75,3 +80,6 @@ The wiki has no independent biographical evidence for 尹子涵 beyond these epi
 - [[SuperSlowJogging]] - low-intensity exercise practice she explains through effort, cadence, access, and progression.
 - [[HospiceCare]] - comfort-focused end-of-life branch she explains through ICU experience and reading.
 - [[DeathNormalizationPractice]] - advance-conversation frame linked to living well in the present.
+- [[ResidentPhysicianStandardizedTraining]] - training system she describes experiencing through a professional-master's pathway.
+- [[ClinicalTeachingRelationship]] - later supervisor role through which she tries to turn short ICU rotations into learning.
+- [[MedicalTraineePsychosocialSafety]] - pressure-recognition and support boundary reinforced by her account.

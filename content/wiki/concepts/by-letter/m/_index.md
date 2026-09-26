@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 8210
+wiki_total_pages: 8213
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -443,6 +443,9 @@ wiki_pages:
   - key: "MedicalTestingValidationIntegrity"
     title: "Medical Testing Validation Integrity"
     url: "/wiki/concepts/medicaltestingvalidationintegrity/"
+  - key: "MedicalTraineePsychosocialSafety"
+    title: "Medical Trainee Psychosocial Safety / 医学培训者心理社会安全"
+    url: "/wiki/concepts/medicaltraineepsychosocialsafety/"
   - key: "MedicalVisualHistory"
     title: "Medical Visual History"
     url: "/wiki/concepts/medicalvisualhistory/"
