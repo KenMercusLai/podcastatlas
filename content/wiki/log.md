@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-27] ingest | How to Optimize Cognitive Function & Brain Health | Dr. Mark D'Esposito
+
+Added source `how-to-optimize-cognitive-function-brain-health-dr-mark-desposito-scim4205449835`; created `MarkDEsposito`, `ExecutiveFunction`, `WorkingMemoryActiveControl`, `GoalManagementTraining`, and `BrainNetworkModularity`; and updated `DopamineInvertedU`, `ConcussionActiveRecovery`, and `PrefrontalCortexOverattribution` from their complete bounded source sets. Core synthesis: goal-directed cognition emerges from distributed frontal control, active working memory, baseline-dependent neuromodulation, and network organization; rehabilitation therefore emphasizes explicit strategy and tolerable progression rather than narrow drills, prolonged inactivity, or more-is-better stimulation. No settled contradiction found. Drug, genetic, biomarker, modularity, exercise, mindfulness, TMS, Alzheimer, Parkinson, and brain-health-index claims remain source-scoped public education, and the traumatic-brain-injury modularity result comes from 12 participants. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
 ## [2026-09-27] ingest | 422. Ancient Carthage: Rise of a Superpower (Part 2)
 
 Added source `422-ancient-carthage-rise-of-a-superpower-part-2-glt7946297144`; created `CarthaginianConstitution` and `CarthaginianCommercialToTerritorialEmpire`; and updated `Carthage`, `ScipioAemilianus`, `ArchivePreservationBias`, the canonical index, and overview from their complete bounded source sets. Core synthesis: Carthage's rise joined strategic harbors, maritime exchange, African agriculture, Phoenician identity, mixed aristocratic institutions, and a shift from trading settlements toward territorial control, while Greek and Roman enemy archives require graded confidence. No settled contradiction found. The episode rejects Persian-Carthaginian coordination and the salt-sowing legend; foundation figures, sacrifice reports, constitutional detail, exact numbers, motives, speeches, and dramatic deaths remain source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
@@ -23026,6 +23030,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-27] ingest | 423. Carthage vs. Rome: The Wolf at the Gates (Part 3)
 
 Added source `423-carthage-vs-rome-the-wolf-at-the-gates-part-3-glt2669872613`; created `Pyrrhus` and `RomanCivicMilitaryIncorporation`; and updated `RomanRepublic`, `Carthage`, `Samnites`, and `FirstPunicWar` from their complete bounded source sets. Core synthesis: Rome's pre-Punic strength lay less in uninterrupted victory than in coercive incorporation, civic honor, citizen service, allied manpower, and continued mobilization after defeat, while Carthage remained the older maritime-commercial treaty partner until Roman control of Italy shifted both powers toward Sicily. No settled contradiction found. Early republican narratives, treaty dating, the Gallic sack's causal role, battle details, reported speeches and prophecies, and the citizen-versus-mercenary contrast remain source-scoped or qualified. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-27] lint | Wiki health check
 

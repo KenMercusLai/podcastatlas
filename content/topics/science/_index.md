@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1224
+topic_total_pages: 1228
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -235,6 +235,9 @@ topic_concepts:
   - key: "BoxingAsEmbodiedAgency"
     title: "Boxing As Embodied Agency"
     url: "/wiki/concepts/boxingasembodiedagency/"
+  - key: "BrainNetworkModularity"
+    title: "Brain Network Modularity"
+    url: "/wiki/concepts/brainnetworkmodularity/"
   - key: "BrainBodyEmotionMapping"
     title: "Brain-Body Emotion Mapping"
     url: "/wiki/concepts/brainbodyemotionmapping/"
@@ -652,6 +655,9 @@ topic_concepts:
   - key: "ExamDrivenScienceEducation"
     title: "Exam-Driven Science Education / 应试化科学教育"
     url: "/wiki/concepts/examdrivenscienceeducation/"
+  - key: "ExecutiveFunction"
+    title: "Executive Function"
+    url: "/wiki/concepts/executivefunction/"
   - key: "ExerciseAssistiveGearBoundary"
     title: "Exercise Assistive Gear Boundary / 运动护具辅助边界"
     url: "/wiki/concepts/exerciseassistivegearboundary/"
@@ -2083,6 +2089,9 @@ topic_concepts:
   - key: "WildfireSmokeHealthBurden"
     title: "Wildfire Smoke Health Burden"
     url: "/wiki/concepts/wildfiresmokehealthburden/"
+  - key: "WorkingMemoryActiveControl"
+    title: "Working Memory as Active Control"
+    url: "/wiki/concepts/workingmemoryactivecontrol/"
   - key: "WorkplaceMenopauseSupport"
     title: "Workplace Menopause Support / 职场更年期支持"
     url: "/wiki/concepts/workplacemenopausesupport/"
@@ -3504,6 +3513,9 @@ topic_sources:
   - key: "how-to-navigate-menopause-perimenopause-for-maximum-health-vitality-dr-mary-claire-haver-scim1557774220"
     title: "How to Navigate Menopause & Perimenopause for Maximum Health & Vitality | Dr. Mary Claire Haver"
     url: "/wiki/sources/how-to-navigate-menopause-perimenopause-for-maximum-health-vitality-dr-mary-claire-haver-scim1557774220/"
+  - key: "how-to-optimize-cognitive-function-brain-health-dr-mark-desposito-scim4205449835"
+    title: "How to Optimize Cognitive Function & Brain Health | Dr. Mark D'Esposito"
+    url: "/wiki/sources/how-to-optimize-cognitive-function-brain-health-dr-mark-desposito-scim4205449835/"
   - key: "how-to-overcome-social-anxiety-dr-nick-epley-scim7834121132"
     title: "How to Overcome Social Anxiety | Dr. Nick Epley"
     url: "/wiki/sources/how-to-overcome-social-anxiety-dr-nick-epley-scim7834121132/"

@@ -3,16 +3,16 @@
 generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
-last_updated: 2026-09-26
-as_of_overview_commit: bf79f7f07a8ba3f78b8ed6bb740fa04b017d4cfe
-input_digest: ba7740646ae044a0d04a42795ac3eae27c6d1a2ed8917a3a68006619da05e5c6
+last_updated: 2026-09-27
+as_of_overview_commit: 1b971f6d3d194dd769a488b9f007c9ccf6e3b8c8
+input_digest: d87a7c05e82ed7a1c308ed2b3524f3f31167c5c4b74e6c3db4541f0441ce1a24
 ---
 
 # Science, Health, and Climate
 
 ## Current State
 
-Expectation effects add a mechanistic health boundary: learned context and framing can change symptoms, neural activity, hormones, and autonomic outputs, while objective function and disease modification still require outcome-specific evidence. Science, health, and climate sources consistently separate public literacy from individualized care: mechanisms, measurements, urgent escalation, qualified treatment, environmental context, and uncertainty matter more than labels or cure claims. The topic spans sleep and mental health, chronic and acute care, metabolism and nutrition, exercise and sensory health, disability and animal welfare, climate adaptation, and science governance; interventions remain population-, comparator-, dose-, timing-, endpoint-, goal-, and supervision-dependent. The latest medical-humanities addition sharpens end-of-life boundaries: comfort-focused care belongs to irreversible terminal decline, ICU can buy time for potentially reversible illness, and advance conversation can clarify wishes without perfectly predicting a later clinical state. The Ruiz episode reinforces that elite performance does not establish psychological safety and that multi-part recovery testimony must remain clinically bounded rather than converted into a universal protocol.
+Science, health, and climate sources consistently separate public literacy from individualized care: mechanisms, measurements, urgent escalation, qualified treatment, environmental context, and uncertainty matter more than labels or cure claims. The topic spans sleep and mental health, chronic and acute care, metabolism and nutrition, exercise and sensory health, disability and animal welfare, climate adaptation, and science governance; interventions remain population-, comparator-, dose-, timing-, endpoint-, goal-, and supervision-dependent. Expectation effects can change symptoms and physiology without proving restored function or disease modification; end-of-life and intensive-care decisions depend on reversibility and stated wishes; and elite performance does not establish psychological safety. The newest cognitive-control branch adds that executive function and working memory emerge from distributed, state-sensitive networks, so dopamine effects and rehabilitation response depend on baseline state and remain clinically bounded.
 
 ## Cross-source Findings
 
@@ -835,3 +835,15 @@ Collagen and probiotics increasingly appear in cosmetics, snacks, drinks, and mi
 - The source is a solo explanatory episode rather than a systematic review, and effect sizes, replication, COMT associations, color and delivery rankings, and clinical implementation remain source-scoped.
 - Asthma discomfort can improve without measured breathing improvement, and cancer-treatment comfort does not establish tumor reduction.
 - Expectation can interact with active treatment but does not show that inert treatment can replace indicated medication or disease-directed care.
+
+### Cognitive Control Needs Network Baseline And Rehabilitation Boundaries
+
+[[how-to-optimize-cognitive-function-brain-health-dr-mark-desposito-scim4205449835|The D'Esposito Huberman Lab episode]] adds a cognitive-control branch: [[ExecutiveFunction]] maintains rules and goals through distributed frontal influence, [[WorkingMemoryActiveControl]] actively holds and manipulates absent information, [[DopamineInvertedU]] makes neuromodulator effects baseline-dependent, and [[GoalManagementTraining]], [[ConcussionActiveRecovery]], and [[BrainNetworkModularity]] connect explicit strategy and tolerable progression to qualified, variable rehabilitation response.
+
+**Evidence:** [[how-to-optimize-cognitive-function-brain-health-dr-mark-desposito-scim4205449835]], [[AndrewHuberman]], [[MarkDEsposito]], [[ExecutiveFunction]], [[WorkingMemoryActiveControl]], [[DopamineInvertedU]], [[GoalManagementTraining]], [[ConcussionActiveRecovery]], [[BrainNetworkModularity]]
+
+**Qualifications:**
+
+- The episode is structured public neuroscience and medical education, not individualized cognitive, neurological, psychiatric, medication, concussion, Alzheimer, Parkinson, or rehabilitation care.
+- Bromocriptine, COMT, pupil, exercise, mindfulness, modularity, TMS, and brain-health-index claims remain source-scoped because the supplied summary omits complete methods, effect sizes, and replication.
+- The reported traumatic-brain-injury modularity study involved only 12 participants and does not establish a clinical treatment-selection biomarker.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 8260
+wiki_total_pages: 8264
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -593,6 +593,9 @@ wiki_pages:
   - key: "BPC157ExperimentalRepairPeptide"
     title: "BPC-157 Experimental Repair Peptide"
     url: "/wiki/concepts/bpc157experimentalrepairpeptide/"
+  - key: "BrainNetworkModularity"
+    title: "Brain Network Modularity"
+    url: "/wiki/concepts/brainnetworkmodularity/"
   - key: "BrainBodyEmotionMapping"
     title: "Brain-Body Emotion Mapping"
     url: "/wiki/concepts/brainbodyemotionmapping/"

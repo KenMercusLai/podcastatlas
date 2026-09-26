@@ -16887,6 +16887,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/brainimmunestatecoupling/"
     },
+    "BrainNetworkModularity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4205449835 [SCIM4205449835].md",
+          "key": "how-to-optimize-cognitive-function-brain-health-dr-mark-desposito-scim4205449835",
+          "show": "Huberman Lab",
+          "title": "How to Optimize Cognitive Function & Brain Health | Dr. Mark D'Esposito",
+          "url": "/wiki/sources/how-to-optimize-cognitive-function-brain-health-dr-mark-desposito-scim4205449835/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/brainnetworkmodularity/"
+    },
     "BrandBelief": {
       "episode_count": 2,
       "show_count": 2,
@@ -28679,9 +28695,9 @@
       "url": "/wiki/concepts/concerninfluencesorting/"
     },
     "ConcussionActiveRecovery": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM4201272551 [SCIM4201272551].md",
@@ -28710,9 +28726,16 @@
           "show": "Huberman Lab",
           "title": "AMA #16: Sleep, Vertigo, TBI, OCD, Tips for Travelers, Gut-Brain Axis & More",
           "url": "/wiki/sources/ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965/"
+        },
+        {
+          "episode_file": "SCIM4205449835 [SCIM4205449835].md",
+          "key": "how-to-optimize-cognitive-function-brain-health-dr-mark-desposito-scim4205449835",
+          "show": "Huberman Lab",
+          "title": "How to Optimize Cognitive Function & Brain Health | Dr. Mark D'Esposito",
+          "url": "/wiki/sources/how-to-optimize-cognitive-function-brain-health-dr-mark-desposito-scim4205449835/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/concussionactiverecovery/"
     },
     "CondimentOutboundAcquisition": {
@@ -38266,9 +38289,9 @@
       "url": "/wiki/concepts/dopaminebaselinemaintenance/"
     },
     "DopamineInvertedU": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM3386045656 [SCIM3386045656].md",
@@ -38276,9 +38299,16 @@
           "show": "Huberman Lab",
           "title": "How to Improve Motivation & Overcome Procrastination | Dr. Masud Husain",
           "url": "/wiki/sources/how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656/"
+        },
+        {
+          "episode_file": "SCIM4205449835 [SCIM4205449835].md",
+          "key": "how-to-optimize-cognitive-function-brain-health-dr-mark-desposito-scim4205449835",
+          "show": "Huberman Lab",
+          "title": "How to Optimize Cognitive Function & Brain Health | Dr. Mark D'Esposito",
+          "url": "/wiki/sources/how-to-optimize-cognitive-function-brain-health-dr-mark-desposito-scim4205449835/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/dopamineinvertedu/"
     },
     "DopaminePeakTroughBaseline": {
@@ -46093,6 +46123,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/exmachinafilm/"
+    },
+    "ExecutiveFunction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4205449835 [SCIM4205449835].md",
+          "key": "how-to-optimize-cognitive-function-brain-health-dr-mark-desposito-scim4205449835",
+          "show": "Huberman Lab",
+          "title": "How to Optimize Cognitive Function & Brain Health | Dr. Mark D'Esposito",
+          "url": "/wiki/sources/how-to-optimize-cognitive-function-brain-health-dr-mark-desposito-scim4205449835/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/executivefunction/"
     },
     "ExecutiveWarPowersBreakdown": {
       "episode_count": 1,
@@ -57670,6 +57716,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/goaldisengagementandreengagement/"
+    },
+    "GoalManagementTraining": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4205449835 [SCIM4205449835].md",
+          "key": "how-to-optimize-cognitive-function-brain-health-dr-mark-desposito-scim4205449835",
+          "show": "Huberman Lab",
+          "title": "How to Optimize Cognitive Function & Brain Health | Dr. Mark D'Esposito",
+          "url": "/wiki/sources/how-to-optimize-cognitive-function-brain-health-dr-mark-desposito-scim4205449835/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/goalmanagementtraining/"
     },
     "GoalkeeperEmbodiedJudgment": {
       "episode_count": 1,
@@ -93480,6 +93542,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/markcarney/"
     },
+    "MarkDEsposito": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4205449835 [SCIM4205449835].md",
+          "key": "how-to-optimize-cognitive-function-brain-health-dr-mark-desposito-scim4205449835",
+          "show": "Huberman Lab",
+          "title": "How to Optimize Cognitive Function & Brain Health | Dr. Mark D'Esposito",
+          "url": "/wiki/sources/how-to-optimize-cognitive-function-brain-health-dr-mark-desposito-scim4205449835/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/markdesposito/"
+    },
     "MarkHyman": {
       "episode_count": 1,
       "show_count": 1,
@@ -112504,9 +112582,9 @@
       "url": "/wiki/concepts/predictiveworldmodelanxiety/"
     },
     "PrefrontalCortexOverattribution": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lp0clL17CYDZMH36saWfj7-rjWUr [lp0clL17CYDZMH36saWfj7-rjWUr].md",
@@ -112514,9 +112592,16 @@
           "show": "这病说来话长",
           "title": "VOL.216 停止“神化”前额叶：别让网络热词变成你的诊断书",
           "url": "/wiki/sources/vol-216-tingzhi-shenhua-qianeye-bie-rang-wangluo-reci-biancheng-nide-zhenduanshu-lp0cll17cydzmh36sawfj7-rjwur/"
+        },
+        {
+          "episode_file": "SCIM4205449835 [SCIM4205449835].md",
+          "key": "how-to-optimize-cognitive-function-brain-health-dr-mark-desposito-scim4205449835",
+          "show": "Huberman Lab",
+          "title": "How to Optimize Cognitive Function & Brain Health | Dr. Mark D'Esposito",
+          "url": "/wiki/sources/how-to-optimize-cognitive-function-brain-health-dr-mark-desposito-scim4205449835/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/prefrontalcortexoverattribution/"
     },
     "PregnancyUrinalysisTriage": {
@@ -151326,6 +151411,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/workerbasemodelrouting/"
+    },
+    "WorkingMemoryActiveControl": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4205449835 [SCIM4205449835].md",
+          "key": "how-to-optimize-cognitive-function-brain-health-dr-mark-desposito-scim4205449835",
+          "show": "Huberman Lab",
+          "title": "How to Optimize Cognitive Function & Brain Health | Dr. Mark D'Esposito",
+          "url": "/wiki/sources/how-to-optimize-cognitive-function-brain-health-dr-mark-desposito-scim4205449835/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/workingmemoryactivecontrol/"
     },
     "WorkingMemoryLearningBottleneck": {
       "episode_count": 1,

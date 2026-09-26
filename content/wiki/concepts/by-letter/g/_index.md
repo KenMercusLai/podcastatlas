@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 8260
+wiki_total_pages: 8264
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -296,6 +296,9 @@ wiki_pages:
   - key: "GoalDisengagementAndReengagement"
     title: "Goal Disengagement And Reengagement"
     url: "/wiki/concepts/goaldisengagementandreengagement/"
+  - key: "GoalManagementTraining"
+    title: "Goal Management Training"
+    url: "/wiki/concepts/goalmanagementtraining/"
   - key: "GoalBasedClientProfiling"
     title: "Goal-Based Client Profiling / 目标导向客户画像"
     url: "/wiki/concepts/goalbasedclientprofiling/"

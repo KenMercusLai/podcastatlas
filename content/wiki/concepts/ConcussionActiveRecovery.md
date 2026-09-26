@@ -7,8 +7,9 @@ sources:
   - essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826
   - how-to-improve-brain-health-offset-neurodegeneration-dr-gary-steinberg-scim3649091801
   - ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965
+  - how-to-optimize-cognitive-function-brain-health-dr-mark-desposito-scim4205449835
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-25
+last_updated: 2026-09-27
 ---
 
 # Concussion Active Recovery
@@ -27,14 +28,16 @@ Steinberg reinforces the move away from prolonged sensory deprivation while addi
 
 The AMA emphasizes sleep and present-day rehabilitation rather than rumination about earlier poor sleep or diet. It also mentions creatine, transcranial magnetic stimulation, hyperbaric oxygen, glymphatic outflow, inflammation, and slightly elevated feet during sleep. These are best retained as source-scoped topics to discuss with qualified clinicians, not folded into the established staged-return pathway or used to imply that inflammation should be indiscriminately suppressed.
 
+D'Esposito reinforces the staged-recovery core and adds a network explanation: concussion can stretch or tear axons, often disrupting frontal pathways and producing fog or executive difficulty. Sleep, nutrition, and tolerable activity support recovery, while [[GoalManagementTraining]] and [[BrainNetworkModularity]] illustrate how structured rehabilitation and baseline network organization may matter for some persistent cognitive symptoms.
+
 ## Key Claims
 - Significant head injury should receive appropriate medical evaluation; scans may be needed, but normal structural imaging does not exclude concussion and eye tracking may add a functional measure in selected settings.
 - Hyperthermia, alcohol, very sugary refined carbohydrates, and possibly acute caffeine are treated as avoidable strain after concussion.
 - Recovery guidance has moved away from prolonged dark-room rest alone.
-- Return to activity should start as soon as tolerated without risking another head injury.
-- Progression should stay below the symptom-worsening threshold before moving to sport- or skill-specific work.
+- Return to activity should start as soon as tolerated, stay below the symptom-worsening threshold, and avoid renewed head-injury risk before sport- or skill-specific progression.
 - Creatine, magnesium, omega-3s, melatonin, branched-chain amino acids, choline, Boswellia, and Enzogenol are discussed as possible supports, not definitive cures.
 - Smell loss can follow traumatic damage to olfactory fibers, but smell recovery is only one component of neurological recovery.
+- Frontal-pathway disruption can contribute to fog and executive difficulty, while network organization may partly explain variation in rehabilitation response.
 
 ## Evidence
 - Evaluation priority - [[accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551]] says significant head injury should receive appropriate medical evaluation and scans when needed.
@@ -46,12 +49,14 @@ The AMA emphasizes sleep and present-day rehabilitation rather than rumination a
 - Imaging and eye-tracking boundary - [[how-to-improve-brain-health-offset-neurodegeneration-dr-gary-steinberg-scim3649091801]] says MRI often does not show concussion's subtle abnormalities and describes eye tracking as a potentially sensitive measure, especially with baseline data.
 - Relative-rest reinforcement - [[how-to-improve-brain-health-offset-neurodegeneration-dr-gary-steinberg-scim3649091801]] advises against both overstressing the injured brain and prolonged dark-room sensory deprivation.
 - Advanced-tool boundary - [[ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965]] foregrounds sleep and discusses creatine, TMS, hyperbaric oxygen, inflammation, glymphatic outflow, and sleep posture without supplying individualized selection criteria or controlled effect estimates.
+- Axonal and executive context - [[how-to-optimize-cognitive-function-brain-health-dr-mark-desposito-scim4205449835]] describes stretching or tearing of axons, frontal-pathway vulnerability, mental fog, and executive dysfunction.
+- Rehabilitation-response context - [[how-to-optimize-cognitive-function-brain-health-dr-mark-desposito-scim4205449835]] reinforces gradual tolerable activity and reports a small study connecting baseline modularity with goal-management response.
 
 ## Counterevidence & Qualifications
-This page is not concussion medical advice. The sources put significant head injury inside medical evaluation, and neither supplements, smell training, eye tracking, TMS, hyperbaric oxygen, sleep posture, nor a normal MRI are definitive stand-alone treatment or clearance tools. Improvement in one domain does not establish readiness to return to risky activity, repeated head injury changes the risk context, and suppressing inflammation is not automatically beneficial.
+This page is not concussion medical advice. The sources put significant head injury inside medical evaluation, and neither supplements, smell training, eye tracking, TMS, hyperbaric oxygen, sleep posture, modularity, nor a normal MRI are definitive stand-alone treatment or clearance tools. Improvement in one domain does not establish readiness to return to risky activity, repeated head injury changes the risk context, suppressing inflammation is not automatically beneficial, and the modularity result comes from only 12 participants.
 
 ## What Changed
-- Added sleep and advanced-intervention discussion while keeping creatine, TMS, hyperbaric oxygen, glymphatic, inflammation, and sleep-posture claims outside the established staged-return core.
+- Added frontal-pathway and cognitive-rehabilitation context while keeping a small modularity study outside the established staged-return core.
 
 ## Related Concepts
 - [[MedicalRiskManagement]] - clinical safety boundary for head injury and supplements.
@@ -62,3 +67,5 @@ This page is not concussion medical advice. The sources put significant head inj
 - [[Neuroplasticity]] - recovery and adaptation mechanism that should not be forced past safety limits.
 - [[OlfactoryTraining]] - smell-recovery practice discussed as promising but not definitive after injury.
 - [[NeurorestorativeStrokeRecovery]] - adjacent injury-recovery model pairing plasticity with structured rehabilitation.
+- [[GoalManagementTraining]] - structured executive-rehabilitation approach discussed for brain injury.
+- [[BrainNetworkModularity]] - candidate response predictor that remains preliminary.

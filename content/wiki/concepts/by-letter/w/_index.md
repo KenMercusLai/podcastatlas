@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 8260
+wiki_total_pages: 8264
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -377,6 +377,9 @@ wiki_pages:
   - key: "WorkerBaseModelRouting"
     title: "Worker-Base Model Routing"
     url: "/wiki/concepts/workerbasemodelrouting/"
+  - key: "WorkingMemoryActiveControl"
+    title: "Working Memory as Active Control"
+    url: "/wiki/concepts/workingmemoryactivecontrol/"
   - key: "WorkingMemoryLearningBottleneck"
     title: "Working Memory Learning Bottleneck"
     url: "/wiki/concepts/workingmemorylearningbottleneck/"

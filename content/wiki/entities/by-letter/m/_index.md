@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 10874
+wiki_total_pages: 10875
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -344,6 +344,9 @@ wiki_pages:
   - key: "MarkCuban"
     title: "Mark Cuban"
     url: "/wiki/entities/markcuban/"
+  - key: "MarkDEsposito"
+    title: "Mark D'Esposito"
+    url: "/wiki/entities/markdesposito/"
   - key: "MarkGraham"
     title: "Mark Graham"
     url: "/wiki/entities/markgraham/"

@@ -4,7 +4,8 @@ type: concept
 tags: [neuroscience, medical-literacy, self-regulation, diagnosis]
 sources:
   - vol-216-tingzhi-shenhua-qianeye-bie-rang-wangluo-reci-biancheng-nide-zhenduanshu-lp0cll17cydzmh36sawfj7-rjwur
-last_updated: 2026-08-28
+  - how-to-optimize-cognitive-function-brain-health-dr-mark-desposito-scim4205449835
+last_updated: 2026-09-27
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,24 +19,29 @@ The source accepts that frontal and prefrontal regions matter for attention, dec
 
 This concept therefore belongs with the wiki's medical-literacy boundaries. A person may use "prefrontal cortex tired" as self-mocking shorthand, but the source asks them not to treat that language as a medical conclusion. Clinical concern depends on persistent change, functional impairment, clear disease background, and qualified evaluation rather than a viral phrase.
 
+[[how-to-optimize-cognitive-function-brain-health-dr-mark-desposito-scim4205449835]] strengthens rather than reverses this boundary. [[MarkDEsposito]] assigns important rule, goal, attention-biasing, and working-memory roles to frontal systems, but also distinguishes lateral executive regions from orbital and paralimbic social-emotional regions and treats cognition as distributed network coordination. Frontal importance and single-region overattribution are therefore compatible claims.
+
 ## Key Claims
 - The prefrontal cortex participates in self-control, attention, emotion, and decision-making but does not act as the brain's sole commander.
 - Dopamine pathways may pass through frontal circuits without making every dopamine-related or impulse-related behavior a frontal-lobe disorder.
 - Everyday low self-control can reflect sleep loss, hunger, stress, learned cues, or environment rather than structural brain damage.
 - Internet medical vocabulary becomes risky when it converts ordinary variation into self-diagnosis or fatalistic identity.
 - A useful neuroscience explanation should preserve network complexity, clinical thresholds, and uncertainty.
+- Frontal subregions make different contributions, and their broad connections matter as much as a single-region label.
 
 ## Evidence
 - Network boundary - [[vol-216-tingzhi-shenhua-qianeye-bie-rang-wangluo-reci-biancheng-nide-zhenduanshu-lp0cll17cydzmh36sawfj7-rjwur]] says advanced functions such as emotion, memory, attention, behavior decisions, and social processing depend on complex neural networks, not one brain area acting alone.
 - Dopamine boundary - [[vol-216-tingzhi-shenhua-qianeye-bie-rang-wangluo-reci-biancheng-nide-zhenduanshu-lp0cll17cydzmh36sawfj7-rjwur]] connects dopamine abnormalities to addiction and Parkinson's medication effects, while still rejecting a frontal-only account of normal impulse shopping or eating.
 - Everyday-state boundary - [[vol-216-tingzhi-shenhua-qianeye-bie-rang-wangluo-reci-biancheng-nide-zhenduanshu-lp0cll17cydzmh36sawfj7-rjwur]] treats tiredness, hunger, home/office context, family interaction, and stress as state or learning factors rather than automatic prefrontal damage.
 - Diagnostic boundary - [[vol-216-tingzhi-shenhua-qianeye-bie-rang-wangluo-reci-biancheng-nide-zhenduanshu-lp0cll17cydzmh36sawfj7-rjwur]] recommends care when changes are persistent, worsening, functionally impairing, or dramatically different from baseline.
+- Functional specificity - [[how-to-optimize-cognitive-function-brain-health-dr-mark-desposito-scim4205449835]] distinguishes lateral executive control from orbital or paralimbic social-emotional functions while emphasizing broad frontal connectivity.
+- Network reinforcement - [[how-to-optimize-cognitive-function-brain-health-dr-mark-desposito-scim4205449835]] describes top-down biasing and modular organization rather than an isolated frontal commander.
 
 ## Counterevidence & Qualifications
-The source does not deny that frontal-lobe injury, frontotemporal dementia, ADHD, Parkinson's treatment, vascular disease, tumors, or neurodegeneration can affect behavior. The boundary is against casual inference from ordinary difficulty to a specific brain-region diagnosis.
+The sources do not deny that frontal-lobe injury, frontotemporal dementia, ADHD, Parkinson's treatment, vascular disease, tumors, neurodegeneration, or sleep and stress can affect behavior. The boundary is against casual inference from ordinary difficulty to a specific brain-region diagnosis, not against evidence-based functional specialization.
 
 ## What Changed
-- Created a focused concept for the episode's prefrontal-cortex medical-literacy correction.
+- Added a complementary specialist account of frontal functional specificity within distributed networks.
 
 ## Related Concepts
 - [[StateDependentSelfControl]] - everyday body-state explanation that competes with single-region blame.
@@ -45,3 +51,5 @@ The source does not deny that frontal-lobe injury, frontotemporal dementia, ADHD
 - [[DopamineInvertedU]] - dopamine-performance caution against linear or one-cause explanations.
 - [[EmotionRegulationToolkit]] - practical self-regulation neighbor that does not reduce emotion to one brain area.
 - [[MedicalKnowledgeBoundary]] - broader medical-literacy frame for respecting uncertainty.
+- [[ExecutiveFunction]] - positive account of the goal-directed functions that the overattribution boundary qualifies.
+- [[BrainNetworkModularity]] - whole-network organization frame that resists one-region explanation.

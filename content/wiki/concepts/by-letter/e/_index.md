@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 8260
+wiki_total_pages: 8264
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -896,6 +896,9 @@ wiki_pages:
   - key: "ExchangeableCapability"
     title: "Exchangeable Capability / 可交换能力"
     url: "/wiki/concepts/exchangeablecapability/"
+  - key: "ExecutiveFunction"
+    title: "Executive Function"
+    url: "/wiki/concepts/executivefunction/"
   - key: "ExecutivePowerPrecedent"
     title: "Executive Power Precedent"
     url: "/wiki/concepts/executivepowerprecedent/"

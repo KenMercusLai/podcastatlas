@@ -738,12 +738,13 @@
       "364a6adb5ce615964b1409fc3ac18d1a8f3824ae0603cd456b594fbfea4542d0",
       "97f8cc77304e41e3885229787f8659d88055623487dd7526205b5b4e510cf1f0",
       "f24efd40c0c6afcf9067ba23b759935de70c4697445bc5d55c4633328ece6b74",
-      "9fe4c68dcdba2239d5b685180fda81f5ec5e3c0e32bf471d9471328c09d598fc"
+      "9fe4c68dcdba2239d5b685180fda81f5ec5e3c0e32bf471d9471328c09d598fc",
+      "86e3b56d496e8d1657bce09184013c2cb10b205729180137608d7f31f504f61d"
     ],
-    "paragraph_count": 738
+    "paragraph_count": 739
   },
-  "overview_commit": "ca57c00a4e15e5a7098bdc68f9e815559af6a404",
-  "overview_digest": "98d2566aaca02f401c6dcc360445f9f73e5cabf74d657ab79f009f75b0a318b8",
+  "overview_commit": "1b971f6d3d194dd769a488b9f007c9ccf6e3b8c8",
+  "overview_digest": "e9e8004bb71fde192d3ad6836827e8e8f7d82aa181513d6ab2f14d577859bea4",
   "paragraphs": [
     {
       "id": "bfb6f8b0bb17ffe05901f40938c7eebbd54cb4d85688a5ac64a7bfb97e0fd98d",
@@ -21854,6 +21855,29 @@
         "SleepWakeTimingToolkit",
         "VertigoVisualAnchoring",
         "ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965"
+      ]
+    },
+    {
+      "id": "86e3b56d496e8d1657bce09184013c2cb10b205729180137608d7f31f504f61d",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [],
+      "text": "The latest addition is [[how-to-optimize-cognitive-function-brain-health-dr-mark-desposito-scim4205449835|How to Optimize Cognitive Function & Brain Health | Dr. Mark D'Esposito]], a [[HubermanLab]] interview in which [[AndrewHuberman]] and [[MarkDEsposito]] connect [[ExecutiveFunction]], [[WorkingMemoryActiveControl]], [[DopamineInvertedU]], [[GoalManagementTraining]], [[ConcussionActiveRecovery]], and [[BrainNetworkModularity]]. Its core synthesis is that goal-directed cognition depends on distributed, state-sensitive control: frontal systems maintain rules and bias other networks, working memory actively holds and manipulates absent information, and neuromodulator or rehabilitation effects vary with baseline state. No settled contradiction is recorded; bromocriptine, COMT, pupil, exercise, mindfulness, modularity, TMS, Alzheimer, Parkinson, and brain-health-index claims remain source-scoped public medical education, while the cited traumatic-brain-injury modularity study involved only 12 participants and does not establish a clinical selection tool.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "science-health-and-climate": 2,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AndrewHuberman",
+        "BrainNetworkModularity",
+        "ConcussionActiveRecovery",
+        "DopamineInvertedU",
+        "ExecutiveFunction",
+        "GoalManagementTraining",
+        "HubermanLab",
+        "MarkDEsposito",
+        "WorkingMemoryActiveControl",
+        "how-to-optimize-cognitive-function-brain-health-dr-mark-desposito-scim4205449835"
       ]
     }
   ],

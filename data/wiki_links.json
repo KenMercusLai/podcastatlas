@@ -10271,6 +10271,10 @@
     "title": "Brain-Immune State Coupling",
     "url": "/wiki/concepts/brainimmunestatecoupling/"
   },
+  "BrainNetworkModularity": {
+    "title": "Brain Network Modularity",
+    "url": "/wiki/concepts/brainnetworkmodularity/"
+  },
   "Braintree": {
     "title": "Braintree",
     "url": "/wiki/entities/braintree/"
@@ -23207,6 +23211,10 @@
     "title": "Exec",
     "url": "/wiki/entities/exec/"
   },
+  "ExecutiveFunction": {
+    "title": "Executive Function",
+    "url": "/wiki/concepts/executivefunction/"
+  },
   "ExecutivePowerPrecedent": {
     "title": "Executive Power Precedent",
     "url": "/wiki/concepts/executivepowerprecedent/"
@@ -28238,6 +28246,10 @@
   "GoalDisengagementAndReengagement": {
     "title": "Goal Disengagement And Reengagement",
     "url": "/wiki/concepts/goaldisengagementandreengagement/"
+  },
+  "GoalManagementTraining": {
+    "title": "Goal Management Training",
+    "url": "/wiki/concepts/goalmanagementtraining/"
   },
   "GoalkeeperEmbodiedJudgment": {
     "title": "Goalkeeper Embodied Judgment / 门将身体化判断",
@@ -43894,6 +43906,10 @@
   "MarkCuban": {
     "title": "Mark Cuban",
     "url": "/wiki/entities/markcuban/"
+  },
+  "MarkDEsposito": {
+    "title": "Mark D'Esposito",
+    "url": "/wiki/entities/markdesposito/"
   },
   "MarkDataScienceWithSam": {
     "title": "Mark (Data Science With Sam)",
@@ -72763,6 +72779,10 @@
     "title": "Worker Photographic Archive / 工人摄影档案",
     "url": "/wiki/concepts/workerphotographicarchive/"
   },
+  "WorkingMemoryActiveControl": {
+    "title": "Working Memory as Active Control",
+    "url": "/wiki/concepts/workingmemoryactivecontrol/"
+  },
   "WorkingMemoryLearningBottleneck": {
     "title": "Working Memory Learning Bottleneck",
     "url": "/wiki/concepts/workingmemorylearningbottleneck/"
@@ -80718,6 +80738,10 @@
   "how-to-navigate-menopause-perimenopause-for-maximum-health-vitality-dr-mary-claire-haver-scim1557774220": {
     "title": "How to Navigate Menopause & Perimenopause for Maximum Health & Vitality | Dr. Mary Claire Haver",
     "url": "/wiki/sources/how-to-navigate-menopause-perimenopause-for-maximum-health-vitality-dr-mary-claire-haver-scim1557774220/"
+  },
+  "how-to-optimize-cognitive-function-brain-health-dr-mark-desposito-scim4205449835": {
+    "title": "How to Optimize Cognitive Function & Brain Health | Dr. Mark D'Esposito",
+    "url": "/wiki/sources/how-to-optimize-cognitive-function-brain-health-dr-mark-desposito-scim4205449835/"
   },
   "how-to-overcome-social-anxiety-dr-nick-epley-scim7834121132": {
     "title": "How to Overcome Social Anxiety | Dr. Nick Epley",

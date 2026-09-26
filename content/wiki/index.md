@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Optimize Cognitive Function & Brain Health | Dr. Mark D'Esposito](sources/how-to-optimize-cognitive-function-brain-health-dr-mark-desposito-scim4205449835.md) — Huberman Lab interview on executive function, active working memory, dopamine's inverted-U, goal-management training, concussion recovery, and brain-network modularity.
 - [422. Ancient Carthage: Rise of a Superpower (Part 2)](sources/422-ancient-carthage-rise-of-a-superpower-part-2-glt7946297144.md) — The Rest Is History on Carthage's Phoenician identity, hostile-source problem, mixed constitution, agricultural base, and transition from maritime trade network to territorial empire.
 - [423. Carthage vs. Rome: The Wolf at the Gates (Part 3)](sources/423-carthage-vs-rome-the-wolf-at-the-gates-part-3-glt2669872613.md) — The Rest Is History on early Roman-Carthaginian treaties, Roman civic-military incorporation, the Samnite Wars, Pyrrhus, and the strategic approach to Sicily.
 - [Protocols for Excellent Parenting & Improving Relationships of All Kinds | Dr. Becky Kennedy](sources/protocols-for-excellent-parenting-improving-relationships-of-all-kinds-dr-becky-kennedy-scim7905596498.md) — Huberman Lab interview on sturdy parenting, action-based boundaries, validation, repair, frustration tolerance, adolescent connection, and safety intervention.
@@ -2903,6 +2904,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.106胸外科｜王兴：病人家属问我怎么能够讨好医生｜胸闷、气胸、肺结节问题回答篇](sources/vol-106-xiongwaike-wangxing-bingren-jiashu-wen-wo-zenme-nenggou-taohao-yisheng-lrjqaw3ovznk0zn4-jfj3f2xyvzi.md) — 这病说来话长 listener Q&A on pulmonary-nodule surveillance, chest-symptom attribution, postoperative pain, chest-wall deformity, pneumothorax recurrence, and medical-care boundaries.
 
 ## Entities
+- [Mark D'Esposito](entities/MarkDEsposito.md) — Neurologist and cognitive neuroscientist connecting frontal control, working memory, rehabilitation, and network organization.
 - [Becky Kennedy](entities/BeckyKennedy.md) — Clinical psychologist and Good Inside founder connecting sturdy leadership, boundaries, validation, repair, and frustration tolerance.
 - [Good Inside](entities/GoodInside.md) — Parenting platform and identity-without-excusing-behavior framework founded by Becky Kennedy.
 - [Cadbury](entities/Cadbury.md) — British chocolate company connecting Quaker enterprise, branding, Bournville welfare, and mass consumption.
@@ -13792,6 +13794,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lord Elgin](entities/LordElgin.md) — British diplomat at the center of Byron's cultural-plunder attack and Hobhouse's preservation counterargument.
 
 ## Concepts
+- [Executive Function](concepts/ExecutiveFunction.md) — Goal-directed control of planning, rule use, inhibition, monitoring, and flexible action within distributed brain networks.
+- [Working Memory as Active Control](concepts/WorkingMemoryActiveControl.md) — Temporary maintenance and manipulation of absent information for reasoning, planning, comprehension, and action.
+- [Goal Management Training](concepts/GoalManagementTraining.md) — Transfer-oriented rehabilitation teaching a pause, goal definition, subgoals, monitoring, and refocusing.
+- [Brain Network Modularity](concepts/BrainNetworkModularity.md) — Candidate trait and state measure of brain-network organization with qualified links to performance and rehabilitation response.
 - [Carthaginian Constitution / 迦太基政体](concepts/CarthaginianConstitution.md) — Mixed aristocratic order joining sufets, councils, judicial supervision, commanders, and popular participation under an anti-tyranny norm.
 - [Carthaginian Commercial-to-Territorial Empire / 迦太基商业至领土帝国](concepts/CarthaginianCommercialToTerritorialEmpire.md) — Expansion model linking maritime trade, African agriculture, Phoenician identity, fortified frontiers, and direct territorial control.
 - [Parenting Sturdiness](concepts/ParentingSturdiness.md) — Adult capacity to retain values, responsibility, warmth, and connection during a child's distress or opposition.
