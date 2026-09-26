@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 10910
+wiki_total_pages: 10916
 wiki_pages:
   - key: "KunyangBattle"
     title: "Battle of Kunyang / 昆阳之战"
@@ -506,6 +506,9 @@ wiki_pages:
   - key: "KrishnaKaliannan"
     title: "Krishna Kaliannan"
     url: "/wiki/entities/krishnakaliannan/"
+  - key: "Kristallnacht"
+    title: "Kristallnacht / Night of Broken Glass"
+    url: "/wiki/entities/kristallnacht/"
   - key: "KristinMcLean"
     title: "Kristin McLean"
     url: "/wiki/entities/kristinmclean/"

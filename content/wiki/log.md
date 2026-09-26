@@ -23019,6 +23019,10 @@ Added source `424-carthage-vs-rome-total-war-part-4-glt9312780357`; created `Fir
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-27] ingest | 410. The Nazis in Power: The Night of Broken Glass (Part 7)
+
+Added source `410-the-nazis-in-power-the-night-of-broken-glass-part-7-glt5771265943`; created `Kristallnacht`, `HerschelGrunspan`, `ErnstVomRath`, `AdolfHitler`, `JosephGoebbels`, `ReinhardHeydrich`, `EconomicAryanization`, and `DistributedComplicityUnderAuthoritarianism`; and updated `NaziGermany`, `TheHolocaust`, `CorporateComplicityWithAuthoritarianism`, and `RationalizedStateViolence` from their complete bounded source sets. Core synthesis: Nazi antisemitic escalation joined war planning, racial ideology, legal exclusion, dispossession, propaganda, police permission, professional adaptation, corporate benefit, and local participation; Kristallnacht was a state-enabled pogrom disguised as spontaneous anger and a bridge toward coerced-emigration and genocidal administration. No settled contradiction found. Death totals, sexual-violence evidence, local attitudes, private motives, company-specific knowledge, and the exact development from forced removal to extermination remain source-scoped or qualified. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-27] ingest | VOL.99八学科联合｜春节健康带回家 给咱不听劝的爸妈 「震惊」家族群的养生干货｜饮食、护理、打鼾、心梗、卒中、消化等
 
 Added source `vol-99-ba-xueke-lianhe-chunjie-jiankang-dai-huijia-gei-zan-bu-tingquan-de-bama-zhenjing-jiazuqun-de-yangsheng-ganhuo-yinshi-huli-dahan-xingeng-zuzhong-xiaohua-deng-lrvlx1wbukf4g2pbsem4cbzqbuqz`; created `OlderAdultHomeCareSafety`, `OlderAdultFallPrevention`, and `AcutePancreatitisEmergencyEscalation`; and updated `ObstructiveSleepApneaRecognition`, `DementiaRespectfulCommunication`, `DementiaFriendlyHomeDesign`, `HeartFailureSelfManagement`, `ChestPainEmergencyEscalation`, `WangXuedi`, and `WuBinOralDoctor` from their complete bounded source sets. Core synthesis: Spring Festival family care should match function, preserve dignity, connect daily risks across medication, feeding, skin, mobility, sleep, nutrition, and environment, and route dangerous change promptly rather than normalizing it as age. No settled contradiction found. The 王雪迪 / 王雪笛 spelling variance remains explicit, while exact thresholds, mortality figures, household procedures, emergency medicines, and device choices remain source-scoped public education. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
@@ -23192,6 +23196,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-27] ingest | VOL.97呼吸科｜今冬流感、肺炎这么“猛”？我咋整？｜儿童支原体肺炎总不好？有后遗症吗？
 
 Added source `vol-97-huxike-jindong-liugan-feiyan-zheme-meng-wo-zazheng-ertong-zhiyuanti-feiyan-zong-buhao-you-houyizheng-ma-liz9rdhhqkbxpktg1gd2z2sb2klq`; created `ZhangYuhanRespiratoryDoctor`, `RuijinHospital`, `RespiratorySymptomTriage`, and `PediatricMycoplasmaPneumoniaCareBoundary`; and updated `MedicalDiagnosticReasoning`, `PediatricFeverHomeCareTriage`, `HospitalCapabilityPatientComplexityMatching`, `LayeredRespiratoryInfectionPrevention`, `AntimicrobialResistance`, the canonical index, and overview from their complete bounded source sets. Core synthesis: respiratory symptoms and imaging labels require multi-input interpretation; pediatric mycoplasma illness should be routed by severity and functional change; and antibiotic stewardship, capable care settings, and layered prevention matter alongside pathogen-specific treatment. No settled contradiction found. Beta-lactam ineffectiveness against wall-less mycoplasmas is preserved, while macrolide selection and resistance, home testing, steroid indications and duration, imaging thresholds, and department age rules remain source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-27] lint | Wiki health check
 

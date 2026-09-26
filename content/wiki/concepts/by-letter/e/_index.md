@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 8304
+wiki_total_pages: 8306
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -92,6 +92,9 @@ wiki_pages:
   - key: "EcommerceSurfaceMetricsRisk"
     title: "Ecommerce Surface Metrics Risk"
     url: "/wiki/concepts/ecommercesurfacemetricsrisk/"
+  - key: "EconomicAryanization"
+    title: "Economic Aryanization"
+    url: "/wiki/concepts/economicaryanization/"
   - key: "EconomicClimateTechAdoption"
     title: "Economic Climate Tech Adoption"
     url: "/wiki/concepts/economicclimatetechadoption/"

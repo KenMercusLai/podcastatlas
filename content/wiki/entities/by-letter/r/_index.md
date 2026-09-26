@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 10910
+wiki_total_pages: 10916
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -212,6 +212,9 @@ wiki_pages:
   - key: "ReidHoffman"
     title: "Reid Hoffman"
     url: "/wiki/entities/reidhoffman/"
+  - key: "ReinhardHeydrich"
+    title: "Reinhard Heydrich"
+    url: "/wiki/entities/reinhardheydrich/"
   - key: "RelevantSports"
     title: "Relevant Sports"
     url: "/wiki/entities/relevantsports/"

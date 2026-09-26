@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2111
+topic_total_pages: 2112
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -970,6 +970,9 @@ topic_concepts:
   - key: "EcommerceSurfaceMetricsRisk"
     title: "Ecommerce Surface Metrics Risk"
     url: "/wiki/concepts/ecommercesurfacemetricsrisk/"
+  - key: "EconomicAryanization"
+    title: "Economic Aryanization"
+    url: "/wiki/concepts/economicaryanization/"
   - key: "EconomicForecastingLimits"
     title: "Economic Forecasting Limits"
     url: "/wiki/concepts/economicforecastinglimits/"

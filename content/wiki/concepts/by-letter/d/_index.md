@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 8304
+wiki_total_pages: 8306
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -824,6 +824,9 @@ wiki_pages:
   - key: "DistributedCeramicProduction"
     title: "Distributed Ceramic Production / 分布式瓷业生产"
     url: "/wiki/concepts/distributedceramicproduction/"
+  - key: "DistributedComplicityUnderAuthoritarianism"
+    title: "Distributed Complicity Under Authoritarianism"
+    url: "/wiki/concepts/distributedcomplicityunderauthoritarianism/"
   - key: "DistributionBeforeMonetization"
     title: "Distribution Before Monetization"
     url: "/wiki/concepts/distributionbeforemonetization/"

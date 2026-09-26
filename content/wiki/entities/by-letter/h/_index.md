@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 10910
+wiki_total_pages: 10916
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -494,6 +494,9 @@ wiki_pages:
   - key: "Herodotus"
     title: "Herodotus"
     url: "/wiki/entities/herodotus/"
+  - key: "HerschelGrunspan"
+    title: "Herschel Grünspan"
+    url: "/wiki/entities/herschelgrunspan/"
   - key: "Hershey"
     title: "Hershey"
     url: "/wiki/entities/hershey/"

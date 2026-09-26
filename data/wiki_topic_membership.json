@@ -1658,6 +1658,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "410-the-nazis-in-power-the-night-of-broken-glass-part-7-glt5771265943": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "411-the-man-in-the-iron-mask-glt3787137343": [
     {
       "key": "history",
@@ -25058,6 +25065,13 @@
     }
   ],
   "EcommerceSurfaceMetricsRisk": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
+  "EconomicAryanization": [
     {
       "key": "economics",
       "label": "Economics",

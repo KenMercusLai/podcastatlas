@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 10910
+wiki_total_pages: 10916
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -260,6 +260,9 @@ wiki_pages:
   - key: "AdolfEichmann"
     title: "Adolf Eichmann / 阿道夫·艾希曼"
     url: "/wiki/entities/adolfeichmann/"
+  - key: "AdolfHitler"
+    title: "Adolf Hitler"
+    url: "/wiki/entities/adolfhitler/"
   - key: "AdoraCheung"
     title: "Adora Cheung"
     url: "/wiki/entities/adoracheung/"

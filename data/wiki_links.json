@@ -1087,6 +1087,10 @@
     "title": "41.施剑翘复仇案：超越哈贝马斯的情与法",
     "url": "/wiki/sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038/"
   },
+  "410-the-nazis-in-power-the-night-of-broken-glass-part-7-glt5771265943": {
+    "title": "410. The Nazis in Power: The Night of Broken Glass (Part 7)",
+    "url": "/wiki/sources/410-the-nazis-in-power-the-night-of-broken-glass-part-7-glt5771265943/"
+  },
   "411-the-man-in-the-iron-mask-glt3787137343": {
     "title": "411. The Man in the Iron Mask",
     "url": "/wiki/sources/411-the-man-in-the-iron-mask-glt3787137343/"
@@ -4346,6 +4350,10 @@
   "AdolfEichmann": {
     "title": "Adolf Eichmann / 阿道夫·艾希曼",
     "url": "/wiki/entities/adolfeichmann/"
+  },
+  "AdolfHitler": {
+    "title": "Adolf Hitler",
+    "url": "/wiki/entities/adolfhitler/"
   },
   "AdoptiveLineageRitualPolitics": {
     "title": "过继宗法礼制政治 / Adoptive Lineage Ritual Politics",
@@ -19987,6 +19995,10 @@
     "title": "Distributed Ceramic Production / 分布式瓷业生产",
     "url": "/wiki/concepts/distributedceramicproduction/"
   },
+  "DistributedComplicityUnderAuthoritarianism": {
+    "title": "Distributed Complicity Under Authoritarianism",
+    "url": "/wiki/concepts/distributedcomplicityunderauthoritarianism/"
+  },
   "DistributedLocalResilience": {
     "title": "分布式地方韧性 / Distributed Local Resilience",
     "url": "/wiki/concepts/distributedlocalresilience/"
@@ -21406,6 +21418,10 @@
   "EcommerceSurfaceMetricsRisk": {
     "title": "Ecommerce Surface Metrics Risk",
     "url": "/wiki/concepts/ecommercesurfacemetricsrisk/"
+  },
+  "EconomicAryanization": {
+    "title": "Economic Aryanization",
+    "url": "/wiki/concepts/economicaryanization/"
   },
   "EconomicClimateTechAdoption": {
     "title": "Economic Climate Tech Adoption",
@@ -22950,6 +22966,10 @@
   "ErnstJunger": {
     "title": "Ernst Junger",
     "url": "/wiki/entities/ernstjunger/"
+  },
+  "ErnstVomRath": {
+    "title": "Ernst vom Rath",
+    "url": "/wiki/entities/ernstvomrath/"
   },
   "EroticBlueprint": {
     "title": "Erotic Blueprint",
@@ -31315,6 +31335,10 @@
     "title": "Herpes Zoster Clinical Management / 带状疱疹临床管理",
     "url": "/wiki/concepts/herpeszosterclinicalmanagement/"
   },
+  "HerschelGrunspan": {
+    "title": "Herschel Grünspan",
+    "url": "/wiki/entities/herschelgrunspan/"
+  },
   "Hershey": {
     "title": "Hershey",
     "url": "/wiki/entities/hershey/"
@@ -37147,6 +37171,10 @@
     "title": "Joseph Conrad",
     "url": "/wiki/entities/josephconrad/"
   },
+  "JosephGoebbels": {
+    "title": "Joseph Goebbels",
+    "url": "/wiki/entities/josephgoebbels/"
+  },
   "JosephIgnaceGuillotin": {
     "title": "Joseph-Ignace Guillotin",
     "url": "/wiki/entities/josephignaceguillotin/"
@@ -38522,6 +38550,10 @@
   "KrishnaKaliannan": {
     "title": "Krishna Kaliannan",
     "url": "/wiki/entities/krishnakaliannan/"
+  },
+  "Kristallnacht": {
+    "title": "Kristallnacht / Night of Broken Glass",
+    "url": "/wiki/entities/kristallnacht/"
   },
   "KristinMcLean": {
     "title": "Kristin McLean",
@@ -56914,6 +56946,10 @@
   "ReinforcementLearningAGIPath": {
     "title": "Reinforcement Learning AGI Path",
     "url": "/wiki/concepts/reinforcementlearningagipath/"
+  },
+  "ReinhardHeydrich": {
+    "title": "Reinhard Heydrich",
+    "url": "/wiki/entities/reinhardheydrich/"
   },
   "RejectedCounselDefectionCascade": {
     "title": "Rejected Counsel Defection Cascade / 进言拒绝叛逃级联",
