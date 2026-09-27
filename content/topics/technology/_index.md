@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3192
+topic_total_pages: 3193
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -4436,6 +4436,9 @@ topic_concepts:
     title: "预防性水患治理 / Preventive Flood Governance"
     url: "/wiki/concepts/preventivefloodgovernance/"
 topic_entities:
+  - key: "NewYorkCityBlackout1977"
+    title: "1977 New York City Blackout"
+    url: "/wiki/entities/newyorkcityblackout1977/"
   - key: "OneX"
     title: "1X"
     url: "/wiki/entities/onex/"

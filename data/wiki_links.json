@@ -1007,6 +1007,10 @@
     "title": "36.黑暗的左手：流放与爱的未来往事",
     "url": "/wiki/sources/36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522/"
   },
+  "360-fear-city-new-york-in-the-1970s-glt7107047696": {
+    "title": "360. Fear City: New York in the 1970s",
+    "url": "/wiki/sources/360-fear-city-new-york-in-the-1970s-glt7107047696/"
+  },
   "361-the-lost-library-of-alexandria-glt1578679297": {
     "title": "361. The Lost Library of Alexandria",
     "url": "/wiki/sources/361-the-lost-library-of-alexandria-glt1578679297/"
@@ -4078,6 +4082,10 @@
   "AboriginalAustralians": {
     "title": "Aboriginal Australians",
     "url": "/wiki/entities/aboriginalaustralians/"
+  },
+  "AbrahamBeame": {
+    "title": "Abraham Beame",
+    "url": "/wiki/entities/abrahambeame/"
   },
   "Abraxas": {
     "title": "Abraxas / 阿布拉克萨斯",
@@ -22122,6 +22130,10 @@
   "EdFerron": {
     "title": "Ed Ferron",
     "url": "/wiki/entities/edferron/"
+  },
+  "EdKoch": {
+    "title": "Ed Koch",
+    "url": "/wiki/entities/edkoch/"
   },
   "EdMiliband": {
     "title": "Ed Miliband",
@@ -49567,6 +49579,10 @@
     "title": "New York City",
     "url": "/wiki/entities/newyorkcity/"
   },
+  "NewYorkCityBlackout1977": {
+    "title": "1977 New York City Blackout",
+    "url": "/wiki/entities/newyorkcityblackout1977/"
+  },
   "NewYorkCityPublicSchools": {
     "title": "New York City Public Schools",
     "url": "/wiki/entities/newyorkcitypublicschools/"
@@ -49578,6 +49594,10 @@
   "NewYorkMagazine": {
     "title": "New York Magazine",
     "url": "/wiki/entities/newyorkmagazine/"
+  },
+  "NewYorkPost": {
+    "title": "New York Post",
+    "url": "/wiki/entities/newyorkpost/"
   },
   "NewYorkSaladBowlMulticulturalism": {
     "title": "New York Salad-Bowl Multiculturalism / 纽约沙拉式多元",
@@ -71659,9 +71679,21 @@
     "title": "Urban Canopy Externalities",
     "url": "/wiki/concepts/urbancanopyexternalities/"
   },
+  "UrbanCrisisCulturalFeedback": {
+    "title": "Urban Crisis Cultural Feedback",
+    "url": "/wiki/concepts/urbancrisisculturalfeedback/"
+  },
+  "UrbanCrisisFeedbackLoop": {
+    "title": "Urban Crisis Feedback Loop",
+    "url": "/wiki/concepts/urbancrisisfeedbackloop/"
+  },
   "UrbanDecay": {
     "title": "Urban Decay",
     "url": "/wiki/entities/urbandecay/"
+  },
+  "UrbanDisorderExplanationConflict": {
+    "title": "Urban Disorder Explanation Conflict",
+    "url": "/wiki/concepts/urbandisorderexplanationconflict/"
   },
   "UrbanEcology": {
     "title": "Urban Ecology",

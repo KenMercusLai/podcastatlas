@@ -1528,6 +1528,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "360-fear-city-new-york-in-the-1970s-glt7107047696": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "361-the-lost-library-of-alexandria-glt1578679297": [
     {
       "key": "history",
@@ -7357,6 +7369,13 @@
     }
   ],
   "AbelardoDeLaEspriella": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "AbrahamBeame": [
     {
       "key": "politics",
       "label": "Politics",
@@ -25681,6 +25700,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "EdKoch": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "EdMiliband": [
@@ -52764,6 +52790,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "NewYorkCityBlackout1977": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "NewYorkCityPublicSchools": [
     {
       "key": "culture",
@@ -52779,6 +52812,18 @@
     }
   ],
   "NewYorkMagazine": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "NewYorkPost": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
     {
       "key": "culture",
       "label": "Culture",
@@ -76979,6 +77024,37 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "UrbanCrisisCulturalFeedback": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "UrbanCrisisFeedbackLoop": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "UrbanDisorderExplanationConflict": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "UrbanEverydayFiction": [

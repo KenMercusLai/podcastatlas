@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2120
+topic_total_pages: 2121
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3025,6 +3025,9 @@ topic_concepts:
   - key: "UniversalHighIncome"
     title: "Universal High Income"
     url: "/wiki/concepts/universalhighincome/"
+  - key: "UrbanCrisisFeedbackLoop"
+    title: "Urban Crisis Feedback Loop"
+    url: "/wiki/concepts/urbancrisisfeedbackloop/"
   - key: "UserGeneratedContentCopyrightRisk"
     title: "User-Generated Content Copyright Risk"
     url: "/wiki/concepts/usergeneratedcontentcopyrightrisk/"

@@ -4601,6 +4601,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/aboriginalaustralians/"
     },
+    "AbrahamBeame": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7107047696 [GLT7107047696].md",
+          "key": "360-fear-city-new-york-in-the-1970s-glt7107047696",
+          "show": "The Rest Is History",
+          "title": "360. Fear City: New York in the 1970s",
+          "url": "/wiki/sources/360-fear-city-new-york-in-the-1970s-glt7107047696/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/abrahambeame/"
+    },
     "AbsoluteGuaranteeTrap": {
       "episode_count": 1,
       "show_count": 1,
@@ -44463,6 +44479,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/ecovacsrobotics/"
+    },
+    "EdKoch": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7107047696 [GLT7107047696].md",
+          "key": "360-fear-city-new-york-in-the-1970s-glt7107047696",
+          "show": "The Rest Is History",
+          "title": "360. Fear City: New York in the 1970s",
+          "url": "/wiki/sources/360-fear-city-new-york-in-the-1970s-glt7107047696/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/edkoch/"
     },
     "EddieChang": {
       "episode_count": 1,
@@ -111243,6 +111275,66 @@
       "updated": "2026-09-11",
       "url": "/wiki/concepts/newleaderfirstmoveauthoritysignal/"
     },
+    "NewYorkCity": {
+      "episode_count": 5,
+      "show_count": 3,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "176.纽约一年：一个悲观主义者的活法｜725沙龙实录 [lte_k8Lw8e1tXXW3NfxvO3WaL8aH].md",
+          "key": "176-niuyue-yinian-yige-beiguanzhuyizhe-de-huofa-725-shalong-shilu-lte-k8lw8e1txxw3nfxvo3wal8ah",
+          "show": "起朱楼宴宾客",
+          "title": "176.纽约一年：一个悲观主义者的活法｜725沙龙实录",
+          "url": "/wiki/sources/176-niuyue-yinian-yige-beiguanzhuyizhe-de-huofa-725-shalong-shilu-lte-k8lw8e1txxw3nfxvo3wal8ah/"
+        },
+        {
+          "episode_file": "A firm Andy： what are new British PM’s plans？ [6a5deeca76f8ee25bb4bbf9c].md",
+          "key": "a-firm-andy-what-are-new-british-pms-plans-6a5deeca76f8ee25bb4bbf9c",
+          "show": "Economist Podcasts",
+          "title": "A firm Andy: what are new British PM's plans?",
+          "url": "/wiki/sources/a-firm-andy-what-are-new-british-pms-plans-6a5deeca76f8ee25bb4bbf9c/"
+        },
+        {
+          "episode_file": "Burning questions： a more fire-prone world [6a687ea64207b2a60119df8b].md",
+          "key": "burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b",
+          "show": "Economist Podcasts",
+          "title": "Burning questions: a more fire-prone world",
+          "url": "/wiki/sources/burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b/"
+        },
+        {
+          "episode_file": "Spring, then fall： a weakened Muslim Brotherhood [6a7aef1b616564bf00d9b354].md",
+          "key": "spring-then-fall-a-weakened-muslim-brotherhood-6a7aef1b616564bf00d9b354",
+          "show": "Economist Podcasts",
+          "title": "Spring, then fall: a weakened Muslim Brotherhood",
+          "url": "/wiki/sources/spring-then-fall-a-weakened-muslim-brotherhood-6a7aef1b616564bf00d9b354/"
+        },
+        {
+          "episode_file": "GLT7107047696 [GLT7107047696].md",
+          "key": "360-fear-city-new-york-in-the-1970s-glt7107047696",
+          "show": "The Rest Is History",
+          "title": "360. Fear City: New York in the 1970s",
+          "url": "/wiki/sources/360-fear-city-new-york-in-the-1970s-glt7107047696/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/newyorkcity/"
+    },
+    "NewYorkCityBlackout1977": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7107047696 [GLT7107047696].md",
+          "key": "360-fear-city-new-york-in-the-1970s-glt7107047696",
+          "show": "The Rest Is History",
+          "title": "360. Fear City: New York in the 1970s",
+          "url": "/wiki/sources/360-fear-city-new-york-in-the-1970s-glt7107047696/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/newyorkcityblackout1977/"
+    },
     "NewYorkCityPublicSchools": {
       "episode_count": 2,
       "show_count": 2,
@@ -111281,6 +111373,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/newyorkmagazine/"
+    },
+    "NewYorkPost": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7107047696 [GLT7107047696].md",
+          "key": "360-fear-city-new-york-in-the-1970s-glt7107047696",
+          "show": "The Rest Is History",
+          "title": "360. Fear City: New York in the 1970s",
+          "url": "/wiki/sources/360-fear-city-new-york-in-the-1970s-glt7107047696/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/newyorkpost/"
     },
     "NewZealand": {
       "episode_count": 4,
@@ -134121,6 +134229,29 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/runancommanderylatehan/"
     },
+    "RupertMurdoch": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "TSR-S4-TylerShultzPart2-v3 [TSR-S4-TylerShultzPart2-v3].md",
+          "key": "tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3",
+          "show": "The Social Radars",
+          "title": "Tyler Shultz, Theranos Whistleblower (Part 2)",
+          "url": "/wiki/sources/tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3/"
+        },
+        {
+          "episode_file": "GLT7107047696 [GLT7107047696].md",
+          "key": "360-fear-city-new-york-in-the-1970s-glt7107047696",
+          "show": "The Rest Is History",
+          "title": "360. Fear City: New York in the 1970s",
+          "url": "/wiki/sources/360-fear-city-new-york-in-the-1970s-glt7107047696/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/rupertmurdoch/"
+    },
     "RuralBoundaryAndNeighborOrder": {
       "episode_count": 1,
       "show_count": 1,
@@ -150708,6 +150839,29 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/taxationstabilitytradeoff/"
     },
+    "TaxiDriver": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Snap judgement： Japan PM’s electoral landslide [6989c0fc61be18927058bb7d].md",
+          "key": "snap-judgement-japan-pms-electoral-landslide-6989c0fc61be18927058bb7d",
+          "show": "Economist Podcasts",
+          "title": "Snap judgement: Japan PM’s electoral landslide",
+          "url": "/wiki/sources/snap-judgement-japan-pms-electoral-landslide-6989c0fc61be18927058bb7d/"
+        },
+        {
+          "episode_file": "GLT7107047696 [GLT7107047696].md",
+          "key": "360-fear-city-new-york-in-the-1970s-glt7107047696",
+          "show": "The Rest Is History",
+          "title": "360. Fear City: New York in the 1970s",
+          "url": "/wiki/sources/360-fear-city-new-york-in-the-1970s-glt7107047696/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/taxidriver/"
+    },
     "TeacherAIAugmentation": {
       "episode_count": 2,
       "show_count": 2,
@@ -157746,6 +157900,54 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/concepts/urbanarchitecturalmemory/"
+    },
+    "UrbanCrisisCulturalFeedback": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7107047696 [GLT7107047696].md",
+          "key": "360-fear-city-new-york-in-the-1970s-glt7107047696",
+          "show": "The Rest Is History",
+          "title": "360. Fear City: New York in the 1970s",
+          "url": "/wiki/sources/360-fear-city-new-york-in-the-1970s-glt7107047696/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/urbancrisisculturalfeedback/"
+    },
+    "UrbanCrisisFeedbackLoop": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7107047696 [GLT7107047696].md",
+          "key": "360-fear-city-new-york-in-the-1970s-glt7107047696",
+          "show": "The Rest Is History",
+          "title": "360. Fear City: New York in the 1970s",
+          "url": "/wiki/sources/360-fear-city-new-york-in-the-1970s-glt7107047696/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/urbancrisisfeedbackloop/"
+    },
+    "UrbanDisorderExplanationConflict": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7107047696 [GLT7107047696].md",
+          "key": "360-fear-city-new-york-in-the-1970s-glt7107047696",
+          "show": "The Rest Is History",
+          "title": "360. Fear City: New York in the 1970s",
+          "url": "/wiki/sources/360-fear-city-new-york-in-the-1970s-glt7107047696/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/urbandisorderexplanationconflict/"
     },
     "UrbanWildlifeCoexistence": {
       "episode_count": 1,

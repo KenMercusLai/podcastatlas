@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 11103
+wiki_total_pages: 11107
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -17,6 +17,9 @@ wiki_pages:
   - key: "NurembergRally1934"
     title: "1934 Nuremberg Rally"
     url: "/wiki/entities/nurembergrally1934/"
+  - key: "NewYorkCityBlackout1977"
+    title: "1977 New York City Blackout"
+    url: "/wiki/entities/newyorkcityblackout1977/"
   - key: "NineToFiveFilm"
     title: "9 to 5 (1980 Film)"
     url: "/wiki/entities/ninetofivefilm/"
@@ -359,6 +362,9 @@ wiki_pages:
   - key: "NewYorkMagazine"
     title: "New York Magazine"
     url: "/wiki/entities/newyorkmagazine/"
+  - key: "NewYorkPost"
+    title: "New York Post"
+    url: "/wiki/entities/newyorkpost/"
   - key: "NewYorkState"
     title: "New York State"
     url: "/wiki/entities/newyorkstate/"

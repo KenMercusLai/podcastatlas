@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2092
+topic_total_pages: 2093
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4653,6 +4653,9 @@ topic_sources:
   - key: "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008"
     title: "318: Hundred Years' War: A Game of Thrones (Part 1)"
     url: "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+  - key: "360-fear-city-new-york-in-the-1970s-glt7107047696"
+    title: "360. Fear City: New York in the 1970s"
+    url: "/wiki/sources/360-fear-city-new-york-in-the-1970s-glt7107047696/"
   - key: "361-the-lost-library-of-alexandria-glt1578679297"
     title: "361. The Lost Library of Alexandria"
     url: "/wiki/sources/361-the-lost-library-of-alexandria-glt1578679297/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "u"
-wiki_total_pages: 8519
+wiki_total_pages: 8522
 wiki_pages:
   - key: "US2025ExpectationGaps"
     title: "U.S. 2025 Expectation Gaps"
@@ -227,6 +227,15 @@ wiki_pages:
   - key: "UrbanCanopyExternalities"
     title: "Urban Canopy Externalities"
     url: "/wiki/concepts/urbancanopyexternalities/"
+  - key: "UrbanCrisisCulturalFeedback"
+    title: "Urban Crisis Cultural Feedback"
+    url: "/wiki/concepts/urbancrisisculturalfeedback/"
+  - key: "UrbanCrisisFeedbackLoop"
+    title: "Urban Crisis Feedback Loop"
+    url: "/wiki/concepts/urbancrisisfeedbackloop/"
+  - key: "UrbanDisorderExplanationConflict"
+    title: "Urban Disorder Explanation Conflict"
+    url: "/wiki/concepts/urbandisorderexplanationconflict/"
   - key: "UrbanEcology"
     title: "Urban Ecology"
     url: "/wiki/concepts/urbanecology/"

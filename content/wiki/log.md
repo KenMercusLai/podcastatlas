@@ -24084,3 +24084,11 @@ Added source `361-the-lost-library-of-alexandria-glt1578679297`; created `Librar
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | 360. Fear City: New York in the 1970s
+
+Added source `360-fear-city-new-york-in-the-1970s-glt7107047696`; created `NewYorkCityBlackout1977`, `AbrahamBeame`, `EdKoch`, `NewYorkPost`, `UrbanCrisisFeedbackLoop`, `UrbanDisorderExplanationConflict`, and `UrbanCrisisCulturalFeedback`; and updated `NewYorkCity`, `RupertMurdoch`, `TaxiDriver`, and the canonical index from their complete bounded source sets. Core synthesis: the 1977 blackout exposed a reinforcing system of deindustrialization, unemployment, fiscal weakness, service cuts, disorder, and low trust, while tabloid and film imagery turned historically specific conditions into a national dystopian identity that helped legitimate tougher government and private redevelopment. No settled contradiction was adopted. Later long-run crime decline qualifies the crisis portrait, and numerical estimates, causal weights, psychiatric-history claims, film effects, and political motives remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

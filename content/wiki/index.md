@@ -3040,6 +3040,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Life, Death & the Neuroscience of Your Unique Experience | Dr. David Linden](sources/scim1807559844-scim1807559844.md) — Huberman Lab episode on sensory variation, developmental individuality, cerebellar prediction, brain-immune mechanisms, neuroplasticity, cancer, and mortality.
 
+- [360. Fear City: New York in the 1970s](sources/360-fear-city-new-york-in-the-1970s-glt7107047696.md) — The Rest Is History episode on the 1977 blackout, fiscal collapse, crime politics, urban dystopia, Ed Koch, and crisis-driven private redevelopment.
+
 ## Entities
 - [于红 / Yu Hong](entities/YuHong.md) — 从约十五年投资经历转向儿童社会情感教育、创办兔咚咚的教育创业者。
 - [兔咚咚 / Tu Dongdong](entities/TuDongdong.md) — 于红创办的线上儿童社会情感学习产品，以故事、场景和反复练习训练能力。
@@ -14161,6 +14163,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ptolemy I Soter](entities/PtolemyI.md) — Successor ruler who joined Alexander's legacy and royal patronage to Alexandria's Museum and library project.
 - [Eratosthenes](entities/Eratosthenes.md) — Alexandrian scholar whose geography and Earth measurement qualify a purely literary account of the institution.
 - [Museum of Alexandria](entities/MuseumOfAlexandria.md) — Ptolemaic court research community and probable institutional setting of the Library of Alexandria.
+- [1977 New York City Blackout](entities/NewYorkCityBlackout1977.md) — Cascading power failure whose looting, fires, and political afterlife exposed New York's wider urban crisis.
+- [Abraham Beame](entities/AbrahamBeame.md) — New York mayor linking fiscal austerity, public-service cuts, and tax-assisted private redevelopment.
+- [Ed Koch](entities/EdKoch.md) — New York mayor whose rise represented a tougher law-and-order, union, budget, and development turn.
+- [New York Post](entities/NewYorkPost.md) — Tabloid newspaper whose blackout framing amplified law-and-order interpretations of urban crisis.
 
 ## Concepts
 - [Social-Emotional Learning / 社会情感学习](concepts/SocialEmotionalLearning.md) — 覆盖自我管理、人际与冲突处理、批判性解释和负责任决策的能力教育。
@@ -22699,5 +22705,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Alexandrian Library Myth](concepts/AlexandrianLibraryMyth.md) — Composite image of a universal archive and lost scientific future destroyed in one military or religious catastrophe.
 - [Ptolemaic Knowledge Patronage](concepts/PtolemaicKnowledgePatronage.md) — Royal system joining scholar support, text collection, Greek cultural consolidation, and dynastic prestige.
 - [Textual Survival Through Recopying](concepts/TextualSurvivalThroughRecopying.md) — Preservation principle that fragile texts survive through repeated institutional reproduction rather than collection alone.
+- [Urban Crisis Feedback Loop](concepts/UrbanCrisisFeedbackLoop.md) — Reinforcing cycle among job loss, tax-base erosion, service demand, fiscal cuts, disorder, and institutional confidence.
+- [Urban Disorder Explanation Conflict](concepts/UrbanDisorderExplanationConflict.md) — Political conflict between crime-and-agency and poverty-and-structure accounts of urban disorder.
+- [Urban Crisis Cultural Feedback](concepts/UrbanCrisisCulturalFeedback.md) — Process by which news and fiction reflect, amplify, and politically reshape a city's crisis image.
 
 ## Syntheses
