@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 8505
+wiki_total_pages: 8509
 wiki_pages:
   - key: "IBDPatientEducationAndPeerSupport"
     title: "IBD Patient Education and Peer Support / IBD患者教育与同伴支持"
@@ -590,6 +590,9 @@ wiki_pages:
   - key: "IntegrityAsInnerCoherence"
     title: "Integrity as Inner Coherence"
     url: "/wiki/concepts/integrityasinnercoherence/"
+  - key: "IntellectualHonestyFeedbackLoop"
+    title: "Intellectual Honesty Feedback Loop / 智识诚实复盘"
+    url: "/wiki/concepts/intellectualhonestyfeedbackloop/"
   - key: "IntellectualLifeAsPractice"
     title: "Intellectual Life As Practice / 智识生活作为实践"
     url: "/wiki/concepts/intellectuallifeaspractice/"

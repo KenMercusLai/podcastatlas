@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 8505
+wiki_total_pages: 8509
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -242,6 +242,9 @@ wiki_pages:
   - key: "RefillableBeautyPackaging"
     title: "Refillable Beauty Packaging / 美妆替换芯包装"
     url: "/wiki/concepts/refillablebeautypackaging/"
+  - key: "ReflectiveChoiceFormation"
+    title: "Reflective Choice Formation / 反思式选择能力"
+    url: "/wiki/concepts/reflectivechoiceformation/"
   - key: "ReflectiveSelfExploration"
     title: "Reflective Self-Exploration"
     url: "/wiki/concepts/reflectiveselfexploration/"

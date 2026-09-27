@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 8505
+wiki_total_pages: 8509
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -410,6 +410,9 @@ wiki_pages:
   - key: "EmolumentsClause"
     title: "Emoluments Clause"
     url: "/wiki/concepts/emolumentsclause/"
+  - key: "EmotionAcceptanceSignalAction"
+    title: "Emotion Acceptance–Signal–Action Sequence / 情绪接纳—信号—行动顺序"
+    url: "/wiki/concepts/emotionacceptancesignalaction/"
   - key: "EmotionAttentionalCapture"
     title: "Emotion Attentional Capture"
     url: "/wiki/concepts/emotionattentionalcapture/"

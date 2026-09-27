@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [AI 时代，我们到底该学什么？｜对谈于红：三种不会过时的能力](sources/ai-shidai-women-daodi-gai-xue-shenme-duitan-yuhong-sanzhong-buhui-guoshi-de-nengli-lkcmj80qyw-uduhijfxudufqboaf.md) — 十字路口Crossing访谈于红，讨论社会情感学习、情绪信号、自我认知、反思式选择、智识诚实复盘与 AI 时代的长期能力。
 - [VOL.68血液内科｜装修甲醛会让你得白血病吗？…一期听懂白血病的常识｜造血干细胞捐献指南](sources/vol-68-xueyeneike-zhuangxiu-jiaquan-hui-rang-ni-de-baixuebing-ma-yiqi-tingdong-baixuebing-de-changshi-zaoxue-ganxibao-juanxian-zhinan-lkbtulzn5ky6f4wa5bttbuawvxz.md) — 这病说来话长 episode on leukemia classification, diagnosis, treatment, recovery burdens, environmental-risk limits, and hematopoietic stem-cell donation.
 - [362. The Taj Mahal: Love and Death](sources/362-the-taj-mahal-love-and-death-glt2445608477.md) — The Rest Is History episode on love, grief, Mughal architectural synthesis, paradise imagery, monumental kingship, unsupported legends, and contested Indian memory.
 - [VOL.69血液内科｜喝咖啡喝茶会贫血吗？月经量大会贫血吗？吃红枣阿胶有用吗？关于贫血的误区](sources/vol-69-xueyeneike-he-kafei-he-cha-hui-pinxue-ma-yuejing-liang-da-hui-pinxue-ma-chi-hongzao-ejiao-you-yong-ma-guanyu-pinxue-de-wuqu-lhptpdej4gf-vd6dlt0bjbu_8wi4.md) — 这病说来话长 episode on anemia recognition, cause classification, iron-deficiency evaluation, bleeding, absorption, replacement, and supplement myths.
@@ -3037,6 +3038,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.70精神科｜又失眠了？真的可治愈！三甲精神科医生给你睡眠支招](sources/vol-70-jingshenke-you-shimian-le-zhende-ke-zhiyu-sanjia-jingshenke-yisheng-gei-ni-shuimian-zhizhao-lkfpagwnhiqlhyyz71xwefocyhf0.md) — 这病说来话长 episode on insomnia recognition, sleep-anxiety feedback, clinical measurement, individualized treatment, and cause-directed sleep care.
 
 ## Entities
+- [于红 / Yu Hong](entities/YuHong.md) — 从约十五年投资经历转向儿童社会情感教育、创办兔咚咚的教育创业者。
+- [兔咚咚 / Tu Dongdong](entities/TuDongdong.md) — 于红创办的线上儿童社会情感学习产品，以故事、场景和反复练习训练能力。
 - [陈嘉医生 / Chen Jia (hematologist)](entities/ChenJiaHematologist.md) — Source-scoped hematology guest explaining leukemia diagnosis, treatment realities, and stem-cell donation in VOL.68.
 - [Taj Mahal](entities/TajMahal.md) — Mughal funerary complex joining personal memorial, sacred landscape, imperial kingship, national symbolism, tourism, and contested memory.
 - [Mughal Empire](entities/MughalEmpire.md) — South Asian empire whose composite court culture, monuments, succession politics, and modern memory frame the Taj Mahal branch.
@@ -14150,6 +14153,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The 120 Days of Sodom](entities/The120DaysOfSodom.md) — Sade's prison-written novel of sealed, scheduled, and escalating domination.
 
 ## Concepts
+- [Social-Emotional Learning / 社会情感学习](concepts/SocialEmotionalLearning.md) — 覆盖自我管理、人际与冲突处理、批判性解释和负责任决策的能力教育。
+- [Emotion Acceptance–Signal–Action Sequence / 情绪接纳—信号—行动顺序](concepts/EmotionAcceptanceSignalAction.md) — 先允许并识别情绪，再解释可能信号、调节状态并选择行动的顺序。
+- [Reflective Choice Formation / 反思式选择能力](concepts/ReflectiveChoiceFormation.md) — 通过未来方向、可承受试错、真实体验和复盘形成自我认知与选择质量。
+- [Intellectual Honesty Feedback Loop / 智识诚实复盘](concepts/IntellectualHonestyFeedbackLoop.md) — 用中期证据检查早先预测并修改模型，而不以最终结果重写过去判断。
 - [Leukemia Diagnostic Reasoning](concepts/LeukemiaDiagnosticReasoning.md) — Framework for classifying leukemia and separating nonspecific clues from confirmatory blood, marrow, morphology, and molecular evidence.
 - [Leukemia Treatment and Recovery](concepts/LeukemiaTreatmentAndRecovery.md) — Subtype-specific treatment and survivorship framework spanning remission, transplantation, supportive care, fertility, infection, and family burden.
 - [Hematopoietic Stem Cell Donation](concepts/HematopoieticStemCellDonation.md) — Registry, matching, donor-screening, and supervised peripheral-blood collection pathway.

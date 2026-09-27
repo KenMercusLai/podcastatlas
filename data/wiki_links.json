@@ -22847,6 +22847,10 @@
     "title": "Emoluments Clause",
     "url": "/wiki/concepts/emolumentsclause/"
   },
+  "EmotionAcceptanceSignalAction": {
+    "title": "Emotion Acceptance–Signal–Action Sequence / 情绪接纳—信号—行动顺序",
+    "url": "/wiki/concepts/emotionacceptancesignalaction/"
+  },
   "EmotionAttentionalCapture": {
     "title": "Emotion Attentional Capture",
     "url": "/wiki/concepts/emotionattentionalcapture/"
@@ -35302,6 +35306,10 @@
   "Intel": {
     "title": "Intel",
     "url": "/wiki/entities/intel/"
+  },
+  "IntellectualHonestyFeedbackLoop": {
+    "title": "Intellectual Honesty Feedback Loop / 智识诚实复盘",
+    "url": "/wiki/concepts/intellectualhonestyfeedbackloop/"
   },
   "IntellectualLifeAsPractice": {
     "title": "Intellectual Life As Practice / 智识生活作为实践",
@@ -58135,6 +58143,10 @@
     "title": "Refillable Beauty Packaging / 美妆替换芯包装",
     "url": "/wiki/concepts/refillablebeautypackaging/"
   },
+  "ReflectiveChoiceFormation": {
+    "title": "Reflective Choice Formation / 反思式选择能力",
+    "url": "/wiki/concepts/reflectivechoiceformation/"
+  },
   "ReflectiveSelfExploration": {
     "title": "Reflective Self-Exploration",
     "url": "/wiki/concepts/reflectiveselfexploration/"
@@ -63994,6 +64006,10 @@
   "SocialEmotionInferenceLimits": {
     "title": "Social Emotion Inference Limits",
     "url": "/wiki/concepts/socialemotioninferencelimits/"
+  },
+  "SocialEmotionalLearning": {
+    "title": "Social-Emotional Learning / 社会情感学习",
+    "url": "/wiki/concepts/socialemotionallearning/"
   },
   "SocialEngineeringFraud": {
     "title": "Social Engineering Fraud",
@@ -70614,6 +70630,10 @@
   "TsunekoNoLongerHuman": {
     "title": "常子 / Tsuneko",
     "url": "/wiki/entities/tsunekonolongerhuman/"
+  },
+  "TuDongdong": {
+    "title": "兔咚咚 / Tu Dongdong",
+    "url": "/wiki/entities/tudongdong/"
   },
   "TuLiBuTuQi": {
     "title": "《土里不吐气》",
@@ -77875,6 +77895,10 @@
     "title": "于贵人 / Yu Guiren (late Han)",
     "url": "/wiki/entities/yuguirenlatehan/"
   },
+  "YuHong": {
+    "title": "于红 / Yu Hong",
+    "url": "/wiki/entities/yuhong/"
+  },
   "YuHuayingCase": {
     "title": "于华英案 / Yu Huaying Case",
     "url": "/wiki/entities/yuhuayingcase/"
@@ -80826,6 +80850,10 @@
   "ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731": {
     "title": "AI 时代的超级入口还是手机吗？｜ S10E17",
     "url": "/wiki/sources/ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731/"
+  },
+  "ai-shidai-women-daodi-gai-xue-shenme-duitan-yuhong-sanzhong-buhui-guoshi-de-nengli-lkcmj80qyw-uduhijfxudufqboaf": {
+    "title": "AI 时代，我们到底该学什么？｜对谈于红：三种不会过时的能力",
+    "url": "/wiki/sources/ai-shidai-women-daodi-gai-xue-shenme-duitan-yuhong-sanzhong-buhui-guoshi-de-nengli-lkcmj80qyw-uduhijfxudufqboaf/"
   },
   "ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing": {
     "title": "AI Startup Hits $8.6M ARR With V0 MVP and EUR85 Pricing",

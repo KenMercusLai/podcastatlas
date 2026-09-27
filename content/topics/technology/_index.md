@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3191
+topic_total_pages: 3192
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -8385,6 +8385,9 @@ topic_sources:
   - key: "ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731"
     title: "AI 时代的超级入口还是手机吗？｜ S10E17"
     url: "/wiki/sources/ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731/"
+  - key: "ai-shidai-women-daodi-gai-xue-shenme-duitan-yuhong-sanzhong-buhui-guoshi-de-nengli-lkcmj80qyw-uduhijfxudufqboaf"
+    title: "AI 时代，我们到底该学什么？｜对谈于红：三种不会过时的能力"
+    url: "/wiki/sources/ai-shidai-women-daodi-gai-xue-shenme-duitan-yuhong-sanzhong-buhui-guoshi-de-nengli-lkcmj80qyw-uduhijfxudufqboaf/"
   - key: "tech-20260805-0805-mp-tech-pod-128-tech-20260805-0805-mp-tech-pod-128"
     title: "AI-driven law could be an answer to accessible legal help"
     url: "/wiki/sources/tech-20260805-0805-mp-tech-pod-128-tech-20260805-0805-mp-tech-pod-128/"

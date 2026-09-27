@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2118
+topic_total_pages: 2120
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1636,6 +1636,9 @@ topic_concepts:
   - key: "InsuranceRiskTransfer"
     title: "Insurance Risk Transfer"
     url: "/wiki/concepts/insurancerisktransfer/"
+  - key: "IntellectualHonestyFeedbackLoop"
+    title: "Intellectual Honesty Feedback Loop / 智识诚实复盘"
+    url: "/wiki/concepts/intellectualhonestyfeedbackloop/"
   - key: "IntelligentFinance"
     title: "Intelligent Finance"
     url: "/wiki/concepts/intelligentfinance/"
@@ -5688,6 +5691,9 @@ topic_sources:
   - key: "ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx"
     title: "AI 发展了 4 年，把应用发展没了？｜AI 年中复盘"
     url: "/wiki/sources/ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx/"
+  - key: "ai-shidai-women-daodi-gai-xue-shenme-duitan-yuhong-sanzhong-buhui-guoshi-de-nengli-lkcmj80qyw-uduhijfxudufqboaf"
+    title: "AI 时代，我们到底该学什么？｜对谈于红：三种不会过时的能力"
+    url: "/wiki/sources/ai-shidai-women-daodi-gai-xue-shenme-duitan-yuhong-sanzhong-buhui-guoshi-de-nengli-lkcmj80qyw-uduhijfxudufqboaf/"
   - key: "socialradarspod-brianchesky2-final"
     title: "Airbnb Part Two: Brian Chesky on YC Discipline, COVID, and Staying Founder-Led"
     url: "/wiki/sources/socialradarspod-brianchesky2-final/"

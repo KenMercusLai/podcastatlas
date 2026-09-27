@@ -46056,6 +46056,22 @@
       "updated": "2026-09-17",
       "url": "/wiki/entities/emmyawards/"
     },
+    "EmotionAcceptanceSignalAction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "AI 时代，我们到底该学什么？｜对谈于红：三种不会过时的能力 [lkCMj80qYw-uDuHIJFxudUFQBoaf].md",
+          "key": "ai-shidai-women-daodi-gai-xue-shenme-duitan-yuhong-sanzhong-buhui-guoshi-de-nengli-lkcmj80qyw-uduhijfxudufqboaf",
+          "show": "十字路口Crossing",
+          "title": "AI 时代，我们到底该学什么？｜对谈于红：三种不会过时的能力",
+          "url": "/wiki/sources/ai-shidai-women-daodi-gai-xue-shenme-duitan-yuhong-sanzhong-buhui-guoshi-de-nengli-lkcmj80qyw-uduhijfxudufqboaf/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/emotionacceptancesignalaction/"
+    },
     "EmotionAttentionalCapture": {
       "episode_count": 1,
       "show_count": 1,
@@ -79118,6 +79134,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/intel/"
     },
+    "IntellectualHonestyFeedbackLoop": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "AI 时代，我们到底该学什么？｜对谈于红：三种不会过时的能力 [lkCMj80qYw-uDuHIJFxudUFQBoaf].md",
+          "key": "ai-shidai-women-daodi-gai-xue-shenme-duitan-yuhong-sanzhong-buhui-guoshi-de-nengli-lkcmj80qyw-uduhijfxudufqboaf",
+          "show": "十字路口Crossing",
+          "title": "AI 时代，我们到底该学什么？｜对谈于红：三种不会过时的能力",
+          "url": "/wiki/sources/ai-shidai-women-daodi-gai-xue-shenme-duitan-yuhong-sanzhong-buhui-guoshi-de-nengli-lkcmj80qyw-uduhijfxudufqboaf/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/intellectualhonestyfeedbackloop/"
+    },
     "IntelligenceFlywheel": {
       "episode_count": 1,
       "show_count": 1,
@@ -112163,9 +112195,9 @@
       "url": "/wiki/concepts/nonalcoholicbeergrowth/"
     },
     "NonAlgorithmicCapabilities": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "EP275 Token 通胀时代，谁还能“不可替代”？丨“人在中流”特别策划01 [lgNagVELl4JyVv7EejrCgNO2Xjsr].md",
@@ -112180,9 +112212,16 @@
           "show": "Talk三联",
           "title": "EP278 AI时代不卷专业，卷什么？丨“人在中流”特别策划02",
           "url": "/wiki/sources/ep278-ai-shidai-bu-juan-zhuanye-juan-shenme-renzai-zhongliu-tebie-cehua-02-lhvsbropwclouwshe-2-fczwnwzz/"
+        },
+        {
+          "episode_file": "AI 时代，我们到底该学什么？｜对谈于红：三种不会过时的能力 [lkCMj80qYw-uDuHIJFxudUFQBoaf].md",
+          "key": "ai-shidai-women-daodi-gai-xue-shenme-duitan-yuhong-sanzhong-buhui-guoshi-de-nengli-lkcmj80qyw-uduhijfxudufqboaf",
+          "show": "十字路口Crossing",
+          "title": "AI 时代，我们到底该学什么？｜对谈于红：三种不会过时的能力",
+          "url": "/wiki/sources/ai-shidai-women-daodi-gai-xue-shenme-duitan-yuhong-sanzhong-buhui-guoshi-de-nengli-lkcmj80qyw-uduhijfxudufqboaf/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/nonalgorithmiccapabilities/"
     },
     "NonDualMindfulness": {
@@ -128773,6 +128812,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/redlandsdrugcase/"
     },
+    "ReflectiveChoiceFormation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "AI 时代，我们到底该学什么？｜对谈于红：三种不会过时的能力 [lkCMj80qYw-uDuHIJFxudUFQBoaf].md",
+          "key": "ai-shidai-women-daodi-gai-xue-shenme-duitan-yuhong-sanzhong-buhui-guoshi-de-nengli-lkcmj80qyw-uduhijfxudufqboaf",
+          "show": "十字路口Crossing",
+          "title": "AI 时代，我们到底该学什么？｜对谈于红：三种不会过时的能力",
+          "url": "/wiki/sources/ai-shidai-women-daodi-gai-xue-shenme-duitan-yuhong-sanzhong-buhui-guoshi-de-nengli-lkcmj80qyw-uduhijfxudufqboaf/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/reflectivechoiceformation/"
+    },
     "ReflectiveSelfExploration": {
       "episode_count": 3,
       "show_count": 1,
@@ -142066,6 +142121,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/socialemotioninferencelimits/"
+    },
+    "SocialEmotionalLearning": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "AI 时代，我们到底该学什么？｜对谈于红：三种不会过时的能力 [lkCMj80qYw-uDuHIJFxudUFQBoaf].md",
+          "key": "ai-shidai-women-daodi-gai-xue-shenme-duitan-yuhong-sanzhong-buhui-guoshi-de-nengli-lkcmj80qyw-uduhijfxudufqboaf",
+          "show": "十字路口Crossing",
+          "title": "AI 时代，我们到底该学什么？｜对谈于红：三种不会过时的能力",
+          "url": "/wiki/sources/ai-shidai-women-daodi-gai-xue-shenme-duitan-yuhong-sanzhong-buhui-guoshi-de-nengli-lkcmj80qyw-uduhijfxudufqboaf/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/socialemotionallearning/"
     },
     "SocialHistoryCaseFraming": {
       "episode_count": 2,
@@ -155506,6 +155577,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/tsinghuaiiis/"
+    },
+    "TuDongdong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "AI 时代，我们到底该学什么？｜对谈于红：三种不会过时的能力 [lkCMj80qYw-uDuHIJFxudUFQBoaf].md",
+          "key": "ai-shidai-women-daodi-gai-xue-shenme-duitan-yuhong-sanzhong-buhui-guoshi-de-nengli-lkcmj80qyw-uduhijfxudufqboaf",
+          "show": "十字路口Crossing",
+          "title": "AI 时代，我们到底该学什么？｜对谈于红：三种不会过时的能力",
+          "url": "/wiki/sources/ai-shidai-women-daodi-gai-xue-shenme-duitan-yuhong-sanzhong-buhui-guoshi-de-nengli-lkcmj80qyw-uduhijfxudufqboaf/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/tudongdong/"
     },
     "TudorSuccessionCrisis": {
       "episode_count": 4,
@@ -172007,6 +172094,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/yufan/"
+    },
+    "YuHong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "AI 时代，我们到底该学什么？｜对谈于红：三种不会过时的能力 [lkCMj80qYw-uDuHIJFxudUFQBoaf].md",
+          "key": "ai-shidai-women-daodi-gai-xue-shenme-duitan-yuhong-sanzhong-buhui-guoshi-de-nengli-lkcmj80qyw-uduhijfxudufqboaf",
+          "show": "十字路口Crossing",
+          "title": "AI 时代，我们到底该学什么？｜对谈于红：三种不会过时的能力",
+          "url": "/wiki/sources/ai-shidai-women-daodi-gai-xue-shenme-duitan-yuhong-sanzhong-buhui-guoshi-de-nengli-lkcmj80qyw-uduhijfxudufqboaf/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/yuhong/"
     },
     "YuHuayingCase": {
       "episode_count": 1,

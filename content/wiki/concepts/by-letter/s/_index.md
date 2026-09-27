@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 8505
+wiki_total_pages: 8509
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1172,6 +1172,9 @@ wiki_pages:
   - key: "SocialValueAccounting"
     title: "Social Value Accounting"
     url: "/wiki/concepts/socialvalueaccounting/"
+  - key: "SocialEmotionalLearning"
+    title: "Social-Emotional Learning / 社会情感学习"
+    url: "/wiki/concepts/socialemotionallearning/"
   - key: "SocialTemplateDesire"
     title: "Social-Template Desire / 社会模板欲望"
     url: "/wiki/concepts/socialtemplatedesire/"

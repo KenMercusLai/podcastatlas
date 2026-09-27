@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 11095
+wiki_total_pages: 11097
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1343,6 +1343,9 @@ wiki_pages:
   - key: "TongZhiLateHan"
     title: "僮芝 / Tong Zhi (late Han)"
     url: "/wiki/entities/tongzhilatehan/"
+  - key: "TuDongdong"
+    title: "兔咚咚 / Tu Dongdong"
+    url: "/wiki/entities/tudongdong/"
   - key: "TenAttendantsLateHan"
     title: "十常侍 / Ten Attendants (late Han)"
     url: "/wiki/entities/tenattendantslatehan/"
