@@ -7,6 +7,7 @@ sources:
   - 683-washington-hero-of-the-revolution-part-1-glt3752138067
   - 350-the-triumph-of-george-washington-part-4-glt1619660676
   - 349-the-birth-of-the-united-states-part-3-glt9804967639
+  - 348-the-boston-tea-party-part-2-glt5189620267
 last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
@@ -19,21 +20,23 @@ The American Revolution appears as a colonial rupture, civil conflict, and globa
 
 ## Current Profile
 
-The current synthesis joins political language, military survival, diplomacy, and unequal outcomes. [[CommonSensePamphlet|Common Sense]] and the [[DeclarationOfIndependence|Declaration]] converted imperial rupture into an explicit republican and universal cause, even as slavery contradicted equality at the founding. Washington's escapes, Trenton and Princeton, and later Valley Forge command explain how the [[ContinentalArmy|Continental Army]] survived long enough for the [[BattleOfSaratoga|Saratoga]] victory and French intervention to matter. [[Yorktown]] then converged American endurance with French naval-land power. The result widened political capacity for many ordinary white men while exposing Native nations, women, and Black people to different combinations of exclusion, dispossession, service, emancipation, and re-enslavement.
+The current synthesis begins with competing British constitutional claims rather than inevitable separatism. The Tea Act, [[BostonTeaParty|Boston Tea Party]], [[CoerciveActs|Coercive Acts]], and [[ContinentalCongress|First Continental Congress]] turned a taxation and sovereignty dispute into coordinated resistance; [[LexingtonAndConcord|Lexington and Concord]] and [[BattleOfBunkerHill|Bunker Hill]] then made armed conflict durable while many colonists still professed loyalty to George III. [[CommonSensePamphlet|Common Sense]] and the [[DeclarationOfIndependence|Declaration]] converted that rupture into an explicit republican and universal cause, even as slavery contradicted equality at the founding. Washington's survival strategy and French intervention carried the conflict to [[Yorktown]], widening political capacity for many ordinary white men while exposing Native nations, women, and Black people to different combinations of exclusion, dispossession, service, emancipation, and re-enslavement.
 
 ## Key Characteristics
 
 - Political rupture from British loyalty to American independence.
+- Escalated through reciprocal protest, punishment, colonial coordination, and armed preparation.
 - Institutionalized through the [[ContinentalCongress|Continental Congress]] and the [[DeclarationOfIndependence|Declaration of Independence]].
 - Depended on [[StrategicEnduranceMilitaryCommand|strategic endurance military command]] as well as diplomatic breakthrough.
-- Turned on foreign support, especially the [[FrancoAmericanAlliance1778|Franco-American alliance]].
-- Produced a peace settlement in the [[TreatyOfParis1783|Treaty of Paris]] recognizing independence.
+- Turned on foreign support, especially the [[FrancoAmericanAlliance1778|Franco-American alliance]], and ended in recognition through the [[TreatyOfParis1783|Treaty of Paris]].
 - Combined a Continental campaign, Patriot-Loyalist civil war, and [[AmericanRevolutionGlobalWar|global imperial war]].
-- Distributed liberty unevenly while preserving a fundamental slavery contradiction.
+- Distributed liberty unevenly while British emancipation offers and revolutionary slaveholding exposed a fundamental slavery contradiction.
 
 ## Evidence
 
 - Rupture sequence: [[684-franklin-revenge-of-the-american-genius-part-2-glt6013835340]] follows Franklin from loyal Englishman to independence supporter after the Hutchinson letters, Cockpit humiliation, and outbreak of fighting.
+- Prewar escalation: [[348-the-boston-tea-party-part-2-glt5189620267]] links the Tea Act and Boston Tea Party to the Coercive Acts, intercolonial coordination, collapsing royal authority, and armed preparation.
+- Armed threshold: [[348-the-boston-tea-party-part-2-glt5189620267]] follows Lexington, Concord, and Bunker Hill as costly evidence that British tactical action could not easily restore political control.
 - Ideological declaration: [[349-the-birth-of-the-united-states-part-3-glt9804967639]] links Paine's mass republican persuasion to a Declaration designed for unity, public justification, and diplomacy.
 - Early military survival: [[349-the-birth-of-the-united-states-part-3-glt9804967639]] follows the army's escape around New York, the Trenton-Princeton morale recovery, failed British Hudson coordination, and surrender at Saratoga.
 - Institutional independence: [[684-franklin-revenge-of-the-american-genius-part-2-glt6013835340]] places Franklin in the Continental Congress and Declaration committee, while [[683-washington-hero-of-the-revolution-part-1-glt3752138067]] shows the Congress selecting Washington as commander.
@@ -42,16 +45,18 @@ The current synthesis joins political language, military survival, diplomacy, an
 - Internationalization: [[684-franklin-revenge-of-the-american-genius-part-2-glt6013835340]] argues that American victory required European support, and [[683-washington-hero-of-the-revolution-part-1-glt3752138067]] adds that news of French recognition and alliance changed British priorities by making the war global.
 - Yorktown outcome: [[350-the-triumph-of-george-washington-part-4-glt1619660676]] says American and French land forces and French sea power trapped Cornwallis, producing an unrecoverable political blow even before formal peace.
 - Distributed consequences: [[350-the-triumph-of-george-washington-part-4-glt1619660676]] contrasts white male political gains and some abolitionist momentum with constrained women's rights, Native dispossession, Black Loyalist vulnerability, and return to slavery.
-- Slavery contradiction: [[684-franklin-revenge-of-the-american-genius-part-2-glt6013835340]], [[683-washington-hero-of-the-revolution-part-1-glt3752138067]], and [[350-the-triumph-of-george-washington-part-4-glt1619660676]] preserve the gap between liberty claims and slaveholding through Franklin, Washington, Black Patriot service, British emancipation offers, and post-Yorktown re-enslavement.
+- Slavery contradiction: [[348-the-boston-tea-party-part-2-glt5189620267]] introduces Dunmore's wartime freedom offer and contemporary British criticism of slaveholding revolutionaries; [[684-franklin-revenge-of-the-american-genius-part-2-glt6013835340]], [[683-washington-hero-of-the-revolution-part-1-glt3752138067]], and [[350-the-triumph-of-george-washington-part-4-glt1619660676]] extend the problem through Franklin, Washington, Black service, abolitionism, and post-Yorktown re-enslavement.
 
 ## Qualifications
 
-The sources provide broad podcast synthesis rather than a complete revolutionary history. Loyalist, Native, Black, female, southern, naval, and ordinary civilian experiences remain compressed. Claims about precise forces, British restraint, missed opportunities to destroy Washington, a peaceful imperial path, or alternative British commanders remain source-scoped or speculative.
+The sources provide broad podcast synthesis rather than a complete revolutionary history. Loyalist, Native, Black, female, southern, naval, Quebec, Caribbean, and ordinary civilian experiences remain compressed. Claims about precise forces and casualties, British restraint, the decisive weight of Dunmore's proclamation, missed opportunities to destroy Washington, a peaceful imperial path, or alternative British commanders remain source-scoped or speculative.
 
 ## What Changed
 
 - Backfilled the ideological and operational middle from Paine and the Declaration through New York, Trenton-Princeton, and Saratoga.
 - Connected universal independence language to both foreign support and the founding slavery contradiction.
+- Added the Tea Act-to-Bunker Hill escalation sequence and preserved continued colonial loyalty before independence.
+- Moved Dunmore's proclamation into the war's liberty-slavery and allegiance analysis.
 
 ## Relationships
 
@@ -73,3 +78,7 @@ The sources provide broad podcast synthesis rather than a complete revolutionary
 - [[CommonSensePamphlet]] - mass republican argument for independence.
 - [[BattleOfSaratoga]] - military and diplomatic turning point before open French entry.
 - [[AmericanRevolutionaryUniversalism]] - universal-cause frame carried by Paine and the Declaration.
+- [[BostonTeaParty]] - protest that triggered the punitive escalation sequence.
+- [[CoerciveActs]] - response that broadened resistance beyond Massachusetts.
+- [[LexingtonAndConcord]] - armed threshold between constitutional crisis and war.
+- [[LordDunmoresProclamation]] - wartime freedom offer exposing the conflict's slavery dimension.

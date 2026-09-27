@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [348: The Boston Tea Party (Part 2)](sources/348-the-boston-tea-party-part-2-glt5189620267.md) — The Rest Is History episode on the Tea Act, Boston Tea Party, Coercive Acts, colonial coordination, early fighting, British strategy, and Dunmore's proclamation.
 - [349: The Birth of the United States (Part 3)](sources/349-the-birth-of-the-united-states-part-3-glt9804967639.md) — The Rest Is History episode on Paine, the Declaration, Washington's 1776 survival, Saratoga, French intervention, and the Revolution's universal promise and slavery contradiction.
 - [How Your Brain’s Reward Circuits Drive Your Choices | Dr. Robert Malenka](sources/how-your-brains-reward-circuits-drive-your-choices-dr-robert-malenka-scim2531622462.md) — Huberman Lab interview on context-sensitive dopamine signaling, addiction-related plasticity, social reward, empathy-like assays, autism heterogeneity, and cautious MDMA research.
 - [VOL.58脊柱外科&麻醉科｜腰间盘突出是否须手术等28个职场白领、学生关心的脊柱问题](sources/vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms.md) — 这病说来话长 Q&A on desk-related neck and back discomfort, lumbar-disc imaging, surgical warning signs, neutral movement, active rehabilitation, and the limits of passive aids.
@@ -3069,6 +3070,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Harnessing Passion, Drive & Persistence for Lifelong Success | Tony Hawk](sources/harnessing-passion-drive-persistence-for-lifelong-success-tony-hawk-scim8571002701.md) — Huberman Lab conversation on skateboarding mastery, intrinsic progression, injury-recovery adherence, entrepreneurship, family, and public skateparks.
 
 ## Entities
+- [Lord Dunmore's Proclamation](entities/LordDunmoresProclamation.md) — November 1775 service-linked freedom offer exposing Black agency, British strategy, and slaveholder radicalization.
+- [Battle of Bunker Hill](entities/BattleOfBunkerHill.md) — Costly British tactical victory that exposed the gap between taking ground and restoring political control.
+- [Battles of Lexington and Concord](entities/LexingtonAndConcord.md) — April 1775 clashes marking the armed threshold from imperial crisis to revolutionary war.
+- [Quebec Act](entities/QuebecAct.md) — Imperial accommodation that preserved Catholic Quebec's loyalty while inflaming Protestant colonial fears.
+- [Coercive Acts](entities/CoerciveActs.md) — Punitive 1774 measures that converted the Boston crisis into coordinated intercolonial resistance.
+- [Boston Tea Party](entities/BostonTeaParty.md) — Organized destruction of tea that triggered Britain's punitive escalation and widened colonial resistance.
 - [Common Sense (pamphlet)](entities/CommonSensePamphlet.md) — Paine's widely circulated 1776 argument for independence, republicanism, and America as a universal political cause.
 - [Battle of Saratoga](entities/BattleOfSaratoga.md) — 1777 American victory whose operational and diplomatic effects helped make open French intervention plausible.
 - [Robert Malenka](entities/RobertMalenka.md) — Psychiatrist and neuroscientist connecting synaptic plasticity and reward circuitry to addiction, social behavior, empathy-like assays, autism models, and MDMA research.
@@ -14245,6 +14252,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Skatepark Project](entities/TheSkateparkProject.md) — Nonprofit supporting public skateparks as access, practice, and youth-community infrastructure.
 
 ## Concepts
+- [No Taxation Without Representation](concepts/NoTaxationWithoutRepresentation.md) — Constitutional claim separating a tax's material burden from the legitimacy of distant parliamentary authority.
 - [American Revolutionary Universalism](concepts/AmericanRevolutionaryUniversalism.md) — Frame treating independence as a general cause of equality, liberty, consent, and republicanism while preserving its founding exclusions.
 - [Reward Circuit Context](concepts/RewardCircuitContext.md) — Framework in which reinforcement and salience depend on body state, memory, emotion, expectation, sensory input, and behavioral rules rather than stimulus pleasure alone.
 - [Addiction-Related Reward Plasticity](concepts/AddictionRelatedRewardPlasticity.md) — Persistent reward-circuit remodeling and cue learning that can sustain wanting and pursuit after liking or reflective endorsement fades.

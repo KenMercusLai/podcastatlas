@@ -5,7 +5,8 @@ tags: [institution, founding, american-revolution, united-states]
 sources:
   - 684-franklin-revenge-of-the-american-genius-part-2-glt6013835340
   - 683-washington-hero-of-the-revolution-part-1-glt3752138067
-last_updated: 2026-08-31
+  - 348-the-boston-tea-party-part-2-glt5189620267
+last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
 
@@ -13,15 +14,17 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-The Continental Congress appears as the revolutionary institution that converted colonial rupture into organized independence, founding texts, wartime committees, and military command.
+The Continental Congress appears as the intercolonial institution that converted resistance to punitive legislation into coordinated economic pressure, armed preparation, military command, and eventually organized independence.
 
 ## Current Profile
 
-The Franklin source treats the Congress as the working body that converted Franklin's break with Britain into institutional service: committees, practical wartime needs, the Olive Branch Petition, and the [[DeclarationOfIndependence|Declaration of Independence]]. The Washington source adds the command-selection role. Washington's arrival in militia uniform signals readiness, and Congress chooses him because military experience, Virginia standing, sobriety, and apparent modesty could hold a fragile coalition together.
+The 1774 First Continental Congress coordinated resistance to the [[CoerciveActs|Coercive Acts]] through the Suffolk Resolves, non-importation, rejection of obedience to the Massachusetts Government Act, and encouragement to stockpile arms. After fighting began, the Second Congress still spoke in loyal terms while creating an army and selecting Washington because experience, Virginia standing, sobriety, and apparent modesty could hold a fragile coalition together. The Franklin source then shows the same body handling wartime committees, the Olive Branch Petition, and the [[DeclarationOfIndependence|Declaration of Independence]].
 
 ## Key Characteristics
 
 - Revolutionary institution that received Franklin after his return from Britain.
+- Intercolonial coordinating body formed before declared independence.
+- Organizer of non-importation, resistance, and armed preparation in 1774.
 - Committee-driven body handling practical wartime needs as well as political texts.
 - Setting for Franklin's Declaration committee work.
 - Institution that selected [[GeorgeWashington|George Washington]] to command the [[ContinentalArmy|Continental Army]].
@@ -33,14 +36,17 @@ The Franklin source treats the Congress as the working body that converted Frank
 - Practical committees: [[684-franklin-revenge-of-the-american-genius-part-2-glt6013835340]] says Franklin served on many committees, including postal and military-supply work.
 - Declaration work: [[684-franklin-revenge-of-the-american-genius-part-2-glt6013835340]] says Franklin was on the committee that drafted the Declaration.
 - Command selection: [[683-washington-hero-of-the-revolution-part-1-glt3752138067]] says Washington attended the Continental Congresses, arrived in militia uniform in 1775, and became commander because of military experience, Virginia connections, and reputation as a sober, modest unifier.
+- First Congress program: [[348-the-boston-tea-party-part-2-glt5189620267]] links the Suffolk Resolves to non-importation, rejection of the Massachusetts Government Act, and weapons preparation.
+- Second Congress transition: [[348-the-boston-tea-party-part-2-glt5189620267]] says the delegates retained royal-loyalty language while deciding they needed an army and a regionally unifying commander.
 
 ## Qualifications
 
-The page records only the Congress as it appears in the Franklin and Washington episodes. It does not try to summarize the institution's full membership, chronology, factional debates, financing, or constitutional evolution.
+The page records only the Congress as it appears in three podcast episodes. It does not try to summarize the institution's full membership, chronology, factional debates, financing, enforcement machinery, or constitutional evolution.
 
 ## What Changed
 
 - Added the Congress's Washington-command selection role to the prior Franklin committee and Declaration profile.
+- Added the First Congress's resistance program and the Second Congress's loyalty-to-army transition.
 
 ## Relationships
 
@@ -51,3 +57,5 @@ The page records only the Congress as it appears in the Franklin and Washington 
 - [[AmericanRevolution]] - conflict and independence process the Congress organized.
 - [[UnitedStates]] - later polity whose founding memory includes the Congress.
 - [[ColonialLoyaltyRupture]] - transition the Congress institutionalized.
+- [[CoerciveActs]] - measures that prompted the First Congress's coordinated response.
+- [[LexingtonAndConcord]] - fighting that made continental military organization urgent.

@@ -24299,3 +24299,11 @@ Added source `349-the-birth-of-the-united-states-part-3-glt9804967639`; created 
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | 348: The Boston Tea Party (Part 2)
+
+Added source `348-the-boston-tea-party-part-2-glt5189620267`; created `BostonTeaParty`, `CoerciveActs`, `QuebecAct`, `LexingtonAndConcord`, `BattleOfBunkerHill`, `LordDunmoresProclamation`, and `NoTaxationWithoutRepresentation`; and updated `AmericanRevolution`, `AdamIPSmith`, `GeorgeIII`, `GeorgeWashington`, `ThomasJefferson`, `JohnAdams`, `ContinentalCongress`, `ColonialLoyaltyRupture`, `RevolutionaryMilitarySlaveryContradiction`, and the canonical index from their complete bounded source sets. Core synthesis: a commercial rescue measure became a sovereignty test, punishment of Boston widened intercolonial resistance, early battles exposed Britain's political-control problem, and Dunmore's freedom offer revealed Black agency and slaveholder vulnerability inside the revolutionary liberty claim. No settled contradiction was adopted. Participant motives, casualty totals, the likely result of harsher British repression, the causal weight of Dunmore's proclamation, and broad claims about slavery as the Revolution's sole motive remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

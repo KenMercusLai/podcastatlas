@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 8567
+wiki_total_pages: 8568
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -302,6 +302,9 @@ wiki_pages:
   - key: "NoSmallMattersInGovernance"
     title: "No Small Matters in Governance / 治无小乱无大"
     url: "/wiki/concepts/nosmallmattersingovernance/"
+  - key: "NoTaxationWithoutRepresentation"
+    title: "No Taxation Without Representation"
+    url: "/wiki/concepts/notaxationwithoutrepresentation/"
   - key: "NoCodeAIDisruption"
     title: "No-Code AI Disruption"
     url: "/wiki/concepts/nocodeaidisruption/"

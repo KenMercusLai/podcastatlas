@@ -2,39 +2,43 @@
 title: "调查推动式反叛升级 / Investigation-Driven Rebellion Escalation"
 type: concept
 tags: [statecraft, suspicion, rebellion, western-han]
-sources: [zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr, zizhi-tongjian-hanji-187-yingbu-panluan-liubang-weihe-tuobingti-qinzheng-lvjafotlnvmyqmwaeav3novz1dox, zizhi-tongjian-hanji-186-yi-chang-yin-bajie-lingdao-laopo-yinfa-de-miemen-can-an-lqx14uzf60oi6wnnzdkottd6kx1n, zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9]
+knowledge_schema: synthesis-v1
+sources:
+  - zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr
+  - zizhi-tongjian-hanji-187-yingbu-panluan-liubang-weihe-tuobingti-qinzheng-lvjafotlnvmyqmwaeav3novz1dox
+  - zizhi-tongjian-hanji-186-yi-chang-yin-bajie-lingdao-laopo-yinfa-de-miemen-can-an-lqx14uzf60oi6wnnzdkottd6kx1n
+  - zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9
 last_updated: 2026-08-23
 ---
 
 # 调查推动式反叛升级 / Investigation-Driven Rebellion Escalation
 
-调查推动式反叛升级 / investigation-driven rebellion escalation enters the wiki through [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9|Hanji 182]] as the episode's reading of [[ChenXi|陈豨]]'s path into revolt. [[ZhouChang|周昌]] reports Chen Xi's retainer display and frontier troop control to [[LiuBang|刘邦]], and Liu Bang begins by investigating Chen Xi's guests' financial dealings. The inquiry then expands toward political danger, making Chen Xi believe that returning to court is unsafe.
+## Definition
+“调查推动式反叛升级” describes a court–frontier feedback loop in one [[RuiqiJiangtouZizhiTongjian|《资治通鉴》讲述系列]]: accusation and inquiry can turn a powerful official's fear of punishment into open defiance. It does not establish that investigation alone caused an otherwise unplanned rebellion.
 
-The mechanism is not that investigation is always wrong. The concept names a self-escalating danger under a suspicious ruler: when an inquiry is launched with an assumed direction of guilt, economic irregularity, retainer networks, military command, and refusal to answer summons can be read as a treason chain. The investigated actor may then choose rebellion as self-protection, making the investigation's suspicion partly self-confirming.
-
-[[zizhi-tongjian-hanji-186-yi-chang-yin-bajie-lingdao-laopo-yinfa-de-miemen-can-an-lqx14uzf60oi6wnnzdkottd6kx1n|Hanji 186]] adds a second case through [[YingBu|英布 / 黥布]]. [[XiaoHe|萧何]] recommends a bounded response after [[BenHe|奔鹤]] accuses Ying Bu: detain the accuser and send investigators to [[HuainanKingdomEarlyHan|淮南国]]. From the center's view this is more cautious than immediate force, but Ying Bu reads the secret inquiry after [[PengYue|彭越]]'s death as proof that punishment is coming, so the investigation still accelerates rebellion.
-
-[[zizhi-tongjian-hanji-187-yingbu-panluan-liubang-weihe-tuobingti-qinzheng-lvjafotlnvmyqmwaeav3novz1dox|Hanji 187]] supplies the result of the Hanji 186 investigation spiral: Ying Bu moves from interpreting investigators as danger to capturing Han envoys and openly rebelling. The source does not say the investigation alone caused the revolt; it preserves the cumulative chain in which Han Xin, Peng Yue, Ben He's accusation, and Han inquiry make non-rebellion look fatal.
-
-In Hanji 182, the escalation is sharpened by [[HanXin|韩信]]'s earlier forecast that repeated accusations can trigger Liu Bang's personal campaign. Chen Xi's later refusal to attend Liu Taigong's funeral therefore belongs to a wider political psychology: summons and ritual duty no longer look neutral once investigation has reclassified the actor as dangerous.
-
-[[zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr|Hanji 191]] adds a variant where investigation follows already suspicious covert delay rather than creating the first fear. [[LuWan|卢绾]] has secretly protected [[ZhangShengWesternHan|张胜]] and sent [[FanQiLuWanEnvoy|范齐]] toward [[ChenXi|陈豨]], but Liu Bang's summons and the [[ShenYiji|审食其]]-[[ZhaoYao|赵尧]] inquiry push Lu Wan into hiding and speaking openly about fear of [[LuZhi|吕雉]] and different-surname king elimination.
+## Current Synthesis
+The three cases differ in prior conduct and response. [[ChenXi|陈豨]] had already discussed a secret rising; [[YingBu|英布]] prepared after Peng Yue's death; [[LuWan|卢绾]] concealed dealings with frontier rebels before his summons. The relevant question is how each construed a particular inquiry and what actions followed, not whether a blameless subordinate was manufactured into a traitor by scrutiny.
 
 ## Key Claims
-- Hanji 191 adds the late-stage form: summons and inspection can convert covert hedge behavior into visible panic, leaks, and confirmed rebellion.
-- Hanji 187 adds the open-action result of the spiral: fear of investigation becomes seizure of envoys and rebellion.
-- Hanji 186 adds that even a verification-oriented investigation can escalate if the target already expects the center to use accusation as a route to elimination.
-- A politically directed investigation can shift from finances to treason without a clean evidentiary boundary.
-- Retainer abundance and frontier troops become mutually reinforcing signs of risk when the center already suspects rebellion.
-- Court summons can lose their ordinary ritual meaning if the summoned actor believes the investigation is a trap.
-- The concept extends [[DifferentSurnameKingSuspicion|different-surname king suspicion]] beyond kings: high-command frontier officials can face the same trust spiral.
-- The pattern is adjacent to [[FrontierVassalContainment|frontier vassal containment]] because external defense authority makes necessary local power look dangerous to the center.
+- Frontier command and retainer networks make financial inquiry appear politically consequential under mutual suspicion.
+- A relatively cautious investigation can still be read as a death sentence when earlier removals of kings shape the target's expectations.
+- The passage from secret preparation to open revolt must be traced across accusation, inquiry, seizure of envoys and armed action.
+- In the Yan case, investigation follows covert obstruction and brings previously hidden disloyalty into view rather than creating it from nothing.
 
-## Connections
-- [[zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr|Hanji 191]], [[LuWan|卢绾]], [[ShenYiji|审食其]], [[ZhaoYao|赵尧]], [[ZhangShengWesternHan|张胜]], [[FanQiLuWanEnvoy|范齐]], and [[LuZhi|吕雉]] - investigation converting covert delay into panic, exposure, and attack.
-- [[zizhi-tongjian-hanji-187-yingbu-panluan-liubang-weihe-tuobingti-qinzheng-lvjafotlnvmyqmwaeav3novz1dox|Hanji 187]], [[YingBu|英布 / 黥布]], [[HanXin|韩信]], [[PengYue|彭越]], [[BenHe|奔鹤]], and [[LiuBang|刘邦]] - cumulative fear chain turning inquiry into open revolt.
-- [[zizhi-tongjian-hanji-186-yi-chang-yin-bajie-lingdao-laopo-yinfa-de-miemen-can-an-lqx14uzf60oi6wnnzdkottd6kx1n|Hanji 186]], [[YingBu|英布 / 黥布]], [[BenHe|奔鹤]], [[XiaoHe|萧何]], [[PengYue|彭越]], and [[HuainanKingdomEarlyHan|淮南国]] - accusation, detention advice, secret inquiry, and rebellion decision.
-- [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9|Hanji 182]], [[ChenXi|陈豨]], [[ZhouChang|周昌]], [[LiuBang|刘邦]], and [[ChenXiRebellion|陈豨之乱]] - source case.
-- [[HanXin|韩信]] - actor whose forecast of Liu Bang's accusation response shapes Chen Xi's expectations.
-- [[DaiKingdomEarlyHan|代国]], [[ZhaoState|赵国]], and [[Xiongnu|匈奴]] - frontier-power setting.
-- [[DifferentSurnameKingSuspicion|异姓诸侯王猜忌]], [[FrontierVassalContainment|边境迁封式牵制]], and [[PowerExitTrap|权力退场困境]] - adjacent suspicion and post-victory danger concepts.
+## Evidence
+- [[HanXin|韩信]] had spoken to Chen Xi of using northern troops while he acted in the capital; in the episode's retelling he forecasts that successive accusations would move Liu Bang from disbelief to suspicion to a personal campaign. [[ZhouChang|周昌]] then reports Chen Xi's large retainer train at [[Handan|邯郸]] and frontier forces in [[ZhaoState|赵]] and [[DaiKingdomEarlyHan|代]] near the [[Xiongnu|匈奴]]. [[LiuBang|刘邦]] probes the retainers' finances, and Chen Xi reads a summons to Liu Taigong's funeral as danger; the episode next narrates [[ChenXiRebellion|his northern revolt]]. The prior conspiracy rules out a single-cause inquiry story. [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9]]
+- After the court kills [[PengYue|彭越]] and distributes his remains, Ying Bu secretly prepares troops. [[BenHe|奔鹤]] flees from [[HuainanKingdomEarlyHan|淮南]] after a quarrel around a favorite concubine and accuses the king; [[XiaoHe|萧何]] advises detaining the accuser and investigating rather than immediately attacking. Ying Bu nevertheless reads the inquiry through Han Xin and Peng Yue's precedent, against advice to remain calm. [[zizhi-tongjian-hanji-186-yi-chang-yin-bajie-lingdao-laopo-yinfa-de-miemen-can-an-lqx14uzf60oi6wnnzdkottd6kx1n]]
+- The following episode records Ying Bu's capture of Han envoys and open uprising; it separately follows [[XueGongHanAdviser|薛公]]'s reading of campaign options and Liu Bang's personal command. The seizure and march, not simply receipt of a report, mark escalation into war. [[zizhi-tongjian-hanji-187-yingbu-panluan-liubang-weihe-tuobingti-qinzheng-lvjafotlnvmyqmwaeav3novz1dox]]
+- Lu Wan had already protected [[ZhangShengWesternHan|张胜]] and sent [[FanQiLuWanEnvoy|范齐]] to keep Chen Xi resisting. After his refusal of summons, the [[ShenYiji|审食其]]–[[ZhaoYao|赵尧]] inquiry and surrendered testimony reveal his delay tactics; he hides and voices fear of [[LuZhi|吕雉]]. Liu Bang sends [[FanKuai|樊哙]] against Yan with amnesty offers to officials and commoners. The note stops short of narrating Lu Wan's final Xiongnu defection. [[zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr]]
+
+## Counterevidence & Qualifications
+Four episodes belong to one explanatory series, not four independent records of motive. Inquiry may uncover a real conspiracy: Chen Xi's planning, Ying Bu's prior preparation and Lu Wan's hidden diplomacy matter before investigators appear. Xiao He's proposed verification is comparatively restrained. Inner motive and counterfactual willingness to remain loyal cannot be inferred from temporal sequence alone. [[DifferentSurnameKingSuspicion]] is a shared court setting, not identical political status for all three actors.
+
+## What Changed
+- Distinguished three prior suspicions and the different action that followed each investigation.
+- Restricted the causation claim to an escalation feedback loop, not an innocence claim.
+
+## Related Concepts
+- [[FrontierVassalContainment]] - explains why frontier defense authority can invite central oversight and distrust.
+- [[PowerExitTrap]] - describes why a powerful retainer may regard recall as unsafe.
+- [[InnerCourtAccessBrokerageRisk]] - clarifies how Ben He's private favor-seeking became a formal accusation.

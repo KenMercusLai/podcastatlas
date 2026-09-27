@@ -6,6 +6,7 @@ sources:
   - 683-washington-hero-of-the-revolution-part-1-glt3752138067
   - 350-the-triumph-of-george-washington-part-4-glt1619660676
   - 349-the-birth-of-the-united-states-part-3-glt9804967639
+  - 348-the-boston-tea-party-part-2-glt5189620267
 last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
@@ -18,7 +19,7 @@ George Washington is presented as the commander whose tactical escapes, morale-r
 
 ## Current Profile
 
-The sources' Washington is deliberately less marble-perfect and less tactically brilliant than patriotic memory often suggests. He begins as a Virginia gentleman shaped by slavery, land hunger, British imperial service, and resentment over denied status. In 1776 British hesitation and his evacuation from Brooklyn prevent a decisive loss; with enlistments expiring, Trenton and Princeton restore morale without changing the basic strategy of preserving the army. Valley Forge administration and French intervention then turn survival into capacity, culminating in coalition victory at Yorktown. His resignation and refusal to become a dictator make him a stabilizing republican founder, but his post-Yorktown order to return escaped enslaved people prevents restraint from becoming moral innocence.
+The sources' Washington is deliberately less marble-perfect and less tactically brilliant than patriotic memory often suggests. He begins as a Virginia gentleman shaped by slavery, land hunger, British imperial service, and resentment over denied status. After Lexington and Concord, the Second Continental Congress selects him because military experience, appearance, and Virginia identity can bind suspicious colonies to a common army. In 1776 British hesitation and his evacuation from Brooklyn prevent decisive loss; Trenton and Princeton restore morale, Valley Forge builds capacity, and French intervention culminates at Yorktown. His resignation makes him a stabilizing republican founder, but slaveholding and his post-Yorktown return order prevent restraint from becoming moral innocence.
 
 ## Key Characteristics
 
@@ -34,6 +35,7 @@ The sources' Washington is deliberately less marble-perfect and less tactically 
 
 - Formation and radicalization: [[683-washington-hero-of-the-revolution-part-1-glt3752138067]] says Washington was born in 1732 into Virginia gentry tied to tobacco and enslaved labor, gained Seven Years' War experience, resented denial of a royal commission, disliked taxes, and had western land interests affected by British settlement limits.
 - Command selection: [[683-washington-hero-of-the-revolution-part-1-glt3752138067]] says Washington arrived at the Continental Congress in militia uniform and was chosen because of military experience, Virginia connections, and a sober unifying reputation.
+- Coalition logic: [[348-the-boston-tea-party-part-2-glt5189620267]] emphasizes that choosing a Virginian balanced regional suspicion and made command selection a political act as well as a military appointment.
 - Endurance command: [[683-washington-hero-of-the-revolution-part-1-glt3752138067]] says Washington lost more battles than he won, but his strategic task was to keep the army alive, avoid a decisive defeat, and wait for British will to weaken.
 - 1776 survival and counterstroke: [[349-the-birth-of-the-united-states-part-3-glt9804967639]] says Washington escaped after Long Island, crossed the Delaware when his army had shrunk sharply, surprised the Hessians, and followed Trenton with a Princeton maneuver against Cornwallis's rear.
 - Valley Forge administration: [[683-washington-hero-of-the-revolution-part-1-glt3752138067]] describes food shortages, disease, camp construction, discipline, supply requisitioning, and smallpox inoculation as core parts of Washington's command.
@@ -44,12 +46,13 @@ The sources' Washington is deliberately less marble-perfect and less tactically 
 
 ## Qualifications
 
-The sources cover Washington's formation, selected 1776-1781 campaigns, resignation, and symbolic presidency but not a full military, presidential, or Mount Vernon history. The claim that British commanders missed chances to destroy his army is interpretive and partly counterfactual. His real strategic and institutional restraint remains distinct from invented Valley Forge prayer imagery, and neither restraint nor later antislavery movement cancels his own slaveholding or return policy.
+The sources cover Washington's formation, 1775 selection, selected 1776-1781 campaigns, resignation, and symbolic presidency but not a full military, presidential, or Mount Vernon history. Claims about his selection motives and British missed chances are interpretive. His real strategic and institutional restraint remains distinct from invented Valley Forge prayer imagery, and neither restraint nor later antislavery movement cancels his own slaveholding or return policy.
 
 ## What Changed
 
 - Added the Long Island escape and Trenton-Princeton sequence as the earlier operational form of strategic endurance.
 - Clarified that morale-restoring tactical success supported army preservation rather than replacing it.
+- Added the regional coalition logic behind his 1775 appointment.
 
 ## Relationships
 
@@ -68,3 +71,4 @@ The sources cover Washington's formation, selected 1776-1781 campaigns, resignat
 - [[Yorktown]] - coalition victory that closes the military arc.
 - [[ContestedAmericanFoundingMyth]] - memory debate in which his restraint and slaveholding must be held together.
 - [[BattleOfSaratoga]] - separate American victory that raised the diplomatic value of Washington's continued survival.
+- [[LexingtonAndConcord]] - fighting that made continental military command urgent.

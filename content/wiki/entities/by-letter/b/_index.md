@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 11157
+wiki_total_pages: 11163
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -188,6 +188,9 @@ wiki_pages:
   - key: "BattleOfAgincourt"
     title: "Battle of Agincourt"
     url: "/wiki/entities/battleofagincourt/"
+  - key: "BattleOfBunkerHill"
+    title: "Battle of Bunker Hill"
+    url: "/wiki/entities/battleofbunkerhill/"
   - key: "BattleOfCableStreet"
     title: "Battle of Cable Street"
     url: "/wiki/entities/battleofcablestreet/"
@@ -803,6 +806,9 @@ wiki_pages:
   - key: "BostonScientific"
     title: "Boston Scientific"
     url: "/wiki/entities/bostonscientific/"
+  - key: "BostonTeaParty"
+    title: "Boston Tea Party"
+    url: "/wiki/entities/bostonteaparty/"
   - key: "BostonUniversity"
     title: "Boston University"
     url: "/wiki/entities/bostonuniversity/"

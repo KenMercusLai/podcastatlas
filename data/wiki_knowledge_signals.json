@@ -5290,9 +5290,9 @@
       "url": "/wiki/entities/adamgrant/"
     },
     "AdamIPSmith": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1619660676 [GLT1619660676].md",
@@ -5300,6 +5300,13 @@
           "show": "The Rest Is History",
           "title": "350: The Triumph of George Washington (Part 4)",
           "url": "/wiki/sources/350-the-triumph-of-george-washington-part-4-glt1619660676/"
+        },
+        {
+          "episode_file": "GLT5189620267 [GLT5189620267].md",
+          "key": "348-the-boston-tea-party-part-2-glt5189620267",
+          "show": "The Rest Is History",
+          "title": "348: The Boston Tea Party (Part 2)",
+          "url": "/wiki/sources/348-the-boston-tea-party-part-2-glt5189620267/"
         }
       ],
       "updated": "2026-09-28",
@@ -8592,9 +8599,9 @@
       "url": "/wiki/entities/americanpridebank/"
     },
     "AmericanRevolution": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT6013835340 [GLT6013835340].md",
@@ -8623,6 +8630,13 @@
           "show": "The Rest Is History",
           "title": "349: The Birth of the United States (Part 3)",
           "url": "/wiki/sources/349-the-birth-of-the-united-states-part-3-glt9804967639/"
+        },
+        {
+          "episode_file": "GLT5189620267 [GLT5189620267].md",
+          "key": "348-the-boston-tea-party-part-2-glt5189620267",
+          "show": "The Rest Is History",
+          "title": "348: The Boston Tea Party (Part 2)",
+          "url": "/wiki/sources/348-the-boston-tea-party-part-2-glt5189620267/"
         }
       ],
       "updated": "2026-09-28",
@@ -15788,6 +15802,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/entities/battleofagincourt/"
     },
+    "BattleOfBunkerHill": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5189620267 [GLT5189620267].md",
+          "key": "348-the-boston-tea-party-part-2-glt5189620267",
+          "show": "The Rest Is History",
+          "title": "348: The Boston Tea Party (Part 2)",
+          "url": "/wiki/sources/348-the-boston-tea-party-part-2-glt5189620267/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/battleofbunkerhill/"
+    },
     "BattleOfCableStreet": {
       "episode_count": 1,
       "show_count": 1,
@@ -18730,6 +18760,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/bostondynamics/"
+    },
+    "BostonTeaParty": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5189620267 [GLT5189620267].md",
+          "key": "348-the-boston-tea-party-part-2-glt5189620267",
+          "show": "The Rest Is History",
+          "title": "348: The Boston Tea Party (Part 2)",
+          "url": "/wiki/sources/348-the-boston-tea-party-part-2-glt5189620267/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/bostonteaparty/"
     },
     "BottledWaterChannelFragmentation": {
       "episode_count": 1,
@@ -30470,6 +30516,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/concepts/coercedtalentlegitimacy/"
     },
+    "CoerciveActs": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5189620267 [GLT5189620267].md",
+          "key": "348-the-boston-tea-party-part-2-glt5189620267",
+          "show": "The Rest Is History",
+          "title": "348: The Boston Tea Party (Part 2)",
+          "url": "/wiki/sources/348-the-boston-tea-party-part-2-glt5189620267/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/coerciveacts/"
+    },
     "CoerciveFrontierDeterrence": {
       "episode_count": 7,
       "show_count": 1,
@@ -31123,9 +31185,9 @@
       "url": "/wiki/concepts/colonialliteraryambivalence/"
     },
     "ColonialLoyaltyRupture": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6013835340 [GLT6013835340].md",
@@ -31133,9 +31195,16 @@
           "show": "The Rest Is History",
           "title": "684. Franklin: Revenge of the American Genius (Part 2)",
           "url": "/wiki/sources/684-franklin-revenge-of-the-american-genius-part-2-glt6013835340/"
+        },
+        {
+          "episode_file": "GLT5189620267 [GLT5189620267].md",
+          "key": "348-the-boston-tea-party-part-2-glt5189620267",
+          "show": "The Rest Is History",
+          "title": "348: The Boston Tea Party (Part 2)",
+          "url": "/wiki/sources/348-the-boston-tea-party-part-2-glt5189620267/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/colonialloyaltyrupture/"
     },
     "ColonialMarines": {
@@ -33344,9 +33413,9 @@
       "url": "/wiki/entities/continentalarmy/"
     },
     "ContinentalCongress": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6013835340 [GLT6013835340].md",
@@ -33361,9 +33430,16 @@
           "show": "The Rest Is History",
           "title": "683. Washington: Hero of the Revolution (Part 1)",
           "url": "/wiki/sources/683-washington-hero-of-the-revolution-part-1-glt3752138067/"
+        },
+        {
+          "episode_file": "GLT5189620267 [GLT5189620267].md",
+          "key": "348-the-boston-tea-party-part-2-glt5189620267",
+          "show": "The Rest Is History",
+          "title": "348: The Boston Tea Party (Part 2)",
+          "url": "/wiki/sources/348-the-boston-tea-party-part-2-glt5189620267/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/continentalcongress/"
     },
     "ContinuousDJMixing": {
@@ -63936,9 +64012,9 @@
       "url": "/wiki/entities/georgecrook/"
     },
     "GeorgeIII": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6013835340 [GLT6013835340].md",
@@ -63946,9 +64022,16 @@
           "show": "The Rest Is History",
           "title": "684. Franklin: Revenge of the American Genius (Part 2)",
           "url": "/wiki/sources/684-franklin-revenge-of-the-american-genius-part-2-glt6013835340/"
+        },
+        {
+          "episode_file": "GLT5189620267 [GLT5189620267].md",
+          "key": "348-the-boston-tea-party-part-2-glt5189620267",
+          "show": "The Rest Is History",
+          "title": "348: The Boston Tea Party (Part 2)",
+          "url": "/wiki/sources/348-the-boston-tea-party-part-2-glt5189620267/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/georgeiii/"
     },
     "GeorgeLucas": {
@@ -64042,9 +64125,9 @@
       "url": "/wiki/entities/georgewallace/"
     },
     "GeorgeWashington": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT3752138067 [GLT3752138067].md",
@@ -64066,6 +64149,13 @@
           "show": "The Rest Is History",
           "title": "349: The Birth of the United States (Part 3)",
           "url": "/wiki/sources/349-the-birth-of-the-united-states-part-3-glt9804967639/"
+        },
+        {
+          "episode_file": "GLT5189620267 [GLT5189620267].md",
+          "key": "348-the-boston-tea-party-part-2-glt5189620267",
+          "show": "The Rest Is History",
+          "title": "348: The Boston Tea Party (Part 2)",
+          "url": "/wiki/sources/348-the-boston-tea-party-part-2-glt5189620267/"
         }
       ],
       "updated": "2026-09-28",
@@ -81120,6 +81210,43 @@
       "updated": "2026-09-19",
       "url": "/wiki/concepts/investigationconflictofinterest/"
     },
+    "InvestigationDrivenRebellionEscalation": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴 [ljaqjcu5W9JMfB-4hCO5pS1irVWR].md",
+          "key": "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》187｜英布叛乱 刘邦为何拖病体亲征 [lvjAfoTLnvMYQMWaEAv3noVZ1dOX].md",
+          "key": "zizhi-tongjian-hanji-187-yingbu-panluan-liubang-weihe-tuobingti-qinzheng-lvjafotlnvmyqmwaeav3novz1dox",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》187｜英布叛乱 刘邦为何拖病体亲征",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-187-yingbu-panluan-liubang-weihe-tuobingti-qinzheng-lvjafotlnvmyqmwaeav3novz1dox/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》186｜一场因巴结领导老婆引发的灭门惨案 [lqx14UZF60Oi6wNnzDKOtTd6Kx1N].md",
+          "key": "zizhi-tongjian-hanji-186-yi-chang-yin-bajie-lingdao-laopo-yinfa-de-miemen-can-an-lqx14uzf60oi6wnnzdkottd6kx1n",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》186｜一场因巴结领导老婆引发的灭门惨案",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-186-yi-chang-yin-bajie-lingdao-laopo-yinfa-de-miemen-can-an-lqx14uzf60oi6wnnzdkottd6kx1n/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》182｜为什么说“成也萧何败也萧何”（1） [lhE3H27wdbJu3cGSVUkDvgkri1a9].md",
+          "key": "zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》182｜为什么说“成也萧何败也萧何”（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9/"
+        }
+      ],
+      "updated": "2026-08-23",
+      "url": "/wiki/concepts/investigationdrivenrebellionescalation/"
+    },
     "InvestmentAvoidanceTrauma": {
       "episode_count": 1,
       "show_count": 1,
@@ -85265,9 +85392,9 @@
       "url": "/wiki/entities/johannesburg/"
     },
     "JohnAdams": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6013835340 [GLT6013835340].md",
@@ -85282,6 +85409,13 @@
           "show": "The Rest Is History",
           "title": "350: The Triumph of George Washington (Part 4)",
           "url": "/wiki/sources/350-the-triumph-of-george-washington-part-4-glt1619660676/"
+        },
+        {
+          "episode_file": "GLT5189620267 [GLT5189620267].md",
+          "key": "348-the-boston-tea-party-part-2-glt5189620267",
+          "show": "The Rest Is History",
+          "title": "348: The Boston Tea Party (Part 2)",
+          "url": "/wiki/sources/348-the-boston-tea-party-part-2-glt5189620267/"
         }
       ],
       "updated": "2026-09-28",
@@ -91506,6 +91640,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/lexfridman/"
+    },
+    "LexingtonAndConcord": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5189620267 [GLT5189620267].md",
+          "key": "348-the-boston-tea-party-part-2-glt5189620267",
+          "show": "The Rest Is History",
+          "title": "348: The Boston Tea Party (Part 2)",
+          "url": "/wiki/sources/348-the-boston-tea-party-part-2-glt5189620267/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/lexingtonandconcord/"
     },
     "LexisNexis": {
       "episode_count": 1,
@@ -98511,6 +98661,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/entities/lordbyron/"
+    },
+    "LordDunmoresProclamation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5189620267 [GLT5189620267].md",
+          "key": "348-the-boston-tea-party-part-2-glt5189620267",
+          "show": "The Rest Is History",
+          "title": "348: The Boston Tea Party (Part 2)",
+          "url": "/wiki/sources/348-the-boston-tea-party-part-2-glt5189620267/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/lorddunmoresproclamation/"
     },
     "LordElgin": {
       "episode_count": 1,
@@ -113808,6 +113974,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/nopositionencoding/"
+    },
+    "NoTaxationWithoutRepresentation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5189620267 [GLT5189620267].md",
+          "key": "348-the-boston-tea-party-part-2-glt5189620267",
+          "show": "The Rest Is History",
+          "title": "348: The Boston Tea Party (Part 2)",
+          "url": "/wiki/sources/348-the-boston-tea-party-part-2-glt5189620267/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/notaxationwithoutrepresentation/"
     },
     "NocheTriste": {
       "episode_count": 2,
@@ -129270,6 +129452,22 @@
       "updated": "2026-09-15",
       "url": "/wiki/concepts/quantumcryptographicmigration/"
     },
+    "QuebecAct": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5189620267 [GLT5189620267].md",
+          "key": "348-the-boston-tea-party-part-2-glt5189620267",
+          "show": "The Rest Is History",
+          "title": "348: The Boston Tea Party (Part 2)",
+          "url": "/wiki/sources/348-the-boston-tea-party-part-2-glt5189620267/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/quebecact/"
+    },
     "QueenAntTraffickingEcology": {
       "episode_count": 1,
       "show_count": 1,
@@ -133387,9 +133585,9 @@
       "url": "/wiki/concepts/revolutionarymartyrdomimagemaking/"
     },
     "RevolutionaryMilitarySlaveryContradiction": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT3752138067 [GLT3752138067].md",
@@ -133404,6 +133602,13 @@
           "show": "The Rest Is History",
           "title": "350: The Triumph of George Washington (Part 4)",
           "url": "/wiki/sources/350-the-triumph-of-george-washington-part-4-glt1619660676/"
+        },
+        {
+          "episode_file": "GLT5189620267 [GLT5189620267].md",
+          "key": "348-the-boston-tea-party-part-2-glt5189620267",
+          "show": "The Rest Is History",
+          "title": "348: The Boston Tea Party (Part 2)",
+          "url": "/wiki/sources/348-the-boston-tea-party-part-2-glt5189620267/"
         }
       ],
       "updated": "2026-09-28",
@@ -155204,9 +155409,9 @@
       "url": "/wiki/entities/thomasismay/"
     },
     "ThomasJefferson": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6535571769 [GLT6535571769].md",
@@ -155221,6 +155426,13 @@
           "show": "The Rest Is History",
           "title": "349: The Birth of the United States (Part 3)",
           "url": "/wiki/sources/349-the-birth-of-the-united-states-part-3-glt9804967639/"
+        },
+        {
+          "episode_file": "GLT5189620267 [GLT5189620267].md",
+          "key": "348-the-boston-tea-party-part-2-glt5189620267",
+          "show": "The Rest Is History",
+          "title": "348: The Boston Tea Party (Part 2)",
+          "url": "/wiki/sources/348-the-boston-tea-party-part-2-glt5189620267/"
         }
       ],
       "updated": "2026-09-28",

@@ -6,8 +6,11 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 11157
+wiki_total_pages: 11163
 wiki_pages:
+  - key: "LexingtonAndConcord"
+    title: "Battles of Lexington and Concord"
+    url: "/wiki/entities/lexingtonandconcord/"
   - key: "LCatterton"
     title: "L Catterton"
     url: "/wiki/entities/lcatterton/"
@@ -677,6 +680,9 @@ wiki_pages:
   - key: "LordByron"
     title: "Lord Byron / 拜伦"
     url: "/wiki/entities/lordbyron/"
+  - key: "LordDunmoresProclamation"
+    title: "Lord Dunmore's Proclamation"
+    url: "/wiki/entities/lorddunmoresproclamation/"
   - key: "LordElgin"
     title: "Lord Elgin"
     url: "/wiki/entities/lordelgin/"

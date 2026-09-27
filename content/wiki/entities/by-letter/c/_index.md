@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 11157
+wiki_total_pages: 11163
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -1151,6 +1151,9 @@ wiki_pages:
   - key: "CODIS"
     title: "CODIS"
     url: "/wiki/entities/codis/"
+  - key: "CoerciveActs"
+    title: "Coercive Acts"
+    url: "/wiki/entities/coerciveacts/"
   - key: "Coffee"
     title: "Coffee / 咖啡"
     url: "/wiki/entities/coffee/"
