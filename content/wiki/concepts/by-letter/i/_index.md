@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 8453
+wiki_total_pages: 8455
 wiki_pages:
   - key: "IBDPatientEducationAndPeerSupport"
     title: "IBD Patient Education and Peer Support / IBD患者教育与同伴支持"
@@ -662,6 +662,9 @@ wiki_pages:
   - key: "InternalAccountabilityLoop"
     title: "Internal Accountability Loop"
     url: "/wiki/concepts/internalaccountabilityloop/"
+  - key: "InternalBoundaryClarification"
+    title: "Internal Boundary Clarification"
+    url: "/wiki/concepts/internalboundaryclarification/"
   - key: "InternalCanteenFoodCourtOperation"
     title: "Internal Canteen Food-Court Operation / 内部食堂美食广场化"
     url: "/wiki/concepts/internalcanteenfoodcourtoperation/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [GUEST SERIES | Dr. Paul Conti: How to Build and Maintain Healthy Relationships](sources/guest-series-dr-paul-conti-how-to-build-and-maintain-healthy-relationships-scim8219226445.md) — Huberman Lab conversation on generative compatibility, the shared “us,” mentalization, flexible mutuality, power, trauma-linked patterns, and internal-first boundaries.
 - [370. The 1973 Chilean Coup: Allende, Nixon and the CIA (Part 1)](sources/370-the-1973-chilean-coup-allende-nixon-and-the-cia-part-1-glt6405070034.md) — The Rest Is History episode on Allende's rise and reforms, U.S. intervention, economic crisis, and Chile's road toward the 1973 coup.
 - [371. The 1973 Chilean Coup: General Pinochet Seizes Power (Part 2)](sources/371-the-1973-chilean-coup-general-pinochet-seizes-power-part-2-glt3740766328.md) — The Rest Is History episode on Chile's 1973 military coup, Allende's death, Pinochet's consolidation, U.S. interference, and the escalation into state terror.
 - [Efforts & Challenges in Promoting Public Health | U.S. Surgeon General Dr. Vivek Murthy](sources/efforts-challenges-in-promoting-public-health-us-surgeon-general-dr-vivek-murthy-scim4553126123.md) — Huberman Lab conversation on public-health trust, prevention, food-system constraints, fragmented care, loneliness, and youth social-media safety.
@@ -4045,7 +4046,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [GPT 5.5 Cyber](entities/GPT55Cyber.md) — OpenAI cyber model discussed as a specialist vulnerability-discovery and simulation capability.
 - [Monsanto](entities/Monsanto.md) — Legacy agricultural company connected to Roundup and pesticide-label preemption litigation.
 - [Roundup](entities/Roundup.md) — Pesticide product at the center of Monsanto/Bayer failure-to-warn litigation.
-- [Paul Conti](entities/PaulConti.md) — Psychiatrist framing mental health through strength-first inquiry, unconscious patterns, agency, gratitude, and generative contribution.
+- [Paul Conti](entities/PaulConti.md) — Psychiatrist framing mental and relationship health through strength-first inquiry, agency, gratitude, mentalization, boundaries, and generativity.
 - [What's Going Right?](entities/WhatsGoingRight.md) — Paul Conti book used as the strength-first organizing frame for a Huberman Lab mental-health conversation.
 - [Mona Lisa](entities/MonaLisa.md) — Leonardo portrait of Lisa Gherardini whose fame accumulated through ambiguity, reproduction, theft, parody, and Louvre tourism.
 - [Leonardo da Vinci](entities/LeonardoDaVinci.md) — Renaissance artist-engineer whose technique, reputation, and custody of the Mona Lisa anchor the episode's art-history branch.
@@ -14090,6 +14091,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Arnold Leese](entities/ArnoldLeese.md) — Veterinarian, camel specialist, antisemite, and founder of the Imperial Fascist League.
 
 ## Concepts
+- [Generative Relationship System](concepts/GenerativeRelationshipSystem.md) — Conti's self-other-us frame for building mutual strength through mentalization, generativity, communication, boundaries, and accountability.
+- [Internal Boundary Clarification](concepts/InternalBoundaryClarification.md) — Internal-first process for identifying a genuine limit, communicating it accurately, and reading the response as relationship evidence.
 - [Cold War Regime-Change Pressure](concepts/ColdWarRegimeChangePressure.md) — Cross-channel model of electoral, economic, informational, and military pressure against an unacceptable government.
 - [1973 Chilean Coup](concepts/ChileanCoup1973.md) — Multi-causal account of Chile's democratic rupture through domestic conflict, foreign pressure, and military agency.
 - [Constitutionalist Military Norm](concepts/ConstitutionalistMilitaryNorm.md) — Armed-forces non-intervention norm whose fragility is exposed by command succession and polarization.

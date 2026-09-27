@@ -61546,9 +61546,9 @@
       "url": "/wiki/concepts/generativeaimusic/"
     },
     "GenerativeDrive": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM9301011958 [SCIM9301011958].md",
@@ -61570,6 +61570,13 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Paul Conti: Tools and Protocols for Mental Health",
           "url": "/wiki/sources/guest-series-dr-paul-conti-tools-and-protocols-for-mental-health-scim2027108733/"
+        },
+        {
+          "episode_file": "SCIM8219226445 [SCIM8219226445].md",
+          "key": "guest-series-dr-paul-conti-how-to-build-and-maintain-healthy-relationships-scim8219226445",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Paul Conti: How to Build and Maintain Healthy Relationships",
+          "url": "/wiki/sources/guest-series-dr-paul-conti-how-to-build-and-maintain-healthy-relationships-scim8219226445/"
         }
       ],
       "updated": "2026-09-27",
@@ -61646,6 +61653,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/concepts/generativeengineoptimization/"
+    },
+    "GenerativeRelationshipSystem": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8219226445 [SCIM8219226445].md",
+          "key": "guest-series-dr-paul-conti-how-to-build-and-maintain-healthy-relationships-scim8219226445",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Paul Conti: How to Build and Maintain Healthy Relationships",
+          "url": "/wiki/sources/guest-series-dr-paul-conti-how-to-build-and-maintain-healthy-relationships-scim8219226445/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/generativerelationshipsystem/"
     },
     "GenesisMission": {
       "episode_count": 2,
@@ -78667,6 +78690,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/concepts/internalaccountabilityloop/"
+    },
+    "InternalBoundaryClarification": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8219226445 [SCIM8219226445].md",
+          "key": "guest-series-dr-paul-conti-how-to-build-and-maintain-healthy-relationships-scim8219226445",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Paul Conti: How to Build and Maintain Healthy Relationships",
+          "url": "/wiki/sources/guest-series-dr-paul-conti-how-to-build-and-maintain-healthy-relationships-scim8219226445/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/internalboundaryclarification/"
     },
     "InternalCapacityBeforeWar": {
       "episode_count": 1,
@@ -116552,9 +116591,9 @@
       "url": "/wiki/entities/paulbarras/"
     },
     "PaulConti": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM9301011958 [SCIM9301011958].md",
@@ -116576,6 +116615,13 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Paul Conti: Tools and Protocols for Mental Health",
           "url": "/wiki/sources/guest-series-dr-paul-conti-tools-and-protocols-for-mental-health-scim2027108733/"
+        },
+        {
+          "episode_file": "SCIM8219226445 [SCIM8219226445].md",
+          "key": "guest-series-dr-paul-conti-how-to-build-and-maintain-healthy-relationships-scim8219226445",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Paul Conti: How to Build and Maintain Healthy Relationships",
+          "url": "/wiki/sources/guest-series-dr-paul-conti-how-to-build-and-maintain-healthy-relationships-scim8219226445/"
         }
       ],
       "updated": "2026-09-27",
@@ -117330,9 +117376,9 @@
       "url": "/wiki/concepts/perceivedpolarizationgap/"
     },
     "PerceivedSimilarityInRelationships": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM9984287085 [SCIM9984287085].md",
@@ -117340,9 +117386,16 @@
           "show": "Huberman Lab",
           "title": "Science of Attraction, Compatibility & Romance | Dr. Paul Eastwick",
           "url": "/wiki/sources/science-of-attraction-compatibility-romance-dr-paul-eastwick-scim9984287085/"
+        },
+        {
+          "episode_file": "SCIM8219226445 [SCIM8219226445].md",
+          "key": "guest-series-dr-paul-conti-how-to-build-and-maintain-healthy-relationships-scim8219226445",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Paul Conti: How to Build and Maintain Healthy Relationships",
+          "url": "/wiki/sources/guest-series-dr-paul-conti-how-to-build-and-maintain-healthy-relationships-scim8219226445/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/perceivedsimilarityinrelationships/"
     },
     "PercyShelley": {

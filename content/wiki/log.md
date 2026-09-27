@@ -23868,3 +23868,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | GUEST SERIES | Dr. Paul Conti: How to Build and Maintain Healthy Relationships
+
+Added source `guest-series-dr-paul-conti-how-to-build-and-maintain-healthy-relationships-scim8219226445`; created `GenerativeRelationshipSystem` and `InternalBoundaryClarification`; and updated `PaulConti`, `GenerativeDrive`, `PerceivedSimilarityInRelationships`, and the canonical index from their complete bounded source sets. Core synthesis: relationship health is a self-other-us process in which generative curiosity can matter more than surface sameness, mutual goodness need not mean exact equality, mentalization must resist defensive certainty, and boundaries become clearer when internally identified before being communicated. No settled contradiction found. Shared trauma, love, attraction, and giving are not treated as proof of health when a relationship reduces agency, blocks discussion, isolates support, or becomes chronically one-sided; the drive, repetition, attachment, narcissistic-character, anxiety, and longevity claims remain source-scoped public education. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
