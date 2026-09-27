@@ -23480,3 +23480,11 @@ Added source `393-jfk-cuba-camelot-and-the-cold-war-part-2-glt9682768005`; creat
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | VOL.87儿科急诊｜害怕医院有交叉感染就不带孩子去看病？被忽略的那些致命细节
+
+Added source `vol-87-erke-jizhen-haipa-yiyuan-you-jiaochaganran-jiu-bu-dai-haizi-qu-kanbing-bei-hulue-de-naxie-zhiming-xijie-lgcixq48amokf8z_tbv7l7bookhg`; created `WangJiechong`, `BeijingChildrensHospital`, `PediatricEmergencyTriageAndEscalation`, and `PediatricAirwayForeignBodyEscalation`; and updated `FirstAidTriageAndEscalation`, `AcuteWoundBurnFirstAid`, `SeizureFirstAidBoundary`, and the canonical index from their complete bounded source sets. Core synthesis: pediatric emergency action begins with assessment and a fitted protective step, while airway, trauma, neurological, abdominal, or shock-like warning signs should not be delayed because of cross-infection anxiety; a past aspiration remains relevant when respiratory illness or atelectasis persists. No settled contradiction found. The 09:31-44:39 transcript gap, generalized CT-versus-flight comparison, procedural details, and case outcomes remain explicitly source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

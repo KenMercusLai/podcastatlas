@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8364
+wiki_total_pages: 8366
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -329,6 +329,12 @@ wiki_pages:
   - key: "PearlRiverDeltaManufacturingTransformation"
     title: "Pearl River Delta Manufacturing Transformation / 珠三角制造业变迁"
     url: "/wiki/concepts/pearlriverdeltamanufacturingtransformation/"
+  - key: "PediatricAirwayForeignBodyEscalation"
+    title: "Pediatric Airway Foreign-Body Escalation / 儿童气道异物升级处置"
+    url: "/wiki/concepts/pediatricairwayforeignbodyescalation/"
+  - key: "PediatricEmergencyTriageAndEscalation"
+    title: "Pediatric Emergency Triage and Escalation / 儿科急诊判断与升级"
+    url: "/wiki/concepts/pediatricemergencytriageandescalation/"
   - key: "PediatricFeverHomeCareTriage"
     title: "Pediatric Fever Home-Care Triage / 儿童发热家庭分诊"
     url: "/wiki/concepts/pediatricfeverhomecaretriage/"

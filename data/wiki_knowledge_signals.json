@@ -5010,9 +5010,9 @@
       "url": "/wiki/concepts/acutestressimmunepriming/"
     },
     "AcuteWoundBurnFirstAid": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lneMOgQ8gB9o3E2835jvtFX3EMiy [lneMOgQ8gB9o3E2835jvtFX3EMiy].md",
@@ -5027,9 +5027,16 @@
           "show": "这病说来话长",
           "title": "VOL.115冇满分父母，你做60分已不易 13位医生10学科出招身心性健康教育攻略｜儿童节专题",
           "url": "/wiki/sources/vol-115-mao-manfen-fumu-ni-zuo-60-fen-yi-buyi-13-wei-yisheng-10-xueke-chuzhao-shenxinxing-jiankang-jiaoyu-gonglue-ertongjie-zhuanti-ljlyg0kuqvuj2r89k6o5hhuefjt9/"
+        },
+        {
+          "episode_file": "lgciXQ48AMOKf8Z_TbV7L7bOOkHG [lgciXQ48AMOKf8Z_TbV7L7bOOkHG].md",
+          "key": "vol-87-erke-jizhen-haipa-yiyuan-you-jiaochaganran-jiu-bu-dai-haizi-qu-kanbing-bei-hulue-de-naxie-zhiming-xijie-lgcixq48amokf8z_tbv7l7bookhg",
+          "show": "这病说来话长",
+          "title": "VOL.87儿科急诊｜害怕医院有交叉感染就不带孩子去看病？被忽略的那些致命细节",
+          "url": "/wiki/sources/vol-87-erke-jizhen-haipa-yiyuan-you-jiaochaganran-jiu-bu-dai-haizi-qu-kanbing-bei-hulue-de-naxie-zhiming-xijie-lgcixq48amokf8z_tbv7l7bookhg/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/acutewoundburnfirstaid/"
     },
     "AdahSharma": {
@@ -15127,6 +15134,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/beijingandinghospital/"
+    },
+    "BeijingChildrensHospital": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgciXQ48AMOKf8Z_TbV7L7bOOkHG [lgciXQ48AMOKf8Z_TbV7L7bOOkHG].md",
+          "key": "vol-87-erke-jizhen-haipa-yiyuan-you-jiaochaganran-jiu-bu-dai-haizi-qu-kanbing-bei-hulue-de-naxie-zhiming-xijie-lgcixq48amokf8z_tbv7l7bookhg",
+          "show": "这病说来话长",
+          "title": "VOL.87儿科急诊｜害怕医院有交叉感染就不带孩子去看病？被忽略的那些致命细节",
+          "url": "/wiki/sources/vol-87-erke-jizhen-haipa-yiyuan-you-jiaochaganran-jiu-bu-dai-haizi-qu-kanbing-bei-hulue-de-naxie-zhiming-xijie-lgcixq48amokf8z_tbv7l7bookhg/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/beijingchildrenshospital/"
     },
     "Belfast": {
       "episode_count": 4,
@@ -51587,9 +51610,9 @@
       "url": "/wiki/concepts/finetuningexamplesignalamplification/"
     },
     "FirstAidTriageAndEscalation": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lneMOgQ8gB9o3E2835jvtFX3EMiy [lneMOgQ8gB9o3E2835jvtFX3EMiy].md",
@@ -51611,9 +51634,16 @@
           "show": "这病说来话长",
           "title": "VOL.120怎么打怎么说怎么接？和5位医务工作者聊聊120急救的那些故事",
           "url": "/wiki/sources/vol-120-zenme-da-zenme-shuo-zenme-jie-he-5-wei-yiwu-gongzuozhe-liaoliao-120-jijiu-de-naxie-gushi-lqpbn4u9wc7uutce2hgk7cl77wla/"
+        },
+        {
+          "episode_file": "lgciXQ48AMOKf8Z_TbV7L7bOOkHG [lgciXQ48AMOKf8Z_TbV7L7bOOkHG].md",
+          "key": "vol-87-erke-jizhen-haipa-yiyuan-you-jiaochaganran-jiu-bu-dai-haizi-qu-kanbing-bei-hulue-de-naxie-zhiming-xijie-lgcixq48amokf8z_tbv7l7bookhg",
+          "show": "这病说来话长",
+          "title": "VOL.87儿科急诊｜害怕医院有交叉感染就不带孩子去看病？被忽略的那些致命细节",
+          "url": "/wiki/sources/vol-87-erke-jizhen-haipa-yiyuan-you-jiaochaganran-jiu-bu-dai-haizi-qu-kanbing-bei-hulue-de-naxie-zhiming-xijie-lgcixq48amokf8z_tbv7l7bookhg/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/firstaidtriageandescalation/"
     },
     "FirstAntiWangMangRising": {
@@ -111451,6 +111481,38 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/peasantsrevolt1381/"
     },
+    "PediatricAirwayForeignBodyEscalation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgciXQ48AMOKf8Z_TbV7L7bOOkHG [lgciXQ48AMOKf8Z_TbV7L7bOOkHG].md",
+          "key": "vol-87-erke-jizhen-haipa-yiyuan-you-jiaochaganran-jiu-bu-dai-haizi-qu-kanbing-bei-hulue-de-naxie-zhiming-xijie-lgcixq48amokf8z_tbv7l7bookhg",
+          "show": "这病说来话长",
+          "title": "VOL.87儿科急诊｜害怕医院有交叉感染就不带孩子去看病？被忽略的那些致命细节",
+          "url": "/wiki/sources/vol-87-erke-jizhen-haipa-yiyuan-you-jiaochaganran-jiu-bu-dai-haizi-qu-kanbing-bei-hulue-de-naxie-zhiming-xijie-lgcixq48amokf8z_tbv7l7bookhg/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/pediatricairwayforeignbodyescalation/"
+    },
+    "PediatricEmergencyTriageAndEscalation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgciXQ48AMOKf8Z_TbV7L7bOOkHG [lgciXQ48AMOKf8Z_TbV7L7bOOkHG].md",
+          "key": "vol-87-erke-jizhen-haipa-yiyuan-you-jiaochaganran-jiu-bu-dai-haizi-qu-kanbing-bei-hulue-de-naxie-zhiming-xijie-lgcixq48amokf8z_tbv7l7bookhg",
+          "show": "这病说来话长",
+          "title": "VOL.87儿科急诊｜害怕医院有交叉感染就不带孩子去看病？被忽略的那些致命细节",
+          "url": "/wiki/sources/vol-87-erke-jizhen-haipa-yiyuan-you-jiaochaganran-jiu-bu-dai-haizi-qu-kanbing-bei-hulue-de-naxie-zhiming-xijie-lgcixq48amokf8z_tbv7l7bookhg/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/pediatricemergencytriageandescalation/"
+    },
     "PediatricFeverHomeCareTriage": {
       "episode_count": 2,
       "show_count": 1,
@@ -129301,9 +129363,9 @@
       "url": "/wiki/entities/seikofootballclub/"
     },
     "SeizureFirstAidBoundary": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lneMOgQ8gB9o3E2835jvtFX3EMiy [lneMOgQ8gB9o3E2835jvtFX3EMiy].md",
@@ -129311,9 +129373,16 @@
           "show": "这病说来话长",
           "title": "VOL.222熬夜心跳狂飙是猝死前兆？AED会“电错”活人？带你避开致命常识｜世界急救日特辑",
           "url": "/wiki/sources/vol-222-aoye-xintiao-kuangbiao-shi-cusi-qianzhao-aed-hui-dian-cuo-huoren-dai-ni-bikai-zhiming-changshi-shijie-jijiu-ri-teji-lnemogq8gb9o3e2835jvtfx3emiy/"
+        },
+        {
+          "episode_file": "lgciXQ48AMOKf8Z_TbV7L7bOOkHG [lgciXQ48AMOKf8Z_TbV7L7bOOkHG].md",
+          "key": "vol-87-erke-jizhen-haipa-yiyuan-you-jiaochaganran-jiu-bu-dai-haizi-qu-kanbing-bei-hulue-de-naxie-zhiming-xijie-lgcixq48amokf8z_tbv7l7bookhg",
+          "show": "这病说来话长",
+          "title": "VOL.87儿科急诊｜害怕医院有交叉感染就不带孩子去看病？被忽略的那些致命细节",
+          "url": "/wiki/sources/vol-87-erke-jizhen-haipa-yiyuan-you-jiaochaganran-jiu-bu-dai-haizi-qu-kanbing-bei-hulue-de-naxie-zhiming-xijie-lgcixq48amokf8z_tbv7l7bookhg/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/seizurefirstaidboundary/"
     },
     "SelectionDrivenVirtueSignaling": {
@@ -152150,6 +152219,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/wangjiewesternhan/"
+    },
+    "WangJiechong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgciXQ48AMOKf8Z_TbV7L7bOOkHG [lgciXQ48AMOKf8Z_TbV7L7bOOkHG].md",
+          "key": "vol-87-erke-jizhen-haipa-yiyuan-you-jiaochaganran-jiu-bu-dai-haizi-qu-kanbing-bei-hulue-de-naxie-zhiming-xijie-lgcixq48amokf8z_tbv7l7bookhg",
+          "show": "这病说来话长",
+          "title": "VOL.87儿科急诊｜害怕医院有交叉感染就不带孩子去看病？被忽略的那些致命细节",
+          "url": "/wiki/sources/vol-87-erke-jizhen-haipa-yiyuan-you-jiaochaganran-jiu-bu-dai-haizi-qu-kanbing-bei-hulue-de-naxie-zhiming-xijie-lgcixq48amokf8z_tbv7l7bookhg/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/wangjiechong/"
     },
     "WangJingBianquEasternHan": {
       "episode_count": 1,

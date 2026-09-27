@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 10974
+wiki_total_pages: 10976
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -287,6 +287,9 @@ wiki_pages:
   - key: "Beijing"
     title: "Beijing"
     url: "/wiki/entities/beijing/"
+  - key: "BeijingChildrensHospital"
+    title: "Beijing Children's Hospital / 北京儿童医院"
+    url: "/wiki/entities/beijingchildrenshospital/"
   - key: "BeijingEnterprises"
     title: "Beijing Enterprises / 北京控股"
     url: "/wiki/entities/beijingenterprises/"

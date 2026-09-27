@@ -6,7 +6,8 @@ sources:
   - vol-222-aoye-xintiao-kuangbiao-shi-cusi-qianzhao-aed-hui-dian-cuo-huoren-dai-ni-bikai-zhiming-changshi-shijie-jijiu-ri-teji-lnemogq8gb9o3e2835jvtfx3emiy
   - vol-122-ni-zhidao-li-ni-zuijin-de-aed-zai-na-ma-buneng-zhishi-tongding-sitong-ranhou-buliaoliaozhi-han-xinfei-fusu-liucheng-aed-shiyong-jiangjie-loltrw1svirwsfkt_skd40mxq7d8
   - vol-120-zenme-da-zenme-shuo-zenme-jie-he-5-wei-yiwu-gongzuozhe-liaoliao-120-jijiu-de-naxie-gushi-lqpbn4u9wc7uutce2hgk7cl77wla
-last_updated: 2026-09-24
+  - vol-87-erke-jizhen-haipa-yiyuan-you-jiaochaganran-jiu-bu-dai-haizi-qu-kanbing-bei-hulue-de-naxie-zhiming-xijie-lgcixq48amokf8z_tbv7l7bookhg
+last_updated: 2026-09-27
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,6 +22,8 @@ The sources make triage the center of first aid. The practical order is not “d
 Public first aid therefore sits between passivity and over-intervention. Cardiac arrest, stroke, hypoglycemia, vomiting with aspiration risk, convulsions, chest pain, deep wounds, burns, medication overuse, and sports trauma do not call for the same maneuver. Unclear or serious events should be routed through emergency dispatch and qualified care while simple protective actions—such as side positioning when vomiting threatens the airway—stay tied to the observed risk.
 
 VOL.120 extends the frame from the call to the ambulance's arrival. Exact location, concise condition reporting, open building access, a visible greeter, prepared records and medicines, and restraint about moving an injured person can all reduce delay. Once the crew arrives, destination choice becomes part of [[PrehospitalEmergencyMedicalResponse]]: time-to-care and relevant hospital capability may matter more than preference for a distant famous hospital.
+
+VOL.87 adds a pediatric branch. Caregivers should first assess consciousness, breathing, circulation, mechanism, and immediate hazards, then match the response to the event: burn cooling, bleeding pressure, convulsion protection, age-appropriate choking action, emergency calling, or prompt transfer. Fear of cross-infection should not override a time-sensitive airway, trauma, neurological, or abdominal warning sign.
 
 ## Key Claims
 - First aid starts with scene safety and judgment before hands-on intervention.
@@ -37,14 +40,16 @@ VOL.120 extends the frame from the call to the ambulance's arrival. Exact locati
 - Collapse differentiation and airway protection: [[vol-122-ni-zhidao-li-ni-zuijin-de-aed-zai-na-ma-buneng-zhishi-tongding-sitong-ranhou-buliaoliaozhi-han-xinfei-fusu-liucheng-aed-shiyong-jiangjie-loltrw1svirwsfkt_skd40mxq7d8]] contrasts cardiac arrest with stroke and low blood sugar, and recommends side positioning plus removal of obvious vomit or loose dentures when airway contamination is a concern.
 - Boundary cases: [[vol-222-aoye-xintiao-kuangbiao-shi-cusi-qianzhao-aed-hui-dian-cuo-huoren-dai-ni-bikai-zhiming-changshi-shijie-jijiu-ri-teji-lnemogq8gb9o3e2835jvtfx3emiy]] treats chest pain, unclear collapse, convulsions, choking, deep wounds, burns, medication stacking, and sports injuries as cases where wrong action can be harmful.
 - Arrival preparation and transport boundary: [[vol-120-zenme-da-zenme-shuo-zenme-jie-he-5-wei-yiwu-gongzuozhe-liaoliao-120-jijiu-de-naxie-gushi-lqpbn4u9wc7uutce2hgk7cl77wla]] adds concise location and condition reporting, access preparation, documents and medicines, greeter assignment, caution about moving trauma patients, and capability-matched hospital choice.
+- Pediatric assessment and escalation: [[vol-87-erke-jizhen-haipa-yiyuan-you-jiaochaganran-jiu-bu-dai-haizi-qu-kanbing-bei-hulue-de-naxie-zhiming-xijie-lgcixq48amokf8z_tbv7l7bookhg]] joins fitted household action with prompt care for foreign bodies, burns, convulsions, bleeding, head injury, and rapid abdominal deterioration.
 
 ## Counterevidence & Qualifications
-The sources are public first-aid education, not replacements for certified training, local emergency protocols, dispatcher instructions, or clinical judgment. Stroke and hypoglycemia presentations vary, and an altered or unconscious person should not be given food or drink casually. The emergency number 120 and legal discussion are China-facing; local numbers, protocols, crew composition, response intervals, fees, destination rules, and duties vary by jurisdiction.
+The sources are public first-aid education, not replacements for certified training, local emergency protocols, dispatcher instructions, or clinical judgment. Stroke and hypoglycemia presentations vary, and an altered or unconscious person should not be given food or drink casually. Pediatric airway maneuvers depend on age, size, consciousness, and cough effectiveness. The emergency number 120 and legal discussion are China-facing; local numbers, protocols, crew composition, response intervals, fees, destination rules, and duties vary by jurisdiction.
 
 ## What Changed
 - The synthesis now differentiates collapse causes more explicitly, adding stroke, low blood sugar, vomiting, aspiration, and airway obstruction to the existing judgment-and-escalation frame.
 - Concrete role assignment is now captured by the “120、AED、来帮忙” mnemonic alongside detailed dispatcher communication.
 - The pre-arrival frame now includes access, records, medicines, scene greeters, movement restraint, and clinically suitable destination choice.
+- Added a pediatric branch joining assessment, fitted first aid, delayed foreign-body history, and the rule that infection anxiety should not postpone urgent care.
 
 ## Related Concepts
 - [[CPRAEDResponseBoundary]] - specific collapse-response branch inside the wider triage frame.
@@ -57,3 +62,4 @@ The sources are public first-aid education, not replacements for certified train
 - [[PublicAEDAccessReadiness]] - preparedness branch for locating and retrieving an AED before delay defeats nominal availability.
 - [[EmergencyRescueLegalProtection]] - China-facing legal-confidence branch for voluntary bystander aid.
 - [[PrehospitalEmergencyMedicalResponse]] - professional dispatch, transport, destination, and handoff chain that follows the public call.
+- [[PediatricEmergencyTriageAndEscalation]] - child-specific branch for caregiver judgment, protective action, and timely transfer.

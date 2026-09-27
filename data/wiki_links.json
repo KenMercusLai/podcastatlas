@@ -9079,6 +9079,10 @@
     "title": "北京市安定医院 / Beijing Anding Hospital",
     "url": "/wiki/entities/beijingandinghospital/"
   },
+  "BeijingChildrensHospital": {
+    "title": "Beijing Children's Hospital / 北京儿童医院",
+    "url": "/wiki/entities/beijingchildrenshospital/"
+  },
   "BeijingEnterprises": {
     "title": "Beijing Enterprises / 北京控股",
     "url": "/wiki/entities/beijingenterprises/"
@@ -52039,6 +52043,14 @@
     "title": "Pedestrian Project",
     "url": "/wiki/entities/pedestrianproject/"
   },
+  "PediatricAirwayForeignBodyEscalation": {
+    "title": "Pediatric Airway Foreign-Body Escalation / 儿童气道异物升级处置",
+    "url": "/wiki/concepts/pediatricairwayforeignbodyescalation/"
+  },
+  "PediatricEmergencyTriageAndEscalation": {
+    "title": "Pediatric Emergency Triage and Escalation / 儿科急诊判断与升级",
+    "url": "/wiki/concepts/pediatricemergencytriageandescalation/"
+  },
   "PediatricFeverHomeCareTriage": {
     "title": "Pediatric Fever Home-Care Triage / 儿童发热家庭分诊",
     "url": "/wiki/concepts/pediatricfeverhomecaretriage/"
@@ -71731,6 +71743,10 @@
     "title": "王接 / Wang Jie (Western Han)",
     "url": "/wiki/entities/wangjiewesternhan/"
   },
+  "WangJiechong": {
+    "title": "王杰宠 / Wang Jiechong",
+    "url": "/wiki/entities/wangjiechong/"
+  },
   "WangJien": {
     "title": "王继恩 / Wang Jien",
     "url": "/wiki/entities/wangjien/"
@@ -84358,6 +84374,10 @@
   "vol-55-duitan-xieyin-melody-xuan-yitiao-gengman-de-lu-ranhou-shizhe-zou-de-gengyuan-lvmwwqnwmew2-s22x-4otjy2gnlw": {
     "title": "vol.55 对谈携隐Melody：选一条更慢的路 然后试着走得更远",
     "url": "/wiki/sources/vol-55-duitan-xieyin-melody-xuan-yitiao-gengman-de-lu-ranhou-shizhe-zou-de-gengyuan-lvmwwqnwmew2-s22x-4otjy2gnlw/"
+  },
+  "vol-87-erke-jizhen-haipa-yiyuan-you-jiaochaganran-jiu-bu-dai-haizi-qu-kanbing-bei-hulue-de-naxie-zhiming-xijie-lgcixq48amokf8z_tbv7l7bookhg": {
+    "title": "VOL.87儿科急诊｜害怕医院有交叉感染就不带孩子去看病？被忽略的那些致命细节",
+    "url": "/wiki/sources/vol-87-erke-jizhen-haipa-yiyuan-you-jiaochaganran-jiu-bu-dai-haizi-qu-kanbing-bei-hulue-de-naxie-zhiming-xijie-lgcixq48amokf8z_tbv7l7bookhg/"
   },
   "vol-88-wu-shi-duihua-wenxin-meishu-zhidao-linyijia-yuanben-bushi-zheyang-wo-zhizao-weihegan-shi-weile-geng-zhenshi-lqn_godbj_bd6b1bmd3hmf49btcg": {
     "title": "VOL.88无·事｜对话《问心》美术指导：林逸家原本不是这样 我制造违和感是为了更真实",
