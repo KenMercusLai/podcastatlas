@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 10985
+wiki_total_pages: 10987
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -602,6 +602,9 @@ wiki_pages:
   - key: "Shanxi"
     title: "Shanxi / 山西"
     url: "/wiki/entities/shanxi/"
+  - key: "ShanxiBethuneHospital"
+    title: "Shanxi Bethune Hospital / 山西白求恩医院"
+    url: "/wiki/entities/shanxibethunehospital/"
   - key: "ShanxiMerchants"
     title: "Shanxi Merchants / 晋商"
     url: "/wiki/entities/shanximerchants/"

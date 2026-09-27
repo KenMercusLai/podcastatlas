@@ -23512,3 +23512,10 @@ Added source `391-the-fall-of-the-aztecs-the-last-emperor-part-8-glt2984940365`;
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-09-27] ingest | VOL.86头颈外科｜甲状腺疾病越来越喜欢招惹年轻人了吗？结节真是被气出来的吗？
+
+Added source `vol-86-toujing-waike-jiazhuangxian-jibing-yuelaiyue-xihuan-zhaore-nianqingren-le-ma-jiejie-zhen-shi-bei-qi-chulai-de-ma-lhlyxdyw0hcgnmfopab0976kw3fr`; created `ZhangYuhaoHeadNeckSurgeon`, `ShanxiBethuneHospital`, `ThyroidFunctionDisorderInterpretation`, `ThyroidNoduleRiskStratification`, and `DifferentiatedThyroidCancerDecisionMaking`; and updated `ThyroidHormoneMetabolism` and the canonical index from their complete bounded source sets. Core synthesis: thyroid function, autoimmune markers, structural nodules, and cancer subtype answer different questions; ultrasound, cytology, anatomy, symptoms, longitudinal change, and patient context should guide surveillance or intervention rather than palpability, size, calcification, age headlines, or internet slogans alone. No settled contradiction found. Percentages, ultrasound categories, biopsy and surgical thresholds, neck-mass timing heuristics, monitoring intervals, causality claims, treatment choices, and individual prognosis remain source-scoped public education. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

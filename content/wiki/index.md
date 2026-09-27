@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.86头颈外科｜甲状腺疾病越来越喜欢招惹年轻人了吗？结节真是被气出来的吗？](sources/vol-86-toujing-waike-jiazhuangxian-jibing-yuelaiyue-xihuan-zhaore-nianqingren-le-ma-jiejie-zhen-shi-bei-qi-chulai-de-ma-lhlyxdyw0hcgnmfopab0976kw3fr.md) — 这病说来话长 episode with 张宇昊 on thyroid function, Hashimoto thyroiditis, nodule risk stratification, biopsy, differentiated cancer, surveillance, surgery, and iodine boundaries.
 - [391. The Fall of the Aztecs: The Last Emperor (Part 8)](sources/391-the-fall-of-the-aztecs-the-last-emperor-part-8-glt2984940365.md) — The Rest Is History finale on post-conquest violence, colonial law, Mexico City rebuilding, Indigenous adaptation, disease, memory, and the ethics of narrating catastrophe.
 - [392. JFK: The Road to the White House (Part 1)](sources/392-jfk-the-road-to-the-white-house-part-1-glt3759679497.md) — The Rest Is History episode on Kennedy family ambition, chronic illness, Anglophilia, PT-109, Joe Jr.'s death, marriage, and JFK's early political rise.
 - [How to Unlock Your Potential, Motivation & Unique Abilities | Dr. Adam Grant](sources/how-to-unlock-your-potential-motivation-unique-abilities-dr-adam-grant-scim2670765142.md) — Huberman Lab interview on creative delay, intrinsic motivation, advice-oriented feedback, contextual growth mindset, scientist mode, imperfectionism, and potential as developmental trajectory.
@@ -2963,6 +2964,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Prevent & Treat Colds & Flu](sources/how-to-prevent-treat-colds-flu-scim6817932732.md) — Huberman Lab solo episode on respiratory-virus transmission, layered immune defense, sleep and training load, heat boundaries, and supplement evidence.
 
 ## Entities
+- [张宇昊 / Zhang Yuhao (head-and-neck surgeon)](entities/ZhangYuhaoHeadNeckSurgeon.md) — Shanxi Bethune Hospital clinician explaining thyroid and neck-mass assessment through imaging, pathology, anatomy, follow-up, and individualized treatment.
+- [Shanxi Bethune Hospital / 山西白求恩医院](entities/ShanxiBethuneHospital.md) — Source-scoped institutional affiliation for head-and-neck surgeon 张宇昊.
 - [Hernan Cortes](entities/HernanCortes.md) — Spanish conquistador whose victory, coercive rule, legal improvisation, decline, and divided memory anchor the conquest aftermath.
 - [Malinche](entities/Malinche.md) — Indigenous interpreter and intermediary whose marriage, property, children, and uncertain later life show constrained colonial adaptation.
 - [Cuauhtemoc](entities/Cuauhtemoc.md) — Final Mexica ruler tortured for gold and executed on an unresolved conspiracy allegation.
@@ -13963,6 +13966,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kay Tye](entities/KayTye.md) — Neuroscientist connecting emotional-valence circuits to loneliness, social homeostasis, hierarchy, and sustainable scientific leadership.
 
 ## Concepts
+- [Thyroid Function Disorder Interpretation / 甲状腺功能异常解读](concepts/ThyroidFunctionDisorderInterpretation.md) — Framework separating hormone excess, deficiency, autoimmune markers, structural findings, symptoms, and longitudinal context.
+- [Thyroid Nodule Risk Stratification / 甲状腺结节风险分层](concepts/ThyroidNoduleRiskStratification.md) — Multi-feature ultrasound, symptom, biopsy, anatomy, and follow-up framework for thyroid nodules.
+- [Differentiated Thyroid Cancer Decision-Making / 分化型甲状腺癌决策](concepts/DifferentiatedThyroidCancerDecisionMaking.md) — Risk- and anatomy-sensitive framework for surveillance, surgery, postoperative hormone care, and follow-up.
 - [Spanish Conquest of Mexico](concepts/SpanishConquestOfMexico.md) — Long, uneven military, legal, demographic, religious, and economic transformation conventionally centered on 1521.
 - [Columbian Exchange](concepts/ColumbianExchange.md) — Movement of disease, animals, crops, and other organisms that structurally reshaped conquest and colonial life.
 - [Colonial Legal Adaptation](concepts/ColonialLegalAdaptation.md) — Dual use of imperial law to legitimate conquest and preserve constrained Indigenous rights, property, or status.

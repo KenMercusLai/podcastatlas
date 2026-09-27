@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 8376
+wiki_total_pages: 8379
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -458,9 +458,15 @@ wiki_pages:
   - key: "ThymosinBeta4TissueRepair"
     title: "Thymosin Beta-4 Tissue Repair"
     url: "/wiki/concepts/thymosinbeta4tissuerepair/"
+  - key: "ThyroidFunctionDisorderInterpretation"
+    title: "Thyroid Function Disorder Interpretation / 甲状腺功能异常解读"
+    url: "/wiki/concepts/thyroidfunctiondisorderinterpretation/"
   - key: "ThyroidHormoneMetabolism"
     title: "Thyroid Hormone Metabolism"
     url: "/wiki/concepts/thyroidhormonemetabolism/"
+  - key: "ThyroidNoduleRiskStratification"
+    title: "Thyroid Nodule Risk Stratification / 甲状腺结节风险分层"
+    url: "/wiki/concepts/thyroidnoduleriskstratification/"
   - key: "TianFamilyReplacementOfQi"
     title: "Tian Family Replacement of Qi / 田氏代齐"
     url: "/wiki/concepts/tianfamilyreplacementofqi/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 8376
+wiki_total_pages: 8379
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -593,6 +593,9 @@ wiki_pages:
   - key: "DifferentSurnameKingSuspicion"
     title: "Different-Surname King Suspicion / 异姓诸侯王猜忌"
     url: "/wiki/concepts/differentsurnamekingsuspicion/"
+  - key: "DifferentiatedThyroidCancerDecisionMaking"
+    title: "Differentiated Thyroid Cancer Decision-Making / 分化型甲状腺癌决策"
+    url: "/wiki/concepts/differentiatedthyroidcancerdecisionmaking/"
   - key: "DiffusionTransformers"
     title: "Diffusion Transformers"
     url: "/wiki/concepts/diffusiontransformers/"
