@@ -30036,9 +30036,9 @@
       "url": "/wiki/concepts/consortiogroupfinancing/"
     },
     "ConspiracyTheoryPatternSeeking": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 3,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "271.唐朝都要不存在了？为什么伪史论会在今年大爆发？ [lg7_wdrDW1B9h7LwA4VWKvMyb4Un].md",
@@ -30095,6 +30095,13 @@
           "show": "The Rest Is History",
           "title": "397. JFK: A Conspiracy Unmasked (Part 6)",
           "url": "/wiki/sources/397-jfk-a-conspiracy-unmasked-part-6-glt4318220159/"
+        },
+        {
+          "episode_file": "GLT1345279222 [GLT1345279222].md",
+          "key": "395-jfk-hunt-for-a-killer-part-4-glt1345279222",
+          "show": "The Rest Is History",
+          "title": "395. JFK: Hunt for a Killer (Part 4)",
+          "url": "/wiki/sources/395-jfk-hunt-for-a-killer-part-4-glt1345279222/"
         }
       ],
       "updated": "2026-09-27",
@@ -33639,9 +33646,9 @@
       "url": "/wiki/entities/dalianyingbo/"
     },
     "DallasPoliceDepartment": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_9ba25f0acaac69bf31e4c4f4fd031a35_20625198 [default.mp3_ywr3ahjkcgo_9ba25f0acaac69bf31e4c4f4fd031a35_20625198].md",
@@ -33656,6 +33663,13 @@
           "show": "The Rest Is History",
           "title": "396. JFK: The Second Assassin Strikes (Part 5)",
           "url": "/wiki/sources/396-jfk-the-second-assassin-strikes-part-5-glt7803941061/"
+        },
+        {
+          "episode_file": "GLT1345279222 [GLT1345279222].md",
+          "key": "395-jfk-hunt-for-a-killer-part-4-glt1345279222",
+          "show": "The Rest Is History",
+          "title": "395. JFK: Hunt for a Killer (Part 4)",
+          "url": "/wiki/sources/395-jfk-hunt-for-a-killer-part-4-glt1345279222/"
         }
       ],
       "updated": "2026-09-27",
@@ -75768,6 +75782,43 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/jdcom/"
     },
+    "JDTippit": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "GLT6409828878 [GLT6409828878].md",
+          "key": "398-jfk-the-mystery-is-solved-part-7-glt6409828878",
+          "show": "The Rest Is History",
+          "title": "398. JFK: The Mystery is Solved (Part 7)",
+          "url": "/wiki/sources/398-jfk-the-mystery-is-solved-part-7-glt6409828878/"
+        },
+        {
+          "episode_file": "GLT4318220159 [GLT4318220159].md",
+          "key": "397-jfk-a-conspiracy-unmasked-part-6-glt4318220159",
+          "show": "The Rest Is History",
+          "title": "397. JFK: A Conspiracy Unmasked (Part 6)",
+          "url": "/wiki/sources/397-jfk-a-conspiracy-unmasked-part-6-glt4318220159/"
+        },
+        {
+          "episode_file": "GLT7803941061 [GLT7803941061].md",
+          "key": "396-jfk-the-second-assassin-strikes-part-5-glt7803941061",
+          "show": "The Rest Is History",
+          "title": "396. JFK: The Second Assassin Strikes (Part 5)",
+          "url": "/wiki/sources/396-jfk-the-second-assassin-strikes-part-5-glt7803941061/"
+        },
+        {
+          "episode_file": "GLT1345279222 [GLT1345279222].md",
+          "key": "395-jfk-hunt-for-a-killer-part-4-glt1345279222",
+          "show": "The Rest Is History",
+          "title": "395. JFK: Hunt for a Killer (Part 4)",
+          "url": "/wiki/sources/395-jfk-hunt-for-a-killer-part-4-glt1345279222/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/jdtippit/"
+    },
     "JDVance": {
       "episode_count": 6,
       "show_count": 4,
@@ -75956,9 +76007,9 @@
       "url": "/wiki/entities/jackmerridew/"
     },
     "JackRuby": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT4318220159 [GLT4318220159].md",
@@ -75973,6 +76024,13 @@
           "show": "The Rest Is History",
           "title": "396. JFK: The Second Assassin Strikes (Part 5)",
           "url": "/wiki/sources/396-jfk-the-second-assassin-strikes-part-5-glt7803941061/"
+        },
+        {
+          "episode_file": "GLT1345279222 [GLT1345279222].md",
+          "key": "395-jfk-hunt-for-a-killer-part-4-glt1345279222",
+          "show": "The Rest Is History",
+          "title": "395. JFK: Hunt for a Killer (Part 4)",
+          "url": "/wiki/sources/395-jfk-hunt-for-a-killer-part-4-glt1345279222/"
         }
       ],
       "updated": "2026-09-27",
@@ -78800,9 +78858,9 @@
       "url": "/wiki/entities/johndickie/"
     },
     "JohnFKennedy": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6409828878 [GLT6409828878].md",
@@ -78817,6 +78875,13 @@
           "show": "The Rest Is History",
           "title": "397. JFK: A Conspiracy Unmasked (Part 6)",
           "url": "/wiki/sources/397-jfk-a-conspiracy-unmasked-part-6-glt4318220159/"
+        },
+        {
+          "episode_file": "GLT1345279222 [GLT1345279222].md",
+          "key": "395-jfk-hunt-for-a-killer-part-4-glt1345279222",
+          "show": "The Rest Is History",
+          "title": "395. JFK: Hunt for a Killer (Part 4)",
+          "url": "/wiki/sources/395-jfk-hunt-for-a-killer-part-4-glt1345279222/"
         }
       ],
       "updated": "2026-09-27",
@@ -80633,9 +80698,9 @@
       "url": "/wiki/entities/kenjiyamamoto/"
     },
     "KennedyAssassination": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT6409828878 [GLT6409828878].md",
@@ -80657,6 +80722,13 @@
           "show": "The Rest Is History",
           "title": "396. JFK: The Second Assassin Strikes (Part 5)",
           "url": "/wiki/sources/396-jfk-the-second-assassin-strikes-part-5-glt7803941061/"
+        },
+        {
+          "episode_file": "GLT1345279222 [GLT1345279222].md",
+          "key": "395-jfk-hunt-for-a-killer-part-4-glt1345279222",
+          "show": "The Rest Is History",
+          "title": "395. JFK: Hunt for a Killer (Part 4)",
+          "url": "/wiki/sources/395-jfk-hunt-for-a-killer-part-4-glt1345279222/"
         }
       ],
       "updated": "2026-09-27",
@@ -83960,9 +84032,9 @@
       "url": "/wiki/concepts/learningstylematchingboundary/"
     },
     "LeeHarveyOswald": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT6409828878 [GLT6409828878].md",
@@ -83984,6 +84056,13 @@
           "show": "The Rest Is History",
           "title": "396. JFK: The Second Assassin Strikes (Part 5)",
           "url": "/wiki/sources/396-jfk-the-second-assassin-strikes-part-5-glt7803941061/"
+        },
+        {
+          "episode_file": "GLT1345279222 [GLT1345279222].md",
+          "key": "395-jfk-hunt-for-a-killer-part-4-glt1345279222",
+          "show": "The Rest Is History",
+          "title": "395. JFK: Hunt for a Killer (Part 4)",
+          "url": "/wiki/sources/395-jfk-hunt-for-a-killer-part-4-glt1345279222/"
         }
       ],
       "updated": "2026-09-27",
@@ -93703,9 +93782,9 @@
       "url": "/wiki/entities/lvdoctorent/"
     },
     "LyndonBJohnson": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 3,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "EP77 四十万年薪，副业赚了三十四亿，特朗普教你如何搞钱 [lnrx8VKDjEdXbmMCWXLNwow-pCAB].md",
@@ -93741,9 +93820,16 @@
           "show": "The Rest Is History",
           "title": "508. America in '68: Nightmare in Vietnam (Part 1)",
           "url": "/wiki/sources/508-america-in-68-nightmare-in-vietnam-part-1-glt6375459097/"
+        },
+        {
+          "episode_file": "GLT1345279222 [GLT1345279222].md",
+          "key": "395-jfk-hunt-for-a-killer-part-4-glt1345279222",
+          "show": "The Rest Is History",
+          "title": "395. JFK: Hunt for a Killer (Part 4)",
+          "url": "/wiki/sources/395-jfk-hunt-for-a-killer-part-4-glt1345279222/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-27",
       "url": "/wiki/entities/lyndonbjohnson/"
     },
     "LyuBu": {
@@ -107047,9 +107133,9 @@
       "url": "/wiki/concepts/officialhistorycontinuity/"
     },
     "OfficialInquiryTrustRepair": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT4318220159 [GLT4318220159].md",
@@ -107064,6 +107150,13 @@
           "show": "The Rest Is History",
           "title": "396. JFK: The Second Assassin Strikes (Part 5)",
           "url": "/wiki/sources/396-jfk-the-second-assassin-strikes-part-5-glt7803941061/"
+        },
+        {
+          "episode_file": "GLT1345279222 [GLT1345279222].md",
+          "key": "395-jfk-hunt-for-a-killer-part-4-glt1345279222",
+          "show": "The Rest Is History",
+          "title": "395. JFK: Hunt for a Killer (Part 4)",
+          "url": "/wiki/sources/395-jfk-hunt-for-a-killer-part-4-glt1345279222/"
         }
       ],
       "updated": "2026-09-27",

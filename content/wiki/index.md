@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [395. JFK: Hunt for a Killer (Part 4)](sources/395-jfk-hunt-for-a-killer-part-4-glt1345279222.md) — The Rest Is History episode on Kennedy's death, the first-day hunt for Oswald, the Tippit killing, Johnson's succession, and the evidence and irregularities that shaped later distrust.
 - [A Process for Finding & Achieving Your Unique Purpose | Robert Greene](sources/a-process-for-finding-achieving-your-unique-purpose-robert-greene-scim1811421687.md) — Huberman Lab interview on life-task discovery, power literacy, romantic compatibility, embodied social perception, effortful thinking, stroke, and mortality-bounded urgency.
 - [396. JFK: The Second Assassin Strikes (Part 5)](sources/396-jfk-the-second-assassin-strikes-part-5-glt7803941061.md) — The Rest Is History episode on the case against Oswald, Ruby's impulsive opportunity, the fatal police-transfer failure, and the public-trust consequences of losing a trial.
 - [397. JFK: A Conspiracy Unmasked (Part 6)](sources/397-jfk-a-conspiracy-unmasked-part-6-glt4318220159.md) — The Rest Is History episode on Ruby's killing of Oswald, the Warren Commission, declining institutional trust, disputed evidence, and the failure of major JFK conspiracy candidates.
@@ -2955,11 +2956,12 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Entities
 - [Robert Greene](entities/RobertGreene.md) — Author connecting purpose, power, relationships, difficult thinking, and mortality in a source-bounded Huberman Lab profile.
-- [John F. Kennedy](entities/JohnFKennedy.md) — U.S. president whose assassination and symbolic stature anchor the episode's victim, motive, and conspiracy-afterlife analysis.
+- [John F. Kennedy](entities/JohnFKennedy.md) — U.S. president whose death, body transfer, symbolic stature, alleged motives, and conspiracy afterlife organize the JFK sequence.
 - [Lee Harvey Oswald](entities/LeeHarveyOswald.md) — Former Marine and Soviet defector whom the episode identifies as Kennedy's killer through a cumulative biographical and evidentiary case.
 - [Assassination of John F. Kennedy](entities/KennedyAssassination.md) — 1963 Dallas killing presented through lone-gunman evidence, ballistic objections, and a durable conspiracy afterlife.
 - [Warren Commission](entities/WarrenCommission.md) — Official inquiry whose broad conclusion that Oswald acted alone is defended but not exhaustively audited by the episode.
 - [Jack Ruby](entities/JackRuby.md) — Dallas nightclub operator whose killing of Oswald eliminated a trial and created the enduring appearance that the accused assassin had been silenced.
+- [J. D. Tippit](entities/JDTippit.md) — Dallas police officer whose killing created the suspect trail from Oak Cliff to Oswald's arrest at the Texas Theatre.
 - [House Select Committee on Assassinations](entities/HouseSelectCommitteeOnAssassinations.md) — Later congressional inquiry whose disputed acoustic finding gave qualified official standing to a possible JFK conspiracy.
 - [Karen Parker](entities/KarenParker.md) — Social neuroscientist connecting comparative models, autism-relevant biomarkers, neuropeptides, and cautiously bounded clinical translation.
 - [James Holland](entities/JamesHolland.md) — Historian joining strategy, logistics, diaries, letters, and civilian experience in his account of the 1943 Italian campaign.
@@ -10146,7 +10148,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [U.S. Customs and Border Protection](entities/USCustomsAndBorderProtection.md) — DHS-linked enforcement agency named with ICE in the episode's training, culture, and conduct frame.
 - [Tricia McLaughlin](entities/TriciaMcLaughlin.md) — DHS spokesperson whose unchanged-training-hours claim anchors the episode's unresolved training dispute.
 - [Matthew Ross](entities/MatthewRoss.md) — Economist whose Dallas policing research shows how aggressive field training officers can shape later use-of-force behavior.
-- [Dallas Police Department](entities/DallasPoliceDepartment.md) — Institution whose Kennedy-case evidence gathering, Oswald custody failure, and later field-training data show distinct dimensions of police performance.
+- [Dallas Police Department](entities/DallasPoliceDepartment.md) — Institution whose rapid Kennedy-case evidence gathering, weak access and custody control, and later field-training data show distinct dimensions of police performance.
 - [Seth Stoughton](entities/SethStoughton.md) — Law professor and former police officer arguing that ICE and CBP conduct reflects culture and accountability, not only training hours.
 - [Alex Preti](entities/AlexPreti.md) — U.S. citizen in the Minneapolis case cited by the episode to show why veteran-agent conduct complicates a new-training-only explanation.
 - [ProPublica](entities/ProPublica.md) — Investigative outlet cited for reporting details in the Alex Preti case.
@@ -13405,7 +13407,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jared Kushner](entities/JaredKushner.md) — Trump son-in-law and former adviser used as a family-network monetization case through a Middle East-backed private-equity fund.
 - [Saudi Public Investment Fund](entities/SaudiPublicInvestmentFund.md) — Sovereign wealth fund discussed as a large investor in Jared Kushner's private-equity vehicle.
 - [Melania Trump](entities/MelaniaTrump.md) — First-lady figure in EP77's media-contract branch through a politically sensitive Amazon documentary deal.
-- [Lyndon B. Johnson](entities/LyndonBJohnson.md) — Reform president and coercive political operator whose Vietnam escalation, credibility crisis, and withdrawal opened the 1968 race.
+- [Lyndon B. Johnson](entities/LyndonBJohnson.md) — Kennedy's crisis successor and reform president whose Vietnam escalation, credibility crisis, and withdrawal opened the 1968 race.
 - [Bill Clinton](entities/BillClinton.md) — Post-presidency speech-income example used to explain political identity premium.
 - [Hillary Clinton](entities/HillaryClinton.md) — High-fee speech and campaign-controversy example in EP77's political identity premium comparison.
 - [Barack Obama](entities/BarackObama.md) — U.S. political figure used both as an America-at-250 hope/backlash marker and as a cleaner post-office political-identity-premium case.

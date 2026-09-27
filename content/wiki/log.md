@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-27] ingest | 395. JFK: Hunt for a Killer (Part 4)
+
+Added source `395-jfk-hunt-for-a-killer-part-4-glt1345279222`; created `JDTippit`; and updated `JohnFKennedy`, `LeeHarveyOswald`, `KennedyAssassination`, `JackRuby`, `DallasPoliceDepartment`, `LyndonBJohnson`, `ConspiracyTheoryPatternSeeking`, `OfficialInquiryTrustRepair`, and the canonical index from their complete bounded source sets. Core synthesis: Kennedy's death, the first-day Depository and Tippit investigations, Oswald's theater arrest, the Hidell rifle trace, Johnson's succession, and Ruby's police-station access form one compressed crisis in which substantial evidence and genuine procedural irregularity coexisted. No settled contradiction with Parts 5-7 was found. Eyewitness, medical, timing, demeanor, motive, official-threat, and legal-process claims remain source-scoped; immediate plot hypotheses and access failures justify scrutiny without themselves proving conspiracy. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-27] ingest | A Process for Finding & Achieving Your Unique Purpose | Robert Greene
 
 Added source `a-process-for-finding-achieving-your-unique-purpose-robert-greene-scim1811421687`; created `RobertGreene`, `LifeTaskDiscovery`, `PowerLiteracy`, `EmbodiedSocialPerception`, `CharacterBasedRomanticCompatibility`, and `EffortfulThinkingInTheAIAge`; and updated `PurposeIntegratedMotivation`, `MortalityBoundedMeaning`, the canonical index, and overview from their complete bounded source sets. Core synthesis: purpose becomes a testable pattern of inclination and engagement rather than a fixed job title; power and nonverbal cues are treated as qualified social evidence; durable compatibility depends on demonstrated character and values; useful AI assistance should preserve the effort that builds judgment; and mortality can sharpen ordinary attention and urgency without guaranteeing growth. No settled contradiction found. Childhood destiny, multiple-intelligence, gender, culture, pornography, dating-app, nonverbal-decoding, AI-cognition, neuroplasticity, stroke-recovery, and mortality claims remain philosophical, autobiographical, or source-scoped, while “death ground” is preserved as a metaphor rather than literal personal or military guidance. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
@@ -23436,6 +23440,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-27] ingest | 396. JFK: The Second Assassin Strikes (Part 5)
 
 Added source `396-jfk-the-second-assassin-strikes-part-5-glt7803941061`; migrated and updated `DallasPoliceDepartment`; and updated `JackRuby`, `LeeHarveyOswald`, `KennedyAssassination`, `OfficialInquiryTrustRepair`, and the canonical index from their complete bounded source sets. Core synthesis: rapid evidence gathering and catastrophic custody protection can coexist, but failure in the latter can contaminate public trust in the former; Ruby's grief, Western Union timing, opportunistic basement access, and lack of escape planning strengthen an impulsive-act interpretation without proving it. No settled contradiction with Parts 6 or 7 was found. Behavioral guilt readings, Tippit certainty, Ruby's motives, and the hosts' assessment of police competence remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-27] lint | Wiki health check
 
