@@ -24307,3 +24307,11 @@ Added source `348-the-boston-tea-party-part-2-glt5189620267`; created `BostonTea
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | VOL.57精神科｜心理疾病导致的轻生可预防 给予陪伴是最好的安慰｜认识抑郁和抑郁情绪
+
+Added source `vol-57-jingshenke-xinli-jibing-daozhi-de-qingsheng-ke-yufang-jiyu-peiban-shi-zuihao-de-anwei-renshi-yiyu-he-yiyu-qingxu-lhgqmsvos2ybk74qjnrt3bxs0l7d`; created `SuicideRiskRecognitionAndSupport`; updated `MentalHealthSymptomEscalation`, `BipolarDisorder`, and `ChildMentalHealthFamilySystemsSupport`; and migrated `MentalHealthCrisisInterventionBoundary` to the structured schema from its complete bounded source set. Core synthesis: possible suicide risk should be treated as a recognizable but non-diagnostic warning pattern, met with nonjudgmental presence and explicit safety escalation rather than blame, lectures, or reliance on diagnosis alone. No settled contradiction was adopted. The cross-source ranking of depression and bipolar suicide risk remains unresolved because the supplied summaries do not define comparable populations or metrics; diagnostic thresholds, mechanisms, and individual warning signs remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

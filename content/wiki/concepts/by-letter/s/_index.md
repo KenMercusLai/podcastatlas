@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 8568
+wiki_total_pages: 8569
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2084,6 +2084,9 @@ wiki_pages:
   - key: "SugarCravingNeuralControl"
     title: "Sugar Craving Neural Control"
     url: "/wiki/concepts/sugarcravingneuralcontrol/"
+  - key: "SuicideRiskRecognitionAndSupport"
+    title: "Suicide-Risk Recognition and Support / 轻生风险识别与支持"
+    url: "/wiki/concepts/suicideriskrecognitionandsupport/"
   - key: "SuitAsSocialCode"
     title: "Suit As Social Code"
     url: "/wiki/concepts/suitassocialcode/"

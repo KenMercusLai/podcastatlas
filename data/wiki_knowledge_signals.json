@@ -17920,9 +17920,9 @@
       "url": "/wiki/concepts/bipolarcreativitycorrelation/"
     },
     "BipolarDisorder": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM8821948371 [SCIM8821948371].md",
@@ -17930,9 +17930,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: The Science & Treatment of Bipolar Disorder",
           "url": "/wiki/sources/essentials-the-science-treatment-of-bipolar-disorder-scim8821948371/"
+        },
+        {
+          "episode_file": "lhgQMSVoS2YBk74QJnRT3BXS0l7D [lhgQMSVoS2YBk74QJnRT3BXS0l7D].md",
+          "key": "vol-57-jingshenke-xinli-jibing-daozhi-de-qingsheng-ke-yufang-jiyu-peiban-shi-zuihao-de-anwei-renshi-yiyu-he-yiyu-qingxu-lhgqmsvos2ybk74qjnrt3bxs0l7d",
+          "show": "这病说来话长",
+          "title": "VOL.57精神科｜心理疾病导致的轻生可预防 给予陪伴是最好的安慰｜认识抑郁和抑郁情绪",
+          "url": "/wiki/sources/vol-57-jingshenke-xinli-jibing-daozhi-de-qingsheng-ke-yufang-jiyu-peiban-shi-zuihao-de-anwei-renshi-yiyu-he-yiyu-qingxu-lhgqmsvos2ybk74qjnrt3bxs0l7d/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/bipolardisorder/"
     },
     "BipolarInteroceptionDecline": {
@@ -27197,9 +27204,9 @@
       "url": "/wiki/concepts/childcommunicationdevelopmentsignals/"
     },
     "ChildMentalHealthFamilySystemsSupport": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "ljLYg0KUQvUJ2R89K6O5HHUeFJt9 [ljLYg0KUQvUJ2R89K6O5HHUeFJt9].md",
@@ -27221,6 +27228,13 @@
           "show": "这病说来话长",
           "title": "VOL.73精神科｜少年儿童的心理健康关乎我们社会未来的健康",
           "url": "/wiki/sources/vol-73-jingshenke-shaonian-ertong-de-xinli-jiankang-guanhu-women-shehui-weilai-de-jiankang-lmyhvu50qll_zy9dxkqggwxi0tyn/"
+        },
+        {
+          "episode_file": "lhgQMSVoS2YBk74QJnRT3BXS0l7D [lhgQMSVoS2YBk74QJnRT3BXS0l7D].md",
+          "key": "vol-57-jingshenke-xinli-jibing-daozhi-de-qingsheng-ke-yufang-jiyu-peiban-shi-zuihao-de-anwei-renshi-yiyu-he-yiyu-qingxu-lhgqmsvos2ybk74qjnrt3bxs0l7d",
+          "show": "这病说来话长",
+          "title": "VOL.57精神科｜心理疾病导致的轻生可预防 给予陪伴是最好的安慰｜认识抑郁和抑郁情绪",
+          "url": "/wiki/sources/vol-57-jingshenke-xinli-jibing-daozhi-de-qingsheng-ke-yufang-jiyu-peiban-shi-zuihao-de-anwei-renshi-yiyu-he-yiyu-qingxu-lhgqmsvos2ybk74qjnrt3bxs0l7d/"
         }
       ],
       "updated": "2026-09-28",
@@ -106383,6 +106397,43 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/mentalhealthbiologicalfoundations/"
     },
+    "MentalHealthCrisisInterventionBoundary": {
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "EP236 唠五块钱心里话，付费的陪伴是真的吗？ [ltVuoEluOEu4-a3j3lAmHc3Buudx].md",
+          "key": "ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx",
+          "show": "Talk三联",
+          "title": "EP236 唠五块钱心里话，付费的陪伴是真的吗？",
+          "url": "/wiki/sources/ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx/"
+        },
+        {
+          "episode_file": "Kyiv brawl： Ukraine’s top general fired [6a609aec4fac21e67f1be165].md",
+          "key": "kyiv-brawl-ukraines-top-general-fired-6a609aec4fac21e67f1be165",
+          "show": "Economist Podcasts",
+          "title": "Kyiv brawl: Ukraine's top general fired",
+          "url": "/wiki/sources/kyiv-brawl-ukraines-top-general-fired-6a609aec4fac21e67f1be165/"
+        },
+        {
+          "episode_file": "Bombs and bombshells： Zelensky under pressure [6a86d3561ad8716bb64646f0].md",
+          "key": "bombs-and-bombshells-zelensky-under-pressure-6a86d3561ad8716bb64646f0",
+          "show": "Economist Podcasts",
+          "title": "Bombs and bombshells: Zelensky under pressure",
+          "url": "/wiki/sources/bombs-and-bombshells-zelensky-under-pressure-6a86d3561ad8716bb64646f0/"
+        },
+        {
+          "episode_file": "lhgQMSVoS2YBk74QJnRT3BXS0l7D [lhgQMSVoS2YBk74QJnRT3BXS0l7D].md",
+          "key": "vol-57-jingshenke-xinli-jibing-daozhi-de-qingsheng-ke-yufang-jiyu-peiban-shi-zuihao-de-anwei-renshi-yiyu-he-yiyu-qingxu-lhgqmsvos2ybk74qjnrt3bxs0l7d",
+          "show": "这病说来话长",
+          "title": "VOL.57精神科｜心理疾病导致的轻生可预防 给予陪伴是最好的安慰｜认识抑郁和抑郁情绪",
+          "url": "/wiki/sources/vol-57-jingshenke-xinli-jibing-daozhi-de-qingsheng-ke-yufang-jiyu-peiban-shi-zuihao-de-anwei-renshi-yiyu-he-yiyu-qingxu-lhgqmsvos2ybk74qjnrt3bxs0l7d/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/mentalhealthcrisisinterventionboundary/"
+    },
     "MentalHealthHelpSeekingScamRisk": {
       "episode_count": 1,
       "show_count": 1,
@@ -106430,9 +106481,9 @@
       "url": "/wiki/concepts/mentalhealthstructurefunctionmap/"
     },
     "MentalHealthSymptomEscalation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "li6JofBvuCkNthUQw1flM-R0M4KW [li6JofBvuCkNthUQw1flM-R0M4KW].md",
@@ -106440,6 +106491,13 @@
           "show": "这病说来话长",
           "title": "VOL.72精神科｜别太拿性格测试当事 三甲精神科医生教你和职场做减压切割",
           "url": "/wiki/sources/vol-72-jingshenke-bie-tai-na-xingge-ceshi-dangshi-sanjia-jingshenke-yisheng-jiao-ni-he-zhichang-zuo-jianya-qiege-li6jofbvucknthuqw1flm-r0m4kw/"
+        },
+        {
+          "episode_file": "lhgQMSVoS2YBk74QJnRT3BXS0l7D [lhgQMSVoS2YBk74QJnRT3BXS0l7D].md",
+          "key": "vol-57-jingshenke-xinli-jibing-daozhi-de-qingsheng-ke-yufang-jiyu-peiban-shi-zuihao-de-anwei-renshi-yiyu-he-yiyu-qingxu-lhgqmsvos2ybk74qjnrt3bxs0l7d",
+          "show": "这病说来话长",
+          "title": "VOL.57精神科｜心理疾病导致的轻生可预防 给予陪伴是最好的安慰｜认识抑郁和抑郁情绪",
+          "url": "/wiki/sources/vol-57-jingshenke-xinli-jibing-daozhi-de-qingsheng-ke-yufang-jiyu-peiban-shi-zuihao-de-anwei-renshi-yiyu-he-yiyu-qingxu-lhgqmsvos2ybk74qjnrt3bxs0l7d/"
         }
       ],
       "updated": "2026-09-28",
@@ -149722,6 +149780,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/suiyueasternhan/"
+    },
+    "SuicideRiskRecognitionAndSupport": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lhgQMSVoS2YBk74QJnRT3BXS0l7D [lhgQMSVoS2YBk74QJnRT3BXS0l7D].md",
+          "key": "vol-57-jingshenke-xinli-jibing-daozhi-de-qingsheng-ke-yufang-jiyu-peiban-shi-zuihao-de-anwei-renshi-yiyu-he-yiyu-qingxu-lhgqmsvos2ybk74qjnrt3bxs0l7d",
+          "show": "这病说来话长",
+          "title": "VOL.57精神科｜心理疾病导致的轻生可预防 给予陪伴是最好的安慰｜认识抑郁和抑郁情绪",
+          "url": "/wiki/sources/vol-57-jingshenke-xinli-jibing-daozhi-de-qingsheng-ke-yufang-jiyu-peiban-shi-zuihao-de-anwei-renshi-yiyu-he-yiyu-qingxu-lhgqmsvos2ybk74qjnrt3bxs0l7d/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/suicideriskrecognitionandsupport/"
     },
     "SuitAsSocialCode": {
       "episode_count": 1,

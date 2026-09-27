@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.57精神科｜心理疾病导致的轻生可预防 给予陪伴是最好的安慰｜认识抑郁和抑郁情绪](sources/vol-57-jingshenke-xinli-jibing-daozhi-de-qingsheng-ke-yufang-jiyu-peiban-shi-zuihao-de-anwei-renshi-yiyu-he-yiyu-qingxu-lhgqmsvos2ybk74qjnrt3bxs0l7d.md) — 这病说来话长 episode on suicide-risk signals, depressed mood versus disorder, nonjudgmental companionship, safety, and professional escalation.
 - [348: The Boston Tea Party (Part 2)](sources/348-the-boston-tea-party-part-2-glt5189620267.md) — The Rest Is History episode on the Tea Act, Boston Tea Party, Coercive Acts, colonial coordination, early fighting, British strategy, and Dunmore's proclamation.
 - [349: The Birth of the United States (Part 3)](sources/349-the-birth-of-the-united-states-part-3-glt9804967639.md) — The Rest Is History episode on Paine, the Declaration, Washington's 1776 survival, Saratoga, French intervention, and the Revolution's universal promise and slavery contradiction.
 - [How Your Brain’s Reward Circuits Drive Your Choices | Dr. Robert Malenka](sources/how-your-brains-reward-circuits-drive-your-choices-dr-robert-malenka-scim2531622462.md) — Huberman Lab interview on context-sensitive dopamine signaling, addiction-related plasticity, social reward, empathy-like assays, autism heterogeneity, and cautious MDMA research.
@@ -14252,6 +14253,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Skatepark Project](entities/TheSkateparkProject.md) — Nonprofit supporting public skateparks as access, practice, and youth-community infrastructure.
 
 ## Concepts
+- [Suicide-Risk Recognition and Support / 轻生风险识别与支持](concepts/SuicideRiskRecognitionAndSupport.md) — Framework joining warning-pattern recognition, nonjudgmental presence, safety protection, and qualified crisis escalation.
 - [No Taxation Without Representation](concepts/NoTaxationWithoutRepresentation.md) — Constitutional claim separating a tax's material burden from the legitimacy of distant parliamentary authority.
 - [American Revolutionary Universalism](concepts/AmericanRevolutionaryUniversalism.md) — Frame treating independence as a general cause of equality, liberty, consent, and republicanism while preserving its founding exclusions.
 - [Reward Circuit Context](concepts/RewardCircuitContext.md) — Framework in which reinforcement and salience depend on body state, memory, emotion, expectation, sensory input, and behavioral rules rather than stimulus pleasure alone.

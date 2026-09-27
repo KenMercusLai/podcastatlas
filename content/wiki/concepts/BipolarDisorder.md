@@ -4,8 +4,9 @@ type: concept
 tags: [psychiatry, mental-health, mood-disorder, medical-risk]
 sources:
   - essentials-the-science-treatment-of-bipolar-disorder-scim8821948371
+  - vol-57-jingshenke-xinli-jibing-daozhi-de-qingsheng-ke-yufang-jiyu-peiban-shi-zuihao-de-anwei-renshi-yiyu-he-yiyu-qingxu-lhgqmsvos2ybk74qjnrt3bxs0l7d
 knowledge_schema: synthesis-v1
-last_updated: 2026-08-28
+last_updated: 2026-09-28
 ---
 
 # Bipolar Disorder
@@ -18,14 +19,16 @@ Bipolar disorder is the episode's psychiatric condition category for maladaptive
 
 The concept therefore sits at the intersection of diagnosis, risk, treatment, and mechanism. The episode's strongest biological branch is [[LithiumBipolarTreatment]], with [[BipolarInteroceptionDecline]] supplying a possible internal-feedback explanation for why mania can become dangerous when sleep loss, speech escalation, or not eating stop registering as warning signals.
 
+VOL.57 adds a public-recognition boundary rather than a treatment update. It explains bipolar disorder through depressive and manic poles and notes that suicide thoughts or behavior may occur during severe distress, but it does not make diagnosis sufficient for judging immediate risk. Current safety still requires attention to the person's state, behavior, intent, supports, and qualified assessment through [[SuicideRiskRecognitionAndSupport]].
+
 ## Key Claims
 - Bipolar disorder is a high-risk psychiatric condition, not a label for normal shifts in mood or productivity.
 - The source says it affects about 1% of people, often begins around ages 20 to 25, and carries greatly elevated suicide risk.
 - Bipolar I and bipolar II require sustained clinical patterns involving mania or hypomania, depressive episodes, symptom clusters, and impairment.
-- Cycling is variable and should not be reduced to a simple regular alternation between mania and depression.
 - Treatment usually requires prescription medication and qualified medical care, with therapy and lifestyle supports acting as adjuncts.
 - Lithium is presented as both an important treatment and a biological clue about inflammation, neuroprotection, and neural stress.
 - Creativity associations are treated as correlational and do not cancel the disorder's impairment or risk.
+- A bipolar label marks important background risk but does not replace direct assessment of a current suicide or behavioral crisis.
 
 ## Evidence
 - Severity and prevalence: [[essentials-the-science-treatment-of-bipolar-disorder-scim8821948371]] says bipolar disorder affects about 1% of people, often starts around ages 20 to 25, and carries suicide risk 20 to 30 times higher than average.
@@ -33,12 +36,14 @@ The concept therefore sits at the intersection of diagnosis, risk, treatment, an
 - Treatment boundary: [[essentials-the-science-treatment-of-bipolar-disorder-scim8821948371]] warns that relying only on talk therapy or natural approaches is unwise given the disorder's intensity and risk.
 - Biological clue: [[essentials-the-science-treatment-of-bipolar-disorder-scim8821948371]] presents lithium as useful for many patients and as evidence for anti-inflammatory, neuroprotective, and neural-stress mechanisms.
 - Creativity qualification: [[essentials-the-science-treatment-of-bipolar-disorder-scim8821948371]] discusses mania-creativity association while explicitly treating it as correlation rather than causation.
+- Public-recognition boundary: [[vol-57-jingshenke-xinli-jibing-daozhi-de-qingsheng-ke-yufang-jiyu-peiban-shi-zuihao-de-anwei-renshi-yiyu-he-yiyu-qingxu-lhgqmsvos2ybk74qjnrt3bxs0l7d|VOL.57]] links bipolar depression and severe distress to possible suicide risk while keeping immediate support and escalation focused on the person's current presentation.
 
 ## Counterevidence & Qualifications
-The source is an educational podcast summary, not a diagnostic manual or individualized treatment guide. It does not compare every medication class, dosing decision, comorbidity, or psychotherapy protocol. The suicide-risk, prevalence, fish-oil, and creativity statistics are preserved as source-scoped claims until corroborated by additional sources.
+The sources are educational podcast summaries, not a diagnostic manual, validated risk tool, or individualized treatment guide. They do not compare every medication class, dosing decision, comorbidity, psychotherapy protocol, or suicide-risk metric. One source reports greatly elevated bipolar suicide risk while VOL.57 says depression has the highest rate, but the populations, measures, and time horizons are undefined; the wiki therefore records no settled ranking. Prevalence, risk, fish-oil, creativity, mechanism, and diagnostic claims remain source-scoped until better corroborated.
 
 ## What Changed
-- Created a bipolar-disorder concept that anchors the episode's diagnosis, risk, treatment, and mechanism claims.
+- Added a current-crisis boundary: diagnosis-level risk does not replace direct assessment of intent, behavior, and safety.
+- Recorded the unresolved cross-source risk-ranking difference without flattening it into a contradiction.
 
 ## Related Concepts
 - [[BipolarManiaHypomaniaSpectrum]] - diagnostic-pattern branch for bipolar I, bipolar II, mania, hypomania, depression, and cycling.
@@ -48,3 +53,4 @@ The source is an educational podcast summary, not a diagnostic manual or individ
 - [[ECTBipolarDepressionBoundary]] - treatment-resistant depression branch.
 - [[PsychiatricMedicationSupervisionBoundary]] - safety boundary reinforced by the episode.
 - [[MentalHealthCrisisInterventionBoundary]] - adjacent escalation boundary for suicide or life-threatening distress.
+- [[SuicideRiskRecognitionAndSupport]] - recognition and supportive-response framework that does not infer current risk from diagnosis alone.
