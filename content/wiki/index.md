@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [380. Captain Cook: History’s Greatest Explorer (Part 1)](sources/380-captain-cook-historys-greatest-explorer-part-1-glt8106697435.md) — The Rest Is History episode on Cook's survey formation, the transit-of-Venus mission, Banks's scientific party, Endeavour logistics, crew health, and the voyage's concealed imperial purpose.
 - [Curing All Human Diseases & the Future of Health & Technology | Mark Zuckerberg & Dr. Priscilla Chan](sources/curing-all-human-diseases-the-future-of-health-technology-mark-zuckerberg-dr-priscilla-chan-scim6005948638.md) — Huberman Lab interview on CZI's biomedical tool-building, single-cell atlases, virtual cells, Biohubs, social-media design, mixed reality, smart glasses, and creator-controlled AI.
 - [VOL.80整形科｜秃头姐妹不要慌 自救干货帮你忙](sources/vol-80-zhengxingke-tutou-jiemei-buyao-huang-zijiu-ganhuo-bang-ni-mang-li5aqx1zugvobfuifx7hkhyvevox.md) — 这病说来话长 episode on women's hair-loss differential diagnosis, follicle cycles, minoxidil adherence and adverse effects, reproductive caution, and sponsor-linked product claims.
 - [381. Captain Cook: To the Ends of the Earth (Part 2)](sources/381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057.md) — The Rest Is History episode on Cook's Tahiti science mission, Tupia's translation, Māori and Aboriginal encounters, Pacific navigation, coercive first contact, mapping, and British territorial claims.
@@ -2993,10 +2994,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Chan Zuckerberg Initiative](entities/ChanZuckerbergInitiative.md) — Philanthropic organization combining grants, open science, software, hardware, data, compute, Biohubs, and patient-led rare-disease capacity.
 - [Chan Zuckerberg Biohub Network](entities/ChanZuckerbergBiohubNetwork.md) — Cross-university research model for focused interdisciplinary biomedical programs.
 - [Cellxgene](entities/Cellxgene.md) — CZI tool for exploring single-cell gene expression across cell types, tissues, and scientific literature.
-- [James Cook](entities/JamesCook.md) — Endeavour commander whose scientific discipline and navigational achievement coexist with coercive encounter, imperial claim, and colonial consequence.
-- [Joseph Banks](entities/JosephBanks.md) — Endeavour naturalist whose curiosity and remorse coexist with interpretive projection, collecting, objectification, and later colonial advocacy.
+- [James Cook](entities/JamesCook.md) — Merchant-trained surveyor and Endeavour commander whose scientific discipline and navigational achievement coexist with coercive encounter, imperial claim, and colonial consequence.
+- [Joseph Banks](entities/JosephBanks.md) — Wealthy Endeavour naturalist and scientific organizer whose curiosity and remorse coexist with interpretive projection, collecting, objectification, and later colonial advocacy.
 - [Tupia](entities/Tupia.md) — Tahitian navigator and translator whose agency and knowledge reshaped Cook's New Zealand encounters.
-- [HMS Endeavour](entities/Endeavour.md) — Scientific platform, armed shipboard society, trading environment, and contingent vehicle of British imperial claim.
+- [HMS Endeavour](entities/Endeavour.md) — Scientific, logistical, armed, and trading platform that became a contingent vehicle of British imperial claim.
 - [Tahiti](entities/Tahiti.md) — Polynesian island where the transit-of-Venus mission became an encounter shaped by exchange, disease risk, violence, and mutual curiosity.
 - [Māori](entities/Maori.md) — Indigenous Polynesian people whose resistance, translation-mediated diplomacy, and seafaring history shape Cook's New Zealand encounters.
 - [Aboriginal Australians](entities/AboriginalAustralians.md) — Indigenous peoples whose indifference, refusal, resistance, and limited exchange complicate the British discovery frame.

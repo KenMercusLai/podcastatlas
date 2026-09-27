@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1252
+topic_total_pages: 1253
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -3246,6 +3246,9 @@ topic_sources:
   - key: "37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679"
     title: "37.智商测试：请问你是智力婆罗门吗？"
     url: "/wiki/sources/37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679/"
+  - key: "380-captain-cook-historys-greatest-explorer-part-1-glt8106697435"
+    title: "380. Captain Cook: History’s Greatest Explorer (Part 1)"
+    url: "/wiki/sources/380-captain-cook-historys-greatest-explorer-part-1-glt8106697435/"
   - key: "381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057"
     title: "381. Captain Cook: To the Ends of the Earth (Part 2)"
     url: "/wiki/sources/381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057/"

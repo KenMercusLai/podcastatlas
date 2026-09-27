@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-27] ingest | 380. Captain Cook: History’s Greatest Explorer (Part 1)
+
+Added source `380-captain-cook-historys-greatest-explorer-part-1-glt8106697435`; and updated `JamesCook`, `JosephBanks`, `Endeavour`, `ScientificExplorationImperialClaim`, and the canonical index from their complete bounded source sets. Core synthesis: Cook's coal-trade seamanship, wartime and Newfoundland survey work, Banks's privately resourced scientific party, and the Endeavour's logistical discipline made the transit-of-Venus mission possible, while confidential Admiralty objectives joined scientific knowledge to strategic search and prospective territorial claim from the outset. No settled contradiction with Part 2 was found. The South Sea shilling story, private motives, personal-life detail, valuations, meetings, transit calculations, and specific scurvy-prevention claims remain anecdotal or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-27] ingest | Mental Health Toolkit: Tools to Bolster Your Mood & Mental Health
 
 Added source `mental-health-toolkit-tools-to-bolster-your-mood-mental-health-scim1991900083`; created `MentalHealthBiologicalFoundations`, `PhysiologicalSigh`, and `ReflectiveSelfExploration`; and updated `PaulConti`, `EmotionalGranularity`, `DayNightLightMentalHealth`, `GenerativeDrive`, `LiminalSleepTransitionPractice`, and the canonical index from their complete bounded source sets. Core synthesis: sleep, light-dark exposure, movement, nutrition, social connection, and stress regulation create a necessary but insufficient biological platform for precise emotional awareness, reflective self-exploration, agency, gratitude, and generative action. No settled contradiction found. Exact sleep, light, exercise, cold, breathing, medication, psychedelic, supplement, HRV, dream, and trauma claims remain source-scoped public education; serious mental illness and major or repeated trauma remain qualified-care contexts. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -23698,6 +23702,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-27] ingest | Curing All Human Diseases & the Future of Health & Technology | Mark Zuckerberg & Dr. Priscilla Chan
 
 Added source `curing-all-human-diseases-the-future-of-health-technology-mark-zuckerberg-dr-priscilla-chan-scim6005948638`; created `PriscillaChan`, `ChanZuckerbergInitiative`, `ChanZuckerbergBiohubNetwork`, `Cellxgene`, and `BiomedicalResearchToolInfrastructure`; and updated `MarkZuckerberg`, `SingleCellRNASequencing`, `VirtualCellWorldModel`, `MixedReality`, and the canonical index from their complete bounded source sets. Core synthesis: CZI treats grants, open dissemination, single-cell atlases, software, imaging, compute, and Biohubs as shared research infrastructure, while virtual-cell models remain hypothesis and experiment-prioritization tools whose claims require biological and human validation. The episode also frames social media, mixed reality, smart glasses, and creator AI as design-dependent technologies shaped by connection quality, user controls, physical engagement, privacy, and authorization. No settled contradiction found. Mission scale, atlas completeness, product safety, training effects, privacy adequacy, and future-interface adoption remain source-scoped founder claims. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-27] lint | Wiki health check
 

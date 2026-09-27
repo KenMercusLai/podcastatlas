@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2069
+topic_total_pages: 2070
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -4644,6 +4644,9 @@ topic_sources:
   - key: "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008"
     title: "318: Hundred Years' War: A Game of Thrones (Part 1)"
     url: "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+  - key: "380-captain-cook-historys-greatest-explorer-part-1-glt8106697435"
+    title: "380. Captain Cook: History’s Greatest Explorer (Part 1)"
+    url: "/wiki/sources/380-captain-cook-historys-greatest-explorer-part-1-glt8106697435/"
   - key: "381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057"
     title: "381. Captain Cook: To the Ends of the Earth (Part 2)"
     url: "/wiki/sources/381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057/"

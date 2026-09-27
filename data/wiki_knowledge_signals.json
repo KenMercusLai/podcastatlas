@@ -47325,9 +47325,9 @@
       "url": "/wiki/concepts/encirclingweitorescuezhao/"
     },
     "Endeavour": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6950185057 [GLT6950185057].md",
@@ -47335,6 +47335,13 @@
           "show": "The Rest Is History",
           "title": "381. Captain Cook: To the Ends of the Earth (Part 2)",
           "url": "/wiki/sources/381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057/"
+        },
+        {
+          "episode_file": "GLT8106697435 [GLT8106697435].md",
+          "key": "380-captain-cook-historys-greatest-explorer-part-1-glt8106697435",
+          "show": "The Rest Is History",
+          "title": "380. Captain Cook: History’s Greatest Explorer (Part 1)",
+          "url": "/wiki/sources/380-captain-cook-historys-greatest-explorer-part-1-glt8106697435/"
         }
       ],
       "updated": "2026-09-27",
@@ -79573,9 +79580,9 @@
       "url": "/wiki/entities/jamescameron/"
     },
     "JamesCook": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6950185057 [GLT6950185057].md",
@@ -79583,6 +79590,13 @@
           "show": "The Rest Is History",
           "title": "381. Captain Cook: To the Ends of the Earth (Part 2)",
           "url": "/wiki/sources/381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057/"
+        },
+        {
+          "episode_file": "GLT8106697435 [GLT8106697435].md",
+          "key": "380-captain-cook-historys-greatest-explorer-part-1-glt8106697435",
+          "show": "The Rest Is History",
+          "title": "380. Captain Cook: History’s Greatest Explorer (Part 1)",
+          "url": "/wiki/sources/380-captain-cook-historys-greatest-explorer-part-1-glt8106697435/"
         }
       ],
       "updated": "2026-09-27",
@@ -82811,9 +82825,9 @@
       "url": "/wiki/entities/josefhoyos/"
     },
     "JosephBanks": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6950185057 [GLT6950185057].md",
@@ -82821,6 +82835,13 @@
           "show": "The Rest Is History",
           "title": "381. Captain Cook: To the Ends of the Earth (Part 2)",
           "url": "/wiki/sources/381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057/"
+        },
+        {
+          "episode_file": "GLT8106697435 [GLT8106697435].md",
+          "key": "380-captain-cook-historys-greatest-explorer-part-1-glt8106697435",
+          "show": "The Rest Is History",
+          "title": "380. Captain Cook: History’s Greatest Explorer (Part 1)",
+          "url": "/wiki/sources/380-captain-cook-historys-greatest-explorer-part-1-glt8106697435/"
         }
       ],
       "updated": "2026-09-27",
@@ -132769,9 +132790,9 @@
       "url": "/wiki/concepts/sciencetrustpoliticization/"
     },
     "ScientificExplorationImperialClaim": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6950185057 [GLT6950185057].md",
@@ -132779,6 +132800,13 @@
           "show": "The Rest Is History",
           "title": "381. Captain Cook: To the Ends of the Earth (Part 2)",
           "url": "/wiki/sources/381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057/"
+        },
+        {
+          "episode_file": "GLT8106697435 [GLT8106697435].md",
+          "key": "380-captain-cook-historys-greatest-explorer-part-1-glt8106697435",
+          "show": "The Rest Is History",
+          "title": "380. Captain Cook: History’s Greatest Explorer (Part 1)",
+          "url": "/wiki/sources/380-captain-cook-historys-greatest-explorer-part-1-glt8106697435/"
         }
       ],
       "updated": "2026-09-27",
