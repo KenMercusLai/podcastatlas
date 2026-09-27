@@ -23607,3 +23607,11 @@ Added source `385-the-fall-of-the-aztecs-the-woman-who-changed-the-world-part-2-
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | Improving Male Sexual Health, Function & Fertility | Dr. Michael Eisenberg
+
+Added source `improving-male-sexual-health-function-fertility-dr-michael-eisenberg-scim8414501670`; created `MichaelEisenberg`, `MaleReproductiveHealthAssessment`, `ErectileDysfunctionVascularTriage`, and `PaternalAgeRiskCounseling`; and updated `MaleHormoneHealthPhenotyping`, `AndrogenInterventionClinicalBoundary`, and the canonical index from their complete bounded source sets. Core synthesis: male reproductive and sexual health is best assessed through semen dimensions, hormones, fertility goals, medication effects, anatomy, sexual and urinary symptoms, and cardiometabolic context rather than a single testosterone value or internet heuristic. No settled contradiction found. Population sperm decline, exposure effects, paternal-age associations, treatment response rates, post-finasteride symptoms, penile-length trends, and numeric prevalence remain source-scoped; the source is public education rather than individualized medical advice. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -2974,6 +2974,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Prevent & Treat Colds & Flu](sources/how-to-prevent-treat-colds-flu-scim6817932732.md) — Huberman Lab solo episode on respiratory-virus transmission, layered immune defense, sleep and training load, heat boundaries, and supplement evidence.
 - [A Science-Supported Journaling Protocol to Improve Mental & Physical Health](sources/a-science-supported-journaling-protocol-to-improve-mental-physical-health-scim8054388666.md) — Huberman Lab solo episode on Pennebaker-style expressive writing, repeated trauma narration, recovery safeguards, and evidence-bounded mental, physical, and immune claims.
 
+- [Improving Male Sexual Health, Function & Fertility | Dr. Michael Eisenberg](sources/improving-male-sexual-health-function-fertility-dr-michael-eisenberg-scim8414501670.md) — Huberman Lab interview on male fertility, semen testing, hormone intervention, erectile and urinary health, paternal age, and evidence-bounded urologic care.
+
 ## Entities
 - [Geronimo de Aguilar](entities/GeronimoDeAguilar.md) — Spanish shipwreck survivor whose Maya-language skill formed the first Spanish-facing link in Cortes's interpretation chain.
 - [Diego Velazquez de Cuellar](entities/DiegoVelazquezDeCuellar.md) — Cuban governor whose exploratory commission Cortes exceeded and bypassed through Vera Cruz.
@@ -13988,6 +13990,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kay Tye](entities/KayTye.md) — Neuroscientist connecting emotional-valence circuits to loneliness, social homeostasis, hierarchy, and sustainable scientific leadership.
 - [James Pennebaker](entities/JamesPennebaker.md) — Psychologist associated with the repeated expressive-writing paradigm and research linking language, distress, health, and immune measures.
 
+- [Michael Eisenberg](entities/MichaelEisenberg.md) — Urologist and researcher framing male fertility and sexual function through objective testing, whole-body health, and treatment boundaries.
+
 ## Concepts
 - [Requerimiento](concepts/Requerimiento.md) — Coercive declaration joining Christian history and royal authority to demands for Indigenous submission and conversion.
 - [Vera Cruz Legal Coup](concepts/VeraCruzLegalCoup.md) — Municipal maneuver through which Cortes bypassed Cuban authority and sought direct royal legitimacy.
@@ -22393,5 +22397,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Diversified Happiness Portfolio](concepts/DiversifiedHappinessPortfolio.md) — Resilience frame based on maintaining several meaningful life domains rather than tying wellbeing to one achievement hierarchy.
 - [Cold and Flu Supplement Evidence Boundary](concepts/ColdFluSupplementEvidenceBoundary.md) — Evidence and safety hierarchy separating deficiency correction, symptom support, limited trials, and treatment claims for common cold and influenza supplements.
 - [Expressive Writing Protocol](concepts/ExpressiveWritingProtocol.md) — Four-session private writing practice joining facts, emotions, and associations with recovery and professional-care boundaries.
+
+- [Male Reproductive Health Assessment](concepts/MaleReproductiveHealthAssessment.md) — Combined interpretation of semen, hormones, sexual function, exposures, anatomy, age, and general health.
+- [Erectile Dysfunction Vascular Triage](concepts/ErectileDysfunctionVascularTriage.md) — Persistent erectile difficulty as a multi-cause symptom that can warrant cardiovascular and metabolic assessment.
+- [Paternal Age Risk Counseling](concepts/PaternalAgeRiskCounseling.md) — Non-deterministic interpretation of paternal-age associations, absolute risk, and sperm-selection limits.
 
 ## Syntheses

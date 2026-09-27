@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8391
+wiki_total_pages: 8394
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -245,6 +245,9 @@ wiki_pages:
   - key: "PatentThicket"
     title: "Patent Thicket"
     url: "/wiki/concepts/patentthicket/"
+  - key: "PaternalAgeRiskCounseling"
+    title: "Paternal Age Risk Counseling"
+    url: "/wiki/concepts/paternalageriskcounseling/"
   - key: "PathDependence"
     title: "Path Dependence"
     url: "/wiki/concepts/pathdependence/"

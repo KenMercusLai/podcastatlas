@@ -9144,9 +9144,9 @@
       "url": "/wiki/entities/andrewpalmer/"
     },
     "AndrogenInterventionClinicalBoundary": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM5974928415 [SCIM5974928415].md",
@@ -9161,6 +9161,13 @@
           "show": "Huberman Lab",
           "title": "LIVE EVENT Q&A: Dr. Andrew Huberman at Meridian Hall in Toronto",
           "url": "/wiki/sources/live-event-q-a-dr-andrew-huberman-at-meridian-hall-in-toronto-scim7370892669/"
+        },
+        {
+          "episode_file": "SCIM8414501670 [SCIM8414501670].md",
+          "key": "improving-male-sexual-health-function-fertility-dr-michael-eisenberg-scim8414501670",
+          "show": "Huberman Lab",
+          "title": "Improving Male Sexual Health, Function & Fertility | Dr. Michael Eisenberg",
+          "url": "/wiki/sources/improving-male-sexual-health-function-fertility-dr-michael-eisenberg-scim8414501670/"
         }
       ],
       "updated": "2026-09-27",
@@ -48452,6 +48459,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/ernianluling/"
+    },
+    "ErectileDysfunctionVascularTriage": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8414501670 [SCIM8414501670].md",
+          "key": "improving-male-sexual-health-function-fertility-dr-michael-eisenberg-scim8414501670",
+          "show": "Huberman Lab",
+          "title": "Improving Male Sexual Health, Function & Fertility | Dr. Michael Eisenberg",
+          "url": "/wiki/sources/improving-male-sexual-health-function-fertility-dr-michael-eisenberg-scim8414501670/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/erectiledysfunctionvasculartriage/"
     },
     "EricAbramovich": {
       "episode_count": 1,
@@ -98324,9 +98347,9 @@
       "url": "/wiki/concepts/maleemotionalintimacyneed/"
     },
     "MaleHormoneHealthPhenotyping": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM5974928415 [SCIM5974928415].md",
@@ -98341,6 +98364,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Optimize Testosterone & Estrogen",
           "url": "/wiki/sources/essentials-how-to-optimize-testosterone-estrogen-scim1902283258/"
+        },
+        {
+          "episode_file": "SCIM8414501670 [SCIM8414501670].md",
+          "key": "improving-male-sexual-health-function-fertility-dr-michael-eisenberg-scim8414501670",
+          "show": "Huberman Lab",
+          "title": "Improving Male Sexual Health, Function & Fertility | Dr. Michael Eisenberg",
+          "url": "/wiki/sources/improving-male-sexual-health-function-fertility-dr-michael-eisenberg-scim8414501670/"
         }
       ],
       "updated": "2026-09-22",
@@ -98377,6 +98407,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/malementorshipresponsibility/"
+    },
+    "MaleReproductiveHealthAssessment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8414501670 [SCIM8414501670].md",
+          "key": "improving-male-sexual-health-function-fertility-dr-michael-eisenberg-scim8414501670",
+          "show": "Huberman Lab",
+          "title": "Improving Male Sexual Health, Function & Fertility | Dr. Michael Eisenberg",
+          "url": "/wiki/sources/improving-male-sexual-health-function-fertility-dr-michael-eisenberg-scim8414501670/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/malereproductivehealthassessment/"
     },
     "MaleUrologicalHealthMisconceptions": {
       "episode_count": 1,
@@ -102418,6 +102464,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/entities/michaelcollins/"
+    },
+    "MichaelEisenberg": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8414501670 [SCIM8414501670].md",
+          "key": "improving-male-sexual-health-function-fertility-dr-michael-eisenberg-scim8414501670",
+          "show": "Huberman Lab",
+          "title": "Improving Male Sexual Health, Function & Fertility | Dr. Michael Eisenberg",
+          "url": "/wiki/sources/improving-male-sexual-health-function-fertility-dr-michael-eisenberg-scim8414501670/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/michaeleisenberg/"
     },
     "MichaelKratsios": {
       "episode_count": 3,
@@ -114131,6 +114193,22 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/entities/patagoniaregion/"
+    },
+    "PaternalAgeRiskCounseling": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8414501670 [SCIM8414501670].md",
+          "key": "improving-male-sexual-health-function-fertility-dr-michael-eisenberg-scim8414501670",
+          "show": "Huberman Lab",
+          "title": "Improving Male Sexual Health, Function & Fertility | Dr. Michael Eisenberg",
+          "url": "/wiki/sources/improving-male-sexual-health-function-fertility-dr-michael-eisenberg-scim8414501670/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/paternalageriskcounseling/"
     },
     "PaternalLocalOfficeEthic": {
       "episode_count": 1,

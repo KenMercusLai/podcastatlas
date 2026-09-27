@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 8391
+wiki_total_pages: 8394
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -722,6 +722,9 @@ wiki_pages:
   - key: "EraTransitionProximity"
     title: "Era Transition Proximity / 时代远走与新文明靠近"
     url: "/wiki/concepts/eratransitionproximity/"
+  - key: "ErectileDysfunctionVascularTriage"
+    title: "Erectile Dysfunction Vascular Triage"
+    url: "/wiki/concepts/erectiledysfunctionvasculartriage/"
   - key: "EroticBlueprint"
     title: "Erotic Blueprint"
     url: "/wiki/concepts/eroticblueprint/"

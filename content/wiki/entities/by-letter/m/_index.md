@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 10999
+wiki_total_pages: 11000
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -899,6 +899,9 @@ wiki_pages:
   - key: "MichaelDell"
     title: "Michael Dell"
     url: "/wiki/entities/michaeldell/"
+  - key: "MichaelEisenberg"
+    title: "Michael Eisenberg"
+    url: "/wiki/entities/michaeleisenberg/"
   - key: "MichaelEisner"
     title: "Michael Eisner"
     url: "/wiki/entities/michaeleisner/"

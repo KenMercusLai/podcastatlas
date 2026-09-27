@@ -5,6 +5,7 @@ tags: [mens-health, hormones, biomarkers, prevention]
 sources:
   - essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415
   - essentials-how-to-optimize-testosterone-estrogen-scim1902283258
+  - improving-male-sexual-health-function-fertility-dr-michael-eisenberg-scim8414501670
 last_updated: 2026-09-22
 knowledge_schema: synthesis-v1
 ---
@@ -20,6 +21,8 @@ The Gillett episode treats male hormone optimization as a measurement-and-contex
 The practical hierarchy is conservative. Start with diet, sleep, exercise, stress management, purpose, fiber, essential fatty acids, vitamin D, and appropriate energy availability, especially during adolescence and early adulthood. Supplements and prescription interventions enter only after the phenotype is clearer and the tradeoffs are interpreted with medical context.
 
 The solo Essentials episode broadens the phenotype beyond male-only testosterone targets. Estradiol, aromatase, LH, DHT, reproductive feedback, illness, sleep quality, stress, light timing, and training structure all affect interpretation, while acute behavioral changes do not establish durable benefit.
+
+The Eisenberg interview adds a reproductive and vascular phenotype. Appearance and obesity alone do not reliably predict testosterone or semen quality; fertility goals, semen analysis, LH/FSH feedback, medication exposure, erectile function, cardiometabolic risk, prolactin, varicocele, and testicular findings can change both interpretation and treatment choice.
 
 ## Key Claims
 - Testosterone assessment should include SHBG context or free testosterone rather than total testosterone alone.
@@ -37,6 +40,7 @@ The solo Essentials episode broadens the phenotype beyond male-only testosterone
 - Lifestyle foundations: [[essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415]] names diet, sleep, exercise, stress management, purpose, fiber, essential fatty acids, and calorie context as hormone-relevant inputs.
 - Clinical monitoring: [[essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415]] describes about six months as a typical bloodwork follow-up interval using shared decision-making with a physician.
 - Feedback and behavioral context: [[essentials-how-to-optimize-testosterone-estrogen-scim1902283258]] connects testosterone, estradiol, aromatase, LH, DHT, sleep, illness, stress, light, and exercise while emphasizing bloodwork and feedback effects.
+- Reproductive and clinical context: [[improving-male-sexual-health-function-fertility-dr-michael-eisenberg-scim8414501670]] connects testosterone interpretation with semen testing, LH/FSH suppression, prolactin, erectile function, cardiometabolic health, varicocele, testicular findings, and fertility goals.
 
 ## Counterevidence & Qualifications
 The sources do not supply a universal lab schedule, target range, diet plan, or treatment protocol. Acute testosterone changes after competition or exercise do not by themselves establish durable health benefit. These episodes are public education about how to structure clinical conversation; abnormal labs, sleep apnea, infertility concerns, puberty/development issues, medication decisions, hair-loss treatment, sexual symptoms, cardiovascular risk, cancer history, mental-status changes, and hormone therapy require qualified medical assessment.
@@ -44,6 +48,7 @@ The sources do not supply a universal lab schedule, target range, diet plan, or 
 ## What Changed
 - Created the male hormone phenotyping frame to organize testosterone, SHBG, DHT, IGF-1, lifestyle foundations, fertility, and clinical monitoring.
 - Added estradiol conversion, pituitary feedback, sleep, stress, light, illness, and training context while preserving the measurement-first boundary.
+- Added semen, sexual-function, vascular-risk, medication, prolactin, and anatomic context to the phenotype.
 
 ## Related Concepts
 - [[FemaleHormoneHealthPhenotyping]] - parallel individualized hormone-measurement frame for women.
@@ -54,3 +59,5 @@ The sources do not supply a universal lab schedule, target range, diet plan, or 
 - [[AndrogenInterventionClinicalBoundary]] - downstream prescription and hormone-altering treatment boundary.
 - [[AndrogenSupportSupplementBoundary]] - downstream supplement boundary for androgen-support claims.
 - [[SexSteroidFeedbackRegulation]] - broader cross-sex endocrine feedback model that contains the male phenotype.
+- [[MaleReproductiveHealthAssessment]] - broader fertility and urologic assessment frame in which hormone results are interpreted.
+- [[ErectileDysfunctionVascularTriage]] - sexual-function branch that prevents low-testosterone assumptions from replacing vascular assessment.
