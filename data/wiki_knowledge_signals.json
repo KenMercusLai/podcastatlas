@@ -79094,9 +79094,9 @@
       "url": "/wiki/concepts/interventionalultrasoundsafety/"
     },
     "InterventionsTestingProgram": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7110594668 [SCIM7110594668].md",
@@ -79104,9 +79104,16 @@
           "show": "Huberman Lab",
           "title": "Supplements for Longevity & Their Efficacy | Dr. Peter Attia",
           "url": "/wiki/sources/supplements-for-longevity-their-efficacy-dr-peter-attia-scim7110594668/"
+        },
+        {
+          "episode_file": "SCIM5394566255 [SCIM5394566255].md",
+          "key": "journal-club-with-dr-peter-attia-metformin-for-longevity-the-power-of-belief-effects-scim5394566255",
+          "show": "Huberman Lab",
+          "title": "Journal Club With Dr. Peter Attia | Metformin for Longevity & the Power of Belief Effects",
+          "url": "/wiki/sources/journal-club-with-dr-peter-attia-metformin-for-longevity-the-power-of-belief-effects-scim5394566255/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/interventionstestingprogram/"
     },
     "IntracranialCircuitMapping": {
@@ -102836,9 +102843,9 @@
       "url": "/wiki/concepts/mechanismbasedbackpainassessment/"
     },
     "MechanismOutcomeEvidenceHierarchy": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM5519161031 [SCIM5519161031].md",
@@ -102860,9 +102867,16 @@
           "show": "Huberman Lab",
           "title": "AMA #12: Thoughts on Longevity Supplements (Resveratrol, NR, NMN, Etc.) & How to Improve Memory",
           "url": "/wiki/sources/ama-12-thoughts-on-longevity-supplements-resveratrol-nr-nmn-etc-how-to-improve-memory-scim5764692205/"
+        },
+        {
+          "episode_file": "SCIM5394566255 [SCIM5394566255].md",
+          "key": "journal-club-with-dr-peter-attia-metformin-for-longevity-the-power-of-belief-effects-scim5394566255",
+          "show": "Huberman Lab",
+          "title": "Journal Club With Dr. Peter Attia | Metformin for Longevity & the Power of Belief Effects",
+          "url": "/wiki/sources/journal-club-with-dr-peter-attia-metformin-for-longevity-the-power-of-belief-effects-scim5394566255/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/mechanismoutcomeevidencehierarchy/"
     },
     "Medallia": {
@@ -104205,6 +104219,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/concepts/metabolicpsychiatry/"
+    },
+    "MetforminLongevityEvidenceBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5394566255 [SCIM5394566255].md",
+          "key": "journal-club-with-dr-peter-attia-metformin-for-longevity-the-power-of-belief-effects-scim5394566255",
+          "show": "Huberman Lab",
+          "title": "Journal Club With Dr. Peter Attia | Metformin for Longevity & the Power of Belief Effects",
+          "url": "/wiki/sources/journal-club-with-dr-peter-attia-metformin-for-longevity-the-power-of-belief-effects-scim5394566255/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/metforminlongevityevidenceboundary/"
     },
     "MethodologyDisarmament": {
       "episode_count": 1,
@@ -118513,9 +118543,9 @@
       "url": "/wiki/entities/petenitzsche/"
     },
     "PeterAttia": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM5907126956 [SCIM5907126956].md",
@@ -118537,9 +118567,16 @@
           "show": "Huberman Lab",
           "title": "Journal Club with Dr. Peter Attia | Effects of Light & Dark on Mental Health & Treatments for Cancer",
           "url": "/wiki/sources/journal-club-with-dr-peter-attia-effects-of-light-dark-on-mental-health-treatments-for-cancer-scim9183043757/"
+        },
+        {
+          "episode_file": "SCIM5394566255 [SCIM5394566255].md",
+          "key": "journal-club-with-dr-peter-attia-metformin-for-longevity-the-power-of-belief-effects-scim5394566255",
+          "show": "Huberman Lab",
+          "title": "Journal Club With Dr. Peter Attia | Metformin for Longevity & the Power of Belief Effects",
+          "url": "/wiki/sources/journal-club-with-dr-peter-attia-metformin-for-longevity-the-power-of-belief-effects-scim5394566255/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/peterattia/"
     },
     "PeterDawes": {
@@ -153752,9 +153789,9 @@
       "url": "/wiki/concepts/treasurybuybackpolicy/"
     },
     "TreatmentContextDoseExpectation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2208611274 [SCIM2208611274].md",
@@ -153762,9 +153799,16 @@
           "show": "Huberman Lab",
           "title": "How Placebo Effects Work to Change Our Biology & Psychology",
           "url": "/wiki/sources/how-placebo-effects-work-to-change-our-biology-psychology-scim2208611274/"
+        },
+        {
+          "episode_file": "SCIM5394566255 [SCIM5394566255].md",
+          "key": "journal-club-with-dr-peter-attia-metformin-for-longevity-the-power-of-belief-effects-scim5394566255",
+          "show": "Huberman Lab",
+          "title": "Journal Club With Dr. Peter Attia | Metformin for Longevity & the Power of Belief Effects",
+          "url": "/wiki/sources/journal-club-with-dr-peter-attia-metformin-for-longevity-the-power-of-belief-effects-scim5394566255/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/treatmentcontextdoseexpectation/"
     },
     "TreatyOfParis1783": {

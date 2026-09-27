@@ -23932,3 +23932,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | Journal Club With Dr. Peter Attia | Metformin for Longevity & the Power of Belief Effects
+
+Added source `journal-club-with-dr-peter-attia-metformin-for-longevity-the-power-of-belief-effects-scim5394566255`; created `MetforminLongevityEvidenceBoundary`; and updated `PeterAttia`, `MechanismOutcomeEvidenceHierarchy`, `TreatmentContextDoseExpectation`, `InterventionsTestingProgram`, and the canonical index from their complete bounded source sets. Core synthesis: metformin's clinical value for insulin resistance or type 2 diabetes does not establish geroprotection in insulin-sensitive healthy people; informative censoring and comparison with non-diabetic controls prevent observational mortality estimates from isolating the drug's causal effect; and believed nicotine dose may scale subjective and specific brain-pathway responses under active exposure without showing that belief reproduces every drug effect. No settled contradiction is adopted. The Danish registry result does not show metformin causes excess mortality, while the nicotine preprint's sample, missing zero-dose control, and pathway-specific findings remain explicit limitations. Medication, glucose, exercise, fasting, and tapering claims remain source-scoped public education. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

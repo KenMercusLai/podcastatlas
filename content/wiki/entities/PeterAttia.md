@@ -6,7 +6,8 @@ sources:
   - improve-vitality-emotional-physical-health-lifespan-dr-peter-attia-scim5907126956
   - supplements-for-longevity-their-efficacy-dr-peter-attia-scim7110594668
   - journal-club-with-dr-peter-attia-effects-of-light-dark-on-mental-health-treatments-for-cancer-scim9183043757
-last_updated: 2026-09-27
+  - journal-club-with-dr-peter-attia-metformin-for-longevity-the-power-of-belief-effects-scim5394566255
+last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
 
@@ -20,7 +21,7 @@ Across the sources, Attia is presented as a prevention-oriented clinician whose 
 
 The profile is measurement-heavy but not biomarker credulous. Attia emphasizes ApoB-bearing particles, blood pressure, insulin resistance, screening tradeoffs, kidney-function interpretation, exercise pillars, and brain-health levers, while arguing in the supplement episode that pathway importance, changing NAD levels, subgroup results, biological-age tests, and personal response do not establish longer life. He treats [[InterventionsTestingProgram|mouse survival evidence]] as a stronger preclinical filter, while still keeping human translation explicit. The first two sources ultimately place exercise, sleep, nutrition, emotional health, presence, relationship repair, and physiological reserve above speculative longevity products.
 
-The Journal Club source extends that evidence posture into paper reading and oncology. Attia presses the observational light study on odds ratios, covariate adjustment, overpowered samples, reverse causality, dose-response, and Bradford Hill reasoning rather than treating association as proof. In the melanoma half, he uses antigen presentation, [[CancerImmuneRecognitionProblem]], [[TumorMicroenvironment]], CTLA-4 blockade, randomization, overall survival, subgroup uncertainty, quality of life, cost, and autoimmune toxicity to show why a landmark mechanism still requires hard clinical endpoints and patient-level tradeoffs.
+The Journal Club sources extend that evidence posture into paper reading, oncology, and geroscience. Attia presses observational studies on odds ratios, covariate adjustment, informative censoring, reverse causality, comparator fit, dose-response, and residual confounding rather than treating association as proof. In the melanoma discussion, he uses antigen presentation, [[CancerImmuneRecognitionProblem]], [[TumorMicroenvironment]], CTLA-4 blockade, randomization, overall survival, subgroup uncertainty, quality of life, cost, and autoimmune toxicity to show why a landmark mechanism still requires hard clinical endpoints and patient-level tradeoffs. In the metformin discussion, [[MetforminLongevityEvidenceBoundary]] separates continued use for insulin-resistant patients from unproven geroprotection in insulin-sensitive, highly active people.
 
 ## Key Characteristics
 - Frames longevity as a combination of lifespan and three-part healthspan rather than survival alone.
@@ -38,14 +39,14 @@ The Journal Club source extends that evidence posture into paper reading and onc
 - Evidence standard: [[supplements-for-longevity-their-efficacy-dr-peter-attia-scim7110594668]] contrasts NAD mechanisms, resveratrol, NR/NMN studies, tissue biomarkers, and biological-age tests with survival evidence from the [[InterventionsTestingProgram]].
 - Emotional-health branch: [[improve-vitality-emotional-physical-health-lifespan-dr-peter-attia-scim5907126956]] gives Attia's account of treatment, journaling, therapy, DBT, relationship repair, anger, self-talk, and presence.
 - Journal Club method: [[journal-club-with-dr-peter-attia-effects-of-light-dark-on-mental-health-treatments-for-cancer-scim9183043757]] shows Attia testing a large observational light study for confounding and reverse causality, then reading an advanced-melanoma trial through randomization, overall survival, subgroup uncertainty, toxicity, quality of life, and cost.
+- Metformin evidence boundary: [[journal-club-with-dr-peter-attia-metformin-for-longevity-the-power-of-belief-effects-scim5394566255]] shows Attia reassessing a favorable observational mortality result through informative censoring, registry and discordant-twin comparisons, medication confounding, inappropriate causal inference, and the need for a randomized trial.
 
 ## Qualifications
-This profile is bounded to three Huberman Lab source notes, not a complete biography, independent credential review, systematic evidence review, or endorsement of Attia's personal medication and supplement choices. It does not convert his comments on ApoB, blood pressure, screening, radiation, rapamycin, SGLT2 or lipid medicines, NAD products, exercise, alcohol, psychiatric light exposure, checkpoint inhibition, cancer treatment, mental health, or therapy into individualized medical, psychiatric, oncology, or coaching advice.
+This profile is bounded to four Huberman Lab source notes, not a complete biography, independent credential review, systematic evidence review, or endorsement of Attia's personal medication and supplement choices. It does not convert his comments on ApoB, blood pressure, screening, radiation, metformin, SGLT2 or lipid medicines, rapamycin, NAD products, exercise, fasting, alcohol, psychiatric light exposure, checkpoint inhibition, cancer treatment, mental health, or therapy into individualized medical, psychiatric, oncology, prescribing, or coaching advice. His personal lactate observations and judgments about exercise attenuation generate hypotheses but do not establish effect size or general applicability.
 
 ## What Changed
-- Added a stricter intervention-evidence profile separating mechanisms, biomarkers, animal survival, human outcomes, and personal experience.
-- Clarified that Attia's foundations-first longevity model ranks exercise, sleep, nutrition, and emotional health above NAD supplementation.
-- Expanded the profile from longevity into Journal Club study interpretation and cancer-immunotherapy risk-benefit analysis.
+- Added metformin as a concrete case in which clinical utility for metabolic disease does not establish general geroprotection.
+- Expanded the Journal Club profile to informative censoring, comparator mismatch, registry and twin evidence, and randomized-trial need.
 
 ## Relationships
 - [[HubermanLab]] - show context for the interviews.
@@ -61,4 +62,5 @@ This profile is bounded to three Huberman Lab source notes, not a complete biogr
 - [[NADTherapyEvidenceBoundary]] - supplement-efficacy boundary Attia applies to NAD, NR, and NMN.
 - [[MechanismOutcomeEvidenceHierarchy]] - method separating plausible biology from meaningful outcomes.
 - [[InterventionsTestingProgram]] - preclinical longevity-testing benchmark Attia emphasizes.
+- [[MetforminLongevityEvidenceBoundary]] - indication-specific distinction between diabetes treatment and unproven longevity use.
 - [[ImmuneCheckpointInhibition]] - oncology mechanism and clinical tradeoff Attia explains through the melanoma trial.

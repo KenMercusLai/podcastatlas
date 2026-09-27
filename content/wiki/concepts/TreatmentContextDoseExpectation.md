@@ -4,7 +4,8 @@ type: concept
 tags: [placebo, treatment-context, expectation, cognition]
 sources:
   - how-placebo-effects-work-to-change-our-biology-psychology-scim2208611274
-last_updated: 2026-09-26
+  - journal-club-with-dr-peter-attia-metformin-for-longevity-the-power-of-belief-effects-scim5394566255
+last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
 
@@ -14,7 +15,9 @@ knowledge_schema: synthesis-v1
 Treatment context and dose expectation describe how packaging, branding, color, route, complexity, instructions, and stated dose can alter the predicted strength or kind of an intervention and thereby influence response.
 
 ## Current Synthesis
-The episode presents treatment delivery as information. Brand-name appearance, labeled packaging, pill color, capsules, injections, and devices can carry learned meanings about potency or effect category. A nicotine experiment sharpens the point: participants received the same nicotine amount, but task performance and activity in a relevant brain region scaled with the dose they believed they had received. Context can therefore modulate an active intervention rather than merely stand in for one.
+The sources present treatment delivery as information. Brand-name appearance, labeled packaging, pill color, capsules, injections, and devices can carry learned meanings about potency or effect category. A nicotine experiment sharpens the point: experienced smokers received the same low nicotine amount, but subjective strength and thalamus-to-ventromedial-prefrontal activity scaled with the dose they believed they had received. Context can therefore modulate an active intervention rather than merely stand in for one.
+
+The Journal Club discussion also narrows the inference. The paper was an unreviewed preprint at the time, typical fMRI sample sizes were small, the thalamic result was weaker than the pathway result, reward-pathway dopamine did not scale in the same way, and the design lacked a zero-nicotine/high-belief condition. The study therefore supports pathway-specific modulation under active exposure, not a claim that belief alone recreates every pharmacological effect.
 
 ## Key Claims
 - Treatment appearance and delivery method help construct expected potency.
@@ -29,12 +32,13 @@ The episode presents treatment delivery as information. Brand-name appearance, l
 
 ### Believed nicotine dose
 - [[how-placebo-effects-work-to-change-our-biology-psychology-scim2208611274]] describes identical nicotine exposure paired with low-, medium-, or high-dose instructions, with corresponding differences in cognition and brain activity.
+- [[journal-club-with-dr-peter-attia-metformin-for-longevity-the-power-of-belief-effects-scim5394566255]] localizes the strongest reported scaling to the thalamus-to-ventromedial-prefrontal pathway and records the study's preprint, sample-size, control-condition, and pathway-specificity limits.
 
 ## Counterevidence & Qualifications
-The episode note does not establish that these rankings or color associations generalize across cultures, conditions, outcomes, or modern treatment settings. A context effect does not show that actual dose is irrelevant, and deceptive framing raises ethical and clinical questions not resolved here.
+The sources do not establish that presentation rankings, color associations, or nicotine results generalize across cultures, conditions, outcomes, non-smokers, or modern treatment settings. The nicotine design does not isolate belief without active drug, and its neural effects were not uniform across circuits. A context effect does not show that actual dose is irrelevant. Applying it to tapering or side-effect communication remains a clinical hypothesis, and deceptive framing raises ethical questions not resolved here.
 
 ## What Changed
-- Created a synthesis connecting treatment presentation with believed-dose effects during active drug exposure.
+- Added pathway-level detail and explicit preprint, sample-size, missing-control, and nonuniform-response limits to the nicotine case.
 
 ## Related Concepts
 - [[PlaceboNoceboExpectationEffects]] - broader expectation mechanism expressed through treatment context.

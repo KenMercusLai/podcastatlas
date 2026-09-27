@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Journal Club With Dr. Peter Attia | Metformin for Longevity & the Power of Belief Effects](sources/journal-club-with-dr-peter-attia-metformin-for-longevity-the-power-of-belief-effects-scim5394566255.md) — Huberman Lab Journal Club on metformin mortality evidence, informative censoring, comparator limits, mouse longevity testing, and dose-dependent nicotine belief effects.
 - [VOL.73精神科｜少年儿童的心理健康关乎我们社会未来的健康](sources/vol-73-jingshenke-shaonian-ertong-de-xinli-jiankang-guanhu-women-shehui-weilai-de-jiankang-lmyhvu50qll_zy9dxkqggwxi0tyn.md) — 这病说来话长 episode on multidomain youth-distress signals, family-systems interpretation, school-caregiver-clinician coordination, and authentic regulated parenting.
 - [368. The History Behind Hogwarts: Ancient Schools and Revolting Students](sources/368-the-history-behind-hogwarts-ancient-schools-and-revolting-students-glt6783238013.md) — The Rest Is History episode on charitable and elite public-school origins, pupil violence and rebellion, moral reform, and Hogwarts's debt to the school-story tradition.
 - [VOL.74口腔科｜咖啡红酒茶上色三件套？牙齿美白选哪种？三甲主任帮你避坑](sources/vol-74-kouqiangke-kafei-hongjiu-cha-shangse-sanjian-ta-yachi-meibai-xuan-nazhong-sanjia-zhuren-bang-ni-bikeng-lup1n6wlhmeceqidmllkafzw8w9c.md) — 这病说来话长 episode separating natural tooth color, surface stain, intrinsic discoloration, bleaching, and restorative treatment while keeping basic oral health ahead of cosmetic whitening.
@@ -3384,7 +3385,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Versailles](entities/Versailles.md) — Royal palace and court system where hierarchy, surveillance, and factional gossip shaped monarchical image.
 - [Petit Trianon](entities/PetitTrianon.md) — Marie Antoinette's private retreat and a politically ambiguous symbol of simplicity, intimacy, and privilege.
 - [Rose Bertin](entities/RoseBertin.md) — Dressmaker whose collaboration with Marie Antoinette made personal fashion part of royal image-making.
-- [Interventions Testing Program](entities/InterventionsTestingProgram.md) — Mouse-longevity project used as a rigorous preclinical filter for candidate lifespan interventions.
+- [Interventions Testing Program](entities/InterventionsTestingProgram.md) — Mouse-longevity project used as a rigorous preclinical filter for candidate lifespan interventions including NAD precursors, metformin, rapamycin, and acarbose.
 - [Jeanne de la Motte](entities/JeanneDeLaMotte.md) — Principal confidence trickster in the Diamond Necklace Affair and later author of anti-queen slander.
 - [Cardinal de Rohan](entities/CardinalDeRohan.md) — Deceived intermediary whose desire for royal favor, arrest, and acquittal magnified the necklace scandal.
 - [Diamond Necklace Affair](entities/DiamondNecklaceAffair.md) — Fraud and public trial that damaged Bourbon legitimacy despite Marie Antoinette's innocence in the transaction.
@@ -4829,7 +4830,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [李孚 / Li Fu (late Han)](entities/LiFuLateHan.md) — Yuan Shang messenger who enters isolated Ye by performing Cao-side command authority and escapes under old-weak surrender cover.
 - [韩范 / Han Fan (late Han)](entities/HanFanLateHan.md) — Yiyang county chief whose surrender is rewarded after Xu Huang argues that other counties are watching.
 - [梁岐 / Liang Qi (late Han)](entities/LiangQiLateHan.md) — She county chief whose surrender is paired with Han Fan in Cao Cao's Ye-campaign reward signal.
-- [Peter Attia](entities/PeterAttia.md) — Physician and longevity author featured in Huberman Lab on healthspan, prevention, exercise capacity, and emotional health.
+- [Peter Attia](entities/PeterAttia.md) — Physician and longevity author featured in Huberman Lab on prevention, exercise capacity, emotional health, and evidence-bounded geroscience.
 - [赵医生 / Doctor Zhao (Urology)](entities/ZhaoDoctorUrology.md) — Source-scoped urology guest in VOL.30 and VOL.31 explaining female and male urinary symptoms, pregnancy urinalysis, prostate screening interpretation, renal findings, hygiene, and when self-care should become clinical care.
 - [Atlantis](entities/Atlantis.md) — Mythic island tracked from Plato's political warning into reception, pseudohistory, nationalism, esotericism, Santorini theories, and advanced lost-civilization claims.
 - [Graham Hancock](entities/GrahamHancock.md) — Modern popularizer of comet-catastrophe and advanced lost-civilization claims treated by the Atlantis episodes as culturally powerful but archaeologically unsupported.
@@ -14305,6 +14306,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Treatment Context and Dose Expectation](concepts/TreatmentContextDoseExpectation.md) — Framework for how branding, form, instructions, and believed dose shape treatment response.
 - [Symptom–Function Dissociation](concepts/SymptomFunctionDissociation.md) — Evidence boundary separating meaningful symptom relief from objective functional or disease modification.
 - [Mindset Effects on Physiology](concepts/MindsetPhysiologyEffects.md) — Bounded account of how food and activity framing can interact with hormonal and health-related outcomes.
+- [Metformin Longevity Evidence Boundary](concepts/MetforminLongevityEvidenceBoundary.md) — Separates metformin's metabolic indication from unproven general geroprotection in healthy people.
 - [Rapid Weight-Loss Safety Boundary / 快速减重安全边界](concepts/RapidWeightLossSafetyBoundary.md) — Cross-method safety frame for assessment, pacing, body composition, severe restriction, exercise overload, medication and procedure eligibility, escalation, and maintenance.
 - [TCM Weight-Management Boundary / 中医减重边界](concepts/TCMWeightManagementBoundary.md) — Separates health-first, gradual, individualized weight management from unvalidated TCM diagnostic and treatment claims.
 - [Human–Primate Mirror](concepts/HumanPrimateMirror.md) — Framework for monkeys and apes as near-human figures in science, art, politics, celebrity, status, and moral projection.
