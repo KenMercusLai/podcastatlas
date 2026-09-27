@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 11001
+wiki_total_pages: 11003
 wiki_pages:
   - key: "FIFAWorldCup1934"
     title: "1934 FIFA World Cup"
@@ -950,6 +950,9 @@ wiki_pages:
   - key: "Feiqiu"
     title: "废丘 / Feiqiu"
     url: "/wiki/entities/feiqiu/"
+  - key: "FirstAffiliatedHospitalChengduMedicalCollege"
+    title: "成都医学院第一附属医院 / First Affiliated Hospital of Chengdu Medical College"
+    url: "/wiki/entities/firstaffiliatedhospitalchengdumedicalcollege/"
   - key: "FangZhiLateHan"
     title: "房植 / Fang Zhi (late Han)"
     url: "/wiki/entities/fangzhilatehan/"

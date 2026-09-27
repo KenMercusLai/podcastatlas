@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.83妇科｜你是否也正被这些问题困扰？生理期、妇科检查、盆底肌修复、产褥期的问题这篇一一作答](sources/vol-83-fuke-ni-shifou-ye-zheng-bei-zhexie-wenti-kunrao-shengliqi-fuke-jiancha-pendiji-xiufu-chanruqi-de-wenti-zhepian-yiyi-zuoda-loabkthdztlcuy7qfhsrkaqujlf3.md) — 这病说来话长 listener Q&A on menstrual and gynecological symptom triage, AMH, contraception, postpartum pelvic-floor rehabilitation, examinations, and sex education.
 - [384. The Fall of the Aztecs: The Adventure Begins (Part 1)](sources/384-the-fall-of-the-aztecs-the-adventure-begins-part-1-glt8046611029.md) — The Rest Is History episode on Cortes's Iberian formation, Caribbean colonial apprenticeship, westward reconnaissance, mixed motives, and conquest-source uncertainty.
 - [385. The Fall of the Aztecs: The Woman Who Changed The World (Part 2)](sources/385-the-fall-of-the-aztecs-the-woman-who-changed-the-world-part-2-glt5124604457.md) — The Rest Is History episode on Cortes's break with Cuban authority, the Malinche-Aguilar translation chain, early coast diplomacy, the Requerimiento, and the Vera Cruz legal coup.
 - [VOL.84性教育｜“无痛人流”的骗钱套路｜硬怼性骚扰、全面性教育、正视残障人士和老人需求](sources/vol-84-xingjiaoyu-wutongrenliu-de-pianqian-taolu-yingdui-xingsaorao-quanmianxingjiaoyu-zhengshi-canzhangrenshi-he-laoren-xuqiu-lhvlv0wfx3dqv41jaat86eh7w6nd.md) — 这病说来话长 episode on comprehensive sex education, consent, contraception, sexual-health care, child safeguarding, and older-adult and disability inclusion.
@@ -2978,6 +2979,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Improving Male Sexual Health, Function & Fertility | Dr. Michael Eisenberg](sources/improving-male-sexual-health-function-fertility-dr-michael-eisenberg-scim8414501670.md) — Huberman Lab interview on male fertility, semen testing, hormone intervention, erectile and urinary health, paternal age, and evidence-bounded urologic care.
 
 ## Entities
+- [宝儿学姐 / Bao'er (Gynecologist)](entities/BaoerGynecologist.md) — 成都医学院第一附属医院 gynecologist using pattern, severity, and escalation to explain listener questions.
+- [成都医学院第一附属医院 / First Affiliated Hospital of Chengdu Medical College](entities/FirstAffiliatedHospitalChengduMedicalCollege.md) — Hospital affiliation named for the VOL.83 gynecology guest.
 - [Geronimo de Aguilar](entities/GeronimoDeAguilar.md) — Spanish shipwreck survivor whose Maya-language skill formed the first Spanish-facing link in Cortes's interpretation chain.
 - [Diego Velazquez de Cuellar](entities/DiegoVelazquezDeCuellar.md) — Cuban conqueror and governor whose westward sponsorship, selection of Cortes, limited commission, and failed recall shaped the Mexico expedition.
 - [汪一鸣 / Wang Yiming (reproductive-medicine doctor)](entities/WangYimingReproductiveDoctor.md) — Source-scoped clinician connecting sex education with consent, contraception, pain, infection testing, qualified pregnancy care, and inclusion.
@@ -13995,6 +13998,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Michael Eisenberg](entities/MichaelEisenberg.md) — Urologist and researcher framing male fertility and sexual function through objective testing, whole-body health, and treatment boundaries.
 
 ## Concepts
+- [Gynecological Symptom Triage / 妇科症状分诊](concepts/GynecologicalSymptomTriage.md) — Pattern-based framework using timing, progression, severity, bleeding, and associated symptoms to guide observation versus assessment.
+- [Postpartum Pelvic-Floor Rehabilitation / 产后盆底康复](concepts/PostpartumPelvicFloorRehabilitation.md) — Function-first postpartum care frame for leakage, pressure, assessment, rehabilitation timing, and device boundaries.
 - [Requerimiento](concepts/Requerimiento.md) — Coercive declaration joining Christian history and royal authority to demands for Indigenous submission and conversion.
 - [Vera Cruz Legal Coup](concepts/VeraCruzLegalCoup.md) — Municipal maneuver through which Cortes bypassed Cuban authority and sought direct royal legitimacy.
 - [Consent and Body-Boundary Education / 同意与身体边界教育](concepts/ConsentAndBodyBoundaryEducation.md) — Consent and safeguarding frame joining felt boundaries, explicit refusal, perpetrator and institutional responsibility, and respect for children's no.

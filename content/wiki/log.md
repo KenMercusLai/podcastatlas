@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-27] ingest | VOL.83妇科｜你是否也正被这些问题困扰？生理期、妇科检查、盆底肌修复、产褥期的问题这篇一一作答
+
+Added source `vol-83-fuke-ni-shifou-ye-zheng-bei-zhexie-wenti-kunrao-shengliqi-fuke-jiancha-pendiji-xiufu-chanruqi-de-wenti-zhepian-yiyi-zuoda-loabkthdztlcuy7qfhsrkaqujlf3`; created `BaoerGynecologist`, `FirstAffiliatedHospitalChengduMedicalCollege`, `GynecologicalSymptomTriage`, and `PostpartumPelvicFloorRehabilitation`; and updated the canonical index. Core synthesis: menstrual, bleeding, discharge, abdominal-pain, postpartum, contraception, AMH, and examination questions become safer when interpreted through timing, recurrence, progression, severity, associated symptoms, function, and explicit escalation rather than folklore or one biomarker. No settled contradiction found. Numerical ranges, screening cadence, medication washout periods, surgical comparisons, rehabilitation protocols, and treatment claims remain source-scoped public education rather than individualized medical guidance. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-27] ingest | 392. JFK: The Road to the White House (Part 1)
 
 Added source `392-jfk-the-road-to-the-white-house-part-1-glt3759679497`; created `JosephPKennedySr`, `JosephPKennedyJr`, `PT109Incident`, `KennedyFamilyPoliticalFormation`, and `ConcealedPresidentialIllness`; and updated `JohnFKennedy`, `JacquelineKennedyOnassis`, and the canonical index from their complete bounded source sets. Core synthesis: Irish Catholic outsider consciousness, wealth, paternal competition, severe hidden illness, reading and Anglophilia, PT-109 courage, Joe Jr.'s wartime death, and Jack's own internationalist convictions jointly formed his political rise; family succession redirected existing ambition rather than creating it. No settled contradiction with Parts 2-7 was found. Medical detail, private motives, family influence, relationship judgments, dialogue, and causal claims about status resentment or infidelity remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -23619,6 +23623,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-27] ingest | 384. The Fall of the Aztecs: The Adventure Begins (Part 1)
 
 Added source `384-the-fall-of-the-aztecs-the-adventure-begins-part-1-glt8046611029`; created `Hatuey` and `SpanishCaribbeanExpansion`; and updated `HernanCortes`, `DiegoVelazquezDeCuellar`, `MexicaEmpire`, `SpanishConquestOfMexico`, `HistoricalCatastropheNarrativeEthics`, `ColonialSourceMediation`, and the canonical index from their complete bounded source sets. Core synthesis: Cortes's expedition emerged from a Caribbean chain of conquest, forced labor, slavery, settlement, reconnaissance, Christian militancy, private venture, and competition, while familiar gods, surrender, speech, and sacrifice stories require explicit source qualification. No settled contradiction found. Hatuey's speeches, the origin of “Yucatan,” exact dialogue, sacrifice reports, Cortes's private motives, and Velazquez's reasons for selecting him remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-27] lint | Wiki health check
 

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8395
+wiki_total_pages: 8397
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1196,6 +1196,9 @@ wiki_pages:
   - key: "PosthumousPoliticalDestinyMyth"
     title: "Posthumous Political Destiny Myth"
     url: "/wiki/concepts/posthumouspoliticaldestinymyth/"
+  - key: "PostpartumPelvicFloorRehabilitation"
+    title: "Postpartum Pelvic-Floor Rehabilitation / 产后盆底康复"
+    url: "/wiki/concepts/postpartumpelvicfloorrehabilitation/"
   - key: "PostwarCaribbeanBritishSettlement"
     title: "Postwar Caribbean British Settlement"
     url: "/wiki/concepts/postwarcaribbeanbritishsettlement/"
