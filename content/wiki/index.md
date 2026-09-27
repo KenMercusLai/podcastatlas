@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [LIVE EVENT Q&A: Dr. Andrew Huberman at Meridian Hall in Toronto](sources/live-event-q-a-dr-andrew-huberman-at-meridian-hall-in-toronto-scim7370892669.md) — Huberman Lab live Q&A on nicotine, ADHD, sleep recovery, burnout, flexible nutrition and exercise, testosterone, breathwork safety, children's light exposure, and parenting.
+- [388. The Fall of the Aztecs: The Festival of Blood (Part 5)](sources/388-the-fall-of-the-aztecs-the-festival-of-blood-part-5-glt8784071073.md) — The Rest Is History episode on the Toxcatl massacre, Cortes's defeat of Narvaez, the collapse of Spanish control in Tenochtitlan, and Moctezuma's disputed death.
 - [389. The Fall of the Aztecs: The Night of Tears (Part 6)](sources/389-the-fall-of-the-aztecs-the-night-of-tears-part-6-glt2744313815.md) — The Rest Is History episode on the Noche Triste, Tlaxcalan coalition renewal, strategic terror, smallpox, succession, and preparation for the siege of Tenochtitlan.
 - [390. The Fall of the Aztecs: War to the Death (Part 7)](sources/390-the-fall-of-the-aztecs-war-to-the-death-part-7-glt1796642529.md) — The Rest Is History episode on the coalition, naval, logistical, epidemiological, urban, and civilian dimensions of Tenochtitlan's final siege.
 - [VOL.86头颈外科｜甲状腺疾病越来越喜欢招惹年轻人了吗？结节真是被气出来的吗？](sources/vol-86-toujing-waike-jiazhuangxian-jibing-yuelaiyue-xihuan-zhaore-nianqingren-le-ma-jiejie-zhen-shi-bei-qi-chulai-de-ma-lhlyxdyw0hcgnmfopab0976kw3fr.md) — 这病说来话长 episode with 张宇昊 on thyroid function, Hashimoto thyroiditis, nodule risk stratification, biopsy, differentiated cancer, surveillance, surgery, and iodine boundaries.
@@ -2970,6 +2971,9 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Entities
 - [张宇昊 / Zhang Yuhao (head-and-neck surgeon)](entities/ZhangYuhaoHeadNeckSurgeon.md) — Shanxi Bethune Hospital clinician explaining thyroid and neck-mass assessment through imaging, pathology, anatomy, follow-up, and individualized treatment.
 - [Shanxi Bethune Hospital / 山西白求恩医院](entities/ShanxiBethuneHospital.md) — Source-scoped institutional affiliation for head-and-neck surgeon 张宇昊.
+- [Moctezuma II](entities/Moctezuma.md) — Captive Mexica ruler whose damaged authority and disputed death mark the collapse of the Spanish hostage strategy.
+- [Pedro de Alvarado](entities/PedroDeAlvarado.md) — Spanish commander who ordered the Toxcatl massacre and precipitated open war in Tenochtitlan.
+- [Panfilo de Narvaez](entities/PanfiloDeNarvaez.md) — Rival commander whose larger force was defeated and absorbed by Cortes immediately before the Tenochtitlan crisis.
 - [Tlaxcala](entities/Tlaxcala.md) — Indigenous polity whose renewed alliance, warriors, labor, and logistics made recovery from the Noche Triste possible.
 - [Cuitlahuac](entities/Cuitlahuac.md) — Short-reigned Mexica ruler whose anti-coalition strategy and death from smallpox preceded Cuauhtemoc's accession.
 - [Hernan Cortes](entities/HernanCortes.md) — Conquistador whose recovery from catastrophic defeat depended on Indigenous alliance, replenishment, terror, and narrative self-fashioning before conquest and coercive rule.
@@ -13973,6 +13977,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [James Pennebaker](entities/JamesPennebaker.md) — Psychologist associated with the repeated expressive-writing paradigm and research linking language, distress, health, and immune measures.
 
 ## Concepts
+- [Toxcatl Massacre](concepts/ToxcatlMassacre.md) — Spanish attack on festival participants that transformed an unstable occupation into open war in Tenochtitlan.
 - [Noche Triste](concepts/NocheTriste.md) — Catastrophic 1520 causeway retreat whose aftermath exposed the conquest's dependence on renewed Indigenous alliance.
 - [Siege of Tenochtitlan](concepts/SiegeOfTenochtitlan.md) — 1521 coalition campaign enabled by post-defeat recovery, route isolation, epidemic disruption, brigantines, blockade, and Indigenous allies.
 - [Thyroid Function Disorder Interpretation / 甲状腺功能异常解读](concepts/ThyroidFunctionDisorderInterpretation.md) — Framework separating hormone excess, deficiency, autoimmune markers, structural findings, symptoms, and longitudinal context.

@@ -23551,3 +23551,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | 388. The Fall of the Aztecs: The Festival of Blood (Part 5)
+
+Added source `388-the-fall-of-the-aztecs-the-festival-of-blood-part-5-glt8784071073`; created `Moctezuma`, `PedroDeAlvarado`, `PanfiloDeNarvaez`, and `ToxcatlMassacre`; and updated `HernanCortes`, `Malinche`, `Cuitlahuac`, `MexicaEmpire`, `NocheTriste`, `SpanishConquestOfMexico`, `HistoricalCatastropheNarrativeEthics`, and the canonical index from their complete bounded source sets. Core synthesis: Cortes's bold defeat of Narvaez enlarged his force while Alvarado's fear-driven attack on Toxcatl celebrants converted a fragile hostage occupation into open war; Moctezuma's damaged authority and disputed death then closed the remaining path to accommodation before the Noche Triste. No settled contradiction with Parts 6-8 was found. The alleged Mexica plot, Tlaxcalan informants' motives, Cortes's unopposed re-entry, casualty totals, dialogue, omens, and responsibility for Moctezuma's death remain source-scoped or contested. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -2,45 +2,57 @@
 title: "Feed Curation"
 type: concept
 tags: [attention, media, life-design, agency]
-sources: [167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja, 164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq, 159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7, 154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask]
+sources:
+  - 167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja
+  - 164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq
+  - 159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7
+  - 154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x
+  - e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask
 last_updated: 2026-08-06
+knowledge_schema: synthesis-v1
 ---
 
 # Feed Curation
 
-Feed curation is the practice of deliberately shaping the information and social streams that train attention, judgment, and desire. In [[e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask]], [[LiJigang]] describes cutting thousands of WeChat contacts down to a smaller set, watching only a few people's posts, limiting public accounts and RSS feeds, and using paper books and AI-processed papers as higher-signal inputs.
+## Definition
+Feed curation is the deliberate selection of recurring people, channels, formats and interactions that shape one's information environment. It includes both choosing what to receive and deciding what behavioral feedback to send to a recommendation system; it is not a promise to escape mediation entirely.
 
-The episode's rule is that a lower-level constraint can create higher-level freedom. Restricting the feed looks like less input, but it can create more thinking room, deeper relationships, and more legible memory. [[MengYan]] summarizes the point as "your feed is your fate": the material that repeatedly enters attention becomes part of who the person is becoming.
-
-[[154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x]] adds [[DavidWeng|大卫翁]]'s midlife autonomy version. He notices heavy phone use and worries that feeds plus AI can make attention reactive, while also describing the deliberate act of listening to opposing or unfamiliar worldviews as a way to test the limits of one's own frame without surrendering judgment.
-
-[[159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7]] adds a platform-comparison response. The episode accepts that each algorithmic feed has bias, but argues that using multiple platforms, long audio, books, and conversation can make those biases visible to the user instead of allowing one filter to become the whole world.
-
-Feed curation extends [[AttentionIndustrialization]] from critique to practice. If platforms and AI systems can industrialize mental intake, the user needs active input governance rather than relying on willpower after the feed has already been optimized against them.
-
-[[164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq]] adds a feedback-specific rule through [[AlgorithmicMediaLiteracy]]. Curation is not only choosing who to follow; it includes noticing when anger, correction, or curiosity is about to become a signal in a [[PlatformFeedbackLoop]], and sometimes refusing to click or comment so the feed does not learn the wrong thing.
-
-[[167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja]] adds a philosophical reason for curation. If feeds are [[AlgorithmicCaveAllegory|caves]] and rankings invite [[AlgorithmicReasonOutsourcing|reason outsourcing]], then comparing platforms, seeking context, and using search or long-form media become ways to notice the projection mechanism.
+## Current Synthesis
+The practical problem is not merely the volume of information. Ranking systems preselect what can be seen, learn from attention and present partial views as relevant; users then adapt their habits to those views. This carries [[AttentionIndustrialization]]'s critique of mass-produced mental intake into a choice of daily inputs and feedback. Curation offers several different interventions: reduce low-value recurring inputs, avoid reinforcing content one does not want recommended, compare dissimilar filters, and reserve time for complete arguments and unfamiliar perspectives. The examples range from one person's strict input diet to a researcher's more qualified account of recommendation effects. They support a discipline of deliberate choice, not a quantified guarantee that fewer contacts or more opposing views will improve everyone.
 
 ## Key Claims
-- A feed is not a neutral stream; it trains what the person notices, wants, fears, and remembers.
-- Fewer high-signal inputs can produce more freedom than abundant low-signal inputs.
-- Social curation can make people visible again instead of turning contacts into undifferentiated noise.
-- Feed design connects to [[PersonalKnowledgeEcology]] because inputs become notes, questions, memories, and future frames.
-- AI-era speed makes feed curation more important because models can multiply whatever input diet the user provides.
-- Episode 154 adds that curation includes choosing when to expose oneself to disagreeable views for worldview testing, not only reducing noisy inputs.
-- Episode 159 adds that comparing multiple algorithmic filters can be a curation method when the user treats difference as evidence.
-- Episode 164 adds that withholding feedback from rage bait and entertainment drift can be a deliberate curation move.
-- Episode 167 adds that curation can be cave-awareness: one cannot leave all mediation, but can keep one filter from becoming the whole world.
+- Selective reduction of contacts and subscriptions can create room for thought and closer attention to chosen relationships, as an individual practice rather than a universal threshold.
+- Clicks, watch time and explicit preference controls both inform ranking and shape the profile through which future material is presented to a user.
+- Refusing reflexive engagement with anger bait or entertainment drift can be a curation choice, because commenting and lingering may train the very feedback loop one hopes to avoid.
+- Comparing platforms and slower media can expose the limits of any single filter, while the “cave” image remains a philosophical analogy rather than an algorithm audit.
+- Choosing long-form material and selectively testing one's worldview with different perspectives can counter personally felt phone and AI passivity, without presuming disagreement always yields understanding.
 
-## Connections
-- [[AttentionIndustrialization]] — platform-level problem feed curation responds to.
-- [[AutonomyUnderInformationFlow]] and [[InformationCocoon]] — episode 154's autonomy and worldview-testing extension.
-- [[AIUsePacing]] — practical discipline for limiting AI and information overrun.
-- [[HumanAgencyUnderAI]] and [[WetStateHumanAgency]] — agency requires chosen inputs and protected volition.
-- [[PersonalKnowledgeEcology]] and [[AIAssistedReading]] — curated inputs feed the user's knowledge system.
-- [[FlowEnvironmentDesign]] — adjacent method of shaping environment so attention can settle.
-- [[RuminationVsReflection]] — input noise can feed rumination instead of useful thought.
-- [[AlgorithmicDiversityDividend]], [[PublicRelevanceAlgorithms]], and [[InformationCocoon]] - episode 159's platform-comparison and anti-cocoon extension.
-- [[AlgorithmicMediaLiteracy]], [[PlatformFeedbackLoop]], [[AffectivePolarization]], and [[AlgorithmicEntertainmentRedirect]] - episode 164's feedback-aware curation extension.
-- [[AlgorithmicCaveAllegory]], [[AlgorithmicReasonOutsourcing]], and [[AlgorithmicDiversityDividend]] - episode 167's political-philosophy curation extension.
+## Evidence
+- **Reducing recurrent inputs:** [[e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask]] recounts [[LiJigang]]'s pruning of thousands of WeChat contacts to a smaller circle and a few people's posts, limiting public accounts and RSS subscriptions while retaining paper books and AI-assisted reading of papers. [[MengYan]]'s “your feed is your fate” frames how repeated inputs might form attention, memory and desire; the episode treats lower-level constraints as room for higher-level thought and relationships, not a measured effect. Its AI-assisted-paper workflow also illustrates a risk: faster synthesis can amplify the consequences of an unexamined input diet.
+- **Participatory ranking:** [[159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7]] describes inclusion, prediction, ranking and calculated user profiles, including likes, skips and “not interested” signals. This gives a mechanism for curation beyond the follow list.
+- **Feedback-aware restraint:** [[164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq]] recommends noticing one's feedback before reacting to rage bait and reports a source-scoped YouTube audit of news-to-entertainment recommendation chains, an example of [[AlgorithmicEntertainmentRedirect]].
+- **Multiple lenses:** [[159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7]] argues that mixed platform use can reveal divergent filters of public relevance; [[167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja]] uses [[AlgorithmicCaveAllegory|Plato's cave]] and [[AlgorithmicReasonOutsourcing|reason-outsourcing]] analogies to explain why context and comparison matter. Both are episodes of the same algorithm series, not independent platform tests.
+- **Long-form and worldview testing:** [[154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x]] gives [[DavidWeng]]'s personal account of heavy phone use, AI answers, books and podcasts as slower alternatives, and intentional attention to disagreeable views. It shares a show and speaker with the algorithm-series notes.
+
+## Counterevidence & Qualifications
+Episode 164 says evidence for universal, sealed [[InformationCocoon|information cocoons]] is weak: incidental exposure exists, and contact with opposing views can increase [[AffectivePolarization|affective polarization]]. Its YouTube finding concerns a particular audit design, not every feed. The philosophical treatment in episode 167 is not empirical validation of what an individual recommender does. Li's input restrictions and Weng's long-form habits are personal testimony, not causal studies of attention or identity; multiple episodes from *Qizhulou Yan Binke* should not be counted as independent replications. Some filtering is unavoidable and useful under information overload, so the aim is inspectable choice rather than an unfiltered world.
+
+## What Changed
+- Curation now includes outgoing behavioral signals as well as incoming subscriptions.
+- Reducing volume and increasing diversity are treated as complementary but distinct choices.
+- Claims about filter bubbles are narrowed by incidental exposure and polarization evidence.
+- The cave metaphor is separated from platform-specific research and personal testimony.
+
+## Related Concepts
+- [[PlatformFeedbackLoop]] - explains how curation of reactions can alter later recommendations.
+- [[AlgorithmicMediaLiteracy]] - supplies the reflective skill of noticing ranking and one's own feedback.
+- [[AlgorithmicDiversityDividend]] - describes the potential benefit of comparing non-identical filters.
+- [[AutonomyUnderInformationFlow]] - names the agency problem that motivates deliberate input choice.
+- [[PersonalKnowledgeEcology]] - connects selected inputs to later questions, notes and judgments.
+- [[PublicRelevanceAlgorithms]] - describes the ranking systems that decide which material can become visible or apparently relevant.
+- [[AIUsePacing]] - addresses the tempo of AI-mediated input, alongside selection of sources.
+- [[HumanAgencyUnderAI]] - situates feed choice within the wider question of delegating judgment to AI.
+- [[WetStateHumanAgency]] - retains bodily, emotional and relational volition beyond an optimized information diet.
+- [[AIAssistedReading]] - is one way to process selected papers without making the model the sole source of judgment.
+- [[FlowEnvironmentDesign]] - complements input selection by shaping conditions for sustained attention.
+- [[RuminationVsReflection]] - distinguishes unproductive replay of noisy inputs from deliberate thinking.

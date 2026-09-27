@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 8382
+wiki_total_pages: 8383
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -587,6 +587,9 @@ wiki_pages:
   - key: "ToutengWar"
     title: "Touteng War"
     url: "/wiki/concepts/toutengwar/"
+  - key: "ToxcatlMassacre"
+    title: "Toxcatl Massacre"
+    url: "/wiki/concepts/toxcatlmassacre/"
   - key: "ToxicFashionMaterialRisk"
     title: "Toxic Fashion Material Risk"
     url: "/wiki/concepts/toxicfashionmaterialrisk/"

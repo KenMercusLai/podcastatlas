@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 10990
+wiki_total_pages: 10993
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -1202,6 +1202,9 @@ wiki_pages:
   - key: "MockTurtle"
     title: "Mock Turtle / 假海龟"
     url: "/wiki/entities/mockturtle/"
+  - key: "Moctezuma"
+    title: "Moctezuma II"
+    url: "/wiki/entities/moctezuma/"
   - key: "ModernExpressTravel"
     title: "Modern Express Travel"
     url: "/wiki/entities/modernexpresstravel/"

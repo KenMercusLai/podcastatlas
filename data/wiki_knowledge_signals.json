@@ -33011,9 +33011,9 @@
       "url": "/wiki/entities/cuizhouping/"
     },
     "Cuitlahuac": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2744313815 [GLT2744313815].md",
@@ -33021,6 +33021,13 @@
           "show": "The Rest Is History",
           "title": "389. The Fall of the Aztecs: The Night of Tears (Part 6)",
           "url": "/wiki/sources/389-the-fall-of-the-aztecs-the-night-of-tears-part-6-glt2744313815/"
+        },
+        {
+          "episode_file": "GLT8784071073 [GLT8784071073].md",
+          "key": "388-the-fall-of-the-aztecs-the-festival-of-blood-part-5-glt8784071073",
+          "show": "The Rest Is History",
+          "title": "388. The Fall of the Aztecs: The Festival of Blood (Part 5)",
+          "url": "/wiki/sources/388-the-fall-of-the-aztecs-the-festival-of-blood-part-5-glt8784071073/"
         }
       ],
       "updated": "2026-09-27",
@@ -44090,6 +44097,43 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/emotionalhealthlongevity/"
     },
+    "EmotionalInteractionModels": {
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "E245｜藏在大模型背后的新闻人：GPT们的回复是这样写出来的 [5aeaeb64-9165-4271-9884-23329b511e11].md",
+          "key": "e245-cangzai-damoxing-beihoude-xinwenren-gptmen-de-huifu-shi-zheyang-xie-chulaide-5aeaeb64-9165-4271-9884-23329b511e11",
+          "show": "硅谷101",
+          "title": "E245｜藏在大模型背后的新闻人：GPT们的回复是这样写出来的",
+          "url": "/wiki/sources/e245-cangzai-damoxing-beihoude-xinwenren-gptmen-de-huifu-shi-zheyang-xie-chulaide-5aeaeb64-9165-4271-9884-23329b511e11/"
+        },
+        {
+          "episode_file": "我遇到了第一个真正想买的陪伴机器人！｜对话世博：越伴动力创始人【公路播客】 [lryDeLIzm0-hbk68u5CqE3TI-epB].md",
+          "key": "wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb",
+          "show": "十字路口Crossing",
+          "title": "我遇到了第一个真正想买的陪伴机器人！｜对话世博：越伴动力创始人【公路播客】",
+          "url": "/wiki/sources/wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb/"
+        },
+        {
+          "episode_file": "这可能才是 AI 陪伴真正该有的样子｜对谈刷屏产品 EVE 创始人 Tristan [lgVCb1TuUR_1rf2qK8Jv9cHMWew_].md",
+          "key": "zhe-keneng-caishi-ai-peiban-zhenzheng-gai-you-de-yangzi-duitan-shuaping-chanpin-eve-chuangshiren-tristan-lgvcb1tuur-1rf2qk8jv9chmwew",
+          "show": "42章经",
+          "title": "这可能才是 AI 陪伴真正该有的样子｜对谈刷屏产品 EVE 创始人 Tristan",
+          "url": "/wiki/sources/zhe-keneng-caishi-ai-peiban-zhenzheng-gai-you-de-yangzi-duitan-shuaping-chanpin-eve-chuangshiren-tristan-lgvcb1tuur-1rf2qk8jv9chmwew/"
+        },
+        {
+          "episode_file": "tech_20251208_1208_MP_TECH_pod_128 [tech_20251208_1208_MP_TECH_pod_128].md",
+          "key": "using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds",
+          "show": "Marketplace Tech",
+          "title": "Using AI chatbots for mental health support poses serious risks for teens, report finds",
+          "url": "/wiki/sources/using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds/"
+        }
+      ],
+      "updated": "2026-08-07",
+      "url": "/wiki/concepts/emotionalinteractionmodels/"
+    },
     "EmotionalStabilityAsSocialNorm": {
       "episode_count": 1,
       "show_count": 1,
@@ -44151,6 +44195,78 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/concepts/emotionsasfunctionalcontrolstates/"
+    },
+    "EmpathyCircleExpansion": {
+      "episode_count": 9,
+      "show_count": 1,
+      "source_note_count": 9,
+      "sources": [
+        {
+          "episode_file": "163.教一只猞猁忘记动物园：西野的故事，比疯狂动物城2更精彩！ [939887179].md",
+          "key": "163-jiao-yi-zhi-sheli-wangji-dongwuyuan-xiye-de-gushi-bi-fengkuang-dongwucheng-2-geng-jingcai-939887179",
+          "show": "蜜獾吃书",
+          "title": "163.教一只猞猁忘记动物园：西野的故事，比疯狂动物城2更精彩！",
+          "url": "/wiki/sources/163-jiao-yi-zhi-sheli-wangji-dongwuyuan-xiye-de-gushi-bi-fengkuang-dongwucheng-2-geng-jingcai-939887179/"
+        },
+        {
+          "episode_file": "146. 不爱侏罗纪世界？快来《恐龙庇护所》当饲养员！ [886472126].md",
+          "key": "146-bu-ai-zhuluoji-shijie-kuailai-konglong-bihusuo-dang-siyangyuan-886472126",
+          "show": "蜜獾吃书",
+          "title": "146. 不爱侏罗纪世界？快来《恐龙庇护所》当饲养员！",
+          "url": "/wiki/sources/146-bu-ai-zhuluoji-shijie-kuailai-konglong-bihusuo-dang-siyangyuan-886472126/"
+        },
+        {
+          "episode_file": "138.企鹅课：我在海滩上捡到一位Q老师 [842331726].md",
+          "key": "138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726",
+          "show": "蜜獾吃书",
+          "title": "138.企鹅课：我在海滩上捡到一位Q老师",
+          "url": "/wiki/sources/138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726/"
+        },
+        {
+          "episode_file": "186.让你笑到头掉仍不忘思考，伟大的《消逝世界漫游指南》 [998655210].md",
+          "key": "186-rang-ni-xiao-dao-tou-diao-reng-bu-wang-sikao-weida-de-xiaoshi-shijie-manyou-zhinan-998655210",
+          "show": "蜜獾吃书",
+          "title": "186.让你笑到头掉仍不忘思考，伟大的《消逝世界漫游指南》",
+          "url": "/wiki/sources/186-rang-ni-xiao-dao-tou-diao-reng-bu-wang-sikao-weida-de-xiaoshi-shijie-manyou-zhinan-998655210/"
+        },
+        {
+          "episode_file": "假期摸鱼更健康 [574391976].md",
+          "key": "jiaqi-moyu-geng-jiankang-574391976",
+          "show": "蜜獾吃书",
+          "title": "假期摸鱼更健康",
+          "url": "/wiki/sources/jiaqi-moyu-geng-jiankang-574391976/"
+        },
+        {
+          "episode_file": "63.我的30+下半程，答案若隐若现 [654281972].md",
+          "key": "63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972",
+          "show": "蜜獾吃书",
+          "title": "63.我的30+下半程，答案若隐若现",
+          "url": "/wiki/sources/63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972/"
+        },
+        {
+          "episode_file": "56.伴生：世界破破烂烂，小动物缝缝补补 [641299301].md",
+          "key": "56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301",
+          "show": "蜜獾吃书",
+          "title": "56.伴生：世界破破烂烂，小动物缝缝补补",
+          "url": "/wiki/sources/56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301/"
+        },
+        {
+          "episode_file": "39.哲学家与狼：在朗格多克永恒的夏天 [611233065].md",
+          "key": "39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065",
+          "show": "蜜獾吃书",
+          "title": "39.哲学家与狼：在朗格多克永恒的夏天",
+          "url": "/wiki/sources/39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065/"
+        },
+        {
+          "episode_file": "176.为什么越是吃肉，越要关注动物福利？ [971057722].md",
+          "key": "176-weishenme-yueshi-chirou-yueyao-guanzhu-dongwu-fuli-971057722",
+          "show": "蜜獾吃书",
+          "title": "176.为什么越是吃肉，越要关注动物福利？",
+          "url": "/wiki/sources/176-weishenme-yueshi-chirou-yueyao-guanzhu-dongwu-fuli-971057722/"
+        }
+      ],
+      "updated": "2026-08-06",
+      "url": "/wiki/concepts/empathycircleexpansion/"
     },
     "EmperorAnOfHan": {
       "episode_count": 15,
@@ -46407,6 +46523,43 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/engineeringfounderautomotivetransition/"
     },
+    "EngineeringState": {
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "150.“中国如何跳出贫困陷阱”，现代化之路又会走向何方 [lgPVP04rnGaGkPuBtE2AC6I5JI3g].md",
+          "key": "150-zhongguo-ruhe-tiaochu-pinkun-xianjing-xiandaihua-zhi-lu-you-hui-zouxiang-hefang-lgpvp04rngagkpubte2ac6i5ji3g",
+          "show": "起朱楼宴宾客",
+          "title": "150.“中国如何跳出贫困陷阱”，现代化之路又会走向何方",
+          "url": "/wiki/sources/150-zhongguo-ruhe-tiaochu-pinkun-xianjing-xiandaihua-zhi-lu-you-hui-zouxiang-hefang-lgpvp04rngagkpubte2ac6i5ji3g/"
+        },
+        {
+          "episode_file": "04.切尔诺贝利的午夜： “我要进监狱了。” [530594843].md",
+          "key": "04-qieernuobeili-de-wuye-woyao-jin-jianyu-le-530594843",
+          "show": "蜜獾吃书",
+          "title": "04.切尔诺贝利的午夜： “我要进监狱了。”",
+          "url": "/wiki/sources/04-qieernuobeili-de-wuye-woyao-jin-jianyu-le-530594843/"
+        },
+        {
+          "episode_file": "No.201 中国高铁简史 [976314772].md",
+          "key": "no-201-zhongguo-gaotie-jianshi-976314772",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.201 中国高铁简史",
+          "url": "/wiki/sources/no-201-zhongguo-gaotie-jianshi-976314772/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_5c39ca8bbdbf89c6ef326681052f6a26_40467297 [default.mp3_ywr3ahjkcgo_5c39ca8bbdbf89c6ef326681052f6a26_40467297].md",
+          "key": "building-things-and-breaking-things-in-china-summer-school-world-tour",
+          "show": "Planet Money",
+          "title": "Building things and breaking things in China (Summer School World Tour)",
+          "url": "/wiki/sources/building-things-and-breaking-things-in-china-summer-school-world-tour/"
+        }
+      ],
+      "updated": "2026-08-06",
+      "url": "/wiki/concepts/engineeringstate/"
+    },
     "England": {
       "episode_count": 8,
       "show_count": 2,
@@ -46647,6 +46800,78 @@
       "updated": "2026-09-13",
       "url": "/wiki/concepts/enterpriseagentcontrollayer/"
     },
+    "EnterpriseAgentGovernance": {
+      "episode_count": 9,
+      "show_count": 7,
+      "source_note_count": 9,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Nikesh Arora： Mythos is Real, Analytical SaaS is Dead, and Google can be a $10T company [41577435].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Nikesh Arora: Mythos is Real, Analytical SaaS is Dead, and Google can be a $10T company",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Microsoft CEO Satya Nadella on AI’s Business Revolution： What Happens to SaaS, OpenAI, and Microsoft？ ｜ LIVE from Davos [39818140].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Microsoft CEO Satya Nadella on AI's Business Revolution: What Happens to SaaS, OpenAI, and Microsoft? | LIVE from Davos",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140/"
+        },
+        {
+          "episode_file": "「模型能力已经够了，要卷就卷 infra」｜对谈戴冠兰：Runta 创始人 [lmJsNPP7D75YHqH7boVJ1bV6YHBk].md",
+          "key": "moxing-nengli-yijing-goule-yao-juan-jiu-juan-infra-duitan-daiguanlan-runta-chuangshiren-lmjsnpp7d75yhqh7bovj1bv6yhbk",
+          "show": "十字路口Crossing",
+          "title": "「模型能力已经够了，要卷就卷 infra」｜对谈戴冠兰：Runta 创始人",
+          "url": "/wiki/sources/moxing-nengli-yijing-goule-yao-juan-jiu-juan-infra-duitan-daiguanlan-runta-chuangshiren-lmjsnpp7d75yhqh7bovj1bv6yhbk/"
+        },
+        {
+          "episode_file": "E238｜聊聊Harness时代AI-First的组织架构：从信任人到信任AI [51260de8-60ef-4b76-b3e5-2e559c4a0923].md",
+          "key": "e238-liaoliao-harness-shidai-ai-first-de-zuzhi-jiagou-cong-xinren-ren-dao-xinren-ai-51260de8-60ef-4b76-b3e5-2e559c4a0923",
+          "show": "硅谷101",
+          "title": "E238｜聊聊Harness时代AI-First的组织架构：从信任人到信任AI",
+          "url": "/wiki/sources/e238-liaoliao-harness-shidai-ai-first-de-zuzhi-jiagou-cong-xinren-ren-dao-xinren-ai-51260de8-60ef-4b76-b3e5-2e559c4a0923/"
+        },
+        {
+          "episode_file": "tech_20260227_0227_MP_TECH_pod_128 [tech_20260227_0227_MP_TECH_pod_128].md",
+          "key": "tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Anthropic and the Pentagon face off, OpenAI teams up with consulting firms and Mac Mini moves to the U.S.",
+          "url": "/wiki/sources/tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260218_0218_MP_TECH_pod_128 [tech_20260218_0218_MP_TECH_pod_128].md",
+          "key": "tech-20260218-0218-mp-tech-pod-128-tech-20260218-0218-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Can software companies survive the AI boom?",
+          "url": "/wiki/sources/tech-20260218-0218-mp-tech-pod-128-tech-20260218-0218-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "Google 的 AI 策略：不赌模型，赌什么？｜ Google Cloud Next 现场 S10E09 [073d7ee7-7bac-4958-b45a-083cc2f866e6].md",
+          "key": "google-de-ai-celve-bu-du-moxing-du-shenme-google-cloud-next-xianchang-s10e09-073d7ee7-7bac-4958-b45a-083cc2f866e6",
+          "show": "What's Next｜科技早知道",
+          "title": "Google 的 AI 策略：不赌模型，赌什么？｜ Google Cloud Next 现场 S10E09",
+          "url": "/wiki/sources/google-de-ai-celve-bu-du-moxing-du-shenme-google-cloud-next-xianchang-s10e09-073d7ee7-7bac-4958-b45a-083cc2f866e6/"
+        },
+        {
+          "episode_file": "我们是如何定义 OpenClaw for Teams 新产品形态的｜对谈 Kuse&Junior 联创兼 CTO 宇豪 [lkp1A0TodFlxOyYCYo3zhRaP3eBv].md",
+          "key": "women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv",
+          "show": "42章经",
+          "title": "我们是如何定义 OpenClaw for Teams 新产品形态的｜对谈 Kuse&Junior 联创兼 CTO 宇豪",
+          "url": "/wiki/sources/women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv/"
+        },
+        {
+          "episode_file": "AI冲击企业软件巨头？与SAP原欣聊大模型to B的颠覆与边界 (1) [174-1].md",
+          "key": "ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1",
+          "show": "晚点聊 LateTalk",
+          "title": "174: AI冲击企业软件巨头？与SAP原欣聊大模型to B的颠覆与边界",
+          "url": "/wiki/sources/ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1/"
+        }
+      ],
+      "updated": "2026-08-18",
+      "url": "/wiki/concepts/enterpriseagentgovernance/"
+    },
     "EnterpriseAgentMemory": {
       "episode_count": 3,
       "show_count": 3,
@@ -46722,6 +46947,43 @@
       ],
       "updated": "2026-09-03",
       "url": "/wiki/concepts/enterpriseconnectorcontextquality/"
+    },
+    "EnterpriseDataActivation": {
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "270.大厂押注AI办公，飞书和钉钉却先成了配角 [lmb4DgcgOv3mR4CN7ciKBgHpfrO4].md",
+          "key": "270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4",
+          "show": "乱翻书",
+          "title": "270.大厂押注AI办公，飞书和钉钉却先成了配角",
+          "url": "/wiki/sources/270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4/"
+        },
+        {
+          "episode_file": "TSR-YCOffsite-KasishGupta-v1-AudioOnly [TSR-YCOffsite-KasishGupta-v1-AudioOnly].md",
+          "key": "tsr-ycoffsite-kasishgupta-v1-audioonly-tsr-ycoffsite-kasishgupta-v1-audioonly",
+          "show": "The Social Radars",
+          "title": "Founder Mode: Kashish Gupta, Founder and co-CEO of Hightouch",
+          "url": "/wiki/sources/tsr-ycoffsite-kasishgupta-v1-audioonly-tsr-ycoffsite-kasishgupta-v1-audioonly/"
+        },
+        {
+          "episode_file": "AI冲击企业软件巨头？与SAP原欣聊大模型to B的颠覆与边界 (1) [174-1].md",
+          "key": "ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1",
+          "show": "晚点聊 LateTalk",
+          "title": "174: AI冲击企业软件巨头？与SAP原欣聊大模型to B的颠覆与边界",
+          "url": "/wiki/sources/ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1/"
+        },
+        {
+          "episode_file": "E248｜一个“催发货”AI要跑通260步，和阿里瓴羊朋新宇聊聊中国式FDE [9e923c4c-1c87-499b-90a4-9a21cc83e4b1].md",
+          "key": "e248-yi-ge-cui-fahuo-ai-yao-paotong-260-bu-he-ali-lingyang-pengxinyu-liaoliao-zhongguoshi-fde-9e923c4c-1c87-499b-90a4-9a21cc83e4b1",
+          "show": "硅谷101",
+          "title": "E248｜一个“催发货”AI要跑通260步，和阿里瓴羊彭新宇聊聊中国式FDE",
+          "url": "/wiki/sources/e248-yi-ge-cui-fahuo-ai-yao-paotong-260-bu-he-ali-lingyang-pengxinyu-liaoliao-zhongguoshi-fde-9e923c4c-1c87-499b-90a4-9a21cc83e4b1/"
+        }
+      ],
+      "updated": "2026-08-11",
+      "url": "/wiki/concepts/enterprisedataactivation/"
     },
     "EnterpriseDataModernization": {
       "episode_count": 1,
@@ -46822,6 +47084,64 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/enterpriseownedmodels/"
     },
+    "EntertainmentIPFlywheel": {
+      "episode_count": 7,
+      "show_count": 6,
+      "source_note_count": 7,
+      "sources": [
+        {
+          "episode_file": "《奥德赛》把爆米花装进特洛伊木马，好莱坞大片为何扎堆定制爆米花桶？ [1004599628].md",
+          "key": "aodesai-ba-baomihua-zhuangjin-teluoyi-muma-haolaiwu-dapian-weihe-zhadui-dingzhi-baomihuatong-1004599628",
+          "show": "声动早咖啡",
+          "title": "《奥德赛》把爆米花装进特洛伊木马，好莱坞大片为何扎堆定制爆米花桶？",
+          "url": "/wiki/sources/aodesai-ba-baomihua-zhuangjin-teluoyi-muma-haolaiwu-dapian-weihe-zhadui-dingzhi-baomihuatong-1004599628/"
+        },
+        {
+          "episode_file": "Disney： The Renaissance and the Empire ｜ Acquired (1) [disney-the-renaissance-and-the-empire-1].md",
+          "key": "disney-the-renaissance-and-the-empire-1",
+          "show": "Acquired",
+          "title": "Disney: The Renaissance and the Empire",
+          "url": "/wiki/sources/disney-the-renaissance-and-the-empire-1/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_1529ddc36df4251a68968e1fc79c1821_30527497 [default.mp3_ywr3ahjkcgo_1529ddc36df4251a68968e1fc79c1821_30527497].md",
+          "key": "the-business-of-heated-rivalry",
+          "show": "Planet Money",
+          "title": "The Business of Heated Rivalry",
+          "url": "/wiki/sources/the-business-of-heated-rivalry/"
+        },
+        {
+          "episode_file": "Vol.265 跨越50年的美国版本之子 [1001004591].md",
+          "key": "vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591",
+          "show": "商业就是这样",
+          "title": "Vol.265 跨越50年的美国版本之子",
+          "url": "/wiki/sources/vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591/"
+        },
+        {
+          "episode_file": "The Walt Disney Company ｜ Acquired (1) [the-walt-disney-company-1].md",
+          "key": "the-walt-disney-company-1",
+          "show": "Acquired",
+          "title": "The Walt Disney Company: Walt's Era",
+          "url": "/wiki/sources/the-walt-disney-company-1/"
+        },
+        {
+          "episode_file": "Starmergeddon： British PM resigns [6a390b674a8189f2c3b4e6f1].md",
+          "key": "starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1",
+          "show": "Economist Podcasts",
+          "title": "Starmergeddon: British PM resigns",
+          "url": "/wiki/sources/starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1/"
+        },
+        {
+          "episode_file": "142. 产品体验学日本、全球营销学韩国 ｜ 疯投圈 (1) [142-1].md",
+          "key": "142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1",
+          "show": "疯投圈",
+          "title": "142. 产品体验学日本、全球营销学韩国",
+          "url": "/wiki/sources/142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1/"
+        }
+      ],
+      "updated": "2026-08-16",
+      "url": "/wiki/concepts/entertainmentipflywheel/"
+    },
     "EntertainmentProblemSetting": {
       "episode_count": 1,
       "show_count": 1,
@@ -46853,6 +47173,138 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/enthusiastdevicecommunity/"
+    },
+    "EntrepreneurshipInfrastructure": {
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "In arms’ way： Gaza-deal sticking points [6a71b49647235c354d3c9b74].md",
+          "key": "in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74",
+          "show": "Economist Podcasts",
+          "title": "In arms’ way: Gaza-deal sticking points",
+          "url": "/wiki/sources/in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74/"
+        },
+        {
+          "episode_file": "TSR-S4-Gusto-v3 [TSR-S4-Gusto-v3].md",
+          "key": "tsr-s4-gusto-v3-tsr-s4-gusto-v3",
+          "show": "The Social Radars",
+          "title": "Gusto Co-Founders: Josh Reeves, Edward Kim & Tomer London",
+          "url": "/wiki/sources/tsr-s4-gusto-v3-tsr-s4-gusto-v3/"
+        },
+        {
+          "episode_file": "Shopify： Tobias Lütke. How a snowboarder built a $150 billion business (2019) [d0b07b6a-125e-4896-babd-678d19957306].md",
+          "key": "shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306",
+          "show": "How I Built This with Guy Raz",
+          "title": "Shopify: Tobias Lütke. How a snowboarder built a $150 billion business (2019)",
+          "url": "/wiki/sources/shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306/"
+        },
+        {
+          "episode_file": "SocialRadarsS2-Stripe-v2 [SocialRadarsS2-Stripe-v2].md",
+          "key": "socialradarss2-stripe-v2",
+          "show": "The Social Radars",
+          "title": "Patrick and John Collison on Stripe's Origins, Developer Products, and Long-Term Ambition",
+          "url": "/wiki/sources/socialradarss2-stripe-v2/"
+        }
+      ],
+      "updated": "2026-08-08",
+      "url": "/wiki/concepts/entrepreneurshipinfrastructure/"
+    },
+    "EntryLevelAICareerLadderRisk": {
+      "episode_count": 7,
+      "show_count": 3,
+      "source_note_count": 7,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - All-In's 2026 Predictions [39681260].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "All-In's 2026 Predictions",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260/"
+        },
+        {
+          "episode_file": "176.纽约一年：一个悲观主义者的活法｜725沙龙实录 [lte_k8Lw8e1tXXW3NfxvO3WaL8aH].md",
+          "key": "176-niuyue-yinian-yige-beiguanzhuyizhe-de-huofa-725-shalong-shilu-lte-k8lw8e1txxw3nfxvo3wal8ah",
+          "show": "起朱楼宴宾客",
+          "title": "176.纽约一年：一个悲观主义者的活法｜725沙龙实录",
+          "url": "/wiki/sources/176-niuyue-yinian-yige-beiguanzhuyizhe-de-huofa-725-shalong-shilu-lte-k8lw8e1txxw3nfxvo3wal8ah/"
+        },
+        {
+          "episode_file": "172.全球宏观和资本市场2026半年度复盘与展望：AI叙事的下一步 [lvj6L_TwEuld-GvkpqURqpm4GpT2].md",
+          "key": "172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2",
+          "show": "起朱楼宴宾客",
+          "title": "172.全球宏观和资本市场2026半年度复盘与展望：AI叙事的下一步",
+          "url": "/wiki/sources/172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2/"
+        },
+        {
+          "episode_file": "169.如果你18岁，正考虑未来把金融当职业｜高考季特别策划 [lnasW3OsCk_KAIXBHsHJKPMscL9C].md",
+          "key": "169-ruguo-ni-18-sui-zheng-kaolu-weilai-ba-jinrong-dang-zhiye-gaokaoji-tebie-cehua-lnasw3osck-kaixbhshjkpmscl9c",
+          "show": "起朱楼宴宾客",
+          "title": "169.如果你18岁，正考虑未来把金融当职业｜高考季特别策划",
+          "url": "/wiki/sources/169-ruguo-ni-18-sui-zheng-kaolu-weilai-ba-jinrong-dang-zhiye-gaokaoji-tebie-cehua-lnasw3osck-kaixbhshjkpmscl9c/"
+        },
+        {
+          "episode_file": "152.关于2026年的四个猜想 [nhx-c5XJwaOVpaqjpuA24dIOhsAz].md",
+          "key": "152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz",
+          "show": "起朱楼宴宾客",
+          "title": "152.关于2026年的四个猜想",
+          "url": "/wiki/sources/152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz/"
+        },
+        {
+          "episode_file": "146.美国经济这么差，美股还能继续涨吗 ｜ 串台《美轮美换》 [lrShkXgoFPrEl_E-7lKIqU_eN8GU].md",
+          "key": "146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu",
+          "show": "起朱楼宴宾客",
+          "title": "146.美国经济这么差，美股还能继续涨吗 | 串台《美轮美换》",
+          "url": "/wiki/sources/146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu/"
+        },
+        {
+          "episode_file": "Brave New whirl： Turkey’s opposition overhaul [6a69c7766043035f89eb097f].md",
+          "key": "brave-new-whirl-turkeys-opposition-overhaul-6a69c7766043035f89eb097f",
+          "show": "Economist Podcasts",
+          "title": "Brave New whirl: Turkey's opposition overhaul",
+          "url": "/wiki/sources/brave-new-whirl-turkeys-opposition-overhaul-6a69c7766043035f89eb097f/"
+        }
+      ],
+      "updated": "2026-08-18",
+      "url": "/wiki/concepts/entrylevelaicareerladderrisk/"
+    },
+    "EnvelopeExpansionDeployment": {
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "acc532947b65 [acc532947b65].md",
+          "key": "acc532947b65-acc532947b65",
+          "show": "科技乱炖",
+          "title": "没有方向盘的出行，走到哪一步了？ NVIDIA × 小马智行一次聊透智能驾驶",
+          "url": "/wiki/sources/acc532947b65-acc532947b65/"
+        },
+        {
+          "episode_file": "tech_20251229_1229_MP_TECH_pod_128 [tech_20251229_1229_MP_TECH_pod_128].md",
+          "key": "tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Robotaxis moved into the fast lane in 2025",
+          "url": "/wiki/sources/tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "TSR-S3-KyleVogt-v3Final [TSR-S3-KyleVogt-v3Final].md",
+          "key": "tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final",
+          "show": "The Social Radars",
+          "title": "Kyle Vogt on Justin.tv, Twitch, Cruise, and Choosing Hard Problems",
+          "url": "/wiki/sources/tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final/"
+        },
+        {
+          "episode_file": "tech_20260717_0717_MP_TECH_pod_128 [tech_20260717_0717_MP_TECH_pod_128].md",
+          "key": "tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "The Apple vs. OpenAI legal showdown",
+          "url": "/wiki/sources/tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-08-12",
+      "url": "/wiki/concepts/envelopeexpansiondeployment/"
     },
     "EnverPasha": {
       "episode_count": 1,
@@ -46931,6 +47383,120 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/environmentalprotectionagency/"
+    },
+    "EnvironmentalTradeoffAccounting": {
+      "episode_count": 15,
+      "show_count": 6,
+      "source_note_count": 15,
+      "sources": [
+        {
+          "episode_file": "tech_20260818_TECH_pod_128 [tech_20260818_TECH_pod_128].md",
+          "key": "tech-20260818-tech-pod-128-tech-20260818-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "As space launches increase, there aren't enough spaceports",
+          "url": "/wiki/sources/tech-20260818-tech-pod-128-tech-20260818-tech-pod-128/"
+        },
+        {
+          "episode_file": "绿点小样 ｜ 要推广替换芯，得把美妆重做一遍 [1006757937].md",
+          "key": "lvdian-xiaoyang-yao-tuiguang-tihuanxin-de-ba-meizhuang-chongzuo-yibian-1006757937",
+          "show": "商业就是这样",
+          "title": "绿点小样 | 要推广替换芯，得把美妆重做一遍",
+          "url": "/wiki/sources/lvdian-xiaoyang-yao-tuiguang-tihuanxin-de-ba-meizhuang-chongzuo-yibian-1006757937/"
+        },
+        {
+          "episode_file": "Socialist mobility： a telling Michigan vote [6a74600ec3e1347e8b5bf216].md",
+          "key": "socialist-mobility-a-telling-michigan-vote-6a74600ec3e1347e8b5bf216",
+          "show": "Economist Podcasts",
+          "title": "Socialist mobility: a telling Michigan vote",
+          "url": "/wiki/sources/socialist-mobility-a-telling-michigan-vote-6a74600ec3e1347e8b5bf216/"
+        },
+        {
+          "episode_file": "EP267 踏访湄公河：雨季、婚飞蚁与水利帝国 [lkq2VXaATn4wXUE7y5q1FC3_8yfk].md",
+          "key": "ep267-tafang-meigonghe-yuji-hunfeiyi-yu-shuili-diguo-lkq2vxaatn4wxue7y5q1fc3-8yfk",
+          "show": "Talk三联",
+          "title": "EP267 踏访湄公河：雨季、婚飞蚁与水利帝国",
+          "url": "/wiki/sources/ep267-tafang-meigonghe-yuji-hunfeiyi-yu-shuili-diguo-lkq2vxaatn4wxue7y5q1fc3-8yfk/"
+        },
+        {
+          "episode_file": "EP261 “蜜蜂危机”：如果失去蜜蜂，世界将会怎样？ [lqp_Cwcdxx1zIiXb35iJMMVd6cv-].md",
+          "key": "ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv",
+          "show": "Talk三联",
+          "title": "EP261 “蜜蜂危机”：如果失去蜜蜂，世界将会怎样？",
+          "url": "/wiki/sources/ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv/"
+        },
+        {
+          "episode_file": "tech_20251224_1224_MP_TECH_pod_128 [tech_20251224_1224_MP_TECH_pod_128].md",
+          "key": "tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Mushrooms could help curb plastic waste",
+          "url": "/wiki/sources/tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260420_0420_MP_TECH_pod_128 [tech_20260420_0420_MP_TECH_pod_128].md",
+          "key": "tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "California buildings must limit \"embodied carbon.\" Here's what that means",
+          "url": "/wiki/sources/tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_910932b3b44bb69cf2e0cdc6ef149882_35224418 [default.mp3_ywr3ahjkcgo_910932b3b44bb69cf2e0cdc6ef149882_35224418].md",
+          "key": "the-little-pet-fish-that-saved-a-town-in-the-amazon",
+          "show": "Planet Money",
+          "title": "The little pet fish that saved a town in the Amazon",
+          "url": "/wiki/sources/the-little-pet-fish-that-saved-a-town-in-the-amazon/"
+        },
+        {
+          "episode_file": "138.企鹅课：我在海滩上捡到一位Q老师 [842331726].md",
+          "key": "138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726",
+          "show": "蜜獾吃书",
+          "title": "138.企鹅课：我在海滩上捡到一位Q老师",
+          "url": "/wiki/sources/138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726/"
+        },
+        {
+          "episode_file": "120.蓝狐岛：伟大事业中的雄心与现实 [772998218].md",
+          "key": "120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218",
+          "show": "蜜獾吃书",
+          "title": "120.蓝狐岛：伟大事业中的雄心与现实",
+          "url": "/wiki/sources/120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218/"
+        },
+        {
+          "episode_file": "97.花粉症与人类：从尼安德特人（啊啾！）到空气净化器… [728113059].md",
+          "key": "97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059",
+          "show": "蜜獾吃书",
+          "title": "97.花粉症与人类：从尼安德特人（啊啾！）到空气净化器…",
+          "url": "/wiki/sources/97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059/"
+        },
+        {
+          "episode_file": "65.龙王之怒：1931年的长江洪水 [658100922].md",
+          "key": "65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922",
+          "show": "蜜獾吃书",
+          "title": "65.龙王之怒：1931年的长江洪水",
+          "url": "/wiki/sources/65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922/"
+        },
+        {
+          "episode_file": "62.克拉克森的农场：想不到你是这样的小羊肖恩 [652404260].md",
+          "key": "62-kelakesen-de-nongchang-xiangbudao-ni-shi-zheyang-de-xiaoyang-xiaoen-652404260",
+          "show": "蜜獾吃书",
+          "title": "62.克拉克森的农场：想不到你是这样的小羊肖恩",
+          "url": "/wiki/sources/62-kelakesen-de-nongchang-xiangbudao-ni-shi-zheyang-de-xiaoyang-xiaoen-652404260/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_ab7277230a319455cc2c5b019f82bffc_27777638 [default.mp3_ywr3ahjkcgo_ab7277230a319455cc2c5b019f82bffc_27777638].md",
+          "key": "its-my-tree-why-cant-i-cut-it-down",
+          "show": "Planet Money",
+          "title": "It's my tree. Why can't I cut it down?",
+          "url": "/wiki/sources/its-my-tree-why-cant-i-cut-it-down/"
+        },
+        {
+          "episode_file": "16.时尚受害者：惊！绿色或为最毒颜色 [559889282].md",
+          "key": "16-shishang-shouhaizhe-jing-luse-huo-wei-zui-du-yanse-559889282",
+          "show": "蜜獾吃书",
+          "title": "16.时尚受害者：惊！绿色或为最毒颜色",
+          "url": "/wiki/sources/16-shishang-shouhaizhe-jing-luse-huo-wei-zui-du-yanse-559889282/"
+        }
+      ],
+      "updated": "2026-08-24",
+      "url": "/wiki/concepts/environmentaltradeoffaccounting/"
     },
     "EpicHeroHumanLimits": {
       "episode_count": 2,
@@ -47039,6 +47605,101 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/concepts/equalityparadoxpublicspace/"
+    },
+    "EquityCompensationUpside": {
+      "episode_count": 7,
+      "show_count": 5,
+      "source_note_count": 7,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - World's First Trillionaire, Anthropic Fable Banned, The New Oligarchs, Iran Peace Deal [41706545].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "World's First Trillionaire, Anthropic Fable Banned, The New Oligarchs, Iran Peace Deal",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Inside the Private Stock Market Boom： SpaceX, Anthropic, OpenAI & the Rise of Secondaries [41564170].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-inside-the-private-stock-market-boom-spacex-anthropic-openai-the-rise-of-secondaries-41564170",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Inside the Private Stock Market Boom: SpaceX, Anthropic, OpenAI & the Rise of Secondaries",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-inside-the-private-stock-market-boom-spacex-anthropic-openai-the-rise-of-secondaries-41564170/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_ba3395b54a01e1ee6d5da3878108de5a_27572422 [default.mp3_ywr3ahjkcgo_ba3395b54a01e1ee6d5da3878108de5a_27572422].md",
+          "key": "a-pro-worker-experiment-in-private-equity",
+          "show": "Planet Money",
+          "title": "A pro-worker experiment in private equity",
+          "url": "/wiki/sources/a-pro-worker-experiment-in-private-equity/"
+        },
+        {
+          "episode_file": "79.各位领导，但凡咱学点博弈论… … [690004262].md",
+          "key": "79-gewei-lingdao-danfan-zan-xuedian-boyilun-690004262",
+          "show": "蜜獾吃书",
+          "title": "79.各位领导，但凡咱学点博弈论：契约理论如何解释职场管理",
+          "url": "/wiki/sources/79-gewei-lingdao-danfan-zan-xuedian-boyilun-690004262/"
+        },
+        {
+          "episode_file": "TSR-S3-YinWu-v2 [TSR-S3-YinWu-v2].md",
+          "key": "tsr-s3-yinwu-v2-tsr-s3-yinwu-v2",
+          "show": "The Social Radars",
+          "title": "Yin Wu on Pulley, Equity, and Founder Resilience",
+          "url": "/wiki/sources/tsr-s3-yinwu-v2-tsr-s3-yinwu-v2/"
+        },
+        {
+          "episode_file": "TSR-S3-RonConwayEp1-v4Final [TSR-S3-RonConwayEp1-v4Final].md",
+          "key": "tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final",
+          "show": "The Social Radars",
+          "title": "Ron Conway on National Semiconductor, Altos, and Early Angel Investing",
+          "url": "/wiki/sources/tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final/"
+        },
+        {
+          "episode_file": "期权这张饼，为什么越来越难吃了？ ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [期权这张饼，为什么越来越难吃了？-1].md",
+          "key": "qiquan-zhe-zhang-bing-weishenme-yuelaiyue-nanchi-le-1",
+          "show": "科技乱炖",
+          "title": "期权这张饼，为什么越来越难吃了？",
+          "url": "/wiki/sources/qiquan-zhe-zhang-bing-weishenme-yuelaiyue-nanchi-le-1/"
+        }
+      ],
+      "updated": "2026-08-18",
+      "url": "/wiki/concepts/equitycompensationupside/"
+    },
+    "EquityIncentiveAlignment": {
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "Advice Line： ＂Strategy Sessions＂ [4962a0d6-36bc-4797-8002-3bd8b748a89a].md",
+          "key": "advice-line-strategy-sessions-4962a0d6-36bc-4797-8002-3bd8b748a89a",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line: \"Strategy Sessions\"",
+          "url": "/wiki/sources/advice-line-strategy-sessions-4962a0d6-36bc-4797-8002-3bd8b748a89a/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_ba3395b54a01e1ee6d5da3878108de5a_27572422 [default.mp3_ywr3ahjkcgo_ba3395b54a01e1ee6d5da3878108de5a_27572422].md",
+          "key": "a-pro-worker-experiment-in-private-equity",
+          "show": "Planet Money",
+          "title": "A pro-worker experiment in private equity",
+          "url": "/wiki/sources/a-pro-worker-experiment-in-private-equity/"
+        },
+        {
+          "episode_file": "79.各位领导，但凡咱学点博弈论… … [690004262].md",
+          "key": "79-gewei-lingdao-danfan-zan-xuedian-boyilun-690004262",
+          "show": "蜜獾吃书",
+          "title": "79.各位领导，但凡咱学点博弈论：契约理论如何解释职场管理",
+          "url": "/wiki/sources/79-gewei-lingdao-danfan-zan-xuedian-boyilun-690004262/"
+        },
+        {
+          "episode_file": "期权这张饼，为什么越来越难吃了？ ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [期权这张饼，为什么越来越难吃了？-1].md",
+          "key": "qiquan-zhe-zhang-bing-weishenme-yuelaiyue-nanchi-le-1",
+          "show": "科技乱炖",
+          "title": "期权这张饼，为什么越来越难吃了？",
+          "url": "/wiki/sources/qiquan-zhe-zhang-bing-weishenme-yuelaiyue-nanchi-le-1/"
+        }
+      ],
+      "updated": "2026-08-08",
+      "url": "/wiki/concepts/equityincentivealignment/"
     },
     "EquityRetirementAssetBinding": {
       "episode_count": 2,
@@ -47731,6 +48392,50 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/evergrandewealth/"
     },
+    "EverydayFoodCultureHistory": {
+      "episode_count": 5,
+      "show_count": 4,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "咖啡豆｜「和牛自由」成自助餐厅卖点，贵价光环从何而来？ [1004978054].md",
+          "key": "kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜「和牛自由」成自助餐厅卖点，贵价光环从何而来？",
+          "url": "/wiki/sources/kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054/"
+        },
+        {
+          "episode_file": "EP245 一年一度寻味之旅：今年去吃创意菜 [li9WtaVEmokccKiaLbBJ7uNpMqsZ].md",
+          "key": "ep245-yinian-yidu-xunwei-zhilv-jinnian-qu-chi-chuangyi-cai-li9wtavemokcckialbbj7unpmqsz",
+          "show": "Talk三联",
+          "title": "EP245 一年一度寻味之旅：今年去吃创意菜",
+          "url": "/wiki/sources/ep245-yinian-yidu-xunwei-zhilv-jinnian-qu-chi-chuangyi-cai-li9wtavemokcckialbbj7unpmqsz/"
+        },
+        {
+          "episode_file": "番外 15： 半拿铁讲金瓶梅啦，而且还是绿色的 [991508433].md",
+          "key": "fanwai-15-banlatte-jiang-jinpingmei-la-erqie-haishi-luse-de-991508433",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "番外 15：半拿铁讲《金瓶梅》啦，而且还是绿色的",
+          "url": "/wiki/sources/fanwai-15-banlatte-jiang-jinpingmei-la-erqie-haishi-luse-de-991508433/"
+        },
+        {
+          "episode_file": "开天窗｜指路兼推荐几本书 [726703080].md",
+          "key": "kaitianchuang-zhi-lu-jian-tuijian-ji-ben-shu-726703080",
+          "show": "蜜獾吃书",
+          "title": "开天窗｜指路兼推荐几本书",
+          "url": "/wiki/sources/kaitianchuang-zhi-lu-jian-tuijian-ji-ben-shu-726703080/"
+        },
+        {
+          "episode_file": "三联串台｜神赐给人葡萄，世界微醺了 [585125156].md",
+          "key": "sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156",
+          "show": "蜜獾吃书",
+          "title": "三联串台｜神赐给人葡萄，世界微醺了",
+          "url": "/wiki/sources/sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156/"
+        }
+      ],
+      "updated": "2026-08-16",
+      "url": "/wiki/concepts/everydayfoodculturehistory/"
+    },
     "EverydayHumanitarianismInWarFilm": {
       "episode_count": 1,
       "show_count": 1,
@@ -47786,6 +48491,94 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/everydaysocialconnection/"
     },
+    "EvidenceBoundFolkloreInquiry": {
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·周纪》46丨骂你是个“二百五”的历史来源 [lkz5HiamAOJTVaNllBuNEcY3G3ff].md",
+          "key": "zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》46丨骂你是个“二百五”的历史来源",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff/"
+        },
+        {
+          "episode_file": "111. 花衣魔笛手：快来，和历史学家一起推理童话真相 [751190766].md",
+          "key": "111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766",
+          "show": "蜜獾吃书",
+          "title": "111. 花衣魔笛手：快来，和历史学家一起推理童话真相",
+          "url": "/wiki/sources/111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766/"
+        },
+        {
+          "episode_file": "95.都市传说：猎奇故事和我们内心深处的焦虑 [723831611].md",
+          "key": "95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611",
+          "show": "蜜獾吃书",
+          "title": "95.都市传说：猎奇故事和我们内心深处的焦虑",
+          "url": "/wiki/sources/95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611/"
+        },
+        {
+          "episode_file": "115.京极夏彦今昔续百鬼：不研究妖怪，怎么好好做人？ [760601309].md",
+          "key": "115-jingji-xiayan-jinxi-xu-baigui-bu-yanjiu-yaoguai-zenme-haohao-zuoren-760601309",
+          "show": "蜜獾吃书",
+          "title": "115.京极夏彦今昔续百鬼：不研究妖怪，怎么好好做人？",
+          "url": "/wiki/sources/115-jingji-xiayan-jinxi-xu-baigui-bu-yanjiu-yaoguai-zenme-haohao-zuoren-760601309/"
+        }
+      ],
+      "updated": "2026-08-19",
+      "url": "/wiki/concepts/evidenceboundfolkloreinquiry/"
+    },
+    "EvidenceBoundHistoricalRevision": {
+      "episode_count": 6,
+      "show_count": 3,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "271.唐朝都要不存在了？为什么伪史论会在今年大爆发？ [lg7_wdrDW1B9h7LwA4VWKvMyb4Un].md",
+          "key": "271-tangchao-douyao-bucunzai-le-weishenme-weishilun-hui-zai-jinnian-da-baofa-lg7-wdrdw1b9h7lwa4vwkvmyb4un",
+          "show": "乱翻书",
+          "title": "271.唐朝都要不存在了？为什么伪史论会在今年大爆发？",
+          "url": "/wiki/sources/271-tangchao-douyao-bucunzai-le-weishenme-weishilun-hui-zai-jinnian-da-baofa-lg7-wdrdw1b9h7lwa4vwkvmyb4un/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》118-2｜吃瓜了！王室的瓜 包甜！ [lns7JT-KbV3QUNm66HZlTdgugbcO].md",
+          "key": "zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》118-2｜吃瓜了！王室的瓜 包甜！",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》118-1｜王翦率六十万大军 对战项燕！好戏开场了！ [lsf2puiNwg0M3BgYi25Znof7AZnu].md",
+          "key": "zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》118-1｜王翦率六十万大军 对战项燕！好戏开场了！",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu/"
+        },
+        {
+          "episode_file": "170.宋太祖之死：烛影斧声，阴谋论中的人性谜团（下） [958158115].md",
+          "key": "170-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-xia-958158115",
+          "show": "蜜獾吃书",
+          "title": "170.宋太祖之死：烛影斧声，阴谋论中的人性谜团（下）",
+          "url": "/wiki/sources/170-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-xia-958158115/"
+        },
+        {
+          "episode_file": "169.宋太祖之死：烛影斧声，阴谋论中的人性谜团（上） [957052909].md",
+          "key": "169-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-shang-957052909",
+          "show": "蜜獾吃书",
+          "title": "169.宋太祖之死：烛影斧声，阴谋论中的人性谜团（上）",
+          "url": "/wiki/sources/169-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-shang-957052909/"
+        },
+        {
+          "episode_file": "69.闲聊推理文学：历史学者可不就是侦探吗！ [666244465].md",
+          "key": "69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465",
+          "show": "蜜獾吃书",
+          "title": "69.闲聊推理文学：历史学者可不就是侦探吗！",
+          "url": "/wiki/sources/69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465/"
+        }
+      ],
+      "updated": "2026-08-24",
+      "url": "/wiki/concepts/evidenceboundhistoricalrevision/"
+    },
     "EvidenceDrivenHumanRightsCampaign": {
       "episode_count": 1,
       "show_count": 1,
@@ -47801,6 +48594,50 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/concepts/evidencedrivenhumanrightscampaign/"
+    },
+    "EvidenceOverTestimony": {
+      "episode_count": 5,
+      "show_count": 1,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "24.捍卫雅各布：相信你是我唯一的执念 [576218441].md",
+          "key": "24-hanwei-yagebu-xiangxin-ni-shi-wo-weiyi-de-zhinian-576218441",
+          "show": "蜜獾吃书",
+          "title": "24.捍卫雅各布：相信你是我唯一的执念",
+          "url": "/wiki/sources/24-hanwei-yagebu-xiangxin-ni-shi-wo-weiyi-de-zhinian-576218441/"
+        },
+        {
+          "episode_file": "121.极简法医鉴识手册：一切犯罪，皆有痕迹 [775064343].md",
+          "key": "121-jijian-fayi-jianshi-shouce-yiqie-fanzui-jieyou-henji-775064343",
+          "show": "蜜獾吃书",
+          "title": "121.极简法医鉴识手册：一切犯罪，皆有痕迹",
+          "url": "/wiki/sources/121-jijian-fayi-jianshi-shouce-yiqie-fanzui-jieyou-henji-775064343/"
+        },
+        {
+          "episode_file": "113.亨丽埃塔与那场将人类学送上审判席的谋杀案 [756562827].md",
+          "key": "113-henglieta-yu-nachang-jiang-renleixue-songshang-shenpanxi-de-moushaan-756562827",
+          "show": "蜜獾吃书",
+          "title": "113.亨丽埃塔与那场将人类学送上审判席的谋杀案",
+          "url": "/wiki/sources/113-henglieta-yu-nachang-jiang-renleixue-songshang-shenpanxi-de-moushaan-756562827/"
+        },
+        {
+          "episode_file": "185.魔鬼出没的世界：关于阴谋论（UFO,外星人绑架案,麦田圈,X档案,揭秘日... [996181368].md",
+          "key": "185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368",
+          "show": "蜜獾吃书",
+          "title": "185.魔鬼出没的世界：关于阴谋论、UFO与科学精神",
+          "url": "/wiki/sources/185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368/"
+        },
+        {
+          "episode_file": "91.猎巫：塞勒姆1692，从癔症开始 [714732018].md",
+          "key": "91-liewu-sailemu-1692-cong-yizheng-kaishi-714732018",
+          "show": "蜜獾吃书",
+          "title": "91.猎巫：塞勒姆1692，从癔症开始",
+          "url": "/wiki/sources/91-liewu-sailemu-1692-cong-yizheng-kaishi-714732018/"
+        }
+      ],
+      "updated": "2026-08-05",
+      "url": "/wiki/concepts/evidenceovertestimony/"
     },
     "EvolutionaryMisrecognition": {
       "episode_count": 1,
@@ -47849,6 +48686,64 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/executivefunction/"
+    },
+    "ExecutivePowerPrecedent": {
+      "episode_count": 7,
+      "show_count": 4,
+      "source_note_count": 7,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_23c29e8edd70c684f8416ee2165c6adf_27837548 [default.mp3_ywr3ahjkcgo_23c29e8edd70c684f8416ee2165c6adf_27837548].md",
+          "key": "the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what",
+          "show": "Planet Money",
+          "title": "The Supreme Court struck down a bunch of Trump's tariffs. Now what?",
+          "url": "/wiki/sources/the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what/"
+        },
+        {
+          "episode_file": "173.弹劾：如何罢免一位总统 [963141809].md",
+          "key": "173-tanhe-ruhe-bamian-yiwei-zongtong-963141809",
+          "show": "蜜獾吃书",
+          "title": "173.弹劾：如何罢免一位总统",
+          "url": "/wiki/sources/173-tanhe-ruhe-bamian-yiwei-zongtong-963141809/"
+        },
+        {
+          "episode_file": "Gulf-co-operation counsel： what next for the region [6a4387d73fa89e3338f83da6].md",
+          "key": "gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6",
+          "show": "Economist Podcasts",
+          "title": "Gulf-co-operation counsel: what next for the region",
+          "url": "/wiki/sources/gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6/"
+        },
+        {
+          "episode_file": "Coming in Andy： Britain's prime minister-in-waiting [6a3512974a2a3be0f419384b].md",
+          "key": "coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b",
+          "show": "Economist Podcasts",
+          "title": "Coming in Andy: Britain's prime minister-in-waiting",
+          "url": "/wiki/sources/coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b/"
+        },
+        {
+          "episode_file": "The 250-year experiment： America’s birthday [6a477d9aecd123914320b4ad].md",
+          "key": "the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad",
+          "show": "Economist Podcasts",
+          "title": "The 250-year experiment: America's birthday",
+          "url": "/wiki/sources/the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad/"
+        },
+        {
+          "episode_file": "vol.113.从几千页智库文件中，勾勒特朗普2.0执政计划背后的人、机构、思想和脉络 [lihNKnC-3oM5EVEXOcB6A6zdwueu].md",
+          "key": "vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu",
+          "show": "起朱楼宴宾客",
+          "title": "Vol.113 从几千页智库文件中，勾勒特朗普2.0执政计划背后的人、机构、思想和脉络",
+          "url": "/wiki/sources/vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_9553125b9143a79bd131d52ccba0675f_30684964 [default.mp3_ywr3ahjkcgo_9553125b9143a79bd131d52ccba0675f_30684964].md",
+          "key": "jerome-powell-and-the-test-of-fed-independence",
+          "show": "Planet Money",
+          "title": "Jerome Powell and the Test of Fed Independence",
+          "url": "/wiki/sources/jerome-powell-and-the-test-of-fed-independence/"
+        }
+      ],
+      "updated": "2026-07-24",
+      "url": "/wiki/concepts/executivepowerprecedent/"
     },
     "ExecutiveWarPowersBreakdown": {
       "episode_count": 1,
@@ -48284,6 +49179,120 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/experientialassociation/"
     },
+    "ExperientialRetail": {
+      "episode_count": 15,
+      "show_count": 4,
+      "source_note_count": 15,
+      "sources": [
+        {
+          "episode_file": "Vol.270 大食代留在了它的时代 [1006063835].md",
+          "key": "vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835",
+          "show": "商业就是这样",
+          "title": "Vol.270 大食代留在了它的时代",
+          "url": "/wiki/sources/vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835/"
+        },
+        {
+          "episode_file": "Serena & Lily： Serena Dugan and Lily Kanter. They Built a $20M Brand—Then One Investor Almost Destroyed It [31a4ddcd-1cc1-48d0-9369-fd85e8714e66].md",
+          "key": "serena-lily-serena-dugan-and-lily-kanter-they-built-a-20m-brand-then-one-investor-almost-destroyed-it-31a4ddcd-1cc1-48d0-9369-fd85e8714e66",
+          "show": "How I Built This with Guy Raz",
+          "title": "Serena & Lily: Serena Dugan and Lily Kanter. They Built a $20M Brand—Then One Investor Almost Destroyed It",
+          "url": "/wiki/sources/serena-lily-serena-dugan-and-lily-kanter-they-built-a-20m-brand-then-one-investor-almost-destroyed-it-31a4ddcd-1cc1-48d0-9369-fd85e8714e66/"
+        },
+        {
+          "episode_file": "Build-A-Bear： Maxine Clark. A Former Shoe Executive Launches a Stuffed Animal Empire  [8e5da7d7-4e2b-4978-b625-f72cb5d57d88].md",
+          "key": "build-a-bear-maxine-clark-a-former-shoe-executive-launches-a-stuffed-animal-empire-8e5da7d7-4e2b-4978-b625-f72cb5d57d88",
+          "show": "How I Built This with Guy Raz",
+          "title": "Build-A-Bear: Maxine Clark. A Former Shoe Executive Launches a Stuffed Animal Empire",
+          "url": "/wiki/sources/build-a-bear-maxine-clark-a-former-shoe-executive-launches-a-stuffed-animal-empire-8e5da7d7-4e2b-4978-b625-f72cb5d57d88/"
+        },
+        {
+          "episode_file": "The Walt Disney Company ｜ Acquired (1) [the-walt-disney-company-1].md",
+          "key": "the-walt-disney-company-1",
+          "show": "Acquired",
+          "title": "The Walt Disney Company: Walt's Era",
+          "url": "/wiki/sources/the-walt-disney-company-1/"
+        },
+        {
+          "episode_file": "Advice Line with Christina Tosi of Milk Bar  [fd7f2406-fda8-4c1d-936c-d20210215f96].md",
+          "key": "advice-line-with-christina-tosi-of-milk-bar-fd7f2406-fda8-4c1d-936c-d20210215f96",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Christina Tosi of Milk Bar",
+          "url": "/wiki/sources/advice-line-with-christina-tosi-of-milk-bar-fd7f2406-fda8-4c1d-936c-d20210215f96/"
+        },
+        {
+          "episode_file": "STARR Restaurants： Stephen Starr. How a Non-Foodie Built Thriving Restaurants on Gut Instinct [6c0eb387-4722-4284-aded-23bbd0a9e6f4].md",
+          "key": "starr-restaurants-stephen-starr-how-a-non-foodie-built-thriving-restaurants-on-gut-instinct-6c0eb387-4722-4284-aded-23bbd0a9e6f4",
+          "show": "How I Built This with Guy Raz",
+          "title": "STARR Restaurants: Stephen Starr. How a Non-Foodie Built Thriving Restaurants on Gut Instinct",
+          "url": "/wiki/sources/starr-restaurants-stephen-starr-how-a-non-foodie-built-thriving-restaurants-on-gut-instinct-6c0eb387-4722-4284-aded-23bbd0a9e6f4/"
+        },
+        {
+          "episode_file": "132. 🍦雪糕江湖 ｜ 疯投圈 (1) [132-1].md",
+          "key": "132-xuegao-jianghu-fengtouquan-1-132-1",
+          "show": "疯投圈",
+          "title": "132. 雪糕江湖",
+          "url": "/wiki/sources/132-xuegao-jianghu-fengtouquan-1-132-1/"
+        },
+        {
+          "episode_file": "Vol.263 郎的诱惑 [998128018].md",
+          "key": "vol-263-lang-de-youhuo-998128018",
+          "show": "商业就是这样",
+          "title": "Vol.263 郎的诱惑",
+          "url": "/wiki/sources/vol-263-lang-de-youhuo-998128018/"
+        },
+        {
+          "episode_file": "141. ☕️咖啡战争2026：机构化与本土化 ｜ 疯投圈 (1) [141-1].md",
+          "key": "141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1",
+          "show": "疯投圈",
+          "title": "141. 咖啡战争2026：机构化与本土化",
+          "url": "/wiki/sources/141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1/"
+        },
+        {
+          "episode_file": "138. 👟昂跑中国重直营、🦍超级猩猩不办卡 ｜ 疯投圈 (1) [138-1].md",
+          "key": "138-angpao-zhongguo-zhong-zhiying-chaoji-xingxing-bu-banka-feng-tou-quan-1-138-1",
+          "show": "疯投圈",
+          "title": "138. 昂跑中国重直营、超级猩猩不办卡",
+          "url": "/wiki/sources/138-angpao-zhongguo-zhong-zhiying-chaoji-xingxing-bu-banka-feng-tou-quan-1-138-1/"
+        },
+        {
+          "episode_file": "137. 从顺德猪肉婆到韩国圣水洞：那些AI无法取代的体验消费 ｜ 疯投圈 (1) [137-1].md",
+          "key": "137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1",
+          "show": "疯投圈",
+          "title": "137. 从顺德猪肉婆到韩国圣水洞：那些AI无法取代的体验消费",
+          "url": "/wiki/sources/137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1/"
+        },
+        {
+          "episode_file": "Vol.264 把世界杯作为方法 [999416048].md",
+          "key": "vol-264-ba-shijiebei-zuowei-fangfa-999416048",
+          "show": "商业就是这样",
+          "title": "Vol.264 把世界杯作为方法",
+          "url": "/wiki/sources/vol-264-ba-shijiebei-zuowei-fangfa-999416048/"
+        },
+        {
+          "episode_file": "142. 产品体验学日本、全球营销学韩国 ｜ 疯投圈 (1) [142-1].md",
+          "key": "142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1",
+          "show": "疯投圈",
+          "title": "142. 产品体验学日本、全球营销学韩国",
+          "url": "/wiki/sources/142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1/"
+        },
+        {
+          "episode_file": "Advice Line with Kenneth Cole [83717cb6-e000-4cde-898d-792249545f88].md",
+          "key": "advice-line-with-kenneth-cole-83717cb6-e000-4cde-898d-792249545f88",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Kenneth Cole",
+          "url": "/wiki/sources/advice-line-with-kenneth-cole-83717cb6-e000-4cde-898d-792249545f88/"
+        },
+        {
+          "episode_file": "145. 改嫁中资的餐饮洋品牌 ｜ 疯投圈 (1) [145-1].md",
+          "key": "145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1",
+          "show": "疯投圈",
+          "title": "145. 改嫁中资的餐饮洋品牌",
+          "url": "/wiki/sources/145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1/"
+        }
+      ],
+      "updated": "2026-08-24",
+      "url": "/wiki/concepts/experientialretail/"
+    },
     "ExperientialStatistics": {
       "episode_count": 1,
       "show_count": 1,
@@ -48448,6 +49457,43 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/expressivewritingprotocol/"
+    },
+    "ExternalityInternalization": {
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "【旧番重听】蜜蜂经济学 [956460448].md",
+          "key": "jiufan-zhongting-mifeng-jingjixue-956460448",
+          "show": "商业就是这样",
+          "title": "【旧番重听】蜜蜂经济学",
+          "url": "/wiki/sources/jiufan-zhongting-mifeng-jingjixue-956460448/"
+        },
+        {
+          "episode_file": "62.克拉克森的农场：想不到你是这样的小羊肖恩 [652404260].md",
+          "key": "62-kelakesen-de-nongchang-xiangbudao-ni-shi-zheyang-de-xiaoyang-xiaoen-652404260",
+          "show": "蜜獾吃书",
+          "title": "62.克拉克森的农场：想不到你是这样的小羊肖恩",
+          "url": "/wiki/sources/62-kelakesen-de-nongchang-xiangbudao-ni-shi-zheyang-de-xiaoyang-xiaoen-652404260/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_ab7277230a319455cc2c5b019f82bffc_27777638 [default.mp3_ywr3ahjkcgo_ab7277230a319455cc2c5b019f82bffc_27777638].md",
+          "key": "its-my-tree-why-cant-i-cut-it-down",
+          "show": "Planet Money",
+          "title": "It's my tree. Why can't I cut it down?",
+          "url": "/wiki/sources/its-my-tree-why-cant-i-cut-it-down/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_4929960eeb6b6844a1c4f5870f272ed6_42016254 [default.mp3_ywr3ahjkcgo_4929960eeb6b6844a1c4f5870f272ed6_42016254].md",
+          "key": "sand-heists-and-property-rights-in-the-caribbean-summer-school",
+          "show": "Planet Money",
+          "title": "Sand heists and property rights in the Caribbean (Summer School)",
+          "url": "/wiki/sources/sand-heists-and-property-rights-in-the-caribbean-summer-school/"
+        }
+      ],
+      "updated": "2026-08-08",
+      "url": "/wiki/concepts/externalityinternalization/"
     },
     "ExtracellularAgingEnzymeTherapy": {
       "episode_count": 1,
@@ -49139,6 +50185,43 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/familyanxietytransmission/"
     },
+    "FamilyBusinessScaling": {
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "MadeGood： Salma and Nima Fotovat Lost Their First Business.They Grew Their Next One Into a Snack Giant. [cf5715bf-e9e0-45e0-a8a9-1256a7a4ed0d].md",
+          "key": "madegood-salma-and-nima-fotovat-lost-their-first-business-they-grew-their-next-one-into-a-snack-giant-cf5715bf-e9e0-45e0-a8a9-1256a7a4ed0d",
+          "show": "How I Built This with Guy Raz",
+          "title": "MadeGood: Salma and Nima Fotovat Lost Their First Business. They Grew Their Next One Into a Snack Giant.",
+          "url": "/wiki/sources/madegood-salma-and-nima-fotovat-lost-their-first-business-they-grew-their-next-one-into-a-snack-giant-cf5715bf-e9e0-45e0-a8a9-1256a7a4ed0d/"
+        },
+        {
+          "episode_file": "EP255 厂二代的“继承之战”：年轻人接班会重塑企业吗？ [likvzmPGwXneTPaeZxCLsX4s_HkW].md",
+          "key": "ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw",
+          "show": "Talk三联",
+          "title": "EP255 厂二代的“继承之战”：年轻人接班会重塑企业吗？",
+          "url": "/wiki/sources/ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw/"
+        },
+        {
+          "episode_file": "不熄灯E02 币圈闪崩、美国政府关门、First Brands破产、娃哈哈风波 [lt-ghzGmIRoo9a-ODaIH4xkhsuLu].md",
+          "key": "bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu",
+          "show": "起朱楼宴宾客",
+          "title": "不熄灯 E02：币圈闪崩、美国政府关门、First Brands 破产与娃哈哈风波",
+          "url": "/wiki/sources/bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu/"
+        },
+        {
+          "episode_file": "Advice Line with Ronnen Harary of Spin Master⧸PAW Patrol [3894a69a-a4de-4bd8-b5f5-d3bc195994d5].md",
+          "key": "advice-line-with-ronnen-harary-of-spin-master-paw-patrol-3894a69a-a4de-4bd8-b5f5-d3bc195994d5",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Ronnen Harary of Spin Master/PAW Patrol",
+          "url": "/wiki/sources/advice-line-with-ronnen-harary-of-spin-master-paw-patrol-3894a69a-a4de-4bd8-b5f5-d3bc195994d5/"
+        }
+      ],
+      "updated": "2026-08-10",
+      "url": "/wiki/concepts/familybusinessscaling/"
+    },
     "FamilyBusinessSuccessionOpacity": {
       "episode_count": 3,
       "show_count": 3,
@@ -49201,6 +50284,87 @@
       "updated": "2026-09-25",
       "url": "/wiki/concepts/familyhealthcarepersuasion/"
     },
+    "FamilyLaborBoundaries": {
+      "episode_count": 5,
+      "show_count": 5,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "Taking the shine off： albedo and global temperatures [6a730fdaca067b295bab9760].md",
+          "key": "taking-the-shine-off-albedo-and-global-temperatures-6a730fdaca067b295bab9760",
+          "show": "Economist Podcasts",
+          "title": "Taking the shine off: albedo and global temperatures",
+          "url": "/wiki/sources/taking-the-shine-off-albedo-and-global-temperatures-6a730fdaca067b295bab9760/"
+        },
+        {
+          "episode_file": "EP247 重启人生：当农村中年女性开始“做主播” [loZ8Q4e-2AZwdzuqZxAj9B4I5dwj].md",
+          "key": "ep247-chongqi-rensheng-dang-nongcun-zhongnian-nvxing-kaishi-zuo-zhubo-loz8q4e-2azwdzuqzxaj9b4i5dwj",
+          "show": "Talk三联",
+          "title": "EP247 重启人生：当农村中年女性开始“做主播”",
+          "url": "/wiki/sources/ep247-chongqi-rensheng-dang-nongcun-zhongnian-nvxing-kaishi-zuo-zhubo-loz8q4e-2azwdzuqzxaj9b4i5dwj/"
+        },
+        {
+          "episode_file": "137.亲历日本生育补贴：国家帮我养娃，归来仍是“吞金兽” [loWze7hAOmxBmQRrajpL51DVvXe7].md",
+          "key": "137-qinli-riben-shengyu-butie-guojia-bang-wo-yangwa-guilai-reng-shi-tunjinshou-lowze7haomxbmqrrajpl51dvvxe7",
+          "show": "起朱楼宴宾客",
+          "title": "137.亲历日本生育补贴：国家帮我养娃，归来仍是“吞金兽”",
+          "url": "/wiki/sources/137-qinli-riben-shengyu-butie-guojia-bang-wo-yangwa-guilai-reng-shi-tunjinshou-lowze7haomxbmqrrajpl51dvvxe7/"
+        },
+        {
+          "episode_file": "《大厂小民》：我们必须克制对系统与上岸的期待 [lps_6oqp9lJyFW6WPfkUTCks6DGF].md",
+          "key": "da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf",
+          "show": "面基",
+          "title": "《大厂小民》：我们必须克制对系统与上岸的期待",
+          "url": "/wiki/sources/da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf/"
+        },
+        {
+          "episode_file": "SocialRadarsSeason1-TracyYoung-Final-1 [SocialRadarsSeason1-TracyYoung-Final-1].md",
+          "key": "socialradarsseason1-tracyyoung-final-1",
+          "show": "The Social Radars",
+          "title": "Tracy Young on PlanGrid, TigerEye, and Building a Company Deliberately",
+          "url": "/wiki/sources/socialradarsseason1-tracyyoung-final-1/"
+        }
+      ],
+      "updated": "2026-08-08",
+      "url": "/wiki/concepts/familylaborboundaries/"
+    },
+    "FamilyReadingEcology": {
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "EP272 谁的青春里，没有一本被传阅到卷边的杂志？ [lmWyJ84WfDGnlgsoVKihULfAIpLU].md",
+          "key": "ep272-shui-de-qingchun-li-meiyou-yi-ben-bei-chuanyue-dao-juanbian-de-zazhi-lmwyj84wfdgnlgsovkihulfailu",
+          "show": "Talk三联",
+          "title": "EP272 谁的青春里，没有一本被传阅到卷边的杂志？",
+          "url": "/wiki/sources/ep272-shui-de-qingchun-li-meiyou-yi-ben-bei-chuanyue-dao-juanbian-de-zazhi-lmwyj84wfdgnlgsovkihulfailu/"
+        },
+        {
+          "episode_file": "144.女侠段四合和她的家乡马坪关：“我们曾以为有电有路只是梦” [liNmjqt_n-Sa5sArpqGdXgtoeEjT].md",
+          "key": "144-nvxia-duan-sihe-he-tade-jiaxiang-mapingguan-women-ceng-yiwei-you-dian-you-lu-zhishi-meng-linmjqt-n-sa5sarpqgdxgtoeejt",
+          "show": "起朱楼宴宾客",
+          "title": "144.女侠段四合和她的家乡马坪关：“我们曾以为有电有路只是梦”",
+          "url": "/wiki/sources/144-nvxia-duan-sihe-he-tade-jiaxiang-mapingguan-women-ceng-yiwei-you-dian-you-lu-zhishi-meng-linmjqt-n-sa5sarpqgdxgtoeejt/"
+        },
+        {
+          "episode_file": "177.小时候的书，怎么就那么好看！ [971996036].md",
+          "key": "177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036",
+          "show": "蜜獾吃书",
+          "title": "177.小时候的书，怎么就那么好看！",
+          "url": "/wiki/sources/177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036/"
+        },
+        {
+          "episode_file": "49.李乌鸦来了！聊聊我们为啥爱阅读 [629280098].md",
+          "key": "49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098",
+          "show": "蜜獾吃书",
+          "title": "49.李乌鸦来了！聊聊我们为啥爱阅读",
+          "url": "/wiki/sources/49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098/"
+        }
+      ],
+      "updated": "2026-08-08",
+      "url": "/wiki/concepts/familyreadingecology/"
+    },
     "FamilyRiskDiversification": {
       "episode_count": 1,
       "show_count": 1,
@@ -49216,6 +50380,57 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/familyriskdiversification/"
+    },
+    "FamineEntitlementFailure": {
+      "episode_count": 6,
+      "show_count": 2,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》969丨袁氏兄弟内斗，谁能捡漏？ [lsgj6sewO35jPSGFm_kOIvIJtr6r].md",
+          "key": "zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》969丨袁氏兄弟内斗，谁能捡漏？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》979丨遭遇同僚背刺，他如何为曹操力挽狂澜？ [luU58a2Ww11g_rADh_5g4l7FCIS_].md",
+          "key": "zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》979丨遭遇同僚背刺，他如何为曹操力挽狂澜？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》984丨凉州系军阀内斗，他为何第一个倒下？ [lurb2qfZSa7E_OwH_dL-M-sCczE5].md",
+          "key": "zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》984丨凉州系军阀内斗，他为何第一个倒下？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》992丨乱世有多可怕？揭秘长安的血色梦魇 [ltuxzRb-1X5y2CTwo4DrGgxn5sTZ].md",
+          "key": "zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》992丨乱世有多可怕？揭秘长安的血色梦魇",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》155-1｜历史记载什么情况会发生“人吃人”惨剧 [lrWz_prnXD8HZchagYRBYwKuX7lH].md",
+          "key": "zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》155-1｜历史记载什么情况会发生“人吃人”惨剧",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh/"
+        },
+        {
+          "episode_file": "65.龙王之怒：1931年的长江洪水 [658100922].md",
+          "key": "65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922",
+          "show": "蜜獾吃书",
+          "title": "65.龙王之怒：1931年的长江洪水",
+          "url": "/wiki/sources/65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922/"
+        }
+      ],
+      "updated": "2026-08-24",
+      "url": "/wiki/concepts/famineentitlementfailure/"
     },
     "FanChongChimei": {
       "episode_count": 3,
@@ -49649,6 +50864,50 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/fangzhilatehan/"
     },
+    "FangshiFraudAndAuthority": {
+      "episode_count": 5,
+      "show_count": 2,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·秦纪》125-2｜历史上秦始皇为何要焚书坑儒 [luLAivzp1xqs71NbAltR-yGpJihw].md",
+          "key": "zizhi-tongjian-qinji-125-2-lishishang-qinshihuang-weihe-yao-fenshu-kengru-lulaivzp1xqs71nbaltr-ygpjihw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》125-2｜历史上秦始皇为何要焚书坑儒",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-125-2-lishishang-qinshihuang-weihe-yao-fenshu-kengru-lulaivzp1xqs71nbaltr-ygpjihw/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》125-1｜秦始皇修建史上最大烂尾楼阿房宫 [lhqc6jw4jZOyrG7JzC2mBXdEbNJ4].md",
+          "key": "zizhi-tongjian-qinji-125-1-qinshihuang-xiujian-shishang-zuida-lanweilou-afanggong-lhqc6jw4jzoyrg7jzc2mbxdebj4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》125-1｜秦始皇修建史上最大烂尾楼阿房宫",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-125-1-qinshihuang-xiujian-shishang-zuida-lanweilou-afanggong-lhqc6jw4jzoyrg7jzc2mbxdebj4/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》123-1｜神之预言：“亡秦者胡”竟是指…？ [lg7M3vFdBCWEb4jOXe4jVhXjX6y8].md",
+          "key": "zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》123-1｜神之预言：“亡秦者胡”竟是指…？",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》122-2｜日本人到底是不是徐福的后代？ [lhgBbhG3ZW8rlX1JJb7LPB5IhiHH].md",
+          "key": "zizhi-tongjian-qinji-122-2-ribenren-daodi-shi-bushi-xufu-de-houdai-lhgbbhg3zw8rlx1jjb7lpb5ihihh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》122-2｜日本人到底是不是徐福的后代？",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-122-2-ribenren-daodi-shi-bushi-xufu-de-houdai-lhgbbhg3zw8rlx1jjb7lpb5ihihh/"
+        },
+        {
+          "episode_file": "87.过年最适合聊玄学！探讨神仙方术发展史（未完待续） [704051997].md",
+          "key": "87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997",
+          "show": "蜜獾吃书",
+          "title": "87.过年最适合聊玄学！探讨神仙方术发展史（未完待续）",
+          "url": "/wiki/sources/87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997/"
+        }
+      ],
+      "updated": "2026-08-22",
+      "url": "/wiki/concepts/fangshifraudandauthority/"
+    },
     "FangshiPowerRedistribution": {
       "episode_count": 1,
       "show_count": 1,
@@ -49805,6 +51064,64 @@
       "updated": "2026-09-24",
       "url": "/wiki/entities/faradayfuture/"
     },
+    "FarmingWarStatecraft": {
+      "episode_count": 7,
+      "show_count": 1,
+      "source_note_count": 7,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·秦纪》123-2｜古代时期的“倒插门”到底有多危险 [lgCkNwuBWM3uZqmzgbgDLXLVcwxy].md",
+          "key": "zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》123-2｜古代时期的“倒插门”到底有多危险",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》115-1｜荆轲刺秦似乎有点儿草率了 [lgz1Adsn1t8jjIaoBMtFeDpr_IxN].md",
+          "key": "zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》115-1｜荆轲刺秦似乎有点儿草率了",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》95丨长平之战后秦国为什么没有灭了赵国（2） [lutSVWVnWzSeZOorhE-vu7yJtHYx].md",
+          "key": "zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-2-lutsvwvnwzsezoorhe-vu7yjthyx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》95丨长平之战后秦国为什么没有灭了赵国（2）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-2-lutsvwvnwzsezoorhe-vu7yjthyx/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》93丨在梦里藏着偷天改命？（2） [lrLulW0B6V0FB2Xpr2i5iFeM1h4n].md",
+          "key": "zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》93丨在梦里藏着偷天改命？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》23丨魏惠王 悔不用公叔之言 [lveaQKLo7OnCMQUdGmDk7l03qhSF].md",
+          "key": "zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》23丨魏惠王 悔不用公叔之言",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》22丨公孙鞅诈魏公子卬 [lss1L7lojfwgwDTCJe7m5ijodPxi].md",
+          "key": "zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》22丨公孙鞅诈魏公子卬",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》13丨 公孙鞅苛刻变法惹杀身（1） [lgmjaPC2eecEfbDsHnPenzFcv6GA].md",
+          "key": "zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》13丨 公孙鞅苛刻变法惹杀身（1）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga/"
+        }
+      ],
+      "updated": "2026-08-22",
+      "url": "/wiki/concepts/farmingwarstatecraft/"
+    },
     "FascistSportPolicy": {
       "episode_count": 1,
       "show_count": 1,
@@ -49836,6 +51153,64 @@
       ],
       "updated": "2026-09-17",
       "url": "/wiki/concepts/fatfreemassindex/"
+    },
+    "FatLeagueEconomics": {
+      "episode_count": 7,
+      "show_count": 5,
+      "source_note_count": 7,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_4456852280993cd70b37db14a4ae0f31_30707952 [default.mp3_ywr3ahjkcgo_4456852280993cd70b37db14a4ae0f31_30707952].md",
+          "key": "diary-of-a-wnba-negotiator",
+          "show": "Planet Money",
+          "title": "Diary of a WNBA negotiator",
+          "url": "/wiki/sources/diary-of-a-wnba-negotiator/"
+        },
+        {
+          "episode_file": "Formula 1 ｜ Acquired (1) [formula-1-1].md",
+          "key": "formula-1-1",
+          "show": "Acquired",
+          "title": "Formula 1",
+          "url": "/wiki/sources/formula-1-1/"
+        },
+        {
+          "episode_file": "商业小样44 ｜ 世界杯扩军与FIFA的权力斗争 [993354969].md",
+          "key": "shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969",
+          "show": "商业就是这样",
+          "title": "商业小样44 | 世界杯扩军与FIFA的权力斗争",
+          "url": "/wiki/sources/shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969/"
+        },
+        {
+          "episode_file": "Vol.262 去西班牙买足球俱乐部，一场荒诞的商业冒险 [992614191].md",
+          "key": "vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191",
+          "show": "商业就是这样",
+          "title": "Vol.262 去西班牙买足球俱乐部，一场荒诞的商业冒险",
+          "url": "/wiki/sources/vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191/"
+        },
+        {
+          "episode_file": "E243｜特朗普“缓刑”红牌之外，美国资本如何硬控全球足坛 [d65f1b49-9e97-4892-bc64-55f5f0b39906].md",
+          "key": "e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan",
+          "show": "硅谷101",
+          "title": "E243｜特朗普“缓刑”红牌之外，美国资本如何硬控全球足坛",
+          "url": "/wiki/sources/e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan/"
+        },
+        {
+          "episode_file": "22.足球经济学：读者不必是球迷 [570874427].md",
+          "key": "22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427",
+          "show": "蜜獾吃书",
+          "title": "22.足球经济学：读者不必是球迷",
+          "url": "/wiki/sources/22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427/"
+        },
+        {
+          "episode_file": "The NFL ｜ Acquired (1) [the-nfl-1].md",
+          "key": "the-nfl-1",
+          "show": "Acquired",
+          "title": "The NFL",
+          "url": "/wiki/sources/the-nfl-1/"
+        }
+      ],
+      "updated": "2026-07-25",
+      "url": "/wiki/concepts/fatleagueeconomics/"
     },
     "FatMobilizationAndOxidation": {
       "episode_count": 1,
@@ -49932,6 +51307,43 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/entities/fauda/"
+    },
+    "FavoriteDrivenHeirDisplacement": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》189｜刘邦死前最后一搏 [llLydJ2XYK4cr7B9d2qx0HvFw_Dz].md",
+          "key": "zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》189｜刘邦死前最后一搏",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》181｜揭秘刘邦废立太子的真实原因 [lgNbVNNfWxe4Weupqgz_Rh9cbp2S].md",
+          "key": "zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》181｜揭秘刘邦废立太子的真实原因",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》114-1｜今天聊聊 嬴政都有哪些残忍手段 [lmQKy6G3qi9NKlPdNYe4lK5rRBZ6].md",
+          "key": "zizhi-tongjian-qinji-114-1-jintian-liaoliao-yingzheng-dou-you-naxie-canren-shouduan-lmqky6g3qi9nklpdnye4lk5rrbz6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》114-1｜今天聊聊 嬴政都有哪些残忍手段",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-114-1-jintian-liaoliao-yingzheng-dou-you-naxie-canren-shouduan-lmqky6g3qi9nklpdnye4lk5rrbz6/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》111-1｜偌大的赵国竟亡于一个妓女之手 [lhRqB8_SwLKUYoyDgJYN8ldnLKzC].md",
+          "key": "zizhi-tongjian-qinji-111-1-ruoda-de-zhaoguo-jing-wang-yu-yige-jinv-zhi-shou-lhrqb8-swlkuyoydgjyn8ldnlkzc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》111-1｜偌大的赵国竟亡于一个妓女之手",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-111-1-ruoda-de-zhaoguo-jing-wang-yu-yige-jinv-zhi-shou-lhrqb8-swlkuyoydgjyn8ldnlkzc/"
+        }
+      ],
+      "updated": "2026-08-23",
+      "url": "/wiki/concepts/favoritedrivenheirdisplacement/"
     },
     "FawltyTowers": {
       "episode_count": 1,
@@ -50043,6 +51455,43 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/federalbureauofinvestigation/"
     },
+    "FederalFundsRateAsPolicySignal": {
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "155.如何理解黄金的史诗级波动 [lp3lcda5ZskIV_dcEZcUGF2q93VI].md",
+          "key": "155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi",
+          "show": "起朱楼宴宾客",
+          "title": "155.如何理解黄金的史诗级波动",
+          "url": "/wiki/sources/155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi/"
+        },
+        {
+          "episode_file": "146.美国经济这么差，美股还能继续涨吗 ｜ 串台《美轮美换》 [lrShkXgoFPrEl_E-7lKIqU_eN8GU].md",
+          "key": "146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu",
+          "show": "起朱楼宴宾客",
+          "title": "146.美国经济这么差，美股还能继续涨吗 | 串台《美轮美换》",
+          "url": "/wiki/sources/146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu/"
+        },
+        {
+          "episode_file": "不熄灯E02 币圈闪崩、美国政府关门、First Brands破产、娃哈哈风波 [lt-ghzGmIRoo9a-ODaIH4xkhsuLu].md",
+          "key": "bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu",
+          "show": "起朱楼宴宾客",
+          "title": "不熄灯 E02：币圈闪崩、美国政府关门、First Brands 破产与娃哈哈风波",
+          "url": "/wiki/sources/bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_f17904cb588113b2be001b690b20690e_20012475 [default.mp3_ywr3ahjkcgo_f17904cb588113b2be001b690b20690e_20012475].md",
+          "key": "indicators-of-2025-and-what-to-watch-in-2026",
+          "show": "Planet Money",
+          "title": "Indicators of 2025 and What to Watch in 2026",
+          "url": "/wiki/sources/indicators-of-2025-and-what-to-watch-in-2026/"
+        }
+      ],
+      "updated": "2026-08-06",
+      "url": "/wiki/concepts/federalfundsrateaspolicysignal/"
+    },
     "FederalResearchFundingPoliticalRisk": {
       "episode_count": 4,
       "show_count": 2,
@@ -50102,6 +51551,50 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/federalistparty/"
+    },
+    "FeedCuration": {
+      "episode_count": 5,
+      "show_count": 2,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "167.柏拉图、卢梭、哈耶克、阿伦特四大哲学家会如何解释算法时代？｜串台独树不成林 [lmBSdBfEqqfZ5Vm3g67b-wjGDfJa].md",
+          "key": "167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja",
+          "show": "起朱楼宴宾客",
+          "title": "167.柏拉图、卢梭、哈耶克、阿伦特四大哲学家会如何解释算法时代？｜串台独树不成林",
+          "url": "/wiki/sources/167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja/"
+        },
+        {
+          "episode_file": "164.算法的“兔子洞”：为什么你总在看完新闻后滑向娱乐？｜对谈黄圣淳教授 [lo6IK8Cj2NjVu-cy2JDJ_Kl1JpUQ].md",
+          "key": "164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq",
+          "show": "起朱楼宴宾客",
+          "title": "164.算法的“兔子洞”：为什么你总在看完新闻后滑向娱乐？｜对谈黄圣淳教授",
+          "url": "/wiki/sources/164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq/"
+        },
+        {
+          "episode_file": "159.算法的六副面孔：它是如何从处理数据，变成定义我们是谁的 [lh5ng5MBvkwOrFXLq9l-cOScePC7].md",
+          "key": "159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7",
+          "show": "起朱楼宴宾客",
+          "title": "159.算法的六副面孔：它是如何从处理数据，变成定义我们是谁的",
+          "url": "/wiki/sources/159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7/"
+        },
+        {
+          "episode_file": "154.四十岁感言：不做那只温水里的青蛙 [lg_QJ3P2lq-8sk_RN2Vk209Tq9X-].md",
+          "key": "154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x",
+          "show": "起朱楼宴宾客",
+          "title": "154.四十岁感言：不做那只温水里的青蛙",
+          "url": "/wiki/sources/154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x/"
+        },
+        {
+          "episode_file": "E45 孟岩对话李继刚：人何以自处 [lvA2mFXeSE7V0sFV3mFpfFHBDAsk].md",
+          "key": "e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask",
+          "show": "无人知晓",
+          "title": "E45 孟岩对话李继刚：人何以自处",
+          "url": "/wiki/sources/e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask/"
+        }
+      ],
+      "updated": "2026-08-06",
+      "url": "/wiki/concepts/feedcuration/"
     },
     "FeiFeiLi": {
       "episode_count": 4,
@@ -50233,6 +51726,57 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/concepts/femaleallegorypoliticalexclusion/"
+    },
+    "FemaleBodyFreedom": {
+      "episode_count": 6,
+      "show_count": 2,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "EP274 如何找到适合自己的“更年期答案”？ [li2BP1rTITdNVc04rMIZyfg1tXfH].md",
+          "key": "ep274-ruhe-zhaodao-shihe-ziji-de-gengnianqi-daan-li2bp1rtitdnvc04rmizyfg1txfh",
+          "show": "Talk三联",
+          "title": "EP274 如何找到适合自己的“更年期答案”？",
+          "url": "/wiki/sources/ep274-ruhe-zhaodao-shihe-ziji-de-gengnianqi-daan-li2bp1rtitdnvc04rmizyfg1txfh/"
+        },
+        {
+          "episode_file": "EP254 游晓颖x文淇x杜素娟：女性这一生，都在反复学习许可自己 [lm-w7rYj4ZAY6VLDsrkADohJ997d].md",
+          "key": "ep254-you-xiaoying-x-wenqi-x-du-sujuan-nvxing-zhe-yisheng-dou-zai-fanfu-xuexi-xuke-ziji-lm-w7ryj4zay6vldsrkadohj997d",
+          "show": "Talk三联",
+          "title": "EP254 游晓颖x文淇x杜素娟：女性这一生，都在反复学习许可自己",
+          "url": "/wiki/sources/ep254-you-xiaoying-x-wenqi-x-du-sujuan-nvxing-zhe-yisheng-dou-zai-fanfu-xuexi-xuke-ziji-lm-w7ryj4zay6vldsrkadohj997d/"
+        },
+        {
+          "episode_file": "88.别认输，惠子：在听不到喝彩的世界里，挥拳！ [708510803].md",
+          "key": "88-bie-renshu-huizi-zai-ting-budao-hecai-de-shijie-li-huiquan-708510803",
+          "show": "蜜獾吃书",
+          "title": "88.别认输，惠子：在听不到喝彩的世界里，挥拳！",
+          "url": "/wiki/sources/88-bie-renshu-huizi-zai-ting-budao-hecai-de-shijie-li-huiquan-708510803/"
+        },
+        {
+          "episode_file": "110.初老的女人：疲惫，温柔，辽阔 [749182278].md",
+          "key": "110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278",
+          "show": "蜜獾吃书",
+          "title": "110.初老的女人：疲惫，温柔，辽阔",
+          "url": "/wiki/sources/110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278/"
+        },
+        {
+          "episode_file": "15.闭经记：更年期给我自由！ [557912552].md",
+          "key": "15-bijingji-gengnianqi-gei-wo-ziyou-557912552",
+          "show": "蜜獾吃书",
+          "title": "15.闭经记：更年期给我自由！",
+          "url": "/wiki/sources/15-bijingji-gengnianqi-gei-wo-ziyou-557912552/"
+        },
+        {
+          "episode_file": "16.时尚受害者：惊！绿色或为最毒颜色 [559889282].md",
+          "key": "16-shishang-shouhaizhe-jing-luse-huo-wei-zui-du-yanse-559889282",
+          "show": "蜜獾吃书",
+          "title": "16.时尚受害者：惊！绿色或为最毒颜色",
+          "url": "/wiki/sources/16-shishang-shouhaizhe-jing-luse-huo-wei-zui-du-yanse-559889282/"
+        }
+      ],
+      "updated": "2026-08-15",
+      "url": "/wiki/concepts/femalebodyfreedom/"
     },
     "FemaleCourtEducationEasternHan": {
       "episode_count": 3,
@@ -66809,9 +68353,9 @@
       "url": "/wiki/entities/hermanngoring/"
     },
     "HernanCortes": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT2984940365 [GLT2984940365].md",
@@ -66833,6 +68377,13 @@
           "show": "The Rest Is History",
           "title": "389. The Fall of the Aztecs: The Night of Tears (Part 6)",
           "url": "/wiki/sources/389-the-fall-of-the-aztecs-the-night-of-tears-part-6-glt2744313815/"
+        },
+        {
+          "episode_file": "GLT8784071073 [GLT8784071073].md",
+          "key": "388-the-fall-of-the-aztecs-the-festival-of-blood-part-5-glt8784071073",
+          "show": "The Rest Is History",
+          "title": "388. The Fall of the Aztecs: The Festival of Blood (Part 5)",
+          "url": "/wiki/sources/388-the-fall-of-the-aztecs-the-festival-of-blood-part-5-glt8784071073/"
         }
       ],
       "updated": "2026-09-27",
@@ -67563,9 +69114,9 @@
       "url": "/wiki/concepts/historicalambiguityinmainstreamcinema/"
     },
     "HistoricalCatastropheNarrativeEthics": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2984940365 [GLT2984940365].md",
@@ -67580,6 +69131,13 @@
           "show": "The Rest Is History",
           "title": "390. The Fall of the Aztecs: War to the Death (Part 7)",
           "url": "/wiki/sources/390-the-fall-of-the-aztecs-war-to-the-death-part-7-glt1796642529/"
+        },
+        {
+          "episode_file": "GLT8784071073 [GLT8784071073].md",
+          "key": "388-the-fall-of-the-aztecs-the-festival-of-blood-part-5-glt8784071073",
+          "show": "The Rest Is History",
+          "title": "388. The Fall of the Aztecs: The Festival of Blood (Part 5)",
+          "url": "/wiki/sources/388-the-fall-of-the-aztecs-the-festival-of-blood-part-5-glt8784071073/"
         }
       ],
       "updated": "2026-09-27",
@@ -96027,9 +97585,9 @@
       "url": "/wiki/concepts/maleurologicalhealthmisconceptions/"
     },
     "Malinche": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT2984940365 [GLT2984940365].md",
@@ -96051,6 +97609,13 @@
           "show": "The Rest Is History",
           "title": "389. The Fall of the Aztecs: The Night of Tears (Part 6)",
           "url": "/wiki/sources/389-the-fall-of-the-aztecs-the-night-of-tears-part-6-glt2744313815/"
+        },
+        {
+          "episode_file": "GLT8784071073 [GLT8784071073].md",
+          "key": "388-the-fall-of-the-aztecs-the-festival-of-blood-part-5-glt8784071073",
+          "show": "The Rest Is History",
+          "title": "388. The Fall of the Aztecs: The Festival of Blood (Part 5)",
+          "url": "/wiki/sources/388-the-fall-of-the-aztecs-the-festival-of-blood-part-5-glt8784071073/"
         }
       ],
       "updated": "2026-09-27",
@@ -99619,9 +101184,9 @@
       "url": "/wiki/entities/metropolitanpolice/"
     },
     "MexicaEmpire": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT2984940365 [GLT2984940365].md",
@@ -99643,6 +101208,13 @@
           "show": "The Rest Is History",
           "title": "389. The Fall of the Aztecs: The Night of Tears (Part 6)",
           "url": "/wiki/sources/389-the-fall-of-the-aztecs-the-night-of-tears-part-6-glt2744313815/"
+        },
+        {
+          "episode_file": "GLT8784071073 [GLT8784071073].md",
+          "key": "388-the-fall-of-the-aztecs-the-festival-of-blood-part-5-glt8784071073",
+          "show": "The Rest Is History",
+          "title": "388. The Fall of the Aztecs: The Festival of Blood (Part 5)",
+          "url": "/wiki/sources/388-the-fall-of-the-aztecs-the-festival-of-blood-part-5-glt8784071073/"
         }
       ],
       "updated": "2026-09-27",
@@ -101601,6 +103173,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/mobilityfirstembodiedai/"
+    },
+    "Moctezuma": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8784071073 [GLT8784071073].md",
+          "key": "388-the-fall-of-the-aztecs-the-festival-of-blood-part-5-glt8784071073",
+          "show": "The Rest Is History",
+          "title": "388. The Fall of the Aztecs: The Festival of Blood (Part 5)",
+          "url": "/wiki/sources/388-the-fall-of-the-aztecs-the-festival-of-blood-part-5-glt8784071073/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/moctezuma/"
     },
     "ModelCompaniesAsAIInfrastructure": {
       "episode_count": 1,
@@ -106113,9 +107701,9 @@
       "url": "/wiki/concepts/nopositionencoding/"
     },
     "NocheTriste": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2744313815 [GLT2744313815].md",
@@ -106123,6 +107711,13 @@
           "show": "The Rest Is History",
           "title": "389. The Fall of the Aztecs: The Night of Tears (Part 6)",
           "url": "/wiki/sources/389-the-fall-of-the-aztecs-the-night-of-tears-part-6-glt2744313815/"
+        },
+        {
+          "episode_file": "GLT8784071073 [GLT8784071073].md",
+          "key": "388-the-fall-of-the-aztecs-the-festival-of-blood-part-5-glt8784071073",
+          "show": "The Rest Is History",
+          "title": "388. The Fall of the Aztecs: The Festival of Blood (Part 5)",
+          "url": "/wiki/sources/388-the-fall-of-the-aztecs-the-festival-of-blood-part-5-glt8784071073/"
         }
       ],
       "updated": "2026-09-27",
@@ -110872,6 +112467,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/pancreaticimagingfindingtriage/"
     },
+    "PanfiloDeNarvaez": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8784071073 [GLT8784071073].md",
+          "key": "388-the-fall-of-the-aztecs-the-festival-of-blood-part-5-glt8784071073",
+          "show": "The Rest Is History",
+          "title": "388. The Fall of the Aztecs: The Festival of Blood (Part 5)",
+          "url": "/wiki/sources/388-the-fall-of-the-aztecs-the-festival-of-blood-part-5-glt8784071073/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/panfilodenarvaez/"
+    },
     "PangCanLateHan": {
       "episode_count": 5,
       "show_count": 1,
@@ -112105,6 +113716,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/pedroara/"
+    },
+    "PedroDeAlvarado": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8784071073 [GLT8784071073].md",
+          "key": "388-the-fall-of-the-aztecs-the-festival-of-blood-part-5-glt8784071073",
+          "show": "The Rest Is History",
+          "title": "388. The Fall of the Aztecs: The Festival of Blood (Part 5)",
+          "url": "/wiki/sources/388-the-fall-of-the-aztecs-the-festival-of-blood-part-5-glt8784071073/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/pedrodealvarado/"
     },
     "PedroDeUrsua": {
       "episode_count": 1,
@@ -136733,9 +138360,9 @@
       "url": "/wiki/concepts/spacebasedaiinfrastructure/"
     },
     "SpanishConquestOfMexico": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT2984940365 [GLT2984940365].md",
@@ -136757,6 +138384,13 @@
           "show": "The Rest Is History",
           "title": "389. The Fall of the Aztecs: The Night of Tears (Part 6)",
           "url": "/wiki/sources/389-the-fall-of-the-aztecs-the-night-of-tears-part-6-glt2744313815/"
+        },
+        {
+          "episode_file": "GLT8784071073 [GLT8784071073].md",
+          "key": "388-the-fall-of-the-aztecs-the-festival-of-blood-part-5-glt8784071073",
+          "show": "The Rest Is History",
+          "title": "388. The Fall of the Aztecs: The Festival of Blood (Part 5)",
+          "url": "/wiki/sources/388-the-fall-of-the-aztecs-the-festival-of-blood-part-5-glt8784071073/"
         }
       ],
       "updated": "2026-09-27",
@@ -147382,6 +149016,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/townpersonalai/"
+    },
+    "ToxcatlMassacre": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8784071073 [GLT8784071073].md",
+          "key": "388-the-fall-of-the-aztecs-the-festival-of-blood-part-5-glt8784071073",
+          "show": "The Rest Is History",
+          "title": "388. The Fall of the Aztecs: The Festival of Blood (Part 5)",
+          "url": "/wiki/sources/388-the-fall-of-the-aztecs-the-festival-of-blood-part-5-glt8784071073/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/toxcatlmassacre/"
     },
     "ToyDesignHumanCreativityBoundary": {
       "episode_count": 1,

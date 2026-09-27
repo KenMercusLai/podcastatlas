@@ -2,38 +2,48 @@
 title: "Everyday Food Culture History"
 type: concept
 tags: [food, history, japan, material-culture, sociology]
-sources: [kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054, ep245-yinian-yidu-xunwei-zhilv-jinnian-qu-chi-chuangyi-cai-li9wtavemokcckialbbj7unpmqsz, fanwai-15-banlatte-jiang-jinpingmei-la-erqie-haishi-luse-de-991508433, kaitianchuang-zhi-lu-jian-tuijian-ji-ben-shu-726703080, sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156]
+sources:
+  - kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054
+  - ep245-yinian-yidu-xunwei-zhilv-jinnian-qu-chi-chuangyi-cai-li9wtavemokcckialbbj7unpmqsz
+  - fanwai-15-banlatte-jiang-jinpingmei-la-erqie-haishi-luse-de-991508433
+  - kaitianchuang-zhi-lu-jian-tuijian-ji-ben-shu-726703080
+  - sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156
 last_updated: 2026-08-16
+knowledge_schema: synthesis-v1
 ---
 
-# Everyday Food Culture History
+## Definition
+Everyday food culture history reads ordinary meals, drinks, utensils, spaces, stories, and commercial formats as evidence of how people live and assign meaning to food across time.
 
-Everyday food culture history is the source's frame for books that make ordinary eating and drinking historically legible. In [[kaitianchuang-zhi-lu-jian-tuijian-ji-ben-shu-726703080]], [[JiujiuwuDeDansheng|《居酒屋的诞生》]] is praised for turning Japanese izakaya fixtures, dishes, drinks, and service forms into a small social history.
-
-[[fanwai-15-banlatte-jiang-jinpingmei-la-erqie-haishi-luse-de-991508433]] adds a literary case through [[JinPingMei|《金瓶梅》]]. The episode lists cooking methods, staple foods, meats, aquatic products, and banquet sequence to show why a novel can preserve everyday food culture inside [[UrbanEverydayFiction]] and [[FictionAsHistoricalEvidence]], not only in specialized food writing.
-
-[[sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156]] adds a beverage-history and sensory-writing case through [[Wine|wine / 葡萄酒]]. [[Heimai|黑麦]] treats wine as part of ordinary and aspirational food culture at once: gift markets, restaurant pairing, family liquor-factory memory, natural-wine bars, tea and coffee comparisons, and the desire for familiar staple foods after a high-end meal all become evidence for [[FlavorAsSelfKnowledge]] and [[FoodWritingAsLifeExperience]].
-
-[[ep245-yinian-yidu-xunwei-zhilv-jinnian-qu-chi-chuangyi-cai-li9wtavemokcckialbbj7unpmqsz]] adds contemporary restaurant formats as everyday food-culture evidence. Bistro menus, local rice-wine bars, tea-based drinks, rough stir-fry shops, and the shift from annual "deliciousness" to "new flavor" all reveal how dining scenes change around convenience, drinking occasions, regional recognition, and fatigue with polish.
-
-[[kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054]] adds [[Wagyu|和牛]] as a case where ordinary eating, state policy, and premium branding intersect. The source moves from Meiji-era beef as "civilization" to sukiyaki as a familiar cooking form, then to breed recognition, grading, import competition, and modern restaurant formats such as [[NiuniuSukiyaki]].
+## Current Synthesis
+The bounded sources provide different windows rather than a single continuous history: a brief Japanese izakaya book recommendation, fictional depictions of Chinese household meals, a wine writer's sensory and market memories, contemporary Chinese restaurant change, and a business explainer on wagyu's premium status. Together they justify treating routine eating and drinking as historically situated, provided that literature, remembered experience, commercial explanation, and current observation are not mistaken for equivalent records.
 
 ## Key Claims
-- Everyday food spaces can reveal social change through vessels, seating, layouts, serving sizes, temperature preferences, and standard dishes.
-- The source values scholarship that looks minor from the outside but becomes rich when it connects daily practice to social structure.
-- This concept sits between [[MaterialHistoryNarrative]] and food-specific concepts such as [[FoodTextureAesthetics]] and [[FoodCulturalBias]].
-- The source only names izakaya and ramen history as examples; broader claims should wait for fuller food-history sources.
-- Literary food scenes can still be food-culture history when they are dense, repeated, and tied to household hierarchy, season, commerce, and social judgment.
-- Drinks can also carry everyday food culture when taste vocabulary, markets, ritual, memory, and meal context shape how people learn them.
-- Restaurant formats are historical evidence too: what diners want from bistros, stir-fry counters, and drink pairings shows changing social use of food.
-- A premium ingredient can still be everyday food-culture history when its meaning changes through policy, cooking form, grading standards, import pressure, and chain-restaurant formats.
+- Fixtures, serving practices, and familiar dishes can open questions about social organization, but a short recommendation alone cannot establish a detailed historical account.
+- Repeated food descriptions in fiction can illuminate the social world depicted by a work without directly documenting what all historical households ate.
+- Drink culture joins cultivation, selling, ritual, memory, and learned sensory vocabulary rather than consisting only of status or tasting scores.
+- Contemporary restaurant formats reveal changing occasions and regional legibility, though a snapshot is not proof of a long-run trend.
+- Premium-food meanings can be built through policy, breed recognition, grading, origin branding, and new dining formats rather than intrinsic taste alone.
 
-## Connections
-- [[JiujiuwuDeDansheng|《居酒屋的诞生》]] - source book.
-- [[MaterialHistoryNarrative]] - broader object- and material-centered history frame.
-- [[FoodTextureAesthetics]], [[CulinaryGrammar]], and [[FoodCulturalBias]] - adjacent food-reading concepts.
-- [[Japan]] - cultural setting emphasized by the source.
-- [[JinPingMei|《金瓶梅》]], [[UrbanEverydayFiction]], and [[FictionAsHistoricalEvidence]] - literary food-detail branch added by the Banlatte special.
-- [[Wine|Wine / 葡萄酒]], [[FoodWritingAsLifeExperience]], [[TasteTraining]], and [[FlavorAsSelfKnowledge]] - beverage and sensory-writing branch added by the wine episode.
-- [[CreativeChineseCuisine]], [[ChineseBistroLocalization]], [[LocalAlcoholPairing]], and [[StirFryRevival]] - contemporary restaurant-format branch added by EP245.
-- [[Wagyu]], [[KobeBeef]], [[BeefGradingAsMarketInfrastructure]], [[WagyuPremiumBranding]], and [[NiuniuSukiyaki]] - beef-culture branch added by 声动早咖啡.
+## Evidence
+- Everyday spaces: [[kaitianchuang-zhi-lu-jian-tuijian-ji-ben-shu-726703080]] briefly recommends [[JiujiuwuDeDansheng]] as a history of izakaya fixtures, warmed sake, tofu, soup, and portions in [[Japan]]; the recommendation is a prompt to investigate everyday life, not a substitute for the book.
+- Literary meals: [[fanwai-15-banlatte-jiang-jinpingmei-la-erqie-haishi-luse-de-991508433]] reads [[JinPingMei]]'s dense descriptions of food, table culture, and household relations as [[UrbanEverydayFiction]], not a census of historical dining.
+- Beverage experience: [[sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156]] links [[Wine]] to agriculture, gifting, family liquor-factory memory, [[LocalAlcoholPairing|local pairing]], and learned [[TasteTraining|sensory vocabulary]]; [[FlavorAsSelfKnowledge]] describes the interviewee's personal interpretation rather than a universal tasting rule.
+- Restaurant and ingredient change: [[ep245-yinian-yidu-xunwei-zhilv-jinnian-qu-chi-chuangyi-cai-li9wtavemokcckialbbj7unpmqsz]] discusses [[ChineseBistroLocalization]], [[CreativeChineseCuisine]], [[Heimai]], [[LocalAlcoholPairing]], and [[StirFryRevival]] as contemporary formats rather than one historical trend. [[kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054]] traces the episode's account of [[Wagyu]], [[KobeBeef]], and [[BeefGradingAsMarketInfrastructure]] from beef adoption through [[NiuniuSukiyaki]] to modern premium buffet positioning.
+
+## Counterevidence & Qualifications
+The izakaya item comes from a short reading-list episode, not a full book analysis. 《金瓶梅》 is a literary representation, not a verified census of Ming food habits. The wine interview is partly personal memory; EP245 and the wagyu segment are contemporary editorial or business interpretations. Japan, historical Chinese fiction, and present-day Chinese dining should not be collapsed into one geographic or chronological trajectory. A5 grading is a commercial category, not a guarantee of an individual's favorite flavor.
+
+## What Changed
+- Reframed five heterogeneous examples as evidence types rather than sequential source additions.
+- Removed the obsolete claim that coverage extends only to izakaya and ramen.
+- Explicitly separated literary, autobiographical, commercial, and contemporary observational limits.
+
+## Related Concepts
+- [[MaterialHistoryNarrative]] - uses objects and practices to reconstruct social settings.
+- [[FictionAsHistoricalEvidence]] - sets the limits of reading a novel for past daily life.
+- [[FoodWritingAsLifeExperience]] - connects culinary observation to memory and biography.
+- [[CulinaryGrammar]] - names the learned conventions through which a cuisine stays recognizable.
+- [[WagyuPremiumBranding]] - illustrates the commercial construction of a food's status.
+- [[FoodCulturalBias]] - cautions against projecting one cuisine's prestige or familiarity onto another.
+- [[FoodTextureAesthetics]] - treats texture as part of learned culinary preference, not a universal ranking.

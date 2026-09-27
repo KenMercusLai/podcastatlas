@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 10990
+wiki_total_pages: 10993
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -62,6 +62,9 @@ wiki_pages:
   - key: "Panerai"
     title: "Panerai"
     url: "/wiki/entities/panerai/"
+  - key: "PanfiloDeNarvaez"
+    title: "Panfilo de Narvaez"
+    url: "/wiki/entities/panfilodenarvaez/"
   - key: "Pangram"
     title: "Pangram"
     url: "/wiki/entities/pangram/"
@@ -266,6 +269,9 @@ wiki_pages:
   - key: "PedroAra"
     title: "Pedro Ara"
     url: "/wiki/entities/pedroara/"
+  - key: "PedroDeAlvarado"
+    title: "Pedro de Alvarado"
+    url: "/wiki/entities/pedrodealvarado/"
   - key: "PedroDeUrsua"
     title: "Pedro de Ursúa"
     url: "/wiki/entities/pedrodeursua/"

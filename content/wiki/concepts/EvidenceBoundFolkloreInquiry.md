@@ -2,38 +2,48 @@
 title: "Evidence-Bound Folklore Inquiry"
 type: concept
 tags: [folklore, evidence, method, history]
-sources: [zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff, 111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, 95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611, 115-jingji-xiayan-jinxi-xu-baigui-bu-yanjiu-yaoguai-zenme-haohao-zuoren-760601309]
+sources:
+  - zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff
+  - 111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766
+  - 95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611
+  - 115-jingji-xiayan-jinxi-xu-baigui-bu-yanjiu-yaoguai-zenme-haohao-zuoren-760601309
 last_updated: 2026-08-19
+knowledge_schema: synthesis-v1
 ---
 
-# Evidence-Bound Folklore Inquiry
+## Definition
+Evidence-bound folklore inquiry studies a transmitted story's variants, material traces, and social uses without treating every vivid retelling as a record of the original event.
 
-Evidence-bound folklore inquiry is the method [[111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766]] models through [[AbeKinya|阿布谨也]]'s reading of [[PiedPiperOfHamelin|花衣魔笛手]]. It treats stories, variants, places, manuscripts, visual evidence, city records, and later adaptations as different kinds of evidence with different strength.
-
-The episode's detective feel comes from comparing clues without pretending that every clue has the same weight. Stained glass, a missal note, the Lueneburg manuscript, [[BrothersGrimm|格林兄弟]]'s version, rat-catching tales, migration records, battle hypotheses, festival accident theories, and famine/plague context all matter, but they do not collapse into one equally proven chain. This keeps the inquiry close to [[ObservationBeforeInference]] and away from [[InterpretationAndOverinterpretation]].
-
-[[95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611]] adds a modern-media version of the same discipline. The episode can read [[UrbanLegend|urban legends]] for social meaning while still separating source-scoped claims, personal guesses, debunked experiments, official corrections, and internet fact-checking from proof that the anecdote actually happened.
-
-[[115-jingji-xiayan-jinxi-xu-baigui-bu-yanjiu-yaoguai-zenme-haohao-zuoren-760601309]] adds a Japanese-yokai fieldwork version through [[TataraKatsugoro|多多良胜五郎]] and [[KyogokuNatsuhiko|京极夏彦]]. Here the evidence set includes local place names, oral reports, dog names, river sounds, [[ToriyamaSekien|鸟山石燕]] images, homophones, and postwar loss. The source values collection and comparison while also showing how an eager researcher can overrun the evidence with a too-dramatic yokai explanation.
-
-[[zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff]] adds an idiom-origin version. The "二百五" explanation tied to [[SuQin|苏秦]] has a memorable reward-splitting structure, but the episode rejects it because the implied pre-Qin money economy, aristocratic status incentives, and confession logic are weak. That turns a familiar saying into [[IdiomOriginSkepticism|典故来源辨伪]] rather than accepting it as literal event memory.
+## Current Synthesis
+Different evidence types answer different questions. Early local records may support a remembered loss without confirming the later supernatural plot; recurring motifs and friend-of-a-friend attribution explain circulation without proving occurrence. Rival explanations should be compared against dates, places, and context rather than forced into one clever solution. Literary yokai investigation can illustrate both the urgency of preserving local material and the temptation to overinterpret it, but it is not itself fieldwork evidence.
 
 ## Key Claims
-- Folklore evidence should be sorted by date, genre, proximity to the place, and relation to later retelling.
-- A later vivid detail can be culturally meaningful even if it is historically weaker.
-- Multiple hypotheses can each explain part of a legend without any one of them becoming the answer.
-- Strong inquiry asks why a community remembered the story, not only what single event started it.
-- Comparative motifs and local documents should check each other rather than substitute for each other.
-- FOAF attribution is evidence of transmission style, not proof of the event.
-- Fieldwork urgency can be real even when the researcher's first theory is wrong; disappearing local context is itself evidence that must be preserved.
-- A compact idiom-origin story can be evidence of later reception without being good evidence for the historical event it claims to explain.
+- Date and genre separate early local traces from later narrative additions; memorable details may be culturally important without being historically early.
+- Several hypotheses can explain parts of a legend while leaving its original event unresolved.
+- Transmission patterns and communal anxieties are researchable even when the narrated incident lacks corroboration.
+- Origin stories for idioms and other compact motifs require economic, social, and chronological plausibility checks before being accepted as literal history.
+- Collecting endangered local testimony has value, but images, puns, and a researcher's first elegant theory do not count as direct proof.
 
-## Connections
-- [[AbeKinya|阿布谨也]], [[PiedPiperMedievalEurope|《花衣魔笛手：传说背后的欧洲中世纪》]], and [[PiedPiperOfHamelin|花衣魔笛手]] - source case.
-- [[LegendAsSocialHistory]] - broader social-history frame.
-- [[MythAsHistoricalEvidence]] and [[StoryMotifTransmission]] - neighboring methods for old stories.
-- [[ObservationBeforeInference]] and [[InterpretationAndOverinterpretation]] - reasoning guardrails.
-- [[AdultFairyTaleReading]] - adjacent rereading practice when folklore has been remembered as children's literature.
-- [[UrbanLegend|都市传说]], [[ScientificSkepticism]], and [[ObservationBeforeInference]] - modern rumor and evidence extensions added by episode 95.
-- [[YokaiMystery|妖怪推理]], [[FolkloreAsSocialMemory|民俗作为社会记忆]], and [[YokaiImageExegesis|妖怪图像阐释]] - episode 115's Japanese-yokai fieldwork extension.
-- [[IdiomOriginSkepticism|典故来源辨伪]], [[HistoricalDetectiveReasoning]], [[SuQin|苏秦]], and [[FolkCharacterEtymologyRisk]] - Zhouji 46 idiom-origin skepticism extension.
+## Evidence
+- Early record versus later motif: [[111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766]] distinguishes [[PiedPiperOfHamelin]]'s early child-loss evidence from later [[BrothersGrimm|Grimm-era]] rat-catching and broken-contract versions; [[PiedPiperMedievalEurope]] offers migration, battle, famine, and other partial historical explanations, none decisive. This is [[HistoricalDetectiveReasoning]] applied with chronological restraint.
+- Transmission versus event: [[95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611]] examines FOAF attribution and changing motifs as [[FolkloreAsSocialMemory]], without treating recurring reports as proof; its Hamelin passage reuses the earlier account rather than independently corroborating it. This distinction also matters when evaluating [[MythAsHistoricalEvidence]].
+- Origin-story test: [[zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff]] rejects the popular [[SuQin]] reward-splitting derivation of “二百五” on pre-Qin money and aristocratic-incentive grounds without establishing a replacement origin; [[FolkCharacterEtymologyRisk]] names the same inference hazard in other motifs.
+- Interpretive restraint: [[115-jingji-xiayan-jinxi-xu-baigui-bu-yanjiu-yaoguai-zenme-haohao-zuoren-760601309]] discusses [[KyogokuNatsuhiko]]'s fictional [[YokaiMystery]]: [[TataraKatsugoro]] collects local traditions and reads [[ToriyamaSekien]]'s images, but [[YokaiImageExegesis]] cannot turn a clever visual pun into fieldwork evidence. This fictional research is an analogy to the source criticism used in [[AbeKinya]]'s Hamelin study, not an independent historical witness.
+
+## Counterevidence & Qualifications
+Hamelin's disputed loss is not resolved by any one migration, epidemic, or accident theory. The modern-legend episode's repetition of Hamelin belongs to the same story chain as the earlier episode, not a second historical attestation. The yokai example is a novel discussed on a podcast; its invented researcher and signs cannot verify a historical creature or field observation. Refuting a popular idiom etymology also does not prove a different one.
+
+## What Changed
+- Grouped historical, contemporary, linguistic, and fictional examples by evidentiary task.
+- Marked the yokai novel as an analogy and the repeated Hamelin account as non-independent.
+- Kept the rejected “二百五” derivation separate from any positive origin claim.
+
+## Related Concepts
+- [[LegendAsSocialHistory]] - reads a story's persistence against social conditions.
+- [[StoryMotifTransmission]] - tracks variation independently of event verification.
+- [[UrbanLegend]] - applies the method to contemporary rumor.
+- [[IdiomOriginSkepticism]] - tests attractive etymological narratives.
+- [[ObservationBeforeInference]] - requires source sorting before explanation.
+- [[InterpretationAndOverinterpretation]] - marks the danger of decoding every detail into proof.
+- [[AdultFairyTaleReading]] - revisits familiar stories with attention to version and audience.
+- [[ScientificSkepticism]] - requires testable support before affirming an extraordinary event.

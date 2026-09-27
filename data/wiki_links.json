@@ -1023,6 +1023,10 @@
     "title": "38.安吉拉卡特精怪故事集：哦！迷人的悍妇！",
     "url": "/wiki/sources/38-anjila-kate-jingguai-gushiji-o-mirende-hanfu-609607139/"
   },
+  "388-the-fall-of-the-aztecs-the-festival-of-blood-part-5-glt8784071073": {
+    "title": "388. The Fall of the Aztecs: The Festival of Blood (Part 5)",
+    "url": "/wiki/sources/388-the-fall-of-the-aztecs-the-festival-of-blood-part-5-glt8784071073/"
+  },
   "389-the-fall-of-the-aztecs-the-night-of-tears-part-6-glt2744313815": {
     "title": "389. The Fall of the Aztecs: The Night of Tears (Part 6)",
     "url": "/wiki/sources/389-the-fall-of-the-aztecs-the-night-of-tears-part-6-glt2744313815/"
@@ -46939,6 +46943,10 @@
     "title": "Mock Turtle / 假海龟",
     "url": "/wiki/entities/mockturtle/"
   },
+  "Moctezuma": {
+    "title": "Moctezuma II",
+    "url": "/wiki/entities/moctezuma/"
+  },
   "ModelAsOperatingSystem": {
     "title": "Model As Operating System",
     "url": "/wiki/concepts/modelasoperatingsystem/"
@@ -51511,6 +51519,10 @@
     "title": "Panerai",
     "url": "/wiki/entities/panerai/"
   },
+  "PanfiloDeNarvaez": {
+    "title": "Panfilo de Narvaez",
+    "url": "/wiki/entities/panfilodenarvaez/"
+  },
   "PangCanLateHan": {
     "title": "庞参 / Pang Can (late Han)",
     "url": "/wiki/entities/pangcanlatehan/"
@@ -52174,6 +52186,10 @@
   "PedroAra": {
     "title": "Pedro Ara",
     "url": "/wiki/entities/pedroara/"
+  },
+  "PedroDeAlvarado": {
+    "title": "Pedro de Alvarado",
+    "url": "/wiki/entities/pedrodealvarado/"
   },
   "PedroDeUrsua": {
     "title": "Pedro de Ursúa",
@@ -69102,6 +69118,10 @@
   "TownPersonalAI": {
     "title": "Town Personal AI",
     "url": "/wiki/entities/townpersonalai/"
+  },
+  "ToxcatlMassacre": {
+    "title": "Toxcatl Massacre",
+    "url": "/wiki/concepts/toxcatlmassacre/"
   },
   "ToxicFashionMaterialRisk": {
     "title": "Toxic Fashion Material Risk",
