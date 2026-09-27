@@ -102230,9 +102230,9 @@
       "url": "/wiki/entities/maozedong/"
     },
     "MaoZheTCMDoctor": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "lnXaXyS733qZi9RkCwVGQT6uzfuR [lnXaXyS733qZi9RkCwVGQT6uzfuR].md",
@@ -102289,9 +102289,16 @@
           "show": "这病说来话长",
           "title": "VOL.76中医科｜过敏性鼻炎、春捂秋冻、贴秋膘 你应该知道的秋季养生禁忌和参考",
           "url": "/wiki/sources/vol-76-zhongyike-guominxing-biyan-chunwu-qiudong-tieqiubiao-ni-yinggai-zhidao-de-qiuji-yangsheng-jinji-he-cankao-llayq2sgeabfjsosctpqfbtgff6e/"
+        },
+        {
+          "episode_file": "lmefsXRzDKopwgT_BSXFDrY539RK [lmefsXRzDKopwgT_BSXFDrY539RK].md",
+          "key": "vol-64-zhongyike-tongqin-lushang-linyu-tangshui-hou-jishi-zuo-zhe-liang-jian-shi-xiaji-futian-yangsheng-chi-zhexie-ba-lmefsxrzdkopwgt_bsxfdry539rk",
+          "show": "这病说来话长",
+          "title": "VOL.64中医科｜通勤路上淋雨、蹚水后及时做这两件事｜夏季伏天养生吃这些吧",
+          "url": "/wiki/sources/vol-64-zhongyike-tongqin-lushang-linyu-tangshui-hou-jishi-zuo-zhe-liang-jian-shi-xiaji-futian-yangsheng-chi-zhexie-ba-lmefsxrzdkopwgt_bsxfdry539rk/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/maozhetcmdoctor/"
     },
     "MaoZhongqun": {
@@ -128706,6 +128713,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/radiopharmaceuticaldrugconjugates/"
     },
+    "RainExposureFootCareBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmefsXRzDKopwgT_BSXFDrY539RK [lmefsXRzDKopwgT_BSXFDrY539RK].md",
+          "key": "vol-64-zhongyike-tongqin-lushang-linyu-tangshui-hou-jishi-zuo-zhe-liang-jian-shi-xiaji-futian-yangsheng-chi-zhexie-ba-lmefsxrzdkopwgt_bsxfdry539rk",
+          "show": "这病说来话长",
+          "title": "VOL.64中医科｜通勤路上淋雨、蹚水后及时做这两件事｜夏季伏天养生吃这些吧",
+          "url": "/wiki/sources/vol-64-zhongyike-tongqin-lushang-linyu-tangshui-hou-jishi-zuo-zhe-liang-jian-shi-xiaji-futian-yangsheng-chi-zhexie-ba-lmefsxrzdkopwgt_bsxfdry539rk/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/rainexposurefootcareboundary/"
+    },
     "RainerMariaRilke": {
       "episode_count": 1,
       "show_count": 1,
@@ -150264,9 +150287,9 @@
       "url": "/wiki/concepts/tcmspringselfcareboundary/"
     },
     "TCMSummerPatternDifferentiation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ltokazMBcf7gttVl9s-XsYPC6TzT [ltokazMBcf7gttVl9s-XsYPC6TzT].md",
@@ -150274,9 +150297,16 @@
           "show": "这病说来话长",
           "title": "VOL.126天热没胃口、睡不醒、乏力气短 中医教你除湿方法｜中暑竟是有寒在先",
           "url": "/wiki/sources/vol-126-tianre-mei-weikou-shuibuxing-fali-qiduan-zhongyi-jiao-ni-chushi-fangfa-zhongshu-jingshi-you-han-zaixian-ltokazmbcf7gttvl9s-xsypc6tzt/"
+        },
+        {
+          "episode_file": "lmefsXRzDKopwgT_BSXFDrY539RK [lmefsXRzDKopwgT_BSXFDrY539RK].md",
+          "key": "vol-64-zhongyike-tongqin-lushang-linyu-tangshui-hou-jishi-zuo-zhe-liang-jian-shi-xiaji-futian-yangsheng-chi-zhexie-ba-lmefsxrzdkopwgt_bsxfdry539rk",
+          "show": "这病说来话长",
+          "title": "VOL.64中医科｜通勤路上淋雨、蹚水后及时做这两件事｜夏季伏天养生吃这些吧",
+          "url": "/wiki/sources/vol-64-zhongyike-tongqin-lushang-linyu-tangshui-hou-jishi-zuo-zhe-liang-jian-shi-xiaji-futian-yangsheng-chi-zhexie-ba-lmefsxrzdkopwgt_bsxfdry539rk/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/tcmsummerpatterndifferentiation/"
     },
     "TCMWeightManagementBoundary": {

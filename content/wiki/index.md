@@ -3050,6 +3050,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [360. Fear City: New York in the 1970s](sources/360-fear-city-new-york-in-the-1970s-glt7107047696.md) — The Rest Is History episode on the 1977 blackout, fiscal collapse, crime politics, urban dystopia, Ed Koch, and crisis-driven private redevelopment.
 - [VOL.66心脏外科｜从挂号到就医 从吃药到手术 安贞医生给你的实用贴士](sources/vol-66-xinzang-waike-cong-guahao-dao-jiuyi-cong-chiyao-dao-shoushu-anzhen-yisheng-gei-ni-de-shiyong-tieshi-lnnmiealbw5s886_m4y8yjj3mja_.md) — 这病说来话长 episode on cardiac symptom escalation, hospital routing, diagnostic limits, hypertension harm, surgical-modality selection, robotics, and pump-versus-rhythm devices.
+- [VOL.64中医科｜通勤路上淋雨、蹚水后及时做这两件事｜夏季伏天养生吃这些吧](sources/vol-64-zhongyike-tongqin-lushang-linyu-tangshui-hou-jishi-zuo-zhe-liang-jian-shi-xiaji-futian-yangsheng-chi-zhexie-ba-lmefsxrzdkopwgt_bsxfdry539rk.md) — 这病说来话长 episode separating prompt post-wading cleaning and drying from source-scoped cold-damp, sweating, food-therapy, and 藿香正气 claims.
 
 ## Entities
 - [Raymond of Capua](entities/RaymondOfCapua.md) — Catherine of Siena's confessor and hagiographic biographer, central to the transmission and interpretation of her visions and miracles.
@@ -22755,5 +22756,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sanitized Civil-Rights Memory](concepts/SanitizedCivilRightsMemory.md) — Selective commemoration of hopeful movement language at the expense of conflict, coalition labor, and structural critique.
 - [Cardiac Surgery Modality Selection / 心脏外科术式选择](concepts/CardiacSurgeryModalitySelection.md) — Outcome-first selection among conventional, minimally invasive, robotic, catheter-based, bypass-supported, and off-pump cardiac approaches.
 - [Historical Figures as Reality-TV Archetypes](concepts/HistoricalFiguresAsRealityTVArchetypes.md) — Comic method that makes biographies memorable through contestant roles and pairings while risking anachronism and moral compression.
+- [Rain Exposure and Foot-Care Boundary / 雨后蹚水足部照护边界](concepts/RainExposureFootCareBoundary.md) — Post-wading hygiene boundary separating prompt rinsing, drying, and wet-footwear removal from unvalidated systemic cold-damp and remedy claims.
 
 ## Syntheses

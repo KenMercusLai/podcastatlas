@@ -11,7 +11,8 @@ sources:
   - vol-96-zhongyi-xiaohua-cong-fanhua-baozong-paofan-liao-yangwei-piwei-buhe-cong-paigu-niangao-liao-xiaohua-buliang-lpuafqvhm2jz705x53xahkr3g8ha
   - vol-92-zhongyike-jindong-wurao-lainian-shenti-hao-liugan-jiating-yongyao-xinnaoxueguan-fanghu-yinshi-dongji-yangsheng-baodian-ljvut60fr8kvkmkczra9p7-w7yde
   - vol-76-zhongyike-guominxing-biyan-chunwu-qiudong-tieqiubiao-ni-yinggai-zhidao-de-qiuji-yangsheng-jinji-he-cankao-llayq2sgeabfjsosctpqfbtgff6e
-last_updated: 2026-09-27
+  - vol-64-zhongyike-tongqin-lushang-linyu-tangshui-hou-jishi-zuo-zhe-liang-jian-shi-xiaji-futian-yangsheng-chi-zhexie-ba-lmefsxrzdkopwgt_bsxfdry539rk
+last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
 
@@ -37,6 +38,8 @@ The winter-health episode extends this individualized, anti-extreme approach int
 
 The earlier autumn-health episode completes the seasonal set through [[TCMAutumnSelfCareBoundary]]. Mao qualifies “春捂秋冻,” “贴秋膘,” pear preparations, exercise, foot soaking, medicated paste, heat-clearing products, and moxibustion by place, season, constitution, symptoms, and tolerance. He also recommends reducing pollen, dust, indoor dryness, and abrupt-temperature exposure for rhinitis, while warning against self-diagnosis and podcast-guided treatment. His lung, spleen, kidney, retained-heat, qi, blood, yin, yang, dampness, food-therapy, tea, and herbal mechanisms remain source-scoped.
 
+The earlier rain-and-summer episode adds [[RainExposureFootCareBoundary]] to that seasonal profile. Mao's simplest advice is to rinse dirty rainwater from the feet, dry them, and avoid prolonged wet footwear. His claims that rain produces systemic cold-damp or damp-heat, that fans expose the soles to pathogenic wind, or that soaking, sweating, ginger, lamb, porridge, and 藿香正气 remove the resulting problem remain source-scoped; the episode itself adds partial limits around venous return, product formulation, illness-related impairment, and driving.
+
 ## Key Characteristics
 - Uses “因时、因地、因人” to individualize seasonal and regional interpretations.
 - Classifies allergic symptoms through TCM patterns such as wind-heat, wind-cold, damp accumulation, and deficiency.
@@ -57,15 +60,15 @@ The earlier autumn-health episode completes the seasonal set through [[TCMAutumn
 - Digestive self-care: [[vol-96-zhongyi-xiaohua-cong-fanhua-baozong-paofan-liao-yangwei-piwei-buhe-cong-paigu-niangao-liao-xiaohua-buliang-lpuafqvhm2jz705x53xahkr3g8ha]] records his preparation-, portion-, region-, and tolerance-sensitive food advice alongside source-scoped spleen-stomach, climate, glucose, gastritis, and H. pylori claims.
 - Winter moderation and limits: [[vol-92-zhongyike-jindong-wurao-lainian-shenti-hao-liugan-jiating-yongyao-xinnaoxueguan-fanghu-yinshi-dongji-yangsheng-baodian-ljvut60fr8kvkmkczra9p7-w7yde]] records his rejection of universal remedies and extremes alongside source-scoped winter-storage, yang, qi, blood-stasis, influenza, food, tea, foot-soak, and treatment claims.
 - Autumn adaptation and limits: [[vol-76-zhongyike-guominxing-biyan-chunwu-qiudong-tieqiubiao-ni-yinggai-zhidao-de-qiuji-yangsheng-jinji-he-cankao-llayq2sgeabfjsosctpqfbtgff6e]] records his qualified “秋冻,” food, exposure, exercise, foot-soak, medicine, and moxibustion advice alongside source-scoped seasonal, organ, deficiency, heat, cold, and dampness claims.
+- Rain exposure and summer limits: [[vol-64-zhongyike-tongqin-lushang-linyu-tangshui-hou-jishi-zuo-zhe-liang-jian-shi-xiaji-futian-yangsheng-chi-zhexie-ba-lmefsxrzdkopwgt_bsxfdry539rk]] records his prompt cleaning and drying advice alongside source-scoped rain, cold-damp, damp-heat, soaking, sweating, food, ginger, and 藿香正气 claims.
 
 ## Qualifications
 The available sources do not provide an institutional affiliation, formal credential details, clinical evidence review, individualized assessment, dosing, contraindications, or treatment algorithm. The page therefore identifies Mao Zhe only as the episodes' TCM guest and does not treat his recommendations, digestive-disease anecdotes, weight-loss mechanisms, heat-illness mechanism, regional-climate mechanisms, seasonal organ associations, winter influenza classification, self-diagnostic signs, “发物” lists, broad medicine uses, or remembered outcomes as general medical evidence.
 
 ## What Changed
-- Completed Mao's seasonal profile with an autumn boundary covering clothing, food, allergy exposure, exercise, foot soaking, and moxibustion.
-- Preserved his rejection of universal formulas while qualifying the proposed autumn organ, heat, cold, dampness, and deficiency mechanisms.
-- Added self-diagnosis, long-term heat-clearing medicine, vascular foot-soak risk, and professional-treatment boundaries.
-- Treated regional habits and comfort measures as context rather than proof of prevention or therapy.
+- Added a rain-exposure branch centered on prompt foot cleaning, drying, and avoiding prolonged wet footwear.
+- Separated those practical hygiene steps from unvalidated cold-damp, fan-exposure, sweating, food, ginger, and patent-medicine mechanisms.
+- Added formulation, venous-return, impairment, and driving-safety qualifications to the summer profile.
 
 ## Relationships
 - [[ZheBingShuoLaiHuaChang]] - podcast in which Mao Zhe appears as a guest.
@@ -85,3 +88,4 @@ The available sources do not provide an institutional affiliation, formal creden
 - [[TCMDigestiveSelfCareBoundary]] - bounded digestive-health frame derived from Mao's individualized eating advice and qualified TCM claims.
 - [[TCMWinterSelfCareBoundary]] - bounded winter-health frame derived from Mao's moderation message and qualified seasonal, diagnostic, and treatment claims.
 - [[TCMAutumnSelfCareBoundary]] - bounded autumn-health frame derived from Mao's regional adaptation, allergy-exposure, moderation, and care-escalation messages.
+- [[RainExposureFootCareBoundary]] - separates Mao's practical post-wading hygiene from source-scoped warming and treatment claims.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 8539
+wiki_total_pages: 8540
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -38,6 +38,9 @@ wiki_pages:
   - key: "RagweedEcologicalFeedback"
     title: "Ragweed Ecological Feedback"
     url: "/wiki/concepts/ragweedecologicalfeedback/"
+  - key: "RainExposureFootCareBoundary"
+    title: "Rain Exposure and Foot-Care Boundary / 雨后蹚水足部照护边界"
+    url: "/wiki/concepts/rainexposurefootcareboundary/"
   - key: "RandomMarketNarratives"
     title: "Random Market Narratives"
     url: "/wiki/concepts/randommarketnarratives/"

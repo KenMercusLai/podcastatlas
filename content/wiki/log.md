@@ -24164,3 +24164,11 @@ Added source `356-the-blood-drinking-bride-of-christ-glt8496536394`; created `Ra
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | VOL.64中医科｜通勤路上淋雨、蹚水后及时做这两件事｜夏季伏天养生吃这些吧
+
+Added source `vol-64-zhongyike-tongqin-lushang-linyu-tangshui-hou-jishi-zuo-zhe-liang-jian-shi-xiaji-futian-yangsheng-chi-zhexie-ba-lmefsxrzdkopwgt_bsxfdry539rk`; created `RainExposureFootCareBoundary`; and updated `MaoZheTCMDoctor`, `TCMSummerPatternDifferentiation`, and the canonical index from their complete bounded source sets. Core synthesis: after rain or standing-water exposure, promptly leave the water, rinse visible contamination, dry the feet and footwear, and avoid prolonged warm damp occlusion; this practical layer is distinct from source-scoped claims about systemic cold-damp, damp-heat, fan exposure, induced sweating, porridge, lamb, ginger, or 藿香正气. No settled contradiction was adopted. Foot-soak safety, vascular risk, contamination, medicine formulation, impairment, and driving require more specific boundaries than the episode supplies. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
