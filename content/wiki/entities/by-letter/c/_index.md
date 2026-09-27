@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 10981
+wiki_total_pages: 10985
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -1427,6 +1427,9 @@ wiki_pages:
   - key: "CtripWendao"
     title: "Ctrip Wendao"
     url: "/wiki/entities/ctripwendao/"
+  - key: "Cuauhtemoc"
+    title: "Cuauhtemoc"
+    url: "/wiki/entities/cuauhtemoc/"
   - key: "Cuba"
     title: "Cuba"
     url: "/wiki/entities/cuba/"

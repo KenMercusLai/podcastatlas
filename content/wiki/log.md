@@ -23504,3 +23504,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | 391. The Fall of the Aztecs: The Last Emperor (Part 8)
+
+Added source `391-the-fall-of-the-aztecs-the-last-emperor-part-8-glt2984940365`; created `HernanCortes`, `Malinche`, `Cuauhtemoc`, `MexicaEmpire`, `SpanishConquestOfMexico`, `ColumbianExchange`, `ColonialLegalAdaptation`, and `HistoricalCatastropheNarrativeEthics`; and updated the canonical index and overview. Core synthesis: Tenochtitlan's fall was decisive but did not complete conquest, which continued through violence, Indigenous alliances, law, labor, urban rebuilding, religion, disease, and regionally uneven adaptation. No settled contradiction found. Cuauhtemoc's alleged plot and final speech, Catalina Suarez's death, Guadalupe tradition, private motives, and exact demographic implications remain unresolved or source-scoped. The downstream synthesis refresh reads but does not rewrite the canonical `wiki/overview.md`.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

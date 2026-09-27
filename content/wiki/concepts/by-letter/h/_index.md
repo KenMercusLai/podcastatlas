@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 8372
+wiki_total_pages: 8376
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -395,6 +395,9 @@ wiki_pages:
   - key: "HistoricalBodyConcept"
     title: "Historical Body Concept"
     url: "/wiki/concepts/historicalbodyconcept/"
+  - key: "HistoricalCatastropheNarrativeEthics"
+    title: "Historical Catastrophe Narrative Ethics"
+    url: "/wiki/concepts/historicalcatastrophenarrativeethics/"
   - key: "HistoricalCompositeAllegory"
     title: "Historical Composite Allegory"
     url: "/wiki/concepts/historicalcompositeallegory/"

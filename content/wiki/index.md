@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [391. The Fall of the Aztecs: The Last Emperor (Part 8)](sources/391-the-fall-of-the-aztecs-the-last-emperor-part-8-glt2984940365.md) — The Rest Is History finale on post-conquest violence, colonial law, Mexico City rebuilding, Indigenous adaptation, disease, memory, and the ethics of narrating catastrophe.
 - [392. JFK: The Road to the White House (Part 1)](sources/392-jfk-the-road-to-the-white-house-part-1-glt3759679497.md) — The Rest Is History episode on Kennedy family ambition, chronic illness, Anglophilia, PT-109, Joe Jr.'s death, marriage, and JFK's early political rise.
 - [How to Unlock Your Potential, Motivation & Unique Abilities | Dr. Adam Grant](sources/how-to-unlock-your-potential-motivation-unique-abilities-dr-adam-grant-scim2670765142.md) — Huberman Lab interview on creative delay, intrinsic motivation, advice-oriented feedback, contextual growth mindset, scientist mode, imperfectionism, and potential as developmental trajectory.
 - [VOL.87儿科急诊｜害怕医院有交叉感染就不带孩子去看病？被忽略的那些致命细节](sources/vol-87-erke-jizhen-haipa-yiyuan-you-jiaochaganran-jiu-bu-dai-haizi-qu-kanbing-bei-hulue-de-naxie-zhiming-xijie-lgcixq48amokf8z_tbv7l7bookhg.md) — 这病说来话长 episode with 王杰宠 on pediatric emergency escalation, airway foreign bodies, household first aid, imaging decisions, and urgent family-clinician communication.
@@ -2962,6 +2963,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Prevent & Treat Colds & Flu](sources/how-to-prevent-treat-colds-flu-scim6817932732.md) — Huberman Lab solo episode on respiratory-virus transmission, layered immune defense, sleep and training load, heat boundaries, and supplement evidence.
 
 ## Entities
+- [Hernan Cortes](entities/HernanCortes.md) — Spanish conquistador whose victory, coercive rule, legal improvisation, decline, and divided memory anchor the conquest aftermath.
+- [Malinche](entities/Malinche.md) — Indigenous interpreter and intermediary whose marriage, property, children, and uncertain later life show constrained colonial adaptation.
+- [Cuauhtemoc](entities/Cuauhtemoc.md) — Final Mexica ruler tortured for gold and executed on an unresolved conspiracy allegation.
+- [Mexica (Aztec) Empire](entities/MexicaEmpire.md) — Tenochtitlan-centered polity whose defeat, survival, and colonial afterlife unfolded unevenly.
 - [Adam Grant](entities/AdamGrant.md) — Organizational psychologist and author connecting motivation, feedback, rethinking, character skills, and growth through obstacles.
 - [Hidden Potential](entities/HiddenPotential.md) — Adam Grant book framing potential through learning trajectory, opportunity, scaffolding, and character skills rather than starting talent alone.
 - [王杰宠 / Wang Jiechong](entities/WangJiechong.md) — Beijing Children's Hospital pediatric emergency-surgery resident explaining assessment-first caregiver action and timely escalation.
@@ -13958,6 +13963,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kay Tye](entities/KayTye.md) — Neuroscientist connecting emotional-valence circuits to loneliness, social homeostasis, hierarchy, and sustainable scientific leadership.
 
 ## Concepts
+- [Spanish Conquest of Mexico](concepts/SpanishConquestOfMexico.md) — Long, uneven military, legal, demographic, religious, and economic transformation conventionally centered on 1521.
+- [Columbian Exchange](concepts/ColumbianExchange.md) — Movement of disease, animals, crops, and other organisms that structurally reshaped conquest and colonial life.
+- [Colonial Legal Adaptation](concepts/ColonialLegalAdaptation.md) — Dual use of imperial law to legitimate conquest and preserve constrained Indigenous rights, property, or status.
+- [Historical Catastrophe Narrative Ethics](concepts/HistoricalCatastropheNarrativeEthics.md) — Framework for preserving narrative force without glamorizing suffering or flattening moral and evidentiary complexity.
 - [Kennedy Family Political Formation](concepts/KennedyFamilyPoliticalFormation.md) — Framework joining outsider status, wealth, family competition, wartime succession, political resources, and individual agency in JFK's rise.
 - [Concealed Presidential Illness](concepts/ConcealedPresidentialIllness.md) — Divergence between a leader's managed vitality image and serious health conditions affecting function, treatment, risk, and voter knowledge.
 - [Bias Blind Spot](concepts/BiasBlindSpot.md) — Self-exemption pattern in which bias is easier to see in others, with outside perspective and hypothesis testing as bounded corrections.

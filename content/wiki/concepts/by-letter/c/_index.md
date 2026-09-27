@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8372
+wiki_total_pages: 8376
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -1328,6 +1328,9 @@ wiki_pages:
   - key: "ColonialFrontierGovernanceFragility"
     title: "Colonial Frontier Governance Fragility"
     url: "/wiki/concepts/colonialfrontiergovernancefragility/"
+  - key: "ColonialLegalAdaptation"
+    title: "Colonial Legal Adaptation"
+    url: "/wiki/concepts/coloniallegaladaptation/"
   - key: "ColonialLiteraryAmbivalence"
     title: "Colonial Literary Ambivalence"
     url: "/wiki/concepts/colonialliteraryambivalence/"
@@ -1352,6 +1355,9 @@ wiki_pages:
   - key: "ColorectalCancerScreening"
     title: "Colorectal Cancer Screening"
     url: "/wiki/concepts/colorectalcancerscreening/"
+  - key: "ColumbianExchange"
+    title: "Columbian Exchange"
+    url: "/wiki/concepts/columbianexchange/"
   - key: "ComedyAsInvoluntaryJudgment"
     title: "Comedy as Involuntary Judgment"
     url: "/wiki/concepts/comedyasinvoluntaryjudgment/"

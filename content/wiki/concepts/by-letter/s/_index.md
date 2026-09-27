@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 8372
+wiki_total_pages: 8376
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1277,6 +1277,9 @@ wiki_pages:
   - key: "SpaceXMafia"
     title: "SpaceX Mafia"
     url: "/wiki/concepts/spacexmafia/"
+  - key: "SpanishConquestOfMexico"
+    title: "Spanish Conquest of Mexico"
+    url: "/wiki/concepts/spanishconquestofmexico/"
   - key: "SpanishImperialMonopolyVulnerability"
     title: "Spanish Imperial Monopoly Vulnerability"
     url: "/wiki/concepts/spanishimperialmonopolyvulnerability/"

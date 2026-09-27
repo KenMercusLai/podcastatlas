@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2064
+topic_total_pages: 2065
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -496,6 +496,9 @@ topic_concepts:
   - key: "HistoricalBodyConcept"
     title: "Historical Body Concept"
     url: "/wiki/concepts/historicalbodyconcept/"
+  - key: "HistoricalCatastropheNarrativeEthics"
+    title: "Historical Catastrophe Narrative Ethics"
+    url: "/wiki/concepts/historicalcatastrophenarrativeethics/"
   - key: "HistoricalCompositeAllegory"
     title: "Historical Composite Allegory"
     url: "/wiki/concepts/historicalcompositeallegory/"

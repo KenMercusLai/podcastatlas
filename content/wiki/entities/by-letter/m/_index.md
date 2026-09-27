@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 10981
+wiki_total_pages: 10985
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -146,6 +146,9 @@ wiki_pages:
   - key: "MalibuHighSchool"
     title: "Malibu High School"
     url: "/wiki/entities/malibuhighschool/"
+  - key: "Malinche"
+    title: "Malinche"
+    url: "/wiki/entities/malinche/"
   - key: "Malta"
     title: "Malta"
     url: "/wiki/entities/malta/"
@@ -854,6 +857,9 @@ wiki_pages:
   - key: "MetropolitanPolice"
     title: "Metropolitan Police"
     url: "/wiki/entities/metropolitanpolice/"
+  - key: "MexicaEmpire"
+    title: "Mexica (Aztec) Empire"
+    url: "/wiki/entities/mexicaempire/"
   - key: "Mexico"
     title: "Mexico"
     url: "/wiki/entities/mexico/"

@@ -19004,6 +19004,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "ColonialLegalAdaptation": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "ColonialLiteraryAmbivalence": [
     {
       "key": "culture",
@@ -35852,6 +35859,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "HistoricalCatastropheNarrativeEthics": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "HistoricalComplexityAgainstLabels": [

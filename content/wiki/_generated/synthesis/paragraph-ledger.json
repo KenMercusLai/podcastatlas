@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "ad5736e38756a4e33b6cdfecc171b6cf7a2700789b7836578e64425b9ef10b72",
       "57f8a02e7e6bd51de03f71ee78111b277aa619da3a70b22d108fd8fbf1771447",
       "1d341f8f999509137f16869155acc686068c729a721a25d437d0e4444ebe4e05",
       "0d400512be766cf6cb5705845c569738568557544604846dc1622097d52b41e8",
@@ -760,11 +761,34 @@
       "1f02005c80ec3e7ac3f24acac820a9118d51d7e2de5614db5e13752add4f80b9",
       "60d22980877c9a07564718a1614f1e06e5947001e678ff946ba7dbbc77be1f31"
     ],
-    "paragraph_count": 758
+    "paragraph_count": 759
   },
-  "overview_commit": "c14fef0e43179f9dc684d29118b8ce80c5ff8116",
-  "overview_digest": "3ddadd360203a3c66a585d03c76f669ef5533283cd8bf03edf7db44767666d18",
+  "overview_commit": "540ad5a64273b864dfa4ca21eb7aba90ecfaeec2",
+  "overview_digest": "17b34c0aa589eeb251c08cfa277a30c1038c36c685bb6ea72530fda508497af3",
   "paragraphs": [
+    {
+      "id": "ad5736e38756a4e33b6cdfecc171b6cf7a2700789b7836578e64425b9ef10b72",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[391-the-fall-of-the-aztecs-the-last-emperor-part-8-glt2984940365|391. The Fall of the Aztecs: The Last Emperor (Part 8)]], a [[TheRestIsHistory]] finale on the aftermath and memory of the [[SpanishConquestOfMexico|Spanish conquest of Mexico]]. It adds [[HernanCortes]], [[Malinche]], [[Cuauhtemoc]], [[MexicaEmpire]], [[SpanishConquestOfMexico]], [[ColumbianExchange]], [[ColonialLegalAdaptation]], and [[HistoricalCatastropheNarrativeEthics]]. Its core synthesis is that Tenochtitlan's fall was decisive but did not complete conquest: violence, Indigenous alliances, legal claims, labor, urban reconstruction, religious adaptation, disease, and regional variation produced a longer colonial transformation in which constrained Indigenous agency coexisted with unequal power and catastrophic loss. No settled contradiction is recorded; Cuauhtemoc's alleged plot and final speech, Catalina Suarez's death, Guadalupe tradition, private motives, and exact demographic implications remain unresolved or source-scoped, while critique of Black Legend polemic does not erase documented atrocity.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 3,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "391-the-fall-of-the-aztecs-the-last-emperor-part-8-glt2984940365",
+        "ColonialLegalAdaptation",
+        "ColumbianExchange",
+        "Cuauhtemoc",
+        "HernanCortes",
+        "HistoricalCatastropheNarrativeEthics",
+        "Malinche",
+        "MexicaEmpire",
+        "SpanishConquestOfMexico",
+        "TheRestIsHistory"
+      ]
+    },
     {
       "id": "57f8a02e7e6bd51de03f71ee78111b277aa619da3a70b22d108fd8fbf1771447",
       "primary_topic": "psychology-and-personal-development",

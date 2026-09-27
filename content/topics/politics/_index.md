@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2744
+topic_total_pages: 2745
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -724,6 +724,9 @@ topic_concepts:
   - key: "ColonialFrontierGovernanceFragility"
     title: "Colonial Frontier Governance Fragility"
     url: "/wiki/concepts/colonialfrontiergovernancefragility/"
+  - key: "ColonialLegalAdaptation"
+    title: "Colonial Legal Adaptation"
+    url: "/wiki/concepts/coloniallegaladaptation/"
   - key: "ColonialPowerMiscalculation"
     title: "Colonial Power Miscalculation / 殖民强权误判"
     url: "/wiki/concepts/colonialpowermiscalculation/"

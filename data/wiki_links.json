@@ -1027,6 +1027,10 @@
     "title": "39.哲学家与狼：在朗格多克永恒的夏天",
     "url": "/wiki/sources/39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065/"
   },
+  "391-the-fall-of-the-aztecs-the-last-emperor-part-8-glt2984940365": {
+    "title": "391. The Fall of the Aztecs: The Last Emperor (Part 8)",
+    "url": "/wiki/sources/391-the-fall-of-the-aztecs-the-last-emperor-part-8-glt2984940365/"
+  },
   "392-jfk-the-road-to-the-white-house-part-1-glt3759679497": {
     "title": "392. JFK: The Road to the White House (Part 1)",
     "url": "/wiki/sources/392-jfk-the-road-to-the-white-house-part-1-glt3759679497/"
@@ -15651,6 +15655,10 @@
     "title": "Colonial Frontier Governance Fragility",
     "url": "/wiki/concepts/colonialfrontiergovernancefragility/"
   },
+  "ColonialLegalAdaptation": {
+    "title": "Colonial Legal Adaptation",
+    "url": "/wiki/concepts/coloniallegaladaptation/"
+  },
   "ColonialLiteraryAmbivalence": {
     "title": "Colonial Literary Ambivalence",
     "url": "/wiki/concepts/colonialliteraryambivalence/"
@@ -15694,6 +15702,10 @@
   "ColumbiaUniversity": {
     "title": "Columbia University",
     "url": "/wiki/entities/columbiauniversity/"
+  },
+  "ColumbianExchange": {
+    "title": "Columbian Exchange",
+    "url": "/wiki/concepts/columbianexchange/"
   },
   "Comcast": {
     "title": "Comcast",
@@ -17454,6 +17466,10 @@
   "CtripWendao": {
     "title": "Ctrip Wendao",
     "url": "/wiki/entities/ctripwendao/"
+  },
+  "Cuauhtemoc": {
+    "title": "Cuauhtemoc",
+    "url": "/wiki/entities/cuauhtemoc/"
   },
   "Cuba": {
     "title": "Cuba",
@@ -31559,6 +31575,10 @@
     "title": "Hermes Agent",
     "url": "/wiki/entities/hermesagent/"
   },
+  "HernanCortes": {
+    "title": "Hernan Cortes",
+    "url": "/wiki/entities/hernancortes/"
+  },
   "HeroJourneyNarrative": {
     "title": "Hero Journey Narrative",
     "url": "/wiki/concepts/herojourneynarrative/"
@@ -31866,6 +31886,10 @@
   "HistoricalBodyConcept": {
     "title": "Historical Body Concept",
     "url": "/wiki/concepts/historicalbodyconcept/"
+  },
+  "HistoricalCatastropheNarrativeEthics": {
+    "title": "Historical Catastrophe Narrative Ethics",
+    "url": "/wiki/concepts/historicalcatastrophenarrativeethics/"
   },
   "HistoricalComplexityAgainstLabels": {
     "title": "拒绝历史人物标签 / Historical Complexity Against Labels",
@@ -43959,6 +43983,10 @@
     "title": "Malicious Proxy Networks",
     "url": "/wiki/concepts/maliciousproxynetworks/"
   },
+  "Malinche": {
+    "title": "Malinche",
+    "url": "/wiki/entities/malinche/"
+  },
   "MalingBattle": {
     "title": "马陵之战 / Battle of Maling",
     "url": "/wiki/entities/malingbattle/"
@@ -45922,6 +45950,10 @@
   "MetropolitanPolice": {
     "title": "Metropolitan Police",
     "url": "/wiki/entities/metropolitanpolice/"
+  },
+  "MexicaEmpire": {
+    "title": "Mexica (Aztec) Empire",
+    "url": "/wiki/entities/mexicaempire/"
   },
   "Mexico": {
     "title": "Mexico",
@@ -63722,6 +63754,10 @@
   "SpanishArmada": {
     "title": "Spanish Armada",
     "url": "/wiki/entities/spanisharmada/"
+  },
+  "SpanishConquestOfMexico": {
+    "title": "Spanish Conquest of Mexico",
+    "url": "/wiki/concepts/spanishconquestofmexico/"
   },
   "SpanishImperialMonopolyVulnerability": {
     "title": "Spanish Imperial Monopoly Vulnerability",
