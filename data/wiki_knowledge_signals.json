@@ -4370,9 +4370,9 @@
       "url": "/wiki/entities/aaronburr/"
     },
     "AbbasidCaliphate": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT8529456010 [GLT8529456010].md",
@@ -4387,10 +4387,33 @@
           "show": "The Rest Is History",
           "title": "378. Baghdad: The Golden Age (Part 3)",
           "url": "/wiki/sources/378-baghdad-the-golden-age-part-3-glt9689814482/"
+        },
+        {
+          "episode_file": "GLT9127243683 [GLT9127243683].md",
+          "key": "377-baghdad-crossroads-of-the-universe-part-2-glt9127243683",
+          "show": "The Rest Is History",
+          "title": "377. Baghdad: Crossroads of the Universe (Part 2)",
+          "url": "/wiki/sources/377-baghdad-crossroads-of-the-universe-part-2-glt9127243683/"
         }
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/abbasidcaliphate/"
+    },
+    "AbbasidRevolution": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9127243683 [GLT9127243683].md",
+          "key": "377-baghdad-crossroads-of-the-universe-part-2-glt9127243683",
+          "show": "The Rest Is History",
+          "title": "377. Baghdad: Crossroads of the Universe (Part 2)",
+          "url": "/wiki/sources/377-baghdad-crossroads-of-the-universe-part-2-glt9127243683/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/abbasidrevolution/"
     },
     "AbbasidSuccessionInstability": {
       "episode_count": 1,
@@ -4588,6 +4611,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/abuhanifa/"
+    },
+    "AbuMuslim": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9127243683 [GLT9127243683].md",
+          "key": "377-baghdad-crossroads-of-the-universe-part-2-glt9127243683",
+          "show": "The Rest Is History",
+          "title": "377. Baghdad: Crossroads of the Universe (Part 2)",
+          "url": "/wiki/sources/377-baghdad-crossroads-of-the-universe-part-2-glt9127243683/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/abumuslim/"
     },
     "AbudBakri": {
       "episode_count": 1,
@@ -7070,6 +7109,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/alkhayzuran/"
+    },
+    "AlMansur": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9127243683 [GLT9127243683].md",
+          "key": "377-baghdad-crossroads-of-the-universe-part-2-glt9127243683",
+          "show": "The Rest Is History",
+          "title": "377. Baghdad: Crossroads of the Universe (Part 2)",
+          "url": "/wiki/sources/377-baghdad-crossroads-of-the-universe-part-2-glt9127243683/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/almansur/"
     },
     "AlanCastel": {
       "episode_count": 1,
@@ -14116,9 +14171,9 @@
       "url": "/wiki/entities/bafangelectric/"
     },
     "Baghdad": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT8529456010 [GLT8529456010].md",
@@ -14133,6 +14188,13 @@
           "show": "The Rest Is History",
           "title": "378. Baghdad: The Golden Age (Part 3)",
           "url": "/wiki/sources/378-baghdad-the-golden-age-part-3-glt9689814482/"
+        },
+        {
+          "episode_file": "GLT9127243683 [GLT9127243683].md",
+          "key": "377-baghdad-crossroads-of-the-universe-part-2-glt9127243683",
+          "show": "The Rest Is History",
+          "title": "377. Baghdad: Crossroads of the Universe (Part 2)",
+          "url": "/wiki/sources/377-baghdad-crossroads-of-the-universe-part-2-glt9127243683/"
         }
       ],
       "updated": "2026-09-27",
@@ -76380,9 +76442,9 @@
       "url": "/wiki/concepts/imperialmarriageinspection/"
     },
     "ImperialMetropolisIntegration": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9689814482 [GLT9689814482].md",
@@ -76390,6 +76452,13 @@
           "show": "The Rest Is History",
           "title": "378. Baghdad: The Golden Age (Part 3)",
           "url": "/wiki/sources/378-baghdad-the-golden-age-part-3-glt9689814482/"
+        },
+        {
+          "episode_file": "GLT9127243683 [GLT9127243683].md",
+          "key": "377-baghdad-crossroads-of-the-universe-part-2-glt9127243683",
+          "show": "The Rest Is History",
+          "title": "377. Baghdad: Crossroads of the Universe (Part 2)",
+          "url": "/wiki/sources/377-baghdad-crossroads-of-the-universe-part-2-glt9127243683/"
         }
       ],
       "updated": "2026-09-27",
@@ -130856,6 +130925,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/rougetdelisle/"
+    },
+    "RoundCityOfBaghdad": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9127243683 [GLT9127243683].md",
+          "key": "377-baghdad-crossroads-of-the-universe-part-2-glt9127243683",
+          "show": "The Rest Is History",
+          "title": "377. Baghdad: Crossroads of the Universe (Part 2)",
+          "url": "/wiki/sources/377-baghdad-crossroads-of-the-universe-part-2-glt9127243683/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/roundcityofbaghdad/"
     },
     "Roundup": {
       "episode_count": 1,

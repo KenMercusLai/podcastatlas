@@ -1019,6 +1019,10 @@
     "title": "3721",
     "url": "/wiki/entities/3721/"
   },
+  "377-baghdad-crossroads-of-the-universe-part-2-glt9127243683": {
+    "title": "377. Baghdad: Crossroads of the Universe (Part 2)",
+    "url": "/wiki/sources/377-baghdad-crossroads-of-the-universe-part-2-glt9127243683/"
+  },
   "378-baghdad-the-golden-age-part-3-glt9689814482": {
     "title": "378. Baghdad: The Golden Age (Part 3)",
     "url": "/wiki/sources/378-baghdad-the-golden-age-part-3-glt9689814482/"
@@ -3919,6 +3923,10 @@
     "title": "Abbasid Caliphate",
     "url": "/wiki/entities/abbasidcaliphate/"
   },
+  "AbbasidRevolution": {
+    "title": "Abbasid Revolution",
+    "url": "/wiki/concepts/abbasidrevolution/"
+  },
   "AbbasidSuccessionInstability": {
     "title": "Abbasid Succession Instability",
     "url": "/wiki/concepts/abbasidsuccessioninstability/"
@@ -4034,6 +4042,10 @@
   "AbuHanifa": {
     "title": "Abu Hanifa",
     "url": "/wiki/entities/abuhanifa/"
+  },
+  "AbuMuslim": {
+    "title": "Abu Muslim",
+    "url": "/wiki/entities/abumuslim/"
   },
   "AbudBakri": {
     "title": "Abud Bakri",
@@ -5218,6 +5230,10 @@
   "AlKhayzuran": {
     "title": "Al-Khayzuran",
     "url": "/wiki/entities/alkhayzuran/"
+  },
+  "AlMansur": {
+    "title": "Al-Mansur",
+    "url": "/wiki/entities/almansur/"
   },
   "Alabama": {
     "title": "Alabama",
@@ -59582,6 +59598,10 @@
   "RougetDeLisle": {
     "title": "Claude Joseph Rouget de Lisle",
     "url": "/wiki/entities/rougetdelisle/"
+  },
+  "RoundCityOfBaghdad": {
+    "title": "Round City of Baghdad",
+    "url": "/wiki/concepts/roundcityofbaghdad/"
   },
   "Roundup": {
     "title": "Roundup",

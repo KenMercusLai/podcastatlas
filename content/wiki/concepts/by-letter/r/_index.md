@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 8427
+wiki_total_pages: 8429
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -1079,6 +1079,9 @@ wiki_pages:
   - key: "RotomoldedCoolerCategory"
     title: "Rotomolded Cooler Category"
     url: "/wiki/concepts/rotomoldedcoolercategory/"
+  - key: "RoundCityOfBaghdad"
+    title: "Round City of Baghdad"
+    url: "/wiki/concepts/roundcityofbaghdad/"
   - key: "Route66NostalgiaTourism"
     title: "Route 66 Nostalgia Tourism"
     url: "/wiki/concepts/route66nostalgiatourism/"

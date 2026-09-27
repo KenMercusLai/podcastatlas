@@ -9,6 +9,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.78生殖医学科男科｜他的包皮割不割 来听三甲医生怎么说｜为什么HPV检查男生会常出现假阴性？](sources/vol-78-shengzhi-yixueke-nanke-tade-baopi-gebuge-lai-ting-sanjia-yisheng-zenme-shuo-weishenme-hpv-jiancha-nansheng-hui-chang-chuxian-jiayinxing-lvg2m7yu6whcctt79kmvl38egnh.md) — 这病说来话长 episode on long foreskin, phimosis, paraphimosis urgency, circumcision thresholds, pediatric timing, diabetes, and male HPV testing limits.
 - [How to Understand Emotions | Dr. Lisa Feldman Barrett](sources/how-to-understand-emotions-dr-lisa-feldman-barrett-scim3919749252.md) — Huberman Lab interview on constructed emotion, contextual face inference, affect, emotional granularity, predictive allostasis, body budgeting, and flexible regulation.
 - [VOL.79生殖医学科男科｜取精室里不能说的秘密 辅助生殖知多少](sources/vol-79-shengzhi-yixueke-nanke-qujingshi-li-buneng-shuo-de-mimi-fuzhu-shengzhi-zhi-duoshao-lp8ztob7icudu2x06tqc0dh_zhdk.md) — 这病说来话长 episode on semen-sample collection quality, male fertility assessment, azoospermia pathways, assisted-reproduction timing, prostate findings, cycling exposure, and sexual-function anxiety.
+- [377. Baghdad: Crossroads of the Universe (Part 2)](sources/377-baghdad-crossroads-of-the-universe-part-2-glt9127243683.md) — The Rest Is History episode on the Abbasid Revolution, al-Mansur's consolidation, and Baghdad's commercially connected Persian-influenced foundation.
 - [378. Baghdad: The Golden Age (Part 3)](sources/378-baghdad-the-golden-age-part-3-glt9689814482.md) — The Rest Is History episode on Harun al-Rashid's historical and legendary profiles, Abbasid court and succession politics, and Baghdad's integrated but unequal metropolitan life.
 - [379. Baghdad: The Arabian Nights (Part 4)](sources/379-baghdad-the-arabian-nights-part-4-glt8529456010.md) — The Rest Is History episode on Abbasid legal authority, hadith criticism, Baghdad's translation movement, the House of Wisdom, and the layered transmission and urban imagination of the Arabian Nights.
 - [380. Captain Cook: History’s Greatest Explorer (Part 1)](sources/380-captain-cook-historys-greatest-explorer-part-1-glt8106697435.md) — The Rest Is History episode on Cook's survey formation, the transit-of-Venus mission, Banks's scientific party, Endeavour logistics, crew health, and the voyage's concealed imperial purpose.
@@ -2995,6 +2996,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AMA #12: Thoughts on Longevity Supplements (Resveratrol, NR, NMN, Etc.) & How to Improve Memory](sources/ama-12-thoughts-on-longevity-supplements-resveratrol-nr-nmn-etc-how-to-improve-memory-scim5764692205.md) — Huberman Lab premium AMA separating longevity mechanisms and subjective supplement effects from demonstrated human lifespan benefit while prioritizing sleep, exercise, nutrition, light, stress control, and social connection.
 
 ## Entities
+- [Al-Mansur](entities/AlMansur.md) — Second Abbasid caliph and violent dynastic consolidator who founded Baghdad as a purpose-built capital.
+- [Abu Muslim](entities/AbuMuslim.md) — Enigmatic Khorasani organizer and commander whose coalition enabled the Abbasid overthrow of the Umayyads.
 - [Baghdad](entities/Baghdad.md) — Integrated Abbasid metropolis of canals, markets, scholarship, pluralism, inequality, political fragility, and literary afterlife.
 - [Abbasid Caliphate](entities/AbbasidCaliphate.md) — Baghdad-centered polity joining commerce, caliphal power, juristic authority, translation, succession conflict, and unequal labor.
 - [House of Wisdom](entities/HouseOfWisdom.md) — Abbasid court library treated as one institution within a broader distributed translation movement.
@@ -14042,6 +14045,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Michael Eisenberg](entities/MichaelEisenberg.md) — Urologist and researcher framing male fertility and sexual function through objective testing, whole-body health, and treatment boundaries.
 
 ## Concepts
+- [Abbasid Revolution](concepts/AbbasidRevolution.md) — Khorasan-centered coalition that overthrew the Umayyads while combining sacred legitimacy, Persian memory, conquest, and dynastic violence.
+- [Round City of Baghdad](concepts/RoundCityOfBaghdad.md) — Al-Mansur's circular capital plan joining defense, commerce, sacred architecture, Persian precedents, and caliphal hierarchy.
 - [Paraphimosis Emergency / 包皮嵌顿急症](concepts/ParaphimosisEmergency.md) — Urgent recognition boundary for a retracted foreskin trapped behind the glans with swelling and possible circulation compromise.
 - [Islamic Legal Scholarly Authority](concepts/IslamicLegalScholarlyAuthority.md) — Law-before-state framework in which ulama and jurists interpret divine sources beyond ruler command.
 - [Hadith Authentication](concepts/HadithAuthentication.md) — Source-critical evaluation of attributed prophetic reports through transmission chains and related scrutiny.

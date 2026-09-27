@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 11031
+wiki_total_pages: 11033
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -128,6 +128,9 @@ wiki_pages:
   - key: "AbuHanifa"
     title: "Abu Hanifa"
     url: "/wiki/entities/abuhanifa/"
+  - key: "AbuMuslim"
+    title: "Abu Muslim"
+    url: "/wiki/entities/abumuslim/"
   - key: "AbudBakri"
     title: "Abud Bakri"
     url: "/wiki/entities/abudbakri/"
@@ -446,6 +449,9 @@ wiki_pages:
   - key: "AlKhayzuran"
     title: "Al-Khayzuran"
     url: "/wiki/entities/alkhayzuran/"
+  - key: "AlMansur"
+    title: "Al-Mansur"
+    url: "/wiki/entities/almansur/"
   - key: "Alabama"
     title: "Alabama"
     url: "/wiki/entities/alabama/"

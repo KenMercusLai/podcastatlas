@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-27] ingest | 377. Baghdad: Crossroads of the Universe (Part 2)
+
+Added source `377-baghdad-crossroads-of-the-universe-part-2-glt9127243683`; created `AlMansur`, `AbuMuslim`, `AbbasidRevolution`, and `RoundCityOfBaghdad`; and updated `Baghdad`, `AbbasidCaliphate`, `ImperialMetropolisIntegration`, and the canonical index from their complete bounded source sets. Core synthesis: a Khorasan-based coalition converted Abbasid genealogy, sacred expectation, Persian memory, and military force into victory over the Umayyads, but dynastic violence and disappointed justice claims qualified the revolution; al-Mansur then joined strategic site choice, commercial access, hierarchy, Persian precedents, and Khorasani support in Baghdad's planned foundation. No settled contradiction with Parts 3–4 was found. Abu Muslim's identity, Behiferid's claims, atrocity anecdotes, foundation timing, design attribution, etymology, and architectural symbolism remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-27] ingest | 380. Captain Cook: History’s Greatest Explorer (Part 1)
 
 Added source `380-captain-cook-historys-greatest-explorer-part-1-glt8106697435`; and updated `JamesCook`, `JosephBanks`, `Endeavour`, `ScientificExplorationImperialClaim`, and the canonical index from their complete bounded source sets. Core synthesis: Cook's coal-trade seamanship, wartime and Newfoundland survey work, Banks's privately resourced scientific party, and the Endeavour's logistical discipline made the transit-of-Venus mission possible, while confidential Admiralty objectives joined scientific knowledge to strategic search and prospective territorial claim from the outset. No settled contradiction with Part 2 was found. The South Sea shilling story, private motives, personal-life detail, valuations, meetings, transit calculations, and specific scurvy-prevention claims remain anecdotal or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -23745,6 +23749,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-27] ingest | VOL.78生殖医学科男科｜他的包皮割不割 来听三甲医生怎么说｜为什么HPV检查男生会常出现假阴性？
 
 Added source `vol-78-shengzhi-yixueke-nanke-tade-baopi-gebuge-lai-ting-sanjia-yisheng-zenme-shuo-weishenme-hpv-jiancha-nansheng-hui-chang-chuxian-jiayinxing-lvg2m7yu6whcctt79kmvl38egnh`; created `ParaphimosisEmergency`; and updated `ForeskinHygieneSurgeryBoundary`, `HPVPreventionAndFollowup`, `WangYimingReproductiveDoctor`, and the canonical index from their complete bounded source sets. Core synthesis: foreskin length alone does not determine surgery; retractability, recurrent inflammation, urinary effects, development, concealed anatomy, diabetes, and over-resection risk shape the decision, while a tight retracted foreskin trapped behind the glans is an emergency. No settled contradiction found. Childhood age thresholds, cancer and HIV associations, male HPV sampling, sexual-function claims, testicular-volume references, anesthesia, and procedure details remain source-scoped public education rather than individualized care. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-27] lint | Wiki health check
 
