@@ -4,8 +4,8 @@ generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
 last_updated: 2026-09-27
-as_of_overview_commit: f4f3550d37e085a14e11537ecc94098c5bfce45c
-input_digest: 71d3c9d38173f5e6a2d969708ff7aa7521ac8f4fea33fe18432f4a9ed248892c
+as_of_overview_commit: 9536a12954962a3984a80f934407330c787bc14d
+input_digest: 616709cacaa04a7094e052970025b2e4557f4c8b7c3fd04a3ff7d4fc5d499efc
 ---
 
 # Work, Education, and Society
@@ -1219,3 +1219,15 @@ VOL.34 and VOL.35 add a work-and-society edge around rehabilitation as scaffolde
 
 - The model is practitioner guidance rather than a universal management rule for commissioned, collaborative, live, or economically constrained work.
 - Live performance can make audience response constitutive of the medium even when approval-seeking remains distorting.
+
+### Automatic Busyness Needs Inquiry Choice And Support
+
+[[guest-series-dr-paul-conti-tools-and-protocols-for-mental-health-scim2027108733|Conti's guest-series finale]] enters work and society through [[IntentionalLivingAgency]]: examining automatic busyness, route-cued habits, defenses, salience, and emotionally charged life carve-outs can distinguish chosen work from momentum, while healthier companions, realistic support, and structural constraints remain part of agency rather than failures of will.
+
+**Evidence:** [[guest-series-dr-paul-conti-tools-and-protocols-for-mental-health-scim2027108733]], [[IntentionalLivingAgency]], [[MentalHealthStructureFunctionMap]]
+
+**Qualifications:**
+
+- The claim is public mental-health education rather than a universal workplace rule, productivity system, or diagnosis of busyness.
+- Automatic work can reflect material necessity, caregiving, disability, coercion, unsafe conditions, or structural constraint rather than only avoidance or an unhealthy defense.
+- Trusted relationships and professional support may be necessary when inquiry is destabilizing or when leaving harmful conditions is difficult.

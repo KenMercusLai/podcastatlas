@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [GUEST SERIES | Dr. Paul Conti: Tools and Protocols for Mental Health](sources/guest-series-dr-paul-conti-tools-and-protocols-for-mental-health-scim2027108733.md) — Huberman Lab guest-series finale on structure and function of self, life narrative, curiosity, automatic behavior, agency, gratitude, generative drive, grounding, and clinical boundaries.
 - [AMA #11: Improve Task Switching & Productivity and Reduce Brain Fog](sources/ama-11-improve-task-switching-productivity-and-reduce-brain-fog-scim5878324891.md) — Huberman Lab premium AMA excerpt on a flexible three-resistance, three-cardio, one-rest-day weekly fitness scaffold shaped by recovery and real-life constraints.
 - [How to Succeed at Hard Conversations | Chris Voss](sources/how-to-succeed-at-hard-conversations-chris-voss-scim5142864264.md) — Huberman Lab interview on tactical empathy, calibrated questions, deal diagnosis, leverage verification, difficult-news delivery, and crisis-negotiation limits.
 - [VOL.77生殖医学科男科｜固化的偏见让负罪感成为自慰的最大危害 「男」言之隐不再难](sources/vol-77-shengzhi-yixueke-nanke-guhua-de-pianjian-rang-fuzuigan-chengwei-ziwei-de-zuidahai-nan-yanzhiyin-bu-zai-nan-lidn4alesw5vihbybf_c3f5qbvmo.md) — 这病说来话长 episode on male fertility, sexual function, prostate findings, masturbation shame, and context-first andrology care.
@@ -15133,6 +15134,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Observing Self Continuity](concepts/ObservingSelfContinuity.md) — Capacity to notice state-dependent versions of the self while holding them in one coherent identity.
 - [Intentional Living Agency](concepts/IntentionalLivingAgency.md) — Behavior-change frame for distinguishing chosen action from habit, reactivity, and momentum.
 - [Generative Drive](concepts/GenerativeDrive.md) — Creation and contribution frame joining agency, gratitude, and process appreciation while excluding compulsive busyness or avoidance.
+- [Mental Health Structure-Function Map](concepts/MentalHealthStructureFunctionMap.md) — Conti framework linking self, unconscious and conscious processes, defenses, salience, behavior, striving, agency, gratitude, and generative outcomes.
 - [Intrusive Thought Meaning](concepts/IntrusiveThoughtMeaning.md) — Caution that repeated unwanted thoughts should be identified and understood before redirection, life change, therapy, or medication support.
 - [Mona Lisa Fame Formation](concepts/MonaLisaFameFormation.md) — Concept for how the Mona Lisa became a global icon through artistic, media, theft, parody, museum, and tourism layers.
 - [Renaissance Portrait Ambiguity](concepts/RenaissancePortraitAmbiguity.md) — Concept for the Mona Lisa's unstable expression, sfumato, plain presentation, and strange landscape as interpretive openness.

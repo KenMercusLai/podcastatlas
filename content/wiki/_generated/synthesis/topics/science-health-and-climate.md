@@ -4,8 +4,8 @@ generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
 last_updated: 2026-09-27
-as_of_overview_commit: f4f3550d37e085a14e11537ecc94098c5bfce45c
-input_digest: ff9e5027a3fa3e1f994defa4a03a29cef4ce664e7a1f315b5a215351948b5c7f
+as_of_overview_commit: 9536a12954962a3984a80f934407330c787bc14d
+input_digest: 9e598a88e6f9ef23c1b89b47eb260b549b826e9203a7e9b85a3ba07538e6dd90
 ---
 
 # Science, Health, and Climate
@@ -930,3 +930,15 @@ Collagen and probiotics increasingly appear in cosmetics, snacks, drinks, and mi
 - The episode is public sports-medicine education based partly on remote listener questions, not individualized diagnosis, imaging interpretation, rehabilitation, supplement, medication, or surgical guidance.
 - Calcium-start ages, glucosamine benefit, shockwave indications, cartilage claims, bilateral knee-replacement timing, and prognosis remain source-scoped because comparative evidence and full clinical context are absent.
 - Immobilization is a conservative secondary-injury precaution, not permission to manipulate or reduce an injured joint, and urgent symptoms still require trained help.
+
+### Mental Health Self Inquiry Is Supportive Not Diagnostic Care
+
+[[guest-series-dr-paul-conti-tools-and-protocols-for-mental-health-scim2027108733|Conti's guest-series finale]] adds a health-literacy boundary: [[MentalHealthStructureFunctionMap]], [[ReflectiveSelfExploration]], and grounding can help inspect patterns and restore choice, but unconscious, defense, salience, and drive explanations remain source-scoped and [[CompassionateCuriosity]] must not be mistaken for diagnosis or crisis care.
+
+**Evidence:** [[guest-series-dr-paul-conti-tools-and-protocols-for-mental-health-scim2027108733]], [[MentalHealthStructureFunctionMap]], [[ReflectiveSelfExploration]], [[CompassionateCuriosity]]
+
+**Qualifications:**
+
+- The episode presents Conti's mental-health map and metaphors as public education, not a validated diagnostic instrument or individualized treatment plan.
+- Grounding, journaling, meditation, trusted conversation, and self-inquiry can support orientation without replacing psychotherapy, medication management, crisis assessment, or trauma care.
+- Self-harm thoughts, hopelessness, instability, severe symptoms, and inquiry that compounds guilt or shame require qualified or urgent support.

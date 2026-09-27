@@ -4,8 +4,8 @@ generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
 last_updated: 2026-09-27
-as_of_overview_commit: c78735b49412f8e59e4a442bb8a152e4aa7fcc4b
-input_digest: 5905792beaee5d86a3dba6f8bd1fca9dfdb720e39a505321dda9f60330044dc1
+as_of_overview_commit: 9536a12954962a3984a80f934407330c787bc14d
+input_digest: cc42b60d8e38c46fcda2700397957866e2fa149b17fd176adbab1e9457e631c4
 ---
 
 # Psychology and Personal Development
@@ -1180,3 +1180,15 @@ The Benjamin Lay paragraph enters psychology-and-personal-development secondaril
 - This is a historical source-criticism case, not a clinical or general cognitive-bias diagnosis.
 - Shared timing, symbols, or festive practices can motivate inquiry without proving direct transmission.
 - The episode's March 25 calculation remains preferred but source-scoped rather than a settled universal explanation.
+
+### Self Inquiry Needs Structure Choice And Clinical Boundaries
+
+[[MentalHealthStructureFunctionMap]] joins [[ReflectiveSelfExploration]] and [[CompassionateCuriosity]] to a choice test: life narrative, writing, trusted conversation, therapy, meditation, grounding, and examination of automatic patterns are useful when they produce clearer understanding and [[IntentionalLivingAgency]], while [[GenerativeDrive]] remains a positive outcome rather than a productivity mandate.
+
+**Evidence:** [[guest-series-dr-paul-conti-tools-and-protocols-for-mental-health-scim2027108733]], [[MentalHealthStructureFunctionMap]], [[ReflectiveSelfExploration]], [[CompassionateCuriosity]], [[IntentionalLivingAgency]], [[GenerativeDrive]]
+
+**Qualifications:**
+
+- Conti's structure-function, unconscious, defense, salience, and drive language is a source-specific public-education framework rather than a validated diagnostic taxonomy.
+- Memory and introspection are fallible, and inquiry that becomes repetitive rumination or increases guilt and shame may reduce rather than increase agency.
+- Self-harm thoughts, hopelessness, instability, severe symptoms, and major trauma require qualified or urgent support rather than deeper unsupervised inquiry.

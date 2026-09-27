@@ -23820,3 +23820,11 @@ Added source `373-oswald-mosley-fascist-leader-glt7471576360`; and updated `Oswa
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | GUEST SERIES | Dr. Paul Conti: Tools and Protocols for Mental Health
+
+Added source `guest-series-dr-paul-conti-tools-and-protocols-for-mental-health-scim2027108733`; created `MentalHealthStructureFunctionMap`; and updated `PaulConti`, `ReflectiveSelfExploration`, `CompassionateCuriosity`, `IntentionalLivingAgency`, `GenerativeDrive`, and the canonical index from their complete bounded source sets. Core synthesis: self-care includes inquiry into both the structure and function of self so that clarity can support empowerment, truthful humility, agency, gratitude, peace, contentment, delight, and generative action; useful inquiry produces new understanding or choice, while repetitive rumination, escalating guilt or shame, crisis, and instability require different or professional support. No settled contradiction found. The unconscious, defense, salience, three-drive, and structure-function models remain source-scoped public education rather than diagnostic instruments, and grounding, journaling, meditation, trusted conversation, and self-inquiry do not replace qualified care. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

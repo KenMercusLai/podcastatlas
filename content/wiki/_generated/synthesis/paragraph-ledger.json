@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "442c681dc0a15184ad169143ca53be2731f2fcede83e1ea7d9455034009e4547",
       "37d654d776109bfaa92303a6a746427341e150bd3f094a71a4e02fba2a8c7557",
       "ad5736e38756a4e33b6cdfecc171b6cf7a2700789b7836578e64425b9ef10b72",
       "57f8a02e7e6bd51de03f71ee78111b277aa619da3a70b22d108fd8fbf1771447",
@@ -762,11 +763,35 @@
       "1f02005c80ec3e7ac3f24acac820a9118d51d7e2de5614db5e13752add4f80b9",
       "60d22980877c9a07564718a1614f1e06e5947001e678ff946ba7dbbc77be1f31"
     ],
-    "paragraph_count": 760
+    "paragraph_count": 761
   },
-  "overview_commit": "ae8680a62f322d14ceea89ccb29450ee5eb7159c",
-  "overview_digest": "8a2e9e748a080881e2a98eb044faf52c7aafec30a4131126ebfa5276f2be864c",
+  "overview_commit": "9536a12954962a3984a80f934407330c787bc14d",
+  "overview_digest": "2a63308b4fe28eb89cef01fbf82d03570dd07f4507dd193af9c53ab1677981c5",
   "paragraphs": [
+    {
+      "id": "442c681dc0a15184ad169143ca53be2731f2fcede83e1ea7d9455034009e4547",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [
+        "work-education-and-society",
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest mental-health addition is [[guest-series-dr-paul-conti-tools-and-protocols-for-mental-health-scim2027108733|GUEST SERIES | Dr. Paul Conti: Tools and Protocols for Mental Health]], the fourth and final conversation between [[AndrewHuberman]] and [[PaulConti]] in this series. It adds [[MentalHealthStructureFunctionMap]] while extending [[ReflectiveSelfExploration]], [[CompassionateCuriosity]], [[IntentionalLivingAgency]], and [[GenerativeDrive]]. Its core synthesis is that self-care includes inquiry into both the structure and function of self: life narrative, writing, trusted conversation, therapy, meditation, grounding, and examination of automatic behavior can clarify patterns so empowerment and truthful humility become agency and gratitude, supporting peace, contentment, delight, and generative action. No settled contradiction is recorded; useful inquiry must be distinguished from repetitive rumination, while crisis, instability, escalating guilt or shame, and major trauma may require qualified support. The unconscious, defense, salience, drive, and structure-function explanations remain source-scoped public education rather than diagnostic instruments or individualized care.",
+      "topic_scores": {
+        "psychology-and-personal-development": 1,
+        "science-health-and-climate": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AndrewHuberman",
+        "CompassionateCuriosity",
+        "GenerativeDrive",
+        "IntentionalLivingAgency",
+        "MentalHealthStructureFunctionMap",
+        "PaulConti",
+        "ReflectiveSelfExploration",
+        "guest-series-dr-paul-conti-tools-and-protocols-for-mental-health-scim2027108733"
+      ]
+    },
     {
       "id": "37d654d776109bfaa92303a6a746427341e150bd3f094a71a4e02fba2a8c7557",
       "primary_topic": "science-health-and-climate",

@@ -30707,9 +30707,9 @@
       "url": "/wiki/concepts/comparativemedicine/"
     },
     "CompassionateCuriosity": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM9301011958 [SCIM9301011958].md",
@@ -30724,6 +30724,13 @@
           "show": "Huberman Lab",
           "title": "How to Achieve Inner Peace & Healing | Dr. Richard Schwartz",
           "url": "/wiki/sources/how-to-achieve-inner-peace-healing-dr-richard-schwartz-scim4912435693/"
+        },
+        {
+          "episode_file": "SCIM2027108733 [SCIM2027108733].md",
+          "key": "guest-series-dr-paul-conti-tools-and-protocols-for-mental-health-scim2027108733",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Paul Conti: Tools and Protocols for Mental Health",
+          "url": "/wiki/sources/guest-series-dr-paul-conti-tools-and-protocols-for-mental-health-scim2027108733/"
         }
       ],
       "updated": "2026-09-12",
@@ -61332,9 +61339,9 @@
       "url": "/wiki/concepts/generativeaimusic/"
     },
     "GenerativeDrive": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM9301011958 [SCIM9301011958].md",
@@ -61349,6 +61356,13 @@
           "show": "Huberman Lab",
           "title": "Mental Health Toolkit: Tools to Bolster Your Mood & Mental Health",
           "url": "/wiki/sources/mental-health-toolkit-tools-to-bolster-your-mood-mental-health-scim1991900083/"
+        },
+        {
+          "episode_file": "SCIM2027108733 [SCIM2027108733].md",
+          "key": "guest-series-dr-paul-conti-tools-and-protocols-for-mental-health-scim2027108733",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Paul Conti: Tools and Protocols for Mental Health",
+          "url": "/wiki/sources/guest-series-dr-paul-conti-tools-and-protocols-for-mental-health-scim2027108733/"
         }
       ],
       "updated": "2026-09-27",
@@ -78260,9 +78274,9 @@
       "url": "/wiki/concepts/intensivecareastimebuying/"
     },
     "IntentionalLivingAgency": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM9301011958 [SCIM9301011958].md",
@@ -78270,6 +78284,13 @@
           "show": "Huberman Lab",
           "title": "Tools to Bolster Your Mental Health & Confidence | Dr. Paul Conti",
           "url": "/wiki/sources/tools-to-bolster-your-mental-health-confidence-dr-paul-conti-scim9301011958/"
+        },
+        {
+          "episode_file": "SCIM2027108733 [SCIM2027108733].md",
+          "key": "guest-series-dr-paul-conti-tools-and-protocols-for-mental-health-scim2027108733",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Paul Conti: Tools and Protocols for Mental Health",
+          "url": "/wiki/sources/guest-series-dr-paul-conti-tools-and-protocols-for-mental-health-scim2027108733/"
         }
       ],
       "updated": "2026-09-12",
@@ -103345,6 +103366,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/concepts/mentalhealthhelpseekingscamrisk/"
     },
+    "MentalHealthStructureFunctionMap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2027108733 [SCIM2027108733].md",
+          "key": "guest-series-dr-paul-conti-tools-and-protocols-for-mental-health-scim2027108733",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Paul Conti: Tools and Protocols for Mental Health",
+          "url": "/wiki/sources/guest-series-dr-paul-conti-tools-and-protocols-for-mental-health-scim2027108733/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/mentalhealthstructurefunctionmap/"
+    },
     "MentalIllnessDestigmatization": {
       "episode_count": 3,
       "show_count": 3,
@@ -116223,9 +116260,9 @@
       "url": "/wiki/entities/paulbarras/"
     },
     "PaulConti": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM9301011958 [SCIM9301011958].md",
@@ -116240,6 +116277,13 @@
           "show": "Huberman Lab",
           "title": "Mental Health Toolkit: Tools to Bolster Your Mood & Mental Health",
           "url": "/wiki/sources/mental-health-toolkit-tools-to-bolster-your-mood-mental-health-scim1991900083/"
+        },
+        {
+          "episode_file": "SCIM2027108733 [SCIM2027108733].md",
+          "key": "guest-series-dr-paul-conti-tools-and-protocols-for-mental-health-scim2027108733",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Paul Conti: Tools and Protocols for Mental Health",
+          "url": "/wiki/sources/guest-series-dr-paul-conti-tools-and-protocols-for-mental-health-scim2027108733/"
         }
       ],
       "updated": "2026-09-27",
@@ -126958,9 +127002,9 @@
       "url": "/wiki/entities/redlandsdrugcase/"
     },
     "ReflectiveSelfExploration": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1991900083 [SCIM1991900083].md",
@@ -126968,6 +127012,13 @@
           "show": "Huberman Lab",
           "title": "Mental Health Toolkit: Tools to Bolster Your Mood & Mental Health",
           "url": "/wiki/sources/mental-health-toolkit-tools-to-bolster-your-mood-mental-health-scim1991900083/"
+        },
+        {
+          "episode_file": "SCIM2027108733 [SCIM2027108733].md",
+          "key": "guest-series-dr-paul-conti-tools-and-protocols-for-mental-health-scim2027108733",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Paul Conti: Tools and Protocols for Mental Health",
+          "url": "/wiki/sources/guest-series-dr-paul-conti-tools-and-protocols-for-mental-health-scim2027108733/"
         }
       ],
       "updated": "2026-09-27",

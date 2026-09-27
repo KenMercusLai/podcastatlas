@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1259
+topic_total_pages: 1260
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1198,6 +1198,9 @@ topic_concepts:
   - key: "MentalContrastingImplementationIntentions"
     title: "Mental Contrasting With Implementation Intentions"
     url: "/wiki/concepts/mentalcontrastingimplementationintentions/"
+  - key: "MentalHealthStructureFunctionMap"
+    title: "Mental Health Structure-Function Map"
+    url: "/wiki/concepts/mentalhealthstructurefunctionmap/"
   - key: "MentalizingProjection"
     title: "Mentalizing Projection / 心智化投射"
     url: "/wiki/concepts/mentalizingprojection/"
