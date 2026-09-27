@@ -23876,3 +23876,11 @@ Added source `guest-series-dr-paul-conti-how-to-build-and-maintain-healthy-relat
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | VOL.75口腔科｜爸妈洗牙吗？反向转发家族群，让他们“重回”年轻有绝招
+
+Added source `vol-75-kouqiangke-bama-xiya-ma-fanxiang-zhuanfa-jiazuqun-rang-tamen-zhonghui-nianqing-you-juezhao-loerbxipaqszz4ggchblzsnvtxo9`; created `DentalProsthesisMaintenance`, `PersistentOralLesionEscalation`, and `DentalAntithromboticMedicationCoordination`; and updated `LifecycleOralHealthPrevention`, `OlderAdultHealthcareAvoidance`, `FamilyHealthcarePersuasion`, `AnticoagulationSelfMedicationBoundary`, and the canonical index from their complete bounded source sets. Core synthesis: older-adult oral health is continuing preventive and functional care rather than inevitable decline; removable, fixed, and implant-supported restorations require ongoing maintenance; persistent or changing mucosal lesions warrant assessment without implying remote cancer diagnosis; and antithrombotic drugs should not be stopped independently before dental procedures. No settled contradiction found. Cleaning intervals, restoration choices, lesion timelines, oral-systemic claims, and peri-procedural medication decisions remain source-scoped public education. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.75口腔科｜爸妈洗牙吗？反向转发家族群，让他们“重回”年轻有绝招](sources/vol-75-kouqiangke-bama-xiya-ma-fanxiang-zhuanfa-jiazuqun-rang-tamen-zhonghui-nianqing-you-juezhao-loerbxipaqszz4ggchblzsnvtxo9.md) — 这病说来话长 episode on older-adult oral assessment, dental-prosthesis maintenance, persistent mucosal lesions, and coordinated antithrombotic management before extraction.
 - [GUEST SERIES | Dr. Paul Conti: How to Build and Maintain Healthy Relationships](sources/guest-series-dr-paul-conti-how-to-build-and-maintain-healthy-relationships-scim8219226445.md) — Huberman Lab conversation on generative compatibility, the shared “us,” mentalization, flexible mutuality, power, trauma-linked patterns, and internal-first boundaries.
 - [370. The 1973 Chilean Coup: Allende, Nixon and the CIA (Part 1)](sources/370-the-1973-chilean-coup-allende-nixon-and-the-cia-part-1-glt6405070034.md) — The Rest Is History episode on Allende's rise and reforms, U.S. intervention, economic crisis, and Chile's road toward the 1973 coup.
 - [371. The 1973 Chilean Coup: General Pinochet Seizes Power (Part 2)](sources/371-the-1973-chilean-coup-general-pinochet-seizes-power-part-2-glt3740766328.md) — The Rest Is History episode on Chile's 1973 military coup, Allende's death, Pinochet's consolidation, U.S. interference, and the escalation into state terror.
@@ -14554,6 +14555,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sacral Kingship and Political Control](concepts/SacralKingshipPoliticalControl.md) — Richard II's fusion of anointing, image, fiscal independence, obedience, and coercive authority, qualified by coalition failure.
 - [Anglo-French Dual Monarchy](concepts/AngloFrenchDualMonarchy.md) — Intended union of separate English and French kingdoms under one hereditary crown after Troyes.
 - [Lifecycle Oral Health Prevention / 全生命周期口腔预防](concepts/LifecycleOralHealthPrevention.md) — Age-sensitive framework joining daily hygiene, diet, developmental review, professional prevention, and timely restoration.
+- [Dental Prosthesis Maintenance / 义齿与种植牙维护](concepts/DentalProsthesisMaintenance.md) — Ongoing design-specific cleaning, use, symptom review, and professional maintenance for removable, fixed, and implant-supported restorations.
+- [Persistent Oral Lesion Escalation / 持续口腔黏膜异常升级就诊](concepts/PersistentOralLesionEscalation.md) — Triage boundary for fixed, non-healing, progressive, or visibly changing oral-mucosal lesions without remote diagnosis.
+- [Dental Antithrombotic Medication Coordination / 牙科操作抗栓药协调](concepts/DentalAntithromboticMedicationCoordination.md) — Coordination of dental bleeding and systemic thrombotic risk without patient-directed medication interruption.
 - [Oral-Care Product Treatment Boundary / 口腔护理产品治疗边界](concepts/OralCareProductTreatmentBoundary.md) — Boundary separating supportive hygiene products from cure, regeneration, infection-treatment, or permanent-repair claims.
 - [Dental Aesthetic Treatment Boundary / 牙齿美学治疗边界](concepts/DentalAestheticTreatmentBoundary.md) — Distinction among normal tooth color, surface stain removal, chemical bleaching, veneers, and crowns.
 - [Dental Provider Qualification Assessment / 牙医与口腔机构资质判断](concepts/DentalProviderQualificationAssessment.md) — Multi-signal evaluation of credentials, scope, cases, peer standing, setting, and treatment fit.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8455
+wiki_total_pages: 8458
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -482,6 +482,9 @@ wiki_pages:
   - key: "PersistentCloudAgents"
     title: "Persistent Cloud Agents"
     url: "/wiki/concepts/persistentcloudagents/"
+  - key: "PersistentOralLesionEscalation"
+    title: "Persistent Oral Lesion Escalation / 持续口腔黏膜异常升级就诊"
+    url: "/wiki/concepts/persistentorallesionescalation/"
   - key: "PersonDependentGovernanceFragility"
     title: "Person-Dependent Governance Fragility / 人亡政息式治理脆弱性"
     url: "/wiki/concepts/persondependentgovernancefragility/"

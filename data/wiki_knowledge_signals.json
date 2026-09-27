@@ -10749,9 +10749,9 @@
       "url": "/wiki/concepts/antiusurpationcoalitionpressure/"
     },
     "AnticoagulationSelfMedicationBoundary": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "liyNBGzpSRBbZH9gUP9Svln4adzx [liyNBGzpSRBbZH9gUP9Svln4adzx].md",
@@ -10759,9 +10759,16 @@
           "show": "这病说来话长",
           "title": "VOL.204 经济舱综合征：端午假期出行乘车乘机坐久了腿胀？鞋发紧？血管外科医生的硬核“排雷”指南",
           "url": "/wiki/sources/vol-204-jingjicang-zonghezheng-duanwu-jiaqi-chuxing-chengche-chengji-zuojiu-le-tuizhang-xie-fajin-xueguan-waike-yisheng-de-yinghe-pailei-zhinan/"
+        },
+        {
+          "episode_file": "loeRbxIpAqSzz4GgChblZsnvtxO9 [loeRbxIpAqSzz4GgChblZsnvtxO9].md",
+          "key": "vol-75-kouqiangke-bama-xiya-ma-fanxiang-zhuanfa-jiazuqun-rang-tamen-zhonghui-nianqing-you-juezhao-loerbxipaqszz4ggchblzsnvtxo9",
+          "show": "这病说来话长",
+          "title": "VOL.75口腔科｜爸妈洗牙吗？反向转发家族群，让他们“重回”年轻有绝招",
+          "url": "/wiki/sources/vol-75-kouqiangke-bama-xiya-ma-fanxiang-zhuanfa-jiazuqun-rang-tamen-zhonghui-nianqing-you-juezhao-loerbxipaqszz4ggchblzsnvtxo9/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/anticoagulationselfmedicationboundary/"
     },
     "AntihypertensiveMedicationAdherence": {
@@ -38760,6 +38767,38 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/dentalaesthetictreatmentboundary/"
     },
+    "DentalAntithromboticMedicationCoordination": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "loeRbxIpAqSzz4GgChblZsnvtxO9 [loeRbxIpAqSzz4GgChblZsnvtxO9].md",
+          "key": "vol-75-kouqiangke-bama-xiya-ma-fanxiang-zhuanfa-jiazuqun-rang-tamen-zhonghui-nianqing-you-juezhao-loerbxipaqszz4ggchblzsnvtxo9",
+          "show": "这病说来话长",
+          "title": "VOL.75口腔科｜爸妈洗牙吗？反向转发家族群，让他们“重回”年轻有绝招",
+          "url": "/wiki/sources/vol-75-kouqiangke-bama-xiya-ma-fanxiang-zhuanfa-jiazuqun-rang-tamen-zhonghui-nianqing-you-juezhao-loerbxipaqszz4ggchblzsnvtxo9/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/dentalantithromboticmedicationcoordination/"
+    },
+    "DentalProsthesisMaintenance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "loeRbxIpAqSzz4GgChblZsnvtxO9 [loeRbxIpAqSzz4GgChblZsnvtxO9].md",
+          "key": "vol-75-kouqiangke-bama-xiya-ma-fanxiang-zhuanfa-jiazuqun-rang-tamen-zhonghui-nianqing-you-juezhao-loerbxipaqszz4ggchblzsnvtxo9",
+          "show": "这病说来话长",
+          "title": "VOL.75口腔科｜爸妈洗牙吗？反向转发家族群，让他们“重回”年轻有绝招",
+          "url": "/wiki/sources/vol-75-kouqiangke-bama-xiya-ma-fanxiang-zhuanfa-jiazuqun-rang-tamen-zhonghui-nianqing-you-juezhao-loerbxipaqszz4ggchblzsnvtxo9/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/dentalprosthesismaintenance/"
+    },
     "DentalProviderQualificationAssessment": {
       "episode_count": 1,
       "show_count": 1,
@@ -52101,9 +52140,9 @@
       "url": "/wiki/concepts/familycommunicationscaffolding/"
     },
     "FamilyHealthcarePersuasion": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ltIDUCFs-3ubqtLbUkGw0vujLWBM [ltIDUCFs-3ubqtLbUkGw0vujLWBM].md",
@@ -52111,9 +52150,16 @@
           "show": "这病说来话长",
           "title": "VOL.112妈，能听我句劝去看病吗？劝母亲体检、看病、治疗有多难？医生也难但有招｜母亲节专题",
           "url": "/wiki/sources/vol-112-ma-neng-ting-wo-ju-quan-qu-kanbing-ma-quan-muqin-tijian-kanbing-zhiliao-you-duo-nan-yisheng-ye-nan-dan-you-zhao-muqinjie-zhuanti-ltiducfs-3ubqtlbukgw0vujlwbm/"
+        },
+        {
+          "episode_file": "loeRbxIpAqSzz4GgChblZsnvtxO9 [loeRbxIpAqSzz4GgChblZsnvtxO9].md",
+          "key": "vol-75-kouqiangke-bama-xiya-ma-fanxiang-zhuanfa-jiazuqun-rang-tamen-zhonghui-nianqing-you-juezhao-loerbxipaqszz4ggchblzsnvtxo9",
+          "show": "这病说来话长",
+          "title": "VOL.75口腔科｜爸妈洗牙吗？反向转发家族群，让他们“重回”年轻有绝招",
+          "url": "/wiki/sources/vol-75-kouqiangke-bama-xiya-ma-fanxiang-zhuanfa-jiazuqun-rang-tamen-zhonghui-nianqing-you-juezhao-loerbxipaqszz4ggchblzsnvtxo9/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/familyhealthcarepersuasion/"
     },
     "FamilyLaborBoundaries": {
@@ -91248,9 +91294,9 @@
       "url": "/wiki/concepts/lifetimevsmachinetime/"
     },
     "LifecycleOralHealthPrevention": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lmjeyE3oACbaWtN3OmssKuQeubeh [lmjeyE3oACbaWtN3OmssKuQeubeh].md",
@@ -91272,9 +91318,16 @@
           "show": "Huberman Lab",
           "title": "AMA #16: Sleep, Vertigo, TBI, OCD, Tips for Travelers, Gut-Brain Axis & More",
           "url": "/wiki/sources/ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965/"
+        },
+        {
+          "episode_file": "loeRbxIpAqSzz4GgChblZsnvtxO9 [loeRbxIpAqSzz4GgChblZsnvtxO9].md",
+          "key": "vol-75-kouqiangke-bama-xiya-ma-fanxiang-zhuanfa-jiazuqun-rang-tamen-zhonghui-nianqing-you-juezhao-loerbxipaqszz4ggchblzsnvtxo9",
+          "show": "这病说来话长",
+          "title": "VOL.75口腔科｜爸妈洗牙吗？反向转发家族群，让他们“重回”年轻有绝招",
+          "url": "/wiki/sources/vol-75-kouqiangke-bama-xiya-ma-fanxiang-zhuanfa-jiazuqun-rang-tamen-zhonghui-nianqing-you-juezhao-loerbxipaqszz4ggchblzsnvtxo9/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/lifecycleoralhealthprevention/"
     },
     "LifelongSexEducation": {
@@ -112915,9 +112968,9 @@
       "url": "/wiki/concepts/olderadultfallprevention/"
     },
     "OlderAdultHealthcareAvoidance": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ltIDUCFs-3ubqtLbUkGw0vujLWBM [ltIDUCFs-3ubqtLbUkGw0vujLWBM].md",
@@ -112925,9 +112978,16 @@
           "show": "这病说来话长",
           "title": "VOL.112妈，能听我句劝去看病吗？劝母亲体检、看病、治疗有多难？医生也难但有招｜母亲节专题",
           "url": "/wiki/sources/vol-112-ma-neng-ting-wo-ju-quan-qu-kanbing-ma-quan-muqin-tijian-kanbing-zhiliao-you-duo-nan-yisheng-ye-nan-dan-you-zhao-muqinjie-zhuanti-ltiducfs-3ubqtlbukgw0vujlwbm/"
+        },
+        {
+          "episode_file": "loeRbxIpAqSzz4GgChblZsnvtxO9 [loeRbxIpAqSzz4GgChblZsnvtxO9].md",
+          "key": "vol-75-kouqiangke-bama-xiya-ma-fanxiang-zhuanfa-jiazuqun-rang-tamen-zhonghui-nianqing-you-juezhao-loerbxipaqszz4ggchblzsnvtxo9",
+          "show": "这病说来话长",
+          "title": "VOL.75口腔科｜爸妈洗牙吗？反向转发家族群，让他们“重回”年轻有绝招",
+          "url": "/wiki/sources/vol-75-kouqiangke-bama-xiya-ma-fanxiang-zhuanfa-jiazuqun-rang-tamen-zhonghui-nianqing-you-juezhao-loerbxipaqszz4ggchblzsnvtxo9/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/olderadulthealthcareavoidance/"
     },
     "OlderAdultHomeCareSafety": {
@@ -117894,6 +117954,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/concepts/persistentcloudagents/"
+    },
+    "PersistentOralLesionEscalation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "loeRbxIpAqSzz4GgChblZsnvtxO9 [loeRbxIpAqSzz4GgChblZsnvtxO9].md",
+          "key": "vol-75-kouqiangke-bama-xiya-ma-fanxiang-zhuanfa-jiazuqun-rang-tamen-zhonghui-nianqing-you-juezhao-loerbxipaqszz4ggchblzsnvtxo9",
+          "show": "这病说来话长",
+          "title": "VOL.75口腔科｜爸妈洗牙吗？反向转发家族群，让他们“重回”年轻有绝招",
+          "url": "/wiki/sources/vol-75-kouqiangke-bama-xiya-ma-fanxiang-zhuanfa-jiazuqun-rang-tamen-zhonghui-nianqing-you-juezhao-loerbxipaqszz4ggchblzsnvtxo9/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/persistentorallesionescalation/"
     },
     "PersonaShieldedPoliticalPurge": {
       "episode_count": 3,

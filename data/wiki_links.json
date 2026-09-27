@@ -19611,6 +19611,14 @@
     "title": "Dental Aesthetic Treatment Boundary / 牙齿美学治疗边界",
     "url": "/wiki/concepts/dentalaesthetictreatmentboundary/"
   },
+  "DentalAntithromboticMedicationCoordination": {
+    "title": "Dental Antithrombotic Medication Coordination / 牙科操作抗栓药协调",
+    "url": "/wiki/concepts/dentalantithromboticmedicationcoordination/"
+  },
+  "DentalProsthesisMaintenance": {
+    "title": "Dental Prosthesis Maintenance / 义齿与种植牙维护",
+    "url": "/wiki/concepts/dentalprosthesismaintenance/"
+  },
   "DentalProviderQualificationAssessment": {
     "title": "Dental Provider Qualification Assessment / 牙医与口腔机构资质判断",
     "url": "/wiki/concepts/dentalproviderqualificationassessment/"
@@ -52999,6 +53007,10 @@
     "title": "Persistent Cloud Agents",
     "url": "/wiki/concepts/persistentcloudagents/"
   },
+  "PersistentOralLesionEscalation": {
+    "title": "Persistent Oral Lesion Escalation / 持续口腔黏膜异常升级就诊",
+    "url": "/wiki/concepts/persistentorallesionescalation/"
+  },
   "PersonDependentGovernanceFragility": {
     "title": "Person-Dependent Governance Fragility / 人亡政息式治理脆弱性",
     "url": "/wiki/concepts/persondependentgovernancefragility/"
@@ -85218,6 +85230,10 @@
   "vol-55-duitan-xieyin-melody-xuan-yitiao-gengman-de-lu-ranhou-shizhe-zou-de-gengyuan-lvmwwqnwmew2-s22x-4otjy2gnlw": {
     "title": "vol.55 对谈携隐Melody：选一条更慢的路 然后试着走得更远",
     "url": "/wiki/sources/vol-55-duitan-xieyin-melody-xuan-yitiao-gengman-de-lu-ranhou-shizhe-zou-de-gengyuan-lvmwwqnwmew2-s22x-4otjy2gnlw/"
+  },
+  "vol-75-kouqiangke-bama-xiya-ma-fanxiang-zhuanfa-jiazuqun-rang-tamen-zhonghui-nianqing-you-juezhao-loerbxipaqszz4ggchblzsnvtxo9": {
+    "title": "VOL.75口腔科｜爸妈洗牙吗？反向转发家族群，让他们“重回”年轻有绝招",
+    "url": "/wiki/sources/vol-75-kouqiangke-bama-xiya-ma-fanxiang-zhuanfa-jiazuqun-rang-tamen-zhonghui-nianqing-you-juezhao-loerbxipaqszz4ggchblzsnvtxo9/"
   },
   "vol-76-zhongyike-guominxing-biyan-chunwu-qiudong-tieqiubiao-ni-yinggai-zhidao-de-qiuji-yangsheng-jinji-he-cankao-llayq2sgeabfjsosctpqfbtgff6e": {
     "title": "VOL.76中医科｜过敏性鼻炎、春捂秋冻、贴秋膘 你应该知道的秋季养生禁忌和参考",
