@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "y"
-wiki_total_pages: 8488
+wiki_total_pages: 8492
 wiki_pages:
   - key: "YangtzeFishingBanRecovery"
     title: "Yangtze Fishing Ban Recovery"
@@ -44,6 +44,9 @@ wiki_pages:
   - key: "YouthEntrepreneurship"
     title: "Youth Entrepreneurship"
     url: "/wiki/concepts/youthentrepreneurship/"
+  - key: "YouthFashionCommercializationCycle"
+    title: "Youth Fashion Commercialization Cycle"
+    url: "/wiki/concepts/youthfashioncommercializationcycle/"
   - key: "YouthFootballDevelopmentSystem"
     title: "Youth Football Development System"
     url: "/wiki/concepts/youthfootballdevelopmentsystem/"

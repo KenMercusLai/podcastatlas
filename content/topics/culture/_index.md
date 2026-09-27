@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2870
+topic_total_pages: 2871
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2656,6 +2656,9 @@ topic_concepts:
   - key: "SuperheroTallTaleContinuity"
     title: "Superhero Tall-Tale Continuity"
     url: "/wiki/concepts/superherotalltalecontinuity/"
+  - key: "SwingingLondonFashionMyth"
+    title: "Swinging London Fashion Myth"
+    url: "/wiki/concepts/swinginglondonfashionmyth/"
   - key: "SyntheticPerformers"
     title: "Synthetic Performers"
     url: "/wiki/concepts/syntheticperformers/"

@@ -24012,3 +24012,11 @@ Added source `vol-70-jingshenke-you-shimian-le-zhende-ke-zhiyu-sanjia-jingshenke
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | 364. Sixties Fashion: Swinging London (Part 2)
+
+Added source `364-sixties-fashion-swinging-london-part-2-glt8438824218`; created `JeanShrimpton`, `Twiggy`, `MaryQuant`, `CarnabyStreet`, `Biba`, `SwingingLondonFashionMyth`, `YouthFashionCommercializationCycle`, `FashionLiberationExploitationParadox`, and `HippieHistoricistFashionTurn`; and updated `PostwarTeenageConsumerMarket`, `TheBeatles`, `London`, and the canonical index from their complete bounded source sets. Core synthesis: Swinging London joined real youth spending, pop-cultural influence, cheap urban space, boutique innovation, and international media demand, but its iconic imagery exaggerated everyday adoption; the same fashion system expanded experimentation while enforcing youthful and narrow gendered ideals, and later historicist and hippie styles became vulnerable to mass-market exhaustion. No settled contradiction found. Miniskirt attribution, ordinary-dress prevalence, gender and Orientalism interpretations, boutique metrics, and commercialization causality remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

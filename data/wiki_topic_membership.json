@@ -1535,6 +1535,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "364-sixties-fashion-swinging-london-part-2-glt8438824218": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "365-le-marquis-de-sade-sex-and-violence-glt8871465113": [
     {
       "key": "history",
@@ -71337,6 +71344,13 @@
     }
   ],
   "SwingSculpt": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "SwingingLondonFashionMyth": [
     {
       "key": "culture",
       "label": "Culture",

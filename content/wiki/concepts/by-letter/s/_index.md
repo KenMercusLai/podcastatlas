@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 8488
+wiki_total_pages: 8492
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2213,6 +2213,9 @@ wiki_pages:
   - key: "SwingProducerRole"
     title: "Swing Producer Role"
     url: "/wiki/concepts/swingproducerrole/"
+  - key: "SwingingLondonFashionMyth"
+    title: "Swinging London Fashion Myth"
+    url: "/wiki/concepts/swinginglondonfashionmyth/"
   - key: "SycophanticAICompanionRisk"
     title: "Sycophantic AI Companion Risk"
     url: "/wiki/concepts/sycophanticaicompanionrisk/"

@@ -16969,6 +16969,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/biasblindspot/"
     },
+    "Biba": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8438824218 [GLT8438824218].md",
+          "key": "364-sixties-fashion-swinging-london-part-2-glt8438824218",
+          "show": "The Rest Is History",
+          "title": "364. Sixties Fashion: Swinging London (Part 2)",
+          "url": "/wiki/sources/364-sixties-fashion-swinging-london-part-2-glt8438824218/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/biba/"
+    },
     "BibliographicClassificationAsStatecraft": {
       "episode_count": 1,
       "show_count": 1,
@@ -23246,6 +23262,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/carmenreinhart/"
+    },
+    "CarnabyStreet": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8438824218 [GLT8438824218].md",
+          "key": "364-sixties-fashion-swinging-london-part-2-glt8438824218",
+          "show": "The Rest Is History",
+          "title": "364. Sixties Fashion: Swinging London (Part 2)",
+          "url": "/wiki/sources/364-sixties-fashion-swinging-london-part-2-glt8438824218/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/carnabystreet/"
     },
     "CarolDweck": {
       "episode_count": 1,
@@ -53301,6 +53333,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/concepts/fascistsportpolicy/"
     },
+    "FashionLiberationExploitationParadox": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8438824218 [GLT8438824218].md",
+          "key": "364-sixties-fashion-swinging-london-part-2-glt8438824218",
+          "show": "The Rest Is History",
+          "title": "364. Sixties Fashion: Swinging London (Part 2)",
+          "url": "/wiki/sources/364-sixties-fashion-swinging-london-part-2-glt8438824218/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/fashionliberationexploitationparadox/"
+    },
     "FatFreeMassIndex": {
       "episode_count": 1,
       "show_count": 1,
@@ -71645,6 +71693,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/hippiasatheniantyrant/"
     },
+    "HippieHistoricistFashionTurn": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8438824218 [GLT8438824218].md",
+          "key": "364-sixties-fashion-swinging-london-part-2-glt8438824218",
+          "show": "The Rest Is History",
+          "title": "364. Sixties Fashion: Swinging London (Part 2)",
+          "url": "/wiki/sources/364-sixties-fashion-swinging-london-part-2-glt8438824218/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/hippiehistoricistfashionturn/"
+    },
     "HiroshimaAtomicBombing": {
       "episode_count": 1,
       "show_count": 1,
@@ -81662,6 +81726,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/entities/jeanpaulsartre/"
+    },
+    "JeanShrimpton": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8438824218 [GLT8438824218].md",
+          "key": "364-sixties-fashion-swinging-london-part-2-glt8438824218",
+          "show": "The Rest Is History",
+          "title": "364. Sixties Fashion: Swinging London (Part 2)",
+          "url": "/wiki/sources/364-sixties-fashion-swinging-london-part-2-glt8438824218/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/jeanshrimpton/"
     },
     "JeanSylvainBailly": {
       "episode_count": 2,
@@ -96156,9 +96236,9 @@
       "url": "/wiki/concepts/lollardy/"
     },
     "London": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "TRAILER： Shire folk [6aa271d1a6e9aef4cc74ef3b].md",
@@ -96166,9 +96246,16 @@
           "show": "Economist Podcasts",
           "title": "TRAILER: Shire folk",
           "url": "/wiki/sources/trailer-shire-folk-6aa271d1a6e9aef4cc74ef3b/"
+        },
+        {
+          "episode_file": "GLT8438824218 [GLT8438824218].md",
+          "key": "364-sixties-fashion-swinging-london-part-2-glt8438824218",
+          "show": "The Rest Is History",
+          "title": "364. Sixties Fashion: Swinging London (Part 2)",
+          "url": "/wiki/sources/364-sixties-fashion-swinging-london-part-2-glt8438824218/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/london/"
     },
     "LonelinessPublicHealthRisk": {
@@ -102398,6 +102485,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/marypickersgill/"
+    },
+    "MaryQuant": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8438824218 [GLT8438824218].md",
+          "key": "364-sixties-fashion-swinging-london-part-2-glt8438824218",
+          "show": "The Rest Is History",
+          "title": "364. Sixties Fashion: Swinging London (Part 2)",
+          "url": "/wiki/sources/364-sixties-fashion-swinging-london-part-2-glt8438824218/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/maryquant/"
     },
     "MaryQueenOfScots": {
       "episode_count": 4,
@@ -122138,9 +122241,9 @@
       "url": "/wiki/concepts/postwarkeynesianretreat/"
     },
     "PostwarTeenageConsumerMarket": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1663902020 [GLT1663902020].md",
@@ -122148,9 +122251,16 @@
           "show": "The Rest Is History",
           "title": "558. The Rolling Stones: Sex, Drugs and Rock ‘n’ Roll (Part 1)",
           "url": "/wiki/sources/558-the-rolling-stones-sex-drugs-and-rock-n-roll-part-1-glt1663902020/"
+        },
+        {
+          "episode_file": "GLT8438824218 [GLT8438824218].md",
+          "key": "364-sixties-fashion-swinging-london-part-2-glt8438824218",
+          "show": "The Rest Is History",
+          "title": "364. Sixties Fashion: Swinging London (Part 2)",
+          "url": "/wiki/sources/364-sixties-fashion-swinging-london-part-2-glt8438824218/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/postwarteenageconsumermarket/"
     },
     "PotentialAsGrowthRate": {
@@ -148122,6 +148232,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/entities/sweynforkbeard/"
     },
+    "SwingingLondonFashionMyth": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8438824218 [GLT8438824218].md",
+          "key": "364-sixties-fashion-swinging-london-part-2-glt8438824218",
+          "show": "The Rest Is History",
+          "title": "364. Sixties Fashion: Swinging London (Part 2)",
+          "url": "/wiki/sources/364-sixties-fashion-swinging-london-part-2-glt8438824218/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/swinginglondonfashionmyth/"
+    },
     "SwireGroup": {
       "episode_count": 1,
       "show_count": 1,
@@ -150695,9 +150821,9 @@
       "url": "/wiki/entities/theanxiousgeneration/"
     },
     "TheBeatles": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "8211241331_711602 [8211241331_711602].md",
@@ -150719,9 +150845,16 @@
           "show": "The Rest Is History",
           "title": "492. The War on Beards: From Peter the Great to John Lennon (Part 2)",
           "url": "/wiki/sources/492-the-war-on-beards-from-peter-the-great-to-john-lennon-part-2-glt5427522678/"
+        },
+        {
+          "episode_file": "GLT8438824218 [GLT8438824218].md",
+          "key": "364-sixties-fashion-swinging-london-part-2-glt8438824218",
+          "show": "The Rest Is History",
+          "title": "364. Sixties Fashion: Swinging London (Part 2)",
+          "url": "/wiki/sources/364-sixties-fashion-swinging-london-part-2-glt8438824218/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/thebeatles/"
     },
     "TheCanterburyTales": {
@@ -155185,6 +155318,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/twentyfourhistories/"
+    },
+    "Twiggy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8438824218 [GLT8438824218].md",
+          "key": "364-sixties-fashion-swinging-london-part-2-glt8438824218",
+          "show": "The Rest Is History",
+          "title": "364. Sixties Fashion: Swinging London (Part 2)",
+          "url": "/wiki/sources/364-sixties-fashion-swinging-london-part-2-glt8438824218/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/twiggy/"
     },
     "TwoKingdomsDoctrine": {
       "episode_count": 1,
@@ -171162,6 +171311,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/youngwashington/"
+    },
+    "YouthFashionCommercializationCycle": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8438824218 [GLT8438824218].md",
+          "key": "364-sixties-fashion-swinging-london-part-2-glt8438824218",
+          "show": "The Rest Is History",
+          "title": "364. Sixties Fashion: Swinging London (Part 2)",
+          "url": "/wiki/sources/364-sixties-fashion-swinging-london-part-2-glt8438824218/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/youthfashioncommercializationcycle/"
     },
     "YouthFootballPublicAccess": {
       "episode_count": 1,

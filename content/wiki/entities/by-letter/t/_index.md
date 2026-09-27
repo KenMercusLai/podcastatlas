@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 11080
+wiki_total_pages: 11085
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1109,6 +1109,9 @@ wiki_pages:
   - key: "TweetHunter"
     title: "Tweet Hunter"
     url: "/wiki/entities/tweethunter/"
+  - key: "Twiggy"
+    title: "Twiggy"
+    url: "/wiki/entities/twiggy/"
   - key: "Twilio"
     title: "Twilio"
     url: "/wiki/entities/twilio/"

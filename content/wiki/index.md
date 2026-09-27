@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [364. Sixties Fashion: Swinging London (Part 2)](sources/364-sixties-fashion-swinging-london-part-2-glt8438824218.md) — The Rest Is History episode on miniskirts, Swinging London, youth spending, boutique retail, gender politics, and the hippie fashion turn.
 - [How Risk Taking, Innovation & Artificial Intelligence Transform Human Experience | Marc Andreessen](sources/how-risk-taking-innovation-artificial-intelligence-transform-human-experience-marc-andreessen-scim7464698870.md) — Huberman Lab conversation on innovator traits, founder idea mazes, institutional resistance, defensive AI governance, nuclear-energy opportunity costs, and technology moral panics.
 - [VOL.71精神科｜关爱产后抑郁：产前一级预防 产后拒绝漠视 给予更多陪伴](sources/vol-71-jingshenke-guanai-chanhou-yiyu-chanqian-yiji-yufang-chanhou-jujue-moshi-jiyu-gengduo-peiban-loossm3a72jbbdj7tplmsidw4ovi.md) — 这病说来话长 episode on postpartum-depression recognition, antenatal prevention, practical family support, safety escalation, and pregnancy or lactation medication decisions.
 - [365. Le Marquis de Sade: Sex and Violence](sources/365-le-marquis-de-sade-sex-and-violence-glt8871465113.md) — The Rest Is History episode on Sade's abuse allegations, imprisonment, revolutionary role, anti-Christian naturalism, libertine domination, and contested modern legacy.
@@ -3031,6 +3032,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.70精神科｜又失眠了？真的可治愈！三甲精神科医生给你睡眠支招](sources/vol-70-jingshenke-you-shimian-le-zhende-ke-zhiyu-sanjia-jingshenke-yisheng-gei-ni-shuimian-zhizhao-lkfpagwnhiqlhyyz71xwefocyhf0.md) — 这病说来话长 episode on insomnia recognition, sleep-anxiety feedback, clinical measurement, individualized treatment, and cause-directed sleep care.
 
 ## Entities
+- [Jean Shrimpton](entities/JeanShrimpton.md) — British model whose 1965 Melbourne appearance became a global youth-fashion scandal.
+- [Twiggy](entities/Twiggy.md) — Working-class London model who became “the face of 66” and embodied the era's waif-like ideal.
+- [Mary Quant](entities/MaryQuant.md) — Designer-retailer associated with Bazaar, informal youth fashion, and the miniskirt.
+- [Carnaby Street](entities/CarnabyStreet.md) — London boutique district and international symbol of Swinging London.
+- [Biba](entities/Biba.md) — Barbara Hulanicki's boutique and later mass-retail fashion experiment.
 - [Deng Xiaoping](entities/DengXiaoping.md) — Revolutionary leader who joined pragmatic market opening to uncompromising Communist Party rule.
 - [Zhao Ziyang](entities/ZhaoZiyang.md) — Reform-era leader whose economic and limited political liberalization ended with his 1989 removal.
 - [Mao Zedong](entities/MaoZedong.md) — Revolutionary founder whose protected legitimacy and destructive later campaigns shaped post-Mao reform.
@@ -14129,6 +14135,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The 120 Days of Sodom](entities/The120DaysOfSodom.md) — Sade's prison-written novel of sealed, scheduled, and escalating domination.
 
 ## Concepts
+- [Swinging London Fashion Myth](concepts/SwingingLondonFashionMyth.md) — Gap between London's real cultural influence and the iconic image's limited representativeness.
+- [Youth Fashion Commercialization Cycle](concepts/YouthFashionCommercializationCycle.md) — Movement from boutique novelty through media and mass retail to declining authenticity.
+- [Fashion Liberation-Exploitation Paradox](concepts/FashionLiberationExploitationParadox.md) — Tension between fashion freedom, consumer agency, infantilization, and restrictive body ideals.
+- [Hippie Historicist Fashion Turn](concepts/HippieHistoricistFashionTurn.md) — Late-1960s reversal from space-age modernity toward historicist and non-Western references.
 - [Innovator Trait Configuration](concepts/InnovatorTraitConfiguration.md) — Qualified founder-personality heuristic joining openness, execution, norm resistance, intelligence, and stress tolerance.
 - [Founder Idea Maze](concepts/FounderIdeaMaze.md) — Detailed problem-space map combining preparation, domain depth, external testing, and adaptive course correction.
 - [Defensive AI Governance](concepts/DefensiveAIGovernance.md) — AI-enabled security, authentication, filtering, and biodefense as one layer of dual-use risk control.
