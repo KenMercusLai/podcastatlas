@@ -3007,6 +3007,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [375. Hitler and the Mitford Sisters](sources/375-hitler-and-the-mitford-sisters-glt5493256820.md) — The Rest Is History episode on Unity Mitford, Nazi access, British fascism, explicit antisemitism, aristocratic glamour, and the moral limits of frivolity.
 - [373. Oswald Mosley: Fascist Leader](sources/373-oswald-mosley-fascist-leader-glt7471576360.md) — The Rest Is History episode on Mosley's parliamentary rise, interventionist economics, fascist turn, Blackshirt spectacle, and the Olympia backlash.
 - [374. The Battle of Cable Street: Fascism Defeated](sources/374-the-battle-of-cable-street-fascism-defeated-glt3021730207.md) — The Rest Is History episode distinguishing Cable Street's successful blockade and symbolic legacy from the BUF's immediate survival, antisemitic backlash, and later ultra-appeasement.
+- [372. The Birth of British Fascism](sources/372-the-birth-of-british-fascism-glt4747738645.md) — The Rest Is History episode on Britain's domestic fascist ingredients, early organizations, parliamentary resilience, and the leadership gap before Mosley.
 
 ## Entities
 - [Vivek Murthy](entities/VivekMurthy.md) — U.S. Surgeon General connecting institutional trust and prevention with loneliness, healthcare access, food systems, and child technology safety.
@@ -14074,6 +14075,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Battle of Cable Street](entities/BattleOfCableStreet.md) — 1936 anti-fascist blockade whose successful prevention of a BUF march did not immediately end local fascist organization or violence.
 - [British Union of Fascists](entities/BritishUnionOfFascists.md) — Mosley's corporatist Blackshirt organization linking spectacle and coercion to antisemitic street politics and ultra-appeasement.
 - [William Joyce](entities/WilliamJoyce.md) — British fascist extremist and antisemite who broadcast Nazi wartime propaganda as Lord Haw-Haw.
+- [British Fascisti](entities/BritishFascisti.md) — Early anti-Bolshevik fascist organization connecting service culture, elite networks, Conservative overlap, women organizers, and street activism.
+- [Rhoda Lintorn-Orman](entities/RhodaLintornOrman.md) — British Fascisti founder whose scouting and wartime service background informed disciplined anti-Bolshevik organization.
+- [National Fascisti](entities/NationalFascisti.md) — More militant 1924 splinter within Britain's first fascist organizational wave.
+- [Victor Barker](entities/VictorBarker.md) — National Fascisti participant identified through several names and titles in the bounded source.
+- [Imperial Fascist League](entities/ImperialFascistLeague.md) — Arnold Leese's intensely antisemitic, uniformed, but politically marginal fascist organization.
+- [Arnold Leese](entities/ArnoldLeese.md) — Veterinarian, camel specialist, antisemite, and founder of the Imperial Fascist League.
 
 ## Concepts
 - [Public-Health Trust Communication](concepts/PublicHealthTrustCommunication.md) — Transparent, revisable guidance supported by institutional independence and locally trusted messengers.
@@ -22539,7 +22546,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mawali Conversion Hierarchy](concepts/MawaliConversionHierarchy.md) — Unequal incorporation of non-Arab converts through patronage, fiscal interests, and continuing social distinctions.
 - [Early Islamic Religious Formation](concepts/EarlyIslamicReligiousFormation.md) — Reciprocal development of practice, reports, law, and authority among conquerors, converts, and existing religious communities.
 
-- [British Fascism](concepts/BritishFascism.md) — Adaptable authoritarian movement joining interventionist corporatism, Blackshirt spectacle, antisemitic street politics, elite and Nazi networks, ultra-appeasement, and electoral marginality.
+- [British Fascism](concepts/BritishFascism.md) — Domestic authoritarian current spanning imperial and racial anxiety, early fragmented groups, Mosley's Blackshirts, antisemitic street politics, ultra-appeasement, and electoral marginality.
 - [Fascist Glamour and Memory](concepts/FascistGlamourAndMemory.md) — Process by which status, celebrity, wit, and sensational biography can aestheticize extremist politics without reducing responsibility.
 
 ## Syntheses

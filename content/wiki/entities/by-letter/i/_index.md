@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 11049
+wiki_total_pages: 11055
 wiki_pages:
   - key: "ILibertine"
     title: "I, Libertine"
@@ -89,6 +89,9 @@ wiki_pages:
   - key: "ImmersiveTranslate"
     title: "Immersive Translate"
     url: "/wiki/entities/immersivetranslate/"
+  - key: "ImperialFascistLeague"
+    title: "Imperial Fascist League"
+    url: "/wiki/entities/imperialfascistleague/"
   - key: "ImpulseWatch"
     title: "Impulse Watch"
     url: "/wiki/entities/impulsewatch/"

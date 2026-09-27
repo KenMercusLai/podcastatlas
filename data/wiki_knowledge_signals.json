@@ -11831,6 +11831,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/armedfollowerintegrationcost/"
     },
+    "ArnoldLeese": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4747738645 [GLT4747738645].md",
+          "key": "372-the-birth-of-british-fascism-glt4747738645",
+          "show": "The Rest Is History",
+          "title": "372. The Birth of British Fascism",
+          "url": "/wiki/sources/372-the-birth-of-british-fascism-glt4747738645/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/arnoldleese/"
+    },
     "ArsenalOne": {
       "episode_count": 1,
       "show_count": 1,
@@ -16469,9 +16485,9 @@
       "url": "/wiki/concepts/benigngynecologicalfindingtriage/"
     },
     "BenitoMussolini": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "I, robot？ AI and consciousness [6a880840b0d5e24ea40c7015].md",
@@ -16507,9 +16523,16 @@
           "show": "The Rest Is History",
           "title": "406. The Nazis in Power: Hitler’s Road to War (Part 3)",
           "url": "/wiki/sources/406-the-nazis-in-power-hitlers-road-to-war-part-3-glt6776521114/"
+        },
+        {
+          "episode_file": "GLT4747738645 [GLT4747738645].md",
+          "key": "372-the-birth-of-british-fascism-glt4747738645",
+          "show": "The Rest Is History",
+          "title": "372. The Birth of British Fascism",
+          "url": "/wiki/sources/372-the-birth-of-british-fascism-glt4747738645/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-09-27",
       "url": "/wiki/entities/benitomussolini/"
     },
     "BenjaminEidlis": {
@@ -19275,9 +19298,9 @@
       "url": "/wiki/concepts/britishelectioncampaigneffects/"
     },
     "BritishFascism": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT5493256820 [GLT5493256820].md",
@@ -19299,10 +19322,33 @@
           "show": "The Rest Is History",
           "title": "373. Oswald Mosley: Fascist Leader",
           "url": "/wiki/sources/373-oswald-mosley-fascist-leader-glt7471576360/"
+        },
+        {
+          "episode_file": "GLT4747738645 [GLT4747738645].md",
+          "key": "372-the-birth-of-british-fascism-glt4747738645",
+          "show": "The Rest Is History",
+          "title": "372. The Birth of British Fascism",
+          "url": "/wiki/sources/372-the-birth-of-british-fascism-glt4747738645/"
         }
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/britishfascism/"
+    },
+    "BritishFascisti": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4747738645 [GLT4747738645].md",
+          "key": "372-the-birth-of-british-fascism-glt4747738645",
+          "show": "The Rest Is History",
+          "title": "372. The Birth of British Fascism",
+          "url": "/wiki/sources/372-the-birth-of-british-fascism-glt4747738645/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/britishfascisti/"
     },
     "BritishForeignPolicyAmbiguity1914": {
       "episode_count": 1,
@@ -76763,6 +76809,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/imperialedictimplementationresistance/"
     },
+    "ImperialFascistLeague": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4747738645 [GLT4747738645].md",
+          "key": "372-the-birth-of-british-fascism-glt4747738645",
+          "show": "The Rest Is History",
+          "title": "372. The Birth of British Fascism",
+          "url": "/wiki/sources/372-the-birth-of-british-fascism-glt4747738645/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/imperialfascistleague/"
+    },
     "ImperialFuneraryPreservation": {
       "episode_count": 1,
       "show_count": 1,
@@ -108645,6 +108707,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/nationaldirectoremotionoutlet/"
     },
+    "NationalFascisti": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4747738645 [GLT4747738645].md",
+          "key": "372-the-birth-of-british-fascism-glt4747738645",
+          "show": "The Rest Is History",
+          "title": "372. The Birth of British Fascism",
+          "url": "/wiki/sources/372-the-birth-of-british-fascism-glt4747738645/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/nationalfascisti/"
+    },
     "NationalInstitutesOfHealth": {
       "episode_count": 3,
       "show_count": 1,
@@ -113812,9 +113890,9 @@
       "url": "/wiki/entities/osorioduqueestrada/"
     },
     "OswaldMosley": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT5493256820 [GLT5493256820].md",
@@ -113836,6 +113914,13 @@
           "show": "The Rest Is History",
           "title": "373. Oswald Mosley: Fascist Leader",
           "url": "/wiki/sources/373-oswald-mosley-fascist-leader-glt7471576360/"
+        },
+        {
+          "episode_file": "GLT4747738645 [GLT4747738645].md",
+          "key": "372-the-birth-of-british-fascism-glt4747738645",
+          "show": "The Rest Is History",
+          "title": "372. The Birth of British Fascism",
+          "url": "/wiki/sources/372-the-birth-of-british-fascism-glt4747738645/"
         }
       ],
       "updated": "2026-09-27",
@@ -129679,6 +129764,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/rhinelandremilitarization/"
+    },
+    "RhodaLintornOrman": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4747738645 [GLT4747738645].md",
+          "key": "372-the-birth-of-british-fascism-glt4747738645",
+          "show": "The Rest Is History",
+          "title": "372. The Birth of British Fascism",
+          "url": "/wiki/sources/372-the-birth-of-british-fascism-glt4747738645/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/rhodalintornorman/"
     },
     "RhodeBeauty": {
       "episode_count": 1,
@@ -156416,6 +156517,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/victimforgivenessagency/"
     },
+    "VictorBarker": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4747738645 [GLT4747738645].md",
+          "key": "372-the-birth-of-british-fascism-glt4747738645",
+          "show": "The Rest Is History",
+          "title": "372. The Birth of British Fascism",
+          "url": "/wiki/sources/372-the-birth-of-british-fascism-glt4747738645/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/victorbarker/"
+    },
     "VictorCarrion": {
       "episode_count": 1,
       "show_count": 1,
@@ -161856,9 +161973,9 @@
       "url": "/wiki/entities/williamgolding/"
     },
     "WilliamJoyce": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3021730207 [GLT3021730207].md",
@@ -161866,6 +161983,13 @@
           "show": "The Rest Is History",
           "title": "374. The Battle of Cable Street: Fascism Defeated",
           "url": "/wiki/sources/374-the-battle-of-cable-street-fascism-defeated-glt3021730207/"
+        },
+        {
+          "episode_file": "GLT4747738645 [GLT4747738645].md",
+          "key": "372-the-birth-of-british-fascism-glt4747738645",
+          "show": "The Rest Is History",
+          "title": "372. The Birth of British Fascism",
+          "url": "/wiki/sources/372-the-birth-of-british-fascism-glt4747738645/"
         }
       ],
       "updated": "2026-09-27",

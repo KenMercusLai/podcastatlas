@@ -23844,3 +23844,11 @@ Added source `efforts-challenges-in-promoting-public-health-us-surgeon-general-d
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | 372. The Birth of British Fascism
+
+Added source `372-the-birth-of-british-fascism-glt4747738645`; created `BritishFascisti`, `RhodaLintornOrman`, `NationalFascisti`, `VictorBarker`, `ImperialFascistLeague`, and `ArnoldLeese`; and updated `BritishFascism`, `OswaldMosley`, `WilliamJoyce`, `BenitoMussolini`, and the canonical index from their complete bounded source sets. Core synthesis: British fascism drew on domestic imperial, racial, antisemitic, anti-Bolshevik, militarized, and conspiratorial currents, but its first organizations remained fragmented and politically marginal before Mosley supplied credible national leadership; First World War victory and parliamentary resilience constrained the movement without proving national immunity. No settled contradiction found. Cultural nostalgia, sport, scouting, countryside attachment, environmental concern, and anti-capitalism are not treated as fascist in themselves, while crowd sizes, motives, influence claims, and broad causal explanations remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

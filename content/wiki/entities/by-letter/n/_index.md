@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 11049
+wiki_total_pages: 11055
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -140,6 +140,9 @@ wiki_pages:
   - key: "NationalEligibilityCumEntranceTest"
     title: "National Eligibility cum Entrance Test"
     url: "/wiki/entities/nationaleligibilitycumentrancetest/"
+  - key: "NationalFascisti"
+    title: "National Fascisti"
+    url: "/wiki/entities/nationalfascisti/"
   - key: "NationalFinancialCapabilityStudy"
     title: "National Financial Capability Study"
     url: "/wiki/entities/nationalfinancialcapabilitystudy/"

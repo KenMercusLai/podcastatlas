@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2077
+topic_total_pages: 2078
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -4644,6 +4644,9 @@ topic_sources:
   - key: "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008"
     title: "318: Hundred Years' War: A Game of Thrones (Part 1)"
     url: "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+  - key: "372-the-birth-of-british-fascism-glt4747738645"
+    title: "372. The Birth of British Fascism"
+    url: "/wiki/sources/372-the-birth-of-british-fascism-glt4747738645/"
   - key: "373-oswald-mosley-fascist-leader-glt7471576360"
     title: "373. Oswald Mosley: Fascist Leader"
     url: "/wiki/sources/373-oswald-mosley-fascist-leader-glt7471576360/"
