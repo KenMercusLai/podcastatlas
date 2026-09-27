@@ -23591,3 +23591,11 @@ Added source `386-the-fall-of-the-aztecs-the-city-of-gold-part-3-glt2951201852`;
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | VOL.84性教育｜“无痛人流”的骗钱套路｜硬怼性骚扰、全面性教育、正视残障人士和老人需求
+
+Added source `vol-84-xingjiaoyu-wutongrenliu-de-pianqian-taolu-yingdui-xingsaorao-quanmianxingjiaoyu-zhengshi-canzhangrenshi-he-laoren-xuqiu-lhvlv0wfx3dqv41jaat86eh7w6nd`; created `WangYimingReproductiveDoctor`, `CaiYeSexEducator`, `ConsentAndBodyBoundaryEducation`, `ContraceptionSexualHealthRiskLiteracy`, and `InclusiveSexualHealthDignity`; and updated `LifelongSexEducation`, `GynecologicalExamDignity`, and the canonical index from their complete bounded source sets. Core synthesis: comprehensive sex education joins bodies and relationships with consent, contraception, infection prevention, sexual pain, clinical dignity, child safeguarding, and inclusion across age and disability. No settled contradiction found. Product-safety heuristics, contraception and sterilization details, HPV claims, examination practices, and provider rules remain source-scoped public education rather than individualized current clinical guidance. The supplied surname 汪 is kept separate from the existing 翁一鸣 entity. The automatic `wiki/overview.md` was read for context but not manually rewritten because the existing life-course and clinical-literacy syntheses already cover the relevant domains.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

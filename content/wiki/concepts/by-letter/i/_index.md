@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 8386
+wiki_total_pages: 8389
 wiki_pages:
   - key: "IBDPatientEducationAndPeerSupport"
     title: "IBD Patient Education and Peer Support / IBD患者教育与同伴支持"
@@ -236,6 +236,9 @@ wiki_pages:
   - key: "IncidentalExposure"
     title: "Incidental Exposure / 偶然暴露"
     url: "/wiki/concepts/incidentalexposure/"
+  - key: "InclusiveSexualHealthDignity"
+    title: "Inclusive Sexual-Health Dignity / 包容性性健康尊严"
+    url: "/wiki/concepts/inclusivesexualhealthdignity/"
   - key: "IncompleteContract"
     title: "Incomplete Contract / 不完全契约"
     url: "/wiki/concepts/incompletecontract/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.84性教育｜“无痛人流”的骗钱套路｜硬怼性骚扰、全面性教育、正视残障人士和老人需求](sources/vol-84-xingjiaoyu-wutongrenliu-de-pianqian-taolu-yingdui-xingsaorao-quanmianxingjiaoyu-zhengshi-canzhangrenshi-he-laoren-xuqiu-lhvlv0wfx3dqv41jaat86eh7w6nd.md) — 这病说来话长 episode on comprehensive sex education, consent, contraception, sexual-health care, child safeguarding, and older-adult and disability inclusion.
 - [386. The Fall of the Aztecs: The City of Gold (Part 3)](sources/386-the-fall-of-the-aztecs-the-city-of-gold-part-3-glt2951201852.md) — The Rest Is History episode on Cortes's inland march, Tlaxcalan resistance and alliance, the Cholula massacre, Tenochtitlan's scale, and Moctezuma's contested welcome.
 - [VOL.85急诊｜初冬，急诊又来了一批年轻患者 刚才还好好的](sources/vol-85-jizhen-chudong-jizhen-you-lai-le-yipi-nianqing-huanzhe-gangcai-hai-haohao-de-lqq7xoemqrihmuzo5rey8rok76bp.md) — 这病说来话长 episode on emergency risk exclusion, subtle severe illness in younger adults, acute-versus-outpatient care, ICU cost pressure, and sponsor-linked insurance planning.
 - [387. The Fall of the Aztecs: Prisoners of Montezuma (Part 4)](sources/387-the-fall-of-the-aztecs-prisoners-of-montezuma-part-4-glt8017930427.md) — The Rest Is History episode on Tenochtitlan's urban order, religious encounter, contested captivity, Spanish greed, Moctezuma's disputed hostage chronology, and Narvaez's arrival.
@@ -2973,6 +2974,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [A Science-Supported Journaling Protocol to Improve Mental & Physical Health](sources/a-science-supported-journaling-protocol-to-improve-mental-physical-health-scim8054388666.md) — Huberman Lab solo episode on Pennebaker-style expressive writing, repeated trauma narration, recovery safeguards, and evidence-bounded mental, physical, and immune claims.
 
 ## Entities
+- [汪一鸣 / Wang Yiming (reproductive-medicine doctor)](entities/WangYimingReproductiveDoctor.md) — Source-scoped clinician connecting sex education with consent, contraception, pain, infection testing, qualified pregnancy care, and inclusion.
+- [蔡夜 / Cai Ye (sex educator)](entities/CaiYeSexEducator.md) — Source-scoped sex educator framing bodies, relationships, consent, prevention, clinical communication, child safeguarding, and inclusion as comprehensive education.
 - [孟医生 / Meng Doctor (emergency medicine)](entities/MengDoctorZheBing.md) — Source-scoped emergency attending explaining acute-risk exclusion, stabilization, and the limits of emergency diagnosis.
 - [邱小真 / Qiu Xiaozhen (insurance broker)](entities/QiuXiaozhenInsurance.md) — Sponsor-linked broker discussing channel differences and scenario-based medical and accident coverage planning.
 - [张宇昊 / Zhang Yuhao (head-and-neck surgeon)](entities/ZhangYuhaoHeadNeckSurgeon.md) — Shanxi Bethune Hospital clinician explaining thyroid and neck-mass assessment through imaging, pathology, anatomy, follow-up, and individualized treatment.
@@ -13983,6 +13986,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [James Pennebaker](entities/JamesPennebaker.md) — Psychologist associated with the repeated expressive-writing paradigm and research linking language, distress, health, and immune measures.
 
 ## Concepts
+- [Consent and Body-Boundary Education / 同意与身体边界教育](concepts/ConsentAndBodyBoundaryEducation.md) — Consent and safeguarding frame joining felt boundaries, explicit refusal, perpetrator and institutional responsibility, and respect for children's no.
+- [Contraception and Sexual-Health Risk Literacy / 避孕与性健康风险素养](concepts/ContraceptionSexualHealthRiskLiteracy.md) — Layered framework separating pregnancy prevention, STI-risk reduction, comfort, emergency backup, and qualified clinical care.
+- [Inclusive Sexual-Health Dignity / 包容性性健康尊严](concepts/InclusiveSexualHealthDignity.md) — Principle that age, disability, illness, or support needs do not erase sexuality, consent, privacy, health needs, or agency.
 - [Emergency-Department Risk Exclusion / 急诊危重风险排除](concepts/EmergencyDepartmentRiskExclusion.md) — Acute-care framework prioritizing rapid identification, exclusion, or stabilization of time-sensitive danger before outpatient etiological refinement.
 - [Cholula Massacre](concepts/CholulaMassacre.md) — 1519 coalition atrocity shaped by Tlaxcalan rivalry, mediated threat reporting, Spanish command, and exemplary terror.
 - [Conquest Captivity Narrative Uncertainty](concepts/ConquestCaptivityNarrativeUncertainty.md) — Framework for distinguishing hospitality, containment, armed dependency, and hostage-taking in contested conquest testimony.

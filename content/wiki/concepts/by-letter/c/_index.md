@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8386
+wiki_total_pages: 8389
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -1667,6 +1667,9 @@ wiki_pages:
   - key: "ConsensusTrainedArtBoundary"
     title: "Consensus-Trained Art Boundary"
     url: "/wiki/concepts/consensustrainedartboundary/"
+  - key: "ConsentAndBodyBoundaryEducation"
+    title: "Consent and Body-Boundary Education / 同意与身体边界教育"
+    url: "/wiki/concepts/consentandbodyboundaryeducation/"
   - key: "ConsentBasedLoanDataSharing"
     title: "Consent-Based Loan Data Sharing"
     url: "/wiki/concepts/consentbasedloandatasharing/"
@@ -1862,6 +1865,9 @@ wiki_pages:
   - key: "ContinuousLearningAgainstDisplacement"
     title: "Continuous Learning Against Displacement / 以持续学习对抗替代"
     url: "/wiki/concepts/continuouslearningagainstdisplacement/"
+  - key: "ContraceptionSexualHealthRiskLiteracy"
+    title: "Contraception and Sexual-Health Risk Literacy / 避孕与性健康风险素养"
+    url: "/wiki/concepts/contraceptionsexualhealthriskliteracy/"
   - key: "ContractTheory"
     title: "Contract Theory / 契约理论"
     url: "/wiki/concepts/contracttheory/"

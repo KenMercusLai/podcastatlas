@@ -7346,6 +7346,43 @@
       "updated": "2026-09-22",
       "url": "/wiki/entities/alfredthegreat/"
     },
+    "AlgorithmicLabeling": {
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "159.算法的六副面孔：它是如何从处理数据，变成定义我们是谁的 [lh5ng5MBvkwOrFXLq9l-cOScePC7].md",
+          "key": "159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7",
+          "show": "起朱楼宴宾客",
+          "title": "159.算法的六副面孔：它是如何从处理数据，变成定义我们是谁的",
+          "url": "/wiki/sources/159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7/"
+        },
+        {
+          "episode_file": "37.智商测试：请问你是智力婆罗门吗？ [608020679].md",
+          "key": "37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679",
+          "show": "蜜獾吃书",
+          "title": "37.智商测试：请问你是智力婆罗门吗？",
+          "url": "/wiki/sources/37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679/"
+        },
+        {
+          "episode_file": "140. 还可以的金女士：“所以人为什么要努力啊？！” [854173655].md",
+          "key": "140-haikeyi-de-jin-nvshi-suoyi-ren-weishenme-yao-nuli-a-854173655",
+          "show": "蜜獾吃书",
+          "title": "140. 还可以的金女士：“所以人为什么要努力啊？！”",
+          "url": "/wiki/sources/140-haikeyi-de-jin-nvshi-suoyi-ren-weishenme-yao-nuli-a-854173655/"
+        },
+        {
+          "episode_file": "vol.102.熬过就业冰河期的日本年轻人，去哪里寻找幸福感？｜ 串台轻刀快马 [lmpluij7RcFq49cXcyB65X3F7zfn].md",
+          "key": "vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn",
+          "show": "起朱楼宴宾客",
+          "title": "vol.102.熬过就业冰河期的日本年轻人，去哪里寻找幸福感？",
+          "url": "/wiki/sources/vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn/"
+        }
+      ],
+      "updated": "2026-08-06",
+      "url": "/wiki/concepts/algorithmiclabeling/"
+    },
     "AlgorithmicRomanticCompatibility": {
       "episode_count": 1,
       "show_count": 1,
@@ -7667,6 +7704,43 @@
       "updated": "2026-09-20",
       "url": "/wiki/concepts/alliancecontingencyhedging/"
     },
+    "AllusiveRemonstrance": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·周纪》40丨5月出生的孩子惹谁啦？ [ll9E_thidXL5cqOAcfrbz-Ygw8_t].md",
+          "key": "zizhi-tongjian-zhouji-40-5-yue-chusheng-de-haizi-re-shui-la-ll9e-thidxl5cqoacfrbz-ygw8-t",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》40丨5月出生的孩子惹谁啦？",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-40-5-yue-chusheng-de-haizi-re-shui-la-ll9e-thidxl5cqoacfrbz-ygw8-t/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》16丨孙膑庞涓恩怨纠葛 桂陵之战 [lrYHzkc1_xsVFjhvIcU8yxA9d2jr].md",
+          "key": "zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》16丨孙膑庞涓恩怨纠葛 桂陵之战",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》14丨齐威王 不鸣则已一鸣惊人 [lrS6RbiFyiqrOJxG0mCcpg7sf9Rv].md",
+          "key": "zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》14丨齐威王 不鸣则已一鸣惊人",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》10丨 以家族单位 有蚂蚁吃大象的精神（4） [lhjZ_M12PeDKfsZxYZGqTjnPsN3P].md",
+          "key": "zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-4-lhjz-m12pedkfszxyzgqtjnpsn3p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》10丨 以家族单位 有蚂蚁吃大象的精神（4）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-4-lhjz-m12pedkfszxyzgqtjnpsn3p/"
+        }
+      ],
+      "updated": "2026-08-19",
+      "url": "/wiki/concepts/allusiveremonstrance/"
+    },
     "AlphaFold": {
       "episode_count": 4,
       "show_count": 4,
@@ -7962,6 +8036,127 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/americanculturalexports/"
+    },
+    "AmericanDemocraticResilience": {
+      "episode_count": 16,
+      "show_count": 5,
+      "source_note_count": 16,
+      "sources": [
+        {
+          "episode_file": "Socialist mobility： a telling Michigan vote [6a74600ec3e1347e8b5bf216].md",
+          "key": "socialist-mobility-a-telling-michigan-vote-6a74600ec3e1347e8b5bf216",
+          "show": "Economist Podcasts",
+          "title": "Socialist mobility: a telling Michigan vote",
+          "url": "/wiki/sources/socialist-mobility-a-telling-michigan-vote-6a74600ec3e1347e8b5bf216/"
+        },
+        {
+          "episode_file": "sp.05 【刘擎x林垚】＂枪杀医保巨头＂案背后的思考（下）：分裂的美国会有宪政危机吗？ [790241978].md",
+          "key": "sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978",
+          "show": "蜜獾吃书",
+          "title": "sp.05 【刘擎x林垚】\"枪杀医保巨头\"案背后的思考（下）：分裂的美国会有宪政危机吗？",
+          "url": "/wiki/sources/sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978/"
+        },
+        {
+          "episode_file": "sp.04 【刘擎x林垚】＂枪杀医保巨头＂案背后的思考(上)：关于民粹、私刑和死刑 [790230209].md",
+          "key": "sp-04-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-shang-guanyu-mincui-sixing-he-sixing-790230209",
+          "show": "蜜獾吃书",
+          "title": "sp.04 【刘擎x林垚】“枪杀医保巨头”案背后的思考(上)：关于民粹、私刑和死刑",
+          "url": "/wiki/sources/sp-04-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-shang-guanyu-mincui-sixing-he-sixing-790230209/"
+        },
+        {
+          "episode_file": "173.弹劾：如何罢免一位总统 [963141809].md",
+          "key": "173-tanhe-ruhe-bamian-yiwei-zongtong-963141809",
+          "show": "蜜獾吃书",
+          "title": "173.弹劾：如何罢免一位总统",
+          "url": "/wiki/sources/173-tanhe-ruhe-bamian-yiwei-zongtong-963141809/"
+        },
+        {
+          "episode_file": "Gulf-co-operation counsel： what next for the region [6a4387d73fa89e3338f83da6].md",
+          "key": "gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6",
+          "show": "Economist Podcasts",
+          "title": "Gulf-co-operation counsel: what next for the region",
+          "url": "/wiki/sources/gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6/"
+        },
+        {
+          "episode_file": "Coming in Andy： Britain's prime minister-in-waiting [6a3512974a2a3be0f419384b].md",
+          "key": "coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b",
+          "show": "Economist Podcasts",
+          "title": "Coming in Andy: Britain's prime minister-in-waiting",
+          "url": "/wiki/sources/coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b/"
+        },
+        {
+          "episode_file": "Trailer： Tocqueville Road Trip [6a31522c9b6fd8dcaba7b494].md",
+          "key": "trailer-tocqueville-road-trip-6a31522c9b6fd8dcaba7b494",
+          "show": "Economist Podcasts",
+          "title": "Trailer: Tocqueville Road Trip",
+          "url": "/wiki/sources/trailer-tocqueville-road-trip-6a31522c9b6fd8dcaba7b494/"
+        },
+        {
+          "episode_file": "Trailer： Tocqueville Road Trip [6a315642780d0f7579af216c].md",
+          "key": "trailer-tocqueville-road-trip-6a315642780d0f7579af216c",
+          "show": "Economist Podcasts",
+          "title": "Trailer: Tocqueville Road Trip",
+          "url": "/wiki/sources/trailer-tocqueville-road-trip-6a315642780d0f7579af216c/"
+        },
+        {
+          "episode_file": "Trailer： Tocqueville Road Trip [6a31598d780d0f7579b04fb7].md",
+          "key": "trailer-tocqueville-road-trip-6a31598d780d0f7579b04fb7",
+          "show": "Economist Podcasts",
+          "title": "Trailer: Tocqueville Road Trip",
+          "url": "/wiki/sources/trailer-tocqueville-road-trip-6a31598d780d0f7579b04fb7/"
+        },
+        {
+          "episode_file": "Trailer： Tocqueville Road Trip [6a315920101389aa3d42d134].md",
+          "key": "trailer-tocqueville-road-trip-6a315920101389aa3d42d134",
+          "show": "Economist Podcasts",
+          "title": "Trailer: Tocqueville Road Trip",
+          "url": "/wiki/sources/trailer-tocqueville-road-trip-6a315920101389aa3d42d134/"
+        },
+        {
+          "episode_file": "Trailer： Tocqueville Road Trip [6a315813780d0f7579afb892].md",
+          "key": "trailer-tocqueville-road-trip-6a315813780d0f7579afb892",
+          "show": "Economist Podcasts",
+          "title": "Trailer: Tocqueville Road Trip",
+          "url": "/wiki/sources/trailer-tocqueville-road-trip-6a315813780d0f7579afb892/"
+        },
+        {
+          "episode_file": "The 250-year experiment： America’s birthday [6a477d9aecd123914320b4ad].md",
+          "key": "the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad",
+          "show": "Economist Podcasts",
+          "title": "The 250-year experiment: America's birthday",
+          "url": "/wiki/sources/the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad/"
+        },
+        {
+          "episode_file": "Fear-jerker： America’s AI backlash [6a3cf783d760508ebaecd9fd].md",
+          "key": "fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd",
+          "show": "Economist Podcasts",
+          "title": "Fear-jerker: America's AI backlash",
+          "url": "/wiki/sources/fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd/"
+        },
+        {
+          "episode_file": "vol.113.从几千页智库文件中，勾勒特朗普2.0执政计划背后的人、机构、思想和脉络 [lihNKnC-3oM5EVEXOcB6A6zdwueu].md",
+          "key": "vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu",
+          "show": "起朱楼宴宾客",
+          "title": "Vol.113 从几千页智库文件中，勾勒特朗普2.0执政计划背后的人、机构、思想和脉络",
+          "url": "/wiki/sources/vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_9553125b9143a79bd131d52ccba0675f_30684964 [default.mp3_ywr3ahjkcgo_9553125b9143a79bd131d52ccba0675f_30684964].md",
+          "key": "jerome-powell-and-the-test-of-fed-independence",
+          "show": "Planet Money",
+          "title": "Jerome Powell and the Test of Fed Independence",
+          "url": "/wiki/sources/jerome-powell-and-the-test-of-fed-independence/"
+        },
+        {
+          "episode_file": "tech_20260121_0121_MP_TECH_pod_128 [tech_20260121_0121_MP_TECH_pod_128].md",
+          "key": "tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Welcome to the 'infocalypse'",
+          "url": "/wiki/sources/tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-08-08",
+      "url": "/wiki/concepts/americandemocraticresilience/"
     },
     "AmericanExceptionalism": {
       "episode_count": 1,
@@ -8269,6 +8464,43 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/concepts/analgesicselfcareescalation/"
+    },
+    "AnalogMediaPreservation": {
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "Socialist mobility： a telling Michigan vote [6a74600ec3e1347e8b5bf216].md",
+          "key": "socialist-mobility-a-telling-michigan-vote-6a74600ec3e1347e8b5bf216",
+          "show": "Economist Podcasts",
+          "title": "Socialist mobility: a telling Michigan vote",
+          "url": "/wiki/sources/socialist-mobility-a-telling-michigan-vote-6a74600ec3e1347e8b5bf216/"
+        },
+        {
+          "episode_file": "EP272 谁的青春里，没有一本被传阅到卷边的杂志？ [lmWyJ84WfDGnlgsoVKihULfAIpLU].md",
+          "key": "ep272-shui-de-qingchun-li-meiyou-yi-ben-bei-chuanyue-dao-juanbian-de-zazhi-lmwyj84wfdgnlgsovkihulfailu",
+          "show": "Talk三联",
+          "title": "EP272 谁的青春里，没有一本被传阅到卷边的杂志？",
+          "url": "/wiki/sources/ep272-shui-de-qingchun-li-meiyou-yi-ben-bei-chuanyue-dao-juanbian-de-zazhi-lmwyj84wfdgnlgsovkihulfailu/"
+        },
+        {
+          "episode_file": "tech_20260325_0325_MP_TECH_pod_128 [tech_20260325_0325_MP_TECH_pod_128].md",
+          "key": "tech-20260325-0325-mp-tech-pod-128-tech-20260325-0325-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Why digital archiving is more than \"store and ignore\"",
+          "url": "/wiki/sources/tech-20260325-0325-mp-tech-pod-128-tech-20260325-0325-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260226_0226_MP_TECH_pod_128 [tech_20260226_0226_MP_TECH_pod_128].md",
+          "key": "tech-20260226-0226-mp-tech-pod-128-tech-20260226-0226-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Physical media's comeback",
+          "url": "/wiki/sources/tech-20260226-0226-mp-tech-pod-128-tech-20260226-0226-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-08-08",
+      "url": "/wiki/concepts/analogmediapreservation/"
     },
     "AnalogMoviegoingExperience": {
       "episode_count": 1,
@@ -9208,6 +9440,50 @@
       "updated": "2026-09-22",
       "url": "/wiki/concepts/angelicknowledgemediation/"
     },
+    "AngerDrivenWarDecision": {
+      "episode_count": 5,
+      "show_count": 1,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》163｜刘邦手下谋士如何被韩信内卷惨死？ [lubinu6HOIHU59kNMLixMaRYhnq7].md",
+          "key": "zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》163｜刘邦手下谋士如何被韩信内卷惨死？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》145｜军事奇才，韩信波澜壮阔的一生（2） [npGifE56ltAywW2Wt4wo-FiWo_EP].md",
+          "key": "zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-2-npgife56ltayww2wt4wo-fiwo-ep",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》145｜军事奇才，韩信波澜壮阔的一生（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-2-npgife56ltayww2wt4wo-fiwo-ep/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》140｜项羽与刘邦是真友情还是相互利用？（2） [lvdGirxmwXcCKh2loh_Yk2zzer2e].md",
+          "key": "zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》140｜项羽与刘邦是真友情还是相互利用？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》140｜项羽与刘邦是真友情还是相互利用？（1） [lmmHoq2WO3Bs6B1JOhpc0iXuf662].md",
+          "key": "zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》140｜项羽与刘邦是真友情还是相互利用？（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》51丨 楚怀王：秦小儿看舅舅如何灭了你！ [ltfkDlIvOmNvuX5xoDH2RlFQf6aC].md",
+          "key": "zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》51丨 楚怀王：秦小儿看舅舅如何灭了你！",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac/"
+        }
+      ],
+      "updated": "2026-08-23",
+      "url": "/wiki/concepts/angerdrivenwardecision/"
+    },
     "AngloFrenchDualMonarchy": {
       "episode_count": 1,
       "show_count": 1,
@@ -9407,6 +9683,57 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/concepts/animaltouchconsent/"
+    },
+    "AnimalWelfareAsPublicHealth": {
+      "episode_count": 6,
+      "show_count": 1,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "34.猫咪秘史：呵，愚蠢又可爱的人类 [601590607].md",
+          "key": "34-maomi-mishi-he-yuchun-you-keai-de-renlei-601590607",
+          "show": "蜜獾吃书",
+          "title": "34.猫咪秘史：呵，愚蠢又可爱的人类",
+          "url": "/wiki/sources/34-maomi-mishi-he-yuchun-you-keai-de-renlei-601590607/"
+        },
+        {
+          "episode_file": "146. 不爱侏罗纪世界？快来《恐龙庇护所》当饲养员！ [886472126].md",
+          "key": "146-bu-ai-zhuluoji-shijie-kuailai-konglong-bihusuo-dang-siyangyuan-886472126",
+          "show": "蜜獾吃书",
+          "title": "146. 不爱侏罗纪世界？快来《恐龙庇护所》当饲养员！",
+          "url": "/wiki/sources/146-bu-ai-zhuluoji-shijie-kuailai-konglong-bihusuo-dang-siyangyuan-886472126/"
+        },
+        {
+          "episode_file": "138.企鹅课：我在海滩上捡到一位Q老师 [842331726].md",
+          "key": "138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726",
+          "show": "蜜獾吃书",
+          "title": "138.企鹅课：我在海滩上捡到一位Q老师",
+          "url": "/wiki/sources/138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726/"
+        },
+        {
+          "episode_file": "121.极简法医鉴识手册：一切犯罪，皆有痕迹 [775064343].md",
+          "key": "121-jijian-fayi-jianshi-shouce-yiqie-fanzui-jieyou-henji-775064343",
+          "show": "蜜獾吃书",
+          "title": "121.极简法医鉴识手册：一切犯罪，皆有痕迹",
+          "url": "/wiki/sources/121-jijian-fayi-jianshi-shouce-yiqie-fanzui-jieyou-henji-775064343/"
+        },
+        {
+          "episode_file": "56.伴生：世界破破烂烂，小动物缝缝补补 [641299301].md",
+          "key": "56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301",
+          "show": "蜜獾吃书",
+          "title": "56.伴生：世界破破烂烂，小动物缝缝补补",
+          "url": "/wiki/sources/56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301/"
+        },
+        {
+          "episode_file": "176.为什么越是吃肉，越要关注动物福利？ [971057722].md",
+          "key": "176-weishenme-yueshi-chirou-yueyao-guanzhu-dongwu-fuli-971057722",
+          "show": "蜜獾吃书",
+          "title": "176.为什么越是吃肉，越要关注动物福利？",
+          "url": "/wiki/sources/176-weishenme-yueshi-chirou-yueyao-guanzhu-dongwu-fuli-971057722/"
+        }
+      ],
+      "updated": "2026-08-06",
+      "url": "/wiki/concepts/animalwelfareaspublichealth/"
     },
     "AnitaRamaswamy": {
       "episode_count": 8,
@@ -9847,6 +10174,78 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/anthropicmonopolythesis/"
     },
+    "AntiAuthoritarianEducation": {
+      "episode_count": 9,
+      "show_count": 1,
+      "source_note_count": 9,
+      "sources": [
+        {
+          "episode_file": "37.智商测试：请问你是智力婆罗门吗？ [608020679].md",
+          "key": "37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679",
+          "show": "蜜獾吃书",
+          "title": "37.智商测试：请问你是智力婆罗门吗？",
+          "url": "/wiki/sources/37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679/"
+        },
+        {
+          "episode_file": "140. 还可以的金女士：“所以人为什么要努力啊？！” [854173655].md",
+          "key": "140-haikeyi-de-jin-nvshi-suoyi-ren-weishenme-yao-nuli-a-854173655",
+          "show": "蜜獾吃书",
+          "title": "140. 还可以的金女士：“所以人为什么要努力啊？！”",
+          "url": "/wiki/sources/140-haikeyi-de-jin-nvshi-suoyi-ren-weishenme-yao-nuli-a-854173655/"
+        },
+        {
+          "episode_file": "116.不服从的艺术：分享一些实战方法，还有力量 [764416021].md",
+          "key": "116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021",
+          "show": "蜜獾吃书",
+          "title": "116.不服从的艺术：分享一些实战方法，还有力量",
+          "url": "/wiki/sources/116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021/"
+        },
+        {
+          "episode_file": "98.自卑与超越：向前看，前方有希望 [729396507].md",
+          "key": "98-zibei-yu-chaoyue-xiangqian-kan-qianfang-you-xiwang-729396507",
+          "show": "蜜獾吃书",
+          "title": "98.自卑与超越：向前看，前方有希望",
+          "url": "/wiki/sources/98-zibei-yu-chaoyue-xiangqian-kan-qianfang-you-xiwang-729396507/"
+        },
+        {
+          "episode_file": "182.抓一把风洗洗脸，滚到泥巴里去写诗！｜ 和树才聊童诗 [980330792].md",
+          "key": "182-zhua-yi-ba-feng-xi-xi-lian-gun-dao-niba-li-qu-xie-shi-he-shucai-liao-tongshi-980330792",
+          "show": "蜜獾吃书",
+          "title": "182.抓一把风洗洗脸，滚到泥巴里去写诗！｜ 和树才聊童诗",
+          "url": "/wiki/sources/182-zhua-yi-ba-feng-xi-xi-lian-gun-dao-niba-li-qu-xie-shi-he-shucai-liao-tongshi-980330792/"
+        },
+        {
+          "episode_file": "181.讨好并非你的性格，坚持这么久，辛苦了 [979027261].md",
+          "key": "181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261",
+          "show": "蜜獾吃书",
+          "title": "181.讨好并非你的性格，坚持这么久，辛苦了",
+          "url": "/wiki/sources/181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261/"
+        },
+        {
+          "episode_file": "177.小时候的书，怎么就那么好看！ [971996036].md",
+          "key": "177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036",
+          "show": "蜜獾吃书",
+          "title": "177.小时候的书，怎么就那么好看！",
+          "url": "/wiki/sources/177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036/"
+        },
+        {
+          "episode_file": "160.优秀的绵羊：请把说“不”的权利还给我 [933088014].md",
+          "key": "160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014",
+          "show": "蜜獾吃书",
+          "title": "160.优秀的绵羊：请把说“不”的权利还给我",
+          "url": "/wiki/sources/160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014/"
+        },
+        {
+          "episode_file": "23.飞马牌汽车：安全是第一位的！ [572699943].md",
+          "key": "23-feima-pai-qiche-anquan-shi-di-yi-wei-de-572699943",
+          "show": "蜜獾吃书",
+          "title": "23.飞马牌汽车：安全是第一位的！",
+          "url": "/wiki/sources/23-feima-pai-qiche-anquan-shi-di-yi-wei-de-572699943/"
+        }
+      ],
+      "updated": "2026-08-06",
+      "url": "/wiki/concepts/antiauthoritarianeducation/"
+    },
     "AntiGravity": {
       "episode_count": 1,
       "show_count": 1,
@@ -9878,6 +10277,143 @@
       ],
       "updated": "2026-09-15",
       "url": "/wiki/concepts/antihouthicoalitionfragmentation/"
+    },
+    "AntiMoneyLaundering": {
+      "episode_count": 5,
+      "show_count": 3,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "tech_20260212_0212_MP_TECH_pod_128 [tech_20260212_0212_MP_TECH_pod_128].md",
+          "key": "tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Crypto's big growth on the books and in the shadows",
+          "url": "/wiki/sources/tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "EP25 中资外资哪家强，“一劳永逸”找“钱粮”（下）Feat.钱粮胡同FM [lsHfoTcmlKQCx6HhTvBPcuQdWuhg].md",
+          "key": "ep25-zhongzi-waizi-najia-qiang-yi-lao-yong-yi-zhao-qianliang-xia-feat-qianliang-hutong-fm-lshfotcmlkqcx6hhtvbpcuqdwuhg",
+          "show": "一劳永逸",
+          "title": "EP25 中资外资哪家强：“一劳永逸”找“钱粮”（下）",
+          "url": "/wiki/sources/ep25-zhongzi-waizi-najia-qiang-yi-lao-yong-yi-zhao-qianliang-xia-feat-qianliang-hutong-fm-lshfotcmlkqcx6hhtvbpcuqdwuhg/"
+        },
+        {
+          "episode_file": "EP44 摸摸口袋，里面的钱居然是脏的？ [li-4F9d60jMeLQITUyBbIOyYFLxr].md",
+          "key": "ep44-momo-koudai-limian-de-qian-juran-shi-zang-de-li-4f9d60jmelqituybbioyyflxr",
+          "show": "一劳永逸",
+          "title": "EP44 摸摸口袋，里面的钱居然是脏的？",
+          "url": "/wiki/sources/ep44-momo-koudai-limian-de-qian-juran-shi-zang-de-li-4f9d60jmelqituybbioyyflxr/"
+        },
+        {
+          "episode_file": "EP89 海外券商大地震，跨境投资新时代 [li8YA-R5CPZ3sIFDJBy73VH9-RXS].md",
+          "key": "ep89-haiwai-quanshang-da-dizhen-kuajing-touzi-xinshidai-li8ya-r5cpz3sifdjby73vh9-rxs",
+          "show": "一劳永逸",
+          "title": "EP89 海外券商大地震，跨境投资新时代",
+          "url": "/wiki/sources/ep89-haiwai-quanshang-da-dizhen-kuajing-touzi-xinshidai-li8ya-r5cpz3sifdjby73vh9-rxs/"
+        },
+        {
+          "episode_file": "SocialRadarsPod-BrianArmstrong-Final [SocialRadarsPod-BrianArmstrong-Final].md",
+          "key": "socialradarspod-brianarmstrong-final",
+          "show": "The Social Radars",
+          "title": "Brian Armstrong on Coinbase's Origin, Crypto Regulation, FTX, and Founder Resilience",
+          "url": "/wiki/sources/socialradarspod-brianarmstrong-final/"
+        }
+      ],
+      "updated": "2026-07-12",
+      "url": "/wiki/concepts/antimoneylaundering/"
+    },
+    "AntiQinCoalitionFragmentation": {
+      "episode_count": 12,
+      "show_count": 1,
+      "source_note_count": 12,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·秦纪》134｜你不知道的“破釜沉舟”版本 [ltnry1fva2HZPLW4ft8NRFpOIoLW].md",
+          "key": "zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》134｜你不知道的“破釜沉舟”版本",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》133｜宋义斩项羽，为何被反杀？ [lmS7NoyRM5Omedv77gQFHJEu53ZX].md",
+          "key": "zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》133｜宋义斩项羽，为何被反杀？",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》132｜5万完爆40万，项羽此战封神 [lk87NB3FSKG5ZH6fcGPTyPIXHZUw].md",
+          "key": "zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》132｜5万完爆40万，项羽此战封神",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》130-3｜为何立牧童为楚王，里面大有文章 [lmcuvRXEr_CoU6gmlpPQwHb3n4vZ].md",
+          "key": "zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》130-3｜为何立牧童为楚王，里面大有文章",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》130-2｜历史记录首次屠城！ [lm4kuZdpnqN_HIcYUVVB4P2wdUDm].md",
+          "key": "zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》130-2｜历史记录首次屠城！",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》130-1｜怪老头圯桥三耍张良 传授神书 [lqwjO13ZzfGTNdpAjzPUVrb2h4l2].md",
+          "key": "zizhi-tongjian-qinji-130-1-guailaotou-yiqiao-san-shua-zhangliang-chuanshou-shenshu-lqwjo13zzfgtndpajzpuvrb2h4l2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》130-1｜怪老头圯桥三耍张良 传授神书",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-130-1-guailaotou-yiqiao-san-shua-zhangliang-chuanshou-shenshu-lqwjo13zzfgtndpajzpuvrb2h4l2/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》129-4｜旧权贵张良如何在刘邦手下安身 [lp6qWG3mA5hDY15g4bOX7Pe23JAV].md",
+          "key": "zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》129-4｜旧权贵张良如何在刘邦手下安身",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-129-4-jiuquangui-zhangliang-ruhe-zai-liubang-shouxia-anshen-lp6qwg3ma5hdy15g4box7pe23jav/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》129-3｜陈胜之死 为什么得了民心寒了人心 [lnx4zS-vSi3zEoIxNQsKkpeXmR3_].md",
+          "key": "zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》129-3｜陈胜之死 为什么得了民心寒了人心",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-129-3-chensheng-zhisi-weishenme-dele-minxin-hanle-renxin-lnx4zs-vsi3zeoixnqskkpexmr3/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》129-2｜历史上喝酒能误多大事？转给酒鬼老公看这集 [lvzXpoxCldwdRR66BWeJD_bGa8dP].md",
+          "key": "zizhi-tongjian-qinji-129-2-lishishang-hejiu-neng-wu-duo-da-shi-zhuan-gei-jiugui-laogong-kan-zhe-ji-lvzxpoxclwdrr66bwejd-bga8dp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》129-2｜历史上喝酒能误多大事？转给酒鬼老公看这集",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-129-2-lishishang-hejiu-neng-wu-duo-da-shi-zhuan-gei-jiugui-laogong-kan-zhe-ji-lvzxpoxclwdrr66bwejd-bga8dp/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》129-1｜揭秘吴广被灭口的历史真相 [lk1bKhqKWF9UPBbJ08pJKn8cSTyp].md",
+          "key": "zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》129-1｜揭秘吴广被灭口的历史真相",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》128-8｜一名赵国炊事兵逆袭成为外交大臣 [lhFWK-hjGe5IuQeT6aStMBClHYrI].md",
+          "key": "zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》128-8｜一名赵国炊事兵逆袭成为外交大臣",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-128-8-yi-ming-zhaoguo-chuishibing-nixi-chengwei-waijiao-dachen-lhfwk-hjge5iuqet6astmbclhyri/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》128-5｜我有证据咱们不能说秦二世啥也不是 [ljUOmE_XEA6SJv4HHZmRr0b0-1Hg].md",
+          "key": "zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》128-5｜我有证据咱们不能说秦二世啥也不是",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg/"
+        }
+      ],
+      "updated": "2026-08-22",
+      "url": "/wiki/concepts/antiqincoalitionfragmentation/"
     },
     "AntiThesisWriting": {
       "episode_count": 1,
@@ -10389,6 +10925,43 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/concepts/appareloemverticalintegration/"
+    },
+    "AppeasementLogic": {
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·秦纪》120-1｜谁是皇帝中的妈宝男？ [lhw8Vsj6TA6RJDkugCvfohAqqxC0].md",
+          "key": "zizhi-tongjian-qinji-120-1-shui-shi-huangdi-zhong-de-mabaonan-lhw8vsj6ta6rjdkugcvfohaqqxc0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》120-1｜谁是皇帝中的妈宝男？",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-120-1-shui-shi-huangdi-zhong-de-mabaonan-lhw8vsj6ta6rjdkugcvfohaqqxc0/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》119-3｜历史上第一位真正意义上“垂帘听政”太后 [liQ9D3ITmBaR00ij43ZZed-Mulul].md",
+          "key": "zizhi-tongjian-qinji-119-3-lishishang-di-yi-wei-zhenzheng-yiyishang-chuilian-tingzheng-taihou-liq9d3itmbar00ij43zzed-mulul",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》119-3｜历史上第一位真正意义上“垂帘听政”太后",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-119-3-lishishang-di-yi-wei-zhenzheng-yiyishang-chuilian-tingzheng-taihou-liq9d3itmbar00ij43zzed-mulul/"
+        },
+        {
+          "episode_file": "139.从《昨日的世界》到如今的欧洲：美好年代Belle époque，它还能回来吗？ [ltvSGOV8hT9_-l7YP9QaMdgJMYrf].md",
+          "key": "139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf",
+          "show": "起朱楼宴宾客",
+          "title": "139.从《昨日的世界》到如今的欧洲：美好年代Belle époque，它还能回来吗？",
+          "url": "/wiki/sources/139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf/"
+        },
+        {
+          "episode_file": "133. IBM与纳粹：为什么普通人不应赞美鸡贼主义 [815684110].md",
+          "key": "133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110",
+          "show": "蜜獾吃书",
+          "title": "133. IBM与纳粹：为什么普通人不应赞美鸡贼主义",
+          "url": "/wiki/sources/133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110/"
+        }
+      ],
+      "updated": "2026-08-22",
+      "url": "/wiki/concepts/appeasementlogic/"
     },
     "AppetiteHormoneRegulation": {
       "episode_count": 3,
@@ -19350,6 +19923,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/caiyanglatehan/"
+    },
+    "CaiYeSexEducator": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lhvLv0Wfx3dqV41jaAT86Eh7W6nd [lhvLv0Wfx3dqV41jaAT86Eh7W6nd].md",
+          "key": "vol-84-xingjiaoyu-wutongrenliu-de-pianqian-taolu-yingdui-xingsaorao-quanmianxingjiaoyu-zhengshi-canzhangrenshi-he-laoren-xuqiu-lhvlv0wfx3dqv41jaat86eh7w6nd",
+          "show": "这病说来话长",
+          "title": "VOL.84性教育｜“无痛人流”的骗钱套路｜硬怼性骚扰、全面性教育、正视残障人士和老人需求",
+          "url": "/wiki/sources/vol-84-xingjiaoyu-wutongrenliu-de-pianqian-taolu-yingdui-xingsaorao-quanmianxingjiaoyu-zhengshi-canzhangrenshi-he-laoren-xuqiu-lhvlv0wfx3dqv41jaat86eh7w6nd/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/caiyesexeducator/"
     },
     "CainParsons": {
       "episode_count": 1,
@@ -30171,6 +30760,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/consciencethroughduty/"
     },
+    "ConsentAndBodyBoundaryEducation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lhvLv0Wfx3dqV41jaAT86Eh7W6nd [lhvLv0Wfx3dqV41jaAT86Eh7W6nd].md",
+          "key": "vol-84-xingjiaoyu-wutongrenliu-de-pianqian-taolu-yingdui-xingsaorao-quanmianxingjiaoyu-zhengshi-canzhangrenshi-he-laoren-xuqiu-lhvlv0wfx3dqv41jaat86eh7w6nd",
+          "show": "这病说来话长",
+          "title": "VOL.84性教育｜“无痛人流”的骗钱套路｜硬怼性骚扰、全面性教育、正视残障人士和老人需求",
+          "url": "/wiki/sources/vol-84-xingjiaoyu-wutongrenliu-de-pianqian-taolu-yingdui-xingsaorao-quanmianxingjiaoyu-zhengshi-canzhangrenshi-he-laoren-xuqiu-lhvlv0wfx3dqv41jaat86eh7w6nd/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/consentandbodyboundaryeducation/"
+    },
     "ConsentBasedTheatricalDeception": {
       "episode_count": 1,
       "show_count": 1,
@@ -30915,6 +31520,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/continuousglucosemonitoring/"
+    },
+    "ContraceptionSexualHealthRiskLiteracy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lhvLv0Wfx3dqV41jaAT86Eh7W6nd [lhvLv0Wfx3dqV41jaAT86Eh7W6nd].md",
+          "key": "vol-84-xingjiaoyu-wutongrenliu-de-pianqian-taolu-yingdui-xingsaorao-quanmianxingjiaoyu-zhengshi-canzhangrenshi-he-laoren-xuqiu-lhvlv0wfx3dqv41jaat86eh7w6nd",
+          "show": "这病说来话长",
+          "title": "VOL.84性教育｜“无痛人流”的骗钱套路｜硬怼性骚扰、全面性教育、正视残障人士和老人需求",
+          "url": "/wiki/sources/vol-84-xingjiaoyu-wutongrenliu-de-pianqian-taolu-yingdui-xingsaorao-quanmianxingjiaoyu-zhengshi-canzhangrenshi-he-laoren-xuqiu-lhvlv0wfx3dqv41jaat86eh7w6nd/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/contraceptionsexualhealthriskliteracy/"
     },
     "ContrailClimateMitigation": {
       "episode_count": 1,
@@ -64405,6 +65026,29 @@
       "updated": "2026-09-24",
       "url": "/wiki/entities/gyirongport/"
     },
+    "GynecologicalExamDignity": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "EP254 游晓颖x文淇x杜素娟：女性这一生，都在反复学习许可自己 [lm-w7rYj4ZAY6VLDsrkADohJ997d].md",
+          "key": "ep254-you-xiaoying-x-wenqi-x-du-sujuan-nvxing-zhe-yisheng-dou-zai-fanfu-xuexi-xuke-ziji-lm-w7ryj4zay6vldsrkadohj997d",
+          "show": "Talk三联",
+          "title": "EP254 游晓颖x文淇x杜素娟：女性这一生，都在反复学习许可自己",
+          "url": "/wiki/sources/ep254-you-xiaoying-x-wenqi-x-du-sujuan-nvxing-zhe-yisheng-dou-zai-fanfu-xuexi-xuke-ziji-lm-w7ryj4zay6vldsrkadohj997d/"
+        },
+        {
+          "episode_file": "lhvLv0Wfx3dqV41jaAT86Eh7W6nd [lhvLv0Wfx3dqV41jaAT86Eh7W6nd].md",
+          "key": "vol-84-xingjiaoyu-wutongrenliu-de-pianqian-taolu-yingdui-xingsaorao-quanmianxingjiaoyu-zhengshi-canzhangrenshi-he-laoren-xuqiu-lhvlv0wfx3dqv41jaat86eh7w6nd",
+          "show": "这病说来话长",
+          "title": "VOL.84性教育｜“无痛人流”的骗钱套路｜硬怼性骚扰、全面性教育、正视残障人士和老人需求",
+          "url": "/wiki/sources/vol-84-xingjiaoyu-wutongrenliu-de-pianqian-taolu-yingdui-xingsaorao-quanmianxingjiaoyu-zhengshi-canzhangrenshi-he-laoren-xuqiu-lhvlv0wfx3dqv41jaat86eh7w6nd/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/gynecologicalexamdignity/"
+    },
     "H1BVisaCoalitionFaultLine": {
       "episode_count": 4,
       "show_count": 3,
@@ -75191,6 +75835,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/concepts/incentivecompatibleaisafety/"
+    },
+    "InclusiveSexualHealthDignity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lhvLv0Wfx3dqV41jaAT86Eh7W6nd [lhvLv0Wfx3dqV41jaAT86Eh7W6nd].md",
+          "key": "vol-84-xingjiaoyu-wutongrenliu-de-pianqian-taolu-yingdui-xingsaorao-quanmianxingjiaoyu-zhengshi-canzhangrenshi-he-laoren-xuqiu-lhvlv0wfx3dqv41jaat86eh7w6nd",
+          "show": "这病说来话长",
+          "title": "VOL.84性教育｜“无痛人流”的骗钱套路｜硬怼性骚扰、全面性教育、正视残障人士和老人需求",
+          "url": "/wiki/sources/vol-84-xingjiaoyu-wutongrenliu-de-pianqian-taolu-yingdui-xingsaorao-quanmianxingjiaoyu-zhengshi-canzhangrenshi-he-laoren-xuqiu-lhvlv0wfx3dqv41jaat86eh7w6nd/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/inclusivesexualhealthdignity/"
     },
     "IncreasingStovesDeception": {
       "episode_count": 1,
@@ -88791,9 +89451,9 @@
       "url": "/wiki/concepts/lifecycleoralhealthprevention/"
     },
     "LifelongSexEducation": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lmQ6ET15-mLUqYUUav7Z4jpx4hcb [lmQ6ET15-mLUqYUUav7Z4jpx4hcb].md",
@@ -88808,9 +89468,16 @@
           "show": "这病说来话长",
           "title": "VOL.115冇满分父母，你做60分已不易 13位医生10学科出招身心性健康教育攻略｜儿童节专题",
           "url": "/wiki/sources/vol-115-mao-manfen-fumu-ni-zuo-60-fen-yi-buyi-13-wei-yisheng-10-xueke-chuzhao-shenxinxing-jiankang-jiaoyu-gonglue-ertongjie-zhuanti-ljlyg0kuqvuj2r89k6o5hhuefjt9/"
+        },
+        {
+          "episode_file": "lhvLv0Wfx3dqV41jaAT86Eh7W6nd [lhvLv0Wfx3dqV41jaAT86Eh7W6nd].md",
+          "key": "vol-84-xingjiaoyu-wutongrenliu-de-pianqian-taolu-yingdui-xingsaorao-quanmianxingjiaoyu-zhengshi-canzhangrenshi-he-laoren-xuqiu-lhvlv0wfx3dqv41jaat86eh7w6nd",
+          "show": "这病说来话长",
+          "title": "VOL.84性教育｜“无痛人流”的骗钱套路｜硬怼性骚扰、全面性教育、正视残障人士和老人需求",
+          "url": "/wiki/sources/vol-84-xingjiaoyu-wutongrenliu-de-pianqian-taolu-yingdui-xingsaorao-quanmianxingjiaoyu-zhengshi-canzhangrenshi-he-laoren-xuqiu-lhvlv0wfx3dqv41jaat86eh7w6nd/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/lifelongsexeducation/"
     },
     "LifestyleWeightManagement": {
@@ -156003,6 +156670,22 @@
       ],
       "updated": "2026-09-15",
       "url": "/wiki/entities/wangyibo/"
+    },
+    "WangYimingReproductiveDoctor": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lhvLv0Wfx3dqV41jaAT86Eh7W6nd [lhvLv0Wfx3dqV41jaAT86Eh7W6nd].md",
+          "key": "vol-84-xingjiaoyu-wutongrenliu-de-pianqian-taolu-yingdui-xingsaorao-quanmianxingjiaoyu-zhengshi-canzhangrenshi-he-laoren-xuqiu-lhvlv0wfx3dqv41jaat86eh7w6nd",
+          "show": "这病说来话长",
+          "title": "VOL.84性教育｜“无痛人流”的骗钱套路｜硬怼性骚扰、全面性教育、正视残障人士和老人需求",
+          "url": "/wiki/sources/vol-84-xingjiaoyu-wutongrenliu-de-pianqian-taolu-yingdui-xingsaorao-quanmianxingjiaoyu-zhengshi-canzhangrenshi-he-laoren-xuqiu-lhvlv0wfx3dqv41jaat86eh7w6nd/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/wangyimingreproductivedoctor/"
     },
     "WangYinWesternHan": {
       "episode_count": 4,

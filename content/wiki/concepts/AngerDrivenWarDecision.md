@@ -2,41 +2,62 @@
 title: "Anger-Driven War Decision / 因怒兴师"
 type: concept
 tags: [warfare, governance, leadership, strategy, pre-qin-history]
-sources: [zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7, zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-2-npgife56ltayww2wt4wo-fiwo-ep, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662, zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac]
+sources:
+  - zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7
+  - zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-2-npgife56ltayww2wt4wo-fiwo-ep
+  - zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e
+  - zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662
+  - zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac
 last_updated: 2026-08-23
+knowledge_schema: synthesis-v1
 ---
 
 # Anger-Driven War Decision / 因怒兴师
 
-Anger-driven war decision / 因怒兴师 is the governance failure [[zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac]] extracts from [[ChuHuaiwang|楚怀王]]'s response to [[ZhangYiStrategist|张仪]]'s deception. After [[ChuState|楚国]] has already broken with [[QiState|齐国]] and received only six li instead of the promised six hundred li of [[Shangyu|商於]], Chu Huaiwang turns humiliation into an attack on [[QinState|秦国]].
+## Definition
+Anger-driven war decision is the substitution of grievance repair for a defensible political aim and workable military plan. A leader can have a genuine grievance; the failure is letting humiliation determine the timing, target, and risk of force instead of asking what attainable interest the action serves.
 
-The concept is not simply "being angry." The failure is that anger replaces objective selection, sequencing, and recovery strategy. After [[DanyangBattle|丹阳之战]], Chu has just lost [[Hanzhong|汉中]], but Chu Huaiwang keeps aiming at the imagined Shangyu compensation rather than the concrete lost region. The second campaign then pushes through [[Wuguan|武关]] toward [[LantianBattle|蓝田之战]], where deep advance, supply strain, and [[HanState|韩国]]-[[WeiState|魏国]] pressure force retreat.
-
-The episode uses [[SunziBingfa|《孙子兵法》]] to state the rule: rulers should not raise armies from anger, and generals should not fight from resentment. The reason is irreversibility. Anger can subside, but dead soldiers, lost cities, and broken states cannot simply be restored.
-
-[[zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662|Hanji 140 part 1]] adds [[XiangYu|项羽]]'s pre-[[HongmenYan|鸿门宴]] decision as a narrower command version. After learning that [[LiuBang|刘邦]] has entered [[GuanzhongRegion|关中]] first, sealed the pass, and allegedly plans to rule there, Xiang Yu's repeated anger produces an immediate plan to attack. The host's criticism is that Xiang Yu thinks about taking back the object of dispute before thinking through political settlement or post-attack handling.
-
-[[zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e|Hanji 140 part 2]] adds the temporary interruption of that failure mode. [[XiangBo|项伯]] returns from [[Bashang|霸上]] and moves Xiang Yu out of the pure anger track by invoking family authority, Liu Bang's prior merit, and "义." The attack order is cancelled, but the underlying risk remains because the source presents Xiang Yu as easily swung by emotional frames rather than as someone who has solved the settlement problem.
-
-[[zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-2-npgife56ltayww2wt4wo-fiwo-ep|Hanji 145 part 2]] brings the same [[SunziBingfa|《孙子兵法》]] warning into [[HanXin|韩信]]'s early biography. Instead of using the principle to criticize a ruler's campaign, the episode uses it to explain why a future general might refuse a street-level fight: anger can pass, but a ruined body, lost opportunity, or irreversible death cannot be restored. The concept therefore also covers the smaller action threshold before war, where the question is whether a provocation deserves any response at all.
-
-[[zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7|Hanji 163]] adds [[CaoJiu|曹咎]] as a battlefield version of the same pattern. Xiang Yu orders him to hold [[Chenggao|成皋]] without fighting, but repeated Han insults draw him out through the east gate and across [[SishuiChuHan|汜水]]. Liu Bang's army attacks while Chu is mid-crossing, so anger transforms a defensive assignment into the loss of Chenggao and [[Aocang|敖仓]].
+## Current Synthesis
+The accounts describe different thresholds: [[ChuHuaiwang|Chu Huaiwang]]'s state-level escalation after deception, [[XiangYu|Xiang Yu]]'s pre-[[HongmenYan|Hongmen]] attack order amid rival claims, and [[CaoJiu|Cao Jiu]]'s defiance of a defensive command under taunts. A mediator can interrupt an order, while refusal to fight over an insult supplies a personal-scale analogy; neither is proof of a durable settlement. The source's [[SunziBingfa|Sunzi]] warning concerns irreversible losses after transient rage.
 
 ## Key Claims
-- A leader can be legitimately wronged and still choose a strategically destructive response.
-- Anger becomes a state-level failure when it changes the war aim from recoverable interest to personal humiliation repair.
-- Post-error strategy should first limit exposure; it should not spend national resources to punish the deceiver before restoring leverage.
-- The most dangerous moment is often after the first loss, when sunk humiliation makes the ruler double down.
-- Operational facts still matter under emotional decisions: supply lines, rear threats, and third-party opportunism punish rage-war quickly.
-- [[CourtFeedbackCollapse|君臣反馈失灵]] and anger-driven war reinforce each other because rejected warnings remove the cooling mechanism before force is used.
-- Hanji 140 part 1 adds that anger-driven decision-making can happen before a formal war campaign: a commander may move straight from wounded entitlement and hostile reports to attack planning without settlement design.
-- Hanji 140 part 2 adds that anger can be interrupted by a trusted mediator, but interruption is not the same as strategic design; the decision remains vulnerable to whoever frames the next emotional scene.
-- Hanji 145 part 2 adds the inverse discipline: a person with future-scale aims should not let a present insult convert into action unless the action serves real advantage.
+- A real injury does not make retaliation strategically sound when the war aim displaces recoverable interests.
+- After an initial defeat, fixing on humiliation can compound losses by ignoring warning voices, supply, and rear threats.
+- Before an attack, anger can bypass a demand-and-refusal sequence, public justification, and settlement design.
+- Battlefield insults can overturn a sound defensive assignment and expose an army during movement.
+- Interest-based restraint and trusted mediation can interrupt escalation, but a cancelled assault is not itself a strategy.
 
-## Connections
-- [[ChuHuaiwang|楚怀王]], [[ChenZhenWarringStates|陈枕]], and [[QuYuan|屈原]] - ruler, warning adviser, and weakened anti-Qin court voice.
-- [[ZhangYiStrategist|张仪]], [[Shangyu|商於]], and [[UnverifiedTerritorialPromiseTrap|未验地先断交陷阱]] - deception that triggers the emotional response.
-- [[DanyangBattle|丹阳之战]], [[QuGai|屈匄]], [[Hanzhong|汉中]], [[Wuguan|武关]], and [[LantianBattle|蓝田之战]] - campaign path and consequences.
-- [[SunziBingfa|《孙子兵法》]], [[ForcedMarchOperationalRisk|急行军作战风险]], and [[QinEastwardPressure|秦国东进压力]] - textual, operational, and strategic-pressure frames.
-- [[zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662|Hanji 140 part 1]], [[zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e|Hanji 140 part 2]], [[XiangYu|项羽]], [[LiuBang|刘邦]], [[CaoWushang|曹无伤]], [[XiangBo|项伯]], [[GuanzhongRegion|关中]], and [[HongmenYan|鸿门宴]] - leak-driven attack decision and elder-mediated pause before Hongmen.
-- [[zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-2-npgife56ltayww2wt4wo-fiwo-ep|Hanji 145 part 2]], [[HanXin|韩信]], and [[GreatCourageUnderHumiliation|忍辱大勇]] - personal-scale refusal to let anger choose action.
+## Evidence
+### Claim 1 — a wrong suffered and an aim mischosen
+- [[ZhangYiStrategist|Zhang Yi]] promised [[ChuState|Chu]] six hundred li of [[Shangyu|Shangyu]] if it broke with [[QiState|Qi]], then offered only six li. The account portrays [[ChuHuaiwang|Chu Huaiwang]]'s decision to attack [[QinState|Qin]] as a response to both the deceit and his humiliation. The deception was real in the episode's account; the campaign objective nevertheless needed an independent assessment of its costs and attainable result. The invoked [[SunziBingfa|Sunzi]] rule—do not raise troops in anger—warns that rage passes while dead soldiers and ruined states cannot be restored. [[zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac]]
+
+### Claim 2 — warnings, second campaign, and operational exposure
+- The account says Zhang Yi had won favor among Chu ministers and palace figures, weakening [[ChenZhenWarringStates|Chen Zhen]]'s warning; it also says his slander helped displace the anti-Qin voice [[QuYuan|Qu Yuan]]. This [[CourtFeedbackCollapse]] is a proposed mechanism for why the court had little cooling capacity, not proof that either adviser could certainly have prevented war. At [[DanyangBattle|Danyang]], the source reports the death of eighty thousand Chu armored troops, the capture of commander [[QuGai|Qu Gai]] and other nobles, and the loss of [[Hanzhong]]. Those figures are the episode's narration, not independently verified totals. [[zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac]]
+- Instead of prioritizing newly lost Hanzhong, Chu Huaiwang mobilized again for the originally promised Shangyu. The account describes a Qin retreat through [[Wuguan]] that drew Chu deep toward [[LantianBattle|Lantian]]; stretched supply and [[HanState|Han]] and [[WeiState|Wei]] pressure toward Chu's rear forced withdrawal and territorial concessions. Retaking the disputed promise was not the same as restoring lost leverage. [[zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac]]
+
+### Claim 3 — the pre-Hongmen political sequence
+- [[LiuBang|Liu Bang]] entered [[GuanzhongRegion|Guanzhong]] first and sealed the passes; [[CaoWushang|Cao Wushang]] reported that he planned to rule there and control the former Qin treasure. Xiang Yu's anger and decision to attack before [[HongmenYan|Hongmen]] arose within a genuine rivalry, not from an invented offense. The host credits Fan Zeng with recognizing Liu Bang's threat but faults the proposed assault for lacking a public demand to open the pass, a refusal that could justify force, and a plan for handling Liu Bang and the territory afterward. [[zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662]]
+
+### Claim 4 — taunts overturn an existing defensive order
+- Xiang Yu told [[CaoJiu|Cao Jiu]] to hold [[Chenggao]] and avoid battle. Repeated Han insults drew Cao Jiu out of the east gate and across [[SishuiChuHan|Sishui]]; Liu Bang's forces struck Chu mid-crossing. The source records Cao Jiu's death and the loss of Chenggao and the [[Aocang]] grain hub, further worsening Chu's supply position. This is not a new ruler's declaration of war but a tactical version of provocation overriding a workable objective. [[zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7]]
+
+### Claim 5 — interruption is not settlement
+- At [[Bashang]], [[XiangBo|Xiang Bo]]'s personal debt to Zhang Liang opened a warning channel to Liu Bang. Liu Bang appealed to Xiang Bo's elder status, offered a loyalist account of the pass closure, and sought a meeting; Xiang Bo returned and invoked kinship, Liu Bang's earlier merit, and the charge that attacking him would be unjust. Xiang Yu cancelled the next-morning assault, yet the source depicts susceptibility to a different emotional framing rather than resolution of the rival claims. [[zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e]]
+- The [[HanXin|Han Xin]] biography applies the Sunzi rule of moving when action serves an interest and stopping when it does not to his refusal of a street-level fight under humiliation. His preservation of future opportunity is an analogy for the action threshold, not evidence that he made this war decision. [[zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-2-npgife56ltayww2wt4wo-fiwo-ep]]
+
+## Counterevidence & Qualifications
+- Xiang Yu's claim in Guanzhong was contested and Fan Zeng saw a plausible threat; the host's objection concerns inadequate public and post-attack sequencing, not a proof that force against Liu Bang would always be irrational. Liu Bang's explanation to Xiang Bo was expedient, and Xiang Bo's factional intervention did not settle the dispute. [[zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662]] [[zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e]]
+- The Chu campaign sequence, casualty figure, and adviser-isolation mechanism are source-level narration and interpretation. [[QinEastwardPressure]] is an adjacent strategic backdrop to Qin's campaigns, not independent evidence that Chu's particular attack was caused by that pressure. [[zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac]]
+- Han Xin's humiliation story illustrates individual restraint, not a recorded campaign choice; the host's suggestions of royal descent and inherited military training are conjecture and do not establish why he refused the fight. [[zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-2-npgife56ltayww2wt4wo-fiwo-ep]]
+
+## What Changed
+- Separated a ruler's escalation, a pre-attack political sequence, and a subordinate's breach of a defensive order.
+- Restored the Chu court's weakened warning channel, Danyang losses, second-campaign objective, and logistical/rear exposure without treating narrated figures as independently verified.
+- Distinguished a cancelled assault and a personal restraint analogy from lasting strategic resolution.
+
+## Related Concepts
+- [[UnverifiedTerritorialPromiseTrap]] - the unverified Shangyu compensation and broken Qi relationship preceding Chu's retaliation.
+- [[ForcedMarchOperationalRisk]] - the exposure of a deep advance with extended supply and threatened rear.
+- [[MoralizedWarPretext]] - public justification missing from the host's criticized pre-Hongmen attack plan.
+- [[EmotionalDeescalationPersuasion]] - Xiang Bo's trusted, face-saving interruption of an imminent order.
+- [[GreatCourageUnderHumiliation]] - Han Xin's personal restraint analogy, not another war case.
