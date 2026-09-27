@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [VOL.79生殖医学科男科｜取精室里不能说的秘密 辅助生殖知多少](sources/vol-79-shengzhi-yixueke-nanke-qujingshi-li-buneng-shuo-de-mimi-fuzhu-shengzhi-zhi-duoshao-lp8ztob7icudu2x06tqc0dh_zhdk.md) — 这病说来话长 episode on semen-sample collection quality, male fertility assessment, azoospermia pathways, assisted-reproduction timing, prostate findings, cycling exposure, and sexual-function anxiety.
+- [379. Baghdad: The Arabian Nights (Part 4)](sources/379-baghdad-the-arabian-nights-part-4-glt8529456010.md) — The Rest Is History episode on Abbasid legal authority, hadith criticism, Baghdad's translation movement, the House of Wisdom, and the layered transmission and urban imagination of the Arabian Nights.
 - [380. Captain Cook: History’s Greatest Explorer (Part 1)](sources/380-captain-cook-historys-greatest-explorer-part-1-glt8106697435.md) — The Rest Is History episode on Cook's survey formation, the transit-of-Venus mission, Banks's scientific party, Endeavour logistics, crew health, and the voyage's concealed imperial purpose.
 - [Curing All Human Diseases & the Future of Health & Technology | Mark Zuckerberg & Dr. Priscilla Chan](sources/curing-all-human-diseases-the-future-of-health-technology-mark-zuckerberg-dr-priscilla-chan-scim6005948638.md) — Huberman Lab interview on CZI's biomedical tool-building, single-cell atlases, virtual cells, Biohubs, social-media design, mixed reality, smart glasses, and creator-controlled AI.
 - [VOL.80整形科｜秃头姐妹不要慌 自救干货帮你忙](sources/vol-80-zhengxingke-tutou-jiemei-buyao-huang-zijiu-ganhuo-bang-ni-mang-li5aqx1zugvobfuifx7hkhyvevox.md) — 这病说来话长 episode on women's hair-loss differential diagnosis, follicle cycles, minoxidil adherence and adverse effects, reproductive caution, and sponsor-linked product claims.
@@ -2991,6 +2992,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AMA #12: Thoughts on Longevity Supplements (Resveratrol, NR, NMN, Etc.) & How to Improve Memory](sources/ama-12-thoughts-on-longevity-supplements-resveratrol-nr-nmn-etc-how-to-improve-memory-scim5764692205.md) — Huberman Lab premium AMA separating longevity mechanisms and subjective supplement effects from demonstrated human lifespan benefit while prioritizing sleep, exercise, nutrition, light, stress control, and social connection.
 
 ## Entities
+- [Baghdad](entities/Baghdad.md) — Abbasid capital represented as both a legal-intellectual center and the layered imagined city of the Arabian Nights.
+- [Abbasid Caliphate](entities/AbbasidCaliphate.md) — Baghdad-centered polity joining caliphal patronage, juristic authority, translation, and literary afterlife.
+- [House of Wisdom](entities/HouseOfWisdom.md) — Abbasid court library treated as one institution within a broader distributed translation movement.
+- [The Arabian Nights](entities/ArabianNights.md) — Layered story corpus shaped by Persian, Arabic, oral, manuscript, and European transmission.
+- [Abu Hanifa](entities/AbuHanifa.md) — Early jurist used to connect reasoned interpretation, legal schools, and scholar-centered authority.
+- [Antoine Galland](entities/AntoineGalland.md) — Translator-editor whose French Nights reshaped the corpus and its European canon.
+- [Harun al-Rashid](entities/HarunAlRashid.md) — Abbasid caliph represented through his mythologized Arabian Nights afterlife.
 - [Priscilla Chan](entities/PriscillaChan.md) — Physician, educator, and CZI co-founder framing biomedical philanthropy through shared tools, collaboration, and human translation.
 - [Chan Zuckerberg Initiative](entities/ChanZuckerbergInitiative.md) — Philanthropic organization combining grants, open science, software, hardware, data, compute, Biohubs, and patient-led rare-disease capacity.
 - [Chan Zuckerberg Biohub Network](entities/ChanZuckerbergBiohubNetwork.md) — Cross-university research model for focused interdisciplinary biomedical programs.
@@ -14027,6 +14035,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Michael Eisenberg](entities/MichaelEisenberg.md) — Urologist and researcher framing male fertility and sexual function through objective testing, whole-body health, and treatment boundaries.
 
 ## Concepts
+- [Islamic Legal Scholarly Authority](concepts/IslamicLegalScholarlyAuthority.md) — Law-before-state framework in which ulama and jurists interpret divine sources beyond ruler command.
+- [Hadith Authentication](concepts/HadithAuthentication.md) — Source-critical evaluation of attributed prophetic reports through transmission chains and related scrutiny.
+- [Abbasid Translation Movement](concepts/AbbasidTranslationMovement.md) — Distributed patronage network that translated and transformed inherited learning in Arabic intellectual life.
+- [Arabian Nights Transmission](concepts/ArabianNightsTransmission.md) — Layered movement of tales through oral performance, manuscripts, translation, editing, illustration, and adaptation.
 - [Semen Sample Collection Quality / 精液标本采集质量](concepts/SemenSampleCollectionQuality.md) — Pre-analytic framework for collection method, completeness, privacy, temperature, timing, transport, and laboratory handoff.
 - [Azoospermia Clinical Pathway / 无精子症临床路径](concepts/AzoospermiaClinicalPathway.md) — Cause-first pathway from repeated confirmation through obstruction, production impairment, reconstruction, retrieval, and assisted-reproduction decisions.
 - [Biomedical Research Tool Infrastructure](concepts/BiomedicalResearchToolInfrastructure.md) — Shared measurement, imaging, software, data, compute, and institutional capacity for expanding biomedical discovery.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 8418
+wiki_total_pages: 8422
 wiki_pages:
   - key: "IBDPatientEducationAndPeerSupport"
     title: "IBD Patient Education and Peer Support / IBD患者教育与同伴支持"
@@ -896,6 +896,9 @@ wiki_pages:
   - key: "IslamIslamismConflation"
     title: "Islam-Islamism Conflation"
     url: "/wiki/concepts/islamislamismconflation/"
+  - key: "IslamicLegalScholarlyAuthority"
+    title: "Islamic Legal Scholarly Authority"
+    url: "/wiki/concepts/islamiclegalscholarlyauthority/"
   - key: "Islamism"
     title: "Islamism"
     url: "/wiki/concepts/islamism/"

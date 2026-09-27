@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 8418
+wiki_total_pages: 8422
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -26,6 +26,9 @@ wiki_pages:
   - key: "HackerHouseStartupInfrastructure"
     title: "Hacker House Startup Infrastructure"
     url: "/wiki/concepts/hackerhousestartupinfrastructure/"
+  - key: "HadithAuthentication"
+    title: "Hadith Authentication"
+    url: "/wiki/concepts/hadithauthentication/"
   - key: "HaijinAndMaritimeSmuggling"
     title: "Haijin and Maritime Smuggling"
     url: "/wiki/concepts/haijinandmaritimesmuggling/"

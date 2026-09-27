@@ -1547,6 +1547,18 @@
       "url": "/topics/science/"
     }
   ],
+  "379-baghdad-the-arabian-nights-part-4-glt8529456010": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "38-anjila-kate-jingguai-gushiji-o-mirende-hanfu-609607139": [
     {
       "key": "culture",
@@ -7163,6 +7175,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "AbbasidCaliphate": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "AbbeyOfMonteCassino": [
     {
       "key": "history",
@@ -10611,6 +10630,20 @@
       "url": "/topics/history/"
     }
   ],
+  "ArabianNights": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "ArabianNightsTransmission": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "ArashFerdowsi": [
     {
       "key": "economics",
@@ -12037,6 +12070,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "Baghdad": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "Bahrain": [
@@ -35102,6 +35142,13 @@
     }
   ],
   "HarryStyles": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "HarunAlRashid": [
     {
       "key": "culture",
       "label": "Culture",

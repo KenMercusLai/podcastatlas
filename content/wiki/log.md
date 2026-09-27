@@ -23083,7 +23083,6 @@ Added source `424-carthage-vs-rome-total-war-part-4-glt9312780357`; created `Fir
 
 Ran lint. See lint-report.md for details.
 
-
 ## [2026-09-27] ingest | 403. The Mystery of the Pregnant Pope
 
 Added source `403-the-mystery-of-the-pregnant-pope-glt1981561492`; created `PopeJoan`, `JeanDeMailly`, `MartinOfPoland`, `GuglielmaOfMilan`, `MaifredaDaPirovano`, `GregorianReform`, `LegendAsInstitutionalAnxiety`, `RitualObjectLegendFormation`, and `FemaleSacredAuthorityConstraint`; and updated `GregoryVII`, the canonical index, and overview from the complete bounded source set. Core synthesis: Pope Joan is historically unsupported but institutionally revealing, because late detail, ritual attachment, repetition, and polemic made the legend consequential; the real Guglielma-Maifreda movement shows that imagined female papal authority could provoke violent suppression. No settled contradiction found. The legend's origin remains multi-causal and interpretive, while hostile inquisitorial evidence limits reconstruction of Guglielma's own claims. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
@@ -23714,6 +23713,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | 379. Baghdad: The Arabian Nights (Part 4)
+
+Added source `379-baghdad-the-arabian-nights-part-4-glt8529456010`; created `Baghdad`, `AbbasidCaliphate`, `HouseOfWisdom`, `ArabianNights`, `AbuHanifa`, `AntoineGalland`, `HarunAlRashid`, `IslamicLegalScholarlyAuthority`, `HadithAuthentication`, `AbbasidTranslationMovement`, and `ArabianNightsTransmission`; and updated the canonical index. Core synthesis: Abbasid Baghdad joined scholar-mediated divine law and distributed translation patronage, while the Arabian Nights emerged as a layered corpus whose Persian, Arabic, oral, manuscript, and European editorial histories make it valuable but qualified evidence for urban imagination. No settled contradiction was found. Legal-school geography, the pigeon-racing hadith anecdote, institutional details of the House of Wisdom, story provenance, Galland's source relationships, and proposed motif origins remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
 
 ## [2026-09-27] lint | Wiki health check
 

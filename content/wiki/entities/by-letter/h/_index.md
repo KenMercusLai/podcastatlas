@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 11020
+wiki_total_pages: 11027
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -245,6 +245,9 @@ wiki_pages:
   - key: "HarryStyles"
     title: "Harry Styles"
     url: "/wiki/entities/harrystyles/"
+  - key: "HarunAlRashid"
+    title: "Harun al-Rashid"
+    url: "/wiki/entities/harunalrashid/"
   - key: "Harvey"
     title: "Harvey"
     url: "/wiki/entities/harvey/"
@@ -728,6 +731,9 @@ wiki_pages:
   - key: "HouseOfTheDragon"
     title: "House of the Dragon"
     url: "/wiki/entities/houseofthedragon/"
+  - key: "HouseOfWisdom"
+    title: "House of Wisdom"
+    url: "/wiki/entities/houseofwisdom/"
   - key: "HouseSelectCommitteeOnAssassinations"
     title: "House Select Committee on Assassinations"
     url: "/wiki/entities/houseselectcommitteeonassassinations/"

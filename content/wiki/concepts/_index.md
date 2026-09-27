@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 8418
+wiki_total_pages: 8422
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -32,6 +32,9 @@ wiki_pages:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
     url: "/wiki/concepts/a2atransactionnorms/"
+  - key: "AbbasidTranslationMovement"
+    title: "Abbasid Translation Movement"
+    url: "/wiki/concepts/abbasidtranslationmovement/"
   - key: "AbleistCurePressure"
     title: "Ableist Cure Pressure / 健全中心主义治愈压力"
     url: "/wiki/concepts/ableistcurepressure/"
@@ -2099,6 +2102,9 @@ wiki_pages:
   - key: "AquacultureFeedDependency"
     title: "Aquaculture Feed Dependency"
     url: "/wiki/concepts/aquaculturefeeddependency/"
+  - key: "ArabianNightsTransmission"
+    title: "Arabian Nights Transmission"
+    url: "/wiki/concepts/arabiannightstransmission/"
   - key: "ArbitraryAuthorityProcedure"
     title: "Arbitrary Authority Procedure"
     url: "/wiki/concepts/arbitraryauthorityprocedure/"

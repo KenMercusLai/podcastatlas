@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2746
+topic_total_pages: 2747
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -4577,6 +4577,9 @@ topic_entities:
   - key: "AaronMackey"
     title: "Aaron Mackey"
     url: "/wiki/entities/aaronmackey/"
+  - key: "AbbasidCaliphate"
+    title: "Abbasid Caliphate"
+    url: "/wiki/entities/abbasidcaliphate/"
   - key: "AbdelFattahAlSisi"
     title: "Abdel Fattah al-Sisi"
     url: "/wiki/entities/abdelfattahalsisi/"

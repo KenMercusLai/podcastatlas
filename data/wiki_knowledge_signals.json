@@ -4369,6 +4369,38 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/aaronburr/"
     },
+    "AbbasidCaliphate": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8529456010 [GLT8529456010].md",
+          "key": "379-baghdad-the-arabian-nights-part-4-glt8529456010",
+          "show": "The Rest Is History",
+          "title": "379. Baghdad: The Arabian Nights (Part 4)",
+          "url": "/wiki/sources/379-baghdad-the-arabian-nights-part-4-glt8529456010/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/abbasidcaliphate/"
+    },
+    "AbbasidTranslationMovement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8529456010 [GLT8529456010].md",
+          "key": "379-baghdad-the-arabian-nights-part-4-glt8529456010",
+          "show": "The Rest Is History",
+          "title": "379. Baghdad: The Arabian Nights (Part 4)",
+          "url": "/wiki/sources/379-baghdad-the-arabian-nights-part-4-glt8529456010/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/abbasidtranslationmovement/"
+    },
     "AbbeyOfMonteCassino": {
       "episode_count": 2,
       "show_count": 2,
@@ -4517,6 +4549,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/abstinencemoderationselfcontrol/"
+    },
+    "AbuHanifa": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8529456010 [GLT8529456010].md",
+          "key": "379-baghdad-the-arabian-nights-part-4-glt8529456010",
+          "show": "The Rest Is History",
+          "title": "379. Baghdad: The Arabian Nights (Part 4)",
+          "url": "/wiki/sources/379-baghdad-the-arabian-nights-part-4-glt8529456010/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/abuhanifa/"
     },
     "AbudBakri": {
       "episode_count": 1,
@@ -10599,6 +10647,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/entities/antoinebarnave/"
     },
+    "AntoineGalland": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8529456010 [GLT8529456010].md",
+          "key": "379-baghdad-the-arabian-nights-part-4-glt8529456010",
+          "show": "The Rest Is History",
+          "title": "379. Baghdad: The Arabian Nights (Part 4)",
+          "url": "/wiki/sources/379-baghdad-the-arabian-nights-part-4-glt8529456010/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/antoinegalland/"
+    },
     "AntoineLouis": {
       "episode_count": 1,
       "show_count": 1,
@@ -11206,6 +11270,38 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/entities/aquitaine/"
+    },
+    "ArabianNights": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8529456010 [GLT8529456010].md",
+          "key": "379-baghdad-the-arabian-nights-part-4-glt8529456010",
+          "show": "The Rest Is History",
+          "title": "379. Baghdad: The Arabian Nights (Part 4)",
+          "url": "/wiki/sources/379-baghdad-the-arabian-nights-part-4-glt8529456010/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/arabiannights/"
+    },
+    "ArabianNightsTransmission": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8529456010 [GLT8529456010].md",
+          "key": "379-baghdad-the-arabian-nights-part-4-glt8529456010",
+          "show": "The Rest Is History",
+          "title": "379. Baghdad: The Arabian Nights (Part 4)",
+          "url": "/wiki/sources/379-baghdad-the-arabian-nights-part-4-glt8529456010/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/arabiannightstransmission/"
     },
     "AraceliSegarra": {
       "episode_count": 1,
@@ -13956,6 +14052,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/bafangelectric/"
+    },
+    "Baghdad": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8529456010 [GLT8529456010].md",
+          "key": "379-baghdad-the-arabian-nights-part-4-glt8529456010",
+          "show": "The Rest Is History",
+          "title": "379. Baghdad: The Arabian Nights (Part 4)",
+          "url": "/wiki/sources/379-baghdad-the-arabian-nights-part-4-glt8529456010/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/baghdad/"
     },
     "BaihuGuanConference": {
       "episode_count": 1,
@@ -65769,6 +65881,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/concepts/hackerhousestartupinfrastructure/"
     },
+    "HadithAuthentication": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8529456010 [GLT8529456010].md",
+          "key": "379-baghdad-the-arabian-nights-part-4-glt8529456010",
+          "show": "The Rest Is History",
+          "title": "379. Baghdad: The Arabian Nights (Part 4)",
+          "url": "/wiki/sources/379-baghdad-the-arabian-nights-part-4-glt8529456010/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/hadithauthentication/"
+    },
     "Hadrian": {
       "episode_count": 1,
       "show_count": 1,
@@ -68000,6 +68128,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/concepts/harryingofthenorth/"
+    },
+    "HarunAlRashid": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8529456010 [GLT8529456010].md",
+          "key": "379-baghdad-the-arabian-nights-part-4-glt8529456010",
+          "show": "The Rest Is History",
+          "title": "379. Baghdad: The Arabian Nights (Part 4)",
+          "url": "/wiki/sources/379-baghdad-the-arabian-nights-part-4-glt8529456010/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/harunalrashid/"
     },
     "HasdrubalTheHandsome": {
       "episode_count": 1,
@@ -72112,6 +72256,22 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/entities/houseofthedragon/"
+    },
+    "HouseOfWisdom": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8529456010 [GLT8529456010].md",
+          "key": "379-baghdad-the-arabian-nights-part-4-glt8529456010",
+          "show": "The Rest Is History",
+          "title": "379. Baghdad: The Arabian Nights (Part 4)",
+          "url": "/wiki/sources/379-baghdad-the-arabian-nights-part-4-glt8529456010/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/houseofwisdom/"
     },
     "HouseSelectCommitteeOnAssassinations": {
       "episode_count": 1,
@@ -78773,6 +78933,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/concepts/islamislamismconflation/"
+    },
+    "IslamicLegalScholarlyAuthority": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8529456010 [GLT8529456010].md",
+          "key": "379-baghdad-the-arabian-nights-part-4-glt8529456010",
+          "show": "The Rest Is History",
+          "title": "379. Baghdad: The Arabian Nights (Part 4)",
+          "url": "/wiki/sources/379-baghdad-the-arabian-nights-part-4-glt8529456010/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/islamiclegalscholarlyauthority/"
     },
     "Islamism": {
       "episode_count": 1,

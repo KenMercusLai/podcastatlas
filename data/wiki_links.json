@@ -1019,6 +1019,10 @@
     "title": "3721",
     "url": "/wiki/entities/3721/"
   },
+  "379-baghdad-the-arabian-nights-part-4-glt8529456010": {
+    "title": "379. Baghdad: The Arabian Nights (Part 4)",
+    "url": "/wiki/sources/379-baghdad-the-arabian-nights-part-4-glt8529456010/"
+  },
   "38-anjila-kate-jingguai-gushiji-o-mirende-hanfu-609607139": {
     "title": "38.安吉拉卡特精怪故事集：哦！迷人的悍妇！",
     "url": "/wiki/sources/38-anjila-kate-jingguai-gushiji-o-mirende-hanfu-609607139/"
@@ -3907,6 +3911,14 @@
     "title": "AbbVie / 艾伯维",
     "url": "/wiki/entities/abbvie/"
   },
+  "AbbasidCaliphate": {
+    "title": "Abbasid Caliphate",
+    "url": "/wiki/entities/abbasidcaliphate/"
+  },
+  "AbbasidTranslationMovement": {
+    "title": "Abbasid Translation Movement",
+    "url": "/wiki/concepts/abbasidtranslationmovement/"
+  },
   "AbbeyOfMonteCassino": {
     "title": "卡西诺修道院 / Abbey of Monte Cassino",
     "url": "/wiki/entities/abbeyofmontecassino/"
@@ -4010,6 +4022,10 @@
   "AbuDhabi": {
     "title": "Abu Dhabi / 阿布扎比",
     "url": "/wiki/entities/abudhabi/"
+  },
+  "AbuHanifa": {
+    "title": "Abu Hanifa",
+    "url": "/wiki/entities/abuhanifa/"
   },
   "AbudBakri": {
     "title": "Abud Bakri",
@@ -6823,6 +6839,10 @@
     "title": "Antoine de Saint-Exupery / 圣埃克苏佩里",
     "url": "/wiki/entities/antoinedesaintexupery/"
   },
+  "AntoineGalland": {
+    "title": "Antoine Galland",
+    "url": "/wiki/entities/antoinegalland/"
+  },
   "AntoineHersen": {
     "title": "Antoine Hersen",
     "url": "/wiki/entities/antoinehersen/"
@@ -7118,6 +7138,14 @@
   "Aquitaine": {
     "title": "Aquitaine",
     "url": "/wiki/entities/aquitaine/"
+  },
+  "ArabianNights": {
+    "title": "The Arabian Nights",
+    "url": "/wiki/entities/arabiannights/"
+  },
+  "ArabianNightsTransmission": {
+    "title": "Arabian Nights Transmission",
+    "url": "/wiki/concepts/arabiannightstransmission/"
   },
   "Arabica": {
     "title": "% Arabica",
@@ -8362,6 +8390,10 @@
   "BaggedSaladIndustrialization": {
     "title": "Bagged Salad Industrialization",
     "url": "/wiki/concepts/baggedsaladindustrialization/"
+  },
+  "Baghdad": {
+    "title": "Baghdad",
+    "url": "/wiki/entities/baghdad/"
   },
   "Bahrain": {
     "title": "Bahrain",
@@ -30307,6 +30339,10 @@
     "title": "Hackpad",
     "url": "/wiki/entities/hackpad/"
   },
+  "HadithAuthentication": {
+    "title": "Hadith Authentication",
+    "url": "/wiki/concepts/hadithauthentication/"
+  },
   "HadiyaHaidari": {
     "title": "哈迪亚·海达里",
     "url": "/wiki/entities/hadiyahaidari/"
@@ -31062,6 +31098,10 @@
   "HarryingOfTheNorth": {
     "title": "Harrying of the North",
     "url": "/wiki/concepts/harryingofthenorth/"
+  },
+  "HarunAlRashid": {
+    "title": "Harun al-Rashid",
+    "url": "/wiki/entities/harunalrashid/"
   },
   "HarvardClassicNegotiation": {
     "title": "《哈佛经典谈判术》",
@@ -32762,6 +32802,10 @@
   "HouseOfTheDragon": {
     "title": "House of the Dragon",
     "url": "/wiki/entities/houseofthedragon/"
+  },
+  "HouseOfWisdom": {
+    "title": "House of Wisdom",
+    "url": "/wiki/entities/houseofwisdom/"
   },
   "HouseSelectCommitteeOnAssassinations": {
     "title": "House Select Committee on Assassinations",
@@ -35514,6 +35558,10 @@
   "IslamIslamismConflation": {
     "title": "Islam-Islamism Conflation",
     "url": "/wiki/concepts/islamislamismconflation/"
+  },
+  "IslamicLegalScholarlyAuthority": {
+    "title": "Islamic Legal Scholarly Authority",
+    "url": "/wiki/concepts/islamiclegalscholarlyauthority/"
   },
   "IslamicRevolutionaryGuardCorps": {
     "title": "Islamic Revolutionary Guard Corps",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 11020
+wiki_total_pages: 11027
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -68,6 +68,9 @@ wiki_pages:
   - key: "AB180BloodPump"
     title: "AB180 Blood Pump"
     url: "/wiki/entities/ab180bloodpump/"
+  - key: "AbbasidCaliphate"
+    title: "Abbasid Caliphate"
+    url: "/wiki/entities/abbasidcaliphate/"
   - key: "AbbieHoffman"
     title: "Abbie Hoffman"
     url: "/wiki/entities/abbiehoffman/"
@@ -122,6 +125,9 @@ wiki_pages:
   - key: "AbuDhabi"
     title: "Abu Dhabi / 阿布扎比"
     url: "/wiki/entities/abudhabi/"
+  - key: "AbuHanifa"
+    title: "Abu Hanifa"
+    url: "/wiki/entities/abuhanifa/"
   - key: "AbudBakri"
     title: "Abud Bakri"
     url: "/wiki/entities/abudbakri/"
@@ -1163,6 +1169,9 @@ wiki_pages:
   - key: "AntoineDeSaintExupery"
     title: "Antoine de Saint-Exupery / 圣埃克苏佩里"
     url: "/wiki/entities/antoinedesaintexupery/"
+  - key: "AntoineGalland"
+    title: "Antoine Galland"
+    url: "/wiki/entities/antoinegalland/"
   - key: "AntoineHersen"
     title: "Antoine Hersen"
     url: "/wiki/entities/antoinehersen/"
@@ -1634,6 +1643,9 @@ wiki_pages:
   - key: "AnarchyEnglishCivilWar"
     title: "The Anarchy"
     url: "/wiki/entities/anarchyenglishcivilwar/"
+  - key: "ArabianNights"
+    title: "The Arabian Nights"
+    url: "/wiki/entities/arabiannights/"
   - key: "AguirreExpedition"
     title: "Ursúa-Aguirre Expedition"
     url: "/wiki/entities/aguirreexpedition/"
