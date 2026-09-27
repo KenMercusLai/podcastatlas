@@ -324,9 +324,9 @@
       "url": "/wiki/concepts/adhdselfdiagnosisboundary/"
     },
     "ADHDTreatmentSelectionBoundary": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM4112569463 [SCIM4112569463].md",
@@ -341,6 +341,13 @@
           "show": "这病说来话长",
           "title": "VOL.108精神心理科｜你只是误会了你的高光时刻 多动症不等于聪明 ADHD需不需要治是个问题",
           "url": "/wiki/sources/lvfirgzbmtwypcjqyqry291qz6cw-lvfirgzbmtwypcjqyqry291qz6cw/"
+        },
+        {
+          "episode_file": "SCIM7370892669 [SCIM7370892669].md",
+          "key": "live-event-q-a-dr-andrew-huberman-at-meridian-hall-in-toronto-scim7370892669",
+          "show": "Huberman Lab",
+          "title": "LIVE EVENT Q&A: Dr. Andrew Huberman at Meridian Hall in Toronto",
+          "url": "/wiki/sources/live-event-q-a-dr-andrew-huberman-at-meridian-hall-in-toronto-scim7370892669/"
         }
       ],
       "updated": "2026-09-26",
@@ -8905,9 +8912,9 @@
       "url": "/wiki/entities/andrewpalmer/"
     },
     "AndrogenInterventionClinicalBoundary": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM5974928415 [SCIM5974928415].md",
@@ -8915,9 +8922,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Tools for Hormone Optimization in Males | Dr. Kyle Gillett",
           "url": "/wiki/sources/essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415/"
+        },
+        {
+          "episode_file": "SCIM7370892669 [SCIM7370892669].md",
+          "key": "live-event-q-a-dr-andrew-huberman-at-meridian-hall-in-toronto-scim7370892669",
+          "show": "Huberman Lab",
+          "title": "LIVE EVENT Q&A: Dr. Andrew Huberman at Meridian Hall in Toronto",
+          "url": "/wiki/sources/live-event-q-a-dr-andrew-huberman-at-meridian-hall-in-toronto-scim7370892669/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/androgeninterventionclinicalboundary/"
     },
     "AndrogenSupportSupplementBoundary": {
@@ -106354,9 +106368,9 @@
       "url": "/wiki/concepts/nonmoralpoliticalanalysis/"
     },
     "NonSleepDeepRestRecovery": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM8512997965 [SCIM8512997965].md",
@@ -106371,6 +106385,13 @@
           "show": "Huberman Lab",
           "title": "Tools to Enhance Working Memory & Attention",
           "url": "/wiki/sources/tools-to-enhance-working-memory-attention-scim1948560111/"
+        },
+        {
+          "episode_file": "SCIM7370892669 [SCIM7370892669].md",
+          "key": "live-event-q-a-dr-andrew-huberman-at-meridian-hall-in-toronto-scim7370892669",
+          "show": "Huberman Lab",
+          "title": "LIVE EVENT Q&A: Dr. Andrew Huberman at Meridian Hall in Toronto",
+          "url": "/wiki/sources/live-event-q-a-dr-andrew-huberman-at-meridian-hall-in-toronto-scim7370892669/"
         }
       ],
       "updated": "2026-09-27",
@@ -115712,9 +115733,9 @@
       "url": "/wiki/concepts/positivemasculinitycode/"
     },
     "PositiveStressBreathwork": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM4455888803 [SCIM4455888803].md",
@@ -115729,6 +115750,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: Boost Your Energy & Immune System with Cortisol & Adrenaline",
           "url": "/wiki/sources/essentials-boost-your-energy-immune-system-with-cortisol-adrenaline-scim1515778634/"
+        },
+        {
+          "episode_file": "SCIM7370892669 [SCIM7370892669].md",
+          "key": "live-event-q-a-dr-andrew-huberman-at-meridian-hall-in-toronto-scim7370892669",
+          "show": "Huberman Lab",
+          "title": "LIVE EVENT Q&A: Dr. Andrew Huberman at Meridian Hall in Toronto",
+          "url": "/wiki/sources/live-event-q-a-dr-andrew-huberman-at-meridian-hall-in-toronto-scim7370892669/"
         }
       ],
       "updated": "2026-09-22",
@@ -134306,9 +134334,9 @@
       "url": "/wiki/concepts/sleepdisruptionsuiciderisksignal/"
     },
     "SleepHealthQQRT": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM9752150487 [SCIM9752150487].md",
@@ -134323,6 +134351,13 @@
           "show": "Huberman Lab",
           "title": "AMA #16: Sleep, Vertigo, TBI, OCD, Tips for Travelers, Gut-Brain Axis & More",
           "url": "/wiki/sources/ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965/"
+        },
+        {
+          "episode_file": "SCIM7370892669 [SCIM7370892669].md",
+          "key": "live-event-q-a-dr-andrew-huberman-at-meridian-hall-in-toronto-scim7370892669",
+          "show": "Huberman Lab",
+          "title": "LIVE EVENT Q&A: Dr. Andrew Huberman at Meridian Hall in Toronto",
+          "url": "/wiki/sources/live-event-q-a-dr-andrew-huberman-at-meridian-hall-in-toronto-scim7370892669/"
         }
       ],
       "updated": "2026-09-26",
@@ -141620,9 +141655,9 @@
       "url": "/wiki/concepts/sustainablebusinessoverscale/"
     },
     "SustainableHealthOptimization": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM2882548864 [SCIM2882548864].md",
@@ -141651,9 +141686,16 @@
           "show": "Huberman Lab",
           "title": "Leverage Dopamine to Overcome Procrastination & Optimize Effort",
           "url": "/wiki/sources/leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288/"
+        },
+        {
+          "episode_file": "SCIM7370892669 [SCIM7370892669].md",
+          "key": "live-event-q-a-dr-andrew-huberman-at-meridian-hall-in-toronto-scim7370892669",
+          "show": "Huberman Lab",
+          "title": "LIVE EVENT Q&A: Dr. Andrew Huberman at Meridian Hall in Toronto",
+          "url": "/wiki/sources/live-event-q-a-dr-andrew-huberman-at-meridian-hall-in-toronto-scim7370892669/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/sustainablehealthoptimization/"
     },
     "SvenSchulze": {

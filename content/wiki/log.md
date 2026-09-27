@@ -23103,6 +23103,10 @@ Added source `419-britain-in-1974-countdown-to-a-coup-part-3-glt2033018212`; cre
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-27] ingest | LIVE EVENT Q&A: Dr. Andrew Huberman at Meridian Hall in Toronto
+
+Added source `live-event-q-a-dr-andrew-huberman-at-meridian-hall-in-toronto-scim7370892669`; updated `SustainableHealthOptimization`, `SleepHealthQQRT`, `NonSleepDeepRestRecovery`, `ADHDTreatmentSelectionBoundary`, `PositiveStressBreathwork`, `AndrogenInterventionClinicalBoundary`, and the canonical index from their complete bounded source sets. Core synthesis: simple light, sleep, movement, food-quality, rest, and state-matched breathing practices are presented as flexible foundations, while nicotine, stimulant, hormone, peptide, and breath-hold choices require individualized clinical and safety boundaries. The source contains an unresolved venue contradiction: metadata says Toronto/Meridian Hall, while the body says Brisbane/Great Hall. Other claims remain source-scoped public education rather than individualized medical or parenting guidance. The automatic `wiki/overview.md` was read for context but not manually rewritten because existing canonical concepts already cover the episode's broad topics.
+
 ## [2026-09-27] ingest | Protocols for Excellent Parenting & Improving Relationships of All Kinds | Dr. Becky Kennedy
 
 Added source `protocols-for-excellent-parenting-improving-relationships-of-all-kinds-dr-becky-kennedy-scim7905596498`; created `BeckyKennedy`, `GoodInside`, `ParentingSturdiness`, `BoundaryEmpathyParenting`, and `FrustrationToleranceLearningSpace`; and updated `ParentalRepairAfterHarm` and `AdolescentAutonomyScaffolding` from their complete bounded source sets. Core synthesis: sturdy parenting combines adult-owned limits with belief in the child's inner experience; repair names adult responsibility without recruiting the child for reassurance; manageable frustration builds learning capacity; and adolescents need continued connection plus decisive safety intervention when functioning narrows. No settled contradiction found. Reward-system critiques, “deeply feeling kids,” neurodivergence overlap, dopamine mechanisms, trauma definitions, and performer generalizations remain source-scoped public psychoeducation rather than universal developmental or clinical claims. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
@@ -23539,6 +23543,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-27] ingest | 389. The Fall of the Aztecs: The Night of Tears (Part 6)
 
 Added source `389-the-fall-of-the-aztecs-the-night-of-tears-part-6-glt2744313815`; created `NocheTriste`, `Tlaxcala`, and `Cuitlahuac`; and updated `HernanCortes`, `Malinche`, `Cuauhtemoc`, `MexicaEmpire`, `SiegeOfTenochtitlan`, `SpanishConquestOfMexico`, `ColumbianExchange`, and the canonical index from their complete bounded source sets. Core synthesis: the Noche Triste brought Cortes's expedition close to collapse, but Tlaxcalan political choice, reinforcements, strategic terror, epidemic disruption, route seizure, and brigantine preparation converted defeat into a renewed coalition war. No settled contradiction with Parts 7 or 8 was found. Casualty and mortality estimates, remembered dialogue, atrocity stories, ritual-war contrasts, Cortes's motives, and the exact smallpox introduction route remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-27] lint | Wiki health check
 

@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1247
+topic_total_pages: 1248
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -3582,6 +3582,9 @@ topic_sources:
   - key: "leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288"
     title: "Leverage Dopamine to Overcome Procrastination & Optimize Effort"
     url: "/wiki/sources/leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288/"
+  - key: "live-event-q-a-dr-andrew-huberman-at-meridian-hall-in-toronto-scim7370892669"
+    title: "LIVE EVENT Q&A: Dr. Andrew Huberman at Meridian Hall in Toronto"
+    url: "/wiki/sources/live-event-q-a-dr-andrew-huberman-at-meridian-hall-in-toronto-scim7370892669/"
   - key: "master-self-control-overcome-procrastination-dr-kentaro-fujita-scim8156556751"
     title: "Master Self Control & Overcome Procrastination | Dr. Kentaro Fujita"
     url: "/wiki/sources/master-self-control-overcome-procrastination-dr-kentaro-fujita-scim8156556751/"

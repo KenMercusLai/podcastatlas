@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [LIVE EVENT Q&A: Dr. Andrew Huberman at Meridian Hall in Toronto](sources/live-event-q-a-dr-andrew-huberman-at-meridian-hall-in-toronto-scim7370892669.md) — Huberman Lab live Q&A on nicotine, ADHD, sleep recovery, burnout, flexible nutrition and exercise, testosterone, breathwork safety, children's light exposure, and parenting.
 - [389. The Fall of the Aztecs: The Night of Tears (Part 6)](sources/389-the-fall-of-the-aztecs-the-night-of-tears-part-6-glt2744313815.md) — The Rest Is History episode on the Noche Triste, Tlaxcalan coalition renewal, strategic terror, smallpox, succession, and preparation for the siege of Tenochtitlan.
 - [390. The Fall of the Aztecs: War to the Death (Part 7)](sources/390-the-fall-of-the-aztecs-war-to-the-death-part-7-glt1796642529.md) — The Rest Is History episode on the coalition, naval, logistical, epidemiological, urban, and civilian dimensions of Tenochtitlan's final siege.
 - [VOL.86头颈外科｜甲状腺疾病越来越喜欢招惹年轻人了吗？结节真是被气出来的吗？](sources/vol-86-toujing-waike-jiazhuangxian-jibing-yuelaiyue-xihuan-zhaore-nianqingren-le-ma-jiejie-zhen-shi-bei-qi-chulai-de-ma-lhlyxdyw0hcgnmfopab0976kw3fr.md) — 这病说来话长 episode with 张宇昊 on thyroid function, Hashimoto thyroiditis, nodule risk stratification, biopsy, differentiated cancer, surveillance, surgery, and iodine boundaries.
