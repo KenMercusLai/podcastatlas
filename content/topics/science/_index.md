@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1270
+topic_total_pages: 1271
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -3203,6 +3203,9 @@ topic_entities:
   - key: "UniquelyHuman"
     title: "这世界唯一的你 / Uniquely Human"
     url: "/wiki/entities/uniquelyhuman/"
+  - key: "ZhongZhaopeng"
+    title: "钟照鹏 / Zhong Zhaopeng"
+    url: "/wiki/entities/zhongzhaopeng/"
   - key: "QianJing"
     title: "钱静"
     url: "/wiki/entities/qianjing/"

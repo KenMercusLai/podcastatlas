@@ -3045,6 +3045,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Life, Death & the Neuroscience of Your Unique Experience | Dr. David Linden](sources/scim1807559844-scim1807559844.md) — Huberman Lab episode on sensory variation, developmental individuality, cerebellar prediction, brain-immune mechanisms, neuroplasticity, cancer, and mortality.
 
 - [360. Fear City: New York in the 1970s](sources/360-fear-city-new-york-in-the-1970s-glt7107047696.md) — The Rest Is History episode on the 1977 blackout, fiscal collapse, crime politics, urban dystopia, Ed Koch, and crisis-driven private redevelopment.
+- [VOL.66心脏外科｜从挂号到就医 从吃药到手术 安贞医生给你的实用贴士](sources/vol-66-xinzang-waike-cong-guahao-dao-jiuyi-cong-chiyao-dao-shoushu-anzhen-yisheng-gei-ni-de-shiyong-tieshi-lnnmiealbw5s886_m4y8yjj3mja_.md) — 这病说来话长 episode on cardiac symptom escalation, hospital routing, diagnostic limits, hypertension harm, surgical-modality selection, robotics, and pump-versus-rhythm devices.
 
 ## Entities
 - [Neil Price](entities/NeilPrice.md) — Archaeologist interpreting Viking worldview, magic, ritual, violence, and historical uncertainty without romanticization.
@@ -14179,6 +14180,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [A. Philip Randolph](entities/APhilipRandolph.md) — Labor and civil-rights leader whose repeated Washington-march strategy connected mass mobilization to federal leverage.
 - [1963 March on Washington](entities/MarchOnWashington1963.md) — Large peaceful civil-rights coalition demonstration remembered most strongly through King's final address.
 - [I Have a Dream Speech](entities/IHaveADreamSpeech.md) — King's 1963 address combining constitutional debt, patriotic promise, biblical prophecy, and prepared improvisation.
+- [钟照鹏 / Zhong Zhaopeng](entities/ZhongZhaopeng.md) — Source-scoped Beijing Anzhen cardiac surgeon explaining symptom routing, diagnostic limits, treatment tradeoffs, surgery, and cardiac devices.
 
 ## Concepts
 - [Viking Age Worldview](concepts/VikingAgeWorldview.md) — Lived field joining gods, local beings, landscapes, animals, the dead, magic, danger, and practical conduct.
@@ -22729,5 +22731,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Civil-Rights Coalition Management](concepts/CivilRightsCoalitionManagement.md) — Coordination of organizations, logistics, political vulnerability, government negotiation, public discipline, and internal hierarchy.
 - [Patriotic-Prophetic Rhetoric](concepts/PatrioticPropheticRhetoric.md) — Reform language that joins national promises to religious judgment, urgency, and hope.
 - [Sanitized Civil-Rights Memory](concepts/SanitizedCivilRightsMemory.md) — Selective commemoration of hopeful movement language at the expense of conflict, coalition labor, and structural critique.
+- [Cardiac Surgery Modality Selection / 心脏外科术式选择](concepts/CardiacSurgeryModalitySelection.md) — Outcome-first selection among conventional, minimally invasive, robotic, catheter-based, bypass-supported, and off-pump cardiac approaches.
 
 ## Syntheses

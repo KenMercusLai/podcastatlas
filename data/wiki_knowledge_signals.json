@@ -23124,9 +23124,9 @@
       "url": "/wiki/concepts/carbohydraterestrictionmentalhealth/"
     },
     "CardiacImplantableDeviceDifferentiation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lvT24r7X6bPPx7e5gQHAs1yN-jrU [lvT24r7X6bPPx7e5gQHAs1yN-jrU].md",
@@ -23134,10 +23134,33 @@
           "show": "这病说来话长",
           "title": "VOL.152哪吒：我命由我不由天！现实中的“改命”神器你知道吗？真能预防猝死吗？",
           "url": "/wiki/sources/vol-152-nazha-wo-ming-you-wo-bu-you-tian-xianshi-zhong-de-gaiming-shenqi-ni-zhidao-ma-zhen-neng-yufang-cusi-ma-lvt24r7x6bppx7e5gqhas1yn-jru/"
+        },
+        {
+          "episode_file": "lnnmIEAlBw5S886_m4Y8YJj3MJa_ [lnnmIEAlBw5S886_m4Y8YJj3MJa_].md",
+          "key": "vol-66-xinzang-waike-cong-guahao-dao-jiuyi-cong-chiyao-dao-shoushu-anzhen-yisheng-gei-ni-de-shiyong-tieshi-lnnmiealbw5s886_m4y8yjj3mja_",
+          "show": "这病说来话长",
+          "title": "VOL.66心脏外科｜从挂号到就医 从吃药到手术 安贞医生给你的实用贴士",
+          "url": "/wiki/sources/vol-66-xinzang-waike-cong-guahao-dao-jiuyi-cong-chiyao-dao-shoushu-anzhen-yisheng-gei-ni-de-shiyong-tieshi-lnnmiealbw5s886_m4y8yjj3mja_/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/cardiacimplantabledevicedifferentiation/"
+    },
+    "CardiacSurgeryModalitySelection": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lnnmIEAlBw5S886_m4Y8YJj3MJa_ [lnnmIEAlBw5S886_m4Y8YJj3MJa_].md",
+          "key": "vol-66-xinzang-waike-cong-guahao-dao-jiuyi-cong-chiyao-dao-shoushu-anzhen-yisheng-gei-ni-de-shiyong-tieshi-lnnmiealbw5s886_m4y8yjj3mja_",
+          "show": "这病说来话长",
+          "title": "VOL.66心脏外科｜从挂号到就医 从吃药到手术 安贞医生给你的实用贴士",
+          "url": "/wiki/sources/vol-66-xinzang-waike-cong-guahao-dao-jiuyi-cong-chiyao-dao-shoushu-anzhen-yisheng-gei-ni-de-shiyong-tieshi-lnnmiealbw5s886_m4y8yjj3mja_/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/cardiacsurgerymodalityselection/"
     },
     "CardinalCajetan": {
       "episode_count": 1,
@@ -26565,9 +26588,9 @@
       "url": "/wiki/entities/cheshikingdomwesternhan/"
     },
     "ChestPainEmergencyEscalation": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lneMOgQ8gB9o3E2835jvtFX3EMiy [lneMOgQ8gB9o3E2835jvtFX3EMiy].md",
@@ -26589,9 +26612,16 @@
           "show": "这病说来话长",
           "title": "VOL.85急诊｜初冬，急诊又来了一批年轻患者 刚才还好好的",
           "url": "/wiki/sources/vol-85-jizhen-chudong-jizhen-you-lai-le-yipi-nianqing-huanzhe-gangcai-hai-haohao-de-lqq7xoemqrihmuzo5rey8rok76bp/"
+        },
+        {
+          "episode_file": "lnnmIEAlBw5S886_m4Y8YJj3MJa_ [lnnmIEAlBw5S886_m4Y8YJj3MJa_].md",
+          "key": "vol-66-xinzang-waike-cong-guahao-dao-jiuyi-cong-chiyao-dao-shoushu-anzhen-yisheng-gei-ni-de-shiyong-tieshi-lnnmiealbw5s886_m4y8yjj3mja_",
+          "show": "这病说来话长",
+          "title": "VOL.66心脏外科｜从挂号到就医 从吃药到手术 安贞医生给你的实用贴士",
+          "url": "/wiki/sources/vol-66-xinzang-waike-cong-guahao-dao-jiuyi-cong-chiyao-dao-shoushu-anzhen-yisheng-gei-ni-de-shiyong-tieshi-lnnmiealbw5s886_m4y8yjj3mja_/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/chestpainemergencyescalation/"
     },
     "ChesterWilliams": {
@@ -35768,9 +35798,9 @@
       "url": "/wiki/entities/dashihua/"
     },
     "DaVinciSurgicalSystem": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM5701398040 [SCIM5701398040].md",
@@ -35778,9 +35808,16 @@
           "show": "Huberman Lab",
           "title": "Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li",
           "url": "/wiki/sources/using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040/"
+        },
+        {
+          "episode_file": "lnnmIEAlBw5S886_m4Y8YJj3MJa_ [lnnmIEAlBw5S886_m4Y8YJj3MJa_].md",
+          "key": "vol-66-xinzang-waike-cong-guahao-dao-jiuyi-cong-chiyao-dao-shoushu-anzhen-yisheng-gei-ni-de-shiyong-tieshi-lnnmiealbw5s886_m4y8yjj3mja_",
+          "show": "这病说来话长",
+          "title": "VOL.66心脏外科｜从挂号到就医 从吃药到手术 安贞医生给你的实用贴士",
+          "url": "/wiki/sources/vol-66-xinzang-waike-cong-guahao-dao-jiuyi-cong-chiyao-dao-shoushu-anzhen-yisheng-gei-ni-de-shiyong-tieshi-lnnmiealbw5s886_m4y8yjj3mja_/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/davincisurgicalsystem/"
     },
     "DaYangYang": {
@@ -76970,9 +77007,9 @@
       "url": "/wiki/concepts/hypertensionlongtermmanagement/"
     },
     "HypertensionTargetOrganDamage": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lioWkHcJC8q3OgxagQsfib14oydY [lioWkHcJC8q3OgxagQsfib14oydY].md",
@@ -76994,9 +77031,16 @@
           "show": "这病说来话长",
           "title": "VOL.114心内科｜不就是高血压么？你别吓唬我了！不量血压就不高 长期吃药没必要？",
           "url": "/wiki/sources/vol-114-xinneike-bujiushi-gaoxueya-me-ni-bie-xiahu-wo-le-bu-liang-xueya-jiu-bu-gao-changqi-chiyao-mei-biyao-lr7xq6xsfudvmhy9ucz29yitcex1/"
+        },
+        {
+          "episode_file": "lnnmIEAlBw5S886_m4Y8YJj3MJa_ [lnnmIEAlBw5S886_m4Y8YJj3MJa_].md",
+          "key": "vol-66-xinzang-waike-cong-guahao-dao-jiuyi-cong-chiyao-dao-shoushu-anzhen-yisheng-gei-ni-de-shiyong-tieshi-lnnmiealbw5s886_m4y8yjj3mja_",
+          "show": "这病说来话长",
+          "title": "VOL.66心脏外科｜从挂号到就医 从吃药到手术 安贞医生给你的实用贴士",
+          "url": "/wiki/sources/vol-66-xinzang-waike-cong-guahao-dao-jiuyi-cong-chiyao-dao-shoushu-anzhen-yisheng-gei-ni-de-shiyong-tieshi-lnnmiealbw5s886_m4y8yjj3mja_/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/hypertensiontargetorgandamage/"
     },
     "IBDPatientEducationAndPeerSupport": {
@@ -178044,6 +178088,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/zhongyao/"
+    },
+    "ZhongZhaopeng": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lnnmIEAlBw5S886_m4Y8YJj3MJa_ [lnnmIEAlBw5S886_m4Y8YJj3MJa_].md",
+          "key": "vol-66-xinzang-waike-cong-guahao-dao-jiuyi-cong-chiyao-dao-shoushu-anzhen-yisheng-gei-ni-de-shiyong-tieshi-lnnmiealbw5s886_m4y8yjj3mja_",
+          "show": "这病说来话长",
+          "title": "VOL.66心脏外科｜从挂号到就医 从吃药到手术 安贞医生给你的实用贴士",
+          "url": "/wiki/sources/vol-66-xinzang-waike-cong-guahao-dao-jiuyi-cong-chiyao-dao-shoushu-anzhen-yisheng-gei-ni-de-shiyong-tieshi-lnnmiealbw5s886_m4y8yjj3mja_/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/zhongzhaopeng/"
     },
     "ZhongchangTongLateHan": {
       "episode_count": 2,

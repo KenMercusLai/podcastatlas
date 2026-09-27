@@ -12411,6 +12411,10 @@
     "title": "Cardiac Implantable Device Differentiation / 心脏植入装置功能区分",
     "url": "/wiki/concepts/cardiacimplantabledevicedifferentiation/"
   },
+  "CardiacSurgeryModalitySelection": {
+    "title": "Cardiac Surgery Modality Selection / 心脏外科术式选择",
+    "url": "/wiki/concepts/cardiacsurgerymodalityselection/"
+  },
   "CardinalCajetan": {
     "title": "Cardinal Cajetan",
     "url": "/wiki/entities/cardinalcajetan/"
@@ -80051,6 +80055,10 @@
     "title": "钟繇 / Zhong Yao",
     "url": "/wiki/entities/zhongyao/"
   },
+  "ZhongZhaopeng": {
+    "title": "钟照鹏 / Zhong Zhaopeng",
+    "url": "/wiki/entities/zhongzhaopeng/"
+  },
   "ZhongchangTongLateHan": {
     "title": "仲长统 / Zhongchang Tong (late Han)",
     "url": "/wiki/entities/zhongchangtonglatehan/"
@@ -85834,6 +85842,10 @@
   "vol-55-duitan-xieyin-melody-xuan-yitiao-gengman-de-lu-ranhou-shizhe-zou-de-gengyuan-lvmwwqnwmew2-s22x-4otjy2gnlw": {
     "title": "vol.55 对谈携隐Melody：选一条更慢的路 然后试着走得更远",
     "url": "/wiki/sources/vol-55-duitan-xieyin-melody-xuan-yitiao-gengman-de-lu-ranhou-shizhe-zou-de-gengyuan-lvmwwqnwmew2-s22x-4otjy2gnlw/"
+  },
+  "vol-66-xinzang-waike-cong-guahao-dao-jiuyi-cong-chiyao-dao-shoushu-anzhen-yisheng-gei-ni-de-shiyong-tieshi-lnnmiealbw5s886_m4y8yjj3mja_": {
+    "title": "VOL.66心脏外科｜从挂号到就医 从吃药到手术 安贞医生给你的实用贴士",
+    "url": "/wiki/sources/vol-66-xinzang-waike-cong-guahao-dao-jiuyi-cong-chiyao-dao-shoushu-anzhen-yisheng-gei-ni-de-shiyong-tieshi-lnnmiealbw5s886_m4y8yjj3mja_/"
   },
   "vol-68-xueyeneike-zhuangxiu-jiaquan-hui-rang-ni-de-baixuebing-ma-yiqi-tingdong-baixuebing-de-changshi-zaoxue-ganxibao-juanxian-zhinan-lkbtulzn5ky6f4wa5bttbuawvxz": {
     "title": "VOL.68血液内科｜装修甲醛会让你得白血病吗？…一期听懂白血病的常识｜造血干细胞捐献指南",

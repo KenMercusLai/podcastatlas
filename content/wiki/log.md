@@ -24124,3 +24124,11 @@ Added source `358-viking-sorcery-glt1200485419`; created `NeilPrice`, `VikingAge
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | VOL.66心脏外科｜从挂号到就医 从吃药到手术 安贞医生给你的实用贴士
+
+Added source `vol-66-xinzang-waike-cong-guahao-dao-jiuyi-cong-chiyao-dao-shoushu-anzhen-yisheng-gei-ni-de-shiyong-tieshi-lnnmiealbw5s886_m4y8yjj3mja_`; created `ZhongZhaopeng` and `CardiacSurgeryModalitySelection`; and updated `ChestPainEmergencyEscalation`, `HypertensionTargetOrganDamage`, `CardiacImplantableDeviceDifferentiation`, `DaVinciSurgicalSystem`, and the canonical index from their complete bounded source sets. Core synthesis: symptom relief or one normal ECG does not close a concerning cardiac evaluation; urgent care should be routed by stability; chronic pressure load can remodel the heart and aorta; and conventional, minimally invasive, robotic, bypass, and device technologies are means selected for disease, exposure, safety, recovery, and durable outcome rather than prestige labels. No settled contradiction was adopted. Nitroglycerin instructions, procedural proportions, success rates, device survival and lifestyle effects, costs, and comparative-outcome claims remain source-scoped public education. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

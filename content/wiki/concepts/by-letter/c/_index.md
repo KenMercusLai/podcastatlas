@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8531
+wiki_total_pages: 8532
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -281,6 +281,9 @@ wiki_pages:
   - key: "CardiacImplantableDeviceDifferentiation"
     title: "Cardiac Implantable Device Differentiation / 心脏植入装置功能区分"
     url: "/wiki/concepts/cardiacimplantabledevicedifferentiation/"
+  - key: "CardiacSurgeryModalitySelection"
+    title: "Cardiac Surgery Modality Selection / 心脏外科术式选择"
+    url: "/wiki/concepts/cardiacsurgerymodalityselection/"
   - key: "CardiovascularExerciseRiskBoundary"
     title: "Cardiovascular Exercise Risk Boundary / 心血管运动风险边界"
     url: "/wiki/concepts/cardiovascularexerciseriskboundary/"
