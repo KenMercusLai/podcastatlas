@@ -29594,6 +29594,36 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/concealedcapabilitytiming/"
     },
+    "ConcealedPresidentialIllness": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "GLT3759679497 [GLT3759679497].md",
+          "key": "392-jfk-the-road-to-the-white-house-part-1-glt3759679497",
+          "show": "The Rest Is History",
+          "title": "392. JFK: The Road to the White House (Part 1)",
+          "url": "/wiki/sources/392-jfk-the-road-to-the-white-house-part-1-glt3759679497/"
+        },
+        {
+          "episode_file": "GLT6387392381 [GLT6387392381].md",
+          "key": "394-jfk-death-in-dallas-part-3-glt6387392381",
+          "show": "The Rest Is History",
+          "title": "394. JFK: Death in Dallas (Part 3)",
+          "url": "/wiki/sources/394-jfk-death-in-dallas-part-3-glt6387392381/"
+        },
+        {
+          "episode_file": "GLT9682768005 [GLT9682768005].md",
+          "key": "393-jfk-cuba-camelot-and-the-cold-war-part-2-glt9682768005",
+          "show": "The Rest Is History",
+          "title": "393. JFK: Cuba, Camelot and the Cold War (Part 2)",
+          "url": "/wiki/sources/393-jfk-cuba-camelot-and-the-cold-war-part-2-glt9682768005/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/concealedpresidentialillness/"
+    },
     "ConcernInfluenceSorting": {
       "episode_count": 1,
       "show_count": 1,
@@ -76333,9 +76363,9 @@
       "url": "/wiki/entities/jacobitism/"
     },
     "JacquelineKennedyOnassis": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6387392381 [GLT6387392381].md",
@@ -76343,6 +76373,13 @@
           "show": "The Rest Is History",
           "title": "394. JFK: Death in Dallas (Part 3)",
           "url": "/wiki/sources/394-jfk-death-in-dallas-part-3-glt6387392381/"
+        },
+        {
+          "episode_file": "GLT3759679497 [GLT3759679497].md",
+          "key": "392-jfk-the-road-to-the-white-house-part-1-glt3759679497",
+          "show": "The Rest Is History",
+          "title": "392. JFK: The Road to the White House (Part 1)",
+          "url": "/wiki/sources/392-jfk-the-road-to-the-white-house-part-1-glt3759679497/"
         }
       ],
       "updated": "2026-09-27",
@@ -79078,9 +79115,9 @@
       "url": "/wiki/entities/johndickie/"
     },
     "JohnFKennedy": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT6409828878 [GLT6409828878].md",
@@ -79116,6 +79153,13 @@
           "show": "The Rest Is History",
           "title": "393. JFK: Cuba, Camelot and the Cold War (Part 2)",
           "url": "/wiki/sources/393-jfk-cuba-camelot-and-the-cold-war-part-2-glt9682768005/"
+        },
+        {
+          "episode_file": "GLT3759679497 [GLT3759679497].md",
+          "key": "392-jfk-the-road-to-the-white-house-part-1-glt3759679497",
+          "show": "The Rest Is History",
+          "title": "392. JFK: The Road to the White House (Part 1)",
+          "url": "/wiki/sources/392-jfk-the-road-to-the-white-house-part-1-glt3759679497/"
         }
       ],
       "updated": "2026-09-27",
@@ -79760,6 +79804,38 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/entities/josephlaroche/"
+    },
+    "JosephPKennedyJr": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3759679497 [GLT3759679497].md",
+          "key": "392-jfk-the-road-to-the-white-house-part-1-glt3759679497",
+          "show": "The Rest Is History",
+          "title": "392. JFK: The Road to the White House (Part 1)",
+          "url": "/wiki/sources/392-jfk-the-road-to-the-white-house-part-1-glt3759679497/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/josephpkennedyjr/"
+    },
+    "JosephPKennedySr": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3759679497 [GLT3759679497].md",
+          "key": "392-jfk-the-road-to-the-white-house-part-1-glt3759679497",
+          "show": "The Rest Is History",
+          "title": "392. JFK: The Road to the White House (Part 1)",
+          "url": "/wiki/sources/392-jfk-the-road-to-the-white-house-part-1-glt3759679497/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/josephpkennedysr/"
     },
     "JosephStiglitz": {
       "episode_count": 1,
@@ -80974,6 +81050,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/kennedyassassination/"
+    },
+    "KennedyFamilyPoliticalFormation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3759679497 [GLT3759679497].md",
+          "key": "392-jfk-the-road-to-the-white-house-part-1-glt3759679497",
+          "show": "The Rest Is History",
+          "title": "392. JFK: The Road to the White House (Part 1)",
+          "url": "/wiki/sources/392-jfk-the-road-to-the-white-house-part-1-glt3759679497/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/kennedyfamilypoliticalformation/"
     },
     "KennethRogoff": {
       "episode_count": 1,
@@ -109829,6 +109921,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/pointertrial/"
+    },
+    "PT109Incident": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3759679497 [GLT3759679497].md",
+          "key": "392-jfk-the-road-to-the-white-house-part-1-glt3759679497",
+          "show": "The Rest Is History",
+          "title": "392. JFK: The Road to the White House (Part 1)",
+          "url": "/wiki/sources/392-jfk-the-road-to-the-white-house-part-1-glt3759679497/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/pt109incident/"
     },
     "PTSDHomecomingNarrative": {
       "episode_count": 1,

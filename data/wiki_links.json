@@ -1027,6 +1027,10 @@
     "title": "39.哲学家与狼：在朗格多克永恒的夏天",
     "url": "/wiki/sources/39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065/"
   },
+  "392-jfk-the-road-to-the-white-house-part-1-glt3759679497": {
+    "title": "392. JFK: The Road to the White House (Part 1)",
+    "url": "/wiki/sources/392-jfk-the-road-to-the-white-house-part-1-glt3759679497/"
+  },
   "393-jfk-cuba-camelot-and-the-cold-war-part-2-glt9682768005": {
     "title": "393. JFK: Cuba, Camelot and the Cold War (Part 2)",
     "url": "/wiki/sources/393-jfk-cuba-camelot-and-the-cold-war-part-2-glt9682768005/"
@@ -16030,6 +16034,10 @@
   "ConcealedCapabilityTiming": {
     "title": "Concealed Capability Timing / 藏器待时",
     "url": "/wiki/concepts/concealedcapabilitytiming/"
+  },
+  "ConcealedPresidentialIllness": {
+    "title": "Concealed Presidential Illness",
+    "url": "/wiki/concepts/concealedpresidentialillness/"
   },
   "ConcededKingshipStabilization": {
     "title": "Conceded Kingship Stabilization / 让封真王式稳局",
@@ -37495,6 +37503,14 @@
     "title": "Joseph Laroche",
     "url": "/wiki/entities/josephlaroche/"
   },
+  "JosephPKennedyJr": {
+    "title": "Joseph P. Kennedy Jr.",
+    "url": "/wiki/entities/josephpkennedyjr/"
+  },
+  "JosephPKennedySr": {
+    "title": "Joseph P. Kennedy Sr.",
+    "url": "/wiki/entities/josephpkennedysr/"
+  },
   "JosephSchumpeter": {
     "title": "Joseph Schumpeter",
     "url": "/wiki/entities/josephschumpeter/"
@@ -38318,6 +38334,10 @@
   "KennedyAssassination": {
     "title": "Assassination of John F. Kennedy",
     "url": "/wiki/entities/kennedyassassination/"
+  },
+  "KennedyFamilyPoliticalFormation": {
+    "title": "Kennedy Family Political Formation",
+    "url": "/wiki/concepts/kennedyfamilypoliticalformation/"
   },
   "KennethBianchi": {
     "title": "Kenneth Bianchi",
@@ -51170,6 +51190,10 @@
   "PPSports": {
     "title": "PP体育 / PP Sports",
     "url": "/wiki/entities/ppsports/"
+  },
+  "PT109Incident": {
+    "title": "PT-109 Incident",
+    "url": "/wiki/entities/pt109incident/"
   },
   "PTSDHomecomingNarrative": {
     "title": "PTSD Homecoming Narrative / 创伤版回家叙事",

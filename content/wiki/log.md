@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-27] ingest | 392. JFK: The Road to the White House (Part 1)
+
+Added source `392-jfk-the-road-to-the-white-house-part-1-glt3759679497`; created `JosephPKennedySr`, `JosephPKennedyJr`, `PT109Incident`, `KennedyFamilyPoliticalFormation`, and `ConcealedPresidentialIllness`; and updated `JohnFKennedy`, `JacquelineKennedyOnassis`, and the canonical index from their complete bounded source sets. Core synthesis: Irish Catholic outsider consciousness, wealth, paternal competition, severe hidden illness, reading and Anglophilia, PT-109 courage, Joe Jr.'s wartime death, and Jack's own internationalist convictions jointly formed his political rise; family succession redirected existing ambition rather than creating it. No settled contradiction with Parts 2-7 was found. Medical detail, private motives, family influence, relationship judgments, dialogue, and causal claims about status resentment or infidelity remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-27] ingest | 395. JFK: Hunt for a Killer (Part 4)
 
 Added source `395-jfk-hunt-for-a-killer-part-4-glt1345279222`; created `JDTippit`; and updated `JohnFKennedy`, `LeeHarveyOswald`, `KennedyAssassination`, `JackRuby`, `DallasPoliceDepartment`, `LyndonBJohnson`, `ConspiracyTheoryPatternSeeking`, `OfficialInquiryTrustRepair`, and the canonical index from their complete bounded source sets. Core synthesis: Kennedy's death, the first-day Depository and Tippit investigations, Oswald's theater arrest, the Hidell rifle trace, Johnson's succession, and Ruby's police-station access form one compressed crisis in which substantial evidence and genuine procedural irregularity coexisted. No settled contradiction with Parts 5-7 was found. Eyewitness, medical, timing, demeanor, motive, official-threat, and legal-process claims remain source-scoped; immediate plot hypotheses and access failures justify scrutiny without themselves proving conspiracy. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -23492,6 +23496,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-27] ingest | How to Unlock Your Potential, Motivation & Unique Abilities | Dr. Adam Grant
 
 Added source `how-to-unlock-your-potential-motivation-unique-abilities-dr-adam-grant-scim2670765142`; created `AdamGrant`, `HiddenPotential`, `AdviceSeekingForImprovement`, `ScientistModeThinking`, `PotentialAsGrowthRate`, and `BiasBlindSpot`; and updated `SubconsciousCreativeIncubation`, `ProcrastinationSelfRegulationFailure`, `GrowthMindset`, `MotivationCrowdingOut`, `PerfectionismAsAvoidance`, and the canonical index from their complete bounded source sets. Core synthesis: potential is better judged through growth under obstacles than starting ability, while creativity and performance improve through bounded incubation, intrinsic interest or purpose, future-oriented advice, environmental scaffolding, testable beliefs, and standards calibrated to task consequence. No settled contradiction found. Deliberate creative delay is distinguished from costly procrastination; rewards can increase output while still crowding out autonomy or quality; and the cited creativity, productivity, mindset, job-crafting, perfectionism, advice-giving, memory, and parenting findings remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten because the existing motivation, creativity, learning, and feedback syntheses already cover the relevant domains.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-27] lint | Wiki health check
 

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2741
+topic_total_pages: 2744
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -745,6 +745,9 @@ topic_concepts:
   - key: "ComprehensiveConsumerDataPrivacy"
     title: "Comprehensive Consumer Data Privacy"
     url: "/wiki/concepts/comprehensiveconsumerdataprivacy/"
+  - key: "ConcealedPresidentialIllness"
+    title: "Concealed Presidential Illness"
+    url: "/wiki/concepts/concealedpresidentialillness/"
   - key: "ConcessionBasedHegemony"
     title: "Concession-Based Hegemony / 让利式霸权"
     url: "/wiki/concepts/concessionbasedhegemony/"
@@ -1969,6 +1972,9 @@ topic_concepts:
   - key: "JulyCrisis"
     title: "July Crisis"
     url: "/wiki/concepts/julycrisis/"
+  - key: "KennedyFamilyPoliticalFormation"
+    title: "Kennedy Family Political Formation"
+    url: "/wiki/concepts/kennedyfamilypoliticalformation/"
   - key: "KeyPersonInsurance"
     title: "Key Person Insurance"
     url: "/wiki/concepts/keypersoninsurance/"
@@ -5591,6 +5597,9 @@ topic_entities:
   - key: "JosephAoun"
     title: "Joseph Aoun"
     url: "/wiki/entities/josephaoun/"
+  - key: "JosephPKennedySr"
+    title: "Joseph P. Kennedy Sr."
+    url: "/wiki/entities/josephpkennedysr/"
   - key: "JoshHawley"
     title: "Josh Hawley"
     url: "/wiki/entities/joshhawley/"

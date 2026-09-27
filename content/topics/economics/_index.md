@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2113
+topic_total_pages: 2114
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -4172,6 +4172,9 @@ topic_entities:
   - key: "JordiHayes"
     title: "Jordi Hayes"
     url: "/wiki/entities/jordihayes/"
+  - key: "JosephPKennedySr"
+    title: "Joseph P. Kennedy Sr."
+    url: "/wiki/entities/josephpkennedysr/"
   - key: "JosephSchumpeter"
     title: "Joseph Schumpeter"
     url: "/wiki/entities/josephschumpeter/"

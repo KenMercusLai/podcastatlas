@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8370
+wiki_total_pages: 8372
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -1562,6 +1562,9 @@ wiki_pages:
   - key: "ConcealedCapabilityTiming"
     title: "Concealed Capability Timing / 藏器待时"
     url: "/wiki/concepts/concealedcapabilitytiming/"
+  - key: "ConcealedPresidentialIllness"
+    title: "Concealed Presidential Illness"
+    url: "/wiki/concepts/concealedpresidentialillness/"
   - key: "ConcededKingshipStabilization"
     title: "Conceded Kingship Stabilization / 让封真王式稳局"
     url: "/wiki/concepts/concededkingshipstabilization/"

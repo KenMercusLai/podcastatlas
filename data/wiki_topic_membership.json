@@ -19433,6 +19433,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "ConcealedPresidentialIllness": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "ConcededKingshipStabilization": [
     {
       "key": "history",
@@ -41715,6 +41727,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "JosephPKennedySr": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "JosephSchumpeter": [
     {
       "key": "economics",
@@ -42523,6 +42547,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "KennedyFamilyPoliticalFormation": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "KennethStanley": [

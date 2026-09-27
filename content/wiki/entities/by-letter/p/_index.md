@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 10978
+wiki_total_pages: 10981
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -839,6 +839,9 @@ wiki_pages:
   - key: "PsychoChihuahua"
     title: "Psycho Chihuahua"
     url: "/wiki/entities/psychochihuahua/"
+  - key: "PT109Incident"
+    title: "PT-109 Incident"
+    url: "/wiki/entities/pt109incident/"
   - key: "PuShougeng"
     title: "Pu Shougeng / 蒲寿庚"
     url: "/wiki/entities/pushougeng/"

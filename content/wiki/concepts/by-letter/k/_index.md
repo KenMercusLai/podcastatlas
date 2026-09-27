@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "k"
-wiki_total_pages: 8370
+wiki_total_pages: 8372
 wiki_pages:
   - key: "K12ComputerScienceAccess"
     title: "K-12 Computer Science Access"
@@ -32,6 +32,9 @@ wiki_pages:
   - key: "KellyCriterion"
     title: "Kelly Criterion"
     url: "/wiki/concepts/kellycriterion/"
+  - key: "KennedyFamilyPoliticalFormation"
+    title: "Kennedy Family Political Formation"
+    url: "/wiki/concepts/kennedyfamilypoliticalformation/"
   - key: "KernelDevelopmentAgents"
     title: "Kernel Development Agents"
     url: "/wiki/concepts/kerneldevelopmentagents/"

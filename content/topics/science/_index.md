@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1246
+topic_total_pages: 1247
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -397,6 +397,9 @@ topic_concepts:
   - key: "ComputationalBiology"
     title: "Computational Biology"
     url: "/wiki/concepts/computationalbiology/"
+  - key: "ConcealedPresidentialIllness"
+    title: "Concealed Presidential Illness"
+    url: "/wiki/concepts/concealedpresidentialillness/"
   - key: "ConcessionSignaling"
     title: "Concession Signaling / 让步信号"
     url: "/wiki/concepts/concessionsignaling/"

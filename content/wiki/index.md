@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [392. JFK: The Road to the White House (Part 1)](sources/392-jfk-the-road-to-the-white-house-part-1-glt3759679497.md) — The Rest Is History episode on Kennedy family ambition, chronic illness, Anglophilia, PT-109, Joe Jr.'s death, marriage, and JFK's early political rise.
 - [How to Unlock Your Potential, Motivation & Unique Abilities | Dr. Adam Grant](sources/how-to-unlock-your-potential-motivation-unique-abilities-dr-adam-grant-scim2670765142.md) — Huberman Lab interview on creative delay, intrinsic motivation, advice-oriented feedback, contextual growth mindset, scientist mode, imperfectionism, and potential as developmental trajectory.
 - [VOL.87儿科急诊｜害怕医院有交叉感染就不带孩子去看病？被忽略的那些致命细节](sources/vol-87-erke-jizhen-haipa-yiyuan-you-jiaochaganran-jiu-bu-dai-haizi-qu-kanbing-bei-hulue-de-naxie-zhiming-xijie-lgcixq48amokf8z_tbv7l7bookhg.md) — 这病说来话长 episode with 王杰宠 on pediatric emergency escalation, airway foreign bodies, household first aid, imaging decisions, and urgent family-clinician communication.
 - [393. JFK: Cuba, Camelot and the Cold War (Part 2)](sources/393-jfk-cuba-camelot-and-the-cold-war-part-2-glt9682768005.md) — The Rest Is History episode testing assassination motives against Kennedy's centrist domestic politics, Cuba record, Cold War restraint, Vietnam uncertainty, and 1964 prospects.
@@ -2972,6 +2973,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dealey Plaza](entities/DealeyPlaza.md) — Compact Dallas crime scene whose route geometry, witnesses, sight lines, and acoustics shaped the attack and its interpretation.
 - [Robert Greene](entities/RobertGreene.md) — Author connecting purpose, power, relationships, difficult thinking, and mortality in a source-bounded Huberman Lab profile.
 - [John F. Kennedy](entities/JohnFKennedy.md) — U.S. president whose pragmatic politics, Cold War record, death, alleged motives, and conspiracy afterlife organize the JFK sequence.
+- [Joseph P. Kennedy Sr.](entities/JosephPKennedySr.md) — Wealthy patriarch whose outsider resentment, competition, resources, diplomacy, and isolationism shaped the Kennedy political project.
+- [Joseph P. Kennedy Jr.](entities/JosephPKennedyJr.md) — Original Kennedy family standard-bearer whose wartime death redirected political expectations toward his younger brother.
+- [PT-109 Incident](entities/PT109Incident.md) — Wartime survival and rescue episode joining John F. Kennedy's genuine bravery to later political capital and worsened health.
 - [Lee Harvey Oswald](entities/LeeHarveyOswald.md) — Former Marine and Soviet defector whom the episode identifies as Kennedy's killer through a cumulative biographical and evidentiary case.
 - [Assassination of John F. Kennedy](entities/KennedyAssassination.md) — 1963 Dallas killing presented through lone-gunman evidence, ballistic objections, and a durable conspiracy afterlife.
 - [Warren Commission](entities/WarrenCommission.md) — Official inquiry whose broad conclusion that Oswald acted alone is defended but not exhaustively audited by the episode.
@@ -13954,6 +13958,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kay Tye](entities/KayTye.md) — Neuroscientist connecting emotional-valence circuits to loneliness, social homeostasis, hierarchy, and sustainable scientific leadership.
 
 ## Concepts
+- [Kennedy Family Political Formation](concepts/KennedyFamilyPoliticalFormation.md) — Framework joining outsider status, wealth, family competition, wartime succession, political resources, and individual agency in JFK's rise.
+- [Concealed Presidential Illness](concepts/ConcealedPresidentialIllness.md) — Divergence between a leader's managed vitality image and serious health conditions affecting function, treatment, risk, and voter knowledge.
 - [Bias Blind Spot](concepts/BiasBlindSpot.md) — Self-exemption pattern in which bias is easier to see in others, with outside perspective and hypothesis testing as bounded corrections.
 - [Advice Seeking for Improvement](concepts/AdviceSeekingForImprovement.md) — Future-oriented critique method that asks what to change next time and uses multiple reviewers, task focus, and receptive follow-through.
 - [Scientist Mode Thinking](concepts/ScientistModeThinking.md) — Reasoning stance that treats opinions as hypotheses and decisions as experiments while preserving ethical and evidentiary boundaries.
