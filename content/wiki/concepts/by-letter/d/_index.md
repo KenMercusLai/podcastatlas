@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 8467
+wiki_total_pages: 8472
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -293,6 +293,9 @@ wiki_pages:
   - key: "DecisionSpeedAccuracyControl"
     title: "Decision Speed-Accuracy Control"
     url: "/wiki/concepts/decisionspeedaccuracycontrol/"
+  - key: "DecisionActionCostAsymmetry"
+    title: "Decision–Action Cost Asymmetry / 决策—行动成本不对称"
+    url: "/wiki/concepts/decisionactioncostasymmetry/"
   - key: "DecisiveResourceCommitment"
     title: "Decisive Resource Commitment / 决断型资源投入"
     url: "/wiki/concepts/decisiveresourcecommitment/"

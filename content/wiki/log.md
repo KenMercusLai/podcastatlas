@@ -23940,3 +23940,11 @@ Added source `journal-club-with-dr-peter-attia-metformin-for-longevity-the-power
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | AI Trading —— 决策便宜，行动很贵｜对谈超 3w Star Vibe-Trading 作者浩哲
+
+Added source `ai-trading-juece-pianyi-xingdong-hengui-duitan-chao-3w-star-vibe-trading-zuozhe-haozhe-luz0eizpk9v3nz94iuutp1z9xj25`; created `WuHaozhe`, `VibeTrading`, `AITrading`, `DecisionActionCostAsymmetry`, `FinancialDataAlignment`, `PointInTimeBacktesting`, and `TradingProbabilityCalibration`; and updated `42Zhangjing` plus the canonical index from the complete bounded source set. Core synthesis: AI can make investment judgments abundant and cheap, but capital commitment, loss, and responsibility remain expensive, so a trustworthy system must separate facts from hypotheses, align data semantics and timing, test contrary evidence and costs, calibrate confidence, execute selectively, and keep risk limits and exceptions under accountable human control. No settled contradiction is adopted. Product metrics, personal AI reliance, rapid market-efficiency forecasts, and multi-agent behavior claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

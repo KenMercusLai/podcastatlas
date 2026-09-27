@@ -6855,6 +6855,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "AITrading": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AITrainerLabor": [
     {
       "key": "technology",
@@ -22758,6 +22765,13 @@
       "url": "/topics/history/"
     }
   ],
+  "DecisionActionCostAsymmetry": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "DecisiveResourceCommitment": [
     {
       "key": "politics",
@@ -29373,6 +29387,13 @@
     }
   ],
   "FinancialCareerRisk": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
+  "FinancialDataAlignment": [
     {
       "key": "economics",
       "label": "Economics",
@@ -77224,6 +77245,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "VibeTrading": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "VibeTraining": [
     {
       "key": "technology",
@@ -80107,6 +80135,18 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "WuHaozhe": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "WuJianglongWesternHan": [
@@ -84654,6 +84694,13 @@
     }
   ],
   "ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "ai-trading-juece-pianyi-xingdong-hengui-duitan-chao-3w-star-vibe-trading-zuozhe-haozhe-luz0eizpk9v3nz94iuutp1z9xj25": [
     {
       "key": "technology",
       "label": "Technology",

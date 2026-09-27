@@ -3019,6 +3019,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [373. Oswald Mosley: Fascist Leader](sources/373-oswald-mosley-fascist-leader-glt7471576360.md) — The Rest Is History episode on Mosley's parliamentary rise, interventionist economics, fascist turn, Blackshirt spectacle, and the Olympia backlash.
 - [374. The Battle of Cable Street: Fascism Defeated](sources/374-the-battle-of-cable-street-fascism-defeated-glt3021730207.md) — The Rest Is History episode distinguishing Cable Street's successful blockade and symbolic legacy from the BUF's immediate survival, antisemitic backlash, and later ultra-appeasement.
 - [372. The Birth of British Fascism](sources/372-the-birth-of-british-fascism-glt4747738645.md) — The Rest Is History episode on Britain's domestic fascist ingredients, early organizations, parliamentary resilience, and the leadership gap before Mosley.
+- [AI Trading —— 决策便宜，行动很贵｜对谈超 3w Star Vibe-Trading 作者浩哲](sources/ai-trading-juece-pianyi-xingdong-hengui-duitan-chao-3w-star-vibe-trading-zuozhe-haozhe-luz0eizpk9v3nz94iuutp1z9xj25.md) — 42章经 conversation on Vibe Trading, auditable AI investment research, financial data alignment, point-in-time validation, calibrated probabilities, and bounded human-controlled execution.
 
 ## Entities
 - [William of Wykeham](entities/WilliamOfWykeham.md) — Medieval bishop and chancellor whose Winchester–New College pipeline joined poor scholars, Latin training, and limited elite access.
@@ -14106,6 +14107,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Victor Barker](entities/VictorBarker.md) — National Fascisti participant identified through several names and titles in the bounded source.
 - [Imperial Fascist League](entities/ImperialFascistLeague.md) — Arnold Leese's intensely antisemitic, uniformed, but politically marginal fascist organization.
 - [Arnold Leese](entities/ArnoldLeese.md) — Veterinarian, camel specialist, antisemite, and founder of the Imperial Fascist League.
+- [吴浩哲 / Wu Haozhe](entities/WuHaozhe.md) — Vibe Trading author and researcher framing AI-assisted investing as verified research plus bounded, accountable action.
+- [Vibe Trading](entities/VibeTrading.md) — Open-source secondary-market research workspace integrating macro, fundamental, quantitative, and risk analysis.
 
 ## Concepts
 - [British Public Schools](concepts/BritishPublicSchools.md) — Institutional tradition joining charitable purpose, fee-paying elite access, classical learning, pupil hierarchy, character claims, and durable prestige.
@@ -22591,5 +22594,10 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [British Fascism](concepts/BritishFascism.md) — Domestic authoritarian current spanning imperial and racial anxiety, early fragmented groups, Mosley's Blackshirts, antisemitic street politics, ultra-appeasement, and electoral marginality.
 - [Fascist Glamour and Memory](concepts/FascistGlamourAndMemory.md) — Process by which status, celebrity, wit, and sensational biography can aestheticize extremist politics without reducing responsibility.
+- [AI Trading](concepts/AITrading.md) — Gated financial workflow from sourced material and hypotheses through validation, limited execution, and review.
+- [Decision–Action Cost Asymmetry / 决策—行动成本不对称](concepts/DecisionActionCostAsymmetry.md) — Principle that cheap AI judgments require selective controls before costly, consequential action.
+- [Financial Data Alignment / 金融数据对齐](concepts/FinancialDataAlignment.md) — Semantic and temporal alignment of units, conventions, sources, revisions, missingness, and dependencies in financial research.
+- [Point-in-Time Backtesting / 时点回测](concepts/PointInTimeBacktesting.md) — Historical testing restricted to information and data versions available at each simulated decision time.
+- [Trading Probability Calibration / 交易概率校准](concepts/TradingProbabilityCalibration.md) — Validation of confidence against outcomes, market pricing, evidence dependence, costs, and position size.
 
 ## Syntheses

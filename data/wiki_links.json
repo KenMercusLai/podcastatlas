@@ -3687,6 +3687,10 @@
     "title": "AI Toy Companionship / AI玩具陪伴",
     "url": "/wiki/concepts/aitoycompanionship/"
   },
+  "AITrading": {
+    "title": "AI Trading",
+    "url": "/wiki/concepts/aitrading/"
+  },
   "AITrainerLabor": {
     "title": "AI Trainer Labor",
     "url": "/wiki/concepts/aitrainerlabor/"
@@ -19163,6 +19167,10 @@
     "title": "Decimus Junius Brutus / 德奇姆斯",
     "url": "/wiki/entities/decimusjuniusbrutus/"
   },
+  "DecisionActionCostAsymmetry": {
+    "title": "Decision–Action Cost Asymmetry / 决策—行动成本不对称",
+    "url": "/wiki/concepts/decisionactioncostasymmetry/"
+  },
   "DecisionSpeedAccuracyControl": {
     "title": "Decision Speed-Accuracy Control",
     "url": "/wiki/concepts/decisionspeedaccuracycontrol/"
@@ -25642,6 +25650,10 @@
   "FinancialCareerRisk": {
     "title": "Financial Career Risk",
     "url": "/wiki/concepts/financialcareerrisk/"
+  },
+  "FinancialDataAlignment": {
+    "title": "Financial Data Alignment / 金融数据对齐",
+    "url": "/wiki/concepts/financialdataalignment/"
   },
   "FinancialEmployeeMisconductControls": {
     "title": "Financial Employee Misconduct Controls",
@@ -54055,6 +54067,10 @@
     "title": "诗歌翻译的声音缺口 / Poetry Translation Sound Gap",
     "url": "/wiki/concepts/poetrytranslationsoundgap/"
   },
+  "PointInTimeBacktesting": {
+    "title": "Point-in-Time Backtesting / 时点回测",
+    "url": "/wiki/concepts/pointintimebacktesting/"
+  },
   "PointingDeerAsHorse": {
     "title": "指鹿为马 / Pointing Deer As Horse",
     "url": "/wiki/concepts/pointingdeerashorse/"
@@ -69871,6 +69887,10 @@
     "title": "Trading Company Investment Model",
     "url": "/wiki/concepts/tradingcompanyinvestmentmodel/"
   },
+  "TradingProbabilityCalibration": {
+    "title": "Trading Probability Calibration / 交易概率校准",
+    "url": "/wiki/concepts/tradingprobabilitycalibration/"
+  },
   "TraditionalChineseApprenticeship": {
     "title": "中国传统学徒制 / Traditional Chinese Apprenticeship",
     "url": "/wiki/concepts/traditionalchineseapprenticeship/"
@@ -71834,6 +71854,10 @@
   "VibeSong": {
     "title": "Vibe Song",
     "url": "/wiki/entities/vibesong/"
+  },
+  "VibeTrading": {
+    "title": "Vibe Trading",
+    "url": "/wiki/entities/vibetrading/"
   },
   "VibeTraining": {
     "title": "Vibe Training",
@@ -74786,6 +74810,10 @@
   "WuHaotianAnesthesiologist": {
     "title": "吴浩天 / Wu Haotian (Anesthesiologist)",
     "url": "/wiki/entities/wuhaotiananesthesiologist/"
+  },
+  "WuHaozhe": {
+    "title": "吴浩哲 / Wu Haozhe",
+    "url": "/wiki/entities/wuhaozhe/"
   },
   "WuJianglongWesternHan": {
     "title": "武将龙 / Wu Jianglong (Western Han)",
@@ -80550,6 +80578,10 @@
   "ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing": {
     "title": "AI Startup Hits $8.6M ARR With V0 MVP and EUR85 Pricing",
     "url": "/wiki/sources/ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing/"
+  },
+  "ai-trading-juece-pianyi-xingdong-hengui-duitan-chao-3w-star-vibe-trading-zuozhe-haozhe-luz0eizpk9v3nz94iuutp1z9xj25": {
+    "title": "AI Trading —— 决策便宜，行动很贵｜对谈超 3w Star Vibe-Trading 作者浩哲",
+    "url": "/wiki/sources/ai-trading-juece-pianyi-xingdong-hengui-duitan-chao-3w-star-vibe-trading-zuozhe-haozhe-luz0eizpk9v3nz94iuutp1z9xj25/"
   },
   "ai-xia-banchang-buhui-zhisheng-yige-chaoji-moxing-duitan-kevin-ding-pyromind-chuangshiren-ceo-lsq-rke8nfrbi5xalgst3a8uncfd": {
     "title": "AI 下半场，不会只剩一个超级模型｜对谈 Kevin Ding：Pyromind 创始人/CEO",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8467
+wiki_total_pages: 8472
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -869,6 +869,9 @@ wiki_pages:
   - key: "PoetryEducationAsPlay"
     title: "Poetry Education As Play"
     url: "/wiki/concepts/poetryeducationasplay/"
+  - key: "PointInTimeBacktesting"
+    title: "Point-in-Time Backtesting / 时点回测"
+    url: "/wiki/concepts/pointintimebacktesting/"
   - key: "PoliceConsentDecreeCultureGap"
     title: "Police Consent Decree Culture Gap"
     url: "/wiki/concepts/policeconsentdecreeculturegap/"

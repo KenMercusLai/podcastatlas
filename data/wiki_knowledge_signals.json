@@ -17,9 +17,9 @@
       "url": "/wiki/entities/3721/"
     },
     "42Zhangjing": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 1,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "泡沫的四个必要不充分条件 ｜ 对谈经济学者朱宁教授 [lo4XhK5fNW1DCoRwaCtTcSfJjr78].md",
@@ -111,9 +111,16 @@
           "show": "42章经",
           "title": "一个人、两周、数百美元，如何训出登顶 Hugging Face 的模型 | 对谈研究员逯雨鑫",
           "url": "/wiki/sources/yi-ge-ren-liang-zhou-shu-bai-meiyuan-ruhe-xun-chu-dengding-hugging-face-de-moxing-duitan-yanjiuyuan-lu-yuxin-lpxxrnwdhgnsrxuyhrfrv5t1lojt/"
+        },
+        {
+          "episode_file": "AI Trading —— 决策便宜，行动很贵｜对谈超 3w Star Vibe-Trading 作者浩哲 [luZ0EizpK9v3NZ94IuUtP1Z9Xj25].md",
+          "key": "ai-trading-juece-pianyi-xingdong-hengui-duitan-chao-3w-star-vibe-trading-zuozhe-haozhe-luz0eizpk9v3nz94iuutp1z9xj25",
+          "show": "42章经",
+          "title": "AI Trading —— 决策便宜，行动很贵｜对谈超 3w Star Vibe-Trading 作者浩哲",
+          "url": "/wiki/sources/ai-trading-juece-pianyi-xingdong-hengui-duitan-chao-3w-star-vibe-trading-zuozhe-haozhe-luz0eizpk9v3nz94iuutp1z9xj25/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/42zhangjing/"
     },
     "A24": {
@@ -3981,6 +3988,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/aitalk/"
+    },
+    "AITrading": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "AI Trading —— 决策便宜，行动很贵｜对谈超 3w Star Vibe-Trading 作者浩哲 [luZ0EizpK9v3NZ94IuUtP1Z9Xj25].md",
+          "key": "ai-trading-juece-pianyi-xingdong-hengui-duitan-chao-3w-star-vibe-trading-zuozhe-haozhe-luz0eizpk9v3nz94iuutp1z9xj25",
+          "show": "42章经",
+          "title": "AI Trading —— 决策便宜，行动很贵｜对谈超 3w Star Vibe-Trading 作者浩哲",
+          "url": "/wiki/sources/ai-trading-juece-pianyi-xingdong-hengui-duitan-chao-3w-star-vibe-trading-zuozhe-haozhe-luz0eizpk9v3nz94iuutp1z9xj25/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/aitrading/"
     },
     "AITrainingCopyrightDispute": {
       "episode_count": 4,
@@ -37474,6 +37497,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/deceptivesurrenderlull/"
     },
+    "DecisionActionCostAsymmetry": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "AI Trading —— 决策便宜，行动很贵｜对谈超 3w Star Vibe-Trading 作者浩哲 [luZ0EizpK9v3NZ94IuUtP1Z9Xj25].md",
+          "key": "ai-trading-juece-pianyi-xingdong-hengui-duitan-chao-3w-star-vibe-trading-zuozhe-haozhe-luz0eizpk9v3nz94iuutp1z9xj25",
+          "show": "42章经",
+          "title": "AI Trading —— 决策便宜，行动很贵｜对谈超 3w Star Vibe-Trading 作者浩哲",
+          "url": "/wiki/sources/ai-trading-juece-pianyi-xingdong-hengui-duitan-chao-3w-star-vibe-trading-zuozhe-haozhe-luz0eizpk9v3nz94iuutp1z9xj25/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/decisionactioncostasymmetry/"
+    },
     "DecisionSpeedAccuracyControl": {
       "episode_count": 1,
       "show_count": 1,
@@ -55225,6 +55264,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/entities/finalspark/"
+    },
+    "FinancialDataAlignment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "AI Trading —— 决策便宜，行动很贵｜对谈超 3w Star Vibe-Trading 作者浩哲 [luZ0EizpK9v3NZ94IuUtP1Z9Xj25].md",
+          "key": "ai-trading-juece-pianyi-xingdong-hengui-duitan-chao-3w-star-vibe-trading-zuozhe-haozhe-luz0eizpk9v3nz94iuutp1z9xj25",
+          "show": "42章经",
+          "title": "AI Trading —— 决策便宜，行动很贵｜对谈超 3w Star Vibe-Trading 作者浩哲",
+          "url": "/wiki/sources/ai-trading-juece-pianyi-xingdong-hengui-duitan-chao-3w-star-vibe-trading-zuozhe-haozhe-luz0eizpk9v3nz94iuutp1z9xj25/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/financialdataalignment/"
     },
     "FinancialFreedomVsLifestyleFreedom": {
       "episode_count": 8,
@@ -119997,6 +120052,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/poetrytranslationsoundgap/"
     },
+    "PointInTimeBacktesting": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "AI Trading —— 决策便宜，行动很贵｜对谈超 3w Star Vibe-Trading 作者浩哲 [luZ0EizpK9v3NZ94IuUtP1Z9Xj25].md",
+          "key": "ai-trading-juece-pianyi-xingdong-hengui-duitan-chao-3w-star-vibe-trading-zuozhe-haozhe-luz0eizpk9v3nz94iuutp1z9xj25",
+          "show": "42章经",
+          "title": "AI Trading —— 决策便宜，行动很贵｜对谈超 3w Star Vibe-Trading 作者浩哲",
+          "url": "/wiki/sources/ai-trading-juece-pianyi-xingdong-hengui-duitan-chao-3w-star-vibe-trading-zuozhe-haozhe-luz0eizpk9v3nz94iuutp1z9xj25/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/pointintimebacktesting/"
+    },
     "PokeRobotics": {
       "episode_count": 2,
       "show_count": 2,
@@ -153324,6 +153395,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/tradeshowboothsharing/"
     },
+    "TradingProbabilityCalibration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "AI Trading —— 决策便宜，行动很贵｜对谈超 3w Star Vibe-Trading 作者浩哲 [luZ0EizpK9v3NZ94IuUtP1Z9Xj25].md",
+          "key": "ai-trading-juece-pianyi-xingdong-hengui-duitan-chao-3w-star-vibe-trading-zuozhe-haozhe-luz0eizpk9v3nz94iuutp1z9xj25",
+          "show": "42章经",
+          "title": "AI Trading —— 决策便宜，行动很贵｜对谈超 3w Star Vibe-Trading 作者浩哲",
+          "url": "/wiki/sources/ai-trading-juece-pianyi-xingdong-hengui-duitan-chao-3w-star-vibe-trading-zuozhe-haozhe-luz0eizpk9v3nz94iuutp1z9xj25/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/tradingprobabilitycalibration/"
+    },
     "TraditionalChineseApprenticeship": {
       "episode_count": 1,
       "show_count": 1,
@@ -157204,6 +157291,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/vibecoding/"
+    },
+    "VibeTrading": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "AI Trading —— 决策便宜，行动很贵｜对谈超 3w Star Vibe-Trading 作者浩哲 [luZ0EizpK9v3NZ94IuUtP1Z9Xj25].md",
+          "key": "ai-trading-juece-pianyi-xingdong-hengui-duitan-chao-3w-star-vibe-trading-zuozhe-haozhe-luz0eizpk9v3nz94iuutp1z9xj25",
+          "show": "42章经",
+          "title": "AI Trading —— 决策便宜，行动很贵｜对谈超 3w Star Vibe-Trading 作者浩哲",
+          "url": "/wiki/sources/ai-trading-juece-pianyi-xingdong-hengui-duitan-chao-3w-star-vibe-trading-zuozhe-haozhe-luz0eizpk9v3nz94iuutp1z9xj25/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/vibetrading/"
     },
     "VictimForgivenessAgency": {
       "episode_count": 2,
@@ -163919,6 +164022,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/wuhaotiananesthesiologist/"
+    },
+    "WuHaozhe": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "AI Trading —— 决策便宜，行动很贵｜对谈超 3w Star Vibe-Trading 作者浩哲 [luZ0EizpK9v3NZ94IuUtP1Z9Xj25].md",
+          "key": "ai-trading-juece-pianyi-xingdong-hengui-duitan-chao-3w-star-vibe-trading-zuozhe-haozhe-luz0eizpk9v3nz94iuutp1z9xj25",
+          "show": "42章经",
+          "title": "AI Trading —— 决策便宜，行动很贵｜对谈超 3w Star Vibe-Trading 作者浩哲",
+          "url": "/wiki/sources/ai-trading-juece-pianyi-xingdong-hengui-duitan-chao-3w-star-vibe-trading-zuozhe-haozhe-luz0eizpk9v3nz94iuutp1z9xj25/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/wuhaozhe/"
     },
     "WuJianglongWesternHan": {
       "episode_count": 1,

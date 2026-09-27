@@ -17,7 +17,8 @@ sources:
   - ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx
   - cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi
   - yi-ge-ren-liang-zhou-shu-bai-meiyuan-ruhe-xun-chu-dengding-hugging-face-de-moxing-duitan-yanjiuyuan-lu-yuxin-lpxxrnwdhgnsrxuyhrfrv5t1lojt
-last_updated: 2026-08-30
+  - ai-trading-juece-pianyi-xingdong-hengui-duitan-chao-3w-star-vibe-trading-zuozhe-haozhe-luz0eizpk9v3nz94iuutp1z9xj25
+last_updated: 2026-09-28
 ---
 
 # 42章经
@@ -28,7 +29,7 @@ last_updated: 2026-08-30
 ## Current Profile
 Across the bounded source set, 42章经 functions as an operator-oriented forum for testing AI and business narratives against mechanisms and constraints. Episodes move from market valuation and open-source infrastructure to consumer applications, recruiting, multi-agent work, software creation, synthetic data, and low-cost model post-training. The recurring editorial pattern is not simple optimism or pessimism: technological progress is treated as real while valuation, demand, reliability, willingness to pay, data quality, organization design, and execution remain separate tests.
 
-The profile is increasingly AI-centered. A sequence of founder interviews examines how stronger models and agents change product moats, software interfaces, staffing, pricing, and collaboration, while later synthesis and technical episodes connect those company-level observations to the application-market trough, model-training data, and the possibility that application companies will own more domain-specific model capability.
+The profile is increasingly AI-centered. A sequence of founder interviews examines how stronger models and agents change product moats, software interfaces, staffing, pricing, and collaboration, while later synthesis and technical episodes connect those company-level observations to the application-market trough, model-training data, and the possibility that application companies will own more domain-specific model capability. The Vibe Trading conversation extends that operator lens into secondary-market research, where data semantics, temporal validity, auditability, constraints, and human responsibility determine whether cheap model judgments can support costly action.
 
 ## Key Characteristics
 - Combines investing and technology analysis by separating underlying capability from valuation, timing, and personal or company risk.
@@ -36,6 +37,7 @@ The profile is increasingly AI-centered. A sequence of founder interviews examin
 - Covers the AI stack across consumer products, application businesses, organizational systems, agent collaboration, open-source infrastructure, and model-training data.
 - Repeatedly tests ambitious AI claims against user pull, payment, maintenance, evaluation, security, data quality, and human accountability.
 - Builds continuity across episodes, revisiting coding democratization, agent-native work, application-layer pressure, and model capability from multiple levels of the stack.
+- Extends AI product analysis into high-stakes finance by distinguishing abundant research output from bounded, accountable execution.
 
 ## Evidence
 ### Technology, markets, and strategic discipline
@@ -59,16 +61,18 @@ The profile is increasingly AI-centered. A sequence of founder interviews examin
 - [[cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi]] connects [[ModelDistillation]], [[SyntheticAgentData]], environment-based evaluation, and [[RSIData]] to a broader account of future model competition.
 - [[yi-ge-ren-liang-zhou-shu-bai-meiyuan-ruhe-xun-chu-dengding-hugging-face-de-moxing-duitan-yanjiuyuan-lu-yuxin-lpxxrnwdhgnsrxuyhrfrv5t1lojt]] grounds the low-cost practitioner version: one person can use [[SupervisedFineTuning|SFT]], [[QLoRA]], real traces, and benchmark iteration to improve a small model for a narrow target, while data work remains the real bottleneck.
 
+### High-stakes financial workflows
+- [[ai-trading-juece-pianyi-xingdong-hengui-duitan-chao-3w-star-vibe-trading-zuozhe-haozhe-luz0eizpk9v3nz94iuutp1z9xj25]] uses [[VibeTrading|Vibe Trading]] to define [[AITrading]] as a gated path from evidence and hypotheses through [[FinancialDataAlignment]], [[PointInTimeBacktesting]], limited execution, and accountable review.
+
 ## Qualifications
-- This profile is synthesized only from the thirteen source notes listed in frontmatter; it is not a complete catalog of the show's history, hosts, ownership, audience, or distribution.
+- This profile is synthesized only from the fourteen source notes listed in frontmatter; it is not a complete catalog of the show's history, hosts, ownership, audience, or distribution.
 - Most evidence comes from interviews and therefore records guests' retrospective claims, estimates, and product theses rather than independent verification by the show or the wiki.
-- The bounded set is heavily concentrated in 2026 AI startups, agents, and model-training topics, with one consumer-companion episode from 2024 and limited non-AI finance coverage, so it may overstate the show's overall AI share.
+- The bounded set is heavily concentrated in 2026 AI startups, agents, model training, and AI-assisted investing, with one consumer-companion episode from 2024 and limited non-AI finance coverage, so it may overstate the show's overall AI share.
 - Specific figures such as revenue mix, token spending, team size, agent count, model score, and training cost remain source-scoped snapshots.
 
 ## What Changed
-- Added a low-cost model post-training practitioner case to the show's existing AI-stack profile.
-- Strengthened the data-quality and evaluation thread that connects application products, agents, and model capability.
-- Clarified that the show now treats application companies as possible future holders of model capability, not only as model consumers.
+- Extended the show's AI operator profile into secondary-market research and trading-system design.
+- Strengthened the recurring boundary between abundant model output and verified, constrained, human-accountable action.
 
 ## Relationships
 - [[QuKai]] - contributes the source set's show-level AI market synthesis.
@@ -78,5 +82,6 @@ The profile is increasingly AI-centered. A sequence of founder interviews examin
 - [[Sheet0]], [[SlockAI|Slock.ai]], and [[Junior]] - form a progression from AI-managed work to multi-agent teams and enterprise AI employees.
 - [[Albert]] - connects founder decision discipline with coding democratization and long-tail software creation.
 - [[LuYuxin]] - anchors the individual-builder and small-model post-training case.
+- [[WuHaozhe]] and [[VibeTrading]] - anchor the AI-assisted investment-research and bounded-execution case.
 - [[AIApplicationMarketTrough]] - summarizes the market context used to reassess the show's application-startup interviews.
 - [[RecursiveSelfImprovement]] and [[SyntheticAgentData]] - connect the show's product and agent coverage to model-training infrastructure.

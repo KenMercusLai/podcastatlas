@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3184
+topic_total_pages: 3189
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -940,6 +940,9 @@ topic_concepts:
   - key: "AIToyCompanionship"
     title: "AI Toy Companionship / AI玩具陪伴"
     url: "/wiki/concepts/aitoycompanionship/"
+  - key: "AITrading"
+    title: "AI Trading"
+    url: "/wiki/concepts/aitrading/"
   - key: "AITrainerLabor"
     title: "AI Trainer Labor"
     url: "/wiki/concepts/aitrainerlabor/"
@@ -1741,6 +1744,9 @@ topic_concepts:
   - key: "DecentralizedWorldModelStrategy"
     title: "Decentralized World Model Strategy"
     url: "/wiki/concepts/decentralizedworldmodelstrategy/"
+  - key: "DecisionActionCostAsymmetry"
+    title: "Decision–Action Cost Asymmetry / 决策—行动成本不对称"
+    url: "/wiki/concepts/decisionactioncostasymmetry/"
   - key: "DeepResearch"
     title: "Deep Research"
     url: "/wiki/concepts/deepresearch/"
@@ -7436,6 +7442,9 @@ topic_entities:
   - key: "Verizon"
     title: "Verizon"
     url: "/wiki/entities/verizon/"
+  - key: "VibeTrading"
+    title: "Vibe Trading"
+    url: "/wiki/entities/vibetrading/"
   - key: "VibhAltakar"
     title: "Vibh Altakar"
     url: "/wiki/entities/vibhaltakar/"
@@ -7784,6 +7793,9 @@ topic_entities:
   - key: "WuXinhong"
     title: "吴欣鸿"
     url: "/wiki/entities/wuxinhong/"
+  - key: "WuHaozhe"
+    title: "吴浩哲 / Wu Haozhe"
+    url: "/wiki/entities/wuhaozhe/"
   - key: "WuTao"
     title: "吴涛"
     url: "/wiki/entities/wutao/"
@@ -8352,6 +8364,9 @@ topic_sources:
   - key: "tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128"
     title: "AI subscriptions are rapidly taking over baby nurseries"
     url: "/wiki/sources/tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128/"
+  - key: "ai-trading-juece-pianyi-xingdong-hengui-duitan-chao-3w-star-vibe-trading-zuozhe-haozhe-luz0eizpk9v3nz94iuutp1z9xj25"
+    title: "AI Trading —— 决策便宜，行动很贵｜对谈超 3w Star Vibe-Trading 作者浩哲"
+    url: "/wiki/sources/ai-trading-juece-pianyi-xingdong-hengui-duitan-chao-3w-star-vibe-trading-zuozhe-haozhe-luz0eizpk9v3nz94iuutp1z9xj25/"
   - key: "ai-xia-banchang-buhui-zhisheng-yige-chaoji-moxing-duitan-kevin-ding-pyromind-chuangshiren-ceo-lsq-rke8nfrbi5xalgst3a8uncfd"
     title: "AI 下半场，不会只剩一个超级模型｜对谈 Kevin Ding：Pyromind 创始人/CEO"
     url: "/wiki/sources/ai-xia-banchang-buhui-zhisheng-yige-chaoji-moxing-duitan-kevin-ding-pyromind-chuangshiren-ceo-lsq-rke8nfrbi5xalgst3a8uncfd/"

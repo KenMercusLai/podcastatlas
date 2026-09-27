@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2115
+topic_total_pages: 2117
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1138,6 +1138,9 @@ topic_concepts:
   - key: "FinancialCareerRisk"
     title: "Financial Career Risk"
     url: "/wiki/concepts/financialcareerrisk/"
+  - key: "FinancialDataAlignment"
+    title: "Financial Data Alignment / 金融数据对齐"
+    url: "/wiki/concepts/financialdataalignment/"
   - key: "FinancialEmployeeMisconductControls"
     title: "Financial Employee Misconduct Controls"
     url: "/wiki/concepts/financialemployeemisconductcontrols/"
@@ -5273,6 +5276,9 @@ topic_entities:
   - key: "WuWeizhi"
     title: "吴伟志 / Wu Weizhi"
     url: "/wiki/entities/wuweizhi/"
+  - key: "WuHaozhe"
+    title: "吴浩哲 / Wu Haozhe"
+    url: "/wiki/entities/wuhaozhe/"
   - key: "WuShubing"
     title: "吴淑冰 / Wu Shubing"
     url: "/wiki/entities/wushubing/"

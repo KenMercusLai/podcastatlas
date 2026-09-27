@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 8467
+wiki_total_pages: 8472
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1412,6 +1412,9 @@ wiki_pages:
   - key: "AIToyCompanionship"
     title: "AI Toy Companionship / AI玩具陪伴"
     url: "/wiki/concepts/aitoycompanionship/"
+  - key: "AITrading"
+    title: "AI Trading"
+    url: "/wiki/concepts/aitrading/"
   - key: "AITrainerLabor"
     title: "AI Trainer Labor"
     url: "/wiki/concepts/aitrainerlabor/"
