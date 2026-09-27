@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8516
+wiki_total_pages: 8519
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1973,6 +1973,9 @@ wiki_pages:
   - key: "PsychometricSocialSorting"
     title: "Psychometric Social Sorting / 心理测量式社会分层"
     url: "/wiki/concepts/psychometricsocialsorting/"
+  - key: "PtolemaicKnowledgePatronage"
+    title: "Ptolemaic Knowledge Patronage"
+    url: "/wiki/concepts/ptolemaicknowledgepatronage/"
   - key: "PTSDHomecomingNarrative"
     title: "PTSD Homecoming Narrative / 创伤版回家叙事"
     url: "/wiki/concepts/ptsdhomecomingnarrative/"

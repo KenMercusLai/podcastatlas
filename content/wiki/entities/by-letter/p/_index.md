@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 11098
+wiki_total_pages: 11103
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -857,6 +857,9 @@ wiki_pages:
   - key: "PT109Incident"
     title: "PT-109 Incident"
     url: "/wiki/entities/pt109incident/"
+  - key: "PtolemyI"
+    title: "Ptolemy I Soter"
+    url: "/wiki/entities/ptolemyi/"
   - key: "PuShougeng"
     title: "Pu Shougeng / 蒲寿庚"
     url: "/wiki/entities/pushougeng/"

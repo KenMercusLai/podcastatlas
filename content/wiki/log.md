@@ -24076,3 +24076,11 @@ Added source `scim1807559844-scim1807559844`; created `DavidLinden`, `Developmen
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | 361. The Lost Library of Alexandria
+
+Added source `361-the-lost-library-of-alexandria-glt1578679297`; created `LibraryOfAlexandria`, `Alexandria`, `PtolemyI`, `Eratosthenes`, `MuseumOfAlexandria`, `AlexandrianLibraryMyth`, `PtolemaicKnowledgePatronage`, and `TextualSurvivalThroughRecopying`; and updated `Aristotle`, `JuliusCaesar`, and the canonical index from their complete bounded source sets. Core synthesis: the library was a Greek-centered Ptolemaic research and textual institution whose uncertain physical form and real scholarly achievements differ from the modern image of one universal archive or lost technological supercenter; its disappearance is better explained through fragile papyrus, recopying failure, institutional disruption, and repeated violence than through one securely documented fire. No settled contradiction found. Architecture, collection size, acquisition stories, institutional continuity, and final destruction remain disputed or source-scoped, while Caesar, Christian, and Muslim single-culprit stories are explicitly qualified or rejected. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

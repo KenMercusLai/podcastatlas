@@ -1007,6 +1007,10 @@
     "title": "36.黑暗的左手：流放与爱的未来往事",
     "url": "/wiki/sources/36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522/"
   },
+  "361-the-lost-library-of-alexandria-glt1578679297": {
+    "title": "361. The Lost Library of Alexandria",
+    "url": "/wiki/sources/361-the-lost-library-of-alexandria-glt1578679297/"
+  },
   "361Degrees": {
     "title": "361 Degrees",
     "url": "/wiki/entities/361degrees/"
@@ -5535,9 +5539,17 @@
     "title": "Alexandre Dumas",
     "url": "/wiki/entities/alexandredumas/"
   },
+  "Alexandria": {
+    "title": "Alexandria",
+    "url": "/wiki/entities/alexandria/"
+  },
   "AlexandriaOcasioCortez": {
     "title": "Alexandria Ocasio-Cortez",
     "url": "/wiki/entities/alexandriaocasiocortez/"
+  },
+  "AlexandrianLibraryMyth": {
+    "title": "Alexandrian Library Myth",
+    "url": "/wiki/concepts/alexandrianlibrarymyth/"
   },
   "AlexandrosPanagoulis": {
     "title": "Alexandros Panagoulis / 亚历山德罗斯·帕纳古利斯",
@@ -23554,6 +23566,10 @@
   "ErasmusProgramme": {
     "title": "Erasmus Programme / 伊拉斯莫计划",
     "url": "/wiki/entities/erasmusprogramme/"
+  },
+  "Eratosthenes": {
+    "title": "Eratosthenes",
+    "url": "/wiki/entities/eratosthenes/"
   },
   "ErectileDysfunctionVascularTriage": {
     "title": "Erectile Dysfunction Vascular Triage",
@@ -41663,6 +41679,10 @@
     "title": "Liblib",
     "url": "/wiki/entities/liblib/"
   },
+  "LibraryOfAlexandria": {
+    "title": "Library of Alexandria",
+    "url": "/wiki/entities/libraryofalexandria/"
+  },
   "LibraryOfCongress": {
     "title": "Library of Congress",
     "url": "/wiki/entities/libraryofcongress/"
@@ -48494,6 +48514,10 @@
   "MuseumInterpretationLegibility": {
     "title": "Museum Interpretation Legibility / 博物馆阐释可读性",
     "url": "/wiki/concepts/museuminterpretationlegibility/"
+  },
+  "MuseumOfAlexandria": {
+    "title": "Museum of Alexandria",
+    "url": "/wiki/entities/museumofalexandria/"
   },
   "MuseumTourismIcon": {
     "title": "Museum Tourism Icon",
@@ -56182,6 +56206,14 @@
   "PsychometricSocialSorting": {
     "title": "Psychometric Social Sorting / 心理测量式社会分层",
     "url": "/wiki/concepts/psychometricsocialsorting/"
+  },
+  "PtolemaicKnowledgePatronage": {
+    "title": "Ptolemaic Knowledge Patronage",
+    "url": "/wiki/concepts/ptolemaicknowledgepatronage/"
+  },
+  "PtolemyI": {
+    "title": "Ptolemy I Soter",
+    "url": "/wiki/entities/ptolemyi/"
   },
   "PuGeneral": {
     "title": "蒲将军 / Pu General",
@@ -68454,6 +68486,10 @@
   "TextualOmissionAttributionShift": {
     "title": "Textual Omission Attribution Shift / 史书删节与责任归属转移",
     "url": "/wiki/concepts/textualomissionattributionshift/"
+  },
+  "TextualSurvivalThroughRecopying": {
+    "title": "Textual Survival Through Recopying",
+    "url": "/wiki/concepts/textualsurvivalthroughrecopying/"
   },
   "TextualVariantPoliticalStakes": {
     "title": "Textual Variant Political Stakes / 史书异文政治重量",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 8516
+wiki_total_pages: 8519
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -368,6 +368,9 @@ wiki_pages:
   - key: "TextualOmissionAttributionShift"
     title: "Textual Omission Attribution Shift / 史书删节与责任归属转移"
     url: "/wiki/concepts/textualomissionattributionshift/"
+  - key: "TextualSurvivalThroughRecopying"
+    title: "Textual Survival Through Recopying"
+    url: "/wiki/concepts/textualsurvivalthroughrecopying/"
   - key: "TextualVariantPoliticalStakes"
     title: "Textual Variant Political Stakes / 史书异文政治重量"
     url: "/wiki/concepts/textualvariantpoliticalstakes/"

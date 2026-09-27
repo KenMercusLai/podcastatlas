@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 11098
+wiki_total_pages: 11103
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -614,6 +614,9 @@ wiki_pages:
   - key: "AlexandreDumas"
     title: "Alexandre Dumas"
     url: "/wiki/entities/alexandredumas/"
+  - key: "Alexandria"
+    title: "Alexandria"
+    url: "/wiki/entities/alexandria/"
   - key: "AlexandriaOcasioCortez"
     title: "Alexandria Ocasio-Cortez"
     url: "/wiki/entities/alexandriaocasiocortez/"

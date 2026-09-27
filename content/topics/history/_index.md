@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2090
+topic_total_pages: 2092
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -22,6 +22,9 @@ topic_concepts:
   - key: "AlcoholAsPowerCatalyst"
     title: "Alcohol as Power Catalyst / 酒作为权力催化剂"
     url: "/wiki/concepts/alcoholaspowercatalyst/"
+  - key: "AlexandrianLibraryMyth"
+    title: "Alexandrian Library Myth"
+    url: "/wiki/concepts/alexandrianlibrarymyth/"
   - key: "AllusiveRemonstrance"
     title: "Allusive Remonstrance / 隐语进谏"
     url: "/wiki/concepts/allusiveremonstrance/"
@@ -4650,6 +4653,9 @@ topic_sources:
   - key: "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008"
     title: "318: Hundred Years' War: A Game of Thrones (Part 1)"
     url: "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+  - key: "361-the-lost-library-of-alexandria-glt1578679297"
+    title: "361. The Lost Library of Alexandria"
+    url: "/wiki/sources/361-the-lost-library-of-alexandria-glt1578679297/"
   - key: "362-the-taj-mahal-love-and-death-glt2445608477"
     title: "362. The Taj Mahal: Love and Death"
     url: "/wiki/sources/362-the-taj-mahal-love-and-death-glt2445608477/"

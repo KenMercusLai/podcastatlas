@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 11098
+wiki_total_pages: 11103
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -1448,6 +1448,9 @@ wiki_pages:
   - key: "MusePersonalAgent"
     title: "Muse Personal Agent"
     url: "/wiki/entities/musepersonalagent/"
+  - key: "MuseumOfAlexandria"
+    title: "Museum of Alexandria"
+    url: "/wiki/entities/museumofalexandria/"
   - key: "MusicalLy"
     title: "Musical.ly"
     url: "/wiki/entities/musically/"

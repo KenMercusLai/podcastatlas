@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [361. The Lost Library of Alexandria](sources/361-the-lost-library-of-alexandria-glt1578679297.md) — The Rest Is History episode on Ptolemaic scholarship, the library's Greek literary focus, uncertain physical form, and gradual loss behind the single-destruction myth.
 - [AI 时代，我们到底该学什么？｜对谈于红：三种不会过时的能力](sources/ai-shidai-women-daodi-gai-xue-shenme-duitan-yuhong-sanzhong-buhui-guoshi-de-nengli-lkcmj80qyw-uduhijfxudufqboaf.md) — 十字路口Crossing访谈于红，讨论社会情感学习、情绪信号、自我认知、反思式选择、智识诚实复盘与 AI 时代的长期能力。
 - [VOL.68血液内科｜装修甲醛会让你得白血病吗？…一期听懂白血病的常识｜造血干细胞捐献指南](sources/vol-68-xueyeneike-zhuangxiu-jiaquan-hui-rang-ni-de-baixuebing-ma-yiqi-tingdong-baixuebing-de-changshi-zaoxue-ganxibao-juanxian-zhinan-lkbtulzn5ky6f4wa5bttbuawvxz.md) — 这病说来话长 episode on leukemia classification, diagnosis, treatment, recovery burdens, environmental-risk limits, and hematopoietic stem-cell donation.
 - [362. The Taj Mahal: Love and Death](sources/362-the-taj-mahal-love-and-death-glt2445608477.md) — The Rest Is History episode on love, grief, Mughal architectural synthesis, paradise imagery, monumental kingship, unsupported legends, and contested Indian memory.
@@ -6844,7 +6845,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [大雁塔 / Great Wild Goose Pagoda](entities/GreatWildGoosePagoda.md) — Tang-associated monument invoked in episode 271 as a material-memory target of pseudohistory.
 - [Rosetta Stone / 罗塞塔石碑](entities/RosettaStone.md) — Cross-linguistic evidence example used in episode 271 against totalizing historical denial.
 - [Jean-Francois Champollion / 商博良](entities/JeanFrancoisChampollion.md) — Decipherment figure used in episode 271's Rosetta Stone evidence-chain example.
-- [Aristotle / 亚里士多德](entities/Aristotle.md) — Philosopher used in episode 271 as a pseudohistory denial target and source-transmission example.
+- [Aristotle / 亚里士多德](entities/Aristotle.md) — Philosopher whose corpus transmission and Lyceum model connect historical evidence to Alexandrian research institutions.
 - [Matt Adelman](entities/MattAdelman.md) — Former Target buyer explaining line review odds, planograms, shelf productivity, and buyer defense in the Planet Money board-game retail episode.
 - [Tori Welch](entities/ToriWelch.md) — Exploding Kittens global sourcing person connecting Sell Me a Sasquatch's retail launch to factory production and color quality control.
 - [Subway China / 赛百味中国](entities/SubwayChina.md) — Foreign-origin sandwich chain whose China local general-agency shift is used as a store-acceleration case.
@@ -10743,7 +10744,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [François Jourgniac Saint-Méard](entities/FrancoisJourgniacSaintMeard.md) — Abbaye survivor whose account documents the massacres' selective, tribunal-like procedure.
 - [Stanislas Maillard](entities/StanislasMaillard.md) — Identifiable local organizer associated with September Massacres killing teams and improvised tribunals.
 - [Thomas Paine / 托马斯·潘恩](entities/ThomasPaine.md) — Republican anti-death-penalty counterpoint in episode 125's discussion of revolution, punishment, and killing.
-- [Julius Caesar / 尤利乌斯·恺撒](entities/JuliusCaesar.md) — Roman commander who turned frontier reach into prestige before civil war and personal rule produced an unresolved legitimacy crisis.
+- [Julius Caesar / 尤利乌斯·恺撒](entities/JuliusCaesar.md) — Roman commander whose frontier prestige, personal rule, assassination, and disputed Alexandrian-library role shaped competing legacies.
 - [Roman Republic / 罗马共和国](entities/RomanRepublic.md) — Expansionary polity whose civic-military incorporation, early adaptive endurance, and later command crisis expose the capacity and pressures of republican mobilization.
 - [Roman Empire / 罗马帝国](entities/RomanEmpire.md) — Imperial order emerging after Caesar's assassination, appearing as Da Qin in Gan Ying's Eastern Han mission, and serving as the western endpoint of a qualified Hunnic/Gothic pressure sequence.
 - [阿提拉 / Attila the Hun](entities/AttilaTheHun.md) — Hunnic leader used in Hanji 764 as the remembered late figure in the qualified migration-pressure chain from steppe displacement to Roman crisis.
@@ -14155,6 +14156,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The 120 Days of Sodom](entities/The120DaysOfSodom.md) — Sade's prison-written novel of sealed, scheduled, and escalating domination.
 
 - [David Linden](entities/DavidLinden.md) — Johns Hopkins neuroscientist framing individuality, sensory experience, cerebellar prediction, mind-body biology, and mortality through explicit evidence boundaries.
+- [Library of Alexandria](entities/LibraryOfAlexandria.md) — Ptolemaic royal collection and scholarly infrastructure whose historical work is obscured by universal-library and single-destruction myths.
+- [Alexandria](entities/Alexandria.md) — Planned Ptolemaic port capital joining maritime commerce, dynastic spectacle, and Greek-centered court scholarship.
+- [Ptolemy I Soter](entities/PtolemyI.md) — Successor ruler who joined Alexander's legacy and royal patronage to Alexandria's Museum and library project.
+- [Eratosthenes](entities/Eratosthenes.md) — Alexandrian scholar whose geography and Earth measurement qualify a purely literary account of the institution.
+- [Museum of Alexandria](entities/MuseumOfAlexandria.md) — Ptolemaic court research community and probable institutional setting of the Library of Alexandria.
 
 ## Concepts
 - [Social-Emotional Learning / 社会情感学习](concepts/SocialEmotionalLearning.md) — 覆盖自我管理、人际与冲突处理、批判性解释和负责任决策的能力教育。
@@ -22690,5 +22696,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Maternal Immune Activation](concepts/MaternalImmuneActivation.md) — Timing-sensitive immune-to-neurodevelopment pathway separating human association, mouse mechanism, and diagnostic inference.
 - [Inflammation-Linked Depression Subtype](concepts/InflammationLinkedDepressionSubtype.md) — Conditional model in which inflammation may matter for a depression subgroup without supporting universal anti-inflammatory treatment.
 - [Biological Mind-Body Mechanisms](concepts/BiologicalMindBodyMechanisms.md) — Mechanism-first test for neural, endocrine, immune, vascular, breathing, and tumor-innervation claims.
+- [Alexandrian Library Myth](concepts/AlexandrianLibraryMyth.md) — Composite image of a universal archive and lost scientific future destroyed in one military or religious catastrophe.
+- [Ptolemaic Knowledge Patronage](concepts/PtolemaicKnowledgePatronage.md) — Royal system joining scholar support, text collection, Greek cultural consolidation, and dynastic prestige.
+- [Textual Survival Through Recopying](concepts/TextualSurvivalThroughRecopying.md) — Preservation principle that fragile texts survive through repeated institutional reproduction rather than collection alone.
 
 ## Syntheses

@@ -6,6 +6,7 @@ tags: [person, rome, politics, military-history]
 sources:
   - 124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361
   - 499-the-roman-conquest-of-britain-julius-caesars-invasion-part-1-glt9770560726
+  - 361-the-lost-library-of-alexandria-glt1578679297
 last_updated: 2026-09-23
 ---
 
@@ -23,6 +24,8 @@ The later assassination source presents the same mixture at the center of domest
 
 His death in the [[CaesarAssassination|assassination on the Ides of March]] becomes the test case for [[PersonalRuleLegitimacyCrisis]]: military reach and personal prestige could help Caesar acquire power, but they could not supply a stable republican form for one-man rule or succession.
 
+Caesar's Alexandrian role adds a narrower negative finding to his profile. His forces caused a harbor fire during the conflict involving Cleopatra and her brother, and books stored near the docks burned, but those warehouses are distinguished from the palace [[LibraryOfAlexandria|library]]. Later Roman copying from Alexandria makes Caesar an important agent of damage without supporting the myth that he destroyed the entire institution.
+
 ## Key Characteristics
 
 - Commander who converted military risk, geographic reach, and conquest narratives into domestic political capital.
@@ -30,6 +33,7 @@ His death in the [[CaesarAssassination|assassination on the Ides of March]] beco
 - Ambitious and image-conscious political actor formed by an already destabilized republic.
 - Charismatic personal ruler capable of clemency, reform, public generosity, and coercive escalation.
 - Leader whose authority exceeded accepted republican forms without securing durable legitimacy or succession.
+- Commander whose Alexandrian harbor fire became the basis of an exaggerated single-destruction story.
 
 ## Evidence
 
@@ -38,17 +42,16 @@ His death in the [[CaesarAssassination|assassination on the Ides of March]] beco
 - Mixed political character: [[124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361]] holds courage, clemency, charisma, reform, ambition, and republican rupture together.
 - Institutional crisis: [[124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361]] places the Rubicon, civil war, dictatorship, assassination, and failed republican restoration inside a longer late-republic breakdown.
 - Personal-rule limit: [[124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361]] connects extraordinary honors and authority to the absence of an accepted succession or legitimacy structure.
+- Alexandrian fire: [[361-the-lost-library-of-alexandria-glt1578679297]] separates books burned in harbor warehouses from the main palace institution and cites later copying from Alexandria against total destruction.
 
 ## Qualifications
 
-Both sources foreground interested storytelling. Caesar authored the principal account of his British expeditions, while later political and literary traditions reshape his image as conqueror, reformer, tyrant, hero, or martyr. His motives, force totals, campaign returns, clemency, monarchical intentions, last words, and the conspirators' private calculations should not be treated as fully recoverable.
+The sources foreground interested and retrospective storytelling. Caesar authored the principal account of his British expeditions, while later political and literary traditions reshape his image as conqueror, reformer, tyrant, hero, martyr, or destroyer of knowledge. His motives, force totals, campaign returns, clemency, monarchical intentions, last words, and the conspirators' private calculations should not be treated as fully recoverable. The Alexandria source accepts that his fire destroyed stored books but does not establish their number, ownership, or precise destination.
 
 ## What Changed
 
-- Added the 55 and 54 BC British expeditions as an early case of Caesar turning military reach into political prestige.
-- Added client intervention through Mandubracius, the Trinovantes, Commius, and Cassivellaunus to his strategic profile.
-- Distinguished temporary leverage in Britain from later provincial conquest.
-- Recast the legacy page into the synthesis-first entity schema without removing its prior assassination evidence.
+- Added the Alexandrian harbor fire while distinguishing local destruction from the later claim that Caesar destroyed the entire library.
+- Extended Caesar's memory profile from conqueror, reformer, tyrant, and martyr to disputed destroyer of knowledge.
 
 ## Relationships
 
@@ -60,3 +63,5 @@ Both sources foreground interested storytelling. Caesar authored the principal a
 - [[Pompey]] - rival and former ally in the late-republic power struggle.
 - [[CaesarAssassination]] - violent end of his personal-rule legitimacy crisis.
 - [[MilitaryPersonalization]] - mechanism linking armies and conquest reputation to commander-centered power.
+- [[LibraryOfAlexandria]] - institution he is often said, but not shown by this source, to have destroyed in full.
+- [[AlexandrianLibraryMyth]] - later narrative that turns his harbor fire into one version of the library's single catastrophic end.

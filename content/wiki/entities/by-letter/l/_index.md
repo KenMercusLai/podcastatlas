@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 11098
+wiki_total_pages: 11103
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -431,6 +431,9 @@ wiki_pages:
   - key: "Liblib"
     title: "Liblib"
     url: "/wiki/entities/liblib/"
+  - key: "LibraryOfAlexandria"
+    title: "Library of Alexandria"
+    url: "/wiki/entities/libraryofalexandria/"
   - key: "LibraryOfCongress"
     title: "Library of Congress"
     url: "/wiki/entities/libraryofcongress/"

@@ -7507,6 +7507,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/alexandredumas/"
     },
+    "Alexandria": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1578679297 [GLT1578679297].md",
+          "key": "361-the-lost-library-of-alexandria-glt1578679297",
+          "show": "The Rest Is History",
+          "title": "361. The Lost Library of Alexandria",
+          "url": "/wiki/sources/361-the-lost-library-of-alexandria-glt1578679297/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/alexandria/"
+    },
     "AlexandriaOcasioCortez": {
       "episode_count": 1,
       "show_count": 1,
@@ -7522,6 +7538,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/alexandriaocasiocortez/"
+    },
+    "AlexandrianLibraryMyth": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1578679297 [GLT1578679297].md",
+          "key": "361-the-lost-library-of-alexandria-glt1578679297",
+          "show": "The Rest Is History",
+          "title": "361. The Lost Library of Alexandria",
+          "url": "/wiki/sources/361-the-lost-library-of-alexandria-glt1578679297/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/alexandrianlibrarymyth/"
     },
     "AlfredTerry": {
       "episode_count": 1,
@@ -11888,6 +11920,29 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/concepts/aristocraticvampire/"
+    },
+    "Aristotle": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "271.唐朝都要不存在了？为什么伪史论会在今年大爆发？ [lg7_wdrDW1B9h7LwA4VWKvMyb4Un].md",
+          "key": "271-tangchao-douyao-bucunzai-le-weishenme-weishilun-hui-zai-jinnian-da-baofa-lg7-wdrdw1b9h7lwa4vwkvmyb4un",
+          "show": "乱翻书",
+          "title": "271.唐朝都要不存在了？为什么伪史论会在今年大爆发？",
+          "url": "/wiki/sources/271-tangchao-douyao-bucunzai-le-weishenme-weishilun-hui-zai-jinnian-da-baofa-lg7-wdrdw1b9h7lwa4vwkvmyb4un/"
+        },
+        {
+          "episode_file": "GLT1578679297 [GLT1578679297].md",
+          "key": "361-the-lost-library-of-alexandria-glt1578679297",
+          "show": "The Rest Is History",
+          "title": "361. The Lost Library of Alexandria",
+          "url": "/wiki/sources/361-the-lost-library-of-alexandria-glt1578679297/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/aristotle/"
     },
     "ArmagnacBurgundianCivilWar": {
       "episode_count": 2,
@@ -50079,6 +50134,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/ernianluling/"
     },
+    "Eratosthenes": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1578679297 [GLT1578679297].md",
+          "key": "361-the-lost-library-of-alexandria-glt1578679297",
+          "show": "The Rest Is History",
+          "title": "361. The Lost Library of Alexandria",
+          "url": "/wiki/sources/361-the-lost-library-of-alexandria-glt1578679297/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/eratosthenes/"
+    },
     "ErectileDysfunctionVascularTriage": {
       "episode_count": 1,
       "show_count": 1,
@@ -85295,9 +85366,9 @@
       "url": "/wiki/entities/juliettebruce/"
     },
     "JuliusCaesar": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
@@ -85312,6 +85383,13 @@
           "show": "The Rest Is History",
           "title": "499. The Roman Conquest of Britain: Julius Caesar's Invasion (Part 1)",
           "url": "/wiki/sources/499-the-roman-conquest-of-britain-julius-caesars-invasion-part-1-glt9770560726/"
+        },
+        {
+          "episode_file": "GLT1578679297 [GLT1578679297].md",
+          "key": "361-the-lost-library-of-alexandria-glt1578679297",
+          "show": "The Rest Is History",
+          "title": "361. The Lost Library of Alexandria",
+          "url": "/wiki/sources/361-the-lost-library-of-alexandria-glt1578679297/"
         }
       ],
       "updated": "2026-09-23",
@@ -92059,6 +92137,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/libertinefreedomdominationparadox/"
+    },
+    "LibraryOfAlexandria": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1578679297 [GLT1578679297].md",
+          "key": "361-the-lost-library-of-alexandria-glt1578679297",
+          "show": "The Rest Is History",
+          "title": "361. The Lost Library of Alexandria",
+          "url": "/wiki/sources/361-the-lost-library-of-alexandria-glt1578679297/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/libraryofalexandria/"
     },
     "LicensedSyntheticVoiceMarketplace": {
       "episode_count": 1,
@@ -109170,6 +109264,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/concepts/museuminterpretationlegibility/"
     },
+    "MuseumOfAlexandria": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1578679297 [GLT1578679297].md",
+          "key": "361-the-lost-library-of-alexandria-glt1578679297",
+          "show": "The Rest Is History",
+          "title": "361. The Lost Library of Alexandria",
+          "url": "/wiki/sources/361-the-lost-library-of-alexandria-glt1578679297/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/museumofalexandria/"
+    },
     "MuseumTourismIcon": {
       "episode_count": 1,
       "show_count": 1,
@@ -125571,6 +125681,38 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/psychologyconceptselfpunishment/"
+    },
+    "PtolemaicKnowledgePatronage": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1578679297 [GLT1578679297].md",
+          "key": "361-the-lost-library-of-alexandria-glt1578679297",
+          "show": "The Rest Is History",
+          "title": "361. The Lost Library of Alexandria",
+          "url": "/wiki/sources/361-the-lost-library-of-alexandria-glt1578679297/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/ptolemaicknowledgepatronage/"
+    },
+    "PtolemyI": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1578679297 [GLT1578679297].md",
+          "key": "361-the-lost-library-of-alexandria-glt1578679297",
+          "show": "The Rest Is History",
+          "title": "361. The Lost Library of Alexandria",
+          "url": "/wiki/sources/361-the-lost-library-of-alexandria-glt1578679297/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/ptolemyi/"
     },
     "PublicAEDAccessReadiness": {
       "episode_count": 1,
@@ -151418,6 +151560,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/textshapedcognition/"
+    },
+    "TextualSurvivalThroughRecopying": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1578679297 [GLT1578679297].md",
+          "key": "361-the-lost-library-of-alexandria-glt1578679297",
+          "show": "The Rest Is History",
+          "title": "361. The Lost Library of Alexandria",
+          "url": "/wiki/sources/361-the-lost-library-of-alexandria-glt1578679297/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/textualsurvivalthroughrecopying/"
     },
     "TeyanaTaylor": {
       "episode_count": 1,

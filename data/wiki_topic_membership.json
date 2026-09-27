@@ -1528,6 +1528,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "361-the-lost-library-of-alexandria-glt1578679297": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "361Degrees": [
     {
       "key": "culture",
@@ -8818,6 +8825,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "AlexandrianLibraryMyth": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "AlexandrosPanagoulis": [
