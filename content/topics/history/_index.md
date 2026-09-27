@@ -5,8 +5,11 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2078
+topic_total_pages: 2081
 topic_concepts:
+  - key: "ChileanCoup1973"
+    title: "1973 Chilean Coup"
+    url: "/wiki/concepts/chileancoup1973/"
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
     url: "/wiki/concepts/asharebullmarkethistory/"
@@ -1781,6 +1784,9 @@ topic_entities:
   - key: "Changzhou"
     title: "Changzhou / 常州"
     url: "/wiki/entities/changzhou/"
+  - key: "Chile"
+    title: "Chile"
+    url: "/wiki/entities/chile/"
   - key: "Crete"
     title: "Crete"
     url: "/wiki/entities/crete/"
@@ -4644,6 +4650,9 @@ topic_sources:
   - key: "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008"
     title: "318: Hundred Years' War: A Game of Thrones (Part 1)"
     url: "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+  - key: "371-the-1973-chilean-coup-general-pinochet-seizes-power-part-2-glt3740766328"
+    title: "371. The 1973 Chilean Coup: General Pinochet Seizes Power (Part 2)"
+    url: "/wiki/sources/371-the-1973-chilean-coup-general-pinochet-seizes-power-part-2-glt3740766328/"
   - key: "372-the-birth-of-british-fascism-glt4747738645"
     title: "372. The Birth of British Fascism"
     url: "/wiki/sources/372-the-birth-of-british-fascism-glt4747738645/"

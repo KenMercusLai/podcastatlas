@@ -23852,3 +23852,11 @@ Added source `372-the-birth-of-british-fascism-glt4747738645`; created `BritishF
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | 371. The 1973 Chilean Coup: General Pinochet Seizes Power (Part 2)
+
+Added source `371-the-1973-chilean-coup-general-pinochet-seizes-power-part-2-glt3740766328`; created `AugustoPinochet`, `SalvadorAllende`, `CarlosPrats`, `VictorJara`, `ChileanCoup1973`, `ConstitutionalistMilitaryNorm`, and `CoupToStateTerror`; and updated `Chile`, `MargaretThatcher`, and the canonical index from their complete bounded source sets. Core synthesis: class polarization, economic crisis, constitutional conflict, U.S. interference, military agency, and the removal of constitutional command restraint jointly explain the coup, while Pinochet's later personal consolidation and organized repression remained choices rather than necessary consequences. Thatcher's geopolitical and economic reasons for defending Pinochet are preserved as explanation rather than vindication. No settled contradiction found. The timing of Pinochet's commitment, Allende's possible referendum, casualty estimates, intercepted-command interpretation, and precise U.S. operational knowledge remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

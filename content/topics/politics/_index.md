@@ -5,8 +5,11 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2749
+topic_total_pages: 2752
 topic_concepts:
+  - key: "ChileanCoup1973"
+    title: "1973 Chilean Coup"
+    url: "/wiki/concepts/chileancoup1973/"
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
     url: "/wiki/concepts/a2atransactionnorms/"
@@ -784,6 +787,9 @@ topic_concepts:
   - key: "ConstitutionalRobustness"
     title: "Constitutional Robustness"
     url: "/wiki/concepts/constitutionalrobustness/"
+  - key: "ConstitutionalistMilitaryNorm"
+    title: "Constitutionalist Military Norm"
+    url: "/wiki/concepts/constitutionalistmilitarynorm/"
   - key: "ConstructionCarbonCompliance"
     title: "Construction Carbon Compliance"
     url: "/wiki/concepts/constructioncarboncompliance/"
@@ -4910,6 +4916,9 @@ topic_entities:
   - key: "ChiangKaiShek"
     title: "Chiang Kai-shek / 蒋介石"
     url: "/wiki/entities/chiangkaishek/"
+  - key: "Chile"
+    title: "Chile"
+    url: "/wiki/entities/chile/"
   - key: "China"
     title: "China"
     url: "/wiki/entities/china/"

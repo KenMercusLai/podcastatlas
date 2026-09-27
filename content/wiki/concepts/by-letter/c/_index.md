@@ -6,8 +6,11 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8449
+wiki_total_pages: 8452
 wiki_pages:
+  - key: "ChileanCoup1973"
+    title: "1973 Chilean Coup"
+    url: "/wiki/concepts/chileancoup1973/"
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
     url: "/wiki/concepts/celegansmodelorganism/"
@@ -1727,6 +1730,9 @@ wiki_pages:
   - key: "ConstitutionalRobustness"
     title: "Constitutional Robustness"
     url: "/wiki/concepts/constitutionalrobustness/"
+  - key: "ConstitutionalistMilitaryNorm"
+    title: "Constitutionalist Military Norm"
+    url: "/wiki/concepts/constitutionalistmilitarynorm/"
   - key: "ConstrainedMarketReform"
     title: "Constrained Market Reform"
     url: "/wiki/concepts/constrainedmarketreform/"
@@ -2036,6 +2042,9 @@ wiki_pages:
   - key: "CoupCreditAllocationRisk"
     title: "Coup Credit Allocation Risk / 宫变功劳分配风险"
     url: "/wiki/concepts/coupcreditallocationrisk/"
+  - key: "CoupToStateTerror"
+    title: "Coup-to-State-Terror Escalation"
+    url: "/wiki/concepts/couptostateterror/"
   - key: "CouponLedTransactionGrowth"
     title: "Coupon-Led Transaction Growth"
     url: "/wiki/concepts/couponledtransactiongrowth/"

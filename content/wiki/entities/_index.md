@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 11055
+wiki_total_pages: 11059
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1550,6 +1550,9 @@ wiki_pages:
   - key: "AugustaLeigh"
     title: "Augusta Leigh"
     url: "/wiki/entities/augustaleigh/"
+  - key: "AugustoPinochet"
+    title: "Augusto Pinochet"
+    url: "/wiki/entities/augustopinochet/"
   - key: "AugustusTheStrong"
     title: "Augustus the Strong / 强力王奥古斯特"
     url: "/wiki/entities/augustusthestrong/"

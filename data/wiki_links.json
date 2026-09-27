@@ -1015,6 +1015,10 @@
     "title": "37.智商测试：请问你是智力婆罗门吗？",
     "url": "/wiki/sources/37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679/"
   },
+  "371-the-1973-chilean-coup-general-pinochet-seizes-power-part-2-glt3740766328": {
+    "title": "371. The 1973 Chilean Coup: General Pinochet Seizes Power (Part 2)",
+    "url": "/wiki/sources/371-the-1973-chilean-coup-general-pinochet-seizes-power-part-2-glt3740766328/"
+  },
   "372-the-birth-of-british-fascism-glt4747738645": {
     "title": "372. The Birth of British Fascism",
     "url": "/wiki/sources/372-the-birth-of-british-fascism-glt4747738645/"
@@ -7903,6 +7907,10 @@
     "title": "Augusta Leigh",
     "url": "/wiki/entities/augustaleigh/"
   },
+  "AugustoPinochet": {
+    "title": "Augusto Pinochet",
+    "url": "/wiki/entities/augustopinochet/"
+  },
   "AugustusTheStrong": {
     "title": "Augustus the Strong / 强力王奥古斯特",
     "url": "/wiki/entities/augustusthestrong/"
@@ -12411,6 +12419,10 @@
     "title": "Carlo Collodi / 卡洛·科洛迪",
     "url": "/wiki/entities/carlocollodi/"
   },
+  "CarlosPrats": {
+    "title": "Carlos Prats",
+    "url": "/wiki/entities/carlosprats/"
+  },
   "CarlosStartupEmbassy": {
     "title": "Carlos (Startup Embassy)",
     "url": "/wiki/entities/carlosstartupembassy/"
@@ -13994,6 +14006,10 @@
   "Chile": {
     "title": "Chile",
     "url": "/wiki/entities/chile/"
+  },
+  "ChileanCoup1973": {
+    "title": "1973 Chilean Coup",
+    "url": "/wiki/concepts/chileancoup1973/"
   },
   "ChimeiRebellion": {
     "title": "Red Eyebrows / 赤眉",
@@ -16535,6 +16551,10 @@
     "title": "Constitutional Robustness",
     "url": "/wiki/concepts/constitutionalrobustness/"
   },
+  "ConstitutionalistMilitaryNorm": {
+    "title": "Constitutionalist Military Norm",
+    "url": "/wiki/concepts/constitutionalistmilitarynorm/"
+  },
   "ConstrainedMarketReform": {
     "title": "Constrained Market Reform",
     "url": "/wiki/concepts/constrainedmarketreform/"
@@ -17106,6 +17126,10 @@
   "CoupCreditAllocationRisk": {
     "title": "Coup Credit Allocation Risk / 宫变功劳分配风险",
     "url": "/wiki/concepts/coupcreditallocationrisk/"
+  },
+  "CoupToStateTerror": {
+    "title": "Coup-to-State-Terror Escalation",
+    "url": "/wiki/concepts/couptostateterror/"
   },
   "CouponLedTransactionGrowth": {
     "title": "Coupon-Led Transaction Growth",
@@ -60447,6 +60471,10 @@
     "title": "盐利农具式复耕安置 / Salt-Revenue Agricultural Recovery",
     "url": "/wiki/concepts/saltrevenueagriculturalrecovery/"
   },
+  "SalvadorAllende": {
+    "title": "Salvador Allende",
+    "url": "/wiki/entities/salvadorallende/"
+  },
   "SamAltman": {
     "title": "Sam Altman",
     "url": "/wiki/entities/samaltman/"
@@ -71734,6 +71762,10 @@
   "VictorCarrion": {
     "title": "Victor Carrión",
     "url": "/wiki/entities/victorcarrion/"
+  },
+  "VictorJara": {
+    "title": "Victor Jara",
+    "url": "/wiki/entities/victorjara/"
   },
   "VictorKlemperer": {
     "title": "Victor Klemperer",

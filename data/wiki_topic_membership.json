@@ -1547,6 +1547,13 @@
       "url": "/topics/science/"
     }
   ],
+  "371-the-1973-chilean-coup-general-pinochet-seizes-power-part-2-glt3740766328": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "372-the-birth-of-british-fascism-glt4747738645": [
     {
       "key": "history",
@@ -17229,6 +17236,28 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    },
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "ChileanCoup1973": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "ChimeiRebellion": [
@@ -19909,6 +19938,13 @@
     }
   ],
   "ConstitutionalRobustness": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "ConstitutionalistMilitaryNorm": [
     {
       "key": "politics",
       "label": "Politics",
@@ -77116,6 +77152,13 @@
     }
   ],
   "VictimStigmaInTrueCrime": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "VictorJara": [
     {
       "key": "culture",
       "label": "Culture",

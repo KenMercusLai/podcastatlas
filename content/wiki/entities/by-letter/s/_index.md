@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 11055
+wiki_total_pages: 11059
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -101,6 +101,9 @@ wiki_pages:
   - key: "Salomon"
     title: "Salomon"
     url: "/wiki/entities/salomon/"
+  - key: "SalvadorAllende"
+    title: "Salvador Allende"
+    url: "/wiki/entities/salvadorallende/"
   - key: "SamDataScienceWithSam"
     title: "Sam (Data Science With Sam)"
     url: "/wiki/entities/samdatasciencewithsam/"

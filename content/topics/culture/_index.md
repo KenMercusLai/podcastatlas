@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2851
+topic_total_pages: 2852
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -5477,6 +5477,9 @@ topic_entities:
   - key: "VeraKundera"
     title: "Vera Kundera / 薇拉·昆德拉"
     url: "/wiki/entities/verakundera/"
+  - key: "VictorJara"
+    title: "Victor Jara"
+    url: "/wiki/entities/victorjara/"
   - key: "Vidiots"
     title: "Vidiots"
     url: "/wiki/entities/vidiots/"
