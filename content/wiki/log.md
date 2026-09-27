@@ -24028,3 +24028,11 @@ Added source `goals-toolkit-how-to-set-achieve-your-goals-scim1532399364`; creat
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | 363. Sixties Fashion: The Teenage Revolution (Part 1)
+
+Added source `363-sixties-fashion-the-teenage-revolution-part-1-glt5487814001`; created `ChristianDior`, `DavidBailey`, `PostwarFashionConsumerRevolution`, and `YouthSubculturalStyleFormation`; and updated `MaryQuant`, `JeanShrimpton`, `London`, `PostwarTeenageConsumerMarket`, `SwingingLondonFashionMyth`, `YouthFashionCommercializationCycle`, `FashionLiberationExploitationParadox`, and the canonical index from their complete bounded source sets. Core synthesis: wartime rationing and utility clothing made durability the baseline that Dior's New Look first rejected through luxury, while youth earnings, subcultural recombination, boutiques, magazines, television, colour printing, photographers, and models made novelty a scalable London-centered consumer system. No settled contradiction found. Quant's miniskirt attribution and classless-retail claim, subculture origins, media causality, and London's representativeness remain source-scoped; the automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

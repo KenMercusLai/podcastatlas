@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "y"
-wiki_total_pages: 8495
+wiki_total_pages: 8497
 wiki_pages:
   - key: "YangtzeFishingBanRecovery"
     title: "Yangtze Fishing Ban Recovery"
@@ -68,6 +68,9 @@ wiki_pages:
   - key: "YouthSoccerAccessInequality"
     title: "Youth Soccer Access Inequality"
     url: "/wiki/concepts/youthsocceraccessinequality/"
+  - key: "YouthSubculturalStyleFormation"
+    title: "Youth Subcultural Style Formation"
+    url: "/wiki/concepts/youthsubculturalstyleformation/"
   - key: "YouthTobaccoInitiationPrevention"
     title: "Youth Tobacco Initiation Prevention / 青少年烟草初始预防"
     url: "/wiki/concepts/youthtobaccoinitiationprevention/"

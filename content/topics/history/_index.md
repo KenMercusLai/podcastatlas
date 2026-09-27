@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2088
+topic_total_pages: 2089
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4650,6 +4650,9 @@ topic_sources:
   - key: "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008"
     title: "318: Hundred Years' War: A Game of Thrones (Part 1)"
     url: "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+  - key: "363-sixties-fashion-the-teenage-revolution-part-1-glt5487814001"
+    title: "363. Sixties Fashion: The Teenage Revolution (Part 1)"
+    url: "/wiki/sources/363-sixties-fashion-the-teenage-revolution-part-1-glt5487814001/"
   - key: "364-sixties-fashion-swinging-london-part-2-glt8438824218"
     title: "364. Sixties Fashion: Swinging London (Part 2)"
     url: "/wiki/sources/364-sixties-fashion-swinging-london-part-2-glt8438824218/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8495
+wiki_total_pages: 8497
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1232,6 +1232,9 @@ wiki_pages:
   - key: "PostwarCaribbeanBritishSettlement"
     title: "Postwar Caribbean British Settlement"
     url: "/wiki/concepts/postwarcaribbeanbritishsettlement/"
+  - key: "PostwarFashionConsumerRevolution"
+    title: "Postwar Fashion Consumer Revolution"
+    url: "/wiki/concepts/postwarfashionconsumerrevolution/"
   - key: "PostwarKeynesianRetreat"
     title: "Postwar Keynesian Retreat"
     url: "/wiki/concepts/postwarkeynesianretreat/"

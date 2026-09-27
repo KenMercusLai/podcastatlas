@@ -27992,6 +27992,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/christiandemocraticuniongermany/"
     },
+    "ChristianDior": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5487814001 [GLT5487814001].md",
+          "key": "363-sixties-fashion-the-teenage-revolution-part-1-glt5487814001",
+          "show": "The Rest Is History",
+          "title": "363. Sixties Fashion: The Teenage Revolution (Part 1)",
+          "url": "/wiki/sources/363-sixties-fashion-the-teenage-revolution-part-1-glt5487814001/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/christiandior/"
+    },
     "ChristianInheritanceOfEnlightenmentRights": {
       "episode_count": 1,
       "show_count": 1,
@@ -37095,6 +37111,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/entities/davidanderson/"
+    },
+    "DavidBailey": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5487814001 [GLT5487814001].md",
+          "key": "363-sixties-fashion-the-teenage-revolution-part-1-glt5487814001",
+          "show": "The Rest Is History",
+          "title": "363. Sixties Fashion: The Teenage Revolution (Part 1)",
+          "url": "/wiki/sources/363-sixties-fashion-the-teenage-revolution-part-1-glt5487814001/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/davidbailey/"
     },
     "DavidBrancaccio": {
       "episode_count": 3,
@@ -53357,9 +53389,9 @@
       "url": "/wiki/concepts/fascistsportpolicy/"
     },
     "FashionLiberationExploitationParadox": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8438824218 [GLT8438824218].md",
@@ -53367,6 +53399,13 @@
           "show": "The Rest Is History",
           "title": "364. Sixties Fashion: Swinging London (Part 2)",
           "url": "/wiki/sources/364-sixties-fashion-swinging-london-part-2-glt8438824218/"
+        },
+        {
+          "episode_file": "GLT5487814001 [GLT5487814001].md",
+          "key": "363-sixties-fashion-the-teenage-revolution-part-1-glt5487814001",
+          "show": "The Rest Is History",
+          "title": "363. Sixties Fashion: The Teenage Revolution (Part 1)",
+          "url": "/wiki/sources/363-sixties-fashion-the-teenage-revolution-part-1-glt5487814001/"
         }
       ],
       "updated": "2026-09-28",
@@ -81825,9 +81864,9 @@
       "url": "/wiki/entities/jeanpaulsartre/"
     },
     "JeanShrimpton": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8438824218 [GLT8438824218].md",
@@ -81835,6 +81874,13 @@
           "show": "The Rest Is History",
           "title": "364. Sixties Fashion: Swinging London (Part 2)",
           "url": "/wiki/sources/364-sixties-fashion-swinging-london-part-2-glt8438824218/"
+        },
+        {
+          "episode_file": "GLT5487814001 [GLT5487814001].md",
+          "key": "363-sixties-fashion-the-teenage-revolution-part-1-glt5487814001",
+          "show": "The Rest Is History",
+          "title": "363. Sixties Fashion: The Teenage Revolution (Part 1)",
+          "url": "/wiki/sources/363-sixties-fashion-the-teenage-revolution-part-1-glt5487814001/"
         }
       ],
       "updated": "2026-09-28",
@@ -96333,9 +96379,9 @@
       "url": "/wiki/concepts/lollardy/"
     },
     "London": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "TRAILER： Shire folk [6aa271d1a6e9aef4cc74ef3b].md",
@@ -96350,6 +96396,13 @@
           "show": "The Rest Is History",
           "title": "364. Sixties Fashion: Swinging London (Part 2)",
           "url": "/wiki/sources/364-sixties-fashion-swinging-london-part-2-glt8438824218/"
+        },
+        {
+          "episode_file": "GLT5487814001 [GLT5487814001].md",
+          "key": "363-sixties-fashion-the-teenage-revolution-part-1-glt5487814001",
+          "show": "The Rest Is History",
+          "title": "363. Sixties Fashion: The Teenage Revolution (Part 1)",
+          "url": "/wiki/sources/363-sixties-fashion-the-teenage-revolution-part-1-glt5487814001/"
         }
       ],
       "updated": "2026-09-28",
@@ -102584,9 +102637,9 @@
       "url": "/wiki/entities/marypickersgill/"
     },
     "MaryQuant": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8438824218 [GLT8438824218].md",
@@ -102594,6 +102647,13 @@
           "show": "The Rest Is History",
           "title": "364. Sixties Fashion: Swinging London (Part 2)",
           "url": "/wiki/sources/364-sixties-fashion-swinging-london-part-2-glt8438824218/"
+        },
+        {
+          "episode_file": "GLT5487814001 [GLT5487814001].md",
+          "key": "363-sixties-fashion-the-teenage-revolution-part-1-glt5487814001",
+          "show": "The Rest Is History",
+          "title": "363. Sixties Fashion: The Teenage Revolution (Part 1)",
+          "url": "/wiki/sources/363-sixties-fashion-the-teenage-revolution-part-1-glt5487814001/"
         }
       ],
       "updated": "2026-09-28",
@@ -122360,6 +122420,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/postwarcaribbeanbritishsettlement/"
     },
+    "PostwarFashionConsumerRevolution": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5487814001 [GLT5487814001].md",
+          "key": "363-sixties-fashion-the-teenage-revolution-part-1-glt5487814001",
+          "show": "The Rest Is History",
+          "title": "363. Sixties Fashion: The Teenage Revolution (Part 1)",
+          "url": "/wiki/sources/363-sixties-fashion-the-teenage-revolution-part-1-glt5487814001/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/postwarfashionconsumerrevolution/"
+    },
     "PostwarKeynesianRetreat": {
       "episode_count": 1,
       "show_count": 1,
@@ -122377,9 +122453,9 @@
       "url": "/wiki/concepts/postwarkeynesianretreat/"
     },
     "PostwarTeenageConsumerMarket": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT1663902020 [GLT1663902020].md",
@@ -122394,6 +122470,13 @@
           "show": "The Rest Is History",
           "title": "364. Sixties Fashion: Swinging London (Part 2)",
           "url": "/wiki/sources/364-sixties-fashion-swinging-london-part-2-glt8438824218/"
+        },
+        {
+          "episode_file": "GLT5487814001 [GLT5487814001].md",
+          "key": "363-sixties-fashion-the-teenage-revolution-part-1-glt5487814001",
+          "show": "The Rest Is History",
+          "title": "363. Sixties Fashion: The Teenage Revolution (Part 1)",
+          "url": "/wiki/sources/363-sixties-fashion-the-teenage-revolution-part-1-glt5487814001/"
         }
       ],
       "updated": "2026-09-28",
@@ -148369,9 +148452,9 @@
       "url": "/wiki/entities/sweynforkbeard/"
     },
     "SwingingLondonFashionMyth": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8438824218 [GLT8438824218].md",
@@ -148379,6 +148462,13 @@
           "show": "The Rest Is History",
           "title": "364. Sixties Fashion: Swinging London (Part 2)",
           "url": "/wiki/sources/364-sixties-fashion-swinging-london-part-2-glt8438824218/"
+        },
+        {
+          "episode_file": "GLT5487814001 [GLT5487814001].md",
+          "key": "363-sixties-fashion-the-teenage-revolution-part-1-glt5487814001",
+          "show": "The Rest Is History",
+          "title": "363. Sixties Fashion: The Teenage Revolution (Part 1)",
+          "url": "/wiki/sources/363-sixties-fashion-the-teenage-revolution-part-1-glt5487814001/"
         }
       ],
       "updated": "2026-09-28",
@@ -171465,9 +171555,9 @@
       "url": "/wiki/entities/youngwashington/"
     },
     "YouthFashionCommercializationCycle": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8438824218 [GLT8438824218].md",
@@ -171475,6 +171565,13 @@
           "show": "The Rest Is History",
           "title": "364. Sixties Fashion: Swinging London (Part 2)",
           "url": "/wiki/sources/364-sixties-fashion-swinging-london-part-2-glt8438824218/"
+        },
+        {
+          "episode_file": "GLT5487814001 [GLT5487814001].md",
+          "key": "363-sixties-fashion-the-teenage-revolution-part-1-glt5487814001",
+          "show": "The Rest Is History",
+          "title": "363. Sixties Fashion: The Teenage Revolution (Part 1)",
+          "url": "/wiki/sources/363-sixties-fashion-the-teenage-revolution-part-1-glt5487814001/"
         }
       ],
       "updated": "2026-09-28",
@@ -171534,6 +171631,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/youthprecautionaryculture/"
+    },
+    "YouthSubculturalStyleFormation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5487814001 [GLT5487814001].md",
+          "key": "363-sixties-fashion-the-teenage-revolution-part-1-glt5487814001",
+          "show": "The Rest Is History",
+          "title": "363. Sixties Fashion: The Teenage Revolution (Part 1)",
+          "url": "/wiki/sources/363-sixties-fashion-the-teenage-revolution-part-1-glt5487814001/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/youthsubculturalstyleformation/"
     },
     "YouthTobaccoInitiationPrevention": {
       "episode_count": 2,

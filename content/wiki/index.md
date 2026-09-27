@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [363. Sixties Fashion: The Teenage Revolution (Part 1)](sources/363-sixties-fashion-the-teenage-revolution-part-1-glt5487814001.md) — The Rest Is History episode on postwar austerity, youth subcultures, Mary Quant, teenage consumers, and fashion-media celebrity before Swinging London's peak.
 - [Goals Toolkit: How to Set & Achieve Your Goals](sources/goals-toolkit-how-to-set-achieve-your-goals-scim1532399364.md) — Huberman Lab solo episode on one-priority goal design, measurable actions, state-matched visualization, visual focus, intermittent self-reward, and middle-stage chunking.
 - [364. Sixties Fashion: Swinging London (Part 2)](sources/364-sixties-fashion-swinging-london-part-2-glt8438824218.md) — The Rest Is History episode on miniskirts, Swinging London, youth spending, boutique retail, gender politics, and the hippie fashion turn.
 - [How Risk Taking, Innovation & Artificial Intelligence Transform Human Experience | Marc Andreessen](sources/how-risk-taking-innovation-artificial-intelligence-transform-human-experience-marc-andreessen-scim7464698870.md) — Huberman Lab conversation on innovator traits, founder idea mazes, institutional resistance, defensive AI governance, nuclear-energy opportunity costs, and technology moral panics.
@@ -3033,6 +3034,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.70精神科｜又失眠了？真的可治愈！三甲精神科医生给你睡眠支招](sources/vol-70-jingshenke-you-shimian-le-zhende-ke-zhiyu-sanjia-jingshenke-yisheng-gei-ni-shuimian-zhizhao-lkfpagwnhiqlhyyz71xwefocyhf0.md) — 这病说来话长 episode on insomnia recognition, sleep-anxiety feedback, clinical measurement, individualized treatment, and cause-directed sleep care.
 
 ## Entities
+- [Christian Dior](entities/ChristianDior.md) — French designer whose 1947 New Look restored postwar Parisian glamour against utility austerity.
+- [David Bailey](entities/DavidBailey.md) — London fashion photographer whose informal imagery and celebrity helped export the Swinging London look.
 - [Emily Balcetis](entities/EmilyBalcetis.md) — Researcher cited for work connecting visual targeting, perceived effort, and goal pursuit.
 - [Maya Shankar](entities/MayaShankar.md) — Researcher credited with the “middle problem” framing for motivation during goal pursuit.
 - [Jean Shrimpton](entities/JeanShrimpton.md) — British model whose 1965 Melbourne appearance became a global youth-fashion scandal.
@@ -14138,6 +14141,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The 120 Days of Sodom](entities/The120DaysOfSodom.md) — Sade's prison-written novel of sealed, scheduled, and escalating domination.
 
 ## Concepts
+- [Postwar Fashion Consumer Revolution](concepts/PostwarFashionConsumerRevolution.md) — Shift from rationed durability toward youth-led, media-amplified, rapidly changing fashion consumption.
+- [Youth Subcultural Style Formation](concepts/YouthSubculturalStyleFormation.md) — Group identity built by recombining clothing, grooming, transport, venues, and historical or foreign references.
 - [Goal Pursuit Behavior Design](concepts/GoalPursuitBehaviorDesign.md) — Action-first framework joining one priority, concrete verbs, measurable practice, scheduling, and middle-stage chunking.
 - [Motivational Visualization by State](concepts/MotivationalVisualizationByState.md) — Proposed pre-action tool using positive or failure imagery according to current readiness.
 - [Visual Focus Effort Tool](concepts/VisualFocusEffortTool.md) — Proposed use of narrow task-relevant gaze for engagement, paired with panoramic visual recovery.
