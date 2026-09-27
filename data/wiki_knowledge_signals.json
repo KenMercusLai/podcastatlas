@@ -5351,6 +5351,22 @@
       "updated": "2026-09-24",
       "url": "/wiki/concepts/addictionasattemptedrelief/"
     },
+    "AddictionRelatedRewardPlasticity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2531622462 [SCIM2531622462].md",
+          "key": "how-your-brains-reward-circuits-drive-your-choices-dr-robert-malenka-scim2531622462",
+          "show": "Huberman Lab",
+          "title": "How Your Brain’s Reward Circuits Drive Your Choices | Dr. Robert Malenka",
+          "url": "/wiki/sources/how-your-brains-reward-circuits-drive-your-choices-dr-robert-malenka-scim2531622462/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/addictionrelatedrewardplasticity/"
+    },
     "AdelaideOfItaly": {
       "episode_count": 1,
       "show_count": 1,
@@ -13891,9 +13907,9 @@
       "url": "/wiki/concepts/autismashumandifference/"
     },
     "AutismBiologicalHeterogeneity": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM5460291325 [SCIM5460291325].md",
@@ -13901,9 +13917,16 @@
           "show": "Huberman Lab",
           "title": "The Causes & Treatments for Autism | Dr. Karen Parker",
           "url": "/wiki/sources/the-causes-treatments-for-autism-dr-karen-parker-scim5460291325/"
+        },
+        {
+          "episode_file": "SCIM2531622462 [SCIM2531622462].md",
+          "key": "how-your-brains-reward-circuits-drive-your-choices-dr-robert-malenka-scim2531622462",
+          "show": "Huberman Lab",
+          "title": "How Your Brain’s Reward Circuits Drive Your Choices | Dr. Robert Malenka",
+          "url": "/wiki/sources/how-your-brains-reward-circuits-drive-your-choices-dr-robert-malenka-scim2531622462/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/autismbiologicalheterogeneity/"
     },
     "AutismCureScamRisk": {
@@ -47266,6 +47289,22 @@
       ],
       "updated": "2026-08-06",
       "url": "/wiki/concepts/empathycircleexpansion/"
+    },
+    "EmpathyLikeBehavioralAssays": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2531622462 [SCIM2531622462].md",
+          "key": "how-your-brains-reward-circuits-drive-your-choices-dr-robert-malenka-scim2531622462",
+          "show": "Huberman Lab",
+          "title": "How Your Brain’s Reward Circuits Drive Your Choices | Dr. Robert Malenka",
+          "url": "/wiki/sources/how-your-brains-reward-circuits-drive-your-choices-dr-robert-malenka-scim2531622462/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/empathylikebehavioralassays/"
     },
     "EmpathyModeDifferentiation": {
       "episode_count": 1,
@@ -101051,9 +101090,9 @@
       "url": "/wiki/entities/lyumengzheng/"
     },
     "MDMA": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM7293799235 [SCIM7293799235].md",
@@ -101068,9 +101107,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Understanding & Healing the Mind | Dr. Karl Deisseroth",
           "url": "/wiki/sources/essentials-understanding-healing-the-mind-dr-karl-deisseroth-scim2644851631/"
+        },
+        {
+          "episode_file": "SCIM2531622462 [SCIM2531622462].md",
+          "key": "how-your-brains-reward-circuits-drive-your-choices-dr-robert-malenka-scim2531622462",
+          "show": "Huberman Lab",
+          "title": "How Your Brain’s Reward Circuits Drive Your Choices | Dr. Robert Malenka",
+          "url": "/wiki/sources/how-your-brains-reward-circuits-drive-your-choices-dr-robert-malenka-scim2531622462/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/mdma/"
     },
     "MGMResorts": {
@@ -133466,6 +133512,22 @@
       "updated": "2026-09-24",
       "url": "/wiki/concepts/revolutionaryvirtuepolitics/"
     },
+    "RewardCircuitContext": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2531622462 [SCIM2531622462].md",
+          "key": "how-your-brains-reward-circuits-drive-your-choices-dr-robert-malenka-scim2531622462",
+          "show": "Huberman Lab",
+          "title": "How Your Brain’s Reward Circuits Drive Your Choices | Dr. Robert Malenka",
+          "url": "/wiki/sources/how-your-brains-reward-circuits-drive-your-choices-dr-robert-malenka-scim2531622462/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/rewardcircuitcontext/"
+    },
     "RewardFitnessRisk": {
       "episode_count": 1,
       "show_count": 1,
@@ -134380,6 +134442,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/robertmacfarlane/"
+    },
+    "RobertMalenka": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2531622462 [SCIM2531622462].md",
+          "key": "how-your-brains-reward-circuits-drive-your-choices-dr-robert-malenka-scim2531622462",
+          "show": "Huberman Lab",
+          "title": "How Your Brain’s Reward Circuits Drive Your Choices | Dr. Robert Malenka",
+          "url": "/wiki/sources/how-your-brains-reward-circuits-drive-your-choices-dr-robert-malenka-scim2531622462/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/robertmalenka/"
     },
     "RobertNapier": {
       "episode_count": 1,
@@ -144702,6 +144780,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/socialrankflexibility/"
+    },
+    "SocialRewardNeuromodulation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2531622462 [SCIM2531622462].md",
+          "key": "how-your-brains-reward-circuits-drive-your-choices-dr-robert-malenka-scim2531622462",
+          "show": "Huberman Lab",
+          "title": "How Your Brain’s Reward Circuits Drive Your Choices | Dr. Robert Malenka",
+          "url": "/wiki/sources/how-your-brains-reward-circuits-drive-your-choices-dr-robert-malenka-scim2531622462/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/socialrewardneuromodulation/"
     },
     "SocialRoboticsElderCare": {
       "episode_count": 1,

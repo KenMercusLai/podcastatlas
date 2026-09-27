@@ -7888,6 +7888,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "AddictionRelatedRewardPlasticity": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "Adidas": [
     {
       "key": "culture",
@@ -26820,6 +26827,13 @@
     }
   ],
   "EmpathyAgainstComparison": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "EmpathyLikeBehavioralAssays": [
     {
       "key": "science",
       "label": "Science",
@@ -63042,6 +63056,13 @@
       "url": "/topics/history/"
     }
   ],
+  "RewardCircuitContext": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "RewardPredictionErrorLearning": [
     {
       "key": "science",
@@ -68348,6 +68369,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "SocialRewardNeuromodulation": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "SocialRoboticsElderCare": [
@@ -88558,6 +88586,13 @@
     }
   ],
   "how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "how-your-brains-reward-circuits-drive-your-choices-dr-robert-malenka-scim2531622462": [
     {
       "key": "science",
       "label": "Science",

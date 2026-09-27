@@ -1,0 +1,47 @@
+---
+title: "Addiction-Related Reward Plasticity"
+type: concept
+tags: [neuroscience, addiction, dopamine, neuroplasticity, reinforcement]
+sources:
+  - how-your-brains-reward-circuits-drive-your-choices-dr-robert-malenka-scim2531622462
+last_updated: 2026-09-28
+knowledge_schema: synthesis-v1
+---
+
+# Addiction-Related Reward Plasticity
+
+## Definition
+Addiction-related reward plasticity is the persistent remodeling of reward-circuit connections and learned cues through high-impact drug or behavioral reinforcement, allowing wanting and repeated pursuit to continue even when liking, benefit, or reflective intention has faded.
+
+## Current Synthesis
+The source links addictive liability to both the magnitude and speed of dopamine increase in the nucleus accumbens, with rapid delivery routes increasing impact. Cocaine, methamphetamine, and opioids reach a shared reward-circuit outcome through different pharmacological routes, while their wider brain actions produce different subjective experiences.
+
+The durable problem is learning and plasticity, not only the acute chemical event. Drug exposure can alter synapses onto dopamine neurons and nucleus-accumbens neurons, and environmental cues can later reactivate pursuit. This helps explain why wanting can outlast liking and why places, objects, or routines associated with prior use can provoke craving years later. Genetics, environment, early experience, drug availability, and alternative sources of reinforcement shape vulnerability, so the model does not reduce addiction to either moral failure or dopamine quantity alone.
+
+## Key Claims
+- Larger and faster dopamine increases are associated in the source with greater addictive liability.
+- Different drug classes can converge on nucleus-accumbens dopamine while acting through distinct mechanisms elsewhere in the brain.
+- Drug exposure can produce lasting synaptic changes in reward-related circuits.
+- Learned cues can acquire reinforcing power and trigger craving long after use has stopped.
+- Wanting and reinforcement can persist without liking or conscious endorsement.
+- Vulnerability reflects interacting genetic, developmental, environmental, and reinforcement conditions.
+
+## Evidence
+- Kinetics and route: [[how-your-brains-reward-circuits-drive-your-choices-dr-robert-malenka-scim2531622462]] links addictive liability to dopamine magnitude, rise speed, and rapid delivery by smoking or injection.
+- Synaptic persistence: [[how-your-brains-reward-circuits-drive-your-choices-dr-robert-malenka-scim2531622462]] reports lasting reward-circuit changes after single and repeated drug exposure in rodent models.
+- Cue learning: [[how-your-brains-reward-circuits-drive-your-choices-dr-robert-malenka-scim2531622462]] uses Malenka’s decades-later cigarette craving in Paris to illustrate learned environmental associations.
+- Recovery implication: [[how-your-brains-reward-circuits-drive-your-choices-dr-robert-malenka-scim2531622462]] frames abstinence communities and healthier reinforcement as possible ways to build competing reward structures.
+
+## Counterevidence & Qualifications
+Rodent synaptic findings do not by themselves establish identical human time courses, clinical severity, or treatment response. Dopamine convergence does not make all drugs, routes, behavioral compulsions, or subjective states equivalent. Twelve-step programs are discussed as a plausible reinforcement reframing, not proven as the only or universally effective recovery route. Addiction assessment and treatment require clinical and social context beyond this mechanism sketch.
+
+## What Changed
+- Created a durable-learning account that joins dopamine kinetics, synaptic remodeling, cue-triggered craving, and wanting without liking.
+
+## Related Concepts
+- [[RewardCircuitContext]] - circuit framework that drugs and learned cues can disproportionately bias.
+- [[DopamineWantingLoop]] - explains pursuit that can separate from enjoyment.
+- [[DopaminePeakTroughBaseline]] - neighboring dynamic account of repeated peaks, troughs, and future motivation.
+- [[RewardPredictionErrorLearning]] - learning mechanism through which cues gain predictive power.
+- [[Neuroplasticity]] - broader capacity for experience-dependent change in neural connections.
+- [[AddictiveInteractionDesign]] - design-level use of rapid, uncertain, and repeated reinforcement outside drug exposure.

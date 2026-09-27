@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1276
+topic_total_pages: 1281
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -28,6 +28,9 @@ topic_concepts:
   - key: "AcuteWoundBurnFirstAid"
     title: "Acute Wound and Burn First Aid / 急性伤口与烫伤急救"
     url: "/wiki/concepts/acutewoundburnfirstaid/"
+  - key: "AddictionRelatedRewardPlasticity"
+    title: "Addiction-Related Reward Plasticity"
+    url: "/wiki/concepts/addictionrelatedrewardplasticity/"
   - key: "AdlerianTeleology"
     title: "Adlerian Teleology"
     url: "/wiki/concepts/adlerianteleology/"
@@ -634,6 +637,9 @@ topic_concepts:
   - key: "EmpathyAgainstComparison"
     title: "Empathy Against Comparison / 对抗比较的同理心"
     url: "/wiki/concepts/empathyagainstcomparison/"
+  - key: "EmpathyLikeBehavioralAssays"
+    title: "Empathy-Like Behavioral Assays"
+    url: "/wiki/concepts/empathylikebehavioralassays/"
   - key: "EndocannabinoidHomeostaticSignaling"
     title: "Endocannabinoid Homeostatic Signaling"
     url: "/wiki/concepts/endocannabinoidhomeostaticsignaling/"
@@ -1666,6 +1672,9 @@ topic_concepts:
   - key: "ReusableRocketTurnaround"
     title: "Reusable Rocket Turnaround"
     url: "/wiki/concepts/reusablerocketturnaround/"
+  - key: "RewardCircuitContext"
+    title: "Reward Circuit Context"
+    url: "/wiki/concepts/rewardcircuitcontext/"
   - key: "RewardPredictionErrorLearning"
     title: "Reward Prediction Error Learning"
     url: "/wiki/concepts/rewardpredictionerrorlearning/"
@@ -1900,6 +1909,9 @@ topic_concepts:
   - key: "SocialRealityConstruction"
     title: "Social Reality Construction / 社会现实建构"
     url: "/wiki/concepts/socialrealityconstruction/"
+  - key: "SocialRewardNeuromodulation"
+    title: "Social Reward Neuromodulation"
+    url: "/wiki/concepts/socialrewardneuromodulation/"
   - key: "SolarGeoengineering"
     title: "Solar Geoengineering"
     url: "/wiki/concepts/solargeoengineering/"
@@ -3648,6 +3660,9 @@ topic_sources:
   - key: "how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360"
     title: "How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford"
     url: "/wiki/sources/how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360/"
+  - key: "how-your-brains-reward-circuits-drive-your-choices-dr-robert-malenka-scim2531622462"
+    title: "How Your Brain’s Reward Circuits Drive Your Choices | Dr. Robert Malenka"
+    url: "/wiki/sources/how-your-brains-reward-circuits-drive-your-choices-dr-robert-malenka-scim2531622462/"
   - key: "how-your-immune-system-works-how-to-improve-it-dr-max-krummel-scim7009523546"
     title: "How Your Immune System Works & How to Improve It | Dr. Max Krummel"
     url: "/wiki/sources/how-your-immune-system-works-how-to-improve-it-dr-max-krummel-scim7009523546/"

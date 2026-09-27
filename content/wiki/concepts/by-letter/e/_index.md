@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 8562
+wiki_total_pages: 8566
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -482,6 +482,9 @@ wiki_pages:
   - key: "EmpathyCircleExpansion"
     title: "Empathy Circle Expansion"
     url: "/wiki/concepts/empathycircleexpansion/"
+  - key: "EmpathyLikeBehavioralAssays"
+    title: "Empathy-Like Behavioral Assays"
+    url: "/wiki/concepts/empathylikebehavioralassays/"
   - key: "EmpathyModeDifferentiation"
     title: "Empathy-Mode Differentiation"
     url: "/wiki/concepts/empathymodedifferentiation/"

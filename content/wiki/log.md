@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-28] ingest | How Your Brain’s Reward Circuits Drive Your Choices | Dr. Robert Malenka
+
+Added source `how-your-brains-reward-circuits-drive-your-choices-dr-robert-malenka-scim2531622462`; created `RobertMalenka`, `RewardCircuitContext`, `AddictionRelatedRewardPlasticity`, `SocialRewardNeuromodulation`, and `EmpathyLikeBehavioralAssays`; and updated `MDMA`, `AutismBiologicalHeterogeneity`, and the canonical index from their complete bounded source sets. Core synthesis: reward circuitry integrates body state, memory, emotion, rules, and sensory context; addictive drugs and learned cues can durably bias that system so wanting outlasts liking; and social reward emerges from interacting dopamine, serotonin, oxytocin, and action-selection circuits rather than one molecule. No settled contradiction was adopted. Mouse empathy-like assays, autism subgroup findings, receptor and enantiomer mechanisms, drug-development claims, and therapeutic potential remain source-scoped; MDMA and psychedelic discussion stays inside legal, screening, clinical, and safety boundaries. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-28] ingest | Improving Sexual & Urological Health in Males and Females | Dr. Rena Malik
 
 Added source `improving-sexual-urological-health-in-males-and-females-dr-rena-malik-scim6177024080`; created `RenaMalik` and `PelvicFloorFunctionMatching`; and updated `SexualFunctionRelationshipContext`, `ErectileDysfunctionVascularTriage`, `UrinaryTractInfectionBehaviorBoundary`, `GenitourinarySyndromeMenopauseCare`, `DigitalSexualSubstituteRisk`, and the canonical index from their complete bounded source sets. Core synthesis: urinary and sexual symptoms should be separated into desire, genital response, blood flow, neural signaling, pelvic-floor state, hormones, medications, cardiometabolic health, infection or mimics, and relationship context before treatment is matched. No settled contradiction is adopted. Malik's functional-impairment pornography boundary qualifies risk-only framing, and her evidence-strength comments qualify familiar UTI hygiene rituals without erasing recurrence or anatomy context. The raw title's `Rena`/body's `Rina` mismatch is normalized to `Rena Malik`; prevalence, dose, response-rate, supplement, and risk figures remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -24279,6 +24283,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-28] ingest | VOL.58脊柱外科&麻醉科｜腰间盘突出是否须手术等28个职场白领、学生关心的脊柱问题
 
 Added source `vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms`; created `ChinaJapanFriendshipHospital`; and updated `FuwaiHospital`, `MaHaoning`, `DongXintong`, `LumbarDiscHerniation`, `SymptomDrivenSpineCare`, `LumbarNeutralPosition`, `SpineRehabilitationProgression`, `SedentaryBehaviorInterruption`, `CervicalCurvePostureManagement`, `SpineComfortAdjunctBoundary`, and the canonical index from their complete bounded source sets. Core synthesis: imaging wording does not determine spine-disease severity or surgery by itself; uncontrolled pain, neurological loss, bowel or bladder dysfunction, recurrence burden, daily function, and patient preference shape different levels of escalation, while acute symptom control should transition into movement variability, daily-action modification, and gradual active capacity building. No settled contradiction was adopted. The “福外/阜外” mapping and genetics, ankylosing-spondylitis, congenital-variation, exercise, procedure, and listener-case claims remain source-scoped rather than independently verified or individualized guidance. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-28] lint | Wiki health check
 

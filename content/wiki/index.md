@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How Your Brain’s Reward Circuits Drive Your Choices | Dr. Robert Malenka](sources/how-your-brains-reward-circuits-drive-your-choices-dr-robert-malenka-scim2531622462.md) — Huberman Lab interview on context-sensitive dopamine signaling, addiction-related plasticity, social reward, empathy-like assays, autism heterogeneity, and cautious MDMA research.
 - [VOL.58脊柱外科&麻醉科｜腰间盘突出是否须手术等28个职场白领、学生关心的脊柱问题](sources/vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms.md) — 这病说来话长 Q&A on desk-related neck and back discomfort, lumbar-disc imaging, surgical warning signs, neutral movement, active rehabilitation, and the limits of passive aids.
 - [350: The Triumph of George Washington (Part 4)](sources/350-the-triumph-of-george-washington-part-4-glt1619660676.md) — The Rest Is History episode on Valley Forge, global war, Yorktown, unequal revolutionary liberty, constitutional state-building, and the contested 1776/1619 founding story.
 - [How to Enhance Performance & Learning by Applying a Growth Mindset](sources/how-to-enhance-performance-learning-by-applying-a-growth-mindset-scim1082295503.md) — Huberman Lab solo episode on process-focused feedback, error analysis, growth mindset, stress reappraisal, and the limits of brief interventions.
@@ -3067,6 +3068,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Harnessing Passion, Drive & Persistence for Lifelong Success | Tony Hawk](sources/harnessing-passion-drive-persistence-for-lifelong-success-tony-hawk-scim8571002701.md) — Huberman Lab conversation on skateboarding mastery, intrinsic progression, injury-recovery adherence, entrepreneurship, family, and public skateparks.
 
 ## Entities
+- [Robert Malenka](entities/RobertMalenka.md) — Psychiatrist and neuroscientist connecting synaptic plasticity and reward circuitry to addiction, social behavior, empathy-like assays, autism models, and MDMA research.
 - [中日友好医院 / China-Japan Friendship Hospital](entities/ChinaJapanFriendshipHospital.md) — Hospital affiliation named for spine surgeon 马浩宁 in the VOL.58 这病说来话长 listener Q&A.
 - [Adam I. P. Smith](entities/AdamIPSmith.md) — Historian framing the American Revolution as overlapping continental, civil, and global wars with uneven political consequences.
 - [Yorktown](entities/Yorktown.md) — 1781 coalition siege where American endurance and French land and naval power made British recovery politically untenable.
@@ -14240,6 +14242,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Skatepark Project](entities/TheSkateparkProject.md) — Nonprofit supporting public skateparks as access, practice, and youth-community infrastructure.
 
 ## Concepts
+- [Reward Circuit Context](concepts/RewardCircuitContext.md) — Framework in which reinforcement and salience depend on body state, memory, emotion, expectation, sensory input, and behavioral rules rather than stimulus pleasure alone.
+- [Addiction-Related Reward Plasticity](concepts/AddictionRelatedRewardPlasticity.md) — Persistent reward-circuit remodeling and cue learning that can sustain wanting and pursuit after liking or reflective endorsement fades.
+- [Social Reward Neuromodulation](concepts/SocialRewardNeuromodulation.md) — Context-dependent interaction of dopamine, serotonin, oxytocin, and reward circuits in social reinforcement and action selection.
+- [Empathy-Like Behavioral Assays](concepts/EmpathyLikeBehavioralAssays.md) — Animal tasks measuring pain transfer, social analgesia, other-directed reward, and harm prevention without equating them to full human empathy.
 - [American Revolution as Global War](concepts/AmericanRevolutionGlobalWar.md) — Interpretation joining the Continental campaign, Patriot-Loyalist civil conflict, and wider Anglo-French-Spanish imperial war.
 - [Revolutionary Liberty Distribution](concepts/RevolutionaryLibertyDistribution.md) — Framework for comparing revolutionary gains, exclusions, and reversals across race, gender, class, place, and allegiance.
 - [Contested American Founding Myth](concepts/ContestedAmericanFoundingMyth.md) — Dispute over 1776, 1619, and an inclusive origin story that holds republican liberty together with slavery and dispossession.
