@@ -1547,6 +1547,13 @@
       "url": "/topics/science/"
     }
   ],
+  "378-baghdad-the-golden-age-part-3-glt9689814482": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "379-baghdad-the-arabian-nights-part-4-glt8529456010": [
     {
       "key": "history",
@@ -38282,6 +38289,18 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "ImperialMetropolisIntegration": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "ImperialNameTaboo": [

@@ -23733,3 +23733,11 @@ Added source `how-to-understand-emotions-dr-lisa-feldman-barrett-scim3919749252`
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | 378. Baghdad: The Golden Age (Part 3)
+
+Added source `378-baghdad-the-golden-age-part-3-glt9689814482`; created `AlKhayzuran`, `Zubaydah`, `Barmakids`, `AbbasidSuccessionInstability`, and `ImperialMetropolisIntegration`; and updated `HarunAlRashid`, `Baghdad`, `AbbasidCaliphate`, `ArabianNights`, and the canonical index from their complete bounded source sets. Core synthesis: Harun's historical rule was more austere, military, administrative, and politically severe than his Arabian Nights persona; Baghdad's golden-age scale arose from imperial trade, language, law, canals, markets, migration, and patronage while remaining dependent on unequal status, poverty, slavery, and fragile order. No settled contradiction found. Court death and affair stories, Barmakid purge motives, paper-factory attribution, population estimates, crop diffusion, tolerance framing, and claims of unprecedented global scale remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -8,6 +8,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Sources
 - [How to Understand Emotions | Dr. Lisa Feldman Barrett](sources/how-to-understand-emotions-dr-lisa-feldman-barrett-scim3919749252.md) — Huberman Lab interview on constructed emotion, contextual face inference, affect, emotional granularity, predictive allostasis, body budgeting, and flexible regulation.
 - [VOL.79生殖医学科男科｜取精室里不能说的秘密 辅助生殖知多少](sources/vol-79-shengzhi-yixueke-nanke-qujingshi-li-buneng-shuo-de-mimi-fuzhu-shengzhi-zhi-duoshao-lp8ztob7icudu2x06tqc0dh_zhdk.md) — 这病说来话长 episode on semen-sample collection quality, male fertility assessment, azoospermia pathways, assisted-reproduction timing, prostate findings, cycling exposure, and sexual-function anxiety.
+- [378. Baghdad: The Golden Age (Part 3)](sources/378-baghdad-the-golden-age-part-3-glt9689814482.md) — The Rest Is History episode on Harun al-Rashid's historical and legendary profiles, Abbasid court and succession politics, and Baghdad's integrated but unequal metropolitan life.
 - [379. Baghdad: The Arabian Nights (Part 4)](sources/379-baghdad-the-arabian-nights-part-4-glt8529456010.md) — The Rest Is History episode on Abbasid legal authority, hadith criticism, Baghdad's translation movement, the House of Wisdom, and the layered transmission and urban imagination of the Arabian Nights.
 - [380. Captain Cook: History’s Greatest Explorer (Part 1)](sources/380-captain-cook-historys-greatest-explorer-part-1-glt8106697435.md) — The Rest Is History episode on Cook's survey formation, the transit-of-Venus mission, Banks's scientific party, Endeavour logistics, crew health, and the voyage's concealed imperial purpose.
 - [Curing All Human Diseases & the Future of Health & Technology | Mark Zuckerberg & Dr. Priscilla Chan](sources/curing-all-human-diseases-the-future-of-health-technology-mark-zuckerberg-dr-priscilla-chan-scim6005948638.md) — Huberman Lab interview on CZI's biomedical tool-building, single-cell atlases, virtual cells, Biohubs, social-media design, mixed reality, smart glasses, and creator-controlled AI.
@@ -2993,13 +2994,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AMA #12: Thoughts on Longevity Supplements (Resveratrol, NR, NMN, Etc.) & How to Improve Memory](sources/ama-12-thoughts-on-longevity-supplements-resveratrol-nr-nmn-etc-how-to-improve-memory-scim5764692205.md) — Huberman Lab premium AMA separating longevity mechanisms and subjective supplement effects from demonstrated human lifespan benefit while prioritizing sleep, exercise, nutrition, light, stress control, and social connection.
 
 ## Entities
-- [Baghdad](entities/Baghdad.md) — Abbasid capital represented as both a legal-intellectual center and the layered imagined city of the Arabian Nights.
-- [Abbasid Caliphate](entities/AbbasidCaliphate.md) — Baghdad-centered polity joining caliphal patronage, juristic authority, translation, and literary afterlife.
+- [Baghdad](entities/Baghdad.md) — Integrated Abbasid metropolis of canals, markets, scholarship, pluralism, inequality, political fragility, and literary afterlife.
+- [Abbasid Caliphate](entities/AbbasidCaliphate.md) — Baghdad-centered polity joining commerce, caliphal power, juristic authority, translation, succession conflict, and unequal labor.
 - [House of Wisdom](entities/HouseOfWisdom.md) — Abbasid court library treated as one institution within a broader distributed translation movement.
-- [The Arabian Nights](entities/ArabianNights.md) — Layered story corpus shaped by Persian, Arabic, oral, manuscript, and European transmission.
+- [The Arabian Nights](entities/ArabianNights.md) — Layered story corpus whose mythic Abbasid Baghdad is culturally revealing but distinct from documentary urban history.
 - [Abu Hanifa](entities/AbuHanifa.md) — Early jurist used to connect reasoned interpretation, legal schools, and scholar-centered authority.
 - [Antoine Galland](entities/AntoineGalland.md) — Translator-editor whose French Nights reshaped the corpus and its European canon.
-- [Harun al-Rashid](entities/HarunAlRashid.md) — Abbasid caliph represented through his mythologized Arabian Nights afterlife.
+- [Harun al-Rashid](entities/HarunAlRashid.md) — Abbasid caliph remembered as a benchmark of Baghdad's order and transformed into an Arabian Nights ruler.
+- [Al-Khayzuran](entities/AlKhayzuran.md) — Harun's mother and Abbasid dynastic actor whose structural influence is clearer than later death rumors.
+- [Zubaydah](entities/Zubaydah.md) — Harun's wife, al-Amin's mother, and remembered patron of charity and pilgrimage infrastructure.
+- [Barmakids](entities/Barmakids.md) — Balkh-origin administrative family whose intimacy, patronage, and 803 purge expose the instability of court power.
 - [Priscilla Chan](entities/PriscillaChan.md) — Physician, educator, and CZI co-founder framing biomedical philanthropy through shared tools, collaboration, and human translation.
 - [Chan Zuckerberg Initiative](entities/ChanZuckerbergInitiative.md) — Philanthropic organization combining grants, open science, software, hardware, data, compute, Biohubs, and patient-led rare-disease capacity.
 - [Chan Zuckerberg Biohub Network](entities/ChanZuckerbergBiohubNetwork.md) — Cross-university research model for focused interdisciplinary biomedical programs.
@@ -14041,6 +14045,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hadith Authentication](concepts/HadithAuthentication.md) — Source-critical evaluation of attributed prophetic reports through transmission chains and related scrutiny.
 - [Abbasid Translation Movement](concepts/AbbasidTranslationMovement.md) — Distributed patronage network that translated and transformed inherited learning in Arabic intellectual life.
 - [Arabian Nights Transmission](concepts/ArabianNightsTransmission.md) — Layered movement of tales through oral performance, manuscripts, translation, editing, illustration, and adaptation.
+- [Abbasid Succession Instability](concepts/AbbasidSuccessionInstability.md) — Pattern joining contested designation, divided inheritance, civil war, and military dependence in caliphal transfer.
+- [Imperial Metropolis Integration](concepts/ImperialMetropolisIntegration.md) — Framework connecting imperial trade, language, law, infrastructure, migration, wealth, coercive labor, and urban risk.
 - [Semen Sample Collection Quality / 精液标本采集质量](concepts/SemenSampleCollectionQuality.md) — Pre-analytic framework for collection method, completeness, privacy, temperature, timing, transport, and laboratory handoff.
 - [Azoospermia Clinical Pathway / 无精子症临床路径](concepts/AzoospermiaClinicalPathway.md) — Cause-first pathway from repeated confirmation through obstruction, production impairment, reconstruction, retrieval, and assisted-reproduction decisions.
 - [Biomedical Research Tool Infrastructure](concepts/BiomedicalResearchToolInfrastructure.md) — Shared measurement, imaging, software, data, compute, and institutional capacity for expanding biomedical discovery.

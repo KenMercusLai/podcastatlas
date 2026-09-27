@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3183
+topic_total_pages: 3184
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2494,6 +2494,9 @@ topic_concepts:
   - key: "ImperialLogisticalSpectacle"
     title: "Imperial Logistical Spectacle"
     url: "/wiki/concepts/imperiallogisticalspectacle/"
+  - key: "ImperialMetropolisIntegration"
+    title: "Imperial Metropolis Integration"
+    url: "/wiki/concepts/imperialmetropolisintegration/"
   - key: "InHouseBankingSoftware"
     title: "In-House Banking Software"
     url: "/wiki/concepts/inhousebankingsoftware/"

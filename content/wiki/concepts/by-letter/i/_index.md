@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 8424
+wiki_total_pages: 8426
 wiki_pages:
   - key: "IBDPatientEducationAndPeerSupport"
     title: "IBD Patient Education and Peer Support / IBD患者教育与同伴支持"
@@ -161,6 +161,9 @@ wiki_pages:
   - key: "ImperialMarriageInspection"
     title: "Imperial Marriage Inspection / 皇室婚前身体检视"
     url: "/wiki/concepts/imperialmarriageinspection/"
+  - key: "ImperialMetropolisIntegration"
+    title: "Imperial Metropolis Integration"
+    url: "/wiki/concepts/imperialmetropolisintegration/"
   - key: "ImperialPetitionOffenseRisk"
     title: "Imperial Petition Offense Risk / 申冤上书冒犯风险"
     url: "/wiki/concepts/imperialpetitionoffenserisk/"

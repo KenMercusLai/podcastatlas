@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2114
+topic_total_pages: 2115
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1561,6 +1561,9 @@ topic_concepts:
   - key: "IEPATariffAuthorityLimit"
     title: "IEPA Tariff Authority Limit"
     url: "/wiki/concepts/iepatariffauthoritylimit/"
+  - key: "ImperialMetropolisIntegration"
+    title: "Imperial Metropolis Integration"
+    url: "/wiki/concepts/imperialmetropolisintegration/"
   - key: "InHouseBankingSoftware"
     title: "In-House Banking Software"
     url: "/wiki/concepts/inhousebankingsoftware/"

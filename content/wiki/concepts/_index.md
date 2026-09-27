@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 8424
+wiki_total_pages: 8426
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -32,6 +32,9 @@ wiki_pages:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
     url: "/wiki/concepts/a2atransactionnorms/"
+  - key: "AbbasidSuccessionInstability"
+    title: "Abbasid Succession Instability"
+    url: "/wiki/concepts/abbasidsuccessioninstability/"
   - key: "AbbasidTranslationMovement"
     title: "Abbasid Translation Movement"
     url: "/wiki/concepts/abbasidtranslationmovement/"
