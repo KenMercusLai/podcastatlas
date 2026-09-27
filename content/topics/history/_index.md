@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2075
+topic_total_pages: 2076
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -4644,6 +4644,9 @@ topic_sources:
   - key: "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008"
     title: "318: Hundred Years' War: A Game of Thrones (Part 1)"
     url: "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+  - key: "374-the-battle-of-cable-street-fascism-defeated-glt3021730207"
+    title: "374. The Battle of Cable Street: Fascism Defeated"
+    url: "/wiki/sources/374-the-battle-of-cable-street-fascism-defeated-glt3021730207/"
   - key: "375-hitler-and-the-mitford-sisters-glt5493256820"
     title: "375. Hitler and the Mitford Sisters"
     url: "/wiki/sources/375-hitler-and-the-mitford-sisters-glt5493256820/"

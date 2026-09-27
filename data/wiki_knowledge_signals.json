@@ -15342,6 +15342,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/entities/battleofagincourt/"
     },
+    "BattleOfCableStreet": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3021730207 [GLT3021730207].md",
+          "key": "374-the-battle-of-cable-street-fascism-defeated-glt3021730207",
+          "show": "The Rest Is History",
+          "title": "374. The Battle of Cable Street: Fascism Defeated",
+          "url": "/wiki/sources/374-the-battle-of-cable-street-fascism-defeated-glt3021730207/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/battleofcablestreet/"
+    },
     "BattleOfHastings": {
       "episode_count": 1,
       "show_count": 1,
@@ -19259,9 +19275,9 @@
       "url": "/wiki/concepts/britishelectioncampaigneffects/"
     },
     "BritishFascism": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5493256820 [GLT5493256820].md",
@@ -19269,6 +19285,13 @@
           "show": "The Rest Is History",
           "title": "375. Hitler and the Mitford Sisters",
           "url": "/wiki/sources/375-hitler-and-the-mitford-sisters-glt5493256820/"
+        },
+        {
+          "episode_file": "GLT3021730207 [GLT3021730207].md",
+          "key": "374-the-battle-of-cable-street-fascism-defeated-glt3021730207",
+          "show": "The Rest Is History",
+          "title": "374. The Battle of Cable Street: Fascism Defeated",
+          "url": "/wiki/sources/374-the-battle-of-cable-street-fascism-defeated-glt3021730207/"
         }
       ],
       "updated": "2026-09-27",
@@ -19369,6 +19392,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/britishmuseum/"
+    },
+    "BritishUnionOfFascists": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3021730207 [GLT3021730207].md",
+          "key": "374-the-battle-of-cable-street-fascism-defeated-glt3021730207",
+          "show": "The Rest Is History",
+          "title": "374. The Battle of Cable Street: Fascism Defeated",
+          "url": "/wiki/sources/374-the-battle-of-cable-street-fascism-defeated-glt3021730207/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/britishunionoffascists/"
     },
     "Broadcom": {
       "episode_count": 2,
@@ -113653,9 +113692,9 @@
       "url": "/wiki/entities/osorioduqueestrada/"
     },
     "OswaldMosley": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5493256820 [GLT5493256820].md",
@@ -113663,6 +113702,13 @@
           "show": "The Rest Is History",
           "title": "375. Hitler and the Mitford Sisters",
           "url": "/wiki/sources/375-hitler-and-the-mitford-sisters-glt5493256820/"
+        },
+        {
+          "episode_file": "GLT3021730207 [GLT3021730207].md",
+          "key": "374-the-battle-of-cable-street-fascism-defeated-glt3021730207",
+          "show": "The Rest Is History",
+          "title": "374. The Battle of Cable Street: Fascism Defeated",
+          "url": "/wiki/sources/374-the-battle-of-cable-street-fascism-defeated-glt3021730207/"
         }
       ],
       "updated": "2026-09-27",
@@ -161605,6 +161651,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/williamgolding/"
+    },
+    "WilliamJoyce": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3021730207 [GLT3021730207].md",
+          "key": "374-the-battle-of-cable-street-fascism-defeated-glt3021730207",
+          "show": "The Rest Is History",
+          "title": "374. The Battle of Cable Street: Fascism Defeated",
+          "url": "/wiki/sources/374-the-battle-of-cable-street-fascism-defeated-glt3021730207/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/williamjoyce/"
     },
     "WilliamMurdoch": {
       "episode_count": 2,

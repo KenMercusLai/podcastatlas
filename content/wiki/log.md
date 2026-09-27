@@ -23796,3 +23796,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | 374. The Battle of Cable Street: Fascism Defeated
+
+Added source `374-the-battle-of-cable-street-fascism-defeated-glt3021730207`; created `BattleOfCableStreet`, `BritishUnionOfFascists`, and `WilliamJoyce`; and updated `OswaldMosley`, `BritishFascism`, and the canonical index from their complete bounded source sets. Core synthesis: Cable Street successfully blocked Mosley's march and became a durable anti-fascist symbol, but it did not immediately end BUF recruitment, meetings, or antisemitic violence; British fascism adapted through small-trader grievance, explicit antisemitism, anti-politics, and ultra-appeasement before wartime internment broke its momentum. No settled contradiction found. Crowd and membership figures, Mosley's motives, Edward VIII's sympathies, Regulation 18B's fairness, and counterfactual occupation leadership remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

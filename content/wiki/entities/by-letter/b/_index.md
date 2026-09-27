@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 11045
+wiki_total_pages: 11048
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -188,6 +188,9 @@ wiki_pages:
   - key: "BattleOfAgincourt"
     title: "Battle of Agincourt"
     url: "/wiki/entities/battleofagincourt/"
+  - key: "BattleOfCableStreet"
+    title: "Battle of Cable Street"
+    url: "/wiki/entities/battleofcablestreet/"
   - key: "BattleOfCrete"
     title: "Battle of Crete"
     url: "/wiki/entities/battleofcrete/"
@@ -914,6 +917,9 @@ wiki_pages:
   - key: "BritishMuseum"
     title: "British Museum"
     url: "/wiki/entities/britishmuseum/"
+  - key: "BritishUnionOfFascists"
+    title: "British Union of Fascists"
+    url: "/wiki/entities/britishunionoffascists/"
   - key: "BrittYoung"
     title: "Britt Young"
     url: "/wiki/entities/brittyoung/"
