@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [384. The Fall of the Aztecs: The Adventure Begins (Part 1)](sources/384-the-fall-of-the-aztecs-the-adventure-begins-part-1-glt8046611029.md) — The Rest Is History episode on Cortes's Iberian formation, Caribbean colonial apprenticeship, westward reconnaissance, mixed motives, and conquest-source uncertainty.
 - [385. The Fall of the Aztecs: The Woman Who Changed The World (Part 2)](sources/385-the-fall-of-the-aztecs-the-woman-who-changed-the-world-part-2-glt5124604457.md) — The Rest Is History episode on Cortes's break with Cuban authority, the Malinche-Aguilar translation chain, early coast diplomacy, the Requerimiento, and the Vera Cruz legal coup.
 - [VOL.84性教育｜“无痛人流”的骗钱套路｜硬怼性骚扰、全面性教育、正视残障人士和老人需求](sources/vol-84-xingjiaoyu-wutongrenliu-de-pianqian-taolu-yingdui-xingsaorao-quanmianxingjiaoyu-zhengshi-canzhangrenshi-he-laoren-xuqiu-lhvlv0wfx3dqv41jaat86eh7w6nd.md) — 这病说来话长 episode on comprehensive sex education, consent, contraception, sexual-health care, child safeguarding, and older-adult and disability inclusion.
 - [386. The Fall of the Aztecs: The City of Gold (Part 3)](sources/386-the-fall-of-the-aztecs-the-city-of-gold-part-3-glt2951201852.md) — The Rest Is History episode on Cortes's inland march, Tlaxcalan resistance and alliance, the Cholula massacre, Tenochtitlan's scale, and Moctezuma's contested welcome.
@@ -2978,7 +2979,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Entities
 - [Geronimo de Aguilar](entities/GeronimoDeAguilar.md) — Spanish shipwreck survivor whose Maya-language skill formed the first Spanish-facing link in Cortes's interpretation chain.
-- [Diego Velazquez de Cuellar](entities/DiegoVelazquezDeCuellar.md) — Cuban governor whose exploratory commission Cortes exceeded and bypassed through Vera Cruz.
+- [Diego Velazquez de Cuellar](entities/DiegoVelazquezDeCuellar.md) — Cuban conqueror and governor whose westward sponsorship, selection of Cortes, limited commission, and failed recall shaped the Mexico expedition.
 - [汪一鸣 / Wang Yiming (reproductive-medicine doctor)](entities/WangYimingReproductiveDoctor.md) — Source-scoped clinician connecting sex education with consent, contraception, pain, infection testing, qualified pregnancy care, and inclusion.
 - [蔡夜 / Cai Ye (sex educator)](entities/CaiYeSexEducator.md) — Source-scoped sex educator framing bodies, relationships, consent, prevention, clinical communication, child safeguarding, and inclusion as comprehensive education.
 - [孟医生 / Meng Doctor (emergency medicine)](entities/MengDoctorZheBing.md) — Source-scoped emergency attending explaining acute-risk exclusion, stabilization, and the limits of emergency diagnosis.
@@ -2990,10 +2991,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Panfilo de Narvaez](entities/PanfiloDeNarvaez.md) — Rival commander whose larger force was defeated and absorbed by Cortes immediately before the Tenochtitlan crisis.
 - [Tlaxcala](entities/Tlaxcala.md) — Independent Nahua confederation whose resistance, alliance-making, regional rivalry, warriors, labor, and logistics were causal across the conquest campaign.
 - [Cuitlahuac](entities/Cuitlahuac.md) — Short-reigned Mexica ruler whose anti-coalition strategy and death from smallpox preceded Cuauhtemoc's accession.
-- [Hernan Cortes](entities/HernanCortes.md) — Conquistador whose advance, recovery, victory, and later rule depended on Indigenous alliance, translation, replenishment, terror, and narrative self-fashioning.
+- [Hernan Cortes](entities/HernanCortes.md) — Colonial officeholder and conquistador whose formation, advance, recovery, victory, and rule joined law, alliance, translation, replenishment, terror, and narrative self-fashioning.
+- [Hatuey](entities/Hatuey.md) — Taino resistance leader whose remembered gold critique and refusal of baptism indict Spanish conquest while remaining source-mediated traditions.
 - [Malinche](entities/Malinche.md) — Indigenous interpreter central to alliance and court encounter who later navigated conquest through constrained translation, kinship, property, and legal status.
 - [Cuauhtemoc](entities/Cuauhtemoc.md) — Final Mexica ruler elevated amid epidemic succession, captured after the siege, tortured for gold, and executed on an unresolved allegation.
-- [Mexica (Aztec) Empire](entities/MexicaEmpire.md) — Tenochtitlan-centered regional power whose tributary limits, urban order, military resistance, final defeat, survival, and colonial afterlife unfolded unevenly.
+- [Mexica (Aztec) Empire](entities/MexicaEmpire.md) — Tenochtitlan-centered regional power first known to Spaniards through coastal intelligence and diplomacy before its resistance, defeat, survival, and colonial afterlife.
 - [Adam Grant](entities/AdamGrant.md) — Organizational psychologist and author connecting motivation, feedback, rethinking, character skills, and growth through obstacles.
 - [Hidden Potential](entities/HiddenPotential.md) — Adam Grant book framing potential through learning trajectory, opportunity, scaffolding, and character skills rather than starting talent alone.
 - [王杰宠 / Wang Jiechong](entities/WangJiechong.md) — Beijing Children's Hospital pediatric emergency-surgery resident explaining assessment-first caregiver action and timely escalation.
@@ -14007,10 +14009,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Thyroid Function Disorder Interpretation / 甲状腺功能异常解读](concepts/ThyroidFunctionDisorderInterpretation.md) — Framework separating hormone excess, deficiency, autoimmune markers, structural findings, symptoms, and longitudinal context.
 - [Thyroid Nodule Risk Stratification / 甲状腺结节风险分层](concepts/ThyroidNoduleRiskStratification.md) — Multi-feature ultrasound, symptom, biopsy, anatomy, and follow-up framework for thyroid nodules.
 - [Differentiated Thyroid Cancer Decision-Making / 分化型甲状腺癌决策](concepts/DifferentiatedThyroidCancerDecisionMaking.md) — Risk- and anatomy-sensitive framework for surveillance, surgery, postoperative hormone care, and follow-up.
-- [Spanish Conquest of Mexico](concepts/SpanishConquestOfMexico.md) — Contingent, coalition-dependent, and uneven transformation joining defeat, recovery, terror, disease, siege, law, labor, religion, and memory.
+- [Spanish Conquest of Mexico](concepts/SpanishConquestOfMexico.md) — Contingent transformation rooted in Caribbean expansion and joining reconnaissance, coalition, defeat, recovery, terror, disease, siege, law, labor, religion, and memory.
 - [Columbian Exchange](concepts/ColumbianExchange.md) — Biological exchange whose smallpox component reshaped mortality, food systems, succession, coalition capacity, and colonial life.
 - [Colonial Legal Adaptation](concepts/ColonialLegalAdaptation.md) — Dual use of imperial law to legitimate conquest and preserve constrained Indigenous rights, property, or status.
 - [Historical Catastrophe Narrative Ethics](concepts/HistoricalCatastropheNarrativeEthics.md) — Framework for preserving narrative force without glamorizing suffering or flattening moral and evidentiary complexity.
+- [Spanish Caribbean Expansion](concepts/SpanishCaribbeanExpansion.md) — Island-to-mainland launch system joining conquest, settlement, forced labor, slavery, shipping, reconnaissance, and competitive private venture.
 - [Kennedy Family Political Formation](concepts/KennedyFamilyPoliticalFormation.md) — Framework joining outsider status, wealth, family competition, wartime succession, political resources, and individual agency in JFK's rise.
 - [Concealed Presidential Illness](concepts/ConcealedPresidentialIllness.md) — Divergence between a leader's managed vitality image and serious health conditions affecting function, treatment, risk, and voter knowledge.
 - [Bias Blind Spot](concepts/BiasBlindSpot.md) — Self-exemption pattern in which bias is easier to see in others, with outside perspective and hypothesis testing as bounded corrections.
@@ -14233,7 +14236,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Targeted Memory Reactivation](concepts/TargetedMemoryReactivation.md) — Experimental pairing and sleep replay of sensory cues to bias memory or therapeutic processing.
 - [Lucid Dreaming Evidence Boundary](concepts/LucidDreamingEvidenceBoundary.md) — Boundary separating verified dream awareness from uncertain control, induction reliability, restorative cost, and benefit.
 - [Plains Society Historical Dynamism](concepts/PlainsSocietyHistoricalDynamism.md) — Framework replacing timeless Plains imagery with migration, technology, trade, disease, ecology, alliance, and unequal conflict.
-- [Colonial Source Mediation](concepts/ColonialSourceMediation.md) — Method for reading translated, journalistic, retrospective, and performed Indigenous evidence without literalizing or discarding it.
+- [Colonial Source Mediation](concepts/ColonialSourceMediation.md) — Method for reading translated conquest, journalistic, retrospective, and performed Indigenous evidence without literalizing or discarding it.
 - [Inflammatory Bowel Disease Management / 炎症性肠病管理](concepts/InflammatoryBowelDiseaseManagement.md) — Long-term framework joining ulcerative colitis and Crohn's recognition, remission, treatment, nutrition, complications, shared decisions, and ordinary life.
 - [IBD Patient Education and Peer Support / IBD患者教育与同伴支持](concepts/IBDPatientEducationAndPeerSupport.md) — Complementary-care model joining trustworthy knowledge, lived experience, families, clinicians, nonprofit programs, and public inclusion.
 - [Jungian Self and Ego](concepts/JungianSelfAndEgo.md) — Distinction between a necessary social ego and a deeper, interpreted organizing direction of life.

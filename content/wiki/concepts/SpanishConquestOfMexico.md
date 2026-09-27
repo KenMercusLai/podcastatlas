@@ -11,6 +11,7 @@ sources:
   - 387-the-fall-of-the-aztecs-prisoners-of-montezuma-part-4-glt8017930427
   - 386-the-fall-of-the-aztecs-the-city-of-gold-part-3-glt2951201852
   - 385-the-fall-of-the-aztecs-the-woman-who-changed-the-world-part-2-glt5124604457
+  - 384-the-fall-of-the-aztecs-the-adventure-begins-part-1-glt8046611029
 last_updated: 2026-09-27
 ---
 
@@ -20,7 +21,9 @@ The Spanish conquest of Mexico is the military, political, legal, demographic, e
 
 ## Current Synthesis
 
-The episodes' strongest corrective is causal, temporal, and narrative. The expedition did not begin with lawful authority to conquer: [[DiegoVelazquezDeCuellar|Diego Velazquez de Cuellar]] commissioned exploration, evangelization, information gathering, and a search for gold, then unsuccessfully tried to recall [[HernanCortes|Cortes]]. The [[VeraCruzLegalCoup|Vera Cruz legal coup]], direct shipment of treasure to Spain, and beaching of the ships converted that defiance into a bid for royal recognition and a practical commitment to advance.
+The episodes' strongest corrective is causal, temporal, and narrative. The campaign did not begin at the Mexican coast: the [[SpanishCaribbeanExpansion|Spanish Caribbean expansion chain]] supplied ships, offices, coerced labor, settlement practice, enslaved people, violence, Christian justification, and a competitive venture model. The Cordoba and Grijalva voyages then converted rumor into route knowledge, observations of Maya cities, Totonac political intelligence, Mexica diplomatic contact, and expectations of gold.
+
+Nor did the next expedition begin with lawful authority to conquer. [[DiegoVelazquezDeCuellar|Diego Velazquez de Cuellar]] chose [[HernanCortes|Cortes]] as a capable subordinate he hoped to control, then commissioned exploration, evangelization, information gathering, and a search for gold before unsuccessfully trying to recall him. The [[VeraCruzLegalCoup|Vera Cruz legal coup]], direct shipment of treasure to Spain, and beaching of the ships converted that defiance into a bid for royal recognition and a practical commitment to advance.
 
 Before entering Tenochtitlan, Cortes's small mixed expedition depended on Indigenous porters, provisioning, translation, and alliance. [[GeronimoDeAguilar|Geronimo de Aguilar]] and [[Malinche]] first formed a Maya-Nahuatl-Spanish chain that gave the Spaniards political as well as linguistic access. Steel, horses, cannon, and ships mattered, but the source resists a gunpowder-only account; shipping, interpretation, and local rivalry were infrastructure for later expansion. [[Tlaxcala]] first resisted, then made a mutually instrumental agreement that can be read as Tlaxcalans recruiting useful foreign fighters into a regional anti-Mexica strategy as much as Spaniards recruiting auxiliaries. The [[CholulaMassacre|Cholula massacre]] shows that this coalition could combine local rivalry, uncertain intelligence, Spanish command, and exemplary terror.
 
@@ -46,6 +49,7 @@ That complexity does not sanitize conquest. Torture, execution, sexual coercion,
 
 ## Evidence
 
+- Caribbean prehistory and reconnaissance: [[384-the-fall-of-the-aztecs-the-adventure-begins-part-1-glt8046611029]] connects Hispaniola and Cuba's colonial violence to the Cordoba and Grijalva voyages, Totonac political information, Mexica gifts, gold expectations, and Cortes's selection.
 - Authorization, interpretation, and commitment: [[385-the-fall-of-the-aztecs-the-woman-who-changed-the-world-part-2-glt5124604457]] joins Velazquez's limited commission, Aguilar and Malinche's translation chain, Vera Cruz's council, direct royal appeal, and the beaching of the ships.
 - Law, faith, and coercion: [[385-the-fall-of-the-aztecs-the-woman-who-changed-the-world-part-2-glt5124604457]] connects the Requerimiento and its contemporary criticism to later Indigenous use of imperial agreements and courts.
 - Inland alliance and terror: [[386-the-fall-of-the-aztecs-the-city-of-gold-part-3-glt2951201852]] connects dependence on Indigenous support, Tlaxcalan resistance and alliance, the Cholula massacre, and entry into the Valley of Mexico.
@@ -61,10 +65,11 @@ That complexity does not sanitize conquest. Torture, execution, sexual coercion,
 
 ## Counterevidence & Qualifications
 
-This synthesis comes from seven consecutive episodes of a narrative series and cannot settle the whole military campaign, Indigenous perspectives, or demographic history. Aguilar's captivity, Malinche's childhood and private motives, the meaning of conversion and submission, the validity of the Vera Cruz maneuver, the balance of initiative in the Tlaxcalan alliance, the alleged Cholulan plot, Moctezuma's intentions, whether the Spaniards were meaningfully captive, the date of his seizure, temple detail, sacrifice plans, metropolitan population, the alleged Toxcatl plot, Tlaxcalan informants' role, Moctezuma's death, captive-sacrifice reports, remembered speeches, symbolic scenes, Cortes's motives, Noche Triste casualty counts, and the ritual-war contrast remain source-scoped. A voluntary surrender was useful to Spanish legal memory, but that incentive does not automatically prove every contrary reconstruction. Black Legend polemic can distort comparative interpretation, but identifying that polemic does not rebut evidence of Spanish atrocities.
+This synthesis comes from eight consecutive episodes of a narrative series and cannot settle the whole military campaign, Indigenous perspectives, or demographic history. Hatuey's speeches, Yucatan's naming story, early sacrifice reports, Aguilar's captivity, Malinche's childhood and private motives, the meaning of conversion and submission, the validity of the Vera Cruz maneuver, the balance of initiative in the Tlaxcalan alliance, the alleged Cholulan plot, Moctezuma's intentions, whether the Spaniards were meaningfully captive, the date of his seizure, temple detail, sacrifice plans, metropolitan population, the alleged Toxcatl plot, Tlaxcalan informants' role, Moctezuma's death, captive-sacrifice reports, remembered speeches, symbolic scenes, Cortes's motives, Noche Triste casualty counts, and the ritual-war contrast remain source-scoped. A voluntary surrender was useful to Spanish legal memory, but that incentive does not automatically prove every contrary reconstruction. Black Legend polemic can distort comparative interpretation, but identifying that polemic does not rebut evidence of Spanish atrocities.
 
 ## What Changed
 
+- Extended the causal prehistory through Caribbean conquest, settlement, reconnaissance, and competition before Cortes's commission.
 - Extended the synthesis to the limited Cuban commission, attempted recall, and Vera Cruz jurisdictional maneuver.
 - Made the Aguilar-Malinche interpretation chain part of conquest infrastructure before inland alliance-building.
 - Added shipping and the beached ships as distinct replenishment and commitment mechanisms.
@@ -85,3 +90,4 @@ This synthesis comes from seven consecutive episodes of a narrative series and c
 - [[CholulaMassacre]] - demonstrates how regional rivalry, mediated threat, and exemplary violence shaped the advance.
 - [[Requerimiento]] - shows how Christian and legal narration accompanied coercive demands for submission.
 - [[VeraCruzLegalCoup]] - explains how Cortes manufactured a jurisdictional basis for unauthorized advance.
+- [[SpanishCaribbeanExpansion]] - supplied the institutions, violence, knowledge, and venture model from which the expedition emerged.

@@ -29416,9 +29416,9 @@
       "url": "/wiki/concepts/colonialpowermiscalculation/"
     },
     "ColonialSourceMediation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4947798648 [GLT4947798648].md",
@@ -29426,9 +29426,16 @@
           "show": "The Rest Is History",
           "title": "448. Custer vs. Crazy Horse: Horse-Lords of the Plains (Part 3)",
           "url": "/wiki/sources/448-custer-vs-crazy-horse-horse-lords-of-the-plains-part-3-glt4947798648/"
+        },
+        {
+          "episode_file": "GLT8046611029 [GLT8046611029].md",
+          "key": "384-the-fall-of-the-aztecs-the-adventure-begins-part-1-glt8046611029",
+          "show": "The Rest Is History",
+          "title": "384. The Fall of the Aztecs: The Adventure Begins (Part 1)",
+          "url": "/wiki/sources/384-the-fall-of-the-aztecs-the-adventure-begins-part-1-glt8046611029/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/colonialsourcemediation/"
     },
     "ColorVisionDeficiency": {
@@ -38453,9 +38460,9 @@
       "url": "/wiki/entities/diegobohorquez/"
     },
     "DiegoVelazquezDeCuellar": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5124604457 [GLT5124604457].md",
@@ -38463,6 +38470,13 @@
           "show": "The Rest Is History",
           "title": "385. The Fall of the Aztecs: The Woman Who Changed The World (Part 2)",
           "url": "/wiki/sources/385-the-fall-of-the-aztecs-the-woman-who-changed-the-world-part-2-glt5124604457/"
+        },
+        {
+          "episode_file": "GLT8046611029 [GLT8046611029].md",
+          "key": "384-the-fall-of-the-aztecs-the-adventure-begins-part-1-glt8046611029",
+          "show": "The Rest Is History",
+          "title": "384. The Fall of the Aztecs: The Adventure Begins (Part 1)",
+          "url": "/wiki/sources/384-the-fall-of-the-aztecs-the-adventure-begins-part-1-glt8046611029/"
         }
       ],
       "updated": "2026-09-27",
@@ -67559,6 +67573,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/entities/hatshepsut/"
     },
+    "Hatuey": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8046611029 [GLT8046611029].md",
+          "key": "384-the-fall-of-the-aztecs-the-adventure-begins-part-1-glt8046611029",
+          "show": "The Rest Is History",
+          "title": "384. The Fall of the Aztecs: The Adventure Begins (Part 1)",
+          "url": "/wiki/sources/384-the-fall-of-the-aztecs-the-adventure-begins-part-1-glt8046611029/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/hatuey/"
+    },
     "HazelGroveCustoms": {
       "episode_count": 1,
       "show_count": 1,
@@ -69135,9 +69165,9 @@
       "url": "/wiki/entities/hermanngoring/"
     },
     "HernanCortes": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "GLT2984940365 [GLT2984940365].md",
@@ -69187,6 +69217,13 @@
           "show": "The Rest Is History",
           "title": "385. The Fall of the Aztecs: The Woman Who Changed The World (Part 2)",
           "url": "/wiki/sources/385-the-fall-of-the-aztecs-the-woman-who-changed-the-world-part-2-glt5124604457/"
+        },
+        {
+          "episode_file": "GLT8046611029 [GLT8046611029].md",
+          "key": "384-the-fall-of-the-aztecs-the-adventure-begins-part-1-glt8046611029",
+          "show": "The Rest Is History",
+          "title": "384. The Fall of the Aztecs: The Adventure Begins (Part 1)",
+          "url": "/wiki/sources/384-the-fall-of-the-aztecs-the-adventure-begins-part-1-glt8046611029/"
         }
       ],
       "updated": "2026-09-27",
@@ -69917,9 +69954,9 @@
       "url": "/wiki/concepts/historicalambiguityinmainstreamcinema/"
     },
     "HistoricalCatastropheNarrativeEthics": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT2984940365 [GLT2984940365].md",
@@ -69941,6 +69978,13 @@
           "show": "The Rest Is History",
           "title": "388. The Fall of the Aztecs: The Festival of Blood (Part 5)",
           "url": "/wiki/sources/388-the-fall-of-the-aztecs-the-festival-of-blood-part-5-glt8784071073/"
+        },
+        {
+          "episode_file": "GLT8046611029 [GLT8046611029].md",
+          "key": "384-the-fall-of-the-aztecs-the-adventure-begins-part-1-glt8046611029",
+          "show": "The Rest Is History",
+          "title": "384. The Fall of the Aztecs: The Adventure Begins (Part 1)",
+          "url": "/wiki/sources/384-the-fall-of-the-aztecs-the-adventure-begins-part-1-glt8046611029/"
         }
       ],
       "updated": "2026-09-27",
@@ -102077,9 +102121,9 @@
       "url": "/wiki/entities/metropolitanpolice/"
     },
     "MexicaEmpire": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "GLT2984940365 [GLT2984940365].md",
@@ -102129,6 +102173,13 @@
           "show": "The Rest Is History",
           "title": "385. The Fall of the Aztecs: The Woman Who Changed The World (Part 2)",
           "url": "/wiki/sources/385-the-fall-of-the-aztecs-the-woman-who-changed-the-world-part-2-glt5124604457/"
+        },
+        {
+          "episode_file": "GLT8046611029 [GLT8046611029].md",
+          "key": "384-the-fall-of-the-aztecs-the-adventure-begins-part-1-glt8046611029",
+          "show": "The Rest Is History",
+          "title": "384. The Fall of the Aztecs: The Adventure Begins (Part 1)",
+          "url": "/wiki/sources/384-the-fall-of-the-aztecs-the-adventure-begins-part-1-glt8046611029/"
         }
       ],
       "updated": "2026-09-27",
@@ -139372,10 +139423,26 @@
       "updated": "2026-09-15",
       "url": "/wiki/concepts/spacebasedaiinfrastructure/"
     },
-    "SpanishConquestOfMexico": {
-      "episode_count": 7,
+    "SpanishCaribbeanExpansion": {
+      "episode_count": 1,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8046611029 [GLT8046611029].md",
+          "key": "384-the-fall-of-the-aztecs-the-adventure-begins-part-1-glt8046611029",
+          "show": "The Rest Is History",
+          "title": "384. The Fall of the Aztecs: The Adventure Begins (Part 1)",
+          "url": "/wiki/sources/384-the-fall-of-the-aztecs-the-adventure-begins-part-1-glt8046611029/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/spanishcaribbeanexpansion/"
+    },
+    "SpanishConquestOfMexico": {
+      "episode_count": 8,
+      "show_count": 1,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "GLT2984940365 [GLT2984940365].md",
@@ -139425,6 +139492,13 @@
           "show": "The Rest Is History",
           "title": "385. The Fall of the Aztecs: The Woman Who Changed The World (Part 2)",
           "url": "/wiki/sources/385-the-fall-of-the-aztecs-the-woman-who-changed-the-world-part-2-glt5124604457/"
+        },
+        {
+          "episode_file": "GLT8046611029 [GLT8046611029].md",
+          "key": "384-the-fall-of-the-aztecs-the-adventure-begins-part-1-glt8046611029",
+          "show": "The Rest Is History",
+          "title": "384. The Fall of the Aztecs: The Adventure Begins (Part 1)",
+          "url": "/wiki/sources/384-the-fall-of-the-aztecs-the-adventure-begins-part-1-glt8046611029/"
         }
       ],
       "updated": "2026-09-27",

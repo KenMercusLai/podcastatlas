@@ -23615,3 +23615,11 @@ Added source `improving-male-sexual-health-function-fertility-dr-michael-eisenbe
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | 384. The Fall of the Aztecs: The Adventure Begins (Part 1)
+
+Added source `384-the-fall-of-the-aztecs-the-adventure-begins-part-1-glt8046611029`; created `Hatuey` and `SpanishCaribbeanExpansion`; and updated `HernanCortes`, `DiegoVelazquezDeCuellar`, `MexicaEmpire`, `SpanishConquestOfMexico`, `HistoricalCatastropheNarrativeEthics`, `ColonialSourceMediation`, and the canonical index from their complete bounded source sets. Core synthesis: Cortes's expedition emerged from a Caribbean chain of conquest, forced labor, slavery, settlement, reconnaissance, Christian militancy, private venture, and competition, while familiar gods, surrender, speech, and sacrifice stories require explicit source qualification. No settled contradiction found. Hatuey's speeches, the origin of “Yucatan,” exact dialogue, sacrifice reports, Cortes's private motives, and Velazquez's reasons for selecting him remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

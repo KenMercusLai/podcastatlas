@@ -11,6 +11,7 @@ sources:
   - 387-the-fall-of-the-aztecs-prisoners-of-montezuma-part-4-glt8017930427
   - 386-the-fall-of-the-aztecs-the-city-of-gold-part-3-glt2951201852
   - 385-the-fall-of-the-aztecs-the-woman-who-changed-the-world-part-2-glt5124604457
+  - 384-the-fall-of-the-aztecs-the-adventure-begins-part-1-glt8046611029
 last_updated: 2026-09-27
 ---
 
@@ -20,7 +21,7 @@ The Mexica, commonly called Aztec, Empire was the Mesoamerican political order c
 
 ## Current Profile
 
-The episodes treat the empire first as a regional and urban power rather than only as the object of conquest. Before the inland march, Totonac contacts and emissaries led by Tendile exposed the Spaniards to tributary rivalry, formal diplomacy, and imperial wealth. Cannon and horsemanship frightened the visitors, but the series rejects the traditional claim that Mexica observers simply identified Spaniards as gods; deference, translation, status language, and later Spanish memory offer competing explanations.
+The episodes treat the empire first as a regional and urban power rather than only as the object of conquest. Grijalva's coast expedition heard Totonac accounts of an inland tribute-taking power and received gold and jewels from an imperial envoy before any Spanish march toward the capital. Those exchanges disclosed both wealth and political grievance, but communication was fragmentary and cannot be read as transparent submission or alliance. Before the inland march, further Totonac contacts and emissaries led by Tendile exposed the Spaniards to tributary rivalry, formal diplomacy, and imperial wealth. Cannon and horsemanship frightened the visitors, but the series rejects the traditional claim that Mexica observers simply identified Spaniards as gods; deference, translation, status language, and later Spanish memory offer competing explanations.
 
 Tribute claims, emissaries, surrounding rivals, allied cities, causeways, lake transport, intensive agriculture, and the scale of the Valley of Mexico show both reach and political limits: [[Tlaxcala]] remained outside tribute and became the coalition's indispensable anti-Mexica base. Tenochtitlan's regulated market, neighborhoods, officials, workshops, records, gardens, palace collections, cleanliness, and ceremonial center show administrative capacity and concentrated power. Human sacrifice is presented as real and grounded in a cosmology of sustaining the universe, while the precise temple descriptions remain filtered through Spanish testimony. [[Moctezuma]]'s hospitality and surveillance may have contained the Spaniards within this system before he became their hostage.
 
@@ -42,6 +43,7 @@ The episode rejects the idea that one date cleanly ends the political world arou
 
 ## Evidence
 
+- First coastal intelligence: [[384-the-fall-of-the-aztecs-the-adventure-begins-part-1-glt8046611029]] connects Totonac tribute complaints, gold display, and an imperial envoy to the first Spanish awareness of a powerful inland polity.
 - Coastal diplomacy and interpretation: [[385-the-fall-of-the-aztecs-the-woman-who-changed-the-world-part-2-glt5124604457]] connects Totonac contact, Tendile's gifts, military display, translation, and skepticism toward the Spaniards-as-gods tradition.
 - Regional reach and limits: [[386-the-fall-of-the-aztecs-the-city-of-gold-part-3-glt2951201852]] connects tribute claims and emissaries to Tlaxcala's continued independence and anti-Mexica strategy.
 - First view and encounter: [[386-the-fall-of-the-aztecs-the-city-of-gold-part-3-glt2951201852]] describes the valley's lake cities, farms, causeways, canoes, and formal court welcome while disputing immediate surrender.
@@ -57,10 +59,11 @@ The episode rejects the idea that one date cleanly ends the political world arou
 
 ## Qualifications
 
-This profile is based on seven consecutive campaign episodes rather than a comprehensive history of Mexica government, society, religion, or the eight-part campaign. “Aztec” and “Mexica” are not perfectly interchangeable in every context; the title preserves the familiar public label while foregrounding the more specific polity. The Spaniards-as-gods tradition, Tendile's reactions, tributary claims, flower-war interpretation, metropolitan population, temple detail, Moctezuma's motives and captivity chronology, the alleged Cholulan and festival plots, Moctezuma's death, reported sacrifice and cannibalism, casualty totals, and intentions behind the uprising and Noche Triste response remain source-scoped. Explaining human sacrifice within Mexica cosmology does not remove its violence, while Spanish horror does not make every reported detail transparent evidence. Regional diversity prevents the capital's fate from representing every Mesoamerican community.
+This profile is based on eight consecutive campaign episodes rather than a comprehensive history of Mexica government, society, religion, or the wider region. “Aztec” and “Mexica” are not perfectly interchangeable in every context; the title preserves the familiar public label while foregrounding the more specific polity. The identity and title of the first envoy, coastal dialogue, the Spaniards-as-gods tradition, Tendile's reactions, tributary claims, flower-war interpretation, metropolitan population, temple detail, Moctezuma's motives and captivity chronology, the alleged Cholulan and festival plots, Moctezuma's death, reported sacrifice and cannibalism, casualty totals, and intentions behind the uprising and Noche Triste response remain source-scoped. Explaining human sacrifice within Mexica cosmology does not remove its violence, while Spanish horror does not make every reported detail transparent evidence. Regional diversity prevents the capital's fate from representing every Mesoamerican community.
 
 ## What Changed
 
+- Extended the profile backward to Grijalva's coastal intelligence and first contact with an imperial envoy.
 - Extended the profile to coast diplomacy among Totonacs, Mexica emissaries, and the Spanish expedition.
 - Added Tendile's encounter as evidence of imperial wealth, military intimidation, and interpreted diplomacy.
 - Rejected automatic divinity belief as an explanation where status language, translation, and later memory remain viable.

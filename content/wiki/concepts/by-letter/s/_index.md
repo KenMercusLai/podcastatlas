@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 8394
+wiki_total_pages: 8395
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1280,6 +1280,9 @@ wiki_pages:
   - key: "SpaceXMafia"
     title: "SpaceX Mafia"
     url: "/wiki/concepts/spacexmafia/"
+  - key: "SpanishCaribbeanExpansion"
+    title: "Spanish Caribbean Expansion"
+    url: "/wiki/concepts/spanishcaribbeanexpansion/"
   - key: "SpanishConquestOfMexico"
     title: "Spanish Conquest of Mexico"
     url: "/wiki/concepts/spanishconquestofmexico/"
