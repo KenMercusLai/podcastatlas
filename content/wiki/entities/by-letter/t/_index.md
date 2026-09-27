@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 11129
+wiki_total_pages: 11133
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -500,6 +500,9 @@ wiki_pages:
   - key: "TheSecondMountain"
     title: "The Second Mountain / 第二座山"
     url: "/wiki/entities/thesecondmountain/"
+  - key: "TheSkateparkProject"
+    title: "The Skatepark Project"
+    url: "/wiki/entities/theskateparkproject/"
   - key: "TheSocialRadars"
     title: "The Social Radars"
     url: "/wiki/entities/thesocialradars/"
@@ -899,6 +902,12 @@ wiki_pages:
   - key: "TonyGilroy"
     title: "Tony Gilroy"
     url: "/wiki/entities/tonygilroy/"
+  - key: "TonyHawk"
+    title: "Tony Hawk"
+    url: "/wiki/entities/tonyhawk/"
+  - key: "TonyHawksProSkater"
+    title: "Tony Hawk's Pro Skater"
+    url: "/wiki/entities/tonyhawksproskater/"
   - key: "TonyPippa"
     title: "Tony Pippa"
     url: "/wiki/entities/tonypippa/"

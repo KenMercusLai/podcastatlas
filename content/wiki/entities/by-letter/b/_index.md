@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 11129
+wiki_total_pages: 11133
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -569,6 +569,9 @@ wiki_pages:
   - key: "BirdMobile"
     title: "Bird Mobile"
     url: "/wiki/entities/birdmobile/"
+  - key: "Birdhouse"
+    title: "Birdhouse"
+    url: "/wiki/entities/birdhouse/"
   - key: "BirenTechnology"
     title: "Biren Technology / 壁仞科技"
     url: "/wiki/entities/birentechnology/"

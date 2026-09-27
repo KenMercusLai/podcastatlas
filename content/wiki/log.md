@@ -24180,3 +24180,11 @@ Added source `vol-63-wu-shi-xiaopangya-zhiyao-huozhe-yiqie-kunnan-dou-shi-cashan
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | Harnessing Passion, Drive & Persistence for Lifelong Success | Tony Hawk
+
+Added source `harnessing-passion-drive-persistence-for-lifelong-success-tony-hawk-scim8571002701`; created `TonyHawk`, `Birdhouse`, `TonyHawksProSkater`, `TheSkateparkProject`, `LifelongSkillProgression`, and `InjuryRecoveryAdherence`; and updated the canonical index. Core synthesis: long-term mastery can be sustained by intrinsic reward, technical decomposition, repeated feedback-rich attempts, community learning, selective risk, and adaptation to changed capacity, while Hawk's failed first femur recovery shows that persistence becomes harmful when athletic identity overrides clinical evidence and restrictions. No settled contradiction was adopted. Recovery details are a retrospective personal case rather than medical guidance, and financial figures, skatepark counts, cultural claims, and recollections about other skaters remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

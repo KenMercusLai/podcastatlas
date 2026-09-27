@@ -17728,6 +17728,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/bipolarmaniahypomaniaspectrum/"
     },
+    "Birdhouse": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8571002701 [SCIM8571002701].md",
+          "key": "harnessing-passion-drive-persistence-for-lifelong-success-tony-hawk-scim8571002701",
+          "show": "Huberman Lab",
+          "title": "Harnessing Passion, Drive & Persistence for Lifelong Success | Tony Hawk",
+          "url": "/wiki/sources/harnessing-passion-drive-persistence-for-lifelong-success-tony-hawk-scim8571002701/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/birdhouse/"
+    },
     "BirdsongPlaybackEthics": {
       "episode_count": 1,
       "show_count": 1,
@@ -79348,6 +79364,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/inhalationarousallearning/"
     },
+    "InjuryRecoveryAdherence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8571002701 [SCIM8571002701].md",
+          "key": "harnessing-passion-drive-persistence-for-lifelong-success-tony-hawk-scim8571002701",
+          "show": "Huberman Lab",
+          "title": "Harnessing Passion, Drive & Persistence for Lifelong Success | Tony Hawk",
+          "url": "/wiki/sources/harnessing-passion-drive-persistence-for-lifelong-success-tony-hawk-scim8571002701/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/injuryrecoveryadherence/"
+    },
     "InnerDemonSymbolicReading": {
       "episode_count": 2,
       "show_count": 1,
@@ -92836,6 +92868,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/lifelongsexeducation/"
+    },
+    "LifelongSkillProgression": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8571002701 [SCIM8571002701].md",
+          "key": "harnessing-passion-drive-persistence-for-lifelong-success-tony-hawk-scim8571002701",
+          "show": "Huberman Lab",
+          "title": "Harnessing Passion, Drive & Persistence for Lifelong Success | Tony Hawk",
+          "url": "/wiki/sources/harnessing-passion-drive-persistence-for-lifelong-success-tony-hawk-scim8571002701/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/lifelongskillprogression/"
     },
     "LifestyleWeightManagement": {
       "episode_count": 8,
@@ -153370,6 +153418,22 @@
       "updated": "2026-09-24",
       "url": "/wiki/entities/thesaaspodcast/"
     },
+    "TheSkateparkProject": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8571002701 [SCIM8571002701].md",
+          "key": "harnessing-passion-drive-persistence-for-lifelong-success-tony-hawk-scim8571002701",
+          "show": "Huberman Lab",
+          "title": "Harnessing Passion, Drive & Persistence for Lifelong Success | Tony Hawk",
+          "url": "/wiki/sources/harnessing-passion-drive-persistence-for-lifelong-success-tony-hawk-scim8571002701/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/theskateparkproject/"
+    },
     "TheTaleOfGenji": {
       "episode_count": 2,
       "show_count": 1,
@@ -155645,6 +155709,38 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/tonybenn/"
+    },
+    "TonyHawk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8571002701 [SCIM8571002701].md",
+          "key": "harnessing-passion-drive-persistence-for-lifelong-success-tony-hawk-scim8571002701",
+          "show": "Huberman Lab",
+          "title": "Harnessing Passion, Drive & Persistence for Lifelong Success | Tony Hawk",
+          "url": "/wiki/sources/harnessing-passion-drive-persistence-for-lifelong-success-tony-hawk-scim8571002701/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/tonyhawk/"
+    },
+    "TonyHawksProSkater": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8571002701 [SCIM8571002701].md",
+          "key": "harnessing-passion-drive-persistence-for-lifelong-success-tony-hawk-scim8571002701",
+          "show": "Huberman Lab",
+          "title": "Harnessing Passion, Drive & Persistence for Lifelong Success | Tony Hawk",
+          "url": "/wiki/sources/harnessing-passion-drive-persistence-for-lifelong-success-tony-hawk-scim8571002701/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/tonyhawksproskater/"
     },
     "ToothDemineralizationRemineralization": {
       "episode_count": 4,

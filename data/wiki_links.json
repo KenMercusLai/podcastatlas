@@ -10095,6 +10095,10 @@
     "title": "Bird Mobile",
     "url": "/wiki/entities/birdmobile/"
   },
+  "Birdhouse": {
+    "title": "Birdhouse",
+    "url": "/wiki/entities/birdhouse/"
+  },
   "BirdsAreInteresting": {
     "title": "《鸟有什么好看的》 / Birds Are Interesting",
     "url": "/wiki/entities/birdsareinteresting/"
@@ -35191,6 +35195,10 @@
     "title": "Initialized Capital",
     "url": "/wiki/entities/initializedcapital/"
   },
+  "InjuryRecoveryAdherence": {
+    "title": "Injury Recovery Adherence",
+    "url": "/wiki/concepts/injuryrecoveryadherence/"
+  },
   "InnerCourtAccessBrokerageRisk": {
     "title": "内廷通道攀附风险 / Inner-Court Access Brokerage Risk",
     "url": "/wiki/concepts/innercourtaccessbrokeragerisk/"
@@ -41874,6 +41882,10 @@
   "LifelongSexEducation": {
     "title": "Lifelong Sex Education / 终身性教育",
     "url": "/wiki/concepts/lifelongsexeducation/"
+  },
+  "LifelongSkillProgression": {
+    "title": "Lifelong Skill Progression",
+    "url": "/wiki/concepts/lifelongskillprogression/"
   },
   "LifestyleCostRationalization": {
     "title": "Lifestyle Cost Rationalization",
@@ -69047,6 +69059,10 @@
     "title": "The Second Mountain / 第二座山",
     "url": "/wiki/entities/thesecondmountain/"
   },
+  "TheSkateparkProject": {
+    "title": "The Skatepark Project",
+    "url": "/wiki/entities/theskateparkproject/"
+  },
   "TheSocialRadars": {
     "title": "The Social Radars",
     "url": "/wiki/entities/thesocialradars/"
@@ -70146,6 +70162,14 @@
   "TonyGilroy": {
     "title": "Tony Gilroy",
     "url": "/wiki/entities/tonygilroy/"
+  },
+  "TonyHawk": {
+    "title": "Tony Hawk",
+    "url": "/wiki/entities/tonyhawk/"
+  },
+  "TonyHawksProSkater": {
+    "title": "Tony Hawk's Pro Skater",
+    "url": "/wiki/entities/tonyhawksproskater/"
   },
   "TonyPippa": {
     "title": "Tony Pippa",
@@ -83010,6 +83034,10 @@
   "hard-cedar-lebanon-seeks-trumps-help-6a5f41e97bddc0bea5542de5": {
     "title": "Hard cedar: Lebanon seeks Trump's help",
     "url": "/wiki/sources/hard-cedar-lebanon-seeks-trumps-help-6a5f41e97bddc0bea5542de5/"
+  },
+  "harnessing-passion-drive-persistence-for-lifelong-success-tony-hawk-scim8571002701": {
+    "title": "Harnessing Passion, Drive & Persistence for Lifelong Success | Tony Hawk",
+    "url": "/wiki/sources/harnessing-passion-drive-persistence-for-lifelong-success-tony-hawk-scim8571002701/"
   },
   "hassabis-xieren-jeff-dean-likai-google-deepmind-weishenme-turan-da-xipai-s10e28-cec8bc7e-3408-4297-a4b8-3cb8d7632cb6": {
     "title": "Hassabis 卸任、Jeff Dean 离开，Google DeepMind 为什么突然大洗牌？｜ S10E28",

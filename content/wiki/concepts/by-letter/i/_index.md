@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 8540
+wiki_total_pages: 8542
 wiki_pages:
   - key: "IBDPatientEducationAndPeerSupport"
     title: "IBD Patient Education and Peer Support / IBD患者教育与同伴支持"
@@ -476,6 +476,9 @@ wiki_pages:
   - key: "InhalationArousalLearning"
     title: "Inhalation, Arousal, and Learning"
     url: "/wiki/concepts/inhalationarousallearning/"
+  - key: "InjuryRecoveryAdherence"
+    title: "Injury Recovery Adherence"
+    url: "/wiki/concepts/injuryrecoveryadherence/"
   - key: "InnovativeDrugCommercialInsuranceCatalog"
     title: "Innovative Drug Commercial Insurance Catalog"
     url: "/wiki/concepts/innovativedrugcommercialinsurancecatalog/"

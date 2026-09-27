@@ -3052,6 +3052,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.66心脏外科｜从挂号到就医 从吃药到手术 安贞医生给你的实用贴士](sources/vol-66-xinzang-waike-cong-guahao-dao-jiuyi-cong-chiyao-dao-shoushu-anzhen-yisheng-gei-ni-de-shiyong-tieshi-lnnmiealbw5s886_m4y8yjj3mja_.md) — 这病说来话长 episode on cardiac symptom escalation, hospital routing, diagnostic limits, hypertension harm, surgical-modality selection, robotics, and pump-versus-rhythm devices.
 - [VOL.64中医科｜通勤路上淋雨、蹚水后及时做这两件事｜夏季伏天养生吃这些吧](sources/vol-64-zhongyike-tongqin-lushang-linyu-tangshui-hou-jishi-zuo-zhe-liang-jian-shi-xiaji-futian-yangsheng-chi-zhexie-ba-lmefsxrzdkopwgt_bsxfdry539rk.md) — 这病说来话长 episode separating prompt post-wading cleaning and drying from source-scoped cold-damp, sweating, food-therapy, and 藿香正气 claims.
 - [VOL.63无·事｜小胖丫：只要活着，一切困难都是擦伤](sources/vol-63-wu-shi-xiaopangya-zhiyao-huozhe-yiqie-kunnan-dou-shi-cashang-llxi8nxbim2if7mma7muzmntkaex.md) — 这病说来话长 survivor interview on cancer treatment, recovery, family-clinician communication, identity, ordinary inclusion, work, and future planning.
+- [Harnessing Passion, Drive & Persistence for Lifelong Success | Tony Hawk](sources/harnessing-passion-drive-persistence-for-lifelong-success-tony-hawk-scim8571002701.md) — Huberman Lab conversation on skateboarding mastery, intrinsic progression, injury-recovery adherence, entrepreneurship, family, and public skateparks.
 
 ## Entities
 - [Raymond of Capua](entities/RaymondOfCapua.md) — Catherine of Siena's confessor and hagiographic biographer, central to the transmission and interpretation of her visions and miracles.
@@ -14200,6 +14201,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Horatio Nelson](entities/HoratioNelson.md) — British naval celebrity presented narrowly through Emma Hamilton, romantic scandal, and reality-show disruption.
 - [Catherine of Siena](entities/CatherineOfSiena.md) — Medieval mystic whose ascetic sanctity, charity, diplomacy, and papal advocacy converted bodily renunciation into public authority.
 - [小胖丫 / 小胖鸭 (Podcast Guest)](entities/XiaopangyaPodcastGuest.md) — Source-scoped cancer-survivor guest connecting treatment and recovery with work, family communication, social life, and future plans.
+- [Tony Hawk](entities/TonyHawk.md) — Professional skateboarder, entrepreneur, and skatepark advocate whose career joins technical mastery, adaptation, and community.
+- [Birdhouse](entities/Birdhouse.md) — Skateboard company Hawk founded and built through overlapping athlete, coach, touring, and owner roles.
+- [Tony Hawk's Pro Skater](entities/TonyHawksProSkater.md) — Video-game franchise that translated skateboarding movement and culture to a mass audience.
+- [The Skatepark Project](entities/TheSkateparkProject.md) — Nonprofit supporting public skateparks as access, practice, and youth-community infrastructure.
 
 ## Concepts
 - [Medieval Female Ascetic Authority](concepts/MedievalFemaleAsceticAuthority.md) — How gendered bodily renunciation could become sanctity, public credibility, and political influence.
@@ -22759,5 +22764,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Cardiac Surgery Modality Selection / 心脏外科术式选择](concepts/CardiacSurgeryModalitySelection.md) — Outcome-first selection among conventional, minimally invasive, robotic, catheter-based, bypass-supported, and off-pump cardiac approaches.
 - [Historical Figures as Reality-TV Archetypes](concepts/HistoricalFiguresAsRealityTVArchetypes.md) — Comic method that makes biographies memorable through contestant roles and pairings while risking anachronism and moral compression.
 - [Rain Exposure and Foot-Care Boundary / 雨后蹚水足部照护边界](concepts/RainExposureFootCareBoundary.md) — Post-wading hygiene boundary separating prompt rinsing, drying, and wet-footwear removal from unvalidated systemic cold-damp and remedy claims.
+- [Lifelong Skill Progression](concepts/LifelongSkillProgression.md) — Mastery model joining intrinsic reward, deliberate repetition, community learning, selective risk, and adaptation across a long career.
+- [Injury Recovery Adherence](concepts/InjuryRecoveryAdherence.md) — Recovery discipline that aligns activity and return-to-sport progression with clinical guidance rather than impatience or pain tolerance.
 
 ## Syntheses

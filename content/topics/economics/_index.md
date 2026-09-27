@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2121
+topic_total_pages: 2123
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3434,6 +3434,9 @@ topic_entities:
   - key: "BillGurley"
     title: "Bill Gurley"
     url: "/wiki/entities/billgurley/"
+  - key: "Birdhouse"
+    title: "Birdhouse"
+    url: "/wiki/entities/birdhouse/"
   - key: "BjornAdekOlsen"
     title: "Bjorn Adek Olsen"
     url: "/wiki/entities/bjornadekolsen/"
@@ -6003,6 +6006,9 @@ topic_sources:
   - key: "tsr-s4-harj-v3-tsr-s4-harj-v3"
     title: "Harj Taggar on Y Combinator, Triplebyte, and Hiring Judgment"
     url: "/wiki/sources/tsr-s4-harj-v3-tsr-s4-harj-v3/"
+  - key: "harnessing-passion-drive-persistence-for-lifelong-success-tony-hawk-scim8571002701"
+    title: "Harnessing Passion, Drive & Persistence for Lifelong Success | Tony Hawk"
+    url: "/wiki/sources/harnessing-passion-drive-persistence-for-lifelong-success-tony-hawk-scim8571002701/"
   - key: "tech-20260316-0316-mp-tech-pod-128-tech-20260316-0316-mp-tech-pod-128"
     title: "How confident are crypto consumers?"
     url: "/wiki/sources/tech-20260316-0316-mp-tech-pod-128-tech-20260316-0316-mp-tech-pod-128/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 8540
+wiki_total_pages: 8542
 wiki_pages:
   - key: "LaborIllusion"
     title: "Labor Illusion"
@@ -383,6 +383,9 @@ wiki_pages:
   - key: "LifelongSexEducation"
     title: "Lifelong Sex Education / 终身性教育"
     url: "/wiki/concepts/lifelongsexeducation/"
+  - key: "LifelongSkillProgression"
+    title: "Lifelong Skill Progression"
+    url: "/wiki/concepts/lifelongskillprogression/"
   - key: "LifestyleCostRationalization"
     title: "Lifestyle Cost Rationalization"
     url: "/wiki/concepts/lifestylecostrationalization/"
