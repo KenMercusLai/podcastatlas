@@ -24108,3 +24108,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | 359: Martin Luther King's Dream
+
+Added source `359-martin-luther-kings-dream-glt8593313865`; created `BayardRustin`, `APhilipRandolph`, `MarchOnWashington1963`, `IHaveADreamSpeech`, `CivilRightsCoalitionManagement`, `PatrioticPropheticRhetoric`, and `SanitizedCivilRightsMemory`; and updated `MartinLutherKingJr` and the canonical index from the complete bounded source set. Core synthesis: King's 1963 address converted unfulfilled constitutional promises into a patriotic and biblical demand for immediate racial justice, while practiced preaching, prepared language, improvisation, and audience response jointly produced its remembered form. The march itself depended on Randolph's long strategy, Rustin's logistics, and coalition discipline, and its exclusion of women qualifies its equality claims. No settled contradiction was found; the new source supplies the 1963 foundation for the later economic, anti-war, and nonviolence pressures already recorded, while dream-centered commemoration can obscure both coalition labor and King's later radicalism. Crowd figures, public opinion, Mahalia Jackson's prompt, speech preparation, immediate effects, and private motives remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

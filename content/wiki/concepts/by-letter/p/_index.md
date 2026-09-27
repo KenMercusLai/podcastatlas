@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8523
+wiki_total_pages: 8526
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -275,6 +275,9 @@ wiki_pages:
   - key: "PatrimonialGovernance"
     title: "Patrimonial Governance"
     url: "/wiki/concepts/patrimonialgovernance/"
+  - key: "PatrioticPropheticRhetoric"
+    title: "Patriotic-Prophetic Rhetoric"
+    url: "/wiki/concepts/patrioticpropheticrhetoric/"
   - key: "PatriotismAsHatred"
     title: "Patriotism As Hatred / 以仇恨运作的爱国主义"
     url: "/wiki/concepts/patriotismashatred/"

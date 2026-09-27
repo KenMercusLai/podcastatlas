@@ -8,6 +8,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Sources
 - [Improving Sexual & Urological Health in Males and Females | Dr. Rena Malik](sources/improving-sexual-urological-health-in-males-and-females-dr-rena-malik-scim6177024080.md) — Huberman Lab interview on pelvic-floor function matching, sexual desire and arousal, erectile and urinary health, recurrent UTIs, communication, and mechanism-based care.
 - [VOL.67无·事｜听躺进ICU的医生和普通病人在聊些什么？知道越多越恐惧？｜献礼医师节彩蛋](sources/lswakifoozu5vkckl5n-nzndj43e-lswakifoozu5vkckl5n-nzndj43e.md) — 这病说来话长 episode on ICU survivor experience, pulmonary-embolism escalation, anesthesiology, informed clinical trust, and responsible public medical communication.
+- [359: Martin Luther King's Dream](sources/359-martin-luther-kings-dream-glt8593313865.md) — The Rest Is History episode on the 1963 March on Washington, King's patriotic and prophetic rhetoric, prepared improvisation, coalition organization, and selectively hopeful afterlife.
 - [361. The Lost Library of Alexandria](sources/361-the-lost-library-of-alexandria-glt1578679297.md) — The Rest Is History episode on Ptolemaic scholarship, the library's Greek literary focus, uncertain physical form, and gradual loss behind the single-destruction myth.
 - [AI 时代，我们到底该学什么？｜对谈于红：三种不会过时的能力](sources/ai-shidai-women-daodi-gai-xue-shenme-duitan-yuhong-sanzhong-buhui-guoshi-de-nengli-lkcmj80qyw-uduhijfxudufqboaf.md) — 十字路口Crossing访谈于红，讨论社会情感学习、情绪信号、自我认知、反思式选择、智识诚实复盘与 AI 时代的长期能力。
 - [VOL.68血液内科｜装修甲醛会让你得白血病吗？…一期听懂白血病的常识｜造血干细胞捐献指南](sources/vol-68-xueyeneike-zhuangxiu-jiaquan-hui-rang-ni-de-baixuebing-ma-yiqi-tingdong-baixuebing-de-changshi-zaoxue-ganxibao-juanxian-zhinan-lkbtulzn5ky6f4wa5bttbuawvxz.md) — 这病说来话长 episode on leukemia classification, diagnosis, treatment, recovery burdens, environmental-risk limits, and hematopoietic stem-cell donation.
@@ -10400,7 +10401,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Soul Train](entities/SoulTrain.md) — Black music and dance television show that Johnson Products helped take national and used as a marketing engine for Afro Sheen.
 - [Afro Sheen](entities/AfroSheen.md) — Johnson Products moisturizer for afros, tying natural hair, Black pride, and national media advertising together.
 - [Ultra Wave](entities/UltraWave.md) — Early Johnson Products straightener that converted a local barbershop formula problem into a reliable commercial product.
-- [Martin Luther King Jr.](entities/MartinLutherKingJr.md) — Civil-rights leader whose organization received payroll-support financing from Independence Bank in the Planet Money source.
+- [Martin Luther King Jr.](entities/MartinLutherKingJr.md) — Baptist preacher and civil-rights leader joining nonviolence, constitutional promise, prophetic rhetoric, economic justice, and anti-war criticism.
 - [Hugo Chavez](entities/HugoChavez.md) — Venezuelan leader whose oil-funded spending, PDVSA control, Citgo diplomacy, and post-2003 exchange controls frame the boom-to-trap story.
 - [Nicolas Maduro](entities/NicolasMaduro.md) — Chavez successor inheriting oil dependence, currency controls, sanctions, and Chevron's license-era operating negotiations.
 - [Alejandro Velasco](entities/AlejandroVelasco.md) — Venezuela expert explaining the emergency-to-trap exchange-rate system and later dollarized stabilization.
@@ -14172,6 +14173,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Abraham Beame](entities/AbrahamBeame.md) — New York mayor linking fiscal austerity, public-service cuts, and tax-assisted private redevelopment.
 - [Ed Koch](entities/EdKoch.md) — New York mayor whose rise represented a tougher law-and-order, union, budget, and development turn.
 - [New York Post](entities/NewYorkPost.md) — Tabloid newspaper whose blackout framing amplified law-and-order interpretations of urban crisis.
+- [Bayard Rustin](entities/BayardRustin.md) — Quaker, pacifist, and principal operational organizer of the 1963 March on Washington.
+- [A. Philip Randolph](entities/APhilipRandolph.md) — Labor and civil-rights leader whose repeated Washington-march strategy connected mass mobilization to federal leverage.
+- [1963 March on Washington](entities/MarchOnWashington1963.md) — Large peaceful civil-rights coalition demonstration remembered most strongly through King's final address.
+- [I Have a Dream Speech](entities/IHaveADreamSpeech.md) — King's 1963 address combining constitutional debt, patriotic promise, biblical prophecy, and prepared improvisation.
 
 ## Concepts
 - [Pelvic-Floor Function Matching](concepts/PelvicFloorFunctionMatching.md) — Assessment-led distinction among pelvic-floor weakness, excessive tension, pain, and poor coordination before rehabilitation is selected.
@@ -22714,5 +22719,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Urban Crisis Feedback Loop](concepts/UrbanCrisisFeedbackLoop.md) — Reinforcing cycle among job loss, tax-base erosion, service demand, fiscal cuts, disorder, and institutional confidence.
 - [Urban Disorder Explanation Conflict](concepts/UrbanDisorderExplanationConflict.md) — Political conflict between crime-and-agency and poverty-and-structure accounts of urban disorder.
 - [Urban Crisis Cultural Feedback](concepts/UrbanCrisisCulturalFeedback.md) — Process by which news and fiction reflect, amplify, and politically reshape a city's crisis image.
+- [Civil-Rights Coalition Management](concepts/CivilRightsCoalitionManagement.md) — Coordination of organizations, logistics, political vulnerability, government negotiation, public discipline, and internal hierarchy.
+- [Patriotic-Prophetic Rhetoric](concepts/PatrioticPropheticRhetoric.md) — Reform language that joins national promises to religious judgment, urgency, and hope.
+- [Sanitized Civil-Rights Memory](concepts/SanitizedCivilRightsMemory.md) — Selective commemoration of hopeful movement language at the expense of conflict, coalition labor, and structural critique.
 
 ## Syntheses

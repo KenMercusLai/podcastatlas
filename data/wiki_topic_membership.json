@@ -1521,6 +1521,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "359-martin-luther-kings-dream-glt8593313865": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522": [
     {
       "key": "politics",
@@ -56001,6 +56008,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "PatrioticPropheticRhetoric": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "PatriotismAsHatred": [
     {
       "key": "politics",
@@ -64789,6 +64803,13 @@
     }
   ],
   "SanhuLawAppointmentConstraint": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "SanitizedCivilRightsMemory": [
     {
       "key": "politics",
       "label": "Politics",

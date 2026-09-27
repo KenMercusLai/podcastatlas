@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2766
+topic_total_pages: 2768
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2545,6 +2545,9 @@ topic_concepts:
   - key: "PatrimonialGovernance"
     title: "Patrimonial Governance"
     url: "/wiki/concepts/patrimonialgovernance/"
+  - key: "PatrioticPropheticRhetoric"
+    title: "Patriotic-Prophetic Rhetoric"
+    url: "/wiki/concepts/patrioticpropheticrhetoric/"
   - key: "PatriotismAsHatred"
     title: "Patriotism As Hatred / 以仇恨运作的爱国主义"
     url: "/wiki/concepts/patriotismashatred/"
@@ -3244,6 +3247,9 @@ topic_concepts:
   - key: "SanctionsEvasionCryptoPayments"
     title: "Sanctions Evasion Crypto Payments"
     url: "/wiki/concepts/sanctionsevasioncryptopayments/"
+  - key: "SanitizedCivilRightsMemory"
+    title: "Sanitized Civil-Rights Memory"
+    url: "/wiki/concepts/sanitizedcivilrightsmemory/"
   - key: "ScaleEconomiesShared"
     title: "Scale Economies Shared"
     url: "/wiki/concepts/scaleeconomiesshared/"

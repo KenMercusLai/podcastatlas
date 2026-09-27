@@ -5,7 +5,8 @@ tags: [person, civil-rights, politics]
 sources:
   - how-black-hair-care-grew-black-power
   - 509-america-in-68-the-assassination-of-martin-luther-king-jr-part-2-glt4373367265
-last_updated: 2026-09-23
+  - 359-martin-luther-kings-dream-glt8593313865
+last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
 
@@ -13,29 +14,39 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Martin Luther King Jr. was a civil-rights and nonviolent movement leader whose late work joined racial equality to Northern housing, labor dignity, poverty, economic power, and opposition to the Vietnam War.
+Martin Luther King Jr. was a Baptist preacher and civil-rights leader whose nonviolent politics joined constitutional promise and biblical prophecy to campaigns against racial segregation, poverty, labor injustice, and war.
 
 ## Current Profile
 
-The current sources show both the movement infrastructure around King and the severe strain of his final years. A 1966 visit to [[JohnsonProducts]] connects his organization to Black-owned business and [[IndependenceBank]]'s payroll support. The 1968 episode then follows his declining popularity as campaigns moved beyond Southern legal segregation into Northern inequality, Vietnam, and the [[PoorPeoplesCampaign]].
+The 1963 source places King's most famous address inside movement history rather than treating it as isolated inspiration. Years of Baptist preaching, repeated public speaking, Birmingham confrontation, constitutional argument, biblical imagery, and practiced improvisation enabled the [[IHaveADreamSpeech|“I Have a Dream” speech]]. At the [[MarchOnWashington1963|March on Washington]], he translated an unpaid national promise into urgent but hopeful language that could address Black activists, white moderates, religious audiences, and a global public.
 
-King appears as a prophetic moral critic and an exhausted organizer caught between white backlash, FBI harassment, hostile former allies, and younger militants who considered nonviolence obsolete. The [[MemphisSanitationStrike]] gave his economic-justice program a concrete labor-and-dignity case, but a march that turned violent threatened the credibility of his method. He returned despite threats, delivered the “mountaintop” speech, and was murdered at the Lorraine Motel by [[JamesEarlRay|James Earl Ray]]. The strike was settled after his death, while the larger poverty campaign struggled to realize his intended coalition.
+The later sources show both the movement infrastructure around King and the severe strain of his final years. A 1966 visit to [[JohnsonProducts]] connects his organization to Black-owned business and [[IndependenceBank]]'s payroll support. By 1968, campaigns had moved beyond Southern legal segregation into Northern inequality, Vietnam, and the [[PoorPeoplesCampaign]]. King appears as a prophetic moral critic and exhausted organizer caught between white backlash, FBI harassment, hostile former allies, and younger militants who considered nonviolence obsolete.
+
+The [[MemphisSanitationStrike]] gave his economic-justice program a concrete labor-and-dignity case, but a march that turned violent threatened the credibility of his method. He returned despite threats, delivered the “mountaintop” speech, and was murdered at the Lorraine Motel by [[JamesEarlRay|James Earl Ray]]. The arc from Washington to Memphis supports a continuous profile: patriotic hope and nonviolent discipline coexisted with structural criticism that became more economically radical and anti-war, despite later memory often separating those dimensions.
 
 ## Key Characteristics
 
-- Nonviolent civil-rights leader whose methods depended on moral witness and disciplined collective action.
+- Baptist preacher and nonviolent civil-rights leader whose methods depended on moral witness and disciplined collective action.
+- Rhetorician who joined American founding promises, biblical prophecy, anaphora, and prepared improvisation.
 - Expanded his late program from legal equality toward housing, labor, poverty, and economic power.
 - Opposed the Vietnam War even at the cost of Johnson administration and liberal-media support.
 - Worked within a wider community infrastructure that included Black-owned business and banking support.
 - Endured surveillance, attempted humiliation, threats, physical attacks, imprisonment, exhaustion, and family strain.
-- Returned to Memphis after a failed march to defend solidarity and the credibility of nonviolence.
-- Assassination victim whose death brought both a local labor victory and nationwide uprising.
+- Assassination victim whose selectively hopeful commemoration can obscure his later structural critique.
 
 ## Evidence
 
 ### Movement infrastructure
 
 - [[how-black-hair-care-grew-black-power]] recounts King's 1966 visit to Johnson Products and George Johnson's memory that Independence Bank lent King's organization more than $100,000 for payroll.
+
+### Preaching, rhetoric, and national promise
+
+- [[359-martin-luther-kings-dream-glt8593313865]] connects King's Baptist formation, repeated speaking practice, Birmingham campaign, constitutional debt metaphor, biblical allusion, anaphora, dream improvisation, and patriotic ending.
+
+### Coalition setting and public leadership
+
+- [[359-martin-luther-kings-dream-glt8593313865]] places King inside the Randolph-Rustin march coalition, Kennedy administration caution, pressure from white moderates and more militant activists, and the final speaking slot at the Lincoln Memorial.
 
 ### Late political and economic program
 
@@ -51,14 +62,13 @@ King appears as a prophetic moral critic and an exhausted organizer caught betwe
 
 ## Qualifications
 
-The assassination episode is a narrative synthesis rather than a complete biography, organizational history, forensic investigation, or study of every civil-rights faction. Its polling, health, private-life, FBI, crowd, casualty, and conspiracy claims remain source-scoped. The prophetic reading of King's final speech is retrospective, and the collapse of one march does not establish the failure of nonviolence as a whole.
+The two historical episodes are narrative syntheses rather than a complete biography, organizational history, rhetorical corpus, forensic investigation, or study of every civil-rights faction. Their polling, crowd, speech-preparation, health, private-life, FBI, casualty, and conspiracy claims remain source-scoped. The disputed Mahalia Jackson prompt and prophetic reading of King's final speech are retrospective, immediate political effect is difficult to isolate, and the collapse of one march does not establish the failure of nonviolence as a whole.
 
 ## What Changed
 
-- Expanded King from a movement-finance connection into a synthesis of his late moral, economic, anti-war, and labor program.
-- Added the pressures from white backlash, younger militants, FBI harassment, exhaustion, and family strain.
-- Added Memphis as both a worker-dignity campaign and a crisis of nonviolent credibility.
-- Added the mountaintop speech, assassination, local settlement, and national aftermath.
+- Added King's Baptist formation, constitutional argument, biblical rhetoric, and prepared improvisation as foundations of his public authority.
+- Connected the hopeful 1963 address to the later economic and anti-war program rather than treating them as separate Kings.
+- Added the risk that dream-centered commemoration narrows both his politics and the coalition labor behind the march.
 
 ## Relationships
 
@@ -66,6 +76,10 @@ The assassination episode is a narrative synthesis rather than a complete biogra
 - [[IndependenceBank]] - institution remembered as supplying payroll credit to King's organization.
 - [[PoorPeoplesCampaign]] - national multiracial economic-justice project King launched.
 - [[MemphisSanitationStrike]] - labor campaign that drew King to Memphis in 1968.
+- [[MarchOnWashington1963]] - coalition demonstration at which King delivered his best-known address.
+- [[IHaveADreamSpeech]] - address that fused constitutional, patriotic, biblical, and improvisational language.
+- [[PatrioticPropheticRhetoric]] - rhetorical form central to King's 1963 public authority.
+- [[SanitizedCivilRightsMemory]] - later narrowing of King to the most hopeful portion of his public image.
 - [[LateCivilRightsEconomicJustice]] - framework for his widening focus on material equality.
 - [[NonviolentMovementCredibilityCrisis]] - strategic danger exposed by the failed Memphis march.
 - [[JamesEarlRay]] - assassin identified by the episode.

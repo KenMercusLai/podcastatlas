@@ -6,8 +6,11 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 11110
+wiki_total_pages: 11114
 wiki_pages:
+  - key: "IHaveADreamSpeech"
+    title: "I Have a Dream Speech"
+    url: "/wiki/entities/ihaveadreamspeech/"
   - key: "ILibertine"
     title: "I, Libertine"
     url: "/wiki/entities/ilibertine/"

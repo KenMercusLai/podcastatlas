@@ -4291,6 +4291,22 @@
       "updated": "2026-09-24",
       "url": "/wiki/entities/amd/"
     },
+    "APhilipRandolph": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8593313865 [GLT8593313865].md",
+          "key": "359-martin-luther-kings-dream-glt8593313865",
+          "show": "The Rest Is History",
+          "title": "359: Martin Luther King's Dream",
+          "url": "/wiki/sources/359-martin-luther-kings-dream-glt8593313865/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/aphiliprandolph/"
+    },
     "AShareAuctionPricing": {
       "episode_count": 1,
       "show_count": 1,
@@ -16094,6 +16110,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/bayofpigsinvasion/"
+    },
+    "BayardRustin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8593313865 [GLT8593313865].md",
+          "key": "359-martin-luther-kings-dream-glt8593313865",
+          "show": "The Rest Is History",
+          "title": "359: Martin Luther King's Dream",
+          "url": "/wiki/sources/359-martin-luther-kings-dream-glt8593313865/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/bayardrustin/"
     },
     "Bayer": {
       "episode_count": 1,
@@ -28788,6 +28820,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/civillibertiessurveillancerisk/"
+    },
+    "CivilRightsCoalitionManagement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8593313865 [GLT8593313865].md",
+          "key": "359-martin-luther-kings-dream-glt8593313865",
+          "show": "The Rest Is History",
+          "title": "359: Martin Luther King's Dream",
+          "url": "/wiki/sources/359-martin-luther-kings-dream-glt8593313865/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/civilrightscoalitionmanagement/"
     },
     "CivilServiceExamSecurityGamble": {
       "episode_count": 1,
@@ -77008,6 +77056,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/concepts/ifsselfleadership/"
     },
+    "IHaveADreamSpeech": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8593313865 [GLT8593313865].md",
+          "key": "359-martin-luther-kings-dream-glt8593313865",
+          "show": "The Rest Is History",
+          "title": "359: Martin Luther King's Dream",
+          "url": "/wiki/sources/359-martin-luther-kings-dream-glt8593313865/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/ihaveadreamspeech/"
+    },
     "IKEA": {
       "episode_count": 1,
       "show_count": 1,
@@ -101995,6 +102059,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/marcellolippi/"
     },
+    "MarchOnWashington1963": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8593313865 [GLT8593313865].md",
+          "key": "359-martin-luther-kings-dream-glt8593313865",
+          "show": "The Rest Is History",
+          "title": "359: Martin Luther King's Dream",
+          "url": "/wiki/sources/359-martin-luther-kings-dream-glt8593313865/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/marchonwashington1963/"
+    },
     "MarciaWilliams": {
       "episode_count": 1,
       "show_count": 1,
@@ -102983,9 +103063,9 @@
       "url": "/wiki/entities/martinluther/"
     },
     "MartinLutherKingJr": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_badf7b36a0fd8b0e507fb0f6302a1df6_30631995 [default.mp3_ywr3ahjkcgo_badf7b36a0fd8b0e507fb0f6302a1df6_30631995].md",
@@ -103000,9 +103080,16 @@
           "show": "The Rest Is History",
           "title": "509. America in '68: The Assassination of Martin Luther King Jr. (Part 2)",
           "url": "/wiki/sources/509-america-in-68-the-assassination-of-martin-luther-king-jr-part-2-glt4373367265/"
+        },
+        {
+          "episode_file": "GLT8593313865 [GLT8593313865].md",
+          "key": "359-martin-luther-kings-dream-glt8593313865",
+          "show": "The Rest Is History",
+          "title": "359: Martin Luther King's Dream",
+          "url": "/wiki/sources/359-martin-luther-kings-dream-glt8593313865/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/martinlutherkingjr/"
     },
     "MartinOfPoland": {
@@ -118216,6 +118303,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/patriciaresnick/"
+    },
+    "PatrioticPropheticRhetoric": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8593313865 [GLT8593313865].md",
+          "key": "359-martin-luther-kings-dream-glt8593313865",
+          "show": "The Rest Is History",
+          "title": "359: Martin Luther King's Dream",
+          "url": "/wiki/sources/359-martin-luther-kings-dream-glt8593313865/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/patrioticpropheticrhetoric/"
     },
     "PatronSaintSymbolicPlasticity": {
       "episode_count": 1,
@@ -135640,6 +135743,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/sanguozhi/"
+    },
+    "SanitizedCivilRightsMemory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8593313865 [GLT8593313865].md",
+          "key": "359-martin-luther-kings-dream-glt8593313865",
+          "show": "The Rest Is History",
+          "title": "359: Martin Luther King's Dream",
+          "url": "/wiki/sources/359-martin-luther-kings-dream-glt8593313865/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/sanitizedcivilrightsmemory/"
     },
     "SansCulottes": {
       "episode_count": 2,

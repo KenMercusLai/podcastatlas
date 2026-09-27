@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 8523
+wiki_total_pages: 8526
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -134,6 +134,9 @@ wiki_pages:
   - key: "SandTheftExternality"
     title: "Sand Theft Externality"
     url: "/wiki/concepts/sandtheftexternality/"
+  - key: "SanitizedCivilRightsMemory"
+    title: "Sanitized Civil-Rights Memory"
+    url: "/wiki/concepts/sanitizedcivilrightsmemory/"
   - key: "SantoriniAtlantisTheory"
     title: "Santorini Atlantis Theory"
     url: "/wiki/concepts/santoriniatlantistheory/"
