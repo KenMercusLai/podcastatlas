@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [401. Windrush: The Story of Black Britain](sources/401-windrush-the-story-of-black-britain-glt4826407019.md) — The Rest Is History episode on migrant agency, gradual Caribbean British settlement, imperial citizenship, identity, and Windrush as a powerful but bounded national memory.
 - [VOL.91神经外科｜你脑子进水了吧？是的｜每个人都应知的脑卒中FAST法则｜吃刺身会造成脑内蛔虫吗？](sources/vol-91-shenjing-waike-ni-naozi-jinshui-le-ba-shide-meigeren-dou-ying-zhi-de-naozuzhong-fast-faze-chi-cishen-hui-zaocheng-naonei-huichong-ma-lkvxekdvqf5dokknvwdnlqaimxc.md) — 这病说来话长 episode with 贾建 on hydrocephalus, intracranial infection, stroke recognition, Parkinsonian patterns, incidental cysts, and condition-specific neurosurgical treatment.
 - [402. Christmas: Pagan or Christian?](sources/402-christmas-pagan-or-christian-glt8329172184.md) — The Rest Is History episode testing pagan-origin claims about Mithras, Sol Invictus, Saturnalia, and the internal Christian calculation of December 25.
 - [Protocols to Access Creative Energy and Process | Rick Rubin](sources/protocols-to-access-creative-energy-and-process-rick-rubin-scim5595688842.md) — Huberman Lab Q&A on diary-like honesty, outcome-independent creative work, receptivity, idea capture, phase-specific deadlines, feedback boundaries, and personal routines.
@@ -2943,6 +2944,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Prevent & Treat Colds & Flu](sources/how-to-prevent-treat-colds-flu-scim6817932732.md) — Huberman Lab solo episode on respiratory-virus transmission, layered immune defense, sleep and training load, heat boundaries, and supplement evidence.
 
 ## Entities
+- [Trevor Phillips](entities/TrevorPhillips.md) — Historian framing Windrush through Caribbean British agency, family mobility, settlement, and migration-wave specificity.
+- [Empire Windrush](entities/EmpireWindrush.md) — Ship whose June 1948 arrival became a landmark of postwar Caribbean British history and public memory.
 - [Mithras](entities/Mithras.md) — Roman mystery-cult god distinguished from Persian Mithra, Sol Invictus, and unsupported death-resurrection parallels.
 - [Sol Invictus](entities/SolInvictus.md) — Roman solar deity whose probable December 25 observance does not establish direct influence on Christmas.
 - [Pope Joan](entities/PopeJoan.md) — Legendary disguised female pope whose fictional biography became historically consequential through ritual, repetition, and polemic.
@@ -13902,6 +13905,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kay Tye](entities/KayTye.md) — Neuroscientist connecting emotional-valence circuits to loneliness, social homeostasis, hierarchy, and sustainable scientific leadership.
 
 ## Concepts
+- [Postwar Caribbean British Settlement](concepts/PostwarCaribbeanBritishSettlement.md) — Process by which temporary migration, return plans, relationships, children, and recognition developed into durable British settlement.
+- [Migrant Historical Agency](concepts/MigrantHistoricalAgency.md) — Historiographical lens centering migrants' motives, choices, institutions, and self-understanding.
+- [Windrush National Memory](concepts/WindrushNationalMemory.md) — Bounded framework for Windrush as a transformative Caribbean British landmark rather than a universal migration origin story.
 - [Saturnalia](concepts/Saturnalia.md) — Roman winter festival of Saturn whose feasting, inversion, and gifts do not by resemblance alone establish descent into Christmas.
 - [December 25 Christmas Dating](concepts/December25ChristmasDating.md) — Source-critical separation of Jesus' unknown birth date, Roman solar observance, and an internal Christian calendar calculation.
 - [Outcome-Independent Creative Practice](concepts/OutcomeIndependentCreativePractice.md) — Creative discipline separating honest present effort from approval, revenue, prestige, and other results outside the maker's control.

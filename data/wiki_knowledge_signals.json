@@ -21537,6 +21537,36 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/careerpositioningthroughfit/"
     },
+    "Caribbean": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "tech_20260820_TECH_pod_128 [tech_20260820_TECH_pod_128].md",
+          "key": "tech-20260820-tech-pod-128-tech-20260820-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Why the Trump administration plans to boost funding for subsea cables",
+          "url": "/wiki/sources/tech-20260820-tech-pod-128-tech-20260820-tech-pod-128/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_4929960eeb6b6844a1c4f5870f272ed6_42016254 [default.mp3_ywr3ahjkcgo_4929960eeb6b6844a1c4f5870f272ed6_42016254].md",
+          "key": "sand-heists-and-property-rights-in-the-caribbean-summer-school",
+          "show": "Planet Money",
+          "title": "Sand heists and property rights in the Caribbean (Summer School)",
+          "url": "/wiki/sources/sand-heists-and-property-rights-in-the-caribbean-summer-school/"
+        },
+        {
+          "episode_file": "GLT4826407019 [GLT4826407019].md",
+          "key": "401-windrush-the-story-of-black-britain-glt4826407019",
+          "show": "The Rest Is History",
+          "title": "401. Windrush: The Story of Black Britain",
+          "url": "/wiki/sources/401-windrush-the-story-of-black-britain-glt4826407019/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/caribbean/"
+    },
     "CarlaSuperana": {
       "episode_count": 1,
       "show_count": 1,
@@ -44642,6 +44672,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/emperorzhiofhan/"
+    },
+    "EmpireWindrush": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4826407019 [GLT4826407019].md",
+          "key": "401-windrush-the-story-of-black-britain-glt4826407019",
+          "show": "The Rest Is History",
+          "title": "401. Windrush: The Story of Black Britain",
+          "url": "/wiki/sources/401-windrush-the-story-of-black-britain-glt4826407019/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/empirewindrush/"
     },
     "EmployeeHealthBenefitsAI": {
       "episode_count": 1,
@@ -99147,6 +99193,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/migrainetriggerdiarymanagement/"
     },
+    "MigrantHistoricalAgency": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4826407019 [GLT4826407019].md",
+          "key": "401-windrush-the-story-of-black-britain-glt4826407019",
+          "show": "The Rest Is History",
+          "title": "401. Windrush: The Story of Black Britain",
+          "url": "/wiki/sources/401-windrush-the-story-of-black-britain-glt4826407019/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/migranthistoricalagency/"
+    },
     "MigrationWeaponization": {
       "episode_count": 2,
       "show_count": 2,
@@ -114739,6 +114801,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/concepts/postwaradministrativeretrenchment/"
+    },
+    "PostwarCaribbeanBritishSettlement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4826407019 [GLT4826407019].md",
+          "key": "401-windrush-the-story-of-black-britain-glt4826407019",
+          "show": "The Rest Is History",
+          "title": "401. Windrush: The Story of Black Britain",
+          "url": "/wiki/sources/401-windrush-the-story-of-black-britain-glt4826407019/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/postwarcaribbeanbritishsettlement/"
     },
     "PostwarKeynesianRetreat": {
       "episode_count": 1,
@@ -142826,9 +142904,9 @@
       "url": "/wiki/entities/theprincipleofresponsibility/"
     },
     "TheRestIsHistory": {
-      "episode_count": 31,
+      "episode_count": 32,
       "show_count": 1,
-      "source_note_count": 31,
+      "source_note_count": 32,
       "sources": [
         {
           "episode_file": "GLT4665799025 [GLT4665799025].md",
@@ -143046,9 +143124,16 @@
           "show": "The Rest Is History",
           "title": "416. The Canterbury Tales (Part 4)",
           "url": "/wiki/sources/416-the-canterbury-tales-part-4-glt1956280616/"
+        },
+        {
+          "episode_file": "GLT4826407019 [GLT4826407019].md",
+          "key": "401-windrush-the-story-of-black-britain-glt4826407019",
+          "show": "The Rest Is History",
+          "title": "401. Windrush: The Story of Black Britain",
+          "url": "/wiki/sources/401-windrush-the-story-of-black-britain-glt4826407019/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-09-27",
       "url": "/wiki/entities/therestishistory/"
     },
     "TheRollingStones": {
@@ -146048,6 +146133,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/entities/trentrossiter/"
+    },
+    "TrevorPhillips": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4826407019 [GLT4826407019].md",
+          "key": "401-windrush-the-story-of-black-britain-glt4826407019",
+          "show": "The Rest Is History",
+          "title": "401. Windrush: The Story of Black Britain",
+          "url": "/wiki/sources/401-windrush-the-story-of-black-britain-glt4826407019/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/trevorphillips/"
     },
     "TreyStephens": {
       "episode_count": 1,
@@ -154770,6 +154871,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/entities/wimhof/"
+    },
+    "WindrushNationalMemory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4826407019 [GLT4826407019].md",
+          "key": "401-windrush-the-story-of-black-britain-glt4826407019",
+          "show": "The Rest Is History",
+          "title": "401. Windrush: The Story of Black Britain",
+          "url": "/wiki/sources/401-windrush-the-story-of-black-britain-glt4826407019/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/windrushnationalmemory/"
     },
     "Wine": {
       "episode_count": 3,

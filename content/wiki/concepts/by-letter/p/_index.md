@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8341
+wiki_total_pages: 8344
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1187,6 +1187,9 @@ wiki_pages:
   - key: "PosthumousPoliticalDestinyMyth"
     title: "Posthumous Political Destiny Myth"
     url: "/wiki/concepts/posthumouspoliticaldestinymyth/"
+  - key: "PostwarCaribbeanBritishSettlement"
+    title: "Postwar Caribbean British Settlement"
+    url: "/wiki/concepts/postwarcaribbeanbritishsettlement/"
   - key: "PostwarKeynesianRetreat"
     title: "Postwar Keynesian Retreat"
     url: "/wiki/concepts/postwarkeynesianretreat/"

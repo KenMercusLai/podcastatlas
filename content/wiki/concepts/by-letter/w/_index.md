@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 8341
+wiki_total_pages: 8344
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -302,6 +302,9 @@ wiki_pages:
   - key: "WindfallDecisionTrap"
     title: "Windfall Decision Trap / 无故之利"
     url: "/wiki/concepts/windfalldecisiontrap/"
+  - key: "WindrushNationalMemory"
+    title: "Windrush National Memory"
+    url: "/wiki/concepts/windrushnationalmemory/"
   - key: "WineAsAgriculturalCulture"
     title: "Wine As Agricultural Culture"
     url: "/wiki/concepts/wineasagriculturalculture/"

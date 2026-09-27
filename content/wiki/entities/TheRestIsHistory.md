@@ -34,7 +34,8 @@ sources:
   - 441-lord-byron-scandal-sex-and-celebrity-part-2-glt1954408695
   - 440-lord-byron-mad-bad-and-dangerous-to-know-part-1-glt4389862746
   - 416-the-canterbury-tales-part-4-glt1956280616
-last_updated: 2026-09-26
+  - 401-windrush-the-story-of-black-britain-glt4826407019
+last_updated: 2026-09-27
 knowledge_schema: synthesis-v1
 ---
 
@@ -42,7 +43,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-The Rest Is History is a narrative podcast represented in the wiki through selected multi-part historical branches, including ancient Greek war memory, a 1915 [[FirstWorldWar|First World War]] branch, national-symbol and sport-politics episodes, literary and legendary afterlives, founding and Roman political-crisis branches, medieval Anglo-French and Chaucer branches, comparative African female power, early Quaker abolitionist activism, and [[LordByron|Lord Byron / 拜伦]]'s celebrity, Gothic, and philhellenic afterlives.
+The Rest Is History is a narrative podcast represented in the wiki through selected multi-part historical branches, including ancient Greek war memory, a 1915 [[FirstWorldWar|First World War]] branch, national-symbol and sport-politics episodes, literary and legendary afterlives, founding and Roman political-crisis branches, medieval Anglo-French and Chaucer branches, comparative African female power, early Quaker abolitionist activism, postwar Caribbean British migration, and [[LordByron|Lord Byron / 拜伦]]'s celebrity, Gothic, and philhellenic afterlives.
 
 ## Current Profile
 
@@ -62,6 +63,8 @@ The national-symbol and sport branches use South Africa, Brazil, the Netherlands
 
 The [[StGeorge|St George]] episode adds a legend-and-symbol branch. It separates an uncertain martyr core from late torture stories, mounted serpent imagery, the dragon rescue narrative, [[OrderOfTheGarter|Garter]] patronage, Protestant allegory, English national use, and transnational veneration. The result treats skepticism as part of the tradition's own history and symbolic flexibility as a historical outcome rather than evidence that every legend is true.
 
+The Windrush branch uses [[TrevorPhillips]], [[EmpireWindrush]], [[PostwarCaribbeanBritishSettlement]], [[MigrantHistoricalAgency]], and [[WindrushNationalMemory]] to distinguish a documented, transformative Caribbean British landmark from a universal migration origin story. It centers British-subject status, wartime service, ambition, intended return, family formation, religion, recognition, and the later citizenship scandal while preserving the distinct histories of other migration waves.
+
 The Byron branch now begins with family mythology, childhood adversity, education, sexuality, and early self-fashioning. [[440-lord-byron-mad-bad-and-dangerous-to-know-part-1-glt4389862746]] frames those pressures through the later [[ByronicHero|Byronic hero]] and international celebrity; [[441-lord-byron-scandal-sex-and-celebrity-part-2-glt1954408695]] follows Mediterranean travel, wartime observation, Ottoman and Greek settings, [[AliPasha|Ali Pasha]], the [[LordElgin|Elgin]] controversy, [[ChildeHaroldsPilgrimage|Childe Harold's Pilgrimage]], and Byromania. The finale then connects the 1816 Geneva circle, [[JohnPolidori|John Polidori / 约翰·波利多里]]'s [[AristocraticVampire|aristocratic vampire]], Venetian and Italian exile, radical publishing, and the [[GreekWarOfIndependence|Greek War of Independence]]. Together they treat celebrity as authored identity and transferable political power while distinguishing explanation from excuse and performance from material commitment.
 
 ## Key Characteristics
@@ -71,7 +74,7 @@ The Byron branch now begins with family mythology, childhood adversity, educatio
 - Its African female-power branch treats women rulers, queen mothers, and warriors as institutional cases while preserving slavery, coercion, and source-bias qualifications.
 - Its medieval branches treat the Hundred Years' War as a multi-causal origin problem and Chaucer's writing as qualified evidence for post-plague social and linguistic change.
 - Its Elizabethan and Northern Ireland branches connect security crises to institutions, memory, legitimacy, intelligence, policing, and armed escalation.
-- Its national-symbol, saint, and sport-politics branches show public symbols as politically usable without assuming one fixed meaning or secure biographical core.
+- Its national-symbol, saint, migration-memory, and sport-politics branches show public symbols as politically usable without assuming one fixed meaning, one universal origin story, or a secure biographical core.
 - Its Homeric, Mayerling, Founding Fathers, Roman Civil War, and Byron branches use literature, scandal, biography, celebrity, and military or political careers to expose institutional crisis and public authority while preserving uncertainty about motives and impact.
 
 ## Evidence
@@ -95,15 +98,16 @@ The Byron branch now begins with family mythology, childhood adversity, educatio
 - Romantic celebrity and political-action branch: [[443-lord-byron-death-of-a-vampire-part-4-glt3247503776]] follows Byron from the Geneva vampire afterlife through Italian exile and politics to money, liaison work, illness, and death at Missolonghi.
 - Romantic celebrity formation branch: [[440-lord-byron-mad-bad-and-dangerous-to-know-part-1-glt4389862746]] follows Byron's family inheritance, disability, childhood adversity, schooling, Cambridge circle, bodily self-fashioning, debts, and early literary combat.
 - Romantic celebrity origin branch: [[441-lord-byron-scandal-sex-and-celebrity-part-2-glt1954408695]] follows travel with [[JohnCamHobhouse]], literary self-fashioning, the Ali Pasha and Elgin encounters, publication of *Childe Harold*, and the birth of Byromania.
+- Postwar Caribbean British branch: [[401-windrush-the-story-of-black-britain-glt4826407019]] uses the Empire Windrush arrival, British-subject status, wartime service, intended return, family formation, racism, religion, mixed heritage, and the later scandal to connect migrant agency with bounded national memory.
 
 ## Qualifications
 
-This page summarizes only the episodes currently listed in its evidence inventory. The show should not be treated as endorsing one uniform theory of history or literature; the covered episodes mix narrative reconstruction, source uncertainty, moral interpretation, symbolic interpretation, and explicit cautions against overreading. The Marathon branch is especially dependent on surviving Greek literary evidence and later memory traditions, so Persian perspective, Pheidippides legends, and broad civilizational interpretations remain qualified. The Lay branch explicitly rejects the literal "first abolitionist" label and keeps the exact reach of his influence source-scoped. The African Amazons branch is especially dependent on mediated European, missionary, traveler, and popular-history accounts. The George branch cannot establish the saint's existence, identity, relics, or dragon story as contemporary history; its strongest claims concern the development and reuse of the tradition. The Byron inventory covers three installments rather than a complete life or literary study. The Chaucer branch uses fictional characters as suggestive rather than representative evidence, and its Cecily Champagne, plague-season, women's-autonomy, and dialect-influence claims remain source-scoped.
+This page summarizes only the episodes currently listed in its evidence inventory. The show should not be treated as endorsing one uniform theory of history or literature; the covered episodes mix narrative reconstruction, source uncertainty, moral interpretation, symbolic interpretation, and explicit cautions against overreading. The Marathon branch is especially dependent on surviving Greek literary evidence and later memory traditions, so Persian perspective, Pheidippides legends, and broad civilizational interpretations remain qualified. The Lay branch explicitly rejects the literal "first abolitionist" label and keeps the exact reach of his influence source-scoped. The African Amazons branch is especially dependent on mediated European, missionary, traveler, and popular-history accounts. The George branch cannot establish the saint's existence, identity, relics, or dragon story as contemporary history; its strongest claims concern the development and reuse of the tradition. The Byron inventory covers three installments rather than a complete life or literary study. The Chaucer branch uses fictional characters as suggestive rather than representative evidence, and its Cecily Champagne, plague-season, women's-autonomy, and dialect-influence claims remain source-scoped. The Windrush branch relies on one interview-led interpretation; passenger totals, demographic comparisons, church attendance, the warship claim, and international mixed-heritage comparisons remain source-scoped.
 
 ## What Changed
 
-- Added a Chaucer branch connecting literary form with plague, labor, hierarchy, gender, and language change.
-- Made the fiction-to-social-evidence boundary explicit within the show's literary-history profile.
+- Added a Windrush branch connecting migrant agency, gradual family settlement, imperial citizenship, and national memory.
+- Bounded Windrush as one transformative migration story rather than a template for every non-white British history.
 
 ## Relationships
 
@@ -191,3 +195,8 @@ This page summarizes only the episodes currently listed in its evidence inventor
 - [[GeoffreyChaucer]] - poet whose biography connects commerce, court service, war, diplomacy, and literary innovation.
 - [[TheCanterburyTales]] - multi-voiced literary work used as qualified social history.
 - [[LiteratureAsSocialHistory]] - interpretive method grounding the Chaucer branch.
+- [[EmpireWindrush]] - ship and 1948 arrival anchoring the new postwar Caribbean British branch.
+- [[TrevorPhillips]] - guest historian whose research and family history frame the Windrush interpretation.
+- [[PostwarCaribbeanBritishSettlement]] - gradual movement from intended return toward durable family settlement.
+- [[MigrantHistoricalAgency]] - method centering migrants' motives, institutions, and self-understanding.
+- [[WindrushNationalMemory]] - bounded public-memory framework for the arrival's later symbolic role.

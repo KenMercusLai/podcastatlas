@@ -23361,3 +23361,11 @@ Added source `vol-91-shenjing-waike-ni-naozi-jinshui-le-ba-shide-meigeren-dou-yi
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | 401. Windrush: The Story of Black Britain
+
+Added source `401-windrush-the-story-of-black-britain-glt4826407019`; created `TrevorPhillips`, `EmpireWindrush`, `PostwarCaribbeanBritishSettlement`, `MigrantHistoricalAgency`, and `WindrushNationalMemory`; migrated and updated `Caribbean`; and updated `TheRestIsHistory`, the canonical index, and overview from their complete bounded source sets. Core synthesis: Windrush is a transformative, well-documented Caribbean British landmark whose passengers had imperial citizenship, wartime histories, ambition, return plans, family strategies, religion, and self-defined belonging; durable settlement emerged gradually, while later national memory should preserve migrant agency and the distinct histories of other migration waves. No settled contradiction found. Passenger totals, demographic comparisons, church attendance, the warship claim, and international mixed-heritage comparisons remain source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
