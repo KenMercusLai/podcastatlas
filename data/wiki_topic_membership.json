@@ -1547,6 +1547,13 @@
       "url": "/topics/science/"
     }
   ],
+  "375-hitler-and-the-mitford-sisters-glt5493256820": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "376-baghdad-the-forging-of-islam-part-1-glt9529602805": [
     {
       "key": "history",
@@ -54664,6 +54671,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "OswaldMosley": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "OtherAsHell": [

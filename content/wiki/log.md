@@ -23781,3 +23781,11 @@ Added source `vol-77-shengzhi-yixueke-nanke-guhua-de-pianjian-rang-fuzuigan-chen
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | 375. Hitler and the Mitford Sisters
+
+Added source `375-hitler-and-the-mitford-sisters-glt5493256820`; created `UnityMitford`, `DianaMitford`, `OswaldMosley`, `JuliusStreicher`, `BritishFascism`, and `FascistGlamourAndMemory`; and updated `AdolfHitler`, `NaziRacialMorality`, and the canonical index from their complete bounded source sets. Core synthesis: Unity Mitford's frivolity, rivalry, infatuation, and attention-seeking may help explain her route but do not excuse public antisemitism, Nazi brokerage, cruelty, benefit from Jewish dispossession, and sustained loyalty; later Mitford glamour and sensational rumor can preserve visibility while softening political judgment. No settled contradiction with the existing Nazi sequence was found. The Hitler-child claim is treated as highly implausible, while the exact meeting count, private motives, sexual relationship claims, reported dialogue, shooting details, and broad explanations for British fascism's electoral weakness remain source-scoped or uncertain. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

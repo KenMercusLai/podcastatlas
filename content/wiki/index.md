@@ -2999,6 +2999,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [376. Baghdad: The Forging of Islam (Part 1)](sources/376-baghdad-the-forging-of-islam-part-1-glt9529602805.md) — The Rest Is History episode on late Umayyad crisis, unequal conversion, early Islamic religious formation, and the opening for Abbasid revolution.
 
+- [375. Hitler and the Mitford Sisters](sources/375-hitler-and-the-mitford-sisters-glt5493256820.md) — The Rest Is History episode on Unity Mitford, Nazi access, British fascism, explicit antisemitism, aristocratic glamour, and the moral limits of frivolity.
+
 ## Entities
 - [Roy Baumeister](entities/RoyBaumeister.md) — Psychologist associated with the limited-resource and glucose accounts in the ego-depletion debate.
 - [Carol Dweck](entities/CarolDweck.md) — Psychologist whose belief-sensitive studies qualify fixed-resource accounts of willpower.
@@ -14056,6 +14058,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kufa](entities/Kufa.md) — Iraqi garrison city associated with Ali, conversion, scholarship, slavery, and anti-Umayyad opposition.
 - [Khorasan](entities/Khorasan.md) — Northeastern region whose distance, plural populations, and military resources made it the Abbasid revolution's decisive base.
 
+- [Unity Mitford](entities/UnityMitford.md) — British fascist whose pursuit of Hitler joined aristocratic celebrity to public antisemitism, Nazi brokerage, and benefit from dispossession.
+- [Diana Mitford](entities/DianaMitford.md) — British aristocrat whose Mosley relationship, Hitler access, and postwar loyalty made her institutionally important to British fascism.
+- [Oswald Mosley](entities/OswaldMosley.md) — British fascist leader connecting the Blackshirts and Mitford network to the postwar Union Movement and anti-immigration politics.
+- [Julius Streicher](entities/JuliusStreicher.md) — Nazi publisher whose antisemitic platform helped make Unity Mitford's political commitment public and useful.
+
 ## Concepts
 - [Ego Depletion Debate](concepts/EgoDepletionDebate.md) — Contested interaction among repeated self-control, resource accounts, glucose, belief, physiology, and task context.
 - [Anterior Mid-Cingulate Willpower](concepts/AnteriorMidCingulateWillpower.md) — Bounded hypothesis that an integrative cingulate hub supports context-sensitive action, restraint, and persistence.
@@ -22508,5 +22515,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Alid Legitimacy](concepts/AlidLegitimacy.md) — Claim grounding rightful leadership in Ali and his descendants through kinship with Muhammad.
 - [Mawali Conversion Hierarchy](concepts/MawaliConversionHierarchy.md) — Unequal incorporation of non-Arab converts through patronage, fiscal interests, and continuing social distinctions.
 - [Early Islamic Religious Formation](concepts/EarlyIslamicReligiousFormation.md) — Reciprocal development of practice, reports, law, and authority among conquerors, converts, and existing religious communities.
+
+- [British Fascism](concepts/BritishFascism.md) — Interwar and postwar movement joining Blackshirt organization, aristocratic networks, antisemitism, Nazi connection, and electoral marginality.
+- [Fascist Glamour and Memory](concepts/FascistGlamourAndMemory.md) — Process by which status, celebrity, wit, and sensational biography can aestheticize extremist politics without reducing responsibility.
 
 ## Syntheses

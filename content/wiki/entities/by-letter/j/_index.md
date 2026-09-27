@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 11040
+wiki_total_pages: 11044
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -1082,6 +1082,9 @@ wiki_pages:
   - key: "JuliusKurfgen"
     title: "Julius Kurfgen"
     url: "/wiki/entities/juliuskurfgen/"
+  - key: "JuliusStreicher"
+    title: "Julius Streicher"
+    url: "/wiki/entities/juliusstreicher/"
   - key: "JunhaoWen"
     title: "Junhao Wen"
     url: "/wiki/entities/junhaowen/"

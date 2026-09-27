@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2748
+topic_total_pages: 2749
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -6083,6 +6083,9 @@ topic_entities:
   - key: "OrianaFallaci"
     title: "Oriana Fallaci / 奥利亚娜·法拉奇"
     url: "/wiki/entities/orianafallaci/"
+  - key: "OswaldMosley"
+    title: "Oswald Mosley"
+    url: "/wiki/entities/oswaldmosley/"
   - key: "OurHongKongFoundation"
     title: "Our Hong Kong Foundation / 團結香港基金"
     url: "/wiki/entities/ourhongkongfoundation/"

@@ -5541,9 +5541,9 @@
       "url": "/wiki/entities/adolfeichmann/"
     },
     "AdolfHitler": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "GLT5771265943 [GLT5771265943].md",
@@ -5593,6 +5593,13 @@
           "show": "The Rest Is History",
           "title": "404. The Nazis in Power: The Night of the Long Knives (Part 1)",
           "url": "/wiki/sources/404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861584466/"
+        },
+        {
+          "episode_file": "GLT5493256820 [GLT5493256820].md",
+          "key": "375-hitler-and-the-mitford-sisters-glt5493256820",
+          "show": "The Rest Is History",
+          "title": "375. Hitler and the Mitford Sisters",
+          "url": "/wiki/sources/375-hitler-and-the-mitford-sisters-glt5493256820/"
         }
       ],
       "updated": "2026-09-27",
@@ -19250,6 +19257,22 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/concepts/britishelectioncampaigneffects/"
+    },
+    "BritishFascism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5493256820 [GLT5493256820].md",
+          "key": "375-hitler-and-the-mitford-sisters-glt5493256820",
+          "show": "The Rest Is History",
+          "title": "375. Hitler and the Mitford Sisters",
+          "url": "/wiki/sources/375-hitler-and-the-mitford-sisters-glt5493256820/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/britishfascism/"
     },
     "BritishForeignPolicyAmbiguity1914": {
       "episode_count": 1,
@@ -38927,6 +38950,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/diamondromancemarketingtrap/"
     },
+    "DianaMitford": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5493256820 [GLT5493256820].md",
+          "key": "375-hitler-and-the-mitford-sisters-glt5493256820",
+          "show": "The Rest Is History",
+          "title": "375. Hitler and the Mitford Sisters",
+          "url": "/wiki/sources/375-hitler-and-the-mitford-sisters-glt5493256820/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/dianamitford/"
+    },
     "DianlingQiang": {
       "episode_count": 3,
       "show_count": 1,
@@ -52599,6 +52638,22 @@
       ],
       "updated": "2026-08-22",
       "url": "/wiki/concepts/farmingwarstatecraft/"
+    },
+    "FascistGlamourAndMemory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5493256820 [GLT5493256820].md",
+          "key": "375-hitler-and-the-mitford-sisters-glt5493256820",
+          "show": "The Rest Is History",
+          "title": "375. Hitler and the Mitford Sisters",
+          "url": "/wiki/sources/375-hitler-and-the-mitford-sisters-glt5493256820/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/fascistglamourandmemory/"
     },
     "FascistSportPolicy": {
       "episode_count": 1,
@@ -83957,6 +84012,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/juliuskurfgen/"
     },
+    "JuliusStreicher": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5493256820 [GLT5493256820].md",
+          "key": "375-hitler-and-the-mitford-sisters-glt5493256820",
+          "show": "The Rest Is History",
+          "title": "375. Hitler and the Mitford Sisters",
+          "url": "/wiki/sources/375-hitler-and-the-mitford-sisters-glt5493256820/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/juliusstreicher/"
+    },
     "JulyCrisis": {
       "episode_count": 6,
       "show_count": 1,
@@ -108651,9 +108722,9 @@
       "url": "/wiki/concepts/naziinvoluntaryeuthanasiaprogram/"
     },
     "NaziRacialMorality": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6100029744 [GLT6100029744].md",
@@ -108661,6 +108732,13 @@
           "show": "The Rest Is History",
           "title": "408. The Nazis in Power: Hitler's Dream (Part 5)",
           "url": "/wiki/sources/408-the-nazis-in-power-hitlers-dream-part-5-glt6100029744/"
+        },
+        {
+          "episode_file": "GLT5493256820 [GLT5493256820].md",
+          "key": "375-hitler-and-the-mitford-sisters-glt5493256820",
+          "show": "The Rest Is History",
+          "title": "375. Hitler and the Mitford Sisters",
+          "url": "/wiki/sources/375-hitler-and-the-mitford-sisters-glt5493256820/"
         }
       ],
       "updated": "2026-09-27",
@@ -113426,6 +113504,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/osorioduqueestrada/"
+    },
+    "OswaldMosley": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5493256820 [GLT5493256820].md",
+          "key": "375-hitler-and-the-mitford-sisters-glt5493256820",
+          "show": "The Rest Is History",
+          "title": "375. Hitler and the Mitford Sisters",
+          "url": "/wiki/sources/375-hitler-and-the-mitford-sisters-glt5493256820/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/oswaldmosley/"
     },
     "OtherAsHell": {
       "episode_count": 1,
@@ -154452,6 +154546,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/unitreerobotics/"
+    },
+    "UnityMitford": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5493256820 [GLT5493256820].md",
+          "key": "375-hitler-and-the-mitford-sisters-glt5493256820",
+          "show": "The Rest Is History",
+          "title": "375. Hitler and the Mitford Sisters",
+          "url": "/wiki/sources/375-hitler-and-the-mitford-sisters-glt5493256820/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/unitymitford/"
     },
     "UniversalPeaceSanctuary": {
       "episode_count": 1,

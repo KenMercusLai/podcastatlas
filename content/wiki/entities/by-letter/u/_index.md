@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "u"
-wiki_total_pages: 11040
+wiki_total_pages: 11044
 wiki_pages:
   - key: "UnitedStatesPresidentialElection1968"
     title: "1968 United States Presidential Election"
@@ -218,6 +218,9 @@ wiki_pages:
   - key: "Unitronics"
     title: "Unitronics"
     url: "/wiki/entities/unitronics/"
+  - key: "UnityMitford"
+    title: "Unity Mitford"
+    url: "/wiki/entities/unitymitford/"
   - key: "UniversaInvestments"
     title: "Universa Investments"
     url: "/wiki/entities/universainvestments/"

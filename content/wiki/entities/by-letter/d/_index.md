@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 11040
+wiki_total_pages: 11044
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -536,6 +536,9 @@ wiki_pages:
   - key: "DiamondNecklaceAffair"
     title: "Diamond Necklace Affair"
     url: "/wiki/entities/diamondnecklaceaffair/"
+  - key: "DianaMitford"
+    title: "Diana Mitford"
+    url: "/wiki/entities/dianamitford/"
   - key: "DianeKPMGChiefEconomist"
     title: "Diane (KPMG Chief Economist)"
     url: "/wiki/entities/dianekpmgchiefeconomist/"
