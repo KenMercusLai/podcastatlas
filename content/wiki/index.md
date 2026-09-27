@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.69血液内科｜喝咖啡喝茶会贫血吗？月经量大会贫血吗？吃红枣阿胶有用吗？关于贫血的误区](sources/vol-69-xueyeneike-he-kafei-he-cha-hui-pinxue-ma-yuejing-liang-da-hui-pinxue-ma-chi-hongzao-ejiao-you-yong-ma-guanyu-pinxue-de-wuqu-lhptpdej4gf-vd6dlt0bjbu_8wi4.md) — 这病说来话长 episode on anemia recognition, cause classification, iron-deficiency evaluation, bleeding, absorption, replacement, and supplement myths.
 - [363. Sixties Fashion: The Teenage Revolution (Part 1)](sources/363-sixties-fashion-the-teenage-revolution-part-1-glt5487814001.md) — The Rest Is History episode on postwar austerity, youth subcultures, Mary Quant, teenage consumers, and fashion-media celebrity before Swinging London's peak.
 - [Goals Toolkit: How to Set & Achieve Your Goals](sources/goals-toolkit-how-to-set-achieve-your-goals-scim1532399364.md) — Huberman Lab solo episode on one-priority goal design, measurable actions, state-matched visualization, visual focus, intermittent self-reward, and middle-stage chunking.
 - [364. Sixties Fashion: Swinging London (Part 2)](sources/364-sixties-fashion-swinging-london-part-2-glt8438824218.md) — The Rest Is History episode on miniskirts, Swinging London, youth spending, boutique retail, gender politics, and the hippie fashion turn.
@@ -14141,6 +14142,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The 120 Days of Sodom](entities/The120DaysOfSodom.md) — Sade's prison-written novel of sealed, scheduled, and escalating domination.
 
 ## Concepts
+- [Anemia Diagnostic Reasoning](concepts/AnemiaDiagnosticReasoning.md) — Framework for confirming anemia and distinguishing reduced production, red-cell destruction, and blood loss.
+- [Iron Deficiency Anemia Management](concepts/IronDeficiencyAnemiaManagement.md) — Cause-directed iron-deficiency care spanning confirmation, loss or absorption review, replacement, tolerability, and follow-up.
 - [Postwar Fashion Consumer Revolution](concepts/PostwarFashionConsumerRevolution.md) — Shift from rationed durability toward youth-led, media-amplified, rapidly changing fashion consumption.
 - [Youth Subcultural Style Formation](concepts/YouthSubculturalStyleFormation.md) — Group identity built by recombining clothing, grooming, transport, venues, and historical or foreign references.
 - [Goal Pursuit Behavior Design](concepts/GoalPursuitBehaviorDesign.md) — Action-first framework joining one priority, concrete verbs, measurable practice, scheduling, and middle-stage chunking.

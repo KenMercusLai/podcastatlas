@@ -24036,3 +24036,11 @@ Added source `363-sixties-fashion-the-teenage-revolution-part-1-glt5487814001`; 
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | VOL.69血液内科｜喝咖啡喝茶会贫血吗？月经量大会贫血吗？吃红枣阿胶有用吗？关于贫血的误区
+
+Added source `vol-69-xueyeneike-he-kafei-he-cha-hui-pinxue-ma-yuejing-liang-da-hui-pinxue-ma-chi-hongzao-ejiao-you-yong-ma-guanyu-pinxue-de-wuqu-lhptpdej4gf-vd6dlt0bjbu_8wi4`; created `AnemiaDiagnosticReasoning` and `IronDeficiencyAnemiaManagement`; and updated the canonical index. Core synthesis: anemia is a measured finding that requires cause classification, while iron-deficiency management should confirm deficiency, investigate intake, absorption, and blood loss, match replacement to need and tolerance, and verify response rather than relying on generic “blood-building” foods or supplements. No settled contradiction is adopted. Hemoglobin thresholds, food and beverage effects, blood-donation framing, iron routes, and the episode's tentative CAR-T/thalassemia remark remain source-scoped; the automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

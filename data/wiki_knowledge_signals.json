@@ -9677,6 +9677,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/andystumpf/"
     },
+    "AnemiaDiagnosticReasoning": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lhPtpDEj4GF-vd6Dlt0BjbU_8Wi4 [lhPtpDEj4GF-vd6Dlt0BjbU_8Wi4].md",
+          "key": "vol-69-xueyeneike-he-kafei-he-cha-hui-pinxue-ma-yuejing-liang-da-hui-pinxue-ma-chi-hongzao-ejiao-you-yong-ma-guanyu-pinxue-de-wuqu-lhptpdej4gf-vd6dlt0bjbu_8wi4",
+          "show": "这病说来话长",
+          "title": "VOL.69血液内科｜喝咖啡喝茶会贫血吗？月经量大会贫血吗？吃红枣阿胶有用吗？关于贫血的误区",
+          "url": "/wiki/sources/vol-69-xueyeneike-he-kafei-he-cha-hui-pinxue-ma-yuejing-liang-da-hui-pinxue-ma-chi-hongzao-ejiao-you-yong-ma-guanyu-pinxue-de-wuqu-lhptpdej4gf-vd6dlt0bjbu_8wi4/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/anemiadiagnosticreasoning/"
+    },
     "AnesthesiaDrugMythBoundary": {
       "episode_count": 3,
       "show_count": 1,
@@ -80281,6 +80297,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/iraqwar/"
+    },
+    "IronDeficiencyAnemiaManagement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lhPtpDEj4GF-vd6Dlt0BjbU_8Wi4 [lhPtpDEj4GF-vd6Dlt0BjbU_8Wi4].md",
+          "key": "vol-69-xueyeneike-he-kafei-he-cha-hui-pinxue-ma-yuejing-liang-da-hui-pinxue-ma-chi-hongzao-ejiao-you-yong-ma-guanyu-pinxue-de-wuqu-lhptpdej4gf-vd6dlt0bjbu_8wi4",
+          "show": "这病说来话长",
+          "title": "VOL.69血液内科｜喝咖啡喝茶会贫血吗？月经量大会贫血吗？吃红枣阿胶有用吗？关于贫血的误区",
+          "url": "/wiki/sources/vol-69-xueyeneike-he-kafei-he-cha-hui-pinxue-ma-yuejing-liang-da-hui-pinxue-ma-chi-hongzao-ejiao-you-yong-ma-guanyu-pinxue-de-wuqu-lhptpdej4gf-vd6dlt0bjbu_8wi4/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/irondeficiencyanemiamanagement/"
     },
     "IrreversibleDefectionBinding": {
       "episode_count": 3,

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 8497
+wiki_total_pages: 8499
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1865,6 +1865,9 @@ wiki_pages:
   - key: "AndrogenSupportSupplementBoundary"
     title: "Androgen Support Supplement Boundary"
     url: "/wiki/concepts/androgensupportsupplementboundary/"
+  - key: "AnemiaDiagnosticReasoning"
+    title: "Anemia Diagnostic Reasoning"
+    url: "/wiki/concepts/anemiadiagnosticreasoning/"
   - key: "AnesthesiaDrugMythBoundary"
     title: "Anesthesia Drug Myth Boundary / 麻醉药物误解边界"
     url: "/wiki/concepts/anesthesiadrugmythboundary/"
