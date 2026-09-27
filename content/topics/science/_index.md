@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1239
+topic_total_pages: 1240
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1036,6 +1036,9 @@ topic_concepts:
   - key: "JianghuScamCraft"
     title: "Jianghu Scam Craft"
     url: "/wiki/concepts/jianghuscamcraft/"
+  - key: "JointSupplementTreatmentBoundary"
+    title: "Joint Supplement and Treatment Boundary / 关节补剂与治疗边界"
+    url: "/wiki/concepts/jointsupplementtreatmentboundary/"
   - key: "JointSymptomEscalation"
     title: "Joint Symptom Escalation / 关节症状升级边界"
     url: "/wiki/concepts/jointsymptomescalation/"

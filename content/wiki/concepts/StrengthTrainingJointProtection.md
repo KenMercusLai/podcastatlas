@@ -5,7 +5,8 @@ tags: [health, sports-medicine, strength-training, joints]
 sources:
   - vol-212-pingshi-jiuzuo-zhoumo-wanming-yundong-yundong-yixueke-yisheng-gei-dagongrende-fang-lian-fei-zhinan-lqtwr4m-9npye9giib1-om-tylmy
   - vol-127-zhe-xiang-keji-tigao-le-aoyun-chengji-jianshao-le-yundong-henhuo-shanghai-zan-putongren-ye-neng-yong-lai-zhuli-kangfu-ln2tg_vwgjzmmss49rn6nagis5p0
-last_updated: 2026-09-23
+  - vol-90-yundong-yixue-pengyou-ni-huaxue-ma-bugai-yao-chenzao-kemu-san-jinji-renqun-lvfameb1ztoxm5yx5e-ylsrekbsq
+last_updated: 2026-09-27
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,13 +22,15 @@ The source's focus is functional rather than aesthetic. Muscle around the knee, 
 
 Postoperative recovery adds a measurement layer to this synthesis. Quadriceps atrophy after reduced use is a rehabilitation problem, and repeated gait and muscle-state assessment could make strengthening more individualized than circumference comparison alone. This strengthens the functional case for muscle without implying that strength training can repair a torn meniscus or ligament by itself.
 
+The winter-sports episode makes that last boundary more explicit. Quadriceps strength may compensate for some functional instability, and progressive training remains important after patellar dislocation or knee replacement, but muscle does not regenerate cartilage or make structural injury irrelevant. Painful inflammatory states and repetitive-friction syndromes can require unloading and assessment before more training is appropriate.
+
 ## Key Claims
 - Avoiding exercise does not automatically protect joints; sedentary behavior and weak muscles can increase pain and degeneration risk.
 - Strength around the knee and hip helps stabilize joint motion, especially through quadriceps, hamstrings, gluteal muscles, and hip abductors.
 - Weak or inactive glutes and hip abductors can contribute to poor lower-limb tracking, including knee valgus patterns.
 - Strength work should be scaled for the person: ordinary workers may use machines, semi-fixed equipment, bodyweight work, wall sits, grip training, or basic functional exercises.
 - Older adults still need appropriate resistance and functional muscle work because fall prevention and independence depend on preserved strength.
-- Muscle training complements, rather than replaces, stretching, technique learning, recovery, and medical review for pain or injury.
+- Muscle training complements, rather than replaces, stretching, technique learning, recovery, inflammation control, and medical review for pain or injury.
 - After knee injury or surgery, restoring quadriceps capacity can support functional stability, but progression and return goals should follow the person's structure, symptoms, and clinical plan.
 
 ## Evidence
@@ -36,13 +39,16 @@ Postoperative recovery adds a measurement layer to this synthesis. Quadriceps at
 - Elderly prevention: [[vol-212-pingshi-jiuzuo-zhoumo-wanming-yundong-yundong-yixueke-yisheng-gei-dagongrende-fang-lian-fei-zhinan-lqtwr4m-9npye9giib1-om-tylmy]] recommends appropriate resistance, grip, wall-sit, and bodyweight exercises to maintain muscles around joints and reduce fall consequences.
 - Sport support: [[vol-212-pingshi-jiuzuo-zhoumo-wanming-yundong-yundong-yixueke-yisheng-gei-dagongrende-fang-lian-fei-zhinan-lqtwr4m-9npye9giib1-om-tylmy]] connects lower-limb and core strength to safer weekend exercise, cycling, running, tennis, and HYROX preparation.
 - Postoperative capacity: [[vol-127-zhe-xiang-keji-tigao-le-aoyun-chengji-jianshao-le-yundong-henhuo-shanghai-zan-putongren-ye-neng-yong-lai-zhuli-kangfu-ln2tg_vwgjzmmss49rn6nagis5p0]] highlights quadriceps atrophy after disuse and discusses dynamic assessment as a possible way to individualize rehabilitation.
+- Functional compensation and limits: [[vol-90-yundong-yixue-pengyou-ni-huaxue-ma-bugai-yao-chenzao-kemu-san-jinji-renqun-lvfameb1ztoxm5yx5e-ylsrekbsq]] connects quadriceps capacity to knee stability, patellar-dislocation and replacement rehabilitation, while distinguishing support from structural repair.
+- Symptom-state boundary: [[vol-90-yundong-yixue-pengyou-ni-huaxue-ma-bugai-yao-chenzao-kemu-san-jinji-renqun-lvfameb1ztoxm5yx5e-ylsrekbsq]] cautions that active inflammation or iliotibial-band friction may require unloading and professional guidance rather than simply adding more exercise.
 
 ## Counterevidence & Qualifications
-The source does not claim strength training can prevent all arthritis, pain, falls, or sport injuries. Strength work can itself create injury if load, technique, or recovery is wrong, and existing pain, redness, swelling, locking, or acute injury changes the decision from general exercise advice to clinical assessment.
+The sources do not claim strength training can prevent all arthritis, pain, falls, or sport injuries, or that muscular compensation proves a ligament or meniscus is intact. Strength work can itself create injury if load, technique, recovery, or symptom state is wrong, and existing pain, redness, swelling, locking, repetitive-friction pain, or acute injury changes the decision from general exercise advice to clinical assessment.
 
 ## What Changed
 - VOL.212 adds a joint-protection branch where strength is treated as movement infrastructure, not only appearance, sport performance, or longevity reserve.
 - VOL.127 adds postoperative quadriceps restoration and goal-matched dynamic assessment while preserving the boundary between muscular support and structural repair.
+- VOL.90 adds functional compensation, patellar and replacement rehabilitation, aging-related muscle loss, and the need to unload some painful inflammatory conditions before strengthening.
 
 ## Related Concepts
 - [[ExerciseLoadManagement]] - sets progression and recovery boundaries for strength work.

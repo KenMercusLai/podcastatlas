@@ -4,7 +4,8 @@ type: concept
 tags: [sports-medicine, knee, meniscus, cruciate-ligament, osteoarthritis]
 sources:
   - vol-127-zhe-xiang-keji-tigao-le-aoyun-chengji-jianshao-le-yundong-henhuo-shanghai-zan-putongren-ye-neng-yong-lai-zhuli-kangfu-ln2tg_vwgjzmmss49rn6nagis5p0
-last_updated: 2026-09-23
+  - vol-90-yundong-yixue-pengyou-ni-huaxue-ma-bugai-yao-chenzao-kemu-san-jinji-renqun-lvfameb1ztoxm5yx5e-ylsrekbsq
+last_updated: 2026-09-27
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,27 +19,32 @@ Knee stability injury cascade / 膝关节稳定性损伤链 is the episode's cli
 
 The synthesis is not that every meniscal finding starts an inevitable chain. Symptoms, morphology, injury mechanism, activity demands, muscle capacity, alignment, treatment, and rehabilitation all matter. Quadriceps weakness after disuse belongs in the same functional picture because muscular control helps stabilize the knee even though it cannot restore every damaged structure.
 
+[[vol-90-yundong-yixue-pengyou-ni-huaxue-ma-bugai-yao-chenzao-kemu-san-jinji-renqun-lvfameb1ztoxm5yx5e-ylsrekbsq]] strengthens the mechanism and time-course boundary. Sudden stopping, cutting, rotation, ski twisting, or forced range can injure cruciate, collateral, or meniscal structures; even when acute pain settles, unresolved instability may continue altering cartilage load. The episode also separates sound from diagnosis: clicking can reflect several mechanisms, and pain, swelling, locking, instability, examination, and soft-tissue imaging determine whether it belongs to an injury cascade.
+
 ## Key Claims
 - Menisci distribute load and protect articular surfaces, so damage can matter beyond immediate pain.
 - Rotational or cutting forces, anatomy such as a discoid meniscus, and activity demands can change injury risk and management decisions.
 - Cruciate-ligament injury can create instability that changes loading and may contribute to further damage or post-traumatic osteoarthritis.
 - Quadriceps atrophy after injury or surgery can reduce functional stability and should be addressed through appropriate rehabilitation.
 - Mechanical symptoms, pain, swelling, instability, and loss of function matter more clinically than an isolated label or sound.
-- Prevention and recovery combine technique, load management, strength, equipment where appropriate, and qualified assessment.
+- Prevention and recovery combine technique, warmup, load management, strength, equipment where appropriate, early protection after injury, and qualified assessment.
 
 ## Evidence
 - Meniscal role and morphology: [[vol-127-zhe-xiang-keji-tigao-le-aoyun-chengji-jianshao-le-yundong-henhuo-shanghai-zan-putongren-ye-neng-yong-lai-zhuli-kangfu-ln2tg_vwgjzmmss49rn6nagis5p0]] describes meniscal cushioning, rotational injury, and the higher vulnerability attributed to discoid morphology.
 - Instability pathway: [[vol-127-zhe-xiang-keji-tigao-le-aoyun-chengji-jianshao-le-yundong-henhuo-shanghai-zan-putongren-ye-neng-yong-lai-zhuli-kangfu-ln2tg_vwgjzmmss49rn6nagis5p0]] links anterior cruciate injury to knee instability and possible post-traumatic osteoarthritis.
 - Muscle contribution: [[vol-127-zhe-xiang-keji-tigao-le-aoyun-chengji-jianshao-le-yundong-henhuo-shanghai-zan-putongren-ye-neng-yong-lai-zhuli-kangfu-ln2tg_vwgjzmmss49rn6nagis5p0]] highlights postoperative quadriceps atrophy and strength as rehabilitation concerns.
 - Movement and equipment context: [[vol-127-zhe-xiang-keji-tigao-le-aoyun-chengji-jianshao-le-yundong-henhuo-shanghai-zan-putongren-ye-neng-yong-lai-zhuli-kangfu-ln2tg_vwgjzmmss49rn6nagis5p0]] discusses alignment, gait, braces, insoles, and individualized modeling as possible parts of risk or recovery assessment.
+- Injury mechanism and delayed loading: [[vol-90-yundong-yixue-pengyou-ni-huaxue-ma-bugai-yao-chenzao-kemu-san-jinji-renqun-lvfameb1ztoxm5yx5e-ylsrekbsq]] links cutting, twisting, sudden stops, and ligament insufficiency to altered stability and possible later cartilage wear.
+- Symptom interpretation: [[vol-90-yundong-yixue-pengyou-ni-huaxue-ma-bugai-yao-chenzao-kemu-san-jinji-renqun-lvfameb1ztoxm5yx5e-ylsrekbsq]] distinguishes X-ray-visible bone from intra-articular soft tissue and treats examination or MRI as context-dependent tools rather than reading a click alone as a diagnosis.
 
 ## Counterevidence & Qualifications
-The cascade is probabilistic, not inevitable. The episode does not supply incidence, prognosis, comparative treatment evidence, or criteria for surgery. Clicking can be benign, prophylactic reshaping is not presented as universally necessary, and no page-level synthesis can determine graft choice, brace use, return timing, or arthritis risk for an individual.
+The cascade is probabilistic, not inevitable. The sources do not supply incidence, prognosis, comparative treatment evidence, or general criteria for surgery. Clicking can be benign, muscle can compensate functionally without repairing torn tissue, and no page-level synthesis can determine imaging need, graft choice, brace use, return timing, or arthritis risk for an individual.
 
 ## What Changed
 - Added an integrated knee frame joining menisci, cruciate stability, cartilage loading, and quadriceps capacity.
 - Made the progression probabilistic and dependent on symptoms, anatomy, activity, treatment, and rehabilitation.
 - Connected the structural injury discussion to existing load, strength, and escalation boundaries.
+- Added cutting, skiing, symptom interpretation, secondary-injury prevention, and the distinction between muscular compensation and structural repair.
 
 ## Related Concepts
 - [[JointSymptomEscalation]] - distinguishes painless sounds from pain, swelling, locking, catching, and acute injury.

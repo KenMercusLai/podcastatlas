@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-27] ingest | VOL.90运动医学｜朋友你滑雪吗？补钙要趁早｜「科目三」禁忌人群
+
+Added source `vol-90-yundong-yixue-pengyou-ni-huaxue-ma-bugai-yao-chenzao-kemu-san-jinji-renqun-lvfameb1ztoxm5yx5e-ylsrekbsq`; created `ZhangWuhuaSportsMedicine` and `JointSupplementTreatmentBoundary`; and updated `MaHaoning`, `ExerciseLoadManagement`, `StrengthTrainingJointProtection`, `KneeStabilityInjuryCascade`, `AcuteSportsInjuryEscalation`, the canonical index, and overview from their complete bounded source sets. Core synthesis: sports safety depends on controlled range, warmup, protection, skill progression, and capacity; suspected acute injury should be protected from secondary damage before repeated testing; and muscle or supplements can support selected goals without proving structural repair. No settled contradiction found. Calcium-start ages, glucosamine benefit, shockwave treatment, joint-replacement timing, listener-case diagnoses, and prognosis remain source-scoped public education rather than individualized medical guidance. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
 ## [2026-09-27] ingest | Protocols to Access Creative Energy and Process | Rick Rubin
 
 Added source `protocols-to-access-creative-energy-and-process-rick-rubin-scim5595688842`; created `OutcomeIndependentCreativePractice` and `CreativeReceptivityAndIdeaCapture`; and updated `RickRubin`, `CreativityAsFeltProcess`, `CreativePhaseSeparation`, `ArtisticFeedbackBoundary`, the canonical index, and overview from their complete bounded source sets. Core synthesis: rigorous creative work need not be governed by approval or predicted outcome; diary-like honesty, revisable beliefs, captured fragments, phase-specific constraints, and medium-sensitive feedback boundaries protect and shape the work. No settled contradiction found. Rubin's breathing, HRV, light, diet, technology, dream, and unconscious-processing remarks remain personal or source-scoped, while live performance qualifies any simple rejection of audience evidence. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
@@ -23377,6 +23381,10 @@ Added source `how-sugar-processed-foods-impact-your-health-dr-robert-lustig-scim
 ## [2026-09-27] ingest | 400. Victorian Britain's Maddest Mystery
 
 Added source `400-victorian-britains-maddest-mystery-glt4466006716`; created `TichborneClaimant`, `ArthurOrton`, `AndrewBogle`, `EdwardKeneally`, `ZadieSmith`, `TheFraudZadieSmith`, `ClaimantPoliticsAndPublicSpectacle`, and `HistoricalFictionFactualConstraint`; and updated `ClaimantImpostorCrisisHandling` and the canonical index from the complete bounded source set. Core synthesis: Arthur Orton's implausible identity claim became politically durable because maternal recognition, Bogle's testimony, subscription funding, courtroom spectacle, dedicated media, and Keneally's organization let class grievance survive evidentiary collapse; Smith's adaptation preserves historical fact while using bounded invention to recover archival silences and colonial lives. No settled contradiction found. Bogle's motives, crowd and witness totals, reported dialogue, curse tradition, word-origin claim, and modern populism analogies remain unresolved or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-27] lint | Wiki health check
 

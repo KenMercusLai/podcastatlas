@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "j"
-wiki_total_pages: 8348
+wiki_total_pages: 8349
 wiki_pages:
   - key: "JankyMVP"
     title: "Janky MVP"
@@ -185,6 +185,9 @@ wiki_pages:
   - key: "JointEmbeddingPredictiveArchitecture"
     title: "Joint Embedding Predictive Architecture"
     url: "/wiki/concepts/jointembeddingpredictivearchitecture/"
+  - key: "JointSupplementTreatmentBoundary"
+    title: "Joint Supplement and Treatment Boundary / 关节补剂与治疗边界"
+    url: "/wiki/concepts/jointsupplementtreatmentboundary/"
   - key: "JointSymptomEscalation"
     title: "Joint Symptom Escalation / 关节症状升级边界"
     url: "/wiki/concepts/jointsymptomescalation/"

@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "0d400512be766cf6cb5705845c569738568557544604846dc1622097d52b41e8",
       "ff38ff2149c88ba8332e4a0444a48ebc7757430d2a4c9e21920ae07be179adf6",
       "caa500d3b49a06620daf7b604591dfb45482cc2db11d0df8640db4696ddeab6b",
       "4b2405414d02c41126368f3ebb97baf73835c2d95957adf63420261474ca1016",
@@ -757,11 +758,32 @@
       "1f02005c80ec3e7ac3f24acac820a9118d51d7e2de5614db5e13752add4f80b9",
       "60d22980877c9a07564718a1614f1e06e5947001e678ff946ba7dbbc77be1f31"
     ],
-    "paragraph_count": 755
+    "paragraph_count": 756
   },
-  "overview_commit": "487f73feab3d989bc5f6422df7e1b500be662a4a",
-  "overview_digest": "a8bf22dfad18b30c67108508b5fe8d217345200bbb0bc4952fb7d83880efad8e",
+  "overview_commit": "4c5bc31c540b6d890d7684957471dc516f2e78b7",
+  "overview_digest": "7ef68b5606477f7ffff28c89f41b339020395bb122c78f7d4b7828a95369f6a8",
   "paragraphs": [
+    {
+      "id": "0d400512be766cf6cb5705845c569738568557544604846dc1622097d52b41e8",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [],
+      "text": "The latest addition is [[vol-90-yundong-yixue-pengyou-ni-huaxue-ma-bugai-yao-chenzao-kemu-san-jinji-renqun-lvfameb1ztoxm5yx5e-ylsrekbsq|VOL.90运动医学｜朋友你滑雪吗？补钙要趁早｜「科目三」禁忌人群]], a [[ZheBingShuoLaiHuaChang|这病说来话长]] episode with [[MaHaoning|马浩宁]] and [[ZhangWuhuaSportsMedicine|张五花]] on winter falls, skiing, viral dance, and musculoskeletal listener questions. It adds [[ZhangWuhuaSportsMedicine|张五花]] and [[JointSupplementTreatmentBoundary]], while extending [[MaHaoning|马浩宁]], [[ExerciseLoadManagement]], [[StrengthTrainingJointProtection]], [[KneeStabilityInjuryCascade]], and [[AcuteSportsInjuryEscalation]]. Its core synthesis is that sport safety depends on controlled range, preparation, equipment, progression, and current capacity rather than the activity label alone; when injury occurs, preventing secondary damage and protecting function precede repeated self-testing, while muscle and supplements can support selected goals without proving structural repair. No settled contradiction is recorded; calcium ages, glucosamine effects, shockwave indications, procedure timing, listener-case diagnoses, and prognosis remain source-scoped public education rather than individualized medical guidance.",
+      "topic_scores": {
+        "science-health-and-climate": 2,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AcuteSportsInjuryEscalation",
+        "ExerciseLoadManagement",
+        "JointSupplementTreatmentBoundary",
+        "KneeStabilityInjuryCascade",
+        "MaHaoning",
+        "StrengthTrainingJointProtection",
+        "ZhangWuhuaSportsMedicine",
+        "ZheBingShuoLaiHuaChang",
+        "vol-90-yundong-yixue-pengyou-ni-huaxue-ma-bugai-yao-chenzao-kemu-san-jinji-renqun-lvfameb1ztoxm5yx5e-ylsrekbsq"
+      ]
+    },
     {
       "id": "ff38ff2149c88ba8332e4a0444a48ebc7757430d2a4c9e21920ae07be179adf6",
       "primary_topic": "history-and-geopolitics",

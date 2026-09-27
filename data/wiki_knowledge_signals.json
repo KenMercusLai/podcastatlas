@@ -4948,9 +4948,9 @@
       "url": "/wiki/concepts/acutepancreatitisemergencyescalation/"
     },
     "AcuteSportsInjuryEscalation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lneMOgQ8gB9o3E2835jvtFX3EMiy [lneMOgQ8gB9o3E2835jvtFX3EMiy].md",
@@ -4958,9 +4958,16 @@
           "show": "这病说来话长",
           "title": "VOL.222熬夜心跳狂飙是猝死前兆？AED会“电错”活人？带你避开致命常识｜世界急救日特辑",
           "url": "/wiki/sources/vol-222-aoye-xintiao-kuangbiao-shi-cusi-qianzhao-aed-hui-dian-cuo-huoren-dai-ni-bikai-zhiming-changshi-shijie-jijiu-ri-teji-lnemogq8gb9o3e2835jvtfx3emiy/"
+        },
+        {
+          "episode_file": "lvFAMEb1ZTOxM5yX5e-yLsreKbSQ [lvFAMEb1ZTOxM5yX5e-yLsreKbSQ].md",
+          "key": "vol-90-yundong-yixue-pengyou-ni-huaxue-ma-bugai-yao-chenzao-kemu-san-jinji-renqun-lvfameb1ztoxm5yx5e-ylsrekbsq",
+          "show": "这病说来话长",
+          "title": "VOL.90运动医学｜朋友你滑雪吗？补钙要趁早｜「科目三」禁忌人群",
+          "url": "/wiki/sources/vol-90-yundong-yixue-pengyou-ni-huaxue-ma-bugai-yao-chenzao-kemu-san-jinji-renqun-lvfameb1ztoxm5yx5e-ylsrekbsq/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/acutesportsinjuryescalation/"
     },
     "AcuteStressImmunePriming": {
@@ -47393,9 +47400,9 @@
       "url": "/wiki/concepts/exercisehydrationperformanceboundary/"
     },
     "ExerciseLoadManagement": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "lqtWr4m-9nPye9GIib1_OM-TYlMY [lqtWr4m-9nPye9GIib1_OM-TYlMY].md",
@@ -47424,9 +47431,16 @@
           "show": "这病说来话长",
           "title": "VOL.127这项科技提高了奥运成绩 减少了运动狠活伤害 咱普通人也能用来助力康复",
           "url": "/wiki/sources/vol-127-zhe-xiang-keji-tigao-le-aoyun-chengji-jianshao-le-yundong-henhuo-shanghai-zan-putongren-ye-neng-yong-lai-zhuli-kangfu-ln2tg_vwgjzmmss49rn6nagis5p0/"
+        },
+        {
+          "episode_file": "lvFAMEb1ZTOxM5yX5e-yLsreKbSQ [lvFAMEb1ZTOxM5yX5e-yLsreKbSQ].md",
+          "key": "vol-90-yundong-yixue-pengyou-ni-huaxue-ma-bugai-yao-chenzao-kemu-san-jinji-renqun-lvfameb1ztoxm5yx5e-ylsrekbsq",
+          "show": "这病说来话长",
+          "title": "VOL.90运动医学｜朋友你滑雪吗？补钙要趁早｜「科目三」禁忌人群",
+          "url": "/wiki/sources/vol-90-yundong-yixue-pengyou-ni-huaxue-ma-bugai-yao-chenzao-kemu-san-jinji-renqun-lvfameb1ztoxm5yx5e-ylsrekbsq/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/exerciseloadmanagement/"
     },
     "ExerciseMedicalAestheticBoundary": {
@@ -78851,6 +78865,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/entities/johnthefearless/"
     },
+    "JointSupplementTreatmentBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvFAMEb1ZTOxM5yX5e-yLsreKbSQ [lvFAMEb1ZTOxM5yX5e-yLsreKbSQ].md",
+          "key": "vol-90-yundong-yixue-pengyou-ni-huaxue-ma-bugai-yao-chenzao-kemu-san-jinji-renqun-lvfameb1ztoxm5yx5e-ylsrekbsq",
+          "show": "这病说来话长",
+          "title": "VOL.90运动医学｜朋友你滑雪吗？补钙要趁早｜「科目三」禁忌人群",
+          "url": "/wiki/sources/vol-90-yundong-yixue-pengyou-ni-huaxue-ma-bugai-yao-chenzao-kemu-san-jinji-renqun-lvfameb1ztoxm5yx5e-ylsrekbsq/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/jointsupplementtreatmentboundary/"
+    },
     "JointSymptomEscalation": {
       "episode_count": 1,
       "show_count": 1,
@@ -80913,9 +80943,9 @@
       "url": "/wiki/concepts/kleosheroicglory/"
     },
     "KneeStabilityInjuryCascade": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ln2TG_VWGjZMMSS49Rn6NAgIS5p0 [ln2TG_VWGjZMMSS49Rn6NAgIS5p0].md",
@@ -80923,9 +80953,16 @@
           "show": "这病说来话长",
           "title": "VOL.127这项科技提高了奥运成绩 减少了运动狠活伤害 咱普通人也能用来助力康复",
           "url": "/wiki/sources/vol-127-zhe-xiang-keji-tigao-le-aoyun-chengji-jianshao-le-yundong-henhuo-shanghai-zan-putongren-ye-neng-yong-lai-zhuli-kangfu-ln2tg_vwgjzmmss49rn6nagis5p0/"
+        },
+        {
+          "episode_file": "lvFAMEb1ZTOxM5yX5e-yLsreKbSQ [lvFAMEb1ZTOxM5yX5e-yLsreKbSQ].md",
+          "key": "vol-90-yundong-yixue-pengyou-ni-huaxue-ma-bugai-yao-chenzao-kemu-san-jinji-renqun-lvfameb1ztoxm5yx5e-ylsrekbsq",
+          "show": "这病说来话长",
+          "title": "VOL.90运动医学｜朋友你滑雪吗？补钙要趁早｜「科目三」禁忌人群",
+          "url": "/wiki/sources/vol-90-yundong-yixue-pengyou-ni-huaxue-ma-bugai-yao-chenzao-kemu-san-jinji-renqun-lvfameb1ztoxm5yx5e-ylsrekbsq/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/kneestabilityinjurycascade/"
     },
     "KnowingEnough": {
@@ -93837,9 +93874,9 @@
       "url": "/wiki/entities/magongwesternhan/"
     },
     "MaHaoning": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "lkVJQ45DUKdjpesxikWEC0Zrglmg [lkVJQ45DUKdjpesxikWEC0Zrglmg].md",
@@ -93875,9 +93912,16 @@
           "show": "这病说来话长",
           "title": "VOL.123医生，我这脖子疼和腰疼还有救吗？😭",
           "url": "/wiki/sources/vol-123-yisheng-wo-zhe-bozi-teng-he-yaoteng-haiyou-jiu-ma-lpqft6dbvu0yyo90rc0c-1wyrgy2/"
+        },
+        {
+          "episode_file": "lvFAMEb1ZTOxM5yX5e-yLsreKbSQ [lvFAMEb1ZTOxM5yX5e-yLsreKbSQ].md",
+          "key": "vol-90-yundong-yixue-pengyou-ni-huaxue-ma-bugai-yao-chenzao-kemu-san-jinji-renqun-lvfameb1ztoxm5yx5e-ylsrekbsq",
+          "show": "这病说来话长",
+          "title": "VOL.90运动医学｜朋友你滑雪吗？补钙要趁早｜「科目三」禁忌人群",
+          "url": "/wiki/sources/vol-90-yundong-yixue-pengyou-ni-huaxue-ma-bugai-yao-chenzao-kemu-san-jinji-renqun-lvfameb1ztoxm5yx5e-ylsrekbsq/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-09-27",
       "url": "/wiki/entities/mahaoning/"
     },
     "MaHeluoWesternHan": {
@@ -137545,9 +137589,9 @@
       "url": "/wiki/concepts/strengthhypertrophyprogramming/"
     },
     "StrengthTrainingJointProtection": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lqtWr4m-9nPye9GIib1_OM-TYlMY [lqtWr4m-9nPye9GIib1_OM-TYlMY].md",
@@ -137562,9 +137606,16 @@
           "show": "这病说来话长",
           "title": "VOL.127这项科技提高了奥运成绩 减少了运动狠活伤害 咱普通人也能用来助力康复",
           "url": "/wiki/sources/vol-127-zhe-xiang-keji-tigao-le-aoyun-chengji-jianshao-le-yundong-henhuo-shanghai-zan-putongren-ye-neng-yong-lai-zhuli-kangfu-ln2tg_vwgjzmmss49rn6nagis5p0/"
+        },
+        {
+          "episode_file": "lvFAMEb1ZTOxM5yX5e-yLsreKbSQ [lvFAMEb1ZTOxM5yX5e-yLsreKbSQ].md",
+          "key": "vol-90-yundong-yixue-pengyou-ni-huaxue-ma-bugai-yao-chenzao-kemu-san-jinji-renqun-lvfameb1ztoxm5yx5e-ylsrekbsq",
+          "show": "这病说来话长",
+          "title": "VOL.90运动医学｜朋友你滑雪吗？补钙要趁早｜「科目三」禁忌人群",
+          "url": "/wiki/sources/vol-90-yundong-yixue-pengyou-ni-huaxue-ma-bugai-yao-chenzao-kemu-san-jinji-renqun-lvfameb1ztoxm5yx5e-ylsrekbsq/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/strengthtrainingjointprotection/"
     },
     "StressBiologicalAging": {
@@ -165286,6 +165337,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/entities/zhangtangwesternhan/"
+    },
+    "ZhangWuhuaSportsMedicine": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvFAMEb1ZTOxM5yX5e-yLsreKbSQ [lvFAMEb1ZTOxM5yX5e-yLsreKbSQ].md",
+          "key": "vol-90-yundong-yixue-pengyou-ni-huaxue-ma-bugai-yao-chenzao-kemu-san-jinji-renqun-lvfameb1ztoxm5yx5e-ylsrekbsq",
+          "show": "这病说来话长",
+          "title": "VOL.90运动医学｜朋友你滑雪吗？补钙要趁早｜「科目三」禁忌人群",
+          "url": "/wiki/sources/vol-90-yundong-yixue-pengyou-ni-huaxue-ma-bugai-yao-chenzao-kemu-san-jinji-renqun-lvfameb1ztoxm5yx5e-ylsrekbsq/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/zhangwuhuasportsmedicine/"
     },
     "ZhangXianzhong": {
       "episode_count": 1,

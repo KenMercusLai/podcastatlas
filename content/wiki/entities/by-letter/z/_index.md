@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 10953
+wiki_total_pages: 10954
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -635,6 +635,9 @@ wiki_pages:
   - key: "ZhangWuchang"
     title: "张五常"
     url: "/wiki/entities/zhangwuchang/"
+  - key: "ZhangWuhuaSportsMedicine"
+    title: "张五花 / Zhang Wuhua (sports medicine doctor)"
+    url: "/wiki/entities/zhangwuhuasportsmedicine/"
   - key: "ZhangCongzhi"
     title: "张从志 / Zhang Congzhi"
     url: "/wiki/entities/zhangcongzhi/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.90运动医学｜朋友你滑雪吗？补钙要趁早｜「科目三」禁忌人群](sources/vol-90-yundong-yixue-pengyou-ni-huaxue-ma-bugai-yao-chenzao-kemu-san-jinji-renqun-lvfameb1ztoxm5yx5e-ylsrekbsq.md) — 这病说来话长 episode with 马浩宁 and 张五花 on winter sport, knee and ankle stability, acute-injury response, strength-based rehabilitation, and supplement-versus-treatment boundaries.
 - [How Sugar & Processed Foods Impact Your Health | Dr. Robert Lustig](sources/how-sugar-processed-foods-impact-your-health-dr-robert-lustig-scim6504027968.md) — Huberman Lab interview on food structure, sugar, metabolic capacity, ultra-processed food, appetite signaling, food-system responsibility, and clinically bounded GLP-1 tradeoffs.
 - [400. Victorian Britain's Maddest Mystery](sources/400-victorian-britains-maddest-mystery-glt4466006716.md) — The Rest Is History conversation on the Tichborne Claimant, Andrew Bogle, Victorian class politics, courtroom spectacle, populist media, and evidence-bounded historical fiction.
 - [401. Windrush: The Story of Black Britain](sources/401-windrush-the-story-of-black-britain-glt4826407019.md) — The Rest Is History episode on migrant agency, gradual Caribbean British settlement, imperial citizenship, identity, and Windrush as a powerful but bounded national memory.
@@ -2946,6 +2947,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Prevent & Treat Colds & Flu](sources/how-to-prevent-treat-colds-flu-scim6817932732.md) — Huberman Lab solo episode on respiratory-virus transmission, layered immune defense, sleep and training load, heat boundaries, and supplement evidence.
 
 ## Entities
+- [张五花 / Zhang Wuhua (sports medicine doctor)](entities/ZhangWuhuaSportsMedicine.md) — Orthopedic joint and sports-medicine guest explaining stability injuries, acute response, rehabilitation, and consumer-health boundaries.
 - [Tichborne Claimant](entities/TichborneClaimant.md) — Victorian inheritance imposture whose weak identity evidence became a durable legal, media, and populist cause.
 - [Arthur Orton](entities/ArthurOrton.md) — Working-class butcher identified as the claimant who unsuccessfully presented himself as Roger Tichborne.
 - [Andrew Bogle](entities/AndrewBogle.md) — Formerly enslaved Jamaican servant and migrant whose support became the claimant's most consequential testimony.
@@ -13914,6 +13916,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kay Tye](entities/KayTye.md) — Neuroscientist connecting emotional-valence circuits to loneliness, social homeostasis, hierarchy, and sustainable scientific leadership.
 
 ## Concepts
+- [Joint Supplement and Treatment Boundary / 关节补剂与治疗边界](concepts/JointSupplementTreatmentBoundary.md) — Distinguishes nutritional or symptom support from claims to diagnose, regenerate, or treat damaged joints, cartilage, and bone.
 - [Claimant Politics and Public Spectacle](concepts/ClaimantPoliticsAndPublicSpectacle.md) — Process by which media, funding, courtroom entertainment, grievance, and organization make a weak identity claim politically durable.
 - [Historical Fiction Factual Constraint](concepts/HistoricalFictionFactualConstraint.md) — Method preserving documented events while locating invention in viewpoint, selection, interiority, and bounded extension.
 - [Food-System Nutrition Responsibility](concepts/FoodSystemNutritionResponsibility.md) — Shared-responsibility frame connecting dietary agency to knowledge, access, affordability, product design, institutional defaults, and external costs.

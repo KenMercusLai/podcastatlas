@@ -4,15 +4,15 @@ generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
 last_updated: 2026-09-27
-as_of_overview_commit: dc5153b7c396cd11491967cdaf24d3a7d46d8fa0
-input_digest: 8abdf34014ba0eab7b2ffc6696961ce799ff877c72f18108bae7c0ac5b73da4b
+as_of_overview_commit: 4c5bc31c540b6d890d7684957471dc516f2e78b7
+input_digest: ec756c0ccc5585414082f601a75c7d9e2be6d17f21b46856967e1544998d70f0
 ---
 
 # Science, Health, and Climate
 
 ## Current State
 
-Science, health, and climate sources consistently separate public literacy from individualized care: mechanisms, measurements, urgent escalation, qualified treatment, environmental context, and uncertainty matter more than labels or cure claims. The topic spans social neuroscience, sleep and mental health, chronic and acute care, metabolism and nutrition, exercise and sensory health, disability and animal welfare, climate adaptation, and science governance; interventions remain population-, comparator-, dose-, timing-, endpoint-, goal-, and supervision-dependent. Digestive comfort and food familiarity do not establish disease treatment, just as expectation effects can change symptoms without proving restored function; end-of-life and intensive-care decisions depend on reversibility and stated wishes, elite performance does not establish psychological safety, and social need depends on state, history, contact quality, and translation boundaries. The newest fitness-and-self-regulation branch adds that health tools should support adaptable function through safe effort, day-night light contrast, mixed physical capacity, trend-based tracking, and proportionate follow-up rather than one score, scan, or protocol; exact neuroscience, light, sleep-score, training, and screening claims remain source-scoped. Respiratory illness likewise reflects exposure, entry routes, physical barriers, innate response, adaptive memory, and recovery state, so layered prevention, sleep, manageable exercise, and rest during systemic malaise remain more foundational than supplements, deliberate heat, or microbiome hypotheses. The Rick Rubin Q&A adds a nonclinical boundary: its creative methods are practitioner guidance, and its breathing, HRV, light, diet, dream, and unconscious-processing remarks do not become universal health protocols.
+Science, health, and climate sources consistently separate public literacy from individualized care: mechanisms, measurements, urgent escalation, qualified treatment, environmental context, and uncertainty matter more than labels or cure claims. The topic spans social neuroscience, sleep and mental health, chronic and acute care, metabolism and nutrition, exercise and sensory health, disability and animal welfare, climate adaptation, and science governance; interventions remain population-, comparator-, dose-, timing-, endpoint-, goal-, and supervision-dependent. Digestive comfort and food familiarity do not establish disease treatment, just as expectation effects can change symptoms without proving restored function; end-of-life and intensive-care decisions depend on reversibility and stated wishes, elite performance does not establish psychological safety, and social need depends on state, history, contact quality, and translation boundaries. Exercise safety likewise depends on controlled range, preparation, equipment, progression, and current capacity; suspected injury should be protected from secondary damage before repeated testing, while strength and supplements can support selected goals without proving structural repair. Health tools should support adaptable function through safe effort, day-night light contrast, mixed physical capacity, trend-based tracking, and proportionate follow-up rather than one score, scan, or protocol. Respiratory illness reflects exposure, entry routes, physical barriers, innate response, adaptive memory, and recovery state, so layered prevention, sleep, manageable exercise, and rest during systemic malaise remain more foundational than supplements, deliberate heat, or microbiome hypotheses. Creative routines, breathing, HRV, light, diet, dream, and unconscious-processing remarks remain practitioner guidance or source-scoped rather than universal health protocols.
 
 ## Cross-source Findings
 
@@ -918,3 +918,15 @@ Collagen and probiotics increasingly appear in cosmetics, snacks, drinks, and mi
 
 - The overview paragraph does not provide systematic evidence for breathing, HRV, light, diet, dream, or unconscious-processing effects.
 - Personal routines can support one practitioner without generalizing as medical, sleep, or creativity prescriptions.
+
+### Sports Safety Needs Capacity Secondary Injury And Treatment Boundaries
+
+[[vol-90-yundong-yixue-pengyou-ni-huaxue-ma-bugai-yao-chenzao-kemu-san-jinji-renqun-lvfameb1ztoxm5yx5e-ylsrekbsq|VOL.90]] adds a sports-medicine boundary: [[ExerciseLoadManagement]] and [[StrengthTrainingJointProtection]] connect controlled range, warmup, equipment, progression, and muscle capacity to participation; [[KneeStabilityInjuryCascade]] and [[AcuteSportsInjuryEscalation]] keep structural injury, secondary-damage prevention, and timely assessment visible; and [[JointSupplementTreatmentBoundary]] separates nutritional support from claims to regenerate or treat damaged tissue.
+
+**Evidence:** [[vol-90-yundong-yixue-pengyou-ni-huaxue-ma-bugai-yao-chenzao-kemu-san-jinji-renqun-lvfameb1ztoxm5yx5e-ylsrekbsq]], [[ExerciseLoadManagement]], [[StrengthTrainingJointProtection]], [[KneeStabilityInjuryCascade]], [[AcuteSportsInjuryEscalation]], [[JointSupplementTreatmentBoundary]], [[MaHaoning]], [[ZhangWuhuaSportsMedicine]], [[ZheBingShuoLaiHuaChang]]
+
+**Qualifications:**
+
+- The episode is public sports-medicine education based partly on remote listener questions, not individualized diagnosis, imaging interpretation, rehabilitation, supplement, medication, or surgical guidance.
+- Calcium-start ages, glucosamine benefit, shockwave indications, cartilage claims, bilateral knee-replacement timing, and prognosis remain source-scoped because comparative evidence and full clinical context are absent.
+- Immobilization is a conservative secondary-injury precaution, not permission to manipulate or reduce an injured joint, and urgent symptoms still require trained help.
