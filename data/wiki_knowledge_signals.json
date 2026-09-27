@@ -75261,9 +75261,9 @@
       "url": "/wiki/entities/huangxianglatehan/"
     },
     "HuangXinlvDermatologist": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lreU9n7fVKwgOtIEWa2yENhur4DP [lreU9n7fVKwgOtIEWa2yENhur4DP].md",
@@ -75278,6 +75278,13 @@
           "show": "这病说来话长",
           "title": "VOL.61皮肤科｜你被这些护肤词汇营销了吗？三甲医生揭保湿补水控油去角质的秘密",
           "url": "/wiki/sources/vol-61-pifuke-ni-bei-zhexie-hufu-cihui-yingxiao-le-ma-sanjia-yisheng-jie-baoshi-bushui-kongyou-qujiaozhi-de-mimi-ljdsdo6iw9zyvt4olcfnq6bnix2j/"
+        },
+        {
+          "episode_file": "lipGBUF1-3IUFdQlho6y7L6HXD8c [lipGBUF1-3IUFdQlho6y7L6HXD8c].md",
+          "key": "vol-60-pifuke-bupa-shaihei-jiu-bu-fangshai-le-qingdu-shaishang-chulifa-heisesuliu-panduanfa-lipgbuf1-3iufdq-lho6y7l6hxd8c",
+          "show": "这病说来话长",
+          "title": "VOL.60皮肤科｜不怕晒黑就不防晒了？轻度晒伤处理法｜黑色素瘤判断法",
+          "url": "/wiki/sources/vol-60-pifuke-bupa-shaihei-jiu-bu-fangshai-le-qingdu-shaishang-chulifa-heisesuliu-panduanfa-lipgbuf1-3iufdq-lho6y7l6hxd8c/"
         }
       ],
       "updated": "2026-09-28",
@@ -121558,6 +121565,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/piggylordoftheflies/"
     },
+    "PigmentedLesionMelanomaTriage": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lipGBUF1-3IUFdQlho6y7L6HXD8c [lipGBUF1-3IUFdQlho6y7L6HXD8c].md",
+          "key": "vol-60-pifuke-bupa-shaihei-jiu-bu-fangshai-le-qingdu-shaishang-chulifa-heisesuliu-panduanfa-lipgbuf1-3iufdq-lho6y7l6hxd8c",
+          "show": "这病说来话长",
+          "title": "VOL.60皮肤科｜不怕晒黑就不防晒了？轻度晒伤处理法｜黑色素瘤判断法",
+          "url": "/wiki/sources/vol-60-pifuke-bupa-shaihei-jiu-bu-fangshai-le-qingdu-shaishang-chulifa-heisesuliu-panduanfa-lipgbuf1-3iufdq-lho6y7l6hxd8c/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/pigmentedlesionmelanomatriage/"
+    },
     "PilgrimageAsSocialReconnection": {
       "episode_count": 1,
       "show_count": 1,
@@ -149734,6 +149757,22 @@
       "updated": "2026-09-25",
       "url": "/wiki/entities/sunzhijuncardiology/"
     },
+    "SunburnAssessmentAndFirstAid": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lipGBUF1-3IUFdQlho6y7L6HXD8c [lipGBUF1-3IUFdQlho6y7L6HXD8c].md",
+          "key": "vol-60-pifuke-bupa-shaihei-jiu-bu-fangshai-le-qingdu-shaishang-chulifa-heisesuliu-panduanfa-lipgbuf1-3iufdq-lho6y7l6hxd8c",
+          "show": "这病说来话长",
+          "title": "VOL.60皮肤科｜不怕晒黑就不防晒了？轻度晒伤处理法｜黑色素瘤判断法",
+          "url": "/wiki/sources/vol-60-pifuke-bupa-shaihei-jiu-bu-fangshai-le-qingdu-shaishang-chulifa-heisesuliu-panduanfa-lipgbuf1-3iufdq-lho6y7l6hxd8c/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/sunburnassessmentandfirstaid/"
+    },
     "SunkCostEntrapment": {
       "episode_count": 1,
       "show_count": 1,
@@ -156280,6 +156319,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/topdownexemplargovernance/"
     },
+    "TopicalCorticosteroidUseBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lipGBUF1-3IUFdQlho6y7L6HXD8c [lipGBUF1-3IUFdQlho6y7L6HXD8c].md",
+          "key": "vol-60-pifuke-bupa-shaihei-jiu-bu-fangshai-le-qingdu-shaishang-chulifa-heisesuliu-panduanfa-lipgbuf1-3iufdq-lho6y7l6hxd8c",
+          "show": "这病说来话长",
+          "title": "VOL.60皮肤科｜不怕晒黑就不防晒了？轻度晒伤处理法｜黑色素瘤判断法",
+          "url": "/wiki/sources/vol-60-pifuke-bupa-shaihei-jiu-bu-fangshai-le-qingdu-shaishang-chulifa-heisesuliu-panduanfa-lipgbuf1-3iufdq-lho6y7l6hxd8c/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/topicalcorticosteroiduseboundary/"
+    },
     "ToshibaMachine": {
       "episode_count": 1,
       "show_count": 1,
@@ -158111,9 +158166,9 @@
       "url": "/wiki/entities/usimmigrationandcustomsenforcement/"
     },
     "UVExposureSkinProtection": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM2145176738 [SCIM2145176738].md",
@@ -158142,9 +158197,16 @@
           "show": "这病说来话长",
           "title": "VOL.61皮肤科｜你被这些护肤词汇营销了吗？三甲医生揭保湿补水控油去角质的秘密",
           "url": "/wiki/sources/vol-61-pifuke-ni-bei-zhexie-hufu-cihui-yingxiao-le-ma-sanjia-yisheng-jie-baoshi-bushui-kongyou-qujiaozhi-de-mimi-ljdsdo6iw9zyvt4olcfnq6bnix2j/"
+        },
+        {
+          "episode_file": "lipGBUF1-3IUFdQlho6y7L6HXD8c [lipGBUF1-3IUFdQlho6y7L6HXD8c].md",
+          "key": "vol-60-pifuke-bupa-shaihei-jiu-bu-fangshai-le-qingdu-shaishang-chulifa-heisesuliu-panduanfa-lipgbuf1-3iufdq-lho6y7l6hxd8c",
+          "show": "这病说来话长",
+          "title": "VOL.60皮肤科｜不怕晒黑就不防晒了？轻度晒伤处理法｜黑色素瘤判断法",
+          "url": "/wiki/sources/vol-60-pifuke-bupa-shaihei-jiu-bu-fangshai-le-qingdu-shaishang-chulifa-heisesuliu-panduanfa-lipgbuf1-3iufdq-lho6y7l6hxd8c/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/uvexposureskinprotection/"
     },
     "UXCoffee": {

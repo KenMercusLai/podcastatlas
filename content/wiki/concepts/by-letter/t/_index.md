@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 8552
+wiki_total_pages: 8555
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -581,6 +581,9 @@ wiki_pages:
   - key: "TopModelBuildRuntimeSplit"
     title: "Top Model Build Runtime Split"
     url: "/wiki/concepts/topmodelbuildruntimesplit/"
+  - key: "TopicalCorticosteroidUseBoundary"
+    title: "Topical Corticosteroid Use Boundary / 外用糖皮质激素使用边界"
+    url: "/wiki/concepts/topicalcorticosteroiduseboundary/"
   - key: "TotalAttentionPractice"
     title: "Total Attention Practice / 全然注意力"
     url: "/wiki/concepts/totalattentionpractice/"

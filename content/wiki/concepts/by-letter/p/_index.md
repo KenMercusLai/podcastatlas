@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8552
+wiki_total_pages: 8555
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -698,6 +698,9 @@ wiki_pages:
   - key: "PigButcheringScam"
     title: "Pig Butchering Scam"
     url: "/wiki/concepts/pigbutcheringscam/"
+  - key: "PigmentedLesionMelanomaTriage"
+    title: "Pigmented Lesion and Melanoma Triage / 色素痣与黑色素瘤分诊"
+    url: "/wiki/concepts/pigmentedlesionmelanomatriage/"
   - key: "PilgrimageAsSocialReconnection"
     title: "Pilgrimage as Social Reconnection"
     url: "/wiki/concepts/pilgrimageassocialreconnection/"

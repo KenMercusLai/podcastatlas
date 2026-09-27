@@ -23933,6 +23933,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-28] ingest | VOL.60皮肤科｜不怕晒黑就不防晒了？轻度晒伤处理法｜黑色素瘤判断法
+
+Added source `vol-60-pifuke-bupa-shaihei-jiu-bu-fangshai-le-qingdu-shaishang-chulifa-heisesuliu-panduanfa-lipgbuf1-3iufdq-lho6y7l6hxd8c`; created `SunburnAssessmentAndFirstAid`, `PigmentedLesionMelanomaTriage`, and `TopicalCorticosteroidUseBoundary`; and updated `HuangXinlvDermatologist`, `UVExposureSkinProtection`, and the canonical index from their complete bounded source sets. Core synthesis: ultraviolet protection should scale with exposure duration, intensity, activity, coverage, sweat, water, and location; mild sunburn begins with exposure removal and gentle cooling while blistering, erosion, or systemic symptoms require escalation; ABCDE and acral location are examination prompts rather than melanoma diagnoses; and short clinician-directed topical corticosteroid treatment is distinct from both blanket steroid fear and prolonged self-use. No settled contradiction was adopted. SPF, reapplication, cleansing, lesion thresholds, treatment products, potency, dosing, and duration remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-28] ingest | AI 时代，我们到底该学什么？｜对谈于红：三种不会过时的能力
 
 Added source `ai-shidai-women-daodi-gai-xue-shenme-duitan-yuhong-sanzhong-buhui-guoshi-de-nengli-lkcmj80qyw-uduhijfxudufqboaf`; created `YuHong`, `TuDongdong`, `SocialEmotionalLearning`, `EmotionAcceptanceSignalAction`, `ReflectiveChoiceFormation`, and `IntellectualHonestyFeedbackLoop`; and updated `NonAlgorithmicCapabilities` plus the canonical index from its complete bounded source set. Core synthesis: when AI lowers knowledge and execution costs, durable capability shifts toward social-emotional learning, self-knowledge built through experience, openness to other people and evidence, state-aware choice, and a positive orientation that does not deny difficult emotion. No settled contradiction is adopted. Happiness percentages, neural-pathway effects, school value-add, university credential decline, and AI-driven learning-time claims remain source-scoped; the automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -24231,6 +24235,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-28] ingest | 353: Paris 1968: The Students' Revolt (Part 1)
 
 Added source `353-paris-1968-the-students-revolt-part-1-glt6124707164`; created `DanielCohnBendit`, `GeorgesPompidou`, `ProtestEscalationLoop`, and `StudentWorkerCoalitionLimits`; and updated `May1968France`, `CharlesDeGaulle`, `MichelFoucault`, `PoliticalDefeatCulturalAfterlife`, and the canonical index from their complete bounded source sets. Core synthesis: university expansion and hierarchy, administrative closure, police violence, revolutionary theater, and media transmission turned bounded campus grievances into a national crisis, while the worker strike wave greatly increased leverage without creating a unified student-worker program. No settled contradiction was adopted. Participant totals, workforce proportions, remembered dialogue, motives, slogan attribution, and the causal weight of policing, media, or philosophy remain narrative or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-28] lint | Wiki health check
 

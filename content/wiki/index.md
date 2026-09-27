@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.60皮肤科｜不怕晒黑就不防晒了？轻度晒伤处理法｜黑色素瘤判断法](sources/vol-60-pifuke-bupa-shaihei-jiu-bu-fangshai-le-qingdu-shaishang-chulifa-heisesuliu-panduanfa-lipgbuf1-3iufdq-lho6y7l6hxd8c.md) — 这病说来话长 episode on scenario-based UV protection, sunburn escalation, melanoma warning features, and topical-corticosteroid boundaries.
 - [How to Shape Your Identity & Goals | Dr. Maya Shankar](sources/how-to-shape-your-identity-goals-dr-maya-shankar-scim1420437673.md) — Huberman Lab interview on purpose-anchored identity, change, cognitive-advisory feedback, differentiated empathy, and adaptable goal design.
 - [VOL.61皮肤科｜你被这些护肤词汇营销了吗？三甲医生揭保湿补水控油去角质的秘密](sources/vol-61-pifuke-ni-bei-zhexie-hufu-cihui-yingxiao-le-ma-sanjia-yisheng-jie-baoshi-bushui-kongyou-qujiaozhi-de-mimi-ljdsdo6iw9zyvt4olcfnq6bnix2j.md) — 这病说来话长 Q&A on barrier-first skin care, UV protection, acne and scarring, cosmetic-marketing limits, and clinician-guided treatment.
 - [VOL.62皮肤科｜到底哪些情况最易脱发、白发、伤发？帮你避坑这些智商税](sources/vol-62-pifuke-daodi-naxie-qingkuang-zui-yi-tuofa-baifa-shangfa-bang-ni-bikeng-zhexie-zhishangshui-lreu9n7fvkwgotiewa2yenhur4dp.md) — 这病说来话长 episode on hair-loss triage, follicle-cycle treatment expectations, scalp-care limits, gray hair, dyeing, and transplantation.
@@ -3061,7 +3062,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Harnessing Passion, Drive & Persistence for Lifelong Success | Tony Hawk](sources/harnessing-passion-drive-persistence-for-lifelong-success-tony-hawk-scim8571002701.md) — Huberman Lab conversation on skateboarding mastery, intrinsic progression, injury-recovery adherence, entrepreneurship, family, and public skateparks.
 
 ## Entities
-- [黄心律 / Huang Xinlü (dermatologist)](entities/HuangXinlvDermatologist.md) — Dermatologist explaining barrier-first skin care, inflammatory-condition escalation, hair-loss differentiation, and treatment-marketing boundaries.
+- [黄心律 / Huang Xinlü (dermatologist)](entities/HuangXinlvDermatologist.md) — Dermatologist explaining scenario-based UV protection, lesion and sunburn triage, barrier-first skin care, hair-loss differentiation, and treatment boundaries.
 - [Daniel Cohn-Bendit](entities/DanielCohnBendit.md) — Libertarian Nanterre activist and visible student spokesman whose prominence did not make May 1968 a unified movement.
 - [Georges Pompidou](entities/GeorgesPompidou.md) — French prime minister connecting early conciliation during May 1968 to the later electoral exit through parliamentary dissolution.
 - [Charles de Gaulle](entities/CharlesDeGaulle.md) — French president who underestimated May 1968 before recovering authority through army reassurance, dissolution, radio, and elections.
@@ -14225,6 +14226,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Skatepark Project](entities/TheSkateparkProject.md) — Nonprofit supporting public skateparks as access, practice, and youth-community infrastructure.
 
 ## Concepts
+- [Sunburn Assessment and First Aid / 晒伤评估与处理](concepts/SunburnAssessmentAndFirstAid.md) — Severity-based distinction between mild UV-injury care and blistering, erosive, extensive, or systemic escalation.
+- [Pigmented Lesion and Melanoma Triage / 色素痣与黑色素瘤分诊](concepts/PigmentedLesionMelanomaTriage.md) — ABCDE, evolution, acral-location, and examination framework that avoids treating a warning checklist as diagnosis.
+- [Topical Corticosteroid Use Boundary / 外用糖皮质激素使用边界](concepts/TopicalCorticosteroidUseBoundary.md) — Route-, potency-, site-, indication-, and duration-specific boundary between appropriate external treatment and unsafe self-use.
 - [Purpose-Anchored Identity](concepts/PurposeAnchoredIdentity.md) — Identity frame that preserves durable motives across role loss and change without denying grief or constraint.
 - [Cognitive-Advisory Feedback](concepts/CognitiveAdvisoryFeedback.md) — Challenge-oriented feedback practice that tests interpretations while preserving agency and safety boundaries.
 - [Empathy-Mode Differentiation](concepts/EmpathyModeDifferentiation.md) — Distinction among emotional sharing, cognitive perspective-taking, and empathic concern.
