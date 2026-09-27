@@ -8412,6 +8412,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/entities/andreaskarlstadt/"
     },
+    "AndrewBogle": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4466006716 [GLT4466006716].md",
+          "key": "400-victorian-britains-maddest-mystery-glt4466006716",
+          "show": "The Rest Is History",
+          "title": "400. Victorian Britain's Maddest Mystery",
+          "url": "/wiki/sources/400-victorian-britains-maddest-mystery-glt4466006716/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/andrewbogle/"
+    },
     "AndrewHuberman": {
       "episode_count": 49,
       "show_count": 1,
@@ -10954,6 +10970,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/arthurconandoyle/"
+    },
+    "ArthurOrton": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4466006716 [GLT4466006716].md",
+          "key": "400-victorian-britains-maddest-mystery-glt4466006716",
+          "show": "The Rest Is History",
+          "title": "400. Victorian Britain's Maddest Mystery",
+          "url": "/wiki/sources/400-victorian-britains-maddest-mystery-glt4466006716/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/arthurorton/"
     },
     "ArthurSeyssInquart": {
       "episode_count": 1,
@@ -26839,9 +26871,9 @@
       "url": "/wiki/concepts/cixihomeappliancecluster/"
     },
     "ClaimantImpostorCrisisHandling": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》396-2｜汉武帝之子，刘据“巫蛊之案”后复活了？ [lhJ6DzJSiKKMbbcJlfGnz1bBOK-1].md",
@@ -26849,10 +26881,33 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》396-2｜汉武帝之子，刘据“巫蛊之案”后复活了？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-396-2-hanwudi-zhizi-liuju-wugu-zhi-an-hou-fuhuo-le-lhj6dzjsikkmbbcjlfgnz1bbok-1/"
+        },
+        {
+          "episode_file": "GLT4466006716 [GLT4466006716].md",
+          "key": "400-victorian-britains-maddest-mystery-glt4466006716",
+          "show": "The Rest Is History",
+          "title": "400. Victorian Britain's Maddest Mystery",
+          "url": "/wiki/sources/400-victorian-britains-maddest-mystery-glt4466006716/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/claimantimpostorcrisishandling/"
+    },
+    "ClaimantPoliticsAndPublicSpectacle": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4466006716 [GLT4466006716].md",
+          "key": "400-victorian-britains-maddest-mystery-glt4466006716",
+          "show": "The Rest Is History",
+          "title": "400. Victorian Britain's Maddest Mystery",
+          "url": "/wiki/sources/400-victorian-britains-maddest-mystery-glt4466006716/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/claimantpoliticsandpublicspectacle/"
     },
     "Claimy": {
       "episode_count": 1,
@@ -41974,6 +42029,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/entities/edwardkelley/"
+    },
+    "EdwardKeneally": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4466006716 [GLT4466006716].md",
+          "key": "400-victorian-britains-maddest-mystery-glt4466006716",
+          "show": "The Rest Is History",
+          "title": "400. Victorian Britain's Maddest Mystery",
+          "url": "/wiki/sources/400-victorian-britains-maddest-mystery-glt4466006716/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/edwardkeneally/"
     },
     "EdwardSaid": {
       "episode_count": 1,
@@ -66919,6 +66990,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/historicalfemalerolemodelcaution/"
+    },
+    "HistoricalFictionFactualConstraint": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4466006716 [GLT4466006716].md",
+          "key": "400-victorian-britains-maddest-mystery-glt4466006716",
+          "show": "The Rest Is History",
+          "title": "400. Victorian Britain's Maddest Mystery",
+          "url": "/wiki/sources/400-victorian-britains-maddest-mystery-glt4466006716/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/historicalfictionfactualconstraint/"
     },
     "HistoricalInternationalLaw": {
       "episode_count": 1,
@@ -142728,6 +142815,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/theendofreadingishere/"
     },
+    "TheFraudZadieSmith": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4466006716 [GLT4466006716].md",
+          "key": "400-victorian-britains-maddest-mystery-glt4466006716",
+          "show": "The Rest Is History",
+          "title": "400. Victorian Britain's Maddest Mystery",
+          "url": "/wiki/sources/400-victorian-britains-maddest-mystery-glt4466006716/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/thefraudzadiesmith/"
+    },
     "TheHolocaust": {
       "episode_count": 4,
       "show_count": 2,
@@ -144600,6 +144703,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/tiaozhikingdom/"
+    },
+    "TichborneClaimant": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4466006716 [GLT4466006716].md",
+          "key": "400-victorian-britains-maddest-mystery-glt4466006716",
+          "show": "The Rest Is History",
+          "title": "400. Victorian Britain's Maddest Mystery",
+          "url": "/wiki/sources/400-victorian-britains-maddest-mystery-glt4466006716/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/tichborneclaimant/"
     },
     "TieredOnDeviceSensing": {
       "episode_count": 1,
@@ -163413,6 +163532,22 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/entities/zacharyknight/"
+    },
+    "ZadieSmith": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4466006716 [GLT4466006716].md",
+          "key": "400-victorian-britains-maddest-mystery-glt4466006716",
+          "show": "The Rest Is History",
+          "title": "400. Victorian Britain's Maddest Mystery",
+          "url": "/wiki/sources/400-victorian-britains-maddest-mystery-glt4466006716/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/zadiesmith/"
     },
     "Zalando": {
       "episode_count": 1,

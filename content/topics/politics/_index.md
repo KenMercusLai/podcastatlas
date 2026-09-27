@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2736
+topic_total_pages: 2737
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -5048,6 +5048,9 @@ topic_entities:
   - key: "EdwardHeath"
     title: "Edward Heath"
     url: "/wiki/entities/edwardheath/"
+  - key: "EdwardKeneally"
+    title: "Edward Keneally"
+    url: "/wiki/entities/edwardkeneally/"
   - key: "Egypt"
     title: "Egypt"
     url: "/wiki/entities/egypt/"

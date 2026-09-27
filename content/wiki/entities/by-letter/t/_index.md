@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 10947
+wiki_total_pages: 10953
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -398,6 +398,9 @@ wiki_pages:
   - key: "TheFountainhead"
     title: "The Fountainhead / 《源泉》"
     url: "/wiki/entities/thefountainhead/"
+  - key: "TheFraudZadieSmith"
+    title: "The Fraud (Zadie Smith novel)"
+    url: "/wiki/entities/thefraudzadiesmith/"
   - key: "TheGenerator"
     title: "The Generator"
     url: "/wiki/entities/thegenerator/"
@@ -674,6 +677,9 @@ wiki_pages:
   - key: "TiborKalman"
     title: "Tibor Kalman"
     url: "/wiki/entities/tiborkalman/"
+  - key: "TichborneClaimant"
+    title: "Tichborne Claimant"
+    url: "/wiki/entities/tichborneclaimant/"
   - key: "TiDB"
     title: "TiDB"
     url: "/wiki/entities/tidb/"

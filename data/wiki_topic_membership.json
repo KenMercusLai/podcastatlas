@@ -1601,6 +1601,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "400-victorian-britains-maddest-mystery-glt4466006716": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "401-bianyu-manju-manzou-women-haineng-yinglai-lingwai-yige-datemao-si-de-xiatian-ma-f7495e05": [
     {
       "key": "culture",
@@ -18185,6 +18192,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "ClaimantPoliticsAndPublicSpectacle": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "Claimy": [
     {
       "key": "technology",
@@ -25424,6 +25438,18 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "EdwardKeneally": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "EdwardSaid": [

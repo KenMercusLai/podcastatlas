@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2842
+topic_total_pages: 2844
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -631,6 +631,9 @@ topic_concepts:
   - key: "CivilizationalMemoryTransmission"
     title: "Civilizational Memory Transmission / 文明记忆传承"
     url: "/wiki/concepts/civilizationalmemorytransmission/"
+  - key: "ClaimantPoliticsAndPublicSpectacle"
+    title: "Claimant Politics and Public Spectacle"
+    url: "/wiki/concepts/claimantpoliticsandpublicspectacle/"
   - key: "SmithStoryWorlds"
     title: "Clark Ashton Smith Story Worlds"
     url: "/wiki/concepts/smithstoryworlds/"
@@ -3722,6 +3725,9 @@ topic_entities:
   - key: "EdSabol"
     title: "Ed Sabol"
     url: "/wiki/entities/edsabol/"
+  - key: "EdwardKeneally"
+    title: "Edward Keneally"
+    url: "/wiki/entities/edwardkeneally/"
   - key: "EdwardSaid"
     title: "Edward Said"
     url: "/wiki/entities/edwardsaid/"

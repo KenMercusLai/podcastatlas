@@ -1055,6 +1055,10 @@
     "title": "#400 社交媒体的「大烟草时刻」：谁该为青少年的成瘾负责？",
     "url": "/wiki/sources/400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4/"
   },
+  "400-victorian-britains-maddest-mystery-glt4466006716": {
+    "title": "400. Victorian Britain's Maddest Mystery",
+    "url": "/wiki/sources/400-victorian-britains-maddest-mystery-glt4466006716/"
+  },
   "401-bianyu-manju-manzou-women-haineng-yinglai-lingwai-yige-datemao-si-de-xiatian-ma-f7495e05": {
     "title": "#401 边域、「慢聚漫奏」：我们还能迎来另外一个达特茅斯的夏天吗？",
     "url": "/wiki/sources/401-bianyu-manju-manzou-women-haineng-yinglai-lingwai-yige-datemao-si-de-xiatian-ma-f7495e05/"
@@ -6171,6 +6175,10 @@
     "title": "Andrej Karpathy",
     "url": "/wiki/entities/andrejkarpathy/"
   },
+  "AndrewBogle": {
+    "title": "Andrew Bogle",
+    "url": "/wiki/entities/andrewbogle/"
+  },
   "AndrewCrosse": {
     "title": "Andrew Crosse / 安德鲁·克罗斯",
     "url": "/wiki/entities/andrewcrosse/"
@@ -7270,6 +7278,10 @@
   "ArthurGrimes": {
     "title": "Arthur Grimes",
     "url": "/wiki/entities/arthurgrimes/"
+  },
+  "ArthurOrton": {
+    "title": "Arthur Orton",
+    "url": "/wiki/entities/arthurorton/"
   },
   "ArthurResidencyFounder": {
     "title": "Arthur (The Residency founder)",
@@ -14835,6 +14847,10 @@
     "title": "Claimant-Impostor Crisis Handling / 宗室冒认危机处置",
     "url": "/wiki/concepts/claimantimpostorcrisishandling/"
   },
+  "ClaimantPoliticsAndPublicSpectacle": {
+    "title": "Claimant Politics and Public Spectacle",
+    "url": "/wiki/concepts/claimantpoliticsandpublicspectacle/"
+  },
   "Claimy": {
     "title": "Claimy",
     "url": "/wiki/entities/claimy/"
@@ -21722,6 +21738,10 @@
   "EdwardKelley": {
     "title": "Edward Kelley",
     "url": "/wiki/entities/edwardkelley/"
+  },
+  "EdwardKeneally": {
+    "title": "Edward Keneally",
+    "url": "/wiki/entities/edwardkeneally/"
   },
   "EdwardLazear": {
     "title": "Edward Lazear",
@@ -31774,6 +31794,10 @@
   "HistoricalFemaleRoleModelCaution": {
     "title": "历史女性榜样化警惕 / Historical Female Role-Model Caution",
     "url": "/wiki/concepts/historicalfemalerolemodelcaution/"
+  },
+  "HistoricalFictionFactualConstraint": {
+    "title": "Historical Fiction Factual Constraint",
+    "url": "/wiki/concepts/historicalfictionfactualconstraint/"
   },
   "HistoricalInternationalLaw": {
     "title": "Historical International Law / 国际法历史化",
@@ -67363,6 +67387,10 @@
     "title": "The Fountainhead / 《源泉》",
     "url": "/wiki/entities/thefountainhead/"
   },
+  "TheFraudZadieSmith": {
+    "title": "The Fraud (Zadie Smith novel)",
+    "url": "/wiki/entities/thefraudzadiesmith/"
+  },
   "TheGenerator": {
     "title": "The Generator",
     "url": "/wiki/entities/thegenerator/"
@@ -68238,6 +68266,10 @@
   "TiborKalman": {
     "title": "Tibor Kalman",
     "url": "/wiki/entities/tiborkalman/"
+  },
+  "TichborneClaimant": {
+    "title": "Tichborne Claimant",
+    "url": "/wiki/entities/tichborneclaimant/"
   },
   "TieredOnDeviceSensing": {
     "title": "Tiered On-Device Sensing / 分层端侧感知",
@@ -76918,6 +76950,10 @@
   "ZackPolanski": {
     "title": "Zack Polanski",
     "url": "/wiki/entities/zackpolanski/"
+  },
+  "ZadieSmith": {
+    "title": "Zadie Smith",
+    "url": "/wiki/entities/zadiesmith/"
   },
   "Zalando": {
     "title": "Zalando",

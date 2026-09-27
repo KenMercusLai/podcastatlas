@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [How Sugar & Processed Foods Impact Your Health | Dr. Robert Lustig](sources/how-sugar-processed-foods-impact-your-health-dr-robert-lustig-scim6504027968.md) — Huberman Lab interview on food structure, sugar, metabolic capacity, ultra-processed food, appetite signaling, food-system responsibility, and clinically bounded GLP-1 tradeoffs.
+- [400. Victorian Britain's Maddest Mystery](sources/400-victorian-britains-maddest-mystery-glt4466006716.md) — The Rest Is History conversation on the Tichborne Claimant, Andrew Bogle, Victorian class politics, courtroom spectacle, populist media, and evidence-bounded historical fiction.
 - [401. Windrush: The Story of Black Britain](sources/401-windrush-the-story-of-black-britain-glt4826407019.md) — The Rest Is History episode on migrant agency, gradual Caribbean British settlement, imperial citizenship, identity, and Windrush as a powerful but bounded national memory.
 - [VOL.91神经外科｜你脑子进水了吧？是的｜每个人都应知的脑卒中FAST法则｜吃刺身会造成脑内蛔虫吗？](sources/vol-91-shenjing-waike-ni-naozi-jinshui-le-ba-shide-meigeren-dou-ying-zhi-de-naozuzhong-fast-faze-chi-cishen-hui-zaocheng-naonei-huichong-ma-lkvxekdvqf5dokknvwdnlqaimxc.md) — 这病说来话长 episode with 贾建 on hydrocephalus, intracranial infection, stroke recognition, Parkinsonian patterns, incidental cysts, and condition-specific neurosurgical treatment.
 - [402. Christmas: Pagan or Christian?](sources/402-christmas-pagan-or-christian-glt8329172184.md) — The Rest Is History episode testing pagan-origin claims about Mithras, Sol Invictus, Saturnalia, and the internal Christian calculation of December 25.
@@ -2945,6 +2946,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Prevent & Treat Colds & Flu](sources/how-to-prevent-treat-colds-flu-scim6817932732.md) — Huberman Lab solo episode on respiratory-virus transmission, layered immune defense, sleep and training load, heat boundaries, and supplement evidence.
 
 ## Entities
+- [Tichborne Claimant](entities/TichborneClaimant.md) — Victorian inheritance imposture whose weak identity evidence became a durable legal, media, and populist cause.
+- [Arthur Orton](entities/ArthurOrton.md) — Working-class butcher identified as the claimant who unsuccessfully presented himself as Roger Tichborne.
+- [Andrew Bogle](entities/AndrewBogle.md) — Formerly enslaved Jamaican servant and migrant whose support became the claimant's most consequential testimony.
+- [Edward Keneally](entities/EdwardKeneally.md) — Barrister and campaigner who converted claimant defense into newspaper-backed populist organization.
+- [Zadie Smith](entities/ZadieSmith.md) — Novelist using archival constraint and bounded invention to connect the Tichborne case with slavery and empire.
+- [The Fraud (Zadie Smith novel)](entities/TheFraudZadieSmith.md) — Historical novel joining the Tichborne trials, Andrew Bogle's imperial life, and the colonial absences of Victorian fiction.
 - [Robert Lustig](entities/RobertLustig.md) — Pediatric endocrinologist and metabolic-health advocate connecting sugar, food structure, appetite signaling, chronic disease, and food-system policy.
 - [Trevor Phillips](entities/TrevorPhillips.md) — Historian framing Windrush through Caribbean British agency, family mobility, settlement, and migration-wave specificity.
 - [Empire Windrush](entities/EmpireWindrush.md) — Ship whose June 1948 arrival became a landmark of postwar Caribbean British history and public memory.
@@ -13907,6 +13914,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kay Tye](entities/KayTye.md) — Neuroscientist connecting emotional-valence circuits to loneliness, social homeostasis, hierarchy, and sustainable scientific leadership.
 
 ## Concepts
+- [Claimant Politics and Public Spectacle](concepts/ClaimantPoliticsAndPublicSpectacle.md) — Process by which media, funding, courtroom entertainment, grievance, and organization make a weak identity claim politically durable.
+- [Historical Fiction Factual Constraint](concepts/HistoricalFictionFactualConstraint.md) — Method preserving documented events while locating invention in viewpoint, selection, interiority, and bounded extension.
 - [Food-System Nutrition Responsibility](concepts/FoodSystemNutritionResponsibility.md) — Shared-responsibility frame connecting dietary agency to knowledge, access, affordability, product design, institutional defaults, and external costs.
 - [Calorie Metabolic Non-Equivalence](concepts/CalorieMetabolicNonEquivalence.md) — Distinction between gross food energy and the energy absorbed, processed, signaled, stored, or made available to the microbiome after ingestion.
 - [Postwar Caribbean British Settlement](concepts/PostwarCaribbeanBritishSettlement.md) — Process by which temporary migration, return plans, relationships, children, and recognition developed into durable British settlement.

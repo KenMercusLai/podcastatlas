@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 10947
+wiki_total_pages: 10953
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -953,6 +953,9 @@ wiki_pages:
   - key: "AndrejKarpathy"
     title: "Andrej Karpathy"
     url: "/wiki/entities/andrejkarpathy/"
+  - key: "AndrewBogle"
+    title: "Andrew Bogle"
+    url: "/wiki/entities/andrewbogle/"
   - key: "AndrewCrosse"
     title: "Andrew Crosse / 安德鲁·克罗斯"
     url: "/wiki/entities/andrewcrosse/"
@@ -1385,6 +1388,9 @@ wiki_pages:
   - key: "ArthurGrimes"
     title: "Arthur Grimes"
     url: "/wiki/entities/arthurgrimes/"
+  - key: "ArthurOrton"
+    title: "Arthur Orton"
+    url: "/wiki/entities/arthurorton/"
   - key: "ArthurSchopenhauer"
     title: "Arthur Schopenhauer / 叔本华"
     url: "/wiki/entities/arthurschopenhauer/"
