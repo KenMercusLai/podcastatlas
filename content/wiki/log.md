@@ -23645,3 +23645,11 @@ Added source `vol-82-fuke-zhu-jiudian-xiya-yi-huan-xingbing-nvsheng-ganran-hpv-h
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | AMA #12: Thoughts on Longevity Supplements (Resveratrol, NR, NMN, Etc.) & How to Improve Memory
+
+Added source `ama-12-thoughts-on-longevity-supplements-resveratrol-nr-nmn-etc-how-to-improve-memory-scim5764692205`; updated `AndrewHuberman`, `HubermanLab`, `NADTherapyEvidenceBoundary`, `MechanismOutcomeEvidenceHierarchy`, `SustainableHealthOptimization`, and the canonical index from their complete bounded source sets. Core synthesis: resveratrol, NAD, NR, NMN, glucose-lowering, and mTOR mechanisms do not by themselves establish longer human life, and subjective energy or recovery reports remain distinct from clinical efficacy; sleep, exercise, nutrition, light, circadian alignment, stress control, and social connection remain the higher-priority longevity foundation. No settled contradiction found. Supplement doses, infusion effects, vascular claims, regulatory status, exercise targets, and drug judgments remain source-scoped public education rather than individualized medical guidance. The title mentions memory, but the supplied document does not summarize that segment, so no memory protocol was inferred. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

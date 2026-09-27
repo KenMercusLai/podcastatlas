@@ -2980,6 +2980,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Improving Male Sexual Health, Function & Fertility | Dr. Michael Eisenberg](sources/improving-male-sexual-health-function-fertility-dr-michael-eisenberg-scim8414501670.md) — Huberman Lab interview on male fertility, semen testing, hormone intervention, erectile and urinary health, paternal age, and evidence-bounded urologic care.
 
+- [AMA #12: Thoughts on Longevity Supplements (Resveratrol, NR, NMN, Etc.) & How to Improve Memory](sources/ama-12-thoughts-on-longevity-supplements-resveratrol-nr-nmn-etc-how-to-improve-memory-scim5764692205.md) — Huberman Lab premium AMA separating longevity mechanisms and subjective supplement effects from demonstrated human lifespan benefit while prioritizing sleep, exercise, nutrition, light, stress control, and social connection.
+
 ## Entities
 - [Corsica](entities/Corsica.md) — Mediterranean island whose factional crisis and Paoli-Bonaparte rupture redirected Napoleon toward revolutionary France.
 - [Josephine de Beauharnais](entities/JosephineDeBeauharnais.md) — Revolutionary survivor and socially connected partner whose marriage to Napoleon preceded his Italian command.

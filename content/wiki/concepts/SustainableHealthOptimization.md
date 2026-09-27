@@ -8,6 +8,7 @@ sources:
   - essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484
   - leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288
   - live-event-q-a-dr-andrew-huberman-at-meridian-hall-in-toronto-scim7370892669
+  - ama-12-thoughts-on-longevity-supplements-resveratrol-nr-nmn-etc-how-to-improve-memory-scim5764692205
 last_updated: 2026-09-27
 knowledge_schema: synthesis-v1
 ---
@@ -27,6 +28,8 @@ The Norton nutrition episode adds an evidence-hierarchy version of the same prin
 The dopamine/procrastination episode adds a motivational version of the same boundary. [[DopamineBaselineMaintenance]] starts with sleep, rest, nutrition, morning sunlight, and exercise before acute tools, while the warning against dopamine stacking protects enjoyable work and training from becoming dependent on extra stimulation. Optimization therefore means protecting baseline function and intrinsic motivation, not chasing bigger peaks.
 
 The live Q&A reinforces the same foundations-first hierarchy under tighter real-life constraints. Daily outdoor light, dimmer evenings, flexible minimally processed eating, resistance training or brief movement bouts, consistent-enough sleep timing, and optional NSDR are presented as useful because they are simple and adaptable. Medication, nicotine, testosterone, peptides, and branded breathwork move into a higher-risk tier where diagnosis, developmental stage, fertility, dependence, physiology, and safety context matter.
+
+The longevity-supplement AMA applies the hierarchy to resveratrol, grape seed extract, NR, NMN, NAD infusions, metformin, berberine, and rapamycin. Huberman distinguishes tools he uses for subjective energy or vascular reasons from tools proven to extend life, then ranks sleep, exercise, nutrition, morning light, circadian alignment, stress control, and social connection above the entire compound list.
 
 ## Key Claims
 - Optimization means asking what can support the best possible day under current constraints.
@@ -49,13 +52,14 @@ The live Q&A reinforces the same foundations-first hierarchy under tighter real-
 - Motivation baseline - [[leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288]] treats sleep, rest, nutrition, morning sunlight, and exercise as baseline supports before sharper dopamine tools.
 - Anti-stacking boundary - [[leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288]] warns that repeatedly adding extra dopamine stimuli to already-valued activities can create later troughs and weaken intrinsic motivation.
 - Busy-life hierarchy - [[live-event-q-a-dr-andrew-huberman-at-meridian-hall-in-toronto-scim7370892669]] prioritizes daylight, evening dimness, flexible minimally processed eating, resistance training or exercise snacks, sleep regularity, and deliberate rest while reserving higher-risk tools for individualized judgment.
+- Longevity-supplement hierarchy - [[ama-12-thoughts-on-longevity-supplements-resveratrol-nr-nmn-etc-how-to-improve-memory-scim5764692205]] ranks sleep, exercise, nutrition, light, circadian rhythm, stress control, and relationships above mechanism-driven supplements or drugs whose human lifespan benefit is unestablished.
 
 ## Counterevidence & Qualifications
-The sources are public education, not clinical guidelines or comparative trials of behavior-change programs. They support flexible fundamentals but do not settle exact dose, timing, lab interpretation, supplement choice, medication eligibility, macronutrient targets, dopamine-tool suitability, addiction recovery, cold exposure, breathwork suitability, or training priority for every person or medical condition. The live Q&A's conversational breadth also means many mechanisms and cautions are asserted without study-level detail.
+The sources are public education, not clinical guidelines or comparative trials of behavior-change programs. They support flexible fundamentals but do not settle exact dose, timing, lab interpretation, supplement choice, medication eligibility, macronutrient targets, dopamine-tool suitability, addiction recovery, cold exposure, breathwork suitability, or training priority for every person or medical condition. The live Q&A and longevity AMA are conversational summaries whose mechanisms, doses, personal responses, and cautions are not substitutes for study-level review or individualized care.
 
 ## What Changed
-- Added a busy-life hierarchy of simple light, movement, food-quality, sleep-timing, and rest practices.
-- Sharpened the tier boundary between adaptable behavioral foundations and higher-risk medication, nicotine, hormone, peptide, and breathwork choices.
+- Extended the foundations-first hierarchy to longevity supplements and prescription drugs.
+- Clarified that subjective energy or vascular reasons for personal use do not establish longer life.
 
 ## Related Concepts
 - [[SleepAsDailyHealthAccount]] - daily recovery account that supplies one of the core foundations.

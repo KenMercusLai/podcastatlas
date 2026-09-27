@@ -8753,9 +8753,9 @@
       "url": "/wiki/entities/andrewbogle/"
     },
     "AndrewHuberman": {
-      "episode_count": 49,
+      "episode_count": 50,
       "show_count": 1,
-      "source_note_count": 49,
+      "source_note_count": 50,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -9099,6 +9099,13 @@
           "show": "Huberman Lab",
           "title": "AMA #14: 2023 Philanthropy, Evening Routine, Light Therapy, Health Metrics & More",
           "url": "/wiki/sources/ama-14-2023-philanthropy-evening-routine-light-therapy-health-metrics-more-scim2172700344/"
+        },
+        {
+          "episode_file": "SCIM5764692205 [SCIM5764692205].md",
+          "key": "ama-12-thoughts-on-longevity-supplements-resveratrol-nr-nmn-etc-how-to-improve-memory-scim5764692205",
+          "show": "Huberman Lab",
+          "title": "AMA #12: Thoughts on Longevity Supplements (Resveratrol, NR, NMN, Etc.) & How to Improve Memory",
+          "url": "/wiki/sources/ama-12-thoughts-on-longevity-supplements-resveratrol-nr-nmn-etc-how-to-improve-memory-scim5764692205/"
         }
       ],
       "updated": "2026-09-27",
@@ -72951,9 +72958,9 @@
       "url": "/wiki/entities/hubeihumanoidinnovationcenter/"
     },
     "HubermanLab": {
-      "episode_count": 49,
+      "episode_count": 50,
       "show_count": 1,
-      "source_note_count": 49,
+      "source_note_count": 50,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -73297,6 +73304,13 @@
           "show": "Huberman Lab",
           "title": "AMA #14: 2023 Philanthropy, Evening Routine, Light Therapy, Health Metrics & More",
           "url": "/wiki/sources/ama-14-2023-philanthropy-evening-routine-light-therapy-health-metrics-more-scim2172700344/"
+        },
+        {
+          "episode_file": "SCIM5764692205 [SCIM5764692205].md",
+          "key": "ama-12-thoughts-on-longevity-supplements-resveratrol-nr-nmn-etc-how-to-improve-memory-scim5764692205",
+          "show": "Huberman Lab",
+          "title": "AMA #12: Thoughts on Longevity Supplements (Resveratrol, NR, NMN, Etc.) & How to Improve Memory",
+          "url": "/wiki/sources/ama-12-thoughts-on-longevity-supplements-resveratrol-nr-nmn-etc-how-to-improve-memory-scim5764692205/"
         }
       ],
       "updated": "2026-09-27",
@@ -100888,9 +100902,9 @@
       "url": "/wiki/concepts/mechanismbasedbackpainassessment/"
     },
     "MechanismOutcomeEvidenceHierarchy": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM5519161031 [SCIM5519161031].md",
@@ -100905,9 +100919,16 @@
           "show": "Huberman Lab",
           "title": "Supplements for Longevity & Their Efficacy | Dr. Peter Attia",
           "url": "/wiki/sources/supplements-for-longevity-their-efficacy-dr-peter-attia-scim7110594668/"
+        },
+        {
+          "episode_file": "SCIM5764692205 [SCIM5764692205].md",
+          "key": "ama-12-thoughts-on-longevity-supplements-resveratrol-nr-nmn-etc-how-to-improve-memory-scim5764692205",
+          "show": "Huberman Lab",
+          "title": "AMA #12: Thoughts on Longevity Supplements (Resveratrol, NR, NMN, Etc.) & How to Improve Memory",
+          "url": "/wiki/sources/ama-12-thoughts-on-longevity-supplements-resveratrol-nr-nmn-etc-how-to-improve-memory-scim5764692205/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/mechanismoutcomeevidencehierarchy/"
     },
     "Medallia": {
@@ -106325,9 +106346,9 @@
       "url": "/wiki/concepts/mythicbiographysourcecaution/"
     },
     "NADTherapyEvidenceBoundary": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM6125190274 [SCIM6125190274].md",
@@ -106342,9 +106363,16 @@
           "show": "Huberman Lab",
           "title": "Supplements for Longevity & Their Efficacy | Dr. Peter Attia",
           "url": "/wiki/sources/supplements-for-longevity-their-efficacy-dr-peter-attia-scim7110594668/"
+        },
+        {
+          "episode_file": "SCIM5764692205 [SCIM5764692205].md",
+          "key": "ama-12-thoughts-on-longevity-supplements-resveratrol-nr-nmn-etc-how-to-improve-memory-scim5764692205",
+          "show": "Huberman Lab",
+          "title": "AMA #12: Thoughts on Longevity Supplements (Resveratrol, NR, NMN, Etc.) & How to Improve Memory",
+          "url": "/wiki/sources/ama-12-thoughts-on-longevity-supplements-resveratrol-nr-nmn-etc-how-to-improve-memory-scim5764692205/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/nadtherapyevidenceboundary/"
     },
     "NASA": {
@@ -144661,9 +144689,9 @@
       "url": "/wiki/concepts/sustainablebusinessoverscale/"
     },
     "SustainableHealthOptimization": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM2882548864 [SCIM2882548864].md",
@@ -144699,6 +144727,13 @@
           "show": "Huberman Lab",
           "title": "LIVE EVENT Q&A: Dr. Andrew Huberman at Meridian Hall in Toronto",
           "url": "/wiki/sources/live-event-q-a-dr-andrew-huberman-at-meridian-hall-in-toronto-scim7370892669/"
+        },
+        {
+          "episode_file": "SCIM5764692205 [SCIM5764692205].md",
+          "key": "ama-12-thoughts-on-longevity-supplements-resveratrol-nr-nmn-etc-how-to-improve-memory-scim5764692205",
+          "show": "Huberman Lab",
+          "title": "AMA #12: Thoughts on Longevity Supplements (Resveratrol, NR, NMN, Etc.) & How to Improve Memory",
+          "url": "/wiki/sources/ama-12-thoughts-on-longevity-supplements-resveratrol-nr-nmn-etc-how-to-improve-memory-scim5764692205/"
         }
       ],
       "updated": "2026-09-27",
