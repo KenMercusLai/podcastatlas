@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 11033
+wiki_total_pages: 11036
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -254,6 +254,9 @@ wiki_pages:
   - key: "CarmichaelsBookstore"
     title: "Carmichael's Bookstore"
     url: "/wiki/entities/carmichaelsbookstore/"
+  - key: "CarolDweck"
+    title: "Carol Dweck"
+    url: "/wiki/entities/caroldweck/"
   - key: "CarolNaughton"
     title: "Carol Naughton"
     url: "/wiki/entities/carolnaughton/"

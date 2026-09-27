@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 11033
+wiki_total_pages: 11036
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -722,6 +722,9 @@ wiki_pages:
   - key: "RoverBicycle"
     title: "Rover Bicycle / 罗福自行车"
     url: "/wiki/entities/roverbicycle/"
+  - key: "RoyBaumeister"
+    title: "Roy Baumeister"
+    url: "/wiki/entities/roybaumeister/"
   - key: "RoyDisney"
     title: "Roy Disney"
     url: "/wiki/entities/roydisney/"

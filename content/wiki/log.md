@@ -23757,3 +23757,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | How to Increase Your Willpower & Tenacity
+
+Added source `how-to-increase-your-willpower-tenacity-scim7958949675`; created `RoyBaumeister`, `CarolDweck`, `JoeParvizi`, `EgoDepletionDebate`, `AnteriorMidCingulateWillpower`, and `AllostaticEffortAllocation`; and updated `AndrewHuberman`, `HubermanLab`, `SlightlyHarderChoice`, and the canonical index from their complete bounded source sets. Core synthesis: repeated self-control costs are context-sensitive rather than a settled single-resource effect; belief, glucose, sleep, pain, stress, illness, reward, and allostatic allocation can interact, while small safe approach-or-restraint challenges may provide practice. No settled contradiction found. Ego-depletion replication, glucose, anterior mid-cingulate, dieting, obesity, anorexia, aerobic-exercise, super-aging, stress-relief, cross-domain transfer, and “will to live” claims remain source-scoped public psychology and neuroscience rather than individualized nutrition, psychiatric, eating-disorder, or exercise guidance. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

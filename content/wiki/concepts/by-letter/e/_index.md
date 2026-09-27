@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 8429
+wiki_total_pages: 8432
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -188,6 +188,9 @@ wiki_pages:
   - key: "EffortfulThinkingInTheAIAge"
     title: "Effortful Thinking in the AI Age"
     url: "/wiki/concepts/effortfulthinkingintheaiage/"
+  - key: "EgoDepletionDebate"
+    title: "Ego Depletion Debate"
+    url: "/wiki/concepts/egodepletiondebate/"
   - key: "EgocentricRobotData"
     title: "Egocentric Robot Data"
     url: "/wiki/concepts/egocentricrobotdata/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Increase Your Willpower & Tenacity](sources/how-to-increase-your-willpower-tenacity-scim7958949675.md) — Huberman Lab solo episode on ego depletion, belief and glucose effects, body-state constraints, anterior mid-cingulate evidence, allostatic effort, and safely bounded willpower practice.
 - [VOL.78生殖医学科男科｜他的包皮割不割 来听三甲医生怎么说｜为什么HPV检查男生会常出现假阴性？](sources/vol-78-shengzhi-yixueke-nanke-tade-baopi-gebuge-lai-ting-sanjia-yisheng-zenme-shuo-weishenme-hpv-jiancha-nansheng-hui-chang-chuxian-jiayinxing-lvg2m7yu6whcctt79kmvl38egnh.md) — 这病说来话长 episode on long foreskin, phimosis, paraphimosis urgency, circumcision thresholds, pediatric timing, diabetes, and male HPV testing limits.
 - [How to Understand Emotions | Dr. Lisa Feldman Barrett](sources/how-to-understand-emotions-dr-lisa-feldman-barrett-scim3919749252.md) — Huberman Lab interview on constructed emotion, contextual face inference, affect, emotional granularity, predictive allostasis, body budgeting, and flexible regulation.
 - [VOL.79生殖医学科男科｜取精室里不能说的秘密 辅助生殖知多少](sources/vol-79-shengzhi-yixueke-nanke-qujingshi-li-buneng-shuo-de-mimi-fuzhu-shengzhi-zhi-duoshao-lp8ztob7icudu2x06tqc0dh_zhdk.md) — 这病说来话长 episode on semen-sample collection quality, male fertility assessment, azoospermia pathways, assisted-reproduction timing, prostate findings, cycling exposure, and sexual-function anxiety.
@@ -2996,6 +2997,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AMA #12: Thoughts on Longevity Supplements (Resveratrol, NR, NMN, Etc.) & How to Improve Memory](sources/ama-12-thoughts-on-longevity-supplements-resveratrol-nr-nmn-etc-how-to-improve-memory-scim5764692205.md) — Huberman Lab premium AMA separating longevity mechanisms and subjective supplement effects from demonstrated human lifespan benefit while prioritizing sleep, exercise, nutrition, light, stress control, and social connection.
 
 ## Entities
+- [Roy Baumeister](entities/RoyBaumeister.md) — Psychologist associated with the limited-resource and glucose accounts in the ego-depletion debate.
+- [Carol Dweck](entities/CarolDweck.md) — Psychologist whose belief-sensitive studies qualify fixed-resource accounts of willpower.
+- [Joe Parvizi](entities/JoeParvizi.md) — Neurologist and neuroscientist whose direct-stimulation work informs the anterior mid-cingulate synthesis.
 - [Al-Mansur](entities/AlMansur.md) — Second Abbasid caliph and violent dynastic consolidator who founded Baghdad as a purpose-built capital.
 - [Abu Muslim](entities/AbuMuslim.md) — Enigmatic Khorasani organizer and commander whose coalition enabled the Abbasid overthrow of the Umayyads.
 - [Baghdad](entities/Baghdad.md) — Integrated Abbasid metropolis of canals, markets, scholarship, pluralism, inequality, political fragility, and literary afterlife.
@@ -14045,6 +14049,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Michael Eisenberg](entities/MichaelEisenberg.md) — Urologist and researcher framing male fertility and sexual function through objective testing, whole-body health, and treatment boundaries.
 
 ## Concepts
+- [Ego Depletion Debate](concepts/EgoDepletionDebate.md) — Contested interaction among repeated self-control, resource accounts, glucose, belief, physiology, and task context.
+- [Anterior Mid-Cingulate Willpower](concepts/AnteriorMidCingulateWillpower.md) — Bounded hypothesis that an integrative cingulate hub supports context-sensitive action, restraint, and persistence.
+- [Allostatic Effort Allocation](concepts/AllostaticEffortAllocation.md) — Body-state and context-sensitive distribution of effort toward action, restraint, recovery, or strategy change.
 - [Abbasid Revolution](concepts/AbbasidRevolution.md) — Khorasan-centered coalition that overthrew the Umayyads while combining sacred legitimacy, Persian memory, conquest, and dynastic violence.
 - [Round City of Baghdad](concepts/RoundCityOfBaghdad.md) — Al-Mansur's circular capital plan joining defense, commerce, sacred architecture, Persian precedents, and caliphal hierarchy.
 - [Paraphimosis Emergency / 包皮嵌顿急症](concepts/ParaphimosisEmergency.md) — Urgent recognition boundary for a retracted foreskin trapped behind the glans with swelling and possible circulation compromise.

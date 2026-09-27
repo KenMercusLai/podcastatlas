@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1256
+topic_total_pages: 1259
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -127,6 +127,9 @@ topic_concepts:
   - key: "AntarcticClimateServices"
     title: "Antarctic Climate Services"
     url: "/wiki/concepts/antarcticclimateservices/"
+  - key: "AnteriorMidCingulateWillpower"
+    title: "Anterior Mid-Cingulate Willpower"
+    url: "/wiki/concepts/anteriormidcingulatewillpower/"
   - key: "AntimicrobialResistance"
     title: "Antimicrobial Resistance"
     url: "/wiki/concepts/antimicrobialresistance/"
@@ -571,6 +574,9 @@ topic_concepts:
   - key: "EffortAsReward"
     title: "Effort As Reward"
     url: "/wiki/concepts/effortasreward/"
+  - key: "EgoDepletionDebate"
+    title: "Ego Depletion Debate"
+    url: "/wiki/concepts/egodepletiondebate/"
   - key: "ElNino"
     title: "El Nino"
     url: "/wiki/concepts/elnino/"
@@ -3567,6 +3573,9 @@ topic_sources:
   - key: "how-to-increase-your-emotional-intelligence-dr-marc-brackett-scim6059113217"
     title: "How to Increase Your Emotional Intelligence | Dr. Marc Brackett"
     url: "/wiki/sources/how-to-increase-your-emotional-intelligence-dr-marc-brackett-scim6059113217/"
+  - key: "how-to-increase-your-willpower-tenacity-scim7958949675"
+    title: "How to Increase Your Willpower & Tenacity"
+    url: "/wiki/sources/how-to-increase-your-willpower-tenacity-scim7958949675/"
   - key: "how-to-make-better-decisions-dr-michael-platt-scim9606820714"
     title: "How to Make Better Decisions | Dr. Michael Platt"
     url: "/wiki/sources/how-to-make-better-decisions-dr-michael-platt-scim9606820714/"

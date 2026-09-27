@@ -7878,6 +7878,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/allostaticbodybudget/"
     },
+    "AllostaticEffortAllocation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7958949675 [SCIM7958949675].md",
+          "key": "how-to-increase-your-willpower-tenacity-scim7958949675",
+          "show": "Huberman Lab",
+          "title": "How to Increase Your Willpower & Tenacity",
+          "url": "/wiki/sources/how-to-increase-your-willpower-tenacity-scim7958949675/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/allostaticeffortallocation/"
+    },
     "AllusiveRemonstrance": {
       "episode_count": 4,
       "show_count": 1,
@@ -8927,9 +8943,9 @@
       "url": "/wiki/entities/andrewbogle/"
     },
     "AndrewHuberman": {
-      "episode_count": 50,
+      "episode_count": 51,
       "show_count": 1,
-      "source_note_count": 50,
+      "source_note_count": 51,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -9280,6 +9296,13 @@
           "show": "Huberman Lab",
           "title": "AMA #12: Thoughts on Longevity Supplements (Resveratrol, NR, NMN, Etc.) & How to Improve Memory",
           "url": "/wiki/sources/ama-12-thoughts-on-longevity-supplements-resveratrol-nr-nmn-etc-how-to-improve-memory-scim5764692205/"
+        },
+        {
+          "episode_file": "SCIM7958949675 [SCIM7958949675].md",
+          "key": "how-to-increase-your-willpower-tenacity-scim7958949675",
+          "show": "Huberman Lab",
+          "title": "How to Increase Your Willpower & Tenacity",
+          "url": "/wiki/sources/how-to-increase-your-willpower-tenacity-scim7958949675/"
         }
       ],
       "updated": "2026-09-27",
@@ -10283,6 +10306,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/antarctica/"
+    },
+    "AnteriorMidCingulateWillpower": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7958949675 [SCIM7958949675].md",
+          "key": "how-to-increase-your-willpower-tenacity-scim7958949675",
+          "show": "Huberman Lab",
+          "title": "How to Increase Your Willpower & Tenacity",
+          "url": "/wiki/sources/how-to-increase-your-willpower-tenacity-scim7958949675/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/anteriormidcingulatewillpower/"
     },
     "AnthonyBarber": {
       "episode_count": 1,
@@ -22887,6 +22926,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/carmenreinhart/"
+    },
+    "CarolDweck": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7958949675 [SCIM7958949675].md",
+          "key": "how-to-increase-your-willpower-tenacity-scim7958949675",
+          "show": "Huberman Lab",
+          "title": "How to Increase Your Willpower & Tenacity",
+          "url": "/wiki/sources/how-to-increase-your-willpower-tenacity-scim7958949675/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/caroldweck/"
     },
     "CarrieBatten": {
       "episode_count": 1,
@@ -43965,6 +44020,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/effortfulthinkingintheaiage/"
+    },
+    "EgoDepletionDebate": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7958949675 [SCIM7958949675].md",
+          "key": "how-to-increase-your-willpower-tenacity-scim7958949675",
+          "show": "Huberman Lab",
+          "title": "How to Increase Your Willpower & Tenacity",
+          "url": "/wiki/sources/how-to-increase-your-willpower-tenacity-scim7958949675/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/egodepletiondebate/"
     },
     "EgocentricRobotData": {
       "episode_count": 2,
@@ -73652,9 +73723,9 @@
       "url": "/wiki/entities/hubeihumanoidinnovationcenter/"
     },
     "HubermanLab": {
-      "episode_count": 50,
+      "episode_count": 51,
       "show_count": 1,
-      "source_note_count": 50,
+      "source_note_count": 51,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -74005,6 +74076,13 @@
           "show": "Huberman Lab",
           "title": "AMA #12: Thoughts on Longevity Supplements (Resveratrol, NR, NMN, Etc.) & How to Improve Memory",
           "url": "/wiki/sources/ama-12-thoughts-on-longevity-supplements-resveratrol-nr-nmn-etc-how-to-improve-memory-scim5764692205/"
+        },
+        {
+          "episode_file": "SCIM7958949675 [SCIM7958949675].md",
+          "key": "how-to-increase-your-willpower-tenacity-scim7958949675",
+          "show": "Huberman Lab",
+          "title": "How to Increase Your Willpower & Tenacity",
+          "url": "/wiki/sources/how-to-increase-your-willpower-tenacity-scim7958949675/"
         }
       ],
       "updated": "2026-09-27",
@@ -82404,6 +82482,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/joeliemandt/"
+    },
+    "JoeParvizi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7958949675 [SCIM7958949675].md",
+          "key": "how-to-increase-your-willpower-tenacity-scim7958949675",
+          "show": "Huberman Lab",
+          "title": "How to Increase Your Willpower & Tenacity",
+          "url": "/wiki/sources/how-to-increase-your-willpower-tenacity-scim7958949675/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/joeparvizi/"
     },
     "JogyeOrder": {
       "episode_count": 1,
@@ -130958,6 +131052,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/roundup/"
     },
+    "RoyBaumeister": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7958949675 [SCIM7958949675].md",
+          "key": "how-to-increase-your-willpower-tenacity-scim7958949675",
+          "show": "Huberman Lab",
+          "title": "How to Increase Your Willpower & Tenacity",
+          "url": "/wiki/sources/how-to-increase-your-willpower-tenacity-scim7958949675/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/roybaumeister/"
+    },
     "RoyalCaribbean": {
       "episode_count": 1,
       "show_count": 1,
@@ -138885,9 +138995,9 @@
       "url": "/wiki/entities/slicy/"
     },
     "SlightlyHarderChoice": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM2498586099 [SCIM2498586099].md",
@@ -138909,6 +139019,13 @@
           "show": "Huberman Lab",
           "title": "AMA #14: 2023 Philanthropy, Evening Routine, Light Therapy, Health Metrics & More",
           "url": "/wiki/sources/ama-14-2023-philanthropy-evening-routine-light-therapy-health-metrics-more-scim2172700344/"
+        },
+        {
+          "episode_file": "SCIM7958949675 [SCIM7958949675].md",
+          "key": "how-to-increase-your-willpower-tenacity-scim7958949675",
+          "show": "Huberman Lab",
+          "title": "How to Increase Your Willpower & Tenacity",
+          "url": "/wiki/sources/how-to-increase-your-willpower-tenacity-scim7958949675/"
         }
       ],
       "updated": "2026-09-27",

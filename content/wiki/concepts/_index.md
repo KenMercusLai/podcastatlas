@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 8429
+wiki_total_pages: 8432
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1736,6 +1736,9 @@ wiki_pages:
   - key: "AllostaticBodyBudget"
     title: "Allostatic Body Budget"
     url: "/wiki/concepts/allostaticbodybudget/"
+  - key: "AllostaticEffortAllocation"
+    title: "Allostatic Effort Allocation"
+    url: "/wiki/concepts/allostaticeffortallocation/"
   - key: "AllusiveRemonstrance"
     title: "Allusive Remonstrance / 隐语进谏"
     url: "/wiki/concepts/allusiveremonstrance/"
@@ -1952,6 +1955,9 @@ wiki_pages:
   - key: "AntarcticClimateServices"
     title: "Antarctic Climate Services"
     url: "/wiki/concepts/antarcticclimateservices/"
+  - key: "AnteriorMidCingulateWillpower"
+    title: "Anterior Mid-Cingulate Willpower"
+    url: "/wiki/concepts/anteriormidcingulatewillpower/"
   - key: "AnthropicMonopolyThesis"
     title: "Anthropic Monopoly Thesis"
     url: "/wiki/concepts/anthropicmonopolythesis/"

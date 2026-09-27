@@ -10188,6 +10188,13 @@
       "url": "/topics/science/"
     }
   ],
+  "AnteriorMidCingulateWillpower": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "AnthonyBarber": [
     {
       "key": "economics",
@@ -25701,6 +25708,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "EgoDepletionDebate": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "EgocentricRobotData": [
@@ -87616,6 +87630,13 @@
       "label": "Culture",
       "url": "/topics/culture/"
     },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "how-to-increase-your-willpower-tenacity-scim7958949675": [
     {
       "key": "science",
       "label": "Science",
