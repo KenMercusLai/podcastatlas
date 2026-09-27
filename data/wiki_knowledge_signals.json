@@ -61661,9 +61661,9 @@
       "url": "/wiki/concepts/generativeaimusic/"
     },
     "GenerativeDrive": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM9301011958 [SCIM9301011958].md",
@@ -61692,9 +61692,16 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Paul Conti: How to Build and Maintain Healthy Relationships",
           "url": "/wiki/sources/guest-series-dr-paul-conti-how-to-build-and-maintain-healthy-relationships-scim8219226445/"
+        },
+        {
+          "episode_file": "SCIM8316512303 [SCIM8316512303].md",
+          "key": "guest-series-dr-paul-conti-how-to-improve-your-mental-health-scim8316512303",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Paul Conti: How to Improve Your Mental Health",
+          "url": "/wiki/sources/guest-series-dr-paul-conti-how-to-improve-your-mental-health-scim8316512303/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/generativedrive/"
     },
     "GenerativeEngineOptimization": {
@@ -78667,9 +78674,9 @@
       "url": "/wiki/concepts/intensivecareastimebuying/"
     },
     "IntentionalLivingAgency": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM9301011958 [SCIM9301011958].md",
@@ -78684,9 +78691,16 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Paul Conti: Tools and Protocols for Mental Health",
           "url": "/wiki/sources/guest-series-dr-paul-conti-tools-and-protocols-for-mental-health-scim2027108733/"
+        },
+        {
+          "episode_file": "SCIM8316512303 [SCIM8316512303].md",
+          "key": "guest-series-dr-paul-conti-how-to-improve-your-mental-health-scim8316512303",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Paul Conti: How to Improve Your Mental Health",
+          "url": "/wiki/sources/guest-series-dr-paul-conti-how-to-improve-your-mental-health-scim8316512303/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/intentionallivingagency/"
     },
     "InterPath001": {
@@ -79128,9 +79142,9 @@
       "url": "/wiki/concepts/intracranialinfectionexposureboundary/"
     },
     "IntrusiveThoughtMeaning": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM9301011958 [SCIM9301011958].md",
@@ -79138,9 +79152,16 @@
           "show": "Huberman Lab",
           "title": "Tools to Bolster Your Mental Health & Confidence | Dr. Paul Conti",
           "url": "/wiki/sources/tools-to-bolster-your-mental-health-confidence-dr-paul-conti-scim9301011958/"
+        },
+        {
+          "episode_file": "SCIM8316512303 [SCIM8316512303].md",
+          "key": "guest-series-dr-paul-conti-how-to-improve-your-mental-health-scim8316512303",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Paul Conti: How to Improve Your Mental Health",
+          "url": "/wiki/sources/guest-series-dr-paul-conti-how-to-improve-your-mental-health-scim8316512303/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/intrusivethoughtmeaning/"
     },
     "InvasiveSpeciesManagement": {
@@ -103836,9 +103857,9 @@
       "url": "/wiki/concepts/mentalhealthhelpseekingscamrisk/"
     },
     "MentalHealthStructureFunctionMap": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2027108733 [SCIM2027108733].md",
@@ -103846,9 +103867,16 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Paul Conti: Tools and Protocols for Mental Health",
           "url": "/wiki/sources/guest-series-dr-paul-conti-tools-and-protocols-for-mental-health-scim2027108733/"
+        },
+        {
+          "episode_file": "SCIM8316512303 [SCIM8316512303].md",
+          "key": "guest-series-dr-paul-conti-how-to-improve-your-mental-health-scim8316512303",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Paul Conti: How to Improve Your Mental Health",
+          "url": "/wiki/sources/guest-series-dr-paul-conti-how-to-improve-your-mental-health-scim8316512303/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/mentalhealthstructurefunctionmap/"
     },
     "MentalIllnessDestigmatization": {
@@ -116867,9 +116895,9 @@
       "url": "/wiki/entities/paulbarras/"
     },
     "PaulConti": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM9301011958 [SCIM9301011958].md",
@@ -116898,9 +116926,16 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Paul Conti: How to Build and Maintain Healthy Relationships",
           "url": "/wiki/sources/guest-series-dr-paul-conti-how-to-build-and-maintain-healthy-relationships-scim8219226445/"
+        },
+        {
+          "episode_file": "SCIM8316512303 [SCIM8316512303].md",
+          "key": "guest-series-dr-paul-conti-how-to-improve-your-mental-health-scim8316512303",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Paul Conti: How to Improve Your Mental Health",
+          "url": "/wiki/sources/guest-series-dr-paul-conti-how-to-improve-your-mental-health-scim8316512303/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/paulconti/"
     },
     "PaulEastwick": {
@@ -127671,9 +127706,9 @@
       "url": "/wiki/entities/redlandsdrugcase/"
     },
     "ReflectiveSelfExploration": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM1991900083 [SCIM1991900083].md",
@@ -127688,9 +127723,16 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Paul Conti: Tools and Protocols for Mental Health",
           "url": "/wiki/sources/guest-series-dr-paul-conti-tools-and-protocols-for-mental-health-scim2027108733/"
+        },
+        {
+          "episode_file": "SCIM8316512303 [SCIM8316512303].md",
+          "key": "guest-series-dr-paul-conti-how-to-improve-your-mental-health-scim8316512303",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Paul Conti: How to Improve Your Mental Health",
+          "url": "/wiki/sources/guest-series-dr-paul-conti-how-to-improve-your-mental-health-scim8316512303/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/reflectiveselfexploration/"
     },
     "ReflexiveSelfAwareness": {
