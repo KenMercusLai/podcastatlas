@@ -5,6 +5,7 @@ tags: [sex, relationships, psychology, health]
 sources:
   - shi-di-fu-shuo-469-tongli-zuihaode-guanxi-shi-zai-airen-huaili-jinqing-yangw-zaox-lmq6et15-mluqyuuav7z4jpx4hcb
   - vol-79-shengzhi-yixueke-nanke-qujingshi-li-buneng-shuo-de-mimi-fuzhu-shengzhi-zhi-duoshao-lp8ztob7icudu2x06tqc0dh_zhdk
+  - vol-77-shengzhi-yixueke-nanke-guhua-de-pianjian-rang-fuzuigan-chengwei-ziwei-de-zuidahai-nan-yanzhiyin-bu-zai-nan-lidn4alesw5vihbybf_c3f5qbvmo
 last_updated: 2026-09-27
 knowledge_schema: synthesis-v1
 ---
@@ -19,6 +20,8 @@ The Steve episode places sexual function inside lived conditions. Fatigue, work 
 
 VOL.79 adds a diagnostic boundary for younger men who infer dysfunction from masturbation or anticipated performance despite little or no partnered sexual experience. Its useful contribution is not that such distress is unreal, but that one isolated context should not automatically become a disease label. Persistent difficulty, actual sexual context, distress, medications, physiology, psychology, and relationship conditions need to be separated during qualified assessment.
 
+VOL.77 adds a clinician-facing symptom frame. Initial insufficient rigidity and loss of rigidity during sex can both be relevant, but occasional difficulty during fatigue or pressure should not automatically become disease. Age, diabetes, hypertension, lipids, sleep, depression, medication, inflammation, stress, weight change, and partner context can interact; anxiety after one problem can then be carried into the next encounter. It also notes that apparent early ejaculation may sometimes be secondary to difficulty maintaining rigidity, changing the assessment focus.
+
 The concept does not deny medical causes. Its judgment is diagnostic humility: sexual-function complaints can be medical, relational, psychological, stress-related, or mixed, and anxiety can amplify symptoms without proving that anxiety is the sole cause.
 
 ## Key Claims
@@ -28,19 +31,22 @@ The concept does not deny medical causes. Its judgment is diagnostic humility: s
 - Persistent symptoms should be interpreted through lived sexual context, distress, duration, physiology, medications, psychology, and relationship conditions.
 - Long-term relationships need room for illness, interruption, failed attempts, changing desire, and bodily aging.
 - Reframing function as process and interaction can reduce masculinity-proving pressure while preserving appropriate medical evaluation.
+- Erectile and ejaculation complaints can interact, so the visible symptom may not identify the primary assessment target.
 
 ## Evidence
 - Stress and relationship anxiety - [[shi-di-fu-shuo-469-tongli-zuihaode-guanxi-shi-zai-airen-huaili-jinqing-yangw-zaox-lmq6et15-mluqyuuav7z4jpx4hcb]] links desire and function to exhaustion, work and financial pressure, partner response, scrutiny, and lack of relaxed uninterrupted time.
 - Context contrast - [[shi-di-fu-shuo-469-tongli-zuihaode-guanxi-shi-zai-airen-huaili-jinqing-yangw-zaox-lmq6et15-mluqyuuav7z4jpx4hcb]] gives cases where apparent bodily dysfunction was inseparable from relationship communication and safety.
 - Self-diagnosis boundary - [[vol-79-shengzhi-yixueke-nanke-qujingshi-li-buneng-shuo-de-mimi-fuzhu-shengzhi-zhi-duoshao-lp8ztob7icudu2x06tqc0dh_zhdk|VOL.79]] describes young men inferring disease from masturbation or fear without sustained partnered-life symptoms and emphasizes anxiety amplification.
 - Imperfection in intimacy - [[shi-di-fu-shuo-469-tongli-zuihaode-guanxi-shi-zai-airen-huaili-jinqing-yangw-zaox-lmq6et15-mluqyuuav7z4jpx4hcb]] and [[vol-79-shengzhi-yixueke-nanke-qujingshi-li-buneng-shuo-de-mimi-fuzhu-shengzhi-zhi-duoshao-lp8ztob7icudu2x06tqc0dh_zhdk|VOL.79]] argue against treating every awkward, interrupted, or unsuccessful sexual experience as proof of personal failure.
+- Mixed contributors and symptom interaction - [[vol-77-shengzhi-yixueke-nanke-guhua-de-pianjian-rang-fuzuigan-chengwei-ziwei-de-zuidahai-nan-yanzhiyin-bu-zai-nan-lidn4alesw5vihbybf_c3f5qbvmo|VOL.77]] joins cardiometabolic, medication, sleep, mood, inflammation, stress, and relationship factors while noting that difficulty maintaining rigidity can contribute to rapid ejaculation.
 
 ## Counterevidence & Qualifications
-Sexual-function symptoms can involve cardiovascular, endocrine, neurological, medication-related, pelvic, reproductive, mental-health, or other medical issues. The sources are public education and counseling discussion, not a complete diagnostic standard. Lack of partnered experience does not invalidate distress or rule out disease, and partnered intercourse is not the only legitimate sexual context. Persistent, painful, sudden, medication-linked, fertility-relevant, or distressing symptoms warrant qualified care.
+Sexual-function symptoms can involve cardiovascular, endocrine, neurological, medication-related, pelvic, reproductive, mental-health, or other medical issues. The sources are public education and counseling discussion, not a complete diagnostic standard; VOL.77's duration and ejaculation-time thresholds are source-scoped. Lack of partnered experience does not invalidate distress or rule out disease, and partnered intercourse is not the only legitimate sexual context. Persistent, painful, sudden, medication-linked, fertility-relevant, or distressing symptoms warrant qualified care.
 
 ## What Changed
 - Added a boundary against diagnosing sexual dysfunction from masturbation, anticipation, or isolated performance alone.
 - Clarified that anxiety can amplify symptoms without excluding medical causes or invalidating distress.
+- Added mixed medical contributors and the possibility that erectile and ejaculation complaints interact.
 
 ## Related Concepts
 - [[SexualExplorationAsSelfKnowledge]] - performance-pressure boundary within the broader exploration frame.

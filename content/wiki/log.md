@@ -23773,3 +23773,11 @@ Added source `376-baghdad-the-forging-of-islam-part-1-glt9529602805`; created `U
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | VOL.77生殖医学科男科｜固化的偏见让负罪感成为自慰的最大危害 「男」言之隐不再难
+
+Added source `vol-77-shengzhi-yixueke-nanke-guhua-de-pianjian-rang-fuzuigan-chengwei-ziwei-de-zuidahai-nan-yanzhiyin-bu-zai-nan-lidn4alesw5vihbybf_c3f5qbvmo`; updated `WangYimingReproductiveDoctor`, `MaleReproductiveHealthAssessment`, `SexualFunctionRelationshipContext`, `MaleUrologicalHealthMisconceptions`, `LifelongSexEducation`, and the canonical index from their complete bounded source sets. Core synthesis: male sexual function, fertility, hormones, prostate state, habits, and psychological context overlap without becoming interchangeable; persistent symptoms warrant qualified assessment, while isolated experiences, advertising labels, outward physique, or masturbation guilt do not establish disease or fertility. No settled contradiction found. Diagnostic timing, ejaculation thresholds, abstinence intervals, hormone interpretation, prostate claims, radiation statements, and medication discussion remain source-scoped public education rather than individualized care. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
