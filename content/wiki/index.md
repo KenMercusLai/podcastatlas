@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [396. JFK: The Second Assassin Strikes (Part 5)](sources/396-jfk-the-second-assassin-strikes-part-5-glt7803941061.md) — The Rest Is History episode on the case against Oswald, Ruby's impulsive opportunity, the fatal police-transfer failure, and the public-trust consequences of losing a trial.
 - [397. JFK: A Conspiracy Unmasked (Part 6)](sources/397-jfk-a-conspiracy-unmasked-part-6-glt4318220159.md) — The Rest Is History episode on Ruby's killing of Oswald, the Warren Commission, declining institutional trust, disputed evidence, and the failure of major JFK conspiracy candidates.
 - [The Causes & Treatments for Autism | Dr. Karen Parker](sources/the-causes-treatments-for-autism-dr-karen-parker-scim5460291325.md) — Huberman Lab interview on autism heterogeneity, dimension-specific biomarkers, oxytocin evidence, vasopressin translation, model validity, screening access, and treatment uncertainty.
 - [399. The Savage Storm: World War II and The Battle for Italy](sources/399-the-savage-storm-world-war-ii-and-the-battle-for-italy-glt8130436942.md) — The Rest Is History interview with James Holland on the 1943 Italian campaign's limited strategic gains, resource constraints, difficult terrain, civilian destruction, and failed promise of rapid advance.
@@ -10143,7 +10144,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [U.S. Customs and Border Protection](entities/USCustomsAndBorderProtection.md) — DHS-linked enforcement agency named with ICE in the episode's training, culture, and conduct frame.
 - [Tricia McLaughlin](entities/TriciaMcLaughlin.md) — DHS spokesperson whose unchanged-training-hours claim anchors the episode's unresolved training dispute.
 - [Matthew Ross](entities/MatthewRoss.md) — Economist whose Dallas policing research shows how aggressive field training officers can shape later use-of-force behavior.
-- [Dallas Police Department](entities/DallasPoliceDepartment.md) — Policing data context for Matthew Ross's field-training research.
+- [Dallas Police Department](entities/DallasPoliceDepartment.md) — Institution whose Kennedy-case evidence gathering, Oswald custody failure, and later field-training data show distinct dimensions of police performance.
 - [Seth Stoughton](entities/SethStoughton.md) — Law professor and former police officer arguing that ICE and CBP conduct reflects culture and accountability, not only training hours.
 - [Alex Preti](entities/AlexPreti.md) — U.S. citizen in the Minneapolis case cited by the episode to show why veteran-agent conduct complicates a new-training-only explanation.
 - [ProPublica](entities/ProPublica.md) — Investigative outlet cited for reporting details in the Alex Preti case.

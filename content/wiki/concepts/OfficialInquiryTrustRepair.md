@@ -4,6 +4,7 @@ type: concept
 tags: [governance, investigation, legitimacy, public-trust, evidence]
 sources:
   - 397-jfk-a-conspiracy-unmasked-part-6-glt4318220159
+  - 396-jfk-the-second-assassin-strikes-part-5-glt7803941061
 last_updated: 2026-09-27
 knowledge_schema: synthesis-v1
 ---
@@ -16,7 +17,7 @@ Official inquiry trust repair is the use of a public, authoritative investigatio
 
 ## Current Synthesis
 
-The Kennedy case shows why an inquiry's factual and legitimacy functions cannot be separated. Ruby's killing of Oswald removed the trial that might have publicly tested the evidence, while Soviet propaganda and domestic rumor threatened to turn uncertainty into political destabilization. Johnson's answer was an elite bipartisan commission with documentary scale and judicial prestige.
+The Kennedy case shows why an inquiry's factual and legitimacy functions cannot be separated. Part 5 depicts police assembling a substantial case while failing at the separate duty of protecting Oswald during transfer. Ruby's killing of the defendant caused that custody failure to contaminate public confidence in the investigation and removed the trial that might have tested the evidence. Soviet propaganda and domestic rumor then threatened to turn uncertainty into political destabilization, and Johnson's answer was an elite bipartisan commission with documentary scale and judicial prestige.
 
 Yet authority works only when audiences trust the people and procedures carrying it. The episode frames 1963 as a transitional moment when a commission of eminent figures could still command deference, then shows Vietnam, Watergate, visual ambiguity, investigative omissions, and a later congressional qualification weakening that settlement. A report can therefore repair trust only provisionally: transparency, adversarial testing, technical robustness, and later correction matter more than prominence alone.
 
@@ -24,6 +25,7 @@ Yet authority works only when audiences trust the people and procedures carrying
 
 - An inquiry may be created to manage public legitimacy as well as to determine facts.
 - The loss of an ordinary trial increases pressure on an official commission to make evidence publicly intelligible.
+- A visible procedural failure can discredit sound work elsewhere in the same case unless institutions clearly separate and examine the functions involved.
 - Bipartisan prestige and documentary scale can support trust, but they do not substitute for transparent procedure or durable evidence.
 - Foreign propaganda and domestic rumor can make speed and public communication part of investigative design.
 - Later technical error or official qualification can reopen doubt far beyond the narrow finding involved.
@@ -35,6 +37,10 @@ Yet authority works only when audiences trust the people and procedures carrying
 
 - [[397-jfk-a-conspiracy-unmasked-part-6-glt4318220159]] connects Ruby's killing of Oswald, Hoover's desire for a public process, Soviet claims, and Johnson's appointment of an eminent bipartisan commission.
 
+### Procedural failure before inquiry
+
+- [[396-jfk-the-second-assassin-strikes-part-5-glt7803941061]] contrasts rapid police evidence gathering with the basement-access and transfer failures that allowed Ruby to kill Oswald and eliminate the expected trial.
+
 ### Documentary settlement
 
 - [[397-jfk-a-conspiracy-unmasked-part-6-glt4318220159]] describes an extensive report, testimony volumes, documents, and witnesses supporting the commission's lone-gunman conclusion.
@@ -45,12 +51,12 @@ Yet authority works only when audiences trust the people and procedures carrying
 
 ## Counterevidence & Qualifications
 
-Public distrust is not proof that an inquiry failed factually, and official prestige is not proof that it succeeded. Real conspiracies and institutional self-protection make independent scrutiny necessary. This concept is derived from one source's account of one commission; it does not establish a universal inquiry design or independently audit the Warren Commission and later committee records.
+Public distrust is not proof that an inquiry failed factually, and official prestige is not proof that it succeeded. Real conspiracies and institutional self-protection make independent scrutiny necessary. This concept is derived from two connected podcast accounts of one case; it does not establish a universal inquiry design or independently audit the Dallas investigation, Warren Commission, or later committee records. A security failure can rationally reduce confidence, but it does not by itself establish that the underlying evidence was false or that the failure was coordinated.
 
 ## What Changed
 
-- Established the distinction between an inquiry's truth-finding and legitimacy-repair functions.
-- Added later institutional trust and technical robustness as conditions of durable settlement.
+- Added cross-functional trust spillover: custody failure can discredit otherwise separate investigative work.
+- Clarified why the missing trial made later commission transparency and adversarial intelligibility unusually important.
 
 ## Related Concepts
 
@@ -59,3 +65,4 @@ Public distrust is not proof that an inquiry failed factually, and official pres
 - [[EvidenceBoundHistoricalRevision]] - permits later correction without treating every anomaly as proof of total fabrication.
 - [[ProfessionalCommunityTrust]] - describes reliance on expert methods that most citizens cannot personally reproduce.
 - [[PublicArgumentForBystanders]] - explains why a public evidentiary record matters beyond committed partisans.
+- [[KennedyAssassination]] - case in which a failed transfer created the legitimacy gap later inquiry had to address.

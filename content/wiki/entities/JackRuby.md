@@ -4,6 +4,7 @@ type: entity
 tags: [person, assassination, dallas, nightclub, conspiracy]
 sources:
   - 397-jfk-a-conspiracy-unmasked-part-6-glt4318220159
+  - 396-jfk-the-second-assassin-strikes-part-5-glt7803941061
 last_updated: 2026-09-27
 knowledge_schema: synthesis-v1
 ---
@@ -16,7 +17,7 @@ Jack Ruby was the Dallas nightclub operator who killed [[LeeHarveyOswald|Lee Har
 
 ## Current Profile
 
-The episode treats Ruby's act as historically decisive even while rejecting the claim that he was a professional silencer. His access to Dallas police, strip-club business, and mafia-adjacent social world made a hidden connection imaginable, but the hosts argue that his conduct before the shooting, spontaneous-looking opportunity, failure to arrange escape, and later imprisonment fit an impulsive act better than a coordinated cleanup.
+The episodes treat Ruby's act as historically decisive even while rejecting the claim that he was a professional silencer. His access to Dallas police, strip-club business, and mafia-adjacent social world made a hidden connection imaginable, but his conduct before the shooting fits an impulsive act better than a coordinated cleanup. Part 5 describes visible grief after Kennedy's death, erratic visits and calls, and a Western Union transaction for an employee minutes before Oswald appeared. A late change in police vehicle positioning then left the basement ramp accessible at the decisive moment.
 
 Ruby matters less here as an organized-crime biography than as a trust shock. By killing the only defendant before trial, he prevented public testing of the case against Oswald and gave later interpreters a compact story in which one visible murder concealed another.
 
@@ -25,6 +26,7 @@ Ruby matters less here as an organized-crime biography than as a trust shock. By
 - Dallas nightclub operator with informal access around local police.
 - Killer of Oswald during a public police transfer.
 - Mafia-adjacent in milieu but not shown by the episode to be a mafia assassin.
+- Emotionally volatile mourner whose actions and timing are presented as inconsistent with a precisely scheduled professional killing.
 - Actor whose intervention removed the possibility of an Oswald trial.
 - Central source of the enduring “silencing” interpretation.
 
@@ -33,6 +35,12 @@ Ruby matters less here as an organized-crime biography than as a trust shock. By
 ### Killing and public effect
 
 - [[397-jfk-a-conspiracy-unmasked-part-6-glt4318220159]] says Ruby entered the police basement and killed Oswald during transfer, changing the long-term perception of an otherwise apparently strong case.
+- [[396-jfk-the-second-assassin-strikes-part-5-glt7803941061]] reconstructs the basement shooting, Ruby's immediate capture, and his stated hope that Oswald had died.
+
+### Timing and impulsive conduct
+
+- [[396-jfk-the-second-assassin-strikes-part-5-glt7803941061]] places Ruby at Western Union shortly before the shooting and links his opportunity to police repositioning vehicles rather than a demonstrated coordinated schedule.
+- [[396-jfk-the-second-assassin-strikes-part-5-glt7803941061]] describes Ruby's crying, club closures, visits, calls, and stated desire to spare Jacqueline Kennedy a trial as evidence for an emotional motive.
 
 ### Organized-crime theory
 
@@ -40,12 +48,12 @@ Ruby matters less here as an organized-crime biography than as a trust shock. By
 
 ## Qualifications
 
-This profile is based on one retrospective episode that concentrates on whether Ruby participated in a larger plot. It does not provide a full biography, psychological assessment, trial history, or exhaustive map of his police and organized-crime contacts. Rejecting the episode's silencer theory does not make the police-security failure or the consequences of his access insignificant.
+This profile is based on two retrospective episodes that concentrate on whether Ruby participated in a larger plot. Emotional display, erratic conduct, stated motive, and Western Union timing support but do not prove spontaneity. The sources do not provide a full biography, clinical assessment, trial history, or exhaustive map of his police and organized-crime contacts. Rejecting the silencer theory does not make the police-security failure or the consequences of his access insignificant.
 
 ## What Changed
 
-- Established Ruby as both Oswald's killer and a mechanism by which the absence of a trial amplified conspiracy belief.
-- Distinguished underworld adjacency from evidence of coordinated mafia action.
+- Strengthened the impulsive-act judgment with Ruby's pre-shooting conduct and minute-by-minute Western Union timing.
+- Made police access and transfer logistics explicit parts of Ruby's opportunity rather than evidence of demonstrated coordination.
 
 ## Relationships
 

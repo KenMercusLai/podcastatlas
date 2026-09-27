@@ -33622,6 +33622,29 @@
       "updated": "2026-09-11",
       "url": "/wiki/entities/dalianyingbo/"
     },
+    "DallasPoliceDepartment": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_9ba25f0acaac69bf31e4c4f4fd031a35_20625198 [default.mp3_ywr3ahjkcgo_9ba25f0acaac69bf31e4c4f4fd031a35_20625198].md",
+          "key": "the-ice-hiring-boom",
+          "show": "Planet Money",
+          "title": "The ICE hiring boom",
+          "url": "/wiki/sources/the-ice-hiring-boom/"
+        },
+        {
+          "episode_file": "GLT7803941061 [GLT7803941061].md",
+          "key": "396-jfk-the-second-assassin-strikes-part-5-glt7803941061",
+          "show": "The Rest Is History",
+          "title": "396. JFK: The Second Assassin Strikes (Part 5)",
+          "url": "/wiki/sources/396-jfk-the-second-assassin-strikes-part-5-glt7803941061/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/dallaspolicedepartment/"
+    },
     "DanDriver": {
       "episode_count": 1,
       "show_count": 1,
@@ -75885,9 +75908,9 @@
       "url": "/wiki/entities/jackmerridew/"
     },
     "JackRuby": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4318220159 [GLT4318220159].md",
@@ -75895,6 +75918,13 @@
           "show": "The Rest Is History",
           "title": "397. JFK: A Conspiracy Unmasked (Part 6)",
           "url": "/wiki/sources/397-jfk-a-conspiracy-unmasked-part-6-glt4318220159/"
+        },
+        {
+          "episode_file": "GLT7803941061 [GLT7803941061].md",
+          "key": "396-jfk-the-second-assassin-strikes-part-5-glt7803941061",
+          "show": "The Rest Is History",
+          "title": "396. JFK: The Second Assassin Strikes (Part 5)",
+          "url": "/wiki/sources/396-jfk-the-second-assassin-strikes-part-5-glt7803941061/"
         }
       ],
       "updated": "2026-09-27",
@@ -80555,9 +80585,9 @@
       "url": "/wiki/entities/kenjiyamamoto/"
     },
     "KennedyAssassination": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6409828878 [GLT6409828878].md",
@@ -80572,6 +80602,13 @@
           "show": "The Rest Is History",
           "title": "397. JFK: A Conspiracy Unmasked (Part 6)",
           "url": "/wiki/sources/397-jfk-a-conspiracy-unmasked-part-6-glt4318220159/"
+        },
+        {
+          "episode_file": "GLT7803941061 [GLT7803941061].md",
+          "key": "396-jfk-the-second-assassin-strikes-part-5-glt7803941061",
+          "show": "The Rest Is History",
+          "title": "396. JFK: The Second Assassin Strikes (Part 5)",
+          "url": "/wiki/sources/396-jfk-the-second-assassin-strikes-part-5-glt7803941061/"
         }
       ],
       "updated": "2026-09-27",
@@ -83875,9 +83912,9 @@
       "url": "/wiki/concepts/learningstylematchingboundary/"
     },
     "LeeHarveyOswald": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6409828878 [GLT6409828878].md",
@@ -83892,6 +83929,13 @@
           "show": "The Rest Is History",
           "title": "397. JFK: A Conspiracy Unmasked (Part 6)",
           "url": "/wiki/sources/397-jfk-a-conspiracy-unmasked-part-6-glt4318220159/"
+        },
+        {
+          "episode_file": "GLT7803941061 [GLT7803941061].md",
+          "key": "396-jfk-the-second-assassin-strikes-part-5-glt7803941061",
+          "show": "The Rest Is History",
+          "title": "396. JFK: The Second Assassin Strikes (Part 5)",
+          "url": "/wiki/sources/396-jfk-the-second-assassin-strikes-part-5-glt7803941061/"
         }
       ],
       "updated": "2026-09-27",
@@ -106932,9 +106976,9 @@
       "url": "/wiki/concepts/officialhistorycontinuity/"
     },
     "OfficialInquiryTrustRepair": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4318220159 [GLT4318220159].md",
@@ -106942,6 +106986,13 @@
           "show": "The Rest Is History",
           "title": "397. JFK: A Conspiracy Unmasked (Part 6)",
           "url": "/wiki/sources/397-jfk-a-conspiracy-unmasked-part-6-glt4318220159/"
+        },
+        {
+          "episode_file": "GLT7803941061 [GLT7803941061].md",
+          "key": "396-jfk-the-second-assassin-strikes-part-5-glt7803941061",
+          "show": "The Rest Is History",
+          "title": "396. JFK: The Second Assassin Strikes (Part 5)",
+          "url": "/wiki/sources/396-jfk-the-second-assassin-strikes-part-5-glt7803941061/"
         }
       ],
       "updated": "2026-09-27",

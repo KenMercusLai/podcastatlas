@@ -5,6 +5,7 @@ tags: [person, assassination, marxism, united-states, political-violence]
 sources:
   - 398-jfk-the-mystery-is-solved-part-7-glt6409828878
   - 397-jfk-a-conspiracy-unmasked-part-6-glt4318220159
+  - 396-jfk-the-second-assassin-strikes-part-5-glt7803941061
 last_updated: 2026-09-27
 knowledge_schema: synthesis-v1
 ---
@@ -19,7 +20,7 @@ Lee Harvey Oswald was a former U.S. Marine and Soviet defector whom the episode 
 
 The sources construct a cumulative profile rather than relying on one decisive clue. They link a lonely and unstable childhood, early Marxism, Marine marksmanship, failed Soviet defection, conflict with Marina Oswald, workplace difficulty, Cuba activism, a rifle bought under the A. J. Hidell alias, and the attempted shooting of Edwin Walker to a search for dignity and historical significance through politics and violence.
 
-For the assassination itself, the hosts emphasize opportunity and conduct: Oswald worked in the Texas School Book Depository before the motorcade route became public, made an unusual weeknight visit to retrieve a long package, was linked to the sixth floor and rifle, left immediately, collected a revolver, killed Tippit, resisted arrest, and lied during interrogation. The earlier installment adds the institutional consequence of [[JackRuby|Jack Ruby]] killing him before trial: Oswald could never be publicly examined or sentenced, and the apparent silencing became part of the conspiracy story. The sources treat the cumulative case as stronger than intelligence-agency explanations, but they remain podcast syntheses rather than a complete forensic adjudication.
+For the assassination itself, the hosts emphasize opportunity and conduct: Oswald worked in the Texas School Book Depository before the motorcade route became public, made an unusual weeknight visit, left his wedding ring behind, carried a long package, was linked to the sixth floor and rifle, left immediately, collected a revolver, killed Tippit, resisted arrest, and lied during interrogation. Part 5 adds how Marina and Robert Oswald read his unusually calm demeanor as incriminating, while keeping family impressions distinct from physical proof. It also reconstructs [[JackRuby|Jack Ruby]] killing him before trial, meaning Oswald could never be publicly examined or sentenced and the apparent silencing became part of the conspiracy story. The sources treat the cumulative case as stronger than intelligence-agency explanations, but they remain podcast syntheses rather than a complete forensic adjudication.
 
 ## Key Characteristics
 
@@ -48,18 +49,21 @@ For the assassination itself, the hosts emphasize opportunity and conduct: Oswal
 ### Flight and post-crime conduct
 
 - [[398-jfk-the-mystery-is-solved-part-7-glt6409828878]] recounts Oswald's travel home, acquisition of his revolver, killing of Tippit, theater arrest, resistance, and lies about the rifle and photograph.
+- [[396-jfk-the-second-assassin-strikes-part-5-glt7803941061]] adds the wedding ring, cab journey, changed trousers, rifle money order, Hidell denial, backyard photograph dispute, and family readings of his demeanor.
 
 ### Death before trial
 
 - [[397-jfk-a-conspiracy-unmasked-part-6-glt4318220159]] explains how Ruby's killing of Oswald turned a case police and the FBI considered strong into an enduring silencing narrative.
+- [[396-jfk-the-second-assassin-strikes-part-5-glt7803941061]] reconstructs the failed transfer, shooting, Parkland treatment, and death two days after Kennedy.
 
 ## Qualifications
 
-The psychological narrative is interpretive: childhood assessments, resentment, Marxism, envy, and desire for historical importance do not by themselves prove murder. Some claims depend on later testimony, host selection, and compressed treatment of disputed ballistic or trajectory questions. Because Oswald was killed before trial, the case also lacks the adversarial testing and defendant testimony a trial might have provided. The page records the sources' cumulative case without treating personality profiles or political ideology as substitutes for event-specific evidence.
+The psychological and behavioral narrative is interpretive: childhood assessments, resentment, Marxism, envy, calm demeanor, small lies, and a desire for historical importance do not by themselves prove murder. Some claims depend on family impressions, later testimony, host selection, and compressed treatment of disputed ballistic or trajectory questions. Because Oswald was killed before trial, the case also lacks the adversarial testing and defendant testimony a trial might have provided. The page records the sources' cumulative case without treating personality profiles or political ideology as substitutes for event-specific evidence.
 
 ## What Changed
 
-- Added Oswald's death before trial as both an evidentiary limit and a driver of the silencing narrative.
+- Expanded the conduct evidence while explicitly separating family impressions and false statements from physical proof.
+- Grounded the absence-of-trial judgment in the failed transfer and immediate medical chronology.
 
 ## Relationships
 
@@ -69,3 +73,4 @@ The psychological narrative is interpretive: childhood assessments, resentment, 
 - [[OccamsRazor]] - comparison rule the hosts use to prefer the Oswald case over larger conspiracies.
 - [[ConspiracyTheoryPatternSeeking]] - alternative-explanation pattern the episode contrasts with its cumulative case.
 - [[JackRuby]] - man who killed Oswald before the case could proceed to trial.
+- [[DallasPoliceDepartment]] - institution that arrested, interrogated, and failed to protect Oswald during transfer.

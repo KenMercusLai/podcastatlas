@@ -23428,3 +23428,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | 396. JFK: The Second Assassin Strikes (Part 5)
+
+Added source `396-jfk-the-second-assassin-strikes-part-5-glt7803941061`; migrated and updated `DallasPoliceDepartment`; and updated `JackRuby`, `LeeHarveyOswald`, `KennedyAssassination`, `OfficialInquiryTrustRepair`, and the canonical index from their complete bounded source sets. Core synthesis: rapid evidence gathering and catastrophic custody protection can coexist, but failure in the latter can contaminate public trust in the former; Ruby's grief, Western Union timing, opportunistic basement access, and lack of escape planning strengthen an impulsive-act interpretation without proving it. No settled contradiction with Parts 6 or 7 was found. Behavioral guilt readings, Tippit certainty, Ruby's motives, and the hosts' assessment of police competence remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
