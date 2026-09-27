@@ -5,7 +5,8 @@ tags: [healthcare, workplace-health, movement, prevention, medical-literacy]
 sources:
   - vol-136-ni-ye-bei-yizi-yingkong-le-dafu-kuai-jiujiu-jiuzuo-dagongren-ba-lovi71tk-wgo30v9myvd2f1gjdwu
   - vol-123-yisheng-wo-zhe-bozi-teng-he-yaoteng-haiyou-jiu-ma-lpqft6dbvu0yyo90rc0c-1wyrgy2
-last_updated: 2026-09-24
+  - vol-89-yundong-kangfu-huanjie-jiuzuo-pilao-jiaocheng-gen-kangfushi-daixin-jiankang-buzhi-3-fenzhong-ln2jtowe4hyntw1omun5q8_wjsh5
+last_updated: 2026-09-27
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,12 +22,14 @@ The durable intervention is variability. A standing desk, special chair, compres
 
 VOL.123 reinforces the musculoskeletal branch through neck and lower-back examples. It links prolonged forward-head or slumped posture with reduced support capacity, recommends getting up after sustained sitting, and treats neutral alignment as a lower-load position rather than a demand to remain rigidly still.
 
+VOL.89 adds small workplace prompts and workstation fit. Using a smaller water cup can create natural walking breaks; wrist and trunk movements can interrupt local stillness; and screen, desk, chair, lumbar support, and input-device position can reduce avoidable reaching or slumping. These aids remain subordinate to variability and individualized assessment, especially when pain radiates, numbness appears, or a generic exercise is poorly tolerated.
+
 ## Key Claims
 - Prolonged sitting is a multi-factor exposure that can affect several systems without being a sufficient diagnosis or single cause.
 - The most portable intervention is to interrupt fixed posture rather than search for one indefinitely maintainable “correct” posture.
 - Calf and ankle movement supports venous return when walking is temporarily impractical.
 - Neutral lumbar positioning can reduce some loading, but it does not cancel the pressure and inactivity of remaining seated.
-- Supports, stockings, standing desks, and special chairs are conditional aids whose fit, indication, duration, and tradeoffs matter.
+- Supports, stockings, standing desks, chairs, screens, and desk layouts are conditional aids whose fit, indication, duration, and tradeoffs matter; none converts fixed posture into a complete intervention.
 - Hydration and toilet breaks can support routine self-care, but fluid advice changes with heart failure and other individual conditions.
 - Persistent or severe symptoms move the problem from prevention into qualified clinical assessment, while neck and back posture cues remain most useful when paired with repeated movement and gradual strength building.
 
@@ -36,12 +39,14 @@ VOL.123 reinforces the musculoskeletal branch through neck and lower-back exampl
 - Device boundary: [[vol-136-ni-ye-bei-yizi-yingkong-le-dafu-kuai-jiujiu-jiuzuo-dagongren-ba-lovi71tk-wgo30v9myvd2f1gjdwu]] treats standing desks, stockings, lumbar supports, yoga balls, and special chairs as conditional tools rather than replacements for activity.
 - Strength and escalation: [[vol-136-ni-ye-bei-yizi-yingkong-le-dafu-kuai-jiujiu-jiuzuo-dagongren-ba-lovi71tk-wgo30v9myvd2f1gjdwu]] recommends gradual low-load core work while preserving clinical boundaries for established pain, vascular disease, urinary symptoms, fainting, and persistent bloating.
 - Neck-and-back reinforcement: [[vol-123-yisheng-wo-zhe-bozi-teng-he-yaoteng-haiyou-jiu-ma-lpqft6dbvu0yyo90rc0c-1wyrgy2]] connects forward-head posture, prolonged sitting, muscular fatigue, neutral position, and periodic activity.
+- Workplace prompts and fit: [[vol-89-yundong-kangfu-huanjie-jiuzuo-pilao-jiaocheng-gen-kangfushi-daixin-jiankang-buzhi-3-fenzhong-ln2jtowe4hyntw1omun5q8_wjsh5]] combines water-break prompts, desk-based movement, screen and chair adjustment, lumbar support, and occupation-specific asymmetry with individualized rehabilitation.
 
 ## Counterevidence & Qualifications
-The episode is a multi-speaker public-education discussion, not a clinical guideline. Its mechanisms and examples do not show that sitting alone causes every named condition, and the source does not provide a universal break interval, water target, chair design, exercise dose, stocking prescription, or fertility threshold. Standing continuously can also create vascular strain, so “stand instead” is not the complete synthesis.
+The episodes are public-education discussions, not clinical guidelines. Their mechanisms and examples do not show that sitting alone causes every named condition, and the sources do not provide a universal break interval, water target, chair design, screen position, exercise dose, stocking prescription, or fertility threshold. Standing continuously can also create vascular strain, so “stand instead” is not the complete synthesis.
 
 ## What Changed
-- Extended the multi-system prevention frame with cervical posture, low-back endurance, and the distinction between neutral alignment and rigid stillness.
+- Added workstation fit and small behavioral prompts as ways to support, but not replace, regular movement.
+- Added symptom-sensitive exercise selection and occupation-specific asymmetry to the interruption frame.
 
 ## Related Concepts
 - [[TravelThrombosisPrevention]] - calf-pump, hydration, movement, and compression branch for prolonged immobility.
@@ -51,3 +56,4 @@ The episode is a multi-speaker public-education discussion, not a clinical guide
 - [[EconomyClassSyndromeTravelThrombosis]] - travel-specific immobility risk sharing the venous-stasis mechanism.
 - [[MedicalRiskManagement]] - broader relationship between low-cost prevention, individual exceptions, and escalation.
 - [[CervicalCurvePostureManagement]] - neck-specific application of posture variability and capacity.
+- [[WorkstationPostureAdjustment]] - setup layer that can reduce avoidable sustained demand while preserving movement variability.

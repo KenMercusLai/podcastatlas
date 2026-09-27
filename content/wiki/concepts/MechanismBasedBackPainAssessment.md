@@ -5,7 +5,8 @@ tags: [healthcare, back-pain, diagnosis, rehabilitation]
 sources:
   - build-a-strong-pain-proof-back-dr-stuart-mcgill-scim9911539455
   - protocols-to-strengthen-pain-proof-your-back-scim8264963647
-last_updated: 2026-09-25
+  - vol-89-yundong-kangfu-huanjie-jiuzuo-pilao-jiaocheng-gen-kangfushi-daixin-jiankang-buzhi-3-fenzhong-ln2jtowe4hyntw1omun5q8_wjsh5
+last_updated: 2026-09-27
 knowledge_schema: synthesis-v1
 ---
 
@@ -19,8 +20,10 @@ Mechanism-based back-pain assessment is the practice of identifying the specific
 
 The solo protocol episode supplies an accessible example of why mechanism matters: repeated flexion aggravated Huberman's own symptoms, while direction-specific extension reportedly helped. That personal response does not establish a diagnosis or a universal exercise rule. Together the sources make assessment a way to narrow safe next steps—not a promise that every symptom can be reproduced, reduced to biomechanics, or self-treated. Pain may also be sensitized or shaped by trauma and psychosocial conditions rather than a straightforward tissue trigger.
 
+VOL.89 adds a rehabilitation-practice version through the metaphor of a detective. Knee, neck, or lower-back pain may require examining adjacent joints, mobility, pelvic or ribcage position, work setup, occupation, habits, and symptom distribution rather than treating only the painful site. Its examples also show why an exercise category is not enough: stretching can be mismatched to a lengthened but tense muscle, and a 90/90 breathing drill may need regression when hip mobility is limited.
+
 ## Key Claims
-- Back pain is a symptom category with multiple possible mechanisms, not one uniform condition.
+- Back pain and pain location are symptom categories with multiple possible mechanisms, not complete diagnoses.
 - The person's goals, exposure history, work, sport, pain behavior, and prior treatment are part of the assessment.
 - Reproducing a familiar pain response can help identify a mechanical trigger and test whether movement modification changes it.
 - Hip anatomy, spine motion, shear, compression, and technique can explain why the same exercise differs across people.
@@ -34,12 +37,14 @@ The solo protocol episode supplies an accessible example of why mechanism matter
 - Provocation and modification: [[build-a-strong-pain-proof-back-dr-stuart-mcgill-scim9911539455]] uses provocative testing and movement changes to identify mechanical pathways and tolerable alternatives.
 - Nonmechanical qualification: [[build-a-strong-pain-proof-back-dr-stuart-mcgill-scim9911539455]] discusses trauma-linked and sensitized pain patterns that require gentle, non-painful exposure rather than a simple structural explanation.
 - Direction-sensitive example: [[protocols-to-strengthen-pain-proof-your-back-scim8264963647]] reports worsening with crunches and improvement with Cobra-style extension in one uncontrolled personal case, while warning that disc direction and severe symptoms require assessment.
+- Rehabilitation assessment: [[vol-89-yundong-kangfu-huanjie-jiuzuo-pilao-jiaocheng-gen-kangfushi-daixin-jiankang-buzhi-3-fenzhong-ln2jtowe4hyntw1omun5q8_wjsh5]] connects the painful site with adjacent joints, work, habits, mobility, muscular state, and radiating symptoms before selecting or regressing an exercise.
 
 ## Counterevidence & Qualifications
-Provocative testing is not a self-diagnostic algorithm, and inability to reproduce pain in one setting does not establish that symptoms are unreal or purely psychological. Neurological change, bowel or bladder symptoms, trauma, severe or worsening pain, systemic illness, or persistent impairment requires qualified evaluation.
+Provocative testing is not a self-diagnostic algorithm, and inability to reproduce pain in one setting does not establish that symptoms are unreal or purely psychological. The rehabilitation examples and claims about muscle state, joint contribution, imaging, or exercise fit remain source-scoped rather than a remote diagnosis. Neurological change, bowel or bladder symptoms, trauma, severe or worsening pain, systemic illness, or persistent impairment requires qualified evaluation.
 
 ## What Changed
-- Added a direction-sensitive movement example while explicitly narrowing it to an uncontrolled personal case.
+- Extended assessment beyond the back and painful site to adjacent joints, occupation, habits, mobility, and symptom distribution.
+- Added exercise regression and stretching mismatch as practical reasons assessment should precede a generic routine.
 
 ## Related Concepts
 - [[SymptomDrivenSpineCare]] - clinical decision neighbor prioritizing symptoms and function over imaging labels alone.

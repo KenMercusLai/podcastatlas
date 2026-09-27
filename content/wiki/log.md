@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-27] ingest | VOL.89运动康复｜缓解久坐疲劳教程 跟康复师带薪健康不止3分钟
+
+Added source `vol-89-yundong-kangfu-huanjie-jiuzuo-pilao-jiaocheng-gen-kangfushi-daixin-jiankang-buzhi-3-fenzhong-ln2jtowe4hyntw1omun5q8_wjsh5`; created `ChenSportsRehabilitationGuest` and `WorkstationPostureAdjustment`; and updated `MechanismBasedBackPainAssessment`, `CervicalCurvePostureManagement`, `SedentaryBehaviorInterruption`, the canonical index, and overview from their complete bounded source sets. Core synthesis: symptom location does not by itself identify the cause, workstation changes and brief movement can reduce avoidable sustained demand, and exercises should be selected or regressed through history, function, mobility, occupation, habits, and symptom response rather than copied as universal routines. No settled contradiction found. The guest's identity and career, patient mix, anatomy and pathology explanations, MRI preference, exercise examples, and treatment techniques remain source-scoped public education rather than individualized medical guidance. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
 ## [2026-09-27] ingest | VOL.90运动医学｜朋友你滑雪吗？补钙要趁早｜「科目三」禁忌人群
 
 Added source `vol-90-yundong-yixue-pengyou-ni-huaxue-ma-bugai-yao-chenzao-kemu-san-jinji-renqun-lvfameb1ztoxm5yx5e-ylsrekbsq`; created `ZhangWuhuaSportsMedicine` and `JointSupplementTreatmentBoundary`; and updated `MaHaoning`, `ExerciseLoadManagement`, `StrengthTrainingJointProtection`, `KneeStabilityInjuryCascade`, `AcuteSportsInjuryEscalation`, the canonical index, and overview from their complete bounded source sets. Core synthesis: sports safety depends on controlled range, warmup, protection, skill progression, and capacity; suspected acute injury should be protected from secondary damage before repeated testing; and muscle or supplements can support selected goals without proving structural repair. No settled contradiction found. Calcium-start ages, glucosamine benefit, shockwave treatment, joint-replacement timing, listener-case diagnoses, and prognosis remain source-scoped public education rather than individualized medical guidance. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
@@ -23392,6 +23396,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-27] ingest | 399. The Savage Storm: World War II and The Battle for Italy
 
 Added source `399-the-savage-storm-world-war-ii-and-the-battle-for-italy-glt8130436942`; created `JamesHolland`, `ItalianCampaign1943`, `AlbertKesselring`, `SecondaryTheaterResourceConstraint`, and `LiberationDestructionDilemma`; and updated `AbbeyOfMonteCassino`, `WinstonChurchill`, `FailedStrategicShortcutAttritionTrap`, and the canonical index from their complete bounded source sets. Core synthesis: the campaign achieved limited aims by removing Italy from the Axis war, drawing German forces south, and securing ports and Foggia, but Overlord's priority, global resource competition, terrain, weather, demolition, and command choices turned the promised rapid advance into prolonged attrition and civilian catastrophe. No settled contradiction found. Italy qualifies the Gallipoli-derived shortcut trap because operational failure did not erase meaningful theater-level gains; Kesselring's reputation, withdrawal counterfactuals, numerical claims, and civilian-health estimates remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-27] lint | Wiki health check
 

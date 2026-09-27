@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "1d341f8f999509137f16869155acc686068c729a721a25d437d0e4444ebe4e05",
       "0d400512be766cf6cb5705845c569738568557544604846dc1622097d52b41e8",
       "ff38ff2149c88ba8332e4a0444a48ebc7757430d2a4c9e21920ae07be179adf6",
       "caa500d3b49a06620daf7b604591dfb45482cc2db11d0df8640db4696ddeab6b",
@@ -758,11 +759,33 @@
       "1f02005c80ec3e7ac3f24acac820a9118d51d7e2de5614db5e13752add4f80b9",
       "60d22980877c9a07564718a1614f1e06e5947001e678ff946ba7dbbc77be1f31"
     ],
-    "paragraph_count": 756
+    "paragraph_count": 757
   },
-  "overview_commit": "8efa454f9102fbdd739fb2c86ab4dcd1f9bd73cd",
-  "overview_digest": "7ef68b5606477f7ffff28c89f41b339020395bb122c78f7d4b7828a95369f6a8",
+  "overview_commit": "e62c4aef4b0007e39c92f06f84da8df1176aafc9",
+  "overview_digest": "97ed0b5e9e11121a6dd1d17995fd5ca2913f575d50dce89f3c5ce25c761c6f19",
   "paragraphs": [
+    {
+      "id": "1d341f8f999509137f16869155acc686068c729a721a25d437d0e4444ebe4e05",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[vol-89-yundong-kangfu-huanjie-jiuzuo-pilao-jiaocheng-gen-kangfushi-daixin-jiankang-buzhi-3-fenzhong-ln2jtowe4hyntw1omun5q8_wjsh5|VOL.89运动康复｜缓解久坐疲劳教程 跟康复师带薪健康不止3分钟]], a [[ZheBingShuoLaiHuaChang|这病说来话长]] episode with [[Atang|阿汤]] and [[ChenSportsRehabilitationGuest|陈老师]] on chronic pain, sedentary-work posture, workstation setup, and exercise selection. It adds [[ChenSportsRehabilitationGuest]] and [[WorkstationPostureAdjustment]], while extending [[MechanismBasedBackPainAssessment]], [[CervicalCurvePostureManagement]], and [[SedentaryBehaviorInterruption]]. Its core synthesis is that the painful site may not identify the relevant mechanism, while screens, chairs, supports, breathing, mobility, strength, and movement breaks are conditional tools whose value depends on work, habits, function, mobility, and symptom response. No settled contradiction is recorded; the guest's identity and career, patient mix, anatomical explanations, MRI preference, exercise examples, and treatment techniques remain source-scoped public education, and radiating, numb, persistent, severe, or function-limiting symptoms require qualified assessment rather than internet self-treatment.",
+      "topic_scores": {
+        "psychology-and-personal-development": 2,
+        "work-education-and-society": 3
+      },
+      "wikilinks": [
+        "Atang",
+        "CervicalCurvePostureManagement",
+        "ChenSportsRehabilitationGuest",
+        "MechanismBasedBackPainAssessment",
+        "SedentaryBehaviorInterruption",
+        "WorkstationPostureAdjustment",
+        "ZheBingShuoLaiHuaChang",
+        "vol-89-yundong-kangfu-huanjie-jiuzuo-pilao-jiaocheng-gen-kangfushi-daixin-jiankang-buzhi-3-fenzhong-ln2jtowe4hyntw1omun5q8_wjsh5"
+      ]
+    },
     {
       "id": "0d400512be766cf6cb5705845c569738568557544604846dc1622097d52b41e8",
       "primary_topic": "science-health-and-climate",

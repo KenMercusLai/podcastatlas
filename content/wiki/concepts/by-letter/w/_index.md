@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 8351
+wiki_total_pages: 8352
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -431,6 +431,9 @@ wiki_pages:
   - key: "WorkplaceRoleClarityBoundary"
     title: "Workplace Role Clarity Boundary / 职场角色清醒边界"
     url: "/wiki/concepts/workplaceroleclarityboundary/"
+  - key: "WorkstationPostureAdjustment"
+    title: "Workstation Posture Adjustment / 工位姿势调整"
+    url: "/wiki/concepts/workstationpostureadjustment/"
   - key: "WorldActionModels"
     title: "World Action Models"
     url: "/wiki/concepts/worldactionmodels/"
