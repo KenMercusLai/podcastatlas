@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8473
+wiki_total_pages: 8476
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -551,6 +551,9 @@ wiki_pages:
   - key: "PersonalTrustPoliticalFragility"
     title: "Personal Trust Political Fragility / 私交信任的政治脆弱性"
     url: "/wiki/concepts/personaltrustpoliticalfragility/"
+  - key: "PersonalityTestIdentityBoundary"
+    title: "Personality-Test Identity Boundary / 性格测试身份边界"
+    url: "/wiki/concepts/personalitytestidentityboundary/"
   - key: "PersonalizationAsSocialIdentity"
     title: "Personalization As Social Identity"
     url: "/wiki/concepts/personalizationassocialidentity/"

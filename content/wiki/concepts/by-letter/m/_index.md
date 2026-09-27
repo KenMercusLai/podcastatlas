@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 8473
+wiki_total_pages: 8476
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -617,6 +617,9 @@ wiki_pages:
   - key: "MentalHealthHelpSeekingScamRisk"
     title: "Mental-Health Help-Seeking Scam Risk / 心理求助被骗风险"
     url: "/wiki/concepts/mentalhealthhelpseekingscamrisk/"
+  - key: "MentalHealthSymptomEscalation"
+    title: "Mental-Health Symptom Escalation / 心理症状就医升级边界"
+    url: "/wiki/concepts/mentalhealthsymptomescalation/"
   - key: "MentalizingProjection"
     title: "Mentalizing Projection / 心智化投射"
     url: "/wiki/concepts/mentalizingprojection/"

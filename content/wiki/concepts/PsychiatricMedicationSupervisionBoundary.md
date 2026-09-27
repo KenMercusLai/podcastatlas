@@ -7,8 +7,9 @@ sources:
   - essentials-the-science-treatment-of-bipolar-disorder-scim8821948371
   - essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647
   - essentials-psychedelics-neurostimulation-for-brain-rewiring-dr-nolan-williams-scim5296180263
+  - vol-72-jingshenke-bie-tai-na-xingge-ceshi-dangshi-sanjia-jingshenke-yisheng-jiao-ni-he-zhichang-zuo-jianya-qiege-li6jofbvucknthuqw1flm-r0m4kw
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-09
+last_updated: 2026-09-28
 ---
 
 # Psychiatric Medication Supervision Boundary
@@ -21,6 +22,8 @@ Across the current evidence, this boundary separates serious psychiatric care fr
 
 The Williams episode adds a circuit-psychiatry and psychedelic version of the same boundary. SSRIs, TMS, [[StanfordNeuromodulationTherapy]], ketamine, MDMA, psilocybin, ibogaine, and ayahuasca are all discussed as potentially useful for some psychiatric contexts, but none are turned into self-treatment instructions. The combined judgment is that non-drug tools can matter, but their place is supportive and supervised when the condition is serious or the intervention is intense. Diet, ketosis, supplements, sleep, psychotherapy, exposure therapy, SSRIs, lithium, ECT, accelerated TMS, and psychedelic-assisted treatment all become safer only when their intensity, risk, and patient context are handled by qualified care.
 
+VOL.72 adds a common outpatient medication version. It distinguishes discontinuation symptoms after abrupt stopping from addiction language, notes that some anti-anxiety medicines such as benzodiazepines can carry dependence risk, and places starting, switching, tapering, stopping, and dose decisions inside gradual clinician-guided care with regular follow-up. This does not make antidepressants risk-free; it makes precise risk language and supervision more important.
+
 ## Key Claims
 - Diet interventions that affect psychiatric symptoms can also affect medication needs, which increases supervision requirements.
 - Stopping or tapering psychiatric medication is framed as potentially dangerous and professionally supervised.
@@ -28,7 +31,7 @@ The Williams episode adds a circuit-psychiatry and psychedelic version of the sa
 - Bipolar disorder adds a separate replacement-risk case because talk therapy, lifestyle change, natural approaches, and supplements are described as insufficient stand-alone care.
 - OCD adds a behavioral-treatment case because exposure and ritual prevention deliberately evoke anxiety and should be planned by trained clinicians.
 - Circuit psychiatry adds an intensive-intervention case because TMS, SNT, ketamine, psychedelic-assisted treatment, lithium, medication tapering, high-ketosis diets, exposure work, and ECT depend on target, protocol, screening, evidence, monitoring, and follow-up.
-- Evidence limits strengthen supervision needs because source-scoped clinical examples and public education are not treatment protocols.
+- Withdrawal, physiological adaptation, misuse, and addiction should not be collapsed into one label, but all can still make unsupervised medication changes unsafe.
 
 ## Evidence
 - Medication warning - [[essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786]] says tapering medication was difficult in the schizoaffective case and warns against unsafe medication stopping.
@@ -41,13 +44,14 @@ The Williams episode adds a circuit-psychiatry and psychedelic version of the sa
 - Exposure-treatment boundary - [[essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647]] says exposure-based CBT and ritual prevention should be done by trained licensed psychologists or psychiatrists.
 - Circuit and psychedelic boundary - [[essentials-psychedelics-neurostimulation-for-brain-rewiring-dr-nolan-williams-scim5296180263]] rejects a simple serotonin-deficit explanation while keeping SSRIs, ketamine, TMS, SNT, and psychedelics in clinical context.
 - High-intensity treatment boundary - [[essentials-psychedelics-neurostimulation-for-brain-rewiring-dr-nolan-williams-scim5296180263]] says psychedelics require rigorous evidence and strict medical supervision, and singles out ibogaine for cardiac-risk screening.
+- Outpatient tapering and dependence distinction - [[vol-72-jingshenke-bie-tai-na-xingge-ceshi-dangshi-sanjia-jingshenke-yisheng-jiao-ni-he-zhichang-zuo-jianya-qiege-li6jofbvucknthuqw1flm-r0m4kw]] describes abrupt-stop reactions, benzodiazepine dependence risk, gradual adjustment, adherence to instructions, and regular face-to-face follow-up.
 
 ## Counterevidence & Qualifications
-The sources do not provide formal medication-tapering, SSRI-selection, lithium-monitoring, ECT-selection, exposure-hierarchy, supplement-safety, TMS/SNT-selection, psychedelic-screening, OCD, trauma, PTSD, depression, or bipolar relapse protocols. They establish a supervision boundary and the reason dietary, lifestyle, supplement, medication, psychotherapy, neuromodulation, or psychedelic tools should not be treated as stand-alone care for serious psychiatric disorders.
+The sources do not provide formal medication-tapering, SSRI-selection, benzodiazepine-duration, lithium-monitoring, ECT-selection, exposure-hierarchy, supplement-safety, TMS/SNT-selection, psychedelic-screening, OCD, trauma, PTSD, depression, anxiety, or bipolar relapse protocols. VOL.72's statement that antidepressants are not generally described as addictive should not be read as denying discontinuation symptoms, adverse effects, misuse risk, or individual variation. The sources establish a supervision boundary rather than a treatment plan.
 
 ## What Changed
-- Added Williams's circuit-psychiatry episode as an evidence branch for supervised TMS/SNT, ketamine, psychedelic-assisted treatment, and ibogaine cardiac-risk screening.
-- Expanded the boundary from diet, medication tapering, lithium, ECT, SSRI changes, and exposure-response prevention into intensive neuromodulation and psychedelic clinical research.
+- Added the outpatient distinction among discontinuation effects, dependence risk, and addiction language.
+- Extended the boundary to gradual clinician-guided starting, switching, tapering, stopping, and regular follow-up.
 
 ## Related Concepts
 - [[MedicalRiskManagement]] - broader framework for high-stakes clinical decision safety.
@@ -62,3 +66,4 @@ The sources do not provide formal medication-tapering, SSRI-selection, lithium-m
 - [[CircuitBasedPsychiatry]] - explanatory model that still requires qualified clinical translation.
 - [[StanfordNeuromodulationTherapy]] - intensive neuromodulation protocol that requires clinical delivery.
 - [[PsychedelicClinicalSupervisionBoundary]] - psychedelic-specific supervision rule added by the Williams episode.
+- [[MentalHealthSymptomEscalation]] - triage rule for deciding when symptoms need qualified assessment before medication decisions.

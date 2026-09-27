@@ -23956,3 +23956,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | VOL.72精神科｜别太拿性格测试当事 三甲精神科医生教你和职场做减压切割
+
+Added source `vol-72-jingshenke-bie-tai-na-xingge-ceshi-dangshi-sanjia-jingshenke-yisheng-jiao-ni-he-zhichang-zuo-jianya-qiege-li6jofbvucknthuqw1flm-r0m4kw`; created `PersonalityTestIdentityBoundary`, `WorkRoleTransitionRitual`, and `MentalHealthSymptomEscalation`; and updated `WorkRestBoundary`, `PsychologicalBoundaryProtection`, `PsychiatricMedicationSupervisionBoundary`, and the canonical index from their complete bounded source sets. Core synthesis: personality tests can support reflection without becoming diagnosis or destiny; workplace recovery benefits from personal transition cues plus organizational boundaries; manipulative pressure should not be converted automatically into self-blame; and psychiatric escalation and medication changes depend on symptom severity, duration, function, baseline, clinical interview, gradual adjustment, and qualified follow-up. No settled contradiction found. MBTI accuracy, a universal six-month anxiety threshold, commute length, breathing practices, and medication claims remain source-scoped public education rather than individualized diagnosis or treatment. The guest is identified only as 崔老师, and the automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

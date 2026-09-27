@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 8473
+wiki_total_pages: 8476
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -377,6 +377,9 @@ wiki_pages:
   - key: "WorkRestBoundary"
     title: "Work-Rest Boundary / 工作休假边界"
     url: "/wiki/concepts/workrestboundary/"
+  - key: "WorkRoleTransitionRitual"
+    title: "Work-Role Transition Ritual / 工作角色切换仪式"
+    url: "/wiki/concepts/workroletransitionritual/"
   - key: "WorkerPhotographicArchive"
     title: "Worker Photographic Archive / 工人摄影档案"
     url: "/wiki/concepts/workerphotographicarchive/"
