@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 11150
+wiki_total_pages: 11153
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -227,6 +227,9 @@ wiki_pages:
   - key: "AdamGrant"
     title: "Adam Grant"
     url: "/wiki/entities/adamgrant/"
+  - key: "AdamIPSmith"
+    title: "Adam I. P. Smith"
+    url: "/wiki/entities/adamipsmith/"
   - key: "AdamRaine"
     title: "Adam Raine"
     url: "/wiki/entities/adamraine/"
@@ -1448,6 +1451,9 @@ wiki_pages:
   - key: "ArthurSmithWoodward"
     title: "Arthur Smith Woodward"
     url: "/wiki/entities/arthursmithwoodward/"
+  - key: "ArticlesOfConfederation"
+    title: "Articles of Confederation"
+    url: "/wiki/entities/articlesofconfederation/"
   - key: "ArtX"
     title: "ArtX"
     url: "/wiki/entities/artx/"

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2107
+topic_total_pages: 2111
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -31,6 +31,9 @@ topic_concepts:
   - key: "AmericanProtectionistTradition"
     title: "American Protectionist Tradition"
     url: "/wiki/concepts/americanprotectionisttradition/"
+  - key: "AmericanRevolutionGlobalWar"
+    title: "American Revolution as Global War"
+    url: "/wiki/concepts/americanrevolutionglobalwar/"
   - key: "AncientImperialCritiqueLimits"
     title: "Ancient Imperial Critique Limits"
     url: "/wiki/concepts/ancientimperialcritiquelimits/"
@@ -244,6 +247,9 @@ topic_concepts:
   - key: "ContentOverMotiveRemonstrance"
     title: "Content-Over-Motive Remonstrance / 只问对错不问动机的纳谏"
     url: "/wiki/concepts/contentovermotiveremonstrance/"
+  - key: "ContestedAmericanFoundingMyth"
+    title: "Contested American Founding Myth"
+    url: "/wiki/concepts/contestedamericanfoundingmyth/"
   - key: "CorrectableLeadershipError"
     title: "Correctable Leadership Error / 犯错能改的领导力"
     url: "/wiki/concepts/correctableleadershiperror/"
@@ -1036,6 +1042,9 @@ topic_concepts:
   - key: "RevolutionaryAtrocityNarrativeContest"
     title: "Revolutionary Atrocity Narrative Contest"
     url: "/wiki/concepts/revolutionaryatrocitynarrativecontest/"
+  - key: "RevolutionaryLibertyDistribution"
+    title: "Revolutionary Liberty Distribution"
+    url: "/wiki/concepts/revolutionarylibertydistribution/"
   - key: "RewardAllocationBacklash"
     title: "Reward Allocation Backlash / 分配反噬"
     url: "/wiki/concepts/rewardallocationbacklash/"
@@ -4671,6 +4680,9 @@ topic_sources:
   - key: "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008"
     title: "318: Hundred Years' War: A Game of Thrones (Part 1)"
     url: "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+  - key: "350-the-triumph-of-george-washington-part-4-glt1619660676"
+    title: "350: The Triumph of George Washington (Part 4)"
+    url: "/wiki/sources/350-the-triumph-of-george-washington-part-4-glt1619660676/"
   - key: "351-amsterdam-miracles-money-and-mud-part-1-glt4666881212"
     title: "351: Amsterdam: Miracles, Money, and Mud (Part 1)"
     url: "/wiki/sources/351-amsterdam-miracles-money-and-mud-part-1-glt4666881212/"

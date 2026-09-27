@@ -999,6 +999,10 @@
     "title": "350-马基雅维利为何认为人民再蠢也比精英可靠？",
     "url": "/wiki/sources/350-majiyaweli-weihe-renwei-renmin-zai-chun-ye-bi-jingying-kekao-fqgvbt9naq3u9dkdabvczvw-3-u5/"
   },
+  "350-the-triumph-of-george-washington-part-4-glt1619660676": {
+    "title": "350: The Triumph of George Washington (Part 4)",
+    "url": "/wiki/sources/350-the-triumph-of-george-washington-part-4-glt1619660676/"
+  },
   "351-amsterdam-miracles-money-and-mud-part-1-glt4666881212": {
     "title": "351: Amsterdam: Miracles, Money, and Mud (Part 1)",
     "url": "/wiki/sources/351-amsterdam-miracles-money-and-mud-part-1-glt4666881212/"
@@ -4475,6 +4479,10 @@
     "title": "Adam Grant",
     "url": "/wiki/entities/adamgrant/"
   },
+  "AdamIPSmith": {
+    "title": "Adam I. P. Smith",
+    "url": "/wiki/entities/adamipsmith/"
+  },
   "AdamRaine": {
     "title": "Adam Raine",
     "url": "/wiki/entities/adamraine/"
@@ -6207,6 +6215,10 @@
     "title": "American Revolution",
     "url": "/wiki/entities/americanrevolution/"
   },
+  "AmericanRevolutionGlobalWar": {
+    "title": "American Revolution as Global War",
+    "url": "/wiki/concepts/americanrevolutionglobalwar/"
+  },
   "AmericanRightBritainWarningNarrative": {
     "title": "American Right Britain Warning Narrative",
     "url": "/wiki/concepts/americanrightbritainwarningnarrative/"
@@ -7606,6 +7618,10 @@
   "ArthurSmithWoodward": {
     "title": "Arthur Smith Woodward",
     "url": "/wiki/entities/arthursmithwoodward/"
+  },
+  "ArticlesOfConfederation": {
+    "title": "Articles of Confederation",
+    "url": "/wiki/entities/articlesofconfederation/"
   },
   "ArtificialCognition": {
     "title": "Artificial Cognition",
@@ -16910,6 +16926,10 @@
   "ContentSeedingMarketing": {
     "title": "Content Seeding Marketing / 内容种草",
     "url": "/wiki/concepts/contentseedingmarketing/"
+  },
+  "ContestedAmericanFoundingMyth": {
+    "title": "Contested American Founding Myth",
+    "url": "/wiki/concepts/contestedamericanfoundingmyth/"
   },
   "ContestedForensicAttribution": {
     "title": "Contested Forensic Attribution",
@@ -59427,6 +59447,10 @@
     "title": "Revolutionary Justice-Mercy Conflict",
     "url": "/wiki/concepts/revolutionaryjusticemercyconflict/"
   },
+  "RevolutionaryLibertyDistribution": {
+    "title": "Revolutionary Liberty Distribution",
+    "url": "/wiki/concepts/revolutionarylibertydistribution/"
+  },
   "RevolutionaryMartyrdomImageMaking": {
     "title": "Revolutionary Martyrdom Image-Making / 革命殉道图像制造",
     "url": "/wiki/concepts/revolutionarymartyrdomimagemaking/"
@@ -78138,6 +78162,10 @@
   "YongzhouLateHan": {
     "title": "雍州 / Yongzhou (Late Han)",
     "url": "/wiki/entities/yongzhoulatehan/"
+  },
+  "Yorktown": {
+    "title": "Yorktown",
+    "url": "/wiki/entities/yorktown/"
   },
   "YorubaTwinCosmology": {
     "title": "Yoruba Twin Cosmology",

@@ -4,7 +4,8 @@ type: entity
 tags: [person, founding, military, united-states, slavery]
 sources:
   - 683-washington-hero-of-the-revolution-part-1-glt3752138067
-last_updated: 2026-08-31
+  - 350-the-triumph-of-george-washington-part-4-glt1619660676
+last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
 
@@ -12,11 +13,11 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-George Washington is presented as the commander whose discipline, dignity, endurance strategy, and public restraint made the [[ContinentalArmy|Continental Army]] viable during the [[AmericanRevolution|American Revolution]].
+George Washington is presented as the commander whose discipline, endurance strategy, coalition leadership, and public restraint carried the [[ContinentalArmy|Continental Army]] from survival at [[ValleyForge|Valley Forge]] to victory at [[Yorktown]].
 
 ## Current Profile
 
-The episode's Washington is deliberately less marble-perfect and less tactically brilliant than patriotic memory often suggests. He begins as a Virginia gentleman shaped by slavery, land hunger, British imperial service, resentment over denied status, and colonial tax politics. Once chosen by the [[ContinentalCongress|Continental Congress]], his main achievement is not repeated battlefield victory but holding together a fragile army, surviving [[ValleyForge|Valley Forge]], absorbing European training and French support, and performing a style of authority that made him seem above ordinary faction.
+The sources' Washington is deliberately less marble-perfect and less tactically brilliant than patriotic memory often suggests. He begins as a Virginia gentleman shaped by slavery, land hunger, British imperial service, and resentment over denied status. His central military achievement is preserving a fragile army until French land and naval power can help trap Cornwallis at Yorktown. His resignation and refusal to become a dictator make him a stabilizing republican founder, but his post-Yorktown order to return escaped enslaved people prevents restraint from becoming a claim of moral innocence.
 
 ## Key Characteristics
 
@@ -24,9 +25,9 @@ The episode's Washington is deliberately less marble-perfect and less tactically
 - Former Seven Years' War militia commander whose British treatment helped push him toward revolutionary politics.
 - Unifying commander selected for experience, Virginia standing, sobriety, and controlled modesty.
 - Strategic endurance leader whose task was to keep the army alive and avoid decisive defeat.
-- Administrator of hardship at [[ValleyForge|Valley Forge]], including discipline, cabin building, supply pressure, and smallpox inoculation.
-- Public father figure whose severe self-command and distance supported [[RepublicanRestraintLeadership|republican restraint leadership]].
-- Slaveholder whose wartime exposure to Black soldiers did not erase the contradiction that he owned enslaved people and did not free them during his lifetime.
+- Administrator of hardship at [[ValleyForge|Valley Forge]] and coalition commander at [[Yorktown]].
+- Public father figure whose resignation, severe self-command, and distance supported [[RepublicanRestraintLeadership|republican restraint leadership]].
+- Slaveholder whose Black troops, escaped enslaved adversaries, and return orders expose [[RevolutionaryMilitarySlaveryContradiction|the Revolution's military slavery contradiction]].
 
 ## Evidence
 
@@ -35,15 +36,18 @@ The episode's Washington is deliberately less marble-perfect and less tactically
 - Endurance command: [[683-washington-hero-of-the-revolution-part-1-glt3752138067]] says Washington lost more battles than he won, but his strategic task was to keep the army alive, avoid a decisive defeat, and wait for British will to weaken.
 - Valley Forge administration: [[683-washington-hero-of-the-revolution-part-1-glt3752138067]] describes food shortages, disease, camp construction, discipline, supply requisitioning, and smallpox inoculation as core parts of Washington's command.
 - Public authority: [[683-washington-hero-of-the-revolution-part-1-glt3752138067]] uses the Gouverneur Morris anecdote, European descriptions of Washington as father and commander, Cato performance, and later resignation to show authority based on distance, self-command, and republican symbolism.
-- Slavery qualification: [[683-washington-hero-of-the-revolution-part-1-glt3752138067]] says Washington owned enslaved people, [[MarthaWashington|Martha Washington]] arrived with enslaved people from Mount Vernon, and Black soldiers served in the army through emancipation-linked state policies.
+- Coalition victory: [[350-the-triumph-of-george-washington-part-4-glt1619660676]] says Washington and French forces trapped Cornwallis at Yorktown while French sea power prevented relief.
+- Republican stabilization: [[350-the-triumph-of-george-washington-part-4-glt1619660676]] presents Washington's return to Mount Vernon, avoidance of dictatorship, and later presidency as central to making the United States a nation.
+- Slavery qualification: [[683-washington-hero-of-the-revolution-part-1-glt3752138067]] pairs his slaveholding with Black Continental service, while [[350-the-triumph-of-george-washington-part-4-glt1619660676]] says he ordered escaped enslaved people returned after Yorktown.
 
 ## Qualifications
 
-The page is source-scoped to the first Washington episode in the Founding Fathers sequence. It does not yet synthesize his presidency in detail, Mount Vernon management beyond the episode, Indigenous land politics, or the full chronology of his changing views on slavery. The source also distinguishes Washington's real religious language from the later invented prayer-in-the-snow story.
+The sources cover Washington's formation, command, Yorktown victory, resignation, and symbolic presidency but not a full presidential or Mount Vernon history. They distinguish his real strategic and institutional restraint from invented Valley Forge prayer imagery, and neither restraint nor later antislavery movement cancels his own slaveholding or return policy.
 
 ## What Changed
 
-- Created Washington as the military-command and public-authority anchor of the Founding Fathers branch.
+- Extended Washington from Valley Forge endurance to Yorktown coalition victory and postwar nation-building.
+- Added the post-Yorktown return of escaped enslaved people as a sharper qualification to republican restraint.
 
 ## Relationships
 
@@ -59,3 +63,5 @@ The page is source-scoped to the first Washington episode in the Founding Father
 - [[StrategicEnduranceMilitaryCommand]] - command pattern Washington exemplifies.
 - [[RepublicanRestraintLeadership]] - public authority style associated with his self-command and resignation.
 - [[RevolutionaryMilitarySlaveryContradiction]] - contradiction sharpened by Washington's slaveholding and Black soldiers' service.
+- [[Yorktown]] - coalition victory that closes the military arc.
+- [[ContestedAmericanFoundingMyth]] - memory debate in which his restraint and slaveholding must be held together.

@@ -4,7 +4,8 @@ type: entity
 tags: [organization, military, american-revolution, united-states]
 sources:
   - 683-washington-hero-of-the-revolution-part-1-glt3752138067
-last_updated: 2026-08-31
+  - 350-the-triumph-of-george-washington-part-4-glt1619660676
+last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
 
@@ -16,7 +17,7 @@ The Continental Army is presented as the fragile revolutionary force [[GeorgeWas
 
 ## Current Profile
 
-The episode's army is not a stable national institution from the start. It is underfed, underclothed, politically vulnerable, and drawn from socially diverse colonial and foreign elements, but Washington's endurance strategy, Valley Forge administration, inoculation, Steuben's training, and French entry keep it from dissolving. The force's survival is the strategic fact: as long as the army exists, Britain has not won.
+The army is not a stable national institution from the start. It is underfed, underclothed, politically vulnerable, and socially diverse, but Washington's endurance strategy, Valley Forge administration, inoculation, Steuben's training, women's labor, and French entry keep it from dissolving. Its survival is the bridge from defensive persistence to coalition victory at [[Yorktown]]: as long as the army exists, Britain has not won, and foreign intervention can still become decisive.
 
 ## Key Characteristics
 
@@ -26,6 +27,7 @@ The episode's army is not a stable national institution from the start. It is un
 - Diverse military community including men from all colonies, European volunteers, Black soldiers, women in camp roles, and Oneida scouts.
 - Organization professionalized through [[FriedrichWilhelmVonSteuben|Steuben]]'s drilling and sanitation reforms.
 - Site of [[RevolutionaryMilitarySlaveryContradiction|revolutionary military slavery contradiction]] because Black soldiers served while slavery persisted.
+- Coalition force whose Yorktown role depended on French land and naval support.
 
 ## Evidence
 
@@ -34,14 +36,16 @@ The episode's army is not a stable national institution from the start. It is un
 - Disease management: [[683-washington-hero-of-the-revolution-part-1-glt3752138067]] identifies disease as the major killer and highlights Washington's smallpox inoculation as an important command decision.
 - Diversity: [[683-washington-hero-of-the-revolution-part-1-glt3752138067]] says the army included men from all 13 colonies, Catholics, Jews, Scots, Irish, French, Prussians, Austrians, Poles, Dutch, Italians, Spanish, Hungarians, about 50 Oneida scouts, and hundreds of Black soldiers by August 1778.
 - Training reform: [[683-washington-hero-of-the-revolution-part-1-glt3752138067]] says Steuben trained an initial 120 men and produced a drill manual that influenced the U.S. Army for decades.
+- Household support: [[350-the-triumph-of-george-washington-part-4-glt1619660676]] emphasizes that women and households sustained the war through nursing, washing, provisioning, and sacrifice.
+- Yorktown culmination: [[350-the-triumph-of-george-washington-part-4-glt1619660676]] says Washington's army and French forces trapped Cornwallis while French sea power blocked relief.
 
 ## Qualifications
 
-The page is source-scoped to the Valley Forge phase. It does not yet cover the army's full formation, enlistment terms, regional command structure, southern campaign, Yorktown operations, or postwar demobilization.
+The sources cover the army's Valley Forge survival and high-level Yorktown role, not its full formation, enlistment terms, regional commands, southern operations, siege engineering, or demobilization.
 
 ## What Changed
 
-- Created the Continental Army as the military organization through which Washington's endurance command becomes visible.
+- Extended the army's profile from Valley Forge survival to household-supported coalition victory at Yorktown.
 
 ## Relationships
 
@@ -54,3 +58,5 @@ The page is source-scoped to the Valley Forge phase. It does not yet cover the a
 - [[MarquisDeLafayette]] - foreign volunteer tied to Washington and Franco-American support.
 - [[StrategicEnduranceMilitaryCommand]] - strategy that makes army preservation decisive.
 - [[RevolutionaryMilitarySlaveryContradiction]] - contradiction visible in Black service and continued slaveholding.
+- [[Yorktown]] - coalition culmination of the army's endurance strategy.
+- [[AmericanRevolutionGlobalWar]] - wider strategic field in which army survival became decisive.

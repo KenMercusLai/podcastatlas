@@ -4,7 +4,8 @@ type: concept
 tags: [leadership, politics, republicanism, founding, self-command]
 sources:
   - 683-washington-hero-of-the-revolution-part-1-glt3752138067
-last_updated: 2026-08-31
+  - 350-the-triumph-of-george-washington-part-4-glt1619660676
+last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
 
@@ -16,7 +17,7 @@ Republican restraint leadership is authority built through visible self-command,
 
 ## Current Synthesis
 
-The Washington episode presents restraint as a political technology. Washington is described as passionate and hot-tempered beneath a severe exterior, but his public distance and dignity make him appear trustworthy to soldiers, foreign observers, Congress, and later the presidency. The Cato and Cincinnatus references matter because they translate self-command into republican legitimacy: a commander can hold extraordinary power precisely because he can be imagined giving it back.
+The Washington sources present restraint as a political technology. His public distance and dignity make him appear trustworthy while Cato, Cincinnatus, resignation, return to Mount Vernon, and refusal of dictatorship translate self-command into republican legitimacy. That credibility helps Americans tolerate stronger national government and an energetic presidency after the [[ArticlesOfConfederation|Articles]], but it does not make his exercise of power morally pure.
 
 ## Key Claims
 
@@ -25,6 +26,7 @@ The Washington episode presents restraint as a political technology. Washington 
 - Republican military legitimacy depends on the commander's ability to avoid seeming like a future Caesar.
 - Symbolic performance matters: Cato, Cincinnatus, fatherhood, and resignation all help make restraint legible.
 - Restraint does not remove coercion or hierarchy; it can coexist with strict discipline, supply requisitions, and slaveholding contradiction.
+- Voluntary withdrawal can create institutional precedent by separating executive office from personal military rule.
 
 ## Evidence
 
@@ -33,14 +35,17 @@ The Washington episode presents restraint as a political technology. Washington 
 - Passions under command: [[683-washington-hero-of-the-revolution-part-1-glt3752138067]] says Washington had fierce passions and a hot temper but kept them under rigid self-command.
 - Father and commander: [[683-washington-hero-of-the-revolution-part-1-glt3752138067]] says European visitors saw Washington as both father and commander to soldiers.
 - Republican symbolism: [[683-washington-hero-of-the-revolution-part-1-glt3752138067]] links the Cato birthday performance, Washington's 1783 resignation, and Cincinnatus-style restraint to his later acceptability as first president.
+- Nation-building effect: [[350-the-triumph-of-george-washington-part-4-glt1619660676]] says Washington returned to Mount Vernon, avoided the Cromwell or Napoleon path, became a replacement father figure, and helped stabilize the presidency.
+- Moral limit: [[350-the-triumph-of-george-washington-part-4-glt1619660676]] pairs that restraint with his post-Yorktown order returning escaped enslaved people.
 
 ## Counterevidence & Qualifications
 
-The concept should not become simple hero worship. The same source records Washington's harsh discipline, requisition threats, social distance, slaveholding, and political ambition. Restraint is a public-authority pattern, not proof of moral purity or tactical genius.
+The concept should not become hero worship. The sources record harsh discipline, requisition threats, social distance, slaveholding, political ambition, and return to enslavement. Restraint is a public-authority and succession pattern, not proof of moral purity, democratic equality, or tactical genius.
 
 ## What Changed
 
-- Created the concept from the episode's account of Washington's dignity, self-command, and resignation.
+- Extended restraint from wartime command style to postwar constitutional stabilization.
+- Added return-to-slavery policy as a direct moral qualification.
 
 ## Related Concepts
 
@@ -49,3 +54,5 @@ The concept should not become simple hero worship. The same source records Washi
 - [[AmericanRevolution]] - political crisis in which military restraint had legitimacy value.
 - [[StrategicEnduranceMilitaryCommand]] - military strategy reinforced by credible public command.
 - [[PowerDesireSelfRestraint]] - adjacent concept about restraining power desire under political pressure.
+- [[ArticlesOfConfederation]] - weak framework whose replacement made restrained executive precedent especially important.
+- [[ContestedAmericanFoundingMyth]] - memory dispute in which restraint must remain joined to coercion and slavery.

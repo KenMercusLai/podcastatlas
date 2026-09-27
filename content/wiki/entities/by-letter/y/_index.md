@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 11150
+wiki_total_pages: 11153
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -158,6 +158,9 @@ wiki_pages:
   - key: "Yongkang"
     title: "Yongkang / 永康"
     url: "/wiki/entities/yongkang/"
+  - key: "Yorktown"
+    title: "Yorktown"
+    url: "/wiki/entities/yorktown/"
   - key: "YORO"
     title: "YORO"
     url: "/wiki/entities/yoro/"

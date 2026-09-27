@@ -4,7 +4,8 @@ type: entity
 tags: [person, founding, american-revolution, united-states, slavery]
 sources:
   - 683-washington-hero-of-the-revolution-part-1-glt3752138067
-last_updated: 2026-08-31
+  - 350-the-triumph-of-george-washington-part-4-glt1619660676
+last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
 
@@ -16,7 +17,7 @@ Martha Washington appears in the episode as [[GeorgeWashington|George Washington
 
 ## Current Profile
 
-The source uses Martha Washington to widen the Valley Forge story beyond officers and soldiers. Her arrival in February 1778 exposes Washington's exhaustion, brings household and meal management into the command environment, and places enslaved attendants from Mount Vernon inside the same camp where Black soldiers were serving for the revolutionary cause.
+The sources use Martha Washington to widen Valley Forge beyond officers and soldiers. Her arrival exposes Washington's exhaustion, brings household and meal management into the command environment, and represents the wider nursing, washing, and provisioning labor through which women and households sustained the war. Her enslaved attendants also place that support inside the Revolution's liberty-slavery contradiction.
 
 ## Key Characteristics
 
@@ -24,6 +25,7 @@ The source uses Martha Washington to widen the Valley Forge story beyond officer
 - Helped manage staff and meals around Washington's headquarters.
 - Represents the presence of women at the camp, including generals' wives, nurses, and laundresses.
 - Arrived with enslaved people from Mount Vernon, sharpening the episode's slavery contradiction.
+- Illustrates indispensable wartime contribution without comparable formal political reward.
 
 ## Evidence
 
@@ -31,14 +33,16 @@ The source uses Martha Washington to widen the Valley Forge story beyond officer
 - Household work: [[683-washington-hero-of-the-revolution-part-1-glt3752138067]] says she helped manage staff and meals.
 - Women's presence: [[683-washington-hero-of-the-revolution-part-1-glt3752138067]] places her alongside other women at the camp, including generals' wives, nurses, and laundresses.
 - Slavery context: [[683-washington-hero-of-the-revolution-part-1-glt3752138067]] says she arrived with enslaved people from Mount Vernon.
+- Wider war effort: [[350-the-triumph-of-george-washington-part-4-glt1619660676]] places Martha and other women within nursing, washing, food provision, and household sacrifice that helped keep the army in being.
 
 ## Qualifications
 
-The page is bounded to Martha Washington's role in the Valley Forge episode. It does not yet synthesize her full biography, estate management, widowhood, or broader public memory.
+The page remains bounded to Martha Washington's wartime support role. The sources do not provide her full biography, estate management, widowhood, political views, or the perspectives of the enslaved attendants who accompanied her.
 
 ## What Changed
 
-- Created Martha Washington as the camp-domestic and slavery-context figure in the Washington episode.
+- Extended Martha's camp role into the broader household labor sustaining revolutionary endurance.
+- Added the qualification that essential war work produced little durable formal political gain for women.
 
 ## Relationships
 
@@ -46,3 +50,4 @@ The page is bounded to Martha Washington's role in the Valley Forge episode. It 
 - [[ValleyForge]] - setting of her source role.
 - [[ContinentalArmy]] - military community her support work helped sustain.
 - [[RevolutionaryMilitarySlaveryContradiction]] - contradiction sharpened by enslaved attendants and Black soldiers in the same revolutionary setting.
+- [[RevolutionaryLibertyDistribution]] - framework showing the gap between women's contribution and formal gains.

@@ -5289,6 +5289,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/adamgrant/"
     },
+    "AdamIPSmith": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1619660676 [GLT1619660676].md",
+          "key": "350-the-triumph-of-george-washington-part-4-glt1619660676",
+          "show": "The Rest Is History",
+          "title": "350: The Triumph of George Washington (Part 4)",
+          "url": "/wiki/sources/350-the-triumph-of-george-washington-part-4-glt1619660676/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/adamipsmith/"
+    },
     "AddedFreeSugarDistinction": {
       "episode_count": 2,
       "show_count": 2,
@@ -8560,9 +8576,9 @@
       "url": "/wiki/entities/americanpridebank/"
     },
     "AmericanRevolution": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6013835340 [GLT6013835340].md",
@@ -8577,10 +8593,33 @@
           "show": "The Rest Is History",
           "title": "683. Washington: Hero of the Revolution (Part 1)",
           "url": "/wiki/sources/683-washington-hero-of-the-revolution-part-1-glt3752138067/"
+        },
+        {
+          "episode_file": "GLT1619660676 [GLT1619660676].md",
+          "key": "350-the-triumph-of-george-washington-part-4-glt1619660676",
+          "show": "The Rest Is History",
+          "title": "350: The Triumph of George Washington (Part 4)",
+          "url": "/wiki/sources/350-the-triumph-of-george-washington-part-4-glt1619660676/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/americanrevolution/"
+    },
+    "AmericanRevolutionGlobalWar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1619660676 [GLT1619660676].md",
+          "key": "350-the-triumph-of-george-washington-part-4-glt1619660676",
+          "show": "The Rest Is History",
+          "title": "350: The Triumph of George Washington (Part 4)",
+          "url": "/wiki/sources/350-the-triumph-of-george-washington-part-4-glt1619660676/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/americanrevolutionglobalwar/"
     },
     "AmericanRightBritainWarningNarrative": {
       "episode_count": 3,
@@ -12294,6 +12333,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/arthursmithwoodward/"
+    },
+    "ArticlesOfConfederation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1619660676 [GLT1619660676].md",
+          "key": "350-the-triumph-of-george-washington-part-4-glt1619660676",
+          "show": "The Rest Is History",
+          "title": "350: The Triumph of George Washington (Part 4)",
+          "url": "/wiki/sources/350-the-triumph-of-george-washington-part-4-glt1619660676/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/articlesofconfederation/"
     },
     "ArtificialEmotionalIntelligence": {
       "episode_count": 1,
@@ -33040,6 +33095,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/concepts/contentseedingmarketing/"
     },
+    "ContestedAmericanFoundingMyth": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1619660676 [GLT1619660676].md",
+          "key": "350-the-triumph-of-george-washington-part-4-glt1619660676",
+          "show": "The Rest Is History",
+          "title": "350: The Triumph of George Washington (Part 4)",
+          "url": "/wiki/sources/350-the-triumph-of-george-washington-part-4-glt1619660676/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/contestedamericanfoundingmyth/"
+    },
     "ContestedMonumentReattribution": {
       "episode_count": 1,
       "show_count": 1,
@@ -33135,9 +33206,9 @@
       "url": "/wiki/concepts/contextualepisodicmemory/"
     },
     "ContinentalArmy": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3752138067 [GLT3752138067].md",
@@ -33145,9 +33216,16 @@
           "show": "The Rest Is History",
           "title": "683. Washington: Hero of the Revolution (Part 1)",
           "url": "/wiki/sources/683-washington-hero-of-the-revolution-part-1-glt3752138067/"
+        },
+        {
+          "episode_file": "GLT1619660676 [GLT1619660676].md",
+          "key": "350-the-triumph-of-george-washington-part-4-glt1619660676",
+          "show": "The Rest Is History",
+          "title": "350: The Triumph of George Washington (Part 4)",
+          "url": "/wiki/sources/350-the-triumph-of-george-washington-part-4-glt1619660676/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/continentalarmy/"
     },
     "ContinentalCongress": {
@@ -58898,9 +58976,9 @@
       "url": "/wiki/entities/franciscomanueldasilva/"
     },
     "FrancoAmericanAlliance1778": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6013835340 [GLT6013835340].md",
@@ -58915,9 +58993,16 @@
           "show": "The Rest Is History",
           "title": "683. Washington: Hero of the Revolution (Part 1)",
           "url": "/wiki/sources/683-washington-hero-of-the-revolution-part-1-glt3752138067/"
+        },
+        {
+          "episode_file": "GLT1619660676 [GLT1619660676].md",
+          "key": "350-the-triumph-of-george-washington-part-4-glt1619660676",
+          "show": "The Rest Is History",
+          "title": "350: The Triumph of George Washington (Part 4)",
+          "url": "/wiki/sources/350-the-triumph-of-george-washington-part-4-glt1619660676/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/francoamericanalliance1778/"
     },
     "FrancoScottishAlliance": {
@@ -63798,9 +63883,9 @@
       "url": "/wiki/entities/georgewallace/"
     },
     "GeorgeWashington": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3752138067 [GLT3752138067].md",
@@ -63808,9 +63893,16 @@
           "show": "The Rest Is History",
           "title": "683. Washington: Hero of the Revolution (Part 1)",
           "url": "/wiki/sources/683-washington-hero-of-the-revolution-part-1-glt3752138067/"
+        },
+        {
+          "episode_file": "GLT1619660676 [GLT1619660676].md",
+          "key": "350-the-triumph-of-george-washington-part-4-glt1619660676",
+          "show": "The Rest Is History",
+          "title": "350: The Triumph of George Washington (Part 4)",
+          "url": "/wiki/sources/350-the-triumph-of-george-washington-part-4-glt1619660676/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/georgewashington/"
     },
     "GeorgeWhitman": {
@@ -84993,9 +85085,9 @@
       "url": "/wiki/entities/johannesburg/"
     },
     "JohnAdams": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6013835340 [GLT6013835340].md",
@@ -85003,9 +85095,16 @@
           "show": "The Rest Is History",
           "title": "684. Franklin: Revenge of the American Genius (Part 2)",
           "url": "/wiki/sources/684-franklin-revenge-of-the-american-genius-part-2-glt6013835340/"
+        },
+        {
+          "episode_file": "GLT1619660676 [GLT1619660676].md",
+          "key": "350-the-triumph-of-george-washington-part-4-glt1619660676",
+          "show": "The Rest Is History",
+          "title": "350: The Triumph of George Washington (Part 4)",
+          "url": "/wiki/sources/350-the-triumph-of-george-washington-part-4-glt1619660676/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/johnadams/"
     },
     "JohnBall": {
@@ -103776,9 +103875,9 @@
       "url": "/wiki/entities/marthabeck/"
     },
     "MarthaWashington": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3752138067 [GLT3752138067].md",
@@ -103786,9 +103885,16 @@
           "show": "The Rest Is History",
           "title": "683. Washington: Hero of the Revolution (Part 1)",
           "url": "/wiki/sources/683-washington-hero-of-the-revolution-part-1-glt3752138067/"
+        },
+        {
+          "episode_file": "GLT1619660676 [GLT1619660676].md",
+          "key": "350-the-triumph-of-george-washington-part-4-glt1619660676",
+          "show": "The Rest Is History",
+          "title": "350: The Triumph of George Washington (Part 4)",
+          "url": "/wiki/sources/350-the-triumph-of-george-washington-part-4-glt1619660676/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/marthawashington/"
     },
     "MartinKutter": {
@@ -131997,9 +132103,9 @@
       "url": "/wiki/concepts/republicanfoundingwithoutsettlement/"
     },
     "RepublicanRestraintLeadership": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3752138067 [GLT3752138067].md",
@@ -132007,9 +132113,16 @@
           "show": "The Rest Is History",
           "title": "683. Washington: Hero of the Revolution (Part 1)",
           "url": "/wiki/sources/683-washington-hero-of-the-revolution-part-1-glt3752138067/"
+        },
+        {
+          "episode_file": "GLT1619660676 [GLT1619660676].md",
+          "key": "350-the-triumph-of-george-washington-part-4-glt1619660676",
+          "show": "The Rest Is History",
+          "title": "350: The Triumph of George Washington (Part 4)",
+          "url": "/wiki/sources/350-the-triumph-of-george-washington-part-4-glt1619660676/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/republicanrestraintleadership/"
     },
     "ReputationConstrainedWarRestraint": {
@@ -133019,6 +133132,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/concepts/revolutionaryjusticemercyconflict/"
     },
+    "RevolutionaryLibertyDistribution": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1619660676 [GLT1619660676].md",
+          "key": "350-the-triumph-of-george-washington-part-4-glt1619660676",
+          "show": "The Rest Is History",
+          "title": "350: The Triumph of George Washington (Part 4)",
+          "url": "/wiki/sources/350-the-triumph-of-george-washington-part-4-glt1619660676/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/revolutionarylibertydistribution/"
+    },
     "RevolutionaryMartyrdomImageMaking": {
       "episode_count": 2,
       "show_count": 2,
@@ -133043,9 +133172,9 @@
       "url": "/wiki/concepts/revolutionarymartyrdomimagemaking/"
     },
     "RevolutionaryMilitarySlaveryContradiction": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3752138067 [GLT3752138067].md",
@@ -133053,9 +133182,16 @@
           "show": "The Rest Is History",
           "title": "683. Washington: Hero of the Revolution (Part 1)",
           "url": "/wiki/sources/683-washington-hero-of-the-revolution-part-1-glt3752138067/"
+        },
+        {
+          "episode_file": "GLT1619660676 [GLT1619660676].md",
+          "key": "350-the-triumph-of-george-washington-part-4-glt1619660676",
+          "show": "The Rest Is History",
+          "title": "350: The Triumph of George Washington (Part 4)",
+          "url": "/wiki/sources/350-the-triumph-of-george-washington-part-4-glt1619660676/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/revolutionarymilitaryslaverycontradiction/"
     },
     "RevolutionaryOperaCulturalMemory": {
@@ -157264,9 +157400,9 @@
       "url": "/wiki/concepts/treatmentcontextdoseexpectation/"
     },
     "TreatyOfParis1783": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6013835340 [GLT6013835340].md",
@@ -157274,9 +157410,16 @@
           "show": "The Rest Is History",
           "title": "684. Franklin: Revenge of the American Genius (Part 2)",
           "url": "/wiki/sources/684-franklin-revenge-of-the-american-genius-part-2-glt6013835340/"
+        },
+        {
+          "episode_file": "GLT1619660676 [GLT1619660676].md",
+          "key": "350-the-triumph-of-george-washington-part-4-glt1619660676",
+          "show": "The Rest Is History",
+          "title": "350: The Triumph of George Washington (Part 4)",
+          "url": "/wiki/sources/350-the-triumph-of-george-washington-part-4-glt1619660676/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/treatyofparis1783/"
     },
     "TreatyOfTroyes": {
@@ -159984,9 +160127,9 @@
       "url": "/wiki/concepts/valkyriebattlefate/"
     },
     "ValleyForge": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3752138067 [GLT3752138067].md",
@@ -159994,9 +160137,16 @@
           "show": "The Rest Is History",
           "title": "683. Washington: Hero of the Revolution (Part 1)",
           "url": "/wiki/sources/683-washington-hero-of-the-revolution-part-1-glt3752138067/"
+        },
+        {
+          "episode_file": "GLT1619660676 [GLT1619660676].md",
+          "key": "350-the-triumph-of-george-washington-part-4-glt1619660676",
+          "show": "The Rest Is History",
+          "title": "350: The Triumph of George Washington (Part 4)",
+          "url": "/wiki/sources/350-the-triumph-of-george-washington-part-4-glt1619660676/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/valleyforge/"
     },
     "ValleyForgeMythLogistics": {
@@ -174118,6 +174268,22 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/entities/yongkang/"
+    },
+    "Yorktown": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1619660676 [GLT1619660676].md",
+          "key": "350-the-triumph-of-george-washington-part-4-glt1619660676",
+          "show": "The Rest Is History",
+          "title": "350: The Triumph of George Washington (Part 4)",
+          "url": "/wiki/sources/350-the-triumph-of-george-washington-part-4-glt1619660676/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/yorktown/"
     },
     "YoumeiyouWenhuaXianxiang": {
       "episode_count": 1,

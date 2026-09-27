@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 8559
+wiki_total_pages: 8562
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -773,6 +773,9 @@ wiki_pages:
   - key: "RevolutionaryJusticeMercyConflict"
     title: "Revolutionary Justice-Mercy Conflict"
     url: "/wiki/concepts/revolutionaryjusticemercyconflict/"
+  - key: "RevolutionaryLibertyDistribution"
+    title: "Revolutionary Liberty Distribution"
+    url: "/wiki/concepts/revolutionarylibertydistribution/"
   - key: "RevolutionaryMartyrdomImageMaking"
     title: "Revolutionary Martyrdom Image-Making / 革命殉道图像制造"
     url: "/wiki/concepts/revolutionarymartyrdomimagemaking/"

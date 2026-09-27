@@ -24267,3 +24267,11 @@ Added source `how-to-enhance-performance-learning-by-applying-a-growth-mindset-s
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | 350: The Triumph of George Washington (Part 4)
+
+Added source `350-the-triumph-of-george-washington-part-4-glt1619660676`; created `AdamIPSmith`, `Yorktown`, `ArticlesOfConfederation`, `AmericanRevolutionGlobalWar`, `RevolutionaryLibertyDistribution`, and `ContestedAmericanFoundingMyth`; and updated `GeorgeWashington`, `AmericanRevolution`, `ContinentalArmy`, `ValleyForge`, `MarthaWashington`, `FrancoAmericanAlliance1778`, `TreatyOfParis1783`, `JohnAdams`, `RepublicanRestraintLeadership`, `RevolutionaryMilitarySlaveryContradiction`, and the canonical index from their complete bounded source sets. Core synthesis: American victory joined army survival to French land and naval power inside a wider imperial war, while independence expanded political possibility unevenly and left Native dispossession, constrained women's rights, Black Loyalist vulnerability, re-enslavement, and slavery itself inside the founding settlement. No settled contradiction was adopted. The Revolution-as-mistake counterfactual, alternative British-command claims, precise group outcomes, and the strongest 1776/1619 motive claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8559
+wiki_total_pages: 8562
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1853,6 +1853,9 @@ wiki_pages:
   - key: "ContentOverMotiveRemonstrance"
     title: "Content-Over-Motive Remonstrance / 只问对错不问动机的纳谏"
     url: "/wiki/concepts/contentovermotiveremonstrance/"
+  - key: "ContestedAmericanFoundingMyth"
+    title: "Contested American Founding Myth"
+    url: "/wiki/concepts/contestedamericanfoundingmyth/"
   - key: "ContestedForensicAttribution"
     title: "Contested Forensic Attribution"
     url: "/wiki/concepts/contestedforensicattribution/"

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2770
+topic_total_pages: 2771
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -253,6 +253,9 @@ topic_concepts:
   - key: "AmericanExceptionalism"
     title: "American Exceptionalism"
     url: "/wiki/concepts/americanexceptionalism/"
+  - key: "AmericanRevolutionGlobalWar"
+    title: "American Revolution as Global War"
+    url: "/wiki/concepts/americanrevolutionglobalwar/"
   - key: "AmericanRightBritainWarningNarrative"
     title: "American Right Britain Warning Narrative"
     url: "/wiki/concepts/americanrightbritainwarningnarrative/"

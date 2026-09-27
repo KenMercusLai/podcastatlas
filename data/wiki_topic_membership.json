@@ -1521,6 +1521,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "350-the-triumph-of-george-washington-part-4-glt1619660676": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "351-amsterdam-miracles-money-and-mud-part-1-glt4666881212": [
     {
       "key": "economics",
@@ -9690,6 +9697,18 @@
     }
   ],
   "AmericanRevolution": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "AmericanRevolutionGlobalWar": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
     {
       "key": "politics",
       "label": "Politics",
@@ -20408,6 +20427,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "ContestedAmericanFoundingMyth": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "ContextDecay": [
@@ -62968,6 +62994,13 @@
     }
   ],
   "RevolutionaryAtrocityNarrativeContest": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
+  "RevolutionaryLibertyDistribution": [
     {
       "key": "history",
       "label": "History",
