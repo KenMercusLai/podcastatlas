@@ -23812,3 +23812,11 @@ Added source `ama-11-improve-task-switching-productivity-and-reduce-brain-fog-sc
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | 373. Oswald Mosley: Fascist Leader
+
+Added source `373-oswald-mosley-fascist-leader-glt7471576360`; and updated `OswaldMosley`, `BritishUnionOfFascists`, `BritishFascism`, and the canonical index from their complete bounded source sets. Core synthesis: Mosley's fascist turn grew from a mainstream parliamentary career, serious interventionist economics, impatience with institutional defeat, and attraction to expert command, while uniforms, corporatism, spectacle, and organized coercion converted reformist urgency into anti-democratic politics. Olympia destroyed much of the BUF's temporary press and establishment respectability before its later East End turn. No settled contradiction found. Early official rhetoric did not foreground Jews, but anti-Semites were already joining and explicit antisemitism later became central; personality, motives, economic anticipation, membership totals, establishment support, deliberate violence, and causal explanations for decline remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

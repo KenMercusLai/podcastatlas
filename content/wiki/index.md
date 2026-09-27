@@ -3002,6 +3002,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [376. Baghdad: The Forging of Islam (Part 1)](sources/376-baghdad-the-forging-of-islam-part-1-glt9529602805.md) — The Rest Is History episode on late Umayyad crisis, unequal conversion, early Islamic religious formation, and the opening for Abbasid revolution.
 
 - [375. Hitler and the Mitford Sisters](sources/375-hitler-and-the-mitford-sisters-glt5493256820.md) — The Rest Is History episode on Unity Mitford, Nazi access, British fascism, explicit antisemitism, aristocratic glamour, and the moral limits of frivolity.
+- [373. Oswald Mosley: Fascist Leader](sources/373-oswald-mosley-fascist-leader-glt7471576360.md) — The Rest Is History episode on Mosley's parliamentary rise, interventionist economics, fascist turn, Blackshirt spectacle, and the Olympia backlash.
 - [374. The Battle of Cable Street: Fascism Defeated](sources/374-the-battle-of-cable-street-fascism-defeated-glt3021730207.md) — The Rest Is History episode distinguishing Cable Street's successful blockade and symbolic legacy from the BUF's immediate survival, antisemitic backlash, and later ultra-appeasement.
 
 ## Entities
@@ -14064,10 +14065,10 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Unity Mitford](entities/UnityMitford.md) — British fascist whose pursuit of Hitler joined aristocratic celebrity to public antisemitism, Nazi brokerage, and benefit from dispossession.
 - [Diana Mitford](entities/DianaMitford.md) — British aristocrat whose Mosley relationship, Hitler access, and postwar loyalty made her institutionally important to British fascism.
-- [Oswald Mosley](entities/OswaldMosley.md) — British fascist leader connecting the Blackshirts and Mitford network to the postwar Union Movement and anti-immigration politics.
+- [Oswald Mosley](entities/OswaldMosley.md) — Parliamentary prodigy and economic interventionist turned British fascist leader, Blackshirt organizer, and postwar anti-immigration campaigner.
 - [Julius Streicher](entities/JuliusStreicher.md) — Nazi publisher whose antisemitic platform helped make Unity Mitford's political commitment public and useful.
 - [Battle of Cable Street](entities/BattleOfCableStreet.md) — 1936 anti-fascist blockade whose successful prevention of a BUF march did not immediately end local fascist organization or violence.
-- [British Union of Fascists](entities/BritishUnionOfFascists.md) — Mosley's Blackshirt organization linking economic grievance and antisemitism to street provocation and ultra-appeasement.
+- [British Union of Fascists](entities/BritishUnionOfFascists.md) — Mosley's corporatist Blackshirt organization linking spectacle and coercion to antisemitic street politics and ultra-appeasement.
 - [William Joyce](entities/WilliamJoyce.md) — British fascist extremist and antisemite who broadcast Nazi wartime propaganda as Lord Haw-Haw.
 
 ## Concepts
@@ -22529,7 +22530,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mawali Conversion Hierarchy](concepts/MawaliConversionHierarchy.md) — Unequal incorporation of non-Arab converts through patronage, fiscal interests, and continuing social distinctions.
 - [Early Islamic Religious Formation](concepts/EarlyIslamicReligiousFormation.md) — Reciprocal development of practice, reports, law, and authority among conquerors, converts, and existing religious communities.
 
-- [British Fascism](concepts/BritishFascism.md) — Adaptable interwar and postwar movement joining Blackshirt organization, antisemitic street politics, aristocratic and Nazi networks, ultra-appeasement, and electoral marginality.
+- [British Fascism](concepts/BritishFascism.md) — Adaptable authoritarian movement joining interventionist corporatism, Blackshirt spectacle, antisemitic street politics, elite and Nazi networks, ultra-appeasement, and electoral marginality.
 - [Fascist Glamour and Memory](concepts/FascistGlamourAndMemory.md) — Process by which status, celebrity, wit, and sensational biography can aestheticize extremist politics without reducing responsibility.
 
 ## Syntheses
