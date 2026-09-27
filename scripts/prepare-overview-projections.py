@@ -35,6 +35,10 @@ STATUS_PREFIX_RE = re.compile(
     r"^(?:The|A|An)\s+(?:latest|newest|previous|earlier|recent)\s+",
     re.IGNORECASE,
 )
+MISPLACED_UPDATE_RE = re.compile(
+    r"^The (?:latest|newest|previous|earlier|recent)\b[^\n]*?\baddition is\b",
+    re.IGNORECASE,
+)
 WIKI_LINK_TARGET_RE = re.compile(r"\[\[([^\]|#]+)(?:#[^\]|]+)?(?:\|[^\]]+)?\]\]")
 
 
@@ -43,6 +47,7 @@ class OverviewSections:
     update_history: str
     current_synthesis: str
     open_questions: str
+    misplaced_updates: str = ""
 
 
 @dataclass(frozen=True)
@@ -100,10 +105,19 @@ def split_overview_sections(text: str) -> OverviewSections:
     if not (overview_heading.end() < synthesis_heading.start() < questions_heading.start()):
         raise ValueError("Overview headings are out of order")
 
+    question_paragraphs = markdown_paragraphs(text[questions_heading.end() :])
+    questions = question_paragraphs[0] if question_paragraphs else ""
+    misplaced = question_paragraphs[1:]
+    if questions and any(not line.startswith("- ") for line in questions.splitlines()):
+        raise ValueError("Open Questions must begin with a question list")
+    if any(not MISPLACED_UPDATE_RE.match(paragraph) for paragraph in misplaced):
+        raise ValueError("Open Questions contains unclassified prose after the question list")
+
     return OverviewSections(
         update_history=text[overview_heading.end() : synthesis_heading.start()].strip(),
         current_synthesis=text[synthesis_heading.end() : questions_heading.start()].strip(),
-        open_questions=text[questions_heading.end() :].strip(),
+        open_questions=questions,
+        misplaced_updates="\n\n".join(misplaced),
     )
 
 
@@ -566,10 +580,16 @@ def collect_update_history(
                 parent_paragraphs = []
             else:
                 parent_text = blobs.read(revision.old_blob)
-                parent_paragraphs = markdown_paragraphs(split_overview_sections(parent_text).update_history)
+                parent_sections = split_overview_sections(parent_text)
+                parent_paragraphs = markdown_paragraphs(
+                    parent_sections.update_history + "\n\n" + parent_sections.misplaced_updates
+                )
 
             child_text = blobs.read(revision.new_blob)
-            child_paragraphs = markdown_paragraphs(split_overview_sections(child_text).update_history)
+            child_sections = split_overview_sections(child_text)
+            child_paragraphs = markdown_paragraphs(
+                child_sections.update_history + "\n\n" + child_sections.misplaced_updates
+            )
             updates = changed_update_paragraphs(parent_paragraphs, child_paragraphs)
             if updates:
                 day = revision.authored_at.astimezone(timezone).date().isoformat()
