@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "9898c41e8e82385c78359cad5a20f5a3d90978bfde6fe83d6e000e11ccf92d30",
       "442c681dc0a15184ad169143ca53be2731f2fcede83e1ea7d9455034009e4547",
       "37d654d776109bfaa92303a6a746427341e150bd3f094a71a4e02fba2a8c7557",
       "ad5736e38756a4e33b6cdfecc171b6cf7a2700789b7836578e64425b9ef10b72",
@@ -763,11 +764,39 @@
       "1f02005c80ec3e7ac3f24acac820a9118d51d7e2de5614db5e13752add4f80b9",
       "60d22980877c9a07564718a1614f1e06e5947001e678ff946ba7dbbc77be1f31"
     ],
-    "paragraph_count": 761
+    "paragraph_count": 762
   },
-  "overview_commit": "04529a7be2896ede845c5cb20ab44aa1db52c094",
-  "overview_digest": "2a63308b4fe28eb89cef01fbf82d03570dd07f4507dd193af9c53ab1677981c5",
+  "overview_commit": "d699bdf8032886e2b08e5db4363c3e7f4bf1db64",
+  "overview_digest": "8d1fa3fd4b024652c0fd96649eaac2180470075b9a592bea72b89a9c343db053",
   "paragraphs": [
+    {
+      "id": "9898c41e8e82385c78359cad5a20f5a3d90978bfde6fe83d6e000e11ccf92d30",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "culture-and-media",
+        "science-health-and-climate"
+      ],
+      "text": "The latest public-health addition is [[efforts-challenges-in-promoting-public-health-us-surgeon-general-dr-vivek-murthy-scim4553126123|Efforts & Challenges in Promoting Public Health | U.S. Surgeon General Dr. Vivek Murthy]], a [[HubermanLab]] conversation with [[AndrewHuberman]] and [[VivekMurthy]]. It adds [[PublicHealthTrustCommunication]], [[LonelinessPublicHealthRisk]], and [[IntegratedCareFragmentation]], while extending [[FoodSystemNutritionResponsibility]], [[SocialMediaDesignRegulation]], and [[EverydaySocialConnection]]. Its core synthesis is that public health depends on transparent uncertainty, revisable guidance, institutional independence, local trust, and prevention infrastructure as much as crisis directives; food access, fragmented care, loneliness, and child-facing platform design distribute health responsibility beyond individual choice. No settled contradiction is recorded. Loneliness prevalence, health-risk comparisons, adolescent platform figures, additive concerns, insurance barriers, and pandemic lessons remain source-scoped, and hearing an adverse-event report does not by itself establish causation.",
+      "topic_scores": {
+        "culture-and-media": 1,
+        "governance-and-institutions": 1,
+        "psychology-and-personal-development": 1,
+        "science-health-and-climate": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AndrewHuberman",
+        "EverydaySocialConnection",
+        "FoodSystemNutritionResponsibility",
+        "HubermanLab",
+        "IntegratedCareFragmentation",
+        "LonelinessPublicHealthRisk",
+        "PublicHealthTrustCommunication",
+        "SocialMediaDesignRegulation",
+        "VivekMurthy",
+        "efforts-challenges-in-promoting-public-health-us-surgeon-general-dr-vivek-murthy-scim4553126123"
+      ]
+    },
     {
       "id": "442c681dc0a15184ad169143ca53be2731f2fcede83e1ea7d9455034009e4547",
       "primary_topic": "science-health-and-climate",

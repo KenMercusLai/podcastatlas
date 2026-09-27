@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 8446
+wiki_total_pages: 8449
 wiki_pages:
   - key: "IBDPatientEducationAndPeerSupport"
     title: "IBD Patient Education and Peer Support / IBD患者教育与同伴支持"
@@ -575,6 +575,9 @@ wiki_pages:
   - key: "IntegratedBipolarCare"
     title: "Integrated Bipolar Care"
     url: "/wiki/concepts/integratedbipolarcare/"
+  - key: "IntegratedCareFragmentation"
+    title: "Integrated Care and System Fragmentation"
+    url: "/wiki/concepts/integratedcarefragmentation/"
   - key: "IntegratedCommandCapacity"
     title: "Integrated Command Capacity / 全维度统帅能力"
     url: "/wiki/concepts/integratedcommandcapacity/"

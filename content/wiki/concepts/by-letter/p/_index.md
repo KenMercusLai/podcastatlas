@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8446
+wiki_total_pages: 8449
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2087,6 +2087,9 @@ wiki_pages:
   - key: "PublicFigureWorkplaceAdviceSatire"
     title: "Public-Figure Workplace Advice Satire"
     url: "/wiki/concepts/publicfigureworkplaceadvicesatire/"
+  - key: "PublicHealthTrustCommunication"
+    title: "Public-Health Trust Communication"
+    url: "/wiki/concepts/publichealthtrustcommunication/"
   - key: "PublicPrivateMarketDiscipline"
     title: "Public-Private Market Discipline"
     url: "/wiki/concepts/publicprivatemarketdiscipline/"

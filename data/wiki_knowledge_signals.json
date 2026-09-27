@@ -50101,9 +50101,9 @@
       "url": "/wiki/concepts/everydayhumoremotionregulation/"
     },
     "EverydaySocialConnection": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM7834121132 [SCIM7834121132].md",
@@ -50118,6 +50118,13 @@
           "show": "Huberman Lab",
           "title": "How to Cultivate a Positive, Growth-Oriented Mindset | Dr. Jamil Zaki",
           "url": "/wiki/sources/how-to-cultivate-a-positive-growth-oriented-mindset-dr-jamil-zaki-scim9746981563/"
+        },
+        {
+          "episode_file": "SCIM4553126123 [SCIM4553126123].md",
+          "key": "efforts-challenges-in-promoting-public-health-us-surgeon-general-dr-vivek-murthy-scim4553126123",
+          "show": "Huberman Lab",
+          "title": "Efforts & Challenges in Promoting Public Health | U.S. Surgeon General Dr. Vivek Murthy",
+          "url": "/wiki/sources/efforts-challenges-in-promoting-public-health-us-surgeon-general-dr-vivek-murthy-scim4553126123/"
         }
       ],
       "updated": "2026-09-23",
@@ -56000,9 +56007,9 @@
       "url": "/wiki/concepts/foodpleasureengineering/"
     },
     "FoodSystemNutritionResponsibility": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM6504027968 [SCIM6504027968].md",
@@ -56010,6 +56017,13 @@
           "show": "Huberman Lab",
           "title": "How Sugar & Processed Foods Impact Your Health | Dr. Robert Lustig",
           "url": "/wiki/sources/how-sugar-processed-foods-impact-your-health-dr-robert-lustig-scim6504027968/"
+        },
+        {
+          "episode_file": "SCIM4553126123 [SCIM4553126123].md",
+          "key": "efforts-challenges-in-promoting-public-health-us-surgeon-general-dr-vivek-murthy-scim4553126123",
+          "show": "Huberman Lab",
+          "title": "Efforts & Challenges in Promoting Public Health | U.S. Surgeon General Dr. Vivek Murthy",
+          "url": "/wiki/sources/efforts-challenges-in-promoting-public-health-us-surgeon-general-dr-vivek-murthy-scim4553126123/"
         }
       ],
       "updated": "2026-09-27",
@@ -78167,6 +78181,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/integratedbipolarcare/"
     },
+    "IntegratedCareFragmentation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4553126123 [SCIM4553126123].md",
+          "key": "efforts-challenges-in-promoting-public-health-us-surgeon-general-dr-vivek-murthy-scim4553126123",
+          "show": "Huberman Lab",
+          "title": "Efforts & Challenges in Promoting Public Health | U.S. Surgeon General Dr. Vivek Murthy",
+          "url": "/wiki/sources/efforts-challenges-in-promoting-public-health-us-surgeon-general-dr-vivek-murthy-scim4553126123/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/integratedcarefragmentation/"
+    },
     "IntegrityAsInnerCoherence": {
       "episode_count": 1,
       "show_count": 1,
@@ -95425,6 +95455,22 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/entities/london/"
+    },
+    "LonelinessPublicHealthRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4553126123 [SCIM4553126123].md",
+          "key": "efforts-challenges-in-promoting-public-health-us-surgeon-general-dr-vivek-murthy-scim4553126123",
+          "show": "Huberman Lab",
+          "title": "Efforts & Challenges in Promoting Public Health | U.S. Surgeon General Dr. Vivek Murthy",
+          "url": "/wiki/sources/efforts-challenges-in-promoting-public-health-us-surgeon-general-dr-vivek-murthy-scim4553126123/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/lonelinesspublichealthrisk/"
     },
     "LongBogaoEasternHan": {
       "episode_count": 1,
@@ -123915,6 +123961,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/publichealthinformationtriage/"
     },
+    "PublicHealthTrustCommunication": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4553126123 [SCIM4553126123].md",
+          "key": "efforts-challenges-in-promoting-public-health-us-surgeon-general-dr-vivek-murthy-scim4553126123",
+          "show": "Huberman Lab",
+          "title": "Efforts & Challenges in Promoting Public Health | U.S. Surgeon General Dr. Vivek Murthy",
+          "url": "/wiki/sources/efforts-challenges-in-promoting-public-health-us-surgeon-general-dr-vivek-murthy-scim4553126123/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/publichealthtrustcommunication/"
+    },
     "PublicIllnessWriting": {
       "episode_count": 2,
       "show_count": 2,
@@ -140391,9 +140453,9 @@
       "url": "/wiki/concepts/socialmediacostofcapital/"
     },
     "SocialMediaDesignRegulation": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 4,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "32ada8c4-0584-42b5-a062-a336275a2cb5 [32ada8c4-0584-42b5-a062-a336275a2cb5].md",
@@ -140422,6 +140484,13 @@
           "show": "Economist Podcasts",
           "title": "Home disadvantage: risks in housing markets",
           "url": "/wiki/sources/home-disadvantage-risks-in-housing-markets-6ab4e209079b46c819b12f5e/"
+        },
+        {
+          "episode_file": "SCIM4553126123 [SCIM4553126123].md",
+          "key": "efforts-challenges-in-promoting-public-health-us-surgeon-general-dr-vivek-murthy-scim4553126123",
+          "show": "Huberman Lab",
+          "title": "Efforts & Challenges in Promoting Public Health | U.S. Surgeon General Dr. Vivek Murthy",
+          "url": "/wiki/sources/efforts-challenges-in-promoting-public-health-us-surgeon-general-dr-vivek-murthy-scim4553126123/"
         }
       ],
       "updated": "2026-09-24",
@@ -156667,6 +156736,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/vittoriopozzo/"
+    },
+    "VivekMurthy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4553126123 [SCIM4553126123].md",
+          "key": "efforts-challenges-in-promoting-public-health-us-surgeon-general-dr-vivek-murthy-scim4553126123",
+          "show": "Huberman Lab",
+          "title": "Efforts & Challenges in Promoting Public Health | U.S. Surgeon General Dr. Vivek Murthy",
+          "url": "/wiki/sources/efforts-challenges-in-promoting-public-health-us-surgeon-general-dr-vivek-murthy-scim4553126123/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/vivekmurthy/"
     },
     "VocalLearningEvolution": {
       "episode_count": 1,

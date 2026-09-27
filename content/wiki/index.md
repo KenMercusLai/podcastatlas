@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Efforts & Challenges in Promoting Public Health | U.S. Surgeon General Dr. Vivek Murthy](sources/efforts-challenges-in-promoting-public-health-us-surgeon-general-dr-vivek-murthy-scim4553126123.md) — Huberman Lab conversation on public-health trust, prevention, food-system constraints, fragmented care, loneliness, and youth social-media safety.
 - [VOL.76中医科｜过敏性鼻炎、春捂秋冻、贴秋膘 你应该知道的秋季养生禁忌和参考](sources/vol-76-zhongyike-guominxing-biyan-chunwu-qiudong-tieqiubiao-ni-yinggai-zhidao-de-qiuji-yangsheng-jinji-he-cankao-llayq2sgeabfjsosctpqfbtgff6e.md) — 这病说来话长 episode separating adaptable autumn routines and allergy-exposure reduction from unvalidated seasonal TCM diagnosis and treatment claims.
 - [GUEST SERIES | Dr. Paul Conti: Tools and Protocols for Mental Health](sources/guest-series-dr-paul-conti-tools-and-protocols-for-mental-health-scim2027108733.md) — Huberman Lab guest-series finale on structure and function of self, life narrative, curiosity, automatic behavior, agency, gratitude, generative drive, grounding, and clinical boundaries.
 - [AMA #11: Improve Task Switching & Productivity and Reduce Brain Fog](sources/ama-11-improve-task-switching-productivity-and-reduce-brain-fog-scim5878324891.md) — Huberman Lab premium AMA excerpt on a flexible three-resistance, three-cardio, one-rest-day weekly fitness scaffold shaped by recovery and real-life constraints.
@@ -3008,6 +3009,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [374. The Battle of Cable Street: Fascism Defeated](sources/374-the-battle-of-cable-street-fascism-defeated-glt3021730207.md) — The Rest Is History episode distinguishing Cable Street's successful blockade and symbolic legacy from the BUF's immediate survival, antisemitic backlash, and later ultra-appeasement.
 
 ## Entities
+- [Vivek Murthy](entities/VivekMurthy.md) — U.S. Surgeon General connecting institutional trust and prevention with loneliness, healthcare access, food systems, and child technology safety.
 - [Chris Voss](entities/ChrisVoss.md) — Former FBI crisis negotiator and negotiation teacher connecting demonstrated understanding to verification and implementation.
 - [Roy Baumeister](entities/RoyBaumeister.md) — Psychologist associated with the limited-resource and glucose accounts in the ego-depletion debate.
 - [Carol Dweck](entities/CarolDweck.md) — Psychologist whose belief-sensitive studies qualify fixed-resource accounts of willpower.
@@ -14074,6 +14076,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [William Joyce](entities/WilliamJoyce.md) — British fascist extremist and antisemite who broadcast Nazi wartime propaganda as Lord Haw-Haw.
 
 ## Concepts
+- [Public-Health Trust Communication](concepts/PublicHealthTrustCommunication.md) — Transparent, revisable guidance supported by institutional independence and locally trusted messengers.
+- [Loneliness as a Public-Health Risk](concepts/LonelinessPublicHealthRisk.md) — Population-health frame joining felt disconnection to community infrastructure, technology, and layered responses.
+- [Integrated Care and System Fragmentation](concepts/IntegratedCareFragmentation.md) — Contrast between coordinated care and patient, clinician, payment, insurance, and record fragmentation.
 - [TCM Autumn Self-Care Boundary / 中医秋季养生边界](concepts/TCMAutumnSelfCareBoundary.md) — Separates adaptable autumn routines from unvalidated seasonal, diagnostic, food-therapy, medicine, and treatment claims.
 - [Flexible Weekly Fitness Scaffold](concepts/FlexibleWeeklyFitnessScaffold.md) — Weekly resistance, cardiovascular, and rest targets that remain adjustable to recovery, health, and ordinary life.
 - [Tactical Empathy](concepts/TacticalEmpathy.md) — Demonstrated understanding of perspective and emotion without requiring agreement or concession.

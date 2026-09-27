@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 8446
+wiki_total_pages: 8449
 wiki_pages:
   - key: "LaborIllusion"
     title: "Labor Illusion"
@@ -653,6 +653,9 @@ wiki_pages:
   - key: "Lollardy"
     title: "Lollardy"
     url: "/wiki/concepts/lollardy/"
+  - key: "LonelinessPublicHealthRisk"
+    title: "Loneliness as a Public-Health Risk"
+    url: "/wiki/concepts/lonelinesspublichealthrisk/"
   - key: "LongContentTimeTail"
     title: "Long Content Time Tail / 长内容时间长尾"
     url: "/wiki/concepts/longcontenttimetail/"

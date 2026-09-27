@@ -23836,3 +23836,11 @@ Added source `vol-76-zhongyike-guominxing-biyan-chunwu-qiudong-tieqiubiao-ni-yin
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | Efforts & Challenges in Promoting Public Health | U.S. Surgeon General Dr. Vivek Murthy
+
+Added source `efforts-challenges-in-promoting-public-health-us-surgeon-general-dr-vivek-murthy-scim4553126123`; created `VivekMurthy`, `PublicHealthTrustCommunication`, `LonelinessPublicHealthRisk`, and `IntegratedCareFragmentation`; and updated `FoodSystemNutritionResponsibility`, `SocialMediaDesignRegulation`, `EverydaySocialConnection`, the canonical index, and the overview from their complete bounded source sets. Core synthesis: public health depends on transparent uncertainty, revisable guidance, institutional independence, trusted local relationships, and prevention infrastructure, while food access, care fragmentation, loneliness, and child-facing platform design distribute responsibility beyond individual choice. No settled contradiction found. Prevalence, risk, platform-use, additive, insurance, and pandemic claims remain source-scoped, and adverse-event reporting does not itself establish causation.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
