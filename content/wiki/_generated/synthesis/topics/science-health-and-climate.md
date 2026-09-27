@@ -3,18 +3,30 @@
 generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
-last_updated: 2026-09-27
-as_of_overview_commit: d699bdf8032886e2b08e5db4363c3e7f4bf1db64
-input_digest: e9be10197bd66f27cd6d7b885935b02f17268d1dafa29b7827441566ab30f7b2
+last_updated: 2026-09-28
+as_of_overview_commit: 1b73d61c1de75d434f44c7213f58e0811b1260e3
+input_digest: 62a974e61900c20d37542f82a3b8fbe8015506956da5646b96e2736f33803b64
 ---
 
 # Science, Health, and Climate
 
 ## Current State
 
-Science, health, and climate sources consistently separate public literacy from individualized care: mechanisms, measurements, urgent escalation, qualified treatment, environmental context, and uncertainty matter more than labels or cure claims. The topic spans social neuroscience, sleep and mental health, chronic and acute care, metabolism and nutrition, exercise and sensory health, disability and animal welfare, climate adaptation, and science governance; interventions remain population-, comparator-, dose-, timing-, endpoint-, goal-, and supervision-dependent. Digestive comfort and food familiarity do not establish disease treatment, just as expectation effects can change symptoms without proving restored function; end-of-life and intensive-care decisions depend on reversibility and stated wishes, elite performance does not establish psychological safety, and social need depends on state, history, contact quality, and translation boundaries. Exercise safety likewise depends on controlled range, preparation, equipment, progression, and current capacity; suspected injury should be protected from secondary damage before repeated testing, while strength and supplements can support selected goals without proving structural repair. Health tools should support adaptable function through safe effort, day-night light contrast, mixed physical capacity, trend-based tracking, proportionate follow-up, and flexible weekly fitness coverage rather than one score, scan, protocol, or rigid calendar. Respiratory illness reflects exposure, entry routes, physical barriers, innate response, adaptive memory, and recovery state, so layered prevention, sleep, manageable exercise, and rest during systemic malaise remain more foundational than supplements, deliberate heat, or microbiome hypotheses. Creative routines, breathing, HRV, light, diet, dream, and unconscious-processing remarks remain practitioner guidance or source-scoped rather than universal health protocols.
+Science, health, and climate sources consistently separate public literacy from individualized care: mechanisms, measurements, urgent escalation, qualified treatment, environmental context, and uncertainty matter more than labels or cure claims. The topic spans social neuroscience, sleep and mental health, perinatal support, chronic and acute care, metabolism and nutrition, exercise and sensory health, disability and animal welfare, climate adaptation, and science governance; interventions remain population-, comparator-, dose-, timing-, endpoint-, goal-, and supervision-dependent. Perinatal mental health adds the same boundary through early screening, practical family support, harm-risk escalation, and shared pregnancy, lactation, medicine, untreated-illness, and feeding decisions. Digestive comfort and food familiarity do not establish disease treatment, just as expectation effects can change symptoms without proving restored function; end-of-life and intensive-care decisions depend on reversibility and stated wishes, elite performance does not establish psychological safety, and social need depends on state, history, contact quality, and translation boundaries. Exercise safety likewise depends on controlled range, preparation, equipment, progression, and current capacity; suspected injury should be protected from secondary damage before repeated testing, while strength and supplements can support selected goals without proving structural repair. Health tools should support adaptable function through safe effort, day-night light contrast, mixed physical capacity, trend-based tracking, proportionate follow-up, and flexible weekly fitness coverage rather than one score, scan, protocol, or rigid calendar. Respiratory illness reflects exposure, entry routes, physical barriers, innate response, adaptive memory, and recovery state, so layered prevention, sleep, manageable exercise, and rest during systemic malaise remain more foundational than supplements, deliberate heat, or microbiome hypotheses. Creative routines, breathing, HRV, light, diet, dream, and unconscious-processing remarks remain practitioner guidance or source-scoped rather than universal health protocols.
 
 ## Cross-source Findings
+
+### Perinatal Mental Health Needs Early Support And Shared Decisions
+
+[[vol-71-jingshenke-guanai-chanhou-yiyu-chanqian-yiji-yufang-chanhou-jujue-moshi-jiyu-gengduo-peiban-loossm3a72jbbdj7tplmsidw4ovi|VOL.71]] adds a perinatal mental-health branch: [[PostpartumDepressionRecognitionAndSupport]] combines emotional, cognitive, bodily, sleep, appetite, caregiving, functional, and safety changes; [[PerinatalMentalHealthPrevention]] moves screening and family planning before crisis; and [[PerinatalPsychiatricMedicationSharedDecision]] keeps pregnancy, lactation, untreated illness, medicine, and feeding choices individualized rather than governed by stigma or blanket rules.
+
+**Evidence:** [[vol-71-jingshenke-guanai-chanhou-yiyu-chanqian-yiji-yufang-chanhou-jujue-moshi-jiyu-gengduo-peiban-loossm3a72jbbdj7tplmsidw4ovi]], [[ZheBingShuoLaiHuaChang]], [[PostpartumDepressionRecognitionAndSupport]], [[PerinatalMentalHealthPrevention]], [[PerinatalPsychiatricMedicationSharedDecision]]
+
+**Qualifications:**
+
+- The episode is public psychiatry education rather than a diagnostic instrument, current clinical guideline, medication protocol, or individualized pregnancy, lactation, feeding, or mental-health plan.
+- Postpartum time windows, prevalence, causal factors, screening practice, and medication risks remain source-scoped; bodily symptoms require appropriate differential assessment.
+- Self- or infant-harm risk, inability to maintain safety, or severe functional deterioration requires urgent professional or emergency evaluation rather than household support alone.
 
 ### Public Health Outcomes Join Evidence Communication And Social Infrastructure
 

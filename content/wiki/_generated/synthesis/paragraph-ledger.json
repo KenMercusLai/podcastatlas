@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "613de235fc1a66cb7709adb21aec428dd3252285c7d000ec7b56e62a6e97e689",
       "9898c41e8e82385c78359cad5a20f5a3d90978bfde6fe83d6e000e11ccf92d30",
       "442c681dc0a15184ad169143ca53be2731f2fcede83e1ea7d9455034009e4547",
       "37d654d776109bfaa92303a6a746427341e150bd3f094a71a4e02fba2a8c7557",
@@ -766,11 +767,29 @@
       "718798e1c902241c90f817fc5263e223e3a7e3324d31441c2ee9f2e19f9dfd0d",
       "e831e8e86e17b030487ea014bf3b5808a8c29e2427f06293b304cc57798e77a3"
     ],
-    "paragraph_count": 764
+    "paragraph_count": 765
   },
-  "overview_commit": "f95c9ac9faf749b7c316977eeb278ae506f5b16c",
-  "overview_digest": "8bc93f75e655381a26237e112e3f6c0c6ec390db8cc2e8501afcd69d0a0c0df8",
+  "overview_commit": "1b73d61c1de75d434f44c7213f58e0811b1260e3",
+  "overview_digest": "e51c239e5c955d9bf1320202d9b7572bd76dd7501f5617cbca0d4193ccbda0d8",
   "paragraphs": [
+    {
+      "id": "613de235fc1a66cb7709adb21aec428dd3252285c7d000ec7b56e62a6e97e689",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [],
+      "text": "The latest perinatal-mental-health addition is [[vol-71-jingshenke-guanai-chanhou-yiyu-chanqian-yiji-yufang-chanhou-jujue-moshi-jiyu-gengduo-peiban-loossm3a72jbbdj7tplmsidw4ovi|VOL.71精神科｜关爱产后抑郁]], a [[ZheBingShuoLaiHuaChang|这病说来话长]] episode that rejects shame and single-person blame. It adds [[PostpartumDepressionRecognitionAndSupport]], [[PerinatalMentalHealthPrevention]], and [[PerinatalPsychiatricMedicationSharedDecision]]. Its core synthesis is that recognition depends on emotional, cognitive, bodily, sleep, appetite, caregiving, functional, and safety changes; prevention can begin with antenatal screening and explicit family planning; practical help should protect sleep, food, voice, and dignity; and pregnancy, lactation, medicine, untreated illness, and feeding choices require individualized clinician-patient decisions. No settled contradiction is recorded. Time-window definitions, prevalence, causal factors, screening practice, and medication claims remain source-scoped, while self- or infant-harm risk or inability to maintain safety requires urgent professional evaluation.",
+      "topic_scores": {
+        "psychology-and-personal-development": 1,
+        "science-health-and-climate": 2,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "PerinatalMentalHealthPrevention",
+        "PerinatalPsychiatricMedicationSharedDecision",
+        "PostpartumDepressionRecognitionAndSupport",
+        "ZheBingShuoLaiHuaChang",
+        "vol-71-jingshenke-guanai-chanhou-yiyu-chanqian-yiji-yufang-chanhou-jujue-moshi-jiyu-gengduo-peiban-loossm3a72jbbdj7tplmsidw4ovi"
+      ]
+    },
     {
       "id": "9898c41e8e82385c78359cad5a20f5a3d90978bfde6fe83d6e000e11ccf92d30",
       "primary_topic": "governance-and-institutions",

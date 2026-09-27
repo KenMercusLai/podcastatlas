@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-28] ingest | VOL.71精神科｜关爱产后抑郁：产前一级预防 产后拒绝漠视 给予更多陪伴
+
+Added source `vol-71-jingshenke-guanai-chanhou-yiyu-chanqian-yiji-yufang-chanhou-jujue-moshi-jiyu-gengduo-peiban-loossm3a72jbbdj7tplmsidw4ovi`; created `PostpartumDepressionRecognitionAndSupport`, `PerinatalMentalHealthPrevention`, and `PerinatalPsychiatricMedicationSharedDecision`; and updated the canonical index and overview. Core synthesis: postpartum depression is neither weakness nor a single-person failure; recognition combines multidomain symptoms, duration, function, baseline, caregiving difficulty, and safety, while prevention begins before birth and family support becomes concrete through sleep protection, food, listening, companionship, and shared labor. Pregnancy, lactation, medicine, untreated illness, and feeding choices remain individualized clinician-patient decisions. No settled contradiction found. Time-window definitions, prevalence, causal factors, screening practice, medication risk, and trauma language remain source-scoped, while self- or infant-harm risk requires urgent professional evaluation.
+
 ## [2026-09-28] ingest | 367. The Real Harry Potter: Magic, Empire and Beastly Bullies
 
 Added source `367-the-real-harry-potter-magic-empire-and-beastly-bullies-glt3711207657`; created `ThomasHughes`, `RugbySchool`, and `MuscularChristianity`; and updated `ThomasArnold`, `BritishPublicSchools`, `SchoolStoryTradition`, and the canonical index from their complete bounded source sets. Core synthesis: *Tom Brown's School Days* translated Rugby's Christian character program, prefect hierarchy, sport, bullying, and reform into a mass school-story template that Hogwarts retains while transforming it through magic, coeducation, multiculturalism, and gentler authority. No settled contradiction was found; the episode instead qualifies the familiar Arnold-sport association by placing the stronger athletic synthesis with Hughes, Arnold's disciples, and later muscular Christianity. Literary influence, circulation figures, institutional practices, imperial reach, and causal claims about character, class, sexuality, and sport remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -23968,6 +23972,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-28] ingest | 366. The Architect of Modern China
 
 Added source `366-the-architect-of-modern-china-glt1902993082`; created `DengXiaoping`, `ZhaoZiyang`, `MaoZedong`, `ChineseCommunistParty`, `RanaMitter`, `ChineseAuthoritarianMarketReform`, `CulturalRevolutionGovernanceMemory`, and `TiananmenCrackdown1989`; and updated `LocalGovernmentPolicyExperimentation`, `ChinaSpecialEconomicZoneAsymmetry`, the automatic overview, and the canonical index from their complete bounded source sets. Core synthesis: Deng-era reform combined central authorization, local and grassroots experimentation, foreign learning, state-enabled market conditions, and labor mobilization with a non-negotiable Communist Party monopoly; the 1989 crackdown closed political liberalization, while the 1992 southern tour restarted economic reform. No settled contradiction found. Leadership motives, causal weights, casualty scale, and political counterfactuals remain source-scoped.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-28] lint | Wiki health check
 

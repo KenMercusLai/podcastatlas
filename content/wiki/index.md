@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.71精神科｜关爱产后抑郁：产前一级预防 产后拒绝漠视 给予更多陪伴](sources/vol-71-jingshenke-guanai-chanhou-yiyu-chanqian-yiji-yufang-chanhou-jujue-moshi-jiyu-gengduo-peiban-loossm3a72jbbdj7tplmsidw4ovi.md) — 这病说来话长 episode on postpartum-depression recognition, antenatal prevention, practical family support, safety escalation, and pregnancy or lactation medication decisions.
 - [366. The Architect of Modern China](sources/366-the-architect-of-modern-china-glt1902993082.md) — The Rest Is History episode on Deng Xiaoping's market reforms, party authoritarianism, local experimentation, Zhao Ziyang, and the 1989 Tiananmen crackdown.
 - [367. The Real Harry Potter: Magic, Empire and Beastly Bullies](sources/367-the-real-harry-potter-magic-empire-and-beastly-bullies-glt3711207657.md) — The Rest Is History episode on Tom Brown's School Days, Rugby, muscular Christianity, public-school hierarchy, and Hogwarts's transformation of the British school-story tradition.
 - [Journal Club With Dr. Peter Attia | Metformin for Longevity & the Power of Belief Effects](sources/journal-club-with-dr-peter-attia-metformin-for-longevity-the-power-of-belief-effects-scim5394566255.md) — Huberman Lab Journal Club on metformin mortality evidence, informative censoring, comparator limits, mouse longevity testing, and dose-dependent nicotine belief effects.
@@ -14121,6 +14122,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Vibe Trading](entities/VibeTrading.md) — Open-source secondary-market research workspace integrating macro, fundamental, quantitative, and risk analysis.
 
 ## Concepts
+- [Postpartum Depression Recognition and Support / 产后抑郁识别与支持](concepts/PostpartumDepressionRecognitionAndSupport.md) — multidomain recognition, practical household care, and urgent safety escalation after pregnancy.
+- [Perinatal Mental-Health Prevention / 围产期心理健康预防](concepts/PerinatalMentalHealthPrevention.md) — antenatal screening, family preparation, supportive foundations, and early referral thresholds.
+- [Perinatal Psychiatric Medication Shared Decision / 围产期精神科用药共同决策](concepts/PerinatalPsychiatricMedicationSharedDecision.md) — individualized pregnancy, lactation, medication, untreated-illness, and feeding risk decisions.
 - [Chinese Authoritarian Market Reform](concepts/ChineseAuthoritarianMarketReform.md) — Post-Mao settlement combining markets, foreign learning, and local experimentation with one-party control.
 - [Cultural Revolution Governance Memory](concepts/CulturalRevolutionGovernanceMemory.md) — Use of remembered mass disorder and purge as a later frame for protest and political control.
 - [1989 Tiananmen Crackdown](concepts/TiananmenCrackdown1989.md) — Coercive boundary event that closed political liberalization while economic reform later resumed.
