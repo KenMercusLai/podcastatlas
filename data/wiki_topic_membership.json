@@ -19605,6 +19605,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "ConquestCaptivityNarrativeUncertainty": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "ConquestCommanderyTransition": [
     {
       "key": "history",

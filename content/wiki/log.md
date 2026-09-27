@@ -23567,3 +23567,11 @@ Added source `female-hormone-health-fertility-vitality-dr-natalie-crawford-scim4
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | 387. The Fall of the Aztecs: Prisoners of Montezuma (Part 4)
+
+Added source `387-the-fall-of-the-aztecs-prisoners-of-montezuma-part-4-glt8017930427`; created `ConquestCaptivityNarrativeUncertainty`; and updated `HernanCortes`, `Moctezuma`, `Malinche`, `MexicaEmpire`, `SpanishConquestOfMexico`, and the canonical index from their complete bounded source sets. Core synthesis: the Spaniards entered an ordered Mexica capital without securely controlling it, and hospitality, surveillance, armed dependence, greed, religious conflict, and later self-justifying testimony make both the direction and chronology of captivity contested. No settled contradiction with Part 5 was found. The voluntary-surrender story, Restall's captive-curiosity interpretation, temple detail, sacrifice plans, population estimates, dialogue, private motives, and the exact hostage date remain source-scoped or contested. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

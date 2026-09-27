@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [387. The Fall of the Aztecs: Prisoners of Montezuma (Part 4)](sources/387-the-fall-of-the-aztecs-prisoners-of-montezuma-part-4-glt8017930427.md) — The Rest Is History episode on Tenochtitlan's urban order, religious encounter, contested captivity, Spanish greed, Moctezuma's disputed hostage chronology, and Narvaez's arrival.
 - [LIVE EVENT Q&A: Dr. Andrew Huberman at Meridian Hall in Toronto](sources/live-event-q-a-dr-andrew-huberman-at-meridian-hall-in-toronto-scim7370892669.md) — Huberman Lab live Q&A on nicotine, ADHD, sleep recovery, burnout, flexible nutrition and exercise, testosterone, breathwork safety, children's light exposure, and parenting.
 - [388. The Fall of the Aztecs: The Festival of Blood (Part 5)](sources/388-the-fall-of-the-aztecs-the-festival-of-blood-part-5-glt8784071073.md) — The Rest Is History episode on the Toxcatl massacre, Cortes's defeat of Narvaez, the collapse of Spanish control in Tenochtitlan, and Moctezuma's disputed death.
 - [389. The Fall of the Aztecs: The Night of Tears (Part 6)](sources/389-the-fall-of-the-aztecs-the-night-of-tears-part-6-glt2744313815.md) — The Rest Is History episode on the Noche Triste, Tlaxcalan coalition renewal, strategic terror, smallpox, succession, and preparation for the siege of Tenochtitlan.
@@ -2972,7 +2973,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Entities
 - [张宇昊 / Zhang Yuhao (head-and-neck surgeon)](entities/ZhangYuhaoHeadNeckSurgeon.md) — Shanxi Bethune Hospital clinician explaining thyroid and neck-mass assessment through imaging, pathology, anatomy, follow-up, and individualized treatment.
 - [Shanxi Bethune Hospital / 山西白求恩医院](entities/ShanxiBethuneHospital.md) — Source-scoped institutional affiliation for head-and-neck surgeon 张宇昊.
-- [Moctezuma II](entities/Moctezuma.md) — Captive Mexica ruler whose damaged authority and disputed death mark the collapse of the Spanish hostage strategy.
+- [Moctezuma II](entities/Moctezuma.md) — Mexica ruler whose strategic hospitality, disputed captivity, damaged authority, and unresolved death expose the conquest record's uncertainty.
 - [Pedro de Alvarado](entities/PedroDeAlvarado.md) — Spanish commander who ordered the Toxcatl massacre and precipitated open war in Tenochtitlan.
 - [Panfilo de Narvaez](entities/PanfiloDeNarvaez.md) — Rival commander whose larger force was defeated and absorbed by Cortes immediately before the Tenochtitlan crisis.
 - [Tlaxcala](entities/Tlaxcala.md) — Indigenous polity whose renewed alliance, warriors, labor, and logistics made recovery from the Noche Triste possible.
@@ -13978,6 +13979,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [James Pennebaker](entities/JamesPennebaker.md) — Psychologist associated with the repeated expressive-writing paradigm and research linking language, distress, health, and immune measures.
 
 ## Concepts
+- [Conquest Captivity Narrative Uncertainty](concepts/ConquestCaptivityNarrativeUncertainty.md) — Framework for distinguishing hospitality, containment, armed dependency, and hostage-taking in contested conquest testimony.
 - [Toxcatl Massacre](concepts/ToxcatlMassacre.md) — Spanish attack on festival participants that transformed an unstable occupation into open war in Tenochtitlan.
 - [Noche Triste](concepts/NocheTriste.md) — Catastrophic 1520 causeway retreat whose aftermath exposed the conquest's dependence on renewed Indigenous alliance.
 - [Siege of Tenochtitlan](concepts/SiegeOfTenochtitlan.md) — 1521 coalition campaign enabled by post-defeat recovery, route isolation, epidemic disruption, brigantines, blockade, and Indigenous allies.

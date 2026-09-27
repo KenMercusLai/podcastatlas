@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2065
+topic_total_pages: 2066
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -223,6 +223,9 @@ topic_concepts:
   - key: "ConfucianLegalistGovernanceBalance"
     title: "Confucian-Legalist Governance Balance / 儒法互补治理"
     url: "/wiki/concepts/confucianlegalistgovernancebalance/"
+  - key: "ConquestCaptivityNarrativeUncertainty"
+    title: "Conquest Captivity Narrative Uncertainty"
+    url: "/wiki/concepts/conquestcaptivitynarrativeuncertainty/"
   - key: "ConquestCommanderyTransition"
     title: "Conquest Commandery Transition / 灭国后的郡县化过渡"
     url: "/wiki/concepts/conquestcommanderytransition/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8383
+wiki_total_pages: 8384
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -1640,6 +1640,9 @@ wiki_pages:
   - key: "ConglomerateControlInColonialHongKong"
     title: "Conglomerate Control in Colonial Hong Kong / 殖民期香港财团控制"
     url: "/wiki/concepts/conglomeratecontrolincolonialhongkong/"
+  - key: "ConquestCaptivityNarrativeUncertainty"
+    title: "Conquest Captivity Narrative Uncertainty"
+    url: "/wiki/concepts/conquestcaptivitynarrativeuncertainty/"
   - key: "ConquestCommanderyTransition"
     title: "Conquest Commandery Transition / 灭国后的郡县化过渡"
     url: "/wiki/concepts/conquestcommanderytransition/"

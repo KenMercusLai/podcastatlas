@@ -30077,6 +30077,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/entities/congoreformassociation/"
     },
+    "ConquestCaptivityNarrativeUncertainty": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8017930427 [GLT8017930427].md",
+          "key": "387-the-fall-of-the-aztecs-prisoners-of-montezuma-part-4-glt8017930427",
+          "show": "The Rest Is History",
+          "title": "387. The Fall of the Aztecs: Prisoners of Montezuma (Part 4)",
+          "url": "/wiki/sources/387-the-fall-of-the-aztecs-prisoners-of-montezuma-part-4-glt8017930427/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/conquestcaptivitynarrativeuncertainty/"
+    },
     "ConquestDisciplineLegitimacy": {
       "episode_count": 1,
       "show_count": 1,
@@ -68367,9 +68383,9 @@
       "url": "/wiki/entities/hermanngoring/"
     },
     "HernanCortes": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT2984940365 [GLT2984940365].md",
@@ -68398,6 +68414,13 @@
           "show": "The Rest Is History",
           "title": "388. The Fall of the Aztecs: The Festival of Blood (Part 5)",
           "url": "/wiki/sources/388-the-fall-of-the-aztecs-the-festival-of-blood-part-5-glt8784071073/"
+        },
+        {
+          "episode_file": "GLT8017930427 [GLT8017930427].md",
+          "key": "387-the-fall-of-the-aztecs-prisoners-of-montezuma-part-4-glt8017930427",
+          "show": "The Rest Is History",
+          "title": "387. The Fall of the Aztecs: Prisoners of Montezuma (Part 4)",
+          "url": "/wiki/sources/387-the-fall-of-the-aztecs-prisoners-of-montezuma-part-4-glt8017930427/"
         }
       ],
       "updated": "2026-09-27",
@@ -97599,9 +97622,9 @@
       "url": "/wiki/concepts/maleurologicalhealthmisconceptions/"
     },
     "Malinche": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT2984940365 [GLT2984940365].md",
@@ -97630,6 +97653,13 @@
           "show": "The Rest Is History",
           "title": "388. The Fall of the Aztecs: The Festival of Blood (Part 5)",
           "url": "/wiki/sources/388-the-fall-of-the-aztecs-the-festival-of-blood-part-5-glt8784071073/"
+        },
+        {
+          "episode_file": "GLT8017930427 [GLT8017930427].md",
+          "key": "387-the-fall-of-the-aztecs-prisoners-of-montezuma-part-4-glt8017930427",
+          "show": "The Rest Is History",
+          "title": "387. The Fall of the Aztecs: Prisoners of Montezuma (Part 4)",
+          "url": "/wiki/sources/387-the-fall-of-the-aztecs-prisoners-of-montezuma-part-4-glt8017930427/"
         }
       ],
       "updated": "2026-09-27",
@@ -101198,9 +101228,9 @@
       "url": "/wiki/entities/metropolitanpolice/"
     },
     "MexicaEmpire": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT2984940365 [GLT2984940365].md",
@@ -101229,6 +101259,13 @@
           "show": "The Rest Is History",
           "title": "388. The Fall of the Aztecs: The Festival of Blood (Part 5)",
           "url": "/wiki/sources/388-the-fall-of-the-aztecs-the-festival-of-blood-part-5-glt8784071073/"
+        },
+        {
+          "episode_file": "GLT8017930427 [GLT8017930427].md",
+          "key": "387-the-fall-of-the-aztecs-prisoners-of-montezuma-part-4-glt8017930427",
+          "show": "The Rest Is History",
+          "title": "387. The Fall of the Aztecs: Prisoners of Montezuma (Part 4)",
+          "url": "/wiki/sources/387-the-fall-of-the-aztecs-prisoners-of-montezuma-part-4-glt8017930427/"
         }
       ],
       "updated": "2026-09-27",
@@ -103189,9 +103226,9 @@
       "url": "/wiki/concepts/mobilityfirstembodiedai/"
     },
     "Moctezuma": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8784071073 [GLT8784071073].md",
@@ -103199,6 +103236,13 @@
           "show": "The Rest Is History",
           "title": "388. The Fall of the Aztecs: The Festival of Blood (Part 5)",
           "url": "/wiki/sources/388-the-fall-of-the-aztecs-the-festival-of-blood-part-5-glt8784071073/"
+        },
+        {
+          "episode_file": "GLT8017930427 [GLT8017930427].md",
+          "key": "387-the-fall-of-the-aztecs-prisoners-of-montezuma-part-4-glt8017930427",
+          "show": "The Rest Is History",
+          "title": "387. The Fall of the Aztecs: Prisoners of Montezuma (Part 4)",
+          "url": "/wiki/sources/387-the-fall-of-the-aztecs-prisoners-of-montezuma-part-4-glt8017930427/"
         }
       ],
       "updated": "2026-09-27",
@@ -138395,9 +138439,9 @@
       "url": "/wiki/concepts/spacebasedaiinfrastructure/"
     },
     "SpanishConquestOfMexico": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT2984940365 [GLT2984940365].md",
@@ -138426,6 +138470,13 @@
           "show": "The Rest Is History",
           "title": "388. The Fall of the Aztecs: The Festival of Blood (Part 5)",
           "url": "/wiki/sources/388-the-fall-of-the-aztecs-the-festival-of-blood-part-5-glt8784071073/"
+        },
+        {
+          "episode_file": "GLT8017930427 [GLT8017930427].md",
+          "key": "387-the-fall-of-the-aztecs-prisoners-of-montezuma-part-4-glt8017930427",
+          "show": "The Rest Is History",
+          "title": "387. The Fall of the Aztecs: Prisoners of Montezuma (Part 4)",
+          "url": "/wiki/sources/387-the-fall-of-the-aztecs-prisoners-of-montezuma-part-4-glt8017930427/"
         }
       ],
       "updated": "2026-09-27",
