@@ -24913,9 +24913,9 @@
       "url": "/wiki/entities/cheshikingdomwesternhan/"
     },
     "ChestPainEmergencyEscalation": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lneMOgQ8gB9o3E2835jvtFX3EMiy [lneMOgQ8gB9o3E2835jvtFX3EMiy].md",
@@ -24930,6 +24930,13 @@
           "show": "这病说来话长",
           "title": "VOL.99八学科联合｜春节健康带回家 给咱不听劝的爸妈 「震惊」家族群的养生干货｜饮食、护理、打鼾、心梗、卒中、消化等",
           "url": "/wiki/sources/vol-99-ba-xueke-lianhe-chunjie-jiankang-dai-huijia-gei-zan-bu-tingquan-de-bama-zhenjing-jiazuqun-de-yangsheng-ganhuo-yinshi-huli-dahan-xingeng-zuzhong-xiaohua-deng-lrvlx1wbukf4g2pbsem4cbzqbuqz/"
+        },
+        {
+          "episode_file": "lqQ7xOemQRIhMuZO5ReY8ROK76BP [lqQ7xOemQRIhMuZO5ReY8ROK76BP].md",
+          "key": "vol-85-jizhen-chudong-jizhen-you-lai-le-yipi-nianqing-huanzhe-gangcai-hai-haohao-de-lqq7xoemqrihmuzo5rey8rok76bp",
+          "show": "这病说来话长",
+          "title": "VOL.85急诊｜初冬，急诊又来了一批年轻患者 刚才还好好的",
+          "url": "/wiki/sources/vol-85-jizhen-chudong-jizhen-you-lai-le-yipi-nianqing-huanzhe-gangcai-hai-haohao-de-lqq7xoemqrihmuzo5rey8rok76bp/"
         }
       ],
       "updated": "2026-09-27",
@@ -43735,6 +43742,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/emergencycashassistance/"
+    },
+    "EmergencyDepartmentRiskExclusion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lqQ7xOemQRIhMuZO5ReY8ROK76BP [lqQ7xOemQRIhMuZO5ReY8ROK76BP].md",
+          "key": "vol-85-jizhen-chudong-jizhen-you-lai-le-yipi-nianqing-huanzhe-gangcai-hai-haohao-de-lqq7xoemqrihmuzo5rey8rok76bp",
+          "show": "这病说来话长",
+          "title": "VOL.85急诊｜初冬，急诊又来了一批年轻患者 刚才还好好的",
+          "url": "/wiki/sources/vol-85-jizhen-chudong-jizhen-you-lai-le-yipi-nianqing-huanzhe-gangcai-hai-haohao-de-lqq7xoemqrihmuzo5rey8rok76bp/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/emergencydepartmentriskexclusion/"
     },
     "EmergencyFrontierDiscretion": {
       "episode_count": 1,
@@ -88653,9 +88676,9 @@
       "url": "/wiki/concepts/lifesciencedatainformationvalue/"
     },
     "LifeStageInsurancePlanning": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lnrBQZtEhpu3nNpOfUw1iHAscwrM [lnrBQZtEhpu3nNpOfUw1iHAscwrM].md",
@@ -88663,9 +88686,16 @@
           "show": "这病说来话长",
           "title": "VOL.118你见过深夜的ICU吗？打破你的刻板印象",
           "url": "/wiki/sources/lnrbqztehpu3nnpofuw1ihascwrm-lnrbqztehpu3nnpofuw1ihascwrm/"
+        },
+        {
+          "episode_file": "lqQ7xOemQRIhMuZO5ReY8ROK76BP [lqQ7xOemQRIhMuZO5ReY8ROK76BP].md",
+          "key": "vol-85-jizhen-chudong-jizhen-you-lai-le-yipi-nianqing-huanzhe-gangcai-hai-haohao-de-lqq7xoemqrihmuzo5rey8rok76bp",
+          "show": "这病说来话长",
+          "title": "VOL.85急诊｜初冬，急诊又来了一批年轻患者 刚才还好好的",
+          "url": "/wiki/sources/vol-85-jizhen-chudong-jizhen-you-lai-le-yipi-nianqing-huanzhe-gangcai-hai-haohao-de-lqq7xoemqrihmuzo5rey8rok76bp/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/lifestageinsuranceplanning/"
     },
     "LifeTaskDiscovery": {
@@ -100533,6 +100563,22 @@
       ],
       "updated": "2026-09-17",
       "url": "/wiki/entities/menelikii/"
+    },
+    "MengDoctorZheBing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lqQ7xOemQRIhMuZO5ReY8ROK76BP [lqQ7xOemQRIhMuZO5ReY8ROK76BP].md",
+          "key": "vol-85-jizhen-chudong-jizhen-you-lai-le-yipi-nianqing-huanzhe-gangcai-hai-haohao-de-lqq7xoemqrihmuzo5rey8rok76bp",
+          "show": "这病说来话长",
+          "title": "VOL.85急诊｜初冬，急诊又来了一批年轻患者 刚才还好好的",
+          "url": "/wiki/sources/vol-85-jizhen-chudong-jizhen-you-lai-le-yipi-nianqing-huanzhe-gangcai-hai-haohao-de-lqq7xoemqrihmuzo5rey8rok76bp/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/mengdoctorzhebing/"
     },
     "MengJunIBDAdvocate": {
       "episode_count": 1,
@@ -122200,6 +122246,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/qiuxianglatehan/"
+    },
+    "QiuXiaozhenInsurance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lqQ7xOemQRIhMuZO5ReY8ROK76BP [lqQ7xOemQRIhMuZO5ReY8ROK76BP].md",
+          "key": "vol-85-jizhen-chudong-jizhen-you-lai-le-yipi-nianqing-huanzhe-gangcai-hai-haohao-de-lqq7xoemqrihmuzo5rey8rok76bp",
+          "show": "这病说来话长",
+          "title": "VOL.85急诊｜初冬，急诊又来了一批年轻患者 刚才还好好的",
+          "url": "/wiki/sources/vol-85-jizhen-chudong-jizhen-you-lai-le-yipi-nianqing-huanzhe-gangcai-hai-haohao-de-lqq7xoemqrihmuzo5rey8rok76bp/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/qiuxiaozheninsurance/"
     },
     "QiuZilong": {
       "episode_count": 1,
@@ -161446,9 +161508,9 @@
       "url": "/wiki/entities/xiaoweiduanwenreporter/"
     },
     "XiaoyusanInsurance": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 2,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "86.打开一颗心：那美好的仗，我已经打过了 [702323437].md",
@@ -161491,9 +161553,16 @@
           "show": "这病说来话长",
           "title": "VOL.118你见过深夜的ICU吗？打破你的刻板印象",
           "url": "/wiki/sources/lnrbqztehpu3nnpofuw1ihascwrm-lnrbqztehpu3nnpofuw1ihascwrm/"
+        },
+        {
+          "episode_file": "lqQ7xOemQRIhMuZO5ReY8ROK76BP [lqQ7xOemQRIhMuZO5ReY8ROK76BP].md",
+          "key": "vol-85-jizhen-chudong-jizhen-you-lai-le-yipi-nianqing-huanzhe-gangcai-hai-haohao-de-lqq7xoemqrihmuzo5rey8rok76bp",
+          "show": "这病说来话长",
+          "title": "VOL.85急诊｜初冬，急诊又来了一批年轻患者 刚才还好好的",
+          "url": "/wiki/sources/vol-85-jizhen-chudong-jizhen-you-lai-le-yipi-nianqing-huanzhe-gangcai-hai-haohao-de-lqq7xoemqrihmuzo5rey8rok76bp/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-09-27",
       "url": "/wiki/entities/xiaoyusaninsurance/"
     },
     "Xiaozhu": {

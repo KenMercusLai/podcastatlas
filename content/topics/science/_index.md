@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1249
+topic_total_pages: 1250
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -3122,6 +3122,9 @@ topic_entities:
   - key: "SunRuoxi"
     title: "孙若曦 / Sun Ruoxi"
     url: "/wiki/entities/sunruoxi/"
+  - key: "MengDoctorZheBing"
+    title: "孟医生 / Meng Doctor (emergency medicine)"
+    url: "/wiki/entities/mengdoctorzhebing/"
   - key: "CuiJiabin"
     title: "崔嘉宾 / Cui Jiabin"
     url: "/wiki/entities/cuijiabin/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 10993
+wiki_total_pages: 10995
 wiki_pages:
   - key: "Qatar"
     title: "Qatar"
@@ -395,6 +395,9 @@ wiki_pages:
   - key: "QiongchengTaihouWesternHan"
     title: "邛成太后 / Qiongcheng Taihou (Western Han)"
     url: "/wiki/entities/qiongchengtaihouwesternhan/"
+  - key: "QiuXiaozhenInsurance"
+    title: "邱小真 / Qiu Xiaozhen (insurance broker)"
+    url: "/wiki/entities/qiuxiaozheninsurance/"
   - key: "QiuLian"
     title: "邱连 / Qiu Lian"
     url: "/wiki/entities/qiulian/"

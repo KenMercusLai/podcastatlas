@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.85急诊｜初冬，急诊又来了一批年轻患者 刚才还好好的](sources/vol-85-jizhen-chudong-jizhen-you-lai-le-yipi-nianqing-huanzhe-gangcai-hai-haohao-de-lqq7xoemqrihmuzo5rey8rok76bp.md) — 这病说来话长 episode on emergency risk exclusion, subtle severe illness in younger adults, acute-versus-outpatient care, ICU cost pressure, and sponsor-linked insurance planning.
 - [387. The Fall of the Aztecs: Prisoners of Montezuma (Part 4)](sources/387-the-fall-of-the-aztecs-prisoners-of-montezuma-part-4-glt8017930427.md) — The Rest Is History episode on Tenochtitlan's urban order, religious encounter, contested captivity, Spanish greed, Moctezuma's disputed hostage chronology, and Narvaez's arrival.
 - [LIVE EVENT Q&A: Dr. Andrew Huberman at Meridian Hall in Toronto](sources/live-event-q-a-dr-andrew-huberman-at-meridian-hall-in-toronto-scim7370892669.md) — Huberman Lab live Q&A on nicotine, ADHD, sleep recovery, burnout, flexible nutrition and exercise, testosterone, breathwork safety, children's light exposure, and parenting.
 - [388. The Fall of the Aztecs: The Festival of Blood (Part 5)](sources/388-the-fall-of-the-aztecs-the-festival-of-blood-part-5-glt8784071073.md) — The Rest Is History episode on the Toxcatl massacre, Cortes's defeat of Narvaez, the collapse of Spanish control in Tenochtitlan, and Moctezuma's disputed death.
@@ -2971,6 +2972,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [A Science-Supported Journaling Protocol to Improve Mental & Physical Health](sources/a-science-supported-journaling-protocol-to-improve-mental-physical-health-scim8054388666.md) — Huberman Lab solo episode on Pennebaker-style expressive writing, repeated trauma narration, recovery safeguards, and evidence-bounded mental, physical, and immune claims.
 
 ## Entities
+- [孟医生 / Meng Doctor (emergency medicine)](entities/MengDoctorZheBing.md) — Source-scoped emergency attending explaining acute-risk exclusion, stabilization, and the limits of emergency diagnosis.
+- [邱小真 / Qiu Xiaozhen (insurance broker)](entities/QiuXiaozhenInsurance.md) — Sponsor-linked broker discussing channel differences and scenario-based medical and accident coverage planning.
 - [张宇昊 / Zhang Yuhao (head-and-neck surgeon)](entities/ZhangYuhaoHeadNeckSurgeon.md) — Shanxi Bethune Hospital clinician explaining thyroid and neck-mass assessment through imaging, pathology, anatomy, follow-up, and individualized treatment.
 - [Shanxi Bethune Hospital / 山西白求恩医院](entities/ShanxiBethuneHospital.md) — Source-scoped institutional affiliation for head-and-neck surgeon 张宇昊.
 - [Moctezuma II](entities/Moctezuma.md) — Mexica ruler whose strategic hospitality, disputed captivity, damaged authority, and unresolved death expose the conquest record's uncertainty.
@@ -13979,6 +13982,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [James Pennebaker](entities/JamesPennebaker.md) — Psychologist associated with the repeated expressive-writing paradigm and research linking language, distress, health, and immune measures.
 
 ## Concepts
+- [Emergency-Department Risk Exclusion / 急诊危重风险排除](concepts/EmergencyDepartmentRiskExclusion.md) — Acute-care framework prioritizing rapid identification, exclusion, or stabilization of time-sensitive danger before outpatient etiological refinement.
 - [Conquest Captivity Narrative Uncertainty](concepts/ConquestCaptivityNarrativeUncertainty.md) — Framework for distinguishing hospitality, containment, armed dependency, and hostage-taking in contested conquest testimony.
 - [Toxcatl Massacre](concepts/ToxcatlMassacre.md) — Spanish attack on festival participants that transformed an unstable occupation into open war in Tenochtitlan.
 - [Noche Triste](concepts/NocheTriste.md) — Catastrophic 1520 causeway retreat whose aftermath exposed the conquest's dependence on renewed Indigenous alliance.

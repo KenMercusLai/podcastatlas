@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 10993
+wiki_total_pages: 10995
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -1553,6 +1553,9 @@ wiki_pages:
   - key: "MengYi"
     title: "孟依"
     url: "/wiki/entities/mengyi/"
+  - key: "MengDoctorZheBing"
+    title: "孟医生 / Meng Doctor (emergency medicine)"
+    url: "/wiki/entities/mengdoctorzhebing/"
   - key: "MengShuHan"
     title: "孟叔 / Meng Shu (early Han)"
     url: "/wiki/entities/mengshuhan/"

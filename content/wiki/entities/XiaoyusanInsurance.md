@@ -9,7 +9,8 @@ sources:
   - 110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278
   - 159-yao-jingming-yao-shanliang-yao-jiejue-wenti-931818201
   - lnrbqztehpu3nnpofuw1ihascwrm-lnrbqztehpu3nnpofuw1ihascwrm
-last_updated: 2026-09-25
+  - vol-85-jizhen-chudong-jizhen-you-lai-le-yipi-nianqing-huanzhe-gangcai-hai-haohao-de-lqq7xoemqrihmuzo5rey8rok76bp
+last_updated: 2026-09-27
 knowledge_schema: synthesis-v1
 ---
 
@@ -23,6 +24,8 @@ The platform's recurring role is to connect household risk planning with post-pu
 
 VOL.118 adds a broker-channel explanation through [[XieWeiInsurance|谢为]] and describes document upload, complex-claim support, material collection, advance-payment and legal-assistance functions. It also gives company scale and insurer-count figures, but those are 2024 sponsor claims, not independently verified current facts.
 
+VOL.85 supplies an earlier broker appearance through [[QiuXiaozhenInsurance|邱小真]]. It adds temporary-work and older-adult scenarios, short-duration or monthly-payment framing, and consultation intake around age, income, budget, and household need. The episode's company history, scale, insurer-count, claims, and promotional-price statements are 2023 sponsor claims rather than current verification.
+
 ## Key Characteristics
 - Presented as comparing products across multiple insurers rather than selling only one insurer's catalog.
 - Connects product selection to age, health, dependents, budget, and changing household responsibility.
@@ -30,6 +33,7 @@ VOL.118 adds a broker-channel explanation through [[XieWeiInsurance|谢为]] and
 - Appears across health, critical-illness, long-term-care, screening, aging, and family-finance discussions.
 - Uses online consultation and submission channels as part of its service model.
 - Remains sponsor-linked in every current source, requiring explicit incentive and verification qualifications.
+- Applies the planning pitch to temporary work, employee benefits, and older-adult medical or accident exposure as well as major illness and long-term care.
 
 ## Evidence
 - Medical and critical-illness distinction: [[86-dakai-yike-xin-na-meihao-de-zhang-wo-yijing-daguo-le-702323437]] connects reimbursement coverage with treatment bills and fixed payouts with income, recovery, and family-expense pressure.
@@ -37,17 +41,20 @@ VOL.118 adds a broker-channel explanation through [[XieWeiInsurance|谢为]] and
 - Long-term care: [[137-sangeng-banye-juran-yao-chi-xiangjiao-shide-zailai-yigen-835431951]] separates ongoing disability-care costs from acute hospital reimbursement or critical-illness cash.
 - Claims assistance: [[159-yao-jingming-yao-shanliang-yao-jiejue-wenti-931818201]] presents the emergency private-hospital transfer case as a policy-interpretation and evidence problem involving [[DiscretionaryInsurancePayment]].
 - Broker and service description: [[lnrbqztehpu3nnpofuw1ihascwrm-lnrbqztehpu3nnpofuw1ihascwrm]] has 谢为 distinguish brokers from insurer agents and describe comparison, consultation, digital claims submission, complex-case support, collection, advance-payment, and legal-assistance services.
+- Earlier broker and flexible-duration framing: [[vol-85-jizhen-chudong-jizhen-you-lai-le-yipi-nianqing-huanzhe-gangcai-hai-haohao-de-lqq7xoemqrihmuzo5rey8rok76bp]] has 邱小真 distinguish brokers from insurer agents and discuss temporary workers, older adults, medical and accident categories, monthly payment, and consultation intake.
 
 ## Qualifications
-All current evidence comes from sponsored podcast segments rather than independent audits, contracts, regulatory records, customer outcome data, or current product documentation. Company age, user count, insurer count, cumulative claims, fees, advance-payment, legal support, price equivalence, and service availability are source claims that may change or vary by case. Platform help does not guarantee underwriting, suitability, renewal, claim acceptance, or favorable settlement.
+All current evidence comes from sponsored podcast segments rather than independent audits, contracts, regulatory records, customer outcome data, or current product documentation. Company age, approval history, user count, insurer count, cumulative claims, fees, promotional pricing, advance-payment, legal support, price equivalence, flexible payment, and service availability are source claims that may change or vary by case. Platform help does not guarantee underwriting, suitability, renewal, claim acceptance, or favorable settlement.
 
 ## What Changed
 - Added the broker-versus-agent positioning and broader post-purchase service description from VOL.118.
 - Made the time-bound, sponsored status of company scale and service claims explicit.
 - Reorganized the profile around planning, claims assistance, and incentive boundaries rather than episode order.
+- Added VOL.85's earlier broker, temporary-work, older-adult, and flexible-duration planning scenarios.
 
 ## Relationships
 - [[XieWeiInsurance]] - broker guest representing the platform in VOL.118.
+- [[QiuXiaozhenInsurance]] - broker guest representing the platform in VOL.85.
 - [[InsuranceClaimsAssistancePlatforms]] - service category the platform is used to illustrate.
 - [[InsuranceSalesTrust]] - incentive, channel, and service-continuity boundary.
 - [[DiscretionaryInsurancePayment]] - claim case where platform argument supports special approval.

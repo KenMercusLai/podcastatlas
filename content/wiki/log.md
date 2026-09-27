@@ -23575,3 +23575,11 @@ Added source `387-the-fall-of-the-aztecs-prisoners-of-montezuma-part-4-glt801793
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | VOL.85急诊｜初冬，急诊又来了一批年轻患者 刚才还好好的
+
+Added source `vol-85-jizhen-chudong-jizhen-you-lai-le-yipi-nianqing-huanzhe-gangcai-hai-haohao-de-lqq7xoemqrihmuzo5rey8rok76bp`; created `MengDoctorZheBing`, `QiuXiaozhenInsurance`, and `EmergencyDepartmentRiskExclusion`; and updated `ChestPainEmergencyEscalation`, `LifeStageInsurancePlanning`, `XiaoyusanInsurance`, and the canonical index from their complete bounded source sets. Core synthesis: emergency care prioritizes rapid exclusion or stabilization of time-sensitive danger rather than guaranteeing a final diagnosis, and younger age or outward stability does not rule out severe asthma, myocardial infarction, poisoning, or trauma. No settled contradiction found. Testing bundles, two-hour reporting, case details, ICU costs, platform scale, broker advantages, product availability, flexible payment, and promotional pricing remain source-scoped public-education or sponsor claims rather than universal guidance or independently verified current facts. The automatic `wiki/overview.md` was read for context but not manually rewritten because the existing emergency-care and insurance syntheses already cover the relevant domains.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
