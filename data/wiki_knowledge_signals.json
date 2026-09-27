@@ -22906,6 +22906,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/chaoge/"
     },
+    "CharacterBasedRomanticCompatibility": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1811421687 [SCIM1811421687].md",
+          "key": "a-process-for-finding-achieving-your-unique-purpose-robert-greene-scim1811421687",
+          "show": "Huberman Lab",
+          "title": "A Process for Finding & Achieving Your Unique Purpose | Robert Greene",
+          "url": "/wiki/sources/a-process-for-finding-achieving-your-unique-purpose-robert-greene-scim1811421687/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/characterbasedromanticcompatibility/"
+    },
     "CharacterReadingDelegationTrust": {
       "episode_count": 3,
       "show_count": 1,
@@ -42364,6 +42380,22 @@
       "updated": "2026-09-24",
       "url": "/wiki/concepts/effortasreward/"
     },
+    "EffortfulThinkingInTheAIAge": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1811421687 [SCIM1811421687].md",
+          "key": "a-process-for-finding-achieving-your-unique-purpose-robert-greene-scim1811421687",
+          "show": "Huberman Lab",
+          "title": "A Process for Finding & Achieving Your Unique Purpose | Robert Greene",
+          "url": "/wiki/sources/a-process-for-finding-achieving-your-unique-purpose-robert-greene-scim1811421687/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/effortfulthinkingintheaiage/"
+    },
     "EgocentricRobotData": {
       "episode_count": 2,
       "show_count": 2,
@@ -43292,6 +43324,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/concepts/embodiedrobotdatatradeoff/"
+    },
+    "EmbodiedSocialPerception": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1811421687 [SCIM1811421687].md",
+          "key": "a-process-for-finding-achieving-your-unique-purpose-robert-greene-scim1811421687",
+          "show": "Huberman Lab",
+          "title": "A Process for Finding & Achieving Your Unique Purpose | Robert Greene",
+          "url": "/wiki/sources/a-process-for-finding-achieving-your-unique-purpose-robert-greene-scim1811421687/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/embodiedsocialperception/"
     },
     "EmbodiedTrainingAgainstFear": {
       "episode_count": 1,
@@ -86376,6 +86424,22 @@
       "updated": "2026-09-25",
       "url": "/wiki/concepts/lifestageinsuranceplanning/"
     },
+    "LifeTaskDiscovery": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1811421687 [SCIM1811421687].md",
+          "key": "a-process-for-finding-achieving-your-unique-purpose-robert-greene-scim1811421687",
+          "show": "Huberman Lab",
+          "title": "A Process for Finding & Achieving Your Unique Purpose | Robert Greene",
+          "url": "/wiki/sources/a-process-for-finding-achieving-your-unique-purpose-robert-greene-scim1811421687/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/lifetaskdiscovery/"
+    },
     "LifeTimeVsMachineTime": {
       "episode_count": 1,
       "show_count": 1,
@@ -101820,9 +101884,9 @@
       "url": "/wiki/entities/morocco/"
     },
     "MortalityBoundedMeaning": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7619753889 [SCIM7619753889].md",
@@ -101830,9 +101894,16 @@
           "show": "Huberman Lab",
           "title": "How to Find Your True Purpose & Create Your Best Life | Dr. James Hollis",
           "url": "/wiki/sources/how-to-find-your-true-purpose-create-your-best-life-dr-james-hollis-scim7619753889/"
+        },
+        {
+          "episode_file": "SCIM1811421687 [SCIM1811421687].md",
+          "key": "a-process-for-finding-achieving-your-unique-purpose-robert-greene-scim1811421687",
+          "show": "Huberman Lab",
+          "title": "A Process for Finding & Achieving Your Unique Purpose | Robert Greene",
+          "url": "/wiki/sources/a-process-for-finding-achieving-your-unique-purpose-robert-greene-scim1811421687/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/mortalityboundedmeaning/"
     },
     "MoscowUprising1682": {
@@ -115621,6 +115692,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/concepts/powerdominatedwealthinsecurity/"
     },
+    "PowerLiteracy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1811421687 [SCIM1811421687].md",
+          "key": "a-process-for-finding-achieving-your-unique-purpose-robert-greene-scim1811421687",
+          "show": "Huberman Lab",
+          "title": "A Process for Finding & Achieving Your Unique Purpose | Robert Greene",
+          "url": "/wiki/sources/a-process-for-finding-achieving-your-unique-purpose-robert-greene-scim1811421687/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/powerliteracy/"
+    },
     "PowerMonopolyBackfire": {
       "episode_count": 1,
       "show_count": 1,
@@ -118871,9 +118958,9 @@
       "url": "/wiki/concepts/puritanenlightenmentpracticalethic/"
     },
     "PurposeIntegratedMotivation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM6606381639 [SCIM6606381639].md",
@@ -118881,9 +118968,16 @@
           "show": "Huberman Lab",
           "title": "How to Master Growth Mindset to Improve Performance | Dr. David Yeager",
           "url": "/wiki/sources/how-to-master-growth-mindset-to-improve-performance-dr-david-yeager-scim6606381639/"
+        },
+        {
+          "episode_file": "SCIM1811421687 [SCIM1811421687].md",
+          "key": "a-process-for-finding-achieving-your-unique-purpose-robert-greene-scim1811421687",
+          "show": "Huberman Lab",
+          "title": "A Process for Finding & Achieving Your Unique Purpose | Robert Greene",
+          "url": "/wiki/sources/a-process-for-finding-achieving-your-unique-purpose-robert-greene-scim1811421687/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/purposeintegratedmotivation/"
     },
     "PushPullIntimacyCommunication": {
@@ -124709,6 +124803,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/robertgraves/"
+    },
+    "RobertGreene": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1811421687 [SCIM1811421687].md",
+          "key": "a-process-for-finding-achieving-your-unique-purpose-robert-greene-scim1811421687",
+          "show": "Huberman Lab",
+          "title": "A Process for Finding & Achieving Your Unique Purpose | Robert Greene",
+          "url": "/wiki/sources/a-process-for-finding-achieving-your-unique-purpose-robert-greene-scim1811421687/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/robertgreene/"
     },
     "RobertLustig": {
       "episode_count": 1,

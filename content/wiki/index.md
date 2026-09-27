@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [A Process for Finding & Achieving Your Unique Purpose | Robert Greene](sources/a-process-for-finding-achieving-your-unique-purpose-robert-greene-scim1811421687.md) — Huberman Lab interview on life-task discovery, power literacy, romantic compatibility, embodied social perception, effortful thinking, stroke, and mortality-bounded urgency.
 - [396. JFK: The Second Assassin Strikes (Part 5)](sources/396-jfk-the-second-assassin-strikes-part-5-glt7803941061.md) — The Rest Is History episode on the case against Oswald, Ruby's impulsive opportunity, the fatal police-transfer failure, and the public-trust consequences of losing a trial.
 - [397. JFK: A Conspiracy Unmasked (Part 6)](sources/397-jfk-a-conspiracy-unmasked-part-6-glt4318220159.md) — The Rest Is History episode on Ruby's killing of Oswald, the Warren Commission, declining institutional trust, disputed evidence, and the failure of major JFK conspiracy candidates.
 - [The Causes & Treatments for Autism | Dr. Karen Parker](sources/the-causes-treatments-for-autism-dr-karen-parker-scim5460291325.md) — Huberman Lab interview on autism heterogeneity, dimension-specific biomarkers, oxytocin evidence, vasopressin translation, model validity, screening access, and treatment uncertainty.
@@ -2953,6 +2954,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Prevent & Treat Colds & Flu](sources/how-to-prevent-treat-colds-flu-scim6817932732.md) — Huberman Lab solo episode on respiratory-virus transmission, layered immune defense, sleep and training load, heat boundaries, and supplement evidence.
 
 ## Entities
+- [Robert Greene](entities/RobertGreene.md) — Author connecting purpose, power, relationships, difficult thinking, and mortality in a source-bounded Huberman Lab profile.
 - [John F. Kennedy](entities/JohnFKennedy.md) — U.S. president whose assassination and symbolic stature anchor the episode's victim, motive, and conspiracy-afterlife analysis.
 - [Lee Harvey Oswald](entities/LeeHarveyOswald.md) — Former Marine and Soviet defector whom the episode identifies as Kennedy's killer through a cumulative biographical and evidentiary case.
 - [Assassination of John F. Kennedy](entities/KennedyAssassination.md) — 1963 Dallas killing presented through lone-gunman evidence, ballistic objections, and a durable conspiracy afterlife.
@@ -13933,6 +13935,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kay Tye](entities/KayTye.md) — Neuroscientist connecting emotional-valence circuits to loneliness, social homeostasis, hierarchy, and sustainable scientific leadership.
 
 ## Concepts
+- [Life-Task Discovery](concepts/LifeTaskDiscovery.md) — Process of testing early fascinations, aversions, and visceral engagement as evidence for a durable adult direction.
+- [Power Literacy](concepts/PowerLiteracy.md) — Defensive awareness of influence, dependency, status, disclosure, vulnerability, and covert control in ordinary relationships.
+- [Embodied Social Perception](concepts/EmbodiedSocialPerception.md) — Probabilistic interpretation of voice, gaze, posture, movement, timing, and conduct across contexts.
+- [Character-Based Romantic Compatibility](concepts/CharacterBasedRomanticCompatibility.md) — Relationship assessment through demonstrated values, character, life direction, attraction, and capacity for continued growth.
+- [Effortful Thinking in the AI Age](concepts/EffortfulThinkingInTheAIAge.md) — Preservation of productive struggle, uncertainty, revision, and self-correction when AI supports cognitive work.
 - [Autism Biological Heterogeneity](concepts/AutismBiologicalHeterogeneity.md) — Distinction between a shared behavioral diagnosis and varied biological pathways, dimensions, subgroups, and treatment responses.
 - [Vasopressin and Social Function](concepts/VasopressinSocialFunction.md) — Preliminary cross-species biomarker and treatment hypothesis linking central vasopressin to specific social-function dimensions.
 - [Secondary-Theater Resource Constraint](concepts/SecondaryTheaterResourceConstraint.md) — Gap between assigning a campaign strategic value and withholding first-priority resources because another theater dominates allocation.

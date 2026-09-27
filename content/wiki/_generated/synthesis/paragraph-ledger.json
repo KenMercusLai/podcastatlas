@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "57f8a02e7e6bd51de03f71ee78111b277aa619da3a70b22d108fd8fbf1771447",
       "1d341f8f999509137f16869155acc686068c729a721a25d437d0e4444ebe4e05",
       "0d400512be766cf6cb5705845c569738568557544604846dc1622097d52b41e8",
       "ff38ff2149c88ba8332e4a0444a48ebc7757430d2a4c9e21920ae07be179adf6",
@@ -759,11 +760,37 @@
       "1f02005c80ec3e7ac3f24acac820a9118d51d7e2de5614db5e13752add4f80b9",
       "60d22980877c9a07564718a1614f1e06e5947001e678ff946ba7dbbc77be1f31"
     ],
-    "paragraph_count": 757
+    "paragraph_count": 758
   },
-  "overview_commit": "25fff303c94ac1a0e05cd52e49a570d5a0eecbc7",
-  "overview_digest": "97ed0b5e9e11121a6dd1d17995fd5ca2913f575d50dce89f3c5ce25c761c6f19",
+  "overview_commit": "c78735b49412f8e59e4a442bb8a152e4aa7fcc4b",
+  "overview_digest": "3ddadd360203a3c66a585d03c76f669ef5533283cd8bf03edf7db44767666d18",
   "paragraphs": [
+    {
+      "id": "57f8a02e7e6bd51de03f71ee78111b277aa619da3a70b22d108fd8fbf1771447",
+      "primary_topic": "psychology-and-personal-development",
+      "secondary_topics": [],
+      "text": "The latest addition is [[a-process-for-finding-achieving-your-unique-purpose-robert-greene-scim1811421687|A Process for Finding & Achieving Your Unique Purpose | Robert Greene]], a [[HubermanLab]] interview with [[RobertGreene]] and [[AndrewHuberman]] on purpose, power, seduction, love, mentorship, nonverbal communication, AI, stroke, and mortality. It adds [[RobertGreene]], [[LifeTaskDiscovery]], [[PowerLiteracy]], [[EmbodiedSocialPerception]], [[CharacterBasedRomanticCompatibility]], and [[EffortfulThinkingInTheAIAge]], while extending [[PurposeIntegratedMotivation]] and [[MortalityBoundedMeaning]]. Its core synthesis is that direction emerges by testing recurring inclinations and frustrations, social navigation requires attention to influence and embodied conduct, durable relationships depend on demonstrated character and value convergence, and AI should preserve the effort that trains judgment. No settled contradiction is recorded; childhood destiny, multiple-intelligence, gender, culture, pornography, dating-app, nonverbal-decoding, AI-cognition, neuroplasticity, stroke-recovery, and mortality effects remain philosophical, autobiographical, or source-scoped, while “death ground” is treated as an urgency metaphor rather than a literal self-help prescription.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "culture-and-media": 1,
+        "governance-and-institutions": 1,
+        "psychology-and-personal-development": 2,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AndrewHuberman",
+        "CharacterBasedRomanticCompatibility",
+        "EffortfulThinkingInTheAIAge",
+        "EmbodiedSocialPerception",
+        "HubermanLab",
+        "LifeTaskDiscovery",
+        "MortalityBoundedMeaning",
+        "PowerLiteracy",
+        "PurposeIntegratedMotivation",
+        "RobertGreene",
+        "a-process-for-finding-achieving-your-unique-purpose-robert-greene-scim1811421687"
+      ]
+    },
     {
       "id": "1d341f8f999509137f16869155acc686068c729a721a25d437d0e4444ebe4e05",
       "primary_topic": "work-education-and-society",

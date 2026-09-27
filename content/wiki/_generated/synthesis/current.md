@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-27
-as_of_overview_commit: e62c4aef4b0007e39c92f06f84da8df1176aafc9
+as_of_overview_commit: c78735b49412f8e59e4a442bb8a152e4aa7fcc4b
 summary: "Across domains, durable progress depends on context, evidence, human judgment, bounded authority, practical capacity, and feedback—not labels, tools, or scale alone."
-episode_count: 2925
-source_count: 2925
-paragraph_count: 757
+episode_count: 2930
+source_count: 2930
+paragraph_count: 758
 topic_count: 9
 ---
 
@@ -21,7 +21,7 @@ topic_count: 9
 - Cultural form is an interpretive infrastructure: [[MuseumInterpretationLegibility]], [[PlaceBasedExhibitionCuration]], [[AncientChineseBookMateriality]], [[BookPublishingEconomics]], and [[PhysicalBookDesignTradeoff]] show that objects, books, and exhibitions need labels, material form, production choices, and local context before audiences can understand them.
 - [[tech-20260918-mp-tech-pod-128-tech-20260918-mp-tech-pod-128|The September 18 Marketplace Tech episode]] shows technology governance converging on bounded, enforceable controls: [[AdvancedAIDevelopmentPause]] must address competition and public legitimacy, [[AutomaticLicensePlateReader]] and [[FlockSafety]] oversight must combine purpose limits, auditing, and device security, and [[DeviceOriginPhotoAuthentication]] must preserve the difference between verified origin and absence of authentication.
 - Strategic routes become political infrastructure when control over cables, straits, ports, enclave crossings, or mountain corridors changes what states, markets, migrants, and armies can do.
-- [[EmbodiedAnxietyRegulation]], [[BodyBasedSelfTrust]], and [[BoxingAsEmbodiedAgency]] present bodily sensation, movement, breath, warmth, contact, sparring, ritual, and present-oriented grounding as routes for rebuilding self-trust after anxiety, chronic alarm, or head-only rumination; [[SpineRehabilitationProgression]] adds gradual capacity, while [[MechanismBasedBackPainAssessment]], [[WorkstationPostureAdjustment]], and [[SedentaryBehaviorInterruption]] keep posture, setup, and public exercises conditional on work, mobility, function, and symptom response rather than cure claims or rigid self-monitoring.
+- [[LifeTaskDiscovery]] and [[PurposeIntegratedMotivation]] frame direction as a test of recurring inclination, engagement, contribution, and adult experimentation; [[PowerLiteracy]], [[EmbodiedSocialPerception]], and [[CharacterBasedRomanticCompatibility]] place social judgment on influence, demonstrated values, cue clusters, and conduct across contexts, while [[EffortfulThinkingInTheAIAge]] and [[MortalityBoundedMeaning]] preserve effort and finite-time urgency without turning struggle, crisis, or intuition into universal prescriptions.
 - [[MissedDiagnosisRisk]] is mitigated less by maximal testing than by [[DiagnosticSafetyNetting]]: [[MedicalDiagnosticReasoning]], [[DoctorPatientCommunication]], and [[SecondOpinionStrategy]] keep first-visit uncertainty active through suspected diagnoses, unexcluded dangers, return or emergency triggers, report tracking, and qualified second opinions.
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough.
 
@@ -68,10 +68,10 @@ Historical outcomes emerge from routes, logistics, state capacity, coalition str
 
 ### Psychology and Personal Development
 
-Personal change is grounded in embodied regulation, relational safety, calibrated action, honest limits, and care boundaries that prevent public concepts from becoming self-diagnosis.
+Personal change depends on testing purpose through lived engagement, preserving effort and judgment, reading relationships through contextual evidence, and keeping embodied regulation, mortality, and public psychology inside honest care boundaries.
 
+- [[LifeTaskDiscovery]] and [[PurposeIntegratedMotivation]] frame direction as a test of recurring inclination, engagement, contribution, and adult experimentation; [[PowerLiteracy]], [[EmbodiedSocialPerception]], and [[CharacterBasedRomanticCompatibility]] place social judgment on influence, demonstrated values, cue clusters, and conduct across contexts, while [[EffortfulThinkingInTheAIAge]] and [[MortalityBoundedMeaning]] preserve effort and finite-time urgency without turning struggle, crisis, or intuition into universal prescriptions. Evidence: [[a-process-for-finding-achieving-your-unique-purpose-robert-greene-scim1811421687]], [[RobertGreene]], [[LifeTaskDiscovery]], [[PurposeIntegratedMotivation]], [[PowerLiteracy]], [[EmbodiedSocialPerception]], [[CharacterBasedRomanticCompatibility]], [[EffortfulThinkingInTheAIAge]], [[MortalityBoundedMeaning]].
 - [[ColemanRuiz]] adds a first-person case to [[CompetenceStatusMentalHealthBlindSpot]]: discipline, fear, toughness, and team belonging can sustain elite performance while grief and distress accumulate; [[HeroReturnWithBoon]] and [[PositiveMasculinityCode]] then frame recovery as reintegration through trusted support, professional care, ordinary routines, vulnerability, and a wider range of strength. Evidence: [[overcoming-physical-emotional-challenges-coleman-ruiz-scim6632700547]], [[ColemanRuiz]], [[CompetenceStatusMentalHealthBlindSpot]], [[HeroReturnWithBoon]], [[PositiveMasculinityCode]].
-- [[ClinicalTrustBuilding]] and [[ClinicalOutcomeUncertainty]] add that clinical trust becomes usable when competence and responsibility are paired with honest limits, durable [[DoctorPatientCommunication]], specific encouragement, referral, and continuity; technical success alone does not establish survival, function, recovery, or discharge. Evidence: [[ClinicalTrustBuilding]], [[ClinicalOutcomeUncertainty]], [[DoctorPatientCommunication]], [[vol-128-he-7-wei-yisheng-de-liaotianju-jiangshu-le-12-wei-huanzhe-de-zhenshi-gushi-yishijie-litblbacavb9homqxo81g71oujyz]].
 
 ### Science, Health, and Climate
 

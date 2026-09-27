@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 8355
+wiki_total_pages: 8360
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -185,6 +185,9 @@ wiki_pages:
   - key: "EffortAsReward"
     title: "Effort As Reward"
     url: "/wiki/concepts/effortasreward/"
+  - key: "EffortfulThinkingInTheAIAge"
+    title: "Effortful Thinking in the AI Age"
+    url: "/wiki/concepts/effortfulthinkingintheaiage/"
   - key: "EgocentricRobotData"
     title: "Egocentric Robot Data"
     url: "/wiki/concepts/egocentricrobotdata/"
@@ -359,6 +362,9 @@ wiki_pages:
   - key: "EmbodiedRobotDataTradeoff"
     title: "Embodied Robot Data Tradeoff"
     url: "/wiki/concepts/embodiedrobotdatatradeoff/"
+  - key: "EmbodiedSocialPerception"
+    title: "Embodied Social Perception"
+    url: "/wiki/concepts/embodiedsocialperception/"
   - key: "EmbodiedTaste"
     title: "Embodied Taste"
     url: "/wiki/concepts/embodiedtaste/"

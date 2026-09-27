@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 8355
+wiki_total_pages: 8360
 wiki_pages:
   - key: "LaborIllusion"
     title: "Labor Illusion"
@@ -362,6 +362,9 @@ wiki_pages:
   - key: "LifeStageInsurancePlanning"
     title: "Life-Stage Insurance Planning"
     url: "/wiki/concepts/lifestageinsuranceplanning/"
+  - key: "LifeTaskDiscovery"
+    title: "Life-Task Discovery"
+    url: "/wiki/concepts/lifetaskdiscovery/"
   - key: "LifecycleOralHealthPrevention"
     title: "Lifecycle Oral Health Prevention / 全生命周期口腔预防"
     url: "/wiki/concepts/lifecycleoralhealthprevention/"

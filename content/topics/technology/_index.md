@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3179
+topic_total_pages: 3181
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1900,6 +1900,9 @@ topic_concepts:
   - key: "EEGBrainReading"
     title: "EEG Brain Reading"
     url: "/wiki/concepts/eegbrainreading/"
+  - key: "EffortfulThinkingInTheAIAge"
+    title: "Effortful Thinking in the AI Age"
+    url: "/wiki/concepts/effortfulthinkingintheaiage/"
   - key: "EgocentricRobotData"
     title: "Egocentric Robot Data"
     url: "/wiki/concepts/egocentricrobotdata/"
@@ -8292,6 +8295,9 @@ topic_sources:
   - key: "tech-20260723-0723-mp-tech-pod-128-tech-20260723-0723-mp-tech-pod-128"
     title: "A modern-day odyssey through AI chatbot hellscape"
     url: "/wiki/sources/tech-20260723-0723-mp-tech-pod-128-tech-20260723-0723-mp-tech-pod-128/"
+  - key: "a-process-for-finding-achieving-your-unique-purpose-robert-greene-scim1811421687"
+    title: "A Process for Finding & Achieving Your Unique Purpose | Robert Greene"
+    url: "/wiki/sources/a-process-for-finding-achieving-your-unique-purpose-robert-greene-scim1811421687/"
   - key: "tech-20260101-0101-mp-tech-pod-128-tech-20260101-0101-mp-tech-pod-128"
     title: "A tech company that 'happens to build homes'"
     url: "/wiki/sources/tech-20260101-0101-mp-tech-pod-128-tech-20260101-0101-mp-tech-pod-128/"

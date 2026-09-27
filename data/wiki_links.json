@@ -12859,6 +12859,10 @@
     "title": "Character AI",
     "url": "/wiki/entities/characterai/"
   },
+  "CharacterBasedRomanticCompatibility": {
+    "title": "Character-Based Romantic Compatibility",
+    "url": "/wiki/concepts/characterbasedromanticcompatibility/"
+  },
   "CharacterFormEvolution": {
     "title": "Character Form Evolution",
     "url": "/wiki/concepts/characterformevolution/"
@@ -21847,6 +21851,10 @@
     "title": "努力叙事追问 / Effort Narrative Interrogation",
     "url": "/wiki/concepts/effortnarrativeinterrogation/"
   },
+  "EffortfulThinkingInTheAIAge": {
+    "title": "Effortful Thinking in the AI Age",
+    "url": "/wiki/concepts/effortfulthinkingintheaiage/"
+  },
   "EgocentricRobotData": {
     "title": "Egocentric Robot Data",
     "url": "/wiki/concepts/egocentricrobotdata/"
@@ -22238,6 +22246,10 @@
   "EmbodiedRobotDataTradeoff": {
     "title": "Embodied Robot Data Tradeoff",
     "url": "/wiki/concepts/embodiedrobotdatatradeoff/"
+  },
+  "EmbodiedSocialPerception": {
+    "title": "Embodied Social Perception",
+    "url": "/wiki/concepts/embodiedsocialperception/"
   },
   "EmbodiedTaste": {
     "title": "Embodied Taste",
@@ -40963,6 +40975,10 @@
     "title": "Life-Stage Insurance Planning",
     "url": "/wiki/concepts/lifestageinsuranceplanning/"
   },
+  "LifeTaskDiscovery": {
+    "title": "Life-Task Discovery",
+    "url": "/wiki/concepts/lifetaskdiscovery/"
+  },
   "LifeTimeVsMachineTime": {
     "title": "Life Time Versus Machine Time / 生命时间与机器时间",
     "url": "/wiki/concepts/lifetimevsmachinetime/"
@@ -53987,6 +54003,10 @@
     "title": "Power Exit Trap / 权力退场困境",
     "url": "/wiki/concepts/powerexittrap/"
   },
+  "PowerLiteracy": {
+    "title": "Power Literacy",
+    "url": "/wiki/concepts/powerliteracy/"
+  },
   "PowerMonopolyBackfire": {
     "title": "Power Monopoly Backfire / 一家独大式权力反噬",
     "url": "/wiki/concepts/powermonopolybackfire/"
@@ -58494,6 +58514,10 @@
   "RobertGraves": {
     "title": "Robert Graves",
     "url": "/wiki/entities/robertgraves/"
+  },
+  "RobertGreene": {
+    "title": "Robert Greene",
+    "url": "/wiki/entities/robertgreene/"
   },
   "RobertGuest": {
     "title": "Robert Guest",
@@ -79430,6 +79454,10 @@
   "a-pro-worker-experiment-in-private-equity": {
     "title": "A pro-worker experiment in private equity",
     "url": "/wiki/sources/a-pro-worker-experiment-in-private-equity/"
+  },
+  "a-process-for-finding-achieving-your-unique-purpose-robert-greene-scim1811421687": {
+    "title": "A Process for Finding & Achieving Your Unique Purpose | Robert Greene",
+    "url": "/wiki/sources/a-process-for-finding-achieving-your-unique-purpose-robert-greene-scim1811421687/"
   },
   "a-trip-to-the-magic-mushroom-megachurch": {
     "title": "A trip to the magic mushroom megachurch",

@@ -2,6 +2,28 @@
   "claims": [
     {
       "global_candidate": true,
+      "id": "purpose-social-judgment-and-effort-need-testing",
+      "qualifications": [
+        "Greene's purpose, power, relationship, nonverbal, AI, and mortality claims are philosophical, autobiographical, or source-scoped rather than validated as universal psychological rules.",
+        "Childhood interests generate hypotheses rather than one fixed destiny, and nonverbal cues or behavior across contexts warrant checking rather than deterministic decoding.",
+        "Stroke, mortality awareness, anxiety, and difficult effort do not reliably produce growth; disability, distress, structural limits, and needed care remain real boundaries."
+      ],
+      "statement": "[[LifeTaskDiscovery]] and [[PurposeIntegratedMotivation]] frame direction as a test of recurring inclination, engagement, contribution, and adult experimentation; [[PowerLiteracy]], [[EmbodiedSocialPerception]], and [[CharacterBasedRomanticCompatibility]] place social judgment on influence, demonstrated values, cue clusters, and conduct across contexts, while [[EffortfulThinkingInTheAIAge]] and [[MortalityBoundedMeaning]] preserve effort and finite-time urgency without turning struggle, crisis, or intuition into universal prescriptions.",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "a-process-for-finding-achieving-your-unique-purpose-robert-greene-scim1811421687",
+        "RobertGreene",
+        "LifeTaskDiscovery",
+        "PurposeIntegratedMotivation",
+        "PowerLiteracy",
+        "EmbodiedSocialPerception",
+        "CharacterBasedRomanticCompatibility",
+        "EffortfulThinkingInTheAIAge",
+        "MortalityBoundedMeaning"
+      ]
+    },
+    {
+      "global_candidate": true,
       "id": "elite-competence-does-not-prove-psychological-safety",
       "qualifications": [
         "Ruiz's account is retrospective personal testimony rather than a universal veteran-transition model or causal treatment study.",
@@ -1999,8 +2021,8 @@
       ]
     }
   ],
-  "input_digest": "c4eadc7ef3114ec4675635d7fde8e801a9821e03091034ab6b8919858e6dd0bb",
-  "summary": "Placebo, nocebo, and mindset evidence adds that beliefs can become biologically consequential through prediction and learned context, but their effects remain pathway- and outcome-specific. Psychology and personal-development sources converge on embodied regulation, relational safety, calibrated action, self-narration, and careful limits on self-interpretation. The Byron origin episode adds a bounded historical case in which adversity and bodily self-discipline can inform deliberate self-fashioning without establishing diagnosis, deterministic causation, or moral excuse. The clinical-relationship source adds that trust depends on honest outcome limits, visible responsibility, durable communication, encouragement, referral, and continuity rather than title or reassurance alone; selected patient recollections do not establish treatment causation or typical prognosis. VOL.123 adds a bounded body-management case: posture awareness, temporary comfort, and gradual movement can support agency, but they should not become cure claims, rigid self-monitoring, or substitutes for neurological and functional assessment. Mental-health, diagnostic, crisis, diet, sensory, and altered-state claims remain bounded to evidence and professional judgment. Historical decision episodes contribute source-scoped cases about immediate versus long-run rationality, high-risk choice, counterfactual restraint, status, self-presentation, persuasion, loyalty, and survival, but do not become general psychological laws. The Custer episode adds a source-scoped historical case in which spectacle, ambition, impulsivity, intimate distress, public reputation, and patronage interact with repeated risk and recovery; it supports analysis of self-presentation and institutional reinforcement, not a retrospective clinical diagnosis. VOL.108 adds a developmental ADHD boundary: age-relative, cross-setting impairment matters more than activity, grades, or isolated high performance; family context can modify function without sole-cause blame, and intervention remains individualized. The Ruiz episode adds that elite competence and team belonging can conceal accumulating grief and post-service distress; gradual recovery can combine trusted support, professional care, ordinary routines, and a broader model of strength without becoming a universal treatment path. VOL.89 adds that body awareness and movement support agency only when the painful site, work setup, mobility, habits, function, and symptom response are assessed together; workstation changes and public exercises remain conditional tools rather than cures or remote diagnosis.",
+  "input_digest": "5905792beaee5d86a3dba6f8bd1fca9dfdb720e39a505321dda9f60330044dc1",
+  "summary": "The Greene source adds a bounded purpose-and-social-judgment branch: personal direction is tested through recurring inclination, engagement, contribution, and adult experimentation; power, nonverbal cues, and romantic compatibility require contextual evidence; AI assistance should preserve effort that trains judgment; and mortality can sharpen urgency without making crisis necessary or reliably transformative. Psychology and personal-development sources otherwise converge on embodied regulation, relational safety, calibrated action, self-narration, and careful limits on self-interpretation. Placebo, nocebo, and mindset evidence shows that beliefs can become biologically consequential through prediction and learned context, but their effects remain pathway- and outcome-specific. The Byron origin episode supplies a bounded historical case in which adversity and bodily self-discipline can inform deliberate self-fashioning without establishing diagnosis, deterministic causation, or moral excuse. The clinical-relationship source shows that trust depends on honest outcome limits, visible responsibility, durable communication, encouragement, referral, and continuity rather than title or reassurance alone; selected patient recollections do not establish treatment causation or typical prognosis. VOL.123 and VOL.89 keep body awareness, posture, temporary comfort, workstation changes, gradual movement, and public exercises conditional on mechanism, work, mobility, habits, function, and symptom response rather than cure claims, rigid self-monitoring, or remote diagnosis. Mental-health, diagnostic, crisis, diet, sensory, and altered-state claims remain bounded to evidence and professional judgment. Historical decision episodes contribute source-scoped cases about immediate versus long-run rationality, high-risk choice, counterfactual restraint, status, self-presentation, persuasion, loyalty, and survival, but do not become general psychological laws. The Custer episode adds a source-scoped case in which spectacle, ambition, impulsivity, intimate distress, reputation, and patronage interact with repeated risk and recovery without supporting retrospective diagnosis. VOL.108 keeps ADHD age-relative and cross-setting, with impairment more informative than ordinary activity, grades, or isolated performance. The Ruiz episode shows that elite competence and team belonging can conceal accumulating grief and post-service distress, while recovery can combine trusted support, professional care, ordinary routines, and a broader model of strength without becoming a universal treatment path.",
   "title": "Psychology and Personal Development",
   "topic_id": "psychology-and-personal-development"
 }
