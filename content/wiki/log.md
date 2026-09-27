@@ -23828,3 +23828,11 @@ Added source `guest-series-dr-paul-conti-tools-and-protocols-for-mental-health-s
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | VOL.76中医科｜过敏性鼻炎、春捂秋冻、贴秋膘 你应该知道的秋季养生禁忌和参考
+
+Added source `vol-76-zhongyike-guominxing-biyan-chunwu-qiudong-tieqiubiao-ni-yinggai-zhidao-de-qiuji-yangsheng-jinji-he-cankao-llayq2sgeabfjsosctpqfbtgff6e`; created `TCMAutumnSelfCareBoundary`; and updated `MaoZheTCMDoctor` and the canonical index from the entity's complete bounded source set. Core synthesis: autumn self-care should adapt to actual climate, region, exposure, symptoms, tolerance, age, and medical context rather than one seasonal formula; ordinary comfort and allergy-exposure measures do not establish diagnosis or treatment. The episode's organ, retained-heat, qi, blood, yin, yang, dampness, food-therapy, herb, exercise, foot-soak, and moxibustion mechanisms remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

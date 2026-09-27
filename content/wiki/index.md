@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.76中医科｜过敏性鼻炎、春捂秋冻、贴秋膘 你应该知道的秋季养生禁忌和参考](sources/vol-76-zhongyike-guominxing-biyan-chunwu-qiudong-tieqiubiao-ni-yinggai-zhidao-de-qiuji-yangsheng-jinji-he-cankao-llayq2sgeabfjsosctpqfbtgff6e.md) — 这病说来话长 episode separating adaptable autumn routines and allergy-exposure reduction from unvalidated seasonal TCM diagnosis and treatment claims.
 - [GUEST SERIES | Dr. Paul Conti: Tools and Protocols for Mental Health](sources/guest-series-dr-paul-conti-tools-and-protocols-for-mental-health-scim2027108733.md) — Huberman Lab guest-series finale on structure and function of self, life narrative, curiosity, automatic behavior, agency, gratitude, generative drive, grounding, and clinical boundaries.
 - [AMA #11: Improve Task Switching & Productivity and Reduce Brain Fog](sources/ama-11-improve-task-switching-productivity-and-reduce-brain-fog-scim5878324891.md) — Huberman Lab premium AMA excerpt on a flexible three-resistance, three-cardio, one-rest-day weekly fitness scaffold shaped by recovery and real-life constraints.
 - [How to Succeed at Hard Conversations | Chris Voss](sources/how-to-succeed-at-hard-conversations-chris-voss-scim5142864264.md) — Huberman Lab interview on tactical empathy, calibrated questions, deal diagnosis, leverage verification, difficult-news delivery, and crisis-negotiation limits.
@@ -14073,6 +14074,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [William Joyce](entities/WilliamJoyce.md) — British fascist extremist and antisemite who broadcast Nazi wartime propaganda as Lord Haw-Haw.
 
 ## Concepts
+- [TCM Autumn Self-Care Boundary / 中医秋季养生边界](concepts/TCMAutumnSelfCareBoundary.md) — Separates adaptable autumn routines from unvalidated seasonal, diagnostic, food-therapy, medicine, and treatment claims.
 - [Flexible Weekly Fitness Scaffold](concepts/FlexibleWeeklyFitnessScaffold.md) — Weekly resistance, cardiovascular, and rest targets that remain adjustable to recovery, health, and ordinary life.
 - [Tactical Empathy](concepts/TacticalEmpathy.md) — Demonstrated understanding of perspective and emotion without requiring agreement or concession.
 - [Calibrated Negotiation Questions](concepts/CalibratedNegotiationQuestions.md) — How-and-what prompts that slow reaction and expose constraints, credibility, and implementation.

@@ -100374,9 +100374,9 @@
       "url": "/wiki/entities/maoyisheng/"
     },
     "MaoZheTCMDoctor": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "lnXaXyS733qZi9RkCwVGQT6uzfuR [lnXaXyS733qZi9RkCwVGQT6uzfuR].md",
@@ -100426,6 +100426,13 @@
           "show": "这病说来话长",
           "title": "VOL.92中医科｜今冬勿扰 来年身体好｜流感家庭用药、心脑血管防护、饮食｜冬季养生宝典",
           "url": "/wiki/sources/vol-92-zhongyike-jindong-wurao-lainian-shenti-hao-liugan-jiating-yongyao-xinnaoxueguan-fanghu-yinshi-dongji-yangsheng-baodian-ljvut60fr8kvkmkczra9p7-w7yde/"
+        },
+        {
+          "episode_file": "llAyQ2SGEAbFJsosCTpqfBtGFF6E [llAyQ2SGEAbFJsosCTpqfBtGFF6E].md",
+          "key": "vol-76-zhongyike-guominxing-biyan-chunwu-qiudong-tieqiubiao-ni-yinggai-zhidao-de-qiuji-yangsheng-jinji-he-cankao-llayq2sgeabfjsosctpqfbtgff6e",
+          "show": "这病说来话长",
+          "title": "VOL.76中医科｜过敏性鼻炎、春捂秋冻、贴秋膘 你应该知道的秋季养生禁忌和参考",
+          "url": "/wiki/sources/vol-76-zhongyike-guominxing-biyan-chunwu-qiudong-tieqiubiao-ni-yinggai-zhidao-de-qiuji-yangsheng-jinji-he-cankao-llayq2sgeabfjsosctpqfbtgff6e/"
         }
       ],
       "updated": "2026-09-27",
@@ -147032,6 +147039,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/concepts/systemicsleeplosseffects/"
+    },
+    "TCMAutumnSelfCareBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "llAyQ2SGEAbFJsosCTpqfBtGFF6E [llAyQ2SGEAbFJsosCTpqfBtGFF6E].md",
+          "key": "vol-76-zhongyike-guominxing-biyan-chunwu-qiudong-tieqiubiao-ni-yinggai-zhidao-de-qiuji-yangsheng-jinji-he-cankao-llayq2sgeabfjsosctpqfbtgff6e",
+          "show": "这病说来话长",
+          "title": "VOL.76中医科｜过敏性鼻炎、春捂秋冻、贴秋膘 你应该知道的秋季养生禁忌和参考",
+          "url": "/wiki/sources/vol-76-zhongyike-guominxing-biyan-chunwu-qiudong-tieqiubiao-ni-yinggai-zhidao-de-qiuji-yangsheng-jinji-he-cankao-llayq2sgeabfjsosctpqfbtgff6e/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/tcmautumnselfcareboundary/"
     },
     "TCMDigestiveSelfCareBoundary": {
       "episode_count": 1,

@@ -10,6 +10,7 @@ sources:
   - vol-102-zhongyike-zhenxiang-jianfei-jiu-bie-zai-peng-zhexie-zhongyi-jiao-ni-kanqing-zhe-wu-ge-liaofa-li-de-da-huyou-jiushi-ta-lr4crzrbp8ladtcrn7r4hyren-25
   - vol-96-zhongyi-xiaohua-cong-fanhua-baozong-paofan-liao-yangwei-piwei-buhe-cong-paigu-niangao-liao-xiaohua-buliang-lpuafqvhm2jz705x53xahkr3g8ha
   - vol-92-zhongyike-jindong-wurao-lainian-shenti-hao-liugan-jiating-yongyao-xinnaoxueguan-fanghu-yinshi-dongji-yangsheng-baodian-ljvut60fr8kvkmkczra9p7-w7yde
+  - vol-76-zhongyike-guominxing-biyan-chunwu-qiudong-tieqiubiao-ni-yinggai-zhidao-de-qiuji-yangsheng-jinji-he-cankao-llayq2sgeabfjsosctpqfbtgff6e
 last_updated: 2026-09-27
 knowledge_schema: synthesis-v1
 ---
@@ -34,6 +35,8 @@ The digestive-health episode applies “因时、因地、因人” to pao fan, 
 
 The winter-health episode extends this individualized, anti-extreme approach into [[TCMWinterSelfCareBoundary]]. Mao rejects forced heavy sweating, excessive indoor heat, universal tonics, universal foot soaking, and a single preventive formula, while discussing thermal transitions, warm soft food, influenza, cardiovascular risk, cold extremities, throat discomfort, anemia, glucose, and pregnancy. Its “winter storage,” yang, qi, blood stasis, yin deficiency, food-therapy, tea, and syndrome-treatment claims remain source-scoped; concerning symptoms and diagnosed disease exceed seasonal self-care.
 
+The earlier autumn-health episode completes the seasonal set through [[TCMAutumnSelfCareBoundary]]. Mao qualifies “春捂秋冻,” “贴秋膘,” pear preparations, exercise, foot soaking, medicated paste, heat-clearing products, and moxibustion by place, season, constitution, symptoms, and tolerance. He also recommends reducing pollen, dust, indoor dryness, and abrupt-temperature exposure for rhinitis, while warning against self-diagnosis and podcast-guided treatment. His lung, spleen, kidney, retained-heat, qi, blood, yin, yang, dampness, food-therapy, tea, and herbal mechanisms remain source-scoped.
+
 ## Key Characteristics
 - Uses “因时、因地、因人” to individualize seasonal and regional interpretations.
 - Classifies allergic symptoms through TCM patterns such as wind-heat, wind-cold, damp accumulation, and deficiency.
@@ -53,15 +56,16 @@ The winter-health episode extends this individualized, anti-extreme approach int
 - Weight-management boundary: [[vol-102-zhongyike-zhenxiang-jianfei-jiu-bie-zai-peng-zhexie-zhongyi-jiao-ni-kanqing-zhe-wu-ge-liaofa-li-de-da-huyou-jiushi-ta-lr4crzrbp8ladtcrn7r4hyren-25]] records his health-before-aesthetics, gradual-change, and treatment-individualization messages alongside source-scoped TCM pattern, food, procedure, and rapid-loss claims.
 - Digestive self-care: [[vol-96-zhongyi-xiaohua-cong-fanhua-baozong-paofan-liao-yangwei-piwei-buhe-cong-paigu-niangao-liao-xiaohua-buliang-lpuafqvhm2jz705x53xahkr3g8ha]] records his preparation-, portion-, region-, and tolerance-sensitive food advice alongside source-scoped spleen-stomach, climate, glucose, gastritis, and H. pylori claims.
 - Winter moderation and limits: [[vol-92-zhongyike-jindong-wurao-lainian-shenti-hao-liugan-jiating-yongyao-xinnaoxueguan-fanghu-yinshi-dongji-yangsheng-baodian-ljvut60fr8kvkmkczra9p7-w7yde]] records his rejection of universal remedies and extremes alongside source-scoped winter-storage, yang, qi, blood-stasis, influenza, food, tea, foot-soak, and treatment claims.
+- Autumn adaptation and limits: [[vol-76-zhongyike-guominxing-biyan-chunwu-qiudong-tieqiubiao-ni-yinggai-zhidao-de-qiuji-yangsheng-jinji-he-cankao-llayq2sgeabfjsosctpqfbtgff6e]] records his qualified “秋冻,” food, exposure, exercise, foot-soak, medicine, and moxibustion advice alongside source-scoped seasonal, organ, deficiency, heat, cold, and dampness claims.
 
 ## Qualifications
 The available sources do not provide an institutional affiliation, formal credential details, clinical evidence review, individualized assessment, dosing, contraindications, or treatment algorithm. The page therefore identifies Mao Zhe only as the episodes' TCM guest and does not treat his recommendations, digestive-disease anecdotes, weight-loss mechanisms, heat-illness mechanism, regional-climate mechanisms, seasonal organ associations, winter influenza classification, self-diagnostic signs, “发物” lists, broad medicine uses, or remembered outcomes as general medical evidence.
 
 ## What Changed
-- Extended Mao's anti-extremism profile from spring and summer into winter heating, exercise, food, and foot-soaking practices.
-- Preserved his rejection of universal tonics and preventive formulas while qualifying the proposed TCM mechanisms.
-- Added influenza, cardiovascular, metabolic, circulatory, throat, and pregnancy contexts to the profile's escalation boundary.
-- Treated warm or soft food and reduced temperature swings as comfort-oriented practices rather than demonstrated disease prevention or treatment.
+- Completed Mao's seasonal profile with an autumn boundary covering clothing, food, allergy exposure, exercise, foot soaking, and moxibustion.
+- Preserved his rejection of universal formulas while qualifying the proposed autumn organ, heat, cold, dampness, and deficiency mechanisms.
+- Added self-diagnosis, long-term heat-clearing medicine, vascular foot-soak risk, and professional-treatment boundaries.
+- Treated regional habits and comfort measures as context rather than proof of prevention or therapy.
 
 ## Relationships
 - [[ZheBingShuoLaiHuaChang]] - podcast in which Mao Zhe appears as a guest.
@@ -80,3 +84,4 @@ The available sources do not provide an institutional affiliation, formal creden
 - [[LifestyleWeightManagement]] - broader evidence-bounded counterpart for sustainable eating, activity, body composition, and maintenance.
 - [[TCMDigestiveSelfCareBoundary]] - bounded digestive-health frame derived from Mao's individualized eating advice and qualified TCM claims.
 - [[TCMWinterSelfCareBoundary]] - bounded winter-health frame derived from Mao's moderation message and qualified seasonal, diagnostic, and treatment claims.
+- [[TCMAutumnSelfCareBoundary]] - bounded autumn-health frame derived from Mao's regional adaptation, allergy-exposure, moderation, and care-escalation messages.
