@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 10959
+wiki_total_pages: 10963
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -686,6 +686,9 @@ wiki_pages:
   - key: "JohnElkann"
     title: "John Elkann"
     url: "/wiki/entities/johnelkann/"
+  - key: "JohnFKennedy"
+    title: "John F. Kennedy"
+    url: "/wiki/entities/johnfkennedy/"
   - key: "JohnFarleyGallagher"
     title: "John Farley (Gallagher)"
     url: "/wiki/entities/johnfarleygallagher/"

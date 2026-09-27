@@ -30019,6 +30019,64 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/consortiogroupfinancing/"
     },
+    "ConspiracyTheoryPatternSeeking": {
+      "episode_count": 7,
+      "show_count": 3,
+      "source_note_count": 7,
+      "sources": [
+        {
+          "episode_file": "271.唐朝都要不存在了？为什么伪史论会在今年大爆发？ [lg7_wdrDW1B9h7LwA4VWKvMyb4Un].md",
+          "key": "271-tangchao-douyao-bucunzai-le-weishenme-weishilun-hui-zai-jinnian-da-baofa-lg7-wdrdw1b9h7lwa4vwkvmyb4un",
+          "show": "乱翻书",
+          "title": "271.唐朝都要不存在了？为什么伪史论会在今年大爆发？",
+          "url": "/wiki/sources/271-tangchao-douyao-bucunzai-le-weishenme-weishilun-hui-zai-jinnian-da-baofa-lg7-wdrdw1b9h7lwa4vwkvmyb4un/"
+        },
+        {
+          "episode_file": "170.宋太祖之死：烛影斧声，阴谋论中的人性谜团（下） [958158115].md",
+          "key": "170-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-xia-958158115",
+          "show": "蜜獾吃书",
+          "title": "170.宋太祖之死：烛影斧声，阴谋论中的人性谜团（下）",
+          "url": "/wiki/sources/170-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-xia-958158115/"
+        },
+        {
+          "episode_file": "132.争论与说服：我们为什么吵架，怎么才算赢？ [807583318].md",
+          "key": "132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318",
+          "show": "蜜獾吃书",
+          "title": "132.争论与说服：我们为什么吵架，怎么才算赢？",
+          "url": "/wiki/sources/132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318/"
+        },
+        {
+          "episode_file": "185.魔鬼出没的世界：关于阴谋论（UFO,外星人绑架案,麦田圈,X档案,揭秘日... [996181368].md",
+          "key": "185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368",
+          "show": "蜜獾吃书",
+          "title": "185.魔鬼出没的世界：关于阴谋论、UFO与科学精神",
+          "url": "/wiki/sources/185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368/"
+        },
+        {
+          "episode_file": "54.玫瑰的名字（下）：真与假，正与邪，诠释与过度诠释 [638214699].md",
+          "key": "54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699",
+          "show": "蜜獾吃书",
+          "title": "54.玫瑰的名字（下）：真与假，正与邪，诠释与过度诠释",
+          "url": "/wiki/sources/54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699/"
+        },
+        {
+          "episode_file": "95.都市传说：猎奇故事和我们内心深处的焦虑 [723831611].md",
+          "key": "95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611",
+          "show": "蜜獾吃书",
+          "title": "95.都市传说：猎奇故事和我们内心深处的焦虑",
+          "url": "/wiki/sources/95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611/"
+        },
+        {
+          "episode_file": "GLT6409828878 [GLT6409828878].md",
+          "key": "398-jfk-the-mystery-is-solved-part-7-glt6409828878",
+          "show": "The Rest Is History",
+          "title": "398. JFK: The Mystery is Solved (Part 7)",
+          "url": "/wiki/sources/398-jfk-the-mystery-is-solved-part-7-glt6409828878/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/conspiracytheorypatternseeking/"
+    },
     "ConstantineTheGreat": {
       "episode_count": 1,
       "show_count": 1,
@@ -78624,6 +78682,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/entities/johndickie/"
     },
+    "JohnFKennedy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6409828878 [GLT6409828878].md",
+          "key": "398-jfk-the-mystery-is-solved-part-7-glt6409828878",
+          "show": "The Rest Is History",
+          "title": "398. JFK: The Mystery is Solved (Part 7)",
+          "url": "/wiki/sources/398-jfk-the-mystery-is-solved-part-7-glt6409828878/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/johnfkennedy/"
+    },
     "JohnFarleyGallagher": {
       "episode_count": 1,
       "show_count": 1,
@@ -80433,6 +80507,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/kenjiyamamoto/"
+    },
+    "KennedyAssassination": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6409828878 [GLT6409828878].md",
+          "key": "398-jfk-the-mystery-is-solved-part-7-glt6409828878",
+          "show": "The Rest Is History",
+          "title": "398. JFK: The Mystery is Solved (Part 7)",
+          "url": "/wiki/sources/398-jfk-the-mystery-is-solved-part-7-glt6409828878/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/kennedyassassination/"
     },
     "KennethRogoff": {
       "episode_count": 1,
@@ -83730,6 +83820,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/concepts/learningstylematchingboundary/"
+    },
+    "LeeHarveyOswald": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6409828878 [GLT6409828878].md",
+          "key": "398-jfk-the-mystery-is-solved-part-7-glt6409828878",
+          "show": "The Rest Is History",
+          "title": "398. JFK: The Mystery is Solved (Part 7)",
+          "url": "/wiki/sources/398-jfk-the-mystery-is-solved-part-7-glt6409828878/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/leeharveyoswald/"
     },
     "LeeLockwood": {
       "episode_count": 1,
@@ -106369,6 +106475,29 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/obstructivesleepapnearecognition/"
+    },
+    "OccamsRazor": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "185.魔鬼出没的世界：关于阴谋论（UFO,外星人绑架案,麦田圈,X档案,揭秘日... [996181368].md",
+          "key": "185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368",
+          "show": "蜜獾吃书",
+          "title": "185.魔鬼出没的世界：关于阴谋论、UFO与科学精神",
+          "url": "/wiki/sources/185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368/"
+        },
+        {
+          "episode_file": "GLT6409828878 [GLT6409828878].md",
+          "key": "398-jfk-the-mystery-is-solved-part-7-glt6409828878",
+          "show": "The Rest Is History",
+          "title": "398. JFK: The Mystery is Solved (Part 7)",
+          "url": "/wiki/sources/398-jfk-the-mystery-is-solved-part-7-glt6409828878/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/occamsrazor/"
     },
     "OccultDecisionCapture": {
       "episode_count": 1,
@@ -153165,6 +153294,22 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/entities/warofthegoldenstool/"
+    },
+    "WarrenCommission": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6409828878 [GLT6409828878].md",
+          "key": "398-jfk-the-mystery-is-solved-part-7-glt6409828878",
+          "show": "The Rest Is History",
+          "title": "398. JFK: The Mystery is Solved (Part 7)",
+          "url": "/wiki/sources/398-jfk-the-mystery-is-solved-part-7-glt6409828878/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/warrencommission/"
     },
     "Wartburg": {
       "episode_count": 1,

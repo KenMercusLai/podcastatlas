@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-27] ingest | 398. JFK: The Mystery is Solved (Part 7)
+
+Added source `398-jfk-the-mystery-is-solved-part-7-glt6409828878`; created `JohnFKennedy`, `LeeHarveyOswald`, `KennedyAssassination`, and `WarrenCommission`; and updated `OccamsRazor`, `ConspiracyTheoryPatternSeeking`, and the canonical index from their complete bounded source sets. Core synthesis: the episode prefers a cumulative lone-gunman case built from Oswald's biography, prior violence, workplace opportunity, rifle evidence, flight, Tippit's killing, and interrogation lies, while explaining conspiracy appeal through national trauma, causal proportionality, and secret-knowledge reward. No settled contradiction found. Psychological motive, shooting mechanics, CIA motive, investigative completeness, and broad claims about conspiracy politics remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-27] ingest | VOL.89运动康复｜缓解久坐疲劳教程 跟康复师带薪健康不止3分钟
 
 Added source `vol-89-yundong-kangfu-huanjie-jiuzuo-pilao-jiaocheng-gen-kangfushi-daixin-jiankang-buzhi-3-fenzhong-ln2jtowe4hyntw1omun5q8_wjsh5`; created `ChenSportsRehabilitationGuest` and `WorkstationPostureAdjustment`; and updated `MechanismBasedBackPainAssessment`, `CervicalCurvePostureManagement`, `SedentaryBehaviorInterruption`, the canonical index, and overview from their complete bounded source sets. Core synthesis: symptom location does not by itself identify the cause, workstation changes and brief movement can reduce avoidable sustained demand, and exercises should be selected or regressed through history, function, mobility, occupation, habits, and symptom response rather than copied as universal routines. No settled contradiction found. The guest's identity and career, patient mix, anatomy and pathology explanations, MRI preference, exercise examples, and treatment techniques remain source-scoped public education rather than individualized medical guidance. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
@@ -23408,6 +23412,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-27] ingest | The Causes & Treatments for Autism | Dr. Karen Parker
 
 Added source `the-causes-treatments-for-autism-dr-karen-parker-scim5460291325`; created `KarenParker`, `AutismBiologicalHeterogeneity`, and `VasopressinSocialFunction`; and updated `ContextDependentSocialHormoneEffects` and the canonical index from the complete bounded source set. Core synthesis: autism's shared behavioral diagnosis can contain distinct biological and functional dimensions, so biomarkers, models, outcomes, and treatments should be evaluated by subgroup and mechanism; Parker's vasopressin chain is promising but remains preliminary because CSF association is not causality and the treatment trial was small, included nonresponders, and required replication. No settled contradiction found. Negative broad oxytocin and vasopressin-antagonist trials constrain simple neuropeptide narratives, vaccine causation is rejected, and immune-subgroup, infant-biomarker, mechanism, safety, and treatment claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-27] lint | Wiki health check
 

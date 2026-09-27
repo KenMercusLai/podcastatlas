@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 10959
+wiki_total_pages: 10963
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -227,6 +227,9 @@ wiki_pages:
   - key: "LeborGabalaErenn"
     title: "Lebor Gabala Erenn / 《入侵之书》"
     url: "/wiki/entities/leborgabalaerenn/"
+  - key: "LeeHarveyOswald"
+    title: "Lee Harvey Oswald"
+    url: "/wiki/entities/leeharveyoswald/"
   - key: "LeeLockwood"
     title: "Lee Lockwood"
     url: "/wiki/entities/leelockwood/"

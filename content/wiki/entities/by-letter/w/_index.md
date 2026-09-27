@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 10959
+wiki_total_pages: 10963
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -197,6 +197,9 @@ wiki_pages:
   - key: "WarrenBuffett"
     title: "Warren Buffett"
     url: "/wiki/entities/warrenbuffett/"
+  - key: "WarrenCommission"
+    title: "Warren Commission"
+    url: "/wiki/entities/warrencommission/"
   - key: "WarsOfTheRoses"
     title: "Wars of the Roses / 玫瑰战争"
     url: "/wiki/entities/warsoftheroses/"

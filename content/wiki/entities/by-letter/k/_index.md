@@ -6,8 +6,11 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 10959
+wiki_total_pages: 10963
 wiki_pages:
+  - key: "KennedyAssassination"
+    title: "Assassination of John F. Kennedy"
+    url: "/wiki/entities/kennedyassassination/"
   - key: "KunyangBattle"
     title: "Battle of Kunyang / 昆阳之战"
     url: "/wiki/entities/kunyangbattle/"
