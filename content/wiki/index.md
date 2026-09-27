@@ -2962,6 +2962,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Biology of Social Interactions and Emotions | Dr. Kay Tye](sources/the-biology-of-social-interactions-and-emotions-dr-kay-tye-scim4105255786.md) — Huberman Lab interview on amygdala valence, social homeostasis, contact synchrony, hierarchy, experiential priors, and sustainable scientific life.
 - [Tools to Enhance Working Memory & Attention](sources/tools-to-enhance-working-memory-attention-scim1948560111.md) — Huberman Lab solo episode on active working memory, sequencing, distractor control, task switching, baseline-dependent dopamine effects, and evidence-bounded behavioral, supplement, and prescription tools.
 - [How to Prevent & Treat Colds & Flu](sources/how-to-prevent-treat-colds-flu-scim6817932732.md) — Huberman Lab solo episode on respiratory-virus transmission, layered immune defense, sleep and training load, heat boundaries, and supplement evidence.
+- [A Science-Supported Journaling Protocol to Improve Mental & Physical Health](sources/a-science-supported-journaling-protocol-to-improve-mental-physical-health-scim8054388666.md) — Huberman Lab solo episode on Pennebaker-style expressive writing, repeated trauma narration, recovery safeguards, and evidence-bounded mental, physical, and immune claims.
 
 ## Entities
 - [张宇昊 / Zhang Yuhao (head-and-neck surgeon)](entities/ZhangYuhaoHeadNeckSurgeon.md) — Shanxi Bethune Hospital clinician explaining thyroid and neck-mass assessment through imaging, pathology, anatomy, follow-up, and individualized treatment.
@@ -13964,6 +13965,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Childe Harold's Pilgrimage](entities/ChildeHaroldsPilgrimage.md) — Byron poem that converted Mediterranean travel into an alienated Romantic hero and mass celebrity.
 - [Lord Elgin](entities/LordElgin.md) — British diplomat at the center of Byron's cultural-plunder attack and Hobhouse's preservation counterargument.
 - [Kay Tye](entities/KayTye.md) — Neuroscientist connecting emotional-valence circuits to loneliness, social homeostasis, hierarchy, and sustainable scientific leadership.
+- [James Pennebaker](entities/JamesPennebaker.md) — Psychologist associated with the repeated expressive-writing paradigm and research linking language, distress, health, and immune measures.
 
 ## Concepts
 - [Thyroid Function Disorder Interpretation / 甲状腺功能异常解读](concepts/ThyroidFunctionDisorderInterpretation.md) — Framework separating hormone excess, deficiency, autoimmune markers, structural findings, symptoms, and longitudinal context.
@@ -22358,5 +22360,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Experiential Statistics](concepts/ExperientialStatistics.md) — Learned expectations from repeated scarcity, safety, punishment, trust, and social experience.
 - [Diversified Happiness Portfolio](concepts/DiversifiedHappinessPortfolio.md) — Resilience frame based on maintaining several meaningful life domains rather than tying wellbeing to one achievement hierarchy.
 - [Cold and Flu Supplement Evidence Boundary](concepts/ColdFluSupplementEvidenceBoundary.md) — Evidence and safety hierarchy separating deficiency correction, symptom support, limited trials, and treatment claims for common cold and influenza supplements.
+- [Expressive Writing Protocol](concepts/ExpressiveWritingProtocol.md) — Four-session private writing practice joining facts, emotions, and associations with recovery and professional-care boundaries.
 
 ## Syntheses

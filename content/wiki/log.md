@@ -23070,7 +23070,6 @@ Added source `424-carthage-vs-rome-total-war-part-4-glt9312780357`; created `Fir
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
-
 ## [2026-09-27] ingest | 403. The Mystery of the Pregnant Pope
 
 Added source `403-the-mystery-of-the-pregnant-pope-glt1981561492`; created `PopeJoan`, `JeanDeMailly`, `MartinOfPoland`, `GuglielmaOfMilan`, `MaifredaDaPirovano`, `GregorianReform`, `LegendAsInstitutionalAnxiety`, `RitualObjectLegendFormation`, and `FemaleSacredAuthorityConstraint`; and updated `GregoryVII`, the canonical index, and overview from the complete bounded source set. Core synthesis: Pope Joan is historically unsupported but institutionally revealing, because late detail, ritual attachment, repetition, and polemic made the legend consequential; the real Guglielma-Maifreda movement shows that imagined female papal authority could provoke violent suppression. No settled contradiction found. The legend's origin remains multi-causal and interpretive, while hostile inquisitorial evidence limits reconstruction of Guglielma's own claims. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
@@ -23515,6 +23514,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-27] ingest | VOL.86头颈外科｜甲状腺疾病越来越喜欢招惹年轻人了吗？结节真是被气出来的吗？
 
 Added source `vol-86-toujing-waike-jiazhuangxian-jibing-yuelaiyue-xihuan-zhaore-nianqingren-le-ma-jiejie-zhen-shi-bei-qi-chulai-de-ma-lhlyxdyw0hcgnmfopab0976kw3fr`; created `ZhangYuhaoHeadNeckSurgeon`, `ShanxiBethuneHospital`, `ThyroidFunctionDisorderInterpretation`, `ThyroidNoduleRiskStratification`, and `DifferentiatedThyroidCancerDecisionMaking`; and updated `ThyroidHormoneMetabolism` and the canonical index from their complete bounded source sets. Core synthesis: thyroid function, autoimmune markers, structural nodules, and cancer subtype answer different questions; ultrasound, cytology, anatomy, symptoms, longitudinal change, and patient context should guide surveillance or intervention rather than palpability, size, calcification, age headlines, or internet slogans alone. No settled contradiction found. Percentages, ultrasound categories, biopsy and surgical thresholds, neck-mass timing heuristics, monitoring intervals, causality claims, treatment choices, and individual prognosis remain source-scoped public education. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | A Science-Supported Journaling Protocol to Improve Mental & Physical Health
+
+Added source `a-science-supported-journaling-protocol-to-improve-mental-physical-health-scim8054388666`; created `JamesPennebaker` and `ExpressiveWritingProtocol`; and updated `TraumaNarrativeIntegration`, the canonical index, and overview from the complete bounded source set. Core synthesis: expressive writing is a specific four-session practice that combines facts, feelings, and associations about one difficult event, with privacy, recovery time, and professional-care boundaries; immediate distress is compatible with the protocol but is not proof of benefit. No settled contradiction found. Broad mental-health, physical-health, immune, prefrontal, autonomic, coherence, and neuroplasticity claims remain source-scoped because the supplied episode summary does not provide study-level methods or effect sizes. The downstream synthesis refresh reads but does not rewrite the canonical `wiki/overview.md`.
 
 ## [2026-09-27] lint | Wiki health check
 

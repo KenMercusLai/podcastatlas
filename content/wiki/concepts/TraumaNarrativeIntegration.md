@@ -9,8 +9,9 @@ sources:
   - ep281-duihua-wuzhenyu-kun-zai-chuangshang-li-de-women-jueding-zhongxin-zhaohui-ziji-lvvreapoykpj5xtlryaaupu1xo7r
   - essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982
   - vol-124-gu-du-huan-zhe-bing-bu-gu-du-zhong-xi-xin-li-7-zhen-shi-9-yisheng-yi-yi-fenxi-lnqswz3nim_8767094yiysgmef1g
+  - a-science-supported-journaling-protocol-to-improve-mental-physical-health-scim8054388666
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-24
+last_updated: 2026-09-27
 ---
 
 # Trauma Narrative Integration / 创伤叙事整合
@@ -27,6 +28,8 @@ Sleep neuroscience supplies a neurobiological neighbor, not a replacement for th
 
 A medical-event aftermath in [[vol-124-gu-du-huan-zhe-bing-bu-gu-du-zhong-xi-xin-li-7-zhen-shi-9-yisheng-yi-yi-fenxi-lnqswz3nim_8767094yiysgmef1g|VOL.124]] broadens the synthesis: after suspected mushroom poisoning and prolonged visual uncertainty, 依依 avoided mushrooms and repeatedly dreamed about companions from the event. The episode's narrative-therapy discussion suggests that retelling can restore authorship and support help-seeking, while preserving a crucial differential boundary—psychological care should accompany, not erase, unresolved physical evaluation.
 
+The expressive-writing episode adds a standardized self-directed format: four private 15–30 minute sessions on one stressful event, combining facts, emotions, and associations. It supports the page's fragment-to-story model, but also sharpens the safety boundary. Acute distress is expected, the episode recommends recovery time and professional support when needed, and its broad health and mechanism claims remain source-scoped rather than proof that every trauma should be repeatedly narrated alone.
+
 ## Key Claims
 - Traumatic memory often begins as fragments, bodily panic, images, dreams, silence, or repeated scenes rather than ordinary narrative memory.
 - Integration joins facts and feelings so the person can know what happened without reliving it as an immediate threat.
@@ -34,7 +37,7 @@ A medical-event aftermath in [[vol-124-gu-du-huan-zhe-bing-bu-gu-du-zhong-xi-xin
 - Agency matters: blocking, deleting, or redefining another person's pain can repeat the original injury even when it promises relief.
 - Intergenerational and historical trauma may require reconstruction of missing context before private grief becomes coherent.
 - REM sleep may help separate emotional memory from physiological alarm, but only as a source-scoped mechanism, not as standalone trauma treatment.
-- The process needs pacing, containment, and humility; rushing a neat lesson can overwhelm defenses or turn pain into performance.
+- The process needs pacing, containment, and humility; a structured writing protocol may help some people, but repeated exposure to difficult material can overwhelm rather than integrate when safety or support is inadequate.
 
 ## Evidence
 - Fragment-to-story work - [[13-beishang-de-liliang-tantan-sangqin-zhitong-551507792]] describes traumatic grief as feelings, bodily reactions, facts, and sensory fragments that need to become a survivable story rather than an immediate alarm state.
@@ -44,14 +47,15 @@ A medical-event aftermath in [[vol-124-gu-du-huan-zhe-bing-bu-gu-du-zhong-xi-xin
 - Pacing and containment - [[13-beishang-de-liliang-tantan-sangqin-zhitong-551507792]] stresses professional containment and steady companionship, while [[166-youyou-changfeng-wenrou-de-huanxiang-zhi-ge-fuping-jiaolv-de-gouhe-948043059]] warns against making pain decisions for others.
 - REM emotional-memory mechanism - [[essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982]] says REM sleep may allow emotional memory processing without full norepinephrine-driven physiological alarm, while maladaptive REM may reinforce PTSD-like re-experiencing.
 - Medical-event aftermath and help-seeking - [[vol-124-gu-du-huan-zhe-bing-bu-gu-du-zhong-xi-xin-li-7-zhen-shi-9-yisheng-yi-yi-fenxi-lnqswz3nim_8767094yiysgmef1g]] connects post-poisoning avoidance and recurring dreams with narrative retelling and increased willingness to seek psychological care.
+- Structured expressive writing - [[a-science-supported-journaling-protocol-to-improve-mental-physical-health-scim8054388666]] adds repeated private writing that combines facts, feelings, and associations, together with recovery time and professional-care boundaries.
 
 ## Counterevidence & Qualifications
-Not every painful memory is ready for narration, and not every representation is healing. Dramatic visualization can help an audience or character see trauma, but it is not clinical treatment. Forgetting, numbing, avoiding, or sleeping may sometimes protect a person in the short term, so integration should not become pressure to expose more than someone can hold. The REM mechanism is source-scoped public neuroscience education; it does not replace trauma therapy, crisis care, medication management, or sleep-disorder treatment. After a poisoning or other medical event, psychological formulation must not be used to dismiss persistent physical symptoms or substitute for appropriate medical follow-up.
+Not every painful memory is ready for narration, and not every representation is healing. Dramatic visualization or expressive writing can make trauma more faceable, but neither is automatically clinical treatment. Forgetting, numbing, avoiding, or sleeping may sometimes protect a person in the short term, so integration should not become pressure to expose more than someone can hold. The REM and expressive-writing mechanisms are source-scoped public neuroscience and psychology education; they do not replace trauma therapy, crisis care, medication management, sleep-disorder treatment, or medical follow-up. A more coherent account is not necessarily complete or objectively verified, and psychological formulation must not be used to dismiss persistent physical symptoms.
 
 ## What Changed
-- Added post-poisoning avoidance and recurring dreams as a medical-event example of trauma-like aftermath.
-- Added narrative retelling as a route toward restored agency and willingness to seek psychological care.
-- Clarified that psychological support must not displace unresolved physical evaluation.
+- Added the four-session expressive-writing format as one bounded route from facts, feelings, and associations toward narrative coherence.
+- Clarified that repeated narration can be acutely distressing and may require recovery time or professional containment.
+- Separated reported benefits and proposed mechanisms from a universal trauma-treatment claim.
 
 ## Related Concepts
 - [[BereavementGriefWork]] - grief process that may require narrative integration.
@@ -63,3 +67,4 @@ Not every painful memory is ready for narration, and not every representation is
 - [[MemoryDeletionEthics]] - speculative countercase where pain relief conflicts with agency and responsibility.
 - [[TemporaryFamilyHealing]] - relational setting where traumatic material can become faceable without being solved.
 - [[WildMushroomPoisoningTriage]] - medical-response context whose physical uncertainty can continue alongside psychological recovery.
+- [[ExpressiveWritingProtocol]] - structured self-directed writing branch with explicit distress and care boundaries.

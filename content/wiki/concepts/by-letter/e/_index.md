@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 8379
+wiki_total_pages: 8380
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -1043,6 +1043,9 @@ wiki_pages:
   - key: "ExposureDosageCausality"
     title: "Exposure-Dosage Causality"
     url: "/wiki/concepts/exposuredosagecausality/"
+  - key: "ExpressiveWritingProtocol"
+    title: "Expressive Writing Protocol"
+    url: "/wiki/concepts/expressivewritingprotocol/"
   - key: "ExternalFeedbackSelfCalibration"
     title: "External Feedback Self-Calibration"
     url: "/wiki/concepts/externalfeedbackselfcalibration/"

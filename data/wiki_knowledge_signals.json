@@ -48375,6 +48375,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/concepts/expressnetworkinfrastructurecentralization/"
     },
+    "ExpressiveWritingProtocol": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8054388666 [SCIM8054388666].md",
+          "key": "a-science-supported-journaling-protocol-to-improve-mental-physical-health-scim8054388666",
+          "show": "Huberman Lab",
+          "title": "A Science-Supported Journaling Protocol to Improve Mental & Physical Health",
+          "url": "/wiki/sources/a-science-supported-journaling-protocol-to-improve-mental-physical-health-scim8054388666/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/expressivewritingprotocol/"
+    },
     "ExtracellularAgingEnzymeTherapy": {
       "episode_count": 1,
       "show_count": 1,
@@ -76682,6 +76698,22 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/entities/jamesmclaughlin/"
+    },
+    "JamesPennebaker": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8054388666 [SCIM8054388666].md",
+          "key": "a-science-supported-journaling-protocol-to-improve-mental-physical-health-scim8054388666",
+          "show": "Huberman Lab",
+          "title": "A Science-Supported Journaling Protocol to Improve Mental & Physical Health",
+          "url": "/wiki/sources/a-science-supported-journaling-protocol-to-improve-mental-physical-health-scim8054388666/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/jamespennebaker/"
     },
     "JamesSexton": {
       "episode_count": 1,
@@ -147510,9 +147542,9 @@
       "url": "/wiki/concepts/traumacueresponse/"
     },
     "TraumaNarrativeIntegration": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 4,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "166.悠游长风：温柔的幻想之歌，抚平焦虑的沟壑 [948043059].md",
@@ -147555,9 +147587,16 @@
           "show": "这病说来话长",
           "title": "VOL.124“菇毒患者”并不孤独，中西心理7诊室9医生一一分析",
           "url": "/wiki/sources/vol-124-gu-du-huan-zhe-bing-bu-gu-du-zhong-xi-xin-li-7-zhen-shi-9-yisheng-yi-yi-fenxi-lnqswz3nim_8767094yiysgmef1g/"
+        },
+        {
+          "episode_file": "SCIM8054388666 [SCIM8054388666].md",
+          "key": "a-science-supported-journaling-protocol-to-improve-mental-physical-health-scim8054388666",
+          "show": "Huberman Lab",
+          "title": "A Science-Supported Journaling Protocol to Improve Mental & Physical Health",
+          "url": "/wiki/sources/a-science-supported-journaling-protocol-to-improve-mental-physical-health-scim8054388666/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/traumanarrativeintegration/"
     },
     "TravelAgencyItineraryOperations": {
