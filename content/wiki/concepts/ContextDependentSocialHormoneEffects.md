@@ -4,35 +4,43 @@ type: concept
 tags: [hormones, testosterone, oxytocin, social-behavior, hierarchy]
 sources:
   - how-to-make-better-decisions-dr-michael-platt-scim9606820714
+  - the-causes-treatments-for-autism-dr-karen-parker-scim5460291325
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-22
+last_updated: 2026-09-27
 ---
 
 # Context-Dependent Social Hormone Effects
 
 ## Definition
-Context-dependent social hormone effects describe testosterone and oxytocin as modulators whose behavioral consequences vary with baseline motives, sex, hierarchy, threat, task, and social setting.
+Context-dependent social hormone effects describe testosterone, oxytocin, and vasopressin as modulators whose behavioral consequences vary with baseline biology, sex, hierarchy, threat, task, species, measurement compartment, and social setting.
 
 ## Current Synthesis
-The episode resists both "testosterone equals aggression" and "oxytocin equals love." Testosterone is presented as increasing the gain on risk, confidence, status display, or fast responding rather than dictating one behavior. Oxytocin can lower vigilance, flatten some hierarchy differences, increase giving, or increase synchrony, yet the reported direction changes across male and female monkeys and across in-group, out-group, and threat contexts.
+The evidence resists both "testosterone equals aggression" and "oxytocin equals love." Testosterone is presented as increasing the gain on risk, confidence, status display, or fast responding rather than dictating one behavior. Oxytocin can lower vigilance, alter hierarchy, increase affiliation, or affect social task performance, yet reported direction changes with sex, target, context, baseline level, and study design.
+
+The autism episode extends the model to vasopressin and to measurement. Oxytocin and vasopressin share receptor families and have central and peripheral roles, so blood levels, CSF levels, receptor action, and administered peptide cannot be treated as the same variable. A negative broad oxytocin trial can coexist with a still-unresolved low-baseline subgroup hypothesis, while a small positive vasopressin trial remains insufficient for general use.
 
 ## Key Claims
-- Testosterone may amplify existing status and motivational tendencies rather than create a fixed action.
-- Testosterone administration can shift risk-taking, conspicuous consumption, confidence, and reflective responding in experimental settings.
+- Testosterone may amplify existing status and motivational tendencies, shifting risk-taking, conspicuous consumption, confidence, or reflective responding rather than creating one fixed action.
 - Oxytocin can reduce threat vigilance and alter dominant-versus-subordinate behavior.
 - Oxytocin's social effects vary by sex and target rather than remaining universally affiliative.
+- Blood and CSF peptide measures can carry different information and should not be substituted for one another.
+- Baseline biology may influence treatment response, but subgroup hypotheses require prospective replication.
+- Vasopressin findings support dimension-specific investigation of social function, not a universal autism mechanism.
 - Hormone findings require context before application to trading, relationships, or organizational decisions.
 
 ## Evidence
 - Testosterone studies - [[how-to-make-better-decisions-dr-michael-platt-scim9606820714]] describes gel-versus-placebo work on status consumption, risk, confidence, and cognitive reflection.
 - Hierarchy effects - [[how-to-make-better-decisions-dr-michael-platt-scim9606820714]] reports nebulized oxytocin calming dominant males and making subordinate males bolder.
 - Sex and target qualification - [[how-to-make-better-decisions-dr-michael-platt-scim9606820714]] reports female monkeys becoming more affiliative toward females but more aggressive toward males.
+- Oxytocin trial qualification - [[the-causes-treatments-for-autism-dr-karen-parker-scim5460291325]] contrasts promising early and baseline-dependent findings with a negative large multisite autism trial and measurement instability.
+- Compartment and peptide distinction - [[the-causes-treatments-for-autism-dr-karen-parker-scim5460291325]] reports social associations for CSF rather than blood vasopressin and explains overlapping oxytocin-vasopressin receptor biology.
+- Vasopressin translation boundary - [[the-causes-treatments-for-autism-dr-karen-parker-scim5460291325]] reports cross-species social findings and a small positive trial while emphasizing nonresponse, mechanism uncertainty, and replication need.
 
 ## Counterevidence & Qualifications
-Intranasal and nebulized hormone studies are described as variable and difficult to generalize. The source does not justify self-administering testosterone, oxytocin, vasopressin, or related agents, nor does it establish population-wide effects in financial markets or intimate relationships.
+Intranasal and nebulized hormone studies are variable and difficult to generalize. The evidence does not justify self-administering testosterone, oxytocin, vasopressin, or related agents, nor establish population-wide effects in autism, financial markets, or intimate relationships. Hormone concentration can be a correlate rather than a cause, and apparently opposite agonist and antagonist strategies require direct trial evidence rather than intuition.
 
 ## What Changed
-- Created a context-first hormone model spanning status, risk, affiliation, vigilance, and hierarchy.
+- Added vasopressin, biological baseline, measurement compartment, receptor overlap, and trial-replication boundaries.
 
 ## Related Concepts
 - [[HormoneContextAggression]] - adjacent correction to direct testosterone-aggression explanations.
@@ -40,3 +48,5 @@ Intranasal and nebulized hormone studies are described as variable and difficult
 - [[ContextDependentBiomedicalInterventions]] - general boundary against context-free intervention claims.
 - [[InterpersonalSynchronyAndRapport]] - coordination outcome discussed alongside oxytocin.
 - [[SocialValueAccounting]] - social valuation system whose gain may change with hormone state.
+- [[VasopressinSocialFunction]] - autism-linked biomarker and intervention hypothesis requiring replication.
+- [[AutismBiologicalHeterogeneity]] - subgroup logic that constrains broad neuropeptide treatment claims.

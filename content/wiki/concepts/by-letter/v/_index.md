@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "v"
-wiki_total_pages: 8352
+wiki_total_pages: 8354
 wiki_pages:
   - key: "VacationShame"
     title: "Vacation Shame / 休假羞耻感"
@@ -59,6 +59,9 @@ wiki_pages:
   - key: "VascularSurgerySymptomRouting"
     title: "Vascular Surgery Symptom Routing / 血管外科症状分诊"
     url: "/wiki/concepts/vascularsurgerysymptomrouting/"
+  - key: "VasopressinSocialFunction"
+    title: "Vasopressin and Social Function"
+    url: "/wiki/concepts/vasopressinsocialfunction/"
   - key: "VectorModelEngineering"
     title: "Vector Model Engineering"
     url: "/wiki/concepts/vectormodelengineering/"

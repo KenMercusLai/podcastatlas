@@ -12536,6 +12536,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/autismashumandifference/"
     },
+    "AutismBiologicalHeterogeneity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5460291325 [SCIM5460291325].md",
+          "key": "the-causes-treatments-for-autism-dr-karen-parker-scim5460291325",
+          "show": "Huberman Lab",
+          "title": "The Causes & Treatments for Autism | Dr. Karen Parker",
+          "url": "/wiki/sources/the-causes-treatments-for-autism-dr-karen-parker-scim5460291325/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/autismbiologicalheterogeneity/"
+    },
     "AutismCureScamRisk": {
       "episode_count": 2,
       "show_count": 2,
@@ -30411,9 +30427,9 @@
       "url": "/wiki/concepts/contextdependentbiomedicalinterventions/"
     },
     "ContextDependentSocialHormoneEffects": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM9606820714 [SCIM9606820714].md",
@@ -30421,9 +30437,16 @@
           "show": "Huberman Lab",
           "title": "How to Make Better Decisions | Dr. Michael Platt",
           "url": "/wiki/sources/how-to-make-better-decisions-dr-michael-platt-scim9606820714/"
+        },
+        {
+          "episode_file": "SCIM5460291325 [SCIM5460291325].md",
+          "key": "the-causes-treatments-for-autism-dr-karen-parker-scim5460291325",
+          "show": "Huberman Lab",
+          "title": "The Causes & Treatments for Autism | Dr. Karen Parker",
+          "url": "/wiki/sources/the-causes-treatments-for-autism-dr-karen-parker-scim5460291325/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/contextdependentsocialhormoneeffects/"
     },
     "ContextualBanditPersonalization": {
@@ -80133,6 +80156,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/karennussbaum/"
+    },
+    "KarenParker": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5460291325 [SCIM5460291325].md",
+          "key": "the-causes-treatments-for-autism-dr-karen-parker-scim5460291325",
+          "show": "Huberman Lab",
+          "title": "The Causes & Treatments for Autism | Dr. Karen Parker",
+          "url": "/wiki/sources/the-causes-treatments-for-autism-dr-karen-parker-scim5460291325/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/karenparker/"
     },
     "KariAngoff": {
       "episode_count": 1,
@@ -149198,6 +149237,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/vasilygolitsyn/"
+    },
+    "VasopressinSocialFunction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5460291325 [SCIM5460291325].md",
+          "key": "the-causes-treatments-for-autism-dr-karen-parker-scim5460291325",
+          "show": "Huberman Lab",
+          "title": "The Causes & Treatments for Autism | Dr. Karen Parker",
+          "url": "/wiki/sources/the-causes-treatments-for-autism-dr-karen-parker-scim5460291325/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/vasopressinsocialfunction/"
     },
     "VectorBorneInfectionEscalation": {
       "episode_count": 1,

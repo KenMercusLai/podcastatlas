@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Causes & Treatments for Autism | Dr. Karen Parker](sources/the-causes-treatments-for-autism-dr-karen-parker-scim5460291325.md) — Huberman Lab interview on autism heterogeneity, dimension-specific biomarkers, oxytocin evidence, vasopressin translation, model validity, screening access, and treatment uncertainty.
 - [399. The Savage Storm: World War II and The Battle for Italy](sources/399-the-savage-storm-world-war-ii-and-the-battle-for-italy-glt8130436942.md) — The Rest Is History interview with James Holland on the 1943 Italian campaign's limited strategic gains, resource constraints, difficult terrain, civilian destruction, and failed promise of rapid advance.
 - [VOL.89运动康复｜缓解久坐疲劳教程 跟康复师带薪健康不止3分钟](sources/vol-89-yundong-kangfu-huanjie-jiuzuo-pilao-jiaocheng-gen-kangfushi-daixin-jiankang-buzhi-3-fenzhong-ln2jtowe4hyntw1omun5q8_wjsh5.md) — 这病说来话长 episode with 阿汤 and 陈老师 on assessment-first rehabilitation, sedentary-work posture, workstation fit, movement breaks, and individualized exercise boundaries.
 - [VOL.90运动医学｜朋友你滑雪吗？补钙要趁早｜「科目三」禁忌人群](sources/vol-90-yundong-yixue-pengyou-ni-huaxue-ma-bugai-yao-chenzao-kemu-san-jinji-renqun-lvfameb1ztoxm5yx5e-ylsrekbsq.md) — 这病说来话长 episode with 马浩宁 and 张五花 on winter sport, knee and ankle stability, acute-injury response, strength-based rehabilitation, and supplement-versus-treatment boundaries.
@@ -2949,6 +2950,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Prevent & Treat Colds & Flu](sources/how-to-prevent-treat-colds-flu-scim6817932732.md) — Huberman Lab solo episode on respiratory-virus transmission, layered immune defense, sleep and training load, heat boundaries, and supplement evidence.
 
 ## Entities
+- [Karen Parker](entities/KarenParker.md) — Social neuroscientist connecting comparative models, autism-relevant biomarkers, neuropeptides, and cautiously bounded clinical translation.
 - [James Holland](entities/JamesHolland.md) — Historian joining strategy, logistics, diaries, letters, and civilian experience in his account of the 1943 Italian campaign.
 - [Italian Campaign of 1943](entities/ItalianCampaign1943.md) — Allied mainland campaign that achieved Italian exit, German diversion, ports, and Foggia but became a constrained attritional advance.
 - [Albert Kesselring](entities/AlbertKesselring.md) — German commander whose Salerno concentration and forward defense of southern Italy receive a source-bounded critical reassessment.
@@ -13922,6 +13924,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kay Tye](entities/KayTye.md) — Neuroscientist connecting emotional-valence circuits to loneliness, social homeostasis, hierarchy, and sustainable scientific leadership.
 
 ## Concepts
+- [Autism Biological Heterogeneity](concepts/AutismBiologicalHeterogeneity.md) — Distinction between a shared behavioral diagnosis and varied biological pathways, dimensions, subgroups, and treatment responses.
+- [Vasopressin and Social Function](concepts/VasopressinSocialFunction.md) — Preliminary cross-species biomarker and treatment hypothesis linking central vasopressin to specific social-function dimensions.
 - [Secondary-Theater Resource Constraint](concepts/SecondaryTheaterResourceConstraint.md) — Gap between assigning a campaign strategic value and withholding first-priority resources because another theater dominates allocation.
 - [Liberation-Destruction Dilemma](concepts/LiberationDestructionDilemma.md) — Conflict between removing occupation or dictatorship and destroying civilian lives, infrastructure, homes, and cultural sites in the process.
 - [Workstation Posture Adjustment / 工位姿势调整](concepts/WorkstationPostureAdjustment.md) — Conditional fitting of screens, desks, chairs, supports, and task layout within movement variability and symptom-sensitive rehabilitation.

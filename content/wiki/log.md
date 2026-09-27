@@ -23404,3 +23404,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | The Causes & Treatments for Autism | Dr. Karen Parker
+
+Added source `the-causes-treatments-for-autism-dr-karen-parker-scim5460291325`; created `KarenParker`, `AutismBiologicalHeterogeneity`, and `VasopressinSocialFunction`; and updated `ContextDependentSocialHormoneEffects` and the canonical index from the complete bounded source set. Core synthesis: autism's shared behavioral diagnosis can contain distinct biological and functional dimensions, so biomarkers, models, outcomes, and treatments should be evaluated by subgroup and mechanism; Parker's vasopressin chain is promising but remains preliminary because CSF association is not causality and the treatment trial was small, included nonresponders, and required replication. No settled contradiction found. Negative broad oxytocin and vasopressin-antagonist trials constrain simple neuropeptide narratives, vaccine causation is rejected, and immune-subgroup, infant-biomarker, mechanism, safety, and treatment claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

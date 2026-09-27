@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 10958
+wiki_total_pages: 10959
 wiki_pages:
   - key: "KunyangBattle"
     title: "Battle of Kunyang / 昆阳之战"
@@ -107,6 +107,9 @@ wiki_pages:
   - key: "KarenNussbaum"
     title: "Karen Nussbaum"
     url: "/wiki/entities/karennussbaum/"
+  - key: "KarenParker"
+    title: "Karen Parker"
+    url: "/wiki/entities/karenparker/"
   - key: "KariAngoff"
     title: "Kari Angoff"
     url: "/wiki/entities/kariangoff/"

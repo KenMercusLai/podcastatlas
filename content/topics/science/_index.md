@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1240
+topic_total_pages: 1241
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -3615,6 +3615,9 @@ topic_sources:
   - key: "the-biology-of-social-interactions-and-emotions-dr-kay-tye-scim4105255786"
     title: "The Biology of Social Interactions and Emotions | Dr. Kay Tye"
     url: "/wiki/sources/the-biology-of-social-interactions-and-emotions-dr-kay-tye-scim4105255786/"
+  - key: "the-causes-treatments-for-autism-dr-karen-parker-scim5460291325"
+    title: "The Causes & Treatments for Autism | Dr. Karen Parker"
+    url: "/wiki/sources/the-causes-treatments-for-autism-dr-karen-parker-scim5460291325/"
   - key: "the-continent-nobody-owns-everyone-benefits-from-summer-school"
     title: "The continent nobody owns & everyone benefits from (Summer School)"
     url: "/wiki/sources/the-continent-nobody-owns-everyone-benefits-from-summer-school/"
