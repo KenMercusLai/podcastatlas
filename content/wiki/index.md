@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.78生殖医学科男科｜他的包皮割不割 来听三甲医生怎么说｜为什么HPV检查男生会常出现假阴性？](sources/vol-78-shengzhi-yixueke-nanke-tade-baopi-gebuge-lai-ting-sanjia-yisheng-zenme-shuo-weishenme-hpv-jiancha-nansheng-hui-chang-chuxian-jiayinxing-lvg2m7yu6whcctt79kmvl38egnh.md) — 这病说来话长 episode on long foreskin, phimosis, paraphimosis urgency, circumcision thresholds, pediatric timing, diabetes, and male HPV testing limits.
 - [How to Understand Emotions | Dr. Lisa Feldman Barrett](sources/how-to-understand-emotions-dr-lisa-feldman-barrett-scim3919749252.md) — Huberman Lab interview on constructed emotion, contextual face inference, affect, emotional granularity, predictive allostasis, body budgeting, and flexible regulation.
 - [VOL.79生殖医学科男科｜取精室里不能说的秘密 辅助生殖知多少](sources/vol-79-shengzhi-yixueke-nanke-qujingshi-li-buneng-shuo-de-mimi-fuzhu-shengzhi-zhi-duoshao-lp8ztob7icudu2x06tqc0dh_zhdk.md) — 这病说来话长 episode on semen-sample collection quality, male fertility assessment, azoospermia pathways, assisted-reproduction timing, prostate findings, cycling exposure, and sexual-function anxiety.
 - [378. Baghdad: The Golden Age (Part 3)](sources/378-baghdad-the-golden-age-part-3-glt9689814482.md) — The Rest Is History episode on Harun al-Rashid's historical and legendary profiles, Abbasid court and succession politics, and Baghdad's integrated but unequal metropolitan life.
@@ -3025,7 +3026,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [成都医学院第一附属医院 / First Affiliated Hospital of Chengdu Medical College](entities/FirstAffiliatedHospitalChengduMedicalCollege.md) — Hospital affiliation named for the VOL.83 gynecology guest.
 - [Geronimo de Aguilar](entities/GeronimoDeAguilar.md) — Spanish shipwreck survivor whose Maya-language skill formed the first Spanish-facing link in Cortes's interpretation chain.
 - [Diego Velazquez de Cuellar](entities/DiegoVelazquezDeCuellar.md) — Cuban conqueror and governor whose westward sponsorship, selection of Cortes, limited commission, and failed recall shaped the Mexico expedition.
-- [汪一鸣 / Wang Yiming (reproductive-medicine doctor)](entities/WangYimingReproductiveDoctor.md) — Source-scoped clinician connecting sex education with consent, contraception, pain, infection testing, qualified pregnancy care, and inclusion.
+- [汪一鸣 / Wang Yiming (reproductive-medicine doctor)](entities/WangYimingReproductiveDoctor.md) — Source-scoped clinician connecting sex education, consent, reproductive care, foreskin assessment, and emergency recognition.
 - [蔡夜 / Cai Ye (sex educator)](entities/CaiYeSexEducator.md) — Source-scoped sex educator framing bodies, relationships, consent, prevention, clinical communication, child safeguarding, and inclusion as comprehensive education.
 - [孟医生 / Meng Doctor (emergency medicine)](entities/MengDoctorZheBing.md) — Source-scoped emergency attending explaining acute-risk exclusion, stabilization, and the limits of emergency diagnosis.
 - [邱小真 / Qiu Xiaozhen (insurance broker)](entities/QiuXiaozhenInsurance.md) — Sponsor-linked broker discussing channel differences and scenario-based medical and accident coverage planning.
@@ -14041,6 +14042,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Michael Eisenberg](entities/MichaelEisenberg.md) — Urologist and researcher framing male fertility and sexual function through objective testing, whole-body health, and treatment boundaries.
 
 ## Concepts
+- [Paraphimosis Emergency / 包皮嵌顿急症](concepts/ParaphimosisEmergency.md) — Urgent recognition boundary for a retracted foreskin trapped behind the glans with swelling and possible circulation compromise.
 - [Islamic Legal Scholarly Authority](concepts/IslamicLegalScholarlyAuthority.md) — Law-before-state framework in which ulama and jurists interpret divine sources beyond ruler command.
 - [Hadith Authentication](concepts/HadithAuthentication.md) — Source-critical evaluation of attributed prophetic reports through transmission chains and related scrutiny.
 - [Abbasid Translation Movement](concepts/AbbasidTranslationMovement.md) — Distributed patronage network that translated and transformed inherited learning in Arabic intellectual life.
@@ -14064,7 +14066,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Physiological Sigh](concepts/PhysiologicalSigh.md) — Double-inhale and long-exhale pattern used as a bounded real-time and repeated stress-regulation practice.
 - [Reflective Self-Exploration](concepts/ReflectiveSelfExploration.md) — Bounded toolkit joining life narrative, dream and waking-transition notes, free writing, goals, and clinical trauma limits.
 - [Indirect Sexual-Infection Exposure Risk / 间接性传播感染风险](concepts/IndirectSexualInfectionExposureRisk.md) — Route-, viability-, dose-, timing-, and susceptibility-based framework separating theoretical exposure from likely transmission.
-- [HPV Prevention and Follow-Up / HPV预防与随访](concepts/HPVPreventionAndFollowup.md) — Layered framework separating HPV exposure reduction, vaccination, screening, abnormal-result follow-up, and partner participation.
+- [HPV Prevention and Follow-Up / HPV预防与随访](concepts/HPVPreventionAndFollowup.md) — Layered framework separating HPV exposure reduction, vaccination, screening, male testing limits, abnormal-result follow-up, and partner participation.
 - [Siege of Toulon](concepts/SiegeOfToulon.md) — 1793 campaign where artillery strategy, revolutionary opportunity, promotion, and post-victory atrocity converged.
 - [Vendémiaire Uprising](concepts/VendemiaireUprising.md) — 1795 royalist challenge suppressed by Napoleon's artillery in defence of the Directory.
 - [Revolutionary Universalism and Identity](concepts/RevolutionaryUniversalismIdentity.md) — How a universal political mission can absorb displaced identity while enabling national expansion.
@@ -15751,7 +15753,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Urological Symptom Triage / 泌尿症状分层判断](concepts/UrologicalSymptomTriage.md) — Female and male urinary symptoms, leakage, urine color, urine-test context, pregnancy markers, and pelvic or abdominal pain interpreted by pattern, volume, persistence, contamination risk, and clinical context.
 - [Prostate Screening Interpretation / 前列腺筛查解读边界](concepts/ProstateScreeningInterpretation.md) — PSA and prostate-symptom interpretation boundary keeping screening markers separate from standalone cancer diagnosis.
 - [Renal Finding Triage / 肾脏发现分层处理](concepts/RenalFindingTriage.md) — Kidney-stone and renal-mass triage for observation, CT clarification, obstruction, infection, kidney function, and surgery thresholds.
-- [Foreskin Hygiene Surgery Boundary / 包皮清洁与手术边界](concepts/ForeskinHygieneSurgeryBoundary.md) — Boundary between cleanly managed long foreskin, recurrent inflammation, phimosis, urinary narrowing, and procedure decisions.
+- [Foreskin Hygiene Surgery Boundary / 包皮清洁与手术边界](concepts/ForeskinHygieneSurgeryBoundary.md) — Boundary among retractable long foreskin, inflammation, phimosis, anatomy, urgent entrapment, and individualized procedure decisions.
 - [Genitourinary Foreign Body Escalation / 泌尿生殖异物升级处置](concepts/GenitourinaryForeignBodyEscalation.md) — Safety boundary warning against urethral or rectal foreign-body self-treatment and emphasizing timely medical care.
 - [Atlantis Reception](concepts/AtlantisReception.md) — Reception-history pattern showing how Plato's political Atlantis is repeatedly remade as utopia, origin story, nationalist myth, esoteric technology, archaeology-adjacent hypothesis, and catastrophe parable.
 - [Platonic Atlantis Political Myth](concepts/PlatonicAtlantisPoliticalMyth.md) — Plato-first reading of Atlantis as a literary and political construction about civic order, empire, hubris, and catastrophe.

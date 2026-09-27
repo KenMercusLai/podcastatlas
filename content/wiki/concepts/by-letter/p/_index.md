@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8426
+wiki_total_pages: 8427
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -122,6 +122,9 @@ wiki_pages:
   - key: "ParamilitarySpoilerViolence"
     title: "Paramilitary Spoiler Violence"
     url: "/wiki/concepts/paramilitaryspoilerviolence/"
+  - key: "ParaphimosisEmergency"
+    title: "Paraphimosis Emergency / 包皮嵌顿急症"
+    url: "/wiki/concepts/paraphimosisemergency/"
   - key: "PardonAsStatePower"
     title: "Pardon As State Power"
     url: "/wiki/concepts/pardonasstatepower/"

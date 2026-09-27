@@ -23741,3 +23741,11 @@ Added source `378-baghdad-the-golden-age-part-3-glt9689814482`; created `AlKhayz
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | VOL.78生殖医学科男科｜他的包皮割不割 来听三甲医生怎么说｜为什么HPV检查男生会常出现假阴性？
+
+Added source `vol-78-shengzhi-yixueke-nanke-tade-baopi-gebuge-lai-ting-sanjia-yisheng-zenme-shuo-weishenme-hpv-jiancha-nansheng-hui-chang-chuxian-jiayinxing-lvg2m7yu6whcctt79kmvl38egnh`; created `ParaphimosisEmergency`; and updated `ForeskinHygieneSurgeryBoundary`, `HPVPreventionAndFollowup`, `WangYimingReproductiveDoctor`, and the canonical index from their complete bounded source sets. Core synthesis: foreskin length alone does not determine surgery; retractability, recurrent inflammation, urinary effects, development, concealed anatomy, diabetes, and over-resection risk shape the decision, while a tight retracted foreskin trapped behind the glans is an emergency. No settled contradiction found. Childhood age thresholds, cancer and HIV associations, male HPV sampling, sexual-function claims, testicular-volume references, anesthesia, and procedure details remain source-scoped public education rather than individualized care. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

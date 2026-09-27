@@ -55842,9 +55842,9 @@
       "url": "/wiki/concepts/foreignaidmedicalpractice/"
     },
     "ForeskinHygieneSurgeryBoundary": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lpN3FHoZeJ2V-3oiJPakVKDX-R_Y [lpN3FHoZeJ2V-3oiJPakVKDX-R_Y].md",
@@ -55852,9 +55852,16 @@
           "show": "这病说来话长",
           "title": "VOL.31泌尿外科｜关于尿频、尿液黄、结石、男性前列腺的那些谣言及误区",
           "url": "/wiki/sources/vol-31-miniao-waike-guanyu-niaopin-niaoye-huang-jieshi-nanxing-qianliexian-de-yaoyan-ji-wuqu-lpn3fhozej2v-3oijpakvkdx-r-y/"
+        },
+        {
+          "episode_file": "lvg2m7yu6WhcCtt79Kmvl38egNhR [lvg2m7yu6WhcCtt79Kmvl38egNhR].md",
+          "key": "vol-78-shengzhi-yixueke-nanke-tade-baopi-gebuge-lai-ting-sanjia-yisheng-zenme-shuo-weishenme-hpv-jiancha-nansheng-hui-chang-chuxian-jiayinxing-lvg2m7yu6whcctt79kmvl38egnh",
+          "show": "这病说来话长",
+          "title": "VOL.78生殖医学科男科｜他的包皮割不割 来听三甲医生怎么说｜为什么HPV检查男生会常出现假阴性？",
+          "url": "/wiki/sources/vol-78-shengzhi-yixueke-nanke-tade-baopi-gebuge-lai-ting-sanjia-yisheng-zenme-shuo-weishenme-hpv-jiancha-nansheng-hui-chang-chuxian-jiayinxing-lvg2m7yu6whcctt79kmvl38egnh/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/foreskinhygienesurgeryboundary/"
     },
     "ForgedEdictLocalExecution": {
@@ -65832,9 +65839,9 @@
       "url": "/wiki/entities/hhasquith/"
     },
     "HPVPreventionAndFollowup": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lgIHSbqu9WLDXYrjFoMxGhqTjqDg [lgIHSbqu9WLDXYrjFoMxGhqTjqDg].md",
@@ -65842,6 +65849,13 @@
           "show": "这病说来话长",
           "title": "VOL.82妇科｜住酒店、洗牙易患性病？女生感染HPV后男生应做什么？",
           "url": "/wiki/sources/vol-82-fuke-zhu-jiudian-xiya-yi-huan-xingbing-nvsheng-ganran-hpv-hou-nansheng-ying-zuo-shenme-lgihsbqu9wldxyrjfomxghqtjqdg/"
+        },
+        {
+          "episode_file": "lvg2m7yu6WhcCtt79Kmvl38egNhR [lvg2m7yu6WhcCtt79Kmvl38egNhR].md",
+          "key": "vol-78-shengzhi-yixueke-nanke-tade-baopi-gebuge-lai-ting-sanjia-yisheng-zenme-shuo-weishenme-hpv-jiancha-nansheng-hui-chang-chuxian-jiayinxing-lvg2m7yu6whcctt79kmvl38egnh",
+          "show": "这病说来话长",
+          "title": "VOL.78生殖医学科男科｜他的包皮割不割 来听三甲医生怎么说｜为什么HPV检查男生会常出现假阴性？",
+          "url": "/wiki/sources/vol-78-shengzhi-yixueke-nanke-tade-baopi-gebuge-lai-ting-sanjia-yisheng-zenme-shuo-weishenme-hpv-jiancha-nansheng-hui-chang-chuxian-jiayinxing-lvg2m7yu6whcctt79kmvl38egnh/"
         }
       ],
       "updated": "2026-09-27",
@@ -114822,6 +114836,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/paradoxmachines/"
     },
+    "ParaphimosisEmergency": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvg2m7yu6WhcCtt79Kmvl38egNhR [lvg2m7yu6WhcCtt79Kmvl38egNhR].md",
+          "key": "vol-78-shengzhi-yixueke-nanke-tade-baopi-gebuge-lai-ting-sanjia-yisheng-zenme-shuo-weishenme-hpv-jiancha-nansheng-hui-chang-chuxian-jiayinxing-lvg2m7yu6whcctt79kmvl38egnh",
+          "show": "这病说来话长",
+          "title": "VOL.78生殖医学科男科｜他的包皮割不割 来听三甲医生怎么说｜为什么HPV检查男生会常出现假阴性？",
+          "url": "/wiki/sources/vol-78-shengzhi-yixueke-nanke-tade-baopi-gebuge-lai-ting-sanjia-yisheng-zenme-shuo-weishenme-hpv-jiancha-nansheng-hui-chang-chuxian-jiayinxing-lvg2m7yu6whcctt79kmvl38egnh/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/paraphimosisemergency/"
+    },
     "PardonWithoutExoneration": {
       "episode_count": 2,
       "show_count": 2,
@@ -158420,9 +158450,9 @@
       "url": "/wiki/entities/wangyibo/"
     },
     "WangYimingReproductiveDoctor": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lhvLv0Wfx3dqV41jaAT86Eh7W6nd [lhvLv0Wfx3dqV41jaAT86Eh7W6nd].md",
@@ -158430,6 +158460,13 @@
           "show": "这病说来话长",
           "title": "VOL.84性教育｜“无痛人流”的骗钱套路｜硬怼性骚扰、全面性教育、正视残障人士和老人需求",
           "url": "/wiki/sources/vol-84-xingjiaoyu-wutongrenliu-de-pianqian-taolu-yingdui-xingsaorao-quanmianxingjiaoyu-zhengshi-canzhangrenshi-he-laoren-xuqiu-lhvlv0wfx3dqv41jaat86eh7w6nd/"
+        },
+        {
+          "episode_file": "lvg2m7yu6WhcCtt79Kmvl38egNhR [lvg2m7yu6WhcCtt79Kmvl38egNhR].md",
+          "key": "vol-78-shengzhi-yixueke-nanke-tade-baopi-gebuge-lai-ting-sanjia-yisheng-zenme-shuo-weishenme-hpv-jiancha-nansheng-hui-chang-chuxian-jiayinxing-lvg2m7yu6whcctt79kmvl38egnh",
+          "show": "这病说来话长",
+          "title": "VOL.78生殖医学科男科｜他的包皮割不割 来听三甲医生怎么说｜为什么HPV检查男生会常出现假阴性？",
+          "url": "/wiki/sources/vol-78-shengzhi-yixueke-nanke-tade-baopi-gebuge-lai-ting-sanjia-yisheng-zenme-shuo-weishenme-hpv-jiancha-nansheng-hui-chang-chuxian-jiayinxing-lvg2m7yu6whcctt79kmvl38egnh/"
         }
       ],
       "updated": "2026-09-27",
