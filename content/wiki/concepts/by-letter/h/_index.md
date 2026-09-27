@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 8337
+wiki_total_pages: 8341
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -857,6 +857,9 @@ wiki_pages:
   - key: "HydraulicSiegeWarfare"
     title: "Hydraulic Siege Warfare / 水攻围城"
     url: "/wiki/concepts/hydraulicsiegewarfare/"
+  - key: "HydrocephalusClinicalReasoning"
+    title: "Hydrocephalus Clinical Reasoning / 脑积水临床判断"
+    url: "/wiki/concepts/hydrocephalusclinicalreasoning/"
   - key: "HydropowerConcentrationRisk"
     title: "Hydropower Concentration Risk"
     url: "/wiki/concepts/hydropowerconcentrationrisk/"

@@ -23353,3 +23353,11 @@ Added source `402-christmas-pagan-or-christian-glt8329172184`; created `Mithras`
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | VOL.91神经外科｜你脑子进水了吧？是的｜每个人都应知的脑卒中FAST法则｜吃刺身会造成脑内蛔虫吗？
+
+Added source `vol-91-shenjing-waike-ni-naozi-jinshui-le-ba-shide-meigeren-dou-ying-zhi-de-naozuzhong-fast-faze-chi-cishen-hui-zaocheng-naonei-huichong-ma-lkvxekdvqf5dokknvwdnlqaimxc`; created `AviationGeneralHospital`, `HydrocephalusClinicalReasoning`, `IntracranialInfectionExposureBoundary`, `ParkinsonismRecognitionTreatmentBoundary`, and `NeurosurgicalTreatmentSelection`; and updated `JiaDoctorZheBing`, `CerebrovascularEventRecognition`, the canonical index, and overview from their complete bounded source sets. Core synthesis: normal cerebrospinal-fluid physiology is distinct from hydrocephalus, exposure possibility is distinct from diagnosed intracranial infection, FAST-style stroke recognition should precede mechanism guessing, and imaging or neurosurgical referral does not automatically imply open surgery. No settled contradiction found; mechanistic, exposure, treatment-window, cyst-risk, and procedure claims remain source-scoped public education rather than individualized care. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

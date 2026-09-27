@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 8337
+wiki_total_pages: 8341
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -194,6 +194,9 @@ wiki_pages:
   - key: "NeurorestorativeStrokeRecovery"
     title: "Neurorestorative Stroke Recovery"
     url: "/wiki/concepts/neurorestorativestrokerecovery/"
+  - key: "NeurosurgicalTreatmentSelection"
+    title: "Neurosurgical Treatment Selection / 神经外科治疗选择"
+    url: "/wiki/concepts/neurosurgicaltreatmentselection/"
   - key: "NeutralInternetExchange"
     title: "Neutral Internet Exchange"
     url: "/wiki/concepts/neutralinternetexchange/"

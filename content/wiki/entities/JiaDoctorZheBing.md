@@ -5,43 +5,52 @@ tags: [person, physician, neurosurgery, emergency-care, podcast-guest]
 sources:
   - vol-120-zenme-da-zenme-shuo-zenme-jie-he-5-wei-yiwu-gongzuozhe-liaoliao-120-jijiu-de-naxie-gushi-lqpbn4u9wc7uutce2hgk7cl77wla
   - vol-116-bie-kan-ni-jintian-xiao-de-huan-dangxin-leji-shengbei-xiao-bu-huo-x-linglongta-menshibu-x-tianjin-shida-xiaoguang-ll6i050qnir6ot6tyldl8meaxjdr
-last_updated: 2026-09-25
+  - vol-91-shenjing-waike-ni-naozi-jinshui-le-ba-shide-meigeren-dou-ying-zhi-de-naozuzhong-fast-faze-chi-cishen-hui-zaocheng-naonei-huichong-ma-lkvxekdvqf5dokknvwdnlqaimxc
+last_updated: 2026-09-27
 knowledge_schema: synthesis-v1
 ---
 
 # 贾建 / Jia Jian (这病说来话长)
 
 ## Overview
-贾建 is a source-scoped neurosurgeon in [[ZheBingShuoLaiHuaChang|这病说来话长]] episodes on prehospital-worker risk and emotion-associated cerebrovascular risk.
+贾建 is a source-scoped neurosurgeon affiliated with [[AviationGeneralHospital|航空总医院]] who appears in [[ZheBingShuoLaiHuaChang|这病说来话长]] episodes on neurosurgical public education, cerebrovascular risk, and prehospital-worker safety.
 
 ## Current Profile
-[[vol-120-zenme-da-zenme-shuo-zenme-jie-he-5-wei-yiwu-gongzuozhe-liaoliao-120-jijiu-de-naxie-gushi-lqpbn4u9wc7uutce2hgk7cl77wla|VOL.120]] identifies a neurosurgeon only as 贾医生. During a 2018 emergency rotation, he encountered two responding ambulances that had collided at an intersection; one was carrying a patient, and additional ambulances were needed to separate patient and staff transport. [[vol-116-bie-kan-ni-jintian-xiao-de-huan-dangxin-leji-shengbei-xiao-bu-huo-x-linglongta-menshibu-x-tianjin-shida-xiaoguang-ll6i050qnir6ot6tyldl8meaxjdr|VOL.116]] names neurosurgeon 贾建 and has him explain that extreme excitement is most concerning when vascular vulnerability, especially poorly controlled hypertension, is already present. Shared show and specialty context support, but do not independently prove, that both appearances are the same person.
+The earliest ingested appearance, [[vol-91-shenjing-waike-ni-naozi-jinshui-le-ba-shide-meigeren-dou-ying-zhi-de-naozuzhong-fast-faze-chi-cishen-hui-zaocheng-naonei-huichong-ma-lkvxekdvqf5dokknvwdnlqaimxc|VOL.91]], identifies 贾建 and his hospital while presenting a broad neurosurgical profile. He explains normal cerebrospinal-fluid physiology and hydrocephalus, organism-specific infection routes, ischemic-versus-hemorrhagic stroke, FAST-style recognition, Parkinsonian patterns, arachnoid cyst interpretation, and the range from medication or observation to catheter treatment, radiosurgery, deep-brain stimulation, transnasal endoscopy, and flexible ventricular endoscopy. The recurring principle is that symptoms, cause, risk, prognosis, patient state, caregiving, cost, and family capacity matter more than an imaging label or the assumption that neurosurgery always means open craniotomy.
+
+Later appearances narrow that expertise into risk cases. [[vol-116-bie-kan-ni-jintian-xiao-de-huan-dangxin-leji-shengbei-xiao-bu-huo-x-linglongta-menshibu-x-tianjin-shida-xiaoguang-ll6i050qnir6ot6tyldl8meaxjdr|VOL.116]] has him explain that extreme excitement is most concerning when vascular vulnerability, especially poorly controlled hypertension, already exists. [[vol-120-zenme-da-zenme-shuo-zenme-jie-he-5-wei-yiwu-gongzuozhe-liaoliao-120-jijiu-de-naxie-gushi-lqpbn4u9wc7uutce2hgk7cl77wla|VOL.120]] identifies a neurosurgeon only as 贾医生 and gives his recollection of two responding ambulances colliding during a 2018 emergency rotation. Shared show, specialty, and episode context support, but do not independently prove, that the surname-only voice is the same person.
 
 ## Key Characteristics
-- Identified as a neurosurgeon, with the full name 贾建 supplied in VOL.116.
-- Contributes emergency-rotation and cerebrovascular-risk perspectives rather than a full professional biography.
-- Uses an ambulance collision to show that responders and patients share road risk.
-- Notes that replacement vehicles may be required to preserve patient transport while injured staff are assessed.
-- Connects emotional surges to underlying vascular vulnerability and chronic blood-pressure control.
+- Identified as a neurosurgeon named 贾建 and affiliated with 航空总医院.
+- Explains neurosurgery through clinical reasoning, public recognition, and condition-specific treatment selection.
+- Distinguishes normal cerebrospinal fluid from hydrocephalus and exposure possibility from diagnosed intracranial infection.
+- Prioritizes urgent stroke recognition over lay attempts to identify ischemia versus hemorrhage.
+- Places open surgery beside observation, medication, endovascular care, radiosurgery, endoscopy, and implanted stimulation.
+- Connects acute triggers to underlying vascular vulnerability and chronic blood-pressure control.
+- Uses an ambulance collision to show that responders and patients share transport risk.
 
 ## Evidence
-- Clinical role: [[vol-120-zenme-da-zenme-shuo-zenme-jie-he-5-wei-yiwu-gongzuozhe-liaoliao-120-jijiu-de-naxie-gushi-lqpbn4u9wc7uutce2hgk7cl77wla]] identifies 贾医生 as a neurosurgeon and places the recollection during emergency rotation.
-- Collision account: [[vol-120-zenme-da-zenme-shuo-zenme-jie-he-5-wei-yiwu-gongzuozhe-liaoliao-120-jijiu-de-naxie-gushi-lqpbn4u9wc7uutce2hgk7cl77wla]] describes two ambulances colliding, one with a patient aboard, followed by two additional ambulances for continued transport and staff care.
-- Outcome boundary: [[vol-120-zenme-da-zenme-shuo-zenme-jie-he-5-wei-yiwu-gongzuozhe-liaoliao-120-jijiu-de-naxie-gushi-lqpbn4u9wc7uutce2hgk7cl77wla]] reports mainly soft-tissue symptoms and no major problem after examination, but does not provide independent records.
-- Cerebrovascular branch: [[vol-116-bie-kan-ni-jintian-xiao-de-huan-dangxin-leji-shengbei-xiao-bu-huo-x-linglongta-menshibu-x-tianjin-shida-xiaoguang-ll6i050qnir6ot6tyldl8meaxjdr|VOL.116]] has 贾建 connect extreme excitement, unstable hypertension, and intracranial hemorrhage through a de-identified severe case.
+- Identity and clinical scope - [[vol-91-shenjing-waike-ni-naozi-jinshui-le-ba-shide-meigeren-dou-ying-zhi-de-naozuzhong-fast-faze-chi-cishen-hui-zaocheng-naonei-huichong-ma-lkvxekdvqf5dokknvwdnlqaimxc]] names 贾建, gives his hospital affiliation, and covers hydrocephalus, infection, stroke, movement disorders, cysts, and neurosurgical modalities.
+- Decision boundary - [[vol-91-shenjing-waike-ni-naozi-jinshui-le-ba-shide-meigeren-dou-ying-zhi-de-naozuzhong-fast-faze-chi-cishen-hui-zaocheng-naonei-huichong-ma-lkvxekdvqf5dokknvwdnlqaimxc]] emphasizes symptoms, cause, expected benefit, prognosis, caregiving, cost, and patient context rather than image-only or procedure-first decisions.
+- Cerebrovascular branch - [[vol-116-bie-kan-ni-jintian-xiao-de-huan-dangxin-leji-shengbei-xiao-bu-huo-x-linglongta-menshibu-x-tianjin-shida-xiaoguang-ll6i050qnir6ot6tyldl8meaxjdr|VOL.116]] has 贾建 connect extreme excitement, unstable hypertension, and intracranial hemorrhage through a de-identified severe case.
+- Collision account - [[vol-120-zenme-da-zenme-shuo-zenme-jie-he-5-wei-yiwu-gongzuozhe-liaoliao-120-jijiu-de-naxie-gushi-lqpbn4u9wc7uutce2hgk7cl77wla]] describes two ambulances colliding, one with a patient aboard, followed by replacement transport for the patient and staff assessment.
+- Outcome boundary - [[vol-120-zenme-da-zenme-shuo-zenme-jie-he-5-wei-yiwu-gongzuozhe-liaoliao-120-jijiu-de-naxie-gushi-lqpbn4u9wc7uutce2hgk7cl77wla]] reports mainly soft-tissue symptoms and no major problem after examination, but provides no independent records.
 
 ## Qualifications
-The sources give no institutional affiliation, career history, or independently verified clinical records. The identity match between VOL.120's 贾医生 and VOL.116's 贾建 is a source-context inference based on the same show and specialty, not independent confirmation. The collision and hemorrhage cases remain source-scoped anecdotes, not incidence or causal evidence.
+The sources are public podcast summaries rather than independent credential, institutional, case-record, or outcomes verification. The identity match between VOL.120's 贾医生 and the named 贾建 remains a source-context inference. Clinical mechanisms, procedure descriptions, exposure examples, and de-identified cases remain public education rather than individualized advice or incidence evidence.
 
 ## What Changed
-- Added the full source-rendered name 贾建 while preserving uncertainty about the earlier surname-only appearance.
-- Extended the profile from ambulance-worker safety into hypertension-sensitive cerebrovascular risk.
+- Added the earliest source, which supplies hospital affiliation and a broader neurosurgical profile.
+- Extended the profile into hydrocephalus, infection, stroke recognition, Parkinsonian patterns, incidental cysts, and treatment selection.
+- Preserved the uncertainty around the later surname-only emergency-rotation appearance.
 
 ## Relationships
-- [[ZheBingShuoLaiHuaChang]] - podcast where 贾医生 appears.
-- [[PrehospitalEmergencyMedicalResponse]] - operational system his collision account helps explain.
-- [[XueDoctorZheBing]] - co-guest supplying frontline 120 experience in the same episode.
-- [[WangXuedi]] - emergency-doctor voice in the same episode.
-- [[MedicalRiskManagement]] - wider safety frame for transport, staff injury, and continuity of care.
+- [[AviationGeneralHospital]] - hospital affiliation supplied in VOL.91.
+- [[ZheBingShuoLaiHuaChang]] - medical-literacy podcast carrying his appearances.
+- [[Atang]] - host eliciting his listener-facing clinical explanations.
+- [[HydrocephalusClinicalReasoning]] - cerebrospinal-fluid and image-versus-clinical-decision topic he explains.
+- [[CerebrovascularEventRecognition]] - stroke-mechanism and urgent-recognition topic he develops.
+- [[NeurosurgicalTreatmentSelection]] - condition-, risk-, and burden-specific intervention framework.
+- [[PrehospitalEmergencyMedicalResponse]] - operational system illustrated by the ambulance collision.
 - [[LaughterTriggeredHealthRisk]] - trigger-versus-vulnerability framework for the emotional-arousal discussion.
 - [[HypertensionLongTermManagement]] - chronic-control context for the hemorrhage example.

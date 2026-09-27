@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 8337
+wiki_total_pages: 8341
 wiki_pages:
   - key: "IBDPatientEducationAndPeerSupport"
     title: "IBD Patient Education and Peer Support / IBD患者教育与同伴支持"
@@ -743,6 +743,9 @@ wiki_pages:
   - key: "IntracranialCircuitMapping"
     title: "Intracranial Circuit Mapping"
     url: "/wiki/concepts/intracranialcircuitmapping/"
+  - key: "IntracranialInfectionExposureBoundary"
+    title: "Intracranial Infection Exposure Boundary / 颅内感染暴露边界"
+    url: "/wiki/concepts/intracranialinfectionexposureboundary/"
   - key: "IntrusiveThoughtMeaning"
     title: "Intrusive Thought Meaning"
     url: "/wiki/concepts/intrusivethoughtmeaning/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.91神经外科｜你脑子进水了吧？是的｜每个人都应知的脑卒中FAST法则｜吃刺身会造成脑内蛔虫吗？](sources/vol-91-shenjing-waike-ni-naozi-jinshui-le-ba-shide-meigeren-dou-ying-zhi-de-naozuzhong-fast-faze-chi-cishen-hui-zaocheng-naonei-huichong-ma-lkvxekdvqf5dokknvwdnlqaimxc.md) — 这病说来话长 episode with 贾建 on hydrocephalus, intracranial infection, stroke recognition, Parkinsonian patterns, incidental cysts, and condition-specific neurosurgical treatment.
 - [402. Christmas: Pagan or Christian?](sources/402-christmas-pagan-or-christian-glt8329172184.md) — The Rest Is History episode testing pagan-origin claims about Mithras, Sol Invictus, Saturnalia, and the internal Christian calculation of December 25.
 - [Protocols to Access Creative Energy and Process | Rick Rubin](sources/protocols-to-access-creative-energy-and-process-rick-rubin-scim5595688842.md) — Huberman Lab Q&A on diary-like honesty, outcome-independent creative work, receptivity, idea capture, phase-specific deadlines, feedback boundaries, and personal routines.
 - [VOL.92中医科｜今冬勿扰 来年身体好｜流感家庭用药、心脑血管防护、饮食｜冬季养生宝典](sources/vol-92-zhongyike-jindong-wurao-lainian-shenti-hao-liugan-jiating-yongyao-xinnaoxueguan-fanghu-yinshi-dongji-yangsheng-baodian-ljvut60fr8kvkmkczra9p7-w7yde.md) — 这病说来话长 episode with 毛哲 on winter routines, temperature changes, food, influenza claims, cardiovascular risk, foot soaking, and constitution-sensitive self-care boundaries.
@@ -3157,7 +3158,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [1992 British General Election](entities/BritishGeneralElection1992.md) — Conservative victory used as a case of advertising amplifying prior tax anxiety and candidate-format fit.
 - [2017 British General Election](entities/BritishGeneralElection2017.md) — Campaign reversal used as the clearest modern British case of sustained exposure damaging a leading candidate.
 - [王雪迪 / Wang Xuedi](entities/WangXuedi.md) — Emergency physician explaining ambulance–emergency-department interdependence, repeated dispatch, fatigue, lifting, and field-safety pressure.
-- [贾医生 / Jia Doctor (这病说来话长)](entities/JiaDoctorZheBing.md) — Source-scoped neurosurgeon whose ambulance-collision account connects responder safety with continuity of patient transport.
+- [贾建 / Jia Jian (这病说来话长)](entities/JiaDoctorZheBing.md) — 航空总医院 neurosurgeon explaining hydrocephalus, stroke recognition, infection risk, treatment selection, vascular vulnerability, and responder safety.
+- [航空总医院 / Aviation General Hospital](entities/AviationGeneralHospital.md) — Source-scoped hospital affiliation for 贾建 and the episode's neurosurgical service context.
 - [Young Bosnia](entities/YoungBosnia.md) — Loose student and intellectual milieu that gave Princip's South Slav nationalism a radical social language without itself supplying a clear operational command.
 - [Danilo Illich](entities/DaniloIllich.md) — Older Sarajevo friend who connected Princip's literary interests to revolutionary texts and a radical peer network.
 - [Bogdan Zerajic](entities/BogdanZerajic.md) — Failed assassin whose 1910 attack, suicide, and posthumous heroization became Princip's martyr model.
@@ -14100,6 +14102,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Shadow Integration](concepts/ShadowIntegration.md) — Responsibility-centered practice of recognizing disowned material and limiting its projection into people and groups.
 - [Symptoms as Psychological Tasks](concepts/SymptomsAsPsychologicalTasks.md) — Qualified practice of asking what distress may demand while preserving relief, safety, and differential diagnosis.
 - [Mortality-Bounded Meaning](concepts/MortalityBoundedMeaning.md) — Existential view that finite time gives choices weight and makes acceptance, integrity, care, and letting go part of meaning.
+- [Hydrocephalus Clinical Reasoning / 脑积水临床判断](concepts/HydrocephalusClinicalReasoning.md) — Distinguishes normal cerebrospinal-fluid physiology from pathological accumulation and image-only treatment decisions.
+- [Intracranial Infection Exposure Boundary / 颅内感染暴露边界](concepts/IntracranialInfectionExposureBoundary.md) — Organism- and route-specific interpretation of food, water, sanitation, and central-nervous-system infection claims.
+- [Parkinsonism Recognition and Treatment Boundary / 帕金森综合征识别与治疗边界](concepts/ParkinsonismRecognitionTreatmentBoundary.md) — Separates suggestive movement patterns from diagnosis and medical management from selected implanted stimulation.
+- [Neurosurgical Treatment Selection / 神经外科治疗选择](concepts/NeurosurgicalTreatmentSelection.md) — Condition-, risk-, prognosis-, and burden-aware choice among observation, medication, open surgery, and less-invasive procedures.
 - [Cerebrovascular Event Recognition](concepts/CerebrovascularEventRecognition.md) — Mechanism-aware recognition of ischemic stroke, hemorrhage, TIA, and sudden focal neurological symptoms requiring urgent assessment.
 - [Neurorestorative Stroke Recovery](concepts/NeurorestorativeStrokeRecovery.md) — Recovery framework pairing task-specific rehabilitation and surviving-circuit plasticity with qualified cell-based or electrical adjuncts.
 - [Preventive Neuroimaging Tradeoff](concepts/PreventiveNeuroimagingTradeoff.md) — Balance between actionable early detection and anxiety, surveillance, procedures, or overtreatment from incidental findings.
