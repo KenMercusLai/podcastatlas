@@ -23472,3 +23472,11 @@ Added source `394-jfk-death-in-dallas-part-3-glt6387392381`; created `Jacqueline
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | 393. JFK: Cuba, Camelot and the Cold War (Part 2)
+
+Added source `393-jfk-cuba-camelot-and-the-cold-war-part-2-glt9682768005`; created `BayOfPigsInvasion` and `CubanMissileCrisis`; and updated `JohnFKennedy` and the canonical index from the complete bounded source set. Core synthesis: Kennedy's domestic program and advisers were more conventional than radical-martyr narratives imply, while the Bay of Pigs created genuine exile resentment and the Cuban Missile Crisis displayed escalation restraint; neither supplies proof of an assassination conspiracy, and Vietnam withdrawal remains an unresolved counterfactual. No settled contradiction with Parts 6 or 7 was found. Approval figures, adviser totals, tax rates, military attitudes, crisis details, and private policy intentions remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 10972
+wiki_total_pages: 10974
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -224,6 +224,9 @@ wiki_pages:
   - key: "Baturin"
     title: "Baturin / 巴图林"
     url: "/wiki/entities/baturin/"
+  - key: "BayOfPigsInvasion"
+    title: "Bay of Pigs Invasion"
+    url: "/wiki/entities/bayofpigsinvasion/"
   - key: "Bayer"
     title: "Bayer"
     url: "/wiki/entities/bayer/"

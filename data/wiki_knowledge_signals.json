@@ -14766,6 +14766,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/baturin/"
     },
+    "BayOfPigsInvasion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9682768005 [GLT9682768005].md",
+          "key": "393-jfk-cuba-camelot-and-the-cold-war-part-2-glt9682768005",
+          "show": "The Rest Is History",
+          "title": "393. JFK: Cuba, Camelot and the Cold War (Part 2)",
+          "url": "/wiki/sources/393-jfk-cuba-camelot-and-the-cold-war-part-2-glt9682768005/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/bayofpigsinvasion/"
+    },
     "Bayer": {
       "episode_count": 1,
       "show_count": 1,
@@ -32630,6 +32646,22 @@
       ],
       "updated": "2026-09-17",
       "url": "/wiki/concepts/ctripantitrustpenalty/"
+    },
+    "CubanMissileCrisis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9682768005 [GLT9682768005].md",
+          "key": "393-jfk-cuba-camelot-and-the-cold-war-part-2-glt9682768005",
+          "show": "The Rest Is History",
+          "title": "393. JFK: Cuba, Camelot and the Cold War (Part 2)",
+          "url": "/wiki/sources/393-jfk-cuba-camelot-and-the-cold-war-part-2-glt9682768005/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/cubanmissilecrisis/"
     },
     "CueCenteredTherapy": {
       "episode_count": 1,
@@ -78945,9 +78977,9 @@
       "url": "/wiki/entities/johndickie/"
     },
     "JohnFKennedy": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT6409828878 [GLT6409828878].md",
@@ -78976,6 +79008,13 @@
           "show": "The Rest Is History",
           "title": "394. JFK: Death in Dallas (Part 3)",
           "url": "/wiki/sources/394-jfk-death-in-dallas-part-3-glt6387392381/"
+        },
+        {
+          "episode_file": "GLT9682768005 [GLT9682768005].md",
+          "key": "393-jfk-cuba-camelot-and-the-cold-war-part-2-glt9682768005",
+          "show": "The Rest Is History",
+          "title": "393. JFK: Cuba, Camelot and the Cold War (Part 2)",
+          "url": "/wiki/sources/393-jfk-cuba-camelot-and-the-cold-war-part-2-glt9682768005/"
         }
       ],
       "updated": "2026-09-27",

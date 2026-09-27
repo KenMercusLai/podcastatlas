@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [393. JFK: Cuba, Camelot and the Cold War (Part 2)](sources/393-jfk-cuba-camelot-and-the-cold-war-part-2-glt9682768005.md) — The Rest Is History episode testing assassination motives against Kennedy's centrist domestic politics, Cuba record, Cold War restraint, Vietnam uncertainty, and 1964 prospects.
 - [394. JFK: Death in Dallas (Part 3)](sources/394-jfk-death-in-dallas-part-3-glt6387392381.md) — The Rest Is History episode on Kennedy's Texas campaign, the accessibility-security tradeoff, Dealey Plaza, the shooting sequence, and the immediate encounter with Oswald.
 - [AMA #13: Winter Months & Sickness, Wim Hof Breathing & Stressors](sources/ama-13-winter-months-sickness-wim-hof-breathing-stressors-scim4783359583.md) — Huberman Lab premium AMA on winter respiratory risk, indoor proximity, dry air, nasal defenses, sleep, fever, and temperature-stress boundaries.
 - [395. JFK: Hunt for a Killer (Part 4)](sources/395-jfk-hunt-for-a-killer-part-4-glt1345279222.md) — The Rest Is History episode on Kennedy's death, the first-day hunt for Oswald, the Tippit killing, Johnson's succession, and the evidence and irregularities that shaped later distrust.
@@ -2958,11 +2959,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Prevent & Treat Colds & Flu](sources/how-to-prevent-treat-colds-flu-scim6817932732.md) — Huberman Lab solo episode on respiratory-virus transmission, layered immune defense, sleep and training load, heat boundaries, and supplement evidence.
 
 ## Entities
+- [Bay of Pigs Invasion](entities/BayOfPigsInvasion.md) — Failed 1961 CIA-backed exile landing whose collapse created anti-Kennedy resentment without proving an assassination conspiracy.
+- [Cuban Missile Crisis](entities/CubanMissileCrisis.md) — 1962 nuclear confrontation synthesized around deliberation, blockade, reciprocal missile withdrawal, and escalation restraint.
 - [Jacqueline Kennedy Onassis](entities/JacquelineKennedyOnassis.md) — First lady whose political presence and immediate trauma connect the Texas trip to the human reality of the assassination.
 - [John Connally](entities/JohnConnally.md) — Texas governor, coalition figure, motorcade witness, and shooting victim.
 - [Dealey Plaza](entities/DealeyPlaza.md) — Compact Dallas crime scene whose route geometry, witnesses, sight lines, and acoustics shaped the attack and its interpretation.
 - [Robert Greene](entities/RobertGreene.md) — Author connecting purpose, power, relationships, difficult thinking, and mortality in a source-bounded Huberman Lab profile.
-- [John F. Kennedy](entities/JohnFKennedy.md) — U.S. president whose death, body transfer, symbolic stature, alleged motives, and conspiracy afterlife organize the JFK sequence.
+- [John F. Kennedy](entities/JohnFKennedy.md) — U.S. president whose pragmatic politics, Cold War record, death, alleged motives, and conspiracy afterlife organize the JFK sequence.
 - [Lee Harvey Oswald](entities/LeeHarveyOswald.md) — Former Marine and Soviet defector whom the episode identifies as Kennedy's killer through a cumulative biographical and evidentiary case.
 - [Assassination of John F. Kennedy](entities/KennedyAssassination.md) — 1963 Dallas killing presented through lone-gunman evidence, ballistic objections, and a durable conspiracy afterlife.
 - [Warren Commission](entities/WarrenCommission.md) — Official inquiry whose broad conclusion that Oswald acted alone is defended but not exhaustively audited by the episode.

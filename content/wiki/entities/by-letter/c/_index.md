@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 10972
+wiki_total_pages: 10974
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -1430,6 +1430,9 @@ wiki_pages:
   - key: "Cuba"
     title: "Cuba"
     url: "/wiki/entities/cuba/"
+  - key: "CubanMissileCrisis"
+    title: "Cuban Missile Crisis"
+    url: "/wiki/entities/cubanmissilecrisis/"
   - key: "CUDA"
     title: "CUDA"
     url: "/wiki/entities/cuda/"
