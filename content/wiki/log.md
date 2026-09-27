@@ -24204,3 +24204,11 @@ Added source `354-paris-1968-the-return-of-de-gaulle-part-2-glt6246374874`; crea
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | VOL.62皮肤科｜到底哪些情况最易脱发、白发、伤发？帮你避坑这些智商税
+
+Added source `vol-62-pifuke-daodi-naxie-qingkuang-zui-yi-tuofa-baifa-shangfa-bang-ni-bikeng-zhexie-zhishangshui-lreu9n7fvkwgotiewa2yenhur4dp`; created `HuangXinlvDermatologist` and `HairScalpCareBoundary`; and updated `HairLossDiagnosticTriage`, `HairLossFollicleCycle`, `Minoxidil`, and the canonical index from their complete bounded source sets. Core synthesis: hair-loss triage depends on trend, distribution, triggers, family history, and qualified examination rather than a shed-count heuristic; routine cleansing and shaft protection can reduce irritation or breakage but do not diagnose or treat follicular disease; and androgenetic loss, minoxidil, and transplantation belong to long-term, diagnosis-dependent management rather than rapid-cure marketing. No settled contradiction was adopted. Exact shed counts, cycle timing, treatment effects, finasteride adverse-effect rates, dye frequency and cancer claims, and reproductive cautions remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

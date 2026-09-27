@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.62皮肤科｜到底哪些情况最易脱发、白发、伤发？帮你避坑这些智商税](sources/vol-62-pifuke-daodi-naxie-qingkuang-zui-yi-tuofa-baifa-shangfa-bang-ni-bikeng-zhexie-zhishangshui-lreu9n7fvkwgotiewa2yenhur4dp.md) — 这病说来话长 episode on hair-loss triage, follicle-cycle treatment expectations, scalp-care limits, gray hair, dyeing, and transplantation.
 - [354: Paris 1968: The Return of De Gaulle (Part 2)](sources/354-paris-1968-the-return-of-de-gaulle-part-2-glt6246374874.md) — The Rest Is History episode on de Gaulle's May 1968 collapse and recovery, the Gaullist election landslide, and the movement's disputed cultural afterlife.
 - [355: Roman Apocalypse: Pompeii 79 AD](sources/355-roman-apocalypse-pompeii-79-ad-glt6664993493.md) — The Rest Is History episode reconstructing Vesuvius's staged destruction of Pompeii and Herculaneum through Plinian testimony, archaeology, seasonal evidence, and volcanology.
 - [356: The Blood-Drinking Bride of Christ](sources/356-the-blood-drinking-bride-of-christ-glt8496536394.md) — The Rest Is History episode on Catherine of Siena's ascetic mysticism, gendered religious authority, papal diplomacy, and the limits of retrospective diagnosis.
@@ -3057,6 +3058,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Harnessing Passion, Drive & Persistence for Lifelong Success | Tony Hawk](sources/harnessing-passion-drive-persistence-for-lifelong-success-tony-hawk-scim8571002701.md) — Huberman Lab conversation on skateboarding mastery, intrinsic progression, injury-recovery adherence, entrepreneurship, family, and public skateparks.
 
 ## Entities
+- [黄心律 / Huang Xinlü (dermatologist)](entities/HuangXinlvDermatologist.md) — Dermatologist explaining hair-loss differentiation, long-term treatment expectations, and the boundary between scalp care and medical treatment.
 - [Charles de Gaulle](entities/CharlesDeGaulle.md) — French president whose May 1968 loss and recovery of authority culminated in parliamentary dissolution and an election landslide.
 - [May 1968 in France](entities/May1968France.md) — Student, worker, and political crisis ending in immediate Gaullist electoral victory but a disputed cultural legacy.
 - [Mount Vesuvius](entities/MountVesuvius.md) — Active Campanian volcano joining regional fertility and settlement to the staged hazards of the 79 CE eruption.
@@ -14218,6 +14220,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Skatepark Project](entities/TheSkateparkProject.md) — Nonprofit supporting public skateparks as access, practice, and youth-community infrastructure.
 
 ## Concepts
+- [Hair and Scalp Care Boundary / 头发与头皮护理边界](concepts/HairScalpCareBoundary.md) — Boundary separating conditional cleansing and shaft protection from diagnosis, follicle treatment, and commercial regrowth claims.
 - [Political Defeat and Cultural Afterlife](concepts/PoliticalDefeatCulturalAfterlife.md) — Distinction between losing the immediate contest for power and shaping later culture, memory, or intellectual language.
 - [Staged Volcanic Catastrophe](concepts/StagedVolcanicCatastrophe.md) — Time- and place-sensitive model separating warning, fall, accumulation, surge, flow, and temporary escape windows.
 - [Multi-Evidence Disaster Reconstruction](concepts/MultiEvidenceDisasterReconstruction.md) — Source-critical combination of testimony, archaeology, material traces, seasonal clues, and physical science.

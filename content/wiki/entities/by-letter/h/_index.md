@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 11142
+wiki_total_pages: 11143
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -1625,6 +1625,9 @@ wiki_pages:
   - key: "HuangTingjian"
     title: "黄庭坚 / Huang Tingjian"
     url: "/wiki/entities/huangtingjian/"
+  - key: "HuangXinlvDermatologist"
+    title: "黄心律 / Huang Xinlü (dermatologist)"
+    url: "/wiki/entities/huangxinlvdermatologist/"
   - key: "HuangzhiKingdom"
     title: "黄支国 / Huangzhi Kingdom"
     url: "/wiki/entities/huangzhikingdom/"

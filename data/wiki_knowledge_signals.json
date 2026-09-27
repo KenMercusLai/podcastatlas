@@ -67920,9 +67920,9 @@
       "url": "/wiki/concepts/hairaspoliticalidentity/"
     },
     "HairLossDiagnosticTriage": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "li5aqx1zUgvOBFUiFX7hkhYVeVOx [li5aqx1zUgvOBFUiFX7hkhYVeVOx].md",
@@ -67930,15 +67930,22 @@
           "show": "这病说来话长",
           "title": "VOL.80整形科｜秃头姐妹不要慌 自救干货帮你忙",
           "url": "/wiki/sources/vol-80-zhengxingke-tutou-jiemei-buyao-huang-zijiu-ganhuo-bang-ni-mang-li5aqx1zugvobfuifx7hkhyvevox/"
+        },
+        {
+          "episode_file": "lreU9n7fVKwgOtIEWa2yENhur4DP [lreU9n7fVKwgOtIEWa2yENhur4DP].md",
+          "key": "vol-62-pifuke-daodi-naxie-qingkuang-zui-yi-tuofa-baifa-shangfa-bang-ni-bikeng-zhexie-zhishangshui-lreu9n7fvkwgotiewa2yenhur4dp",
+          "show": "这病说来话长",
+          "title": "VOL.62皮肤科｜到底哪些情况最易脱发、白发、伤发？帮你避坑这些智商税",
+          "url": "/wiki/sources/vol-62-pifuke-daodi-naxie-qingkuang-zui-yi-tuofa-baifa-shangfa-bang-ni-bikeng-zhexie-zhishangshui-lreu9n7fvkwgotiewa2yenhur4dp/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/hairlossdiagnostictriage/"
     },
     "HairLossFollicleCycle": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "美妆巨头集体盯上头发，洗护生意为何又热起来？ [1005860109].md",
@@ -67960,10 +67967,33 @@
           "show": "这病说来话长",
           "title": "VOL.80整形科｜秃头姐妹不要慌 自救干货帮你忙",
           "url": "/wiki/sources/vol-80-zhengxingke-tutou-jiemei-buyao-huang-zijiu-ganhuo-bang-ni-mang-li5aqx1zugvobfuifx7hkhyvevox/"
+        },
+        {
+          "episode_file": "lreU9n7fVKwgOtIEWa2yENhur4DP [lreU9n7fVKwgOtIEWa2yENhur4DP].md",
+          "key": "vol-62-pifuke-daodi-naxie-qingkuang-zui-yi-tuofa-baifa-shangfa-bang-ni-bikeng-zhexie-zhishangshui-lreu9n7fvkwgotiewa2yenhur4dp",
+          "show": "这病说来话长",
+          "title": "VOL.62皮肤科｜到底哪些情况最易脱发、白发、伤发？帮你避坑这些智商税",
+          "url": "/wiki/sources/vol-62-pifuke-daodi-naxie-qingkuang-zui-yi-tuofa-baifa-shangfa-bang-ni-bikeng-zhexie-zhishangshui-lreu9n7fvkwgotiewa2yenhur4dp/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/hairlossfolliclecycle/"
+    },
+    "HairScalpCareBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lreU9n7fVKwgOtIEWa2yENhur4DP [lreU9n7fVKwgOtIEWa2yENhur4DP].md",
+          "key": "vol-62-pifuke-daodi-naxie-qingkuang-zui-yi-tuofa-baifa-shangfa-bang-ni-bikeng-zhexie-zhishangshui-lreu9n7fvkwgotiewa2yenhur4dp",
+          "show": "这病说来话长",
+          "title": "VOL.62皮肤科｜到底哪些情况最易脱发、白发、伤发？帮你避坑这些智商税",
+          "url": "/wiki/sources/vol-62-pifuke-daodi-naxie-qingkuang-zui-yi-tuofa-baifa-shangfa-bang-ni-bikeng-zhexie-zhishangshui-lreu9n7fvkwgotiewa2yenhur4dp/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/hairscalpcareboundary/"
     },
     "HaitianFlavoring": {
       "episode_count": 1,
@@ -75130,6 +75160,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/huangxianglatehan/"
+    },
+    "HuangXinlvDermatologist": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lreU9n7fVKwgOtIEWa2yENhur4DP [lreU9n7fVKwgOtIEWa2yENhur4DP].md",
+          "key": "vol-62-pifuke-daodi-naxie-qingkuang-zui-yi-tuofa-baifa-shangfa-bang-ni-bikeng-zhexie-zhishangshui-lreu9n7fvkwgotiewa2yenhur4dp",
+          "show": "这病说来话长",
+          "title": "VOL.62皮肤科｜到底哪些情况最易脱发、白发、伤发？帮你避坑这些智商税",
+          "url": "/wiki/sources/vol-62-pifuke-daodi-naxie-qingkuang-zui-yi-tuofa-baifa-shangfa-bang-ni-bikeng-zhexie-zhishangshui-lreu9n7fvkwgotiewa2yenhur4dp/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/huangxinlvdermatologist/"
     },
     "HuangYiRobotics": {
       "episode_count": 1,
@@ -107636,9 +107682,9 @@
       "url": "/wiki/entities/minoancivilization/"
     },
     "Minoxidil": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "93.聊聊头发：秃了，就会变强吗？ [718794489].md",
@@ -107653,9 +107699,16 @@
           "show": "这病说来话长",
           "title": "VOL.80整形科｜秃头姐妹不要慌 自救干货帮你忙",
           "url": "/wiki/sources/vol-80-zhengxingke-tutou-jiemei-buyao-huang-zijiu-ganhuo-bang-ni-mang-li5aqx1zugvobfuifx7hkhyvevox/"
+        },
+        {
+          "episode_file": "lreU9n7fVKwgOtIEWa2yENhur4DP [lreU9n7fVKwgOtIEWa2yENhur4DP].md",
+          "key": "vol-62-pifuke-daodi-naxie-qingkuang-zui-yi-tuofa-baifa-shangfa-bang-ni-bikeng-zhexie-zhishangshui-lreu9n7fvkwgotiewa2yenhur4dp",
+          "show": "这病说来话长",
+          "title": "VOL.62皮肤科｜到底哪些情况最易脱发、白发、伤发？帮你避坑这些智商税",
+          "url": "/wiki/sources/vol-62-pifuke-daodi-naxie-qingkuang-zui-yi-tuofa-baifa-shangfa-bang-ni-bikeng-zhexie-zhishangshui-lreu9n7fvkwgotiewa2yenhur4dp/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/minoxidil/"
     },
     "MissedDiagnosisRisk": {

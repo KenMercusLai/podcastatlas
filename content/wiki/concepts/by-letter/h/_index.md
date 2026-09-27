@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 8545
+wiki_total_pages: 8546
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -32,6 +32,9 @@ wiki_pages:
   - key: "HaijinAndMaritimeSmuggling"
     title: "Haijin and Maritime Smuggling"
     url: "/wiki/concepts/haijinandmaritimesmuggling/"
+  - key: "HairScalpCareBoundary"
+    title: "Hair and Scalp Care Boundary / 头发与头皮护理边界"
+    url: "/wiki/concepts/hairscalpcareboundary/"
   - key: "HairAsBiosocialSignal"
     title: "Hair As Biosocial Signal"
     url: "/wiki/concepts/hairasbiosocialsignal/"
