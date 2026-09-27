@@ -2996,6 +2996,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [AMA #12: Thoughts on Longevity Supplements (Resveratrol, NR, NMN, Etc.) & How to Improve Memory](sources/ama-12-thoughts-on-longevity-supplements-resveratrol-nr-nmn-etc-how-to-improve-memory-scim5764692205.md) — Huberman Lab premium AMA separating longevity mechanisms and subjective supplement effects from demonstrated human lifespan benefit while prioritizing sleep, exercise, nutrition, light, stress control, and social connection.
 
+- [376. Baghdad: The Forging of Islam (Part 1)](sources/376-baghdad-the-forging-of-islam-part-1-glt9529602805.md) — The Rest Is History episode on late Umayyad crisis, unequal conversion, early Islamic religious formation, and the opening for Abbasid revolution.
+
 ## Entities
 - [Roy Baumeister](entities/RoyBaumeister.md) — Psychologist associated with the limited-resource and glucose accounts in the ego-depletion debate.
 - [Carol Dweck](entities/CarolDweck.md) — Psychologist whose belief-sensitive studies qualify fixed-resource accounts of willpower.
@@ -14048,6 +14050,11 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Michael Eisenberg](entities/MichaelEisenberg.md) — Urologist and researcher framing male fertility and sexual function through objective testing, whole-body health, and treatment boundaries.
 
+- [Umayyad Caliphate](entities/UmayyadCaliphate.md) — Damascus-centered Arab dynasty whose military, social, sectarian, and legitimacy crises prepared the Abbasid revolution.
+- [Ali ibn Abi Talib](entities/AliIbnAbiTalib.md) — Muhammad's cousin and son-in-law, caliph, and ancestor at the center of Alid legitimacy.
+- [Kufa](entities/Kufa.md) — Iraqi garrison city associated with Ali, conversion, scholarship, slavery, and anti-Umayyad opposition.
+- [Khorasan](entities/Khorasan.md) — Northeastern region whose distance, plural populations, and military resources made it the Abbasid revolution's decisive base.
+
 ## Concepts
 - [Ego Depletion Debate](concepts/EgoDepletionDebate.md) — Contested interaction among repeated self-control, resource accounts, glucose, belief, physiology, and task context.
 - [Anterior Mid-Cingulate Willpower](concepts/AnteriorMidCingulateWillpower.md) — Bounded hypothesis that an integrative cingulate hub supports context-sensitive action, restraint, and persistence.
@@ -22495,5 +22502,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Male Reproductive Health Assessment](concepts/MaleReproductiveHealthAssessment.md) — Combined interpretation of specimen quality, semen measures, hormones, sexual function, exposures, anatomy, age, partner context, and general health.
 - [Erectile Dysfunction Vascular Triage](concepts/ErectileDysfunctionVascularTriage.md) — Persistent erectile difficulty as a multi-cause symptom that can warrant cardiovascular and metabolic assessment.
 - [Paternal Age Risk Counseling](concepts/PaternalAgeRiskCounseling.md) — Non-deterministic interpretation of paternal-age associations, absolute risk, and sperm-selection limits.
+
+- [Kharijites](concepts/Kharijites.md) — Early Islamic opposition current joining piety-based leadership claims to recurrent armed revolt.
+- [Alid Legitimacy](concepts/AlidLegitimacy.md) — Claim grounding rightful leadership in Ali and his descendants through kinship with Muhammad.
+- [Mawali Conversion Hierarchy](concepts/MawaliConversionHierarchy.md) — Unequal incorporation of non-Arab converts through patronage, fiscal interests, and continuing social distinctions.
+- [Early Islamic Religious Formation](concepts/EarlyIslamicReligiousFormation.md) — Reciprocal development of practice, reports, law, and authority among conquerors, converts, and existing religious communities.
 
 ## Syntheses

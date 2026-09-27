@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "u"
-wiki_total_pages: 11036
+wiki_total_pages: 11040
 wiki_pages:
   - key: "UnitedStatesPresidentialElection1968"
     title: "1968 United States Presidential Election"
@@ -137,6 +137,9 @@ wiki_pages:
   - key: "UltraWave"
     title: "Ultra Wave"
     url: "/wiki/entities/ultrawave/"
+  - key: "UmayyadCaliphate"
+    title: "Umayyad Caliphate"
+    url: "/wiki/entities/umayyadcaliphate/"
   - key: "Una"
     title: "Una"
     url: "/wiki/entities/una/"

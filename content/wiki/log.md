@@ -23765,3 +23765,11 @@ Added source `how-to-increase-your-willpower-tenacity-scim7958949675`; created `
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | 376. Baghdad: The Forging of Islam (Part 1)
+
+Added source `376-baghdad-the-forging-of-islam-part-1-glt9529602805`; created `UmayyadCaliphate`, `AliIbnAbiTalib`, `Kufa`, `Khorasan`, `Kharijites`, `AlidLegitimacy`, `MawaliConversionHierarchy`, and `EarlyIslamicReligiousFormation`; and updated `TheRestIsHistory`, `AbbasidCaliphate`, `AbbasidRevolution`, `IslamicLegalScholarlyAuthority`, `HadithAuthentication`, and the canonical index from their complete bounded source sets. Core synthesis: the Abbasid opening combined stalled conquest, civil war, Kharijite and Alid opposition, unequal incorporation of non-Arab Muslims, and scholar-led criticism of Umayyad rule; converts and conquered peoples helped form law and practice rather than merely receiving a fixed religion. No settled contradiction found. Jewish and Zoroastrian influence claims, chronology, population proportions, conversion policy, the transcript's “Muqtad,” and several religious-practice parallels remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

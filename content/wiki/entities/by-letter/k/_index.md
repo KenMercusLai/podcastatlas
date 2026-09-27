@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 11036
+wiki_total_pages: 11040
 wiki_pages:
   - key: "KennedyAssassination"
     title: "Assassination of John F. Kennedy"
@@ -332,6 +332,9 @@ wiki_pages:
   - key: "KhmerEmpire"
     title: "Khmer Empire / 吴哥王朝"
     url: "/wiki/entities/khmerempire/"
+  - key: "Khorasan"
+    title: "Khorasan"
+    url: "/wiki/entities/khorasan/"
   - key: "KhurshidAhmed"
     title: "Khurshid Ahmed"
     url: "/wiki/entities/khurshidahmed/"
@@ -539,6 +542,9 @@ wiki_pages:
   - key: "KuaishouLite"
     title: "Kuaishou Lite"
     url: "/wiki/entities/kuaishoulite/"
+  - key: "Kufa"
+    title: "Kufa"
+    url: "/wiki/entities/kufa/"
   - key: "KulaWand"
     title: "Kula Wand"
     url: "/wiki/entities/kulawand/"

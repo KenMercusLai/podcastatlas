@@ -35,6 +35,7 @@ sources:
   - 440-lord-byron-mad-bad-and-dangerous-to-know-part-1-glt4389862746
   - 416-the-canterbury-tales-part-4-glt1956280616
   - 401-windrush-the-story-of-black-britain-glt4826407019
+  - 376-baghdad-the-forging-of-islam-part-1-glt9529602805
 last_updated: 2026-09-27
 knowledge_schema: synthesis-v1
 ---
@@ -50,6 +51,8 @@ The Rest Is History is a narrative podcast represented in the wiki through selec
 The current wiki profile now includes an ancient Greek war-memory branch through the show's Marathon episode. [[669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260]] uses [[BattleOfMarathon]], [[Athens]], [[Miltiades]], [[AchaemenidEmpire]], [[Herodotus]], [[Pheidippides]], and [[GrecoPersianWarMemory]] to reconstruct a battle as containment, tactical risk, civic survival, and later ideological afterlife rather than a simple freedom-versus-despotism tableau.
 
 The profile also includes the opening Western Front entry in the show's 1915 First World War sequence. [[671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565]] uses [[RobertGraves]], [[ErnstJunger]], [[ShellShock]], [[FirstWorldWarGasWarfare|gas warfare]], and the [[BattleOfLoos|Battle of Loos]] to make trench life a mixed social and psychological world rather than a flat image of mud or glory.
+
+The early Islamic history branch now begins before Baghdad's foundation. [[376-baghdad-the-forging-of-islam-part-1-glt9529602805]] connects late [[UmayyadCaliphate|Umayyad]] military setbacks, [[Kharijites|Kharijite]] and [[AlidLegitimacy|Alid]] opposition, [[MawaliConversionHierarchy|unequal non-Arab conversion]], and [[EarlyIslamicReligiousFormation|scholarly religious formation]] to the opening later exploited by the [[AbbasidRevolution]].
 
 The profile also includes an early abolitionist activism branch. [[BenjaminLay]]'s episode connects [[Quakers|Quaker]] inward equality, [[Barbados]] plantation slavery, [[SlaveProducedGoodsBoycott|boycott of slave-produced goods]], and [[AbolitionistPublicWitness|public witness]] to explain how moral protest could become theatrical, embodied, and socially disruptive before abolitionism became mainstream. The branch also keeps the title qualified: Lay is an early activist, not literally the first person to oppose slavery.
 
@@ -69,7 +72,7 @@ The Byron branch now begins with family mythology, childhood adversity, educatio
 
 ## Key Characteristics
 
-- The show is used as a source of chronological narrative history with emphasis on decisions, symbols, inherited constraints, contingency, and multi-part war sequences, from Marathon's tactical and memory problem to the 1915 war branch.
+- The show is used as a source of chronological narrative history with emphasis on decisions, symbols, inherited constraints, contingency, and multi-part sequences, from Marathon's tactical and memory problem and the 1915 war branch to the late Umayyad prehistory of Abbasid Baghdad.
 - Its abolitionist branch uses Benjamin Lay to connect Quaker equality, plantation slavery, ethical consumption, public stunts, and institutional discipline.
 - Its African female-power branch treats women rulers, queen mothers, and warriors as institutional cases while preserving slavery, coercion, and source-bias qualifications.
 - Its medieval branches treat the Hundred Years' War as a multi-causal origin problem and Chaucer's writing as qualified evidence for post-plague social and linguistic change.
@@ -79,6 +82,7 @@ The Byron branch now begins with family mythology, childhood adversity, educatio
 
 ## Evidence
 
+- Early Islamic and Baghdad branch: [[376-baghdad-the-forging-of-islam-part-1-glt9529602805]] links conquest limits, sectarian opposition, conversion inequality, and juristic criticism to the late Umayyad crisis; Parts 2-4 continue through Abbasid victory, Baghdad's foundation, metropolitan growth, legal authority, translation, and literary afterlife.
 - Ancient Greek war-memory branch: [[669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260]] reconstructs Marathon through Athenian road-blocking, the cavalry window, hoplite tactics, the return to Athens, Herodotean source dependence, Pan/Pheidippides traditions, and later freedom-versus-despotism memory.
 - First World War branch: [[671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565]] introduces the Western Front through Graves, Junger, trench routine, shell shock, gas, Loos, and the Kipling family; [[672-the-first-world-war-italys-doomed-campaign-part-2-glt3383347829]], [[673-the-first-world-war-the-submarine-strikes-part-3-glt3632974949]], [[674-the-first-world-war-the-spy-who-took-on-the-germans-part-4-glt1889262052]], [[675-the-first-world-war-slaughter-at-gallipoli-part-5-glt4394132715]], and [[676-the-first-world-war-churchills-calamity-part-6-glt1275431911]] extend the sequence through Italy, Lusitania, Edith Cavell, and Gallipoli.
 - Abolitionist activism branch: [[316-the-first-abolitionist-glt2136062721]] follows [[BenjaminLay]] and [[SarahLay]] from Colchester to [[Barbados]] and Pennsylvania, connecting [[Quakers|Quaker]] inward equality, plantation brutality, boycott, public stunts, [[BenjaminFranklin]]'s printing connection, and late Philadelphia Friends discipline against slaveholding.
@@ -102,15 +106,17 @@ The Byron branch now begins with family mythology, childhood adversity, educatio
 
 ## Qualifications
 
-This page summarizes only the episodes currently listed in its evidence inventory. The show should not be treated as endorsing one uniform theory of history or literature; the covered episodes mix narrative reconstruction, source uncertainty, moral interpretation, symbolic interpretation, and explicit cautions against overreading. The Marathon branch is especially dependent on surviving Greek literary evidence and later memory traditions, so Persian perspective, Pheidippides legends, and broad civilizational interpretations remain qualified. The Lay branch explicitly rejects the literal "first abolitionist" label and keeps the exact reach of his influence source-scoped. The African Amazons branch is especially dependent on mediated European, missionary, traveler, and popular-history accounts. The George branch cannot establish the saint's existence, identity, relics, or dragon story as contemporary history; its strongest claims concern the development and reuse of the tradition. The Byron inventory covers three installments rather than a complete life or literary study. The Chaucer branch uses fictional characters as suggestive rather than representative evidence, and its Cecily Champagne, plague-season, women's-autonomy, and dialect-influence claims remain source-scoped. The Windrush branch relies on one interview-led interpretation; passenger totals, demographic comparisons, church attendance, the warship claim, and international mixed-heritage comparisons remain source-scoped.
+This page summarizes only the episodes currently listed in its evidence inventory. The show should not be treated as endorsing one uniform theory of history or literature; the covered episodes mix narrative reconstruction, source uncertainty, moral interpretation, symbolic interpretation, and explicit cautions against overreading. The early Islamic branch's claims about Jewish and Zoroastrian influence, conversion policy, chronology, and religious practice remain source-scoped rather than settled by comparison alone. The Marathon branch is especially dependent on surviving Greek literary evidence and later memory traditions, so Persian perspective, Pheidippides legends, and broad civilizational interpretations remain qualified. The Lay branch explicitly rejects the literal "first abolitionist" label and keeps the exact reach of his influence source-scoped. The African Amazons branch is especially dependent on mediated European, missionary, traveler, and popular-history accounts. The George branch cannot establish the saint's existence, identity, relics, or dragon story as contemporary history; its strongest claims concern the development and reuse of the tradition. The Byron inventory covers three installments rather than a complete life or literary study. The Chaucer branch uses fictional characters as suggestive rather than representative evidence, and its Cecily Champagne, plague-season, women's-autonomy, and dialect-influence claims remain source-scoped. The Windrush branch relies on one interview-led interpretation; passenger totals, demographic comparisons, church attendance, the warship claim, and international mixed-heritage comparisons remain source-scoped.
 
 ## What Changed
 
-- Added a Windrush branch connecting migrant agency, gradual family settlement, imperial citizenship, and national memory.
-- Bounded Windrush as one transformative migration story rather than a template for every non-white British history.
+- Added the late Umayyad causal layer before the existing Abbasid Baghdad sequence.
+- Bounded cross-religious influence claims as source-scoped comparisons rather than proven one-way borrowing.
 
 ## Relationships
 
+- [[UmayyadCaliphate]] - declining dynasty whose military, social, sectarian, and moral crises open the Baghdad sequence.
+- [[EarlyIslamicReligiousFormation]] - process through which converts and conquered peoples participate in forming law and practice.
 - [[BattleOfMarathon]] - ancient battle reconstructed as tactical gamble, civic survival, and memory object.
 - [[Athens]] - city whose Marathon survival and later Sullan humiliation both appear in the show's ancient-history coverage.
 - [[AchaemenidEmpire]] - Persian imperial opponent in the Marathon branch.

@@ -4370,9 +4370,9 @@
       "url": "/wiki/entities/aaronburr/"
     },
     "AbbasidCaliphate": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT8529456010 [GLT8529456010].md",
@@ -4394,15 +4394,22 @@
           "show": "The Rest Is History",
           "title": "377. Baghdad: Crossroads of the Universe (Part 2)",
           "url": "/wiki/sources/377-baghdad-crossroads-of-the-universe-part-2-glt9127243683/"
+        },
+        {
+          "episode_file": "GLT9529602805 [GLT9529602805].md",
+          "key": "376-baghdad-the-forging-of-islam-part-1-glt9529602805",
+          "show": "The Rest Is History",
+          "title": "376. Baghdad: The Forging of Islam (Part 1)",
+          "url": "/wiki/sources/376-baghdad-the-forging-of-islam-part-1-glt9529602805/"
         }
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/abbasidcaliphate/"
     },
     "AbbasidRevolution": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9127243683 [GLT9127243683].md",
@@ -4410,6 +4417,13 @@
           "show": "The Rest Is History",
           "title": "377. Baghdad: Crossroads of the Universe (Part 2)",
           "url": "/wiki/sources/377-baghdad-crossroads-of-the-universe-part-2-glt9127243683/"
+        },
+        {
+          "episode_file": "GLT9529602805 [GLT9529602805].md",
+          "key": "376-baghdad-the-forging-of-islam-part-1-glt9529602805",
+          "show": "The Rest Is History",
+          "title": "376. Baghdad: The Forging of Islam (Part 1)",
+          "url": "/wiki/sources/376-baghdad-the-forging-of-islam-part-1-glt9529602805/"
         }
       ],
       "updated": "2026-09-27",
@@ -7573,6 +7587,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/algorithmictrustmigration/"
     },
+    "AliIbnAbiTalib": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9529602805 [GLT9529602805].md",
+          "key": "376-baghdad-the-forging-of-islam-part-1-glt9529602805",
+          "show": "The Rest Is History",
+          "title": "376. Baghdad: The Forging of Islam (Part 1)",
+          "url": "/wiki/sources/376-baghdad-the-forging-of-islam-part-1-glt9529602805/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/aliibnabitalib/"
+    },
     "AliPasha": {
       "episode_count": 1,
       "show_count": 1,
@@ -7620,6 +7650,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/alicefullwood/"
+    },
+    "AlidLegitimacy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9529602805 [GLT9529602805].md",
+          "key": "376-baghdad-the-forging-of-islam-part-1-glt9529602805",
+          "show": "The Rest Is History",
+          "title": "376. Baghdad: The Forging of Islam (Part 1)",
+          "url": "/wiki/sources/376-baghdad-the-forging-of-islam-part-1-glt9529602805/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/alidlegitimacy/"
     },
     "Alipay": {
       "episode_count": 2,
@@ -43255,6 +43301,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/concepts/earlyconfucianresistancepolitics/"
     },
+    "EarlyIslamicReligiousFormation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9529602805 [GLT9529602805].md",
+          "key": "376-baghdad-the-forging-of-islam-part-1-glt9529602805",
+          "show": "The Rest Is History",
+          "title": "376. Baghdad: The Forging of Islam (Part 1)",
+          "url": "/wiki/sources/376-baghdad-the-forging-of-islam-part-1-glt9529602805/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/earlyislamicreligiousformation/"
+    },
     "EarlyModernKnowledgeContinuum": {
       "episode_count": 1,
       "show_count": 1,
@@ -66142,9 +66204,9 @@
       "url": "/wiki/concepts/hackerhousestartupinfrastructure/"
     },
     "HadithAuthentication": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8529456010 [GLT8529456010].md",
@@ -66152,6 +66214,13 @@
           "show": "The Rest Is History",
           "title": "379. Baghdad: The Arabian Nights (Part 4)",
           "url": "/wiki/sources/379-baghdad-the-arabian-nights-part-4-glt8529456010/"
+        },
+        {
+          "episode_file": "GLT9529602805 [GLT9529602805].md",
+          "key": "376-baghdad-the-forging-of-islam-part-1-glt9529602805",
+          "show": "The Rest Is History",
+          "title": "376. Baghdad: The Forging of Islam (Part 1)",
+          "url": "/wiki/sources/376-baghdad-the-forging-of-islam-part-1-glt9529602805/"
         }
       ],
       "updated": "2026-09-27",
@@ -79232,9 +79301,9 @@
       "url": "/wiki/concepts/islamislamismconflation/"
     },
     "IslamicLegalScholarlyAuthority": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8529456010 [GLT8529456010].md",
@@ -79242,6 +79311,13 @@
           "show": "The Rest Is History",
           "title": "379. Baghdad: The Arabian Nights (Part 4)",
           "url": "/wiki/sources/379-baghdad-the-arabian-nights-part-4-glt8529456010/"
+        },
+        {
+          "episode_file": "GLT9529602805 [GLT9529602805].md",
+          "key": "376-baghdad-the-forging-of-islam-part-1-glt9529602805",
+          "show": "The Rest Is History",
+          "title": "376. Baghdad: The Forging of Islam (Part 1)",
+          "url": "/wiki/sources/376-baghdad-the-forging-of-islam-part-1-glt9529602805/"
         }
       ],
       "updated": "2026-09-27",
@@ -84885,6 +84961,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/keypersoninsurance/"
     },
+    "Kharijites": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9529602805 [GLT9529602805].md",
+          "key": "376-baghdad-the-forging-of-islam-part-1-glt9529602805",
+          "show": "The Rest Is History",
+          "title": "376. Baghdad: The Forging of Islam (Part 1)",
+          "url": "/wiki/sources/376-baghdad-the-forging-of-islam-part-1-glt9529602805/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/kharijites/"
+    },
     "KharosthiNiyaDocuments": {
       "episode_count": 1,
       "show_count": 1,
@@ -84900,6 +84992,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/kharosthiniyadocuments/"
+    },
+    "Khorasan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9529602805 [GLT9529602805].md",
+          "key": "376-baghdad-the-forging-of-islam-part-1-glt9529602805",
+          "show": "The Rest Is History",
+          "title": "376. Baghdad: The Forging of Islam (Part 1)",
+          "url": "/wiki/sources/376-baghdad-the-forging-of-islam-part-1-glt9529602805/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/khorasan/"
     },
     "KhotanKingGuangdeLateHan": {
       "episode_count": 3,
@@ -86130,6 +86238,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/kuanghengwesternhan/"
+    },
+    "Kufa": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9529602805 [GLT9529602805].md",
+          "key": "376-baghdad-the-forging-of-islam-part-1-glt9529602805",
+          "show": "The Rest Is History",
+          "title": "376. Baghdad: The Forging of Islam (Part 1)",
+          "url": "/wiki/sources/376-baghdad-the-forging-of-islam-part-1-glt9529602805/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/kufa/"
     },
     "KulaWand": {
       "episode_count": 1,
@@ -101550,6 +101674,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/mavisduanreporter/"
+    },
+    "MawaliConversionHierarchy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9529602805 [GLT9529602805].md",
+          "key": "376-baghdad-the-forging-of-islam-part-1-glt9529602805",
+          "show": "The Rest Is History",
+          "title": "376. Baghdad: The Forging of Islam (Part 1)",
+          "url": "/wiki/sources/376-baghdad-the-forging-of-islam-part-1-glt9529602805/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/mawaliconversionhierarchy/"
     },
     "MaxBennett": {
       "episode_count": 1,
@@ -149083,9 +149223,9 @@
       "url": "/wiki/entities/theprincipleofresponsibility/"
     },
     "TheRestIsHistory": {
-      "episode_count": 32,
+      "episode_count": 33,
       "show_count": 1,
-      "source_note_count": 32,
+      "source_note_count": 33,
       "sources": [
         {
           "episode_file": "GLT4665799025 [GLT4665799025].md",
@@ -149310,6 +149450,13 @@
           "show": "The Rest Is History",
           "title": "401. Windrush: The Story of Black Britain",
           "url": "/wiki/sources/401-windrush-the-story-of-black-britain-glt4826407019/"
+        },
+        {
+          "episode_file": "GLT9529602805 [GLT9529602805].md",
+          "key": "376-baghdad-the-forging-of-islam-part-1-glt9529602805",
+          "show": "The Rest Is History",
+          "title": "376. Baghdad: The Forging of Islam (Part 1)",
+          "url": "/wiki/sources/376-baghdad-the-forging-of-islam-part-1-glt9529602805/"
         }
       ],
       "updated": "2026-09-27",
@@ -153769,6 +153916,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/concepts/ultrasoundexampreparationandsafety/"
+    },
+    "UmayyadCaliphate": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9529602805 [GLT9529602805].md",
+          "key": "376-baghdad-the-forging-of-islam-part-1-glt9529602805",
+          "show": "The Rest Is History",
+          "title": "376. Baghdad: The Forging of Islam (Part 1)",
+          "url": "/wiki/sources/376-baghdad-the-forging-of-islam-part-1-glt9529602805/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/umayyadcaliphate/"
     },
     "UnapprovedMedicalAestheticProducts": {
       "episode_count": 2,

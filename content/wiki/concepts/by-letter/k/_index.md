@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "k"
-wiki_total_pages: 8432
+wiki_total_pages: 8436
 wiki_pages:
   - key: "K12ComputerScienceAccess"
     title: "K-12 Computer Science Access"
@@ -50,6 +50,9 @@ wiki_pages:
   - key: "KeywordCommunityArchitecture"
     title: "Keyword Community Architecture / 关键词社区架构"
     url: "/wiki/concepts/keywordcommunityarchitecture/"
+  - key: "Kharijites"
+    title: "Kharijites"
+    url: "/wiki/concepts/kharijites/"
   - key: "KickstarterDemandShock"
     title: "Kickstarter Demand Shock"
     url: "/wiki/concepts/kickstarterdemandshock/"

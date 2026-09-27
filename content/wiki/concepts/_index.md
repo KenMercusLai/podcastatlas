@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 8432
+wiki_total_pages: 8436
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1694,6 +1694,9 @@ wiki_pages:
   - key: "AlgorithmicTrustMigration"
     title: "Algorithmic Trust Migration"
     url: "/wiki/concepts/algorithmictrustmigration/"
+  - key: "AlidLegitimacy"
+    title: "Alid Legitimacy"
+    url: "/wiki/concepts/alidlegitimacy/"
   - key: "AlienAbductionNarrative"
     title: "Alien Abduction Narrative"
     url: "/wiki/concepts/alienabductionnarrative/"

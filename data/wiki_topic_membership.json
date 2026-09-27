@@ -1547,6 +1547,13 @@
       "url": "/topics/science/"
     }
   ],
+  "376-baghdad-the-forging-of-islam-part-1-glt9529602805": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "377-baghdad-crossroads-of-the-universe-part-2-glt9127243683": [
     {
       "key": "history",
@@ -25151,6 +25158,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "EarlyIslamicReligiousFormation": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "EarlyModernJapanEuropeContact": [
