@@ -8,6 +8,7 @@ sources:
   - how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733
   - how-to-increase-your-emotional-intelligence-dr-marc-brackett-scim6059113217
   - mental-health-toolkit-tools-to-bolster-your-mood-mental-health-scim1991900083
+  - how-to-understand-emotions-dr-lisa-feldman-barrett-scim3919749252
 knowledge_schema: synthesis-v1
 last_updated: 2026-09-27
 ---
@@ -26,9 +27,11 @@ The two Brackett episodes add the most practical vocabulary layer. In his accoun
 
 The solo toolkit adds a lightweight repetition practice: ask several times each day what is actually being felt and move beyond broad positive or negative labels. It also preserves an important asymmetry. More precision can enrich positive experience and improve regulation, but close attention to negative states can sometimes intensify awareness or slide into rumination, so frequency and fit matter.
 
+The Barrett interview adds a predictive-construction account of why precision changes action. Broad affect such as feeling bad or highly aroused leaves many causes and responses open; categorizing the state as anger, frustration, uncertainty, fatigue, or another narrower concept supplies a more specific action model. Granularity is therefore not merely finding the hidden correct word. It is constructing a useful, context-sensitive category from body signals, prior experience, language, and the current situation.
+
 ## Key Claims
 - Granularity turns emotion from a diffuse takeover into a more inspectable state.
-- Language and precise labels can help regulation, but a usable concept matters more than a perfect term.
+- Language and precise labels can help regulation, but a usable, context-sensitive concept matters more than discovering one perfect hidden term.
 - Fine-grained differentiation supports early intervention before the emotion fully controls behavior.
 - Emotional granularity depends on monitoring rather than denying emotion, but repeated check-ins should not become rumination or distress-amplifying surveillance.
 - Bodily and aesthetic practices can support emotional granularity by refining contact with ambiguous experience.
@@ -46,13 +49,14 @@ The solo toolkit adds a lightweight repetition practice: ask several times each 
 - Cause-sensitive distinctions - [[how-to-increase-your-emotional-intelligence-dr-marc-brackett-scim6059113217]] distinguishes disappointment from anger, stress from anxiety, envy from admiration, and happiness from contentment to connect labels with causes and strategies.
 - Behavior-reading limit - [[how-to-increase-your-emotional-intelligence-dr-marc-brackett-scim6059113217]] warns that stomping can reflect sadness, shame, fear, anger, or bullying rather than one obvious state.
 - Repeated check-in practice - [[mental-health-toolkit-tools-to-bolster-your-mood-mental-health-scim1991900083]] recommends several daily emotion checks using language more precise than good or bad and notes that specificity can enrich or intensify experience.
+- Predictive category refinement - [[how-to-understand-emotions-dr-lisa-feldman-barrett-scim3919749252]] moves from coarse affect such as "bad" toward anger, frustration, or uncertainty and argues that narrower categories make different actions available.
 
 ## Counterevidence & Qualifications
-The sources do not provide a complete validated training protocol or outcome measure for improving granularity. Portal's depression and bodily-resolution claims remain source-scoped and should not be treated as mental-health treatment. Brackett's vocabulary examples are practical distinctions from public conversations, not a complete taxonomy of affect, and a label does not by itself prove cause. Frequent check-ins may become rumination or excessive monitoring. The concept remains a practical and theoretical frame rather than a standalone treatment.
+The sources do not provide a complete validated training protocol or outcome measure for improving granularity. Portal's depression and bodily-resolution claims remain source-scoped and should not be treated as mental-health treatment. Brackett's vocabulary examples are practical distinctions from public conversations, not a complete taxonomy of affect, and Barrett's account does not imply that relabeling is unconstrained or can override illness, danger, or social reality. A label does not by itself prove cause. Frequent check-ins may become rumination or excessive monitoring. The concept remains a practical and theoretical frame rather than a standalone treatment.
 
 ## What Changed
-- Added repeated daily emotional check-ins as a lightweight granularity practice.
-- Made explicit that finer attention can intensify negative experience as well as improve regulation.
+- Added Barrett's account of granularity as context-sensitive predictive categorization that changes available action.
+- Clarified that precise labeling is not the discovery of one fixed biological essence.
 
 ## Related Concepts
 - [[EmotionRegulationToolkit]] - broader toolset that emotional granularity supports.
@@ -65,3 +69,5 @@ The sources do not provide a complete validated training protocol or outcome mea
 - [[RULERFramework]] - emotional-intelligence model where labeling connects recognition to expression and regulation.
 - [[MoodMeterEmotionalCheckIn]] - broad pleasantness-and-energy map that can precede finer differentiation.
 - [[ReflectiveSelfExploration]] - adjacent self-observation practice using narrative, dreams, and writing.
+- [[TheoryOfConstructedEmotion]] - predictive categorization theory explaining why emotion concepts remain variable and action-relevant.
+- [[AllostaticBodyBudget]] - affective substrate that can be categorized at different levels of precision.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 8422
+wiki_total_pages: 8424
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -380,6 +380,9 @@ wiki_pages:
   - key: "TheoryOfConstraintsPersonalWorkflow"
     title: "Theory of Constraints for Personal Workflow"
     url: "/wiki/concepts/theoryofconstraintspersonalworkflow/"
+  - key: "TheoryOfConstructedEmotion"
+    title: "Theory of Constructed Emotion"
+    url: "/wiki/concepts/theoryofconstructedemotion/"
   - key: "TherapeuticDefenseWork"
     title: "Therapeutic Defense Work / 治疗中的防御工作"
     url: "/wiki/concepts/therapeuticdefensework/"

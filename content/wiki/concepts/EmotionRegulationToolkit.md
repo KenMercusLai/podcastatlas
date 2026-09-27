@@ -10,8 +10,9 @@ sources:
   - neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716
   - how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733
   - how-to-increase-your-emotional-intelligence-dr-marc-brackett-scim6059113217
+  - how-to-understand-emotions-dr-lisa-feldman-barrett-scim3919749252
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-23
+last_updated: 2026-09-27
 ---
 
 # Emotion Regulation Toolkit / 情绪调节工具箱
@@ -29,6 +30,8 @@ The Adolphs episode adds the neuroscience frame: emotions are functional states 
 The Brackett episodes make the toolkit more operational and social. Regulation is defined as using emotions wisely to achieve goals, which means matching strategy to emotion, person, and context rather than pursuing permanent calm. [[RULERFramework]], PRIME, [[MetaMoment]], [[MoodMeterEmotionalCheckIn]], precise labels, strategic vulnerability, and co-regulation all push the page toward a goal-and-language model: feel the emotion, name it accurately, understand its likely cause, decide whether and how to express it, then choose an action that helps rather than harms relationships, performance, and values.
 
 The earlier Brackett interview adds a useful non-fixing boundary. Unpleasant emotion is not automatically bad, and state-task fit matters: energetic pleasant states may aid brainstorming, calm states may aid consensus, and lower-energy unpleasant states may sometimes aid detail work. When regulation is needed, the source adds direct conversation and psychological distancing alongside reappraisal, breathing, walking away, and perspective-taking.
+
+The Barrett interview adds a body-first and uncertainty-sensitive branch. A coarse unpleasant or activated state may reflect sleep loss, hunger, illness, inactivity, substances, uncertainty, or relational strain before it becomes a specific emotional story. Regulation can therefore begin by checking bodily conditions, adding dimensionality through attention, recategorizing arousal in context, or choosing to feel informative discomfort rather than reflexively suppressing it. This extends the non-fixing boundary while preserving the rule that bodily explanations must not dismiss real danger, abuse, grief, or illness.
 
 ## Key Claims
 - Regulation begins by making the emotional state visible enough that it does not automatically decide behavior, then matching strategy to goals and context.
@@ -48,14 +51,15 @@ The earlier Brackett interview adds a useful non-fixing boundary. Unpleasant emo
 - Deliberate response practice - [[how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733]] explains [[MetaMoment]] as a pause, breath, best-self prompt, and response-choice practice.
 - Non-fixing and distancing frame - [[how-to-increase-your-emotional-intelligence-dr-marc-brackett-scim6059113217]] says not every feeling needs fixing and adds hot-air-balloon, picture-frame, movie, next-week, walking-away, breathing, and reappraisal strategies.
 - Emotion-task fit - [[how-to-increase-your-emotional-intelligence-dr-marc-brackett-scim6059113217]] argues that different energy and pleasantness states can support brainstorming, consensus, or detail work.
+- Body-first and recategorization branch - [[how-to-understand-emotions-dr-lisa-feldman-barrett-scim3919749252]] connects regulation to sleep, food, movement, substances, bodily attention, uncertainty reframing, precise categories, and the choice to use or change discomfort.
 - Boundary conditions - [[ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx]] distinguishes ordinary support from crisis and therapy boundaries, while [[neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716]] warns that reappraisal can become rumination and that several practice claims are anecdotal or under-tested.
 
 ## Counterevidence & Qualifications
-The toolkit is not a substitute for professional care in severe distress or acute safety risk. Response choice should not be turned into victim-blaming after betrayal, coercion, abuse, or bullying. The Adolphs source also keeps cold exposure, ultrarunning, solitude, and meditation effects source-scoped rather than universal. The Brackett sources present school, leadership, RULER, phone-use, suppression, distancing, and adolescent AI-use claims in broad public conversations, so those claims remain source-scoped unless later evidence deepens them.
+The toolkit is not a substitute for professional care in severe distress or acute safety risk. Response choice and body-state checking should not be turned into victim-blaming or dismissal after betrayal, coercion, abuse, bullying, grief, or illness. The Adolphs source keeps cold exposure, ultrarunning, solitude, and meditation effects source-scoped rather than universal. The Brackett sources present school, leadership, RULER, phone-use, suppression, distancing, and adolescent AI-use claims in broad public conversations. Barrett's depression, medication, synchrony, and body-budget claims likewise remain source-scoped rather than complete clinical guidance.
 
 ## What Changed
-- Added the non-fixing boundary, emotion-task fit, Mood Meter, and psychological-distancing strategies.
-- Extended the safety boundary to bullying and kept conversational research claims source-scoped.
+- Added body-state checking, uncertainty recategorization, dimensional attention, and informative-discomfort tolerance.
+- Clarified that bodily explanations must not erase social reality or clinical boundaries.
 
 ## Related Concepts
 - [[EmotionalGranularity]] - self-monitoring skill that makes regulation more precise.
@@ -69,3 +73,5 @@ The toolkit is not a substitute for professional care in severe distress or acut
 - [[MetaMoment]] - values-oriented pause-and-response practice inside the toolkit.
 - [[MoodMeterEmotionalCheckIn]] - broad check-in that separates noticing a state from deciding whether to change it.
 - [[EmotionMentorship]] - relational support that combines permission to feel with movement toward strategy.
+- [[AllostaticBodyBudget]] - bodily-foundations layer for affect before complex regulation tools.
+- [[TheoryOfConstructedEmotion]] - predictive categorization account behind flexible relabeling and action choice.

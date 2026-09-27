@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 11027
+wiki_total_pages: 11028
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -497,6 +497,9 @@ wiki_pages:
   - key: "LisaCook"
     title: "Lisa Cook"
     url: "/wiki/entities/lisacook/"
+  - key: "LisaFeldmanBarrett"
+    title: "Lisa Feldman Barrett"
+    url: "/wiki/entities/lisafeldmanbarrett/"
   - key: "LisaGherardini"
     title: "Lisa Gherardini"
     url: "/wiki/entities/lisagherardini/"

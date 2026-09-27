@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Understand Emotions | Dr. Lisa Feldman Barrett](sources/how-to-understand-emotions-dr-lisa-feldman-barrett-scim3919749252.md) — Huberman Lab interview on constructed emotion, contextual face inference, affect, emotional granularity, predictive allostasis, body budgeting, and flexible regulation.
 - [VOL.79生殖医学科男科｜取精室里不能说的秘密 辅助生殖知多少](sources/vol-79-shengzhi-yixueke-nanke-qujingshi-li-buneng-shuo-de-mimi-fuzhu-shengzhi-zhi-duoshao-lp8ztob7icudu2x06tqc0dh_zhdk.md) — 这病说来话长 episode on semen-sample collection quality, male fertility assessment, azoospermia pathways, assisted-reproduction timing, prostate findings, cycling exposure, and sexual-function anxiety.
 - [379. Baghdad: The Arabian Nights (Part 4)](sources/379-baghdad-the-arabian-nights-part-4-glt8529456010.md) — The Rest Is History episode on Abbasid legal authority, hadith criticism, Baghdad's translation movement, the House of Wisdom, and the layered transmission and urban imagination of the Arabian Nights.
 - [380. Captain Cook: History’s Greatest Explorer (Part 1)](sources/380-captain-cook-historys-greatest-explorer-part-1-glt8106697435.md) — The Rest Is History episode on Cook's survey formation, the transit-of-Venus mission, Banks's scientific party, Endeavour logistics, crew health, and the voyage's concealed imperial purpose.
@@ -5573,6 +5574,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Seema Sanghavi](entities/SeemaSanghavi.md) — Cooks Who Feed founder-caller focused on convincing B2B buyers to switch vendors.
 - [Huberman Lab](entities/HubermanLab.md) — Show context for health, neuroscience, psychology, sensory biology, endocrine metabolism, sleep-wake timing, exercise, nutrition, AI, relationships, and clinically bounded self-regulation tools.
 - [Andrew Huberman](entities/AndrewHuberman.md) — Host using interviews, solo Essentials episodes, and Q&A to connect biological, endocrine, and sensory mechanisms with adaptable routines, health decisions, and explicit safety boundaries.
+- [Lisa Feldman Barrett](entities/LisaFeldmanBarrett.md) — Psychologist and neuroscientist explaining constructed emotion, affect, contextual face inference, granularity, and predictive bodily regulation.
 - [Abud Bakri](entities/AbudBakri.md) — Internal medicine physician and Huberman Lab guest explaining peptide evidence hierarchy, sourcing quality, clinical oversight, GLP-1 maturity, and experimental peptide caution.
 - [Andy Stumpf](entities/AndyStumpf.md) — Huberman Lab guest and Drownproof author connecting concern/influence sorting, small daily discipline, wingsuit risk, vulnerability, and defining enough.
 - [Drownproof](entities/Drownproof.md) — Andy Stumpf book discussed as a practical source for agency, adversity, discipline, vulnerability, and success-boundary tools.
@@ -16312,6 +16314,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Amygdala Fear Dissociation](concepts/AmygdalaFearDissociation.md) — Lesson that amygdala importance varies across fear perception, external-threat fear, and internal panic.
 - [Social Emotion Inference Limits](concepts/SocialEmotionInferenceLimits.md) — Limits of reading emotion from faces, labels, dynamic cues, text, and prediction mismatches.
 - [Brain-Body Emotion Mapping](concepts/BrainBodyEmotionMapping.md) — Attempt to connect emotional states to distributed brain activity, body signals, interoception, and felt-body concepts.
+- [Theory of Constructed Emotion](concepts/TheoryOfConstructedEmotion.md) — Predictive account in which learned concepts, bodily signals, language, culture, and context construct variable emotion instances.
+- [Allostatic Body Budget](concepts/AllostaticBodyBudget.md) — Metaphor for predictive bodily-resource regulation and affect as a coarse summary of current and anticipated demands.
 - [Emotion Attentional Capture](concepts/EmotionAttentionalCapture.md) — Functional property by which emotional states take priority over ongoing behavior and attention.
 - [Task Switching Residue](concepts/TaskSwitchingResidue.md) — Leftover cognitive and emotional state from a prior activity that raises switching costs.
 - [Lumbar Disc Herniation / 腰椎间盘突出](concepts/LumbarDiscHerniation.md) — Spine condition explained through disc morphology, nerve or dural irritation, imaging limits, symptom severity, treatment thresholds, and recurrence prevention.

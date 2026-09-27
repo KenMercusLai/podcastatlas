@@ -9036,6 +9036,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "AllostaticBodyBudget": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "AllusiveRemonstrance": [
     {
       "key": "history",
@@ -73557,6 +73564,18 @@
       "url": "/topics/economics/"
     }
   ],
+  "TheoryOfConstructedEmotion": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "TherapeuticDefenseWork": [
     {
       "key": "science",
@@ -87618,6 +87637,13 @@
     }
   ],
   "how-to-overcome-social-anxiety-dr-nick-epley-scim7834121132": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "how-to-understand-emotions-dr-lisa-feldman-barrett-scim3919749252": [
     {
       "key": "science",
       "label": "Science",

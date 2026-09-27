@@ -23725,3 +23725,11 @@ Added source `379-baghdad-the-arabian-nights-part-4-glt8529456010`; created `Bag
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | How to Understand Emotions | Dr. Lisa Feldman Barrett
+
+Added source `how-to-understand-emotions-dr-lisa-feldman-barrett-scim3919749252`; created `LisaFeldmanBarrett`, `TheoryOfConstructedEmotion`, and `AllostaticBodyBudget`; and updated `EmotionalGranularity`, `EmotionsAsFunctionalControlStates`, `BrainBodyEmotionMapping`, `SocialEmotionInferenceLimits`, `EmotionRegulationToolkit`, and the canonical index from their complete bounded source sets. Core synthesis: emotion categories are real but need not be fixed biological packages; the brain predicts and categorizes bodily and sensory signals through prior experience, language, culture, context, and action needs, while affect and allostatic regulation create a body-state substrate that can be checked before every unpleasant feeling becomes a settled story about the world. No settled contradiction found. Universal-expression review claims, scowl estimates, cross-cultural findings, depression and medication remarks, synchrony research, and clinical implications remain source-scoped public education rather than individualized mental-health or medical guidance. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

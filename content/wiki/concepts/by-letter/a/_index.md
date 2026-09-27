@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 8422
+wiki_total_pages: 8424
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1727,6 +1727,9 @@ wiki_pages:
   - key: "AllogeneicCART"
     title: "Allogeneic CAR-T"
     url: "/wiki/concepts/allogeneiccart/"
+  - key: "AllostaticBodyBudget"
+    title: "Allostatic Body Budget"
+    url: "/wiki/concepts/allostaticbodybudget/"
   - key: "AllusiveRemonstrance"
     title: "Allusive Remonstrance / 隐语进谏"
     url: "/wiki/concepts/allusiveremonstrance/"

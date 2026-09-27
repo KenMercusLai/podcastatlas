@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1253
+topic_total_pages: 1256
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -100,6 +100,9 @@ topic_concepts:
   - key: "AllergyMedicationBoundary"
     title: "Allergy Medication Boundary / 过敏用药边界"
     url: "/wiki/concepts/allergymedicationboundary/"
+  - key: "AllostaticBodyBudget"
+    title: "Allostatic Body Budget"
+    url: "/wiki/concepts/allostaticbodybudget/"
   - key: "AmygdalaFearDissociation"
     title: "Amygdala Fear Dissociation"
     url: "/wiki/concepts/amygdalafeardissociation/"
@@ -2017,6 +2020,9 @@ topic_concepts:
   - key: "TemperatureMinimumClockShifting"
     title: "Temperature Minimum Clock Shifting"
     url: "/wiki/concepts/temperatureminimumclockshifting/"
+  - key: "TheoryOfConstructedEmotion"
+    title: "Theory of Constructed Emotion"
+    url: "/wiki/concepts/theoryofconstructedemotion/"
   - key: "TherapeuticDefenseWork"
     title: "Therapeutic Defense Work / 治疗中的防御工作"
     url: "/wiki/concepts/therapeuticdefensework/"
@@ -3576,6 +3582,9 @@ topic_sources:
   - key: "how-to-overcome-social-anxiety-dr-nick-epley-scim7834121132"
     title: "How to Overcome Social Anxiety | Dr. Nick Epley"
     url: "/wiki/sources/how-to-overcome-social-anxiety-dr-nick-epley-scim7834121132/"
+  - key: "how-to-understand-emotions-dr-lisa-feldman-barrett-scim3919749252"
+    title: "How to Understand Emotions | Dr. Lisa Feldman Barrett"
+    url: "/wiki/sources/how-to-understand-emotions-dr-lisa-feldman-barrett-scim3919749252/"
   - key: "how-to-unlock-your-potential-motivation-unique-abilities-dr-adam-grant-scim2670765142"
     title: "How to Unlock Your Potential, Motivation & Unique Abilities | Dr. Adam Grant"
     url: "/wiki/sources/how-to-unlock-your-potential-motivation-unique-abilities-dr-adam-grant-scim2670765142/"

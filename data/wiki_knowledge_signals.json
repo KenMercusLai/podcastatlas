@@ -7768,6 +7768,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/concepts/alliancecontingencyhedging/"
     },
+    "AllostaticBodyBudget": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3919749252 [SCIM3919749252].md",
+          "key": "how-to-understand-emotions-dr-lisa-feldman-barrett-scim3919749252",
+          "show": "Huberman Lab",
+          "title": "How to Understand Emotions | Dr. Lisa Feldman Barrett",
+          "url": "/wiki/sources/how-to-understand-emotions-dr-lisa-feldman-barrett-scim3919749252/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/allostaticbodybudget/"
+    },
     "AllusiveRemonstrance": {
       "episode_count": 4,
       "show_count": 1,
@@ -18241,9 +18257,9 @@
       "url": "/wiki/entities/bradgerstner/"
     },
     "BrainBodyEmotionMapping": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM1222961716 [SCIM1222961716].md",
@@ -18258,9 +18274,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: The Biology of Aggression, Mating & Arousal | Dr. David Anderson",
           "url": "/wiki/sources/essentials-the-biology-of-aggression-mating-arousal-dr-david-anderson-scim8499505944/"
+        },
+        {
+          "episode_file": "SCIM3919749252 [SCIM3919749252].md",
+          "key": "how-to-understand-emotions-dr-lisa-feldman-barrett-scim3919749252",
+          "show": "Huberman Lab",
+          "title": "How to Understand Emotions | Dr. Lisa Feldman Barrett",
+          "url": "/wiki/sources/how-to-understand-emotions-dr-lisa-feldman-barrett-scim3919749252/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/brainbodyemotionmapping/"
     },
     "BrainHQ": {
@@ -45012,9 +45035,9 @@
       "url": "/wiki/concepts/emotionmentorship/"
     },
     "EmotionRegulationToolkit": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 3,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》901 丨急性子的人会是什么下场？ [lh1yfyJZqPTXVtnV9tAiQms9YjUd].md",
@@ -45064,9 +45087,16 @@
           "show": "Huberman Lab",
           "title": "How to Increase Your Emotional Intelligence | Dr. Marc Brackett",
           "url": "/wiki/sources/how-to-increase-your-emotional-intelligence-dr-marc-brackett-scim6059113217/"
+        },
+        {
+          "episode_file": "SCIM3919749252 [SCIM3919749252].md",
+          "key": "how-to-understand-emotions-dr-lisa-feldman-barrett-scim3919749252",
+          "show": "Huberman Lab",
+          "title": "How to Understand Emotions | Dr. Lisa Feldman Barrett",
+          "url": "/wiki/sources/how-to-understand-emotions-dr-lisa-feldman-barrett-scim3919749252/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/emotionregulationtoolkit/"
     },
     "EmotionalCoRegulationFit": {
@@ -45153,9 +45183,9 @@
       "url": "/wiki/concepts/emotionalflashbackgrounding/"
     },
     "EmotionalGranularity": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM1222961716 [SCIM1222961716].md",
@@ -45191,6 +45221,13 @@
           "show": "Huberman Lab",
           "title": "Mental Health Toolkit: Tools to Bolster Your Mood & Mental Health",
           "url": "/wiki/sources/mental-health-toolkit-tools-to-bolster-your-mood-mental-health-scim1991900083/"
+        },
+        {
+          "episode_file": "SCIM3919749252 [SCIM3919749252].md",
+          "key": "how-to-understand-emotions-dr-lisa-feldman-barrett-scim3919749252",
+          "show": "Huberman Lab",
+          "title": "How to Understand Emotions | Dr. Lisa Feldman Barrett",
+          "url": "/wiki/sources/how-to-understand-emotions-dr-lisa-feldman-barrett-scim3919749252/"
         }
       ],
       "updated": "2026-09-27",
@@ -45282,9 +45319,9 @@
       "url": "/wiki/concepts/emotionalweatherforecast/"
     },
     "EmotionsAsFunctionalControlStates": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM1222961716 [SCIM1222961716].md",
@@ -45306,9 +45343,16 @@
           "show": "Huberman Lab",
           "title": "Cultivating Awe & Emotional Connection in Daily Life | Dr. Dacher Keltner",
           "url": "/wiki/sources/cultivating-awe-emotional-connection-in-daily-life-dr-dacher-keltner-scim6985403733/"
+        },
+        {
+          "episode_file": "SCIM3919749252 [SCIM3919749252].md",
+          "key": "how-to-understand-emotions-dr-lisa-feldman-barrett-scim3919749252",
+          "show": "Huberman Lab",
+          "title": "How to Understand Emotions | Dr. Lisa Feldman Barrett",
+          "url": "/wiki/sources/how-to-understand-emotions-dr-lisa-feldman-barrett-scim3919749252/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/emotionsasfunctionalcontrolstates/"
     },
     "EmpathyCircleExpansion": {
@@ -90916,6 +90960,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/concepts/liquiditydrivenvolatilitycascade/"
+    },
+    "LisaFeldmanBarrett": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3919749252 [SCIM3919749252].md",
+          "key": "how-to-understand-emotions-dr-lisa-feldman-barrett-scim3919749252",
+          "show": "Huberman Lab",
+          "title": "How to Understand Emotions | Dr. Lisa Feldman Barrett",
+          "url": "/wiki/sources/how-to-understand-emotions-dr-lisa-feldman-barrett-scim3919749252/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/lisafeldmanbarrett/"
     },
     "LisaGherardini": {
       "episode_count": 1,
@@ -139206,9 +139266,9 @@
       "url": "/wiki/concepts/socialembarrassmentfear/"
     },
     "SocialEmotionInferenceLimits": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1222961716 [SCIM1222961716].md",
@@ -139216,9 +139276,16 @@
           "show": "Huberman Lab",
           "title": "Neuroscience of Emotions & Tools for Improving Emotion Regulation | Dr. Ralph Adolphs",
           "url": "/wiki/sources/neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716/"
+        },
+        {
+          "episode_file": "SCIM3919749252 [SCIM3919749252].md",
+          "key": "how-to-understand-emotions-dr-lisa-feldman-barrett-scim3919749252",
+          "show": "Huberman Lab",
+          "title": "How to Understand Emotions | Dr. Lisa Feldman Barrett",
+          "url": "/wiki/sources/how-to-understand-emotions-dr-lisa-feldman-barrett-scim3919749252/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/socialemotioninferencelimits/"
     },
     "SocialHistoryCaseFraming": {
@@ -149255,6 +149322,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/theoryofconstraintspersonalworkflow/"
+    },
+    "TheoryOfConstructedEmotion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3919749252 [SCIM3919749252].md",
+          "key": "how-to-understand-emotions-dr-lisa-feldman-barrett-scim3919749252",
+          "show": "Huberman Lab",
+          "title": "How to Understand Emotions | Dr. Lisa Feldman Barrett",
+          "url": "/wiki/sources/how-to-understand-emotions-dr-lisa-feldman-barrett-scim3919749252/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/theoryofconstructedemotion/"
     },
     "TherapeuticDefenseWork": {
       "episode_count": 1,
