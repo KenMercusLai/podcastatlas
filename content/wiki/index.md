@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.73精神科｜少年儿童的心理健康关乎我们社会未来的健康](sources/vol-73-jingshenke-shaonian-ertong-de-xinli-jiankang-guanhu-women-shehui-weilai-de-jiankang-lmyhvu50qll_zy9dxkqggwxi0tyn.md) — 这病说来话长 episode on multidomain youth-distress signals, family-systems interpretation, school-caregiver-clinician coordination, and authentic regulated parenting.
 - [368. The History Behind Hogwarts: Ancient Schools and Revolting Students](sources/368-the-history-behind-hogwarts-ancient-schools-and-revolting-students-glt6783238013.md) — The Rest Is History episode on charitable and elite public-school origins, pupil violence and rebellion, moral reform, and Hogwarts's debt to the school-story tradition.
 - [VOL.74口腔科｜咖啡红酒茶上色三件套？牙齿美白选哪种？三甲主任帮你避坑](sources/vol-74-kouqiangke-kafei-hongjiu-cha-shangse-sanjian-ta-yachi-meibai-xuan-nazhong-sanjia-zhuren-bang-ni-bikeng-lup1n6wlhmeceqidmllkafzw8w9c.md) — 这病说来话长 episode separating natural tooth color, surface stain, intrinsic discoloration, bleaching, and restorative treatment while keeping basic oral health ahead of cosmetic whitening.
 - [How to Use Music to Boost Motivation, Mood & Improve Learning](sources/how-to-use-music-to-boost-motivation-mood-improve-learning-scim9662829681.md) — Huberman Lab solo episode on music as embodied neural input, task-timed motivation and focus, autonomic entrainment, emotion regulation, and music-practice plasticity.

@@ -23916,3 +23916,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | VOL.73精神科｜少年儿童的心理健康关乎我们社会未来的健康
+
+Added source `vol-73-jingshenke-shaonian-ertong-de-xinli-jiankang-guanhu-women-shehui-weilai-de-jiankang-lmyhvu50qll_zy9dxkqggwxi0tyn`; updated `ChildMentalHealthFamilySystemsSupport`, `AdolescentSchoolRefusalMentalHealth`, `ParentingSturdiness`, and the canonical index from their complete bounded source sets. Core synthesis: school refusal and falling grades are more useful as distress signals when read beside longitudinal changes in mood, sleep, eating, body complaints, personality, and relationships; the child may reveal strain across family, school, peer, community, and care systems without proving that the child or one parent is solely at fault; and authentic parenting joins regulated emotion, continued love, truthful feedback, emotional support, and non-coercive practical advice. No settled contradiction found. Peer comparison, index-patient, adversity-quotient, somatic, existential-crisis, and treatment-role claims remain source-scoped public education rather than diagnosis or individualized guidance. The guest is identified only as 崔老师, and the automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

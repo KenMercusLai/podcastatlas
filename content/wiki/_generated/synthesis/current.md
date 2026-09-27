@@ -3,12 +3,12 @@
 schema_version: 1
 generated: true
 synthesis_source: compact
-last_updated: 2026-09-27
-as_of_overview_commit: d699bdf8032886e2b08e5db4363c3e7f4bf1db64
+last_updated: 2026-09-28
+as_of_overview_commit: 031e6a36556f5bbe46f04587a3f339560c1ad02e
 summary: "Across domains, durable progress depends on evidence, context, human judgment, bounded authority, practical capacity, adaptable routines, and feedback."
-episode_count: 2981
-source_count: 2981
-paragraph_count: 762
+episode_count: 2991
+source_count: 2991
+paragraph_count: 763
 topic_count: 9
 ---
 
@@ -21,7 +21,7 @@ topic_count: 9
 - Cultural form is an interpretive infrastructure: [[MuseumInterpretationLegibility]], [[PlaceBasedExhibitionCuration]], [[AncientChineseBookMateriality]], [[BookPublishingEconomics]], and [[PhysicalBookDesignTradeoff]] show that objects, books, and exhibitions need labels, material form, production choices, and local context before audiences can understand them.
 - [[efforts-challenges-in-promoting-public-health-us-surgeon-general-dr-vivek-murthy-scim4553126123|The Murthy interview]] adds a governance claim: [[PublicHealthTrustCommunication]] depends on independent priority setting, explicit knowns and unknowns, reasons for revisable guidance, and locally trusted messengers, while [[FoodSystemNutritionResponsibility]], [[IntegratedCareFragmentation]], and [[SocialMediaDesignRegulation]] show why prevention capacity and accountability extend beyond individual choice.
 - [[391-the-fall-of-the-aztecs-the-last-emperor-part-8-glt2984940365|The Fall of the Aztecs finale]] treats the [[SpanishConquestOfMexico|Spanish conquest of Mexico]] as a long, uneven transformation rather than a completed 1521 event: coalition politics, [[ColonialLegalAdaptation|legal legitimation and Indigenous claims]], labor, urban rebuilding, religion, and the [[ColumbianExchange]] extended battlefield defeat, while [[HistoricalCatastropheNarrativeEthics]] preserves constrained Indigenous agency and dramatic contingency without minimizing torture, exploitation, dispossession, or demographic catastrophe.
-- [[MentalHealthStructureFunctionMap]] joins [[ReflectiveSelfExploration]] and [[CompassionateCuriosity]] to a choice test: life narrative, writing, trusted conversation, therapy, meditation, grounding, and examination of automatic patterns are useful when they produce clearer understanding and [[IntentionalLivingAgency]], while [[GenerativeDrive]] remains a positive outcome rather than a productivity mandate.
+- [[LifeTaskDiscovery]] and [[PurposeIntegratedMotivation]] frame direction as a test of recurring inclination, engagement, contribution, and adult experimentation; [[PowerLiteracy]], [[EmbodiedSocialPerception]], and [[CharacterBasedRomanticCompatibility]] place social judgment on influence, demonstrated values, cue clusters, and conduct across contexts, while [[EffortfulThinkingInTheAIAge]] and [[MortalityBoundedMeaning]] preserve effort and finite-time urgency without turning struggle, crisis, or intuition into universal prescriptions.
 - [[efforts-challenges-in-promoting-public-health-us-surgeon-general-dr-vivek-murthy-scim4553126123|The Murthy interview]] adds a health-systems claim: prevention joins evidence communication with sleep, nutrition, activity, relationships, food access, coordinated care, child-safe platform design, and [[EverydaySocialConnection]], while [[LonelinessPublicHealthRisk]] and [[IntegratedCareFragmentation]] keep population association, individual care, and institutional responsibility distinct.
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough.
 
@@ -68,7 +68,7 @@ Historical outcomes emerge from routes, logistics, state capacity, coalitions, l
 
 ### Psychology and Personal Development
 
-Personal change depends on bounded self-inquiry, contextual relationship evidence, embodied regulation, practical choice, and honest clinical-care limits.
+Personal change depends on bounded self-inquiry, contextual relationship and family-system evidence, embodied regulation, practical choice, and honest care limits.
 
 - [[LifeTaskDiscovery]] and [[PurposeIntegratedMotivation]] frame direction as a test of recurring inclination, engagement, contribution, and adult experimentation; [[PowerLiteracy]], [[EmbodiedSocialPerception]], and [[CharacterBasedRomanticCompatibility]] place social judgment on influence, demonstrated values, cue clusters, and conduct across contexts, while [[EffortfulThinkingInTheAIAge]] and [[MortalityBoundedMeaning]] preserve effort and finite-time urgency without turning struggle, crisis, or intuition into universal prescriptions. Evidence: [[a-process-for-finding-achieving-your-unique-purpose-robert-greene-scim1811421687]], [[RobertGreene]], [[LifeTaskDiscovery]], [[PurposeIntegratedMotivation]], [[PowerLiteracy]], [[EmbodiedSocialPerception]], [[CharacterBasedRomanticCompatibility]], [[EffortfulThinkingInTheAIAge]], [[MortalityBoundedMeaning]].
 - [[ColemanRuiz]] adds a first-person case to [[CompetenceStatusMentalHealthBlindSpot]]: discipline, fear, toughness, and team belonging can sustain elite performance while grief and distress accumulate; [[HeroReturnWithBoon]] and [[PositiveMasculinityCode]] then frame recovery as reintegration through trusted support, professional care, ordinary routines, vulnerability, and a wider range of strength. Evidence: [[overcoming-physical-emotional-challenges-coleman-ruiz-scim6632700547]], [[ColemanRuiz]], [[CompetenceStatusMentalHealthBlindSpot]], [[HeroReturnWithBoon]], [[PositiveMasculinityCode]].
@@ -82,7 +82,7 @@ Scientific and public-health claims require mechanisms, outcomes, uncertainty, c
 
 ### Work, Education, and Society
 
-Learning and social capacity depend on active effort, feedback, fair role design, practical routines, trusted relationships, accessible support, and context-sensitive tools.
+Learning and social capacity depend on active effort, feedback, fair role design, practical routines, trusted relationships, coordinated support, and context-sensitive tools.
 
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough. Evidence: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], [[LearningExperienceDesign]].
 - AI and product/work sources repeatedly show that capability becomes useful only when embedded in [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]], workflows, distribution, and customer or classroom context. Evidence: [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].

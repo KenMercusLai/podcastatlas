@@ -5488,9 +5488,9 @@
       "url": "/wiki/concepts/adolescentriskcommunication/"
     },
     "AdolescentSchoolRefusalMentalHealth": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lpDsK96aKpwtCcxyeSjdGTW8SKBN [lpDsK96aKpwtCcxyeSjdGTW8SKBN].md",
@@ -5498,9 +5498,16 @@
           "show": "史蒂夫说",
           "title": "史蒂夫说466期 - 姜涛 - 5万精神科医生对1亿精神疾病患者",
           "url": "/wiki/sources/shi-di-fu-shuo-466-jiangtao-5wan-jingshenke-yisheng-dui-1yi-jingshen-jibing-huanzhe-lpdsk96akpwtccxyesjdgtw8skbn/"
+        },
+        {
+          "episode_file": "lmyHVu50qll_ZY9dxkQggWXI0tYN [lmyHVu50qll_ZY9dxkQggWXI0tYN].md",
+          "key": "vol-73-jingshenke-shaonian-ertong-de-xinli-jiankang-guanhu-women-shehui-weilai-de-jiankang-lmyhvu50qll_zy9dxkqggwxi0tyn",
+          "show": "这病说来话长",
+          "title": "VOL.73精神科｜少年儿童的心理健康关乎我们社会未来的健康",
+          "url": "/wiki/sources/vol-73-jingshenke-shaonian-ertong-de-xinli-jiankang-guanhu-women-shehui-weilai-de-jiankang-lmyhvu50qll_zy9dxkqggwxi0tyn/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/adolescentschoolrefusalmentalhealth/"
     },
     "AdolfEichmann": {
@@ -26413,9 +26420,9 @@
       "url": "/wiki/concepts/childcommunicationdevelopmentsignals/"
     },
     "ChildMentalHealthFamilySystemsSupport": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "ljLYg0KUQvUJ2R89K6O5HHUeFJt9 [ljLYg0KUQvUJ2R89K6O5HHUeFJt9].md",
@@ -26430,9 +26437,16 @@
           "show": "这病说来话长",
           "title": "VOL.108精神心理科｜你只是误会了你的高光时刻 多动症不等于聪明 ADHD需不需要治是个问题",
           "url": "/wiki/sources/lvfirgzbmtwypcjqyqry291qz6cw-lvfirgzbmtwypcjqyqry291qz6cw/"
+        },
+        {
+          "episode_file": "lmyHVu50qll_ZY9dxkQggWXI0tYN [lmyHVu50qll_ZY9dxkQggWXI0tYN].md",
+          "key": "vol-73-jingshenke-shaonian-ertong-de-xinli-jiankang-guanhu-women-shehui-weilai-de-jiankang-lmyhvu50qll_zy9dxkqggwxi0tyn",
+          "show": "这病说来话长",
+          "title": "VOL.73精神科｜少年儿童的心理健康关乎我们社会未来的健康",
+          "url": "/wiki/sources/vol-73-jingshenke-shaonian-ertong-de-xinli-jiankang-guanhu-women-shehui-weilai-de-jiankang-lmyhvu50qll_zy9dxkqggwxi0tyn/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/childmentalhealthfamilysystemssupport/"
     },
     "ChildbearingIrreversibility": {
@@ -116248,9 +116262,9 @@
       "url": "/wiki/concepts/parentalrepairafterharm/"
     },
     "ParentingSturdiness": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7905596498 [SCIM7905596498].md",
@@ -116258,9 +116272,16 @@
           "show": "Huberman Lab",
           "title": "Protocols for Excellent Parenting & Improving Relationships of All Kinds | Dr. Becky Kennedy",
           "url": "/wiki/sources/protocols-for-excellent-parenting-improving-relationships-of-all-kinds-dr-becky-kennedy-scim7905596498/"
+        },
+        {
+          "episode_file": "lmyHVu50qll_ZY9dxkQggWXI0tYN [lmyHVu50qll_ZY9dxkQggWXI0tYN].md",
+          "key": "vol-73-jingshenke-shaonian-ertong-de-xinli-jiankang-guanhu-women-shehui-weilai-de-jiankang-lmyhvu50qll_zy9dxkqggwxi0tyn",
+          "show": "这病说来话长",
+          "title": "VOL.73精神科｜少年儿童的心理健康关乎我们社会未来的健康",
+          "url": "/wiki/sources/vol-73-jingshenke-shaonian-ertong-de-xinli-jiankang-guanhu-women-shehui-weilai-de-jiankang-lmyhvu50qll_zy9dxkqggwxi0tyn/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/parentingsturdiness/"
     },
     "Paris": {

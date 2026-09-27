@@ -762,12 +762,13 @@
       "2ae29881a5f9c6ce369656541cc8b6de4cac697325be9f32bd0e6b1132891b55",
       "8b5ede398926abd502ebdfba3f57f00a484fcaea87d1bd59feee284620ca59ce",
       "1f02005c80ec3e7ac3f24acac820a9118d51d7e2de5614db5e13752add4f80b9",
-      "60d22980877c9a07564718a1614f1e06e5947001e678ff946ba7dbbc77be1f31"
+      "60d22980877c9a07564718a1614f1e06e5947001e678ff946ba7dbbc77be1f31",
+      "718798e1c902241c90f817fc5263e223e3a7e3324d31441c2ee9f2e19f9dfd0d"
     ],
-    "paragraph_count": 762
+    "paragraph_count": 763
   },
-  "overview_commit": "523669d1cc4325ce21517b2dec774879f76fa859",
-  "overview_digest": "8d1fa3fd4b024652c0fd96649eaac2180470075b9a592bea72b89a9c343db053",
+  "overview_commit": "031e6a36556f5bbe46f04587a3f339560c1ad02e",
+  "overview_digest": "6eef88fc502c21e3993205b7b22ffd6efad6b644e08879d7308ad261dc0f85fb",
   "paragraphs": [
     {
       "id": "9898c41e8e82385c78359cad5a20f5a3d90978bfde6fe83d6e000e11ccf92d30",
@@ -22437,6 +22438,26 @@
         "UnilateralStrengthRebalancing",
         "WearableHealthDataAnxiety",
         "ama-14-2023-philanthropy-evening-routine-light-therapy-health-metrics-more-scim2172700344"
+      ]
+    },
+    {
+      "id": "718798e1c902241c90f817fc5263e223e3a7e3324d31441c2ee9f2e19f9dfd0d",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[vol-73-jingshenke-shaonian-ertong-de-xinli-jiankang-guanhu-women-shehui-weilai-de-jiankang-lmyhvu50qll_zy9dxkqggwxi0tyn|VOL.73精神科｜少年儿童的心理健康关乎我们社会未来的健康]], a [[ZheBingShuoLaiHuaChang|这病说来话长]] episode with a child-hospital psychiatry guest identified only as 崔老师. It extends [[ChildMentalHealthFamilySystemsSupport]], [[AdolescentSchoolRefusalMentalHealth]], and [[ParentingSturdiness]]. Its core synthesis is that school refusal and falling grades become more informative when read beside changes in mood, sleep, eating, body complaints, personality, and relationships; the child may reveal strain across family, school, peer, community, and care systems without proving that the child or one parent is solely at fault; and authentic parenting joins regulated emotion, continued love, truthful feedback, emotional support, and non-coercive practical advice. No settled contradiction is recorded. Peer comparison, index-patient, adversity-quotient, somatic, existential-crisis, and treatment-role claims remain source-scoped public education rather than diagnosis or individualized guidance, and no full guest identity is inferred.",
+      "topic_scores": {
+        "psychology-and-personal-development": 2,
+        "science-health-and-climate": 1,
+        "work-education-and-society": 3
+      },
+      "wikilinks": [
+        "AdolescentSchoolRefusalMentalHealth",
+        "ChildMentalHealthFamilySystemsSupport",
+        "ParentingSturdiness",
+        "ZheBingShuoLaiHuaChang",
+        "vol-73-jingshenke-shaonian-ertong-de-xinli-jiankang-guanhu-women-shehui-weilai-de-jiankang-lmyhvu50qll_zy9dxkqggwxi0tyn"
       ]
     }
   ],
