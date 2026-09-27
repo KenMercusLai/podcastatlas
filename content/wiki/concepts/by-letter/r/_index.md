@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 8397
+wiki_total_pages: 8400
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -782,6 +782,9 @@ wiki_pages:
   - key: "RevolutionaryTerrorPolitics"
     title: "Revolutionary Terror Politics / 革命恐怖政治"
     url: "/wiki/concepts/revolutionaryterrorpolitics/"
+  - key: "RevolutionaryUniversalismIdentity"
+    title: "Revolutionary Universalism and Identity"
+    url: "/wiki/concepts/revolutionaryuniversalismidentity/"
   - key: "RevolutionaryVirtuePolitics"
     title: "Revolutionary Virtue Politics / 革命美德政治"
     url: "/wiki/concepts/revolutionaryvirtuepolitics/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 8397
+wiki_total_pages: 8400
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -797,6 +797,9 @@ wiki_pages:
   - key: "SiegeOfTenochtitlan"
     title: "Siege of Tenochtitlan"
     url: "/wiki/concepts/siegeoftenochtitlan/"
+  - key: "SiegeOfToulon"
+    title: "Siege of Toulon"
+    url: "/wiki/concepts/siegeoftoulon/"
   - key: "SiegeTypology"
     title: "Siege Typology"
     url: "/wiki/concepts/siegetypology/"

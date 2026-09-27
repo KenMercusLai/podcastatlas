@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 11003
+wiki_total_pages: 11007
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -110,6 +110,9 @@ wiki_pages:
   - key: "PascalineDupas"
     title: "Pascaline Dupas"
     url: "/wiki/entities/pascalinedupas/"
+  - key: "PasqualePaoli"
+    title: "Pasquale Paoli"
+    url: "/wiki/entities/pasqualepaoli/"
   - key: "PassionCapital"
     title: "Passion Capital"
     url: "/wiki/entities/passioncapital/"
@@ -170,6 +173,9 @@ wiki_pages:
   - key: "Patroclus"
     title: "Patroclus"
     url: "/wiki/entities/patroclus/"
+  - key: "PaulBarras"
+    title: "Paul Barras"
+    url: "/wiki/entities/paulbarras/"
   - key: "PaulBrown"
     title: "Paul Brown"
     url: "/wiki/entities/paulbrown/"

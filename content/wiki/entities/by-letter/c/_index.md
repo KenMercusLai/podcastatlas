@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 11003
+wiki_total_pages: 11007
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -1277,6 +1277,9 @@ wiki_pages:
   - key: "CorsairSaronic"
     title: "Corsair (Saronic)"
     url: "/wiki/entities/corsairsaronic/"
+  - key: "Corsica"
+    title: "Corsica"
+    url: "/wiki/entities/corsica/"
   - key: "CortecGroup"
     title: "Cortec Group"
     url: "/wiki/entities/cortecgroup/"

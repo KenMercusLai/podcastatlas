@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2066
+topic_total_pages: 2067
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -4644,6 +4644,9 @@ topic_sources:
   - key: "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008"
     title: "318: Hundred Years' War: A Game of Thrones (Part 1)"
     url: "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+  - key: "383-young-napoleon-the-shadow-of-the-guillotine-part-2-glt2658259929"
+    title: "383. Young Napoleon: The Shadow of the Guillotine (Part 2)"
+    url: "/wiki/sources/383-young-napoleon-the-shadow-of-the-guillotine-part-2-glt2658259929/"
   - key: "399-the-savage-storm-world-war-ii-and-the-battle-for-italy-glt8130436942"
     title: "399. The Savage Storm: World War II and The Battle for Italy"
     url: "/wiki/sources/399-the-savage-storm-world-war-ii-and-the-battle-for-italy-glt8130436942/"

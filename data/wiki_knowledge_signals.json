@@ -31992,6 +31992,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/concepts/correctiveweaklinktraining/"
     },
+    "Corsica": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2658259929 [GLT2658259929].md",
+          "key": "383-young-napoleon-the-shadow-of-the-guillotine-part-2-glt2658259929",
+          "show": "The Rest Is History",
+          "title": "383. Young Napoleon: The Shadow of the Guillotine (Part 2)",
+          "url": "/wiki/sources/383-young-napoleon-the-shadow-of-the-guillotine-part-2-glt2658259929/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/corsica/"
+    },
     "CorticostriatalThalamicLoop": {
       "episode_count": 2,
       "show_count": 1,
@@ -56998,9 +57014,9 @@
       "url": "/wiki/entities/frenchnationalguard/"
     },
     "FrenchRevolution": {
-      "episode_count": 19,
+      "episode_count": 20,
       "show_count": 2,
-      "source_note_count": 19,
+      "source_note_count": 20,
       "sources": [
         {
           "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
@@ -57134,9 +57150,16 @@
           "show": "The Rest Is History",
           "title": "475. The French Revolution: Marie Antoinette (Part 1)",
           "url": "/wiki/sources/475-the-french-revolution-marie-antoinette-part-1-glt3119389535/"
+        },
+        {
+          "episode_file": "GLT2658259929 [GLT2658259929].md",
+          "key": "383-young-napoleon-the-shadow-of-the-guillotine-part-2-glt2658259929",
+          "show": "The Rest Is History",
+          "title": "383. Young Napoleon: The Shadow of the Guillotine (Part 2)",
+          "url": "/wiki/sources/383-young-napoleon-the-shadow-of-the-guillotine-part-2-glt2658259929/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-09-27",
       "url": "/wiki/entities/frenchrevolution/"
     },
     "FreshAllergySafeProductionScaling": {
@@ -82529,6 +82552,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/entities/josephstiglitz/"
     },
+    "JosephineDeBeauharnais": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2658259929 [GLT2658259929].md",
+          "key": "383-young-napoleon-the-shadow-of-the-guillotine-part-2-glt2658259929",
+          "show": "The Rest Is History",
+          "title": "383. Young Napoleon: The Shadow of the Guillotine (Part 2)",
+          "url": "/wiki/sources/383-young-napoleon-the-shadow-of-the-guillotine-part-2-glt2658259929/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/josephinedebeauharnais/"
+    },
     "JoshShapiro": {
       "episode_count": 1,
       "show_count": 1,
@@ -106603,6 +106642,36 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/nansunshi/"
     },
+    "NapoleonBonaparte": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "21.红与黑：他死于真诚 [569042001].md",
+          "key": "21-hong-yu-hei-ta-si-yu-zhencheng-569042001",
+          "show": "蜜獾吃书",
+          "title": "21.红与黑：他死于真诚",
+          "url": "/wiki/sources/21-hong-yu-hei-ta-si-yu-zhencheng-569042001/"
+        },
+        {
+          "episode_file": "78.西方决斗史：出剑吧！为了荣誉！ [687731000].md",
+          "key": "78-xifang-juedou-shi-chujian-ba-weile-rongyu-687731000",
+          "show": "蜜獾吃书",
+          "title": "78.西方决斗史：出剑吧！为了荣誉！",
+          "url": "/wiki/sources/78-xifang-juedou-shi-chujian-ba-weile-rongyu-687731000/"
+        },
+        {
+          "episode_file": "GLT2658259929 [GLT2658259929].md",
+          "key": "383-young-napoleon-the-shadow-of-the-guillotine-part-2-glt2658259929",
+          "show": "The Rest Is History",
+          "title": "383. Young Napoleon: The Shadow of the Guillotine (Part 2)",
+          "url": "/wiki/sources/383-young-napoleon-the-shadow-of-the-guillotine-part-2-glt2658259929/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/napoleonbonaparte/"
+    },
     "NarcolepsyWakeSleepBoundary": {
       "episode_count": 2,
       "show_count": 2,
@@ -114158,6 +114227,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/partyprohibitionkinshipexpansion/"
     },
+    "PasqualePaoli": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2658259929 [GLT2658259929].md",
+          "key": "383-young-napoleon-the-shadow-of-the-guillotine-part-2-glt2658259929",
+          "show": "The Rest Is History",
+          "title": "383. Young Napoleon: The Shadow of the Guillotine (Part 2)",
+          "url": "/wiki/sources/383-young-napoleon-the-shadow-of-the-guillotine-part-2-glt2658259929/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/pasqualepaoli/"
+    },
     "PassThroughBusinessTaxAdvantage": {
       "episode_count": 1,
       "show_count": 1,
@@ -114427,6 +114512,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/patronagelossselfprotection/"
+    },
+    "PaulBarras": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2658259929 [GLT2658259929].md",
+          "key": "383-young-napoleon-the-shadow-of-the-guillotine-part-2-glt2658259929",
+          "show": "The Rest Is History",
+          "title": "383. Young Napoleon: The Shadow of the Guillotine (Part 2)",
+          "url": "/wiki/sources/383-young-napoleon-the-shadow-of-the-guillotine-part-2-glt2658259929/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/paulbarras/"
     },
     "PaulConti": {
       "episode_count": 1,
@@ -127310,9 +127411,9 @@
       "url": "/wiki/concepts/revolutionaryhungerstreetmobilization/"
     },
     "RevolutionaryIdeologicalWar": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT3779628370 [GLT3779628370].md",
@@ -127327,9 +127428,16 @@
           "show": "The Rest Is History",
           "title": "504. The French Revolution: War to the Death (Part 2)",
           "url": "/wiki/sources/504-the-french-revolution-war-to-the-death-part-2-glt3201191708/"
+        },
+        {
+          "episode_file": "GLT2658259929 [GLT2658259929].md",
+          "key": "383-young-napoleon-the-shadow-of-the-guillotine-part-2-glt2658259929",
+          "show": "The Rest Is History",
+          "title": "383. Young Napoleon: The Shadow of the Guillotine (Part 2)",
+          "url": "/wiki/sources/383-young-napoleon-the-shadow-of-the-guillotine-part-2-glt2658259929/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/revolutionaryideologicalwar/"
     },
     "RevolutionaryJusticeMercyConflict": {
@@ -127547,6 +127655,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/revolutionarytribunal/"
+    },
+    "RevolutionaryUniversalismIdentity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2658259929 [GLT2658259929].md",
+          "key": "383-young-napoleon-the-shadow-of-the-guillotine-part-2-glt2658259929",
+          "show": "The Rest Is History",
+          "title": "383. Young Napoleon: The Shadow of the Guillotine (Part 2)",
+          "url": "/wiki/sources/383-young-napoleon-the-shadow-of-the-guillotine-part-2-glt2658259929/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/revolutionaryuniversalismidentity/"
     },
     "RevolutionaryVirtuePolitics": {
       "episode_count": 3,
@@ -136235,6 +136359,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/siegeoftenochtitlan/"
+    },
+    "SiegeOfToulon": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2658259929 [GLT2658259929].md",
+          "key": "383-young-napoleon-the-shadow-of-the-guillotine-part-2-glt2658259929",
+          "show": "The Rest Is History",
+          "title": "383. Young Napoleon: The Shadow of the Guillotine (Part 2)",
+          "url": "/wiki/sources/383-young-napoleon-the-shadow-of-the-guillotine-part-2-glt2658259929/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/siegeoftoulon/"
     },
     "SigmundFreud": {
       "episode_count": 2,
@@ -153548,6 +153688,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/vendeewar/"
+    },
+    "VendemiaireUprising": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2658259929 [GLT2658259929].md",
+          "key": "383-young-napoleon-the-shadow-of-the-guillotine-part-2-glt2658259929",
+          "show": "The Rest Is History",
+          "title": "383. Young Napoleon: The Shadow of the Guillotine (Part 2)",
+          "url": "/wiki/sources/383-young-napoleon-the-shadow-of-the-guillotine-part-2-glt2658259929/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/vendemiaireuprising/"
     },
     "VenerableSeowon": {
       "episode_count": 1,

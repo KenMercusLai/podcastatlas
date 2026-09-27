@@ -23631,3 +23631,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-09-27] ingest | 383. Young Napoleon: The Shadow of the Guillotine (Part 2)
+
+Added source `383-young-napoleon-the-shadow-of-the-guillotine-part-2-glt2658259929`; created `Corsica`, `JosephineDeBeauharnais`, `PaulBarras`, `PasqualePaoli`, `SiegeOfToulon`, `VendemiaireUprising`, and `RevolutionaryUniversalismIdentity`; and updated `NapoleonBonaparte`, `FrenchRevolution`, `RevolutionaryIdeologicalWar`, and the canonical index from their complete bounded source sets. Core synthesis: Napoleon's broken Corsican path, revolutionary universalism, Jacobin reliability, artillery competence, and Barras's patronage connected Toulon and Vendémiaire to a rapid transition from displaced officer to French political-military power. No settled contradiction was found. Toulon atrocities, Vendémiaire casualties, Barras's motives, Josephine anecdotes, reported dialogue, and the symbolic weight of the “Bonaparte” spelling remain source-scoped or interpretive. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

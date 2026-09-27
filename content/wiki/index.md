@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [383. Young Napoleon: The Shadow of the Guillotine (Part 2)](sources/383-young-napoleon-the-shadow-of-the-guillotine-part-2-glt2658259929.md) — The Rest Is History episode on Napoleon's Corsican rupture, Toulon breakthrough, Thermidorian survival, Vendémiaire suppression, Barras patronage, and marriage to Josephine.
 - [VOL.83妇科｜你是否也正被这些问题困扰？生理期、妇科检查、盆底肌修复、产褥期的问题这篇一一作答](sources/vol-83-fuke-ni-shifou-ye-zheng-bei-zhexie-wenti-kunrao-shengliqi-fuke-jiancha-pendiji-xiufu-chanruqi-de-wenti-zhepian-yiyi-zuoda-loabkthdztlcuy7qfhsrkaqujlf3.md) — 这病说来话长 listener Q&A on menstrual and gynecological symptom triage, AMH, contraception, postpartum pelvic-floor rehabilitation, examinations, and sex education.
 - [384. The Fall of the Aztecs: The Adventure Begins (Part 1)](sources/384-the-fall-of-the-aztecs-the-adventure-begins-part-1-glt8046611029.md) — The Rest Is History episode on Cortes's Iberian formation, Caribbean colonial apprenticeship, westward reconnaissance, mixed motives, and conquest-source uncertainty.
 - [385. The Fall of the Aztecs: The Woman Who Changed The World (Part 2)](sources/385-the-fall-of-the-aztecs-the-woman-who-changed-the-world-part-2-glt5124604457.md) — The Rest Is History episode on Cortes's break with Cuban authority, the Malinche-Aguilar translation chain, early coast diplomacy, the Requerimiento, and the Vera Cruz legal coup.
@@ -2979,6 +2980,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Improving Male Sexual Health, Function & Fertility | Dr. Michael Eisenberg](sources/improving-male-sexual-health-function-fertility-dr-michael-eisenberg-scim8414501670.md) — Huberman Lab interview on male fertility, semen testing, hormone intervention, erectile and urinary health, paternal age, and evidence-bounded urologic care.
 
 ## Entities
+- [Corsica](entities/Corsica.md) — Mediterranean island whose factional crisis and Paoli-Bonaparte rupture redirected Napoleon toward revolutionary France.
+- [Josephine de Beauharnais](entities/JosephineDeBeauharnais.md) — Revolutionary survivor and socially connected partner whose marriage to Napoleon preceded his Italian command.
+- [Paul Barras](entities/PaulBarras.md) — Thermidorian and Directory broker who selected Napoleon during Vendémiaire and accelerated his political rise.
+- [Pasquale Paoli](entities/PasqualePaoli.md) — Corsican leader whose rupture with the Bonapartes closed Napoleon's viable Corsican political path.
 - [宝儿学姐 / Bao'er (Gynecologist)](entities/BaoerGynecologist.md) — 成都医学院第一附属医院 gynecologist using pattern, severity, and escalation to explain listener questions.
 - [成都医学院第一附属医院 / First Affiliated Hospital of Chengdu Medical College](entities/FirstAffiliatedHospitalChengduMedicalCollege.md) — Hospital affiliation named for the VOL.83 gynecology guest.
 - [Geronimo de Aguilar](entities/GeronimoDeAguilar.md) — Spanish shipwreck survivor whose Maya-language skill formed the first Spanish-facing link in Cortes's interpretation chain.
@@ -9924,7 +9929,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Madame de Renal / 雷奈尔夫人](entities/MadameDeRenal.md) — 《红与黑》 character read as sincere, conflicted, and psychologically active rather than only saint or victim.
 - [Mathilde de La Mole / 马蒂尔德·德·拉莫尔](entities/MathildeDeLaMole.md) — 《红与黑》 aristocratic character read through pride, romantic theatricality, agency, and constraint.
 - [French Restoration / 法国王政复辟](entities/FrenchRestoration.md) — Historical setting used by the episode to explain Julien's blocked military dream, clerical strategy, and class performance.
-- [Napoleon Bonaparte / 拿破仑](entities/NapoleonBonaparte.md) — Symbolic career ideal for Julien and historical memory behind Stendhal's Restoration-era class diagnosis.
+- [Napoleon Bonaparte / 拿破仑](entities/NapoleonBonaparte.md) — Corsican-born artillery officer whose Toulon and Vendémiaire victories drove his French revolutionary ascent and later mobility myth.
 - [William Somerset Maugham / 毛姆](entities/WilliamSomersetMaugham.md) — Critic used as a foil for the episode's argument about self-control, passion, and the second half of 《红与黑》.
 - [Hermann Hesse / 赫尔曼·黑塞](entities/HermannHesse.md) — German-Swiss writer read by 蜜獾吃书 through spiritual crisis, antiwar self-seeking, Jungian analysis, and the reception gap around his countercultural fame.
 - [《德米安》 / Demian](entities/DemianNovel.md) — Hesse novel read as Emil Sinclair's symbolic coming-of-age through Cain's mark, Abraxas, mentors, projection, and war.
@@ -10589,7 +10594,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dong Zhongshu / 董仲舒](entities/DongZhongshu.md) — Western Han thinker used by episode 126 to connect Confucianism, Heaven, omens, and sacred imperial politics.
 - [Jean-Paul Marat / 让-保罗·马拉](entities/JeanPaulMarat.md) — Revolutionary journalist and agitator whose murder, martyr image, scientific grievance, and September Massacres role frame episode 125.
 - [Charlotte Corday / 夏洛特·科黛](entities/CharlotteCorday.md) — Moderate republican and Marat's assassin, read by episode 125 as politically conscious rather than manipulated or royalist.
-- [French Revolution / 法国大革命](entities/FrenchRevolution.md) — Upheaval joining prior monarchical delegitimation, structural crisis, wartime collapse, republican founding, regicide, and terror.
+- [French Revolution / 法国大革命](entities/FrenchRevolution.md) — Upheaval joining monarchical delegitimation, structural crisis, wartime collapse, republican founding, Terror, Thermidor, and Directory order.
 - [Joseph-Ignace Guillotin](entities/JosephIgnaceGuillotin.md) — Physician and abolition-minded reformer whose equal mechanical-execution proposal gave the guillotine his name.
 - [Charles-Henri Sanson](entities/CharlesHenriSanson.md) — Hereditary Paris executioner whose career and expertise bridged royal and revolutionary punishment.
 - [Robert-François Damiens](entities/RobertFrancoisDamiens.md) — Would-be regicide whose exceptionally cruel 1757 execution became a landmark in penal-reform history.
@@ -13998,6 +14003,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Michael Eisenberg](entities/MichaelEisenberg.md) — Urologist and researcher framing male fertility and sexual function through objective testing, whole-body health, and treatment boundaries.
 
 ## Concepts
+- [Siege of Toulon](concepts/SiegeOfToulon.md) — 1793 campaign where artillery strategy, revolutionary opportunity, promotion, and post-victory atrocity converged.
+- [Vendémiaire Uprising](concepts/VendemiaireUprising.md) — 1795 royalist challenge suppressed by Napoleon's artillery in defence of the Directory.
+- [Revolutionary Universalism and Identity](concepts/RevolutionaryUniversalismIdentity.md) — How a universal political mission can absorb displaced identity while enabling national expansion.
 - [Gynecological Symptom Triage / 妇科症状分诊](concepts/GynecologicalSymptomTriage.md) — Pattern-based framework using timing, progression, severity, bleeding, and associated symptoms to guide observation versus assessment.
 - [Postpartum Pelvic-Floor Rehabilitation / 产后盆底康复](concepts/PostpartumPelvicFloorRehabilitation.md) — Function-first postpartum care frame for leakage, pressure, assessment, rehabilitation timing, and device boundaries.
 - [Requerimiento](concepts/Requerimiento.md) — Coercive declaration joining Christian history and royal authority to demands for Indigenous submission and conversion.
@@ -14508,7 +14516,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Informal Female Political Influence](concepts/InformalFemalePoliticalInfluence.md) — Political agency through salons, households, persuasion, and networks outside formal citizenship.
 - [Republican Founding Without Settlement](concepts/RepublicanFoundingWithoutSettlement.md) — Regime transition in which abolition precedes settled institutions, mandate, and founding legitimacy.
 - [Revolutionary Factional Outflanking](concepts/RevolutionaryFactionalOutflanking.md) — Dynamic that recodes moderation or yesterday's radicalism as reaction and betrayal.
-- [Revolutionary Ideological War](concepts/RevolutionaryIdeologicalWar.md) — Armed conflict that claims authority to export political and social transformation.
+- [Revolutionary Ideological War](concepts/RevolutionaryIdeologicalWar.md) — Armed transformation linking universal liberty, contested consent, identity formation, strategic expansion, and military-ruler risk.
 - [De-Royalization Ritual](concepts/DeRoyalizationRitual.md) — Public removal of monarchical exception through names, etiquette, criminal procedure, execution, space, and burial.
 - [Regicide as Republican Founding](concepts/RegicideAsRepublicanFounding.md) — Interpretation of a deposed monarch's execution as the irreversible act through which a republic asserts sovereignty.
 - [Revolutionary Justice-Mercy Conflict](concepts/RevolutionaryJusticeMercyConflict.md) — Legitimacy struggle over punishment, appeal, reprieve, and compassion when a defeated ruler remains a political symbol.

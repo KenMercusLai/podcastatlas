@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2745
+topic_total_pages: 2746
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -6086,6 +6086,9 @@ topic_entities:
   - key: "Palestinians"
     title: "Palestinians"
     url: "/wiki/entities/palestinians/"
+  - key: "PasqualePaoli"
+    title: "Pasquale Paoli"
+    url: "/wiki/entities/pasqualepaoli/"
   - key: "Patagonia"
     title: "Patagonia"
     url: "/wiki/entities/patagonia/"
