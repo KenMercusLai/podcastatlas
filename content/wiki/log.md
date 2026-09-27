@@ -23900,3 +23900,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | VOL.74口腔科｜咖啡红酒茶上色三件套？牙齿美白选哪种？三甲主任帮你避坑
+
+Added source `vol-74-kouqiangke-kafei-hongjiu-cha-shangse-sanjian-ta-yachi-meibai-xuan-nazhong-sanjia-zhuren-bang-ni-bikeng-lup1n6wlhmeceqidmllkafzw8w9c`; updated `DentalAestheticTreatmentBoundary`, `OralCareProductTreatmentBoundary`, `LifecycleOralHealthPrevention`, `OralMicrobiomePreventiveCare`, and the canonical index from their complete bounded source sets. Core synthesis: natural tooth color, removable surface stain, intrinsic discoloration, peroxide bleaching, and structural restoration require different responses, while active disease, sensitivity, cracks, recession, recurrent bleeding, and calculus should be assessed before cosmetic escalation. No settled contradiction found. Light-assisted whitening benefit, duration, pulp risk, product abrasivity, rinse selection, water-flosser use, and impacted-wisdom-tooth decisions remain source-scoped public education. The clinician is unnamed in the supplied note, and the automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.74口腔科｜咖啡红酒茶上色三件套？牙齿美白选哪种？三甲主任帮你避坑](sources/vol-74-kouqiangke-kafei-hongjiu-cha-shangse-sanjian-ta-yachi-meibai-xuan-nazhong-sanjia-zhuren-bang-ni-bikeng-lup1n6wlhmeceqidmllkafzw8w9c.md) — 这病说来话长 episode separating natural tooth color, surface stain, intrinsic discoloration, bleaching, and restorative treatment while keeping basic oral health ahead of cosmetic whitening.
 - [How to Use Music to Boost Motivation, Mood & Improve Learning](sources/how-to-use-music-to-boost-motivation-mood-improve-learning-scim9662829681.md) — Huberman Lab solo episode on music as embodied neural input, task-timed motivation and focus, autonomic entrainment, emotion regulation, and music-practice plasticity.
 - [VOL.75口腔科｜爸妈洗牙吗？反向转发家族群，让他们“重回”年轻有绝招](sources/vol-75-kouqiangke-bama-xiya-ma-fanxiang-zhuanfa-jiazuqun-rang-tamen-zhonghui-nianqing-you-juezhao-loerbxipaqszz4ggchblzsnvtxo9.md) — 这病说来话长 episode on older-adult oral assessment, dental-prosthesis maintenance, persistent mucosal lesions, and coordinated antithrombotic management before extraction.
 - [GUEST SERIES | Dr. Paul Conti: How to Build and Maintain Healthy Relationships](sources/guest-series-dr-paul-conti-how-to-build-and-maintain-healthy-relationships-scim8219226445.md) — Huberman Lab conversation on generative compatibility, the shared “us,” mentalization, flexible mutuality, power, trauma-linked patterns, and internal-first boundaries.

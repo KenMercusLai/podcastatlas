@@ -7,6 +7,7 @@ sources:
   - vol-115-mao-manfen-fumu-ni-zuo-60-fen-yi-buyi-13-wei-yisheng-10-xueke-chuzhao-shenxinxing-jiankang-jiaoyu-gonglue-ertongjie-zhuanti-ljlyg0kuqvuj2r89k6o5hhuefjt9
   - ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965
   - vol-75-kouqiangke-bama-xiya-ma-fanxiang-zhuanfa-jiazuqun-rang-tamen-zhonghui-nianqing-you-juezhao-loerbxipaqszz4ggchblzsnvtxo9
+  - vol-74-kouqiangke-kafei-hongjiu-cha-shangse-sanjian-ta-yachi-meibai-xuan-nazhong-sanjia-zhuren-bang-ni-bikeng-lup1n6wlhmeceqidmllkafzw8w9c
 last_updated: 2026-09-27
 knowledge_schema: synthesis-v1
 ---
@@ -21,7 +22,7 @@ The sources treat oral health as continuous care rather than a response to pain.
 
 The same framework continues through adulthood and older age. Risk-matched examination and professional cleaning can address deposits and problems daily care misses; missing teeth, residual roots, root-surface decay, mobility, dry mouth and mucosal change should not be normalized as inevitable aging. Retaining, restoring or removing a tooth and replacing missing function require examination, and any removable, fixed or implant-supported restoration starts an ongoing maintenance phase rather than ending care.
 
-Prevention therefore changes with development, disease history, dexterity, saliva, medication, restoration and exposure. It does not collapse into one visit interval, product or procedure, and strong antimicrobial or abrasive routines should not displace effective mechanical cleaning and individualized guidance.
+Prevention therefore changes with development, disease history, dexterity, saliva, medication, restoration and exposure. Cosmetic goals sit after this foundation: recurrent bleeding, calculus, decay, sensitivity, cracks, recession, periodontal problems, or suspicious discoloration should be assessed before whitening or masked symptoms become the focus. The framework does not collapse into one visit interval, product or procedure, and strong antimicrobial, abrasive, or bleaching routines should not displace effective mechanical cleaning and individualized guidance.
 
 ## Key Claims
 - Effective cleaning is plaque removal without injury, not merely completion of a brushing ritual.
@@ -30,7 +31,7 @@ Prevention therefore changes with development, disease history, dexterity, saliv
 - Professional cleaning addresses deposits and sites that daily brushing may not reliably reach at any age.
 - Missing teeth, residual roots, root-surface decay, mobility, dry mouth and persistent mucosal change warrant assessment rather than indefinite accommodation.
 - Natural teeth and removable, fixed or implant-supported restorations all require continuing daily care and review.
-- Preventive schedules and treatments should be adjusted to age, development, disease history and current risk rather than treated as one fixed rule.
+- Preventive schedules and treatments—including optional cosmetic whitening—should be adjusted to age, development, active disease, sensitivity, and current risk rather than treated as one fixed rule.
 
 ## Evidence
 - Daily, dietary and professional prevention: [[vol-132-bao-zhu-ni-qian-bao-bi-lei-na-xie-keng-ren-de-kou-qiang-hu-li-chan-pin-he-wei-ke-pu-lmjeye3oacbawtn3omsskuqeubeh|VOL.132]] joins effective brushing, lower repeated sugar exposure, professional cleaning and timely restoration.
@@ -38,14 +39,15 @@ Prevention therefore changes with development, disease history, dexterity, saliv
 - Tongue and product boundary: [[ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965|AMA #16]] favors gentle tongue brushing over forceful scraping and keeps antiseptic mouthwash and oil pulling subordinate to mechanical cleaning and indication.
 - Older-adult assessment: [[vol-75-kouqiangke-bama-xiya-ma-fanxiang-zhuanfa-jiazuqun-rang-tamen-zhonghui-nianqing-you-juezhao-loerbxipaqszz4ggchblzsnvtxo9|VOL.75]] joins comprehensive review, cleaning, decay and mobility assessment, missing-tooth care, dry-mouth context and mucosal inspection.
 - Restoration maintenance: [[vol-75-kouqiangke-bama-xiya-ma-fanxiang-zhuanfa-jiazuqun-rang-tamen-zhonghui-nianqing-you-juezhao-loerbxipaqszz4ggchblzsnvtxo9|VOL.75]] makes removable, fixed and implant-supported restoration part of continuing hygiene and follow-up.
+- Foundation before cosmetics: [[vol-74-kouqiangke-kafei-hongjiu-cha-shangse-sanjian-ta-yachi-meibai-xuan-nazhong-sanjia-zhuren-bang-ni-bikeng-lup1n6wlhmeceqidmllkafzw8w9c|VOL.74]] places examination, cleaning, caries and periodontal care, sensitivity review, and cause-specific discoloration assessment before optional whitening.
 
 ## Counterevidence & Qualifications
-The sources provide general examples rather than individualized recall, orthodontic, periodontal, restorative, implant or oral-medicine protocols. Fluoride, sealants, extraction, restoration, cleaning tools, dry-mouth treatment, lesion review, orthodontics, retainers and missing-tooth replacement depend on examination, diagnosis, age, risk, anatomy, material, growth, goals and access. Brushing duration, visit frequency, treatment timing and device-specific instructions remain source-scoped. Public education about oral-systemic links does not prove that an oral finding caused an individual's systemic disease.
+The sources provide general examples rather than individualized recall, orthodontic, periodontal, restorative, implant, whitening, wisdom-tooth, or oral-medicine protocols. Fluoride, sealants, extraction, restoration, cleaning tools, dry-mouth treatment, lesion review, whitening, orthodontics, retainers and missing-tooth replacement depend on examination, diagnosis, age, risk, anatomy, material, growth, goals and access. Brushing duration, visit frequency, treatment timing and device-specific instructions remain source-scoped. Public education about oral-systemic links does not prove that an oral finding caused an individual's systemic disease.
 
 ## What Changed
-- Extended the life-course frame through older-adult examination, dry-mouth and mucosal context.
-- Added maintained dentures, fixed work and implants to prevention rather than treating restoration as an endpoint.
-- Clarified that tooth retention, extraction and replacement are examination-dependent decisions.
+- Placed optional whitening after active disease review, cleaning, and cause-specific discoloration assessment.
+- Added persistent bleeding during adjunctive cleaning as a reason for periodontal evaluation rather than symptom masking.
+- Extended individualized procedure decisions to impacted wisdom teeth and complex extraction.
 
 ## Related Concepts
 - [[DentalProsthesisMaintenance]] - adds design-specific cleaning, use and review after restoration.
