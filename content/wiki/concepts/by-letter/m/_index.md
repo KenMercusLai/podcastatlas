@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 8458
+wiki_total_pages: 8461
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1340,12 +1340,21 @@ wiki_pages:
   - key: "MusicAffectiveCommunication"
     title: "Music Affective Communication"
     url: "/wiki/concepts/musicaffectivecommunication/"
+  - key: "MusicAutonomicEntrainment"
+    title: "Music Autonomic Entrainment"
+    url: "/wiki/concepts/musicautonomicentrainment/"
   - key: "MusicIndustryAIResponse"
     title: "Music Industry AI Response"
     url: "/wiki/concepts/musicindustryairesponse/"
   - key: "MusicMemoryCueing"
     title: "Music Memory Cueing"
     url: "/wiki/concepts/musicmemorycueing/"
+  - key: "MusicPracticeNeuroplasticity"
+    title: "Music Practice Neuroplasticity"
+    url: "/wiki/concepts/musicpracticeneuroplasticity/"
+  - key: "MusicTaskTiming"
+    title: "Music Task Timing"
+    url: "/wiki/concepts/musictasktiming/"
   - key: "MusicBasedEmotionRegulation"
     title: "Music-Based Emotion Regulation"
     url: "/wiki/concepts/musicbasedemotionregulation/"

@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2852
+topic_total_pages: 2856
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1786,12 +1786,21 @@ topic_concepts:
   - key: "MusicAffectiveCommunication"
     title: "Music Affective Communication"
     url: "/wiki/concepts/musicaffectivecommunication/"
+  - key: "MusicAutonomicEntrainment"
+    title: "Music Autonomic Entrainment"
+    url: "/wiki/concepts/musicautonomicentrainment/"
   - key: "MusicIndustryAIResponse"
     title: "Music Industry AI Response"
     url: "/wiki/concepts/musicindustryairesponse/"
   - key: "MusicMemoryCueing"
     title: "Music Memory Cueing"
     url: "/wiki/concepts/musicmemorycueing/"
+  - key: "MusicPracticeNeuroplasticity"
+    title: "Music Practice Neuroplasticity"
+    url: "/wiki/concepts/musicpracticeneuroplasticity/"
+  - key: "MusicTaskTiming"
+    title: "Music Task Timing"
+    url: "/wiki/concepts/musictasktiming/"
   - key: "MusicBasedEmotionRegulation"
     title: "Music-Based Emotion Regulation"
     url: "/wiki/concepts/musicbasedemotionregulation/"
@@ -8217,6 +8226,9 @@ topic_sources:
   - key: "how-to-master-growth-mindset-to-improve-performance-dr-david-yeager-scim6606381639"
     title: "How to Master Growth Mindset to Improve Performance | Dr. David Yeager"
     url: "/wiki/sources/how-to-master-growth-mindset-to-improve-performance-dr-david-yeager-scim6606381639/"
+  - key: "how-to-use-music-to-boost-motivation-mood-improve-learning-scim9662829681"
+    title: "How to Use Music to Boost Motivation, Mood & Improve Learning"
+    url: "/wiki/sources/how-to-use-music-to-boost-motivation-mood-improve-learning-scim9662829681/"
   - key: "how-to-win-a-penalty-shootout-with-game-theory"
     title: "How to win a penalty shootout (with game theory)"
     url: "/wiki/sources/how-to-win-a-penalty-shootout-with-game-theory/"

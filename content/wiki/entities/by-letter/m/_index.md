@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 11060
+wiki_total_pages: 11061
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -251,6 +251,9 @@ wiki_pages:
   - key: "MarconiCompany"
     title: "Marconi Company"
     url: "/wiki/entities/marconicompany/"
+  - key: "MarconiUnion"
+    title: "Marconi Union"
+    url: "/wiki/entities/marconiunion/"
   - key: "MarcusBrutus"
     title: "Marcus Brutus / 马库斯·布鲁图斯"
     url: "/wiki/entities/marcusbrutus/"

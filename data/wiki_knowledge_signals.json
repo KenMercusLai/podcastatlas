@@ -100904,6 +100904,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/entities/marconicompany/"
     },
+    "MarconiUnion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9662829681 [SCIM9662829681].md",
+          "key": "how-to-use-music-to-boost-motivation-mood-improve-learning-scim9662829681",
+          "show": "Huberman Lab",
+          "title": "How to Use Music to Boost Motivation, Mood & Improve Learning",
+          "url": "/wiki/sources/how-to-use-music-to-boost-motivation-mood-improve-learning-scim9662829681/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/marconiunion/"
+    },
     "MarcusLiciniusCrassus": {
       "episode_count": 2,
       "show_count": 2,
@@ -107978,10 +107994,26 @@
       "updated": "2026-09-13",
       "url": "/wiki/concepts/musicaffectivecommunication/"
     },
-    "MusicBasedEmotionRegulation": {
+    "MusicAutonomicEntrainment": {
       "episode_count": 1,
       "show_count": 1,
       "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9662829681 [SCIM9662829681].md",
+          "key": "how-to-use-music-to-boost-motivation-mood-improve-learning-scim9662829681",
+          "show": "Huberman Lab",
+          "title": "How to Use Music to Boost Motivation, Mood & Improve Learning",
+          "url": "/wiki/sources/how-to-use-music-to-boost-motivation-mood-improve-learning-scim9662829681/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/musicautonomicentrainment/"
+    },
+    "MusicBasedEmotionRegulation": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lvUmxyEv-szqtSXxMqEPc6lcG2M0 [lvUmxyEv-szqtSXxMqEPc6lcG2M0].md",
@@ -107989,9 +108021,16 @@
           "show": "这病说来话长",
           "title": "VOL.210 “我真不是敲颂钵的！”揭秘临床音乐治疗，撕下“玄学疗愈”标签",
           "url": "/wiki/sources/vol-210-wo-zhen-bushi-qiao-songbo-de-jiemi-linchuang-yinyue-zhiliao-si-xia-xuanxue-liaoyu-biaoqian-lvumxyev-szqtsxmqepc6lcg2m0/"
+        },
+        {
+          "episode_file": "SCIM9662829681 [SCIM9662829681].md",
+          "key": "how-to-use-music-to-boost-motivation-mood-improve-learning-scim9662829681",
+          "show": "Huberman Lab",
+          "title": "How to Use Music to Boost Motivation, Mood & Improve Learning",
+          "url": "/wiki/sources/how-to-use-music-to-boost-motivation-mood-improve-learning-scim9662829681/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/musicbasedemotionregulation/"
     },
     "MusicIndustryAIResponse": {
@@ -108032,6 +108071,38 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/musicmemorycueing/"
+    },
+    "MusicPracticeNeuroplasticity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9662829681 [SCIM9662829681].md",
+          "key": "how-to-use-music-to-boost-motivation-mood-improve-learning-scim9662829681",
+          "show": "Huberman Lab",
+          "title": "How to Use Music to Boost Motivation, Mood & Improve Learning",
+          "url": "/wiki/sources/how-to-use-music-to-boost-motivation-mood-improve-learning-scim9662829681/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/musicpracticeneuroplasticity/"
+    },
+    "MusicTaskTiming": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9662829681 [SCIM9662829681].md",
+          "key": "how-to-use-music-to-boost-motivation-mood-improve-learning-scim9662829681",
+          "show": "Huberman Lab",
+          "title": "How to Use Music to Boost Motivation, Mood & Improve Learning",
+          "url": "/wiki/sources/how-to-use-music-to-boost-motivation-mood-improve-learning-scim9662829681/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/musictasktiming/"
     },
     "MustafaKemalAtaturk": {
       "episode_count": 2,
@@ -141662,9 +141733,9 @@
       "url": "/wiki/entities/sophiezhang/"
     },
     "SoundBasedStateRegulation": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM1135697510 [SCIM1135697510].md",
@@ -141679,6 +141750,13 @@
           "show": "Huberman Lab",
           "title": "Tools to Enhance Working Memory & Attention",
           "url": "/wiki/sources/tools-to-enhance-working-memory-attention-scim1948560111/"
+        },
+        {
+          "episode_file": "SCIM9662829681 [SCIM9662829681].md",
+          "key": "how-to-use-music-to-boost-motivation-mood-improve-learning-scim9662829681",
+          "show": "Huberman Lab",
+          "title": "How to Use Music to Boost Motivation, Mood & Improve Learning",
+          "url": "/wiki/sources/how-to-use-music-to-boost-motivation-mood-improve-learning-scim9662829681/"
         }
       ],
       "updated": "2026-09-27",

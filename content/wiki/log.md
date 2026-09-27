@@ -23884,3 +23884,11 @@ Added source `vol-75-kouqiangke-bama-xiya-ma-fanxiang-zhuanfa-jiazuqun-rang-tame
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | How to Use Music to Boost Motivation, Mood & Improve Learning
+
+Added source `how-to-use-music-to-boost-motivation-mood-improve-learning-scim9662829681`; created `MusicTaskTiming`, `MusicAutonomicEntrainment`, `MusicPracticeNeuroplasticity`, and `MarconiUnion`; and updated `MusicBasedEmotionRegulation`, `SoundBasedStateRegulation`, and the canonical index from their complete bounded source sets. Core synthesis: music is most useful when matched to phase and goal—fast music can cue action before effort, silence is the strongest default during demanding cognition, breaks can reintroduce music, breathing may mediate autonomic effects, and active musical practice offers richer plasticity input than passive background listening. No settled contradiction found. BPM cutoffs, listening durations, cardiovascular effects, mood thresholds, binaural-beat results, “Weightless” anxiety reduction and medication comparison, childhood connectivity, and broad learning transfer remain source-scoped public education rather than individualized medical, psychiatric, cardiovascular, or educational guidance. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

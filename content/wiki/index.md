@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Use Music to Boost Motivation, Mood & Improve Learning](sources/how-to-use-music-to-boost-motivation-mood-improve-learning-scim9662829681.md) — Huberman Lab solo episode on music as embodied neural input, task-timed motivation and focus, autonomic entrainment, emotion regulation, and music-practice plasticity.
 - [VOL.75口腔科｜爸妈洗牙吗？反向转发家族群，让他们“重回”年轻有绝招](sources/vol-75-kouqiangke-bama-xiya-ma-fanxiang-zhuanfa-jiazuqun-rang-tamen-zhonghui-nianqing-you-juezhao-loerbxipaqszz4ggchblzsnvtxo9.md) — 这病说来话长 episode on older-adult oral assessment, dental-prosthesis maintenance, persistent mucosal lesions, and coordinated antithrombotic management before extraction.
 - [GUEST SERIES | Dr. Paul Conti: How to Build and Maintain Healthy Relationships](sources/guest-series-dr-paul-conti-how-to-build-and-maintain-healthy-relationships-scim8219226445.md) — Huberman Lab conversation on generative compatibility, the shared “us,” mentalization, flexible mutuality, power, trauma-linked patterns, and internal-first boundaries.
 - [370. The 1973 Chilean Coup: Allende, Nixon and the CIA (Part 1)](sources/370-the-1973-chilean-coup-allende-nixon-and-the-cia-part-1-glt6405070034.md) — The Rest Is History episode on Allende's rise and reforms, U.S. intervention, economic crisis, and Chile's road toward the 1973 coup.
@@ -3014,6 +3015,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [372. The Birth of British Fascism](sources/372-the-birth-of-british-fascism-glt4747738645.md) — The Rest Is History episode on Britain's domestic fascist ingredients, early organizations, parliamentary resilience, and the leadership gap before Mosley.
 
 ## Entities
+- [Marconi Union](entities/MarconiUnion.md) — Musical group behind “Weightless,” retained as a source-scoped anxiety-reduction example rather than a validated treatment.
 - [René Schneider](entities/ReneSchneider.md) — Constitutionalist Chilean army commander whose resistance to military intervention protected Allende's 1970 accession.
 - [Augusto Pinochet](entities/AugustoPinochet.md) — Chilean army commander who converted the 1973 coup and junta leadership into personal dictatorship.
 - [Salvador Allende](entities/SalvadorAllende.md) — Democratically elected Chilean socialist president overthrown in the 1973 coup.
@@ -14092,6 +14094,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Arnold Leese](entities/ArnoldLeese.md) — Veterinarian, camel specialist, antisemite, and founder of the Imperial Fascist League.
 
 ## Concepts
+- [Music Task Timing](concepts/MusicTaskTiming.md) — Phase-specific music use that separates pre-task activation and restorative breaks from demanding focused work.
+- [Music Autonomic Entrainment](concepts/MusicAutonomicEntrainment.md) — Proposed pathway linking attentive music listening, breathing, heart rate, heart-rate variability, and bodily state.
+- [Music Practice Neuroplasticity](concepts/MusicPracticeNeuroplasticity.md) — Music learning as multimodal practice across auditory, motor, predictive, memory, and social systems.
 - [Generative Relationship System](concepts/GenerativeRelationshipSystem.md) — Conti's self-other-us frame for building mutual strength through mentalization, generativity, communication, boundaries, and accountability.
 - [Internal Boundary Clarification](concepts/InternalBoundaryClarification.md) — Internal-first process for identifying a genuine limit, communicating it accurately, and reading the response as relationship evidence.
 - [Cold War Regime-Change Pressure](concepts/ColdWarRegimeChangePressure.md) — Cross-channel model of electoral, economic, informational, and military pressure against an unacceptable government.
