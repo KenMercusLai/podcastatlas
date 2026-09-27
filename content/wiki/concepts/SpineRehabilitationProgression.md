@@ -7,7 +7,8 @@ sources:
   - build-a-strong-pain-proof-back-dr-stuart-mcgill-scim9911539455
   - vol-123-yisheng-wo-zhe-bozi-teng-he-yaoteng-haiyou-jiu-ma-lpqft6dbvu0yyo90rc0c-1wyrgy2
   - protocols-to-strengthen-pain-proof-your-back-scim8264963647
-last_updated: 2026-09-25
+  - vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms
+last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
 
@@ -27,6 +28,8 @@ VOL.123 adds a daily-life version of the progression. Temporary relief from heat
 
 The solo protocol episode broadens the rebuilding menu beyond the lumbar spine. Supported hanging, direction-sensitive extension, neck resistance, toe control, anti-rotation, glute medius work, psoas stretching, walking, yoga, and Pilates are presented as possible components rather than a mandatory stack. Stopping when pain worsens and escalating persistent or severe symptoms remain the controlling boundaries.
 
+VOL.58 makes the flare-to-recovery sequence explicit: pain can function as a protective stop signal during an acute episode, so rest, medication, or treatment may come first, but symptom improvement should transition into active lumbar, trunk, and whole-body capacity work. A daily action inventory can expose provocative tasks and support temporary movement substitutions while capacity is rebuilt.
+
 ## Key Claims
 - Rehabilitation timelines vary and should respect tissue healing and neurological risk rather than reduce recovery to a fixed week count.
 - Temporary removal of reproducible triggers can create room for symptoms to settle.
@@ -43,12 +46,14 @@ The solo protocol episode broadens the rebuilding menu beyond the lumbar spine. 
 - Below-pain dosing: [[build-a-strong-pain-proof-back-dr-stuart-mcgill-scim9911539455]] uses shorter pain-free walks and reduced provocative ranges to preserve activity while rebuilding tolerance.
 - Daily-life capacity: [[vol-123-yisheng-wo-zhe-bozi-teng-he-yaoteng-haiyou-jiu-ma-lpqft6dbvu0yyo90rc0c-1wyrgy2]] contrasts transient treatment relief with gradual stability, endurance, technique, and repeated movement.
 - Whole-body progression: [[protocols-to-strengthen-pain-proof-your-back-scim8264963647]] presents low-equipment trunk, neck, foot, hip, breathing, stretching, and movement-awareness options with pain and assessment boundaries.
+- Flare-to-capacity sequence: [[vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms|VOL.58]] moves from acute rest or treatment toward active back and trunk training and uses painful-action tracking to guide temporary daily-life substitutions.
 
 ## Counterevidence & Qualifications
 The reported virtual-surgery outcome is source-scoped and does not establish that people advised to have surgery should avoid it. Rest, pain avoidance, and graded exposure must be matched to the diagnosis; severe or progressive neurological findings, bowel or bladder changes, acute trauma, systemic illness, or worsening symptoms can require urgent evaluation rather than self-directed progression.
 
 ## What Changed
-- Added a whole-body protocol menu while preserving mechanism, symptom-response, and escalation gates.
+- Added an explicit transition from acute protection and symptom control to active capacity rebuilding.
+- Added daily-action tracking and movement substitution as rehabilitation tools.
 
 ## Related Concepts
 - [[SymptomDrivenSpineCare]] - determines urgency and whether exercise progression is appropriate.

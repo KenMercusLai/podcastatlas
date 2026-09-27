@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 11153
+wiki_total_pages: 11154
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -1649,6 +1649,9 @@ wiki_pages:
   - key: "ChinaCentralTelevision"
     title: "中央广播电视总台 / China Central Television"
     url: "/wiki/entities/chinacentraltelevision/"
+  - key: "ChinaJapanFriendshipHospital"
+    title: "中日友好医院 / China-Japan Friendship Hospital"
+    url: "/wiki/entities/chinajapanfriendshiphospital/"
   - key: "ChuzenjiAkihiko"
     title: "中禅寺秋彦 / Chuzenji Akihiko"
     url: "/wiki/entities/chuzenjiakihiko/"

@@ -10,6 +10,7 @@ sources:
   - vol-123-yisheng-wo-zhe-bozi-teng-he-yaoteng-haiyou-jiu-ma-lpqft6dbvu0yyo90rc0c-1wyrgy2
   - vol-90-yundong-yixue-pengyou-ni-huaxue-ma-bugai-yao-chenzao-kemu-san-jinji-renqun-lvfameb1ztoxm5yx5e-ylsrekbsq
   - vol-59-mazuike-jizhuwai-ke-shuzhong-zhixiao-guiyachuang-changjian-ma-yaoteng-shi-mazui-zaocheng-de-ma-chanfu-dou-shihe-wutong-fenmian-ma-lp7ibbaykdfkwlpwdj8zdwejodtr
+  - vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms
 last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
@@ -34,6 +35,8 @@ VOL.90 extends his profile from spine treatment into sport and injury prevention
 
 VOL.59 adds a peri-anesthesia spine perspective. Ma helps distinguish later back pain from a simple “the anesthesia caused it” story and explains why prior lumbar surgery, scarred tissue, altered landmarks, possible adhesions, disc disease, and drug spread can complicate neuraxial placement or effect. The episode's injection-pressure claim remains theoretical and does not override his broader [[SymptomDrivenSpineCare]] rule that anatomy, symptoms, function, examination, and the actual procedure must be interpreted together.
 
+VOL.58 adds an earlier listener-Q&A expression of the same spine-care philosophy. Ma places movement breaks and active strengthening ahead of office gadgets, interprets bulging and protrusion through symptoms rather than report wording, distinguishes urgent neurological or uncontrollable-pain criteria from elective quality-of-life decisions, and turns rehabilitation into daily action substitution as well as formal exercise.
+
 ## Key Characteristics
 - Explains spine anatomy through models and simple body analogies.
 - Distinguishes radiology-report wording from clinical severity and treatment urgency.
@@ -57,15 +60,17 @@ VOL.59 adds a peri-anesthesia spine perspective. Ma helps distinguish later back
 - Participation scaling: [[vol-90-yundong-yixue-pengyou-ni-huaxue-ma-bugai-yao-chenzao-kemu-san-jinji-renqun-lvfameb1ztoxm5yx5e-ylsrekbsq]] favors smaller dance range, muscular control, appropriate protection, and lumbar-neutral movement over exaggerated imitation.
 
 - Spine and neuraxial context: [[vol-59-mazuike-jizhuwai-ke-shuzhong-zhixiao-guiyachuang-changjian-ma-yaoteng-shi-mazui-zaocheng-de-ma-chanfu-dou-shihe-wutong-fenmian-ma-lp7ibbaykdfkwlpwdj8zdwejodtr|VOL.59]] links previous lumbar surgery and altered tissue planes with more difficult neuraxial placement or less predictable drug spread while resisting automatic attribution of later back pain to anesthesia.
+- Listener-Q&A synthesis: [[vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms|VOL.58]] links desk-work prevention, imaging interpretation, surgery thresholds, daily movement substitution, and active rehabilitation while keeping congenital, inflammatory, and listener-specific questions source-scoped.
 
 ## Qualifications
-The wiki has no independent biographical evidence for Ma Haoning beyond these podcast notes. His professional identity, career-choice recollection, examples, posture mechanics, cervical-curvature and whiplash claims, exercise selection, ride and headrest cautions, product cautions, neuraxial-placement explanation, and treatment framing should remain tied to the sources until additional material is ingested. VOL.59's pressure-related disc-worsening claim is preserved as theoretical rather than a universal contraindication.
+The wiki has no independent biographical evidence for Ma Haoning beyond these podcast notes. His professional identity, career-choice recollection, examples, posture mechanics, cervical-curvature and whiplash claims, exercise selection, ride and headrest cautions, product cautions, neuraxial-placement explanation, and treatment framing should remain tied to the sources until additional material is ingested. VOL.59's pressure-related disc-worsening claim is preserved as theoretical rather than a universal contraindication. VOL.58's compressed inheritance, ankylosing-spondylitis, congenital-variation, surgery, and exercise statements are public education rather than complete genetic or clinical guidance.
 
 ## What Changed
-- Added his peri-anesthesia explanation of altered lumbar anatomy, neuraxial placement, and drug-spread uncertainty.
-- Clarified that postpartum or post-procedure back pain is multifactorial rather than automatically caused by anesthesia.
+- Added the earlier listener-Q&A evidence joining desk-work prevention, symptom-led imaging interpretation, and active rehabilitation.
+- Clarified his distinction between urgent surgical indicators and elective decisions shaped by recurrent quality-of-life burden.
 
 ## Relationships
+- [[ChinaJapanFriendshipHospital]] - hospital affiliation named for Ma in VOL.58.
 - [[ZheBingShuoLaiHuaChang]] - show where he appears as the spine-surgery guest.
 - [[LumbarDiscHerniation]] - main condition he explains.
 - [[SymptomDrivenSpineCare]] - diagnostic and treatment-decision boundary he emphasizes.

@@ -6,7 +6,8 @@ sources:
   - vol-136-ni-ye-bei-yizi-yingkong-le-dafu-kuai-jiujiu-jiuzuo-dagongren-ba-lovi71tk-wgo30v9myvd2f1gjdwu
   - vol-123-yisheng-wo-zhe-bozi-teng-he-yaoteng-haiyou-jiu-ma-lpqft6dbvu0yyo90rc0c-1wyrgy2
   - vol-89-yundong-kangfu-huanjie-jiuzuo-pilao-jiaocheng-gen-kangfushi-daixin-jiankang-buzhi-3-fenzhong-ln2jtowe4hyntw1omun5q8_wjsh5
-last_updated: 2026-09-27
+  - vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms
+last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
 
@@ -24,6 +25,8 @@ VOL.123 reinforces the musculoskeletal branch through neck and lower-back exampl
 
 VOL.89 adds small workplace prompts and workstation fit. Using a smaller water cup can create natural walking breaks; wrist and trunk movements can interrupt local stillness; and screen, desk, chair, lumbar support, and input-device position can reduce avoidable reaching or slumping. These aids remain subordinate to variability and individualized assessment, especially when pain radiates, numbness appears, or a generic exercise is poorly tolerated.
 
+VOL.58 reinforces the simplest cadence for students and office workers: use class breaks or roughly hourly opportunities to get up and move. Screen elevation, cushions, standing desks, and foot supports can improve comfort or setup, but the episode again makes regular movement and active training the primary intervention rather than prescribing one perfect workstation.
+
 ## Key Claims
 - Prolonged sitting is a multi-factor exposure that can affect several systems without being a sufficient diagnosis or single cause.
 - The most portable intervention is to interrupt fixed posture rather than search for one indefinitely maintainable “correct” posture.
@@ -40,13 +43,13 @@ VOL.89 adds small workplace prompts and workstation fit. Using a smaller water c
 - Strength and escalation: [[vol-136-ni-ye-bei-yizi-yingkong-le-dafu-kuai-jiujiu-jiuzuo-dagongren-ba-lovi71tk-wgo30v9myvd2f1gjdwu]] recommends gradual low-load core work while preserving clinical boundaries for established pain, vascular disease, urinary symptoms, fainting, and persistent bloating.
 - Neck-and-back reinforcement: [[vol-123-yisheng-wo-zhe-bozi-teng-he-yaoteng-haiyou-jiu-ma-lpqft6dbvu0yyo90rc0c-1wyrgy2]] connects forward-head posture, prolonged sitting, muscular fatigue, neutral position, and periodic activity.
 - Workplace prompts and fit: [[vol-89-yundong-kangfu-huanjie-jiuzuo-pilao-jiaocheng-gen-kangfushi-daixin-jiankang-buzhi-3-fenzhong-ln2jtowe4hyntw1omun5q8_wjsh5]] combines water-break prompts, desk-based movement, screen and chair adjustment, lumbar support, and occupation-specific asymmetry with individualized rehabilitation.
+- Student and office cadence: [[vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms|VOL.58]] uses class breaks and roughly hourly movement opportunities while treating desks, cushions, chairs, and foot supports as secondary aids.
 
 ## Counterevidence & Qualifications
 The episodes are public-education discussions, not clinical guidelines. Their mechanisms and examples do not show that sitting alone causes every named condition, and the sources do not provide a universal break interval, water target, chair design, screen position, exercise dose, stocking prescription, or fertility threshold. Standing continuously can also create vascular strain, so “stand instead” is not the complete synthesis.
 
 ## What Changed
-- Added workstation fit and small behavioral prompts as ways to support, but not replace, regular movement.
-- Added symptom-sensitive exercise selection and occupation-specific asymmetry to the interruption frame.
+- Added a simple class-break or roughly hourly movement cadence as a practical prompt, not a universal medical prescription.
 
 ## Related Concepts
 - [[TravelThrombosisPrevention]] - calf-pump, hydration, movement, and compression branch for prolonged immobility.

@@ -4,7 +4,8 @@ type: concept
 tags: [healthcare, spine, symptom-relief, rehabilitation, medical-literacy]
 sources:
   - vol-123-yisheng-wo-zhe-bozi-teng-he-yaoteng-haiyou-jiu-ma-lpqft6dbvu0yyo90rc0c-1wyrgy2
-last_updated: 2026-09-24
+  - vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms
+last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
 
@@ -17,6 +18,8 @@ Spine comfort adjunct boundary is the distinction between measures that may redu
 VOL.123 neither dismisses comfort aids nor promotes them as cures. Pillow height can improve sleeping position, heat may feel soothing, and qualified massage or manual care may reduce symptoms. Those effects can matter, but transient comfort does not show that a disc has been physically pushed back into place or that endurance, strength, and load tolerance have been rebuilt.
 
 The appropriate boundary depends on context and timing. Gentle comfort measures may fit ordinary soreness, while acute disabling pain or neurological change calls for rest, appropriate clinical care, or escalation rather than forceful massage. Devices also change meaning across environments: a cushion that feels helpful at home may create a different risk when placed behind the neck in a vehicle collision path.
+
+VOL.58 expands the adjunct set to lumbar cushions, seat pads, mattresses, foot supports, acupuncture, traction, hanging, and temporary braces. The shared test is functional and contextual: an aid may be reasonable when it supports a comfortable position or reduces symptoms, but recurrent pain, immediate return of symptoms, or neurological change indicates that the aid is not a complete treatment.
 
 ## Key Claims
 - Comfort and short-term symptom relief can be legitimate outcomes without proving structural correction.
@@ -31,12 +34,13 @@ The appropriate boundary depends on context and timing. Gentle comfort measures 
 - Manual-care limit: [[vol-123-yisheng-wo-zhe-bozi-teng-he-yaoteng-haiyou-jiu-ma-lpqft6dbvu0yyo90rc0c-1wyrgy2]] accepts that qualified massage can reduce symptoms but rejects the claim that surface pressure ordinarily returns a deep disc protrusion to place.
 - Timing boundary: [[vol-123-yisheng-wo-zhe-bozi-teng-he-yaoteng-haiyou-jiu-ma-lpqft6dbvu0yyo90rc0c-1wyrgy2]] separates short relaxation from acute severe pain, where massage may worsen the situation.
 - Environment boundary: [[vol-123-yisheng-wo-zhe-bozi-teng-he-yaoteng-haiyou-jiu-ma-lpqft6dbvu0yyo90rc0c-1wyrgy2]] warns that an added neck cushion in a vehicle may alter force during sudden braking or collision.
+- Expanded adjunct boundary: [[vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms|VOL.58]] treats cushions, mattresses, acupuncture, traction, hanging, and braces as symptom- and context-dependent aids rather than replacements for diagnosis or active rehabilitation.
 
 ## Counterevidence & Qualifications
 The source does not compare products or treatments in controlled trials, establish universal pillow measurements, or settle the effectiveness of massage, heat, acupuncture, or manual therapy for particular diagnoses. Feeling better is useful feedback but is not sufficient evidence of safety when severe or progressive symptoms are present. Product design, vehicle geometry, diagnosis, skin sensation, temperature, force, and professional qualification can all change the risk.
 
 ## What Changed
-- Created a context-sensitive distinction between symptom relief, structural claims, long-term capacity, and escalation.
+- Extended the same relief-versus-recovery boundary to cushions, mattresses, acupuncture, traction, hanging, and temporary braces.
 
 ## Related Concepts
 - [[CervicalCurvePostureManagement]] - posture and muscular-capacity frame that comfort aids may support but cannot replace.

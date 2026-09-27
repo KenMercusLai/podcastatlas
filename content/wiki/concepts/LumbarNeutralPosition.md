@@ -6,7 +6,8 @@ sources:
   - vol-219-shipin-boke-dangdai-nianqingren-yaotu-zijiu-zhinan-guke-yisheng-jiaodi-bieba-nide-yao-dang-xiaohaopin-lkvjq45dukdjpesxikwec0zrglmg
   - vol-136-ni-ye-bei-yizi-yingkong-le-dafu-kuai-jiujiu-jiuzuo-dagongren-ba-lovi71tk-wgo30v9myvd2f1gjdwu
   - build-a-strong-pain-proof-back-dr-stuart-mcgill-scim9911539455
-last_updated: 2026-09-24
+  - vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms
+last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
 
@@ -22,6 +23,8 @@ VOL.136 prevents this from becoming rigid-posture advice. A relatively neutral s
 
 The McGill episode adds task and anatomy dependence. Hip hinging and whole-body stiffness can protect the lumbar region during suitable lifts, but available hip anatomy, bar height, sport mechanics, pain triggers, and current tolerance determine the usable range. Neutral is therefore a controlled zone, not one identical spinal shape imposed on every person or activity.
 
+VOL.58 adds sleep and ordinary-action examples. A tolerable sleep position should avoid sustained twisting or forced extension, while painful bending can be replaced temporarily with hip-and-knee-dominant squatting or another less provocative strategy. Neutral remains a feedback-guided movement option rather than a rule that every person must hold continuously.
+
 ## Key Claims
 - Repeated slumped flexion, uncontrolled extension, or rotation can increase lumbar stress in susceptible contexts.
 - Hip and knee motion can reduce unnecessary waist-dominant movement during lifting and daily tasks.
@@ -36,13 +39,13 @@ The McGill episode adds task and anatomy dependence. Hip hinging and whole-body 
 - Sitting qualification: [[vol-136-ni-ye-bei-yizi-yingkong-le-dafu-kuai-jiujiu-jiuzuo-dagongren-ba-lovi71tk-wgo30v9myvd2f1gjdwu]] contrasts slumped and relatively neutral sitting while making position change and movement the broader solution.
 - Hip-hinge and stiffness mechanics: [[build-a-strong-pain-proof-back-dr-stuart-mcgill-scim9911539455]] teaches hip hinging and whole-body stiffness before heavy loading.
 - Anatomy and range: [[build-a-strong-pain-proof-back-dr-stuart-mcgill-scim9911539455]] recommends assessing hip structure and modifying bar height, range, or exercise when pulling from the floor is a poor fit.
+- Sleep and daily substitution: [[vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms|VOL.58]] applies neutral positioning to sleep comfort, object pickup, and replacing pain-provoking waist flexion with hip and knee movement.
 
 ## Counterevidence & Qualifications
 The sources do not claim that one posture cures disc disease or prevents every injury. Natural spinal motion remains necessary, and the useful range varies by anatomy, task, symptoms, and training state. Sustained standing is not automatically the answer to sustained sitting, and neurological or worsening symptoms require clinical review.
 
 ## What Changed
-- Reframed neutral position as a task-appropriate controlled zone rather than one fixed posture.
-- Added hip-anatomy, bar-height, whole-body-stiffness, and exercise-selection qualifications.
+- Extended neutral-position reasoning to sleep and pain-aware substitution of everyday actions.
 
 ## Related Concepts
 - [[LumbarDiscHerniation]] - condition whose symptom management may use controlled lumbar loading.

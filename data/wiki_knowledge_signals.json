@@ -24504,9 +24504,9 @@
       "url": "/wiki/concepts/cerebrovasculareventrecognition/"
     },
     "CervicalCurvePostureManagement": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lpQFt6DbVU0YYO90Rc0c-1WYrGY2 [lpQFt6DbVU0YYO90Rc0c-1WYrGY2].md",
@@ -24528,9 +24528,16 @@
           "show": "这病说来话长",
           "title": "VOL.89运动康复｜缓解久坐疲劳教程 跟康复师带薪健康不止3分钟",
           "url": "/wiki/sources/vol-89-yundong-kangfu-huanjie-jiuzuo-pilao-jiaocheng-gen-kangfushi-daixin-jiankang-buzhi-3-fenzhong-ln2jtowe4hyntw1omun5q8_wjsh5/"
+        },
+        {
+          "episode_file": "liXl6KzZFo1JMn25suHtZiKmYtMs [liXl6KzZFo1JMn25suHtZiKmYtMs].md",
+          "key": "vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms",
+          "show": "这病说来话长",
+          "title": "VOL.58脊柱外科&麻醉科｜腰间盘突出是否须手术等28个职场白领、学生关心的脊柱问题",
+          "url": "/wiki/sources/vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/cervicalcurveposturemanagement/"
     },
     "CesarMillan": {
@@ -27481,6 +27488,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/chinahomesharingsupplymotivation/"
+    },
+    "ChinaJapanFriendshipHospital": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "liXl6KzZFo1JMn25suHtZiKmYtMs [liXl6KzZFo1JMn25suHtZiKmYtMs].md",
+          "key": "vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms",
+          "show": "这病说来话长",
+          "title": "VOL.58脊柱外科&麻醉科｜腰间盘突出是否须手术等28个职场白领、学生关心的脊柱问题",
+          "url": "/wiki/sources/vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/chinajapanfriendshiphospital/"
     },
     "ChinaLongTermCareInsurance": {
       "episode_count": 1,
@@ -42306,9 +42329,9 @@
       "url": "/wiki/entities/dongxianeasternhan/"
     },
     "DongXintong": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "lj2X7wulCDfnv7bnH9dZOwcIWVrR [lj2X7wulCDfnv7bnH9dZOwcIWVrR].md",
@@ -42351,6 +42374,13 @@
           "show": "这病说来话长",
           "title": "VOL.59麻醉科&脊柱外科｜术中知晓“鬼压床”常见吗？腰疼是麻醉造成的吗？产妇都适合无痛分娩吗？",
           "url": "/wiki/sources/vol-59-mazuike-jizhuwai-ke-shuzhong-zhixiao-guiyachuang-changjian-ma-yaoteng-shi-mazui-zaocheng-de-ma-chanfu-dou-shihe-wutong-fenmian-ma-lp7ibbaykdfkwlpwdj8zdwejodtr/"
+        },
+        {
+          "episode_file": "liXl6KzZFo1JMn25suHtZiKmYtMs [liXl6KzZFo1JMn25suHtZiKmYtMs].md",
+          "key": "vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms",
+          "show": "这病说来话长",
+          "title": "VOL.58脊柱外科&麻醉科｜腰间盘突出是否须手术等28个职场白领、学生关心的脊柱问题",
+          "url": "/wiki/sources/vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms/"
         }
       ],
       "updated": "2026-09-28",
@@ -61160,9 +61190,9 @@
       "url": "/wiki/concepts/futureselfcontinuity/"
     },
     "FuwaiHospital": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ljjRf3EOGpZopE6odGV8oK5ovTSJ [ljjRf3EOGpZopE6odGV8oK5ovTSJ].md",
@@ -61170,9 +61200,16 @@
           "show": "这病说来话长",
           "title": "VOL.134心累？别硬撑！心力衰竭危机四伏",
           "url": "/wiki/sources/vol-134-xinlei-bie-yingcheng-xinli-shuaijie-weiji-sifu-ljjrf3eogpzop-e6odgv8ok5ovtsj/"
+        },
+        {
+          "episode_file": "liXl6KzZFo1JMn25suHtZiKmYtMs [liXl6KzZFo1JMn25suHtZiKmYtMs].md",
+          "key": "vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms",
+          "show": "这病说来话长",
+          "title": "VOL.58脊柱外科&麻醉科｜腰间盘突出是否须手术等28个职场白领、学生关心的脊柱问题",
+          "url": "/wiki/sources/vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/fuwaihospital/"
     },
     "FuyouTiandi": {
@@ -100043,9 +100080,9 @@
       "url": "/wiki/entities/luluplasticsurgeon/"
     },
     "LumbarDiscHerniation": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lkVJQ45DUKdjpesxikWEC0Zrglmg [lkVJQ45DUKdjpesxikWEC0Zrglmg].md",
@@ -100067,15 +100104,22 @@
           "show": "Huberman Lab",
           "title": "Protocols to Strengthen & Pain Proof Your Back",
           "url": "/wiki/sources/protocols-to-strengthen-pain-proof-your-back-scim8264963647/"
+        },
+        {
+          "episode_file": "liXl6KzZFo1JMn25suHtZiKmYtMs [liXl6KzZFo1JMn25suHtZiKmYtMs].md",
+          "key": "vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms",
+          "show": "这病说来话长",
+          "title": "VOL.58脊柱外科&麻醉科｜腰间盘突出是否须手术等28个职场白领、学生关心的脊柱问题",
+          "url": "/wiki/sources/vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/lumbardischerniation/"
     },
     "LumbarNeutralPosition": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lkVJQ45DUKdjpesxikWEC0Zrglmg [lkVJQ45DUKdjpesxikWEC0Zrglmg].md",
@@ -100097,9 +100141,16 @@
           "show": "Huberman Lab",
           "title": "Build a Strong, Pain-Proof Back | Dr. Stuart McGill",
           "url": "/wiki/sources/build-a-strong-pain-proof-back-dr-stuart-mcgill-scim9911539455/"
+        },
+        {
+          "episode_file": "liXl6KzZFo1JMn25suHtZiKmYtMs [liXl6KzZFo1JMn25suHtZiKmYtMs].md",
+          "key": "vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms",
+          "show": "这病说来话长",
+          "title": "VOL.58脊柱外科&麻醉科｜腰间盘突出是否须手术等28个职场白领、学生关心的脊柱问题",
+          "url": "/wiki/sources/vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/lumbarneutralposition/"
     },
     "LunarIndustrialization": {
@@ -101260,9 +101311,9 @@
       "url": "/wiki/entities/magongwesternhan/"
     },
     "MaHaoning": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "lkVJQ45DUKdjpesxikWEC0Zrglmg [lkVJQ45DUKdjpesxikWEC0Zrglmg].md",
@@ -101312,6 +101363,13 @@
           "show": "这病说来话长",
           "title": "VOL.59麻醉科&脊柱外科｜术中知晓“鬼压床”常见吗？腰疼是麻醉造成的吗？产妇都适合无痛分娩吗？",
           "url": "/wiki/sources/vol-59-mazuike-jizhuwai-ke-shuzhong-zhixiao-guiyachuang-changjian-ma-yaoteng-shi-mazui-zaocheng-de-ma-chanfu-dou-shihe-wutong-fenmian-ma-lp7ibbaykdfkwlpwdj8zdwejodtr/"
+        },
+        {
+          "episode_file": "liXl6KzZFo1JMn25suHtZiKmYtMs [liXl6KzZFo1JMn25suHtZiKmYtMs].md",
+          "key": "vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms",
+          "show": "这病说来话长",
+          "title": "VOL.58脊柱外科&麻醉科｜腰间盘突出是否须手术等28个职场白领、学生关心的脊柱问题",
+          "url": "/wiki/sources/vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms/"
         }
       ],
       "updated": "2026-09-28",
@@ -138571,9 +138629,9 @@
       "url": "/wiki/concepts/sedatedgastrointestinalendoscopy/"
     },
     "SedentaryBehaviorInterruption": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lovI71tK_Wgo30v9myVD2F1GJdWU [lovI71tK_Wgo30v9myVD2F1GJdWU].md",
@@ -138595,9 +138653,16 @@
           "show": "这病说来话长",
           "title": "VOL.89运动康复｜缓解久坐疲劳教程 跟康复师带薪健康不止3分钟",
           "url": "/wiki/sources/vol-89-yundong-kangfu-huanjie-jiuzuo-pilao-jiaocheng-gen-kangfushi-daixin-jiankang-buzhi-3-fenzhong-ln2jtowe4hyntw1omun5q8_wjsh5/"
+        },
+        {
+          "episode_file": "liXl6KzZFo1JMn25suHtZiKmYtMs [liXl6KzZFo1JMn25suHtZiKmYtMs].md",
+          "key": "vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms",
+          "show": "这病说来话长",
+          "title": "VOL.58脊柱外科&麻醉科｜腰间盘突出是否须手术等28个职场白领、学生关心的脊柱问题",
+          "url": "/wiki/sources/vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/sedentarybehaviorinterruption/"
     },
     "SeedOilEvidenceBoundary": {
@@ -146008,9 +146073,9 @@
       "url": "/wiki/entities/spencerpratt/"
     },
     "SpineComfortAdjunctBoundary": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lpQFt6DbVU0YYO90Rc0c-1WYrGY2 [lpQFt6DbVU0YYO90Rc0c-1WYrGY2].md",
@@ -146018,9 +146083,16 @@
           "show": "这病说来话长",
           "title": "VOL.123医生，我这脖子疼和腰疼还有救吗？😭",
           "url": "/wiki/sources/vol-123-yisheng-wo-zhe-bozi-teng-he-yaoteng-haiyou-jiu-ma-lpqft6dbvu0yyo90rc0c-1wyrgy2/"
+        },
+        {
+          "episode_file": "liXl6KzZFo1JMn25suHtZiKmYtMs [liXl6KzZFo1JMn25suHtZiKmYtMs].md",
+          "key": "vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms",
+          "show": "这病说来话长",
+          "title": "VOL.58脊柱外科&麻醉科｜腰间盘突出是否须手术等28个职场白领、学生关心的脊柱问题",
+          "url": "/wiki/sources/vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/spinecomfortadjunctboundary/"
     },
     "SpineLoadTippingPoint": {
@@ -146040,9 +146112,9 @@
       "url": "/wiki/concepts/spineloadtippingpoint/"
     },
     "SpineRehabilitationProgression": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "lkVJQ45DUKdjpesxikWEC0Zrglmg [lkVJQ45DUKdjpesxikWEC0Zrglmg].md",
@@ -146071,9 +146143,16 @@
           "show": "Huberman Lab",
           "title": "Protocols to Strengthen & Pain Proof Your Back",
           "url": "/wiki/sources/protocols-to-strengthen-pain-proof-your-back-scim8264963647/"
+        },
+        {
+          "episode_file": "liXl6KzZFo1JMn25suHtZiKmYtMs [liXl6KzZFo1JMn25suHtZiKmYtMs].md",
+          "key": "vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms",
+          "show": "这病说来话长",
+          "title": "VOL.58脊柱外科&麻醉科｜腰间盘突出是否须手术等28个职场白领、学生关心的脊柱问题",
+          "url": "/wiki/sources/vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/spinerehabilitationprogression/"
     },
     "SpineSparingCoreStability": {
@@ -150992,9 +151071,9 @@
       "url": "/wiki/concepts/symbolicstatusdowngradebackfire/"
     },
     "SymptomDrivenSpineCare": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lkVJQ45DUKdjpesxikWEC0Zrglmg [lkVJQ45DUKdjpesxikWEC0Zrglmg].md",
@@ -151016,9 +151095,16 @@
           "show": "这病说来话长",
           "title": "VOL.123医生，我这脖子疼和腰疼还有救吗？😭",
           "url": "/wiki/sources/vol-123-yisheng-wo-zhe-bozi-teng-he-yaoteng-haiyou-jiu-ma-lpqft6dbvu0yyo90rc0c-1wyrgy2/"
+        },
+        {
+          "episode_file": "liXl6KzZFo1JMn25suHtZiKmYtMs [liXl6KzZFo1JMn25suHtZiKmYtMs].md",
+          "key": "vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms",
+          "show": "这病说来话长",
+          "title": "VOL.58脊柱外科&麻醉科｜腰间盘突出是否须手术等28个职场白领、学生关心的脊柱问题",
+          "url": "/wiki/sources/vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/symptomdrivenspinecare/"
     },
     "SymptomFunctionDissociation": {

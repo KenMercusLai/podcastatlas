@@ -9,6 +9,7 @@ sources:
   - vol-110-shanzhong-shi-weile-genghao-de-huozhe-shenglaobingsi-6-wei-yisheng-shijiao-zenme-kan-shijie-dushuri-lklwhndplyk73rpqxuraocs4cii5
   - vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt
   - vol-59-mazuike-jizhuwai-ke-shuzhong-zhixiao-guiyachuang-changjian-ma-yaoteng-shi-mazui-zaocheng-de-ma-chanfu-dou-shihe-wutong-fenmian-ma-lp7ibbaykdfkwlpwdj8zdwejodtr
+  - vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms
 last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
@@ -16,10 +17,10 @@ knowledge_schema: synthesis-v1
 # 董心彤 / Dong Xintong
 
 ## Overview
-董心彤 / Dong Xintong is the anesthesiology guest in the VOL.32, VOL.33, and VOL.121 [[ZheBingShuoLaiHuaChang|这病说来话长]] episodes on perioperative safety, anesthesia misconceptions, and pain-related sleep disruption.
+董心彤 / Dong Xintong is a recurring anesthesiology guest in [[ZheBingShuoLaiHuaChang|这病说来话长]] episodes on perioperative safety, anesthesia misconceptions, pain, sleep, mortality, patient experience, and clinician-led public education.
 
 ## Current Profile
-The current wiki profile is source-scoped to three podcast notes. VOL.32 and VOL.33 introduce Dong as a deputy chief anesthesiologist at [[ShenzhenPeopleHospital|深圳市人民医院]] during China Anesthesia Week. Her role there is to translate anesthesia from a feared or mysterious "sleep injection" into [[PerioperativeAnesthesiaSafety]]: [[PreoperativeAnesthesiaAssessment]], surgical readiness decisions, dosing, monitoring, temperature management, airway and reflex recovery, adverse-reaction prevention, transfusion support, and patient history all belong to the anesthesiologist's work.
+The current wiki profile is source-scoped to the podcast notes listed in frontmatter. VOL.32 and VOL.33 introduce Dong as a deputy chief anesthesiologist at [[ShenzhenPeopleHospital|深圳市人民医院]] during China Anesthesia Week. Her role there is to translate anesthesia from a feared or mysterious "sleep injection" into [[PerioperativeAnesthesiaSafety]]: [[PreoperativeAnesthesiaAssessment]], surgical readiness decisions, dosing, monitoring, temperature management, airway and reflex recovery, adverse-reaction prevention, transfusion support, and patient history all belong to the anesthesiologist's work.
 
 VOL.121 extends that public-education role into pain and sleep. Dong describes [[PainSleepFeedbackLoop]], offers a multifactorial [[NighttimePainAmplification]] explanation, and places symptom relief inside [[AnalgesicSelfCareEscalation]] rather than indefinite masking. She also presents [[MultidisciplinarySleepCare]] as a route across anesthesiology, neurology, respiratory medicine, psychiatry, psychology, medication, procedures, and behavioral support. The product-specific combination-drug discussion remains sponsor-qualified, and its grouping of acetaminophen with NSAIDs is not retained as accurate classification.
 
@@ -28,6 +29,8 @@ VOL.110 adds a reading and mortality perspective. Dong uses 《当呼吸化为�
 VOL.100 adds a patient-experience role through postoperative pain, neuraxial anesthesia, loss of control, and comfort-focused care. Dong argues for timely analgesia before pain peaks when appropriate, treats the patient's report as primary evidence of suffering, and links a patient-controlled button with both bounded relief and reduced fear.
 
 VOL.59 adds a listener-Q&A branch on [[IntraoperativeAwarenessAndSedationDepth]], aspiration, delayed emergence, respiratory recovery, and [[ObstetricAnesthesiaDecisionBoundary]]. Dong distinguishes unintended awareness under general anesthesia from intended responsiveness during procedural sedation, separates neuromuscular blockade from inadequate hypnotic depth, and treats pregnancy, spine history, coagulation, airway, lung function, dental status, and body habitus as inputs to individualized planning rather than reasons for categorical fear.
+
+VOL.58 places Dong in a co-hosting and lived-experience role alongside [[MaHaoning|马浩宁]]. She introduces the episode's spine Q&A and contributes her husband's lumbar-disc treatment and recovery story as an anecdotal prompt; the surgical indication and rehabilitation interpretation come from the spine specialist rather than functioning as independent procedural evidence.
 
 ## Key Characteristics
 - Source-scoped anesthesiology clinician voice tied in the source to [[ShenzhenPeopleHospital|深圳市人民医院]].
@@ -48,17 +51,18 @@ VOL.59 adds a listener-Q&A branch on [[IntraoperativeAwarenessAndSedationDepth]]
 - Perioperative pain and agency: [[vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt|VOL.100]] has Dong explain anticipatory postoperative analgesia, individual pain experience, pain-pump differences, and the calming effect of patient-controlled signaling.
 
 - Awareness, recovery, and obstetric planning: [[vol-59-mazuike-jizhuwai-ke-shuzhong-zhixiao-guiyachuang-changjian-ma-yaoteng-shi-mazui-zaocheng-de-ma-chanfu-dou-shihe-wutong-fenmian-ma-lp7ibbaykdfkwlpwdj8zdwejodtr|VOL.59]] has Dong separate awareness from lighter sedation, explain paralysis and depth monitoring, describe multifactorial delayed emergence and respiratory recovery, and place labor analgesia or cesarean anesthesia inside spine, coagulation, airway, aspiration, fetal-exposure, and urgency assessment.
+- Spine Q&A role: [[vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms|VOL.58]] has Dong introduce the listener questions and supply a family treatment anecdote that Ma interprets through procedure selection and continuing rehabilitation.
 
 ## Qualifications
-The wiki has no independent biography, publication record, or hospital credential evidence beyond these podcast-derived source notes. VOL.59 spells the guest's name 董新童 rather than the established 董心彤; the identity mapping follows the recurring show, specialty, co-guest context, and topic sequence but remains source-scoped. The episodes are public education, not individualized anesthesiology, surgery, sedated-endoscopy, obstetric, allergy, delirium, nausea, medication, pain, sleep, fasting, transfusion, post-COVID timing, blood-pressure, or postoperative-care guidance. VOL.121 is commercially sponsored; its product claims and fixed self-care timelines remain source-scoped, and acetaminophen should not be classified as an NSAID.
+The wiki has no independent biography, publication record, or hospital credential evidence beyond these podcast-derived source notes. VOL.59 spells the guest's name 董新童 rather than the established 董心彤; the identity mapping follows the recurring show, specialty, co-guest context, and topic sequence but remains source-scoped. The episodes are public education, not individualized anesthesiology, surgery, sedated-endoscopy, obstetric, allergy, delirium, nausea, medication, pain, sleep, fasting, transfusion, post-COVID timing, blood-pressure, spine, or postoperative-care guidance. VOL.58's family story is anecdotal and does not establish procedure effectiveness. VOL.121 is commercially sponsored; its product claims and fixed self-care timelines remain source-scoped, and acetaminophen should not be classified as an NSAID.
 
 ## What Changed
-- Added her distinction among general-anesthesia awareness, neuromuscular blockade, and intended lighter procedural sedation.
-- Extended her profile into obstetric anesthesia selection, aspiration, delayed emergence, and lung or airway recovery risk.
-- Recorded the 董新童/董心彤 source spelling discrepancy without creating a second identity.
+- Added her co-hosting and lived-experience role in the spine listener Q&A.
+- Kept her family treatment account anecdotal and separated it from the spine specialist's clinical interpretation.
 
 ## Relationships
 - [[ShenzhenPeopleHospital]] - hospital affiliation named for Dong in the source.
+- [[FuwaiHospital]] - likely institution meant by VOL.58's source-scoped “北京福外医院” cardiac-anesthesia study reference.
 - [[ZheBingShuoLaiHuaChang]] - podcast show where Dong appears as an anesthesiology guest.
 - [[PerioperativeAnesthesiaSafety]] - main safety-management frame Dong explains.
 - [[PreoperativeAnesthesiaAssessment]] - preoperative preparation and screening frame Dong explains.
@@ -74,3 +78,4 @@ The wiki has no independent biography, publication record, or hospital credentia
 - [[MedicalRiskManagement]] - broader safety frame reinforced by Dong's clinical cautions.
 - [[HospiceCare]] - end-of-life and cancer-pain context introduced through her reading recommendations.
 - [[PerioperativePainControl]] - postoperative pain timing, patient report, and agency frame she explains.
+- [[MaHaoning]] - spine specialist who interprets the VOL.58 listener questions and Dong's family treatment anecdote.

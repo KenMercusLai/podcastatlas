@@ -6,7 +6,8 @@ sources:
   - vol-219-shipin-boke-dangdai-nianqingren-yaotu-zijiu-zhinan-guke-yisheng-jiaodi-bieba-nide-yao-dang-xiaohaopin-lkvjq45dukdjpesxikwec0zrglmg
   - build-a-strong-pain-proof-back-dr-stuart-mcgill-scim9911539455
   - vol-123-yisheng-wo-zhe-bozi-teng-he-yaoteng-haiyou-jiu-ma-lpqft6dbvu0yyo90rc0c-1wyrgy2
-last_updated: 2026-09-24
+  - vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms
+last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
 
@@ -24,6 +25,8 @@ Together the sources make spine care an iterative reasoning process. Imaging, sy
 
 VOL.123 extends the same boundary from lumbar-disc morphology to cervical curvature, mild degeneration, muscle fatigue, massage, and everyday comfort products. It frames conservative care as the usual starting point for many mild-to-moderate complaints while keeping severe pain, numbness, impaired walking, neurological dysfunction, and major daily impairment inside qualified assessment and possible surgical discussion.
 
+VOL.58 adds a quality-of-life distinction to that hierarchy. Emergency or time-sensitive review is driven by uncontrolled pain, neurological loss, and cauda-equina-type change, while recurrent but recoverable sciatica can remain an elective decision shaped by how much repeated disability the person is willing to accept. This preserves a place for patient preference without letting preference replace neurological risk assessment.
+
 ## Key Claims
 - Imaging report language is an input to care, not a complete severity score or treatment order.
 - Pain behavior, functional loss, neurological signs, and bowel or bladder changes determine urgency more directly than morphology alone.
@@ -39,14 +42,13 @@ VOL.123 extends the same boundary from lumbar-disc morphology to cervical curvat
 - Trigger-based assessment: [[build-a-strong-pain-proof-back-dr-stuart-mcgill-scim9911539455]] begins with goals and pain behavior, then uses provocative testing and movement changes to investigate mechanical pathways.
 - Pain-complexity boundary: [[build-a-strong-pain-proof-back-dr-stuart-mcgill-scim9911539455]] describes sensitization and trauma-linked pain patterns that may require gentle pain-free exposure rather than a straightforward tissue diagnosis.
 - Cervical and adjunct boundary: [[vol-123-yisheng-wo-zhe-bozi-teng-he-yaoteng-haiyou-jiu-ma-lpqft6dbvu0yyo90rc0c-1wyrgy2]] separates curvature and degeneration labels from symptom severity and distinguishes short-term comfort from long-term capacity or surgical indication.
+- Urgency and preference: [[vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms|VOL.58]] separates urgent neurological or uncontrollable-pain criteria from elective decisions about recurrent disability and quality of life.
 
 ## Counterevidence & Qualifications
 Neither source supplies a complete diagnostic algorithm. Provocative testing can inform a qualified assessment but should not be treated as proof that unreproduced pain is nonphysical or safe to ignore. Severe or worsening pain, trauma, fever or systemic illness, progressive weakness, saddle sensory change, or bowel and bladder dysfunction requires appropriate clinical evaluation.
 
 ## What Changed
-- Added mechanism testing, exposure history, goals, and movement-response evidence to the existing imaging-versus-symptom hierarchy.
-- Added the qualification that sensitized and trauma-linked pain may not follow a simple mechanical pattern.
-- Extended the hierarchy to cervical curvature, comfort aids, walking stability, and daily impairment.
+- Added patient preference and recurrent quality-of-life burden to elective care decisions without weakening neurological escalation thresholds.
 
 ## Related Concepts
 - [[LumbarDiscHerniation]] - condition where structure, symptoms, and function must be interpreted together.

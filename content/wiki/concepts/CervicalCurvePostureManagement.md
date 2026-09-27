@@ -6,7 +6,8 @@ sources:
   - vol-123-yisheng-wo-zhe-bozi-teng-he-yaoteng-haiyou-jiu-ma-lpqft6dbvu0yyo90rc0c-1wyrgy2
   - protocols-to-strengthen-pain-proof-your-back-scim8264963647
   - vol-89-yundong-kangfu-huanjie-jiuzuo-pilao-jiaocheng-gen-kangfushi-daixin-jiankang-buzhi-3-fenzhong-ln2jtowe4hyntw1omun5q8_wjsh5
-last_updated: 2026-09-27
+  - vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms
+last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,6 +22,8 @@ VOL.123 describes normal cervical lordosis, straightening, and reverse curvature
 VOL.89 adds the workstation and thoracic-mobility layer. A low or distant screen, repeated forward reaching, and a stiff flexed thoracic region can contribute to forward-head behavior, while consciously forcing the head backward may simply create another compensation. Screen position, desk distance, thoracic movement, and middle- or lower-back capacity therefore belong in the same functional assessment.
 
 The practical aim is not rigidly holding one ideal pose. A neutral position, chin retraction, appropriate pillow height, avoidance of prolonged desk-prone sleeping, regular movement, and gradual muscular capacity are combined with symptom monitoring. The solo back-protocol episode adds gentle front-of-neck isometrics as one capacity exercise for device-related forward posture, without showing that the drill changes cervical imaging. Imaging appearance still requires clinical context, especially when pain, numbness, weakness, unstable walking, or major functional change is present.
+
+VOL.58 strengthens the active-versus-passive distinction. Looking forward rather than spending long periods with the head down, moving frequently, and training neck and shoulder support are offered as practical inputs, while stretching or massage is framed as temporary relief rather than a shortcut to durable postural change.
 
 ## Key Claims
 - Cervical curvature is influenced by both structure and the balance of supporting muscles.
@@ -38,13 +41,13 @@ The practical aim is not rigidly holding one ideal pose. A neutral position, chi
 - Escalation boundary: [[vol-123-yisheng-wo-zhe-bozi-teng-he-yaoteng-haiyou-jiu-ma-lpqft6dbvu0yyo90rc0c-1wyrgy2]] separates ordinary discomfort and conservative care from neurological dysfunction, unstable walking, and disabling pain.
 - Capacity exercise: [[protocols-to-strengthen-pain-proof-your-back-scim8264963647]] proposes brief resisted chin-down isometrics for device-related forward posture while keeping the wider episode inside pain and diagnostic boundaries.
 - Workstation and thoracic context: [[vol-89-yundong-kangfu-huanjie-jiuzuo-pilao-jiaocheng-gen-kangfushi-daixin-jiankang-buzhi-3-fenzhong-ln2jtowe4hyntw1omun5q8_wjsh5]] connects screen height and distance, desk proximity, thoracic mobility, upper-back capacity, and the risk of compensatory forced correction.
+- Active-change boundary: [[vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms|VOL.58]] favors frequent movement, less sustained downward viewing, and active neck or shoulder training over passive relief alone.
 
 ## Counterevidence & Qualifications
 The sources are public conversations, not controlled rehabilitation studies or individualized assessment. They do not establish how often cervical curvature changes reverse, which exercises or workstation changes work for which diagnosis, or whether radiographic change is necessary for symptom improvement. VOL.89's explanation of “富贵包” remains source-scoped and should not be treated as a complete pathology account. Posture is one exposure among many, and severe pain, trauma, progressive neurological change, or systemic symptoms require qualified evaluation.
 
 ## What Changed
-- Added thoracic mobility and workstation fit as contributors to neck demand without making them universal causes.
-- Clarified that forced visual correction can create compensation and that setup changes still require movement and capacity.
+- Reinforced that passive relaxation can relieve symptoms but durable postural change depends on repeated movement and active capacity.
 
 ## Related Concepts
 - [[SymptomDrivenSpineCare]] - clinical boundary that keeps imaging subordinate to symptoms and function.

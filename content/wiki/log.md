@@ -24275,3 +24275,11 @@ Added source `350-the-triumph-of-george-washington-part-4-glt1619660676`; create
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | VOL.58脊柱外科&麻醉科｜腰间盘突出是否须手术等28个职场白领、学生关心的脊柱问题
+
+Added source `vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms`; created `ChinaJapanFriendshipHospital`; and updated `FuwaiHospital`, `MaHaoning`, `DongXintong`, `LumbarDiscHerniation`, `SymptomDrivenSpineCare`, `LumbarNeutralPosition`, `SpineRehabilitationProgression`, `SedentaryBehaviorInterruption`, `CervicalCurvePostureManagement`, `SpineComfortAdjunctBoundary`, and the canonical index from their complete bounded source sets. Core synthesis: imaging wording does not determine spine-disease severity or surgery by itself; uncontrolled pain, neurological loss, bowel or bladder dysfunction, recurrence burden, daily function, and patient preference shape different levels of escalation, while acute symptom control should transition into movement variability, daily-action modification, and gradual active capacity building. No settled contradiction was adopted. The “福外/阜外” mapping and genetics, ankylosing-spondylitis, congenital-variation, exercise, procedure, and listener-case claims remain source-scoped rather than independently verified or individualized guidance. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

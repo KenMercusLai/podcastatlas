@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.58脊柱外科&麻醉科｜腰间盘突出是否须手术等28个职场白领、学生关心的脊柱问题](sources/vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms.md) — 这病说来话长 Q&A on desk-related neck and back discomfort, lumbar-disc imaging, surgical warning signs, neutral movement, active rehabilitation, and the limits of passive aids.
 - [350: The Triumph of George Washington (Part 4)](sources/350-the-triumph-of-george-washington-part-4-glt1619660676.md) — The Rest Is History episode on Valley Forge, global war, Yorktown, unequal revolutionary liberty, constitutional state-building, and the contested 1776/1619 founding story.
 - [How to Enhance Performance & Learning by Applying a Growth Mindset](sources/how-to-enhance-performance-learning-by-applying-a-growth-mindset-scim1082295503.md) — Huberman Lab solo episode on process-focused feedback, error analysis, growth mindset, stress reappraisal, and the limits of brief interventions.
 - [351: Amsterdam: Miracles, Money, and Mud (Part 1)](sources/351-amsterdam-miracles-money-and-mud-part-1-glt4666881212.md) — The Rest Is History episode linking Amsterdam's waterlogged origins, Catholic pilgrimage, managed religious toleration, VOC globalization, and early stock-market finance.
@@ -3066,6 +3067,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Harnessing Passion, Drive & Persistence for Lifelong Success | Tony Hawk](sources/harnessing-passion-drive-persistence-for-lifelong-success-tony-hawk-scim8571002701.md) — Huberman Lab conversation on skateboarding mastery, intrinsic progression, injury-recovery adherence, entrepreneurship, family, and public skateparks.
 
 ## Entities
+- [中日友好医院 / China-Japan Friendship Hospital](entities/ChinaJapanFriendshipHospital.md) — Hospital affiliation named for spine surgeon 马浩宁 in the VOL.58 这病说来话长 listener Q&A.
 - [Adam I. P. Smith](entities/AdamIPSmith.md) — Historian framing the American Revolution as overlapping continental, civil, and global wars with uneven political consequences.
 - [Yorktown](entities/Yorktown.md) — 1781 coalition siege where American endurance and French land and naval power made British recovery politically untenable.
 - [Articles of Confederation](entities/ArticlesOfConfederation.md) — Weak first U.S. governing framework whose limited executive and taxing capacity motivated constitutional redesign.
