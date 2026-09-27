@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 11009
+wiki_total_pages: 11016
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -1472,6 +1472,9 @@ wiki_pages:
   - key: "MythosAISecurityTest"
     title: "Mythos AI Security Test"
     url: "/wiki/entities/mythosaisecuritytest/"
+  - key: "Maori"
+    title: "Māori"
+    url: "/wiki/entities/maori/"
   - key: "ManInTheIronMask"
     title: "The Man in the Iron Mask"
     url: "/wiki/entities/manintheironmask/"

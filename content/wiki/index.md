@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [381. Captain Cook: To the Ends of the Earth (Part 2)](sources/381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057.md) — The Rest Is History episode on Cook's Tahiti science mission, Tupia's translation, Māori and Aboriginal encounters, Pacific navigation, coercive first contact, mapping, and British territorial claims.
 - [VOL.81妇科｜通俗点说多囊卵巢、子宫内膜异位到子宫肌瘤到底是怎么回事？](sources/vol-81-fuke-tongsudian-shuo-duonangluanchao-zigongneimoyiweidao-zigongjiliu-daodi-shi-zenmehuishi-lq4attgiawxnqbczgl-ietatygyc.md) — 这病说来话长 episode on benign gynecological findings, PCOS ovulatory dysfunction, endometriosis recurrence, ovarian cysts, fibroid decisions, dysmenorrhea, and cervical terminology.
 - [382. Young Napoleon: Teenage Revolutionary (Part 1)](sources/382-young-napoleon-teenage-revolutionary-part-1-glt6500252244.md) — The Rest Is History episode on Napoleon's Corsican formation, outsider schooling, Paoli devotion, revolutionary dual loyalty, and emerging preference for disciplined authority.
 - [Mental Health Toolkit: Tools to Bolster Your Mood & Mental Health](sources/mental-health-toolkit-tools-to-bolster-your-mood-mental-health-scim1991900083.md) — Huberman Lab solo episode on six biological foundations, physiological sighing, emotional granularity, reflective self-exploration, generative drive, and clinical boundaries.
@@ -2986,6 +2987,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AMA #12: Thoughts on Longevity Supplements (Resveratrol, NR, NMN, Etc.) & How to Improve Memory](sources/ama-12-thoughts-on-longevity-supplements-resveratrol-nr-nmn-etc-how-to-improve-memory-scim5764692205.md) — Huberman Lab premium AMA separating longevity mechanisms and subjective supplement effects from demonstrated human lifespan benefit while prioritizing sleep, exercise, nutrition, light, stress control, and social connection.
 
 ## Entities
+- [James Cook](entities/JamesCook.md) — Endeavour commander whose scientific discipline and navigational achievement coexist with coercive encounter, imperial claim, and colonial consequence.
+- [Joseph Banks](entities/JosephBanks.md) — Endeavour naturalist whose curiosity and remorse coexist with interpretive projection, collecting, objectification, and later colonial advocacy.
+- [Tupia](entities/Tupia.md) — Tahitian navigator and translator whose agency and knowledge reshaped Cook's New Zealand encounters.
+- [HMS Endeavour](entities/Endeavour.md) — Scientific platform, armed shipboard society, trading environment, and contingent vehicle of British imperial claim.
+- [Tahiti](entities/Tahiti.md) — Polynesian island where the transit-of-Venus mission became an encounter shaped by exchange, disease risk, violence, and mutual curiosity.
+- [Māori](entities/Maori.md) — Indigenous Polynesian people whose resistance, translation-mediated diplomacy, and seafaring history shape Cook's New Zealand encounters.
+- [Aboriginal Australians](entities/AboriginalAustralians.md) — Indigenous peoples whose indifference, refusal, resistance, and limited exchange complicate the British discovery frame.
 - [Carlo Bonaparte](entities/CarloBonaparte.md) — Napoleon's father, whose accommodation with French rule converted noble status into educational mobility for his sons.
 - [Letizia Bonaparte](entities/LetiziaBonaparte.md) — Napoleon's mother and a formative influence within the ambitious conquest-era Corsican household.
 - [Corsica](entities/Corsica.md) — Mediterranean island whose factional crisis and Paoli-Bonaparte rupture redirected Napoleon toward revolutionary France.
@@ -14011,6 +14019,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Michael Eisenberg](entities/MichaelEisenberg.md) — Urologist and researcher framing male fertility and sexual function through objective testing, whole-body health, and treatment boundaries.
 
 ## Concepts
+- [First-Contact Non-Interference](concepts/FirstContactNonInterference.md) — Ethical aspiration destabilized when bodies, goods, disease, translation, incentives, and force enter an encounter.
+- [Scientific Exploration and Imperial Claim](concepts/ScientificExplorationImperialClaim.md) — Institutional pairing of astronomy, natural history, navigation, mapping, strategic rivalry, and territorial possession.
+- [Polynesian Navigation](concepts/PolynesianNavigation.md) — Indigenous seafaring knowledge enabling Pacific settlement and connection before European charting.
 - [Benign Gynecological Finding Triage / 妇科良性发现分诊](concepts/BenignGynecologicalFindingTriage.md) — Cycle-, persistence-, symptom-, fertility-, and risk-sensitive interpretation of common gynecological report findings.
 - [PCOS Ovulatory Dysfunction / 多囊卵巢综合征排卵障碍](concepts/PCOSOvulatoryDysfunction.md) — Ovulation-centered explanation distinguishing PCOS follicular morphology from ordinary ovarian cysts.
 - [Endometriosis Recurrence Management / 子宫内膜异位症复发管理](concepts/EndometriosisRecurrenceManagement.md) — Long-term framework balancing symptoms, fertility, medication, intervention, and recurrence burden.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 8411
+wiki_total_pages: 8414
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -554,6 +554,9 @@ wiki_pages:
   - key: "FirstAidTriageAndEscalation"
     title: "First-Aid Triage and Escalation / 急救判断与升级"
     url: "/wiki/concepts/firstaidtriageandescalation/"
+  - key: "FirstContactNonInterference"
+    title: "First-Contact Non-Interference"
+    url: "/wiki/concepts/firstcontactnoninterference/"
   - key: "FirstInClassDrugDiscoveryRoleSplit"
     title: "First-In-Class Drug Discovery Role Split"
     url: "/wiki/concepts/firstinclassdrugdiscoveryrolesplit/"

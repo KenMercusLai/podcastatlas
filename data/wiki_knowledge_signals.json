@@ -4470,6 +4470,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/abolitionistpublicwitness/"
     },
+    "AboriginalAustralians": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6950185057 [GLT6950185057].md",
+          "key": "381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057",
+          "show": "The Rest Is History",
+          "title": "381. Captain Cook: To the Ends of the Earth (Part 2)",
+          "url": "/wiki/sources/381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/aboriginalaustralians/"
+    },
     "AbsoluteGuaranteeTrap": {
       "episode_count": 1,
       "show_count": 1,
@@ -12868,9 +12884,9 @@
       "url": "/wiki/concepts/austerity/"
     },
     "Australia": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 5,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "tech_20260724_0724_MP_TECH_pod_128 [tech_20260724_0724_MP_TECH_pod_128].md",
@@ -12927,9 +12943,16 @@
           "show": "商业就是这样",
           "title": "Vol.275 澳洲保健品是怎么火起来的？",
           "url": "/wiki/sources/vol-275-aozhou-baojianpin-shi-zenme-huoqilai-de-1015773861/"
+        },
+        {
+          "episode_file": "GLT6950185057 [GLT6950185057].md",
+          "key": "381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057",
+          "show": "The Rest Is History",
+          "title": "381. Captain Cook: To the Ends of the Earth (Part 2)",
+          "url": "/wiki/sources/381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057/"
         }
       ],
-      "updated": "2026-09-17",
+      "updated": "2026-09-27",
       "url": "/wiki/entities/australia/"
     },
     "AustralianHealthcareAccessTriage": {
@@ -29485,9 +29508,9 @@
       "url": "/wiki/concepts/colonialpowermiscalculation/"
     },
     "ColonialSourceMediation": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT4947798648 [GLT4947798648].md",
@@ -29502,6 +29525,13 @@
           "show": "The Rest Is History",
           "title": "384. The Fall of the Aztecs: The Adventure Begins (Part 1)",
           "url": "/wiki/sources/384-the-fall-of-the-aztecs-the-adventure-begins-part-1-glt8046611029/"
+        },
+        {
+          "episode_file": "GLT6950185057 [GLT6950185057].md",
+          "key": "381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057",
+          "show": "The Rest Is History",
+          "title": "381. Captain Cook: To the Ends of the Earth (Part 2)",
+          "url": "/wiki/sources/381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057/"
         }
       ],
       "updated": "2026-09-27",
@@ -47207,6 +47237,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/encirclingweitorescuezhao/"
     },
+    "Endeavour": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6950185057 [GLT6950185057].md",
+          "key": "381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057",
+          "show": "The Rest Is History",
+          "title": "381. Captain Cook: To the Ends of the Earth (Part 2)",
+          "url": "/wiki/sources/381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/endeavour/"
+    },
     "EndocannabinoidHomeostaticSignaling": {
       "episode_count": 1,
       "show_count": 1,
@@ -54353,6 +54399,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/firstantiwangmangrising/"
+    },
+    "FirstContactNonInterference": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6950185057 [GLT6950185057].md",
+          "key": "381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057",
+          "show": "The Rest Is History",
+          "title": "381. Captain Cook: To the Ends of the Earth (Part 2)",
+          "url": "/wiki/sources/381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/firstcontactnoninterference/"
     },
     "FirstMarchOnRome": {
       "episode_count": 2,
@@ -79377,6 +79439,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/entities/jamescameron/"
     },
+    "JamesCook": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6950185057 [GLT6950185057].md",
+          "key": "381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057",
+          "show": "The Rest Is History",
+          "title": "381. Captain Cook: To the Ends of the Earth (Part 2)",
+          "url": "/wiki/sources/381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/jamescook/"
+    },
     "JamesEarlRay": {
       "episode_count": 1,
       "show_count": 1,
@@ -82598,6 +82676,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/josefhoyos/"
+    },
+    "JosephBanks": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6950185057 [GLT6950185057].md",
+          "key": "381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057",
+          "show": "The Rest Is History",
+          "title": "381. Captain Cook: To the Ends of the Earth (Part 2)",
+          "url": "/wiki/sources/381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/josephbanks/"
     },
     "JosephConrad": {
       "episode_count": 1,
@@ -99243,6 +99337,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/maozhongqun/"
     },
+    "Maori": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6950185057 [GLT6950185057].md",
+          "key": "381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057",
+          "show": "The Rest Is History",
+          "title": "381. Captain Cook: To the Ends of the Earth (Part 2)",
+          "url": "/wiki/sources/381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/maori/"
+    },
     "Maoxiang": {
       "episode_count": 1,
       "show_count": 1,
@@ -108094,9 +108204,9 @@
       "url": "/wiki/entities/newyorkmagazine/"
     },
     "NewZealand": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "186.让你笑到头掉仍不忘思考，伟大的《消逝世界漫游指南》 [998655210].md",
@@ -108118,9 +108228,16 @@
           "show": "The Rest Is History",
           "title": "676. The First World War: Churchill's Calamity (Part 6)",
           "url": "/wiki/sources/676-the-first-world-war-churchills-calamity-part-6-glt1275431911/"
+        },
+        {
+          "episode_file": "GLT6950185057 [GLT6950185057].md",
+          "key": "381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057",
+          "show": "The Rest Is History",
+          "title": "381. Captain Cook: To the Ends of the Earth (Part 2)",
+          "url": "/wiki/sources/381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-09-27",
       "url": "/wiki/entities/newzealand/"
     },
     "NewlyAttachedRegionLeniency": {
@@ -118269,6 +118386,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/polymarket/"
+    },
+    "PolynesianNavigation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6950185057 [GLT6950185057].md",
+          "key": "381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057",
+          "show": "The Rest Is History",
+          "title": "381. Captain Cook: To the Ends of the Earth (Part 2)",
+          "url": "/wiki/sources/381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/polynesiannavigation/"
     },
     "Polyphemus": {
       "episode_count": 1,
@@ -130184,9 +130317,9 @@
       "url": "/wiki/concepts/royalkinshipscandaladjudication/"
     },
     "RoyalSociety": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "26.牛顿与伪币制造者：可能是斯内普的原型？ [580065317].md",
@@ -130201,9 +130334,16 @@
           "show": "The Rest Is History",
           "title": "684. Franklin: Revenge of the American Genius (Part 2)",
           "url": "/wiki/sources/684-franklin-revenge-of-the-american-genius-part-2-glt6013835340/"
+        },
+        {
+          "episode_file": "GLT6950185057 [GLT6950185057].md",
+          "key": "381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057",
+          "show": "The Rest Is History",
+          "title": "381. Captain Cook: To the Ends of the Earth (Part 2)",
+          "url": "/wiki/sources/381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-27",
       "url": "/wiki/entities/royalsociety/"
     },
     "RoyalUsurpationSpeechTaboo": {
@@ -132369,6 +132509,22 @@
       ],
       "updated": "2026-09-19",
       "url": "/wiki/concepts/sciencetrustpoliticization/"
+    },
+    "ScientificExplorationImperialClaim": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6950185057 [GLT6950185057].md",
+          "key": "381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057",
+          "show": "The Rest Is History",
+          "title": "381. Captain Cook: To the Ends of the Earth (Part 2)",
+          "url": "/wiki/sources/381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/scientificexplorationimperialclaim/"
     },
     "ScientificPrecariat": {
       "episode_count": 1,
@@ -145710,6 +145866,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/entities/tadunlatehan/"
     },
+    "Tahiti": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6950185057 [GLT6950185057].md",
+          "key": "381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057",
+          "show": "The Rest Is History",
+          "title": "381. Captain Cook: To the Ends of the Earth (Part 2)",
+          "url": "/wiki/sources/381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/tahiti/"
+    },
     "TaiSuiBelief": {
       "episode_count": 1,
       "show_count": 1,
@@ -151900,6 +152072,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/concepts/tuntiansystem/"
+    },
+    "Tupia": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6950185057 [GLT6950185057].md",
+          "key": "381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057",
+          "show": "The Rest Is History",
+          "title": "381. Captain Cook: To the Ends of the Earth (Part 2)",
+          "url": "/wiki/sources/381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/tupia/"
     },
     "TuringTestJudgmentTrap": {
       "episode_count": 1,

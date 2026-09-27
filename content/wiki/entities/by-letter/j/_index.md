@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 11009
+wiki_total_pages: 11016
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -146,6 +146,9 @@ wiki_pages:
   - key: "JamesChichesterClark"
     title: "James Chichester-Clark"
     url: "/wiki/entities/jameschichesterclark/"
+  - key: "JamesCook"
+    title: "James Cook"
+    url: "/wiki/entities/jamescook/"
   - key: "JamesCraig"
     title: "James Craig"
     url: "/wiki/entities/jamescraig/"
@@ -914,6 +917,9 @@ wiki_pages:
   - key: "JosephAoun"
     title: "Joseph Aoun"
     url: "/wiki/entities/josephaoun/"
+  - key: "JosephBanks"
+    title: "Joseph Banks"
+    url: "/wiki/entities/josephbanks/"
   - key: "JosephCampbell"
     title: "Joseph Campbell / 约瑟夫·坎贝尔"
     url: "/wiki/entities/josephcampbell/"

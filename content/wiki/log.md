@@ -23677,3 +23677,11 @@ Added source `vol-81-fuke-tongsudian-shuo-duonangluanchao-zigongneimoyiweidao-zi
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | 381. Captain Cook: To the Ends of the Earth (Part 2)
+
+Added source `381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057`; created `JamesCook`, `JosephBanks`, `Tupia`, `Endeavour`, `Tahiti`, `Maori`, `AboriginalAustralians`, `FirstContactNonInterference`, `ScientificExplorationImperialClaim`, and `PolynesianNavigation`; and updated `Australia`, `NewZealand`, `RoyalSociety`, `ColonialSourceMediation`, and the canonical index from their complete bounded source sets. Core synthesis: Cook's first voyage joined real scientific achievement, maritime discipline, Indigenous knowledge, translation, and mutual curiosity to disease risk, unequal firepower, lethal contact, mapping, and possession without consent; Tupia, Māori resistance, and Aboriginal refusal disrupt a one-way European discovery narrative. No settled contradiction was found. Reported dialogue, first-contact motives, casualty detail, etymologies, Gene Roddenberry parallels, and Tahitian, Māori, and Aboriginal perspectives reconstructed mainly through European journals remain source-scoped or qualified. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

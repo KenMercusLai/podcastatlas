@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 11009
+wiki_total_pages: 11016
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -44,6 +44,9 @@ wiki_pages:
   - key: "TacoBell"
     title: "Taco Bell"
     url: "/wiki/entities/tacobell/"
+  - key: "Tahiti"
+    title: "Tahiti"
+    url: "/wiki/entities/tahiti/"
   - key: "TairaClan"
     title: "Taira Clan"
     url: "/wiki/entities/tairaclan/"
@@ -1079,6 +1082,9 @@ wiki_pages:
   - key: "TungCheeHwa"
     title: "Tung Chee-hwa / 董建華"
     url: "/wiki/entities/tungcheehwa/"
+  - key: "Tupia"
+    title: "Tupia"
+    url: "/wiki/entities/tupia/"
   - key: "Turkey"
     title: "Turkey"
     url: "/wiki/entities/turkey/"

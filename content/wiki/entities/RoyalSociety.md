@@ -5,7 +5,8 @@ tags: [institution, science-history, experiment, learned-society]
 sources:
   - 26-niudun-yu-weibi-zhizaozhe-keneng-shi-sineipu-de-yuanxing-580065317
   - 684-franklin-revenge-of-the-american-genius-part-2-glt6013835340
-last_updated: 2026-08-30
+  - 381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057
+last_updated: 2026-09-27
 knowledge_schema: synthesis-v1
 ---
 
@@ -17,7 +18,9 @@ The Royal Society / 皇家学会 is the learned-society institution through whic
 
 ## Current Profile
 
-The current profile has two layers. The Newton source uses the Society to resist a lone-genius story: Newton's achievements become durable through questions, demonstrations, records, instruments, peer judgment, publication priority, and trusted intermediaries such as [[EdmondHalley|Edmond Halley]]. The Franklin source adds a reputation layer: Franklin's election to the Society signals that a colonial American could become a recognized participant in European Enlightenment science, which later strengthened his diplomatic persona.
+The current profile has three layers. The Newton source uses the Society to resist a lone-genius story: Newton's achievements become durable through questions, demonstrations, records, instruments, peer judgment, publication priority, and trusted intermediaries such as [[EdmondHalley|Edmond Halley]]. The Franklin source adds a reputation layer: Franklin's election signals that a colonial American could become a recognized participant in European Enlightenment science, strengthening his diplomatic persona.
+
+Expeditionary science adds an ethical limit to the institutional profile. The Society's transit-of-Venus mission and instruction to avoid harm place astronomy inside a global encounter, but the voyage shows that scientific presence cannot remain neutral once trade, disease, sex, theft, force, and Admiralty claims shape contact.
 
 ## Key Characteristics
 
@@ -25,6 +28,7 @@ The current profile has two layers. The Newton source uses the Society to resist
 - Network linking mathematical theory, experiment, instruments, correspondence, peer judgment, and publication.
 - Reputation marker for [[BenjaminFranklin|Benjamin Franklin]] as a European-recognized American scientist.
 - Counterweight to simple lone-genius stories about both [[IsaacNewton|Isaac Newton]] and Franklin.
+- Sponsor of expeditionary observation whose non-harm aspiration collides with the material realities of contact and empire.
 
 ## Evidence
 
@@ -32,16 +36,18 @@ The current profile has two layers. The Newton source uses the Society to resist
 - Experimental infrastructure: [[26-niudun-yu-weibi-zhizaozhe-keneng-shi-sineipu-de-yuanxing-580065317]] links the Society to figures such as [[RobertHooke|Robert Hooke]] and [[RobertBoyle|Robert Boyle]], instruments, demonstrations, and evidence-sharing.
 - Franklin recognition: [[684-franklin-revenge-of-the-american-genius-part-2-glt6013835340]] says Franklin was elected to the Royal Society during his British period.
 - Diplomatic reputation: [[684-franklin-revenge-of-the-american-genius-part-2-glt6013835340]] treats Franklin's scientific fame as part of how America was branded in Europe as experimental, useful, and Enlightenment-oriented.
+- Pacific expedition: [[381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057]] links the Society to the Tahiti transit-of-Venus mission and to instructions against causing harm or interference.
 
 ## Qualifications
 
-The page summarizes the Society only through its current wiki sources. It does not cover the institution's full history, membership, internal disputes, or later scientific role.
+The page summarizes the Society only through its current wiki sources. It does not cover the institution's full history, membership, internal disputes, or later scientific role. The Cook episode's “prime directive” comparison is interpretive shorthand and should not be mistaken for the precise wording or full institutional context of the Society's instructions.
 
 ## What Changed
 
 - Migrated the page to synthesis-v1 while preserving the Newton source.
 - Added Franklin's Royal Society recognition as evidence of European scientific legitimacy.
 - Connected the Society's networked-science role to Franklin's later diplomatic credibility.
+- Added expeditionary astronomy and the limits of non-interference during Cook's Pacific voyage.
 
 ## Relationships
 
@@ -52,3 +58,6 @@ The page summarizes the Society only through its current wiki sources. It does n
 - [[BenjaminFranklin]] - colonial American whose election marks European scientific recognition.
 - [[ScientificRevolutionSocialInfrastructure]] - concept for networked science grounded partly by the Society.
 - [[PuritanEnlightenmentPracticalEthic]] - Franklin concept whose experimental side is validated by the Society.
+- [[JamesCook]] - commander of the Pacific expedition associated with the Society's scientific mission.
+- [[FirstContactNonInterference]] - ethical problem exposed when scientific observation changes the society observed.
+- [[ScientificExplorationImperialClaim]] - broader structure linking learned inquiry to Admiralty strategy and mapping.

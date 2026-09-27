@@ -1554,6 +1554,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "382-young-napoleon-teenage-revolutionary-part-1-glt6500252244": [
     {
       "key": "history",
@@ -26442,6 +26454,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "Endeavour": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "Endeca": [

@@ -11,7 +11,8 @@ sources:
   - burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b
   - 676-the-first-world-war-churchills-calamity-part-6-glt1275431911
   - vol-275-aozhou-baojianpin-shi-zenme-huoqilai-de-1015773861
-last_updated: 2026-09-17
+  - 381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057
+last_updated: 2026-09-27
 knowledge_schema: synthesis-v1
 ---
 
@@ -19,7 +20,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Australia is a country entity used by the wiki across policy, climate, critical-minerals, democratic-design, online-safety, and [[AnzacSpirit]] memory branches, and it now also carries a consumer-health branch as the origin market behind the "Australian supplements are good" belief.
+Australia is a country entity used by the wiki across Indigenous-European encounter, policy, climate, critical minerals, democratic design, online safety, [[AnzacSpirit]] memory, and consumer health.
 
 ## Current Profile
 
@@ -29,15 +30,17 @@ The newer memory branch comes from [[676-the-first-world-war-churchills-calamity
 
 The supplement branch comes from [[vol-275-aozhou-baojianpin-shi-zenme-huoqilai-de-1015773861]], which reads the country through its supplement industry: a colonial self-care and naturopathy tradition, pharmacists who acted as part-time clinicians, an early contract-manufacturing base, a therapeutic-goods regime that supervises process rather than efficacy, and brands such as [[Blackmores|澳佳宝]] and [[Swisse|斯维斯]] whose marketing, and later Chinese cross-border channels, produced a reputation larger than the evidence behind it.
 
+The earliest branch currently held by the wiki concerns first contact and possession. At Botany Bay and during the Endeavour's repair period, [[AboriginalAustralians|Aboriginal Australians]] appear as people who can ignore, refuse, resist, communicate, and selectively accommodate rather than as passive witnesses to European discovery. Cook's eastern-coast charting and British claim as New South Wales join scientific knowledge to possession without Indigenous consent.
+
 ## Key Characteristics
 
 - Australia appears as an advanced water-market policy case with both efficiency gains and fairness pressure.
 - It is repeatedly used as a model or comparison point for youth online age restrictions and age verification.
 - It is a plausible critical-minerals partner in rare-earth supply and processing discussions.
 - Its 2019-20 Black Summer fires make it a climate and wildfire-feedback case.
-- Its voting practices are used as a democratic-participation design contrast.
 - Gallipoli gives Australia a national-memory branch through post-federation sacrifice and [[AnzacSpirit]].
-- Its supplement industry is the strongest consumer-impression branch the wiki holds, resting on real manufacturing capability and light efficacy oversight rather than demonstrated product benefit.
+- Its supplement industry rests on real manufacturing capability and light efficacy oversight rather than demonstrated product benefit.
+- Its first-voyage branch joins Aboriginal autonomy and resistance to British mapping, armed contact, collecting, and possession without consent.
 
 ## Evidence
 
@@ -46,16 +49,18 @@ The supplement branch comes from [[vol-275-aozhou-baojianpin-shi-zenme-huoqilai-
 - Critical-minerals and climate case: [[how-to-get-what-greenland-has-with-permission]] names Australia as a more plausible near-term rare-earth partner than Greenland, while [[burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b]] uses the Black Summer fires as an [[ExtremeWildfire]] and [[WildfireClimateFeedback]] example.
 - Gallipoli memory branch: [[676-the-first-world-war-churchills-calamity-part-6-glt1275431911]] says Gallipoli mattered because Australia had federated only in 1901 and the campaign fed a distinct national identity through Anzac sacrifice and Anzac Day.
 - Supplement-industry branch: [[vol-275-aozhou-baojianpin-shi-zenme-huoqilai-de-1015773861]] traces colonial self-medication, compounding pharmacists, naturopathy and health-food retail, a purpose-built contract-manufacturing sector, a listed-heavy [[AustralianTherapeuticGoodsRegulation|therapeutic-goods regime]], and the marketing plus daigou and bonded-warehouse route that carried Australian supplement brands into China.
+- Cook encounter branch: [[381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057]] describes Aboriginal indifference to the Endeavour, resistance to British landing, limited later exchange, coastal charting, and a territorial claim unsupported by local consent.
 
 ## Qualifications
 
-The Australia page remains source-shaped rather than comprehensive. Water-market claims, age-ban effectiveness, wildfire feedbacks, rare-earth partnership feasibility, Gallipoli memory, and the supplement-industry account are each bounded to specific podcast discussions and should not be treated as a complete national profile. The supplement branch in particular rests on one episode's secondary reporting, and its regulatory and industrial figures should be checked against Australian primary sources before being generalised.
+The Australia page remains source-shaped rather than comprehensive. Water-market claims, age-ban effectiveness, wildfire feedbacks, rare-earth partnership feasibility, Gallipoli memory, and the supplement-industry account are each bounded to specific podcast discussions and should not be treated as a complete national profile. The Cook branch relies mainly on British journals and collapses many distinct Aboriginal peoples and languages into a broad label; its spellings, intentions, translations, and encounter details remain qualified.
 
 ## What Changed
 
 - Migrated the page to `synthesis-v1`.
 - Added the Gallipoli and Anzac national-memory branch.
 - Added the supplement-industry and consumer-health branch.
+- Added the first-voyage branch centered on Aboriginal agency, British force, eastern-coast mapping, and possession without consent.
 
 ## Relationships
 
@@ -76,3 +81,6 @@ The Australia page remains source-shaped rather than comprehensive. Water-market
 - [[TherapeuticGoodsAdministration]] - Australian regulator that issues AUST numbers.
 - [[SupplementContractManufacturing]] - manufacturing capability the source dates to the 1970s.
 - [[Blackmores]] and [[Swisse]] - origin-country brands built on this industrial and cultural base.
+- [[AboriginalAustralians]] - Indigenous peoples whose refusal and resistance complicate the British discovery frame.
+- [[JamesCook]] - navigator whose party charted the eastern coast and claimed it as New South Wales.
+- [[ScientificExplorationImperialClaim]] - framework joining the voyage's observation and mapping to possession.
