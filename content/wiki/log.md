@@ -23583,3 +23583,11 @@ Added source `vol-85-jizhen-chudong-jizhen-you-lai-le-yipi-nianqing-huanzhe-gang
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | 386. The Fall of the Aztecs: The City of Gold (Part 3)
+
+Added source `386-the-fall-of-the-aztecs-the-city-of-gold-part-3-glt2951201852`; created `CholulaMassacre`; and updated `HernanCortes`, `Malinche`, `Moctezuma`, `Tlaxcala`, `MexicaEmpire`, `SpanishConquestOfMexico`, `ConquestCaptivityNarrativeUncertainty`, and the canonical index from their complete bounded source sets. Core synthesis: Cortes's inland advance already depended on Indigenous labor, translation, and political choice; Tlaxcala moved from resistance to a mutually instrumental alliance; Cholula joined regional rivalry to coalition atrocity and exemplary terror; and Moctezuma's formal welcome cannot securely be converted into voluntary surrender. No settled contradiction with Parts 4-8 was found. The alliance's balance of initiative, Malinche's intentions and exact translations, the alleged Cholulan plot, Moctezuma's calculations, population and troop estimates, dialogue, and the Tlaxcalans' position inside Tenochtitlan remain source-scoped or unresolved. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

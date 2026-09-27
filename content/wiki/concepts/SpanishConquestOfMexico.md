@@ -9,6 +9,7 @@ sources:
   - 389-the-fall-of-the-aztecs-the-night-of-tears-part-6-glt2744313815
   - 388-the-fall-of-the-aztecs-the-festival-of-blood-part-5-glt8784071073
   - 387-the-fall-of-the-aztecs-prisoners-of-montezuma-part-4-glt8017930427
+  - 386-the-fall-of-the-aztecs-the-city-of-gold-part-3-glt2951201852
 last_updated: 2026-09-27
 ---
 
@@ -18,7 +19,9 @@ The Spanish conquest of Mexico is the military, political, legal, demographic, e
 
 ## Current Synthesis
 
-The episodes' strongest corrective is causal, temporal, and narrative. Spanish entry into Tenochtitlan did not amount to immediate control: the invaders depended on [[Malinche]] for translation, confronted an administratively sophisticated capital and unfamiliar cosmology, pressed for gold, and may initially have been contained by [[Moctezuma]] as guests, curiosities, captives, or armed dependents. The traditional early-surrender story conflicts with Moctezuma's continued movement and with a plausible chronology that places his seizure only when [[PanfiloDeNarvaez|Narvaez]] forced [[HernanCortes|Cortes]] to divide his men.
+The episodes' strongest corrective is causal, temporal, and narrative. Before entering Tenochtitlan, Cortes's small mixed expedition depended on Indigenous porters, provisioning, translation, and alliance. [[Tlaxcala]] first resisted, then made a mutually instrumental agreement that can be read as Tlaxcalans recruiting useful foreign fighters into a regional anti-Mexica strategy as much as Spaniards recruiting auxiliaries. The [[CholulaMassacre|Cholula massacre]] shows that this coalition could combine local rivalry, uncertain intelligence, Spanish command, and exemplary terror.
+
+Spanish entry into Tenochtitlan still did not amount to immediate control: the invaders depended on [[Malinche]] for translation, confronted an administratively sophisticated capital and unfamiliar cosmology, pressed for gold, and may initially have been contained by [[Moctezuma]] as guests, curiosities, captives, or armed dependents. The traditional early-surrender story conflicts with courtly hospitality, Moctezuma's continued movement, Cortes's legal interest in a voluntary transfer, and a plausible chronology that places his seizure only when [[PanfiloDeNarvaez|Narvaez]] forced [[HernanCortes|Cortes]] to divide his men.
 
 Cortes could then defeat Narvaez through bribery and surprise while simultaneously losing political control in Tenochtitlan through delegated command. The [[ToxcatlMassacre|Toxcatl massacre]] shows how rumor, interpreter absence, religious misreading, possible allied incentives, and a preventive-violence decision converted hostage occupation into open war. Moctezuma's disputed death and the unresolved reason Cortes was allowed to re-enter the city keep contingency and source conflict central.
 
@@ -31,15 +34,17 @@ That complexity does not sanitize conquest. Torture, execution, sexual coercion,
 ## Key Claims
 
 - Tenochtitlan's fall was a decisive event but not a complete or simultaneous conquest of Mexico.
-- Spanish arrival in the capital began as an unstable and contested accommodation, not demonstrated immediate mastery or voluntary imperial surrender.
+- Coalition formation and Indigenous political choice were causal before entry into the capital, not only after Spanish military defeat.
+- Spanish arrival in the capital began as an unstable and translated accommodation, not demonstrated immediate mastery or voluntary imperial surrender.
 - The Toxcatl massacre shows how unverified threat perception and delegated command could change the campaign's course.
 - The Noche Triste made Spanish defeat plausible, and renewed Indigenous alliance was the hinge between collapse and siege.
-- Indigenous political division and alliance were causal, not incidental, especially in Tlaxcala's role and later privileges.
 - Naval control, logistics, epidemic disease, and deliberate urban destruction made the 1521 siege an asymmetric war of attrition.
 - Spanish authority depended on law, labor, urban space, religion, and crown recognition as well as arms.
 
 ## Evidence
 
+- Inland alliance and terror: [[386-the-fall-of-the-aztecs-the-city-of-gold-part-3-glt2951201852]] connects dependence on Indigenous support, Tlaxcalan resistance and alliance, the Cholula massacre, and entry into the Valley of Mexico.
+- First-contact narrative: [[386-the-fall-of-the-aztecs-the-city-of-gold-part-3-glt2951201852]] connects Moctezuma's formal welcome to translation uncertainty, courtly convention, and Cortes's legal incentive to claim surrender.
 - Post-victory coercion and reconstruction: [[391-the-fall-of-the-aztecs-the-last-emperor-part-8-glt2984940365]] connects the gold search, torture, Mexico City rebuilding, spatial hierarchy, and encomiendas.
 - Law and Indigenous strategy: [[391-the-fall-of-the-aztecs-the-last-emperor-part-8-glt2984940365]] links Spanish legitimation to Tlaxcalan and elite legal claims.
 - Regional duration: [[391-the-fall-of-the-aztecs-the-last-emperor-part-8-glt2984940365]] says some places experienced devastation while others remained outside effective rule much longer.
@@ -51,12 +56,13 @@ That complexity does not sanitize conquest. Torture, execution, sexual coercion,
 
 ## Counterevidence & Qualifications
 
-This synthesis comes from five late episodes of a narrative series and cannot settle the whole military campaign, Indigenous perspectives, or demographic history. Moctezuma's intentions, whether the Spaniards were meaningfully captive, the date of his seizure, temple detail, sacrifice plans, metropolitan population, the alleged Toxcatl plot, Tlaxcalan informants' role, Moctezuma's death, captive-sacrifice reports, remembered speeches, symbolic scenes, Cortes's motives, Noche Triste casualty counts, and the ritual-war contrast remain source-scoped. A voluntary surrender was useful to Spanish legal memory, but that incentive does not automatically prove every contrary reconstruction. Black Legend polemic can distort comparative interpretation, but identifying that polemic does not rebut evidence of Spanish atrocities.
+This synthesis comes from six consecutive episodes of a narrative series and cannot settle the whole military campaign, Indigenous perspectives, or demographic history. The balance of initiative in the Tlaxcalan alliance, the alleged Cholulan plot, Moctezuma's intentions, whether the Spaniards were meaningfully captive, the date of his seizure, temple detail, sacrifice plans, metropolitan population, the alleged Toxcatl plot, Tlaxcalan informants' role, Moctezuma's death, captive-sacrifice reports, remembered speeches, symbolic scenes, Cortes's motives, Noche Triste casualty counts, and the ritual-war contrast remain source-scoped. A voluntary surrender was useful to Spanish legal memory, but that incentive does not automatically prove every contrary reconstruction. Black Legend polemic can distort comparative interpretation, but identifying that polemic does not rebut evidence of Spanish atrocities.
 
 ## What Changed
 
-- Extended the synthesis backward from hostage occupation to an unstable encounter in which the direction of control was itself contested.
-- Qualified the early voluntary-surrender narrative and preserved the later-hostage chronology as plausible rather than settled.
+- Extended the synthesis backward to armed Tlaxcalan resistance, mutually instrumental alliance, and coalition violence at Cholula.
+- Moved Indigenous political agency and Spanish material dependence earlier in the causal story.
+- Connected the voluntary-surrender narrative to courtly translation as well as later Spanish legal need.
 
 ## Related Concepts
 
@@ -70,3 +76,4 @@ This synthesis comes from five late episodes of a narrative series and cannot se
 - [[ToxcatlMassacre]] - occupation atrocity that converted fear and misinterpretation into open war.
 - [[Moctezuma]] - hostage ruler whose damaged authority and disputed death expose the limits of negotiated control.
 - [[ConquestCaptivityNarrativeUncertainty]] - explains why hospitality, containment, dependency, and hostage-taking cannot be read directly from Spanish victory narratives.
+- [[CholulaMassacre]] - demonstrates how regional rivalry, mediated threat, and exemplary violence shaped the advance.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8385
+wiki_total_pages: 8386
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -878,6 +878,9 @@ wiki_pages:
   - key: "ChokepointShippingConfidence"
     title: "Chokepoint Shipping Confidence"
     url: "/wiki/concepts/chokepointshippingconfidence/"
+  - key: "CholulaMassacre"
+    title: "Cholula Massacre"
+    url: "/wiki/concepts/cholulamassacre/"
   - key: "ChristianInheritanceOfEnlightenmentRights"
     title: "Christian Inheritance of Enlightenment Rights"
     url: "/wiki/concepts/christianinheritanceofenlightenmentrights/"

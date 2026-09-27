@@ -26298,6 +26298,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/concepts/chocolatedrinktosolidtransition/"
     },
+    "CholulaMassacre": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2951201852 [GLT2951201852].md",
+          "key": "386-the-fall-of-the-aztecs-the-city-of-gold-part-3-glt2951201852",
+          "show": "The Rest Is History",
+          "title": "386. The Fall of the Aztecs: The City of Gold (Part 3)",
+          "url": "/wiki/sources/386-the-fall-of-the-aztecs-the-city-of-gold-part-3-glt2951201852/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/cholulamassacre/"
+    },
     "Chongming": {
       "episode_count": 1,
       "show_count": 1,
@@ -30085,9 +30101,9 @@
       "url": "/wiki/entities/congoreformassociation/"
     },
     "ConquestCaptivityNarrativeUncertainty": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8017930427 [GLT8017930427].md",
@@ -30095,6 +30111,13 @@
           "show": "The Rest Is History",
           "title": "387. The Fall of the Aztecs: Prisoners of Montezuma (Part 4)",
           "url": "/wiki/sources/387-the-fall-of-the-aztecs-prisoners-of-montezuma-part-4-glt8017930427/"
+        },
+        {
+          "episode_file": "GLT2951201852 [GLT2951201852].md",
+          "key": "386-the-fall-of-the-aztecs-the-city-of-gold-part-3-glt2951201852",
+          "show": "The Rest Is History",
+          "title": "386. The Fall of the Aztecs: The City of Gold (Part 3)",
+          "url": "/wiki/sources/386-the-fall-of-the-aztecs-the-city-of-gold-part-3-glt2951201852/"
         }
       ],
       "updated": "2026-09-27",
@@ -68406,9 +68429,9 @@
       "url": "/wiki/entities/hermanngoring/"
     },
     "HernanCortes": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT2984940365 [GLT2984940365].md",
@@ -68444,6 +68467,13 @@
           "show": "The Rest Is History",
           "title": "387. The Fall of the Aztecs: Prisoners of Montezuma (Part 4)",
           "url": "/wiki/sources/387-the-fall-of-the-aztecs-prisoners-of-montezuma-part-4-glt8017930427/"
+        },
+        {
+          "episode_file": "GLT2951201852 [GLT2951201852].md",
+          "key": "386-the-fall-of-the-aztecs-the-city-of-gold-part-3-glt2951201852",
+          "show": "The Rest Is History",
+          "title": "386. The Fall of the Aztecs: The City of Gold (Part 3)",
+          "url": "/wiki/sources/386-the-fall-of-the-aztecs-the-city-of-gold-part-3-glt2951201852/"
         }
       ],
       "updated": "2026-09-27",
@@ -97652,9 +97682,9 @@
       "url": "/wiki/concepts/maleurologicalhealthmisconceptions/"
     },
     "Malinche": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT2984940365 [GLT2984940365].md",
@@ -97690,6 +97720,13 @@
           "show": "The Rest Is History",
           "title": "387. The Fall of the Aztecs: Prisoners of Montezuma (Part 4)",
           "url": "/wiki/sources/387-the-fall-of-the-aztecs-prisoners-of-montezuma-part-4-glt8017930427/"
+        },
+        {
+          "episode_file": "GLT2951201852 [GLT2951201852].md",
+          "key": "386-the-fall-of-the-aztecs-the-city-of-gold-part-3-glt2951201852",
+          "show": "The Rest Is History",
+          "title": "386. The Fall of the Aztecs: The City of Gold (Part 3)",
+          "url": "/wiki/sources/386-the-fall-of-the-aztecs-the-city-of-gold-part-3-glt2951201852/"
         }
       ],
       "updated": "2026-09-27",
@@ -101274,9 +101311,9 @@
       "url": "/wiki/entities/metropolitanpolice/"
     },
     "MexicaEmpire": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT2984940365 [GLT2984940365].md",
@@ -101312,6 +101349,13 @@
           "show": "The Rest Is History",
           "title": "387. The Fall of the Aztecs: Prisoners of Montezuma (Part 4)",
           "url": "/wiki/sources/387-the-fall-of-the-aztecs-prisoners-of-montezuma-part-4-glt8017930427/"
+        },
+        {
+          "episode_file": "GLT2951201852 [GLT2951201852].md",
+          "key": "386-the-fall-of-the-aztecs-the-city-of-gold-part-3-glt2951201852",
+          "show": "The Rest Is History",
+          "title": "386. The Fall of the Aztecs: The City of Gold (Part 3)",
+          "url": "/wiki/sources/386-the-fall-of-the-aztecs-the-city-of-gold-part-3-glt2951201852/"
         }
       ],
       "updated": "2026-09-27",
@@ -103272,9 +103316,9 @@
       "url": "/wiki/concepts/mobilityfirstembodiedai/"
     },
     "Moctezuma": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT8784071073 [GLT8784071073].md",
@@ -103289,6 +103333,13 @@
           "show": "The Rest Is History",
           "title": "387. The Fall of the Aztecs: Prisoners of Montezuma (Part 4)",
           "url": "/wiki/sources/387-the-fall-of-the-aztecs-prisoners-of-montezuma-part-4-glt8017930427/"
+        },
+        {
+          "episode_file": "GLT2951201852 [GLT2951201852].md",
+          "key": "386-the-fall-of-the-aztecs-the-city-of-gold-part-3-glt2951201852",
+          "show": "The Rest Is History",
+          "title": "386. The Fall of the Aztecs: The City of Gold (Part 3)",
+          "url": "/wiki/sources/386-the-fall-of-the-aztecs-the-city-of-gold-part-3-glt2951201852/"
         }
       ],
       "updated": "2026-09-27",
@@ -138501,9 +138552,9 @@
       "url": "/wiki/concepts/spacebasedaiinfrastructure/"
     },
     "SpanishConquestOfMexico": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT2984940365 [GLT2984940365].md",
@@ -138539,6 +138590,13 @@
           "show": "The Rest Is History",
           "title": "387. The Fall of the Aztecs: Prisoners of Montezuma (Part 4)",
           "url": "/wiki/sources/387-the-fall-of-the-aztecs-prisoners-of-montezuma-part-4-glt8017930427/"
+        },
+        {
+          "episode_file": "GLT2951201852 [GLT2951201852].md",
+          "key": "386-the-fall-of-the-aztecs-the-city-of-gold-part-3-glt2951201852",
+          "show": "The Rest Is History",
+          "title": "386. The Fall of the Aztecs: The City of Gold (Part 3)",
+          "url": "/wiki/sources/386-the-fall-of-the-aztecs-the-city-of-gold-part-3-glt2951201852/"
         }
       ],
       "updated": "2026-09-27",
@@ -148454,9 +148512,9 @@
       "url": "/wiki/concepts/titlesuccessionpublicduty/"
     },
     "Tlaxcala": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2744313815 [GLT2744313815].md",
@@ -148464,6 +148522,13 @@
           "show": "The Rest Is History",
           "title": "389. The Fall of the Aztecs: The Night of Tears (Part 6)",
           "url": "/wiki/sources/389-the-fall-of-the-aztecs-the-night-of-tears-part-6-glt2744313815/"
+        },
+        {
+          "episode_file": "GLT2951201852 [GLT2951201852].md",
+          "key": "386-the-fall-of-the-aztecs-the-city-of-gold-part-3-glt2951201852",
+          "show": "The Rest Is History",
+          "title": "386. The Fall of the Aztecs: The City of Gold (Part 3)",
+          "url": "/wiki/sources/386-the-fall-of-the-aztecs-the-city-of-gold-part-3-glt2951201852/"
         }
       ],
       "updated": "2026-09-27",

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [386. The Fall of the Aztecs: The City of Gold (Part 3)](sources/386-the-fall-of-the-aztecs-the-city-of-gold-part-3-glt2951201852.md) — The Rest Is History episode on Cortes's inland march, Tlaxcalan resistance and alliance, the Cholula massacre, Tenochtitlan's scale, and Moctezuma's contested welcome.
 - [VOL.85急诊｜初冬，急诊又来了一批年轻患者 刚才还好好的](sources/vol-85-jizhen-chudong-jizhen-you-lai-le-yipi-nianqing-huanzhe-gangcai-hai-haohao-de-lqq7xoemqrihmuzo5rey8rok76bp.md) — 这病说来话长 episode on emergency risk exclusion, subtle severe illness in younger adults, acute-versus-outpatient care, ICU cost pressure, and sponsor-linked insurance planning.
 - [387. The Fall of the Aztecs: Prisoners of Montezuma (Part 4)](sources/387-the-fall-of-the-aztecs-prisoners-of-montezuma-part-4-glt8017930427.md) — The Rest Is History episode on Tenochtitlan's urban order, religious encounter, contested captivity, Spanish greed, Moctezuma's disputed hostage chronology, and Narvaez's arrival.
 - [LIVE EVENT Q&A: Dr. Andrew Huberman at Meridian Hall in Toronto](sources/live-event-q-a-dr-andrew-huberman-at-meridian-hall-in-toronto-scim7370892669.md) — Huberman Lab live Q&A on nicotine, ADHD, sleep recovery, burnout, flexible nutrition and exercise, testosterone, breathwork safety, children's light exposure, and parenting.
@@ -2976,15 +2977,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [邱小真 / Qiu Xiaozhen (insurance broker)](entities/QiuXiaozhenInsurance.md) — Sponsor-linked broker discussing channel differences and scenario-based medical and accident coverage planning.
 - [张宇昊 / Zhang Yuhao (head-and-neck surgeon)](entities/ZhangYuhaoHeadNeckSurgeon.md) — Shanxi Bethune Hospital clinician explaining thyroid and neck-mass assessment through imaging, pathology, anatomy, follow-up, and individualized treatment.
 - [Shanxi Bethune Hospital / 山西白求恩医院](entities/ShanxiBethuneHospital.md) — Source-scoped institutional affiliation for head-and-neck surgeon 张宇昊.
-- [Moctezuma II](entities/Moctezuma.md) — Mexica ruler whose strategic hospitality, disputed captivity, damaged authority, and unresolved death expose the conquest record's uncertainty.
+- [Moctezuma II](entities/Moctezuma.md) — Mexica ruler whose emissaries, strategic hospitality, disputed surrender and captivity, damaged authority, and unresolved death expose the conquest record's uncertainty.
 - [Pedro de Alvarado](entities/PedroDeAlvarado.md) — Spanish commander who ordered the Toxcatl massacre and precipitated open war in Tenochtitlan.
 - [Panfilo de Narvaez](entities/PanfiloDeNarvaez.md) — Rival commander whose larger force was defeated and absorbed by Cortes immediately before the Tenochtitlan crisis.
-- [Tlaxcala](entities/Tlaxcala.md) — Indigenous polity whose renewed alliance, warriors, labor, and logistics made recovery from the Noche Triste possible.
+- [Tlaxcala](entities/Tlaxcala.md) — Independent Nahua confederation whose resistance, alliance-making, regional rivalry, warriors, labor, and logistics were causal across the conquest campaign.
 - [Cuitlahuac](entities/Cuitlahuac.md) — Short-reigned Mexica ruler whose anti-coalition strategy and death from smallpox preceded Cuauhtemoc's accession.
-- [Hernan Cortes](entities/HernanCortes.md) — Conquistador whose recovery from catastrophic defeat depended on Indigenous alliance, replenishment, terror, and narrative self-fashioning before conquest and coercive rule.
-- [Malinche](entities/Malinche.md) — Indigenous interpreter who survived the Noche Triste and later navigated conquest through constrained translation, kinship, property, and legal status.
+- [Hernan Cortes](entities/HernanCortes.md) — Conquistador whose advance, recovery, victory, and later rule depended on Indigenous alliance, translation, replenishment, terror, and narrative self-fashioning.
+- [Malinche](entities/Malinche.md) — Indigenous interpreter central to alliance and court encounter who later navigated conquest through constrained translation, kinship, property, and legal status.
 - [Cuauhtemoc](entities/Cuauhtemoc.md) — Final Mexica ruler elevated amid epidemic succession, captured after the siege, tortured for gold, and executed on an unresolved allegation.
-- [Mexica (Aztec) Empire](entities/MexicaEmpire.md) — Tenochtitlan-centered polity whose Noche Triste victory, epidemic crisis, final defeat, survival, and colonial afterlife unfolded unevenly.
+- [Mexica (Aztec) Empire](entities/MexicaEmpire.md) — Tenochtitlan-centered regional power whose tributary limits, urban order, military resistance, final defeat, survival, and colonial afterlife unfolded unevenly.
 - [Adam Grant](entities/AdamGrant.md) — Organizational psychologist and author connecting motivation, feedback, rethinking, character skills, and growth through obstacles.
 - [Hidden Potential](entities/HiddenPotential.md) — Adam Grant book framing potential through learning trajectory, opportunity, scaffolding, and character skills rather than starting talent alone.
 - [王杰宠 / Wang Jiechong](entities/WangJiechong.md) — Beijing Children's Hospital pediatric emergency-surgery resident explaining assessment-first caregiver action and timely escalation.
@@ -13983,6 +13984,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Concepts
 - [Emergency-Department Risk Exclusion / 急诊危重风险排除](concepts/EmergencyDepartmentRiskExclusion.md) — Acute-care framework prioritizing rapid identification, exclusion, or stabilization of time-sensitive danger before outpatient etiological refinement.
+- [Cholula Massacre](concepts/CholulaMassacre.md) — 1519 coalition atrocity shaped by Tlaxcalan rivalry, mediated threat reporting, Spanish command, and exemplary terror.
 - [Conquest Captivity Narrative Uncertainty](concepts/ConquestCaptivityNarrativeUncertainty.md) — Framework for distinguishing hospitality, containment, armed dependency, and hostage-taking in contested conquest testimony.
 - [Toxcatl Massacre](concepts/ToxcatlMassacre.md) — Spanish attack on festival participants that transformed an unstable occupation into open war in Tenochtitlan.
 - [Noche Triste](concepts/NocheTriste.md) — Catastrophic 1520 causeway retreat whose aftermath exposed the conquest's dependence on renewed Indigenous alliance.

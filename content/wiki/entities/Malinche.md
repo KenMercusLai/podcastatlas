@@ -9,16 +9,19 @@ sources:
   - 389-the-fall-of-the-aztecs-the-night-of-tears-part-6-glt2744313815
   - 388-the-fall-of-the-aztecs-the-festival-of-blood-part-5-glt8784071073
   - 387-the-fall-of-the-aztecs-prisoners-of-montezuma-part-4-glt8017930427
+  - 386-the-fall-of-the-aztecs-the-city-of-gold-part-3-glt2951201852
 last_updated: 2026-09-27
 ---
 
 ## Overview
 
-Malinche is the Indigenous interpreter and intermediary in the [[SpanishConquestOfMexico|Spanish conquest of Mexico]], represented here at the surrender of Tenochtitlan and through her constrained post-conquest position.
+Malinche is the Indigenous interpreter and intermediary in the [[SpanishConquestOfMexico|Spanish conquest of Mexico]], represented here from the inland alliance campaign through Tenochtitlan's surrender and her constrained post-conquest position.
 
 ## Current Profile
 
-The uncertainty surrounding the Spaniards' position in Tenochtitlan shows the structural importance of Malinche's interpreting work: [[HernanCortes|Hernan Cortes]] and his followers cannot independently read [[Moctezuma]]'s language, intentions, or political categories. In the reported later-hostage scene, she advises Moctezuma to accompany the armed Spaniards because refusal will lead to his death. The account shows her as an active mediator inside coercion, but it cannot establish the exact wording, chronology, or degree of choice available to her.
+The inland campaign shows the structural importance of Malinche's interpreting work before the Spaniards reached Tenochtitlan. Tlaxcalans reportedly called Cortes “Malinche,” and she mediated the shift from armed resistance to alliance. She also relayed the warning used to justify the [[CholulaMassacre|Cholula massacre]], although the source cannot establish whether she endorsed, reshaped, or merely transmitted politically interested information.
+
+The uncertainty surrounding the Spaniards' position in Tenochtitlan deepens that problem: [[HernanCortes|Hernan Cortes]] and his followers cannot independently read [[Moctezuma]]'s language, intentions, or political categories. Her translation of formal hospitality may have shaped a later Spanish surrender narrative, but neither wording nor intent can be recovered. In the reported later-hostage scene, she advises Moctezuma to accompany the armed Spaniards because refusal will lead to his death. The account shows her as an active mediator inside coercion, but it cannot establish the exact wording, chronology, or degree of choice available to her.
 
 Her departure from Tenochtitlan with Cortes to confront Narvaez then leaves [[PedroDeAlvarado|Pedro de Alvarado]] and the garrison facing rumor and ritual without their principal translator before the [[ToxcatlMassacre|Toxcatl massacre]]. The episode does not claim her presence would have prevented it, but her absence narrowed communication at a critical moment. She survives the [[NocheTriste|Noche Triste]], making her continued role dependent on escape from the retreat that destroyed much of Cortes's force.
 
@@ -28,7 +31,7 @@ The source resists reading this settlement as a simple romantic conclusion. Prop
 
 ## Key Characteristics
 
-- Multilingual intermediary central to contact whose translations also shaped high-stakes choices under coercive conditions.
+- Multilingual intermediary central to alliance formation and court encounter whose translations shaped high-stakes choices under coercive conditions.
 - Absent interpreter whose departure exposes how dependent the Tenochtitlan garrison was on mediated communication.
 - Survivor of the Noche Triste retreat and the campaign's transition from defeat to renewed war.
 - Interpreter at Cuauhtemoc's surrender and the immediate Spanish demand for gold.
@@ -38,6 +41,8 @@ The source resists reading this settlement as a simple romantic conclusion. Prop
 
 ## Evidence
 
+- Alliance and intelligence mediation: [[386-the-fall-of-the-aztecs-the-city-of-gold-part-3-glt2951201852]] places Malinche at the center of Tlaxcalan negotiation and the warning used before the Cholula massacre.
+- Courtly translation: [[386-the-fall-of-the-aztecs-the-city-of-gold-part-3-glt2951201852]] makes the meaning of Moctezuma's welcome dependent on her mediation while refusing to reconstruct her exact wording or intention.
 - Post-conquest household position: [[391-the-fall-of-the-aztecs-the-last-emperor-part-8-glt2984940365]] places Malinche's pregnancy alongside Catalina Suarez's arrival.
 - Property and legal status: [[391-the-fall-of-the-aztecs-the-last-emperor-part-8-glt2984940365]] describes the village grant and marriage to Juan Jaramillo.
 - Later record: [[391-the-fall-of-the-aztecs-the-last-emperor-part-8-glt2984940365]] says she survived Honduras, had a daughter, and disappeared from documentation after returning to Mexico City.
@@ -48,12 +53,13 @@ The source resists reading this settlement as a simple romantic conclusion. Prop
 
 ## Qualifications
 
-These five consecutive episodes do not reconstruct Malinche's whole life or interpreting work. Part 4 reports her advice in a hostage scene whose wording and chronology are contested; it does not reveal her private judgment or make her the author of Cortes's coercion. Part 5 establishes her absence, not the counterfactual claim that she could have prevented the massacre; Part 6 records her survival but gives little detail about her actions during the retreat. Her birth date, age, later death, degree of choice, and private relationships remain uncertain. Legal recognition and property should not be mistaken for freedom from the coercive structure of conquest.
+These six consecutive episodes do not reconstruct Malinche's whole life or interpreting work. Part 3 cannot establish whether she manipulated, strategically shaped, or faithfully relayed negotiations, the Cholula warning, or Moctezuma's welcome. Part 4 reports her advice in a hostage scene whose wording and chronology are contested; it does not reveal her private judgment or make her the author of Cortes's coercion. Part 5 establishes her absence, not the counterfactual claim that she could have prevented the massacre; Part 6 records her survival but gives little detail about her actions during the retreat. Her birth date, age, later death, degree of choice, and private relationships remain uncertain. Legal recognition and property should not be mistaken for freedom from the coercive structure of conquest.
 
 ## What Changed
 
-- Extended the profile backward to show that the initial encounter and captivity dispute depended on her mediation.
-- Added her reported advice to Moctezuma while keeping coercion, chronology, exact wording, and personal intent explicitly bounded.
+- Extended the profile backward to her central role in Tlaxcalan alliance-making and the first meeting with Moctezuma.
+- Added the Cholula warning while separating transmission from endorsement and preserving her private intentions as unknown.
+- Made the Spanish surrender narrative explicitly dependent on unrecoverable cross-cultural translation.
 
 ## Relationships
 
@@ -66,3 +72,4 @@ These five consecutive episodes do not reconstruct Malinche's whole life or inte
 - [[NocheTriste]] - retreat she survived before the coalition regrouped.
 - [[ToxcatlMassacre]] - crisis during which her absence narrowed communication but does not establish what she could have changed.
 - [[ConquestCaptivityNarrativeUncertainty]] - source problem showing how translation mediates claims about consent, threat, hospitality, and imprisonment.
+- [[CholulaMassacre]] - atrocity preceded by a warning she relayed but whose truth and transmission cannot now be reconstructed.
