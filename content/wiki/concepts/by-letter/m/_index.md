@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 8509
+wiki_total_pages: 8516
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -335,6 +335,9 @@ wiki_pages:
   - key: "MaterialsPipelineCompany"
     title: "Materials Pipeline Company"
     url: "/wiki/concepts/materialspipelinecompany/"
+  - key: "MaternalImmuneActivation"
+    title: "Maternal Immune Activation"
+    url: "/wiki/concepts/maternalimmuneactivation/"
   - key: "MaternalStatusSuccessionLeverage"
     title: "Maternal Status Succession Leverage / 子以母贵式继承杠杆"
     url: "/wiki/concepts/maternalstatussuccessionleverage/"

@@ -24068,3 +24068,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | Life, Death & the Neuroscience of Your Unique Experience | Dr. David Linden
+
+Added source `scim1807559844-scim1807559844`; created `DavidLinden`, `DevelopmentalIndividuality`, `PerceptionAsBiologicalInference`, `KraussCorpuscleSexualTouch`, `CerebellarPrediction`, `MaternalImmuneActivation`, `InflammationLinkedDepressionSubtype`, and `BiologicalMindBodyMechanisms`; and updated `BrainImmuneStateCoupling`, `MortalityBoundedMeaning`, and the canonical index from their complete bounded source sets. Core synthesis: individuality emerges from inherited variation interacting with broad experience through stochastic development; sensory and mind-body claims become useful when tied to explicit biological pathways and evidence levels; and Linden's cancer account adds prognosis-dependent time, relational gratitude, and curiosity-as-agency without turning illness into a required growth story. No settled contradiction was adopted. Transgenerational epigenetic, Krauss-corpuscle, maternal immune activation, inflammation/depression, psychedelic, breathing, tumor-innervation, exercise, and mortality interpretations remain source-scoped or qualified. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

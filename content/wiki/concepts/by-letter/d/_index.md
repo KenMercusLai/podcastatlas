@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 8509
+wiki_total_pages: 8516
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -551,6 +551,9 @@ wiki_pages:
   - key: "DevelopmentResearchEthics"
     title: "Development Research Ethics"
     url: "/wiki/concepts/developmentresearchethics/"
+  - key: "DevelopmentalIndividuality"
+    title: "Developmental Individuality"
+    url: "/wiki/concepts/developmentalindividuality/"
   - key: "DeviceFormFactorFragmentation"
     title: "Device Form Factor Fragmentation"
     url: "/wiki/concepts/deviceformfactorfragmentation/"

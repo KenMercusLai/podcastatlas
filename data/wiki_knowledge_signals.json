@@ -17421,6 +17421,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/biologicalharnessengineering/"
     },
+    "BiologicalMindBodyMechanisms": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1807559844 [SCIM1807559844].md",
+          "key": "scim1807559844-scim1807559844",
+          "show": "Huberman Lab",
+          "title": "Life, Death & the Neuroscience of Your Unique Experience | Dr. David Linden",
+          "url": "/wiki/sources/scim1807559844-scim1807559844/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/biologicalmindbodymechanisms/"
+    },
     "BiologicalProcessorEnergyEfficiency": {
       "episode_count": 1,
       "show_count": 1,
@@ -18733,9 +18749,9 @@
       "url": "/wiki/concepts/brainhealthnutrientsufficiency/"
     },
     "BrainImmuneStateCoupling": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7009523546 [SCIM7009523546].md",
@@ -18743,9 +18759,16 @@
           "show": "Huberman Lab",
           "title": "How Your Immune System Works & How to Improve It | Dr. Max Krummel",
           "url": "/wiki/sources/how-your-immune-system-works-how-to-improve-it-dr-max-krummel-scim7009523546/"
+        },
+        {
+          "episode_file": "SCIM1807559844 [SCIM1807559844].md",
+          "key": "scim1807559844-scim1807559844",
+          "show": "Huberman Lab",
+          "title": "Life, Death & the Neuroscience of Your Unique Experience | Dr. David Linden",
+          "url": "/wiki/sources/scim1807559844-scim1807559844/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/brainimmunestatecoupling/"
     },
     "BrainNetworkModularity": {
@@ -23999,6 +24022,22 @@
       ],
       "updated": "2026-09-15",
       "url": "/wiki/entities/centuriesofthebristlecone/"
+    },
+    "CerebellarPrediction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1807559844 [SCIM1807559844].md",
+          "key": "scim1807559844-scim1807559844",
+          "show": "Huberman Lab",
+          "title": "Life, Death & the Neuroscience of Your Unique Experience | Dr. David Linden",
+          "url": "/wiki/sources/scim1807559844-scim1807559844/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/cerebellarprediction/"
     },
     "Cerebras": {
       "episode_count": 3,
@@ -37302,6 +37341,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/entities/davidhyam/"
     },
+    "DavidLinden": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1807559844 [SCIM1807559844].md",
+          "key": "scim1807559844-scim1807559844",
+          "show": "Huberman Lab",
+          "title": "Life, Death & the Neuroscience of Your Unique Experience | Dr. David Linden",
+          "url": "/wiki/sources/scim1807559844-scim1807559844/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/davidlinden/"
+    },
     "DavidMancuso": {
       "episode_count": 1,
       "show_count": 1,
@@ -39533,6 +39588,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/developerhiddendebtstack/"
+    },
+    "DevelopmentalIndividuality": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1807559844 [SCIM1807559844].md",
+          "key": "scim1807559844-scim1807559844",
+          "show": "Huberman Lab",
+          "title": "Life, Death & the Neuroscience of Your Unique Experience | Dr. David Linden",
+          "url": "/wiki/sources/scim1807559844-scim1807559844/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/developmentalindividuality/"
     },
     "DeviceFormFactorFragmentation": {
       "episode_count": 1,
@@ -78595,6 +78666,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/infinityventurestudio/"
     },
+    "InflammationLinkedDepressionSubtype": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1807559844 [SCIM1807559844].md",
+          "key": "scim1807559844-scim1807559844",
+          "show": "Huberman Lab",
+          "title": "Life, Death & the Neuroscience of Your Unique Experience | Dr. David Linden",
+          "url": "/wiki/sources/scim1807559844-scim1807559844/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/inflammationlinkeddepressionsubtype/"
+    },
     "InflammatoryBowelDiseaseManagement": {
       "episode_count": 1,
       "show_count": 1,
@@ -87305,6 +87392,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/kouxuneasternhan/"
+    },
+    "KraussCorpuscleSexualTouch": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1807559844 [SCIM1807559844].md",
+          "key": "scim1807559844-scim1807559844",
+          "show": "Huberman Lab",
+          "title": "Life, Death & the Neuroscience of Your Unique Experience | Dr. David Linden",
+          "url": "/wiki/sources/scim1807559844-scim1807559844/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/krausscorpusclesexualtouch/"
     },
     "Kristallnacht": {
       "episode_count": 1,
@@ -103012,6 +103115,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/matamba/"
     },
+    "MaternalImmuneActivation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1807559844 [SCIM1807559844].md",
+          "key": "scim1807559844-scim1807559844",
+          "show": "Huberman Lab",
+          "title": "Life, Death & the Neuroscience of Your Unique Experience | Dr. David Linden",
+          "url": "/wiki/sources/scim1807559844-scim1807559844/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/maternalimmuneactivation/"
+    },
     "MaternalStatusSuccessionLeverage": {
       "episode_count": 9,
       "show_count": 1,
@@ -108222,9 +108341,9 @@
       "url": "/wiki/entities/morocco/"
     },
     "MortalityBoundedMeaning": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM7619753889 [SCIM7619753889].md",
@@ -108239,6 +108358,13 @@
           "show": "Huberman Lab",
           "title": "A Process for Finding & Achieving Your Unique Purpose | Robert Greene",
           "url": "/wiki/sources/a-process-for-finding-achieving-your-unique-purpose-robert-greene-scim1811421687/"
+        },
+        {
+          "episode_file": "SCIM1807559844 [SCIM1807559844].md",
+          "key": "scim1807559844-scim1807559844",
+          "show": "Huberman Lab",
+          "title": "Life, Death & the Neuroscience of Your Unique Experience | Dr. David Linden",
+          "url": "/wiki/sources/scim1807559844-scim1807559844/"
         }
       ],
       "updated": "2026-09-27",
@@ -118668,6 +118794,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/perceivedsimilarityinrelationships/"
+    },
+    "PerceptionAsBiologicalInference": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1807559844 [SCIM1807559844].md",
+          "key": "scim1807559844-scim1807559844",
+          "show": "Huberman Lab",
+          "title": "Life, Death & the Neuroscience of Your Unique Experience | Dr. David Linden",
+          "url": "/wiki/sources/scim1807559844-scim1807559844/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/perceptionasbiologicalinference/"
     },
     "PercyShelley": {
       "episode_count": 2,

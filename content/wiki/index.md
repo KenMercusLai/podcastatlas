@@ -3037,6 +3037,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [VOL.70精神科｜又失眠了？真的可治愈！三甲精神科医生给你睡眠支招](sources/vol-70-jingshenke-you-shimian-le-zhende-ke-zhiyu-sanjia-jingshenke-yisheng-gei-ni-shuimian-zhizhao-lkfpagwnhiqlhyyz71xwefocyhf0.md) — 这病说来话长 episode on insomnia recognition, sleep-anxiety feedback, clinical measurement, individualized treatment, and cause-directed sleep care.
 
+- [Life, Death & the Neuroscience of Your Unique Experience | Dr. David Linden](sources/scim1807559844-scim1807559844.md) — Huberman Lab episode on sensory variation, developmental individuality, cerebellar prediction, brain-immune mechanisms, neuroplasticity, cancer, and mortality.
+
 ## Entities
 - [于红 / Yu Hong](entities/YuHong.md) — 从约十五年投资经历转向儿童社会情感教育、创办兔咚咚的教育创业者。
 - [兔咚咚 / Tu Dongdong](entities/TuDongdong.md) — 于红创办的线上儿童社会情感学习产品，以故事、场景和反复练习训练能力。
@@ -14152,6 +14154,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Marquis de Sade](entities/MarquisDeSade.md) — French aristocrat and writer whose libertine philosophy joined selected emancipatory claims to coercive domination.
 - [The 120 Days of Sodom](entities/The120DaysOfSodom.md) — Sade's prison-written novel of sealed, scheduled, and escalating domination.
 
+- [David Linden](entities/DavidLinden.md) — Johns Hopkins neuroscientist framing individuality, sensory experience, cerebellar prediction, mind-body biology, and mortality through explicit evidence boundaries.
+
 ## Concepts
 - [Social-Emotional Learning / 社会情感学习](concepts/SocialEmotionalLearning.md) — 覆盖自我管理、人际与冲突处理、批判性解释和负责任决策的能力教育。
 - [Emotion Acceptance–Signal–Action Sequence / 情绪接纳—信号—行动顺序](concepts/EmotionAcceptanceSignalAction.md) — 先允许并识别情绪，再解释可能信号、调节状态并选择行动的顺序。
@@ -22678,5 +22682,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Trading Probability Calibration / 交易概率校准](concepts/TradingProbabilityCalibration.md) — Validation of confidence against outcomes, market pricing, evidence dependence, costs, and position size.
 - [Sadean Naturalism](concepts/SadeanNaturalism.md) — Move from natural desire and struggle to moral permission for domination.
 - [Libertine Freedom-Domination Paradox](concepts/LibertineFreedomDominationParadox.md) — Contradiction in which liberation from restraint erases another person's consent and agency.
+
+- [Developmental Individuality](concepts/DevelopmentalIndividuality.md) — Framework joining heritability, broad experience, and stochastic development without treating population estimates as individual destiny.
+- [Perception as Biological Inference](concepts/PerceptionAsBiologicalInference.md) — Cross-sensory model in which receptors, learning, culture, expectation, and development jointly shape experienced reality.
+- [Krauss Corpuscles and Sexual Touch](concepts/KraussCorpuscleSexualTouch.md) — Mouse mechanosensory evidence for genital touch and sexual behavior with explicit human-translation limits.
+- [Cerebellar Prediction](concepts/CerebellarPrediction.md) — Near-future prediction account of cerebellar motor coordination and qualified non-motor extensions.
+- [Maternal Immune Activation](concepts/MaternalImmuneActivation.md) — Timing-sensitive immune-to-neurodevelopment pathway separating human association, mouse mechanism, and diagnostic inference.
+- [Inflammation-Linked Depression Subtype](concepts/InflammationLinkedDepressionSubtype.md) — Conditional model in which inflammation may matter for a depression subgroup without supporting universal anti-inflammatory treatment.
+- [Biological Mind-Body Mechanisms](concepts/BiologicalMindBodyMechanisms.md) — Mechanism-first test for neural, endocrine, immune, vascular, breathing, and tumor-innervation claims.
 
 ## Syntheses

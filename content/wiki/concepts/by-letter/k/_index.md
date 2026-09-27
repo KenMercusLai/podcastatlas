@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "k"
-wiki_total_pages: 8509
+wiki_total_pages: 8516
 wiki_pages:
   - key: "K12ComputerScienceAccess"
     title: "K-12 Computer Science Access"
@@ -122,6 +122,9 @@ wiki_pages:
   - key: "KRASOncologyTarget"
     title: "KRAS Oncology Target"
     url: "/wiki/concepts/krasoncologytarget/"
+  - key: "KraussCorpuscleSexualTouch"
+    title: "Krauss Corpuscles and Sexual Touch"
+    url: "/wiki/concepts/krausscorpusclesexualtouch/"
   - key: "KumagaiAndAtsumori"
     title: "Kumagai and Atsumori"
     url: "/wiki/concepts/kumagaiandatsumori/"

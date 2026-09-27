@@ -13657,6 +13657,13 @@
       "url": "/topics/science/"
     }
   ],
+  "BiologicalMindBodyMechanisms": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "BiologicalProcessorEnergyEfficiency": [
     {
       "key": "technology",
@@ -16450,6 +16457,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "CerebellarPrediction": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "Cerebras": [
@@ -22622,6 +22636,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "DavidLinden": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "DavidMcRaney": [
     {
       "key": "science",
@@ -23512,6 +23533,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "DevelopmentalIndividuality": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "DevolutionAsGoverningProject": [
@@ -43482,6 +43510,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "KraussCorpuscleSexualTouch": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "KrebsOnSecurity": [
     {
       "key": "technology",
@@ -48601,6 +48636,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "MaternalImmuneActivation": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "MaternalStatusSuccessionLeverage": [
@@ -89012,6 +89054,13 @@
     }
   ],
   "science-of-attraction-compatibility-romance-dr-paul-eastwick-scim9984287085": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "scim1807559844-scim1807559844": [
     {
       "key": "science",
       "label": "Science",

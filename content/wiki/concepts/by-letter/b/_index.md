@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 8509
+wiki_total_pages: 8516
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -356,6 +356,9 @@ wiki_pages:
   - key: "BiologicalHarnessEngineering"
     title: "Biological Harness Engineering"
     url: "/wiki/concepts/biologicalharnessengineering/"
+  - key: "BiologicalMindBodyMechanisms"
+    title: "Biological Mind-Body Mechanisms"
+    url: "/wiki/concepts/biologicalmindbodymechanisms/"
   - key: "BiologicalProcessorEnergyEfficiency"
     title: "Biological Processor Energy Efficiency"
     url: "/wiki/concepts/biologicalprocessorenergyefficiency/"

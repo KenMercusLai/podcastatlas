@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 8509
+wiki_total_pages: 8516
 wiki_pages:
   - key: "IBDPatientEducationAndPeerSupport"
     title: "IBD Patient Education and Peer Support / IBD患者教育与同伴支持"
@@ -398,6 +398,9 @@ wiki_pages:
   - key: "InferioritySuperiorityDynamic"
     title: "Inferiority-Superiority Dynamic"
     url: "/wiki/concepts/inferioritysuperioritydynamic/"
+  - key: "InflammationLinkedDepressionSubtype"
+    title: "Inflammation-Linked Depression Subtype"
+    url: "/wiki/concepts/inflammationlinkeddepressionsubtype/"
   - key: "InflammatoryBowelDiseaseManagement"
     title: "Inflammatory Bowel Disease Management / 炎症性肠病管理"
     url: "/wiki/concepts/inflammatoryboweldiseasemanagement/"

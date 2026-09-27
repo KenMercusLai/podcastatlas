@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8509
+wiki_total_pages: 8516
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -449,6 +449,9 @@ wiki_pages:
   - key: "CeramicLivestreamCommerceRisk"
     title: "Ceramic Livestream Commerce Risk / 陶瓷直播电商风险"
     url: "/wiki/concepts/ceramiclivestreamcommercerisk/"
+  - key: "CerebellarPrediction"
+    title: "Cerebellar Prediction"
+    url: "/wiki/concepts/cerebellarprediction/"
   - key: "CerebrovascularEventRecognition"
     title: "Cerebrovascular Event Recognition"
     url: "/wiki/concepts/cerebrovasculareventrecognition/"
