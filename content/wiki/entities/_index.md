@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 10976
+wiki_total_pages: 10978
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -206,6 +206,9 @@ wiki_pages:
   - key: "AdamGoldsteinArcher"
     title: "Adam Goldstein (Archer Aviation)"
     url: "/wiki/entities/adamgoldsteinarcher/"
+  - key: "AdamGrant"
+    title: "Adam Grant"
+    url: "/wiki/entities/adamgrant/"
   - key: "AdamRaine"
     title: "Adam Raine"
     url: "/wiki/entities/adamraine/"

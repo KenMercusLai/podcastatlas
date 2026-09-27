@@ -4,7 +4,8 @@ type: concept
 tags: [psychology, learning, motivation, performance]
 sources:
   - how-to-master-growth-mindset-to-improve-performance-dr-david-yeager-scim6606381639
-last_updated: 2026-09-26
+  - how-to-unlock-your-potential-motivation-unique-abilities-dr-adam-grant-scim2670765142
+last_updated: 2026-09-27
 knowledge_schema: synthesis-v1
 ---
 
@@ -17,6 +18,8 @@ Growth mindset is the belief that ability or potential in a particular domain ca
 [[DavidYeager]] distinguishes growth mindset from the promise that effort can achieve anything. Its practical effect appears under challenge: failure can be treated as information, stronger performers as sources of strategy, and difficulty as a possible part of learning rather than a verdict on identity.
 
 The belief is necessary but not self-sufficient. A learner also needs instruction, feedback, opportunity, resources, and an environment where improved strategies can produce progress. Short interventions can start a recursive cycle by offering scientific explanation, relatable stories, and self-persuasion, but durable effects depend on later conditions that make the new interpretation credible.
+
+[[AdamGrant]] reinforces this contextual account through scaffolding and job crafting. Temporary support can be withdrawn as competence grows, while the work environment may itself be altered by accentuating, subtracting, or swapping tasks. Growth mindset therefore applies to changeable skills and changeable contexts; it is not reliably installed by one workshop, slogan, or podcast.
 
 ## Key Claims
 - Growth mindset concerns changeability under conditions and support, not unlimited achievement through effort alone.
@@ -31,13 +34,14 @@ The belief is necessary but not self-sufficient. A learner also needs instructio
 - Failure response - [[how-to-master-growth-mindset-to-improve-performance-dr-david-yeager-scim6606381639]] describes fixed-mindset participants protecting self-esteem through downward comparison and growth-mindset participants seeking strategies from stronger performers.
 - Intervention design - [[how-to-master-growth-mindset-to-improve-performance-dr-david-yeager-scim6606381639]] describes scientific information, similar-peer stories, and self-persuasion writing as components of brief interventions.
 - Context dependence - [[how-to-master-growth-mindset-to-improve-performance-dr-david-yeager-scim6606381639]] says benefits were strongest where school culture and advanced-course access supported later action.
+- Scaffolding and environment - [[how-to-unlock-your-potential-motivation-unique-abilities-dr-adam-grant-scim2670765142]] pairs belief in growth with temporary support, supportive culture, and task-level job crafting.
 
 ## Counterevidence & Qualifications
-Mindset cannot repair missing instruction, inaccessible coursework, discrimination, material deprivation, unsafe conditions, or a task that does not match the learner's current prerequisites. The episode reports promising field experiments, but conversational summaries and unpublished longer-term results do not establish a universal effect size. Simplified praise for effort may even obscure whether a person needs a new strategy, better support, or a changed environment.
+Mindset cannot repair missing instruction, inaccessible coursework, discrimination, material deprivation, unsafe conditions, or a task that does not match the learner's current prerequisites. The episodes report promising interventions, but conversational summaries and unpublished longer-term results do not establish a universal effect size. Grant explicitly rejects one-off mindset installation. Simplified praise for effort may obscure whether a person needs a new strategy, temporary scaffolding, better support, or a changed environment.
 
 ## What Changed
-- Created a bounded definition that separates changeability from effort-only optimism.
-- Made environmental opportunity and support part of the causal account rather than an afterthought.
+- Added scaffolding and changeable-job context to the environmental account.
+- Reinforced that a one-off message cannot reliably install durable growth mindset.
 
 ## Related Concepts
 - [[EducationMotivationArchitecture]] - supplies the goals, opportunity, belonging, and support through which mindset can become action.
@@ -45,3 +49,4 @@ Mindset cannot repair missing instruction, inaccessible coursework, discriminati
 - [[MentorMindsetFeedback]] - applies belief in development to demanding interpersonal feedback.
 - [[ThreatChallengeStressReappraisal]] - parallel reinterpretation of arousal and demand under pressure.
 - [[EffortAsReward]] - connects persistence to the experience of effort rather than only eventual outcomes.
+- [[PotentialAsGrowthRate]] - evaluates developmental trajectory without treating early ability as destiny.

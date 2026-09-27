@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 8366
+wiki_total_pages: 8370
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -317,6 +317,9 @@ wiki_pages:
   - key: "AdversitySilenceDiscipline"
     title: "Adversity Silence Discipline / 逆境守口"
     url: "/wiki/concepts/adversitysilencediscipline/"
+  - key: "AdviceSeekingForImprovement"
+    title: "Advice Seeking for Improvement"
+    url: "/wiki/concepts/adviceseekingforimprovement/"
   - key: "AdviserStateArchitecture"
     title: "Adviser State Architecture / 谋士政权架构"
     url: "/wiki/concepts/adviserstatearchitecture/"

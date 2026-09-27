@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 8366
+wiki_total_pages: 8370
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -281,6 +281,9 @@ wiki_pages:
   - key: "BeverageDevelopmentFeasibility"
     title: "Beverage Development Feasibility / 饮品研发可落地性"
     url: "/wiki/concepts/beveragedevelopmentfeasibility/"
+  - key: "BiasBlindSpot"
+    title: "Bias Blind Spot"
+    url: "/wiki/concepts/biasblindspot/"
   - key: "BibliographicClassificationAsStatecraft"
     title: "Bibliographic Classification as Statecraft / 目录分类作为治国术"
     url: "/wiki/concepts/bibliographicclassificationasstatecraft/"

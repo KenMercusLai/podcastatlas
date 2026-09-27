@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 10976
+wiki_total_pages: 10978
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -530,6 +530,9 @@ wiki_pages:
   - key: "HibatullahAkhundzada"
     title: "Hibatullah Akhundzada"
     url: "/wiki/entities/hibatullahakhundzada/"
+  - key: "HiddenPotential"
+    title: "Hidden Potential"
+    url: "/wiki/entities/hiddenpotential/"
   - key: "HiddenValleyRanch"
     title: "Hidden Valley Ranch"
     url: "/wiki/entities/hiddenvalleyranch/"

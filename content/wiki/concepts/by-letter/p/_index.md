@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8366
+wiki_total_pages: 8370
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1205,6 +1205,9 @@ wiki_pages:
   - key: "PostwarTeenageConsumerMarket"
     title: "Postwar Teenage Consumer Market"
     url: "/wiki/concepts/postwarteenageconsumermarket/"
+  - key: "PotentialAsGrowthRate"
+    title: "Potential as Growth Rate"
+    url: "/wiki/concepts/potentialasgrowthrate/"
   - key: "PovertyTrapModernization"
     title: "Poverty-Trap Modernization / 贫困陷阱与现代化"
     url: "/wiki/concepts/povertytrapmodernization/"

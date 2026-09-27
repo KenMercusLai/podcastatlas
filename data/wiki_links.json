@@ -4267,6 +4267,10 @@
     "title": "Adam Goldstein (Archer Aviation)",
     "url": "/wiki/entities/adamgoldsteinarcher/"
   },
+  "AdamGrant": {
+    "title": "Adam Grant",
+    "url": "/wiki/entities/adamgrant/"
+  },
   "AdamRaine": {
     "title": "Adam Raine",
     "url": "/wiki/entities/adamraine/"
@@ -4550,6 +4554,10 @@
   "AdviceFramingUnderHierarchy": {
     "title": "等级场景中的进言包装 / Hierarchy-Aware Advice Framing",
     "url": "/wiki/concepts/adviceframingunderhierarchy/"
+  },
+  "AdviceSeekingForImprovement": {
+    "title": "Advice Seeking for Improvement",
+    "url": "/wiki/concepts/adviceseekingforimprovement/"
   },
   "AdviserStateArchitecture": {
     "title": "Adviser State Architecture / 谋士政权架构",
@@ -9498,6 +9506,10 @@
   "BianshuiBattleLateHan": {
     "title": "汴水之战 / Bianshui Battle (late Han)",
     "url": "/wiki/entities/bianshuibattlelatehan/"
+  },
+  "BiasBlindSpot": {
+    "title": "Bias Blind Spot",
+    "url": "/wiki/concepts/biasblindspot/"
   },
   "Bibigo": {
     "title": "Bibigo",
@@ -31630,6 +31642,10 @@
   "HiddenAssetOptionality": {
     "title": "Hidden Asset Optionality",
     "url": "/wiki/concepts/hiddenassetoptionality/"
+  },
+  "HiddenPotential": {
+    "title": "Hidden Potential",
+    "url": "/wiki/entities/hiddenpotential/"
   },
   "HiddenValleyRanch": {
     "title": "Hidden Valley Ranch",
@@ -54007,6 +54023,10 @@
     "title": "Postwar Teenage Consumer Market",
     "url": "/wiki/concepts/postwarteenageconsumermarket/"
   },
+  "PotentialAsGrowthRate": {
+    "title": "Potential as Growth Rate",
+    "url": "/wiki/concepts/potentialasgrowthrate/"
+  },
   "PovertyMemoryCorruptionExcuse": {
     "title": "贫穷记忆贪腐借口 / Poverty Memory as Corruption Excuse",
     "url": "/wiki/concepts/povertymemorycorruptionexcuse/"
@@ -60386,6 +60406,10 @@
   "ScientistAsStateBureaucrat": {
     "title": "Scientist As State Bureaucrat",
     "url": "/wiki/concepts/scientistasstatebureaucrat/"
+  },
+  "ScientistModeThinking": {
+    "title": "Scientist Mode Thinking",
+    "url": "/wiki/concepts/scientistmodethinking/"
   },
   "ScipioAemilianus": {
     "title": "Scipio Aemilianus / 小西庇阿",
@@ -81710,6 +81734,10 @@
   "how-to-safeguard-your-hormone-health-fertility-dr-shanna-swan-scim6175232531": {
     "title": "How to Safeguard Your Hormone Health & Fertility | Dr. Shanna Swan",
     "url": "/wiki/sources/how-to-safeguard-your-hormone-health-fertility-dr-shanna-swan-scim6175232531/"
+  },
+  "how-to-unlock-your-potential-motivation-unique-abilities-dr-adam-grant-scim2670765142": {
+    "title": "How to Unlock Your Potential, Motivation & Unique Abilities | Dr. Adam Grant",
+    "url": "/wiki/sources/how-to-unlock-your-potential-motivation-unique-abilities-dr-adam-grant-scim2670765142/"
   },
   "how-to-win-a-penalty-shootout-with-game-theory": {
     "title": "How to win a penalty shootout (with game theory)",

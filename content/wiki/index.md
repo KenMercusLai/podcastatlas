@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Unlock Your Potential, Motivation & Unique Abilities | Dr. Adam Grant](sources/how-to-unlock-your-potential-motivation-unique-abilities-dr-adam-grant-scim2670765142.md) — Huberman Lab interview on creative delay, intrinsic motivation, advice-oriented feedback, contextual growth mindset, scientist mode, imperfectionism, and potential as developmental trajectory.
 - [VOL.87儿科急诊｜害怕医院有交叉感染就不带孩子去看病？被忽略的那些致命细节](sources/vol-87-erke-jizhen-haipa-yiyuan-you-jiaochaganran-jiu-bu-dai-haizi-qu-kanbing-bei-hulue-de-naxie-zhiming-xijie-lgcixq48amokf8z_tbv7l7bookhg.md) — 这病说来话长 episode with 王杰宠 on pediatric emergency escalation, airway foreign bodies, household first aid, imaging decisions, and urgent family-clinician communication.
 - [393. JFK: Cuba, Camelot and the Cold War (Part 2)](sources/393-jfk-cuba-camelot-and-the-cold-war-part-2-glt9682768005.md) — The Rest Is History episode testing assassination motives against Kennedy's centrist domestic politics, Cuba record, Cold War restraint, Vietnam uncertainty, and 1964 prospects.
 - [394. JFK: Death in Dallas (Part 3)](sources/394-jfk-death-in-dallas-part-3-glt6387392381.md) — The Rest Is History episode on Kennedy's Texas campaign, the accessibility-security tradeoff, Dealey Plaza, the shooting sequence, and the immediate encounter with Oswald.
@@ -2960,6 +2961,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Prevent & Treat Colds & Flu](sources/how-to-prevent-treat-colds-flu-scim6817932732.md) — Huberman Lab solo episode on respiratory-virus transmission, layered immune defense, sleep and training load, heat boundaries, and supplement evidence.
 
 ## Entities
+- [Adam Grant](entities/AdamGrant.md) — Organizational psychologist and author connecting motivation, feedback, rethinking, character skills, and growth through obstacles.
+- [Hidden Potential](entities/HiddenPotential.md) — Adam Grant book framing potential through learning trajectory, opportunity, scaffolding, and character skills rather than starting talent alone.
 - [王杰宠 / Wang Jiechong](entities/WangJiechong.md) — Beijing Children's Hospital pediatric emergency-surgery resident explaining assessment-first caregiver action and timely escalation.
 - [Beijing Children's Hospital / 北京儿童医院](entities/BeijingChildrensHospital.md) — Source-scoped institutional context for Wang Jiechong's pediatric emergency-surgery cases and public education.
 - [Bay of Pigs Invasion](entities/BayOfPigsInvasion.md) — Failed 1961 CIA-backed exile landing whose collapse created anti-Kennedy resentment without proving an assassination conspiracy.
@@ -13951,6 +13954,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kay Tye](entities/KayTye.md) — Neuroscientist connecting emotional-valence circuits to loneliness, social homeostasis, hierarchy, and sustainable scientific leadership.
 
 ## Concepts
+- [Bias Blind Spot](concepts/BiasBlindSpot.md) — Self-exemption pattern in which bias is easier to see in others, with outside perspective and hypothesis testing as bounded corrections.
+- [Advice Seeking for Improvement](concepts/AdviceSeekingForImprovement.md) — Future-oriented critique method that asks what to change next time and uses multiple reviewers, task focus, and receptive follow-through.
+- [Scientist Mode Thinking](concepts/ScientistModeThinking.md) — Reasoning stance that treats opinions as hypotheses and decisions as experiments while preserving ethical and evidentiary boundaries.
+- [Potential as Growth Rate](concepts/PotentialAsGrowthRate.md) — Trajectory-based view of capability that evaluates learning through obstacles together with opportunity, coaching, and support.
 - [Pediatric Emergency Triage and Escalation / 儿科急诊判断与升级](concepts/PediatricEmergencyTriageAndEscalation.md) — Caregiver framework joining pediatric warning signs, fitted first aid, prompt care, imaging communication, and urgent shared decisions.
 - [Pediatric Airway Foreign-Body Escalation / 儿童气道异物升级处置](concepts/PediatricAirwayForeignBodyEscalation.md) — Acute-and-delayed safety boundary for suspected aspiration, persistent pneumonia, secretion retention, and atelectasis.
 - [Presidential Accessibility-Security Tradeoff](concepts/PresidentialAccessibilitySecurityTradeoff.md) — Tension between the political value of public proximity and the protective exposure created by visibility, spontaneity, and open routes.

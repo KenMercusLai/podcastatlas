@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2844
+topic_total_pages: 2845
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -4028,6 +4028,9 @@ topic_entities:
   - key: "HermannHesse"
     title: "Hermann Hesse / 赫尔曼·黑塞"
     url: "/wiki/entities/hermannhesse/"
+  - key: "HiddenPotential"
+    title: "Hidden Potential"
+    url: "/wiki/entities/hiddenpotential/"
   - key: "HOKA"
     title: "HOKA"
     url: "/wiki/entities/hoka/"

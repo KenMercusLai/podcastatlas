@@ -23488,3 +23488,11 @@ Added source `vol-87-erke-jizhen-haipa-yiyuan-you-jiaochaganran-jiu-bu-dai-haizi
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | How to Unlock Your Potential, Motivation & Unique Abilities | Dr. Adam Grant
+
+Added source `how-to-unlock-your-potential-motivation-unique-abilities-dr-adam-grant-scim2670765142`; created `AdamGrant`, `HiddenPotential`, `AdviceSeekingForImprovement`, `ScientistModeThinking`, `PotentialAsGrowthRate`, and `BiasBlindSpot`; and updated `SubconsciousCreativeIncubation`, `ProcrastinationSelfRegulationFailure`, `GrowthMindset`, `MotivationCrowdingOut`, `PerfectionismAsAvoidance`, and the canonical index from their complete bounded source sets. Core synthesis: potential is better judged through growth under obstacles than starting ability, while creativity and performance improve through bounded incubation, intrinsic interest or purpose, future-oriented advice, environmental scaffolding, testable beliefs, and standards calibrated to task consequence. No settled contradiction found. Deliberate creative delay is distinguished from costly procrastination; rewards can increase output while still crowding out autonomy or quality; and the cited creativity, productivity, mindset, job-crafting, perfectionism, advice-giving, memory, and parenting findings remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten because the existing motivation, creativity, learning, and feedback syntheses already cover the relevant domains.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

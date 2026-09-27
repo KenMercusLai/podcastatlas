@@ -7812,6 +7812,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "AdviceSeekingForImprovement": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "AdvisorRoleBoundary": [
     {
       "key": "politics",
@@ -13160,6 +13167,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "BiasBlindSpot": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "BibliographicClassificationAsStatecraft": [
@@ -35576,6 +35590,18 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "HiddenPotential": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "HigashinoKeigo": [
@@ -64685,6 +64711,13 @@
       "url": "/topics/science/"
     }
   ],
+  "ScientistModeThinking": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "ScottBessent": [
     {
       "key": "economics",
@@ -87406,6 +87439,13 @@
     }
   ],
   "how-to-overcome-social-anxiety-dr-nick-epley-scim7834121132": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "how-to-unlock-your-potential-motivation-unique-abilities-dr-adam-grant-scim2670765142": [
     {
       "key": "science",
       "label": "Science",

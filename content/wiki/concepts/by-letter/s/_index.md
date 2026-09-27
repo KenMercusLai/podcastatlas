@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 8366
+wiki_total_pages: 8370
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -290,6 +290,9 @@ wiki_pages:
   - key: "ScientistAsStateBureaucrat"
     title: "Scientist As State Bureaucrat"
     url: "/wiki/concepts/scientistasstatebureaucrat/"
+  - key: "ScientistModeThinking"
+    title: "Scientist Mode Thinking"
+    url: "/wiki/concepts/scientistmodethinking/"
   - key: "ScorchedEarthSupplyDenial"
     title: "Scorched-Earth Supply Denial / 坚壁清野式断粮"
     url: "/wiki/concepts/scorchedearthsupplydenial/"

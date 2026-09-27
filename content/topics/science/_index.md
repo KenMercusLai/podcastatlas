@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1241
+topic_total_pages: 1246
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -40,6 +40,9 @@ topic_concepts:
   - key: "AdventureUncertaintyReframing"
     title: "Adventure-Uncertainty Reframing"
     url: "/wiki/concepts/adventureuncertaintyreframing/"
+  - key: "AdviceSeekingForImprovement"
+    title: "Advice Seeking for Improvement"
+    url: "/wiki/concepts/adviceseekingforimprovement/"
   - key: "AerosolCoolingMasking"
     title: "Aerosol Cooling Masking"
     url: "/wiki/concepts/aerosolcoolingmasking/"
@@ -184,6 +187,9 @@ topic_concepts:
   - key: "BetterThanAverageEffect"
     title: "Better-Than-Average Effect / 优于常人效应"
     url: "/wiki/concepts/betterthanaverageeffect/"
+  - key: "BiasBlindSpot"
+    title: "Bias Blind Spot"
+    url: "/wiki/concepts/biasblindspot/"
   - key: "BigScienceInfrastructure"
     title: "Big Science Infrastructure / 大科学基础设施"
     url: "/wiki/concepts/bigscienceinfrastructure/"
@@ -1711,6 +1717,9 @@ topic_concepts:
   - key: "ScientistAsProjectOrganizer"
     title: "Scientist As Project Organizer / 科学家作为项目组织者"
     url: "/wiki/concepts/scientistasprojectorganizer/"
+  - key: "ScientistModeThinking"
+    title: "Scientist Mode Thinking"
+    url: "/wiki/concepts/scientistmodethinking/"
   - key: "ScurvyNutritionInsight"
     title: "Scurvy Nutrition Insight"
     url: "/wiki/concepts/scurvynutritioninsight/"
@@ -2486,6 +2495,9 @@ topic_entities:
   - key: "HenryGoddard"
     title: "Henry H. Goddard / 亨利·戈达德"
     url: "/wiki/entities/henrygoddard/"
+  - key: "HiddenPotential"
+    title: "Hidden Potential"
+    url: "/wiki/entities/hiddenpotential/"
   - key: "HinduKushHimalaya"
     title: "Hindu Kush Himalaya"
     url: "/wiki/entities/hindukushhimalaya/"
@@ -3546,6 +3558,9 @@ topic_sources:
   - key: "how-to-overcome-social-anxiety-dr-nick-epley-scim7834121132"
     title: "How to Overcome Social Anxiety | Dr. Nick Epley"
     url: "/wiki/sources/how-to-overcome-social-anxiety-dr-nick-epley-scim7834121132/"
+  - key: "how-to-unlock-your-potential-motivation-unique-abilities-dr-adam-grant-scim2670765142"
+    title: "How to Unlock Your Potential, Motivation & Unique Abilities | Dr. Adam Grant"
+    url: "/wiki/sources/how-to-unlock-your-potential-motivation-unique-abilities-dr-adam-grant-scim2670765142/"
   - key: "how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360"
     title: "How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford"
     url: "/wiki/sources/how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360/"

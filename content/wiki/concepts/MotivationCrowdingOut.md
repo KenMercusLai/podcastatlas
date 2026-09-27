@@ -6,7 +6,8 @@ sources:
   - 79-gewei-lingdao-danfan-zan-xuedian-boyilun-690004262
   - leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288
   - master-self-control-overcome-procrastination-dr-kentaro-fujita-scim8156556751
-last_updated: 2026-09-12
+  - how-to-unlock-your-potential-motivation-unique-abilities-dr-adam-grant-scim2670765142
+last_updated: 2026-09-27
 knowledge_schema: synthesis-v1
 ---
 
@@ -19,6 +20,8 @@ Motivation crowding out is the wiki's frame for reward systems that weaken an ac
 The current evidence connects an economics/incentives version with a neuroscience/motivation version. [[79-gewei-lingdao-danfan-zan-xuedian-boyilun-690004262]] uses blood donation through [[RichardTitmuss|Richard Titmuss]] and a Swiss nuclear-waste siting example to show that external payment can cheapen a moral or civic act when it changes its perceived meaning. [[leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288]] gives the same pattern an intrinsic-motivation mechanism: external rewards can reduce later voluntary engagement with an activity, and stacking extra dopamine around already-valued work can make the original activity feel less rewarding afterward.
 
 [[master-self-control-overcome-procrastination-dr-kentaro-fujita-scim8156556751]] reinforces the interpretation layer. Fujita's discussion of children rewarded for drawing suggests crowding out happens when people reinterpret why they are acting: the same activity can shift from "I like this" to "I did it for a reward," especially when the reward is expected in advance.
+
+An important productivity qualification comes from [[AdamGrant]]. Meta-analytic evidence is described as showing that incentives often increase output, particularly quantity, while quality and intrinsic interest are more vulnerable when rewards feel controlling. Autonomy and appreciation can therefore change the meaning of the same reward; incentive effects are not captured by a simple rewards-help or rewards-hurt rule.
 
 ## Key Claims
 - Intrinsic motivation includes honor, justice, love, public spirit, meaning, curiosity, and enjoyment of the effort process.
@@ -35,14 +38,14 @@ The current evidence connects an economics/incentives version with a neuroscienc
 - Intrinsic-motivation experiment: [[leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288]] uses the Stanford drawing-reward example to show external rewards reducing later free engagement.
 - Dopamine-stacking warning: [[leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288]] warns that adding caffeine, supplements, or other dopamine-raising stimuli to enjoyable activities can create later troughs and weaken the original motivation.
 - Self-explanation shift: [[master-self-control-overcome-procrastination-dr-kentaro-fujita-scim8156556751]] uses the expected drawing-reward finding to show how rewards can change perceived motive.
+- Output-versus-meaning qualification: [[how-to-unlock-your-potential-motivation-unique-abilities-dr-adam-grant-scim2670765142]] says incentives generally raise productivity, especially quantity, while controlling framing can weaken intrinsic motivation.
 
 ## Counterevidence & Qualifications
-Crowding out does not mean all rewards are harmful. Pay, recognition, prizes, and penalties can be necessary or useful when they are proportionate, respectful, sufficiently large for the context, or attached to behavior that lacks intrinsic motivation. The concept warns against careless reward design, not against compensation or feedback. Fujita also notes that adults with a clear sense that they love an activity may be more resistant to confusing payment with the underlying motive, though the episode treats that as controversial.
+Crowding out does not mean all rewards are harmful. Pay, recognition, prizes, and penalties can increase output and may be necessary or useful when they are proportionate, respectful, autonomy-preserving, sufficiently large for the context, or attached to behavior that lacks intrinsic motivation. Quantity gains do not guarantee quality or durable interest, and the concept warns against careless reward design rather than compensation or feedback as such. Fujita also notes that adults with a clear sense that they love an activity may be more resistant to confusing payment with the underlying motive, though the episode treats that as controversial.
 
 ## What Changed
-- Migrated the page to synthesis-v1 while preserving its original source inventory.
-- Added Huberman's external-reward and dopamine-stacking account of weakened intrinsic motivation.
-- Added Fujita's self-explanation account of expected rewards crowding out intrinsic interest.
+- Added the distinction between productivity quantity and intrinsic-motivation quality.
+- Added autonomy and appreciative framing as moderators of reward meaning.
 
 ## Related Concepts
 - [[EffortAsReward]] - process-motivation branch that protects effort from outcome-only reward.
