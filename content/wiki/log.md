@@ -23804,3 +23804,11 @@ Added source `374-the-battle-of-cable-street-fascism-defeated-glt3021730207`; cr
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | AMA #11: Improve Task Switching & Productivity and Reduce Brain Fog
+
+Added source `ama-11-improve-task-switching-productivity-and-reduce-brain-fog-scim5878324891`; created `FlexibleWeeklyFitnessScaffold`; and updated `SustainableHealthOptimization`, the canonical index, and the automatic overview from the concept's complete bounded source set. Core synthesis: a three-resistance, three-cardio, one-rest-day week can guide broad fitness coverage without becoming rigid, because sleep, illness, stress, soreness, nutrition, travel, family time, recent training, and injury risk can move, combine, change, or cancel individual sessions. No settled contradiction found. Weekly frequency, 85-95% adherence, interval structure, workout timing, autonomic entrainment, periodization, and combined-session claims remain source-scoped public education rather than individualized training or medical advice.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

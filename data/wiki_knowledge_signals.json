@@ -55587,6 +55587,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/concepts/flexiblefrontiermilitarydiscretion/"
     },
+    "FlexibleWeeklyFitnessScaffold": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5878324891 [SCIM5878324891].md",
+          "key": "ama-11-improve-task-switching-productivity-and-reduce-brain-fog-scim5878324891",
+          "show": "Huberman Lab",
+          "title": "AMA #11: Improve Task Switching & Productivity and Reduce Brain Fog",
+          "url": "/wiki/sources/ama-11-improve-task-switching-productivity-and-reduce-brain-fog-scim5878324891/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/flexibleweeklyfitnessscaffold/"
+    },
     "FlightToVarennes": {
       "episode_count": 2,
       "show_count": 1,
@@ -146487,9 +146503,9 @@
       "url": "/wiki/concepts/sustainablebusinessoverscale/"
     },
     "SustainableHealthOptimization": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "SCIM2882548864 [SCIM2882548864].md",
@@ -146532,6 +146548,13 @@
           "show": "Huberman Lab",
           "title": "AMA #12: Thoughts on Longevity Supplements (Resveratrol, NR, NMN, Etc.) & How to Improve Memory",
           "url": "/wiki/sources/ama-12-thoughts-on-longevity-supplements-resveratrol-nr-nmn-etc-how-to-improve-memory-scim5764692205/"
+        },
+        {
+          "episode_file": "SCIM5878324891 [SCIM5878324891].md",
+          "key": "ama-11-improve-task-switching-productivity-and-reduce-brain-fog-scim5878324891",
+          "show": "Huberman Lab",
+          "title": "AMA #11: Improve Task Switching & Productivity and Reduce Brain Fog",
+          "url": "/wiki/sources/ama-11-improve-task-switching-productivity-and-reduce-brain-fog-scim5878324891/"
         }
       ],
       "updated": "2026-09-27",

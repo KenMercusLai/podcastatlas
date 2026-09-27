@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [AMA #11: Improve Task Switching & Productivity and Reduce Brain Fog](sources/ama-11-improve-task-switching-productivity-and-reduce-brain-fog-scim5878324891.md) — Huberman Lab premium AMA excerpt on a flexible three-resistance, three-cardio, one-rest-day weekly fitness scaffold shaped by recovery and real-life constraints.
 - [How to Succeed at Hard Conversations | Chris Voss](sources/how-to-succeed-at-hard-conversations-chris-voss-scim5142864264.md) — Huberman Lab interview on tactical empathy, calibrated questions, deal diagnosis, leverage verification, difficult-news delivery, and crisis-negotiation limits.
 - [VOL.77生殖医学科男科｜固化的偏见让负罪感成为自慰的最大危害 「男」言之隐不再难](sources/vol-77-shengzhi-yixueke-nanke-guhua-de-pianjian-rang-fuzuigan-chengwei-ziwei-de-zuidahai-nan-yanzhiyin-bu-zai-nan-lidn4alesw5vihbybf_c3f5qbvmo.md) — 这病说来话长 episode on male fertility, sexual function, prostate findings, masturbation shame, and context-first andrology care.
 - [How to Increase Your Willpower & Tenacity](sources/how-to-increase-your-willpower-tenacity-scim7958949675.md) — Huberman Lab solo episode on ego depletion, belief and glucose effects, body-state constraints, anterior mid-cingulate evidence, allostatic effort, and safely bounded willpower practice.
@@ -14070,6 +14071,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [William Joyce](entities/WilliamJoyce.md) — British fascist extremist and antisemite who broadcast Nazi wartime propaganda as Lord Haw-Haw.
 
 ## Concepts
+- [Flexible Weekly Fitness Scaffold](concepts/FlexibleWeeklyFitnessScaffold.md) — Weekly resistance, cardiovascular, and rest targets that remain adjustable to recovery, health, and ordinary life.
 - [Tactical Empathy](concepts/TacticalEmpathy.md) — Demonstrated understanding of perspective and emotion without requiring agreement or concession.
 - [Calibrated Negotiation Questions](concepts/CalibratedNegotiationQuestions.md) — How-and-what prompts that slow reaction and expose constraints, credibility, and implementation.
 - [Negotiation Reality Testing](concepts/NegotiationRealityTesting.md) — Verification of deal viability, leverage, identity, threats, trust, and promised follow-through.

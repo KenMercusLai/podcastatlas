@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "37d654d776109bfaa92303a6a746427341e150bd3f094a71a4e02fba2a8c7557",
       "ad5736e38756a4e33b6cdfecc171b6cf7a2700789b7836578e64425b9ef10b72",
       "57f8a02e7e6bd51de03f71ee78111b277aa619da3a70b22d108fd8fbf1771447",
       "1d341f8f999509137f16869155acc686068c729a721a25d437d0e4444ebe4e05",
@@ -761,11 +762,30 @@
       "1f02005c80ec3e7ac3f24acac820a9118d51d7e2de5614db5e13752add4f80b9",
       "60d22980877c9a07564718a1614f1e06e5947001e678ff946ba7dbbc77be1f31"
     ],
-    "paragraph_count": 759
+    "paragraph_count": 760
   },
-  "overview_commit": "22e106787b1f8c5f60e60a16b13c76243c109573",
-  "overview_digest": "dafddbf0687255fd65c524073beafee8a93c3cb9c69e136b78c8853406663a2a",
+  "overview_commit": "f4f3550d37e085a14e11537ecc94098c5bfce45c",
+  "overview_digest": "8a2e9e748a080881e2a98eb044faf52c7aafec30a4131126ebfa5276f2be864c",
   "paragraphs": [
+    {
+      "id": "37d654d776109bfaa92303a6a746427341e150bd3f094a71a4e02fba2a8c7557",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[ama-11-improve-task-switching-productivity-and-reduce-brain-fog-scim5878324891|AMA #11: Improve Task Switching & Productivity and Reduce Brain Fog]], a [[HubermanLab]] premium AMA excerpt in which [[AndrewHuberman]] explains a [[FlexibleWeeklyFitnessScaffold]] built around three resistance sessions, three cardiovascular sessions, and one complete rest day. It extends [[SustainableHealthOptimization]] by making the weekly target stable but the daily placement flexible: sleep, illness, major stress, soreness, nutrition, travel, family time, recent training, and injury risk can justify moving, combining, changing, or skipping a workout. Its core synthesis is that fitness consistency means broad capacity coverage and high long-run adherence rather than perfect calendar obedience. No settled contradiction is recorded; weekly frequency, 85-95% adherence, interval structure, workout timing, autonomic entrainment, periodization bands, and combined-session guidance remain source-scoped public education rather than individualized training or medical advice.",
+      "topic_scores": {
+        "science-health-and-climate": 2,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "AndrewHuberman",
+        "FlexibleWeeklyFitnessScaffold",
+        "HubermanLab",
+        "SustainableHealthOptimization",
+        "ama-11-improve-task-switching-productivity-and-reduce-brain-fog-scim5878324891"
+      ]
+    },
     {
       "id": "ad5736e38756a4e33b6cdfecc171b6cf7a2700789b7836578e64425b9ef10b72",
       "primary_topic": "history-and-geopolitics",
