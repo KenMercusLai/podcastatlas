@@ -19469,6 +19469,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/entities/britishmuseum/"
     },
+    "BritishPublicSchools": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6783238013 [GLT6783238013].md",
+          "key": "368-the-history-behind-hogwarts-ancient-schools-and-revolting-students-glt6783238013",
+          "show": "The Rest Is History",
+          "title": "368. The History Behind Hogwarts: Ancient Schools and Revolting Students",
+          "url": "/wiki/sources/368-the-history-behind-hogwarts-ancient-schools-and-revolting-students-glt6783238013/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/britishpublicschools/"
+    },
     "BritishUnionOfFascists": {
       "episode_count": 2,
       "show_count": 1,
@@ -49896,6 +49912,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/entities/etiennecharlesdelomeniedebrienne/"
+    },
+    "EtonCollege": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6783238013 [GLT6783238013].md",
+          "key": "368-the-history-behind-hogwarts-ancient-schools-and-revolting-students-glt6783238013",
+          "show": "The Rest Is History",
+          "title": "368. The History Behind Hogwarts: Ancient Schools and Revolting Students",
+          "url": "/wiki/sources/368-the-history-behind-hogwarts-ancient-schools-and-revolting-students-glt6783238013/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/etoncollege/"
     },
     "EugeneMcCarthy": {
       "episode_count": 2,
@@ -124646,6 +124678,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/publicsafetyprivacytradeoff/"
     },
+    "PublicSchoolRebellions": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6783238013 [GLT6783238013].md",
+          "key": "368-the-history-behind-hogwarts-ancient-schools-and-revolting-students-glt6783238013",
+          "show": "The Rest Is History",
+          "title": "368. The History Behind Hogwarts: Ancient Schools and Revolting Students",
+          "url": "/wiki/sources/368-the-history-behind-hogwarts-ancient-schools-and-revolting-students-glt6783238013/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/publicschoolrebellions/"
+    },
     "PublicSectorVendorDependence": {
       "episode_count": 1,
       "show_count": 1,
@@ -134484,6 +134532,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/concepts/schoolparentalrightsconflict/"
+    },
+    "SchoolStoryTradition": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6783238013 [GLT6783238013].md",
+          "key": "368-the-history-behind-hogwarts-ancient-schools-and-revolting-students-glt6783238013",
+          "show": "The Rest Is History",
+          "title": "368. The History Behind Hogwarts: Ancient Schools and Revolting Students",
+          "url": "/wiki/sources/368-the-history-behind-hogwarts-ancient-schools-and-revolting-students-glt6783238013/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/schoolstorytradition/"
     },
     "ScienceCommunicationTrustRepair": {
       "episode_count": 1,
@@ -151190,6 +151254,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/entities/thomasandrews/"
     },
+    "ThomasArnold": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6783238013 [GLT6783238013].md",
+          "key": "368-the-history-behind-hogwarts-ancient-schools-and-revolting-students-glt6783238013",
+          "show": "The Rest Is History",
+          "title": "368. The History Behind Hogwarts: Ancient Schools and Revolting Students",
+          "url": "/wiki/sources/368-the-history-behind-hogwarts-ancient-schools-and-revolting-students-glt6783238013/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/thomasarnold/"
+    },
     "ThomasHowardDukeOfNorfolk": {
       "episode_count": 1,
       "show_count": 1,
@@ -162581,6 +162661,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/entities/williamoforange/"
     },
+    "WilliamOfWykeham": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6783238013 [GLT6783238013].md",
+          "key": "368-the-history-behind-hogwarts-ancient-schools-and-revolting-students-glt6783238013",
+          "show": "The Rest Is History",
+          "title": "368. The History Behind Hogwarts: Ancient Schools and Revolting Students",
+          "url": "/wiki/sources/368-the-history-behind-hogwarts-ancient-schools-and-revolting-students-glt6783238013/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/williamofwykeham/"
+    },
     "WilliamPirrie": {
       "episode_count": 1,
       "show_count": 1,
@@ -162746,6 +162842,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/entities/wimhof/"
+    },
+    "WinchesterCollege": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6783238013 [GLT6783238013].md",
+          "key": "368-the-history-behind-hogwarts-ancient-schools-and-revolting-students-glt6783238013",
+          "show": "The Rest Is History",
+          "title": "368. The History Behind Hogwarts: Ancient Schools and Revolting Students",
+          "url": "/wiki/sources/368-the-history-behind-hogwarts-ancient-schools-and-revolting-students-glt6783238013/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/winchestercollege/"
     },
     "WindrushNationalMemory": {
       "episode_count": 1,

@@ -1535,6 +1535,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "368-the-history-behind-hogwarts-ancient-schools-and-revolting-students-glt6783238013": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "369-the-colosseum-romes-arena-of-death-glt7808118779": [
     {
       "key": "history",
@@ -14641,6 +14653,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "BritishPublicSchools": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "BroadcastCentralization": [
     {
       "key": "culture",
@@ -27351,6 +27370,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "EtonCollege": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "EuclideanProofTraining": [
@@ -59856,6 +59882,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "PublicSchoolRebellions": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "PublicSectorVendorDependence": [
     {
       "key": "technology",
@@ -64854,6 +64887,13 @@
     }
   ],
   "SchoolParentalRightsConflict": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "SchoolStoryTradition": [
     {
       "key": "culture",
       "label": "Culture",
@@ -73878,6 +73918,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "ThomasArnold": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "ThomasHutchinson": [
     {
       "key": "politics",
@@ -79513,6 +79560,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "WilliamOfWykeham": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "WilliamPeterBlatty": [
     {
       "key": "politics",
@@ -79591,6 +79645,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "WinchesterCollege": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "WindfallDecisionTrap": [

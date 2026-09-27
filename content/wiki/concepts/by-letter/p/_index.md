@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8463
+wiki_total_pages: 8466
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2066,6 +2066,9 @@ wiki_pages:
   - key: "PublicSafetyPrivacyTradeoff"
     title: "Public Safety Privacy Tradeoff"
     url: "/wiki/concepts/publicsafetyprivacytradeoff/"
+  - key: "PublicSchoolRebellions"
+    title: "Public School Rebellions"
+    url: "/wiki/concepts/publicschoolrebellions/"
   - key: "PublicServiceDigitalization"
     title: "Public Service Digitalization"
     url: "/wiki/concepts/publicservicedigitalization/"

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2083
+topic_total_pages: 2084
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4650,6 +4650,9 @@ topic_sources:
   - key: "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008"
     title: "318: Hundred Years' War: A Game of Thrones (Part 1)"
     url: "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+  - key: "368-the-history-behind-hogwarts-ancient-schools-and-revolting-students-glt6783238013"
+    title: "368. The History Behind Hogwarts: Ancient Schools and Revolting Students"
+    url: "/wiki/sources/368-the-history-behind-hogwarts-ancient-schools-and-revolting-students-glt6783238013/"
   - key: "369-the-colosseum-romes-arena-of-death-glt7808118779"
     title: "369. The Colosseum: Rome's Arena of Death"
     url: "/wiki/sources/369-the-colosseum-romes-arena-of-death-glt7808118779/"

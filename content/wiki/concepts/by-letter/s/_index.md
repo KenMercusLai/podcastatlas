@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 8463
+wiki_total_pages: 8466
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -218,6 +218,9 @@ wiki_pages:
   - key: "SchoolSafeCPGPositioning"
     title: "School-Safe CPG Positioning"
     url: "/wiki/concepts/schoolsafecpgpositioning/"
+  - key: "SchoolStoryTradition"
+    title: "School-Story Tradition"
+    url: "/wiki/concepts/schoolstorytradition/"
   - key: "ScienceCommunicationDisadvantage"
     title: "Science Communication Disadvantage"
     url: "/wiki/concepts/sciencecommunicationdisadvantage/"

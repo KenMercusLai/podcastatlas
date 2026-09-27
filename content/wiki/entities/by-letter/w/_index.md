@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 11065
+wiki_total_pages: 11069
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -542,6 +542,9 @@ wiki_pages:
   - key: "WilliamOfOrange"
     title: "William of Orange"
     url: "/wiki/entities/williamoforange/"
+  - key: "WilliamOfWykeham"
+    title: "William of Wykeham"
+    url: "/wiki/entities/williamofwykeham/"
   - key: "WilliamPeterBlatty"
     title: "William Peter Blatty"
     url: "/wiki/entities/williampeterblatty/"
@@ -581,6 +584,9 @@ wiki_pages:
   - key: "Win"
     title: "Win"
     url: "/wiki/entities/win/"
+  - key: "WinchesterCollege"
+    title: "Winchester College"
+    url: "/wiki/entities/winchestercollege/"
   - key: "Windows"
     title: "Windows"
     url: "/wiki/entities/windows/"

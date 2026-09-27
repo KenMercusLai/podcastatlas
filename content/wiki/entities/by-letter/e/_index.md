@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 11065
+wiki_total_pages: 11069
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -521,6 +521,9 @@ wiki_pages:
   - key: "EtienneCharlesDeLomenieDeBrienne"
     title: "Etienne Charles de Lomenie de Brienne"
     url: "/wiki/entities/etiennecharlesdelomeniedebrienne/"
+  - key: "EtonCollege"
+    title: "Eton College"
+    url: "/wiki/entities/etoncollege/"
   - key: "EuclidHall"
     title: "Euclid Hall"
     url: "/wiki/entities/euclidhall/"

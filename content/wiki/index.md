@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [368. The History Behind Hogwarts: Ancient Schools and Revolting Students](sources/368-the-history-behind-hogwarts-ancient-schools-and-revolting-students-glt6783238013.md) — The Rest Is History episode on charitable and elite public-school origins, pupil violence and rebellion, moral reform, and Hogwarts's debt to the school-story tradition.
 - [VOL.74口腔科｜咖啡红酒茶上色三件套？牙齿美白选哪种？三甲主任帮你避坑](sources/vol-74-kouqiangke-kafei-hongjiu-cha-shangse-sanjian-ta-yachi-meibai-xuan-nazhong-sanjia-zhuren-bang-ni-bikeng-lup1n6wlhmeceqidmllkafzw8w9c.md) — 这病说来话长 episode separating natural tooth color, surface stain, intrinsic discoloration, bleaching, and restorative treatment while keeping basic oral health ahead of cosmetic whitening.
 - [How to Use Music to Boost Motivation, Mood & Improve Learning](sources/how-to-use-music-to-boost-motivation-mood-improve-learning-scim9662829681.md) — Huberman Lab solo episode on music as embodied neural input, task-timed motivation and focus, autonomic entrainment, emotion regulation, and music-practice plasticity.
 - [VOL.75口腔科｜爸妈洗牙吗？反向转发家族群，让他们“重回”年轻有绝招](sources/vol-75-kouqiangke-bama-xiya-ma-fanxiang-zhuanfa-jiazuqun-rang-tamen-zhonghui-nianqing-you-juezhao-loerbxipaqszz4ggchblzsnvtxo9.md) — 这病说来话长 episode on older-adult oral assessment, dental-prosthesis maintenance, persistent mucosal lesions, and coordinated antithrombotic management before extraction.
@@ -3017,6 +3018,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [372. The Birth of British Fascism](sources/372-the-birth-of-british-fascism-glt4747738645.md) — The Rest Is History episode on Britain's domestic fascist ingredients, early organizations, parliamentary resilience, and the leadership gap before Mosley.
 
 ## Entities
+- [William of Wykeham](entities/WilliamOfWykeham.md) — Medieval bishop and chancellor whose Winchester–New College pipeline joined poor scholars, Latin training, and limited elite access.
+- [Winchester College](entities/WinchesterCollege.md) — Early public-school foundation linking charitable-monastic education to elite admission and the violent 1793 pupil revolt.
+- [Eton College](entities/EtonCollege.md) — Royal Winchester-derived foundation whose prestige, alumni influence, pupil hierarchy, and weak supervision exemplify the public-school paradox.
+- [Thomas Arnold](entities/ThomasArnold.md) — Rugby headmaster associated with redirecting public-school legitimacy toward Christian character and public duty.
 - [Colosseum](entities/Colosseum.md) — Flavian amphitheater synthesizing public provision, ranked hierarchy, conquest, spectacle, and Rome's violent afterlife.
 - [Vespasian](entities/Vespasian.md) — Flavian founder who converted Nero's private lake into the site of a public dynastic monument.
 - [Titus](entities/Titus.md) — Flavian emperor who inaugurated the Colosseum amid conquest memory, disaster, and reputational repair.
@@ -14100,6 +14105,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Arnold Leese](entities/ArnoldLeese.md) — Veterinarian, camel specialist, antisemite, and founder of the Imperial Fascist League.
 
 ## Concepts
+- [British Public Schools](concepts/BritishPublicSchools.md) — Institutional tradition joining charitable purpose, fee-paying elite access, classical learning, pupil hierarchy, character claims, and durable prestige.
+- [Public School Rebellions](concepts/PublicSchoolRebellions.md) — Comparative pattern in which grievance, weapons, delegated pupil power, and weak supervision escalated into organized revolt.
+- [School-Story Tradition](concepts/SchoolStoryTradition.md) — Narrative form making a bounded school world legible through houses, peers, authority, rivalry, belonging, and moral development.
 - [Gladiatorial Spectacle](concepts/GladiatorialSpectacle.md) — Roman fusion of funerary rite, citizenship, hierarchy, sport, celebrity, punishment, theater, and sanctioned killing.
 - [Monumental Dynastic Legitimation](concepts/MonumentalDynasticLegitimation.md) — Use of site, public architecture, conquest narrative, ranked access, and ceremony to establish a new ruling house.
 - [Music Task Timing](concepts/MusicTaskTiming.md) — Phase-specific music use that separates pre-task activation and restorative breaks from demanding focused work.

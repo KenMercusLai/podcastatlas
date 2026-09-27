@@ -1011,6 +1011,10 @@
     "title": "361 Degrees",
     "url": "/wiki/entities/361degrees/"
   },
+  "368-the-history-behind-hogwarts-ancient-schools-and-revolting-students-glt6783238013": {
+    "title": "368. The History Behind Hogwarts: Ancient Schools and Revolting Students",
+    "url": "/wiki/sources/368-the-history-behind-hogwarts-ancient-schools-and-revolting-students-glt6783238013/"
+  },
   "369-the-colosseum-romes-arena-of-death-glt7808118779": {
     "title": "369. The Colosseum: Rome's Arena of Death",
     "url": "/wiki/sources/369-the-colosseum-romes-arena-of-death-glt7808118779/"
@@ -10938,6 +10942,10 @@
   "BritishMuseum": {
     "title": "British Museum",
     "url": "/wiki/entities/britishmuseum/"
+  },
+  "BritishPublicSchools": {
+    "title": "British Public Schools",
+    "url": "/wiki/concepts/britishpublicschools/"
   },
   "BritishUnionOfFascists": {
     "title": "British Union of Fascists",
@@ -23598,6 +23606,10 @@
   "EtienneCharlesDeLomenieDeBrienne": {
     "title": "Etienne Charles de Lomenie de Brienne",
     "url": "/wiki/entities/etiennecharlesdelomeniedebrienne/"
+  },
+  "EtonCollege": {
+    "title": "Eton College",
+    "url": "/wiki/entities/etoncollege/"
   },
   "EuclidHall": {
     "title": "Euclid Hall",
@@ -56135,6 +56147,10 @@
     "title": "Public Safety Privacy Tradeoff",
     "url": "/wiki/concepts/publicsafetyprivacytradeoff/"
   },
+  "PublicSchoolRebellions": {
+    "title": "Public School Rebellions",
+    "url": "/wiki/concepts/publicschoolrebellions/"
+  },
   "PublicSectorVendorDependence": {
     "title": "Public-Sector Vendor Dependence",
     "url": "/wiki/concepts/publicsectorvendordependence/"
@@ -61002,6 +61018,10 @@
   "SchoolSafeCPGPositioning": {
     "title": "School-Safe CPG Positioning",
     "url": "/wiki/concepts/schoolsafecpgpositioning/"
+  },
+  "SchoolStoryTradition": {
+    "title": "School-Story Tradition",
+    "url": "/wiki/concepts/schoolstorytradition/"
   },
   "ScienceCommunicationDisadvantage": {
     "title": "Science Communication Disadvantage",
@@ -68775,6 +68795,10 @@
     "title": "Thomas Aquinas / 托马斯·阿奎那",
     "url": "/wiki/entities/thomasaquinas/"
   },
+  "ThomasArnold": {
+    "title": "Thomas Arnold",
+    "url": "/wiki/entities/thomasarnold/"
+  },
   "ThomasDoughty": {
     "title": "Thomas Doughty",
     "url": "/wiki/entities/thomasdoughty/"
@@ -74251,6 +74275,10 @@
     "title": "William of Orange",
     "url": "/wiki/entities/williamoforange/"
   },
+  "WilliamOfWykeham": {
+    "title": "William of Wykeham",
+    "url": "/wiki/entities/williamofwykeham/"
+  },
   "WilliamPeterBlatty": {
     "title": "William Peter Blatty",
     "url": "/wiki/entities/williampeterblatty/"
@@ -74306,6 +74334,10 @@
   "WinRateStartupStrategy": {
     "title": "Win-Rate Startup Strategy / 优化胜率",
     "url": "/wiki/concepts/winratestartupstrategy/"
+  },
+  "WinchesterCollege": {
+    "title": "Winchester College",
+    "url": "/wiki/entities/winchestercollege/"
   },
   "WindfallDecisionTrap": {
     "title": "Windfall Decision Trap / 无故之利",
