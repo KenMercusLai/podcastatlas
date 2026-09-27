@@ -4,6 +4,7 @@ type: concept
 tags: [dermatology, acne, rosacea, psoriasis, inflammation]
 sources:
   - how-to-improve-skin-health-appearance-scim9334288497
+  - vol-61-pifuke-ni-bei-zhexie-hufu-cihui-yingxiao-le-ma-sanjia-yisheng-jie-baoshi-bushui-kongyou-qujiaozhi-de-mimi-ljdsdo6iw9zyvt4olcfnq6bnix2j
 last_updated: 2026-09-24
 knowledge_schema: synthesis-v1
 ---
@@ -16,11 +17,12 @@ Inflammatory skin condition triage is a mechanism-first distinction among acne, 
 ## Current Synthesis
 Acne, rosacea, and psoriasis can all look inflamed, but the source does not treat them as one disorder. Acne is framed around follicles, sebum, keratinocyte accumulation, androgens, inflammation, and possible diet-related insulin or mTOR signaling. Rosacea is framed around facial redness, vasodilation, irritation, and variable triggers such as alcohol, heat, or spicy foods. Psoriasis is framed primarily as immune overactivation rather than simple excess skin-cell production, which explains why targeted immune treatment can be appropriate.
 
-The shared first layer is conservative: gentle cleansing, avoidance of picking or irritating products, sleep and stress support, and attention to reproducible triggers. The paths then diverge. Sudden post-pubertal acne may justify hormonal assessment; persistent rosacea may require subtype-specific or vascular treatment; and psoriasis can require prescription immune therapy. Lifestyle measures can reduce aggravating conditions, but they are not substitutes for diagnosis when disease is painful, scarring, extensive, persistent, or otherwise concerning.
+The shared first layer is conservative: gentle cleansing, avoidance of picking or irritating products, sleep and stress support, and attention to reproducible triggers. The paths then diverge. Sudden or recurrent adult acne may justify hormonal assessment; post-inflammatory marks can fade slowly while depressed scars are structurally different and less responsive to skin-care products; persistent rosacea may require subtype-specific or vascular treatment; and psoriasis can require prescription immune therapy. Lifestyle measures can reduce aggravating conditions, but they are not substitutes for diagnosis when disease is painful, scarring, extensive, persistent, or otherwise concerning.
 
 ## Key Claims
 - Similar-looking redness or inflammation does not establish a shared mechanism or treatment across acne, rosacea, and psoriasis.
 - Acne combines follicular blockage, sebum, keratinocyte growth, inflammation, and androgen sensitivity; glycemic load, dairy, or whey may aggravate some individuals rather than all cases.
+- Post-inflammatory pigment change and depressed acne scars have different natural histories and treatment expectations.
 - Rosacea management starts with identifying reproducible vascular or irritant triggers while avoiding harsh cleansing and excess heat.
 - Psoriasis is treated as an immune-mediated disease for which targeted prescription therapy can be more relevant than surface exfoliation alone.
 - Picking, popping, and harsh products can add mechanical injury, barrier disruption, inflammation, and scarring to the original condition.
@@ -32,13 +34,15 @@ The shared first layer is conservative: gentle cleansing, avoidance of picking o
 - Rosacea differentiation: [[how-to-improve-skin-health-appearance-scim9334288497]] identifies alcohol, heat, spicy food, irritation, and vasodilation as variable triggers and notes that acne-containing subtypes may need different care.
 - Psoriasis differentiation: [[how-to-improve-skin-health-appearance-scim9334288497]] reframes psoriasis around immune overactivation and describes IL-17- and IL-23-targeted prescription treatment.
 - Shared foundation: [[how-to-improve-skin-health-appearance-scim9334288497]] recommends gentle cleansing, sleep, stress reduction, lower-inflammatory dietary patterns, and regular hygiene without over-cleansing.
+- Recurrent acne and sequelae: [[vol-61-pifuke-ni-bei-zhexie-hufu-cihui-yingxiao-le-ma-sanjia-yisheng-jie-baoshi-bushui-kongyou-qujiaozhi-de-mimi-ljdsdo6iw9zyvt4olcfnq6bnix2j]] connects recurrent acne to oil, inflammation, hormones, sleep, stress, and possible individual food triggers while separating slowly fading pigment from depressed scars that may need procedural care.
+- Active-treatment boundary: [[vol-61-pifuke-ni-bei-zhexie-hufu-cihui-yingxiao-le-ma-sanjia-yisheng-jie-baoshi-bushui-kongyou-qujiaozhi-de-mimi-ljdsdo6iw9zyvt4olcfnq6bnix2j]] distinguishes low-concentration cosmetic acids from higher-concentration clinical peels and keeps prescription retinoids and reproductive planning inside clinician guidance.
 
 ## Counterevidence & Qualifications
-This framework comes from one broad public-education episode rather than diagnostic criteria, comparative treatment trials, or an individualized examination. Its mTOR pathway, dairy-fat comparison, corticosteroid use, alcohol response, laser treatment, cytokine-targeting, diet, and microbiome claims remain source-scoped. Acne, rosacea, and psoriasis each contain multiple subtypes and can resemble infection, allergy, medication effects, endocrine disease, or other dermatologic conditions; pregnancy, age, pigment, immune status, comorbidity, and current treatment can materially change safe care.
+This framework comes from two broad public-education episodes rather than diagnostic criteria, comparative treatment trials, or an individualized examination. Their mTOR pathway, dairy and food-trigger claims, corticosteroid use, alcohol response, retinoid timing, peel concentrations, laser treatment, cytokine targeting, diet, and microbiome claims remain source-scoped. Acne, rosacea, eczema, and psoriasis each contain multiple subtypes and can resemble infection, allergy, medication effects, endocrine disease, or other dermatologic conditions; pregnancy, age, pigment, immune status, comorbidity, and current treatment can materially change safe care.
 
 ## What Changed
-- Established separate acne, rosacea, and psoriasis pathways instead of grouping visible inflammation under one skin-care routine.
-- Positioned lifestyle and trigger control as supportive measures beneath diagnosis and subtype-specific treatment.
+- Added recurrent adult acne, post-inflammatory pigmentation, and depressed-scar distinctions.
+- Added a safety boundary between cosmetic acids, clinical peels, prescription retinoids, and pregnancy planning.
 
 ## Related Concepts
 - [[SkinBarrierRoutine]] - shared low-irritation foundation before condition-specific treatment.

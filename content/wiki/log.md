@@ -24212,3 +24212,11 @@ Added source `vol-62-pifuke-daodi-naxie-qingkuang-zui-yi-tuofa-baifa-shangfa-ban
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | VOL.61皮肤科｜你被这些护肤词汇营销了吗？三甲医生揭保湿补水控油去角质的秘密
+
+Added source `vol-61-pifuke-ni-bei-zhexie-hufu-cihui-yingxiao-le-ma-sanjia-yisheng-jie-baoshi-bushui-kongyou-qujiaozhi-de-mimi-ljdsdo6iw9zyvt4olcfnq6bnix2j`; updated `HuangXinlvDermatologist`, `SkinBarrierRoutine`, `UVExposureSkinProtection`, `InflammatorySkinConditionTriage`, `GlycationSkinAnxiety`, and the canonical index from their complete bounded source sets. Core synthesis: daily care should prioritize gentle cleansing, skin-type-matched moisturization, and layered ultraviolet protection while keeping masks, acids, devices, high-priced products, rapid cosmetic effects, and anti-glycation products inside evidence and safety boundaries; persistent, severe, scarring, uncertain, prescription-treated, or pregnancy-related problems require qualified care. No settled contradiction was adopted. Isotretinoin contraception timing, hormone-adulteration inference, cosmetic absorption, ingredient effects, dietary triggers, peel strength, and procedure outcomes remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.61皮肤科｜你被这些护肤词汇营销了吗？三甲医生揭保湿补水控油去角质的秘密](sources/vol-61-pifuke-ni-bei-zhexie-hufu-cihui-yingxiao-le-ma-sanjia-yisheng-jie-baoshi-bushui-kongyou-qujiaozhi-de-mimi-ljdsdo6iw9zyvt4olcfnq6bnix2j.md) — 这病说来话长 Q&A on barrier-first skin care, UV protection, acne and scarring, cosmetic-marketing limits, and clinician-guided treatment.
 - [VOL.62皮肤科｜到底哪些情况最易脱发、白发、伤发？帮你避坑这些智商税](sources/vol-62-pifuke-daodi-naxie-qingkuang-zui-yi-tuofa-baifa-shangfa-bang-ni-bikeng-zhexie-zhishangshui-lreu9n7fvkwgotiewa2yenhur4dp.md) — 这病说来话长 episode on hair-loss triage, follicle-cycle treatment expectations, scalp-care limits, gray hair, dyeing, and transplantation.
 - [354: Paris 1968: The Return of De Gaulle (Part 2)](sources/354-paris-1968-the-return-of-de-gaulle-part-2-glt6246374874.md) — The Rest Is History episode on de Gaulle's May 1968 collapse and recovery, the Gaullist election landslide, and the movement's disputed cultural afterlife.
 - [355: Roman Apocalypse: Pompeii 79 AD](sources/355-roman-apocalypse-pompeii-79-ad-glt6664993493.md) — The Rest Is History episode reconstructing Vesuvius's staged destruction of Pompeii and Herculaneum through Plinian testimony, archaeology, seasonal evidence, and volcanology.
@@ -3058,7 +3059,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Harnessing Passion, Drive & Persistence for Lifelong Success | Tony Hawk](sources/harnessing-passion-drive-persistence-for-lifelong-success-tony-hawk-scim8571002701.md) — Huberman Lab conversation on skateboarding mastery, intrinsic progression, injury-recovery adherence, entrepreneurship, family, and public skateparks.
 
 ## Entities
-- [黄心律 / Huang Xinlü (dermatologist)](entities/HuangXinlvDermatologist.md) — Dermatologist explaining hair-loss differentiation, long-term treatment expectations, and the boundary between scalp care and medical treatment.
+- [黄心律 / Huang Xinlü (dermatologist)](entities/HuangXinlvDermatologist.md) — Dermatologist explaining barrier-first skin care, inflammatory-condition escalation, hair-loss differentiation, and treatment-marketing boundaries.
 - [Charles de Gaulle](entities/CharlesDeGaulle.md) — French president whose May 1968 loss and recovery of authority culminated in parliamentary dissolution and an election landslide.
 - [May 1968 in France](entities/May1968France.md) — Student, worker, and political crisis ending in immediate Gaullist electoral victory but a disputed cultural legacy.
 - [Mount Vesuvius](entities/MountVesuvius.md) — Active Campanian volcano joining regional fertility and settlement to the staged hazards of the 79 CE eruption.
