@@ -23456,3 +23456,11 @@ Added source `vol-88-wu-shi-duihua-wenxin-meishu-zhidao-linyijia-yuanben-bushi-z
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | AMA #13: Winter Months & Sickness, Wim Hof Breathing & Stressors
+
+Added source `ama-13-winter-months-sickness-wim-hof-breathing-stressors-scim4783359583`; created `WinterRespiratoryInfectionRisk`; and updated `LayeredRespiratoryInfectionPrevention`, `SleepImmuneRepair`, `FeverHeatImmuneResponseBoundary`, and the canonical index from their complete bounded source sets. Core synthesis: winter respiratory risk combines exposure opportunity, indoor proximity, dry-air effects, airway defenses, sleep, and pathogen variation rather than cold temperature alone; nasal breathing and humidification remain adjuncts, while deliberate heat, cold, or cyclic hyperventilation should not be inferred to treat active illness. No settled contradiction found. Distance, contagiousness, humidity, mouth-breathing, fever, cold-exposure, and breathing-practice claims remain source-scoped public education rather than individualized medical guidance. The automatic `wiki/overview.md` was read for context but not manually rewritten because the more comprehensive colds-and-flu synthesis already covers the topic.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

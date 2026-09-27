@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 8362
+wiki_total_pages: 8363
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -320,6 +320,9 @@ wiki_pages:
   - key: "WinnerCurse"
     title: "Winner's Curse"
     url: "/wiki/concepts/winnercurse/"
+  - key: "WinterRespiratoryInfectionRisk"
+    title: "Winter Respiratory Infection Risk"
+    url: "/wiki/concepts/winterrespiratoryinfectionrisk/"
   - key: "WIPLimitPersonalProductivity"
     title: "WIP Limit Personal Productivity"
     url: "/wiki/concepts/wiplimitpersonalproductivity/"

@@ -51168,9 +51168,9 @@
       "url": "/wiki/entities/feuillantclub/"
     },
     "FeverHeatImmuneResponseBoundary": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM4509990462 [SCIM4509990462].md",
@@ -51185,6 +51185,13 @@
           "show": "Huberman Lab",
           "title": "How to Prevent & Treat Colds & Flu",
           "url": "/wiki/sources/how-to-prevent-treat-colds-flu-scim6817932732/"
+        },
+        {
+          "episode_file": "SCIM4783359583 [SCIM4783359583].md",
+          "key": "ama-13-winter-months-sickness-wim-hof-breathing-stressors-scim4783359583",
+          "show": "Huberman Lab",
+          "title": "AMA #13: Winter Months & Sickness, Wim Hof Breathing & Stressors",
+          "url": "/wiki/sources/ama-13-winter-months-sickness-wim-hof-breathing-stressors-scim4783359583/"
         }
       ],
       "updated": "2026-09-27",
@@ -83642,9 +83649,9 @@
       "url": "/wiki/concepts/layeredlocalelitedemobilization/"
     },
     "LayeredRespiratoryInfectionPrevention": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM4509990462 [SCIM4509990462].md",
@@ -83666,6 +83673,13 @@
           "show": "Huberman Lab",
           "title": "How to Prevent & Treat Colds & Flu",
           "url": "/wiki/sources/how-to-prevent-treat-colds-flu-scim6817932732/"
+        },
+        {
+          "episode_file": "SCIM4783359583 [SCIM4783359583].md",
+          "key": "ama-13-winter-months-sickness-wim-hof-breathing-stressors-scim4783359583",
+          "show": "Huberman Lab",
+          "title": "AMA #13: Winter Months & Sickness, Wim Hof Breathing & Stressors",
+          "url": "/wiki/sources/ama-13-winter-months-sickness-wim-hof-breathing-stressors-scim4783359583/"
         }
       ],
       "updated": "2026-09-27",
@@ -133566,9 +133580,9 @@
       "url": "/wiki/concepts/sleephealthqqrt/"
     },
     "SleepImmuneRepair": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM7009523546 [SCIM7009523546].md",
@@ -133583,6 +133597,13 @@
           "show": "Huberman Lab",
           "title": "How to Prevent & Treat Colds & Flu",
           "url": "/wiki/sources/how-to-prevent-treat-colds-flu-scim6817932732/"
+        },
+        {
+          "episode_file": "SCIM4783359583 [SCIM4783359583].md",
+          "key": "ama-13-winter-months-sickness-wim-hof-breathing-stressors-scim4783359583",
+          "show": "Huberman Lab",
+          "title": "AMA #13: Winter Months & Sickness, Wim Hof Breathing & Stressors",
+          "url": "/wiki/sources/ama-13-winter-months-sickness-wim-hof-breathing-stressors-scim4783359583/"
         }
       ],
       "updated": "2026-09-27",
@@ -156049,6 +156070,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/winstonchurchill/"
+    },
+    "WinterRespiratoryInfectionRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4783359583 [SCIM4783359583].md",
+          "key": "ama-13-winter-months-sickness-wim-hof-breathing-stressors-scim4783359583",
+          "show": "Huberman Lab",
+          "title": "AMA #13: Winter Months & Sickness, Wim Hof Breathing & Stressors",
+          "url": "/wiki/sources/ama-13-winter-months-sickness-wim-hof-breathing-stressors-scim4783359583/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/winterrespiratoryinfectionrisk/"
     },
     "WishfulFrontierConciliation": {
       "episode_count": 1,

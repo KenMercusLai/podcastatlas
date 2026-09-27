@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [AMA #13: Winter Months & Sickness, Wim Hof Breathing & Stressors](sources/ama-13-winter-months-sickness-wim-hof-breathing-stressors-scim4783359583.md) — Huberman Lab premium AMA on winter respiratory risk, indoor proximity, dry air, nasal defenses, sleep, fever, and temperature-stress boundaries.
 - [395. JFK: Hunt for a Killer (Part 4)](sources/395-jfk-hunt-for-a-killer-part-4-glt1345279222.md) — The Rest Is History episode on Kennedy's death, the first-day hunt for Oswald, the Tippit killing, Johnson's succession, and the evidence and irregularities that shaped later distrust.
 - [A Process for Finding & Achieving Your Unique Purpose | Robert Greene](sources/a-process-for-finding-achieving-your-unique-purpose-robert-greene-scim1811421687.md) — Huberman Lab interview on life-task discovery, power literacy, romantic compatibility, embodied social perception, effortful thinking, stroke, and mortality-bounded urgency.
 - [396. JFK: The Second Assassin Strikes (Part 5)](sources/396-jfk-the-second-assassin-strikes-part-5-glt7803941061.md) — The Rest Is History episode on the case against Oswald, Ruby's impulsive opportunity, the fatal police-transfer failure, and the public-trust consequences of losing a trial.
@@ -13940,6 +13941,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kay Tye](entities/KayTye.md) — Neuroscientist connecting emotional-valence circuits to loneliness, social homeostasis, hierarchy, and sustainable scientific leadership.
 
 ## Concepts
+- [Winter Respiratory Infection Risk](concepts/WinterRespiratoryInfectionRisk.md) — Multifactorial model connecting seasonal exposure, indoor proximity, dry air, airway defenses, sleep, and pathogen variation.
 - [Life-Task Discovery](concepts/LifeTaskDiscovery.md) — Process of testing early fascinations, aversions, and visceral engagement as evidence for a durable adult direction.
 - [Power Literacy](concepts/PowerLiteracy.md) — Defensive awareness of influence, dependency, status, disclosure, vulnerability, and covert control in ordinary relationships.
 - [Embodied Social Perception](concepts/EmbodiedSocialPerception.md) — Probabilistic interpretation of voice, gaze, posture, movement, timing, and conduct across contexts.
