@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 8360
+wiki_total_pages: 8362
 wiki_pages:
   - key: "LaborIllusion"
     title: "Labor Illusion"
@@ -164,6 +164,9 @@ wiki_pages:
   - key: "LayeredFeintCentralBreakthrough"
     title: "Layered Feint Central Breakthrough / 多路佯动中央突破"
     url: "/wiki/concepts/layeredfeintcentralbreakthrough/"
+  - key: "LayeredInstitutionalRealism"
+    title: "Layered Institutional Realism / 层积式机构真实感"
+    url: "/wiki/concepts/layeredinstitutionalrealism/"
   - key: "LayeredJianghuSocialFields"
     title: "Layered Jianghu Social Fields"
     url: "/wiki/concepts/layeredjianghusocialfields/"

@@ -23448,3 +23448,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | VOL.88无·事｜对话《问心》美术指导：林逸家原本不是这样 我制造违和感是为了更真实
+
+Added source `vol-88-wu-shi-duihua-wenxin-meishu-zhidao-linyijia-yuanben-bushi-zheyang-wo-zhizao-weihegan-shi-weile-geng-zhenshi-lqn_godbj_bd6b1bmd3hmf49btcg`; created `WangJingProductionDesigner`, `AskTheHeartTVDrama`, `LayeredInstitutionalRealism`, and `CharacterSpaceProductionDesign`; and updated the canonical index. Core synthesis: 《问心》's designed realism comes from accumulated building eras, connected routes, layered wayfinding, crowding, staff adaptations, and domestic arrangements that reveal care, privacy, exclusion, and character pressure; lived and functional plausibility can matter more than visual uniformity. No settled contradiction found. The Lin Yi floor plan remains partly unresolved, while construction figures, consultant feedback, equipment sourcing, and clinical detail remain source-scoped production testimony. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

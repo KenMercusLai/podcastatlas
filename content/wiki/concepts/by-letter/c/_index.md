@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8360
+wiki_total_pages: 8362
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -488,6 +488,9 @@ wiki_pages:
   - key: "CharacterReadingDelegationTrust"
     title: "Character-Reading Delegation Trust / 识人授权信任"
     url: "/wiki/concepts/characterreadingdelegationtrust/"
+  - key: "CharacterSpaceProductionDesign"
+    title: "Character-Space Production Design / 人物空间美术设计"
+    url: "/wiki/concepts/characterspaceproductiondesign/"
   - key: "CharismaticPoliticalMartyrdom"
     title: "Charismatic Political Martyrdom"
     url: "/wiki/concepts/charismaticpoliticalmartyrdom/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 10967
+wiki_total_pages: 10969
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1667,6 +1667,9 @@ wiki_pages:
   - key: "AssetAllocationActionGuide"
     title: "《资产配置行动指南》 / Asset Allocation Action Guide"
     url: "/wiki/entities/assetallocationactionguide/"
+  - key: "AskTheHeartTVDrama"
+    title: "《问心》 / Ask the Heart (television drama)"
+    url: "/wiki/entities/askthehearttvdrama/"
   - key: "AncientSilkRoad"
     title: "丝绸之路 / Ancient Silk Road"
     url: "/wiki/entities/ancientsilkroad/"

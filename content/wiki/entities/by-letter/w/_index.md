@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 10967
+wiki_total_pages: 10969
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -1502,6 +1502,9 @@ wiki_pages:
   - key: "WangBaEasternHan"
     title: "王霸 / Wang Ba (Eastern Han)"
     url: "/wiki/entities/wangbaeasternhan/"
+  - key: "WangJingProductionDesigner"
+    title: "王靖 / Wang Jing (production designer)"
+    url: "/wiki/entities/wangjingproductiondesigner/"
   - key: "WangShunXinTaishi"
     title: "王顺 / Wang Shun (Xin taishi)"
     url: "/wiki/entities/wangshunxintaishi/"
