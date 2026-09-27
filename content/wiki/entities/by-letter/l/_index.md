@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 11107
+wiki_total_pages: 11109
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -1034,6 +1034,9 @@ wiki_pages:
   - key: "Luanfanshu"
     title: "乱翻书"
     url: "/wiki/entities/luanfanshu/"
+  - key: "LiangGeAnesthesiologist"
+    title: "亮哥 / Liang Ge (Anesthesiologist)"
+    url: "/wiki/entities/lianggeanesthesiologist/"
   - key: "LinghuMaoWesternHan"
     title: "令胡茂 / Linghu Mao (Western Han)"
     url: "/wiki/entities/linghumaowesternhan/"

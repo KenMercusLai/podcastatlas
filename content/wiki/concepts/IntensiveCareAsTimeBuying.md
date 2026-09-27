@@ -5,7 +5,8 @@ tags: [healthcare, intensive-care, critical-care, organ-support]
 sources:
   - lnrbqztehpu3nnpofuw1ihascwrm-lnrbqztehpu3nnpofuw1ihascwrm
   - vol-115-mao-manfen-fumu-ni-zuo-60-fen-yi-buyi-13-wei-yisheng-10-xueke-chuzhao-shenxinxing-jiankang-jiaoyu-gonglue-ertongjie-zhuanti-ljlyg0kuqvuj2r89k6o5hhuefjt9
-last_updated: 2026-09-25
+  - lswakifoozu5vkckl5n-nzndj43e-lswakifoozu5vkckl5n-nzndj43e
+last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,13 +22,15 @@ VOL.115 adds that pediatric intensive care is not adult care scaled down. Diseas
 
 The benefit frame also connects admission judgment to capacity and compassionate limits. Equipped beds, diagnostics, medicines, and continuous specialist labor are scarce. When disease cannot be reversed, supported parent contact, social work, palliative space, presence, and wish fulfillment can change the quality of the child's and family's final period without redefining palliation as cure.
 
+VOL.67 adds two survivor accounts of ICU as felt safety. [[DaYangYang|大杨杨]] emphasizes continuous staff presence, bedside testing, and accompanied movement, while [[LiangGeAnesthesiologist|亮哥]] describes monitoring during the danger period after thrombolysis for extensive pulmonary embolism. Their relief does not change the benefit or prognosis boundary; it shows that the same surveillance and response capacity used to buy physiological time can also reduce a patient's fear of being alone with sudden deterioration.
+
 ## Key Claims
 - ICU support buys treatment time; it does not by itself cure every underlying disease.
 - Acute reversibility and expected benefit matter more than treating ICU admission as either automatic rescue or automatic futility.
 - Intensive care is active multi-organ treatment, not monitoring alone.
 - ICU capacity is constrained by equipped bed units, machines, rapid diagnostics, drugs, and trained staff that cannot be added casually.
 - Successful critical care may end in extubation, organ recovery, and ward transfer, so admission should not be equated with inevitable death.
-- Explanation, supported family contact, and reconstruction of the treatment story are part of recovery and trust when illness, age, sedation, or amnesia make care hard to understand.
+- Explanation, supported family contact, reconstruction of the treatment story, continuous observation, and access to staff can support recovery, trust, and felt safety when illness, age, sedation, amnesia, or deterioration make care hard to understand.
 - When reversal is no longer realistic, palliative support can prioritize presence, comfort, family needs, and meaningful wishes without claiming curative benefit.
 
 ## Evidence
@@ -37,14 +40,14 @@ The benefit frame also connects admission judgment to capacity and compassionate
 - Recovery possibility: [[lnrbqztehpu3nnpofuw1ihascwrm-lnrbqztehpu3nnpofuw1ihascwrm]] reports extubation, withdrawal of machines, restored urine output, stabilization, and transfer as ordinary sources of ICU professional accomplishment.
 - Pediatric distinction and family communication: [[vol-115-mao-manfen-fumu-ni-zuo-60-fen-yi-buyi-13-wei-yisheng-10-xueke-chuzhao-shenxinxing-jiankang-jiaoyu-gonglue-ertongjie-zhuanti-ljlyg0kuqvuj2r89k6o5hhuefjt9|VOL.115]] distinguishes children's disease and treatment needs and emphasizes explaining severity, next steps, prognosis, and sequelae to parents.
 - Contact and palliation: [[vol-115-mao-manfen-fumu-ni-zuo-60-fen-yi-buyi-13-wei-yisheng-10-xueke-chuzhao-shenxinxing-jiankang-jiaoyu-gonglue-ertongjie-zhuanti-ljlyg0kuqvuj2r89k6o5hhuefjt9|VOL.115]] describes scheduled bedside parent contact, embedded social work, and a dedicated palliative room for children with irreversible illness.
+- Survivor experience of surveillance: [[lswakifoozu5vkckl5n-nzndj43e-lswakifoozu5vkckl5n-nzndj43e|VOL.67]] has two survivors connect continuous nurses, doctors, monitoring, bedside equipment, and repeated checks with safety during serious illness.
 
 ## Counterevidence & Qualifications
-The sources are public-education accounts, not complete adult or pediatric admission protocols, outcome studies, cost audits, palliative-care standards, or individualized prognoses. Reversibility, treatment burden, patient and surrogate wishes, developmental status, resource availability, specialist judgment, and expected function can conflict. The existence of advanced support does not guarantee access, benefit, survival, preserved function, or freedom from traumatic experience.
+The sources are public-education and survivor accounts, not complete adult or pediatric admission protocols, outcome studies, cost audits, palliative-care standards, or individualized prognoses. Reversibility, treatment burden, patient and surrogate wishes, developmental status, resource availability, specialist judgment, and expected function can conflict. Feeling safe in ICU does not establish clinical stability, and advanced support does not guarantee access, benefit, survival, preserved function, or freedom from traumatic experience.
 
 ## What Changed
-- Added the child-specific disease, treatment, and communication boundary for pediatric intensive care.
-- Added structured parent explanation, bedside contact, and social-work support.
-- Added compassionate end-of-life support when further reversal is not realistic.
+- Added survivor evidence that continuous surveillance can provide psychological safety during unresolved physiological danger.
+- Clarified that felt safety and clinical stability are distinct.
 
 ## Related Concepts
 - [[MedicalRiskManagement]] - high-stakes judgment under uncertain benefit and harm.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.67无·事｜听躺进ICU的医生和普通病人在聊些什么？知道越多越恐惧？｜献礼医师节彩蛋](sources/lswakifoozu5vkckl5n-nzndj43e-lswakifoozu5vkckl5n-nzndj43e.md) — 这病说来话长 episode on ICU survivor experience, pulmonary-embolism escalation, anesthesiology, informed clinical trust, and responsible public medical communication.
 - [361. The Lost Library of Alexandria](sources/361-the-lost-library-of-alexandria-glt1578679297.md) — The Rest Is History episode on Ptolemaic scholarship, the library's Greek literary focus, uncertain physical form, and gradual loss behind the single-destruction myth.
 - [AI 时代，我们到底该学什么？｜对谈于红：三种不会过时的能力](sources/ai-shidai-women-daodi-gai-xue-shenme-duitan-yuhong-sanzhong-buhui-guoshi-de-nengli-lkcmj80qyw-uduhijfxudufqboaf.md) — 十字路口Crossing访谈于红，讨论社会情感学习、情绪信号、自我认知、反思式选择、智识诚实复盘与 AI 时代的长期能力。
 - [VOL.68血液内科｜装修甲醛会让你得白血病吗？…一期听懂白血病的常识｜造血干细胞捐献指南](sources/vol-68-xueyeneike-zhuangxiu-jiaquan-hui-rang-ni-de-baixuebing-ma-yiqi-tingdong-baixuebing-de-changshi-zaoxue-ganxibao-juanxian-zhinan-lkbtulzn5ky6f4wa5bttbuawvxz.md) — 这病说来话长 episode on leukemia classification, diagnosis, treatment, recovery burdens, environmental-risk limits, and hematopoietic stem-cell donation.
@@ -3043,6 +3044,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [360. Fear City: New York in the 1970s](sources/360-fear-city-new-york-in-the-1970s-glt7107047696.md) — The Rest Is History episode on the 1977 blackout, fiscal collapse, crime politics, urban dystopia, Ed Koch, and crisis-driven private redevelopment.
 
 ## Entities
+- [大杨杨 / Da Yangyang](entities/DaYangYang.md) — Source-scoped patient narrator connecting repeated illness, ICU safety, humor, and experience-based writing.
+- [亮哥 / Liang Ge (Anesthesiologist)](entities/LiangGeAnesthesiologist.md) — Source-scoped anesthesiologist, pulmonary-embolism survivor, and humorous medical communicator.
 - [于红 / Yu Hong](entities/YuHong.md) — 从约十五年投资经历转向儿童社会情感教育、创办兔咚咚的教育创业者。
 - [兔咚咚 / Tu Dongdong](entities/TuDongdong.md) — 于红创办的线上儿童社会情感学习产品，以故事、场景和反复练习训练能力。
 - [陈嘉医生 / Chen Jia (hematologist)](entities/ChenJiaHematologist.md) — Source-scoped hematology guest explaining leukemia diagnosis, treatment realities, and stem-cell donation in VOL.68.

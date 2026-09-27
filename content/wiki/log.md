@@ -24092,3 +24092,11 @@ Added source `360-fear-city-new-york-in-the-1970s-glt7107047696`; created `NewYo
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | VOL.67无·事｜听躺进ICU的医生和普通病人在聊些什么？知道越多越恐惧？｜献礼医师节彩蛋
+
+Added source `lswakifoozu5vkckl5n-nzndj43e-lswakifoozu5vkckl5n-nzndj43e`; created `DaYangYang` and `LiangGeAnesthesiologist`; and updated `ClinicalTrustBuilding`, `PerioperativeAnesthesiaSafety`, `IntensiveCareAsTimeBuying`, `VenousThromboembolismTriage`, `PublicHealthInformationTriage`, `NarrativeMedicine`, and the canonical index from their complete bounded source sets. Core synthesis: ICU surveillance can create felt safety without guaranteeing stability or survival; informed trust joins explanation, disclosure, questions, and cooperation rather than blind obedience; anesthesiology's preventive work is often invisible; fracture-related immobility followed by abrupt cardiopulmonary deterioration requires emergency assessment; and useful medical communication must preserve action timing, individualized-care limits, and the boundary between information-responsive worry and distress that facts alone may not resolve. No settled contradiction was adopted. Clinical histories, measurements, treatment details, workforce figures, and outcomes remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

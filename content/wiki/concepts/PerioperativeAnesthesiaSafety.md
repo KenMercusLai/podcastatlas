@@ -8,7 +8,8 @@ sources:
   - vol-158-gaojiacheng-zhe-changweijing-feizuo-bukema-ft-luffy-yixue-pindao-gaoguifm-lmifb8pnp9d-qs_ezkdzyijyutov
   - vol-131-yisheng-qing-huida-ni-ruguo-yinman-bingshi-yisheng-zhende-bu-zhidao-ma-lg-a6kjqu-s1lk8uu1fapb763xzq
   - vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt
-last_updated: 2026-09-27
+  - lswakifoozu5vkckl5n-nzndj43e-lswakifoozu5vkckl5n-nzndj43e
+last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
 
@@ -28,8 +29,10 @@ VOL.131 adds a cross-specialty patient-preparation test of the same system. Conc
 
 VOL.100 adds patient experience inside the same safety system. Exposure, positioning, skin preparation, draping, transient physiological reactions, and staff familiarity are routine clinical work but still require privacy and explanation. It also makes [[PerioperativePainControl]] part of safe recovery: pain should be assessed from the patient's report and, when appropriate, anticipated before severe distress is established.
 
+VOL.67 sharpens why this safety work is socially invisible. [[LiangGeAnesthesiologist|亮哥]] describes anesthesiologists as whole-patient safety specialists whose contribution is easiest to overlook when no crisis occurs. The episode also returns to fasting through a chewing-gum example: a small act that feels unrelated to surgery can become an airway or aspiration problem under anesthesia, so explanation is more useful than simply labeling the patient disobedient.
+
 ## Key Claims
-- Anesthesia is a perioperative safety system that starts before the operation and continues through recovery.
+- Anesthesia is a perioperative safety system that starts before the operation and continues through recovery; its preventive work may be least visible when no complication occurs.
 - [[PreoperativeAnesthesiaAssessment]] may justify delaying or changing a planned procedure when the patient's condition, medication, airway, infection, fasting, or monitoring context is unsafe.
 - Anesthetic maintenance is adjusted to the actual surgical duration rather than governed by a fixed clock.
 - The anesthesiologist's collaboration with surgical or procedural teams includes physiological management, monitoring, shared-airway response, and recovery-readiness decisions.
@@ -47,13 +50,14 @@ VOL.100 adds patient experience inside the same safety system. Exposure, positio
 - Out-of-operating-room anesthesia: [[vol-158-gaojiacheng-zhe-changweijing-feizuo-bukema-ft-luffy-yixue-pindao-gaoguifm-lmifb8pnp9d-qs_ezkdzyijyutov|VOL.158]] describes non-intubated endoscopy anesthesia through preoxygenation, intravenous access, continuous monitoring, shared airway access, saturation changes, positioning, jaw lift, airway adjuncts, orientation checks, and discharge criteria.
 - Procedure and drug-effect boundaries: [[vol-131-yisheng-qing-huida-ni-ruguo-yinman-bingshi-yisheng-zhende-bu-zhidao-ma-lg-a6kjqu-s1lk8uu1fapb763xzq|VOL.131]] makes urinary-catheter use dependent on anesthesia, duration, bleeding, fluid management, and procedure, while separating transient erection during some anesthetic states from lasting sexual dysfunction.
 - Privacy and analgesia: [[vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt|VOL.100]] places exposure, positioning, preparation, transient erection, explanation, pain reporting, and patient-controlled analgesia inside perioperative care rather than treating them as shame or willpower problems.
+- Invisible prevention and fasting explanation: [[lswakifoozu5vkckl5n-nzndj43e-lswakifoozu5vkckl5n-nzndj43e|VOL.67]] presents anesthesiology as safety work often noticed only when something goes wrong and uses concealed eating or chewing gum to show why apparently minor preparation rules need causal explanation.
 
 ## Counterevidence & Qualifications
 This concept is public medical literacy, not surgical or endoscopy clearance or an anesthetic plan. Actual anesthesia choice, fasting and bowel preparation, urinary catheterization, medication handling, infection testing, blood preparation, dosing, pain control, monitoring, airway management, procedure timing, privacy practice, discharge, postoperative instructions, sexual-function assessment, and emergency response depend on the patient, procedure, hospital, and anesthesiology team.
 
 ## What Changed
-- Added privacy, explanation, and patient experience to the perioperative safety system.
-- Added anticipatory, patient-reported pain control as a recovery responsibility.
+- Added preventive invisibility as a defining feature of anesthesiology's safety role.
+- Strengthened fasting communication by connecting apparently minor intake to airway and aspiration consequences.
 
 ## Related Concepts
 - [[PreoperativeAnesthesiaAssessment]] - preoperative gate and preparation branch inside anesthesia safety.

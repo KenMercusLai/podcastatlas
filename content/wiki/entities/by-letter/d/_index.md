@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 11107
+wiki_total_pages: 11109
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -1094,6 +1094,9 @@ wiki_pages:
   - key: "DaxiaoDianbo"
     title: "大小电波"
     url: "/wiki/entities/daxiaodianbo/"
+  - key: "DaYangYang"
+    title: "大杨杨 / Da Yangyang"
+    url: "/wiki/entities/dayangyang/"
   - key: "Daliang"
     title: "大梁 / Daliang"
     url: "/wiki/entities/daliang/"

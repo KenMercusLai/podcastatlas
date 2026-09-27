@@ -5,7 +5,8 @@ tags: [public-health, media-literacy, misinformation, medicine]
 sources:
   - vol-205-xiangbi-hantanbingdu-ni-genggai-liaojie-hantan-hancheng-yaxing-chuxian-zhege-zhengzhuang-yiding-like-qu-yiyuan-lhze9i64h8ifso_on-1cmnskxtng
   - vol-138-hongbanlangchuang-manxingbing-lsea-weckd5-5cswf0ghcabw0vek
-last_updated: 2026-09-23
+  - lswakifoozu5vkckl5n-nzndj43e-lswakifoozu5vkckl5n-nzndj43e
+last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
 
@@ -19,14 +20,16 @@ VOL.205 grounds the concept in hantavirus news. [[ZihanDoctor|子涵医生]] and
 
 VOL.138 extends the frame from outbreaks to chronic-disease treatment. Medical reporting should consult relevant clinicians or guidelines and distinguish a public controversy from the disease itself. Patients also need to account for selection effects: negative medication experiences may be more visible online, while a friend or stranger's severity, timing, regimen, and response may not match their own. Information triage therefore includes source quality, representativeness, individual fit, and a route back to qualified assessment.
 
+VOL.67 adds an action-consequence and psychological boundary. Advice can sound logical yet be dangerous if it produces an answer only after a treatment or prevention window has closed, as in the episode's criticism of waiting for an animal's illness to settle a rabies-risk question. Reliable information should instead route the person promptly to an appropriate authority. The episode also distinguishes bounded worry, which explanation may resolve, from anxiety that repeatedly generates new questions; additional facts are not always a sufficient intervention for the latter.
+
 ## Key Claims
-- Outbreak information should be checked against official public-health agencies and credible professional sources.
+- Outbreak information and recording-time figures should be checked against official public-health agencies and credible professional sources, then updated as evidence changes.
 - Emotional headline signals such as "shocking," "urgent," or "never do this" are risk markers for poor information quality.
-- Recording-time outbreak figures should remain provisional when later official updates may change the facts.
-- Good information triage supports proportionate action: prevention, symptom awareness, and care-seeking without generalized panic.
-- Misinformation can distort both directions, making people either overreact to low general risk or underreact to true exposure and red flags.
+- Good information triage supports proportionate action—prevention, symptom awareness, and care-seeking without generalized panic—because misinformation can cause either overreaction to low general risk or underreaction to true exposure and red flags.
 - Health reporting should separate factual disease education from judgment about a visible individual's choices.
 - Online testimony can be valuable but may be selection-biased or clinically mismatched, so it should inform shared risk-benefit discussion rather than self-directed treatment changes.
+- Health advice should be evaluated by whether it supports a timely safe action, not only by whether its underlying story sounds plausible.
+- Clear information can resolve bounded uncertainty, but escalating reassurance-seeking may require psychological or clinical support beyond repeated explanation.
 
 ## Evidence
 - Official-source rule: [[vol-205-xiangbi-hantanbingdu-ni-genggai-liaojie-hantan-hancheng-yaxing-chuxian-zhege-zhengzhuang-yiding-like-qu-yiyuan-lhze9i64h8ifso_on-1cmnskxtng]] recommends WHO, national and local health agencies, CDC-style bodies, and mainstream or professionally supported medical-science channels.
@@ -34,12 +37,15 @@ VOL.138 extends the frame from outbreaks to chronic-disease treatment. Medical r
 - Proportionate behavior: [[vol-205-xiangbi-hantanbingdu-ni-genggai-liaojie-hantan-hancheng-yaxing-chuxian-zhege-zhengzhuang-yiding-like-qu-yiyuan-lhze9i64h8ifso_on-1cmnskxtng]] pairs official information with concrete prevention, medical trust, and non-panic.
 - Media and guideline grounding: [[vol-138-hongbanlangchuang-manxingbing-lsea-weckd5-5cswf0ghcabw0vek]] asks medical reporting to use clinical expertise or guidelines and to take responsibility for what it spreads.
 - Testimony boundary: [[vol-138-hongbanlangchuang-manxingbing-lsea-weckd5-5cswf0ghcabw0vek]] warns that visible online complaints and acquaintance experience may not represent typical outcomes or fit an individual disease course.
+- Timing and action value: [[lswakifoozu5vkckl5n-nzndj43e-lswakifoozu5vkckl5n-nzndj43e|VOL.67]] rejects rabies advice whose result could arrive too late to guide the exposed person's action and instead illustrates routing a worried listener to a local disease-control authority.
+- Worry-anxiety boundary: [[lswakifoozu5vkckl5n-nzndj43e-lswakifoozu5vkckl5n-nzndj43e|VOL.67]] distinguishes a concrete concern that explanation can close from repeated question escalation that information alone may not resolve.
 
 ## Counterevidence & Qualifications
-The concept does not say official information is instantly complete or that personal testimony is worthless. Provisional claims should be source-checked and updated, and institutional guidance still requires patient-specific interpretation. Neither source establishes that all media, online complaints, or acquaintance accounts are inaccurate.
+The concept does not say official information is instantly complete or that personal testimony is worthless. Provisional claims should be source-checked and updated, and institutional guidance still requires patient-specific interpretation. The episode's worry-anxiety distinction is conversational rather than a diagnosis; persistent health anxiety, obsessive reassurance-seeking, trauma, or other distress requires individual context. None of the sources establishes that all media, online complaints, or acquaintance accounts are inaccurate.
 
 ## What Changed
-- Extended outbreak source-checking into chronic-disease media responsibility, selection bias, and individual-fit limits.
+- Added action timing as a test of whether apparently plausible medical advice is actually useful or dangerous.
+- Added the boundary between information-responsive worry and distress that more facts alone may not resolve.
 
 ## Related Concepts
 - [[HantavirusPublicRiskTriage]] - outbreak-risk frame that depends on good information.
@@ -48,3 +54,4 @@ The concept does not say official information is instantly complete or that pers
 - [[MedicalRiskManagement]] - safety frame for converting information into proportionate prevention and escalation.
 - [[ChronicDiseaseTreatmentAdherence]] - treatment-continuity decisions that can be distorted by poorly matched anecdotes.
 - [[DoctorPatientCommunication]] - route for translating general information into patient-specific questions.
+- [[ClinicalTrustBuilding]] - relational setting in which risk explanation and appropriate referral can reduce uncertainty.
