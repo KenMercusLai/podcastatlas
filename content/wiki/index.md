@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [399. The Savage Storm: World War II and The Battle for Italy](sources/399-the-savage-storm-world-war-ii-and-the-battle-for-italy-glt8130436942.md) — The Rest Is History interview with James Holland on the 1943 Italian campaign's limited strategic gains, resource constraints, difficult terrain, civilian destruction, and failed promise of rapid advance.
 - [VOL.90运动医学｜朋友你滑雪吗？补钙要趁早｜「科目三」禁忌人群](sources/vol-90-yundong-yixue-pengyou-ni-huaxue-ma-bugai-yao-chenzao-kemu-san-jinji-renqun-lvfameb1ztoxm5yx5e-ylsrekbsq.md) — 这病说来话长 episode with 马浩宁 and 张五花 on winter sport, knee and ankle stability, acute-injury response, strength-based rehabilitation, and supplement-versus-treatment boundaries.
 - [How Sugar & Processed Foods Impact Your Health | Dr. Robert Lustig](sources/how-sugar-processed-foods-impact-your-health-dr-robert-lustig-scim6504027968.md) — Huberman Lab interview on food structure, sugar, metabolic capacity, ultra-processed food, appetite signaling, food-system responsibility, and clinically bounded GLP-1 tradeoffs.
 - [400. Victorian Britain's Maddest Mystery](sources/400-victorian-britains-maddest-mystery-glt4466006716.md) — The Rest Is History conversation on the Tichborne Claimant, Andrew Bogle, Victorian class politics, courtroom spectacle, populist media, and evidence-bounded historical fiction.
@@ -2947,6 +2948,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Prevent & Treat Colds & Flu](sources/how-to-prevent-treat-colds-flu-scim6817932732.md) — Huberman Lab solo episode on respiratory-virus transmission, layered immune defense, sleep and training load, heat boundaries, and supplement evidence.
 
 ## Entities
+- [James Holland](entities/JamesHolland.md) — Historian joining strategy, logistics, diaries, letters, and civilian experience in his account of the 1943 Italian campaign.
+- [Italian Campaign of 1943](entities/ItalianCampaign1943.md) — Allied mainland campaign that achieved Italian exit, German diversion, ports, and Foggia but became a constrained attritional advance.
+- [Albert Kesselring](entities/AlbertKesselring.md) — German commander whose Salerno concentration and forward defense of southern Italy receive a source-bounded critical reassessment.
 - [张五花 / Zhang Wuhua (sports medicine doctor)](entities/ZhangWuhuaSportsMedicine.md) — Orthopedic joint and sports-medicine guest explaining stability injuries, acute response, rehabilitation, and consumer-health boundaries.
 - [Tichborne Claimant](entities/TichborneClaimant.md) — Victorian inheritance imposture whose weak identity evidence became a durable legal, media, and populist cause.
 - [Arthur Orton](entities/ArthurOrton.md) — Working-class butcher identified as the claimant who unsuccessfully presented himself as Roger Tichborne.
@@ -4221,7 +4225,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jackie Fisher / Admiral Lord Fisher](entities/JackieFisher.md) — First Sea Lord whose Dardanelles warnings make Gallipoli an ignored institutional-objection case.
 - [Enver Pasha](entities/EnverPasha.md) — Ottoman leader whose German orientation and Sarikamish disaster form part of Gallipoli's prehistory.
 - [Mustafa Kemal / Ataturk](entities/MustafaKemalAtaturk.md) — Ottoman commander whose Gallipoli role made his reputation and is treated as a step toward later Turkish national authority.
-- [Winston Churchill](entities/WinstonChurchill.md) — British Admiralty leader whose Dardanelles sponsorship and persistence made Gallipoli a lasting reputational calamity.
+- [Winston Churchill](entities/WinstonChurchill.md) — British leader whose bold peripheral strategy links Gallipoli's failed shortcut with the constrained but partly successful 1943 Italian campaign.
 - [Lindsay Cole](entities/LindsayCole.md) — Forensic psychology professor and parent used by Planet Money to show professional-household strain under inflation.
 - [Rick Schultz](entities/RickSchultz.md) — Retired Planet Money listener whose pensions, investments, homeownership, and timing make the comfortable-retiree side of the economy visible.
 - [Leo Vamaka](entities/LeoVamaka.md) — Teen Planet Money listener whose coupon use, food budgeting, and gasoline sensitivity illustrate inflation-shaped consumer habits.
@@ -11846,7 +11850,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Walter M. Miller Jr.](entities/WalterMMillerJr.md) — Author whose wartime experience around Monte Cassino is used by the episode to ground the novel's religious and civilizational guilt.
 - [《辐射》 / Fallout](entities/Fallout.md) — Post-apocalyptic game series cited by the episode as an afterlife of the wasteland and religious-symbolic tradition associated with 《莱博维茨的赞歌》.
 - [《启示录》 / Book of Revelation](entities/BookOfRevelation.md) — Biblical text supplying the episode's apocalypse, judgment, fire, beast, and final-renewal vocabulary for reading nuclear wasteland fiction.
-- [卡西诺修道院 / Abbey of Monte Cassino](entities/AbbeyOfMonteCassino.md) — Ancient monastery whose World War II bombing is presented as a formative trauma behind Miller's novel.
+- [卡西诺修道院 / Abbey of Monte Cassino](entities/AbbeyOfMonteCassino.md) — Benedictine monastery whose wartime treasure evacuation, destruction, and literary afterlife connect the Italian campaign with Miller's novel.
 - [《优秀的绵羊》 / Excellent Sheep](entities/ExcellentSheep.md) — William Deresiewicz book used by episode 160 to critique elite education, compliant achievement, credential anxiety, and high-performing students losing autonomy.
 - [William Deresiewicz](entities/WilliamDeresiewicz.md) — Author of 《优秀的绵羊》, used by episode 160 as the critic diagnosing elite education's approval-seeking and anti-autonomy effects.
 - [《马蒂尔达》 / Matilda](entities/Matilda.md) — Roald Dahl story and musical frame used by episode 160 to connect children's reading, resistance to unfair authority, and the right to say no.
@@ -13916,6 +13920,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kay Tye](entities/KayTye.md) — Neuroscientist connecting emotional-valence circuits to loneliness, social homeostasis, hierarchy, and sustainable scientific leadership.
 
 ## Concepts
+- [Secondary-Theater Resource Constraint](concepts/SecondaryTheaterResourceConstraint.md) — Gap between assigning a campaign strategic value and withholding first-priority resources because another theater dominates allocation.
+- [Liberation-Destruction Dilemma](concepts/LiberationDestructionDilemma.md) — Conflict between removing occupation or dictatorship and destroying civilian lives, infrastructure, homes, and cultural sites in the process.
 - [Joint Supplement and Treatment Boundary / 关节补剂与治疗边界](concepts/JointSupplementTreatmentBoundary.md) — Distinguishes nutritional or symptom support from claims to diagnose, regenerate, or treat damaged joints, cartilage, and bone.
 - [Claimant Politics and Public Spectacle](concepts/ClaimantPoliticsAndPublicSpectacle.md) — Process by which media, funding, courtroom entertainment, grievance, and organization make a weak identity claim politically durable.
 - [Historical Fiction Factual Constraint](concepts/HistoricalFictionFactualConstraint.md) — Method preserving documented events while locating invention in viewpoint, selection, interiority, and bounded extension.
@@ -15150,7 +15156,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sports Capital Cannot Buy Legitimacy](concepts/SportsCapitalCannotBuyLegitimacy.md) — Pattern where sports spending can buy athletes and events but not instantly buy fans, media demand, or institutional legitimacy.
 - [Anzac Spirit](concepts/AnzacSpirit.md) — Australian and New Zealand Gallipoli memory frame around courage, resourcefulness, comradeship, endurance, mateship, and contested imperial comparison.
 - [Dardanelles Strategic Shortcut](concepts/DardanellesStrategicShortcut.md) — Gallipoli strategy logic that promised cascading effects from forcing the straits and threatening Constantinople.
-- [Failed Strategic Shortcut Attrition Trap](concepts/FailedStrategicShortcutAttritionTrap.md) — Pattern where a promised fast bypass fails operationally but persists as a costly attritional commitment.
+- [Failed Strategic Shortcut Attrition Trap](concepts/FailedStrategicShortcutAttritionTrap.md) — Pattern where a promised fast bypass becomes attritional, with Italy qualifying the model by retaining meaningful limited gains.
 - [Unrestricted Submarine Warfare](concepts/UnrestrictedSubmarineWarfare.md) — First World War naval strategy where submarine attacks on merchant shipping collided with cruiser rules, civilian passengers, and neutral rights.
 - [Passenger-Liner Atrocity Propaganda](concepts/PassengerLinerAtrocityPropaganda.md) — Pattern for how a civilian ship sinking becomes a contested wartime symbol through suffering, censorship, justification, and conspiracy.
 - [Neutrality-to-Intervention Memory](concepts/NeutralityToInterventionMemory.md) — Pattern where a shock that does not immediately end neutrality later becomes evidence for intervention.

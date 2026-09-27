@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3178
+topic_total_pages: 3179
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2710,6 +2710,9 @@ topic_concepts:
   - key: "LegalServicesAIEconomics"
     title: "Legal Services AI Economics"
     url: "/wiki/concepts/legalservicesaieconomics/"
+  - key: "LiberationDestructionDilemma"
+    title: "Liberation-Destruction Dilemma"
+    url: "/wiki/concepts/liberationdestructiondilemma/"
   - key: "LicensedSyntheticVoiceMarketplace"
     title: "Licensed Synthetic Voice Marketplace"
     url: "/wiki/concepts/licensedsyntheticvoicemarketplace/"

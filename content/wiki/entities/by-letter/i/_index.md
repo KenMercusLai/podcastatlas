@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 10954
+wiki_total_pages: 10957
 wiki_pages:
   - key: "ILibertine"
     title: "I, Libertine"
@@ -350,6 +350,9 @@ wiki_pages:
   - key: "IstvanTisza"
     title: "Istvan Tisza"
     url: "/wiki/entities/istvantisza/"
+  - key: "ItalianCampaign1943"
+    title: "Italian Campaign of 1943"
+    url: "/wiki/entities/italiancampaign1943/"
   - key: "ItalianFascism"
     title: "Italian Fascism / 意大利法西斯主义"
     url: "/wiki/entities/italianfascism/"

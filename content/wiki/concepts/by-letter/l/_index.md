@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 8349
+wiki_total_pages: 8351
 wiki_pages:
   - key: "LaborIllusion"
     title: "Labor Illusion"
@@ -314,6 +314,9 @@ wiki_pages:
   - key: "LiberalismPaternalismBoundary"
     title: "Liberalism-Paternalism Boundary"
     url: "/wiki/concepts/liberalismpaternalismboundary/"
+  - key: "LiberationDestructionDilemma"
+    title: "Liberation-Destruction Dilemma"
+    url: "/wiki/concepts/liberationdestructiondilemma/"
   - key: "LibetExperimentInterpretation"
     title: "Libet Experiment Interpretation / 利比特实验解释"
     url: "/wiki/concepts/libetexperimentinterpretation/"

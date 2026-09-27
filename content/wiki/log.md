@@ -23389,3 +23389,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-09-27] ingest | 399. The Savage Storm: World War II and The Battle for Italy
+
+Added source `399-the-savage-storm-world-war-ii-and-the-battle-for-italy-glt8130436942`; created `JamesHolland`, `ItalianCampaign1943`, `AlbertKesselring`, `SecondaryTheaterResourceConstraint`, and `LiberationDestructionDilemma`; and updated `AbbeyOfMonteCassino`, `WinstonChurchill`, `FailedStrategicShortcutAttritionTrap`, and the canonical index from their complete bounded source sets. Core synthesis: the campaign achieved limited aims by removing Italy from the Axis war, drawing German forces south, and securing ports and Foggia, but Overlord's priority, global resource competition, terrain, weather, demolition, and command choices turned the promised rapid advance into prolonged attrition and civilian catastrophe. No settled contradiction found. Italy qualifies the Gallipoli-derived shortcut trap because operational failure did not erase meaningful theater-level gains; Kesselring's reputation, withdrawal counterfactuals, numerical claims, and civilian-health estimates remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

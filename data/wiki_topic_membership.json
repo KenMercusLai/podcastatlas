@@ -1587,6 +1587,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "399-the-savage-storm-world-war-ii-and-the-battle-for-italy-glt8130436942": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366": [
     {
       "key": "culture",
@@ -44743,6 +44750,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "LiberationDestructionDilemma": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "LibertyMedia": [

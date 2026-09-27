@@ -4362,6 +4362,29 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/aaronburr/"
     },
+    "AbbeyOfMonteCassino": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "03.莱博维茨的赞歌：要有光，哪怕废土之上 [528163687].md",
+          "key": "03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687",
+          "show": "蜜獾吃书",
+          "title": "03.莱博维茨的赞歌：要有光，哪怕废土之上",
+          "url": "/wiki/sources/03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687/"
+        },
+        {
+          "episode_file": "GLT8130436942 [GLT8130436942].md",
+          "key": "399-the-savage-storm-world-war-ii-and-the-battle-for-italy-glt8130436942",
+          "show": "The Rest Is History",
+          "title": "399. The Savage Storm: World War II and The Battle for Italy",
+          "url": "/wiki/sources/399-the-savage-storm-world-war-ii-and-the-battle-for-italy-glt8130436942/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/abbeyofmontecassino/"
+    },
     "AbbieHoffman": {
       "episode_count": 1,
       "show_count": 1,
@@ -6930,6 +6953,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/entities/alancowen/"
+    },
+    "AlbertKesselring": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8130436942 [GLT8130436942].md",
+          "key": "399-the-savage-storm-world-war-ii-and-the-battle-for-italy-glt8130436942",
+          "show": "The Rest Is History",
+          "title": "399. The Savage Storm: World War II and The Battle for Italy",
+          "url": "/wiki/sources/399-the-savage-storm-world-war-ii-and-the-battle-for-italy-glt8130436942/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/albertkesselring/"
     },
     "Alberta": {
       "episode_count": 2,
@@ -48462,9 +48501,9 @@
       "url": "/wiki/entities/fafadebelem/"
     },
     "FailedStrategicShortcutAttritionTrap": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT1275431911 [GLT1275431911].md",
@@ -48479,9 +48518,16 @@
           "show": "The Rest Is History",
           "title": "675. The First World War: Slaughter at Gallipoli (Part 5)",
           "url": "/wiki/sources/675-the-first-world-war-slaughter-at-gallipoli-part-5-glt4394132715/"
+        },
+        {
+          "episode_file": "GLT8130436942 [GLT8130436942].md",
+          "key": "399-the-savage-storm-world-war-ii-and-the-battle-for-italy-glt8130436942",
+          "show": "The Rest Is History",
+          "title": "399. The Savage Storm: World War II and The Battle for Italy",
+          "url": "/wiki/sources/399-the-savage-storm-world-war-ii-and-the-battle-for-italy-glt8130436942/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/failedstrategicshortcutattritiontrap/"
     },
     "FairAllocationPoliticalSkill": {
@@ -75322,6 +75368,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/itadakimasueverydayritual/"
     },
+    "ItalianCampaign1943": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8130436942 [GLT8130436942].md",
+          "key": "399-the-savage-storm-world-war-ii-and-the-battle-for-italy-glt8130436942",
+          "show": "The Rest Is History",
+          "title": "399. The Savage Storm: World War II and The Battle for Italy",
+          "url": "/wiki/sources/399-the-savage-storm-world-war-ii-and-the-battle-for-italy-glt8130436942/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/italiancampaign1943/"
+    },
     "ItalianCuisineUrbanFormation": {
       "episode_count": 1,
       "show_count": 1,
@@ -75940,6 +76002,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/jamesearlray/"
+    },
+    "JamesHolland": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8130436942 [GLT8130436942].md",
+          "key": "399-the-savage-storm-world-war-ii-and-the-battle-for-italy-glt8130436942",
+          "show": "The Rest Is History",
+          "title": "399. The Savage Storm: World War II and The Battle for Italy",
+          "url": "/wiki/sources/399-the-savage-storm-world-war-ii-and-the-battle-for-italy-glt8130436942/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/jamesholland/"
     },
     "JamesHollis": {
       "episode_count": 1,
@@ -85945,6 +86023,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/libgen/"
+    },
+    "LiberationDestructionDilemma": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8130436942 [GLT8130436942].md",
+          "key": "399-the-savage-storm-world-war-ii-and-the-battle-for-italy-glt8130436942",
+          "show": "The Rest Is History",
+          "title": "399. The Savage Storm: World War II and The Battle for Italy",
+          "url": "/wiki/sources/399-the-savage-storm-world-war-ii-and-the-battle-for-italy-glt8130436942/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/liberationdestructiondilemma/"
     },
     "LicensedSyntheticVoiceMarketplace": {
       "episode_count": 1,
@@ -128189,6 +128283,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/concepts/secondaryoralityinaiera/"
     },
+    "SecondaryTheaterResourceConstraint": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8130436942 [GLT8130436942].md",
+          "key": "399-the-savage-storm-world-war-ii-and-the-battle-for-italy-glt8130436942",
+          "show": "The Rest Is History",
+          "title": "399. The Savage Storm: World War II and The Battle for Italy",
+          "url": "/wiki/sources/399-the-savage-storm-world-war-ii-and-the-battle-for-italy-glt8130436942/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/secondarytheaterresourceconstraint/"
+    },
     "SecondhandThirdhandSmokeExposure": {
       "episode_count": 1,
       "show_count": 1,
@@ -155273,9 +155383,9 @@
       "url": "/wiki/entities/winsentertainment/"
     },
     "WinstonChurchill": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT1275431911 [GLT1275431911].md",
@@ -155290,9 +155400,16 @@
           "show": "The Rest Is History",
           "title": "675. The First World War: Slaughter at Gallipoli (Part 5)",
           "url": "/wiki/sources/675-the-first-world-war-slaughter-at-gallipoli-part-5-glt4394132715/"
+        },
+        {
+          "episode_file": "GLT8130436942 [GLT8130436942].md",
+          "key": "399-the-savage-storm-world-war-ii-and-the-battle-for-italy-glt8130436942",
+          "show": "The Rest Is History",
+          "title": "399. The Savage Storm: World War II and The Battle for Italy",
+          "url": "/wiki/sources/399-the-savage-storm-world-war-ii-and-the-battle-for-italy-glt8130436942/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-27",
       "url": "/wiki/entities/winstonchurchill/"
     },
     "WishfulFrontierConciliation": {
