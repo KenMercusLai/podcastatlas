@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2098
+topic_total_pages: 2100
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1000,6 +1000,9 @@ topic_concepts:
   - key: "ReformWithoutPopularDeliberation"
     title: "Reform Without Popular Deliberation / 不与民虑始"
     url: "/wiki/concepts/reformwithoutpopulardeliberation/"
+  - key: "ReligiousExperienceMedicalizationBoundary"
+    title: "Religious Experience Medicalization Boundary"
+    url: "/wiki/concepts/religiousexperiencemedicalizationboundary/"
   - key: "RemnantResistanceBase"
     title: "Remnant Resistance Base / 残余政权根据地"
     url: "/wiki/concepts/remnantresistancebase/"
@@ -4659,6 +4662,9 @@ topic_sources:
   - key: "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008"
     title: "318: Hundred Years' War: A Game of Thrones (Part 1)"
     url: "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+  - key: "356-the-blood-drinking-bride-of-christ-glt8496536394"
+    title: "356: The Blood-Drinking Bride of Christ"
+    url: "/wiki/sources/356-the-blood-drinking-bride-of-christ-glt8496536394/"
   - key: "357-historical-love-island-the-sequel-glt7719682575"
     title: "357: Historical Love Island: The Sequel"
     url: "/wiki/sources/357-historical-love-island-the-sequel-glt7719682575/"

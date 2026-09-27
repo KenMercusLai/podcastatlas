@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1273
+topic_total_pages: 1274
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1624,6 +1624,9 @@ topic_concepts:
   - key: "RelationshipFourHorsemen"
     title: "Relationship Four Horsemen / 关系四骑士"
     url: "/wiki/concepts/relationshipfourhorsemen/"
+  - key: "ReligiousExperienceMedicalizationBoundary"
+    title: "Religious Experience Medicalization Boundary"
+    url: "/wiki/concepts/religiousexperiencemedicalizationboundary/"
   - key: "REMEmotionalMemorySeparation"
     title: "REM Emotional Memory Separation"
     url: "/wiki/concepts/rememotionalmemoryseparation/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 11123
+wiki_total_pages: 11128
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -695,6 +695,9 @@ wiki_pages:
   - key: "GreatTreasonIncident"
     title: "Great Treason Incident / 大逆事件"
     url: "/wiki/entities/greattreasonincident/"
+  - key: "GreatWesternSchism"
+    title: "Great Western Schism"
+    url: "/wiki/entities/greatwesternschism/"
   - key: "GreaterManchester"
     title: "Greater Manchester"
     url: "/wiki/entities/greatermanchester/"
@@ -740,6 +743,9 @@ wiki_pages:
   - key: "GregoryVII"
     title: "Gregory VII"
     url: "/wiki/entities/gregoryvii/"
+  - key: "GregoryXI"
+    title: "Gregory XI"
+    url: "/wiki/entities/gregoryxi/"
   - key: "GrillMeSkills"
     title: "GrillMe Skills"
     url: "/wiki/entities/grillmeskills/"

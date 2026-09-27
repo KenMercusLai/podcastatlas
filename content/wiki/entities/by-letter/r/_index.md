@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 11123
+wiki_total_pages: 11128
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -101,6 +101,9 @@ wiki_pages:
   - key: "RayBanSmartGlasses"
     title: "Ray-Ban Smart Glasses"
     url: "/wiki/entities/raybansmartglasses/"
+  - key: "RaymondOfCapua"
+    title: "Raymond of Capua"
+    url: "/wiki/entities/raymondofcapua/"
   - key: "RaymondPoincare"
     title: "Raymond Poincaré"
     url: "/wiki/entities/raymondpoincare/"

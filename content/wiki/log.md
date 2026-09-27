@@ -24156,3 +24156,11 @@ Added source `357-historical-love-island-the-sequel-glt7719682575`; created `Cat
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | 356: The Blood-Drinking Bride of Christ
+
+Added source `356-the-blood-drinking-bride-of-christ-glt8496536394`; created `RaymondOfCapua`, `CarolineWalkerBynum`, `GregoryXI`, `UrbanVI`, `GreatWesternSchism`, `MedievalFemaleAsceticAuthority`, and `ReligiousExperienceMedicalizationBoundary`; and updated `CatherineOfSiena`, `AvignonPapacy`, and the canonical index from their complete bounded source sets. Core synthesis: Catherine's fasting, virginity, bodily suffering, charity, visions, and miracle reputation operated inside medieval food scarcity, women's domestic labor, Eucharistic belief, and gender expectations, allowing ascetic sanctity to become civic and papal authority. No settled contradiction was adopted. Miracle accounts, intimate visions, political influence, and retrospective anorexia remain hagiographic, interpretive, or source-scoped; a modern diagnosis can illuminate bodily harm without exhausting medieval meaning. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

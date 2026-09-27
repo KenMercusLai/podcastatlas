@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [356: The Blood-Drinking Bride of Christ](sources/356-the-blood-drinking-bride-of-christ-glt8496536394.md) — The Rest Is History episode on Catherine of Siena's ascetic mysticism, gendered religious authority, papal diplomacy, and the limits of retrospective diagnosis.
 - [Ketamine: Benefits and Risks for Depression, PTSD & Neuroplasticity](sources/ketamine-benefits-risks-for-depression-ptsd-neuroplasticity-scim3757014952.md) — Huberman Lab solo episode on rapid but often time-limited psychiatric benefit, NMDA/BDNF/opioid mechanisms, route-dependent exposure, dissociation, and supervised-use boundaries.
 - [VOL.65心脏外科｜先心病、冠心病、瓣膜病 这几种心脏疾病来听安贞医生怎么讲](sources/vol-65-xinzang-waike-xianxinbing-guanxinbing-banmobing-zhe-jizhong-xinzang-jibing-lai-ting-anzhen-yisheng-zenme-jiang-lo_ztsjizbunfsi5uhii1iv_lrzb.md) — 这病说来话长 episode on congenital findings, valve repair and replacement, coronary ischemia, myocardial infarction, and collapse-response boundaries.
 - [Improving Sexual & Urological Health in Males and Females | Dr. Rena Malik](sources/improving-sexual-urological-health-in-males-and-females-dr-rena-malik-scim6177024080.md) — Huberman Lab interview on pelvic-floor function matching, sexual desire and arousal, erectile and urinary health, recurrent UTIs, communication, and mechanism-based care.
@@ -3051,6 +3052,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.66心脏外科｜从挂号到就医 从吃药到手术 安贞医生给你的实用贴士](sources/vol-66-xinzang-waike-cong-guahao-dao-jiuyi-cong-chiyao-dao-shoushu-anzhen-yisheng-gei-ni-de-shiyong-tieshi-lnnmiealbw5s886_m4y8yjj3mja_.md) — 这病说来话长 episode on cardiac symptom escalation, hospital routing, diagnostic limits, hypertension harm, surgical-modality selection, robotics, and pump-versus-rhythm devices.
 
 ## Entities
+- [Raymond of Capua](entities/RaymondOfCapua.md) — Catherine of Siena's confessor and hagiographic biographer, central to the transmission and interpretation of her visions and miracles.
+- [Caroline Walker Bynum](entities/CarolineWalkerBynum.md) — Historian whose work frames medieval women's food practices, embodiment, and religious meaning.
+- [Gregory XI](entities/GregoryXI.md) — Pope urged by Catherine of Siena to return from Avignon to Rome.
+- [Urban VI](entities/UrbanVI.md) — Rome-based pope supported by Catherine during the opening Great Western Schism.
+- [Great Western Schism](entities/GreatWesternSchism.md) — Rival-popes crisis that followed Gregory XI's death and drew Catherine into papal legitimacy politics.
 - [Neil Price](entities/NeilPrice.md) — Archaeologist interpreting Viking worldview, magic, ritual, violence, and historical uncertainty without romanticization.
 - [Rena Malik](entities/RenaMalik.md) — Urologist and pelvic surgeon using mechanism-matched, non-shaming assessment across male and female urinary and sexual health.
 - [大杨杨 / Da Yangyang](entities/DaYangYang.md) — Source-scoped patient narrator connecting repeated illness, ICU safety, humor, and experience-based writing.
@@ -14190,9 +14196,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Poppaea Sabina](entities/PoppaeaSabina.md) — Nero's wife portrayed through glamour, commercial influence, powerful relationships, and qualified claims of ruthless ambition.
 - [Mary Fisher](entities/MaryFisher.md) — Seventeenth-century Quaker missionary joining religious conviction, persecution, transatlantic travel, and later marriage.
 - [Horatio Nelson](entities/HoratioNelson.md) — British naval celebrity presented narrowly through Emma Hamilton, romantic scandal, and reality-show disruption.
-- [Catherine of Siena](entities/CatherineOfSiena.md) — Christian mystic whose renunciation and ascetic vocation make her a deliberately incongruous dating-show entrant.
+- [Catherine of Siena](entities/CatherineOfSiena.md) — Medieval mystic whose ascetic sanctity, charity, diplomacy, and papal advocacy converted bodily renunciation into public authority.
 
 ## Concepts
+- [Medieval Female Ascetic Authority](concepts/MedievalFemaleAsceticAuthority.md) — How gendered bodily renunciation could become sanctity, public credibility, and political influence.
+- [Religious Experience Medicalization Boundary](concepts/ReligiousExperienceMedicalizationBoundary.md) — Boundary between useful retrospective diagnosis and historically complete explanation of religious practice.
 - [Heart Valve Repair and Replacement Decision / 心脏瓣膜修复与置换决策](concepts/HeartValveRepairReplacementDecision.md) — Valve-treatment framework balancing durable repair, residual disease, prosthesis durability, anticoagulation, reintervention, and team capability.
 - [Viking Age Worldview](concepts/VikingAgeWorldview.md) — Lived field joining gods, local beings, landscapes, animals, the dead, magic, danger, and practical conduct.
 - [Seiðr](concepts/Seidr.md) — Gendered Viking Age magic reconstructed through otherworld access, ritual comparison, sexuality, mind, and battle.

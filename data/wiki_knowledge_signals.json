@@ -14166,6 +14166,29 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/aviationinfrastructureurbandevelopment/"
     },
+    "AvignonPapacy": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "54.玫瑰的名字（下）：真与假，正与邪，诠释与过度诠释 [638214699].md",
+          "key": "54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699",
+          "show": "蜜獾吃书",
+          "title": "54.玫瑰的名字（下）：真与假，正与邪，诠释与过度诠释",
+          "url": "/wiki/sources/54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699/"
+        },
+        {
+          "episode_file": "GLT8496536394 [GLT8496536394].md",
+          "key": "356-the-blood-drinking-bride-of-christ-glt8496536394",
+          "show": "The Rest Is History",
+          "title": "356: The Blood-Drinking Bride of Christ",
+          "url": "/wiki/sources/356-the-blood-drinking-bride-of-christ-glt8496536394/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/avignonpapacy/"
+    },
     "AwaitingPunishmentPerformance": {
       "episode_count": 1,
       "show_count": 1,
@@ -23527,6 +23550,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/caroldweck/"
     },
+    "CarolineWalkerBynum": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8496536394 [GLT8496536394].md",
+          "key": "356-the-blood-drinking-bride-of-christ-glt8496536394",
+          "show": "The Rest Is History",
+          "title": "356: The Blood-Drinking Bride of Christ",
+          "url": "/wiki/sources/356-the-blood-drinking-bride-of-christ-glt8496536394/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/carolinewalkerbynum/"
+    },
     "CarrieBatten": {
       "episode_count": 1,
       "show_count": 1,
@@ -23858,9 +23897,9 @@
       "url": "/wiki/entities/catherinejudge/"
     },
     "CatherineOfSiena": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7719682575 [GLT7719682575].md",
@@ -23868,6 +23907,13 @@
           "show": "The Rest Is History",
           "title": "357: Historical Love Island: The Sequel",
           "url": "/wiki/sources/357-historical-love-island-the-sequel-glt7719682575/"
+        },
+        {
+          "episode_file": "GLT8496536394 [GLT8496536394].md",
+          "key": "356-the-blood-drinking-bride-of-christ-glt8496536394",
+          "show": "The Rest Is History",
+          "title": "356: The Blood-Drinking Bride of Christ",
+          "url": "/wiki/sources/356-the-blood-drinking-bride-of-christ-glt8496536394/"
         }
       ],
       "updated": "2026-09-28",
@@ -65788,6 +65834,22 @@
       "updated": "2026-09-25",
       "url": "/wiki/entities/greatsiouxreservation/"
     },
+    "GreatWesternSchism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8496536394 [GLT8496536394].md",
+          "key": "356-the-blood-drinking-bride-of-christ-glt8496536394",
+          "show": "The Rest Is History",
+          "title": "356: The Blood-Drinking Bride of Christ",
+          "url": "/wiki/sources/356-the-blood-drinking-bride-of-christ-glt8496536394/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/greatwesternschism/"
+    },
     "GreaterBayAreaAirportCluster": {
       "episode_count": 1,
       "show_count": 1,
@@ -65897,6 +65959,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/gregoryvii/"
+    },
+    "GregoryXI": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8496536394 [GLT8496536394].md",
+          "key": "356-the-blood-drinking-bride-of-christ-glt8496536394",
+          "show": "The Rest Is History",
+          "title": "356: The Blood-Drinking Bride of Christ",
+          "url": "/wiki/sources/356-the-blood-drinking-bride-of-christ-glt8496536394/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/gregoryxi/"
     },
     "GriefAttachmentRemapping": {
       "episode_count": 3,
@@ -104555,6 +104633,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/medicationselfcombinationrisk/"
     },
+    "MedievalFemaleAsceticAuthority": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8496536394 [GLT8496536394].md",
+          "key": "356-the-blood-drinking-bride-of-christ-glt8496536394",
+          "show": "The Rest Is History",
+          "title": "356: The Blood-Drinking Bride of Christ",
+          "url": "/wiki/sources/356-the-blood-drinking-bride-of-christ-glt8496536394/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/medievalfemaleasceticauthority/"
+    },
     "MedievalFemaleSovereigntyConstraint": {
       "episode_count": 1,
       "show_count": 1,
@@ -128975,6 +129069,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/raysolomonoff/"
     },
+    "RaymondOfCapua": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8496536394 [GLT8496536394].md",
+          "key": "356-the-blood-drinking-bride-of-christ-glt8496536394",
+          "show": "The Rest Is History",
+          "title": "356: The Blood-Drinking Bride of Christ",
+          "url": "/wiki/sources/356-the-blood-drinking-bride-of-christ-glt8496536394/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/raymondofcapua/"
+    },
     "RaymondPoincare": {
       "episode_count": 1,
       "show_count": 1,
@@ -130515,6 +130625,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/concepts/reliabilitydriveninfrastructureownership/"
+    },
+    "ReligiousExperienceMedicalizationBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8496536394 [GLT8496536394].md",
+          "key": "356-the-blood-drinking-bride-of-christ-glt8496536394",
+          "show": "The Rest Is History",
+          "title": "356: The Blood-Drinking Bride of Christ",
+          "url": "/wiki/sources/356-the-blood-drinking-bride-of-christ-glt8496536394/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/religiousexperiencemedicalizationboundary/"
     },
     "RemedialEducationTargeting": {
       "episode_count": 2,
@@ -158576,6 +158702,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/urbandisorderexplanationconflict/"
+    },
+    "UrbanVI": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8496536394 [GLT8496536394].md",
+          "key": "356-the-blood-drinking-bride-of-christ-glt8496536394",
+          "show": "The Rest Is History",
+          "title": "356: The Blood-Drinking Bride of Christ",
+          "url": "/wiki/sources/356-the-blood-drinking-bride-of-christ-glt8496536394/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/urbanvi/"
     },
     "UrbanWildlifeCoexistence": {
       "episode_count": 1,

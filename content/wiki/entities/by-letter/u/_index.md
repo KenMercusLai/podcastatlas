@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "u"
-wiki_total_pages: 11123
+wiki_total_pages: 11128
 wiki_pages:
   - key: "UnitedStatesPresidentialElection1968"
     title: "1968 United States Presidential Election"
@@ -308,6 +308,9 @@ wiki_pages:
   - key: "UrbanDecay"
     title: "Urban Decay"
     url: "/wiki/entities/urbandecay/"
+  - key: "UrbanVI"
+    title: "Urban VI"
+    url: "/wiki/entities/urbanvi/"
   - key: "UrienTimmer"
     title: "Urien Timmer"
     url: "/wiki/entities/urientimmer/"
