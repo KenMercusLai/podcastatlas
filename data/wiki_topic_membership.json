@@ -1521,6 +1521,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "357-historical-love-island-the-sequel-glt7719682575": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "358-viking-sorcery-glt1200485419": [
     {
       "key": "history",
@@ -67661,6 +67668,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "SirWilliamHamilton": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "SirhanSirhan": [

@@ -24148,3 +24148,11 @@ Added source `ketamine-benefits-risks-for-depression-ptsd-neuroplasticity-scim37
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | 357: Historical Love Island: The Sequel
+
+Added source `357-historical-love-island-the-sequel-glt7719682575`; created `CatherineHoward`, `SirWilliamHamilton`, `EmpressZoe`, `PoppaeaSabina`, `MaryFisher`, `HoratioNelson`, `CatherineOfSiena`, and `HistoricalFiguresAsRealityTVArchetypes`; and updated `CharlesIIOfEngland`, `PeterTheGreat`, `TonyBenn`, and the canonical index from their complete bounded source sets. Core synthesis: reality-television archetypes make distant biographies memorable through character contrast and counterfactual pairing, but the same device compresses unequal power, disputed motive, religion, persecution, grief, and violence into entertainment logic. No settled contradiction was adopted. The comic labels, private motives, relationship judgments, court anecdotes, numerical claims, and imagined compatibility remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

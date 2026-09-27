@@ -23809,6 +23809,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/cathedralthinking/"
     },
+    "CatherineHoward": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7719682575 [GLT7719682575].md",
+          "key": "357-historical-love-island-the-sequel-glt7719682575",
+          "show": "The Rest Is History",
+          "title": "357: Historical Love Island: The Sequel",
+          "url": "/wiki/sources/357-historical-love-island-the-sequel-glt7719682575/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/catherinehoward/"
+    },
     "CatherineI": {
       "episode_count": 1,
       "show_count": 1,
@@ -23840,6 +23856,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/catherinejudge/"
+    },
+    "CatherineOfSiena": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7719682575 [GLT7719682575].md",
+          "key": "357-historical-love-island-the-sequel-glt7719682575",
+          "show": "The Rest Is History",
+          "title": "357: Historical Love Island: The Sequel",
+          "url": "/wiki/sources/357-historical-love-island-the-sequel-glt7719682575/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/catherineofsiena/"
     },
     "CatherineOfValois": {
       "episode_count": 1,
@@ -24966,9 +24998,9 @@
       "url": "/wiki/entities/charleshenrisanson/"
     },
     "CharlesIIOfEngland": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8912379704 [GLT8912379704].md",
@@ -24976,9 +25008,16 @@
           "show": "The Rest Is History",
           "title": "459. The Suit, Savile Row, and Smartly Dressed Men",
           "url": "/wiki/sources/459-the-suit-savile-row-and-smartly-dressed-men-glt8912379704/"
+        },
+        {
+          "episode_file": "GLT7719682575 [GLT7719682575].md",
+          "key": "357-historical-love-island-the-sequel-glt7719682575",
+          "show": "The Rest Is History",
+          "title": "357: Historical Love Island: The Sequel",
+          "url": "/wiki/sources/357-historical-love-island-the-sequel-glt7719682575/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/charlesiiofengland/"
     },
     "CharlesLightoller": {
@@ -48844,6 +48883,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/empressyinhelatehan/"
     },
+    "EmpressZoe": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7719682575 [GLT7719682575].md",
+          "key": "357-historical-love-island-the-sequel-glt7719682575",
+          "show": "The Rest Is History",
+          "title": "357: Historical Love Island: The Sequel",
+          "url": "/wiki/sources/357-historical-love-island-the-sequel-glt7719682575/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/empresszoe/"
+    },
     "EmptyReputationRealityGap": {
       "episode_count": 1,
       "show_count": 1,
@@ -72432,6 +72487,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/historicalfictionfactualconstraint/"
     },
+    "HistoricalFiguresAsRealityTVArchetypes": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7719682575 [GLT7719682575].md",
+          "key": "357-historical-love-island-the-sequel-glt7719682575",
+          "show": "The Rest Is History",
+          "title": "357: Historical Love Island: The Sequel",
+          "url": "/wiki/sources/357-historical-love-island-the-sequel-glt7719682575/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/historicalfiguresasrealitytvarchetypes/"
+    },
     "HistoricalInternationalLaw": {
       "episode_count": 1,
       "show_count": 1,
@@ -73551,6 +73622,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/horatiogates/"
+    },
+    "HoratioNelson": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7719682575 [GLT7719682575].md",
+          "key": "357-historical-love-island-the-sequel-glt7719682575",
+          "show": "The Rest Is History",
+          "title": "357: Historical Love Island: The Sequel",
+          "url": "/wiki/sources/357-historical-love-island-the-sequel-glt7719682575/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/horationelson/"
     },
     "HormoneContextAggression": {
       "episode_count": 2,
@@ -103304,6 +103391,22 @@
       "updated": "2026-09-25",
       "url": "/wiki/entities/maryclairehaver/"
     },
+    "MaryFisher": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7719682575 [GLT7719682575].md",
+          "key": "357-historical-love-island-the-sequel-glt7719682575",
+          "show": "The Rest Is History",
+          "title": "357: Historical Love Island: The Sequel",
+          "url": "/wiki/sources/357-historical-love-island-the-sequel-glt7719682575/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/maryfisher/"
+    },
     "MaryFrancesOConnor": {
       "episode_count": 1,
       "show_count": 1,
@@ -120360,9 +120463,9 @@
       "url": "/wiki/entities/peterfankhauser/"
     },
     "PeterTheGreat": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 2,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "120.蓝狐岛：伟大事业中的雄心与现实 [772998218].md",
@@ -120419,9 +120522,16 @@
           "show": "The Rest Is History",
           "title": "492. The War on Beards: From Peter the Great to John Lennon (Part 2)",
           "url": "/wiki/sources/492-the-war-on-beards-from-peter-the-great-to-john-lennon-part-2-glt5427522678/"
+        },
+        {
+          "episode_file": "GLT7719682575 [GLT7719682575].md",
+          "key": "357-historical-love-island-the-sequel-glt7719682575",
+          "show": "The Rest Is History",
+          "title": "357: Historical Love Island: The Sequel",
+          "url": "/wiki/sources/357-historical-love-island-the-sequel-glt7719682575/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/peterthegreat/"
     },
     "PetitTrianon": {
@@ -122383,6 +122493,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/popeyes/"
+    },
+    "PoppaeaSabina": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7719682575 [GLT7719682575].md",
+          "key": "357-historical-love-island-the-sequel-glt7719682575",
+          "show": "The Rest Is History",
+          "title": "357: Historical Love Island: The Sequel",
+          "url": "/wiki/sources/357-historical-love-island-the-sequel-glt7719682575/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/poppaeasabina/"
     },
     "PopularNPDDiscourse": {
       "episode_count": 2,
@@ -141504,6 +141630,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/concepts/singlestockleveragedetf/"
     },
+    "SirWilliamHamilton": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7719682575 [GLT7719682575].md",
+          "key": "357-historical-love-island-the-sequel-glt7719682575",
+          "show": "The Rest Is History",
+          "title": "357: Historical Love Island: The Sequel",
+          "url": "/wiki/sources/357-historical-love-island-the-sequel-glt7719682575/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/sirwilliamhamilton/"
+    },
     "Sirens": {
       "episode_count": 1,
       "show_count": 1,
@@ -155277,9 +155419,9 @@
       "url": "/wiki/entities/tonyacrcloud/"
     },
     "TonyBenn": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT9598017819 [GLT9598017819].md",
@@ -155315,9 +155457,16 @@
           "show": "The Rest Is History",
           "title": "418. Britain in 1974: The Crisis Election (Part 2)",
           "url": "/wiki/sources/418-britain-in-1974-the-crisis-election-part-2-glt9690615062/"
+        },
+        {
+          "episode_file": "GLT7719682575 [GLT7719682575].md",
+          "key": "357-historical-love-island-the-sequel-glt7719682575",
+          "show": "The Rest Is History",
+          "title": "357: Historical Love Island: The Sequel",
+          "url": "/wiki/sources/357-historical-love-island-the-sequel-glt7719682575/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/tonybenn/"
     },
     "ToothDemineralizationRemineralization": {

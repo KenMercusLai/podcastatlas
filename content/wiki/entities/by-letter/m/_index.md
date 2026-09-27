@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 11116
+wiki_total_pages: 11123
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -500,6 +500,9 @@ wiki_pages:
   - key: "MaryDeRachewiltz"
     title: "Mary de Rachewiltz"
     url: "/wiki/entities/maryderachewiltz/"
+  - key: "MaryFisher"
+    title: "Mary Fisher"
+    url: "/wiki/entities/maryfisher/"
   - key: "MaryPatCampbell"
     title: "Mary Pat Campbell"
     url: "/wiki/entities/marypatcampbell/"

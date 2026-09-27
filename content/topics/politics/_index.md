@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2768
+topic_total_pages: 2769
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6422,6 +6422,9 @@ topic_entities:
   - key: "SinnFein"
     title: "Sinn Fein"
     url: "/wiki/entities/sinnfein/"
+  - key: "SirWilliamHamilton"
+    title: "Sir William Hamilton"
+    url: "/wiki/entities/sirwilliamhamilton/"
   - key: "SirhanSirhan"
     title: "Sirhan Sirhan"
     url: "/wiki/entities/sirhansirhan/"

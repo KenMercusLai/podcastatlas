@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2097
+topic_total_pages: 2098
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4659,6 +4659,9 @@ topic_sources:
   - key: "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008"
     title: "318: Hundred Years' War: A Game of Thrones (Part 1)"
     url: "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+  - key: "357-historical-love-island-the-sequel-glt7719682575"
+    title: "357: Historical Love Island: The Sequel"
+    url: "/wiki/sources/357-historical-love-island-the-sequel-glt7719682575/"
   - key: "358-viking-sorcery-glt1200485419"
     title: "358: Viking Sorcery"
     url: "/wiki/sources/358-viking-sorcery-glt1200485419/"

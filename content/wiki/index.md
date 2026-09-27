@@ -10,6 +10,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.65心脏外科｜先心病、冠心病、瓣膜病 这几种心脏疾病来听安贞医生怎么讲](sources/vol-65-xinzang-waike-xianxinbing-guanxinbing-banmobing-zhe-jizhong-xinzang-jibing-lai-ting-anzhen-yisheng-zenme-jiang-lo_ztsjizbunfsi5uhii1iv_lrzb.md) — 这病说来话长 episode on congenital findings, valve repair and replacement, coronary ischemia, myocardial infarction, and collapse-response boundaries.
 - [Improving Sexual & Urological Health in Males and Females | Dr. Rena Malik](sources/improving-sexual-urological-health-in-males-and-females-dr-rena-malik-scim6177024080.md) — Huberman Lab interview on pelvic-floor function matching, sexual desire and arousal, erectile and urinary health, recurrent UTIs, communication, and mechanism-based care.
 - [VOL.67无·事｜听躺进ICU的医生和普通病人在聊些什么？知道越多越恐惧？｜献礼医师节彩蛋](sources/lswakifoozu5vkckl5n-nzndj43e-lswakifoozu5vkckl5n-nzndj43e.md) — 这病说来话长 episode on ICU survivor experience, pulmonary-embolism escalation, anesthesiology, informed clinical trust, and responsible public medical communication.
+- [357: Historical Love Island: The Sequel](sources/357-historical-love-island-the-sequel-glt7719682575.md) — The Rest Is History episode using Love Island archetypes and pairings to compare historical character, charisma, resilience, ambition, devotion, and moral seriousness.
 - [358: Viking Sorcery](sources/358-viking-sorcery-glt1200485419.md) — The Rest Is History conversation with Neil Price on Viking worldview, seiðr, ritual violence, Valkyries, periodization, and the limits of reconstruction.
 - [359: Martin Luther King's Dream](sources/359-martin-luther-kings-dream-glt8593313865.md) — The Rest Is History episode on the 1963 March on Washington, King's patriotic and prophetic rhetoric, prepared improvisation, coalition organization, and selectively hopeful afterlife.
 - [361. The Lost Library of Alexandria](sources/361-the-lost-library-of-alexandria-glt1578679297.md) — The Rest Is History episode on Ptolemaic scholarship, the library's Greek literary focus, uncertain physical form, and gradual loss behind the single-destruction myth.
@@ -3374,7 +3375,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [何思琪 / He Siqi (天津师大校广播)](entities/HeSiqiTianjinNormalRadio.md) — Campus-radio participant who originated the “笑不活” health-and-humor topic.
 - [吴斌 / Wu Bin (口腔科)](entities/WuBinOralDoctor.md) — Oral-health clinician explaining jaw-dislocation triggers, recurrence, escalation, and recovery boundaries.
 - [翁家毅 / Weng Jiayi](entities/WengJiayiCardiology.md) — Cardiovascular clinician distinguishing ordinary laughter activation from vulnerability-dependent cardiac risk.
-- [Charles II of England](entities/CharlesIIOfEngland.md) — Restoration king whose 1666 vest initiative joined coordinated male dress to thrift, wool, and political sobriety.
+- [Charles II of England](entities/CharlesIIOfEngland.md) — Restoration king joining sober dress politics to charismatic sociability, male friendship, marital protection, and sexual unreliability.
 - [Beau Brummell](entities/BeauBrummell.md) — Regency dandy who made immaculate understatement an expensive elite performance.
 - [Savile Row](entities/SavileRow.md) — London bespoke-tailoring district combining craft, records, heritage, elite clients, and stylistic reinvention.
 - [辛晓琪 / Winnie Hsin](entities/XinXiaoqi.md) — Singer linking long-concert performance capacity to year-round home exercise, super-slow jogging, core work, and moderate balanced eating.
@@ -4111,7 +4112,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [萧吉 / Xiao Ji (Western Han)](entities/XiaoJiWesternHan.md) — Xiao Wangzhi's son whose vindication petition triggers renewed pressure against his father.
 - [珠崖郡 / Zhuya Commandery](entities/ZhuyaCommandery.md) — Western Han Hainan commandery abolished by Han Yuandi after repeated unrest, Jia Juanzhi's cost argument, and famine pressure made direct rule too costly.
 - [Denis Healey](entities/DenisHealey.md) — British chancellor who shifted toward cuts as sterling, borrowing, and inflation pressure mounted in 1975-1976.
-- [Tony Benn](entities/TonyBenn.md) — Labour-left figure linking 1974 industrial planning, anti-EC democratic sovereignty, and the alternative economic strategy during Britain's 1976 IMF crisis.
+- [Tony Benn](entities/TonyBenn.md) — Labour-left figure joining industrial planning and democratic sovereignty to marital devotion, bereavement, and emotional openness.
 - [Sex Pistols](entities/SexPistols.md) — Punk band whose Bill Grundy television scandal becomes a symbol of Britain's 1976 crisis mood.
 - [孔霸 / Kong Ba (Western Han)](entities/KongBaWesternHan.md) — Confucius-lineage scholar and Han Yuandi's former teacher who refuses high office to preserve Confucian standing and avoid factional court exposure.
 - [王接 / Wang Jie (Western Han)](entities/WangJieWesternHan.md) — Western Han official appointed Da Sima and Cheqi Jiangjun after the Yongguang 1 disaster-era senior resignations.
@@ -10826,7 +10827,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kenneth Bianchi](entities/KennethBianchi.md) — Hillside Strangler case figure used by episode 121 to discuss feigned mental illness and forensic psychology in court.
 - [James Brussel](entities/JamesBrussel.md) — Psychiatrist used by episode 121 to discuss criminal profiling as a useful but bounded investigative inference.
 - [Vitus Bering / 维图斯·白令](entities/VitusBering.md) — Danish-born Russian naval officer whose Kamchatka and Great Northern expeditions open the source's North Pacific exploration branch.
-- [Peter the Great / 彼得大帝](entities/PeterTheGreat.md) — Russian ruler whose maritime, administrative, and scientific reforms strengthened both state capacity and autocratic coercion.
+- [Peter the Great / 彼得大帝](entities/PeterTheGreat.md) — Russian ruler whose maritime, administrative, and scientific reforms joined charismatic spectacle to state capacity and autocratic coercion.
 - [Russian Empire / 俄罗斯帝国](entities/RussianEmpire.md) — State transformed through Baltic war, centralized reform, Siberian logistics, maritime ambition, and coercive expansion.
 - [First Kamchatka Expedition / 第一次勘察加探险](entities/FirstKamchatkaExpedition.md) — Bering-led expedition that crossed Siberia, built ships at Okhotsk, and tested the Asia-America separation question.
 - [Great Northern Expedition / 大北方探险](entities/GreatNorthernExpedition.md) — Expanded second Bering expedition combining navigation, science, settlement, Japanese-route exploration, and imperial infrastructure.
@@ -14183,6 +14184,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [1963 March on Washington](entities/MarchOnWashington1963.md) — Large peaceful civil-rights coalition demonstration remembered most strongly through King's final address.
 - [I Have a Dream Speech](entities/IHaveADreamSpeech.md) — King's 1963 address combining constitutional debt, patriotic promise, biblical prophecy, and prepared improvisation.
 - [钟照鹏 / Zhong Zhaopeng](entities/ZhongZhaopeng.md) — Source-scoped Beijing Anzhen cardiac surgeon explaining symptom routing, diagnostic limits, treatment tradeoffs, surgery, and cardiac devices.
+- [Catherine Howard](entities/CatherineHoward.md) — Henry VIII's young fifth wife, interpreted through courtship, unequal royal power, hostile sexual judgment, and execution.
+- [Sir William Hamilton](entities/SirWilliamHamilton.md) — British ambassador to Naples whose marriage to Emma Hamilton and tolerance of her affair with Nelson define a profile of devotion.
+- [Empress Zoe](entities/EmpressZoe.md) — Byzantine ruler whose repeated exclusion, popular legitimacy, and restoration support a survivor profile.
+- [Poppaea Sabina](entities/PoppaeaSabina.md) — Nero's wife portrayed through glamour, commercial influence, powerful relationships, and qualified claims of ruthless ambition.
+- [Mary Fisher](entities/MaryFisher.md) — Seventeenth-century Quaker missionary joining religious conviction, persecution, transatlantic travel, and later marriage.
+- [Horatio Nelson](entities/HoratioNelson.md) — British naval celebrity presented narrowly through Emma Hamilton, romantic scandal, and reality-show disruption.
+- [Catherine of Siena](entities/CatherineOfSiena.md) — Christian mystic whose renunciation and ascetic vocation make her a deliberately incongruous dating-show entrant.
 
 ## Concepts
 - [Heart Valve Repair and Replacement Decision / 心脏瓣膜修复与置换决策](concepts/HeartValveRepairReplacementDecision.md) — Valve-treatment framework balancing durable repair, residual disease, prosthesis durability, anticoagulation, reintervention, and team capability.
@@ -22738,5 +22746,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Patriotic-Prophetic Rhetoric](concepts/PatrioticPropheticRhetoric.md) — Reform language that joins national promises to religious judgment, urgency, and hope.
 - [Sanitized Civil-Rights Memory](concepts/SanitizedCivilRightsMemory.md) — Selective commemoration of hopeful movement language at the expense of conflict, coalition labor, and structural critique.
 - [Cardiac Surgery Modality Selection / 心脏外科术式选择](concepts/CardiacSurgeryModalitySelection.md) — Outcome-first selection among conventional, minimally invasive, robotic, catheter-based, bypass-supported, and off-pump cardiac approaches.
+- [Historical Figures as Reality-TV Archetypes](concepts/HistoricalFiguresAsRealityTVArchetypes.md) — Comic method that makes biographies memorable through contestant roles and pairings while risking anachronism and moral compression.
 
 ## Syntheses

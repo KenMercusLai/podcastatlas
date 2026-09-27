@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 11116
+wiki_total_pages: 11123
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -671,6 +671,9 @@ wiki_pages:
   - key: "Popeyes"
     title: "Popeyes"
     url: "/wiki/entities/popeyes/"
+  - key: "PoppaeaSabina"
+    title: "Poppaea Sabina"
+    url: "/wiki/entities/poppaeasabina/"
   - key: "Porsche"
     title: "Porsche"
     url: "/wiki/entities/porsche/"

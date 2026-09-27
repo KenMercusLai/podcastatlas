@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 8536
+wiki_total_pages: 8537
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -428,6 +428,9 @@ wiki_pages:
   - key: "HistoricalFictionFactualConstraint"
     title: "Historical Fiction Factual Constraint"
     url: "/wiki/concepts/historicalfictionfactualconstraint/"
+  - key: "HistoricalFiguresAsRealityTVArchetypes"
+    title: "Historical Figures as Reality-TV Archetypes"
+    url: "/wiki/concepts/historicalfiguresasrealitytvarchetypes/"
   - key: "HistoricalInternationalLaw"
     title: "Historical International Law / 国际法历史化"
     url: "/wiki/concepts/historicalinternationallaw/"
