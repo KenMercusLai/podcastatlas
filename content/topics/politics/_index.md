@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2738
+topic_total_pages: 2739
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -2386,6 +2386,9 @@ topic_concepts:
   - key: "OfficialHistoryLegitimacyRepair"
     title: "Official History Legitimacy Repair"
     url: "/wiki/concepts/officialhistorylegitimacyrepair/"
+  - key: "OfficialInquiryTrustRepair"
+    title: "Official Inquiry Trust Repair"
+    url: "/wiki/concepts/officialinquirytrustrepair/"
   - key: "OilProducerSupplyCoordination"
     title: "Oil Producer Supply Coordination"
     url: "/wiki/concepts/oilproducersupplycoordination/"

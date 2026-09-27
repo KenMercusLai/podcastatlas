@@ -4,6 +4,7 @@ type: entity
 tags: [event, assassination, united-states, dallas, conspiracy]
 sources:
   - 398-jfk-the-mystery-is-solved-part-7-glt6409828878
+  - 397-jfk-a-conspiracy-unmasked-part-6-glt4318220159
 last_updated: 2026-09-27
 knowledge_schema: synthesis-v1
 ---
@@ -16,9 +17,9 @@ The assassination of John F. Kennedy was the 22 November 1963 killing of the U.S
 
 ## Current Profile
 
-The episode reconstructs the crime as a late opportunity enabled by a motorcade route that passed Oswald's workplace. It joins the package taken to work, sixth-floor witness and sniper-nest evidence, the rifle, Oswald's departure, J. D. Tippit's killing, arrest, and interrogation lies into a cumulative lone-gunman case. It also answers two common objections by arguing that the shooting speed had been duplicated and that the so-called magic-bullet trajectory is plausible given Kennedy's and John Connally's relative positions.
+The episodes reconstruct the crime as a late opportunity enabled by a motorcade route that passed Oswald's workplace. They join the package taken to work, sixth-floor witness and sniper-nest evidence, the rifle, Oswald's departure, J. D. Tippit's killing, arrest, and interrogation lies into a cumulative lone-gunman case. They also answer two common objections by arguing that the shooting speed had been duplicated and that the so-called magic-bullet trajectory is plausible given Kennedy's and John Connally's relative positions.
 
-The event's afterlife is treated as a second historical problem. Because Kennedy's death preceded Vietnam escalation, civil-rights conflict, law-and-order politics, drugs, campus unrest, and wider disillusionment, the assassination became a hinge in stories of a lost optimistic America. The episode argues that hidden-government explanations later fed populist, deep-state, and QAnon-style politics.
+The event's afterlife is treated as a second historical problem. Ruby's killing of Oswald removed the trial; the Warren Commission tried to establish a public settlement; Vietnam and Watergate weakened institutional trust; and the Zapruder film, grassy-knoll testimony, photographic figures, disputed dictabelt evidence, and Oliver Stone's *JFK* kept reinterpretation alive. Because Kennedy's death also preceded later-1960s upheaval, the assassination became a hinge in stories of a lost optimistic America and a precursor to populist, deep-state, and QAnon-style politics.
 
 ## Key Characteristics
 
@@ -27,6 +28,7 @@ The event's afterlife is treated as a second historical problem. Because Kennedy
 - Ballistic controversy centered on firing speed and the single-bullet trajectory.
 - Cultural trauma made to bear explanations for later American political disillusionment.
 - Durable conspiracy object linking official secrecy, distrust, secret-knowledge appeal, and totalizing history.
+- Event whose official interpretation moved through police certainty, commission settlement, later congressional qualification, and technical rebuttal.
 
 ## Evidence
 
@@ -45,16 +47,16 @@ The event's afterlife is treated as a second historical problem. Because Kennedy
 ### Political and cultural afterlife
 
 - [[398-jfk-the-mystery-is-solved-part-7-glt6409828878]] connects Jim Garrison, late-1960s assassination literature, lost-optimism narratives, deep-state thinking, and QAnon to the event's conspiracy afterlife.
+- [[397-jfk-a-conspiracy-unmasked-part-6-glt4318220159]] adds Ruby's intervention, early writers, the Warren Commission, Vietnam, Watergate, visual interpretation, a later congressional inquiry, and Oliver Stone's film to the sequence.
 
 ## Qualifications
 
-This profile represents one episode's closing argument, not the full evidentiary record. The source states that investigators assembled roughly fifty to sixty pieces of evidence but discusses only a selection. Its ballistic, timing, motive, CIA, and counterfactual claims remain source-scoped, and the broad social claim that Kennedy conspiracy theories fed later populism describes an influence pathway rather than a single-cause history.
+This profile represents two episodes' closing argument, not the full evidentiary record. The sources discuss only a selection of the available evidence and later disputes. Their ballistic, acoustic, timing, motive, CIA, and counterfactual claims remain source-scoped, and the broad social claim that Kennedy conspiracy theories fed later populism describes an influence pathway rather than a single-cause history.
 
 ## What Changed
 
-- Added a canonical event page separating the assassination evidence from its cultural afterlife.
-- Framed the lone-gunman conclusion as the episode's cumulative judgment rather than an unqualified wiki verdict.
-- Connected the event's conspiracy afterlife to existing reasoning concepts.
+- Added the institutional and media sequence through which doubt persisted after the crime.
+- Distinguished the later committee's narrow acoustic qualification from proof of a named institutional conspiracy.
 
 ## Relationships
 
@@ -63,3 +65,6 @@ This profile represents one episode's closing argument, not the full evidentiary
 - [[WarrenCommission]] - official inquiry whose broad conclusion the episode endorses.
 - [[OccamsRazor]] - reasoning principle used to compare lone-gunman and conspiracy explanations.
 - [[ConspiracyTheoryPatternSeeking]] - framework for the event's persistent hidden-order interpretations.
+- [[JackRuby]] - Oswald's killer, whose intervention eliminated a trial and amplified suspicion.
+- [[HouseSelectCommitteeOnAssassinations]] - later inquiry that briefly gave official standing to a disputed acoustic theory.
+- [[OfficialInquiryTrustRepair]] - framework for the Warren Commission's legitimacy function and its limits.

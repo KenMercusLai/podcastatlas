@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [397. JFK: A Conspiracy Unmasked (Part 6)](sources/397-jfk-a-conspiracy-unmasked-part-6-glt4318220159.md) — The Rest Is History episode on Ruby's killing of Oswald, the Warren Commission, declining institutional trust, disputed evidence, and the failure of major JFK conspiracy candidates.
 - [The Causes & Treatments for Autism | Dr. Karen Parker](sources/the-causes-treatments-for-autism-dr-karen-parker-scim5460291325.md) — Huberman Lab interview on autism heterogeneity, dimension-specific biomarkers, oxytocin evidence, vasopressin translation, model validity, screening access, and treatment uncertainty.
 - [399. The Savage Storm: World War II and The Battle for Italy](sources/399-the-savage-storm-world-war-ii-and-the-battle-for-italy-glt8130436942.md) — The Rest Is History interview with James Holland on the 1943 Italian campaign's limited strategic gains, resource constraints, difficult terrain, civilian destruction, and failed promise of rapid advance.
 - [398. JFK: The Mystery is Solved (Part 7)](sources/398-jfk-the-mystery-is-solved-part-7-glt6409828878.md) — The Rest Is History finale arguing from Oswald's biography, opportunity, physical evidence, flight, and later conduct for a lone-gunman conclusion while examining conspiracy appeal.
@@ -2955,6 +2956,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lee Harvey Oswald](entities/LeeHarveyOswald.md) — Former Marine and Soviet defector whom the episode identifies as Kennedy's killer through a cumulative biographical and evidentiary case.
 - [Assassination of John F. Kennedy](entities/KennedyAssassination.md) — 1963 Dallas killing presented through lone-gunman evidence, ballistic objections, and a durable conspiracy afterlife.
 - [Warren Commission](entities/WarrenCommission.md) — Official inquiry whose broad conclusion that Oswald acted alone is defended but not exhaustively audited by the episode.
+- [Jack Ruby](entities/JackRuby.md) — Dallas nightclub operator whose killing of Oswald eliminated a trial and created the enduring appearance that the accused assassin had been silenced.
+- [House Select Committee on Assassinations](entities/HouseSelectCommitteeOnAssassinations.md) — Later congressional inquiry whose disputed acoustic finding gave qualified official standing to a possible JFK conspiracy.
 - [Karen Parker](entities/KarenParker.md) — Social neuroscientist connecting comparative models, autism-relevant biomarkers, neuropeptides, and cautiously bounded clinical translation.
 - [James Holland](entities/JamesHolland.md) — Historian joining strategy, logistics, diaries, letters, and civilian experience in his account of the 1943 Italian campaign.
 - [Italian Campaign of 1943](entities/ItalianCampaign1943.md) — Allied mainland campaign that achieved Italian exit, German diversion, ports, and Foggia but became a constrained attritional advance.
@@ -20573,6 +20576,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Laughter Against Authority](concepts/LaughterAgainstAuthority.md) — Literary idea that comedy and grotesque images can weaken fear-based power by making authority appear contingent or absurd.
 - [Anti-Detective Fiction](concepts/AntiDetectiveFiction.md) — Detective fiction that uses clues and solution while undercutting the fantasy of clean rational closure.
 - [Conspiracy Theory Pattern Seeking](concepts/ConspiracyTheoryPatternSeeking.md) — Overinterpretive habit of preferring hidden, complex, totalizing explanations because they feel meaningful and superior.
+- [Official Inquiry Trust Repair](concepts/OfficialInquiryTrustRepair.md) — Use of a public authoritative investigation to stabilize contested facts and legitimacy after shock, rumor, propaganda, or procedural failure.
 - [Rational Humility](concepts/RationalHumility.md) — Reasoning discipline that keeps conjecture open to evidence, correction, and rival explanations.
 - [Political Show Trial](concepts/PoliticalShowTrial.md) — Proceeding where producing a public, politically useful result matters more than truth-finding.
 - [Everyday Autobiographical Comics](concepts/EverydayAutobiographicalComics.md) — Diary-like illustrated life-writing where ordinary rooms, meals, jobs, travel, family, and small embarrassments become reader recognition.

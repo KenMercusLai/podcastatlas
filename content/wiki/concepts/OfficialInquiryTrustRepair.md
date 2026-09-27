@@ -1,0 +1,61 @@
+---
+title: "Official Inquiry Trust Repair"
+type: concept
+tags: [governance, investigation, legitimacy, public-trust, evidence]
+sources:
+  - 397-jfk-a-conspiracy-unmasked-part-6-glt4318220159
+last_updated: 2026-09-27
+knowledge_schema: synthesis-v1
+---
+
+# Official Inquiry Trust Repair
+
+## Definition
+
+Official inquiry trust repair is the use of a public, authoritative investigation to stabilize a contested account after a shocking event has produced rumor, propaganda, procedural failure, or suspicion of state involvement.
+
+## Current Synthesis
+
+The Kennedy case shows why an inquiry's factual and legitimacy functions cannot be separated. Ruby's killing of Oswald removed the trial that might have publicly tested the evidence, while Soviet propaganda and domestic rumor threatened to turn uncertainty into political destabilization. Johnson's answer was an elite bipartisan commission with documentary scale and judicial prestige.
+
+Yet authority works only when audiences trust the people and procedures carrying it. The episode frames 1963 as a transitional moment when a commission of eminent figures could still command deference, then shows Vietnam, Watergate, visual ambiguity, investigative omissions, and a later congressional qualification weakening that settlement. A report can therefore repair trust only provisionally: transparency, adversarial testing, technical robustness, and later correction matter more than prominence alone.
+
+## Key Claims
+
+- An inquiry may be created to manage public legitimacy as well as to determine facts.
+- The loss of an ordinary trial increases pressure on an official commission to make evidence publicly intelligible.
+- Bipartisan prestige and documentary scale can support trust, but they do not substitute for transparent procedure or durable evidence.
+- Foreign propaganda and domestic rumor can make speed and public communication part of investigative design.
+- Later technical error or official qualification can reopen doubt far beyond the narrow finding involved.
+- Trust repair is historically contingent because later institutional failures change how audiences read earlier authority.
+
+## Evidence
+
+### Commission creation and authority
+
+- [[397-jfk-a-conspiracy-unmasked-part-6-glt4318220159]] connects Ruby's killing of Oswald, Hoover's desire for a public process, Soviet claims, and Johnson's appointment of an eminent bipartisan commission.
+
+### Documentary settlement
+
+- [[397-jfk-a-conspiracy-unmasked-part-6-glt4318220159]] describes an extensive report, testimony volumes, documents, and witnesses supporting the commission's lone-gunman conclusion.
+
+### Trust erosion and official reopening
+
+- [[397-jfk-a-conspiracy-unmasked-part-6-glt4318220159]] links Vietnam and Watergate to declining institutional confidence and shows the [[HouseSelectCommitteeOnAssassinations|House Select Committee on Assassinations]] giving qualified official status to a later-disputed acoustic theory.
+
+## Counterevidence & Qualifications
+
+Public distrust is not proof that an inquiry failed factually, and official prestige is not proof that it succeeded. Real conspiracies and institutional self-protection make independent scrutiny necessary. This concept is derived from one source's account of one commission; it does not establish a universal inquiry design or independently audit the Warren Commission and later committee records.
+
+## What Changed
+
+- Established the distinction between an inquiry's truth-finding and legitimacy-repair functions.
+- Added later institutional trust and technical robustness as conditions of durable settlement.
+
+## Related Concepts
+
+- [[ConspiracyTheoryPatternSeeking]] - explains how unresolved gaps and declining trust can become a hidden-order story.
+- [[ObservationBeforeInference]] - requires the inquiry to separate established evidence from causal interpretation.
+- [[EvidenceBoundHistoricalRevision]] - permits later correction without treating every anomaly as proof of total fabrication.
+- [[ProfessionalCommunityTrust]] - describes reliance on expert methods that most citizens cannot personally reproduce.
+- [[PublicArgumentForBystanders]] - explains why a public evidentiary record matters beyond committed partisans.

@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-27] ingest | 397. JFK: A Conspiracy Unmasked (Part 6)
+
+Added source `397-jfk-a-conspiracy-unmasked-part-6-glt4318220159`; created `JackRuby`, `HouseSelectCommitteeOnAssassinations`, and `OfficialInquiryTrustRepair`; and updated `JohnFKennedy`, `LeeHarveyOswald`, `KennedyAssassination`, `WarrenCommission`, `ConspiracyTheoryPatternSeeking`, and the canonical index from their complete bounded source sets. Core synthesis: Ruby's killing of Oswald removed the ordinary trial that might have tested the case publicly, the Warren Commission combined truth-finding with trust repair, and later institutional distrust, ambiguous media, qualified official reopening, and popular storytelling kept conspiracy interpretation alive even though the hosts find no major proposed conspirator evidentially persuasive. No settled contradiction with Part 7 was found: Part 6 clears alternatives and explains durable doubt, while Part 7 supplies the positive cumulative Oswald case. Ballistic, acoustic, motive, institutional, and historical-counterfactual claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-27] ingest | 398. JFK: The Mystery is Solved (Part 7)
 
 Added source `398-jfk-the-mystery-is-solved-part-7-glt6409828878`; created `JohnFKennedy`, `LeeHarveyOswald`, `KennedyAssassination`, and `WarrenCommission`; and updated `OccamsRazor`, `ConspiracyTheoryPatternSeeking`, and the canonical index from their complete bounded source sets. Core synthesis: the episode prefers a cumulative lone-gunman case built from Oswald's biography, prior violence, workplace opportunity, rifle evidence, flight, Tippit's killing, and interrogation lies, while explaining conspiracy appeal through national trauma, causal proportionality, and secret-knowledge reward. No settled contradiction found. Psychological motive, shooting mechanics, CIA motive, investigative completeness, and broad claims about conspiracy politics remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -23412,6 +23416,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-27] ingest | The Causes & Treatments for Autism | Dr. Karen Parker
 
 Added source `the-causes-treatments-for-autism-dr-karen-parker-scim5460291325`; created `KarenParker`, `AutismBiologicalHeterogeneity`, and `VasopressinSocialFunction`; and updated `ContextDependentSocialHormoneEffects` and the canonical index from the complete bounded source set. Core synthesis: autism's shared behavioral diagnosis can contain distinct biological and functional dimensions, so biomarkers, models, outcomes, and treatments should be evaluated by subgroup and mechanism; Parker's vasopressin chain is promising but remains preliminary because CSF association is not causality and the treatment trial was small, included nonresponders, and required replication. No settled contradiction found. Negative broad oxytocin and vasopressin-antagonist trials constrain simple neuropeptide narratives, vaccine causation is rejected, and immune-subgroup, infant-biomarker, mechanism, safety, and treatment claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-27] lint | Wiki health check
 

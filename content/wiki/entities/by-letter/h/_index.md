@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 10963
+wiki_total_pages: 10965
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -719,6 +719,9 @@ wiki_pages:
   - key: "HouseOfTheDragon"
     title: "House of the Dragon"
     url: "/wiki/entities/houseofthedragon/"
+  - key: "HouseSelectCommitteeOnAssassinations"
+    title: "House Select Committee on Assassinations"
+    url: "/wiki/entities/houseselectcommitteeonassassinations/"
   - key: "HoustonDynamo"
     title: "Houston Dynamo"
     url: "/wiki/entities/houstondynamo/"

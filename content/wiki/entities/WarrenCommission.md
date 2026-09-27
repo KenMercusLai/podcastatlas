@@ -4,6 +4,7 @@ type: entity
 tags: [organization, investigation, united-states, assassination, evidence]
 sources:
   - 398-jfk-the-mystery-is-solved-part-7-glt6409828878
+  - 397-jfk-a-conspiracy-unmasked-part-6-glt4318220159
 last_updated: 2026-09-27
 knowledge_schema: synthesis-v1
 ---
@@ -16,9 +17,9 @@ The Warren Commission was the official inquiry into the assassination of [[JohnF
 
 ## Current Profile
 
-The episode presents the commission's broad conclusion as more persuasive than conspiracy alternatives, largely because Oswald's biography, access, rifle, conduct, and violence form a cumulative evidentiary case. It uses that conclusion as the institutional baseline while separately addressing firing-speed and single-bullet objections.
+The episodes present the commission as both an investigation and an attempted public settlement after [[JackRuby|Jack Ruby]] killed Oswald. Johnson appointed Chief Justice Earl Warren and prominent figures from both parties amid domestic rumor, Soviet propaganda, and FBI concern that its prior knowledge of Oswald might become an institutional embarrassment. The report's large documentary record concluded that Oswald and Ruby each acted alone and were unconnected, while leaving Oswald's precise motive unresolved.
 
-The source does not provide a procedural history of the commission, audit the complete report, or establish that every individual finding is beyond dispute. Its endorsement is therefore broad and comparative: the hosts believe the Oswald explanation carries more evidentiary weight and requires fewer unsupported hidden actors.
+The finale presents that broad lone-gunman conclusion as more persuasive than conspiracy alternatives, largely because Oswald's biography, access, rifle, conduct, and violence form a cumulative evidentiary case. Neither source audits the complete report or establishes that every subsidiary finding is beyond dispute. Their endorsement is therefore broad and comparative: the Oswald explanation carries more evidentiary weight and requires fewer unsupported hidden actors.
 
 ## Key Characteristics
 
@@ -26,13 +27,23 @@ The source does not provide a procedural history of the commission, audit the co
 - Inquiry concluding that Oswald acted alone.
 - Institutional baseline for the episode's evidence comparison.
 - Frequent target of later assassination-conspiracy objections.
-- Report endorsed broadly rather than examined finding by finding in this source.
+- Trust-repair institution built around bipartisan prestige and a large public record.
+- Report endorsed broadly rather than examined finding by finding in these sources.
 
 ## Evidence
 
 ### Lone-gunman conclusion
 
 - [[398-jfk-the-mystery-is-solved-part-7-glt6409828878]] states that the commission found Oswald acted alone, did not know Jack Ruby, and was not part of a conspiracy.
+- [[397-jfk-a-conspiracy-unmasked-part-6-glt4318220159]] adds that the commission concluded Ruby also acted alone and that Oswald's precise motive could not be established.
+
+### Creation and public purpose
+
+- [[397-jfk-a-conspiracy-unmasked-part-6-glt4318220159]] connects Ruby's killing, Eugene Rostow's recommendation, Hoover's desire to convince the public, Soviet propaganda, Johnson's pressure on Richard Russell, and FBI embarrassment to the commission's formation.
+
+### Documentary scale and later qualification
+
+- [[397-jfk-a-conspiracy-unmasked-part-6-glt4318220159]] describes the report, testimony volumes, documents, and witnesses, then shows the later [[HouseSelectCommitteeOnAssassinations|House committee]] praising much of the work while introducing a disputed acoustic basis for conspiracy.
 
 ### Episode's support for the conclusion
 
@@ -44,13 +55,13 @@ The source does not provide a procedural history of the commission, audit the co
 
 ## Qualifications
 
-This page describes the commission only through one retrospective podcast episode. It does not cover membership, hearings, documentary procedures, institutional constraints, dissent, later investigations, or the full forensic record. Agreement with the commission's broad conclusion should not be read as validation of every subsidiary finding or investigative choice.
+This page describes the commission through two retrospective podcast episodes. They provide selected membership, scale, institutional motive, conclusions, and later-investigation context, but not a complete account of hearings, documentary procedures, institutional constraints, dissent, or the forensic record. Agreement with the broad conclusion should not be read as validation of every subsidiary finding or investigative choice, and the commission's legitimacy purpose does not by itself prove either truth or cover-up.
 
 ## What Changed
 
-- Added the official-inquiry node needed to distinguish institutional findings from the episode's own argument.
-- Bounded the endorsement to the commission's broad lone-gunman conclusion.
-- Made explicit that the source does not audit the complete report.
+- Added the commission's formation, membership logic, documentary scale, and public trust-repair purpose.
+- Added Ruby's separate lone-actor finding and the unresolved-motive boundary.
+- Added the later House inquiry as a qualified rather than total official reversal.
 
 ## Relationships
 
@@ -59,3 +70,6 @@ This page describes the commission only through one retrospective podcast episod
 - [[KennedyAssassination]] - event examined by the commission.
 - [[OccamsRazor]] - comparative principle used by the episode to defend the broad conclusion.
 - [[ConspiracyTheoryPatternSeeking]] - reasoning failure mode associated with some later alternatives.
+- [[JackRuby]] - Oswald's killer, whose act helped trigger the demand for a presidential commission.
+- [[HouseSelectCommitteeOnAssassinations]] - later congressional inquiry that praised and qualified the commission.
+- [[OfficialInquiryTrustRepair]] - framework for the commission's public-legitimacy function.

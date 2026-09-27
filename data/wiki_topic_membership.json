@@ -53349,6 +53349,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "OfficialInquiryTrustRepair": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "OfficialLearningMonopoly": [
     {
       "key": "culture",

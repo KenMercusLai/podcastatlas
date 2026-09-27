@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 8354
+wiki_total_pages: 8355
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -119,6 +119,9 @@ wiki_pages:
   - key: "OfficialHistoryLegitimacyRepair"
     title: "Official History Legitimacy Repair"
     url: "/wiki/concepts/officialhistorylegitimacyrepair/"
+  - key: "OfficialInquiryTrustRepair"
+    title: "Official Inquiry Trust Repair"
+    url: "/wiki/concepts/officialinquirytrustrepair/"
   - key: "OfficialSportsTicketResale"
     title: "Official Sports Ticket Resale"
     url: "/wiki/concepts/officialsportsticketresale/"

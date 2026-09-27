@@ -30020,9 +30020,9 @@
       "url": "/wiki/concepts/consortiogroupfinancing/"
     },
     "ConspiracyTheoryPatternSeeking": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 3,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "271.唐朝都要不存在了？为什么伪史论会在今年大爆发？ [lg7_wdrDW1B9h7LwA4VWKvMyb4Un].md",
@@ -30072,6 +30072,13 @@
           "show": "The Rest Is History",
           "title": "398. JFK: The Mystery is Solved (Part 7)",
           "url": "/wiki/sources/398-jfk-the-mystery-is-solved-part-7-glt6409828878/"
+        },
+        {
+          "episode_file": "GLT4318220159 [GLT4318220159].md",
+          "key": "397-jfk-a-conspiracy-unmasked-part-6-glt4318220159",
+          "show": "The Rest Is History",
+          "title": "397. JFK: A Conspiracy Unmasked (Part 6)",
+          "url": "/wiki/sources/397-jfk-a-conspiracy-unmasked-part-6-glt4318220159/"
         }
       ],
       "updated": "2026-09-27",
@@ -68747,6 +68754,22 @@
       "updated": "2026-09-25",
       "url": "/wiki/entities/houseofthedragon/"
     },
+    "HouseSelectCommitteeOnAssassinations": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4318220159 [GLT4318220159].md",
+          "key": "397-jfk-a-conspiracy-unmasked-part-6-glt4318220159",
+          "show": "The Rest Is History",
+          "title": "397. JFK: A Conspiracy Unmasked (Part 6)",
+          "url": "/wiki/sources/397-jfk-a-conspiracy-unmasked-part-6-glt4318220159/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/houseselectcommitteeonassassinations/"
+    },
     "HouseholdFinancialRedundancy": {
       "episode_count": 1,
       "show_count": 1,
@@ -75861,6 +75884,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/jackmerridew/"
     },
+    "JackRuby": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4318220159 [GLT4318220159].md",
+          "key": "397-jfk-a-conspiracy-unmasked-part-6-glt4318220159",
+          "show": "The Rest Is History",
+          "title": "397. JFK: A Conspiracy Unmasked (Part 6)",
+          "url": "/wiki/sources/397-jfk-a-conspiracy-unmasked-part-6-glt4318220159/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/jackruby/"
+    },
     "JackieFisher": {
       "episode_count": 1,
       "show_count": 1,
@@ -78683,9 +78722,9 @@
       "url": "/wiki/entities/johndickie/"
     },
     "JohnFKennedy": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6409828878 [GLT6409828878].md",
@@ -78693,6 +78732,13 @@
           "show": "The Rest Is History",
           "title": "398. JFK: The Mystery is Solved (Part 7)",
           "url": "/wiki/sources/398-jfk-the-mystery-is-solved-part-7-glt6409828878/"
+        },
+        {
+          "episode_file": "GLT4318220159 [GLT4318220159].md",
+          "key": "397-jfk-a-conspiracy-unmasked-part-6-glt4318220159",
+          "show": "The Rest Is History",
+          "title": "397. JFK: A Conspiracy Unmasked (Part 6)",
+          "url": "/wiki/sources/397-jfk-a-conspiracy-unmasked-part-6-glt4318220159/"
         }
       ],
       "updated": "2026-09-27",
@@ -80509,9 +80555,9 @@
       "url": "/wiki/entities/kenjiyamamoto/"
     },
     "KennedyAssassination": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6409828878 [GLT6409828878].md",
@@ -80519,6 +80565,13 @@
           "show": "The Rest Is History",
           "title": "398. JFK: The Mystery is Solved (Part 7)",
           "url": "/wiki/sources/398-jfk-the-mystery-is-solved-part-7-glt6409828878/"
+        },
+        {
+          "episode_file": "GLT4318220159 [GLT4318220159].md",
+          "key": "397-jfk-a-conspiracy-unmasked-part-6-glt4318220159",
+          "show": "The Rest Is History",
+          "title": "397. JFK: A Conspiracy Unmasked (Part 6)",
+          "url": "/wiki/sources/397-jfk-a-conspiracy-unmasked-part-6-glt4318220159/"
         }
       ],
       "updated": "2026-09-27",
@@ -83822,9 +83875,9 @@
       "url": "/wiki/concepts/learningstylematchingboundary/"
     },
     "LeeHarveyOswald": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6409828878 [GLT6409828878].md",
@@ -83832,6 +83885,13 @@
           "show": "The Rest Is History",
           "title": "398. JFK: The Mystery is Solved (Part 7)",
           "url": "/wiki/sources/398-jfk-the-mystery-is-solved-part-7-glt6409828878/"
+        },
+        {
+          "episode_file": "GLT4318220159 [GLT4318220159].md",
+          "key": "397-jfk-a-conspiracy-unmasked-part-6-glt4318220159",
+          "show": "The Rest Is History",
+          "title": "397. JFK: A Conspiracy Unmasked (Part 6)",
+          "url": "/wiki/sources/397-jfk-a-conspiracy-unmasked-part-6-glt4318220159/"
         }
       ],
       "updated": "2026-09-27",
@@ -106870,6 +106930,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/concepts/officialhistorycontinuity/"
+    },
+    "OfficialInquiryTrustRepair": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4318220159 [GLT4318220159].md",
+          "key": "397-jfk-a-conspiracy-unmasked-part-6-glt4318220159",
+          "show": "The Rest Is History",
+          "title": "397. JFK: A Conspiracy Unmasked (Part 6)",
+          "url": "/wiki/sources/397-jfk-a-conspiracy-unmasked-part-6-glt4318220159/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/officialinquirytrustrepair/"
     },
     "OfficialMourningDutyConflict": {
       "episode_count": 2,
@@ -153296,9 +153372,9 @@
       "url": "/wiki/entities/warofthegoldenstool/"
     },
     "WarrenCommission": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6409828878 [GLT6409828878].md",
@@ -153306,6 +153382,13 @@
           "show": "The Rest Is History",
           "title": "398. JFK: The Mystery is Solved (Part 7)",
           "url": "/wiki/sources/398-jfk-the-mystery-is-solved-part-7-glt6409828878/"
+        },
+        {
+          "episode_file": "GLT4318220159 [GLT4318220159].md",
+          "key": "397-jfk-a-conspiracy-unmasked-part-6-glt4318220159",
+          "show": "The Rest Is History",
+          "title": "397. JFK: A Conspiracy Unmasked (Part 6)",
+          "url": "/wiki/sources/397-jfk-a-conspiracy-unmasked-part-6-glt4318220159/"
         }
       ],
       "updated": "2026-09-27",
