@@ -34587,6 +34587,29 @@
       "updated": "2026-09-14",
       "url": "/wiki/entities/dacherkeltner/"
     },
+    "Dafeixin": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "93.聊聊头发：秃了，就会变强吗？ [718794489].md",
+          "key": "93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489",
+          "show": "蜜獾吃书",
+          "title": "93.聊聊头发：秃了，就会变强吗？",
+          "url": "/wiki/sources/93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489/"
+        },
+        {
+          "episode_file": "li5aqx1zUgvOBFUiFX7hkhYVeVOx [li5aqx1zUgvOBFUiFX7hkhYVeVOx].md",
+          "key": "vol-80-zhengxingke-tutou-jiemei-buyao-huang-zijiu-ganhuo-bang-ni-mang-li5aqx1zugvobfuifx7hkhyvevox",
+          "show": "这病说来话长",
+          "title": "VOL.80整形科｜秃头姐妹不要慌 自救干货帮你忙",
+          "url": "/wiki/sources/vol-80-zhengxingke-tutou-jiemei-buyao-huang-zijiu-ganhuo-bang-ni-mang-li5aqx1zugvobfuifx7hkhyvevox/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/dafeixin/"
+    },
     "Dahomey": {
       "episode_count": 1,
       "show_count": 1,
@@ -65767,6 +65790,52 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/hairaspoliticalidentity/"
     },
+    "HairLossDiagnosticTriage": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "li5aqx1zUgvOBFUiFX7hkhYVeVOx [li5aqx1zUgvOBFUiFX7hkhYVeVOx].md",
+          "key": "vol-80-zhengxingke-tutou-jiemei-buyao-huang-zijiu-ganhuo-bang-ni-mang-li5aqx1zugvobfuifx7hkhyvevox",
+          "show": "这病说来话长",
+          "title": "VOL.80整形科｜秃头姐妹不要慌 自救干货帮你忙",
+          "url": "/wiki/sources/vol-80-zhengxingke-tutou-jiemei-buyao-huang-zijiu-ganhuo-bang-ni-mang-li5aqx1zugvobfuifx7hkhyvevox/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/hairlossdiagnostictriage/"
+    },
+    "HairLossFollicleCycle": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "美妆巨头集体盯上头发，洗护生意为何又热起来？ [1005860109].md",
+          "key": "meizhuang-jutou-jiti-dingshang-toufa-xihu-shengyi-weihe-you-re-qilai-1005860109",
+          "show": "声动早咖啡",
+          "title": "美妆巨头集体盯上头发，洗护生意为何又热起来？",
+          "url": "/wiki/sources/meizhuang-jutou-jiti-dingshang-toufa-xihu-shengyi-weihe-you-re-qilai-1005860109/"
+        },
+        {
+          "episode_file": "93.聊聊头发：秃了，就会变强吗？ [718794489].md",
+          "key": "93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489",
+          "show": "蜜獾吃书",
+          "title": "93.聊聊头发：秃了，就会变强吗？",
+          "url": "/wiki/sources/93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489/"
+        },
+        {
+          "episode_file": "li5aqx1zUgvOBFUiFX7hkhYVeVOx [li5aqx1zUgvOBFUiFX7hkhYVeVOx].md",
+          "key": "vol-80-zhengxingke-tutou-jiemei-buyao-huang-zijiu-ganhuo-bang-ni-mang-li5aqx1zugvobfuifx7hkhyvevox",
+          "show": "这病说来话长",
+          "title": "VOL.80整形科｜秃头姐妹不要慌 自救干货帮你忙",
+          "url": "/wiki/sources/vol-80-zhengxingke-tutou-jiemei-buyao-huang-zijiu-ganhuo-bang-ni-mang-li5aqx1zugvobfuifx7hkhyvevox/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/hairlossfolliclecycle/"
+    },
     "HaitianFlavoring": {
       "episode_count": 1,
       "show_count": 1,
@@ -96546,9 +96615,9 @@
       "url": "/wiki/entities/lulongroadlatehan/"
     },
     "LuluPlasticSurgeon": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lkSoHygMb6epma5qgaF76pdDx2fK [lkSoHygMb6epma5qgaF76pdDx2fK].md",
@@ -96563,9 +96632,16 @@
           "show": "这病说来话长",
           "title": "VOL.137医美水太深！整形医生分享小白都听得懂的避坑指南",
           "url": "/wiki/sources/vol-137-yimei-shui-taishen-zhengxing-yisheng-fenxiang-xiaobai-dou-tingdedong-de-bikeng-zhinan-lqogn2-ueebzhwv0g1-ns9yqgv5/"
+        },
+        {
+          "episode_file": "li5aqx1zUgvOBFUiFX7hkhYVeVOx [li5aqx1zUgvOBFUiFX7hkhYVeVOx].md",
+          "key": "vol-80-zhengxingke-tutou-jiemei-buyao-huang-zijiu-ganhuo-bang-ni-mang-li5aqx1zugvobfuifx7hkhyvevox",
+          "show": "这病说来话长",
+          "title": "VOL.80整形科｜秃头姐妹不要慌 自救干货帮你忙",
+          "url": "/wiki/sources/vol-80-zhengxingke-tutou-jiemei-buyao-huang-zijiu-ganhuo-bang-ni-mang-li5aqx1zugvobfuifx7hkhyvevox/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-27",
       "url": "/wiki/entities/luluplasticsurgeon/"
     },
     "LumbarDiscHerniation": {
@@ -104169,6 +104245,29 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/minoancivilization/"
+    },
+    "Minoxidil": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "93.聊聊头发：秃了，就会变强吗？ [718794489].md",
+          "key": "93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489",
+          "show": "蜜獾吃书",
+          "title": "93.聊聊头发：秃了，就会变强吗？",
+          "url": "/wiki/sources/93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489/"
+        },
+        {
+          "episode_file": "li5aqx1zUgvOBFUiFX7hkhYVeVOx [li5aqx1zUgvOBFUiFX7hkhYVeVOx].md",
+          "key": "vol-80-zhengxingke-tutou-jiemei-buyao-huang-zijiu-ganhuo-bang-ni-mang-li5aqx1zugvobfuifx7hkhyvevox",
+          "show": "这病说来话长",
+          "title": "VOL.80整形科｜秃头姐妹不要慌 自救干货帮你忙",
+          "url": "/wiki/sources/vol-80-zhengxingke-tutou-jiemei-buyao-huang-zijiu-ganhuo-bang-ni-mang-li5aqx1zugvobfuifx7hkhyvevox/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/minoxidil/"
     },
     "MissedDiagnosisRisk": {
       "episode_count": 1,

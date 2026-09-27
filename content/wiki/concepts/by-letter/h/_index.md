@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 8414
+wiki_total_pages: 8415
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -38,6 +38,9 @@ wiki_pages:
   - key: "HairLossFollicleCycle"
     title: "Hair Loss And Follicle Cycle"
     url: "/wiki/concepts/hairlossfolliclecycle/"
+  - key: "HairLossDiagnosticTriage"
+    title: "Hair Loss Diagnostic Triage / 脱发鉴别分诊"
+    url: "/wiki/concepts/hairlossdiagnostictriage/"
   - key: "HaircareSkincareization"
     title: "Haircare Skincare-ization / 护发护肤化"
     url: "/wiki/concepts/haircareskincareization/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.80整形科｜秃头姐妹不要慌 自救干货帮你忙](sources/vol-80-zhengxingke-tutou-jiemei-buyao-huang-zijiu-ganhuo-bang-ni-mang-li5aqx1zugvobfuifx7hkhyvevox.md) — 这病说来话长 episode on women's hair-loss differential diagnosis, follicle cycles, minoxidil adherence and adverse effects, reproductive caution, and sponsor-linked product claims.
 - [381. Captain Cook: To the Ends of the Earth (Part 2)](sources/381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057.md) — The Rest Is History episode on Cook's Tahiti science mission, Tupia's translation, Māori and Aboriginal encounters, Pacific navigation, coercive first contact, mapping, and British territorial claims.
 - [VOL.81妇科｜通俗点说多囊卵巢、子宫内膜异位到子宫肌瘤到底是怎么回事？](sources/vol-81-fuke-tongsudian-shuo-duonangluanchao-zigongneimoyiweidao-zigongjiliu-daodi-shi-zenmehuishi-lq4attgiawxnqbczgl-ietatygyc.md) — 这病说来话长 episode on benign gynecological findings, PCOS ovulatory dysfunction, endometriosis recurrence, ovarian cysts, fibroid decisions, dysmenorrhea, and cervical terminology.
 - [382. Young Napoleon: Teenage Revolutionary (Part 1)](sources/382-young-napoleon-teenage-revolutionary-part-1-glt6500252244.md) — The Rest Is History episode on Napoleon's Corsican formation, outsider schooling, Paoli devotion, revolutionary dual loyalty, and emerging preference for disciplined authority.
@@ -14019,6 +14020,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Michael Eisenberg](entities/MichaelEisenberg.md) — Urologist and researcher framing male fertility and sexual function through objective testing, whole-body health, and treatment boundaries.
 
 ## Concepts
+- [Hair Loss Diagnostic Triage / 脱发鉴别分诊](concepts/HairLossDiagnosticTriage.md) — Pattern-, trigger-, examination-, and escalation-based framework for separating common causes of women's hair loss before treatment.
 - [First-Contact Non-Interference](concepts/FirstContactNonInterference.md) — Ethical aspiration destabilized when bodies, goods, disease, translation, incentives, and force enter an encounter.
 - [Scientific Exploration and Imperial Claim](concepts/ScientificExplorationImperialClaim.md) — Institutional pairing of astronomy, natural history, navigation, mapping, strategic rivalry, and territorial possession.
 - [Polynesian Navigation](concepts/PolynesianNavigation.md) — Indigenous seafaring knowledge enabling Pacific settlement and connection before European charting.
