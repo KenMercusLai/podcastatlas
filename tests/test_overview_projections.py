@@ -75,6 +75,20 @@ class OverviewSectionTest(unittest.TestCase):
         self.assertEqual("Current synthesis with a question mark? It remains synthesis.", sections.current_synthesis)
         self.assertEqual("- Question one?\n- Question two without punctuation", sections.open_questions)
 
+    def test_questions_page_excludes_updates_appended_after_question_list(self):
+        text = overview(["Existing history."], "Synthesis.", ["Question one?"])
+        misplaced = "The latest Road to 1066 addition is [[SourceB]], adding Beta."
+        sections = prepare.split_overview_sections(text + "\n" + misplaced + "\n")
+
+        page = prepare.open_questions_page(sections)
+        self.assertIn("- Question one?", page)
+        self.assertNotIn(misplaced, page)
+
+    def test_rejects_unclassified_prose_after_question_list(self):
+        text = overview(["Existing history."], "Synthesis.", ["Question one?"])
+        with self.assertRaisesRegex(ValueError, "Open Questions"):
+            prepare.split_overview_sections(text + "\nAn unrelated paragraph.\n")
+
     def test_rejects_missing_or_duplicate_structural_headings(self):
         valid = overview(["Update."], "Synthesis.", ["Question?"])
         with self.assertRaisesRegex(ValueError, "exactly one"):
@@ -84,6 +98,36 @@ class OverviewSectionTest(unittest.TestCase):
 
 
 class UpdateHistoryTest(unittest.TestCase):
+    def test_recovers_misplaced_updates_on_original_author_day_without_repeating_moves(self):
+        with tempfile.TemporaryDirectory() as temp_dir:
+            fixture = GitFixture(Path(temp_dir))
+            first = "The latest addition is [[SourceA]], adding Alpha."
+            second = "The latest Road to 1066 addition is [[SourceB]], adding Beta."
+            fixture.overview_path.write_text(overview(["Original history."], "Synthesis.", ["Question?"]), encoding="utf-8")
+            fixture.commit("baseline", "2026-09-10T09:00:00+10:00")
+            fixture.overview_path.write_text(
+                overview(["Original history."], "Synthesis.", ["Question?"]) + "\n" + first + "\n\n" + second + "\n",
+                encoding="utf-8",
+            )
+            misplaced_commit = fixture.commit("append updates after questions", "2026-09-11T17:50:57+10:00")
+
+            sections = prepare.split_overview_sections(fixture.overview_path.read_text(encoding="utf-8"))
+            page = prepare.open_questions_page(sections)
+            self.assertIn("- Question?", page)
+            self.assertNotIn("latest addition", page)
+            self.assertNotIn("latest Road", page)
+
+            history = prepare.collect_update_history(fixture.root)
+            self.assertEqual([first, second], [event.markdown for event in history["2026-09-11"]])
+            self.assertEqual([misplaced_commit] * 2, [event.commit for event in history["2026-09-11"]])
+
+            fixture.overview_path.write_text(
+                overview(["Original history.", first, second], "Synthesis.", ["Question?"]), encoding="utf-8"
+            )
+            fixture.commit("move back into history", "2026-09-12T09:00:00+10:00")
+            history = prepare.collect_update_history(fixture.root)
+            self.assertNotIn("2026-09-12", history)
+
     def test_groups_real_git_history_by_author_day_and_omits_days_without_updates(self):
         with tempfile.TemporaryDirectory() as temp_dir:
             fixture = GitFixture(Path(temp_dir))
