@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 8492
+wiki_total_pages: 8495
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1232,6 +1232,9 @@ wiki_pages:
   - key: "MotivationRewardEffortCalculation"
     title: "Motivation Reward-Effort Calculation"
     url: "/wiki/concepts/motivationrewardeffortcalculation/"
+  - key: "MotivationalVisualizationByState"
+    title: "Motivational Visualization by State"
+    url: "/wiki/concepts/motivationalvisualizationbystate/"
   - key: "MotiveBasedFalseAccusationDefense"
     title: "Motive-Based False-Accusation Defense / 动机反证式辩诬"
     url: "/wiki/concepts/motivebasedfalseaccusationdefense/"

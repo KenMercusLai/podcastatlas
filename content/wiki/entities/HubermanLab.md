@@ -54,7 +54,8 @@ sources:
   - ama-14-2023-philanthropy-evening-routine-light-therapy-health-metrics-more-scim2172700344
   - ama-12-thoughts-on-longevity-supplements-resveratrol-nr-nmn-etc-how-to-improve-memory-scim5764692205
   - how-to-increase-your-willpower-tenacity-scim7958949675
-last_updated: 2026-09-27
+  - goals-toolkit-how-to-set-achieve-your-goals-scim1532399364
+last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
 
@@ -128,6 +129,8 @@ AMA #12 adds a longevity-supplement branch centered on evidentiary separation. P
 
 The dedicated willpower episode connects [[EgoDepletionDebate]], [[AnteriorMidCingulateWillpower]], and [[AllostaticEffortAllocation]] to [[SlightlyHarderChoice]]. It presents limited-resource, glucose, belief, body-state, reward, and context accounts as interacting rather than settled alternatives, then bounds “micro-sucks” to safe constructive effort instead of food restriction, overtraining, or compulsive self-denial.
 
+The goals-toolkit episode consolidates the show's motivation, dopamine, attention, circadian, and self-control branches into [[GoalPursuitBehaviorDesign]]. It adds [[MotivationalVisualizationByState]] and [[VisualFocusEffortTool]], uses middle-stage chunking, and distinguishes bounded self-chosen milestone acknowledgment from externally engineered [[IntermittentReinforcement]] loops.
+
 ## Key Characteristics
 - Uses long-form guest interviews to connect science, health, behavior, relationships, technology, and practical decision-making.
 - Translates everyday concerns into mechanism-oriented questions while preserving clinical or evidentiary boundaries.
@@ -138,6 +141,7 @@ The dedicated willpower episode connects [[EgoDepletionDebate]], [[AnteriorMidCi
 - Uses solo Essentials, Q&A, and long-form guest framing to turn core mechanisms, sleep-wake timing, dopamine baseline and effort tools, discipline practices, movement practice, flexibility protocols, leadership frames, everyday health questions, meditation claims, learning-performance questions, nutrition hierarchies, relationship-science claims, stress appraisal and recovery, preventive-longevity tradeoffs, risk and agency tools, sugar-craving mechanisms, nine-adaptation fitness self-assessment, and serious psychiatric topics into cautiously bounded self-regulation or treatment-literacy toolkits.
 
 ## Evidence
+- Goal-pursuit toolkit: [[goals-toolkit-how-to-set-achieve-your-goals-scim1532399364]] organizes one-priority selection, action verbs, measurement, 12-week planning, motivation-state checks, visual focus, intermittent acknowledgment, and middle-stage chunking.
 - Longevity-supplement framing: [[ama-12-thoughts-on-longevity-supplements-resveratrol-nr-nmn-etc-how-to-improve-memory-scim5764692205]] separates personal supplement or infusion experience from demonstrated lifespan benefit and prioritizes behavioral foundations.
 - Premium AMA and research-funding model: [[ama-14-2023-philanthropy-evening-routine-light-therapy-health-metrics-more-scim2172700344]] links member support and donor matching to funded human research, then applies the show's mechanism-to-action style across light, fitness, sleep, self-tracking, screening, and strength.
 - Willpower and lived discipline: [[how-to-build-immense-inner-strength-david-goggins-scim6232468504]] has [[AndrewHuberman]] and Goggins connect repeated unwanted-but-constructive action, cognitive study, inner dialogue, relationship boundaries, earned confidence, and source-scoped anterior mid-cingulate claims.
@@ -225,12 +229,19 @@ AMA #12's supplement doses, grape-seed vascular claims, NR and NMN effects, NAD-
 
 The willpower episode's ego-depletion, glucose, anterior mid-cingulate, dieting, obesity, anorexia, aerobic-exercise, super-aging, stress-relief, cross-domain transfer, and “will to live” claims remain source-scoped. It does not establish individualized nutrition, eating-disorder, psychiatric, exercise, or self-control treatment. This addition brings the bounded profile to fifty-one episode notes.
 
+The goals-toolkit episode's one-priority rule, 12-week horizon, handwriting advantage, fixed-reminder account, public-announcement effect, visualization mechanisms, visual-focus durations, blood-pressure safety, random-reward protocol, and circadian peaks remain source-scoped. They are practical hypotheses rather than treatment for clinical or structural barriers to motivation. This addition brings the bounded profile to fifty-two episode notes.
+
 ## What Changed
+- Added the show's dedicated action-first goal-pursuit synthesis.
 - Added the solo willpower episode's psychology-to-neuroscience synthesis.
 - Added explicit eating-disorder, overcontrol, recovery, and glucose boundaries to the show's discipline branch.
 - Preserved the anterior mid-cingulate and cross-domain training claims as source-scoped public neuroscience.
 
 ## Relationships
+- [[GoalPursuitBehaviorDesign]] - action-first planning framework from the newest solo episode.
+- [[MotivationalVisualizationByState]] - state-matched pre-action imagery branch.
+- [[VisualFocusEffortTool]] - visual-attention and perceived-effort branch.
+- [[IntermittentReinforcement]] - concept qualified by a bounded self-directed milestone use.
 - [[EgoDepletionDebate]] - contested resource-and-belief branch reviewed by the show.
 - [[AnteriorMidCingulateWillpower]] - integrative neural hypothesis developed in the episode.
 - [[AllostaticEffortAllocation]] - context-sensitive effort and recovery frame.

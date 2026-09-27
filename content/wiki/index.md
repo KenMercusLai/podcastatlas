@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Goals Toolkit: How to Set & Achieve Your Goals](sources/goals-toolkit-how-to-set-achieve-your-goals-scim1532399364.md) — Huberman Lab solo episode on one-priority goal design, measurable actions, state-matched visualization, visual focus, intermittent self-reward, and middle-stage chunking.
 - [364. Sixties Fashion: Swinging London (Part 2)](sources/364-sixties-fashion-swinging-london-part-2-glt8438824218.md) — The Rest Is History episode on miniskirts, Swinging London, youth spending, boutique retail, gender politics, and the hippie fashion turn.
 - [How Risk Taking, Innovation & Artificial Intelligence Transform Human Experience | Marc Andreessen](sources/how-risk-taking-innovation-artificial-intelligence-transform-human-experience-marc-andreessen-scim7464698870.md) — Huberman Lab conversation on innovator traits, founder idea mazes, institutional resistance, defensive AI governance, nuclear-energy opportunity costs, and technology moral panics.
 - [VOL.71精神科｜关爱产后抑郁：产前一级预防 产后拒绝漠视 给予更多陪伴](sources/vol-71-jingshenke-guanai-chanhou-yiyu-chanqian-yiji-yufang-chanhou-jujue-moshi-jiyu-gengduo-peiban-loossm3a72jbbdj7tplmsidw4ovi.md) — 这病说来话长 episode on postpartum-depression recognition, antenatal prevention, practical family support, safety escalation, and pregnancy or lactation medication decisions.
@@ -3032,6 +3033,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.70精神科｜又失眠了？真的可治愈！三甲精神科医生给你睡眠支招](sources/vol-70-jingshenke-you-shimian-le-zhende-ke-zhiyu-sanjia-jingshenke-yisheng-gei-ni-shuimian-zhizhao-lkfpagwnhiqlhyyz71xwefocyhf0.md) — 这病说来话长 episode on insomnia recognition, sleep-anxiety feedback, clinical measurement, individualized treatment, and cause-directed sleep care.
 
 ## Entities
+- [Emily Balcetis](entities/EmilyBalcetis.md) — Researcher cited for work connecting visual targeting, perceived effort, and goal pursuit.
+- [Maya Shankar](entities/MayaShankar.md) — Researcher credited with the “middle problem” framing for motivation during goal pursuit.
 - [Jean Shrimpton](entities/JeanShrimpton.md) — British model whose 1965 Melbourne appearance became a global youth-fashion scandal.
 - [Twiggy](entities/Twiggy.md) — Working-class London model who became “the face of 66” and embodied the era's waif-like ideal.
 - [Mary Quant](entities/MaryQuant.md) — Designer-retailer associated with Bazaar, informal youth fashion, and the miniskirt.
@@ -5647,8 +5650,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Darcy (Raised Nutrition)](entities/DarcyRaisedNutrition.md) — Raised Nutrition founder-caller asking whether a niche athletic origin story limits broader wellness appeal.
 - [Cooks Who Feed](entities/CooksWhoFeed.md) — Social-enterprise kitchen-linen company advised to use low-risk B2B trials, referrals, and client-centered impact storytelling.
 - [Seema Sanghavi](entities/SeemaSanghavi.md) — Cooks Who Feed founder-caller focused on convincing B2B buyers to switch vendors.
-- [Huberman Lab](entities/HubermanLab.md) — Show context for health, neuroscience, psychology, sensory biology, endocrine metabolism, sleep-wake timing, exercise, nutrition, AI, relationships, and clinically bounded self-regulation tools.
-- [Andrew Huberman](entities/AndrewHuberman.md) — Host using interviews, solo Essentials episodes, and Q&A to connect biological, endocrine, and sensory mechanisms with adaptable routines, health decisions, and explicit safety boundaries.
+- [Huberman Lab](entities/HubermanLab.md) — Show context for health, neuroscience, psychology, goal pursuit, sensory biology, endocrine metabolism, sleep-wake timing, exercise, nutrition, AI, relationships, and bounded self-regulation tools.
+- [Andrew Huberman](entities/AndrewHuberman.md) — Host connecting biological, motivational, attentional, endocrine, and sensory mechanisms with adaptable routines, goal pursuit, health decisions, and explicit safety boundaries.
 - [Lisa Feldman Barrett](entities/LisaFeldmanBarrett.md) — Psychologist and neuroscientist explaining constructed emotion, affect, contextual face inference, granularity, and predictive bodily regulation.
 - [Abud Bakri](entities/AbudBakri.md) — Internal medicine physician and Huberman Lab guest explaining peptide evidence hierarchy, sourcing quality, clinical oversight, GLP-1 maturity, and experimental peptide caution.
 - [Andy Stumpf](entities/AndyStumpf.md) — Huberman Lab guest and Drownproof author connecting concern/influence sorting, small daily discipline, wingsuit risk, vulnerability, and defining enough.
@@ -14135,6 +14138,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The 120 Days of Sodom](entities/The120DaysOfSodom.md) — Sade's prison-written novel of sealed, scheduled, and escalating domination.
 
 ## Concepts
+- [Goal Pursuit Behavior Design](concepts/GoalPursuitBehaviorDesign.md) — Action-first framework joining one priority, concrete verbs, measurable practice, scheduling, and middle-stage chunking.
+- [Motivational Visualization by State](concepts/MotivationalVisualizationByState.md) — Proposed pre-action tool using positive or failure imagery according to current readiness.
+- [Visual Focus Effort Tool](concepts/VisualFocusEffortTool.md) — Proposed use of narrow task-relevant gaze for engagement, paired with panoramic visual recovery.
 - [Swinging London Fashion Myth](concepts/SwingingLondonFashionMyth.md) — Gap between London's real cultural influence and the iconic image's limited representativeness.
 - [Youth Fashion Commercialization Cycle](concepts/YouthFashionCommercializationCycle.md) — Movement from boutique novelty through media and mass retail to declining authenticity.
 - [Fashion Liberation-Exploitation Paradox](concepts/FashionLiberationExploitationParadox.md) — Tension between fashion freedom, consumer agency, infantilization, and restrictive body ideals.
@@ -16660,7 +16666,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Interpersonal Image Projection / 人际意象投射](concepts/InterpersonalImageProjection.md) — Pattern where another person is seen through memory, fear, desire, labels, and disowned parts of the self.
 - [Evolutionary Misrecognition / 进化式误认](concepts/EvolutionaryMisrecognition.md) — E46 synthesis that survival-oriented cognition helps organisms live while making direct seeing structurally difficult.
 - [Dopamine Wanting Loop / 多巴胺渴爱循环](concepts/DopamineWantingLoop.md) — Frame for dopamine-modulated wanting, anticipation, pursuit, learning, action, sugar reinforcement, and the separation between wanting and liking.
-- [Motivation Reward-Effort Calculation](concepts/MotivationRewardEffortCalculation.md) — Neuroscience frame for motivated action as expected reward weighed against effort, activation barriers, dopamine baseline/trough state, prior learning, and feedback.
+- [Motivation Reward-Effort Calculation](concepts/MotivationRewardEffortCalculation.md) — Motivation frame joining expected reward, perceived effort, activation barriers, dopamine state, meaning, attention, and task chunking.
 - [Apathy Action Initiation](concepts/ApathyActionInitiation.md) — Apathy frame where desire or enjoyment may remain while voluntary initiation fails without prompting.
 - [Dopamine Inverted U](concepts/DopamineInvertedU.md) — Performance-boundary claim that dopamine or stimulant boosts may help low or medium baselines but impair high baselines.
 - [Attention Capacity Selection](concepts/AttentionCapacitySelection.md) — Attention frame for limited-capacity selection among stimuli, goals, internal thoughts, working-memory load, and distraction.
@@ -21036,7 +21042,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Machine Zone](concepts/MachineZone.md) — Dissociated gambling-machine state where time, money, body signals, social obligation, and self-judgment are suspended.
 - [Private Actuarialism](concepts/PrivateActuarialism.md) — Modern pressure to treat life as personal risk, cost, return, and optimization management, making machine-gambling agency suspension attractive.
 - [Near-Miss Design](concepts/NearMissDesign.md) — Presentation of a losing outcome as almost a win, encouraging continued play without necessarily changing final odds.
-- [Intermittent Reinforcement](concepts/IntermittentReinforcement.md) — Variable reward pattern where uncertain payoff drives repeated behavior more strongly than predictable reward.
+- [Intermittent Reinforcement](concepts/IntermittentReinforcement.md) — Variable reward pattern whose effects depend on control, stakes, speed, consent, repetition, and exit cost.
 - [AI Assistant Augmentation](concepts/AIAssistantAugmentation.md) — Practical frame that treats AI as an assistant for tasks, learning, creativity, and decisions while humans retain intent, expertise, agency, and review.
 - [Ambient AI Interface](concepts/AmbientAIInterface.md) — Interface shift where AI moves beyond a standalone chatbot into devices, apps, services, microphones, and operating systems.
 - [Expertise-Amplified AI Use](concepts/ExpertiseAmplifiedAIUse.md) — Claim that experts may benefit most from AI because prior craft helps them ask, judge, correct, and turn model output into usable work.

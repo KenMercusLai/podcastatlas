@@ -22755,6 +22755,10 @@
     "title": "Emil Sinclair / 辛克莱尔",
     "url": "/wiki/entities/emilsinclair/"
   },
+  "EmilyBalcetis": {
+    "title": "Emily Balcetis",
+    "url": "/wiki/entities/emilybalcetis/"
+  },
   "EmilyBordner": {
     "title": "Emily Bordner",
     "url": "/wiki/entities/emilybordner/"
@@ -29102,6 +29106,10 @@
   "GoalManagementTraining": {
     "title": "Goal Management Training",
     "url": "/wiki/concepts/goalmanagementtraining/"
+  },
+  "GoalPursuitBehaviorDesign": {
+    "title": "Goal Pursuit Behavior Design",
+    "url": "/wiki/concepts/goalpursuitbehaviordesign/"
   },
   "GoalkeeperEmbodiedJudgment": {
     "title": "Goalkeeper Embodied Judgment / 门将身体化判断",
@@ -45731,6 +45739,10 @@
     "title": "Maya Active",
     "url": "/wiki/entities/mayaactive/"
   },
+  "MayaShankar": {
+    "title": "Maya Shankar",
+    "url": "/wiki/entities/mayashankar/"
+  },
   "MayaraFelix": {
     "title": "Mayara Felix",
     "url": "/wiki/entities/mayarafelix/"
@@ -48106,6 +48118,10 @@
   "MotivationRewardEffortCalculation": {
     "title": "Motivation Reward-Effort Calculation",
     "url": "/wiki/concepts/motivationrewardeffortcalculation/"
+  },
+  "MotivationalVisualizationByState": {
+    "title": "Motivational Visualization by State",
+    "url": "/wiki/concepts/motivationalvisualizationbystate/"
   },
   "MotiveBasedFalseAccusationDefense": {
     "title": "Motive-Based False-Accusation Defense / 动机反证式辩诬",
@@ -72235,6 +72251,10 @@
     "title": "Visual Brand System",
     "url": "/wiki/concepts/visualbrandsystem/"
   },
+  "VisualFocusEffortTool": {
+    "title": "Visual Focus Effort Tool",
+    "url": "/wiki/concepts/visualfocusefforttool/"
+  },
   "VisualRepresentationLiteracy": {
     "title": "Visual Representation Literacy / 视觉表征素养",
     "url": "/wiki/concepts/visualrepresentationliteracy/"
@@ -82534,6 +82554,10 @@
   "getting-entrepreneurial-in-korea-summer-school": {
     "title": "Getting entrepreneurial in Korea (Summer School)",
     "url": "/wiki/sources/getting-entrepreneurial-in-korea-summer-school/"
+  },
+  "goals-toolkit-how-to-set-achieve-your-goals-scim1532399364": {
+    "title": "Goals Toolkit: How to Set & Achieve Your Goals",
+    "url": "/wiki/sources/goals-toolkit-how-to-set-achieve-your-goals-scim1532399364/"
   },
   "google-de-ai-celve-bu-du-moxing-du-shenme-google-cloud-next-xianchang-s10e09-073d7ee7-7bac-4958-b45a-083cc2f866e6": {
     "title": "Google 的 AI 策略：不赌模型，赌什么？｜ Google Cloud Next 现场 S10E09",

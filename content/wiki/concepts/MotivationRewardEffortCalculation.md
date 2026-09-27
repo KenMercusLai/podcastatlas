@@ -6,8 +6,9 @@ sources:
   - how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656
   - leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288
   - master-self-control-overcome-procrastination-dr-kentaro-fujita-scim8156556751
+  - goals-toolkit-how-to-set-achieve-your-goals-scim1532399364
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-12
+last_updated: 2026-09-28
 ---
 
 # Motivation Reward-Effort Calculation
@@ -22,11 +23,13 @@ The current synthesis now pairs Husain's reward-effort account with Huberman's d
 
 The meaning-and-fit layer comes through [[KentaroFujita]] in [[master-self-control-overcome-procrastination-dr-kentaro-fujita-scim8156556751]]. Expected reward and effort are not only quantities; they can be reframed through higher-order "whys," intrinsic interest, regulatory fit, role models, competition or belonging, abstinence or moderation, and awareness of multiple goals.
 
+The goal-toolkit layer turns those mechanisms into session design. [[goals-toolkit-how-to-set-achieve-your-goals-scim1532399364]] separates desire for the outcome from willingness to do today's action, proposes state-matched visualization, uses visual targeting to alter perceived effort, and breaks low-motivation middle periods into smaller chunks. These additions reinforce the idea that reward and effort are perceived and context-sensitive rather than fixed properties of the task.
+
 ## Key Claims
 - Motivated behavior depends on whether a possible reward feels worth the required physical, cognitive, or social effort.
 - The same objective task can have different subjective "activation hills" for different people or situations.
 - Prior reward, failure, and reinforcement learning bias future willingness to initiate and persist.
-- Practical motivation design can lower effort, divide tasks, increase intermediate feedback, or make the reward more meaningful.
+- Practical motivation design can lower effort, divide tasks, increase intermediate feedback, change attentional state, or make the reward more meaningful.
 - Dopamine contributes to motivation-to-action, learning, vigor, planning, and goal switching, but the episode rejects a dopamine-only explanation.
 - Baseline dopamine and recent peak-trough history can change how costly effort feels before a task starts.
 - Rewarding effort itself and connecting action to meaning, identity, social belonging, regulatory fit, or intrinsic interest can change both the perceived reward and the perceived effort of a task.
@@ -39,13 +42,15 @@ The meaning-and-fit layer comes through [[KentaroFujita]] in [[master-self-contr
 - Baseline and trough effects - [[leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288]] links low motivation, procrastination, dopamine baseline, and trough recovery.
 - Process reward - [[leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288]] argues that attaching reward to effort can stabilize motivation across setbacks.
 - Meaning and fit - [[master-self-control-overcome-procrastination-dr-kentaro-fujita-scim8156556751]] says higher-order whys, intrinsic interest, regulatory fit, and social motives can change motivation for the same task.
+- Session-state design - [[goals-toolkit-how-to-set-achieve-your-goals-scim1532399364]] adds state-matched visualization, visual targeting, and middle-stage chunking as proposed ways to alter initiation and perceived effort.
 
 ## Counterevidence & Qualifications
-Husain's clinical case is rare and should not be generalized into a diagnosis for ordinary low motivation. Practical changes such as planning, reward reframing, task-splitting, effort reward, safe effort resets, psychological distance, or meaning work are plausible source-scoped tools, not universal treatment protocols for depression, ADHD, addiction, Parkinson's disease, dementia, or unsafe overexertion.
+Husain's clinical case is rare and should not be generalized into a diagnosis for ordinary low motivation. Practical changes such as planning, reward reframing, task-splitting, effort reward, safe effort resets, psychological distance, meaning work, motivational imagery, or visual targeting are plausible source-scoped tools, not universal treatment protocols for depression, ADHD, anxiety, trauma, addiction, Parkinson's disease, dementia, or unsafe overexertion.
 
 ## What Changed
 - Added Huberman's peak-trough, baseline, procrastination, and effort-as-reward layer while preserving Husain's broader reward-effort and dopamine-not-alone framing.
 - Added Fujita's meaning, regulatory-fit, intrinsic-interest, and multiple-goal layer.
+- Added session-state diagnosis, visualization, gaze, and middle-stage chunking without treating their proposed mechanisms as settled.
 
 ## Related Concepts
 - [[ApathyActionInitiation]] - clinical failure mode where reward-effort signals do not reliably start voluntary action.
@@ -58,3 +63,6 @@ Husain's clinical case is rare and should not be generalized into a diagnosis fo
 - [[PsychologicalDistanceSelfControl]] - distance strategy that makes higher-order reward more salient.
 - [[DopamineInvertedU]] - qualification that more dopamine or stimulant drive is not linearly better.
 - [[AttentionCapacitySelection]] - attentional gate that helps decide which task or thought receives control.
+- [[GoalPursuitBehaviorDesign]] - converts valuation principles into a measurable pursuit structure.
+- [[MotivationalVisualizationByState]] - proposed pre-action tool selected according to current motivation.
+- [[VisualFocusEffortTool]] - proposed sensory-attention lever for perceived effort and engagement.

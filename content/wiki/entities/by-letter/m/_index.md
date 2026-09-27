@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 11085
+wiki_total_pages: 11087
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -680,6 +680,9 @@ wiki_pages:
   - key: "MayaActive"
     title: "Maya Active"
     url: "/wiki/entities/mayaactive/"
+  - key: "MayaShankar"
+    title: "Maya Shankar"
+    url: "/wiki/entities/mayashankar/"
   - key: "MayaraFelix"
     title: "Mayara Felix"
     url: "/wiki/entities/mayarafelix/"

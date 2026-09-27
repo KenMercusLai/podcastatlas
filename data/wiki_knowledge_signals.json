@@ -9063,9 +9063,9 @@
       "url": "/wiki/entities/andrewbogle/"
     },
     "AndrewHuberman": {
-      "episode_count": 51,
+      "episode_count": 52,
       "show_count": 1,
-      "source_note_count": 51,
+      "source_note_count": 52,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -9423,9 +9423,16 @@
           "show": "Huberman Lab",
           "title": "How to Increase Your Willpower & Tenacity",
           "url": "/wiki/sources/how-to-increase-your-willpower-tenacity-scim7958949675/"
+        },
+        {
+          "episode_file": "SCIM1532399364 [SCIM1532399364].md",
+          "key": "goals-toolkit-how-to-set-achieve-your-goals-scim1532399364",
+          "show": "Huberman Lab",
+          "title": "Goals Toolkit: How to Set & Achieve Your Goals",
+          "url": "/wiki/sources/goals-toolkit-how-to-set-achieve-your-goals-scim1532399364/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/andrewhuberman/"
     },
     "AndrewLoogOldham": {
@@ -45866,6 +45873,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/emergentinnovationstrategy/"
     },
+    "EmilyBalcetis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1532399364 [SCIM1532399364].md",
+          "key": "goals-toolkit-how-to-set-achieve-your-goals-scim1532399364",
+          "show": "Huberman Lab",
+          "title": "Goals Toolkit: How to Set & Achieve Your Goals",
+          "url": "/wiki/sources/goals-toolkit-how-to-set-achieve-your-goals-scim1532399364/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/emilybalcetis/"
+    },
     "EmmaOfNormandy": {
       "episode_count": 2,
       "show_count": 1,
@@ -63757,6 +63780,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/goalmanagementtraining/"
     },
+    "GoalPursuitBehaviorDesign": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1532399364 [SCIM1532399364].md",
+          "key": "goals-toolkit-how-to-set-achieve-your-goals-scim1532399364",
+          "show": "Huberman Lab",
+          "title": "Goals Toolkit: How to Set & Achieve Your Goals",
+          "url": "/wiki/sources/goals-toolkit-how-to-set-achieve-your-goals-scim1532399364/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/goalpursuitbehaviordesign/"
+    },
     "GoalkeeperEmbodiedJudgment": {
       "episode_count": 1,
       "show_count": 1,
@@ -74672,9 +74711,9 @@
       "url": "/wiki/entities/hubeihumanoidinnovationcenter/"
     },
     "HubermanLab": {
-      "episode_count": 51,
+      "episode_count": 52,
       "show_count": 1,
-      "source_note_count": 51,
+      "source_note_count": 52,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -75032,9 +75071,16 @@
           "show": "Huberman Lab",
           "title": "How to Increase Your Willpower & Tenacity",
           "url": "/wiki/sources/how-to-increase-your-willpower-tenacity-scim7958949675/"
+        },
+        {
+          "episode_file": "SCIM1532399364 [SCIM1532399364].md",
+          "key": "goals-toolkit-how-to-set-achieve-your-goals-scim1532399364",
+          "show": "Huberman Lab",
+          "title": "Goals Toolkit: How to Set & Achieve Your Goals",
+          "url": "/wiki/sources/goals-toolkit-how-to-set-achieve-your-goals-scim1532399364/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/hubermanlab/"
     },
     "HubertHumphrey": {
@@ -79138,6 +79184,57 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/intermediaryroutegatekeeping/"
+    },
+    "IntermittentReinforcement": {
+      "episode_count": 6,
+      "show_count": 4,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "不爱直播带货的欧美消费者，为何在这家平台上大把花钱？ [1007104138].md",
+          "key": "buai-zhibo-daihuo-de-oumei-xiaofeizhe-weihe-zai-zhejia-pingtai-shang-daba-huaqian-1007104138",
+          "show": "声动早咖啡",
+          "title": "不爱直播带货的欧美消费者，为何在 Whatnot 上大把花钱？",
+          "url": "/wiki/sources/buai-zhibo-daihuo-de-oumei-xiaofeizhe-weihe-zai-zhejia-pingtai-shang-daba-huaqian-1007104138/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_bed70e2272dc975db8f7fd9cd8648f2e_27225097 [default.mp3_ywr3ahjkcgo_bed70e2272dc975db8f7fd9cd8648f2e_27225097].md",
+          "key": "what-makes-a-toy-go-viral",
+          "show": "Planet Money",
+          "title": "What makes a toy go viral",
+          "url": "/wiki/sources/what-makes-a-toy-go-viral/"
+        },
+        {
+          "episode_file": "84.冰路狂花：好姑娘，你只是忘了勇敢 [699443676].md",
+          "key": "84-binglu-kuanghua-hao-guniang-ni-zhishi-wangle-yonggan-699443676",
+          "show": "蜜獾吃书",
+          "title": "84.冰路狂花：好姑娘，你只是忘了勇敢",
+          "url": "/wiki/sources/84-binglu-kuanghua-hao-guniang-ni-zhishi-wangle-yonggan-699443676/"
+        },
+        {
+          "episode_file": "181.讨好并非你的性格，坚持这么久，辛苦了 [979027261].md",
+          "key": "181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261",
+          "show": "蜜獾吃书",
+          "title": "181.讨好并非你的性格，坚持这么久，辛苦了",
+          "url": "/wiki/sources/181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261/"
+        },
+        {
+          "episode_file": "44.运气的诱饵：赌博成瘾，因为我们害怕自由 [619995308].md",
+          "key": "44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308",
+          "show": "蜜獾吃书",
+          "title": "44.运气的诱饵：赌博成瘾，因为我们害怕自由",
+          "url": "/wiki/sources/44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308/"
+        },
+        {
+          "episode_file": "SCIM1532399364 [SCIM1532399364].md",
+          "key": "goals-toolkit-how-to-set-achieve-your-goals-scim1532399364",
+          "show": "Huberman Lab",
+          "title": "Goals Toolkit: How to Set & Achieve Your Goals",
+          "url": "/wiki/sources/goals-toolkit-how-to-set-achieve-your-goals-scim1532399364/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/intermittentreinforcement/"
     },
     "InternalAccountabilityLoop": {
       "episode_count": 1,
@@ -103073,6 +103170,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/mayaactive/"
     },
+    "MayaShankar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1532399364 [SCIM1532399364].md",
+          "key": "goals-toolkit-how-to-set-achieve-your-goals-scim1532399364",
+          "show": "Huberman Lab",
+          "title": "Goals Toolkit: How to Set & Achieve Your Goals",
+          "url": "/wiki/sources/goals-toolkit-how-to-set-achieve-your-goals-scim1532399364/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/mayashankar/"
+    },
     "MaybeYouShouldTalkToSomeone": {
       "episode_count": 1,
       "show_count": 1,
@@ -108004,9 +108117,9 @@
       "url": "/wiki/concepts/motivationcrowdingout/"
     },
     "MotivationRewardEffortCalculation": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM3386045656 [SCIM3386045656].md",
@@ -108028,10 +108141,33 @@
           "show": "Huberman Lab",
           "title": "Master Self Control & Overcome Procrastination | Dr. Kentaro Fujita",
           "url": "/wiki/sources/master-self-control-overcome-procrastination-dr-kentaro-fujita-scim8156556751/"
+        },
+        {
+          "episode_file": "SCIM1532399364 [SCIM1532399364].md",
+          "key": "goals-toolkit-how-to-set-achieve-your-goals-scim1532399364",
+          "show": "Huberman Lab",
+          "title": "Goals Toolkit: How to Set & Achieve Your Goals",
+          "url": "/wiki/sources/goals-toolkit-how-to-set-achieve-your-goals-scim1532399364/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/motivationrewardeffortcalculation/"
+    },
+    "MotivationalVisualizationByState": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1532399364 [SCIM1532399364].md",
+          "key": "goals-toolkit-how-to-set-achieve-your-goals-scim1532399364",
+          "show": "Huberman Lab",
+          "title": "Goals Toolkit: How to Set & Achieve Your Goals",
+          "url": "/wiki/sources/goals-toolkit-how-to-set-achieve-your-goals-scim1532399364/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/motivationalvisualizationbystate/"
     },
     "MotiveBasedFalseAccusationDefense": {
       "episode_count": 1,
@@ -158365,6 +158501,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/vishnupadmanabhan/"
+    },
+    "VisualFocusEffortTool": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1532399364 [SCIM1532399364].md",
+          "key": "goals-toolkit-how-to-set-achieve-your-goals-scim1532399364",
+          "show": "Huberman Lab",
+          "title": "Goals Toolkit: How to Set & Achieve Your Goals",
+          "url": "/wiki/sources/goals-toolkit-how-to-set-achieve-your-goals-scim1532399364/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/visualfocusefforttool/"
     },
     "VisualSystemHealthToolkit": {
       "episode_count": 1,

@@ -24020,3 +24020,11 @@ Added source `364-sixties-fashion-swinging-london-part-2-glt8438824218`; created
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | Goals Toolkit: How to Set & Achieve Your Goals
+
+Added source `goals-toolkit-how-to-set-achieve-your-goals-scim1532399364`; created `EmilyBalcetis`, `MayaShankar`, `GoalPursuitBehaviorDesign`, `MotivationalVisualizationByState`, and `VisualFocusEffortTool`; and updated `AndrewHuberman`, `HubermanLab`, `MotivationRewardEffortCalculation`, `IntermittentReinforcement`, and the canonical index from their complete bounded source sets. Core synthesis: effective goal pursuit converts one protected priority into specific actions, measurable practice, and adaptable session tools, while motivation state, visual attention, reward timing, middle-stage chunking, health, and real-life constraints shape execution. No settled contradiction is adopted. The source's bounded self-chosen milestone reward is distinguished from externally engineered gambling, commerce, and abuse loops; handwriting, visualization, visual-target, blood-pressure, circadian-timing, dopamine, and reward-schedule claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
