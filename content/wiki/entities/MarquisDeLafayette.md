@@ -9,6 +9,7 @@ sources:
   - 503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194
   - 481-the-french-revolution-the-womens-march-on-versailles-part-7-glt9783455254
   - 479-the-french-revolution-the-storming-of-the-bastille-part-5-glt5485693441
+  - 349-the-birth-of-the-united-states-part-3-glt9804967639
 last_updated: 2026-09-23
 knowledge_schema: synthesis-v1
 ---
@@ -21,11 +22,11 @@ The Marquis de Lafayette was a French aristocratic soldier whose American revolu
 
 ## Current Profile
 
-The sources present a sharp contrast between Lafayette's early symbolic capital and his later isolation. At 19 he entered the American cause, became close to Washington, and personalized the French connection before state alliance changed the war. After the [[StormingOfTheBastille|Bastille's fall]], he became commander of the new [[FrenchNationalGuard|National Guard]] and proposed joining Paris red and blue with Bourbon white in the tricolour cockade, making him an architect of provisional reconciliation between nation, city, and crown. During [[OctoberDays1789|the October Days]], his own Guardsmen compelled him to march to Versailles; he then used personal risk, royal appearances, the tricolour, and a public gesture toward [[MarieAntoinette|Marie Antoinette]] to avert immediate catastrophe. He later helped suppress the republican petition gathering in the [[ChampDeMarsMassacre|Champ de Mars massacre]], making him a defender of order to constitutional monarchists and a betrayer to radicals. In early 1792 he expected command in a limited Rhineland war to restore his prestige and strengthen constitutional monarchy. As commander of the Army of the Centre, he later sought a pause with Austria and returned to Paris to demand the closure of radical clubs and newspapers. He arrived without troops, failed to rally the National Guard, lacked royal support, and ultimately fled after his soldiers rejected his effort to restore the suspended monarchy.
+The sources present a sharp contrast between Lafayette's early symbolic capital and his later isolation. Inspired by praise of the American rebels, he entered their cause at 19, served without pay, accepted less rank than many foreign adventurers expected, became close to Washington, and personalized the French connection before state alliance changed the war. After the [[StormingOfTheBastille|Bastille's fall]], he became commander of the new [[FrenchNationalGuard|National Guard]] and proposed joining Paris red and blue with Bourbon white in the tricolour cockade, making him an architect of provisional reconciliation between nation, city, and crown. During [[OctoberDays1789|the October Days]], his own Guardsmen compelled him to march to Versailles; he then used personal risk, royal appearances, the tricolour, and a public gesture toward [[MarieAntoinette|Marie Antoinette]] to avert immediate catastrophe. He later helped suppress the republican petition gathering in the [[ChampDeMarsMassacre|Champ de Mars massacre]], making him a defender of order to constitutional monarchists and a betrayer to radicals. In early 1792 he expected command in a limited Rhineland war to restore his prestige and strengthen constitutional monarchy. As commander of the Army of the Centre, he later sought a pause with Austria and returned to Paris to demand the closure of radical clubs and newspapers. He arrived without troops, failed to rally the National Guard, lacked royal support, and ultimately fled after his soldiers rejected his effort to restore the suspended monarchy.
 
 ## Key Characteristics
 
-- Young French aristocratic volunteer in the American cause.
+- Young French aristocratic volunteer who served the American cause without pay and accepted limited initial status.
 - Close personal associate of Washington during the revolutionary war.
 - Human bridge between Washington's command circle and the wider French connection.
 - First commander of the revolutionary National Guard and promoter of the tricolour compromise after the Bastille's fall.
@@ -38,6 +39,7 @@ The sources present a sharp contrast between Lafayette's early symbolic capital 
 ### American revolutionary prestige
 
 - [[683-washington-hero-of-the-revolution-part-1-glt3752138067]] presents the 19-year-old Lafayette as a close Washington associate and personal embodiment of the French connection.
+- [[349-the-birth-of-the-united-states-part-3-glt9804967639]] says praise of the rebels helped inspire Lafayette, and treats his unpaid service, willingness to accept lower status, and sincere commitment as reasons he mattered.
 
 ### Failed intervention in Paris
 
@@ -53,7 +55,7 @@ The sources present a sharp contrast between Lafayette's early symbolic capital 
 
 ## Qualifications
 
-- The sources do not provide a full account of Lafayette's American service, French Revolution career, captivity, or later political memory.
+- The sources expand Lafayette's American motivation and symbolic role but do not provide a full account of his campaigns, French Revolution career, captivity, or later political memory.
 - His proposed pause with Austria and Paris intervention are presented as an attempt to restore order; the source does not establish all private intentions or counterfactual outcomes.
 - Marie Antoinette's fear that he would become the royal family's captor is her judgment, not proof of his intended conduct.
 - The episode's account of prestige as a motive for war is an interpretive reconstruction rather than direct access to private intention.
@@ -63,11 +65,8 @@ The sources present a sharp contrast between Lafayette's early symbolic capital 
 
 ## What Changed
 
-- His profile now begins with the National Guard command and tricolour compromise that made him a leading symbol of revolutionary order.
-- The October Days add an earlier case in which improvisation and symbolic theatre worked even as command authority failed.
-- Added the prewar calculation that limited conflict and command could restore prestige and stabilize constitutional monarchy.
-- His later inability to mobilize troops, guards, or royal trust shows the failure of that calculation.
-- Champ de Mars now supplies the earlier coercive act that made his later appeal to constitutional order unacceptable to radicals.
+- Added unpaid service, acceptance of lower initial status, and sincere ideological commitment to explain why his American role acquired unusual credibility.
+- Clarified that his personal bridge role preceded and complemented formal French alliance.
 
 ## Relationships
 
@@ -85,3 +84,4 @@ The sources present a sharp contrast between Lafayette's early symbolic capital 
 - [[TuileriesInsurrection]] - regime break after which his army rejected him.
 - [[JeanSylvainBailly]] - Paris mayor who declared martial law during their joint repression of the Champ de Mars gathering.
 - [[ChampDeMarsMassacre]] - event that transformed his revolutionary prestige into radical distrust.
+- [[AmericanRevolutionaryUniversalism]] - universal-cause language that helps explain his attraction to the American rebellion.

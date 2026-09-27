@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 11155
+wiki_total_pages: 11157
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -1223,6 +1223,9 @@ wiki_pages:
   - key: "CommonMynaTaiwan"
     title: "Common Myna in Taiwan / 加八哥"
     url: "/wiki/entities/commonmynataiwan/"
+  - key: "CommonSensePamphlet"
+    title: "Common Sense (pamphlet)"
+    url: "/wiki/entities/commonsensepamphlet/"
   - key: "CommonSenseMedia"
     title: "Common Sense Media"
     url: "/wiki/entities/commonsensemedia/"

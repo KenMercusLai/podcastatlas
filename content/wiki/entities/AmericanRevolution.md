@@ -6,6 +6,7 @@ sources:
   - 684-franklin-revenge-of-the-american-genius-part-2-glt6013835340
   - 683-washington-hero-of-the-revolution-part-1-glt3752138067
   - 350-the-triumph-of-george-washington-part-4-glt1619660676
+  - 349-the-birth-of-the-united-states-part-3-glt9804967639
 last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
@@ -18,7 +19,7 @@ The American Revolution appears as a colonial rupture, civil conflict, and globa
 
 ## Current Profile
 
-The current synthesis joins three scales. Franklin's break with British loyalty and diplomacy explain political rupture and alliance formation. Washington's Valley Forge command explains how the [[ContinentalArmy|Continental Army]] survived long enough for foreign intervention to matter. The closing episode then shows [[Yorktown]] as the convergence of American endurance and French naval-land power while widening the outcome map: many ordinary white men gained political capacity, but Native nations, women, and Black people encountered different combinations of exclusion, dispossession, service, emancipation, and re-enslavement.
+The current synthesis joins political language, military survival, diplomacy, and unequal outcomes. [[CommonSensePamphlet|Common Sense]] and the [[DeclarationOfIndependence|Declaration]] converted imperial rupture into an explicit republican and universal cause, even as slavery contradicted equality at the founding. Washington's escapes, Trenton and Princeton, and later Valley Forge command explain how the [[ContinentalArmy|Continental Army]] survived long enough for the [[BattleOfSaratoga|Saratoga]] victory and French intervention to matter. [[Yorktown]] then converged American endurance with French naval-land power. The result widened political capacity for many ordinary white men while exposing Native nations, women, and Black people to different combinations of exclusion, dispossession, service, emancipation, and re-enslavement.
 
 ## Key Characteristics
 
@@ -33,6 +34,8 @@ The current synthesis joins three scales. Franklin's break with British loyalty 
 ## Evidence
 
 - Rupture sequence: [[684-franklin-revenge-of-the-american-genius-part-2-glt6013835340]] follows Franklin from loyal Englishman to independence supporter after the Hutchinson letters, Cockpit humiliation, and outbreak of fighting.
+- Ideological declaration: [[349-the-birth-of-the-united-states-part-3-glt9804967639]] links Paine's mass republican persuasion to a Declaration designed for unity, public justification, and diplomacy.
+- Early military survival: [[349-the-birth-of-the-united-states-part-3-glt9804967639]] follows the army's escape around New York, the Trenton-Princeton morale recovery, failed British Hudson coordination, and surrender at Saratoga.
 - Institutional independence: [[684-franklin-revenge-of-the-american-genius-part-2-glt6013835340]] places Franklin in the Continental Congress and Declaration committee, while [[683-washington-hero-of-the-revolution-part-1-glt3752138067]] shows the Congress selecting Washington as commander.
 - Military endurance: [[683-washington-hero-of-the-revolution-part-1-glt3752138067]] says Washington's task was to keep the Continental Army alive, avoid decisive defeat, and wait for Britain to tire under distance, terrain, and cost.
 - Valley Forge crisis: [[683-washington-hero-of-the-revolution-part-1-glt3752138067]] treats Valley Forge as a supply, disease, discipline, inoculation, training, and political-legitimacy crisis rather than only patriotic tableau.
@@ -43,13 +46,12 @@ The current synthesis joins three scales. Franklin's break with British loyalty 
 
 ## Qualifications
 
-The sources provide broad podcast synthesis rather than a complete revolutionary history. Loyalist, Native, Black, female, southern, naval, and ordinary civilian experiences remain compressed, and counterfactual claims about a peaceful imperial path or alternative British commanders are speculative.
+The sources provide broad podcast synthesis rather than a complete revolutionary history. Loyalist, Native, Black, female, southern, naval, and ordinary civilian experiences remain compressed. Claims about precise forces, British restraint, missed opportunities to destroy Washington, a peaceful imperial path, or alternative British commanders remain source-scoped or speculative.
 
 ## What Changed
 
-- Extended the narrative from Valley Forge survival through Yorktown and the 1783 settlement.
-- Added the three-war global frame and the uneven distribution of revolutionary liberty.
-- Deepened the slavery contradiction through Black Loyalists and post-Yorktown return orders.
+- Backfilled the ideological and operational middle from Paine and the Declaration through New York, Trenton-Princeton, and Saratoga.
+- Connected universal independence language to both foreign support and the founding slavery contradiction.
 
 ## Relationships
 
@@ -68,3 +70,6 @@ The sources provide broad podcast synthesis rather than a complete revolutionary
 - [[AmericanRevolutionGlobalWar]] - frame joining continental, civil, and imperial conflict.
 - [[RevolutionaryLibertyDistribution]] - comparison of gains, exclusions, and reversals across groups.
 - [[ContestedAmericanFoundingMyth]] - dispute over how the Revolution should organize national origins.
+- [[CommonSensePamphlet]] - mass republican argument for independence.
+- [[BattleOfSaratoga]] - military and diplomatic turning point before open French entry.
+- [[AmericanRevolutionaryUniversalism]] - universal-cause frame carried by Paine and the Declaration.

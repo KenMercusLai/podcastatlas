@@ -4,7 +4,8 @@ type: concept
 tags: [military, strategy, leadership, american-revolution]
 sources:
   - 683-washington-hero-of-the-revolution-part-1-glt3752138067
-last_updated: 2026-08-31
+  - 349-the-birth-of-the-united-states-part-3-glt9804967639
+last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
 
@@ -16,7 +17,7 @@ Strategic endurance military command is the weaker-side command pattern where pr
 
 ## Current Synthesis
 
-The Washington episode grounds the concept in the [[AmericanRevolution|American Revolution]]. Britain has naval power, professional troops, and mercenaries, but it also has to fight across the Atlantic in a huge theatre. Washington's task is therefore not to conquer Britain or win every battle. It is to keep the [[ContinentalArmy|Continental Army]] alive, absorb defeats without collapse, produce occasional propaganda victories, survive [[ValleyForge|Valley Forge]], and last long enough for British will, logistics, and foreign intervention to change the balance.
+The Washington sources ground the concept in the [[AmericanRevolution|American Revolution]]. Britain had naval power, professional troops, and auxiliaries, but also had to fight across the Atlantic and sustain inland operations. Washington's task was not to conquer Britain or win every battle. It was to escape destruction around New York, keep the [[ContinentalArmy|Continental Army]] alive through expiring enlistments, use Trenton and Princeton to restore morale, survive [[ValleyForge|Valley Forge]], and last long enough for Saratoga and French intervention to change the strategic balance.
 
 ## Key Claims
 
@@ -33,14 +34,17 @@ The Washington episode grounds the concept in the [[AmericanRevolution|American 
 - Tactical-loss qualification: [[683-washington-hero-of-the-revolution-part-1-glt3752138067]] says Washington lost more battles than he won, while Trenton and Princeton after crossing the Delaware supplied major propaganda value.
 - Administrative command: [[683-washington-hero-of-the-revolution-part-1-glt3752138067]] treats Valley Forge shortages, disease, camp construction, discipline, inoculation, and Steuben's drilling as command facts.
 - Foreign-intervention effect: [[683-washington-hero-of-the-revolution-part-1-glt3752138067]] says the French alliance globalized the war and changed British priorities toward the Caribbean.
+- Escape and morale mechanism: [[349-the-birth-of-the-united-states-part-3-glt9804967639]] connects Washington's Brooklyn escape, the Delaware gamble, Trenton, and Princeton to army survival and restored belief in the cause.
+- Diplomatic payoff: [[349-the-birth-of-the-united-states-part-3-glt9804967639]] presents Saratoga and continued American viability as signals that made European backing more plausible.
 
 ## Counterevidence & Qualifications
 
-Endurance is not passive waiting. The source keeps tactical action, propaganda victories, discipline, requisitioning, inoculation, and training inside the strategy. It also depends on external conditions; without French intervention, British logistical strain, and continued political support, survival alone might not have produced independence.
+Endurance is not passive waiting. The sources keep evacuation, tactical action, propaganda victories, discipline, requisitioning, inoculation, and training inside the strategy. It also depends on external conditions; without British hesitation, French intervention, logistical strain, and continued political support, survival alone might not have produced independence. Claims that a more decisive British commander would have ended the war remain counterfactual.
 
 ## What Changed
 
-- Created the concept from the Washington episode's account of weaker-side military strategy.
+- Added operational escape and morale recovery as active mechanisms of endurance before Valley Forge.
+- Connected survival to Saratoga's diplomatic signal and the later global-war shift.
 
 ## Related Concepts
 
@@ -49,3 +53,4 @@ Endurance is not passive waiting. The source keeps tactical action, propaganda v
 - [[ValleyForge]] - crisis site where endurance becomes visible.
 - [[FrancoAmericanAlliance1778]] - alliance that helps convert endurance into strategic advantage.
 - [[CommandDisciplineAuthority]] - adjacent command concept focused on visible discipline and hierarchy.
+- [[BattleOfSaratoga]] - victory that helped convert continued viability into foreign confidence.

@@ -24291,3 +24291,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | 349: The Birth of the United States (Part 3)
+
+Added source `349-the-birth-of-the-united-states-part-3-glt9804967639`; created `CommonSensePamphlet`, `BattleOfSaratoga`, and `AmericanRevolutionaryUniversalism`; and updated `ThomasPaine`, `ThomasJefferson`, `DeclarationOfIndependence`, `JeffersonianLibertyContradiction`, `GeorgeWashington`, `ContinentalArmy`, `StrategicEnduranceMilitaryCommand`, `HoratioGates`, `AmericanRevolution`, `FrancoAmericanAlliance1778`, `AmericanRevolutionGlobalWar`, `MarquisDeLafayette`, and the canonical index from their complete bounded source sets. Core synthesis: Paine and the Declaration turned independence into a universal republican claim, Washington's escapes and limited victories preserved a collapsing army, Saratoga made the rebellion more credible abroad, and open French entry transformed the war's imperial scale. No settled contradiction was adopted; the equality-slavery conflict remains constitutive, while troop totals, commander motives, missed British chances, restraint claims, covert-aid details, and counterfactual outcomes remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

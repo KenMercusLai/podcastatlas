@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [349: The Birth of the United States (Part 3)](sources/349-the-birth-of-the-united-states-part-3-glt9804967639.md) — The Rest Is History episode on Paine, the Declaration, Washington's 1776 survival, Saratoga, French intervention, and the Revolution's universal promise and slavery contradiction.
 - [How Your Brain’s Reward Circuits Drive Your Choices | Dr. Robert Malenka](sources/how-your-brains-reward-circuits-drive-your-choices-dr-robert-malenka-scim2531622462.md) — Huberman Lab interview on context-sensitive dopamine signaling, addiction-related plasticity, social reward, empathy-like assays, autism heterogeneity, and cautious MDMA research.
 - [VOL.58脊柱外科&麻醉科｜腰间盘突出是否须手术等28个职场白领、学生关心的脊柱问题](sources/vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms.md) — 这病说来话长 Q&A on desk-related neck and back discomfort, lumbar-disc imaging, surgical warning signs, neutral movement, active rehabilitation, and the limits of passive aids.
 - [350: The Triumph of George Washington (Part 4)](sources/350-the-triumph-of-george-washington-part-4-glt1619660676.md) — The Rest Is History episode on Valley Forge, global war, Yorktown, unequal revolutionary liberty, constitutional state-building, and the contested 1776/1619 founding story.
@@ -3068,6 +3069,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Harnessing Passion, Drive & Persistence for Lifelong Success | Tony Hawk](sources/harnessing-passion-drive-persistence-for-lifelong-success-tony-hawk-scim8571002701.md) — Huberman Lab conversation on skateboarding mastery, intrinsic progression, injury-recovery adherence, entrepreneurship, family, and public skateparks.
 
 ## Entities
+- [Common Sense (pamphlet)](entities/CommonSensePamphlet.md) — Paine's widely circulated 1776 argument for independence, republicanism, and America as a universal political cause.
+- [Battle of Saratoga](entities/BattleOfSaratoga.md) — 1777 American victory whose operational and diplomatic effects helped make open French intervention plausible.
 - [Robert Malenka](entities/RobertMalenka.md) — Psychiatrist and neuroscientist connecting synaptic plasticity and reward circuitry to addiction, social behavior, empathy-like assays, autism models, and MDMA research.
 - [中日友好医院 / China-Japan Friendship Hospital](entities/ChinaJapanFriendshipHospital.md) — Hospital affiliation named for spine surgeon 马浩宁 in the VOL.58 这病说来话长 listener Q&A.
 - [Adam I. P. Smith](entities/AdamIPSmith.md) — Historian framing the American Revolution as overlapping continental, civil, and global wars with uneven political consequences.
@@ -5295,13 +5298,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Pyromind Studio](entities/PyromindStudio.md) — Pyromind training-infrastructure layer for serverless service nodes, training logic, parameters, and resource-based use.
 - [Echomind](entities/Echomind.md) — Pyromind Auto RL product for proxy-based trajectory capture, reward construction, training, and deployment back into production scenes.
 - [PyroDash](entities/PyroDash.md) — Pyromind collaborative inference engine routing between a small local worker model and a larger base model.
-- [George Washington](entities/GeorgeWashington.md) — Revolutionary commander whose endurance strategy, Valley Forge administration, public dignity, and slavery contradiction anchor the Washington episode.
+- [George Washington](entities/GeorgeWashington.md) — Revolutionary commander whose 1776 escapes and counterstrokes, endurance strategy, coalition leadership, public restraint, and slavery contradiction define his profile.
 - [Valley Forge](entities/ValleyForge.md) — 1777-1778 winter encampment where Continental Army hardship, disease, supply failure, training reform, and patriotic memory converge.
-- [Continental Army](entities/ContinentalArmy.md) — Revolutionary army Washington had to preserve, supply, discipline, inoculate, and professionalize during the American Revolution.
+- [Continental Army](entities/ContinentalArmy.md) — Fragile revolutionary army preserved through the 1776 enlistment crisis, Valley Forge, professionalization, and coalition war.
 - [Martha Washington](entities/MarthaWashington.md) — Valley Forge camp participant linking Washington's household support, women's camp labor, and enslaved attendants from Mount Vernon.
 - [Friedrich Wilhelm von Steuben](entities/FriedrichWilhelmVonSteuben.md) — European trainer whose Valley Forge drills and sanitation reforms helped professionalize the Continental Army.
-- [Marquis de Lafayette](entities/MarquisDeLafayette.md) — Franco-American revolutionary figure whose prestige failed to rescue French constitutional monarchy in 1792.
-- [Horatio Gates](entities/HoratioGates.md) — Rival commander figure around whom a winter movement to replace Washington briefly formed.
+- [Marquis de Lafayette](entities/MarquisDeLafayette.md) — Unpaid American volunteer and French revolutionary figure whose prestige later failed to rescue constitutional monarchy in 1792.
+- [Horatio Gates](entities/HoratioGates.md) — Saratoga commander whose victory made him a brief rival pole to Washington.
 - [鲍昱 / Bao Yu (Eastern Han)](entities/BaoYuEasternHan.md) — Mingdi-appointed Situ whose Zhangdi-era profile joins rescue-credit advocacy, drought-framed Chu-case redress, and qualified frontier-policy judgment.
 - [范羌 / Fan Qiang (Eastern Han)](entities/FanQiangEasternHan.md) — Eastern Han frontier officer who risks a deep-snow rescue of Geng Gong, making loyal followership a shared-risk command case.
 - [郑众 / Zheng Zhong (Eastern Han frontier commander)](entities/ZhengZhongFrontierEasternHan.md) — Non-eunuch Zheng Zhong whose profile spans original Northern Xiongnu kowtow refusal, Duliaoying-trigger intelligence, return-mission warning, misread imprisonment, rehabilitation, and later recognition of Geng Gong's survivors.
@@ -5375,8 +5378,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [George III](entities/GeorgeIII.md) — British monarch Franklin admired before turning against British rule.
 - [John Adams](entities/JohnAdams.md) — Founding-era foil whose criticism of Franklin's French social diplomacy clarifies Franklin's effectiveness.
 - [Continental Congress](entities/ContinentalCongress.md) — Revolutionary institution where Franklin served as delegate and Declaration committee member and Washington was selected for command.
-- [American Revolution](entities/AmericanRevolution.md) — Colonial break with Britain presented through Franklin's diplomacy and Washington's military endurance at Valley Forge.
-- [Franco-American Alliance of 1778](entities/FrancoAmericanAlliance1778.md) — French military and financial support relationship that Franklin secured and Washington's army benefited from after Valley Forge.
+- [American Revolution](entities/AmericanRevolution.md) — Colonial rupture joining universal founding language, military endurance, Saratoga, foreign intervention, global war, and unequal liberty.
+- [Franco-American Alliance of 1778](entities/FrancoAmericanAlliance1778.md) — Covert aid and formal French support linking Saratoga, Franklin's diplomacy, global war, and Yorktown.
 - [Treaty of Paris (1783)](entities/TreatyOfParis1783.md) — Peace treaty with Britain recognizing American independence and completing Franklin's diplomatic sequence.
 - [曹褒 / Cao Bao (Eastern Han ritualist)](entities/CaoBaoEasternHan.md) — Eastern Han ritual specialist whose Han-rites project moves from Zhangdi's single-compiler commission to completion, use, and later abandonment.
 - [梁王刘畅 / Liu Chang (King of Liang)](entities/LiuChangLiangKing.md) — Eastern Han prince whose retainer's emperor-making speech triggered a limited territorial penalty and a usurpation-taboo case.
@@ -5423,7 +5426,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Madison Hemings](entities/MadisonHemings.md) — Sally Hemings's son whose testimony preserved key family and Paris-return claims.
 - [Annette Gordon-Reed](entities/AnnetteGordonReed.md) — Historian whose archival chronology helped shift the Jefferson-Hemings consensus.
 - [Thomas Jefferson Foundation](entities/ThomasJeffersonFoundation.md) — Public-history institution cited as accepting the Jefferson-Hemings paternity consensus.
-- [Declaration of Independence](entities/DeclarationOfIndependence.md) — Founding document whose liberty language anchors Jefferson's achievement and contradiction.
+- [Declaration of Independence](entities/DeclarationOfIndependence.md) — Public and diplomatic justification for independence whose universal equality language coexists with a founding slavery contradiction.
 - [Louisiana Purchase](entities/LouisianaPurchase.md) — Jefferson-era territorial acquisition that combined presidential consequence with constitutional tension.
 - [Lewis and Clark Expedition](entities/LewisAndClarkExpedition.md) — Jefferson-commissioned western exploration project linking scientific inquiry and imperial ambition.
 - [Democratic-Republican Party](entities/DemocraticRepublicanParty.md) — Jefferson's founding-era party vehicle, complicated by Burr's 1800 tie and later marginalization.
@@ -10801,7 +10804,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Marie Antoinette](entities/MarieAntoinette.md) — French queen targeted by an innocent-but-damaging scandal before later royal duplicity and gendered revolutionary propaganda.
 - [François Jourgniac Saint-Méard](entities/FrancoisJourgniacSaintMeard.md) — Abbaye survivor whose account documents the massacres' selective, tribunal-like procedure.
 - [Stanislas Maillard](entities/StanislasMaillard.md) — Identifiable local organizer associated with September Massacres killing teams and improvised tribunals.
-- [Thomas Paine / 托马斯·潘恩](entities/ThomasPaine.md) — Republican anti-death-penalty counterpoint in episode 125's discussion of revolution, punishment, and killing.
+- [Thomas Paine / 托马斯·潘恩](entities/ThomasPaine.md) — Transatlantic republican whose mass persuasion for American independence coexisted with opposition to revolutionary execution in France.
 - [Julius Caesar / 尤利乌斯·恺撒](entities/JuliusCaesar.md) — Roman commander whose frontier prestige, personal rule, assassination, and disputed Alexandrian-library role shaped competing legacies.
 - [Roman Republic / 罗马共和国](entities/RomanRepublic.md) — Expansionary polity whose civic-military incorporation, early adaptive endurance, and later command crisis expose the capacity and pressures of republican mobilization.
 - [Roman Empire / 罗马帝国](entities/RomanEmpire.md) — Imperial order emerging after Caesar's assassination, appearing as Da Qin in Gan Ying's Eastern Han mission, and serving as the western endpoint of a qualified Hunnic/Gothic pressure sequence.
@@ -14242,6 +14245,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Skatepark Project](entities/TheSkateparkProject.md) — Nonprofit supporting public skateparks as access, practice, and youth-community infrastructure.
 
 ## Concepts
+- [American Revolutionary Universalism](concepts/AmericanRevolutionaryUniversalism.md) — Frame treating independence as a general cause of equality, liberty, consent, and republicanism while preserving its founding exclusions.
 - [Reward Circuit Context](concepts/RewardCircuitContext.md) — Framework in which reinforcement and salience depend on body state, memory, emotion, expectation, sensory input, and behavioral rules rather than stimulus pleasure alone.
 - [Addiction-Related Reward Plasticity](concepts/AddictionRelatedRewardPlasticity.md) — Persistent reward-circuit remodeling and cue learning that can sustain wanting and pursuit after liking or reflective endorsement fades.
 - [Social Reward Neuromodulation](concepts/SocialRewardNeuromodulation.md) — Context-dependent interaction of dopamine, serotonin, oxytocin, and reward circuits in social reinforcement and action selection.
@@ -16315,7 +16319,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [外戚任重职风险 / Outer-Relative Command Appointment Risk](concepts/OuterRelativeCommandAppointmentRisk.md) — Risk that giving imperial in-laws major offices creates a law-versus-kinship conflict and can distort subordinate accountability.
 - [羌地官吏侵扰叛乱触发 / Qiang Official Abuse Rebellion Trigger](concepts/QiangOfficialAbuseRebellionTrigger.md) — Frontier-rebellion pattern where local official abuse and punitive pursuit escalate grievance into coalition revolt.
 - [不可成工程止损 / Infeasible Public-Works Cancellation](concepts/InfeasiblePublicWorksCancellation.md) — Burden-relief pattern where honest field assessment stops a technically infeasible project and replaces it with a cheaper, less lethal logistics method.
-- [Strategic Endurance Military Command](concepts/StrategicEnduranceMilitaryCommand.md) — Weaker-side command pattern where army survival, legitimacy, logistics, and enemy exhaustion matter more than frequent tactical victories.
+- [Strategic Endurance Military Command](concepts/StrategicEnduranceMilitaryCommand.md) — Weaker-side command pattern combining escape, morale recovery, logistics, army survival, and geopolitical delay.
 - [Valley Forge Myth-Logistics](concepts/ValleyForgeMythLogistics.md) — Contrast between patriotic Valley Forge memory and the camp's concrete supply, health, sanitation, discipline, and training crisis.
 - [Republican Restraint Leadership](concepts/RepublicanRestraintLeadership.md) — Leadership pattern where self-command, dignity, symbolic restraint, and giving up power create republican legitimacy.
 - [Revolutionary Military Slavery Contradiction](concepts/RevolutionaryMilitarySlaveryContradiction.md) — Tension between Black military service for revolutionary liberty and the continued slaveholding of revolutionary leaders and households.
@@ -16383,7 +16387,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Teacher-Student Co-Field Learning / 师生共同在场学习](concepts/TeacherStudentCoFieldLearning.md) — Pedagogical pattern where teachers and students learn together in uncertain field situations.
 - [First Party System](concepts/FirstPartySystem.md) — Founding-era U.S. party competition that enabled constitutional transfer while intensifying Hamilton-Burr reputation conflict.
 - [Peaceful Transfer of Power](concepts/PeacefulTransferOfPower.md) — Democratic norm illustrated by the bitter 1800 transfer and Hamilton's choice of Jefferson over Burr.
-- [Jeffersonian Liberty Contradiction](concepts/JeffersonianLibertyContradiction.md) — Problem of Jefferson articulating universal liberty while preserving a slaveholding household and estate.
+- [Jeffersonian Liberty Contradiction](concepts/JeffersonianLibertyContradiction.md) — Problem of Jefferson giving universal liberty enduring language while preserving a slaveholding household, estate, and social order.
 - [Coerced Consent Under Slavery](concepts/CoercedConsentUnderSlavery.md) — Frame for why an enslaved person's intimate choices under ownership cannot be read as ordinary free consent.
 - [Founding Father Reputation Revision](concepts/FoundingFatherReputationRevision.md) — Evidence-bound reassessment of revered founders when minimized harms become central.
 - [Increasing Stoves Deception / 增灶示强](concepts/IncreasingStovesDeception.md) — Yu Xu's tactic of increasing visible camp stoves so Qiang pursuers infer reinforcement and slow their pressure before the Wudu defense.

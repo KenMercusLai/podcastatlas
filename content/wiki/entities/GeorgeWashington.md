@@ -5,6 +5,7 @@ tags: [person, founding, military, united-states, slavery]
 sources:
   - 683-washington-hero-of-the-revolution-part-1-glt3752138067
   - 350-the-triumph-of-george-washington-part-4-glt1619660676
+  - 349-the-birth-of-the-united-states-part-3-glt9804967639
 last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
@@ -13,11 +14,11 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-George Washington is presented as the commander whose discipline, endurance strategy, coalition leadership, and public restraint carried the [[ContinentalArmy|Continental Army]] from survival at [[ValleyForge|Valley Forge]] to victory at [[Yorktown]].
+George Washington is presented as the commander whose tactical escapes, morale-restoring counterstrokes, discipline, endurance strategy, coalition leadership, and public restraint carried the [[ContinentalArmy|Continental Army]] from near-collapse in 1776 to victory at [[Yorktown]].
 
 ## Current Profile
 
-The sources' Washington is deliberately less marble-perfect and less tactically brilliant than patriotic memory often suggests. He begins as a Virginia gentleman shaped by slavery, land hunger, British imperial service, and resentment over denied status. His central military achievement is preserving a fragile army until French land and naval power can help trap Cornwallis at Yorktown. His resignation and refusal to become a dictator make him a stabilizing republican founder, but his post-Yorktown order to return escaped enslaved people prevents restraint from becoming a claim of moral innocence.
+The sources' Washington is deliberately less marble-perfect and less tactically brilliant than patriotic memory often suggests. He begins as a Virginia gentleman shaped by slavery, land hunger, British imperial service, and resentment over denied status. In 1776 British hesitation and his evacuation from Brooklyn prevent a decisive loss; with enlistments expiring, Trenton and Princeton restore morale without changing the basic strategy of preserving the army. Valley Forge administration and French intervention then turn survival into capacity, culminating in coalition victory at Yorktown. His resignation and refusal to become a dictator make him a stabilizing republican founder, but his post-Yorktown order to return escaped enslaved people prevents restraint from becoming moral innocence.
 
 ## Key Characteristics
 
@@ -34,6 +35,7 @@ The sources' Washington is deliberately less marble-perfect and less tactically 
 - Formation and radicalization: [[683-washington-hero-of-the-revolution-part-1-glt3752138067]] says Washington was born in 1732 into Virginia gentry tied to tobacco and enslaved labor, gained Seven Years' War experience, resented denial of a royal commission, disliked taxes, and had western land interests affected by British settlement limits.
 - Command selection: [[683-washington-hero-of-the-revolution-part-1-glt3752138067]] says Washington arrived at the Continental Congress in militia uniform and was chosen because of military experience, Virginia connections, and a sober unifying reputation.
 - Endurance command: [[683-washington-hero-of-the-revolution-part-1-glt3752138067]] says Washington lost more battles than he won, but his strategic task was to keep the army alive, avoid a decisive defeat, and wait for British will to weaken.
+- 1776 survival and counterstroke: [[349-the-birth-of-the-united-states-part-3-glt9804967639]] says Washington escaped after Long Island, crossed the Delaware when his army had shrunk sharply, surprised the Hessians, and followed Trenton with a Princeton maneuver against Cornwallis's rear.
 - Valley Forge administration: [[683-washington-hero-of-the-revolution-part-1-glt3752138067]] describes food shortages, disease, camp construction, discipline, supply requisitioning, and smallpox inoculation as core parts of Washington's command.
 - Public authority: [[683-washington-hero-of-the-revolution-part-1-glt3752138067]] uses the Gouverneur Morris anecdote, European descriptions of Washington as father and commander, Cato performance, and later resignation to show authority based on distance, self-command, and republican symbolism.
 - Coalition victory: [[350-the-triumph-of-george-washington-part-4-glt1619660676]] says Washington and French forces trapped Cornwallis at Yorktown while French sea power prevented relief.
@@ -42,12 +44,12 @@ The sources' Washington is deliberately less marble-perfect and less tactically 
 
 ## Qualifications
 
-The sources cover Washington's formation, command, Yorktown victory, resignation, and symbolic presidency but not a full presidential or Mount Vernon history. They distinguish his real strategic and institutional restraint from invented Valley Forge prayer imagery, and neither restraint nor later antislavery movement cancels his own slaveholding or return policy.
+The sources cover Washington's formation, selected 1776-1781 campaigns, resignation, and symbolic presidency but not a full military, presidential, or Mount Vernon history. The claim that British commanders missed chances to destroy his army is interpretive and partly counterfactual. His real strategic and institutional restraint remains distinct from invented Valley Forge prayer imagery, and neither restraint nor later antislavery movement cancels his own slaveholding or return policy.
 
 ## What Changed
 
-- Extended Washington from Valley Forge endurance to Yorktown coalition victory and postwar nation-building.
-- Added the post-Yorktown return of escaped enslaved people as a sharper qualification to republican restraint.
+- Added the Long Island escape and Trenton-Princeton sequence as the earlier operational form of strategic endurance.
+- Clarified that morale-restoring tactical success supported army preservation rather than replacing it.
 
 ## Relationships
 
@@ -65,3 +67,4 @@ The sources cover Washington's formation, command, Yorktown victory, resignation
 - [[RevolutionaryMilitarySlaveryContradiction]] - contradiction sharpened by Washington's slaveholding and Black soldiers' service.
 - [[Yorktown]] - coalition victory that closes the military arc.
 - [[ContestedAmericanFoundingMyth]] - memory debate in which his restraint and slaveholding must be held together.
+- [[BattleOfSaratoga]] - separate American victory that raised the diplomatic value of Washington's continued survival.

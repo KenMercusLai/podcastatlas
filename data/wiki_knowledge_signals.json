@@ -8592,9 +8592,9 @@
       "url": "/wiki/entities/americanpridebank/"
     },
     "AmericanRevolution": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT6013835340 [GLT6013835340].md",
@@ -8616,15 +8616,22 @@
           "show": "The Rest Is History",
           "title": "350: The Triumph of George Washington (Part 4)",
           "url": "/wiki/sources/350-the-triumph-of-george-washington-part-4-glt1619660676/"
+        },
+        {
+          "episode_file": "GLT9804967639 [GLT9804967639].md",
+          "key": "349-the-birth-of-the-united-states-part-3-glt9804967639",
+          "show": "The Rest Is History",
+          "title": "349: The Birth of the United States (Part 3)",
+          "url": "/wiki/sources/349-the-birth-of-the-united-states-part-3-glt9804967639/"
         }
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/americanrevolution/"
     },
     "AmericanRevolutionGlobalWar": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1619660676 [GLT1619660676].md",
@@ -8632,10 +8639,33 @@
           "show": "The Rest Is History",
           "title": "350: The Triumph of George Washington (Part 4)",
           "url": "/wiki/sources/350-the-triumph-of-george-washington-part-4-glt1619660676/"
+        },
+        {
+          "episode_file": "GLT9804967639 [GLT9804967639].md",
+          "key": "349-the-birth-of-the-united-states-part-3-glt9804967639",
+          "show": "The Rest Is History",
+          "title": "349: The Birth of the United States (Part 3)",
+          "url": "/wiki/sources/349-the-birth-of-the-united-states-part-3-glt9804967639/"
         }
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/americanrevolutionglobalwar/"
+    },
+    "AmericanRevolutionaryUniversalism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9804967639 [GLT9804967639].md",
+          "key": "349-the-birth-of-the-united-states-part-3-glt9804967639",
+          "show": "The Rest Is History",
+          "title": "349: The Birth of the United States (Part 3)",
+          "url": "/wiki/sources/349-the-birth-of-the-united-states-part-3-glt9804967639/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/americanrevolutionaryuniversalism/"
     },
     "AmericanRightBritainWarningNarrative": {
       "episode_count": 3,
@@ -15945,6 +15975,22 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/entities/battleofrosebud/"
+    },
+    "BattleOfSaratoga": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9804967639 [GLT9804967639].md",
+          "key": "349-the-birth-of-the-united-states-part-3-glt9804967639",
+          "show": "The Rest Is History",
+          "title": "349: The Birth of the United States (Part 3)",
+          "url": "/wiki/sources/349-the-birth-of-the-united-states-part-3-glt9804967639/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/battleofsaratoga/"
     },
     "BattleOfShrewsbury": {
       "episode_count": 1,
@@ -31558,6 +31604,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/commonmynataiwan/"
     },
+    "CommonSensePamphlet": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9804967639 [GLT9804967639].md",
+          "key": "349-the-birth-of-the-united-states-part-3-glt9804967639",
+          "show": "The Rest Is History",
+          "title": "349: The Birth of the United States (Part 3)",
+          "url": "/wiki/sources/349-the-birth-of-the-united-states-part-3-glt9804967639/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/commonsensepamphlet/"
+    },
     "CommunityBankAIAdoption": {
       "episode_count": 1,
       "show_count": 1,
@@ -33252,9 +33314,9 @@
       "url": "/wiki/concepts/contextualepisodicmemory/"
     },
     "ContinentalArmy": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT3752138067 [GLT3752138067].md",
@@ -33269,6 +33331,13 @@
           "show": "The Rest Is History",
           "title": "350: The Triumph of George Washington (Part 4)",
           "url": "/wiki/sources/350-the-triumph-of-george-washington-part-4-glt1619660676/"
+        },
+        {
+          "episode_file": "GLT9804967639 [GLT9804967639].md",
+          "key": "349-the-birth-of-the-united-states-part-3-glt9804967639",
+          "show": "The Rest Is History",
+          "title": "349: The Birth of the United States (Part 3)",
+          "url": "/wiki/sources/349-the-birth-of-the-united-states-part-3-glt9804967639/"
         }
       ],
       "updated": "2026-09-28",
@@ -38543,9 +38612,9 @@
       "url": "/wiki/concepts/decisiveterrainpreemption/"
     },
     "DeclarationOfIndependence": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6535571769 [GLT6535571769].md",
@@ -38560,9 +38629,16 @@
           "show": "The Rest Is History",
           "title": "684. Franklin: Revenge of the American Genius (Part 2)",
           "url": "/wiki/sources/684-franklin-revenge-of-the-american-genius-part-2-glt6013835340/"
+        },
+        {
+          "episode_file": "GLT9804967639 [GLT9804967639].md",
+          "key": "349-the-birth-of-the-united-states-part-3-glt9804967639",
+          "show": "The Rest Is History",
+          "title": "349: The Birth of the United States (Part 3)",
+          "url": "/wiki/sources/349-the-birth-of-the-united-states-part-3-glt9804967639/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/declarationofindependence/"
     },
     "DeclarationOfRightsOfManAndCitizen": {
@@ -59045,9 +59121,9 @@
       "url": "/wiki/entities/franciscomanueldasilva/"
     },
     "FrancoAmericanAlliance1778": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT6013835340 [GLT6013835340].md",
@@ -59069,6 +59145,13 @@
           "show": "The Rest Is History",
           "title": "350: The Triumph of George Washington (Part 4)",
           "url": "/wiki/sources/350-the-triumph-of-george-washington-part-4-glt1619660676/"
+        },
+        {
+          "episode_file": "GLT9804967639 [GLT9804967639].md",
+          "key": "349-the-birth-of-the-united-states-part-3-glt9804967639",
+          "show": "The Rest Is History",
+          "title": "349: The Birth of the United States (Part 3)",
+          "url": "/wiki/sources/349-the-birth-of-the-united-states-part-3-glt9804967639/"
         }
       ],
       "updated": "2026-09-28",
@@ -63959,9 +64042,9 @@
       "url": "/wiki/entities/georgewallace/"
     },
     "GeorgeWashington": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT3752138067 [GLT3752138067].md",
@@ -63976,6 +64059,13 @@
           "show": "The Rest Is History",
           "title": "350: The Triumph of George Washington (Part 4)",
           "url": "/wiki/sources/350-the-triumph-of-george-washington-part-4-glt1619660676/"
+        },
+        {
+          "episode_file": "GLT9804967639 [GLT9804967639].md",
+          "key": "349-the-birth-of-the-united-states-part-3-glt9804967639",
+          "show": "The Rest Is History",
+          "title": "349: The Birth of the United States (Part 3)",
+          "url": "/wiki/sources/349-the-birth-of-the-united-states-part-3-glt9804967639/"
         }
       ],
       "updated": "2026-09-28",
@@ -74222,9 +74312,9 @@
       "url": "/wiki/entities/hopeisthethingwithfeathersbook/"
     },
     "HoratioGates": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3752138067 [GLT3752138067].md",
@@ -74232,9 +74322,16 @@
           "show": "The Rest Is History",
           "title": "683. Washington: Hero of the Revolution (Part 1)",
           "url": "/wiki/sources/683-washington-hero-of-the-revolution-part-1-glt3752138067/"
+        },
+        {
+          "episode_file": "GLT9804967639 [GLT9804967639].md",
+          "key": "349-the-birth-of-the-united-states-part-3-glt9804967639",
+          "show": "The Rest Is History",
+          "title": "349: The Birth of the United States (Part 3)",
+          "url": "/wiki/sources/349-the-birth-of-the-united-states-part-3-glt9804967639/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/horatiogates/"
     },
     "HoratioNelson": {
@@ -83314,9 +83411,9 @@
       "url": "/wiki/entities/jeffdean/"
     },
     "JeffersonianLibertyContradiction": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6535571769 [GLT6535571769].md",
@@ -83324,9 +83421,16 @@
           "show": "The Rest Is History",
           "title": "686. Jefferson: The Betrayal of Liberty (Part 4)",
           "url": "/wiki/sources/686-jefferson-the-betrayal-of-liberty-part-4-glt6535571769/"
+        },
+        {
+          "episode_file": "GLT9804967639 [GLT9804967639].md",
+          "key": "349-the-birth-of-the-united-states-part-3-glt9804967639",
+          "show": "The Rest Is History",
+          "title": "349: The Birth of the United States (Part 3)",
+          "url": "/wiki/sources/349-the-birth-of-the-united-states-part-3-glt9804967639/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/jeffersonianlibertycontradiction/"
     },
     "JenniferKing": {
@@ -103811,9 +103915,9 @@
       "url": "/wiki/entities/maropost/"
     },
     "MarquisDeLafayette": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "GLT3752138067 [GLT3752138067].md",
@@ -103856,6 +103960,13 @@
           "show": "The Rest Is History",
           "title": "479. The French Revolution: The Storming of the Bastille (Part 5)",
           "url": "/wiki/sources/479-the-french-revolution-the-storming-of-the-bastille-part-5-glt5485693441/"
+        },
+        {
+          "episode_file": "GLT9804967639 [GLT9804967639].md",
+          "key": "349-the-birth-of-the-united-states-part-3-glt9804967639",
+          "show": "The Rest Is History",
+          "title": "349: The Birth of the United States (Part 3)",
+          "url": "/wiki/sources/349-the-birth-of-the-united-states-part-3-glt9804967639/"
         }
       ],
       "updated": "2026-09-23",
@@ -147987,9 +148098,9 @@
       "url": "/wiki/concepts/strategicemotionconcealment/"
     },
     "StrategicEnduranceMilitaryCommand": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3752138067 [GLT3752138067].md",
@@ -147997,9 +148108,16 @@
           "show": "The Rest Is History",
           "title": "683. Washington: Hero of the Revolution (Part 1)",
           "url": "/wiki/sources/683-washington-hero-of-the-revolution-part-1-glt3752138067/"
+        },
+        {
+          "episode_file": "GLT9804967639 [GLT9804967639].md",
+          "key": "349-the-birth-of-the-united-states-part-3-glt9804967639",
+          "show": "The Rest Is History",
+          "title": "349: The Birth of the United States (Part 3)",
+          "url": "/wiki/sources/349-the-birth-of-the-united-states-part-3-glt9804967639/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/strategicendurancemilitarycommand/"
     },
     "StrategicExclusionAndFocus": {
@@ -155086,9 +155204,9 @@
       "url": "/wiki/entities/thomasismay/"
     },
     "ThomasJefferson": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6535571769 [GLT6535571769].md",
@@ -155096,9 +155214,16 @@
           "show": "The Rest Is History",
           "title": "686. Jefferson: The Betrayal of Liberty (Part 4)",
           "url": "/wiki/sources/686-jefferson-the-betrayal-of-liberty-part-4-glt6535571769/"
+        },
+        {
+          "episode_file": "GLT9804967639 [GLT9804967639].md",
+          "key": "349-the-birth-of-the-united-states-part-3-glt9804967639",
+          "show": "The Rest Is History",
+          "title": "349: The Birth of the United States (Part 3)",
+          "url": "/wiki/sources/349-the-birth-of-the-united-states-part-3-glt9804967639/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/thomasjefferson/"
     },
     "ThomasJeffersonFoundation": {
@@ -155148,6 +155273,29 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/entities/thomasmuntzer/"
+    },
+    "ThomasPaine": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
+          "key": "125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516",
+          "show": "蜜獾吃书",
+          "title": "125. 马拉之死：卑鄙的暗杀，或正义的处决？",
+          "url": "/wiki/sources/125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516/"
+        },
+        {
+          "episode_file": "GLT9804967639 [GLT9804967639].md",
+          "key": "349-the-birth-of-the-united-states-part-3-glt9804967639",
+          "show": "The Rest Is History",
+          "title": "349: The Birth of the United States (Part 3)",
+          "url": "/wiki/sources/349-the-birth-of-the-united-states-part-3-glt9804967639/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/thomaspaine/"
     },
     "ThreatChallengeStressReappraisal": {
       "episode_count": 3,

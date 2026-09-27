@@ -4,6 +4,7 @@ type: concept
 tags: [history, war, empire, diplomacy, american-revolution]
 sources:
   - 350-the-triumph-of-george-washington-part-4-glt1619660676
+  - 349-the-birth-of-the-united-states-part-3-glt9804967639
 last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
@@ -16,7 +17,7 @@ American Revolution as global war is the interpretation that independence emerge
 
 ## Current Synthesis
 
-The episode argues that French entry in 1778 and later Spanish involvement forced Britain to distribute attention across North America, the Caribbean, Gibraltar, maritime trade, and home defense. American endurance therefore mattered because it kept the rebellion alive until imperial competition changed the strategic field. [[Yorktown]] is the clearest convergence: the [[ContinentalArmy|Continental Army]] supplied continuity, French troops helped encircle Cornwallis, and French sea power denied relief.
+The sources show the global turn as a sequence rather than a single event. Britain already feared French and Spanish intervention while fighting around New York, and France secretly supplied the rebellion. The [[BattleOfSaratoga|Saratoga]] victory helped make open French entry credible; the 1778 alliance then forced Britain to distribute attention across North America, the Caribbean, Gibraltar, India, maritime trade, and home defense, with Spain later widening the pressure. American endurance mattered because it kept the rebellion alive until imperial competition changed the strategic field. [[Yorktown]] is the clearest convergence: the [[ContinentalArmy|Continental Army]] supplied continuity, French troops helped encircle Cornwallis, and French sea power denied relief.
 
 ## Key Claims
 
@@ -32,14 +33,17 @@ The episode argues that French entry in 1778 and later Spanish involvement force
 - Three-war frame: [[350-the-triumph-of-george-washington-part-4-glt1619660676]] describes a Continental war, a Loyalist-Patriot civil war, and a global imperial war.
 - Naval convergence: [[350-the-triumph-of-george-washington-part-4-glt1619660676]] says French naval power prevented relief of Cornwallis at Yorktown.
 - Imperial priorities: [[350-the-triumph-of-george-washington-part-4-glt1619660676]] notes Britain's continuing concern for Caribbean sugar islands and Gibraltar after the North American defeat.
+- Pre-entry pressure: [[349-the-birth-of-the-united-states-part-3-glt9804967639]] says Britain feared French and Spanish intervention across Canada, the Caribbean, Europe, and other imperial possessions before France entered openly.
+- Turning sequence: [[349-the-birth-of-the-united-states-part-3-glt9804967639]] links secret French aid, Saratoga, formal French entry, and Britain's need to reprioritize the Sugar Islands, Gibraltar, Menorca, India, Canada, and Florida.
 
 ## Counterevidence & Qualifications
 
-The global frame should not erase American political agency, local civil conflict, or the Continental Army's survival. Nor does Yorktown alone explain peace: Britain retained forces and territory, won later naval successes, and continued the imperial war until the 1783 settlement.
+The global frame should not erase American political agency, local civil conflict, or the Continental Army's survival. Saratoga did not mechanically cause alliance, and the sources do not independently reconstruct every French or British decision. Nor does Yorktown alone explain peace: Britain retained forces and territory, won later naval successes, and continued the imperial war until the 1783 settlement.
 
 ## What Changed
 
-- Created the concept from the episode's three-war framework and Yorktown analysis.
+- Added the pre-1778 chain from British intervention fears and covert aid through Saratoga to open French entry.
+- Expanded the imperial priority map to India, Canada, Florida, and Menorca as well as the Caribbean and Gibraltar.
 
 ## Related Concepts
 
@@ -48,3 +52,4 @@ The global frame should not erase American political agency, local civil conflic
 - [[Yorktown]] - campaign where land and naval coalition power converged.
 - [[AmericanRevolution]] - conflict reinterpreted through the global frame.
 - [[RevolutionaryLibertyDistribution]] - social-outcome frame that complements military scale.
+- [[BattleOfSaratoga]] - American victory that helped make internationalization politically credible.

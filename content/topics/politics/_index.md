@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2771
+topic_total_pages: 2773
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -256,6 +256,9 @@ topic_concepts:
   - key: "AmericanRevolutionGlobalWar"
     title: "American Revolution as Global War"
     url: "/wiki/concepts/americanrevolutionglobalwar/"
+  - key: "AmericanRevolutionaryUniversalism"
+    title: "American Revolutionary Universalism"
+    url: "/wiki/concepts/americanrevolutionaryuniversalism/"
   - key: "AmericanRightBritainWarningNarrative"
     title: "American Right Britain Warning Narrative"
     url: "/wiki/concepts/americanrightbritainwarningnarrative/"
@@ -4979,6 +4982,9 @@ topic_entities:
   - key: "Colombia"
     title: "Colombia"
     url: "/wiki/entities/colombia/"
+  - key: "CommonSensePamphlet"
+    title: "Common Sense (pamphlet)"
+    url: "/wiki/entities/commonsensepamphlet/"
   - key: "ConservativePartnershipInstitute"
     title: "Conservative Partnership Institute"
     url: "/wiki/entities/conservativepartnershipinstitute/"

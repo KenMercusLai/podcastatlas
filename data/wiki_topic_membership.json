@@ -1521,6 +1521,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "349-the-birth-of-the-united-states-part-3-glt9804967639": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "350-the-triumph-of-george-washington-part-4-glt1619660676": [
     {
       "key": "history",
@@ -9716,6 +9723,13 @@
       "label": "History",
       "url": "/topics/history/"
     },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "AmericanRevolutionaryUniversalism": [
     {
       "key": "politics",
       "label": "Politics",
@@ -19669,6 +19683,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "CommonSensePamphlet": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "CommunityBankAIAdoption": [

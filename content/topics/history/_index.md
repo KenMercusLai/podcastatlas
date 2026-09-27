@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2111
+topic_total_pages: 2112
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4680,6 +4680,9 @@ topic_sources:
   - key: "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008"
     title: "318: Hundred Years' War: A Game of Thrones (Part 1)"
     url: "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+  - key: "349-the-birth-of-the-united-states-part-3-glt9804967639"
+    title: "349: The Birth of the United States (Part 3)"
+    url: "/wiki/sources/349-the-birth-of-the-united-states-part-3-glt9804967639/"
   - key: "350-the-triumph-of-george-washington-part-4-glt1619660676"
     title: "350: The Triumph of George Washington (Part 4)"
     url: "/wiki/sources/350-the-triumph-of-george-washington-part-4-glt1619660676/"
