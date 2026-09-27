@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [366. The Architect of Modern China](sources/366-the-architect-of-modern-china-glt1902993082.md) — The Rest Is History episode on Deng Xiaoping's market reforms, party authoritarianism, local experimentation, Zhao Ziyang, and the 1989 Tiananmen crackdown.
 - [367. The Real Harry Potter: Magic, Empire and Beastly Bullies](sources/367-the-real-harry-potter-magic-empire-and-beastly-bullies-glt3711207657.md) — The Rest Is History episode on Tom Brown's School Days, Rugby, muscular Christianity, public-school hierarchy, and Hogwarts's transformation of the British school-story tradition.
 - [Journal Club With Dr. Peter Attia | Metformin for Longevity & the Power of Belief Effects](sources/journal-club-with-dr-peter-attia-metformin-for-longevity-the-power-of-belief-effects-scim5394566255.md) — Huberman Lab Journal Club on metformin mortality evidence, informative censoring, comparator limits, mouse longevity testing, and dose-dependent nicotine belief effects.
 - [VOL.72精神科｜别太拿性格测试当事 三甲精神科医生教你和职场做减压切割](sources/vol-72-jingshenke-bie-tai-na-xingge-ceshi-dangshi-sanjia-jingshenke-yisheng-jiao-ni-he-zhichang-zuo-jianya-qiege-li6jofbvucknthuqw1flm-r0m4kw.md) — 这病说来话长 episode on MBTI identity limits, workplace stress recovery, psychological boundaries, clinical escalation, and supervised psychiatric medication changes.
@@ -3024,6 +3025,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI Trading —— 决策便宜，行动很贵｜对谈超 3w Star Vibe-Trading 作者浩哲](sources/ai-trading-juece-pianyi-xingdong-hengui-duitan-chao-3w-star-vibe-trading-zuozhe-haozhe-luz0eizpk9v3nz94iuutp1z9xj25.md) — 42章经 conversation on Vibe Trading, auditable AI investment research, financial data alignment, point-in-time validation, calibrated probabilities, and bounded human-controlled execution.
 
 ## Entities
+- [Deng Xiaoping](entities/DengXiaoping.md) — Revolutionary leader who joined pragmatic market opening to uncompromising Communist Party rule.
+- [Zhao Ziyang](entities/ZhaoZiyang.md) — Reform-era leader whose economic and limited political liberalization ended with his 1989 removal.
+- [Mao Zedong](entities/MaoZedong.md) — Revolutionary founder whose protected legitimacy and destructive later campaigns shaped post-Mao reform.
+- [Chinese Communist Party](entities/ChineseCommunistParty.md) — One-party institution that adapted economic policy while retaining coercive political supremacy.
+- [Rana Mitter](entities/RanaMitter.md) — Modern-China historian interpreting Deng-era reform, social transformation, and repression.
 - [Thomas Hughes](entities/ThomasHughes.md) — Author who translated Rugby and Arnoldian character formation into the foundational Tom Brown school story.
 - [Rugby School](entities/RugbySchool.md) — British public school linking Thomas Arnold's reforms to Thomas Hughes's literary model.
 - [William of Wykeham](entities/WilliamOfWykeham.md) — Medieval bishop and chancellor whose Winchester–New College pipeline joined poor scholars, Latin training, and limited elite access.
@@ -14115,6 +14121,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Vibe Trading](entities/VibeTrading.md) — Open-source secondary-market research workspace integrating macro, fundamental, quantitative, and risk analysis.
 
 ## Concepts
+- [Chinese Authoritarian Market Reform](concepts/ChineseAuthoritarianMarketReform.md) — Post-Mao settlement combining markets, foreign learning, and local experimentation with one-party control.
+- [Cultural Revolution Governance Memory](concepts/CulturalRevolutionGovernanceMemory.md) — Use of remembered mass disorder and purge as a later frame for protest and political control.
+- [1989 Tiananmen Crackdown](concepts/TiananmenCrackdown1989.md) — Coercive boundary event that closed political liberalization while economic reform later resumed.
 - [Personality-Test Identity Boundary / 性格测试身份边界](concepts/PersonalityTestIdentityBoundary.md) — Keeps self-report typologies useful for reflection without turning them into diagnosis, fixed essence, or destiny.
 - [Work-Role Transition Ritual / 工作角色切换仪式](concepts/WorkRoleTransitionRitual.md) — Brief commute, sensory, breathing, movement, or de-roling cues that mark entry into and exit from work.
 - [Mental-Health Symptom Escalation / 心理症状就医升级边界](concepts/MentalHealthSymptomEscalation.md) — Severity-duration-function-baseline framework for moving from ordinary self-care toward qualified assessment.

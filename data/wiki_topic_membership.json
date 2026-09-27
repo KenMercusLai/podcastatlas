@@ -1535,6 +1535,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "366-the-architect-of-modern-china-glt1902993082": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "367-the-real-harry-potter-magic-empire-and-beastly-bullies-glt3711207657": [
     {
       "key": "history",
@@ -17650,6 +17657,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "ChineseCommunistParty": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "ChineseCorporateGladiatorCompetition": [
     {
       "key": "economics",
@@ -21425,6 +21439,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "CulturalRevolutionGovernanceMemory": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "CultureLedFoodAdoption": [
     {
       "key": "culture",
@@ -23249,6 +23270,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "DengXiaoping": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "DengXunEasternHan": [
@@ -83744,6 +83772,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "ZhaoZiyang": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "ZhedongTangPoetryRoad": [

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 11073
+wiki_total_pages: 11078
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -797,6 +797,9 @@ wiki_pages:
   - key: "ChineseAcademyOfSocialSciences"
     title: "Chinese Academy of Social Sciences / 中国社会科学院"
     url: "/wiki/entities/chineseacademyofsocialsciences/"
+  - key: "ChineseCommunistParty"
+    title: "Chinese Communist Party"
+    url: "/wiki/entities/chinesecommunistparty/"
   - key: "ChineseDragon"
     title: "Chinese Dragon / 龙"
     url: "/wiki/entities/chinesedragon/"

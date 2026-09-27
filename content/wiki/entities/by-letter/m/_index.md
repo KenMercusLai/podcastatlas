@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 11073
+wiki_total_pages: 11078
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -209,6 +209,9 @@ wiki_pages:
   - key: "MaoLixiang"
     title: "Mao Lixiang / 毛李翔"
     url: "/wiki/entities/maolixiang/"
+  - key: "MaoZedong"
+    title: "Mao Zedong"
+    url: "/wiki/entities/maozedong/"
   - key: "MaoZhongqun"
     title: "Mao Zhongqun / 毛中群"
     url: "/wiki/entities/maozhongqun/"

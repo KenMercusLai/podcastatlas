@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 11073
+wiki_total_pages: 11078
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -485,6 +485,9 @@ wiki_pages:
   - key: "Democritus"
     title: "Democritus / 德谟克利特"
     url: "/wiki/entities/democritus/"
+  - key: "DengXiaoping"
+    title: "Deng Xiaoping"
+    url: "/wiki/entities/dengxiaoping/"
   - key: "DenisHealey"
     title: "Denis Healey"
     url: "/wiki/entities/denishealey/"

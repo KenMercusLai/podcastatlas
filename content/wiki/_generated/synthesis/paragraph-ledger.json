@@ -763,12 +763,13 @@
       "8b5ede398926abd502ebdfba3f57f00a484fcaea87d1bd59feee284620ca59ce",
       "1f02005c80ec3e7ac3f24acac820a9118d51d7e2de5614db5e13752add4f80b9",
       "60d22980877c9a07564718a1614f1e06e5947001e678ff946ba7dbbc77be1f31",
-      "718798e1c902241c90f817fc5263e223e3a7e3324d31441c2ee9f2e19f9dfd0d"
+      "718798e1c902241c90f817fc5263e223e3a7e3324d31441c2ee9f2e19f9dfd0d",
+      "e831e8e86e17b030487ea014bf3b5808a8c29e2427f06293b304cc57798e77a3"
     ],
-    "paragraph_count": 763
+    "paragraph_count": 764
   },
-  "overview_commit": "43fdfbf13e5088e729282a3e8744bbb5f2cacf3b",
-  "overview_digest": "6eef88fc502c21e3993205b7b22ffd6efad6b644e08879d7308ad261dc0f85fb",
+  "overview_commit": "f95c9ac9faf749b7c316977eeb278ae506f5b16c",
+  "overview_digest": "8bc93f75e655381a26237e112e3f6c0c6ec390db8cc2e8501afcd69d0a0c0df8",
   "paragraphs": [
     {
       "id": "9898c41e8e82385c78359cad5a20f5a3d90978bfde6fe83d6e000e11ccf92d30",
@@ -22458,6 +22459,32 @@
         "ParentingSturdiness",
         "ZheBingShuoLaiHuaChang",
         "vol-73-jingshenke-shaonian-ertong-de-xinli-jiankang-guanhu-women-shehui-weilai-de-jiankang-lmyhvu50qll_zy9dxkqggwxi0tyn"
+      ]
+    },
+    {
+      "id": "e831e8e86e17b030487ea014bf3b5808a8c29e2427f06293b304cc57798e77a3",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[366-the-architect-of-modern-china-glt1902993082|366. The Architect of Modern China]], a [[TheRestIsHistory]] episode with [[RanaMitter]] on [[DengXiaoping]], [[ZhaoZiyang]], and China's post-Mao transformation. It adds [[DengXiaoping]], [[ZhaoZiyang]], [[MaoZedong]], [[ChineseCommunistParty]], [[RanaMitter]], [[ChineseAuthoritarianMarketReform]], [[CulturalRevolutionGovernanceMemory]], and [[TiananmenCrackdown1989]], while extending [[LocalGovernmentPolicyExperimentation]] and [[ChinaSpecialEconomicZoneAsymmetry]]. Its core synthesis is that reform joined central permission, local and grassroots experimentation, foreign learning, state-enabled markets, and labor mobilization to a non-negotiable party monopoly: the 1989 crackdown closed political liberalization, while Deng's 1992 southern tour restarted economic opening. No settled contradiction is recorded; leadership motives, the causal balance between state direction and bottom-up enterprise, casualty scale, and political counterfactuals remain source-scoped.",
+      "topic_scores": {
+        "business-and-markets": 2,
+        "governance-and-institutions": 5,
+        "history-and-geopolitics": 2,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "366-the-architect-of-modern-china-glt1902993082",
+        "ChinaSpecialEconomicZoneAsymmetry",
+        "ChineseAuthoritarianMarketReform",
+        "ChineseCommunistParty",
+        "CulturalRevolutionGovernanceMemory",
+        "DengXiaoping",
+        "LocalGovernmentPolicyExperimentation",
+        "MaoZedong",
+        "RanaMitter",
+        "TheRestIsHistory",
+        "TiananmenCrackdown1989",
+        "ZhaoZiyang"
       ]
     }
   ],

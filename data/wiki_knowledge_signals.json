@@ -27018,6 +27018,29 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/chinasouthernairlines/"
     },
+    "ChinaSpecialEconomicZoneAsymmetry": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "No.205 ⛵️ 潮汕往事：侨批、经济特区和没有等来的深圳奇迹 [989721046].md",
+          "key": "no-205-chaoshan-wangshi-qiaopi-jingji-tequ-he-meiyou-denglaide-shenzhen-qiji-989721046",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.205 ⛵️ 潮汕往事：侨批、经济特区和没有等来的深圳奇迹",
+          "url": "/wiki/sources/no-205-chaoshan-wangshi-qiaopi-jingji-tequ-he-meiyou-denglaide-shenzhen-qiji-989721046/"
+        },
+        {
+          "episode_file": "GLT1902993082 [GLT1902993082].md",
+          "key": "366-the-architect-of-modern-china-glt1902993082",
+          "show": "The Rest Is History",
+          "title": "366. The Architect of Modern China",
+          "url": "/wiki/sources/366-the-architect-of-modern-china-glt1902993082/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/chinaspecialeconomiczoneasymmetry/"
+    },
     "ChinaUnitedStatesExchangeFoundation": {
       "episode_count": 1,
       "show_count": 1,
@@ -27094,6 +27117,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/chineseastrologicalpolitics/"
     },
+    "ChineseAuthoritarianMarketReform": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1902993082 [GLT1902993082].md",
+          "key": "366-the-architect-of-modern-china-glt1902993082",
+          "show": "The Rest Is History",
+          "title": "366. The Architect of Modern China",
+          "url": "/wiki/sources/366-the-architect-of-modern-china-glt1902993082/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/chineseauthoritarianmarketreform/"
+    },
     "ChineseBeautyKoreaMarketEntry": {
       "episode_count": 1,
       "show_count": 1,
@@ -27141,6 +27180,22 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/entities/chinesechampionsleague/"
+    },
+    "ChineseCommunistParty": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1902993082 [GLT1902993082].md",
+          "key": "366-the-architect-of-modern-china-glt1902993082",
+          "show": "The Rest Is History",
+          "title": "366. The Architect of Modern China",
+          "url": "/wiki/sources/366-the-architect-of-modern-china-glt1902993082/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/chinesecommunistparty/"
     },
     "ChineseFamilyBusinessSuccession": {
       "episode_count": 2,
@@ -34782,6 +34837,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/culturalparticipationevent/"
     },
+    "CulturalRevolutionGovernanceMemory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1902993082 [GLT1902993082].md",
+          "key": "366-the-architect-of-modern-china-glt1902993082",
+          "show": "The Rest Is History",
+          "title": "366. The Architect of Modern China",
+          "url": "/wiki/sources/366-the-architect-of-modern-china-glt1902993082/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/culturalrevolutiongovernancememory/"
+    },
     "CultureLedFoodAdoption": {
       "episode_count": 3,
       "show_count": 3,
@@ -38578,6 +38649,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/entities/dengxilatehan/"
+    },
+    "DengXiaoping": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1902993082 [GLT1902993082].md",
+          "key": "366-the-architect-of-modern-china-glt1902993082",
+          "show": "The Rest Is History",
+          "title": "366. The Architect of Modern China",
+          "url": "/wiki/sources/366-the-architect-of-modern-china-glt1902993082/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/dengxiaoping/"
     },
     "DengXunEasternHan": {
       "episode_count": 3,
@@ -95737,6 +95824,29 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/localgovernanceascare/"
     },
+    "LocalGovernmentPolicyExperimentation": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "150.“中国如何跳出贫困陷阱”，现代化之路又会走向何方 [lgPVP04rnGaGkPuBtE2AC6I5JI3g].md",
+          "key": "150-zhongguo-ruhe-tiaochu-pinkun-xianjing-xiandaihua-zhi-lu-you-hui-zouxiang-hefang-lgpvp04rngagkpubte2ac6i5ji3g",
+          "show": "起朱楼宴宾客",
+          "title": "150.“中国如何跳出贫困陷阱”，现代化之路又会走向何方",
+          "url": "/wiki/sources/150-zhongguo-ruhe-tiaochu-pinkun-xianjing-xiandaihua-zhi-lu-you-hui-zouxiang-hefang-lgpvp04rngagkpubte2ac6i5ji3g/"
+        },
+        {
+          "episode_file": "GLT1902993082 [GLT1902993082].md",
+          "key": "366-the-architect-of-modern-china-glt1902993082",
+          "show": "The Rest Is History",
+          "title": "366. The Architect of Modern China",
+          "url": "/wiki/sources/366-the-architect-of-modern-china-glt1902993082/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/localgovernmentpolicyexperimentation/"
+    },
     "LocalMuscularEnduranceBenchmarks": {
       "episode_count": 1,
       "show_count": 1,
@@ -100901,6 +101011,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/maoyisheng/"
+    },
+    "MaoZedong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1902993082 [GLT1902993082].md",
+          "key": "366-the-architect-of-modern-china-glt1902993082",
+          "show": "The Rest Is History",
+          "title": "366. The Architect of Modern China",
+          "url": "/wiki/sources/366-the-architect-of-modern-china-glt1902993082/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/maozedong/"
     },
     "MaoZheTCMDoctor": {
       "episode_count": 8,
@@ -126820,6 +126946,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/ralphlordoftheflies/"
     },
+    "RanaMitter": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1902993082 [GLT1902993082].md",
+          "key": "366-the-architect-of-modern-china-glt1902993082",
+          "show": "The Rest Is History",
+          "title": "366. The Architect of Modern China",
+          "url": "/wiki/sources/366-the-architect-of-modern-china-glt1902993082/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/ranamitter/"
+    },
     "RanavalonaI": {
       "episode_count": 1,
       "show_count": 1,
@@ -152282,6 +152424,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/tianyulatehan/"
     },
+    "TiananmenCrackdown1989": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1902993082 [GLT1902993082].md",
+          "key": "366-the-architect-of-modern-china-glt1902993082",
+          "show": "The Rest Is History",
+          "title": "366. The Architect of Modern China",
+          "url": "/wiki/sources/366-the-architect-of-modern-china-glt1902993082/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/tiananmencrackdown1989/"
+    },
     "TiangongUltra": {
       "episode_count": 1,
       "show_count": 1,
@@ -174708,6 +174866,22 @@
       ],
       "updated": "2026-09-19",
       "url": "/wiki/entities/zhaoyun/"
+    },
+    "ZhaoZiyang": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1902993082 [GLT1902993082].md",
+          "key": "366-the-architect-of-modern-china-glt1902993082",
+          "show": "The Rest Is History",
+          "title": "366. The Architect of Modern China",
+          "url": "/wiki/sources/366-the-architect-of-modern-china-glt1902993082/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/zhaoziyang/"
     },
     "ZhaogeCountyLateHan": {
       "episode_count": 1,

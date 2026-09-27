@@ -6,11 +6,14 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 8476
+wiki_total_pages: 8479
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
     url: "/wiki/concepts/tenxparadox/"
+  - key: "TiananmenCrackdown1989"
+    title: "1989 Tiananmen Crackdown"
+    url: "/wiki/concepts/tiananmencrackdown1989/"
   - key: "ThreeDPrintedHousing"
     title: "3D-Printed Housing"
     url: "/wiki/concepts/threedprintedhousing/"

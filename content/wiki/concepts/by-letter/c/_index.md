@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8476
+wiki_total_pages: 8479
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -737,6 +737,9 @@ wiki_pages:
   - key: "ChineseAstrologicalPolitics"
     title: "Chinese Astrological Politics / 中国星占政治"
     url: "/wiki/concepts/chineseastrologicalpolitics/"
+  - key: "ChineseAuthoritarianMarketReform"
+    title: "Chinese Authoritarian Market Reform"
+    url: "/wiki/concepts/chineseauthoritarianmarketreform/"
   - key: "ChineseBankWealthManagement"
     title: "Chinese Bank Wealth Management / 中国式银行理财"
     url: "/wiki/concepts/chinesebankwealthmanagement/"
@@ -2405,6 +2408,9 @@ wiki_pages:
   - key: "CulturalRelativismVictimProtectionBoundary"
     title: "Cultural Relativism Victim Protection Boundary"
     url: "/wiki/concepts/culturalrelativismvictimprotectionboundary/"
+  - key: "CulturalRevolutionGovernanceMemory"
+    title: "Cultural Revolution Governance Memory"
+    url: "/wiki/concepts/culturalrevolutiongovernancememory/"
   - key: "CultureLedFoodAdoption"
     title: "Culture-Led Food Adoption"
     url: "/wiki/concepts/cultureledfoodadoption/"

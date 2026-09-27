@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2754
+topic_total_pages: 2758
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -907,6 +907,9 @@ topic_concepts:
   - key: "CulturalRelativismVictimProtectionBoundary"
     title: "Cultural Relativism Victim Protection Boundary"
     url: "/wiki/concepts/culturalrelativismvictimprotectionboundary/"
+  - key: "CulturalRevolutionGovernanceMemory"
+    title: "Cultural Revolution Governance Memory"
+    url: "/wiki/concepts/culturalrevolutiongovernancememory/"
   - key: "CustomerConcentrationRisk"
     title: "Customer Concentration Risk"
     url: "/wiki/concepts/customerconcentrationrisk/"
@@ -4928,6 +4931,9 @@ topic_entities:
   - key: "ChinaUnitedStatesExchangeFoundation"
     title: "China-United States Exchange Foundation / 中美交流基金會"
     url: "/wiki/entities/chinaunitedstatesexchangefoundation/"
+  - key: "ChineseCommunistParty"
+    title: "Chinese Communist Party"
+    url: "/wiki/entities/chinesecommunistparty/"
   - key: "ChrisBuskirk"
     title: "Chris Buskirk"
     url: "/wiki/entities/chrisbuskirk/"
@@ -5039,6 +5045,9 @@ topic_entities:
   - key: "DemocraticRepublicanParty"
     title: "Democratic-Republican Party"
     url: "/wiki/entities/democraticrepublicanparty/"
+  - key: "DengXiaoping"
+    title: "Deng Xiaoping"
+    url: "/wiki/entities/dengxiaoping/"
   - key: "DenisHealey"
     title: "Denis Healey"
     url: "/wiki/entities/denishealey/"
@@ -6773,6 +6782,9 @@ topic_entities:
   - key: "Zeiss"
     title: "Zeiss"
     url: "/wiki/entities/zeiss/"
+  - key: "ZhaoZiyang"
+    title: "Zhao Ziyang"
+    url: "/wiki/entities/zhaoziyang/"
   - key: "ZhuWeiLegalScholar"
     title: "Zhu Wei / 朱威 (legal scholar)"
     url: "/wiki/entities/zhuweilegalscholar/"

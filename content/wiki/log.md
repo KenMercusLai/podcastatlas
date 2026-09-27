@@ -23964,3 +23964,11 @@ Added source `vol-72-jingshenke-bie-tai-na-xingge-ceshi-dangshi-sanjia-jingshenk
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | 366. The Architect of Modern China
+
+Added source `366-the-architect-of-modern-china-glt1902993082`; created `DengXiaoping`, `ZhaoZiyang`, `MaoZedong`, `ChineseCommunistParty`, `RanaMitter`, `ChineseAuthoritarianMarketReform`, `CulturalRevolutionGovernanceMemory`, and `TiananmenCrackdown1989`; and updated `LocalGovernmentPolicyExperimentation`, `ChinaSpecialEconomicZoneAsymmetry`, the automatic overview, and the canonical index from their complete bounded source sets. Core synthesis: Deng-era reform combined central authorization, local and grassroots experimentation, foreign learning, state-enabled market conditions, and labor mobilization with a non-negotiable Communist Party monopoly; the 1989 crackdown closed political liberalization, while the 1992 southern tour restarted economic reform. No settled contradiction found. Leadership motives, causal weights, casualty scale, and political counterfactuals remain source-scoped.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

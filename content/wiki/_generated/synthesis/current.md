@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-28
-as_of_overview_commit: 031e6a36556f5bbe46f04587a3f339560c1ad02e
-summary: "Across domains, durable progress depends on evidence, context, human judgment, bounded authority, practical capacity, adaptable routines, and feedback."
-episode_count: 2991
-source_count: 2991
-paragraph_count: 763
+as_of_overview_commit: f95c9ac9faf749b7c316977eeb278ae506f5b16c
+summary: "Across domains, durable progress depends on evidence, context, human judgment, capable institutions, bounded authority, practical implementation, and feedback."
+episode_count: 2997
+source_count: 2997
+paragraph_count: 764
 topic_count: 9
 ---
 
@@ -19,7 +19,7 @@ topic_count: 9
 - AI creates durable value when model capability is embedded in real workflows through [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AIOfficeAgent]], [[OfficeAgentHarnessDesign]], [[EnterpriseConnectorContextQuality]], [[AgentFacingInterfaces]], [[AgenticSystemOfRecordMoat]], [[PersistentCloudAgents]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AgentHarness]], [[AgentReliabilityVerification]], [[AgentCommandCenter]], [[TeamAgentMemory]], [[AgenticDataEngineeringHarness]], [[PolicyBoundAgenticLendingSupport]], [[ExplainableAILending]], and [[TokenEfficientAgentWorkflow]] rather than left as isolated chat or generation.
 - A [[SaaSTrustMoat]], [[PurposeDrivenBusiness]], [[TrustAsBusinessAsset]], or [[AssistedDrivingTrustFormation]] can support adoption, but the trust survives only when operating pace, responsibility boundaries such as [[AutonomousDrivingResponsibilityBoundary]], and delivery remain credible.
 - Cultural form is an interpretive infrastructure: [[MuseumInterpretationLegibility]], [[PlaceBasedExhibitionCuration]], [[AncientChineseBookMateriality]], [[BookPublishingEconomics]], and [[PhysicalBookDesignTradeoff]] show that objects, books, and exhibitions need labels, material form, production choices, and local context before audiences can understand them.
-- [[efforts-challenges-in-promoting-public-health-us-surgeon-general-dr-vivek-murthy-scim4553126123|The Murthy interview]] adds a governance claim: [[PublicHealthTrustCommunication]] depends on independent priority setting, explicit knowns and unknowns, reasons for revisable guidance, and locally trusted messengers, while [[FoodSystemNutritionResponsibility]], [[IntegratedCareFragmentation]], and [[SocialMediaDesignRegulation]] show why prevention capacity and accountability extend beyond individual choice.
+- [[366-the-architect-of-modern-china-glt1902993082|The Deng episode]] adds a governance settlement in which [[ChineseAuthoritarianMarketReform]] joined central permission, [[LocalGovernmentPolicyExperimentation]], unequal special-zone capacity, foreign learning, and bottom-up enterprise to a non-negotiable [[ChineseCommunistParty]] monopoly; [[TiananmenCrackdown1989]] closed political liberalization under [[CulturalRevolutionGovernanceMemory]], while the 1992 southern tour restarted economic opening without political pluralism.
 - [[391-the-fall-of-the-aztecs-the-last-emperor-part-8-glt2984940365|The Fall of the Aztecs finale]] treats the [[SpanishConquestOfMexico|Spanish conquest of Mexico]] as a long, uneven transformation rather than a completed 1521 event: coalition politics, [[ColonialLegalAdaptation|legal legitimation and Indigenous claims]], labor, urban rebuilding, religion, and the [[ColumbianExchange]] extended battlefield defeat, while [[HistoricalCatastropheNarrativeEthics]] preserves constrained Indigenous agency and dramatic contingency without minimizing torture, exploitation, dispossession, or demographic catastrophe.
 - [[LifeTaskDiscovery]] and [[PurposeIntegratedMotivation]] frame direction as a test of recurring inclination, engagement, contribution, and adult experimentation; [[PowerLiteracy]], [[EmbodiedSocialPerception]], and [[CharacterBasedRomanticCompatibility]] place social judgment on influence, demonstrated values, cue clusters, and conduct across contexts, while [[EffortfulThinkingInTheAIAge]] and [[MortalityBoundedMeaning]] preserve effort and finite-time urgency without turning struggle, crisis, or intuition into universal prescriptions.
 - [[efforts-challenges-in-promoting-public-health-us-surgeon-general-dr-vivek-murthy-scim4553126123|The Murthy interview]] adds a health-systems claim: prevention joins evidence communication with sleep, nutrition, activity, relationships, food access, coordinated care, child-safe platform design, and [[EverydaySocialConnection]], while [[LonelinessPublicHealthRisk]] and [[IntegratedCareFragmentation]] keep population association, individual care, and institutional responsibility distinct.
@@ -54,7 +54,7 @@ Cultural meaning is shaped by form, platform design, material context, narrative
 
 ### Governance and Institutions
 
-Legitimate institutions need capable implementation, transparent revision, enforceable limits, accountable openness, local trust, and safeguards against coercion and capture.
+Institutions require capable implementation, legitimate limits, accountable information flows, and safeguards against capture and coercion; Deng-era China shows economic experimentation expanding inside a non-negotiable one-party political boundary.
 
 - [[efforts-challenges-in-promoting-public-health-us-surgeon-general-dr-vivek-murthy-scim4553126123|The Murthy interview]] adds a governance claim: [[PublicHealthTrustCommunication]] depends on independent priority setting, explicit knowns and unknowns, reasons for revisable guidance, and locally trusted messengers, while [[FoodSystemNutritionResponsibility]], [[IntegratedCareFragmentation]], and [[SocialMediaDesignRegulation]] show why prevention capacity and accountability extend beyond individual choice. Evidence: [[efforts-challenges-in-promoting-public-health-us-surgeon-general-dr-vivek-murthy-scim4553126123]], [[VivekMurthy]], [[PublicHealthTrustCommunication]], [[FoodSystemNutritionResponsibility]], [[IntegratedCareFragmentation]], [[SocialMediaDesignRegulation]].
 - [[407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144|The Conquest of Austria]] adds an annexation-governance case in which [[AdolfHitler]] combined institutional weakening, diplomatic isolation, personal intimidation, ultimatum, and invasion to produce the [[Anschluss]], while [[DistributedComplicityUnderAuthoritarianism]], [[EconomicAryanization]], and [[RationalizedStateViolence]] show external coercion interacting with Austrian participation, plunder, and persecution; [[AustrianFirstVictimNarrative]] therefore preserves state victimization without turning it into social innocence. Evidence: [[407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144]], [[AdolfHitler]], [[Anschluss]], [[DistributedComplicityUnderAuthoritarianism]], [[EconomicAryanization]], [[RationalizedStateViolence]], [[AustrianFirstVictimNarrative]].
