@@ -24259,3 +24259,11 @@ Added source `351-amsterdam-miracles-money-and-mud-part-1-glt4666881212`; create
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | How to Enhance Performance & Learning by Applying a Growth Mindset
+
+Added source `how-to-enhance-performance-learning-by-applying-a-growth-mindset-scim1082295503`; created `AliCrum`, `ClaudiaMueller`, and `ProcessFocusedPerformanceFeedback`; and updated `GrowthMindset`, `ThreatChallengeStressReappraisal`, `CarolDweck`, `DavidYeager`, and the canonical index from their complete bounded source sets. Core synthesis: learning-oriented feedback describes controllable actions and analyzes errors without turning current performance into identity, while stress reappraisal can make manageable arousal usable when real resources, instruction, support, and recovery are present. No settled contradiction was adopted. Praise-study outcomes, error-related signals, physiological mechanisms, and combined-intervention effect sizes remain source-scoped, and later Yeager evidence preserves the boundary between a brief tutorial and durable environment-supported change. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

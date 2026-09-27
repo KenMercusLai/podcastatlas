@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 11148
+wiki_total_pages: 11150
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -671,6 +671,9 @@ wiki_pages:
   - key: "AliIranProtester"
     title: "Ali (Iran protester)"
     url: "/wiki/entities/aliiranprotester/"
+  - key: "AliCrum"
+    title: "Ali Crum"
+    url: "/wiki/entities/alicrum/"
   - key: "AliIbnAbiTalib"
     title: "Ali ibn Abi Talib"
     url: "/wiki/entities/aliibnabitalib/"

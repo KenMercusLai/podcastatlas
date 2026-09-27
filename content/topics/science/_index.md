@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1275
+topic_total_pages: 1276
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -3597,6 +3597,9 @@ topic_sources:
   - key: "how-to-deal-with-high-conflict-people-bill-eddy-scim8877999828"
     title: "How to Deal With High Conflict People | Bill Eddy"
     url: "/wiki/sources/how-to-deal-with-high-conflict-people-bill-eddy-scim8877999828/"
+  - key: "how-to-enhance-performance-learning-by-applying-a-growth-mindset-scim1082295503"
+    title: "How to Enhance Performance & Learning by Applying a Growth Mindset"
+    url: "/wiki/sources/how-to-enhance-performance-learning-by-applying-a-growth-mindset-scim1082295503/"
   - key: "how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639"
     title: "How to Find & Be a Great Romantic Partner | Lori Gottlieb"
     url: "/wiki/sources/how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639/"

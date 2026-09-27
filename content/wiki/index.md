@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Enhance Performance & Learning by Applying a Growth Mindset](sources/how-to-enhance-performance-learning-by-applying-a-growth-mindset-scim1082295503.md) — Huberman Lab solo episode on process-focused feedback, error analysis, growth mindset, stress reappraisal, and the limits of brief interventions.
 - [351: Amsterdam: Miracles, Money, and Mud (Part 1)](sources/351-amsterdam-miracles-money-and-mud-part-1-glt4666881212.md) — The Rest Is History episode linking Amsterdam's waterlogged origins, Catholic pilgrimage, managed religious toleration, VOC globalization, and early stock-market finance.
 - [VOL.59麻醉科&脊柱外科｜术中知晓“鬼压床”常见吗？腰疼是麻醉造成的吗？产妇都适合无痛分娩吗？](sources/vol-59-mazuike-jizhuwai-ke-shuzhong-zhixiao-guiyachuang-changjian-ma-yaoteng-shi-mazui-zaocheng-de-ma-chanfu-dou-shihe-wutong-fenmian-ma-lp7ibbaykdfkwlpwdj8zdwejodtr.md) — 这病说来话长 Q&A on intraoperative awareness, procedural sedation, aspiration, recovery, obstetric anesthesia, neuraxial and spine considerations, and airway risk.
 - [VOL.60皮肤科｜不怕晒黑就不防晒了？轻度晒伤处理法｜黑色素瘤判断法](sources/vol-60-pifuke-bupa-shaihei-jiu-bu-fangshai-le-qingdu-shaishang-chulifa-heisesuliu-panduanfa-lipgbuf1-3iufdq-lho6y7l6hxd8c.md) — 这病说来话长 episode on scenario-based UV protection, sunburn escalation, melanoma warning features, and topical-corticosteroid boundaries.
@@ -3064,6 +3065,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Harnessing Passion, Drive & Persistence for Lifelong Success | Tony Hawk](sources/harnessing-passion-drive-persistence-for-lifelong-success-tony-hawk-scim8571002701.md) — Huberman Lab conversation on skateboarding mastery, intrinsic progression, injury-recovery adherence, entrepreneurship, family, and public skateparks.
 
 ## Entities
+- [Ali Crum](entities/AliCrum.md) — Psychologist connecting mindset as an organizing lens to stress-enhancing appraisal and performance under demand.
+- [Claudia Mueller](entities/ClaudiaMueller.md) — Psychologist named for intelligence-versus-effort praise research on challenge choice, performance, and self-presentation.
 - [Dutch East India Company](entities/DutchEastIndiaCompany.md) — State-chartered VOC joining Asian monopoly trade, permanent company shares, and Amsterdam's financial market while carrying an underdeveloped colonial-coercion history.
 - [Amsterdam Stock Exchange](entities/AmsterdamStockExchange.md) — Organized VOC share market associated with resale, speculation, short selling, trading rules, and manipulation controls.
 - [Miracle of Amsterdam](entities/MiracleOfAmsterdam.md) — 1345 Eucharistic miracle tradition that made medieval Amsterdam a Catholic pilgrimage center before the Alteration.
@@ -14231,6 +14234,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Skatepark Project](entities/TheSkateparkProject.md) — Nonprofit supporting public skateparks as access, practice, and youth-community infrastructure.
 
 ## Concepts
+- [Process-Focused Performance Feedback](concepts/ProcessFocusedPerformanceFeedback.md) — Feedback practice that replaces fixed identity labels with actionable descriptions of effort, strategy, correction, and support.
 - [Collective Water Management](concepts/CollectiveWaterManagement.md) — Coordinated drainage, canal, dam, and dike infrastructure under flood and subsidence risk, grounded in Amsterdam's formation.
 - [Intraoperative Awareness and Sedation Depth / 术中知晓与镇静深度边界](concepts/IntraoperativeAwarenessAndSedationDepth.md) — Boundary among unintended awareness under general anesthesia, paralysis, depth monitoring, and intended lighter procedural sedation.
 - [Obstetric Anesthesia Decision Boundary / 产科麻醉决策边界](concepts/ObstetricAnesthesiaDecisionBoundary.md) — Maternal, fetal, spinal, coagulation, airway, aspiration, and urgency factors shaping labor analgesia and cesarean anesthesia.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8558
+wiki_total_pages: 8559
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1670,6 +1670,9 @@ wiki_pages:
   - key: "ProcessKnowledge"
     title: "Process Knowledge / 过程知识"
     url: "/wiki/concepts/processknowledge/"
+  - key: "ProcessFocusedPerformanceFeedback"
+    title: "Process-Focused Performance Feedback"
+    url: "/wiki/concepts/processfocusedperformancefeedback/"
   - key: "ProcessingSpeedTrainingDementiaSignal"
     title: "Processing-Speed Training Dementia Signal"
     url: "/wiki/concepts/processingspeedtrainingdementiasignal/"

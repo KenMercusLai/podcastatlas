@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "y"
-wiki_total_pages: 8558
+wiki_total_pages: 8559
 wiki_pages:
   - key: "YangtzeFishingBanRecovery"
     title: "Yangtze Fishing Ban Recovery"

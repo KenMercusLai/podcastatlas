@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 8558
+wiki_total_pages: 8559
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"

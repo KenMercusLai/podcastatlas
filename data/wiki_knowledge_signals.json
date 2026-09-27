@@ -7688,6 +7688,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/algorithmictrustmigration/"
     },
+    "AliCrum": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1082295503 [SCIM1082295503].md",
+          "key": "how-to-enhance-performance-learning-by-applying-a-growth-mindset-scim1082295503",
+          "show": "Huberman Lab",
+          "title": "How to Enhance Performance & Learning by Applying a Growth Mindset",
+          "url": "/wiki/sources/how-to-enhance-performance-learning-by-applying-a-growth-mindset-scim1082295503/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/alicrum/"
+    },
     "AliIbnAbiTalib": {
       "episode_count": 1,
       "show_count": 1,
@@ -23620,9 +23636,9 @@
       "url": "/wiki/entities/carnabystreet/"
     },
     "CarolDweck": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7958949675 [SCIM7958949675].md",
@@ -23630,9 +23646,16 @@
           "show": "Huberman Lab",
           "title": "How to Increase Your Willpower & Tenacity",
           "url": "/wiki/sources/how-to-increase-your-willpower-tenacity-scim7958949675/"
+        },
+        {
+          "episode_file": "SCIM1082295503 [SCIM1082295503].md",
+          "key": "how-to-enhance-performance-learning-by-applying-a-growth-mindset-scim1082295503",
+          "show": "Huberman Lab",
+          "title": "How to Enhance Performance & Learning by Applying a Growth Mindset",
+          "url": "/wiki/sources/how-to-enhance-performance-learning-by-applying-a-growth-mindset-scim1082295503/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/caroldweck/"
     },
     "CarolineWalkerBynum": {
@@ -29463,6 +29486,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/entities/claudemethospreview/"
+    },
+    "ClaudiaMueller": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1082295503 [SCIM1082295503].md",
+          "key": "how-to-enhance-performance-learning-by-applying-a-growth-mindset-scim1082295503",
+          "show": "Huberman Lab",
+          "title": "How to Enhance Performance & Learning by Applying a Growth Mindset",
+          "url": "/wiki/sources/how-to-enhance-performance-learning-by-applying-a-growth-mindset-scim1082295503/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/claudiamueller/"
     },
     "Claudius": {
       "episode_count": 1,
@@ -37898,9 +37937,9 @@
       "url": "/wiki/entities/davidstirling/"
     },
     "DavidYeager": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM7393383815 [SCIM7393383815].md",
@@ -37915,9 +37954,16 @@
           "show": "Huberman Lab",
           "title": "How to Master Growth Mindset to Improve Performance | Dr. David Yeager",
           "url": "/wiki/sources/how-to-master-growth-mindset-to-improve-performance-dr-david-yeager-scim6606381639/"
+        },
+        {
+          "episode_file": "SCIM1082295503 [SCIM1082295503].md",
+          "key": "how-to-enhance-performance-learning-by-applying-a-growth-mindset-scim1082295503",
+          "show": "Huberman Lab",
+          "title": "How to Enhance Performance & Learning by Applying a Growth Mindset",
+          "url": "/wiki/sources/how-to-enhance-performance-learning-by-applying-a-growth-mindset-scim1082295503/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/davidyeager/"
     },
     "DaxiaoDianbo": {
@@ -66451,9 +66497,9 @@
       "url": "/wiki/concepts/growthhormonesecretagogues/"
     },
     "GrowthMindset": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM6606381639 [SCIM6606381639].md",
@@ -66468,9 +66514,16 @@
           "show": "Huberman Lab",
           "title": "How to Unlock Your Potential, Motivation & Unique Abilities | Dr. Adam Grant",
           "url": "/wiki/sources/how-to-unlock-your-potential-motivation-unique-abilities-dr-adam-grant-scim2670765142/"
+        },
+        {
+          "episode_file": "SCIM1082295503 [SCIM1082295503].md",
+          "key": "how-to-enhance-performance-learning-by-applying-a-growth-mindset-scim1082295503",
+          "show": "Huberman Lab",
+          "title": "How to Enhance Performance & Learning by Applying a Growth Mindset",
+          "url": "/wiki/sources/how-to-enhance-performance-learning-by-applying-a-growth-mindset-scim1082295503/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/growthmindset/"
     },
     "GrowthWitnessing": {
@@ -126058,6 +126111,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/procedurelesspoliticalpurge/"
     },
+    "ProcessFocusedPerformanceFeedback": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1082295503 [SCIM1082295503].md",
+          "key": "how-to-enhance-performance-learning-by-applying-a-growth-mindset-scim1082295503",
+          "show": "Huberman Lab",
+          "title": "How to Enhance Performance & Learning by Applying a Growth Mindset",
+          "url": "/wiki/sources/how-to-enhance-performance-learning-by-applying-a-growth-mindset-scim1082295503/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/processfocusedperformancefeedback/"
+    },
     "ProcessingSpeedTrainingDementiaSignal": {
       "episode_count": 1,
       "show_count": 1,
@@ -154765,9 +154834,9 @@
       "url": "/wiki/entities/thomasmuntzer/"
     },
     "ThreatChallengeStressReappraisal": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM4455888803 [SCIM4455888803].md",
@@ -154782,9 +154851,16 @@
           "show": "Huberman Lab",
           "title": "How to Master Growth Mindset to Improve Performance | Dr. David Yeager",
           "url": "/wiki/sources/how-to-master-growth-mindset-to-improve-performance-dr-david-yeager-scim6606381639/"
+        },
+        {
+          "episode_file": "SCIM1082295503 [SCIM1082295503].md",
+          "key": "how-to-enhance-performance-learning-by-applying-a-growth-mindset-scim1082295503",
+          "show": "Huberman Lab",
+          "title": "How to Enhance Performance & Learning by Applying a Growth Mindset",
+          "url": "/wiki/sources/how-to-enhance-performance-learning-by-applying-a-growth-mindset-scim1082295503/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/threatchallengestressreappraisal/"
     },
     "ThreeDayWeekUK1974": {
