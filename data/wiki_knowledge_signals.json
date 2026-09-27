@@ -61810,9 +61810,9 @@
       "url": "/wiki/concepts/generativeaimusic/"
     },
     "GenerativeDrive": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM9301011958 [SCIM9301011958].md",
@@ -61848,6 +61848,13 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Paul Conti: How to Improve Your Mental Health",
           "url": "/wiki/sources/guest-series-dr-paul-conti-how-to-improve-your-mental-health-scim8316512303/"
+        },
+        {
+          "episode_file": "SCIM8819389908 [SCIM8819389908].md",
+          "key": "guest-series-dr-paul-conti-how-to-understand-assess-your-mental-health-scim8819389908",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Paul Conti: How to Understand & Assess Your Mental Health",
+          "url": "/wiki/sources/guest-series-dr-paul-conti-how-to-understand-assess-your-mental-health-scim8819389908/"
         }
       ],
       "updated": "2026-09-28",
@@ -104059,9 +104066,9 @@
       "url": "/wiki/concepts/mentalhealthhelpseekingscamrisk/"
     },
     "MentalHealthStructureFunctionMap": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM2027108733 [SCIM2027108733].md",
@@ -104076,6 +104083,13 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Paul Conti: How to Improve Your Mental Health",
           "url": "/wiki/sources/guest-series-dr-paul-conti-how-to-improve-your-mental-health-scim8316512303/"
+        },
+        {
+          "episode_file": "SCIM8819389908 [SCIM8819389908].md",
+          "key": "guest-series-dr-paul-conti-how-to-understand-assess-your-mental-health-scim8819389908",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Paul Conti: How to Understand & Assess Your Mental Health",
+          "url": "/wiki/sources/guest-series-dr-paul-conti-how-to-understand-assess-your-mental-health-scim8819389908/"
         }
       ],
       "updated": "2026-09-28",
@@ -117145,9 +117159,9 @@
       "url": "/wiki/entities/paulbarras/"
     },
     "PaulConti": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM9301011958 [SCIM9301011958].md",
@@ -117183,6 +117197,13 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Paul Conti: How to Improve Your Mental Health",
           "url": "/wiki/sources/guest-series-dr-paul-conti-how-to-improve-your-mental-health-scim8316512303/"
+        },
+        {
+          "episode_file": "SCIM8819389908 [SCIM8819389908].md",
+          "key": "guest-series-dr-paul-conti-how-to-understand-assess-your-mental-health-scim8819389908",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Paul Conti: How to Understand & Assess Your Mental Health",
+          "url": "/wiki/sources/guest-series-dr-paul-conti-how-to-understand-assess-your-mental-health-scim8819389908/"
         }
       ],
       "updated": "2026-09-28",

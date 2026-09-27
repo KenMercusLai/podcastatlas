@@ -4,8 +4,8 @@ generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
 last_updated: 2026-09-28
-as_of_overview_commit: 031e6a36556f5bbe46f04587a3f339560c1ad02e
-input_digest: c41e86296e5c16987ea158afc5e5570ba6922263fac8f98955a285687de8ff76
+as_of_overview_commit: 4ae47c7960231033b793517ffd76c361f7d4c1e4
+input_digest: 04977b7fb13d3c4589d207a4d8eff463109f7c961cd78b1bebb2e5094791e5e0
 ---
 
 # Work, Education, and Society
@@ -1234,9 +1234,9 @@ VOL.34 and VOL.35 add a work-and-society edge around rehabilitation as scaffolde
 
 ### Automatic Busyness Needs Inquiry Choice And Support
 
-[[guest-series-dr-paul-conti-tools-and-protocols-for-mental-health-scim2027108733|Conti's guest-series finale]] enters work and society through [[IntentionalLivingAgency]]: examining automatic busyness, route-cued habits, defenses, salience, and emotionally charged life carve-outs can distinguish chosen work from momentum, while healthier companions, realistic support, and structural constraints remain part of agency rather than failures of will.
+The Conti series enters work and society through [[MentalHealthStructureFunctionMap]]: examining automatic busyness, procrastination, repeated internal narratives, defenses, salience, behavior, and strivings can distinguish chosen work from momentum, while realistic support, time for change, and structural constraints remain part of agency rather than failures of will.
 
-**Evidence:** [[guest-series-dr-paul-conti-tools-and-protocols-for-mental-health-scim2027108733]], [[IntentionalLivingAgency]], [[MentalHealthStructureFunctionMap]]
+**Evidence:** [[guest-series-dr-paul-conti-how-to-understand-assess-your-mental-health-scim8819389908]], [[MentalHealthStructureFunctionMap]]
 
 **Qualifications:**
 

@@ -1784,21 +1784,20 @@
       "global_candidate": false,
       "id": "mental-health-self-inquiry-is-supportive-not-diagnostic-care",
       "qualifications": [
-        "The episode presents Conti's mental-health map and metaphors as public education, not a validated diagnostic instrument or individualized treatment plan.",
+        "The series presents Conti's mental-health map and metaphors as public education, not a validated diagnostic instrument or individualized treatment plan.",
         "Grounding, journaling, meditation, trusted conversation, and self-inquiry can support orientation without replacing psychotherapy, medication management, crisis assessment, or trauma care.",
         "Self-harm thoughts, hopelessness, instability, severe symptoms, and inquiry that compounds guilt or shame require qualified or urgent support."
       ],
-      "statement": "[[guest-series-dr-paul-conti-tools-and-protocols-for-mental-health-scim2027108733|Conti's guest-series finale]] adds a health-literacy boundary: [[MentalHealthStructureFunctionMap]], [[ReflectiveSelfExploration]], and grounding can help inspect patterns and restore choice, but unconscious, defense, salience, and drive explanations remain source-scoped and [[CompassionateCuriosity]] must not be mistaken for diagnosis or crisis care.",
+      "statement": "The Conti series opener adds a health-literacy boundary: [[MentalHealthStructureFunctionMap]] can help inspect defenses, salience, repeated narratives, and behavior to restore choice, but unconscious, character, repetition, and [[GenerativeDrive|drive]] explanations remain source-scoped, and its medication discussion must not be mistaken for diagnosis, prescribing, or crisis care.",
       "status": "qualified",
       "supporting_wikilinks": [
-        "guest-series-dr-paul-conti-tools-and-protocols-for-mental-health-scim2027108733",
+        "guest-series-dr-paul-conti-how-to-understand-assess-your-mental-health-scim8819389908",
         "MentalHealthStructureFunctionMap",
-        "ReflectiveSelfExploration",
-        "CompassionateCuriosity"
+        "GenerativeDrive"
       ]
     }
   ],
-  "input_digest": "62a974e61900c20d37542f82a3b8fbe8015506956da5646b96e2736f33803b64",
+  "input_digest": "529ef9fe851d29c8f24985f36af278bf24aaa597f66285976a0336eddfdcfa48",
   "summary": "Science, health, and climate sources consistently separate public literacy from individualized care: mechanisms, measurements, urgent escalation, qualified treatment, environmental context, and uncertainty matter more than labels or cure claims. The topic spans social neuroscience, sleep and mental health, perinatal support, chronic and acute care, metabolism and nutrition, exercise and sensory health, disability and animal welfare, climate adaptation, and science governance; interventions remain population-, comparator-, dose-, timing-, endpoint-, goal-, and supervision-dependent. Perinatal mental health adds the same boundary through early screening, practical family support, harm-risk escalation, and shared pregnancy, lactation, medicine, untreated-illness, and feeding decisions. Digestive comfort and food familiarity do not establish disease treatment, just as expectation effects can change symptoms without proving restored function; end-of-life and intensive-care decisions depend on reversibility and stated wishes, elite performance does not establish psychological safety, and social need depends on state, history, contact quality, and translation boundaries. Exercise safety likewise depends on controlled range, preparation, equipment, progression, and current capacity; suspected injury should be protected from secondary damage before repeated testing, while strength and supplements can support selected goals without proving structural repair. Health tools should support adaptable function through safe effort, day-night light contrast, mixed physical capacity, trend-based tracking, proportionate follow-up, and flexible weekly fitness coverage rather than one score, scan, protocol, or rigid calendar. Respiratory illness reflects exposure, entry routes, physical barriers, innate response, adaptive memory, and recovery state, so layered prevention, sleep, manageable exercise, and rest during systemic malaise remain more foundational than supplements, deliberate heat, or microbiome hypotheses. Creative routines, breathing, HRV, light, diet, dream, and unconscious-processing remarks remain practitioner guidance or source-scoped rather than universal health protocols.",
   "topic_id": "science-health-and-climate"
 }

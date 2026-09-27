@@ -23980,3 +23980,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | GUEST SERIES | Dr. Paul Conti: How to Understand & Assess Your Mental Health
+
+Added the opening Huberman Lab mental-health guest-series source note, covering the structure and function of self, context-dependent defenses, salience, internal narratives, agency, gratitude, drive balance, medication limits, and clinically bounded self-inquiry. Extended Paul Conti, the mental-health structure-function map, and generative drive without recording a settled contradiction.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

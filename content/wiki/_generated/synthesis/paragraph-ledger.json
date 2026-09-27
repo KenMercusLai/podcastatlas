@@ -3,7 +3,7 @@
     "assigned_paragraph_ids": [
       "613de235fc1a66cb7709adb21aec428dd3252285c7d000ec7b56e62a6e97e689",
       "9898c41e8e82385c78359cad5a20f5a3d90978bfde6fe83d6e000e11ccf92d30",
-      "442c681dc0a15184ad169143ca53be2731f2fcede83e1ea7d9455034009e4547",
+      "491ae80a85c6b75dad9fdd4b44197c857cbda648ae062464b85faca878c2fefe",
       "37d654d776109bfaa92303a6a746427341e150bd3f094a71a4e02fba2a8c7557",
       "ad5736e38756a4e33b6cdfecc171b6cf7a2700789b7836578e64425b9ef10b72",
       "57f8a02e7e6bd51de03f71ee78111b277aa619da3a70b22d108fd8fbf1771447",
@@ -769,8 +769,8 @@
     ],
     "paragraph_count": 765
   },
-  "overview_commit": "1b73d61c1de75d434f44c7213f58e0811b1260e3",
-  "overview_digest": "e51c239e5c955d9bf1320202d9b7572bd76dd7501f5617cbca0d4193ccbda0d8",
+  "overview_commit": "4ae47c7960231033b793517ffd76c361f7d4c1e4",
+  "overview_digest": "7502fc42e71a86e2164e4c9f0e778f89474352bdb7713edeb43145bee792e4b1",
   "paragraphs": [
     {
       "id": "613de235fc1a66cb7709adb21aec428dd3252285c7d000ec7b56e62a6e97e689",
@@ -819,13 +819,13 @@
       ]
     },
     {
-      "id": "442c681dc0a15184ad169143ca53be2731f2fcede83e1ea7d9455034009e4547",
+      "id": "491ae80a85c6b75dad9fdd4b44197c857cbda648ae062464b85faca878c2fefe",
       "primary_topic": "science-health-and-climate",
       "secondary_topics": [
         "work-education-and-society",
         "psychology-and-personal-development"
       ],
-      "text": "The latest mental-health addition is [[guest-series-dr-paul-conti-tools-and-protocols-for-mental-health-scim2027108733|GUEST SERIES | Dr. Paul Conti: Tools and Protocols for Mental Health]], the fourth and final conversation between [[AndrewHuberman]] and [[PaulConti]] in this series. It adds [[MentalHealthStructureFunctionMap]] while extending [[ReflectiveSelfExploration]], [[CompassionateCuriosity]], [[IntentionalLivingAgency]], and [[GenerativeDrive]]. Its core synthesis is that self-care includes inquiry into both the structure and function of self: life narrative, writing, trusted conversation, therapy, meditation, grounding, and examination of automatic behavior can clarify patterns so empowerment and truthful humility become agency and gratitude, supporting peace, contentment, delight, and generative action. No settled contradiction is recorded; useful inquiry must be distinguished from repetitive rumination, while crisis, instability, escalating guilt or shame, and major trauma may require qualified support. The unconscious, defense, salience, drive, and structure-function explanations remain source-scoped public education rather than diagnostic instruments or individualized care.",
+      "text": "The latest mental-health addition is [[guest-series-dr-paul-conti-how-to-understand-assess-your-mental-health-scim8819389908|GUEST SERIES | Dr. Paul Conti: How to Understand & Assess Your Mental Health]], the opening conversation in [[AndrewHuberman]] and [[PaulConti]]'s four-part series. It establishes the [[MentalHealthStructureFunctionMap]] later episodes apply: structure includes conscious and unconscious processes, defenses, character, and self, while function includes self-awareness, defenses in action, salience, behavior, and strivings. Its core synthesis is that clearer understanding can support empowerment and truthful humility, which become active as agency and gratitude and make peace, contentment, delight, and [[GenerativeDrive]] more available. Defenses and repeated internal narratives are treated as context-dependent patterns that can become more changeable through awareness, repetition, time, and practice. No settled contradiction is recorded; the unconscious-supercomputer, defense, character, salience, repetition, and three-drive explanations remain source-scoped public education rather than diagnostic instruments, and medication may support selected conditions without replacing understanding or individualized care.",
       "topic_scores": {
         "psychology-and-personal-development": 1,
         "science-health-and-climate": 1,
@@ -833,13 +833,10 @@
       },
       "wikilinks": [
         "AndrewHuberman",
-        "CompassionateCuriosity",
         "GenerativeDrive",
-        "IntentionalLivingAgency",
         "MentalHealthStructureFunctionMap",
         "PaulConti",
-        "ReflectiveSelfExploration",
-        "guest-series-dr-paul-conti-tools-and-protocols-for-mental-health-scim2027108733"
+        "guest-series-dr-paul-conti-how-to-understand-assess-your-mental-health-scim8819389908"
       ]
     },
     {

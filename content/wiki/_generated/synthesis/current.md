@@ -4,10 +4,10 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-28
-as_of_overview_commit: 1b73d61c1de75d434f44c7213f58e0811b1260e3
+as_of_overview_commit: 4ae47c7960231033b793517ffd76c361f7d4c1e4
 summary: "Across domains, durable progress depends on evidence, context, human judgment, capable institutions, bounded authority, practical implementation, and feedback."
-episode_count: 2998
-source_count: 2998
+episode_count: 2999
+source_count: 2999
 paragraph_count: 765
 topic_count: 9
 ---

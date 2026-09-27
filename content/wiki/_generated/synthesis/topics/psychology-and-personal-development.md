@@ -4,8 +4,8 @@ generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
 last_updated: 2026-09-28
-as_of_overview_commit: 031e6a36556f5bbe46f04587a3f339560c1ad02e
-input_digest: 3f3aed78b289fbb01c17849a22c1dfcafe86a7d0961fe16303d98f6933e49c4a
+as_of_overview_commit: 4ae47c7960231033b793517ffd76c361f7d4c1e4
+input_digest: 42a84e6e8a5498dfc54698cae4c629f61a8eb06c1e013923ee43b0e1cfbd9259
 ---
 
 # Psychology and Personal Development
@@ -1195,12 +1195,12 @@ The Benjamin Lay paragraph enters psychology-and-personal-development secondaril
 
 ### Self Inquiry Needs Structure Choice And Clinical Boundaries
 
-[[MentalHealthStructureFunctionMap]] joins [[ReflectiveSelfExploration]] and [[CompassionateCuriosity]] to a choice test: life narrative, writing, trusted conversation, therapy, meditation, grounding, and examination of automatic patterns are useful when they produce clearer understanding and [[IntentionalLivingAgency]], while [[GenerativeDrive]] remains a positive outcome rather than a productivity mandate.
+[[MentalHealthStructureFunctionMap]] joins defenses, salience, repeated internal narratives, behavior, and strivings to a choice test: inquiry is useful when clearer understanding supports agency and gratitude, while [[GenerativeDrive]] remains a positive outcome rather than a productivity mandate.
 
-**Evidence:** [[guest-series-dr-paul-conti-tools-and-protocols-for-mental-health-scim2027108733]], [[MentalHealthStructureFunctionMap]], [[ReflectiveSelfExploration]], [[CompassionateCuriosity]], [[IntentionalLivingAgency]], [[GenerativeDrive]]
+**Evidence:** [[guest-series-dr-paul-conti-how-to-understand-assess-your-mental-health-scim8819389908]], [[MentalHealthStructureFunctionMap]], [[GenerativeDrive]]
 
 **Qualifications:**
 
-- Conti's structure-function, unconscious, defense, salience, and drive language is a source-specific public-education framework rather than a validated diagnostic taxonomy.
+- Conti's structure-function, unconscious, defense, salience, character, repetition, and drive language is a source-specific public-education framework rather than a validated diagnostic taxonomy.
 - Memory and introspection are fallible, and inquiry that becomes repetitive rumination or increases guilt and shame may reduce rather than increase agency.
 - Self-harm thoughts, hopelessness, instability, severe symptoms, and major trauma require qualified or urgent support rather than deeper unsupervised inquiry.

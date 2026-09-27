@@ -4,8 +4,8 @@ generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
 last_updated: 2026-09-28
-as_of_overview_commit: 1b73d61c1de75d434f44c7213f58e0811b1260e3
-input_digest: 62a974e61900c20d37542f82a3b8fbe8015506956da5646b96e2736f33803b64
+as_of_overview_commit: 4ae47c7960231033b793517ffd76c361f7d4c1e4
+input_digest: 529ef9fe851d29c8f24985f36af278bf24aaa597f66285976a0336eddfdcfa48
 ---
 
 # Science, Health, and Climate
@@ -956,12 +956,12 @@ Collagen and probiotics increasingly appear in cosmetics, snacks, drinks, and mi
 
 ### Mental Health Self Inquiry Is Supportive Not Diagnostic Care
 
-[[guest-series-dr-paul-conti-tools-and-protocols-for-mental-health-scim2027108733|Conti's guest-series finale]] adds a health-literacy boundary: [[MentalHealthStructureFunctionMap]], [[ReflectiveSelfExploration]], and grounding can help inspect patterns and restore choice, but unconscious, defense, salience, and drive explanations remain source-scoped and [[CompassionateCuriosity]] must not be mistaken for diagnosis or crisis care.
+The Conti series opener adds a health-literacy boundary: [[MentalHealthStructureFunctionMap]] can help inspect defenses, salience, repeated narratives, and behavior to restore choice, but unconscious, character, repetition, and [[GenerativeDrive|drive]] explanations remain source-scoped, and its medication discussion must not be mistaken for diagnosis, prescribing, or crisis care.
 
-**Evidence:** [[guest-series-dr-paul-conti-tools-and-protocols-for-mental-health-scim2027108733]], [[MentalHealthStructureFunctionMap]], [[ReflectiveSelfExploration]], [[CompassionateCuriosity]]
+**Evidence:** [[guest-series-dr-paul-conti-how-to-understand-assess-your-mental-health-scim8819389908]], [[MentalHealthStructureFunctionMap]], [[GenerativeDrive]]
 
 **Qualifications:**
 
-- The episode presents Conti's mental-health map and metaphors as public education, not a validated diagnostic instrument or individualized treatment plan.
+- The series presents Conti's mental-health map and metaphors as public education, not a validated diagnostic instrument or individualized treatment plan.
 - Grounding, journaling, meditation, trusted conversation, and self-inquiry can support orientation without replacing psychotherapy, medication management, crisis assessment, or trauma care.
 - Self-harm thoughts, hopelessness, instability, severe symptoms, and inquiry that compounds guilt or shame require qualified or urgent support.
