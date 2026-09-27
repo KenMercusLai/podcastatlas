@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Curing All Human Diseases & the Future of Health & Technology | Mark Zuckerberg & Dr. Priscilla Chan](sources/curing-all-human-diseases-the-future-of-health-technology-mark-zuckerberg-dr-priscilla-chan-scim6005948638.md) — Huberman Lab interview on CZI's biomedical tool-building, single-cell atlases, virtual cells, Biohubs, social-media design, mixed reality, smart glasses, and creator-controlled AI.
 - [VOL.80整形科｜秃头姐妹不要慌 自救干货帮你忙](sources/vol-80-zhengxingke-tutou-jiemei-buyao-huang-zijiu-ganhuo-bang-ni-mang-li5aqx1zugvobfuifx7hkhyvevox.md) — 这病说来话长 episode on women's hair-loss differential diagnosis, follicle cycles, minoxidil adherence and adverse effects, reproductive caution, and sponsor-linked product claims.
 - [381. Captain Cook: To the Ends of the Earth (Part 2)](sources/381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057.md) — The Rest Is History episode on Cook's Tahiti science mission, Tupia's translation, Māori and Aboriginal encounters, Pacific navigation, coercive first contact, mapping, and British territorial claims.
 - [VOL.81妇科｜通俗点说多囊卵巢、子宫内膜异位到子宫肌瘤到底是怎么回事？](sources/vol-81-fuke-tongsudian-shuo-duonangluanchao-zigongneimoyiweidao-zigongjiliu-daodi-shi-zenmehuishi-lq4attgiawxnqbczgl-ietatygyc.md) — 这病说来话长 episode on benign gynecological findings, PCOS ovulatory dysfunction, endometriosis recurrence, ovarian cysts, fibroid decisions, dysmenorrhea, and cervical terminology.
@@ -2988,6 +2989,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AMA #12: Thoughts on Longevity Supplements (Resveratrol, NR, NMN, Etc.) & How to Improve Memory](sources/ama-12-thoughts-on-longevity-supplements-resveratrol-nr-nmn-etc-how-to-improve-memory-scim5764692205.md) — Huberman Lab premium AMA separating longevity mechanisms and subjective supplement effects from demonstrated human lifespan benefit while prioritizing sleep, exercise, nutrition, light, stress control, and social connection.
 
 ## Entities
+- [Priscilla Chan](entities/PriscillaChan.md) — Physician, educator, and CZI co-founder framing biomedical philanthropy through shared tools, collaboration, and human translation.
+- [Chan Zuckerberg Initiative](entities/ChanZuckerbergInitiative.md) — Philanthropic organization combining grants, open science, software, hardware, data, compute, Biohubs, and patient-led rare-disease capacity.
+- [Chan Zuckerberg Biohub Network](entities/ChanZuckerbergBiohubNetwork.md) — Cross-university research model for focused interdisciplinary biomedical programs.
+- [Cellxgene](entities/Cellxgene.md) — CZI tool for exploring single-cell gene expression across cell types, tissues, and scientific literature.
 - [James Cook](entities/JamesCook.md) — Endeavour commander whose scientific discipline and navigational achievement coexist with coercive encounter, imperial claim, and colonial consequence.
 - [Joseph Banks](entities/JosephBanks.md) — Endeavour naturalist whose curiosity and remorse coexist with interpretive projection, collecting, objectification, and later colonial advocacy.
 - [Tupia](entities/Tupia.md) — Tahitian navigator and translator whose agency and knowledge reshaped Cook's New Zealand encounters.
@@ -14020,6 +14025,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Michael Eisenberg](entities/MichaelEisenberg.md) — Urologist and researcher framing male fertility and sexual function through objective testing, whole-body health, and treatment boundaries.
 
 ## Concepts
+- [Biomedical Research Tool Infrastructure](concepts/BiomedicalResearchToolInfrastructure.md) — Shared measurement, imaging, software, data, compute, and institutional capacity for expanding biomedical discovery.
 - [Hair Loss Diagnostic Triage / 脱发鉴别分诊](concepts/HairLossDiagnosticTriage.md) — Pattern-, trigger-, examination-, and escalation-based framework for separating common causes of women's hair loss before treatment.
 - [First-Contact Non-Interference](concepts/FirstContactNonInterference.md) — Ethical aspiration destabilized when bodies, goods, disease, translation, incentives, and force enter an encounter.
 - [Scientific Exploration and Imperial Claim](concepts/ScientificExplorationImperialClaim.md) — Institutional pairing of astronomy, natural history, navigation, mapping, strategic rivalry, and territorial possession.

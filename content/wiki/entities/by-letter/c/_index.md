@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 11016
+wiki_total_pages: 11020
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -386,6 +386,9 @@ wiki_pages:
   - key: "CecilyFarr"
     title: "Cecily Farr / 西西莉·法尔"
     url: "/wiki/entities/cecilyfarr/"
+  - key: "Cellxgene"
+    title: "Cellxgene"
+    url: "/wiki/entities/cellxgene/"
   - key: "CelsiusHoldings"
     title: "Celsius Holdings"
     url: "/wiki/entities/celsiusholdings/"
@@ -464,6 +467,12 @@ wiki_pages:
   - key: "ChampDeMarsMassacre"
     title: "Champ de Mars Massacre"
     url: "/wiki/entities/champdemarsmassacre/"
+  - key: "ChanZuckerbergBiohubNetwork"
+    title: "Chan Zuckerberg Biohub Network"
+    url: "/wiki/entities/chanzuckerbergbiohubnetwork/"
+  - key: "ChanZuckerbergInitiative"
+    title: "Chan Zuckerberg Initiative"
+    url: "/wiki/entities/chanzuckerberginitiative/"
   - key: "ChanceWeldon"
     title: "Chance Weldon"
     url: "/wiki/entities/chanceweldon/"

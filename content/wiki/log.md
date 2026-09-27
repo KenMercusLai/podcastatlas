@@ -23694,3 +23694,11 @@ Added source `vol-80-zhengxingke-tutou-jiemei-buyao-huang-zijiu-ganhuo-bang-ni-m
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | Curing All Human Diseases & the Future of Health & Technology | Mark Zuckerberg & Dr. Priscilla Chan
+
+Added source `curing-all-human-diseases-the-future-of-health-technology-mark-zuckerberg-dr-priscilla-chan-scim6005948638`; created `PriscillaChan`, `ChanZuckerbergInitiative`, `ChanZuckerbergBiohubNetwork`, `Cellxgene`, and `BiomedicalResearchToolInfrastructure`; and updated `MarkZuckerberg`, `SingleCellRNASequencing`, `VirtualCellWorldModel`, `MixedReality`, and the canonical index from their complete bounded source sets. Core synthesis: CZI treats grants, open dissemination, single-cell atlases, software, imaging, compute, and Biohubs as shared research infrastructure, while virtual-cell models remain hypothesis and experiment-prioritization tools whose claims require biological and human validation. The episode also frames social media, mixed reality, smart glasses, and creator AI as design-dependent technologies shaped by connection quality, user controls, physical engagement, privacy, and authorization. No settled contradiction found. Mission scale, atlas completeness, product safety, training effects, privacy adequacy, and future-interface adoption remain source-scoped founder claims. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -9799,6 +9799,10 @@
     "title": "Biomedical Deep Learning",
     "url": "/wiki/concepts/biomedicaldeeplearning/"
   },
+  "BiomedicalResearchToolInfrastructure": {
+    "title": "Biomedical Research Tool Infrastructure",
+    "url": "/wiki/concepts/biomedicalresearchtoolinfrastructure/"
+  },
   "BiophilicDesign": {
     "title": "Biophilic Design",
     "url": "/wiki/concepts/biophilicdesign/"
@@ -12611,6 +12615,10 @@
     "title": "Cellular-Satellite Complementarity",
     "url": "/wiki/concepts/cellularsatellitecomplementarity/"
   },
+  "Cellxgene": {
+    "title": "Cellxgene",
+    "url": "/wiki/entities/cellxgene/"
+  },
   "CelsiusHoldings": {
     "title": "Celsius Holdings",
     "url": "/wiki/entities/celsiusholdings/"
@@ -12794,6 +12802,14 @@
   "ChanDrama": {
     "title": "《蝉》 / Chan",
     "url": "/wiki/entities/chandrama/"
+  },
+  "ChanZuckerbergBiohubNetwork": {
+    "title": "Chan Zuckerberg Biohub Network",
+    "url": "/wiki/entities/chanzuckerbergbiohubnetwork/"
+  },
+  "ChanZuckerbergInitiative": {
+    "title": "Chan Zuckerberg Initiative",
+    "url": "/wiki/entities/chanzuckerberginitiative/"
   },
   "ChanceWeldon": {
     "title": "Chance Weldon",
@@ -54847,6 +54863,10 @@
     "title": "Pripyat",
     "url": "/wiki/entities/pripyat/"
   },
+  "PriscillaChan": {
+    "title": "Priscilla Chan",
+    "url": "/wiki/entities/priscillachan/"
+  },
   "PrisonInstitutionalizationAfterLongIncarceration": {
     "title": "Prison Institutionalization After Long Incarceration",
     "url": "/wiki/concepts/prisoninstitutionalizationafterlongincarceration/"
@@ -80710,6 +80730,10 @@
   "cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1": {
     "title": "存储三巨头破万亿市值，存储超级周期何时能见顶？｜ S10E13",
     "url": "/wiki/sources/cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1/"
+  },
+  "curing-all-human-diseases-the-future-of-health-technology-mark-zuckerberg-dr-priscilla-chan-scim6005948638": {
+    "title": "Curing All Human Diseases & the Future of Health & Technology | Mark Zuckerberg & Dr. Priscilla Chan",
+    "url": "/wiki/sources/curing-all-human-diseases-the-future-of-health-technology-mark-zuckerberg-dr-priscilla-chan-scim6005948638/"
   },
   "currency-chaos-in-argentina-summer-school": {
     "title": "Currency Chaos in Argentina (Summer School)",

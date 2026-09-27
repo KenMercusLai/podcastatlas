@@ -16888,6 +16888,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/concepts/biologicalrationalitymismatch/"
     },
+    "BiomedicalResearchToolInfrastructure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6005948638 [SCIM6005948638].md",
+          "key": "curing-all-human-diseases-the-future-of-health-technology-mark-zuckerberg-dr-priscilla-chan-scim6005948638",
+          "show": "Huberman Lab",
+          "title": "Curing All Human Diseases & the Future of Health & Technology | Mark Zuckerberg & Dr. Priscilla Chan",
+          "url": "/wiki/sources/curing-all-human-diseases-the-future-of-health-technology-mark-zuckerberg-dr-priscilla-chan-scim6005948638/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/biomedicalresearchtoolinfrastructure/"
+    },
     "BioregulatorPeptides": {
       "episode_count": 2,
       "show_count": 1,
@@ -23032,6 +23048,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/concepts/cellularsatellitecomplementarity/"
     },
+    "Cellxgene": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6005948638 [SCIM6005948638].md",
+          "key": "curing-all-human-diseases-the-future-of-health-technology-mark-zuckerberg-dr-priscilla-chan-scim6005948638",
+          "show": "Huberman Lab",
+          "title": "Curing All Human Diseases & the Future of Health & Technology | Mark Zuckerberg & Dr. Priscilla Chan",
+          "url": "/wiki/sources/curing-all-human-diseases-the-future-of-health-technology-mark-zuckerberg-dr-priscilla-chan-scim6005948638/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/cellxgene/"
+    },
     "CenPengEasternHan": {
       "episode_count": 7,
       "show_count": 1,
@@ -23434,6 +23466,38 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/chandrama/"
+    },
+    "ChanZuckerbergBiohubNetwork": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6005948638 [SCIM6005948638].md",
+          "key": "curing-all-human-diseases-the-future-of-health-technology-mark-zuckerberg-dr-priscilla-chan-scim6005948638",
+          "show": "Huberman Lab",
+          "title": "Curing All Human Diseases & the Future of Health & Technology | Mark Zuckerberg & Dr. Priscilla Chan",
+          "url": "/wiki/sources/curing-all-human-diseases-the-future-of-health-technology-mark-zuckerberg-dr-priscilla-chan-scim6005948638/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/chanzuckerbergbiohubnetwork/"
+    },
+    "ChanZuckerbergInitiative": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6005948638 [SCIM6005948638].md",
+          "key": "curing-all-human-diseases-the-future-of-health-technology-mark-zuckerberg-dr-priscilla-chan-scim6005948638",
+          "show": "Huberman Lab",
+          "title": "Curing All Human Diseases & the Future of Health & Technology | Mark Zuckerberg & Dr. Priscilla Chan",
+          "url": "/wiki/sources/curing-all-human-diseases-the-future-of-health-technology-mark-zuckerberg-dr-priscilla-chan-scim6005948638/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/chanzuckerberginitiative/"
     },
     "ChangHuiWesternHan": {
       "episode_count": 5,
@@ -100022,6 +100086,78 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/markstiltner/"
     },
+    "MarkZuckerberg": {
+      "episode_count": 9,
+      "show_count": 5,
+      "source_note_count": 9,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback [42442555].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source？, Trump Accounts [42041390].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source?, Trump Accounts",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390/"
+        },
+        {
+          "episode_file": "tech_20260807_0807_MP_TECH_pod_128 [tech_20260807_0807_MP_TECH_pod_128].md",
+          "key": "tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Gig workers train humanoids on household chores",
+          "url": "/wiki/sources/tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260422_0422_MP_TECH_pod_128 [tech_20260422_0422_MP_TECH_pod_128].md",
+          "key": "tech-20260422-0422-mp-tech-pod-128-tech-20260422-0422-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "When do tech companies need to be consistently profitable?",
+          "url": "/wiki/sources/tech-20260422-0422-mp-tech-pod-128-tech-20260422-0422-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260710_TECH_pod_128 [tech_20260710_TECH_pod_128].md",
+          "key": "tech-20260710-tech-pod-128-tech-20260710-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "OpenAI's GPT-5.6 release raises questions about White House control over new models",
+          "url": "/wiki/sources/tech-20260710-tech-pod-128-tech-20260710-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260219_0219_MP_TECH_pod_128 [tech_20260219_0219_MP_TECH_pod_128].md",
+          "key": "tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Meta's big bet on superintelligence",
+          "url": "/wiki/sources/tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "TSR-RonConway-Part4-v2 [TSR-RonConway-Part4-v2].md",
+          "key": "tsr-ronconway-part4-v2-tsr-ronconway-part4-v2",
+          "show": "The Social Radars",
+          "title": "Ron Conway on Napster, Founder Relationships, and SV Angel's Crisis Work",
+          "url": "/wiki/sources/tsr-ronconway-part4-v2-tsr-ronconway-part4-v2/"
+        },
+        {
+          "episode_file": "E226｜聊聊DeepMind创始人哈萨比斯：一个科学家与失控的AI竞赛 [7abda28b-99c6-4ebc-8c0d-37bcc77f6a73].md",
+          "key": "e226-liaoliao-deepmind-chuangshiren-hasabisi-yige-kexuejia-yu-shikong-de-ai-jingsai-7abda28b-99c6-4ebc-8c0d-37bcc77f6a73",
+          "show": "硅谷101",
+          "title": "E226｜聊聊DeepMind创始人哈萨比斯：一个科学家与失控的AI竞赛",
+          "url": "/wiki/sources/e226-liaoliao-deepmind-chuangshiren-hasabisi-yige-kexuejia-yu-shikong-de-ai-jingsai-7abda28b-99c6-4ebc-8c0d-37bcc77f6a73/"
+        },
+        {
+          "episode_file": "SCIM6005948638 [SCIM6005948638].md",
+          "key": "curing-all-human-diseases-the-future-of-health-technology-mark-zuckerberg-dr-priscilla-chan-scim6005948638",
+          "show": "Huberman Lab",
+          "title": "Curing All Human Diseases & the Future of Health & Technology | Mark Zuckerberg & Dr. Priscilla Chan",
+          "url": "/wiki/sources/curing-all-human-diseases-the-future-of-health-technology-mark-zuckerberg-dr-priscilla-chan-scim6005948638/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/markzuckerberg/"
+    },
     "MarkedownApp": {
       "episode_count": 1,
       "show_count": 1,
@@ -104568,9 +104704,9 @@
       "url": "/wiki/entities/miumiu/"
     },
     "MixedReality": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GKwRIDoN6uwMAooZSQSet9vd [GKwRIDoN6uwMAooZSQSet9vd].md",
@@ -104578,9 +104714,16 @@
           "show": "三五环",
           "title": "No.221 雷鸟 CEO：新技术越来越多，我们为什么还需要一副智能眼镜？",
           "url": "/wiki/sources/no-221-leiniao-ceo-xinjishu-yuelaiyueduo-women-weishenme-hai-xuyao-yifu-zhineng-yanjing-gkwridon6uwmaoosszqset9vd/"
+        },
+        {
+          "episode_file": "SCIM6005948638 [SCIM6005948638].md",
+          "key": "curing-all-human-diseases-the-future-of-health-technology-mark-zuckerberg-dr-priscilla-chan-scim6005948638",
+          "show": "Huberman Lab",
+          "title": "Curing All Human Diseases & the Future of Health & Technology | Mark Zuckerberg & Dr. Priscilla Chan",
+          "url": "/wiki/sources/curing-all-human-diseases-the-future-of-health-technology-mark-zuckerberg-dr-priscilla-chan-scim6005948638/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/mixedreality/"
     },
     "Mobike": {
@@ -120954,6 +121097,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/principledworkplacenonalignment/"
     },
+    "PriscillaChan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6005948638 [SCIM6005948638].md",
+          "key": "curing-all-human-diseases-the-future-of-health-technology-mark-zuckerberg-dr-priscilla-chan-scim6005948638",
+          "show": "Huberman Lab",
+          "title": "Curing All Human Diseases & the Future of Health & Technology | Mark Zuckerberg & Dr. Priscilla Chan",
+          "url": "/wiki/sources/curing-all-human-diseases-the-future-of-health-technology-mark-zuckerberg-dr-priscilla-chan-scim6005948638/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/priscillachan/"
+    },
     "PrisonInstitutionalizationAfterLongIncarceration": {
       "episode_count": 1,
       "show_count": 1,
@@ -137253,6 +137412,29 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/singleauthorinstitutionalcodification/"
+    },
+    "SingleCellRNASequencing": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "965A022265C6C461D9BB2BB98171C1A8~8584438_2026-08-10-210438-8787-0-0-10.128 [965A022265C6C461D9BB2BB98171C1A8~8584438_2026-08-10-210438-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a83842b].md",
+          "key": "ep-8-implementation-of-ai-in-scientific-research",
+          "show": "Data Science With Sam",
+          "title": "EP 8: Implementation of AI in scientific research",
+          "url": "/wiki/sources/ep-8-implementation-of-ai-in-scientific-research/"
+        },
+        {
+          "episode_file": "SCIM6005948638 [SCIM6005948638].md",
+          "key": "curing-all-human-diseases-the-future-of-health-technology-mark-zuckerberg-dr-priscilla-chan-scim6005948638",
+          "show": "Huberman Lab",
+          "title": "Curing All Human Diseases & the Future of Health & Technology | Mark Zuckerberg & Dr. Priscilla Chan",
+          "url": "/wiki/sources/curing-all-human-diseases-the-future-of-health-technology-mark-zuckerberg-dr-priscilla-chan-scim6005948638/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/singlecellrnasequencing/"
     },
     "SingleStockLeveragedETF": {
       "episode_count": 3,
@@ -155101,9 +155283,9 @@
       "url": "/wiki/concepts/viralproducttobrandtransition/"
     },
     "VirtualCellWorldModel": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "AI for Science 爆发：AI 能解锁伟大的科学发现吗？ ｜ S10E29 [b59d5e79-65af-4a1a-ac50-b54e665474ad].md",
@@ -155111,9 +155293,16 @@
           "show": "What's Next｜科技早知道",
           "title": "AI for Science 爆发：AI 能解锁伟大的科学发现吗？ | S10E29",
           "url": "/wiki/sources/ai-for-science-baofa-ai-neng-jiesuo-weidade-kexuefaxianma-s10e29-b59d5e79-65af-4a1a-ac50-b54e665474ad/"
+        },
+        {
+          "episode_file": "SCIM6005948638 [SCIM6005948638].md",
+          "key": "curing-all-human-diseases-the-future-of-health-technology-mark-zuckerberg-dr-priscilla-chan-scim6005948638",
+          "show": "Huberman Lab",
+          "title": "Curing All Human Diseases & the Future of Health & Technology | Mark Zuckerberg & Dr. Priscilla Chan",
+          "url": "/wiki/sources/curing-all-human-diseases-the-future-of-health-technology-mark-zuckerberg-dr-priscilla-chan-scim6005948638/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/virtualcellworldmodel/"
     },
     "VirtualReality": {
