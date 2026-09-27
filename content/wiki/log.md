@@ -24004,3 +24004,11 @@ Added source `365-le-marquis-de-sade-sex-and-violence-glt8871465113`; created `M
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | VOL.70精神科｜又失眠了？真的可治愈！三甲精神科医生给你睡眠支招
+
+Added source `vol-70-jingshenke-you-shimian-le-zhende-ke-zhiyu-sanjia-jingshenke-yisheng-gei-ni-shuimian-zhizhao-lkfpagwnhiqlhyyz71xwefocyhf0`; updated `SleepAnxietyLoop`, `ChronicInsomniaRecognitionAndTreatment`, `MultidisciplinarySleepCare`, and the canonical index from their complete bounded source sets. Core synthesis: insomnia includes initiation, maintenance, early-waking, and restorative-quality problems; functional impact and biological, psychological, social, environmental, neurological, and psychiatric context should guide assessment; polysomnography and consumer stage estimates have different roles; and rigid targets can turn delayed sleep into an arousal loop. No settled contradiction found. The episode's informal early-wake adjustment is not treated as a complete or automatically safe CBT-I protocol, while its 90-minute-cycle, melatonin, alcohol, lavender, pregnancy, dementia, medication, and psychodynamic claims remain source-scoped public education. The guest is identified only as 崔老师, and the automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

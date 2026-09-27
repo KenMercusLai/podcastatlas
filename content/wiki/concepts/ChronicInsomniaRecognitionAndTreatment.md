@@ -5,7 +5,8 @@ tags: [sleep, insomnia, healthcare, behavioral-treatment, medical-literacy]
 sources:
   - vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng-bu-chiyao-lvn_cutp5uob9zeosq-wiv3c4zot
   - guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663
-last_updated: 2026-09-23
+  - vol-70-jingshenke-you-shimian-le-zhende-ke-zhiyu-sanjia-jingshenke-yisheng-gei-ni-shuimian-zhizhao-lkfpagwnhiqlhyyz71xwefocyhf0
+last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,6 +22,8 @@ The treatment hierarchy begins with the pattern sustaining the problem. Stable w
 
 The Walker episode adds two concrete CBT-I components. Stimulus control asks a person who remains awake in bed to move to a dim, calm setting and return only when sleepy, rebuilding the bed as a cue for sleep rather than wakeful frustration. Bedtime rescheduling—formerly called sleep restriction—holds wake time stable while temporarily delaying bedtime to consolidate sleep, then expands the window gradually. Its effectiveness does not make it a casual self-experiment: increased sleepiness creates driving and machinery risks, and clinical context matters.
 
+The psychiatric sleep episode broadens assessment beyond the night itself. Sleep-onset difficulty, repeated waking, early waking, and unrefreshing sleep should be interpreted beside stress, environment, circadian regularity, mood, appetite, movement, relationships, neurological symptoms, substances, and medication. Polysomnography may help when physiology or another sleep disorder needs characterization, while consumer devices remain indirect estimates. Shared decisions can include behavioral care, psychological treatment, or medication, but the episode's informal suggestion to enforce early waking after late sleep is not a complete or automatically safe CBT-I protocol.
+
 ## Key Claims
 - Chronic insomnia is defined by the combination of a recurring nighttime complaint, persistence, adequate sleep opportunity, and meaningful daytime impairment rather than by one short night or one universal duration target.
 - Sleep diaries organize timing, awakenings, duration, and sleep efficiency across several days and can guide assessment better than isolated memory or device data.
@@ -28,7 +31,7 @@ The Walker episode adds two concrete CBT-I components. Stimulus control asks a p
 - Bedtime rescheduling can consolidate sleep by temporarily reducing time in bed while holding wake time stable, then gradually expanding the sleep opportunity.
 - Relaxation tools can lower pre-sleep arousal, but their usefulness depends on fit and repetition rather than one guaranteed technique.
 - Sedative medication can produce tolerance, physiologic dependence, and psychological reliance, so changes should be supervised rather than abrupt or improvised.
-- Snoring with pauses, uncomfortable legs, dream enactment, or irresistible daytime sleep should redirect assessment toward other sleep disorders.
+- Polysomnography can clarify selected physiological patterns, but consumer stage estimates do not carry the same diagnostic role; snoring with pauses, uncomfortable legs, dream enactment, irresistible daytime sleep, neurological symptoms, or marked mood change should redirect assessment toward other disorders or multidisciplinary care.
 
 ## Evidence
 - Recognition criteria - [[vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng-bu-chiyao-lvn_cutp5uob9zeosq-wiv3c4zot]] links difficulty falling asleep, returning to sleep, or waking too early with recurrence, persistence, daytime dysfunction, and adequate sleep opportunity.
@@ -38,14 +41,16 @@ The Walker episode adds two concrete CBT-I components. Stimulus control asks a p
 - Differential diagnosis - [[vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng-bu-chiyao-lvn_cutp5uob9zeosq-wiv3c4zot]] distinguishes insomnia from sleep apnea, restless legs syndrome, REM sleep behavior disorder, benign sleep-start jerks, and narcolepsy.
 - Stimulus control - [[guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663]] recommends leaving bed during prolonged wakefulness, using dim calm activity, and returning only when sleepy.
 - Bedtime rescheduling - [[guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663]] describes a stable wake time, temporarily delayed bedtime, gradual expansion, and safety supervision.
+- Symptom and context expansion - [[vol-70-jingshenke-you-shimian-le-zhende-ke-zhiyu-sanjia-jingshenke-yisheng-gei-ni-shuimian-zhizhao-lkfpagwnhiqlhyyz71xwefocyhf0]] includes sleep-onset difficulty, repeated waking, early waking, and unrefreshing sleep while assessing stress, environment, mood, routine, relationships, and neurological factors.
+- Measurement and shared care - [[vol-70-jingshenke-you-shimian-le-zhende-ke-zhiyu-sanjia-jingshenke-yisheng-gei-ni-shuimian-zhizhao-lkfpagwnhiqlhyyz71xwefocyhf0]] distinguishes polysomnography from indirect wearable estimates and frames medication or psychological care as individualized clinician-patient decisions.
 
 ## Counterevidence & Qualifications
-The sources are public medical education, not a diagnostic interview, treatment protocol, or medication-taper plan. Exact thresholds, stimulus-control timing, sleep-window calculations, and treatment duration require current clinical criteria and individual context. Bedtime rescheduling can increase sleepiness and may be unsafe without supervision for drivers, machinery operators, people at fall risk, or people with relevant medical or psychiatric conditions. Daytime fatigue, poor attention, early waking, snoring, limb symptoms, nightmares, and sleepiness have multiple possible causes, while cognitive behavioral therapy access and response vary.
+The sources are public medical education, not a diagnostic interview, treatment protocol, or medication-taper plan. Exact thresholds, stimulus-control timing, sleep-window calculations, and treatment duration require current clinical criteria and individual context. Bedtime rescheduling can increase sleepiness and may be unsafe without supervision for drivers, machinery operators, people at fall risk, pregnant people, or people with relevant medical, neurological, or psychiatric conditions. The new episode's “破坏性开采” early-wake suggestion omits the full structure and screening of CBT-I and should not be treated as a stand-alone prescription. Daytime fatigue, poor attention, early waking, snoring, limb symptoms, nightmares, and sleepiness have multiple possible causes, while cognitive behavioral therapy access and response vary.
 
 ## What Changed
-- Added stimulus control as a method for relearning the bed as a sleep cue.
-- Added bedtime rescheduling as a structured CBT-I component rather than a generic instruction to sleep less.
-- Added driving, machinery, fall, and clinical-supervision boundaries for deliberately compressing time in bed.
+- Expanded the symptom model to include unrefreshing sleep and the biological, psychological, social, environmental, and neurological context.
+- Added the measurement boundary between polysomnography and indirect consumer-device stage estimates.
+- Clarified that enforcing an early wake time alone is not a complete or automatically safe CBT-I protocol.
 
 ## Related Concepts
 - [[SleepAnxietyLoop]] - sleep-performance worry that can sustain or intensify insomnia.

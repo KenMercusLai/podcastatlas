@@ -3028,6 +3028,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [372. The Birth of British Fascism](sources/372-the-birth-of-british-fascism-glt4747738645.md) — The Rest Is History episode on Britain's domestic fascist ingredients, early organizations, parliamentary resilience, and the leadership gap before Mosley.
 - [AI Trading —— 决策便宜，行动很贵｜对谈超 3w Star Vibe-Trading 作者浩哲](sources/ai-trading-juece-pianyi-xingdong-hengui-duitan-chao-3w-star-vibe-trading-zuozhe-haozhe-luz0eizpk9v3nz94iuutp1z9xj25.md) — 42章经 conversation on Vibe Trading, auditable AI investment research, financial data alignment, point-in-time validation, calibrated probabilities, and bounded human-controlled execution.
 
+- [VOL.70精神科｜又失眠了？真的可治愈！三甲精神科医生给你睡眠支招](sources/vol-70-jingshenke-you-shimian-le-zhende-ke-zhiyu-sanjia-jingshenke-yisheng-gei-ni-shuimian-zhizhao-lkfpagwnhiqlhyyz71xwefocyhf0.md) — 这病说来话长 episode on insomnia recognition, sleep-anxiety feedback, clinical measurement, individualized treatment, and cause-directed sleep care.
+
 ## Entities
 - [Deng Xiaoping](entities/DengXiaoping.md) — Revolutionary leader who joined pragmatic market opening to uncompromising Communist Party rule.
 - [Zhao Ziyang](entities/ZhaoZiyang.md) — Reform-era leader whose economic and limited political liberalization ended with his 1989 removal.

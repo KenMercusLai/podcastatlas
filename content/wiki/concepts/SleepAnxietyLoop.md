@@ -9,7 +9,8 @@ sources:
   - guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951
   - guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory-scim9549338704
   - guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663
-last_updated: 2026-09-26
+  - vol-70-jingshenke-you-shimian-le-zhende-ke-zhiyu-sanjia-jingshenke-yisheng-gei-ni-shuimian-zhizhao-lkfpagwnhiqlhyyz71xwefocyhf0
+last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
 
@@ -29,6 +30,8 @@ The learning episode names the tracker-focused form as orthosomnia. Belief about
 
 The protocols episode adds anticipatory and compensatory forms of the same loop. Visible clocks turn a waking into a calculation about lost sleep, while phones can carry expected messages, alarms, or stressful information into the bedroom. After a poor night, sleeping in, moving bedtime earlier, adding caffeine, or napping can become effortful attempts to force recovery that weaken the next night's timing or sleep pressure. A detailed familiar mental walk can redirect attention, but it remains a de-arousal technique rather than a cure for persistent insomnia.
 
+The psychiatric sleep episode makes the loop explicit at sleep onset: once a personally normal latency passes, the thought that sleep is failing can trigger stress arousal and further delay sleep. It also joins tracker caution to a broader functional test—restoration, routine, mood, relationships, and daytime life—while offering slow breathing, body scanning, or a deliberately simple word-and-image anchor as bounded attention shifts. These tools may reduce arousal; they do not show that persistent insomnia, limb symptoms, neurological disease, or dementia-related waking is caused by worry.
+
 ## Key Claims
 - Sleep advice can backfire when a flexible health range becomes an exact performance demand.
 - Device data can reassure some users while intensifying vigilance, repeated checking, or parental fear in others.
@@ -36,7 +39,7 @@ The protocols episode adds anticipatory and compensatory forms of the same loop.
 - Multi-day patterns can support reflection, but a single bad night or score should not define sleep quality by itself.
 - Clock-checking, phone anticipation, and effortful compensation through sleeping in, naps, caffeine, or early bedtime can extend vigilance and performance pressure beyond the waking itself.
 - Orthosomnia can convert optimization and tracker feedback into a source of sleep disruption or reduced performance confidence.
-- Reducing metric pressure does not rule out chronic insomnia, breathing disorders, or other conditions that need clinical evaluation.
+- Catastrophic interpretation of a longer-than-usual sleep onset can convert ordinary delay into physiological arousal, while breathing, body scanning, or a simple attention anchor may interrupt the escalation for some people; reducing metric pressure does not rule out conditions that need clinical evaluation.
 
 ## Evidence
 - Adult duration anxiety - [[the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f]] treats population sleep ranges as broad guidance and warns that worrying about one exact number can itself cause lost sleep.
@@ -48,14 +51,16 @@ The protocols episode adds anticipatory and compensatory forms of the same loop.
 - Orthosomnia and feedback timing - [[guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory-scim9549338704]] recommends periodic rather than compulsive tracker review and describes withholding daily athlete feedback when it may erode confidence.
 - Anticipation and compensation - [[guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663]] connects visible clocks, phone expectation, post-bad-night compensation, and sleep pressure with ongoing arousal.
 - Familiar mental walk - [[guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663]] describes detailed familiar-route imagery as more useful than counting sheep for moving attention away from self-focused rumination.
+- Sleep-onset interpretation and de-arousal - [[vol-70-jingshenke-you-shimian-le-zhende-ke-zhiyu-sanjia-jingshenke-yisheng-gei-ni-shuimian-zhizhao-lkfpagwnhiqlhyyz71xwefocyhf0]] connects a catastrophic thought after longer-than-usual sleep latency with stress arousal and offers slow breathing, body scanning, or a simple imagery-and-word anchor as possible attention shifts.
+- Functional and device boundary - [[vol-70-jingshenke-you-shimian-le-zhende-ke-zhiyu-sanjia-jingshenke-yisheng-gei-ni-shuimian-zhizhao-lkfpagwnhiqlhyyz71xwefocyhf0]] prioritizes waking restoration and wider life context over an exact eight-hour, 90-minute-cycle, or consumer deep-sleep target.
 
 ## Counterevidence & Qualifications
-Sleep worry is not an explanation for every sleep complaint. Persistent difficulty, daytime impairment, witnessed breathing pauses, recurrent dream enactment, uncomfortable legs, irresistible daytime sleep, medication effects, menopause symptoms, or circadian change can require medical assessment. Belief effects, athlete-feedback practice, clock and phone removal, conditioning, and attention-shifting tools are source-scoped and are not substitutes for CBT-I or sleep-medicine evaluation.
+Sleep worry is not an explanation for every sleep complaint. Persistent difficulty, daytime impairment, witnessed breathing pauses, recurrent dream enactment, uncomfortable legs, irresistible daytime sleep, medication effects, menopause symptoms, dementia, neurological disease, or circadian change can require medical assessment. Belief effects, athlete-feedback practice, clock and phone removal, conditioning, breathing, body scans, and attention-shifting tools are source-scoped and are not substitutes for CBT-I or sleep-medicine evaluation.
 
 ## What Changed
-- Added anticipatory phone anxiety and visible-clock calculation to the nighttime vigilance branch.
-- Added post-bad-night compensation as a daytime continuation of the performance loop.
-- Added the familiar mental walk as a bounded attention-shifting technique.
+- Added catastrophic interpretation of delayed sleep onset as a direct arousal pathway.
+- Broadened the functional counterweight to rigid targets from sleep metrics to restoration and wider life context.
+- Added breathing, body scanning, and a simple imagery-and-word anchor as bounded de-arousal tools.
 
 ## Related Concepts
 - [[ChronicInsomniaRecognitionAndTreatment]] - clinical pathway for persistent symptoms and daytime impairment.
