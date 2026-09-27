@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "u"
-wiki_total_pages: 8407
+wiki_total_pages: 8411
 wiki_pages:
   - key: "US2025ExpectationGaps"
     title: "U.S. 2025 Expectation Gaps"
@@ -287,6 +287,9 @@ wiki_pages:
   - key: "UserPoweredContentPlatform"
     title: "User-Powered Content Platform"
     url: "/wiki/concepts/userpoweredcontentplatform/"
+  - key: "UterineFibroidTreatmentDecision"
+    title: "Uterine Fibroid Treatment Decision / 子宫肌瘤治疗决策"
+    url: "/wiki/concepts/uterinefibroidtreatmentdecision/"
   - key: "UVExposureSkinProtection"
     title: "UV Exposure and Skin Protection"
     url: "/wiki/concepts/uvexposureskinprotection/"

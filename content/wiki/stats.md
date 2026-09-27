@@ -11,22 +11,22 @@ outputs: ["html"]
 
 ## Pages
 - Overview: 1
-- Concepts: 8407
+- Concepts: 8411
 - Entities: 11009
-- Sources: 2959
-- Total wiki content pages: 22376
+- Sources: 2960
+- Total wiki content pages: 22381
 
 ## Links
-- Wiki link references: 562716
-- Unique wiki link targets: 22380
+- Wiki link references: 562775
+- Unique wiki link targets: 22385
 - Missing targets: 6
 - Exact duplicate keys: 0
 - Case-insensitive key collisions: 0
 - Public route collisions: 0
 
 ## Source Episodes
-- Source pages: 2959
-- Matched episodes: 2959
+- Source pages: 2960
+- Matched episodes: 2960
 - Missing source_file: 0
 - Unmatched source_file: 0
 

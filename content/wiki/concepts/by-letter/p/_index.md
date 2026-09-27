@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8407
+wiki_total_pages: 8411
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -308,6 +308,9 @@ wiki_pages:
   - key: "PCOSCardiometabolicRisk"
     title: "PCOS Cardiometabolic Risk"
     url: "/wiki/concepts/pcoscardiometabolicrisk/"
+  - key: "PCOSOvulatoryDysfunction"
+    title: "PCOS Ovulatory Dysfunction / 多囊卵巢综合征排卵障碍"
+    url: "/wiki/concepts/pcosovulatorydysfunction/"
   - key: "PD1MarketSaturation"
     title: "PD-1 Market Saturation"
     url: "/wiki/concepts/pd1marketsaturation/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.81妇科｜通俗点说多囊卵巢、子宫内膜异位到子宫肌瘤到底是怎么回事？](sources/vol-81-fuke-tongsudian-shuo-duonangluanchao-zigongneimoyiweidao-zigongjiliu-daodi-shi-zenmehuishi-lq4attgiawxnqbczgl-ietatygyc.md) — 这病说来话长 episode on benign gynecological findings, PCOS ovulatory dysfunction, endometriosis recurrence, ovarian cysts, fibroid decisions, dysmenorrhea, and cervical terminology.
 - [382. Young Napoleon: Teenage Revolutionary (Part 1)](sources/382-young-napoleon-teenage-revolutionary-part-1-glt6500252244.md) — The Rest Is History episode on Napoleon's Corsican formation, outsider schooling, Paoli devotion, revolutionary dual loyalty, and emerging preference for disciplined authority.
 - [Mental Health Toolkit: Tools to Bolster Your Mood & Mental Health](sources/mental-health-toolkit-tools-to-bolster-your-mood-mental-health-scim1991900083.md) — Huberman Lab solo episode on six biological foundations, physiological sighing, emotional granularity, reflective self-exploration, generative drive, and clinical boundaries.
 - [VOL.82妇科｜住酒店、洗牙易患性病？女生感染HPV后男生应做什么？](sources/vol-82-fuke-zhu-jiudian-xiya-yi-huan-xingbing-nvsheng-ganran-hpv-hou-nansheng-ying-zuo-shenme-lgihsbqu9wldxyrjfomxghqtjqdg.md) — 这病说来话长 episode on vulvar symptom triage, indirect STI exposure risk, hotel hygiene, HPV prevention, partner responsibility, vaccination, screening, and follow-up.
@@ -14010,6 +14011,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Michael Eisenberg](entities/MichaelEisenberg.md) — Urologist and researcher framing male fertility and sexual function through objective testing, whole-body health, and treatment boundaries.
 
 ## Concepts
+- [Benign Gynecological Finding Triage / 妇科良性发现分诊](concepts/BenignGynecologicalFindingTriage.md) — Cycle-, persistence-, symptom-, fertility-, and risk-sensitive interpretation of common gynecological report findings.
+- [PCOS Ovulatory Dysfunction / 多囊卵巢综合征排卵障碍](concepts/PCOSOvulatoryDysfunction.md) — Ovulation-centered explanation distinguishing PCOS follicular morphology from ordinary ovarian cysts.
+- [Endometriosis Recurrence Management / 子宫内膜异位症复发管理](concepts/EndometriosisRecurrenceManagement.md) — Long-term framework balancing symptoms, fertility, medication, intervention, and recurrence burden.
+- [Uterine Fibroid Treatment Decision / 子宫肌瘤治疗决策](concepts/UterineFibroidTreatmentDecision.md) — Location-, symptom-, fertility-, uterine-preservation-, and preference-sensitive treatment framework.
 - [Corsican Nationalism](concepts/CorsicanNationalism.md) — Paolist tradition joining resistance to foreign rule with constitutional, educational, and institutional state-building.
 - [Revolutionary Authoritarian Order](concepts/RevolutionaryAuthoritarianOrder.md) — Pattern joining radical political transformation to concentrated authority and disciplined force rather than monarchy or crowd rule.
 - [Mental-Health Biological Foundations](concepts/MentalHealthBiologicalFoundations.md) — Necessary-but-insufficient foundation joining sleep, light-dark exposure, movement, nutrition, social connection, and stress regulation.

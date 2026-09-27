@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 8407
+wiki_total_pages: 8411
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -521,6 +521,9 @@ wiki_pages:
   - key: "EndogenousMoneyCreation"
     title: "Endogenous Money Creation / 内生货币"
     url: "/wiki/concepts/endogenousmoneycreation/"
+  - key: "EndometriosisRecurrenceManagement"
+    title: "Endometriosis Recurrence Management / 子宫内膜异位症复发管理"
+    url: "/wiki/concepts/endometriosisrecurrencemanagement/"
   - key: "EndoscopyPathologyFollowup"
     title: "Endoscopy Pathology and Follow-up / 内镜病理与复诊闭环"
     url: "/wiki/concepts/endoscopypathologyfollowup/"

@@ -23669,3 +23669,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | VOL.81妇科｜通俗点说多囊卵巢、子宫内膜异位到子宫肌瘤到底是怎么回事？
+
+Added source `vol-81-fuke-tongsudian-shuo-duonangluanchao-zigongneimoyiweidao-zigongjiliu-daodi-shi-zenmehuishi-lq4attgiawxnqbczgl-ietatygyc`; created `BenignGynecologicalFindingTriage`, `PCOSOvulatoryDysfunction`, `EndometriosisRecurrenceManagement`, and `UterineFibroidTreatmentDecision`; and updated `BaoerGynecologist`, `FirstAffiliatedHospitalChengduMedicalCollege`, `GynecologicalSymptomTriage`, and the canonical index from their complete bounded source sets. Core synthesis: common cysts, endometrial measurements, pelvic fluid, cervical appearances, endometrioma, polyps, and fibroids should be interpreted through cycle timing, persistence, growth, location, symptoms, fertility goals, recurrence risk, and patient preference rather than diagnostic words or size alone. No settled contradiction with VOL.82 or VOL.83 was found. Numerical thresholds, recurrence rates, medication monitoring, procedure recommendations, food and supplement claims, and malignancy risk remain source-scoped public education rather than individualized current clinical guidance. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

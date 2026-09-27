@@ -14744,9 +14744,9 @@
       "url": "/wiki/entities/baoyueasternhan/"
     },
     "BaoerGynecologist": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "loaBKtHdZTlcUy7qFHSrkAQUJlF3 [loaBKtHdZTlcUy7qFHSrkAQUJlF3].md",
@@ -14761,6 +14761,13 @@
           "show": "这病说来话长",
           "title": "VOL.82妇科｜住酒店、洗牙易患性病？女生感染HPV后男生应做什么？",
           "url": "/wiki/sources/vol-82-fuke-zhu-jiudian-xiya-yi-huan-xingbing-nvsheng-ganran-hpv-hou-nansheng-ying-zuo-shenme-lgihsbqu9wldxyrjfomxghqtjqdg/"
+        },
+        {
+          "episode_file": "lq4aTTGIAwXNQbczgL-IeTAtygYC [lq4aTTGIAwXNQbczgL-IeTAtygYC].md",
+          "key": "vol-81-fuke-tongsudian-shuo-duonangluanchao-zigongneimoyiweidao-zigongjiliu-daodi-shi-zenmehuishi-lq4attgiawxnqbczgl-ietatygyc",
+          "show": "这病说来话长",
+          "title": "VOL.81妇科｜通俗点说多囊卵巢、子宫内膜异位到子宫肌瘤到底是怎么回事？",
+          "url": "/wiki/sources/vol-81-fuke-tongsudian-shuo-duonangluanchao-zigongneimoyiweidao-zigongjiliu-daodi-shi-zenmehuishi-lq4attgiawxnqbczgl-ietatygyc/"
         }
       ],
       "updated": "2026-09-27",
@@ -16031,6 +16038,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/benevolentspeechpractice/"
+    },
+    "BenignGynecologicalFindingTriage": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lq4aTTGIAwXNQbczgL-IeTAtygYC [lq4aTTGIAwXNQbczgL-IeTAtygYC].md",
+          "key": "vol-81-fuke-tongsudian-shuo-duonangluanchao-zigongneimoyiweidao-zigongjiliu-daodi-shi-zenmehuishi-lq4attgiawxnqbczgl-ietatygyc",
+          "show": "这病说来话长",
+          "title": "VOL.81妇科｜通俗点说多囊卵巢、子宫内膜异位到子宫肌瘤到底是怎么回事？",
+          "url": "/wiki/sources/vol-81-fuke-tongsudian-shuo-duonangluanchao-zigongneimoyiweidao-zigongjiliu-daodi-shi-zenmehuishi-lq4attgiawxnqbczgl-ietatygyc/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/benigngynecologicalfindingtriage/"
     },
     "BenitoMussolini": {
       "episode_count": 5,
@@ -47223,6 +47246,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/endocrinedisruptorexposurereduction/"
     },
+    "EndometriosisRecurrenceManagement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lq4aTTGIAwXNQbczgL-IeTAtygYC [lq4aTTGIAwXNQbczgL-IeTAtygYC].md",
+          "key": "vol-81-fuke-tongsudian-shuo-duonangluanchao-zigongneimoyiweidao-zigongjiliu-daodi-shi-zenmehuishi-lq4attgiawxnqbczgl-ietatygyc",
+          "show": "这病说来话长",
+          "title": "VOL.81妇科｜通俗点说多囊卵巢、子宫内膜异位到子宫肌瘤到底是怎么回事？",
+          "url": "/wiki/sources/vol-81-fuke-tongsudian-shuo-duonangluanchao-zigongneimoyiweidao-zigongjiliu-daodi-shi-zenmehuishi-lq4attgiawxnqbczgl-ietatygyc/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/endometriosisrecurrencemanagement/"
+    },
     "EndoscopyPathologyFollowup": {
       "episode_count": 2,
       "show_count": 1,
@@ -54233,9 +54272,9 @@
       "url": "/wiki/concepts/finetuningexamplesignalamplification/"
     },
     "FirstAffiliatedHospitalChengduMedicalCollege": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "loaBKtHdZTlcUy7qFHSrkAQUJlF3 [loaBKtHdZTlcUy7qFHSrkAQUJlF3].md",
@@ -54250,6 +54289,13 @@
           "show": "这病说来话长",
           "title": "VOL.82妇科｜住酒店、洗牙易患性病？女生感染HPV后男生应做什么？",
           "url": "/wiki/sources/vol-82-fuke-zhu-jiudian-xiya-yi-huan-xingbing-nvsheng-ganran-hpv-hou-nansheng-ying-zuo-shenme-lgihsbqu9wldxyrjfomxghqtjqdg/"
+        },
+        {
+          "episode_file": "lq4aTTGIAwXNQbczgL-IeTAtygYC [lq4aTTGIAwXNQbczgL-IeTAtygYC].md",
+          "key": "vol-81-fuke-tongsudian-shuo-duonangluanchao-zigongneimoyiweidao-zigongjiliu-daodi-shi-zenmehuishi-lq4attgiawxnqbczgl-ietatygyc",
+          "show": "这病说来话长",
+          "title": "VOL.81妇科｜通俗点说多囊卵巢、子宫内膜异位到子宫肌瘤到底是怎么回事？",
+          "url": "/wiki/sources/vol-81-fuke-tongsudian-shuo-duonangluanchao-zigongneimoyiweidao-zigongjiliu-daodi-shi-zenmehuishi-lq4attgiawxnqbczgl-ietatygyc/"
         }
       ],
       "updated": "2026-09-27",
@@ -65269,9 +65315,9 @@
       "url": "/wiki/concepts/gynecologicalexamdignity/"
     },
     "GynecologicalSymptomTriage": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "loaBKtHdZTlcUy7qFHSrkAQUJlF3 [loaBKtHdZTlcUy7qFHSrkAQUJlF3].md",
@@ -65286,6 +65332,13 @@
           "show": "这病说来话长",
           "title": "VOL.82妇科｜住酒店、洗牙易患性病？女生感染HPV后男生应做什么？",
           "url": "/wiki/sources/vol-82-fuke-zhu-jiudian-xiya-yi-huan-xingbing-nvsheng-ganran-hpv-hou-nansheng-ying-zuo-shenme-lgihsbqu9wldxyrjfomxghqtjqdg/"
+        },
+        {
+          "episode_file": "lq4aTTGIAwXNQbczgL-IeTAtygYC [lq4aTTGIAwXNQbczgL-IeTAtygYC].md",
+          "key": "vol-81-fuke-tongsudian-shuo-duonangluanchao-zigongneimoyiweidao-zigongjiliu-daodi-shi-zenmehuishi-lq4attgiawxnqbczgl-ietatygyc",
+          "show": "这病说来话长",
+          "title": "VOL.81妇科｜通俗点说多囊卵巢、子宫内膜异位到子宫肌瘤到底是怎么回事？",
+          "url": "/wiki/sources/vol-81-fuke-tongsudian-shuo-duonangluanchao-zigongneimoyiweidao-zigongjiliu-daodi-shi-zenmehuishi-lq4attgiawxnqbczgl-ietatygyc/"
         }
       ],
       "updated": "2026-09-27",
@@ -113079,6 +113132,22 @@
       "updated": "2026-09-25",
       "url": "/wiki/concepts/pcoscardiometabolicrisk/"
     },
+    "PCOSOvulatoryDysfunction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lq4aTTGIAwXNQbczgL-IeTAtygYC [lq4aTTGIAwXNQbczgL-IeTAtygYC].md",
+          "key": "vol-81-fuke-tongsudian-shuo-duonangluanchao-zigongneimoyiweidao-zigongjiliu-daodi-shi-zenmehuishi-lq4attgiawxnqbczgl-ietatygyc",
+          "show": "这病说来话长",
+          "title": "VOL.81妇科｜通俗点说多囊卵巢、子宫内膜异位到子宫肌瘤到底是怎么回事？",
+          "url": "/wiki/sources/vol-81-fuke-tongsudian-shuo-duonangluanchao-zigongneimoyiweidao-zigongjiliu-daodi-shi-zenmehuishi-lq4attgiawxnqbczgl-ietatygyc/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/pcosovulatorydysfunction/"
+    },
     "PDVSA": {
       "episode_count": 2,
       "show_count": 1,
@@ -153656,6 +153725,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/concepts/userpoweredcontentplatform/"
+    },
+    "UterineFibroidTreatmentDecision": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lq4aTTGIAwXNQbczgL-IeTAtygYC [lq4aTTGIAwXNQbczgL-IeTAtygYC].md",
+          "key": "vol-81-fuke-tongsudian-shuo-duonangluanchao-zigongneimoyiweidao-zigongjiliu-daodi-shi-zenmehuishi-lq4attgiawxnqbczgl-ietatygyc",
+          "show": "这病说来话长",
+          "title": "VOL.81妇科｜通俗点说多囊卵巢、子宫内膜异位到子宫肌瘤到底是怎么回事？",
+          "url": "/wiki/sources/vol-81-fuke-tongsudian-shuo-duonangluanchao-zigongneimoyiweidao-zigongjiliu-daodi-shi-zenmehuishi-lq4attgiawxnqbczgl-ietatygyc/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/uterinefibroidtreatmentdecision/"
     },
     "VaccineScheduleTrustRebuilding": {
       "episode_count": 2,

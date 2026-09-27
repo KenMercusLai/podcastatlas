@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 8407
+wiki_total_pages: 8411
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -251,6 +251,9 @@ wiki_pages:
   - key: "Benfen"
     title: "Benfen / 本分"
     url: "/wiki/concepts/benfen/"
+  - key: "BenignGynecologicalFindingTriage"
+    title: "Benign Gynecological Finding Triage / 妇科良性发现分诊"
+    url: "/wiki/concepts/benigngynecologicalfindingtriage/"
   - key: "BennettHypothesis"
     title: "Bennett Hypothesis"
     url: "/wiki/concepts/bennetthypothesis/"

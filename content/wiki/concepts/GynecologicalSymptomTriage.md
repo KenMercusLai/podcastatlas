@@ -5,6 +5,7 @@ tags: [gynecology, menstruation, triage, medical-literacy]
 sources:
   - vol-83-fuke-ni-shifou-ye-zheng-bei-zhexie-wenti-kunrao-shengliqi-fuke-jiancha-pendiji-xiufu-chanruqi-de-wenti-zhepian-yiyi-zuoda-loabkthdztlcuy7qfhsrkaqujlf3
   - vol-82-fuke-zhu-jiudian-xiya-yi-huan-xingbing-nvsheng-ganran-hpv-hou-nansheng-ying-zuo-shenme-lgihsbqu9wldxyrjfomxghqtjqdg
+  - vol-81-fuke-tongsudian-shuo-duonangluanchao-zigongneimoyiweidao-zigongjiliu-daodi-shi-zenmehuishi-lq4attgiawxnqbczgl-ietatygyc
 last_updated: 2026-09-27
 knowledge_schema: synthesis-v1
 ---
@@ -21,6 +22,8 @@ VOL.82 extends this approach to vulvar itching and bumps. Lack of sexual activit
 
 The framework is deliberately non-diagnostic. Similar descriptions can arise from physiological variation, pregnancy-related conditions, cervical or uterine disease, ovarian events, endocrine disorders, gastrointestinal causes, medication effects, infection, irritation, or skin disease. Public education should therefore produce better observations and care routing rather than certainty from one symptom or one presumed exposure.
 
+VOL.81 adds longitudinal and anatomical context. New or progressively worsening dysmenorrhea can suggest a secondary cause, and sudden pain around the luteal phase can require assessment for an ovarian event. A cycle record, symptom severity, change over time, imaging timing, and the location of a fibroid or polyp can be more informative than a diagnostic word viewed in isolation.
+
 ## Key Claims
 - Timing within or outside the menstrual cycle helps interpretation but does not settle diagnosis.
 - New, progressive, severe, irregular, unusually heavy, or prolonged symptoms lower the threshold for qualified assessment.
@@ -36,12 +39,13 @@ The framework is deliberately non-diagnostic. Similar descriptions can arise fro
 - Urgent pain boundary - [[vol-83-fuke-ni-shifou-ye-zheng-bei-zhexie-wenti-kunrao-shengliqi-fuke-jiancha-pendiji-xiufu-chanruqi-de-wenti-zhepian-yiyi-zuoda-loabkthdztlcuy7qfhsrkaqujlf3|VOL.83]] describes sudden, intense lower-abdominal pain as difficult for a layperson to distinguish and directs marked distress toward timely care.
 - Midlife bleeding - [[vol-83-fuke-ni-shifou-ye-zheng-bei-zhexie-wenti-kunrao-shengliqi-fuke-jiancha-pendiji-xiufu-chanruqi-de-wenti-zhepian-yiyi-zuoda-loabkthdztlcuy7qfhsrkaqujlf3|VOL.83]] treats prolonged perimenopausal bleeding and possible anemia or malignancy as requiring clinical evaluation rather than watchful normalization.
 - Vulvar symptoms - [[vol-82-fuke-zhu-jiudian-xiya-yi-huan-xingbing-nvsheng-ganran-hpv-hou-nansheng-ying-zuo-shenme-lgihsbqu9wldxyrjfomxghqtjqdg|VOL.82]] distinguishes itching and folliculitis-like bumps from automatic STI attribution and routes persistent symptoms, discharge, or visible skin change toward qualified examination.
+- Progressive pain and structural context - [[vol-81-fuke-tongsudian-shuo-duonangluanchao-zigongneimoyiweidao-zigongjiliu-daodi-shi-zenmehuishi-lq4attgiawxnqbczgl-ietatygyc|VOL.81]] distinguishes primary from later-onset or worsening dysmenorrhea, recommends tracking frequency and severity, and connects bleeding or fertility impact with lesion location and persistence.
 
 ## Counterevidence & Qualifications
 The episodes are broad Q&A, not a validated triage rule or current guideline. Normal ranges, testing, cervical screening, infection testing, imaging, biopsy or curettage decisions, topical or oral treatment, pain medication, hormone treatment, and emergency thresholds depend on age, pregnancy possibility, medical and sexual history, examination, severity, local guidance, and clinician assessment. Severe pain, fainting, heavy bleeding, pregnancy concern, fever, spreading redness, ulcers, or neurological symptoms can require prompt care.
 
 ## What Changed
-- Added vulvar itching, folliculitis-like bumps, sexual-history context, and the boundary between symptom pattern and presumed STI cause.
+- Added longitudinal pain records, progressive dysmenorrhea, luteal-phase ovarian events, and the role of lesion location and imaging timing.
 
 ## Related Concepts
 - [[GynecologicalExamDignity]] - examination and communication pathway after a symptom prompts care.
@@ -52,3 +56,6 @@ The episodes are broad Q&A, not a validated triage rule or current guideline. No
 - [[PostpartumPelvicFloorRehabilitation]] - postpartum function branch requiring symptom-specific assessment.
 - [[IndirectSexualInfectionExposureRisk]] - exposure-probability framework that should not substitute for symptom assessment.
 - [[HPVPreventionAndFollowup]] - screening and follow-up branch for HPV-related findings.
+- [[BenignGynecologicalFindingTriage]] - imaging-finding and observation-versus-intervention counterpart.
+- [[EndometriosisRecurrenceManagement]] - chronic structural-disease branch for progressive pain and recurrence.
+- [[UterineFibroidTreatmentDecision]] - location-sensitive branch for bleeding, pressure, and fertility effects.
