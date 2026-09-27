@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 10997
+wiki_total_pages: 10999
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -554,6 +554,9 @@ wiki_pages:
   - key: "DiegoBohorquez"
     title: "Diego Bohórquez"
     url: "/wiki/entities/diegobohorquez/"
+  - key: "DiegoVelazquezDeCuellar"
+    title: "Diego Velazquez de Cuellar"
+    url: "/wiki/entities/diegovelazquezdecuellar/"
   - key: "DietOfWorms"
     title: "Diet of Worms"
     url: "/wiki/entities/dietofworms/"

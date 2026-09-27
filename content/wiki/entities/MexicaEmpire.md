@@ -10,6 +10,7 @@ sources:
   - 388-the-fall-of-the-aztecs-the-festival-of-blood-part-5-glt8784071073
   - 387-the-fall-of-the-aztecs-prisoners-of-montezuma-part-4-glt8017930427
   - 386-the-fall-of-the-aztecs-the-city-of-gold-part-3-glt2951201852
+  - 385-the-fall-of-the-aztecs-the-woman-who-changed-the-world-part-2-glt5124604457
 last_updated: 2026-09-27
 ---
 
@@ -19,7 +20,9 @@ The Mexica, commonly called Aztec, Empire was the Mesoamerican political order c
 
 ## Current Profile
 
-The episodes treat the empire first as a regional and urban power rather than only as the object of conquest. Tribute claims, emissaries, surrounding rivals, allied cities, causeways, lake transport, intensive agriculture, and the scale of the Valley of Mexico show both reach and political limits: [[Tlaxcala]] remained outside tribute and became the coalition's indispensable anti-Mexica base. Tenochtitlan's regulated market, neighborhoods, officials, workshops, records, gardens, palace collections, cleanliness, and ceremonial center show administrative capacity and concentrated power. Human sacrifice is presented as real and grounded in a cosmology of sustaining the universe, while the precise temple descriptions remain filtered through Spanish testimony. [[Moctezuma]]'s hospitality and surveillance may have contained the Spaniards within this system before he became their hostage.
+The episodes treat the empire first as a regional and urban power rather than only as the object of conquest. Before the inland march, Totonac contacts and emissaries led by Tendile exposed the Spaniards to tributary rivalry, formal diplomacy, and imperial wealth. Cannon and horsemanship frightened the visitors, but the series rejects the traditional claim that Mexica observers simply identified Spaniards as gods; deference, translation, status language, and later Spanish memory offer competing explanations.
+
+Tribute claims, emissaries, surrounding rivals, allied cities, causeways, lake transport, intensive agriculture, and the scale of the Valley of Mexico show both reach and political limits: [[Tlaxcala]] remained outside tribute and became the coalition's indispensable anti-Mexica base. Tenochtitlan's regulated market, neighborhoods, officials, workshops, records, gardens, palace collections, cleanliness, and ceremonial center show administrative capacity and concentrated power. Human sacrifice is presented as real and grounded in a cosmology of sustaining the universe, while the precise temple descriptions remain filtered through Spanish testimony. [[Moctezuma]]'s hospitality and surveillance may have contained the Spaniards within this system before he became their hostage.
 
 The sequence then follows hostage crisis, urban uprising, battlefield success at the [[NocheTriste|Noche Triste]], epidemic and leadership crisis, the capital's last resistance, destruction, survival, and memory. Captivity erodes Moctezuma's authority, but the [[ToxcatlMassacre|Toxcatl massacre]] turns a tense occupation into organized resistance under conditions the surviving sources describe differently. Mexica forces then isolate the palace, block the causeways, and exploit canals, canoes, a broken causeway, and the collapse of the Spaniards' makeshift bridge to turn the retreat into disaster. That victory does not restore the earlier balance: smallpox spreads into Tenochtitlan, kills [[Cuitlahuac]], and compounds social and food-system disruption while [[HernanCortes|Cortes]] rebuilds an Indigenous coalition and severs routes to the coast.
 
@@ -29,7 +32,7 @@ The episode rejects the idea that one date cleanly ends the political world arou
 
 ## Key Characteristics
 
-- Tenochtitlan-centered imperial order whose tributary reach, regional rivals, urban administration, markets, court, and ritual institutions preceded the captivity crisis and 1521 defeat.
+- Tenochtitlan-centered imperial order whose emissaries, tributary reach, regional rivals, urban administration, markets, court, and ritual institutions preceded the captivity crisis and 1521 defeat.
 - Political order whose ruler may initially have contained the Spaniards before losing practical authority under their captivity.
 - Force capable of inflicting a catastrophic defeat during the Noche Triste without converting it into lasting strategic recovery.
 - Militarily adaptive defender whose canoes, trenches, broken bridges, missiles, ambushes, and ritual signals could impose losses but not break the blockade.
@@ -39,6 +42,7 @@ The episode rejects the idea that one date cleanly ends the political world arou
 
 ## Evidence
 
+- Coastal diplomacy and interpretation: [[385-the-fall-of-the-aztecs-the-woman-who-changed-the-world-part-2-glt5124604457]] connects Totonac contact, Tendile's gifts, military display, translation, and skepticism toward the Spaniards-as-gods tradition.
 - Regional reach and limits: [[386-the-fall-of-the-aztecs-the-city-of-gold-part-3-glt2951201852]] connects tribute claims and emissaries to Tlaxcala's continued independence and anti-Mexica strategy.
 - First view and encounter: [[386-the-fall-of-the-aztecs-the-city-of-gold-part-3-glt2951201852]] describes the valley's lake cities, farms, causeways, canoes, and formal court welcome while disputing immediate surrender.
 - Destruction and rebuilding: [[391-the-fall-of-the-aztecs-the-last-emperor-part-8-glt2984940365]] connects the Nahuatl lament, ruins, sacred stone, spatial hierarchy, and Indigenous labor.
@@ -53,13 +57,13 @@ The episode rejects the idea that one date cleanly ends the political world arou
 
 ## Qualifications
 
-This profile is based on six consecutive campaign episodes rather than a comprehensive history of Mexica government, society, religion, or the eight-part campaign. “Aztec” and “Mexica” are not perfectly interchangeable in every context; the title preserves the familiar public label while foregrounding the more specific polity. Tributary claims, flower-war interpretation, metropolitan population, temple detail, Moctezuma's motives and captivity chronology, the alleged Cholulan and festival plots, Moctezuma's death, reported sacrifice and cannibalism, casualty totals, and intentions behind the uprising and Noche Triste response remain source-scoped. Explaining human sacrifice within Mexica cosmology does not remove its violence, while Spanish horror does not make every reported detail transparent evidence. Regional diversity prevents the capital's fate from representing every Mesoamerican community.
+This profile is based on seven consecutive campaign episodes rather than a comprehensive history of Mexica government, society, religion, or the eight-part campaign. “Aztec” and “Mexica” are not perfectly interchangeable in every context; the title preserves the familiar public label while foregrounding the more specific polity. The Spaniards-as-gods tradition, Tendile's reactions, tributary claims, flower-war interpretation, metropolitan population, temple detail, Moctezuma's motives and captivity chronology, the alleged Cholulan and festival plots, Moctezuma's death, reported sacrifice and cannibalism, casualty totals, and intentions behind the uprising and Noche Triste response remain source-scoped. Explaining human sacrifice within Mexica cosmology does not remove its violence, while Spanish horror does not make every reported detail transparent evidence. Regional diversity prevents the capital's fate from representing every Mesoamerican community.
 
 ## What Changed
 
-- Extended the profile backward to the empire's tributary geography, regional rivals, emissaries, and the Spaniards' first view of the Valley of Mexico.
-- Added Tlaxcala's independence as a limit on Mexica reach and a causal condition of the anti-Mexica coalition.
-- Further qualified the voluntary-surrender narrative through courtly convention and translation uncertainty.
+- Extended the profile to coast diplomacy among Totonacs, Mexica emissaries, and the Spanish expedition.
+- Added Tendile's encounter as evidence of imperial wealth, military intimidation, and interpreted diplomacy.
+- Rejected automatic divinity belief as an explanation where status language, translation, and later memory remain viable.
 
 ## Relationships
 

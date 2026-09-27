@@ -23599,3 +23599,11 @@ Added source `vol-84-xingjiaoyu-wutongrenliu-de-pianqian-taolu-yingdui-xingsaora
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | 385. The Fall of the Aztecs: The Woman Who Changed The World (Part 2)
+
+Added source `385-the-fall-of-the-aztecs-the-woman-who-changed-the-world-part-2-glt5124604457`; created `GeronimoDeAguilar`, `DiegoVelazquezDeCuellar`, `Requerimiento`, and `VeraCruzLegalCoup`; and updated `HernanCortes`, `Malinche`, `MexicaEmpire`, `SpanishConquestOfMexico`, `ColonialLegalAdaptation`, and the canonical index from their complete bounded source sets. Core synthesis: Cortes transformed an unauthorized, factional expedition into an inland intervention through multilingual mediation, shipping, military asymmetry, legal improvisation, and commitment; Malinche's constrained agency was structurally important but her private motives remain unrecoverable; and Spanish legalism could legitimate coercion while later supplying limited tools for Indigenous claims. No settled contradiction with Parts 3-8 was found. Aguilar's captivity story, Malinche's childhood and intentions, Cortes's gold remark, Indigenous conversion, remembered dialogue, and the later operation of imperial courts remain source-scoped or uncertain. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

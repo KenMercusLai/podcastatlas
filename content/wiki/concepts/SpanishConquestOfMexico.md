@@ -10,6 +10,7 @@ sources:
   - 388-the-fall-of-the-aztecs-the-festival-of-blood-part-5-glt8784071073
   - 387-the-fall-of-the-aztecs-prisoners-of-montezuma-part-4-glt8017930427
   - 386-the-fall-of-the-aztecs-the-city-of-gold-part-3-glt2951201852
+  - 385-the-fall-of-the-aztecs-the-woman-who-changed-the-world-part-2-glt5124604457
 last_updated: 2026-09-27
 ---
 
@@ -19,7 +20,9 @@ The Spanish conquest of Mexico is the military, political, legal, demographic, e
 
 ## Current Synthesis
 
-The episodes' strongest corrective is causal, temporal, and narrative. Before entering Tenochtitlan, Cortes's small mixed expedition depended on Indigenous porters, provisioning, translation, and alliance. [[Tlaxcala]] first resisted, then made a mutually instrumental agreement that can be read as Tlaxcalans recruiting useful foreign fighters into a regional anti-Mexica strategy as much as Spaniards recruiting auxiliaries. The [[CholulaMassacre|Cholula massacre]] shows that this coalition could combine local rivalry, uncertain intelligence, Spanish command, and exemplary terror.
+The episodes' strongest corrective is causal, temporal, and narrative. The expedition did not begin with lawful authority to conquer: [[DiegoVelazquezDeCuellar|Diego Velazquez de Cuellar]] commissioned exploration, evangelization, information gathering, and a search for gold, then unsuccessfully tried to recall [[HernanCortes|Cortes]]. The [[VeraCruzLegalCoup|Vera Cruz legal coup]], direct shipment of treasure to Spain, and beaching of the ships converted that defiance into a bid for royal recognition and a practical commitment to advance.
+
+Before entering Tenochtitlan, Cortes's small mixed expedition depended on Indigenous porters, provisioning, translation, and alliance. [[GeronimoDeAguilar|Geronimo de Aguilar]] and [[Malinche]] first formed a Maya-Nahuatl-Spanish chain that gave the Spaniards political as well as linguistic access. Steel, horses, cannon, and ships mattered, but the source resists a gunpowder-only account; shipping, interpretation, and local rivalry were infrastructure for later expansion. [[Tlaxcala]] first resisted, then made a mutually instrumental agreement that can be read as Tlaxcalans recruiting useful foreign fighters into a regional anti-Mexica strategy as much as Spaniards recruiting auxiliaries. The [[CholulaMassacre|Cholula massacre]] shows that this coalition could combine local rivalry, uncertain intelligence, Spanish command, and exemplary terror.
 
 Spanish entry into Tenochtitlan still did not amount to immediate control: the invaders depended on [[Malinche]] for translation, confronted an administratively sophisticated capital and unfamiliar cosmology, pressed for gold, and may initially have been contained by [[Moctezuma]] as guests, curiosities, captives, or armed dependents. The traditional early-surrender story conflicts with courtly hospitality, Moctezuma's continued movement, Cortes's legal interest in a voluntary transfer, and a plausible chronology that places his seizure only when [[PanfiloDeNarvaez|Narvaez]] forced [[HernanCortes|Cortes]] to divide his men.
 
@@ -27,22 +30,24 @@ Cortes could then defeat Narvaez through bribery and surprise while simultaneous
 
 The [[NocheTriste|Noche Triste]] then shows the Spanish-led force close to destruction, while its recovery shows that conquest depended on [[Tlaxcala|Tlaxcalan]] political choice, further reinforcements, epidemic disruption, strategic terror, route seizure, and shipbuilding capacity. The [[SiegeOfTenochtitlan|siege of Tenochtitlan]] was therefore not a small Spanish force defeating a unified Indigenous world by weapons alone: brigantines, Tlaxcalan and Texcocan allies, local defections, smallpox, blockade, starvation, reinforcement, and urban demolition combined to break the capital. Cortes's later self-centering account could obscure this dependence.
 
-Battlefield victory over the [[MexicaEmpire|Mexica Empire]] then did not equal immediate control of Mesoamerica. Spanish power expanded through royal confirmation, urban rebuilding, encomienda labor, Christian institutions, biological exchange, and continued campaigns; some allies gained privileges, some elites adapted, and remote regions retained older practices.
+Battlefield victory over the [[MexicaEmpire|Mexica Empire]] then did not equal immediate control of Mesoamerica. Spanish power expanded through royal confirmation, urban rebuilding, encomienda labor, Christian institutions, biological exchange, and continued campaigns; some allies gained privileges, some elites adapted, and remote regions retained older practices. The [[Requerimiento]] shows that coercion was narrated through Christian and legal claims from the beginning, while later Indigenous petitions show that the imposed system could also become a constrained field of claims.
 
 That complexity does not sanitize conquest. Torture, execution, sexual coercion, dispossession, forced hierarchy, and catastrophic disease remain central. The best current account therefore combines coalition politics and Indigenous agency with the unequal power and suffering of the colonial result.
 
 ## Key Claims
 
 - Tenochtitlan's fall was a decisive event but not a complete or simultaneous conquest of Mexico.
-- Coalition formation and Indigenous political choice were causal before entry into the capital, not only after Spanish military defeat.
+- The campaign began by exceeding delegated authority and seeking a new legal basis through Vera Cruz and direct royal appeal.
+- Translation, coalition formation, and Indigenous political choice were causal before entry into the capital, not only after Spanish military defeat.
 - Spanish arrival in the capital began as an unstable and translated accommodation, not demonstrated immediate mastery or voluntary imperial surrender.
 - The Toxcatl massacre shows how unverified threat perception and delegated command could change the campaign's course.
 - The Noche Triste made Spanish defeat plausible, and renewed Indigenous alliance was the hinge between collapse and siege.
 - Naval control, logistics, epidemic disease, and deliberate urban destruction made the 1521 siege an asymmetric war of attrition.
-- Spanish authority depended on law, labor, urban space, religion, and crown recognition as well as arms.
 
 ## Evidence
 
+- Authorization, interpretation, and commitment: [[385-the-fall-of-the-aztecs-the-woman-who-changed-the-world-part-2-glt5124604457]] joins Velazquez's limited commission, Aguilar and Malinche's translation chain, Vera Cruz's council, direct royal appeal, and the beaching of the ships.
+- Law, faith, and coercion: [[385-the-fall-of-the-aztecs-the-woman-who-changed-the-world-part-2-glt5124604457]] connects the Requerimiento and its contemporary criticism to later Indigenous use of imperial agreements and courts.
 - Inland alliance and terror: [[386-the-fall-of-the-aztecs-the-city-of-gold-part-3-glt2951201852]] connects dependence on Indigenous support, Tlaxcalan resistance and alliance, the Cholula massacre, and entry into the Valley of Mexico.
 - First-contact narrative: [[386-the-fall-of-the-aztecs-the-city-of-gold-part-3-glt2951201852]] connects Moctezuma's formal welcome to translation uncertainty, courtly convention, and Cortes's legal incentive to claim surrender.
 - Post-victory coercion and reconstruction: [[391-the-fall-of-the-aztecs-the-last-emperor-part-8-glt2984940365]] connects the gold search, torture, Mexico City rebuilding, spatial hierarchy, and encomiendas.
@@ -56,13 +61,14 @@ That complexity does not sanitize conquest. Torture, execution, sexual coercion,
 
 ## Counterevidence & Qualifications
 
-This synthesis comes from six consecutive episodes of a narrative series and cannot settle the whole military campaign, Indigenous perspectives, or demographic history. The balance of initiative in the Tlaxcalan alliance, the alleged Cholulan plot, Moctezuma's intentions, whether the Spaniards were meaningfully captive, the date of his seizure, temple detail, sacrifice plans, metropolitan population, the alleged Toxcatl plot, Tlaxcalan informants' role, Moctezuma's death, captive-sacrifice reports, remembered speeches, symbolic scenes, Cortes's motives, Noche Triste casualty counts, and the ritual-war contrast remain source-scoped. A voluntary surrender was useful to Spanish legal memory, but that incentive does not automatically prove every contrary reconstruction. Black Legend polemic can distort comparative interpretation, but identifying that polemic does not rebut evidence of Spanish atrocities.
+This synthesis comes from seven consecutive episodes of a narrative series and cannot settle the whole military campaign, Indigenous perspectives, or demographic history. Aguilar's captivity, Malinche's childhood and private motives, the meaning of conversion and submission, the validity of the Vera Cruz maneuver, the balance of initiative in the Tlaxcalan alliance, the alleged Cholulan plot, Moctezuma's intentions, whether the Spaniards were meaningfully captive, the date of his seizure, temple detail, sacrifice plans, metropolitan population, the alleged Toxcatl plot, Tlaxcalan informants' role, Moctezuma's death, captive-sacrifice reports, remembered speeches, symbolic scenes, Cortes's motives, Noche Triste casualty counts, and the ritual-war contrast remain source-scoped. A voluntary surrender was useful to Spanish legal memory, but that incentive does not automatically prove every contrary reconstruction. Black Legend polemic can distort comparative interpretation, but identifying that polemic does not rebut evidence of Spanish atrocities.
 
 ## What Changed
 
-- Extended the synthesis backward to armed Tlaxcalan resistance, mutually instrumental alliance, and coalition violence at Cholula.
-- Moved Indigenous political agency and Spanish material dependence earlier in the causal story.
-- Connected the voluntary-surrender narrative to courtly translation as well as later Spanish legal need.
+- Extended the synthesis to the limited Cuban commission, attempted recall, and Vera Cruz jurisdictional maneuver.
+- Made the Aguilar-Malinche interpretation chain part of conquest infrastructure before inland alliance-building.
+- Added shipping and the beached ships as distinct replenishment and commitment mechanisms.
+- Connected the Requerimiento's coercive legalism to the later constrained use of imperial courts by Indigenous claimants.
 
 ## Related Concepts
 
@@ -77,3 +83,5 @@ This synthesis comes from six consecutive episodes of a narrative series and can
 - [[Moctezuma]] - hostage ruler whose damaged authority and disputed death expose the limits of negotiated control.
 - [[ConquestCaptivityNarrativeUncertainty]] - explains why hospitality, containment, dependency, and hostage-taking cannot be read directly from Spanish victory narratives.
 - [[CholulaMassacre]] - demonstrates how regional rivalry, mediated threat, and exemplary violence shaped the advance.
+- [[Requerimiento]] - shows how Christian and legal narration accompanied coercive demands for submission.
+- [[VeraCruzLegalCoup]] - explains how Cortes manufactured a jurisdictional basis for unauthorized advance.

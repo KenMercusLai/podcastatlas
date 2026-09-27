@@ -29322,9 +29322,9 @@
       "url": "/wiki/concepts/colonialfrontiergovernancefragility/"
     },
     "ColonialLegalAdaptation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2984940365 [GLT2984940365].md",
@@ -29332,6 +29332,13 @@
           "show": "The Rest Is History",
           "title": "391. The Fall of the Aztecs: The Last Emperor (Part 8)",
           "url": "/wiki/sources/391-the-fall-of-the-aztecs-the-last-emperor-part-8-glt2984940365/"
+        },
+        {
+          "episode_file": "GLT5124604457 [GLT5124604457].md",
+          "key": "385-the-fall-of-the-aztecs-the-woman-who-changed-the-world-part-2-glt5124604457",
+          "show": "The Rest Is History",
+          "title": "385. The Fall of the Aztecs: The Woman Who Changed The World (Part 2)",
+          "url": "/wiki/sources/385-the-fall-of-the-aztecs-the-woman-who-changed-the-world-part-2-glt5124604457/"
         }
       ],
       "updated": "2026-09-27",
@@ -38437,6 +38444,22 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/entities/diegobohorquez/"
+    },
+    "DiegoVelazquezDeCuellar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5124604457 [GLT5124604457].md",
+          "key": "385-the-fall-of-the-aztecs-the-woman-who-changed-the-world-part-2-glt5124604457",
+          "show": "The Rest Is History",
+          "title": "385. The Fall of the Aztecs: The Woman Who Changed The World (Part 2)",
+          "url": "/wiki/sources/385-the-fall-of-the-aztecs-the-woman-who-changed-the-world-part-2-glt5124604457/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/diegovelazquezdecuellar/"
     },
     "DietOfWorms": {
       "episode_count": 1,
@@ -61458,6 +61481,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/germany/"
     },
+    "GeronimoDeAguilar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5124604457 [GLT5124604457].md",
+          "key": "385-the-fall-of-the-aztecs-the-woman-who-changed-the-world-part-2-glt5124604457",
+          "show": "The Rest Is History",
+          "title": "385. The Fall of the Aztecs: The Woman Who Changed The World (Part 2)",
+          "url": "/wiki/sources/385-the-fall-of-the-aztecs-the-woman-who-changed-the-world-part-2-glt5124604457/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/geronimodeaguilar/"
+    },
     "Gheelish": {
       "episode_count": 1,
       "show_count": 1,
@@ -69073,9 +69112,9 @@
       "url": "/wiki/entities/hermanngoring/"
     },
     "HernanCortes": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "GLT2984940365 [GLT2984940365].md",
@@ -69118,6 +69157,13 @@
           "show": "The Rest Is History",
           "title": "386. The Fall of the Aztecs: The City of Gold (Part 3)",
           "url": "/wiki/sources/386-the-fall-of-the-aztecs-the-city-of-gold-part-3-glt2951201852/"
+        },
+        {
+          "episode_file": "GLT5124604457 [GLT5124604457].md",
+          "key": "385-the-fall-of-the-aztecs-the-woman-who-changed-the-world-part-2-glt5124604457",
+          "show": "The Rest Is History",
+          "title": "385. The Fall of the Aztecs: The Woman Who Changed The World (Part 2)",
+          "url": "/wiki/sources/385-the-fall-of-the-aztecs-the-woman-who-changed-the-world-part-2-glt5124604457/"
         }
       ],
       "updated": "2026-09-27",
@@ -98349,9 +98395,9 @@
       "url": "/wiki/concepts/maleurologicalhealthmisconceptions/"
     },
     "Malinche": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "GLT2984940365 [GLT2984940365].md",
@@ -98394,6 +98440,13 @@
           "show": "The Rest Is History",
           "title": "386. The Fall of the Aztecs: The City of Gold (Part 3)",
           "url": "/wiki/sources/386-the-fall-of-the-aztecs-the-city-of-gold-part-3-glt2951201852/"
+        },
+        {
+          "episode_file": "GLT5124604457 [GLT5124604457].md",
+          "key": "385-the-fall-of-the-aztecs-the-woman-who-changed-the-world-part-2-glt5124604457",
+          "show": "The Rest Is History",
+          "title": "385. The Fall of the Aztecs: The Woman Who Changed The World (Part 2)",
+          "url": "/wiki/sources/385-the-fall-of-the-aztecs-the-woman-who-changed-the-world-part-2-glt5124604457/"
         }
       ],
       "updated": "2026-09-27",
@@ -101978,9 +102031,9 @@
       "url": "/wiki/entities/metropolitanpolice/"
     },
     "MexicaEmpire": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "GLT2984940365 [GLT2984940365].md",
@@ -102023,6 +102076,13 @@
           "show": "The Rest Is History",
           "title": "386. The Fall of the Aztecs: The City of Gold (Part 3)",
           "url": "/wiki/sources/386-the-fall-of-the-aztecs-the-city-of-gold-part-3-glt2951201852/"
+        },
+        {
+          "episode_file": "GLT5124604457 [GLT5124604457].md",
+          "key": "385-the-fall-of-the-aztecs-the-woman-who-changed-the-world-part-2-glt5124604457",
+          "show": "The Rest Is History",
+          "title": "385. The Fall of the Aztecs: The Woman Who Changed The World (Part 2)",
+          "url": "/wiki/sources/385-the-fall-of-the-aztecs-the-woman-who-changed-the-world-part-2-glt5124604457/"
         }
       ],
       "updated": "2026-09-27",
@@ -126185,6 +126245,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/reputationlistpersecutiontarget/"
     },
+    "Requerimiento": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5124604457 [GLT5124604457].md",
+          "key": "385-the-fall-of-the-aztecs-the-woman-who-changed-the-world-part-2-glt5124604457",
+          "show": "The Rest Is History",
+          "title": "385. The Fall of the Aztecs: The Woman Who Changed The World (Part 2)",
+          "url": "/wiki/sources/385-the-fall-of-the-aztecs-the-woman-who-changed-the-world-part-2-glt5124604457/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/requerimiento/"
+    },
     "RescueReciprocityCommandTrust": {
       "episode_count": 4,
       "show_count": 1,
@@ -139219,9 +139295,9 @@
       "url": "/wiki/concepts/spacebasedaiinfrastructure/"
     },
     "SpanishConquestOfMexico": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "GLT2984940365 [GLT2984940365].md",
@@ -139264,6 +139340,13 @@
           "show": "The Rest Is History",
           "title": "386. The Fall of the Aztecs: The City of Gold (Part 3)",
           "url": "/wiki/sources/386-the-fall-of-the-aztecs-the-city-of-gold-part-3-glt2951201852/"
+        },
+        {
+          "episode_file": "GLT5124604457 [GLT5124604457].md",
+          "key": "385-the-fall-of-the-aztecs-the-woman-who-changed-the-world-part-2-glt5124604457",
+          "show": "The Rest Is History",
+          "title": "385. The Fall of the Aztecs: The Woman Who Changed The World (Part 2)",
+          "url": "/wiki/sources/385-the-fall-of-the-aztecs-the-woman-who-changed-the-world-part-2-glt5124604457/"
         }
       ],
       "updated": "2026-09-27",
@@ -153390,6 +153473,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/entities/ventromedialhypothalamus/"
+    },
+    "VeraCruzLegalCoup": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5124604457 [GLT5124604457].md",
+          "key": "385-the-fall-of-the-aztecs-the-woman-who-changed-the-world-part-2-glt5124604457",
+          "show": "The Rest Is History",
+          "title": "385. The Fall of the Aztecs: The Woman Who Changed The World (Part 2)",
+          "url": "/wiki/sources/385-the-fall-of-the-aztecs-the-woman-who-changed-the-world-part-2-glt5124604457/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/veracruzlegalcoup/"
     },
     "Verica": {
       "episode_count": 1,

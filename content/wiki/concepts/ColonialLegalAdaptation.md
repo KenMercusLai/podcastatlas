@@ -5,6 +5,7 @@ knowledge_schema: synthesis-v1
 tags: [law, colonialism, indigenous-agency, mexico]
 sources:
   - 391-the-fall-of-the-aztecs-the-last-emperor-part-8-glt2984940365
+  - 385-the-fall-of-the-aztecs-the-woman-who-changed-the-world-part-2-glt5124604457
 last_updated: 2026-09-27
 ---
 
@@ -14,13 +15,16 @@ Colonial legal adaptation is the use of an imposed imperial legal order both to 
 
 ## Current Synthesis
 
-The episode presents Spanish law as a double-edged field. [[HernanCortes|Cortes]] needed a story of lawful transfer from Moctezuma because naked seizure was not a sufficient official justification. Yet Tlaxcalans, Moctezuma's descendants, [[Malinche]], and other Indigenous elites could also use alliance, conversion, marriage, title, estate, and crown petition to defend a position inside the new order.
+The episodes present Spanish law as a double-edged field. Before the inland march, the [[Requerimiento]] narrated Christian and royal authority as a demand for Indigenous conversion and submission, while the [[VeraCruzLegalCoup|Vera Cruz legal coup]] let [[HernanCortes|Cortes]] bypass a governor who had not authorized conquest. Later, Cortes needed a story of lawful transfer from Moctezuma because naked seizure was not a sufficient official justification.
+
+The same commitment to legal form created openings that colonized people could use without making the system equal. Later Indigenous delegations appealed to agreements in the royal court; Tlaxcalans, Moctezuma's descendants, [[Malinche]], and other Indigenous elites could use alliance, conversion, marriage, title, estate, and crown petition to defend a position inside the new order.
 
 This was adaptation under domination, not equal bargaining. Legal recognition could preserve meaningful resources while simultaneously naturalizing conquest, labor extraction, and a racialized colonial city.
 
 ## Key Claims
 
-- Spanish conquest required legal narration and royal confirmation as well as battlefield success.
+- Spanish conquest required jurisdictional improvisation, coercive declarations, legal narration, and royal confirmation as well as battlefield success.
+- The Requerimiento could formalize a demand for submission without producing meaningful consent.
 - The alleged surrender of Moctezuma's authority functioned as a legitimating fiction in the episode's account.
 - Tlaxcalan alliance status became a basis for privilege, self-government, and legal claims.
 - Indigenous nobles used conversion, estate ownership, and Spanish institutions to preserve status after political defeat.
@@ -29,18 +33,21 @@ This was adaptation under domination, not equal bargaining. Legal recognition co
 
 ## Evidence
 
+- Early legal infrastructure: [[385-the-fall-of-the-aztecs-the-woman-who-changed-the-world-part-2-glt5124604457]] connects the Requerimiento, Vera Cruz's municipal appointments, direct royal appeal, and Las Casas's contemporary criticism.
+- Indigenous petitions: [[385-the-fall-of-the-aztecs-the-woman-who-changed-the-world-part-2-glt5124604457]] reports later delegations using imperial agreements and courts, sometimes successfully.
 - Conquest legitimation: [[391-the-fall-of-the-aztecs-the-last-emperor-part-8-glt2984940365]] connects Cortes's unlawful expedition, Charles V's confirmation, and the Moctezuma transfer claim.
 - Allied-community claims: [[391-the-fall-of-the-aztecs-the-last-emperor-part-8-glt2984940365]] describes Tlaxcalan efforts to secure privilege and self-government.
 - Elite and personal adaptation: [[391-the-fall-of-the-aztecs-the-last-emperor-part-8-glt2984940365]] describes Moctezuma's heirs, Tecuichpotzin, and Malinche using estates, conversion, marriage, and status.
 
 ## Counterevidence & Qualifications
 
-The episode compresses complex institutions into a short overview and does not establish how consistently claims were honored. Access was unequal, and preservation of elite estates says little by itself about commoner freedom or welfare. “Adaptation” describes constrained action and should not imply consent to conquest.
+The episodes compress complex institutions into short discussions and do not establish how consistently declarations were read, understood, or followed, or how often later claims were honored. The Requerimiento's implied recognition of existing land claims did not produce equal sovereignty or meaningful consent. Access was unequal, and successful delegations or preservation of elite estates say little by themselves about commoner freedom or welfare. “Adaptation” describes constrained action and should not imply consent to conquest.
 
 ## What Changed
 
-- Established law as both conquest infrastructure and a constrained Indigenous survival tool.
-- Distinguished recognition of agency from claims of equality or consent.
+- Extended legal infrastructure backward to the Requerimiento and the Vera Cruz municipal maneuver.
+- Added later court petitions as evidence that imposed law could become a constrained Indigenous claims field.
+- Sharpened the distinction between formal procedure, meaningful consent, and substantive justice.
 
 ## Related Concepts
 
@@ -48,3 +55,5 @@ The episode compresses complex institutions into a short overview and does not e
 - [[Malinche]] - individual case linking marriage, property, and legal status.
 - [[MexicaEmpire]] - defeated order whose elites and communities entered the new jurisdiction unevenly.
 - [[HistoricalCatastropheNarrativeEthics]] - supports an account that preserves agency without sanitizing domination.
+- [[Requerimiento]] - coercive legal-religious demand illustrating procedure without meaningful consent.
+- [[VeraCruzLegalCoup]] - jurisdictional maneuver illustrating how Cortes used legal form against his own superior.

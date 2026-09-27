@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 8389
+wiki_total_pages: 8391
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -488,6 +488,9 @@ wiki_pages:
   - key: "ReputationConstrainedTalentProtection"
     title: "Reputation-Constrained Talent Protection / 名声约束下的人才保护"
     url: "/wiki/concepts/reputationconstrainedtalentprotection/"
+  - key: "Requerimiento"
+    title: "Requerimiento"
+    url: "/wiki/concepts/requerimiento/"
   - key: "RerankingModels"
     title: "Reranking Models"
     url: "/wiki/concepts/rerankingmodels/"

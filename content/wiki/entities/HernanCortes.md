@@ -10,6 +10,7 @@ sources:
   - 388-the-fall-of-the-aztecs-the-festival-of-blood-part-5-glt8784071073
   - 387-the-fall-of-the-aztecs-prisoners-of-montezuma-part-4-glt8017930427
   - 386-the-fall-of-the-aztecs-the-city-of-gold-part-3-glt2951201852
+  - 385-the-fall-of-the-aztecs-the-woman-who-changed-the-world-part-2-glt5124604457
 last_updated: 2026-09-27
 ---
 
@@ -19,7 +20,11 @@ Hernan Cortes is the Spanish conquistador whose coalition captured the [[MexicaE
 
 ## Current Profile
 
-The episodes present Cortes at once as an audacious coalition commander, an insecure lawbreaker seeking royal recognition, a wealth-seeking armed entrepreneur, a colonial governor, and an agent of extreme violence. His inland advance already depended on Indigenous labor, provisioning, translation, and political choice. [[Tlaxcala]] first resisted his force, then entered a mutually instrumental alliance that may be understood as Tlaxcalans recruiting useful foreign fighters as much as Cortes recruiting Indigenous auxiliaries. His night attacks, mutilation, and participation in the [[CholulaMassacre|Cholula massacre]] show terror operating before the coalition reached Tenochtitlan.
+The episodes present Cortes at once as an audacious coalition commander, an insecure lawbreaker seeking royal recognition, a wealth-seeking armed entrepreneur, a Christian expansionist, a colonial governor, and an agent of extreme violence. [[DiegoVelazquezDeCuellar|Diego Velazquez de Cuellar]] commissioned exploration, evangelization, information gathering, and a search for gold, but not conquest. Cortes ignored an attempted recall, sailed with a factional company rather than a professional army, and used the [[VeraCruzLegalCoup|Vera Cruz legal coup]] to replace Cuban authority with offices granted by a new town council. He then sent treasure directly to Spain and beached his ships, joining a bid for royal legitimacy to a material commitment against retreat.
+
+His ability to intervene inland depended first on interpretation. [[GeronimoDeAguilar|Geronimo de Aguilar]] supplied Maya-Spanish mediation, while [[Malinche]] connected Nahuatl to Maya and later learned Spanish. That chain gave Cortes access not only to words but to local politics, customs, rivalries, and possible alliances. Steel, horses, cannon, and ships supplied uneven advantages, but the episode rejects gunpowder as a sufficient explanation and treats Atlantic shipping as crucial to later replenishment.
+
+His inland advance already depended on Indigenous labor, provisioning, translation, and political choice. [[Tlaxcala]] first resisted his force, then entered a mutually instrumental alliance that may be understood as Tlaxcalans recruiting useful foreign fighters as much as Cortes recruiting Indigenous auxiliaries. His night attacks, mutilation, and participation in the [[CholulaMassacre|Cholula massacre]] show terror operating before the coalition reached Tenochtitlan.
 
 Inside Tenochtitlan, his apparent access to [[Moctezuma]] coexists with strategic vulnerability: he depends on [[Malinche]] for communication, cannot securely read Mexica intentions, displays shipbuilding technology, demands gold, and may initially have been contained within Moctezuma's court rather than commanding it. The timing of his seizure of Moctezuma is disputed; the episode finds it plausible that Cortes acted only when Narvaez's arrival forced him to divide his force. His claim that Moctezuma surrendered also served his need to make an unauthorized expedition legible to the Spanish crown.
 
@@ -33,16 +38,18 @@ His later trajectory weakens any simple triumphal story. A disastrous Honduras e
 
 ## Key Characteristics
 
-- High-risk coalition commander whose inland advance and apparent confidence in Tenochtitlan masked dependence on Indigenous allies, labor, translation, and uncertain freedom of action.
+- Unauthorized expedition leader and legal improviser who converted a limited commission into a bid for conquest through Vera Cruz, direct royal appeal, and material commitment.
+- High-risk coalition commander whose inland advance and apparent confidence in Tenochtitlan masked dependence on Indigenous allies, labor, translation, shipping, and uncertain freedom of action.
 - Rival commander who defeated Narvaez through bribery, surprise, and rapid absorption of opposing troops.
 - Defeated commander who recovered from the Noche Triste because Tlaxcala maintained the alliance and material capacity could be rebuilt.
 - Wealth-seeking conqueror whose demand for gold continued after military victory and drove torture and abuse.
 - Practitioner of strategic terror, enslavement, destruction, and supply denial during the renewed campaign.
-- Legal and political improviser who sought royal confirmation for actions begun outside lawful authority.
 - Colonial builder who remade Tenochtitlan as a stratified Spanish capital using Indigenous labor and sacred stone.
 
 ## Evidence
 
+- Commission, defiance, and legal maneuver: [[385-the-fall-of-the-aztecs-the-woman-who-changed-the-world-part-2-glt5124604457]] connects Velazquez's limited orders, attempted recall, Vera Cruz's council, direct royal appeal, and the beaching of the ships.
+- Translation and material advantage: [[385-the-fall-of-the-aztecs-the-woman-who-changed-the-world-part-2-glt5124604457]] connects Aguilar and Malinche's language chain to diplomacy while distinguishing steel, horses, cannon, and shipping from a gunpowder-only account.
 - Inland coalition formation: [[386-the-fall-of-the-aztecs-the-city-of-gold-part-3-glt2951201852]] connects Cortes's small mixed expedition to Tlaxcalan resistance, negotiation, provisioning, and a mutually instrumental alliance.
 - Violence and narrative interest: [[386-the-fall-of-the-aztecs-the-city-of-gold-part-3-glt2951201852]] links attacks in Tlaxcala and the Cholula massacre to coercive signaling, then connects the surrender story to Cortes's legal self-defense.
 - Wealth and coercion: [[391-the-fall-of-the-aztecs-the-last-emperor-part-8-glt2984940365]] links the disappointing gold yield to prisoner abuse and Cuauhtemoc's burned feet.
@@ -57,13 +64,14 @@ His later trajectory weakens any simple triumphal story. A disastrous Honduras e
 
 ## Qualifications
 
-This profile is bounded to six consecutive retrospective podcast episodes rather than a full biography. The balance of initiative in the first Tlaxcalan alliance, the alleged Cholulan plot, whether Cortes was initially guest, dependent, captive, or captor, when he seized Moctezuma, the murder rumor surrounding Catalina Suarez, his private motives and claimed regret, why he was allowed to re-enter Tenochtitlan, responsibility for Moctezuma's death, exact dialogue, the Noche Triste casualty estimate, and the alleged Cuauhtemoc plot remain unresolved. The claim that Cortes shaped memory is persuasive but cannot recover every lost countervoice. Calling him courageous or tactically effective describes conduct; it does not excuse mutilation, massacre, enslavement, blockade, demolition, torture, exploitation, sexual coercion, or colonial violence.
+This profile is bounded to seven consecutive retrospective podcast episodes rather than a full biography. His religious conviction, the famous gold remark, the validity of the Vera Cruz maneuver at the time, the balance of initiative in the first Tlaxcalan alliance, the alleged Cholulan plot, whether Cortes was initially guest, dependent, captive, or captor, when he seized Moctezuma, the murder rumor surrounding Catalina Suarez, his private motives and claimed regret, why he was allowed to re-enter Tenochtitlan, responsibility for Moctezuma's death, exact dialogue, the Noche Triste casualty estimate, and the alleged Cuauhtemoc plot remain unresolved or source-scoped. The claim that Cortes shaped memory is persuasive but cannot recover every lost countervoice. Calling him courageous or tactically effective describes conduct; it does not excuse mutilation, massacre, enslavement, blockade, demolition, torture, exploitation, sexual coercion, or colonial violence.
 
 ## What Changed
 
-- Extended the profile backward to show that Cortes's advance already depended on Indigenous political choice, material support, and translation.
-- Added the Tlaxcalan campaign and Cholula massacre as evidence that coalition-building and exemplary violence preceded entry into Tenochtitlan.
-- Connected Cortes's surrender narrative more directly to his legal need to justify an unauthorized expedition.
+- Extended the profile to the unauthorized departure from Cuba and the limited commission Cortes exceeded.
+- Added Vera Cruz, direct royal appeal, and the beached ships as linked legal and material commitment devices.
+- Made the Aguilar-Malinche translation chain causal to coastal diplomacy and later political intervention.
+- Distinguished multiple military and logistical advantages from a gunpowder-only explanation.
 
 ## Relationships
 
@@ -81,3 +89,7 @@ This profile is bounded to six consecutive retrospective podcast episodes rather
 - [[PanfiloDeNarvaez]] - rival whose defeat supplied men and weapons before the Tenochtitlan crisis.
 - [[ConquestCaptivityNarrativeUncertainty]] - source-critical problem governing claims about when Cortes became captor rather than contained guest or dependent.
 - [[CholulaMassacre]] - coalition atrocity through which he projected terror before entering the Valley of Mexico.
+- [[DiegoVelazquezDeCuellar]] - governor whose commission he exceeded and attempted recall he ignored.
+- [[GeronimoDeAguilar]] - interpreter who supplied the early Maya-Spanish link.
+- [[VeraCruzLegalCoup]] - municipal maneuver through which he claimed authority independent of Cuba.
+- [[Requerimiento]] - coercive legal-religious form associated with the expedition's claim to legitimate submission.

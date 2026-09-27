@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "v"
-wiki_total_pages: 8389
+wiki_total_pages: 8391
 wiki_pages:
   - key: "VacationShame"
     title: "Vacation Shame / 休假羞耻感"
@@ -98,6 +98,9 @@ wiki_pages:
   - key: "VentureTransformationAssets"
     title: "Venture Transformation Assets"
     url: "/wiki/concepts/venturetransformationassets/"
+  - key: "VeraCruzLegalCoup"
+    title: "Vera Cruz Legal Coup"
+    url: "/wiki/concepts/veracruzlegalcoup/"
   - key: "VerifiableIntent"
     title: "Verifiable Intent / 可验证意图"
     url: "/wiki/concepts/verifiableintent/"
