@@ -16132,6 +16132,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/baturin/"
     },
+    "BayOfNaples": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6664993493 [GLT6664993493].md",
+          "key": "355-roman-apocalypse-pompeii-79-ad-glt6664993493",
+          "show": "The Rest Is History",
+          "title": "355: Roman Apocalypse: Pompeii 79 AD",
+          "url": "/wiki/sources/355-roman-apocalypse-pompeii-79-ad-glt6664993493/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/bayofnaples/"
+    },
     "BayOfPigsInvasion": {
       "episode_count": 1,
       "show_count": 1,
@@ -50660,6 +50676,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/eroticblueprint/"
     },
+    "EruptionOfVesuvius79": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6664993493 [GLT6664993493].md",
+          "key": "355-roman-apocalypse-pompeii-79-ad-glt6664993493",
+          "show": "The Rest Is History",
+          "title": "355: Roman Apocalypse: Pompeii 79 AD",
+          "url": "/wiki/sources/355-roman-apocalypse-pompeii-79-ad-glt6664993493/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/eruptionofvesuvius79/"
+    },
     "EspressoCodeEditor": {
       "episode_count": 1,
       "show_count": 1,
@@ -71594,6 +71626,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/herbertsimon/"
+    },
+    "Herculaneum": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6664993493 [GLT6664993493].md",
+          "key": "355-roman-apocalypse-pompeii-79-ad-glt6664993493",
+          "show": "The Rest Is History",
+          "title": "355: Roman Apocalypse: Pompeii 79 AD",
+          "url": "/wiki/sources/355-roman-apocalypse-pompeii-79-ad-glt6664993493/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/herculaneum/"
     },
     "HereditaryOfficePrivilege": {
       "episode_count": 1,
@@ -109273,6 +109321,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/concepts/moudestructionstrike/"
     },
+    "MountVesuvius": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6664993493 [GLT6664993493].md",
+          "key": "355-roman-apocalypse-pompeii-79-ad-glt6664993493",
+          "show": "The Rest Is History",
+          "title": "355: Roman Apocalypse: Pompeii 79 AD",
+          "url": "/wiki/sources/355-roman-apocalypse-pompeii-79-ad-glt6664993493/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/mountvesuvius/"
+    },
     "MountainBaseStrategicOptionality": {
       "episode_count": 3,
       "show_count": 1,
@@ -109509,6 +109573,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/concepts/multiagentcollaboration/"
+    },
+    "MultiEvidenceDisasterReconstruction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6664993493 [GLT6664993493].md",
+          "key": "355-roman-apocalypse-pompeii-79-ad-glt6664993493",
+          "show": "The Rest Is History",
+          "title": "355: Roman Apocalypse: Pompeii 79 AD",
+          "url": "/wiki/sources/355-roman-apocalypse-pompeii-79-ad-glt6664993493/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/multievidencedisasterreconstruction/"
     },
     "MultiPlan": {
       "episode_count": 1,
@@ -121885,6 +121965,38 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/platonicatlantispoliticalmyth/"
     },
+    "PlinyTheElder": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6664993493 [GLT6664993493].md",
+          "key": "355-roman-apocalypse-pompeii-79-ad-glt6664993493",
+          "show": "The Rest Is History",
+          "title": "355: Roman Apocalypse: Pompeii 79 AD",
+          "url": "/wiki/sources/355-roman-apocalypse-pompeii-79-ad-glt6664993493/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/plinytheelder/"
+    },
+    "PlinyTheYounger": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6664993493 [GLT6664993493].md",
+          "key": "355-roman-apocalypse-pompeii-79-ad-glt6664993493",
+          "show": "The Rest Is History",
+          "title": "355: Roman Apocalypse: Pompeii 79 AD",
+          "url": "/wiki/sources/355-roman-apocalypse-pompeii-79-ad-glt6664993493/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/plinytheyounger/"
+    },
     "PodcastAuthenticityBoundary": {
       "episode_count": 3,
       "show_count": 3,
@@ -122521,6 +122633,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/polyphemus/"
+    },
+    "Pompeii": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6664993493 [GLT6664993493].md",
+          "key": "355-roman-apocalypse-pompeii-79-ad-glt6664993493",
+          "show": "The Rest Is History",
+          "title": "355: Roman Apocalypse: Pompeii 79 AD",
+          "url": "/wiki/sources/355-roman-apocalypse-pompeii-79-ad-glt6664993493/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/pompeii/"
     },
     "Pompey": {
       "episode_count": 2,
@@ -145799,6 +145927,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/stagematchedmotorskillpractice/"
     },
+    "StagedVolcanicCatastrophe": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6664993493 [GLT6664993493].md",
+          "key": "355-roman-apocalypse-pompeii-79-ad-glt6664993493",
+          "show": "The Rest Is History",
+          "title": "355: Roman Apocalypse: Pompeii 79 AD",
+          "url": "/wiki/sources/355-roman-apocalypse-pompeii-79-ad-glt6664993493/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/stagedvolcaniccatastrophe/"
+    },
     "StandingGeneticVariation": {
       "episode_count": 1,
       "show_count": 1,
@@ -155139,9 +155283,9 @@
       "url": "/wiki/concepts/titlesuccessionpublicduty/"
     },
     "Titus": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7808118779 [GLT7808118779].md",
@@ -155149,9 +155293,16 @@
           "show": "The Rest Is History",
           "title": "369. The Colosseum: Rome's Arena of Death",
           "url": "/wiki/sources/369-the-colosseum-romes-arena-of-death-glt7808118779/"
+        },
+        {
+          "episode_file": "GLT6664993493 [GLT6664993493].md",
+          "key": "355-roman-apocalypse-pompeii-79-ad-glt6664993493",
+          "show": "The Rest Is History",
+          "title": "355: Roman Apocalypse: Pompeii 79 AD",
+          "url": "/wiki/sources/355-roman-apocalypse-pompeii-79-ad-glt6664993493/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/titus/"
     },
     "Tlaxcala": {

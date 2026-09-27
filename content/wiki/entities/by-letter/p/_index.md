@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 11133
+wiki_total_pages: 11140
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -614,6 +614,12 @@ wiki_pages:
   - key: "Playwright"
     title: "Playwright"
     url: "/wiki/entities/playwright/"
+  - key: "PlinyTheElder"
+    title: "Pliny the Elder"
+    url: "/wiki/entities/plinytheelder/"
+  - key: "PlinyTheYounger"
+    title: "Pliny the Younger"
+    url: "/wiki/entities/plinytheyounger/"
   - key: "Pluralsight"
     title: "Pluralsight"
     url: "/wiki/entities/pluralsight/"
@@ -638,6 +644,9 @@ wiki_pages:
   - key: "PolySimulator"
     title: "PolySimulator"
     url: "/wiki/entities/polysimulator/"
+  - key: "Pompeii"
+    title: "Pompeii"
+    url: "/wiki/entities/pompeii/"
   - key: "Pompey"
     title: "Pompey / 庞培"
     url: "/wiki/entities/pompey/"

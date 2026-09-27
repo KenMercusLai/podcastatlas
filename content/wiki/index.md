@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [355: Roman Apocalypse: Pompeii 79 AD](sources/355-roman-apocalypse-pompeii-79-ad-glt6664993493.md) — The Rest Is History episode reconstructing Vesuvius's staged destruction of Pompeii and Herculaneum through Plinian testimony, archaeology, seasonal evidence, and volcanology.
 - [356: The Blood-Drinking Bride of Christ](sources/356-the-blood-drinking-bride-of-christ-glt8496536394.md) — The Rest Is History episode on Catherine of Siena's ascetic mysticism, gendered religious authority, papal diplomacy, and the limits of retrospective diagnosis.
 - [Ketamine: Benefits and Risks for Depression, PTSD & Neuroplasticity](sources/ketamine-benefits-risks-for-depression-ptsd-neuroplasticity-scim3757014952.md) — Huberman Lab solo episode on rapid but often time-limited psychiatric benefit, NMDA/BDNF/opioid mechanisms, route-dependent exposure, dissociation, and supervised-use boundaries.
 - [VOL.65心脏外科｜先心病、冠心病、瓣膜病 这几种心脏疾病来听安贞医生怎么讲](sources/vol-65-xinzang-waike-xianxinbing-guanxinbing-banmobing-zhe-jizhong-xinzang-jibing-lai-ting-anzhen-yisheng-zenme-jiang-lo_ztsjizbunfsi5uhii1iv_lrzb.md) — 这病说来话长 episode on congenital findings, valve repair and replacement, coronary ischemia, myocardial infarction, and collapse-response boundaries.
@@ -3055,6 +3056,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Harnessing Passion, Drive & Persistence for Lifelong Success | Tony Hawk](sources/harnessing-passion-drive-persistence-for-lifelong-success-tony-hawk-scim8571002701.md) — Huberman Lab conversation on skateboarding mastery, intrinsic progression, injury-recovery adherence, entrepreneurship, family, and public skateparks.
 
 ## Entities
+- [Mount Vesuvius](entities/MountVesuvius.md) — Active Campanian volcano joining regional fertility and settlement to the staged hazards of the 79 CE eruption.
+- [Pompeii](entities/Pompeii.md) — Roman city exposed to prolonged darkness and pumice before a final fatal flow, preserved through archaeological traces.
+- [Herculaneum](entities/Herculaneum.md) — Roman coastal city initially spared heavy pumice but destroyed earlier by a pyroclastic surge.
+- [Pliny the Elder](entities/PlinyTheElder.md) — Roman author and fleet commander whose attempted rescue during the Vesuvius eruption ended at Stabiae.
+- [Pliny the Younger](entities/PlinyTheYounger.md) — Eyewitness and letter writer whose testimony anchors the literary reconstruction of the eruption.
+- [Bay of Naples](entities/BayOfNaples.md) — Volcanic maritime region joining Roman cities, ports, villas, agriculture, and unequal disaster exposure.
+- [Eruption of Vesuvius (79 CE)](entities/EruptionOfVesuvius79.md) — Multi-stage ancient disaster reconstructed across pumice fall, surges, flows, testimony, archaeology, and scientific interpretation.
 - [Raymond of Capua](entities/RaymondOfCapua.md) — Catherine of Siena's confessor and hagiographic biographer, central to the transmission and interpretation of her visions and miracles.
 - [Caroline Walker Bynum](entities/CarolineWalkerBynum.md) — Historian whose work frames medieval women's food practices, embodiment, and religious meaning.
 - [Gregory XI](entities/GregoryXI.md) — Pope urged by Catherine of Siena to return from Avignon to Rome.
@@ -14207,6 +14215,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Skatepark Project](entities/TheSkateparkProject.md) — Nonprofit supporting public skateparks as access, practice, and youth-community infrastructure.
 
 ## Concepts
+- [Staged Volcanic Catastrophe](concepts/StagedVolcanicCatastrophe.md) — Time- and place-sensitive model separating warning, fall, accumulation, surge, flow, and temporary escape windows.
+- [Multi-Evidence Disaster Reconstruction](concepts/MultiEvidenceDisasterReconstruction.md) — Source-critical combination of testimony, archaeology, material traces, seasonal clues, and physical science.
 - [Medieval Female Ascetic Authority](concepts/MedievalFemaleAsceticAuthority.md) — How gendered bodily renunciation could become sanctity, public credibility, and political influence.
 - [Religious Experience Medicalization Boundary](concepts/ReligiousExperienceMedicalizationBoundary.md) — Boundary between useful retrospective diagnosis and historically complete explanation of religious practice.
 - [Heart Valve Repair and Replacement Decision / 心脏瓣膜修复与置换决策](concepts/HeartValveRepairReplacementDecision.md) — Valve-treatment framework balancing durable repair, residual disease, prosthesis durability, anticoagulation, reintervention, and team capability.

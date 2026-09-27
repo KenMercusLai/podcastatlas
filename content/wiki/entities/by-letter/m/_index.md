@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 11133
+wiki_total_pages: 11140
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1376,6 +1376,9 @@ wiki_pages:
   - key: "Mounjaro"
     title: "Mounjaro"
     url: "/wiki/entities/mounjaro/"
+  - key: "MountVesuvius"
+    title: "Mount Vesuvius"
+    url: "/wiki/entities/mountvesuvius/"
   - key: "MountainGorilla"
     title: "Mountain Gorilla / 山地大猩猩"
     url: "/wiki/entities/mountaingorilla/"

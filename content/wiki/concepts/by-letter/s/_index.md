@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 8542
+wiki_total_pages: 8544
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1541,6 +1541,9 @@ wiki_pages:
   - key: "StageMatchedMotorSkillPractice"
     title: "Stage-Matched Motor Skill Practice"
     url: "/wiki/concepts/stagematchedmotorskillpractice/"
+  - key: "StagedVolcanicCatastrophe"
+    title: "Staged Volcanic Catastrophe"
+    url: "/wiki/concepts/stagedvolcaniccatastrophe/"
   - key: "StagflationRiskRepricing"
     title: "Stagflation Risk Repricing / 滞胀风险重估"
     url: "/wiki/concepts/stagflationriskrepricing/"

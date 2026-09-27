@@ -24188,3 +24188,11 @@ Added source `harnessing-passion-drive-persistence-for-lifelong-success-tony-haw
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | 355: Roman Apocalypse: Pompeii 79 AD
+
+Added source `355-roman-apocalypse-pompeii-79-ad-glt6664993493`; created `MountVesuvius`, `Pompeii`, `Herculaneum`, `PlinyTheElder`, `PlinyTheYounger`, `BayOfNaples`, `EruptionOfVesuvius79`, `StagedVolcanicCatastrophe`, and `MultiEvidenceDisasterReconstruction`; and updated `Titus` and the canonical index from their complete bounded source sets. Core synthesis: the 79 CE catastrophe unfolded in spatially uneven stages, so early relative shelter, continued ordinary life, and temporary escape windows did not imply safety; Plinian testimony, archaeology, seasonal evidence, and volcanology become strongest when combined without erasing their different limits. No settled contradiction was adopted. The exact eruption date, timing, victim total, individual movements, Pliny the Elder's cause of death, and details of Titus's response remain disputed or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -1003,6 +1003,10 @@
     "title": "351-西方政府禁止青少年使用社交媒体走到哪步了？",
     "url": "/wiki/sources/351-xifang-zhengfu-jinzhi-qingshaonian-shiyong-shejiao-meiti-zoudao-nabu-le-luvc8m2kuqkyv2hddfcse-6ogxym/"
   },
+  "355-roman-apocalypse-pompeii-79-ad-glt6664993493": {
+    "title": "355: Roman Apocalypse: Pompeii 79 AD",
+    "url": "/wiki/sources/355-roman-apocalypse-pompeii-79-ad-glt6664993493/"
+  },
   "356-the-blood-drinking-bride-of-christ-glt8496536394": {
     "title": "356: The Blood-Drinking Bride of Christ",
     "url": "/wiki/sources/356-the-blood-drinking-bride-of-christ-glt8496536394/"
@@ -9186,6 +9190,10 @@
   "Baturin": {
     "title": "Baturin / 巴图林",
     "url": "/wiki/entities/baturin/"
+  },
+  "BayOfNaples": {
+    "title": "Bay of Naples",
+    "url": "/wiki/entities/bayofnaples/"
   },
   "BayOfPigsInvasion": {
     "title": "Bay of Pigs Invasion",
@@ -23739,6 +23747,10 @@
     "title": "Erotic Blueprint",
     "url": "/wiki/concepts/eroticblueprint/"
   },
+  "EruptionOfVesuvius79": {
+    "title": "Eruption of Vesuvius (79 CE)",
+    "url": "/wiki/entities/eruptionofvesuvius79/"
+  },
   "EscalationOfCommitment": {
     "title": "Escalation Of Commitment / 非理性投入升级",
     "url": "/wiki/concepts/escalationofcommitment/"
@@ -32166,6 +32178,10 @@
   "HerbertSimon": {
     "title": "Herbert Simon / 赫伯特·西蒙",
     "url": "/wiki/entities/herbertsimon/"
+  },
+  "Herculaneum": {
+    "title": "Herculaneum",
+    "url": "/wiki/entities/herculaneum/"
   },
   "HereditaryOfficePrivilege": {
     "title": "任子式官职特权 / Hereditary Office Privilege",
@@ -48387,6 +48403,10 @@
     "title": "Mounjaro",
     "url": "/wiki/entities/mounjaro/"
   },
+  "MountVesuvius": {
+    "title": "Mount Vesuvius",
+    "url": "/wiki/entities/mountvesuvius/"
+  },
   "MountainBaseStrategicOptionality": {
     "title": "山地根据地战略余地 / Mountain Base Strategic Optionality",
     "url": "/wiki/concepts/mountainbasestrategicoptionality/"
@@ -48486,6 +48506,10 @@
   "MultiCard": {
     "title": "MultiCard",
     "url": "/wiki/entities/multicard/"
+  },
+  "MultiEvidenceDisasterReconstruction": {
+    "title": "Multi-Evidence Disaster Reconstruction",
+    "url": "/wiki/concepts/multievidencedisasterreconstruction/"
   },
   "MultiFiberArrangement": {
     "title": "Multi-Fiber Arrangement",
@@ -54363,6 +54387,14 @@
     "title": "Playwright",
     "url": "/wiki/entities/playwright/"
   },
+  "PlinyTheElder": {
+    "title": "Pliny the Elder",
+    "url": "/wiki/entities/plinytheelder/"
+  },
+  "PlinyTheYounger": {
+    "title": "Pliny the Younger",
+    "url": "/wiki/entities/plinytheyounger/"
+  },
   "Pluralsight": {
     "title": "Pluralsight",
     "url": "/wiki/entities/pluralsight/"
@@ -54698,6 +54730,10 @@
   "Polyphemus": {
     "title": "Polyphemus",
     "url": "/wiki/entities/polyphemus/"
+  },
+  "Pompeii": {
+    "title": "Pompeii",
+    "url": "/wiki/entities/pompeii/"
   },
   "Pompey": {
     "title": "Pompey / 庞培",
@@ -65374,6 +65410,10 @@
   "StageMatchedMotorSkillPractice": {
     "title": "Stage-Matched Motor Skill Practice",
     "url": "/wiki/concepts/stagematchedmotorskillpractice/"
+  },
+  "StagedVolcanicCatastrophe": {
+    "title": "Staged Volcanic Catastrophe",
+    "url": "/wiki/concepts/stagedvolcaniccatastrophe/"
   },
   "StagflationRiskRepricing": {
     "title": "Stagflation Risk Repricing / 滞胀风险重估",

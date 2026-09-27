@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2100
+topic_total_pages: 2104
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -796,6 +796,9 @@ topic_concepts:
   - key: "MousePhilosophy"
     title: "Mouse Philosophy / 老鼠哲学"
     url: "/wiki/concepts/mousephilosophy/"
+  - key: "MultiEvidenceDisasterReconstruction"
+    title: "Multi-Evidence Disaster Reconstruction"
+    url: "/wiki/concepts/multievidencedisasterreconstruction/"
   - key: "MythicAndMaterialWarCausation"
     title: "Mythic and Material War Causation"
     url: "/wiki/concepts/mythicandmaterialwarcausation/"
@@ -1880,6 +1883,9 @@ topic_entities:
   - key: "HeinrichSchliemann"
     title: "Heinrich Schliemann"
     url: "/wiki/entities/heinrichschliemann/"
+  - key: "Herculaneum"
+    title: "Herculaneum"
+    url: "/wiki/entities/herculaneum/"
   - key: "Herodotus"
     title: "Herodotus"
     url: "/wiki/entities/herodotus/"
@@ -2015,6 +2021,9 @@ topic_entities:
   - key: "OttomanEmpire"
     title: "Ottoman Empire / 奥斯曼帝国"
     url: "/wiki/entities/ottomanempire/"
+  - key: "Pompeii"
+    title: "Pompeii"
+    url: "/wiki/entities/pompeii/"
   - key: "PragueSpring"
     title: "Prague Spring / 布拉格之春"
     url: "/wiki/entities/praguespring/"
@@ -4662,6 +4671,9 @@ topic_sources:
   - key: "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008"
     title: "318: Hundred Years' War: A Game of Thrones (Part 1)"
     url: "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+  - key: "355-roman-apocalypse-pompeii-79-ad-glt6664993493"
+    title: "355: Roman Apocalypse: Pompeii 79 AD"
+    url: "/wiki/sources/355-roman-apocalypse-pompeii-79-ad-glt6664993493/"
   - key: "356-the-blood-drinking-bride-of-christ-glt8496536394"
     title: "356: The Blood-Drinking Bride of Christ"
     url: "/wiki/sources/356-the-blood-drinking-bride-of-christ-glt8496536394/"

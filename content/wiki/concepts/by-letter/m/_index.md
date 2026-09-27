@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 8542
+wiki_total_pages: 8544
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1271,6 +1271,9 @@ wiki_pages:
   - key: "MultiAgentCollaboration"
     title: "Multi-Agent Collaboration"
     url: "/wiki/concepts/multiagentcollaboration/"
+  - key: "MultiEvidenceDisasterReconstruction"
+    title: "Multi-Evidence Disaster Reconstruction"
+    url: "/wiki/concepts/multievidencedisasterreconstruction/"
   - key: "MultiFiberArrangement"
     title: "Multi-Fiber Arrangement"
     url: "/wiki/concepts/multifiberarrangement/"

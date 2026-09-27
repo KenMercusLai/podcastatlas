@@ -1521,6 +1521,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "355-roman-apocalypse-pompeii-79-ad-glt6664993493": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "356-the-blood-drinking-bride-of-christ-glt8496536394": [
     {
       "key": "history",
@@ -35988,6 +35995,13 @@
       "url": "/topics/science/"
     }
   ],
+  "Herculaneum": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "HereditarySuccessionCapabilityDecay": [
     {
       "key": "politics",
@@ -51437,6 +51451,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "MultiEvidenceDisasterReconstruction": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "MultiFiberArrangement": [
     {
       "key": "economics",
@@ -58109,6 +58130,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "Pompeii": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "Pompey": [
