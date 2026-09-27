@@ -5,6 +5,7 @@ knowledge_schema: synthesis-v1
 tags: [disease, ecology, colonialism, atlantic-history]
 sources:
   - 391-the-fall-of-the-aztecs-the-last-emperor-part-8-glt2984940365
+  - 390-the-fall-of-the-aztecs-war-to-the-death-part-7-glt1796642529
 last_updated: 2026-09-27
 ---
 
@@ -14,7 +15,7 @@ The Columbian Exchange is the post-contact movement of diseases, animals, crops,
 
 ## Current Synthesis
 
-In this episode, the Columbian Exchange explains why the [[SpanishConquestOfMexico|Spanish conquest of Mexico]] cannot be reduced to weapons or commanders. Smallpox produced demographic catastrophe across communities whose direct encounters with Spaniards varied greatly, while introduced livestock and crops changed everyday colonial landscapes. Biological exchange amplified political conquest without requiring contemporaries to understand germ transmission.
+In these episodes, the Columbian Exchange explains why the [[SpanishConquestOfMexico|Spanish conquest of Mexico]] cannot be reduced to weapons or commanders. Smallpox killed Cuitlahuac, weakened communities on both sides of Indigenous political divisions, and formed part of the attritional setting for the [[SiegeOfTenochtitlan|siege of Tenochtitlan]]. It later produced demographic catastrophe across communities whose direct encounters with Spaniards varied greatly, while introduced livestock and crops changed everyday colonial landscapes. Biological exchange amplified political conquest without requiring contemporaries to understand germ transmission.
 
 ## Key Claims
 
@@ -27,17 +28,19 @@ In this episode, the Columbian Exchange explains why the [[SpanishConquestOfMexi
 ## Evidence
 
 - Demographic catastrophe: [[391-the-fall-of-the-aztecs-the-last-emperor-part-8-glt2984940365]] says smallpox matters more to the long-run balance than many individual biographical details.
+- Immediate military setting: [[390-the-fall-of-the-aztecs-war-to-the-death-part-7-glt1796642529]] places Cuitlahuac's death and widespread disease before a siege already shaped by hunger and coalition realignment.
 - Uneven contact: [[391-the-fall-of-the-aztecs-the-last-emperor-part-8-glt2984940365]] notes that some rural people may have experienced epidemic disease more directly than Spaniards.
 - Ecological transfer: [[391-the-fall-of-the-aztecs-the-last-emperor-part-8-glt2984940365]] lists cattle, pigs, sheep, olives, and grapevines within the transformed colonial landscape.
 
 ## Counterevidence & Qualifications
 
-The source provides no independent epidemiological reconstruction, mortality series, or settlement-level comparison. Its claim that Europeans could not realistically avoid introducing smallpox is a broad historical judgment and should not be generalized to every later colonial disease event. Disease was decisive but did not act alone.
+The sources provide no independent epidemiological reconstruction, mortality series, or settlement-level comparison, and they do not quantify disease against starvation or combat. Their claim that Europeans could not realistically avoid introducing smallpox is a broad historical judgment and should not be generalized to every later colonial disease event. Disease was decisive but did not act alone.
 
 ## What Changed
 
 - Established biological exchange as a structural explanation for conquest outcomes.
 - Distinguished catastrophic consequence from claims of informed intentional transmission.
+- Added smallpox's immediate role in succession, coalition strain, and siege attrition.
 
 ## Related Concepts
 

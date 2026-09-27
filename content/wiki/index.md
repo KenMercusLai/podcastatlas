@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [390. The Fall of the Aztecs: War to the Death (Part 7)](sources/390-the-fall-of-the-aztecs-war-to-the-death-part-7-glt1796642529.md) — The Rest Is History episode on the coalition, naval, logistical, epidemiological, urban, and civilian dimensions of Tenochtitlan's final siege.
 - [VOL.86头颈外科｜甲状腺疾病越来越喜欢招惹年轻人了吗？结节真是被气出来的吗？](sources/vol-86-toujing-waike-jiazhuangxian-jibing-yuelaiyue-xihuan-zhaore-nianqingren-le-ma-jiejie-zhen-shi-bei-qi-chulai-de-ma-lhlyxdyw0hcgnmfopab0976kw3fr.md) — 这病说来话长 episode with 张宇昊 on thyroid function, Hashimoto thyroiditis, nodule risk stratification, biopsy, differentiated cancer, surveillance, surgery, and iodine boundaries.
 - [391. The Fall of the Aztecs: The Last Emperor (Part 8)](sources/391-the-fall-of-the-aztecs-the-last-emperor-part-8-glt2984940365.md) — The Rest Is History finale on post-conquest violence, colonial law, Mexico City rebuilding, Indigenous adaptation, disease, memory, and the ethics of narrating catastrophe.
 - [392. JFK: The Road to the White House (Part 1)](sources/392-jfk-the-road-to-the-white-house-part-1-glt3759679497.md) — The Rest Is History episode on Kennedy family ambition, chronic illness, Anglophilia, PT-109, Joe Jr.'s death, marriage, and JFK's early political rise.
@@ -13968,6 +13969,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [James Pennebaker](entities/JamesPennebaker.md) — Psychologist associated with the repeated expressive-writing paradigm and research linking language, distress, health, and immune measures.
 
 ## Concepts
+- [Siege of Tenochtitlan](concepts/SiegeOfTenochtitlan.md) — 1521 coalition campaign joining lake control, causeways, blockade, disease, urban demolition, resistance, surrender, and civilian catastrophe.
 - [Thyroid Function Disorder Interpretation / 甲状腺功能异常解读](concepts/ThyroidFunctionDisorderInterpretation.md) — Framework separating hormone excess, deficiency, autoimmune markers, structural findings, symptoms, and longitudinal context.
 - [Thyroid Nodule Risk Stratification / 甲状腺结节风险分层](concepts/ThyroidNoduleRiskStratification.md) — Multi-feature ultrasound, symptom, biopsy, anatomy, and follow-up framework for thyroid nodules.
 - [Differentiated Thyroid Cancer Decision-Making / 分化型甲状腺癌决策](concepts/DifferentiatedThyroidCancerDecisionMaking.md) — Risk- and anatomy-sensitive framework for surveillance, surgery, postoperative hormone care, and follow-up.
