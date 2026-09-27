@@ -24140,3 +24140,11 @@ Added source `vol-65-xinzang-waike-xianxinbing-guanxinbing-banmobing-zhe-jizhong
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | Ketamine: Benefits and Risks for Depression, PTSD & Neuroplasticity
+
+Added source `ketamine-benefits-risks-for-depression-ptsd-neuroplasticity-scim3757014952`; created `KetamineTreatmentSafety`, `KetamineAntidepressantMechanisms`, and `BrainDerivedNeurotrophicFactor`; and updated `Neuroplasticity`, `CircuitBasedPsychiatry`, `PsychiatricMedicationSupervisionBoundary`, `AndrewHuberman`, `HubermanLab`, and the canonical index from their complete bounded source sets. Core synthesis: ketamine may produce rapid but often time-limited psychiatric benefit for some patients through interacting NMDA-disinhibition, burst-firing, BDNF/TrkB, opioid, circuit, subjective-state, and behavioral processes, while acute dissociation is not treated as sufficient proof of later benefit. No settled contradiction was adopted. Dose, route, stereoisomer, repeated-treatment, microdosing, brain-rhythm, liver, seizure, and mechanism claims remain source-scoped, and route conversion, K-hole, impaired activity, misuse, and depressant combinations remain inside explicit clinical safety boundaries. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

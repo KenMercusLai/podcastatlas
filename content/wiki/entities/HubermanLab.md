@@ -55,6 +55,7 @@ sources:
   - ama-12-thoughts-on-longevity-supplements-resveratrol-nr-nmn-etc-how-to-improve-memory-scim5764692205
   - how-to-increase-your-willpower-tenacity-scim7958949675
   - goals-toolkit-how-to-set-achieve-your-goals-scim1532399364
+  - ketamine-benefits-risks-for-depression-ptsd-neuroplasticity-scim3757014952
 last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
@@ -131,6 +132,8 @@ The dedicated willpower episode connects [[EgoDepletionDebate]], [[AnteriorMidCi
 
 The goals-toolkit episode consolidates the show's motivation, dopamine, attention, circadian, and self-control branches into [[GoalPursuitBehaviorDesign]]. It adds [[MotivationalVisualizationByState]] and [[VisualFocusEffortTool]], uses middle-stage chunking, and distinguishes bounded self-chosen milestone acknowledgment from externally engineered [[IntermittentReinforcement]] loops.
 
+The ketamine episode adds a dedicated dissociative-psychiatry branch. [[KetamineAntidepressantMechanisms]] integrates NMDA-mediated disinhibition, excitatory burst firing, [[BrainDerivedNeurotrophicFactor]], opioid involvement, and mood circuits while keeping the causal chain provisional. [[KetamineTreatmentSafety]] separates monitored clinical use from route conversion, K-hole, deep sedation, liver, seizure, impaired-activity, misuse, and depressant-combination risks.
+
 ## Key Characteristics
 - Uses long-form guest interviews to connect science, health, behavior, relationships, technology, and practical decision-making.
 - Translates everyday concerns into mechanism-oriented questions while preserving clinical or evidentiary boundaries.
@@ -141,6 +144,7 @@ The goals-toolkit episode consolidates the show's motivation, dopamine, attentio
 - Uses solo Essentials, Q&A, and long-form guest framing to turn core mechanisms, sleep-wake timing, dopamine baseline and effort tools, discipline practices, movement practice, flexibility protocols, leadership frames, everyday health questions, meditation claims, learning-performance questions, nutrition hierarchies, relationship-science claims, stress appraisal and recovery, preventive-longevity tradeoffs, risk and agency tools, sugar-craving mechanisms, nine-adaptation fitness self-assessment, and serious psychiatric topics into cautiously bounded self-regulation or treatment-literacy toolkits.
 
 ## Evidence
+- Ketamine treatment and mechanism: [[ketamine-benefits-risks-for-depression-ptsd-neuroplasticity-scim3757014952]] separates rapid but often time-limited psychiatric benefit from acute dissociation, route-dependent exposure, multi-process mechanisms, and substantial unsupervised-use risk.
 - Goal-pursuit toolkit: [[goals-toolkit-how-to-set-achieve-your-goals-scim1532399364]] organizes one-priority selection, action verbs, measurement, 12-week planning, motivation-state checks, visual focus, intermittent acknowledgment, and middle-stage chunking.
 - Longevity-supplement framing: [[ama-12-thoughts-on-longevity-supplements-resveratrol-nr-nmn-etc-how-to-improve-memory-scim5764692205]] separates personal supplement or infusion experience from demonstrated lifespan benefit and prioritizes behavioral foundations.
 - Premium AMA and research-funding model: [[ama-14-2023-philanthropy-evening-routine-light-therapy-health-metrics-more-scim2172700344]] links member support and donor matching to funded human research, then applies the show's mechanism-to-action style across light, fitness, sleep, self-tracking, screening, and strength.
@@ -231,13 +235,18 @@ The willpower episode's ego-depletion, glucose, anterior mid-cingulate, dieting,
 
 The goals-toolkit episode's one-priority rule, 12-week horizon, handwriting advantage, fixed-reminder account, public-announcement effect, visualization mechanisms, visual-focus durations, blood-pressure safety, random-reward protocol, and circadian peaks remain source-scoped. They are practical hypotheses rather than treatment for clinical or structural barriers to motivation. This addition brings the bounded profile to fifty-two episode notes.
 
+The ketamine episode's efficacy, dose, route bioavailability, stereoisomer ranking, repeated-treatment durability, learned-helplessness, BDNF/TrkB, opioid-blockade, brain-rhythm, habenula, liver, seizure, and microdosing claims remain source-scoped public medical education. They do not establish diagnosis, treatment selection, dosing, route conversion, maintenance, or emergency guidance. This addition brings the bounded profile to fifty-three episode notes.
+
 ## What Changed
-- Added the show's dedicated action-first goal-pursuit synthesis.
-- Added the solo willpower episode's psychology-to-neuroscience synthesis.
-- Added explicit eating-disorder, overcontrol, recovery, and glucose boundaries to the show's discipline branch.
-- Preserved the anterior mid-cingulate and cross-domain training claims as source-scoped public neuroscience.
+- Added a dedicated ketamine treatment, mechanism, and safety branch.
+- Separated acute altered-state effects from later antidepressant benefit.
+- Added route, K-hole, polysubstance, seizure, liver, and impairment boundaries.
+- Preserved all numerical and mechanistic claims as source-scoped public education.
 
 ## Relationships
+- [[KetamineTreatmentSafety]] - monitored-use and misuse-risk boundary from the newest solo episode.
+- [[KetamineAntidepressantMechanisms]] - NMDA, BDNF, opioid, and circuit synthesis presented by the show.
+- [[BrainDerivedNeurotrophicFactor]] - trophic-signaling branch in the proposed mechanism.
 - [[GoalPursuitBehaviorDesign]] - action-first planning framework from the newest solo episode.
 - [[MotivationalVisualizationByState]] - state-matched pre-action imagery branch.
 - [[VisualFocusEffortTool]] - visual-attention and perceived-effort branch.

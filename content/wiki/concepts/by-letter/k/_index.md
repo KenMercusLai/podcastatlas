@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "k"
-wiki_total_pages: 8533
+wiki_total_pages: 8536
 wiki_pages:
   - key: "K12ComputerScienceAccess"
     title: "K-12 Computer Science Access"
@@ -38,6 +38,12 @@ wiki_pages:
   - key: "KernelDevelopmentAgents"
     title: "Kernel Development Agents"
     url: "/wiki/concepts/kerneldevelopmentagents/"
+  - key: "KetamineAntidepressantMechanisms"
+    title: "Ketamine Antidepressant Mechanisms"
+    url: "/wiki/concepts/ketamineantidepressantmechanisms/"
+  - key: "KetamineTreatmentSafety"
+    title: "Ketamine Treatment and Safety"
+    url: "/wiki/concepts/ketaminetreatmentsafety/"
   - key: "KetogenicDietMentalHealth"
     title: "Ketogenic Diet and Mental Health"
     url: "/wiki/concepts/ketogenicdietmentalhealth/"

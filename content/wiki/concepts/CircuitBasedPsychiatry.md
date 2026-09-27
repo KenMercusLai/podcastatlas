@@ -6,6 +6,7 @@ sources:
   - essentials-psychedelics-neurostimulation-for-brain-rewiring-dr-nolan-williams-scim5296180263
   - essentials-compulsive-behaviors-deep-brain-stimulation-dr-casey-halpern-scim9347675622
   - essentials-understanding-healing-the-mind-dr-karl-deisseroth-scim2644851631
+  - ketamine-benefits-risks-for-depression-ptsd-neuroplasticity-scim3757014952
 knowledge_schema: synthesis-v1
 last_updated: 2026-09-12
 ---
@@ -24,12 +25,15 @@ The practical importance is that very different treatments may converge on netwo
 
 [[essentials-understanding-healing-the-mind-dr-karl-deisseroth-scim2644851631]] supplies the underlying precision requirement. [[KarlDeisseroth]] argues that cures require understanding relevant cells, regions, projections, body pathways, and normal activity patterns. Existing treatments can be useful before that map is complete, but broad electrical stimulation and immature biomarkers show why device capability alone cannot substitute for target knowledge.
 
+Ketamine adds a receptor-to-circuit case. In [[ketamine-benefits-risks-for-depression-ptsd-neuroplasticity-scim3757014952]], NMDA blockade is proposed to reduce inhibition, permit excitatory burst firing, recruit BDNF/TrkB-related change, and alter habenula, reward, frontal, cortical, and subcortical dynamics. Opioid involvement and the separation between acute dissociation and later benefit reinforce the circuit model while also showing that a coherent mechanism family is not yet a complete causal explanation.
+
 ## Key Claims
 - Circuit models explain symptoms through networks, timing, connectivity, cell types, projections, and brain-body state rather than one missing chemical.
 - Effective medication, psychotherapy, ECT, or stimulation does not by itself provide a complete mechanism of illness.
 - TMS, SNT, DBS, vagus stimulation, and future selective tools make the model actionable at different levels of precision and invasiveness.
 - Target discovery is the shared bottleneck: a powerful intervention is useful only when the relevant circuit and state signal are known.
 - Psychedelics, MDMA, ketamine, and neuromodulation may alter connectivity, plasticity, or learning, but evidence strength and mechanism differ.
+- Ketamine illustrates how receptor action, inhibitory gating, trophic signaling, opioid pathways, brain rhythms, and behavior can operate on different timescales.
 - Circuit framing must remain attached to clinical evidence, functional assessment, supervision, and uncertainty.
 
 ## Evidence
@@ -40,13 +44,14 @@ The practical importance is that very different treatments may converge on netwo
 - Cross-diagnostic compulsion - [[essentials-compulsive-behaviors-deep-brain-stimulation-dr-casey-halpern-scim9347675622]] links OCD, binge eating, addiction, obesity, depression, and suicidality through urge or impulse states pursued despite risk.
 - Understanding requirement - [[essentials-understanding-healing-the-mind-dr-karl-deisseroth-scim2644851631]] says cure requires identifying relevant cells, regions, connections, projections, and normal activity patterns.
 - Precision limit - [[essentials-understanding-healing-the-mind-dr-karl-deisseroth-scim2644851631]] contrasts dose-limited broad electrical stimulation with conditional cell- and projection-specific optogenetic control.
+- Ketamine circuit case - [[ketamine-benefits-risks-for-depression-ptsd-neuroplasticity-scim3757014952]] connects inhibitory-neuron NMDA blockade to burst firing, BDNF-related plasticity, reward availability, and frontal connectivity while separating immediate experience from delayed benefit.
 
 ## Counterevidence & Qualifications
-The sources do not show that all depression, OCD, addiction, obesity, binge eating, or suicidality are one circuit disorder, that medication is obsolete, or that circuit change automatically produces durable recovery. EEG biomarkers, optogenetic psychiatric treatment, brain-machine interfaces, and several altered-state mechanisms remain emerging or hypothetical rather than routine diagnostic or treatment tools.
+The sources do not show that all depression, PTSD, OCD, addiction, obesity, binge eating, or suicidality are one circuit disorder, that medication is obsolete, or that circuit change automatically produces durable recovery. EEG biomarkers, optogenetic psychiatric treatment, brain-machine interfaces, BDNF/TrkB interpretation, opioid involvement, and several altered-state mechanisms remain emerging, incomplete, or source-scoped rather than routine diagnostic tools or individualized treatment guides.
 
 ## What Changed
-- Added Deisseroth's cell-, projection-, and activity-pattern requirements for a genuinely explanatory circuit model.
-- Clarified that target knowledge, not stimulation power alone, is the central precision bottleneck.
+- Added ketamine as a receptor-to-disinhibition-to-plasticity circuit case.
+- Separated altered-state intensity from later clinical benefit and complete mechanism.
 
 ## Related Concepts
 - [[TranscranialMagneticStimulationForDepression]] - direct neuromodulation branch that operationalizes the circuit model.
@@ -60,3 +65,5 @@ The sources do not show that all depression, OCD, addiction, obesity, binge eati
 - [[UrgeDespiteRiskCircuit]] - cross-diagnostic compulsion and craving pattern.
 - [[PsychiatryMeasurementGap]] - present limit on turning physical circuit models into routine quantitative diagnosis.
 - [[SelectiveNeuralStimulationPrecision]] - requirement for cell- and projection-level targeting rather than broad electrical activation.
+- [[KetamineAntidepressantMechanisms]] - multi-timescale receptor, trophic, opioid, and circuit branch.
+- [[KetamineTreatmentSafety]] - clinical boundary around translating the circuit model into care.

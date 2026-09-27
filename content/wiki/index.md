@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Ketamine: Benefits and Risks for Depression, PTSD & Neuroplasticity](sources/ketamine-benefits-risks-for-depression-ptsd-neuroplasticity-scim3757014952.md) — Huberman Lab solo episode on rapid but often time-limited psychiatric benefit, NMDA/BDNF/opioid mechanisms, route-dependent exposure, dissociation, and supervised-use boundaries.
 - [VOL.65心脏外科｜先心病、冠心病、瓣膜病 这几种心脏疾病来听安贞医生怎么讲](sources/vol-65-xinzang-waike-xianxinbing-guanxinbing-banmobing-zhe-jizhong-xinzang-jibing-lai-ting-anzhen-yisheng-zenme-jiang-lo_ztsjizbunfsi5uhii1iv_lrzb.md) — 这病说来话长 episode on congenital findings, valve repair and replacement, coronary ischemia, myocardial infarction, and collapse-response boundaries.
 - [Improving Sexual & Urological Health in Males and Females | Dr. Rena Malik](sources/improving-sexual-urological-health-in-males-and-females-dr-rena-malik-scim6177024080.md) — Huberman Lab interview on pelvic-floor function matching, sexual desire and arousal, erectile and urinary health, recurrent UTIs, communication, and mechanism-based care.
 - [VOL.67无·事｜听躺进ICU的医生和普通病人在聊些什么？知道越多越恐惧？｜献礼医师节彩蛋](sources/lswakifoozu5vkckl5n-nzndj43e-lswakifoozu5vkckl5n-nzndj43e.md) — 这病说来话长 episode on ICU survivor experience, pulmonary-embolism escalation, anesthesiology, informed clinical trust, and responsible public medical communication.
@@ -22716,6 +22717,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Trading Probability Calibration / 交易概率校准](concepts/TradingProbabilityCalibration.md) — Validation of confidence against outcomes, market pricing, evidence dependence, costs, and position size.
 - [Sadean Naturalism](concepts/SadeanNaturalism.md) — Move from natural desire and struggle to moral permission for domination.
 - [Libertine Freedom-Domination Paradox](concepts/LibertineFreedomDominationParadox.md) — Contradiction in which liberation from restraint erases another person's consent and agency.
+- [Ketamine Treatment and Safety](concepts/KetamineTreatmentSafety.md) — Clinical boundary balancing rapid psychiatric benefit against route-sensitive exposure, short durability, dissociation, sedation, misuse, and polysubstance risk.
+- [Ketamine Antidepressant Mechanisms](concepts/KetamineAntidepressantMechanisms.md) — Multi-timescale synthesis of NMDA-mediated disinhibition, BDNF/TrkB, opioid signaling, mood circuits, acute experience, and later behavior.
+- [Brain-Derived Neurotrophic Factor](concepts/BrainDerivedNeurotrophicFactor.md) — Plasticity-signaling protein linked here to ketamine-related burst firing through bounded animal, human-variant, and TrkB evidence.
 
 - [Developmental Individuality](concepts/DevelopmentalIndividuality.md) — Framework joining heritability, broad experience, and stochastic development without treating population estimates as individual destiny.
 - [Perception as Biological Inference](concepts/PerceptionAsBiologicalInference.md) — Cross-sensory model in which receptors, learning, culture, expectation, and development jointly shape experienced reality.

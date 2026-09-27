@@ -8,6 +8,7 @@ sources:
   - essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647
   - essentials-psychedelics-neurostimulation-for-brain-rewiring-dr-nolan-williams-scim5296180263
   - vol-72-jingshenke-bie-tai-na-xingge-ceshi-dangshi-sanjia-jingshenke-yisheng-jiao-ni-he-zhichang-zuo-jianya-qiege-li6jofbvucknthuqw1flm-r0m4kw
+  - ketamine-benefits-risks-for-depression-ptsd-neuroplasticity-scim3757014952
 knowledge_schema: synthesis-v1
 last_updated: 2026-09-28
 ---
@@ -24,13 +25,15 @@ The Williams episode adds a circuit-psychiatry and psychedelic version of the sa
 
 VOL.72 adds a common outpatient medication version. It distinguishes discontinuation symptoms after abrupt stopping from addiction language, notes that some anti-anxiety medicines such as benzodiazepines can carry dependence risk, and places starting, switching, tapering, stopping, and dose decisions inside gradual clinician-guided care with regular follow-up. This does not make antidepressants risk-free; it makes precise risk language and supervision more important.
 
+The dedicated ketamine episode makes the boundary route-, dose-, state-, and combination-sensitive. Rapid benefit for some patients coexists with short durability, dissociation, deep sedation, anesthesia-like states, misuse, seizures, liver stress, impaired judgment, and heightened danger with alcohol or barbiturates. Its numerical dose and bioavailability examples therefore remain pharmacological context rather than instructions, and the absence of published microdosing evidence in the episode is not a license to improvise a regimen.
+
 ## Key Claims
 - Diet interventions that affect psychiatric symptoms can also affect medication needs, which increases supervision requirements.
 - Stopping or tapering psychiatric medication is framed as potentially dangerous and professionally supervised.
 - Serious mental disorders, disability from symptoms, bipolar disorder, schizophrenia, and multiple-medication situations are higher-risk contexts.
 - Bipolar disorder adds a separate replacement-risk case because talk therapy, lifestyle change, natural approaches, and supplements are described as insufficient stand-alone care.
 - OCD adds a behavioral-treatment case because exposure and ritual prevention deliberately evoke anxiety and should be planned by trained clinicians.
-- Circuit psychiatry adds an intensive-intervention case because TMS, SNT, ketamine, psychedelic-assisted treatment, lithium, medication tapering, high-ketosis diets, exposure work, and ECT depend on target, protocol, screening, evidence, monitoring, and follow-up.
+- Circuit psychiatry adds an intensive-intervention case because TMS, SNT, ketamine, psychedelic-assisted treatment, lithium, medication tapering, high-ketosis diets, exposure work, and ECT depend on target, protocol, screening, evidence, monitoring, and follow-up; ketamine specifically requires separating monitored use from at-home dosing, recreational use, and depressant combinations.
 - Withdrawal, physiological adaptation, misuse, and addiction should not be collapsed into one label, but all can still make unsupervised medication changes unsafe.
 
 ## Evidence
@@ -45,13 +48,14 @@ VOL.72 adds a common outpatient medication version. It distinguishes discontinua
 - Circuit and psychedelic boundary - [[essentials-psychedelics-neurostimulation-for-brain-rewiring-dr-nolan-williams-scim5296180263]] rejects a simple serotonin-deficit explanation while keeping SSRIs, ketamine, TMS, SNT, and psychedelics in clinical context.
 - High-intensity treatment boundary - [[essentials-psychedelics-neurostimulation-for-brain-rewiring-dr-nolan-williams-scim5296180263]] says psychedelics require rigorous evidence and strict medical supervision, and singles out ibogaine for cardiac-risk screening.
 - Outpatient tapering and dependence distinction - [[vol-72-jingshenke-bie-tai-na-xingge-ceshi-dangshi-sanjia-jingshenke-yisheng-jiao-ni-he-zhichang-zuo-jianya-qiege-li6jofbvucknthuqw1flm-r0m4kw]] describes abrupt-stop reactions, benzodiazepine dependence risk, gradual adjustment, adherence to instructions, and regular face-to-face follow-up.
+- Ketamine monitoring boundary - [[ketamine-benefits-risks-for-depression-ptsd-neuroplasticity-scim3757014952]] separates monitored sub-anesthetic treatment from route conversion, K-hole, anesthesia-level exposure, impaired activity, liver strain, seizure, misuse, and polysubstance risks.
 
 ## Counterevidence & Qualifications
-The sources do not provide formal medication-tapering, SSRI-selection, benzodiazepine-duration, lithium-monitoring, ECT-selection, exposure-hierarchy, supplement-safety, TMS/SNT-selection, psychedelic-screening, OCD, trauma, PTSD, depression, anxiety, or bipolar relapse protocols. VOL.72's statement that antidepressants are not generally described as addictive should not be read as denying discontinuation symptoms, adverse effects, misuse risk, or individual variation. The sources establish a supervision boundary rather than a treatment plan.
+The sources do not provide formal medication-tapering, SSRI-selection, benzodiazepine-duration, lithium-monitoring, ECT-selection, exposure-hierarchy, supplement-safety, TMS/SNT-selection, psychedelic-screening, ketamine-selection, route-conversion, maintenance-dosing, OCD, trauma, PTSD, depression, anxiety, or bipolar relapse protocols. VOL.72's statement that antidepressants are not generally described as addictive should not be read as denying discontinuation symptoms, adverse effects, misuse risk, or individual variation. The ketamine source's efficacy, bioavailability, stereoisomer, microdosing, and toxicity claims likewise remain public education. These sources establish a supervision boundary rather than a treatment plan.
 
 ## What Changed
-- Added the outpatient distinction among discontinuation effects, dependence risk, and addiction language.
-- Extended the boundary to gradual clinician-guided starting, switching, tapering, stopping, and regular follow-up.
+- Added ketamine as a dose-, route-, state-, and combination-sensitive supervision case.
+- Explicitly separated pharmacokinetic context from route-conversion or maintenance instructions.
 
 ## Related Concepts
 - [[MedicalRiskManagement]] - broader framework for high-stakes clinical decision safety.
@@ -67,3 +71,4 @@ The sources do not provide formal medication-tapering, SSRI-selection, benzodiaz
 - [[StanfordNeuromodulationTherapy]] - intensive neuromodulation protocol that requires clinical delivery.
 - [[PsychedelicClinicalSupervisionBoundary]] - psychedelic-specific supervision rule added by the Williams episode.
 - [[MentalHealthSymptomEscalation]] - triage rule for deciding when symptoms need qualified assessment before medication decisions.
+- [[KetamineTreatmentSafety]] - dedicated boundary for rapid benefit, monitoring, sedation, misuse, and polysubstance risk.

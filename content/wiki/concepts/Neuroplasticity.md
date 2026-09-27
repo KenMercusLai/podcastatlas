@@ -9,6 +9,7 @@ sources:
   - essentials-how-to-learn-skills-faster-scim2224786015
   - optimal-protocols-for-studying-learning-scim3722040660
   - how-to-improve-brain-health-offset-neurodegeneration-dr-gary-steinberg-scim3649091801
+  - ketamine-benefits-risks-for-depression-ptsd-neuroplasticity-scim3757014952
 knowledge_schema: synthesis-v1
 last_updated: 2026-09-25
 ---
@@ -25,6 +26,8 @@ The motor-learning episode makes the practice loop more concrete: safe repetitio
 
 The Steinberg episode adds a post-injury branch. Plasticity can allow surviving circuits to assume functions after stroke or traumatic injury, while rehabilitation supplies task demand and feedback. Experimental cells may support the recovery environment through signaling rather than becoming replacement neurons, and paired stimulation may amplify therapy in selected patients; neither turns plasticity into automatic regeneration.
 
+The ketamine episode adds a pharmacological branch without creating a "plasticity drug" shortcut. NMDA blockade on inhibitory neurons is proposed to disinhibit excitatory burst firing, which may recruit [[BrainDerivedNeurotrophicFactor]] and later circuit change. Opioid signaling, TrkB-related effects, altered rhythms, and post-treatment behavior may also contribute, so the acute dissociative state is not treated as identical to the longer-term antidepressant process.
+
 Plasticity is therefore supported by repeated, sufficiently challenging stimulation, recovery, diet, movement, and meaningful feedback. It is weakened when tools remove the search, recall, comparison, and correction work that trains the system. It also should not be inflated into a universal intervention claim: there is no "plasticity pill," psychedelic evidence remains unsettled, and concussion or clinical recovery belongs inside medical guidance.
 
 ## Key Claims
@@ -33,7 +36,7 @@ Plasticity is therefore supported by repeated, sufficiently challenging stimulat
 - Active retrieval, explanation, movement, language learning, music, dance, sport, and other multimodal activities can provide stronger training loops than passive input.
 - AI can support learning when it preserves reasoning and feedback, but it can reduce plasticity opportunities when it removes effortful practice.
 - Sleep, recovery, diet, and exercise shape whether practice can consolidate rather than just consume attention.
-- Psychedelic or altered-state plasticity claims remain promising but unresolved, especially when evidence is single-subject or subjective.
+- Psychedelic, dissociative, or altered-state plasticity claims remain promising but unresolved; subjective intensity is not itself proof of durable beneficial change.
 - Brain-injury and dementia-prevention contexts require safety boundaries: post-stroke recovery can recruit surviving circuits, but rehabilitation timing and any biological or stimulation adjunct remain injury- and patient-specific.
 
 ## Evidence
@@ -47,13 +50,14 @@ Plasticity is therefore supported by repeated, sufficiently challenging stimulat
 - Study selection and consolidation - [[optimal-protocols-for-studying-learning-scim3722040660]] links alert focus, effortful retrieval, correction, brief rest, and sleep while emphasizing changes among existing neurons rather than broad adult neurogenesis.
 - Post-injury reorganization - [[how-to-improve-brain-health-offset-neurodegeneration-dr-gary-steinberg-scim3649091801]] describes surviving circuits taking over function after stroke or injury and pairs that possibility with physical and constraint-based rehabilitation.
 - Regeneration boundary - [[how-to-improve-brain-health-offset-neurodegeneration-dr-gary-steinberg-scim3649091801]] says experimental stem cells are proposed to work mainly through secreted factors, vascular and repair support, and immune modulation rather than direct replacement of lost neurons.
+- Ketamine branch - [[ketamine-benefits-risks-for-depression-ptsd-neuroplasticity-scim3757014952]] links disinhibition and burst firing to BDNF/TrkB-related change while separating acute dissociation from later antidepressant benefit.
 
 ## Counterevidence & Qualifications
-The evidence does not imply that every difficult activity transfers broadly, that more repetitions are always better, that meditation, NSDR, caffeine, or brief pauses reliably improve every kind of learning, that psychedelics create durable beneficial change, or that plasticity can be pursued without safety, sleep, recovery, or medical context. Plasticity can include pruning and weakening connections, so change is not automatically improvement. The learning episodes' replay and sleep mechanisms and the Steinberg episode's recovery mechanisms, stem-cell effects, treatment timing, and stimulation outcomes remain source-scoped.
+The evidence does not imply that every difficult activity transfers broadly, that more repetitions are always better, that meditation, NSDR, caffeine, or brief pauses reliably improve every kind of learning, that psychedelics or ketamine create durable beneficial change, or that plasticity can be pursued without safety, sleep, recovery, or medical context. Plasticity can include pruning and weakening connections, so change is not automatically improvement. The learning episodes' replay and sleep mechanisms, the Steinberg episode's recovery mechanisms, and the ketamine episode's BDNF, TrkB, opioid, rhythm, dose, and behavior claims remain source-scoped.
 
 ## What Changed
-- Added post-stroke and post-injury functional reassignment through surviving circuits and structured rehabilitation.
-- Separated plasticity-supporting cell signals and stimulation from direct neuronal replacement or guaranteed recovery.
+- Added a ketamine branch in which disinhibition and BDNF-related signaling may open a temporary change window.
+- Separated acute dissociation from proof of durable or beneficial plasticity.
 
 ## Related Concepts
 - [[MultimodalAdultNeuroplasticity]] - adult practice branch built around embodied, social, and cognitively rich challenge.
@@ -66,3 +70,5 @@ The evidence does not imply that every difficult activity transfers broadly, tha
 - [[NeurorestorativeStrokeRecovery]] - stroke-specific branch pairing rehabilitation with qualified biological or electrical adjuncts.
 - [[MotorSkillRepetitionDensity]] - motor-learning branch that turns error and correction into dense practice.
 - [[PostPracticeMotorConsolidation]] - low-interference recovery branch after skill practice.
+- [[BrainDerivedNeurotrophicFactor]] - trophic-signaling branch added by the ketamine episode.
+- [[KetamineAntidepressantMechanisms]] - multi-process pharmacological and circuit account.

@@ -9127,9 +9127,9 @@
       "url": "/wiki/entities/andrewbogle/"
     },
     "AndrewHuberman": {
-      "episode_count": 52,
+      "episode_count": 53,
       "show_count": 1,
-      "source_note_count": 52,
+      "source_note_count": 53,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -9494,6 +9494,13 @@
           "show": "Huberman Lab",
           "title": "Goals Toolkit: How to Set & Achieve Your Goals",
           "url": "/wiki/sources/goals-toolkit-how-to-set-achieve-your-goals-scim1532399364/"
+        },
+        {
+          "episode_file": "SCIM3757014952 [SCIM3757014952].md",
+          "key": "ketamine-benefits-risks-for-depression-ptsd-neuroplasticity-scim3757014952",
+          "show": "Huberman Lab",
+          "title": "Ketamine: Benefits and Risks for Depression, PTSD & Neuroplasticity",
+          "url": "/wiki/sources/ketamine-benefits-risks-for-depression-ptsd-neuroplasticity-scim3757014952/"
         }
       ],
       "updated": "2026-09-28",
@@ -18825,6 +18832,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/brainbodyemotionmapping/"
+    },
+    "BrainDerivedNeurotrophicFactor": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3757014952 [SCIM3757014952].md",
+          "key": "ketamine-benefits-risks-for-depression-ptsd-neuroplasticity-scim3757014952",
+          "show": "Huberman Lab",
+          "title": "Ketamine: Benefits and Risks for Depression, PTSD & Neuroplasticity",
+          "url": "/wiki/sources/ketamine-benefits-risks-for-depression-ptsd-neuroplasticity-scim3757014952/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/brainderivedneurotrophicfactor/"
     },
     "BrainHQ": {
       "episode_count": 1,
@@ -28684,9 +28707,9 @@
       "url": "/wiki/entities/circe/"
     },
     "CircuitBasedPsychiatry": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM5296180263 [SCIM5296180263].md",
@@ -28708,6 +28731,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: Understanding & Healing the Mind | Dr. Karl Deisseroth",
           "url": "/wiki/sources/essentials-understanding-healing-the-mind-dr-karl-deisseroth-scim2644851631/"
+        },
+        {
+          "episode_file": "SCIM3757014952 [SCIM3757014952].md",
+          "key": "ketamine-benefits-risks-for-depression-ptsd-neuroplasticity-scim3757014952",
+          "show": "Huberman Lab",
+          "title": "Ketamine: Benefits and Risks for Depression, PTSD & Neuroplasticity",
+          "url": "/wiki/sources/ketamine-benefits-risks-for-depression-ptsd-neuroplasticity-scim3757014952/"
         }
       ],
       "updated": "2026-09-12",
@@ -75193,9 +75223,9 @@
       "url": "/wiki/entities/hubeihumanoidinnovationcenter/"
     },
     "HubermanLab": {
-      "episode_count": 52,
+      "episode_count": 53,
       "show_count": 1,
-      "source_note_count": 52,
+      "source_note_count": 53,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -75560,6 +75590,13 @@
           "show": "Huberman Lab",
           "title": "Goals Toolkit: How to Set & Achieve Your Goals",
           "url": "/wiki/sources/goals-toolkit-how-to-set-achieve-your-goals-scim1532399364/"
+        },
+        {
+          "episode_file": "SCIM3757014952 [SCIM3757014952].md",
+          "key": "ketamine-benefits-risks-for-depression-ptsd-neuroplasticity-scim3757014952",
+          "show": "Huberman Lab",
+          "title": "Ketamine: Benefits and Risks for Depression, PTSD & Neuroplasticity",
+          "url": "/wiki/sources/ketamine-benefits-risks-for-depression-ptsd-neuroplasticity-scim3757014952/"
         }
       ],
       "updated": "2026-09-28",
@@ -86541,6 +86578,38 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/kentarofujita/"
+    },
+    "KetamineAntidepressantMechanisms": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3757014952 [SCIM3757014952].md",
+          "key": "ketamine-benefits-risks-for-depression-ptsd-neuroplasticity-scim3757014952",
+          "show": "Huberman Lab",
+          "title": "Ketamine: Benefits and Risks for Depression, PTSD & Neuroplasticity",
+          "url": "/wiki/sources/ketamine-benefits-risks-for-depression-ptsd-neuroplasticity-scim3757014952/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/ketamineantidepressantmechanisms/"
+    },
+    "KetamineTreatmentSafety": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3757014952 [SCIM3757014952].md",
+          "key": "ketamine-benefits-risks-for-depression-ptsd-neuroplasticity-scim3757014952",
+          "show": "Huberman Lab",
+          "title": "Ketamine: Benefits and Risks for Depression, PTSD & Neuroplasticity",
+          "url": "/wiki/sources/ketamine-benefits-risks-for-depression-ptsd-neuroplasticity-scim3757014952/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/ketaminetreatmentsafety/"
     },
     "KetogenicDietEpilepsyEvidence": {
       "episode_count": 1,
@@ -111371,9 +111440,9 @@
       "url": "/wiki/concepts/neuromodulatorstatetoolkit/"
     },
     "Neuroplasticity": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 3,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "用 AI 让我们变笨了吗？｜ S10E25 [a6b360da-07f7-4d9e-ab1b-64a7130e9254].md",
@@ -111416,6 +111485,13 @@
           "show": "Huberman Lab",
           "title": "How to Improve Brain Health & Offset Neurodegeneration | Dr. Gary Steinberg",
           "url": "/wiki/sources/how-to-improve-brain-health-offset-neurodegeneration-dr-gary-steinberg-scim3649091801/"
+        },
+        {
+          "episode_file": "SCIM3757014952 [SCIM3757014952].md",
+          "key": "ketamine-benefits-risks-for-depression-ptsd-neuroplasticity-scim3757014952",
+          "show": "Huberman Lab",
+          "title": "Ketamine: Benefits and Risks for Depression, PTSD & Neuroplasticity",
+          "url": "/wiki/sources/ketamine-benefits-risks-for-depression-ptsd-neuroplasticity-scim3757014952/"
         }
       ],
       "updated": "2026-09-25",
@@ -125916,9 +125992,9 @@
       "url": "/wiki/concepts/psychiatricfunctionaldiagnosis/"
     },
     "PsychiatricMedicationSupervisionBoundary": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -125954,6 +126030,13 @@
           "show": "这病说来话长",
           "title": "VOL.72精神科｜别太拿性格测试当事 三甲精神科医生教你和职场做减压切割",
           "url": "/wiki/sources/vol-72-jingshenke-bie-tai-na-xingge-ceshi-dangshi-sanjia-jingshenke-yisheng-jiao-ni-he-zhichang-zuo-jianya-qiege-li6jofbvucknthuqw1flm-r0m4kw/"
+        },
+        {
+          "episode_file": "SCIM3757014952 [SCIM3757014952].md",
+          "key": "ketamine-benefits-risks-for-depression-ptsd-neuroplasticity-scim3757014952",
+          "show": "Huberman Lab",
+          "title": "Ketamine: Benefits and Risks for Depression, PTSD & Neuroplasticity",
+          "url": "/wiki/sources/ketamine-benefits-risks-for-depression-ptsd-neuroplasticity-scim3757014952/"
         }
       ],
       "updated": "2026-09-28",
