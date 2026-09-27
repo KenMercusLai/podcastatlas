@@ -23369,3 +23369,7 @@ Added source `401-windrush-the-story-of-black-britain-glt4826407019`; created `T
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | How Sugar & Processed Foods Impact Your Health | Dr. Robert Lustig
+
+Added source `how-sugar-processed-foods-impact-your-health-dr-robert-lustig-scim6504027968`; created `RobertLustig`, `CalorieMetabolicNonEquivalence`, and `FoodSystemNutritionResponsibility`; and updated `PracticalSugarControl`, `AddedFreeSugarDistinction`, `LiquidSugarRisk`, `SugarCravingNeuralControl`, `MetabolicCapacityModel`, `UltraProcessedFoodPragmaticBoundary`, the canonical index, and overview from their complete bounded source sets. Core synthesis: labeled calories can differ in absorption, thermic processing, nutrient handling, signaling, and microbiome access, while practical sugar reduction and food choice operate inside constraints created by fiber and food structure, labels, access, affordability, institutional defaults, and product design. No settled contradiction found. Lustig's categorical ultra-processed-food rhetoric is bounded by replacement and affordability tests, while enzyme mechanisms, prevalence figures, sweetener studies, policy effects, ingredient heuristics, and GLP-1 body-composition, adverse-effect, and cost claims remain source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.

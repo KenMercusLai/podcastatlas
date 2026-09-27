@@ -5035,9 +5035,9 @@
       "url": "/wiki/entities/adamforoughi/"
     },
     "AddedFreeSugarDistinction": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ltb5LYaycaXOIJiKTBO4pXne2A5Z [ltb5LYaycaXOIJiKTBO4pXne2A5Z].md",
@@ -5045,9 +5045,16 @@
           "show": "这病说来话长",
           "title": "VOL.215 低GI蜂蜜、零蔗糖、抗糖丸…？这届控糖人到底踩了多少坑？ft.「大食话」",
           "url": "/wiki/sources/vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z/"
+        },
+        {
+          "episode_file": "SCIM6504027968 [SCIM6504027968].md",
+          "key": "how-sugar-processed-foods-impact-your-health-dr-robert-lustig-scim6504027968",
+          "show": "Huberman Lab",
+          "title": "How Sugar & Processed Foods Impact Your Health | Dr. Robert Lustig",
+          "url": "/wiki/sources/how-sugar-processed-foods-impact-your-health-dr-robert-lustig-scim6504027968/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/addedfreesugardistinction/"
     },
     "AddictionAsAttemptedRelief": {
@@ -19416,6 +19423,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/calmassertiveenergy/"
+    },
+    "CalorieMetabolicNonEquivalence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6504027968 [SCIM6504027968].md",
+          "key": "how-sugar-processed-foods-impact-your-health-dr-robert-lustig-scim6504027968",
+          "show": "Huberman Lab",
+          "title": "How Sugar & Processed Foods Impact Your Health | Dr. Robert Lustig",
+          "url": "/wiki/sources/how-sugar-processed-foods-impact-your-health-dr-robert-lustig-scim6504027968/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/caloriemetabolicnonequivalence/"
     },
     "Caltech": {
       "episode_count": 1,
@@ -52054,6 +52077,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/foodpleasureengineering/"
+    },
+    "FoodSystemNutritionResponsibility": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6504027968 [SCIM6504027968].md",
+          "key": "how-sugar-processed-foods-impact-your-health-dr-robert-lustig-scim6504027968",
+          "show": "Huberman Lab",
+          "title": "How Sugar & Processed Foods Impact Your Health | Dr. Robert Lustig",
+          "url": "/wiki/sources/how-sugar-processed-foods-impact-your-health-dr-robert-lustig-scim6504027968/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/foodsystemnutritionresponsibility/"
     },
     "FoodserviceBeachheadScaling": {
       "episode_count": 1,
@@ -86437,9 +86476,9 @@
       "url": "/wiki/concepts/liquidbiopsyscreeningboundary/"
     },
     "LiquidSugarRisk": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ltb5LYaycaXOIJiKTBO4pXne2A5Z [ltb5LYaycaXOIJiKTBO4pXne2A5Z].md",
@@ -86447,9 +86486,16 @@
           "show": "这病说来话长",
           "title": "VOL.215 低GI蜂蜜、零蔗糖、抗糖丸…？这届控糖人到底踩了多少坑？ft.「大食话」",
           "url": "/wiki/sources/vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z/"
+        },
+        {
+          "episode_file": "SCIM6504027968 [SCIM6504027968].md",
+          "key": "how-sugar-processed-foods-impact-your-health-dr-robert-lustig-scim6504027968",
+          "show": "Huberman Lab",
+          "title": "How Sugar & Processed Foods Impact Your Health | Dr. Robert Lustig",
+          "url": "/wiki/sources/how-sugar-processed-foods-impact-your-health-dr-robert-lustig-scim6504027968/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/liquidsugarrisk/"
     },
     "LiquidityDrivenVolatilityCascade": {
@@ -98186,9 +98232,9 @@
       "url": "/wiki/concepts/metamoment/"
     },
     "MetabolicCapacityModel": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM3664199211 [SCIM3664199211].md",
@@ -98196,9 +98242,16 @@
           "show": "Huberman Lab",
           "title": "Transform Your Health by Improving Metabolism, Hormone & Blood Sugar Regulation | Dr. Casey Means",
           "url": "/wiki/sources/transform-your-health-by-improving-metabolism-hormone-blood-sugar-regulation-dr-casey-means-scim3664199211/"
+        },
+        {
+          "episode_file": "SCIM6504027968 [SCIM6504027968].md",
+          "key": "how-sugar-processed-foods-impact-your-health-dr-robert-lustig-scim6504027968",
+          "show": "Huberman Lab",
+          "title": "How Sugar & Processed Foods Impact Your Health | Dr. Robert Lustig",
+          "url": "/wiki/sources/how-sugar-processed-foods-impact-your-health-dr-robert-lustig-scim6504027968/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/metaboliccapacitymodel/"
     },
     "MetabolicHealthBiomarkerContext": {
@@ -115120,9 +115173,9 @@
       "url": "/wiki/concepts/practicalbalancedeating/"
     },
     "PracticalSugarControl": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "ltb5LYaycaXOIJiKTBO4pXne2A5Z [ltb5LYaycaXOIJiKTBO4pXne2A5Z].md",
@@ -115144,9 +115197,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Control Sugar Cravings & Metabolism with Science-Based Tools",
           "url": "/wiki/sources/essentials-control-sugar-cravings-metabolism-with-science-based-tools-scim2821501065/"
+        },
+        {
+          "episode_file": "SCIM6504027968 [SCIM6504027968].md",
+          "key": "how-sugar-processed-foods-impact-your-health-dr-robert-lustig-scim6504027968",
+          "show": "Huberman Lab",
+          "title": "How Sugar & Processed Foods Impact Your Health | Dr. Robert Lustig",
+          "url": "/wiki/sources/how-sugar-processed-foods-impact-your-health-dr-robert-lustig-scim6504027968/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/practicalsugarcontrol/"
     },
     "PracticeBeforeFeeling": {
@@ -124099,6 +124159,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/robertgraves/"
+    },
+    "RobertLustig": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6504027968 [SCIM6504027968].md",
+          "key": "how-sugar-processed-foods-impact-your-health-dr-robert-lustig-scim6504027968",
+          "show": "Huberman Lab",
+          "title": "How Sugar & Processed Foods Impact Your Health | Dr. Robert Lustig",
+          "url": "/wiki/sources/how-sugar-processed-foods-impact-your-health-dr-robert-lustig-scim6504027968/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/robertlustig/"
     },
     "RobertMacfarlane": {
       "episode_count": 1,
@@ -138372,9 +138448,9 @@
       "url": "/wiki/concepts/sufferingbasedmoralsubjecthood/"
     },
     "SugarCravingNeuralControl": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM2821501065 [SCIM2821501065].md",
@@ -138389,9 +138465,16 @@
           "show": "Huberman Lab",
           "title": "The Science of Your Gut Sense & the Gut-Brain Axis | Dr. Diego Bohórquez",
           "url": "/wiki/sources/the-science-of-your-gut-sense-the-gut-brain-axis-dr-diego-bohorquez-scim8970398714/"
+        },
+        {
+          "episode_file": "SCIM6504027968 [SCIM6504027968].md",
+          "key": "how-sugar-processed-foods-impact-your-health-dr-robert-lustig-scim6504027968",
+          "show": "Huberman Lab",
+          "title": "How Sugar & Processed Foods Impact Your Health | Dr. Robert Lustig",
+          "url": "/wiki/sources/how-sugar-processed-foods-impact-your-health-dr-robert-lustig-scim6504027968/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/sugarcravingneuralcontrol/"
     },
     "SuiHongWesternHan": {
@@ -147390,9 +147473,9 @@
       "url": "/wiki/entities/ultabeauty/"
     },
     "UltraProcessedFoodPragmaticBoundary": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM3206044616 [SCIM3206044616].md",
@@ -147414,9 +147497,16 @@
           "show": "Huberman Lab",
           "title": "The Science of Hunger & Medications to Combat Obesity | Dr. Zachary Knight",
           "url": "/wiki/sources/the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890/"
+        },
+        {
+          "episode_file": "SCIM6504027968 [SCIM6504027968].md",
+          "key": "how-sugar-processed-foods-impact-your-health-dr-robert-lustig-scim6504027968",
+          "show": "Huberman Lab",
+          "title": "How Sugar & Processed Foods Impact Your Health | Dr. Robert Lustig",
+          "url": "/wiki/sources/how-sugar-processed-foods-impact-your-health-dr-robert-lustig-scim6504027968/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/ultraprocessedfoodpragmaticboundary/"
     },
     "UltradianDeepWorkBlock": {

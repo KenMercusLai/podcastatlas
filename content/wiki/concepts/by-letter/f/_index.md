@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 8344
+wiki_total_pages: 8346
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -710,6 +710,9 @@ wiki_pages:
   - key: "FoodserviceBeachheadScaling"
     title: "Food-Service Beachhead Scaling"
     url: "/wiki/concepts/foodservicebeachheadscaling/"
+  - key: "FoodSystemNutritionResponsibility"
+    title: "Food-System Nutrition Responsibility"
+    url: "/wiki/concepts/foodsystemnutritionresponsibility/"
   - key: "FoodbornePathogenUncertainty"
     title: "Foodborne Pathogen Uncertainty"
     url: "/wiki/concepts/foodbornepathogenuncertainty/"

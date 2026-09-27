@@ -5,7 +5,8 @@ tags: [neuroscience, nutrition, sugar, metabolism]
 sources:
   - essentials-control-sugar-cravings-metabolism-with-science-based-tools-scim2821501065
   - the-science-of-your-gut-sense-the-gut-brain-axis-dr-diego-bohorquez-scim8970398714
-last_updated: 2026-09-25
+  - how-sugar-processed-foods-impact-your-health-dr-robert-lustig-scim6504027968
+last_updated: 2026-09-27
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,8 +22,10 @@ The Bohórquez interview makes the second pathway more specific through [[GutSen
 
 The current judgment is that sugar control needs both environment and mechanism. Label literacy and beverage reduction still matter, but cravings can also be reinforced by foods that raise blood glucose or trigger gut nutrient sensing even when sweetness is not obvious. That makes food context, sleep, mixed meals, and cautious tool use part of the same control problem.
 
+The Lustig interview adds a proposed insulin-leptin-reward loop: insulin is said to inhibit leptin signaling in hypothalamic and reward circuits, while repeated sugar-driven dopamine stimulation may downregulate receptors and increase tolerance or pursuit. This is compatible with the page's wanting-versus-liking frame, but the condensed note does not establish the size, universality, or clinical diagnostic value of that pathway.
+
 ## Key Claims
-- Sugar seeking is shaped by hormone, glucose, brain-energy, dopamine, and gut-sensing systems rather than only conscious preference.
+- Sugar seeking is shaped by hormone, glucose, brain-energy, dopamine, gut-sensing, and proposed insulin-leptin-reward systems rather than only conscious preference.
 - Sweet taste and post-ingestive nutritive sensing can reinforce sugar seeking through partly distinct pathways.
 - Dopamine-linked wanting can make a sweet stimulus increase pursuit for more food rather than simply end the craving.
 - Hidden sugars in savory foods can activate gut-based reinforcement without being consciously experienced as sweetness.
@@ -36,11 +39,13 @@ The current judgment is that sugar control needs both environment and mechanism.
 - Dopamine and wanting - [[essentials-control-sugar-cravings-metabolism-with-science-based-tools-scim2821501065]] says sweet taste and gut sugar sensing can increase dopamine-linked pursuit.
 - Hidden-sugar mechanism - [[essentials-control-sugar-cravings-metabolism-with-science-based-tools-scim2821501065]] describes neuropod cells, the vagus nerve, nodose ganglion, and nucleus of the solitary tract as part of the gut-to-brain route.
 - Cellular and behavioral test - [[the-science-of-your-gut-sense-the-gut-brain-axis-dr-diego-bohorquez-scim8970398714]] describes glucose-triggered depolarization and glutamate release, then reports mouse optogenetic inhibition and activation that changed sugar, sweetener, and water preference.
+- Insulin-leptin-reward proposal - [[how-sugar-processed-foods-impact-your-health-dr-robert-lustig-scim6504027968]] links insulin to reduced leptin signaling and repeated dopamine stimulation to receptor downregulation, tolerance, hunger, and continued seeking.
 
 ## Counterevidence & Qualifications
-The page is based on two Huberman Lab source notes and should not be treated as a full clinical model of appetite, diabetes, obesity, eating disorders, hypoglycemia, cancer care, gastrointestinal disease, medication effects, or individualized nutrition. The Bohórquez note supplies no primary-paper methods, sample sizes, or effect sizes, and mouse liquid-choice behavior does not establish identical human craving experience. Fructose, glutamine, lemon/lime juice, cinnamon, berberine, sleep, gastric-bypass, and broader intuition claims remain source-scoped unless supported by stronger evidence.
+The page is based on three Huberman Lab source notes and should not be treated as a full clinical model of appetite, diabetes, obesity, eating disorders, hypoglycemia, cancer care, gastrointestinal disease, medication effects, addiction diagnosis, or individualized nutrition. The Bohórquez note supplies no primary-paper methods, sample sizes, or effect sizes, and mouse liquid-choice behavior does not establish identical human craving experience. The Lustig note likewise does not provide study-level evidence for receptor downregulation, insulin-leptin effects, price elasticity as proof of addiction, or equivalence with drug addiction. Fructose, glutamine, lemon/lime juice, cinnamon, berberine, sleep, gastric-bypass, and broader intuition claims remain source-scoped unless supported by stronger evidence.
 
 ## What Changed
+- Added an insulin-leptin-dopamine account while keeping addiction language and pathway magnitude source-scoped.
 - Added optogenetic mouse evidence that neuropod-cell signaling can causally alter sugar-versus-sweetener preference.
 - Added a more specific receptor-to-depolarization-to-glutamate account while preserving the animal-to-human boundary.
 
@@ -52,3 +57,4 @@ The page is based on two Huberman Lab source notes and should not be treated as 
 - [[ContinuousGlucoseMonitoring]] - measurement neighbor for observing glucose curves and meal response.
 - [[FoodPleasureEngineering]] - broader food-environment concept explaining why moderation is not only a willpower problem.
 - [[GutSensoryNeuralSignaling]] - broader cellular and vagal pathway underlying the post-ingestive branch.
+- [[FoodSystemNutritionResponsibility]] - environmental and institutional layer shaping exposure to reinforcing foods.
