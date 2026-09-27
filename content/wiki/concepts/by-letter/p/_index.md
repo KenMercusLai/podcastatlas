@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8402
+wiki_total_pages: 8405
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -659,6 +659,9 @@ wiki_pages:
   - key: "PhysiognomyMoralAppearanceFallacy"
     title: "Physiognomy Moral Appearance Fallacy / 以貌定德谬误"
     url: "/wiki/concepts/physiognomymoralappearancefallacy/"
+  - key: "PhysiologicalSigh"
+    title: "Physiological Sigh"
+    url: "/wiki/concepts/physiologicalsigh/"
   - key: "PiaberoEconomy"
     title: "Piabero Economy"
     url: "/wiki/concepts/piaberoeconomy/"

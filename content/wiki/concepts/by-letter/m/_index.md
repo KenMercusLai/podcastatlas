@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 8402
+wiki_total_pages: 8405
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -605,6 +605,9 @@ wiki_pages:
   - key: "MentalIllnessDestigmatization"
     title: "Mental Illness Destigmatization / 精神疾病去污名化"
     url: "/wiki/concepts/mentalillnessdestigmatization/"
+  - key: "MentalHealthBiologicalFoundations"
+    title: "Mental-Health Biological Foundations"
+    url: "/wiki/concepts/mentalhealthbiologicalfoundations/"
   - key: "MentalHealthHelpSeekingScamRisk"
     title: "Mental-Health Help-Seeking Scam Risk / 心理求助被骗风险"
     url: "/wiki/concepts/mentalhealthhelpseekingscamrisk/"

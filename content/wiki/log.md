@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-27] ingest | Mental Health Toolkit: Tools to Bolster Your Mood & Mental Health
+
+Added source `mental-health-toolkit-tools-to-bolster-your-mood-mental-health-scim1991900083`; created `MentalHealthBiologicalFoundations`, `PhysiologicalSigh`, and `ReflectiveSelfExploration`; and updated `PaulConti`, `EmotionalGranularity`, `DayNightLightMentalHealth`, `GenerativeDrive`, `LiminalSleepTransitionPractice`, and the canonical index from their complete bounded source sets. Core synthesis: sleep, light-dark exposure, movement, nutrition, social connection, and stress regulation create a necessary but insufficient biological platform for precise emotional awareness, reflective self-exploration, agency, gratitude, and generative action. No settled contradiction found. Exact sleep, light, exercise, cold, breathing, medication, psychedelic, supplement, HRV, dream, and trauma claims remain source-scoped public education; serious mental illness and major or repeated trauma remain qualified-care contexts. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-27] ingest | VOL.83妇科｜你是否也正被这些问题困扰？生理期、妇科检查、盆底肌修复、产褥期的问题这篇一一作答
 
 Added source `vol-83-fuke-ni-shifou-ye-zheng-bei-zhexie-wenti-kunrao-shengliqi-fuke-jiancha-pendiji-xiufu-chanruqi-de-wenti-zhepian-yiyi-zuoda-loabkthdztlcuy7qfhsrkaqujlf3`; created `BaoerGynecologist`, `FirstAffiliatedHospitalChengduMedicalCollege`, `GynecologicalSymptomTriage`, and `PostpartumPelvicFloorRehabilitation`; and updated the canonical index. Core synthesis: menstrual, bleeding, discharge, abdominal-pain, postpartum, contraception, AMH, and examination questions become safer when interpreted through timing, recurrence, progression, severity, associated symptoms, function, and explicit escalation rather than folklore or one biomarker. No settled contradiction found. Numerical ranges, screening cadence, medication washout periods, surgical comparisons, rehabilitation protocols, and treatment claims remain source-scoped public education rather than individualized medical guidance. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -23649,6 +23653,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-27] ingest | AMA #12: Thoughts on Longevity Supplements (Resveratrol, NR, NMN, Etc.) & How to Improve Memory
 
 Added source `ama-12-thoughts-on-longevity-supplements-resveratrol-nr-nmn-etc-how-to-improve-memory-scim5764692205`; updated `AndrewHuberman`, `HubermanLab`, `NADTherapyEvidenceBoundary`, `MechanismOutcomeEvidenceHierarchy`, `SustainableHealthOptimization`, and the canonical index from their complete bounded source sets. Core synthesis: resveratrol, NAD, NR, NMN, glucose-lowering, and mTOR mechanisms do not by themselves establish longer human life, and subjective energy or recovery reports remain distinct from clinical efficacy; sleep, exercise, nutrition, light, circadian alignment, stress control, and social connection remain the higher-priority longevity foundation. No settled contradiction found. Supplement doses, infusion effects, vascular claims, regulatory status, exercise targets, and drug judgments remain source-scoped public education rather than individualized medical guidance. The title mentions memory, but the supplied document does not summarize that segment, so no memory protocol was inferred. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-27] lint | Wiki health check
 

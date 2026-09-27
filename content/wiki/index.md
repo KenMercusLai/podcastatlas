@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Mental Health Toolkit: Tools to Bolster Your Mood & Mental Health](sources/mental-health-toolkit-tools-to-bolster-your-mood-mental-health-scim1991900083.md) — Huberman Lab solo episode on six biological foundations, physiological sighing, emotional granularity, reflective self-exploration, generative drive, and clinical boundaries.
 - [VOL.82妇科｜住酒店、洗牙易患性病？女生感染HPV后男生应做什么？](sources/vol-82-fuke-zhu-jiudian-xiya-yi-huan-xingbing-nvsheng-ganran-hpv-hou-nansheng-ying-zuo-shenme-lgihsbqu9wldxyrjfomxghqtjqdg.md) — 这病说来话长 episode on vulvar symptom triage, indirect STI exposure risk, hotel hygiene, HPV prevention, partner responsibility, vaccination, screening, and follow-up.
 - [383. Young Napoleon: The Shadow of the Guillotine (Part 2)](sources/383-young-napoleon-the-shadow-of-the-guillotine-part-2-glt2658259929.md) — The Rest Is History episode on Napoleon's Corsican rupture, Toulon breakthrough, Thermidorian survival, Vendémiaire suppression, Barras patronage, and marriage to Josephine.
 - [VOL.83妇科｜你是否也正被这些问题困扰？生理期、妇科检查、盆底肌修复、产褥期的问题这篇一一作答](sources/vol-83-fuke-ni-shifou-ye-zheng-bei-zhexie-wenti-kunrao-shengliqi-fuke-jiancha-pendiji-xiufu-chanruqi-de-wenti-zhepian-yiyi-zuoda-loabkthdztlcuy7qfhsrkaqujlf3.md) — 这病说来话长 listener Q&A on menstrual and gynecological symptom triage, AMH, contraception, postpartum pelvic-floor rehabilitation, examinations, and sex education.
@@ -3981,7 +3982,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [GPT 5.5 Cyber](entities/GPT55Cyber.md) — OpenAI cyber model discussed as a specialist vulnerability-discovery and simulation capability.
 - [Monsanto](entities/Monsanto.md) — Legacy agricultural company connected to Roundup and pesticide-label preemption litigation.
 - [Roundup](entities/Roundup.md) — Pesticide product at the center of Monsanto/Bayer failure-to-warn litigation.
-- [Paul Conti](entities/PaulConti.md) — Psychiatrist and Huberman Lab guest framing mental health through what's going right, compassionate curiosity, observing self, and intentional agency.
+- [Paul Conti](entities/PaulConti.md) — Psychiatrist framing mental health through strength-first inquiry, unconscious patterns, agency, gratitude, and generative contribution.
 - [What's Going Right?](entities/WhatsGoingRight.md) — Paul Conti book used as the strength-first organizing frame for a Huberman Lab mental-health conversation.
 - [Mona Lisa](entities/MonaLisa.md) — Leonardo portrait of Lisa Gherardini whose fame accumulated through ambiguity, reproduction, theft, parody, and Louvre tourism.
 - [Leonardo da Vinci](entities/LeonardoDaVinci.md) — Renaissance artist-engineer whose technique, reputation, and custody of the Mona Lisa anchor the episode's art-history branch.
@@ -14006,6 +14007,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Michael Eisenberg](entities/MichaelEisenberg.md) — Urologist and researcher framing male fertility and sexual function through objective testing, whole-body health, and treatment boundaries.
 
 ## Concepts
+- [Mental-Health Biological Foundations](concepts/MentalHealthBiologicalFoundations.md) — Necessary-but-insufficient foundation joining sleep, light-dark exposure, movement, nutrition, social connection, and stress regulation.
+- [Physiological Sigh](concepts/PhysiologicalSigh.md) — Double-inhale and long-exhale pattern used as a bounded real-time and repeated stress-regulation practice.
+- [Reflective Self-Exploration](concepts/ReflectiveSelfExploration.md) — Bounded toolkit joining life narrative, dream and waking-transition notes, free writing, goals, and clinical trauma limits.
 - [Indirect Sexual-Infection Exposure Risk / 间接性传播感染风险](concepts/IndirectSexualInfectionExposureRisk.md) — Route-, viability-, dose-, timing-, and susceptibility-based framework separating theoretical exposure from likely transmission.
 - [HPV Prevention and Follow-Up / HPV预防与随访](concepts/HPVPreventionAndFollowup.md) — Layered framework separating HPV exposure reduction, vaccination, screening, abnormal-result follow-up, and partner participation.
 - [Siege of Toulon](concepts/SiegeOfToulon.md) — 1793 campaign where artillery strategy, revolutionary opportunity, promotion, and post-victory atrocity converged.
@@ -14097,7 +14101,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [呼吸道症状分诊 / Respiratory Symptom Triage](concepts/RespiratorySymptomTriage.md) — Pattern-based respiratory assessment that separates symptoms and imaging labels from diagnosis and escalation.
 - [儿童支原体肺炎照护边界 / Pediatric Mycoplasma Pneumonia Care Boundary](concepts/PediatricMycoplasmaPneumoniaCareBoundary.md) — Pediatric severity, follow-up, treatment, testing, and antibiotic-stewardship boundary.
 - [Secrecy-Driven Historical Myth](concepts/SecrecyDrivenHistoricalMyth.md) — Feedback loop in which conspicuous concealment signals importance, invites conjecture, and lets later stories fill archival gaps.
-- [Day-Night Light and Mental Health](concepts/DayNightLightMentalHealth.md) — Observational framework separating morning and evening timing cues, bright daytime exposure, nighttime darkness, psychiatric associations, and causal limits.
+- [Day-Night Light and Mental Health](concepts/DayNightLightMentalHealth.md) — Observational and practical framework separating morning timing, daytime brightness, protected nighttime darkness, psychiatric associations, and causal limits.
 - [Immune Checkpoint Inhibition](concepts/ImmuneCheckpointInhibition.md) — T-cell brake-release strategy joining CTLA-4 blockade, overall-survival benefit, response limits, and autoimmune toxicity.
 - [Roman Political Memory in Science Fiction](concepts/RomanPoliticalMemoryInScienceFiction.md) — Reuse of republican collapse, empire, frontier decline, and spectacle to make imagined futures politically legible.
 - [Historical Composite Allegory](concepts/HistoricalCompositeAllegory.md) — Reading model where fiction combines several histories and genres without mapping cleanly onto one original.
@@ -15032,7 +15036,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Compassionate Curiosity](concepts/CompassionateCuriosity.md) — Self-inquiry stance for examining patterns, trauma, self-talk, and choices without self-attack.
 - [Observing Self Continuity](concepts/ObservingSelfContinuity.md) — Capacity to notice state-dependent versions of the self while holding them in one coherent identity.
 - [Intentional Living Agency](concepts/IntentionalLivingAgency.md) — Behavior-change frame for distinguishing chosen action from habit, reactivity, and momentum.
-- [Generative Drive](concepts/GenerativeDrive.md) — Healthy productivity and contribution frame distinguished from compulsive busyness or avoidance.
+- [Generative Drive](concepts/GenerativeDrive.md) — Creation and contribution frame joining agency, gratitude, and process appreciation while excluding compulsive busyness or avoidance.
 - [Intrusive Thought Meaning](concepts/IntrusiveThoughtMeaning.md) — Caution that repeated unwanted thoughts should be identified and understood before redirection, life change, therapy, or medication support.
 - [Mona Lisa Fame Formation](concepts/MonaLisaFameFormation.md) — Concept for how the Mona Lisa became a global icon through artistic, media, theft, parody, museum, and tourism layers.
 - [Renaissance Portrait Ambiguity](concepts/RenaissancePortraitAmbiguity.md) — Concept for the Mona Lisa's unstable expression, sfumato, plain presentation, and strange landscape as interpretive openness.
@@ -16253,13 +16257,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Perimenopause Brain Metabolism](concepts/PerimenopauseBrainMetabolism.md) — Source-scoped claim linking estrogen decline through perimenopause to brain-energy changes, brain fog, hot flashes, night sweats, and cardiometabolic risk.
 - [Coronary Artery Calcium Midlife Screening](concepts/CoronaryArteryCalciumMidlifeScreening.md) — Women-health prevention frame for using CAC score around midlife to stratify cardiometabolic risk.
 - [Emotions as Functional Control States](concepts/EmotionsAsFunctionalControlStates.md) — Ralph Adolphs' frame for defining emotions by behavioral function rather than one brain region or only conscious feeling.
-- [Emotional Granularity](concepts/EmotionalGranularity.md) — Ability to differentiate emotional states finely enough for regulation, now extended through bodily resolution, ambiguity, language, and movement practice.
+- [Emotional Granularity](concepts/EmotionalGranularity.md) — Fine-grained emotional differentiation developed through vocabulary, body awareness, inquiry, and bounded repeated check-ins.
 - [Cognitive Reappraisal Early Intervention](concepts/CognitiveReappraisalEarlyIntervention.md) — Regulation strategy of reframing or redesigning situations before attention turns emotion into rumination.
 - [Autonomic Stress Training](concepts/AutonomicStressTraining.md) — Source-scoped idea that bounded physiological stress, deliberate discomfort, and positive-stress breathwork may train emotional reactivity, action readiness, and resilience.
 - [Movement Practice as Awareness](concepts/MovementPracticeAsAwareness.md) — Portal's frame for treating movement, sport, daily action, and ordinary transitions as practice surfaces for attention, perception, emotion, and body-schema change.
 - [Will Exposure Practice](concepts/WillExposurePractice.md) — Portal's frame that will becomes visible under resistance and should be trained through adjustable tasks, softening, and return rather than brute force.
 - [Bodily Resolution](concepts/BodilyResolution.md) — Portal's granularity frame for refining bodily, emotional, conceptual, social, and spatial perception through novelty, attention, language, art, and movement.
-- [Liminal Sleep Transition Practice](concepts/LiminalSleepTransitionPractice.md) — Source-scoped practice frame for using fragile waking-sleep transitions to notice or recalibrate internal models without romanticizing sleep disruption.
+- [Liminal Sleep Transition Practice](concepts/LiminalSleepTransitionPractice.md) — Source-scoped use of fragile sleep-wake transitions for observation and recalibration without treating liminal thoughts as truth or romanticizing disruption.
 - [Amygdala Fear Dissociation](concepts/AmygdalaFearDissociation.md) — Lesson that amygdala importance varies across fear perception, external-threat fear, and internal panic.
 - [Social Emotion Inference Limits](concepts/SocialEmotionInferenceLimits.md) — Limits of reading emotion from faces, labels, dynamic cues, text, and prediction mismatches.
 - [Brain-Body Emotion Mapping](concepts/BrainBodyEmotionMapping.md) — Attempt to connect emotional states to distributed brain activity, body signals, interoception, and felt-body concepts.

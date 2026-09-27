@@ -36210,9 +36210,9 @@
       "url": "/wiki/concepts/daynightlightimmunesupport/"
     },
     "DayNightLightMentalHealth": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM9183043757 [SCIM9183043757].md",
@@ -36220,6 +36220,13 @@
           "show": "Huberman Lab",
           "title": "Journal Club with Dr. Peter Attia | Effects of Light & Dark on Mental Health & Treatments for Cancer",
           "url": "/wiki/sources/journal-club-with-dr-peter-attia-effects-of-light-dark-on-mental-health-treatments-for-cancer-scim9183043757/"
+        },
+        {
+          "episode_file": "SCIM1991900083 [SCIM1991900083].md",
+          "key": "mental-health-toolkit-tools-to-bolster-your-mood-mental-health-scim1991900083",
+          "show": "Huberman Lab",
+          "title": "Mental Health Toolkit: Tools to Bolster Your Mood & Mental Health",
+          "url": "/wiki/sources/mental-health-toolkit-tools-to-bolster-your-mood-mental-health-scim1991900083/"
         }
       ],
       "updated": "2026-09-27",
@@ -44832,9 +44839,9 @@
       "url": "/wiki/concepts/emotionalflashbackgrounding/"
     },
     "EmotionalGranularity": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM1222961716 [SCIM1222961716].md",
@@ -44863,9 +44870,16 @@
           "show": "Huberman Lab",
           "title": "How to Increase Your Emotional Intelligence | Dr. Marc Brackett",
           "url": "/wiki/sources/how-to-increase-your-emotional-intelligence-dr-marc-brackett-scim6059113217/"
+        },
+        {
+          "episode_file": "SCIM1991900083 [SCIM1991900083].md",
+          "key": "mental-health-toolkit-tools-to-bolster-your-mood-mental-health-scim1991900083",
+          "show": "Huberman Lab",
+          "title": "Mental Health Toolkit: Tools to Bolster Your Mood & Mental Health",
+          "url": "/wiki/sources/mental-health-toolkit-tools-to-bolster-your-mood-mental-health-scim1991900083/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/emotionalgranularity/"
     },
     "EmotionalHealthLongevity": {
@@ -60448,9 +60462,9 @@
       "url": "/wiki/concepts/generativeaimusic/"
     },
     "GenerativeDrive": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM9301011958 [SCIM9301011958].md",
@@ -60458,9 +60472,16 @@
           "show": "Huberman Lab",
           "title": "Tools to Bolster Your Mental Health & Confidence | Dr. Paul Conti",
           "url": "/wiki/sources/tools-to-bolster-your-mental-health-confidence-dr-paul-conti-scim9301011958/"
+        },
+        {
+          "episode_file": "SCIM1991900083 [SCIM1991900083].md",
+          "key": "mental-health-toolkit-tools-to-bolster-your-mood-mental-health-scim1991900083",
+          "show": "Huberman Lab",
+          "title": "Mental Health Toolkit: Tools to Bolster Your Mood & Mental Health",
+          "url": "/wiki/sources/mental-health-toolkit-tools-to-bolster-your-mood-mental-health-scim1991900083/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/generativedrive/"
     },
     "GenerativeEngineOptimization": {
@@ -89912,9 +89933,9 @@
       "url": "/wiki/entities/lilyradiographer/"
     },
     "LiminalSleepTransitionPractice": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM2496765743 [SCIM2496765743].md",
@@ -89929,9 +89950,16 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Matt Walker: How to Structure Your Sleep, Use Naps & Time Caffeine",
           "url": "/wiki/sources/guest-series-dr-matt-walker-how-to-structure-your-sleep-use-naps-time-caffeine-scim8589399999/"
+        },
+        {
+          "episode_file": "SCIM1991900083 [SCIM1991900083].md",
+          "key": "mental-health-toolkit-tools-to-bolster-your-mood-mental-health-scim1991900083",
+          "show": "Huberman Lab",
+          "title": "Mental Health Toolkit: Tools to Bolster Your Mood & Mental Health",
+          "url": "/wiki/sources/mental-health-toolkit-tools-to-bolster-your-mood-mental-health-scim1991900083/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/liminalsleeptransitionpractice/"
     },
     "LimitedWatching": {
@@ -101889,6 +101917,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/concepts/mentalbandwidth/"
+    },
+    "MentalHealthBiologicalFoundations": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1991900083 [SCIM1991900083].md",
+          "key": "mental-health-toolkit-tools-to-bolster-your-mood-mental-health-scim1991900083",
+          "show": "Huberman Lab",
+          "title": "Mental Health Toolkit: Tools to Bolster Your Mood & Mental Health",
+          "url": "/wiki/sources/mental-health-toolkit-tools-to-bolster-your-mood-mental-health-scim1991900083/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/mentalhealthbiologicalfoundations/"
     },
     "MentalHealthHelpSeekingScamRisk": {
       "episode_count": 1,
@@ -114618,9 +114662,9 @@
       "url": "/wiki/entities/paulbarras/"
     },
     "PaulConti": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM9301011958 [SCIM9301011958].md",
@@ -114628,9 +114672,16 @@
           "show": "Huberman Lab",
           "title": "Tools to Bolster Your Mental Health & Confidence | Dr. Paul Conti",
           "url": "/wiki/sources/tools-to-bolster-your-mental-health-confidence-dr-paul-conti-scim9301011958/"
+        },
+        {
+          "episode_file": "SCIM1991900083 [SCIM1991900083].md",
+          "key": "mental-health-toolkit-tools-to-bolster-your-mood-mental-health-scim1991900083",
+          "show": "Huberman Lab",
+          "title": "Mental Health Toolkit: Tools to Bolster Your Mood & Mental Health",
+          "url": "/wiki/sources/mental-health-toolkit-tools-to-bolster-your-mood-mental-health-scim1991900083/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-27",
       "url": "/wiki/entities/paulconti/"
     },
     "PaulEastwick": {
@@ -116748,6 +116799,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/physicsstagnationclaim/"
+    },
+    "PhysiologicalSigh": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1991900083 [SCIM1991900083].md",
+          "key": "mental-health-toolkit-tools-to-bolster-your-mood-mental-health-scim1991900083",
+          "show": "Huberman Lab",
+          "title": "Mental Health Toolkit: Tools to Bolster Your Mood & Mental Health",
+          "url": "/wiki/sources/mental-health-toolkit-tools-to-bolster-your-mood-mental-health-scim1991900083/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/physiologicalsigh/"
     },
     "PiTongEasternHan": {
       "episode_count": 1,
@@ -125296,6 +125363,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/redlandsdrugcase/"
+    },
+    "ReflectiveSelfExploration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1991900083 [SCIM1991900083].md",
+          "key": "mental-health-toolkit-tools-to-bolster-your-mood-mental-health-scim1991900083",
+          "show": "Huberman Lab",
+          "title": "Mental Health Toolkit: Tools to Bolster Your Mood & Mental Health",
+          "url": "/wiki/sources/mental-health-toolkit-tools-to-bolster-your-mood-mental-health-scim1991900083/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/reflectiveselfexploration/"
     },
     "ReflexiveSelfAwareness": {
       "episode_count": 1,
