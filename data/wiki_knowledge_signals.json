@@ -11443,9 +11443,9 @@
       "url": "/wiki/concepts/assisteddrivingtrustformation/"
     },
     "AssistedReproductionDecisionLiteracy": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7009544360 [SCIM7009544360].md",
@@ -11453,9 +11453,16 @@
           "show": "Huberman Lab",
           "title": "How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford",
           "url": "/wiki/sources/how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360/"
+        },
+        {
+          "episode_file": "SCIM4341208380 [SCIM4341208380].md",
+          "key": "female-hormone-health-fertility-vitality-dr-natalie-crawford-scim4341208380",
+          "show": "Huberman Lab",
+          "title": "Female Hormone Health, Fertility & Vitality | Dr. Natalie Crawford",
+          "url": "/wiki/sources/female-hormone-health-fertility-vitality-dr-natalie-crawford-scim4341208380/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/assistedreproductiondecisionliteracy/"
     },
     "AssociativeKnowledgeSystems": {
@@ -51809,9 +51816,9 @@
       "url": "/wiki/concepts/femalecourteducationeasternhan/"
     },
     "FemaleFertilityAsHealthMarker": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7009544360 [SCIM7009544360].md",
@@ -51819,9 +51826,16 @@
           "show": "Huberman Lab",
           "title": "How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford",
           "url": "/wiki/sources/how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360/"
+        },
+        {
+          "episode_file": "SCIM4341208380 [SCIM4341208380].md",
+          "key": "female-hormone-health-fertility-vitality-dr-natalie-crawford-scim4341208380",
+          "show": "Huberman Lab",
+          "title": "Female Hormone Health, Fertility & Vitality | Dr. Natalie Crawford",
+          "url": "/wiki/sources/female-hormone-health-fertility-vitality-dr-natalie-crawford-scim4341208380/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/femalefertilityashealthmarker/"
     },
     "FemaleHormoneHealthPhenotyping": {
@@ -105680,9 +105694,9 @@
       "url": "/wiki/entities/nataliaolson/"
     },
     "NatalieCrawford": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7009544360 [SCIM7009544360].md",
@@ -105690,9 +105704,16 @@
           "show": "Huberman Lab",
           "title": "How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford",
           "url": "/wiki/sources/how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360/"
+        },
+        {
+          "episode_file": "SCIM4341208380 [SCIM4341208380].md",
+          "key": "female-hormone-health-fertility-vitality-dr-natalie-crawford-scim4341208380",
+          "show": "Huberman Lab",
+          "title": "Female Hormone Health, Fertility & Vitality | Dr. Natalie Crawford",
+          "url": "/wiki/sources/female-hormone-health-fertility-vitality-dr-natalie-crawford-scim4341208380/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-09-27",
       "url": "/wiki/entities/nataliecrawford/"
     },
     "NatalieStokel": {
@@ -110701,9 +110722,9 @@
       "url": "/wiki/concepts/oralcareproducttreatmentboundary/"
     },
     "OralContraceptiveInformedConsent": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM5131677929 [SCIM5131677929].md",
@@ -110711,9 +110732,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried",
           "url": "/wiki/sources/essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929/"
+        },
+        {
+          "episode_file": "SCIM4341208380 [SCIM4341208380].md",
+          "key": "female-hormone-health-fertility-vitality-dr-natalie-crawford-scim4341208380",
+          "show": "Huberman Lab",
+          "title": "Female Hormone Health, Fertility & Vitality | Dr. Natalie Crawford",
+          "url": "/wiki/sources/female-hormone-health-fertility-vitality-dr-natalie-crawford-scim4341208380/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/oralcontraceptiveinformedconsent/"
     },
     "OralHistoryMemoryAnalysis": {
@@ -111590,9 +111618,9 @@
       "url": "/wiki/entities/ouyangxieasternhan/"
     },
     "OvarianReserveAMHInterpretation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7009544360 [SCIM7009544360].md",
@@ -111600,9 +111628,16 @@
           "show": "Huberman Lab",
           "title": "How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford",
           "url": "/wiki/sources/how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360/"
+        },
+        {
+          "episode_file": "SCIM4341208380 [SCIM4341208380].md",
+          "key": "female-hormone-health-fertility-vitality-dr-natalie-crawford-scim4341208380",
+          "show": "Huberman Lab",
+          "title": "Female Hormone Health, Fertility & Vitality | Dr. Natalie Crawford",
+          "url": "/wiki/sources/female-hormone-health-fertility-vitality-dr-natalie-crawford-scim4341208380/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/ovarianreserveamhinterpretation/"
     },
     "OverextendedFrontierExpedition": {

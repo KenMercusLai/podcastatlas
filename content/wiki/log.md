@@ -23559,3 +23559,11 @@ Added source `388-the-fall-of-the-aztecs-the-festival-of-blood-part-5-glt8784071
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | Female Hormone Health, Fertility & Vitality | Dr. Natalie Crawford
+
+Added source `female-hormone-health-fertility-vitality-dr-natalie-crawford-scim4341208380`; updated `NatalieCrawford`, `FemaleFertilityAsHealthMarker`, `OvarianReserveAMHInterpretation`, `AssistedReproductionDecisionLiteracy`, `OralContraceptiveInformedConsent`, and the canonical index from their complete bounded source sets. Core synthesis: reproductive health is a lifespan system in which egg quantity, egg quality, cycle signals, sperm factors, contraception, preservation, IVF attrition, donor ethics, nutrition, and menopause require distinct but connected decisions. No settled contradiction with the later Crawford interview was found. AMH screening, supplement protocols, treatment survival rates, age thresholds, contraception risks, intercourse timing, and menopausal hormone therapy remain source-scoped public education rather than individualized care. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
