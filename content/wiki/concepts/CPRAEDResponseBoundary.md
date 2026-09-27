@@ -6,7 +6,8 @@ sources:
   - vol-222-aoye-xintiao-kuangbiao-shi-cusi-qianzhao-aed-hui-dian-cuo-huoren-dai-ni-bikai-zhiming-changshi-shijie-jijiu-ri-teji-lnemogq8gb9o3e2835jvtfx3emiy
   - vol-152-nazha-wo-ming-you-wo-bu-you-tian-xianshi-zhong-de-gaiming-shenqi-ni-zhidao-ma-zhen-neng-yufang-cusi-ma-lvt24r7x6bppx7e5gqhas1yn-jru
   - vol-122-ni-zhidao-li-ni-zuijin-de-aed-zai-na-ma-buneng-zhishi-tongding-sitong-ranhou-buliaoliaozhi-han-xinfei-fusu-liucheng-aed-shiyong-jiangjie-loltrw1svirwsfkt_skd40mxq7d8
-last_updated: 2026-09-24
+  - vol-65-xinzang-waike-xianxinbing-guanxinbing-banmobing-zhe-jizhong-xinzang-jibing-lai-ting-anzhen-yisheng-zenme-jiang-lo_ztsjizbunfsi5uhii1iv_lrzb
+last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,6 +22,8 @@ The sources frame CPR and AED use as public skills that still require a threshol
 The time-critical response has two linked functions. High-quality chest compressions sustain some circulation and preserve the defibrillation opportunity; an AED analyzes the rhythm and advises shock only when appropriate. The sources pair this sequence with “120、AED、来帮忙,” continued compressions after device-guided action, and preparation that makes an AED actually retrievable rather than merely present on a map.
 
 The wider defibrillation boundary also distinguishes implanted from public rescue systems. An [[ImplantableCardioverterDefibrillator|ICD]] can continuously detect and treat selected dangerous rhythms in a clinically selected patient, whereas an AED depends on a bystander response after collapse. The two layers complement one another and serve different populations.
+
+VOL.65 supplies an earlier version of the collapse boundary through a marathon example in which heat illness was mistaken for arrest. Its durable contribution is differential assessment before compressions: hypoglycemia, heat illness, pneumothorax, allergy, and other emergencies may produce collapse or breathlessness while retaining circulation. Its carotid-pulse, airway-positioning, ventilation, and exact compression instructions are preserved as source-scoped teaching rather than overriding the newer multi-source lay-rescuer synthesis.
 
 ## Key Claims
 - Chest compressions are for suspected cardiac arrest, not for every person who falls, faints, has a stroke, becomes hypoglycemic, or feels unwell.
@@ -37,14 +40,14 @@ The wider defibrillation boundary also distinguishes implanted from public rescu
 - AED process and setup: [[vol-222-aoye-xintiao-kuangbiao-shi-cusi-qianzhao-aed-hui-dian-cuo-huoren-dai-ni-bikai-zhiming-changshi-shijie-jijiu-ri-teji-lnemogq8gb9o3e2835jvtfx3emiy]] and [[vol-122-ni-zhidao-li-ni-zuijin-de-aed-zai-na-ma-buneng-zhishi-tongding-sitong-ranhou-buliaoliaozhi-han-xinfei-fusu-liucheng-aed-shiyong-jiangjie-loltrw1svirwsfkt_skd40mxq7d8]] explain pad placement prompts, automatic rhythm analysis, shock precautions, continued compressions, and practical pad-contact issues.
 - Practical accessibility: [[vol-122-ni-zhidao-li-ni-zuijin-de-aed-zai-na-ma-buneng-zhishi-tongding-sitong-ranhou-buliaoliaozhi-han-xinfei-fusu-liucheng-aed-shiyong-jiangjie-loltrw1svirwsfkt_skd40mxq7d8]] argues that maps should support advance familiarity because floor, indoor position, access control, opening hours, and retrieval time can defeat nominal proximity.
 - External-versus-implanted protection: [[vol-152-nazha-wo-ming-you-wo-bu-you-tian-xianshi-zhong-de-gaiming-shenqi-ni-zhidao-ma-zhen-neng-yufang-cusi-ma-lvt24r7x6bppx7e5gqhas1yn-jru]] contrasts public AED access and bystander timing with continuous ICD monitoring for selected high-risk patients.
+- Collapse differential: [[vol-65-xinzang-waike-xianxinbing-guanxinbing-banmobing-zhe-jizhong-xinzang-jibing-lai-ting-anzhen-yisheng-zenme-jiang-lo_ztsjizbunfsi5uhii1iv_lrzb|VOL.65]] distinguishes suspected arrest from heat illness, hypoglycemia, and other causes of collapse and warns that compressions can injure a person who retains breathing and circulation.
 
 ## Counterevidence & Qualifications
-The sources are public medical education, not certified CPR/AED training, an implantation guideline, or a complete resuscitation guideline. Compression, ventilation, pediatric, drowning, electrical-injury, carbon-monoxide, and single-rescuer retrieval details are training- and protocol-sensitive. Local device models, emergency numbers, dispatcher instructions, legal protections, formal training standards, and ICD indications vary.
+The sources are public medical education, not certified CPR/AED training, an implantation guideline, or a complete resuscitation guideline. VOL.65 emphasizes carotid-pulse checking and ventilation, while the later sources give lay rescuers a response-and-breathing threshold; this difference is retained rather than flattened because pulse assessment, compression, ventilation, pediatric, drowning, electrical-injury, carbon-monoxide, and single-rescuer retrieval details are training- and protocol-sensitive. Local device models, emergency numbers, dispatcher instructions, legal protections, formal training standards, and ICD indications vary.
 
 ## What Changed
-- The synthesis now connects arrest recognition, high-quality compressions, defibrillation, explicit role assignment, and real-world AED accessibility as one time-critical response system.
-- Public AED availability is now qualified by visibility, access, distance, and advance familiarity rather than device count alone.
-- Bystander-dependent AED rescue remains distinct from continuous ICD protection in selected high-risk patients.
+- Added an earlier collapse-differential example in which heat illness was mistaken for cardiac arrest.
+- Made the older pulse-check and ventilation teaching explicitly protocol- and training-sensitive beside the later lay response-and-breathing threshold.
 
 ## Related Concepts
 - [[FirstAidTriageAndEscalation]] - broader emergency decision frame that determines when CPR/AED response is appropriate.

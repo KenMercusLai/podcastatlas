@@ -4,6 +4,7 @@ type: concept
 tags: [healthcare, cardiac-surgery, minimally-invasive-surgery, medical-decision-making]
 sources:
   - vol-66-xinzang-waike-cong-guahao-dao-jiuyi-cong-chiyao-dao-shoushu-anzhen-yisheng-gei-ni-de-shiyong-tieshi-lnnmiealbw5s886_m4y8yjj3mja_
+  - vol-65-xinzang-waike-xianxinbing-guanxinbing-banmobing-zhe-jizhong-xinzang-jibing-lai-ting-anzhen-yisheng-zenme-jiang-lo_ztsjizbunfsi5uhii1iv_lrzb
 last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
@@ -16,7 +17,7 @@ Cardiac surgery modality selection is the case-specific choice among conventiona
 ## Current Synthesis
 The bounded source rejects a technology-label hierarchy. Median sternotomy usually opens the breastbone rather than cutting ribs; intercostal minimally invasive access may spare the sternum; many bypass operations can be performed on a beating heart; and selected catheter or closure procedures may avoid cardiopulmonary bypass. These are different technical routes, not interchangeable promises of better care.
 
-The practical judgment is outcome-first. Smaller access can reduce early trauma and speed recovery, while conventional exposure may improve visibility and control in complex disease. Robotic assistance can filter tremor, magnify the field, and reach narrow spaces, but cost, procedure fit, team experience, conversion options, inpatient risk, and long-term effectiveness remain part of selection.
+The practical judgment is outcome-first. Smaller access can reduce early trauma and speed recovery, while conventional exposure may improve visibility and control in complex disease. Robotic assistance can filter tremor, magnify the field, and reach narrow spaces, but cost, procedure fit, team experience, conversion options, inpatient risk, and long-term effectiveness remain part of selection. VOL.65 adds that “minimally invasive” cuts across disease categories: selected coronary, valve, and congenital operations may use smaller-access or catheter routes, but the diagnosis and indication still determine whether that route is suitable.
 
 ## Key Claims
 - “Open chest” commonly means dividing the sternum, not routinely cutting ribs.
@@ -30,12 +31,13 @@ The practical judgment is outcome-first. Smaller access can reduce early trauma 
 - Access and bypass distinctions: [[vol-66-xinzang-waike-cong-guahao-dao-jiuyi-cong-chiyao-dao-shoushu-anzhen-yisheng-gei-ni-de-shiyong-tieshi-lnnmiealbw5s886_m4y8yjj3mja_]] distinguishes sternotomy from rib cutting, intercostal access from sternotomy, and cardiopulmonary-bypass from off-pump or catheter-based work.
 - Exposure and outcome tradeoff: [[vol-66-xinzang-waike-cong-guahao-dao-jiuyi-cong-chiyao-dao-shoushu-anzhen-yisheng-gei-ni-de-shiyong-tieshi-lnnmiealbw5s886_m4y8yjj3mja_]] treats operative exposure, bleeding control, inpatient risk, recovery, and long-term effect as joint criteria.
 - Robotic role: [[vol-66-xinzang-waike-cong-guahao-dao-jiuyi-cong-chiyao-dao-shoushu-anzhen-yisheng-gei-ni-de-shiyong-tieshi-lnnmiealbw5s886_m4y8yjj3mja_]] describes surgeon-controlled robotic arms, magnified vision, tremor filtering, narrow-space access, higher cost, and procedure-specific suitability.
+- Cross-disease selection: [[vol-65-xinzang-waike-xianxinbing-guanxinbing-banmobing-zhe-jizhong-xinzang-jibing-lai-ting-anzhen-yisheng-zenme-jiang-lo_ztsjizbunfsi5uhii1iv_lrzb|VOL.65]] treats minimally invasive surgery as a route applicable to selected coronary, valve, and congenital cases rather than as a separate disease service or universal preference.
 
 ## Counterevidence & Qualifications
 The source is one cardiac surgeon's public explanation, not comparative trial evidence or a procedural guideline. It does not establish that one route is best for a particular patient, that all centers have equal expertise, or that all operations within a label share the same risk. The guest's procedural proportions, success rates, suitable-operation examples, cost remarks, and long-term-outcome framing remain source-scoped.
 
 ## What Changed
-- Created an outcome-first framework separating access size, bypass support, robotic assistance, and therapeutic objective.
+- Clarified that minimally invasive technique cuts across cardiac disease categories but remains indication- and patient-dependent.
 
 ## Related Concepts
 - [[DaVinciSurgicalSystem]] - robotic assistance option within selected cardiac operations.
@@ -43,3 +45,4 @@ The source is one cardiac surgeon's public explanation, not comparative trial ev
 - [[MedicalDiagnosticReasoning]] - disease and anatomy must be established before modality selection.
 - [[HighRiskSurgicalInnovation]] - adjacent concept for evidence and responsibility when established options are insufficient.
 - [[CardiacImplantableDeviceDifferentiation]] - related requirement to match cardiac technology to the failed physiological function.
+- [[HeartValveRepairReplacementDecision]] - adjacent valve-specific choice in which durability, residual disease, anticoagulation, and reintervention matter alongside access route.

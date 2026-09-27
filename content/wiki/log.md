@@ -24132,3 +24132,11 @@ Added source `vol-66-xinzang-waike-cong-guahao-dao-jiuyi-cong-chiyao-dao-shoushu
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | VOL.65心脏外科｜先心病、冠心病、瓣膜病 这几种心脏疾病来听安贞医生怎么讲
+
+Added source `vol-65-xinzang-waike-xianxinbing-guanxinbing-banmobing-zhe-jizhong-xinzang-jibing-lai-ting-anzhen-yisheng-zenme-jiang-lo_ztsjizbunfsi5uhii1iv_lrzb`; created `HeartValveRepairReplacementDecision`; and updated `ZhongZhaopeng`, `CardiacSurgeryModalitySelection`, `ChestPainEmergencyEscalation`, `CPRAEDResponseBoundary`, and the canonical index from their complete bounded source sets. Core synthesis: cardiac findings and technology labels do not independently determine intervention; valve repair is preferred only when a durable result is feasible; mechanical and biological valves exchange anticoagulation, durability, and reintervention burdens; ischemic symptoms can be atypical; and compressions belong to suspected arrest rather than every collapse. No settled contradiction was adopted. The source's carotid-pulse and ventilation teaching is retained as protocol-sensitive beside later lay response-and-breathing guidance, the guest's 昭/照 spelling remains unresolved across VOL.65 and VOL.66, and numerical or procedural claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

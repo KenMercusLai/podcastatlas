@@ -7,6 +7,7 @@ sources:
   - vol-99-ba-xueke-lianhe-chunjie-jiankang-dai-huijia-gei-zan-bu-tingquan-de-bama-zhenjing-jiazuqun-de-yangsheng-ganhuo-yinshi-huli-dahan-xingeng-zuzhong-xiaohua-deng-lrvlx1wbukf4g2pbsem4cbzqbuqz
   - vol-85-jizhen-chudong-jizhen-you-lai-le-yipi-nianqing-huanzhe-gangcai-hai-haohao-de-lqq7xoemqrihmuzo5rey8rok76bp
   - vol-66-xinzang-waike-cong-guahao-dao-jiuyi-cong-chiyao-dao-shoushu-anzhen-yisheng-gei-ni-de-shiyong-tieshi-lnnmiealbw5s886_m4y8yjj3mja_
+  - vol-65-xinzang-waike-xianxinbing-guanxinbing-banmobing-zhe-jizhong-xinzang-jibing-lai-ting-anzhen-yisheng-zenme-jiang-lo_ztsjizbunfsi5uhii1iv_lrzb
 last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
@@ -27,6 +28,8 @@ VOL.85 adds a younger and middle-aged functional-decline presentation. Its deliv
 
 VOL.66 adds a cause-versus-relief boundary. Improvement after medicine does not show that severe coronary disease has resolved, nitroglycerin is not a universal chest-pain remedy, and repeated non-response should not delay emergency assessment for possible myocardial infarction. A normal resting ECG also cannot exclude intermittent arrhythmia or exertional ischemia, so the absence of one abnormal test does not close the diagnostic pathway.
 
+VOL.65 adds a continuum from stable exertional angina to less predictable unstable symptoms and prolonged severe pain consistent with infarction. It broadens symptom language beyond “绞痛”: ischemic discomfort may be pressure, tightness, burning, mild pain, or radiating discomfort and may be mistaken for gastrointestinal, biliary, shoulder, throat, dental, or neuralgic disease. The source's minute thresholds are useful pattern descriptions, not a stopwatch rule for delaying emergency care.
+
 ## Key Claims
 - Risk factors such as male sex, postmenopausal status, hypertension, hyperlipidemia, glucose problems, smoking, drinking, and family history increase concern when chest symptoms occur.
 - Central chest or precordial pain can matter more when it radiates to the left shoulder, left arm, left back, teeth, or throat.
@@ -43,15 +46,14 @@ VOL.66 adds a cause-versus-relief boundary. Improvement after medicine does not 
 - Atypical older-adult presentation: [[vol-99-ba-xueke-lianhe-chunjie-jiankang-dai-huijia-gei-zan-bu-tingquan-de-bama-zhenjing-jiazuqun-de-yangsheng-ganhuo-yinshi-huli-dahan-xingeng-zuzhong-xiaohua-deng-lrvlx1wbukf4g2pbsem4cbzqbuqz]] adds back, tooth, arm, throat, gastrointestinal, and sweating presentations and notes that diabetes can reduce pain sensitivity.
 - Functional-decline presentation: [[vol-85-jizhen-chudong-jizhen-you-lai-le-yipi-nianqing-huanzhe-gangcai-hai-haohao-de-lqq7xoemqrihmuzo5rey8rok76bp]] describes a 43-year-old delivery worker with several days of new exertional limitation, cough, and breathlessness who was found to have myocardial infarction after emergency assessment.
 - Relief, testing, and medication boundary: [[vol-66-xinzang-waike-cong-guahao-dao-jiuyi-cong-chiyao-dao-shoushu-anzhen-yisheng-gei-ni-de-shiyong-tieshi-lnnmiealbw5s886_m4y8yjj3mja_]] warns that symptom improvement does not establish cause resolution, limits nitroglycerin to selected angina, and explains why resting ECG may miss intermittent or exertional abnormalities.
+- Angina-to-infarction continuum: [[vol-65-xinzang-waike-xianxinbing-guanxinbing-banmobing-zhe-jizhong-xinzang-jibing-lai-ting-anzhen-yisheng-zenme-jiang-lo_ztsjizbunfsi5uhii1iv_lrzb|VOL.65]] distinguishes reproducible exertional symptoms from less predictable instability, broadens the possible quality and radiation of ischemic discomfort, and escalates prolonged severe or worsening pain with systemic features.
 
 ## Counterevidence & Qualifications
-The concept does not diagnose myocardial infarction, panic attack, pulmonary disease, pericarditis, musculoskeletal pain, or any other cause of chest or exertional symptoms. Breathlessness, cough, fatigue, and reduced exercise capacity are non-specific. Nitroglycerin dosing and repeat-use instructions require current emergency and prescribing guidance; response or non-response is not a safe self-diagnostic test. The cases record a public education boundary, and emergency routing depends on the full symptom pattern, severity, time course, risk factors, and local services.
+The concept does not diagnose myocardial infarction, panic attack, pulmonary disease, pericarditis, pneumothorax, allergy, gastrointestinal or biliary disease, musculoskeletal pain, or any other cause of chest or exertional symptoms. Breathlessness, cough, fatigue, and reduced exercise capacity are non-specific. Nitroglycerin dosing and repeat-use instructions require current emergency and prescribing guidance; response or non-response is not a safe self-diagnostic test. Duration ranges in the sources describe patterns and must not become a waiting rule when symptoms are severe or concerning. The cases record a public education boundary, and emergency routing depends on the full symptom pattern, severity, time course, risk factors, and local services.
 
 ## What Changed
-- Added atypical myocardial-infarction presentations in older adults and people with long-standing diabetes.
-- Clarified that upper-abdominal or dental symptoms do not safely rule out a cardiac emergency.
-- Added abrupt exertional and work-capacity decline as a possible urgent presentation in a younger or middle-aged adult.
-- Added the boundary that relief after medicine and a normal resting ECG do not reliably close a concerning cardiac evaluation.
+- Added the stable-angina, unstable-symptom, and infarction continuum without turning duration estimates into a wait-before-calling rule.
+- Broadened ischemic symptom quality and mimic recognition while preserving the need for clinical differential diagnosis.
 
 ## Related Concepts
 - [[FirstAidTriageAndEscalation]] - broader decision frame for routing dangerous symptoms.

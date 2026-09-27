@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 8532
+wiki_total_pages: 8533
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -206,6 +206,9 @@ wiki_pages:
   - key: "HeartRateRecoveryCapacity"
     title: "Heart Rate Recovery Capacity / 心率恢复能力"
     url: "/wiki/concepts/heartraterecoverycapacity/"
+  - key: "HeartValveRepairReplacementDecision"
+    title: "Heart Valve Repair and Replacement Decision / 心脏瓣膜修复与置换决策"
+    url: "/wiki/concepts/heartvalverepairreplacementdecision/"
   - key: "HeartFieldEthics"
     title: "Heart-Field Ethics / 心田处世伦理"
     url: "/wiki/concepts/heartfieldethics/"

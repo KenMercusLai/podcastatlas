@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.65心脏外科｜先心病、冠心病、瓣膜病 这几种心脏疾病来听安贞医生怎么讲](sources/vol-65-xinzang-waike-xianxinbing-guanxinbing-banmobing-zhe-jizhong-xinzang-jibing-lai-ting-anzhen-yisheng-zenme-jiang-lo_ztsjizbunfsi5uhii1iv_lrzb.md) — 这病说来话长 episode on congenital findings, valve repair and replacement, coronary ischemia, myocardial infarction, and collapse-response boundaries.
 - [Improving Sexual & Urological Health in Males and Females | Dr. Rena Malik](sources/improving-sexual-urological-health-in-males-and-females-dr-rena-malik-scim6177024080.md) — Huberman Lab interview on pelvic-floor function matching, sexual desire and arousal, erectile and urinary health, recurrent UTIs, communication, and mechanism-based care.
 - [VOL.67无·事｜听躺进ICU的医生和普通病人在聊些什么？知道越多越恐惧？｜献礼医师节彩蛋](sources/lswakifoozu5vkckl5n-nzndj43e-lswakifoozu5vkckl5n-nzndj43e.md) — 这病说来话长 episode on ICU survivor experience, pulmonary-embolism escalation, anesthesiology, informed clinical trust, and responsible public medical communication.
 - [358: Viking Sorcery](sources/358-viking-sorcery-glt1200485419.md) — The Rest Is History conversation with Neil Price on Viking worldview, seiðr, ritual violence, Valkyries, periodization, and the limits of reconstruction.
@@ -14183,6 +14184,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [钟照鹏 / Zhong Zhaopeng](entities/ZhongZhaopeng.md) — Source-scoped Beijing Anzhen cardiac surgeon explaining symptom routing, diagnostic limits, treatment tradeoffs, surgery, and cardiac devices.
 
 ## Concepts
+- [Heart Valve Repair and Replacement Decision / 心脏瓣膜修复与置换决策](concepts/HeartValveRepairReplacementDecision.md) — Valve-treatment framework balancing durable repair, residual disease, prosthesis durability, anticoagulation, reintervention, and team capability.
 - [Viking Age Worldview](concepts/VikingAgeWorldview.md) — Lived field joining gods, local beings, landscapes, animals, the dead, magic, danger, and practical conduct.
 - [Seiðr](concepts/Seidr.md) — Gendered Viking Age magic reconstructed through otherworld access, ritual comparison, sexuality, mind, and battle.
 - [Viking Ritual Violence](concepts/VikingRitualViolence.md) — Funerary sacrifice and animal slaughter held together with moral seriousness and evidential uncertainty.
