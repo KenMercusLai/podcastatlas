@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2769
+topic_total_pages: 2770
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5909,6 +5909,9 @@ topic_entities:
   - key: "MaxineWaters"
     title: "Maxine Waters"
     url: "/wiki/entities/maxinewaters/"
+  - key: "May1968France"
+    title: "May 1968 in France"
+    url: "/wiki/entities/may1968france/"
   - key: "MehmetSimsek"
     title: "Mehmet Simsek"
     url: "/wiki/entities/mehmetsimsek/"

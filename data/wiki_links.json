@@ -1003,6 +1003,10 @@
     "title": "351-西方政府禁止青少年使用社交媒体走到哪步了？",
     "url": "/wiki/sources/351-xifang-zhengfu-jinzhi-qingshaonian-shiyong-shejiao-meiti-zoudao-nabu-le-luvc8m2kuqkyv2hddfcse-6ogxym/"
   },
+  "354-paris-1968-the-return-of-de-gaulle-part-2-glt6246374874": {
+    "title": "354: Paris 1968: The Return of De Gaulle (Part 2)",
+    "url": "/wiki/sources/354-paris-1968-the-return-of-de-gaulle-part-2-glt6246374874/"
+  },
   "355-roman-apocalypse-pompeii-79-ad-glt6664993493": {
     "title": "355: Roman Apocalypse: Pompeii 79 AD",
     "url": "/wiki/sources/355-roman-apocalypse-pompeii-79-ad-glt6664993493/"
@@ -13322,6 +13326,10 @@
   "CharlesDawson": {
     "title": "Charles Dawson",
     "url": "/wiki/entities/charlesdawson/"
+  },
+  "CharlesDeGaulle": {
+    "title": "Charles de Gaulle",
+    "url": "/wiki/entities/charlesdegaulle/"
   },
   "CharlesDuncanCameron": {
     "title": "Charles Duncan Cameron",
@@ -45975,6 +45983,10 @@
     "title": "Maxus V90",
     "url": "/wiki/entities/maxusv90/"
   },
+  "May1968France": {
+    "title": "May 1968 in France",
+    "url": "/wiki/entities/may1968france/"
+  },
   "MayDepartmentStores": {
     "title": "May Department Stores",
     "url": "/wiki/entities/maydepartmentstores/"
@@ -54586,6 +54598,10 @@
   "PoliticalDeepfakeRegulation": {
     "title": "Political Deepfake Regulation",
     "url": "/wiki/concepts/politicaldeepfakeregulation/"
+  },
+  "PoliticalDefeatCulturalAfterlife": {
+    "title": "Political Defeat and Cultural Afterlife",
+    "url": "/wiki/concepts/politicaldefeatculturalafterlife/"
   },
   "PoliticalDeliveryGap": {
     "title": "Political Delivery Gap",

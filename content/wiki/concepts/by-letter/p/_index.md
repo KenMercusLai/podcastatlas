@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8544
+wiki_total_pages: 8545
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -950,6 +950,9 @@ wiki_pages:
   - key: "PoliticalDeepfakeRegulation"
     title: "Political Deepfake Regulation"
     url: "/wiki/concepts/politicaldeepfakeregulation/"
+  - key: "PoliticalDefeatCulturalAfterlife"
+    title: "Political Defeat and Cultural Afterlife"
+    url: "/wiki/concepts/politicaldefeatculturalafterlife/"
   - key: "PoliticalDeliveryGap"
     title: "Political Delivery Gap"
     url: "/wiki/concepts/politicaldeliverygap/"

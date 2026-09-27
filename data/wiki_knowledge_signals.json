@@ -25013,6 +25013,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/entities/charlesdawson/"
     },
+    "CharlesDeGaulle": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6246374874 [GLT6246374874].md",
+          "key": "354-paris-1968-the-return-of-de-gaulle-part-2-glt6246374874",
+          "show": "The Rest Is History",
+          "title": "354: Paris 1968: The Return of De Gaulle (Part 2)",
+          "url": "/wiki/sources/354-paris-1968-the-return-of-de-gaulle-part-2-glt6246374874/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/charlesdegaulle/"
+    },
     "CharlesDuncanCameron": {
       "episode_count": 2,
       "show_count": 1,
@@ -104228,6 +104244,22 @@
       "updated": "2026-09-24",
       "url": "/wiki/entities/maximilienrobespierre/"
     },
+    "May1968France": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6246374874 [GLT6246374874].md",
+          "key": "354-paris-1968-the-return-of-de-gaulle-part-2-glt6246374874",
+          "show": "The Rest Is History",
+          "title": "354: Paris 1968: The Return of De Gaulle (Part 2)",
+          "url": "/wiki/sources/354-paris-1968-the-return-of-de-gaulle-part-2-glt6246374874/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/may1968france/"
+    },
     "MayaActive": {
       "episode_count": 1,
       "show_count": 1,
@@ -106451,9 +106483,9 @@
       "url": "/wiki/entities/michaelplatt/"
     },
     "MichelFoucault": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "92.柏拉图上班记：用哲学搞笑职场 [716822350].md",
@@ -106468,9 +106500,16 @@
           "show": "迟早更新",
           "title": "Episode 227: 二十一世纪青春物语",
           "url": "/wiki/sources/episode-227-ershiyishiji-qingchun-wuyu-8211230332-278487/"
+        },
+        {
+          "episode_file": "GLT6246374874 [GLT6246374874].md",
+          "key": "354-paris-1968-the-return-of-de-gaulle-part-2-glt6246374874",
+          "show": "The Rest Is History",
+          "title": "354: Paris 1968: The Return of De Gaulle (Part 2)",
+          "url": "/wiki/sources/354-paris-1968-the-return-of-de-gaulle-part-2-glt6246374874/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/michelfoucault/"
     },
     "MichelleWahler": {
@@ -122306,6 +122345,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/concepts/politicalcorpserelic/"
+    },
+    "PoliticalDefeatCulturalAfterlife": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6246374874 [GLT6246374874].md",
+          "key": "354-paris-1968-the-return-of-de-gaulle-part-2-glt6246374874",
+          "show": "The Rest Is History",
+          "title": "354: Paris 1968: The Return of De Gaulle (Part 2)",
+          "url": "/wiki/sources/354-paris-1968-the-return-of-de-gaulle-part-2-glt6246374874/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/politicaldefeatculturalafterlife/"
     },
     "PoliticalExecutionMemoryContest": {
       "episode_count": 1,

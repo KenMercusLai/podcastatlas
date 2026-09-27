@@ -24196,3 +24196,11 @@ Added source `355-roman-apocalypse-pompeii-79-ad-glt6664993493`; created `MountV
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | 354: Paris 1968: The Return of De Gaulle (Part 2)
+
+Added source `354-paris-1968-the-return-of-de-gaulle-part-2-glt6246374874`; created `CharlesDeGaulle`, `May1968France`, and `PoliticalDefeatCulturalAfterlife`; and updated `MichelFoucault` and the canonical index from their complete bounded source sets. Core synthesis: de Gaulle's army consultation, radio address, parliamentary dissolution, counter-demonstration, and election victory made May 1968 an immediate political defeat for the movement without settling its longer cultural and intellectual effects. No settled contradiction was adopted. The causal relationship to Foucault, army counterfactuals, crowd sizes, private motives, holiday demobilization, and cross-national influence remain interpretive or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

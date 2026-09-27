@@ -1521,6 +1521,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "354-paris-1968-the-return-of-de-gaulle-part-2-glt6246374874": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "355-roman-apocalypse-pompeii-79-ad-glt6664993493": [
     {
       "key": "history",
@@ -48939,6 +48946,13 @@
       "label": "Economics",
       "url": "/topics/economics/"
     },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "May1968France": [
     {
       "key": "politics",
       "label": "Politics",
