@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 10969
+wiki_total_pages: 10972
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -89,6 +89,9 @@ wiki_pages:
   - key: "JacobusLentz"
     title: "Jacobus Lentz / 雅各布斯·伦次"
     url: "/wiki/entities/jacobuslentz/"
+  - key: "JacquelineKennedyOnassis"
+    title: "Jacqueline Kennedy Onassis"
+    url: "/wiki/entities/jacquelinekennedyonassis/"
   - key: "JacquelineSentiner"
     title: "Jacqueline Sentiner"
     url: "/wiki/entities/jacquelinesentiner/"
@@ -674,6 +677,9 @@ wiki_pages:
   - key: "JohnCollison"
     title: "John Collison"
     url: "/wiki/entities/johncollison/"
+  - key: "JohnConnally"
+    title: "John Connally"
+    url: "/wiki/entities/johnconnally/"
   - key: "JohnCoogan"
     title: "John Coogan"
     url: "/wiki/entities/johncoogan/"

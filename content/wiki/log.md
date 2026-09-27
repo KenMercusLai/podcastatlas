@@ -23464,3 +23464,11 @@ Added source `ama-13-winter-months-sickness-wim-hof-breathing-stressors-scim4783
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | 394. JFK: Death in Dallas (Part 3)
+
+Added source `394-jfk-death-in-dallas-part-3-glt6387392381`; created `JacquelineKennedyOnassis`, `JohnConnally`, `DealeyPlaza`, and `PresidentialAccessibilitySecurityTradeoff`; and updated `JohnFKennedy`, `KennedyAssassination`, `LeeHarveyOswald`, `WarrenCommission`, and the canonical index from their complete bounded source sets. Core synthesis: Kennedy's Texas campaign joined coalition repair and public accessibility to an exposed open-car route, while Dealey Plaza's compact geography, sixth-floor sightings, and immediate Depository encounter supply the missing prehistory for Parts 4–7. No settled contradiction found. The episode follows the Warren Commission/Bugliosi account; shot timing, wounds, witness perception, the back-brace counterfactual, dialogue, and Zapruder-film interpretations remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

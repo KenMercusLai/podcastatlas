@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 10969
+wiki_total_pages: 10972
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -377,6 +377,9 @@ wiki_pages:
   - key: "Dbt"
     title: "dbt"
     url: "/wiki/entities/dbt/"
+  - key: "DealeyPlaza"
+    title: "Dealey Plaza"
+    url: "/wiki/entities/dealeyplaza/"
   - key: "DeathWithDignity"
     title: "Death with Dignity"
     url: "/wiki/entities/deathwithdignity/"

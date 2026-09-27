@@ -41362,6 +41362,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "JohnConnally": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "JohnCoogan": [
     {
       "key": "economics",
@@ -58134,6 +58141,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "PresidentialAccessibilitySecurityTradeoff": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "PresidentialConflictOfInterest": [

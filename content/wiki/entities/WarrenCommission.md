@@ -5,6 +5,7 @@ tags: [organization, investigation, united-states, assassination, evidence]
 sources:
   - 398-jfk-the-mystery-is-solved-part-7-glt6409828878
   - 397-jfk-a-conspiracy-unmasked-part-6-glt4318220159
+  - 394-jfk-death-in-dallas-part-3-glt6387392381
 last_updated: 2026-09-27
 knowledge_schema: synthesis-v1
 ---
@@ -19,7 +20,7 @@ The Warren Commission was the official inquiry into the assassination of [[JohnF
 
 The episodes present the commission as both an investigation and an attempted public settlement after [[JackRuby|Jack Ruby]] killed Oswald. Johnson appointed Chief Justice Earl Warren and prominent figures from both parties amid domestic rumor, Soviet propaganda, and FBI concern that its prior knowledge of Oswald might become an institutional embarrassment. The report's large documentary record concluded that Oswald and Ruby each acted alone and were unconnected, while leaving Oswald's precise motive unresolved.
 
-The finale presents that broad lone-gunman conclusion as more persuasive than conspiracy alternatives, largely because Oswald's biography, access, rifle, conduct, and violence form a cumulative evidentiary case. Neither source audits the complete report or establishes that every subsidiary finding is beyond dispute. Their endorsement is therefore broad and comparative: the Oswald explanation carries more evidentiary weight and requires fewer unsupported hidden actors.
+Part 3 uses the commission's account as the narrative baseline for the shooting itself, including the sequence of shots and wounds in Dealey Plaza. The finale presents the broader lone-gunman conclusion as more persuasive than conspiracy alternatives, largely because Oswald's biography, access, rifle, conduct, and violence form a cumulative evidentiary case. None of the sources audits the complete report or establishes that every subsidiary finding is beyond dispute. Their endorsement is therefore broad and comparative: the Oswald explanation carries more evidentiary weight and requires fewer unsupported hidden actors.
 
 ## Key Characteristics
 
@@ -29,6 +30,7 @@ The finale presents that broad lone-gunman conclusion as more persuasive than co
 - Frequent target of later assassination-conspiracy objections.
 - Trust-repair institution built around bipartisan prestige and a large public record.
 - Report endorsed broadly rather than examined finding by finding in these sources.
+- Narrative baseline used by Part 3 for the motorcade shooting sequence.
 
 ## Evidence
 
@@ -51,17 +53,17 @@ The finale presents that broad lone-gunman conclusion as more persuasive than co
 
 ### Contested mechanics
 
+- [[394-jfk-death-in-dallas-part-3-glt6387392381]] explicitly follows the Warren Commission/Bugliosi account for the three-shot sequence while acknowledging the case's larger conspiracy debate.
 - [[398-jfk-the-mystery-is-solved-part-7-glt6409828878]] answers firing-rate and single-bullet objections but does not reproduce the commission's full evidentiary analysis.
 
 ## Qualifications
 
-This page describes the commission through two retrospective podcast episodes. They provide selected membership, scale, institutional motive, conclusions, and later-investigation context, but not a complete account of hearings, documentary procedures, institutional constraints, dissent, or the forensic record. Agreement with the broad conclusion should not be read as validation of every subsidiary finding or investigative choice, and the commission's legitimacy purpose does not by itself prove either truth or cover-up.
+This page describes the commission through three retrospective podcast episodes. They provide selected membership, scale, institutional motive, conclusions, shooting chronology, and later-investigation context, but not a complete account of hearings, documentary procedures, institutional constraints, dissent, or the forensic record. Agreement with the broad conclusion should not be read as validation of every subsidiary finding or investigative choice, and using the official account as a narrative baseline is not an independent forensic audit. The commission's legitimacy purpose does not by itself prove either truth or cover-up.
 
 ## What Changed
 
-- Added the commission's formation, membership logic, documentary scale, and public trust-repair purpose.
-- Added Ruby's separate lone-actor finding and the unresolved-motive boundary.
-- Added the later House inquiry as a qualified rather than total official reversal.
+- Added Part 3's explicit use of the commission as the shooting-sequence baseline.
+- Clarified that narrative adoption does not independently validate every forensic detail.
 
 ## Relationships
 

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [394. JFK: Death in Dallas (Part 3)](sources/394-jfk-death-in-dallas-part-3-glt6387392381.md) — The Rest Is History episode on Kennedy's Texas campaign, the accessibility-security tradeoff, Dealey Plaza, the shooting sequence, and the immediate encounter with Oswald.
 - [AMA #13: Winter Months & Sickness, Wim Hof Breathing & Stressors](sources/ama-13-winter-months-sickness-wim-hof-breathing-stressors-scim4783359583.md) — Huberman Lab premium AMA on winter respiratory risk, indoor proximity, dry air, nasal defenses, sleep, fever, and temperature-stress boundaries.
 - [395. JFK: Hunt for a Killer (Part 4)](sources/395-jfk-hunt-for-a-killer-part-4-glt1345279222.md) — The Rest Is History episode on Kennedy's death, the first-day hunt for Oswald, the Tippit killing, Johnson's succession, and the evidence and irregularities that shaped later distrust.
 - [A Process for Finding & Achieving Your Unique Purpose | Robert Greene](sources/a-process-for-finding-achieving-your-unique-purpose-robert-greene-scim1811421687.md) — Huberman Lab interview on life-task discovery, power literacy, romantic compatibility, embodied social perception, effortful thinking, stroke, and mortality-bounded urgency.
@@ -2957,6 +2958,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Prevent & Treat Colds & Flu](sources/how-to-prevent-treat-colds-flu-scim6817932732.md) — Huberman Lab solo episode on respiratory-virus transmission, layered immune defense, sleep and training load, heat boundaries, and supplement evidence.
 
 ## Entities
+- [Jacqueline Kennedy Onassis](entities/JacquelineKennedyOnassis.md) — First lady whose political presence and immediate trauma connect the Texas trip to the human reality of the assassination.
+- [John Connally](entities/JohnConnally.md) — Texas governor, coalition figure, motorcade witness, and shooting victim.
+- [Dealey Plaza](entities/DealeyPlaza.md) — Compact Dallas crime scene whose route geometry, witnesses, sight lines, and acoustics shaped the attack and its interpretation.
 - [Robert Greene](entities/RobertGreene.md) — Author connecting purpose, power, relationships, difficult thinking, and mortality in a source-bounded Huberman Lab profile.
 - [John F. Kennedy](entities/JohnFKennedy.md) — U.S. president whose death, body transfer, symbolic stature, alleged motives, and conspiracy afterlife organize the JFK sequence.
 - [Lee Harvey Oswald](entities/LeeHarveyOswald.md) — Former Marine and Soviet defector whom the episode identifies as Kennedy's killer through a cumulative biographical and evidentiary case.
@@ -13941,6 +13945,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kay Tye](entities/KayTye.md) — Neuroscientist connecting emotional-valence circuits to loneliness, social homeostasis, hierarchy, and sustainable scientific leadership.
 
 ## Concepts
+- [Presidential Accessibility-Security Tradeoff](concepts/PresidentialAccessibilitySecurityTradeoff.md) — Tension between the political value of public proximity and the protective exposure created by visibility, spontaneity, and open routes.
 - [Winter Respiratory Infection Risk](concepts/WinterRespiratoryInfectionRisk.md) — Multifactorial model connecting seasonal exposure, indoor proximity, dry air, airway defenses, sleep, and pathogen variation.
 - [Life-Task Discovery](concepts/LifeTaskDiscovery.md) — Process of testing early fascinations, aversions, and visceral engagement as evidence for a durable adult direction.
 - [Power Literacy](concepts/PowerLiteracy.md) — Defensive awareness of influence, dependency, status, disclosure, vulnerability, and covert control in ordinary relationships.

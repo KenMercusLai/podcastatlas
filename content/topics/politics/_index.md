@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2739
+topic_total_pages: 2741
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -2830,6 +2830,9 @@ topic_concepts:
   - key: "PremarketFoodSafetyReview"
     title: "Premarket Food Safety Review"
     url: "/wiki/concepts/premarketfoodsafetyreview/"
+  - key: "PresidentialAccessibilitySecurityTradeoff"
+    title: "Presidential Accessibility-Security Tradeoff"
+    url: "/wiki/concepts/presidentialaccessibilitysecuritytradeoff/"
   - key: "PresidentialConflictOfInterest"
     title: "Presidential Conflict Of Interest"
     url: "/wiki/concepts/presidentialconflictofinterest/"
@@ -5555,6 +5558,9 @@ topic_entities:
   - key: "JohnCamHobhouse"
     title: "John Cam Hobhouse"
     url: "/wiki/entities/johncamhobhouse/"
+  - key: "JohnConnally"
+    title: "John Connally"
+    url: "/wiki/entities/johnconnally/"
   - key: "JohnFKennedy"
     title: "John F. Kennedy"
     url: "/wiki/entities/johnfkennedy/"

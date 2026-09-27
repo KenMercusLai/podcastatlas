@@ -7,6 +7,7 @@ sources:
   - 397-jfk-a-conspiracy-unmasked-part-6-glt4318220159
   - 396-jfk-the-second-assassin-strikes-part-5-glt7803941061
   - 395-jfk-hunt-for-a-killer-part-4-glt1345279222
+  - 394-jfk-death-in-dallas-part-3-glt6387392381
 last_updated: 2026-09-27
 knowledge_schema: synthesis-v1
 ---
@@ -19,24 +20,27 @@ The assassination of John F. Kennedy was the 22 November 1963 killing of the U.S
 
 ## Current Profile
 
-The episodes reconstruct the crime as a late opportunity enabled by a motorcade route that passed Oswald's workplace. Part 4 supplies the compressed first-day sequence: Kennedy's death at Parkland, the sixth-floor sniper's nest and rifle, J. D. Tippit's killing, Oswald's theater arrest, the Hidell identification and rifle trace, Johnson's oath, and the late-night murder charge. The series joins that sequence to the package taken to work, witness evidence, Oswald's departure, resistance, and interrogation lies in a cumulative lone-gunman case. It also answers two common objections by arguing that the shooting speed had been duplicated and that the so-called magic-bullet trajectory is plausible given Kennedy's and John Connally's relative positions.
+The episodes reconstruct the crime as a late opportunity enabled by a motorcade route that passed Oswald's workplace. Part 3 now supplies the prehistory and scene: Kennedy's coalition-building Texas trip, Dallas's threatening reputation, the security-accessibility tradeoff of a slow open motorcade, the compact geography of Dealey Plaza, pre-shot sixth-floor sightings, the official three-shot sequence, Kennedy's back brace, Connally's wound, and the immediate flight toward Parkland. It ends with Officer Marion Baker briefly confronting Oswald inside the Depository before superintendent Roy Truly identified him as an employee.
+
+Part 4 supplies the compressed first-day sequence after that encounter: Kennedy's death at Parkland, the sixth-floor sniper's nest and rifle, J. D. Tippit's killing, Oswald's theater arrest, the Hidell identification and rifle trace, Johnson's oath, and the late-night murder charge. The series joins that sequence to the package taken to work, witness evidence, Oswald's departure, resistance, and interrogation lies in a cumulative lone-gunman case. It also answers two common objections by arguing that the shooting speed had been duplicated and that the so-called magic-bullet trajectory is plausible given Kennedy's and John Connally's relative positions.
 
 The event's afterlife is treated as a second historical problem beginning inside the crisis itself. Senior officials initially considered communist, Cuban, Ku Klux Klan, and right-wing involvement; the contested removal of Kennedy's body and the extraordinary openness of police headquarters created genuine procedural irregularities before later theories formed. Part 5 then distinguishes a fast police investigation from the department's failure to protect its defendant: Ruby's killing of Oswald removed the trial and made the case look compromised at precisely the moment authorities expected it to proceed publicly. The Warren Commission tried to establish a public settlement; Vietnam and Watergate weakened institutional trust; and the Zapruder film, grassy-knoll testimony, photographic figures, disputed dictabelt evidence, and Oliver Stone's *JFK* kept reinterpretation alive. Because Kennedy's death also preceded later-1960s upheaval, the assassination became a hinge in stories of a lost optimistic America and a precursor to populist, deep-state, and QAnon-style politics.
 
 ## Key Characteristics
 
-- Presidential assassination in Dallas on 22 November 1963.
+- Presidential assassination in Dealey Plaza, Dallas, on 22 November 1963.
+- Event whose political-trip setting joined campaign accessibility, public visibility, hostile-threat awareness, and route exposure.
 - Crime the episode explains through Oswald's workplace opportunity and a cumulative evidence chain.
 - Ballistic controversy centered on firing speed and the single-bullet trajectory.
 - Cultural trauma made to bear explanations for later American political disillusionment.
 - Case in which a custody failure contaminated public confidence in a broader investigation without itself disproving that investigation.
-- Durable conspiracy object linking official secrecy, distrust, secret-knowledge appeal, and totalizing history.
-- Event whose official interpretation moved through police certainty, commission settlement, later congressional qualification, and technical rebuttal.
+- Durable conspiracy object whose official interpretation moved through police certainty, commission settlement, later congressional qualification, and technical rebuttal.
 
 ## Evidence
 
 ### Opportunity and scene
 
+- [[394-jfk-death-in-dallas-part-3-glt6387392381]] reconstructs the open-car decision, route through Dealey Plaza, sixth-floor sightings, witness confusion, shooting sequence, Connally wound, back-brace interpretation, and immediate Depository encounter.
 - [[395-jfk-hunt-for-a-killer-part-4-glt1345279222]] supplies the Parkland chronology, eyewitness broadcast, sniper's nest, paper bag, cartridge cases, rifle discovery, Tippit killing, theater arrest, Hidell identification, and same-night rifle trace.
 - [[398-jfk-the-mystery-is-solved-part-7-glt6409828878]] emphasizes the late publication of the route past the Book Depository, Oswald's presence there, the package, sixth-floor observations, sniper's nest, and rifle.
 
@@ -58,13 +62,13 @@ The event's afterlife is treated as a second historical problem beginning inside
 
 ## Qualifications
 
-This profile represents four episodes' argument, not the full evidentiary record. The sources discuss only a selection of the available evidence and later disputes. Their eyewitness, medical, ballistic, acoustic, timing, motive, behavioral, CIA, and counterfactual claims remain source-scoped. Immediate official uncertainty and procedural irregularity justify questions but do not establish a wider plot; police failure to protect Oswald explains distrust but does not logically establish his innocence or coordination, and the broad claim that Kennedy conspiracy theories fed later populism describes an influence pathway rather than a single-cause history.
+This profile represents five episodes' argument, not the full evidentiary record. The sources discuss only a selection of the available evidence and later disputes. Their eyewitness, medical, ballistic, acoustic, timing, motive, behavioral, CIA, back-brace, and security counterfactual claims remain source-scoped. Part 3 explicitly adopts the Warren Commission/Bugliosi sequence, so it is not an independent audit of contested evidence. Immediate official uncertainty and procedural irregularity justify questions but do not establish a wider plot; police failure to protect Oswald explains distrust but does not logically establish his innocence or coordination, and the broad claim that Kennedy conspiracy theories fed later populism describes an influence pathway rather than a single-cause history.
 
 ## What Changed
 
-- Distinguished evidence collection from custody protection, clarifying how failure in one function contaminated trust in the other.
-- Added the immediate transfer failure as the bridge from the criminal case to the later inquiry-and-conspiracy afterlife.
-- Added the first-day medical, investigative, succession, and official-uncertainty chronology.
+- Added the Texas-trip purpose, Dallas threat context, and motorcade visibility-security tradeoff.
+- Added Dealey Plaza geography, pre-shot sightings, the shooting sequence, and the immediate Depository encounter.
+- Qualified the new reconstruction as an official-account narrative rather than an independent forensic audit.
 
 ## Relationships
 
@@ -79,3 +83,5 @@ This profile represents four episodes' argument, not the full evidentiary record
 - [[DallasPoliceDepartment]] - investigating institution whose custody failure eliminated the defendant's trial.
 - [[JDTippit]] - second homicide victim whose killing and witness trail led toward Oswald's arrest.
 - [[LyndonBJohnson]] - successor who took office while officials still feared a broader plot.
+- [[DealeyPlaza]] - urban setting whose route, buildings, sight lines, and acoustics shaped both the attack and later debate.
+- [[PresidentialAccessibilitySecurityTradeoff]] - political-security tension visible in the open motorcade and crowd-facing route.

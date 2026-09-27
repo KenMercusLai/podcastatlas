@@ -35295,6 +35295,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/concepts/deroyalizationritual/"
     },
+    "DealeyPlaza": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6387392381 [GLT6387392381].md",
+          "key": "394-jfk-death-in-dallas-part-3-glt6387392381",
+          "show": "The Rest Is History",
+          "title": "394. JFK: Death in Dallas (Part 3)",
+          "url": "/wiki/sources/394-jfk-death-in-dallas-part-3-glt6387392381/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/dealeyplaza/"
+    },
     "DeathFacingResponsibility": {
       "episode_count": 1,
       "show_count": 1,
@@ -76183,6 +76199,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/jacobitism/"
     },
+    "JacquelineKennedyOnassis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6387392381 [GLT6387392381].md",
+          "key": "394-jfk-death-in-dallas-part-3-glt6387392381",
+          "show": "The Rest Is History",
+          "title": "394. JFK: Death in Dallas (Part 3)",
+          "url": "/wiki/sources/394-jfk-death-in-dallas-part-3-glt6387392381/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/jacquelinekennedyonassis/"
+    },
     "JacquesLouisDavid": {
       "episode_count": 3,
       "show_count": 2,
@@ -78864,6 +78896,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/entities/johncamhobhouse/"
     },
+    "JohnConnally": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6387392381 [GLT6387392381].md",
+          "key": "394-jfk-death-in-dallas-part-3-glt6387392381",
+          "show": "The Rest Is History",
+          "title": "394. JFK: Death in Dallas (Part 3)",
+          "url": "/wiki/sources/394-jfk-death-in-dallas-part-3-glt6387392381/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/johnconnally/"
+    },
     "JohnDee": {
       "episode_count": 1,
       "show_count": 1,
@@ -78897,9 +78945,9 @@
       "url": "/wiki/entities/johndickie/"
     },
     "JohnFKennedy": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT6409828878 [GLT6409828878].md",
@@ -78921,6 +78969,13 @@
           "show": "The Rest Is History",
           "title": "395. JFK: Hunt for a Killer (Part 4)",
           "url": "/wiki/sources/395-jfk-hunt-for-a-killer-part-4-glt1345279222/"
+        },
+        {
+          "episode_file": "GLT6387392381 [GLT6387392381].md",
+          "key": "394-jfk-death-in-dallas-part-3-glt6387392381",
+          "show": "The Rest Is History",
+          "title": "394. JFK: Death in Dallas (Part 3)",
+          "url": "/wiki/sources/394-jfk-death-in-dallas-part-3-glt6387392381/"
         }
       ],
       "updated": "2026-09-27",
@@ -80737,9 +80792,9 @@
       "url": "/wiki/entities/kenjiyamamoto/"
     },
     "KennedyAssassination": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT6409828878 [GLT6409828878].md",
@@ -80768,6 +80823,13 @@
           "show": "The Rest Is History",
           "title": "395. JFK: Hunt for a Killer (Part 4)",
           "url": "/wiki/sources/395-jfk-hunt-for-a-killer-part-4-glt1345279222/"
+        },
+        {
+          "episode_file": "GLT6387392381 [GLT6387392381].md",
+          "key": "394-jfk-death-in-dallas-part-3-glt6387392381",
+          "show": "The Rest Is History",
+          "title": "394. JFK: Death in Dallas (Part 3)",
+          "url": "/wiki/sources/394-jfk-death-in-dallas-part-3-glt6387392381/"
         }
       ],
       "updated": "2026-09-27",
@@ -84094,9 +84156,9 @@
       "url": "/wiki/concepts/learningstylematchingboundary/"
     },
     "LeeHarveyOswald": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT6409828878 [GLT6409828878].md",
@@ -84125,6 +84187,13 @@
           "show": "The Rest Is History",
           "title": "395. JFK: Hunt for a Killer (Part 4)",
           "url": "/wiki/sources/395-jfk-hunt-for-a-killer-part-4-glt1345279222/"
+        },
+        {
+          "episode_file": "GLT6387392381 [GLT6387392381].md",
+          "key": "394-jfk-death-in-dallas-part-3-glt6387392381",
+          "show": "The Rest Is History",
+          "title": "394. JFK: Death in Dallas (Part 3)",
+          "url": "/wiki/sources/394-jfk-death-in-dallas-part-3-glt6387392381/"
         }
       ],
       "updated": "2026-09-27",
@@ -116459,6 +116528,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/concepts/preoperativeanesthesiaassessment/"
+    },
+    "PresidentialAccessibilitySecurityTradeoff": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6387392381 [GLT6387392381].md",
+          "key": "394-jfk-death-in-dallas-part-3-glt6387392381",
+          "show": "The Rest Is History",
+          "title": "394. JFK: Death in Dallas (Part 3)",
+          "url": "/wiki/sources/394-jfk-death-in-dallas-part-3-glt6387392381/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/presidentialaccessibilitysecuritytradeoff/"
     },
     "PressureReleaseInfightingStrategy": {
       "episode_count": 5,
@@ -153711,9 +153796,9 @@
       "url": "/wiki/entities/warofthegoldenstool/"
     },
     "WarrenCommission": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6409828878 [GLT6409828878].md",
@@ -153728,6 +153813,13 @@
           "show": "The Rest Is History",
           "title": "397. JFK: A Conspiracy Unmasked (Part 6)",
           "url": "/wiki/sources/397-jfk-a-conspiracy-unmasked-part-6-glt4318220159/"
+        },
+        {
+          "episode_file": "GLT6387392381 [GLT6387392381].md",
+          "key": "394-jfk-death-in-dallas-part-3-glt6387392381",
+          "show": "The Rest Is History",
+          "title": "394. JFK: Death in Dallas (Part 3)",
+          "url": "/wiki/sources/394-jfk-death-in-dallas-part-3-glt6387392381/"
         }
       ],
       "updated": "2026-09-27",
