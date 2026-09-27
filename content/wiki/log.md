@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-28] ingest | 367. The Real Harry Potter: Magic, Empire and Beastly Bullies
+
+Added source `367-the-real-harry-potter-magic-empire-and-beastly-bullies-glt3711207657`; created `ThomasHughes`, `RugbySchool`, and `MuscularChristianity`; and updated `ThomasArnold`, `BritishPublicSchools`, `SchoolStoryTradition`, and the canonical index from their complete bounded source sets. Core synthesis: *Tom Brown's School Days* translated Rugby's Christian character program, prefect hierarchy, sport, bullying, and reform into a mass school-story template that Hogwarts retains while transforming it through magic, coeducation, multiculturalism, and gentler authority. No settled contradiction was found; the episode instead qualifies the familiar Arnold-sport association by placing the stronger athletic synthesis with Hughes, Arnold's disciples, and later muscular Christianity. Literary influence, circulation figures, institutional practices, imperial reach, and causal claims about character, class, sexuality, and sport remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-28] ingest | 368. The History Behind Hogwarts: Ancient Schools and Revolting Students
 
 Added source `368-the-history-behind-hogwarts-ancient-schools-and-revolting-students-glt6783238013`; created `WilliamOfWykeham`, `WinchesterCollege`, `EtonCollege`, `ThomasArnold`, `BritishPublicSchools`, `PublicSchoolRebellions`, and `SchoolStoryTradition`; and updated the canonical index. Core synthesis: British public schools contained charitable purpose and elite access together from their medieval foundations, while later weak supervision, delegated pupil hierarchy, hazing, and weapons enabled organized revolt; nineteenth-century character reform changed the institutions' moral language without erasing class tension, and Hogwarts transforms those conventions into a globally legible magical school world. No settled contradiction was found. Foundation details, riot narratives, alumni careers, classical-education causation, reform effects, and the explanation of Harry Potter's appeal remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -23944,6 +23948,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-28] ingest | AI Trading —— 决策便宜，行动很贵｜对谈超 3w Star Vibe-Trading 作者浩哲
 
 Added source `ai-trading-juece-pianyi-xingdong-hengui-duitan-chao-3w-star-vibe-trading-zuozhe-haozhe-luz0eizpk9v3nz94iuutp1z9xj25`; created `WuHaozhe`, `VibeTrading`, `AITrading`, `DecisionActionCostAsymmetry`, `FinancialDataAlignment`, `PointInTimeBacktesting`, and `TradingProbabilityCalibration`; and updated `42Zhangjing` plus the canonical index from the complete bounded source set. Core synthesis: AI can make investment judgments abundant and cheap, but capital commitment, loss, and responsibility remain expensive, so a trustworthy system must separate facts from hypotheses, align data semantics and timing, test contrary evidence and costs, calibrate confidence, execute selectively, and keep risk limits and exceptions under accountable human control. No settled contradiction is adopted. Product metrics, personal AI reliance, rapid market-efficiency forecasts, and multi-agent behavior claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-28] lint | Wiki health check
 

@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2864
+topic_total_pages: 2868
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1780,6 +1780,9 @@ topic_concepts:
   - key: "MultilingualNationalAnthemFormation"
     title: "Multilingual National Anthem Formation"
     url: "/wiki/concepts/multilingualnationalanthemformation/"
+  - key: "MuscularChristianity"
+    title: "Muscular Christianity"
+    url: "/wiki/concepts/muscularchristianity/"
   - key: "MuseumInterpretationLegibility"
     title: "Museum Interpretation Legibility / 博物馆阐释可读性"
     url: "/wiki/concepts/museuminterpretationlegibility/"
@@ -4973,6 +4976,9 @@ topic_entities:
   - key: "RudyardKipling"
     title: "Rudyard Kipling"
     url: "/wiki/entities/rudyardkipling/"
+  - key: "RugbySchool"
+    title: "Rugby School"
+    url: "/wiki/entities/rugbyschool/"
   - key: "RupertMurdoch"
     title: "Rupert Murdoch"
     url: "/wiki/entities/rupertmurdoch/"
@@ -5399,6 +5405,9 @@ topic_entities:
   - key: "ThomasArnold"
     title: "Thomas Arnold"
     url: "/wiki/entities/thomasarnold/"
+  - key: "ThomasHughes"
+    title: "Thomas Hughes"
+    url: "/wiki/entities/thomashughes/"
   - key: "Thor"
     title: "Thor / 托尔"
     url: "/wiki/entities/thor/"
@@ -7890,6 +7899,9 @@ topic_sources:
   - key: "33-renjian-shige-danxiaogui-de-zhuanglie-xianji-599924624"
     title: "33.人间失格：胆小鬼的壮烈献祭"
     url: "/wiki/sources/33-renjian-shige-danxiaogui-de-zhuanglie-xianji-599924624/"
+  - key: "367-the-real-harry-potter-magic-empire-and-beastly-bullies-glt3711207657"
+    title: "367. The Real Harry Potter: Magic, Empire and Beastly Bullies"
+    url: "/wiki/sources/367-the-real-harry-potter-magic-empire-and-beastly-bullies-glt3711207657/"
   - key: "368-the-history-behind-hogwarts-ancient-schools-and-revolting-students-glt6783238013"
     title: "368. The History Behind Hogwarts: Ancient Schools and Revolting Students"
     url: "/wiki/sources/368-the-history-behind-hogwarts-ancient-schools-and-revolting-students-glt6783238013/"

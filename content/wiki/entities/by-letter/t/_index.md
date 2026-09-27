@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 11071
+wiki_total_pages: 11073
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -596,6 +596,9 @@ wiki_pages:
   - key: "ThomasHowardDukeOfNorfolk"
     title: "Thomas Howard / Duke of Norfolk"
     url: "/wiki/entities/thomashowarddukeofnorfolk/"
+  - key: "ThomasHughes"
+    title: "Thomas Hughes"
+    url: "/wiki/entities/thomashughes/"
   - key: "ThomasHutchinson"
     title: "Thomas Hutchinson"
     url: "/wiki/entities/thomashutchinson/"

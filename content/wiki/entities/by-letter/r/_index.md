@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 11071
+wiki_total_pages: 11073
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -800,6 +800,9 @@ wiki_pages:
   - key: "RudyardKipling"
     title: "Rudyard Kipling"
     url: "/wiki/entities/rudyardkipling/"
+  - key: "RugbySchool"
+    title: "Rugby School"
+    url: "/wiki/entities/rugbyschool/"
   - key: "RuhollahKhomeini"
     title: "Ruhollah Khomeini"
     url: "/wiki/entities/ruhollahkhomeini/"

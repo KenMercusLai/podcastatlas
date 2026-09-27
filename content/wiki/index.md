@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [367. The Real Harry Potter: Magic, Empire and Beastly Bullies](sources/367-the-real-harry-potter-magic-empire-and-beastly-bullies-glt3711207657.md) — The Rest Is History episode on Tom Brown's School Days, Rugby, muscular Christianity, public-school hierarchy, and Hogwarts's transformation of the British school-story tradition.
 - [Journal Club With Dr. Peter Attia | Metformin for Longevity & the Power of Belief Effects](sources/journal-club-with-dr-peter-attia-metformin-for-longevity-the-power-of-belief-effects-scim5394566255.md) — Huberman Lab Journal Club on metformin mortality evidence, informative censoring, comparator limits, mouse longevity testing, and dose-dependent nicotine belief effects.
 - [VOL.73精神科｜少年儿童的心理健康关乎我们社会未来的健康](sources/vol-73-jingshenke-shaonian-ertong-de-xinli-jiankang-guanhu-women-shehui-weilai-de-jiankang-lmyhvu50qll_zy9dxkqggwxi0tyn.md) — 这病说来话长 episode on multidomain youth-distress signals, family-systems interpretation, school-caregiver-clinician coordination, and authentic regulated parenting.
 - [368. The History Behind Hogwarts: Ancient Schools and Revolting Students](sources/368-the-history-behind-hogwarts-ancient-schools-and-revolting-students-glt6783238013.md) — The Rest Is History episode on charitable and elite public-school origins, pupil violence and rebellion, moral reform, and Hogwarts's debt to the school-story tradition.
@@ -3022,6 +3023,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI Trading —— 决策便宜，行动很贵｜对谈超 3w Star Vibe-Trading 作者浩哲](sources/ai-trading-juece-pianyi-xingdong-hengui-duitan-chao-3w-star-vibe-trading-zuozhe-haozhe-luz0eizpk9v3nz94iuutp1z9xj25.md) — 42章经 conversation on Vibe Trading, auditable AI investment research, financial data alignment, point-in-time validation, calibrated probabilities, and bounded human-controlled execution.
 
 ## Entities
+- [Thomas Hughes](entities/ThomasHughes.md) — Author who translated Rugby and Arnoldian character formation into the foundational Tom Brown school story.
+- [Rugby School](entities/RugbySchool.md) — British public school linking Thomas Arnold's reforms to Thomas Hughes's literary model.
 - [William of Wykeham](entities/WilliamOfWykeham.md) — Medieval bishop and chancellor whose Winchester–New College pipeline joined poor scholars, Latin training, and limited elite access.
 - [Winchester College](entities/WinchesterCollege.md) — Early public-school foundation linking charitable-monastic education to elite admission and the violent 1793 pupil revolt.
 - [Eton College](entities/EtonCollege.md) — Royal Winchester-derived foundation whose prestige, alumni influence, pupil hierarchy, and weak supervision exemplify the public-school paradox.
@@ -14111,6 +14114,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Vibe Trading](entities/VibeTrading.md) — Open-source secondary-market research workspace integrating macro, fundamental, quantitative, and risk analysis.
 
 ## Concepts
+- [Muscular Christianity](concepts/MuscularChristianity.md) — Ideal joining Christian duty, sport, masculine discipline, service, and character formation.
 - [British Public Schools](concepts/BritishPublicSchools.md) — Institutional tradition joining charitable purpose, fee-paying elite access, classical learning, pupil hierarchy, character claims, and durable prestige.
 - [Public School Rebellions](concepts/PublicSchoolRebellions.md) — Comparative pattern in which grievance, weapons, delegated pupil power, and weak supervision escalated into organized revolt.
 - [School-Story Tradition](concepts/SchoolStoryTradition.md) — Narrative form making a bounded school world legible through houses, peers, authority, rivalry, belonging, and moral development.
