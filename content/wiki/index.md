@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.59麻醉科&脊柱外科｜术中知晓“鬼压床”常见吗？腰疼是麻醉造成的吗？产妇都适合无痛分娩吗？](sources/vol-59-mazuike-jizhuwai-ke-shuzhong-zhixiao-guiyachuang-changjian-ma-yaoteng-shi-mazui-zaocheng-de-ma-chanfu-dou-shihe-wutong-fenmian-ma-lp7ibbaykdfkwlpwdj8zdwejodtr.md) — 这病说来话长 Q&A on intraoperative awareness, procedural sedation, aspiration, recovery, obstetric anesthesia, neuraxial and spine considerations, and airway risk.
 - [VOL.60皮肤科｜不怕晒黑就不防晒了？轻度晒伤处理法｜黑色素瘤判断法](sources/vol-60-pifuke-bupa-shaihei-jiu-bu-fangshai-le-qingdu-shaishang-chulifa-heisesuliu-panduanfa-lipgbuf1-3iufdq-lho6y7l6hxd8c.md) — 这病说来话长 episode on scenario-based UV protection, sunburn escalation, melanoma warning features, and topical-corticosteroid boundaries.
 - [How to Shape Your Identity & Goals | Dr. Maya Shankar](sources/how-to-shape-your-identity-goals-dr-maya-shankar-scim1420437673.md) — Huberman Lab interview on purpose-anchored identity, change, cognitive-advisory feedback, differentiated empathy, and adaptable goal design.
 - [VOL.61皮肤科｜你被这些护肤词汇营销了吗？三甲医生揭保湿补水控油去角质的秘密](sources/vol-61-pifuke-ni-bei-zhexie-hufu-cihui-yingxiao-le-ma-sanjia-yisheng-jie-baoshi-bushui-kongyou-qujiaozhi-de-mimi-ljdsdo6iw9zyvt4olcfnq6bnix2j.md) — 这病说来话长 Q&A on barrier-first skin care, UV protection, acne and scarring, cosmetic-marketing limits, and clinician-guided treatment.
@@ -5680,12 +5681,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [梨花医生 / Lihua Speech Therapist](entities/LihuaSpeechTherapist.md) — Source-scoped speech therapist guest in VOL.34 and VOL.35 explaining dysphagia safety, functional articulation, pediatric language-delay early intervention, adult aphasia rhythm cueing, dysarthria boundaries, and long-term rehabilitation.
 - [毛春杰 / Mao Chunjie](entities/MaoChunjie.md) — Source-scoped ophthalmology guest in VOL.36 explaining diabetic fundus screening, dry eye, high-myopia retinal risk, myopia-surgery boundaries, red-eye causes, and eye-drop caution.
 - [天津总医院 / Tianjin General Hospital](entities/TianjinGeneralHospital.md) — Source-scoped hospital affiliation named for Mao Chunjie in the VOL.36 ophthalmology episode.
-- [董心彤 / Dong Xintong](entities/DongXintong.md) — Source-scoped anesthesiology guest in VOL.32, VOL.33, and VOL.121 explaining perioperative safety, anesthesia misconceptions, pain-driven sleep disruption, nighttime pain, analgesic escalation, and multidisciplinary sleep care.
+- [董心彤 / Dong Xintong](entities/DongXintong.md) — Source-scoped anesthesiology guest explaining perioperative safety, awareness and sedation depth, obstetric anesthesia, recovery, anesthesia misconceptions, and pain-related sleep care.
 - [刘子明 / Liu Ziming (sports medicine doctor)](entities/LiuZimingSportsMedicine.md) — Source-scoped 北医三院 sports-medicine doctor explaining safe exercise, lower-limb joint protection, progressive training, support-device boundaries, and symptom escalation.
 - [Peking University Third Hospital / 北医三院](entities/PekingUniversityThirdHospital.md) — Source-scoped institutional context for 这病说来话长 sports-medicine, orthopedic, and emergency-care guests explaining safe exercise, injury prevention, first-aid judgment, and trauma escalation.
 - [刘臣 / Liu Chen (Emergency Physician)](entities/LiuChenEmergencyDoctor.md) — Source-scoped emergency-medicine guest in VOL.222 explaining chest-pain escalation, CPR/AED boundaries, seizure response, medication stacking, and 120 calling.
 - [祝腾娇 / Zhu Tengjiao](entities/ZhuTengjiao.md) — Source-scoped orthopedic guest from 北医三院 in VOL.222 explaining acute sports injuries, Achilles rupture, wounds, punctures, burns, and trauma escalation.
-- [马浩宁 / Ma Haoning](entities/MaHaoning.md) — Medical guest explaining lumbar disc herniation, symptom-driven spine care, rehabilitation pacing, outpatient return thresholds, and low-cost safety checks.
+- [马浩宁 / Ma Haoning](entities/MaHaoning.md) — Spine-surgery guest explaining lumbar disc disease, symptom-driven care, rehabilitation, outpatient safety, and neuraxial-anatomy considerations.
 - [阿汤 / A Tang](entities/Atang.md) — Host voice in 这病说来话长 episodes, turning liver health, diagnostic uncertainty, migraine, health anxiety, rehabilitation, supplements, hearing safety, first-aid triage, exercise, and workplace pressure into listener-facing boundaries.
 - [果同学 / Guo Music Therapy Guest](entities/GuoMusicTherapyGuest.md) — Source-scoped 这病说来话长 guest explaining clinical music therapy, therapist musicianship, synchrony, elder memory cueing, and China/Korea professionalization boundaries.
 - [Ander (medical-aesthetics guest)](entities/AnderMedicalAesthetics.md) — Source-scoped VOL.211 guest explaining exercise appearance tradeoffs, outdoor skin exposure, facial strain, weight-loss looseness, and function-aware medical-aesthetic choices.
@@ -14226,6 +14227,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Skatepark Project](entities/TheSkateparkProject.md) — Nonprofit supporting public skateparks as access, practice, and youth-community infrastructure.
 
 ## Concepts
+- [Intraoperative Awareness and Sedation Depth / 术中知晓与镇静深度边界](concepts/IntraoperativeAwarenessAndSedationDepth.md) — Boundary among unintended awareness under general anesthesia, paralysis, depth monitoring, and intended lighter procedural sedation.
+- [Obstetric Anesthesia Decision Boundary / 产科麻醉决策边界](concepts/ObstetricAnesthesiaDecisionBoundary.md) — Maternal, fetal, spinal, coagulation, airway, aspiration, and urgency factors shaping labor analgesia and cesarean anesthesia.
 - [Sunburn Assessment and First Aid / 晒伤评估与处理](concepts/SunburnAssessmentAndFirstAid.md) — Severity-based distinction between mild UV-injury care and blistering, erosive, extensive, or systemic escalation.
 - [Pigmented Lesion and Melanoma Triage / 色素痣与黑色素瘤分诊](concepts/PigmentedLesionMelanomaTriage.md) — ABCDE, evolution, acral-location, and examination framework that avoids treating a warning checklist as diagnosis.
 - [Topical Corticosteroid Use Boundary / 外用糖皮质激素使用边界](concepts/TopicalCorticosteroidUseBoundary.md) — Route-, potency-, site-, indication-, and duration-specific boundary between appropriate external treatment and unsafe self-use.

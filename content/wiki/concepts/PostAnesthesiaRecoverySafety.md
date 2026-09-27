@@ -6,7 +6,8 @@ sources:
   - vol-33-mazuike-ni-dui-mazui-kongju-ma-ni-haijide-xinglai-de-shunjian-ma-guanyu-shoushu-zhong-hou-mazui-de-wujie-he-jinji-fu-waike-yisheng-caifang-luyin-lj2x7wulcdfnv7bnh9dzowciwvrr
   - vol-158-gaojiacheng-zhe-changweijing-feizuo-bukema-ft-luffy-yixue-pindao-gaoguifm-lmifb8pnp9d-qs_ezkdzyijyutov
   - vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt
-last_updated: 2026-09-27
+  - vol-59-mazuike-jizhuwai-ke-shuzhong-zhixiao-guiyachuang-changjian-ma-yaoteng-shi-mazui-zaocheng-de-ma-chanfu-dou-shihe-wutong-fenmian-ma-lp7ibbaykdfkwlpwdj8zdwejodtr
+last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
 
@@ -24,11 +25,13 @@ VOL.158 makes that endoscopy branch more concrete. Early recovery includes orien
 
 VOL.100 extends the perception boundary into ICU emergence. Medication, surgery, severe illness, prolonged treatment, sensory ambiguity, and separation from familiar people can contribute to hallucination or delirium. A frightening perception may have an ordinary environmental trigger, but similarity between anecdotes does not establish a supernatural cause; orientation and later explanation matter because the patient's experience can still be real and distressing.
 
+VOL.59 extends recovery from ordinary awakening into delayed emergence, agitation, and respiratory vulnerability. It presents recovery delay as a differential problem involving age, liver or kidney function, neurological surgery, bleeding, glucose and electrolyte disturbance, hypothermia, and procedure duration. Agitation may reflect age, pain, urinary-catheter discomfort, nasal packing, fear, or confusion, while asthma, chronic bronchitis, emphysema, thoracic pain, and impaired coughing can slow return to independent ventilation.
+
 ## Key Claims
-- Awakening after ordinary surgery usually depends on drug metabolism and spontaneous breathing recovery rather than being physically woken.
+- Awakening after ordinary surgery usually depends on drug metabolism and spontaneous breathing recovery rather than being physically woken; delay requires a multi-cause assessment rather than automatic blame on one drug.
 - Safe emergence requires muscle, airway reflex, cough, swallowing, breathing, and consciousness checks.
 - Delayed exit from the operating room can reflect anesthesiology recovery assessment after the surgical portion is finished.
-- Postoperative or ICU-emergence delirium can create acute, fluctuating confusion, talkativeness, sleepiness, unusual speech, hallucination, or environmental misperception, especially in older, severely ill, or high-risk settings.
+- Postoperative or ICU-emergence delirium or agitation can create acute, fluctuating confusion, talkativeness, sleepiness, unusual speech, hallucination, environmental misperception, or unsafe movement, especially in children, older adults, severely ill patients, or high-risk settings.
 - Postoperative nausea and vomiting are multifactorial rather than purely caused by anesthetic drugs.
 - Pillowless supine positioning is not a universal postoperative rule; head elevation may help comfort and breathing for some awake patients.
 - Recovery after painless gastrointestinal endoscopy includes orientation, symptom, mobility, escort, and driving checks, while food and activity advice depend on the procedure and tissue condition rather than anesthetic metabolism alone.
@@ -42,12 +45,15 @@ VOL.100 extends the perception boundary into ICU emergence. Medication, surgery,
 - Endoscopy discharge and aftercare: [[vol-158-gaojiacheng-zhe-changweijing-feizuo-bukema-ft-luffy-yixue-pindao-gaoguifm-lmifb8pnp9d-qs_ezkdzyijyutov|VOL.158]] describes orientation questions, recovery-room observation, walking support, escort and driving restrictions, symptom-dependent eating, and activity restrictions after larger polyp treatment, clipping, or vessel management.
 - ICU emergence and perception: [[vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt|VOL.100]] connects hallucination and delirium to medication, illness, surgery, prolonged treatment, limited family orientation, and ambiguous environmental cues.
 
+- Delayed emergence, agitation, and respiratory recovery: [[vol-59-mazuike-jizhuwai-ke-shuzhong-zhixiao-guiyachuang-changjian-ma-yaoteng-shi-mazui-zaocheng-de-ma-chanfu-dou-shihe-wutong-fenmian-ma-lp7ibbaykdfkwlpwdj8zdwejodtr|VOL.59]] links late awakening with age, organ function, neurological surgery, blood loss, glucose, electrolytes, temperature, and duration; it links agitation or slow respiratory recovery with pain, tubes or packing, childhood or older age, chronic lung disease, and impaired cough or lung expansion.
+
 ## Counterevidence & Qualifications
-This page does not define discharge criteria, delirium diagnosis, antiemetic selection, diet or activity instructions, positioning orders, airway management, escort rules, ICU management, or endoscopy aftercare for any individual. Recovery instructions depend on procedure and intervention type, anesthesia type, severe illness, comorbidities, pathology, hospital protocol, and clinician judgment. Anecdotal similarities and “mystical” stories are not diagnostic or causal evidence.
+This page does not define a universal delayed-emergence time threshold, discharge criteria, delirium diagnosis, antiemetic selection, diet or activity instructions, positioning orders, airway management, escort rules, ICU management, or endoscopy aftercare for any individual. Recovery instructions depend on procedure and intervention type, anesthesia type, severe illness, comorbidities, pathology, hospital protocol, and clinician judgment. Anecdotal similarities and “mystical” stories are not diagnostic or causal evidence.
 
 ## What Changed
-- Extended the delirium boundary from postoperative confusion to ICU hallucination and environmental misperception.
-- Made orientation and later explanation part of humane recovery without treating anecdotes as causal evidence.
+- Added multifactorial delayed emergence rather than treating late awakening as a single-drug effect.
+- Extended agitation risk to pain, tubes, packing, children, and older adults.
+- Added chronic lung disease, coughing, lung expansion, and mobilization to respiratory recovery context.
 
 ## Related Concepts
 - [[PerioperativeAnesthesiaSafety]] - broader anesthesia safety frame that recovery completes.
@@ -58,3 +64,5 @@ This page does not define discharge criteria, delirium diagnosis, antiemetic sel
 - [[DoctorPatientCommunication]] - route for reporting prior anesthesia reactions, nausea history, motion sickness, alcohol use, and postoperative symptoms.
 - [[SedatedGastrointestinalEndoscopy]] - outpatient procedure where recovery and intervention-specific aftercare meet.
 - [[EndoscopyPathologyFollowup]] - downstream report and follow-up pathway after immediate recovery.
+- [[IntraoperativeAwarenessAndSedationDepth]] - adjacent boundary separating awareness during anesthesia from emergence and recovery phenomena.
+- [[ObstetricAnesthesiaDecisionBoundary]] - obstetric context whose airway, aspiration, and neuraxial decisions shape recovery.

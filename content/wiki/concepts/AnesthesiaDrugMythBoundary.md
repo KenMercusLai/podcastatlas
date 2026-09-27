@@ -6,7 +6,8 @@ sources:
   - vol-33-mazuike-ni-dui-mazui-kongju-ma-ni-haijide-xinglai-de-shunjian-ma-guanyu-shoushu-zhong-hou-mazui-de-wujie-he-jinji-fu-waike-yisheng-caifang-luyin-lj2x7wulcdfnv7bnh9dzowciwvrr
   - vol-158-gaojiacheng-zhe-changweijing-feizuo-bukema-ft-luffy-yixue-pindao-gaoguifm-lmifb8pnp9d-qs_ezkdzyijyutov
   - vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt
-last_updated: 2026-09-27
+  - vol-59-mazuike-jizhuwai-ke-shuzhong-zhixiao-guiyachuang-changjian-ma-yaoteng-shi-mazui-zaocheng-de-ma-chanfu-dou-shihe-wutong-fenmian-ma-lp7ibbaykdfkwlpwdj8zdwejodtr
+last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
 
@@ -23,6 +24,8 @@ The same boundary extends to ordinary surgical fears. Dose is calculated and adj
 VOL.158 adds the fear that brief anesthesia permanently reduces intelligence or memory. Its anesthesiologist uses a “pause, not destruction” analogy and describes modern drugs as clearing over hours for most adults, while distinguishing short adult endoscopy from questions involving very young children, repeated exposure, longer procedures, illness, and individual recovery. The useful boundary is not a universal guarantee but a rejection of automatic brain-damage assumptions from ordinary short exposure.
 
 VOL.100 reinforces the distinction between subjective state and external event. Transient erection, euphoria, smiling, confused answers, or fragmentary recall can occur around changing anesthetic depth or recovery; staff should respond clinically and protect privacy, while patients' impressions should be discussed without assuming either misconduct or that altered perception is meaningless.
+
+VOL.59 reinforces the cognitive boundary by separating anesthetic exposure from the many contributors to postoperative neurological outcome. Modern short-acting, adjustable drugs do not support a simple “longer anesthesia kills more brain cells” rule; surgery, cardiopulmonary bypass, hypothermia, baseline disease, circulatory events, metabolic disturbance, and recovery state can also matter. The source's reassurance remains public education rather than proof that every exposure is neurologically risk-free.
 
 ## Key Claims
 - "Truth serum" claims are unreliable because drug-altered speech does not become guaranteed truth.
@@ -42,12 +45,14 @@ VOL.100 reinforces the distinction between subjective state and external event. 
 - Cognition and clearance: [[vol-158-gaojiacheng-zhe-changweijing-feizuo-bukema-ft-luffy-yixue-pindao-gaoguifm-lmifb8pnp9d-qs_ezkdzyijyutov|VOL.158]] rejects the idea that ordinary short adult anesthesia inherently makes a person less intelligent, uses a temporary-neuronal-pause analogy, and keeps very-young-child decisions more cautious.
 - Physiological response and recall: [[vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt|VOL.100]] describes transient erection during changing anesthetic depth and cheerful or confused propofol recovery as reactions needing clinical interpretation and privacy rather than moral inference.
 
+- Cognitive attribution: [[vol-59-mazuike-jizhuwai-ke-shuzhong-zhixiao-guiyachuang-changjian-ma-yaoteng-shi-mazui-zaocheng-de-ma-chanfu-dou-shihe-wutong-fenmian-ma-lp7ibbaykdfkwlpwdj8zdwejodtr|VOL.59]] rejects automatic brain-cell injury from anesthesia duration alone and places postoperative neurological outcomes inside surgery, bypass, temperature, baseline disease, physiology, and metabolic context.
+
 ## Counterevidence & Qualifications
-The page does not classify or compare anesthetic drugs beyond the sources' public explanations. It does not provide dosing, allergy testing, sedated-endoscopy, neurodevelopmental, psychiatric, forensic, or legal guidance. Drug-clearance timing and claims about adult or pediatric cognition are source-scoped rather than universal guarantees; dreamlike perceptions, headache, delayed awakening, nausea, memory concerns, or confusion need clinical context rather than self-interpretation from a podcast.
+The page does not classify or compare anesthetic drugs beyond the sources' public explanations. It does not provide dosing, allergy testing, sedated-endoscopy, neurodevelopmental, neurological-outcome, psychiatric, forensic, or legal guidance. Drug-clearance timing and claims about adult or pediatric cognition are source-scoped rather than universal guarantees; dreamlike perceptions, headache, delayed awakening, nausea, memory concerns, or confusion need clinical context rather than self-interpretation from a podcast.
 
 ## What Changed
-- Added transient physiological and behavioral responses to the boundary between anesthetic experience and external-event inference.
-- Connected clinical response to privacy and nonjudgmental explanation.
+- Reinforced that anesthesia duration alone does not establish brain-cell injury or explain every postoperative cognitive symptom.
+- Added surgery, bypass, temperature, baseline disease, physiology, and metabolic disturbance to the attribution boundary.
 
 ## Related Concepts
 - [[PerioperativeAnesthesiaSafety]] - broader anesthesia safety frame where drug history and dosing sit.
@@ -57,3 +62,4 @@ The page does not classify or compare anesthetic drugs beyond the sources' publi
 - [[MedicalRiskManagement]] - safety frame for drug choice, allergy, and adverse reactions.
 - [[DoctorPatientCommunication]] - disclosure route for prior reactions, alcohol history, and previous anesthesia experiences.
 - [[SedatedGastrointestinalEndoscopy]] - short-procedure context where cognitive and clearance fears arise.
+- [[IntraoperativeAwarenessAndSedationDepth]] - related boundary separating drug depth, paralysis, awareness, and intended procedural sedation.

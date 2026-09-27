@@ -9,6 +9,7 @@ sources:
   - vol-131-yisheng-qing-huida-ni-ruguo-yinman-bingshi-yisheng-zhende-bu-zhidao-ma-lg-a6kjqu-s1lk8uu1fapb763xzq
   - vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt
   - lswakifoozu5vkckl5n-nzndj43e-lswakifoozu5vkckl5n-nzndj43e
+  - vol-59-mazuike-jizhuwai-ke-shuzhong-zhixiao-guiyachuang-changjian-ma-yaoteng-shi-mazui-zaocheng-de-ma-chanfu-dou-shihe-wutong-fenmian-ma-lp7ibbaykdfkwlpwdj8zdwejodtr
 last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
@@ -31,11 +32,13 @@ VOL.100 adds patient experience inside the same safety system. Exposure, positio
 
 VOL.67 sharpens why this safety work is socially invisible. [[LiangGeAnesthesiologist|亮哥]] describes anesthesiologists as whole-patient safety specialists whose contribution is easiest to overlook when no crisis occurs. The episode also returns to fasting through a chewing-gum example: a small act that feels unrelated to surgery can become an airway or aspiration problem under anesthesia, so explanation is more useful than simply labeling the patient disobedient.
 
+VOL.59 adds two decision-heavy branches. [[IntraoperativeAwarenessAndSedationDepth]] makes anesthetic maintenance a coordination problem across hypnosis, analgesia, neuromuscular blockade, difficult airway management, physiological stability, drug delivery, and monitoring, while [[ObstetricAnesthesiaDecisionBoundary]] joins maternal spine and coagulation status with fetal exposure, airway and aspiration risk, obstetric urgency, and possible conversion of the delivery plan. It also reinforces that chronic lung disease, obesity, and dental looseness are planning inputs rather than isolated reasons to fear anesthesia.
+
 ## Key Claims
 - Anesthesia is a perioperative safety system that starts before the operation and continues through recovery; its preventive work may be least visible when no complication occurs.
 - [[PreoperativeAnesthesiaAssessment]] may justify delaying or changing a planned procedure when the patient's condition, medication, airway, infection, fasting, or monitoring context is unsafe.
 - Anesthetic maintenance is adjusted to the actual surgical duration rather than governed by a fixed clock.
-- The anesthesiologist's collaboration with surgical or procedural teams includes physiological management, monitoring, shared-airway response, and recovery-readiness decisions.
+- The anesthesiologist's collaboration with surgical or procedural teams includes depth and physiological management, monitoring, shared-airway response, obstetric contingency planning, and recovery-readiness decisions.
 - Truthful patient history, including allergy, alcohol use, previous anesthesia reaction, chronic disease, stents, procedures, daily activity, snoring, and recent infection recovery, is part of anesthesia safety.
 - Recovery is judged through breathing, consciousness, muscle strength, cough, swallowing and pharyngeal reflexes, and overall stability.
 - Fasting, urinary-catheter decisions, airway control, blood preparation, transfusion decisions, pulse-oximetry reliability, privacy, explanation, and planned pain control show that routine details can become high-consequence intraoperative or postoperative safety issues.
@@ -52,12 +55,15 @@ VOL.67 sharpens why this safety work is socially invisible. [[LiangGeAnesthesiol
 - Privacy and analgesia: [[vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt|VOL.100]] places exposure, positioning, preparation, transient erection, explanation, pain reporting, and patient-controlled analgesia inside perioperative care rather than treating them as shame or willpower problems.
 - Invisible prevention and fasting explanation: [[lswakifoozu5vkckl5n-nzndj43e-lswakifoozu5vkckl5n-nzndj43e|VOL.67]] presents anesthesiology as safety work often noticed only when something goes wrong and uses concealed eating or chewing gum to show why apparently minor preparation rules need causal explanation.
 
+- Awareness, aspiration, and obstetric planning: [[vol-59-mazuike-jizhuwai-ke-shuzhong-zhixiao-guiyachuang-changjian-ma-yaoteng-shi-mazui-zaocheng-de-ma-chanfu-dou-shihe-wutong-fenmian-ma-lp7ibbaykdfkwlpwdj8zdwejodtr|VOL.59]] connects hypnotic depth, neuromuscular blockade, cardiac surgery, difficult intubation, physiological instability, lung disease, body habitus, dental status, pregnancy, spine history, coagulation, fetal exposure, airway management, and aspiration risk inside one adjustable safety system.
+
 ## Counterevidence & Qualifications
-This concept is public medical literacy, not surgical or endoscopy clearance or an anesthetic plan. Actual anesthesia choice, fasting and bowel preparation, urinary catheterization, medication handling, infection testing, blood preparation, dosing, pain control, monitoring, airway management, procedure timing, privacy practice, discharge, postoperative instructions, sexual-function assessment, and emergency response depend on the patient, procedure, hospital, and anesthesiology team.
+This concept is public medical literacy, not surgical, obstetric, or endoscopy clearance or an anesthetic plan. Actual anesthesia choice, awareness prevention, fasting and bowel preparation, urinary catheterization, medication handling, infection testing, blood preparation, dosing, pain control, monitoring, airway management, neuraxial eligibility, procedure timing, privacy practice, discharge, postoperative instructions, sexual-function assessment, and emergency response depend on the patient, procedure, hospital, and anesthesiology team.
 
 ## What Changed
-- Added preventive invisibility as a defining feature of anesthesiology's safety role.
-- Strengthened fasting communication by connecting apparently minor intake to airway and aspiration consequences.
+- Added awareness prevention as coordination across anesthetic components, physiology, airway events, and monitoring.
+- Extended the system into obstetric anesthesia, where maternal, fetal, spinal, coagulation, airway, and urgency factors interact.
+- Added lung function, obesity, and dental stability as concrete planning inputs.
 
 ## Related Concepts
 - [[PreoperativeAnesthesiaAssessment]] - preoperative gate and preparation branch inside anesthesia safety.
@@ -72,3 +78,5 @@ This concept is public medical literacy, not surgical or endoscopy clearance or 
 - [[MultidisciplinaryHospitalCare]] - team-care context where anesthesia and surgery coordinate.
 - [[PerioperativeCircadianRecovery]] - neighboring perioperative recovery concept focused on sleep and environment rather than anesthetic management.
 - [[PerioperativePainControl]] - analgesia, patient report, timing, and agency branch inside perioperative safety.
+- [[IntraoperativeAwarenessAndSedationDepth]] - depth, paralysis, lighter-sedation, and awareness-prevention branch.
+- [[ObstetricAnesthesiaDecisionBoundary]] - labor and cesarean decision branch inside perioperative safety.

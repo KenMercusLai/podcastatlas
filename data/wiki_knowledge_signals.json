@@ -9765,9 +9765,9 @@
       "url": "/wiki/concepts/anemiadiagnosticreasoning/"
     },
     "AnesthesiaDrugMythBoundary": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lj2X7wulCDfnv7bnH9dZOwcIWVrR [lj2X7wulCDfnv7bnH9dZOwcIWVrR].md",
@@ -9789,9 +9789,16 @@
           "show": "这病说来话长",
           "title": "VOL.100百期特别策划：聊了99期后才敢还原医院里这些刺激的真实事件！",
           "url": "/wiki/sources/vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt/"
+        },
+        {
+          "episode_file": "lp7IbBaykDFkWLpWdj8zDWEJoDtR [lp7IbBaykDFkWLpWdj8zDWEJoDtR].md",
+          "key": "vol-59-mazuike-jizhuwai-ke-shuzhong-zhixiao-guiyachuang-changjian-ma-yaoteng-shi-mazui-zaocheng-de-ma-chanfu-dou-shihe-wutong-fenmian-ma-lp7ibbaykdfkwlpwdj8zdwejodtr",
+          "show": "这病说来话长",
+          "title": "VOL.59麻醉科&脊柱外科｜术中知晓“鬼压床”常见吗？腰疼是麻醉造成的吗？产妇都适合无痛分娩吗？",
+          "url": "/wiki/sources/vol-59-mazuike-jizhuwai-ke-shuzhong-zhixiao-guiyachuang-changjian-ma-yaoteng-shi-mazui-zaocheng-de-ma-chanfu-dou-shihe-wutong-fenmian-ma-lp7ibbaykdfkwlpwdj8zdwejodtr/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/anesthesiadrugmythboundary/"
     },
     "AngelOakSmokehouse": {
@@ -42120,9 +42127,9 @@
       "url": "/wiki/entities/dongxianeasternhan/"
     },
     "DongXintong": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "lj2X7wulCDfnv7bnH9dZOwcIWVrR [lj2X7wulCDfnv7bnH9dZOwcIWVrR].md",
@@ -42158,9 +42165,16 @@
           "show": "这病说来话长",
           "title": "VOL.100百期特别策划：聊了99期后才敢还原医院里这些刺激的真实事件！",
           "url": "/wiki/sources/vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt/"
+        },
+        {
+          "episode_file": "lp7IbBaykDFkWLpWdj8zDWEJoDtR [lp7IbBaykDFkWLpWdj8zDWEJoDtR].md",
+          "key": "vol-59-mazuike-jizhuwai-ke-shuzhong-zhixiao-guiyachuang-changjian-ma-yaoteng-shi-mazui-zaocheng-de-ma-chanfu-dou-shihe-wutong-fenmian-ma-lp7ibbaykdfkwlpwdj8zdwejodtr",
+          "show": "这病说来话长",
+          "title": "VOL.59麻醉科&脊柱外科｜术中知晓“鬼压床”常见吗？腰疼是麻醉造成的吗？产妇都适合无痛分娩吗？",
+          "url": "/wiki/sources/vol-59-mazuike-jizhuwai-ke-shuzhong-zhixiao-guiyachuang-changjian-ma-yaoteng-shi-mazui-zaocheng-de-ma-chanfu-dou-shihe-wutong-fenmian-ma-lp7ibbaykdfkwlpwdj8zdwejodtr/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/dongxintong/"
     },
     "DongXuanEasternHan": {
@@ -80586,6 +80600,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/intracranialinfectionexposureboundary/"
     },
+    "IntraoperativeAwarenessAndSedationDepth": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lp7IbBaykDFkWLpWdj8zDWEJoDtR [lp7IbBaykDFkWLpWdj8zDWEJoDtR].md",
+          "key": "vol-59-mazuike-jizhuwai-ke-shuzhong-zhixiao-guiyachuang-changjian-ma-yaoteng-shi-mazui-zaocheng-de-ma-chanfu-dou-shihe-wutong-fenmian-ma-lp7ibbaykdfkwlpwdj8zdwejodtr",
+          "show": "这病说来话长",
+          "title": "VOL.59麻醉科&脊柱外科｜术中知晓“鬼压床”常见吗？腰疼是麻醉造成的吗？产妇都适合无痛分娩吗？",
+          "url": "/wiki/sources/vol-59-mazuike-jizhuwai-ke-shuzhong-zhixiao-guiyachuang-changjian-ma-yaoteng-shi-mazui-zaocheng-de-ma-chanfu-dou-shihe-wutong-fenmian-ma-lp7ibbaykdfkwlpwdj8zdwejodtr/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/intraoperativeawarenessandsedationdepth/"
+    },
     "IntrusiveThoughtMeaning": {
       "episode_count": 2,
       "show_count": 1,
@@ -101000,9 +101030,9 @@
       "url": "/wiki/entities/magongwesternhan/"
     },
     "MaHaoning": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "lkVJQ45DUKdjpesxikWEC0Zrglmg [lkVJQ45DUKdjpesxikWEC0Zrglmg].md",
@@ -101045,9 +101075,16 @@
           "show": "这病说来话长",
           "title": "VOL.90运动医学｜朋友你滑雪吗？补钙要趁早｜「科目三」禁忌人群",
           "url": "/wiki/sources/vol-90-yundong-yixue-pengyou-ni-huaxue-ma-bugai-yao-chenzao-kemu-san-jinji-renqun-lvfameb1ztoxm5yx5e-ylsrekbsq/"
+        },
+        {
+          "episode_file": "lp7IbBaykDFkWLpWdj8zDWEJoDtR [lp7IbBaykDFkWLpWdj8zDWEJoDtR].md",
+          "key": "vol-59-mazuike-jizhuwai-ke-shuzhong-zhixiao-guiyachuang-changjian-ma-yaoteng-shi-mazui-zaocheng-de-ma-chanfu-dou-shihe-wutong-fenmian-ma-lp7ibbaykdfkwlpwdj8zdwejodtr",
+          "show": "这病说来话长",
+          "title": "VOL.59麻醉科&脊柱外科｜术中知晓“鬼压床”常见吗？腰疼是麻醉造成的吗？产妇都适合无痛分娩吗？",
+          "url": "/wiki/sources/vol-59-mazuike-jizhuwai-ke-shuzhong-zhixiao-guiyachuang-changjian-ma-yaoteng-shi-mazui-zaocheng-de-ma-chanfu-dou-shihe-wutong-fenmian-ma-lp7ibbaykdfkwlpwdj8zdwejodtr/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/mahaoning/"
     },
     "MaHeluoWesternHan": {
@@ -114573,6 +114610,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/obsessivecompulsivedisorder/"
     },
+    "ObstetricAnesthesiaDecisionBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lp7IbBaykDFkWLpWdj8zDWEJoDtR [lp7IbBaykDFkWLpWdj8zDWEJoDtR].md",
+          "key": "vol-59-mazuike-jizhuwai-ke-shuzhong-zhixiao-guiyachuang-changjian-ma-yaoteng-shi-mazui-zaocheng-de-ma-chanfu-dou-shihe-wutong-fenmian-ma-lp7ibbaykdfkwlpwdj8zdwejodtr",
+          "show": "这病说来话长",
+          "title": "VOL.59麻醉科&脊柱外科｜术中知晓“鬼压床”常见吗？腰疼是麻醉造成的吗？产妇都适合无痛分娩吗？",
+          "url": "/wiki/sources/vol-59-mazuike-jizhuwai-ke-shuzhong-zhixiao-guiyachuang-changjian-ma-yaoteng-shi-mazui-zaocheng-de-ma-chanfu-dou-shihe-wutong-fenmian-ma-lp7ibbaykdfkwlpwdj8zdwejodtr/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/obstetricanesthesiadecisionboundary/"
+    },
     "ObstructiveSleepApneaRecognition": {
       "episode_count": 4,
       "show_count": 2,
@@ -116161,9 +116214,9 @@
       "url": "/wiki/concepts/openwebtrafficdecline/"
     },
     "OperatingRoomPhysiologyManagement": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lj2X7wulCDfnv7bnH9dZOwcIWVrR [lj2X7wulCDfnv7bnH9dZOwcIWVrR].md",
@@ -116178,9 +116231,16 @@
           "show": "这病说来话长",
           "title": "VOL.32麻醉科｜你做过手术吗？你经历过麻醉吗？关于手术前麻醉的误解和禁忌｜附患者采访录音",
           "url": "/wiki/sources/vol-32-mazuike-ni-zuoguo-shoushu-ma-ni-jingliguo-mazui-ma-guanyu-shoushu-qian-mazui-de-wujie-he-jinji-fu-huanzhe-caifang-luyin-ltfmx4d3ile0djxqlurikqueocxn/"
+        },
+        {
+          "episode_file": "lp7IbBaykDFkWLpWdj8zDWEJoDtR [lp7IbBaykDFkWLpWdj8zDWEJoDtR].md",
+          "key": "vol-59-mazuike-jizhuwai-ke-shuzhong-zhixiao-guiyachuang-changjian-ma-yaoteng-shi-mazui-zaocheng-de-ma-chanfu-dou-shihe-wutong-fenmian-ma-lp7ibbaykdfkwlpwdj8zdwejodtr",
+          "show": "这病说来话长",
+          "title": "VOL.59麻醉科&脊柱外科｜术中知晓“鬼压床”常见吗？腰疼是麻醉造成的吗？产妇都适合无痛分娩吗？",
+          "url": "/wiki/sources/vol-59-mazuike-jizhuwai-ke-shuzhong-zhixiao-guiyachuang-changjian-ma-yaoteng-shi-mazui-zaocheng-de-ma-chanfu-dou-shihe-wutong-fenmian-ma-lp7ibbaykdfkwlpwdj8zdwejodtr/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/operatingroomphysiologymanagement/"
     },
     "OperationBlueSkies": {
@@ -120332,9 +120392,9 @@
       "url": "/wiki/concepts/periodontalsystemichealthboundary/"
     },
     "PerioperativeAnesthesiaSafety": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "lj2X7wulCDfnv7bnH9dZOwcIWVrR [lj2X7wulCDfnv7bnH9dZOwcIWVrR].md",
@@ -120377,6 +120437,13 @@
           "show": "这病说来话长",
           "title": "VOL.67无·事｜听躺进ICU的医生和普通病人在聊些什么？知道越多越恐惧？｜献礼医师节彩蛋",
           "url": "/wiki/sources/lswakifoozu5vkckl5n-nzndj43e-lswakifoozu5vkckl5n-nzndj43e/"
+        },
+        {
+          "episode_file": "lp7IbBaykDFkWLpWdj8zDWEJoDtR [lp7IbBaykDFkWLpWdj8zDWEJoDtR].md",
+          "key": "vol-59-mazuike-jizhuwai-ke-shuzhong-zhixiao-guiyachuang-changjian-ma-yaoteng-shi-mazui-zaocheng-de-ma-chanfu-dou-shihe-wutong-fenmian-ma-lp7ibbaykdfkwlpwdj8zdwejodtr",
+          "show": "这病说来话长",
+          "title": "VOL.59麻醉科&脊柱外科｜术中知晓“鬼压床”常见吗？腰疼是麻醉造成的吗？产妇都适合无痛分娩吗？",
+          "url": "/wiki/sources/vol-59-mazuike-jizhuwai-ke-shuzhong-zhixiao-guiyachuang-changjian-ma-yaoteng-shi-mazui-zaocheng-de-ma-chanfu-dou-shihe-wutong-fenmian-ma-lp7ibbaykdfkwlpwdj8zdwejodtr/"
         }
       ],
       "updated": "2026-09-28",
@@ -123555,9 +123622,9 @@
       "url": "/wiki/concepts/post911counterterrorismarchitecture/"
     },
     "PostAnesthesiaRecoverySafety": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lj2X7wulCDfnv7bnH9dZOwcIWVrR [lj2X7wulCDfnv7bnH9dZOwcIWVrR].md",
@@ -123579,9 +123646,16 @@
           "show": "这病说来话长",
           "title": "VOL.100百期特别策划：聊了99期后才敢还原医院里这些刺激的真实事件！",
           "url": "/wiki/sources/vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt/"
+        },
+        {
+          "episode_file": "lp7IbBaykDFkWLpWdj8zDWEJoDtR [lp7IbBaykDFkWLpWdj8zDWEJoDtR].md",
+          "key": "vol-59-mazuike-jizhuwai-ke-shuzhong-zhixiao-guiyachuang-changjian-ma-yaoteng-shi-mazui-zaocheng-de-ma-chanfu-dou-shihe-wutong-fenmian-ma-lp7ibbaykdfkwlpwdj8zdwejodtr",
+          "show": "这病说来话长",
+          "title": "VOL.59麻醉科&脊柱外科｜术中知晓“鬼压床”常见吗？腰疼是麻醉造成的吗？产妇都适合无痛分娩吗？",
+          "url": "/wiki/sources/vol-59-mazuike-jizhuwai-ke-shuzhong-zhixiao-guiyachuang-changjian-ma-yaoteng-shi-mazui-zaocheng-de-ma-chanfu-dou-shihe-wutong-fenmian-ma-lp7ibbaykdfkwlpwdj8zdwejodtr/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/postanesthesiarecoverysafety/"
     },
     "PostApartheidStructuralInequality": {

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 8555
+wiki_total_pages: 8557
 wiki_pages:
   - key: "IBDPatientEducationAndPeerSupport"
     title: "IBD Patient Education and Peer Support / IBD患者教育与同伴支持"
@@ -773,6 +773,9 @@ wiki_pages:
   - key: "IntracranialInfectionExposureBoundary"
     title: "Intracranial Infection Exposure Boundary / 颅内感染暴露边界"
     url: "/wiki/concepts/intracranialinfectionexposureboundary/"
+  - key: "IntraoperativeAwarenessAndSedationDepth"
+    title: "Intraoperative Awareness and Sedation Depth / 术中知晓与镇静深度边界"
+    url: "/wiki/concepts/intraoperativeawarenessandsedationdepth/"
   - key: "IntrusiveThoughtMeaning"
     title: "Intrusive Thought Meaning"
     url: "/wiki/concepts/intrusivethoughtmeaning/"

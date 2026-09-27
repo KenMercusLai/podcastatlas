@@ -24243,3 +24243,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | VOL.59麻醉科&脊柱外科｜术中知晓“鬼压床”常见吗？腰疼是麻醉造成的吗？产妇都适合无痛分娩吗？
+
+Added source `vol-59-mazuike-jizhuwai-ke-shuzhong-zhixiao-guiyachuang-changjian-ma-yaoteng-shi-mazui-zaocheng-de-ma-chanfu-dou-shihe-wutong-fenmian-ma-lp7ibbaykdfkwlpwdj8zdwejodtr`; created `IntraoperativeAwarenessAndSedationDepth` and `ObstetricAnesthesiaDecisionBoundary`; and updated `DongXintong`, `MaHaoning`, `PerioperativeAnesthesiaSafety`, `PostAnesthesiaRecoverySafety`, `OperatingRoomPhysiologyManagement`, `AnesthesiaDrugMythBoundary`, and the canonical index from their complete bounded source sets. Core synthesis: unintended awareness under general anesthesia must be separated from intended responsiveness during lighter sedation, while obstetric and neuraxial decisions combine maternal anatomy, coagulation, fetal exposure, airway, aspiration, and urgency rather than relying on one categorical rule. No settled contradiction was adopted. The 董新童/董心彤 spelling difference, delayed-emergence threshold, neuraxial-pressure claim, cognitive-harm claims, and individual eligibility remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

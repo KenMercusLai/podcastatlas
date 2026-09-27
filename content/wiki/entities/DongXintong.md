@@ -8,7 +8,8 @@ sources:
   - vol-121-baitian-bu-dong-ye-de-teng-yi-zhao-gandiao-zhege-yingxiang-ni-shuimian-de-yinxing-cike-lrkt9fqv6cef8dkr69r-vsoilsm7
   - vol-110-shanzhong-shi-weile-genghao-de-huozhe-shenglaobingsi-6-wei-yisheng-shijiao-zenme-kan-shijie-dushuri-lklwhndplyk73rpqxuraocs4cii5
   - vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt
-last_updated: 2026-09-27
+  - vol-59-mazuike-jizhuwai-ke-shuzhong-zhixiao-guiyachuang-changjian-ma-yaoteng-shi-mazui-zaocheng-de-ma-chanfu-dou-shihe-wutong-fenmian-ma-lp7ibbaykdfkwlpwdj8zdwejodtr
+last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
 
@@ -26,12 +27,14 @@ VOL.110 adds a reading and mortality perspective. Dong uses 《当呼吸化为�
 
 VOL.100 adds a patient-experience role through postoperative pain, neuraxial anesthesia, loss of control, and comfort-focused care. Dong argues for timely analgesia before pain peaks when appropriate, treats the patient's report as primary evidence of suffering, and links a patient-controlled button with both bounded relief and reduced fear.
 
+VOL.59 adds a listener-Q&A branch on [[IntraoperativeAwarenessAndSedationDepth]], aspiration, delayed emergence, respiratory recovery, and [[ObstetricAnesthesiaDecisionBoundary]]. Dong distinguishes unintended awareness under general anesthesia from intended responsiveness during procedural sedation, separates neuromuscular blockade from inadequate hypnotic depth, and treats pregnancy, spine history, coagulation, airway, lung function, dental status, and body habitus as inputs to individualized planning rather than reasons for categorical fear.
+
 ## Key Characteristics
 - Source-scoped anesthesiology clinician voice tied in the source to [[ShenzhenPeopleHospital|深圳市人民医院]].
 - Explains anesthesia as perioperative safety management rather than isolated sedation.
 - Emphasizes preoperative assessment and the possibility of pausing elective surgery when patient status, blood pressure, medication, fasting, or infection-recovery context is unsafe.
 - Uses common fears about truth serum, waking up, overdose, allergy, nausea, positioning, intubation, aspiration, and monitor accuracy to clarify clinical boundaries.
-- Treats monitoring, transfusion, and postoperative recovery as multi-signal judgments involving blood oxygen, bleeding, blood gas, breathing, consciousness, muscle strength, reflexes, temperature, and patient history.
+- Treats depth monitoring, transfusion, and postoperative recovery as multi-signal judgments involving awareness risk, blood oxygen, bleeding, blood gas, breathing, consciousness, muscle strength, reflexes, temperature, glucose, and patient history.
 - Extends anesthesiology education into pain-driven sleep disruption, anticipatory postoperative analgesia, patient-controlled signaling, short-term symptom relief, cause-directed escalation, and multidisciplinary care.
 - Uses medical narrative and non-medical reading to connect clinical work, mortality, emotional processing, and public understanding.
 
@@ -44,12 +47,15 @@ VOL.100 adds a patient-experience role through postoperative pain, neuraxial ane
 - Reading and mortality: [[vol-110-shanzhong-shi-weile-genghao-de-huozhe-shenglaobingsi-6-wei-yisheng-shijiao-zenme-kan-shijie-dushuri-lklwhndplyk73rpqxuraocs4cii5]] has Dong connect anesthesia narratives and a physician-patient memoir with organ donation, cancer pain, terminal illness, and reading as emotional support.
 - Perioperative pain and agency: [[vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt|VOL.100]] has Dong explain anticipatory postoperative analgesia, individual pain experience, pain-pump differences, and the calming effect of patient-controlled signaling.
 
+- Awareness, recovery, and obstetric planning: [[vol-59-mazuike-jizhuwai-ke-shuzhong-zhixiao-guiyachuang-changjian-ma-yaoteng-shi-mazui-zaocheng-de-ma-chanfu-dou-shihe-wutong-fenmian-ma-lp7ibbaykdfkwlpwdj8zdwejodtr|VOL.59]] has Dong separate awareness from lighter sedation, explain paralysis and depth monitoring, describe multifactorial delayed emergence and respiratory recovery, and place labor analgesia or cesarean anesthesia inside spine, coagulation, airway, aspiration, fetal-exposure, and urgency assessment.
+
 ## Qualifications
-The wiki has no independent biography, publication record, or hospital credential evidence beyond these podcast-derived source notes. The episodes are public education, not individualized anesthesiology, surgery, sedated-endoscopy, obstetric, allergy, delirium, nausea, medication, pain, sleep, fasting, transfusion, post-COVID timing, blood-pressure, or postoperative-care guidance. VOL.121 is commercially sponsored; its product claims and fixed self-care timelines remain source-scoped, and acetaminophen should not be classified as an NSAID.
+The wiki has no independent biography, publication record, or hospital credential evidence beyond these podcast-derived source notes. VOL.59 spells the guest's name 董新童 rather than the established 董心彤; the identity mapping follows the recurring show, specialty, co-guest context, and topic sequence but remains source-scoped. The episodes are public education, not individualized anesthesiology, surgery, sedated-endoscopy, obstetric, allergy, delirium, nausea, medication, pain, sleep, fasting, transfusion, post-COVID timing, blood-pressure, or postoperative-care guidance. VOL.121 is commercially sponsored; its product claims and fixed self-care timelines remain source-scoped, and acetaminophen should not be classified as an NSAID.
 
 ## What Changed
-- Added her patient-experience and anticipatory postoperative-pain framework.
-- Connected patient-controlled signaling with bounded relief and reduced procedural fear.
+- Added her distinction among general-anesthesia awareness, neuromuscular blockade, and intended lighter procedural sedation.
+- Extended her profile into obstetric anesthesia selection, aspiration, delayed emergence, and lung or airway recovery risk.
+- Recorded the 董新童/董心彤 source spelling discrepancy without creating a second identity.
 
 ## Relationships
 - [[ShenzhenPeopleHospital]] - hospital affiliation named for Dong in the source.
@@ -59,6 +65,8 @@ The wiki has no independent biography, publication record, or hospital credentia
 - [[AnesthesiaDrugMythBoundary]] - misconception frame Dong explains through truth-serum, propofol, ketamine, dose, drinking, and allergy examples.
 - [[OperatingRoomPhysiologyManagement]] - operating-room temperature, monitoring, and physiology-management frame Dong explains.
 - [[PostAnesthesiaRecoverySafety]] - recovery, delirium, nausea, positioning, and post-procedure boundary Dong explains.
+- [[IntraoperativeAwarenessAndSedationDepth]] - awareness, paralysis, lighter sedation, and depth-monitoring boundary Dong explains.
+- [[ObstetricAnesthesiaDecisionBoundary]] - labor-analgesia and cesarean-anesthesia decision frame Dong explains.
 - [[PainSleepFeedbackLoop]] - bidirectional pain-and-sleep pattern Dong explains in VOL.121.
 - [[NighttimePainAmplification]] - multifactorial nighttime pain frame Dong presents.
 - [[AnalgesicSelfCareEscalation]] - symptom-relief and persistent-pain boundary Dong presents.
