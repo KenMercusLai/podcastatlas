@@ -12046,9 +12046,9 @@
       "url": "/wiki/concepts/assisteddrivingtrustformation/"
     },
     "AssistedReproductionDecisionLiteracy": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM7009544360 [SCIM7009544360].md",
@@ -12063,6 +12063,13 @@
           "show": "Huberman Lab",
           "title": "Female Hormone Health, Fertility & Vitality | Dr. Natalie Crawford",
           "url": "/wiki/sources/female-hormone-health-fertility-vitality-dr-natalie-crawford-scim4341208380/"
+        },
+        {
+          "episode_file": "lp8ZTOB7ICUDU2x06Tqc0dh_zhdk [lp8ZTOB7ICUDU2x06Tqc0dh_zhdk].md",
+          "key": "vol-79-shengzhi-yixueke-nanke-qujingshi-li-buneng-shuo-de-mimi-fuzhu-shengzhi-zhi-duoshao-lp8ztob7icudu2x06tqc0dh_zhdk",
+          "show": "这病说来话长",
+          "title": "VOL.79生殖医学科男科｜取精室里不能说的秘密 辅助生殖知多少",
+          "url": "/wiki/sources/vol-79-shengzhi-yixueke-nanke-qujingshi-li-buneng-shuo-de-mimi-fuzhu-shengzhi-zhi-duoshao-lp8ztob7icudu2x06tqc0dh_zhdk/"
         }
       ],
       "updated": "2026-09-27",
@@ -13756,6 +13763,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/aziguliabuduluoheman/"
+    },
+    "AzoospermiaClinicalPathway": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lp8ZTOB7ICUDU2x06Tqc0dh_zhdk [lp8ZTOB7ICUDU2x06Tqc0dh_zhdk].md",
+          "key": "vol-79-shengzhi-yixueke-nanke-qujingshi-li-buneng-shuo-de-mimi-fuzhu-shengzhi-zhi-duoshao-lp8ztob7icudu2x06tqc0dh_zhdk",
+          "show": "这病说来话长",
+          "title": "VOL.79生殖医学科男科｜取精室里不能说的秘密 辅助生殖知多少",
+          "url": "/wiki/sources/vol-79-shengzhi-yixueke-nanke-qujingshi-li-buneng-shuo-de-mimi-fuzhu-shengzhi-zhi-duoshao-lp8ztob7icudu2x06tqc0dh_zhdk/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/azoospermiaclinicalpathway/"
     },
     "Azure": {
       "episode_count": 2,
@@ -99005,9 +99028,9 @@
       "url": "/wiki/concepts/malementorshipresponsibility/"
     },
     "MaleReproductiveHealthAssessment": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM8414501670 [SCIM8414501670].md",
@@ -99015,15 +99038,22 @@
           "show": "Huberman Lab",
           "title": "Improving Male Sexual Health, Function & Fertility | Dr. Michael Eisenberg",
           "url": "/wiki/sources/improving-male-sexual-health-function-fertility-dr-michael-eisenberg-scim8414501670/"
+        },
+        {
+          "episode_file": "lp8ZTOB7ICUDU2x06Tqc0dh_zhdk [lp8ZTOB7ICUDU2x06Tqc0dh_zhdk].md",
+          "key": "vol-79-shengzhi-yixueke-nanke-qujingshi-li-buneng-shuo-de-mimi-fuzhu-shengzhi-zhi-duoshao-lp8ztob7icudu2x06tqc0dh_zhdk",
+          "show": "这病说来话长",
+          "title": "VOL.79生殖医学科男科｜取精室里不能说的秘密 辅助生殖知多少",
+          "url": "/wiki/sources/vol-79-shengzhi-yixueke-nanke-qujingshi-li-buneng-shuo-de-mimi-fuzhu-shengzhi-zhi-duoshao-lp8ztob7icudu2x06tqc0dh_zhdk/"
         }
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/malereproductivehealthassessment/"
     },
     "MaleUrologicalHealthMisconceptions": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lpN3FHoZeJ2V-3oiJPakVKDX-R_Y [lpN3FHoZeJ2V-3oiJPakVKDX-R_Y].md",
@@ -99031,9 +99061,16 @@
           "show": "这病说来话长",
           "title": "VOL.31泌尿外科｜关于尿频、尿液黄、结石、男性前列腺的那些谣言及误区",
           "url": "/wiki/sources/vol-31-miniao-waike-guanyu-niaopin-niaoye-huang-jieshi-nanxing-qianliexian-de-yaoyan-ji-wuqu-lpn3fhozej2v-3oijpakvkdx-r-y/"
+        },
+        {
+          "episode_file": "lp8ZTOB7ICUDU2x06Tqc0dh_zhdk [lp8ZTOB7ICUDU2x06Tqc0dh_zhdk].md",
+          "key": "vol-79-shengzhi-yixueke-nanke-qujingshi-li-buneng-shuo-de-mimi-fuzhu-shengzhi-zhi-duoshao-lp8ztob7icudu2x06tqc0dh_zhdk",
+          "show": "这病说来话长",
+          "title": "VOL.79生殖医学科男科｜取精室里不能说的秘密 辅助生殖知多少",
+          "url": "/wiki/sources/vol-79-shengzhi-yixueke-nanke-qujingshi-li-buneng-shuo-de-mimi-fuzhu-shengzhi-zhi-duoshao-lp8ztob7icudu2x06tqc0dh_zhdk/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/maleurologicalhealthmisconceptions/"
     },
     "Malinche": {
@@ -133982,6 +134019,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/selfunderstandingasvitality/"
     },
+    "SemenSampleCollectionQuality": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lp8ZTOB7ICUDU2x06Tqc0dh_zhdk [lp8ZTOB7ICUDU2x06Tqc0dh_zhdk].md",
+          "key": "vol-79-shengzhi-yixueke-nanke-qujingshi-li-buneng-shuo-de-mimi-fuzhu-shengzhi-zhi-duoshao-lp8ztob7icudu2x06tqc0dh_zhdk",
+          "show": "这病说来话长",
+          "title": "VOL.79生殖医学科男科｜取精室里不能说的秘密 辅助生殖知多少",
+          "url": "/wiki/sources/vol-79-shengzhi-yixueke-nanke-qujingshi-li-buneng-shuo-de-mimi-fuzhu-shengzhi-zhi-duoshao-lp8ztob7icudu2x06tqc0dh_zhdk/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/semensamplecollectionquality/"
+    },
     "SemiconductorIndexConcentration": {
       "episode_count": 1,
       "show_count": 1,
@@ -134318,9 +134371,9 @@
       "url": "/wiki/concepts/sexualexplorationasselfknowledge/"
     },
     "SexualFunctionRelationshipContext": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lmQ6ET15-mLUqYUUav7Z4jpx4hcb [lmQ6ET15-mLUqYUUav7Z4jpx4hcb].md",
@@ -134328,9 +134381,16 @@
           "show": "史蒂夫说",
           "title": "史蒂夫说469期 - 童立 - 最好的关系是在爱人怀里尽情阳w早x",
           "url": "/wiki/sources/shi-di-fu-shuo-469-tongli-zuihaode-guanxi-shi-zai-airen-huaili-jinqing-yangw-zaox-lmq6et15-mluqyuuav7z4jpx4hcb/"
+        },
+        {
+          "episode_file": "lp8ZTOB7ICUDU2x06Tqc0dh_zhdk [lp8ZTOB7ICUDU2x06Tqc0dh_zhdk].md",
+          "key": "vol-79-shengzhi-yixueke-nanke-qujingshi-li-buneng-shuo-de-mimi-fuzhu-shengzhi-zhi-duoshao-lp8ztob7icudu2x06tqc0dh_zhdk",
+          "show": "这病说来话长",
+          "title": "VOL.79生殖医学科男科｜取精室里不能说的秘密 辅助生殖知多少",
+          "url": "/wiki/sources/vol-79-shengzhi-yixueke-nanke-qujingshi-li-buneng-shuo-de-mimi-fuzhu-shengzhi-zhi-duoshao-lp8ztob7icudu2x06tqc0dh_zhdk/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/sexualfunctionrelationshipcontext/"
     },
     "SexualHarassmentNamingLag": {

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 8416
+wiki_total_pages: 8418
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -542,6 +542,9 @@ wiki_pages:
   - key: "SemanticSearchRelevance"
     title: "Semantic Search Relevance"
     url: "/wiki/concepts/semanticsearchrelevance/"
+  - key: "SemenSampleCollectionQuality"
+    title: "Semen Sample Collection Quality / 精液标本采集质量"
+    url: "/wiki/concepts/semensamplecollectionquality/"
   - key: "Semiconductor3DStacking"
     title: "Semiconductor 3D Stacking"
     url: "/wiki/concepts/semiconductor3dstacking/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.79生殖医学科男科｜取精室里不能说的秘密 辅助生殖知多少](sources/vol-79-shengzhi-yixueke-nanke-qujingshi-li-buneng-shuo-de-mimi-fuzhu-shengzhi-zhi-duoshao-lp8ztob7icudu2x06tqc0dh_zhdk.md) — 这病说来话长 episode on semen-sample collection quality, male fertility assessment, azoospermia pathways, assisted-reproduction timing, prostate findings, cycling exposure, and sexual-function anxiety.
 - [380. Captain Cook: History’s Greatest Explorer (Part 1)](sources/380-captain-cook-historys-greatest-explorer-part-1-glt8106697435.md) — The Rest Is History episode on Cook's survey formation, the transit-of-Venus mission, Banks's scientific party, Endeavour logistics, crew health, and the voyage's concealed imperial purpose.
 - [Curing All Human Diseases & the Future of Health & Technology | Mark Zuckerberg & Dr. Priscilla Chan](sources/curing-all-human-diseases-the-future-of-health-technology-mark-zuckerberg-dr-priscilla-chan-scim6005948638.md) — Huberman Lab interview on CZI's biomedical tool-building, single-cell atlases, virtual cells, Biohubs, social-media design, mixed reality, smart glasses, and creator-controlled AI.
 - [VOL.80整形科｜秃头姐妹不要慌 自救干货帮你忙](sources/vol-80-zhengxingke-tutou-jiemei-buyao-huang-zijiu-ganhuo-bang-ni-mang-li5aqx1zugvobfuifx7hkhyvevox.md) — 这病说来话长 episode on women's hair-loss differential diagnosis, follicle cycles, minoxidil adherence and adverse effects, reproductive caution, and sponsor-linked product claims.
@@ -14026,6 +14027,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Michael Eisenberg](entities/MichaelEisenberg.md) — Urologist and researcher framing male fertility and sexual function through objective testing, whole-body health, and treatment boundaries.
 
 ## Concepts
+- [Semen Sample Collection Quality / 精液标本采集质量](concepts/SemenSampleCollectionQuality.md) — Pre-analytic framework for collection method, completeness, privacy, temperature, timing, transport, and laboratory handoff.
+- [Azoospermia Clinical Pathway / 无精子症临床路径](concepts/AzoospermiaClinicalPathway.md) — Cause-first pathway from repeated confirmation through obstruction, production impairment, reconstruction, retrieval, and assisted-reproduction decisions.
 - [Biomedical Research Tool Infrastructure](concepts/BiomedicalResearchToolInfrastructure.md) — Shared measurement, imaging, software, data, compute, and institutional capacity for expanding biomedical discovery.
 - [Hair Loss Diagnostic Triage / 脱发鉴别分诊](concepts/HairLossDiagnosticTriage.md) — Pattern-, trigger-, examination-, and escalation-based framework for separating common causes of women's hair loss before treatment.
 - [First-Contact Non-Interference](concepts/FirstContactNonInterference.md) — Ethical aspiration destabilized when bodies, goods, disease, translation, incentives, and force enter an encounter.
@@ -14930,7 +14933,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [盐铁会议 / Salt and Iron Conference](concepts/SaltAndIronConference.md) — Han Zhao-era fiscal and court-political debate over salt, iron, junshu, and liquor monopoly after the late Han Wudi crisis.
 - [持节守节式流亡忠诚 / Exile Loyalty Through Ritual Token](concepts/ExileLoyaltyThroughRitualToken.md) — Loyalty-under-exile pattern where an office token, ritual mourning, and refusal preserve identity without expected rescue.
 - [Social Embarrassment Fear](concepts/SocialEmbarrassmentFear.md) — anticipatory fear of being misread, exposed, judged, or trapped in awkward social obligation.
-- [Assisted Reproduction Decision Literacy](concepts/AssistedReproductionDecisionLiteracy.md) — IVF, egg-freezing, embryo-testing, pregnancy-loss, and emerging-intervention decisions interpreted through attrition, autonomy, and medical context.
+- [Assisted Reproduction Decision Literacy](concepts/AssistedReproductionDecisionLiteracy.md) — IVF, preservation, sperm availability, embryo testing, storage, and disposition interpreted through attrition, operational dependencies, autonomy, and medical context.
 - [Female Fertility as Health Marker](concepts/FemaleFertilityAsHealthMarker.md) — Fertility framed as a reproductive, hormonal, metabolic, inflammatory, lifestyle, and exposure signal rather than only pregnancy success.
 - [Ovarian Reserve and AMH Interpretation](concepts/OvarianReserveAMHInterpretation.md) — AMH and ovarian-reserve literacy that separates likely egg quantity response from egg quality and personalized fertility prognosis.
 - [Accession Mourning Legibility / 继位守丧可读性](concepts/AccessionMourningLegibility.md) — Succession ritual pattern where a candidate must make grief publicly credible because mourning conduct proves role restraint before imperial authority.
@@ -15483,7 +15486,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lifelong Sex Education / 终身性教育](concepts/LifelongSexEducation.md) — Sex-education frame treating sexual learning as a life-course need across body, pleasure, identity, communication, safety, and changing relationship stages.
 - [Sexual Exploration As Self-Knowledge / 性探索作为自我认识](concepts/SexualExplorationAsSelfKnowledge.md) — View that sexual exploration can reveal body, desire, shame, identity, values, relationship safety, and the balance between impulse and responsibility.
 - [Sex Counseling Nonjudgmental Boundary / 性咨询中的非评判边界](concepts/SexCounselingNonjudgmentalBoundary.md) — Professional counseling posture that makes sexual material speakable without erasing legal, ethical, health, consent, and relational boundaries.
-- [Sexual Function Relationship Context / 性功能的关系语境](concepts/SexualFunctionRelationshipContext.md) — Frame that sexual-function problems often mix physiology, fatigue, stress, shame, communication, partner response, and relationship safety.
+- [Sexual Function Relationship Context / 性功能的关系语境](concepts/SexualFunctionRelationshipContext.md) — Frame that persistent sexual-function concerns mix physiology, lived context, stress, shame, communication, partner response, and relationship safety.
 - [Male Emotional Intimacy Need / 男性情感亲密需要](concepts/MaleEmotionalIntimacyNeed.md) — Claim that men often need love, deep intimacy, vulnerability, and safe emotional expression despite scripts that reduce them to sex or performance.
 - [Adult Products As Relationship Support / 成人用品作为关系支持](concepts/AdultProductsRelationshipSupport.md) — Adult-products frame where toys, condoms, BDSM knowledge, cards, and communities matter most when they support safety, imagination, education, and human connection.
 - [AI-Native Virtual Idol / AI 原生虚拟偶像](concepts/AINativeVirtualIdol.md) — Character-IP pattern where AI is part of the idol's identity, production workflow, narrative, and interaction risk boundary.
@@ -22453,7 +22456,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Cold and Flu Supplement Evidence Boundary](concepts/ColdFluSupplementEvidenceBoundary.md) — Evidence and safety hierarchy separating deficiency correction, symptom support, limited trials, and treatment claims for common cold and influenza supplements.
 - [Expressive Writing Protocol](concepts/ExpressiveWritingProtocol.md) — Four-session private writing practice joining facts, emotions, and associations with recovery and professional-care boundaries.
 
-- [Male Reproductive Health Assessment](concepts/MaleReproductiveHealthAssessment.md) — Combined interpretation of semen, hormones, sexual function, exposures, anatomy, age, and general health.
+- [Male Reproductive Health Assessment](concepts/MaleReproductiveHealthAssessment.md) — Combined interpretation of specimen quality, semen measures, hormones, sexual function, exposures, anatomy, age, partner context, and general health.
 - [Erectile Dysfunction Vascular Triage](concepts/ErectileDysfunctionVascularTriage.md) — Persistent erectile difficulty as a multi-cause symptom that can warrant cardiovascular and metabolic assessment.
 - [Paternal Age Risk Counseling](concepts/PaternalAgeRiskCounseling.md) — Non-deterministic interpretation of paternal-age associations, absolute risk, and sperm-selection limits.
 

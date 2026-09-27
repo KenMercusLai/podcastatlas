@@ -23140,6 +23140,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-27] ingest | VOL.79生殖医学科男科｜取精室里不能说的秘密 辅助生殖知多少
+
+Added source `vol-79-shengzhi-yixueke-nanke-qujingshi-li-buneng-shuo-de-mimi-fuzhu-shengzhi-zhi-duoshao-lp8ztob7icudu2x06tqc0dh_zhdk`; created `SemenSampleCollectionQuality` and `AzoospermiaClinicalPathway`; and updated `MaleReproductiveHealthAssessment`, `AssistedReproductionDecisionLiteracy`, `SexualFunctionRelationshipContext`, `MaleUrologicalHealthMisconceptions`, and the canonical index from their complete bounded source sets. Core synthesis: semen testing begins with pre-analytic collection quality; absent sperm requires repeat confirmation and obstruction-versus-production-failure routing; assisted reproduction has male-side timing dependencies; and cycling, prostate calcification, or isolated performance anxiety should not be converted into diagnoses without context. No settled contradiction was found. Handling instructions, abstinence and delivery intervals, room standards, diagnostic wording, retrieval and reconstruction estimates, insurance claims, embryo-screening language, and sexual-function criteria remain source-scoped public education rather than individualized or universally current guidance. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -23702,6 +23706,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-27] ingest | Curing All Human Diseases & the Future of Health & Technology | Mark Zuckerberg & Dr. Priscilla Chan
 
 Added source `curing-all-human-diseases-the-future-of-health-technology-mark-zuckerberg-dr-priscilla-chan-scim6005948638`; created `PriscillaChan`, `ChanZuckerbergInitiative`, `ChanZuckerbergBiohubNetwork`, `Cellxgene`, and `BiomedicalResearchToolInfrastructure`; and updated `MarkZuckerberg`, `SingleCellRNASequencing`, `VirtualCellWorldModel`, `MixedReality`, and the canonical index from their complete bounded source sets. Core synthesis: CZI treats grants, open dissemination, single-cell atlases, software, imaging, compute, and Biohubs as shared research infrastructure, while virtual-cell models remain hypothesis and experiment-prioritization tools whose claims require biological and human validation. The episode also frames social media, mixed reality, smart glasses, and creator AI as design-dependent technologies shaped by connection quality, user controls, physical engagement, privacy, and authorization. No settled contradiction found. Mission scale, atlas completeness, product safety, training effects, privacy adequacy, and future-interface adoption remain source-scoped founder claims. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-27] lint | Wiki health check
 

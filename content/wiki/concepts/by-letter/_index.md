@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 8416
+wiki_total_pages: 8418
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2564,6 +2564,9 @@ wiki_pages:
   - key: "AxialAgeCivilizationalAwakening"
     title: "Axial Age Civilizational Awakening / 轴心时代文明觉醒"
     url: "/wiki/concepts/axialagecivilizationalawakening/"
+  - key: "AzoospermiaClinicalPathway"
+    title: "Azoospermia Clinical Pathway / 无精子症临床路径"
+    url: "/wiki/concepts/azoospermiaclinicalpathway/"
   - key: "AIControlNuclearAnalogyLimits"
     title: "Limits of the AI-Nuclear Control Analogy / AI与核管控类比边界"
     url: "/wiki/concepts/aicontrolnuclearanalogylimits/"
