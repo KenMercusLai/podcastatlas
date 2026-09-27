@@ -4,6 +4,7 @@ type: concept
 tags: [emotion, awe, psychology, social-connection]
 sources:
   - cultivating-awe-emotional-connection-in-daily-life-dr-dacher-keltner-scim6985403733
+  - how-to-shape-your-identity-goals-dr-maya-shankar-scim1420437673
 knowledge_schema: synthesis-v1
 last_updated: 2026-09-14
 ---
@@ -16,12 +17,13 @@ Awe emotion is the Keltner-Huberman source's frame for an emotion that arises wh
 ## Current Synthesis
 The source treats awe as measurable and trainable rather than rare or purely mystical. [[DacherKeltner]] connects awe to facial expression, vocalization, goosebumps, vagal tone, brain changes, inflammation-related claims, time perception, and reduced self-focus. [[AndrewHuberman]] adds a perceptual mechanism by linking horizons and wide visual aperture to reduced sympathetic activation and altered time perception.
 
-The strongest synthesis is that awe functions as an attention-widening and self-transcending social emotion. It can arise from nature, music, sport, moral beauty, museums, campfires, psychedelics, or shared embodied practices, but the common pattern is a shift from tight self-reference toward vastness, belonging, and meaning.
+The strongest synthesis is that awe functions as an attention-widening and self-transcending social emotion. It can arise from nature, music, sport, moral beauty, museums, campfires, psychedelics, or shared embodied practices, but the common pattern is a shift from tight self-reference toward vastness, belonging, and meaning. [[how-to-shape-your-identity-goals-dr-maya-shankar-scim1420437673]] adds a compact two-part account—perceived vastness plus a need to revise one's mental model—and suggests that awe can become identity-forming when inspiration also reveals a possible role for participation.
 
 ## Key Claims
 - Awe is presented as measurable through expression, voice, skin, autonomic, immune-related, brain, and attentional markers.
-- The core psychological movement is from narrow self-focus toward vastness, temporal distance, and a larger pattern.
+- The core psychological movement is from narrow self-focus toward perceived vastness, temporal distance, a larger pattern, and pressure to revise one's mental model.
 - Awe can arise from nature, culture, moral beauty, music, sport, collective ritual, and guided altered states.
+- Inspiration may become identity-forming when a person can imagine acting within the domain rather than observing it only passively.
 - Awe may support kindness, pain reduction, and health-related outcomes in source-scoped studies and claims.
 - Awe is inhibited by excessive self-focus, meanness, status striving, and social environments that narrow attention around the isolated self.
 - Awe can be deliberately cultivated through low-cost practices such as [[AweWalks]] and shared embodied settings.
@@ -32,12 +34,14 @@ The strongest synthesis is that awe functions as an attention-widening and self-
 - Practice frame: [[cultivating-awe-emotional-connection-in-daily-life-dr-dacher-keltner-scim6985403733]] describes awe walks as a practical way to cultivate awe in ordinary life.
 - Social frame: [[cultivating-awe-emotional-connection-in-daily-life-dr-dacher-keltner-scim6985403733]] connects awe to music, sport, chanting, dancing, concerts, campfires, saunas, museums, and collective effervescence.
 - Moral frame: [[cultivating-awe-emotional-connection-in-daily-life-dr-dacher-keltner-scim6985403733]] names courage, kindness, justice, strength, and integrity as sources of moral beauty and awe.
+- Mental-model and participation frame: [[how-to-shape-your-identity-goals-dr-maya-shankar-scim1420437673]] uses music and poetry examples to connect vastness, updating, and a possible place for oneself in an inspiring domain.
 
 ## Counterevidence & Qualifications
-The source is wide-ranging and sometimes associative. Health claims about inflammation, vagal tone, pain, long COVID symptoms, and community life expectancy remain source-scoped. The psychedelic discussion is explicitly cautious and does not convert awe into a general recommendation for unsupervised altered-state use.
+The sources are wide-ranging and sometimes associative. Awe can have positive or negative valence, and feeling vastness does not by itself produce healthy identity, accurate belief, or safe action. Health claims about inflammation, vagal tone, pain, long COVID symptoms, and community life expectancy remain source-scoped. The psychedelic discussion is explicitly cautious and does not convert awe into a general recommendation for unsupervised altered-state use.
 
 ## What Changed
-- Created the concept to hold the source's central claim that awe is a measurable, embodied, attention-widening, socially connective emotion.
+- Added vastness plus mental-model revision as a compact awe definition.
+- Added participation as a possible bridge from passive awe to identity formation.
 
 ## Related Concepts
 - [[AweWalks]] - practical cultivation method for ordinary awe.
@@ -47,3 +51,4 @@ The source is wide-ranging and sometimes associative. Health claims about inflam
 - [[EmotionRegulationToolkit]] - adjacent practical branch for working with emotional states.
 - [[SocializingDecline]] - social-fragmentation problem that awe-oriented shared practices may counter.
 - [[PsychedelicOrdinaryFreedom]] - altered-state integration neighbor with safety boundaries.
+- [[PurposeAnchoredIdentity]] - identity branch that can develop when awe reveals a durable motive and possible role.

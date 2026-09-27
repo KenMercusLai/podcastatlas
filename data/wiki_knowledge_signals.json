@@ -14229,9 +14229,9 @@
       "url": "/wiki/concepts/awarenessmeditationstorydropping/"
     },
     "AweEmotion": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM6985403733 [SCIM6985403733].md",
@@ -14239,6 +14239,13 @@
           "show": "Huberman Lab",
           "title": "Cultivating Awe & Emotional Connection in Daily Life | Dr. Dacher Keltner",
           "url": "/wiki/sources/cultivating-awe-emotional-connection-in-daily-life-dr-dacher-keltner-scim6985403733/"
+        },
+        {
+          "episode_file": "SCIM1420437673 [SCIM1420437673].md",
+          "key": "how-to-shape-your-identity-goals-dr-maya-shankar-scim1420437673",
+          "show": "Huberman Lab",
+          "title": "How to Shape Your Identity & Goals | Dr. Maya Shankar",
+          "url": "/wiki/sources/how-to-shape-your-identity-goals-dr-maya-shankar-scim1420437673/"
         }
       ],
       "updated": "2026-09-14",
@@ -30451,6 +30458,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/coffeesourcingwork/"
+    },
+    "CognitiveAdvisoryFeedback": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1420437673 [SCIM1420437673].md",
+          "key": "how-to-shape-your-identity-goals-dr-maya-shankar-scim1420437673",
+          "show": "Huberman Lab",
+          "title": "How to Shape Your Identity & Goals | Dr. Maya Shankar",
+          "url": "/wiki/sources/how-to-shape-your-identity-goals-dr-maya-shankar-scim1420437673/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/cognitiveadvisoryfeedback/"
     },
     "CognitiveAging": {
       "episode_count": 2,
@@ -46974,6 +46997,22 @@
       ],
       "updated": "2026-08-06",
       "url": "/wiki/concepts/empathycircleexpansion/"
+    },
+    "EmpathyModeDifferentiation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1420437673 [SCIM1420437673].md",
+          "key": "how-to-shape-your-identity-goals-dr-maya-shankar-scim1420437673",
+          "show": "Huberman Lab",
+          "title": "How to Shape Your Identity & Goals | Dr. Maya Shankar",
+          "url": "/wiki/sources/how-to-shape-your-identity-goals-dr-maya-shankar-scim1420437673/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/empathymodedifferentiation/"
     },
     "EmperorAnOfHan": {
       "episode_count": 15,
@@ -64447,9 +64486,9 @@
       "url": "/wiki/concepts/goalmanagementtraining/"
     },
     "GoalPursuitBehaviorDesign": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1532399364 [SCIM1532399364].md",
@@ -64457,6 +64496,13 @@
           "show": "Huberman Lab",
           "title": "Goals Toolkit: How to Set & Achieve Your Goals",
           "url": "/wiki/sources/goals-toolkit-how-to-set-achieve-your-goals-scim1532399364/"
+        },
+        {
+          "episode_file": "SCIM1420437673 [SCIM1420437673].md",
+          "key": "how-to-shape-your-identity-goals-dr-maya-shankar-scim1420437673",
+          "show": "Huberman Lab",
+          "title": "How to Shape Your Identity & Goals | Dr. Maya Shankar",
+          "url": "/wiki/sources/how-to-shape-your-identity-goals-dr-maya-shankar-scim1420437673/"
         }
       ],
       "updated": "2026-09-28",
@@ -104344,9 +104390,9 @@
       "url": "/wiki/entities/mayaactive/"
     },
     "MayaShankar": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1532399364 [SCIM1532399364].md",
@@ -104354,6 +104400,13 @@
           "show": "Huberman Lab",
           "title": "Goals Toolkit: How to Set & Achieve Your Goals",
           "url": "/wiki/sources/goals-toolkit-how-to-set-achieve-your-goals-scim1532399364/"
+        },
+        {
+          "episode_file": "SCIM1420437673 [SCIM1420437673].md",
+          "key": "how-to-shape-your-identity-goals-dr-maya-shankar-scim1420437673",
+          "show": "Huberman Lab",
+          "title": "How to Shape Your Identity & Goals | Dr. Maya Shankar",
+          "url": "/wiki/sources/how-to-shape-your-identity-goals-dr-maya-shankar-scim1420437673/"
         }
       ],
       "updated": "2026-09-28",
@@ -109297,9 +109350,9 @@
       "url": "/wiki/concepts/motherhoodbeyondchildbirth/"
     },
     "MotivationCrowdingOut": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "79.各位领导，但凡咱学点博弈论… … [690004262].md",
@@ -109328,6 +109381,13 @@
           "show": "Huberman Lab",
           "title": "How to Unlock Your Potential, Motivation & Unique Abilities | Dr. Adam Grant",
           "url": "/wiki/sources/how-to-unlock-your-potential-motivation-unique-abilities-dr-adam-grant-scim2670765142/"
+        },
+        {
+          "episode_file": "SCIM1420437673 [SCIM1420437673].md",
+          "key": "how-to-shape-your-identity-goals-dr-maya-shankar-scim1420437673",
+          "show": "Huberman Lab",
+          "title": "How to Shape Your Identity & Goals | Dr. Maya Shankar",
+          "url": "/wiki/sources/how-to-shape-your-identity-goals-dr-maya-shankar-scim1420437673/"
         }
       ],
       "updated": "2026-09-27",
@@ -119276,6 +119336,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/peacefultransferofpower/"
     },
+    "PeakEndTaskMemory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1420437673 [SCIM1420437673].md",
+          "key": "how-to-shape-your-identity-goals-dr-maya-shankar-scim1420437673",
+          "show": "Huberman Lab",
+          "title": "How to Shape Your Identity & Goals | Dr. Maya Shankar",
+          "url": "/wiki/sources/how-to-shape-your-identity-goals-dr-maya-shankar-scim1420437673/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/peakendtaskmemory/"
+    },
     "PeasantsRevolt1381": {
       "episode_count": 2,
       "show_count": 1,
@@ -127606,6 +127682,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/puritanenlightenmentpracticalethic/"
+    },
+    "PurposeAnchoredIdentity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1420437673 [SCIM1420437673].md",
+          "key": "how-to-shape-your-identity-goals-dr-maya-shankar-scim1420437673",
+          "show": "Huberman Lab",
+          "title": "How to Shape Your Identity & Goals | Dr. Maya Shankar",
+          "url": "/wiki/sources/how-to-shape-your-identity-goals-dr-maya-shankar-scim1420437673/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/purposeanchoredidentity/"
     },
     "PurposeIntegratedMotivation": {
       "episode_count": 2,

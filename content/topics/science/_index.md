@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1274
+topic_total_pages: 1275
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -3633,6 +3633,9 @@ topic_sources:
   - key: "how-to-overcome-social-anxiety-dr-nick-epley-scim7834121132"
     title: "How to Overcome Social Anxiety | Dr. Nick Epley"
     url: "/wiki/sources/how-to-overcome-social-anxiety-dr-nick-epley-scim7834121132/"
+  - key: "how-to-shape-your-identity-goals-dr-maya-shankar-scim1420437673"
+    title: "How to Shape Your Identity & Goals | Dr. Maya Shankar"
+    url: "/wiki/sources/how-to-shape-your-identity-goals-dr-maya-shankar-scim1420437673/"
   - key: "how-to-understand-emotions-dr-lisa-feldman-barrett-scim3919749252"
     title: "How to Understand Emotions | Dr. Lisa Feldman Barrett"
     url: "/wiki/sources/how-to-understand-emotions-dr-lisa-feldman-barrett-scim3919749252/"

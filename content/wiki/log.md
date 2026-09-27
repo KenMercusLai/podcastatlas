@@ -24220,3 +24220,10 @@ Added source `vol-61-pifuke-ni-bei-zhexie-hufu-cihui-yingxiao-le-ma-sanjia-yishe
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-09-28] ingest | How to Shape Your Identity & Goals | Dr. Maya Shankar
+
+Added source `how-to-shape-your-identity-goals-dr-maya-shankar-scim1420437673`; created `PurposeAnchoredIdentity`, `CognitiveAdvisoryFeedback`, `EmpathyModeDifferentiation`, and `PeakEndTaskMemory`; and updated `MayaShankar`, `GoalPursuitBehaviorDesign`, `AweEmotion`, `MotivationCrowdingOut`, and the canonical index from their complete bounded source sets. Core synthesis: identity is more resilient when anchored to durable motives such as curiosity, connection, and improvement rather than one role, while goal pursuit improves when framing, agency, planning state, slack, time horizon, reward pairing, feedback, and remembered endings are treated as adaptable design variables. No settled contradiction was adopted. Research examples and effects remain source-scoped where the supplied summary lacks methods, samples, effect sizes, or complete citations, and identity or goal tools do not replace clinical care or structural support. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

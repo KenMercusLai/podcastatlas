@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8546
+wiki_total_pages: 8550
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -335,6 +335,9 @@ wiki_pages:
   - key: "PeacefulTransferOfPower"
     title: "Peaceful Transfer of Power"
     url: "/wiki/concepts/peacefultransferofpower/"
+  - key: "PeakEndTaskMemory"
+    title: "Peak-End Task Memory"
+    url: "/wiki/concepts/peakendtaskmemory/"
   - key: "PeakValleyAIInferencePricing"
     title: "Peak-Valley AI Inference Pricing"
     url: "/wiki/concepts/peakvalleyaiinferencepricing/"
@@ -2189,6 +2192,9 @@ wiki_pages:
   - key: "PurposeDrivenBusiness"
     title: "Purpose Driven Business"
     url: "/wiki/concepts/purposedrivenbusiness/"
+  - key: "PurposeAnchoredIdentity"
+    title: "Purpose-Anchored Identity"
+    url: "/wiki/concepts/purposeanchoredidentity/"
   - key: "PurposeIntegratedMotivation"
     title: "Purpose-Integrated Motivation"
     url: "/wiki/concepts/purposeintegratedmotivation/"

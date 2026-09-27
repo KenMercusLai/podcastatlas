@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Shape Your Identity & Goals | Dr. Maya Shankar](sources/how-to-shape-your-identity-goals-dr-maya-shankar-scim1420437673.md) — Huberman Lab interview on purpose-anchored identity, change, cognitive-advisory feedback, differentiated empathy, and adaptable goal design.
 - [VOL.61皮肤科｜你被这些护肤词汇营销了吗？三甲医生揭保湿补水控油去角质的秘密](sources/vol-61-pifuke-ni-bei-zhexie-hufu-cihui-yingxiao-le-ma-sanjia-yisheng-jie-baoshi-bushui-kongyou-qujiaozhi-de-mimi-ljdsdo6iw9zyvt4olcfnq6bnix2j.md) — 这病说来话长 Q&A on barrier-first skin care, UV protection, acne and scarring, cosmetic-marketing limits, and clinician-guided treatment.
 - [VOL.62皮肤科｜到底哪些情况最易脱发、白发、伤发？帮你避坑这些智商税](sources/vol-62-pifuke-daodi-naxie-qingkuang-zui-yi-tuofa-baifa-shangfa-bang-ni-bikeng-zhexie-zhishangshui-lreu9n7fvkwgotiewa2yenhur4dp.md) — 这病说来话长 episode on hair-loss triage, follicle-cycle treatment expectations, scalp-care limits, gray hair, dyeing, and transplantation.
 - [354: Paris 1968: The Return of De Gaulle (Part 2)](sources/354-paris-1968-the-return-of-de-gaulle-part-2-glt6246374874.md) — The Rest Is History episode on de Gaulle's May 1968 collapse and recovery, the Gaullist election landslide, and the movement's disputed cultural afterlife.
@@ -3089,7 +3090,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Christian Dior](entities/ChristianDior.md) — French designer whose 1947 New Look restored postwar Parisian glamour against utility austerity.
 - [David Bailey](entities/DavidBailey.md) — London fashion photographer whose informal imagery and celebrity helped export the Swinging London look.
 - [Emily Balcetis](entities/EmilyBalcetis.md) — Researcher cited for work connecting visual targeting, perceived effort, and goal pursuit.
-- [Maya Shankar](entities/MayaShankar.md) — Researcher credited with the “middle problem” framing for motivation during goal pursuit.
+- [Maya Shankar](entities/MayaShankar.md) — Cognitive scientist connecting purpose-anchored identity, feedback, empathy, and the middle-stage motivation problem with practical goal design.
 - [Jean Shrimpton](entities/JeanShrimpton.md) — British model whose 1965 Melbourne appearance became a global youth-fashion scandal.
 - [Twiggy](entities/Twiggy.md) — Working-class London model who became “the face of 66” and embodied the era's waif-like ideal.
 - [Mary Quant](entities/MaryQuant.md) — Designer-retailer associated with Bazaar, informal youth fashion, and the miniskirt.
@@ -14221,6 +14222,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Skatepark Project](entities/TheSkateparkProject.md) — Nonprofit supporting public skateparks as access, practice, and youth-community infrastructure.
 
 ## Concepts
+- [Purpose-Anchored Identity](concepts/PurposeAnchoredIdentity.md) — Identity frame that preserves durable motives across role loss and change without denying grief or constraint.
+- [Cognitive-Advisory Feedback](concepts/CognitiveAdvisoryFeedback.md) — Challenge-oriented feedback practice that tests interpretations while preserving agency and safety boundaries.
+- [Empathy-Mode Differentiation](concepts/EmpathyModeDifferentiation.md) — Distinction among emotional sharing, cognitive perspective-taking, and empathic concern.
+- [Peak-End Task Memory](concepts/PeakEndTaskMemory.md) — Bounded use of remembered peaks and endings to make worthwhile difficult tasks easier to repeat.
 - [Hair and Scalp Care Boundary / 头发与头皮护理边界](concepts/HairScalpCareBoundary.md) — Boundary separating conditional cleansing and shaft protection from diagnosis, follicle treatment, and commercial regrowth claims.
 - [Political Defeat and Cultural Afterlife](concepts/PoliticalDefeatCulturalAfterlife.md) — Distinction between losing the immediate contest for power and shaping later culture, memory, or intellectual language.
 - [Staged Volcanic Catastrophe](concepts/StagedVolcanicCatastrophe.md) — Time- and place-sensitive model separating warning, fall, accumulation, surge, flow, and temporary escape windows.

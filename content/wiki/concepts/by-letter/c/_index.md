@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8546
+wiki_total_pages: 8550
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1286,6 +1286,9 @@ wiki_pages:
   - key: "CognitiveTrustAllocation"
     title: "Cognitive Trust Allocation / 认知信任分配"
     url: "/wiki/concepts/cognitivetrustallocation/"
+  - key: "CognitiveAdvisoryFeedback"
+    title: "Cognitive-Advisory Feedback"
+    url: "/wiki/concepts/cognitiveadvisoryfeedback/"
   - key: "CoinRetirementEconomics"
     title: "Coin Retirement Economics"
     url: "/wiki/concepts/coinretirementeconomics/"
