@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 8482
+wiki_total_pages: 8486
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -281,6 +281,9 @@ wiki_pages:
   - key: "TechnologyInstallationCycle"
     title: "Technology Installation Cycle"
     url: "/wiki/concepts/technologyinstallationcycle/"
+  - key: "TechnologyMoralPanicCycle"
+    title: "Technology Moral Panic Cycle"
+    url: "/wiki/concepts/technologymoralpaniccycle/"
   - key: "TechnologyPhilosophy"
     title: "Technology Philosophy / 技术哲学"
     url: "/wiki/concepts/technologyphilosophy/"

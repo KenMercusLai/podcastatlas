@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3189
+topic_total_pages: 3191
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1765,6 +1765,9 @@ topic_concepts:
   - key: "DefenseRoboticsMaintenance"
     title: "Defense Robotics Maintenance"
     url: "/wiki/concepts/defenseroboticsmaintenance/"
+  - key: "DefensiveAIGovernance"
+    title: "Defensive AI Governance"
+    url: "/wiki/concepts/defensiveaigovernance/"
   - key: "DefianceAct"
     title: "Defiance Act"
     url: "/wiki/concepts/defianceact/"
@@ -4120,6 +4123,9 @@ topic_concepts:
   - key: "TechnologyInstallationCycle"
     title: "Technology Installation Cycle"
     url: "/wiki/concepts/technologyinstallationcycle/"
+  - key: "TechnologyMoralPanicCycle"
+    title: "Technology Moral Panic Cycle"
+    url: "/wiki/concepts/technologymoralpaniccycle/"
   - key: "TechnologyPhilosophy"
     title: "Technology Philosophy / 技术哲学"
     url: "/wiki/concepts/technologyphilosophy/"

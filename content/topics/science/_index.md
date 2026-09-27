@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1262
+topic_total_pages: 1263
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1003,6 +1003,9 @@ topic_concepts:
   - key: "InformationCocoon"
     title: "Information Cocoon / 信息茧房"
     url: "/wiki/concepts/informationcocoon/"
+  - key: "InnovatorTraitConfiguration"
+    title: "Innovator Trait Configuration"
+    url: "/wiki/concepts/innovatortraitconfiguration/"
   - key: "InstrumentalBeliefCritique"
     title: "Instrumental Belief Critique"
     url: "/wiki/concepts/instrumentalbeliefcritique/"

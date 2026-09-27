@@ -9009,6 +9009,43 @@
       "updated": "2026-09-26",
       "url": "/wiki/entities/andreaskarlstadt/"
     },
+    "AndreessenHorowitz": {
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up [42513830].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830/"
+        },
+        {
+          "episode_file": "SocialRadarsSeason2-ParkerConrad-v8 [SocialRadarsSeason2-ParkerConrad-v8].md",
+          "key": "socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8",
+          "show": "The Social Radars",
+          "title": "Parker Conrad on Zenefits, Rippling, and Building Through Crisis",
+          "url": "/wiki/sources/socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8/"
+        },
+        {
+          "episode_file": "「模型能力已经够了，要卷就卷 infra」｜对谈戴冠兰：Runta 创始人 [lmJsNPP7D75YHqH7boVJ1bV6YHBk].md",
+          "key": "moxing-nengli-yijing-goule-yao-juan-jiu-juan-infra-duitan-daiguanlan-runta-chuangshiren-lmjsnpp7d75yhqh7bovj1bv6yhbk",
+          "show": "十字路口Crossing",
+          "title": "「模型能力已经够了，要卷就卷 infra」｜对谈戴冠兰：Runta 创始人",
+          "url": "/wiki/sources/moxing-nengli-yijing-goule-yao-juan-jiu-juan-infra-duitan-daiguanlan-runta-chuangshiren-lmjsnpp7d75yhqh7bovj1bv6yhbk/"
+        },
+        {
+          "episode_file": "SCIM7464698870 [SCIM7464698870].md",
+          "key": "how-risk-taking-innovation-artificial-intelligence-transform-human-experience-marc-andreessen-scim7464698870",
+          "show": "Huberman Lab",
+          "title": "How Risk Taking, Innovation & Artificial Intelligence Transform Human Experience | Marc Andreessen",
+          "url": "/wiki/sources/how-risk-taking-innovation-artificial-intelligence-transform-human-experience-marc-andreessen-scim7464698870/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/andreessenhorowitz/"
+    },
     "AndrewBogle": {
       "episode_count": 1,
       "show_count": 1,
@@ -37912,6 +37949,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/concepts/defensetechstartupprocurement/"
     },
+    "DefensiveAIGovernance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7464698870 [SCIM7464698870].md",
+          "key": "how-risk-taking-innovation-artificial-intelligence-transform-human-experience-marc-andreessen-scim7464698870",
+          "show": "Huberman Lab",
+          "title": "How Risk Taking, Innovation & Artificial Intelligence Transform Human Experience | Marc Andreessen",
+          "url": "/wiki/sources/how-risk-taking-innovation-artificial-intelligence-transform-human-experience-marc-andreessen-scim7464698870/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/defensiveaigovernance/"
+    },
     "Dehong": {
       "episode_count": 1,
       "show_count": 1,
@@ -57198,6 +57251,22 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/concepts/founderego/"
+    },
+    "FounderIdeaMaze": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7464698870 [SCIM7464698870].md",
+          "key": "how-risk-taking-innovation-artificial-intelligence-transform-human-experience-marc-andreessen-scim7464698870",
+          "show": "Huberman Lab",
+          "title": "How Risk Taking, Innovation & Artificial Intelligence Transform Human Experience | Marc Andreessen",
+          "url": "/wiki/sources/how-risk-taking-innovation-artificial-intelligence-transform-human-experience-marc-andreessen-scim7464698870/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/founderideamaze/"
     },
     "FounderLedSales": {
       "episode_count": 10,
@@ -78456,6 +78525,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/innerworld/"
+    },
+    "InnovatorTraitConfiguration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7464698870 [SCIM7464698870].md",
+          "key": "how-risk-taking-innovation-artificial-intelligence-transform-human-experience-marc-andreessen-scim7464698870",
+          "show": "Huberman Lab",
+          "title": "How Risk Taking, Innovation & Artificial Intelligence Transform Human Experience | Marc Andreessen",
+          "url": "/wiki/sources/how-risk-taking-innovation-artificial-intelligence-transform-human-experience-marc-andreessen-scim7464698870/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/innovatortraitconfiguration/"
     },
     "InsectBiteAftercare": {
       "episode_count": 1,
@@ -101644,6 +101729,36 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/concepts/maritimewarningfragmentation/"
+    },
+    "MarkAndreessen": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "TSR-S4-RonConway-v4 [TSR-S4-RonConway-v4].md",
+          "key": "tsr-s4-ronconway-v4-tsr-s4-ronconway-v4",
+          "show": "The Social Radars",
+          "title": "Ron Conway on Founder Advocacy, Angel Investing, and the Internet's First Wave",
+          "url": "/wiki/sources/tsr-s4-ronconway-v4-tsr-s4-ronconway-v4/"
+        },
+        {
+          "episode_file": "SocialRadarsSeason2-ParkerConrad-v8 [SocialRadarsSeason2-ParkerConrad-v8].md",
+          "key": "socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8",
+          "show": "The Social Radars",
+          "title": "Parker Conrad on Zenefits, Rippling, and Building Through Crisis",
+          "url": "/wiki/sources/socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8/"
+        },
+        {
+          "episode_file": "SCIM7464698870 [SCIM7464698870].md",
+          "key": "how-risk-taking-innovation-artificial-intelligence-transform-human-experience-marc-andreessen-scim7464698870",
+          "show": "Huberman Lab",
+          "title": "How Risk Taking, Innovation & Artificial Intelligence Transform Human Experience | Marc Andreessen",
+          "url": "/wiki/sources/how-risk-taking-innovation-artificial-intelligence-transform-human-experience-marc-andreessen-scim7464698870/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/markandreessen/"
     },
     "MarkCarney": {
       "episode_count": 2,
@@ -149805,6 +149920,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/concepts/technologyassistedinteriorenforcement/"
+    },
+    "TechnologyMoralPanicCycle": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7464698870 [SCIM7464698870].md",
+          "key": "how-risk-taking-innovation-artificial-intelligence-transform-human-experience-marc-andreessen-scim7464698870",
+          "show": "Huberman Lab",
+          "title": "How Risk Taking, Innovation & Artificial Intelligence Transform Human Experience | Marc Andreessen",
+          "url": "/wiki/sources/how-risk-taking-innovation-artificial-intelligence-transform-human-experience-marc-andreessen-scim7464698870/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/technologymoralpaniccycle/"
     },
     "TechnologyPhilosophy": {
       "episode_count": 1,

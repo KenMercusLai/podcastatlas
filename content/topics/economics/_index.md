@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2117
+topic_total_pages: 2118
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1234,6 +1234,9 @@ topic_concepts:
   - key: "FounderHonesty"
     title: "Founder Honesty"
     url: "/wiki/concepts/founderhonesty/"
+  - key: "FounderIdeaMaze"
+    title: "Founder Idea Maze"
+    url: "/wiki/concepts/founderideamaze/"
   - key: "FounderInstinct"
     title: "Founder Instinct"
     url: "/wiki/concepts/founderinstinct/"

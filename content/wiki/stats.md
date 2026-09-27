@@ -11,22 +11,22 @@ outputs: ["html"]
 
 ## Pages
 - Overview: 1
-- Concepts: 8482
+- Concepts: 8486
 - Entities: 11078
-- Sources: 2999
-- Total wiki content pages: 22560
+- Sources: 3000
+- Total wiki content pages: 22565
 
 ## Links
-- Wiki link references: 565328
-- Unique wiki link targets: 22564
-- Missing targets: 6
+- Wiki link references: 565381
+- Unique wiki link targets: 22571
+- Missing targets: 8
 - Exact duplicate keys: 0
 - Case-insensitive key collisions: 0
 - Public route collisions: 0
 
 ## Source Episodes
-- Source pages: 2999
-- Matched episodes: 2999
+- Source pages: 3000
+- Matched episodes: 3000
 - Missing source_file: 0
 - Unmatched source_file: 0
 
@@ -44,6 +44,12 @@ outputs: ["html"]
   - `content/wiki/log.md`
 - `[[CoordinatedVulnerabilityDisclosure]]`
   - `content/wiki/sources/tech-20260924-0924-mp-tech-pod-128-tech-20260924-0924-mp-tech-pod-128.md`
+- `[[IntrinsicMotivation]]`
+  - `content/wiki/concepts/InnovatorTraitConfiguration.md`
+  - `content/wiki/sources/how-risk-taking-innovation-artificial-intelligence-transform-human-experience-marc-andreessen-scim7464698870.md`
+- `[[Mosaic]]`
+  - `content/wiki/entities/MarkAndreessen.md`
+  - `content/wiki/sources/how-risk-taking-innovation-artificial-intelligence-transform-human-experience-marc-andreessen-scim7464698870.md`
 - `[[SupplementContaminationAndMislabelling]]`
   - `content/wiki/concepts/ShilajitEvidenceBoundary.md`
 

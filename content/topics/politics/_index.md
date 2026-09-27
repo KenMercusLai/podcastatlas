@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2758
+topic_total_pages: 2759
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -976,6 +976,9 @@ topic_concepts:
   - key: "DefenseTechStartupProcurement"
     title: "Defense Tech Startup Procurement"
     url: "/wiki/concepts/defensetechstartupprocurement/"
+  - key: "DefensiveAIGovernance"
+    title: "Defensive AI Governance"
+    url: "/wiki/concepts/defensiveaigovernance/"
   - key: "DefensiveSpeechUnderTyranny"
     title: "Defensive Speech Under Tyranny / 暴政下的防御性言说"
     url: "/wiki/concepts/defensivespeechundertyranny/"

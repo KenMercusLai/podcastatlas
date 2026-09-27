@@ -23925,6 +23925,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-28] ingest | How Risk Taking, Innovation & Artificial Intelligence Transform Human Experience | Marc Andreessen
+
+Added source `how-risk-taking-innovation-artificial-intelligence-transform-human-experience-marc-andreessen-scim7464698870`; created `InnovatorTraitConfiguration`, `FounderIdeaMaze`, `DefensiveAIGovernance`, and `TechnologyMoralPanicCycle`; and updated `MarkAndreessen`, `AndreessenHorowitz`, and the canonical index from their complete bounded source sets. Core synthesis: breakthrough innovation is presented as a conditional combination of traits, deep problem mapping, intrinsic motivation, adaptive course correction, and tolerance for social resistance, while the AI-policy argument favors human augmentation and machine-speed defenses over broad precautionary restriction. No settled contradiction was resolved: the episode's pro-innovation posture remains in tension with regulation and alignment frameworks, and its personality, institutional, nuclear-energy, geopolitical, historical-analogy, and defensive-AI claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-28] ingest | GUEST SERIES | Dr. Paul Conti: How to Improve Your Mental Health
 
 Added source `guest-series-dr-paul-conti-how-to-improve-your-mental-health-scim8316512303`; updated `PaulConti`, `MentalHealthStructureFunctionMap`, `GenerativeDrive`, `IntrusiveThoughtMeaning`, `ReflectiveSelfExploration`, `IntentionalLivingAgency`, and the canonical index from their complete bounded source sets. Core synthesis: the structure/function map can localize inquiry across known beliefs, defenses, character, salience, behavior, and strivings; assertion and pleasure are healthiest when they serve generative aims; internalized standards and self-sabotage can be examined without blame; and rational aspiration links present position, desired direction, required effort, and personal values. No settled contradiction found. The ten-cabinet, three-drive, intrusive-thought, envy, narcissism, demoralization, CBT, and medication claims remain source-scoped public education rather than diagnostic or treatment rules. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -23984,6 +23988,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-28] ingest | GUEST SERIES | Dr. Paul Conti: How to Understand & Assess Your Mental Health
 
 Added the opening Huberman Lab mental-health guest-series source note, covering the structure and function of self, context-dependent defenses, salience, internal narratives, agency, gratitude, drive balance, medication limits, and clinically bounded self-inquiry. Extended Paul Conti, the mental-health structure-function map, and generative drive without recording a settled contradiction.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-28] lint | Wiki health check
 

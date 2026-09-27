@@ -19351,6 +19351,10 @@
     "title": "Defense Tech Startup Procurement",
     "url": "/wiki/concepts/defensetechstartupprocurement/"
   },
+  "DefensiveAIGovernance": {
+    "title": "Defensive AI Governance",
+    "url": "/wiki/concepts/defensiveaigovernance/"
+  },
   "DefensiveDividendAssets": {
     "title": "Defensive Dividend Assets",
     "url": "/wiki/concepts/defensivedividendassets/"
@@ -26598,6 +26602,10 @@
   "FounderHonesty": {
     "title": "Founder Honesty",
     "url": "/wiki/concepts/founderhonesty/"
+  },
+  "FounderIdeaMaze": {
+    "title": "Founder Idea Maze",
+    "url": "/wiki/concepts/founderideamaze/"
   },
   "FounderIdeaPivot": {
     "title": "Founder Idea Pivot",
@@ -35002,6 +35010,10 @@
   "InnovativeDrugCommercialInsuranceCatalog": {
     "title": "Innovative Drug Commercial Insurance Catalog",
     "url": "/wiki/concepts/innovativedrugcommercialinsurancecatalog/"
+  },
+  "InnovatorTraitConfiguration": {
+    "title": "Innovator Trait Configuration",
+    "url": "/wiki/concepts/innovatortraitconfiguration/"
   },
   "InnoventBiologics": {
     "title": "Innovent Biologics / 信达生物",
@@ -67923,6 +67935,10 @@
     "title": "Technology Installation Cycle",
     "url": "/wiki/concepts/technologyinstallationcycle/"
   },
+  "TechnologyMoralPanicCycle": {
+    "title": "Technology Moral Panic Cycle",
+    "url": "/wiki/concepts/technologymoralpaniccycle/"
+  },
   "TechnologyPhilosophy": {
     "title": "Technology Philosophy / 技术哲学",
     "url": "/wiki/concepts/technologyphilosophy/"
@@ -82582,6 +82598,10 @@
   "how-relationships-shape-your-brain-dr-allan-schore-scim1947263719": {
     "title": "How Relationships Shape Your Brain | Dr. Allan Schore",
     "url": "/wiki/sources/how-relationships-shape-your-brain-dr-allan-schore-scim1947263719/"
+  },
+  "how-risk-taking-innovation-artificial-intelligence-transform-human-experience-marc-andreessen-scim7464698870": {
+    "title": "How Risk Taking, Innovation & Artificial Intelligence Transform Human Experience | Marc Andreessen",
+    "url": "/wiki/sources/how-risk-taking-innovation-artificial-intelligence-transform-human-experience-marc-andreessen-scim7464698870/"
   },
   "how-smartphones-social-media-impact-mental-health-the-realistic-solutions-dr-jonathan-haidt-scim1870541944": {
     "title": "How Smartphones & Social Media Impact Mental Health & the Realistic Solutions | Dr. Jonathan Haidt",

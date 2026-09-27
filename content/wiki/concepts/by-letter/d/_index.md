@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 8482
+wiki_total_pages: 8486
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -365,6 +365,9 @@ wiki_pages:
   - key: "DefenseTechStartupProcurement"
     title: "Defense Tech Startup Procurement"
     url: "/wiki/concepts/defensetechstartupprocurement/"
+  - key: "DefensiveAIGovernance"
+    title: "Defensive AI Governance"
+    url: "/wiki/concepts/defensiveaigovernance/"
   - key: "DefensiveDividendAssets"
     title: "Defensive Dividend Assets"
     url: "/wiki/concepts/defensivedividendassets/"

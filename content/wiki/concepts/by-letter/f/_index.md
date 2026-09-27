@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 8482
+wiki_total_pages: 8486
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -908,6 +908,9 @@ wiki_pages:
   - key: "FounderHonesty"
     title: "Founder Honesty"
     url: "/wiki/concepts/founderhonesty/"
+  - key: "FounderIdeaMaze"
+    title: "Founder Idea Maze"
+    url: "/wiki/concepts/founderideamaze/"
   - key: "FounderIdeaPivot"
     title: "Founder Idea Pivot"
     url: "/wiki/concepts/founderideapivot/"

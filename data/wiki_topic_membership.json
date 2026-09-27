@@ -22972,6 +22972,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "DefensiveAIGovernance": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "DefensiveDividendAssets": [
     {
       "key": "economics",
@@ -30375,6 +30387,13 @@
     }
   ],
   "FounderHonesty": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
+  "FounderIdeaMaze": [
     {
       "key": "economics",
       "label": "Economics",
@@ -39217,6 +39236,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "InnovatorTraitConfiguration": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "InovanceTechnology": [
@@ -72663,6 +72689,13 @@
     }
   ],
   "TechnologyInstallationCycle": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "TechnologyMoralPanicCycle": [
     {
       "key": "technology",
       "label": "Technology",
