@@ -8,6 +8,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Sources
 - [Improving Sexual & Urological Health in Males and Females | Dr. Rena Malik](sources/improving-sexual-urological-health-in-males-and-females-dr-rena-malik-scim6177024080.md) — Huberman Lab interview on pelvic-floor function matching, sexual desire and arousal, erectile and urinary health, recurrent UTIs, communication, and mechanism-based care.
 - [VOL.67无·事｜听躺进ICU的医生和普通病人在聊些什么？知道越多越恐惧？｜献礼医师节彩蛋](sources/lswakifoozu5vkckl5n-nzndj43e-lswakifoozu5vkckl5n-nzndj43e.md) — 这病说来话长 episode on ICU survivor experience, pulmonary-embolism escalation, anesthesiology, informed clinical trust, and responsible public medical communication.
+- [358: Viking Sorcery](sources/358-viking-sorcery-glt1200485419.md) — The Rest Is History conversation with Neil Price on Viking worldview, seiðr, ritual violence, Valkyries, periodization, and the limits of reconstruction.
 - [359: Martin Luther King's Dream](sources/359-martin-luther-kings-dream-glt8593313865.md) — The Rest Is History episode on the 1963 March on Washington, King's patriotic and prophetic rhetoric, prepared improvisation, coalition organization, and selectively hopeful afterlife.
 - [361. The Lost Library of Alexandria](sources/361-the-lost-library-of-alexandria-glt1578679297.md) — The Rest Is History episode on Ptolemaic scholarship, the library's Greek literary focus, uncertain physical form, and gradual loss behind the single-destruction myth.
 - [AI 时代，我们到底该学什么？｜对谈于红：三种不会过时的能力](sources/ai-shidai-women-daodi-gai-xue-shenme-duitan-yuhong-sanzhong-buhui-guoshi-de-nengli-lkcmj80qyw-uduhijfxudufqboaf.md) — 十字路口Crossing访谈于红，讨论社会情感学习、情绪信号、自我认知、反思式选择、智识诚实复盘与 AI 时代的长期能力。
@@ -3046,6 +3047,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [360. Fear City: New York in the 1970s](sources/360-fear-city-new-york-in-the-1970s-glt7107047696.md) — The Rest Is History episode on the 1977 blackout, fiscal collapse, crime politics, urban dystopia, Ed Koch, and crisis-driven private redevelopment.
 
 ## Entities
+- [Neil Price](entities/NeilPrice.md) — Archaeologist interpreting Viking worldview, magic, ritual, violence, and historical uncertainty without romanticization.
 - [Rena Malik](entities/RenaMalik.md) — Urologist and pelvic surgeon using mechanism-matched, non-shaming assessment across male and female urinary and sexual health.
 - [大杨杨 / Da Yangyang](entities/DaYangYang.md) — Source-scoped patient narrator connecting repeated illness, ICU safety, humor, and experience-based writing.
 - [亮哥 / Liang Ge (Anesthesiologist)](entities/LiangGeAnesthesiologist.md) — Source-scoped anesthesiologist, pulmonary-embolism survivor, and humorous medical communicator.
@@ -10489,7 +10491,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Enkidu / 恩启都](entities/Enkidu.md) — Gilgamesh's counterpart and friend whose death turns heroic adventure into mortality knowledge in EP269.
 - [The Poetic Edda / 诗体埃达](entities/PoeticEdda.md) — Old Norse poetic collection used in EP269 to introduce gods, heroic material, Ragnarok, and oral/manuscript layering.
 - [The Prose Edda / 散文埃达](entities/ProseEdda.md) — Medieval explanatory Norse text used in EP269 as a companion and organizing guide to Edda material.
-- [Odin / 奥丁](entities/Odin.md) — Norse god read in EP269 as a knowledge-seeker preparing for Ragnarok, with Marvel kinship changes marked as adaptation.
+- [Odin / 奥丁](entities/Odin.md) — Contradictory Norse figure of knowledge, runes, elite legitimacy, wandering, war, mind, magic, sacrifice, and unreliable patronage.
 - [Thor / 托尔](entities/Thor.md) — Norse god and Marvel superhero reference used in EP269 to contrast Edda trickery and modern heroic simplification.
 - [Loki / 洛基](entities/Loki.md) — Norse figure whose Edda relations and Marvel rewriting make him a compact adaptation case in EP269.
 - [Valhalla / 瓦尔哈拉](entities/Valhalla.md) — Norse heroic afterlife hall in EP269, tied to Odin's warrior gathering, Ragnarok, and game/fantasy reuse.
@@ -14179,6 +14181,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [I Have a Dream Speech](entities/IHaveADreamSpeech.md) — King's 1963 address combining constitutional debt, patriotic promise, biblical prophecy, and prepared improvisation.
 
 ## Concepts
+- [Viking Age Worldview](concepts/VikingAgeWorldview.md) — Lived field joining gods, local beings, landscapes, animals, the dead, magic, danger, and practical conduct.
+- [Seiðr](concepts/Seidr.md) — Gendered Viking Age magic reconstructed through otherworld access, ritual comparison, sexuality, mind, and battle.
+- [Viking Ritual Violence](concepts/VikingRitualViolence.md) — Funerary sacrifice and animal slaughter held together with moral seriousness and evidential uncertainty.
+- [Valkyries and Battle Fate](concepts/ValkyrieBattleFate.md) — Violent battle beings understood through fate-weaving, terror, weapons, movement, and mind rather than later romance alone.
+- [Viking Age Periodization](concepts/VikingAgePeriodization.md) — Distinction between memorable event boundaries and uneven social transformation from roughly 720-750 through the mid-11th century.
 - [Pelvic-Floor Function Matching](concepts/PelvicFloorFunctionMatching.md) — Assessment-led distinction among pelvic-floor weakness, excessive tension, pain, and poor coordination before rehabilitation is selected.
 - [Social-Emotional Learning / 社会情感学习](concepts/SocialEmotionalLearning.md) — 覆盖自我管理、人际与冲突处理、批判性解释和负责任决策的能力教育。
 - [Emotion Acceptance–Signal–Action Sequence / 情绪接纳—信号—行动顺序](concepts/EmotionAcceptanceSignalAction.md) — 先允许并识别情绪，再解释可能信号、调节状态并选择行动的顺序。
@@ -14817,7 +14824,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Saga Source Criticism](concepts/SagaSourceCriticism.md) — Method for preserving plausible historical outlines while grading later portents, speeches, supernatural details, routes, and heroic motifs.
 - [Sedated Gastrointestinal Endoscopy / 无痛胃肠镜](concepts/SedatedGastrointestinalEndoscopy.md) — End-to-end safety model joining preparation, intravenous anesthesia, continuous airway and vital-sign monitoring, examination, recovery, and aftercare.
 - [Endoscopy Pathology and Follow-up / 内镜病理与复诊闭环](concepts/EndoscopyPathologyFollowup.md) — Closed-loop model joining endoscopic images, pathology, intervention details, recovery instructions, and return interpretation.
-- [Battle of Stamford Bridge](concepts/BattleOfStamfordBridge.md) — 1066 English victory understood through a credible conquest bid, a divided invasion force, Harold's operational surprise, and qualified Viking-Age periodization.
+- [Battle of Stamford Bridge](concepts/BattleOfStamfordBridge.md) — 1066 English victory and symbolic Viking-Age endpoint, qualified by a credible conquest bid and uneven regional transformation.
 - [Functional Medicine Systems Model](concepts/FunctionalMedicineSystemsModel.md) — Multi-causal framework connecting chronic illness with interacting biological, environmental, behavioral, and social systems.
 - [Food As Multi-System Intervention](concepts/FoodAsMultiSystemIntervention.md) — Nutrition frame treating dietary patterns as simultaneous inputs to metabolism, appetite, inflammation, hormones, microbiome, and recovery.
 - [Test-Intervene-Retest Loop](concepts/TestInterveneRetestLoop.md) — Individualized loop for establishing a baseline, changing inputs, measuring outcomes, and revising decisions with risk boundaries.
@@ -19850,7 +19857,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sensory Hypersensitivity Accommodation / 感官超敏适配](concepts/SensoryHypersensitivityAccommodation.md) — Practical frame for changing environments around intense sensory experience instead of treating overload as bad attitude.
 - [Gendered Fairy-Tale Punishment / 童话中的性别化惩罚](concepts/GenderedFairyTalePunishment.md) — Pattern where fairy tales discipline women through bodily pain, exposure, lost voice, constrained movement, or compliance.
 - [Literary Ambiguity As Complexity / 文学混沌性](concepts/LiteraryAmbiguityAsComplexity.md) — Reading frame where strong works preserve conflicting pressures instead of collapsing into one clean answer.
-- [Norse Mythology / 北欧神话](concepts/NorseMythology.md) — Mythology field opened by EP269 and extended by episode 31 through Martin's northern fantasy atmosphere: Others, ravens, wargs, frost-giant imagery, and winter threat.
+- [Norse Mythology / 北欧神话](concepts/NorseMythology.md) — Layered field joining variable local stories, Edda preservation, lived Viking worldview, and modern literary or screen transformation.
 - [Ragnarok / 诸神的黄昏](concepts/Ragnarok.md) — Norse end-time and renewal pattern in EP269 where known doom sharpens courage and modern ecological/fantasy reinterpretation.
 - [Epic Modern Afterlife](concepts/EpicModernAfterlife.md) — EP269 pattern where ancient epics return through films, games, fantasy, superhero franchises, phrases, and reading culture.
 - [Oral Epic Repetition](concepts/OralEpicRepetition.md) — Cross-epic poetics frame from EP269 for repetition as memory, breath, chorus, and emotional accumulation.

@@ -15786,9 +15786,9 @@
       "url": "/wiki/entities/battleofshrewsbury/"
     },
     "BattleOfStamfordBridge": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1524879968 [GLT1524879968].md",
@@ -15796,9 +15796,16 @@
           "show": "The Rest Is History",
           "title": "555. 1066: Slaughter at Stamford Bridge (Part 2)",
           "url": "/wiki/sources/555-1066-slaughter-at-stamford-bridge-part-2-glt1524879968/"
+        },
+        {
+          "episode_file": "GLT1200485419 [GLT1200485419].md",
+          "key": "358-viking-sorcery-glt1200485419",
+          "show": "The Rest Is History",
+          "title": "358: Viking Sorcery",
+          "url": "/wiki/sources/358-viking-sorcery-glt1200485419/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/battleofstamfordbridge/"
     },
     "BattleOfStiklestad": {
@@ -111020,6 +111027,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/entities/neilarmstrong/"
     },
+    "NeilPrice": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1200485419 [GLT1200485419].md",
+          "key": "358-viking-sorcery-glt1200485419",
+          "show": "The Rest Is History",
+          "title": "358: Viking Sorcery",
+          "url": "/wiki/sources/358-viking-sorcery-glt1200485419/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/neilprice/"
+    },
     "NelsonMandela": {
       "episode_count": 2,
       "show_count": 2,
@@ -113063,9 +113086,9 @@
       "url": "/wiki/entities/normandy/"
     },
     "NorseMythology": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "EP269 从“漫威宇宙”到《奥德赛》：为何总要翻拍英雄史诗？ [ltKLOTheqpuP6oaMYflFzpXTIPsW].md",
@@ -113087,9 +113110,16 @@
           "show": "The Rest Is History",
           "title": "461. Dragons",
           "url": "/wiki/sources/461-dragons-glt6416738853/"
+        },
+        {
+          "episode_file": "GLT1200485419 [GLT1200485419].md",
+          "key": "358-viking-sorcery-glt1200485419",
+          "show": "The Rest Is History",
+          "title": "358: Viking Sorcery",
+          "url": "/wiki/sources/358-viking-sorcery-glt1200485419/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/norsemythology/"
     },
     "NorthAmericanBlueEnergyPartners": {
@@ -113939,6 +113969,29 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/odedrechavi/"
+    },
+    "Odin": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "EP269 从“漫威宇宙”到《奥德赛》：为何总要翻拍英雄史诗？ [ltKLOTheqpuP6oaMYflFzpXTIPsW].md",
+          "key": "ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw",
+          "show": "Talk三联",
+          "title": "EP269 从“漫威宇宙”到《奥德赛》：为何总要翻拍英雄史诗？",
+          "url": "/wiki/sources/ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw/"
+        },
+        {
+          "episode_file": "GLT1200485419 [GLT1200485419].md",
+          "key": "358-viking-sorcery-glt1200485419",
+          "show": "The Rest Is History",
+          "title": "358: Viking Sorcery",
+          "url": "/wiki/sources/358-viking-sorcery-glt1200485419/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/odin/"
     },
     "OdysseanLeadershipTrustFailure": {
       "episode_count": 1,
@@ -137275,6 +137328,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/seishonagon/"
     },
+    "Seidr": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1200485419 [GLT1200485419].md",
+          "key": "358-viking-sorcery-glt1200485419",
+          "show": "The Rest Is History",
+          "title": "358: Viking Sorcery",
+          "url": "/wiki/sources/358-viking-sorcery-glt1200485419/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/seidr/"
+    },
     "SeikoFootballClub": {
       "episode_count": 1,
       "show_count": 1,
@@ -158498,6 +158567,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/vaccinescheduletrustrebuilding/"
     },
+    "ValkyrieBattleFate": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1200485419 [GLT1200485419].md",
+          "key": "358-viking-sorcery-glt1200485419",
+          "show": "The Rest Is History",
+          "title": "358: Viking Sorcery",
+          "url": "/wiki/sources/358-viking-sorcery-glt1200485419/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/valkyriebattlefate/"
+    },
     "ValleyForge": {
       "episode_count": 1,
       "show_count": 1,
@@ -159521,6 +159606,38 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/vietnamwarcredibilitycollapse/"
     },
+    "VikingAgePeriodization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1200485419 [GLT1200485419].md",
+          "key": "358-viking-sorcery-glt1200485419",
+          "show": "The Rest Is History",
+          "title": "358: Viking Sorcery",
+          "url": "/wiki/sources/358-viking-sorcery-glt1200485419/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/vikingageperiodization/"
+    },
+    "VikingAgeWorldview": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1200485419 [GLT1200485419].md",
+          "key": "358-viking-sorcery-glt1200485419",
+          "show": "The Rest Is History",
+          "title": "358: Viking Sorcery",
+          "url": "/wiki/sources/358-viking-sorcery-glt1200485419/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/vikingageworldview/"
+    },
     "VikingEasternRoutes": {
       "episode_count": 1,
       "show_count": 1,
@@ -159536,6 +159653,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/concepts/vikingeasternroutes/"
+    },
+    "VikingRitualViolence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1200485419 [GLT1200485419].md",
+          "key": "358-viking-sorcery-glt1200485419",
+          "show": "The Rest Is History",
+          "title": "358: Viking Sorcery",
+          "url": "/wiki/sources/358-viking-sorcery-glt1200485419/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/vikingritualviolence/"
     },
     "ViktorMayerSchonberger": {
       "episode_count": 1,

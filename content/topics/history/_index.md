@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2094
+topic_total_pages: 2097
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1291,6 +1291,9 @@ topic_concepts:
   - key: "VictoryOverreachFailure"
     title: "Victory Overreach Failure / 数胜必亡式胜利反噬"
     url: "/wiki/concepts/victoryoverreachfailure/"
+  - key: "VikingAgePeriodization"
+    title: "Viking Age Periodization"
+    url: "/wiki/concepts/vikingageperiodization/"
   - key: "VirtueOverNaturalBarriers"
     title: "Virtue Over Natural Barriers / 德胜地险"
     url: "/wiki/concepts/virtueovernaturalbarriers/"
@@ -1988,6 +1991,9 @@ topic_entities:
   - key: "NationalCityBank"
     title: "National City Bank / 国民城市银行"
     url: "/wiki/entities/nationalcitybank/"
+  - key: "NeilPrice"
+    title: "Neil Price"
+    url: "/wiki/entities/neilprice/"
   - key: "NevilleChamberlain"
     title: "Neville Chamberlain / 张伯伦"
     url: "/wiki/entities/nevillechamberlain/"
@@ -4653,6 +4659,9 @@ topic_sources:
   - key: "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008"
     title: "318: Hundred Years' War: A Game of Thrones (Part 1)"
     url: "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+  - key: "358-viking-sorcery-glt1200485419"
+    title: "358: Viking Sorcery"
+    url: "/wiki/sources/358-viking-sorcery-glt1200485419/"
   - key: "359-martin-luther-kings-dream-glt8593313865"
     title: "359: Martin Luther King's Dream"
     url: "/wiki/sources/359-martin-luther-kings-dream-glt8593313865/"

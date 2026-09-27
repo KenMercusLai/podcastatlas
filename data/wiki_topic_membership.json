@@ -1521,6 +1521,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "358-viking-sorcery-glt1200485419": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "359-martin-luther-kings-dream-glt8593313865": [
     {
       "key": "history",
@@ -52500,6 +52507,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "NeilPrice": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "NelsonMandela": [
     {
       "key": "politics",
@@ -77713,6 +77727,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "VikingAgePeriodization": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "VikingEasternRoutes": [

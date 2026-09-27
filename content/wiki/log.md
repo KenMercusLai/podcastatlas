@@ -24116,3 +24116,11 @@ Added source `359-martin-luther-kings-dream-glt8593313865`; created `BayardRusti
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | 358: Viking Sorcery
+
+Added source `358-viking-sorcery-glt1200485419`; created `NeilPrice`, `VikingAgeWorldview`, `Seidr`, `VikingRitualViolence`, `ValkyrieBattleFate`, and `VikingAgePeriodization`; and updated `Odin`, `NorseMythology`, `BattleOfStamfordBridge`, and the canonical index from their complete bounded source sets. Core synthesis: Viking Age gods, local beings, landscapes, animals, death, magic, and daily practice are better approached as one lived field than divided by modern religion-versus-nature categories; seiðr, funerary sacrifice, Valkyries, battle magic, and Odin's contradictions reveal a worldview that is both morally unsettling and difficult to reconstruct. No settled contradiction was adopted. The conventional 793-1066 frame remains useful but is qualified by uneven social transformation, while Christian influence, Norse-Sami comparison, sexual ritual, Velsi and Ibn Fadlan parallels, berserkers, and specific ritual meanings remain interpretive or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

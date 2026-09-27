@@ -1003,6 +1003,10 @@
     "title": "351-西方政府禁止青少年使用社交媒体走到哪步了？",
     "url": "/wiki/sources/351-xifang-zhengfu-jinzhi-qingshaonian-shiyong-shejiao-meiti-zoudao-nabu-le-luvc8m2kuqkyv2hddfcse-6ogxym/"
   },
+  "358-viking-sorcery-glt1200485419": {
+    "title": "358: Viking Sorcery",
+    "url": "/wiki/sources/358-viking-sorcery-glt1200485419/"
+  },
   "359-martin-luther-kings-dream-glt8593313865": {
     "title": "359: Martin Luther King's Dream",
     "url": "/wiki/sources/359-martin-luther-kings-dream-glt8593313865/"
@@ -49379,6 +49383,10 @@
     "title": "Neil Mohan",
     "url": "/wiki/entities/neilmohan/"
   },
+  "NeilPrice": {
+    "title": "Neil Price",
+    "url": "/wiki/entities/neilprice/"
+  },
   "NelsonMandela": {
     "title": "Nelson Mandela",
     "url": "/wiki/entities/nelsonmandela/"
@@ -61847,6 +61855,10 @@
     "title": "Sei Shonagon",
     "url": "/wiki/entities/seishonagon/"
   },
+  "Seidr": {
+    "title": "Seiðr",
+    "url": "/wiki/concepts/seidr/"
+  },
   "Seiko": {
     "title": "Seiko",
     "url": "/wiki/entities/seiko/"
@@ -71891,6 +71903,10 @@
     "title": "Validated Learning",
     "url": "/wiki/concepts/validatedlearning/"
   },
+  "ValkyrieBattleFate": {
+    "title": "Valkyries and Battle Fate",
+    "url": "/wiki/concepts/valkyriebattlefate/"
+  },
   "ValleyForge": {
     "title": "Valley Forge",
     "url": "/wiki/entities/valleyforge/"
@@ -72367,9 +72383,21 @@
     "title": "Vigilante Justice Universalization Risk",
     "url": "/wiki/concepts/vigilantejusticeuniversalizationrisk/"
   },
+  "VikingAgePeriodization": {
+    "title": "Viking Age Periodization",
+    "url": "/wiki/concepts/vikingageperiodization/"
+  },
+  "VikingAgeWorldview": {
+    "title": "Viking Age Worldview",
+    "url": "/wiki/concepts/vikingageworldview/"
+  },
   "VikingEasternRoutes": {
     "title": "Viking Eastern Routes",
     "url": "/wiki/concepts/vikingeasternroutes/"
+  },
+  "VikingRitualViolence": {
+    "title": "Viking Ritual Violence",
+    "url": "/wiki/concepts/vikingritualviolence/"
   },
   "VikrantLal": {
     "title": "Vikrant Lal",

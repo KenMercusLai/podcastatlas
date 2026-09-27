@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 8526
+wiki_total_pages: 8531
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -455,6 +455,9 @@ wiki_pages:
   - key: "SeizureFirstAidBoundary"
     title: "Seizure First-Aid Boundary / 抽搐急救边界"
     url: "/wiki/concepts/seizurefirstaidboundary/"
+  - key: "Seidr"
+    title: "Seiðr"
+    url: "/wiki/concepts/seidr/"
   - key: "SelectiveAnthemCanonization"
     title: "Selective Anthem Canonization"
     url: "/wiki/concepts/selectiveanthemcanonization/"

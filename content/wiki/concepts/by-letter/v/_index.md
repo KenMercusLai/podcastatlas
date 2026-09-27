@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "v"
-wiki_total_pages: 8526
+wiki_total_pages: 8531
 wiki_pages:
   - key: "VacationShame"
     title: "Vacation Shame / 休假羞耻感"
@@ -17,6 +17,9 @@ wiki_pages:
   - key: "ValidatedLearning"
     title: "Validated Learning"
     url: "/wiki/concepts/validatedlearning/"
+  - key: "ValkyrieBattleFate"
+    title: "Valkyries and Battle Fate"
+    url: "/wiki/concepts/valkyriebattlefate/"
   - key: "ValleyForgeMythLogistics"
     title: "Valley Forge Myth-Logistics"
     url: "/wiki/concepts/valleyforgemythlogistics/"
@@ -221,9 +224,18 @@ wiki_pages:
   - key: "VigilanteJusticeUniversalizationRisk"
     title: "Vigilante Justice Universalization Risk"
     url: "/wiki/concepts/vigilantejusticeuniversalizationrisk/"
+  - key: "VikingAgePeriodization"
+    title: "Viking Age Periodization"
+    url: "/wiki/concepts/vikingageperiodization/"
+  - key: "VikingAgeWorldview"
+    title: "Viking Age Worldview"
+    url: "/wiki/concepts/vikingageworldview/"
   - key: "VikingEasternRoutes"
     title: "Viking Eastern Routes"
     url: "/wiki/concepts/vikingeasternroutes/"
+  - key: "VikingRitualViolence"
+    title: "Viking Ritual Violence"
+    url: "/wiki/concepts/vikingritualviolence/"
   - key: "VillageSelfGovernance"
     title: "Village Self-Governance / 村庄自主治理"
     url: "/wiki/concepts/villageselfgovernance/"
