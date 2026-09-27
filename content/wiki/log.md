@@ -24044,3 +24044,11 @@ Added source `vol-69-xueyeneike-he-kafei-he-cha-hui-pinxue-ma-yuejing-liang-da-h
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | 362. The Taj Mahal: Love and Death
+
+Added source `362-the-taj-mahal-love-and-death-glt2445608477`; created `TajMahal`, `MughalEmpire`, `ShahJahan`, `MumtazMahal`, `Aurangzeb`, `MughalArchitecturalSynthesis`, `TajMahalParadiseSymbolism`, and `ContestedMonumentReattribution`; and updated `MonumentalDynasticLegitimation` plus the canonical index from the complete bounded source set. Core synthesis: the Taj Mahal joins genuine grief and consort commemoration to a composite Mughal architectural language, Quranic paradise imagery, and Shah Jahan's ideal kingship, while later myths, national adoption, tourism, and Hindu-origin claims show how an imperial Muslim monument became a globally marketable and politically contested Indian symbol. No settled contradiction with existing wiki content was found. The murdered-craftsmen story, “Black Taj,” Bentinck demolition story, and Hindu palace or temple origin claims are rejected or retained as unsupported, while dates, motives, inscription counts, conservation effects, and contemporary political examples remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8499
+wiki_total_pages: 8502
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1841,6 +1841,9 @@ wiki_pages:
   - key: "ContestedForensicAttribution"
     title: "Contested Forensic Attribution"
     url: "/wiki/concepts/contestedforensicattribution/"
+  - key: "ContestedMonumentReattribution"
+    title: "Contested Monument Reattribution"
+    url: "/wiki/concepts/contestedmonumentreattribution/"
   - key: "ContextDecay"
     title: "Context Decay"
     url: "/wiki/concepts/contextdecay/"

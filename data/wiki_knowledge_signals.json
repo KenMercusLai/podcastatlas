@@ -13162,6 +13162,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/entities/aulusplautius/"
     },
+    "Aurangzeb": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2445608477 [GLT2445608477].md",
+          "key": "362-the-taj-mahal-love-and-death-glt2445608477",
+          "show": "The Rest Is History",
+          "title": "362. The Taj Mahal: Love and Death",
+          "url": "/wiki/sources/362-the-taj-mahal-love-and-death-glt2445608477/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/aurangzeb/"
+    },
     "AurelPopovici": {
       "episode_count": 1,
       "show_count": 1,
@@ -32483,6 +32499,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/concepts/contentseedingmarketing/"
+    },
+    "ContestedMonumentReattribution": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2445608477 [GLT2445608477].md",
+          "key": "362-the-taj-mahal-love-and-death-glt2445608477",
+          "show": "The Rest Is History",
+          "title": "362. The Taj Mahal: Love and Death",
+          "url": "/wiki/sources/362-the-taj-mahal-love-and-death-glt2445608477/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/contestedmonumentreattribution/"
     },
     "ContextDependentBiomedicalInterventions": {
       "episode_count": 2,
@@ -107737,9 +107769,9 @@
       "url": "/wiki/entities/montoneros/"
     },
     "MonumentalDynasticLegitimation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7808118779 [GLT7808118779].md",
@@ -107747,9 +107779,16 @@
           "show": "The Rest Is History",
           "title": "369. The Colosseum: Rome's Arena of Death",
           "url": "/wiki/sources/369-the-colosseum-romes-arena-of-death-glt7808118779/"
+        },
+        {
+          "episode_file": "GLT2445608477 [GLT2445608477].md",
+          "key": "362-the-taj-mahal-love-and-death-glt2445608477",
+          "show": "The Rest Is History",
+          "title": "362. The Taj Mahal: Love and Death",
+          "url": "/wiki/sources/362-the-taj-mahal-love-and-death-glt2445608477/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/monumentaldynasticlegitimation/"
     },
     "MoodMeterEmotionalCheckIn": {
@@ -108442,6 +108481,38 @@
       "updated": "2026-09-19",
       "url": "/wiki/entities/msmagazine/"
     },
+    "MughalArchitecturalSynthesis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2445608477 [GLT2445608477].md",
+          "key": "362-the-taj-mahal-love-and-death-glt2445608477",
+          "show": "The Rest Is History",
+          "title": "362. The Taj Mahal: Love and Death",
+          "url": "/wiki/sources/362-the-taj-mahal-love-and-death-glt2445608477/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/mughalarchitecturalsynthesis/"
+    },
+    "MughalEmpire": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2445608477 [GLT2445608477].md",
+          "key": "362-the-taj-mahal-love-and-death-glt2445608477",
+          "show": "The Rest Is History",
+          "title": "362. The Taj Mahal: Love and Death",
+          "url": "/wiki/sources/362-the-taj-mahal-love-and-death-glt2445608477/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/mughalempire/"
+    },
     "MultiAgentCollaboration": {
       "episode_count": 9,
       "show_count": 7,
@@ -108655,6 +108726,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/concepts/multisensorybeverageexperience/"
+    },
+    "MumtazMahal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2445608477 [GLT2445608477].md",
+          "key": "362-the-taj-mahal-love-and-death-glt2445608477",
+          "show": "The Rest Is History",
+          "title": "362. The Taj Mahal: Love and Death",
+          "url": "/wiki/sources/362-the-taj-mahal-love-and-death-glt2445608477/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/mumtazmahal/"
     },
     "MunicipalTransparencyCompromise": {
       "episode_count": 1,
@@ -137402,6 +137489,22 @@
       "updated": "2026-09-25",
       "url": "/wiki/concepts/shadowintegration/"
     },
+    "ShahJahan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2445608477 [GLT2445608477].md",
+          "key": "362-the-taj-mahal-love-and-death-glt2445608477",
+          "show": "The Rest Is History",
+          "title": "362. The Taj Mahal: Love and Death",
+          "url": "/wiki/sources/362-the-taj-mahal-love-and-death-glt2445608477/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/shahjahan/"
+    },
     "Shahed136": {
       "episode_count": 2,
       "show_count": 2,
@@ -149448,6 +149551,38 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/taixuecollectivepetition/"
+    },
+    "TajMahal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2445608477 [GLT2445608477].md",
+          "key": "362-the-taj-mahal-love-and-death-glt2445608477",
+          "show": "The Rest Is History",
+          "title": "362. The Taj Mahal: Love and Death",
+          "url": "/wiki/sources/362-the-taj-mahal-love-and-death-glt2445608477/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/tajmahal/"
+    },
+    "TajMahalParadiseSymbolism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2445608477 [GLT2445608477].md",
+          "key": "362-the-taj-mahal-love-and-death-glt2445608477",
+          "show": "The Rest Is History",
+          "title": "362. The Taj Mahal: Love and Death",
+          "url": "/wiki/sources/362-the-taj-mahal-love-and-death-glt2445608477/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/tajmahalparadisesymbolism/"
     },
     "TalentSummonsRulerSelfExamination": {
       "episode_count": 1,

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 11089
+wiki_total_pages: 11094
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -65,6 +65,9 @@ wiki_pages:
   - key: "TaiwanStrait"
     title: "Taiwan Strait"
     url: "/wiki/entities/taiwanstrait/"
+  - key: "TajMahal"
+    title: "Taj Mahal"
+    url: "/wiki/entities/tajmahal/"
   - key: "TakaichiSanae"
     title: "Takaichi Sanae"
     url: "/wiki/entities/takaichisanae/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 11089
+wiki_total_pages: 11094
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -1406,6 +1406,9 @@ wiki_pages:
   - key: "MTRCorporation"
     title: "MTR Corporation / 香港地鐵"
     url: "/wiki/entities/mtrcorporation/"
+  - key: "MughalEmpire"
+    title: "Mughal Empire"
+    url: "/wiki/entities/mughalempire/"
   - key: "MuhammadAtalla"
     title: "Muhammad Atalla"
     url: "/wiki/entities/muhammadatalla/"
@@ -1424,6 +1427,9 @@ wiki_pages:
   - key: "MultiPlan"
     title: "MultiPlan"
     url: "/wiki/entities/multiplan/"
+  - key: "MumtazMahal"
+    title: "Mumtaz Mahal"
+    url: "/wiki/entities/mumtazmahal/"
   - key: "MurasakiShikibu"
     title: "Murasaki Shikibu"
     url: "/wiki/entities/murasakishikibu/"

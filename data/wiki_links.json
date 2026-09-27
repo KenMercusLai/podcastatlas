@@ -1011,6 +1011,10 @@
     "title": "361 Degrees",
     "url": "/wiki/entities/361degrees/"
   },
+  "362-the-taj-mahal-love-and-death-glt2445608477": {
+    "title": "362. The Taj Mahal: Love and Death",
+    "url": "/wiki/sources/362-the-taj-mahal-love-and-death-glt2445608477/"
+  },
   "363-sixties-fashion-the-teenage-revolution-part-1-glt5487814001": {
     "title": "363. Sixties Fashion: The Teenage Revolution (Part 1)",
     "url": "/wiki/sources/363-sixties-fashion-the-teenage-revolution-part-1-glt5487814001/"
@@ -7962,6 +7966,10 @@
   "AungSanSuuKyi": {
     "title": "Aung San Suu Kyi",
     "url": "/wiki/entities/aungsansuukyi/"
+  },
+  "Aurangzeb": {
+    "title": "Aurangzeb",
+    "url": "/wiki/entities/aurangzeb/"
   },
   "AurelPopovici": {
     "title": "Aurel Popovici",
@@ -16778,6 +16786,10 @@
   "ContestedForensicAttribution": {
     "title": "Contested Forensic Attribution",
     "url": "/wiki/concepts/contestedforensicattribution/"
+  },
+  "ContestedMonumentReattribution": {
+    "title": "Contested Monument Reattribution",
+    "url": "/wiki/concepts/contestedmonumentreattribution/"
   },
   "ContextDecay": {
     "title": "Context Decay",
@@ -48239,6 +48251,14 @@
     "title": "Mt. Gox",
     "url": "/wiki/entities/mtgox/"
   },
+  "MughalArchitecturalSynthesis": {
+    "title": "Mughal Architectural Synthesis",
+    "url": "/wiki/concepts/mughalarchitecturalsynthesis/"
+  },
+  "MughalEmpire": {
+    "title": "Mughal Empire",
+    "url": "/wiki/entities/mughalempire/"
+  },
   "MuhammadAtalla": {
     "title": "Muhammad Atalla",
     "url": "/wiki/entities/muhammadatalla/"
@@ -48346,6 +48366,10 @@
   "MultispeciesArchives": {
     "title": "Multispecies Archives",
     "url": "/wiki/concepts/multispeciesarchives/"
+  },
+  "MumtazMahal": {
+    "title": "Mumtaz Mahal",
+    "url": "/wiki/entities/mumtazmahal/"
   },
   "MunchausenBaron": {
     "title": "敏锡豪森男爵 / Baron Munchausen",
@@ -62143,6 +62167,10 @@
     "title": "Shadow Integration",
     "url": "/wiki/concepts/shadowintegration/"
   },
+  "ShahJahan": {
+    "title": "Shah Jahan",
+    "url": "/wiki/entities/shahjahan/"
+  },
   "Shahed136": {
     "title": "Shahed 136",
     "url": "/wiki/entities/shahed136/"
@@ -67386,6 +67414,14 @@
   "TaiziJianChu": {
     "title": "太子建 / Crown Prince Jian of Chu",
     "url": "/wiki/entities/taizijianchu/"
+  },
+  "TajMahal": {
+    "title": "Taj Mahal",
+    "url": "/wiki/entities/tajmahal/"
+  },
+  "TajMahalParadiseSymbolism": {
+    "title": "Taj Mahal Paradise Symbolism",
+    "url": "/wiki/concepts/tajmahalparadisesymbolism/"
   },
   "TakagiNaoko": {
     "title": "高木直子 / Takagi Naoko",

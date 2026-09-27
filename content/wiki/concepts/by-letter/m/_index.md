@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 8499
+wiki_total_pages: 8502
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1259,6 +1259,9 @@ wiki_pages:
   - key: "MSPChannelDistribution"
     title: "MSP Channel Distribution"
     url: "/wiki/concepts/mspchanneldistribution/"
+  - key: "MughalArchitecturalSynthesis"
+    title: "Mughal Architectural Synthesis"
+    url: "/wiki/concepts/mughalarchitecturalsynthesis/"
   - key: "MultiAgentCollaboration"
     title: "Multi-Agent Collaboration"
     url: "/wiki/concepts/multiagentcollaboration/"

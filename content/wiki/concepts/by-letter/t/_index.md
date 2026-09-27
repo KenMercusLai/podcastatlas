@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 8499
+wiki_total_pages: 8502
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -68,6 +68,9 @@ wiki_pages:
   - key: "TaiwanMynaManagement"
     title: "Taiwan Myna Management / 台灣外來八哥管理"
     url: "/wiki/concepts/taiwanmynamanagement/"
+  - key: "TajMahalParadiseSymbolism"
+    title: "Taj Mahal Paradise Symbolism"
+    url: "/wiki/concepts/tajmahalparadisesymbolism/"
   - key: "TakeItDownAct"
     title: "Take It Down Act"
     url: "/wiki/concepts/takeitdownact/"

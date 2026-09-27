@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [362. The Taj Mahal: Love and Death](sources/362-the-taj-mahal-love-and-death-glt2445608477.md) — The Rest Is History episode on love, grief, Mughal architectural synthesis, paradise imagery, monumental kingship, unsupported legends, and contested Indian memory.
 - [VOL.69血液内科｜喝咖啡喝茶会贫血吗？月经量大会贫血吗？吃红枣阿胶有用吗？关于贫血的误区](sources/vol-69-xueyeneike-he-kafei-he-cha-hui-pinxue-ma-yuejing-liang-da-hui-pinxue-ma-chi-hongzao-ejiao-you-yong-ma-guanyu-pinxue-de-wuqu-lhptpdej4gf-vd6dlt0bjbu_8wi4.md) — 这病说来话长 episode on anemia recognition, cause classification, iron-deficiency evaluation, bleeding, absorption, replacement, and supplement myths.
 - [363. Sixties Fashion: The Teenage Revolution (Part 1)](sources/363-sixties-fashion-the-teenage-revolution-part-1-glt5487814001.md) — The Rest Is History episode on postwar austerity, youth subcultures, Mary Quant, teenage consumers, and fashion-media celebrity before Swinging London's peak.
 - [Goals Toolkit: How to Set & Achieve Your Goals](sources/goals-toolkit-how-to-set-achieve-your-goals-scim1532399364.md) — Huberman Lab solo episode on one-priority goal design, measurable actions, state-matched visualization, visual focus, intermittent self-reward, and middle-stage chunking.
@@ -3035,6 +3036,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.70精神科｜又失眠了？真的可治愈！三甲精神科医生给你睡眠支招](sources/vol-70-jingshenke-you-shimian-le-zhende-ke-zhiyu-sanjia-jingshenke-yisheng-gei-ni-shuimian-zhizhao-lkfpagwnhiqlhyyz71xwefocyhf0.md) — 这病说来话长 episode on insomnia recognition, sleep-anxiety feedback, clinical measurement, individualized treatment, and cause-directed sleep care.
 
 ## Entities
+- [Taj Mahal](entities/TajMahal.md) — Mughal funerary complex joining personal memorial, sacred landscape, imperial kingship, national symbolism, tourism, and contested memory.
+- [Mughal Empire](entities/MughalEmpire.md) — South Asian empire whose composite court culture, monuments, succession politics, and modern memory frame the Taj Mahal branch.
+- [Shah Jahan](entities/ShahJahan.md) — Mughal emperor whose grief for Mumtaz Mahal and ideal-kingship project came together in the Taj Mahal.
+- [Mumtaz Mahal](entities/MumtazMahal.md) — Mughal imperial consort whose death in childbirth prompted Shah Jahan's monumental memorial at Agra.
+- [Aurangzeb](entities/Aurangzeb.md) — Mughal successor whose victory over his brothers led to Shah Jahan's confinement and final burial beside Mumtaz.
 - [Christian Dior](entities/ChristianDior.md) — French designer whose 1947 New Look restored postwar Parisian glamour against utility austerity.
 - [David Bailey](entities/DavidBailey.md) — London fashion photographer whose informal imagery and celebrity helped export the Swinging London look.
 - [Emily Balcetis](entities/EmilyBalcetis.md) — Researcher cited for work connecting visual targeting, perceived effort, and goal pursuit.
@@ -14142,6 +14148,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The 120 Days of Sodom](entities/The120DaysOfSodom.md) — Sade's prison-written novel of sealed, scheduled, and escalating domination.
 
 ## Concepts
+- [Mughal Architectural Synthesis](concepts/MughalArchitecturalSynthesis.md) — Formation of Mughal design through Timurid, Persianate, Islamic Indian, and Indian architectural inheritances.
+- [Taj Mahal Paradise Symbolism](concepts/TajMahalParadiseSymbolism.md) — Quranic, garden, water, gateway, and processional program framing the mausoleum as an approach toward paradise.
+- [Contested Monument Reattribution](concepts/ContestedMonumentReattribution.md) — Political replacement of a prestigious monument's documented origin with a preferred religious or national story.
 - [Anemia Diagnostic Reasoning](concepts/AnemiaDiagnosticReasoning.md) — Framework for confirming anemia and distinguishing reduced production, red-cell destruction, and blood loss.
 - [Iron Deficiency Anemia Management](concepts/IronDeficiencyAnemiaManagement.md) — Cause-directed iron-deficiency care spanning confirmation, loss or absorption review, replacement, tolerability, and follow-up.
 - [Postwar Fashion Consumer Revolution](concepts/PostwarFashionConsumerRevolution.md) — Shift from rationed durability toward youth-led, media-amplified, rapidly changing fashion consumption.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 11089
+wiki_total_pages: 11094
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1562,6 +1562,9 @@ wiki_pages:
   - key: "AungSanSuuKyi"
     title: "Aung San Suu Kyi"
     url: "/wiki/entities/aungsansuukyi/"
+  - key: "Aurangzeb"
+    title: "Aurangzeb"
+    url: "/wiki/entities/aurangzeb/"
   - key: "AurelPopovici"
     title: "Aurel Popovici"
     url: "/wiki/entities/aurelpopovici/"
