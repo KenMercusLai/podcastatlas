@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8550
+wiki_total_pages: 8552
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1883,6 +1883,9 @@ wiki_pages:
   - key: "ProteinSupplyChainMarketFit"
     title: "Protein Supply Chain Market Fit / 蛋白质供应链市场匹配"
     url: "/wiki/concepts/proteinsupplychainmarketfit/"
+  - key: "ProtestEscalationLoop"
+    title: "Protest Escalation Loop"
+    url: "/wiki/concepts/protestescalationloop/"
   - key: "ProtestMediaSpectacle"
     title: "Protest Media Spectacle"
     url: "/wiki/concepts/protestmediaspectacle/"

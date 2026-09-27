@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2105
+topic_total_pages: 2106
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4671,6 +4671,9 @@ topic_sources:
   - key: "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008"
     title: "318: Hundred Years' War: A Game of Thrones (Part 1)"
     url: "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+  - key: "353-paris-1968-the-students-revolt-part-1-glt6124707164"
+    title: "353: Paris 1968: The Students' Revolt (Part 1)"
+    url: "/wiki/sources/353-paris-1968-the-students-revolt-part-1-glt6124707164/"
   - key: "354-paris-1968-the-return-of-de-gaulle-part-2-glt6246374874"
     title: "354: Paris 1968: The Return of De Gaulle (Part 2)"
     url: "/wiki/sources/354-paris-1968-the-return-of-de-gaulle-part-2-glt6246374874/"

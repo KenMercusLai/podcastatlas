@@ -10,6 +10,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.61皮肤科｜你被这些护肤词汇营销了吗？三甲医生揭保湿补水控油去角质的秘密](sources/vol-61-pifuke-ni-bei-zhexie-hufu-cihui-yingxiao-le-ma-sanjia-yisheng-jie-baoshi-bushui-kongyou-qujiaozhi-de-mimi-ljdsdo6iw9zyvt4olcfnq6bnix2j.md) — 这病说来话长 Q&A on barrier-first skin care, UV protection, acne and scarring, cosmetic-marketing limits, and clinician-guided treatment.
 - [VOL.62皮肤科｜到底哪些情况最易脱发、白发、伤发？帮你避坑这些智商税](sources/vol-62-pifuke-daodi-naxie-qingkuang-zui-yi-tuofa-baifa-shangfa-bang-ni-bikeng-zhexie-zhishangshui-lreu9n7fvkwgotiewa2yenhur4dp.md) — 这病说来话长 episode on hair-loss triage, follicle-cycle treatment expectations, scalp-care limits, gray hair, dyeing, and transplantation.
 - [354: Paris 1968: The Return of De Gaulle (Part 2)](sources/354-paris-1968-the-return-of-de-gaulle-part-2-glt6246374874.md) — The Rest Is History episode on de Gaulle's May 1968 collapse and recovery, the Gaullist election landslide, and the movement's disputed cultural afterlife.
+- [353: Paris 1968: The Students' Revolt (Part 1)](sources/353-paris-1968-the-students-revolt-part-1-glt6124707164.md) — The Rest Is History episode on university strain, police escalation, revolutionary theater, media transmission, and the distinct student and worker currents of May 1968.
 - [355: Roman Apocalypse: Pompeii 79 AD](sources/355-roman-apocalypse-pompeii-79-ad-glt6664993493.md) — The Rest Is History episode reconstructing Vesuvius's staged destruction of Pompeii and Herculaneum through Plinian testimony, archaeology, seasonal evidence, and volcanology.
 - [356: The Blood-Drinking Bride of Christ](sources/356-the-blood-drinking-bride-of-christ-glt8496536394.md) — The Rest Is History episode on Catherine of Siena's ascetic mysticism, gendered religious authority, papal diplomacy, and the limits of retrospective diagnosis.
 - [Ketamine: Benefits and Risks for Depression, PTSD & Neuroplasticity](sources/ketamine-benefits-risks-for-depression-ptsd-neuroplasticity-scim3757014952.md) — Huberman Lab solo episode on rapid but often time-limited psychiatric benefit, NMDA/BDNF/opioid mechanisms, route-dependent exposure, dissociation, and supervised-use boundaries.
@@ -3061,8 +3062,10 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Entities
 - [黄心律 / Huang Xinlü (dermatologist)](entities/HuangXinlvDermatologist.md) — Dermatologist explaining barrier-first skin care, inflammatory-condition escalation, hair-loss differentiation, and treatment-marketing boundaries.
-- [Charles de Gaulle](entities/CharlesDeGaulle.md) — French president whose May 1968 loss and recovery of authority culminated in parliamentary dissolution and an election landslide.
-- [May 1968 in France](entities/May1968France.md) — Student, worker, and political crisis ending in immediate Gaullist electoral victory but a disputed cultural legacy.
+- [Daniel Cohn-Bendit](entities/DanielCohnBendit.md) — Libertarian Nanterre activist and visible student spokesman whose prominence did not make May 1968 a unified movement.
+- [Georges Pompidou](entities/GeorgesPompidou.md) — French prime minister connecting early conciliation during May 1968 to the later electoral exit through parliamentary dissolution.
+- [Charles de Gaulle](entities/CharlesDeGaulle.md) — French president who underestimated May 1968 before recovering authority through army reassurance, dissolution, radio, and elections.
+- [May 1968 in France](entities/May1968France.md) — University, street, strike, and political crisis ending in immediate Gaullist electoral victory but a disputed cultural legacy.
 - [Mount Vesuvius](entities/MountVesuvius.md) — Active Campanian volcano joining regional fertility and settlement to the staged hazards of the 79 CE eruption.
 - [Pompeii](entities/Pompeii.md) — Roman city exposed to prolonged darkness and pumice before a final fatal flow, preserved through archaeological traces.
 - [Herculaneum](entities/Herculaneum.md) — Roman coastal city initially spared heavy pumice but destroyed earlier by a pyroclastic surge.
@@ -11316,7 +11319,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jul / 朱勒尔](entities/JulCartoonist.md) — Satirical cartoonist credited as visual co-creator of 《柏拉图上班记》.
 - [Plato / 柏拉图](entities/Plato.md) — Philosopher represented through the cave allegory, workplace satire, and Atlantis as a political myth later reception repeatedly transforms.
 - [Socrates / 苏格拉底](entities/Socrates.md) — Mentor figure whose cave and hemlock motifs are rebuilt as office onboarding jokes.
-- [Michel Foucault / 福柯](entities/MichelFoucault.md) — Philosopher used to connect workplace surveillance, platform self-discipline, visibility, and anticipatory self-monitoring.
+- [Michel Foucault / 福柯](entities/MichelFoucault.md) — Philosopher used for surveillance and self-discipline, with May 1968 treated as retrospective reception rather than direct causal origin.
 - [Blaise Pascal / 帕斯卡](entities/BlaisePascal.md) — Employee caught gambling at work, connecting distraction, boredom, death anxiety, and monitored "摸鱼".
 - [Baruch Spinoza / 斯宾诺莎](entities/BaruchSpinoza.md) — Figure who reframes the absent boss-God as "NATURE" capital in the source's corporate theology joke.
 - [Thomas Aquinas / 托马斯·阿奎那](entities/ThomasAquinas.md) — Catholic workers' union envoy who defends God and criticizes brutalizing commercial competition.
@@ -14227,7 +14230,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Empathy-Mode Differentiation](concepts/EmpathyModeDifferentiation.md) — Distinction among emotional sharing, cognitive perspective-taking, and empathic concern.
 - [Peak-End Task Memory](concepts/PeakEndTaskMemory.md) — Bounded use of remembered peaks and endings to make worthwhile difficult tasks easier to repeat.
 - [Hair and Scalp Care Boundary / 头发与头皮护理边界](concepts/HairScalpCareBoundary.md) — Boundary separating conditional cleansing and shaft protection from diagnosis, follicle treatment, and commercial regrowth claims.
-- [Political Defeat and Cultural Afterlife](concepts/PoliticalDefeatCulturalAfterlife.md) — Distinction between losing the immediate contest for power and shaping later culture, memory, or intellectual language.
+- [Protest Escalation Loop](concepts/ProtestEscalationLoop.md) — Feedback process through which containment, policing, symbolic action, media, and wider mobilization enlarge a bounded dispute.
+- [Student-Worker Coalition Limits](concepts/StudentWorkerCoalitionLimits.md) — Distinction between overlapping protest and a coalition with shared demands, authority, strategy, and settlement.
+- [Political Defeat and Cultural Afterlife](concepts/PoliticalDefeatCulturalAfterlife.md) — Distinction among an event's diffuse outbreak, immediate political outcome, and later cultural or intellectual interpretation.
 - [Staged Volcanic Catastrophe](concepts/StagedVolcanicCatastrophe.md) — Time- and place-sensitive model separating warning, fall, accumulation, surge, flow, and temporary escape windows.
 - [Multi-Evidence Disaster Reconstruction](concepts/MultiEvidenceDisasterReconstruction.md) — Source-critical combination of testimony, archaeology, material traces, seasonal clues, and physical science.
 - [Medieval Female Ascetic Authority](concepts/MedievalFemaleAsceticAuthority.md) — How gendered bodily renunciation could become sanctity, public credibility, and political influence.

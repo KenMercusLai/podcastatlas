@@ -1521,6 +1521,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "353-paris-1968-the-students-revolt-part-1-glt6124707164": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "354-paris-1968-the-return-of-de-gaulle-part-2-glt6246374874": [
     {
       "key": "history",
@@ -59780,6 +59787,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "ProtestEscalationLoop": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "ProtestMediaSpectacle": [

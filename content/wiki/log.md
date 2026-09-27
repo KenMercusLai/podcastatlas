@@ -24227,3 +24227,11 @@ Added source `how-to-shape-your-identity-goals-dr-maya-shankar-scim1420437673`; 
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | 353: Paris 1968: The Students' Revolt (Part 1)
+
+Added source `353-paris-1968-the-students-revolt-part-1-glt6124707164`; created `DanielCohnBendit`, `GeorgesPompidou`, `ProtestEscalationLoop`, and `StudentWorkerCoalitionLimits`; and updated `May1968France`, `CharlesDeGaulle`, `MichelFoucault`, `PoliticalDefeatCulturalAfterlife`, and the canonical index from their complete bounded source sets. Core synthesis: university expansion and hierarchy, administrative closure, police violence, revolutionary theater, and media transmission turned bounded campus grievances into a national crisis, while the worker strike wave greatly increased leverage without creating a unified student-worker program. No settled contradiction was adopted. Participant totals, workforce proportions, remembered dialogue, motives, slogan attribution, and the causal weight of policing, media, or philosophy remain narrative or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

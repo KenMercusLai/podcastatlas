@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 11143
+wiki_total_pages: 11145
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -317,6 +317,9 @@ wiki_pages:
   - key: "GeorgesDanton"
     title: "Georges Danton / 丹东"
     url: "/wiki/entities/georgesdanton/"
+  - key: "GeorgesPompidou"
+    title: "Georges Pompidou"
+    url: "/wiki/entities/georgespompidou/"
   - key: "GeorgetownLawCenterOnPrivacyTechnology"
     title: "Georgetown Law Center on Privacy and Technology"
     url: "/wiki/entities/georgetownlawcenteronprivacytechnology/"

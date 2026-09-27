@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 11143
+wiki_total_pages: 11145
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -122,6 +122,9 @@ wiki_pages:
   - key: "DanielCohn"
     title: "Daniel Cohn"
     url: "/wiki/entities/danielcohn/"
+  - key: "DanielCohnBendit"
+    title: "Daniel Cohn-Bendit"
+    url: "/wiki/entities/danielcohnbendit/"
   - key: "DanielFranklin"
     title: "Daniel Franklin"
     url: "/wiki/entities/danielfranklin/"

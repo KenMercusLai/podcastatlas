@@ -1003,6 +1003,10 @@
     "title": "351-西方政府禁止青少年使用社交媒体走到哪步了？",
     "url": "/wiki/sources/351-xifang-zhengfu-jinzhi-qingshaonian-shiyong-shejiao-meiti-zoudao-nabu-le-luvc8m2kuqkyv2hddfcse-6ogxym/"
   },
+  "353-paris-1968-the-students-revolt-part-1-glt6124707164": {
+    "title": "353: Paris 1968: The Students' Revolt (Part 1)",
+    "url": "/wiki/sources/353-paris-1968-the-students-revolt-part-1-glt6124707164/"
+  },
   "354-paris-1968-the-return-of-de-gaulle-part-2-glt6246374874": {
     "title": "354: Paris 1968: The Return of De Gaulle (Part 2)",
     "url": "/wiki/sources/354-paris-1968-the-return-of-de-gaulle-part-2-glt6246374874/"
@@ -18607,6 +18611,10 @@
     "title": "Daniel Cohn",
     "url": "/wiki/entities/danielcohn/"
   },
+  "DanielCohnBendit": {
+    "title": "Daniel Cohn-Bendit",
+    "url": "/wiki/entities/danielcohnbendit/"
+  },
   "DanielFranklin": {
     "title": "Daniel Franklin",
     "url": "/wiki/entities/danielfranklin/"
@@ -28926,6 +28934,10 @@
   "GeorgesDanton": {
     "title": "Georges Danton / 丹东",
     "url": "/wiki/entities/georgesdanton/"
+  },
+  "GeorgesPompidou": {
+    "title": "Georges Pompidou",
+    "url": "/wiki/entities/georgespompidou/"
   },
   "GeorgetownLawCenterOnPrivacyTechnology": {
     "title": "Georgetown Law Center on Privacy and Technology",
@@ -56259,6 +56271,10 @@
     "title": "Protein Supply Chain Market Fit / 蛋白质供应链市场匹配",
     "url": "/wiki/concepts/proteinsupplychainmarketfit/"
   },
+  "ProtestEscalationLoop": {
+    "title": "Protest Escalation Loop",
+    "url": "/wiki/concepts/protestescalationloop/"
+  },
   "ProtestMediaSpectacle": {
     "title": "Protest Media Spectacle",
     "url": "/wiki/concepts/protestmediaspectacle/"
@@ -66442,6 +66458,10 @@
   "StubbinsFfirth": {
     "title": "Stubbins Ffirth / 斯塔宾斯·福斯",
     "url": "/wiki/entities/stubbinsffirth/"
+  },
+  "StudentWorkerCoalitionLimits": {
+    "title": "Student-Worker Coalition Limits",
+    "url": "/wiki/concepts/studentworkercoalitionlimits/"
   },
   "Studio54": {
     "title": "Studio 54",

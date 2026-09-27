@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2877
+topic_total_pages: 2878
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2155,6 +2155,9 @@ topic_concepts:
   - key: "PropagandaAesthetics"
     title: "Propaganda Aesthetics"
     url: "/wiki/concepts/propagandaaesthetics/"
+  - key: "ProtestEscalationLoop"
+    title: "Protest Escalation Loop"
+    url: "/wiki/concepts/protestescalationloop/"
   - key: "ProtestMediaSpectacle"
     title: "Protest Media Spectacle"
     url: "/wiki/concepts/protestmediaspectacle/"

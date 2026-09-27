@@ -25021,9 +25021,9 @@
       "url": "/wiki/entities/charlesdawson/"
     },
     "CharlesDeGaulle": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6246374874 [GLT6246374874].md",
@@ -25031,6 +25031,13 @@
           "show": "The Rest Is History",
           "title": "354: Paris 1968: The Return of De Gaulle (Part 2)",
           "url": "/wiki/sources/354-paris-1968-the-return-of-de-gaulle-part-2-glt6246374874/"
+        },
+        {
+          "episode_file": "GLT6124707164 [GLT6124707164].md",
+          "key": "353-paris-1968-the-students-revolt-part-1-glt6124707164",
+          "show": "The Rest Is History",
+          "title": "353: Paris 1968: The Students' Revolt (Part 1)",
+          "url": "/wiki/sources/353-paris-1968-the-students-revolt-part-1-glt6124707164/"
         }
       ],
       "updated": "2026-09-28",
@@ -36475,6 +36482,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/dangerousknowledgesecrecy/"
+    },
+    "DanielCohnBendit": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6124707164 [GLT6124707164].md",
+          "key": "353-paris-1968-the-students-revolt-part-1-glt6124707164",
+          "show": "The Rest Is History",
+          "title": "353: Paris 1968: The Students' Revolt (Part 1)",
+          "url": "/wiki/sources/353-paris-1968-the-students-revolt-part-1-glt6124707164/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/danielcohnbendit/"
     },
     "DaniloIllich": {
       "episode_count": 1,
@@ -63720,6 +63743,29 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/entities/georgesdanton/"
+    },
+    "GeorgesPompidou": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "GLT6246374874 [GLT6246374874].md",
+          "key": "354-paris-1968-the-return-of-de-gaulle-part-2-glt6246374874",
+          "show": "The Rest Is History",
+          "title": "354: Paris 1968: The Return of De Gaulle (Part 2)",
+          "url": "/wiki/sources/354-paris-1968-the-return-of-de-gaulle-part-2-glt6246374874/"
+        },
+        {
+          "episode_file": "GLT6124707164 [GLT6124707164].md",
+          "key": "353-paris-1968-the-students-revolt-part-1-glt6124707164",
+          "show": "The Rest Is History",
+          "title": "353: Paris 1968: The Students' Revolt (Part 1)",
+          "url": "/wiki/sources/353-paris-1968-the-students-revolt-part-1-glt6124707164/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/georgespompidou/"
     },
     "GeorgetownLawCenterOnPrivacyTechnology": {
       "episode_count": 1,
@@ -104358,9 +104404,9 @@
       "url": "/wiki/entities/maximilienrobespierre/"
     },
     "May1968France": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6246374874 [GLT6246374874].md",
@@ -104368,6 +104414,13 @@
           "show": "The Rest Is History",
           "title": "354: Paris 1968: The Return of De Gaulle (Part 2)",
           "url": "/wiki/sources/354-paris-1968-the-return-of-de-gaulle-part-2-glt6246374874/"
+        },
+        {
+          "episode_file": "GLT6124707164 [GLT6124707164].md",
+          "key": "353-paris-1968-the-students-revolt-part-1-glt6124707164",
+          "show": "The Rest Is History",
+          "title": "353: Paris 1968: The Students' Revolt (Part 1)",
+          "url": "/wiki/sources/353-paris-1968-the-students-revolt-part-1-glt6124707164/"
         }
       ],
       "updated": "2026-09-28",
@@ -106603,9 +106656,9 @@
       "url": "/wiki/entities/michaelplatt/"
     },
     "MichelFoucault": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "92.柏拉图上班记：用哲学搞笑职场 [716822350].md",
@@ -106627,6 +106680,13 @@
           "show": "The Rest Is History",
           "title": "354: Paris 1968: The Return of De Gaulle (Part 2)",
           "url": "/wiki/sources/354-paris-1968-the-return-of-de-gaulle-part-2-glt6246374874/"
+        },
+        {
+          "episode_file": "GLT6124707164 [GLT6124707164].md",
+          "key": "353-paris-1968-the-students-revolt-part-1-glt6124707164",
+          "show": "The Rest Is History",
+          "title": "353: Paris 1968: The Students' Revolt (Part 1)",
+          "url": "/wiki/sources/353-paris-1968-the-students-revolt-part-1-glt6124707164/"
         }
       ],
       "updated": "2026-09-28",
@@ -122497,9 +122557,9 @@
       "url": "/wiki/concepts/politicalcorpserelic/"
     },
     "PoliticalDefeatCulturalAfterlife": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6246374874 [GLT6246374874].md",
@@ -122507,6 +122567,13 @@
           "show": "The Rest Is History",
           "title": "354: Paris 1968: The Return of De Gaulle (Part 2)",
           "url": "/wiki/sources/354-paris-1968-the-return-of-de-gaulle-part-2-glt6246374874/"
+        },
+        {
+          "episode_file": "GLT6124707164 [GLT6124707164].md",
+          "key": "353-paris-1968-the-students-revolt-part-1-glt6124707164",
+          "show": "The Rest Is History",
+          "title": "353: Paris 1968: The Students' Revolt (Part 1)",
+          "url": "/wiki/sources/353-paris-1968-the-students-revolt-part-1-glt6124707164/"
         }
       ],
       "updated": "2026-09-28",
@@ -126339,6 +126406,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/proteinsupplychainmarketfit/"
+    },
+    "ProtestEscalationLoop": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6124707164 [GLT6124707164].md",
+          "key": "353-paris-1968-the-students-revolt-part-1-glt6124707164",
+          "show": "The Rest Is History",
+          "title": "353: Paris 1968: The Students' Revolt (Part 1)",
+          "url": "/wiki/sources/353-paris-1968-the-students-revolt-part-1-glt6124707164/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/protestescalationloop/"
     },
     "ProtestMediaSpectacle": {
       "episode_count": 1,
@@ -147957,6 +148040,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/entities/stuartmcmillan/"
+    },
+    "StudentWorkerCoalitionLimits": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6124707164 [GLT6124707164].md",
+          "key": "353-paris-1968-the-students-revolt-part-1-glt6124707164",
+          "show": "The Rest Is History",
+          "title": "353: Paris 1968: The Students' Revolt (Part 1)",
+          "url": "/wiki/sources/353-paris-1968-the-students-revolt-part-1-glt6124707164/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/studentworkercoalitionlimits/"
     },
     "Studio54": {
       "episode_count": 1,
