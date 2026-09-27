@@ -13551,6 +13551,10 @@
     "title": "陈纪 / Chen Ji (late Han)",
     "url": "/wiki/entities/chenjilatehan/"
   },
+  "ChenJiaHematologist": {
+    "title": "陈嘉医生 / Chen Jia (hematologist)",
+    "url": "/wiki/entities/chenjiahematologist/"
+  },
   "ChenJiaWarringStates": {
     "title": "陈甲 / Chen Jia (Warring States)",
     "url": "/wiki/entities/chenjiawarringstates/"
@@ -31827,6 +31831,10 @@
     "title": "Hemant Taneja",
     "url": "/wiki/entities/hemanttaneja/"
   },
+  "HematopoieticStemCellDonation": {
+    "title": "Hematopoietic Stem Cell Donation",
+    "url": "/wiki/concepts/hematopoieticstemcelldonation/"
+  },
   "Hemophilia": {
     "title": "Hemophilia / 血友病",
     "url": "/wiki/concepts/hemophilia/"
@@ -40834,6 +40842,14 @@
   "LetiziaBonaparte": {
     "title": "Letizia Bonaparte",
     "url": "/wiki/entities/letiziabonaparte/"
+  },
+  "LeukemiaDiagnosticReasoning": {
+    "title": "Leukemia Diagnostic Reasoning",
+    "url": "/wiki/concepts/leukemiadiagnosticreasoning/"
+  },
+  "LeukemiaTreatmentAndRecovery": {
+    "title": "Leukemia Treatment and Recovery",
+    "url": "/wiki/concepts/leukemiatreatmentandrecovery/"
   },
   "LeveeEnMasse": {
     "title": "Levée en masse",
@@ -85602,6 +85618,10 @@
   "vol-55-duitan-xieyin-melody-xuan-yitiao-gengman-de-lu-ranhou-shizhe-zou-de-gengyuan-lvmwwqnwmew2-s22x-4otjy2gnlw": {
     "title": "vol.55 对谈携隐Melody：选一条更慢的路 然后试着走得更远",
     "url": "/wiki/sources/vol-55-duitan-xieyin-melody-xuan-yitiao-gengman-de-lu-ranhou-shizhe-zou-de-gengyuan-lvmwwqnwmew2-s22x-4otjy2gnlw/"
+  },
+  "vol-68-xueyeneike-zhuangxiu-jiaquan-hui-rang-ni-de-baixuebing-ma-yiqi-tingdong-baixuebing-de-changshi-zaoxue-ganxibao-juanxian-zhinan-lkbtulzn5ky6f4wa5bttbuawvxz": {
+    "title": "VOL.68血液内科｜装修甲醛会让你得白血病吗？…一期听懂白血病的常识｜造血干细胞捐献指南",
+    "url": "/wiki/sources/vol-68-xueyeneike-zhuangxiu-jiaquan-hui-rang-ni-de-baixuebing-ma-yiqi-tingdong-baixuebing-de-changshi-zaoxue-ganxibao-juanxian-zhinan-lkbtulzn5ky6f4wa5bttbuawvxz/"
   },
   "vol-69-xueyeneike-he-kafei-he-cha-hui-pinxue-ma-yuejing-liang-da-hui-pinxue-ma-chi-hongzao-ejiao-you-yong-ma-guanyu-pinxue-de-wuqu-lhptpdej4gf-vd6dlt0bjbu_8wi4": {
     "title": "VOL.69血液内科｜喝咖啡喝茶会贫血吗？月经量大会贫血吗？吃红枣阿胶有用吗？关于贫血的误区",

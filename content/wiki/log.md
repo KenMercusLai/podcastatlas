@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-28] ingest | VOL.68血液内科｜装修甲醛会让你得白血病吗？…一期听懂白血病的常识｜造血干细胞捐献指南
+
+Added source `vol-68-xueyeneike-zhuangxiu-jiaquan-hui-rang-ni-de-baixuebing-ma-yiqi-tingdong-baixuebing-de-changshi-zaoxue-ganxibao-juanxian-zhinan-lkbtulzn5ky6f4wa5bttbuawvxz`; created `ChenJiaHematologist`, `LeukemiaDiagnosticReasoning`, `LeukemiaTreatmentAndRecovery`, and `HematopoieticStemCellDonation`; and updated the canonical index. Core synthesis: leukemia is a heterogeneous classification and confirmation problem rather than a conclusion from one symptom or count, while treatment joins subtype-specific cancer therapy to response assessment, transplant selection, infection and transfusion support, fertility, cost, and family burden. No settled contradiction is adopted. Prognosis percentages, exposure causality, leukocyte thresholds, transplant language, hospital choice, insurance, and cost remain source-scoped; the automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-28] ingest | VOL.71精神科｜关爱产后抑郁：产前一级预防 产后拒绝漠视 给予更多陪伴
 
 Added source `vol-71-jingshenke-guanai-chanhou-yiyu-chanqian-yiji-yufang-chanhou-jujue-moshi-jiyu-gengduo-peiban-loossm3a72jbbdj7tplmsidw4ovi`; created `PostpartumDepressionRecognitionAndSupport`, `PerinatalMentalHealthPrevention`, and `PerinatalPsychiatricMedicationSharedDecision`; and updated the canonical index and overview. Core synthesis: postpartum depression is neither weakness nor a single-person failure; recognition combines multidomain symptoms, duration, function, baseline, caregiving difficulty, and safety, while prevention begins before birth and family support becomes concrete through sleep protection, food, listening, companionship, and shared labor. Pregnancy, lactation, medicine, untreated illness, and feeding choices remain individualized clinician-patient decisions. No settled contradiction found. Time-window definitions, prevalence, causal factors, screening practice, medication risk, and trauma language remain source-scoped, while self- or infant-harm risk requires urgent professional evaluation.
@@ -24048,6 +24052,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-28] ingest | 362. The Taj Mahal: Love and Death
 
 Added source `362-the-taj-mahal-love-and-death-glt2445608477`; created `TajMahal`, `MughalEmpire`, `ShahJahan`, `MumtazMahal`, `Aurangzeb`, `MughalArchitecturalSynthesis`, `TajMahalParadiseSymbolism`, and `ContestedMonumentReattribution`; and updated `MonumentalDynasticLegitimation` plus the canonical index from the complete bounded source set. Core synthesis: the Taj Mahal joins genuine grief and consort commemoration to a composite Mughal architectural language, Quranic paradise imagery, and Shah Jahan's ideal kingship, while later myths, national adoption, tourism, and Hindu-origin claims show how an imperial Muslim monument became a globally marketable and politically contested Indian symbol. No settled contradiction with existing wiki content was found. The murdered-craftsmen story, “Black Taj,” Bentinck demolition story, and Hindu palace or temple origin claims are rejected or retained as unsupported, while dates, motives, inscription counts, conservation effects, and contemporary political examples remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-28] lint | Wiki health check
 

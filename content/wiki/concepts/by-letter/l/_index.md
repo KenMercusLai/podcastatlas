@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 8502
+wiki_total_pages: 8505
 wiki_pages:
   - key: "LaborIllusion"
     title: "Labor Illusion"
@@ -287,6 +287,12 @@ wiki_pages:
   - key: "LethalPlanLeakageRisk"
     title: "Lethal Plan Leakage Risk / 致命计划泄露风险"
     url: "/wiki/concepts/lethalplanleakagerisk/"
+  - key: "LeukemiaDiagnosticReasoning"
+    title: "Leukemia Diagnostic Reasoning"
+    url: "/wiki/concepts/leukemiadiagnosticreasoning/"
+  - key: "LeukemiaTreatmentAndRecovery"
+    title: "Leukemia Treatment and Recovery"
+    url: "/wiki/concepts/leukemiatreatmentandrecovery/"
   - key: "LeverageDrivenBullMarket"
     title: "Leverage-Driven Bull Market"
     url: "/wiki/concepts/leveragedrivenbullmarket/"

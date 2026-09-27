@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.68血液内科｜装修甲醛会让你得白血病吗？…一期听懂白血病的常识｜造血干细胞捐献指南](sources/vol-68-xueyeneike-zhuangxiu-jiaquan-hui-rang-ni-de-baixuebing-ma-yiqi-tingdong-baixuebing-de-changshi-zaoxue-ganxibao-juanxian-zhinan-lkbtulzn5ky6f4wa5bttbuawvxz.md) — 这病说来话长 episode on leukemia classification, diagnosis, treatment, recovery burdens, environmental-risk limits, and hematopoietic stem-cell donation.
 - [362. The Taj Mahal: Love and Death](sources/362-the-taj-mahal-love-and-death-glt2445608477.md) — The Rest Is History episode on love, grief, Mughal architectural synthesis, paradise imagery, monumental kingship, unsupported legends, and contested Indian memory.
 - [VOL.69血液内科｜喝咖啡喝茶会贫血吗？月经量大会贫血吗？吃红枣阿胶有用吗？关于贫血的误区](sources/vol-69-xueyeneike-he-kafei-he-cha-hui-pinxue-ma-yuejing-liang-da-hui-pinxue-ma-chi-hongzao-ejiao-you-yong-ma-guanyu-pinxue-de-wuqu-lhptpdej4gf-vd6dlt0bjbu_8wi4.md) — 这病说来话长 episode on anemia recognition, cause classification, iron-deficiency evaluation, bleeding, absorption, replacement, and supplement myths.
 - [363. Sixties Fashion: The Teenage Revolution (Part 1)](sources/363-sixties-fashion-the-teenage-revolution-part-1-glt5487814001.md) — The Rest Is History episode on postwar austerity, youth subcultures, Mary Quant, teenage consumers, and fashion-media celebrity before Swinging London's peak.
@@ -3036,6 +3037,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.70精神科｜又失眠了？真的可治愈！三甲精神科医生给你睡眠支招](sources/vol-70-jingshenke-you-shimian-le-zhende-ke-zhiyu-sanjia-jingshenke-yisheng-gei-ni-shuimian-zhizhao-lkfpagwnhiqlhyyz71xwefocyhf0.md) — 这病说来话长 episode on insomnia recognition, sleep-anxiety feedback, clinical measurement, individualized treatment, and cause-directed sleep care.
 
 ## Entities
+- [陈嘉医生 / Chen Jia (hematologist)](entities/ChenJiaHematologist.md) — Source-scoped hematology guest explaining leukemia diagnosis, treatment realities, and stem-cell donation in VOL.68.
 - [Taj Mahal](entities/TajMahal.md) — Mughal funerary complex joining personal memorial, sacred landscape, imperial kingship, national symbolism, tourism, and contested memory.
 - [Mughal Empire](entities/MughalEmpire.md) — South Asian empire whose composite court culture, monuments, succession politics, and modern memory frame the Taj Mahal branch.
 - [Shah Jahan](entities/ShahJahan.md) — Mughal emperor whose grief for Mumtaz Mahal and ideal-kingship project came together in the Taj Mahal.
@@ -14148,6 +14150,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The 120 Days of Sodom](entities/The120DaysOfSodom.md) — Sade's prison-written novel of sealed, scheduled, and escalating domination.
 
 ## Concepts
+- [Leukemia Diagnostic Reasoning](concepts/LeukemiaDiagnosticReasoning.md) — Framework for classifying leukemia and separating nonspecific clues from confirmatory blood, marrow, morphology, and molecular evidence.
+- [Leukemia Treatment and Recovery](concepts/LeukemiaTreatmentAndRecovery.md) — Subtype-specific treatment and survivorship framework spanning remission, transplantation, supportive care, fertility, infection, and family burden.
+- [Hematopoietic Stem Cell Donation](concepts/HematopoieticStemCellDonation.md) — Registry, matching, donor-screening, and supervised peripheral-blood collection pathway.
 - [Mughal Architectural Synthesis](concepts/MughalArchitecturalSynthesis.md) — Formation of Mughal design through Timurid, Persianate, Islamic Indian, and Indian architectural inheritances.
 - [Taj Mahal Paradise Symbolism](concepts/TajMahalParadiseSymbolism.md) — Quranic, garden, water, gateway, and processional program framing the mausoleum as an approach toward paradise.
 - [Contested Monument Reattribution](concepts/ContestedMonumentReattribution.md) — Political replacement of a prestigious monument's documented origin with a preferred religious or national story.

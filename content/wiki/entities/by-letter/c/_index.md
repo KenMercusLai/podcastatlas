@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 11094
+wiki_total_pages: 11095
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -2165,6 +2165,9 @@ wiki_pages:
   - key: "ChenCountyChuHan"
     title: "陈县 / Chen County (Chu-Han)"
     url: "/wiki/entities/chencountychuhan/"
+  - key: "ChenJiaHematologist"
+    title: "陈嘉医生 / Chen Jia (hematologist)"
+    url: "/wiki/entities/chenjiahematologist/"
   - key: "ChenStateLateHan"
     title: "陈国 / Chen State (late Han)"
     url: "/wiki/entities/chenstatelatehan/"

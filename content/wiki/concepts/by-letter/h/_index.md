@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 8502
+wiki_total_pages: 8505
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -245,6 +245,9 @@ wiki_pages:
   - key: "Helium3"
     title: "Helium-3"
     url: "/wiki/concepts/helium3/"
+  - key: "HematopoieticStemCellDonation"
+    title: "Hematopoietic Stem Cell Donation"
+    url: "/wiki/concepts/hematopoieticstemcelldonation/"
   - key: "Hemophilia"
     title: "Hemophilia / 血友病"
     url: "/wiki/concepts/hemophilia/"
