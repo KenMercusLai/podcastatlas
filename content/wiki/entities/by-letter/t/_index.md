@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 11061
+wiki_total_pages: 11065
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -737,6 +737,9 @@ wiki_pages:
   - key: "Tiresias"
     title: "Tiresias"
     url: "/wiki/entities/tiresias/"
+  - key: "Titus"
+    title: "Titus"
+    url: "/wiki/entities/titus/"
   - key: "TlatelolcoMassacre"
     title: "Tlatelolco Massacre / 三文化广场枪击"
     url: "/wiki/entities/tlatelolcomassacre/"

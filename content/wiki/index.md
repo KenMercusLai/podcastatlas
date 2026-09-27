@@ -9,6 +9,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Use Music to Boost Motivation, Mood & Improve Learning](sources/how-to-use-music-to-boost-motivation-mood-improve-learning-scim9662829681.md) — Huberman Lab solo episode on music as embodied neural input, task-timed motivation and focus, autonomic entrainment, emotion regulation, and music-practice plasticity.
 - [VOL.75口腔科｜爸妈洗牙吗？反向转发家族群，让他们“重回”年轻有绝招](sources/vol-75-kouqiangke-bama-xiya-ma-fanxiang-zhuanfa-jiazuqun-rang-tamen-zhonghui-nianqing-you-juezhao-loerbxipaqszz4ggchblzsnvtxo9.md) — 这病说来话长 episode on older-adult oral assessment, dental-prosthesis maintenance, persistent mucosal lesions, and coordinated antithrombotic management before extraction.
 - [GUEST SERIES | Dr. Paul Conti: How to Build and Maintain Healthy Relationships](sources/guest-series-dr-paul-conti-how-to-build-and-maintain-healthy-relationships-scim8219226445.md) — Huberman Lab conversation on generative compatibility, the shared “us,” mentalization, flexible mutuality, power, trauma-linked patterns, and internal-first boundaries.
+- [369. The Colosseum: Rome's Arena of Death](sources/369-the-colosseum-romes-arena-of-death-glt7808118779.md) — The Rest Is History episode on the Colosseum as Flavian public monument, ordered social arena, conquest display, ritual theater, and morally unsettling entertainment.
 - [370. The 1973 Chilean Coup: Allende, Nixon and the CIA (Part 1)](sources/370-the-1973-chilean-coup-allende-nixon-and-the-cia-part-1-glt6405070034.md) — The Rest Is History episode on Allende's rise and reforms, U.S. intervention, economic crisis, and Chile's road toward the 1973 coup.
 - [371. The 1973 Chilean Coup: General Pinochet Seizes Power (Part 2)](sources/371-the-1973-chilean-coup-general-pinochet-seizes-power-part-2-glt3740766328.md) — The Rest Is History episode on Chile's 1973 military coup, Allende's death, Pinochet's consolidation, U.S. interference, and the escalation into state terror.
 - [Efforts & Challenges in Promoting Public Health | U.S. Surgeon General Dr. Vivek Murthy](sources/efforts-challenges-in-promoting-public-health-us-surgeon-general-dr-vivek-murthy-scim4553126123.md) — Huberman Lab conversation on public-health trust, prevention, food-system constraints, fragmented care, loneliness, and youth social-media safety.
@@ -3015,6 +3016,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [372. The Birth of British Fascism](sources/372-the-birth-of-british-fascism-glt4747738645.md) — The Rest Is History episode on Britain's domestic fascist ingredients, early organizations, parliamentary resilience, and the leadership gap before Mosley.
 
 ## Entities
+- [Colosseum](entities/Colosseum.md) — Flavian amphitheater synthesizing public provision, ranked hierarchy, conquest, spectacle, and Rome's violent afterlife.
+- [Vespasian](entities/Vespasian.md) — Flavian founder who converted Nero's private lake into the site of a public dynastic monument.
+- [Titus](entities/Titus.md) — Flavian emperor who inaugurated the Colosseum amid conquest memory, disaster, and reputational repair.
+- [Nero](entities/Nero.md) — Roman emperor whose private pleasure landscape became the politically charged site of the Colosseum.
 - [Marconi Union](entities/MarconiUnion.md) — Musical group behind “Weightless,” retained as a source-scoped anxiety-reduction example rather than a validated treatment.
 - [René Schneider](entities/ReneSchneider.md) — Constitutionalist Chilean army commander whose resistance to military intervention protected Allende's 1970 accession.
 - [Augusto Pinochet](entities/AugustoPinochet.md) — Chilean army commander who converted the 1973 coup and junta leadership into personal dictatorship.
@@ -14094,6 +14099,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Arnold Leese](entities/ArnoldLeese.md) — Veterinarian, camel specialist, antisemite, and founder of the Imperial Fascist League.
 
 ## Concepts
+- [Gladiatorial Spectacle](concepts/GladiatorialSpectacle.md) — Roman fusion of funerary rite, citizenship, hierarchy, sport, celebrity, punishment, theater, and sanctioned killing.
+- [Monumental Dynastic Legitimation](concepts/MonumentalDynasticLegitimation.md) — Use of site, public architecture, conquest narrative, ranked access, and ceremony to establish a new ruling house.
 - [Music Task Timing](concepts/MusicTaskTiming.md) — Phase-specific music use that separates pre-task activation and restorative breaks from demanding focused work.
 - [Music Autonomic Entrainment](concepts/MusicAutonomicEntrainment.md) — Proposed pathway linking attentive music listening, breathing, heart rate, heart-rate variability, and bodily state.
 - [Music Practice Neuroplasticity](concepts/MusicPracticeNeuroplasticity.md) — Music learning as multimodal practice across auditory, motor, predictive, memory, and social systems.

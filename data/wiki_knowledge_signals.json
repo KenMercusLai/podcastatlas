@@ -30299,6 +30299,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/colorectalcancerscreening/"
     },
+    "Colosseum": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7808118779 [GLT7808118779].md",
+          "key": "369-the-colosseum-romes-arena-of-death-glt7808118779",
+          "show": "The Rest Is History",
+          "title": "369. The Colosseum: Rome's Arena of Death",
+          "url": "/wiki/sources/369-the-colosseum-romes-arena-of-death-glt7808118779/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/colosseum/"
+    },
     "ColumbianExchange": {
       "episode_count": 3,
       "show_count": 1,
@@ -63020,6 +63036,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/entities/girondins/"
+    },
+    "GladiatorialSpectacle": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7808118779 [GLT7808118779].md",
+          "key": "369-the-colosseum-romes-arena-of-death-glt7808118779",
+          "show": "The Rest Is History",
+          "title": "369. The Colosseum: Rome's Arena of Death",
+          "url": "/wiki/sources/369-the-colosseum-romes-arena-of-death-glt7808118779/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/gladiatorialspectacle/"
     },
     "GlobalAIGovernanceFramework": {
       "episode_count": 1,
@@ -106899,6 +106931,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/entities/montoneros/"
     },
+    "MonumentalDynasticLegitimation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7808118779 [GLT7808118779].md",
+          "key": "369-the-colosseum-romes-arena-of-death-glt7808118779",
+          "show": "The Rest Is History",
+          "title": "369. The Colosseum: Rome's Arena of Death",
+          "url": "/wiki/sources/369-the-colosseum-romes-arena-of-death-glt7808118779/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/monumentaldynasticlegitimation/"
+    },
     "MoodMeterEmotionalCheckIn": {
       "episode_count": 1,
       "show_count": 1,
@@ -109616,6 +109664,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/entities/nepal/"
+    },
+    "Nero": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7808118779 [GLT7808118779].md",
+          "key": "369-the-colosseum-romes-arena-of-death-glt7808118779",
+          "show": "The Rest Is History",
+          "title": "369. The Colosseum: Rome's Arena of Death",
+          "url": "/wiki/sources/369-the-colosseum-romes-arena-of-death-glt7808118779/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/nero/"
     },
     "Netherlands": {
       "episode_count": 6,
@@ -152253,6 +152317,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/titlesuccessionpublicduty/"
     },
+    "Titus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7808118779 [GLT7808118779].md",
+          "key": "369-the-colosseum-romes-arena-of-death-glt7808118779",
+          "show": "The Rest Is History",
+          "title": "369. The Colosseum: Rome's Arena of Death",
+          "url": "/wiki/sources/369-the-colosseum-romes-arena-of-death-glt7808118779/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/titus/"
+    },
     "Tlaxcala": {
       "episode_count": 2,
       "show_count": 1,
@@ -156689,6 +156769,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/concepts/vertigovisualanchoring/"
+    },
+    "Vespasian": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7808118779 [GLT7808118779].md",
+          "key": "369-the-colosseum-romes-arena-of-death-glt7808118779",
+          "show": "The Rest Is History",
+          "title": "369. The Colosseum: Rome's Arena of Death",
+          "url": "/wiki/sources/369-the-colosseum-romes-arena-of-death-glt7808118779/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/vespasian/"
     },
     "VestibularLearningActivation": {
       "episode_count": 1,

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "v"
-wiki_total_pages: 11061
+wiki_total_pages: 11065
 wiki_pages:
   - key: "VacheronConstantin"
     title: "Vacheron Constantin"
@@ -113,6 +113,9 @@ wiki_pages:
   - key: "VerticalGroup"
     title: "Vertical Group"
     url: "/wiki/entities/verticalgroup/"
+  - key: "Vespasian"
+    title: "Vespasian"
+    url: "/wiki/entities/vespasian/"
   - key: "Vesta"
     title: "Vesta"
     url: "/wiki/entities/vesta/"

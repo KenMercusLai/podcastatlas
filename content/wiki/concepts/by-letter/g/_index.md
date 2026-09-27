@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 8461
+wiki_total_pages: 8463
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -242,6 +242,9 @@ wiki_pages:
   - key: "GirlsEducationWorkaround"
     title: "Girls Education Workaround"
     url: "/wiki/concepts/girlseducationworkaround/"
+  - key: "GladiatorialSpectacle"
+    title: "Gladiatorial Spectacle"
+    url: "/wiki/concepts/gladiatorialspectacle/"
   - key: "GlassSteagallAct"
     title: "Glass-Steagall Act / 格拉斯-斯蒂格尔法案"
     url: "/wiki/concepts/glasssteagallact/"

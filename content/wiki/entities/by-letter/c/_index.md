@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 11061
+wiki_total_pages: 11065
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -1175,6 +1175,9 @@ wiki_pages:
   - key: "ColonelMadanEverestPilot"
     title: "Colonel Madan (Everest pilot)"
     url: "/wiki/entities/colonelmadaneverestpilot/"
+  - key: "Colosseum"
+    title: "Colosseum"
+    url: "/wiki/entities/colosseum/"
   - key: "ColumbiaJournalismSchool"
     title: "Columbia Journalism School"
     url: "/wiki/entities/columbiajournalismschool/"
