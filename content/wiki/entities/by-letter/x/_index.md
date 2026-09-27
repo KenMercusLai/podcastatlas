@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 11128
+wiki_total_pages: 11129
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -329,6 +329,9 @@ wiki_pages:
   - key: "XiaoMeiGeneEditingCase"
     title: "小美基因编辑事件 / Xiaomei Gene-Editing Case"
     url: "/wiki/entities/xiaomeigeneeditingcase/"
+  - key: "XiaopangyaPodcastGuest"
+    title: "小胖丫 / 小胖鸭 (Podcast Guest)"
+    url: "/wiki/entities/xiaopangyapodcastguest/"
   - key: "XiaoweiDuanwenReporter"
     title: "小薇 / Xiaowei (Duanwen reporter)"
     url: "/wiki/entities/xiaoweiduanwenreporter/"

@@ -3051,6 +3051,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [360. Fear City: New York in the 1970s](sources/360-fear-city-new-york-in-the-1970s-glt7107047696.md) — The Rest Is History episode on the 1977 blackout, fiscal collapse, crime politics, urban dystopia, Ed Koch, and crisis-driven private redevelopment.
 - [VOL.66心脏外科｜从挂号到就医 从吃药到手术 安贞医生给你的实用贴士](sources/vol-66-xinzang-waike-cong-guahao-dao-jiuyi-cong-chiyao-dao-shoushu-anzhen-yisheng-gei-ni-de-shiyong-tieshi-lnnmiealbw5s886_m4y8yjj3mja_.md) — 这病说来话长 episode on cardiac symptom escalation, hospital routing, diagnostic limits, hypertension harm, surgical-modality selection, robotics, and pump-versus-rhythm devices.
 - [VOL.64中医科｜通勤路上淋雨、蹚水后及时做这两件事｜夏季伏天养生吃这些吧](sources/vol-64-zhongyike-tongqin-lushang-linyu-tangshui-hou-jishi-zuo-zhe-liang-jian-shi-xiaji-futian-yangsheng-chi-zhexie-ba-lmefsxrzdkopwgt_bsxfdry539rk.md) — 这病说来话长 episode separating prompt post-wading cleaning and drying from source-scoped cold-damp, sweating, food-therapy, and 藿香正气 claims.
+- [VOL.63无·事｜小胖丫：只要活着，一切困难都是擦伤](sources/vol-63-wu-shi-xiaopangya-zhiyao-huozhe-yiqie-kunnan-dou-shi-cashang-llxi8nxbim2if7mma7muzmntkaex.md) — 这病说来话长 survivor interview on cancer treatment, recovery, family-clinician communication, identity, ordinary inclusion, work, and future planning.
 
 ## Entities
 - [Raymond of Capua](entities/RaymondOfCapua.md) — Catherine of Siena's confessor and hagiographic biographer, central to the transmission and interpretation of her visions and miracles.
@@ -14198,6 +14199,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mary Fisher](entities/MaryFisher.md) — Seventeenth-century Quaker missionary joining religious conviction, persecution, transatlantic travel, and later marriage.
 - [Horatio Nelson](entities/HoratioNelson.md) — British naval celebrity presented narrowly through Emma Hamilton, romantic scandal, and reality-show disruption.
 - [Catherine of Siena](entities/CatherineOfSiena.md) — Medieval mystic whose ascetic sanctity, charity, diplomacy, and papal advocacy converted bodily renunciation into public authority.
+- [小胖丫 / 小胖鸭 (Podcast Guest)](entities/XiaopangyaPodcastGuest.md) — Source-scoped cancer-survivor guest connecting treatment and recovery with work, family communication, social life, and future plans.
 
 ## Concepts
 - [Medieval Female Ascetic Authority](concepts/MedievalFemaleAsceticAuthority.md) — How gendered bodily renunciation could become sanctity, public credibility, and political influence.

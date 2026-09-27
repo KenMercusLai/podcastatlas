@@ -28512,9 +28512,9 @@
       "url": "/wiki/concepts/chronicdiseasetreatmentadherence/"
     },
     "ChronicIllnessQualityOfLife": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lsea_weckD5_5CSwf0gHCabW0veK [lsea_weckD5_5CSwf0gHCabW0veK].md",
@@ -28529,9 +28529,16 @@
           "show": "这病说来话长",
           "title": "VOL.113消化内科｜从“少见病”到“常见病” 你应该认识它了｜IBD日专题",
           "url": "/wiki/sources/vol-113-xiaohuaneike-cong-shaojianbing-dao-changjianbing-ni-yinggai-renshi-ta-le-ibd-ri-zhuanti-lpmvs4nuik-bzglz3lnadzbnc-eu/"
+        },
+        {
+          "episode_file": "llxi8NxBim2IF7MMa7MuzmNtkaEx [llxi8NxBim2IF7MMa7MuzmNtkaEx].md",
+          "key": "vol-63-wu-shi-xiaopangya-zhiyao-huozhe-yiqie-kunnan-dou-shi-cashang-llxi8nxbim2if7mma7muzmntkaex",
+          "show": "这病说来话长",
+          "title": "VOL.63无·事｜小胖丫：只要活着，一切困难都是擦伤",
+          "url": "/wiki/sources/vol-63-wu-shi-xiaopangya-zhiyao-huozhe-yiqie-kunnan-dou-shi-cashang-llxi8nxbim2if7mma7muzmntkaex/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/chronicillnessqualityoflife/"
     },
     "ChronicInsomniaRecognitionAndTreatment": {
@@ -39976,9 +39983,9 @@
       "url": "/wiki/concepts/diabeticretinopathyscreening/"
     },
     "DiagnosisPersonhoodBoundary": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7834121132 [SCIM7834121132].md",
@@ -39986,9 +39993,16 @@
           "show": "Huberman Lab",
           "title": "How to Overcome Social Anxiety | Dr. Nick Epley",
           "url": "/wiki/sources/how-to-overcome-social-anxiety-dr-nick-epley-scim7834121132/"
+        },
+        {
+          "episode_file": "llxi8NxBim2IF7MMa7MuzmNtkaEx [llxi8NxBim2IF7MMa7MuzmNtkaEx].md",
+          "key": "vol-63-wu-shi-xiaopangya-zhiyao-huozhe-yiqie-kunnan-dou-shi-cashang-llxi8nxbim2if7mma7muzmntkaex",
+          "show": "这病说来话长",
+          "title": "VOL.63无·事｜小胖丫：只要活着，一切困难都是擦伤",
+          "url": "/wiki/sources/vol-63-wu-shi-xiaopangya-zhiyao-huozhe-yiqie-kunnan-dou-shi-cashang-llxi8nxbim2if7mma7muzmntkaex/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/diagnosispersonhoodboundary/"
     },
     "DiagnosticSafetyNetting": {
@@ -110626,9 +110640,9 @@
       "url": "/wiki/concepts/narrativeframeauthordistance/"
     },
     "NarrativeMedicine": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lnrBQZtEhpu3nNpOfUw1iHAscwrM [lnrBQZtEhpu3nNpOfUw1iHAscwrM].md",
@@ -110643,6 +110657,13 @@
           "show": "这病说来话长",
           "title": "VOL.67无·事｜听躺进ICU的医生和普通病人在聊些什么？知道越多越恐惧？｜献礼医师节彩蛋",
           "url": "/wiki/sources/lswakifoozu5vkckl5n-nzndj43e-lswakifoozu5vkckl5n-nzndj43e/"
+        },
+        {
+          "episode_file": "llxi8NxBim2IF7MMa7MuzmNtkaEx [llxi8NxBim2IF7MMa7MuzmNtkaEx].md",
+          "key": "vol-63-wu-shi-xiaopangya-zhiyao-huozhe-yiqie-kunnan-dou-shi-cashang-llxi8nxbim2if7mma7muzmntkaex",
+          "show": "这病说来话长",
+          "title": "VOL.63无·事｜小胖丫：只要活着，一切困难都是擦伤",
+          "url": "/wiki/sources/vol-63-wu-shi-xiaopangya-zhiyao-huozhe-yiqie-kunnan-dou-shi-cashang-llxi8nxbim2if7mma7muzmntkaex/"
         }
       ],
       "updated": "2026-09-28",
@@ -168656,6 +168677,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/entities/xiaomi/"
+    },
+    "XiaopangyaPodcastGuest": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "llxi8NxBim2IF7MMa7MuzmNtkaEx [llxi8NxBim2IF7MMa7MuzmNtkaEx].md",
+          "key": "vol-63-wu-shi-xiaopangya-zhiyao-huozhe-yiqie-kunnan-dou-shi-cashang-llxi8nxbim2if7mma7muzmntkaex",
+          "show": "这病说来话长",
+          "title": "VOL.63无·事｜小胖丫：只要活着，一切困难都是擦伤",
+          "url": "/wiki/sources/vol-63-wu-shi-xiaopangya-zhiyao-huozhe-yiqie-kunnan-dou-shi-cashang-llxi8nxbim2if7mma7muzmntkaex/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/xiaopangyapodcastguest/"
     },
     "XiaoweiDuanwenReporter": {
       "episode_count": 1,

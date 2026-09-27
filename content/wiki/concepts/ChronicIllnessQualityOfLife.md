@@ -5,7 +5,8 @@ tags: [chronic-illness, quality-of-life, identity, patient-centered-care]
 sources:
   - vol-138-hongbanlangchuang-manxingbing-lsea-weckd5-5cswf0ghcabw0vek
   - vol-113-xiaohuaneike-cong-shaojianbing-dao-changjianbing-ni-yinggai-renshi-ta-le-ibd-ri-zhuanti-lpmvs4nuik-bzglz3lnadzbnc-eu
-last_updated: 2026-09-25
+  - vol-63-wu-shi-xiaopangya-zhiyao-huozhe-yiqie-kunnan-dou-shi-cashang-llxi8nxbim2if7mma7muzmntkaex
+last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
 
@@ -15,13 +16,13 @@ knowledge_schema: synthesis-v1
 Chronic illness quality of life is the source's patient-centered view that successful care includes bodily function, identity, appearance, mood, relationships, work, fertility, mobility, travel, joy, and tolerable uncertainty rather than survival or laboratory control alone.
 
 ## Current Synthesis
-The sources connect disease activity to the life that treatment is meant to preserve. Lupus can alter skin, weight, face shape, energy, pain, fertility plans, work, and social confidence; IBD can disrupt eating, continence, nutrition, growth, schooling, work, finances, body image, travel, and social ease. Treatment itself can add visible or feared burdens, while surgery or a stoma can force difficult tradeoffs between immediate safety and future function. A remission plan therefore matters partly because it can return room for ordinary activity and selfhood, not simply because a score improves.
+The sources connect disease activity to the life that treatment is meant to preserve. Lupus can alter skin, weight, face shape, energy, pain, fertility plans, work, and social confidence; IBD can disrupt eating, continence, nutrition, growth, schooling, work, finances, body image, travel, and social ease. The cancer-survivor account adds scars, hair loss, mobility, treatment burden, career redirection, social re-entry, creativity, and future travel. Treatment itself can add visible or feared burdens, while surgery or a stoma can force difficult tradeoffs between immediate safety and future function. A remission or recovery plan therefore matters partly because it can return room for ordinary activity and selfhood, not simply because a score improves.
 
-The later survival game makes this value plurality explicit by forcing participants to trade vision, hearing, speech, movement, appearance, sexuality, money, pleasure, and basic bodily function under imagined progressive illness. Its useful result is not a universal ranking. It shows that quality of life is personal, can change under pressure, and should not be reduced to generic demands to “stay positive.”
+The survival game makes value plurality explicit by forcing participants to trade vision, hearing, speech, movement, appearance, sexuality, money, pleasure, and basic bodily function under imagined progressive illness. The cancer narrative makes the same point through an actual decision: the guest prioritized retaining thought, speech, agency, and a future over bodily intactness, then rebuilt ordinary life through movement, friendship, work, markets, writing, and travel plans. Neither source supplies a universal ranking, and neither justifies demanding positivity from others.
 
 ## Key Claims
 - Disease burden includes identity, appearance, mood, social participation, and future plans as well as organ damage.
-- Clinical remission becomes meaningful when it supports patient-valued activities and roles.
+- Clinical remission or recovery becomes meaningful when it supports patient-valued activities, social participation, work, creativity, and future plans.
 - Side effects can threaten adherence partly because they change how patients recognize and present themselves.
 - Generic optimism is an incomplete response to chronic illness; coping needs practical, personally meaningful ways to inhabit the present.
 - People rank sensory, communicative, bodily, economic, relational, and emotional capacities differently.
@@ -36,13 +37,14 @@ The later survival game makes this value plurality explicit by forcing participa
 - Remission and ordinary life: [[vol-113-xiaohuaneike-cong-shaojianbing-dao-changjianbing-ni-yinggai-renshi-ta-le-ibd-ri-zhuanti-lpmvs4nuik-bzglz3lnadzbnc-eu]] has Meng Jun describe returning to preferred food and meaningful work while continuing maintenance care.
 - Disease and treatment burden: [[vol-113-xiaohuaneike-cong-shaojianbing-dao-changjianbing-ni-yinggai-renshi-ta-le-ibd-ri-zhuanti-lpmvs4nuik-bzglz3lnadzbnc-eu]] connects IBD with bleeding, malnutrition, weight change, schooling, work, finances, repeated surgery, stoma decisions, and psychological distress.
 - Support environment: [[vol-113-xiaohuaneike-cong-shaojianbing-dao-changjianbing-ni-yinggai-renshi-ta-le-ibd-ri-zhuanti-lpmvs4nuik-bzglz3lnadzbnc-eu]] describes family, friends, clinicians, peers, camps, health kits, and public inclusion as parts of living with disease.
+- Cancer survivorship and agency: [[vol-63-wu-shi-xiaopangya-zhiyao-huozhe-yiqie-kunnan-dou-shi-cashang-llxi8nxbim2if7mma7muzmntkaex]] connects emergency treatment, scarring, chemotherapy burden, regained mobility, markets, work, writing, friendship, and future Africa plans to a life not exhausted by cancer identity.
 
 ## Counterevidence & Qualifications
-The lupus episode's game is playful, compressed, and potentially upsetting; it is not a validated quality-of-life instrument and should not romanticize suffering, rank disabilities, or imply that choosing or refusing treatment has one moral meaning. The IBD episode's patient and pediatric cases are likewise not representative outcome data. Neither source establishes how people with chronic illness generally value function, work, fertility, appearance, continence, surgery, stoma, or survival.
+The lupus episode's game is playful, compressed, and potentially upsetting; it is not a validated quality-of-life instrument and should not romanticize suffering, rank disabilities, or imply that choosing or refusing treatment has one moral meaning. The IBD cases and the cancer-survivor interview are likewise not representative outcome data. “只要人不死，一切都是擦伤” is one person's coping metaphor, not a reason to minimize severe disease, disability, toxicity, grief, or another patient's priorities. The sources do not establish how people with chronic illness generally value function, work, fertility, appearance, continence, surgery, stoma, or survival.
 
 ## What Changed
-- Added bowel function, nutrition, growth, schooling, finances, surgery, stoma, and public inclusion to the quality-of-life frame.
-- Added lived evidence that remission can restore ordinary activity without erasing the need for continuing care.
+- Added cancer survivorship evidence linking recovery to scar adaptation, mobility, social re-entry, work, creativity, and future plans.
+- Clarified that forceful personal coping language cannot be imposed on other patients or used to minimize illness burden.
 
 ## Related Concepts
 - [[SystemicLupusErythematosusManagement]] - disease-management context linking remission to everyday life.

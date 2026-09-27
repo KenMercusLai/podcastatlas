@@ -24172,3 +24172,11 @@ Added source `vol-64-zhongyike-tongqin-lushang-linyu-tangshui-hou-jishi-zuo-zhe-
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | VOL.63无·事｜小胖丫：只要活着，一切困难都是擦伤
+
+Added source `vol-63-wu-shi-xiaopangya-zhiyao-huozhe-yiqie-kunnan-dou-shi-cashang-llxi8nxbim2if7mma7muzmntkaex`; created `XiaopangyaPodcastGuest`; and updated `ChronicIllnessQualityOfLife`, `NarrativeMedicine`, `DiagnosisPersonhoodBoundary`, and the canonical index from their complete bounded source sets. Core synthesis: lived cancer experience can inform how treatment, scars, family communication, work, social belonging, and future plans interact, but it cannot serve as a transferable treatment plan; practical accommodation should coexist with ordinary personhood rather than either neglect or totalizing patient labels. No settled contradiction was adopted. Prognosis, staging, test values, hospital comparison, treatment choices, and recovery remain retrospective and source-scoped, and the guest's “擦伤” metaphor is preserved as personal coping language rather than a demand to minimize illness. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
