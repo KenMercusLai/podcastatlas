@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [382. Young Napoleon: Teenage Revolutionary (Part 1)](sources/382-young-napoleon-teenage-revolutionary-part-1-glt6500252244.md) — The Rest Is History episode on Napoleon's Corsican formation, outsider schooling, Paoli devotion, revolutionary dual loyalty, and emerging preference for disciplined authority.
 - [Mental Health Toolkit: Tools to Bolster Your Mood & Mental Health](sources/mental-health-toolkit-tools-to-bolster-your-mood-mental-health-scim1991900083.md) — Huberman Lab solo episode on six biological foundations, physiological sighing, emotional granularity, reflective self-exploration, generative drive, and clinical boundaries.
 - [VOL.82妇科｜住酒店、洗牙易患性病？女生感染HPV后男生应做什么？](sources/vol-82-fuke-zhu-jiudian-xiya-yi-huan-xingbing-nvsheng-ganran-hpv-hou-nansheng-ying-zuo-shenme-lgihsbqu9wldxyrjfomxghqtjqdg.md) — 这病说来话长 episode on vulvar symptom triage, indirect STI exposure risk, hotel hygiene, HPV prevention, partner responsibility, vaccination, screening, and follow-up.
 - [383. Young Napoleon: The Shadow of the Guillotine (Part 2)](sources/383-young-napoleon-the-shadow-of-the-guillotine-part-2-glt2658259929.md) — The Rest Is History episode on Napoleon's Corsican rupture, Toulon breakthrough, Thermidorian survival, Vendémiaire suppression, Barras patronage, and marriage to Josephine.
@@ -2984,6 +2985,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AMA #12: Thoughts on Longevity Supplements (Resveratrol, NR, NMN, Etc.) & How to Improve Memory](sources/ama-12-thoughts-on-longevity-supplements-resveratrol-nr-nmn-etc-how-to-improve-memory-scim5764692205.md) — Huberman Lab premium AMA separating longevity mechanisms and subjective supplement effects from demonstrated human lifespan benefit while prioritizing sleep, exercise, nutrition, light, stress control, and social connection.
 
 ## Entities
+- [Carlo Bonaparte](entities/CarloBonaparte.md) — Napoleon's father, whose accommodation with French rule converted noble status into educational mobility for his sons.
+- [Letizia Bonaparte](entities/LetiziaBonaparte.md) — Napoleon's mother and a formative influence within the ambitious conquest-era Corsican household.
 - [Corsica](entities/Corsica.md) — Mediterranean island whose factional crisis and Paoli-Bonaparte rupture redirected Napoleon toward revolutionary France.
 - [Josephine de Beauharnais](entities/JosephineDeBeauharnais.md) — Revolutionary survivor and socially connected partner whose marriage to Napoleon preceded his Italian command.
 - [Paul Barras](entities/PaulBarras.md) — Thermidorian and Directory broker who selected Napoleon during Vendémiaire and accelerated his political rise.
@@ -14007,6 +14010,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Michael Eisenberg](entities/MichaelEisenberg.md) — Urologist and researcher framing male fertility and sexual function through objective testing, whole-body health, and treatment boundaries.
 
 ## Concepts
+- [Corsican Nationalism](concepts/CorsicanNationalism.md) — Paolist tradition joining resistance to foreign rule with constitutional, educational, and institutional state-building.
+- [Revolutionary Authoritarian Order](concepts/RevolutionaryAuthoritarianOrder.md) — Pattern joining radical political transformation to concentrated authority and disciplined force rather than monarchy or crowd rule.
 - [Mental-Health Biological Foundations](concepts/MentalHealthBiologicalFoundations.md) — Necessary-but-insufficient foundation joining sleep, light-dark exposure, movement, nutrition, social connection, and stress regulation.
 - [Physiological Sigh](concepts/PhysiologicalSigh.md) — Double-inhale and long-exhale pattern used as a bounded real-time and repeated stress-regulation practice.
 - [Reflective Self-Exploration](concepts/ReflectiveSelfExploration.md) — Bounded toolkit joining life narrative, dream and waking-transition notes, free writing, goals, and clinical trauma limits.

@@ -1,11 +1,12 @@
 ---
 title: "Napoleon Bonaparte / 拿破仑"
 type: entity
-tags: [historical-figure, france, politics, military, literature, dueling]
+tags: [historical-figure, france, corsica, politics, military, literature, dueling]
 sources:
   - 21-hong-yu-hei-ta-si-yu-zhencheng-569042001
   - 78-xifang-juedou-shi-chujian-ba-weile-rongyu-687731000
   - 383-young-napoleon-the-shadow-of-the-guillotine-part-2-glt2658259929
+  - 382-young-napoleon-teenage-revolutionary-part-1-glt6500252244
 knowledge_schema: synthesis-v1
 last_updated: 2026-09-27
 ---
@@ -14,25 +15,35 @@ last_updated: 2026-09-27
 
 ## Overview
 
-Napoleon Bonaparte was a Corsican-born French artillery officer whose revolutionary military and political ascent later became both a model of talent overcoming birth and a state-centered attempt to discipline older forms of private martial violence.
+Napoleon Bonaparte was a Corsican-born French artillery officer whose outsider formation, unstable revolutionary allegiance, military skill, and preference for organized authority drove a rapid political ascent that later became a model of talent overcoming birth.
 
 ## Current Profile
 
-The direct biographical source follows Napoleon from failed Corsican politics into French revolutionary service. His break with [[PasqualePaoli|Pasquale Paoli]] and family exile closed one identity and career path; Jacobin writing, revolutionary universalism, and war opened another. At the [[SiegeOfToulon|Siege of Toulon]], strategic concentration, artillery logistics, energy, and physical courage made him a brigadier general. After surviving the Thermidorian risk, [[PaulBarras|Paul Barras]] selected him to suppress the [[VendemiaireUprising|Vendémiaire uprising]], where grapeshot converted military competence into domestic political authority. His marriage to [[JosephineDeBeauharnais|Josephine de Beauharnais]], preparation for the Italian campaign, and adoption of the “Bonaparte” spelling complete the episode's interpretive transition from displaced Corsican to French revolutionary commander.
+The direct biography now begins with a Corsican-speaking child born amid French conquest. [[CarloBonaparte|Carlo Bonaparte]] used accommodation and noble recognition to send him into French schooling, while [[LetiziaBonaparte|Letizia Bonaparte]], family ambition, bullying, imperfect French, classical reading, and mathematical strength shaped an intense outsider who chose artillery and clung more strongly to [[Corsica]]. He revered [[PasqualePaoli|Pasquale Paoli]], wrote Corsican histories and fiction, condemned French oppression, and nevertheless served in the French army. In 1789-92, support for revolution, Corsican autonomy, French integration, and local factional activism coexisted before forming a stable allegiance. His response to the Tuileries crises suggests an early [[RevolutionaryAuthoritarianOrder|revolutionary preference for concentrated order]]: contempt for royal weakness and crowd disorder without royalist retreat.
 
-Later cultural sources show the afterlife of that ascent. For [[JulienSorel|Julien Sorel]], Napoleon represents a lost route by which talent and military achievement might defeat birth hierarchy; [[FrenchRestoration|Restoration France]] redirects ambition into clerical and aristocratic performance. The dueling source presents Napoleon as opposing private duels even while ruling within a Europe where martial honor remained prestigious.
+Part 2 follows that tension into rupture. Defeat in Corsican politics and family exile closed one identity and career path; Jacobin writing, [[RevolutionaryUniversalismIdentity|revolutionary universalism]], and war opened another. At the [[SiegeOfToulon|Siege of Toulon]], strategic concentration, artillery logistics, energy, and courage made him a brigadier general. After surviving Thermidor, [[PaulBarras|Paul Barras]] selected him to suppress the [[VendemiaireUprising|Vendémiaire uprising]], where grapeshot converted military competence into domestic political authority. Marriage to [[JosephineDeBeauharnais|Josephine de Beauharnais]], the Italian command, and the “Bonaparte” spelling complete the episode's interpretive transition from displaced Corsican to French revolutionary commander.
+
+Later cultural sources show the ascent's afterlife. For [[JulienSorel|Julien Sorel]], Napoleon represents a lost route by which talent might defeat birth hierarchy. The dueling source presents him as opposing private duels while ruling within a Europe where martial honor remained prestigious.
 
 ## Key Characteristics
 
-- Political defeat in Corsica made French revolutionary service a practical and ideological reinvention.
-- Jacobin self-presentation aligned ambition with the regime's demand for political reliability.
-- Artillery expertise, logistical attention, strategic concentration, and physical courage drove his breakthrough at Toulon.
-- He associated political order with centralized authority and showed readiness to use organized violence against domestic insurgency.
-- Patronage from Barras translated battlefield reputation into command and political power.
-- His attachment to Josephine joined private obsession, family connection, and preparation for the Italian campaign.
+- French conquest, family adaptation, schooling abroad, accent, bullying, and reading formed a self-conscious Corsican outsider.
+- Corsican nationalism, French military service, and revolutionary politics overlapped for years before exile made French reinvention decisive.
+- Mathematics, artillery expertise, logistics, strategic concentration, energy, and courage drove his military breakthrough.
+- Republican radicalism coexisted with contempt for weak authority, crowd disorder, and unorganized violence.
+- Political writing and Jacobin reliability made ambition legible to successive revolutionary patrons.
+- Barras's patronage converted battlefield reputation and domestic repression into command and political power.
 - His later memory became a symbol of meritocratic mobility even as his state opposed private honor violence.
 
 ## Evidence
+
+### Corsican childhood, schooling, and dual loyalty
+
+- [[382-young-napoleon-teenage-revolutionary-part-1-glt6500252244]] connects conquest-era birth, Carlo and Letizia, late French acquisition, outsider status, reading, mathematics, artillery, Paoli devotion, anti-French writing, revolutionary support, and conflicting Corsican-French commitments.
+
+### Authority, disorder, and revolutionary opportunity
+
+- [[382-young-napoleon-teenage-revolutionary-part-1-glt6500252244]] connects the June and August 1792 Tuileries scenes, contempt for Louis XVI, horror at mob disorder, continuing republicanism, and military openings created by aristocratic emigration.
 
 ### Corsican rupture, Toulon, and Vendémiaire
 
@@ -52,25 +63,26 @@ Later cultural sources show the afterlife of that ascent. For [[JulienSorel|Juli
 
 ## Qualifications
 
-The direct biography is a conversational narrative centered on formation rather than a complete military or political life. Its identity thesis is interpretive: family flight, Jacobin writing, French service, and name spelling do not transparently reveal inner allegiance. Napoleon's own destiny-centered versions can be self-mythologizing, while Barras's version also has retrospective interests. Toulon atrocities, Vendémiaire casualties, the scabies story, the Josephine sword story, sexual detail, dialogue, private motives, and claims about his attitude toward violence remain source-scoped. Later literary admiration describes Napoleon's symbolic afterlife, not a moral endorsement of his rule.
+The direct biography is a conversational narrative centered on formation rather than a complete life. Childhood aggression, the snowball fight, physical descriptions, sexual episodes, reported dialogue, private motives, and several revolutionary scenes are uncertain, mythologized, or interpretive. His simultaneous Corsican and French commitments caution against reading nationality as a clean conversion, while later identity markers do not transparently reveal inner allegiance. The claim that disorder troubled him more than violence anticipates later conduct but does not prove a fully formed doctrine in 1792. Toulon atrocities, Vendémiaire casualties, Barras's account, and Josephine anecdotes remain source-scoped. Later literary admiration describes symbolic afterlife, not moral endorsement.
 
 ## What Changed
 
-- Replaced a mainly literary-memory profile with a direct synthesis of Napoleon's Corsican rupture and French revolutionary ascent.
-- Added Toulon as the conjunction of artillery skill, political reliability, logistics, courage, and rapid promotion.
-- Added Vendémiaire as the point where organized state violence became personal political power.
-- Added Barras, Josephine, and the Italian command as linked patronage, emotional, and strategic contexts.
-- Preserved the later mobility myth and dueling-policy evidence as distinct parts of his afterlife and statecraft.
+- Backfilled the conquest-era childhood, family strategy, outsider schooling, reading, and artillery formation behind the later ascent.
+- Replaced a sharp exile-to-France switch with a longer period of simultaneous Corsican nationalism, French service, and revolutionary commitment.
+- Added the 1792 distinction between republican radicalism, contempt for royal weakness, and hostility to mob disorder.
+- Connected the early preference for organized authority to the later Toulon and Vendémiaire trajectory without treating it as predetermined.
 
 ## Relationships
 
-- [[PasqualePaoli]] - Corsican father figure and political opponent whose rupture redirected Napoleon toward France.
+- [[CarloBonaparte]] - father whose accommodation and noble recognition enabled French schooling.
+- [[LetiziaBonaparte]] - mother credited as a major formative influence.
+- [[PasqualePaoli]] - Corsican father figure and political opponent whose rupture redirected him toward France.
+- [[CorsicanNationalism]] - early cause that shaped his writing, identity, and revolutionary expectations.
+- [[RevolutionaryAuthoritarianOrder]] - pattern joining radical change to disciplined centralized authority.
 - [[SiegeOfToulon]] - breakthrough campaign that established his artillery reputation.
 - [[PaulBarras]] - patron who selected him during Vendémiaire and advanced him afterward.
 - [[VendemiaireUprising]] - domestic crisis where artillery suppression produced political office.
 - [[JosephineDeBeauharnais]] - wife whose relationship coincided with his departure for the Army of Italy.
-- [[RevolutionaryUniversalismIdentity]] - ideological frame for his transition from Corsican exile to French mission.
-- [[RevolutionaryIdeologicalWar]] - war logic behind his Italian campaign planning.
+- [[RevolutionaryUniversalismIdentity]] - ideological frame for his gradual transition from Corsican allegiance to French mission.
 - [[JulienSorel]] - fictional admirer who turns Napoleon into a lost model of mobility.
-- [[FrenchRestoration]] - order in which the Napoleonic military route appears closed.
 - [[HonorDuelCulture]] - private violence his state opposed without erasing martial prestige.

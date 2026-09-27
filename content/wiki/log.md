@@ -23658,6 +23658,14 @@ Added source `ama-12-thoughts-on-longevity-supplements-resveratrol-nr-nmn-etc-ho
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-27] ingest | 382. Young Napoleon: Teenage Revolutionary (Part 1)
+
+Added source `382-young-napoleon-teenage-revolutionary-part-1-glt6500252244`; created `CarloBonaparte`, `LetiziaBonaparte`, `CorsicanNationalism`, and `RevolutionaryAuthoritarianOrder`; and updated `NapoleonBonaparte`, `Corsica`, `PasqualePaoli`, `RevolutionaryUniversalismIdentity`, and the canonical index from their complete bounded source sets. Core synthesis: conquest, family adaptation, outsider schooling, Paolist nationalism, and revolutionary opportunity left the young Napoleon simultaneously Corsican, a French officer, and a republican before political defeat narrowed his path; his hostility to royal weakness and crowd disorder foreshadowed a preference for organized revolutionary authority without making him a royalist. No settled contradiction with Part 2 was found. Childhood anecdotes, reported dialogue, private motives, physical descriptions, sexual episodes, and the interpretation of his response to violence remain uncertain or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

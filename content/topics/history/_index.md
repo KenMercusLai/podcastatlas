@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2067
+topic_total_pages: 2068
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -4644,6 +4644,9 @@ topic_sources:
   - key: "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008"
     title: "318: Hundred Years' War: A Game of Thrones (Part 1)"
     url: "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+  - key: "382-young-napoleon-teenage-revolutionary-part-1-glt6500252244"
+    title: "382. Young Napoleon: Teenage Revolutionary (Part 1)"
+    url: "/wiki/sources/382-young-napoleon-teenage-revolutionary-part-1-glt6500252244/"
   - key: "383-young-napoleon-the-shadow-of-the-guillotine-part-2-glt2658259929"
     title: "383. Young Napoleon: The Shadow of the Guillotine (Part 2)"
     url: "/wiki/sources/383-young-napoleon-the-shadow-of-the-guillotine-part-2-glt2658259929/"

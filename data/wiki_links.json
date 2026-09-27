@@ -1023,6 +1023,10 @@
     "title": "38.安吉拉卡特精怪故事集：哦！迷人的悍妇！",
     "url": "/wiki/sources/38-anjila-kate-jingguai-gushiji-o-mirende-hanfu-609607139/"
   },
+  "382-young-napoleon-teenage-revolutionary-part-1-glt6500252244": {
+    "title": "382. Young Napoleon: Teenage Revolutionary (Part 1)",
+    "url": "/wiki/sources/382-young-napoleon-teenage-revolutionary-part-1-glt6500252244/"
+  },
   "383-young-napoleon-the-shadow-of-the-guillotine-part-2-glt2658259929": {
     "title": "383. Young Napoleon: The Shadow of the Guillotine (Part 2)",
     "url": "/wiki/sources/383-young-napoleon-the-shadow-of-the-guillotine-part-2-glt2658259929/"
@@ -12247,6 +12251,10 @@
     "title": "Carla Superana",
     "url": "/wiki/entities/carlasuperana/"
   },
+  "CarloBonaparte": {
+    "title": "Carlo Bonaparte",
+    "url": "/wiki/entities/carlobonaparte/"
+  },
   "CarloCollodi": {
     "title": "Carlo Collodi / 卡洛·科洛迪",
     "url": "/wiki/entities/carlocollodi/"
@@ -16790,6 +16798,10 @@
   "Corsica": {
     "title": "Corsica",
     "url": "/wiki/entities/corsica/"
+  },
+  "CorsicanNationalism": {
+    "title": "Corsican Nationalism",
+    "url": "/wiki/concepts/corsicannationalism/"
   },
   "CortecGroup": {
     "title": "Cortec Group",
@@ -40359,6 +40371,10 @@
     "title": "Letitia James",
     "url": "/wiki/entities/letitiajames/"
   },
+  "LetiziaBonaparte": {
+    "title": "Letizia Bonaparte",
+    "url": "/wiki/entities/letiziabonaparte/"
+  },
   "LeveeEnMasse": {
     "title": "Levée en masse",
     "url": "/wiki/entities/leveeenmasse/"
@@ -58346,6 +58362,10 @@
   "RevolutionaryAtrocityNarrativeContest": {
     "title": "Revolutionary Atrocity Narrative Contest",
     "url": "/wiki/concepts/revolutionaryatrocitynarrativecontest/"
+  },
+  "RevolutionaryAuthoritarianOrder": {
+    "title": "Revolutionary Authoritarian Order",
+    "url": "/wiki/concepts/revolutionaryauthoritarianorder/"
   },
   "RevolutionaryChurchStateRupture": {
     "title": "Revolutionary Church-State Rupture",

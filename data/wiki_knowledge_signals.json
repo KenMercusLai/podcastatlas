@@ -22450,6 +22450,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/entities/carlasuperana/"
     },
+    "CarloBonaparte": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6500252244 [GLT6500252244].md",
+          "key": "382-young-napoleon-teenage-revolutionary-part-1-glt6500252244",
+          "show": "The Rest Is History",
+          "title": "382. Young Napoleon: Teenage Revolutionary (Part 1)",
+          "url": "/wiki/sources/382-young-napoleon-teenage-revolutionary-part-1-glt6500252244/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/carlobonaparte/"
+    },
     "CarloCollodi": {
       "episode_count": 2,
       "show_count": 2,
@@ -32014,9 +32030,9 @@
       "url": "/wiki/concepts/correctiveweaklinktraining/"
     },
     "Corsica": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2658259929 [GLT2658259929].md",
@@ -32024,10 +32040,33 @@
           "show": "The Rest Is History",
           "title": "383. Young Napoleon: The Shadow of the Guillotine (Part 2)",
           "url": "/wiki/sources/383-young-napoleon-the-shadow-of-the-guillotine-part-2-glt2658259929/"
+        },
+        {
+          "episode_file": "GLT6500252244 [GLT6500252244].md",
+          "key": "382-young-napoleon-teenage-revolutionary-part-1-glt6500252244",
+          "show": "The Rest Is History",
+          "title": "382. Young Napoleon: Teenage Revolutionary (Part 1)",
+          "url": "/wiki/sources/382-young-napoleon-teenage-revolutionary-part-1-glt6500252244/"
         }
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/corsica/"
+    },
+    "CorsicanNationalism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6500252244 [GLT6500252244].md",
+          "key": "382-young-napoleon-teenage-revolutionary-part-1-glt6500252244",
+          "show": "The Rest Is History",
+          "title": "382. Young Napoleon: Teenage Revolutionary (Part 1)",
+          "url": "/wiki/sources/382-young-napoleon-teenage-revolutionary-part-1-glt6500252244/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/corsicannationalism/"
     },
     "CorticostriatalThalamicLoop": {
       "episode_count": 2,
@@ -87741,6 +87780,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/lethalplanleakagerisk/"
     },
+    "LetiziaBonaparte": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6500252244 [GLT6500252244].md",
+          "key": "382-young-napoleon-teenage-revolutionary-part-1-glt6500252244",
+          "show": "The Rest Is History",
+          "title": "382. Young Napoleon: Teenage Revolutionary (Part 1)",
+          "url": "/wiki/sources/382-young-napoleon-teenage-revolutionary-part-1-glt6500252244/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/letiziabonaparte/"
+    },
     "LeveeEnMasse": {
       "episode_count": 1,
       "show_count": 1,
@@ -106775,9 +106830,9 @@
       "url": "/wiki/entities/nansunshi/"
     },
     "NapoleonBonaparte": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "21.红与黑：他死于真诚 [569042001].md",
@@ -106799,6 +106854,13 @@
           "show": "The Rest Is History",
           "title": "383. Young Napoleon: The Shadow of the Guillotine (Part 2)",
           "url": "/wiki/sources/383-young-napoleon-the-shadow-of-the-guillotine-part-2-glt2658259929/"
+        },
+        {
+          "episode_file": "GLT6500252244 [GLT6500252244].md",
+          "key": "382-young-napoleon-teenage-revolutionary-part-1-glt6500252244",
+          "show": "The Rest Is History",
+          "title": "382. Young Napoleon: Teenage Revolutionary (Part 1)",
+          "url": "/wiki/sources/382-young-napoleon-teenage-revolutionary-part-1-glt6500252244/"
         }
       ],
       "updated": "2026-09-27",
@@ -114360,9 +114422,9 @@
       "url": "/wiki/concepts/partyprohibitionkinshipexpansion/"
     },
     "PasqualePaoli": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2658259929 [GLT2658259929].md",
@@ -114370,6 +114432,13 @@
           "show": "The Rest Is History",
           "title": "383. Young Napoleon: The Shadow of the Guillotine (Part 2)",
           "url": "/wiki/sources/383-young-napoleon-the-shadow-of-the-guillotine-part-2-glt2658259929/"
+        },
+        {
+          "episode_file": "GLT6500252244 [GLT6500252244].md",
+          "key": "382-young-napoleon-teenage-revolutionary-part-1-glt6500252244",
+          "show": "The Rest Is History",
+          "title": "382. Young Napoleon: Teenage Revolutionary (Part 1)",
+          "url": "/wiki/sources/382-young-napoleon-teenage-revolutionary-part-1-glt6500252244/"
         }
       ],
       "updated": "2026-09-27",
@@ -127464,6 +127533,29 @@
       "updated": "2026-09-22",
       "url": "/wiki/concepts/revolutionaryatrocitynarrativecontest/"
     },
+    "RevolutionaryAuthoritarianOrder": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "GLT6500252244 [GLT6500252244].md",
+          "key": "382-young-napoleon-teenage-revolutionary-part-1-glt6500252244",
+          "show": "The Rest Is History",
+          "title": "382. Young Napoleon: Teenage Revolutionary (Part 1)",
+          "url": "/wiki/sources/382-young-napoleon-teenage-revolutionary-part-1-glt6500252244/"
+        },
+        {
+          "episode_file": "GLT2658259929 [GLT2658259929].md",
+          "key": "383-young-napoleon-the-shadow-of-the-guillotine-part-2-glt2658259929",
+          "show": "The Rest Is History",
+          "title": "383. Young Napoleon: The Shadow of the Guillotine (Part 2)",
+          "url": "/wiki/sources/383-young-napoleon-the-shadow-of-the-guillotine-part-2-glt2658259929/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/revolutionaryauthoritarianorder/"
+    },
     "RevolutionaryChurchStateRupture": {
       "episode_count": 1,
       "show_count": 1,
@@ -127828,9 +127920,9 @@
       "url": "/wiki/entities/revolutionarytribunal/"
     },
     "RevolutionaryUniversalismIdentity": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2658259929 [GLT2658259929].md",
@@ -127838,6 +127930,13 @@
           "show": "The Rest Is History",
           "title": "383. Young Napoleon: The Shadow of the Guillotine (Part 2)",
           "url": "/wiki/sources/383-young-napoleon-the-shadow-of-the-guillotine-part-2-glt2658259929/"
+        },
+        {
+          "episode_file": "GLT6500252244 [GLT6500252244].md",
+          "key": "382-young-napoleon-teenage-revolutionary-part-1-glt6500252244",
+          "show": "The Rest Is History",
+          "title": "382. Young Napoleon: Teenage Revolutionary (Part 1)",
+          "url": "/wiki/sources/382-young-napoleon-teenage-revolutionary-part-1-glt6500252244/"
         }
       ],
       "updated": "2026-09-27",

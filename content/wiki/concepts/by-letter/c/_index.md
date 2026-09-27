@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8405
+wiki_total_pages: 8407
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -1979,6 +1979,9 @@ wiki_pages:
   - key: "CorrectiveWeakLinkTraining"
     title: "Corrective Weak-Link Training"
     url: "/wiki/concepts/correctiveweaklinktraining/"
+  - key: "CorsicanNationalism"
+    title: "Corsican Nationalism"
+    url: "/wiki/concepts/corsicannationalism/"
   - key: "CorticostriatalThalamicLoop"
     title: "Corticostriatal-Thalamic Loop"
     url: "/wiki/concepts/corticostriatalthalamicloop/"

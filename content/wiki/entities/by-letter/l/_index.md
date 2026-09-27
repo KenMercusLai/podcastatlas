@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 11007
+wiki_total_pages: 11009
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -329,6 +329,9 @@ wiki_pages:
   - key: "LetitiaJames"
     title: "Letitia James"
     url: "/wiki/entities/letitiajames/"
+  - key: "LetiziaBonaparte"
+    title: "Letizia Bonaparte"
+    url: "/wiki/entities/letiziabonaparte/"
   - key: "LeviCase"
     title: "Levi Case"
     url: "/wiki/entities/levicase/"
