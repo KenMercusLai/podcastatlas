@@ -23638,3 +23638,10 @@ Added source `383-young-napoleon-the-shadow-of-the-guillotine-part-2-glt26582599
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-09-27] ingest | VOL.82妇科｜住酒店、洗牙易患性病？女生感染HPV后男生应做什么？
+
+Added source `vol-82-fuke-zhu-jiudian-xiya-yi-huan-xingbing-nvsheng-ganran-hpv-hou-nansheng-ying-zuo-shenme-lgihsbqu9wldxyrjfomxghqtjqdg`; created `IndirectSexualInfectionExposureRisk` and `HPVPreventionAndFollowup`; and updated `BaoerGynecologist`, `FirstAffiliatedHospitalChengduMedicalCollege`, `GynecologicalSymptomTriage`, `ContraceptionSexualHealthRiskLiteracy`, and the canonical index from their complete bounded source sets. Core synthesis: symptom patterns should not be converted automatically into an STI diagnosis; indirect transmission depends on route, viability, timing, dose, and susceptibility; and HPV prevention separates vaccination, barrier use, screening, result-specific follow-up, partner participation, and anti-stigma communication. No settled contradiction with VOL.83 or VOL.84 was found. Pathogen survival, transmission percentages, HPV prevalence, immune clearance, vaccine eligibility and coverage, screening cadence, male testing, and environmental transmission remain source-scoped and time-sensitive rather than individualized current clinical guidance. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

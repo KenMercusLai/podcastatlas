@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 8400
+wiki_total_pages: 8402
 wiki_pages:
   - key: "IBDPatientEducationAndPeerSupport"
     title: "IBD Patient Education and Peer Support / IBD患者教育与同伴支持"
@@ -302,6 +302,9 @@ wiki_pages:
   - key: "IndirectRegulatoryCoercion"
     title: "Indirect Regulatory Coercion"
     url: "/wiki/concepts/indirectregulatorycoercion/"
+  - key: "IndirectSexualInfectionExposureRisk"
+    title: "Indirect Sexual-Infection Exposure Risk / 间接性传播感染风险"
+    url: "/wiki/concepts/indirectsexualinfectionexposurerisk/"
   - key: "IndividualAbandonmentNarrative"
     title: "Individual Abandonment Narrative / 个体被抛弃叙事"
     url: "/wiki/concepts/individualabandonmentnarrative/"

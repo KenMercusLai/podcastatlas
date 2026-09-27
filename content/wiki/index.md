@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.82妇科｜住酒店、洗牙易患性病？女生感染HPV后男生应做什么？](sources/vol-82-fuke-zhu-jiudian-xiya-yi-huan-xingbing-nvsheng-ganran-hpv-hou-nansheng-ying-zuo-shenme-lgihsbqu9wldxyrjfomxghqtjqdg.md) — 这病说来话长 episode on vulvar symptom triage, indirect STI exposure risk, hotel hygiene, HPV prevention, partner responsibility, vaccination, screening, and follow-up.
 - [383. Young Napoleon: The Shadow of the Guillotine (Part 2)](sources/383-young-napoleon-the-shadow-of-the-guillotine-part-2-glt2658259929.md) — The Rest Is History episode on Napoleon's Corsican rupture, Toulon breakthrough, Thermidorian survival, Vendémiaire suppression, Barras patronage, and marriage to Josephine.
 - [VOL.83妇科｜你是否也正被这些问题困扰？生理期、妇科检查、盆底肌修复、产褥期的问题这篇一一作答](sources/vol-83-fuke-ni-shifou-ye-zheng-bei-zhexie-wenti-kunrao-shengliqi-fuke-jiancha-pendiji-xiufu-chanruqi-de-wenti-zhepian-yiyi-zuoda-loabkthdztlcuy7qfhsrkaqujlf3.md) — 这病说来话长 listener Q&A on menstrual and gynecological symptom triage, AMH, contraception, postpartum pelvic-floor rehabilitation, examinations, and sex education.
 - [384. The Fall of the Aztecs: The Adventure Begins (Part 1)](sources/384-the-fall-of-the-aztecs-the-adventure-begins-part-1-glt8046611029.md) — The Rest Is History episode on Cortes's Iberian formation, Caribbean colonial apprenticeship, westward reconnaissance, mixed motives, and conquest-source uncertainty.
@@ -14003,6 +14004,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Michael Eisenberg](entities/MichaelEisenberg.md) — Urologist and researcher framing male fertility and sexual function through objective testing, whole-body health, and treatment boundaries.
 
 ## Concepts
+- [Indirect Sexual-Infection Exposure Risk / 间接性传播感染风险](concepts/IndirectSexualInfectionExposureRisk.md) — Route-, viability-, dose-, timing-, and susceptibility-based framework separating theoretical exposure from likely transmission.
+- [HPV Prevention and Follow-Up / HPV预防与随访](concepts/HPVPreventionAndFollowup.md) — Layered framework separating HPV exposure reduction, vaccination, screening, abnormal-result follow-up, and partner participation.
 - [Siege of Toulon](concepts/SiegeOfToulon.md) — 1793 campaign where artillery strategy, revolutionary opportunity, promotion, and post-victory atrocity converged.
 - [Vendémiaire Uprising](concepts/VendemiaireUprising.md) — 1795 royalist challenge suppressed by Napoleon's artillery in defence of the Directory.
 - [Revolutionary Universalism and Identity](concepts/RevolutionaryUniversalismIdentity.md) — How a universal political mission can absorb displaced identity while enabling national expansion.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 8400
+wiki_total_pages: 8402
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -704,6 +704,9 @@ wiki_pages:
   - key: "HPSScienceEducation"
     title: "HPS Science Education / 科学史哲社会科学教育"
     url: "/wiki/concepts/hpsscienceeducation/"
+  - key: "HPVPreventionAndFollowup"
+    title: "HPV Prevention and Follow-Up / HPV预防与随访"
+    url: "/wiki/concepts/hpvpreventionandfollowup/"
   - key: "HuaiwangAgreement"
     title: "Huaiwang Agreement / 怀王之约"
     url: "/wiki/concepts/huaiwangagreement/"
