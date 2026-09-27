@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 8486
+wiki_total_pages: 8488
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -50,6 +50,9 @@ wiki_pages:
   - key: "SacrificingOthersEthics"
     title: "Sacrificing Others Ethics"
     url: "/wiki/concepts/sacrificingothersethics/"
+  - key: "SadeanNaturalism"
+    title: "Sadean Naturalism"
+    url: "/wiki/concepts/sadeannaturalism/"
   - key: "SafeEffortProcrastinationReset"
     title: "Safe Effort Procrastination Reset"
     url: "/wiki/concepts/safeeffortprocrastinationreset/"

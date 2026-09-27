@@ -15380,9 +15380,9 @@
       "url": "/wiki/concepts/basicresearchbreakthroughlatency/"
     },
     "BastilleRevolutionaryMythmaking": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5485693441 [GLT5485693441].md",
@@ -15397,9 +15397,16 @@
           "show": "The Rest Is History",
           "title": "411. The Man in the Iron Mask",
           "url": "/wiki/sources/411-the-man-in-the-iron-mask-glt3787137343/"
+        },
+        {
+          "episode_file": "GLT8871465113 [GLT8871465113].md",
+          "key": "365-le-marquis-de-sade-sex-and-violence-glt8871465113",
+          "show": "The Rest Is History",
+          "title": "365. Le Marquis de Sade: Sex and Violence",
+          "url": "/wiki/sources/365-le-marquis-de-sade-sex-and-violence-glt8871465113/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/bastillerevolutionarymythmaking/"
     },
     "BatterySupplierDiversification": {
@@ -91544,6 +91551,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/liberationdestructiondilemma/"
     },
+    "LibertineFreedomDominationParadox": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8871465113 [GLT8871465113].md",
+          "key": "365-le-marquis-de-sade-sex-and-violence-glt8871465113",
+          "show": "The Rest Is History",
+          "title": "365. Le Marquis de Sade: Sex and Violence",
+          "url": "/wiki/sources/365-le-marquis-de-sade-sex-and-violence-glt8871465113/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/libertinefreedomdominationparadox/"
+    },
     "LicensedSyntheticVoiceMarketplace": {
       "episode_count": 1,
       "show_count": 1,
@@ -102065,6 +102088,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/marquisdelafayette/"
+    },
+    "MarquisDeSade": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8871465113 [GLT8871465113].md",
+          "key": "365-le-marquis-de-sade-sex-and-violence-glt8871465113",
+          "show": "The Rest Is History",
+          "title": "365. Le Marquis de Sade: Sex and Violence",
+          "url": "/wiki/sources/365-le-marquis-de-sade-sex-and-violence-glt8871465113/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/marquisdesade/"
     },
     "MarriageAllianceWarExposure": {
       "episode_count": 2,
@@ -133568,6 +133607,22 @@
       "updated": "2026-09-17",
       "url": "/wiki/entities/sacredpawssoapcompany/"
     },
+    "SadeanNaturalism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8871465113 [GLT8871465113].md",
+          "key": "365-le-marquis-de-sade-sex-and-violence-glt8871465113",
+          "show": "The Rest Is History",
+          "title": "365. Le Marquis de Sade: Sex and Violence",
+          "url": "/wiki/sources/365-le-marquis-de-sade-sex-and-violence-glt8871465113/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/sadeannaturalism/"
+    },
     "SadiqKhan": {
       "episode_count": 2,
       "show_count": 1,
@@ -150578,6 +150633,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/thatcheritemoralmarketpolitics/"
+    },
+    "The120DaysOfSodom": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8871465113 [GLT8871465113].md",
+          "key": "365-le-marquis-de-sade-sex-and-violence-glt8871465113",
+          "show": "The Rest Is History",
+          "title": "365. Le Marquis de Sade: Sex and Violence",
+          "url": "/wiki/sources/365-le-marquis-de-sade-sex-and-violence-glt8871465113/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/the120daysofsodom/"
     },
     "TheAnxiousGeneration": {
       "episode_count": 2,

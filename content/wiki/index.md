@@ -8,6 +8,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Sources
 - [How Risk Taking, Innovation & Artificial Intelligence Transform Human Experience | Marc Andreessen](sources/how-risk-taking-innovation-artificial-intelligence-transform-human-experience-marc-andreessen-scim7464698870.md) — Huberman Lab conversation on innovator traits, founder idea mazes, institutional resistance, defensive AI governance, nuclear-energy opportunity costs, and technology moral panics.
 - [VOL.71精神科｜关爱产后抑郁：产前一级预防 产后拒绝漠视 给予更多陪伴](sources/vol-71-jingshenke-guanai-chanhou-yiyu-chanqian-yiji-yufang-chanhou-jujue-moshi-jiyu-gengduo-peiban-loossm3a72jbbdj7tplmsidw4ovi.md) — 这病说来话长 episode on postpartum-depression recognition, antenatal prevention, practical family support, safety escalation, and pregnancy or lactation medication decisions.
+- [365. Le Marquis de Sade: Sex and Violence](sources/365-le-marquis-de-sade-sex-and-violence-glt8871465113.md) — The Rest Is History episode on Sade's abuse allegations, imprisonment, revolutionary role, anti-Christian naturalism, libertine domination, and contested modern legacy.
 - [366. The Architect of Modern China](sources/366-the-architect-of-modern-china-glt1902993082.md) — The Rest Is History episode on Deng Xiaoping's market reforms, party authoritarianism, local experimentation, Zhao Ziyang, and the 1989 Tiananmen crackdown.
 - [367. The Real Harry Potter: Magic, Empire and Beastly Bullies](sources/367-the-real-harry-potter-magic-empire-and-beastly-bullies-glt3711207657.md) — The Rest Is History episode on Tom Brown's School Days, Rugby, muscular Christianity, public-school hierarchy, and Hogwarts's transformation of the British school-story tradition.
 - [Journal Club With Dr. Peter Attia | Metformin for Longevity & the Power of Belief Effects](sources/journal-club-with-dr-peter-attia-metformin-for-longevity-the-power-of-belief-effects-scim5394566255.md) — Huberman Lab Journal Club on metformin mortality evidence, informative censoring, comparator limits, mouse longevity testing, and dose-dependent nicotine belief effects.
@@ -14122,6 +14123,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Arnold Leese](entities/ArnoldLeese.md) — Veterinarian, camel specialist, antisemite, and founder of the Imperial Fascist League.
 - [吴浩哲 / Wu Haozhe](entities/WuHaozhe.md) — Vibe Trading author and researcher framing AI-assisted investing as verified research plus bounded, accountable action.
 - [Vibe Trading](entities/VibeTrading.md) — Open-source secondary-market research workspace integrating macro, fundamental, quantitative, and risk analysis.
+- [Marquis de Sade](entities/MarquisDeSade.md) — French aristocrat and writer whose libertine philosophy joined selected emancipatory claims to coercive domination.
+- [The 120 Days of Sodom](entities/The120DaysOfSodom.md) — Sade's prison-written novel of sealed, scheduled, and escalating domination.
 
 ## Concepts
 - [Innovator Trait Configuration](concepts/InnovatorTraitConfiguration.md) — Qualified founder-personality heuristic joining openness, execution, norm resistance, intelligence, and stress tolerance.
@@ -22626,5 +22629,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Financial Data Alignment / 金融数据对齐](concepts/FinancialDataAlignment.md) — Semantic and temporal alignment of units, conventions, sources, revisions, missingness, and dependencies in financial research.
 - [Point-in-Time Backtesting / 时点回测](concepts/PointInTimeBacktesting.md) — Historical testing restricted to information and data versions available at each simulated decision time.
 - [Trading Probability Calibration / 交易概率校准](concepts/TradingProbabilityCalibration.md) — Validation of confidence against outcomes, market pricing, evidence dependence, costs, and position size.
+- [Sadean Naturalism](concepts/SadeanNaturalism.md) — Move from natural desire and struggle to moral permission for domination.
+- [Libertine Freedom-Domination Paradox](concepts/LibertineFreedomDominationParadox.md) — Contradiction in which liberation from restraint erases another person's consent and agency.
 
 ## Syntheses

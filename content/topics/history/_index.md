@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2086
+topic_total_pages: 2087
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4650,6 +4650,9 @@ topic_sources:
   - key: "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008"
     title: "318: Hundred Years' War: A Game of Thrones (Part 1)"
     url: "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+  - key: "365-le-marquis-de-sade-sex-and-violence-glt8871465113"
+    title: "365. Le Marquis de Sade: Sex and Violence"
+    url: "/wiki/sources/365-le-marquis-de-sade-sex-and-violence-glt8871465113/"
   - key: "366-the-architect-of-modern-china-glt1902993082"
     title: "366. The Architect of Modern China"
     url: "/wiki/sources/366-the-architect-of-modern-china-glt1902993082/"

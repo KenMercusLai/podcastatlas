@@ -1535,6 +1535,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "365-le-marquis-de-sade-sex-and-violence-glt8871465113": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "366-the-architect-of-modern-china-glt1902993082": [
     {
       "key": "history",
@@ -73110,6 +73122,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "The120DaysOfSodom": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "TheAITurningPoint": [

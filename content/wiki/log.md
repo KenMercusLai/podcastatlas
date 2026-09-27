@@ -23996,3 +23996,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | 365. Le Marquis de Sade: Sex and Violence
+
+Added source `365-le-marquis-de-sade-sex-and-violence-glt8871465113`; created `MarquisDeSade`, `The120DaysOfSodom`, `SadeanNaturalism`, and `LibertineFreedomDominationParadox`; and updated `BastilleRevolutionaryMythmaking` plus the canonical index from the complete bounded source set. Core synthesis: Sade's historical importance lies in the contradiction between selected emancipatory positions and a nature-and-desire philosophy that licenses domination, while *The 120 Days of Sodom* turns that logic into a sealed and organized system. No settled contradiction found. Abuse allegations, revolutionary conduct, victim experience, and claimed lines to Darwin, Nietzsche, Freud, fascism, Nazism, Stalinism, Maoism, and totalitarianism remain source-scoped or interpretive. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
