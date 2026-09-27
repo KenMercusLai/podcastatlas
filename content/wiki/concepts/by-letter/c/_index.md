@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8452
+wiki_total_pages: 8453
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1289,6 +1289,9 @@ wiki_pages:
   - key: "ColdWarNuclearMisperception"
     title: "Cold War Nuclear Misperception / 冷战核误判"
     url: "/wiki/concepts/coldwarnuclearmisperception/"
+  - key: "ColdWarRegimeChangePressure"
+    title: "Cold War Regime-Change Pressure"
+    url: "/wiki/concepts/coldwarregimechangepressure/"
   - key: "ColdWarSpycraft"
     title: "Cold War Spycraft / 冷战间谍技艺"
     url: "/wiki/concepts/coldwarspycraft/"

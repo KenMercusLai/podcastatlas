@@ -26445,9 +26445,9 @@
       "url": "/wiki/entities/childeharoldspilgrimage/"
     },
     "Chile": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "Latin lessons： the Donroe-doctrine boost [6a4233e26b6690f46aae4e3d].md",
@@ -26469,15 +26469,22 @@
           "show": "The Rest Is History",
           "title": "371. The 1973 Chilean Coup: General Pinochet Seizes Power (Part 2)",
           "url": "/wiki/sources/371-the-1973-chilean-coup-general-pinochet-seizes-power-part-2-glt3740766328/"
+        },
+        {
+          "episode_file": "GLT6405070034 [GLT6405070034].md",
+          "key": "370-the-1973-chilean-coup-allende-nixon-and-the-cia-part-1-glt6405070034",
+          "show": "The Rest Is History",
+          "title": "370. The 1973 Chilean Coup: Allende, Nixon and the CIA (Part 1)",
+          "url": "/wiki/sources/370-the-1973-chilean-coup-allende-nixon-and-the-cia-part-1-glt6405070034/"
         }
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/chile/"
     },
     "ChileanCoup1973": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3740766328 [GLT3740766328].md",
@@ -26485,6 +26492,13 @@
           "show": "The Rest Is History",
           "title": "371. The 1973 Chilean Coup: General Pinochet Seizes Power (Part 2)",
           "url": "/wiki/sources/371-the-1973-chilean-coup-general-pinochet-seizes-power-part-2-glt3740766328/"
+        },
+        {
+          "episode_file": "GLT6405070034 [GLT6405070034].md",
+          "key": "370-the-1973-chilean-coup-allende-nixon-and-the-cia-part-1-glt6405070034",
+          "show": "The Rest Is History",
+          "title": "370. The 1973 Chilean Coup: Allende, Nixon and the CIA (Part 1)",
+          "url": "/wiki/sources/370-the-1973-chilean-coup-allende-nixon-and-the-cia-part-1-glt6405070034/"
         }
       ],
       "updated": "2026-09-27",
@@ -29948,6 +29962,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/coldshiveringthermogenesis/"
     },
+    "ColdWarRegimeChangePressure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6405070034 [GLT6405070034].md",
+          "key": "370-the-1973-chilean-coup-allende-nixon-and-the-cia-part-1-glt6405070034",
+          "show": "The Rest Is History",
+          "title": "370. The 1973 Chilean Coup: Allende, Nixon and the CIA (Part 1)",
+          "url": "/wiki/sources/370-the-1973-chilean-coup-allende-nixon-and-the-cia-part-1-glt6405070034/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/coldwarregimechangepressure/"
+    },
     "ColemanRuiz": {
       "episode_count": 1,
       "show_count": 1,
@@ -31868,9 +31898,9 @@
       "url": "/wiki/concepts/constitutionalmonarchyvetoconflict/"
     },
     "ConstitutionalistMilitaryNorm": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3740766328 [GLT3740766328].md",
@@ -31878,6 +31908,13 @@
           "show": "The Rest Is History",
           "title": "371. The 1973 Chilean Coup: General Pinochet Seizes Power (Part 2)",
           "url": "/wiki/sources/371-the-1973-chilean-coup-general-pinochet-seizes-power-part-2-glt3740766328/"
+        },
+        {
+          "episode_file": "GLT6405070034 [GLT6405070034].md",
+          "key": "370-the-1973-chilean-coup-allende-nixon-and-the-cia-part-1-glt6405070034",
+          "show": "The Rest Is History",
+          "title": "370. The 1973 Chilean Coup: Allende, Nixon and the CIA (Part 1)",
+          "url": "/wiki/sources/370-the-1973-chilean-coup-allende-nixon-and-the-cia-part-1-glt6405070034/"
         }
       ],
       "updated": "2026-09-27",
@@ -128402,6 +128439,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/renalfindingtriage/"
     },
+    "ReneSchneider": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6405070034 [GLT6405070034].md",
+          "key": "370-the-1973-chilean-coup-allende-nixon-and-the-cia-part-1-glt6405070034",
+          "show": "The Rest Is History",
+          "title": "370. The 1973 Chilean Coup: Allende, Nixon and the CIA (Part 1)",
+          "url": "/wiki/sources/370-the-1973-chilean-coup-allende-nixon-and-the-cia-part-1-glt6405070034/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/reneschneider/"
+    },
     "RenewedMandateRitualReversal": {
       "episode_count": 1,
       "show_count": 1,
@@ -132892,9 +132945,9 @@
       "url": "/wiki/concepts/saltrevenueagriculturalrecovery/"
     },
     "SalvadorAllende": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3740766328 [GLT3740766328].md",
@@ -132902,6 +132955,13 @@
           "show": "The Rest Is History",
           "title": "371. The 1973 Chilean Coup: General Pinochet Seizes Power (Part 2)",
           "url": "/wiki/sources/371-the-1973-chilean-coup-general-pinochet-seizes-power-part-2-glt3740766328/"
+        },
+        {
+          "episode_file": "GLT6405070034 [GLT6405070034].md",
+          "key": "370-the-1973-chilean-coup-allende-nixon-and-the-cia-part-1-glt6405070034",
+          "show": "The Rest Is History",
+          "title": "370. The 1973 Chilean Coup: Allende, Nixon and the CIA (Part 1)",
+          "url": "/wiki/sources/370-the-1973-chilean-coup-allende-nixon-and-the-cia-part-1-glt6405070034/"
         }
       ],
       "updated": "2026-09-27",

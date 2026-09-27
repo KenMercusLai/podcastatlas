@@ -1547,6 +1547,18 @@
       "url": "/topics/science/"
     }
   ],
+  "370-the-1973-chilean-coup-allende-nixon-and-the-cia-part-1-glt6405070034": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "371-the-1973-chilean-coup-general-pinochet-seizes-power-part-2-glt3740766328": [
     {
       "key": "history",
@@ -19071,6 +19083,13 @@
     }
   ],
   "ColdWarNuclearMisperception": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "ColdWarRegimeChangePressure": [
     {
       "key": "politics",
       "label": "Politics",

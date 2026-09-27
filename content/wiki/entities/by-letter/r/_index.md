@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 11059
+wiki_total_pages: 11060
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -251,6 +251,9 @@ wiki_pages:
   - key: "RenminUniversityOfChina"
     title: "Renmin University of China / 中国人民大学"
     url: "/wiki/entities/renminuniversityofchina/"
+  - key: "ReneSchneider"
+    title: "René Schneider"
+    url: "/wiki/entities/reneschneider/"
   - key: "ReplicationGames"
     title: "Replication Games"
     url: "/wiki/entities/replicationgames/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [370. The 1973 Chilean Coup: Allende, Nixon and the CIA (Part 1)](sources/370-the-1973-chilean-coup-allende-nixon-and-the-cia-part-1-glt6405070034.md) — The Rest Is History episode on Allende's rise and reforms, U.S. intervention, economic crisis, and Chile's road toward the 1973 coup.
 - [371. The 1973 Chilean Coup: General Pinochet Seizes Power (Part 2)](sources/371-the-1973-chilean-coup-general-pinochet-seizes-power-part-2-glt3740766328.md) — The Rest Is History episode on Chile's 1973 military coup, Allende's death, Pinochet's consolidation, U.S. interference, and the escalation into state terror.
 - [Efforts & Challenges in Promoting Public Health | U.S. Surgeon General Dr. Vivek Murthy](sources/efforts-challenges-in-promoting-public-health-us-surgeon-general-dr-vivek-murthy-scim4553126123.md) — Huberman Lab conversation on public-health trust, prevention, food-system constraints, fragmented care, loneliness, and youth social-media safety.
 - [VOL.76中医科｜过敏性鼻炎、春捂秋冻、贴秋膘 你应该知道的秋季养生禁忌和参考](sources/vol-76-zhongyike-guominxing-biyan-chunwu-qiudong-tieqiubiao-ni-yinggai-zhidao-de-qiuji-yangsheng-jinji-he-cankao-llayq2sgeabfjsosctpqfbtgff6e.md) — 这病说来话长 episode separating adaptable autumn routines and allergy-exposure reduction from unvalidated seasonal TCM diagnosis and treatment claims.
@@ -3011,6 +3012,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [372. The Birth of British Fascism](sources/372-the-birth-of-british-fascism-glt4747738645.md) — The Rest Is History episode on Britain's domestic fascist ingredients, early organizations, parliamentary resilience, and the leadership gap before Mosley.
 
 ## Entities
+- [René Schneider](entities/ReneSchneider.md) — Constitutionalist Chilean army commander whose resistance to military intervention protected Allende's 1970 accession.
 - [Augusto Pinochet](entities/AugustoPinochet.md) — Chilean army commander who converted the 1973 coup and junta leadership into personal dictatorship.
 - [Salvador Allende](entities/SalvadorAllende.md) — Democratically elected Chilean socialist president overthrown in the 1973 coup.
 - [Carlos Prats](entities/CarlosPrats.md) — Constitutionalist Chilean army commander whose resignation opened the command to Pinochet.
@@ -14088,6 +14090,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Arnold Leese](entities/ArnoldLeese.md) — Veterinarian, camel specialist, antisemite, and founder of the Imperial Fascist League.
 
 ## Concepts
+- [Cold War Regime-Change Pressure](concepts/ColdWarRegimeChangePressure.md) — Cross-channel model of electoral, economic, informational, and military pressure against an unacceptable government.
 - [1973 Chilean Coup](concepts/ChileanCoup1973.md) — Multi-causal account of Chile's democratic rupture through domestic conflict, foreign pressure, and military agency.
 - [Constitutionalist Military Norm](concepts/ConstitutionalistMilitaryNorm.md) — Armed-forces non-intervention norm whose fragility is exposed by command succession and polarization.
 - [Coup-to-State-Terror Escalation](concepts/CoupToStateTerror.md) — Transition from government seizure to institutionalized detention, torture, killing, and disappearance.

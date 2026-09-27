@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-27] ingest | 370. The 1973 Chilean Coup: Allende, Nixon and the CIA (Part 1)
+
+Added source `370-the-1973-chilean-coup-allende-nixon-and-the-cia-part-1-glt6405070034`; created `ReneSchneider` and `ColdWarRegimeChangePressure`; and updated `SalvadorAllende`, `Chile`, `ChileanCoup1973`, `ConstitutionalistMilitaryNorm`, and the canonical index from their complete bounded source sets. Core synthesis: Allende's elected socialist reforms, economic and institutional crisis, extensive U.S. intervention, autonomous Chilean opposition, and weakening military constitutionalism interacted rather than forming a single-cause path to the coup. No settled contradiction with Part 2 was found: documented U.S. destabilization and coup encouragement coexist with Chilean operational agency. Economic figures, corporate influence, funding, supply disruption, the Schneider plot, and precise causal weights remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-27] ingest | 377. Baghdad: Crossroads of the Universe (Part 2)
 
 Added source `377-baghdad-crossroads-of-the-universe-part-2-glt9127243683`; created `AlMansur`, `AbuMuslim`, `AbbasidRevolution`, and `RoundCityOfBaghdad`; and updated `Baghdad`, `AbbasidCaliphate`, `ImperialMetropolisIntegration`, and the canonical index from their complete bounded source sets. Core synthesis: a Khorasan-based coalition converted Abbasid genealogy, sacred expectation, Persian memory, and military force into victory over the Umayyads, but dynastic violence and disappointed justice claims qualified the revolution; al-Mansur then joined strategic site choice, commercial access, hierarchy, Persian precedents, and Khorasani support in Baghdad's planned foundation. No settled contradiction with Parts 3–4 was found. Abu Muslim's identity, Behiferid's claims, atrocity anecdotes, foundation timing, design attribution, etymology, and architectural symbolism remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -23856,6 +23860,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-27] ingest | 371. The 1973 Chilean Coup: General Pinochet Seizes Power (Part 2)
 
 Added source `371-the-1973-chilean-coup-general-pinochet-seizes-power-part-2-glt3740766328`; created `AugustoPinochet`, `SalvadorAllende`, `CarlosPrats`, `VictorJara`, `ChileanCoup1973`, `ConstitutionalistMilitaryNorm`, and `CoupToStateTerror`; and updated `Chile`, `MargaretThatcher`, and the canonical index from their complete bounded source sets. Core synthesis: class polarization, economic crisis, constitutional conflict, U.S. interference, military agency, and the removal of constitutional command restraint jointly explain the coup, while Pinochet's later personal consolidation and organized repression remained choices rather than necessary consequences. Thatcher's geopolitical and economic reasons for defending Pinochet are preserved as explanation rather than vindication. No settled contradiction found. The timing of Pinochet's commitment, Allende's possible referendum, casualty estimates, intercepted-command interpretation, and precise U.S. operational knowledge remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-27] lint | Wiki health check
 

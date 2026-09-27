@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2081
+topic_total_pages: 2082
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4650,6 +4650,9 @@ topic_sources:
   - key: "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008"
     title: "318: Hundred Years' War: A Game of Thrones (Part 1)"
     url: "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+  - key: "370-the-1973-chilean-coup-allende-nixon-and-the-cia-part-1-glt6405070034"
+    title: "370. The 1973 Chilean Coup: Allende, Nixon and the CIA (Part 1)"
+    url: "/wiki/sources/370-the-1973-chilean-coup-allende-nixon-and-the-cia-part-1-glt6405070034/"
   - key: "371-the-1973-chilean-coup-general-pinochet-seizes-power-part-2-glt3740766328"
     title: "371. The 1973 Chilean Coup: General Pinochet Seizes Power (Part 2)"
     url: "/wiki/sources/371-the-1973-chilean-coup-general-pinochet-seizes-power-part-2-glt3740766328/"

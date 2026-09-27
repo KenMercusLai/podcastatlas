@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2752
+topic_total_pages: 2754
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -718,6 +718,9 @@ topic_concepts:
   - key: "ColdWarNuclearMisperception"
     title: "Cold War Nuclear Misperception / 冷战核误判"
     url: "/wiki/concepts/coldwarnuclearmisperception/"
+  - key: "ColdWarRegimeChangePressure"
+    title: "Cold War Regime-Change Pressure"
+    url: "/wiki/concepts/coldwarregimechangepressure/"
   - key: "CollateralPunishmentAndGuiltByAssociation"
     title: "Collateral Punishment And Guilt By Association"
     url: "/wiki/concepts/collateralpunishmentandguiltbyassociation/"
@@ -7311,6 +7314,9 @@ topic_sources:
   - key: "36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522"
     title: "36.黑暗的左手：流放与爱的未来往事"
     url: "/wiki/sources/36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522/"
+  - key: "370-the-1973-chilean-coup-allende-nixon-and-the-cia-part-1-glt6405070034"
+    title: "370. The 1973 Chilean Coup: Allende, Nixon and the CIA (Part 1)"
+    url: "/wiki/sources/370-the-1973-chilean-coup-allende-nixon-and-the-cia-part-1-glt6405070034/"
   - key: "406-the-nazis-in-power-hitlers-road-to-war-part-3-glt6776521114"
     title: "406. The Nazis in Power: Hitler’s Road to War (Part 3)"
     url: "/wiki/sources/406-the-nazis-in-power-hitlers-road-to-war-part-3-glt6776521114/"
