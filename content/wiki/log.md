@@ -24251,3 +24251,11 @@ Added source `vol-59-mazuike-jizhuwai-ke-shuzhong-zhixiao-guiyachuang-changjian-
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | 351: Amsterdam: Miracles, Money, and Mud (Part 1)
+
+Added source `351-amsterdam-miracles-money-and-mud-part-1-glt4666881212`; created `DutchEastIndiaCompany`, `AmsterdamStockExchange`, `MiracleOfAmsterdam`, and `CollectiveWaterManagement`; and updated `Amsterdam`, `DutchRepublic`, `PragmaticReligiousToleration`, and the canonical index from their complete bounded source sets. Core synthesis: Amsterdam's development joined flood-driven cooperation, medieval pilgrimage, post-1578 public Protestantism with concealed Catholic survival, refugee commercial knowledge, state-chartered global trade, permanent company shares, secondary trading, speculation, and regulation. No settled contradiction was adopted. Claims about capitalist firsts, pilgrimage scale, Calvinism and gambling, hydraulic cooperation's cultural effects, and specific market chronology remain source-scoped; the episode's celebratory VOC account underdevelops colonial conquest, slavery, forced labor, and monopoly violence. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

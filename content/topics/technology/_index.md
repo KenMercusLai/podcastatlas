@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3193
+topic_total_pages: 3194
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1444,6 +1444,9 @@ topic_concepts:
   - key: "CognitiveSurrender"
     title: "Cognitive Surrender"
     url: "/wiki/concepts/cognitivesurrender/"
+  - key: "CollectiveWaterManagement"
+    title: "Collective Water Management"
+    url: "/wiki/concepts/collectivewatermanagement/"
   - key: "CollegeMajorChoice"
     title: "College Major Choice"
     url: "/wiki/concepts/collegemajorchoice/"

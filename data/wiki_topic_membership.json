@@ -1521,6 +1521,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "351-amsterdam-miracles-money-and-mud-part-1-glt4666881212": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "353-paris-1968-the-students-revolt-part-1-glt6124707164": [
     {
       "key": "history",
@@ -9732,6 +9744,13 @@
     }
   ],
   "Amsterdam": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
+  "AmsterdamStockExchange": [
     {
       "key": "economics",
       "label": "Economics",
@@ -19336,6 +19355,13 @@
       "url": "/topics/science/"
     }
   ],
+  "CollectiveWaterManagement": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "CollegeCareerPreparation": [
     {
       "key": "culture",
@@ -25201,6 +25227,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "DutchEastIndiaCompany": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "DutchRepublic": [

@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2123
+topic_total_pages: 2126
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3278,6 +3278,9 @@ topic_entities:
   - key: "Amsterdam"
     title: "Amsterdam"
     url: "/wiki/entities/amsterdam/"
+  - key: "AmsterdamStockExchange"
+    title: "Amsterdam Stock Exchange"
+    url: "/wiki/entities/amsterdamstockexchange/"
   - key: "AmyInvestmentABC"
     title: "Amy / 投资ABC"
     url: "/wiki/entities/amyinvestmentabc/"
@@ -3749,6 +3752,9 @@ topic_entities:
   - key: "Dubai"
     title: "Dubai / 迪拜"
     url: "/wiki/entities/dubai/"
+  - key: "DutchEastIndiaCompany"
+    title: "Dutch East India Company"
+    url: "/wiki/entities/dutcheastindiacompany/"
   - key: "DutchRepublic"
     title: "Dutch Republic"
     url: "/wiki/entities/dutchrepublic/"
@@ -5658,6 +5664,9 @@ topic_sources:
   - key: "22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427"
     title: "22.足球经济学：读者不必是球迷"
     url: "/wiki/sources/22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427/"
+  - key: "351-amsterdam-miracles-money-and-mud-part-1-glt4666881212"
+    title: "351: Amsterdam: Miracles, Money, and Mud (Part 1)"
+    url: "/wiki/sources/351-amsterdam-miracles-money-and-mud-part-1-glt4666881212/"
   - key: "417-britain-in-1974-state-of-emergency-part-1-glt6761791949"
     title: "417. Britain in 1974: State of Emergency (Part 1)"
     url: "/wiki/sources/417-britain-in-1974-state-of-emergency-part-1-glt6761791949/"

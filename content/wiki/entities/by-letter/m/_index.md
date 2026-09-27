@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 11145
+wiki_total_pages: 11148
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1169,6 +1169,9 @@ wiki_pages:
   - key: "Minoxidil"
     title: "Minoxidil / 米诺地尔"
     url: "/wiki/entities/minoxidil/"
+  - key: "MiracleOfAmsterdam"
+    title: "Miracle of Amsterdam"
+    url: "/wiki/entities/miracleofamsterdam/"
   - key: "Mississippi"
     title: "Mississippi"
     url: "/wiki/entities/mississippi/"

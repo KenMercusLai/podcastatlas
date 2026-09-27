@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 11145
+wiki_total_pages: 11148
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -932,6 +932,9 @@ wiki_pages:
   - key: "Amsterdam"
     title: "Amsterdam"
     url: "/wiki/entities/amsterdam/"
+  - key: "AmsterdamStockExchange"
+    title: "Amsterdam Stock Exchange"
+    url: "/wiki/entities/amsterdamstockexchange/"
   - key: "AmyInvestmentABC"
     title: "Amy / 投资ABC"
     url: "/wiki/entities/amyinvestmentabc/"

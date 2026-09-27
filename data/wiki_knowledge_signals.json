@@ -8676,6 +8676,45 @@
       "updated": "2026-09-15",
       "url": "/wiki/entities/amoyfood/"
     },
+    "Amsterdam": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "GLT5637968455 [GLT5637968455].md",
+          "key": "695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455",
+          "show": "The Rest Is History",
+          "title": "695. Elizabeth I vs The Catholics: The Shadow War (Part 5)",
+          "url": "/wiki/sources/695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455/"
+        },
+        {
+          "episode_file": "GLT4666881212 [GLT4666881212].md",
+          "key": "351-amsterdam-miracles-money-and-mud-part-1-glt4666881212",
+          "show": "The Rest Is History",
+          "title": "351: Amsterdam: Miracles, Money, and Mud (Part 1)",
+          "url": "/wiki/sources/351-amsterdam-miracles-money-and-mud-part-1-glt4666881212/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/amsterdam/"
+    },
+    "AmsterdamStockExchange": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4666881212 [GLT4666881212].md",
+          "key": "351-amsterdam-miracles-money-and-mud-part-1-glt4666881212",
+          "show": "The Rest Is History",
+          "title": "351: Amsterdam: Miracles, Money, and Mud (Part 1)",
+          "url": "/wiki/sources/351-amsterdam-miracles-money-and-mud-part-1-glt4666881212/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/amsterdamstockexchange/"
+    },
     "AmyWebb": {
       "episode_count": 2,
       "show_count": 1,
@@ -30700,6 +30739,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/entities/colemanruiz/"
     },
+    "CollectiveWaterManagement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4666881212 [GLT4666881212].md",
+          "key": "351-amsterdam-miracles-money-and-mud-part-1-glt4666881212",
+          "show": "The Rest Is History",
+          "title": "351: Amsterdam: Miracles, Money, and Mud (Part 1)",
+          "url": "/wiki/sources/351-amsterdam-miracles-money-and-mud-part-1-glt4666881212/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/collectivewatermanagement/"
+    },
     "CollegeLogoLicensingMerchandise": {
       "episode_count": 1,
       "show_count": 1,
@@ -44127,10 +44182,26 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/dushubuchenglin/"
     },
-    "DutchRepublic": {
+    "DutchEastIndiaCompany": {
       "episode_count": 1,
       "show_count": 1,
       "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4666881212 [GLT4666881212].md",
+          "key": "351-amsterdam-miracles-money-and-mud-part-1-glt4666881212",
+          "show": "The Rest Is History",
+          "title": "351: Amsterdam: Miracles, Money, and Mud (Part 1)",
+          "url": "/wiki/sources/351-amsterdam-miracles-money-and-mud-part-1-glt4666881212/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/dutcheastindiacompany/"
+    },
+    "DutchRepublic": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4209356543 [GLT4209356543].md",
@@ -44138,9 +44209,16 @@
           "show": "The Rest Is History",
           "title": "680. The Netherlands: The Revolt that Made The Modern World (Part 4)",
           "url": "/wiki/sources/680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543/"
+        },
+        {
+          "episode_file": "GLT4666881212 [GLT4666881212].md",
+          "key": "351-amsterdam-miracles-money-and-mud-part-1-glt4666881212",
+          "show": "The Rest Is History",
+          "title": "351: Amsterdam: Miracles, Money, and Mud (Part 1)",
+          "url": "/wiki/sources/351-amsterdam-miracles-money-and-mud-part-1-glt4666881212/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/dutchrepublic/"
     },
     "DutchRevolt": {
@@ -107889,6 +107967,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/minoxidil/"
     },
+    "MiracleOfAmsterdam": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4666881212 [GLT4666881212].md",
+          "key": "351-amsterdam-miracles-money-and-mud-part-1-glt4666881212",
+          "show": "The Rest Is History",
+          "title": "351: Amsterdam: Miracles, Money, and Mud (Part 1)",
+          "url": "/wiki/sources/351-amsterdam-miracles-money-and-mud-part-1-glt4666881212/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/miracleofamsterdam/"
+    },
     "MissedDiagnosisRisk": {
       "episode_count": 1,
       "show_count": 1,
@@ -124638,9 +124732,9 @@
       "url": "/wiki/entities/pradmeshpatil/"
     },
     "PragmaticReligiousToleration": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4209356543 [GLT4209356543].md",
@@ -124648,9 +124742,16 @@
           "show": "The Rest Is History",
           "title": "680. The Netherlands: The Revolt that Made The Modern World (Part 4)",
           "url": "/wiki/sources/680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543/"
+        },
+        {
+          "episode_file": "GLT4666881212 [GLT4666881212].md",
+          "key": "351-amsterdam-miracles-money-and-mud-part-1-glt4666881212",
+          "show": "The Rest Is History",
+          "title": "351: Amsterdam: Miracles, Money, and Mud (Part 1)",
+          "url": "/wiki/sources/351-amsterdam-miracles-money-and-mud-part-1-glt4666881212/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/pragmaticreligioustoleration/"
     },
     "PraiseAsPoliticalMemory": {

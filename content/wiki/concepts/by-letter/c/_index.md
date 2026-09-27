@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8557
+wiki_total_pages: 8558
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1325,6 +1325,9 @@ wiki_pages:
   - key: "CollectiveUnconscious"
     title: "Collective Unconscious / 集体无意识"
     url: "/wiki/concepts/collectiveunconscious/"
+  - key: "CollectiveWaterManagement"
+    title: "Collective Water Management"
+    url: "/wiki/concepts/collectivewatermanagement/"
   - key: "CollegeCareerPreparation"
     title: "College Career Preparation"
     url: "/wiki/concepts/collegecareerpreparation/"
