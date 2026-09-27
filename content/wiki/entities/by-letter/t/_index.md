@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 10988
+wiki_total_pages: 10990
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -737,6 +737,9 @@ wiki_pages:
   - key: "TlatelolcoMassacre"
     title: "Tlatelolco Massacre / 三文化广场枪击"
     url: "/wiki/entities/tlatelolcomassacre/"
+  - key: "Tlaxcala"
+    title: "Tlaxcala"
+    url: "/wiki/entities/tlaxcala/"
   - key: "Tmall"
     title: "Tmall / 天猫"
     url: "/wiki/entities/tmall/"

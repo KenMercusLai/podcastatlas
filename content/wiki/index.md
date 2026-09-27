@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [389. The Fall of the Aztecs: The Night of Tears (Part 6)](sources/389-the-fall-of-the-aztecs-the-night-of-tears-part-6-glt2744313815.md) — The Rest Is History episode on the Noche Triste, Tlaxcalan coalition renewal, strategic terror, smallpox, succession, and preparation for the siege of Tenochtitlan.
 - [390. The Fall of the Aztecs: War to the Death (Part 7)](sources/390-the-fall-of-the-aztecs-war-to-the-death-part-7-glt1796642529.md) — The Rest Is History episode on the coalition, naval, logistical, epidemiological, urban, and civilian dimensions of Tenochtitlan's final siege.
 - [VOL.86头颈外科｜甲状腺疾病越来越喜欢招惹年轻人了吗？结节真是被气出来的吗？](sources/vol-86-toujing-waike-jiazhuangxian-jibing-yuelaiyue-xihuan-zhaore-nianqingren-le-ma-jiejie-zhen-shi-bei-qi-chulai-de-ma-lhlyxdyw0hcgnmfopab0976kw3fr.md) — 这病说来话长 episode with 张宇昊 on thyroid function, Hashimoto thyroiditis, nodule risk stratification, biopsy, differentiated cancer, surveillance, surgery, and iodine boundaries.
 - [391. The Fall of the Aztecs: The Last Emperor (Part 8)](sources/391-the-fall-of-the-aztecs-the-last-emperor-part-8-glt2984940365.md) — The Rest Is History finale on post-conquest violence, colonial law, Mexico City rebuilding, Indigenous adaptation, disease, memory, and the ethics of narrating catastrophe.
@@ -2968,10 +2969,12 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Entities
 - [张宇昊 / Zhang Yuhao (head-and-neck surgeon)](entities/ZhangYuhaoHeadNeckSurgeon.md) — Shanxi Bethune Hospital clinician explaining thyroid and neck-mass assessment through imaging, pathology, anatomy, follow-up, and individualized treatment.
 - [Shanxi Bethune Hospital / 山西白求恩医院](entities/ShanxiBethuneHospital.md) — Source-scoped institutional affiliation for head-and-neck surgeon 张宇昊.
-- [Hernan Cortes](entities/HernanCortes.md) — Spanish conquistador whose victory, coercive rule, legal improvisation, decline, and divided memory anchor the conquest aftermath.
-- [Malinche](entities/Malinche.md) — Indigenous interpreter and intermediary whose marriage, property, children, and uncertain later life show constrained colonial adaptation.
-- [Cuauhtemoc](entities/Cuauhtemoc.md) — Final Mexica ruler tortured for gold and executed on an unresolved conspiracy allegation.
-- [Mexica (Aztec) Empire](entities/MexicaEmpire.md) — Tenochtitlan-centered polity whose defeat, survival, and colonial afterlife unfolded unevenly.
+- [Tlaxcala](entities/Tlaxcala.md) — Indigenous polity whose renewed alliance, warriors, labor, and logistics made recovery from the Noche Triste possible.
+- [Cuitlahuac](entities/Cuitlahuac.md) — Short-reigned Mexica ruler whose anti-coalition strategy and death from smallpox preceded Cuauhtemoc's accession.
+- [Hernan Cortes](entities/HernanCortes.md) — Conquistador whose recovery from catastrophic defeat depended on Indigenous alliance, replenishment, terror, and narrative self-fashioning before conquest and coercive rule.
+- [Malinche](entities/Malinche.md) — Indigenous interpreter who survived the Noche Triste and later navigated conquest through constrained translation, kinship, property, and legal status.
+- [Cuauhtemoc](entities/Cuauhtemoc.md) — Final Mexica ruler elevated amid epidemic succession, captured after the siege, tortured for gold, and executed on an unresolved allegation.
+- [Mexica (Aztec) Empire](entities/MexicaEmpire.md) — Tenochtitlan-centered polity whose Noche Triste victory, epidemic crisis, final defeat, survival, and colonial afterlife unfolded unevenly.
 - [Adam Grant](entities/AdamGrant.md) — Organizational psychologist and author connecting motivation, feedback, rethinking, character skills, and growth through obstacles.
 - [Hidden Potential](entities/HiddenPotential.md) — Adam Grant book framing potential through learning trajectory, opportunity, scaffolding, and character skills rather than starting talent alone.
 - [王杰宠 / Wang Jiechong](entities/WangJiechong.md) — Beijing Children's Hospital pediatric emergency-surgery resident explaining assessment-first caregiver action and timely escalation.
@@ -13969,12 +13972,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [James Pennebaker](entities/JamesPennebaker.md) — Psychologist associated with the repeated expressive-writing paradigm and research linking language, distress, health, and immune measures.
 
 ## Concepts
-- [Siege of Tenochtitlan](concepts/SiegeOfTenochtitlan.md) — 1521 coalition campaign joining lake control, causeways, blockade, disease, urban demolition, resistance, surrender, and civilian catastrophe.
+- [Noche Triste](concepts/NocheTriste.md) — Catastrophic 1520 causeway retreat whose aftermath exposed the conquest's dependence on renewed Indigenous alliance.
+- [Siege of Tenochtitlan](concepts/SiegeOfTenochtitlan.md) — 1521 coalition campaign enabled by post-defeat recovery, route isolation, epidemic disruption, brigantines, blockade, and Indigenous allies.
 - [Thyroid Function Disorder Interpretation / 甲状腺功能异常解读](concepts/ThyroidFunctionDisorderInterpretation.md) — Framework separating hormone excess, deficiency, autoimmune markers, structural findings, symptoms, and longitudinal context.
 - [Thyroid Nodule Risk Stratification / 甲状腺结节风险分层](concepts/ThyroidNoduleRiskStratification.md) — Multi-feature ultrasound, symptom, biopsy, anatomy, and follow-up framework for thyroid nodules.
 - [Differentiated Thyroid Cancer Decision-Making / 分化型甲状腺癌决策](concepts/DifferentiatedThyroidCancerDecisionMaking.md) — Risk- and anatomy-sensitive framework for surveillance, surgery, postoperative hormone care, and follow-up.
-- [Spanish Conquest of Mexico](concepts/SpanishConquestOfMexico.md) — Long, uneven military, legal, demographic, religious, and economic transformation conventionally centered on 1521.
-- [Columbian Exchange](concepts/ColumbianExchange.md) — Movement of disease, animals, crops, and other organisms that structurally reshaped conquest and colonial life.
+- [Spanish Conquest of Mexico](concepts/SpanishConquestOfMexico.md) — Contingent, coalition-dependent, and uneven transformation joining defeat, recovery, terror, disease, siege, law, labor, religion, and memory.
+- [Columbian Exchange](concepts/ColumbianExchange.md) — Biological exchange whose smallpox component reshaped mortality, food systems, succession, coalition capacity, and colonial life.
 - [Colonial Legal Adaptation](concepts/ColonialLegalAdaptation.md) — Dual use of imperial law to legitimate conquest and preserve constrained Indigenous rights, property, or status.
 - [Historical Catastrophe Narrative Ethics](concepts/HistoricalCatastropheNarrativeEthics.md) — Framework for preserving narrative force without glamorizing suffering or flattening moral and evidentiary complexity.
 - [Kennedy Family Political Formation](concepts/KennedyFamilyPoliticalFormation.md) — Framework joining outsider status, wealth, family competition, wartime succession, political resources, and individual agency in JFK's rise.

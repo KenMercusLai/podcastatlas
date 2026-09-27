@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 10988
+wiki_total_pages: 10990
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -1439,6 +1439,9 @@ wiki_pages:
   - key: "CUDA"
     title: "CUDA"
     url: "/wiki/entities/cuda/"
+  - key: "Cuitlahuac"
+    title: "Cuitlahuac"
+    url: "/wiki/entities/cuitlahuac/"
   - key: "CultureWineCompany"
     title: "Culture Wine Company"
     url: "/wiki/entities/culturewinecompany/"

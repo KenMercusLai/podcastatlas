@@ -5,6 +5,7 @@ knowledge_schema: synthesis-v1
 tags: [siege-warfare, mexico, mesoamerica, conquest]
 sources:
   - 390-the-fall-of-the-aztecs-war-to-the-death-part-7-glt1796642529
+  - 389-the-fall-of-the-aztecs-the-night-of-tears-part-6-glt2744313815
 last_updated: 2026-09-27
 ---
 
@@ -14,13 +15,14 @@ The siege of Tenochtitlan was the 1521 coalition campaign in which [[HernanCorte
 
 ## Current Synthesis
 
-The episode presents the siege as a connected logistical system, not a simple contest of Spanish technology against Mexica bravery. Brigantines contested canoes and controlled the lake; allied forces isolated the causeways and surrounding towns; continuing European reinforcements and gunpowder replenishment sustained the attackers; and smallpox, hunger, and rain deepened attrition inside the city. Mexica defenders adapted through broken bridges, trenches, missiles, raids, ambush, and continued refusal to surrender.
+The episodes present the siege as a connected logistical system built after catastrophe, not a simple contest of Spanish technology against Mexica bravery. After the [[NocheTriste|Noche Triste]], Cortes retains [[Tlaxcala|Tlaxcalan]] support, receives European reinforcements, seizes routes and lake towns, occupies Texcoco, and has twelve brigantines carried overland for launch. Smallpox kills [[Cuitlahuac]] and disrupts food production before formal siege operations begin. Brigantines then contest canoes and control the lake; allied forces isolate the causeways and surrounding towns; continuing replenishment sustains the attackers; and smallpox, hunger, and rain deepen attrition inside the city. Mexica defenders adapt through broken bridges, trenches, missiles, raids, ambush, and continued refusal to surrender.
 
 The coalition's success was also the city's catastrophe. Cortes answered resistance by demolishing buildings that sheltered defenders, while the final assault exposed fleeing civilians to attack and the surrender led immediately to searching, branding, enslavement, expulsion, and demands for gold. Tactical explanation therefore cannot be separated from the unequal civilian and cultural consequences.
 
 ## Key Claims
 
 - Naval control on Lake Texcoco connected brigantines to blockade, causeway access, and the isolation of the island capital.
+- The siege became possible only after post-defeat coalition renewal, territorial isolation, reinforcement, and shipbuilding preparation.
 - Tlaxcalan, Texcocan, and other Indigenous allies made the campaign a coalition war rather than a Spaniards-alone victory.
 - Smallpox, starvation, rain, reinforcement, and gunpowder supply shaped an asymmetric contest of endurance.
 - Mexica defenders adapted tactically and inflicted serious losses, including an ambush that reversed an overextended Spanish thrust.
@@ -33,15 +35,16 @@ The coalition's success was also the city's catastrophe. Cortes answered resista
 - Coalition and attrition: [[390-the-fall-of-the-aztecs-war-to-the-death-part-7-glt1796642529]] connects Indigenous allies and defections with smallpox, starvation, rain, reinforcement, and the blockade.
 - Tactical adaptation and destruction: [[390-the-fall-of-the-aztecs-war-to-the-death-part-7-glt1796642529]] describes demolished bridges, trenches, missiles, ambush, Spanish burning, and building clearance.
 - Surrender and aftermath: [[390-the-fall-of-the-aztecs-war-to-the-death-part-7-glt1796642529]] follows Cuauhtemoc's canoe capture, the gold demand, refugee expulsion, searching, branding, and enslavement.
+- Pre-siege system: [[389-the-fall-of-the-aztecs-the-night-of-tears-part-6-glt2744313815]] connects renewed Tlaxcalan support, strategic terror, reinforcements, epidemic succession, Texcoco, route control, and brigantine construction.
 
 ## Counterevidence & Qualifications
 
-The account is a short narrative reconstruction rather than a campaign monograph. Force sizes, casualty counts, exact chronology within some phases, remembered dialogue, Cortes's intentions, the meaning of the Quetzal Owl Warrior, and Bernal Diaz's captive-sacrifice account remain source-scoped. “Total war” is an interpretive analogy, and contrasting Spanish strategy with ritualized Mexica warfare should not imply that Mexica tactics were static or that every Indigenous ally shared one motive.
+The accounts are short narrative reconstructions rather than a campaign monograph. Force sizes, casualty counts, exact chronology within some phases, remembered dialogue, Cortes's intentions, the meaning of the Quetzal Owl Warrior, and Bernal Diaz's captive-sacrifice account remain source-scoped. The probable Narvaez route for smallpox is not independently reconstructed here. “Total war” is an interpretive analogy, and contrasting Spanish strategy with ritualized Mexica warfare should not imply that Mexica tactics were static or that every Indigenous ally shared one motive.
 
 ## What Changed
 
-- Established the siege as a naval, coalition, logistical, epidemiological, and urban-warfare system.
-- Centered civilian displacement and extraction alongside the explanation of military victory.
+- Extended the siege model backward to coalition recovery, route seizure, epidemic succession, and brigantine preparation.
+- Clarified that Indigenous alliance decisions and pre-siege isolation were enabling conditions, not background details.
 
 ## Related Concepts
 
@@ -49,3 +52,5 @@ The account is a short narrative reconstruction rather than a campaign monograph
 - [[ColumbianExchange]] - biological exchange whose smallpox component altered succession and attritional conditions.
 - [[HistoricalCatastropheNarrativeEthics]] - framework for joining tactical drama to source limits and civilian suffering.
 - [[MexicaEmpire]] - polity whose capital and final organized defense were destroyed in the campaign.
+- [[NocheTriste]] - prior coalition disaster from which the siege system had to be rebuilt.
+- [[Tlaxcala]] - allied polity whose continued support supplied the campaign's political and logistical base.

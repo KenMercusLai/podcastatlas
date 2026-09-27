@@ -6,6 +6,7 @@ tags: [polity, mexica, aztec, mesoamerica, mexico]
 sources:
   - 391-the-fall-of-the-aztecs-the-last-emperor-part-8-glt2984940365
   - 390-the-fall-of-the-aztecs-war-to-the-death-part-7-glt1796642529
+  - 389-the-fall-of-the-aztecs-the-night-of-tears-part-6-glt2744313815
 last_updated: 2026-09-27
 ---
 
@@ -15,13 +16,16 @@ The Mexica, commonly called Aztec, Empire was the Mesoamerican political order c
 
 ## Current Profile
 
-The paired episodes treat the empire through its capital's last resistance, destruction, survival, and memory. During the [[SiegeOfTenochtitlan|siege of Tenochtitlan]], defenders contest lake and causeway access, rebuild tactical obstacles, ambush an overextended assault, and continue fighting under [[Cuauhtemoc]] despite smallpox, starvation, blockade, and systematic demolition. Afterward, the capital becomes Mexico City; temple stone is reused for cathedral and palace construction; former estates become encomiendas; and Mexica communities are pushed away from the Spanish center. Cuauhtemoc, nobles, laborers, and Moctezuma's descendants nevertheless experience the new order differently.
+The episodes treat the empire through battlefield success at the [[NocheTriste|Noche Triste]], epidemic and leadership crisis, its capital's last resistance, destruction, survival, and memory. Mexica forces exploit canals, canoes, a broken causeway, and the collapse of the Spaniards' makeshift bridge to turn the retreat into disaster. That victory does not restore the earlier balance: smallpox spreads into Tenochtitlan, kills [[Cuitlahuac]], and compounds social and food-system disruption while [[HernanCortes|Cortes]] rebuilds an Indigenous coalition and severs routes to the coast.
+
+During the [[SiegeOfTenochtitlan|siege of Tenochtitlan]], defenders contest lake and causeway access, rebuild tactical obstacles, ambush an overextended assault, and continue fighting under [[Cuauhtemoc]] despite smallpox, starvation, blockade, and systematic demolition. Afterward, the capital becomes Mexico City; temple stone is reused for cathedral and palace construction; former estates become encomiendas; and Mexica communities are pushed away from the Spanish center. Cuauhtemoc, nobles, laborers, and Moctezuma's descendants nevertheless experience the new order differently.
 
 The episode rejects the idea that one date cleanly ends the political world around the Mexica. Indigenous allies such as Tlaxcala bargain for privilege, remote regions retain older practices, elites preserve estates through law and Christianity, and demographic catastrophe unfolds through disease as well as war.
 
 ## Key Characteristics
 
 - Tenochtitlan-centered imperial order defeated in 1521 but not erased in one moment.
+- Force capable of inflicting a catastrophic defeat during the Noche Triste without converting it into lasting strategic recovery.
 - Militarily adaptive defender whose canoes, trenches, broken bridges, missiles, ambushes, and ritual signals could impose losses but not break the blockade.
 - Politically divided regional system in which rival Indigenous powers could ally with Spain.
 - Urban and sacred landscape materially repurposed for the colonial capital.
@@ -35,16 +39,16 @@ The episode rejects the idea that one date cleanly ends the political world arou
 - Elite survival: [[391-the-fall-of-the-aztecs-the-last-emperor-part-8-glt2984940365]] describes Moctezuma's heirs and Tecuichpotzin using title, estate, conversion, and colonial law.
 - Structural catastrophe: [[391-the-fall-of-the-aztecs-the-last-emperor-part-8-glt2984940365]] identifies smallpox and wider biological exchange as forces deeper than individual battlefield events.
 - Siege resistance and collapse: [[390-the-fall-of-the-aztecs-war-to-the-death-part-7-glt1796642529]] joins adaptive defense to starvation, disease, coalition pressure, urban destruction, surrender, and civilian displacement.
+- Victory and reversal: [[389-the-fall-of-the-aztecs-the-night-of-tears-part-6-glt2744313815]] connects the causeway ambush to subsequent smallpox, succession, coalition recovery, and the loss of surrounding routes and towns.
 
 ## Qualifications
 
-This profile is based on the siege and aftermath episodes rather than a comprehensive history of Mexica government, society, religion, or the eight-part campaign. “Aztec” and “Mexica” are not perfectly interchangeable in every context; the title preserves the familiar public label while foregrounding the more specific polity. The hosts' contrast between ritualized Mexica war and Cortes's destructive campaign is interpretive and should not erase tactical adaptation. Regional diversity prevents the capital's fate from representing every Mesoamerican community.
+This profile is based on three late-campaign episodes rather than a comprehensive history of Mexica government, society, religion, or the eight-part campaign. “Aztec” and “Mexica” are not perfectly interchangeable in every context; the title preserves the familiar public label while foregrounding the more specific polity. The hosts' contrast between ritualized Mexica war and Cortes's destructive campaign is interpretive and should not erase tactical adaptation. Reported sacrifice and cannibalism, casualty totals, and intentions behind the Noche Triste response remain source-scoped. Regional diversity prevents the capital's fate from representing every Mesoamerican community.
 
 ## What Changed
 
-- Established the empire as a destroyed but unevenly surviving political and social world.
-- Added urban rebuilding, legal adaptation, regional variation, and disease to the current profile.
-- Added the defenders' tactical adaptation and the joined effects of blockade, starvation, demolition, and coalition warfare.
+- Added the Noche Triste as a major Mexica victory whose strategic effects were reversed by epidemic disease and coalition recovery.
+- Clarified that succession crisis and isolation preceded the final siege rather than arising only within it.
 
 ## Relationships
 
@@ -55,3 +59,5 @@ This profile is based on the siege and aftermath episodes rather than a comprehe
 - [[ColonialLegalAdaptation]] - route by which some communities and nobles preserved privileges after defeat.
 - [[ColumbianExchange]] - biological process that intensified demographic catastrophe.
 - [[SiegeOfTenochtitlan]] - capital campaign that destroyed the imperial center while revealing sustained resistance.
+- [[NocheTriste]] - causeway battle in which Mexica forces shattered the escaping Spanish-led column.
+- [[Cuitlahuac]] - ruler whose short reign joined anti-Spanish strategy to the smallpox succession crisis.

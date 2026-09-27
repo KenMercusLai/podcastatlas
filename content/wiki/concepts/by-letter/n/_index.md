@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 8381
+wiki_total_pages: 8382
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -311,6 +311,9 @@ wiki_pages:
   - key: "NoPredictionTrading"
     title: "No-Prediction Trading"
     url: "/wiki/concepts/nopredictiontrading/"
+  - key: "NocheTriste"
+    title: "Noche Triste"
+    url: "/wiki/concepts/nochetriste/"
   - key: "NoiseExposureLayering"
     title: "Noise Exposure Layering"
     url: "/wiki/concepts/noiseexposurelayering/"

@@ -23535,3 +23535,11 @@ Added source `390-the-fall-of-the-aztecs-war-to-the-death-part-7-glt1796642529`;
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | 389. The Fall of the Aztecs: The Night of Tears (Part 6)
+
+Added source `389-the-fall-of-the-aztecs-the-night-of-tears-part-6-glt2744313815`; created `NocheTriste`, `Tlaxcala`, and `Cuitlahuac`; and updated `HernanCortes`, `Malinche`, `Cuauhtemoc`, `MexicaEmpire`, `SiegeOfTenochtitlan`, `SpanishConquestOfMexico`, `ColumbianExchange`, and the canonical index from their complete bounded source sets. Core synthesis: the Noche Triste brought Cortes's expedition close to collapse, but Tlaxcalan political choice, reinforcements, strategic terror, epidemic disruption, route seizure, and brigantine preparation converted defeat into a renewed coalition war. No settled contradiction with Parts 7 or 8 was found. Casualty and mortality estimates, remembered dialogue, atrocity stories, ritual-war contrasts, Cortes's motives, and the exact smallpox introduction route remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

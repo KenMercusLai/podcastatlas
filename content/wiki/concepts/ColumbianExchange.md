@@ -6,6 +6,7 @@ tags: [disease, ecology, colonialism, atlantic-history]
 sources:
   - 391-the-fall-of-the-aztecs-the-last-emperor-part-8-glt2984940365
   - 390-the-fall-of-the-aztecs-war-to-the-death-part-7-glt1796642529
+  - 389-the-fall-of-the-aztecs-the-night-of-tears-part-6-glt2744313815
 last_updated: 2026-09-27
 ---
 
@@ -15,11 +16,12 @@ The Columbian Exchange is the post-contact movement of diseases, animals, crops,
 
 ## Current Synthesis
 
-In these episodes, the Columbian Exchange explains why the [[SpanishConquestOfMexico|Spanish conquest of Mexico]] cannot be reduced to weapons or commanders. Smallpox killed Cuitlahuac, weakened communities on both sides of Indigenous political divisions, and formed part of the attritional setting for the [[SiegeOfTenochtitlan|siege of Tenochtitlan]]. It later produced demographic catastrophe across communities whose direct encounters with Spaniards varied greatly, while introduced livestock and crops changed everyday colonial landscapes. Biological exchange amplified political conquest without requiring contemporaries to understand germ transmission.
+In these episodes, the Columbian Exchange explains why the [[SpanishConquestOfMexico|Spanish conquest of Mexico]] cannot be reduced to weapons or commanders. Smallpox probably arrived with Narvaez's expedition, spread inland from the coast, killed many people in [[Tlaxcala]], entered Tenochtitlan, and killed [[Cuitlahuac]]. The illness also weakened food systems because communities could not reliably grow, harvest, or prepare food. It thus altered leadership, coalition capacity, and the attritional setting for the [[SiegeOfTenochtitlan|siege of Tenochtitlan]]. It later produced demographic catastrophe across communities whose direct encounters with Spaniards varied greatly, while introduced livestock and crops changed everyday colonial landscapes. Biological exchange amplified political conquest without requiring contemporaries to understand germ transmission.
 
 ## Key Claims
 
 - Smallpox was a structural force in conquest rather than a peripheral background event.
+- Epidemic harm combined direct mortality with hunger, care failure, labor loss, and political succession.
 - Disease could devastate rural and distant populations even where direct Spanish military presence was limited.
 - Exchange included animals and crops as well as pathogens, reshaping production and daily life.
 - Lack of contemporary germ knowledge qualifies claims of deliberate disease transmission in this episode without reducing the consequences.
@@ -29,21 +31,23 @@ In these episodes, the Columbian Exchange explains why the [[SpanishConquestOfMe
 
 - Demographic catastrophe: [[391-the-fall-of-the-aztecs-the-last-emperor-part-8-glt2984940365]] says smallpox matters more to the long-run balance than many individual biographical details.
 - Immediate military setting: [[390-the-fall-of-the-aztecs-war-to-the-death-part-7-glt1796642529]] places Cuitlahuac's death and widespread disease before a siege already shaped by hunger and coalition realignment.
+- Transmission and social disruption: [[389-the-fall-of-the-aztecs-the-night-of-tears-part-6-glt2744313815]] traces the probable route from Narvaez's party through Tlaxcala and Tenochtitlan and connects sickness to food-system failure and Cuitlahuac's death.
 - Uneven contact: [[391-the-fall-of-the-aztecs-the-last-emperor-part-8-glt2984940365]] notes that some rural people may have experienced epidemic disease more directly than Spaniards.
 - Ecological transfer: [[391-the-fall-of-the-aztecs-the-last-emperor-part-8-glt2984940365]] lists cattle, pigs, sheep, olives, and grapevines within the transformed colonial landscape.
 
 ## Counterevidence & Qualifications
 
-The sources provide no independent epidemiological reconstruction, mortality series, or settlement-level comparison, and they do not quantify disease against starvation or combat. Their claim that Europeans could not realistically avoid introducing smallpox is a broad historical judgment and should not be generalized to every later colonial disease event. Disease was decisive but did not act alone.
+The sources provide no independent epidemiological reconstruction, mortality series, or settlement-level comparison, and they do not quantify disease against starvation or combat. Narvaez's party is presented as the probable introduction route, and the claim that roughly a third of Tlaxcala died remains source-scoped. Their claim that Europeans could not realistically avoid introducing smallpox is a broad historical judgment and should not be generalized to every later colonial disease event. Disease was decisive but did not act alone.
 
 ## What Changed
 
-- Established biological exchange as a structural explanation for conquest outcomes.
-- Distinguished catastrophic consequence from claims of informed intentional transmission.
-- Added smallpox's immediate role in succession, coalition strain, and siege attrition.
+- Added the probable introduction route and the sequence from coastal spread through Tlaxcala to Tenochtitlan.
+- Expanded the mechanism from mortality alone to food production, care capacity, political succession, and coalition balance.
 
 ## Related Concepts
 
 - [[SpanishConquestOfMexico]] - political and military process transformed by disease and ecological exchange.
 - [[MexicaEmpire]] - central polity whose demographic environment was altered by contact.
 - [[ColonialLegalAdaptation]] - non-biological institutional route through which the colonial order consolidated.
+- [[Cuitlahuac]] - ruler whose death makes the epidemic's political effect concrete.
+- [[Tlaxcala]] - allied polity heavily affected by the same epidemic that weakened its Mexica opponent.

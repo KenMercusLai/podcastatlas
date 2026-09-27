@@ -28824,9 +28824,9 @@
       "url": "/wiki/concepts/colorectalcancerscreening/"
     },
     "ColumbianExchange": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2984940365 [GLT2984940365].md",
@@ -28841,6 +28841,13 @@
           "show": "The Rest Is History",
           "title": "390. The Fall of the Aztecs: War to the Death (Part 7)",
           "url": "/wiki/sources/390-the-fall-of-the-aztecs-war-to-the-death-part-7-glt1796642529/"
+        },
+        {
+          "episode_file": "GLT2744313815 [GLT2744313815].md",
+          "key": "389-the-fall-of-the-aztecs-the-night-of-tears-part-6-glt2744313815",
+          "show": "The Rest Is History",
+          "title": "389. The Fall of the Aztecs: The Night of Tears (Part 6)",
+          "url": "/wiki/sources/389-the-fall-of-the-aztecs-the-night-of-tears-part-6-glt2744313815/"
         }
       ],
       "updated": "2026-09-27",
@@ -32788,9 +32795,9 @@
       "url": "/wiki/concepts/ctripantitrustpenalty/"
     },
     "Cuauhtemoc": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2984940365 [GLT2984940365].md",
@@ -32805,6 +32812,13 @@
           "show": "The Rest Is History",
           "title": "390. The Fall of the Aztecs: War to the Death (Part 7)",
           "url": "/wiki/sources/390-the-fall-of-the-aztecs-war-to-the-death-part-7-glt1796642529/"
+        },
+        {
+          "episode_file": "GLT2744313815 [GLT2744313815].md",
+          "key": "389-the-fall-of-the-aztecs-the-night-of-tears-part-6-glt2744313815",
+          "show": "The Rest Is History",
+          "title": "389. The Fall of the Aztecs: The Night of Tears (Part 6)",
+          "url": "/wiki/sources/389-the-fall-of-the-aztecs-the-night-of-tears-part-6-glt2744313815/"
         }
       ],
       "updated": "2026-09-27",
@@ -32981,6 +32995,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/entities/cuizhouping/"
+    },
+    "Cuitlahuac": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2744313815 [GLT2744313815].md",
+          "key": "389-the-fall-of-the-aztecs-the-night-of-tears-part-6-glt2744313815",
+          "show": "The Rest Is History",
+          "title": "389. The Fall of the Aztecs: The Night of Tears (Part 6)",
+          "url": "/wiki/sources/389-the-fall-of-the-aztecs-the-night-of-tears-part-6-glt2744313815/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/cuitlahuac/"
     },
     "CulinaryTraditionMythmaking": {
       "episode_count": 1,
@@ -66765,9 +66795,9 @@
       "url": "/wiki/entities/hermanngoring/"
     },
     "HernanCortes": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2984940365 [GLT2984940365].md",
@@ -66782,6 +66812,13 @@
           "show": "The Rest Is History",
           "title": "390. The Fall of the Aztecs: War to the Death (Part 7)",
           "url": "/wiki/sources/390-the-fall-of-the-aztecs-war-to-the-death-part-7-glt1796642529/"
+        },
+        {
+          "episode_file": "GLT2744313815 [GLT2744313815].md",
+          "key": "389-the-fall-of-the-aztecs-the-night-of-tears-part-6-glt2744313815",
+          "show": "The Rest Is History",
+          "title": "389. The Fall of the Aztecs: The Night of Tears (Part 6)",
+          "url": "/wiki/sources/389-the-fall-of-the-aztecs-the-night-of-tears-part-6-glt2744313815/"
         }
       ],
       "updated": "2026-09-27",
@@ -95976,9 +96013,9 @@
       "url": "/wiki/concepts/maleurologicalhealthmisconceptions/"
     },
     "Malinche": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2984940365 [GLT2984940365].md",
@@ -95993,6 +96030,13 @@
           "show": "The Rest Is History",
           "title": "390. The Fall of the Aztecs: War to the Death (Part 7)",
           "url": "/wiki/sources/390-the-fall-of-the-aztecs-war-to-the-death-part-7-glt1796642529/"
+        },
+        {
+          "episode_file": "GLT2744313815 [GLT2744313815].md",
+          "key": "389-the-fall-of-the-aztecs-the-night-of-tears-part-6-glt2744313815",
+          "show": "The Rest Is History",
+          "title": "389. The Fall of the Aztecs: The Night of Tears (Part 6)",
+          "url": "/wiki/sources/389-the-fall-of-the-aztecs-the-night-of-tears-part-6-glt2744313815/"
         }
       ],
       "updated": "2026-09-27",
@@ -99561,9 +99605,9 @@
       "url": "/wiki/entities/metropolitanpolice/"
     },
     "MexicaEmpire": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2984940365 [GLT2984940365].md",
@@ -99578,6 +99622,13 @@
           "show": "The Rest Is History",
           "title": "390. The Fall of the Aztecs: War to the Death (Part 7)",
           "url": "/wiki/sources/390-the-fall-of-the-aztecs-war-to-the-death-part-7-glt1796642529/"
+        },
+        {
+          "episode_file": "GLT2744313815 [GLT2744313815].md",
+          "key": "389-the-fall-of-the-aztecs-the-night-of-tears-part-6-glt2744313815",
+          "show": "The Rest Is History",
+          "title": "389. The Fall of the Aztecs: The Night of Tears (Part 6)",
+          "url": "/wiki/sources/389-the-fall-of-the-aztecs-the-night-of-tears-part-6-glt2744313815/"
         }
       ],
       "updated": "2026-09-27",
@@ -106046,6 +106097,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/nopositionencoding/"
+    },
+    "NocheTriste": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2744313815 [GLT2744313815].md",
+          "key": "389-the-fall-of-the-aztecs-the-night-of-tears-part-6-glt2744313815",
+          "show": "The Rest Is History",
+          "title": "389. The Fall of the Aztecs: The Night of Tears (Part 6)",
+          "url": "/wiki/sources/389-the-fall-of-the-aztecs-the-night-of-tears-part-6-glt2744313815/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/nochetriste/"
     },
     "NoiseExposureLayering": {
       "episode_count": 1,
@@ -133364,9 +133431,9 @@
       "url": "/wiki/concepts/siegeeconomystrategy/"
     },
     "SiegeOfTenochtitlan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1796642529 [GLT1796642529].md",
@@ -133374,6 +133441,13 @@
           "show": "The Rest Is History",
           "title": "390. The Fall of the Aztecs: War to the Death (Part 7)",
           "url": "/wiki/sources/390-the-fall-of-the-aztecs-war-to-the-death-part-7-glt1796642529/"
+        },
+        {
+          "episode_file": "GLT2744313815 [GLT2744313815].md",
+          "key": "389-the-fall-of-the-aztecs-the-night-of-tears-part-6-glt2744313815",
+          "show": "The Rest Is History",
+          "title": "389. The Fall of the Aztecs: The Night of Tears (Part 6)",
+          "url": "/wiki/sources/389-the-fall-of-the-aztecs-the-night-of-tears-part-6-glt2744313815/"
         }
       ],
       "updated": "2026-09-27",
@@ -136624,9 +136698,9 @@
       "url": "/wiki/concepts/spacebasedaiinfrastructure/"
     },
     "SpanishConquestOfMexico": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2984940365 [GLT2984940365].md",
@@ -136641,6 +136715,13 @@
           "show": "The Rest Is History",
           "title": "390. The Fall of the Aztecs: War to the Death (Part 7)",
           "url": "/wiki/sources/390-the-fall-of-the-aztecs-war-to-the-death-part-7-glt1796642529/"
+        },
+        {
+          "episode_file": "GLT2744313815 [GLT2744313815].md",
+          "key": "389-the-fall-of-the-aztecs-the-night-of-tears-part-6-glt2744313815",
+          "show": "The Rest Is History",
+          "title": "389. The Fall of the Aztecs: The Night of Tears (Part 6)",
+          "url": "/wiki/sources/389-the-fall-of-the-aztecs-the-night-of-tears-part-6-glt2744313815/"
         }
       ],
       "updated": "2026-09-27",
@@ -146547,6 +146628,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/titlesuccessionpublicduty/"
+    },
+    "Tlaxcala": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2744313815 [GLT2744313815].md",
+          "key": "389-the-fall-of-the-aztecs-the-night-of-tears-part-6-glt2744313815",
+          "show": "The Rest Is History",
+          "title": "389. The Fall of the Aztecs: The Night of Tears (Part 6)",
+          "url": "/wiki/sources/389-the-fall-of-the-aztecs-the-night-of-tears-part-6-glt2744313815/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/tlaxcala/"
     },
     "ToAgentDistribution": {
       "episode_count": 2,
