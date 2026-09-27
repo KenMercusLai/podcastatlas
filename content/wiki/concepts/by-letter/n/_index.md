@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 8438
+wiki_total_pages: 8443
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -152,6 +152,9 @@ wiki_pages:
   - key: "NegotiationAsBargaining"
     title: "Negotiation As Bargaining / 谈判即商量"
     url: "/wiki/concepts/negotiationasbargaining/"
+  - key: "NegotiationRealityTesting"
+    title: "Negotiation Reality Testing"
+    url: "/wiki/concepts/negotiationrealitytesting/"
   - key: "NeighborhoodOpportunityAccess"
     title: "Neighborhood Opportunity Access"
     url: "/wiki/concepts/neighborhoodopportunityaccess/"

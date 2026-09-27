@@ -20532,6 +20532,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/entities/calnewport/"
     },
+    "CalibratedNegotiationQuestions": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5142864264 [SCIM5142864264].md",
+          "key": "how-to-succeed-at-hard-conversations-chris-voss-scim5142864264",
+          "show": "Huberman Lab",
+          "title": "How to Succeed at Hard Conversations | Chris Voss",
+          "url": "/wiki/sources/how-to-succeed-at-hard-conversations-chris-voss-scim5142864264/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/calibratednegotiationquestions/"
+    },
     "CaliforniaAffordabilityGovernanceReset": {
       "episode_count": 2,
       "show_count": 1,
@@ -27540,6 +27556,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/chrispalmer/"
+    },
+    "ChrisVoss": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5142864264 [SCIM5142864264].md",
+          "key": "how-to-succeed-at-hard-conversations-chris-voss-scim5142864264",
+          "show": "Huberman Lab",
+          "title": "How to Succeed at Hard Conversations | Chris Voss",
+          "url": "/wiki/sources/how-to-succeed-at-hard-conversations-chris-voss-scim5142864264/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/chrisvoss/"
     },
     "ChristianDemocraticUnionGermany": {
       "episode_count": 2,
@@ -39228,6 +39260,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/differentiatedthyroidcancerdecisionmaking/"
     },
+    "DifficultConversationDelivery": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5142864264 [SCIM5142864264].md",
+          "key": "how-to-succeed-at-hard-conversations-chris-voss-scim5142864264",
+          "show": "Huberman Lab",
+          "title": "How to Succeed at Hard Conversations | Chris Voss",
+          "url": "/wiki/sources/how-to-succeed-at-hard-conversations-chris-voss-scim5142864264/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/difficultconversationdelivery/"
+    },
     "DigitRobot": {
       "episode_count": 1,
       "show_count": 1,
@@ -44123,9 +44171,9 @@
       "url": "/wiki/concepts/effortfulthinkingintheaiage/"
     },
     "EgoDepletionDebate": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7958949675 [SCIM7958949675].md",
@@ -44133,6 +44181,13 @@
           "show": "Huberman Lab",
           "title": "How to Increase Your Willpower & Tenacity",
           "url": "/wiki/sources/how-to-increase-your-willpower-tenacity-scim7958949675/"
+        },
+        {
+          "episode_file": "SCIM5142864264 [SCIM5142864264].md",
+          "key": "how-to-succeed-at-hard-conversations-chris-voss-scim5142864264",
+          "show": "Huberman Lab",
+          "title": "How to Succeed at Hard Conversations | Chris Voss",
+          "url": "/wiki/sources/how-to-succeed-at-hard-conversations-chris-voss-scim5142864264/"
         }
       ],
       "updated": "2026-09-27",
@@ -72383,6 +72438,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/hostagebackeddependencytrap/"
     },
+    "HostageCrisisNegotiation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5142864264 [SCIM5142864264].md",
+          "key": "how-to-succeed-at-hard-conversations-chris-voss-scim5142864264",
+          "show": "Huberman Lab",
+          "title": "How to Succeed at Hard Conversations | Chris Voss",
+          "url": "/wiki/sources/how-to-succeed-at-hard-conversations-chris-voss-scim5142864264/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/hostagecrisisnegotiation/"
+    },
     "HostageMissionDependencyTrap": {
       "episode_count": 2,
       "show_count": 1,
@@ -78150,6 +78221,36 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/interpath001/"
+    },
+    "InterestBasedNegotiation": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "132.争论与说服：我们为什么吵架，怎么才算赢？ [807583318].md",
+          "key": "132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318",
+          "show": "蜜獾吃书",
+          "title": "132.争论与说服：我们为什么吵架，怎么才算赢？",
+          "url": "/wiki/sources/132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318/"
+        },
+        {
+          "episode_file": "106.别再害怕冲突，快来学习谈判术！ [742539645].md",
+          "key": "106-bie-zai-haipa-chongtu-kuai-lai-xuexi-tanpan-shu-742539645",
+          "show": "蜜獾吃书",
+          "title": "106.别再害怕冲突，快来学习谈判术！",
+          "url": "/wiki/sources/106-bie-zai-haipa-chongtu-kuai-lai-xuexi-tanpan-shu-742539645/"
+        },
+        {
+          "episode_file": "SCIM5142864264 [SCIM5142864264].md",
+          "key": "how-to-succeed-at-hard-conversations-chris-voss-scim5142864264",
+          "show": "Huberman Lab",
+          "title": "How to Succeed at Hard Conversations | Chris Voss",
+          "url": "/wiki/sources/how-to-succeed-at-hard-conversations-chris-voss-scim5142864264/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/interestbasednegotiation/"
     },
     "InterestConsumptionRetail": {
       "episode_count": 1,
@@ -108791,6 +108892,52 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/entities/nemoclaw/"
+    },
+    "NegotiationAsBargaining": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "116.不服从的艺术：分享一些实战方法，还有力量 [764416021].md",
+          "key": "116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021",
+          "show": "蜜獾吃书",
+          "title": "116.不服从的艺术：分享一些实战方法，还有力量",
+          "url": "/wiki/sources/116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021/"
+        },
+        {
+          "episode_file": "106.别再害怕冲突，快来学习谈判术！ [742539645].md",
+          "key": "106-bie-zai-haipa-chongtu-kuai-lai-xuexi-tanpan-shu-742539645",
+          "show": "蜜獾吃书",
+          "title": "106.别再害怕冲突，快来学习谈判术！",
+          "url": "/wiki/sources/106-bie-zai-haipa-chongtu-kuai-lai-xuexi-tanpan-shu-742539645/"
+        },
+        {
+          "episode_file": "SCIM5142864264 [SCIM5142864264].md",
+          "key": "how-to-succeed-at-hard-conversations-chris-voss-scim5142864264",
+          "show": "Huberman Lab",
+          "title": "How to Succeed at Hard Conversations | Chris Voss",
+          "url": "/wiki/sources/how-to-succeed-at-hard-conversations-chris-voss-scim5142864264/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/negotiationasbargaining/"
+    },
+    "NegotiationRealityTesting": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5142864264 [SCIM5142864264].md",
+          "key": "how-to-succeed-at-hard-conversations-chris-voss-scim5142864264",
+          "show": "Huberman Lab",
+          "title": "How to Succeed at Hard Conversations | Chris Voss",
+          "url": "/wiki/sources/how-to-succeed-at-hard-conversations-chris-voss-scim5142864264/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/negotiationrealitytesting/"
     },
     "NeilArmstrong": {
       "episode_count": 1,
@@ -147024,6 +147171,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/tacticaldelayrisktransfer/"
+    },
+    "TacticalEmpathy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5142864264 [SCIM5142864264].md",
+          "key": "how-to-succeed-at-hard-conversations-chris-voss-scim5142864264",
+          "show": "Huberman Lab",
+          "title": "How to Succeed at Hard Conversations | Chris Voss",
+          "url": "/wiki/sources/how-to-succeed-at-hard-conversations-chris-voss-scim5142864264/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/tacticalempathy/"
     },
     "TactileDataStagingChoice": {
       "episode_count": 1,

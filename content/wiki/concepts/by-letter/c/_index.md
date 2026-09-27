@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8438
+wiki_total_pages: 8443
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -47,6 +47,9 @@ wiki_pages:
   - key: "CalendarReformLegitimacy"
     title: "Calendar Reform Legitimacy / 历法改革与政治合法性"
     url: "/wiki/concepts/calendarreformlegitimacy/"
+  - key: "CalibratedNegotiationQuestions"
+    title: "Calibrated Negotiation Questions"
+    url: "/wiki/concepts/calibratednegotiationquestions/"
   - key: "CaliforniaAB1709"
     title: "California AB 1709"
     url: "/wiki/concepts/californiaab1709/"

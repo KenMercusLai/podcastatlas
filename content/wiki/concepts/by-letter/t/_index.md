@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 8438
+wiki_total_pages: 8443
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -38,6 +38,9 @@ wiki_pages:
   - key: "TacticalDelayRiskTransfer"
     title: "Tactical Delay Risk Transfer / 延时转责式政治化解"
     url: "/wiki/concepts/tacticaldelayrisktransfer/"
+  - key: "TacticalEmpathy"
+    title: "Tactical Empathy"
+    url: "/wiki/concepts/tacticalempathy/"
   - key: "TacticalSelfVindicationTrap"
     title: "Tactical Self-Vindication Trap / 战术自证陷阱"
     url: "/wiki/concepts/tacticalselfvindicationtrap/"

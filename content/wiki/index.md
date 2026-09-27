@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Succeed at Hard Conversations | Chris Voss](sources/how-to-succeed-at-hard-conversations-chris-voss-scim5142864264.md) — Huberman Lab interview on tactical empathy, calibrated questions, deal diagnosis, leverage verification, difficult-news delivery, and crisis-negotiation limits.
 - [VOL.77生殖医学科男科｜固化的偏见让负罪感成为自慰的最大危害 「男」言之隐不再难](sources/vol-77-shengzhi-yixueke-nanke-guhua-de-pianjian-rang-fuzuigan-chengwei-ziwei-de-zuidahai-nan-yanzhiyin-bu-zai-nan-lidn4alesw5vihbybf_c3f5qbvmo.md) — 这病说来话长 episode on male fertility, sexual function, prostate findings, masturbation shame, and context-first andrology care.
 - [How to Increase Your Willpower & Tenacity](sources/how-to-increase-your-willpower-tenacity-scim7958949675.md) — Huberman Lab solo episode on ego depletion, belief and glucose effects, body-state constraints, anterior mid-cingulate evidence, allostatic effort, and safely bounded willpower practice.
 - [VOL.78生殖医学科男科｜他的包皮割不割 来听三甲医生怎么说｜为什么HPV检查男生会常出现假阴性？](sources/vol-78-shengzhi-yixueke-nanke-tade-baopi-gebuge-lai-ting-sanjia-yisheng-zenme-shuo-weishenme-hpv-jiancha-nansheng-hui-chang-chuxian-jiayinxing-lvg2m7yu6whcctt79kmvl38egnh.md) — 这病说来话长 episode on long foreskin, phimosis, paraphimosis urgency, circumcision thresholds, pediatric timing, diabetes, and male HPV testing limits.
@@ -3002,6 +3003,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [375. Hitler and the Mitford Sisters](sources/375-hitler-and-the-mitford-sisters-glt5493256820.md) — The Rest Is History episode on Unity Mitford, Nazi access, British fascism, explicit antisemitism, aristocratic glamour, and the moral limits of frivolity.
 
 ## Entities
+- [Chris Voss](entities/ChrisVoss.md) — Former FBI crisis negotiator and negotiation teacher connecting demonstrated understanding to verification and implementation.
 - [Roy Baumeister](entities/RoyBaumeister.md) — Psychologist associated with the limited-resource and glucose accounts in the ego-depletion debate.
 - [Carol Dweck](entities/CarolDweck.md) — Psychologist whose belief-sensitive studies qualify fixed-resource accounts of willpower.
 - [Joe Parvizi](entities/JoeParvizi.md) — Neurologist and neuroscientist whose direct-stimulation work informs the anterior mid-cingulate synthesis.
@@ -14064,6 +14066,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Julius Streicher](entities/JuliusStreicher.md) — Nazi publisher whose antisemitic platform helped make Unity Mitford's political commitment public and useful.
 
 ## Concepts
+- [Tactical Empathy](concepts/TacticalEmpathy.md) — Demonstrated understanding of perspective and emotion without requiring agreement or concession.
+- [Calibrated Negotiation Questions](concepts/CalibratedNegotiationQuestions.md) — How-and-what prompts that slow reaction and expose constraints, credibility, and implementation.
+- [Negotiation Reality Testing](concepts/NegotiationRealityTesting.md) — Verification of deal viability, leverage, identity, threats, trust, and promised follow-through.
+- [Difficult Conversation Delivery](concepts/DifficultConversationDelivery.md) — Brief preparation and humane directness for unwanted news, endings, and boundaries.
+- [Hostage and Crisis Negotiation](concepts/HostageCrisisNegotiation.md) — High-stakes communication shaped by threat specificity, team coordination, fatigue, tactics, and survival.
 - [Ego Depletion Debate](concepts/EgoDepletionDebate.md) — Contested interaction among repeated self-control, resource accounts, glucose, belief, physiology, and task context.
 - [Anterior Mid-Cingulate Willpower](concepts/AnteriorMidCingulateWillpower.md) — Bounded hypothesis that an integrative cingulate hub supports context-sensitive action, restraint, and persistence.
 - [Allostatic Effort Allocation](concepts/AllostaticEffortAllocation.md) — Body-state and context-sensitive distribution of effort toward action, restraint, recovery, or strategy change.

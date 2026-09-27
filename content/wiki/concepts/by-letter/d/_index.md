@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 8438
+wiki_total_pages: 8443
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -596,6 +596,9 @@ wiki_pages:
   - key: "DifferentiatedThyroidCancerDecisionMaking"
     title: "Differentiated Thyroid Cancer Decision-Making / 分化型甲状腺癌决策"
     url: "/wiki/concepts/differentiatedthyroidcancerdecisionmaking/"
+  - key: "DifficultConversationDelivery"
+    title: "Difficult Conversation Delivery"
+    url: "/wiki/concepts/difficultconversationdelivery/"
   - key: "DiffusionTransformers"
     title: "Diffusion Transformers"
     url: "/wiki/concepts/diffusiontransformers/"
