@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 11109
+wiki_total_pages: 11110
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -233,6 +233,9 @@ wiki_pages:
   - key: "RenZhengfei"
     title: "Ren Zhengfei"
     url: "/wiki/entities/renzhengfei/"
+  - key: "RenaMalik"
+    title: "Rena Malik"
+    url: "/wiki/entities/renamalik/"
   - key: "RenaissanceTechnologies"
     title: "Renaissance Technologies"
     url: "/wiki/entities/renaissancetechnologies/"

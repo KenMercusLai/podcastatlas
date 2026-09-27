@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-28] ingest | Improving Sexual & Urological Health in Males and Females | Dr. Rena Malik
+
+Added source `improving-sexual-urological-health-in-males-and-females-dr-rena-malik-scim6177024080`; created `RenaMalik` and `PelvicFloorFunctionMatching`; and updated `SexualFunctionRelationshipContext`, `ErectileDysfunctionVascularTriage`, `UrinaryTractInfectionBehaviorBoundary`, `GenitourinarySyndromeMenopauseCare`, `DigitalSexualSubstituteRisk`, and the canonical index from their complete bounded source sets. Core synthesis: urinary and sexual symptoms should be separated into desire, genital response, blood flow, neural signaling, pelvic-floor state, hormones, medications, cardiometabolic health, infection or mimics, and relationship context before treatment is matched. No settled contradiction is adopted. Malik's functional-impairment pornography boundary qualifies risk-only framing, and her evidence-strength comments qualify familiar UTI hygiene rituals without erasing recurrence or anatomy context. The raw title's `Rena`/body's `Rina` mismatch is normalized to `Rena Malik`; prevalence, dose, response-rate, supplement, and risk figures remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-28] ingest | VOL.68血液内科｜装修甲醛会让你得白血病吗？…一期听懂白血病的常识｜造血干细胞捐献指南
 
 Added source `vol-68-xueyeneike-zhuangxiu-jiaquan-hui-rang-ni-de-baixuebing-ma-yiqi-tingdong-baixuebing-de-changshi-zaoxue-ganxibao-juanxian-zhinan-lkbtulzn5ky6f4wa5bttbuawvxz`; created `ChenJiaHematologist`, `LeukemiaDiagnosticReasoning`, `LeukemiaTreatmentAndRecovery`, and `HematopoieticStemCellDonation`; and updated the canonical index. Core synthesis: leukemia is a heterogeneous classification and confirmation problem rather than a conclusion from one symptom or count, while treatment joins subtype-specific cancer therapy to response assessment, transplant selection, infection and transfusion support, fertility, cost, and family burden. No settled contradiction is adopted. Prognosis percentages, exposure causality, leukocyte thresholds, transplant language, hospital choice, insurance, and cost remain source-scoped; the automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -24096,6 +24100,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-28] ingest | VOL.67无·事｜听躺进ICU的医生和普通病人在聊些什么？知道越多越恐惧？｜献礼医师节彩蛋
 
 Added source `lswakifoozu5vkckl5n-nzndj43e-lswakifoozu5vkckl5n-nzndj43e`; created `DaYangYang` and `LiangGeAnesthesiologist`; and updated `ClinicalTrustBuilding`, `PerioperativeAnesthesiaSafety`, `IntensiveCareAsTimeBuying`, `VenousThromboembolismTriage`, `PublicHealthInformationTriage`, `NarrativeMedicine`, and the canonical index from their complete bounded source sets. Core synthesis: ICU surveillance can create felt safety without guaranteeing stability or survival; informed trust joins explanation, disclosure, questions, and cooperation rather than blind obedience; anesthesiology's preventive work is often invisible; fracture-related immobility followed by abrupt cardiopulmonary deterioration requires emergency assessment; and useful medical communication must preserve action timing, individualized-care limits, and the boundary between information-responsive worry and distress that facts alone may not resolve. No settled contradiction was adopted. Clinical histories, measurements, treatment details, workforce figures, and outcomes remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-28] lint | Wiki health check
 

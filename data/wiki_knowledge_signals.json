@@ -40225,9 +40225,9 @@
       "url": "/wiki/concepts/digitalpublicsphereepistemicauthority/"
     },
     "DigitalSexualSubstituteRisk": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM7501986841 [SCIM7501986841].md",
@@ -40242,9 +40242,16 @@
           "show": "Huberman Lab",
           "title": "Tools for Overcoming Substance & Behavioral Addictions | Ryan Soave",
           "url": "/wiki/sources/tools-for-overcoming-substance-behavioral-addictions-ryan-soave-scim5476071523/"
+        },
+        {
+          "episode_file": "SCIM6177024080 [SCIM6177024080].md",
+          "key": "improving-sexual-urological-health-in-males-and-females-dr-rena-malik-scim6177024080",
+          "show": "Huberman Lab",
+          "title": "Improving Sexual & Urological Health in Males and Females | Dr. Rena Malik",
+          "url": "/wiki/sources/improving-sexual-urological-health-in-males-and-females-dr-rena-malik-scim6177024080/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/digitalsexualsubstituterisk/"
     },
     "DigitalSovereignty": {
@@ -50206,9 +50213,9 @@
       "url": "/wiki/entities/eratosthenes/"
     },
     "ErectileDysfunctionVascularTriage": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM8414501670 [SCIM8414501670].md",
@@ -50216,9 +50223,16 @@
           "show": "Huberman Lab",
           "title": "Improving Male Sexual Health, Function & Fertility | Dr. Michael Eisenberg",
           "url": "/wiki/sources/improving-male-sexual-health-function-fertility-dr-michael-eisenberg-scim8414501670/"
+        },
+        {
+          "episode_file": "SCIM6177024080 [SCIM6177024080].md",
+          "key": "improving-sexual-urological-health-in-males-and-females-dr-rena-malik-scim6177024080",
+          "show": "Huberman Lab",
+          "title": "Improving Sexual & Urological Health in Males and Females | Dr. Rena Malik",
+          "url": "/wiki/sources/improving-sexual-urological-health-in-males-and-females-dr-rena-malik-scim6177024080/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/erectiledysfunctionvasculartriage/"
     },
     "EricAbramovich": {
@@ -62908,9 +62922,9 @@
       "url": "/wiki/concepts/genitourinaryforeignbodyescalation/"
     },
     "GenitourinarySyndromeMenopauseCare": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1557774220 [SCIM1557774220].md",
@@ -62918,9 +62932,16 @@
           "show": "Huberman Lab",
           "title": "How to Navigate Menopause & Perimenopause for Maximum Health & Vitality | Dr. Mary Claire Haver",
           "url": "/wiki/sources/how-to-navigate-menopause-perimenopause-for-maximum-health-vitality-dr-mary-claire-haver-scim1557774220/"
+        },
+        {
+          "episode_file": "SCIM6177024080 [SCIM6177024080].md",
+          "key": "improving-sexual-urological-health-in-males-and-females-dr-rena-malik-scim6177024080",
+          "show": "Huberman Lab",
+          "title": "Improving Sexual & Urological Health in Males and Females | Dr. Rena Malik",
+          "url": "/wiki/sources/improving-sexual-urological-health-in-males-and-females-dr-rena-malik-scim6177024080/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/genitourinarysyndromemenopausecare/"
     },
     "GenomeLanguageModels": {
@@ -118758,6 +118779,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/pekinguniversitythirdhospital/"
     },
+    "PelvicFloorFunctionMatching": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6177024080 [SCIM6177024080].md",
+          "key": "improving-sexual-urological-health-in-males-and-females-dr-rena-malik-scim6177024080",
+          "show": "Huberman Lab",
+          "title": "Improving Sexual & Urological Health in Males and Females | Dr. Rena Malik",
+          "url": "/wiki/sources/improving-sexual-urological-health-in-males-and-females-dr-rena-malik-scim6177024080/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/pelvicfloorfunctionmatching/"
+    },
     "PenalSeverityExecutionTradeoff": {
       "episode_count": 1,
       "show_count": 1,
@@ -130392,6 +130429,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/renzeping/"
     },
+    "RenaMalik": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6177024080 [SCIM6177024080].md",
+          "key": "improving-sexual-urological-health-in-males-and-females-dr-rena-malik-scim6177024080",
+          "show": "Huberman Lab",
+          "title": "Improving Sexual & Urological Health in Males and Females | Dr. Rena Malik",
+          "url": "/wiki/sources/improving-sexual-urological-health-in-males-and-females-dr-rena-malik-scim6177024080/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/renamalik/"
+    },
     "RenaissancePortraitAmbiguity": {
       "episode_count": 1,
       "show_count": 1,
@@ -137886,9 +137939,9 @@
       "url": "/wiki/concepts/sexualexplorationasselfknowledge/"
     },
     "SexualFunctionRelationshipContext": {
-      "episode_count": 3,
-      "show_count": 2,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lmQ6ET15-mLUqYUUav7Z4jpx4hcb [lmQ6ET15-mLUqYUUav7Z4jpx4hcb].md",
@@ -137910,9 +137963,16 @@
           "show": "这病说来话长",
           "title": "VOL.77生殖医学科男科｜固化的偏见让负罪感成为自慰的最大危害 「男」言之隐不再难",
           "url": "/wiki/sources/vol-77-shengzhi-yixueke-nanke-guhua-de-pianjian-rang-fuzuigan-chengwei-ziwei-de-zuidahai-nan-yanzhiyin-bu-zai-nan-lidn4alesw5vihbybf_c3f5qbvmo/"
+        },
+        {
+          "episode_file": "SCIM6177024080 [SCIM6177024080].md",
+          "key": "improving-sexual-urological-health-in-males-and-females-dr-rena-malik-scim6177024080",
+          "show": "Huberman Lab",
+          "title": "Improving Sexual & Urological Health in Males and Females | Dr. Rena Malik",
+          "url": "/wiki/sources/improving-sexual-urological-health-in-males-and-females-dr-rena-malik-scim6177024080/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/sexualfunctionrelationshipcontext/"
     },
     "SexualHarassmentNamingLag": {
@@ -158097,9 +158157,9 @@
       "url": "/wiki/entities/urientimmer/"
     },
     "UrinaryTractInfectionBehaviorBoundary": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lmeG_qK_DiO77mj7rEtW0QoYOp_O [lmeG_qK_DiO77mj7rEtW0QoYOp_O].md",
@@ -158114,9 +158174,16 @@
           "show": "这病说来话长",
           "title": "VOL.136你也被椅子硬控了？大夫，快救救久坐打工人吧！",
           "url": "/wiki/sources/vol-136-ni-ye-bei-yizi-yingkong-le-dafu-kuai-jiujiu-jiuzuo-dagongren-ba-lovi71tk-wgo30v9myvd2f1gjdwu/"
+        },
+        {
+          "episode_file": "SCIM6177024080 [SCIM6177024080].md",
+          "key": "improving-sexual-urological-health-in-males-and-females-dr-rena-malik-scim6177024080",
+          "show": "Huberman Lab",
+          "title": "Improving Sexual & Urological Health in Males and Females | Dr. Rena Malik",
+          "url": "/wiki/sources/improving-sexual-urological-health-in-males-and-females-dr-rena-malik-scim6177024080/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/urinarytractinfectionbehaviorboundary/"
     },
     "UrologicalSymptomTriage": {

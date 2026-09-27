@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Improving Sexual & Urological Health in Males and Females | Dr. Rena Malik](sources/improving-sexual-urological-health-in-males-and-females-dr-rena-malik-scim6177024080.md) — Huberman Lab interview on pelvic-floor function matching, sexual desire and arousal, erectile and urinary health, recurrent UTIs, communication, and mechanism-based care.
 - [VOL.67无·事｜听躺进ICU的医生和普通病人在聊些什么？知道越多越恐惧？｜献礼医师节彩蛋](sources/lswakifoozu5vkckl5n-nzndj43e-lswakifoozu5vkckl5n-nzndj43e.md) — 这病说来话长 episode on ICU survivor experience, pulmonary-embolism escalation, anesthesiology, informed clinical trust, and responsible public medical communication.
 - [361. The Lost Library of Alexandria](sources/361-the-lost-library-of-alexandria-glt1578679297.md) — The Rest Is History episode on Ptolemaic scholarship, the library's Greek literary focus, uncertain physical form, and gradual loss behind the single-destruction myth.
 - [AI 时代，我们到底该学什么？｜对谈于红：三种不会过时的能力](sources/ai-shidai-women-daodi-gai-xue-shenme-duitan-yuhong-sanzhong-buhui-guoshi-de-nengli-lkcmj80qyw-uduhijfxudufqboaf.md) — 十字路口Crossing访谈于红，讨论社会情感学习、情绪信号、自我认知、反思式选择、智识诚实复盘与 AI 时代的长期能力。
@@ -3044,6 +3045,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [360. Fear City: New York in the 1970s](sources/360-fear-city-new-york-in-the-1970s-glt7107047696.md) — The Rest Is History episode on the 1977 blackout, fiscal collapse, crime politics, urban dystopia, Ed Koch, and crisis-driven private redevelopment.
 
 ## Entities
+- [Rena Malik](entities/RenaMalik.md) — Urologist and pelvic surgeon using mechanism-matched, non-shaming assessment across male and female urinary and sexual health.
 - [大杨杨 / Da Yangyang](entities/DaYangYang.md) — Source-scoped patient narrator connecting repeated illness, ICU safety, humor, and experience-based writing.
 - [亮哥 / Liang Ge (Anesthesiologist)](entities/LiangGeAnesthesiologist.md) — Source-scoped anesthesiologist, pulmonary-embolism survivor, and humorous medical communicator.
 - [于红 / Yu Hong](entities/YuHong.md) — 从约十五年投资经历转向儿童社会情感教育、创办兔咚咚的教育创业者。
@@ -14172,6 +14174,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [New York Post](entities/NewYorkPost.md) — Tabloid newspaper whose blackout framing amplified law-and-order interpretations of urban crisis.
 
 ## Concepts
+- [Pelvic-Floor Function Matching](concepts/PelvicFloorFunctionMatching.md) — Assessment-led distinction among pelvic-floor weakness, excessive tension, pain, and poor coordination before rehabilitation is selected.
 - [Social-Emotional Learning / 社会情感学习](concepts/SocialEmotionalLearning.md) — 覆盖自我管理、人际与冲突处理、批判性解释和负责任决策的能力教育。
 - [Emotion Acceptance–Signal–Action Sequence / 情绪接纳—信号—行动顺序](concepts/EmotionAcceptanceSignalAction.md) — 先允许并识别情绪，再解释可能信号、调节状态并选择行动的顺序。
 - [Reflective Choice Formation / 反思式选择能力](concepts/ReflectiveChoiceFormation.md) — 通过未来方向、可承受试错、真实体验和复盘形成自我认知与选择质量。
