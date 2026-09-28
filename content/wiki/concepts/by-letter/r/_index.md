@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 8729
+wiki_total_pages: 8732
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -356,6 +356,9 @@ wiki_pages:
   - key: "RelationalFateNetwork"
     title: "Relational Fate Network / 关系命运网络"
     url: "/wiki/concepts/relationalfatenetwork/"
+  - key: "RelationalInterpretiveAuthority"
+    title: "Relational Interpretive Authority / 关系中的解释权"
+    url: "/wiki/concepts/relationalinterpretiveauthority/"
   - key: "RelationalIsolationControl"
     title: "Relational Isolation Control / 关系孤立控制"
     url: "/wiki/concepts/relationalisolationcontrol/"

@@ -4,8 +4,8 @@ generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
 last_updated: 2026-09-29
-as_of_overview_commit: 273d9746cd35e8c05d734deee40b316e5ebbe588
-input_digest: 263c380e9914fe203c64bb9873c6858073591640555477c05fef692c57e93f5f
+as_of_overview_commit: 34439b38fba2836ca4f96dceb631ebae5918e046
+input_digest: 302a743368943c6446a0153237eeecdb565cd274bc68f13e37269564f87c2c23
 ---
 
 # Work, Education, and Society
@@ -1255,3 +1255,15 @@ The Conti series enters work and society through [[MentalHealthStructureFunction
 - The claim is public mental-health education rather than a universal workplace rule, productivity system, or diagnosis of busyness.
 - Automatic work can reflect material necessity, caregiving, disability, coercion, unsafe conditions, or structural constraint rather than only avoidance or an unhealthy defense.
 - Trusted relationships and professional support may be necessary when inquiry is destabilizing or when leaving harmful conditions is difficult.
+
+### Relationship Power Needs Mobile Interpretive Authority
+
+[[shi-di-fu-shuo-474-zixunshi-huixin-quanli-shijiao-shi-weiren-chushi-de-bibei-jiaodu-lnanj_uwjhcnv2vt7ezagdfn9c11|史蒂夫说474期]] adds a relationship-power claim: [[RelationalInterpretiveAuthority]] and [[PowerLiteracy]] distinguish context-sensitive influence from one person's monopoly over definition and continual self-defense, while [[LoveControlIllusion]] and [[MultidimensionalMarriageMeaning]] preserve uncertainty around breakup and separate legal status from other lived dimensions without minimizing concealment or consequence.
+
+**Evidence:** [[shi-di-fu-shuo-474-zixunshi-huixin-quanli-shijiao-shi-weiren-chushi-de-bibei-jiaodu-lnanj_uwjhcnv2vt7ezagdfn9c11]], [[RelationalInterpretiveAuthority]], [[PowerLiteracy]], [[LoveControlIllusion]], [[MultidimensionalMarriageMeaning]]
+
+**Qualifications:**
+
+- The source is public psychoeducation based on short listener letters rather than verified third-party histories, individualized therapy, diagnosis, legal advice, or safety planning.
+- First-person proximity provides important context but does not make a person's interpretation infallible or invalidate evidence of coercion, deception, danger, or legal consequence.
+- The host's explanations of friends, relatives, partners, and therapists are hypotheses, and confrontation in abusive relationships can create retaliation risk.

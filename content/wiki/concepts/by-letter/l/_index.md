@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 8729
+wiki_total_pages: 8732
 wiki_pages:
   - key: "LaborIllusion"
     title: "Labor Illusion"
@@ -773,6 +773,9 @@ wiki_pages:
   - key: "LoveAsContainingFrame"
     title: "Love As Containing Frame / 爱作为包裹性框架"
     url: "/wiki/concepts/loveascontainingframe/"
+  - key: "LoveControlIllusion"
+    title: "Love Control Illusion / 爱的可控性幻觉"
+    url: "/wiki/concepts/lovecontrolillusion/"
   - key: "LovePoetryModernity"
     title: "Love Poetry Modernity"
     url: "/wiki/concepts/lovepoetrymodernity/"

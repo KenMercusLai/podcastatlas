@@ -767,12 +767,13 @@
       "1f02005c80ec3e7ac3f24acac820a9118d51d7e2de5614db5e13752add4f80b9",
       "60d22980877c9a07564718a1614f1e06e5947001e678ff946ba7dbbc77be1f31",
       "718798e1c902241c90f817fc5263e223e3a7e3324d31441c2ee9f2e19f9dfd0d",
-      "e831e8e86e17b030487ea014bf3b5808a8c29e2427f06293b304cc57798e77a3"
+      "e831e8e86e17b030487ea014bf3b5808a8c29e2427f06293b304cc57798e77a3",
+      "31c7f90fc6543c2884f08949e65e0d7fcbcf87a146de833aad456ad7ff83697a"
     ],
-    "paragraph_count": 767
+    "paragraph_count": 768
   },
-  "overview_commit": "c299118de9a897515b1de0a069afcf9064288d87",
-  "overview_digest": "d761c694c1b3688f547cf39fc2f30c23c1f88091400c24e9ebe84752dc84e673",
+  "overview_commit": "34439b38fba2836ca4f96dceb631ebae5918e046",
+  "overview_digest": "8d07d6af7350b1d5e496853017add5827bb8aad64bb8da315b898cb09c3bb6ba",
   "paragraphs": [
     {
       "id": "6e136b358cff61003fb4df15f0b3f39f2bf43b0d64fa941310906c084be8a2d8",
@@ -22546,6 +22547,27 @@
         "TheRestIsHistory",
         "TiananmenCrackdown1989",
         "ZhaoZiyang"
+      ]
+    },
+    {
+      "id": "31c7f90fc6543c2884f08949e65e0d7fcbcf87a146de833aad456ad7ff83697a",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [],
+      "text": "The latest addition is [[shi-di-fu-shuo-474-zixunshi-huixin-quanli-shijiao-shi-weiren-chushi-de-bibei-jiaodu-lnanj_uwjhcnv2vt7ezagdfn9c11|史蒂夫说474期 - 咨询师回信：权力视角是为人处世的必备角度]], a [[ShiDiFuShuo|史蒂夫说]] counselor-letter episode with [[SteveShiDiFuShuoHost|Steve]] on friendship judgment, family abuse, breakup, therapy, and marriage history. It adds [[RelationalInterpretiveAuthority]], [[LoveControlIllusion]], and [[MultidimensionalMarriageMeaning]], while extending [[PowerLiteracy]]. Its core synthesis is that close relationships become disempowering when one person monopolizes the questions and definitions while the other can only defend themself; healthier power moves with context and preserves first-person standing without assuming infallibility. Breakup self-blame and diagnosis can become attempts to keep love controllable, while marriage needs to be read across legal, social, emotional, psychological, and shared-life dimensions without minimizing concealment or legal consequence. No settled contradiction is recorded; third-party motives, diagnoses, the former marriage's history, and the safety of confrontation remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "LoveControlIllusion",
+        "MultidimensionalMarriageMeaning",
+        "PowerLiteracy",
+        "RelationalInterpretiveAuthority",
+        "ShiDiFuShuo",
+        "SteveShiDiFuShuoHost",
+        "shi-di-fu-shuo-474-zixunshi-huixin-quanli-shijiao-shi-weiren-chushi-de-bibei-jiaodu-lnanj_uwjhcnv2vt7ezagdfn9c11"
       ]
     }
   ],

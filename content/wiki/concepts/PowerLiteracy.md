@@ -4,7 +4,8 @@ type: concept
 tags: [power, relationships, social-dynamics, self-awareness]
 sources:
   - a-process-for-finding-achieving-your-unique-purpose-robert-greene-scim1811421687
-last_updated: 2026-09-27
+  - shi-di-fu-shuo-474-zixunshi-huixin-quanli-shijiao-shi-weiren-chushi-de-bibei-jiaodu-lnanj_uwjhcnv2vt7ezagdfn9c11
+last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,6 +19,8 @@ Power literacy is the ability to recognize how influence, dependence, status, di
 
 The defensive emphasis matters. Greene uses lessons such as avoiding needless outshining, limiting indiscriminate disclosure, and demonstrating rather than endlessly arguing as ways to reduce predictable social costs. Yet awareness is not moral permission: seeing power clearly does not justify manipulation, domination, paranoia, or reading every disagreement as a hidden contest.
 
+In close relationships, power also includes the ability to define what the relationship means, choose the questions under discussion, and make another person continually justify themself. The counselor-letter cases in [[shi-di-fu-shuo-474-zixunshi-huixin-quanli-shijiao-shi-weiren-chushi-de-bibei-jiaodu-lnanj_uwjhcnv2vt7ezagdfn9c11|史蒂夫说474期]] support a mobile rather than power-free alternative: knowledge, influence, and decision weight shift with context, while each person retains [[RelationalInterpretiveAuthority]] over their own experience.
+
 ## Key Claims
 - A wish for some agency over environment and relationships is common and can become covert when denied.
 - Power often operates through attention, information, status, dependency, timing, and emotional reaction rather than formal authority alone.
@@ -25,19 +28,23 @@ The defensive emphasis matters. Greene uses lessons such as avoiding needless ou
 - Overdisclosure, status threat, and futile argument can weaken a person's position even when their factual case is strong.
 - Vulnerability can enable intimacy and learning while also creating leverage, so context and reciprocity matter.
 - Power analysis needs ethical and evidentiary limits to avoid becoming universal suspicion.
+- In close relationships, repeated self-justification can signal that interpretive authority has become fixed in the person setting the frame.
 
 ## Evidence
 - Human need: [[a-process-for-finding-achieving-your-unique-purpose-robert-greene-scim1811421687]] has Greene describe power as a primal need for influence or control in one's immediate world.
 - Covert expression: [[a-process-for-finding-achieving-your-unique-purpose-robert-greene-scim1811421687]] argues that suppression can reappear as passive-aggressive or hidden control.
 - Defensive practices: [[a-process-for-finding-achieving-your-unique-purpose-robert-greene-scim1811421687]] presents avoiding unnecessary status threat, excessive talk, and unproductive argument as self-protection.
 - Vulnerability: [[a-process-for-finding-achieving-your-unique-purpose-robert-greene-scim1811421687]] connects seduction and openness to the willingness to become vulnerable.
+- Interpretive authority: [[shi-di-fu-shuo-474-zixunshi-huixin-quanli-shijiao-shi-weiren-chushi-de-bibei-jiaodu-lnanj_uwjhcnv2vt7ezagdfn9c11|史蒂夫说474期]] uses friendship, family abuse, breakup, therapy, and marriage-history letters to show how one party can monopolize the definition of a relationship.
+- Mobile power: [[shi-di-fu-shuo-474-zixunshi-huixin-quanli-shijiao-shi-weiren-chushi-de-bibei-jiaodu-lnanj_uwjhcnv2vt7ezagdfn9c11|史蒂夫说474期]] describes healthy power as moving with the issue rather than remaining permanently lodged in one person's judgments.
 
 ## Counterevidence & Qualifications
-The source offers a philosophical and observational framework, not a validated model that measures all relationships. Power language can flatten affection, cooperation, institutional duty, misunderstanding, or legitimate disagreement into strategic maneuver. Defensive literacy should remain proportional to evidence and should not excuse coercion or manipulation.
+The sources offer philosophical and observational frameworks, not a validated model that measures all relationships. Power language can flatten affection, cooperation, institutional duty, misunderstanding, or legitimate disagreement into strategic maneuver. First-person authority also does not make a person's reading infallible or invalidate evidence of deception, coercion, or danger offered by others. Defensive literacy should remain proportional to evidence and should not excuse coercion or manipulation.
 
 ## What Changed
 - Created a bounded account of power awareness centered on agency, covert control, and defensive social navigation.
 - Added explicit ethical and paranoia boundaries.
+- Added episode 474's distinction between fixed interpretive control and context-sensitive, mobile power in close relationships.
 
 ## Related Concepts
 - [[PowerDesireSelfRestraint]] - ethical relationship showing why awareness of power must be paired with restraint.
@@ -45,3 +52,5 @@ The source offers a philosophical and observational framework, not a validated m
 - [[StrategicEmotionConcealment]] - narrower tactic involving what emotional information is exposed.
 - [[EmbodiedSocialPerception]] - evidence relationship because influence is often communicated nonverbally.
 - [[ClinicalTrustBuilding]] - contrast in which asymmetry is managed through explanation, agency, and reliable care.
+- [[RelationalInterpretiveAuthority]] - close-relationship branch concerning who defines the problem and whose experience counts as evidence.
+- [[LoveControlIllusion]] - control-seeking pattern that turns relational uncertainty into a supposedly solvable procedure.

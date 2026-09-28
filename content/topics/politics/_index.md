@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2813
+topic_total_pages: 2814
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2356,6 +2356,9 @@ topic_concepts:
   - key: "MotiveBasedTalentEvaluation"
     title: "Motive-Based Talent Evaluation / 动机导向的才干评价"
     url: "/wiki/concepts/motivebasedtalentevaluation/"
+  - key: "MultidimensionalMarriageMeaning"
+    title: "Multidimensional Marriage Meaning / 婚姻的多维意义"
+    url: "/wiki/concepts/multidimensionalmarriagemeaning/"
   - key: "MuslimPersonalLawIndia"
     title: "Muslim Personal Law in India"
     url: "/wiki/concepts/muslimpersonallawindia/"

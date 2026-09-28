@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1312
+topic_total_pages: 1313
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -3936,6 +3936,9 @@ topic_sources:
   - key: "shi-di-fu-shuo-473-ajiao-women-yaowang-zhe-zhan-zai-huoshankou-de-ta-gantan-fengjing-hen-ku-lvjfqvpu-etzftdxke0dug5l9f5j"
     title: "史蒂夫说473期 - 阿娇 - 我们遥望着站在火山口的她，感叹风景很酷"
     url: "/wiki/sources/shi-di-fu-shuo-473-ajiao-women-yaowang-zhe-zhan-zai-huoshankou-de-ta-gantan-fengjing-hen-ku-lvjfqvpu-etzftdxke0dug5l9f5j/"
+  - key: "shi-di-fu-shuo-474-zixunshi-huixin-quanli-shijiao-shi-weiren-chushi-de-bibei-jiaodu-lnanj_uwjhcnv2vt7ezagdfn9c11"
+    title: "史蒂夫说474期 - 咨询师回信：权力视角是为人处世的必备角度"
+    url: "/wiki/sources/shi-di-fu-shuo-474-zixunshi-huixin-quanli-shijiao-shi-weiren-chushi-de-bibei-jiaodu-lnanj_uwjhcnv2vt7ezagdfn9c11/"
   - key: "shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352"
     title: "商业小样45 | 厄尔尼诺越大，鱼越贵"
     url: "/wiki/sources/shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352/"

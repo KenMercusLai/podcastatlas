@@ -24955,3 +24955,11 @@ Added source `how-to-optimize-your-water-quality-intake-for-health-scim616987951
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | 史蒂夫说474期 - 咨询师回信：权力视角是为人处世的必备角度
+
+Added source `shi-di-fu-shuo-474-zixunshi-huixin-quanli-shijiao-shi-weiren-chushi-de-bibei-jiaodu-lnanj_uwjhcnv2vt7ezagdfn9c11`; created `RelationalInterpretiveAuthority`, `LoveControlIllusion`, and `MultidimensionalMarriageMeaning`; and updated `PowerLiteracy`, `ShiDiFuShuo`, `SteveShiDiFuShuoHost`, the canonical index, and overview synthesis from their complete bounded source sets. Core synthesis: relationship power includes the authority to define the problem and decide whose experience counts; repeated self-justification can deepen loss of agency; breakup analysis can preserve an illusion that love is controllable; and marriage has legal, social, emotional, psychological, and shared-life dimensions that should be examined without minimizing concealment or legal consequence. No settled contradiction was adopted. Third-party motives, diagnoses, family dynamics, the former marriage's history, and confrontation safety remain source-scoped public psychoeducation rather than individualized therapy, legal advice, or safety planning.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

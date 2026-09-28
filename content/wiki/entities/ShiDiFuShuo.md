@@ -11,17 +11,18 @@ sources:
   - shi-di-fu-shuo-465-liangyi-cong-zigong-zouxiang-xianshi-lhLhohpUHBpofcWXtzOuxDIvRber
   - shi-di-fu-shuo-464-xiejin-women-zhichi-pingdeng-dan-moren-butongderen-peide-butongdeshenghuo-lsYpOsseeWaQIMMSv6Q2lyGsOCSw
   - shi-di-fu-shuo-473-ajiao-women-yaowang-zhe-zhan-zai-huoshankou-de-ta-gantan-fengjing-hen-ku-lvjfqvpu-etzftdxke0dug5l9f5j
-last_updated: 2026-09-20
+  - shi-di-fu-shuo-474-zixunshi-huixin-quanli-shijiao-shi-weiren-chushi-de-bibei-jiaodu-lnanj_uwjhcnv2vt7ezagdfn9c11
+last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
 
 # 史蒂夫说
 
 ## Overview
-史蒂夫说 is a long-form psychology and relationships podcast hosted by [[SteveShiDiFuShuoHost|Steve]]. The current sources span anxiety, trauma, sex, parenting, feminist philosophy, embodiment, and, in [[shi-di-fu-shuo-473-ajiao-women-yaowang-zhe-zhan-zai-huoshankou-de-ta-gantan-fengjing-hen-ku-lvjfqvpu-etzftdxke0dug5l9f5j]], [[Ajiao|阿娇 / 柱子哥]]'s challenge to patient labels, total psychological explanation, romantic death narratives, and the assumption that public recognition supplies intimate safety.
+史蒂夫说 is a long-form psychology and relationships podcast hosted by [[SteveShiDiFuShuoHost|Steve]]. The current sources span anxiety, trauma, sex, parenting, feminist philosophy, embodiment, illness, death, and relationship power. [[shi-di-fu-shuo-474-zixunshi-huixin-quanli-shijiao-shi-weiren-chushi-de-bibei-jiaodu-lnanj_uwjhcnv2vt7ezagdfn9c11|Episode 474]] returns to the counselor-letter format to connect friendship, family abuse, breakup, therapy, and marriage through [[RelationalInterpretiveAuthority]].
 
 ## Current Profile
-The current wiki evidence shows the show as a conversational program that moves psychological language into body, family, intimacy, public life, and philosophy. Its interviews and letters generally translate distress into bounded concepts and practices while warning against self-surveillance or moral judgment. Episode 473 broadens that profile by letting a guest contest the explanatory impulse itself: some pain remains outside theory, lived differences survive empathic effort, and an honest conversation may end with uncertainty rather than repair or advice.
+The current wiki evidence shows the show as a conversational program that moves psychological language into body, family, intimacy, public life, and philosophy. Its interviews and letters generally translate distress into bounded concepts and practices while warning against self-surveillance or moral judgment. Episode 473 broadens that profile by letting a guest contest the explanatory impulse itself; episode 474 then shows how explanation can become power when one person monopolizes the frame. Together they preserve a boundary between useful interpretation and the demand that another person's life fit a complete theory.
 
 ## Key Characteristics
 - Long-form interview format centered on psychological self-understanding and relationship repair.
@@ -30,7 +31,7 @@ The current wiki evidence shows the show as a conversational program that moves 
 - Uses listener letters to turn everyday relational distress into bounded public psychoeducation.
 - Treats psychology as care-oriented language that can become harmful when used for self-surveillance.
 - Treats sex and intimacy as psychologically serious subjects shaped by body, relationship, social norms, and responsibility.
-- Repeatedly separates situational difficulty from defective selfhood while leaving room for guests to reject explanation, expose irreducible difference, and end without a therapeutic resolution.
+- Repeatedly separates situational difficulty from defective selfhood while protecting first-person context, uncertainty, and the right to reject a totalizing explanation.
 
 ## Evidence
 - Format and participants - [[shi-di-fu-shuo-472-zhao-jinzhao-huajie-jiaolv-zuijia-fangfa-chaijie-wenti-wenrou-xiangdai-lqw9h-jqfzrsrveagfslnakhcgjh]] presents Steve as host and [[ZhaoJinzhao|Dr. Claire]] as guest in a nearly two-hour discussion, while [[shi-di-fu-shuo-471-zixunshi-huixin-wanshi-zhi-jiang-luoji-de-ren-dou-chengzhang-yu-lixing-wei-ming-de-yapo-lrsk-0knooxxa-twm1ci5dfhldxi]] uses listener letters as the episode structure.
@@ -44,13 +45,15 @@ The current wiki evidence shows the show as a conversational program that moves 
 - Parenting and slow growth - [[shi-di-fu-shuo-465-liangyi-cong-zigong-zouxiang-xianshi-lhLhohpUHBpofcWXtzOuxDIvRber]] uses Steve's early fatherhood and Liang Yi's nonviolent-communication frame to connect [[GradualParentChildRelationship]], [[GrowthWitnessing]], attention, sensory load, and adult learning.
 - Feminist philosophy and public space - [[shi-di-fu-shuo-464-xiejin-women-zhichi-pingdeng-dan-moren-butongderen-peide-butongdeshenghuo-lsYpOsseeWaQIMMSv6Q2lyGsOCSw]] uses Xie Jin's philosophy to connect [[EpistemicInjusticeExperienceSilencing]], [[EqualityParadoxPublicSpace]], [[EmbodiedVulnerabilityPublicDesign]], gendered emotional labor, male vulnerability, and [[GoodLifeAsHappyTogether]].
 - Illness, projection, and mortality - [[shi-di-fu-shuo-473-ajiao-women-yaowang-zhe-zhan-zai-huoshankou-de-ta-gantan-fengjing-hen-ku-lvjfqvpu-etzftdxke0dug5l9f5j]] uses Ajiao's experience to connect [[PatientSymbolizationProjection]], [[DeathNarrativeDeromanticization]], [[NonInstrumentalRelationalSafety]], and the limits of psychology's explanatory comfort.
+- Relationship power and judgment - [[shi-di-fu-shuo-474-zixunshi-huixin-quanli-shijiao-shi-weiren-chushi-de-bibei-jiaodu-lnanj_uwjhcnv2vt7ezagdfn9c11]] uses four listener letters to connect [[PowerLiteracy]], [[RelationalInterpretiveAuthority]], [[LoveControlIllusion]], and [[MultidimensionalMarriageMeaning]].
 
 ## Qualifications
-The show profile is based on eight ingested episodes. Broader production history, audience size, full archive range, and Innerworld operating details remain outside the current evidence. The episodes are public conversation and psychoeducation, not substitutes for diagnosis, therapy, medical guidance, or crisis care.
+The show profile is based on nine ingested episodes. Broader production history, audience size, full archive range, and Innerworld operating details remain outside the current evidence. The episodes are public conversation and psychoeducation, not substitutes for diagnosis, therapy, legal guidance, medical guidance, domestic-violence support, or crisis care.
 
 ## What Changed
 - Added episode 473's illness, public-projection, relational-safety, and de-romanticized death branch.
 - Clarified that the show's format can preserve uncertainty and disagreement rather than always producing explanation or advice.
+- Added episode 474's relationship-power frame, including interpretive authority, breakup control, and multidimensional marriage meaning.
 
 ## Relationships
 - [[SteveShiDiFuShuoHost|Steve]] - host in the current source.
@@ -78,3 +81,6 @@ The show profile is based on eight ingested episodes. Broader production history
 - [[PatientSymbolizationProjection]] - episode 473's public-identity critique.
 - [[DeathNarrativeDeromanticization]] - episode 473's mortality conclusion.
 - [[NonInstrumentalRelationalSafety]] - episode 473's distinction between public affection and dependable intimate safety.
+- [[RelationalInterpretiveAuthority]] - episode 474's central account of who defines a relationship problem.
+- [[LoveControlIllusion]] - episode 474's boundary against treating affection and breakup as fully operable variables.
+- [[MultidimensionalMarriageMeaning]] - episode 474's separation of legal status from other relationship dimensions.

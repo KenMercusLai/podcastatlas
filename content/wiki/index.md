@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [史蒂夫说474期 - 咨询师回信：权力视角是为人处世的必备角度](sources/shi-di-fu-shuo-474-zixunshi-huixin-quanli-shijiao-shi-weiren-chushi-de-bibei-jiaodu-lnanj_uwjhcnv2vt7ezagdfn9c11.md) — 史蒂夫说 counselor-letter episode on interpretive power, self-justification, family abuse, breakup control, therapy authority, and multidimensional marriage meaning.
 - [How to Optimize Your Water Quality & Intake for Health](sources/how-to-optimize-your-water-quality-intake-for-health-scim6169879512.md) — Huberman Lab solo episode on hydration timing, exercise and heat losses, tap-water assessment, filtration, minerals, and specialty-water evidence boundaries.
 - [VOL.27妇产科｜关于生理痛、HPV、避孕、怀孕我们要知道的这些误区和知识点](sources/vol-27-fuchanke-guanyu-shenglitong-hpv-biyun-huaiyun-women-yao-zhidao-de-zhexie-wuqu-he-zhishidian-lsdiuqrn72kocqbldexyzqglbwq6.md) — 这病说来话长 episode on menstrual and gynecological triage, HPV, contraception, prenatal screening limits, pregnancy care, delivery, and postpartum myths.
 - [311: Reagan: The Road to the White House (Part 2)](sources/311-reagan-the-road-to-the-white-house-part-2-glt9813084891.md) — The Rest Is History episode on Reagan's GE speaking apprenticeship, Goldwater breakthrough, California pragmatism, coded racial appeals, and 1980 coalition.
@@ -14518,6 +14519,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Satchin Panda](entities/SatchinPanda.md) — Circadian-biology researcher separating meal timing, fasting duration, energy intake, and evidence limits in animal and human studies.
 
 ## Concepts
+- [Relational Interpretive Authority / 关系中的解释权](concepts/RelationalInterpretiveAuthority.md) — Power to define a relationship problem while preserving first-person context without claiming infallibility.
+- [Love Control Illusion / 爱的可控性幻觉](concepts/LoveControlIllusion.md) — Breakup pattern where self-blame or diagnosis preserves the hope that affection can be restored through the correct procedure.
+- [Multidimensional Marriage Meaning / 婚姻的多维意义](concepts/MultidimensionalMarriageMeaning.md) — Separation of marriage's legal, social, emotional, psychological, and shared-life dimensions.
 - [Daily Hydration Timing](concepts/DailyHydrationTiming.md) — Timing-aware framework for distributing fluid across the waking day while adapting to activity, heat, health context, and nighttime urination.
 - [Household Water Quality and Filtration](concepts/HouseholdWaterQualityFiltration.md) — Local-report, plumbing, contaminant, maintenance, filter-performance, cost, and mineral-tradeoff decision frame.
 - [Specialty Water Evidence Boundary](concepts/SpecialtyWaterEvidenceBoundary.md) — Evidence hierarchy for alkaline, hydrogen-rich, deuterium-depleted, electrolyzed, and structured waters.

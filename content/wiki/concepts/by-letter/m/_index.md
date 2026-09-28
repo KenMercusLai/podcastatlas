@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 8729
+wiki_total_pages: 8732
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1310,6 +1310,9 @@ wiki_pages:
   - key: "MultiTeacherDistillation"
     title: "Multi-Teacher Distillation"
     url: "/wiki/concepts/multiteacherdistillation/"
+  - key: "MultidimensionalMarriageMeaning"
+    title: "Multidimensional Marriage Meaning / 婚姻的多维意义"
+    url: "/wiki/concepts/multidimensionalmarriagemeaning/"
   - key: "MultidisciplinaryHospitalCare"
     title: "Multidisciplinary Hospital Care / 医院多职种协作"
     url: "/wiki/concepts/multidisciplinaryhospitalcare/"
