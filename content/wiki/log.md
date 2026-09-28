@@ -24822,3 +24822,11 @@ Added source `vol-40-zhengxingwaike-chai-dongqiang-bu-xiqiang-wei-nvxing-ruxiana
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | Neuralink & Technologies to Enhance Human Brains | Dr. Matthew MacDougall
+
+Added source `neuralink-technologies-to-enhance-human-brains-dr-matthew-macdougall-scim4147376395`; created `MatthewMacDougall`, `Neuralink`, `BrainComputerInterface`, `RoboticNeuralElectrodeInsertion`, and `NeuralInterfaceBitrateAdoptionTradeoff`; and updated `Neuroplasticity` and the canonical index from the complete bounded source set. Core synthesis: the episode’s grounded near-term case is assistive computer control from preserved motor intention, with robotic placement solving a constrained surgical precision problem and user–decoder co-adaptation turning neural signals into useful commands; natural-limb restoration, silent speech, memory enhancement, multi-brain links, and AI-coupled cognition remain later-stage or speculative. No settled contradiction was adopted. Regulatory status, device-safety comparisons, Bluetooth and heat claims, animal-research descriptions, interface ceilings, and augmentation forecasts remain historical, guest-attributed, or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

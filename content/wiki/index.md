@@ -3139,6 +3139,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Science-Based Mental Training & Visualization for Improved Learning](sources/science-based-mental-training-visualization-for-improved-learning-scim9944841947.md) — Huberman Lab solo episode on brief task-matched imagery, physical-practice primacy, first-person rehearsal, response inhibition, sleep, and protocol evidence boundaries.
 
+- [Neuralink & Technologies to Enhance Human Brains | Dr. Matthew MacDougall](sources/neuralink-technologies-to-enhance-human-brains-dr-matthew-macdougall-scim4147376395.md) — Huberman Lab interview on assistive brain–computer control, robotic cortical-electrode insertion, co-adaptive decoding, interface bitrate and adoption, and speculative restoration or augmentation boundaries.
+
 ## Entities
 - [Checkers](entities/CheckersDog.md) — Nixon family dog whose role in the 1952 Checkers speech made canine loyalty a tool of televised political repair.
 - [Greyfriars Bobby](entities/GreyfriarsBobby.md) — Edinburgh dog whose grave-side loyalty story became civic commemoration, tourism, and qualified legend.
@@ -14464,6 +14466,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Friedrich Hecker](entities/FriedrichHecker.md) — German radical whose failed Baden insurrection contrasts direct action with parliamentary strategy.
 - [Frankfurt Parliament](entities/FrankfurtParliament.md) — German national assembly whose representative ambition lacked independent military and administrative capacity.
 
+- [Matthew MacDougall](entities/MatthewMacDougall.md) — Neurosurgeon connecting Neuralink’s assistive-interface roadmap to surgical precision, decoding, and augmentation boundaries.
+- [Neuralink](entities/Neuralink.md) — Neurotechnology company presented through its April 2023 assistive cortical-interface and robotic-insertion roadmap.
+
 ## Concepts
 - [Breast Reconstruction Decision / 乳房再造决策](concepts/BreastReconstructionDecision.md) — Whole-pathway selection of whether, when, and how to reconstruct after breast-cancer surgery.
 - [Autologous Breast Reconstruction Flap Selection / 自体组织乳房再造皮瓣选择](concepts/AutologousBreastReconstructionFlapSelection.md) — Blood-supply and donor-site framework for pedicled and free-tissue breast reconstruction.
@@ -23189,5 +23194,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Post-Revolutionary Conservatism](concepts/PostRevolutionaryConservatism.md) — Adaptive conservative politics that preserves authority by selectively absorbing changes revolution made unavoidable.
 - [Popular Counter-Revolution](concepts/PopularCounterrevolution.md) — Social participation in restoring order alongside loyal armies, administration, elections, and coercion.
 - [Constitutional Afterlife of Revolution](concepts/ConstitutionalAfterlifeOfRevolution.md) — Survival or later reuse of constitutional forms after revolutionary coalitions fragment or lose.
+
+- [Brain–Computer Interface](concepts/BrainComputerInterface.md) — Assistive system translating selected neural activity into computer or device commands through co-adaptive decoding.
+- [Robotic Neural-Electrode Insertion](concepts/RoboticNeuralElectrodeInsertion.md) — Machine-guided placement of fine neural electrodes within a surgeon-led workflow.
+- [Neural-Interface Bitrate–Adoption Tradeoff](concepts/NeuralInterfaceBitrateAdoptionTradeoff.md) — Framework balancing useful neural information transfer against invasiveness, risk, training, and user need.
 
 ## Syntheses

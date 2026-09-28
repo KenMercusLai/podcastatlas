@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 8698
+wiki_total_pages: 8701
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -626,6 +626,9 @@ wiki_pages:
   - key: "BrainImmuneStateCoupling"
     title: "Brain-Immune State Coupling"
     url: "/wiki/concepts/brainimmunestatecoupling/"
+  - key: "BrainComputerInterface"
+    title: "Brain–Computer Interface"
+    url: "/wiki/concepts/braincomputerinterface/"
   - key: "BrandBelief"
     title: "Brand Belief / 品牌信念"
     url: "/wiki/concepts/brandbelief/"

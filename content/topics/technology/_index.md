@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3211
+topic_total_pages: 3212
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3724,6 +3724,9 @@ topic_concepts:
   - key: "RoboticHandlingCommercialization"
     title: "Robotic Handling Commercialization"
     url: "/wiki/concepts/robotichandlingcommercialization/"
+  - key: "RoboticNeuralElectrodeInsertion"
+    title: "Robotic Neural-Electrode Insertion"
+    url: "/wiki/concepts/roboticneuralelectrodeinsertion/"
   - key: "RoboticsRevenuePullForward"
     title: "Robotics Revenue Pull-Forward"
     url: "/wiki/concepts/roboticsrevenuepullforward/"

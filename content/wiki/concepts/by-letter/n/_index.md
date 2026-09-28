@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 8698
+wiki_total_pages: 8701
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -185,6 +185,9 @@ wiki_pages:
   - key: "NeuralProcessingUnits"
     title: "Neural Processing Units"
     url: "/wiki/concepts/neuralprocessingunits/"
+  - key: "NeuralInterfaceBitrateAdoptionTradeoff"
+    title: "Neural-Interface Bitrate–Adoption Tradeoff"
+    url: "/wiki/concepts/neuralinterfacebitrateadoptiontradeoff/"
   - key: "NeuroPlatformRemoteAccess"
     title: "Neuro Platform Remote Access"
     url: "/wiki/concepts/neuroplatformremoteaccess/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 11300
+wiki_total_pages: 11302
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -317,6 +317,9 @@ wiki_pages:
   - key: "NeuralBand"
     title: "Neural Band"
     url: "/wiki/entities/neuralband/"
+  - key: "Neuralink"
+    title: "Neuralink"
+    url: "/wiki/entities/neuralink/"
   - key: "NeuroShake"
     title: "NeuroShake"
     url: "/wiki/entities/neuroshake/"

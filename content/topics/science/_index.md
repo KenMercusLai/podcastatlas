@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1303
+topic_total_pages: 1305
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -268,6 +268,9 @@ topic_concepts:
   - key: "BrainImmuneStateCoupling"
     title: "Brain-Immune State Coupling"
     url: "/wiki/concepts/brainimmunestatecoupling/"
+  - key: "BrainComputerInterface"
+    title: "Brain–Computer Interface"
+    url: "/wiki/concepts/braincomputerinterface/"
   - key: "BubbleRoleAnalogy"
     title: "Bubble Role Analogy / 泡沫角色类比"
     url: "/wiki/concepts/bubbleroleanalogy/"
@@ -3753,6 +3756,9 @@ topic_sources:
   - key: "tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128"
     title: "Mushrooms could help curb plastic waste"
     url: "/wiki/sources/tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128/"
+  - key: "neuralink-technologies-to-enhance-human-brains-dr-matthew-macdougall-scim4147376395"
+    title: "Neuralink & Technologies to Enhance Human Brains | Dr. Matthew MacDougall"
+    url: "/wiki/sources/neuralink-technologies-to-enhance-human-brains-dr-matthew-macdougall-scim4147376395/"
   - key: "neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716"
     title: "Neuroscience of Emotions & Tools for Improving Emotion Regulation | Dr. Ralph Adolphs"
     url: "/wiki/sources/neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716/"

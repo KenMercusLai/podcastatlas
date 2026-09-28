@@ -20317,6 +20317,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/brainbodyemotionmapping/"
     },
+    "BrainComputerInterface": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4147376395 [SCIM4147376395].md",
+          "key": "neuralink-technologies-to-enhance-human-brains-dr-matthew-macdougall-scim4147376395",
+          "show": "Huberman Lab",
+          "title": "Neuralink & Technologies to Enhance Human Brains | Dr. Matthew MacDougall",
+          "url": "/wiki/sources/neuralink-technologies-to-enhance-human-brains-dr-matthew-macdougall-scim4147376395/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/braincomputerinterface/"
+    },
     "BrainDerivedNeurotrophicFactor": {
       "episode_count": 1,
       "show_count": 1,
@@ -110574,6 +110590,22 @@
       "updated": "2026-09-24",
       "url": "/wiki/entities/matthewhill/"
     },
+    "MatthewMacDougall": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4147376395 [SCIM4147376395].md",
+          "key": "neuralink-technologies-to-enhance-human-brains-dr-matthew-macdougall-scim4147376395",
+          "show": "Huberman Lab",
+          "title": "Neuralink & Technologies to Enhance Human Brains | Dr. Matthew MacDougall",
+          "url": "/wiki/sources/neuralink-technologies-to-enhance-human-brains-dr-matthew-macdougall-scim4147376395/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/matthewmacdougall/"
+    },
     "MatthewWalker": {
       "episode_count": 6,
       "show_count": 1,
@@ -118597,6 +118629,38 @@
       "updated": "2026-09-01",
       "url": "/wiki/entities/netherlands/"
     },
+    "NeuralInterfaceBitrateAdoptionTradeoff": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4147376395 [SCIM4147376395].md",
+          "key": "neuralink-technologies-to-enhance-human-brains-dr-matthew-macdougall-scim4147376395",
+          "show": "Huberman Lab",
+          "title": "Neuralink & Technologies to Enhance Human Brains | Dr. Matthew MacDougall",
+          "url": "/wiki/sources/neuralink-technologies-to-enhance-human-brains-dr-matthew-macdougall-scim4147376395/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/neuralinterfacebitrateadoptiontradeoff/"
+    },
+    "Neuralink": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4147376395 [SCIM4147376395].md",
+          "key": "neuralink-technologies-to-enhance-human-brains-dr-matthew-macdougall-scim4147376395",
+          "show": "Huberman Lab",
+          "title": "Neuralink & Technologies to Enhance Human Brains | Dr. Matthew MacDougall",
+          "url": "/wiki/sources/neuralink-technologies-to-enhance-human-brains-dr-matthew-macdougall-scim4147376395/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/neuralink/"
+    },
     "NeuroPlatformRemoteAccess": {
       "episode_count": 1,
       "show_count": 1,
@@ -118669,9 +118733,9 @@
       "url": "/wiki/concepts/neuromodulatorstatetoolkit/"
     },
     "Neuroplasticity": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 3,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "用 AI 让我们变笨了吗？｜ S10E25 [a6b360da-07f7-4d9e-ab1b-64a7130e9254].md",
@@ -118728,9 +118792,16 @@
           "show": "Huberman Lab",
           "title": "How Psilocybin Can Rewire Our Brain, Its Therapeutic Benefits & Its Risks",
           "url": "/wiki/sources/how-psilocybin-can-rewire-our-brain-its-therapeutic-benefits-its-risks-scim8168511614/"
+        },
+        {
+          "episode_file": "SCIM4147376395 [SCIM4147376395].md",
+          "key": "neuralink-technologies-to-enhance-human-brains-dr-matthew-macdougall-scim4147376395",
+          "show": "Huberman Lab",
+          "title": "Neuralink & Technologies to Enhance Human Brains | Dr. Matthew MacDougall",
+          "url": "/wiki/sources/neuralink-technologies-to-enhance-human-brains-dr-matthew-macdougall-scim4147376395/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/neuroplasticity/"
     },
     "NeurorestorativeStrokeRecovery": {
@@ -142311,6 +142382,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/robotichandlingcommercialization/"
+    },
+    "RoboticNeuralElectrodeInsertion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4147376395 [SCIM4147376395].md",
+          "key": "neuralink-technologies-to-enhance-human-brains-dr-matthew-macdougall-scim4147376395",
+          "show": "Huberman Lab",
+          "title": "Neuralink & Technologies to Enhance Human Brains | Dr. Matthew MacDougall",
+          "url": "/wiki/sources/neuralink-technologies-to-enhance-human-brains-dr-matthew-macdougall-scim4147376395/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/roboticneuralelectrodeinsertion/"
     },
     "RoboticsRevenuePullForward": {
       "episode_count": 1,

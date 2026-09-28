@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 8698
+wiki_total_pages: 8701
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -1034,6 +1034,9 @@ wiki_pages:
   - key: "RoboticHandlingCommercialization"
     title: "Robotic Handling Commercialization"
     url: "/wiki/concepts/robotichandlingcommercialization/"
+  - key: "RoboticNeuralElectrodeInsertion"
+    title: "Robotic Neural-Electrode Insertion"
+    url: "/wiki/concepts/roboticneuralelectrodeinsertion/"
   - key: "RoboticsRevenuePullForward"
     title: "Robotics Revenue Pull-Forward"
     url: "/wiki/concepts/roboticsrevenuepullforward/"

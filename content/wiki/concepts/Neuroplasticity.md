@@ -11,8 +11,9 @@ sources:
   - how-to-improve-brain-health-offset-neurodegeneration-dr-gary-steinberg-scim3649091801
   - ketamine-benefits-risks-for-depression-ptsd-neuroplasticity-scim3757014952
   - how-psilocybin-can-rewire-our-brain-its-therapeutic-benefits-its-risks-scim8168511614
+  - neuralink-technologies-to-enhance-human-brains-dr-matthew-macdougall-scim4147376395
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-28
+last_updated: 2026-09-29
 ---
 
 # Neuroplasticity / 神经可塑性
@@ -31,16 +32,18 @@ The ketamine episode adds a pharmacological branch without creating a "plasticit
 
 The psilocybin episode adds the clearest value boundary: plasticity is change, not necessarily improvement. It describes animal dendritic-spine growth and human network-flexibility findings as plausible bridges to longer-lasting effects, but says dose, set and setting, music, guidance, psychotherapy, and integration help determine whether a temporary window becomes adaptive. Hallucination or mystical intensity therefore cannot stand in for improved functioning.
 
+The Neuralink interview adds a spatial-scale boundary. Localized electrodes may record or stimulate selected cortical activity and can support learned device control, but the guest does not present them as a brain-wide plasticity amplifier. Broad synaptic modulation and precise interface access are different intervention problems; success at decoding motor intention does not establish generalized learning enhancement.
+
 Plasticity is therefore supported by repeated, sufficiently challenging stimulation, recovery, diet, movement, and meaningful feedback. It is weakened when tools remove the search, recall, comparison, and correction work that trains the system. It also should not be inflated into a universal intervention claim: there is no "plasticity pill," psychedelic evidence remains unsettled, and concussion or clinical recovery belongs inside medical guidance.
 
 ## Key Claims
-- Learning changes connection strength, pruning, and network use, while focus and alertness help select which active circuits are candidates for later change.
-- Stimulation needs enough intensity, repetition, duration, and relevance to build durable change.
+- Learning changes connection strength, pruning, and network use; focus and alertness help select active circuits, while sufficient intensity, repetition, duration, and relevance support durable change.
 - Active retrieval, explanation, movement, language learning, music, dance, sport, and other multimodal activities can provide stronger training loops than passive input.
 - AI can support learning when it preserves reasoning and feedback, but it can reduce plasticity opportunities when it removes effortful practice.
 - Sleep, recovery, diet, and exercise shape whether practice can consolidate rather than just consume attention.
 - Psychedelic, dissociative, or altered-state plasticity claims remain promising but unresolved; subjective intensity is not itself proof of durable beneficial change.
 - Brain-injury and dementia-prevention contexts require safety boundaries: post-stroke recovery can recruit surviving circuits, but rehabilitation timing and any biological or stimulation adjunct remain injury- and patient-specific.
+- Implantable interfaces can participate in task-specific learning loops without thereby producing broad or beneficial plasticity across the brain.
 
 ## Evidence
 - Effortful learning and sleep - [[yong-ai-rang-women-bianbenle-ma-s10e25-a6b360da-07f7-4d9e-ab1b-64a7130e9254]] presents long-term potentiation, active recall, comparison, synthesis, exercise, diet, and sleep as learning infrastructure.
@@ -55,14 +58,16 @@ Plasticity is therefore supported by repeated, sufficiently challenging stimulat
 - Regeneration boundary - [[how-to-improve-brain-health-offset-neurodegeneration-dr-gary-steinberg-scim3649091801]] says experimental stem cells are proposed to work mainly through secreted factors, vascular and repair support, and immune modulation rather than direct replacement of lost neurons.
 - Ketamine branch - [[ketamine-benefits-risks-for-depression-ptsd-neuroplasticity-scim3757014952]] links disinhibition and burst firing to BDNF/TrkB-related change while separating acute dissociation from later antidepressant benefit.
 - Psilocybin adaptive-change branch - [[how-psilocybin-can-rewire-our-brain-its-therapeutic-benefits-its-risks-scim8168511614]] links serotonin 2A activity, dendritic-spine findings, and network integration to a temporary change window while making later functioning, context, and follow-up the value test.
+- Localized-interface boundary - [[neuralink-technologies-to-enhance-human-brains-dr-matthew-macdougall-scim4147376395]] distinguishes focused electrode recording or stimulation from broad synaptic modulation and generalized plasticity enhancement.
 
 ## Counterevidence & Qualifications
-The evidence does not imply that every difficult activity transfers broadly, that more repetitions are always better, that meditation, NSDR, caffeine, or brief pauses reliably improve every kind of learning, that psychedelics or ketamine create durable beneficial change, or that plasticity can be pursued without safety, sleep, recovery, or medical context. Plasticity can include pruning and weakening connections, so change is not automatically improvement. The learning episodes' replay and sleep mechanisms, the Steinberg episode's recovery mechanisms, and the ketamine episode's BDNF, TrkB, opioid, rhythm, dose, and behavior claims remain source-scoped.
+The evidence does not imply that every difficult activity transfers broadly, that more repetitions are always better, that meditation, NSDR, caffeine, or brief pauses reliably improve every kind of learning, that psychedelics or ketamine create durable beneficial change, that localized neural electrodes broadly enhance learning, or that plasticity can be pursued without safety, sleep, recovery, or medical context. Plasticity can include pruning and weakening connections, so change is not automatically improvement. The learning episodes' replay and sleep mechanisms, the Steinberg episode's recovery mechanisms, the ketamine episode's BDNF, TrkB, opioid, rhythm, dose, and behavior claims, and the Neuralink episode's interface forecasts remain source-scoped.
 
 ## What Changed
 - Added a ketamine branch in which disinhibition and BDNF-related signaling may open a temporary change window.
 - Separated acute dissociation from proof of durable or beneficial plasticity.
 - Added psilocybin evidence and made adaptive outcome, not change alone, the explicit value criterion.
+- Added a spatial-scale boundary separating task-specific implanted interfaces from generalized plasticity enhancement.
 
 ## Related Concepts
 - [[MultimodalAdultNeuroplasticity]] - adult practice branch built around embodied, social, and cognitively rich challenge.
@@ -77,3 +82,4 @@ The evidence does not imply that every difficult activity transfers broadly, tha
 - [[PostPracticeMotorConsolidation]] - low-interference recovery branch after skill practice.
 - [[BrainDerivedNeurotrophicFactor]] - trophic-signaling branch added by the ketamine episode.
 - [[KetamineAntidepressantMechanisms]] - multi-process pharmacological and circuit account.
+- [[BrainComputerInterface]] - task-specific recording and feedback loop that should not be generalized into whole-brain enhancement.

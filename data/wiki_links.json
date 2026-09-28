@@ -11043,6 +11043,10 @@
     "title": "Brain Buffs",
     "url": "/wiki/entities/brainbuffs/"
   },
+  "BrainComputerInterface": {
+    "title": "Brain–Computer Interface",
+    "url": "/wiki/concepts/braincomputerinterface/"
+  },
   "BrainDerivedNeurotrophicFactor": {
     "title": "Brain-Derived Neurotrophic Factor",
     "url": "/wiki/concepts/brainderivedneurotrophicfactor/"
@@ -46807,6 +46811,10 @@
     "title": "Matthew Holt",
     "url": "/wiki/entities/matthewholt/"
   },
+  "MatthewMacDougall": {
+    "title": "Matthew MacDougall",
+    "url": "/wiki/entities/matthewmacdougall/"
+  },
   "MatthewRoss": {
     "title": "Matthew Ross",
     "url": "/wiki/entities/matthewross/"
@@ -50543,9 +50551,17 @@
     "title": "Neural Geometry",
     "url": "/wiki/concepts/neuralgeometry/"
   },
+  "NeuralInterfaceBitrateAdoptionTradeoff": {
+    "title": "Neural-Interface Bitrate–Adoption Tradeoff",
+    "url": "/wiki/concepts/neuralinterfacebitrateadoptiontradeoff/"
+  },
   "NeuralProcessingUnits": {
     "title": "Neural Processing Units",
     "url": "/wiki/concepts/neuralprocessingunits/"
+  },
+  "Neuralink": {
+    "title": "Neuralink",
+    "url": "/wiki/entities/neuralink/"
   },
   "NeuroPlatformRemoteAccess": {
     "title": "Neuro Platform Remote Access",
@@ -61206,6 +61222,10 @@
   "RoboticHandlingCommercialization": {
     "title": "Robotic Handling Commercialization",
     "url": "/wiki/concepts/robotichandlingcommercialization/"
+  },
+  "RoboticNeuralElectrodeInsertion": {
+    "title": "Robotic Neural-Electrode Insertion",
+    "url": "/wiki/concepts/roboticneuralelectrodeinsertion/"
   },
   "RoboticsRevenuePullForward": {
     "title": "Robotics Revenue Pull-Forward",
@@ -85146,6 +85166,10 @@
   "national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60": {
     "title": "National front-runner: who can beat Le Pen?",
     "url": "/wiki/sources/national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60/"
+  },
+  "neuralink-technologies-to-enhance-human-brains-dr-matthew-macdougall-scim4147376395": {
+    "title": "Neuralink & Technologies to Enhance Human Brains | Dr. Matthew MacDougall",
+    "url": "/wiki/sources/neuralink-technologies-to-enhance-human-brains-dr-matthew-macdougall-scim4147376395/"
   },
   "neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716": {
     "title": "Neuroscience of Emotions & Tools for Improving Emotion Regulation | Dr. Ralph Adolphs",
