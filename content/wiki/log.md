@@ -24659,3 +24659,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-09-28] ingest | 330: Herodotus: The Birth of History
+
+Added source `330-herodotus-the-birth-of-history-glt7158094581`; created `TheHistories`, `HistoricalInquirySourceCriticism`, `CrossCulturalHistoricalPerspective`, and `ImperialRiseDeclineCycle`; and updated `Herodotus`, `AchaemenidEmpire`, and `GrecoPersianWarMemory` from their complete bounded source sets. Core synthesis: Herodotus combines inquiry, attributed testimony, uncertainty, ethnography, and literary digression; cross-cultural comparison can humanize an enemy and estrange local assumptions; and the Persian-to-Athenian sequence turns victory into a recursive warning about imperial power. No settled contradiction was adopted. Biography, travels, performance setting, source accuracy, marvel rationalizations, and the rise-and-decline pattern remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

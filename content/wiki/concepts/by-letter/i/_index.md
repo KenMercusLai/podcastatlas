@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 8646
+wiki_total_pages: 8649
 wiki_pages:
   - key: "IBDPatientEducationAndPeerSupport"
     title: "IBD Patient Education and Peer Support / IBD患者教育与同伴支持"
@@ -182,6 +182,9 @@ wiki_pages:
   - key: "ImperialPublicRebuttal"
     title: "Imperial Public Rebuttal / 皇帝公开辩驳"
     url: "/wiki/concepts/imperialpublicrebuttal/"
+  - key: "ImperialRiseDeclineCycle"
+    title: "Imperial Rise and Decline Cycle"
+    url: "/wiki/concepts/imperialrisedeclinecycle/"
   - key: "ImperialSpoilsAuction"
     title: "Imperial Spoils Auction"
     url: "/wiki/concepts/imperialspoilsauction/"

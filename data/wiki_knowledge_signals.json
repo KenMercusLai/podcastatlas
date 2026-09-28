@@ -4914,9 +4914,9 @@
       "url": "/wiki/concepts/acetylcholinefocussupport/"
     },
     "AchaemenidEmpire": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2696648260 [GLT2696648260].md",
@@ -4931,9 +4931,16 @@
           "show": "The Rest Is History",
           "title": "668. Greece vs Persia: The Rise of the First Superpower (Part 1)",
           "url": "/wiki/sources/668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182/"
+        },
+        {
+          "episode_file": "GLT7158094581 [GLT7158094581].md",
+          "key": "330-herodotus-the-birth-of-history-glt7158094581",
+          "show": "The Rest Is History",
+          "title": "330: Herodotus: The Birth of History",
+          "url": "/wiki/sources/330-herodotus-the-birth-of-history-glt7158094581/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/achaemenidempire/"
     },
     "AchaemenidImperialOrderIdeology": {
@@ -36551,6 +36558,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/crosscontextpoliticalcinema/"
+    },
+    "CrossCulturalHistoricalPerspective": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7158094581 [GLT7158094581].md",
+          "key": "330-herodotus-the-birth-of-history-glt7158094581",
+          "show": "The Rest Is History",
+          "title": "330: Herodotus: The Birth of History",
+          "url": "/wiki/sources/330-herodotus-the-birth-of-history-glt7158094581/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/crossculturalhistoricalperspective/"
     },
     "CrossCulturalPublicInterestStorytelling": {
       "episode_count": 1,
@@ -68659,9 +68682,9 @@
       "url": "/wiki/concepts/greaterbayareacinema/"
     },
     "GrecoPersianWarMemory": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2696648260 [GLT2696648260].md",
@@ -68676,9 +68699,16 @@
           "show": "The Rest Is History",
           "title": "668. Greece vs Persia: The Rise of the First Superpower (Part 1)",
           "url": "/wiki/sources/668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182/"
+        },
+        {
+          "episode_file": "GLT7158094581 [GLT7158094581].md",
+          "key": "330-herodotus-the-birth-of-history-glt7158094581",
+          "show": "The Rest Is History",
+          "title": "330: Herodotus: The Birth of History",
+          "url": "/wiki/sources/330-herodotus-the-birth-of-history-glt7158094581/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/grecopersianwarmemory/"
     },
     "GreekMythology": {
@@ -74940,9 +74970,9 @@
       "url": "/wiki/concepts/heroreturnwithboon/"
     },
     "Herodotus": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2696648260 [GLT2696648260].md",
@@ -74957,6 +74987,13 @@
           "show": "The Rest Is History",
           "title": "334: Athens and the Birth of Democracy",
           "url": "/wiki/sources/334-athens-and-the-birth-of-democracy-glt2496707123/"
+        },
+        {
+          "episode_file": "GLT7158094581 [GLT7158094581].md",
+          "key": "330-herodotus-the-birth-of-history-glt7158094581",
+          "show": "The Rest Is History",
+          "title": "330: Herodotus: The Birth of History",
+          "url": "/wiki/sources/330-herodotus-the-birth-of-history-glt7158094581/"
         }
       ],
       "updated": "2026-09-28",
@@ -75800,6 +75837,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/historicalfiguresasrealitytvarchetypes/"
+    },
+    "HistoricalInquirySourceCriticism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7158094581 [GLT7158094581].md",
+          "key": "330-herodotus-the-birth-of-history-glt7158094581",
+          "show": "The Rest Is History",
+          "title": "330: Herodotus: The Birth of History",
+          "url": "/wiki/sources/330-herodotus-the-birth-of-history-glt7158094581/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/historicalinquirysourcecriticism/"
     },
     "HistoricalInternationalLaw": {
       "episode_count": 1,
@@ -82158,6 +82211,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/imperialretinuediscipline/"
+    },
+    "ImperialRiseDeclineCycle": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7158094581 [GLT7158094581].md",
+          "key": "330-herodotus-the-birth-of-history-glt7158094581",
+          "show": "The Rest Is History",
+          "title": "330: Herodotus: The Birth of History",
+          "url": "/wiki/sources/330-herodotus-the-birth-of-history-glt7158094581/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/imperialrisedeclinecycle/"
     },
     "ImperialSelfCriticismEdict": {
       "episode_count": 4,
@@ -159946,6 +160015,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/thefraudzadiesmith/"
+    },
+    "TheHistories": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7158094581 [GLT7158094581].md",
+          "key": "330-herodotus-the-birth-of-history-glt7158094581",
+          "show": "The Rest Is History",
+          "title": "330: Herodotus: The Birth of History",
+          "url": "/wiki/sources/330-herodotus-the-birth-of-history-glt7158094581/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/thehistories/"
     },
     "TheHolocaust": {
       "episode_count": 4,

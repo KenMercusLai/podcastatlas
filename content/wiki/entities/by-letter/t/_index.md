@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 11252
+wiki_total_pages: 11253
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -416,6 +416,9 @@ wiki_pages:
   - key: "TheGreatCrash1929"
     title: "The Great Crash 1929 / 《1929年大崩盘》"
     url: "/wiki/entities/thegreatcrash1929/"
+  - key: "TheHistories"
+    title: "The Histories"
+    url: "/wiki/entities/thehistories/"
   - key: "TheHolocaust"
     title: "The Holocaust / 犹太人大屠杀"
     url: "/wiki/entities/theholocaust/"

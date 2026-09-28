@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2136
+topic_total_pages: 2141
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -265,6 +265,9 @@ topic_concepts:
   - key: "CrisisAutonomousMarriage"
     title: "Crisis Autonomous Marriage / 患难自主婚姻"
     url: "/wiki/concepts/crisisautonomousmarriage/"
+  - key: "CrossCulturalHistoricalPerspective"
+    title: "Cross-Cultural Historical Perspective"
+    url: "/wiki/concepts/crossculturalhistoricalperspective/"
   - key: "CrownPrinceCommandRisk"
     title: "Crown-Prince Command Risk / 太子挂帅风险"
     url: "/wiki/concepts/crownprincecommandrisk/"
@@ -529,6 +532,9 @@ topic_concepts:
   - key: "HistoricalFantasySourceLayering"
     title: "Historical Fantasy Source Layering"
     url: "/wiki/concepts/historicalfantasysourcelayering/"
+  - key: "HistoricalInquirySourceCriticism"
+    title: "Historical Inquiry and Source Criticism"
+    url: "/wiki/concepts/historicalinquirysourcecriticism/"
   - key: "HistoricalInternationalLaw"
     title: "Historical International Law / 国际法历史化"
     url: "/wiki/concepts/historicalinternationallaw/"
@@ -598,6 +604,9 @@ topic_concepts:
   - key: "ImperialExplorationLogistics"
     title: "Imperial Exploration Logistics"
     url: "/wiki/concepts/imperialexplorationlogistics/"
+  - key: "ImperialRiseDeclineCycle"
+    title: "Imperial Rise and Decline Cycle"
+    url: "/wiki/concepts/imperialrisedeclinecycle/"
   - key: "ImperialSubsidiarity"
     title: "Imperial Subsidiarity"
     url: "/wiki/concepts/imperialsubsidiarity/"
@@ -2132,6 +2141,9 @@ topic_entities:
   - key: "GreenBook"
     title: "The Green Book"
     url: "/wiki/entities/greenbook/"
+  - key: "TheHistories"
+    title: "The Histories"
+    url: "/wiki/entities/thehistories/"
   - key: "TheRestIsHistory"
     title: "The Rest Is History"
     url: "/wiki/entities/therestishistory/"
@@ -4698,6 +4710,9 @@ topic_sources:
   - key: "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008"
     title: "318: Hundred Years' War: A Game of Thrones (Part 1)"
     url: "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+  - key: "330-herodotus-the-birth-of-history-glt7158094581"
+    title: "330: Herodotus: The Birth of History"
+    url: "/wiki/sources/330-herodotus-the-birth-of-history-glt7158094581/"
   - key: "331-american-witches-glt9152886733"
     title: "331: American Witches"
     url: "/wiki/sources/331-american-witches-glt9152886733/"

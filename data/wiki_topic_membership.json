@@ -1521,6 +1521,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "330-herodotus-the-birth-of-history-glt7158094581": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "331-american-witches-glt9152886733": [
     {
       "key": "history",
@@ -21683,6 +21690,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "CrossCulturalHistoricalPerspective": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "CrossDatasetPrivacyLinkage": [
     {
       "key": "technology",
@@ -36836,6 +36855,13 @@
       "url": "/topics/history/"
     }
   ],
+  "HistoricalInquirySourceCriticism": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "HistoricalInternationalLaw": [
     {
       "key": "history",
@@ -39144,6 +39170,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "ImperialRiseDeclineCycle": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "ImperialRitualDistance": [
@@ -74287,6 +74320,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "TheHistories": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "TheHoundOfTheBaskervilles": [

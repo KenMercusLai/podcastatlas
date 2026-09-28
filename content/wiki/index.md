@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [330: Herodotus: The Birth of History](sources/330-herodotus-the-birth-of-history-glt7158094581.md) — The Rest Is History episode on Herodotus as historian, storyteller, ethnographer, source critic, cross-cultural interpreter, and analyst of imperial power.
 - [How Psilocybin Can Rewire Our Brain, Its Therapeutic Benefits & Its Risks](sources/how-psilocybin-can-rewire-our-brain-its-therapeutic-benefits-its-risks-scim8168511614.md) — Huberman Lab solo episode on psilocybin pharmacology, structured therapeutic context, adaptive neuroplasticity, depression evidence, contraindications, and supervision.
 - [VOL.44献礼护士节｜与协和医院护师对谈临终关怀中的“身、心、社、灵”](sources/vol-44-xianli-hushijie-yu-xiehe-yiyuan-hushi-duitan-linzhong-guanhuai-zhong-de-shen-xin-she-ling-luernzy5tf_brgkkrkc4nw0fgmog.md) — 这病说来话长 episode on nursing, hospice goals, DNR, symptom relief, family communication, and whole-person end-of-life care.
 - [331: American Witches](sources/331-american-witches-glt9152886733.md) — The Rest Is History episode on Springfield, Puritan settlement, the Parsons household, witchcraft's social ecology, and belief coexisting with judicial skepticism.
@@ -3116,6 +3117,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [334: Athens and the Birth of Democracy](sources/334-athens-and-the-birth-of-democracy-glt2496707123.md) — The Rest Is History episode on Solon, Peisistratid tyranny, Cleisthenic reform, popular revolution, demes, autochthony, sacred citizenship, and the limits of the demos.
 
 ## Entities
+- [The Histories](entities/TheHistories.md) — Herodotus's inquiry-driven, digressive account of Greeks, Persians, custom, conflict, and empire.
 - [何昭凯 / He Zhaokai](entities/HeZhaokaiNurse.md) — Intensive-care nurse explaining hospice, dynamic communication, symptom relief, and whole-person support.
 - [北京协和医院 / Peking Union Medical College Hospital](entities/PekingUnionMedicalCollegeHospital.md) — Hospital affiliation represented through gastroenterology, intensive-care nursing, and source-described hospice coordination.
 - [Malcolm Gaskell](entities/MalcolmGaskell.md) — Historian connecting Springfield microhistory to the social ecology and evidentiary limits of witch accusation.
@@ -10966,8 +10968,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gnaeus Octavius / 格奈乌斯·屋大维](entities/GnaeusOctaviusRomanConsul.md) — Conservative 87 BC consul whose conflict with Cinna over Italian enfranchisement ends with Cinna's outlawry and Octavius's murder in office.
 - [Aristion of Athens / 雅典的阿里斯提昂](entities/AristionAthens.md) — Athenian philosopher-politician who leads Athens into Mithridatic revolt before Sulla's siege, sack, and forced-poison execution.
 - [Athens / 雅典](entities/Athens.md) — Greek city whose anti-Roman revolt, starvation siege, sack, and loss of remaining independence connect Roman imperial pressure to the Sullan crisis.
-- [Achaemenid Empire / Persian Empire](entities/AchaemenidEmpire.md) — Persian imperial power whose Marathon expedition combines punishment, naval mobility, cavalry, exiled-client politics, and a source-asymmetry problem.
-- [Herodotus](entities/Herodotus.md) — Greek historian whose account makes Marathon unusually recoverable while leaving Persian perspective asymmetrical.
+- [Achaemenid Empire / Persian Empire](entities/AchaemenidEmpire.md) — Persian imperial system whose expansion, ideals, punitive strategy, Xerxes narrative, and Greek-source asymmetry frame the wars with Athens.
+- [Herodotus](entities/Herodotus.md) — Greek historian who combines inquiry, attributed testimony, ethnography, cross-cultural comparison, narrative art, and reflection on empire.
 - [Miltiades](entities/Miltiades.md) — Athenian commander whose road-blocking strategy and cavalry-window attack plan anchor the Marathon reconstruction.
 - [Darius I](entities/DariusI.md) — Persian king whose revenge motive frames the punitive expedition against Eretria and Athens before Marathon.
 - [Cyrus the Great](entities/CyrusTheGreat.md) — Persian founder figure whose conquests of Lydia, Sardis, and Babylon create the imperial inheritance behind Darius's Marathon prehistory.
@@ -14389,6 +14391,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Theseus](entities/Theseus.md) — Athenian founder figure remembered as unifier of Attica and ancestral source of power for the demos.
 
 ## Concepts
+- [Historical Inquiry and Source Criticism](concepts/HistoricalInquirySourceCriticism.md) — Method for attributing testimony, comparing accounts, preserving uncertainty, and recovering information from mediated reports.
+- [Cross-Cultural Historical Perspective](concepts/CrossCulturalHistoricalPerspective.md) — Historical comparison that interprets customs and enemies within their own worlds while exposing the contingency of the observer's norms.
+- [Imperial Rise and Decline Cycle](concepts/ImperialRiseDeclineCycle.md) — Herodotean pattern linking imperial success, wealth, hubris, overextension, decline, and repetition by former opponents.
 - [Do-Not-Resuscitate Decision / 拒绝心肺复苏决定](concepts/DoNotResuscitateDecision.md) — Resuscitation-limit choice kept distinct from withdrawal of all treatment, hospice as a whole, and intentional life-ending acts.
 - [Whole-Person End-of-Life Care / 身心社灵照护](concepts/WholePersonEndOfLifeCare.md) — Individualized physical, psychological, social, spiritual, family, and setting support near the end of life.
 - [New England Witchcraft Social Ecology](concepts/NewEnglandWitchcraftSocialEcology.md) — Interaction of religious anxiety, household grief, economic dependence, settlement insecurity, reputation, and law in witchcraft accusation.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8646
+wiki_total_pages: 8649
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2333,6 +2333,9 @@ wiki_pages:
   - key: "CrossCulturalFairyTaleFlow"
     title: "Cross-Cultural Fairy-Tale Flow / 跨文化童话流动"
     url: "/wiki/concepts/crossculturalfairytaleflow/"
+  - key: "CrossCulturalHistoricalPerspective"
+    title: "Cross-Cultural Historical Perspective"
+    url: "/wiki/concepts/crossculturalhistoricalperspective/"
   - key: "CrossCulturalProductDesign"
     title: "Cross-Cultural Product Design"
     url: "/wiki/concepts/crossculturalproductdesign/"
