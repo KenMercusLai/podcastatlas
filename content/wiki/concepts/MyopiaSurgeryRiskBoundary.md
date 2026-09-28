@@ -5,7 +5,8 @@ tags: [healthcare, ophthalmology, myopia, surgery]
 sources:
   - vol-36-yanke-guanyu-ganyanzheng-yanyaoshui-yandibing-jinshi-he-jinshi-shoushu-yanke-zhuren-you-hua-shuo-lmpfupdvpcxynhp6d4hfhptayvpo
   - vol-163-jinshi-de-ren-name-duo-wo-gai-zenmeban-yanke-zhuren-zhizhao-chengren-ertong-de-jinshi-fangkong-shouduan-lpcb-or4ibtodc2bb383vmo2dxbc
-last_updated: 2026-09-04
+  - vol-56-daxue-biyeji-zhai-yanjing-dai-yatao-chuzhou-zhandou-jianfei-5-xueke-lianmei-wei-ni-chuzhao-lkmkuyymlfqxiyoes-n5nflvljry
+last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,6 +22,8 @@ The practical boundary is preoperative and long-term screening. Pre-op evaluatio
 
 VOL.163 extends the same boundary upstream into childhood control. Slowing axial elongation through behavior, optical defocus, or medication is not the same as making established true myopia disappear, while apparent prescription improvement can reflect accommodation or an inaccurate earlier refraction.
 
+VOL.56 adds the elective-candidacy layer. Adulthood and relative prescription stability are screening inputs rather than permission by themselves, and procedure choice depends on corneal and ocular findings, prescription, dry-eye tradeoffs, trauma exposure, occupation, activity, and patient goals. A smaller-incision or newer-sounding method is not automatically the right method for every eye.
+
 ## Key Claims
 - Myopia surgery is framed as optical correction and glasses removal, not as erasing the biological risk profile of high myopia.
 - High myopia can carry long-term risks including retinal thinning, retinal detachment, cataract, and macular problems.
@@ -28,6 +31,7 @@ VOL.163 extends the same boundary upstream into childhood control. Slowing axial
 - Surgery screening can itself create early detection value when hidden fundus lesions are found.
 - Post-surgical discomfort such as dry eye is treated as a possible tradeoff, and candidacy should remain clinician-assessed.
 - Childhood control and accurate refraction can reduce progression or measurement error without becoming evidence that established true myopia has been cured.
+- Refractive-surgery timing and method should follow stable measurements, qualified examination, lifestyle and occupational context, and informed goals rather than age, degree, or technology label alone.
 
 ## Evidence
 - Optical-correction boundary: [[vol-36-yanke-guanyu-ganyanzheng-yanyaoshui-yandibing-jinshi-he-jinshi-shoushu-yanke-zhuren-you-hua-shuo-lmpfupdvpcxynhp6d4hfhptayvpo|VOL.36]] describes laser surgery and ICL implantation as changing the path of light so it focuses on the retina.
@@ -36,11 +40,13 @@ VOL.163 extends the same boundary upstream into childhood control. Slowing axial
 - Retina prevention: [[vol-36-yanke-guanyu-ganyanzheng-yanyaoshui-yandibing-jinshi-he-jinshi-shoushu-yanke-zhuren-you-hua-shuo-lmpfupdvpcxynhp6d4hfhptayvpo|VOL.36]] describes thin retinal areas, holes, detachment risk, and laser sealing as a prevention pathway when problems are found early.
 - Surgical tradeoff: [[vol-36-yanke-guanyu-ganyanzheng-yanyaoshui-yandibing-jinshi-he-jinshi-shoushu-yanke-zhuren-you-hua-shuo-lmpfupdvpcxynhp6d4hfhptayvpo|VOL.36]] frames surgery as an elective improvement tied to personal need and strict evaluation, with dry eye named as a common discomfort that may gradually improve.
 - Prevention-versus-reversal boundary: [[vol-163-jinshi-de-ren-name-duo-wo-gai-zenmeban-yanke-zhuren-zhizhao-chengren-ertong-de-jinshi-fangkong-shouduan-lpcb-or4ibtodc2bb383vmo2dxbc|VOL.163]] says laser surgery and implanted lenses can solve focus or glasses-dependence problems without curing true myopia, and separates genuine reversal from accommodative or refraction changes.
+- Candidacy and method selection: [[vol-56-daxue-biyeji-zhai-yanjing-dai-yatao-chuzhou-zhandou-jianfei-5-xueke-lianmei-wei-ni-chuzhao-lkmkuyymlfqxiyoes-n5nflvljry|VOL.56]] links adulthood and relative prescription stability to examination and distinguishes full- and half-femtosecond surgery through incision, flap, dry-eye, trauma, prescription, occupation, and activity considerations.
 
 ## Counterevidence & Qualifications
-This is not a refractive-surgery guideline or candidacy checklist. Surgical type, prescription degree, corneal thickness, fundus findings, ocular-surface disease, age, occupation, pregnancy, systemic disease, and risk tolerance can change recommendations. The source's degree thresholds and recovery comments remain podcast-source education rather than personalized advice.
+This is not a refractive-surgery guideline or candidacy checklist. Surgical type, prescription degree and stability, corneal thickness, fundus findings, ocular-surface disease, anisometropia, astigmatism, age, occupation, activity, pregnancy, systemic disease, and risk tolerance can change recommendations. The sources' age, annual-change, inter-eye difference, recovery, dry-eye, incision-size, and procedure-comparison statements remain podcast-source education rather than personalized advice.
 
 ## What Changed
+- Added adulthood, prescription stability, anisometropia, and full-versus-half-femtosecond selection as qualified candidacy inputs.
 - Created the myopia-surgery risk-boundary concept from the VOL.36 ophthalmology episode.
 - Added a durable distinction between postoperative visual clarity and persistent high-myopia fundus risk.
 - Extended the boundary from refractive surgery into childhood control and accurate refraction.

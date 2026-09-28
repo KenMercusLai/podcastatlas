@@ -6,14 +6,15 @@ sources:
   - vol-159-cong-yi-mei-zhi-ming-dao-xianshi-zhengxing-yisheng-jiedu-juzhong-mei-xishuo-de-yimei-neimu-lksohygmb6epma5qgaf76pddx2fk
   - vol-137-yimei-shui-taishen-zhengxing-yisheng-fenxiang-xiaobai-dou-tingdedong-de-bikeng-zhinan-lqogn2-ueebzhwv0g1-ns9yqgv5
   - vol-80-zhengxingke-tutou-jiemei-buyao-huang-zijiu-ganhuo-bang-ni-mang-li5aqx1zugvobfuifx7hkhyvevox
-last_updated: 2026-09-27
+  - vol-56-daxue-biyeji-zhai-yanjing-dai-yatao-chuzhou-zhandou-jianfei-5-xueke-lianmei-wei-ni-chuzhao-lkmkuyymlfqxiyoes-n5nflvljry
+last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
 
 # Lulu (plastic-surgery doctor)
 
 ## Overview
-Lulu is the plastic-surgery doctor interviewed in three [[ZheBingShuoLaiHuaChang|这病说来话长]] episodes: [[vol-80-zhengxingke-tutou-jiemei-buyao-huang-zijiu-ganhuo-bang-ni-mang-li5aqx1zugvobfuifx7hkhyvevox|VOL.80]] on women's hair loss and minoxidil, the beginner-oriented [[vol-137-yimei-shui-taishen-zhengxing-yisheng-fenxiang-xiaobai-dou-tingdedong-de-bikeng-zhinan-lqogn2-ueebzhwv0g1-ns9yqgv5|VOL.137]], and the drama-based [[vol-159-cong-yi-mei-zhi-ming-dao-xianshi-zhengxing-yisheng-jiedu-juzhong-mei-xishuo-de-yimei-neimu-lksohygmb6epma5qgaf76pddx2fk|VOL.159]]. VOL.80 identifies her as a treating physician in plastic surgery at Shanghai East Hospital.
+Lulu is the plastic-surgery doctor interviewed in four [[ZheBingShuoLaiHuaChang|这病说来话长]] episodes: graduation-season [[vol-56-daxue-biyeji-zhai-yanjing-dai-yatao-chuzhou-zhandou-jianfei-5-xueke-lianmei-wei-ni-chuzhao-lkmkuyymlfqxiyoes-n5nflvljry|VOL.56]], [[vol-80-zhengxingke-tutou-jiemei-buyao-huang-zijiu-ganhuo-bang-ni-mang-li5aqx1zugvobfuifx7hkhyvevox|VOL.80]] on women's hair loss and minoxidil, the beginner-oriented [[vol-137-yimei-shui-taishen-zhengxing-yisheng-fenxiang-xiaobai-dou-tingdedong-de-bikeng-zhinan-lqogn2-ueebzhwv0g1-ns9yqgv5|VOL.137]], and the drama-based [[vol-159-cong-yi-mei-zhi-ming-dao-xianshi-zhengxing-yisheng-jiedu-juzhong-mei-xishuo-de-yimei-neimu-lksohygmb6epma5qgaf76pddx2fk|VOL.159]]. VOL.80 identifies her as a treating physician in plastic surgery at Shanghai East Hospital.
 
 ## Current Profile
 The sources present Lulu as a clinician who turns medical-aesthetic information gaps into patient-facing boundaries around [[BotulinumToxinInjectionSafety]], [[UnapprovedMedicalAestheticProducts]], [[MedicalAestheticProviderVerification]], and [[CosmeticProcedureExpectationManagement]]. VOL.137 starts from illegal materials, unqualified venues, disguised referrals, sales consultants, procedure grades, personal constraints, and first-procedure decisions; VOL.159 adds medical-drama cases and systemic injection risk.
@@ -22,6 +23,8 @@ Her recurring position is that appearance medicine remains medicine. Product ide
 
 VOL.80 extends that method into hair medicine. She distinguishes female-pattern androgenetic alopecia, telogen effluvium, diffuse alopecia areata, and frontal fibrosing alopecia through onset, triggers, distribution, pull testing, dermoscopy, and sometimes biopsy, then places [[Minoxidil|minoxidil]] use inside diagnosis, adherence, adverse-effect, pregnancy, and breastfeeding boundaries.
 
+VOL.56 shows the same method at an earlier consumer-decision stage. Lulu distinguishes entry-level requests from actual need, anatomy, and psychological readiness; refuses to treat young age or fashion as an indication for tightening devices or novelty looks; and makes eyelid, breast, face, muscle, and fat interventions depend on examination, functional context, and mature goals.
+
 ## Key Characteristics
 - Separates credible medical-drama education from literal clinical instruction.
 - Explains botulinum-toxin action and poisoning as dose-, site-, history-, and symptom-dependent questions.
@@ -29,7 +32,7 @@ VOL.80 extends that method into hair medicine. She distinguishes female-pattern 
 - Distinguishes clinician-led assessment from sales-led consultation and prestige marketing titles.
 - Treats aesthetic judgment as inseparable from anatomy, function, psychology, and patient safety.
 - Supports redirecting, staging, or refusing requests whose risk outweighs likely benefit.
-- Separates visually similar hair-loss patterns before discussing long-term treatment.
+- Separates visually similar hair-loss patterns and appearance requests before discussing long-term treatment or elective intervention.
 
 ## Evidence
 - Drama interpretation: [[vol-159-cong-yi-mei-zhi-ming-dao-xianshi-zhengxing-yisheng-jiedu-juzhong-mei-xishuo-de-yimei-neimu-lksohygmb6epma5qgaf76pddx2fk]] has Lulu distinguish dramatic compression from clinically useful detail.
@@ -40,11 +43,13 @@ VOL.80 extends that method into hair medicine. She distinguishes female-pattern 
 - Surgical judgment: [[vol-159-cong-yi-mei-zhi-ming-dao-xianshi-zhengxing-yisheng-jiedu-juzhong-mei-xishuo-de-yimei-neimu-lksohygmb6epma5qgaf76pddx2fk]] has her explain why life-threatening or major functional risk can justify staged treatment or refusal despite a patient's appearance preference.
 - Hair-loss assessment: [[vol-80-zhengxingke-tutou-jiemei-buyao-huang-zijiu-ganhuo-bang-ni-mang-li5aqx1zugvobfuifx7hkhyvevox|VOL.80]] has her distinguish triggered shedding, patterned miniaturization, autoimmune loss, and frontal scarring patterns through history, examination, dermoscopy, and biopsy.
 - Treatment boundaries: [[vol-80-zhengxingke-tutou-jiemei-buyao-huang-zijiu-ganhuo-bang-ni-mang-li5aqx1zugvobfuifx7hkhyvevox|VOL.80]] has her explain minoxidil persistence, possible early shedding and unwanted hair growth, application control, and pregnancy or breastfeeding caution.
+- Need and maturity assessment: [[vol-56-daxue-biyeji-zhai-yanjing-dai-yatao-chuzhou-zhandou-jianfei-5-xueke-lianmei-wei-ni-chuzhao-lkmkuyymlfqxiyoes-n5nflvljry|VOL.56]] has Lulu distinguish fat from muscle shape, select eyelid approaches by anatomy, question premature tightening procedures, and reject trend-led high-cranium or elf-ear modification.
 
 ## Qualifications
-The wiki has no independent biography, full name, specialty certification, or licensure record for Lulu beyond the supplied episode notes; Shanghai East Hospital is a source-stated affiliation, not independently verified here. Her clinical statements remain source-scoped public education and do not establish individualized diagnosis, emergency care, current regulation, product approval, procedural candidacy, hair-loss cause, or treatment.
+The wiki has no independent biography, full name, specialty certification, or licensure record for Lulu beyond the supplied episode notes; Shanghai East Hospital is a source-stated affiliation, not independently verified here. Her clinical statements remain source-scoped public education and do not establish individualized diagnosis, emergency care, current regulation, product approval, age threshold, procedural candidacy, hair-loss cause, or treatment. Claims about preventive botulinum toxin, breast augmentation, eyelid methods, tightening devices, jaw-surgery coordination, and aging remain source-scoped.
 
 ## What Changed
+- Added VOL.56's need-, anatomy-, maturity-, and trend-sensitive boundary for younger medical-aesthetic consumers.
 - Added VOL.80's hair-loss differential diagnosis, follicle-cycle, minoxidil-adherence, adverse-effect, and reproductive-safety branch.
 - Added the source-stated Shanghai East Hospital affiliation with an explicit verification boundary.
 

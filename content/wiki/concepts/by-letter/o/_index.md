@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 8569
+wiki_total_pages: 8570
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -533,6 +533,9 @@ wiki_pages:
   - key: "OrnithologicalFieldwork"
     title: "Ornithological Fieldwork"
     url: "/wiki/concepts/ornithologicalfieldwork/"
+  - key: "OrthodonticTreatmentContinuity"
+    title: "Orthodontic Treatment Continuity / 正畸治疗连续性"
+    url: "/wiki/concepts/orthodontictreatmentcontinuity/"
   - key: "OrthokeratologyMyopiaControl"
     title: "Orthokeratology Myopia Control / 角膜塑形镜近视控制"
     url: "/wiki/concepts/orthokeratologymyopiacontrol/"

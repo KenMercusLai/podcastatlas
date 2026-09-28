@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.56大学毕业季｜摘眼镜、戴牙套、除皱、战痘、减肥 5学科联袂为你出招](sources/vol-56-daxue-biyeji-zhai-yanjing-dai-yatao-chuzhou-zhandou-jianfei-5-xueke-lianmei-wei-ni-chuzhao-lkmkuyymlfqxiyoes-n5nflvljry.md) — 这病说来话长 multidisciplinary guide to refractive surgery, orthodontic continuity, medical-aesthetic selection, acne care, and sustainable weight loss.
 - [VOL.57精神科｜心理疾病导致的轻生可预防 给予陪伴是最好的安慰｜认识抑郁和抑郁情绪](sources/vol-57-jingshenke-xinli-jibing-daozhi-de-qingsheng-ke-yufang-jiyu-peiban-shi-zuihao-de-anwei-renshi-yiyu-he-yiyu-qingxu-lhgqmsvos2ybk74qjnrt3bxs0l7d.md) — 这病说来话长 episode on suicide-risk signals, depressed mood versus disorder, nonjudgmental companionship, safety, and professional escalation.
 - [348: The Boston Tea Party (Part 2)](sources/348-the-boston-tea-party-part-2-glt5189620267.md) — The Rest Is History episode on the Tea Act, Boston Tea Party, Coercive Acts, colonial coordination, early fighting, British strategy, and Dunmore's proclamation.
 - [349: The Birth of the United States (Part 3)](sources/349-the-birth-of-the-united-states-part-3-glt9804967639.md) — The Rest Is History episode on Paine, the Declaration, Washington's 1776 survival, Saratoga, French intervention, and the Revolution's universal promise and slavery contradiction.
@@ -3071,6 +3072,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Harnessing Passion, Drive & Persistence for Lifelong Success | Tony Hawk](sources/harnessing-passion-drive-persistence-for-lifelong-success-tony-hawk-scim8571002701.md) — Huberman Lab conversation on skateboarding mastery, intrinsic progression, injury-recovery adherence, entrepreneurship, family, and public skateparks.
 
 ## Entities
+- [小常老师 / Xiaochang (nutrition guest)](entities/XiaochangNutritionGuest.md) — Source-scoped nutrition guest emphasizing sustainable energy deficit, dietary quality, rebound prevention, and low-energy-availability caution.
 - [Lord Dunmore's Proclamation](entities/LordDunmoresProclamation.md) — November 1775 service-linked freedom offer exposing Black agency, British strategy, and slaveholder radicalization.
 - [Battle of Bunker Hill](entities/BattleOfBunkerHill.md) — Costly British tactical victory that exposed the gap between taking ground and restoring political control.
 - [Battles of Lexington and Concord](entities/LexingtonAndConcord.md) — April 1775 clashes marking the armed threshold from imperial crisis to revolutionary war.
@@ -14253,6 +14255,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Skatepark Project](entities/TheSkateparkProject.md) — Nonprofit supporting public skateparks as access, practice, and youth-community infrastructure.
 
 ## Concepts
+- [Orthodontic Treatment Continuity / 正畸治疗连续性](concepts/OrthodonticTreatmentContinuity.md) — Framework joining appliance choice to diagnosis, repeated review, retention, patient cooperation, relocation, and surgical coordination.
 - [Suicide-Risk Recognition and Support / 轻生风险识别与支持](concepts/SuicideRiskRecognitionAndSupport.md) — Framework joining warning-pattern recognition, nonjudgmental presence, safety protection, and qualified crisis escalation.
 - [No Taxation Without Representation](concepts/NoTaxationWithoutRepresentation.md) — Constitutional claim separating a tax's material burden from the legitimacy of distant parliamentary authority.
 - [American Revolutionary Universalism](concepts/AmericanRevolutionaryUniversalism.md) — Frame treating independence as a general cause of equality, liberty, consent, and republicanism while preserving its founding exclusions.
