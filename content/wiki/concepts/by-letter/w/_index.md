@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 8687
+wiki_total_pages: 8694
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -476,6 +476,9 @@ wiki_pages:
   - key: "WorldlyPoliticalCultivation"
     title: "Worldly Political Cultivation / 入世政治修行"
     url: "/wiki/concepts/worldlypoliticalcultivation/"
+  - key: "WoundCoverageReconstructionSelection"
+    title: "Wound Coverage and Reconstruction Selection / 创面覆盖与修复选择"
+    url: "/wiki/concepts/woundcoveragereconstructionselection/"
   - key: "WrittenSuccessionCredential"
     title: "Written Succession Credential / 书面继承凭证"
     url: "/wiki/concepts/writtensuccessioncredential/"

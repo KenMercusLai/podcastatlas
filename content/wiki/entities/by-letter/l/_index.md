@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 11294
+wiki_total_pages: 11295
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -2102,6 +2102,9 @@ wiki_pages:
   - key: "LuoXiang"
     title: "罗翔 / Luo Xiang"
     url: "/wiki/entities/luoxiang/"
+  - key: "LuoLuPlasticSurgeon"
+    title: "罗路 / Luo Lu (plastic surgeon)"
+    url: "/wiki/entities/luoluplasticsurgeon/"
   - key: "LuojiSiwei"
     title: "罗辑思维"
     url: "/wiki/entities/luojisiwei/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8687
+wiki_total_pages: 8694
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -758,6 +758,9 @@ wiki_pages:
   - key: "PlasmaTVPreference"
     title: "Plasma TV Preference"
     url: "/wiki/concepts/plasmatvpreference/"
+  - key: "PlasticSurgeryClinicalScope"
+    title: "Plastic Surgery Clinical Scope / 整形外科临床范围"
+    url: "/wiki/concepts/plasticsurgeryclinicalscope/"
   - key: "PlatformAdvertisingMonetization"
     title: "Platform Advertising Monetization / 平台广告商业化"
     url: "/wiki/concepts/platformadvertisingmonetization/"

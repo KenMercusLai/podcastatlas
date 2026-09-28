@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-29] ingest | VOL.41整形外科｜关于男性乳房发育、巨乳症、抽脂、美容针、瘢痕体质的认识误区
+
+Added source `vol-41-zhengxingwaike-guanyu-nanxing-rufang-fayu-juruzheng-chouzhi-meirongzhen-banhentizhi-de-renshi-wuqu-lsknmcasvbogjgadfbfos7uj2t59`; created `LuoLuPlasticSurgeon`, `PlasticSurgeryClinicalScope`, `GynecomastiaClinicalAssessment`, `LiposuctionBodyContouringBoundary`, `WoundCoverageReconstructionSelection`, `ScarKeloidDistinction`, `CosmeticWoundClosurePlanning`, and `MicrotiaEarReconstructionDecision`; and updated `ShanghaiEastHospital` and the canonical index from their complete bounded source sets. Core synthesis: plastic surgery spans disease, reconstruction, function, appearance, and psychosocial care, while clinical selection separates gland from fat, contouring from weight loss, hypertrophic scars from keloids, and closure planning from a supposed universal “美容针.” Wound coverage and microtia reconstruction are matched to tissue needs, operative burden, realistic outcomes, and patient context. No settled contradiction was adopted. Prevalence, cancer association, insurance, procedural, scar, nevus, and technique claims remain source-scoped, and the supplied note ends before the microtia hearing discussion is complete. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-28] ingest | 184.为了在算法时代被“听见”，我们改变了多少自己？｜对谈「声东击西」张晶
 
 Added source `184-weile-zai-suanfa-shidai-bei-tingjian-women-gaibian-le-duoshao-ziji-duitan-shengdongjixi-zhangjing-lpotw0uqivlj8m6otnoxh0kahee5`; created `ZhangJingShengdongJixi`, `AlgorithmicCreatorSelfDiscipline`, `CommunicationRitualParticipation`, `AIContentCompressionLoss`, and `SupplyLedPublicInterestDocumentation`; and updated `ShengdongJixi`, `SubscriptionVsAlgorithmPodcastDistribution`, `PlatformFeedbackLoop`, `PodcastIntimacy`, `IndependentPodcastSustainability`, and the canonical index from their complete bounded source sets. Core synthesis: recommendation systems widen discovery while opaque feedback can narrow creator topics, presentation, and public identity; supply-led documentation preserves people and places before demand exists; and AI summaries can transmit conclusions without reproducing reasoning, chance resonance, relationship, or ritual participation. No settled contradiction was adopted. Title-performance, platform-verticality, AI-capability, offline-event, and creator-motive claims remain source-scoped practitioner observations. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -24792,5 +24796,9 @@ Added source `324-fall-of-saigon-the-nightmare-begins-part-1-glt6047251362`; cre
 Ran lint. See lint-report.md for details.
 
 ## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

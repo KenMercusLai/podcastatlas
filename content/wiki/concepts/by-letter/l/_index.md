@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 8687
+wiki_total_pages: 8694
 wiki_pages:
   - key: "LaborIllusion"
     title: "Labor Illusion"
@@ -434,6 +434,9 @@ wiki_pages:
   - key: "LinguisticRelativity"
     title: "Linguistic Relativity"
     url: "/wiki/concepts/linguisticrelativity/"
+  - key: "LiposuctionBodyContouringBoundary"
+    title: "Liposuction Body-Contouring Boundary / 吸脂塑形边界"
+    url: "/wiki/concepts/liposuctionbodycontouringboundary/"
   - key: "LiquidBiopsyScreeningBoundary"
     title: "Liquid Biopsy Screening Boundary"
     url: "/wiki/concepts/liquidbiopsyscreeningboundary/"

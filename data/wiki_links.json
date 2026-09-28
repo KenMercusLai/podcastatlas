@@ -17567,6 +17567,10 @@
     "title": "Cosmetic Procedure Expectation Management / 医美期望管理",
     "url": "/wiki/concepts/cosmeticprocedureexpectationmanagement/"
   },
+  "CosmeticWoundClosurePlanning": {
+    "title": "Cosmetic Wound-Closure Planning / 美容缝合规划",
+    "url": "/wiki/concepts/cosmeticwoundclosureplanning/"
+  },
   "CosmicCrisp": {
     "title": "Cosmic Crisp",
     "url": "/wiki/entities/cosmiccrisp/"
@@ -31263,6 +31267,10 @@
     "title": "Gynecological Symptom Triage / 妇科症状分诊",
     "url": "/wiki/concepts/gynecologicalsymptomtriage/"
   },
+  "GynecomastiaClinicalAssessment": {
+    "title": "Gynecomastia Clinical Assessment / 男性乳房发育临床评估",
+    "url": "/wiki/concepts/gynecomastiaclinicalassessment/"
+  },
   "H1BVisaCoalitionFaultLine": {
     "title": "H-1B Visa Coalition Fault Line",
     "url": "/wiki/concepts/h1bvisacoalitionfaultline/"
@@ -42947,6 +42955,10 @@
     "title": "Lior Raz",
     "url": "/wiki/entities/liorraz/"
   },
+  "LiposuctionBodyContouringBoundary": {
+    "title": "Liposuction Body-Contouring Boundary / 吸脂塑形边界",
+    "url": "/wiki/concepts/liposuctionbodycontouringboundary/"
+  },
   "LiquidBiopsyScreeningBoundary": {
     "title": "Liquid Biopsy Screening Boundary",
     "url": "/wiki/concepts/liquidbiopsyscreeningboundary/"
@@ -44914,6 +44926,10 @@
   "LuoJun": {
     "title": "骆俊 / Luo Jun",
     "url": "/wiki/entities/luojun/"
+  },
+  "LuoLuPlasticSurgeon": {
+    "title": "罗路 / Luo Lu (plastic surgeon)",
+    "url": "/wiki/entities/luoluplasticsurgeon/"
   },
   "LuoQianqian": {
     "title": "Luo Qianqian / 雒芊芊",
@@ -47998,6 +48014,10 @@
   "MicrosoftResearchAsia": {
     "title": "Microsoft Research Asia",
     "url": "/wiki/entities/microsoftresearchasia/"
+  },
+  "MicrotiaEarReconstructionDecision": {
+    "title": "Microtia Ear-Reconstruction Decision / 小耳畸形耳再造决策",
+    "url": "/wiki/concepts/microtiaearreconstructiondecision/"
   },
   "MidCenturyTechnologicalOptimism": {
     "title": "Mid-Century Technological Optimism",
@@ -55226,6 +55246,10 @@
   "PlasmaTVPreference": {
     "title": "Plasma TV Preference",
     "url": "/wiki/concepts/plasmatvpreference/"
+  },
+  "PlasticSurgeryClinicalScope": {
+    "title": "Plastic Surgery Clinical Scope / 整形外科临床范围",
+    "url": "/wiki/concepts/plasticsurgeryclinicalscope/"
   },
   "PlatformAdvertisingMonetization": {
     "title": "Platform Advertising Monetization / 平台广告商业化",
@@ -62590,6 +62614,10 @@
   "ScandinavianChristianKingship": {
     "title": "Scandinavian Christian Kingship",
     "url": "/wiki/concepts/scandinavianchristiankingship/"
+  },
+  "ScarKeloidDistinction": {
+    "title": "Hypertrophic Scar–Keloid Distinction / 增生性瘢痕与瘢痕疙瘩区分",
+    "url": "/wiki/concepts/scarkeloiddistinction/"
   },
   "ScarcityMindset": {
     "title": "Scarcity Mindset / 稀缺心态",
@@ -76607,6 +76635,10 @@
     "title": "沃特鞋企 / Wote Shoes",
     "url": "/wiki/entities/woteshoes/"
   },
+  "WoundCoverageReconstructionSelection": {
+    "title": "Wound Coverage and Reconstruction Selection / 创面覆盖与修复选择",
+    "url": "/wiki/concepts/woundcoveragereconstructionselection/"
+  },
   "WoundedKneeMassacre": {
     "title": "Wounded Knee Massacre",
     "url": "/wiki/entities/woundedkneemassacre/"
@@ -87398,6 +87430,10 @@
   "vol-36-yanke-guanyu-ganyanzheng-yanyaoshui-yandibing-jinshi-he-jinshi-shoushu-yanke-zhuren-you-hua-shuo-lmpfupdvpcxynhp6d4hfhptayvpo": {
     "title": "VOL.36眼科｜关于干眼症、眼药水、眼底病、近视和近视手术…眼科主任有话说",
     "url": "/wiki/sources/vol-36-yanke-guanyu-ganyanzheng-yanyaoshui-yandibing-jinshi-he-jinshi-shoushu-yanke-zhuren-you-hua-shuo-lmpfupdvpcxynhp6d4hfhptayvpo/"
+  },
+  "vol-41-zhengxingwaike-guanyu-nanxing-rufang-fayu-juruzheng-chouzhi-meirongzhen-banhentizhi-de-renshi-wuqu-lsknmcasvbogjgadfbfos7uj2t59": {
+    "title": "VOL.41整形外科｜关于男性乳房发育、巨乳症、抽脂、美容针、瘢痕体质的认识误区",
+    "url": "/wiki/sources/vol-41-zhengxingwaike-guanyu-nanxing-rufang-fayu-juruzheng-chouzhi-meirongzhen-banhentizhi-de-renshi-wuqu-lsknmcasvbogjgadfbfos7uj2t59/"
   },
   "vol-42-xinxueguan-neike-tingshuo-ni-zongshi-touteng-keneng-xuyao-zuo-yijian-du-xin-shi-lai-jiejue-lvw85wqzb0kvpyk5uipsagy13b11": {
     "title": "VOL.42心血管内科｜听说你总是头疼？可能需要做一件“堵心事”来解决",

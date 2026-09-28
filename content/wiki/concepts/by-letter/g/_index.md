@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 8687
+wiki_total_pages: 8694
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -590,6 +590,9 @@ wiki_pages:
   - key: "GynecologicalSymptomTriage"
     title: "Gynecological Symptom Triage / 妇科症状分诊"
     url: "/wiki/concepts/gynecologicalsymptomtriage/"
+  - key: "GynecomastiaClinicalAssessment"
+    title: "Gynecomastia Clinical Assessment / 男性乳房发育临床评估"
+    url: "/wiki/concepts/gynecomastiaclinicalassessment/"
   - key: "GoodDeathPoliticalSurvival"
     title: "乱局善终 / Good Death Political Survival"
     url: "/wiki/concepts/gooddeathpoliticalsurvival/"

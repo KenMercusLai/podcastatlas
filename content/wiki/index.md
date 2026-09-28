@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.41整形外科｜关于男性乳房发育、巨乳症、抽脂、美容针、瘢痕体质的认识误区](sources/vol-41-zhengxingwaike-guanyu-nanxing-rufang-fayu-juruzheng-chouzhi-meirongzhen-banhentizhi-de-renshi-wuqu-lsknmcasvbogjgadfbfos7uj2t59.md) — 这病说来话长 episode on plastic surgery's clinical scope, breast conditions, contouring, wound reconstruction, scarring, closure planning, and microtia reconstruction.
 - [184.为了在算法时代被“听见”，我们改变了多少自己？｜对谈「声东击西」张晶](sources/184-weile-zai-suanfa-shidai-bei-tingjian-women-gaibian-le-duoshao-ziji-duitan-shengdongjixi-zhangjing-lpotw0uqivlj8m6otnoxh0kahee5.md) — 起朱楼宴宾客 conversation with 张晶 on creator self-discipline under opaque metrics, subscription versus recommendation, rescue documentation, AI summary loss, communication as ritual participation, and hidden podcast labor.
 - [324: Fall of Saigon: The Nightmare Begins (Part 1)](sources/324-fall-of-saigon-the-nightmare-begins-part-1-glt6047251362.md) — The Rest Is History episode on the Paris settlement, Watergate-era war-powers constraints, South Vietnam's collapse cascade, Cambodia, and pre-evacuation moral triage.
 - [VOL.42心血管内科｜听说你总是头疼？可能需要做一件“堵心事”来解决](sources/vol-42-xinxueguan-neike-tingshuo-ni-zongshi-touteng-keneng-xuyao-zuo-yijian-du-xin-shi-lai-jiejue-lvw85wqzb0kvpyk5uipsagy13b11.md) — 这病说来话长 episode on PFO anatomy, migraine and embolic evaluation, echocardiographic testing, and individualized closure decisions.
@@ -3137,6 +3138,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Science-Based Mental Training & Visualization for Improved Learning](sources/science-based-mental-training-visualization-for-improved-learning-scim9944841947.md) — Huberman Lab solo episode on brief task-matched imagery, physical-practice primacy, first-person rehearsal, response inhibition, sleep, and protocol evidence boundaries.
 
 ## Entities
+- [罗路 / Luo Lu (plastic surgeon)](entities/LuoLuPlasticSurgeon.md) — Plastic-surgery clinician explaining differential assessment, reconstruction, indication, expectation, and psychosocial care.
 - [张晶 / Zhang Jing (声东击西)](entities/ZhangJingShengdongJixi.md) — Journalist, 声东击西 co-founder, and content practitioner connecting reporting, long-form audio, platform feedback, AI summaries, and professional community.
 - [Henry Kissinger](entities/HenryKissinger.md) — U.S. diplomat balancing acceptance of South Vietnamese defeat against credibility, aid, bombing, and evacuation concerns.
 - [Gerald Ford](entities/GeraldFord.md) — U.S. president constrained by Watergate's aftermath, Congress, public opinion, and an impossible evacuation hierarchy.
@@ -14456,6 +14458,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Frankfurt Parliament](entities/FrankfurtParliament.md) — German national assembly whose representative ambition lacked independent military and administrative capacity.
 
 ## Concepts
+- [Plastic Surgery Clinical Scope / 整形外科临床范围](concepts/PlasticSurgeryClinicalScope.md) — Framework joining disease care, reconstruction, function, appearance, safety, and psychosocial outcome.
+- [Gynecomastia Clinical Assessment / 男性乳房发育临床评估](concepts/GynecomastiaClinicalAssessment.md) — Tissue-, cause-, and duration-based assessment of male breast enlargement.
+- [Liposuction Body-Contouring Boundary / 吸脂塑形边界](concepts/LiposuctionBodyContouringBoundary.md) — Boundary separating local contour change from general weight-loss treatment.
+- [Wound Coverage and Reconstruction Selection / 创面覆盖与修复选择](concepts/WoundCoverageReconstructionSelection.md) — Selection among direct closure, grafting, and flaps through complete wound needs rather than depth alone.
+- [Hypertrophic Scar–Keloid Distinction / 增生性瘢痕与瘢痕疙瘩区分](concepts/ScarKeloidDistinction.md) — Boundary- and time-course-based distinction between hypertrophic scarring and keloid growth.
+- [Cosmetic Wound-Closure Planning / 美容缝合规划](concepts/CosmeticWoundClosurePlanning.md) — Site-, tension-, layer-, and material-specific planning that replaces the one-product “美容针” misconception.
+- [Microtia Ear-Reconstruction Decision / 小耳畸形耳再造决策](concepts/MicrotiaEarReconstructionDecision.md) — Decision framework balancing operative burden, realistic appearance, hearing context, and psychosocial value.
 - [Algorithmic Creator Self-Discipline / 算法化创作者自我规训](concepts/AlgorithmicCreatorSelfDiscipline.md) — Creator adaptation of topics, titles, covers, cadence, and public identity to visible metrics and opaque platform expectations.
 - [Communication as Ritual Participation / 传播作为仪式参与](concepts/CommunicationRitualParticipation.md) — Media use as shared attention, relationship maintenance, and cultural participation beyond information transfer.
 - [AI Content Compression Loss / AI内容压缩损失](concepts/AIContentCompressionLoss.md) — Reasoning, voice, resonance, and participation omitted when a summary preserves conclusions but not the full work.
