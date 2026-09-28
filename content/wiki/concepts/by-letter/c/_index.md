@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8575
+wiki_total_pages: 8579
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -872,6 +872,9 @@ wiki_pages:
   - key: "ChivalricRomanceWarMemory"
     title: "Chivalric Romance War Memory"
     url: "/wiki/concepts/chivalricromancewarmemory/"
+  - key: "ChivalricSacralization"
+    title: "Chivalric Sacralization"
+    url: "/wiki/concepts/chivalricsacralization/"
   - key: "ChivalricTournamentCulture"
     title: "Chivalric Tournament Culture / 骑士比武文化"
     url: "/wiki/concepts/chivalrictournamentculture/"

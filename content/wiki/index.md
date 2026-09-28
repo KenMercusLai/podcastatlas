@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [346: The Mystery of the Holy Grail (Part 2)](sources/346-the-mystery-of-the-holy-grail-part-2-glt9518077570.md) — The Rest Is History episode on the Grail's medieval textual formation, Eucharistic theology, sacred knighthood, and the chronological weaknesses of pagan and universal-origin theories.
 - [VOL.56大学毕业季｜摘眼镜、戴牙套、除皱、战痘、减肥 5学科联袂为你出招](sources/vol-56-daxue-biyeji-zhai-yanjing-dai-yatao-chuzhou-zhandou-jianfei-5-xueke-lianmei-wei-ni-chuzhao-lkmkuyymlfqxiyoes-n5nflvljry.md) — 这病说来话长 multidisciplinary guide to refractive surgery, orthodontic continuity, medical-aesthetic selection, acne care, and sustainable weight loss.
 - [VOL.57精神科｜心理疾病导致的轻生可预防 给予陪伴是最好的安慰｜认识抑郁和抑郁情绪](sources/vol-57-jingshenke-xinli-jibing-daozhi-de-qingsheng-ke-yufang-jiyu-peiban-shi-zuihao-de-anwei-renshi-yiyu-he-yiyu-qingxu-lhgqmsvos2ybk74qjnrt3bxs0l7d.md) — 这病说来话长 episode on suicide-risk signals, depressed mood versus disorder, nonjudgmental companionship, safety, and professional escalation.
 - [348: The Boston Tea Party (Part 2)](sources/348-the-boston-tea-party-part-2-glt5189620267.md) — The Rest Is History episode on the Tea Act, Boston Tea Party, Coercive Acts, colonial coordination, early fighting, British strategy, and Dunmore's proclamation.
@@ -3076,6 +3077,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [347: The American Revolution (Part 1)](sources/347-the-american-revolution-part-1-glt3042850673.md) — The Rest Is History episode on the Seven Years' War settlement, imperial debt and frontier security, constitutional mismatch, colonial resistance, and the Boston Massacre.
 
 ## Entities
+- [Holy Grail](entities/HolyGrail.md) — Medieval literary vessel transformed into a Passion relic, Eucharistic mystery, and knightly quest object.
+- [Chrétien de Troyes](entities/ChretienDeTroyes.md) — Late-12th-century French romance writer whose unfinished Perceval contains the earliest surviving Grail narrative discussed.
+- [Perceval](entities/Perceval.md) — Original Grail-quest knight whose silence at the Fisher King's castle becomes a failure of compassion.
+- [Galahad](entities/Galahad.md) — Later ideal Grail knight joining lineage and prowess to chastity, holiness, and beatific vision.
 - [小常老师 / Xiaochang (nutrition guest)](entities/XiaochangNutritionGuest.md) — Source-scoped nutrition guest emphasizing sustainable energy deficit, dietary quality, rebound prevention, and low-energy-availability caution.
 - [Lord Dunmore's Proclamation](entities/LordDunmoresProclamation.md) — November 1775 service-linked freedom offer exposing Black agency, British strategy, and slaveholder radicalization.
 - [Battle of Bunker Hill](entities/BattleOfBunkerHill.md) — Costly British tactical victory that exposed the gap between taking ground and restoring political control.
@@ -14264,6 +14269,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Crispus Attucks](entities/CrispusAttucks.md) — Black and Native dockworker whose death and representation expose racialized revolutionary law and memory.
 
 ## Concepts
+- [Grail Tradition Formation](concepts/GrailTraditionFormation.md) — Textual process turning an ambiguous romance vessel into a Passion relic and collective sacred quest.
+- [Grail Eucharistic Theology](concepts/GrailEucharisticTheology.md) — Sacramental framework joining vessel, host, blood, lance, healing, and vision.
+- [Chivalric Sacralization](concepts/ChivalricSacralization.md) — Medieval effort to subordinate warrior prowess and violence to Christian service, compassion, and holiness.
+- [Textual Chronology Origin Testing](concepts/TextualChronologyOriginTesting.md) — Source-critical method testing origin theories against motif dates, object forms, and transmission routes.
 - [Orthodontic Treatment Continuity / 正畸治疗连续性](concepts/OrthodonticTreatmentContinuity.md) — Framework joining appliance choice to diagnosis, repeated review, retention, patient cooperation, relocation, and surgical coordination.
 - [Suicide-Risk Recognition and Support / 轻生风险识别与支持](concepts/SuicideRiskRecognitionAndSupport.md) — Framework joining warning-pattern recognition, nonjudgmental presence, safety protection, and qualified crisis escalation.
 - [No Taxation Without Representation](concepts/NoTaxationWithoutRepresentation.md) — Constitutional claim separating a tax's material burden from the legitimacy of distant parliamentary authority.

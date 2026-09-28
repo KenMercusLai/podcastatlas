@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 11168
+wiki_total_pages: 11172
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -320,6 +320,9 @@ wiki_pages:
   - key: "PeoplesDemocracyNorthernIreland"
     title: "People's Democracy (Northern Ireland)"
     url: "/wiki/entities/peoplesdemocracynorthernireland/"
+  - key: "Perceval"
+    title: "Perceval"
+    url: "/wiki/entities/perceval/"
   - key: "PercyShelley"
     title: "Percy Shelley / 珀西·雪莱"
     url: "/wiki/entities/percyshelley/"

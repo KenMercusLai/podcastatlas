@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-28] ingest | 346: The Mystery of the Holy Grail (Part 2)
+
+Added source `346-the-mystery-of-the-holy-grail-part-2-glt9518077570`; created `HolyGrail`, `ChretienDeTroyes`, `Perceval`, `Galahad`, `GrailTraditionFormation`, `GrailEucharisticTheology`, `ChivalricSacralization`, and `TextualChronologyOriginTesting`; and updated the canonical index. Core synthesis: the Grail is best reconstructed as a rapidly evolving medieval romance tradition whose later Passion relics, Eucharistic meanings, and holy-knight ideals should not be projected backward into Chrétien's ambiguous unfinished text. No settled contradiction was adopted. Chrétien's degree of invention, word etymology, textual dependence, institutional Church causality, Protestant reception, and the final status of Welsh, pagan, Iranian, bloodline, and archetypal theories remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-28] ingest | How Your Brain’s Reward Circuits Drive Your Choices | Dr. Robert Malenka
 
 Added source `how-your-brains-reward-circuits-drive-your-choices-dr-robert-malenka-scim2531622462`; created `RobertMalenka`, `RewardCircuitContext`, `AddictionRelatedRewardPlasticity`, `SocialRewardNeuromodulation`, and `EmpathyLikeBehavioralAssays`; and updated `MDMA`, `AutismBiologicalHeterogeneity`, and the canonical index from their complete bounded source sets. Core synthesis: reward circuitry integrates body state, memory, emotion, rules, and sensory context; addictive drugs and learned cues can durably bias that system so wanting outlasts liking; and social reward emerges from interacting dopamine, serotonin, oxytocin, and action-selection circuits rather than one molecule. No settled contradiction was adopted. Mouse empathy-like assays, autism subgroup findings, receptor and enantiomer mechanisms, drug-development claims, and therapeutic potential remain source-scoped; MDMA and psychedelic discussion stays inside legal, screening, clinical, and safety boundaries. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -24335,6 +24339,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-28] ingest | 347: The American Revolution (Part 1)
 
 Added source `347-the-american-revolution-part-1-glt3042850673`; created `SevenYearsWar`, `ProclamationLine1763`, `BostonMassacre`, `CrispusAttucks`, `ImperialConstitutionalMismatch`, and `PostwarImperialFiscalSecurityBind`; and updated `AdamIPSmith`, `AmericanRevolution`, `GeorgeWashington`, `BenjaminFranklin`, `JohnAdams`, and the canonical index from their complete bounded source sets. Core synthesis: the Seven Years' War removed the French threat but created a fiscal-security bind around debt, territory, Native diplomacy, western settlement, troops, and revenue, while parliamentary sovereignty and colonial self-government located legitimate authority in incompatible institutions. Independence remained contingent in 1770; the Sugar and Stamp Act disputes, boycotts, crowd pressure, military occupation, and Boston Massacre intensified mistrust without yet producing a settled separatist program. No settled contradiction was adopted. Fiscal figures, Great Awakening causality, regional attitudes, customs enforcement, boycott effectiveness, crowd conduct, and individual motives remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-28] lint | Wiki health check
 

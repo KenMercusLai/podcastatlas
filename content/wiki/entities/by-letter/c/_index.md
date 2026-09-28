@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 11168
+wiki_total_pages: 11172
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -941,6 +941,9 @@ wiki_pages:
   - key: "Chrysippus"
     title: "Chrysippus / 克律西波斯"
     url: "/wiki/entities/chrysippus/"
+  - key: "ChretienDeTroyes"
+    title: "Chrétien de Troyes"
+    url: "/wiki/entities/chretiendetroyes/"
   - key: "ChuckSurack"
     title: "Chuck Surack"
     url: "/wiki/entities/chucksurack/"

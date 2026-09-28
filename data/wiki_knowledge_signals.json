@@ -28537,6 +28537,22 @@
       "updated": "2026-09-25",
       "url": "/wiki/concepts/chivalricromancewarmemory/"
     },
+    "ChivalricSacralization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9518077570 [GLT9518077570].md",
+          "key": "346-the-mystery-of-the-holy-grail-part-2-glt9518077570",
+          "show": "The Rest Is History",
+          "title": "346: The Mystery of the Holy Grail (Part 2)",
+          "url": "/wiki/sources/346-the-mystery-of-the-holy-grail-part-2-glt9518077570/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/chivalricsacralization/"
+    },
     "ChizaoGengxin": {
       "episode_count": 5,
       "show_count": 1,
@@ -28667,6 +28683,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/chouxiangzai/"
+    },
+    "ChretienDeTroyes": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9518077570 [GLT9518077570].md",
+          "key": "346-the-mystery-of-the-holy-grail-part-2-glt9518077570",
+          "show": "The Rest Is History",
+          "title": "346: The Mystery of the Holy Grail (Part 2)",
+          "url": "/wiki/sources/346-the-mystery-of-the-holy-grail-part-2-glt9518077570/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/chretiendetroyes/"
     },
     "ChrisPalmer": {
       "episode_count": 2,
@@ -62132,6 +62164,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/galacticempire/"
     },
+    "Galahad": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9518077570 [GLT9518077570].md",
+          "key": "346-the-mystery-of-the-holy-grail-part-2-glt9518077570",
+          "show": "The Rest Is History",
+          "title": "346: The Mystery of the Holy Grail (Part 2)",
+          "url": "/wiki/sources/346-the-mystery-of-the-holy-grail-part-2-glt9518077570/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/galahad/"
+    },
     "GallLakota": {
       "episode_count": 1,
       "show_count": 1,
@@ -66483,6 +66531,38 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/grahamplatner/"
+    },
+    "GrailEucharisticTheology": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9518077570 [GLT9518077570].md",
+          "key": "346-the-mystery-of-the-holy-grail-part-2-glt9518077570",
+          "show": "The Rest Is History",
+          "title": "346: The Mystery of the Holy Grail (Part 2)",
+          "url": "/wiki/sources/346-the-mystery-of-the-holy-grail-part-2-glt9518077570/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/graileucharistictheology/"
+    },
+    "GrailTraditionFormation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9518077570 [GLT9518077570].md",
+          "key": "346-the-mystery-of-the-holy-grail-part-2-glt9518077570",
+          "show": "The Rest Is History",
+          "title": "346: The Mystery of the Holy Grail (Part 2)",
+          "url": "/wiki/sources/346-the-mystery-of-the-holy-grail-part-2-glt9518077570/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/grailtraditionformation/"
     },
     "GraphNeuralNetworks": {
       "episode_count": 1,
@@ -73627,6 +73707,22 @@
       ],
       "updated": "2026-09-15",
       "url": "/wiki/concepts/hollywoodnepotismnetworkadvantage/"
+    },
+    "HolyGrail": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9518077570 [GLT9518077570].md",
+          "key": "346-the-mystery-of-the-holy-grail-part-2-glt9518077570",
+          "show": "The Rest Is History",
+          "title": "346: The Mystery of the Holy Grail (Part 2)",
+          "url": "/wiki/sources/346-the-mystery-of-the-holy-grail-part-2-glt9518077570/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/holygrail/"
     },
     "HolyRomanEmpire": {
       "episode_count": 1,
@@ -121114,6 +121210,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/perceptionasbiologicalinference/"
     },
+    "Perceval": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9518077570 [GLT9518077570].md",
+          "key": "346-the-mystery-of-the-holy-grail-part-2-glt9518077570",
+          "show": "The Rest Is History",
+          "title": "346: The Mystery of the Holy Grail (Part 2)",
+          "url": "/wiki/sources/346-the-mystery-of-the-holy-grail-part-2-glt9518077570/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/perceval/"
+    },
     "PercyShelley": {
       "episode_count": 2,
       "show_count": 2,
@@ -154394,6 +154506,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/textshapedcognition/"
+    },
+    "TextualChronologyOriginTesting": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9518077570 [GLT9518077570].md",
+          "key": "346-the-mystery-of-the-holy-grail-part-2-glt9518077570",
+          "show": "The Rest Is History",
+          "title": "346: The Mystery of the Holy Grail (Part 2)",
+          "url": "/wiki/sources/346-the-mystery-of-the-holy-grail-part-2-glt9518077570/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/textualchronologyorigintesting/"
     },
     "TextualSurvivalThroughRecopying": {
       "episode_count": 1,

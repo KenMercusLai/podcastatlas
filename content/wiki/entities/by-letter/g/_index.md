@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 11168
+wiki_total_pages: 11172
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -50,6 +50,9 @@ wiki_pages:
   - key: "GalacticEmpire"
     title: "Galactic Empire"
     url: "/wiki/entities/galacticempire/"
+  - key: "Galahad"
+    title: "Galahad"
+    url: "/wiki/entities/galahad/"
   - key: "Galileo"
     title: "Galileo"
     url: "/wiki/entities/galileo/"

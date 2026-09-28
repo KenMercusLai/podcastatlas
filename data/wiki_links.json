@@ -987,6 +987,10 @@
     "title": "34.猫咪秘史：呵，愚蠢又可爱的人类",
     "url": "/wiki/sources/34-maomi-mishi-he-yuchun-you-keai-de-renlei-601590607/"
   },
+  "346-the-mystery-of-the-holy-grail-part-2-glt9518077570": {
+    "title": "346: The Mystery of the Holy Grail (Part 2)",
+    "url": "/wiki/sources/346-the-mystery-of-the-holy-grail-part-2-glt9518077570/"
+  },
   "347-daodi-weisha-youxie-shadan-zhihui-yi-shuojiao-de-fangshi-goutong-lhhiozceulxpeyczobgjaolyymmt": {
     "title": "347-到底为啥有些傻蛋只会以说教的方式沟通",
     "url": "/wiki/sources/347-daodi-weisha-youxie-shadan-zhihui-yi-shuojiao-de-fangshi-goutong-lhhiozceulxpeyczobgjaolyymmt/"
@@ -14831,6 +14835,10 @@
     "title": "Chivalric Romance War Memory",
     "url": "/wiki/concepts/chivalricromancewarmemory/"
   },
+  "ChivalricSacralization": {
+    "title": "Chivalric Sacralization",
+    "url": "/wiki/concepts/chivalricsacralization/"
+  },
   "ChivalricTournamentCulture": {
     "title": "Chivalric Tournament Culture / 骑士比武文化",
     "url": "/wiki/concepts/chivalrictournamentculture/"
@@ -14886,6 +14894,10 @@
   "Chouxiangzai": {
     "title": "抽象仔 / 抽象宅 / Chouxiangzai",
     "url": "/wiki/entities/chouxiangzai/"
+  },
+  "ChretienDeTroyes": {
+    "title": "Chrétien de Troyes",
+    "url": "/wiki/entities/chretiendetroyes/"
   },
   "ChrisBest": {
     "title": "Chris Best",
@@ -28183,6 +28195,10 @@
     "title": "Galactic Empire",
     "url": "/wiki/entities/galacticempire/"
   },
+  "Galahad": {
+    "title": "Galahad",
+    "url": "/wiki/entities/galahad/"
+  },
   "Galileo": {
     "title": "Galileo",
     "url": "/wiki/entities/galileo/"
@@ -29962,6 +29978,14 @@
   "GrahamWetzbarger": {
     "title": "Graham Wetzbarger",
     "url": "/wiki/entities/grahamwetzbarger/"
+  },
+  "GrailEucharisticTheology": {
+    "title": "Grail Eucharistic Theology",
+    "url": "/wiki/concepts/graileucharistictheology/"
+  },
+  "GrailTraditionFormation": {
+    "title": "Grail Tradition Formation",
+    "url": "/wiki/concepts/grailtraditionformation/"
   },
   "GrainBorderCoercion": {
     "title": "Grain And Border Coercion / 粮食与封边胁迫",
@@ -32822,6 +32846,10 @@
   "HoloAssets": {
     "title": "Holo Assets",
     "url": "/wiki/concepts/holoassets/"
+  },
+  "HolyGrail": {
+    "title": "Holy Grail",
+    "url": "/wiki/entities/holygrail/"
   },
   "HolyRomanEmpire": {
     "title": "Holy Roman Empire",
@@ -53523,6 +53551,10 @@
     "title": "Perception as Biological Inference",
     "url": "/wiki/concepts/perceptionasbiologicalinference/"
   },
+  "Perceval": {
+    "title": "Perceval",
+    "url": "/wiki/entities/perceval/"
+  },
   "PercyShelley": {
     "title": "Percy Shelley / 珀西·雪莱",
     "url": "/wiki/entities/percyshelley/"
@@ -68954,6 +68986,10 @@
   "TextileKnowledgeTransfer": {
     "title": "Textile Knowledge Transfer",
     "url": "/wiki/concepts/textileknowledgetransfer/"
+  },
+  "TextualChronologyOriginTesting": {
+    "title": "Textual Chronology Origin Testing",
+    "url": "/wiki/concepts/textualchronologyorigintesting/"
   },
   "TextualOmissionAttributionShift": {
     "title": "Textual Omission Attribution Shift / 史书删节与责任归属转移",

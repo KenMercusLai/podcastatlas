@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2114
+topic_total_pages: 2115
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4680,6 +4680,9 @@ topic_sources:
   - key: "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008"
     title: "318: Hundred Years' War: A Game of Thrones (Part 1)"
     url: "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+  - key: "346-the-mystery-of-the-holy-grail-part-2-glt9518077570"
+    title: "346: The Mystery of the Holy Grail (Part 2)"
+    url: "/wiki/sources/346-the-mystery-of-the-holy-grail-part-2-glt9518077570/"
   - key: "347-the-american-revolution-part-1-glt3042850673"
     title: "347: The American Revolution (Part 1)"
     url: "/wiki/sources/347-the-american-revolution-part-1-glt3042850673/"
