@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-28] ingest | 新一代投资者似乎不爱买股票了：逐渐被ETF主导的市场和未来
+
+Added source `xin-yidai-touzizhe-sihu-bu-ai-mai-gupiao-le-zhujian-bei-etf-zhudao-de-shichang-he-weilai-lk1lxwniotregvs9euhepkm9nruo`; created `ETFConsensusFeedback`, `IncrementalCapitalMarketEngine`, and `ETFHoldingHorizonClassification`; and updated `ExchangeTradedFund`, `PassiveInvestingGovernance`, and the canonical index from their complete bounded source sets. Core synthesis: ETF adoption can connect index rules, product labels, platforms, recurring flows, benchmark inclusion, and algorithmic attention into a conditional consensus-feedback loop, while U.S.–China index differences may partly reflect different ETF-flow, buyback, dividend-reinvestment, business, and institutional structures. ETF wrapper alone does not determine holding period: durable cash-flow exposure and tactical high-volatility themes require different rules. No settled contradiction was adopted. Flow totals, passive-versus-active scale, cross-market causality, AI recommendation convergence, and an endpoint where non-constituents barely trade remain source-scoped or explicit thought experiments. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-28] ingest | 148 ✪ 吃好睡好：肯德基 K Pro 入局轻食、亚朵星球床品创新
 
 Added source `148-chihao-shuihao-kendeji-kpro-ruju-qingshi-yaduo-xingqiu-chuangpin-chuangxin-feng-tou-quan-1-148-1`; created `KPro`, `AtourPlanet`, `SuperBowlLightFood`, `LightFoodCategoryReframing`, and `NeglectedFrictionProductInnovation`; and updated `KFC`, `YumChina`, `Atour`, `FengTouQuan`, `StoreWithinStoreFoodservice`, `HotelRetailFlywheel`, and the canonical index from their complete bounded source sets. Core synthesis: light food is moving from salad-style deprivation toward filling localized meals while K Pro reuses KFC infrastructure and larger brands educate the category; Atour Planet shows how hotel trial can seed sleep-product retail, but large-scale growth increasingly depends on direct product, supply, channel, and reputation strength. No settled contradiction was adopted. Store counts, revenue, forecasts, subsidy and influencer-channel effects remain source-scoped; the hosts' Super Bowl and 唐岛 investments and the closing insurance promotion are explicit conflict and commercial qualifications. The automatic `wiki/overview.md` was read for context but not manually rewritten because the source deepens established consumer-business branches without changing the wiki-wide synthesis.
@@ -24710,6 +24714,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-28] ingest | Foiled plot: did Iran plan British base attack?
 
 Added source `foiled-plot-did-iran-plan-british-base-attack-6aba32b170b66274d96fb345`; created `RAFFairford`, `MI5`, `HybridWarfareAttributionThreshold`, `ConflictOilWindfallInvestmentCycle`, and `PersonalExperienceWorkplaceGenderDecisions`; and updated the canonical index. Core synthesis: pattern evidence and strategic motive can make Iran a plausible suspect in the alleged Fairford plot without establishing responsibility; conflict-driven oil profits flow first through balance sheets and distributions before potentially funding reserves and acquisitions; and the Danish manager-daughter association appears mainly through hiring and promotion while its psychological mechanism and broader generalizability remain unresolved. No settled contradiction was adopted. Incident attribution, intended attack method, profit and decline totals, future investment, and study mechanism remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-28] lint | Wiki health check
 

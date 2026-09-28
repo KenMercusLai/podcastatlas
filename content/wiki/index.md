@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [新一代投资者似乎不爱买股票了：逐渐被ETF主导的市场和未来](sources/xin-yidai-touzizhe-sihu-bu-ai-mai-gupiao-le-zhujian-bei-etf-zhudao-de-shichang-he-weilai-lk1lxwniotregvs9euhepkm9nruo.md) — 面基 episode on ETF adoption, consensus feedback, price discovery, cross-market capital flows, and holding-horizon discipline.
 - [327: Coronations: The Deep History (Part 1)](sources/327-coronations-the-deep-history-part-1-glt4746607803.md) — The Rest Is History episode on the Anglo-Saxon, Roman, Carolingian, biblical, material, and territorial roots of British coronation.
 - [328: Coronations: Sex, Holy Oil and Civil War (Part 2)](sources/328-coronations-sex-holy-oil-and-civil-war-part-2-glt8165021855.md) — The Rest Is History episode on coronation as adaptable sacred and political technology across conquest, usurpation, Reformation, civil war, Protectorate, and the Glorious Revolution.
 - [329: Coronations: Chaos, Ceremony and Empire (Part 3)](sources/329-coronations-chaos-ceremony-and-empire-part-3-glt8755026279.md) — The Rest Is History episode on British coronation as sacred rite, political contest, public disorder, imperial spectacle, and mass-media event.
@@ -14412,6 +14413,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [MI5](entities/MI5.md) — British domestic security service supplying the wider Iran-linked threat context without settling the Fairford attribution.
 
 ## Concepts
+- [ETF Consensus Feedback / ETF 共识反馈](concepts/ETFConsensusFeedback.md) — Feedback loop joining index rules, theme labels, distribution, flows, benchmark inclusion, liquidity, and attention.
+- [Incremental Capital Market Engine / 增量资金引擎](concepts/IncrementalCapitalMarketEngine.md) — Recurring equity-demand mechanism combining ETF inflows, corporate buybacks, and dividend reinvestment.
+- [ETF Holding-Horizon Classification / ETF 持有期限分类](concepts/ETFHoldingHorizonClassification.md) — Classification of ETF exposure by underlying economics, cyclicality, product mechanics, and intended holding process.
 - [Historical Inquiry and Source Criticism](concepts/HistoricalInquirySourceCriticism.md) — Method for attributing testimony, comparing accounts, preserving uncertainty, and recovering information from mediated reports.
 - [Cross-Cultural Historical Perspective](concepts/CrossCulturalHistoricalPerspective.md) — Historical comparison that interprets customs and enemies within their own worlds while exposing the contingency of the observer's norms.
 - [Imperial Rise and Decline Cycle](concepts/ImperialRiseDeclineCycle.md) — Herodotean pattern linking imperial success, wealth, hubris, overextension, decline, and repetition by former opponents.

@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2128
+topic_total_pages: 2132
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1045,9 +1045,15 @@ topic_concepts:
   - key: "EraTailwindInInvesting"
     title: "Era Tailwind In Investing / 投资时代红利"
     url: "/wiki/concepts/eratailwindininvesting/"
+  - key: "ETFConsensusFeedback"
+    title: "ETF Consensus Feedback / ETF 共识反馈"
+    url: "/wiki/concepts/etfconsensusfeedback/"
   - key: "ETFCreationRedemption"
     title: "ETF Creation-Redemption / ETF 申赎机制"
     url: "/wiki/concepts/etfcreationredemption/"
+  - key: "ETFHoldingHorizonClassification"
+    title: "ETF Holding-Horizon Classification / ETF 持有期限分类"
+    url: "/wiki/concepts/etfholdinghorizonclassification/"
   - key: "ETFInKindTaxDeferral"
     title: "ETF In-Kind Tax Deferral / ETF 实物申赎税务递延"
     url: "/wiki/concepts/etfinkindtaxdeferral/"
@@ -1579,6 +1585,9 @@ topic_concepts:
   - key: "IncompleteContract"
     title: "Incomplete Contract / 不完全契约"
     url: "/wiki/concepts/incompletecontract/"
+  - key: "IncrementalCapitalMarketEngine"
+    title: "Incremental Capital Market Engine / 增量资金引擎"
+    url: "/wiki/concepts/incrementalcapitalmarketengine/"
   - key: "IncumbentPlatformPressure"
     title: "Incumbent Platform Pressure"
     url: "/wiki/concepts/incumbentplatformpressure/"
@@ -6381,6 +6390,9 @@ topic_sources:
   - key: "tanfang-hacker-house-guigu-nianqingren-zhengzai-banjin-ai-chuangye-sushe-s10e10-f0870843-fd16-49f5-8f24-80281f9fff77"
     title: "探访 Hacker House：硅谷年轻人，正在搬进「AI 创业宿舍」｜ S10E10"
     url: "/wiki/sources/tanfang-hacker-house-guigu-nianqingren-zhengzai-banjin-ai-chuangye-sushe-s10e10-f0870843-fd16-49f5-8f24-80281f9fff77/"
+  - key: "xin-yidai-touzizhe-sihu-bu-ai-mai-gupiao-le-zhujian-bei-etf-zhudao-de-shichang-he-weilai-lk1lxwniotregvs9euhepkm9nruo"
+    title: "新一代投资者似乎不爱买股票了：逐渐被ETF主导的市场和未来"
+    url: "/wiki/sources/xin-yidai-touzizhe-sihu-bu-ai-mai-gupiao-le-zhujian-bei-etf-zhudao-de-shichang-he-weilai-lk1lxwniotregvs9euhepkm9nruo/"
   - key: "qiquan-zhe-zhang-bing-weishenme-yuelaiyue-nanchi-le-1"
     title: "期权这张饼，为什么越来越难吃了？"
     url: "/wiki/sources/qiquan-zhe-zhang-bing-weishenme-yuelaiyue-nanchi-le-1/"

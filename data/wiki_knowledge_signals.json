@@ -46590,6 +46590,38 @@
       "updated": "2026-09-26",
       "url": "/wiki/entities/ejchichilnisky/"
     },
+    "ETFConsensusFeedback": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "新一代投资者似乎不爱买股票了：逐渐被ETF主导的市场和未来 [lk1LXWNiOtrEGVS9euhepKM9nRuo].md",
+          "key": "xin-yidai-touzizhe-sihu-bu-ai-mai-gupiao-le-zhujian-bei-etf-zhudao-de-shichang-he-weilai-lk1lxwniotregvs9euhepkm9nruo",
+          "show": "面基",
+          "title": "新一代投资者似乎不爱买股票了：逐渐被ETF主导的市场和未来",
+          "url": "/wiki/sources/xin-yidai-touzizhe-sihu-bu-ai-mai-gupiao-le-zhujian-bei-etf-zhudao-de-shichang-he-weilai-lk1lxwniotregvs9euhepkm9nruo/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/etfconsensusfeedback/"
+    },
+    "ETFHoldingHorizonClassification": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "新一代投资者似乎不爱买股票了：逐渐被ETF主导的市场和未来 [lk1LXWNiOtrEGVS9euhepKM9nRuo].md",
+          "key": "xin-yidai-touzizhe-sihu-bu-ai-mai-gupiao-le-zhujian-bei-etf-zhudao-de-shichang-he-weilai-lk1lxwniotregvs9euhepkm9nruo",
+          "show": "面基",
+          "title": "新一代投资者似乎不爱买股票了：逐渐被ETF主导的市场和未来",
+          "url": "/wiki/sources/xin-yidai-touzizhe-sihu-bu-ai-mai-gupiao-le-zhujian-bei-etf-zhudao-de-shichang-he-weilai-lk1lxwniotregvs9euhepkm9nruo/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/etfholdinghorizonclassification/"
+    },
     "EVProductFailureRecovery": {
       "episode_count": 1,
       "show_count": 1,
@@ -53960,6 +53992,36 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/exmachinafilm/"
+    },
+    "ExchangeTradedFund": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "Vol.266 一次性搞懂ETF [1002344828].md",
+          "key": "vol-266-yi-ci-xing-gao-dong-etf-1002344828",
+          "show": "商业就是这样",
+          "title": "Vol.266 一次性搞懂ETF",
+          "url": "/wiki/sources/vol-266-yi-ci-xing-gao-dong-etf-1002344828/"
+        },
+        {
+          "episode_file": "Vanguard ｜ Acquired (1) [vanguard-1].md",
+          "key": "vanguard-1",
+          "show": "Acquired",
+          "title": "Vanguard",
+          "url": "/wiki/sources/vanguard-1/"
+        },
+        {
+          "episode_file": "新一代投资者似乎不爱买股票了：逐渐被ETF主导的市场和未来 [lk1LXWNiOtrEGVS9euhepKM9nRuo].md",
+          "key": "xin-yidai-touzizhe-sihu-bu-ai-mai-gupiao-le-zhujian-bei-etf-zhudao-de-shichang-he-weilai-lk1lxwniotregvs9euhepkm9nruo",
+          "show": "面基",
+          "title": "新一代投资者似乎不爱买股票了：逐渐被ETF主导的市场和未来",
+          "url": "/wiki/sources/xin-yidai-touzizhe-sihu-bu-ai-mai-gupiao-le-zhujian-bei-etf-zhudao-de-shichang-he-weilai-lk1lxwniotregvs9euhepkm9nruo/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/exchangetradedfund/"
     },
     "ExecutiveFunction": {
       "episode_count": 1,
@@ -82833,6 +82895,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/increasingstovesdeception/"
+    },
+    "IncrementalCapitalMarketEngine": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "新一代投资者似乎不爱买股票了：逐渐被ETF主导的市场和未来 [lk1LXWNiOtrEGVS9euhepKM9nRuo].md",
+          "key": "xin-yidai-touzizhe-sihu-bu-ai-mai-gupiao-le-zhujian-bei-etf-zhudao-de-shichang-he-weilai-lk1lxwniotregvs9euhepkm9nruo",
+          "show": "面基",
+          "title": "新一代投资者似乎不爱买股票了：逐渐被ETF主导的市场和未来",
+          "url": "/wiki/sources/xin-yidai-touzizhe-sihu-bu-ai-mai-gupiao-le-zhujian-bei-etf-zhudao-de-shichang-he-weilai-lk1lxwniotregvs9euhepkm9nruo/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/incrementalcapitalmarketengine/"
     },
     "IncrementalPersecutionFalseStabilization": {
       "episode_count": 1,
@@ -124955,6 +125033,29 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/passiontrapcareeradvice/"
+    },
+    "PassiveInvestingGovernance": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Vanguard ｜ Acquired (1) [vanguard-1].md",
+          "key": "vanguard-1",
+          "show": "Acquired",
+          "title": "Vanguard",
+          "url": "/wiki/sources/vanguard-1/"
+        },
+        {
+          "episode_file": "新一代投资者似乎不爱买股票了：逐渐被ETF主导的市场和未来 [lk1LXWNiOtrEGVS9euhepKM9nRuo].md",
+          "key": "xin-yidai-touzizhe-sihu-bu-ai-mai-gupiao-le-zhujian-bei-etf-zhudao-de-shichang-he-weilai-lk1lxwniotregvs9euhepkm9nruo",
+          "show": "面基",
+          "title": "新一代投资者似乎不爱买股票了：逐渐被ETF主导的市场和未来",
+          "url": "/wiki/sources/xin-yidai-touzizhe-sihu-bu-ai-mai-gupiao-le-zhujian-bei-etf-zhudao-de-shichang-he-weilai-lk1lxwniotregvs9euhepkm9nruo/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/passiveinvestinggovernance/"
     },
     "PatFarah": {
       "episode_count": 1,

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 8659
+wiki_total_pages: 8662
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -773,9 +773,15 @@ wiki_pages:
   - key: "EssentialPatents"
     title: "Essential Patents"
     url: "/wiki/concepts/essentialpatents/"
+  - key: "ETFConsensusFeedback"
+    title: "ETF Consensus Feedback / ETF 共识反馈"
+    url: "/wiki/concepts/etfconsensusfeedback/"
   - key: "ETFCreationRedemption"
     title: "ETF Creation-Redemption / ETF 申赎机制"
     url: "/wiki/concepts/etfcreationredemption/"
+  - key: "ETFHoldingHorizonClassification"
+    title: "ETF Holding-Horizon Classification / ETF 持有期限分类"
+    url: "/wiki/concepts/etfholdinghorizonclassification/"
   - key: "ETFInKindTaxDeferral"
     title: "ETF In-Kind Tax Deferral / ETF 实物申赎税务递延"
     url: "/wiki/concepts/etfinkindtaxdeferral/"

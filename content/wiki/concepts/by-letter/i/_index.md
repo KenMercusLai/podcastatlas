@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 8659
+wiki_total_pages: 8662
 wiki_pages:
   - key: "IBDPatientEducationAndPeerSupport"
     title: "IBD Patient Education and Peer Support / IBD患者教育与同伴支持"
@@ -260,6 +260,9 @@ wiki_pages:
   - key: "IncreasingStovesDeception"
     title: "Increasing Stoves Deception / 增灶示强"
     url: "/wiki/concepts/increasingstovesdeception/"
+  - key: "IncrementalCapitalMarketEngine"
+    title: "Incremental Capital Market Engine / 增量资金引擎"
+    url: "/wiki/concepts/incrementalcapitalmarketengine/"
   - key: "IncrementalPersecutionFalseStabilization"
     title: "Incremental Persecution and False Stabilization"
     url: "/wiki/concepts/incrementalpersecutionfalsestabilization/"

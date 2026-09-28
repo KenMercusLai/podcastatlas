@@ -22267,9 +22267,17 @@
     "title": "7709.HK / Two-Times Long SK Hynix ETF",
     "url": "/wiki/entities/etf7709hk/"
   },
+  "ETFConsensusFeedback": {
+    "title": "ETF Consensus Feedback / ETF 共识反馈",
+    "url": "/wiki/concepts/etfconsensusfeedback/"
+  },
   "ETFCreationRedemption": {
     "title": "ETF Creation-Redemption / ETF 申赎机制",
     "url": "/wiki/concepts/etfcreationredemption/"
+  },
+  "ETFHoldingHorizonClassification": {
+    "title": "ETF Holding-Horizon Classification / ETF 持有期限分类",
+    "url": "/wiki/concepts/etfholdinghorizonclassification/"
   },
   "ETFInKindTaxDeferral": {
     "title": "ETF In-Kind Tax Deferral / ETF 实物申赎税务递延",
@@ -35402,6 +35410,10 @@
   "IncreasingStovesDeception": {
     "title": "Increasing Stoves Deception / 增灶示强",
     "url": "/wiki/concepts/increasingstovesdeception/"
+  },
+  "IncrementalCapitalMarketEngine": {
+    "title": "Incremental Capital Market Engine / 增量资金引擎",
+    "url": "/wiki/concepts/incrementalcapitalmarketengine/"
   },
   "IncrementalPersecutionFalseStabilization": {
     "title": "Incremental Persecution and False Stabilization",
@@ -87494,6 +87506,10 @@
   "xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770": {
     "title": "【闲聊】想送赵露思一本短歌集--编辑推书,无所不用其极！",
     "url": "/wiki/sources/xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770/"
+  },
+  "xin-yidai-touzizhe-sihu-bu-ai-mai-gupiao-le-zhujian-bei-etf-zhudao-de-shichang-he-weilai-lk1lxwniotregvs9euhepkm9nruo": {
+    "title": "新一代投资者似乎不爱买股票了：逐渐被ETF主导的市场和未来",
+    "url": "/wiki/sources/xin-yidai-touzizhe-sihu-bu-ai-mai-gupiao-le-zhujian-bei-etf-zhudao-de-shichang-he-weilai-lk1lxwniotregvs9euhepkm9nruo/"
   },
   "xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195": {
     "title": "星巴克回应「蜜雪冰城代工」等传闻，李宁否认与姆巴佩签约",
