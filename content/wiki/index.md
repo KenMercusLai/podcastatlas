@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [306: Columbus: The Adventure Begins (Part 1)](sources/306-columbus-the-adventure-begins-part-1-glt6089901915.md) — The Rest Is History episode on Columbus's Genoese-Portuguese formation, geographic error, religious and status ambition, repeated rejection, and 1492 royal sponsorship.
+- [VOL.22肿瘤肝胆外科｜关于肝炎、肝硬化和肝癌 我们应该知道这些事](sources/vol-22-zhongliu-gandan-waike-guanyu-ganyan-ganyinghua-he-ganai-women-yinggai-zhidao-zhexie-shi-lmmkgp8rpb2mvtk7slmtatq_jheg.md) — 这病说来话长 episode on hepatitis prevention, silent liver disease, fatty-liver context, liver-cancer surveillance and treatment, and cancer nutrition support.
 - [VOL.23肿瘤肝胆外科｜外科医生用中西医双系统聊胆囊胆管疾病和养生](sources/vol-23-zhongliu-gandan-waike-waike-yisheng-yong-zhongxiyi-shuangxitong-liao-dannang-danguan-jibing-he-yangsheng-lvmnrsimkqyj8jmtzdj7kfazvbzu.md) — 这病说来话长 episode on gallbladder function, gallstones, biliary cancer anatomy, treatment selection, prognosis, and medical-evidence boundaries.
 - [VOL.24肿瘤肝胆外科｜胰脏和脾脏虽然不大，但这些危险诱因要警惕](sources/vol-24-zhongliu-gandan-waike-yizang-he-pizang-suiran-bu-da-dan-zhexie-weixian-youyin-yaojingti-lvw8ajdllmj73ecq2br3sgnmkug.md) — 这病说来话长 episode on pancreatic function and risk communication, pancreatitis escalation, splenic trauma, lifestyle claims, and oncology communication.
 - [VOL.25肿瘤肝胆外科｜箫郎医生在肿瘤医院行医18年所遇到的那些“怪”事和医患故事](sources/vol-25-zhongliu-gandan-waike-xiaolang-yisheng-zai-zhongliu-yiyuan-xingyi-18-nian-suo-yudao-de-naxie-guai-shi-he-yihuan-gushi-lr1jwin34m6obozyrqpybpujq5cz.md) — 这病说来话长 episode on oncology distress, symptom experience, family decision communication, clinical trust, and informed-consent responsibility.
@@ -3175,7 +3176,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Breathe Correctly for Optimal Health, Mood, Learning & Performance](sources/how-to-breathe-correctly-for-optimal-health-mood-learning-performance-scim7880960950.md) — Huberman Lab solo episode on respiratory gas balance, state-matched breathwork, physiological sighing, learning, sleep-apnea recognition, and water safety.
 
 ## Entities
-- [骁狼医生 / Xiaolang (oncology surgeon)](entities/XiaolangOncologySurgeon.md) — Source-scoped oncology hepatobiliary surgeon discussing biliary, pancreatic, and splenic health plus oncology communication in VOL.23–25.
+- [骁狼医生 / Xiaolang (oncology surgeon)](entities/XiaolangOncologySurgeon.md) — Source-scoped oncology hepatobiliary surgeon discussing liver, biliary, pancreatic, and splenic health plus oncology communication in VOL.22–25.
 - [Taíno](entities/TainoPeople.md) — Indigenous Caribbean peoples whose exchange, political agency, captivity, resistance, and catastrophe are preserved through an asymmetric colonial archive.
 - [Martín Pinzón](entities/MartinPinzon.md) — Palos mariner whose recruitment, course judgment, local authority, and rivalry made Columbus's first voyage possible and command unstable.
 - [João II of Portugal](entities/JoaoIIOfPortugal.md) — Portuguese monarch whose experts rejected Columbus's underestimated westward route while the African route advanced.
@@ -14547,6 +14548,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Satchin Panda](entities/SatchinPanda.md) — Circadian-biology researcher separating meal timing, fasting duration, energy intake, and evidence limits in animal and human studies.
 
 ## Concepts
+- [Viral Hepatitis and Liver-Cancer Prevention](concepts/ViralHepatitisLiverCancerPrevention.md) — Prevention framework joining transmission literacy, vaccination, maternal-infant prevention, testing, treatment, stigma reduction, and risk-based follow-up.
+- [Liver-Cancer Screening and Treatment Selection](concepts/LiverCancerScreeningAndTreatment.md) — Risk-based pathway from surveillance into liver-reserve-aware multimodal oncology care.
+- [Cancer Nutrition Support Boundary](concepts/CancerNutritionSupportBoundary.md) — Separates tumor-directed vascular treatment from harmful whole-body food restriction and indiscriminate supplementation.
 - [Gallbladder Disease Recognition and Triage / 胆囊疾病识别与分流](concepts/GallbladderDiseaseRecognitionAndTriage.md) — Contextualizes gallbladder findings, chronic symptoms, silent stones, and acute biliary escalation.
 - [Biliary Cancer Decision and Prognosis Boundary / 胆道肿瘤决策与预后边界](concepts/BiliaryCancerDecisionAndPrognosisBoundary.md) — Separates biliary-cancer anatomy, pathology, stage, treatment selection, and group statistics from individualized prognosis.
 - [Pancreatic Risk Communication Boundary / 胰腺风险沟通边界](concepts/PancreaticRiskCommunicationBoundary.md) — Separates pancreatic risk context and symptom awareness from unsupported causation, diagnosis, and individualized treatment.

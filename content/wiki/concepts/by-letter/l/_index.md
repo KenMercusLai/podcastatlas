@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 8754
+wiki_total_pages: 8757
 wiki_pages:
   - key: "LaborIllusion"
     title: "Labor Illusion"
@@ -518,6 +518,9 @@ wiki_pages:
   - key: "LiveInRelationshipRegistration"
     title: "Live-In Relationship Registration"
     url: "/wiki/concepts/liveinrelationshipregistration/"
+  - key: "LiverCancerScreeningAndTreatment"
+    title: "Liver-Cancer Screening and Treatment Selection"
+    url: "/wiki/concepts/livercancerscreeningandtreatment/"
   - key: "LivestockCareEconomics"
     title: "Livestock Care Economics"
     url: "/wiki/concepts/livestockcareeconomics/"

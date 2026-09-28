@@ -25059,3 +25059,11 @@ Added source `306-columbus-the-adventure-begins-part-1-glt6089901915`; created `
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | VOL.22肿瘤肝胆外科｜关于肝炎、肝硬化和肝癌 我们应该知道这些事
+
+Added source `vol-22-zhongliu-gandan-waike-guanyu-ganyan-ganyinghua-he-ganai-women-yinggai-zhidao-zhexie-shi-lmmkgp8rpb2mvtk7slmtatq_jheg`; created `ViralHepatitisLiverCancerPrevention`, `LiverCancerScreeningAndTreatment`, and `CancerNutritionSupportBoundary`; and updated `XiaolangOncologySurgeon`, `FattyLiverCauseDirectedManagement`, `SilentLiverDamageDetection`, and the canonical index from their complete bounded source sets. Core synthesis: viral-hepatitis prevention and risk-based follow-up should replace casual-contact stigma and symptom waiting; fatty-liver findings require cause and severity assessment; liver-cancer treatment selection depends on tumor features and functional reserve; and tumor-directed blood-supply treatment must not be confused with withholding nutrition from the patient. No settled contradiction was adopted. Prevalence estimates, testing intervals, treatment thresholds, clearance and cure language, regeneration limits, and physiology claims remain source-scoped public education rather than individualized medical guidance. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

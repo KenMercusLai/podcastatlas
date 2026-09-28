@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8754
+wiki_total_pages: 8757
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -131,6 +131,9 @@ wiki_pages:
   - key: "CancerMetabolicReprogramming"
     title: "Cancer Metabolic Reprogramming"
     url: "/wiki/concepts/cancermetabolicreprogramming/"
+  - key: "CancerNutritionSupportBoundary"
+    title: "Cancer Nutrition Support Boundary"
+    url: "/wiki/concepts/cancernutritionsupportboundary/"
   - key: "CancerScreeningBurdenTradeoff"
     title: "Cancer Screening Burden Tradeoff"
     url: "/wiki/concepts/cancerscreeningburdentradeoff/"
