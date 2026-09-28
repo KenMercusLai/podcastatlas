@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 11183
+wiki_total_pages: 11188
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -329,6 +329,9 @@ wiki_pages:
   - key: "LeptonAI"
     title: "Lepton AI"
     url: "/wiki/entities/leptonai/"
+  - key: "LeslieGroves"
+    title: "Leslie Groves"
+    url: "/wiki/entities/lesliegroves/"
   - key: "LetitiaJames"
     title: "Letitia James"
     url: "/wiki/entities/letitiajames/"

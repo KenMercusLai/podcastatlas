@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1283
+topic_total_pages: 1286
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -2158,6 +2158,9 @@ topic_concepts:
   - key: "WarmthCompetenceStereotype"
     title: "Warmth-Competence Stereotype / 热情-能力刻板印象"
     url: "/wiki/concepts/warmthcompetencestereotype/"
+  - key: "WartimeScientificMobilization"
+    title: "Wartime Scientific Mobilization"
+    url: "/wiki/concepts/wartimescientificmobilization/"
   - key: "WaterMarketDesign"
     title: "Water Market Design"
     url: "/wiki/concepts/watermarketdesign/"
@@ -2618,6 +2621,9 @@ topic_entities:
   - key: "JayBhattacharya"
     title: "Jay Bhattacharya"
     url: "/wiki/entities/jaybhattacharya/"
+  - key: "JeanTatlock"
+    title: "Jean Tatlock"
+    url: "/wiki/entities/jeantatlock/"
   - key: "JohnGideonMillingen"
     title: "John Gideon Millingen / 约翰·基甸·米林根"
     url: "/wiki/entities/johngideonmillingen/"
@@ -3309,6 +3315,9 @@ topic_sources:
   - key: "21-hong-yu-hei-ta-si-yu-zhencheng-569042001"
     title: "21.红与黑：他死于真诚"
     url: "/wiki/sources/21-hong-yu-hei-ta-si-yu-zhencheng-569042001/"
+  - key: "343-oppenheimer-the-father-of-the-atom-bomb-part-1-glt9202576882"
+    title: "343: Oppenheimer: The Father of the Atom Bomb (Part 1)"
+    url: "/wiki/sources/343-oppenheimer-the-father-of-the-atom-bomb-part-1-glt9202576882/"
   - key: "37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679"
     title: "37.智商测试：请问你是智力婆罗门吗？"
     url: "/wiki/sources/37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679/"

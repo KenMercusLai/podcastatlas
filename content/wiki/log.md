@@ -24407,3 +24407,11 @@ Added source `344-oppenheimer-the-witch-hunt-part-2-glt1594914557`; created `JRo
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | 343: Oppenheimer: The Father of the Atom Bomb (Part 1)
+
+Added source `343-oppenheimer-the-father-of-the-atom-bomb-part-1-glt9202576882`; created `LeslieGroves`, `NielsBohr`, `JeanTatlock`, `HaakonChevalier`, `TrinityNuclearTest`, `WartimeScientificMobilization`, and `AtomicKnowledgeInternationalControl`; and updated `JRobertOppenheimer`, `ManhattanProject`, `OppenheimerSecurityHearing`, `NuclearScientificResponsibility`, `ColdWarSecurityLoyaltyPolitics`, `Prometheus`, and the canonical index from their complete bounded source sets. Core synthesis: fear of a Nazi bomb enabled rapid military-scientific mobilization and made Oppenheimer's unusual leadership worth known security risk, while Germany's defeat, Trinity, Bohr's internationalism, and Oppenheimer's mishandled Chevalier disclosure exposed unresolved tensions among mission success, changing strategic rationale, secrecy, candor, and scientific responsibility. No settled contradiction was adopted. Biographical anecdotes, private motives, Communist Party status, remembered conversations, invasion projections, Trinity naming, and the precise policy content of international control remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

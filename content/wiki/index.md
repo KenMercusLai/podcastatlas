@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [343: Oppenheimer: The Father of the Atom Bomb (Part 1)](sources/343-oppenheimer-the-father-of-the-atom-bomb-part-1-glt9202576882.md) — The Rest Is History episode on Oppenheimer's formation, communist-era associations, Los Alamos leadership, Trinity, and the tension between atomic secrecy and international control.
 - [344: Oppenheimer: The Witch Hunt (Part 2)](sources/344-oppenheimer-the-witch-hunt-part-2-glt1594914557.md) — The Rest Is History episode on Oppenheimer's post-bomb responsibility, hydrogen-bomb dissent, Cold War surveillance, clearance hearing, and martyr afterlife.
 - [假期通知兼谈本台为什么要做视频播客](sources/jiaqi-tongzhi-jian-tan-bentai-weishenme-yao-zuo-shipin-boke-1018741567.md) — 商业就是这样 announcement on holiday scheduling and a content-first video-podcast strategy built around editorial control, audio parity, expert access, and multi-platform distribution.
 - [VOL.55口腔科｜正畸、正颌、种植牙齿的这几个常见误区和疑问 公立医院主任给你一一讲清楚](sources/vol-55-kouqiangke-zhengji-zhenghe-zhongzhi-yachi-de-zhe-jige-changjian-wuqu-he-yiwen-gongli-yiyuan-zhuren-gei-ni-yi-yi-jiang-qingchu-lsupjdtklqeinpgfcsnd8zlale5t.md) — 这病说来话长 Q&A on orthodontic and orthognathic assessment, implant suitability and maintenance, oral-care tools, symptoms, and lifecycle prevention.
@@ -3084,6 +3085,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve Your Eye Health & Offset Vision Loss | Dr. Jeffrey Goldberg](sources/how-to-improve-your-eye-health-offset-vision-loss-dr-jeffrey-goldberg-scim5633963628.md) — Huberman Lab interview on visual development, prevention, optical correction, contact and dry-eye care, silent eye disease, treatment adherence, and emerging-intervention boundaries.
 
 ## Entities
+- [Leslie Groves](entities/LeslieGroves.md) — Manhattan Project military director who selected and defended Oppenheimer despite known security concerns.
+- [Niels Bohr](entities/NielsBohr.md) — physicist who joined the Allied bomb effort and argued for international openness around atomic knowledge.
+- [Jean Tatlock](entities/JeanTatlock.md) — Oppenheimer's formative romantic and political relationship, later treated as a wartime security concern.
+- [Haakon Chevalier](entities/HaakonChevalier.md) — Berkeley friend whose rejected Soviet-information approach became central to Oppenheimer's credibility problem.
+- [Trinity Nuclear Test](entities/TrinityNuclearTest.md) — first atomic-bomb detonation and threshold between Manhattan Project success and the atomic age.
 - [J. Robert Oppenheimer](entities/JRobertOppenheimer.md) — Manhattan Project scientific leader whose postwar burden, nuclear-policy dissent, clearance loss, and martyr reputation remain in tension.
 - [Lewis Strauss](entities/LewisStrauss.md) — Atomic Energy Commission power broker whose policy and personal conflict with Oppenheimer drove the clearance campaign.
 - [Edward Teller](entities/EdwardTeller.md) — Hydrogen-bomb advocate whose trust-based testimony helped end Oppenheimer's government role.
@@ -10661,7 +10667,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [William Lawrence / 威廉·劳伦斯](entities/WilliamLawrence.md) — Doctor and vitalism-debate figure connected to Percy Shelley and Frankenstein's life-principle context.
 - [Villa Diodati / 迪奥达蒂别墅](entities/VillaDiodati.md) — Geneva setting where episode 141 situates the ghost-story game that produced Frankenstein and Polidori's vampire branch.
 - [Year Without a Summer / 无夏之夏](entities/YearWithoutASummer.md) — 1816 climate anomaly that episode 141 uses as the weather and disaster backdrop for the Villa Diodati gathering.
-- [Prometheus / 普罗米修斯](entities/Prometheus.md) — Mythic creation figure used by episode 141 to interpret Frankenstein's "Modern Prometheus" subtitle.
+- [Prometheus / 普罗米修斯](entities/Prometheus.md) — Mythic fire-giver used to interpret Frankenstein's creation ethics and Oppenheimer's ambivalent atomic legacy.
 - [Andreas Vesalius / 安德烈亚斯·维萨里](entities/AndreasVesalius.md) — Anatomy-history figure used by episode 141 to connect direct dissection with Frankenstein's body-making premise.
 - [John Hunter / 约翰·亨特](entities/JohnHunter.md) — Anatomist and collector whose experiments and Charles Byrne connection ground episode 141's anatomy branch.
 - [Charles Byrne / 查尔斯·伯恩](entities/CharlesByrne.md) — "Irish giant" body-collection case used by episode 141 to connect anatomical display and Frankenstein's creature.
@@ -14288,6 +14294,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Raiders of the Lost Ark](entities/RaidersOfTheLostArk.md) — Adventure film that translates the Ark's dangerous holiness into an ultimate-weapon race against Nazi Germany.
 
 ## Concepts
+- [Wartime Scientific Mobilization](concepts/WartimeScientificMobilization.md) — concentration of scientific talent, military authority, resources, secrecy, and coordination around an urgent strategic objective.
+- [International Control of Atomic Knowledge](concepts/AtomicKnowledgeInternationalControl.md) — proposal that nuclear knowledge requires openness, shared rules, and governance beyond a temporary national monopoly.
 - [Nuclear Scientific Responsibility](concepts/NuclearScientificResponsibility.md) — Framework separating formal weapons-use authority from scientists' continuing causal, epistemic, and public responsibility.
 - [Cold War Security and Loyalty Politics](concepts/ColdWarSecurityLoyaltyPolitics.md) — Framework holding genuine counterespionage risk together with association, policy dissent, trust judgments, and political exclusion.
 - [Football Footwear Market Entry](concepts/FootballFootwearMarketEntry.md) — System-level challenge of converting footwear technology and athlete attention into credible football products, ecosystem presence, and demand.

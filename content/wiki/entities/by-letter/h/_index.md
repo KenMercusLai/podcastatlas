@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 11183
+wiki_total_pages: 11188
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -56,6 +56,9 @@ wiki_pages:
   - key: "HaagenDazs"
     title: "Haagen-Dazs"
     url: "/wiki/entities/haagendazs/"
+  - key: "HaakonChevalier"
+    title: "Haakon Chevalier"
+    url: "/wiki/entities/haakonchevalier/"
   - key: "HabibaFayed"
     title: "Habiba Fayed"
     url: "/wiki/entities/habibafayed/"

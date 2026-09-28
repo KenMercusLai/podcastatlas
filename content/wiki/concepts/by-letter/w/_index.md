@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 8587
+wiki_total_pages: 8589
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -104,6 +104,9 @@ wiki_pages:
   - key: "WartimeLeadershipAccountability"
     title: "Wartime Leadership Accountability"
     url: "/wiki/concepts/wartimeleadershipaccountability/"
+  - key: "WartimeScientificMobilization"
+    title: "Wartime Scientific Mobilization"
+    url: "/wiki/concepts/wartimescientificmobilization/"
   - key: "WaterFireEducation"
     title: "Water And Fire Education"
     url: "/wiki/concepts/waterfireeducation/"

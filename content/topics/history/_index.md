@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2119
+topic_total_pages: 2123
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1961,6 +1961,9 @@ topic_entities:
   - key: "LanXangKingdom"
     title: "Lan Xang Kingdom / 澜沧王国"
     url: "/wiki/entities/lanxangkingdom/"
+  - key: "LeslieGroves"
+    title: "Leslie Groves"
+    url: "/wiki/entities/lesliegroves/"
   - key: "LiuBang"
     title: "Liu Bang / 刘邦"
     url: "/wiki/entities/liubang/"
@@ -2021,6 +2024,9 @@ topic_entities:
   - key: "NexusHarariBook"
     title: "Nexus (Yuval Noah Harari book)"
     url: "/wiki/entities/nexushararibook/"
+  - key: "NielsBohr"
+    title: "Niels Bohr"
+    url: "/wiki/entities/nielsbohr/"
   - key: "NiyaSite"
     title: "Niya Site / 尼雅遗址"
     url: "/wiki/entities/niyasite/"
@@ -2147,6 +2153,9 @@ topic_entities:
   - key: "TomHanks"
     title: "Tom Hanks"
     url: "/wiki/entities/tomhanks/"
+  - key: "TrinityNuclearTest"
+    title: "Trinity Nuclear Test"
+    url: "/wiki/entities/trinitynucleartest/"
   - key: "Ukraine"
     title: "Ukraine"
     url: "/wiki/entities/ukraine/"
@@ -4683,6 +4692,9 @@ topic_sources:
   - key: "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008"
     title: "318: Hundred Years' War: A Game of Thrones (Part 1)"
     url: "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+  - key: "343-oppenheimer-the-father-of-the-atom-bomb-part-1-glt9202576882"
+    title: "343: Oppenheimer: The Father of the Atom Bomb (Part 1)"
+    url: "/wiki/sources/343-oppenheimer-the-father-of-the-atom-bomb-part-1-glt9202576882/"
   - key: "344-oppenheimer-the-witch-hunt-part-2-glt1594914557"
     title: "344: Oppenheimer: The Witch Hunt (Part 2)"
     url: "/wiki/sources/344-oppenheimer-the-witch-hunt-part-2-glt1594914557/"

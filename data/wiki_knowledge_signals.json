@@ -13290,6 +13290,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/atomiccontentguardrails/"
     },
+    "AtomicKnowledgeInternationalControl": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9202576882 [GLT9202576882].md",
+          "key": "343-oppenheimer-the-father-of-the-atom-bomb-part-1-glt9202576882",
+          "show": "The Rest Is History",
+          "title": "343: Oppenheimer: The Father of the Atom Bomb (Part 1)",
+          "url": "/wiki/sources/343-oppenheimer-the-father-of-the-atom-bomb-part-1-glt9202576882/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/atomicknowledgeinternationalcontrol/"
+    },
     "AtomizedFamilyCareMarketization": {
       "episode_count": 1,
       "show_count": 1,
@@ -31175,9 +31191,9 @@
       "url": "/wiki/concepts/coldwarregimechangepressure/"
     },
     "ColdWarSecurityLoyaltyPolitics": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1594914557 [GLT1594914557].md",
@@ -31185,6 +31201,13 @@
           "show": "The Rest Is History",
           "title": "344: Oppenheimer: The Witch Hunt (Part 2)",
           "url": "/wiki/sources/344-oppenheimer-the-witch-hunt-part-2-glt1594914557/"
+        },
+        {
+          "episode_file": "GLT9202576882 [GLT9202576882].md",
+          "key": "343-oppenheimer-the-father-of-the-atom-bomb-part-1-glt9202576882",
+          "show": "The Rest Is History",
+          "title": "343: Oppenheimer: The Father of the Atom Bomb (Part 1)",
+          "url": "/wiki/sources/343-oppenheimer-the-father-of-the-atom-bomb-part-1-glt9202576882/"
         }
       ],
       "updated": "2026-09-28",
@@ -68698,6 +68721,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/entities/hyrox/"
     },
+    "HaakonChevalier": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9202576882 [GLT9202576882].md",
+          "key": "343-oppenheimer-the-father-of-the-atom-bomb-part-1-glt9202576882",
+          "show": "The Rest Is History",
+          "title": "343: Oppenheimer: The Father of the Atom Bomb (Part 1)",
+          "url": "/wiki/sources/343-oppenheimer-the-father-of-the-atom-bomb-part-1-glt9202576882/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/haakonchevalier/"
+    },
     "HabibayStartupEmbassyResident": {
       "episode_count": 1,
       "show_count": 1,
@@ -83126,9 +83165,9 @@
       "url": "/wiki/entities/jrrtolkien/"
     },
     "JRobertOppenheimer": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1594914557 [GLT1594914557].md",
@@ -83136,6 +83175,13 @@
           "show": "The Rest Is History",
           "title": "344: Oppenheimer: The Witch Hunt (Part 2)",
           "url": "/wiki/sources/344-oppenheimer-the-witch-hunt-part-2-glt1594914557/"
+        },
+        {
+          "episode_file": "GLT9202576882 [GLT9202576882].md",
+          "key": "343-oppenheimer-the-father-of-the-atom-bomb-part-1-glt9202576882",
+          "show": "The Rest Is History",
+          "title": "343: Oppenheimer: The Father of the Atom Bomb (Part 1)",
+          "url": "/wiki/sources/343-oppenheimer-the-father-of-the-atom-bomb-part-1-glt9202576882/"
         }
       ],
       "updated": "2026-09-28",
@@ -84075,6 +84121,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/jeansylvainbailly/"
+    },
+    "JeanTatlock": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9202576882 [GLT9202576882].md",
+          "key": "343-oppenheimer-the-father-of-the-atom-bomb-part-1-glt9202576882",
+          "show": "The Rest Is History",
+          "title": "343: Oppenheimer: The Father of the Atom Bomb (Part 1)",
+          "url": "/wiki/sources/343-oppenheimer-the-father-of-the-atom-bomb-part-1-glt9202576882/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/jeantatlock/"
     },
     "JeanneDeLaMotte": {
       "episode_count": 1,
@@ -92138,6 +92200,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/entities/leopoldii/"
+    },
+    "LeslieGroves": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9202576882 [GLT9202576882].md",
+          "key": "343-oppenheimer-the-father-of-the-atom-bomb-part-1-glt9202576882",
+          "show": "The Rest Is History",
+          "title": "343: Oppenheimer: The Father of the Atom Bomb (Part 1)",
+          "url": "/wiki/sources/343-oppenheimer-the-father-of-the-atom-bomb-part-1-glt9202576882/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/lesliegroves/"
     },
     "LethalPlanLeakageRisk": {
       "episode_count": 5,
@@ -103650,9 +103728,9 @@
       "url": "/wiki/entities/mangshi/"
     },
     "ManhattanProject": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1594914557 [GLT1594914557].md",
@@ -103660,6 +103738,13 @@
           "show": "The Rest Is History",
           "title": "344: Oppenheimer: The Witch Hunt (Part 2)",
           "url": "/wiki/sources/344-oppenheimer-the-witch-hunt-part-2-glt1594914557/"
+        },
+        {
+          "episode_file": "GLT9202576882 [GLT9202576882].md",
+          "key": "343-oppenheimer-the-father-of-the-atom-bomb-part-1-glt9202576882",
+          "show": "The Rest Is History",
+          "title": "343: Oppenheimer: The Father of the Atom Bomb (Part 1)",
+          "url": "/wiki/sources/343-oppenheimer-the-father-of-the-atom-bomb-part-1-glt9202576882/"
         }
       ],
       "updated": "2026-09-28",
@@ -114203,6 +114288,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/entities/nietengfei/"
     },
+    "NielsBohr": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9202576882 [GLT9202576882].md",
+          "key": "343-oppenheimer-the-father-of-the-atom-bomb-part-1-glt9202576882",
+          "show": "The Rest Is History",
+          "title": "343: Oppenheimer: The Father of the Atom Bomb (Part 1)",
+          "url": "/wiki/sources/343-oppenheimer-the-father-of-the-atom-bomb-part-1-glt9202576882/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/nielsbohr/"
+    },
     "NightOfTheLongKnives": {
       "episode_count": 1,
       "show_count": 1,
@@ -115763,9 +115864,9 @@
       "url": "/wiki/concepts/nuclearsafetypropaganda/"
     },
     "NuclearScientificResponsibility": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1594914557 [GLT1594914557].md",
@@ -115773,6 +115874,13 @@
           "show": "The Rest Is History",
           "title": "344: Oppenheimer: The Witch Hunt (Part 2)",
           "url": "/wiki/sources/344-oppenheimer-the-witch-hunt-part-2-glt1594914557/"
+        },
+        {
+          "episode_file": "GLT9202576882 [GLT9202576882].md",
+          "key": "343-oppenheimer-the-father-of-the-atom-bomb-part-1-glt9202576882",
+          "show": "The Rest Is History",
+          "title": "343: Oppenheimer: The Father of the Atom Bomb (Part 1)",
+          "url": "/wiki/sources/343-oppenheimer-the-father-of-the-atom-bomb-part-1-glt9202576882/"
         }
       ],
       "updated": "2026-09-28",
@@ -117829,9 +117937,9 @@
       "url": "/wiki/entities/oppenheimerfilm/"
     },
     "OppenheimerSecurityHearing": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1594914557 [GLT1594914557].md",
@@ -117839,6 +117947,13 @@
           "show": "The Rest Is History",
           "title": "344: Oppenheimer: The Witch Hunt (Part 2)",
           "url": "/wiki/sources/344-oppenheimer-the-witch-hunt-part-2-glt1594914557/"
+        },
+        {
+          "episode_file": "GLT9202576882 [GLT9202576882].md",
+          "key": "343-oppenheimer-the-father-of-the-atom-bomb-part-1-glt9202576882",
+          "show": "The Rest Is History",
+          "title": "343: Oppenheimer: The Father of the Atom Bomb (Part 1)",
+          "url": "/wiki/sources/343-oppenheimer-the-father-of-the-atom-bomb-part-1-glt9202576882/"
         }
       ],
       "updated": "2026-09-28",
@@ -127851,6 +127966,29 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/projectionsbook/"
+    },
+    "Prometheus": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "141. 制造弗兰肯斯坦：科幻之母和她的神奇时代 [857923931].md",
+          "key": "141-zhizao-fulankensitan-kehuan-zhimu-he-tade-shenqi-shidai-857923931",
+          "show": "蜜獾吃书",
+          "title": "141. 制造弗兰肯斯坦：科幻之母和她的神奇时代",
+          "url": "/wiki/sources/141-zhizao-fulankensitan-kehuan-zhimu-he-tade-shenqi-shidai-857923931/"
+        },
+        {
+          "episode_file": "GLT9202576882 [GLT9202576882].md",
+          "key": "343-oppenheimer-the-father-of-the-atom-bomb-part-1-glt9202576882",
+          "show": "The Rest Is History",
+          "title": "343: Oppenheimer: The Father of the Atom Bomb (Part 1)",
+          "url": "/wiki/sources/343-oppenheimer-the-father-of-the-atom-bomb-part-1-glt9202576882/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/prometheus/"
     },
     "PromotionPositionFit": {
       "episode_count": 2,
@@ -159177,6 +159315,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/concepts/tributesystemeconomicincentive/"
     },
+    "TrinityNuclearTest": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9202576882 [GLT9202576882].md",
+          "key": "343-oppenheimer-the-father-of-the-atom-bomb-part-1-glt9202576882",
+          "show": "The Rest Is History",
+          "title": "343: Oppenheimer: The Father of the Atom Bomb (Part 1)",
+          "url": "/wiki/sources/343-oppenheimer-the-father-of-the-atom-bomb-part-1-glt9202576882/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/trinitynucleartest/"
+    },
     "Trinovantes": {
       "episode_count": 1,
       "show_count": 1,
@@ -166260,6 +166414,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/concepts/wartimeconstitutionalmonarchycollapse/"
+    },
+    "WartimeScientificMobilization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9202576882 [GLT9202576882].md",
+          "key": "343-oppenheimer-the-father-of-the-atom-bomb-part-1-glt9202576882",
+          "show": "The Rest Is History",
+          "title": "343: Oppenheimer: The Father of the Atom Bomb (Part 1)",
+          "url": "/wiki/sources/343-oppenheimer-the-father-of-the-atom-bomb-part-1-glt9202576882/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/wartimescientificmobilization/"
     },
     "WartimeTextileFiscalResource": {
       "episode_count": 1,
