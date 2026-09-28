@@ -25043,3 +25043,11 @@ Added source `guest-series-dr-andy-galpin-optimal-nutrition-supplementation-for-
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | How to Breathe Correctly for Optimal Health, Mood, Learning & Performance
+
+Added source `how-to-breathe-correctly-for-optimal-health-mood-learning-performance-scim7880960950`; created `RespiratoryGasBalanceAndBreathworkSafety`; and updated `PhysiologicalSigh`, `PositiveStressBreathwork`, `InhalationArousalLearning`, `ObstructiveSleepApneaRecognition`, and the canonical index from their complete bounded source sets. Core synthesis: breathwork should be matched to the desired state and physical setting; carbon dioxide supports oxygen delivery, so overbreathing is not equivalent to better oxygenation; and hyperventilation or breath holds must not be paired with water exposure. No settled contradiction was adopted. Timed-exhale categories, box-breathing intervals, nasal-breathing effects, learning and movement timing, side-stitch and hiccup maneuvers, altitude adaptations, and minor-apnea improvement remain source-scoped public education rather than diagnosis or individualized treatment. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

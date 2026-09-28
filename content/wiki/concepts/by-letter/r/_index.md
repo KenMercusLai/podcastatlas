@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 8752
+wiki_total_pages: 8753
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -578,6 +578,9 @@ wiki_pages:
   - key: "RespectForEldersTradition"
     title: "Respect For Elders Tradition / 敬老传统"
     url: "/wiki/concepts/respectforelderstradition/"
+  - key: "RespiratoryGasBalanceAndBreathworkSafety"
+    title: "Respiratory Gas Balance and Breathwork Safety"
+    url: "/wiki/concepts/respiratorygasbalanceandbreathworksafety/"
   - key: "ResponsibilityAgainstRomanticEscape"
     title: "Responsibility Against Romantic Escape / 以责任抵抗浪漫逃避"
     url: "/wiki/concepts/responsibilityagainstromanticescape/"

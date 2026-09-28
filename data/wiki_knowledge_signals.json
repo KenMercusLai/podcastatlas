@@ -85544,9 +85544,9 @@
       "url": "/wiki/concepts/ingredientflavorlabeltransparency/"
     },
     "InhalationArousalLearning": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM3853502826 [SCIM3853502826].md",
@@ -85561,9 +85561,16 @@
           "show": "Huberman Lab",
           "title": "How Smells Influence Our Hormones, Health & Behavior | Dr. Noam Sobel",
           "url": "/wiki/sources/how-smells-influence-our-hormones-health-behavior-dr-noam-sobel-scim2074118783/"
+        },
+        {
+          "episode_file": "SCIM7880960950 [SCIM7880960950].md",
+          "key": "how-to-breathe-correctly-for-optimal-health-mood-learning-performance-scim7880960950",
+          "show": "Huberman Lab",
+          "title": "How to Breathe Correctly for Optimal Health, Mood, Learning & Performance",
+          "url": "/wiki/sources/how-to-breathe-correctly-for-optimal-health-mood-learning-performance-scim7880960950/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/inhalationarousallearning/"
     },
     "InjuryRecoveryAdherence": {
@@ -122923,9 +122930,9 @@
       "url": "/wiki/concepts/obstetricanesthesiadecisionboundary/"
     },
     "ObstructiveSleepApneaRecognition": {
-      "episode_count": 4,
-      "show_count": 2,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 3,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "luct7ka8jRMTLsmBwlK9MwOW3sxv [luct7ka8jRMTLsmBwlK9MwOW3sxv].md",
@@ -122954,9 +122961,16 @@
           "show": "这病说来话长",
           "title": "VOL.99八学科联合｜春节健康带回家 给咱不听劝的爸妈 「震惊」家族群的养生干货｜饮食、护理、打鼾、心梗、卒中、消化等",
           "url": "/wiki/sources/vol-99-ba-xueke-lianhe-chunjie-jiankang-dai-huijia-gei-zan-bu-tingquan-de-bama-zhenjing-jiazuqun-de-yangsheng-ganhuo-yinshi-huli-dahan-xingeng-zuzhong-xiaohua-deng-lrvlx1wbukf4g2pbsem4cbzqbuqz/"
+        },
+        {
+          "episode_file": "SCIM7880960950 [SCIM7880960950].md",
+          "key": "how-to-breathe-correctly-for-optimal-health-mood-learning-performance-scim7880960950",
+          "show": "Huberman Lab",
+          "title": "How to Breathe Correctly for Optimal Health, Mood, Learning & Performance",
+          "url": "/wiki/sources/how-to-breathe-correctly-for-optimal-health-mood-learning-performance-scim7880960950/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/obstructivesleepapnearecognition/"
     },
     "OccamsRazor": {
@@ -130406,9 +130420,9 @@
       "url": "/wiki/concepts/physicsstagnationclaim/"
     },
     "PhysiologicalSigh": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM1991900083 [SCIM1991900083].md",
@@ -130423,9 +130437,16 @@
           "show": "Huberman Lab",
           "title": "Science-Supported Tools to Accelerate Your Fitness Goals",
           "url": "/wiki/sources/science-supported-tools-to-accelerate-your-fitness-goals-scim7037527631/"
+        },
+        {
+          "episode_file": "SCIM7880960950 [SCIM7880960950].md",
+          "key": "how-to-breathe-correctly-for-optimal-health-mood-learning-performance-scim7880960950",
+          "show": "Huberman Lab",
+          "title": "How to Breathe Correctly for Optimal Health, Mood, Learning & Performance",
+          "url": "/wiki/sources/how-to-breathe-correctly-for-optimal-health-mood-learning-performance-scim7880960950/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/physiologicalsigh/"
     },
     "PiTongEasternHan": {
@@ -132593,9 +132614,9 @@
       "url": "/wiki/concepts/positivemasculinitycode/"
     },
     "PositiveStressBreathwork": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM4455888803 [SCIM4455888803].md",
@@ -132617,9 +132638,16 @@
           "show": "Huberman Lab",
           "title": "LIVE EVENT Q&A: Dr. Andrew Huberman at Meridian Hall in Toronto",
           "url": "/wiki/sources/live-event-q-a-dr-andrew-huberman-at-meridian-hall-in-toronto-scim7370892669/"
+        },
+        {
+          "episode_file": "SCIM7880960950 [SCIM7880960950].md",
+          "key": "how-to-breathe-correctly-for-optimal-health-mood-learning-performance-scim7880960950",
+          "show": "Huberman Lab",
+          "title": "How to Breathe Correctly for Optimal Health, Mood, Learning & Performance",
+          "url": "/wiki/sources/how-to-breathe-correctly-for-optimal-health-mood-learning-performance-scim7880960950/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/positivestressbreathwork/"
     },
     "Post911CounterterrorismArchitecture": {
@@ -141647,6 +141675,22 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/concepts/respectbasedconflictdeescalation/"
+    },
+    "RespiratoryGasBalanceAndBreathworkSafety": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7880960950 [SCIM7880960950].md",
+          "key": "how-to-breathe-correctly-for-optimal-health-mood-learning-performance-scim7880960950",
+          "show": "Huberman Lab",
+          "title": "How to Breathe Correctly for Optimal Health, Mood, Learning & Performance",
+          "url": "/wiki/sources/how-to-breathe-correctly-for-optimal-health-mood-learning-performance-scim7880960950/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/respiratorygasbalanceandbreathworksafety/"
     },
     "RespiratorySymptomTriage": {
       "episode_count": 2,

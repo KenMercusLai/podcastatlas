@@ -3171,6 +3171,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [GUEST SERIES | Dr. Andy Galpin: Optimal Nutrition & Supplementation for Fitness](sources/guest-series-dr-andy-galpin-optimal-nutrition-supplementation-for-fitness-scim1024405440.md) — Huberman Lab guest-series finale on foundations-first supplementation, hydration, fuel timing, sleep, and phase-aware recovery.
 
+- [How to Breathe Correctly for Optimal Health, Mood, Learning & Performance](sources/how-to-breathe-correctly-for-optimal-health-mood-learning-performance-scim7880960950.md) — Huberman Lab solo episode on respiratory gas balance, state-matched breathwork, physiological sighing, learning, sleep-apnea recognition, and water safety.
+
 ## Entities
 - [骁狼医生 / Xiaolang (oncology surgeon)](entities/XiaolangOncologySurgeon.md) — Source-scoped oncology hepatobiliary surgeon discussing biliary, pancreatic, and splenic health plus oncology communication in VOL.23–25.
 - [Taíno](entities/TainoPeople.md) — Indigenous Caribbean peoples whose exchange, political agency, captivity, resistance, and catastrophe are preserved through an asymmetric colonial archive.
@@ -23324,5 +23326,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Performance Supplement Hierarchy](concepts/PerformanceSupplementHierarchy.md) — Foundations-first method for matching targeted, tested supplements to a defined performance constraint.
 - [Training Fuel Timing Context](concepts/TrainingFuelTimingContext.md) — Demand-based framework for fed, fasted, intra-workout, and recovery nutrition.
+
+- [Respiratory Gas Balance and Breathwork Safety](concepts/RespiratoryGasBalanceAndBreathworkSafety.md) — Framework connecting oxygen delivery, carbon-dioxide regulation, desired state, and categorical hyperventilation safety boundaries.
 
 ## Syntheses

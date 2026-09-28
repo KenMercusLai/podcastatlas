@@ -5,7 +5,8 @@ tags: [breathing, arousal, attention, learning, olfaction]
 sources:
   - essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826
   - how-smells-influence-our-hormones-health-behavior-dr-noam-sobel-scim2074118783
-last_updated: 2026-09-28
+  - how-to-breathe-correctly-for-optimal-health-mood-learning-performance-scim7880960950
+last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
 
@@ -19,7 +20,7 @@ The sources treat sniffing as both chemical sampling and state organization. Inh
 
 The nasal cycle adds a slower timescale: airflow dominance alternates between nostrils, on average over hours, and wearable airflow patterns are reported to differ with ADHD status and methylphenidate use. These are research findings, not a diagnostic consumer tool or proof that deliberately forcing one nostril changes learning.
 
-The practical boundary remains conservative. Safe nasal breathing may be compatible with focused work; peppermint is described as a modest attention cue; ammonia produces stronger arousal but carries tissue and eye risk. Stronger activation is not automatically safer or better for durable learning.
+The breathing episode adds a practical respiratory-phase claim: inhalation, particularly through the nose, may improve reaction time, detection of fear-related stimuli, and some learning or memory measures, while voluntary movement may be easier during exhalation. These claims support state matching rather than continuous inhale-heavy breathing. Safe nasal breathing may be compatible with focused work; peppermint is described as a modest attention cue; ammonia produces stronger arousal but carries tissue and eye risk. Stronger activation is not automatically safer or better for durable learning.
 
 ## Key Claims
 - Inhalation can transiently increase alertness independently of odor identity.
@@ -28,6 +29,7 @@ The practical boundary remains conservative. Safe nasal breathing may be compati
 - The nasal cycle creates alternating airflow dominance over a multi-hour timescale.
 - Nasal-airflow patterns may carry behavioral or medication-related information without becoming a standalone diagnostic test.
 - Stronger arousal is not automatically safer or better for learning.
+- Respiratory phase may be matched to a brief cognitive or motor event, but the sources do not establish a universal study or movement protocol.
 
 ## Evidence
 - Respiratory-phase mechanism - [[essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826]] introduces inhalation-linked alertness and cognition; [[how-smells-influence-our-hormones-health-behavior-dr-noam-sobel-scim2074118783]] adds a visual-spatial inhalation-versus-exhalation finding.
@@ -35,12 +37,13 @@ The practical boundary remains conservative. Safe nasal breathing may be compati
 - Bilateral tracking - [[how-smells-influence-our-hormones-health-behavior-dr-noam-sobel-scim2074118783]] describes improved scent-trail performance with separated nostrils versus a centralized nostril.
 - Nasal cycle - [[how-smells-influence-our-hormones-health-behavior-dr-noam-sobel-scim2074118783]] describes alternating airflow dominance and wearable patterns associated with ADHD and Ritalin conditions.
 - Odor-linked arousal - [[essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826]] contrasts peppermint's modest attention effect with ammonia's strong threat-linked activation.
+- Cognitive and movement timing - [[how-to-breathe-correctly-for-optimal-health-mood-learning-performance-scim7880960950]] links nasal inhalation to reaction time, fear-stimulus detection, and some learning measures, and links exhalation to more efficient voluntary movement.
 
 ## Counterevidence & Qualifications
-The source notes do not provide complete sample sizes, task details, effect sizes, classifier validation, or replication status. They do not fully separate nasal airflow, respiratory phase, odor delivery, expectancy, and general arousal. The nasal-cycle findings do not establish a consumer ADHD test, methylphenidate-response test, or unilateral-breathing intervention. Ammonia and smelling salts can damage olfactory tissue and eyes if misused.
+The source notes do not provide complete sample sizes, task details, effect sizes, classifier validation, or replication status. They do not fully separate nasal airflow, respiratory phase, odor delivery, expectancy, and general arousal. The newer episode does not establish that extending or intensifying every inhale improves sustained studying, memory, or motor performance. The nasal-cycle findings do not establish a consumer ADHD test, methylphenidate-response test, or unilateral-breathing intervention. Ammonia and smelling salts can damage olfactory tissue and eyes if misused.
 
 ## What Changed
-- Added bilateral scent localization, nasal-cycle timing, and a strict diagnostic boundary around nasal-airflow classification.
+- Added reaction-time and movement-phase claims with a boundary against universal protocol use.
 
 ## Related Concepts
 - [[Chemosensation]] - sensory umbrella for airborne chemical detection.
