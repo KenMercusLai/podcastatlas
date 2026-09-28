@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2160
+topic_total_pages: 2161
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4710,6 +4710,9 @@ topic_sources:
   - key: "30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138"
     title: "30.孟子：战国愤青的赤子之心"
     url: "/wiki/sources/30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138/"
+  - key: "310-ronald-reagan-and-the-american-dream-part-1-glt3254036306"
+    title: "310: Ronald Reagan and the American Dream (Part 1)"
+    url: "/wiki/sources/310-ronald-reagan-and-the-american-dream-part-1-glt3254036306/"
   - key: "311-reagan-the-road-to-the-white-house-part-2-glt9813084891"
     title: "311: Reagan: The Road to the White House (Part 2)"
     url: "/wiki/sources/311-reagan-the-road-to-the-white-house-part-2-glt9813084891/"

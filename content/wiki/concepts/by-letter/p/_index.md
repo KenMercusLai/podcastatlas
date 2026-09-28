@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8732
+wiki_total_pages: 8733
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1019,6 +1019,9 @@ wiki_pages:
   - key: "PoliticalParableWeaponization"
     title: "Political Parable Weaponization / 寓言式政治挑拨"
     url: "/wiki/concepts/politicalparableweaponization/"
+  - key: "PoliticalPerformanceSincerity"
+    title: "Political Performance and Sincerity"
+    url: "/wiki/concepts/politicalperformancesincerity/"
   - key: "PoliticalPropagandaBackfire"
     title: "Political Propaganda Backfire / 政治宣传反噬"
     url: "/wiki/concepts/politicalpropagandabackfire/"

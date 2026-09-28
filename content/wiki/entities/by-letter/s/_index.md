@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 11332
+wiki_total_pages: 11333
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -344,6 +344,9 @@ wiki_pages:
   - key: "ScottVincentBorba"
     title: "Scott Vincent Borba"
     url: "/wiki/entities/scottvincentborba/"
+  - key: "ScreenActorsGuild"
+    title: "Screen Actors Guild"
+    url: "/wiki/entities/screenactorsguild/"
   - key: "Scribd"
     title: "Scribd"
     url: "/wiki/entities/scribd/"

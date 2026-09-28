@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [310: Ronald Reagan and the American Dream (Part 1)](sources/310-ronald-reagan-and-the-american-dream-part-1-glt3254036306.md) — The Rest Is History episode on Reagan's religious, civic, radio, Hollywood, union, and anti-communist formation and the fusion of performance with conviction.
 - [史蒂夫说474期 - 咨询师回信：权力视角是为人处世的必备角度](sources/shi-di-fu-shuo-474-zixunshi-huixin-quanli-shijiao-shi-weiren-chushi-de-bibei-jiaodu-lnanj_uwjhcnv2vt7ezagdfn9c11.md) — 史蒂夫说 counselor-letter episode on interpretive power, self-justification, family abuse, breakup control, therapy authority, and multidimensional marriage meaning.
 - [How to Optimize Your Water Quality & Intake for Health](sources/how-to-optimize-your-water-quality-intake-for-health-scim6169879512.md) — Huberman Lab solo episode on hydration timing, exercise and heat losses, tap-water assessment, filtration, minerals, and specialty-water evidence boundaries.
 - [VOL.27妇产科｜关于生理痛、HPV、避孕、怀孕我们要知道的这些误区和知识点](sources/vol-27-fuchanke-guanyu-shenglitong-hpv-biyun-huaiyun-women-yao-zhidao-de-zhexie-wuqu-he-zhishidian-lsdiuqrn72kocqbldexyzqglbwq6.md) — 这病说来话长 episode on menstrual and gynecological triage, HPV, contraception, prenatal screening limits, pregnancy care, delivery, and postpartum myths.
@@ -3160,6 +3161,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Intermittent Fasting to Improve Health, Cognition & Longevity | Dr. Satchin Panda](sources/intermittent-fasting-to-improve-health-cognition-longevity-dr-satchin-panda-scim5921048014.md) — Huberman Lab interview on circadian meal timing, time-restricted eating, human-versus-mouse evidence, energy-adequacy limits, and a firefighter shift-work trial.
 
 ## Entities
+- [Screen Actors Guild](entities/ScreenActorsGuild.md) — Hollywood performers' union and Reagan training ground in representation, negotiation, labor conflict, and anti-communist politics.
 - [Jackson 刘医生 / Jackson Liu](entities/JacksonLiuGynecologist.md) — Source-scoped clinician guest explaining gynecological and obstetric decisions through symptoms, evidence, risk, and patient context.
 - [蒙医生 / Meng Doctor (fever clinic)](entities/MengDoctorFeverClinic.md) — Source-scoped fever-clinic guest explaining March 2023 influenza workflow, early test uncertainty, care-setting tradeoffs, medication safety, and antibiotic stewardship.
 - [Barry Goldwater](entities/BarryGoldwater.md) — 1964 Republican nominee whose campaign gave Reagan a national breakthrough and exposed a more electorally adaptable conservative successor.
@@ -14519,6 +14521,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Satchin Panda](entities/SatchinPanda.md) — Circadian-biology researcher separating meal timing, fasting duration, energy intake, and evidence limits in animal and human studies.
 
 ## Concepts
+- [Political Performance and Sincerity](concepts/PoliticalPerformanceSincerity.md) — Framework separating genuine conviction, learned public performance, factual reliability, and substantive accountability.
 - [Relational Interpretive Authority / 关系中的解释权](concepts/RelationalInterpretiveAuthority.md) — Power to define a relationship problem while preserving first-person context without claiming infallibility.
 - [Love Control Illusion / 爱的可控性幻觉](concepts/LoveControlIllusion.md) — Breakup pattern where self-blame or diagnosis preserves the hope that affection can be restored through the correct procedure.
 - [Multidimensional Marriage Meaning / 婚姻的多维意义](concepts/MultidimensionalMarriageMeaning.md) — Separation of marriage's legal, social, emotional, psychological, and shared-life dimensions.

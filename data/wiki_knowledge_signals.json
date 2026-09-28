@@ -131226,6 +131226,22 @@
       "updated": "2026-09-24",
       "url": "/wiki/concepts/politicalmartyremulation/"
     },
+    "PoliticalPerformanceSincerity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3254036306 [GLT3254036306].md",
+          "key": "310-ronald-reagan-and-the-american-dream-part-1-glt3254036306",
+          "show": "The Rest Is History",
+          "title": "310: Ronald Reagan and the American Dream (Part 1)",
+          "url": "/wiki/sources/310-ronald-reagan-and-the-american-dream-part-1-glt3254036306/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/politicalperformancesincerity/"
+    },
     "PoliticalRecordDestruction": {
       "episode_count": 2,
       "show_count": 1,
@@ -133633,9 +133649,9 @@
       "url": "/wiki/concepts/presidentialaccessibilitysecuritytradeoff/"
     },
     "PresidentialSymbolicLeadership": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT4042202229 [GLT4042202229].md",
@@ -133650,6 +133666,13 @@
           "show": "The Rest Is History",
           "title": "311: Reagan: The Road to the White House (Part 2)",
           "url": "/wiki/sources/311-reagan-the-road-to-the-white-house-part-2-glt9813084891/"
+        },
+        {
+          "episode_file": "GLT3254036306 [GLT3254036306].md",
+          "key": "310-ronald-reagan-and-the-american-dream-part-1-glt3254036306",
+          "show": "The Rest Is History",
+          "title": "310: Ronald Reagan and the American Dream (Part 1)",
+          "url": "/wiki/sources/310-ronald-reagan-and-the-american-dream-part-1-glt3254036306/"
         }
       ],
       "updated": "2026-09-29",
@@ -144201,9 +144224,9 @@
       "url": "/wiki/entities/romanceofthethreekingdoms/"
     },
     "RonaldReagan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "81.间谍与叛徒：恕我直言，007的故事弱爆了 (下) [693711209].md",
@@ -144225,6 +144248,13 @@
           "show": "The Rest Is History",
           "title": "311: Reagan: The Road to the White House (Part 2)",
           "url": "/wiki/sources/311-reagan-the-road-to-the-white-house-part-2-glt9813084891/"
+        },
+        {
+          "episode_file": "GLT3254036306 [GLT3254036306].md",
+          "key": "310-ronald-reagan-and-the-american-dream-part-1-glt3254036306",
+          "show": "The Rest Is History",
+          "title": "310: Ronald Reagan and the American Dream (Part 1)",
+          "url": "/wiki/sources/310-ronald-reagan-and-the-american-dream-part-1-glt3254036306/"
         }
       ],
       "updated": "2026-09-29",
@@ -147181,6 +147211,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/entities/scottgalloway/"
+    },
+    "ScreenActorsGuild": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3254036306 [GLT3254036306].md",
+          "key": "310-ronald-reagan-and-the-american-dream-part-1-glt3254036306",
+          "show": "The Rest Is History",
+          "title": "310: Ronald Reagan and the American Dream (Part 1)",
+          "url": "/wiki/sources/310-ronald-reagan-and-the-american-dream-part-1-glt3254036306/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/screenactorsguild/"
     },
     "ScreenExitCreativePractice": {
       "episode_count": 1,

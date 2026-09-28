@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2814
+topic_total_pages: 2816
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2770,6 +2770,9 @@ topic_concepts:
   - key: "PoliticalParableWeaponization"
     title: "Political Parable Weaponization / 寓言式政治挑拨"
     url: "/wiki/concepts/politicalparableweaponization/"
+  - key: "PoliticalPerformanceSincerity"
+    title: "Political Performance and Sincerity"
+    url: "/wiki/concepts/politicalperformancesincerity/"
   - key: "PoliticalPropagandaBackfire"
     title: "Political Propaganda Backfire / 政治宣传反噬"
     url: "/wiki/concepts/politicalpropagandabackfire/"
@@ -7467,6 +7470,9 @@ topic_sources:
   - key: "264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0"
     title: "264.库克的道德锚点｜过去15年，库克给苹果留下了什么？"
     url: "/wiki/sources/264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0/"
+  - key: "310-ronald-reagan-and-the-american-dream-part-1-glt3254036306"
+    title: "310: Ronald Reagan and the American Dream (Part 1)"
+    url: "/wiki/sources/310-ronald-reagan-and-the-american-dream-part-1-glt3254036306/"
   - key: "311-reagan-the-road-to-the-white-house-part-2-glt9813084891"
     title: "311: Reagan: The Road to the White House (Part 2)"
     url: "/wiki/sources/311-reagan-the-road-to-the-white-house-part-2-glt9813084891/"

@@ -1491,6 +1491,18 @@
       "url": "/topics/history/"
     }
   ],
+  "310-ronald-reagan-and-the-american-dream-part-1-glt3254036306": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "311-reagan-the-road-to-the-white-house-part-2-glt9813084891": [
     {
       "key": "history",
@@ -59006,6 +59018,13 @@
       "label": "History",
       "url": "/topics/history/"
     },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "PoliticalPerformanceSincerity": [
     {
       "key": "politics",
       "label": "Politics",
