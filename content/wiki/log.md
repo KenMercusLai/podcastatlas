@@ -24439,3 +24439,11 @@ Added source `342-the-trials-of-oscar-wilde-downfall-and-prison-part-2-glt554946
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | 341: The Trials of Oscar Wilde: Sex and Scandal (Part 1)
+
+Added source `341-the-trials-of-oscar-wilde-sex-and-scandal-part-1-glt1940599692`; created `RobbieRoss`, `MarquessOfQueensberry`, and `VictorianHomosexualIdentityFormation`; and updated `OscarWilde`, `AlfredDouglas`, `EdwardCarson`, and the canonical index from their complete bounded source sets. Core synthesis: widened criminal law and emerging identity language made Wilde's private life newly legible and dangerous, while celebrity, unequal relationships, incomplete legal disclosures, Queensberry's campaign, Carson's cross-examination, and Wilde's choice not to flee explain the libel case's collapse without reducing the story to either martyrdom or scandal. No settled contradiction was adopted. Private conduct, witness credibility, political intervention, government motives, and any deliberate opportunity to escape remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2124
+topic_total_pages: 2125
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4692,6 +4692,9 @@ topic_sources:
   - key: "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008"
     title: "318: Hundred Years' War: A Game of Thrones (Part 1)"
     url: "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+  - key: "341-the-trials-of-oscar-wilde-sex-and-scandal-part-1-glt1940599692"
+    title: "341: The Trials of Oscar Wilde: Sex and Scandal (Part 1)"
+    url: "/wiki/sources/341-the-trials-of-oscar-wilde-sex-and-scandal-part-1-glt1940599692/"
   - key: "342-the-trials-of-oscar-wilde-downfall-and-prison-part-2-glt5549466795"
     title: "342: The Trials of Oscar Wilde: Downfall and Prison (Part 2)"
     url: "/wiki/sources/342-the-trials-of-oscar-wilde-downfall-and-prison-part-2-glt5549466795/"

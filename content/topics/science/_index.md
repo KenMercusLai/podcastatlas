@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1286
+topic_total_pages: 1287
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -2134,6 +2134,9 @@ topic_concepts:
   - key: "VestibularLearningActivation"
     title: "Vestibular Learning Activation"
     url: "/wiki/concepts/vestibularlearningactivation/"
+  - key: "VictorianHomosexualIdentityFormation"
+    title: "Victorian Homosexual Identity Formation"
+    url: "/wiki/concepts/victorianhomosexualidentityformation/"
   - key: "VirtualCellWorldModel"
     title: "Virtual Cell World Model"
     url: "/wiki/concepts/virtualcellworldmodel/"

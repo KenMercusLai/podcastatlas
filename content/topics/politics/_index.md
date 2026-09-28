@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2779
+topic_total_pages: 2782
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3853,6 +3853,9 @@ topic_concepts:
   - key: "VibeLawyering"
     title: "Vibe Lawyering"
     url: "/wiki/concepts/vibelawyering/"
+  - key: "VictorianHomosexualIdentityFormation"
+    title: "Victorian Homosexual Identity Formation"
+    url: "/wiki/concepts/victorianhomosexualidentityformation/"
   - key: "VictoryDeterrenceDiplomacy"
     title: "Victory Deterrence Diplomacy / 胜势威慑外交"
     url: "/wiki/concepts/victorydeterrencediplomacy/"
@@ -5903,6 +5906,9 @@ topic_entities:
   - key: "MarkJohnson"
     title: "Mark Johnson"
     url: "/wiki/entities/markjohnson/"
+  - key: "MarquessOfQueensberry"
+    title: "Marquess of Queensberry"
+    url: "/wiki/entities/marquessofqueensberry/"
   - key: "MarquisDeLafayette"
     title: "Marquis de Lafayette"
     url: "/wiki/entities/marquisdelafayette/"
@@ -7380,6 +7386,9 @@ topic_sources:
   - key: "264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0"
     title: "264.库克的道德锚点｜过去15年，库克给苹果留下了什么？"
     url: "/wiki/sources/264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0/"
+  - key: "341-the-trials-of-oscar-wilde-sex-and-scandal-part-1-glt1940599692"
+    title: "341: The Trials of Oscar Wilde: Sex and Scandal (Part 1)"
+    url: "/wiki/sources/341-the-trials-of-oscar-wilde-sex-and-scandal-part-1-glt1940599692/"
   - key: "342-the-trials-of-oscar-wilde-downfall-and-prison-part-2-glt5549466795"
     title: "342: The Trials of Oscar Wilde: Downfall and Prison (Part 2)"
     url: "/wiki/sources/342-the-trials-of-oscar-wilde-downfall-and-prison-part-2-glt5549466795/"

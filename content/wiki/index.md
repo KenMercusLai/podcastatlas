@@ -3086,6 +3086,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [昂跑签下姆巴佩之后，跑鞋品牌做足球生意还有哪些难题？](sources/angpao-qianxia-mubapei-zhihou-paoxie-pinpai-zuo-zuqiu-shengyi-haiyou-naxie-nanti-1018738205.md) — 声动早咖啡 episode on On Running's Mbappe partnership, football-market entry barriers, Meta AI hardware, iQIYI medium-length dramas, and H&M cost pressure.
 - [How to Improve Your Eye Health & Offset Vision Loss | Dr. Jeffrey Goldberg](sources/how-to-improve-your-eye-health-offset-vision-loss-dr-jeffrey-goldberg-scim5633963628.md) — Huberman Lab interview on visual development, prevention, optical correction, contact and dry-eye care, silent eye disease, treatment adherence, and emerging-intervention boundaries.
 - [342: The Trials of Oscar Wilde: Downfall and Prison (Part 2)](sources/342-the-trials-of-oscar-wilde-downfall-and-prison-part-2-glt5549466795.md) — The Rest Is History episode on Wilde's criminal trials, imprisonment, establishment sympathy, unequal-status relationships, exile, and queer cultural afterlife.
+- [341: The Trials of Oscar Wilde: Sex and Scandal (Part 1)](sources/341-the-trials-of-oscar-wilde-sex-and-scandal-part-1-glt1940599692.md) — The Rest Is History episode on Wilde's celebrity, changing sexual law and identity, unequal relationships, the Queensberry conflict, and the failed libel prosecution.
 
 ## Entities
 - [Cockpunch](entities/Cockpunch.md) — Tim Ferriss creative project combining emergent fiction, illustration, digital experiments, philanthropy, and public creative risk.
@@ -6826,7 +6827,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ghezo](entities/Ghezo.md) — Dahomey king under whom the Agojie became a more formal fighting unit in the source account.
 - [The Troubles](entities/TheTroubles.md) — Northern Ireland conflict branch framed through partition, institutional discrimination, loyalist violence, civil-rights protest, and street-war escalation.
 - [Northern Ireland](entities/NorthernIreland.md) — UK region where partition, Catholic grievances, unionist fear, policing legitimacy, and Westminster intervention converge in the sources.
-- [Edward Carson](entities/EdwardCarson.md) — Unionist leader whose 1912 covenant and volunteers supply an armed-precedent memory in the Part 1 source.
+- [Edward Carson](entities/EdwardCarson.md) — Barrister whose Queensberry defense defeated Wilde's libel case and unionist leader whose 1912 mobilization supplied a later armed precedent.
 - [James Craig](entities/JamesCraig.md) — First Northern Ireland prime minister used by the source to frame Protestant-state identity and institutional exclusion.
 - [Terence O'Neill](entities/TerenceONeill.md) — Northern Ireland prime minister whose modernization, Lemass contact, reform appeal, and authority collapse structure the two-part narrative.
 - [Sean Lemass](entities/SeanLemass.md) — Irish Taoiseach whose 1965 Belfast visit gave O'Neill a normalization symbol and Paisley a betrayal target.
@@ -12071,6 +12072,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《坎特维尔的幽灵》 / The Canterville Ghost](entities/TheCantervilleGhost.md) — Wilde ghost story read as Anglo-American cultural comedy that turns haunting into practical nuisance and eventual tenderness.
 - [《自深深处》 / De Profundis](entities/DeProfundis.md) — Wilde prison letter joining accusation, attachment, dependency, punishment, and the limited custodial kindness that enabled its composition.
 - [Lord Alfred Douglas / 波西](entities/AlfredDouglas.md) — Wilde's lover and prison-letter addressee, marked by legal conflict, post-release reunion, and a later reversal against homosexuality.
+- [Robbie Ross](entities/RobbieRoss.md) — Wilde friend linked to a sexual turning point and encouragement of the failed Queensberry prosecution.
+- [Marquess of Queensberry](entities/MarquessOfQueensberry.md) — Alfred Douglas's father whose threats, accusation, and justification defense drove Wilde's legal collapse.
 - [Andre Gide / 安德烈·纪德](entities/AndreGide.md) — Writer whose memory of Wilde's oral storytelling helps episode 10 connect social performance, rhythm, aphorism, and life imitating art.
 - [《道连·格雷的画像》 / The Picture of Dorian Gray](entities/ThePictureOfDorianGray.md) — Wilde novel invoked by episode 10 as an example of aphoristic density and the tension between brilliant sentences and work-level unity.
 - [《快乐王子》 / The Happy Prince](entities/TheHappyPrince.md) — Familiar Wilde fairy tale used as a sad sacrificial-beauty contrast to the black-comic and ghost-story range of 《王尔德奇异故事集》.
@@ -14298,6 +14301,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Raiders of the Lost Ark](entities/RaidersOfTheLostArk.md) — Adventure film that translates the Ark's dangerous holiness into an ultimate-weapon race against Nazi Germany.
 
 ## Concepts
+- [Victorian Homosexual Identity Formation](concepts/VictorianHomosexualIdentityFormation.md) — Late-19th-century interaction of wider criminalization, medical classification, affirmative language, and celebrity stigma around male same-sex desire.
 - [Edge-Case Opportunity Discovery](concepts/EdgeCaseOpportunityDiscovery.md) — Method for finding hypotheses through extreme users, emerging behavior, awkward workarounds, dogmatic assumptions, and uncrowded access.
 - [Experimental Life Design](concepts/ExperimentalLifeDesign.md) — Framework using bounded projects, reflective questions, schedule design, and de-optimization to test better fits among work, identity, attention, and recovery.
 - [Wartime Scientific Mobilization](concepts/WartimeScientificMobilization.md) — concentration of scientific talent, military authority, resources, secrecy, and coordination around an urgent strategic objective.

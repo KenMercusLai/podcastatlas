@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 11189
+wiki_total_pages: 11191
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -422,6 +422,9 @@ wiki_pages:
   - key: "Maropost"
     title: "Maropost"
     url: "/wiki/entities/maropost/"
+  - key: "MarquessOfQueensberry"
+    title: "Marquess of Queensberry"
+    url: "/wiki/entities/marquessofqueensberry/"
   - key: "MarquisDeLafayette"
     title: "Marquis de Lafayette"
     url: "/wiki/entities/marquisdelafayette/"

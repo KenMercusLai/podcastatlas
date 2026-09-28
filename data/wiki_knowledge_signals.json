@@ -7641,9 +7641,9 @@
       "url": "/wiki/concepts/alexandrianlibrarymyth/"
     },
     "AlfredDouglas": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "10.王尔德奇异故事集：用最会撒谎的嘴唇亲吻天使 [545332195].md",
@@ -7658,6 +7658,13 @@
           "show": "The Rest Is History",
           "title": "342: The Trials of Oscar Wilde: Downfall and Prison (Part 2)",
           "url": "/wiki/sources/342-the-trials-of-oscar-wilde-downfall-and-prison-part-2-glt5549466795/"
+        },
+        {
+          "episode_file": "GLT1940599692 [GLT1940599692].md",
+          "key": "341-the-trials-of-oscar-wilde-sex-and-scandal-part-1-glt1940599692",
+          "show": "The Rest Is History",
+          "title": "341: The Trials of Oscar Wilde: Sex and Scandal (Part 1)",
+          "url": "/wiki/sources/341-the-trials-of-oscar-wilde-sex-and-scandal-part-1-glt1940599692/"
         }
       ],
       "updated": "2026-09-28",
@@ -45905,6 +45912,29 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/concepts/educationmotivationarchitecture/"
+    },
+    "EdwardCarson": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "GLT4877520736 [GLT4877520736].md",
+          "key": "697-the-troubles-murder-in-belfast-part-1-glt4877520736",
+          "show": "The Rest Is History",
+          "title": "697. The Troubles: Murder in Belfast (Part 1)",
+          "url": "/wiki/sources/697-the-troubles-murder-in-belfast-part-1-glt4877520736/"
+        },
+        {
+          "episode_file": "GLT1940599692 [GLT1940599692].md",
+          "key": "341-the-trials-of-oscar-wilde-sex-and-scandal-part-1-glt1940599692",
+          "show": "The Rest Is History",
+          "title": "341: The Trials of Oscar Wilde: Sex and Scandal (Part 1)",
+          "url": "/wiki/sources/341-the-trials-of-oscar-wilde-sex-and-scandal-part-1-glt1940599692/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/edwardcarson/"
     },
     "EdwardGrey": {
       "episode_count": 3,
@@ -105056,6 +105086,22 @@
       "updated": "2026-09-24",
       "url": "/wiki/entities/maropost/"
     },
+    "MarquessOfQueensberry": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1940599692 [GLT1940599692].md",
+          "key": "341-the-trials-of-oscar-wilde-sex-and-scandal-part-1-glt1940599692",
+          "show": "The Rest Is History",
+          "title": "341: The Trials of Oscar Wilde: Sex and Scandal (Part 1)",
+          "url": "/wiki/sources/341-the-trials-of-oscar-wilde-sex-and-scandal-part-1-glt1940599692/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/marquessofqueensberry/"
+    },
     "MarquisDeLafayette": {
       "episode_count": 7,
       "show_count": 1,
@@ -118482,9 +118528,9 @@
       "url": "/wiki/concepts/orthokeratologymyopiacontrol/"
     },
     "OscarWilde": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "60.闲聊伟大作家们的八卦（第一弹） [648693204].md",
@@ -118506,6 +118552,13 @@
           "show": "The Rest Is History",
           "title": "342: The Trials of Oscar Wilde: Downfall and Prison (Part 2)",
           "url": "/wiki/sources/342-the-trials-of-oscar-wilde-downfall-and-prison-part-2-glt5549466795/"
+        },
+        {
+          "episode_file": "GLT1940599692 [GLT1940599692].md",
+          "key": "341-the-trials-of-oscar-wilde-sex-and-scandal-part-1-glt1940599692",
+          "show": "The Rest Is History",
+          "title": "341: The Trials of Oscar Wilde: Sex and Scandal (Part 1)",
+          "url": "/wiki/sources/341-the-trials-of-oscar-wilde-sex-and-scandal-part-1-glt1940599692/"
         }
       ],
       "updated": "2026-09-28",
@@ -135977,6 +136030,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/robbenisland/"
+    },
+    "RobbieRoss": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1940599692 [GLT1940599692].md",
+          "key": "341-the-trials-of-oscar-wilde-sex-and-scandal-part-1-glt1940599692",
+          "show": "The Rest Is History",
+          "title": "341: The Trials of Oscar Wilde: Sex and Scandal (Part 1)",
+          "url": "/wiki/sources/341-the-trials-of-oscar-wilde-sex-and-scandal-part-1-glt1940599692/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/robbieross/"
     },
     "RobertFKennedy": {
       "episode_count": 2,
@@ -163072,6 +163141,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/victorklemperer/"
+    },
+    "VictorianHomosexualIdentityFormation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1940599692 [GLT1940599692].md",
+          "key": "341-the-trials-of-oscar-wilde-sex-and-scandal-part-1-glt1940599692",
+          "show": "The Rest Is History",
+          "title": "341: The Trials of Oscar Wilde: Sex and Scandal (Part 1)",
+          "url": "/wiki/sources/341-the-trials-of-oscar-wilde-sex-and-scandal-part-1-glt1940599692/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/victorianhomosexualidentityformation/"
     },
     "VideoPodcastAffordance": {
       "episode_count": 4,

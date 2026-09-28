@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2881
+topic_total_pages: 2883
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -4949,6 +4949,9 @@ topic_entities:
   - key: "RobbieMcCluskey"
     title: "Robbie McCluskey"
     url: "/wiki/entities/robbiemccluskey/"
+  - key: "RobbieRoss"
+    title: "Robbie Ross"
+    url: "/wiki/entities/robbieross/"
   - key: "RobertGraves"
     title: "Robert Graves"
     url: "/wiki/entities/robertgraves/"
@@ -7923,6 +7926,9 @@ topic_sources:
   - key: "33-renjian-shige-danxiaogui-de-zhuanglie-xianji-599924624"
     title: "33.人间失格：胆小鬼的壮烈献祭"
     url: "/wiki/sources/33-renjian-shige-danxiaogui-de-zhuanglie-xianji-599924624/"
+  - key: "341-the-trials-of-oscar-wilde-sex-and-scandal-part-1-glt1940599692"
+    title: "341: The Trials of Oscar Wilde: Sex and Scandal (Part 1)"
+    url: "/wiki/sources/341-the-trials-of-oscar-wilde-sex-and-scandal-part-1-glt1940599692/"
   - key: "342-the-trials-of-oscar-wilde-downfall-and-prison-part-2-glt5549466795"
     title: "342: The Trials of Oscar Wilde: Downfall and Prison (Part 2)"
     url: "/wiki/sources/342-the-trials-of-oscar-wilde-downfall-and-prison-part-2-glt5549466795/"

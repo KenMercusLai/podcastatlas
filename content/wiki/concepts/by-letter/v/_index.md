@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "v"
-wiki_total_pages: 8594
+wiki_total_pages: 8595
 wiki_pages:
   - key: "VacationShame"
     title: "Vacation Shame / 休假羞耻感"
@@ -188,6 +188,9 @@ wiki_pages:
   - key: "VictorianAntiDidacticChildrensLiterature"
     title: "Victorian Anti-Didactic Children's Literature"
     url: "/wiki/concepts/victorianantididacticchildrensliterature/"
+  - key: "VictorianHomosexualIdentityFormation"
+    title: "Victorian Homosexual Identity Formation"
+    url: "/wiki/concepts/victorianhomosexualidentityformation/"
   - key: "VictorianWomenPrecarity"
     title: "Victorian Women Precarity"
     url: "/wiki/concepts/victorianwomenprecarity/"

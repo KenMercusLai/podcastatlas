@@ -1521,6 +1521,23 @@
       "url": "/topics/culture/"
     }
   ],
+  "341-the-trials-of-oscar-wilde-sex-and-scandal-part-1-glt1940599692": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "342-the-trials-of-oscar-wilde-downfall-and-prison-part-2-glt5549466795": [
     {
       "key": "history",
@@ -48721,6 +48738,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "MarquessOfQueensberry": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "MarquisDeLafayette": [
     {
       "key": "politics",
@@ -63648,6 +63672,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "RobbieRoss": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "RobbyWokbot": [
     {
       "key": "technology",
@@ -78011,6 +78042,18 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "VictorianHomosexualIdentityFormation": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "VictoryDeterrenceDiplomacy": [
