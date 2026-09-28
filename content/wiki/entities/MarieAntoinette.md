@@ -11,19 +11,22 @@ sources:
   - 481-the-french-revolution-the-womens-march-on-versailles-part-7-glt9783455254
   - 476-the-french-revolution-the-diamond-necklace-scandal-part-2-glt9914208350
   - 475-the-french-revolution-marie-antoinette-part-1-glt3119389535
+  - 709-the-terror-the-execution-of-marie-antoinette-part-3-glt8774364224
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-24
+last_updated: 2026-09-28
 ---
 
 # Marie Antoinette
 
 ## Overview
 
-Marie Antoinette was the Austrian-born French queen whose resistance to [[Versailles]] etiquette, private sociability, and fashion leadership made her a contested public symbol before her innocence in the [[DiamondNecklaceAffair|Diamond Necklace Affair]] failed to prevent reputational damage. Her later information-sharing with Austria deepened the monarchy's wartime legitimacy crisis, while her imprisonment and relationship with [[PrincesseDeLamballe|the Princesse de Lamballe]] became targets of revolutionary propaganda.
+Marie Antoinette was the Austrian-born French queen whose resistance to [[Versailles]] etiquette, private sociability, and fashion leadership made her a contested public symbol before her innocence in the [[DiamondNecklaceAffair|Diamond Necklace Affair]] failed to prevent reputational damage. Her later information-sharing with Austria deepened the monarchy's wartime legitimacy crisis; imprisonment, sexualized propaganda, trial, and execution then made her a principal target of revolutionary [[DeRoyalizationRitual|de-royalization]].
 
 ## Current Profile
 
 The sources present Marie Antoinette as both an object of fabricated, gendered enemy-making and, later, a participant in royal resistance and duplicity. Born Maria Antonia in 1755, [[MariaTheresa|Maria Theresa]]'s daughter entered France at fourteen through a diplomatic marriage and was ceremonially remade as a French dauphine while remaining publicly marked as Austrian. She found Versailles surveillance and hierarchy oppressive, resisted etiquette, cultivated privacy at the [[PetitTrianon|Petit Trianon]], and used music, friendship, dress, hair, and sentimental simplicity to define a more personal royal style. Those choices expanded her agency but blurred the expected distinction between queen and royal mistress; court factions turned informality, foreignness, friendship, and consumption into sexual and financial rumor before revolutionaries inherited the stories. In the [[DiamondNecklaceAffair|Diamond Necklace Affair]], she neither ordered nor received the necklace, yet the open trial and [[CardinalDeRohan|Rohan]]'s acquittal made secret extravagance appear plausible to audiences already primed by those attacks. Before [[OctoberDays1789|the October Days]], hunger and court suspicion were again personalized against her through vampire language and sexualized reports about the Flanders Regiment banquet. The palace attack nearly reached her rooms, and the forced procession to Paris became a personal trauma as well as a constitutional break. Her treatment after the march and the later Saint-Cloud confrontation hardened her opposition to the Revolution. With [[AxelVonFersen|Axel von Fersen]], she helped prepare [[FlightToVarennes|the family escape]] and insisted that the children and household travel together, increasing its operational exposure. After Varennes, she secretly corresponded with [[AntoineBarnave|Antoine Barnave]] while telling Vienna that cooperation with his constitutional settlement was tactical and would later be reversed. Before war she hoped either French victory would restore royal credit or French defeat would enable Austrian rescue; once conflict approached, she communicated with the Austrian ambassador and transmitted French military plans. That later conduct gave substance to suspicions of court betrayal without retroactively validating the earlier rumors or necklace fraud.
+
+After Louis XVI's execution, the regime called her “Widow Capet,” separated her from [[LouisCharles|Louis-Charles]], moved her from the Temple to the Conciergerie, and tried her before the [[RevolutionaryTribunal]]. The financial ruin and incest allegations were false or unsupported, but the treason charge had a genuine factual core not fully available to her prosecutors. Her common-criminal transport, binding, haircut, execution, and pauper burial made death part of a wider destruction of royal status. The sources therefore resist both the innocent-martyr and depraved-enemy caricatures: sympathy for her dehumanization can coexist with judgment of her counter-revolutionary conduct.
 
 ## Key Characteristics
 
@@ -33,7 +36,7 @@ The sources present Marie Antoinette as both an object of fabricated, gendered e
 - She treated cooperation with Barnave's 1791 settlement as a tactical step while appealing to Austria and anticipating a later reversal.
 - She treated both French victory and defeat as possible routes to restoration of monarchical power.
 - She urged Louis toward visible resolve during the 10 August palace crisis.
-- She was imprisoned with the royal family after the Tuileries insurrection, while Lamballe's loyalty and later death fed further sexualized propaganda.
+- Imprisonment, separation from Louis-Charles, weak and valid trial allegations, common-criminal execution, and pauper burial joined personal punishment to the symbolic destruction of monarchy.
 
 ## Evidence
 
@@ -65,6 +68,10 @@ The sources present Marie Antoinette as both an object of fabricated, gendered e
 
 - [[544-the-french-revolution-the-september-massacres-part-1-glt8301042051]] connects Lamballe's loyalty, pamphlet claims about the women, and the sexualized atrocity narratives following Lamballe's murder.
 
+### Trial, execution, and dynastic erasure
+
+- [[709-the-terror-the-execution-of-marie-antoinette-part-3-glt8774364224]] distinguishes fabricated sexual and financial accusations from documented treason, then connects separation from Louis-Charles, the Conciergerie, trial, execution, burial, and Hébert's propaganda to the destruction of royal identity.
+
 ## Qualifications
 
 - These sources do not provide a full biography or complete assessment of her revolutionary politics.
@@ -77,13 +84,15 @@ The sources present Marie Antoinette as both an object of fabricated, gendered e
 - Her charitable acts and sentimental simplicity complicate a flat decadence caricature without erasing royal privilege or proving that every expense and style choice was politically harmless.
 - The sources do not establish a sexual relationship with Fersen or women in her circle, and they reject the attribution of "let them eat cake" to her.
 - Sympathy for the danger she faced must not erase the hunger and political exclusion experienced by women in the crowd.
+- The new source's trial dialogue, witness descriptions, prison details, crowd response, and claims about the lasting destruction of monarchical mystique remain episode-scoped.
 
 ## What Changed
 
 - Backfilled her Habsburg childhood, diplomatic marriage, ceremonial transfer to France, and early resistance to Versailles etiquette.
 - Added the Petit Trianon, charitable practice, fashion collaboration, and private circle as both forms of agency and sources of public exposure.
 - Located sexual, financial, and anti-Austrian rumor inside court faction before the Diamond Necklace Affair and Revolution.
-- Preserved the boundary between unsupported early rumor and later evidence-backed royal resistance and Austrian information-sharing.
+- Preserved the boundary between unsupported early rumor and evidence-backed royal resistance, Austrian information-sharing, and treason, while rejecting personal-bankruptcy, incest, and sexual-depravity allegations.
+- Added the separation from Louis-Charles and her common-criminal execution as a dynastic as well as personal punishment.
 
 ## Relationships
 
@@ -107,3 +116,6 @@ The sources present Marie Antoinette as both an object of fabricated, gendered e
 - [[PetitTrianon]] - private retreat whose simplicity and intimacy acquired hostile public meanings.
 - [[RoseBertin]] - dressmaker who collaborated in her influential personal fashion.
 - [[LouisXV]] - reigning king and court patriarch at her arrival in France.
+- [[LouisCharles]] - son whose claimed succession, forced separation, and abuse made motherhood part of her political destruction.
+- [[JacquesHebert]] - propagandist and Commune official who promoted dehumanizing accusations against her and intervened in royal custody.
+- [[DeRoyalizationRitual]] - process linking imposed names, imprisonment, trial, bodily treatment, execution, and burial to the destruction of royal exception.

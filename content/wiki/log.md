@@ -24371,3 +24371,11 @@ Added source `how-to-improve-your-eye-health-offset-vision-loss-dr-jeffrey-goldb
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | 709. The Terror: The Execution of Marie Antoinette (Part 3)
+
+Added source `709-the-terror-the-execution-of-marie-antoinette-part-3-glt8774364224`; created `LouisCharles` and `JacquesHebert`; and updated `MarieAntoinette`, `DeRoyalizationRitual`, and the canonical index from their complete bounded source sets. Core synthesis: the episode separates fabricated sexual and financial accusations from Marie Antoinette's documented counter-revolutionary conduct, while showing how imposed names, propaganda, custody, re-education, tomb destruction, common-criminal procedure, execution, and burial attacked monarchy as identity and historical memory. No settled contradiction was adopted. Royalist bias in accounts of Louis-Charles, trial reactions, publication estimates, witness descriptions, and claims about permanently destroyed monarchical mystique remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

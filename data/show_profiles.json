@@ -926,14 +926,14 @@
       "earliest_episode_date": "2020-11-02",
       "latest_episode_date": "2026-09-27",
       "latest_episode_file": "GLT8774364224 [GLT8774364224].md",
-      "source_note_count": 255,
-      "topic_matched_source_note_count": 238,
+      "source_note_count": 256,
+      "topic_matched_source_note_count": 239,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 236
+          "source_note_count": 237
         },
         {
           "key": "politics",
@@ -961,6 +961,13 @@
           "url": "/wiki/entities/louisxvi/",
           "kind": "person",
           "episode_count": 12
+        },
+        {
+          "key": "MarieAntoinette",
+          "title": "Marie Antoinette",
+          "url": "/wiki/entities/marieantoinette/",
+          "kind": "person",
+          "episode_count": 9
         },
         {
           "key": "MaximilienRobespierre",
@@ -991,13 +998,6 @@
           "episode_count": 8
         },
         {
-          "key": "MarieAntoinette",
-          "title": "Marie Antoinette",
-          "url": "/wiki/entities/marieantoinette/",
-          "kind": "person",
-          "episode_count": 8
-        },
-        {
           "key": "ElizabethI",
           "title": "Elizabeth I",
           "url": "/wiki/entities/elizabethi/",
@@ -1013,7 +1013,7 @@
         }
       ],
       "start_here_episode_files": [
-        "GLT2099451333 [GLT2099451333].md",
+        "GLT8774364224 [GLT8774364224].md",
         "GLT6013835340 [GLT6013835340].md",
         "GLT2882541084 [GLT2882541084].md",
         "GLT9598017819 [GLT9598017819].md"

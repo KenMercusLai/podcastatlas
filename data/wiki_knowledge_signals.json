@@ -38540,9 +38540,9 @@
       "url": "/wiki/entities/dbt/"
     },
     "DeRoyalizationRitual": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2184509954 [GLT2184509954].md",
@@ -38550,9 +38550,16 @@
           "show": "The Rest Is History",
           "title": "547. The French Revolution: The Execution of the King (Part 4)",
           "url": "/wiki/sources/547-the-french-revolution-the-execution-of-the-king-part-4-glt2184509954/"
+        },
+        {
+          "episode_file": "GLT8774364224 [GLT8774364224].md",
+          "key": "709-the-terror-the-execution-of-marie-antoinette-part-3-glt8774364224",
+          "show": "The Rest Is History",
+          "title": "709. The Terror: The Execution of Marie Antoinette (Part 3)",
+          "url": "/wiki/sources/709-the-terror-the-execution-of-marie-antoinette-part-3-glt8774364224/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/deroyalizationritual/"
     },
     "DealeyPlaza": {
@@ -83194,6 +83201,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/jacquelinekennedyonassis/"
     },
+    "JacquesHebert": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8774364224 [GLT8774364224].md",
+          "key": "709-the-terror-the-execution-of-marie-antoinette-part-3-glt8774364224",
+          "show": "The Rest Is History",
+          "title": "709. The Terror: The Execution of Marie Antoinette (Part 3)",
+          "url": "/wiki/sources/709-the-terror-the-execution-of-marie-antoinette-part-3-glt8774364224/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/jacqueshebert/"
+    },
     "JacquesLouisDavid": {
       "episode_count": 3,
       "show_count": 2,
@@ -99410,6 +99433,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/entities/louisantoinesaintjust/"
     },
+    "LouisCharles": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8774364224 [GLT8774364224].md",
+          "key": "709-the-terror-the-execution-of-marie-antoinette-part-3-glt8774364224",
+          "show": "The Rest Is History",
+          "title": "709. The Terror: The Execution of Marie Antoinette (Part 3)",
+          "url": "/wiki/sources/709-the-terror-the-execution-of-marie-antoinette-part-3-glt8774364224/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/louischarles/"
+    },
     "LouisMoreauGottschalk": {
       "episode_count": 1,
       "show_count": 1,
@@ -104179,9 +104218,9 @@
       "url": "/wiki/entities/marianne/"
     },
     "MarieAntoinette": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "GLT8301042051 [GLT8301042051].md",
@@ -104238,9 +104277,16 @@
           "show": "The Rest Is History",
           "title": "475. The French Revolution: Marie Antoinette (Part 1)",
           "url": "/wiki/sources/475-the-french-revolution-marie-antoinette-part-1-glt3119389535/"
+        },
+        {
+          "episode_file": "GLT8774364224 [GLT8774364224].md",
+          "key": "709-the-terror-the-execution-of-marie-antoinette-part-3-glt8774364224",
+          "show": "The Rest Is History",
+          "title": "709. The Terror: The Execution of Marie Antoinette (Part 3)",
+          "url": "/wiki/sources/709-the-terror-the-execution-of-marie-antoinette-part-3-glt8774364224/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/marieantoinette/"
     },
     "MarineLePen": {

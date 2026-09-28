@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 11173
+wiki_total_pages: 11175
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -752,6 +752,9 @@ wiki_pages:
   - key: "LouisXVI"
     title: "Louis XVI"
     url: "/wiki/entities/louisxvi/"
+  - key: "LouisCharles"
+    title: "Louis-Charles / Louis XVII"
+    url: "/wiki/entities/louischarles/"
   - key: "LouisaMayAlcott"
     title: "Louisa May Alcott / 奥尔科特"
     url: "/wiki/entities/louisamayalcott/"
