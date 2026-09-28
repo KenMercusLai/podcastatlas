@@ -11,68 +11,56 @@ sources:
   - 400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4
   - 398-yi-chang-meiguo-guancha-mantan-shijiebei-hongpai-nanfei-bairen-laogong-b28f7eaa-c801-4d5f-a6e5-35326d335df7
   - 405-cong-dili-bianjie-dao-siwei-bianjie-women-ruhe-bei-huajie-suzao-16a80abc
-last_updated: 2026-09-20
+  - 184-weile-zai-suanfa-shidai-bei-tingjian-women-gaibian-le-duoshao-ziji-duitan-shengdongjixi-zhangjing-lpotw0uqivlj8m6otnoxh0kahee5
+last_updated: 2026-09-28
 ---
 
 # 声东击西
 
 ## Overview
-声东击西 is a Chinese podcast/media context in the wiki, represented through AI-infrastructure interviews, vibe-coding crossovers, aviation-history roundtables, humanitarian field reporting, platform-governance discussions, and U.S. political field observation.
+
+声东击西 is a Chinese podcast/media project represented in the wiki through cross-domain conversations on AI, aviation, humanitarian aid, platform governance, U.S. politics and migration, border history, journalism, and creator life under algorithms.
 
 ## Current Profile
-The show's current wiki role is cross-domain conversation. Its AI episodes use Xu Tao's host position to connect non-technical users, entrepreneurs, and engineers with AI infrastructure, agent verification, and workflow automation. The aviation episode shows the same format applied to cities and infrastructure: host, expert guest, and industry/event setting combine to make a technical system legible to general listeners.
 
-The South Sudan episode extends the same translation role into humanitarian aid. Rather than treating hunger as only a statistic, the show uses Wang Hongrui's field testimony to connect WFP operations, refugee registration, cash support, nutrition thresholds, school meals, and donor funding gaps to concrete family encounters.
+Across the bounded sources, 声东击西 functions as a conversational bridge between specialist systems and everyday experience. [[XuTao|徐涛]]'s episodes translate AI infrastructure, agent workflows, aviation networks, food-aid operations, platform law, migrant labor, and historical borders through interviews and field-grounded examples rather than a single narrow beat.
 
-The social-media regulation episode supplies a policy-accountability version of this bridge. Xu Tao and Fang Kecheng translate lawsuits, [[Section230]], age bans, internal platform research, and the [[BigTobaccoPlatformAnalogy]] into a practical question about who should bear responsibility for youth social-media harms.
-
-Episode 398 adds a U.S. public-affairs field-reporting role. [[XuTao|徐涛]] and [[LiuXiaoqian|刘萧千]] connect World Cup rule politics, [[AmericanExceptionalism]], [[DonaldTrump]], white South African workers in [[Mississippi]], and [[WhiteVictimhoodNarrative]] into one conversation about how abstract identity narratives look when reporters observe labor, visas, local race relations, and belonging on the ground.
-
-Episode 405 adds a historical-geography version of the same translation work. Xu Tao and [[SongNianshen|宋念申]] move from Xita street memory and Tumen-Yalu border life to [[ModernBoundaryHardening]], colonial categories, international law, political economy, and the boundaries of academic knowledge.
-
-Across the current sources, 声东击西 functions less as a narrow beat and more as a conversational bridge between specialist systems and everyday experience, whether the system is AI coding, civil aviation, humanitarian food assistance, platform regulation, U.S. race-and-immigration politics, or the historical production of borders.
+The latest crossover adds co-founder [[ZhangJingShengdongJixi|张晶]] and makes the show's own media practice an object of inquiry. Her reporting and podcast experience connects overlooked-person documentation, voice, long-form reasoning, listener relationship, professional community, and hidden production labor to the pressures of recommendation feeds and AI summaries. This deepens the project's current profile from cross-domain translation into explicit reflection on what communication is for.
 
 ## Key Characteristics
-- Podcast/show context where Xu Tao hosts cross-domain technical and social conversations.
-- AI-infrastructure and agent-workflow bridge through Jia Yangqing and Fengyan Fengyu crossovers.
-- Public live-event format in the Cathay aviation episode, connecting brand history with city and infrastructure discussion.
-- Humanitarian field-report format in the South Sudan episode, connecting WFP operations with refugee hunger and aid cuts.
-- Platform-governance format in the social-media regulation episode, connecting child-safety law, product design, and public-health analogy.
-- U.S. field-reporting format in the Mississippi episode, connecting sports politics, immigration selectivity, race, and labor vulnerability.
-- Historical-geography format connecting local place, ordinary lives, state systems, and global modernity.
+
+- Cross-domain interview and roundtable format translating specialist systems for general listeners.
+- Field-reporting orientation that connects institutions to concrete people, places, and operational constraints.
+- Technology coverage that keeps infrastructure, verification, permission, and human judgment visible.
+- Public-affairs coverage spanning humanitarian aid, platform responsibility, migration, identity, borders, and law.
+- Long-form media practice that values reasoning, voice, relationship, and overlooked subjects alongside efficient information transfer.
+- Flexible use of studio conversations, crossovers, branded live events, and first-person field accounts.
 
 ## Evidence
-- AI infrastructure interview: [[jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-chuantai-shengdongjixi-s10e24-a3884ade-4669-4d5c-ab2e-f98aa580f429]] has Xu Tao interview Jia Yangqing about deep-learning history, AI infrastructure, Lepton AI, agent reliability, and human judgment.
-- Vibe-coding crossover: [[vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1]] places 声东击西 in a conversation with Justin Yan and Wang Junyu on OpenClaw, vibe coding, and media-workflow prototypes.
-- Aviation roundtable: [[403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d]] records a Cathay anniversary live event where Xu Tao, Ma Xiao, and Zhang Jin discuss flight, cities, society, and passenger experience.
-- Humanitarian field report: [[402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de]] has Xu Tao interview Wang Hongrui about WFP work, South Sudan refugee hunger, aid cuts, and the limits of witnessing.
-- Platform regulation: [[400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4]] has Xu Tao and Fang Kecheng discuss youth social-media age bans, platform responsibility, internal documents, and the Big Tobacco analogy.
-- U.S. political field reporting: [[398-yi-chang-meiguo-guancha-mantan-shijiebei-hongpai-nanfei-bairen-laogong-b28f7eaa-c801-4d5f-a6e5-35326d335df7]] has Xu Tao and Liu Xiaoqian connect Los Angeles World Cup observation with Mississippi reporting on white South African farm workers.
-- Border history: [[405-cong-dili-bianjie-dao-siwei-bianjie-women-ruhe-bei-huajie-suzao-16a80abc]] connects Xu Tao's Xita visit with Song Nianshen's Tumen-Yalu research and a wider account of identity, colonialism, law, and disciplines.
+
+- AI and work translation: [[jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-chuantai-shengdongjixi-s10e24-a3884ade-4669-4d5c-ab2e-f98aa580f429]] links AI history to infrastructure and verification; [[vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1]] connects agent tools to non-technical builders, production boundaries, and organizational training.
+- Infrastructure and humanitarian systems: [[403-cong-bashi-nian-feixing-shi-kan-chengshi-shehui-he-women-ziji-de-gaibian-guotai-hangkong-x-shengdongjixi-53eaa77d]] makes aviation legible through cities, cargo, routes, and passenger experience; [[402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de]] grounds WFP operations in refugee registration, nutrition triage, and family encounters.
+- Platform and political accountability: [[400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4]] connects youth harm to product design and liability; [[398-yi-chang-meiguo-guancha-mantan-shijiebei-hongpai-nanfei-bairen-laogong-b28f7eaa-c801-4d5f-a6e5-35326d335df7]] tests racialized migration narratives against Mississippi labor reporting.
+- Historical and methodological breadth: [[405-cong-dili-bianjie-dao-siwei-bianjie-women-ruhe-bei-huajie-suzao-16a80abc]] moves from neighborhood and borderland memory to colonial categories, international law, and interdisciplinary inquiry.
+- Media self-reflection: [[184-weile-zai-suanfa-shidai-bei-tingjian-women-gaibian-le-duoshao-ziji-duitan-shengdongjixi-zhangjing-lpotw0uqivlj8m6otnoxh0kahee5]] has Zhang Jing connect reporting, podcasting, creator operations, algorithms, AI compression, and communication as shared participation.
 
 ## Qualifications
-The current page reflects only ingested episodes. It does not describe the show's full catalog, audience, production history, or editorial positioning outside these source notes. The social-media regulation, Mississippi, and border-history sources are clearly argued episodes, so their judgments should remain source-scoped rather than treated as the show's complete positions on technology regulation, migration, international law, colonialism, or geopolitics.
+
+This profile reflects only the ingested sources, not the show's full catalog, audience, production history, or official editorial position. Several sources are crossovers, branded events, or first-person field accounts. Their factual figures, legal timelines, causal claims, and participant judgments remain bounded to the relevant source notes rather than becoming blanket positions of the show.
 
 ## What Changed
-- Migrated the page to `synthesis-v1`.
-- Added the South Sudan WFP episode as a humanitarian-aid domain alongside AI-work and aviation-infrastructure conversations.
-- Added the youth social-media regulation episode as a platform-governance domain.
-- Added episode 398 as a U.S. field-reporting and identity-politics domain.
-- Added episode 405 as a border history, modernity, and interdisciplinary-method domain.
+
+- Added Zhang Jing's media-practice account to the show's existing cross-domain translation profile.
+- Added explicit creator-side reflection on recommendation, AI summaries, long-form relationship, and hidden production labor.
 
 ## Relationships
-- [[XuTao]] - host represented across all current 声东击西 sources.
-- [[ShengdongHuopo]] - media organization context.
-- [[CathayPacific]] - branded aviation-event partner in the new source.
-- [[AviationInfrastructureUrbanDevelopment]] - infrastructure concept foregrounded by the live roundtable.
-- [[AgentReliabilityVerification]] - AI-infrastructure concept from the Jia Yangqing crossover.
-- [[VibeCoding]] - AI-workflow concept from the Fengyan Fengyu crossover.
-- [[WorldFoodProgramme]] - humanitarian-aid institution foregrounded by the South Sudan episode.
-- [[HumanitarianAidFundingShortfall]] - aid-cut concept developed from the South Sudan episode.
-- [[FangKecheng]] - guest expert in the social-media regulation episode.
-- [[SocialMediaProductLiability]] - platform-governance concept foregrounded by the social-media regulation episode.
-- [[LiuXiaoqian]] - U.S.-based speaker and field reporter in episode 398.
-- [[SouthAfricanWhiteMigrantLabor]] - Mississippi labor topic foregrounded by episode 398.
-- [[EmbeddedForeignReporting]] - journalism method articulated in the episode's closing reflection.
-- [[SongNianshen]] - historian guest in the border and modernity conversation.
-- [[RelationalBorder]] - central concept developed from Xita and the Tumen-Yalu borderlands.
+
+- [[XuTao|徐涛]] - co-founder and host represented across the current episode set.
+- [[ZhangJingShengdongJixi|张晶]] - co-founder and media practitioner represented in the latest crossover.
+- [[ShengdongHuopo]] - media organization context connected to the show's AI-work branch.
+- [[EmbeddedForeignReporting]] - field method used to test abstract political narratives.
+- [[SocialMediaProductLiability]] - platform-accountability branch translated by the show.
+- [[RelationalBorder]] - historical-geography concept developed through the border conversation.
+- [[AgentReliabilityVerification]] - AI-infrastructure and human-judgment branch.
+- [[CommunicationRitualParticipation]] - latest source's account of communication beyond information transfer.
+- [[SupplyLedPublicInterestDocumentation]] - journalism and memory value articulated by Zhang Jing.

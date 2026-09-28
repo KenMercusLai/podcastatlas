@@ -787,6 +787,10 @@
     "title": "183.李商隐和红楼梦：偏僻性乖张，那管世人诽谤！",
     "url": "/wiki/sources/183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260/"
   },
+  "184-weile-zai-suanfa-shidai-bei-tingjian-women-gaibian-le-duoshao-ziji-duitan-shengdongjixi-zhangjing-lpotw0uqivlj8m6otnoxh0kahee5": {
+    "title": "184.为了在算法时代被“听见”，我们改变了多少自己？｜对谈「声东击西」张晶",
+    "url": "/wiki/sources/184-weile-zai-suanfa-shidai-bei-tingjian-women-gaibian-le-duoshao-ziji-duitan-shengdongjixi-zhangjing-lpotw0uqivlj8m6otnoxh0kahee5/"
+  },
   "184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010": {
     "title": "184.真实于我有万钧之重：欢迎侠女阿娇",
     "url": "/wiki/sources/184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010/"
@@ -2898,6 +2902,10 @@
   "AIConsumerGrowthMetrics": {
     "title": "AI Consumer Growth Metrics",
     "url": "/wiki/concepts/aiconsumergrowthmetrics/"
+  },
+  "AIContentCompressionLoss": {
+    "title": "AI Content Compression Loss / AI内容压缩损失",
+    "url": "/wiki/concepts/aicontentcompressionloss/"
   },
   "AIContentDevaluation": {
     "title": "AI Content Devaluation",
@@ -5814,6 +5822,10 @@
   "AlgorithmicCaveAllegory": {
     "title": "Algorithmic Cave Allegory / 算法洞穴隐喻",
     "url": "/wiki/concepts/algorithmiccaveallegory/"
+  },
+  "AlgorithmicCreatorSelfDiscipline": {
+    "title": "Algorithmic Creator Self-Discipline / 算法化创作者自我规训",
+    "url": "/wiki/concepts/algorithmiccreatorselfdiscipline/"
   },
   "AlgorithmicCulturalFlattening": {
     "title": "Algorithmic Cultural Flattening / 算法文化压平",
@@ -16610,6 +16622,10 @@
   "CommunicationBoundarySetting": {
     "title": "Communication Boundary Setting",
     "url": "/wiki/concepts/communicationboundarysetting/"
+  },
+  "CommunicationRitualParticipation": {
+    "title": "Communication as Ritual Participation / 传播作为仪式参与",
+    "url": "/wiki/concepts/communicationritualparticipation/"
   },
   "CommunityBankAIAdoption": {
     "title": "Community Bank AI Adoption",
@@ -68291,6 +68307,10 @@
     "title": "Supply Depot Decisive Strike / 粮草命门打击",
     "url": "/wiki/concepts/supplydepotdecisivestrike/"
   },
+  "SupplyLedPublicInterestDocumentation": {
+    "title": "Supply-Led Public-Interest Documentation / 供给创造需求的公共记录",
+    "url": "/wiki/concepts/supplyledpublicinterestdocumentation/"
+  },
   "SupportiveHousingManagement": {
     "title": "Supportive Housing Management",
     "url": "/wiki/concepts/supportivehousingmanagement/"
@@ -80342,6 +80362,10 @@
   "ZhangJinZhihu": {
     "title": "张金 / Zhang Jin (Zhihu)",
     "url": "/wiki/entities/zhangjinzhihu/"
+  },
+  "ZhangJingShengdongJixi": {
+    "title": "张晶 / Zhang Jing (声东击西)",
+    "url": "/wiki/entities/zhangjingshengdongjixi/"
   },
   "ZhangJintao": {
     "title": "张金涛 / Zhang Jintao",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 8683
+wiki_total_pages: 8687
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -767,6 +767,9 @@ wiki_pages:
   - key: "AIConsumerGrowthMetrics"
     title: "AI Consumer Growth Metrics"
     url: "/wiki/concepts/aiconsumergrowthmetrics/"
+  - key: "AIContentCompressionLoss"
+    title: "AI Content Compression Loss / AI内容压缩损失"
+    url: "/wiki/concepts/aicontentcompressionloss/"
   - key: "AIContentDevaluation"
     title: "AI Content Devaluation"
     url: "/wiki/concepts/aicontentdevaluation/"
@@ -1658,6 +1661,9 @@ wiki_pages:
   - key: "AlgorithmicCaveAllegory"
     title: "Algorithmic Cave Allegory / 算法洞穴隐喻"
     url: "/wiki/concepts/algorithmiccaveallegory/"
+  - key: "AlgorithmicCreatorSelfDiscipline"
+    title: "Algorithmic Creator Self-Discipline / 算法化创作者自我规训"
+    url: "/wiki/concepts/algorithmiccreatorselfdiscipline/"
   - key: "AlgorithmicCulturalFlattening"
     title: "Algorithmic Cultural Flattening / 算法文化压平"
     url: "/wiki/concepts/algorithmicculturalflattening/"

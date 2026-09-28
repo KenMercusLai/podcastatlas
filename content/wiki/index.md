@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [184.为了在算法时代被“听见”，我们改变了多少自己？｜对谈「声东击西」张晶](sources/184-weile-zai-suanfa-shidai-bei-tingjian-women-gaibian-le-duoshao-ziji-duitan-shengdongjixi-zhangjing-lpotw0uqivlj8m6otnoxh0kahee5.md) — 起朱楼宴宾客 conversation with 张晶 on creator self-discipline under opaque metrics, subscription versus recommendation, rescue documentation, AI summary loss, communication as ritual participation, and hidden podcast labor.
 - [324: Fall of Saigon: The Nightmare Begins (Part 1)](sources/324-fall-of-saigon-the-nightmare-begins-part-1-glt6047251362.md) — The Rest Is History episode on the Paris settlement, Watergate-era war-powers constraints, South Vietnam's collapse cascade, Cambodia, and pre-evacuation moral triage.
 - [VOL.42心血管内科｜听说你总是头疼？可能需要做一件“堵心事”来解决](sources/vol-42-xinxueguan-neike-tingshuo-ni-zongshi-touteng-keneng-xuyao-zuo-yijian-du-xin-shi-lai-jiejue-lvw85wqzb0kvpyk5uipsagy13b11.md) — 这病说来话长 episode on PFO anatomy, migraine and embolic evaluation, echocardiographic testing, and individualized closure decisions.
 - [325: Fall of Saigon: Apocalypse Now (Part 2)](sources/325-fall-of-saigon-apocalypse-now-part-2-glt1698435670.md) — The Rest Is History episode on Saigon's final evacuation, postwar repression and refugee flight, and the American cultural memory of Vietnam.
@@ -3136,6 +3137,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Science-Based Mental Training & Visualization for Improved Learning](sources/science-based-mental-training-visualization-for-improved-learning-scim9944841947.md) — Huberman Lab solo episode on brief task-matched imagery, physical-practice primacy, first-person rehearsal, response inhibition, sleep, and protocol evidence boundaries.
 
 ## Entities
+- [张晶 / Zhang Jing (声东击西)](entities/ZhangJingShengdongJixi.md) — Journalist, 声东击西 co-founder, and content practitioner connecting reporting, long-form audio, platform feedback, AI summaries, and professional community.
 - [Henry Kissinger](entities/HenryKissinger.md) — U.S. diplomat balancing acceptance of South Vietnamese defeat against credibility, aid, bombing, and evacuation concerns.
 - [Gerald Ford](entities/GeraldFord.md) — U.S. president constrained by Watergate's aftermath, Congress, public opinion, and an impossible evacuation hierarchy.
 - [Nguyễn Văn Thiệu](entities/NguyenVanThieu.md) — South Vietnamese president whose failed territorial withdrawal and partly credible betrayal charge shape the collapse account.
@@ -13741,7 +13743,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [青岛号](entities/QingdaoClipperYacht.md) — Ocean-racing boat used by E161 to explain team risk, weather uncertainty, captain judgment, and performance under physical stress.
 - [Edward Thorp](entities/EdwardThorp.md) — Mathematician and investor used by E153 to connect blackjack card counting, Kelly sizing, arbitrage, and quantitative investing.
 - [Claude Shannon](entities/ClaudeShannon.md) — Information-theory figure used by E153 to connect information advantage, repeated betting, and Kelly-style position sizing.
-- [声东击西](entities/ShengdongJixi.md) — Chinese podcast/media context translating AI infrastructure, vibe coding, aviation, humanitarian aid, platform governance, and U.S. political field reporting for general listeners.
+- [声东击西](entities/ShengdongJixi.md) — Chinese podcast/media project translating specialist systems through conversation and field reporting while reflecting on journalism, algorithms, AI compression, and communication as participation.
 - [声动活泼](entities/ShengdongHuopo.md) — Media organization whose internal AI Hackathon provides the episode's non-technical workflow-automation case.
 - [徐涛](entities/XuTao.md) — Shengdong Jixi host represented through AI-work, aviation, platform-governance, and U.S.-politics conversations that translate specialist systems into everyday judgment.
 - [Liu Xiaoqian / 刘萧千](entities/LiuXiaoqian.md) — 声东击西 U.S.-based speaker whose Mississippi reporting grounds the white South African migrant-labor episode.
@@ -14454,6 +14456,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Frankfurt Parliament](entities/FrankfurtParliament.md) — German national assembly whose representative ambition lacked independent military and administrative capacity.
 
 ## Concepts
+- [Algorithmic Creator Self-Discipline / 算法化创作者自我规训](concepts/AlgorithmicCreatorSelfDiscipline.md) — Creator adaptation of topics, titles, covers, cadence, and public identity to visible metrics and opaque platform expectations.
+- [Communication as Ritual Participation / 传播作为仪式参与](concepts/CommunicationRitualParticipation.md) — Media use as shared attention, relationship maintenance, and cultural participation beyond information transfer.
+- [AI Content Compression Loss / AI内容压缩损失](concepts/AIContentCompressionLoss.md) — Reasoning, voice, resonance, and participation omitted when a summary preserves conclusions but not the full work.
+- [Supply-Led Public-Interest Documentation / 供给创造需求的公共记录](concepts/SupplyLedPublicInterestDocumentation.md) — Recording overlooked lives, places, and histories before measurable demand exists so the work can reveal why they matter.
 - [State Collapse Cascade](concepts/StateCollapseCascade.md) — Reinforcing interaction among retreat, territorial loss, refugee movement, public panic, and institutional failure.
 - [Congressional War-Powers Constraint](concepts/CongressionalWarPowersConstraint.md) — Legislative, funding, and political limits that narrow presidential military action and external commitment credibility.
 - [Mental Practice and Visualization](concepts/MentalPracticeAndVisualization.md) — Skill-rehearsal framework using brief, simple, task-matched imagery as a supplement to real execution and feedback.

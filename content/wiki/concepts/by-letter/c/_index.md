@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8683
+wiki_total_pages: 8687
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1475,6 +1475,9 @@ wiki_pages:
   - key: "CommunicationAccessAndMisrecognition"
     title: "Communication Access And Misrecognition"
     url: "/wiki/concepts/communicationaccessandmisrecognition/"
+  - key: "CommunicationRitualParticipation"
+    title: "Communication as Ritual Participation / 传播作为仪式参与"
+    url: "/wiki/concepts/communicationritualparticipation/"
   - key: "CommunicationBoundarySetting"
     title: "Communication Boundary Setting"
     url: "/wiki/concepts/communicationboundarysetting/"

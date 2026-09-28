@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-28] ingest | 184.为了在算法时代被“听见”，我们改变了多少自己？｜对谈「声东击西」张晶
+
+Added source `184-weile-zai-suanfa-shidai-bei-tingjian-women-gaibian-le-duoshao-ziji-duitan-shengdongjixi-zhangjing-lpotw0uqivlj8m6otnoxh0kahee5`; created `ZhangJingShengdongJixi`, `AlgorithmicCreatorSelfDiscipline`, `CommunicationRitualParticipation`, `AIContentCompressionLoss`, and `SupplyLedPublicInterestDocumentation`; and updated `ShengdongJixi`, `SubscriptionVsAlgorithmPodcastDistribution`, `PlatformFeedbackLoop`, `PodcastIntimacy`, `IndependentPodcastSustainability`, and the canonical index from their complete bounded source sets. Core synthesis: recommendation systems widen discovery while opaque feedback can narrow creator topics, presentation, and public identity; supply-led documentation preserves people and places before demand exists; and AI summaries can transmit conclusions without reproducing reasoning, chance resonance, relationship, or ritual participation. No settled contradiction was adopted. Title-performance, platform-verticality, AI-capability, offline-event, and creator-motive claims remain source-scoped practitioner observations. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-28] ingest | 新一代投资者似乎不爱买股票了：逐渐被ETF主导的市场和未来
 
 Added source `xin-yidai-touzizhe-sihu-bu-ai-mai-gupiao-le-zhujian-bei-etf-zhudao-de-shichang-he-weilai-lk1lxwniotregvs9euhepkm9nruo`; created `ETFConsensusFeedback`, `IncrementalCapitalMarketEngine`, and `ETFHoldingHorizonClassification`; and updated `ExchangeTradedFund`, `PassiveInvestingGovernance`, and the canonical index from their complete bounded source sets. Core synthesis: ETF adoption can connect index rules, product labels, platforms, recurring flows, benchmark inclusion, and algorithmic attention into a conditional consensus-feedback loop, while U.S.–China index differences may partly reflect different ETF-flow, buyback, dividend-reinvestment, business, and institutional structures. ETF wrapper alone does not determine holding period: durable cash-flow exposure and tactical high-volatility themes require different rules. No settled contradiction was adopted. Flow totals, passive-versus-active scale, cross-market causality, AI recommendation convergence, and an endpoint where non-constituents barely trade remain source-scoped or explicit thought experiments. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -24782,6 +24786,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-28] ingest | 324: Fall of Saigon: The Nightmare Begins (Part 1)
 
 Added source `324-fall-of-saigon-the-nightmare-begins-part-1-glt6047251362`; created `HenryKissinger`, `GeraldFord`, `NguyenVanThieu`, `ParisPeaceAccords`, `OperationBabylift`, `KhmerRouge`, `StateCollapseCascade`, and `CongressionalWarPowersConstraint`; and updated `FallOfSaigon`, `GrahamMartin`, `InterventionWithdrawalDependency`, `Vietnam`, `Cambodia`, `RichardNixon`, and the canonical index from their complete bounded source sets. Core synthesis: the 1973 settlement enabled American exit without durable peace; Watergate and congressional constraint made retaliation promises noncredible; and South Vietnam's failed retreat, refugee congestion, public panic, and lost external support formed a self-accelerating collapse before the final evacuation. No settled contradiction was adopted. Nixon and Kissinger's intent, aid and bombing counterfactuals, figures, atrocities, private motives, dialogue, and evacuation conduct remain source-scoped, while Cambodia's Khmer Rouge outcome is distinguished from postwar repression in Vietnam. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-28] lint | Wiki health check
 

@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3209
+topic_total_pages: 3211
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -316,6 +316,9 @@ topic_concepts:
   - key: "AIConsumerGrowthMetrics"
     title: "AI Consumer Growth Metrics"
     url: "/wiki/concepts/aiconsumergrowthmetrics/"
+  - key: "AIContentCompressionLoss"
+    title: "AI Content Compression Loss / AI内容压缩损失"
+    url: "/wiki/concepts/aicontentcompressionloss/"
   - key: "AIContentDevaluation"
     title: "AI Content Devaluation"
     url: "/wiki/concepts/aicontentdevaluation/"
@@ -8301,6 +8304,9 @@ topic_sources:
   - key: "duihua-liangchenqi-douyin-maoxiang-chuangye-tamen-dou-gao-shengchanli-wo-xiang-yong-ai-chuangzao-kaixin-1-182-1"
     title: "182: 对话梁琛奇：抖音、猫箱、创业，「他们都搞生产力，我想用 AI 创造开心」"
     url: "/wiki/sources/duihua-liangchenqi-douyin-maoxiang-chuangye-tamen-dou-gao-shengchanli-wo-xiang-yong-ai-chuangzao-kaixin-1-182-1/"
+  - key: "184-weile-zai-suanfa-shidai-bei-tingjian-women-gaibian-le-duoshao-ziji-duitan-shengdongjixi-zhangjing-lpotw0uqivlj8m6otnoxh0kahee5"
+    title: "184.为了在算法时代被“听见”，我们改变了多少自己？｜对谈「声东击西」张晶"
+    url: "/wiki/sources/184-weile-zai-suanfa-shidai-bei-tingjian-women-gaibian-le-duoshao-ziji-duitan-shengdongjixi-zhangjing-lpotw0uqivlj8m6otnoxh0kahee5/"
   - key: "20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto"
     title: "20 个问题，搞懂 OpenClaw：爆红机制、本质变化、创业机会"
     url: "/wiki/sources/20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto/"

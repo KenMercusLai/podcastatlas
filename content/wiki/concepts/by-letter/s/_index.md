@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 8683
+wiki_total_pages: 8687
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2177,6 +2177,9 @@ wiki_pages:
   - key: "SupplyDepotDecisiveStrike"
     title: "Supply Depot Decisive Strike / 粮草命门打击"
     url: "/wiki/concepts/supplydepotdecisivestrike/"
+  - key: "SupplyLedPublicInterestDocumentation"
+    title: "Supply-Led Public-Interest Documentation / 供给创造需求的公共记录"
+    url: "/wiki/concepts/supplyledpublicinterestdocumentation/"
   - key: "SupportiveHousingManagement"
     title: "Supportive Housing Management"
     url: "/wiki/concepts/supportivehousingmanagement/"

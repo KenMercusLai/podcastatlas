@@ -1270,6 +1270,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "184-weile-zai-suanfa-shidai-bei-tingjian-women-gaibian-le-duoshao-ziji-duitan-shengdongjixi-zhangjing-lpotw0uqivlj8m6otnoxh0kahee5": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368": [
     {
       "key": "science",
@@ -5056,6 +5068,18 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "AIContentCompressionLoss": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "AIContentDevaluation": [
@@ -9276,6 +9300,13 @@
     }
   ],
   "AlgorithmicCaveAllegory": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "AlgorithmicCreatorSelfDiscipline": [
     {
       "key": "culture",
       "label": "Culture",
@@ -19985,6 +20016,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "CommunicationRitualParticipation": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "CommunityBankAIAdoption": [
@@ -72235,6 +72273,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "SupplyLedPublicInterestDocumentation": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "SuppressedRootCauseReporting": [
     {
       "key": "politics",
@@ -84409,6 +84454,13 @@
     }
   ],
   "ZhangJinZhihu": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "ZhangJingShengdongJixi": [
     {
       "key": "culture",
       "label": "Culture",
