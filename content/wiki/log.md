@@ -24595,3 +24595,11 @@ Added source `seventh-generation-alan-newman-and-jeffrey-hollender-a-partnership
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | VOL.46食品与营养｜这5大健康困扰你占了几个？其实解决办法就在你身边！
+
+Added source `vol-46-shipin-yu-yingyang-zhe-5-da-jiankang-kunrao-ni-zhanle-jige-qishi-jiejue-banfa-jiu-zai-ni-shenbian-ls3h7eocliv0b72bz2wxdhbealp5`; created `EverydaySymptomNutritionTriage`; and updated `XiaochangNutritionGuest`, `SleepSupplementBoundary`, `FunctionalFoodMarketingClaimSkepticism`, and the canonical index from their complete bounded source sets. Core synthesis: hair loss, constipation, acne, insomnia, and weight concerns should be separated by cause and severity, supported first through adequate food and repeatable routines, tested against product fit and evidence, and escalated to qualified care when serious or persistent. No settled contradiction was adopted. Probiotic duration, laxative dependence, androgen and acne mechanisms, dairy, oil ratios, melatonin dosing or dependence, magnesium, sweeteners, basal-metabolism intake, and named foods or products remain source-scoped public education. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

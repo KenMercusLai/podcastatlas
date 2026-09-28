@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.46食品与营养｜这5大健康困扰你占了几个？其实解决办法就在你身边！](sources/vol-46-shipin-yu-yingyang-zhe-5-da-jiankang-kunrao-ni-zhanle-jige-qishi-jiejue-banfa-jiu-zai-ni-shenbian-ls3h7eocliv0b72bz2wxdhbealp5.md) — 这病说来话长 episode on nutrition triage for hair loss, constipation, acne, insomnia, weight loss, and anxiety-driven product claims.
 - [Seventh Generation: Alan Newman and Jeffrey Hollender. A Partnership that Flourished—until it Failed. (2021)](sources/seventh-generation-alan-newman-and-jeffrey-hollender-a-partnership-that-flourished-until-it-failed-2021-cf1c5327-05ed-44de-b54e-e2d81fb740fa.md) — How I Built This episode on Seventh Generation's mission-led growth, founder breakup, wholesale transition, parallel board ousters, and partnership lessons.
 - [333: The Republic of Britain: Life under Cromwell](sources/333-the-republic-of-britain-life-under-cromwell-glt3360112790.md) — The Rest Is History episode on the English Commonwealth's unsettled constitution, Cromwellian rule, Irish dispossession, succession failure, and contingent Restoration.
 - [The Science of Psychedelics for Mental Health | Dr. Robin Carhart-Harris](sources/the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019.md) — Huberman Lab interview on classic psychedelics, subjective experience, brain-network flexibility, integration, mental-health trials, relapse, and clinical safeguards.
@@ -3166,7 +3167,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Chrétien de Troyes](entities/ChretienDeTroyes.md) — Late-12th-century French romance writer whose unfinished Perceval contains the earliest surviving Grail narrative discussed.
 - [Perceval](entities/Perceval.md) — Original Grail-quest knight whose silence at the Fisher King's castle becomes a failure of compassion.
 - [Galahad](entities/Galahad.md) — Later ideal Grail knight joining lineage and prowess to chastity, holiness, and beatific vision.
-- [小常老师 / Xiaochang (nutrition guest)](entities/XiaochangNutritionGuest.md) — Source-scoped nutrition guest emphasizing sustainable energy deficit, dietary quality, rebound prevention, and low-energy-availability caution.
+- [卢竹小肠 / Xiaochang (nutrition guest)](entities/XiaochangNutritionGuest.md) — Food-science and public-nutrition guest emphasizing sustainable eating, symptom triage, product fit, and clinical-care boundaries.
 - [Lord Dunmore's Proclamation](entities/LordDunmoresProclamation.md) — November 1775 service-linked freedom offer exposing Black agency, British strategy, and slaveholder radicalization.
 - [Battle of Bunker Hill](entities/BattleOfBunkerHill.md) — Costly British tactical victory that exposed the gap between taking ground and restoring political control.
 - [Battles of Lexington and Concord](entities/LexingtonAndConcord.md) — April 1775 clashes marking the armed threshold from imperial crisis to revolutionary war.
@@ -14368,6 +14369,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Theseus](entities/Theseus.md) — Athenian founder figure remembered as unifier of Attica and ancestral source of power for the demos.
 
 ## Concepts
+- [Everyday Symptom Nutrition Triage / 日常困扰营养分诊](concepts/EverydaySymptomNutritionTriage.md) — Four-part framework for assessing cause and severity, strengthening foundations, testing product fit, and escalating concerning symptoms.
 - [Army-Parliament Dual Sovereignty](concepts/ArmyParliamentDualSovereignty.md) — Unstable order in which a legislature claims civil rule while the army retains power to purge or redefine it.
 - [Providential Governance Failure](concepts/ProvidentialGovernanceFailure.md) — Failure mode in which perceived divine signs displace contestable evidence, compromise, and revisable policy.
 - [Colonial Survey Dispossession](concepts/ColonialSurveyDispossession.md) — Use of mapping and measurement to make conquered land administratively transferable and exploitable.

@@ -53411,6 +53411,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/everydaysocialconnection/"
     },
+    "EverydaySymptomNutritionTriage": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ls3H7eoClIv0b72Bz2wXDHbeALP5 [ls3H7eoClIv0b72Bz2wXDHbeALP5].md",
+          "key": "vol-46-shipin-yu-yingyang-zhe-5-da-jiankang-kunrao-ni-zhanle-jige-qishi-jiejue-banfa-jiu-zai-ni-shenbian-ls3h7eocliv0b72bz2wxdhbealp5",
+          "show": "这病说来话长",
+          "title": "VOL.46食品与营养｜这5大健康困扰你占了几个？其实解决办法就在你身边！",
+          "url": "/wiki/sources/vol-46-shipin-yu-yingyang-zhe-5-da-jiankang-kunrao-ni-zhanle-jige-qishi-jiejue-banfa-jiu-zai-ni-shenbian-ls3h7eocliv0b72bz2wxdhbealp5/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/everydaysymptomnutritiontriage/"
+    },
     "EvidenceBoundFolkloreInquiry": {
       "episode_count": 4,
       "show_count": 2,
@@ -62953,9 +62969,9 @@
       "url": "/wiki/concepts/functionalfitnessreadiness/"
     },
     "FunctionalFoodMarketingClaimSkepticism": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "ljLwQq2yHTCsa4r3NvNzaA6P5I9O [ljLwQq2yHTCsa4r3NvNzaA6P5I9O].md",
@@ -62970,9 +62986,16 @@
           "show": "这病说来话长",
           "title": "VOL.161为什么你越吃\"健康食品\"反而越胖？ ft.「大食话」",
           "url": "/wiki/sources/vol-161-weishenme-ni-yue-chi-jiankang-shipin-faner-yue-pang-ft-dashihua-lkpgv9cwzxomr-oi5kse-lpyj-qz/"
+        },
+        {
+          "episode_file": "ls3H7eoClIv0b72Bz2wXDHbeALP5 [ls3H7eoClIv0b72Bz2wXDHbeALP5].md",
+          "key": "vol-46-shipin-yu-yingyang-zhe-5-da-jiankang-kunrao-ni-zhanle-jige-qishi-jiejue-banfa-jiu-zai-ni-shenbian-ls3h7eocliv0b72bz2wxdhbealp5",
+          "show": "这病说来话长",
+          "title": "VOL.46食品与营养｜这5大健康困扰你占了几个？其实解决办法就在你身边！",
+          "url": "/wiki/sources/vol-46-shipin-yu-yingyang-zhe-5-da-jiankang-kunrao-ni-zhanle-jige-qishi-jiejue-banfa-jiu-zai-ni-shenbian-ls3h7eocliv0b72bz2wxdhbealp5/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/functionalfoodmarketingclaimskepticism/"
     },
     "FunctionalFoodRegulatoryIdentity": {
@@ -149028,9 +149051,9 @@
       "url": "/wiki/concepts/sleepstagefunctionalarchitecture/"
     },
     "SleepSupplementBoundary": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM6408620468 [SCIM6408620468].md",
@@ -149059,9 +149082,16 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Matt Walker: The Science of Dreams, Nightmares & Lucid Dreaming",
           "url": "/wiki/sources/guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951/"
+        },
+        {
+          "episode_file": "ls3H7eoClIv0b72Bz2wXDHbeALP5 [ls3H7eoClIv0b72Bz2wXDHbeALP5].md",
+          "key": "vol-46-shipin-yu-yingyang-zhe-5-da-jiankang-kunrao-ni-zhanle-jige-qishi-jiejue-banfa-jiu-zai-ni-shenbian-ls3h7eocliv0b72bz2wxdhbealp5",
+          "show": "这病说来话长",
+          "title": "VOL.46食品与营养｜这5大健康困扰你占了几个？其实解决办法就在你身边！",
+          "url": "/wiki/sources/vol-46-shipin-yu-yingyang-zhe-5-da-jiankang-kunrao-ni-zhanle-jige-qishi-jiejue-banfa-jiu-zai-ni-shenbian-ls3h7eocliv0b72bz2wxdhbealp5/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/sleepsupplementboundary/"
     },
     "SleepTemperatureToolkit": {
@@ -175631,9 +175661,9 @@
       "url": "/wiki/entities/xiaoxianwesternhan/"
     },
     "XiaochangNutritionGuest": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lkMKUyYmlFqxIyoes_n5nflvLJrY [lkMKUyYmlFqxIyoes_n5nflvLJrY].md",
@@ -175648,6 +175678,13 @@
           "show": "这病说来话长",
           "title": "VOL.47食品与营养｜关于免疫力和补充剂的误区你中了几条？",
           "url": "/wiki/sources/vol-47-shipin-yu-yingyang-guanyu-mianyili-he-buchongji-de-wuqu-ni-zhongle-jitiao-lruch-jc9a_r3r1qmdo2ojlxz2mk/"
+        },
+        {
+          "episode_file": "ls3H7eoClIv0b72Bz2wXDHbeALP5 [ls3H7eoClIv0b72Bz2wXDHbeALP5].md",
+          "key": "vol-46-shipin-yu-yingyang-zhe-5-da-jiankang-kunrao-ni-zhanle-jige-qishi-jiejue-banfa-jiu-zai-ni-shenbian-ls3h7eocliv0b72bz2wxdhbealp5",
+          "show": "这病说来话长",
+          "title": "VOL.46食品与营养｜这5大健康困扰你占了几个？其实解决办法就在你身边！",
+          "url": "/wiki/sources/vol-46-shipin-yu-yingyang-zhe-5-da-jiankang-kunrao-ni-zhanle-jige-qishi-jiejue-banfa-jiu-zai-ni-shenbian-ls3h7eocliv0b72bz2wxdhbealp5/"
         }
       ],
       "updated": "2026-09-28",

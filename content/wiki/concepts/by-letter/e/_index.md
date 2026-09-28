@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 8634
+wiki_total_pages: 8635
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -881,6 +881,9 @@ wiki_pages:
   - key: "EverydaySocialConnection"
     title: "Everyday Social Connection"
     url: "/wiki/concepts/everydaysocialconnection/"
+  - key: "EverydaySymptomNutritionTriage"
+    title: "Everyday Symptom Nutrition Triage / 日常困扰营养分诊"
+    url: "/wiki/concepts/everydaysymptomnutritiontriage/"
   - key: "EverydayWeirdness"
     title: "Everyday Weirdness"
     url: "/wiki/concepts/everydayweirdness/"

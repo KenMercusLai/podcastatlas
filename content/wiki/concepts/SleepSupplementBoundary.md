@@ -7,7 +7,8 @@ sources:
   - essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382
   - vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng-bu-chiyao-lvn_cutp5uob9zeosq-wiv3c4zot
   - guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951
-last_updated: 2026-09-25
+  - vol-46-shipin-yu-yingyang-zhe-5-da-jiankang-kunrao-ni-zhanle-jige-qishi-jiejue-banfa-jiu-zai-ni-shenbian-ls3h7eocliv0b72bz2wxdhbealp5
+last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
 
@@ -27,14 +28,16 @@ The 这病说来话长 episode broadens the boundary from supplements to stepped
 
 The Walker conversation reinforces the foundations-first rule while widening the evidence comparison. Magnesium is presented as most clearly relevant when deficiency exists; valerian is described as unsupported in the discussed sleep data; glycine and phosphatidylserine are described as more promising, not established. Huberman also mentions magnesium forms, apigenin, theanine, and occasional inositol while explicitly directing regimen changes through medical discussion.
 
+VOL.46 adds problem matching: melatonin is more plausibly relevant when sleep timing is disrupted by jet lag, inverted schedules, irregular routines, or age-related change than when the dominant problem is stress, rumination, phone stimulation, or persistent nervous-system arousal. The episode also reinforces low-dose caution and daytime-side-effect awareness while keeping exact doses, long-term dependence, GABA, theanine, and magnesium claims source-scoped.
+
 ## Key Claims
 - Behavioral tools come first, nutrition second, supplements third, and prescription drugs require physician involvement.
 - Magnesium forms, apigenin, theanine, and occasional inositol are presented as possible sleep supports; evidence may depend on deficiency, formulation, and individual response.
-- The source names timing around 30-60 minutes before bedtime for the supplement stack it discusses.
-- Magnesium threonate may cause gut distress for some people.
+- The source names timing around 30-60 minutes before bedtime for the supplement stack it discusses, while noting that magnesium threonate may cause gut distress for some people.
 - Theanine may cause vivid or disruptive dreams for some people.
 - Melatonin is treated as a hormone whose commercial doses may exceed endogenous levels, making chronic use—especially in children—a concern rather than a casual default.
 - Valerian is described as unsupported and glycine or phosphatidylserine as more promising, but these comparisons remain source-scoped rather than product recommendations.
+- Sleep aids should be matched to the cause: a circadian-timing intervention is not automatically a treatment for stress- or arousal-driven insomnia.
 
 ## Evidence
 - Hierarchy - [[essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468]] prioritizes behavioral tools, then nutrition, then supplements, then prescription drugs under a physician.
@@ -45,13 +48,14 @@ The Walker conversation reinforces the foundations-first rule while widening the
 - Stepped-care boundary - [[vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng-bu-chiyao-lvn_cutp5uob9zeosq-wiv3c4zot]] places cognitive behavioral and relaxation approaches ahead of casual supplement reliance and warns about melatonin use, sedative tolerance, and dependence.
 - Deficiency and comparison boundary - [[guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951]] says magnesium evidence is clearest for deficiency, describes valerian as unsupported, and treats glycine and phosphatidylserine as only more promising.
 - Regimen boundary - [[guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951]] places behavioral foundations before supplements and directs changes through clinician discussion.
+- Problem-fit and dose boundary - [[vol-46-shipin-yu-yingyang-zhe-5-da-jiankang-kunrao-ni-zhanle-jige-qishi-jiejue-banfa-jiu-zai-ni-shenbian-ls3h7eocliv0b72bz2wxdhbealp5|VOL.46]] distinguishes circadian disruption from stress or stimulation-related insomnia and warns that higher-dose melatonin can produce daytime sleepiness, headache, or unease.
 
 ## Counterevidence & Qualifications
-The sources do not determine whether any person should use, taper, or avoid a supplement, hormone, serotonin precursor, or prescription sleep medication. They do not establish comparative efficacy for valerian, glycine, phosphatidylserine, inositol, magnesium forms, or deficiency testing; certify product quality; validate doses; or replace clinical care for insomnia, dependence, pediatric sleep, pregnancy, psychiatric illness, breathing disorders, drug interactions, or persistent impairment.
+The sources do not determine whether any person should use, taper, or avoid a supplement, hormone, serotonin precursor, or prescription sleep medication. They do not establish comparative efficacy for valerian, glycine, phosphatidylserine, GABA, theanine, inositol, magnesium forms, or deficiency testing; certify product quality; validate doses or long-term dependence claims; or replace clinical care for insomnia, pediatric sleep, pregnancy, psychiatric illness, breathing disorders, drug interactions, or persistent impairment.
 
 ## What Changed
-- Added deficiency-sensitive magnesium evidence and bounded comparisons involving valerian, glycine, phosphatidylserine, and inositol.
-- Preserved the behavioral-first and clinician-guided regimen boundary.
+- Added cause matching between circadian disruption and stress- or stimulation-related insomnia.
+- Added low-dose and next-day side-effect caution without adopting a universal regimen.
 
 ## Related Concepts
 - [[SleepWakeTimingToolkit]] - parent timing toolkit that places supplements after behavior and nutrition.
@@ -62,3 +66,4 @@ The sources do not determine whether any person should use, taper, or avoid a su
 - [[ThirdPartySupplementTesting]] - supplement verification neighbor.
 - [[MedicalRiskManagement]] - clinical boundary for persistent sleep problems and medication decisions.
 - [[ChronicInsomniaRecognitionAndTreatment]] - stepped-care context that prevents aids from becoming the default treatment.
+- [[EverydaySymptomNutritionTriage]] - broader framework for matching a product to the symptom mechanism and escalation need.
