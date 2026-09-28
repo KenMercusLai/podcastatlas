@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [333: The Republic of Britain: Life under Cromwell](sources/333-the-republic-of-britain-life-under-cromwell-glt3360112790.md) — The Rest Is History episode on the English Commonwealth's unsettled constitution, Cromwellian rule, Irish dispossession, succession failure, and contingent Restoration.
 - [The Science of Psychedelics for Mental Health | Dr. Robin Carhart-Harris](sources/the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019.md) — Huberman Lab interview on classic psychedelics, subjective experience, brain-network flexibility, integration, mental-health trials, relapse, and clinical safeguards.
 - [VOL.47食品与营养｜关于免疫力和补充剂的误区你中了几条？](sources/vol-47-shipin-yu-yingyang-guanyu-mianyili-he-buchongji-de-wuqu-ni-zhongle-jitiao-lruch-jc9a_r3r1qmdo2ojlxz2mk.md) — 这病说来话长 episode on immune homeostasis, food-first nutrition, targeted supplement need, and diet or dosing boundaries.
 - [335: The Freemasons: History's Greatest Conspiracy Theory](sources/335-the-freemasons-historys-greatest-conspiracy-theory-glt4122245847.md) — The Rest Is History episode on Masonic ritual, secrecy, civic and imperial networks, anti-Masonic conspiracy, P2 corruption, and Prince Hall Freemasonry.
@@ -3106,6 +3107,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [334: Athens and the Birth of Democracy](sources/334-athens-and-the-birth-of-democracy-glt2496707123.md) — The Rest Is History episode on Solon, Peisistratid tyranny, Cleisthenic reform, popular revolution, demes, autochthony, sacred citizenship, and the limits of the demos.
 
 ## Entities
+- [Anna Keay](entities/AnnaKeay.md) — Historian interpreting the English Republic through constitutional experiment, social lives, Irish conquest, and contingent restoration.
+- [English Commonwealth](entities/EnglishCommonwealth.md) — Crownless regime whose Parliament–army rivalry, Protectorate, coercion, and succession failure prevented durable settlement.
+- [Charles I of England](entities/CharlesIOfEngland.md) — Executed monarch whose removal preceded agreement on whether or how monarchy would be replaced.
+- [Diggers](entities/Diggers.md) — Small communal land movement whose practical experiment and writings challenged exclusive ownership.
+- [Gerard Winstanley](entities/GerardWinstanley.md) — Digger leader and writer joining radical land theory to common cultivation.
+- [Anna Trapnel](entities/AnnaTrapnel.md) — Fifth Monarchist visionary whose prophecy and imprisonment sharpened opposition to Cromwell.
+- [Marchamont Needham](entities/MarchamontNeedham.md) — Newspaper editor whose shifting allegiances illustrate adaptation and propaganda under regime change.
+- [William Petty](entities/WilliamPetty.md) — Surveyor whose scientific and administrative mapping enabled Irish land redistribution after conquest.
+- [George Monck](entities/GeorgeMonck.md) — General whose initially parliamentary intervention evolved into a path toward Restoration.
+- [Anne Monck](entities/AnneMonck.md) — George Monck's political partner, credited with influencing intervention and restoration judgments.
+- [Richard Cromwell](entities/RichardCromwell.md) — Protectoral successor whose rapid fall exposed dependence on personal authority and unresolved army power.
 - [Robin Carhart-Harris](entities/RobinCarhartHarris.md) — Psychedelic researcher connecting serotonin 2A pharmacology, subjective experience, brain-network change, clinical trials, integration, and safeguards.
 - [John Dickey](entities/JohnDickey.md) — Historian connecting Freemasonry's ritual, political history, conspiracy culture, and organizational form.
 - [Leo Taxil](entities/LeoTaxil.md) — Anti-Masonic hoaxer whose fabricated insider revelations exploited prior Catholic suspicion.
@@ -3125,7 +3137,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [上海市东方医院 / Shanghai East Hospital](entities/ShanghaiEastHospital.md) — Source-stated hospital affiliation for 练晶晶 and institutional context for gastrointestinal-endoscopy education.
 - [Easter Rising](entities/EasterRising.md) — 1916 Irish republican rebellion whose military defeat became a political and commemorative turning point.
 - [Patrick Pearse](entities/PatrickPearse.md) — Modern bilingual educator and revolutionary who used deep and invented historical tradition to frame the Easter Rising.
-- [Oliver Cromwell](entities/OliverCromwell.md) — English commander whose 1649 Irish campaign became the symbolic focus of conquest, massacre, and dispossession.
+- [Oliver Cromwell](entities/OliverCromwell.md) — English commander and Lord Protector joining Irish conquest to coercive, providential, and constitutionally unstable rule.
 - [United Irishmen](entities/UnitedIrishmen.md) — Cross-confessional reform and revolutionary organization that sought French aid and helped organize the 1798 rebellion.
 - [James Connolly](entities/JamesConnolly.md) — socialist labour leader and Irish Citizen Army commander linking Dublin poverty to the Rising.
 - [Tom Clarke](entities/TomClarke.md) — veteran Fenian organizer who renewed the IRB and pressed for wartime revolt.
@@ -3513,7 +3525,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [何思琪 / He Siqi (天津师大校广播)](entities/HeSiqiTianjinNormalRadio.md) — Campus-radio participant who originated the “笑不活” health-and-humor topic.
 - [吴斌 / Wu Bin (口腔科)](entities/WuBinOralDoctor.md) — Oral-health clinician explaining orthodontic, implant, preventive-care, older-adult, and jaw-dislocation boundaries.
 - [翁家毅 / Weng Jiayi](entities/WengJiayiCardiology.md) — Cardiovascular clinician distinguishing ordinary laughter activation from vulnerability-dependent cardiac risk.
-- [Charles II of England](entities/CharlesIIOfEngland.md) — Restoration king joining sober dress politics to charismatic sociability, male friendship, marital protection, and sexual unreliability.
+- [Charles II of England](entities/CharlesIIOfEngland.md) — Contingently restored monarch joining the 1660 settlement to sober dress politics and charismatic sociability.
 - [Beau Brummell](entities/BeauBrummell.md) — Regency dandy who made immaculate understatement an expensive elite performance.
 - [Savile Row](entities/SavileRow.md) — London bespoke-tailoring district combining craft, records, heritage, elite clients, and stylistic reinvention.
 - [辛晓琪 / Winnie Hsin](entities/XinXiaoqi.md) — Singer linking long-concert performance capacity to year-round home exercise, super-slow jogging, core work, and moderate balanced eating.
@@ -14354,6 +14366,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Theseus](entities/Theseus.md) — Athenian founder figure remembered as unifier of Attica and ancestral source of power for the demos.
 
 ## Concepts
+- [Army-Parliament Dual Sovereignty](concepts/ArmyParliamentDualSovereignty.md) — Unstable order in which a legislature claims civil rule while the army retains power to purge or redefine it.
+- [Providential Governance Failure](concepts/ProvidentialGovernanceFailure.md) — Failure mode in which perceived divine signs displace contestable evidence, compromise, and revisable policy.
+- [Colonial Survey Dispossession](concepts/ColonialSurveyDispossession.md) — Use of mapping and measurement to make conquered land administratively transferable and exploitable.
+- [Restoration Contingency](concepts/RestorationContingency.md) — Explanation of restored monarchy through succession failure and changing choices rather than inevitability.
 - [Psychedelic Therapy Mechanism](concepts/PsychedelicTherapyMechanism.md) — Combined receptor, network, subjective, relational, and learning model for psychedelic-assisted mental-health change.
 - [Psychedelic Integration](concepts/PsychedelicIntegration.md) — Ongoing process for translating an acute psychedelic experience into qualified, durable ordinary-life learning.
 - [Immune Homeostasis, Not Indiscriminate Boosting](concepts/ImmuneHomeostasisNotBoosting.md) — Distinguishes regulated immune sufficiency from indiscriminate activation or supplement-led “boosting.”

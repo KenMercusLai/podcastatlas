@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 8629
+wiki_total_pages: 8633
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -602,6 +602,9 @@ wiki_pages:
   - key: "RestaurantSupplyChainLocalization"
     title: "Restaurant Supply Chain Localization"
     url: "/wiki/concepts/restaurantsupplychainlocalization/"
+  - key: "RestorationContingency"
+    title: "Restoration Contingency"
+    url: "/wiki/concepts/restorationcontingency/"
   - key: "RestorativeCreativePacing"
     title: "Restorative Creative Pacing"
     url: "/wiki/concepts/restorativecreativepacing/"

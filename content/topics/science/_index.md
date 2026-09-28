@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1293
+topic_total_pages: 1294
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -3080,6 +3080,9 @@ topic_entities:
   - key: "WilliamLawrence"
     title: "William Lawrence / 威廉·劳伦斯"
     url: "/wiki/entities/williamlawrence/"
+  - key: "WilliamPetty"
+    title: "William Petty"
+    url: "/wiki/entities/williampetty/"
   - key: "WilliamRandolphLovelace"
     title: "William Randolph Lovelace"
     url: "/wiki/entities/williamrandolphlovelace/"

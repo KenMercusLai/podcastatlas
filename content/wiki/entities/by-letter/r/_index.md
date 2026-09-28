@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 11227
+wiki_total_pages: 11238
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -350,6 +350,9 @@ wiki_pages:
   - key: "RichardBrinsleySheridan"
     title: "Richard Brinsley Sheridan / 谢里丹"
     url: "/wiki/entities/richardbrinsleysheridan/"
+  - key: "RichardCromwell"
+    title: "Richard Cromwell"
+    url: "/wiki/entities/richardcromwell/"
   - key: "RichardDawkins"
     title: "Richard Dawkins / 理查德·道金斯"
     url: "/wiki/entities/richarddawkins/"

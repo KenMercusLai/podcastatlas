@@ -10776,6 +10776,38 @@
       "updated": "2026-09-22",
       "url": "/wiki/entities/annachennault/"
     },
+    "AnnaKeay": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3360112790 [GLT3360112790].md",
+          "key": "333-the-republic-of-britain-life-under-cromwell-glt3360112790",
+          "show": "The Rest Is History",
+          "title": "333: The Republic of Britain: Life under Cromwell",
+          "url": "/wiki/sources/333-the-republic-of-britain-life-under-cromwell-glt3360112790/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/annakeay/"
+    },
+    "AnnaTrapnel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3360112790 [GLT3360112790].md",
+          "key": "333-the-republic-of-britain-life-under-cromwell-glt3360112790",
+          "show": "The Rest Is History",
+          "title": "333: The Republic of Britain: Life under Cromwell",
+          "url": "/wiki/sources/333-the-republic-of-britain-life-under-cromwell-glt3360112790/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/annatrapnel/"
+    },
     "AnnabellaMilbank": {
       "episode_count": 1,
       "show_count": 1,
@@ -10791,6 +10823,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/entities/annabellamilbank/"
+    },
+    "AnneMonck": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3360112790 [GLT3360112790].md",
+          "key": "333-the-republic-of-britain-life-under-cromwell-glt3360112790",
+          "show": "The Rest Is History",
+          "title": "333: The Republic of Britain: Life under Cromwell",
+          "url": "/wiki/sources/333-the-republic-of-britain-life-under-cromwell-glt3360112790/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/annemonck/"
     },
     "AnnetteGordonReed": {
       "episode_count": 1,
@@ -12655,6 +12703,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/armedfollowerintegrationcost/"
+    },
+    "ArmyParliamentDualSovereignty": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3360112790 [GLT3360112790].md",
+          "key": "333-the-republic-of-britain-life-under-cromwell-glt3360112790",
+          "show": "The Rest Is History",
+          "title": "333: The Republic of Britain: Life under Cromwell",
+          "url": "/wiki/sources/333-the-republic-of-britain-life-under-cromwell-glt3360112790/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/armyparliamentdualsovereignty/"
     },
     "ArnoldLeese": {
       "episode_count": 1,
@@ -26244,9 +26308,9 @@
       "url": "/wiki/entities/charleshenrisanson/"
     },
     "CharlesIIOfEngland": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT8912379704 [GLT8912379704].md",
@@ -26261,10 +26325,33 @@
           "show": "The Rest Is History",
           "title": "357: Historical Love Island: The Sequel",
           "url": "/wiki/sources/357-historical-love-island-the-sequel-glt7719682575/"
+        },
+        {
+          "episode_file": "GLT3360112790 [GLT3360112790].md",
+          "key": "333-the-republic-of-britain-life-under-cromwell-glt3360112790",
+          "show": "The Rest Is History",
+          "title": "333: The Republic of Britain: Life under Cromwell",
+          "url": "/wiki/sources/333-the-republic-of-britain-life-under-cromwell-glt3360112790/"
         }
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/charlesiiofengland/"
+    },
+    "CharlesIOfEngland": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3360112790 [GLT3360112790].md",
+          "key": "333-the-republic-of-britain-life-under-cromwell-glt3360112790",
+          "show": "The Rest Is History",
+          "title": "333: The Republic of Britain: Life under Cromwell",
+          "url": "/wiki/sources/333-the-republic-of-britain-life-under-cromwell-glt3360112790/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/charlesiofengland/"
     },
     "CharlesLightoller": {
       "episode_count": 2,
@@ -32293,6 +32380,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/colonialsourcemediation/"
+    },
+    "ColonialSurveyDispossession": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3360112790 [GLT3360112790].md",
+          "key": "333-the-republic-of-britain-life-under-cromwell-glt3360112790",
+          "show": "The Rest Is History",
+          "title": "333: The Republic of Britain: Life under Cromwell",
+          "url": "/wiki/sources/333-the-republic-of-britain-life-under-cromwell-glt3360112790/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/colonialsurveydispossession/"
     },
     "ColorVisionDeficiency": {
       "episode_count": 1,
@@ -42057,6 +42160,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/difficultconversationdelivery/"
     },
+    "Diggers": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3360112790 [GLT3360112790].md",
+          "key": "333-the-republic-of-britain-life-under-cromwell-glt3360112790",
+          "show": "The Rest Is History",
+          "title": "333: The Republic of Britain: Life under Cromwell",
+          "url": "/wiki/sources/333-the-republic-of-britain-life-under-cromwell-glt3360112790/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/diggers/"
+    },
     "DigitRobot": {
       "episode_count": 1,
       "show_count": 1,
@@ -51239,6 +51358,22 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/entities/england/"
+    },
+    "EnglishCommonwealth": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3360112790 [GLT3360112790].md",
+          "key": "333-the-republic-of-britain-life-under-cromwell-glt3360112790",
+          "show": "The Rest Is History",
+          "title": "333: The Republic of Britain: Life under Cromwell",
+          "url": "/wiki/sources/333-the-republic-of-britain-life-under-cromwell-glt3360112790/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/englishcommonwealth/"
     },
     "EnglishDefenceLeague": {
       "episode_count": 1,
@@ -65661,6 +65796,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/georgelucas/"
     },
+    "GeorgeMonck": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3360112790 [GLT3360112790].md",
+          "key": "333-the-republic-of-britain-life-under-cromwell-glt3360112790",
+          "show": "The Rest Is History",
+          "title": "333: The Republic of Britain: Life under Cromwell",
+          "url": "/wiki/sources/333-the-republic-of-britain-life-under-cromwell-glt3360112790/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/georgemonck/"
+    },
     "GeorgeRRMartin": {
       "episode_count": 4,
       "show_count": 2,
@@ -65902,6 +66053,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/georgiabanjo/"
+    },
+    "GerardWinstanley": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3360112790 [GLT3360112790].md",
+          "key": "333-the-republic-of-britain-life-under-cromwell-glt3360112790",
+          "show": "The Rest Is History",
+          "title": "333: The Republic of Britain: Life under Cromwell",
+          "url": "/wiki/sources/333-the-republic-of-britain-life-under-cromwell-glt3360112790/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/gerardwinstanley/"
     },
     "GermanCaretakerStalemate": {
       "episode_count": 1,
@@ -85190,9 +85357,9 @@
       "url": "/wiki/concepts/irishhomerule/"
     },
     "IrishPlantation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6280042699 [GLT6280042699].md",
@@ -85200,6 +85367,13 @@
           "show": "The Rest Is History",
           "title": "336: Ireland: Celts, Conquest and Cromwell (Part 1)",
           "url": "/wiki/sources/336-ireland-celts-conquest-and-cromwell-part-1-glt6280042699/"
+        },
+        {
+          "episode_file": "GLT3360112790 [GLT3360112790].md",
+          "key": "333-the-republic-of-britain-life-under-cromwell-glt3360112790",
+          "show": "The Rest Is History",
+          "title": "333: The Republic of Britain: Life under Cromwell",
+          "url": "/wiki/sources/333-the-republic-of-britain-life-under-cromwell-glt3360112790/"
         }
       ],
       "updated": "2026-09-28",
@@ -107163,6 +107337,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/marchonwashington1963/"
     },
+    "MarchamontNeedham": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3360112790 [GLT3360112790].md",
+          "key": "333-the-republic-of-britain-life-under-cromwell-glt3360112790",
+          "show": "The Rest Is History",
+          "title": "333: The Republic of Britain: Life under Cromwell",
+          "url": "/wiki/sources/333-the-republic-of-britain-life-under-cromwell-glt3360112790/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/marchamontneedham/"
+    },
     "MarciaWilliams": {
       "episode_count": 1,
       "show_count": 1,
@@ -120303,9 +120493,9 @@
       "url": "/wiki/entities/oliveyoung/"
     },
     "OliverCromwell": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6280042699 [GLT6280042699].md",
@@ -120313,6 +120503,13 @@
           "show": "The Rest Is History",
           "title": "336: Ireland: Celts, Conquest and Cromwell (Part 1)",
           "url": "/wiki/sources/336-ireland-celts-conquest-and-cromwell-part-1-glt6280042699/"
+        },
+        {
+          "episode_file": "GLT3360112790 [GLT3360112790].md",
+          "key": "333-the-republic-of-britain-life-under-cromwell-glt3360112790",
+          "show": "The Rest Is History",
+          "title": "333: The Republic of Britain: Life under Cromwell",
+          "url": "/wiki/sources/333-the-republic-of-britain-life-under-cromwell-glt3360112790/"
         }
       ],
       "updated": "2026-09-28",
@@ -131592,6 +131789,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/protopia/"
     },
+    "ProvidentialGovernanceFailure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3360112790 [GLT3360112790].md",
+          "key": "333-the-republic-of-britain-life-under-cromwell-glt3360112790",
+          "show": "The Rest Is History",
+          "title": "333: The Republic of Britain: Life under Cromwell",
+          "url": "/wiki/sources/333-the-republic-of-britain-life-under-cromwell-glt3360112790/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/providentialgovernancefailure/"
+    },
     "ProvisionalIRA": {
       "episode_count": 3,
       "show_count": 1,
@@ -135893,9 +136106,9 @@
       "url": "/wiki/concepts/regentshadowaccessionsurvival/"
     },
     "RegicideAsRepublicanFounding": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2184509954 [GLT2184509954].md",
@@ -135910,9 +136123,16 @@
           "show": "The Rest Is History",
           "title": "546. The French Revolution: The Monarchy Falls (Part 3)",
           "url": "/wiki/sources/546-the-french-revolution-the-monarchy-falls-part-3-glt3779628370/"
+        },
+        {
+          "episode_file": "GLT3360112790 [GLT3360112790].md",
+          "key": "333-the-republic-of-britain-life-under-cromwell-glt3360112790",
+          "show": "The Rest Is History",
+          "title": "333: The Republic of Britain: Life under Cromwell",
+          "url": "/wiki/sources/333-the-republic-of-britain-life-under-cromwell-glt3360112790/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/regicideasrepublicanfounding/"
     },
     "RegimeSymbolContinuity": {
@@ -136982,9 +137202,9 @@
       "url": "/wiki/concepts/republicanemergencyviolenceprecedent/"
     },
     "RepublicanFoundingWithoutSettlement": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3779628370 [GLT3779628370].md",
@@ -136992,9 +137212,16 @@
           "show": "The Rest Is History",
           "title": "546. The French Revolution: The Monarchy Falls (Part 3)",
           "url": "/wiki/sources/546-the-french-revolution-the-monarchy-falls-part-3-glt3779628370/"
+        },
+        {
+          "episode_file": "GLT3360112790 [GLT3360112790].md",
+          "key": "333-the-republic-of-britain-life-under-cromwell-glt3360112790",
+          "show": "The Rest Is History",
+          "title": "333: The Republic of Britain: Life under Cromwell",
+          "url": "/wiki/sources/333-the-republic-of-britain-life-under-cromwell-glt3360112790/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/republicanfoundingwithoutsettlement/"
     },
     "RepublicanRestraintLeadership": {
@@ -137406,6 +137633,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/restaurantsupplychainlocalization/"
+    },
+    "RestorationContingency": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3360112790 [GLT3360112790].md",
+          "key": "333-the-republic-of-britain-life-under-cromwell-glt3360112790",
+          "show": "The Rest Is History",
+          "title": "333: The Republic of Britain: Life under Cromwell",
+          "url": "/wiki/sources/333-the-republic-of-britain-life-under-cromwell-glt3360112790/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/restorationcontingency/"
     },
     "RestoredRegimePromiseCredibility": {
       "episode_count": 1,
@@ -138444,6 +138687,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/rhodebeauty/"
+    },
+    "RichardCromwell": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3360112790 [GLT3360112790].md",
+          "key": "333-the-republic-of-britain-life-under-cromwell-glt3360112790",
+          "show": "The Rest Is History",
+          "title": "333: The Republic of Britain: Life under Cromwell",
+          "url": "/wiki/sources/333-the-republic-of-britain-life-under-cromwell-glt3360112790/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/richardcromwell/"
     },
     "RichardFeynman": {
       "episode_count": 1,
@@ -172142,6 +172401,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/williamofwykeham/"
+    },
+    "WilliamPetty": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3360112790 [GLT3360112790].md",
+          "key": "333-the-republic-of-britain-life-under-cromwell-glt3360112790",
+          "show": "The Rest Is History",
+          "title": "333: The Republic of Britain: Life under Cromwell",
+          "url": "/wiki/sources/333-the-republic-of-britain-life-under-cromwell-glt3360112790/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/williampetty/"
     },
     "WilliamPirrie": {
       "episode_count": 1,

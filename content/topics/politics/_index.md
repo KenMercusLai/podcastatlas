@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2791
+topic_total_pages: 2792
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2986,6 +2986,9 @@ topic_concepts:
   - key: "ProtestMediaSpectacle"
     title: "Protest Media Spectacle"
     url: "/wiki/concepts/protestmediaspectacle/"
+  - key: "ProvidentialGovernanceFailure"
+    title: "Providential Governance Failure"
+    url: "/wiki/concepts/providentialgovernancefailure/"
   - key: "ProxyConflictSpoilerRisk"
     title: "Proxy Conflict Spoiler Risk"
     url: "/wiki/concepts/proxyconflictspoilerrisk/"

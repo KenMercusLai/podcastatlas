@@ -5,8 +5,9 @@ tags: [republicanism, regicide, political-violence, founding]
 sources:
   - 547-the-french-revolution-the-execution-of-the-king-part-4-glt2184509954
   - 546-the-french-revolution-the-monarchy-falls-part-3-glt3779628370
+  - 333-the-republic-of-britain-life-under-cromwell-glt3360112790
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-22
+last_updated: 2026-09-28
 ---
 
 # Regicide as Republican Founding
@@ -17,7 +18,9 @@ Regicide as republican founding is the interpretation that killing a deposed mon
 
 ## Current Synthesis
 
-The sources distinguish a sequence of founding moments rather than one uncontested origin. Abolition and “Year One” formally created the Republic, [[BattleOfValmy|Valmy]] made it militarily credible, and the unresolved legal and symbolic presence of [[LouisXVI|Louis XVI]] made execution appear to some revolutionaries as the irreversible threshold. The act destroyed the king as person and symbol, yet royalist martyrdom and coming civil conflict show that constitutive violence can found one political identity without producing shared legitimacy.
+The sources distinguish founding rupture from constitutional settlement. In France, abolition and “Year One” formally created the Republic, [[BattleOfValmy|Valmy]] made it militarily credible, and the unresolved legal and symbolic presence of [[LouisXVI|Louis XVI]] made execution appear to some revolutionaries as the irreversible threshold. The act destroyed the king as person and symbol, yet royalist martyrdom and coming civil conflict show that constitutive violence can found one political identity without producing shared legitimacy.
+
+The English sequence runs in the other direction. [[CharlesIOfEngland|Charles I]] was executed before his opponents had agreed whether they were ending a reign, dynasty, or monarchy; abolition followed, but the army and Parliament never achieved a stable division of authority. Regicide was therefore constitutive as rupture yet insufficient as institutional foundation, and monarchy remained restorable after Protectorate succession failed.
 
 ## Key Claims
 
@@ -27,6 +30,7 @@ The sources distinguish a sequence of founding moments rather than one uncontest
 - Public spectacle converts abstract sovereignty into a visible claim about who may judge and punish.
 - Founding through violence draws a boundary between loyal citizens and adherents of the displaced order.
 - An act can consolidate republican belief among supporters while deepening civil conflict.
+- Because abolition and execution occur in different sequences, regicide cannot be assumed to settle civilian–military authority or succession in every revolution.
 
 ## Evidence
 
@@ -43,17 +47,24 @@ The sources distinguish a sequence of founding moments rather than one uncontest
 
 - [[547-the-french-revolution-the-execution-of-the-king-part-4-glt2184509954]] contrasts Marat's republican certainty with royalist martyrdom, Louis XVII, and the prospect of internal war.
 
+### English rupture without settlement
+
+- [[333-the-republic-of-britain-life-under-cromwell-glt3360112790]] shows Charles I's execution preceding abolition and leaving Parliament, army, Protectorate, and succession unresolved.
+
 ## Counterevidence & Qualifications
 
 - This is the hosts' interpretive synthesis rather than proof that France had no other constitutional or symbolic founding moments.
 - Abolition, “Year One,” Valmy, trial, and execution may all count as different kinds of founding event.
 - The execution did not create consensus, end royalism, or by itself explain the Republic's later trajectory.
 - “Sacrifice” describes political meaning, not a settled legal category or shared contemporary theology.
+- The French sacrificial-spectacle interpretation should not be projected automatically onto the differently staged English regicide.
+- The English source complicates rather than negates the concept: regicide founded an irreversible break but did not supply durable institutions.
 
 ## What Changed
 
 - The concept now separates formal abolition, military survival, and regicide as successive but contested founding moments.
-- Saint-Just and Robespierre supply the pre-trial argument that a living king was structurally incompatible with the Republic.
+- Added the English reverse sequence, in which execution came before a settled republican definition.
+- Distinguished constitutive rupture from institutional completion and succession.
 
 ## Related Concepts
 
@@ -63,3 +74,5 @@ The sources distinguish a sequence of founding moments rather than one uncontest
 - [[RevolutionaryJusticeMercyConflict]] - dispute over whether republican legitimacy required death, delay, appeal, or mercy.
 - [[TyrannicideRepublicanDilemma]] - broader problem of whether killing a ruler protects or corrupts republican order.
 - [[PowerViolenceDistinction]] - distinction between destroying an opponent and establishing durable legitimate power.
+- [[ArmyParliamentDualSovereignty]] - unresolved English authority conflict surviving the king's removal.
+- [[RestorationContingency]] - evidence that regicide did not make later monarchy impossible.

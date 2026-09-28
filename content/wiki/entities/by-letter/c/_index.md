@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 11227
+wiki_total_pages: 11238
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -572,6 +572,9 @@ wiki_pages:
   - key: "CharlesHenderson"
     title: "Charles Henderson"
     url: "/wiki/entities/charleshenderson/"
+  - key: "CharlesIOfEngland"
+    title: "Charles I of England"
+    url: "/wiki/entities/charlesiofengland/"
   - key: "CharlesIIOfEngland"
     title: "Charles II of England"
     url: "/wiki/entities/charlesiiofengland/"

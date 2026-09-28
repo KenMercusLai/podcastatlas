@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 11227
+wiki_total_pages: 11238
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -290,6 +290,9 @@ wiki_pages:
   - key: "GeorgeLucas"
     title: "George Lucas"
     url: "/wiki/entities/georgelucas/"
+  - key: "GeorgeMonck"
+    title: "George Monck"
+    url: "/wiki/entities/georgemonck/"
   - key: "GeorgeOrwell"
     title: "George Orwell / 乔治·奥威尔"
     url: "/wiki/entities/georgeorwell/"
@@ -341,6 +344,9 @@ wiki_pages:
   - key: "GerardWay"
     title: "Gerard Way"
     url: "/wiki/entities/gerardway/"
+  - key: "GerardWinstanley"
+    title: "Gerard Winstanley"
+    url: "/wiki/entities/gerardwinstanley/"
   - key: "GermanNationalAnthem"
     title: "German National Anthem / Das Lied der Deutschen"
     url: "/wiki/entities/germannationalanthem/"

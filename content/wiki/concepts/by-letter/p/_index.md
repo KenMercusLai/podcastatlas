@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8629
+wiki_total_pages: 8633
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1910,6 +1910,9 @@ wiki_pages:
   - key: "Protopia"
     title: "Protopia"
     url: "/wiki/concepts/protopia/"
+  - key: "ProvidentialGovernanceFailure"
+    title: "Providential Governance Failure"
+    url: "/wiki/concepts/providentialgovernancefailure/"
   - key: "ProvocationPublicityPolitics"
     title: "Provocation Publicity Politics"
     url: "/wiki/concepts/provocationpublicitypolitics/"

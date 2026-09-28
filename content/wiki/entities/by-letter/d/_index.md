@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 11227
+wiki_total_pages: 11238
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -587,6 +587,9 @@ wiki_pages:
   - key: "Digg"
     title: "Digg"
     url: "/wiki/entities/digg/"
+  - key: "Diggers"
+    title: "Diggers"
+    url: "/wiki/entities/diggers/"
   - key: "DigitRobot"
     title: "Digit Robot"
     url: "/wiki/entities/digitrobot/"
