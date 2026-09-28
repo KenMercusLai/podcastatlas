@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.48耳鼻咽喉科｜卡鱼刺的误区｜咽炎｜火锅+冰饮=急性会厌炎=10分钟丧命？别慌，来听医生怎么讲](sources/vol-48-erbiyanhouke-kayuci-de-wuqu-yanyan-huoguo-bingyin-jixing-huiyanyan-10-fenzhong-sangming-biehuang-lai-ting-yisheng-zenme-jiang-ljwo-vs4u8t7vnkodtvuflm1r3mg.md) — 这病说来话长 episode on fish-bone foreign bodies, epiglottitis airway risk, sore-throat escalation, chronic pharyngitis, and tonsil surgery decisions.
 - [336: Ireland: Celts, Conquest and Cromwell (Part 1)](sources/336-ireland-celts-conquest-and-cromwell-part-1-glt6280042699.md) — The Rest Is History episode on incomplete conquest, cultural intermingling, plantation, confessional identity, Cromwell, 1798, and the Act of Union.
 - [Adderall, Stimulants & Modafinil for ADHD: Short- & Long-Term Effects](sources/adderall-stimulants-modafinil-for-adhd-short-long-term-effects-scim8090698200.md) — Huberman Lab solo episode on ADHD attention networks, stimulant and non-stimulant mechanisms, formulation kinetics, neuroplasticity, and individualized safety boundaries.
 - [VOL.49耳鼻咽喉科｜整天戴耳机感觉听力下降、耳鸣？喜欢采耳？这些习惯容易得中耳炎吗？得了中耳炎怎么办？](sources/vol-49-erbiyanhouke-zhengtian-dai-erji-ganjue-tingli-xiajiang-erming-xihuan-caier-zhexie-xiguan-rongyi-de-zhongeryan-ma-dele-zhongeryan-zenmeban-lhtgv0oqyrvnm_-gsgj8jgatu26z.md) — 这病说来话长 episode on tinnitus, middle-ear disease subtypes, cholesteatoma, perforation, ear cleaning, headphones, and symptom-based care routing.
@@ -3101,8 +3102,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [341: The Trials of Oscar Wilde: Sex and Scandal (Part 1)](sources/341-the-trials-of-oscar-wilde-sex-and-scandal-part-1-glt1940599692.md) — The Rest Is History episode on Wilde's celebrity, changing sexual law and identity, unequal relationships, the Queensberry conflict, and the failed libel prosecution.
 
 ## Entities
-- [谢道宇 / Xie Daoyu](entities/XieDaoyu.md) — Source-scoped otolaryngology guest explaining ear symptoms, anatomy, prevention, and treatment boundaries.
-- [杭州师范大学附属医院 / Hangzhou Normal University Affiliated Hospital](entities/HangzhouNormalUniversityAffiliatedHospital.md) — Hospital affiliation stated for the VOL.49 otolaryngology guest.
+- [谢道宇 / Xie Daoyu](entities/XieDaoyu.md) — Otolaryngology guest explaining ear and hearing care, throat foreign bodies, airway warning signs, and surgery boundaries.
+- [杭州师范大学附属医院 / Hangzhou Normal University Affiliated Hospital](entities/HangzhouNormalUniversityAffiliatedHospital.md) — Clinical affiliation and source-described setting for ear, hearing, throat foreign-body, and airway care.
 - [Daniel O'Connell](entities/DanielOConnell.md) — Irish organizer whose Catholic Association and County Clare victory helped force emancipation in 1829.
 - [Charles Stewart Parnell](entities/CharlesStewartParnell.md) — Irish Parliamentary Party leader who joined land agitation, Westminster leverage, and Home Rule.
 - [John Redmond](entities/JohnRedmond.md) — Constitutional nationalist whose parliamentary leverage brought Home Rule onto the statute book.
@@ -14340,6 +14341,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Raiders of the Lost Ark](entities/RaidersOfTheLostArk.md) — Adventure film that translates the Ark's dangerous holiness into an ultimate-weapon race against Nazi Germany.
 
 ## Concepts
+- [鱼刺异物处置 / Fish-Bone Foreign-Body Care](concepts/FishBoneForeignBodyCare.md) — Rejects folk removal methods and routes suspected retained or migrated sharp foreign bodies through anatomical assessment.
+- [急性会厌炎气道风险 / Acute Epiglottitis Airway Risk](concepts/AcuteEpiglottitisAirwayRisk.md) — Upper-airway swelling and warning-sign framework that separates serious obstruction risk from single-trigger headlines.
+- [咽喉疼痛升级就医 / Sore-Throat Escalation](concepts/SoreThroatEscalation.md) — Location-, function-, and trajectory-based distinction between common throat discomfort and urgent airway, foreign-body, or deep-infection pathways.
+- [慢性咽炎管理 / Chronic Pharyngitis Management](concepts/ChronicPharyngitisManagement.md) — Multi-cause management model for persistent throat symptoms across voice use, allergy, reflux, dryness, irritation, and infection.
+- [扁桃体手术决策 / Tonsil Surgery Decision](concepts/TonsilSurgeryDecision.md) — Indication-based balance among recurrent infection, obstruction, sleep, development, immune role, and operative timing.
 - [Irish Plantation](concepts/IrishPlantation.md) — Uneven land-confiscation and settlement system joining colonization, security, profit, religion, and political power.
 - [Act of Union 1801](concepts/ActOfUnion1801.md) — Post-1798 centralizing settlement whose coercive passage and delayed Catholic emancipation created a legitimacy deficit.
 - [Middle-Ear Disease Triage](concepts/MiddleEarDiseaseTriage.md) — Distinguishes middle-ear subtypes, symptom ambiguity, structural risk, and treatment routes.

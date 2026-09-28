@@ -24543,3 +24543,11 @@ Added source `336-ireland-celts-conquest-and-cromwell-part-1-glt6280042699`; cre
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | VOL.48耳鼻咽喉科｜卡鱼刺的误区｜咽炎｜火锅+冰饮=急性会厌炎=10分钟丧命？别慌，来听医生怎么讲
+
+Added source `vol-48-erbiyanhouke-kayuci-de-wuqu-yanyan-huoguo-bingyin-jixing-huiyanyan-10-fenzhong-sangming-biehuang-lai-ting-yisheng-zenme-jiang-ljwo-vs4u8t7vnkodtvuflm1r3mg`; created `FishBoneForeignBodyCare`, `AcuteEpiglottitisAirwayRisk`, `SoreThroatEscalation`, `ChronicPharyngitisManagement`, and `TonsilSurgeryDecision`; and updated `XieDaoyu`, `HangzhouNormalUniversityAffiliatedHospital`, and the canonical index from their complete bounded source sets. Core synthesis: suspected fish-bone impaction should not be managed by vinegar or forced swallowing, severe laryngeal pain, muffled speech, foreign-body sensation, or breathing difficulty warrants prompt assessment, and chronic throat or tonsil problems require cause- and indication-based decisions rather than one-label treatment. No settled contradiction was adopted. Case counts, trigger claims, medicines, procedures, timelines, and operation thresholds remain source-scoped public education. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

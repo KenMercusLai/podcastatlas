@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 8617
+wiki_total_pages: 8622
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2654,6 +2654,9 @@ wiki_pages:
   - key: "AwaitingPunishmentPerformance"
     title: "待刑谢罪式政治表演 / Awaiting-Punishment Performance"
     url: "/wiki/concepts/awaitingpunishmentperformance/"
+  - key: "AcuteEpiglottitisAirwayRisk"
+    title: "急性会厌炎气道风险 / Acute Epiglottitis Airway Risk"
+    url: "/wiki/concepts/acuteepiglottitisairwayrisk/"
   - key: "AdministrativePerformanceFraud"
     title: "政绩述职造假 / Administrative Performance Fraud"
     url: "/wiki/concepts/administrativeperformancefraud/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 8617
+wiki_total_pages: 8622
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2345,6 +2345,9 @@ wiki_pages:
   - key: "SameSurnameKingEnfeoffment"
     title: "同姓王分封 / Same-Surname King Enfeoffment"
     url: "/wiki/concepts/samesurnamekingenfeoffment/"
+  - key: "SoreThroatEscalation"
+    title: "咽喉疼痛升级就医 / Sore-Throat Escalation"
+    url: "/wiki/concepts/sorethroatescalation/"
   - key: "SichuanWarDevastation"
     title: "四川战乱人口毁伤 / Sichuan War Devastation"
     url: "/wiki/concepts/sichuanwardevastation/"

@@ -5193,6 +5193,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/actusoncology/"
     },
+    "AcuteEpiglottitisAirwayRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ljwo-vS4U8T7vnKodtVufLM1R3mg [ljwo-vS4U8T7vnKodtVufLM1R3mg].md",
+          "key": "vol-48-erbiyanhouke-kayuci-de-wuqu-yanyan-huoguo-bingyin-jixing-huiyanyan-10-fenzhong-sangming-biehuang-lai-ting-yisheng-zenme-jiang-ljwo-vs4u8t7vnkodtvuflm1r3mg",
+          "show": "这病说来话长",
+          "title": "VOL.48耳鼻咽喉科｜卡鱼刺的误区｜咽炎｜火锅+冰饮=急性会厌炎=10分钟丧命？别慌，来听医生怎么讲",
+          "url": "/wiki/sources/vol-48-erbiyanhouke-kayuci-de-wuqu-yanyan-huoguo-bingyin-jixing-huiyanyan-10-fenzhong-sangming-biehuang-lai-ting-yisheng-zenme-jiang-ljwo-vs4u8t7vnkodtvuflm1r3mg/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/acuteepiglottitisairwayrisk/"
+    },
     "AcutePancreatitisEmergencyEscalation": {
       "episode_count": 1,
       "show_count": 1,
@@ -29781,6 +29797,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/chronicinsomniarecognitionandtreatment/"
+    },
+    "ChronicPharyngitisManagement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ljwo-vS4U8T7vnKodtVufLM1R3mg [ljwo-vS4U8T7vnKodtVufLM1R3mg].md",
+          "key": "vol-48-erbiyanhouke-kayuci-de-wuqu-yanyan-huoguo-bingyin-jixing-huiyanyan-10-fenzhong-sangming-biehuang-lai-ting-yisheng-zenme-jiang-ljwo-vs4u8t7vnkodtvuflm1r3mg",
+          "show": "这病说来话长",
+          "title": "VOL.48耳鼻咽喉科｜卡鱼刺的误区｜咽炎｜火锅+冰饮=急性会厌炎=10分钟丧命？别慌，来听医生怎么讲",
+          "url": "/wiki/sources/vol-48-erbiyanhouke-kayuci-de-wuqu-yanyan-huoguo-bingyin-jixing-huiyanyan-10-fenzhong-sangming-biehuang-lai-ting-yisheng-zenme-jiang-ljwo-vs4u8t7vnkodtvuflm1r3mg/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/chronicpharyngitismanagement/"
     },
     "ChronicleBiographicalHistoryForms": {
       "episode_count": 1,
@@ -58453,6 +58485,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/fiscalextractionrebellionspiral/"
     },
+    "FishBoneForeignBodyCare": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ljwo-vS4U8T7vnKodtVufLM1R3mg [ljwo-vS4U8T7vnKodtVufLM1R3mg].md",
+          "key": "vol-48-erbiyanhouke-kayuci-de-wuqu-yanyan-huoguo-bingyin-jixing-huiyanyan-10-fenzhong-sangming-biehuang-lai-ting-yisheng-zenme-jiang-ljwo-vs4u8t7vnkodtvuflm1r3mg",
+          "show": "这病说来话长",
+          "title": "VOL.48耳鼻咽喉科｜卡鱼刺的误区｜咽炎｜火锅+冰饮=急性会厌炎=10分钟丧命？别慌，来听医生怎么讲",
+          "url": "/wiki/sources/vol-48-erbiyanhouke-kayuci-de-wuqu-yanyan-huoguo-bingyin-jixing-huiyanyan-10-fenzhong-sangming-biehuang-lai-ting-yisheng-zenme-jiang-ljwo-vs4u8t7vnkodtvuflm1r3mg/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/fishboneforeignbodycare/"
+    },
     "FishOilNaturalStatinBoundary": {
       "episode_count": 2,
       "show_count": 1,
@@ -71721,9 +71769,9 @@
       "url": "/wiki/entities/hangzhoumuseum/"
     },
     "HangzhouNormalUniversityAffiliatedHospital": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lhtGV0Oqyrvnm_-gsGj8jGATU26Z [lhtGV0Oqyrvnm_-gsGj8jGATU26Z].md",
@@ -71731,6 +71779,13 @@
           "show": "这病说来话长",
           "title": "VOL.49耳鼻咽喉科｜整天戴耳机感觉听力下降、耳鸣？喜欢采耳？这些习惯容易得中耳炎吗？得了中耳炎怎么办？",
           "url": "/wiki/sources/vol-49-erbiyanhouke-zhengtian-dai-erji-ganjue-tingli-xiajiang-erming-xihuan-caier-zhexie-xiguan-rongyi-de-zhongeryan-ma-dele-zhongeryan-zenmeban-lhtgv0oqyrvnm_-gsgj8jgatu26z/"
+        },
+        {
+          "episode_file": "ljwo-vS4U8T7vnKodtVufLM1R3mg [ljwo-vS4U8T7vnKodtVufLM1R3mg].md",
+          "key": "vol-48-erbiyanhouke-kayuci-de-wuqu-yanyan-huoguo-bingyin-jixing-huiyanyan-10-fenzhong-sangming-biehuang-lai-ting-yisheng-zenme-jiang-ljwo-vs4u8t7vnkodtvuflm1r3mg",
+          "show": "这病说来话长",
+          "title": "VOL.48耳鼻咽喉科｜卡鱼刺的误区｜咽炎｜火锅+冰饮=急性会厌炎=10分钟丧命？别慌，来听医生怎么讲",
+          "url": "/wiki/sources/vol-48-erbiyanhouke-kayuci-de-wuqu-yanyan-huoguo-bingyin-jixing-huiyanyan-10-fenzhong-sangming-biehuang-lai-ting-yisheng-zenme-jiang-ljwo-vs4u8t7vnkodtvuflm1r3mg/"
         }
       ],
       "updated": "2026-09-28",
@@ -150105,6 +150160,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/sophiezhang/"
     },
+    "SoreThroatEscalation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ljwo-vS4U8T7vnKodtVufLM1R3mg [ljwo-vS4U8T7vnKodtVufLM1R3mg].md",
+          "key": "vol-48-erbiyanhouke-kayuci-de-wuqu-yanyan-huoguo-bingyin-jixing-huiyanyan-10-fenzhong-sangming-biehuang-lai-ting-yisheng-zenme-jiang-ljwo-vs4u8t7vnkodtvuflm1r3mg",
+          "show": "这病说来话长",
+          "title": "VOL.48耳鼻咽喉科｜卡鱼刺的误区｜咽炎｜火锅+冰饮=急性会厌炎=10分钟丧命？别慌，来听医生怎么讲",
+          "url": "/wiki/sources/vol-48-erbiyanhouke-kayuci-de-wuqu-yanyan-huoguo-bingyin-jixing-huiyanyan-10-fenzhong-sangming-biehuang-lai-ting-yisheng-zenme-jiang-ljwo-vs4u8t7vnkodtvuflm1r3mg/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/sorethroatescalation/"
+    },
     "SoundBasedStateRegulation": {
       "episode_count": 3,
       "show_count": 1,
@@ -161569,6 +161640,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/entities/tongyuewangbao/"
+    },
+    "TonsilSurgeryDecision": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ljwo-vS4U8T7vnKodtVufLM1R3mg [ljwo-vS4U8T7vnKodtVufLM1R3mg].md",
+          "key": "vol-48-erbiyanhouke-kayuci-de-wuqu-yanyan-huoguo-bingyin-jixing-huiyanyan-10-fenzhong-sangming-biehuang-lai-ting-yisheng-zenme-jiang-ljwo-vs4u8t7vnkodtvuflm1r3mg",
+          "show": "这病说来话长",
+          "title": "VOL.48耳鼻咽喉科｜卡鱼刺的误区｜咽炎｜火锅+冰饮=急性会厌炎=10分钟丧命？别慌，来听医生怎么讲",
+          "url": "/wiki/sources/vol-48-erbiyanhouke-kayuci-de-wuqu-yanyan-huoguo-bingyin-jixing-huiyanyan-10-fenzhong-sangming-biehuang-lai-ting-yisheng-zenme-jiang-ljwo-vs4u8t7vnkodtvuflm1r3mg/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/tonsilsurgerydecision/"
     },
     "TonyACRCloud": {
       "episode_count": 1,
@@ -175047,9 +175134,9 @@
       "url": "/wiki/entities/xiebilatehan/"
     },
     "XieDaoyu": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lhtGV0Oqyrvnm_-gsGj8jGATU26Z [lhtGV0Oqyrvnm_-gsGj8jGATU26Z].md",
@@ -175057,6 +175144,13 @@
           "show": "这病说来话长",
           "title": "VOL.49耳鼻咽喉科｜整天戴耳机感觉听力下降、耳鸣？喜欢采耳？这些习惯容易得中耳炎吗？得了中耳炎怎么办？",
           "url": "/wiki/sources/vol-49-erbiyanhouke-zhengtian-dai-erji-ganjue-tingli-xiajiang-erming-xihuan-caier-zhexie-xiguan-rongyi-de-zhongeryan-ma-dele-zhongeryan-zenmeban-lhtgv0oqyrvnm_-gsgj8jgatu26z/"
+        },
+        {
+          "episode_file": "ljwo-vS4U8T7vnKodtVufLM1R3mg [ljwo-vS4U8T7vnKodtVufLM1R3mg].md",
+          "key": "vol-48-erbiyanhouke-kayuci-de-wuqu-yanyan-huoguo-bingyin-jixing-huiyanyan-10-fenzhong-sangming-biehuang-lai-ting-yisheng-zenme-jiang-ljwo-vs4u8t7vnkodtvuflm1r3mg",
+          "show": "这病说来话长",
+          "title": "VOL.48耳鼻咽喉科｜卡鱼刺的误区｜咽炎｜火锅+冰饮=急性会厌炎=10分钟丧命？别慌，来听医生怎么讲",
+          "url": "/wiki/sources/vol-48-erbiyanhouke-kayuci-de-wuqu-yanyan-huoguo-bingyin-jixing-huiyanyan-10-fenzhong-sangming-biehuang-lai-ting-yisheng-zenme-jiang-ljwo-vs4u8t7vnkodtvuflm1r3mg/"
         }
       ],
       "updated": "2026-09-28",

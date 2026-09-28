@@ -4475,6 +4475,10 @@
     "title": "Actus Oncology",
     "url": "/wiki/entities/actusoncology/"
   },
+  "AcuteEpiglottitisAirwayRisk": {
+    "title": "急性会厌炎气道风险 / Acute Epiglottitis Airway Risk",
+    "url": "/wiki/concepts/acuteepiglottitisairwayrisk/"
+  },
   "AcutePancreatitisEmergencyEscalation": {
     "title": "Acute Pancreatitis Emergency Escalation / 急性胰腺炎急症升级",
     "url": "/wiki/concepts/acutepancreatitisemergencyescalation/"
@@ -15138,6 +15142,10 @@
   "ChronicInsomniaRecognitionAndTreatment": {
     "title": "Chronic Insomnia Recognition and Treatment",
     "url": "/wiki/concepts/chronicinsomniarecognitionandtreatment/"
+  },
+  "ChronicPharyngitisManagement": {
+    "title": "慢性咽炎管理 / Chronic Pharyngitis Management",
+    "url": "/wiki/concepts/chronicpharyngitismanagement/"
   },
   "ChronicleBiographicalHistoryForms": {
     "title": "史书体例意识 / Chronicle and Biographical History Forms",
@@ -26342,6 +26350,10 @@
   "FiscalExtractionRebellionSpiral": {
     "title": "财政压榨叛乱螺旋 / Fiscal Extraction Rebellion Spiral",
     "url": "/wiki/concepts/fiscalextractionrebellionspiral/"
+  },
+  "FishBoneForeignBodyCare": {
+    "title": "鱼刺异物处置 / Fish-Bone Foreign-Body Care",
+    "url": "/wiki/concepts/fishboneforeignbodycare/"
   },
   "FishOilNaturalStatinBoundary": {
     "title": "Fish Oil Natural Statin Boundary / 鱼油不是天然他汀",
@@ -65387,6 +65399,10 @@
     "title": "Soraya Esfandiary-Bakhtiary / 索拉雅",
     "url": "/wiki/entities/sorayaesfandiarybakhtiary/"
   },
+  "SoreThroatEscalation": {
+    "title": "咽喉疼痛升级就医 / Sore-Throat Escalation",
+    "url": "/wiki/concepts/sorethroatescalation/"
+  },
   "Sothebys": {
     "title": "Sotheby's",
     "url": "/wiki/entities/sothebys/"
@@ -70814,6 +70830,10 @@
   "TonleSapLake": {
     "title": "Tonle Sap Lake / 洞里萨湖",
     "url": "/wiki/entities/tonlesaplake/"
+  },
+  "TonsilSurgeryDecision": {
+    "title": "扁桃体手术决策 / Tonsil Surgery Decision",
+    "url": "/wiki/concepts/tonsilsurgerydecision/"
   },
   "TonyACRCloud": {
     "title": "Tony / ACR Cloud",
@@ -86722,6 +86742,10 @@
   "vol-36-yanke-guanyu-ganyanzheng-yanyaoshui-yandibing-jinshi-he-jinshi-shoushu-yanke-zhuren-you-hua-shuo-lmpfupdvpcxynhp6d4hfhptayvpo": {
     "title": "VOL.36眼科｜关于干眼症、眼药水、眼底病、近视和近视手术…眼科主任有话说",
     "url": "/wiki/sources/vol-36-yanke-guanyu-ganyanzheng-yanyaoshui-yandibing-jinshi-he-jinshi-shoushu-yanke-zhuren-you-hua-shuo-lmpfupdvpcxynhp6d4hfhptayvpo/"
+  },
+  "vol-48-erbiyanhouke-kayuci-de-wuqu-yanyan-huoguo-bingyin-jixing-huiyanyan-10-fenzhong-sangming-biehuang-lai-ting-yisheng-zenme-jiang-ljwo-vs4u8t7vnkodtvuflm1r3mg": {
+    "title": "VOL.48耳鼻咽喉科｜卡鱼刺的误区｜咽炎｜火锅+冰饮=急性会厌炎=10分钟丧命？别慌，来听医生怎么讲",
+    "url": "/wiki/sources/vol-48-erbiyanhouke-kayuci-de-wuqu-yanyan-huoguo-bingyin-jixing-huiyanyan-10-fenzhong-sangming-biehuang-lai-ting-yisheng-zenme-jiang-ljwo-vs4u8t7vnkodtvuflm1r3mg/"
   },
   "vol-49-erbiyanhouke-zhengtian-dai-erji-ganjue-tingli-xiajiang-erming-xihuan-caier-zhexie-xiguan-rongyi-de-zhongeryan-ma-dele-zhongeryan-zenmeban-lhtgv0oqyrvnm_-gsgj8jgatu26z": {
     "title": "VOL.49耳鼻咽喉科｜整天戴耳机感觉听力下降、耳鸣？喜欢采耳？这些习惯容易得中耳炎吗？得了中耳炎怎么办？",

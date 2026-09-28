@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 8617
+wiki_total_pages: 8622
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1037,6 +1037,9 @@ wiki_pages:
   - key: "TerrorRuleBackfire"
     title: "恐怖治理反噬 / Terror Rule Backfire"
     url: "/wiki/concepts/terrorrulebackfire/"
+  - key: "TonsilSurgeryDecision"
+    title: "扁桃体手术决策 / Tonsil Surgery Decision"
+    url: "/wiki/concepts/tonsilsurgerydecision/"
   - key: "TributeSystemEconomicIncentive"
     title: "朝贡体系经济激励 / Tribute System Economic Incentive"
     url: "/wiki/concepts/tributesystemeconomicincentive/"
