@@ -983,6 +983,10 @@
     "title": "33.人间失格：胆小鬼的壮烈献祭",
     "url": "/wiki/sources/33-renjian-shige-danxiaogui-de-zhuanglie-xianji-599924624/"
   },
+  "337-ireland-union-famine-and-parnell-part-2-glt4375415331": {
+    "title": "337: Ireland: Union, Famine and Parnell (Part 2)",
+    "url": "/wiki/sources/337-ireland-union-famine-and-parnell-part-2-glt4375415331/"
+  },
   "339-ireland-the-easter-rising-1916-part-4-glt7095481415": {
     "title": "339: Ireland: The Easter Rising, 1916 (Part 4)",
     "url": "/wiki/sources/339-ireland-the-easter-rising-1916-part-4-glt7095481415/"
@@ -13551,6 +13555,10 @@
     "title": "Charles Sled",
     "url": "/wiki/entities/charlessled/"
   },
+  "CharlesStewartParnell": {
+    "title": "Charles Stewart Parnell",
+    "url": "/wiki/entities/charlesstewartparnell/"
+  },
   "CharlesV": {
     "title": "Charles V",
     "url": "/wiki/entities/charlesv/"
@@ -18842,6 +18850,10 @@
   "DanielNewman": {
     "title": "Daniel Newman",
     "url": "/wiki/entities/danielnewman/"
+  },
+  "DanielOConnell": {
+    "title": "Daniel O'Connell",
+    "url": "/wiki/entities/danieloconnell/"
   },
   "DanielWilliamsACLU": {
     "title": "Daniel Williams / ACLU New Mexico",
@@ -30199,6 +30211,10 @@
     "title": "Great Harvest Bread",
     "url": "/wiki/entities/greatharvestbread/"
   },
+  "GreatIrishFamine": {
+    "title": "Great Irish Famine",
+    "url": "/wiki/entities/greatirishfamine/"
+  },
   "GreatNorthernExpedition": {
     "title": "Great Northern Expedition / 大北方探险",
     "url": "/wiki/entities/greatnorthernexpedition/"
@@ -36323,6 +36339,10 @@
     "title": "Irish Citizen Army",
     "url": "/wiki/entities/irishcitizenarmy/"
   },
+  "IrishConstitutionalNationalism": {
+    "title": "Irish Constitutional Nationalism",
+    "url": "/wiki/concepts/irishconstitutionalnationalism/"
+  },
   "IrishHomeRule": {
     "title": "Irish Home Rule",
     "url": "/wiki/concepts/irishhomerule/"
@@ -38446,6 +38466,10 @@
   "JohnRawls": {
     "title": "John Rawls / 罗尔斯",
     "url": "/wiki/entities/johnrawls/"
+  },
+  "JohnRedmond": {
+    "title": "John Redmond",
+    "url": "/wiki/entities/johnredmond/"
   },
   "JohnStuartMill": {
     "title": "John Stuart Mill / 穆勒",

@@ -24511,3 +24511,11 @@ Added source `e253-shui-zai-gei-damoxing-chuti-maiti-panjuan-liaoliao-ai-shuju-h
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | 337: Ireland: Union, Famine and Parnell (Part 2)
+
+Added source `337-ireland-union-famine-and-parnell-part-2-glt4375415331`; created `DanielOConnell`, `CharlesStewartParnell`, `JohnRedmond`, `GreatIrishFamine`, and `IrishConstitutionalNationalism`; and updated `Ireland`, `IrishHomeRule`, `PaulRouse`, `IrishRepublicanBrotherhood`, and the canonical index from their complete bounded source sets. Core synthesis: the Union's everyday commercial and imperial ties did not overcome the legitimacy failures of delayed Catholic emancipation, famine policy, unequal landholding, or contested sovereignty; constitutional nationalism achieved emancipation, land transfer, and statutory Home Rule, but underestimation of Ulster unionist resistance left enactment without an accepted settlement. No settled contradiction was adopted. Famine quantities and causation, private motives, degrees of allegiance, parliamentary and land-transfer figures, and Home Rule counterfactuals remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

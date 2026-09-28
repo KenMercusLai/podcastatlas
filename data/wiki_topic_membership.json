@@ -1521,6 +1521,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "337-ireland-union-famine-and-parnell-part-2-glt4375415331": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "339-ireland-the-easter-rising-1916-part-4-glt7095481415": [
     {
       "key": "history",
@@ -17037,6 +17044,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "CharlesStewartParnell": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "CharlieChaplin": [
     {
       "key": "culture",
@@ -22411,6 +22425,13 @@
     }
   ],
   "DanielKnowles": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "DanielOConnell": [
     {
       "key": "politics",
       "label": "Politics",
@@ -42420,6 +42441,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "JohnRedmond": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "JohnTerry": [

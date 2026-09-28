@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [337: Ireland: Union, Famine and Parnell (Part 2)](sources/337-ireland-union-famine-and-parnell-part-2-glt4375415331.md) — The Rest Is History episode on Catholic emancipation, famine culpability, land reform, constitutional nationalism, Home Rule, and Ulster resistance.
 - [E253｜谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长](sources/e253-shui-zai-gei-damoxing-chuti-maiti-panjuan-liaoliao-ai-shuju-hangye-de-yemanshengzhang-0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d.md) — 硅谷101 episode on expert rubrics, agent environments, benchmark integrity, vertical data procurement, reward hacking, and contributor incentives.
 - [How Emotions & Social Factors Impact Learning | Dr. Immordino-Yang](sources/how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002.md) — Huberman Lab interview on embodied emotion, narrative meaning, default-mode processing, adolescent reflection, culturally shaped perception, and inquiry-centered education.
 - [VOL.51四科室医生会诊｜拒绝恐惧和焦虑 正确理性面对“二阳”才是正经事](sources/vol-51-sikeshi-yisheng-huizhen-jujue-kongju-he-jiaolv-zhengque-lixing-miandui-eryang-caishi-zhengjingshi-lqzw5tta44mvu60jg-hrmxsak8ko.md) — 这病说来话长 multi-specialty episode on repeat-COVID triage, atypical decline, proportional care routing, treatment boundaries, and graded return to activity.
@@ -3097,6 +3098,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [341: The Trials of Oscar Wilde: Sex and Scandal (Part 1)](sources/341-the-trials-of-oscar-wilde-sex-and-scandal-part-1-glt1940599692.md) — The Rest Is History episode on Wilde's celebrity, changing sexual law and identity, unequal relationships, the Queensberry conflict, and the failed libel prosecution.
 
 ## Entities
+- [Daniel O'Connell](entities/DanielOConnell.md) — Irish organizer whose Catholic Association and County Clare victory helped force emancipation in 1829.
+- [Charles Stewart Parnell](entities/CharlesStewartParnell.md) — Irish Parliamentary Party leader who joined land agitation, Westminster leverage, and Home Rule.
+- [John Redmond](entities/JohnRedmond.md) — Constitutional nationalist whose parliamentary leverage brought Home Rule onto the statute book.
+- [Great Irish Famine](entities/GreatIrishFamine.md) — 1845-1849 catastrophe that transformed Irish demography, migration, political memory, and trust in British rule.
 - [何韵中 / He Yunzhong](entities/HeYunzhong.md) — Scale AI researcher explaining post-training data, rubrics, environments, verifiers, procurement, and supplier R&D.
 - [孙一游 / Sun Yiyou](entities/SunYiyou.md) — UC Berkeley agent-evaluation researcher and Agent's Last Exam participant focused on real-work tasks and benchmark integrity.
 - [Agent's Last Exam](entities/AgentsLastExam.md) — Cross-domain agent benchmark built around professional tasks, tools, environments, verifiers, and held-out evaluation.
@@ -14328,6 +14333,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Raiders of the Lost Ark](entities/RaidersOfTheLostArk.md) — Adventure film that translates the Ark's dangerous holiness into an ultimate-weapon race against Nazi Germany.
 
 ## Concepts
+- [Irish Constitutional Nationalism](concepts/IrishConstitutionalNationalism.md) — Strategy linking mass organization, elections, Westminster leverage, land reform, and Home Rule.
 - [Expert Rubric Verification / 专家评分标准验证](concepts/ExpertRubricVerification.md) — Expert criteria used with program checks, model judges, and human review to evaluate open-ended AI work.
 - [Benchmark–Training Data Separation / 评测集与训练数据隔离](concepts/BenchmarkTrainingDataSeparation.md) — Governance rule keeping held-out evaluation tasks out of the training material used to claim benchmark performance.
 - [Vertical AI Data Procurement / 垂直 AI 数据采购](concepts/VerticalAIDataProcurement.md) — Acquisition and authorization of real projects, private data, software, and expert workflows before environment engineering.

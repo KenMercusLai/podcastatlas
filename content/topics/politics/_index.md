@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2783
+topic_total_pages: 2786
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4961,6 +4961,9 @@ topic_entities:
   - key: "CharlesHaughey"
     title: "Charles Haughey"
     url: "/wiki/entities/charleshaughey/"
+  - key: "CharlesStewartParnell"
+    title: "Charles Stewart Parnell"
+    url: "/wiki/entities/charlesstewartparnell/"
   - key: "ChiangKaiShek"
     title: "Chiang Kai-shek / 蒋介石"
     url: "/wiki/entities/chiangkaishek/"
@@ -5042,6 +5045,9 @@ topic_entities:
   - key: "DanielKnowles"
     title: "Daniel Knowles"
     url: "/wiki/entities/danielknowles/"
+  - key: "DanielOConnell"
+    title: "Daniel O'Connell"
+    url: "/wiki/entities/danieloconnell/"
   - key: "DarkMatterLabs"
     title: "Dark Matter Labs"
     url: "/wiki/entities/darkmatterlabs/"
@@ -5663,6 +5669,9 @@ topic_entities:
   - key: "JohnPrideaux"
     title: "John Prideaux"
     url: "/wiki/entities/johnprideaux/"
+  - key: "JohnRedmond"
+    title: "John Redmond"
+    url: "/wiki/entities/johnredmond/"
   - key: "JonathanSwift"
     title: "Jonathan Swift / 乔纳森·斯威夫特"
     url: "/wiki/entities/jonathanswift/"

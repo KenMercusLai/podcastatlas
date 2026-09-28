@@ -2,34 +2,53 @@
 title: "安邑 / Anyi"
 type: entity
 tags: [place, city, pre-qin, wei-state]
-sources: [zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l, zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-1-lss3e9g45jyndnvmsexwibwce5oo, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
+sources:
+  - zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz
+  - zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l
+  - zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-1-lss3e9g45jyndnvmsexwibwce5oo
+  - zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf
+  - zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof
+  - zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf
 last_updated: 2026-08-24
+knowledge_schema: synthesis-v1
 ---
 
 # 安邑 / Anyi
 
-安邑 / Anyi appears in [[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]] as the [[WeiState|魏国]] capital besieged by [[HanState|韩国]] and [[ZhaoState|赵国]] after the [[ZhuozeBattle|Battle of Zhuoze]].
+## Overview
+Anyi is a Wei capital and later strategic city in the podcast's Warring States accounts; centuries later it reappears as a military target in the Chu-Han war and a temporary refuge for the Eastern Han emperor.
 
-The page is source-scoped. Anyi matters because the siege makes Wei's succession crisis existential: [[LiangHuiWang|魏罃]] survives not through a clear military recovery at first, but because Han and Zhao split over what settlement to impose.
+## Current Profile
+Its recurring importance is geographic and institutional rather than a continuous single political status: a contested capital, a Qin pressure point, an objective beyond a river defense, and an improvised court each belong to different periods.
 
-[[zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof]] adds a later Qin-pressure role. [[ShangYang|公孙鞅 / 商鞅]] attacks Wei and takes or pressures Anyi in 352 BCE, making the former Wei capital a sign that [[QinState|秦国]] has become the main danger forcing Wei to repair relations with Zhao and Qi.
+## Key Characteristics
+- As Wei's capital, it was besieged during a succession crisis whose victors failed to agree on a settlement.
+- Qin's repeated pressure on the former capital marked Wei's weakening western position and eventual move to Daliang.
+- In a later Qin-Qi strategic division, Qin pressed Anyi while Qi pursued Song.
+- Han Xin's hidden river crossing turned it into a target behind Wei Bao's expected defense.
+- In 195 CE, it hosted an impoverished but symbolically functioning imperial court.
 
-[[zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf]] makes Anyi the old capital Wei leaves after Shang Yang's later victory. [[LiangHuiWang|魏惠王]] cedes Hexi to Qin and moves to [[Daliang|大梁]], so Anyi becomes part of the page's broader pattern: Qin pressure turns Wei's western geography from capital base into liability.
+## Evidence
+- **Wei succession and siege:** In the episode's 369 BCE sequence, after the [[ZhuozeBattle]], [[HanState]] and [[ZhaoState]] besieged the [[WeiState]] capital Anyi while [[LiangHuiWang]] (Wei Ying) contested succession. Zhao wanted to replace him and take land; Han wanted to split Wei. Their disagreement ended the siege and allowed Wei Ying to survive and kill his rival. [[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]]
+- **Western capital under Qin pressure:** In the 352 BCE account, [[ShangYang]] attacks or pressures Anyi while [[QinState]] also contests nearby positions such as [[Guyang]], prompting Wei to repair ties with Zhao and Qi. A later episode places Wei's cession of Hexi and move from Anyi to [[Daliang]] after Shang Yang's victory and capture of Gongzi Ang; it also discusses the tactical credibility cost of his parley deception. These notices do not prove uninterrupted Qin control between campaigns. [[zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof]] [[zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf]]
+- **Qin-Qi strategic geography:** In the later Qin Zhaoxiang Wang account, a renewed Qin attack on Anyi and movement of inhabitants east accompany Qin pressure on Wei, while [[QiMinWang]] keeps room to attack [[SongState]]. The episode treats this as a tacit division of strategic space, not a formal Qin-Qi treaty. [[zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-1-lss3e9g45jyndnvmsexwibwce5oo]]
+- **Chu-Han operational objective:** [[HanXin]] held [[WeiBao]] at the expected [[PubanWarringStates]]/Linjin crossing with visible boats, crossed farther north at [[XiayangChuHan]] using boards and jar-floats, and threatened Anyi. Wei Bao left the frontal line; Cao Shen took the city and subsequent pursuit led to Wei's defeat and administrative absorption. [[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l]]
+- **Late-Han refuge and legitimacy:** The 195 CE narrative has [[EmperorXianOfHan]] arrive by rough ox cart after the [[LiJueLateHan]]–[[GuoSiLateHan]] crisis. [[HedongCommandery]] supplies some offerings, yet hunger, improvised wooden seals, thorn-fence security, and cramped lodging make official appointments a thin continuity of imperial authority. This court cannot be collapsed into the Warring States or Chu-Han events. [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz]]
 
-[[zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-1-lss3e9g45jyndnvmsexwibwce5oo]] returns Anyi as a symbolic and strategic cost for Wei in the later Qin Zhaoxiang Wang period. The episode says Qin attacks Wei, takes the old capital Anyi, and moves its inhabitants back east, while [[QiMinWang|齐湣王]] preserves room to attack [[SongState|宋国]]. Anyi therefore marks the Qin side of a tacit division of pressure: Qin tightens on Wei as Qi turns toward Song.
+## Qualifications
+The 352 BCE notice says attack/pressure rather than securely dated permanent occupation; the later capture is a distinct episode. Capital relocation and Hexi cession follow the podcast's narrative. The historical episodes are secondary interpretations with possible chronicle dating and transcription issues.
 
-[[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|Hanji 155-2]] brings Anyi back in the Chu-Han period as the target of [[HanXin|韩信]]'s hidden crossing against [[WeiBao|魏豹]]. While Wei defends the expected crossing near [[PubanWarringStates|蒲阪]], Han Xin crosses at [[XiayangChuHan|下阳]] and threatens Anyi, forcing Wei Bao out of his prepared line.
+## What Changed
+- Anyi's functions are distinguished across Warring States, Chu-Han, and late-Han settings.
+- Qin pressure is presented as repeated, not an invented unbroken control chronology.
 
-[[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz|Hanji 992]] adds a late-Han court-flight use. [[EmperorXianOfHan|汉献帝]] reaches Anyi in 195 CE after the [[LiJueLateHan|李傕]]-[[GuoSiLateHan|郭汜]] crisis, and the city becomes the setting for an improvised court: rough lodging, emergency official seals, and continued appointments despite food shortage and weak security.
-
-## Connections
-- [[WeiState|魏国]] - polity whose capital is besieged.
-- [[LiangHuiWang|魏罃 / 梁惠王]] - claimant trapped by the siege and later ruler.
-- [[HanState|韩国]] and [[ZhaoState|赵国]] - besieging coalition.
-- [[ZhuozeBattle|浊泽之战]] - battlefield prelude to the siege.
-- [[CoalitionSettlementFailure]] and [[SuccessionCrisisIntervention]] - concepts explaining why the siege fails to decide Wei's fate.
-- [[QinState|秦国]], [[ShangYang|公孙鞅 / 商鞅]], [[Guyang|固阳]], and [[QinEastwardPressure]] - Zhouji 17 Qin pressure branch.
-- [[Daliang|大梁]], [[LiangHuiWang|魏惠王]], and [[TacticalCredibilityCost|战术信用成本]] - Zhouji 23 capital-move branch after Shang Yang's victory.
-- [[QinZhaoxiangwang|秦昭襄王]], [[QiMinWang|齐湣王]], [[SongState|宋国]], and [[EastWestEmperorDiplomaticProbe|东西二帝试探]] - Zhouji 68 part 1 Anyi pressure beside Qi's Song project.
-- [[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|Hanji 155-2]], [[HanXin|韩信]], [[WeiBao|魏豹]], [[XiayangChuHan|下阳]], and [[RiverCrossingDeception|渡河欺敌]] - target of the hidden crossing in the West Wei campaign.
-- [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz|Hanji 992]], [[EmperorXianOfHan|汉献帝]], [[HedongCommandery|河东郡]], [[ZhangYangLateHan|张杨]], and [[MingqiLegitimacy|名器合法性]] - late-Han improvised court and blocked return-to-Luoyang plan.
+## Relationships
+- [[CoalitionSettlementFailure]] - Han-Zhao disagreement saved Wei's besieged capital.
+- [[SuccessionCrisisIntervention]] - internal Wei contest invited neighbors.
+- [[QinEastwardPressure]] - western capital became a liability.
+- [[TacticalCredibilityCost]] - Shang Yang's victory had later trust costs.
+- [[EastWestEmperorDiplomaticProbe]] - Qin-Qi title diplomacy framed the later pressure.
+- [[QinZhaoxiangwang]] - ruler in the later Qin campaign account.
+- [[RiverCrossingDeception]] - Han Xin reached the city behind expected defenses.
+- [[MingqiLegitimacy]] - late-Han court retained titles despite material collapse.
+- [[ZhangYangLateHan]] - river-region support in the emperor-flight context.

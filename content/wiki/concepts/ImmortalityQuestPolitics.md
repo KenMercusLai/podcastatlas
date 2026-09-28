@@ -2,55 +2,50 @@
 title: "Immortality Quest Politics / 求仙政治"
 type: concept
 tags: [politics, religion, china, empire, immortality]
-sources: [zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-2-ln15p5qb7lc20goni1ibcpmn3wca, zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe, zizhi-tongjian-qinji-125-2-lishishang-qinshihuang-weihe-yao-fenshu-kengru-lulaivzp1xqs71nbaltr-ygpjihw, zizhi-tongjian-qinji-125-1-qinshihuang-xiujian-shishang-zuida-lanweilou-afanggong-lhqc6jw4jzoyrg7jzc2mbxdebj4, zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8, zizhi-tongjian-qinji-122-2-ribenren-daodi-shi-bushi-xufu-de-houdai-lhgbbhg3zw8rlx1jjb7lpb5ihihh, zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997]
+sources:
+  - zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-2-ln15p5qb7lc20goni1ibcpmn3wca
+  - zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe
+  - zizhi-tongjian-qinji-125-2-lishishang-qinshihuang-weihe-yao-fenshu-kengru-lulaivzp1xqs71nbaltr-ygpjihw
+  - zizhi-tongjian-qinji-125-1-qinshihuang-xiujian-shishang-zuida-lanweilou-afanggong-lhqc6jw4jzoyrg7jzc2mbxdebj4
+  - zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8
+  - zizhi-tongjian-qinji-122-2-ribenren-daodi-shi-bushi-xufu-de-houdai-lhgbbhg3zw8rlx1jjb7lpb5ihihh
+  - zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo
+  - 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997
+knowledge_schema: synthesis-v1
 last_updated: 2026-08-22
 ---
 
-# Immortality Quest Politics / 求仙政治
+## Definition
+求仙政治 names the conversion of an emperor's quest for immortal life into court patronage, resource use, prophecy interpretation, itinerary controls and coercion; it is an interpretive category, not a Qin administrative office.
 
-Immortality quest politics / 求仙政治 is the pattern in [[87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997]] where rulers' fear of death turns immortal belief into policy, expenditure, court access, and coercion. The source moves from early immortal-island and elixir imagination into the imperial cases of [[QinShiHuang|秦始皇]] and [[HanWudi|汉武帝]].
-
-The concept differs from private religious hope. When an emperor wants immortality, fangshi promises can mobilize ships, palaces, rituals, metals, appointments, marriages, punishments, and secrecy. The private fantasy becomes a public resource problem.
-
-[[zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo]] adds a prelude rather than the full sea-search story. After [[QinShiHuang|嬴政 / 秦始皇]] completes the [[Taishan|泰山]] fengshan ceremony, fangshi from Yan and Qi begin petitioning around overseas immortal worlds and search projects. The source therefore places [[FengshanRitualLegitimacy|封禅礼制合法性]] and immortality-seeking next to each other: a public claim of heavenly approval opens into specialist-mediated promises about access to immortals.
-
-[[zizhi-tongjian-qinji-122-2-ribenren-daodi-shi-bushi-xufu-de-houdai-lhgbbhg3zw8rlx1jjb7lpb5ihihh]] supplies the sea-search story itself. [[XuFu|徐福]]'s mission turns [[Penglai|蓬莱]] and immortal medicine into ships, children, craftsmen, grain, seeds, and a second round of imperial investment after failure. The episode also extends the concept's afterlife: once a failed mission becomes legend, later communities can attach graves, shrines, surnames, and cultural-origin stories to it without proving the original promise true.
-
-[[zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8]] adds the [[LuSheng|卢生]] branch. Here failed immortal search does not primarily produce another budget request; it produces a warning text. "亡秦者胡" turns the court's search for sacred access into [[ProphecyTriggeredPolicy|预言触发政策]], linking death anxiety and sea-facing fangshi work to a northern military decision against [[Xiongnu|匈奴]].
-
-[[zizhi-tongjian-qinji-125-1-qinshihuang-xiujian-shishang-zuida-lanweilou-afanggong-lhqc6jw4jzoyrg7jzc2mbxdebj4]] adds the hidden-residence phase. [[LuSheng|卢生]] now tells [[QinShiHuang|秦始皇]] that avoiding fixed residence and concealing his lodging will help him evade ghosts and meet immortals. The result is [[ImperialItinerarySecrecy|帝王行踪保密]]: death anxiety becomes palace-network construction, movement control, leak executions, and finally a [[FangshiAccountabilityTrap|方士问责陷阱]] when immortal medicine still does not arrive.
-
-[[zizhi-tongjian-qinji-125-2-lishishang-qinshihuang-weihe-yao-fenshu-kengru-lulaivzp1xqs71nbaltr-ygpjihw]] adds the punishment phase. The search still yields no immortal or deathless medicine, so [[HouShengFangshi|侯生]] and [[LuSheng|卢生]] flee and criticize Qin Shi Huang. The episode makes their failed delivery and flight the proximate path from immortality politics into the [[QinKengruIncident|秦代坑儒事件]].
-
-[[zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe]] adds the death-omen phase. After failed immortal search, secrecy, and punishment, the returned jade bi and "今年祖龙死" prophecy make Qin Shi Huang's death anxiety explicit. The source ties the jade bi to the earlier river sacrifice during the [[XiangshanShrine|Xiangshan]] storm branch, so immortality politics now receives back a ritual object as an omen rather than medicine.
-
-[[zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-2-ln15p5qb7lc20goni1ibcpmn3wca]] adds the countermeasure phase. The death warning now produces divination and movement: "游徙吉" sends the narrative from immortal-seeking and omen interpretation into [[OmenCountermeasureMobility|游徙避命]]. Instead of receiving medicine or meeting immortals, Qin Shi Huang tries to alter the conditions around death through relocation and his final tour.
+## Current Synthesis
+In the Qin chronicle episodes, public [[FengshanRitualLegitimacy]] opens access to Yan-Qi specialists, [[XuFu]]'s overseas search turns court hope into expeditions, [[LuSheng]] turns failure into omens and secrecy, and later punishment and travel reflect deteriorating trust. A separate fangshu survey compares [[HanWudi]] and later violence. These podcast readings of transmitted histories do not authenticate immortals, determine imperial inner psychology or prove every policy was caused by the search.
 
 ## Key Claims
-- Ruler death anxiety creates a market for specialists who promise privileged access to immortality.
-- Failure can be reinterpreted as hidden success, obstruction, distance, or insufficient ritual conditions.
-- Imperial sponsorship makes fangshu materially powerful and politically risky.
-- The same structure that rewards miracle claims can punish practitioners violently when belief collapses.
-- Qinji 122-1 adds the transition point where eastern fangshi proposals begin after the Taishan fengshan ceremony, before the later immortality project fully unfolds.
-- Qinji 122-2 adds the resource-conversion phase: failure is explained through divine conditions, then used to secure people, materials, and renewed authorization.
-- The Xu Fu Japan branch shows how immortality projects can outlive their original court setting as legend, shrine memory, and cultural-exchange story.
-- Qinji 123-1 adds the warning-conversion phase: failed search can return as prophecy rather than medicine, turning sacred uncertainty into a policy frame.
-- Qinji 125-1 adds the secrecy-conversion phase: immortal-seeking advice turns the emperor's residence and movements into lethal information-control problems.
-- Qinji 125-2 adds the backlash-conversion phase: failed immortality promises become flight, anger, interrogation, and mass punishment.
-- Qinji 126 part 1 adds the omen-return phase: a prior sacred offering returns as a death sign, pushing immortal-seeking anxiety toward the final tour.
-- Qinji 126 part 2 adds the countermeasure phase: failed immortality seeking gives way to divination, migration, and tour movement as attempts to alter death's timing.
+- Court sponsorship converts unverifiable sacred promises into ships, personnel and repeat funding.
+- Prophecy can provide a policy frame without being the sole cause of a military decision.
+- Secrecy prescribed to meet immortals can magnify coercion and prevent feedback about failure.
+- Failed promises create an accountability trap in which practitioners flee and state retaliation spreads beyond them.
+- Death omens may shift a ruler from seeking medicine to attempting fate-changing movement, but motive remains interpretive.
+- Across reigns, fangshu mixes psychological relief, technical knowledge and fraud risk with escalating public costs.
 
-## Connections
-- [[87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997]] - source episode.
-- [[QinShiHuang|秦始皇]], [[XuFu|徐福]], and [[HanWudi|汉武帝]] - main cases.
-- [[FangshiFraudAndAuthority]] - specialist-authority and scam branch.
-- [[YinYangFivePhasesPoliticalTheory]] and [[AuspiciousOmenPolitics]] - cosmological legitimacy context.
-- [[AlchemyChemistryContinuity]] and [[DaoistAlchemy]] - elixir and material-practice branch.
-- [[FangshuSystematization]] - later organization of immortality arts.
-- [[zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo|Qinji 122-1]], [[Taishan|泰山]], and [[FengshanRitualLegitimacy|封禅礼制合法性]] - ritual-legitimacy prelude to Yan-Qi fangshi search proposals.
-- [[zizhi-tongjian-qinji-122-2-ribenren-daodi-shi-bushi-xufu-de-houdai-lhgbbhg3zw8rlx1jjb7lpb5ihihh|Qinji 122-2]], [[Penglai|蓬莱]], [[Japan]], and [[XuFuJapanDescentLegend|徐福日本后裔传说]] - sea-search story, later reception, and descent-claim caution.
-- [[zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8|Qinji 123-1]], [[LuSheng|卢生]], [[ProphecyTriggeredPolicy|预言触发政策]], [[MengTian|蒙恬]], and [[Xiongnu|匈奴]] - failed search returning as warning and frontier campaign trigger.
-- [[zizhi-tongjian-qinji-125-1-qinshihuang-xiujian-shishang-zuida-lanweilou-afanggong-lhqc6jw4jzoyrg7jzc2mbxdebj4|Qinji 125-1]], [[ImperialItinerarySecrecy|帝王行踪保密]], [[FangshiAccountabilityTrap|方士问责陷阱]], and [[QinShiHuang|秦始皇]] - hidden movement, leak punishment, and accountability pressure after undelivered immortality.
-- [[zizhi-tongjian-qinji-125-2-lishishang-qinshihuang-weihe-yao-fenshu-kengru-lulaivzp1xqs71nbaltr-ygpjihw|Qinji 125-2]], [[HouShengFangshi|侯生]], [[FuSu|扶苏]], and [[QinKengruIncident|秦代坑儒事件]] - failed promises, fangshi flight, and the punishment case.
-- [[zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe|Qinji 126]], [[QinLateOmenCrisis|秦始皇晚年异象危机]], [[XiangshanShrine|湘山祠]], and [[ProphecyTriggeredPolicy|预言触发政策]] - returned jade bi, "祖龙" prophecy, and final-tour death anxiety.
-- [[zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-2-ln15p5qb7lc20goni1ibcpmn3wca|Qinji 126 part 2]], [[OmenCountermeasureMobility|游徙避命]], and [[ZhaoZhengShu|《赵正书》]] - divination and mobility after the death omen.
+## Evidence
+- Ritual to resources: [[zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo]] says more than 70 Qi-Lu scholars disagreed on the [[Taishan]] rite; after a partly Qin-style ceremony, Yan-Qi fangshi proposed eastern islands. [[zizhi-tongjian-qinji-122-2-ribenren-daodi-shi-bushi-xufu-de-houdai-lhgbbhg3zw8rlx1jjb7lpb5ihihh]] recounts [[Penglai]] and Xu Fu's ships, children, craftsmen, grain and seeds, then further investment after apparent failure. [[XuFuJapanDescentLegend]] preserves shrines and local memory in [[Japan]] but cannot establish Japanese ancestry or a founded foreign kingdom; the host favors an early account in which he returned despite a rhetorical “一去不复返” coda.
+- Warning as policy: [[zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8]] reports Lu Sheng returning with “亡秦者胡”; [[QinShiHuang]] read 胡 as the northern [[Xiongnu]] and sent [[MengTian]] with 300,000 troops. Reading it as [[QinErshi]] Hu Hai is retrospective, and the host also sees non-prophetic reasons for a northern campaign. This is [[ProphecyTriggeredPolicy]] as one frame, not sufficient causal proof.
+- Hidden court and reckoning: [[zizhi-tongjian-qinji-125-1-qinshihuang-xiujian-shishang-zuida-lanweilou-afanggong-lhqc6jw4jzoyrg7jzc2mbxdebj4]] recounts Lu Sheng's advice to conceal residence and move unpredictably to evade ghosts and encounter immortals: 270 palaces reportedly connected around [[Xianyang]], information leaks punished by executions, the ruler calling himself “真人.” [[ImperialItinerarySecrecy]] differs from the massive [[AfangPalace]] and mausoleum works involving a reported 700,000 convict laborers; the source links both to late-Qin extraction, not one single immortal project. [[zizhi-tongjian-qinji-125-2-lishishang-qinshihuang-weihe-yao-fenshu-kengru-lulaivzp1xqs71nbaltr-ygpjihw]] follows [[HouShengFangshi]] and Lu Sheng fleeing, interrogation and more than 460 people punished in the [[QinKengruIncident]], and [[FuSu]]'s remonstrance and dispatch to Shangjun. The punished population's identity remains disputed; this is separate from book burning.
+- Omen to mobility: [[zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe]] reports the 211 BCE meteor writing, “荧惑守心,” and a returned jade bi linked in the narrative to [[XiangshanShrine]], followed by “今年祖龙死”; inscription wording may be later shaped. [[zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-2-ln15p5qb7lc20goni1ibcpmn3wca]] recounts “游徙吉,” 30,000 households sent to 北河/榆中 and the last tour as [[OmenCountermeasureMobility]]. The host treats 《资治通鉴》“河北” versus 《史记》“北河” as a consequential textual discrepancy and invokes [[ZhaoZhengShu]]; an attempt to change fate is inference, not proof of the emperor's mind.
+- Comparative account: [[87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997]] surveys early divination, [[YinYangFivePhasesPoliticalTheory]], [[FangshiFraudAndAuthority]], Han Wudi's costly platforms and spirit-summoning, and the [[WuguPoliticalPanic]]; [[LiuAn]]'s [[Huainanzi]] also preserves technical lore. “迷信可存，伪士当去” is the show's normative distinction between private belief and exploitative court access.
+
+## Counterevidence & Qualifications
+The historical sequence is reconstructed by one podcast series plus another show. There is no evidence that a supernatural medicine existed, that all fangshi were frauds, or that all palace construction served one end. The date/wording of omens, Qin Shi Huang's death psychology, the 460-plus victims' identities and Xu Fu's destination are contested or source-scoped. [[AlchemyChemistryContinuity]] and [[DaoistAlchemy]] concern later material/intellectual traditions, not proof of an immortal elixir here.
+
+## What Changed
+- Compressed episode chronology into resources, prophecy, secrecy, punishment and omen-response mechanisms.
+- Distinguished reported chronicle details from presenter inference and later Xu Fu legend.
+
+## Related Concepts
+- [[FangshiAccountabilityTrap]] - failed miraculous delivery turns a favored specialist into a target.
+- [[QinLateOmenCrisis]] - meteor and jade-bi narratives immediately precede the final tour.
+- [[AuspiciousOmenPolitics]] - sacred signs can authorize rule or produce anxiety about its end.
+- [[ImperialTourPoliticalTheater]] - the final journey adds a fate-response reading to the public-tour function.
+- [[FangshuSystematization]] - later institutionalization of techniques initially sold to imperial patrons.
