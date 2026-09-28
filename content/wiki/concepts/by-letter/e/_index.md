@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 8778
+wiki_total_pages: 8780
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -785,6 +785,9 @@ wiki_pages:
   - key: "EssentialPatents"
     title: "Essential Patents"
     url: "/wiki/concepts/essentialpatents/"
+  - key: "EstrobolomeEstrogenRecirculation"
+    title: "Estrobolome and Estrogen Recirculation"
+    url: "/wiki/concepts/estrobolomeestrogenrecirculation/"
   - key: "ETFConsensusFeedback"
     title: "ETF Consensus Feedback / ETF 共识反馈"
     url: "/wiki/concepts/etfconsensusfeedback/"

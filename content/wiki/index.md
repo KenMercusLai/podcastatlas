@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried](sources/how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5123681521.md) — Full-length Huberman Lab interview on female hormone phenotyping, gut-estrogen biology, constipation as a systemic signal, PCOS, contraception, perimenopause, hormone therapy, and cardiometabolic screening.
 - [GUEST SERIES | Dr. Andy Galpin: How to Build Physical Endurance & Lose Fat](sources/guest-series-dr-andy-galpin-how-to-build-physical-endurance-lose-fat-scim1818614492.md) — Huberman Lab guest-series episode on four endurance capacities, acute versus long-term fuel use, metabolic flexibility, lactate, breathing mechanics, and constraint-specific protocols.
 - [300: The Real Downton Abbey](sources/300-the-real-downton-abbey-glt7393411506.md) — The Rest Is History episode on British domestic-service hierarchy, wartime decline, gendered housework transfer, and the nostalgia of upstairs-downstairs drama.
 - [VOL.19儿科｜儿科绝不是缩小版的成人 有些药物是儿童是千万不能用的](sources/vol-19-erke-erke-jue-bushi-suoxiao-ban-de-chengren-youxie-yaowu-shi-ertong-qianwan-buneng-yong-de-lj9gj3jcpbyul8crv2og1wboygtq.md) — 这病说来话长 introduction to 林佳君 Nora on age-specific pediatric disease patterns, medication safety, caregiver-mediated history, family-facing consultations, and shared decisions.
@@ -14576,6 +14577,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Satchin Panda](entities/SatchinPanda.md) — Circadian-biology researcher separating meal timing, fasting duration, energy intake, and evidence limits in animal and human studies.
 
 ## Concepts
+- [Estrobolome and Estrogen Recirculation](concepts/EstrobolomeEstrogenRecirculation.md) — Gut-microbial estrogen metabolism frame that separates beta-glucuronidase-mediated recirculation from broad microbiome treatment claims.
+- [Constipation as a Systemic Health Signal](concepts/ConstipationSystemicHealthSignal.md) — Pattern-and-triage frame connecting bowel symptoms with diet, stress, autonomic balance, thyroid, gut, medication, and hormone context.
 - [British Domestic-Service Hierarchy](concepts/BritishDomesticServiceHierarchy.md) — Ranked household labor system organized through class, gender, space, etiquette, dependency, and controlled visibility.
 - [Paid Service-to-Unpaid Housework Transfer](concepts/PaidServiceToUnpaidHouseworkTransfer.md) — Redistribution of domestic work from servants to household members, especially postwar housewives, rather than disappearance of the work.
 - [Pediatric Care Age-Specificity / 儿科诊疗年龄特异性](concepts/PediatricCareAgeSpecificity.md) — Pediatric framework joining development, disease pattern, anatomy, medication suitability, caregiver history, and child-inclusive communication.

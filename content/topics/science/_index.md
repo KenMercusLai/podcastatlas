@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1317
+topic_total_pages: 1318
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -3735,6 +3735,9 @@ topic_sources:
   - key: "how-to-optimize-cognitive-function-brain-health-dr-mark-desposito-scim4205449835"
     title: "How to Optimize Cognitive Function & Brain Health | Dr. Mark D'Esposito"
     url: "/wiki/sources/how-to-optimize-cognitive-function-brain-health-dr-mark-desposito-scim4205449835/"
+  - key: "how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5123681521"
+    title: "How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried"
+    url: "/wiki/sources/how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5123681521/"
   - key: "how-to-overcome-social-anxiety-dr-nick-epley-scim7834121132"
     title: "How to Overcome Social Anxiety | Dr. Nick Epley"
     url: "/wiki/sources/how-to-overcome-social-anxiety-dr-nick-epley-scim7834121132/"

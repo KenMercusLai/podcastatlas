@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8778
+wiki_total_pages: 8780
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1811,6 +1811,9 @@ wiki_pages:
   - key: "ConstantPropertyConstantHeart"
     title: "Constant Property, Constant Heart / 有恒产者有恒心"
     url: "/wiki/concepts/constantpropertyconstantheart/"
+  - key: "ConstipationSystemicHealthSignal"
+    title: "Constipation as a Systemic Health Signal"
+    url: "/wiki/concepts/constipationsystemichealthsignal/"
   - key: "ConstituentNationSportingIdentity"
     title: "Constituent Nation Sporting Identity"
     url: "/wiki/concepts/constituentnationsportingidentity/"

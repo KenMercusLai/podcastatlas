@@ -25176,6 +25176,10 @@ Ran lint. See lint-report.md for details.
 
 Added source `300-the-real-downton-abbey-glt7393411506`; created `LucyLethbridge`, `DowntonAbbey`, `BritishDomesticServiceHierarchy`, and `PaidServiceToUnpaidHouseworkTransfer`; and updated the canonical index. Core synthesis: British domestic service combined paid household work with a classed, gendered identity that controlled rank, visibility, intimacy, and time; war and alternative employment weakened inherited deference; and postwar decline redistributed much of the work to housewives while making labor-saving technology more acceptable. No settled contradiction was adopted. Employment totals, named anecdotes, refugee experiences, and household variation remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
 
+## [2026-09-29] ingest | How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried
+
+Added source `how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5123681521`; created `EstrobolomeEstrogenRecirculation` and `ConstipationSystemicHealthSignal`; and updated `SaraGottfried`, `LisaMosconi`, `FemaleHormoneHealthPhenotyping`, `PCOSCardiometabolicRisk`, `OralContraceptiveInformedConsent`, `PerimenopauseBrainMetabolism`, `CoronaryArteryCalciumMidlifeScreening`, `MenopausalHormoneTherapy`, `WomensHealthDiagnosticGap`, and the canonical index from their complete bounded source sets. Core synthesis: female hormone health is a life-course systems problem linking stress, trauma, gut function, bowel patterns, thyroid, sex hormones, insulin, contraception, menopause, and cardiometabolic risk, but testing, supplement, treatment, and screening claims remain individualized and evidence-bounded. No settled contradiction was adopted; PCOS psychosocial causation, daily bowel criteria, gut-length claims, commercial testing, dosing, hormone-therapy safety, ketogenic experiments, and age-45 coronary-calcium screening remain speculative, source-scoped, or clinician-dependent. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -25183,6 +25187,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-29] ingest | GUEST SERIES | Dr. Andy Galpin: How to Build Physical Endurance & Lose Fat
 
 Added source `guest-series-dr-andy-galpin-how-to-build-physical-endurance-lose-fat-scim1818614492`; created `MetabolicFlexibility` and `BreathingGearsCO2Tolerance`; and updated `AndyGalpin`, `EnduranceTrainingModalities`, `ExerciseSnacks`, `FatMobilizationAndOxidation`, `LactateMetabolicShuttle`, `TrainingFuelTimingContext`, and the canonical index from their complete bounded source sets. Core synthesis: endurance is a family of local, anaerobic, maximal-aerobic, and long-duration capacities with different limiting systems; immediate fat oxidation, fasting, workout order, and breathing route do not determine long-term fat loss; and carbohydrate and fat are complementary fuels selected by demand. No settled contradiction was adopted. Duration ranges, interval doses, metabolic markers, breathing gears, exercise-snack outcomes, and maximal-effort protocols remain source-scoped public education. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-29] lint | Wiki health check
 
