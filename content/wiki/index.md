@@ -1122,6 +1122,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [317: African Amazons](sources/317-african-amazons-glt5973082485.md) — The Rest Is History episode on African women warriors, queen mothers, female rulers, Kush, Njinga, Asante, Ranavalona I, Dahomey's Agojie, and the moral/source problems around slavery and European "Amazon" projection.
 - [VOL.35康复医学科｜对“贵人语迟”的误解会耽误儿童言语的发展](sources/vol-35-kangfu-yixueke-dui-guiren-yuchi-de-wujie-hui-danwu-ertong-yanyu-de-fazhan-lnmoqgfmshs-zzt1gxkutv06w8aj.md) — 这病说来话长 episode with 阿汤 and speech therapist 梨花医生 on pediatric language-delay warning signs, family communication scaffolding, adult aphasia rhythm cueing, dysarthria boundaries, and long-term speech-language rehabilitation.
 - [318: Hundred Years' War: A Game of Thrones (Part 1)](sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008.md) — The Rest Is History episode on the Hundred Years' War origins through French power, English continental vulnerability, Gascony homage, Capetian succession, Scotland, Aquitaine, and Edward III's 1337 manifesto.
+- [320: Hundred Years' War: The Black Prince (Part 3)](sources/320-hundred-years-war-the-black-prince-part-3-glt6004693022.md) — The Rest Is History episode on chivalric rivalry, French factionalism, the Black Prince's chevauchée, civilian devastation, Poitiers, and John II's capture.
 - [321: Hundred Years' War: A Storm of Swords (Part 4)](sources/321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345.md) — The Rest Is History episode on post-Poitiers disorder, Brétigny, the Black Prince's Aquitaine, Charles V's recovery, du Guesclin's attrition, and the collapse of England's early gains.
 - [Control Stress for Healthy Eating, Metabolism & Aging | Dr. Elissa Epel](sources/control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803.md) — Huberman Lab episode with Elissa Epel on stress response and recovery, threat-versus-challenge appraisal, stress eating, mindful cue control, telomeres, mitochondria, acceptance, uncertainty tolerance, and positive-stress breathwork.
 - [从抢 GPU 到喂 AI，互联网正在悄悄更换主人](sources/ba044533d184-ba044533d184.md) — 科技乱炖 episode on Nvidia/CUDA moat pressure, GPU spot-market trust friction, model price routing, agent-readable web design, agent payment, MCP-style service access, and AI-assisted infrastructure operations.
@@ -3623,7 +3624,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Zachary Knight](entities/ZacharyKnight.md) — UCSF physiology researcher explaining predictive hunger and thirst control, appetite circuitry, obesity biology, and GLP-1 pharmacology.
 - [谢为 / Xie Wei (insurance broker)](entities/XieWeiInsurance.md) — Sponsor-linked 小雨伞 broker explaining life-stage coverage, channel differences, health disclosure, and claims services.
 - [St George](entities/StGeorge.md) — Historically uncertain martyr whose layered afterlife joins soldier sainthood, dragon-slaying, English patronage, and transnational symbolic reuse.
-- [Order of the Garter](entities/OrderOfTheGarter.md) — English royal chivalric order that institutionalized St George as a patron of monarchy, warfare, and national identity.
+- [Order of the Garter](entities/OrderOfTheGarter.md) — English royal chivalric order joining St George, Arthurian kingship, Crécy fellowship, and contested foundation chronology.
 - [Bellerophon](entities/Bellerophon.md) — Greek mounted hero used as a qualified classical parallel for later St George iconography.
 - [Diocletian](entities/Diocletian.md) — Roman emperor whose Christian persecution supplies historical context, but not proof, for a martyr behind the George tradition.
 - [Old Sarum](entities/OldSarum.md) — Emblematic rotten borough whose inherited seats, tiny electorate, and landowner control exposed pre-reform representational inequality.
@@ -5176,8 +5177,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Huaxizi / 花西子](entities/Huaxizi.md) — Chinese beauty brand whose Korean pop-up and store-channel entry illustrate Chinese beauty localization in Korea.
 - [Mingming Henmang / 鸣鸣很忙](entities/MingmingHenmang.md) — Chinese value snack chain used as evidence for discount-snack store growth and channel concentration.
 - [Wanchen Group / 万辰集团](entities/WanchenGroup.md) — Chinese value snack chain operator used as evidence for discount-snack revenue growth and consolidation.
-- [Hundred Years' War](entities/HundredYearsWar.md) — Anglo-French conflict branch spanning its structural origins, post-Poitiers reversal, and Henry V's later high point.
-- [Edward III of England](entities/EdwardIIIOfEngland.md) — English king whose mobilization and victories produce large but ultimately unstable French gains.
+- [Hundred Years' War](entities/HundredYearsWar.md) — Anglo-French conflict branch spanning structural origins, Poitiers-era zenith and reversal, and Henry V's later high point.
+- [Edward III of England](entities/EdwardIIIOfEngland.md) — English king whose chivalric statecraft, mobilization, raids, and victories produce large but unstable French gains.
 - [Philip VI of France](entities/PhilipVIOfFrance.md) — Valois king chosen over Edward III's claim and tied to the 1337 confiscation of Aquitaine.
 - [Edward II of England](entities/EdwardIIOfEngland.md) — Weak predecessor whose defeat, Aquitaine crisis, and deposition shape Edward III's inheritance.
 - [Isabella of France](entities/IsabellaOfFrance.md) — Capetian daughter, English queen, and maternal route for Edward III's French claim.
@@ -14479,10 +14480,13 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Matthew MacDougall](entities/MatthewMacDougall.md) — Neurosurgeon connecting Neuralink’s assistive-interface roadmap to surgical precision, decoding, and augmentation boundaries.
 - [Neuralink](entities/Neuralink.md) — Neurotechnology company presented through its April 2023 assistive cortical-interface and robotic-insertion roadmap.
-- [John II of France](entities/JohnIIOfFrance.md) — Captive French king whose ransom value and concessions exceed the fractured kingdom's implementation capacity.
+- [John II of France](entities/JohnIIOfFrance.md) — French king whose noble alienation and Poitiers capture turn royal ransom into an unimplementable settlement problem.
+- [Battle of Poitiers](entities/BattleOfPoitiers.md) — 1356 English-Gascon victory that turned campaign weakness and French command failure into John II's capture.
+- [Geoffrey de Charny](entities/GeoffreyDeCharny.md) — French chivalric writer and Order of the Star organizer killed carrying the Oriflamme at Poitiers.
+- [John Chandos](entities/JohnChandos.md) — Black Prince adviser and commander associated with Crécy, the Garter, Loire reconnaissance, and Poitiers.
 - [Charles V of France](entities/CharlesVOfFrance.md) — French king who rebuilds revenue and loyalty and recovers most early English gains through attritional strategy.
-- [Charles the Bad](entities/CharlesTheBad.md) — Navarrese rival whose shifting Parisian, noble, and estate alliances deepen post-Poitiers disorder.
-- [Edward the Black Prince](entities/EdwardTheBlackPrince.md) — English prince whose costly Aquitanian rule turns military prestige into fiscal and allegiance problems.
+- [Charles the Bad](entities/CharlesTheBad.md) — Navarrese rival whose murder politics and shifting Anglo-French, noble, Parisian, and estate alliances deepen disorder.
+- [Edward the Black Prince](entities/EdwardTheBlackPrince.md) — English prince whose chevauchée and Poitiers prestige later become fiscal, sovereignty, and allegiance problems in Aquitaine.
 - [Bertrand du Guesclin](entities/BertrandDuGuesclin.md) — French constable associated with battle avoidance and attritional territorial recovery.
 - [Treaty of Brétigny](entities/TreatyOfBretigny.md) — 1360 settlement exchanging Edward III's crown claim for enlarged but fragile sovereign territory.
 - [Jacquerie](entities/Jacquerie.md) — Peasant uprising that exposes France's social and political breakdown after Poitiers.
@@ -16475,7 +16479,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Capetian Succession Crisis](concepts/CapetianSuccessionCrisis.md) — French succession rupture after Philip IV's sons that makes Edward III's rejected claim politically consequential.
 - [Feudal Homage Sovereignty Conflict](concepts/FeudalHomageSovereigntyConflict.md) — Pattern where formal sovereignty, homage, and appellate practice conflict before and after Brétigny.
 - [Dynastic Claim National Mobilization](concepts/DynasticClaimNationalMobilization.md) — Pattern where Edward III converts a dynastic and territorial claim into parliamentary and English-cause framing.
-- [Chivalric Romance War Memory](concepts/ChivalricRomanceWarMemory.md) — War-memory frame contrasting knights and honor with social violence, strategic failure, and institutional collapse.
+- [Chivalric Romance War Memory](concepts/ChivalricRomanceWarMemory.md) — War-memory frame contrasting elite honor and institutions with civilian exclusion, social violence, and strategic failure.
+- [Chevauchée](concepts/Chevauchee.md) — Mounted-raiding method connecting speed, loot, ransom, political shock, settlement destruction, and civilian harm.
 - [Stress Response Recovery](concepts/StressResponseRecovery.md) — Epel frame where stress outcomes depend on appraisal, body activation, recovery, coping resources, and whether the stress response remains active longer than needed.
 - [Threat Challenge Stress Reappraisal](concepts/ThreatChallengeStressReappraisal.md) — Stress-appraisal concept separating threat physiology from challenge physiology and emphasizing believable resource-backed scripts.
 - [Stress Eating Reward Loop](concepts/StressEatingRewardLoop.md) — Pattern where stress, cravings, insulin resistance, reward sensitivity, compulsive eating traits, and liquid-sugar environments can reinforce each other in some people.

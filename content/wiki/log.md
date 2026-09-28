@@ -24870,3 +24870,11 @@ Added source `the-science-of-healthy-hair-hair-loss-and-how-to-regrow-hair-scim6
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | 320: Hundred Years' War: The Black Prince (Part 3)
+
+Added source `320-hundred-years-war-the-black-prince-part-3-glt6004693022`; created `BattleOfPoitiers`, `GeoffreyDeCharny`, `JohnChandos`, and `Chevauchee`; and updated `HundredYearsWar`, `EdwardIIIOfEngland`, `EdwardTheBlackPrince`, `JohnIIOfFrance`, `CharlesTheBad`, `OrderOfTheGarter`, `ChivalricRomanceWarMemory`, and `BattlefieldVictoryPoliticalControl` from their complete bounded source sets. Core synthesis: chivalric institutions and Arthurian kingship could organize loyalty and prestige while coexisting with deception, factional violence, destructive raiding, ransom extraction, and civilian exclusion; French political fragmentation and command failure then helped a trapped English-Gascon army capture John II at Poitiers, creating military leverage that later proved difficult to convert into political control. The Garter's 1344/1349 foundation-date conflict remains unresolved. Figures, reported speeches, character judgments, raid totals, tactical attribution, and individual motives remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

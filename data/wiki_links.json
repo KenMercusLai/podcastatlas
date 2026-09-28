@@ -987,6 +987,10 @@
     "title": "32.印第安人《讲了一百万次的故事》是马尔克斯的老师",
     "url": "/wiki/sources/32-yindianren-jiang-le-yi-bai-wan-ci-de-gushi-shi-maerkesi-de-laoshi-596386714/"
   },
+  "320-hundred-years-war-the-black-prince-part-3-glt6004693022": {
+    "title": "320: Hundred Years' War: The Black Prince (Part 3)",
+    "url": "/wiki/sources/320-hundred-years-war-the-black-prince-part-3-glt6004693022/"
+  },
   "321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345": {
     "title": "321: Hundred Years' War: A Storm of Swords (Part 4)",
     "url": "/wiki/sources/321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345/"
@@ -9395,6 +9399,10 @@
     "title": "Battle of Narva / 纳尔瓦战役",
     "url": "/wiki/entities/battleofnarva/"
   },
+  "BattleOfPoitiers": {
+    "title": "Battle of Poitiers",
+    "url": "/wiki/entities/battleofpoitiers/"
+  },
   "BattleOfPoltava": {
     "title": "Battle of Poltava / 波尔塔瓦战役",
     "url": "/wiki/entities/battleofpoltava/"
@@ -14382,6 +14390,10 @@
   "ChesterWilliams": {
     "title": "Chester Williams",
     "url": "/wiki/entities/chesterwilliams/"
+  },
+  "Chevauchee": {
+    "title": "Chevauchée",
+    "url": "/wiki/concepts/chevauchee/"
   },
   "Chevron": {
     "title": "Chevron",
@@ -29463,6 +29475,10 @@
     "title": "Geoffrey Chaucer",
     "url": "/wiki/entities/geoffreychaucer/"
   },
+  "GeoffreyDeCharny": {
+    "title": "Geoffrey de Charny",
+    "url": "/wiki/entities/geoffreydecharny/"
+  },
   "GeoffreyWinthropYoung": {
     "title": "Geoffrey Winthrop Young",
     "url": "/wiki/entities/geoffreywinthropyoung/"
@@ -38754,6 +38770,10 @@
   "JohnCarreyrou": {
     "title": "John Carreyrou",
     "url": "/wiki/entities/johncarreyrou/"
+  },
+  "JohnChandos": {
+    "title": "John Chandos",
+    "url": "/wiki/entities/johnchandos/"
   },
   "JohnCollison": {
     "title": "John Collison",

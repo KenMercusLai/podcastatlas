@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 11316
+wiki_total_pages: 11319
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -209,6 +209,9 @@ wiki_pages:
   - key: "BattleOfNarva"
     title: "Battle of Narva / 纳尔瓦战役"
     url: "/wiki/entities/battleofnarva/"
+  - key: "BattleOfPoitiers"
+    title: "Battle of Poitiers"
+    url: "/wiki/entities/battleofpoitiers/"
   - key: "BattleOfPoltava"
     title: "Battle of Poltava / 波尔塔瓦战役"
     url: "/wiki/entities/battleofpoltava/"

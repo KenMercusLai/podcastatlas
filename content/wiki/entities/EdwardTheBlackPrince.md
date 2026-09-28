@@ -4,6 +4,7 @@ type: entity
 tags: [person, prince, england, aquitaine, medieval-history]
 sources:
   - 321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345
+  - 320-hundred-years-war-the-black-prince-part-3-glt6004693022
 last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
@@ -12,17 +13,22 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Edward the Black Prince is the English prince whose military prestige and magnificent Aquitanian court fail to produce fiscally or politically sustainable rule after the [[TreatyOfBretigny|Treaty of Brétigny]].
+Edward the Black Prince is the English prince whose victories at Crécy and [[BattleOfPoitiers|Poitiers]] make him a chivalric celebrity before his magnificent Aquitanian court fails to produce fiscally or politically sustainable rule after the [[TreatyOfBretigny|Treaty of Brétigny]].
 
 ## Current Profile
 
-The prince becomes duke of an enlarged [[Aquitaine]] and presides over a wealthy chivalric court, but rules territory damaged by war and exposed to free companies. Heavy taxation supports his court and policies while encouraging subjects to seek redress from [[CharlesVOfFrance|Charles V]], despite the treaty's sovereignty terms.
+The earlier source presents the prince as already the most famous knight in Christendom after standing with [[JohnChandos|John Chandos]] at Crécy and joining the [[OrderOfTheGarter]]. His reputation joins elite courtesy and military terror: the 1355 [[Chevauchee|chevauchée]] from Bordeaux extracts loot and ransom and devastates civilian settlements, while the following campaign ends with his trapped army capturing [[JohnIIOfFrance|John II]] at Poitiers.
+
+At Poitiers, weakness becomes opportunity. The prince is exhausted, short of food and water, and unable to join Lancaster across the Loire. Archery disrupts mounted attack, French lines lose coordination, and an English-Gascon flanking counterstroke turns defensive survival into a decisive victory.
+
+The prince later becomes duke of an enlarged [[Aquitaine]] and presides over a wealthy chivalric court, but rules territory damaged by war and exposed to free companies. Heavy taxation supports his court and policies while encouraging subjects to seek redress from [[CharlesVOfFrance|Charles V]], despite the treaty's sovereignty terms.
 
 His 1366 Castilian campaign brings military victory but also illness and debt after an ally fails to pay. When Aquitanian appeals reach Charles in 1368, the prince rejects the French summons on sovereignty grounds. Renewed war then turns against England; after the sack of Limoges he returns home ill, relinquishes Aquitaine, and dies in 1376.
 
 ## Key Characteristics
 
-- Celebrated English commander and heir associated with Poitiers-era glory.
+- Celebrated English commander and heir formed by Crécy and Poitiers-era glory.
+- Chivalric celebrity whose reputation coexists with destructive raiding.
 - Duke maintaining a rich chivalric court in damaged Aquitaine.
 - Heavy taxer whose fiscal demands weaken political allegiance.
 - Victorious but indebted participant in Castilian war.
@@ -31,6 +37,9 @@ His 1366 Castilian campaign brings military victory but also illness and debt af
 
 ## Evidence
 
+- Reputation and retinue: [[320-hundred-years-war-the-black-prince-part-3-glt6004693022]] links the prince's fame to Crécy, the Garter, and Chandos's advice.
+- Raid and civilian harm: [[320-hundred-years-war-the-black-prince-part-3-glt6004693022]] describes the 1355 chevauchée's loot, ransom, settlement destruction, and strategic shock.
+- Poitiers reversal: [[320-hundred-years-war-the-black-prince-part-3-glt6004693022]] connects logistical weakness, archery, French confusion, and flanking attacks to John II's capture.
 - Court and territory: [[321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345]] contrasts the prince's magnificent court with ravaged lands and free companies.
 - Taxation and appeal: [[321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345]] links his taxes to Aquitanian appeals to Charles V.
 - Castilian costs: [[321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345]] describes victory followed by illness and unpaid debts.
@@ -39,15 +48,20 @@ His 1366 Castilian campaign brings military victory but also illness and debt af
 
 ## Qualifications
 
-The episode supplies a high-level political narrative, not a full biography or campaign history. Tax burdens, the Castilian bargain, Limoges casualties, illness, and the causes of Aquitanian disaffection remain source-scoped.
+This profile relies on two popular-history narratives, not a full biography or campaign history. The origin of the name "Black Prince," destruction and force totals, tactical attribution at Poitiers, tax burdens, the Castilian bargain, Limoges casualties, illness, and the causes of Aquitanian disaffection remain source-scoped.
 
 ## What Changed
 
-- Created the Black Prince's profile around the fiscal and sovereignty limits of post-victory rule.
+- Added the Crécy reputation, Chandos partnership, and Garter setting behind the prince's early prestige.
+- Added the 1355 chevauchée's strategic success and civilian destruction.
+- Added the constrained campaign and combined tactical reversal at Poitiers.
 
 ## Relationships
 
 - [[EdwardIIIOfEngland]] - father whose treaty gains the prince is expected to govern.
+- [[JohnChandos]] - friend and adviser associated with his early victories.
+- [[BattleOfPoitiers]] - battle that establishes his greatest captive and diplomatic leverage.
+- [[Chevauchee]] - destructive raid method central to his 1355 campaign.
 - [[Aquitaine]] - duchy whose wealth, damage, and allegiance define his later career.
 - [[CharlesVOfFrance]] - rival king who receives Aquitanian appeals.
 - [[TreatyOfBretigny]] - settlement granting the sovereign position the prince invokes.

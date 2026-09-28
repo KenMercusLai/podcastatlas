@@ -17014,6 +17014,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/battleofnarva/"
     },
+    "BattleOfPoitiers": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6004693022 [GLT6004693022].md",
+          "key": "320-hundred-years-war-the-black-prince-part-3-glt6004693022",
+          "show": "The Rest Is History",
+          "title": "320: Hundred Years' War: The Black Prince (Part 3)",
+          "url": "/wiki/sources/320-hundred-years-war-the-black-prince-part-3-glt6004693022/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/battleofpoitiers/"
+    },
     "BattleOfPoltava": {
       "episode_count": 2,
       "show_count": 1,
@@ -17387,9 +17403,9 @@
       "url": "/wiki/concepts/battlefieldreconstructionunderuncertainty/"
     },
     "BattlefieldVictoryPoliticalControl": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1570526345 [GLT1570526345].md",
@@ -17397,6 +17413,13 @@
           "show": "The Rest Is History",
           "title": "321: Hundred Years' War: A Storm of Swords (Part 4)",
           "url": "/wiki/sources/321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345/"
+        },
+        {
+          "episode_file": "GLT6004693022 [GLT6004693022].md",
+          "key": "320-hundred-years-war-the-black-prince-part-3-glt6004693022",
+          "show": "The Rest Is History",
+          "title": "320: Hundred Years' War: The Black Prince (Part 3)",
+          "url": "/wiki/sources/320-hundred-years-war-the-black-prince-part-3-glt6004693022/"
         }
       ],
       "updated": "2026-09-29",
@@ -26871,9 +26894,9 @@
       "url": "/wiki/entities/charlesstewartparnell/"
     },
     "CharlesTheBad": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1570526345 [GLT1570526345].md",
@@ -26881,6 +26904,13 @@
           "show": "The Rest Is History",
           "title": "321: Hundred Years' War: A Storm of Swords (Part 4)",
           "url": "/wiki/sources/321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345/"
+        },
+        {
+          "episode_file": "GLT6004693022 [GLT6004693022].md",
+          "key": "320-hundred-years-war-the-black-prince-part-3-glt6004693022",
+          "show": "The Rest Is History",
+          "title": "320: Hundred Years' War: The Black Prince (Part 3)",
+          "url": "/wiki/sources/320-hundred-years-war-the-black-prince-part-3-glt6004693022/"
         }
       ],
       "updated": "2026-09-29",
@@ -28605,6 +28635,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/chesterwilliams/"
     },
+    "Chevauchee": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6004693022 [GLT6004693022].md",
+          "key": "320-hundred-years-war-the-black-prince-part-3-glt6004693022",
+          "show": "The Rest Is History",
+          "title": "320: Hundred Years' War: The Black Prince (Part 3)",
+          "url": "/wiki/sources/320-hundred-years-war-the-black-prince-part-3-glt6004693022/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/chevauchee/"
+    },
     "ChevronDoctrine": {
       "episode_count": 1,
       "show_count": 1,
@@ -29992,9 +30038,9 @@
       "url": "/wiki/entities/chitingdefenselatehan/"
     },
     "ChivalricRomanceWarMemory": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT5584156008 [GLT5584156008].md",
@@ -30016,6 +30062,13 @@
           "show": "The Rest Is History",
           "title": "321: Hundred Years' War: A Storm of Swords (Part 4)",
           "url": "/wiki/sources/321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345/"
+        },
+        {
+          "episode_file": "GLT6004693022 [GLT6004693022].md",
+          "key": "320-hundred-years-war-the-black-prince-part-3-glt6004693022",
+          "show": "The Rest Is History",
+          "title": "320: Hundred Years' War: The Black Prince (Part 3)",
+          "url": "/wiki/sources/320-hundred-years-war-the-black-prince-part-3-glt6004693022/"
         }
       ],
       "updated": "2026-09-29",
@@ -47978,9 +48031,9 @@
       "url": "/wiki/entities/edwardheath/"
     },
     "EdwardIIIOfEngland": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT5584156008 [GLT5584156008].md",
@@ -48002,6 +48055,13 @@
           "show": "The Rest Is History",
           "title": "321: Hundred Years' War: A Storm of Swords (Part 4)",
           "url": "/wiki/sources/321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345/"
+        },
+        {
+          "episode_file": "GLT6004693022 [GLT6004693022].md",
+          "key": "320-hundred-years-war-the-black-prince-part-3-glt6004693022",
+          "show": "The Rest Is History",
+          "title": "320: Hundred Years' War: The Black Prince (Part 3)",
+          "url": "/wiki/sources/320-hundred-years-war-the-black-prince-part-3-glt6004693022/"
         }
       ],
       "updated": "2026-09-29",
@@ -48118,9 +48178,9 @@
       "url": "/wiki/entities/edwardteller/"
     },
     "EdwardTheBlackPrince": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1570526345 [GLT1570526345].md",
@@ -48128,6 +48188,13 @@
           "show": "The Rest Is History",
           "title": "321: Hundred Years' War: A Storm of Swords (Part 4)",
           "url": "/wiki/sources/321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345/"
+        },
+        {
+          "episode_file": "GLT6004693022 [GLT6004693022].md",
+          "key": "320-hundred-years-war-the-black-prince-part-3-glt6004693022",
+          "show": "The Rest Is History",
+          "title": "320: Hundred Years' War: The Black Prince (Part 3)",
+          "url": "/wiki/sources/320-hundred-years-war-the-black-prince-part-3-glt6004693022/"
         }
       ],
       "updated": "2026-09-29",
@@ -66955,6 +67022,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/geoffreychaucer/"
     },
+    "GeoffreyDeCharny": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6004693022 [GLT6004693022].md",
+          "key": "320-hundred-years-war-the-black-prince-part-3-glt6004693022",
+          "show": "The Rest Is History",
+          "title": "320: Hundred Years' War: The Black Prince (Part 3)",
+          "url": "/wiki/sources/320-hundred-years-war-the-black-prince-part-3-glt6004693022/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/geoffreydecharny/"
+    },
     "GeometricUnity": {
       "episode_count": 1,
       "show_count": 1,
@@ -81385,9 +81468,9 @@
       "url": "/wiki/concepts/hundredschoolssynthesis/"
     },
     "HundredYearsWar": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "GLT5584156008 [GLT5584156008].md",
@@ -81430,6 +81513,13 @@
           "show": "The Rest Is History",
           "title": "321: Hundred Years' War: A Storm of Swords (Part 4)",
           "url": "/wiki/sources/321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345/"
+        },
+        {
+          "episode_file": "GLT6004693022 [GLT6004693022].md",
+          "key": "320-hundred-years-war-the-black-prince-part-3-glt6004693022",
+          "show": "The Rest Is History",
+          "title": "320: Hundred Years' War: The Black Prince (Part 3)",
+          "url": "/wiki/sources/320-hundred-years-war-the-black-prince-part-3-glt6004693022/"
         }
       ],
       "updated": "2026-09-29",
@@ -91065,6 +91155,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/entities/johncamhobhouse/"
     },
+    "JohnChandos": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6004693022 [GLT6004693022].md",
+          "key": "320-hundred-years-war-the-black-prince-part-3-glt6004693022",
+          "show": "The Rest Is History",
+          "title": "320: Hundred Years' War: The Black Prince (Part 3)",
+          "url": "/wiki/sources/320-hundred-years-war-the-black-prince-part-3-glt6004693022/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/johnchandos/"
+    },
     "JohnConnally": {
       "episode_count": 1,
       "show_count": 1,
@@ -91261,9 +91367,9 @@
       "url": "/wiki/entities/johngroner/"
     },
     "JohnIIOfFrance": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1570526345 [GLT1570526345].md",
@@ -91271,6 +91377,13 @@
           "show": "The Rest Is History",
           "title": "321: Hundred Years' War: A Storm of Swords (Part 4)",
           "url": "/wiki/sources/321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345/"
+        },
+        {
+          "episode_file": "GLT6004693022 [GLT6004693022].md",
+          "key": "320-hundred-years-war-the-black-prince-part-3-glt6004693022",
+          "show": "The Rest Is History",
+          "title": "320: Hundred Years' War: The Black Prince (Part 3)",
+          "url": "/wiki/sources/320-hundred-years-war-the-black-prince-part-3-glt6004693022/"
         }
       ],
       "updated": "2026-09-29",
@@ -123859,9 +123972,9 @@
       "url": "/wiki/concepts/orbitaldatacentereconomics/"
     },
     "OrderOfTheGarter": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5334319363 [GLT5334319363].md",
@@ -123869,9 +123982,16 @@
           "show": "The Rest Is History",
           "title": "462. St George: Dragon-Slayer",
           "url": "/wiki/sources/462-st-george-dragon-slayer-glt5334319363/"
+        },
+        {
+          "episode_file": "GLT6004693022 [GLT6004693022].md",
+          "key": "320-hundred-years-war-the-black-prince-part-3-glt6004693022",
+          "show": "The Rest Is History",
+          "title": "320: Hundred Years' War: The Black Prince (Part 3)",
+          "url": "/wiki/sources/320-hundred-years-war-the-black-prince-part-3-glt6004693022/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-09-29",
       "url": "/wiki/entities/orderofthegarter/"
     },
     "OrdinaryInvestorMacroBoundary": {

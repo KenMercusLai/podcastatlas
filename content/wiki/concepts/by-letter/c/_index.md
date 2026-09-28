@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8710
+wiki_total_pages: 8711
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -542,6 +542,9 @@ wiki_pages:
   - key: "ChestPainEmergencyEscalation"
     title: "Chest Pain Emergency Escalation / 胸痛急症升级"
     url: "/wiki/concepts/chestpainemergencyescalation/"
+  - key: "Chevauchee"
+    title: "Chevauchée"
+    url: "/wiki/concepts/chevauchee/"
   - key: "ChevronDoctrine"
     title: "Chevron Doctrine"
     url: "/wiki/concepts/chevrondoctrine/"

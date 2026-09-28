@@ -6,6 +6,7 @@ sources:
   - 318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008
   - 446-custer-vs-crazy-horse-civil-war-part-1-glt9088781244
   - 321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345
+  - 320-hundred-years-war-the-black-prince-part-3-glt6004693022
 last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
@@ -26,13 +27,15 @@ The [[GeorgeArmstrongCuster]] source extends the pattern from retrospective medi
 
 The later Hundred Years' War episode closes its first-phase arc by returning to *Sir Nigel*. The literary frame now surrounds not only feats at Poitiers but failed conquest, peasant rebellion, free-company predation, taxation, the sack of Limoges, illness, political decline, and lost territory. Chivalric memory remains emotionally real, but the narrative structure makes its selectivity visible: honor can survive in memory while the institutions built from victory unravel.
 
+The Poitiers episode supplies the missing interior contradiction. [[EdwardIIIOfEngland|Edward III's]] new Camelot, the [[OrderOfTheGarter]], [[GeoffreyDeCharny|Geoffrey de Charny's]] chivalric authority, and the courtesy shown to captive [[JohnIIOfFrance|John II]] coexist with bribery, factional murder, settlement burning, ransom extraction, and the [[Chevauchee|chevauchée's]] indifference to peasant life. Chivalry is therefore not simply a later romantic filter; within the source it is an elite code capable of sacral beauty, tactical discipline, propaganda, and severe moral exclusion at the same time.
+
 ## Key Claims
 
 - Chivalric romance makes war legible through honor, courage, adventure, and named feats.
 - Childhood and literary memory can preserve a glamorous war image long after the events.
 - Catastrophe-focused history reopens what romance leaves out: social destruction, pillage, disease, and long-term instability.
-- The two frames can coexist in one narrative rather than cancelling each other.
 - The Hundred Years' War's iconic battles and prolonged devastation make romance memory especially necessary to qualify when it turns elite violence into uncomplicated patriotic adventure.
+- Chivalric institutions can organize loyalty and battlefield conduct while excluding civilian suffering from their moral field.
 - Chivalric self-fashioning can operate as a practical leadership style even inside industrial war.
 - A romance frame can survive strategic failure because it preserves named courage and honor rather than administrative durability.
 
@@ -46,15 +49,17 @@ The later Hundred Years' War episode closes its first-phase arc by returning to 
 - Industrial-war case: [[446-custer-vs-crazy-horse-civil-war-part-1-glt9088781244]] contrasts Custer's romantic persona and conspicuous cavalry leadership with mass killing, camp disease, reconnaissance technology, and bureaucratic command.
 - Return to *Sir Nigel*: [[321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345]] begins and ends with Doyle while narrating the political and social unravelling after Poitiers.
 - Memory and collapse: [[321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345]] places knighthood and honor beside rebellion, mercenary violence, taxation, Limoges, illness, and territorial loss.
+- Arthurian statecraft: [[320-hundred-years-war-the-black-prince-part-3-glt6004693022]] places Edward's Camelot and the Garter beside military practices that erode the knightly ideal.
+- Code and exclusion: [[320-hundred-years-war-the-black-prince-part-3-glt6004693022]] joins chivalric vows, honor, and royal courtesy to deception, destructive raiding, and neglected peasant suffering.
 
 ## Counterevidence & Qualifications
 
-This concept is grounded in three popular-history podcast framings rather than a full literary or military-history corpus. It should not flatten Doyle, Tuchman, Froissart, medieval chivalry, or Custer into one position. The Limoges account and other atrocities remain source-scoped, Custer's theatricality does not make his battlefield ability unreal, and similarities across periods do not erase different institutions, technologies, or moral worlds.
+This concept is grounded in four popular-history podcast framings rather than a full literary or military-history corpus. It should not flatten Doyle, Tuchman, Froissart, medieval chivalry, or Custer into one position. The raid totals, Limoges account, and other atrocities remain source-scoped, Custer's theatricality does not make his battlefield ability unreal, and similarities across periods do not erase different institutions, technologies, or moral worlds.
 
 ## What Changed
 
-- Added the first-phase ending in which *Sir Nigel* frames the collapse of England's political gains.
-- Distinguished remembered martial honor from the durability of settlements and institutions.
+- Added the internal contradiction between chivalric institutions and conduct toward civilians.
+- Added Arthurian kingship and rival English-French orders as active wartime statecraft, not only retrospective memory.
 
 ## Related Concepts
 
@@ -66,3 +71,4 @@ This concept is grounded in three popular-history podcast framings rather than a
 - [[HeroicLastStandMyth]] - later memory form built partly from Custer's preexisting romantic celebrity.
 - [[BattlefieldVictoryPoliticalControl]] - distinction between memorable victory and durable political outcome.
 - [[FreeCompaniesHundredYearsWar]] - coercive aftermath that chivalric battle memory can leave outside the frame.
+- [[Chevauchee]] - destructive campaign method exposing the code's exclusion of civilian suffering.
