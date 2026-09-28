@@ -73,8 +73,10 @@ class SearchQualityContractTest(unittest.TestCase):
 
     def test_verifier_uses_the_same_alias_metadata_weight_as_the_browser(self):
         verifier = SCRIPT.read_text(encoding="utf-8")
+        benchmark = (ROOT / "scripts/benchmark-pagefind.mjs").read_text(encoding="utf-8")
 
-        self.assertIn("metaWeights: { aliases: 10.0 }", verifier)
+        self.assertIn("metaWeights: { aliases: 50.0 }", verifier)
+        self.assertIn("metaWeights: { aliases: 50.0 }", benchmark)
 
     def test_verifier_checks_real_result_rank_type_and_group(self):
         with tempfile.TemporaryDirectory() as directory:

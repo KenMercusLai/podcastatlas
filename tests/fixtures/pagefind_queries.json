@@ -54,7 +54,7 @@
       "expected_url": "/wiki/entities/amazonwebservices/",
       "expected_type": "Entity",
       "expected_group": "People & Organizations",
-      "max_rank": 5
+      "max_rank": 1
     },
     {
       "id": "alias-nfl",

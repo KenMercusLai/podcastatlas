@@ -133,7 +133,7 @@ async function main() {
   const localServer = await startPagefindServer(pagefindDir);
   const instance = pagefindModule.createInstance({
     basePath: localServer.basePath,
-    ranking: { metaWeights: { aliases: 10.0 } },
+    ranking: { metaWeights: { aliases: 50.0 } },
   });
   const failures = [];
   let reciprocalRankTotal = 0;
