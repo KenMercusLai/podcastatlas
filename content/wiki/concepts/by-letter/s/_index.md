@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 8716
+wiki_total_pages: 8717
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -743,6 +743,9 @@ wiki_pages:
   - key: "ShifgrethorPoliticalFace"
     title: "Shifgrethor Political Face / 西弗格雷瑟式政治面子"
     url: "/wiki/concepts/shifgrethorpoliticalface/"
+  - key: "ShiftWorkCircadianHealth"
+    title: "Shift-Work Circadian Health"
+    url: "/wiki/concepts/shiftworkcircadianhealth/"
   - key: "ShilajitEvidenceBoundary"
     title: "Shilajit Evidence Boundary"
     url: "/wiki/concepts/shilajitevidenceboundary/"

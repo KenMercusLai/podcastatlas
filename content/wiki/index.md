@@ -3150,6 +3150,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Neuralink & Technologies to Enhance Human Brains | Dr. Matthew MacDougall](sources/neuralink-technologies-to-enhance-human-brains-dr-matthew-macdougall-scim4147376395.md) — Huberman Lab interview on assistive brain–computer control, robotic cortical-electrode insertion, co-adaptive decoding, interface bitrate and adoption, and speculative restoration or augmentation boundaries.
 - [VOL.39眼科｜眼科主任请回答——18位听友的眼科问题](sources/vol-39-yanke-yanke-zhuren-qing-huida-18-wei-tingyou-de-yanke-wenti-lszj71flalpxl4lg8j6d9rex8mv.md) — 这病说来话长 listener Q&A on refractive-surgery selection, myopia inheritance and childhood control, adult correction, dry eye, anisometropia, and floater triage.
 
+- [Intermittent Fasting to Improve Health, Cognition & Longevity | Dr. Satchin Panda](sources/intermittent-fasting-to-improve-health-cognition-longevity-dr-satchin-panda-scim5921048014.md) — Huberman Lab interview on circadian meal timing, time-restricted eating, human-versus-mouse evidence, energy-adequacy limits, and a firefighter shift-work trial.
+
 ## Entities
 - [Peter Frankopan](entities/PeterFrankopan.md) — Global historian presenting a proxy-rich, non-deterministic account of climate, ecology, institutions, and power.
 - [The Earth Transformed](entities/TheEarthTransformed.md) — Peter Frankopan book represented as a long-duration environmental history of climate, disease, energy, inequality, and political resilience.
@@ -14502,6 +14504,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jacquerie](entities/Jacquerie.md) — Peasant uprising that exposes France's social and political breakdown after Poitiers.
 - [Free Companies in the Hundred Years' War](entities/FreeCompaniesHundredYearsWar.md) — Mobile veteran companies whose predation makes demobilization and territorial governance unstable.
 
+- [Satchin Panda](entities/SatchinPanda.md) — Circadian-biology researcher separating meal timing, fasting duration, energy intake, and evidence limits in animal and human studies.
+
 ## Concepts
 - [Climate History Causal Pluralism](concepts/ClimateHistoryCausalPluralism.md) — Method treating climate as consequential but mediated by institutions, resources, disease, inequality, and decisions.
 - [Environmental Proxy Evidence in History](concepts/EnvironmentalProxyHistoricalEvidence.md) — Use of ice cores, pollen, tree rings, genomes, and remote sensing to test and extend historical narratives.
@@ -23246,5 +23250,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Floater Symptom Triage / 飞蚊与眼前黑影分诊](concepts/FloaterSymptomTriage.md) — Boundary separating familiar stable vitreous shadows from new, changing, or uncertain visual symptoms requiring ophthalmic assessment.
 - [Battlefield Victory and Political Control](concepts/BattlefieldVictoryPoliticalControl.md) — Gap between military leverage and the revenue, allegiance, administration, and enforcement needed for durable rule.
 - [Attritional Reconquest](concepts/AttritionalReconquest.md) — State-backed recovery through sustained pressure, local allegiance, legal openings, and avoidance of an opponent's preferred decisive battle.
+
+- [Shift-Work Circadian Health](concepts/ShiftWorkCircadianHealth.md) — Occupational timing framework connecting sleep, light, eating, caffeine, alcohol, and schedule-specific intervention design.
 
 ## Syntheses

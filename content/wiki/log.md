@@ -24902,3 +24902,11 @@ Added source `313-climate-apocalypse-glt8815959934`; created `PeterFrankopan`, `
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | Intermittent Fasting to Improve Health, Cognition & Longevity | Dr. Satchin Panda
+
+Added source `intermittent-fasting-to-improve-health-cognition-longevity-dr-satchin-panda-scim5921048014`; created `SatchinPanda` and `ShiftWorkCircadianHealth`; and updated `CircadianEatingWindowAlignment` and the canonical index from the complete bounded source set. Core synthesis: meal timing, duration, and consistency can matter independently of food quality and calorie amount, but the strongest longevity evidence remains in mice; human evidence supports feasibility and selected metabolic effects rather than one universal fasting prescription. The firefighter trial supports a schedule-specific occupational intervention, not direct generalization to all shift workers. No settled contradiction was adopted. Numerical longevity effects, biomarkers, historical claims, very short windows, and metabolic-drug timing remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

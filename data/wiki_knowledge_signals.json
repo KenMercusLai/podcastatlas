@@ -30812,9 +30812,9 @@
       "url": "/wiki/entities/chunyuzhangwesternhan/"
     },
     "CircadianEatingWindowAlignment": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM3664199211 [SCIM3664199211].md",
@@ -30822,9 +30822,16 @@
           "show": "Huberman Lab",
           "title": "Transform Your Health by Improving Metabolism, Hormone & Blood Sugar Regulation | Dr. Casey Means",
           "url": "/wiki/sources/transform-your-health-by-improving-metabolism-hormone-blood-sugar-regulation-dr-casey-means-scim3664199211/"
+        },
+        {
+          "episode_file": "SCIM5921048014 [SCIM5921048014].md",
+          "key": "intermittent-fasting-to-improve-health-cognition-longevity-dr-satchin-panda-scim5921048014",
+          "show": "Huberman Lab",
+          "title": "Intermittent Fasting to Improve Health, Cognition & Longevity | Dr. Satchin Panda",
+          "url": "/wiki/sources/intermittent-fasting-to-improve-health-cognition-longevity-dr-satchin-panda-scim5921048014/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/circadianeatingwindowalignment/"
     },
     "CircadianTravelAdaptation": {
@@ -145973,6 +145980,22 @@
       "updated": "2026-09-24",
       "url": "/wiki/entities/sasankakkinappoli/"
     },
+    "SatchinPanda": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5921048014 [SCIM5921048014].md",
+          "key": "intermittent-fasting-to-improve-health-cognition-longevity-dr-satchin-panda-scim5921048014",
+          "show": "Huberman Lab",
+          "title": "Intermittent Fasting to Improve Health, Cognition & Longevity | Dr. Satchin Panda",
+          "url": "/wiki/sources/intermittent-fasting-to-improve-health-cognition-longevity-dr-satchin-panda-scim5921048014/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/satchinpanda/"
+    },
     "SaturnBird": {
       "episode_count": 1,
       "show_count": 1,
@@ -150588,6 +150611,22 @@
       ],
       "updated": "2026-09-19",
       "url": "/wiki/entities/shidaifengjun/"
+    },
+    "ShiftWorkCircadianHealth": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5921048014 [SCIM5921048014].md",
+          "key": "intermittent-fasting-to-improve-health-cognition-longevity-dr-satchin-panda-scim5921048014",
+          "show": "Huberman Lab",
+          "title": "Intermittent Fasting to Improve Health, Cognition & Longevity | Dr. Satchin Panda",
+          "url": "/wiki/sources/intermittent-fasting-to-improve-health-cognition-longevity-dr-satchin-panda-scim5921048014/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/shiftworkcircadianhealth/"
     },
     "ShilajitEvidenceBoundary": {
       "episode_count": 1,

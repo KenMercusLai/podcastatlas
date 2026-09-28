@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 11326
+wiki_total_pages: 11327
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -257,6 +257,9 @@ wiki_pages:
   - key: "SashaNauta"
     title: "Sasha Nauta"
     url: "/wiki/entities/sashanauta/"
+  - key: "SatchinPanda"
+    title: "Satchin Panda"
+    url: "/wiki/entities/satchinpanda/"
   - key: "SatishVangala"
     title: "Satish Vangala"
     url: "/wiki/entities/satishvangala/"
