@@ -46358,6 +46358,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/dunstan/"
     },
+    "DuongVanMinh": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1698435670 [GLT1698435670].md",
+          "key": "325-fall-of-saigon-apocalypse-now-part-2-glt1698435670",
+          "show": "The Rest Is History",
+          "title": "325: Fall of Saigon: Apocalypse Now (Part 2)",
+          "url": "/wiki/sources/325-fall-of-saigon-apocalypse-now-part-2-glt1698435670/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/duongvanminh/"
+    },
     "DushuBuchenglin": {
       "episode_count": 3,
       "show_count": 2,
@@ -55740,6 +55756,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/fairallocationpoliticalskill/"
+    },
+    "FallOfSaigon": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1698435670 [GLT1698435670].md",
+          "key": "325-fall-of-saigon-apocalypse-now-part-2-glt1698435670",
+          "show": "The Rest Is History",
+          "title": "325: Fall of Saigon: Apocalypse Now (Part 2)",
+          "url": "/wiki/sources/325-fall-of-saigon-apocalypse-now-part-2-glt1698435670/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/fallofsaigon/"
     },
     "FalseReinforcementDeception": {
       "episode_count": 1,
@@ -68972,6 +69004,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/grahamhancock/"
+    },
+    "GrahamMartin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1698435670 [GLT1698435670].md",
+          "key": "325-fall-of-saigon-apocalypse-now-part-2-glt1698435670",
+          "show": "The Rest Is History",
+          "title": "325: Fall of Saigon: Apocalypse Now (Part 2)",
+          "url": "/wiki/sources/325-fall-of-saigon-apocalypse-now-part-2-glt1698435670/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/grahammartin/"
     },
     "GrahamPlatner": {
       "episode_count": 1,
@@ -85454,6 +85502,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/interstateeconomicwarfare/"
+    },
+    "InterventionWithdrawalDependency": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1698435670 [GLT1698435670].md",
+          "key": "325-fall-of-saigon-apocalypse-now-part-2-glt1698435670",
+          "show": "The Rest Is History",
+          "title": "325: Fall of Saigon: Apocalypse Now (Part 2)",
+          "url": "/wiki/sources/325-fall-of-saigon-apocalypse-now-part-2-glt1698435670/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/interventionwithdrawaldependency/"
     },
     "InterventionalUltrasoundSafety": {
       "episode_count": 1,
@@ -122539,6 +122603,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/operationblueskies/"
+    },
+    "OperationFrequentWind": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1698435670 [GLT1698435670].md",
+          "key": "325-fall-of-saigon-apocalypse-now-part-2-glt1698435670",
+          "show": "The Rest Is History",
+          "title": "325: Fall of Saigon: Apocalypse Now (Part 2)",
+          "url": "/wiki/sources/325-fall-of-saigon-apocalypse-now-part-2-glt1698435670/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/operationfrequentwind/"
     },
     "OperationalDetachment": {
       "episode_count": 1,
@@ -168796,6 +168876,52 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/viennasocialhousingscale/"
     },
+    "Vietnam": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "EP267 踏访湄公河：雨季、婚飞蚁与水利帝国 [lkq2VXaATn4wXUE7y5q1FC3_8yfk].md",
+          "key": "ep267-tafang-meigonghe-yuji-hunfeiyi-yu-shuili-diguo-lkq2vxaatn4wxue7y5q1fc3-8yfk",
+          "show": "Talk三联",
+          "title": "EP267 踏访湄公河：雨季、婚飞蚁与水利帝国",
+          "url": "/wiki/sources/ep267-tafang-meigonghe-yuji-hunfeiyi-yu-shuili-diguo-lkq2vxaatn4wxue7y5q1fc3-8yfk/"
+        },
+        {
+          "episode_file": "vol.123.特朗普的“对等”关税案：不止是一场大型服从性测试 [lm6BKIqGYYEFwOMpXON7lo6cnqp6].md",
+          "key": "vol-123-telangpu-de-duideng-guanshui-an-buzhi-shi-yi-chang-daxing-fucongxing-ceshi-lm6bkiqgyyefwompxon7lo6cnqp6",
+          "show": "起朱楼宴宾客",
+          "title": "vol.123.特朗普的“对等”关税案：不止是一场大型服从性测试",
+          "url": "/wiki/sources/vol-123-telangpu-de-duideng-guanshui-an-buzhi-shi-yi-chang-daxing-fucongxing-ceshi-lm6bkiqgyyefwompxon7lo6cnqp6/"
+        },
+        {
+          "episode_file": "GLT1698435670 [GLT1698435670].md",
+          "key": "325-fall-of-saigon-apocalypse-now-part-2-glt1698435670",
+          "show": "The Rest Is History",
+          "title": "325: Fall of Saigon: Apocalypse Now (Part 2)",
+          "url": "/wiki/sources/325-fall-of-saigon-apocalypse-now-part-2-glt1698435670/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/vietnam/"
+    },
+    "VietnamWarAmericanMemory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1698435670 [GLT1698435670].md",
+          "key": "325-fall-of-saigon-apocalypse-now-part-2-glt1698435670",
+          "show": "The Rest Is History",
+          "title": "325: Fall of Saigon: Apocalypse Now (Part 2)",
+          "url": "/wiki/sources/325-fall-of-saigon-apocalypse-now-part-2-glt1698435670/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/vietnamwaramericanmemory/"
+    },
     "VietnamWarCredibilityCollapse": {
       "episode_count": 1,
       "show_count": 1,
@@ -168811,6 +168937,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/concepts/vietnamwarcredibilitycollapse/"
+    },
+    "VietnameseRefugeeExodus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1698435670 [GLT1698435670].md",
+          "key": "325-fall-of-saigon-apocalypse-now-part-2-glt1698435670",
+          "show": "The Rest Is History",
+          "title": "325: Fall of Saigon: Apocalypse Now (Part 2)",
+          "url": "/wiki/sources/325-fall-of-saigon-apocalypse-now-part-2-glt1698435670/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/vietnameserefugeeexodus/"
     },
     "VikingAgePeriodization": {
       "episode_count": 1,

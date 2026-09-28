@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [325: Fall of Saigon: Apocalypse Now (Part 2)](sources/325-fall-of-saigon-apocalypse-now-part-2-glt1698435670.md) — The Rest Is History episode on Saigon's final evacuation, postwar repression and refugee flight, and the American cultural memory of Vietnam.
 - [Amazon wants Alexa to finish your to-do list, not just research it](sources/tech-20260928-0928-mp-tech-pod-128-tech-20260928-0928-mp-tech-pod-128.md) — Marketplace Tech interview with Daniel Rausch on Alexa+ task completion, Prime economics, household hardware, agentic shopping, and expansion into wearable ambient assistance.
 - [新一代投资者似乎不爱买股票了：逐渐被ETF主导的市场和未来](sources/xin-yidai-touzizhe-sihu-bu-ai-mai-gupiao-le-zhujian-bei-etf-zhudao-de-shichang-he-weilai-lk1lxwniotregvs9euhepkm9nruo.md) — 面基 episode on ETF adoption, consensus feedback, price discovery, cross-market capital flows, and holding-horizon discipline.
 - [327: Coronations: The Deep History (Part 1)](sources/327-coronations-the-deep-history-part-1-glt4746607803.md) — The Rest Is History episode on the Anglo-Saxon, Roman, Carolingian, biblical, material, and territorial roots of British coronation.
@@ -3131,6 +3132,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [326: The Year of Revolutions: 1848](sources/326-the-year-of-revolutions-1848-glt9746323554.md) — The Rest Is History conversation with Christopher Clark on 1848 as a plural European crisis whose defeats reshaped constitutions, nationalism, conservatism, Catholicism, and state power.
 
 ## Entities
+- [Fall of Saigon](entities/FallOfSaigon.md) — April 1975 collapse of South Vietnam framed through evacuation, extinguished sovereignty, abandonment, and long political memory.
+- [Operation Frequent Wind](entities/OperationFrequentWind.md) — Final U.S. helicopter evacuation from Saigon, combining emergency logistics with a severe rescue hierarchy.
+- [Graham Martin](entities/GrahamMartin.md) — U.S. ambassador whose concern for Vietnamese dependents, honor, denial, and delayed preparation shaped the final evacuation.
+- [Dương Văn Minh](entities/DuongVanMinh.md) — Last South Vietnamese leader, symbolizing formal office after practical state power had disappeared.
 - [Alexa+](entities/AlexaPlus.md) — Amazon generative AI assistant designed to complete household, service, and commerce tasks across voice and text interfaces.
 - [Daniel Rausch](entities/DanielRausch.md) — Amazon executive presenting Alexa+'s task-completion, smart-home, and Prime strategy.
 - [Amazon Prime](entities/AmazonPrime.md) — Amazon membership bundle through which Alexa+ is offered and evaluated as an ecosystem benefit.
@@ -9591,7 +9596,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [樊一如 / Fan Yiru](entities/FanYiru.md) — 东亚观察局 speaker in vol.125 who helps frame Japan as personally livable but structurally constrained.
 - [Kumamoto / 熊本](entities/Kumamoto.md) — Japan regional case where TSMC investment turns semiconductor-chain relocation into local supplier, service, wage, and school spillovers.
 - [Howard Marks / 霍华德·马克斯](entities/HowardMarks.md) — Investor and memo writer used by vol.124 as the "nobody knows" uncertainty discipline for information overload and deliberate inaction.
-- [Vietnam](entities/Vietnam.md) — Country used by vol.123 as the reciprocal-tariff formula example and a U.S.-dependent supply-chain pressure point.
+- [Vietnam](entities/Vietnam.md) — Country synthesized across the 1975 war ending, postwar displacement, Mekong Delta history, and export-market dependence.
 - [Ireland](entities/Ireland.md) — Island and political setting shaped by conquest, plantation, Union, famine, nationalism, revolution, partition, and later statehood.
 - [Max Weber](entities/MaxWeber.md) — Sociological reference for vol.123's patrimonial-governance frame.
 - [Midea Group](entities/MideaGroup.md) — Manufacturing-company coda in vol.123's discussion of operating through a more volatile global environment.
@@ -14437,6 +14442,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Frankfurt Parliament](entities/FrankfurtParliament.md) — German national assembly whose representative ambition lacked independent military and administrative capacity.
 
 ## Concepts
+- [Intervention–Withdrawal Dependency](concepts/InterventionWithdrawalDependency.md) — Process by which intervention creates reliance and obligations that make later withdrawal materially and morally difficult.
+- [Vietnamese Refugee Exodus](concepts/VietnameseRefugeeExodus.md) — Post-1975 displacement through evacuation, maritime flight, resettlement, and receiving-country hostility.
+- [Vietnam War American Memory](concepts/VietnamWarAmericanMemory.md) — Cultural process recentering Vietnam as an American story of trauma, humiliation, isolation, and military redemption.
 - [Household AI Assistant](concepts/HouseholdAIAssistant.md) — Ambient shared-home assistant integrating purpose-built devices, domestic context, service access, and task execution.
 - [Prime Membership Flywheel](concepts/PrimeMembershipFlywheel.md) — Amazon mechanism linking bundled assistant utility to Prime acquisition, retention, usage, and commerce.
 - [ETF Consensus Feedback / ETF 共识反馈](concepts/ETFConsensusFeedback.md) — Feedback loop joining index rules, theme labels, distribution, flows, benchmark inclusion, liquidity, and attention.

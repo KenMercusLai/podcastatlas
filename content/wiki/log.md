@@ -24754,3 +24754,11 @@ Added source `tech-20260928-0928-mp-tech-pod-128-tech-20260928-0928-mp-tech-pod-
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | 325: Fall of Saigon: Apocalypse Now (Part 2)
+
+Added source `325-fall-of-saigon-apocalypse-now-part-2-glt1698435670`; created `FallOfSaigon`, `OperationFrequentWind`, `GrahamMartin`, `DuongVanMinh`, `InterventionWithdrawalDependency`, `VietnameseRefugeeExodus`, and `VietnamWarAmericanMemory`; and updated `Vietnam` from its complete bounded source set. Core synthesis: the final evacuation joined effective emergency logistics to an unequal rescue hierarchy, while the postwar refugee crisis and American film and political memory show how intervention creates obligations that withdrawal cannot cleanly end. No settled contradiction was adopted. Postwar repression is distinguished from Khmer Rouge extermination, and camp populations, deaths, refugee totals, exact dialogue, timing, individual motives, and film effects remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

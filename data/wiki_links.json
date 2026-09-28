@@ -983,6 +983,10 @@
     "title": "32.印第安人《讲了一百万次的故事》是马尔克斯的老师",
     "url": "/wiki/sources/32-yindianren-jiang-le-yi-bai-wan-ci-de-gushi-shi-maerkesi-de-laoshi-596386714/"
   },
+  "325-fall-of-saigon-apocalypse-now-part-2-glt1698435670": {
+    "title": "325: Fall of Saigon: Apocalypse Now (Part 2)",
+    "url": "/wiki/sources/325-fall-of-saigon-apocalypse-now-part-2-glt1698435670/"
+  },
   "326-the-year-of-revolutions-1848-glt9746323554": {
     "title": "326: The Year of Revolutions: 1848",
     "url": "/wiki/sources/326-the-year-of-revolutions-1848-glt9746323554/"
@@ -22135,6 +22139,10 @@
     "title": "多多买菜 / Duoduo Maicai",
     "url": "/wiki/entities/duoduomaicai/"
   },
+  "DuongVanMinh": {
+    "title": "Dương Văn Minh",
+    "url": "/wiki/entities/duongvanminh/"
+  },
   "Duoshan": {
     "title": "Duoshan",
     "url": "/wiki/entities/duoshan/"
@@ -25126,6 +25134,10 @@
   "Falcon9": {
     "title": "Falcon 9",
     "url": "/wiki/entities/falcon9/"
+  },
+  "FallOfSaigon": {
+    "title": "Fall of Saigon",
+    "url": "/wiki/entities/fallofsaigon/"
   },
   "FallingObjectPublicSafety": {
     "title": "Falling Object Public Safety",
@@ -30382,6 +30394,10 @@
   "GrahamHancock": {
     "title": "Graham Hancock",
     "url": "/wiki/entities/grahamhancock/"
+  },
+  "GrahamMartin": {
+    "title": "Graham Martin",
+    "url": "/wiki/entities/grahammartin/"
   },
   "GrahamPlatner": {
     "title": "Graham Platner",
@@ -36394,6 +36410,10 @@
   "InterstateEconomicWarfare": {
     "title": "Interstate Economic Warfare / 跨国经济战",
     "url": "/wiki/concepts/interstateeconomicwarfare/"
+  },
+  "InterventionWithdrawalDependency": {
+    "title": "Intervention–Withdrawal Dependency",
+    "url": "/wiki/concepts/interventionwithdrawaldependency/"
   },
   "InterventionalUltrasoundSafety": {
     "title": "Interventional Ultrasound Safety / 介入超声安全边界",
@@ -52406,6 +52426,10 @@
   "OperationForrestGump": {
     "title": "Operation Forrest Gump",
     "url": "/wiki/entities/operationforrestgump/"
+  },
+  "OperationFrequentWind": {
+    "title": "Operation Frequent Wind",
+    "url": "/wiki/entities/operationfrequentwind/"
   },
   "OperationPimlico": {
     "title": "Operation Pimlico / 皮姆利科行动",
@@ -73683,9 +73707,17 @@
     "title": "Vietnam",
     "url": "/wiki/entities/vietnam/"
   },
+  "VietnamWarAmericanMemory": {
+    "title": "Vietnam War American Memory",
+    "url": "/wiki/concepts/vietnamwaramericanmemory/"
+  },
   "VietnamWarCredibilityCollapse": {
     "title": "Vietnam War Credibility Collapse",
     "url": "/wiki/concepts/vietnamwarcredibilitycollapse/"
+  },
+  "VietnameseRefugeeExodus": {
+    "title": "Vietnamese Refugee Exodus",
+    "url": "/wiki/concepts/vietnameserefugeeexodus/"
   },
   "ViewpointDebanking": {
     "title": "Viewpoint Debanking",

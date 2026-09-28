@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 8676
+wiki_total_pages: 8679
 wiki_pages:
   - key: "IBDPatientEducationAndPeerSupport"
     title: "IBD Patient Education and Peer Support / IBD患者教育与同伴支持"
@@ -776,6 +776,9 @@ wiki_pages:
   - key: "InterventionalUltrasoundSafety"
     title: "Interventional Ultrasound Safety / 介入超声安全边界"
     url: "/wiki/concepts/interventionalultrasoundsafety/"
+  - key: "InterventionWithdrawalDependency"
+    title: "Intervention–Withdrawal Dependency"
+    url: "/wiki/concepts/interventionwithdrawaldependency/"
   - key: "InterviewAsEmbodiedReporting"
     title: "Interview As Embodied Reporting / 采访作为具身报道"
     url: "/wiki/concepts/interviewasembodiedreporting/"

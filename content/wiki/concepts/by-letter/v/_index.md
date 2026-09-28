@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "v"
-wiki_total_pages: 8676
+wiki_total_pages: 8679
 wiki_pages:
   - key: "VacationShame"
     title: "Vacation Shame / 休假羞耻感"
@@ -221,9 +221,15 @@ wiki_pages:
   - key: "ViennaSocialHousingScale"
     title: "Vienna Social Housing Scale"
     url: "/wiki/concepts/viennasocialhousingscale/"
+  - key: "VietnamWarAmericanMemory"
+    title: "Vietnam War American Memory"
+    url: "/wiki/concepts/vietnamwaramericanmemory/"
   - key: "VietnamWarCredibilityCollapse"
     title: "Vietnam War Credibility Collapse"
     url: "/wiki/concepts/vietnamwarcredibilitycollapse/"
+  - key: "VietnameseRefugeeExodus"
+    title: "Vietnamese Refugee Exodus"
+    url: "/wiki/concepts/vietnameserefugeeexodus/"
   - key: "ViewpointDebanking"
     title: "Viewpoint Debanking"
     url: "/wiki/concepts/viewpointdebanking/"

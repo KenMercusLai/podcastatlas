@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 11281
+wiki_total_pages: 11285
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -920,6 +920,9 @@ wiki_pages:
   - key: "Dyson"
     title: "Dyson / 戴森"
     url: "/wiki/entities/dyson/"
+  - key: "DuongVanMinh"
+    title: "Dương Văn Minh"
+    url: "/wiki/entities/duongvanminh/"
   - key: "DeathOfMaratPainting"
     title: "The Death of Marat / 《马拉之死》"
     url: "/wiki/entities/deathofmaratpainting/"

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2145
+topic_total_pages: 2147
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2180,6 +2180,9 @@ topic_entities:
   - key: "VelvetRevolution"
     title: "Velvet Revolution / 天鹅绒革命"
     url: "/wiki/entities/velvetrevolution/"
+  - key: "Vietnam"
+    title: "Vietnam"
+    url: "/wiki/entities/vietnam/"
   - key: "VitusBering"
     title: "Vitus Bering / 维图斯·白令"
     url: "/wiki/entities/vitusbering/"
@@ -4710,6 +4713,9 @@ topic_sources:
   - key: "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008"
     title: "318: Hundred Years' War: A Game of Thrones (Part 1)"
     url: "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+  - key: "325-fall-of-saigon-apocalypse-now-part-2-glt1698435670"
+    title: "325: Fall of Saigon: Apocalypse Now (Part 2)"
+    url: "/wiki/sources/325-fall-of-saigon-apocalypse-now-part-2-glt1698435670/"
   - key: "326-the-year-of-revolutions-1848-glt9746323554"
     title: "326: The Year of Revolutions: 1848"
     url: "/wiki/sources/326-the-year-of-revolutions-1848-glt9746323554/"
