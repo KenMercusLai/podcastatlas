@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Daniel Ek: Life After Spotify, Broken Healthcare Incentives, Catching Disease Early & AI's Potential](sources/all-in-with-chamath-jason-sacks-friedberg-daniel-ek-life-after-spotify-broken-healthcare-incentives-catching-di.md) — All-In interview on Spotify's origin, Neko Health's longitudinal preventive-screening model, payer incentives, AI ecosystems, and compute governance.
 - [298: The Nazis: Total Power (Part 4)](sources/298-the-nazis-total-power-part-4-glt6097237943.md) — The Rest Is History episode on Hitler's 1933 conversion of a constrained chancellorship into dictatorship through spectacle, police capture, terror, emergency decree, and coerced legislation.
 - [299: The Greatest Female Pharaoh](sources/299-the-greatest-female-pharaoh-glt5076645168.md) — The Rest Is History episode on Hatshepsut's move from regency to kingship through dynastic, divine, ritual, military, commercial, and monumental legitimacy.
 - [How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried](sources/how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5123681521.md) — Full-length Huberman Lab interview on female hormone phenotyping, gut-estrogen biology, constipation as a systemic signal, PCOS, contraception, perimenopause, hormone therapy, and cardiometabolic screening.
@@ -3195,6 +3196,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe](sources/use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim4085406904.md) — Full Huberman Lab interview on sleep-stage function, slow-wave restoration, REM emotional-memory processing, locus-coeruleus regulation, nightmares, and opioid-withdrawal sleep disruption.
 
 ## Entities
+- [Daniel Ek](entities/DanielEk.md) — Spotify and Neko Health co-founder applying a Sweden-first, vertically integrated product-building pattern across music and healthcare.
+- [Neko Health](entities/NekoHealth.md) — Preventive-health company combining multimodal diagnostics, longitudinal comparison, AI triage, and clinician consultation.
+- [Hjalmar Nilsonne](entities/HjalmarNilsonne.md) — Neko Health co-founder and CEO credited with leading the company and shaping its core vision.
+- [Prima Materia](entities/PrimaMateria.md) — Daniel Ek and Martin Lorentzon's active, co-founder-like company-building organization.
 - [Thutmose III](entities/ThutmoseIII.md) — Hatshepsut's junior co-ruler and successful successor, linked to a delayed and politically ambiguous campaign against her memory.
 - [Senenmut](entities/Senenmut.md) — Hatshepsut's high official and monumental partner whose political importance is better supported than the romance narrative.
 - [Lucy Lethbridge](entities/LucyLethbridge.md) — Historian connecting British domestic service to class hierarchy, gendered labor, technology, war, and cultural memory.
@@ -14586,6 +14591,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Satchin Panda](entities/SatchinPanda.md) — Circadian-biology researcher separating meal timing, fasting duration, energy intake, and evidence limits in animal and human studies.
 
 ## Concepts
+- [Healthcare Payer Horizon Mismatch](concepts/HealthcarePayerHorizonMismatch.md) — Incentive gap when today's prevention payer may not retain the member long enough to capture future benefits.
+- [Longitudinal Multimodal Screening](concepts/LongitudinalMultimodalScreening.md) — Repeat multi-signal screening model whose value depends on validation, clinician interpretation, and follow-up.
 - [Legal-Coercive Dictatorship Consolidation](concepts/LegalCoerciveDictatorshipConsolidation.md) — Mechanism joining lawful appearance, crisis powers, police capture, organized violence, elite accommodation, and civic destruction in democratic collapse.
 - [Female Kingship Beyond Regency](concepts/FemaleKingshipBeyondRegency.md) — Transition from governing for a minor ruler to claiming the sovereign office and symbolic language of king.
 - [Pharaonic Kingship Legitimation](concepts/PharaonicKingshipLegitimation.md) — Cumulative use of dynasty, divinity, regalia, force, exchange, and monuments to make royal authority credible.

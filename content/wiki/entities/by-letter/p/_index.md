@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 11364
+wiki_total_pages: 11368
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -782,6 +782,9 @@ wiki_pages:
   - key: "Prim"
     title: "Prim"
     url: "/wiki/entities/prim/"
+  - key: "PrimaMateria"
+    title: "Prima Materia"
+    url: "/wiki/entities/primamateria/"
   - key: "PrinceGroup"
     title: "Prince Group"
     url: "/wiki/entities/princegroup/"

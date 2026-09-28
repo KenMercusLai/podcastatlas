@@ -19279,6 +19279,10 @@
     "title": "Daniel Cohn-Bendit",
     "url": "/wiki/entities/danielcohnbendit/"
   },
+  "DanielEk": {
+    "title": "Daniel Ek",
+    "url": "/wiki/entities/danielek/"
+  },
   "DanielFranklin": {
     "title": "Daniel Franklin",
     "url": "/wiki/entities/danielfranklin/"
@@ -32767,6 +32771,10 @@
     "title": "Healthcare O2O",
     "url": "/wiki/concepts/healthcareo2o/"
   },
+  "HealthcarePayerHorizonMismatch": {
+    "title": "Healthcare Payer Horizon Mismatch",
+    "url": "/wiki/concepts/healthcarepayerhorizonmismatch/"
+  },
   "HealthspanThreeDomains": {
     "title": "Healthspan Three Domains",
     "url": "/wiki/concepts/healthspanthreedomains/"
@@ -33686,6 +33694,10 @@
   "HiweedLinux": {
     "title": "Hiweed Linux",
     "url": "/wiki/entities/hiweedlinux/"
+  },
+  "HjalmarNilsonne": {
+    "title": "Hjalmar Nilsonne",
+    "url": "/wiki/entities/hjalmarnilsonne/"
   },
   "HockeyNinja": {
     "title": "Hockey Ninja",
@@ -44599,6 +44611,10 @@
     "title": "Longhua Airport / 龙华机场",
     "url": "/wiki/entities/longhuaairport/"
   },
+  "LongitudinalMultimodalScreening": {
+    "title": "Longitudinal Multimodal Screening",
+    "url": "/wiki/concepts/longitudinalmultimodalscreening/"
+  },
   "LongluePrincessWesternHan": {
     "title": "隆虑公主 / Longlü Princess",
     "url": "/wiki/entities/longlueprincesswesternhan/"
@@ -50915,6 +50931,10 @@
     "title": "Neil Price",
     "url": "/wiki/entities/neilprice/"
   },
+  "NekoHealth": {
+    "title": "Neko Health",
+    "url": "/wiki/entities/nekohealth/"
+  },
   "NelsonMandela": {
     "title": "Nelson Mandela",
     "url": "/wiki/entities/nelsonmandela/"
@@ -57178,6 +57198,10 @@
   "Prim": {
     "title": "Prim",
     "url": "/wiki/entities/prim/"
+  },
+  "PrimaMateria": {
+    "title": "Prima Materia",
+    "url": "/wiki/entities/primamateria/"
   },
   "PrimaryDelegateLegitimacyGap": {
     "title": "Primary-Delegate Legitimacy Gap",
@@ -83374,6 +83398,10 @@
   "all-in-with-chamath-jason-sacks-friedberg-dan-loeb-the-lost-art-of-short-selling-and-why-stock-picking-is-back-41552605": {
     "title": "Dan Loeb: The Lost Art of Short Selling, and Why Stock Picking is Back",
     "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-dan-loeb-the-lost-art-of-short-selling-and-why-stock-picking-is-back-41552605/"
+  },
+  "all-in-with-chamath-jason-sacks-friedberg-daniel-ek-life-after-spotify-broken-healthcare-incentives-catching-di": {
+    "title": "Daniel Ek: Life After Spotify, Broken Healthcare Incentives, Catching Disease Early & AI's Potential",
+    "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-daniel-ek-life-after-spotify-broken-healthcare-incentives-catching-di/"
   },
   "all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830": {
     "title": "Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up",

@@ -39783,6 +39783,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/danielcohnbendit/"
     },
+    "DanielEk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Daniel Ek： Life After Spotify, Broken Healthcare Incentives, Catching Di.md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-daniel-ek-life-after-spotify-broken-healthcare-incentives-catching-di",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Daniel Ek: Life After Spotify, Broken Healthcare Incentives, Catching Disease Early & AI's Potential",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-daniel-ek-life-after-spotify-broken-healthcare-incentives-catching-di/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/danielek/"
+    },
     "DanielOConnell": {
       "episode_count": 1,
       "show_count": 1,
@@ -76139,6 +76155,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/concepts/healthcareo2o/"
     },
+    "HealthcarePayerHorizonMismatch": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Daniel Ek： Life After Spotify, Broken Healthcare Incentives, Catching Di.md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-daniel-ek-life-after-spotify-broken-healthcare-incentives-catching-di",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Daniel Ek: Life After Spotify, Broken Healthcare Incentives, Catching Disease Early & AI's Potential",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-daniel-ek-life-after-spotify-broken-healthcare-incentives-catching-di/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/healthcarepayerhorizonmismatch/"
+    },
     "HealthspanThreeDomains": {
       "episode_count": 1,
       "show_count": 1,
@@ -78651,6 +78683,22 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/concepts/historyasliferesource/"
+    },
+    "HjalmarNilsonne": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Daniel Ek： Life After Spotify, Broken Healthcare Incentives, Catching Di.md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-daniel-ek-life-after-spotify-broken-healthcare-incentives-catching-di",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Daniel Ek: Life After Spotify, Broken Healthcare Incentives, Catching Disease Early & AI's Potential",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-daniel-ek-life-after-spotify-broken-healthcare-incentives-catching-di/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/hjalmarnilsonne/"
     },
     "HofburgPalace": {
       "episode_count": 1,
@@ -106184,6 +106232,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/longhuaairport/"
     },
+    "LongitudinalMultimodalScreening": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Daniel Ek： Life After Spotify, Broken Healthcare Incentives, Catching Di.md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-daniel-ek-life-after-spotify-broken-healthcare-incentives-catching-di",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Daniel Ek: Life After Spotify, Broken Healthcare Incentives, Catching Disease Early & AI's Potential",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-daniel-ek-life-after-spotify-broken-healthcare-incentives-catching-di/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/longitudinalmultimodalscreening/"
+    },
     "LongluePrincessWesternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -120979,6 +121043,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/neilprice/"
     },
+    "NekoHealth": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Daniel Ek： Life After Spotify, Broken Healthcare Incentives, Catching Di.md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-daniel-ek-life-after-spotify-broken-healthcare-incentives-catching-di",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Daniel Ek: Life After Spotify, Broken Healthcare Incentives, Catching Disease Early & AI's Potential",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-daniel-ek-life-after-spotify-broken-healthcare-incentives-catching-di/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/nekohealth/"
+    },
     "NelsonMandela": {
       "episode_count": 2,
       "show_count": 2,
@@ -135590,6 +135670,29 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/preventprogramme/"
     },
+    "PreventiveCareCostSavingsUncertainty": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "177.日本医保基金为何要支持免费的国民体检？ [lh06qoNrZGjPrqDwL8dYGN4HoXpk].md",
+          "key": "177-riben-yibao-jijin-weihe-yao-zhichi-mianfei-de-guomin-tijian-lh06qonrzgjprqdwl8dygn4hoxpk",
+          "show": "起朱楼宴宾客",
+          "title": "177.日本医保基金为何要支持免费的国民体检？",
+          "url": "/wiki/sources/177-riben-yibao-jijin-weihe-yao-zhichi-mianfei-de-guomin-tijian-lh06qonrzgjprqdwl8dygn4hoxpk/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Daniel Ek： Life After Spotify, Broken Healthcare Incentives, Catching Di.md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-daniel-ek-life-after-spotify-broken-healthcare-incentives-catching-di",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Daniel Ek: Life After Spotify, Broken Healthcare Incentives, Catching Disease Early & AI's Potential",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-daniel-ek-life-after-spotify-broken-healthcare-incentives-catching-di/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/preventivecarecostsavingsuncertainty/"
+    },
     "PreventiveFloodGovernance": {
       "episode_count": 2,
       "show_count": 1,
@@ -135644,9 +135747,9 @@
       "url": "/wiki/concepts/preventivefrontiergovernance/"
     },
     "PreventiveHealthScreening": {
-      "episode_count": 6,
-      "show_count": 4,
-      "source_note_count": 6,
+      "episode_count": 7,
+      "show_count": 5,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "177.日本医保基金为何要支持免费的国民体检？ [lh06qoNrZGjPrqDwL8dYGN4HoXpk].md",
@@ -135689,9 +135792,16 @@
           "show": "这病说来话长",
           "title": "VOL.139当代打工人体检指南：如何选项目？如何避坑？报告怎么看？公立医院医生来支招",
           "url": "/wiki/sources/vol-139-dangdai-dagongren-tijian-zhinan-ruhe-xuan-xiangmu-ruhe-bikeng-baogao-zenme-kan-gongli-yiyuan-yisheng-lai-zhizhao-lucd43f_m0x0fdw09zm6iszatgtb/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Daniel Ek： Life After Spotify, Broken Healthcare Incentives, Catching Di.md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-daniel-ek-life-after-spotify-broken-healthcare-incentives-catching-di",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Daniel Ek: Life After Spotify, Broken Healthcare Incentives, Catching Disease Early & AI's Potential",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-daniel-ek-life-after-spotify-broken-healthcare-incentives-catching-di/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/preventivehealthscreening/"
     },
     "PreventiveNeuroimagingTradeoff": {
@@ -135732,6 +135842,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/concepts/preventiverelationshipmaintenance/"
+    },
+    "PrimaMateria": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Daniel Ek： Life After Spotify, Broken Healthcare Incentives, Catching Di.md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-daniel-ek-life-after-spotify-broken-healthcare-incentives-catching-di",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Daniel Ek: Life After Spotify, Broken Healthcare Incentives, Catching Disease Early & AI's Potential",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-daniel-ek-life-after-spotify-broken-healthcare-incentives-catching-di/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/primamateria/"
     },
     "PrimaryDelegateLegitimacyGap": {
       "episode_count": 2,
@@ -158017,6 +158143,64 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/spotrobot/"
+    },
+    "Spotify": {
+      "episode_count": 7,
+      "show_count": 5,
+      "source_note_count": 7,
+      "sources": [
+        {
+          "episode_file": "星巴克回应「蜜雪冰城代工」等传闻，李宁否认与姆巴佩签约 [1006054195].md",
+          "key": "xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195",
+          "show": "声动早咖啡",
+          "title": "星巴克回应「蜜雪冰城代工」等传闻，李宁否认与姆巴佩签约",
+          "url": "/wiki/sources/xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195/"
+        },
+        {
+          "episode_file": "159.算法的六副面孔：它是如何从处理数据，变成定义我们是谁的 [lh5ng5MBvkwOrFXLq9l-cOScePC7].md",
+          "key": "159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7",
+          "show": "起朱楼宴宾客",
+          "title": "159.算法的六副面孔：它是如何从处理数据，变成定义我们是谁的",
+          "url": "/wiki/sources/159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7/"
+        },
+        {
+          "episode_file": "tech_20260417_0417_MP_TECH_pod_128 [tech_20260417_0417_MP_TECH_pod_128].md",
+          "key": "tech-20260417-0417-mp-tech-pod-128-tech-20260417-0417-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - AI companies divided over proposed state law, Amazon buys Globalstar, and Spotify to sell physical books",
+          "url": "/wiki/sources/tech-20260417-0417-mp-tech-pod-128-tech-20260417-0417-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "TSR-S5-CatchUp2-v1 [TSR-S5-CatchUp2-v1].md",
+          "key": "tsr-s5-catchup2-v1-tsr-s5-catchup2-v1",
+          "show": "The Social Radars",
+          "title": "The Social Radars Season Five Update",
+          "url": "/wiki/sources/tsr-s5-catchup2-v1-tsr-s5-catchup2-v1/"
+        },
+        {
+          "episode_file": "TSR-YCOffsite-KasishGupta-v1-AudioOnly [TSR-YCOffsite-KasishGupta-v1-AudioOnly].md",
+          "key": "tsr-ycoffsite-kasishgupta-v1-audioonly-tsr-ycoffsite-kasishgupta-v1-audioonly",
+          "show": "The Social Radars",
+          "title": "Founder Mode: Kashish Gupta, Founder and co-CEO of Hightouch",
+          "url": "/wiki/sources/tsr-ycoffsite-kasishgupta-v1-audioonly-tsr-ycoffsite-kasishgupta-v1-audioonly/"
+        },
+        {
+          "episode_file": "tech_20260213_TECH_pod_128 [tech_20260213_TECH_pod_128].md",
+          "key": "tech-20260213-tech-pod-128-tech-20260213-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Alphabet takes on debt to pay for AI projects, the social network where humans aren't allowed, and Spotify reports record user growth",
+          "url": "/wiki/sources/tech-20260213-tech-pod-128-tech-20260213-tech-pod-128/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Daniel Ek： Life After Spotify, Broken Healthcare Incentives, Catching Di.md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-daniel-ek-life-after-spotify-broken-healthcare-incentives-catching-di",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Daniel Ek: Life After Spotify, Broken Healthcare Incentives, Catching Disease Early & AI's Potential",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-daniel-ek-life-after-spotify-broken-healthcare-incentives-catching-di/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/spotify/"
     },
     "SpringAutumnIntentAdjudication": {
       "episode_count": 1,

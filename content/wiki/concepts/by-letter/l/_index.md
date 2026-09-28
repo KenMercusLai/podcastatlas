@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 8783
+wiki_total_pages: 8785
 wiki_pages:
   - key: "LaborIllusion"
     title: "Labor Illusion"
@@ -749,6 +749,9 @@ wiki_pages:
   - key: "LongTermUnemploymentPenalty"
     title: "Long-Term Unemployment Penalty / 长期失业惩罚"
     url: "/wiki/concepts/longtermunemploymentpenalty/"
+  - key: "LongitudinalMultimodalScreening"
+    title: "Longitudinal Multimodal Screening"
+    url: "/wiki/concepts/longitudinalmultimodalscreening/"
   - key: "LongshanEastWestCorridor"
     title: "Longshan East-West Corridor Logic / 陇山东西互动轴线"
     url: "/wiki/concepts/longshaneastwestcorridor/"

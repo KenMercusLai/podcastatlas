@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3214
+topic_total_pages: 3218
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2815,6 +2815,9 @@ topic_concepts:
   - key: "LongTailModelHosting"
     title: "Long-Tail Model Hosting"
     url: "/wiki/concepts/longtailmodelhosting/"
+  - key: "LongitudinalMultimodalScreening"
+    title: "Longitudinal Multimodal Screening"
+    url: "/wiki/concepts/longitudinalmultimodalscreening/"
   - key: "LongwaveRadio"
     title: "Longwave Radio"
     url: "/wiki/concepts/longwaveradio/"
@@ -5237,6 +5240,9 @@ topic_entities:
   - key: "DanSiroker"
     title: "Dan Siroker"
     url: "/wiki/entities/dansiroker/"
+  - key: "DanielEk"
+    title: "Daniel Ek"
+    url: "/wiki/entities/danielek/"
   - key: "DanielRausch"
     title: "Daniel Rausch"
     url: "/wiki/entities/danielrausch/"
@@ -6521,6 +6527,9 @@ topic_entities:
   - key: "NAURA"
     title: "NAURA / 北方华创"
     url: "/wiki/entities/naura/"
+  - key: "NekoHealth"
+    title: "Neko Health"
+    url: "/wiki/entities/nekohealth/"
   - key: "NeMoCloud"
     title: "NeMo Cloud"
     url: "/wiki/entities/nemocloud/"
@@ -8625,6 +8634,9 @@ topic_sources:
   - key: "tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3"
     title: "Dan Siroker on Optimizely, Rewind, and Limitless AI"
     url: "/wiki/sources/tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-daniel-ek-life-after-spotify-broken-healthcare-incentives-catching-di"
+    title: "Daniel Ek: Life After Spotify, Broken Healthcare Incentives, Catching Disease Early & AI's Potential"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-daniel-ek-life-after-spotify-broken-healthcare-incentives-catching-di/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830"
     title: "Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830/"

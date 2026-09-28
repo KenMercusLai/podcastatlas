@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2907
+topic_total_pages: 2908
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -3722,6 +3722,9 @@ topic_entities:
   - key: "DanceReflections"
     title: "Dance Reflections by Van Cleef & Arpels / 梵克雅宝舞蹈映像"
     url: "/wiki/entities/dancereflections/"
+  - key: "DanielEk"
+    title: "Daniel Ek"
+    url: "/wiki/entities/danielek/"
   - key: "DartmouthCollege"
     title: "Dartmouth College / 达特茅斯学院"
     url: "/wiki/entities/dartmouthcollege/"

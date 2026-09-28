@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 8783
+wiki_total_pages: 8785
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -206,6 +206,9 @@ wiki_pages:
   - key: "HealthcareO2O"
     title: "Healthcare O2O"
     url: "/wiki/concepts/healthcareo2o/"
+  - key: "HealthcarePayerHorizonMismatch"
+    title: "Healthcare Payer Horizon Mismatch"
+    url: "/wiki/concepts/healthcarepayerhorizonmismatch/"
   - key: "HealthspanThreeDomains"
     title: "Healthspan Three Domains"
     url: "/wiki/concepts/healthspanthreedomains/"

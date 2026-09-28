@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-29] ingest | Daniel Ek: Life After Spotify, Broken Healthcare Incentives, Catching Disease Early & AI's Potential
+
+Added source `all-in-with-chamath-jason-sacks-friedberg-daniel-ek-life-after-spotify-broken-healthcare-incentives-catching-di`; created `DanielEk`, `NekoHealth`, `HjalmarNilsonne`, `PrimaMateria`, `HealthcarePayerHorizonMismatch`, and `LongitudinalMultimodalScreening`; and updated `Spotify`, `PreventiveHealthScreening`, `PreventiveCareCostSavingsUncertainty`, and the canonical index from their complete bounded source sets. Core synthesis: Neko's integrated laboratory, imaging, functional, wearable, AI-triage, and clinician-review workflow is a promising longitudinal product design but not yet proof of population benefit or system-level savings; employment-linked insurer turnover can underfund prevention whose returns arrive after a member leaves. No settled contradiction was adopted. Scan volume, detection rate, behavior change, profitability, clinical-trial count, expansion, and cost claims remain founder-reported and source-scoped, while false positives, overdiagnosis, affordability, privacy, representativeness, and downstream burden remain open qualifications. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-29] ingest | 301: The Real Da Vinci Code
 
 Added source `301-the-real-da-vinci-code-glt5654192229`; created `PierrePlantard`, `PrioryOfSion`, `RennesLeChateau`, `TheDaVinciCode`, and `ManufacturedHistoricalConspiracy`; updated `Cathars` from its complete bounded source set; and updated the canonical index. Core synthesis: the supposedly ancient Priory was a 1956 association whose medieval continuity was manufactured through local treasure promotion, Plantard's forged archive trail, documentary and pseudo-historical elaboration, and mass-market fiction, while genuine Cathar persecution and Languedoc history supplied atmosphere rather than proof. No settled contradiction with episodes 302 or 303 was adopted. The source directly rejects the 1099 Priory and sacred-bloodline claims, while sales figures, promotional wording, motives, document authorship, and the wider Cathar historiographical dispute remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten because this episode backfills the established Cathar branch; downstream synthesis refresh only reads it.
@@ -25219,6 +25223,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-29] ingest | GUEST SERIES | Dr. Andy Galpin: Optimal Protocols to Build Strength & Grow Muscles
 
 Added source `guest-series-dr-andy-galpin-optimal-protocols-to-build-strength-grow-muscles-scim5680136934`; updated `AndyGalpin`, `StrengthHypertrophyProgramming`, `MuscleAsLongevityInfrastructure`, `ExerciseRecoveryReadiness`, and `CreatineMonohydrateEvidence` from their complete bounded source sets; and updated the canonical index. Core synthesis: strength, power, and hypertrophy overlap but require different execution and fatigue priorities; resistance training also develops connective tissue and bone on different time courses; and recovery, cardio, cold exposure, protein, and creatine should be judged against the training goal rather than used as universal rules. No settled contradiction was adopted. Weekly volume, decline rates, biomarker thresholds, cold timing, cardio interference, protein, and supplement doses remain source-scoped public education. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-29] lint | Wiki health check
 

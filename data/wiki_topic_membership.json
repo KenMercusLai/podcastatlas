@@ -22858,6 +22858,18 @@
       "url": "/topics/science/"
     }
   ],
+  "DanielEk": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "DanielFranklin": [
     {
       "key": "politics",
@@ -36573,6 +36585,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "HealthcarePayerHorizonMismatch": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "HealthyBaby": [
     {
       "key": "science",
@@ -47480,6 +47499,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "LongitudinalMultimodalScreening": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "LongwangZhinu1931ChangjiangShuizai": [
     {
       "key": "culture",
@@ -53640,6 +53666,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "NekoHealth": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "NelsonMandela": [
@@ -86842,6 +86875,18 @@
     }
   ],
   "all-in-with-chamath-jason-sacks-friedberg-dan-loeb-the-lost-art-of-short-selling-and-why-stock-picking-is-back-41552605": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
+  "all-in-with-chamath-jason-sacks-friedberg-daniel-ek-life-after-spotify-broken-healthcare-incentives-catching-di": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
     {
       "key": "economics",
       "label": "Economics",

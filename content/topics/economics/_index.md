@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2136
+topic_total_pages: 2138
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1489,6 +1489,9 @@ topic_concepts:
   - key: "HardwareTalentSpillover"
     title: "Hardware Talent Spillover"
     url: "/wiki/concepts/hardwaretalentspillover/"
+  - key: "HealthcarePayerHorizonMismatch"
+    title: "Healthcare Payer Horizon Mismatch"
+    url: "/wiki/concepts/healthcarepayerhorizonmismatch/"
   - key: "HeathIncomesPolicy"
     title: "Heath Government Incomes Policy"
     url: "/wiki/concepts/heathincomespolicy/"
@@ -5817,6 +5820,9 @@ topic_sources:
   - key: "tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3"
     title: "Dan Siroker on Optimizely, Rewind, and Limitless AI"
     url: "/wiki/sources/tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-daniel-ek-life-after-spotify-broken-healthcare-incentives-catching-di"
+    title: "Daniel Ek: Life After Spotify, Broken Healthcare Incentives, Catching Disease Early & AI's Potential"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-daniel-ek-life-after-spotify-broken-healthcare-incentives-catching-di/"
   - key: "tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio"
     title: "David Kirtley, Founder & CEO of Helion Energy"
     url: "/wiki/sources/tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio/"
