@@ -4,8 +4,9 @@ type: concept
 tags: [memory, execution, propaganda, political-violence]
 sources:
   - 547-the-french-revolution-the-execution-of-the-king-part-4-glt2184509954
+  - 339-ireland-the-easter-rising-1916-part-4-glt7095481415
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-22
+last_updated: 2026-09-28
 ---
 
 # Political Execution Memory Contest
@@ -16,45 +17,48 @@ Political execution memory contest is the struggle to define whether an executed
 
 ## Current Synthesis
 
-Louis XVI's execution produced rival narratives immediately. Republicans emphasized ordinary criminal punishment, national acclamation, and the destruction of tyranny, while royalists emphasized composure, innocence, religious preparation, family grief, martyrdom, and dynastic continuity through Louis XVII; hostile stories about panic or bodily failure show that controlling the manner of death was itself part of political memory.
+Louis XVI's execution shows immediate symmetry of opposed meaning. Republicans emphasized ordinary criminal punishment, national acclamation, and destruction of tyranny; royalists emphasized composure, innocence, religious preparation, family grief, martyrdom, and dynastic continuity through Louis XVII. Burial, crowd control, reported final conduct, and hostile anecdotes all became instruments in a conflict that legal death could not close.
+
+The [[EasterRising|Easter Rising]] adds a collective and sequential case. Britain treated German-linked rebellion during a world war as treason, but ten days of executions allowed clemency appeals and individual martyr stories to accumulate. Internment, returning detainees, requiem masses, flags, the GPO ruins, and annual commemoration carried that memory into mass politics. Execution meaning therefore depends not only on the scaffold but also on timing, surviving organizations, ritual carriers, and the political credibility of the punishing state.
 
 ## Key Claims
 
-- The public manner of dying can become evidence for or against political legitimacy.
-- Burial practices attempt to regulate whether a dead ruler can become a sacred dynastic site.
-- Rumors about fear, appetite, struggle, or bodily failure can degrade an opponent after legal punishment is complete.
-- Family continuity can preserve monarchy symbolically even after the sovereign's body is destroyed.
-- Martyr and tyrant narratives can use the same execution to authorize incompatible futures.
-- Suppression of commemoration does not guarantee control of memory.
+- The public manner and reported demeanor of dying can become evidence for or against political legitimacy.
+- Burial, site control, and commemoration attempt to regulate whether the dead become sacred political figures.
+- Martyr and criminal narratives can use the same execution to authorize incompatible futures.
+- Staggered executions can prolong rather than close a legitimacy crisis by multiplying clemency moments and individual stories.
+- Surviving family lines, parties, texts, prisoners, rituals, and sites carry execution memory beyond immediate witnesses.
+- Suppression of commemoration does not guarantee control of political meaning.
 
 ## Evidence
 
-### Republican narrative
+### Royal and republican narratives
 
-- [[547-the-french-revolution-the-execution-of-the-king-part-4-glt2184509954]] supplies republican acclamations, Marat's festival language, criminal burial, and hostile stories that denied Louis dignity.
+- [[547-the-french-revolution-the-execution-of-the-king-part-4-glt2184509954]] supplies republican acclamations, criminal burial, hostile anecdotes, confession, family farewell, reported composure, royalist martyrdom, and recognition of Louis XVII.
 
-### Royalist narrative
+### Collective revolutionary martyrdom
 
-- [[547-the-french-revolution-the-execution-of-the-king-part-4-glt2184509954]] supplies confession, family farewell, reported composure, martyr interpretation, and recognition of the dauphin as Louis XVII.
+- [[339-ireland-the-easter-rising-1916-part-4-glt7095481415]] connects the ten-day execution sequence, clemency appeals, and Casement's later hanging to the Rising's sacred nationalist story.
 
-### Failure of closure
+### Memory carriers and political effect
 
-- [[547-the-french-revolution-the-execution-of-the-king-part-4-glt2184509954]] concludes that France's rival interpretations pointed toward continuing internal conflict.
+- [[339-ireland-the-easter-rising-1916-part-4-glt7095481415]] follows detention, returning crowds, requiem masses, tricolours, GPO commemoration, and Sinn Fein's expansion.
+- [[547-the-french-revolution-the-execution-of-the-king-part-4-glt2184509954]] shows dynastic naming and rival narrative preservation continuing after bodily and burial control.
 
 ## Counterevidence & Qualifications
 
-- The source reconstructs competing narratives but does not measure their distribution across France.
-- Reported final words, crowd reactions, and hostile anecdotes require source criticism and remain episode-bounded.
-- Political memory did not divide into only two uniform royalist and republican accounts.
+Neither source measures the distribution of competing narratives across the full population. Reported final words, crowd reactions, private motives, hostile anecdotes, and broad shifts in public opinion remain source-bounded. The French and Irish cases differ: one concerns a deposed sovereign used to found a republic, the other republican rebels punished by an existing wartime state. Execution is also only one mechanism inside Ireland's wider shift, which included internment, organization, cultural nationalism, and later conflict.
 
 ## What Changed
 
-- A canonical concept now captures the immediate narrative struggle after Louis's execution.
+- Expanded the concept from one royal execution to a collective revolutionary sequence.
+- Added timing, clemency campaigns, returning detainees, sites, and surviving organizations as memory carriers.
 
 ## Related Concepts
 
 - [[HistoricalMemoryContest]] - broader institutional and cultural struggle over public history.
-- [[RevolutionaryMartyrdomImageMaking]] - later French Revolutionary case in which death was converted into civic sanctity.
-- [[RegicideAsRepublicanFounding]] - republican meaning that royalist martyrdom contested.
-- [[DeRoyalizationRitual]] - attempt to prevent royal status from surviving bodily death.
-- [[RepublicanMemoryAgainstDictatorship]] - memory practice that frames political killing as warning against domination.
+- [[RepressionMartyrdomBackfire]] - mechanism through which punishment can enlarge a defeated cause.
+- [[RevolutionaryFailurePoliticalSuccess]] - wider process converting battlefield defeat into political momentum.
+- [[RegicideAsRepublicanFounding]] - French republican meaning that royalist martyrdom contested.
+- [[RevolutionaryMartyrdomImageMaking]] - related conversion of violent death into civic sanctity.
+- [[GeneralPostOfficeDublin]] - site through which Irish execution memory acquired a recurring public location.

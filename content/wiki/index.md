@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [339: Ireland: The Easter Rising, 1916 (Part 4)](sources/339-ireland-the-easter-rising-1916-part-4-glt7095481415.md) — The Rest Is History episode on the Rising's republican, labour, cultural, military, and commemorative causes and its conversion from battlefield defeat into political success.
 - [VOL.53消化内镜科｜拿到报告别怕！幽门螺杆菌、糜烂性胃炎、胃溃疡、肠息肉、便血究竟怎么回事？](sources/vol-53-xiaohuaneijingke-nadao-baogao-bie-pa-youmen-luoganjun-milanxing-weiyan-weikuiyang-changxirou-bianxie-jiujing-zenme-huishi-lnnmnwcdzoxvblysajxyk_wyhgy.md) — 这病说来话长 episode on contextual endoscopy-report reading, gastric findings, H. pylori, colon polyps, tumor markers, functional symptoms, and rectal-bleeding triage.
 - [340: Hadrian and Antinous](sources/340-hadrian-and-antinous-glt4184410900.md) — The Rest Is History episode on Hadrian's bond with Antinous, Roman sexual status norms, the Nile death mystery, and an imperially sponsored divine afterlife.
 - [The Science of MDMA & Its Therapeutic Uses: Benefits & Risks](sources/the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449.md) — Huberman Lab solo episode on MDMA mechanisms, social reward, PTSD-assisted psychotherapy, contextual neurotoxicity, contamination, and supervised-use boundaries.
@@ -3092,6 +3093,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [341: The Trials of Oscar Wilde: Sex and Scandal (Part 1)](sources/341-the-trials-of-oscar-wilde-sex-and-scandal-part-1-glt1940599692.md) — The Rest Is History episode on Wilde's celebrity, changing sexual law and identity, unequal relationships, the Queensberry conflict, and the failed libel prosecution.
 
 ## Entities
+- [Easter Rising](entities/EasterRising.md) — 1916 Irish republican rebellion whose military defeat became a political and commemorative turning point.
+- [Patrick Pearse](entities/PatrickPearse.md) — educator, language activist, writer, and revolutionary who proclaimed the republic and accepted surrender.
+- [James Connolly](entities/JamesConnolly.md) — socialist labour leader and Irish Citizen Army commander linking Dublin poverty to the Rising.
+- [Tom Clarke](entities/TomClarke.md) — veteran Fenian organizer who renewed the IRB and pressed for wartime revolt.
+- [Eoin MacNeill](entities/EoinMacNeill.md) — Irish Volunteers founder whose countermand sharply reduced Easter mobilization.
+- [Constance Markievicz](entities/ConstanceMarkievicz.md) — Citizen Army organizer and combatant illustrating both women's agency and gender constraints in 1916.
+- [Irish Republican Brotherhood](entities/IrishRepublicanBrotherhood.md) — clandestine Fenian organization that supplied the Rising's central planning network.
+- [Irish Citizen Army](entities/IrishCitizenArmy.md) — socialist labour militia formed from Dublin industrial conflict and led into the Rising by James Connolly.
+- [Irish Volunteers](entities/IrishVolunteers.md) — nationalist armed organization divided over wartime service and the threshold for rebellion.
+- [General Post Office, Dublin](entities/GeneralPostOfficeDublin.md) — Rising headquarters, proclamation site, bombarded stronghold, and later republican memory site.
 - [Antinous](entities/Antinous.md) — Bithynian companion of Hadrian whose unresolved Nile death, divinization, visual legacy, and queer afterlife resist a single historical category.
 - [Alexander Shulgin](entities/AlexanderShulgin.md) — Chemist associated with MDMA's modern rediscovery and its early circulation among therapists and physicians.
 - [Multidisciplinary Association for Psychedelic Studies](entities/MultidisciplinaryAssociationForPsychedelicStudies.md) — Organization presented in the source as developing structured MDMA-assisted psychotherapy trials for severe PTSD.
@@ -14307,6 +14318,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Raiders of the Lost Ark](entities/RaidersOfTheLostArk.md) — Adventure film that translates the Ark's dangerous holiness into an ultimate-weapon race against Nazi Germany.
 
 ## Concepts
+- [Irish Home Rule](concepts/IrishHomeRule.md) — devolved-government project whose limits and armed opposition shaped prewar Irish politics.
+- [Cultural Nationalism Institution-Building](concepts/CulturalNationalismInstitutionBuilding.md) — use of language, schools, sport, youth bodies, poetry, and ritual to make national identity institutionally durable.
+- [Revolutionary Failure and Political Success](concepts/RevolutionaryFailurePoliticalSuccess.md) — mechanism by which operational defeat can alter legitimacy and future political choice through aftermath and memory.
+- [Repression-Martyrdom Backfire](concepts/RepressionMartyrdomBackfire.md) — process through which executions and detention can enlarge a defeated movement's legitimacy.
 - [Gastrointestinal Report Interpretation / 胃肠镜报告解读](concepts/GastrointestinalReportInterpretation.md) — Framework for routing endoscopy terminology through lesion context, pathology, symptoms, risk, and clinician review without equating one phrase with a diagnosis.
 - [Ancient Roman Sexual Status Hierarchy](concepts/AncientRomanSexualStatusHierarchy.md) — Framework in which freedom, citizenship, age, rank, and active or passive role mattered more than a modern homosexual/heterosexual identity divide.
 - [Antinous Cult Formation](concepts/AntinousCultFormation.md) — Process joining Hadrianic sponsorship, Osirian identification, Greek forms, provincial uptake, and contested religious afterlife.

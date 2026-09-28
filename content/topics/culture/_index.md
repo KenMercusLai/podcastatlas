@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2883
+topic_total_pages: 2885
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -847,6 +847,9 @@ topic_concepts:
   - key: "CulturalGapStatusSignaling"
     title: "Cultural Gap Status Signaling / 文化隔阂式地位信号"
     url: "/wiki/concepts/culturalgapstatussignaling/"
+  - key: "CulturalNationalismInstitutionBuilding"
+    title: "Cultural Nationalism Institution-Building"
+    url: "/wiki/concepts/culturalnationalisminstitutionbuilding/"
   - key: "CulturalParticipationEvent"
     title: "Cultural Participation Event / 文化参与事件"
     url: "/wiki/concepts/culturalparticipationevent/"
@@ -4784,6 +4787,9 @@ topic_entities:
   - key: "PatriciaResnick"
     title: "Patricia Resnick"
     url: "/wiki/entities/patriciaresnick/"
+  - key: "PatrickPearse"
+    title: "Patrick Pearse"
+    url: "/wiki/entities/patrickpearse/"
   - key: "Patroclus"
     title: "Patroclus"
     url: "/wiki/entities/patroclus/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 11194
+wiki_total_pages: 11204
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -38,6 +38,9 @@ wiki_pages:
   - key: "EastStarGroup"
     title: "East Star Group / 东星集团"
     url: "/wiki/entities/eaststargroup/"
+  - key: "EasterRising"
+    title: "Easter Rising"
+    url: "/wiki/entities/easterrising/"
   - key: "EBCo"
     title: "EB&Co"
     url: "/wiki/entities/ebco/"
@@ -419,6 +422,9 @@ wiki_pages:
   - key: "EOProducts"
     title: "EO Products"
     url: "/wiki/entities/eoproducts/"
+  - key: "EoinMacNeill"
+    title: "Eoin MacNeill"
+    url: "/wiki/entities/eoinmacneill/"
   - key: "EOSWorldwide"
     title: "EOS Worldwide"
     url: "/wiki/entities/eosworldwide/"

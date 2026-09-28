@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8600
+wiki_total_pages: 8604
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2432,6 +2432,9 @@ wiki_pages:
   - key: "CulturalGapStatusSignaling"
     title: "Cultural Gap Status Signaling / 文化隔阂式地位信号"
     url: "/wiki/concepts/culturalgapstatussignaling/"
+  - key: "CulturalNationalismInstitutionBuilding"
+    title: "Cultural Nationalism Institution-Building"
+    url: "/wiki/concepts/culturalnationalisminstitutionbuilding/"
   - key: "CulturalParticipationEvent"
     title: "Cultural Participation Event / 文化参与事件"
     url: "/wiki/concepts/culturalparticipationevent/"

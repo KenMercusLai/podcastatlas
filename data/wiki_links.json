@@ -983,6 +983,10 @@
     "title": "33.人间失格：胆小鬼的壮烈献祭",
     "url": "/wiki/sources/33-renjian-shige-danxiaogui-de-zhuanglie-xianji-599924624/"
   },
+  "339-ireland-the-easter-rising-1916-part-4-glt7095481415": {
+    "title": "339: Ireland: The Easter Rising, 1916 (Part 4)",
+    "url": "/wiki/sources/339-ireland-the-easter-rising-1916-part-4-glt7095481415/"
+  },
   "34-maomi-mishi-he-yuchun-you-keai-de-renlei-601590607": {
     "title": "34.猫咪秘史：呵，愚蠢又可爱的人类",
     "url": "/wiki/sources/34-maomi-mishi-he-yuchun-you-keai-de-renlei-601590607/"
@@ -16871,6 +16875,10 @@
     "title": "Conspiracy Theory Pattern Seeking",
     "url": "/wiki/concepts/conspiracytheorypatternseeking/"
   },
+  "ConstanceMarkievicz": {
+    "title": "Constance Markievicz",
+    "url": "/wiki/entities/constancemarkievicz/"
+  },
   "ConstantPropertyConstantHeart": {
     "title": "Constant Property, Constant Heart / 有恒产者有恒心",
     "url": "/wiki/concepts/constantpropertyconstantheart/"
@@ -18190,6 +18198,10 @@
   "CulturalGapStatusSignaling": {
     "title": "Cultural Gap Status Signaling / 文化隔阂式地位信号",
     "url": "/wiki/concepts/culturalgapstatussignaling/"
+  },
+  "CulturalNationalismInstitutionBuilding": {
+    "title": "Cultural Nationalism Institution-Building",
+    "url": "/wiki/concepts/culturalnationalisminstitutionbuilding/"
   },
   "CulturalParticipationEvent": {
     "title": "Cultural Participation Event / 文化参与事件",
@@ -22275,6 +22287,10 @@
     "title": "East-West Emperor Diplomatic Probe / 东西二帝试探",
     "url": "/wiki/concepts/eastwestemperordiplomaticprobe/"
   },
+  "EasterRising": {
+    "title": "Easter Rising",
+    "url": "/wiki/entities/easterrising/"
+  },
   "EasternWesternZhouSplit": {
     "title": "Eastern-Western Zhou Split / 东周西周分裂",
     "url": "/wiki/concepts/easternwesternzhousplit/"
@@ -23790,6 +23806,10 @@
   "EnzoFerrari": {
     "title": "Enzo Ferrari",
     "url": "/wiki/entities/enzoferrari/"
+  },
+  "EoinMacNeill": {
+    "title": "Eoin MacNeill",
+    "url": "/wiki/entities/eoinmacneill/"
   },
   "EpicHeroHumanLimits": {
     "title": "Epic Hero Human Limits",
@@ -28822,6 +28842,10 @@
   "GeneralMotors": {
     "title": "General Motors",
     "url": "/wiki/entities/generalmotors/"
+  },
+  "GeneralPostOfficeDublin": {
+    "title": "General Post Office, Dublin",
+    "url": "/wiki/entities/generalpostofficedublin/"
   },
   "Generalist": {
     "title": "Generalist",
@@ -36267,9 +36291,25 @@
     "title": "Ireland",
     "url": "/wiki/entities/ireland/"
   },
+  "IrishCitizenArmy": {
+    "title": "Irish Citizen Army",
+    "url": "/wiki/entities/irishcitizenarmy/"
+  },
+  "IrishHomeRule": {
+    "title": "Irish Home Rule",
+    "url": "/wiki/concepts/irishhomerule/"
+  },
   "IrishRepublicanArmy": {
     "title": "Irish Republican Army",
     "url": "/wiki/entities/irishrepublicanarmy/"
+  },
+  "IrishRepublicanBrotherhood": {
+    "title": "Irish Republican Brotherhood",
+    "url": "/wiki/entities/irishrepublicanbrotherhood/"
+  },
+  "IrishVolunteers": {
+    "title": "Irish Volunteers",
+    "url": "/wiki/entities/irishvolunteers/"
   },
   "IronDeficiencyAnemiaManagement": {
     "title": "Iron Deficiency Anemia Management",
@@ -36710,6 +36750,10 @@
   "JamesChichesterClark": {
     "title": "James Chichester-Clark",
     "url": "/wiki/entities/jameschichesterclark/"
+  },
+  "JamesConnolly": {
+    "title": "James Connolly",
+    "url": "/wiki/entities/jamesconnolly/"
   },
   "JamesCook": {
     "title": "James Cook",
@@ -53267,6 +53311,10 @@
     "title": "Patrick Heiniger",
     "url": "/wiki/entities/patrickheiniger/"
   },
+  "PatrickPearse": {
+    "title": "Patrick Pearse",
+    "url": "/wiki/entities/patrickpearse/"
+  },
   "PatrickRooney": {
     "title": "Patrick Rooney",
     "url": "/wiki/entities/patrickrooney/"
@@ -59275,6 +59323,10 @@
     "title": "Representation Learning",
     "url": "/wiki/concepts/representationlearning/"
   },
+  "RepressionMartyrdomBackfire": {
+    "title": "Repression-Martyrdom Backfire",
+    "url": "/wiki/concepts/repressionmartyrdombackfire/"
+  },
   "ReproductiveAttritionStrategy": {
     "title": "Reproductive Attrition Strategy / 繁衍打击战略",
     "url": "/wiki/concepts/reproductiveattritionstrategy/"
@@ -59742,6 +59794,10 @@
   "RevolutionaryFactionalOutflanking": {
     "title": "Revolutionary Factional Outflanking",
     "url": "/wiki/concepts/revolutionaryfactionaloutflanking/"
+  },
+  "RevolutionaryFailurePoliticalSuccess": {
+    "title": "Revolutionary Failure and Political Success",
+    "url": "/wiki/concepts/revolutionaryfailurepoliticalsuccess/"
   },
   "RevolutionaryHungerStreetMobilization": {
     "title": "Revolutionary Hunger and Street Mobilization",
@@ -70510,6 +70566,10 @@
   "TomCarter": {
     "title": "Tom Carter",
     "url": "/wiki/entities/tomcarter/"
+  },
+  "TomClarke": {
+    "title": "Tom Clarke",
+    "url": "/wiki/entities/tomclarke/"
   },
   "TomCohen": {
     "title": "Tom Cohen",

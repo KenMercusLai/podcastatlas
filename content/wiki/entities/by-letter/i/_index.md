@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 11194
+wiki_total_pages: 11204
 wiki_pages:
   - key: "IHaveADreamSpeech"
     title: "I Have a Dream Speech"
@@ -287,9 +287,18 @@ wiki_pages:
   - key: "Ireland"
     title: "Ireland"
     url: "/wiki/entities/ireland/"
+  - key: "IrishCitizenArmy"
+    title: "Irish Citizen Army"
+    url: "/wiki/entities/irishcitizenarmy/"
   - key: "IrishRepublicanArmy"
     title: "Irish Republican Army"
     url: "/wiki/entities/irishrepublicanarmy/"
+  - key: "IrishRepublicanBrotherhood"
+    title: "Irish Republican Brotherhood"
+    url: "/wiki/entities/irishrepublicanbrotherhood/"
+  - key: "IrishVolunteers"
+    title: "Irish Volunteers"
+    url: "/wiki/entities/irishvolunteers/"
   - key: "IronmanTriathlon"
     title: "Ironman / 铁人三项"
     url: "/wiki/entities/ironmantriathlon/"

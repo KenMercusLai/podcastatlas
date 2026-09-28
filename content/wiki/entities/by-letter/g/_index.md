@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 11194
+wiki_total_pages: 11204
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -206,6 +206,9 @@ wiki_pages:
   - key: "GeneralMotors"
     title: "General Motors"
     url: "/wiki/entities/generalmotors/"
+  - key: "GeneralPostOfficeDublin"
+    title: "General Post Office, Dublin"
+    url: "/wiki/entities/generalpostofficedublin/"
   - key: "Generalist"
     title: "Generalist"
     url: "/wiki/entities/generalist/"

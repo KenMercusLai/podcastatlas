@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 8600
+wiki_total_pages: 8604
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -467,6 +467,9 @@ wiki_pages:
   - key: "RepresentationLearning"
     title: "Representation Learning"
     url: "/wiki/concepts/representationlearning/"
+  - key: "RepressionMartyrdomBackfire"
+    title: "Repression-Martyrdom Backfire"
+    url: "/wiki/concepts/repressionmartyrdombackfire/"
   - key: "ReproductiveAttritionStrategy"
     title: "Reproductive Attrition Strategy / 繁衍打击战略"
     url: "/wiki/concepts/reproductiveattritionstrategy/"
@@ -764,6 +767,9 @@ wiki_pages:
   - key: "RevolutionaryFactionalOutflanking"
     title: "Revolutionary Factional Outflanking"
     url: "/wiki/concepts/revolutionaryfactionaloutflanking/"
+  - key: "RevolutionaryFailurePoliticalSuccess"
+    title: "Revolutionary Failure and Political Success"
+    url: "/wiki/concepts/revolutionaryfailurepoliticalsuccess/"
   - key: "RevolutionaryHungerStreetMobilization"
     title: "Revolutionary Hunger and Street Mobilization"
     url: "/wiki/concepts/revolutionaryhungerstreetmobilization/"

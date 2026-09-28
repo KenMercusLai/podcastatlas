@@ -33238,6 +33238,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/conspiracytheorypatternseeking/"
     },
+    "ConstanceMarkievicz": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7095481415 [GLT7095481415].md",
+          "key": "339-ireland-the-easter-rising-1916-part-4-glt7095481415",
+          "show": "The Rest Is History",
+          "title": "339: Ireland: The Easter Rising, 1916 (Part 4)",
+          "url": "/wiki/sources/339-ireland-the-easter-rising-1916-part-4-glt7095481415/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/constancemarkievicz/"
+    },
     "ConstantineTheGreat": {
       "episode_count": 1,
       "show_count": 1,
@@ -36195,6 +36211,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/concepts/culturalgapstatussignaling/"
+    },
+    "CulturalNationalismInstitutionBuilding": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7095481415 [GLT7095481415].md",
+          "key": "339-ireland-the-easter-rising-1916-part-4-glt7095481415",
+          "show": "The Rest Is History",
+          "title": "339: Ireland: The Easter Rising, 1916 (Part 4)",
+          "url": "/wiki/sources/339-ireland-the-easter-rising-1916-part-4-glt7095481415/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/culturalnationalisminstitutionbuilding/"
     },
     "CulturalParticipationEvent": {
       "episode_count": 1,
@@ -45602,6 +45634,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/eastgermany/"
     },
+    "EasterRising": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7095481415 [GLT7095481415].md",
+          "key": "339-ireland-the-easter-rising-1916-part-4-glt7095481415",
+          "show": "The Rest Is History",
+          "title": "339: Ireland: The Easter Rising, 1916 (Part 4)",
+          "url": "/wiki/sources/339-ireland-the-easter-rising-1916-part-4-glt7095481415/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/easterrising/"
+    },
     "EccentricSprintCapacity": {
       "episode_count": 1,
       "show_count": 1,
@@ -51313,6 +51361,22 @@
       ],
       "updated": "2026-08-24",
       "url": "/wiki/concepts/environmentaltradeoffaccounting/"
+    },
+    "EoinMacNeill": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7095481415 [GLT7095481415].md",
+          "key": "339-ireland-the-easter-rising-1916-part-4-glt7095481415",
+          "show": "The Rest Is History",
+          "title": "339: Ireland: The Easter Rising, 1916 (Part 4)",
+          "url": "/wiki/sources/339-ireland-the-easter-rising-1916-part-4-glt7095481415/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/eoinmacneill/"
     },
     "EpicHeroHumanLimits": {
       "episode_count": 2,
@@ -63698,6 +63762,22 @@
       ],
       "updated": "2026-09-17",
       "url": "/wiki/concepts/generalmodelrobotboundary/"
+    },
+    "GeneralPostOfficeDublin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7095481415 [GLT7095481415].md",
+          "key": "339-ireland-the-easter-rising-1916-part-4-glt7095481415",
+          "show": "The Rest Is History",
+          "title": "339: Ireland: The Easter Rising, 1916 (Part 4)",
+          "url": "/wiki/sources/339-ireland-the-easter-rising-1916-part-4-glt7095481415/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/generalpostofficedublin/"
     },
     "GenerationalEconomicTiming": {
       "episode_count": 1,
@@ -82716,6 +82796,114 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/iraqwar/"
     },
+    "Ireland": {
+      "episode_count": 5,
+      "show_count": 2,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "GLT9519811642 [GLT9519811642].md",
+          "key": "699-the-troubles-return-of-the-ira-part-3-glt9519811642",
+          "show": "The Rest Is History",
+          "title": "699. The Troubles: Return of the IRA (Part 3)",
+          "url": "/wiki/sources/699-the-troubles-return-of-the-ira-part-3-glt9519811642/"
+        },
+        {
+          "episode_file": "GLT1627515087 [GLT1627515087].md",
+          "key": "694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087",
+          "show": "The Rest Is History",
+          "title": "694. Elizabeth I vs The Catholics: A Treacherous Conspiracy (Part 4)",
+          "url": "/wiki/sources/694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087/"
+        },
+        {
+          "episode_file": "vol.123.特朗普的“对等”关税案：不止是一场大型服从性测试 [lm6BKIqGYYEFwOMpXON7lo6cnqp6].md",
+          "key": "vol-123-telangpu-de-duideng-guanshui-an-buzhi-shi-yi-chang-daxing-fucongxing-ceshi-lm6bkiqgyyefwompxon7lo6cnqp6",
+          "show": "起朱楼宴宾客",
+          "title": "vol.123.特朗普的“对等”关税案：不止是一场大型服从性测试",
+          "url": "/wiki/sources/vol-123-telangpu-de-duideng-guanshui-an-buzhi-shi-yi-chang-daxing-fucongxing-ceshi-lm6bkiqgyyefwompxon7lo6cnqp6/"
+        },
+        {
+          "episode_file": "GLT2308408988 [GLT2308408988].md",
+          "key": "698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988",
+          "show": "The Rest Is History",
+          "title": "698. The Troubles: The Brink of Civil War (Part 2)",
+          "url": "/wiki/sources/698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988/"
+        },
+        {
+          "episode_file": "GLT7095481415 [GLT7095481415].md",
+          "key": "339-ireland-the-easter-rising-1916-part-4-glt7095481415",
+          "show": "The Rest Is History",
+          "title": "339: Ireland: The Easter Rising, 1916 (Part 4)",
+          "url": "/wiki/sources/339-ireland-the-easter-rising-1916-part-4-glt7095481415/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/ireland/"
+    },
+    "IrishCitizenArmy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7095481415 [GLT7095481415].md",
+          "key": "339-ireland-the-easter-rising-1916-part-4-glt7095481415",
+          "show": "The Rest Is History",
+          "title": "339: Ireland: The Easter Rising, 1916 (Part 4)",
+          "url": "/wiki/sources/339-ireland-the-easter-rising-1916-part-4-glt7095481415/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/irishcitizenarmy/"
+    },
+    "IrishHomeRule": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7095481415 [GLT7095481415].md",
+          "key": "339-ireland-the-easter-rising-1916-part-4-glt7095481415",
+          "show": "The Rest Is History",
+          "title": "339: Ireland: The Easter Rising, 1916 (Part 4)",
+          "url": "/wiki/sources/339-ireland-the-easter-rising-1916-part-4-glt7095481415/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/irishhomerule/"
+    },
+    "IrishRepublicanBrotherhood": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7095481415 [GLT7095481415].md",
+          "key": "339-ireland-the-easter-rising-1916-part-4-glt7095481415",
+          "show": "The Rest Is History",
+          "title": "339: Ireland: The Easter Rising, 1916 (Part 4)",
+          "url": "/wiki/sources/339-ireland-the-easter-rising-1916-part-4-glt7095481415/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/irishrepublicanbrotherhood/"
+    },
+    "IrishVolunteers": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7095481415 [GLT7095481415].md",
+          "key": "339-ireland-the-easter-rising-1916-part-4-glt7095481415",
+          "show": "The Rest Is History",
+          "title": "339: Ireland: The Easter Rising, 1916 (Part 4)",
+          "url": "/wiki/sources/339-ireland-the-easter-rising-1916-part-4-glt7095481415/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/irishvolunteers/"
+    },
     "IronDeficiencyAnemiaManagement": {
       "episode_count": 1,
       "show_count": 1,
@@ -83784,6 +83972,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/entities/jamescameron/"
+    },
+    "JamesConnolly": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7095481415 [GLT7095481415].md",
+          "key": "339-ireland-the-easter-rising-1916-part-4-glt7095481415",
+          "show": "The Rest Is History",
+          "title": "339: Ireland: The Easter Rising, 1916 (Part 4)",
+          "url": "/wiki/sources/339-ireland-the-easter-rising-1916-part-4-glt7095481415/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/jamesconnolly/"
     },
     "JamesCook": {
       "episode_count": 2,
@@ -121231,6 +121435,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/patriciaresnick/"
     },
+    "PatrickPearse": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7095481415 [GLT7095481415].md",
+          "key": "339-ireland-the-easter-rising-1916-part-4-glt7095481415",
+          "show": "The Rest Is History",
+          "title": "339: Ireland: The Easter Rising, 1916 (Part 4)",
+          "url": "/wiki/sources/339-ireland-the-easter-rising-1916-part-4-glt7095481415/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/patrickpearse/"
+    },
     "PatrioticPropheticRhetoric": {
       "episode_count": 1,
       "show_count": 1,
@@ -124794,9 +125014,9 @@
       "url": "/wiki/concepts/politicaldefeatculturalafterlife/"
     },
     "PoliticalExecutionMemoryContest": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2184509954 [GLT2184509954].md",
@@ -124804,9 +125024,16 @@
           "show": "The Rest Is History",
           "title": "547. The French Revolution: The Execution of the King (Part 4)",
           "url": "/wiki/sources/547-the-french-revolution-the-execution-of-the-king-part-4-glt2184509954/"
+        },
+        {
+          "episode_file": "GLT7095481415 [GLT7095481415].md",
+          "key": "339-ireland-the-easter-rising-1916-part-4-glt7095481415",
+          "show": "The Rest Is History",
+          "title": "339: Ireland: The Easter Rising, 1916 (Part 4)",
+          "url": "/wiki/sources/339-ireland-the-easter-rising-1916-part-4-glt7095481415/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/politicalexecutionmemorycontest/"
     },
     "PoliticalExecutionOverreach": {
@@ -133973,6 +134200,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/concepts/repeatedcontactdating/"
     },
+    "RepressionMartyrdomBackfire": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7095481415 [GLT7095481415].md",
+          "key": "339-ireland-the-easter-rising-1916-part-4-glt7095481415",
+          "show": "The Rest Is History",
+          "title": "339: Ireland: The Easter Rising, 1916 (Part 4)",
+          "url": "/wiki/sources/339-ireland-the-easter-rising-1916-part-4-glt7095481415/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/repressionmartyrdombackfire/"
+    },
     "ReproductiveAttritionStrategy": {
       "episode_count": 1,
       "show_count": 1,
@@ -135034,6 +135277,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/concepts/revolutionaryfactionaloutflanking/"
+    },
+    "RevolutionaryFailurePoliticalSuccess": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7095481415 [GLT7095481415].md",
+          "key": "339-ireland-the-easter-rising-1916-part-4-glt7095481415",
+          "show": "The Rest Is History",
+          "title": "339: Ireland: The Easter Rising, 1916 (Part 4)",
+          "url": "/wiki/sources/339-ireland-the-easter-rising-1916-part-4-glt7095481415/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/revolutionaryfailurepoliticalsuccess/"
     },
     "RevolutionaryHungerStreetMobilization": {
       "episode_count": 3,
@@ -136830,9 +137089,9 @@
       "url": "/wiki/entities/rodneyrobinson/"
     },
     "RogerCasement": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5482142786 [GLT5482142786].md",
@@ -136847,9 +137106,16 @@
           "show": "The Rest Is History",
           "title": "540. Horror in the Congo: A Conspiracy Unmasked (Part 3)",
           "url": "/wiki/sources/540-horror-in-the-congo-a-conspiracy-unmasked-part-3-glt5172130471/"
+        },
+        {
+          "episode_file": "GLT7095481415 [GLT7095481415].md",
+          "key": "339-ireland-the-easter-rising-1916-part-4-glt7095481415",
+          "show": "The Rest Is History",
+          "title": "339: Ireland: The Easter Rising, 1916 (Part 4)",
+          "url": "/wiki/sources/339-ireland-the-easter-rising-1916-part-4-glt7095481415/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/rogercasement/"
     },
     "RogerLordOfTheFlies": {
@@ -144820,6 +145086,29 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/concepts/singlestockleveragedetf/"
+    },
+    "SinnFein": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "GLT9519811642 [GLT9519811642].md",
+          "key": "699-the-troubles-return-of-the-ira-part-3-glt9519811642",
+          "show": "The Rest Is History",
+          "title": "699. The Troubles: Return of the IRA (Part 3)",
+          "url": "/wiki/sources/699-the-troubles-return-of-the-ira-part-3-glt9519811642/"
+        },
+        {
+          "episode_file": "GLT7095481415 [GLT7095481415].md",
+          "key": "339-ireland-the-easter-rising-1916-part-4-glt7095481415",
+          "show": "The Rest Is History",
+          "title": "339: Ireland: The Easter Rising, 1916 (Part 4)",
+          "url": "/wiki/sources/339-ireland-the-easter-rising-1916-part-4-glt7095481415/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/sinnfein/"
     },
     "SirWilliamHamilton": {
       "episode_count": 1,
@@ -158501,6 +158790,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/toleranceofdifference/"
+    },
+    "TomClarke": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7095481415 [GLT7095481415].md",
+          "key": "339-ireland-the-easter-rising-1916-part-4-glt7095481415",
+          "show": "The Rest Is History",
+          "title": "339: Ireland: The Easter Rising, 1916 (Part 4)",
+          "url": "/wiki/sources/339-ireland-the-easter-rising-1916-part-4-glt7095481415/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/tomclarke/"
     },
     "TomHanks": {
       "episode_count": 1,

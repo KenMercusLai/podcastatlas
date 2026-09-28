@@ -24471,3 +24471,11 @@ Added source `vol-53-xiaohuaneijingke-nadao-baogao-bie-pa-youmen-luoganjun-milan
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | 339: Ireland: The Easter Rising, 1916 (Part 4)
+
+Added source `339-ireland-the-easter-rising-1916-part-4-glt7095481415`; created `EasterRising`, `PatrickPearse`, `JamesConnolly`, `TomClarke`, `EoinMacNeill`, `ConstanceMarkievicz`, `IrishRepublicanBrotherhood`, `IrishCitizenArmy`, `IrishVolunteers`, `GeneralPostOfficeDublin`, `IrishHomeRule`, `CulturalNationalismInstitutionBuilding`, `RevolutionaryFailurePoliticalSuccess`, and `RepressionMartyrdomBackfire`; and updated `Ireland`, `RogerCasement`, `SinnFein`, `PoliticalExecutionMemoryContest`, and the canonical index from their complete bounded source sets. Core synthesis: the Rising joined republican conspiracy, labour conflict, cultural institution-building, prewar paramilitary normalization, wartime opportunity, and dissatisfaction with Home Rule; its military defeat became politically effective only through proclamation, British executions and internment, returning activists, commemoration, and Sinn Fein's mistaken inheritance of the rebellion. No settled contradiction was adopted. Crowd attitudes, casualty and mobilization figures, lost operational plans, leaders' motives, comparative repression, and counterfactuals remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

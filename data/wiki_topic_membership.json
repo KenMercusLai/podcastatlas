@@ -1521,6 +1521,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "339-ireland-the-easter-rising-1916-part-4-glt7095481415": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "340-hadrian-and-antinous-glt4184410900": [
     {
       "key": "history",
@@ -21763,6 +21770,13 @@
     }
   ],
   "CulturalGapStatusSignaling": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "CulturalNationalismInstitutionBuilding": [
     {
       "key": "culture",
       "label": "Culture",
@@ -56352,6 +56366,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "PatrickPearse": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "PatrickWu": [

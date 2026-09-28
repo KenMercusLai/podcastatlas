@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2126
+topic_total_pages: 2127
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4692,6 +4692,9 @@ topic_sources:
   - key: "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008"
     title: "318: Hundred Years' War: A Game of Thrones (Part 1)"
     url: "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+  - key: "339-ireland-the-easter-rising-1916-part-4-glt7095481415"
+    title: "339: Ireland: The Easter Rising, 1916 (Part 4)"
+    url: "/wiki/sources/339-ireland-the-easter-rising-1916-part-4-glt7095481415/"
   - key: "340-hadrian-and-antinous-glt4184410900"
     title: "340: Hadrian and Antinous"
     url: "/wiki/sources/340-hadrian-and-antinous-glt4184410900/"
