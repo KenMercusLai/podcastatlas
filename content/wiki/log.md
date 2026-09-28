@@ -24746,3 +24746,11 @@ Added source `326-the-year-of-revolutions-1848-glt9746323554`; created `Christop
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | Amazon wants Alexa to finish your to-do list, not just research it
+
+Added source `tech-20260928-0928-mp-tech-pod-128-tech-20260928-0928-mp-tech-pod-128`; created `AlexaPlus`, `DanielRausch`, `AmazonPrime`, `HouseholdAIAssistant`, and `PrimeMembershipFlywheel`; and updated `AgenticCommerce`, `PersonalLifeAgent`, and `AmbientVoiceAgentInterface` from their complete bounded source sets. Core synthesis: Alexa+ is presented as a household-and-commerce assistant whose differentiation comes from completing service tasks through installed hardware and ecosystem integrations, while its business case depends on indirect Prime acquisition, retention, and shopping effects. No settled contradiction was adopted. Product reliability, privacy, shared-household identity, permission handling, transaction recovery, cost, the “B” acquisition identity, and Amazon's reported 25% Prime sign-up and 40% basket-size lifts remain unverified or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

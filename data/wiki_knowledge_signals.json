@@ -6724,9 +6724,9 @@
       "url": "/wiki/concepts/agenticcharactersubjectivity/"
     },
     "AgenticCommerce": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 6,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "可以给你的 Agent 发一点零花钱了 ｜ S10E22 [9a652c19-ceb3-46c2-87b4-bca36e684311].md",
@@ -6776,9 +6776,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Anthropic IPO at Risk, Meta's Muse Pop, Token Prices Fall, Open Source Gains Share, Alignment Fails",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropic-ipo-at-risk-metas-muse-pop-token-prices-fall-open-source-g/"
+        },
+        {
+          "episode_file": "tech_20260928_0928_MP_TECH_pod_128 [tech_20260928_0928_MP_TECH_pod_128].md",
+          "key": "tech-20260928-0928-mp-tech-pod-128-tech-20260928-0928-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Amazon wants Alexa to finish your to-do list, not just research it",
+          "url": "/wiki/sources/tech-20260928-0928-mp-tech-pod-128-tech-20260928-0928-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/agenticcommerce/"
     },
     "AgenticDataEngineeringHarness": {
@@ -7605,6 +7612,22 @@
       ],
       "updated": "2026-09-19",
       "url": "/wiki/entities/alexturnereconomist/"
+    },
+    "AlexaPlus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260928_0928_MP_TECH_pod_128 [tech_20260928_0928_MP_TECH_pod_128].md",
+          "key": "tech-20260928-0928-mp-tech-pod-128-tech-20260928-0928-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Amazon wants Alexa to finish your to-do list, not just research it",
+          "url": "/wiki/sources/tech-20260928-0928-mp-tech-pod-128-tech-20260928-0928-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/alexaplus/"
     },
     "AlexanderHamilton": {
       "episode_count": 3,
@@ -8694,6 +8717,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/entities/amazonmgmstudios/"
     },
+    "AmazonPrime": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260928_0928_MP_TECH_pod_128 [tech_20260928_0928_MP_TECH_pod_128].md",
+          "key": "tech-20260928-0928-mp-tech-pod-128-tech-20260928-0928-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Amazon wants Alexa to finish your to-do list, not just research it",
+          "url": "/wiki/sources/tech-20260928-0928-mp-tech-pod-128-tech-20260928-0928-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/amazonprime/"
+    },
     "AmazonWebServices": {
       "episode_count": 6,
       "show_count": 2,
@@ -8746,9 +8785,9 @@
       "url": "/wiki/entities/amazonwebservices/"
     },
     "AmbientVoiceAgentInterface": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lhbvzA29_24SZQusT-nWtM0Z09_4 [lhbvzA29_24SZQusT-nWtM0Z09_4].md",
@@ -8763,9 +8802,16 @@
           "show": "枫言枫语",
           "title": "Vol. 175 GPT 6 Astra、Opus 5.5、Jev 诸模型混战",
           "url": "/wiki/sources/vol-175-gpt-6-astra-opus-5-5-jev-zhu-moxing-hunzhan-1-6700-1/"
+        },
+        {
+          "episode_file": "tech_20260928_0928_MP_TECH_pod_128 [tech_20260928_0928_MP_TECH_pod_128].md",
+          "key": "tech-20260928-0928-mp-tech-pod-128-tech-20260928-0928-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Amazon wants Alexa to finish your to-do list, not just research it",
+          "url": "/wiki/sources/tech-20260928-0928-mp-tech-pod-128-tech-20260928-0928-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/ambientvoiceagentinterface/"
     },
     "AmericanCulturalExports": {
@@ -38522,6 +38568,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/danieloconnell/"
+    },
+    "DanielRausch": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260928_0928_MP_TECH_pod_128 [tech_20260928_0928_MP_TECH_pod_128].md",
+          "key": "tech-20260928-0928-mp-tech-pod-128-tech-20260928-0928-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Amazon wants Alexa to finish your to-do list, not just research it",
+          "url": "/wiki/sources/tech-20260928-0928-mp-tech-pod-128-tech-20260928-0928-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/danielrausch/"
     },
     "DaniloIllich": {
       "episode_count": 1,
@@ -78026,6 +78088,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/houseselectcommitteeonassassinations/"
+    },
+    "HouseholdAIAssistant": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260928_0928_MP_TECH_pod_128 [tech_20260928_0928_MP_TECH_pod_128].md",
+          "key": "tech-20260928-0928-mp-tech-pod-128-tech-20260928-0928-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Amazon wants Alexa to finish your to-do list, not just research it",
+          "url": "/wiki/sources/tech-20260928-0928-mp-tech-pod-128-tech-20260928-0928-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/householdaiassistant/"
     },
     "HouseholdFinancialRedundancy": {
       "episode_count": 1,
@@ -127274,9 +127352,9 @@
       "url": "/wiki/concepts/personalguardattacksurface/"
     },
     "PersonalLifeAgent": {
-      "episode_count": 3,
-      "show_count": 1,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "273.逛完外滩大会，发现蚂蚁找到了新位置 [loTxOgfoqqWcJigxIHTIxvNCbfc3].md",
@@ -127298,9 +127376,16 @@
           "show": "乱翻书",
           "title": "277.从提醒你，到替你办：Today想把Personal AI带到哪一步？",
           "url": "/wiki/sources/277-cong-tixing-ni-dao-ti-ni-ban-today-xiang-ba-personal-ai-dai-dao-na-yibu-lub_xekqnxjr6psdo-utmiuig6m6/"
+        },
+        {
+          "episode_file": "tech_20260928_0928_MP_TECH_pod_128 [tech_20260928_0928_MP_TECH_pod_128].md",
+          "key": "tech-20260928-0928-mp-tech-pod-128-tech-20260928-0928-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Amazon wants Alexa to finish your to-do list, not just research it",
+          "url": "/wiki/sources/tech-20260928-0928-mp-tech-pod-128-tech-20260928-0928-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/personallifeagent/"
     },
     "PersonalMemoryIdentityResolution": {
@@ -131929,6 +132014,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/concepts/primaryextremismpressure/"
+    },
+    "PrimeMembershipFlywheel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260928_0928_MP_TECH_pod_128 [tech_20260928_0928_MP_TECH_pod_128].md",
+          "key": "tech-20260928-0928-mp-tech-pod-128-tech-20260928-0928-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Amazon wants Alexa to finish your to-do list, not just research it",
+          "url": "/wiki/sources/tech-20260928-0928-mp-tech-pod-128-tech-20260928-0928-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/primemembershipflywheel/"
     },
     "PrinceHallFreemasonry": {
       "episode_count": 1,

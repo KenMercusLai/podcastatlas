@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Amazon wants Alexa to finish your to-do list, not just research it](sources/tech-20260928-0928-mp-tech-pod-128-tech-20260928-0928-mp-tech-pod-128.md) — Marketplace Tech interview with Daniel Rausch on Alexa+ task completion, Prime economics, household hardware, agentic shopping, and expansion into wearable ambient assistance.
 - [新一代投资者似乎不爱买股票了：逐渐被ETF主导的市场和未来](sources/xin-yidai-touzizhe-sihu-bu-ai-mai-gupiao-le-zhujian-bei-etf-zhudao-de-shichang-he-weilai-lk1lxwniotregvs9euhepkm9nruo.md) — 面基 episode on ETF adoption, consensus feedback, price discovery, cross-market capital flows, and holding-horizon discipline.
 - [327: Coronations: The Deep History (Part 1)](sources/327-coronations-the-deep-history-part-1-glt4746607803.md) — The Rest Is History episode on the Anglo-Saxon, Roman, Carolingian, biblical, material, and territorial roots of British coronation.
 - [328: Coronations: Sex, Holy Oil and Civil War (Part 2)](sources/328-coronations-sex-holy-oil-and-civil-war-part-2-glt8165021855.md) — The Rest Is History episode on coronation as adaptable sacred and political technology across conquest, usurpation, Reformation, civil war, Protectorate, and the Glorious Revolution.
@@ -3130,6 +3131,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [326: The Year of Revolutions: 1848](sources/326-the-year-of-revolutions-1848-glt9746323554.md) — The Rest Is History conversation with Christopher Clark on 1848 as a plural European crisis whose defeats reshaped constitutions, nationalism, conservatism, Catholicism, and state power.
 
 ## Entities
+- [Alexa+](entities/AlexaPlus.md) — Amazon generative AI assistant designed to complete household, service, and commerce tasks across voice and text interfaces.
+- [Daniel Rausch](entities/DanielRausch.md) — Amazon executive presenting Alexa+'s task-completion, smart-home, and Prime strategy.
+- [Amazon Prime](entities/AmazonPrime.md) — Amazon membership bundle through which Alexa+ is offered and evaluated as an ecosystem benefit.
 - [The Histories](entities/TheHistories.md) — Herodotus's inquiry-driven, digressive account of Greeks, Persians, custom, conflict, and empire.
 - [何昭凯 / He Zhaokai](entities/HeZhaokaiNurse.md) — Intensive-care nurse explaining hospice, dynamic communication, symptom relief, and whole-person support.
 - [北京协和医院 / Peking Union Medical College Hospital](entities/PekingUnionMedicalCollegeHospital.md) — Hospital affiliation represented through gastroenterology, intensive-care nursing, and source-described hospice coordination.
@@ -14433,6 +14437,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Frankfurt Parliament](entities/FrankfurtParliament.md) — German national assembly whose representative ambition lacked independent military and administrative capacity.
 
 ## Concepts
+- [Household AI Assistant](concepts/HouseholdAIAssistant.md) — Ambient shared-home assistant integrating purpose-built devices, domestic context, service access, and task execution.
+- [Prime Membership Flywheel](concepts/PrimeMembershipFlywheel.md) — Amazon mechanism linking bundled assistant utility to Prime acquisition, retention, usage, and commerce.
 - [ETF Consensus Feedback / ETF 共识反馈](concepts/ETFConsensusFeedback.md) — Feedback loop joining index rules, theme labels, distribution, flows, benchmark inclusion, liquidity, and attention.
 - [Incremental Capital Market Engine / 增量资金引擎](concepts/IncrementalCapitalMarketEngine.md) — Recurring equity-demand mechanism combining ETF inflows, corporate buybacks, and dividend reinvestment.
 - [ETF Holding-Horizon Classification / ETF 持有期限分类](concepts/ETFHoldingHorizonClassification.md) — Classification of ETF exposure by underlying economics, cyclicality, product mechanics, and intended holding process.

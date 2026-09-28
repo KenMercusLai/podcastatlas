@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 8674
+wiki_total_pages: 8676
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -665,6 +665,9 @@ wiki_pages:
   - key: "HotelStarRatingErosion"
     title: "Hotel Star-Rating Erosion"
     url: "/wiki/concepts/hotelstarratingerosion/"
+  - key: "HouseholdAIAssistant"
+    title: "Household AI Assistant"
+    url: "/wiki/concepts/householdaiassistant/"
   - key: "HouseholdOccupationControl"
     title: "Household and Occupation Control / 户籍与职业管控"
     url: "/wiki/concepts/householdoccupationcontrol/"

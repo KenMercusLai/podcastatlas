@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 11278
+wiki_total_pages: 11281
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -587,6 +587,9 @@ wiki_pages:
   - key: "AlexZhu"
     title: "Alex Zhu"
     url: "/wiki/entities/alexzhu/"
+  - key: "AlexaPlus"
+    title: "Alexa+"
+    url: "/wiki/entities/alexaplus/"
   - key: "AlexanderFarnese"
     title: "Alexander Farnese / Duke of Parma"
     url: "/wiki/entities/alexanderfarnese/"
@@ -842,6 +845,9 @@ wiki_pages:
   - key: "AmazonMGMStudios"
     title: "Amazon MGM Studios"
     url: "/wiki/entities/amazonmgmstudios/"
+  - key: "AmazonPrime"
+    title: "Amazon Prime"
+    url: "/wiki/entities/amazonprime/"
   - key: "AmazonWebServices"
     title: "Amazon Web Services"
     url: "/wiki/entities/amazonwebservices/"

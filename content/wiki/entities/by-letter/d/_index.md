@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 11278
+wiki_total_pages: 11281
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -155,6 +155,9 @@ wiki_pages:
   - key: "DanielOConnell"
     title: "Daniel O'Connell"
     url: "/wiki/entities/danieloconnell/"
+  - key: "DanielRausch"
+    title: "Daniel Rausch"
+    url: "/wiki/entities/danielrausch/"
   - key: "DanielWilliamsACLU"
     title: "Daniel Williams / ACLU New Mexico"
     url: "/wiki/entities/danielwilliamsaclu/"

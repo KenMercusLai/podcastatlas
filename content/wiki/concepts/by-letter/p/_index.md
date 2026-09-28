@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8674
+wiki_total_pages: 8676
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1553,6 +1553,9 @@ wiki_pages:
   - key: "PrimeBorrowerCreditRisk"
     title: "Prime Borrower Credit Risk"
     url: "/wiki/concepts/primeborrowercreditrisk/"
+  - key: "PrimeMembershipFlywheel"
+    title: "Prime Membership Flywheel"
+    url: "/wiki/concepts/primemembershipflywheel/"
   - key: "PrimingAndStereotypeMemory"
     title: "Priming And Stereotype Memory / 启动效应与刻板印象记忆"
     url: "/wiki/concepts/primingandstereotypememory/"
