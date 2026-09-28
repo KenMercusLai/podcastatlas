@@ -141470,9 +141470,9 @@
       "url": "/wiki/concepts/shangshutaiimperialaccess/"
     },
     "ShangyeJiushiZheyang": {
-      "episode_count": 20,
+      "episode_count": 21,
       "show_count": 1,
-      "source_note_count": 20,
+      "source_note_count": 21,
       "sources": [
         {
           "episode_file": "商业小样47 ｜ “健身做题家”的新欢HYROX，到底有什么护城河？ [1008179335].md",
@@ -141613,9 +141613,16 @@
           "show": "商业就是这样",
           "title": "商业小样49 | 为什么律师按小时收费？",
           "url": "/wiki/sources/shangye-xiaoyang-49-weishenme-lvshi-an-xiaoshi-shoufei-1014489821/"
+        },
+        {
+          "episode_file": "假期通知兼谈本台为什么要做视频播客 [1018741567].md",
+          "key": "jiaqi-tongzhi-jian-tan-bentai-weishenme-yao-zuo-shipin-boke-1018741567",
+          "show": "商业就是这样",
+          "title": "假期通知兼谈本台为什么要做视频播客",
+          "url": "/wiki/sources/jiaqi-tongzhi-jian-tan-bentai-weishenme-yao-zuo-shipin-boke-1018741567/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/shangyejiushizheyang/"
     },
     "ShannaSwan": {
@@ -162391,9 +162398,9 @@
       "url": "/wiki/entities/victorklemperer/"
     },
     "VideoPodcastAffordance": {
-      "episode_count": 3,
-      "show_count": 3,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "TSR-S5-CatchUp2-v1 [TSR-S5-CatchUp2-v1].md",
@@ -162415,9 +162422,16 @@
           "show": "读报teleread",
           "title": "总第070期｜五周年台庆特辑：大主播 vs 小播客【下】AI 到底有啥好用的",
           "url": "/wiki/sources/zong-di-070-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-xia-ai-daodi-you-sha-haoyong-de-cmswlihjk12g601zlfjov42ht/"
+        },
+        {
+          "episode_file": "假期通知兼谈本台为什么要做视频播客 [1018741567].md",
+          "key": "jiaqi-tongzhi-jian-tan-bentai-weishenme-yao-zuo-shipin-boke-1018741567",
+          "show": "商业就是这样",
+          "title": "假期通知兼谈本台为什么要做视频播客",
+          "url": "/wiki/sources/jiaqi-tongzhi-jian-tan-bentai-weishenme-yao-zuo-shipin-boke-1018741567/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/videopodcastaffordance/"
     },
     "Vienna": {

@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2878
+topic_total_pages: 2879
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -8577,6 +8577,9 @@ topic_sources:
   - key: "jiaqi-moyu-geng-jiankang-574391976"
     title: "假期摸鱼更健康"
     url: "/wiki/sources/jiaqi-moyu-geng-jiankang-574391976/"
+  - key: "jiaqi-tongzhi-jian-tan-bentai-weishenme-yao-zuo-shipin-boke-1018741567"
+    title: "假期通知兼谈本台为什么要做视频播客"
+    url: "/wiki/sources/jiaqi-tongzhi-jian-tan-bentai-weishenme-yao-zuo-shipin-boke-1018741567/"
   - key: "bayue-guangbo-dianshibao-zenme-suoyouren-de-qingtongshidai-dou-zai-bengkui-gkwrijioazzebf7pfatp6hhf"
     title: "八月广播电视报：怎么所有人的青铜时代都在崩溃"
     url: "/wiki/sources/bayue-guangbo-dianshibao-zenme-suoyouren-de-qingtongshidai-dou-zai-bengkui-gkwrijioazzebf7pfatp6hhf/"

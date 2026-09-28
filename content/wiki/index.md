@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [假期通知兼谈本台为什么要做视频播客](sources/jiaqi-tongzhi-jian-tan-bentai-weishenme-yao-zuo-shipin-boke-1018741567.md) — 商业就是这样 announcement on holiday scheduling and a content-first video-podcast strategy built around editorial control, audio parity, expert access, and multi-platform distribution.
 - [VOL.55口腔科｜正畸、正颌、种植牙齿的这几个常见误区和疑问 公立医院主任给你一一讲清楚](sources/vol-55-kouqiangke-zhengji-zhenghe-zhongzhi-yachi-de-zhe-jige-changjian-wuqu-he-yiwen-gongli-yiyuan-zhuren-gei-ni-yi-yi-jiang-qingchu-lsupjdtklqeinpgfcsnd8zlale5t.md) — 这病说来话长 Q&A on orthodontic and orthognathic assessment, implant suitability and maintenance, oral-care tools, symptoms, and lifecycle prevention.
 - [346: The Mystery of the Holy Grail (Part 2)](sources/346-the-mystery-of-the-holy-grail-part-2-glt9518077570.md) — The Rest Is History episode on the Grail's medieval textual formation, Eucharistic theology, sacred knighthood, and the chronological weaknesses of pagan and universal-origin theories.
 - [VOL.56大学毕业季｜摘眼镜、戴牙套、除皱、战痘、减肥 5学科联袂为你出招](sources/vol-56-daxue-biyeji-zhai-yanjing-dai-yatao-chuzhou-zhandou-jianfei-5-xueke-lianmei-wei-ni-chuzhao-lkmkuyymlfqxiyoes-n5nflvljry.md) — 这病说来话长 multidisciplinary guide to refractive surgery, orthodontic continuity, medical-aesthetic selection, acne care, and sustainable weight loss.
@@ -13421,7 +13422,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dairy Queen](entities/DairyQueen.md) — Mid-price ice-cream chain used as the steadier small-store comparison to Haagen-Dazs and Yeren Xiansheng.
 - [Mixue Bingcheng](entities/MixueBingcheng.md) — Tea-drink chain used for ice-cream, coffee-category convergence, supply-chain globalization, and a source-scoped Starbucks rumor context.
 - [General Mills](entities/GeneralMills.md) — Food company mentioned as the Haagen-Dazs parent-company context in the ice-cream episode.
-- [商业就是这样](entities/ShangyeJiushiZheyang.md) — Podcast/show context for grounded business explainers across city commerce, food, sports, AI infrastructure, aviation history, ETFs, and refillable beauty packaging.
+- [商业就是这样](entities/ShangyeJiushiZheyang.md) — Podcast/show context for grounded business explainers and a content-first expansion from research-led audio into expert video conversations.
 - [Grundfos / 格兰富](entities/Grundfos.md) — Pump, water, and cooling-infrastructure company case used to explain AI data-center thermal management.
 - [河南智能超算中心 / Henan Smart Supercomputing Center](entities/HenanSmartSupercomputingCenter.md) — Supercomputing-center case for prefabricated, container-style integrated cooling deployment.
 - [Polymarket](entities/Polymarket.md) — Prediction-market platform used for price-as-probability thinking, ethics and integrity cases, investor-infrastructure claims, settlement-power critique, and news-as-position attention.
@@ -21788,7 +21789,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Media Form Constraint](concepts/MediaFormConstraint.md) — Pressure from duration, conclusions, information gain, public utility, and platform expectations that shapes what content can say.
 - [Non-Instrumental Understanding](concepts/NonInstrumentalUnderstanding.md) — Treating a topic as worth understanding even when it does not immediately produce advice, prediction, or decision utility.
 - [Non-Instrumental Literary Reading](concepts/NonInstrumentalLiteraryReading.md) — Reading fiction and classics as experience, emotional repair, possible-life exploration, and moral inquiry rather than only extractable utility.
-- [Video Podcast Affordance](concepts/VideoPodcastAffordance.md) — Video-podcast capacity to carry gestures, bodies, images, objects, and spatial context that audio-only formats may lose.
+- [Video Podcast Affordance](concepts/VideoPodcastAffordance.md) — Video-podcast capacity to add visual understanding, editorial freedom, expert access, and distribution while preserving a coherent audio experience.
 - [Business-Model Organization Fit](concepts/BusinessModelOrganizationFit.md) — Principle that organization mechanisms should follow business chain length, cycle, gross margin, and competition pattern rather than copy big-company rituals.
 - [Recruiting Supply Strategy](concepts/RecruitingSupplyStrategy.md) — Founder-level hiring method focused on clarifying role demand, mapping talent supply, and reaching strong candidates before interviews.
 - [Reference-Check Hiring](concepts/ReferenceCheckHiring.md) — Hiring judgment method that weights evidence from credible former managers and collaborators because interviews are noisy and easy to game.

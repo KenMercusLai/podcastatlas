@@ -23,7 +23,8 @@ sources:
   - vol-264-ba-shijiebei-zuowei-fangfa-999416048
   - chengshi-jiushi-zheyang-21-shiyan-yizuo-yin-qiche-erqi-you-bugan-bei-qiche-paoxia-de-chengshi-1001770066
   - shangye-xiaoyang-49-weishenme-lvshi-an-xiaoshi-shoufei-1014489821
-last_updated: 2026-09-14
+  - jiaqi-tongzhi-jian-tan-bentai-weishenme-yao-zuo-shipin-boke-1018741567
+last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
 
@@ -33,7 +34,7 @@ knowledge_schema: synthesis-v1
 商业就是这样 is a Chinese business podcast that turns ordinary commercial mechanisms, company histories, city observations, consumer products, sports economics, finance, infrastructure, and service pricing into grounded explainers.
 
 ## Current Profile
-The show's recurring method is to use one visible object or event as an entry point into a wider system: HYROX into event moats, Adidas into operating repair, L'Oreal refills into packaging adoption, 大食代 into food-court economics, air-ticket add-ons into regulated fee design, ETFs into market plumbing, and billable hours into professional-services pricing. The corpus shows the program favoring mechanism over hype. It often separates what looks like a simple consumer-facing price, brand, queue, rule, or fee from the supply chain, governance, contract, infrastructure, and incentive system underneath.
+The show's recurring method is to use one visible object or event as an entry point into a wider system: HYROX into event moats, Adidas into operating repair, L'Oreal refills into packaging adoption, 大食代 into food-court economics, air-ticket add-ons into regulated fee design, ETFs into market plumbing, and billable hours into professional-services pricing. The corpus shows the program favoring mechanism over hype and, with its video-podcast statement, defining interviews by the same standard: firsthand practitioners should help clarify concrete matters that host-only research cannot reach as directly. Video is an added expression and distribution layer, but the audio version must remain complete and content control should stay with interviewer and guest.
 
 ## Key Characteristics
 - Uses compact business cases to expose hidden mechanisms behind familiar products, prices, fees, and formats.
@@ -41,6 +42,7 @@ The show's recurring method is to use one visible object or event as an entry po
 - Moves comfortably across consumer brands, restaurants, sports, finance, aviation, city industry, agriculture, media, AI infrastructure, and professional services.
 - Often distinguishes defensible operating systems from copyable surface formats, such as HYROX rules, conveyor-belt sushi, food courts, or refill SKUs.
 - Connects AI to real business constraints rather than treating it as only software: cooling, data centers, media ownership, legal pricing, and service labor all become part of the AI-era commercial map.
+- Extends its research-led method through matter-first expert interviews while requiring video production to preserve audio quality and creator-led editorial control.
 - Keeps many figures and market claims source-scoped when the episode relies on podcast reporting, listener submissions, or cited but not fully documented industry data.
 
 ## Evidence
@@ -52,14 +54,15 @@ The show's recurring method is to use one visible object or event as an entry po
 - City, industrial, and strategic infrastructure: [[vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244]] uses listener submissions as a distributed map of local commerce; [[chengshi-jiushi-zheyang-21-shiyan-yizuo-yin-qiche-erqi-you-bugan-bei-qiche-paoxia-de-chengshi-1001770066]] reads Shiyan through auto-city path dependence; [[shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076]] makes data-center cooling visible as AI infrastructure.
 - Capital, ownership, and media power: [[vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591]] follows Oracle wealth into Skydance, Paramount, AI infrastructure, U.S. TikTok, political access, and media-independence risk; [[vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191]] shows the opposite end of sports investment where formal ownership fails to secure operational control.
 - Brand and turnaround diagnosis: [[vol-271-a-di-da-si-ruhe-chudi-fantan-1007333155]] shows how inventory, DTC retreat, dealer repair, retro products, China localization, and running-shoe R&D can create an operating repair without proving a full brand reversal.
+- Media-form and expert-access method: [[jiaqi-tongzhi-jian-tan-bentai-weishenme-yao-zuo-shipin-boke-1018741567]] treats video as a channel and interview-enabling format, keeps audio quality as a hard constraint, and defines the editorial aim as clarifying concrete matters with people who hold firsthand knowledge.
 
 ## Qualifications
-The show page synthesizes source notes rather than independently verifying every number. Several episodes rely on market data, regulatory formulas, listener submissions, corporate claims, survey references, or narrative inference that should remain source-scoped. Its business-explainer style is strong at mapping mechanisms but can leave industry comparisons underdeveloped when an episode is deliberately short, as in the billable-hour and airfare-fee entries.
+The show page synthesizes source notes rather than independently verifying every number. Several episodes rely on market data, regulatory formulas, listener submissions, corporate claims, survey references, or narrative inference that should remain source-scoped. Its business-explainer style is strong at mapping mechanisms but can leave industry comparisons underdeveloped when an episode is deliberately short. The video-podcast statement explains editorial intent but does not establish audience growth, production economics, or whether every future interview will satisfy its audio-parity standard.
 
 ## What Changed
-- Migrated the page to the synthesis-v1 entity schema.
-- Added 商业小样49 as the show's professional-services pricing and AI-labor-economics branch.
-- Compressed the prior source-by-source list into grouped evidence while preserving the complete source inventory.
+- Added the show's content-first rationale for video podcasting without recasting its existing audio research format as obsolete.
+- Added matter-first expert interviews as a way to reach practitioner knowledge beyond host-only secondary research.
+- Made creator-led editorial control and audio parity explicit constraints on the show's video expansion.
 
 ## Relationships
 - [[ProfessionalServicesBillableHour]] - new pricing mechanism branch added by 商业小样49.
@@ -69,3 +72,4 @@ The show page synthesizes source notes rather than independently verifying every
 - [[SportsEntertainmentFlywheel]] - sports-business lens spanning FIFA, World Cup rights, live-event costs, HYROX, and football-club investment.
 - [[AIComputeContinuity]] - AI infrastructure branch extended by data-center cooling and technology-media ownership episodes.
 - [[BusinessMoat]] - strategy frame repeatedly tested against copyable formats, operating systems, distribution, participation data, and brand trust.
+- [[VideoPodcastAffordance]] - video strategy governed by editorial control, audio parity, expert access, and channel expansion.

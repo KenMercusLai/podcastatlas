@@ -24379,3 +24379,15 @@ Added source `709-the-terror-the-execution-of-marie-antoinette-part-3-glt8774364
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | 假期通知兼谈本台为什么要做视频播客
+
+Added source `jiaqi-tongzhi-jian-tan-bentai-weishenme-yao-zuo-shipin-boke-1018741567`; updated `ShangyeJiushiZheyang`, `VideoPodcastAffordance`, and the canonical index from their complete bounded source sets. Core synthesis: video podcasting can broaden discovery and access to firsthand practitioners while remaining content-led when interviewer and guest retain editorial control, duration follows the subject, and every dual-format episode still works as high-quality audio. No settled contradiction was adopted. Claims about U.S. adoption, platform reach, interview oversupply, audience growth, and production economics remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
