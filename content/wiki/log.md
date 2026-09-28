@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-28] ingest | How to Learn Better & Create Your Best Future | Tim Ferriss
+
+Added source `how-to-learn-better-create-your-best-future-tim-ferriss-scim6518415604`; created `Cockpunch`, `EdgeCaseOpportunityDiscovery`, and `ExperimentalLifeDesign`; and updated `TimFerriss`, `SelfExperimentation`, `PsychedelicClinicalSupervisionBoundary`, and the canonical index from their complete bounded source sets. Core synthesis: Ferriss treats opportunity finding as pattern recognition across edge cases and awkward workarounds, treats anecdotes as hypothesis generators rather than proof, and turns life design into reversible experiments, protected attention, calendar commitments, identity diversification, and selective de-optimization. No settled contradiction was adopted. Diet, protein, fasting, cold-exposure, supplement, retreat, neurochemical, fundraising, and psychedelic-effect claims remain autobiographical or source-scoped; psychedelic discussion stays inside evidence, screening, supervision, contraindication, and integration boundaries. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-28] ingest | 346: The Mystery of the Holy Grail (Part 2)
 
 Added source `346-the-mystery-of-the-holy-grail-part-2-glt9518077570`; created `HolyGrail`, `ChretienDeTroyes`, `Perceval`, `Galahad`, `GrailTraditionFormation`, `GrailEucharisticTheology`, `ChivalricSacralization`, and `TextualChronologyOriginTesting`; and updated the canonical index. Core synthesis: the Grail is best reconstructed as a rapidly evolving medieval romance tradition whose later Passion relics, Eucharistic meanings, and holy-knight ideals should not be projected backward into Chrétien's ambiguous unfinished text. No settled contradiction was adopted. Chrétien's degree of invention, word etymology, textual dependence, institutional Church causality, Protestant reception, and the final status of Welsh, pagan, Iranian, bloodline, and archetypal theories remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -24419,6 +24423,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-28] ingest | VOL.54口腔科｜拒绝牙科恐惧症 先和公立医院主任聊聊洗牙、拔牙、牙周疾病的那些常识和误解
 
 Added source `vol-54-kouqiangke-jujue-yake-kongjuzheng-xian-he-gongli-yiyuan-zhuren-liaoliao-xiya-baya-yazhou-jibing-de-naxie-changshi-he-wujie-lmafztyky6md18ien9qaqdhw3t9k`; created `WisdomToothClinicalAssessment`, `PeriodontalDiseaseProgression`, and `DentalComfortCare`; and updated `WuBinOralDoctor`, `LifecycleOralHealthPrevention`, `DentalProsthesisMaintenance`, `PersistentOralLesionEscalation`, `PeriodontalSystemicHealthBoundary`, the canonical index, and overview from their complete bounded source sets. Core synthesis: wisdom-tooth retention or removal should follow anatomy, function, hygiene, disease, imaging, and recovery context; gingivitis should be separated from harder-to-reverse periodontal support loss; professional cleaning reveals rather than creates prior damage; and pain control plus anxiety-sensitive technique are parts of safe dental care. No settled contradiction was adopted. Cleaning intervals, extraction staging, sedation, oral-systemic associations, lesion timelines, periodontal regeneration, root-canal crowns, and restoration longevity remain source-scoped public education.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-28] lint | Wiki health check
 

@@ -6,8 +6,9 @@ sources:
   - essentials-psychedelics-neurostimulation-for-brain-rewiring-dr-nolan-williams-scim5296180263
   - essentials-understanding-healing-the-mind-dr-karl-deisseroth-scim2644851631
   - how-to-achieve-inner-peace-healing-dr-richard-schwartz-scim4912435693
+  - how-to-learn-better-create-your-best-future-tim-ferriss-scim6518415604
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-09
+last_updated: 2026-09-28
 ---
 
 # Psychedelic Clinical Supervision Boundary
@@ -24,14 +25,16 @@ A second safety rationale is mechanism and change risk. [[KarlDeisseroth]] calls
 
 The IFS-and-ketamine discussion supplies a psychotherapy-modality example without weakening the boundary. Psychedelics or ketamine may, in Schwartz's account, quiet manager parts and expose vulnerable material, while Huberman stresses legality, age, and appropriate guidance. Greater access to intense material increases the need for screening, support, and integration; it does not make unsupervised exposure safer.
 
+Ferriss adds lived experience and research-philanthropy infrastructure. He reports mood benefits after high-dose mushroom experiences but also a frightening unsafe experience that led him to stop, later re-engaging through scientists, supervised contexts, pilot funding, therapist training, policy, law, and journalism. His warning about youth, unsupervised use, and people with certain psychiatric or family histories reinforces the boundary without turning one person's response into clinical evidence.
+
 ## Key Claims
 - Psychedelics are potential psychiatric tools only when condition-specific evidence supports them.
 - Strong changes to cognition, memory, physiology, self-evaluation, or perceived reality make casual use a poor clinical analogy.
 - Evidence strength and risks differ across MDMA, psilocybin, ketamine, ibogaine, and ayahuasca.
 - Addiction, lasting undesirable change, cardiac effects, and destabilizing experience require compound-specific caution.
 - Cultural, religious, or hopeful narratives do not remove screening, supervision, follow-up, and mechanism uncertainty.
-- Small-dose or adjunctive use remains a research and clinical question, not a self-treatment recommendation.
 - A therapy model's account of altered-state access does not replace compound-specific evidence, screening, supervision, and follow-up.
+- Personal benefit reports and philanthropic commitment do not establish individual suitability or remove psychiatric contraindications.
 
 ## Evidence
 - Trial gate - [[essentials-psychedelics-neurostimulation-for-brain-rewiring-dr-nolan-williams-scim5296180263]] says these treatments should be used if rigorous trials show they work and not used if they fail.
@@ -40,12 +43,13 @@ The IFS-and-ketamine discussion supplies a psychotherapy-modality example withou
 - Opportunity-and-peril frame - [[essentials-understanding-healing-the-mind-dr-karl-deisseroth-scim2644851631]] supports rigorous exploration while naming addiction and lasting undesirable change.
 - Mechanism limit - [[essentials-understanding-healing-the-mind-dr-karl-deisseroth-scim2644851631]] says there is no deep understanding of why psychedelics might relieve depression.
 - Parts-work context - [[how-to-achieve-inner-peace-healing-dr-richard-schwartz-scim4912435693]] describes IFS combined with ketamine and proposes reduced manager control, while also preserving guidance and trauma-sensitivity cautions.
+- Lived-risk and infrastructure context - [[how-to-learn-better-create-your-best-future-tim-ferriss-scim6518415604]] pairs reported benefit and an unsafe experience with later support for supervised research, therapist training, and policy infrastructure.
 
 ## Counterevidence & Qualifications
-This concept is a safety boundary, not a claim that psychedelics are broadly approved, safe for all people, legal in all contexts, non-addictive, or superior to standard psychiatric care. It also does not provide dosing, eligibility, sourcing, ceremony, or self-treatment instructions.
+This concept is a safety boundary, not a claim that psychedelics are broadly approved, safe for all people, legal in all contexts, non-addictive, or superior to standard psychiatric care. Personal histories of depression, benefit, fear, or transformation cannot determine another person's eligibility. It also does not provide dosing, sourcing, ceremony, or self-treatment instructions; screening and contraindication decisions belong in qualified clinical and legal contexts.
 
 ## What Changed
-- Added the IFS-and-ketamine example while preserving screening, guidance, and trauma-sensitivity as the controlling judgment.
+- Added Ferriss's shift from unsafe personal experience to supervised research and infrastructure funding as evidence that benefit reports strengthen rather than relax the supervision boundary.
 
 ## Related Concepts
 - [[PsychiatricMedicationSupervisionBoundary]] - broader psychiatric treatment supervision rule updated by this episode.

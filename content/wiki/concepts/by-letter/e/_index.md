@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 8592
+wiki_total_pages: 8594
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -131,6 +131,9 @@ wiki_pages:
   - key: "ECTBipolarDepressionBoundary"
     title: "ECT Bipolar Depression Boundary"
     url: "/wiki/concepts/ectbipolardepressionboundary/"
+  - key: "EdgeCaseOpportunityDiscovery"
+    title: "Edge-Case Opportunity Discovery"
+    url: "/wiki/concepts/edgecaseopportunitydiscovery/"
   - key: "EdgeCloudAIBoundary"
     title: "Edge-Cloud AI Boundary"
     url: "/wiki/concepts/edgecloudaiboundary/"
@@ -1022,6 +1025,9 @@ wiki_pages:
   - key: "ExperimentalFailureAsKnowledge"
     title: "Experimental Failure As Knowledge"
     url: "/wiki/concepts/experimentalfailureasknowledge/"
+  - key: "ExperimentalLifeDesign"
+    title: "Experimental Life Design"
+    url: "/wiki/concepts/experimentallifedesign/"
   - key: "ExperimentalScienceDataQuality"
     title: "Experimental Science Data Quality"
     url: "/wiki/concepts/experimentalsciencedataquality/"

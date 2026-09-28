@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 11188
+wiki_total_pages: 11189
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -1133,6 +1133,9 @@ wiki_pages:
   - key: "CocaCola"
     title: "Coca-Cola"
     url: "/wiki/entities/cocacola/"
+  - key: "Cockpunch"
+    title: "Cockpunch"
+    url: "/wiki/entities/cockpunch/"
   - key: "CocoChanel"
     title: "Coco Chanel / 香奈儿女士"
     url: "/wiki/entities/cocochanel/"

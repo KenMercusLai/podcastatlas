@@ -2,41 +2,56 @@
 title: "Self-Experimentation"
 type: concept
 tags: [science, medicine, ethics, risk]
-sources: [97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059, 68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549, tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128, 26-niudun-yu-weibi-zhizaozhe-keneng-shi-sineipu-de-yuanxing-580065317, all-in-with-chamath-jason-sacks-friedberg-bryan-johnson-i-just-took-the-most-powerful-dose-of-dmt-in-the-world-heres-what-it-was-like-40626165]
-last_updated: 2026-08-21
+sources:
+  - 97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059
+  - 68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549
+  - tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128
+  - 26-niudun-yu-weibi-zhizaozhe-keneng-shi-sineipu-de-yuanxing-580065317
+  - all-in-with-chamath-jason-sacks-friedberg-bryan-johnson-i-just-took-the-most-powerful-dose-of-dmt-in-the-world-heres-what-it-was-like-40626165
+  - how-to-learn-better-create-your-best-future-tim-ferriss-scim6518415604
+last_updated: 2026-09-28
+knowledge_schema: synthesis-v1
 ---
 
 # Self-Experimentation
 
-Self-experimentation is the practice of using one's own body as the experimental subject. In [[68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549]], it includes [[StubbinsFfirth|Stubbins Ffirth]] exposing himself to yellow-fever fluids, a doctor injecting himself with mamba venom, [[AugustBier|August Bier]] and his assistant testing spinal anesthesia, and Robert Lopez placing cat ear mites in his own ear.
+## Definition
+Self-experimentation is the use of one's own body, perception, behavior, or routine as the subject of an intervention or observation, with evidentiary value determined by design, measurement, safety, and later verification rather than personal risk alone.
 
-The source treats self-experimentation as ethically different from sacrificing others, but not automatically reliable or noble. It can reduce imposed harm and show unusual commitment, yet it can also produce lucky false negatives, uncontrolled observations, pain, injury, credit disputes, and overconfident interpretation. It therefore depends on [[ExperimentalScienceEthics]], [[ObservationBeforeInference]], and [[ScientificSelfCorrection]].
+## Current Synthesis
+The bounded sources span heroic, disciplined, dangerous, and consumerized forms. Historical experimenters exposed themselves to infectious material, venom, spinal anesthesia, allergens, sunlight, and pressure on the eye. These cases can reduce the ethical problem of imposing risk on others and generate useful observations, but lucky negatives, uncontrolled conditions, injury, and overconfident inference remain common. Blackley's comparisons across pollen types, bodily sites, and measured airborne pollen show the stronger form: self-observation gains value when exposure, comparison, and environmental measurement are joined.
 
-[[97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059]] adds a hay-fever version through [[CharlesHarrisonBlackley]]. Blackley used his own allergic body as an instrument, applying many pollens to nasal, oral, eye, skin, wound, and inhalation contexts before comparing reactions with measured airborne pollen. The case is less sensational than venom or anesthesia, but it shows how bodily risk can become useful only when paired with controlled comparison.
-
-[[tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128]] adds a contemporary consumer version through [[GrayMarketPeptides]]. Here self-experimentation is not a disciplined scientific setup but a biohacking practice shaped by cheaper [[GLP1Agonists]], research-chemical labeling, uncertain contents, and [[TechCultureBiohacking]] pressure to optimize the body.
-
-[[all-in-with-chamath-jason-sacks-friedberg-bryan-johnson-i-just-took-the-most-powerful-dose-of-dmt-in-the-world-heres-what-it-was-like-40626165]] adds a high-instrumentation longevity version through [[BryanJohnson]]. His [[5MeODMT|5-MeO-DMT]] and prior [[PsilocybinMushrooms|psilocybin]] experiments use dose reporting, imaging, [[KernelCompany|Kernel]] measurement, and professional supervision, but the episode still shows why instrumentation does not automatically convert a single-body intervention into durable evidence before results, controls, and follow-up are available.
-
-[[26-niudun-yu-weibi-zhizaozhe-keneng-shi-sineipu-de-yuanxing-580065317]] adds an early optical-science version through [[IsaacNewton|Isaac Newton / 牛顿]]. The source's examples of staring at the sun and physically pressing around the eye show self-experimentation as disciplined curiosity pushed toward injury, where direct perception becomes evidence only if later connected to controlled observation and public science.
+Contemporary cases sharpen the difference between instrumentation and proof. Gray-market peptide users may not know compound identity, purity, dose, interactions, or human evidence. [[BryanJohnson]] adds professional supervision and extensive measurement around psychedelic experiments, but one measured body still cannot establish general effects or durability. [[TimFerriss]] adds a practical risk-calibration layer: keep records, learn to read studies, favor strong upside with bounded downside, make tests reversible when possible, and treat adverse outcomes as reasons to stop rather than rationalize.
 
 ## Key Claims
-- Taking risk oneself is ethically cleaner than assigning that risk to others, but it does not guarantee sound inference.
-- Medical self-experimentation can generate vivid clinical observation when ordinary trials are unavailable.
-- Single-body evidence is vulnerable to luck, uncontrolled exposure, and overgeneralization.
-- Recognition and authorship still matter when assistants or collaborators share bodily risk.
-- Self-experimentation can function as disciplined exposure testing when the subject compares triggers, doses, bodily sites, and environmental measurements instead of relying on one dramatic reaction.
-- Self-experimentation becomes much weaker as evidence when users do not know the compound contents, dosing reliability, interactions, or human clinical history.
-- Bodily risk can support discovery, but pain, injury, and private observation still need [[ScientificRevolutionSocialInfrastructure|social infrastructure]] before they become durable knowledge.
-- The All-In source adds that supervision and measurement can improve a self-experiment's evidentiary discipline, but cannot remove single-subject, durability, and identity-disruption risks.
+- Accepting risk oneself is ethically distinct from assigning it to others, but does not make the inference sound.
+- Controls, comparison, records, and public verification matter more than the drama of exposure.
+- Lucky false negatives and vivid subjective effects can produce confident but wrong conclusions.
+- Unknown sourcing, purity, dose, and interactions make consumer biohacking especially weak and risky evidence.
+- Supervision and instrumentation improve discipline but do not turn a single subject into a clinical trial.
+- Reversibility, bounded downside, adherence, and predefined stopping rules improve practical risk calibration.
+- Adverse outcomes and failed replications are knowledge only when they are recorded and allowed to change the claim.
 
-## Connections
-- [[StubbinsFfirth|Stubbins Ffirth]] - yellow-fever self-exposure case.
-- [[AugustBier|August Bier]] - spinal-anesthesia case.
-- [[CharlesHarrisonBlackley]] - hay-fever self-experimentation case.
-- [[GrayMarketPeptides]], [[ResearchChemicalLoophole]], and [[TechCultureBiohacking]] - contemporary biohacking version added by Marketplace Tech.
-- [[ExperimentalScienceEthics]] - broader ethical frame.
-- [[ExperimentalFailureAsKnowledge]] - lucky or wrong results can still teach limits.
-- [[ScientificSelfCorrection]] and [[ObservationBeforeInference]] - method constraints.
-- [[IsaacNewton]] and [[ScientificRevolutionSocialInfrastructure]] - optical self-experimentation branch added by the Newton episode.
-- [[BryanJohnson]], [[5MeODMT|5-MeO-DMT]], [[PsychedelicLongevityHypothesis]], [[DefaultModeNetwork]], and [[PsychedelicIdentityDisruption]] - quantified longevity self-experiment branch added by All-In.
+## Evidence
+- Historical risk and false inference - [[68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549]] describes disease, venom, anesthesia, and ear-mite tests, including Ffirth's lucky negative yellow-fever inference.
+- Comparative embodied measurement - [[97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059]] describes Blackley's pollen exposures joined to airborne-pollen measurement.
+- Injury boundary - [[26-niudun-yu-weibi-zhizaozhe-keneng-shi-sineipu-de-yuanxing-580065317]] describes Newton's dangerous optical self-experiments.
+- Supply-chain uncertainty - [[tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128]] describes self-injected gray-market peptides with uncertain contents and sparse human evidence.
+- Instrumented single-subject limit - [[all-in-with-chamath-jason-sacks-friedberg-bryan-johnson-i-just-took-the-most-powerful-dose-of-dmt-in-the-world-heres-what-it-was-like-40626165]] combines supervision and measurement with unresolved durability, psychosis, and identity-disruption risk.
+- Records and stopping evidence - [[how-to-learn-better-create-your-best-future-tim-ferriss-scim6518415604]] describes long-term workout records, study-reading literacy, risk mitigation, and discontinuation after supplement and injection harms.
+
+## Counterevidence & Qualifications
+Self-experimentation can generate hypotheses, adherence knowledge, and observations unavailable through detached study, especially when the investigator is also the only person initially willing to accept the risk. It nevertheless cannot by itself establish population efficacy, rare harms, causal mechanism, or suitability for another person. Medical, psychiatric, injection, infectious, ocular, and unknown-compound experiments can create irreversible harm and require stronger safeguards than ordinary habit testing.
+
+## What Changed
+- Added reversibility, bounded downside, scientific literacy, and adverse-result stopping as practical design criteria.
+- Distinguished adherence-oriented personal testing from evidence sufficient for general medical claims.
+
+## Related Concepts
+- [[ExperimentalScienceEthics]] - evaluates consent, harm, subject selection, and scientific value.
+- [[ObservationBeforeInference]] - separates what happened from why it happened.
+- [[ScientificSelfCorrection]] - requires later evidence to revise even personally vivid conclusions.
+- [[ExperimentalFailureAsKnowledge]] - treats negative or harmful outcomes as informative when honestly retained.
+- [[MedicalRiskManagement]] - raises safeguards as interventions become less reversible or more clinically consequential.
+- [[TechCultureBiohacking]] - consumer and founder culture that can import product-testing norms into the body.
+- [[PsychedelicClinicalSupervisionBoundary]] - compound-specific boundary for altered-state self-experimentation.

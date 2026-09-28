@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2881
+topic_total_pages: 2880
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -5441,9 +5441,6 @@ topic_entities:
   - key: "TillyNorwood"
     title: "Tilly Norwood"
     url: "/wiki/entities/tillynorwood/"
-  - key: "TimFerriss"
-    title: "Tim Ferriss"
-    url: "/wiki/entities/timferriss/"
   - key: "TimUrban"
     title: "Tim Urban"
     url: "/wiki/entities/timurban/"

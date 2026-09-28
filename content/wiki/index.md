@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Learn Better & Create Your Best Future | Tim Ferriss](sources/how-to-learn-better-create-your-best-future-tim-ferriss-scim6518415604.md) — Huberman Lab interview on edge-case discovery, self-experimentation, life design, psychedelic-research safety, attention, and creative identity expansion.
 - [343: Oppenheimer: The Father of the Atom Bomb (Part 1)](sources/343-oppenheimer-the-father-of-the-atom-bomb-part-1-glt9202576882.md) — The Rest Is History episode on Oppenheimer's formation, communist-era associations, Los Alamos leadership, Trinity, and the tension between atomic secrecy and international control.
 - [344: Oppenheimer: The Witch Hunt (Part 2)](sources/344-oppenheimer-the-witch-hunt-part-2-glt1594914557.md) — The Rest Is History episode on Oppenheimer's post-bomb responsibility, hydrogen-bomb dissent, Cold War surveillance, clearance hearing, and martyr afterlife.
 - [假期通知兼谈本台为什么要做视频播客](sources/jiaqi-tongzhi-jian-tan-bentai-weishenme-yao-zuo-shipin-boke-1018741567.md) — 商业就是这样 announcement on holiday scheduling and a content-first video-podcast strategy built around editorial control, audio parity, expert access, and multi-platform distribution.
@@ -3086,6 +3087,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve Your Eye Health & Offset Vision Loss | Dr. Jeffrey Goldberg](sources/how-to-improve-your-eye-health-offset-vision-loss-dr-jeffrey-goldberg-scim5633963628.md) — Huberman Lab interview on visual development, prevention, optical correction, contact and dry-eye care, silent eye disease, treatment adherence, and emerging-intervention boundaries.
 
 ## Entities
+- [Cockpunch](entities/Cockpunch.md) — Tim Ferriss creative project combining emergent fiction, illustration, digital experiments, philanthropy, and public creative risk.
 - [Leslie Groves](entities/LeslieGroves.md) — Manhattan Project military director who selected and defended Oppenheimer despite known security concerns.
 - [Niels Bohr](entities/NielsBohr.md) — physicist who joined the Allied bomb effort and argued for international openness around atomic knowledge.
 - [Jean Tatlock](entities/JeanTatlock.md) — Oppenheimer's formative romantic and political relationship, later treated as a wartime security concern.
@@ -14064,7 +14066,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [ThreatLocker](entities/ThreatLocker.md) — Cybersecurity SaaS company built around zero trust controls, default-deny application control, and MSP-to-enterprise distribution.
 - [Thibaut-Louis Lucas](entities/ThibautLouisLucas.md) — Founder of Tea Maker and guest discussing failed startups, product validation, and distribution-led SaaS.
 - [Tianjie Jack](entities/TianjieJack.md) — ZhenFund investor discussing GUI thinking, headless software, agent infrastructure, and Token Grant.
-- [Tim Ferriss](entities/TimFerriss.md) — Advice Line guest using Coyote, off-menu projects, channel focus, made-to-order tests, and identity diversification to advise founders.
+- [Tim Ferriss](entities/TimFerriss.md) — Author, podcaster, investor, teacher, and experimentalist connecting edge-case discovery, bounded tests, identity diversification, research philanthropy, and de-optimization.
 - [Token Grant](entities/TokenGrant.md) — ZhenFund and Shizilukou Crossing sponsorship project for AI-era zero-to-one builders.
 - [Tommy](entities/Tommy.md) — Hermes Agent business lead explaining the framework's memory, tool orchestration, and skill loop.
 - [Traction Tools](entities/TractionTools.md) — EOS-related software competitor discussed in relation to Ninety's licensing and positioning.
@@ -14295,6 +14297,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Raiders of the Lost Ark](entities/RaidersOfTheLostArk.md) — Adventure film that translates the Ark's dangerous holiness into an ultimate-weapon race against Nazi Germany.
 
 ## Concepts
+- [Edge-Case Opportunity Discovery](concepts/EdgeCaseOpportunityDiscovery.md) — Method for finding hypotheses through extreme users, emerging behavior, awkward workarounds, dogmatic assumptions, and uncrowded access.
+- [Experimental Life Design](concepts/ExperimentalLifeDesign.md) — Framework using bounded projects, reflective questions, schedule design, and de-optimization to test better fits among work, identity, attention, and recovery.
 - [Wartime Scientific Mobilization](concepts/WartimeScientificMobilization.md) — concentration of scientific talent, military authority, resources, secrecy, and coordination around an urgent strategic objective.
 - [International Control of Atomic Knowledge](concepts/AtomicKnowledgeInternationalControl.md) — proposal that nuclear knowledge requires openness, shared rules, and governance beyond a temporary national monopoly.
 - [Nuclear Scientific Responsibility](concepts/NuclearScientificResponsibility.md) — Framework separating formal weapons-use authority from scientists' continuing causal, epistemic, and public responsibility.
@@ -16743,7 +16747,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Transcranial Magnetic Stimulation for Depression](concepts/TranscranialMagneticStimulationForDepression.md) — Neuromodulation branch using targeted magnetic stimulation to engage prefrontal mood-regulatory circuits.
 - [Stanford Neuromodulation Therapy](concepts/StanfordNeuromodulationTherapy.md) — Accelerated high-dose TMS protocol for high-acuity depression, distinguished from the device itself by target, timing, and dose.
 - [Memory Reconsolidation Psychiatry](concepts/MemoryReconsolidationPsychiatry.md) — Trauma-treatment hypothesis where maladaptive memories or rules are reactivated and updated in plastic or altered clinical states.
-- [Psychedelic Clinical Supervision Boundary](concepts/PsychedelicClinicalSupervisionBoundary.md) — Safety rule requiring evidence, screening, medical oversight, and support for psychedelic or psychedelic-adjacent psychiatric interventions.
+- [Psychedelic Clinical Supervision Boundary](concepts/PsychedelicClinicalSupervisionBoundary.md) — Safety rule requiring evidence, contraindication screening, medical oversight, supported context, and follow-up for psychedelic or adjacent psychiatric interventions.
 - [Carbohydrate Restriction and Mental Health](concepts/CarbohydrateRestrictionMentalHealth.md) — Lower-intensity dietary branch around reducing sweets, processed foods, glucose, and insulin without full ketosis.
 - [Chinese Internet Entry-Point Competition / 中文互联网入口竞争](concepts/ChineseInternetEntryPointCompetition.md) — Recurring fight to control user access through keywords, plugins, browsers, navigation pages, search defaults, security tools, mobile assistants, and app stores.
 - [Free Security Software Strategy / 免费安全软件策略](concepts/FreeSecuritySoftwareStrategy.md) — Using free antivirus, cleanup, browser, and system-protection tools to build user trust, distribution, and traffic power.
@@ -20626,7 +20630,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [公案小说 / Gong'an Fiction](concepts/GongAnFiction.md) — Older Chinese case-solving tradition contrasted with Holmes-style procedure, evidence, science, and modern policing.
 - [Chinese Detective Modernity](concepts/ChineseDetectiveModernity.md) — Late-Qing and modern detective-fiction frame where translation imports procedure, scientific evidence, and police-institution imagination.
 - [Experimental Science Ethics](concepts/ExperimentalScienceEthics.md) — Source frame for judging curiosity, subject selection, consent, harm, replication, interpretation, and credit in scientific experiments.
-- [Self-Experimentation](concepts/SelfExperimentation.md) — Practice of using one's own body as the experimental subject, treated as ethically distinct but not automatically reliable.
+- [Self-Experimentation](concepts/SelfExperimentation.md) — Practice of testing interventions on oneself, whose value depends on design, records, safety, reversibility, and verification rather than personal risk alone.
 - [Animal Experiment Ethics](concepts/AnimalExperimentEthics.md) — Source branch for frogs, dogs, cats, monkeys, chimpanzees, spiders, earthworms, and the ethics of nonhuman experimental subjects.
 - [Scientific Public Spectacle](concepts/ScientificPublicSpectacle.md) — Pattern where experiments become public performances, especially Aldini-style corpse electrification.
 - [Child Experiment Ethics](concepts/ChildExperimentEthics.md) — Source frame for non-consenting child subjects, centered on Kellogg's Donald-and-Gua co-rearing experiment.
