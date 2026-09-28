@@ -23977,6 +23977,10 @@ Added source `vol-73-jingshenke-shaonian-ertong-de-xinli-jiankang-guanhu-women-s
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-28] ingest | VOL.47食品与营养｜关于免疫力和补充剂的误区你中了几条？
+
+Added source `vol-47-shipin-yu-yingyang-guanyu-mianyili-he-buchongji-de-wuqu-ni-zhongle-jitiao-lruch-jc9a_r3r1qmdo2ojlxz2mk`; created `ImmuneHomeostasisNotBoosting`; and updated `TargetedSupplementNeedAssessment`, `FoundationalImmuneHealthFramework`, `XiaochangNutritionGuest`, `ZheBingShuoLaiHuaChang`, and the canonical index from their complete bounded source sets. Core synthesis: normal immune function depends on regulated sufficiency rather than indiscriminate boosting, balanced food and stable routines precede supplements, and supplementation becomes more plausible when a dietary gap, life stage, absorption problem, medication effect, disease context, or other individualized need is identifiable. No settled contradiction was adopted. Vitamin, mineral, protein, carbohydrate, fasting, product-safety, dosing, and disease-specific claims remain source-scoped public education. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -24555,6 +24559,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-28] ingest | 335: The Freemasons: History's Greatest Conspiracy Theory
 
 Added source `335-the-freemasons-historys-greatest-conspiracy-theory-glt4122245847`; created `JohnDickey`, `LeoTaxil`, `PrinceHallFreemasonry`, `PropagandaDue`, `Freemasonry`, `MasonicSecrecyConspiracyFeedback`, and `FraternalNetworkOrganizationalTemplate`; and updated `ConspiracyTheoryPatternSeeking` and the canonical index from the complete bounded source set. Core synthesis: Freemasonry's ritual secrecy, symbolic borrowing, translocal credentials, and lodge structure made it adaptable to civic, imperial, excluded-community, and corrupt uses while also inviting totalizing hostile interpretation. Taxil demonstrates fabricated revelation, P2 demonstrates bounded real conspiracy, and Prince Hall Freemasonry demonstrates civic adaptation under racial exclusion. No settled contradiction was adopted. Origins, Whig and Enlightenment causation, imperial scale, Franco-era figures, P2 allegations, Calvi's death, organizational borrowing, and Prince Hall impact remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-28] lint | Wiki health check
 

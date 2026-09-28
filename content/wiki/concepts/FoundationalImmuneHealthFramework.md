@@ -5,7 +5,8 @@ tags: [immunity, lifestyle, prevention, recovery]
 sources:
   - how-to-enhance-your-immune-system-dr-roger-seheult-scim4509990462
   - how-to-prevent-treat-colds-flu-scim6817932732
-last_updated: 2026-09-27
+  - vol-47-shipin-yu-yingyang-guanyu-mianyili-he-buchongji-de-wuqu-ni-zhongle-jitiao-lruch-jc9a_r3r1qmdo2ojlxz2mk
+last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,8 +22,10 @@ The useful synthesis is terrain plus exposure, not terrain instead of exposure. 
 
 The recovery and training branch now distinguishes adequate sleep and regular moderate exercise from sleep loss, prolonged energy deficit, excessive endurance load, and intense training during whole-body malaise. Microbiome and nasal-breathing hypotheses remain adjunctive and unevenly supported rather than foundations that can guarantee protection.
 
+VOL.47 strengthens the food-sufficiency branch and replaces “boosting” language with [[ImmuneHomeostasisNotBoosting|immune homeostasis]]. Adequate energy, protein, food variety, and long-term routine support normal barriers and immune processes, while short bursts of vitamins, sudden exercise, or product purchases do not recreate that foundation. Supplements remain secondary tools for plausible gaps or special contexts.
+
 ## Key Claims
-- Immune resilience is shaped partly by everyday sleep, nutrition, movement, hydration, light, and air conditions.
+- Immune resilience is shaped partly by everyday sleep, nutrition, movement, hydration, light, and air conditions, but nutrient involvement does not prove benefit from above-adequate supplementation.
 - Regular manageable exercise is distinguished from excessive endurance load or intense training during systemic illness.
 - Water matters through hydration, heat transfer, sweating, kidney function, and respiratory losses, not as a cure by itself.
 - Temperance includes avoiding smoking, vaping, and other unnecessary lung exposures.
@@ -36,15 +39,15 @@ The recovery and training branch now distinguishes adequate sleep and regular mo
 - Air and temperance: [[how-to-enhance-your-immune-system-dr-roger-seheult-scim4509990462]] advises against smoking and vaping and treats fresh air as part of respiratory health.
 - Trust boundary: [[how-to-enhance-your-immune-system-dr-roger-seheult-scim4509990462]] connects faith, gratitude, forgiveness, and community with coping while emphasizing permission in clinical settings.
 - Sleep, training, and early-rest boundary: [[how-to-prevent-treat-colds-flu-scim6817932732]] treats sleep as foundational, moderate exercise as supportive, and whole-body malaise as a reason to rest rather than push hard training.
+- Food and supplement hierarchy: [[vol-47-shipin-yu-yingyang-guanyu-mianyili-he-buchongji-de-wuqu-ni-zhongle-jitiao-lruch-jc9a_r3r1qmdo2ojlxz2mk|VOL.47]] places adequate energy, protein, dietary variety, sleep, and stable routines before immune-marketed supplements and distinguishes biological nutrient roles from proven extra benefit.
 
 ## Counterevidence & Qualifications
-The framework bundles interventions with very different evidence bases and should not be read as a validated package or an "immune boost." The newer source's nasal-breathing, microbiome, fermented-food, calorie-deficit, exercise-window, and post-exercise carbohydrate claims remain source-scoped and do not establish infection prevention. Severe infection, immunocompromise, dehydration, cardiopulmonary symptoms, and persistent post-infection symptoms require condition-specific evaluation. Spiritual practices and community support may be meaningful for some people and unwelcome or insufficient for others.
+The framework bundles interventions with very different evidence bases and should not be read as a validated package or an "immune boost." The sources' nasal-breathing, microbiome, fermented-food, calorie-deficit, exercise-window, post-exercise carbohydrate, vitamin C, vitamin D, iron, zinc, protein, and other nutrient claims remain source-scoped and do not establish universal infection prevention or dosing. Severe infection, immunocompromise, dehydration, cardiopulmonary symptoms, persistent post-infection symptoms, autoimmune disease, allergy, pregnancy, lactation, malabsorption, and medication use require condition-specific evaluation. Spiritual practices and community support may be meaningful for some people and unwelcome or insufficient for others.
 
 ## What Changed
-- Created an umbrella for the episode's foundational health pillars.
-- Made explicit that baseline resilience and exposure-specific protection are complementary.
-- Preserved consent and evidence boundaries around spiritual and community support.
-- Added a sleep-and-training-load branch while keeping microbiome and breathing claims qualified.
+- Added dietary variety, adequate energy, and protein sufficiency to the foundational layer.
+- Reframed the goal as regulated immune function rather than indiscriminate boosting.
+- Made explicit that nutrient involvement does not prove added benefit above sufficiency.
 
 ## Related Concepts
 - [[ImmuneSystemAsTunableSensorNetwork]] - broader systems model in which context changes immune behavior.
@@ -54,3 +57,5 @@ The framework bundles interventions with very different evidence bases and shoul
 - [[DayNightLightImmuneSupport]] - light and darkness component of the framework.
 - [[MedicalRiskManagement]] - escalation and individualized-care boundary.
 - [[ColdFluSupplementEvidenceBoundary]] - keeps supplements below foundational behavior and infection-specific care in the evidence hierarchy.
+- [[ImmuneHomeostasisNotBoosting]] - explains why normal regulation, not maximal activity, is the relevant immune goal.
+- [[TargetedSupplementNeedAssessment]] - routes possible deficiencies and special contexts into individualized supplement decisions.

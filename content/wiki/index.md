@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.47食品与营养｜关于免疫力和补充剂的误区你中了几条？](sources/vol-47-shipin-yu-yingyang-guanyu-mianyili-he-buchongji-de-wuqu-ni-zhongle-jitiao-lruch-jc9a_r3r1qmdo2ojlxz2mk.md) — 这病说来话长 episode on immune homeostasis, food-first nutrition, targeted supplement need, and diet or dosing boundaries.
 - [335: The Freemasons: History's Greatest Conspiracy Theory](sources/335-the-freemasons-historys-greatest-conspiracy-theory-glt4122245847.md) — The Rest Is History episode on Masonic ritual, secrecy, civic and imperial networks, anti-Masonic conspiracy, P2 corruption, and Prince Hall Freemasonry.
 - [VOL.48耳鼻咽喉科｜卡鱼刺的误区｜咽炎｜火锅+冰饮=急性会厌炎=10分钟丧命？别慌，来听医生怎么讲](sources/vol-48-erbiyanhouke-kayuci-de-wuqu-yanyan-huoguo-bingyin-jixing-huiyanyan-10-fenzhong-sangming-biehuang-lai-ting-yisheng-zenme-jiang-ljwo-vs4u8t7vnkodtvuflm1r3mg.md) — 这病说来话长 episode on fish-bone foreign bodies, epiglottitis airway risk, sore-throat escalation, chronic pharyngitis, and tonsil surgery decisions.
 - [336: Ireland: Celts, Conquest and Cromwell (Part 1)](sources/336-ireland-celts-conquest-and-cromwell-part-1-glt6280042699.md) — The Rest Is History episode on incomplete conquest, cultural intermingling, plantation, confessional identity, Cromwell, 1798, and the Act of Union.
@@ -14346,6 +14347,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Raiders of the Lost Ark](entities/RaidersOfTheLostArk.md) — Adventure film that translates the Ark's dangerous holiness into an ultimate-weapon race against Nazi Germany.
 
 ## Concepts
+- [Immune Homeostasis, Not Indiscriminate Boosting](concepts/ImmuneHomeostasisNotBoosting.md) — Distinguishes regulated immune sufficiency from indiscriminate activation or supplement-led “boosting.”
 - [Freemasonry](concepts/Freemasonry.md) — Fraternal lodge tradition joining ritual, symbolism, mutual obligation, civic and imperial networks, exclusion, and case-specific risks of corrupt capture.
 - [Masonic Secrecy–Conspiracy Feedback](concepts/MasonicSecrecyConspiracyFeedback.md) — Cycle linking ritual opacity and symbolic ambiguity to hostile totalization, repression, and renewed mystery.
 - [Fraternal Network Organizational Template](concepts/FraternalNetworkOrganizationalTemplate.md) — Portable cell, ritual, rank, mythology, credential, and mutual-obligation structure whose purpose depends on governance and use.
