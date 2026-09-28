@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 8597
+wiki_total_pages: 8599
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1871,6 +1871,9 @@ wiki_pages:
   - key: "AncientLargeArmyCommandLimits"
     title: "Ancient Large-Army Command Limits / 古代大兵团指挥极限"
     url: "/wiki/concepts/ancientlargearmycommandlimits/"
+  - key: "AncientRomanSexualStatusHierarchy"
+    title: "Ancient Roman Sexual Status Hierarchy"
+    url: "/wiki/concepts/ancientromansexualstatushierarchy/"
   - key: "AndrogenInterventionClinicalBoundary"
     title: "Androgen Intervention Clinical Boundary"
     url: "/wiki/concepts/androgeninterventionclinicalboundary/"
@@ -2036,6 +2039,9 @@ wiki_pages:
   - key: "AntimicrobialResistance"
     title: "Antimicrobial Resistance"
     url: "/wiki/concepts/antimicrobialresistance/"
+  - key: "AntinousCultFormation"
+    title: "Antinous Cult Formation"
+    url: "/wiki/concepts/antinouscultformation/"
   - key: "AntisemitismIsraelCriticismBoundary"
     title: "Antisemitism Israel Criticism Boundary"
     url: "/wiki/concepts/antisemitismisraelcriticismboundary/"

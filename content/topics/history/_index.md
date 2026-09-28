@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2125
+topic_total_pages: 2126
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4692,6 +4692,9 @@ topic_sources:
   - key: "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008"
     title: "318: Hundred Years' War: A Game of Thrones (Part 1)"
     url: "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+  - key: "340-hadrian-and-antinous-glt4184410900"
+    title: "340: Hadrian and Antinous"
+    url: "/wiki/sources/340-hadrian-and-antinous-glt4184410900/"
   - key: "341-the-trials-of-oscar-wilde-sex-and-scandal-part-1-glt1940599692"
     title: "341: The Trials of Oscar Wilde: Sex and Scandal (Part 1)"
     url: "/wiki/sources/341-the-trials-of-oscar-wilde-sex-and-scandal-part-1-glt1940599692/"

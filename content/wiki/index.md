@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [340: Hadrian and Antinous](sources/340-hadrian-and-antinous-glt4184410900.md) — The Rest Is History episode on Hadrian's bond with Antinous, Roman sexual status norms, the Nile death mystery, and an imperially sponsored divine afterlife.
 - [The Science of MDMA & Its Therapeutic Uses: Benefits & Risks](sources/the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449.md) — Huberman Lab solo episode on MDMA mechanisms, social reward, PTSD-assisted psychotherapy, contextual neurotoxicity, contamination, and supervised-use boundaries.
 - [How to Learn Better & Create Your Best Future | Tim Ferriss](sources/how-to-learn-better-create-your-best-future-tim-ferriss-scim6518415604.md) — Huberman Lab interview on edge-case discovery, self-experimentation, life design, psychedelic-research safety, attention, and creative identity expansion.
 - [343: Oppenheimer: The Father of the Atom Bomb (Part 1)](sources/343-oppenheimer-the-father-of-the-atom-bomb-part-1-glt9202576882.md) — The Rest Is History episode on Oppenheimer's formation, communist-era associations, Los Alamos leadership, Trinity, and the tension between atomic secrecy and international control.
@@ -3090,6 +3091,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [341: The Trials of Oscar Wilde: Sex and Scandal (Part 1)](sources/341-the-trials-of-oscar-wilde-sex-and-scandal-part-1-glt1940599692.md) — The Rest Is History episode on Wilde's celebrity, changing sexual law and identity, unequal relationships, the Queensberry conflict, and the failed libel prosecution.
 
 ## Entities
+- [Antinous](entities/Antinous.md) — Bithynian companion of Hadrian whose unresolved Nile death, divinization, visual legacy, and queer afterlife resist a single historical category.
 - [Alexander Shulgin](entities/AlexanderShulgin.md) — Chemist associated with MDMA's modern rediscovery and its early circulation among therapists and physicians.
 - [Multidisciplinary Association for Psychedelic Studies](entities/MultidisciplinaryAssociationForPsychedelicStudies.md) — Organization presented in the source as developing structured MDMA-assisted psychotherapy trials for severe PTSD.
 - [Cockpunch](entities/Cockpunch.md) — Tim Ferriss creative project combining emergent fiction, illustration, digital experiments, philanthropy, and public creative risk.
@@ -3610,7 +3612,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Normandy](entities/Normandy.md) — Duchy conquered by Henry V as a territorial base and Seine corridor toward Paris.
 - [Battle of Agincourt](entities/BattleOfAgincourt.md) — 1415 victory combining French elite destruction, English legitimacy, human catastrophe, and national myth.
 - [Treaty of Troyes](entities/TreatyOfTroyes.md) — 1420 agreement making Henry V regent and heir to France while disinheriting the Dauphin.
-- [Hadrian](entities/Hadrian.md) — Roman emperor who restored the beard to imperial presentation as a sign of Greek culture, philosophy, and military affiliation.
+- [Hadrian](entities/Hadrian.md) — Philhellenic Roman emperor whose beard, bond with Antinous, and cult sponsorship joined public image, grief, and imperial authority.
 - [Constantine the Great](entities/ConstantineTheGreat.md) — Roman emperor whose clean-shaven image signaled civilian order and informed early Christian imperial iconography.
 - [Hatshepsut](entities/Hatshepsut.md) — Egyptian female pharaoh whose artificial beard functioned as established royal regalia.
 - [Gregory VII](entities/GregoryVII.md) — Reforming pope who made clerical shaving part of Latin Christian purification and discipline.
@@ -14304,6 +14306,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Raiders of the Lost Ark](entities/RaidersOfTheLostArk.md) — Adventure film that translates the Ark's dangerous holiness into an ultimate-weapon race against Nazi Germany.
 
 ## Concepts
+- [Ancient Roman Sexual Status Hierarchy](concepts/AncientRomanSexualStatusHierarchy.md) — Framework in which freedom, citizenship, age, rank, and active or passive role mattered more than a modern homosexual/heterosexual identity divide.
+- [Antinous Cult Formation](concepts/AntinousCultFormation.md) — Process joining Hadrianic sponsorship, Osirian identification, Greek forms, provincial uptake, and contested religious afterlife.
 - [MDMA-Assisted PTSD Therapy](concepts/MDMAAssistedPTSDTherapy.md) — Structured model joining preparation, monitored MDMA sessions, psychotherapy, and integration for selected PTSD patients.
 - [MDMA Neurotoxicity and Contextual Risk](concepts/MDMANeurotoxicityRisk.md) — Evidence boundary separating neurochemical change from neuron injury while accounting for product identity, dose, heat, co-use, and setting.
 - [Victorian Homosexual Identity Formation](concepts/VictorianHomosexualIdentityFormation.md) — Late-19th-century interaction of wider criminalization, medical classification, affirmative language, and celebrity stigma around male same-sex desire.

@@ -24455,3 +24455,11 @@ Added source `the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim695264
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | 340: Hadrian and Antinous
+
+Added source `340-hadrian-and-antinous-glt4184410900`; created `Antinous`, `AncientRomanSexualStatusHierarchy`, and `AntinousCultFormation`; and updated `Hadrian` and the canonical index from Hadrian's complete bounded source set. Core synthesis: Roman sexuality was organized strongly through status and role rather than a modern identity binary, while Hadrian's grief and imperial authority turned Antinous's unresolved Nile death into a transregional divine and cultural afterlife. No settled contradiction was adopted. Love, consent, sexual conduct, Antinous's agency, cause of death, cult popularity, and reported archaeological counts remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
