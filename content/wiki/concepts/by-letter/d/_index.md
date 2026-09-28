@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 8666
+wiki_total_pages: 8668
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -674,6 +674,9 @@ wiki_pages:
   - key: "DigitalNomadHousingPressure"
     title: "Digital Nomad Housing Pressure"
     url: "/wiki/concepts/digitalnomadhousingpressure/"
+  - key: "DigitalOlfaction"
+    title: "Digital Olfaction"
+    url: "/wiki/concepts/digitalolfaction/"
   - key: "DigitalPreservation"
     title: "Digital Preservation"
     url: "/wiki/concepts/digitalpreservation/"

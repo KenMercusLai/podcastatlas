@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1297
+topic_total_pages: 1300
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1396,6 +1396,9 @@ topic_concepts:
   - key: "OceanicVoyageAttrition"
     title: "Oceanic Voyage Attrition"
     url: "/wiki/concepts/oceanicvoyageattrition/"
+  - key: "OlfactoryHealthSignal"
+    title: "Olfactory Health Signal"
+    url: "/wiki/concepts/olfactoryhealthsignal/"
   - key: "OlfactoryTraining"
     title: "Olfactory Training"
     url: "/wiki/concepts/olfactorytraining/"
@@ -2798,6 +2801,9 @@ topic_entities:
   - key: "NinaMiolane"
     title: "Nina Miolane"
     url: "/wiki/entities/ninamiolane/"
+  - key: "NoamSobel"
+    title: "Noam Sobel"
+    url: "/wiki/entities/noamsobel/"
   - key: "NolanWilliams"
     title: "Nolan Williams"
     url: "/wiki/entities/nolanwilliams/"
@@ -3639,6 +3645,9 @@ topic_sources:
   - key: "how-relationships-shape-your-brain-dr-allan-schore-scim1947263719"
     title: "How Relationships Shape Your Brain | Dr. Allan Schore"
     url: "/wiki/sources/how-relationships-shape-your-brain-dr-allan-schore-scim1947263719/"
+  - key: "how-smells-influence-our-hormones-health-behavior-dr-noam-sobel-scim2074118783"
+    title: "How Smells Influence Our Hormones, Health & Behavior | Dr. Noam Sobel"
+    url: "/wiki/sources/how-smells-influence-our-hormones-health-behavior-dr-noam-sobel-scim2074118783/"
   - key: "how-the-brain-works-curing-blindness-how-to-navigate-a-career-path-dr-e-j-chichilnisky-scim7934230780"
     title: "How the Brain Works, Curing Blindness & How to Navigate a Career Path | Dr. E.J. Chichilnisky"
     url: "/wiki/sources/how-the-brain-works-curing-blindness-how-to-navigate-a-career-path-dr-e-j-chichilnisky-scim7934230780/"

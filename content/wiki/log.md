@@ -24730,3 +24730,11 @@ Added source `ep286-zai-yuelaiyue-shuzihua-de-shidai-ruhe-tongguo-wudao-zhongxin
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | How Smells Influence Our Hormones, Health & Behavior | Dr. Noam Sobel
+
+Added source `how-smells-influence-our-hormones-health-behavior-dr-noam-sobel-scim2074118783`; created `NoamSobel`, `OlfactoryHealthSignal`, and `DigitalOlfaction`; and updated `Chemosensation`, `OlfactoryTraining`, `HumanChemicalSignaling`, and `InhalationArousalLearning` from their complete bounded source sets. Core synthesis: human smell is an active, trainable, respiratory, social, and potentially health-informative system, but measurable chemical effects do not establish a universal human pheromone pathway, and smell loss does not independently diagnose neurodegenerative disease or another specific condition. No settled contradiction was adopted. Menstrual synchrony, a human Bruce-like reproductive mechanism, friendship causality, nasal-cycle classification, hexadecanal effects, recovery horizons, and digital-smell diagnostics remain disputed, prospective, or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -3125,6 +3125,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Foiled plot: did Iran plan British base attack?](sources/foiled-plot-did-iran-plan-british-base-attack-6aba32b170b66274d96fb345.md) — The Intelligence episode on an unresolved RAF Fairford plot, conflict-driven oil profits and investment, and a Danish manager-daughter workplace study.
 
 - [EP286 在越来越数字化的时代，如何通过舞蹈重新找回用身体感知世界的能力？](sources/ep286-zai-yuelaiyue-shuzihua-de-shidai-ruhe-tongguo-wudao-zhongxin-zhaohui-yong-shenti-ganzhi-shijie-de-nengli-ltbnmxye2gnqzs4oubhe3mtmx0q9.md) — Talk三联 conversation with Serge Laurent, 谢欣, and 金晓霖 on recovering bodily perception, choreographic space, open interpretation, trained dance practice, and public cultural access.
+- [How Smells Influence Our Hormones, Health & Behavior | Dr. Noam Sobel](sources/how-smells-influence-our-hormones-health-behavior-dr-noam-sobel-scim2074118783.md) — Huberman Lab conversation on human olfaction, nasal airflow, social chemosignals, smell-loss interpretation, emotional tears, hexadecanal, and digital smell.
 
 ## Entities
 - [The Histories](entities/TheHistories.md) — Herodotus's inquiry-driven, digressive account of Greeks, Persians, custom, conflict, and empire.
@@ -14422,6 +14423,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Van Cleef & Arpels / 梵克雅宝](entities/VanCleefArpels.md) — Luxury jewelry maison represented here through its Dance Reflections cultural patronage.
 - [谢欣舞蹈剧场 / Xie Xin Dance Theatre](entities/XieXinDanceTheatre.md) — Chinese contemporary-dance company founded and artistically directed by 谢欣.
 - [AWPlanet](entities/AWPlanet.md) — Organization identified in EP286 through co-founder, choreographer, and content creator 金晓霖.
+- [Noam Sobel](entities/NoamSobel.md) — Weizmann Institute olfaction researcher studying nasal airflow, social odor, smell loss, chemosignals, and digital olfaction.
 
 ## Concepts
 - [ETF Consensus Feedback / ETF 共识反馈](concepts/ETFConsensusFeedback.md) — Feedback loop joining index rules, theme labels, distribution, flows, benchmark inclusion, liquidity, and attention.
@@ -23115,5 +23117,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dance as Open Embodied Inquiry / 舞蹈作为开放的身体探究](concepts/DanceAsOpenEmbodiedInquiry.md) — Dance as a shared bodily question that permits plural personal and cross-cultural interpretation.
 - [Choreographic Space / 编舞空间组织](concepts/ChoreographicSpace.md) — Organization of bodies, time, speed, distance, vibration, and attention into temporary spatial architecture.
 - [Dance Participation–Professionalism Boundary / 舞蹈参与与专业创作边界](concepts/DanceParticipationProfessionalBoundary.md) — Boundary joining universal movement participation to the training and judgment required for dance as art.
+- [Olfactory Health Signal](concepts/OlfactoryHealthSignal.md) — Boundary treating smell function and loss as clinically informative but non-specific rather than independently diagnostic.
+- [Digital Olfaction](concepts/DigitalOlfaction.md) — Measurement, modeling, transmission, or reproduction of perceived smell from chemical and molecular information.
 
 ## Syntheses

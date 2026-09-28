@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 8666
+wiki_total_pages: 8668
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -206,6 +206,9 @@ wiki_pages:
   - key: "OlderAdultHomeCareSafety"
     title: "Older-Adult Home-Care Safety / 老年居家照护安全"
     url: "/wiki/concepts/olderadulthomecaresafety/"
+  - key: "OlfactoryHealthSignal"
+    title: "Olfactory Health Signal"
+    url: "/wiki/concepts/olfactoryhealthsignal/"
   - key: "OlfactoryTraining"
     title: "Olfactory Training"
     url: "/wiki/concepts/olfactorytraining/"
