@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.51四科室医生会诊｜拒绝恐惧和焦虑 正确理性面对“二阳”才是正经事](sources/vol-51-sikeshi-yisheng-huizhen-jujue-kongju-he-jiaolv-zhengque-lixing-miandui-eryang-caishi-zhengjingshi-lqzw5tta44mvu60jg-hrmxsak8ko.md) — 这病说来话长 multi-specialty episode on repeat-COVID triage, atypical decline, proportional care routing, treatment boundaries, and graded return to activity.
 - [VOL.52消化内镜科｜你胃肠功能怎么样？你经历过胃肠镜检查吗？踩过这些误区吗？](sources/vol-52-xiaohuaneijingke-ni-weichang-gongneng-zenmeyang-ni-jingli-guo-weichangjing-jiancha-ma-cai-guo-zhexie-wuqu-ma-lgvjd8plhexcbqjhck_u0kaem_z5.md) — 这病说来话长 episode on gastrointestinal-endoscopy screening, alternative-test limits, preparation, painless procedures, biopsy, follow-up, and detox misconceptions.
 - [339: Ireland: The Easter Rising, 1916 (Part 4)](sources/339-ireland-the-easter-rising-1916-part-4-glt7095481415.md) — The Rest Is History episode on the Rising's republican, labour, cultural, military, and commemorative causes and its conversion from battlefield defeat into political success.
 - [VOL.53消化内镜科｜拿到报告别怕！幽门螺杆菌、糜烂性胃炎、胃溃疡、肠息肉、便血究竟怎么回事？](sources/vol-53-xiaohuaneijingke-nadao-baogao-bie-pa-youmen-luoganjun-milanxing-weiyan-weikuiyang-changxirou-bianxie-jiujing-zenme-huishi-lnnmnwcdzoxvblysajxyk_wyhgy.md) — 这病说来话长 episode on contextual endoscopy-report reading, gastric findings, H. pylori, colon polyps, tumor markers, functional symptoms, and rectal-bleeding triage.
@@ -5759,7 +5760,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Patient SM](entities/PatientSM.md) — Amygdala-lesion research case used to distinguish fear perception, external-threat fear, and internal panic.
 - [这病说来话长 / Zhe Bing Shuo Lai Hua Chang](entities/ZheBingShuoLaiHuaChang.md) — Chinese medical-literacy podcast represented by medical imaging, liver health, oncology, orthopedics, outpatient diagnostic safety, urology, anesthesiology, otolaryngology, ophthalmology, rehabilitation, exercise safety, and consumer medical boundaries.
 - [梨花医生 / Lihua Speech Therapist](entities/LihuaSpeechTherapist.md) — Source-scoped speech therapist guest in VOL.34 and VOL.35 explaining dysphagia safety, functional articulation, pediatric language-delay early intervention, adult aphasia rhythm cueing, dysarthria boundaries, and long-term rehabilitation.
-- [毛春杰 / Mao Chunjie](entities/MaoChunjie.md) — Source-scoped ophthalmology guest in VOL.36 explaining diabetic fundus screening, dry eye, high-myopia retinal risk, myopia-surgery boundaries, red-eye causes, and eye-drop caution.
+- [毛春杰 / Mao Chunjie](entities/MaoChunjie.md) — Source-scoped ophthalmology guest covering fundus screening, dry eye, myopia and surgery boundaries, inherited retinal disease, color vision, and new-floater assessment.
 - [天津总医院 / Tianjin General Hospital](entities/TianjinGeneralHospital.md) — Source-scoped hospital affiliation named for Mao Chunjie in the VOL.36 ophthalmology episode.
 - [董心彤 / Dong Xintong](entities/DongXintong.md) — Source-scoped anesthesiology guest explaining perioperative safety, awareness and sedation depth, obstetric anesthesia, recovery, anesthesia misconceptions, and pain-related sleep care.
 - [刘子明 / Liu Ziming (sports medicine doctor)](entities/LiuZimingSportsMedicine.md) — Source-scoped 北医三院 sports-medicine doctor explaining safe exercise, lower-limb joint protection, progressive training, support-device boundaries, and symptom escalation.
@@ -22947,5 +22948,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Wisdom Tooth Clinical Assessment / 智齿临床评估](concepts/WisdomToothClinicalAssessment.md) — Individualized retain, monitor, remove, or repurpose decisions based on third-molar anatomy, function, hygiene, disease, imaging, and recovery context.
 - [Periodontal Disease Progression / 牙周疾病进展](concepts/PeriodontalDiseaseProgression.md) — Progression from gingival inflammation to periodontal support loss, with professional cleaning framed as revealing rather than causing existing damage.
 - [Dental Comfort Care / 牙科舒适化诊疗](concepts/DentalComfortCare.md) — Pain control, anxiety support, suitable anesthesia, and minimally traumatic workflow as linked parts of safe dental care.
+
+- [Repeat COVID Infection Triage / 新冠再感染分诊](concepts/RepeatCOVIDInfectionTriage.md) — Severity-, function-, comorbidity-, and care-setting-based assessment of suspected COVID reinfection.
+- [Post-Infectious Return to Activity / 感染后活动恢复](concepts/PostInfectiousReturnToActivity.md) — Graded return to exercise, work, travel, and altitude after infection with cardiopulmonary pause criteria.
 
 ## Syntheses

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8605
+wiki_total_pages: 8607
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1190,6 +1190,9 @@ wiki_pages:
   - key: "PostImperialIdentityGap"
     title: "Post-Imperial Identity Gap / 后帝国身份落差"
     url: "/wiki/concepts/postimperialidentitygap/"
+  - key: "PostInfectiousReturnToActivity"
+    title: "Post-Infectious Return to Activity / 感染后活动恢复"
+    url: "/wiki/concepts/postinfectiousreturntoactivity/"
   - key: "PostLearningArousalTagging"
     title: "Post-Learning Arousal Tagging"
     url: "/wiki/concepts/postlearningarousaltagging/"

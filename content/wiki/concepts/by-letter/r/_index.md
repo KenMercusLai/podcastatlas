@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 8605
+wiki_total_pages: 8607
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -446,6 +446,9 @@ wiki_pages:
   - key: "RenyiGroundedVirtue"
     title: "Renyi-Grounded Virtue / 仁义为本的信勇"
     url: "/wiki/concepts/renyigroundedvirtue/"
+  - key: "RepeatCOVIDInfectionTriage"
+    title: "Repeat COVID Infection Triage / 新冠再感染分诊"
+    url: "/wiki/concepts/repeatcovidinfectiontriage/"
   - key: "RepeatableCustomerLanguage"
     title: "Repeatable Customer Language"
     url: "/wiki/concepts/repeatablecustomerlanguage/"

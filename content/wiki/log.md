@@ -24487,3 +24487,11 @@ Added source `vol-52-xiaohuaneijingke-ni-weichang-gongneng-zenmeyang-ni-jingli-g
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | VOL.51四科室医生会诊｜拒绝恐惧和焦虑 正确理性面对“二阳”才是正经事
+
+Added source `vol-51-sikeshi-yisheng-huizhen-jujue-kongju-he-jiaolv-zhengque-lixing-miandui-eryang-caishi-zhengjingshi-lqzw5tta44mvu60jg-hrmxsak8ko`; created `RepeatCOVIDInfectionTriage` and `PostInfectiousReturnToActivity`; and updated `MaoChunjie`, `RespiratorySymptomTriage`, `LayeredRespiratoryInfectionPrevention`, `CardiovascularExerciseRiskBoundary`, `PulmonaryNoduleSurveillance`, and the canonical index from their complete bounded source sets. Core synthesis: repeat infection should be triaged by present symptoms, baseline change, comorbidity, and care-setting need rather than episode number, while recovery should progress gradually and pause for cardiopulmonary warning signs. No settled contradiction was adopted. The episode's June 2023 variant, medication-access, insurance, vaccination, infectiousness, testing, treatment, and recovery claims remain dated or source-scoped public education. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
