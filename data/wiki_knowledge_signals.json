@@ -5007,6 +5007,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/entities/actofabjuration/"
     },
+    "ActOfUnion1801": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6280042699 [GLT6280042699].md",
+          "key": "336-ireland-celts-conquest-and-cromwell-part-1-glt6280042699",
+          "show": "The Rest Is History",
+          "title": "336: Ireland: Celts, Conquest and Cromwell (Part 1)",
+          "url": "/wiki/sources/336-ireland-celts-conquest-and-cromwell-part-1-glt6280042699/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/actofunion1801/"
+    },
     "ActingOpportunityReadiness": {
       "episode_count": 1,
       "show_count": 1,
@@ -73692,9 +73708,9 @@
       "url": "/wiki/entities/henryfok/"
     },
     "HenryIIOfEngland": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3399401666 [GLT3399401666].md",
@@ -73702,9 +73718,16 @@
           "show": "The Rest Is History",
           "title": "Empress Matilda: Civil War and the Fight for the Throne",
           "url": "/wiki/sources/empress-matilda-civil-war-and-the-fight-for-the-throne-glt3399401666/"
+        },
+        {
+          "episode_file": "GLT6280042699 [GLT6280042699].md",
+          "key": "336-ireland-celts-conquest-and-cromwell-part-1-glt6280042699",
+          "show": "The Rest Is History",
+          "title": "336: Ireland: Celts, Conquest and Cromwell (Part 1)",
+          "url": "/wiki/sources/336-ireland-celts-conquest-and-cromwell-part-1-glt6280042699/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/henryiiofengland/"
     },
     "HenryIOfEngland": {
@@ -84863,9 +84886,9 @@
       "url": "/wiki/entities/iraqwar/"
     },
     "Ireland": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 2,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "GLT9519811642 [GLT9519811642].md",
@@ -84908,6 +84931,13 @@
           "show": "The Rest Is History",
           "title": "337: Ireland: Union, Famine and Parnell (Part 2)",
           "url": "/wiki/sources/337-ireland-union-famine-and-parnell-part-2-glt4375415331/"
+        },
+        {
+          "episode_file": "GLT6280042699 [GLT6280042699].md",
+          "key": "336-ireland-celts-conquest-and-cromwell-part-1-glt6280042699",
+          "show": "The Rest Is History",
+          "title": "336: Ireland: Celts, Conquest and Cromwell (Part 1)",
+          "url": "/wiki/sources/336-ireland-celts-conquest-and-cromwell-part-1-glt6280042699/"
         }
       ],
       "updated": "2026-09-28",
@@ -84967,6 +84997,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/irishhomerule/"
+    },
+    "IrishPlantation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6280042699 [GLT6280042699].md",
+          "key": "336-ireland-celts-conquest-and-cromwell-part-1-glt6280042699",
+          "show": "The Rest Is History",
+          "title": "336: Ireland: Celts, Conquest and Cromwell (Part 1)",
+          "url": "/wiki/sources/336-ireland-celts-conquest-and-cromwell-part-1-glt6280042699/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/irishplantation/"
     },
     "IrishRepublicanBrotherhood": {
       "episode_count": 2,
@@ -120010,6 +120056,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/oliveyoung/"
     },
+    "OliverCromwell": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6280042699 [GLT6280042699].md",
+          "key": "336-ireland-celts-conquest-and-cromwell-part-1-glt6280042699",
+          "show": "The Rest Is History",
+          "title": "336: Ireland: Celts, Conquest and Cromwell (Part 1)",
+          "url": "/wiki/sources/336-ireland-celts-conquest-and-cromwell-part-1-glt6280042699/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/olivercromwell/"
+    },
     "Ollama": {
       "episode_count": 1,
       "show_count": 1,
@@ -123654,9 +123716,9 @@
       "url": "/wiki/entities/patriciaresnick/"
     },
     "PatrickPearse": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7095481415 [GLT7095481415].md",
@@ -123664,6 +123726,13 @@
           "show": "The Rest Is History",
           "title": "339: Ireland: The Easter Rising, 1916 (Part 4)",
           "url": "/wiki/sources/339-ireland-the-easter-rising-1916-part-4-glt7095481415/"
+        },
+        {
+          "episode_file": "GLT6280042699 [GLT6280042699].md",
+          "key": "336-ireland-celts-conquest-and-cromwell-part-1-glt6280042699",
+          "show": "The Rest Is History",
+          "title": "336: Ireland: Celts, Conquest and Cromwell (Part 1)",
+          "url": "/wiki/sources/336-ireland-celts-conquest-and-cromwell-part-1-glt6280042699/"
         }
       ],
       "updated": "2026-09-28",
@@ -123817,9 +123886,9 @@
       "url": "/wiki/entities/paulekman/"
     },
     "PaulRouse": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5810592007 [GLT5810592007].md",
@@ -123834,6 +123903,13 @@
           "show": "The Rest Is History",
           "title": "337: Ireland: Union, Famine and Parnell (Part 2)",
           "url": "/wiki/sources/337-ireland-union-famine-and-parnell-part-2-glt4375415331/"
+        },
+        {
+          "episode_file": "GLT6280042699 [GLT6280042699].md",
+          "key": "336-ireland-celts-conquest-and-cromwell-part-1-glt6280042699",
+          "show": "The Rest Is History",
+          "title": "336: Ireland: Celts, Conquest and Cromwell (Part 1)",
+          "url": "/wiki/sources/336-ireland-celts-conquest-and-cromwell-part-1-glt6280042699/"
         }
       ],
       "updated": "2026-09-28",
@@ -164185,6 +164261,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/unitedarabemirates/"
+    },
+    "UnitedIrishmen": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6280042699 [GLT6280042699].md",
+          "key": "336-ireland-celts-conquest-and-cromwell-part-1-glt6280042699",
+          "show": "The Rest Is History",
+          "title": "336: Ireland: Celts, Conquest and Cromwell (Part 1)",
+          "url": "/wiki/sources/336-ireland-celts-conquest-and-cromwell-part-1-glt6280042699/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/unitedirishmen/"
     },
     "UnitedNationsChildrenFund": {
       "episode_count": 1,

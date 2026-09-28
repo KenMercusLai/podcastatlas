@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 8615
+wiki_total_pages: 8617
 wiki_pages:
   - key: "IBDPatientEducationAndPeerSupport"
     title: "IBD Patient Education and Peer Support / IBD患者教育与同伴支持"
@@ -923,6 +923,9 @@ wiki_pages:
   - key: "IrishHomeRule"
     title: "Irish Home Rule"
     url: "/wiki/concepts/irishhomerule/"
+  - key: "IrishPlantation"
+    title: "Irish Plantation"
+    url: "/wiki/concepts/irishplantation/"
   - key: "IronDeficiencyAnemiaManagement"
     title: "Iron Deficiency Anemia Management"
     url: "/wiki/concepts/irondeficiencyanemiamanagement/"

@@ -9,6 +9,7 @@ sources:
   - 698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988
   - 339-ireland-the-easter-rising-1916-part-4-glt7095481415
   - 337-ireland-union-famine-and-parnell-part-2-glt4375415331
+  - 336-ireland-celts-conquest-and-cromwell-part-1-glt6280042699
 knowledge_schema: synthesis-v1
 last_updated: 2026-09-28
 ---
@@ -17,11 +18,13 @@ last_updated: 2026-09-28
 
 ## Overview
 
-Ireland appears across the wiki as an early-modern strategic pressure point, a nineteenth-century Union polity transformed by famine and constitutional nationalism, the national setting for the [[EasterRising|Easter Rising]] and later republican conflict, a state actor during [[TheTroubles]], and a modern tax jurisdiction within multinational globalization.
+Ireland appears across the wiki as a polity shaped by incomplete conquest, cultural exchange, plantation, confessional land power, Union, famine, constitutional nationalism, revolution, partition, and later republican conflict. Separate modern sources also treat the Irish state as an actor during [[TheTroubles]] and as a tax jurisdiction within multinational globalization.
 
 ## Current Profile
 
-The Elizabethan source presents Ireland as one element of English insecurity about [[Spain]], Catholic priests, and invasion. The nineteenth-century source then asks why the Act of Union did not become a durable settlement. [[DanielOConnell]] forced Catholic emancipation through mass organization and election; imperial service, migration, commerce, and common institutions created real connections; but the [[GreatIrishFamine]] devastated population and trust while helping create a politically unreconciled diaspora.
+The long-history source begins with the incomplete Anglo-Norman intervention under [[HenryIIOfEngland|Henry II]]. Medieval settlement produced extraction and conflict but also bilingualism, trade, and cultural intermingling across the Pale. Under the Tudors and Stuarts, failed reformation, foreign-intervention fears, [[IrishPlantation|plantation]], 1641 violence, [[OliverCromwell|Cromwellian conquest]], Williamite victory, penal laws, and Protestant ascendancy progressively tied religion to land and political identity.
+
+The 1790s brought a cross-confessional revolutionary challenge through the [[UnitedIrishmen]]. Its defeat led Britain to enact the [[ActOfUnion1801|Act of Union]], abolish the Dublin Parliament, and centralize sovereignty at Westminster without immediately delivering the expected Catholic emancipation. The nineteenth-century source then asks why that settlement did not become durable. [[DanielOConnell]] forced emancipation through mass organization and election; imperial service, migration, commerce, and common institutions created real connections; but the [[GreatIrishFamine]] devastated population and trust while helping create a politically unreconciled diaspora.
 
 After the famine, revolutionary republicanism persisted but remained a minority strategy while [[IrishConstitutionalNationalism]] moved from [[CharlesStewartParnell]]'s land-and-parliament alliance to [[JohnRedmond]]'s Westminster leverage. Home Rule reached the statute book, yet nationalist and Liberal underestimation of Ulster unionist resistance turned constitutional advance into a civil-war crisis. The 1916 source continues that branch: prewar militarization normalized armed volunteer organization, cultural institutions helped imagine a distinct nation, and a small wartime rebellion became politically powerful through proclamation, execution, detention, and commemoration.
 
@@ -29,16 +32,17 @@ The Troubles sources move to the later relationship between the Republic of Irel
 
 ## Key Characteristics
 
-- Island and political setting whose relationship with Britain moved through Union, empire, constitutional reform, revolution, and partition.
-- Society joined to Britain through migration, commerce, military service, and institutions without achieving an accepted political settlement.
-- Country whose population, diaspora, political memory, and trust were transformed by the Great Famine.
+- Island and political setting whose relationship with English and British power moved through incomplete conquest, plantation, Union, empire, constitutional reform, revolution, and partition.
+- Society in which land transfer, penal law, and Protestant ascendancy made confessional identity materially consequential without eliminating cross-confessional coalitions or cultural exchange.
+- Society joined to Britain through migration, commerce, military service, and institutions without achieving an accepted political settlement, then transformed demographically and politically by the Great Famine.
 - Setting where emancipation, land reform, Home Rule, volunteer militarization, cultural nationalism, and wartime rebellion formed one contested political sequence.
 - State actor whose rhetoric, relief funding, border position, and politicians affected the early Troubles.
-- Early-modern pressure point in Elizabethan fears of Spanish and Catholic intervention.
+- Recurrent strategic pressure point in English fears of Spanish, French, or other foreign intervention.
 - Low-tax jurisdiction used to explain multinational profit booking and fiscal competition.
 
 ## Evidence
 
+- Conquest, plantation, and Union: [[336-ireland-celts-conquest-and-cromwell-part-1-glt6280042699]] connects medieval intermingling, Reformation failure, land confiscation, Cromwellian violence, Protestant ascendancy, the United Irishmen, 1798, and the Union settlement.
 - Elizabethan strategy: [[694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087]] places Spanish activity in Ireland within Elizabeth I's defensive argument and the wider confessional crisis.
 - Union, famine, and constitutional nationalism: [[337-ireland-union-famine-and-parnell-part-2-glt4375415331]] connects emancipation, imperial integration, famine policy, land reform, Parnell, Redmond, Home Rule, and Ulster resistance.
 - Revolution and national politics: [[339-ireland-the-easter-rising-1916-part-4-glt7095481415]] connects Home Rule limits, prewar militarization, cultural nationalism, rebellion, repression, and republican memory.
@@ -48,17 +52,21 @@ The Troubles sources move to the later relationship between the Republic of Irel
 
 ## Qualifications
 
-These sources cover selected crises and mechanisms rather than a continuous history or general country profile. “Ireland” can mean the island, a pre-partition polity, or the later Republic depending on period; the nineteenth-century and 1916 sources precede partition, whereas the Troubles and tax episodes distinguish the Irish state from Northern Ireland. Famine quantities and culpability, the strength of imperial allegiance, prospects for Home Rule, public support for the Rising, government knowledge of arms diversion, Spanish intentions, and multinational tax effects remain bounded by their source episodes.
+These sources cover selected crises and mechanisms rather than a continuous history or general country profile. “Ireland” can mean the island, a pre-partition polity, or the later Republic depending on period; the long-history, nineteenth-century, and 1916 sources precede partition, whereas the Troubles and tax episodes distinguish the Irish state from Northern Ireland. Medieval unity, plantation and land-transfer estimates, atrocity totals, Union motives, famine quantities and culpability, imperial allegiance, Home Rule prospects, public support for the Rising, arms diversion, Spanish intentions, and multinational tax effects remain bounded by their source episodes.
 
 ## What Changed
 
-- Added the nineteenth-century chain from Union and emancipation through famine, land reform, Parnell, Redmond, and the Home Rule crisis.
-- Reframed 1916 as a continuation of a contested constitutional settlement rather than the opening of the Ireland-Britain branch.
+- Extended the profile backward through medieval intervention, cultural intermingling, Reformation failure, plantation, Cromwellian conquest, Protestant ascendancy, 1798, and Union.
+- Reframed the 1801 Union as a security settlement whose delayed emancipation created an immediate legitimacy deficit.
+- Added the source's caution that neither an unbroken “800 years” oppression story nor a security-only explanation captures the historical sequence.
 
 ## Relationships
 
 - [[EasterRising]] - 1916 rebellion that transformed separatist republican politics.
 - [[GreatIrishFamine]] - demographic and political rupture that reshaped Ireland and its diaspora.
+- [[IrishPlantation]] - land-and-settlement process that tied confession to property and political power.
+- [[ActOfUnion1801]] - centralizing settlement imposed after the 1798 rebellion.
+- [[UnitedIrishmen]] - cross-confessional reform and revolutionary movement defeated in 1798.
 - [[IrishConstitutionalNationalism]] - reform strategy linking emancipation, land reform, and Home Rule.
 - [[IrishHomeRule]] - constitutional project whose limits and armed opposition shaped prewar politics.
 - [[NorthernIreland]] - post-partition region whose crisis repeatedly involved the Irish state.

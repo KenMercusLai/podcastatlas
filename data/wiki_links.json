@@ -983,6 +983,10 @@
     "title": "33.人间失格：胆小鬼的壮烈献祭",
     "url": "/wiki/sources/33-renjian-shige-danxiaogui-de-zhuanglie-xianji-599924624/"
   },
+  "336-ireland-celts-conquest-and-cromwell-part-1-glt6280042699": {
+    "title": "336: Ireland: Celts, Conquest and Cromwell (Part 1)",
+    "url": "/wiki/sources/336-ireland-celts-conquest-and-cromwell-part-1-glt6280042699/"
+  },
   "337-ireland-union-famine-and-parnell-part-2-glt4375415331": {
     "title": "337: Ireland: Union, Famine and Parnell (Part 2)",
     "url": "/wiki/sources/337-ireland-union-famine-and-parnell-part-2-glt4375415331/"
@@ -4370,6 +4374,10 @@
   "ActOfAbjuration": {
     "title": "Act of Abjuration",
     "url": "/wiki/entities/actofabjuration/"
+  },
+  "ActOfUnion1801": {
+    "title": "Act of Union 1801",
+    "url": "/wiki/concepts/actofunion1801/"
   },
   "ActingOpportunityReadiness": {
     "title": "Acting Opportunity Readiness",
@@ -36355,6 +36363,10 @@
     "title": "Irish Home Rule",
     "url": "/wiki/concepts/irishhomerule/"
   },
+  "IrishPlantation": {
+    "title": "Irish Plantation",
+    "url": "/wiki/concepts/irishplantation/"
+  },
   "IrishRepublicanArmy": {
     "title": "Irish Republican Army",
     "url": "/wiki/entities/irishrepublicanarmy/"
@@ -51626,6 +51638,10 @@
   "OliverCarroll": {
     "title": "Oliver Carroll",
     "url": "/wiki/entities/olivercarroll/"
+  },
+  "OliverCromwell": {
+    "title": "Oliver Cromwell",
+    "url": "/wiki/entities/olivercromwell/"
   },
   "OliverHart": {
     "title": "Oliver Hart",
@@ -72266,6 +72282,10 @@
   "UnitedHealthcare": {
     "title": "UnitedHealthcare / 联合医保",
     "url": "/wiki/entities/unitedhealthcare/"
+  },
+  "UnitedIrishmen": {
+    "title": "United Irishmen",
+    "url": "/wiki/entities/unitedirishmen/"
   },
   "UnitedKingdom": {
     "title": "United Kingdom",

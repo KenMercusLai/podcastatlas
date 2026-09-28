@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "u"
-wiki_total_pages: 11216
+wiki_total_pages: 11218
 wiki_pages:
   - key: "UnitedStatesPresidentialElection1968"
     title: "1968 United States Presidential Election"
@@ -188,6 +188,9 @@ wiki_pages:
   - key: "UnitedAutoWorkers"
     title: "United Auto Workers / UAW"
     url: "/wiki/entities/unitedautoworkers/"
+  - key: "UnitedIrishmen"
+    title: "United Irishmen"
+    url: "/wiki/entities/unitedirishmen/"
   - key: "UnitedKingdom"
     title: "United Kingdom"
     url: "/wiki/entities/unitedkingdom/"

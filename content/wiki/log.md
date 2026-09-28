@@ -24535,3 +24535,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | 336: Ireland: Celts, Conquest and Cromwell (Part 1)
+
+Added source `336-ireland-celts-conquest-and-cromwell-part-1-glt6280042699`; created `OliverCromwell`, `UnitedIrishmen`, `IrishPlantation`, and `ActOfUnion1801`; and updated `Ireland`, `PaulRouse`, `PatrickPearse`, `HenryIIOfEngland`, and the canonical index from their complete bounded source sets. Core synthesis: modern Irish political identities developed through incomplete medieval conquest and intermingling, Reformation failure, plantation and land transfer, security fears, confessional violence, Protestant ascendancy, revolutionary organization, and the Union response to 1798 rather than through one seamless “800 years” story. No settled contradiction was adopted. Medieval unity, plantation and land-transfer estimates, atrocity totals, revolutionary mobilization, Union motives, and later identity continuity remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

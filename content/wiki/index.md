@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [336: Ireland: Celts, Conquest and Cromwell (Part 1)](sources/336-ireland-celts-conquest-and-cromwell-part-1-glt6280042699.md) — The Rest Is History episode on incomplete conquest, cultural intermingling, plantation, confessional identity, Cromwell, 1798, and the Act of Union.
 - [Adderall, Stimulants & Modafinil for ADHD: Short- & Long-Term Effects](sources/adderall-stimulants-modafinil-for-adhd-short-long-term-effects-scim8090698200.md) — Huberman Lab solo episode on ADHD attention networks, stimulant and non-stimulant mechanisms, formulation kinetics, neuroplasticity, and individualized safety boundaries.
 - [VOL.49耳鼻咽喉科｜整天戴耳机感觉听力下降、耳鸣？喜欢采耳？这些习惯容易得中耳炎吗？得了中耳炎怎么办？](sources/vol-49-erbiyanhouke-zhengtian-dai-erji-ganjue-tingli-xiajiang-erming-xihuan-caier-zhexie-xiguan-rongyi-de-zhongeryan-ma-dele-zhongeryan-zenmeban-lhtgv0oqyrvnm_-gsgj8jgatu26z.md) — 这病说来话长 episode on tinnitus, middle-ear disease subtypes, cholesteatoma, perforation, ear cleaning, headphones, and symptom-based care routing.
 - [337: Ireland: Union, Famine and Parnell (Part 2)](sources/337-ireland-union-famine-and-parnell-part-2-glt4375415331.md) — The Rest Is History episode on Catholic emancipation, famine culpability, land reform, constitutional nationalism, Home Rule, and Ulster resistance.
@@ -3113,7 +3114,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [练晶晶 / Lian Jingjing](entities/LianJingjing.md) — Digestive-endoscopy clinician explaining screening, test selection, preparation, anesthesia boundaries, biopsy, and common misconceptions.
 - [上海市东方医院 / Shanghai East Hospital](entities/ShanghaiEastHospital.md) — Source-stated hospital affiliation for 练晶晶 and institutional context for gastrointestinal-endoscopy education.
 - [Easter Rising](entities/EasterRising.md) — 1916 Irish republican rebellion whose military defeat became a political and commemorative turning point.
-- [Patrick Pearse](entities/PatrickPearse.md) — educator, language activist, writer, and revolutionary who proclaimed the republic and accepted surrender.
+- [Patrick Pearse](entities/PatrickPearse.md) — Modern bilingual educator and revolutionary who used deep and invented historical tradition to frame the Easter Rising.
+- [Oliver Cromwell](entities/OliverCromwell.md) — English commander whose 1649 Irish campaign became the symbolic focus of conquest, massacre, and dispossession.
+- [United Irishmen](entities/UnitedIrishmen.md) — Cross-confessional reform and revolutionary organization that sought French aid and helped organize the 1798 rebellion.
 - [James Connolly](entities/JamesConnolly.md) — socialist labour leader and Irish Citizen Army commander linking Dublin poverty to the Rising.
 - [Tom Clarke](entities/TomClarke.md) — veteran Fenian organizer who renewed the IRB and pressed for wartime revolt.
 - [Eoin MacNeill](entities/EoinMacNeill.md) — Irish Volunteers founder whose countermand sharply reduced Easter mobilization.
@@ -5173,7 +5176,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [耳鼻喉吕博士 / Dr. Lv (ENT)](entities/LvDoctorENT.md) — Source-scoped otolaryngology guest in VOL.208 explaining headphone use, ear-canal inflammation, tinnitus, hearing risk, and sudden hearing-change escalation.
 - [Shenzhen People's Hospital / 深圳市人民医院](entities/ShenzhenPeopleHospital.md) — Source-scoped hospital affiliation named for the ENT guest in VOL.208 and the anesthesiology guest in VOL.32 and VOL.33.
 - [Hindu Kush Himalaya](entities/HinduKushHimalaya.md) — Regional mountain system linking warming, glacier retreat, cross-border flood hazards, and Nepal's disaster exposure.
-- [Paul Rouse](entities/PaulRouse.md) — Sports historian guiding the Mussolini World Cup episode's evidence boundaries around football, propaganda, and audience effects.
+- [Paul Rouse](entities/PaulRouse.md) — Historian connecting Irish conquest, identity, famine, nationalism, and Home Rule while resisting simple binaries and unsupported claims.
 - [Vittorio Pozzo](entities/VittorioPozzo.md) — Italy national-team manager whose 1934 and 1938 World Cup wins complicate the fascist propaganda story with real sporting competence.
 - [Italy National Football Team](entities/ItalyNationalFootballTeam.md) — National team whose 1934 and 1938 World Cup victories are read through both football quality and Mussolini-era propaganda.
 - [1934 FIFA World Cup](entities/FIFAWorldCup1934.md) — Italian-hosted tournament staged as a fascist showcase while remaining a real football competition.
@@ -6837,7 +6840,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Empress Matilda](entities/EmpressMatilda.md) — Twelfth-century claimant whose hereditary and oath-backed legitimacy collided with Stephen's coronation and gendered warrior-kingship expectations.
 - [Henry I of England](entities/HenryIOfEngland.md) — Anglo-Norman king whose own legitimacy tactics and loss of William Atheling created Matilda's succession crisis.
 - [Stephen of Blois](entities/StephenOfBlois.md) — Rival claimant who converted speed, treasury control, coronation, and anointing into practical kingship against Matilda.
-- [Henry II of England](entities/HenryIIOfEngland.md) — Matilda's son whose recognition as Stephen's heir turned her failed personal bid into dynastic success.
+- [Henry II of England](entities/HenryIIOfEngland.md) — Matilda's dynastic successor and the king whose 1171 Irish intervention established a royal foothold without completing conquest.
 - [White Ship Disaster](entities/WhiteShipDisaster.md) — 1120 maritime disaster that killed William Atheling and made Matilda Henry I's contested heir.
 - [The Anarchy](entities/AnarchyEnglishCivilWar.md) — Twelfth-century English civil war between Stephen and Matilda over succession legitimacy and royal order.
 - [Benjamin Lay](entities/BenjaminLay.md) — Quaker abolitionist activist whose Barbados experience, boycott discipline, public stunts, and anti-slavery witness anchor episode 316.
@@ -9524,7 +9527,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kumamoto / 熊本](entities/Kumamoto.md) — Japan regional case where TSMC investment turns semiconductor-chain relocation into local supplier, service, wage, and school spillovers.
 - [Howard Marks / 霍华德·马克斯](entities/HowardMarks.md) — Investor and memo writer used by vol.124 as the "nobody knows" uncertainty discipline for information overload and deliberate inaction.
 - [Vietnam](entities/Vietnam.md) — Country used by vol.123 as the reciprocal-tariff formula example and a U.S.-dependent supply-chain pressure point.
-- [Ireland](entities/Ireland.md) — Tax-jurisdiction example in vol.123's globalization tax-optimization explanation.
+- [Ireland](entities/Ireland.md) — Island and political setting shaped by conquest, plantation, Union, famine, nationalism, revolution, partition, and later statehood.
 - [Max Weber](entities/MaxWeber.md) — Sociological reference for vol.123's patrimonial-governance frame.
 - [Midea Group](entities/MideaGroup.md) — Manufacturing-company coda in vol.123's discussion of operating through a more volatile global environment.
 - [FNGU](entities/FNGU.md) — Leveraged ETN case in vol.121, combining concentrated technology exposure with financing cost and issuer-credit risk.
@@ -14337,6 +14340,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Raiders of the Lost Ark](entities/RaidersOfTheLostArk.md) — Adventure film that translates the Ark's dangerous holiness into an ultimate-weapon race against Nazi Germany.
 
 ## Concepts
+- [Irish Plantation](concepts/IrishPlantation.md) — Uneven land-confiscation and settlement system joining colonization, security, profit, religion, and political power.
+- [Act of Union 1801](concepts/ActOfUnion1801.md) — Post-1798 centralizing settlement whose coercive passage and delayed Catholic emancipation created a legitimacy deficit.
 - [Middle-Ear Disease Triage](concepts/MiddleEarDiseaseTriage.md) — Distinguishes middle-ear subtypes, symptom ambiguity, structural risk, and treatment routes.
 - [Ear-Cleaning Trauma Risk](concepts/EarCleaningTraumaRisk.md) — Injury, infection, and itch-cycle risks from repeated or poorly controlled ear cleaning.
 - [Irish Constitutional Nationalism](concepts/IrishConstitutionalNationalism.md) — Strategy linking mass organization, elections, Westminster leverage, land reform, and Home Rule.

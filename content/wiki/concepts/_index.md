@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 8615
+wiki_total_pages: 8617
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -125,6 +125,9 @@ wiki_pages:
   - key: "AcquisitionContractLanguage"
     title: "Acquisition Contract Language"
     url: "/wiki/concepts/acquisitioncontractlanguage/"
+  - key: "ActOfUnion1801"
+    title: "Act of Union 1801"
+    url: "/wiki/concepts/actofunion1801/"
   - key: "ActingOpportunityReadiness"
     title: "Acting Opportunity Readiness"
     url: "/wiki/concepts/actingopportunityreadiness/"
