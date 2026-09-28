@@ -41,7 +41,7 @@ class SearchLayoutTest(unittest.TestCase):
         self.assertNotIn("<pagefind-searchbox", rendered)
         self.assertIn('data-pagefind-ignore="all"', rendered)
         self.assertIn("instance.pagefindOptions.ranking", rendered)
-        self.assertIn("metaWeights: { aliases: 10.0 }", rendered)
+        self.assertIn("metaWeights: { aliases: 50.0 }", rendered)
 
     def test_search_page_has_fixed_user_facing_groups_and_custom_result_context(self):
         layout = ROOT / "layouts" / "search" / "list.html"

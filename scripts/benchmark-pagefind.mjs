@@ -299,7 +299,7 @@ async function main() {
   const localServer = await startPagefindServer(pagefindDir);
   const createInstance = () => pagefindModule.createInstance({
     basePath: localServer.basePath,
-    ranking: { metaWeights: { aliases: 10.0 } },
+    ranking: { metaWeights: { aliases: 50.0 } },
   });
   const coldLatencies = [];
   const warmLatencies = [];
