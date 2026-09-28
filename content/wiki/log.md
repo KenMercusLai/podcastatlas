@@ -24918,3 +24918,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | VOL.29泌尿外科｜认识泌尿系统和容易挂错号的泌尿外科
+
+Added source `vol-29-miniao-waike-renshi-miniao-xitong-he-rongyi-gua-cuo-hao-de-miniao-waike-llxb263cooyirukwcezzhysm57va`; created `UrologyScopeAndDepartmentRouting`, `HabitualUrineRetentionRisk`, and `LivingKidneyDonationTransplantBoundary`; and updated `ZhaoDoctorUrology`, `UrologicalSymptomTriage`, and the canonical index from their complete bounded source sets. Core synthesis: urology is a sex-inclusive specialty routed by organs and symptom patterns; habitual urine holding is not bladder strengthening; and living kidney donation requires medical, compatibility, ethical, and formal-system safeguards rather than reassurance from single-kidney compensation alone. No settled contradiction was adopted. Nephron and bladder-capacity estimates, adrenal-hormone details, donor compensation, transplant compatibility, and urine-retention mechanisms remain source-scoped public education rather than individualized medical or transplant guidance. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

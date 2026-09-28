@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 8720
+wiki_total_pages: 8723
 wiki_pages:
   - key: "LaborIllusion"
     title: "Labor Illusion"
@@ -530,6 +530,9 @@ wiki_pages:
   - key: "LivestreamPersonaLabor"
     title: "Livestream Persona Labor / 直播人设劳动"
     url: "/wiki/concepts/livestreampersonalabor/"
+  - key: "LivingKidneyDonationTransplantBoundary"
+    title: "Living Kidney Donation and Transplant Boundary / 活体肾捐献与移植边界"
+    url: "/wiki/concepts/livingkidneydonationtransplantboundary/"
   - key: "LivingNeuronComputing"
     title: "Living Neuron Computing"
     url: "/wiki/concepts/livingneuroncomputing/"

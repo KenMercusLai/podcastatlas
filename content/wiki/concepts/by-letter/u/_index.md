@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "u"
-wiki_total_pages: 8720
+wiki_total_pages: 8723
 wiki_pages:
   - key: "US2025ExpectationGaps"
     title: "U.S. 2025 Expectation Gaps"
@@ -266,6 +266,9 @@ wiki_pages:
   - key: "UrologicalSymptomTriage"
     title: "Urological Symptom Triage / 泌尿症状分层判断"
     url: "/wiki/concepts/urologicalsymptomtriage/"
+  - key: "UrologyScopeAndDepartmentRouting"
+    title: "Urology Scope and Department Routing / 泌尿外科范围与挂号分流"
+    url: "/wiki/concepts/urologyscopeanddepartmentrouting/"
   - key: "UsageBasedVerticalSaaSPricing"
     title: "Usage-Based Vertical SaaS Pricing"
     url: "/wiki/concepts/usagebasedverticalsaaspricing/"

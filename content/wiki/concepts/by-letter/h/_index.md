@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 8720
+wiki_total_pages: 8723
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -17,6 +17,9 @@ wiki_pages:
   - key: "HabitPositiveFeedback"
     title: "Habit Positive Feedback / 习惯正反馈"
     url: "/wiki/concepts/habitpositivefeedback/"
+  - key: "HabitualUrineRetentionRisk"
+    title: "Habitual Urine Retention Risk / 长期憋尿风险"
+    url: "/wiki/concepts/habitualurineretentionrisk/"
   - key: "HabsburgFederalReform"
     title: "Habsburg Federal Reform"
     url: "/wiki/concepts/habsburgfederalreform/"
