@@ -24587,3 +24587,11 @@ Added source `334-athens-and-the-birth-of-democracy-glt2496707123`; created `Cle
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | Seventh Generation: Alan Newman and Jeffrey Hollender. A Partnership that Flourished—until it Failed. (2021)
+
+Added source `seventh-generation-alan-newman-and-jeffrey-hollender-a-partnership-that-flourished-until-it-failed-2021-cf1c5327-05ed-44de-b54e-e2d81fb740fa`; created `MagicHatBrewingCompany` and `FounderBoardRelationshipMaintenance`; and updated `AlanNewman`, `JeffreyHollender`, `SeventhGeneration`, `CoFounderRelationshipMaintenance`, `FounderAgreementDocumentation`, and the canonical index from their complete bounded source sets. Core synthesis: complementary skills and shared values helped create and scale Seventh Generation, but ambiguous sabbatical expectations, months without communication, fixed conflict narratives, and weak board relationships made both founder partnerships and founder tenure fragile. No settled contradiction was adopted. Founder motives, board reasoning, company figures, acquisition value, and the perspectives of employees, investors, directors, and later executives remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

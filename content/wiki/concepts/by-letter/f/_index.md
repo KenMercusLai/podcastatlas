@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 8633
+wiki_total_pages: 8634
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1010,6 +1010,9 @@ wiki_pages:
   - key: "FounderWorkBoundaries"
     title: "Founder Work Boundaries"
     url: "/wiki/concepts/founderworkboundaries/"
+  - key: "FounderBoardRelationshipMaintenance"
+    title: "Founder-Board Relationship Maintenance"
+    url: "/wiki/concepts/founderboardrelationshipmaintenance/"
   - key: "FounderInvestorLearning"
     title: "Founder-Investor Learning"
     url: "/wiki/concepts/founderinvestorlearning/"

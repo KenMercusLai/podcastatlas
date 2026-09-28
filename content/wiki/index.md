@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Seventh Generation: Alan Newman and Jeffrey Hollender. A Partnership that Flourished—until it Failed. (2021)](sources/seventh-generation-alan-newman-and-jeffrey-hollender-a-partnership-that-flourished-until-it-failed-2021-cf1c5327-05ed-44de-b54e-e2d81fb740fa.md) — How I Built This episode on Seventh Generation's mission-led growth, founder breakup, wholesale transition, parallel board ousters, and partnership lessons.
 - [333: The Republic of Britain: Life under Cromwell](sources/333-the-republic-of-britain-life-under-cromwell-glt3360112790.md) — The Rest Is History episode on the English Commonwealth's unsettled constitution, Cromwellian rule, Irish dispossession, succession failure, and contingent Restoration.
 - [The Science of Psychedelics for Mental Health | Dr. Robin Carhart-Harris](sources/the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019.md) — Huberman Lab interview on classic psychedelics, subjective experience, brain-network flexibility, integration, mental-health trials, relapse, and clinical safeguards.
 - [VOL.47食品与营养｜关于免疫力和补充剂的误区你中了几条？](sources/vol-47-shipin-yu-yingyang-guanyu-mianyili-he-buchongji-de-wuqu-ni-zhongle-jitiao-lruch-jc9a_r3r1qmdo2ojlxz2mk.md) — 这病说来话长 episode on immune homeostasis, food-first nutrition, targeted supplement need, and diet or dosing boundaries.
@@ -13897,7 +13898,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Adao](entities/Adao.md) — MiniMax Agent chief architect discussing agent harnesses, multi-agent cross-checking, and model-harness feedback loops.
 - [Agan](entities/Agan.md) — Rolling AI partner discussing enterprise AI deployment, FDE work, and AI-era role changes.
 - [Alex Berman](entities/AlexBerman.md) — LinkedIn influencer partner associated with Tapio's distribution strategy.
-- [Alan Newman](entities/AlanNewman.md) — Seventh Generation co-founder whose founder conflict with Jeffrey Hollender is revisited in the Advice Line context.
+- [Alan Newman](entities/AlanNewman.md) — Seventh Generation and Magic Hat co-founder connecting operations, benefit-led environmental branding, founder agreements, and controlled growth.
+- [Magic Hat Brewing Company](entities/MagicHatBrewingCompany.md) — Vermont craft brewer used as Alan Newman's later comparison for clearer partner authority and more deliberate growth.
 - [Aleph Alpha](entities/AlephAlpha.md) — German AI company referenced as part of the episode's discussion of European AI visibility and constraints.
 - [Alibaba](entities/Alibaba.md) — Large technology company discussed through Qwen, consumer assistant strategy, cloud infrastructure, embodied AI context, and Alibaba Health's online-pharmacy route.
 - [Amazon](entities/Amazon.md) — Cloud and AI infrastructure buyer discussed through Nvidia demand, hyperscaler capex assumptions, EP77's politically sensitive Melania Trump documentary deal, and data-center continuity risk.
@@ -13994,7 +13996,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jesse Livermore](entities/JesseLivermore.md) — Speculator and trend-following figure used to explain trading discipline, repeated bankruptcy, and market psychology.
 - [Jim Simons](entities/JimSimons.md) — Mathematician and Renaissance Technologies founder used to explain quantitative investing, risk control, and ordinary-investor limits.
 - [JetBrains](entities/JetBrains.md) — Incumbent IDE company referenced as slow to respond to the AI coding workflow shift.
-- [Jeffrey Hollender](entities/JeffreyHollender.md) — Seventh Generation co-founder advising mission-driven consumer founders on purpose, messaging, trial, and growth pace.
+- [Jeffrey Hollender](entities/JeffreyHollender.md) — Seventh Generation co-founder and former CEO connecting responsible business, wholesale scaling, founder conflict, board alignment, and later founder advice.
 - [JK Molina](entities/JKMolina.md) — Influencer distribution partner who helped scale Tweet Hunter.
 - [JPMorgan Chase](entities/JPMorganChase.md) — Bank and market-data reference in EP57, used for retail-flow evidence and financial-sector warning signals.
 - [John Icabone](entities/JohnIcabone.md) — Justin Gold's roommate and early Justin's Nut Butter production helper.
@@ -14100,7 +14102,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Same.Dev](entities/SameDev.md) — Jiang Yang's prior AI-assisted web UI generation project mentioned as Paperboy founder background.
 - [SAP](entities/SAP.md) — German enterprise software company used as both a Germany software reference and an ERP dependency in ransomware business-continuity analysis.
 - [Samsung](entities/Samsung.md) — Android-era smartphone maker that captured much of the post-iPhone non-Apple handset opportunity.
-- [Seventh Generation](entities/SeventhGeneration.md) — Responsible household-products company used as Jeffrey Hollender's purpose-driven business case.
+- [Seventh Generation](entities/SeventhGeneration.md) — Responsible household-products company connecting environmental customer value, wholesale transition, growth fragility, and founder governance.
 - [Share AI](entities/ShareAI.md) — Agent-infrastructure company behind Learn Claude Code and the K-series tooling discussed by Lai Xinlu.
 - [Shanghai Stock Exchange](entities/ShanghaiStockExchange.md) — Institutional starting point for the early A-share market and its first scarcity-driven bull-market memory.
 - [Shanbin](entities/Shanbin.md) — Xiaohongshu community technology lead and organizer framing the hackathon around creator energy and AI-era age.
@@ -21241,7 +21243,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Pure Rationality Trap](concepts/PureRationalityTrap.md) — Danger that reason purified of bodily life, affection, and mercy becomes inhuman, shown through the Houyhnhnms.
 - [Fixed Human Nature Politics](concepts/FixedHumanNaturePolitics.md) — Political-theory worry that people get treated as permanently defined by one bad nature, species category, class, or identity.
 - [Author-Character Separation](concepts/AuthorCharacterSeparation.md) — Interpretive discipline of not treating a fictional narrator's claims or collapse as the author's direct doctrine.
-- [Founder Agreement Documentation](concepts/FounderAgreementDocumentation.md) — Discipline of writing equity, role, authority, cash contribution, and company-formation promises before founder trust is tested by pressure.
+- [Founder Agreement Documentation](concepts/FounderAgreementDocumentation.md) — Discipline of writing equity, role, authority, cash, leave, return, and crisis expectations before founder trust is tested by pressure.
+- [Founder-Board Relationship Maintenance](concepts/FounderBoardRelationshipMaintenance.md) — Continuing alignment work that makes founder role, strategy, mission, capital, and executive conflict legible to directors before crisis.
 - [Fintech Regulatory Window](concepts/FintechRegulatoryWindow.md) — Period when rails, regulators, capital, and incumbent distrust align enough for new financial startups to enter banking or payments markets.
 - [In-House Banking Software](concepts/InHouseBankingSoftware.md) — Building banking, fraud, customer, and operational systems internally so product experience and risk response can move faster.
 - [Banking Product Delight](concepts/BankingProductDelight.md) — User trust and enthusiasm created when financial products make everyday money activity clearer, faster, and more human.
@@ -21636,7 +21639,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Builder-Centered Institutions](concepts/BuilderCenteredInstitutions.md) — Institutional pattern where capital, status, advice, and community are organized around people actively building products and companies.
 - [Founder Honesty](concepts/FounderHonesty.md) — Founder-support stance that favors candid, trust-based critique over flattering founders or disappearing when problems appear.
 - [Co-Founder Conflict](concepts/CoFounderConflict.md) — Startup risk where unresolved founder or early-team disagreement damages product response, leadership, relationships, and founder health.
-- [Co-Founder Relationship Maintenance](concepts/CoFounderRelationshipMaintenance.md) — Operating habit of preserving founder trust through role clarity, recurring feedback, gratitude, apology, and ego control.
+- [Co-Founder Relationship Maintenance](concepts/CoFounderRelationshipMaintenance.md) — Repeated work of preserving founder trust through role clarity, written expectations, candid feedback, gratitude, apology, and crisis communication.
 - [Startup Timing Windows](concepts/StartupTimingWindows.md) — Temporary openings created by platform shifts, market conditions, or workflow gaps that can create and later close startup opportunities.
 - [Startup Community Infrastructure](concepts/StartupCommunityInfrastructure.md) — Software, events, lists, rituals, and trust systems that let founder communities keep working as they scale.
 - [Low-Frequency Low-Value Product](concepts/LowFrequencyLowValueProduct.md) — Product/business-model failure mode where large adoption still fails to monetize because the core action is too occasional and not valuable enough per use.

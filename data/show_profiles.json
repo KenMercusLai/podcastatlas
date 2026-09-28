@@ -421,13 +421,19 @@
       "earliest_episode_date": "2026-05-25",
       "latest_episode_date": "2026-09-28",
       "latest_episode_file": "Seventh Generation： Alan Newman and Jeffrey Hollender. A Partnership that Flourished—until it Failed. (2021)  [cf1c5327-05ed-44de-b54e-e2d81fb740fa].md",
-      "source_note_count": 35,
-      "topic_matched_source_note_count": 3,
+      "source_note_count": 36,
+      "topic_matched_source_note_count": 4,
       "topics": [
         {
           "key": "economics",
           "label": "Economics",
           "url": "/topics/economics/",
+          "source_note_count": 1
+        },
+        {
+          "key": "politics",
+          "label": "Politics",
+          "url": "/topics/politics/",
           "source_note_count": 1
         },
         {
@@ -464,13 +470,20 @@
           "url": "/wiki/entities/target/",
           "kind": "organization",
           "episode_count": 3
+        },
+        {
+          "key": "SeventhGeneration",
+          "title": "Seventh Generation",
+          "url": "/wiki/entities/seventhgeneration/",
+          "kind": "organization",
+          "episode_count": 2
         }
       ],
       "start_here_episode_files": [
         "Toast： Aman Narang. How a Long Wait for the Dinner Check Launched a $2 Billion Business. [6eca81bc-b0e1-47e2-a87d-f3b243e76a97].md",
+        "Seventh Generation： Alan Newman and Jeffrey Hollender. A Partnership that Flourished—until it Failed. (2021)  [cf1c5327-05ed-44de-b54e-e2d81fb740fa].md",
         "Sweetwater： Chuck Surack. How a Customer Service Strategy Built a Billion Dollar Online Pro Audio and Music Company.  [50c2b5e3-3bc3-4039-a92d-26228b8ac908].md",
-        "Catalina Crunch： Krishna Kaliannan. From Homemade Keto Cocoa Puffs to Breakfast Aisle Breakthrough [5aa86015-e7c2-448e-a84e-d1b34d2fcac2].md",
-        "Seventh Generation： Alan Newman and Jeffrey Hollender. A Partnership that Flourished—until it Failed. (2021)  [cf1c5327-05ed-44de-b54e-e2d81fb740fa].md"
+        "Catalina Crunch： Krishna Kaliannan. From Homemade Keto Cocoa Puffs to Breakfast Aisle Breakthrough [5aa86015-e7c2-448e-a84e-d1b34d2fcac2].md"
       ]
     },
     "Huberman Lab": {

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 11238
+wiki_total_pages: 11239
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -86,6 +86,9 @@ wiki_pages:
   - key: "MagicJack"
     title: "Magic / 杰克"
     url: "/wiki/entities/magicjack/"
+  - key: "MagicHatBrewingCompany"
+    title: "Magic Hat Brewing Company"
+    url: "/wiki/entities/magichatbrewingcompany/"
   - key: "MagnaCarta"
     title: "Magna Carta / 大宪章"
     url: "/wiki/entities/magnacarta/"

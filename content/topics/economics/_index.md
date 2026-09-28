@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2127
+topic_total_pages: 2128
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1288,6 +1288,9 @@ topic_concepts:
   - key: "FounderUserObsession"
     title: "Founder User Obsession"
     url: "/wiki/concepts/founderuserobsession/"
+  - key: "FounderBoardRelationshipMaintenance"
+    title: "Founder-Board Relationship Maintenance"
+    url: "/wiki/concepts/founderboardrelationshipmaintenance/"
   - key: "FounderLedFunctionalOrganization"
     title: "Founder-Led Functional Organization"
     url: "/wiki/concepts/founderledfunctionalorganization/"

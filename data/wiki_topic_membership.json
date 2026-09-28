@@ -30809,6 +30809,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "FounderBoardRelationshipMaintenance": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "FounderCashFlowConstraint": [
     {
       "key": "economics",
@@ -89943,6 +89955,13 @@
       "label": "Economics",
       "url": "/topics/economics/"
     },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "seventh-generation-alan-newman-and-jeffrey-hollender-a-partnership-that-flourished-until-it-failed-2021-cf1c5327-05ed-44de-b54e-e2d81fb740fa": [
     {
       "key": "politics",
       "label": "Politics",

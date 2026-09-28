@@ -7386,6 +7386,29 @@
       "updated": "2026-09-14",
       "url": "/wiki/entities/alancowen/"
     },
+    "AlanNewman": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Advice Line with Jeffrey Hollender of Seventh Generation [f8ce2410-1176-47d9-be44-03f9fa945714].md",
+          "key": "advice-line-with-jeffrey-hollender-of-seventh-generation-f8ce2410-1176-47d9-be44-03f9fa945714",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Jeffrey Hollender of Seventh Generation",
+          "url": "/wiki/sources/advice-line-with-jeffrey-hollender-of-seventh-generation-f8ce2410-1176-47d9-be44-03f9fa945714/"
+        },
+        {
+          "episode_file": "Seventh Generation： Alan Newman and Jeffrey Hollender. A Partnership that Flourished—until it Failed. (2021)  [cf1c5327-05ed-44de-b54e-e2d81fb740fa].md",
+          "key": "seventh-generation-alan-newman-and-jeffrey-hollender-a-partnership-that-flourished-until-it-failed-2021-cf1c5327-05ed-44de-b54e-e2d81fb740fa",
+          "show": "How I Built This with Guy Raz",
+          "title": "Seventh Generation: Alan Newman and Jeffrey Hollender. A Partnership that Flourished—until it Failed. (2021)",
+          "url": "/wiki/sources/seventh-generation-alan-newman-and-jeffrey-hollender-a-partnership-that-flourished-until-it-failed-2021-cf1c5327-05ed-44de-b54e-e2d81fb740fa/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/alannewman/"
+    },
     "AlbertKesselring": {
       "episode_count": 1,
       "show_count": 1,
@@ -31183,6 +31206,29 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/cocom/"
+    },
+    "CoFounderRelationshipMaintenance": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "TSR-S4-Gusto-v3 [TSR-S4-Gusto-v3].md",
+          "key": "tsr-s4-gusto-v3-tsr-s4-gusto-v3",
+          "show": "The Social Radars",
+          "title": "Gusto Co-Founders: Josh Reeves, Edward Kim & Tomer London",
+          "url": "/wiki/sources/tsr-s4-gusto-v3-tsr-s4-gusto-v3/"
+        },
+        {
+          "episode_file": "Seventh Generation： Alan Newman and Jeffrey Hollender. A Partnership that Flourished—until it Failed. (2021)  [cf1c5327-05ed-44de-b54e-e2d81fb740fa].md",
+          "key": "seventh-generation-alan-newman-and-jeffrey-hollender-a-partnership-that-flourished-until-it-failed-2021-cf1c5327-05ed-44de-b54e-e2d81fb740fa",
+          "show": "How I Built This with Guy Raz",
+          "title": "Seventh Generation: Alan Newman and Jeffrey Hollender. A Partnership that Flourished—until it Failed. (2021)",
+          "url": "/wiki/sources/seventh-generation-alan-newman-and-jeffrey-hollender-a-partnership-that-flourished-until-it-failed-2021-cf1c5327-05ed-44de-b54e-e2d81fb740fa/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/cofounderrelationshipmaintenance/"
     },
     "CoalitionFractureExploitation": {
       "episode_count": 6,
@@ -59994,6 +60040,45 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/foundationalimmunehealthframework/"
     },
+    "FounderAgreementDocumentation": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "TSR-S5-TomBlomfield-v2-Audio [TSR-S5-TomBlomfield-v2-Audio].md",
+          "key": "tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio",
+          "show": "The Social Radars",
+          "title": "Tom Blomfield on Monzo, YC, and Founder Lessons",
+          "url": "/wiki/sources/tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio/"
+        },
+        {
+          "episode_file": "Seventh Generation： Alan Newman and Jeffrey Hollender. A Partnership that Flourished—until it Failed. (2021)  [cf1c5327-05ed-44de-b54e-e2d81fb740fa].md",
+          "key": "seventh-generation-alan-newman-and-jeffrey-hollender-a-partnership-that-flourished-until-it-failed-2021-cf1c5327-05ed-44de-b54e-e2d81fb740fa",
+          "show": "How I Built This with Guy Raz",
+          "title": "Seventh Generation: Alan Newman and Jeffrey Hollender. A Partnership that Flourished—until it Failed. (2021)",
+          "url": "/wiki/sources/seventh-generation-alan-newman-and-jeffrey-hollender-a-partnership-that-flourished-until-it-failed-2021-cf1c5327-05ed-44de-b54e-e2d81fb740fa/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/founderagreementdocumentation/"
+    },
+    "FounderBoardRelationshipMaintenance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Seventh Generation： Alan Newman and Jeffrey Hollender. A Partnership that Flourished—until it Failed. (2021)  [cf1c5327-05ed-44de-b54e-e2d81fb740fa].md",
+          "key": "seventh-generation-alan-newman-and-jeffrey-hollender-a-partnership-that-flourished-until-it-failed-2021-cf1c5327-05ed-44de-b54e-e2d81fb740fa",
+          "show": "How I Built This with Guy Raz",
+          "title": "Seventh Generation: Alan Newman and Jeffrey Hollender. A Partnership that Flourished—until it Failed. (2021)",
+          "url": "/wiki/sources/seventh-generation-alan-newman-and-jeffrey-hollender-a-partnership-that-flourished-until-it-failed-2021-cf1c5327-05ed-44de-b54e-e2d81fb740fa/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/founderboardrelationshipmaintenance/"
+    },
     "FounderDelegationDiscipline": {
       "episode_count": 11,
       "show_count": 3,
@@ -87291,6 +87376,36 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/jeffreygoldberg/"
     },
+    "JeffreyHollender": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "Advice Line： ＂Strategy Sessions＂ [4962a0d6-36bc-4797-8002-3bd8b748a89a].md",
+          "key": "advice-line-strategy-sessions-4962a0d6-36bc-4797-8002-3bd8b748a89a",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line: \"Strategy Sessions\"",
+          "url": "/wiki/sources/advice-line-strategy-sessions-4962a0d6-36bc-4797-8002-3bd8b748a89a/"
+        },
+        {
+          "episode_file": "Advice Line with Jeffrey Hollender of Seventh Generation [f8ce2410-1176-47d9-be44-03f9fa945714].md",
+          "key": "advice-line-with-jeffrey-hollender-of-seventh-generation-f8ce2410-1176-47d9-be44-03f9fa945714",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Jeffrey Hollender of Seventh Generation",
+          "url": "/wiki/sources/advice-line-with-jeffrey-hollender-of-seventh-generation-f8ce2410-1176-47d9-be44-03f9fa945714/"
+        },
+        {
+          "episode_file": "Seventh Generation： Alan Newman and Jeffrey Hollender. A Partnership that Flourished—until it Failed. (2021)  [cf1c5327-05ed-44de-b54e-e2d81fb740fa].md",
+          "key": "seventh-generation-alan-newman-and-jeffrey-hollender-a-partnership-that-flourished-until-it-failed-2021-cf1c5327-05ed-44de-b54e-e2d81fb740fa",
+          "show": "How I Built This with Guy Raz",
+          "title": "Seventh Generation: Alan Newman and Jeffrey Hollender. A Partnership that Flourished—until it Failed. (2021)",
+          "url": "/wiki/sources/seventh-generation-alan-newman-and-jeffrey-hollender-a-partnership-that-flourished-until-it-failed-2021-cf1c5327-05ed-44de-b54e-e2d81fb740fa/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/jeffreyhollender/"
+    },
     "JenniferKing": {
       "episode_count": 1,
       "show_count": 1,
@@ -106433,6 +106548,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/concepts/magicattentionmemorydesign/"
+    },
+    "MagicHatBrewingCompany": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Seventh Generation： Alan Newman and Jeffrey Hollender. A Partnership that Flourished—until it Failed. (2021)  [cf1c5327-05ed-44de-b54e-e2d81fb740fa].md",
+          "key": "seventh-generation-alan-newman-and-jeffrey-hollender-a-partnership-that-flourished-until-it-failed-2021-cf1c5327-05ed-44de-b54e-e2d81fb740fa",
+          "show": "How I Built This with Guy Raz",
+          "title": "Seventh Generation: Alan Newman and Jeffrey Hollender. A Partnership that Flourished—until it Failed. (2021)",
+          "url": "/wiki/sources/seventh-generation-alan-newman-and-jeffrey-hollender-a-partnership-that-flourished-until-it-failed-2021-cf1c5327-05ed-44de-b54e-e2d81fb740fa/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/magichatbrewingcompany/"
     },
     "MagneticResonanceSafetyAndAppropriateness": {
       "episode_count": 2,
@@ -144754,6 +144885,29 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/sevenyearswar/"
+    },
+    "SeventhGeneration": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Advice Line with Jeffrey Hollender of Seventh Generation [f8ce2410-1176-47d9-be44-03f9fa945714].md",
+          "key": "advice-line-with-jeffrey-hollender-of-seventh-generation-f8ce2410-1176-47d9-be44-03f9fa945714",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Jeffrey Hollender of Seventh Generation",
+          "url": "/wiki/sources/advice-line-with-jeffrey-hollender-of-seventh-generation-f8ce2410-1176-47d9-be44-03f9fa945714/"
+        },
+        {
+          "episode_file": "Seventh Generation： Alan Newman and Jeffrey Hollender. A Partnership that Flourished—until it Failed. (2021)  [cf1c5327-05ed-44de-b54e-e2d81fb740fa].md",
+          "key": "seventh-generation-alan-newman-and-jeffrey-hollender-a-partnership-that-flourished-until-it-failed-2021-cf1c5327-05ed-44de-b54e-e2d81fb740fa",
+          "show": "How I Built This with Guy Raz",
+          "title": "Seventh Generation: Alan Newman and Jeffrey Hollender. A Partnership that Flourished—until it Failed. (2021)",
+          "url": "/wiki/sources/seventh-generation-alan-newman-and-jeffrey-hollender-a-partnership-that-flourished-until-it-failed-2021-cf1c5327-05ed-44de-b54e-e2d81fb740fa/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/seventhgeneration/"
     },
     "SeventyMillimeterFilmProjection": {
       "episode_count": 1,

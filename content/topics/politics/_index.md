@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2792
+topic_total_pages: 2794
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1477,6 +1477,9 @@ topic_concepts:
   - key: "FounderSuccession"
     title: "Founder Succession"
     url: "/wiki/concepts/foundersuccession/"
+  - key: "FounderBoardRelationshipMaintenance"
+    title: "Founder-Board Relationship Maintenance"
+    url: "/wiki/concepts/founderboardrelationshipmaintenance/"
   - key: "FourthAmendmentDigitalPrivacy"
     title: "Fourth Amendment Digital Privacy"
     url: "/wiki/concepts/fourthamendmentdigitalprivacy/"
@@ -7815,6 +7818,9 @@ topic_sources:
   - key: "seven-allegedly-fake-chanel-bags-vs-the-realreal"
     title: "Seven allegedly fake Chanel bags vs The RealReal"
     url: "/wiki/sources/seven-allegedly-fake-chanel-bags-vs-the-realreal/"
+  - key: "seventh-generation-alan-newman-and-jeffrey-hollender-a-partnership-that-flourished-until-it-failed-2021-cf1c5327-05ed-44de-b54e-e2d81fb740fa"
+    title: "Seventh Generation: Alan Newman and Jeffrey Hollender. A Partnership that Flourished—until it Failed. (2021)"
+    url: "/wiki/sources/seventh-generation-alan-newman-and-jeffrey-hollender-a-partnership-that-flourished-until-it-failed-2021-cf1c5327-05ed-44de-b54e-e2d81fb740fa/"
   - key: "snap-judgement-japan-pms-electoral-landslide-6989c0fc61be18927058bb7d"
     title: "Snap judgement: Japan PM’s electoral landslide"
     url: "/wiki/sources/snap-judgement-japan-pms-electoral-landslide-6989c0fc61be18927058bb7d/"
