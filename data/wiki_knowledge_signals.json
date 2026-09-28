@@ -10390,9 +10390,9 @@
       "url": "/wiki/entities/andyburnham/"
     },
     "AndyGalpin": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM5641095924 [SCIM5641095924].md",
@@ -10421,6 +10421,13 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Andy Galpin: Optimal Nutrition & Supplementation for Fitness",
           "url": "/wiki/sources/guest-series-dr-andy-galpin-optimal-nutrition-supplementation-for-fitness-scim1024405440/"
+        },
+        {
+          "episode_file": "SCIM4488298115 [SCIM4488298115].md",
+          "key": "guest-series-dr-andy-galpin-maximize-recovery-to-achieve-fitness-performance-goals-scim4488298115",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Andy Galpin: Maximize Recovery to Achieve Fitness & Performance Goals",
+          "url": "/wiki/sources/guest-series-dr-andy-galpin-maximize-recovery-to-achieve-fitness-performance-goals-scim4488298115/"
         }
       ],
       "updated": "2026-09-29",
@@ -55656,9 +55663,9 @@
       "url": "/wiki/concepts/exercisepillarsforlongevity/"
     },
     "ExerciseRecoveryReadiness": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM4036424126 [SCIM4036424126].md",
@@ -55694,6 +55701,13 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Andy Galpin: Optimal Nutrition & Supplementation for Fitness",
           "url": "/wiki/sources/guest-series-dr-andy-galpin-optimal-nutrition-supplementation-for-fitness-scim1024405440/"
+        },
+        {
+          "episode_file": "SCIM4488298115 [SCIM4488298115].md",
+          "key": "guest-series-dr-andy-galpin-maximize-recovery-to-achieve-fitness-performance-goals-scim4488298115",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Andy Galpin: Maximize Recovery to Achieve Fitness & Performance Goals",
+          "url": "/wiki/sources/guest-series-dr-andy-galpin-maximize-recovery-to-achieve-fitness-performance-goals-scim4488298115/"
         }
       ],
       "updated": "2026-09-29",
@@ -140102,6 +140116,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/recoverydistresstolerance/"
     },
+    "RecoveryMonitoringTriad": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4488298115 [SCIM4488298115].md",
+          "key": "guest-series-dr-andy-galpin-maximize-recovery-to-achieve-fitness-performance-goals-scim4488298115",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Andy Galpin: Maximize Recovery to Achieve Fitness & Performance Goals",
+          "url": "/wiki/sources/guest-series-dr-andy-galpin-maximize-recovery-to-achieve-fitness-performance-goals-scim4488298115/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/recoverymonitoringtriad/"
+    },
     "RecurrenceFreeSurvivalEndpoint": {
       "episode_count": 1,
       "show_count": 1,
@@ -155657,6 +155687,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/sorethroatescalation/"
     },
+    "SorenessRecoveryBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4488298115 [SCIM4488298115].md",
+          "key": "guest-series-dr-andy-galpin-maximize-recovery-to-achieve-fitness-performance-goals-scim4488298115",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Andy Galpin: Maximize Recovery to Achieve Fitness & Performance Goals",
+          "url": "/wiki/sources/guest-series-dr-andy-galpin-maximize-recovery-to-achieve-fitness-performance-goals-scim4488298115/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/sorenessrecoveryboundary/"
+    },
     "SoundBasedStateRegulation": {
       "episode_count": 3,
       "show_count": 1,
@@ -167945,6 +167991,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/trainingfueltimingcontext/"
+    },
+    "TrainingStressRecoveryContinuum": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4488298115 [SCIM4488298115].md",
+          "key": "guest-series-dr-andy-galpin-maximize-recovery-to-achieve-fitness-performance-goals-scim4488298115",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Andy Galpin: Maximize Recovery to Achieve Fitness & Performance Goals",
+          "url": "/wiki/sources/guest-series-dr-andy-galpin-maximize-recovery-to-achieve-fitness-performance-goals-scim4488298115/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/trainingstressrecoverycontinuum/"
     },
     "TransEurasianMigrationCascade": {
       "episode_count": 2,

@@ -25079,3 +25079,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | GUEST SERIES | Dr. Andy Galpin: Maximize Recovery to Achieve Fitness & Performance Goals
+
+Added source `guest-series-dr-andy-galpin-maximize-recovery-to-achieve-fitness-performance-goals-scim4488298115`; created `TrainingStressRecoveryContinuum`, `SorenessRecoveryBoundary`, and `RecoveryMonitoringTriad`; and updated `AndyGalpin`, `ExerciseRecoveryReadiness`, and the canonical index from their complete bounded source sets. Core synthesis: recovery converts training stress into adaptation; soreness relief does not prove tissue repair; acute overload and productive functional overreaching differ from non-functional overreaching and rare true overtraining; and recovery decisions should combine standardized personal trends in performance, physiology, and symptoms rather than one wearable score. No settled contradiction was adopted. Thermal doses, HRV windows, breathing intervals, biomarkers, hormone and supplement claims, and overtraining interpretations remain source-scoped public education rather than individualized medical or training guidance. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

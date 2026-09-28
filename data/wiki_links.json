@@ -59755,6 +59755,10 @@
     "title": "Recovery Distress Tolerance",
     "url": "/wiki/concepts/recoverydistresstolerance/"
   },
+  "RecoveryMonitoringTriad": {
+    "title": "Recovery Monitoring Triad",
+    "url": "/wiki/concepts/recoverymonitoringtriad/"
+  },
   "RecoveryRangePayloadTradeoff": {
     "title": "Recovery Range Payload Tradeoff",
     "url": "/wiki/concepts/recoveryrangepayloadtradeoff/"
@@ -66427,6 +66431,10 @@
     "title": "咽喉疼痛升级就医 / Sore-Throat Escalation",
     "url": "/wiki/concepts/sorethroatescalation/"
   },
+  "SorenessRecoveryBoundary": {
+    "title": "Soreness-Recovery Boundary",
+    "url": "/wiki/concepts/sorenessrecoveryboundary/"
+  },
   "Sothebys": {
     "title": "Sotheby's",
     "url": "/wiki/entities/sothebys/"
@@ -72222,6 +72230,10 @@
   "TrainingFuelTimingContext": {
     "title": "Training Fuel Timing Context",
     "url": "/wiki/concepts/trainingfueltimingcontext/"
+  },
+  "TrainingStressRecoveryContinuum": {
+    "title": "Training Stress-Recovery Continuum",
+    "url": "/wiki/concepts/trainingstressrecoverycontinuum/"
   },
   "TransEurasianMigrationCascade": {
     "title": "欧亚迁徙连锁 / Trans-Eurasian Migration Cascade",
@@ -84906,6 +84918,10 @@
   "guanyu-ai-kaiyuan-shangyehua-yu-quanqiuhua-de-jingyan-jiaoxun-he-fangfalun-duitan-pingcap-cto-dongxu-ljw8va0evobhz4ojzrulqzjvxw5": {
     "title": "关于 AI、开源、商业化与全球化的经验、教训和方法论 | 对谈 PingCAP CTO 东旭",
     "url": "/wiki/sources/guanyu-ai-kaiyuan-shangyehua-yu-quanqiuhua-de-jingyan-jiaoxun-he-fangfalun-duitan-pingcap-cto-dongxu-ljw8va0evobhz4ojzrulqzjvxw5/"
+  },
+  "guest-series-dr-andy-galpin-maximize-recovery-to-achieve-fitness-performance-goals-scim4488298115": {
+    "title": "GUEST SERIES | Dr. Andy Galpin: Maximize Recovery to Achieve Fitness & Performance Goals",
+    "url": "/wiki/sources/guest-series-dr-andy-galpin-maximize-recovery-to-achieve-fitness-performance-goals-scim4488298115/"
   },
   "guest-series-dr-andy-galpin-optimal-nutrition-supplementation-for-fitness-scim1024405440": {
     "title": "GUEST SERIES | Dr. Andy Galpin: Optimal Nutrition & Supplementation for Fitness",

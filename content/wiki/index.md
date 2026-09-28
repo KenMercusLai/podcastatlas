@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [GUEST SERIES | Dr. Andy Galpin: Maximize Recovery to Achieve Fitness & Performance Goals](sources/guest-series-dr-andy-galpin-maximize-recovery-to-achieve-fitness-performance-goals-scim4488298115.md) — Huberman Lab guest-series episode on soreness, the training stress-recovery continuum, multi-domain monitoring, HRV trends, and goal-sensitive recovery tools.
 - [305: The Fall of the Roman Republic](sources/305-the-fall-of-the-roman-republic-glt6995332578.md) — The Rest Is History episode on the failed post-Caesar settlement, Octavian's rise, the Second Triumvirate, proscriptions, Philippi, and the Augustan end of the Republic.
 - [306: Columbus: The Adventure Begins (Part 1)](sources/306-columbus-the-adventure-begins-part-1-glt6089901915.md) — The Rest Is History episode on Columbus's Genoese-Portuguese formation, geographic error, religious and status ambition, repeated rejection, and 1492 royal sponsorship.
 - [VOL.22肿瘤肝胆外科｜关于肝炎、肝硬化和肝癌 我们应该知道这些事](sources/vol-22-zhongliu-gandan-waike-guanyu-ganyan-ganyinghua-he-ganai-women-yinggai-zhidao-zhexie-shi-lmmkgp8rpb2mvtk7slmtatq_jheg.md) — 这病说来话长 episode on hepatitis prevention, silent liver disease, fatty-liver context, liver-cancer surveillance and treatment, and cancer nutrition support.
@@ -4131,7 +4132,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [DRASTIC](entities/DRASTIC.md) — Decentralized COVID-origin research collective praised in the source for scientific sharing and surfacing the DEFUSE proposal.
 - [Nick Shirley](entities/NickShirley.md) — Independent creator presented by All-In as an audience-funded investigator using tips, field reporting, confrontation, and platform distribution to expose alleged fraud and public waste.
 - [California High-Speed Rail](entities/CaliforniaHighSpeedRail.md) — State passenger-rail megaproject used by the Nick Shirley episode to examine cost escalation, delivery delay, land conflict, contractor incentives, and political accountability.
-- [Andy Galpin](entities/AndyGalpin.md) — Exercise physiologist whose Huberman Lab Essentials appearances connect the nine-adaptation fitness assessment framework to goal-specific strength, power, and hypertrophy programming.
+- [Andy Galpin](entities/AndyGalpin.md) — Exercise physiologist connecting fitness assessment and goal-specific programming with recovery monitoring, soreness boundaries, fueling, hydration, and supplementation.
 - [深普智能 / Shenpu Intelligence](entities/ShenpuIntelligence.md) — Home-facing general embodied-intelligence company whose chief scientist describes full-stack data, action-model, Agentic OS, and evaluation work.
 - [王家伟 / Wang Jiawei](entities/WangJiawei.md) — 24-year-old chief scientist of 深普智能, with a USTC youth-class and Microsoft Research Asia doctoral background plus DeepSeek and ByteDance Seed internships.
 - [Blackmores / 澳佳宝](entities/Blackmores.md) — Australian supplement brand the source uses to show naturopathic practice converting into a mainstream industrial product.
@@ -14551,6 +14552,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Satchin Panda](entities/SatchinPanda.md) — Circadian-biology researcher separating meal timing, fasting duration, energy intake, and evidence limits in animal and human studies.
 
 ## Concepts
+- [Training Stress-Recovery Continuum](concepts/TrainingStressRecoveryContinuum.md) — Distinguishes acute overload, productive functional overreaching, non-functional overreaching, and rare true overtraining.
+- [Soreness-Recovery Boundary](concepts/SorenessRecoveryBoundary.md) — Separates delayed soreness and symptom relief from tissue damage, repair, restored performance, and adaptation.
+- [Recovery Monitoring Triad](concepts/RecoveryMonitoringTriad.md) — Combines standardized within-person performance, physiology, and symptom trends instead of relying on one readiness score.
 - [Viral Hepatitis and Liver-Cancer Prevention](concepts/ViralHepatitisLiverCancerPrevention.md) — Prevention framework joining transmission literacy, vaccination, maternal-infant prevention, testing, treatment, stigma reduction, and risk-based follow-up.
 - [Liver-Cancer Screening and Treatment Selection](concepts/LiverCancerScreeningAndTreatment.md) — Risk-based pathway from surveillance into liver-reserve-aware multimodal oncology care.
 - [Cancer Nutrition Support Boundary](concepts/CancerNutritionSupportBoundary.md) — Separates tumor-directed vascular treatment from harmful whole-body food restriction and indiscriminate supplementation.
@@ -23145,7 +23149,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Drawdown Capital Allocation and Alignment](concepts/DrawdownCapitalAllocationAndAlignment.md) — Crisis response combining share repurchases with performance equity during a severe public-market decline.
 
 - [Strength and Hypertrophy Programming](concepts/StrengthHypertrophyProgramming.md) — Training framework connecting motor-unit recruitment to load, weekly volume, failure, movement speed, and rest.
-- [Exercise Recovery Readiness](concepts/ExerciseRecoveryReadiness.md) — Bounded use of within-person readiness trends plus goal-sensitive targeted cooling, cold-immersion, and NSAID tradeoffs.
+- [Exercise Recovery Readiness](concepts/ExerciseRecoveryReadiness.md) — Multi-domain personal trends, soreness and adaptation boundaries, acute state shifts, and chronic workload or lifestyle recovery choices.
 - [Familiar Pain Relationship Pattern](concepts/FamiliarPainRelationshipPattern.md) — Tendency to mistake historically familiar attraction, deprivation, or conflict for present-day compatibility and safety.
 - [Relationship Conflict Repair](concepts/RelationshipConflictRepair.md) — Regulation, pause, perspective-taking, response choice, and return process for repairing interpersonal rupture.
 - [Partner Selection Beyond Chemistry](concepts/PartnerSelectionBeyondChemistry.md) — Dating judgment frame prioritizing maturity, flexibility, character, reliability, life direction, and felt safety over immediate sparks.

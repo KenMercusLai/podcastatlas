@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 8757
+wiki_total_pages: 8760
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1265,6 +1265,9 @@ wiki_pages:
   - key: "SongYuanMaritimeTradeCenter"
     title: "Song-Yuan Maritime Trade Center"
     url: "/wiki/concepts/songyuanmaritimetradecenter/"
+  - key: "SorenessRecoveryBoundary"
+    title: "Soreness-Recovery Boundary"
+    url: "/wiki/concepts/sorenessrecoveryboundary/"
   - key: "SoundBasedStateRegulation"
     title: "Sound-Based State Regulation"
     url: "/wiki/concepts/soundbasedstateregulation/"
