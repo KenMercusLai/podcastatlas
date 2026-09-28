@@ -5,6 +5,7 @@ tags: [oral-health, dentures, dental-implants, maintenance]
 sources:
   - vol-75-kouqiangke-bama-xiya-ma-fanxiang-zhuanfa-jiazuqun-rang-tamen-zhonghui-nianqing-you-juezhao-loerbxipaqszz4ggchblzsnvtxo9
   - vol-55-kouqiangke-zhengji-zhenghe-zhongzhi-yachi-de-zhe-jige-changjian-wuqu-he-yiwen-gongli-yiyuan-zhuren-gei-ni-yi-yi-jiang-qingchu-lsupjdtklqeinpgfcsnd8zlale5t
+  - vol-54-kouqiangke-jujue-yake-kongjuzheng-xian-he-gongli-yiyuan-zhuren-liaoliao-xiya-baya-yazhou-jibing-de-naxie-changshi-he-wujie-lmafztyky6md18ien9qaqdhw3t9k
 last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
@@ -21,6 +22,8 @@ Maintenance also includes noticing change. Food trapping, bleeding, looseness, d
 
 VOL.55 adds candidacy and failure assessment to that maintenance model. Implant suitability is not determined by age alone: bone and periodontal condition, systemic disease, medication history, surgical tolerance, oral environment, site preparation, implant selection, technique, loading, cleaning, and follow-up can all affect outcome. Repeated loosening or loss therefore warrants a multi-factor review rather than a calcium-supplement shortcut; bone augmentation may be one clinician-selected response, not a universal remedy.
 
+VOL.54 adds the pre-restoration timing problem. After a tooth is lost, adjacent teeth can tilt into the space and the opposing tooth can over-erupt, changing bite and making later restoration harder. A bridge, denture, implant, or other replacement should therefore be selected after assessment rather than postponed indefinitely, and root-canal-treated teeth may need clinician-selected structural protection and restrained hard loading.
+
 ## Key Claims
 - Dental restoration changes the cleaning task but does not end it.
 - Removable, fixed and implant-supported work require different access, tools and material-aware instructions.
@@ -36,11 +39,13 @@ VOL.55 adds candidacy and failure assessment to that maintenance model. Implant 
 - Material and use boundary: [[vol-75-kouqiangke-bama-xiya-ma-fanxiang-zhuanfa-jiazuqun-rang-tamen-zhonghui-nianqing-you-juezhao-loerbxipaqszz4ggchblzsnvtxo9|VOL.75]] warns against very hot water for dentures and using natural or restored teeth to crack hard shells.
 - Implant suitability and failure review: [[vol-55-kouqiangke-zhengji-zhenghe-zhongzhi-yachi-de-zhe-jige-changjian-wuqu-he-yiwen-gongli-yiyuan-zhuren-gei-ni-yi-yi-jiang-qingchu-lsupjdtklqeinpgfcsnd8zlale5t|VOL.55]] makes age a secondary variable to bone, periodontal, systemic, medication, procedure, loading, hygiene, and follow-up context and rejects calcium tablets as a stand-alone response to repeated failure.
 - Implant cleaning and review: [[vol-55-kouqiangke-zhengji-zhenghe-zhongzhi-yachi-de-zhe-jige-changjian-wuqu-he-yiwen-gongli-yiyuan-zhuren-gei-ni-yi-yi-jiang-qingchu-lsupjdtklqeinpgfcsnd8zlale5t|VOL.55]] reinforces daily brushing and interdental cleaning plus periodic professional maintenance after placement.
+- Timely functional restoration: [[vol-54-kouqiangke-jujue-yake-kongjuzheng-xian-he-gongli-yiyuan-zhuren-liaoliao-xiya-baya-yazhou-jibing-de-naxie-changshi-he-wujie-lmafztyky6md18ien9qaqdhw3t9k|VOL.54]] links unfilled spaces with adjacent-tooth tilting and opposing-tooth over-eruption and places bridges, implants, root-canal crowns, and use limits inside examination-led planning.
 
 ## Counterevidence & Qualifications
 The sources do not provide a universal cleaning protocol for every denture resin, metal framework, crown, bridge or implant system. Removal at night, soaking solution, brush type, flossing aid, irrigator settings, review interval, repair and replacement depend on the device, oral tissues, dexterity and clinician instructions. Implant candidacy, medication risk, bone augmentation, loading, failure analysis, and re-treatment require examination and sometimes imaging; age, osteoporosis, or a description of “soft bone” cannot decide them remotely.
 
 ## What Changed
+- Added the pre-restoration consequences of prolonged tooth loss and the structural-protection question after root-canal treatment.
 - Added implant candidacy and repeated-failure cause-finding across systemic, site, procedural, loading, and maintenance factors.
 - Created a maintenance model spanning removable, fixed and implant-supported dental restorations.
 - Made symptoms and functional change part of maintenance rather than treating cleaning as the whole task.
@@ -51,3 +56,4 @@ The sources do not provide a universal cleaning protocol for every denture resin
 - [[DentalProviderQualificationAssessment]] - supports qualified fitting, review, repair and replacement decisions.
 - [[OlderAdultHealthcareAvoidance]] - explains why a person may tolerate poor fit or symptoms rather than seek review.
 - [[MedicalRiskManagement]] - frames material, anatomy, tissue and comorbidity as individualized care variables.
+- [[PeriodontalDiseaseProgression]] - supplies the tissue-support context for retaining, removing, or restoring teeth.

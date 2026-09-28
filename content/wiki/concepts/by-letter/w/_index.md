@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 8589
+wiki_total_pages: 8592
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -332,6 +332,9 @@ wiki_pages:
   - key: "WisdomOverIntelligence"
     title: "Wisdom Over Intelligence / 智慧稀缺论"
     url: "/wiki/concepts/wisdomoverintelligence/"
+  - key: "WisdomToothClinicalAssessment"
+    title: "Wisdom Tooth Clinical Assessment / 智齿临床评估"
+    url: "/wiki/concepts/wisdomtoothclinicalassessment/"
   - key: "WitchHuntMechanism"
     title: "Witch-Hunt Mechanism / 猎巫机制"
     url: "/wiki/concepts/witchhuntmechanism/"

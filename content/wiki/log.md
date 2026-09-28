@@ -24415,3 +24415,11 @@ Added source `343-oppenheimer-the-father-of-the-atom-bomb-part-1-glt9202576882`;
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | VOL.54口腔科｜拒绝牙科恐惧症 先和公立医院主任聊聊洗牙、拔牙、牙周疾病的那些常识和误解
+
+Added source `vol-54-kouqiangke-jujue-yake-kongjuzheng-xian-he-gongli-yiyuan-zhuren-liaoliao-xiya-baya-yazhou-jibing-de-naxie-changshi-he-wujie-lmafztyky6md18ien9qaqdhw3t9k`; created `WisdomToothClinicalAssessment`, `PeriodontalDiseaseProgression`, and `DentalComfortCare`; and updated `WuBinOralDoctor`, `LifecycleOralHealthPrevention`, `DentalProsthesisMaintenance`, `PersistentOralLesionEscalation`, `PeriodontalSystemicHealthBoundary`, the canonical index, and overview from their complete bounded source sets. Core synthesis: wisdom-tooth retention or removal should follow anatomy, function, hygiene, disease, imaging, and recovery context; gingivitis should be separated from harder-to-reverse periodontal support loss; professional cleaning reveals rather than creates prior damage; and pain control plus anxiety-sensitive technique are parts of safe dental care. No settled contradiction was adopted. Cleaning intervals, extraction staging, sedation, oral-systemic associations, lesion timelines, periodontal regeneration, root-canal crowns, and restoration longevity remain source-scoped public education.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

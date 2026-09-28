@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8589
+wiki_total_pages: 8592
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -458,6 +458,9 @@ wiki_pages:
   - key: "PeriodPoverty"
     title: "Period Poverty"
     url: "/wiki/concepts/periodpoverty/"
+  - key: "PeriodontalDiseaseProgression"
+    title: "Periodontal Disease Progression / 牙周疾病进展"
+    url: "/wiki/concepts/periodontaldiseaseprogression/"
   - key: "PeriodontalSystemicHealthBoundary"
     title: "Periodontal-Systemic Health Evidence Boundary"
     url: "/wiki/concepts/periodontalsystemichealthboundary/"

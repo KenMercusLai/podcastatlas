@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 8589
+wiki_total_pages: 8592
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -461,6 +461,9 @@ wiki_pages:
   - key: "DentalAntithromboticMedicationCoordination"
     title: "Dental Antithrombotic Medication Coordination / 牙科操作抗栓药协调"
     url: "/wiki/concepts/dentalantithromboticmedicationcoordination/"
+  - key: "DentalComfortCare"
+    title: "Dental Comfort Care / 牙科舒适化诊疗"
+    url: "/wiki/concepts/dentalcomfortcare/"
   - key: "DentalProsthesisMaintenance"
     title: "Dental Prosthesis Maintenance / 义齿与种植牙维护"
     url: "/wiki/concepts/dentalprosthesismaintenance/"

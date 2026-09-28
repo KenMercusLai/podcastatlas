@@ -40321,10 +40321,26 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/dentalantithromboticmedicationcoordination/"
     },
-    "DentalProsthesisMaintenance": {
-      "episode_count": 2,
+    "DentalComfortCare": {
+      "episode_count": 1,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmaFzTYky6Md18iEN9qaQdhW3T9K [lmaFzTYky6Md18iEN9qaQdhW3T9K].md",
+          "key": "vol-54-kouqiangke-jujue-yake-kongjuzheng-xian-he-gongli-yiyuan-zhuren-liaoliao-xiya-baya-yazhou-jibing-de-naxie-changshi-he-wujie-lmafztyky6md18ien9qaqdhw3t9k",
+          "show": "这病说来话长",
+          "title": "VOL.54口腔科｜拒绝牙科恐惧症 先和公立医院主任聊聊洗牙、拔牙、牙周疾病的那些常识和误解",
+          "url": "/wiki/sources/vol-54-kouqiangke-jujue-yake-kongjuzheng-xian-he-gongli-yiyuan-zhuren-liaoliao-xiya-baya-yazhou-jibing-de-naxie-changshi-he-wujie-lmafztyky6md18ien9qaqdhw3t9k/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/dentalcomfortcare/"
+    },
+    "DentalProsthesisMaintenance": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "loeRbxIpAqSzz4GgChblZsnvtxO9 [loeRbxIpAqSzz4GgChblZsnvtxO9].md",
@@ -40339,6 +40355,13 @@
           "show": "这病说来话长",
           "title": "VOL.55口腔科｜正畸、正颌、种植牙齿的这几个常见误区和疑问 公立医院主任给你一一讲清楚",
           "url": "/wiki/sources/vol-55-kouqiangke-zhengji-zhenghe-zhongzhi-yachi-de-zhe-jige-changjian-wuqu-he-yiwen-gongli-yiyuan-zhuren-gei-ni-yi-yi-jiang-qingchu-lsupjdtklqeinpgfcsnd8zlale5t/"
+        },
+        {
+          "episode_file": "lmaFzTYky6Md18iEN9qaQdhW3T9K [lmaFzTYky6Md18iEN9qaQdhW3T9K].md",
+          "key": "vol-54-kouqiangke-jujue-yake-kongjuzheng-xian-he-gongli-yiyuan-zhuren-liaoliao-xiya-baya-yazhou-jibing-de-naxie-changshi-he-wujie-lmafztyky6md18ien9qaqdhw3t9k",
+          "show": "这病说来话长",
+          "title": "VOL.54口腔科｜拒绝牙科恐惧症 先和公立医院主任聊聊洗牙、拔牙、牙周疾病的那些常识和误解",
+          "url": "/wiki/sources/vol-54-kouqiangke-jujue-yake-kongjuzheng-xian-he-gongli-yiyuan-zhuren-liaoliao-xiya-baya-yazhou-jibing-de-naxie-changshi-he-wujie-lmafztyky6md18ien9qaqdhw3t9k/"
         }
       ],
       "updated": "2026-09-28",
@@ -94364,9 +94387,9 @@
       "url": "/wiki/concepts/lifetimevsmachinetime/"
     },
     "LifecycleOralHealthPrevention": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 2,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "lmjeyE3oACbaWtN3OmssKuQeubeh [lmjeyE3oACbaWtN3OmssKuQeubeh].md",
@@ -94409,6 +94432,13 @@
           "show": "这病说来话长",
           "title": "VOL.55口腔科｜正畸、正颌、种植牙齿的这几个常见误区和疑问 公立医院主任给你一一讲清楚",
           "url": "/wiki/sources/vol-55-kouqiangke-zhengji-zhenghe-zhongzhi-yachi-de-zhe-jige-changjian-wuqu-he-yiwen-gongli-yiyuan-zhuren-gei-ni-yi-yi-jiang-qingchu-lsupjdtklqeinpgfcsnd8zlale5t/"
+        },
+        {
+          "episode_file": "lmaFzTYky6Md18iEN9qaQdhW3T9K [lmaFzTYky6Md18iEN9qaQdhW3T9K].md",
+          "key": "vol-54-kouqiangke-jujue-yake-kongjuzheng-xian-he-gongli-yiyuan-zhuren-liaoliao-xiya-baya-yazhou-jibing-de-naxie-changshi-he-wujie-lmafztyky6md18ien9qaqdhw3t9k",
+          "show": "这病说来话长",
+          "title": "VOL.54口腔科｜拒绝牙科恐惧症 先和公立医院主任聊聊洗牙、拔牙、牙周疾病的那些常识和误解",
+          "url": "/wiki/sources/vol-54-kouqiangke-jujue-yake-kongjuzheng-xian-he-gongli-yiyuan-zhuren-liaoliao-xiya-baya-yazhou-jibing-de-naxie-changshi-he-wujie-lmafztyky6md18ien9qaqdhw3t9k/"
         }
       ],
       "updated": "2026-09-28",
@@ -122043,10 +122073,26 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/perinatalpsychiatricmedicationshareddecision/"
     },
-    "PeriodontalSystemicHealthBoundary": {
-      "episode_count": 3,
+    "PeriodontalDiseaseProgression": {
+      "episode_count": 1,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmaFzTYky6Md18iEN9qaQdhW3T9K [lmaFzTYky6Md18iEN9qaQdhW3T9K].md",
+          "key": "vol-54-kouqiangke-jujue-yake-kongjuzheng-xian-he-gongli-yiyuan-zhuren-liaoliao-xiya-baya-yazhou-jibing-de-naxie-changshi-he-wujie-lmafztyky6md18ien9qaqdhw3t9k",
+          "show": "这病说来话长",
+          "title": "VOL.54口腔科｜拒绝牙科恐惧症 先和公立医院主任聊聊洗牙、拔牙、牙周疾病的那些常识和误解",
+          "url": "/wiki/sources/vol-54-kouqiangke-jujue-yake-kongjuzheng-xian-he-gongli-yiyuan-zhuren-liaoliao-xiya-baya-yazhou-jibing-de-naxie-changshi-he-wujie-lmafztyky6md18ien9qaqdhw3t9k/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/periodontaldiseaseprogression/"
+    },
+    "PeriodontalSystemicHealthBoundary": {
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM9002750849 [SCIM9002750849].md",
@@ -122068,9 +122114,16 @@
           "show": "Huberman Lab",
           "title": "AMA #15: Fluoride Benefits/Risks & Vagus Nerve Stimulation",
           "url": "/wiki/sources/ama-15-fluoride-benefits-risks-vagus-nerve-stimulation-scim9500186850/"
+        },
+        {
+          "episode_file": "lmaFzTYky6Md18iEN9qaQdhW3T9K [lmaFzTYky6Md18iEN9qaQdhW3T9K].md",
+          "key": "vol-54-kouqiangke-jujue-yake-kongjuzheng-xian-he-gongli-yiyuan-zhuren-liaoliao-xiya-baya-yazhou-jibing-de-naxie-changshi-he-wujie-lmafztyky6md18ien9qaqdhw3t9k",
+          "show": "这病说来话长",
+          "title": "VOL.54口腔科｜拒绝牙科恐惧症 先和公立医院主任聊聊洗牙、拔牙、牙周疾病的那些常识和误解",
+          "url": "/wiki/sources/vol-54-kouqiangke-jujue-yake-kongjuzheng-xian-he-gongli-yiyuan-zhuren-liaoliao-xiya-baya-yazhou-jibing-de-naxie-changshi-he-wujie-lmafztyky6md18ien9qaqdhw3t9k/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/periodontalsystemichealthboundary/"
     },
     "PerioperativeAnesthesiaSafety": {
@@ -122327,9 +122380,9 @@
       "url": "/wiki/concepts/persistentcloudagents/"
     },
     "PersistentOralLesionEscalation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "loeRbxIpAqSzz4GgChblZsnvtxO9 [loeRbxIpAqSzz4GgChblZsnvtxO9].md",
@@ -122337,9 +122390,16 @@
           "show": "这病说来话长",
           "title": "VOL.75口腔科｜爸妈洗牙吗？反向转发家族群，让他们“重回”年轻有绝招",
           "url": "/wiki/sources/vol-75-kouqiangke-bama-xiya-ma-fanxiang-zhuanfa-jiazuqun-rang-tamen-zhonghui-nianqing-you-juezhao-loerbxipaqszz4ggchblzsnvtxo9/"
+        },
+        {
+          "episode_file": "lmaFzTYky6Md18iEN9qaQdhW3T9K [lmaFzTYky6Md18iEN9qaQdhW3T9K].md",
+          "key": "vol-54-kouqiangke-jujue-yake-kongjuzheng-xian-he-gongli-yiyuan-zhuren-liaoliao-xiya-baya-yazhou-jibing-de-naxie-changshi-he-wujie-lmafztyky6md18ien9qaqdhw3t9k",
+          "show": "这病说来话长",
+          "title": "VOL.54口腔科｜拒绝牙科恐惧症 先和公立医院主任聊聊洗牙、拔牙、牙周疾病的那些常识和误解",
+          "url": "/wiki/sources/vol-54-kouqiangke-jujue-yake-kongjuzheng-xian-he-gongli-yiyuan-zhuren-liaoliao-xiya-baya-yazhou-jibing-de-naxie-changshi-he-wujie-lmafztyky6md18ien9qaqdhw3t9k/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/persistentorallesionescalation/"
     },
     "PersonaShieldedPoliticalPurge": {
@@ -168748,6 +168808,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/winterrespiratoryinfectionrisk/"
     },
+    "WisdomToothClinicalAssessment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmaFzTYky6Md18iEN9qaQdhW3T9K [lmaFzTYky6Md18iEN9qaQdhW3T9K].md",
+          "key": "vol-54-kouqiangke-jujue-yake-kongjuzheng-xian-he-gongli-yiyuan-zhuren-liaoliao-xiya-baya-yazhou-jibing-de-naxie-changshi-he-wujie-lmafztyky6md18ien9qaqdhw3t9k",
+          "show": "这病说来话长",
+          "title": "VOL.54口腔科｜拒绝牙科恐惧症 先和公立医院主任聊聊洗牙、拔牙、牙周疾病的那些常识和误解",
+          "url": "/wiki/sources/vol-54-kouqiangke-jujue-yake-kongjuzheng-xian-he-gongli-yiyuan-zhuren-liaoliao-xiya-baya-yazhou-jibing-de-naxie-changshi-he-wujie-lmafztyky6md18ien9qaqdhw3t9k/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/wisdomtoothclinicalassessment/"
+    },
     "WishfulFrontierConciliation": {
       "episode_count": 1,
       "show_count": 1,
@@ -169360,9 +169436,9 @@
       "url": "/wiki/entities/wubin/"
     },
     "WuBinOralDoctor": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "ll6i050qnIR6OT6TYlDl8meaXJDr [ll6i050qnIR6OT6TYlDl8meaXJDr].md",
@@ -169391,6 +169467,13 @@
           "show": "这病说来话长",
           "title": "VOL.55口腔科｜正畸、正颌、种植牙齿的这几个常见误区和疑问 公立医院主任给你一一讲清楚",
           "url": "/wiki/sources/vol-55-kouqiangke-zhengji-zhenghe-zhongzhi-yachi-de-zhe-jige-changjian-wuqu-he-yiwen-gongli-yiyuan-zhuren-gei-ni-yi-yi-jiang-qingchu-lsupjdtklqeinpgfcsnd8zlale5t/"
+        },
+        {
+          "episode_file": "lmaFzTYky6Md18iEN9qaQdhW3T9K [lmaFzTYky6Md18iEN9qaQdhW3T9K].md",
+          "key": "vol-54-kouqiangke-jujue-yake-kongjuzheng-xian-he-gongli-yiyuan-zhuren-liaoliao-xiya-baya-yazhou-jibing-de-naxie-changshi-he-wujie-lmafztyky6md18ien9qaqdhw3t9k",
+          "show": "这病说来话长",
+          "title": "VOL.54口腔科｜拒绝牙科恐惧症 先和公立医院主任聊聊洗牙、拔牙、牙周疾病的那些常识和误解",
+          "url": "/wiki/sources/vol-54-kouqiangke-jujue-yake-kongjuzheng-xian-he-gongli-yiyuan-zhuren-liaoliao-xiya-baya-yazhou-jibing-de-naxie-changshi-he-wujie-lmafztyky6md18ien9qaqdhw3t9k/"
         }
       ],
       "updated": "2026-09-28",

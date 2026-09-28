@@ -9,6 +9,7 @@ sources:
   - vol-75-kouqiangke-bama-xiya-ma-fanxiang-zhuanfa-jiazuqun-rang-tamen-zhonghui-nianqing-you-juezhao-loerbxipaqszz4ggchblzsnvtxo9
   - vol-74-kouqiangke-kafei-hongjiu-cha-shangse-sanjian-ta-yachi-meibai-xuan-nazhong-sanjia-zhuren-bang-ni-bikeng-lup1n6wlhmeceqidmllkafzw8w9c
   - vol-55-kouqiangke-zhengji-zhenghe-zhongzhi-yachi-de-zhe-jige-changjian-wuqu-he-yiwen-gongli-yiyuan-zhuren-gei-ni-yi-yi-jiang-qingchu-lsupjdtklqeinpgfcsnd8zlale5t
+  - vol-54-kouqiangke-jujue-yake-kongjuzheng-xian-he-gongli-yiyuan-zhuren-liaoliao-xiya-baya-yazhou-jibing-de-naxie-changshi-he-wujie-lmafztyky6md18ien9qaqdhw3t9k
 last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
@@ -29,7 +30,7 @@ Prevention therefore changes with development, disease history, dexterity, saliv
 - Effective cleaning is plaque removal without injury, not merely completion of a brushing ritual.
 - Sugar amount, frequency, contact time, saliva, cleaning and individual dental condition jointly shape risk.
 - Childhood prevention includes primary-tooth care, interdental cleaning, developmental review and qualified decisions about fluoride, sealants, retained teeth, eruption, bite and oral habits.
-- Professional cleaning addresses deposits and sites that daily brushing may not reliably reach at any age.
+- Professional cleaning addresses deposits and sites that daily brushing may not reliably reach and can reveal spaces, sensitivity, or mobility hidden by calculus without causing the underlying periodontal damage.
 - Missing teeth, residual roots, root-surface decay, mobility, dry mouth and persistent mucosal change warrant assessment rather than indefinite accommodation.
 - Natural teeth and removable, fixed or implant-supported restorations all require continuing daily care and review.
 - Preventive schedules and treatments—including optional cosmetic whitening, wisdom-tooth management, root-canal restoration, and symptom care—should be adjusted to age, development, active disease, sensitivity, and current risk rather than treated as one fixed rule.
@@ -43,11 +44,13 @@ Prevention therefore changes with development, disease history, dexterity, saliv
 - Foundation before cosmetics: [[vol-74-kouqiangke-kafei-hongjiu-cha-shangse-sanjian-ta-yachi-meibai-xuan-nazhong-sanjia-zhuren-bang-ni-bikeng-lup1n6wlhmeceqidmllkafzw8w9c|VOL.74]] places examination, cleaning, caries and periodontal care, sensitivity review, and cause-specific discoloration assessment before optional whitening.
 - Symptom, restoration, and eruption review: [[vol-55-kouqiangke-zhengji-zhenghe-zhongzhi-yachi-de-zhe-jige-changjian-wuqu-he-yiwen-gongli-yiyuan-zhuren-gei-ni-yi-yi-jiang-qingchu-lsupjdtklqeinpgfcsnd8zlale5t|VOL.55]] connects dark spots, changing gaps, halitosis, sensitivity, cracks, symptomatic wisdom teeth, root-canal-treated teeth, and childhood eruption problems to cause-specific examination rather than self-treatment alone.
 - Exposure and early detection: [[vol-55-kouqiangke-zhengji-zhenghe-zhongzhi-yachi-de-zhe-jige-changjian-wuqu-he-yiwen-gongli-yiyuan-zhuren-gei-ni-yi-yi-jiang-qingchu-lsupjdtklqeinpgfcsnd8zlale5t|VOL.55]] combines brushing, flossing, periodic review, sugar and acid exposure, and early caries assessment while keeping fluoride toothpaste preventive rather than curative.
+- Early periodontal, wisdom-tooth, pulp, and function review: [[vol-54-kouqiangke-jujue-yake-kongjuzheng-xian-he-gongli-yiyuan-zhuren-liaoliao-xiya-baya-yazhou-jibing-de-naxie-changshi-he-wujie-lmafztyky6md18ien9qaqdhw3t9k|VOL.54]] links bleeding, calculus, mobility, impacted or inflamed third molars, spontaneous or worsening pain, and missing teeth to timely examination and treatment rather than age-based resignation or delayed crisis care.
 
 ## Counterevidence & Qualifications
 The sources provide general examples rather than individualized recall, orthodontic, periodontal, restorative, endodontic, implant, whitening, wisdom-tooth, pediatric-eruption, or oral-medicine protocols. Fluoride, sealants, extraction, restoration, crowns, cleaning tools, dry-mouth treatment, lesion review, whitening, orthodontics, retainers and missing-tooth replacement depend on examination, diagnosis, age, risk, anatomy, material, growth, goals and access. Brushing duration, visit frequency, treatment timing and device-specific instructions remain source-scoped. Public education about oral-systemic links does not prove that an oral finding caused an individual's systemic disease.
 
 ## What Changed
+- Added professional-cleaning myth correction and earlier escalation for bleeding, periodontal support loss, pulp symptoms, impacted wisdom teeth, and missing function.
 - Added symptom-led assessment for dark spots, spacing change, halitosis, sensitivity and cracks, plus root-canal restoration and tooth-eruption review.
 - Placed optional whitening after active disease review, cleaning, and cause-specific discoloration assessment.
 - Added persistent bleeding during adjunctive cleaning as a reason for periodontal evaluation rather than symptom masking.
@@ -60,3 +63,5 @@ The sources provide general examples rather than individualized recall, orthodon
 - [[ToothDemineralizationRemineralization]] - explains why exposure timing and lesion stage matter before structural loss.
 - [[OralCareProductTreatmentBoundary]] - prevents consumer products from replacing examination or treatment.
 - [[DentalProviderQualificationAssessment]] - supports choosing qualified care when prevention or symptoms require a clinician.
+- [[PeriodontalDiseaseProgression]] - distinguishes treatable gingival inflammation from harder-to-reverse support loss.
+- [[WisdomToothClinicalAssessment]] - applies individualized risk, function, hygiene, imaging, and future-use review to third molars.

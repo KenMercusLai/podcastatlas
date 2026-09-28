@@ -19975,6 +19975,10 @@
     "title": "Dental Antithrombotic Medication Coordination / 牙科操作抗栓药协调",
     "url": "/wiki/concepts/dentalantithromboticmedicationcoordination/"
   },
+  "DentalComfortCare": {
+    "title": "Dental Comfort Care / 牙科舒适化诊疗",
+    "url": "/wiki/concepts/dentalcomfortcare/"
+  },
   "DentalProsthesisMaintenance": {
     "title": "Dental Prosthesis Maintenance / 义齿与种植牙维护",
     "url": "/wiki/concepts/dentalprosthesismaintenance/"
@@ -53715,6 +53719,10 @@
     "title": "Period Poverty",
     "url": "/wiki/concepts/periodpoverty/"
   },
+  "PeriodontalDiseaseProgression": {
+    "title": "Periodontal Disease Progression / 牙周疾病进展",
+    "url": "/wiki/concepts/periodontaldiseaseprogression/"
+  },
   "PeriodontalSystemicHealthBoundary": {
     "title": "Periodontal-Systemic Health Evidence Boundary",
     "url": "/wiki/concepts/periodontalsystemichealthboundary/"
@@ -75439,6 +75447,10 @@
     "title": "Wisdom Over Intelligence / 智慧稀缺论",
     "url": "/wiki/concepts/wisdomoverintelligence/"
   },
+  "WisdomToothClinicalAssessment": {
+    "title": "Wisdom Tooth Clinical Assessment / 智齿临床评估",
+    "url": "/wiki/concepts/wisdomtoothclinicalassessment/"
+  },
   "WiseChildrenCarter": {
     "title": "《明智的孩子》 / Wise Children",
     "url": "/wiki/entities/wisechildrencarter/"
@@ -86450,6 +86462,10 @@
   "vol-54-duitan-songjia-wo-weishenme-shi-wo-mingyun-de-mudedi-bushi-zhangkong-yiqie-ershi-jingli-yiqie-lues-m-6btm17a5qt6kb1khr5s6i": {
     "title": "vol.54 对谈宋佳：我为什么是我？命运的目的地不是掌控一切 而是经历一切",
     "url": "/wiki/sources/vol-54-duitan-songjia-wo-weishenme-shi-wo-mingyun-de-mudedi-bushi-zhangkong-yiqie-ershi-jingli-yiqie-lues-m-6btm17a5qt6kb1khr5s6i/"
+  },
+  "vol-54-kouqiangke-jujue-yake-kongjuzheng-xian-he-gongli-yiyuan-zhuren-liaoliao-xiya-baya-yazhou-jibing-de-naxie-changshi-he-wujie-lmafztyky6md18ien9qaqdhw3t9k": {
+    "title": "VOL.54口腔科｜拒绝牙科恐惧症 先和公立医院主任聊聊洗牙、拔牙、牙周疾病的那些常识和误解",
+    "url": "/wiki/sources/vol-54-kouqiangke-jujue-yake-kongjuzheng-xian-he-gongli-yiyuan-zhuren-liaoliao-xiya-baya-yazhou-jibing-de-naxie-changshi-he-wujie-lmafztyky6md18ien9qaqdhw3t9k/"
   },
   "vol-55-duitan-xieyin-melody-xuan-yitiao-gengman-de-lu-ranhou-shizhe-zou-de-gengyuan-lvmwwqnwmew2-s22x-4otjy2gnlw": {
     "title": "vol.55 对谈携隐Melody：选一条更慢的路 然后试着走得更远",
