@@ -9848,9 +9848,9 @@
       "url": "/wiki/entities/andyburnham/"
     },
     "AndyGalpin": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM5641095924 [SCIM5641095924].md",
@@ -9865,9 +9865,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Optimal Protocols to Build Strength & Grow Muscles | Dr. Andy Galpin",
           "url": "/wiki/sources/essentials-optimal-protocols-to-build-strength-grow-muscles-dr-andy-galpin-scim8443296592/"
+        },
+        {
+          "episode_file": "SCIM7037527631 [SCIM7037527631].md",
+          "key": "science-supported-tools-to-accelerate-your-fitness-goals-scim7037527631",
+          "show": "Huberman Lab",
+          "title": "Science-Supported Tools to Accelerate Your Fitness Goals",
+          "url": "/wiki/sources/science-supported-tools-to-accelerate-your-fitness-goals-scim7037527631/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/andygalpin/"
     },
     "AndyStalman": {
@@ -34571,9 +34578,9 @@
       "url": "/wiki/entities/crazyhorse/"
     },
     "CreatineMonohydrateEvidence": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM7693897484 [SCIM7693897484].md",
@@ -34588,9 +34595,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Build Muscle Size, Increase Strength & Improve Recovery",
           "url": "/wiki/sources/essentials-build-muscle-size-increase-strength-improve-recovery-scim4036424126/"
+        },
+        {
+          "episode_file": "SCIM7037527631 [SCIM7037527631].md",
+          "key": "science-supported-tools-to-accelerate-your-fitness-goals-scim7037527631",
+          "show": "Huberman Lab",
+          "title": "Science-Supported Tools to Accelerate Your Fitness Goals",
+          "url": "/wiki/sources/science-supported-tools-to-accelerate-your-fitness-goals-scim7037527631/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/creatinemonohydrateevidence/"
     },
     "CreativeApertureShift": {
@@ -49682,9 +49696,9 @@
       "url": "/wiki/concepts/endoscopypathologyfollowup/"
     },
     "EnduranceTrainingModalities": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1120276865 [SCIM1120276865].md",
@@ -49692,9 +49706,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Build Endurance",
           "url": "/wiki/sources/essentials-how-to-build-endurance-scim1120276865/"
+        },
+        {
+          "episode_file": "SCIM7037527631 [SCIM7037527631].md",
+          "key": "science-supported-tools-to-accelerate-your-fitness-goals-scim7037527631",
+          "show": "Huberman Lab",
+          "title": "Science-Supported Tools to Accelerate Your Fitness Goals",
+          "url": "/wiki/sources/science-supported-tools-to-accelerate-your-fitness-goals-scim7037527631/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/endurancetrainingmodalities/"
     },
     "EnergyAbundanceClimateStrategy": {
@@ -52341,6 +52362,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/concepts/exerciseselfmasteryforprocrastination/"
+    },
+    "ExerciseSnacks": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7037527631 [SCIM7037527631].md",
+          "key": "science-supported-tools-to-accelerate-your-fitness-goals-scim7037527631",
+          "show": "Huberman Lab",
+          "title": "Science-Supported Tools to Accelerate Your Fitness Goals",
+          "url": "/wiki/sources/science-supported-tools-to-accelerate-your-fitness-goals-scim7037527631/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/exercisesnacks/"
     },
     "ExerciseSpecificBrainAdaptation": {
       "episode_count": 1,
@@ -57376,9 +57413,9 @@
       "url": "/wiki/concepts/flexiblefrontiermilitarydiscretion/"
     },
     "FlexibleWeeklyFitnessScaffold": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM5878324891 [SCIM5878324891].md",
@@ -57386,9 +57423,16 @@
           "show": "Huberman Lab",
           "title": "AMA #11: Improve Task Switching & Productivity and Reduce Brain Fog",
           "url": "/wiki/sources/ama-11-improve-task-switching-productivity-and-reduce-brain-fog-scim5878324891/"
+        },
+        {
+          "episode_file": "SCIM7037527631 [SCIM7037527631].md",
+          "key": "science-supported-tools-to-accelerate-your-fitness-goals-scim7037527631",
+          "show": "Huberman Lab",
+          "title": "Science-Supported Tools to Accelerate Your Fitness Goals",
+          "url": "/wiki/sources/science-supported-tools-to-accelerate-your-fitness-goals-scim7037527631/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/flexibleweeklyfitnessscaffold/"
     },
     "FlightToVarennes": {
@@ -80459,6 +80503,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/integratedcarefragmentation/"
     },
+    "IntegratedZone2Movement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7037527631 [SCIM7037527631].md",
+          "key": "science-supported-tools-to-accelerate-your-fitness-goals-scim7037527631",
+          "show": "Huberman Lab",
+          "title": "Science-Supported Tools to Accelerate Your Fitness Goals",
+          "url": "/wiki/sources/science-supported-tools-to-accelerate-your-fitness-goals-scim7037527631/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/integratedzone2movement/"
+    },
     "IntegrityAsInnerCoherence": {
       "episode_count": 1,
       "show_count": 1,
@@ -81042,6 +81102,50 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/interrogationtortureconstraint/"
+    },
+    "InterstateEconomicWarfare": {
+      "episode_count": 5,
+      "show_count": 2,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "GLT5069845329 [GLT5069845329].md",
+          "key": "693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329",
+          "show": "The Rest Is History",
+          "title": "693. Elizabeth I vs The Catholics: England's Greatest Hero (Part 3)",
+          "url": "/wiki/sources/693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329/"
+        },
+        {
+          "episode_file": "GLT1627515087 [GLT1627515087].md",
+          "key": "694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087",
+          "show": "The Rest Is History",
+          "title": "694. Elizabeth I vs The Catholics: A Treacherous Conspiracy (Part 4)",
+          "url": "/wiki/sources/694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087/"
+        },
+        {
+          "episode_file": "GLT5637968455 [GLT5637968455].md",
+          "key": "695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455",
+          "show": "The Rest Is History",
+          "title": "695. Elizabeth I vs The Catholics: The Shadow War (Part 5)",
+          "url": "/wiki/sources/695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》75-4丨为什么说管仲才是经济战的鼻祖？ [lrDleQOzaZh4-xdwAS4KARzGBMZA].md",
+          "key": "zizhi-tongjian-zhouji-75-4-weishenme-shuo-guanzhong-caishi-jingji-zhan-de-bizu-lrdleqozazh4-xdwas4karzgbmza",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》75-4丨为什么说管仲才是经济战的鼻祖？",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-75-4-weishenme-shuo-guanzhong-caishi-jingji-zhan-de-bizu-lrdleqozazh4-xdwas4karzgbmza/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》75-3丨古代的经济战争能有多可怕？ [liyBGOZ8LsPYpAx6DHUKE2js0PxF].md",
+          "key": "zizhi-tongjian-zhouji-75-3-gudai-de-jingji-zhanzheng-neng-you-duo-kepa-liybgoz8lspypax6dhuke2js0pxf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》75-3丨古代的经济战争能有多可怕？",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-75-3-gudai-de-jingji-zhanzheng-neng-you-duo-kepa-liybgoz8lspypax6dhuke2js0pxf/"
+        }
+      ],
+      "updated": "2026-08-26",
+      "url": "/wiki/concepts/interstateeconomicwarfare/"
     },
     "InterventionalUltrasoundSafety": {
       "episode_count": 1,
@@ -99381,6 +99485,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/concepts/lowgimarketingtrap/"
+    },
+    "LowRepetitionStrengthBlocks": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7037527631 [SCIM7037527631].md",
+          "key": "science-supported-tools-to-accelerate-your-fitness-goals-scim7037527631",
+          "show": "Huberman Lab",
+          "title": "Science-Supported Tools to Accelerate Your Fitness Goals",
+          "url": "/wiki/sources/science-supported-tools-to-accelerate-your-fitness-goals-scim7037527631/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/lowrepetitionstrengthblocks/"
     },
     "Lowes": {
       "episode_count": 1,
@@ -122356,9 +122476,9 @@
       "url": "/wiki/concepts/physicsstagnationclaim/"
     },
     "PhysiologicalSigh": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1991900083 [SCIM1991900083].md",
@@ -122366,9 +122486,16 @@
           "show": "Huberman Lab",
           "title": "Mental Health Toolkit: Tools to Bolster Your Mood & Mental Health",
           "url": "/wiki/sources/mental-health-toolkit-tools-to-bolster-your-mood-mental-health-scim1991900083/"
+        },
+        {
+          "episode_file": "SCIM7037527631 [SCIM7037527631].md",
+          "key": "science-supported-tools-to-accelerate-your-fitness-goals-scim7037527631",
+          "show": "Huberman Lab",
+          "title": "Science-Supported Tools to Accelerate Your Fitness Goals",
+          "url": "/wiki/sources/science-supported-tools-to-accelerate-your-fitness-goals-scim7037527631/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/physiologicalsigh/"
     },
     "PiTongEasternHan": {

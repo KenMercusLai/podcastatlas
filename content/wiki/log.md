@@ -24323,3 +24323,11 @@ Added source `vol-56-daxue-biyeji-zhai-yanjing-dai-yatao-chuzhou-zhandou-jianfei
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | Science-Supported Tools to Accelerate Your Fitness Goals
+
+Added source `science-supported-tools-to-accelerate-your-fitness-goals-scim7037527631`; created `IntegratedZone2Movement`, `ExerciseSnacks`, and `LowRepetitionStrengthBlocks`; and updated `AndyGalpin`, `FlexibleWeeklyFitnessScaffold`, `PhysiologicalSigh`, `CreatineMonohydrateEvidence`, `EnduranceTrainingModalities`, and the canonical index from their complete bounded source sets. Core synthesis: practical fitness additions work best as layers on a mixed resistance, cardiovascular, and recovery foundation; daily movement and brief bouts lower adherence barriers, low-repetition blocks and occasional intervals target specific adaptations, and breathing and attention boundaries improve transitions around work. No settled contradiction was adopted. The episode's 10-15 gram creatine range for heavier people remains unresolved against existing five-gram examples, while decline rates, zone 2 non-interference, interval effects, supplement claims, and fasted-versus-fed claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

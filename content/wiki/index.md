@@ -3071,6 +3071,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.63无·事｜小胖丫：只要活着，一切困难都是擦伤](sources/vol-63-wu-shi-xiaopangya-zhiyao-huozhe-yiqie-kunnan-dou-shi-cashang-llxi8nxbim2if7mma7muzmntkaex.md) — 这病说来话长 survivor interview on cancer treatment, recovery, family-clinician communication, identity, ordinary inclusion, work, and future planning.
 - [Harnessing Passion, Drive & Persistence for Lifelong Success | Tony Hawk](sources/harnessing-passion-drive-persistence-for-lifelong-success-tony-hawk-scim8571002701.md) — Huberman Lab conversation on skateboarding mastery, intrinsic progression, injury-recovery adherence, entrepreneurship, family, and public skateparks.
 
+- [Science-Supported Tools to Accelerate Your Fitness Goals](sources/science-supported-tools-to-accelerate-your-fitness-goals-scim7037527631.md) — Huberman Lab solo episode on daily zone 2 movement, low-repetition strength blocks, exercise snacks, interval and breathing tools, workout focus, flexible fueling, and supplement boundaries.
+
 ## Entities
 - [小常老师 / Xiaochang (nutrition guest)](entities/XiaochangNutritionGuest.md) — Source-scoped nutrition guest emphasizing sustainable energy deficit, dietary quality, rebound prevention, and low-energy-availability caution.
 - [Lord Dunmore's Proclamation](entities/LordDunmoresProclamation.md) — November 1775 service-linked freedom offer exposing Black agency, British strategy, and slaveholder radicalization.
@@ -22842,5 +22844,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Rain Exposure and Foot-Care Boundary / 雨后蹚水足部照护边界](concepts/RainExposureFootCareBoundary.md) — Post-wading hygiene boundary separating prompt rinsing, drying, and wet-footwear removal from unvalidated systemic cold-damp and remedy claims.
 - [Lifelong Skill Progression](concepts/LifelongSkillProgression.md) — Mastery model joining intrinsic reward, deliberate repetition, community learning, selective risk, and adaptation across a long career.
 - [Injury Recovery Adherence](concepts/InjuryRecoveryAdherence.md) — Recovery discipline that aligns activity and return-to-sport progression with clinical guidance rather than impatience or pain tolerance.
+
+- [Integrated Zone 2 Movement](concepts/IntegratedZone2Movement.md) — Aerobic-base strategy that accumulates conversational-intensity work through walking, errands, meetings, calls, and active play.
+- [Exercise Snacks](concepts/ExerciseSnacks.md) — Brief cardiovascular or muscular-endurance bouts used to lower movement barriers and bridge disrupted training.
+- [Low-Repetition Strength Blocks](concepts/LowRepetitionStrengthBlocks.md) — Bounded heavy-strength phases using low repetitions, longer rests, progressive warm-ups, and individualized exercise selection.
 
 ## Syntheses

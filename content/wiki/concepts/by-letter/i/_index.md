@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 8570
+wiki_total_pages: 8573
 wiki_pages:
   - key: "IBDPatientEducationAndPeerSupport"
     title: "IBD Patient Education and Peer Support / IBD患者教育与同伴支持"
@@ -593,6 +593,9 @@ wiki_pages:
   - key: "IntegratedMLTeams"
     title: "Integrated ML Teams"
     url: "/wiki/concepts/integratedmlteams/"
+  - key: "IntegratedZone2Movement"
+    title: "Integrated Zone 2 Movement"
+    url: "/wiki/concepts/integratedzone2movement/"
   - key: "IntegrityAsInnerCoherence"
     title: "Integrity as Inner Coherence"
     url: "/wiki/concepts/integrityasinnercoherence/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 8570
+wiki_total_pages: 8573
 wiki_pages:
   - key: "LaborIllusion"
     title: "Labor Illusion"
@@ -824,6 +824,9 @@ wiki_pages:
   - key: "LowPostureStatecraft"
     title: "Low-Posture Statecraft / 低姿态权宜"
     url: "/wiki/concepts/lowposturestatecraft/"
+  - key: "LowRepetitionStrengthBlocks"
+    title: "Low-Repetition Strength Blocks"
+    url: "/wiki/concepts/lowrepetitionstrengthblocks/"
   - key: "LowStatusStrategicPersuasion"
     title: "Low-Status Strategic Persuasion / 低位者战略说服"
     url: "/wiki/concepts/lowstatusstrategicpersuasion/"
