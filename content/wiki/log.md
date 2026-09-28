@@ -24762,3 +24762,11 @@ Added source `325-fall-of-saigon-apocalypse-now-part-2-glt1698435670`; created `
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | VOL.42心血管内科｜听说你总是头疼？可能需要做一件“堵心事”来解决
+
+Added source `vol-42-xinxueguan-neike-tingshuo-ni-zongshi-touteng-keneng-xuyao-zuo-yijian-du-xin-shi-lai-jiejue-lvw85wqzb0kvpyk5uipsagy13b11`; created `PatentForamenOvaleEvaluationAndClosure`; and updated `WengJiayiCardiology` and `MigraineRecognitionAndTriage` from their complete bounded source sets. Core synthesis: PFO is a common flap-like fetal remnant whose discovery does not by itself establish migraine causation, embolic risk, or a closure indication; testing modalities contribute different evidence, and medicines, catheter closure, and surgery have different purposes and burdens. No settled contradiction was adopted. The guest-name spellings 翁家毅/翁嘉义/翁嘉逸 and source-level pronouns remain unresolved, while prevalence, test performance, response rates, procedure recovery, and treatment choices remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

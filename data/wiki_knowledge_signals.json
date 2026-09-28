@@ -113270,9 +113270,9 @@
       "url": "/wiki/concepts/migraineneuromodulationevidenceboundary/"
     },
     "MigraineRecognitionAndTriage": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lrKQHLcwHXomw_aegpD_RzCO8vIO [lrKQHLcwHXomw_aegpD_RzCO8vIO].md",
@@ -113280,9 +113280,16 @@
           "show": "这病说来话长",
           "title": "VOL.157最头疼的问题就是头疼 ft.大物是也·斑马酱",
           "url": "/wiki/sources/vol-157-zui-touteng-de-wenti-jiushi-touteng-ft-dawu-shiye-banmajiang-lrkqhlcwhxomw_aegpd_rzco8vio/"
+        },
+        {
+          "episode_file": "lvw85WqZb0kvPYK5UIPsAGY13b11 [lvw85WqZb0kvPYK5UIPsAGY13b11].md",
+          "key": "vol-42-xinxueguan-neike-tingshuo-ni-zongshi-touteng-keneng-xuyao-zuo-yijian-du-xin-shi-lai-jiejue-lvw85wqzb0kvpyk5uipsagy13b11",
+          "show": "这病说来话长",
+          "title": "VOL.42心血管内科｜听说你总是头疼？可能需要做一件“堵心事”来解决",
+          "url": "/wiki/sources/vol-42-xinxueguan-neike-tingshuo-ni-zongshi-touteng-keneng-xuyao-zuo-yijian-du-xin-shi-lai-jiejue-lvw85wqzb0kvpyk5uipsagy13b11/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/migrainerecognitionandtriage/"
     },
     "MigraineTriggerDiaryManagement": {
@@ -125537,6 +125544,29 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/entities/patagoniaregion/"
+    },
+    "PatentForamenOvaleEvaluationAndClosure": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "lo_ztSJIzbuNfSI5UHiI1IV_LRZb [lo_ztSJIzbuNfSI5UHiI1IV_LRZb].md",
+          "key": "vol-65-xinzang-waike-xianxinbing-guanxinbing-banmobing-zhe-jizhong-xinzang-jibing-lai-ting-anzhen-yisheng-zenme-jiang-lo_ztsjizbunfsi5uhii1iv_lrzb",
+          "show": "这病说来话长",
+          "title": "VOL.65心脏外科｜先心病、冠心病、瓣膜病 这几种心脏疾病来听安贞医生怎么讲",
+          "url": "/wiki/sources/vol-65-xinzang-waike-xianxinbing-guanxinbing-banmobing-zhe-jizhong-xinzang-jibing-lai-ting-anzhen-yisheng-zenme-jiang-lo_ztsjizbunfsi5uhii1iv_lrzb/"
+        },
+        {
+          "episode_file": "lvw85WqZb0kvPYK5UIPsAGY13b11 [lvw85WqZb0kvPYK5UIPsAGY13b11].md",
+          "key": "vol-42-xinxueguan-neike-tingshuo-ni-zongshi-touteng-keneng-xuyao-zuo-yijian-du-xin-shi-lai-jiejue-lvw85wqzb0kvpyk5uipsagy13b11",
+          "show": "这病说来话长",
+          "title": "VOL.42心血管内科｜听说你总是头疼？可能需要做一件“堵心事”来解决",
+          "url": "/wiki/sources/vol-42-xinxueguan-neike-tingshuo-ni-zongshi-touteng-keneng-xuyao-zuo-yijian-du-xin-shi-lai-jiejue-lvw85wqzb0kvpyk5uipsagy13b11/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/patentforamenovaleevaluationandclosure/"
     },
     "PaternalAgeRiskCounseling": {
       "episode_count": 1,
@@ -173612,9 +173642,9 @@
       "url": "/wiki/entities/wendys/"
     },
     "WengJiayiCardiology": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "ll6i050qnIR6OT6TYlDl8meaXJDr [ll6i050qnIR6OT6TYlDl8meaXJDr].md",
@@ -173629,6 +173659,13 @@
           "show": "这病说来话长",
           "title": "VOL.43心血管内科｜帮你分清高血压及高血压病、如何准确测量和用药误区",
           "url": "/wiki/sources/vol-43-xinxueguan-neike-bang-ni-fenqing-gaoxueya-ji-gaoxueyabing-ruhe-zhunque-celiang-he-yongyao-wuqu-nlpxlwbgg0fb8lfosi_5ysestz8k/"
+        },
+        {
+          "episode_file": "lvw85WqZb0kvPYK5UIPsAGY13b11 [lvw85WqZb0kvPYK5UIPsAGY13b11].md",
+          "key": "vol-42-xinxueguan-neike-tingshuo-ni-zongshi-touteng-keneng-xuyao-zuo-yijian-du-xin-shi-lai-jiejue-lvw85wqzb0kvpyk5uipsagy13b11",
+          "show": "这病说来话长",
+          "title": "VOL.42心血管内科｜听说你总是头疼？可能需要做一件“堵心事”来解决",
+          "url": "/wiki/sources/vol-42-xinxueguan-neike-tingshuo-ni-zongshi-touteng-keneng-xuyao-zuo-yijian-du-xin-shi-lai-jiejue-lvw85wqzb0kvpyk5uipsagy13b11/"
         }
       ],
       "updated": "2026-09-28",

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.42心血管内科｜听说你总是头疼？可能需要做一件“堵心事”来解决](sources/vol-42-xinxueguan-neike-tingshuo-ni-zongshi-touteng-keneng-xuyao-zuo-yijian-du-xin-shi-lai-jiejue-lvw85wqzb0kvpyk5uipsagy13b11.md) — 这病说来话长 episode on PFO anatomy, migraine and embolic evaluation, echocardiographic testing, and individualized closure decisions.
 - [325: Fall of Saigon: Apocalypse Now (Part 2)](sources/325-fall-of-saigon-apocalypse-now-part-2-glt1698435670.md) — The Rest Is History episode on Saigon's final evacuation, postwar repression and refugee flight, and the American cultural memory of Vietnam.
 - [Amazon wants Alexa to finish your to-do list, not just research it](sources/tech-20260928-0928-mp-tech-pod-128-tech-20260928-0928-mp-tech-pod-128.md) — Marketplace Tech interview with Daniel Rausch on Alexa+ task completion, Prime economics, household hardware, agentic shopping, and expansion into wearable ambient assistance.
 - [新一代投资者似乎不爱买股票了：逐渐被ETF主导的市场和未来](sources/xin-yidai-touzizhe-sihu-bu-ai-mai-gupiao-le-zhujian-bei-etf-zhudao-de-shichang-he-weilai-lk1lxwniotregvs9euhepkm9nruo.md) — 面基 episode on ETF adoption, consensus feedback, price discovery, cross-market capital flows, and holding-horizon discipline.
@@ -3570,7 +3571,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [玲珑塔门市部 / Linglongta Menshibu](entities/LinglongtaMenshibu.md) — Crosstalk-centered comedy podcast using an outsider-facing approach to comic craft and lesser-known folk arts.
 - [何思琪 / He Siqi (天津师大校广播)](entities/HeSiqiTianjinNormalRadio.md) — Campus-radio participant who originated the “笑不活” health-and-humor topic.
 - [吴斌 / Wu Bin (口腔科)](entities/WuBinOralDoctor.md) — Oral-health clinician explaining orthodontic, implant, preventive-care, older-adult, and jaw-dislocation boundaries.
-- [翁家毅 / Weng Jiayi](entities/WengJiayiCardiology.md) — Cardiovascular clinician explaining hypertension management and vulnerability-dependent trigger risk, with an unresolved 翁家毅/翁嘉义 spelling variation.
+- [翁家毅 / Weng Jiayi](entities/WengJiayiCardiology.md) — Cardiovascular clinician explaining hypertension, trigger risk, and PFO evaluation, with unresolved 翁家毅/翁嘉义/翁嘉逸 spelling and pronoun variation.
 - [Charles II of England](entities/CharlesIIOfEngland.md) — Contingently restored monarch joining the 1660 settlement to sober dress politics and charismatic sociability.
 - [Beau Brummell](entities/BeauBrummell.md) — Regency dandy who made immaculate understatement an expensive elite performance.
 - [Savile Row](entities/SavileRow.md) — London bespoke-tailoring district combining craft, records, heritage, elite clients, and stylistic reinvention.
@@ -14442,6 +14443,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Frankfurt Parliament](entities/FrankfurtParliament.md) — German national assembly whose representative ambition lacked independent military and administrative capacity.
 
 ## Concepts
+- [Patent Foramen Ovale Evaluation and Closure / 卵圆孔未闭评估与封堵](concepts/PatentForamenOvaleEvaluationAndClosure.md) — Finding-versus-indication framework for PFO anatomy, shunt testing, causal assessment, and treatment selection.
 - [Intervention–Withdrawal Dependency](concepts/InterventionWithdrawalDependency.md) — Process by which intervention creates reliance and obligations that make later withdrawal materially and morally difficult.
 - [Vietnamese Refugee Exodus](concepts/VietnameseRefugeeExodus.md) — Post-1975 displacement through evacuation, maritime flight, resettlement, and receiving-country hostility.
 - [Vietnam War American Memory](concepts/VietnamWarAmericanMemory.md) — Cultural process recentering Vietnam as an American story of trauma, humiliation, isolation, and military redemption.
