@@ -8,7 +8,8 @@ sources:
   - 702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089
   - 703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511
   - 704-roman-civil-war-master-of-the-republic-part-4-glt9669112656
-last_updated: 2026-09-10
+  - 305-the-fall-of-the-roman-republic-glt6995332578
+last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
 
@@ -28,17 +29,19 @@ Episode 703 changes the crisis from immediate threshold to explicit precedent. S
 
 Episode 704 changes the crisis from precedent to attempted cure. Sulla defeats Cinna's successors, [[GaiusMariusYounger]], and the [[Samnites]], then uses massacre, [[SullanProscriptions]], confiscation, and [[SullanDictatorship|dictatorship]] to rebuild the republic on conservative terms. The episode's judgment is double: Sulla's reforms are intended to stop repeated consulships, youthful office grabs, tribunate disruption, and senatorial weakness, but his own victory teaches that an army-backed commander can seize Rome, kill enemies, redistribute property, hold extraordinary office, and redesign the constitution.
 
-The concept changes the moral question around Caesar and the assassination. If the republic was already unable to absorb inequality, outsider ambition, army loyalty, Italian citizenship pressure, coercive popular procedure, public-enemy outlawry, and civil violence, then killing one dominant figure could not repair the institutional field that produced him.
+Episode 305 supplies the terminal sequence after Caesar. The conspirators remove the dictator but do not control the city, funeral, succession, or armies. [[Cicero]] can mobilize senatorial language and other commanders but not an independent force. [[OctavianAugustus|Octavian]] turns Caesar's name, money, private recruits, and the deaths of the consuls into a coerced consulship, then joins [[MarkAntony]] and Lepidus in the [[SecondTriumvirate]]. Proscriptions revive Sulla's list-based terror for vengeance and war finance, while [[BattleOfPhilippi|Philippi]] destroys the principal republican armies. The concept therefore ends not with legality simply disappearing, but with law, office, and republican presentation retained inside commander rule.
+
+The concept changes the moral question around Caesar and the assassination. If the republic was already unable to absorb inequality, outsider ambition, army loyalty, Italian citizenship pressure, coercive popular procedure, public-enemy outlawry, and civil violence, then killing one dominant figure could not repair the institutional field that produced him. The post-assassination evidence now shows exactly how that failure operates: negative agreement on removing Caesar does not produce control of institutions, public legitimacy, succession, or force.
 
 ## Key Claims
 
 - Caesar is central to the collapse story, but the crisis predates him through Marius, Sulla, the Gracchi aftermath, provincial wealth, and civil violence.
 - Republican institutions can remain formally intact while losing the norms and incentives that make them governable.
 - Expansion abroad feeds crisis at home when wealth, luxury, corruption, land pressure, and urban resentment become political fuel.
-- Popular politics and elite republicanism are both ambiguous; neither maps cleanly onto modern democracy or oligarchy, and both can become coercive under crisis.
-- Military command becomes politically dangerous when foreign wars create personal reputation, reward networks, credit disputes, and soldiers willing to follow commanders against Rome.
+- Popular politics and elite republicanism are both ambiguous; neither maps cleanly onto modern democracy or oligarchy, and both can become coercive when military reputation, reward networks, and soldiers attach to commanders.
 - Citizenship exclusion becomes destabilizing when Italian allies share Rome's burdens and profits without full political standing.
 - Public-enemy declarations, proscriptions, and extraordinary dictatorship turn opposition into outlawry, making legal categories part of the pathway into murder, confiscation, and constitutional redesign.
+- Caesar's assassination fails as restoration because the liberators cannot convert tyrannicide into control of government, public emotion, succession, and armies; the Augustan outcome preserves republican presentation after effective independence has been defeated.
 
 ## Evidence
 
@@ -53,16 +56,17 @@ The concept changes the moral question around Caesar and the assassination. If t
 - March and public-enemy precedent: [[703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511]] shows Sulla marching on Rome, occupying the Senate field, and having Marius and Sulpicius declared public enemies.
 - Spiral after Sulla: [[703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511]] shows Cinna's expulsion and outlawry, Cinna and Marius's siege of Rome, Octavius's killing, Marius's seventh consulship and death, and Cinna's anti-Sulla regime.
 - Sullan settlement: [[704-roman-civil-war-master-of-the-republic-part-4-glt9669112656]] shows Cinna's mutiny death, Marius Younger's illegal consulship and suicide, the Colline Gate victory, Samnite massacre, proscriptions, dictatorship, reforms, abdication, and Caesar-facing legacy.
+- Terminal post-Caesar sequence: [[305-the-fall-of-the-roman-republic-glt6995332578]] follows failed amnesty, funeral backlash, Octavian's private force and consulship, the Second Triumvirate, proscriptions, Philippi, and Augustan presentation.
 
 ## Counterevidence & Qualifications
 
-The current sources do not claim a single inevitable collapse path. Episode 704 resolves the Sullan settlement but still leaves the later path from Sulla to Pompey, Caesar, and Augustus incomplete. The crisis frame also does not absolve Caesar or later actors; it explains why individual choices became unusually destructive inside an already strained institutional field.
+The current sources do not claim a single inevitable collapse path. They still do not provide a continuous account from Sulla through Pompey's mature career and Caesar's conquest and dictatorship. Episode 305 supplies the post-assassination endpoint but treats structural inevitability as debated: Caesar's choices mattered even if imperial scale and prior violence made the republic unstable. The crisis frame does not absolve Caesar, the liberators, or the triumvirs; it explains why their choices became unusually destructive inside an already strained institutional field.
 
 ## What Changed
 
-- Added Sulla's return, Colline Gate victory, proscriptions, dictatorship, conservative reforms, abdication, and Caesar-facing legacy.
-- Reframed Sulla's settlement as an attempted institutional repair whose methods deepen the crisis precedent.
-- Added the anti-Sullan side's own constitutional failures through Cinna and Marius Younger.
+- Added the failed post-Caesar settlement, triumviral proscriptions, Philippi, and Augustan endpoint.
+- Made control of public emotion, succession, and armies explicit as requirements missing from the liberators' plan.
+- Reframed the final collapse as republican form surviving inside commander rule rather than law simply vanishing.
 
 ## Related Concepts
 
@@ -78,3 +82,5 @@ The current sources do not claim a single inevitable collapse path. Episode 704 
 - [[PopularisPolitics]] - political mode connecting tribunate reform and anti-elite public positioning.
 - [[PersonalRuleLegitimacyCrisis]] - late-stage Caesar problem produced by the broader crisis.
 - [[HistoricalRhymePoliticalReading]] - interpretive frame for using the Roman crisis without forcing one-to-one analogy.
+- [[SecondTriumvirate]] - terminal regime that legalizes shared commander dictatorship and proscription.
+- [[BattleOfPhilippi]] - military defeat that ends the principal organized republican resistance.

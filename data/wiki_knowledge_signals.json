@@ -17097,6 +17097,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/battleofnarva/"
     },
+    "BattleOfPhilippi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6995332578 [GLT6995332578].md",
+          "key": "305-the-fall-of-the-roman-republic-glt6995332578",
+          "show": "The Rest Is History",
+          "title": "305: The Fall of the Roman Republic",
+          "url": "/wiki/sources/305-the-fall-of-the-roman-republic-glt6995332578/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/battleofphilippi/"
+    },
     "BattleOfPoitiers": {
       "episode_count": 1,
       "show_count": 1,
@@ -22429,6 +22445,36 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/entities/cadbury/"
+    },
+    "CaesarAssassination": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
+          "key": "124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361",
+          "show": "蜜獾吃书",
+          "title": "124. 恺撒之死：历史的韵脚，是否已失效？",
+          "url": "/wiki/sources/124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361/"
+        },
+        {
+          "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
+          "key": "125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516",
+          "show": "蜜獾吃书",
+          "title": "125. 马拉之死：卑鄙的暗杀，或正义的处决？",
+          "url": "/wiki/sources/125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516/"
+        },
+        {
+          "episode_file": "GLT6995332578 [GLT6995332578].md",
+          "key": "305-the-fall-of-the-roman-republic-glt6995332578",
+          "show": "The Rest Is History",
+          "title": "305: The Fall of the Roman Republic",
+          "url": "/wiki/sources/305-the-fall-of-the-roman-republic-glt6995332578/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/caesarassassination/"
     },
     "CaesarsBritishExpeditions": {
       "episode_count": 1,
@@ -30969,6 +31015,29 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/chunyuzhangwesternhan/"
+    },
+    "Cicero": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
+          "key": "124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361",
+          "show": "蜜獾吃书",
+          "title": "124. 恺撒之死：历史的韵脚，是否已失效？",
+          "url": "/wiki/sources/124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361/"
+        },
+        {
+          "episode_file": "GLT6995332578 [GLT6995332578].md",
+          "key": "305-the-fall-of-the-roman-republic-glt6995332578",
+          "show": "The Rest Is History",
+          "title": "305: The Fall of the Roman Republic",
+          "url": "/wiki/sources/305-the-fall-of-the-roman-republic-glt6995332578/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/cicero/"
     },
     "CircadianEatingWindowAlignment": {
       "episode_count": 2,
@@ -65672,6 +65741,29 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/gaiyaneasternhan/"
     },
+    "GaiusCassiusLonginus": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
+          "key": "124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361",
+          "show": "蜜獾吃书",
+          "title": "124. 恺撒之死：历史的韵脚，是否已失效？",
+          "url": "/wiki/sources/124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361/"
+        },
+        {
+          "episode_file": "GLT6995332578 [GLT6995332578].md",
+          "key": "305-the-fall-of-the-roman-republic-glt6995332578",
+          "show": "The Rest Is History",
+          "title": "305: The Fall of the Roman Republic",
+          "url": "/wiki/sources/305-the-fall-of-the-roman-republic-glt6995332578/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/gaiuscassiuslonginus/"
+    },
     "GaiusMarius": {
       "episode_count": 5,
       "show_count": 2,
@@ -97057,9 +97149,9 @@
       "url": "/wiki/concepts/latemedievalsalvationsystem/"
     },
     "LateRomanRepublicCrisis": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
@@ -97095,9 +97187,16 @@
           "show": "The Rest Is History",
           "title": "704. Roman Civil War: Master of the Republic (Part 4)",
           "url": "/wiki/sources/704-roman-civil-war-master-of-the-republic-part-4-glt9669112656/"
+        },
+        {
+          "episode_file": "GLT6995332578 [GLT6995332578].md",
+          "key": "305-the-fall-of-the-roman-republic-glt6995332578",
+          "show": "The Rest Is History",
+          "title": "305: The Fall of the Roman Republic",
+          "url": "/wiki/sources/305-the-fall-of-the-roman-republic-glt6995332578/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/lateromanrepubliccrisis/"
     },
     "LateStagePrivateCompanyValuationRisk": {
@@ -110611,6 +110710,36 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/marconiunion/"
     },
+    "MarcusBrutus": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
+          "key": "124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361",
+          "show": "蜜獾吃书",
+          "title": "124. 恺撒之死：历史的韵脚，是否已失效？",
+          "url": "/wiki/sources/124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361/"
+        },
+        {
+          "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
+          "key": "125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516",
+          "show": "蜜獾吃书",
+          "title": "125. 马拉之死：卑鄙的暗杀，或正义的处决？",
+          "url": "/wiki/sources/125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516/"
+        },
+        {
+          "episode_file": "GLT6995332578 [GLT6995332578].md",
+          "key": "305-the-fall-of-the-roman-republic-glt6995332578",
+          "show": "The Rest Is History",
+          "title": "305: The Fall of the Roman Republic",
+          "url": "/wiki/sources/305-the-fall-of-the-roman-republic-glt6995332578/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/marcusbrutus/"
+    },
     "MarcusLiciniusCrassus": {
       "episode_count": 2,
       "show_count": 2,
@@ -111057,6 +111186,29 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/markandreessen/"
+    },
+    "MarkAntony": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
+          "key": "124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361",
+          "show": "蜜獾吃书",
+          "title": "124. 恺撒之死：历史的韵脚，是否已失效？",
+          "url": "/wiki/sources/124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361/"
+        },
+        {
+          "episode_file": "GLT6995332578 [GLT6995332578].md",
+          "key": "305-the-fall-of-the-roman-republic-glt6995332578",
+          "show": "The Rest Is History",
+          "title": "305: The Fall of the Roman Republic",
+          "url": "/wiki/sources/305-the-fall-of-the-roman-republic-glt6995332578/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/markantony/"
     },
     "MarkCarney": {
       "episode_count": 2,
@@ -123142,6 +123294,29 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/entities/oceanbase/"
+    },
+    "OctavianAugustus": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
+          "key": "124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361",
+          "show": "蜜獾吃书",
+          "title": "124. 恺撒之死：历史的韵脚，是否已失效？",
+          "url": "/wiki/sources/124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361/"
+        },
+        {
+          "episode_file": "GLT6995332578 [GLT6995332578].md",
+          "key": "305-the-fall-of-the-roman-republic-glt6995332578",
+          "show": "The Rest Is History",
+          "title": "305: The Fall of the Roman Republic",
+          "url": "/wiki/sources/305-the-fall-of-the-roman-republic-glt6995332578/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/octavianaugustus/"
     },
     "October1974UKGeneralElection": {
       "episode_count": 2,
@@ -141501,6 +141676,36 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/republicanfoundingwithoutsettlement/"
     },
+    "RepublicanMemoryAgainstDictatorship": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
+          "key": "124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361",
+          "show": "蜜獾吃书",
+          "title": "124. 恺撒之死：历史的韵脚，是否已失效？",
+          "url": "/wiki/sources/124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361/"
+        },
+        {
+          "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
+          "key": "125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516",
+          "show": "蜜獾吃书",
+          "title": "125. 马拉之死：卑鄙的暗杀，或正义的处决？",
+          "url": "/wiki/sources/125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516/"
+        },
+        {
+          "episode_file": "GLT6995332578 [GLT6995332578].md",
+          "key": "305-the-fall-of-the-roman-republic-glt6995332578",
+          "show": "The Rest Is History",
+          "title": "305: The Fall of the Roman Republic",
+          "url": "/wiki/sources/305-the-fall-of-the-roman-republic-glt6995332578/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/republicanmemoryagainstdictatorship/"
+    },
     "RepublicanRestraintLeadership": {
       "episode_count": 2,
       "show_count": 1,
@@ -144845,9 +145050,9 @@
       "url": "/wiki/concepts/romanprovincialconsolidation/"
     },
     "RomanRepublic": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 2,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
@@ -144897,9 +145102,16 @@
           "show": "The Rest Is History",
           "title": "423. Carthage vs. Rome: The Wolf at the Gates (Part 3)",
           "url": "/wiki/sources/423-carthage-vs-rome-the-wolf-at-the-gates-part-3-glt2669872613/"
+        },
+        {
+          "episode_file": "GLT6995332578 [GLT6995332578].md",
+          "key": "305-the-fall-of-the-roman-republic-glt6995332578",
+          "show": "The Rest Is History",
+          "title": "305: The Fall of the Roman Republic",
+          "url": "/wiki/sources/305-the-fall-of-the-roman-republic-glt6995332578/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-29",
       "url": "/wiki/entities/romanrepublic/"
     },
     "RomanceOfTheThreeKingdoms": {
@@ -148225,6 +148437,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/secondopinionstrategy/"
+    },
+    "SecondTriumvirate": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6995332578 [GLT6995332578].md",
+          "key": "305-the-fall-of-the-roman-republic-glt6995332578",
+          "show": "The Rest Is History",
+          "title": "305: The Fall of the Roman Republic",
+          "url": "/wiki/sources/305-the-fall-of-the-roman-republic-glt6995332578/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/secondtriumvirate/"
     },
     "SecondaryOralityInAIEra": {
       "episode_count": 2,
@@ -168998,6 +169226,36 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/concepts/tworoundpresidentialelection/"
+    },
+    "TyrannicideRepublicanDilemma": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
+          "key": "124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361",
+          "show": "蜜獾吃书",
+          "title": "124. 恺撒之死：历史的韵脚，是否已失效？",
+          "url": "/wiki/sources/124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361/"
+        },
+        {
+          "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
+          "key": "125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516",
+          "show": "蜜獾吃书",
+          "title": "125. 马拉之死：卑鄙的暗杀，或正义的处决？",
+          "url": "/wiki/sources/125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516/"
+        },
+        {
+          "episode_file": "GLT6995332578 [GLT6995332578].md",
+          "key": "305-the-fall-of-the-roman-republic-glt6995332578",
+          "show": "The Rest Is History",
+          "title": "305: The Fall of the Roman Republic",
+          "url": "/wiki/sources/305-the-fall-of-the-roman-republic-glt6995332578/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/tyranniciderepublicandilemma/"
     },
     "Tyre": {
       "episode_count": 1,

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2167
+topic_total_pages: 2168
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4716,6 +4716,9 @@ topic_sources:
   - key: "30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138"
     title: "30.孟子：战国愤青的赤子之心"
     url: "/wiki/sources/30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138/"
+  - key: "305-the-fall-of-the-roman-republic-glt6995332578"
+    title: "305: The Fall of the Roman Republic"
+    url: "/wiki/sources/305-the-fall-of-the-roman-republic-glt6995332578/"
   - key: "306-columbus-the-adventure-begins-part-1-glt6089901915"
     title: "306: Columbus: The Adventure Begins (Part 1)"
     url: "/wiki/sources/306-columbus-the-adventure-begins-part-1-glt6089901915/"

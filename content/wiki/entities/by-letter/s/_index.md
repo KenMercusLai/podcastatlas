@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 11345
+wiki_total_pages: 11347
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -404,6 +404,9 @@ wiki_pages:
   - key: "SecondAutomobileWorks"
     title: "Second Automobile Works / 二汽"
     url: "/wiki/entities/secondautomobileworks/"
+  - key: "SecondTriumvirate"
+    title: "Second Triumvirate / 第二次三头同盟"
+    url: "/wiki/entities/secondtriumvirate/"
   - key: "Section32"
     title: "Section 32"
     url: "/wiki/entities/section32/"

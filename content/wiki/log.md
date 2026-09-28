@@ -25067,3 +25067,15 @@ Added source `vol-22-zhongliu-gandan-waike-guanyu-ganyan-ganyinghua-he-ganai-wom
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | 305: The Fall of the Roman Republic
+
+Added source `305-the-fall-of-the-roman-republic-glt6995332578`; created `SecondTriumvirate` and `BattleOfPhilippi`; and updated the Roman Republic aftermath cluster from its complete bounded source sets. Core synthesis: the assassination failed because the liberators did not control Rome, public emotion, succession, or armies; Octavian converted inheritance into a private force and public office; the triumvirate fused legal authority, proscription, and war finance; and Philippi destroyed the principal republican armies while Augustus later retained republican presentation around one-person rule. No settled contradiction was adopted. Apparitions, force totals, battlefield turning points, mutilation stories, motives, and competing accounts of Brutus's remains remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

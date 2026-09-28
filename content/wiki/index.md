@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [305: The Fall of the Roman Republic](sources/305-the-fall-of-the-roman-republic-glt6995332578.md) — The Rest Is History episode on the failed post-Caesar settlement, Octavian's rise, the Second Triumvirate, proscriptions, Philippi, and the Augustan end of the Republic.
 - [306: Columbus: The Adventure Begins (Part 1)](sources/306-columbus-the-adventure-begins-part-1-glt6089901915.md) — The Rest Is History episode on Columbus's Genoese-Portuguese formation, geographic error, religious and status ambition, repeated rejection, and 1492 royal sponsorship.
 - [VOL.22肿瘤肝胆外科｜关于肝炎、肝硬化和肝癌 我们应该知道这些事](sources/vol-22-zhongliu-gandan-waike-guanyu-ganyan-ganyinghua-he-ganai-women-yinggai-zhidao-zhexie-shi-lmmkgp8rpb2mvtk7slmtatq_jheg.md) — 这病说来话长 episode on hepatitis prevention, silent liver disease, fatty-liver context, liver-cancer surveillance and treatment, and cancer nutrition support.
 - [VOL.23肿瘤肝胆外科｜外科医生用中西医双系统聊胆囊胆管疾病和养生](sources/vol-23-zhongliu-gandan-waike-waike-yisheng-yong-zhongxiyi-shuangxitong-liao-dannang-danguan-jibing-he-yangsheng-lvmnrsimkqyj8jmtzdj7kfazvbzu.md) — 这病说来话长 episode on gallbladder function, gallstones, biliary cancer anatomy, treatment selection, prognosis, and medical-evidence boundaries.
@@ -11050,19 +11051,21 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Stanislas Maillard](entities/StanislasMaillard.md) — Identifiable local organizer associated with September Massacres killing teams and improvised tribunals.
 - [Thomas Paine / 托马斯·潘恩](entities/ThomasPaine.md) — Transatlantic republican whose mass persuasion for American independence coexisted with opposition to revolutionary execution in France.
 - [Julius Caesar / 尤利乌斯·恺撒](entities/JuliusCaesar.md) — Roman commander whose frontier prestige, personal rule, assassination, and disputed Alexandrian-library role shaped competing legacies.
-- [Roman Republic / 罗马共和国](entities/RomanRepublic.md) — Expansionary polity whose civic-military incorporation, early adaptive endurance, and later command crisis expose the capacity and pressures of republican mobilization.
+- [Roman Republic / 罗马共和国](entities/RomanRepublic.md) — Expansionary polity whose civic-military capacity, command crisis, failed post-Caesar settlement, and triumviral defeat expose both republican strength and collapse.
 - [Roman Empire / 罗马帝国](entities/RomanEmpire.md) — Imperial order emerging after Caesar's assassination, appearing as Da Qin in Gan Ying's Eastern Han mission, and serving as the western endpoint of a qualified Hunnic/Gothic pressure sequence.
 - [阿提拉 / Attila the Hun](entities/AttilaTheHun.md) — Hunnic leader used in Hanji 764 as the remembered late figure in the qualified migration-pressure chain from steppe displacement to Roman crisis.
-- [Assassination of Julius Caesar / 恺撒遇刺](entities/CaesarAssassination.md) — Ides of March event treated by episode 124 as both republican tyrannicide and failed political repair.
-- [Marcus Brutus / 马库斯·布鲁图斯](entities/MarcusBrutus.md) — Caesar-pardoned republican conspirator whose symbolic name and moral limits shape the assassination's meaning and failure.
-- [Gaius Cassius Longinus / 卡西乌斯](entities/GaiusCassiusLonginus.md) — Main organizer of the anti-Caesar conspiracy who needed Brutus's republican authority.
+- [Assassination of Julius Caesar / 恺撒遇刺](entities/CaesarAssassination.md) — Ides of March event whose failed political settlement leads from funeral backlash through triumviral rule and Philippi.
+- [Marcus Brutus / 马库斯·布鲁图斯](entities/MarcusBrutus.md) — Republican conspirator whose symbolic authority, failed city control, eastern coercion, and death at Philippi complicate the liberator memory.
+- [Gaius Cassius Longinus / 卡西乌斯](entities/GaiusCassiusLonginus.md) — Assassination organizer and eastern commander whose premature suicide at Philippi fractures the republican coalition.
 - [Decimus Junius Brutus / 德奇姆斯](entities/DecimusJuniusBrutus.md) — Caesar confidant and conspirator whose access helped bring Caesar to the fatal Senate meeting.
-- [Mark Antony / 马克·安东尼](entities/MarkAntony.md) — Caesar ally tied to the crown-offering episode, funeral aftermath, and later conflict with Octavian and Cleopatra.
-- [Octavian / Augustus / 屋大维](entities/OctavianAugustus.md) — Caesar's adopted heir who converts the assassination's aftermath into the Augustan imperial settlement.
+- [Mark Antony / 马克·安东尼](entities/MarkAntony.md) — Caesar ally who converts funeral politics and military recovery into triumviral power before his later defeat by Octavian.
+- [Octavian / Augustus / 屋大维](entities/OctavianAugustus.md) — Caesar's teenage heir who converts name, money, troops, consulship, and civil-war victory into the Augustan settlement.
 - [Cleopatra VII / 克娄巴特拉七世](entities/CleopatraVII.md) — Egyptian queen whose relation to Caesar and Antony intensifies Roman fears around monarchy, divinity, and succession.
 - [Pompey / 庞培](entities/Pompey.md) — Sullan civil-war prodigy with a private army before becoming Caesar ally, rival, and symbolic memory at Pompey's Curia.
 - [Marcus Licinius Crassus / 克拉苏](entities/MarcusLiciniusCrassus.md) — Sullan ally, Colline Gate commander, and proscription profiteer whose later death removes a balancing force between Caesar and Pompey.
-- [Cicero / 西塞罗](entities/Cicero.md) — Republican orator and statesman used by episode 124 to show the limits of speech and compromise after Caesar's death.
+- [Cicero / 西塞罗](entities/Cicero.md) — Republican orator whose amnesty, anti-Antony campaign, military dependence, and proscription death expose the limits of constitutional speech.
+- [Second Triumvirate / 第二次三头同盟](entities/SecondTriumvirate.md) — Legally empowered alliance of Octavian, Antony, and Lepidus that combines dictatorship, proscription, war finance, and revenge.
+- [Battle of Philippi / 腓立比战役](entities/BattleOfPhilippi.md) — Macedonian campaign where the triumviral coalition defeats Brutus and Cassius and destroys the principal republican armies.
 - [Cato the Younger / 小加图](entities/CatoTheYounger.md) — Stoic republican opponent of Caesar and moral reference point for anti-dictatorship politics.
 - [Gaius Marius / 马略](entities/GaiusMarius.md) — Provincial new man and soldier-politician whose rise, victories, command seizure, exile, armed return, death, and factional afterlife shape the Sullan crisis.
 - [Lucius Cornelius Sulla / 苏拉](entities/LuciusCorneliusSulla.md) — Marius subordinate turned rival, first marcher on Rome, eastern victor, proscriptions author, dictator, reformer, and abdicator whose precedent shadows Caesar.
