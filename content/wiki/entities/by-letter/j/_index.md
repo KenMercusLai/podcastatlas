@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 11343
+wiki_total_pages: 11345
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -1040,6 +1040,9 @@ wiki_pages:
   - key: "JoyFM"
     title: "Joy FM"
     url: "/wiki/entities/joyfm/"
+  - key: "JoaoIIOfPortugal"
+    title: "João II of Portugal"
+    url: "/wiki/entities/joaoiiofportugal/"
   - key: "JPMorganHealthcareConference"
     title: "JP Morgan Healthcare Conference"
     url: "/wiki/entities/jpmorganhealthcareconference/"

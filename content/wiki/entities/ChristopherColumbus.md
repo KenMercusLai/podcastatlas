@@ -6,6 +6,7 @@ sources:
   - 309-columbus-villain-or-hero-part-4-glt6751575003
   - 308-columbus-death-in-the-caribbean-part-3-glt3250512968
   - 307-columbus-a-new-world-part-2-glt7219741357
+  - 306-columbus-the-adventure-begins-part-1-glt6089901915
 last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
@@ -14,11 +15,13 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Christopher Columbus was a Genoese Atlantic navigator in Spanish service whose exceptional seamanship, persistent Asian geography, coercive colonial conduct, failed government, and contested afterlife are traced across the first through fourth voyages.
+Christopher Columbus was a Genoese Atlantic navigator in Spanish service whose commercial-maritime formation, status ambition, exceptional seamanship, persistent Asian geography, coercive colonial conduct, failed government, and contested afterlife are traced from before 1492 through the fourth voyage.
 
 ## Current Profile
 
-The current evidence supports a deliberately divided profile. [[307-columbus-a-new-world-part-2-glt7219741357]] shows courage and practical judgment in attempting a westward crossing with three small ships, reading winds, staging through the Canaries, and returning through Atlantic storms. It also shows that the achievement depended on private finance, local sailors, [[MartinPinzon|Martín Pinzón's]] credibility, hidden distance figures, and course concessions under crew pressure; it was never a solitary feat.
+The current evidence supports a deliberately divided profile. [[306-columbus-the-adventure-begins-part-1-glt6089901915]] places a modestly born, largely self-taught Columbus inside Genoese commerce and Portuguese Atlantic expansion. He gained practical experience but built his proposal on an underestimate of the distance to Asia, while religion, chivalric reading, speculative geography, and a strong desire for hereditary status shaped his persistence. Expert rejection was technically sound; the project won support after Granada because its cost was limited and its possible commercial, crusading, and competitive return was large.
+
+[[307-columbus-a-new-world-part-2-glt7219741357]] shows courage and practical judgment in attempting a westward crossing with three small ships, reading winds, staging through the Canaries, and returning through Atlantic storms. It also shows that the achievement depended on private finance, local sailors, [[MartinPinzon|Martín Pinzón's]] credibility, hidden distance figures, and course concessions under crew pressure; it was never a solitary feat.
 
 Coercion and geographical rigidity appear during the first encounter rather than only after colonial settlement failed. Columbus claims islands for Spain, maps Guanahani, Cuba, and Hispaniola onto an Asian expectation, takes Indigenous captives as interpreters, describes people as tractable subjects, pursues gold, and uses a cannibal label after resistance. The Santa María wreck creates [[LaNavidad]], an accidental foothold that the larger second voyage turns into [[ColumbusSecondVoyageColonization|state-backed colonization]].
 
@@ -28,14 +31,15 @@ Parts 3 and 4 then expose the gap between navigator and governor. [[LaIsabela]] 
 
 - Exceptional Atlantic and Caribbean seamanship under severe uncertainty and maritime danger.
 - Expedition leader dependent on financiers, royal sponsors, local sailors, and Pinzón family authority.
+- Self-fashioned status seeker whose demands for hereditary office preceded proof that the route worked.
 - Persistent geographical error despite observations that strained the assumption that he had reached Asia.
-- Commercial, dynastic, and religious motives that reinforced gold seeking, territorial claim, and narrative control.
 - Early participant in captive-taking and coercive Indigenous classification before formal colonial government.
 - Failed governor whose settlements intensified enslavement, conflict, tribute, and labor extraction.
 - Politically adaptable afterlife shaped by nationalism, migration, religion, commemoration, and anticolonial critique.
 
 ## Evidence
 
+- Formation and sponsorship: [[306-columbus-the-adventure-begins-part-1-glt6089901915]] connects Genoese and Portuguese networks, Atlantic experience, geographic reading, expert rejection, religious purpose, Santángel's advocacy, and hereditary titles.
 - First-voyage navigation and dependency: [[307-columbus-a-new-world-part-2-glt7219741357]] describes Atlantic wind judgment, false distance logs, Canary staging, Pinzón's recruitment and course pressure, landfall, shipwreck, and storm return.
 - Early coercion and Asian interpretation: [[307-columbus-a-new-world-part-2-glt7219741357]] records territorial possession, captive-taking, gold pursuit, descriptions of tractable subjects, Cuba and Hispaniola misidentification, and the resisting-cannibal frame.
 - Governance and coercion: [[308-columbus-death-in-the-caribbean-part-3-glt3250512968]] connects La Isabela, mass captivity, slave export, tribute, labor, coerced Cuba testimony, and Juan Aguado's investigation; [[309-columbus-villain-or-hero-part-4-glt6751575003]] extends the record through Bobadilla's arrest, removal, and the developing encomienda order.
@@ -44,13 +48,13 @@ Parts 3 and 4 then expose the gap between navigator and governor. [[LaIsabela]] 
 
 ## Qualifications
 
-This profile is grounded in three retrospective podcast installments, not a complete independent biography. Claims about dialogue, mental state, precise motive, landfall, remains, navigation firsts, cannibalism, population loss, disease, and the relative weight of ecological and coercive mechanisms remain source-scoped. Explaining Columbus through a violent, slaveholding, crusading Mediterranean and Atlantic setting does not erase agency or contemporary criticism, while condemning colonial violence does not require denying maritime ability.
+This profile is grounded in four retrospective podcast installments, not a complete independent biography. Claims about origins, early voyages, dialogue, mental state, precise motive, landfall, remains, navigation firsts, cannibalism, population loss, disease, and the relative weight of ecological and coercive mechanisms remain source-scoped. Explaining Columbus through a violent, slaveholding, crusading Mediterranean and Atlantic setting does not erase agency or contemporary criticism, while condemning colonial violence does not require denying maritime ability.
 
 ## What Changed
 
-- Extended the profile to the first voyage and made its financial, local-maritime, and authority dependencies explicit.
-- Located captive-taking, coercive classification, and Asian misidentification at first contact rather than only in later failed government.
-- Reframed La Navidad as the accidental logistical bridge between reconnaissance and state-backed colonization.
+- Extended the profile backward to Genoese-Portuguese formation and repeated pre-1492 rejection.
+- Distinguished correct expert judgment on distance from the politically rational choice to fund a small gamble.
+- Added status ambition and hereditary office to the motive structure without reducing religion or commerce to camouflage.
 
 ## Relationships
 
@@ -59,6 +63,7 @@ This profile is grounded in three retrospective podcast installments, not a comp
 - [[LaNavidad]] - improvised first-voyage foothold created after the Santa María wreck.
 - [[LaIsabela]] - failed second-voyage settlement that made colonial administrative weakness concrete.
 - [[ColumbusFirstVoyageAtlanticGamble]] - financial, navigational, and political structure of the 1492 crossing.
+- [[ColumbusPreVoyageFormation]] - inherited networks, ideas, ambitions, and sponsorship process behind the crossing.
 - [[ColumbusSecondVoyageColonization]] - enlarged settlement project that exposed the gap between navigation and government.
 - [[ColumbusLegacyContestation]] - public-memory process that repeatedly recasts his meaning.
 - [[ContextualExplanationWithoutExoneration]] - method used to explain his formation without excusing his actions.

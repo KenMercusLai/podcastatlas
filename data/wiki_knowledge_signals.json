@@ -30548,9 +30548,9 @@
       "url": "/wiki/entities/christopherclark/"
     },
     "ChristopherColumbus": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT6751575003 [GLT6751575003].md",
@@ -30572,6 +30572,13 @@
           "show": "The Rest Is History",
           "title": "307: Columbus: A New World? (Part 2)",
           "url": "/wiki/sources/307-columbus-a-new-world-part-2-glt7219741357/"
+        },
+        {
+          "episode_file": "GLT6089901915 [GLT6089901915].md",
+          "key": "306-columbus-the-adventure-begins-part-1-glt6089901915",
+          "show": "The Rest Is History",
+          "title": "306: Columbus: The Adventure Begins (Part 1)",
+          "url": "/wiki/sources/306-columbus-the-adventure-begins-part-1-glt6089901915/"
         }
       ],
       "updated": "2026-09-29",
@@ -33518,6 +33525,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/columbuslegacycontestation/"
+    },
+    "ColumbusPreVoyageFormation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6089901915 [GLT6089901915].md",
+          "key": "306-columbus-the-adventure-begins-part-1-glt6089901915",
+          "show": "The Rest Is History",
+          "title": "306: Columbus: The Adventure Begins (Part 1)",
+          "url": "/wiki/sources/306-columbus-the-adventure-begins-part-1-glt6089901915/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/columbusprevoyageformation/"
     },
     "ColumbusSecondVoyageColonization": {
       "episode_count": 1,
@@ -59606,9 +59629,9 @@
       "url": "/wiki/concepts/fenxiangmailu/"
     },
     "FerdinandIIOfAragon": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3250512968 [GLT3250512968].md",
@@ -59616,6 +59639,13 @@
           "show": "The Rest Is History",
           "title": "308: Columbus: Death in the Caribbean (Part 3)",
           "url": "/wiki/sources/308-columbus-death-in-the-caribbean-part-3-glt3250512968/"
+        },
+        {
+          "episode_file": "GLT6089901915 [GLT6089901915].md",
+          "key": "306-columbus-the-adventure-begins-part-1-glt6089901915",
+          "show": "The Rest Is History",
+          "title": "306: Columbus: The Adventure Begins (Part 1)",
+          "url": "/wiki/sources/306-columbus-the-adventure-begins-part-1-glt6089901915/"
         }
       ],
       "updated": "2026-09-29",
@@ -83284,9 +83314,9 @@
       "url": "/wiki/entities/iberianpeninsula/"
     },
     "IberianReconquista": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lu8PaWNKiSeLmmrgubrEy4pq-4fw [lu8PaWNKiSeLmmrgubrEy4pq-4fw].md",
@@ -83294,6 +83324,13 @@
           "show": "忽左忽右",
           "title": "496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海",
           "url": "/wiki/sources/496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw/"
+        },
+        {
+          "episode_file": "GLT6089901915 [GLT6089901915].md",
+          "key": "306-columbus-the-adventure-begins-part-1-glt6089901915",
+          "show": "The Rest Is History",
+          "title": "306: Columbus: The Adventure Begins (Part 1)",
+          "url": "/wiki/sources/306-columbus-the-adventure-begins-part-1-glt6089901915/"
         }
       ],
       "updated": "2026-09-07",
@@ -88200,9 +88237,9 @@
       "url": "/wiki/entities/isabelperon/"
     },
     "IsabellaIOfCastile": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3250512968 [GLT3250512968].md",
@@ -88210,6 +88247,13 @@
           "show": "The Rest Is History",
           "title": "308: Columbus: Death in the Caribbean (Part 3)",
           "url": "/wiki/sources/308-columbus-death-in-the-caribbean-part-3-glt3250512968/"
+        },
+        {
+          "episode_file": "GLT6089901915 [GLT6089901915].md",
+          "key": "306-columbus-the-adventure-begins-part-1-glt6089901915",
+          "show": "The Rest Is History",
+          "title": "306: Columbus: The Adventure Begins (Part 1)",
+          "url": "/wiki/sources/306-columbus-the-adventure-begins-part-1-glt6089901915/"
         }
       ],
       "updated": "2026-09-29",
@@ -91664,6 +91708,22 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/entities/joannastern/"
+    },
+    "JoaoIIOfPortugal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6089901915 [GLT6089901915].md",
+          "key": "306-columbus-the-adventure-begins-part-1-glt6089901915",
+          "show": "The Rest Is History",
+          "title": "306: Columbus: The Adventure Begins (Part 1)",
+          "url": "/wiki/sources/306-columbus-the-adventure-begins-part-1-glt6089901915/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/joaoiiofportugal/"
     },
     "JocelynJiang": {
       "episode_count": 1,
@@ -107141,6 +107201,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/luigilucheni/"
+    },
+    "LuisDeSantangel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6089901915 [GLT6089901915].md",
+          "key": "306-columbus-the-adventure-begins-part-1-glt6089901915",
+          "show": "The Rest Is History",
+          "title": "306: Columbus: The Adventure Begins (Part 1)",
+          "url": "/wiki/sources/306-columbus-the-adventure-begins-part-1-glt6089901915/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/luisdesantangel/"
     },
     "LujiangCommandery": {
       "episode_count": 2,
@@ -132471,9 +132547,9 @@
       "url": "/wiki/entities/portugal/"
     },
     "PortugueseMaritimeExpansion": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lu8PaWNKiSeLmmrgubrEy4pq-4fw [lu8PaWNKiSeLmmrgubrEy4pq-4fw].md",
@@ -132481,6 +132557,13 @@
           "show": "忽左忽右",
           "title": "496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海",
           "url": "/wiki/sources/496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw/"
+        },
+        {
+          "episode_file": "GLT6089901915 [GLT6089901915].md",
+          "key": "306-columbus-the-adventure-begins-part-1-glt6089901915",
+          "show": "The Rest Is History",
+          "title": "306: Columbus: The Adventure Begins (Part 1)",
+          "url": "/wiki/sources/306-columbus-the-adventure-begins-part-1-glt6089901915/"
         }
       ],
       "updated": "2026-09-07",

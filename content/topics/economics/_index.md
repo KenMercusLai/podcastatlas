@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2135
+topic_total_pages: 2136
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -4355,6 +4355,9 @@ topic_entities:
   - key: "LucasStartupEmbassyResident"
     title: "Lucas (Startup Embassy Resident)"
     url: "/wiki/entities/lucasstartupembassyresident/"
+  - key: "LuisDeSantangel"
+    title: "Luis de Santángel"
+    url: "/wiki/entities/luisdesantangel/"
   - key: "MagicJack"
     title: "Magic / 杰克"
     url: "/wiki/entities/magicjack/"

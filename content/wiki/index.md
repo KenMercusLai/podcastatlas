@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [306: Columbus: The Adventure Begins (Part 1)](sources/306-columbus-the-adventure-begins-part-1-glt6089901915.md) — The Rest Is History episode on Columbus's Genoese-Portuguese formation, geographic error, religious and status ambition, repeated rejection, and 1492 royal sponsorship.
 - [VOL.23肿瘤肝胆外科｜外科医生用中西医双系统聊胆囊胆管疾病和养生](sources/vol-23-zhongliu-gandan-waike-waike-yisheng-yong-zhongxiyi-shuangxitong-liao-dannang-danguan-jibing-he-yangsheng-lvmnrsimkqyj8jmtzdj7kfazvbzu.md) — 这病说来话长 episode on gallbladder function, gallstones, biliary cancer anatomy, treatment selection, prognosis, and medical-evidence boundaries.
 - [VOL.24肿瘤肝胆外科｜胰脏和脾脏虽然不大，但这些危险诱因要警惕](sources/vol-24-zhongliu-gandan-waike-yizang-he-pizang-suiran-bu-da-dan-zhexie-weixian-youyin-yaojingti-lvw8ajdllmj73ecq2br3sgnmkug.md) — 这病说来话长 episode on pancreatic function and risk communication, pancreatitis escalation, splenic trauma, lifestyle claims, and oncology communication.
 - [VOL.25肿瘤肝胆外科｜箫郎医生在肿瘤医院行医18年所遇到的那些“怪”事和医患故事](sources/vol-25-zhongliu-gandan-waike-xiaolang-yisheng-zai-zhongliu-yiyuan-xingyi-18-nian-suo-yudao-de-naxie-guai-shi-he-yihuan-gushi-lr1jwin34m6obozyrqpybpujq5cz.md) — 这病说来话长 episode on oncology distress, symptom experience, family decision communication, clinical trust, and informed-consent responsibility.
@@ -3177,6 +3178,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [骁狼医生 / Xiaolang (oncology surgeon)](entities/XiaolangOncologySurgeon.md) — Source-scoped oncology hepatobiliary surgeon discussing biliary, pancreatic, and splenic health plus oncology communication in VOL.23–25.
 - [Taíno](entities/TainoPeople.md) — Indigenous Caribbean peoples whose exchange, political agency, captivity, resistance, and catastrophe are preserved through an asymmetric colonial archive.
 - [Martín Pinzón](entities/MartinPinzon.md) — Palos mariner whose recruitment, course judgment, local authority, and rivalry made Columbus's first voyage possible and command unstable.
+- [João II of Portugal](entities/JoaoIIOfPortugal.md) — Portuguese monarch whose experts rejected Columbus's underestimated westward route while the African route advanced.
+- [Luis de Santángel](entities/LuisDeSantangel.md) — Aragonese treasury official whose low-cost competitive argument helped secure Columbus's 1492 sponsorship.
 - [Isabella I of Castile](entities/IsabellaIOfCastile.md) — Spanish monarch who sponsored colonization while objecting to the enslavement of Indigenous subjects and potential converts.
 - [Ferdinand II of Aragon](entities/FerdinandIIOfAragon.md) — Spanish monarch linking Portuguese rivalry, papal diplomacy, colonial sponsorship, and later royal investigation.
 - [Hispaniola](entities/Hispaniola.md) — Taíno homeland transformed from praised first-voyage encounter and accidental foothold into a center of settlement, extraction, resistance, and ecological change.
@@ -14552,6 +14555,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Family-Centered Cancer Decision Communication / 肿瘤家庭决策沟通](concepts/FamilyCenteredCancerDecisionCommunication.md) — Shared information and role clarity for patient, clinicians, and relatives in high-stakes cancer decisions.
 - [Surgical Informed Consent and Responsibility / 手术知情同意与责任](concepts/SurgicalInformedConsentResponsibility.md) — Process-based distinction among risk disclosure, authorization, documentation, and continuing accountability.
 - [Columbus First-Voyage Atlantic Gamble](concepts/ColumbusFirstVoyageAtlanticGamble.md) — 1492 integration of finance, wind knowledge, local maritime authority, Asian expectation, captive-taking, and marketable return evidence.
+- [Columbus Pre-Voyage Formation](concepts/ColumbusPreVoyageFormation.md) — Pre-1492 convergence of commercial networks, navigation, slavery, geographic error, religion, status ambition, and state rivalry.
 - [Columbus Second-Voyage Colonization](concepts/ColumbusSecondVoyageColonization.md) — 1493 threshold from reconnaissance to state-backed settlement, conversion, extraction, and imperial government.
 - [Colonial Conversion-Enslavement Contradiction](concepts/ColonialConversionEnslavementContradiction.md) — First-voyage-to-colony conflict between convert-subject status and captivity, forced transport, tribute, and coerced labor.
 - [Cannibalism as Colonial Justification](concepts/CannibalismColonialJustification.md) — Evidence-unstable classification joining translated rival claims, Indigenous resistance, and colonial protection boundaries.

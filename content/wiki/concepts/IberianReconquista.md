@@ -4,6 +4,7 @@ type: concept
 tags: [history, iberia, religion, conquest]
 sources:
   - 496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw
+  - 306-columbus-the-adventure-begins-part-1-glt6089901915
 last_updated: 2026-09-07
 knowledge_schema: synthesis-v1
 ---
@@ -16,26 +17,31 @@ Iberian Reconquista is the source's frame for the long Christian expansion again
 ## Current Synthesis
 The Ceuta episode uses the Reconquista less as a simple civilizational slogan than as a strategic transition. Once Portugal had completed its mainland expansion by 1249, further Iberian conquest was constrained by Castilian claims around Granada. That made [[Ceuta]], North Africa, and Atlantic islands more plausible directions for Portuguese ambition.
 
+The Castilian endpoint adds a second outward transition: Granada's surrender in January 1492 released attention while reinforcing Ferdinand and Isabella's crusading mission. Columbus linked Asian wealth to a future Jerusalem campaign, while postwar financial need and Portuguese rivalry helped make his small expedition attractive, as described in [[306-columbus-the-adventure-begins-part-1-glt6089901915]].
+
 ## Key Claims
 - The Reconquista creates the precondition for Portuguese outward expansion by ending Portugal's mainland frontier earlier than Castile's.
 - The source treats Christian-Muslim conflict as real but not total, since medieval alliances and service could cross religious boundaries.
 - Ceuta becomes intelligible as a continuation and displacement of Iberian frontier energy across the strait.
 - The concept should preserve the difference between later nationalist memory and the messy medieval political field.
+- Granada's fall shaped Atlantic sponsorship through political timing, crusading imagination, and postwar financial need.
 
 ## Evidence
 - Portuguese chronology: [[496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw]] says Portugal completed its mainland Reconquista in 1249.
 - Expansion constraint: [[496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw]] says Granada was treated as belonging to the Castilian path, pushing Portuguese ambition elsewhere.
 - Political complexity: [[496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw]] uses El Cid's service to Muslim rulers to qualify rigid religious bloc narratives.
 - Ceuta link: [[496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw]] presents the 1415 Ceuta campaign as a North African continuation of post-Reconquista expansion.
+- Castilian transition: [[306-columbus-the-adventure-begins-part-1-glt6089901915]] links Granada's fall, Jerusalem rhetoric, fiscal pressure, and royal approval of Columbus.
 
 ## Counterevidence & Qualifications
 The source does not provide a full Reconquista history. It uses the concept to explain Portugal's later direction and explicitly complicates simple Christian-versus-Muslim boundary stories.
 
 ## What Changed
-- Created the concept for the Ceuta episode's Iberian-to-North-Africa transition.
+- Extended the concept from Portugal's post-1249 turn to Castile's post-Granada Atlantic sponsorship.
 
 ## Related Concepts
 - [[PortugueseMaritimeExpansion]] - expansion path that follows Portugal's completed mainland Reconquista in the source.
 - [[CeutaImperialBorderland]] - Ceuta is where Iberian frontier energy meets an older Mediterranean borderland.
 - [[ConfessionalTradeConflict]] - later early-modern religious-commercial conflict involving Iberian maritime powers.
 - [[EarlyModernJapanEuropeContact]] - downstream Asian contact field where Portuguese and Spanish power reappears.
+- [[ColumbusPreVoyageFormation]] - Castilian sponsorship process shaped by Granada's fall and crusading ambition.

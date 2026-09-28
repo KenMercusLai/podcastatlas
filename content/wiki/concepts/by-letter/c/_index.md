@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8753
+wiki_total_pages: 8754
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1427,6 +1427,9 @@ wiki_pages:
   - key: "ColumbusLegacyContestation"
     title: "Columbus Legacy Contestation"
     url: "/wiki/concepts/columbuslegacycontestation/"
+  - key: "ColumbusPreVoyageFormation"
+    title: "Columbus Pre-Voyage Formation"
+    url: "/wiki/concepts/columbusprevoyageformation/"
   - key: "ColumbusSecondVoyageColonization"
     title: "Columbus Second-Voyage Colonization"
     url: "/wiki/concepts/columbussecondvoyagecolonization/"

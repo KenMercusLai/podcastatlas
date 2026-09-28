@@ -25051,3 +25051,11 @@ Added source `how-to-breathe-correctly-for-optimal-health-mood-learning-performa
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | 306: Columbus: The Adventure Begins (Part 1)
+
+Added source `306-columbus-the-adventure-begins-part-1-glt6089901915`; created `JoaoIIOfPortugal`, `LuisDeSantangel`, and `ColumbusPreVoyageFormation`; and updated `ChristopherColumbus`, `IsabellaIOfCastile`, `FerdinandIIOfAragon`, `PortugueseMaritimeExpansion`, `IberianReconquista`, and the canonical index from their complete bounded source sets. Core synthesis: Columbus emerged from existing Genoese and Portuguese commercial-maritime systems, Atlantic slavery, religious and literary imagination, and status ambition; experts correctly rejected his distance calculation, while Granada's fall, Portuguese rivalry, fiscal need, limited cost, and Santángel's advocacy made the voyage a politically acceptable gamble. No settled contradiction was adopted. Origins, early voyages, western rumors, motive weights, court deliberations, and financing details remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -1491,6 +1491,13 @@
       "url": "/topics/history/"
     }
   ],
+  "306-columbus-the-adventure-begins-part-1-glt6089901915": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "307-columbus-a-new-world-part-2-glt7219741357": [
     {
       "key": "history",
@@ -48058,6 +48065,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "LuisDeSantangel": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "LulinRebellion": [
