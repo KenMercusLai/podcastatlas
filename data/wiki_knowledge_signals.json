@@ -10413,9 +10413,9 @@
       "url": "/wiki/entities/andyburnham/"
     },
     "AndyGalpin": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "SCIM5641095924 [SCIM5641095924].md",
@@ -10458,6 +10458,13 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Andy Galpin: Optimize Your Training Program for Fitness & Longevity",
           "url": "/wiki/sources/guest-series-dr-andy-galpin-optimize-your-training-program-for-fitness-longevity-scim2066998732/"
+        },
+        {
+          "episode_file": "SCIM1818614492 [SCIM1818614492].md",
+          "key": "guest-series-dr-andy-galpin-how-to-build-physical-endurance-lose-fat-scim1818614492",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Andy Galpin: How to Build Physical Endurance & Lose Fat",
+          "url": "/wiki/sources/guest-series-dr-andy-galpin-how-to-build-physical-endurance-lose-fat-scim1818614492/"
         }
       ],
       "updated": "2026-09-29",
@@ -21168,6 +21175,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/breathfulpresence/"
+    },
+    "BreathingGearsCO2Tolerance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1818614492 [SCIM1818614492].md",
+          "key": "guest-series-dr-andy-galpin-how-to-build-physical-endurance-lose-fat-scim1818614492",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Andy Galpin: How to Build Physical Endurance & Lose Fat",
+          "url": "/wiki/sources/guest-series-dr-andy-galpin-how-to-build-physical-endurance-lose-fat-scim1818614492/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/breathinggearsco2tolerance/"
     },
     "Brexit": {
       "episode_count": 3,
@@ -53131,9 +53154,9 @@
       "url": "/wiki/concepts/endoscopypathologyfollowup/"
     },
     "EnduranceTrainingModalities": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM1120276865 [SCIM1120276865].md",
@@ -53148,9 +53171,16 @@
           "show": "Huberman Lab",
           "title": "Science-Supported Tools to Accelerate Your Fitness Goals",
           "url": "/wiki/sources/science-supported-tools-to-accelerate-your-fitness-goals-scim7037527631/"
+        },
+        {
+          "episode_file": "SCIM1818614492 [SCIM1818614492].md",
+          "key": "guest-series-dr-andy-galpin-how-to-build-physical-endurance-lose-fat-scim1818614492",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Andy Galpin: How to Build Physical Endurance & Lose Fat",
+          "url": "/wiki/sources/guest-series-dr-andy-galpin-how-to-build-physical-endurance-lose-fat-scim1818614492/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/endurancetrainingmodalities/"
     },
     "EnergyAbundanceClimateStrategy": {
@@ -55974,9 +56004,9 @@
       "url": "/wiki/concepts/exerciseselfmasteryforprocrastination/"
     },
     "ExerciseSnacks": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7037527631 [SCIM7037527631].md",
@@ -55984,9 +56014,16 @@
           "show": "Huberman Lab",
           "title": "Science-Supported Tools to Accelerate Your Fitness Goals",
           "url": "/wiki/sources/science-supported-tools-to-accelerate-your-fitness-goals-scim7037527631/"
+        },
+        {
+          "episode_file": "SCIM1818614492 [SCIM1818614492].md",
+          "key": "guest-series-dr-andy-galpin-how-to-build-physical-endurance-lose-fat-scim1818614492",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Andy Galpin: How to Build Physical Endurance & Lose Fat",
+          "url": "/wiki/sources/guest-series-dr-andy-galpin-how-to-build-physical-endurance-lose-fat-scim1818614492/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/exercisesnacks/"
     },
     "ExerciseSpecificBrainAdaptation": {
@@ -58353,9 +58390,9 @@
       "url": "/wiki/concepts/fatleagueeconomics/"
     },
     "FatMobilizationAndOxidation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM9321862300 [SCIM9321862300].md",
@@ -58363,9 +58400,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Lose Fat With Science-Based Tools",
           "url": "/wiki/sources/essentials-lose-fat-with-science-based-tools-scim9321862300/"
+        },
+        {
+          "episode_file": "SCIM1818614492 [SCIM1818614492].md",
+          "key": "guest-series-dr-andy-galpin-how-to-build-physical-endurance-lose-fat-scim1818614492",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Andy Galpin: How to Build Physical Endurance & Lose Fat",
+          "url": "/wiki/sources/guest-series-dr-andy-galpin-how-to-build-physical-endurance-lose-fat-scim1818614492/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/fatmobilizationandoxidation/"
     },
     "FateTimingExternalConditions": {
@@ -96724,9 +96768,9 @@
       "url": "/wiki/entities/lacoste/"
     },
     "LactateMetabolicShuttle": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM5888935664 [SCIM5888935664].md",
@@ -96734,9 +96778,16 @@
           "show": "Huberman Lab",
           "title": "How Mitochondria Control Your Metabolism | Dr. Jared Rutter",
           "url": "/wiki/sources/how-mitochondria-control-your-metabolism-dr-jared-rutter-scim5888935664/"
+        },
+        {
+          "episode_file": "SCIM1818614492 [SCIM1818614492].md",
+          "key": "guest-series-dr-andy-galpin-how-to-build-physical-endurance-lose-fat-scim1818614492",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Andy Galpin: How to Build Physical Endurance & Lose Fat",
+          "url": "/wiki/sources/guest-series-dr-andy-galpin-how-to-build-physical-endurance-lose-fat-scim1818614492/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/lactatemetabolicshuttle/"
     },
     "LadyCarolineLamb": {
@@ -114784,6 +114835,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/metaboliccapacitymodel/"
+    },
+    "MetabolicFlexibility": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1818614492 [SCIM1818614492].md",
+          "key": "guest-series-dr-andy-galpin-how-to-build-physical-endurance-lose-fat-scim1818614492",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Andy Galpin: How to Build Physical Endurance & Lose Fat",
+          "url": "/wiki/sources/guest-series-dr-andy-galpin-how-to-build-physical-endurance-lose-fat-scim1818614492/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/metabolicflexibility/"
     },
     "MetabolicHealthBiomarkerContext": {
       "episode_count": 1,
@@ -168718,9 +168785,9 @@
       "url": "/wiki/concepts/trainingchaosmanagement/"
     },
     "TrainingFuelTimingContext": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1024405440 [SCIM1024405440].md",
@@ -168728,6 +168795,13 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Andy Galpin: Optimal Nutrition & Supplementation for Fitness",
           "url": "/wiki/sources/guest-series-dr-andy-galpin-optimal-nutrition-supplementation-for-fitness-scim1024405440/"
+        },
+        {
+          "episode_file": "SCIM1818614492 [SCIM1818614492].md",
+          "key": "guest-series-dr-andy-galpin-how-to-build-physical-endurance-lose-fat-scim1818614492",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Andy Galpin: How to Build Physical Endurance & Lose Fat",
+          "url": "/wiki/sources/guest-series-dr-andy-galpin-how-to-build-physical-endurance-lose-fat-scim1818614492/"
         }
       ],
       "updated": "2026-09-29",

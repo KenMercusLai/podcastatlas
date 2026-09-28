@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [GUEST SERIES | Dr. Andy Galpin: How to Build Physical Endurance & Lose Fat](sources/guest-series-dr-andy-galpin-how-to-build-physical-endurance-lose-fat-scim1818614492.md) — Huberman Lab guest-series episode on four endurance capacities, acute versus long-term fuel use, metabolic flexibility, lactate, breathing mechanics, and constraint-specific protocols.
 - [300: The Real Downton Abbey](sources/300-the-real-downton-abbey-glt7393411506.md) — The Rest Is History episode on British domestic-service hierarchy, wartime decline, gendered housework transfer, and the nostalgia of upstairs-downstairs drama.
 - [VOL.19儿科｜儿科绝不是缩小版的成人 有些药物是儿童是千万不能用的](sources/vol-19-erke-erke-jue-bushi-suoxiao-ban-de-chengren-youxie-yaowu-shi-ertong-qianwan-buneng-yong-de-lj9gj3jcpbyul8crv2og1wboygtq.md) — 这病说来话长 introduction to 林佳君 Nora on age-specific pediatric disease patterns, medication safety, caregiver-mediated history, family-facing consultations, and shared decisions.
 - [VOL.20儿科｜听林医生讲宝宝的发热、外伤、心理、疫苗的那些误区和判断常识｜台湾地区就诊现状](sources/vol-20-erke-ting-lin-yisheng-jiang-baobao-de-fare-waishang-xinli-yimiao-de-naxie-wuqu-he-panduan-changshi-taiwan-diqu-jiuzhen-xianzhuang-lmpxj193ifwfm0x-uxmjsan1a-m5.md) — 这病说来话长 episode with 林佳君 Nora on pediatric fever, infection and medication judgment, convulsion and injury response, vaccination, behavioral clues, growth assessment, and Taiwan care settings.
@@ -23177,6 +23178,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Health-Coded Food Label Literacy / 健康概念食品标签识读](concepts/HealthCodedFoodLabelLiteracy.md) — Translates high-protein, low-GI, zero-fat, natural, and similar claims into whole-product, serving-size, use-context, and personal-relevance judgments.
 
 - [Endurance Training Modalities](concepts/EnduranceTrainingModalities.md) — Four-mode framework separating muscular, long-duration, anaerobic-interval, and high-intensity aerobic endurance training.
+- [Metabolic Flexibility](concepts/MetabolicFlexibility.md) — Capacity to use the fuel best matched to the current demand rather than maximizing fat or carbohydrate use universally.
+- [Breathing Gears and CO2 Tolerance](concepts/BreathingGearsCO2Tolerance.md) — Flexible nasal-to-mouth breathing framework for exercise pacing, recovery, mechanics, and controlled response to respiratory drive.
 - [Exercise Hydration Performance Boundary](concepts/ExerciseHydrationPerformanceBoundary.md) — Boundary around sweat loss, electrolytes, exercise-fluid heuristics, and supplement claims.
 - [Robot In-Context Learning / 机器人上下文学习](concepts/RobotInContextLearning.md) — Robot adaptation from demonstrations, corrections, body motion, attempts, and failures without retraining every new task offline.
 - [Capability-Driven Robot Data Design / 能力反推机器人数据](concepts/CapabilityDrivenRobotDataDesign.md) — Selecting human, UMI, simulation, and real-robot data by desired capability and training stage.

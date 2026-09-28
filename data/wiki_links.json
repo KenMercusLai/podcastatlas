@@ -11315,6 +11315,10 @@
     "title": "Breathful Presence",
     "url": "/wiki/concepts/breathfulpresence/"
   },
+  "BreathingGearsCO2Tolerance": {
+    "title": "Breathing Gears and CO2 Tolerance",
+    "url": "/wiki/concepts/breathinggearsco2tolerance/"
+  },
   "BrendanBrady": {
     "title": "Brendan Brady",
     "url": "/wiki/entities/brendanbrady/"
@@ -48138,6 +48142,10 @@
   "MetabolicCapacityModel": {
     "title": "Metabolic Capacity Model",
     "url": "/wiki/concepts/metaboliccapacitymodel/"
+  },
+  "MetabolicFlexibility": {
+    "title": "Metabolic Flexibility",
+    "url": "/wiki/concepts/metabolicflexibility/"
   },
   "MetabolicHealthBiomarkerContext": {
     "title": "Metabolic Health Biomarker Context",
@@ -85046,6 +85054,10 @@
   "guanyu-ai-kaiyuan-shangyehua-yu-quanqiuhua-de-jingyan-jiaoxun-he-fangfalun-duitan-pingcap-cto-dongxu-ljw8va0evobhz4ojzrulqzjvxw5": {
     "title": "关于 AI、开源、商业化与全球化的经验、教训和方法论 | 对谈 PingCAP CTO 东旭",
     "url": "/wiki/sources/guanyu-ai-kaiyuan-shangyehua-yu-quanqiuhua-de-jingyan-jiaoxun-he-fangfalun-duitan-pingcap-cto-dongxu-ljw8va0evobhz4ojzrulqzjvxw5/"
+  },
+  "guest-series-dr-andy-galpin-how-to-build-physical-endurance-lose-fat-scim1818614492": {
+    "title": "GUEST SERIES | Dr. Andy Galpin: How to Build Physical Endurance & Lose Fat",
+    "url": "/wiki/sources/guest-series-dr-andy-galpin-how-to-build-physical-endurance-lose-fat-scim1818614492/"
   },
   "guest-series-dr-andy-galpin-maximize-recovery-to-achieve-fitness-performance-goals-scim4488298115": {
     "title": "GUEST SERIES | Dr. Andy Galpin: Maximize Recovery to Achieve Fitness & Performance Goals",

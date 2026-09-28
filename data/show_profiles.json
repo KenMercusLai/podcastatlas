@@ -491,7 +491,7 @@
       "earliest_episode_date": "2020-12-21",
       "latest_episode_date": "2026-09-28",
       "latest_episode_file": "SCIM4063268713 [SCIM4063268713].md",
-      "source_note_count": 196,
+      "source_note_count": 197,
       "topic_matched_source_note_count": 104,
       "topics": [
         {
@@ -532,7 +532,7 @@
           "title": "Andy Galpin",
           "url": "/wiki/entities/andygalpin/",
           "kind": "person",
-          "episode_count": 6
+          "episode_count": 7
         },
         {
           "key": "MatthewWalker",

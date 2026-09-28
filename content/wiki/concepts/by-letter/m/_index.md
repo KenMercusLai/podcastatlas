@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 8776
+wiki_total_pages: 8778
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -692,6 +692,9 @@ wiki_pages:
   - key: "MetabolicCapacityModel"
     title: "Metabolic Capacity Model"
     url: "/wiki/concepts/metaboliccapacitymodel/"
+  - key: "MetabolicFlexibility"
+    title: "Metabolic Flexibility"
+    url: "/wiki/concepts/metabolicflexibility/"
   - key: "MetabolicHealthBiomarkerContext"
     title: "Metabolic Health Biomarker Context"
     url: "/wiki/concepts/metabolichealthbiomarkercontext/"

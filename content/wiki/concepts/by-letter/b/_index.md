@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 8776
+wiki_total_pages: 8778
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -683,6 +683,9 @@ wiki_pages:
   - key: "BreathfulPresence"
     title: "Breathful Presence"
     url: "/wiki/concepts/breathfulpresence/"
+  - key: "BreathingGearsCO2Tolerance"
+    title: "Breathing Gears and CO2 Tolerance"
+    url: "/wiki/concepts/breathinggearsco2tolerance/"
   - key: "Brexit"
     title: "Brexit"
     url: "/wiki/concepts/brexit/"

@@ -25179,3 +25179,15 @@ Added source `300-the-real-downton-abbey-glt7393411506`; created `LucyLethbridge
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | GUEST SERIES | Dr. Andy Galpin: How to Build Physical Endurance & Lose Fat
+
+Added source `guest-series-dr-andy-galpin-how-to-build-physical-endurance-lose-fat-scim1818614492`; created `MetabolicFlexibility` and `BreathingGearsCO2Tolerance`; and updated `AndyGalpin`, `EnduranceTrainingModalities`, `ExerciseSnacks`, `FatMobilizationAndOxidation`, `LactateMetabolicShuttle`, `TrainingFuelTimingContext`, and the canonical index from their complete bounded source sets. Core synthesis: endurance is a family of local, anaerobic, maximal-aerobic, and long-duration capacities with different limiting systems; immediate fat oxidation, fasting, workout order, and breathing route do not determine long-term fat loss; and carbohydrate and fat are complementary fuels selected by demand. No settled contradiction was adopted. Duration ranges, interval doses, metabolic markers, breathing gears, exercise-snack outcomes, and maximal-effort protocols remain source-scoped public education. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
