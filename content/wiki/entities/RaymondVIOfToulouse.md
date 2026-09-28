@@ -4,6 +4,7 @@ type: entity
 tags: [person, toulouse, medieval-france, albigensian-crusade]
 sources:
   - 303-the-bloodiest-crusade-glt7887097153
+  - 302-the-mystery-of-the-cathars-glt9956144594
 last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
@@ -16,13 +17,15 @@ Raymond VI of Toulouse is the regional ruler whose tactical submission, particip
 
 ## Current Profile
 
-After [[InnocentIII]] blamed him for the murder of a papal envoy, Raymond sought accommodation as armies gathered. At Saint-Gilles he underwent public humiliation and flogging, returned to communion, and joined the crusade. The episode presents this as political survival rather than principled alignment, especially because he then directed crusading attention toward the territory of his nephew and rival.
+Before the crusade, [[InnocentIII]] demanded that Raymond expel alleged heretics, join an armed league, remove Jewish officials, and disrupt his own administration. Raymond promised action in 1205, resisted the later demands, and was excommunicated. He attempted accommodation with Peter de Castelnau at Saint-Gilles in early 1208, but negotiation failed and the envoy was murdered the next morning by an unidentified knight. The earlier episode argues that Raymond had too much to lose to have commissioned the killing, while preserving the identity and motive of the attacker as unresolved.
+
+After Innocent blamed him for the murder, Raymond again sought accommodation as armies gathered. At Saint-Gilles he underwent public humiliation and flogging, returned to communion, and joined the crusade. The later episode presents this as political survival rather than principled alignment, especially because he then directed crusading attention toward the territory of his nephew and rival.
 
 Raymond later opposed [[SimonDeMontfort]] and recovered Toulouse after the crusade's first conquests destabilized. He died in 1222 while excommunicated. His son inherited the unresolved conflict, but the dynasty's eventual settlement opened Toulouse to absorption by the French crown.
 
 ## Key Characteristics
 
-- Count of Toulouse initially blamed by the papacy after the 1208 murder of an envoy.
+- Count pressured and excommunicated before being blamed by the papacy after the 1208 murder of an envoy.
 - Submitted through public penance and joined the crusade to preserve his position.
 - Used the campaign against a regional rival before becoming a target of its conquest.
 - Re-entered resistance against Simon de Montfort's rule.
@@ -30,17 +33,18 @@ Raymond later opposed [[SimonDeMontfort]] and recovered Toulouse after the crusa
 
 ## Evidence
 
+- Prewar confrontation: [[302-the-mystery-of-the-cathars-glt9956144594]] recounts Raymond's delayed response, refusal of intrusive demands, excommunication, attempted compromise, and proximity to the envoy's murder.
 - Submission: [[303-the-bloodiest-crusade-glt7887097153]] recounts Raymond's penance, flogging, reconciliation, and crusade vow.
 - Regional rivalry: [[303-the-bloodiest-crusade-glt7887097153]] says Raymond directed crusading leadership toward Béziers, ruled by his nephew and rival.
 - Aftermath: [[303-the-bloodiest-crusade-glt7887097153]] records his excommunicated death and the later settlement imposed on Raymond VII.
 
 ## Qualifications
 
-The episode does not establish Raymond's responsibility for the envoy's murder or reduce his changing alliances to belief. Survival, rivalry, territorial calculation, papal pressure, and local religious ties overlap.
+Neither episode establishes Raymond's responsibility for the envoy's murder or reduces his changing alliances to belief. The claim that he did not commission it is a reasoned interpretation rather than direct proof. Survival, rivalry, territorial calculation, papal pressure, administrative dependence, and local religious ties overlap.
 
 ## What Changed
 
-- Established Raymond as a case of tactical submission turning into resistance under an expanding crusading conquest.
+- Added the pre-crusade sequence of papal demands, refusal, excommunication, attempted compromise, and unresolved murder.
 
 ## Relationships
 
@@ -49,3 +53,4 @@ The episode does not establish Raymond's responsibility for the envoy's murder o
 - [[SimonDeMontfort]] - crusading ruler whose conquest threatened Raymond's position.
 - [[Cathars]] - contested religious population within the territories placed under pressure.
 - [[CapetianDynasty]] - dynasty that ultimately absorbed Toulouse after his line's settlement.
+- [[GregorianReform]] - centralizing program whose demands collided with Raymond's regional rule.

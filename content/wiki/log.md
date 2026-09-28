@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-29] ingest | 302: The Mystery of the Cathars
+
+Added source `302-the-mystery-of-the-cathars-glt9956144594`; updated `Cathars`, `GregorianReform`, `AlbigensianCrusade`, `InnocentIII`, `RaymondVIOfToulouse`, `GregoryVII`, and `Languedoc` from their complete bounded source sets; migrated `Languedoc` to the synthesis-first entity schema; and updated the canonical index. Core synthesis: real religious dissent and brutal persecution do not by themselves establish an ancient, unified, self-identifying Cathar church; learned labels, Gregorian clericalization, proactive investigation, and regional political accusation helped construct a universal internal enemy before papal pressure, excommunication, failed negotiation, and Peter de Castelnau's murder opened the path to crusade. No settled contradiction with episode 303 was adopted. The revisionist thesis, terminology history, English political influence, Raymond's non-involvement in the murder, and the “first revolution” framing remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten because this episode backfills the causal prehistory of an established branch; downstream synthesis refresh only reads it.
+
 ## [2026-09-29] ingest | VOL.21肿瘤肝胆外科｜虽不严肃但有用——肿瘤是遗传？ 外科医生有话说—转发家族群少买保健品
 
 Added source `vol-21-zhongliu-gandan-waike-sui-bu-yansu-dan-youyong-zhongliu-shi-yichuan-waike-yisheng-you-hua-shuo-zhuanfa-jiazuqun-shao-mai-baojianpin-ltyennewyimh08rtyrgfe4qkz5g3`; created `TumorTerminologyAndMalignancyBoundary`, `FamilialCancerRiskInterpretation`, and `CancerStageSpecificTreatmentSelection`; and updated `XiaolangOncologySurgeon`, `OnlineSymptomSearchAnxiety`, and the canonical index from their complete bounded source sets. Core synthesis: a tumor is not automatically malignant, family history changes risk rather than determining destiny, prevention and supplements do not treat established cancer, and surgery, radiotherapy, chemotherapy, targeted therapy, immunotherapy, or observation require diagnosis-, stage-, and patient-specific indications. No settled contradiction was adopted. Screening frequency, hereditary proportions, food, supplement, immunity, organ-removal, gene-testing, and treatment-availability claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten because the episode backfills an established oncology and medical-literacy branch without changing the wiki-wide synthesis.
@@ -25127,6 +25131,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-29] ingest | GUEST SERIES | Dr. Andy Galpin: Optimize Your Training Program for Fitness & Longevity
 
 Added source `guest-series-dr-andy-galpin-optimize-your-training-program-for-fitness-longevity-scim2066998732`; created `ConstraintFirstTrainingDesign` and `AnnualFitnessPeriodization`; and updated `TrainingChaosManagement`, `FlexibleWeeklyFitnessScaffold`, `AndyGalpin`, and the canonical index from their complete bounded source sets. Core synthesis: effective training starts with a specific goal, likely blocker, calendar, and recovery budget before exercise selection; longer phases can rotate emphasis while weekly templates preserve mixed capacity; and likely disruption should be planned before it forces improvisation. No settled contradiction was adopted. Percentage progression, heart-rate timing, illness thresholds, calorie targets, recovery allocations, testing cadence, and deload timing remain source-scoped public education rather than individualized medical or training guidance. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-29] lint | Wiki health check
 

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2171
+topic_total_pages: 2172
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4719,6 +4719,9 @@ topic_sources:
   - key: "30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138"
     title: "30.孟子：战国愤青的赤子之心"
     url: "/wiki/sources/30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138/"
+  - key: "302-the-mystery-of-the-cathars-glt9956144594"
+    title: "302: The Mystery of the Cathars"
+    url: "/wiki/sources/302-the-mystery-of-the-cathars-glt9956144594/"
   - key: "303-the-bloodiest-crusade-glt7887097153"
     title: "303: The Bloodiest Crusade"
     url: "/wiki/sources/303-the-bloodiest-crusade-glt7887097153/"

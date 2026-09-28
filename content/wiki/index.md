@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [302: The Mystery of the Cathars](sources/302-the-mystery-of-the-cathars-glt9956144594.md) — The Rest Is History episode on contested Cathar identity, Gregorian reform, institutional heresy-making, Languedoc politics, and the prelude to the Albigensian Crusade.
 - [GUEST SERIES | Dr. Andy Galpin: Optimize Your Training Program for Fitness & Longevity](sources/guest-series-dr-andy-galpin-optimize-your-training-program-for-fitness-longevity-scim2066998732.md) — Huberman Lab guest-series episode on constraint-first program design, annual periodization, mixed weekly templates, progressive overload, deloading, and disruption planning.
 - [303: The Bloodiest Crusade](sources/303-the-bloodiest-crusade-glt7887097153.md) — The Rest Is History episode on the Albigensian Crusade, anti-heresy violence, French expansion, inquisitorial coercion, and the contested construction of Cathar identity.
 - [VOL.21肿瘤肝胆外科｜虽不严肃但有用——肿瘤是遗传？ 外科医生有话说—转发家族群少买保健品](sources/vol-21-zhongliu-gandan-waike-sui-bu-yansu-dan-youyong-zhongliu-shi-yichuan-waike-yisheng-you-hua-shuo-zhuanfa-jiazuqun-shao-mai-baojianpin-ltyennewyimh08rtyrgfe4qkz5g3.md) — 这病说来话长 episode separating tumor terminology, familial risk, prevention, early detection, and stage-specific multimodal cancer treatment.
@@ -3184,8 +3185,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe](sources/use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim4085406904.md) — Full Huberman Lab interview on sleep-stage function, slow-wave restoration, REM emotional-memory processing, locus-coeruleus regulation, nightmares, and opioid-withdrawal sleep disruption.
 
 ## Entities
-- [Pope Innocent III](entities/InnocentIII.md) — Pope who joined anti-heresy policy to armed pilgrimage and conditional reconciliation in Languedoc.
-- [Raymond VI of Toulouse](entities/RaymondVIOfToulouse.md) — Count whose tactical submission, participation, and resistance expose the crusade's unstable regional politics.
+- [Pope Innocent III](entities/InnocentIII.md) — Pope who escalated anti-heresy investigation, excommunication, and failed negotiation into armed pilgrimage in Languedoc.
+- [Raymond VI of Toulouse](entities/RaymondVIOfToulouse.md) — Count whose prewar confrontation, tactical submission, participation, and resistance expose the crusade's unstable regional politics.
 - [Simon de Montfort](entities/SimonDeMontfort.md) — Devout and brutal commander who converted the opening crusade into prolonged occupation and conquest.
 - [Dominic de Guzmán](entities/DominicDeGuzman.md) — Mendicant founder linking competitive preaching and study to the later development of inquisitorial correction.
 - [骁狼医生 / Xiaolang (oncology surgeon)](entities/XiaolangOncologySurgeon.md) — Source-scoped oncology hepatobiliary surgeon discussing tumor literacy, cancer risk and treatment, liver, biliary, pancreatic, and splenic health, and oncology communication in VOL.21–25.
@@ -3815,7 +3816,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hadrian](entities/Hadrian.md) — Philhellenic Roman emperor whose beard, bond with Antinous, and cult sponsorship joined public image, grief, and imperial authority.
 - [Constantine the Great](entities/ConstantineTheGreat.md) — Roman emperor whose clean-shaven image signaled civilian order and informed early Christian imperial iconography.
 - [Hatshepsut](entities/Hatshepsut.md) — Egyptian female pharaoh whose artificial beard functioned as established royal regalia.
-- [Gregory VII](entities/GregoryVII.md) — Reforming pope who made clerical shaving part of Latin Christian purification and discipline.
+- [Gregory VII](entities/GregoryVII.md) — Reforming pope linking clerical purification, institutional independence, radical pressure, and stronger papal governance.
 - [宾哥 / Binge (oral-health doctor)](entities/BingeOralDoctor.md) — Source-scoped oral-health doctor explaining prevention, product claims, dental aesthetics, provider selection, and referral boundaries.
 - [Lee Miller](entities/LeeMiller.md) — Photographer and war correspondent who brought surrealist formation, authored prose, and field access to wartime and Dachau witness.
 - [Vogue](entities/Vogue.md) — Magazine connecting fashion publishing to Lee Miller's wartime photography, prose, and public evidence.
@@ -12321,7 +12322,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mark Rowlands / 马克·罗兰兹](entities/MarkRowlands.md) — Philosopher-author whose life with the wolf Brenin anchors the 蜜獾吃书 episode on animal intelligence, civilization, loyalty, care, and death.
 - [《哲学家与狼》 / The Philosopher and the Wolf](entities/ThePhilosopherAndTheWolf.md) — Rowlands memoir-philosophy book used to reflect on wolf, dog, and human ways of living.
 - [Brenin / 布列宁](entities/Brenin.md) — Wolf companion whose behavior, illness, death, and final Languedoc summer become the episode's philosophical evidence.
-- [Languedoc / 朗格多克](entities/Languedoc.md) — Southern French setting where Brenin's final repeated daily routine becomes the source's mortality image.
+- [Languedoc / 朗格多克](entities/Languedoc.md) — Southern French region represented through medieval religious-political conflict and a modern memoir's final shared summer.
 - [《伴生》 / Our Symphony with Animals](entities/OurSymphonyWithAnimals.md) — Aysha Akhtar book discussed by 蜜獾吃书 as a memoir, medicine, animal-ethics, and public-health argument about human-animal well-being.
 - [Aysha Akhtar / 阿依莎·阿赫塔](entities/AyshaAkhtar.md) — Physician and animal-ethics author whose 《伴生》 connects personal trauma, companion animals, public health, and animal-cruelty violence risk.
 - [安徒生 / Hans Christian Andersen](entities/HansChristianAndersen.md) — Danish fairy-tale writer read by 蜜獾吃书 as an all-ages author of satire, sorrow, death, marginality, and spiritual longing.
@@ -14564,8 +14565,8 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Concepts
 - [Annual Fitness Periodization](concepts/AnnualFitnessPeriodization.md) — Rotating yearly training emphasis while maintaining broad capacity and scheduling recovery.
 - [Constraint-First Training Design](concepts/ConstraintFirstTrainingDesign.md) — Designing exercise around the target adaptation, likely blocker, real calendar, and anticipated disruption.
-- [Cathars](concepts/Cathars.md) — Contested category separating local holy people, hostile classification, persecution-driven consolidation, and later reinvention.
-- [Albigensian Crusade](concepts/AlbigensianCrusade.md) — Sanctified anti-heresy war that joined massacre, occupation, institutional change, and French royal expansion.
+- [Cathars](concepts/Cathars.md) — Contested category separating local holy people, learned and political classification, persecution-driven consolidation, and later reinvention.
+- [Albigensian Crusade](concepts/AlbigensianCrusade.md) — Sanctified anti-heresy war whose reforming prehistory led into massacre, occupation, institutional change, and French royal expansion.
 - [Fourth Lateran Council](concepts/FourthLateranCouncil.md) — 1215 council associated with tighter doctrine, clerical governance, lay confession, and visible social boundaries.
 - [Inquisitorial Pastoral Coercion](concepts/InquisitorialPastoralCoercion.md) — Investigative pressure justified as compassionate correction and salvation while remaining coercive.
 - [Cancer Stage-Specific Treatment Selection / 癌症分期与治疗选择](concepts/CancerStageSpecificTreatmentSelection.md) — Matching surgery, radiation, systemic therapy, observation, and combinations to diagnosis, stage, biomarkers, patient condition, and goals.
@@ -14892,7 +14893,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Outcome-Independent Creative Practice](concepts/OutcomeIndependentCreativePractice.md) — Creative discipline separating honest present effort from approval, revenue, prestige, and other results outside the maker's control.
 - [Creative Receptivity and Idea Capture](concepts/CreativeReceptivityAndIdeaCapture.md) — Practice joining revisable beliefs, surprise, intuition, off-task emergence, fragment capture, and later selection.
 - [TCM Winter Self-Care Boundary / 中医冬季养生边界](concepts/TCMWinterSelfCareBoundary.md) — Separates adaptable winter routines from unvalidated seasonal, diagnostic, food-therapy, medicine, and treatment claims.
-- [Gregorian Reform](concepts/GregorianReform.md) — Medieval program joining clerical discipline, papal independence, cardinal election, and intensified legitimacy concerns.
+- [Gregorian Reform](concepts/GregorianReform.md) — Medieval transformation joining clerical discipline and papal independence to standardization, jurisdictional reach, and heresy classification.
 - [Legend as Institutional Anxiety](concepts/LegendAsInstitutionalAnxiety.md) — Framework for reading false stories as evidence of real institutional fears, boundaries, and polemical reuse.
 - [Ritual Object Legend Formation](concepts/RitualObjectLegendFormation.md) — Process by which ambiguous ritual objects attract stories that later appear to validate the objects' supposed purpose.
 - [Female Sacred Authority Constraint](concepts/FemaleSacredAuthorityConstraint.md) — Boundary between honoring female holiness and excluding women from priestly or supreme institutional office.

@@ -7532,9 +7532,9 @@
       "url": "/wiki/entities/alberta/"
     },
     "AlbigensianCrusade": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7887097153 [GLT7887097153].md",
@@ -7542,6 +7542,13 @@
           "show": "The Rest Is History",
           "title": "303: The Bloodiest Crusade",
           "url": "/wiki/sources/303-the-bloodiest-crusade-glt7887097153/"
+        },
+        {
+          "episode_file": "GLT9956144594 [GLT9956144594].md",
+          "key": "302-the-mystery-of-the-cathars-glt9956144594",
+          "show": "The Rest Is History",
+          "title": "302: The Mystery of the Cathars",
+          "url": "/wiki/sources/302-the-mystery-of-the-cathars-glt9956144594/"
         }
       ],
       "updated": "2026-09-29",
@@ -25821,9 +25828,9 @@
       "url": "/wiki/concepts/catastrophicfailurerootcauseinvestigation/"
     },
     "Cathars": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7887097153 [GLT7887097153].md",
@@ -25831,6 +25838,13 @@
           "show": "The Rest Is History",
           "title": "303: The Bloodiest Crusade",
           "url": "/wiki/sources/303-the-bloodiest-crusade-glt7887097153/"
+        },
+        {
+          "episode_file": "GLT9956144594 [GLT9956144594].md",
+          "key": "302-the-mystery-of-the-cathars-glt9956144594",
+          "show": "The Rest Is History",
+          "title": "302: The Mystery of the Cathars",
+          "url": "/wiki/sources/302-the-mystery-of-the-cathars-glt9956144594/"
         }
       ],
       "updated": "2026-09-29",
@@ -71020,9 +71034,9 @@
       "url": "/wiki/entities/greekwarofindependence/"
     },
     "GregorianReform": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1981561492 [GLT1981561492].md",
@@ -71030,15 +71044,22 @@
           "show": "The Rest Is History",
           "title": "403. The Mystery of the Pregnant Pope",
           "url": "/wiki/sources/403-the-mystery-of-the-pregnant-pope-glt1981561492/"
+        },
+        {
+          "episode_file": "GLT9956144594 [GLT9956144594].md",
+          "key": "302-the-mystery-of-the-cathars-glt9956144594",
+          "show": "The Rest Is History",
+          "title": "302: The Mystery of the Cathars",
+          "url": "/wiki/sources/302-the-mystery-of-the-cathars-glt9956144594/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/gregorianreform/"
     },
     "GregoryVII": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6058938613 [GLT6058938613].md",
@@ -71053,9 +71074,16 @@
           "show": "The Rest Is History",
           "title": "403. The Mystery of the Pregnant Pope",
           "url": "/wiki/sources/403-the-mystery-of-the-pregnant-pope-glt1981561492/"
+        },
+        {
+          "episode_file": "GLT9956144594 [GLT9956144594].md",
+          "key": "302-the-mystery-of-the-cathars-glt9956144594",
+          "show": "The Rest Is History",
+          "title": "302: The Mystery of the Cathars",
+          "url": "/wiki/sources/302-the-mystery-of-the-cathars-glt9956144594/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-29",
       "url": "/wiki/entities/gregoryvii/"
     },
     "GregoryXI": {
@@ -86011,9 +86039,9 @@
       "url": "/wiki/entities/innerworld/"
     },
     "InnocentIII": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7887097153 [GLT7887097153].md",
@@ -86021,6 +86049,13 @@
           "show": "The Rest Is History",
           "title": "303: The Bloodiest Crusade",
           "url": "/wiki/sources/303-the-bloodiest-crusade-glt7887097153/"
+        },
+        {
+          "episode_file": "GLT9956144594 [GLT9956144594].md",
+          "key": "302-the-mystery-of-the-cathars-glt9956144594",
+          "show": "The Rest Is History",
+          "title": "302: The Mystery of the Cathars",
+          "url": "/wiki/sources/302-the-mystery-of-the-cathars-glt9956144594/"
         }
       ],
       "updated": "2026-09-29",
@@ -97136,6 +97171,29 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/languagecompressionlabeling/"
+    },
+    "Languedoc": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "39.哲学家与狼：在朗格多克永恒的夏天 [611233065].md",
+          "key": "39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065",
+          "show": "蜜獾吃书",
+          "title": "39.哲学家与狼：在朗格多克永恒的夏天",
+          "url": "/wiki/sources/39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065/"
+        },
+        {
+          "episode_file": "GLT9956144594 [GLT9956144594].md",
+          "key": "302-the-mystery-of-the-cathars-glt9956144594",
+          "show": "The Rest Is History",
+          "title": "302: The Mystery of the Cathars",
+          "url": "/wiki/sources/302-the-mystery-of-the-cathars-glt9956144594/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/languedoc/"
     },
     "LangxingDingsheng": {
       "episode_count": 1,
@@ -139868,9 +139926,9 @@
       "url": "/wiki/entities/raymondpoincare/"
     },
     "RaymondVIOfToulouse": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7887097153 [GLT7887097153].md",
@@ -139878,6 +139936,13 @@
           "show": "The Rest Is History",
           "title": "303: The Bloodiest Crusade",
           "url": "/wiki/sources/303-the-bloodiest-crusade-glt7887097153/"
+        },
+        {
+          "episode_file": "GLT9956144594 [GLT9956144594].md",
+          "key": "302-the-mystery-of-the-cathars-glt9956144594",
+          "show": "The Rest Is History",
+          "title": "302: The Mystery of the Cathars",
+          "url": "/wiki/sources/302-the-mystery-of-the-cathars-glt9956144594/"
         }
       ],
       "updated": "2026-09-29",
