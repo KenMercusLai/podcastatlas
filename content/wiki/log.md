@@ -24603,3 +24603,11 @@ Added source `vol-46-shipin-yu-yingyang-zhe-5-da-jiankang-kunrao-ni-zhanle-jige-
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | How to Use Cold & Heat Exposure to Improve Your Health | Dr. Susanna Søberg
+
+Added source `how-to-use-cold-heat-exposure-to-improve-your-health-dr-susanna-soberg-scim2723639227`; created `SusannaSoberg`; and updated `ColdExposureDoseAndSafety`, `ColdShiveringThermogenesis`, and the canonical index from their complete bounded source sets. Core synthesis: brief, repeatable thermal stress may engage brown fat, shivering, vascular adaptation, and glucose handling, but the observed 11 cold minutes and 57 sauna minutes per week describe experienced male winter swimmers rather than a universal prescription. No settled contradiction was adopted. Causal benefit, durable fat loss, women-specific dosing, children, Raynaud's syndrome, sleep effects, head immersion, afterdrop, open-water use, and individual medical safety remain source-scoped or unresolved. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

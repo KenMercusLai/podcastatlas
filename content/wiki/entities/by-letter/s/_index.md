@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 11239
+wiki_total_pages: 11240
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1625,6 +1625,9 @@ wiki_pages:
   - key: "SusanWojcicki"
     title: "Susan Wojcicki"
     url: "/wiki/entities/susanwojcicki/"
+  - key: "SusannaSoberg"
+    title: "Susanna Søberg"
+    url: "/wiki/entities/susannasoberg/"
   - key: "Sushiro"
     title: "Sushiro / 寿司郎"
     url: "/wiki/entities/sushiro/"

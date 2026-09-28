@@ -32029,9 +32029,9 @@
       "url": "/wiki/concepts/cognitivetrustallocation/"
     },
     "ColdExposureDoseAndSafety": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM1100391235 [SCIM1100391235].md",
@@ -32046,9 +32046,16 @@
           "show": "Huberman Lab",
           "title": "Tools to Enhance Working Memory & Attention",
           "url": "/wiki/sources/tools-to-enhance-working-memory-attention-scim1948560111/"
+        },
+        {
+          "episode_file": "SCIM2723639227 [SCIM2723639227].md",
+          "key": "how-to-use-cold-heat-exposure-to-improve-your-health-dr-susanna-soberg-scim2723639227",
+          "show": "Huberman Lab",
+          "title": "How to Use Cold & Heat Exposure to Improve Your Health | Dr. Susanna Søberg",
+          "url": "/wiki/sources/how-to-use-cold-heat-exposure-to-improve-your-health-dr-susanna-soberg-scim2723639227/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/coldexposuredoseandsafety/"
     },
     "ColdFluSupplementEvidenceBoundary": {
@@ -32068,9 +32075,9 @@
       "url": "/wiki/concepts/coldflusupplementevidenceboundary/"
     },
     "ColdShiveringThermogenesis": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM9321862300 [SCIM9321862300].md",
@@ -32078,9 +32085,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Lose Fat With Science-Based Tools",
           "url": "/wiki/sources/essentials-lose-fat-with-science-based-tools-scim9321862300/"
+        },
+        {
+          "episode_file": "SCIM2723639227 [SCIM2723639227].md",
+          "key": "how-to-use-cold-heat-exposure-to-improve-your-health-dr-susanna-soberg-scim2723639227",
+          "show": "Huberman Lab",
+          "title": "How to Use Cold & Heat Exposure to Improve Your Health | Dr. Susanna Søberg",
+          "url": "/wiki/sources/how-to-use-cold-heat-exposure-to-improve-your-health-dr-susanna-soberg-scim2723639227/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/coldshiveringthermogenesis/"
     },
     "ColdWarRegimeChangePressure": {
@@ -156319,6 +156333,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/survivalpressurerebellion/"
+    },
+    "SusannaSoberg": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2723639227 [SCIM2723639227].md",
+          "key": "how-to-use-cold-heat-exposure-to-improve-your-health-dr-susanna-soberg-scim2723639227",
+          "show": "Huberman Lab",
+          "title": "How to Use Cold & Heat Exposure to Improve Your Health | Dr. Susanna Søberg",
+          "url": "/wiki/sources/how-to-use-cold-heat-exposure-to-improve-your-health-dr-susanna-soberg-scim2723639227/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/susannasoberg/"
     },
     "Sushiro": {
       "episode_count": 3,
