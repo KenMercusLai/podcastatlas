@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 11274
+wiki_total_pages: 11278
 wiki_pages:
   - key: "FIFAWorldCup1934"
     title: "1934 FIFA World Cup"
@@ -545,6 +545,9 @@ wiki_pages:
   - key: "FrankensteinCastle"
     title: "Frankenstein Castle / 弗兰肯斯坦城堡"
     url: "/wiki/entities/frankensteincastle/"
+  - key: "FrankfurtParliament"
+    title: "Frankfurt Parliament"
+    url: "/wiki/entities/frankfurtparliament/"
   - key: "FranklinDRoosevelt"
     title: "Franklin D. Roosevelt"
     url: "/wiki/entities/franklindroosevelt/"
@@ -635,6 +638,9 @@ wiki_pages:
   - key: "FriedrichHayek"
     title: "Friedrich Hayek / 哈耶克"
     url: "/wiki/entities/friedrichhayek/"
+  - key: "FriedrichHecker"
+    title: "Friedrich Hecker"
+    url: "/wiki/entities/friedrichhecker/"
   - key: "FriedrichMerz"
     title: "Friedrich Merz"
     url: "/wiki/entities/friedrichmerz/"

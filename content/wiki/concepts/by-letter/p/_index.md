@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8668
+wiki_total_pages: 8674
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1067,6 +1067,9 @@ wiki_pages:
   - key: "PopToAlbumRockTransition"
     title: "Pop-to-Album-Rock Transition"
     url: "/wiki/concepts/poptoalbumrocktransition/"
+  - key: "PopularCounterrevolution"
+    title: "Popular Counter-Revolution"
+    url: "/wiki/concepts/popularcounterrevolution/"
   - key: "PopularNPDDiscourse"
     title: "Popular NPD Discourse / 大众NPD话语"
     url: "/wiki/concepts/popularnpddiscourse/"
@@ -1223,6 +1226,9 @@ wiki_pages:
   - key: "PostRevengeEmptiness"
     title: "Post-Revenge Emptiness / 复仇之后的虚无"
     url: "/wiki/concepts/postrevengeemptiness/"
+  - key: "PostRevolutionaryConservatism"
+    title: "Post-Revolutionary Conservatism"
+    url: "/wiki/concepts/postrevolutionaryconservatism/"
   - key: "PostSearchInternet"
     title: "Post-Search Internet"
     url: "/wiki/concepts/postsearchinternet/"

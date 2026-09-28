@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 8668
+wiki_total_pages: 8674
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -62,6 +62,9 @@ wiki_pages:
   - key: "NationalServiceSocialIntegration"
     title: "National Service Social Integration"
     url: "/wiki/concepts/nationalservicesocialintegration/"
+  - key: "NationalismStatePower"
+    title: "Nationalism and State Power"
+    url: "/wiki/concepts/nationalismstatepower/"
   - key: "NationalistAtlantisMythmaking"
     title: "Nationalist Atlantis Mythmaking"
     url: "/wiki/concepts/nationalistatlantismythmaking/"

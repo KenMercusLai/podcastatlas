@@ -3127,6 +3127,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [EP286 在越来越数字化的时代，如何通过舞蹈重新找回用身体感知世界的能力？](sources/ep286-zai-yuelaiyue-shuzihua-de-shidai-ruhe-tongguo-wudao-zhongxin-zhaohui-yong-shenti-ganzhi-shijie-de-nengli-ltbnmxye2gnqzs4oubhe3mtmx0q9.md) — Talk三联 conversation with Serge Laurent, 谢欣, and 金晓霖 on recovering bodily perception, choreographic space, open interpretation, trained dance practice, and public cultural access.
 - [How Smells Influence Our Hormones, Health & Behavior | Dr. Noam Sobel](sources/how-smells-influence-our-hormones-health-behavior-dr-noam-sobel-scim2074118783.md) — Huberman Lab conversation on human olfaction, nasal airflow, social chemosignals, smell-loss interpretation, emotional tears, hexadecanal, and digital smell.
 
+- [326: The Year of Revolutions: 1848](sources/326-the-year-of-revolutions-1848-glt9746323554.md) — The Rest Is History conversation with Christopher Clark on 1848 as a plural European crisis whose defeats reshaped constitutions, nationalism, conservatism, Catholicism, and state power.
+
 ## Entities
 - [The Histories](entities/TheHistories.md) — Herodotus's inquiry-driven, digressive account of Greeks, Persians, custom, conflict, and empire.
 - [何昭凯 / He Zhaokai](entities/HeZhaokaiNurse.md) — Intensive-care nurse explaining hospice, dynamic communication, symptom relief, and whole-person support.
@@ -14425,6 +14427,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AWPlanet](entities/AWPlanet.md) — Organization identified in EP286 through co-founder, choreographer, and content creator 金晓霖.
 - [Noam Sobel](entities/NoamSobel.md) — Weizmann Institute olfaction researcher studying nasal airflow, social odor, smell loss, chemosignals, and digital olfaction.
 
+- [Christopher Clark](entities/ChristopherClark.md) — Historian interpreting 1848 through plural intentions, continental comparison, contingency, state recovery, and long-term effects.
+- [Robert Blum](entities/RobertBlum.md) — German radical parliamentarian whose execution links revolutionary euphoria, institutional weakness, repression, and memory.
+- [Friedrich Hecker](entities/FriedrichHecker.md) — German radical whose failed Baden insurrection contrasts direct action with parliamentary strategy.
+- [Frankfurt Parliament](entities/FrankfurtParliament.md) — German national assembly whose representative ambition lacked independent military and administrative capacity.
+
 ## Concepts
 - [ETF Consensus Feedback / ETF 共识反馈](concepts/ETFConsensusFeedback.md) — Feedback loop joining index rules, theme labels, distribution, flows, benchmark inclusion, liquidity, and attention.
 - [Incremental Capital Market Engine / 增量资金引擎](concepts/IncrementalCapitalMarketEngine.md) — Recurring equity-demand mechanism combining ETF inflows, corporate buybacks, and dividend reinvestment.
@@ -23119,5 +23126,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dance Participation–Professionalism Boundary / 舞蹈参与与专业创作边界](concepts/DanceParticipationProfessionalBoundary.md) — Boundary joining universal movement participation to the training and judgment required for dance as art.
 - [Olfactory Health Signal](concepts/OlfactoryHealthSignal.md) — Boundary treating smell function and loss as clinically informative but non-specific rather than independently diagnostic.
 - [Digital Olfaction](concepts/DigitalOlfaction.md) — Measurement, modeling, transmission, or reproduction of perceived smell from chemical and molecular information.
+
+- [Revolutions of 1848](concepts/RevolutionsOf1848.md) — Plural European crisis joining subsistence pressure, political experimentation, nationalism, media, crowds, and state recovery.
+- [Revolutionary Contagion](concepts/RevolutionaryContagion.md) — Diffusion of revolutionary expectations and repertoires through news and crowd-state interaction without unified command.
+- [Nationalism and State Power](concepts/NationalismStatePower.md) — Shift from emotionally powerful national aspiration toward nationalism backed by armies, administration, law, and territory.
+- [Post-Revolutionary Conservatism](concepts/PostRevolutionaryConservatism.md) — Adaptive conservative politics that preserves authority by selectively absorbing changes revolution made unavoidable.
+- [Popular Counter-Revolution](concepts/PopularCounterrevolution.md) — Social participation in restoring order alongside loyal armies, administration, elections, and coercion.
+- [Constitutional Afterlife of Revolution](concepts/ConstitutionalAfterlifeOfRevolution.md) — Survival or later reuse of constitutional forms after revolutionary coalitions fragment or lose.
 
 ## Syntheses

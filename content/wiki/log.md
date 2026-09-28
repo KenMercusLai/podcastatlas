@@ -24738,3 +24738,11 @@ Added source `how-smells-influence-our-hormones-health-behavior-dr-noam-sobel-sc
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | 326: The Year of Revolutions: 1848
+
+Added source `326-the-year-of-revolutions-1848-glt9746323554`; created `ChristopherClark`, `RobertBlum`, `FriedrichHecker`, `FrankfurtParliament`, `RevolutionsOf1848`, `RevolutionaryContagion`, `NationalismStatePower`, `PostRevolutionaryConservatism`, `PopularCounterrevolution`, and `ConstitutionalAfterlifeOfRevolution`; and updated `RevolutionaryFailurePoliticalSuccess` and the canonical index from their complete bounded source sets. Core synthesis: 1848 was a plural continental crisis whose immediate revolutionary defeats coexisted with constitutional survival, adaptive conservatism, state-backed nationalism, Catholic reorganization, and new political repertoires; those effects should not be mistaken for fulfillment of one unified revolutionary program. No settled contradiction was adopted. Crowd and volunteer totals, policing comparisons, constitutional continuities, causal weights, and counterfactual judgments remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -1514,6 +1514,13 @@
       "url": "/topics/history/"
     }
   ],
+  "326-the-year-of-revolutions-1848-glt9746323554": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "327-coronations-the-deep-history-part-1-glt4746607803": [
     {
       "key": "history",
@@ -63591,6 +63598,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "RevolutionaryContagion": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "RevolutionaryLibertyDistribution": [

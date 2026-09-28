@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2894
+topic_total_pages: 2895
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2287,6 +2287,9 @@ topic_concepts:
   - key: "RetailServiceCulture"
     title: "Retail Service Culture"
     url: "/wiki/concepts/retailserviceculture/"
+  - key: "RevolutionaryContagion"
+    title: "Revolutionary Contagion"
+    url: "/wiki/concepts/revolutionarycontagion/"
   - key: "RevolutionaryMartyrdomImageMaking"
     title: "Revolutionary Martyrdom Image-Making / 革命殉道图像制造"
     url: "/wiki/concepts/revolutionarymartyrdomimagemaking/"

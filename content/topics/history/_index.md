@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2144
+topic_total_pages: 2145
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4710,6 +4710,9 @@ topic_sources:
   - key: "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008"
     title: "318: Hundred Years' War: A Game of Thrones (Part 1)"
     url: "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+  - key: "326-the-year-of-revolutions-1848-glt9746323554"
+    title: "326: The Year of Revolutions: 1848"
+    url: "/wiki/sources/326-the-year-of-revolutions-1848-glt9746323554/"
   - key: "327-coronations-the-deep-history-part-1-glt4746607803"
     title: "327: Coronations: The Deep History (Part 1)"
     url: "/wiki/sources/327-coronations-the-deep-history-part-1-glt4746607803/"

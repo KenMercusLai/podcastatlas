@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8668
+wiki_total_pages: 8674
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1763,6 +1763,9 @@ wiki_pages:
   - key: "ConstituentNationSportingIdentity"
     title: "Constituent Nation Sporting Identity"
     url: "/wiki/concepts/constituentnationsportingidentity/"
+  - key: "ConstitutionalAfterlifeOfRevolution"
+    title: "Constitutional Afterlife of Revolution"
+    url: "/wiki/concepts/constitutionalafterlifeofrevolution/"
   - key: "ConstitutionalMonarchyVetoConflict"
     title: "Constitutional Monarchy Veto Conflict"
     url: "/wiki/concepts/constitutionalmonarchyvetoconflict/"
