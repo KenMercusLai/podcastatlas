@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 8595
+wiki_total_pages: 8597
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -371,6 +371,12 @@ wiki_pages:
   - key: "MayerlingDeathPact"
     title: "Mayerling Death Pact"
     url: "/wiki/concepts/mayerlingdeathpact/"
+  - key: "MDMANeurotoxicityRisk"
+    title: "MDMA Neurotoxicity and Contextual Risk"
+    url: "/wiki/concepts/mdmaneurotoxicityrisk/"
+  - key: "MDMAAssistedPTSDTherapy"
+    title: "MDMA-Assisted PTSD Therapy"
+    url: "/wiki/concepts/mdmaassistedptsdtherapy/"
   - key: "MealReplacementNutritionBoundary"
     title: "Meal Replacement Nutrition Boundary / 代餐营养边界"
     url: "/wiki/concepts/mealreplacementnutritionboundary/"

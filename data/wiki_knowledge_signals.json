@@ -7530,6 +7530,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/alexanderluria/"
     },
+    "AlexanderShulgin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6952643449 [SCIM6952643449].md",
+          "key": "the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449",
+          "show": "Huberman Lab",
+          "title": "The Science of MDMA & Its Therapeutic Uses: Benefits & Risks",
+          "url": "/wiki/sources/the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/alexandershulgin/"
+    },
     "AlexanderTheGreat": {
       "episode_count": 2,
       "show_count": 2,
@@ -102329,9 +102345,9 @@
       "url": "/wiki/entities/lyumengzheng/"
     },
     "MDMA": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM7293799235 [SCIM7293799235].md",
@@ -102353,10 +102369,49 @@
           "show": "Huberman Lab",
           "title": "How Your Brain’s Reward Circuits Drive Your Choices | Dr. Robert Malenka",
           "url": "/wiki/sources/how-your-brains-reward-circuits-drive-your-choices-dr-robert-malenka-scim2531622462/"
+        },
+        {
+          "episode_file": "SCIM6952643449 [SCIM6952643449].md",
+          "key": "the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449",
+          "show": "Huberman Lab",
+          "title": "The Science of MDMA & Its Therapeutic Uses: Benefits & Risks",
+          "url": "/wiki/sources/the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449/"
         }
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/mdma/"
+    },
+    "MDMAAssistedPTSDTherapy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6952643449 [SCIM6952643449].md",
+          "key": "the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449",
+          "show": "Huberman Lab",
+          "title": "The Science of MDMA & Its Therapeutic Uses: Benefits & Risks",
+          "url": "/wiki/sources/the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/mdmaassistedptsdtherapy/"
+    },
+    "MDMANeurotoxicityRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6952643449 [SCIM6952643449].md",
+          "key": "the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449",
+          "show": "Huberman Lab",
+          "title": "The Science of MDMA & Its Therapeutic Uses: Benefits & Risks",
+          "url": "/wiki/sources/the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/mdmaneurotoxicityrisk/"
     },
     "MGMResorts": {
       "episode_count": 1,
@@ -106941,9 +106996,9 @@
       "url": "/wiki/concepts/memorydeletionethics/"
     },
     "MemoryReconsolidationPsychiatry": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM5296180263 [SCIM5296180263].md",
@@ -106958,6 +107013,13 @@
           "show": "Huberman Lab",
           "title": "How to Improve Memory & Focus Using Science Protocols | Dr. Charan Ranganath",
           "url": "/wiki/sources/how-to-improve-memory-focus-using-science-protocols-dr-charan-ranganath-scim5612458885/"
+        },
+        {
+          "episode_file": "SCIM6952643449 [SCIM6952643449].md",
+          "key": "the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449",
+          "show": "Huberman Lab",
+          "title": "The Science of MDMA & Its Therapeutic Uses: Benefits & Risks",
+          "url": "/wiki/sources/the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449/"
         }
       ],
       "updated": "2026-09-23",
@@ -111612,6 +111674,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/multiteacherdistillation/"
+    },
+    "MultidisciplinaryAssociationForPsychedelicStudies": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6952643449 [SCIM6952643449].md",
+          "key": "the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449",
+          "show": "Huberman Lab",
+          "title": "The Science of MDMA & Its Therapeutic Uses: Benefits & Risks",
+          "url": "/wiki/sources/the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/multidisciplinaryassociationforpsychedelicstudies/"
     },
     "MultidisciplinarySleepCare": {
       "episode_count": 2,
@@ -128711,9 +128789,9 @@
       "url": "/wiki/concepts/pseudoproductivity/"
     },
     "PsychedelicClinicalSupervisionBoundary": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM5296180263 [SCIM5296180263].md",
@@ -128742,6 +128820,13 @@
           "show": "Huberman Lab",
           "title": "How to Learn Better & Create Your Best Future | Tim Ferriss",
           "url": "/wiki/sources/how-to-learn-better-create-your-best-future-tim-ferriss-scim6518415604/"
+        },
+        {
+          "episode_file": "SCIM6952643449 [SCIM6952643449].md",
+          "key": "the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449",
+          "show": "Huberman Lab",
+          "title": "The Science of MDMA & Its Therapeutic Uses: Benefits & Risks",
+          "url": "/wiki/sources/the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449/"
         }
       ],
       "updated": "2026-09-28",
@@ -146579,9 +146664,9 @@
       "url": "/wiki/concepts/socialrankflexibility/"
     },
     "SocialRewardNeuromodulation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2531622462 [SCIM2531622462].md",
@@ -146589,6 +146674,13 @@
           "show": "Huberman Lab",
           "title": "How Your Brain’s Reward Circuits Drive Your Choices | Dr. Robert Malenka",
           "url": "/wiki/sources/how-your-brains-reward-circuits-drive-your-choices-dr-robert-malenka-scim2531622462/"
+        },
+        {
+          "episode_file": "SCIM6952643449 [SCIM6952643449].md",
+          "key": "the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449",
+          "show": "Huberman Lab",
+          "title": "The Science of MDMA & Its Therapeutic Uses: Benefits & Risks",
+          "url": "/wiki/sources/the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449/"
         }
       ],
       "updated": "2026-09-28",
@@ -156614,9 +156706,9 @@
       "url": "/wiki/concepts/therapeuticmusicalsynchrony/"
     },
     "TherapeuticStateLearning": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2644851631 [SCIM2644851631].md",
@@ -156624,6 +156716,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: Understanding & Healing the Mind | Dr. Karl Deisseroth",
           "url": "/wiki/sources/essentials-understanding-healing-the-mind-dr-karl-deisseroth-scim2644851631/"
+        },
+        {
+          "episode_file": "SCIM6952643449 [SCIM6952643449].md",
+          "key": "the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449",
+          "show": "Huberman Lab",
+          "title": "The Science of MDMA & Its Therapeutic Uses: Benefits & Risks",
+          "url": "/wiki/sources/the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449/"
         }
       ],
       "updated": "2026-09-21",

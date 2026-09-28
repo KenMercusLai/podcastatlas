@@ -4,6 +4,7 @@ type: concept
 tags: [psychiatry, learning, psychedelics, trauma]
 sources:
   - essentials-understanding-healing-the-mind-dr-karl-deisseroth-scim2644851631
+  - the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449
 last_updated: 2026-09-21
 knowledge_schema: synthesis-v1
 ---
@@ -16,12 +17,15 @@ Therapeutic state learning is the hypothesis that an unusual drug-assisted or re
 ## Current Synthesis
 In the episode's MDMA discussion, acute connectedness matters less as a transient feeling than as evidence a patient can later remember: connection was possible. [[KarlDeisseroth]] compares that carryover with psychotherapy, where learning inside a therapeutic relationship can become a model for other relationships and future behavior.
 
-The concept also offers one possible account of psychedelic benefit in depression. If hopelessness constrains which futures feel representable, a changed state may temporarily admit alternatives that ordinary processing filters out. The episode explicitly lacks a deep mechanism, so the synthesis remains a learning hypothesis under [[PsychedelicClinicalSupervisionBoundary]], not a treatment protocol.
+A structured learning environment makes the bridge from temporary openness to durable change more concrete. Preparation and therapeutic rapport precede the acute state; monitored sessions may reduce threat appraisal and increase trust enough to approach traumatic material; and follow-up integration aims to carry revised interpretations into ordinary life. [[MDMAAssistedPTSDTherapy]] is therefore a concrete example of the broader hypothesis rather than proof that the acute state is sufficient.
+
+The concept also offers one possible account of psychedelic benefit in depression. If hopelessness constrains which futures feel representable, a changed state may temporarily admit alternatives that ordinary processing filters out. Both sources leave important mechanisms incomplete, so the synthesis remains a learning hypothesis under [[PsychedelicClinicalSupervisionBoundary]], not a treatment protocol.
 
 ## Key Claims
 - Acute altered experience can become therapeutically relevant through later memory and learning.
 - MDMA-related connectedness is framed as a possible proof that connection can occur.
 - Good psychotherapy also builds stable learned models that can generalize beyond the session.
+- Preparation, supported exposure, and integration may help translate an acute state into later change.
 - Depression may restrict imaginable valuable futures, making new representations potentially meaningful.
 - A powerful experience is not equivalent to durable change; integration and later behavior matter.
 - The proposed mechanisms remain incomplete and clinically bounded.
@@ -30,12 +34,13 @@ The concept also offers one possible account of psychedelic benefit in depressio
 - MDMA carryover - [[essentials-understanding-healing-the-mind-dr-karl-deisseroth-scim2644851631]] says people may later remember that the acute experience of connection was possible.
 - Relationship transfer - [[essentials-understanding-healing-the-mind-dr-karl-deisseroth-scim2644851631]] agrees that therapy can create learned models exported to other relationships.
 - Future-model hypothesis - [[essentials-understanding-healing-the-mind-dr-karl-deisseroth-scim2644851631]] suggests psychedelics may let a depressed person represent paths that hopelessness had filtered out.
+- Structured PTSD context - [[the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449]] describes preparation, monitored MDMA-assisted psychotherapy, and follow-up integration while explicitly rejecting MDMA as a stand-alone cure.
 
 ## Counterevidence & Qualifications
-The episode states that psychedelic mechanisms are not deeply understood and notes addiction and lasting undesirable change as risks. The concept does not establish efficacy, safety, dosage, eligibility, or a do-it-yourself route.
+The sources do not establish one causal mechanism linking acute trust, threat-circuit changes, memory access, and durable outcome. Reported trial results remain dated and source-scoped, and altered states can involve addiction, lasting undesirable change, physiological risk, or destabilization. The concept does not establish efficacy, safety, dosage, eligibility, or a do-it-yourself route.
 
 ## What Changed
-- Created the concept to distinguish durable learning from the acute altered state itself.
+- Added preparation, supported trauma exposure, and integration as the structured bridge between acute state and later learning.
 
 ## Related Concepts
 - [[MemoryReconsolidationPsychiatry]] - narrower trauma-memory updating hypothesis.
@@ -43,3 +48,4 @@ The episode states that psychedelic mechanisms are not deeply understood and not
 - [[PsychedelicOrdinaryFreedom]] - adjacent integration frame prioritizing ordinary life over peak states.
 - [[MDMA]] - substance used in the episode's connectedness-and-learning example.
 - [[Neuroplasticity]] - broader capacity for experience-dependent change.
+- [[MDMAAssistedPTSDTherapy]] - clinical program that makes preparation and integration explicit.

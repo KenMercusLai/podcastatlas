@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Science of MDMA & Its Therapeutic Uses: Benefits & Risks](sources/the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449.md) — Huberman Lab solo episode on MDMA mechanisms, social reward, PTSD-assisted psychotherapy, contextual neurotoxicity, contamination, and supervised-use boundaries.
 - [How to Learn Better & Create Your Best Future | Tim Ferriss](sources/how-to-learn-better-create-your-best-future-tim-ferriss-scim6518415604.md) — Huberman Lab interview on edge-case discovery, self-experimentation, life design, psychedelic-research safety, attention, and creative identity expansion.
 - [343: Oppenheimer: The Father of the Atom Bomb (Part 1)](sources/343-oppenheimer-the-father-of-the-atom-bomb-part-1-glt9202576882.md) — The Rest Is History episode on Oppenheimer's formation, communist-era associations, Los Alamos leadership, Trinity, and the tension between atomic secrecy and international control.
 - [344: Oppenheimer: The Witch Hunt (Part 2)](sources/344-oppenheimer-the-witch-hunt-part-2-glt1594914557.md) — The Rest Is History episode on Oppenheimer's post-bomb responsibility, hydrogen-bomb dissent, Cold War surveillance, clearance hearing, and martyr afterlife.
@@ -3089,6 +3090,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [341: The Trials of Oscar Wilde: Sex and Scandal (Part 1)](sources/341-the-trials-of-oscar-wilde-sex-and-scandal-part-1-glt1940599692.md) — The Rest Is History episode on Wilde's celebrity, changing sexual law and identity, unequal relationships, the Queensberry conflict, and the failed libel prosecution.
 
 ## Entities
+- [Alexander Shulgin](entities/AlexanderShulgin.md) — Chemist associated with MDMA's modern rediscovery and its early circulation among therapists and physicians.
+- [Multidisciplinary Association for Psychedelic Studies](entities/MultidisciplinaryAssociationForPsychedelicStudies.md) — Organization presented in the source as developing structured MDMA-assisted psychotherapy trials for severe PTSD.
 - [Cockpunch](entities/Cockpunch.md) — Tim Ferriss creative project combining emergent fiction, illustration, digital experiments, philanthropy, and public creative risk.
 - [Leslie Groves](entities/LeslieGroves.md) — Manhattan Project military director who selected and defended Oppenheimer despite known security concerns.
 - [Niels Bohr](entities/NielsBohr.md) — physicist who joined the Allied bomb effort and argued for international openness around atomic knowledge.
@@ -14301,6 +14304,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Raiders of the Lost Ark](entities/RaidersOfTheLostArk.md) — Adventure film that translates the Ark's dangerous holiness into an ultimate-weapon race against Nazi Germany.
 
 ## Concepts
+- [MDMA-Assisted PTSD Therapy](concepts/MDMAAssistedPTSDTherapy.md) — Structured model joining preparation, monitored MDMA sessions, psychotherapy, and integration for selected PTSD patients.
+- [MDMA Neurotoxicity and Contextual Risk](concepts/MDMANeurotoxicityRisk.md) — Evidence boundary separating neurochemical change from neuron injury while accounting for product identity, dose, heat, co-use, and setting.
 - [Victorian Homosexual Identity Formation](concepts/VictorianHomosexualIdentityFormation.md) — Late-19th-century interaction of wider criminalization, medical classification, affirmative language, and celebrity stigma around male same-sex desire.
 - [Edge-Case Opportunity Discovery](concepts/EdgeCaseOpportunityDiscovery.md) — Method for finding hypotheses through extreme users, emerging behavior, awkward workarounds, dogmatic assumptions, and uncrowded access.
 - [Experimental Life Design](concepts/ExperimentalLifeDesign.md) — Framework using bounded projects, reflective questions, schedule design, and de-optimization to test better fits among work, identity, attention, and recovery.

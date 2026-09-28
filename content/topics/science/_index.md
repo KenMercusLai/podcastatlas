@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1287
+topic_total_pages: 1288
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -3771,6 +3771,9 @@ topic_sources:
   - key: "the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890"
     title: "The Science of Hunger & Medications to Combat Obesity | Dr. Zachary Knight"
     url: "/wiki/sources/the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890/"
+  - key: "the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449"
+    title: "The Science of MDMA & Its Therapeutic Uses: Benefits & Risks"
+    url: "/wiki/sources/the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449/"
   - key: "the-science-of-your-gut-sense-the-gut-brain-axis-dr-diego-bohorquez-scim8970398714"
     title: "The Science of Your Gut Sense & the Gut-Brain Axis | Dr. Diego Bohórquez"
     url: "/wiki/sources/the-science-of-your-gut-sense-the-gut-brain-axis-dr-diego-bohorquez-scim8970398714/"

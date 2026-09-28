@@ -5615,6 +5615,10 @@
     "title": "Alexander Pushkin / 普希金",
     "url": "/wiki/entities/alexanderpushkin/"
   },
+  "AlexanderShulgin": {
+    "title": "Alexander Shulgin",
+    "url": "/wiki/entities/alexandershulgin/"
+  },
   "AlexanderTheGreat": {
     "title": "Alexander the Great / 亚历山大大帝",
     "url": "/wiki/entities/alexanderthegreat/"
@@ -44571,6 +44575,14 @@
     "title": "MDMA",
     "url": "/wiki/entities/mdma/"
   },
+  "MDMAAssistedPTSDTherapy": {
+    "title": "MDMA-Assisted PTSD Therapy",
+    "url": "/wiki/concepts/mdmaassistedptsdtherapy/"
+  },
+  "MDMANeurotoxicityRisk": {
+    "title": "MDMA Neurotoxicity and Contextual Risk",
+    "url": "/wiki/concepts/mdmaneurotoxicityrisk/"
+  },
   "MEDICUBE": {
     "title": "MEDICUBE",
     "url": "/wiki/entities/medicube/"
@@ -48858,6 +48870,10 @@
   "MultiTeacherDistillation": {
     "title": "Multi-Teacher Distillation",
     "url": "/wiki/concepts/multiteacherdistillation/"
+  },
+  "MultidisciplinaryAssociationForPsychedelicStudies": {
+    "title": "Multidisciplinary Association for Psychedelic Studies",
+    "url": "/wiki/entities/multidisciplinaryassociationforpsychedelicstudies/"
   },
   "MultidisciplinaryHospitalCare": {
     "title": "Multidisciplinary Hospital Care / 医院多职种协作",
@@ -85570,6 +85586,10 @@
   "the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890": {
     "title": "The Science of Hunger & Medications to Combat Obesity | Dr. Zachary Knight",
     "url": "/wiki/sources/the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890/"
+  },
+  "the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449": {
+    "title": "The Science of MDMA & Its Therapeutic Uses: Benefits & Risks",
+    "url": "/wiki/sources/the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449/"
   },
   "the-science-of-your-gut-sense-the-gut-brain-axis-dr-diego-bohorquez-scim8970398714": {
     "title": "The Science of Your Gut Sense & the Gut-Brain Axis | Dr. Diego Bohórquez",

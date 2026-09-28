@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 11191
+wiki_total_pages: 11193
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1445,6 +1445,9 @@ wiki_pages:
   - key: "MultiCard"
     title: "MultiCard"
     url: "/wiki/entities/multicard/"
+  - key: "MultidisciplinaryAssociationForPsychedelicStudies"
+    title: "Multidisciplinary Association for Psychedelic Studies"
+    url: "/wiki/entities/multidisciplinaryassociationforpsychedelicstudies/"
   - key: "MultiPlan"
     title: "MultiPlan"
     url: "/wiki/entities/multiplan/"

@@ -24447,3 +24447,11 @@ Added source `341-the-trials-of-oscar-wilde-sex-and-scandal-part-1-glt1940599692
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | The Science of MDMA & Its Therapeutic Uses: Benefits & Risks
+
+Added source `the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449`; created `AlexanderShulgin`, `MultidisciplinaryAssociationForPsychedelicStudies`, `MDMAAssistedPTSDTherapy`, and `MDMANeurotoxicityRisk`; and updated `MDMA`, `SocialRewardNeuromodulation`, `TherapeuticStateLearning`, `MemoryReconsolidationPsychiatry`, `PsychedelicClinicalSupervisionBoundary`, and the canonical index from their complete bounded source sets. Core synthesis: MDMA is neither a stand-alone PTSD cure nor adequately described by simple harmless-versus-neurotoxic framing; the clinical claim depends on preparation, psychotherapy, monitored sessions, integration, product identity, participant selection, and exposure context. No settled contradiction was adopted. Trial outcomes, imaging and receptor mechanisms, long-term-user observations, neurotoxicity interpretations, post-use-crash mechanisms, legal status, and regulatory progress remain dated or source-scoped rather than individualized medical or current legal guidance. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
