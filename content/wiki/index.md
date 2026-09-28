@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Science of Healthy Hair, Hair Loss and How to Regrow Hair](sources/the-science-of-healthy-hair-hair-loss-and-how-to-regrow-hair-scim6579560756.md) — Huberman Lab solo episode on follicle biology, growth-cycle timing, minoxidil and microneedling, DHT suppression, adjunct evidence, and treatment-risk hierarchy.
 - [VOL.38眼科｜当代年轻人的这12个眼部问题你中了几个？](sources/vol-38-yanke-dangdai-nianqingren-de-zhe-12-ge-yanbu-wenti-ni-zhong-le-jige-lphaxiiov6oe9fii1zotrzxygyor.md) — 这病说来话长 episode on cause-based visual fatigue, contact-lens oxygen and wear, glaucoma context, screens and light, UV filtering, foreign bodies, and presbyopia fitting.
 - [322: East Germany: Life Behind the Iron Curtain](sources/322-east-germany-life-behind-the-iron-curtain-glt4069689977.md) — The Rest Is History episode on the GDR's coercive foundations, welfare and consumer bargain, everyday identity, 1989 reform movement, collapse, and social afterlife.
 - [VOL.40整形外科｜“拆东墙补西墙”为女性乳腺癌术后乳房再造提供了更多可能](sources/vol-40-zhengxingwaike-chai-dongqiang-bu-xiqiang-wei-nvxing-ruxianai-shuhou-rufang-zaizao-tigong-le-geng-duo-keneng-ltyo0gcsutudirgpxk6h9uosjlcc.md) — 这病说来话长 episode on post-cancer breast reconstruction timing, implants and autologous tissue, flap blood supply and donor-site tradeoffs, and anatomy-bounded aesthetic expectations.
@@ -14488,6 +14489,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Free Companies in the Hundred Years' War](entities/FreeCompaniesHundredYearsWar.md) — Mobile veteran companies whose predation makes demobilization and territorial governance unstable.
 
 ## Concepts
+- [Hair Loss Treatment Mechanism Hierarchy](concepts/HairLossTreatmentMechanismHierarchy.md) — Diagnosis-first comparison of local support, growth-phase treatment, controlled injury, DHT suppression, persistence, evidence, and risk.
 - [Visual Fatigue Cause-Based Management / 视疲劳病因导向管理](concepts/VisualFatigueCauseBasedManagement.md) — Cause-first framework separating dry eye, refraction, accommodation, inflammation, screen context, and escalation.
 - [Presbyopia Correction and Fitting / 老花矫正与验配](concepts/PresbyopiaCorrectionFitting.md) — Distinguishes presbyopia from myopia and joins near correction to task distance, refraction, progressive-lens fitting, and adaptation.
 - [GDR State Legitimacy](concepts/GDRStateLegitimacy.md) — Combined model of Soviet force, coercion, provision, attachment, and unmet reform expectations in East German durability.

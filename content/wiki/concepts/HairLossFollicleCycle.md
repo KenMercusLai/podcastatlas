@@ -7,7 +7,8 @@ sources:
   - 93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489
   - vol-80-zhengxingke-tutou-jiemei-buyao-huang-zijiu-ganhuo-bang-ni-mang-li5aqx1zugvobfuifx7hkhyvevox
   - vol-62-pifuke-daodi-naxie-qingkuang-zui-yi-tuofa-baifa-shangfa-bang-ni-bikeng-zhexie-zhishangshui-lreu9n7fvkwgotiewa2yenhur4dp
-last_updated: 2026-09-28
+  - the-science-of-healthy-hair-hair-loss-and-how-to-regrow-hair-scim6579560756
+last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
 
@@ -23,6 +24,8 @@ The current sources distinguish the hair shaft from the living follicle and desc
 
 The two sponsor-supported sources use [[Minoxidil|minoxidil]] to explain cycle modification and persistence, including possible early increased shedding. The non-sponsored VOL.62 discussion independently emphasizes that visible change takes months, interprets early minoxidil shedding as turnover of hairs already approaching release in some users, and frames androgenetic loss as chronic management even after transplantation. The market source adds that fear of hair loss can create demand and pricing power for anti-loss and scalp products. Neither repetition, sponsorship, nor consumer demand proves diagnosis, efficacy, or suitability.
 
+The Huberman Lab episode adds a more explicit cellular and hormonal layer: follicle stem cells generate the hair shaft, anagen duration strongly shapes attainable length, and DHT can shorten growth while promoting miniaturization in receptor-sensitive scalp regions. It also clarifies that proposed treatment mechanisms differ—local blood-flow support, growth-phase extension, controlled injury, and androgen suppression do not imply equal evidence, reversibility, or risk.
+
 ## Key Claims
 - Hair loss is not one condition; diagnosis depends on timing, pattern, stressors, hormones, nutrition, treatment history, and follicle state.
 - Postpartum and some stress- or nutrition-associated shedding may reflect reversible cycle disruption, but persistence and alternative diagnoses still require assessment.
@@ -30,21 +33,22 @@ The two sponsor-supported sources use [[Minoxidil|minoxidil]] to explain cycle m
 - Pattern, trigger history, pull testing, dermoscopy, and biopsy answer different diagnostic questions and should not be collapsed into one self-test.
 - Treatment response depends on follicle state and diagnosis; shedding, miniaturization, immune disruption, scarring, and follicle death are not interchangeable.
 - Transplantation redistributes follicles but does not by itself stop continuing miniaturization of surrounding androgen-sensitive hair.
-- Commercial treatment discussion should stay source-scoped: [[Dafeixin|达菲辛]] sponsors two treatment episodes, and market demand or loyalty does not establish clinical efficacy.
+- Treatment mechanisms should be matched to diagnosis and viable follicle capacity; local support, cycle extension, controlled injury, and DHT suppression are not interchangeable.
 
 ## Evidence
 - Biological cycle - [[93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489]] distinguishes shafts from follicles and organizes hair loss around growth, rest, shedding, miniaturization, damage, and death.
 - Differential diagnosis - [[vol-80-zhengxingke-tutou-jiemei-buyao-huang-zijiu-ganhuo-bang-ni-mang-li5aqx1zugvobfuifx7hkhyvevox|VOL.80]] separates triggered diffuse shedding, patterned thinning, autoimmune loss, and frontal scarring patterns through history and examination.
 - Treatment timing - [[93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489]] and [[vol-80-zhengxingke-tutou-jiemei-buyao-huang-zijiu-ganhuo-bang-ni-mang-li5aqx1zugvobfuifx7hkhyvevox|VOL.80]] connect minoxidil to follicle-cycle timing and sustained use.
 - Chronic management - [[vol-62-pifuke-daodi-naxie-qingkuang-zui-yi-tuofa-baifa-shangfa-bang-ni-bikeng-zhexie-zhishangshui-lreu9n7fvkwgotiewa2yenhur4dp|VOL.62]] connects delayed visible response, early shedding, continuing miniaturization after treatment stops, and post-transplant maintenance to the underlying cycle.
+- Cellular and hormonal mechanism - [[the-science-of-healthy-hair-hair-loss-and-how-to-regrow-hair-scim6579560756]] connects follicle stem cells, anagen-catagen-telogen timing, androgen-receptor distribution, DHT, and retained follicle viability to growth and miniaturization.
 - Market demand - [[meizhuang-jutou-jiti-dingshang-toufa-xihu-shengyi-weihe-you-re-qilai-1005860109]] links stress-related and GLP-1-associated hair-loss concern to anti-loss product demand and pricing power without establishing product efficacy.
 
 ## Counterevidence & Qualifications
-The sources are podcast education, two treatment discussions are sponsored, and the market episode explains demand rather than clinical evidence. Pull-test and daily-shed counts, causal triggers, follicle mechanisms, minoxidil or finasteride effects, transplantation outcomes, concentration choices, recovery expectations, and the reversibility of an individual's hair loss require current clinical evidence and patient-specific assessment. Sudden, patchy, scarring, eyebrow-associated, rapidly progressive, persistent, or systemic-symptom-associated hair loss warrants qualified review.
+The sources are podcast education, two treatment discussions are sponsored, and the market episode explains demand rather than clinical evidence. Pull-test and daily-shed counts, causal triggers, follicle mechanisms, anagen timing, minoxidil or finasteride effects, microneedling combinations, transplantation outcomes, concentration choices, recovery expectations, and the reversibility of an individual's hair loss require current clinical evidence and patient-specific assessment. “Dead zone” recovery is not treated as proof that destroyed follicles can regrow. Sudden, patchy, scarring, eyebrow-associated, rapidly progressive, persistent, or systemic-symptom-associated hair loss warrants qualified review.
 
 ## What Changed
-- Added independent support for delayed treatment response and early minoxidil shedding as cycle-linked phenomena.
-- Added the distinction between follicle redistribution by transplantation and control of continuing miniaturization.
+- Added follicle stem cells, anagen duration, DHT sensitivity, and retained follicle viability to the cycle model.
+- Distinguished local support, cycle extension, controlled injury, and androgen suppression as different treatment mechanisms.
 
 ## Related Concepts
 - [[HairLossDiagnosticTriage]] - applies pattern, timing, triggers, examination, and escalation to identify the likely branch.
@@ -55,3 +59,4 @@ The sources are podcast education, two treatment discussions are sponsored, and 
 - [[PremiumHaircareMarket]] - market branch where hair-loss concern becomes demand and pricing power.
 - [[HaircareSkincareization]] - consumer-routine branch that should not be confused with follicle treatment evidence.
 - [[HairScalpCareBoundary]] - distinguishes shaft and scalp care from follicular treatment.
+- [[HairLossTreatmentMechanismHierarchy]] - compares treatment branches by target, evidence, persistence, and risk.

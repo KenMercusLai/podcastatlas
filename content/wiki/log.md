@@ -24862,3 +24862,11 @@ Added source `vol-38-yanke-dangdai-nianqingren-de-zhe-12-ge-yanbu-wenti-ni-zhong
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | The Science of Healthy Hair, Hair Loss and How to Regrow Hair
+
+Added source `the-science-of-healthy-hair-hair-loss-and-how-to-regrow-hair-scim6579560756`; created `HairLossTreatmentMechanismHierarchy`; and updated `HairLossFollicleCycle`, `Minoxidil`, `AndrogenInterventionClinicalBoundary`, and the canonical index from their complete bounded source sets. Core synthesis: hair-loss treatment should start with diagnosis and retained follicle capacity, then distinguish local support and cycle extension from controlled-injury combinations and stronger DHT suppression; complementary mechanisms may improve outcomes, but evidence, persistence, route, and systemic risks differ materially. No settled contradiction was adopted. Numerical efficacy claims, “dead zone” recovery, caffeine comparisons, post-finasteride mechanisms, dutasteride speed, dose ranges, microneedling protocols, and adjunct claims remain source-scoped public education rather than individualized medical advice. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

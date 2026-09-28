@@ -10214,9 +10214,9 @@
       "url": "/wiki/entities/andrewpalmer/"
     },
     "AndrogenInterventionClinicalBoundary": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM5974928415 [SCIM5974928415].md",
@@ -10238,9 +10238,16 @@
           "show": "Huberman Lab",
           "title": "Improving Male Sexual Health, Function & Fertility | Dr. Michael Eisenberg",
           "url": "/wiki/sources/improving-male-sexual-health-function-fertility-dr-michael-eisenberg-scim8414501670/"
+        },
+        {
+          "episode_file": "SCIM6579560756 [SCIM6579560756].md",
+          "key": "the-science-of-healthy-hair-hair-loss-and-how-to-regrow-hair-scim6579560756",
+          "show": "Huberman Lab",
+          "title": "The Science of Healthy Hair, Hair Loss and How to Regrow Hair",
+          "url": "/wiki/sources/the-science-of-healthy-hair-hair-loss-and-how-to-regrow-hair-scim6579560756/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/androgeninterventionclinicalboundary/"
     },
     "AndrogenSupportSupplementBoundary": {
@@ -71992,9 +71999,9 @@
       "url": "/wiki/concepts/hairlossdiagnostictriage/"
     },
     "HairLossFollicleCycle": {
-      "episode_count": 4,
-      "show_count": 3,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "美妆巨头集体盯上头发，洗护生意为何又热起来？ [1005860109].md",
@@ -72023,10 +72030,33 @@
           "show": "这病说来话长",
           "title": "VOL.62皮肤科｜到底哪些情况最易脱发、白发、伤发？帮你避坑这些智商税",
           "url": "/wiki/sources/vol-62-pifuke-daodi-naxie-qingkuang-zui-yi-tuofa-baifa-shangfa-bang-ni-bikeng-zhexie-zhishangshui-lreu9n7fvkwgotiewa2yenhur4dp/"
+        },
+        {
+          "episode_file": "SCIM6579560756 [SCIM6579560756].md",
+          "key": "the-science-of-healthy-hair-hair-loss-and-how-to-regrow-hair-scim6579560756",
+          "show": "Huberman Lab",
+          "title": "The Science of Healthy Hair, Hair Loss and How to Regrow Hair",
+          "url": "/wiki/sources/the-science-of-healthy-hair-hair-loss-and-how-to-regrow-hair-scim6579560756/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/hairlossfolliclecycle/"
+    },
+    "HairLossTreatmentMechanismHierarchy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6579560756 [SCIM6579560756].md",
+          "key": "the-science-of-healthy-hair-hair-loss-and-how-to-regrow-hair-scim6579560756",
+          "show": "Huberman Lab",
+          "title": "The Science of Healthy Hair, Hair Loss and How to Regrow Hair",
+          "url": "/wiki/sources/the-science-of-healthy-hair-hair-loss-and-how-to-regrow-hair-scim6579560756/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/hairlosstreatmentmechanismhierarchy/"
     },
     "HairScalpCareBoundary": {
       "episode_count": 1,
@@ -114760,9 +114790,9 @@
       "url": "/wiki/entities/minoancivilization/"
     },
     "Minoxidil": {
-      "episode_count": 3,
-      "show_count": 2,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "93.聊聊头发：秃了，就会变强吗？ [718794489].md",
@@ -114784,9 +114814,16 @@
           "show": "这病说来话长",
           "title": "VOL.62皮肤科｜到底哪些情况最易脱发、白发、伤发？帮你避坑这些智商税",
           "url": "/wiki/sources/vol-62-pifuke-daodi-naxie-qingkuang-zui-yi-tuofa-baifa-shangfa-bang-ni-bikeng-zhexie-zhishangshui-lreu9n7fvkwgotiewa2yenhur4dp/"
+        },
+        {
+          "episode_file": "SCIM6579560756 [SCIM6579560756].md",
+          "key": "the-science-of-healthy-hair-hair-loss-and-how-to-regrow-hair-scim6579560756",
+          "show": "Huberman Lab",
+          "title": "The Science of Healthy Hair, Hair Loss and How to Regrow Hair",
+          "url": "/wiki/sources/the-science-of-healthy-hair-hair-loss-and-how-to-regrow-hair-scim6579560756/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-09-29",
       "url": "/wiki/entities/minoxidil/"
     },
     "MiracleOfAmsterdam": {

@@ -6,7 +6,8 @@ sources:
   - 93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489
   - vol-80-zhengxingke-tutou-jiemei-buyao-huang-zijiu-ganhuo-bang-ni-mang-li5aqx1zugvobfuifx7hkhyvevox
   - vol-62-pifuke-daodi-naxie-qingkuang-zui-yi-tuofa-baifa-shangfa-bang-ni-bikeng-zhexie-zhishangshui-lreu9n7fvkwgotiewa2yenhur4dp
-last_updated: 2026-09-28
+  - the-science-of-healthy-hair-hair-loss-and-how-to-regrow-hair-scim6579560756
+last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
 
@@ -22,14 +23,16 @@ VOL.80 adds a practical safety-and-adherence frame. Concentration, scalp sensiti
 
 VOL.62 reinforces delayed response and sustained use without product sponsorship. It describes early increased shedding as concentrated release of hairs already approaching shedding in some users and says the medicine may support regrowth across several diagnoses, but those explanations still do not establish individual suitability, expected response, or a treatment plan.
 
+The Huberman Lab episode adds route and combination context. It discusses topical use alongside low-dose oral use, links the medicine to vasodilation and anagen extension, and presents microneedling as a potentially complementary mechanism. The same source makes continued use, cardiovascular or edema-related effects, and long response horizons part of the decision rather than treating combination efficacy as a universal protocol.
+
 ## Key Characteristics
-- Hair-growth medicine discussed in two explicitly sponsored segments and one non-sponsored clinical Q&A.
 - Presented as acting on the local follicle environment and growth-rest-shedding timing.
 - Requires sustained, correctly applied use rather than one-off treatment.
 - Can be accompanied by an early period of increased shedding that the source interprets as cycle turnover.
 - Can cause unwanted hair growth outside the scalp, making handwashing and application control relevant.
 - Concentration and tolerability are patient- and context-dependent rather than universal gender rules.
 - Pregnancy, breastfeeding, diagnosis, adverse effects, and concurrent treatment require professional guidance.
+- Topical and oral routes differ in exposure and practical risk, while combination treatment adds technique and monitoring questions.
 
 ## Evidence
 - Follicle-cycle rationale - [[93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489]] links treatment to blood flow, cell activity, and follicle-cycle timing rather than to the already-grown hair shaft.
@@ -38,13 +41,14 @@ VOL.62 reinforces delayed response and sustained use without product sponsorship
 - Application and adverse effects - [[vol-80-zhengxingke-tutou-jiemei-buyao-huang-zijiu-ganhuo-bang-ni-mang-li5aqx1zugvobfuifx7hkhyvevox|VOL.80]] discusses scalp sensitivity, unwanted body or facial hair, handwashing, and avoiding transfer to unintended areas.
 - Reproductive boundary - [[vol-80-zhengxingke-tutou-jiemei-buyao-huang-zijiu-ganhuo-bang-ni-mang-li5aqx1zugvobfuifx7hkhyvevox|VOL.80]] advises against pregnancy and breastfeeding use because the episode describes the safety evidence as insufficient.
 - Independent clinical framing - [[vol-62-pifuke-daodi-naxie-qingkuang-zui-yi-tuofa-baifa-shangfa-bang-ni-bikeng-zhexie-zhishangshui-lreu9n7fvkwgotiewa2yenhur4dp|VOL.62]] reinforces delayed response, possible early shedding, long-term use, and diagnosis-dependent application outside a sponsor segment.
+- Route and combination framing - [[the-science-of-healthy-hair-hair-loss-and-how-to-regrow-hair-scim6579560756]] discusses topical and oral exposure, blood-pressure and edema-related effects, sustained use, and microneedling as a complementary rather than interchangeable mechanism.
 
 ## Qualifications
-Two sources contain Dafeixin sponsorship, while VOL.62 supplies non-sponsored corroboration but remains a podcast summary rather than a clinical guideline. Product suitability, concentration preferences, comfort, adherence, regulatory, and efficacy claims remain source-scoped. The episodes do not establish a diagnosis, current label, dose, application schedule, reproductive-safety rule, or individualized treatment plan. Hair loss can have multiple causes, and unexpected shedding or adverse effects require qualified review.
+Two sources contain Dafeixin sponsorship, while VOL.62 and the Huberman Lab episode supply non-sponsored discussion but remain podcast summaries rather than clinical guidelines. Product suitability, concentration preferences, comfort, adherence, regulatory, route, dose, combination, and efficacy claims remain source-scoped. The episodes do not establish a diagnosis, current label, application schedule, reproductive-safety rule, cardiovascular suitability, microneedling technique, or individualized treatment plan. Hair loss can have multiple causes, and unexpected shedding or adverse effects require qualified review.
 
 ## What Changed
-- Added non-sponsored corroboration for delayed response, sustained use, and possible early shedding.
-- Expanded the source-bounded clinical context beyond androgenetic hair loss while preserving diagnosis dependence.
+- Added topical-versus-oral route context, sustained-use burden, and cardiovascular or edema-related adverse effects.
+- Added microneedling as a potentially complementary mechanism without turning the combination into a universal protocol.
 
 ## Relationships
 - [[HairLossFollicleCycle]] - biological timing that the sources use to explain treatment and early shedding.
@@ -53,3 +57,4 @@ Two sources contain Dafeixin sponsorship, while VOL.62 supplies non-sponsored co
 - [[HairAsBiosocialSignal]] - broader context for the social weight of hair loss.
 - [[GenderedMedicalization]] - caution around gendered body pressure and commercialized treatment advice.
 - [[HairScalpCareBoundary]] - separates medical regrowth treatment from shampoo, massage, and shaft care.
+- [[HairLossTreatmentMechanismHierarchy]] - places minoxidil among cycle-extending treatments and distinguishes it from controlled injury or DHT suppression.
