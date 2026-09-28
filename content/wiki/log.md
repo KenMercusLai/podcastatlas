@@ -24463,3 +24463,11 @@ Added source `340-hadrian-and-antinous-glt4184410900`; created `Antinous`, `Anci
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | VOL.53消化内镜科｜拿到报告别怕！幽门螺杆菌、糜烂性胃炎、胃溃疡、肠息肉、便血究竟怎么回事？
+
+Added source `vol-53-xiaohuaneijingke-nadao-baogao-bie-pa-youmen-luoganjun-milanxing-weiyan-weikuiyang-changxirou-bianxie-jiujing-zenme-huishi-lnnmnwcdzoxvblysajxyk_wyhgy`; created `GastrointestinalReportInterpretation`; and updated `HelicobacterPyloriHouseholdManagement`, `EndoscopyPathologyFollowup`, `ColonPolypRiskStratification`, `BowelSymptomTriage`, `IrritableBowelSyndromeDiagnosticBoundary`, `ScreeningResultInterpretation`, and the canonical index from their complete bounded source sets. Core synthesis: gastrointestinal report terms are triage signals rather than self-interpreting diagnoses; suspicious lesions, common gastritis labels, ulcers, polyps, tumor markers, H. pylori results, functional symptoms, and rectal bleeding require different combinations of pathology, symptoms, procedural context, and clinician review. No settled contradiction was adopted. Numeric grades, intervals, size rules, prevalence, retesting, and treatment details remain source-scoped public education. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

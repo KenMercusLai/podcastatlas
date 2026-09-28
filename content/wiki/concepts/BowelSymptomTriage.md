@@ -7,7 +7,8 @@ sources:
   - vol-113-xiaohuaneike-cong-shaojianbing-dao-changjianbing-ni-yinggai-renshi-ta-le-ibd-ri-zhuanti-lpmvs4nuik-bzglz3lnadzbnc-eu
   - vol-94-xiaohuaneike-kunrao-dangdai-nianqingren-de-zuiduo-changwei-wenti-jiushi-zhangqi-dayi-pian-lq93ijp72zi8t5vmctfbifrg7kzz
   - vol-93-xiaohuaneike-you-pi-bu-fang-sunhai-wuzang-zhe-jige-huai-xiguan-ni-zhan-jige-bianmi-he-fuxie-shi-zheyang-zuo-lgrsyf6ozplphgjjpcrh7dspc_do
-last_updated: 2026-09-27
+  - vol-53-xiaohuaneijingke-nadao-baogao-bie-pa-youmen-luoganjun-milanxing-weiyan-weikuiyang-changxirou-bianxie-jiujing-zenme-huishi-lnnmnwcdzoxvblysajxyk_wyhgy
+last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
 
@@ -19,7 +20,7 @@ Bowel symptom triage is the practice of separating ordinary, functional, or life
 ## Current Synthesis
 The sources treat bowel symptoms as meaningful but non-specific signals. Stress, cold drinks, sitting, diet, hydration, motility, digestion, microbiome disturbance, infection, hemorrhoids, inflammatory bowel disease, and structural disease can overlap in diarrhea, loose stool, constipation, cramping, bloating, bleeding, mucus, or bowel-habit change. The practical task is to resist both panic and dismissal, compare with one's own baseline, and observe persistence, progression, stool color and shape, how blood appears, frequency, pain, fever, weight and nutrition change, and associated anemia or inflammation clues before matching risk to qualified evaluation.
 
-The IBD episode adds a disease-specific contrast without turning it into a home diagnostic rule. Fresh blood appearing after stool can fit hemorrhoids, while darker blood and pus mixed through stool can raise concern for intestinal inflammation; infectious diarrhea may have an exposure history, while Crohn's disease may present without obvious blood. VOL.94 and VOL.93 add that visible blood still deserves evaluation even when hemorrhoids are present, that one loose stool per day is not automatically frequent watery diarrhea, and that a sudden change from a person's usual frequency or stool form can matter more than one population-wide “normal.”
+The IBD episode adds a disease-specific contrast without turning it into a home diagnostic rule. Fresh blood appearing after stool can fit hemorrhoids, while darker blood and pus mixed through stool can raise concern for intestinal inflammation; infectious diarrhea may have an exposure history, while Crohn's disease may present without obvious blood. VOL.94 and VOL.93 add that visible blood still deserves evaluation even when hemorrhoids are present, that one loose stool per day is not automatically frequent watery diarrhea, and that a sudden change from a person's usual frequency or stool form can matter more than one population-wide “normal.” VOL.53 reinforces this safety boundary with a case in which presumed hemorrhoidal bleeding preceded discovery of a rectal mass.
 
 Self-care also differs by direction of change. Delaying defecation can permit further water absorption and harder stool, while substantial or repeated diarrhea can deplete water and electrolytes. Hydration, clinically appropriate oral rehydration, movement, and regular toileting may support ordinary cases, but failure to improve or the appearance of warning signs shifts the task from self-care to assessment.
 
@@ -42,14 +43,16 @@ Self-care also differs by direction of change. Delaying defecation can permit fu
 - Motility and bloating: [[vol-94-xiaohuaneike-kunrao-dangdai-nianqingren-de-zuiduo-changwei-wenti-jiushi-zhangqi-dayi-pian-lq93ijp72zi8t5vmctfbifrg7kzz]] links some bloating and constipation to motility or digestion while keeping persistent symptoms inside clinical assessment.
 - Baseline and bleeding: [[vol-93-xiaohuaneike-you-pi-bu-fang-sunhai-wuzang-zhe-jige-huai-xiguan-ni-zhan-jige-bianmi-he-fuxie-shi-zheyang-zuo-lgrsyf6ozplphgjjpcrh7dspc_do]] emphasizes longitudinal change in frequency, form, color, blood mixing, and pain rather than one frequency cutoff or automatic hemorrhoid attribution.
 - Constipation and diarrhea self-care: [[vol-93-xiaohuaneike-you-pi-bu-fang-sunhai-wuzang-zhe-jige-huai-xiguan-ni-zhan-jige-bianmi-he-fuxie-shi-zheyang-zuo-lgrsyf6ozplphgjjpcrh7dspc_do]] links delayed defecation to drier stool and repeated diarrhea to water and electrolyte loss, while placing substantial cases inside clinical assessment.
+- Hemorrhoid boundary: [[vol-53-xiaohuaneijingke-nadao-baogao-bie-pa-youmen-luoganjun-milanxing-weiyan-weikuiyang-changxirou-bianxie-jiujing-zenme-huishi-lnnmnwcdzoxvblysajxyk_wyhgy]] contrasts fresh blood after stool with darker blood mixed through stool but uses both as clues, not exclusions, and warns against leaving persistent bleeding unevaluated.
 
 ## Counterevidence & Qualifications
-The episodes are public education, not symptom checkers. Blood color, timing, or mixing pattern cannot safely rule a cause in or out, and absent blood does not exclude Crohn's disease or colorectal disease. Frequency definitions and probiotic, temperature, hydration, or motility explanations do not establish a home diagnosis. Oral rehydration needs and urgency vary with severity and health context. Age, family history, medication, pregnancy, infection exposure, inflammatory bowel disease, prior polyps, anemia, weight loss, fever, pain severity, hydration, and clinician judgment can all change urgency.
+The episodes are public education, not symptom checkers. Blood color, timing, or mixing pattern cannot safely rule a cause in or out, and known hemorrhoids or absent blood do not exclude colorectal disease or Crohn's disease. Frequency definitions and probiotic, temperature, hydration, or motility explanations do not establish a home diagnosis. Oral rehydration needs and urgency vary with severity and health context. Age, family history, medication, pregnancy, infection exposure, inflammatory bowel disease, prior polyps, anemia, weight loss, fever, pain severity, hydration, and clinician judgment can all change urgency.
 
 ## What Changed
 - Added longitudinal comparison with a person's own bowel baseline rather than relying on one universal frequency rule.
 - Added the opposing hydration problems of delayed defecation and repeated diarrhea, including electrolyte-loss qualification.
 - Strengthened the boundary around mixed or darker blood, narrowing stool, persistent change, and symptom-triggered evaluation.
+- Added direct qualification that a hemorrhoid history does not close the diagnostic pathway for persistent rectal bleeding.
 
 ## Related Concepts
 - [[IrritableBowelSyndromeDiagnosticBoundary]] - functional-diagnosis boundary that depends on excluding organic disease.

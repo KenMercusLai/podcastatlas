@@ -5,7 +5,8 @@ tags: [healthcare, screening, medical-literacy, diagnostic-reasoning]
 sources:
   - vol-139-dangdai-dagongren-tijian-zhinan-ruhe-xuan-xiangmu-ruhe-bikeng-baogao-zenme-kan-gongli-yiyuan-yisheng-lai-zhizhao-lucd43f_m0x0fdw09zm6iszatgtb
   - vol-135-zhimian-tijian-yishengmen-dai-ni-kandong-baogao-li-de-jingsong-zhibiao-lmjlyxmiy2v2r0f8rxttabkkawk9
-last_updated: 2026-09-23
+  - vol-53-xiaohuaneijingke-nadao-baogao-bie-pa-youmen-luoganjun-milanxing-weiyan-weikuiyang-changxirou-bianxie-jiujing-zenme-huishi-lnnmnwcdzoxvblysajxyk_wyhgy
+last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
 
@@ -19,11 +20,14 @@ Screening result interpretation is the process of reading a checkup finding thro
 
 [[vol-135-zhimian-tijian-yishengmen-dai-ni-kandong-baogao-li-de-jingsong-zhibiao-lmjlyxmiy2v2r0f8rxttabkkawk9|VOL.135]] extends that boundary across laboratory and imaging findings. Cervical curvature, carotid plaque, nevi, prostate calcification, gallbladder polyps, low bone density, varicose veins, protein or blood in urine, brain-image descriptions, and thyroid nodules do not share one threshold. Each requires a different combination of symptoms, risk factors, classification, size, trend, test quality, and actionability. Screening can therefore surface a signal that deserves observation, repeat testing, specialist review, or urgent care without the report phrase itself proving the feared disease. Conversely, a normal report is only a time-bounded observation and does not cancel long-term health management.
 
+VOL.53 supplies a gastrointestinal example: CA724 is described as insufficiently specific to diagnose cancer, so an elevation is routed through symptoms, prior testing, endoscopy, and clinician review rather than repeated marker checking alone. The same contextual rule applies to frightening endoscopy terms, but a suspicious mass or mucosal lesion carries a different action burden from a mild isolated laboratory flag.
+
 ## Key Claims
 - Reference-range flags identify statistical or laboratory deviations, not self-interpreting diagnoses.
 - Magnitude, persistence, direction of change, symptoms, and prior measurements affect clinical importance.
 - Temporary state and assay differences can alter some laboratory results.
 - Small imaging findings, nodules, plaques, and tumor markers require organ-specific classification and multimodal context rather than automatic equation with cancer or imminent catastrophe.
+- A low-specificity marker such as CA724 should neither diagnose cancer nor override a completed organ-specific evaluation by itself.
 - Normal results describe the examination moment and do not guarantee future health.
 - Report recommendations and qualified interpretation help route observation, repeat testing, specialist review, or urgent care.
 
@@ -33,13 +37,15 @@ Screening result interpretation is the process of reading a checkup finding thro
 - Marker and imaging example: [[vol-139-dangdai-dagongren-tijian-zhinan-ruhe-xuan-xiangmu-ruhe-bikeng-baogao-zenme-kan-gongli-yiyuan-yisheng-lai-zhizhao-lucd43f_m0x0fdw09zm6iszatgtb]] explains why tumor markers, EB-virus measures, cysts, plaques, and nodules need trend, symptoms, imaging, and medical interpretation.
 - Cross-system triage: [[vol-135-zhimian-tijian-yishengmen-dai-ni-kandong-baogao-li-de-jingsong-zhibiao-lmjlyxmiy2v2r0f8rxttabkkawk9]] applies different decision inputs to vascular, skin, hepatobiliary, neurologic, musculoskeletal, urinary, venous, and thyroid findings instead of treating every abnormal label alike.
 - Escalation context: [[vol-135-zhimian-tijian-yishengmen-dai-ni-kandong-baogao-li-de-jingsong-zhibiao-lmjlyxmiy2v2r0f8rxttabkkawk9]] distinguishes low-risk surveillance from review prompted by symptoms, rapid change, higher-risk categories, repeated urine abnormalities, neurologic signs, compressive symptoms, or respiratory distress.
+- Gastrointestinal marker example: [[vol-53-xiaohuaneijingke-nadao-baogao-bie-pa-youmen-luoganjun-milanxing-weiyan-weikuiyang-changxirou-bianxie-jiujing-zenme-huishi-lnnmnwcdzoxvblysajxyk_wyhgy]] treats CA724 as a low-specificity signal and routes concern through gastrointestinal evaluation and clinical context instead of equating elevation with cancer.
 
 ## Counterevidence & Qualifications
-Contextual interpretation is not a reason to dismiss abnormal findings. Marked changes, symptoms, dangerous patterns, or report-directed urgency can require prompt care. Numeric thresholds quoted in public education may omit morphology, comorbidity, guideline differences, and test limitations; exact intervention and repeat-testing decisions vary by test, condition, and patient. This page is not a report-reading algorithm or medical advice.
+Contextual interpretation is not a reason to dismiss abnormal findings. Marked changes, symptoms, dangerous patterns, suspicious endoscopy terms, or report-directed urgency can require prompt care. Numeric thresholds and marker preferences quoted in public education may omit morphology, comorbidity, guideline differences, and test limitations; exact organ workup, intervention, and repeat-testing decisions vary by test, condition, and patient. This page is not a report-reading algorithm or medical advice.
 
 ## What Changed
 - Extended the framework from laboratory markers and common nodules to cross-system imaging and examination findings.
 - Made symptoms, classification, test quality, and organ-specific actionability explicit in the route from reassurance to surveillance or escalation.
+- Added CA724 as a concrete example of why low-specificity tumor markers require organ-specific evidence and should not become repetitive anxiety loops.
 
 ## Related Concepts
 - [[MedicalDiagnosticReasoning]] - broader clinical process that integrates history, examination, tests, and follow-up.
@@ -47,3 +53,4 @@ Contextual interpretation is not a reason to dismiss abnormal findings. Marked c
 - [[AbnormalFindingFollowupContinuity]] - downstream surveillance after an actionable finding.
 - [[ProstateScreeningInterpretation]] - organ-specific example of a marker that is not a standalone diagnosis.
 - [[LiquidBiopsyScreeningBoundary]] - cancer-marker boundary requiring validated follow-up.
+- [[GastrointestinalReportInterpretation]] - gastrointestinal application to endoscopy language, pathology, and marker context.

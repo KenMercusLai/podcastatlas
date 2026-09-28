@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.53消化内镜科｜拿到报告别怕！幽门螺杆菌、糜烂性胃炎、胃溃疡、肠息肉、便血究竟怎么回事？](sources/vol-53-xiaohuaneijingke-nadao-baogao-bie-pa-youmen-luoganjun-milanxing-weiyan-weikuiyang-changxirou-bianxie-jiujing-zenme-huishi-lnnmnwcdzoxvblysajxyk_wyhgy.md) — 这病说来话长 episode on contextual endoscopy-report reading, gastric findings, H. pylori, colon polyps, tumor markers, functional symptoms, and rectal-bleeding triage.
 - [340: Hadrian and Antinous](sources/340-hadrian-and-antinous-glt4184410900.md) — The Rest Is History episode on Hadrian's bond with Antinous, Roman sexual status norms, the Nile death mystery, and an imperially sponsored divine afterlife.
 - [The Science of MDMA & Its Therapeutic Uses: Benefits & Risks](sources/the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449.md) — Huberman Lab solo episode on MDMA mechanisms, social reward, PTSD-assisted psychotherapy, contextual neurotoxicity, contamination, and supervised-use boundaries.
 - [How to Learn Better & Create Your Best Future | Tim Ferriss](sources/how-to-learn-better-create-your-best-future-tim-ferriss-scim6518415604.md) — Huberman Lab interview on edge-case discovery, self-experimentation, life design, psychedelic-research safety, attention, and creative identity expansion.
@@ -14306,6 +14307,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Raiders of the Lost Ark](entities/RaidersOfTheLostArk.md) — Adventure film that translates the Ark's dangerous holiness into an ultimate-weapon race against Nazi Germany.
 
 ## Concepts
+- [Gastrointestinal Report Interpretation / 胃肠镜报告解读](concepts/GastrointestinalReportInterpretation.md) — Framework for routing endoscopy terminology through lesion context, pathology, symptoms, risk, and clinician review without equating one phrase with a diagnosis.
 - [Ancient Roman Sexual Status Hierarchy](concepts/AncientRomanSexualStatusHierarchy.md) — Framework in which freedom, citizenship, age, rank, and active or passive role mattered more than a modern homosexual/heterosexual identity divide.
 - [Antinous Cult Formation](concepts/AntinousCultFormation.md) — Process joining Hadrianic sponsorship, Osirian identification, Greek forms, provincial uptake, and contested religious afterlife.
 - [MDMA-Assisted PTSD Therapy](concepts/MDMAAssistedPTSDTherapy.md) — Structured model joining preparation, monitored MDMA sessions, psychotherapy, and integration for selected PTSD patients.
