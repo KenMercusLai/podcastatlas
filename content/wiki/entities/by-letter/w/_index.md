@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 11302
+wiki_total_pages: 11308
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -74,6 +74,9 @@ wiki_pages:
   - key: "WalterSickert"
     title: "Walter Sickert"
     url: "/wiki/entities/waltersickert/"
+  - key: "WalterUlbricht"
+    title: "Walter Ulbricht"
+    url: "/wiki/entities/walterulbricht/"
   - key: "WalterWalker"
     title: "Walter Walker"
     url: "/wiki/entities/walterwalker/"

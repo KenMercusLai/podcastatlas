@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [322: East Germany: Life Behind the Iron Curtain](sources/322-east-germany-life-behind-the-iron-curtain-glt4069689977.md) — The Rest Is History episode on the GDR's coercive foundations, welfare and consumer bargain, everyday identity, 1989 reform movement, collapse, and social afterlife.
 - [VOL.40整形外科｜“拆东墙补西墙”为女性乳腺癌术后乳房再造提供了更多可能](sources/vol-40-zhengxingwaike-chai-dongqiang-bu-xiqiang-wei-nvxing-ruxianai-shuhou-rufang-zaizao-tigong-le-geng-duo-keneng-ltyo0gcsutudirgpxk6h9uosjlcc.md) — 这病说来话长 episode on post-cancer breast reconstruction timing, implants and autologous tissue, flap blood supply and donor-site tradeoffs, and anatomy-bounded aesthetic expectations.
 - [323: History's Greatest Dogs](sources/323-historys-greatest-dogs-glt5170761413.md) — The Rest Is History episode on dogs as political appeals, loyalty legends, propaganda companions, imperial trophies, naval friends, and film celebrities.
 - [VOL.41整形外科｜关于男性乳房发育、巨乳症、抽脂、美容针、瘢痕体质的认识误区](sources/vol-41-zhengxingwaike-guanyu-nanxing-rufang-fayu-juruzheng-chouzhi-meirongzhen-banhentizhi-de-renshi-wuqu-lsknmcasvbogjgadfbfos7uj2t59.md) — 这病说来话长 episode on plastic surgery's clinical scope, breast conditions, contouring, wound reconstruction, scarring, closure planning, and microtia reconstruction.
@@ -3142,6 +3143,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Neuralink & Technologies to Enhance Human Brains | Dr. Matthew MacDougall](sources/neuralink-technologies-to-enhance-human-brains-dr-matthew-macdougall-scim4147376395.md) — Huberman Lab interview on assistive brain–computer control, robotic cortical-electrode insertion, co-adaptive decoding, interface bitrate and adoption, and speculative restoration or augmentation boundaries.
 
 ## Entities
+- [Katja Hoyer](entities/KatjaHoyer.md) — East German-born historian whose Beyond the Wall account combines state politics with everyday GDR life.
+- [Walter Ulbricht](entities/WalterUlbricht.md) — Early GDR leader associated with socialist construction, the 1953 crisis, and Wall-backed stabilization.
+- [Erich Honecker](entities/ErichHonecker.md) — Later GDR leader associated with controlled cultural relaxation, welfare-consumer strain, and reform failure.
+- [Stasi](entities/Stasi.md) — East German security and intelligence institution central to surveillance and coercive control.
+- [Berlin Wall](entities/BerlinWall.md) — Coercive border system that stopped population loss and stabilized East Germany.
+- [Helmut Kohl](entities/HelmutKohl.md) — West German chancellor who shifted from two-state relations to rapid reunification advocacy in 1989-1990.
 - [Checkers](entities/CheckersDog.md) — Nixon family dog whose role in the 1952 Checkers speech made canine loyalty a tool of televised political repair.
 - [Greyfriars Bobby](entities/GreyfriarsBobby.md) — Edinburgh dog whose grave-side loyalty story became civic commemoration, tourism, and qualified legend.
 - [Blondie (Hitler's dog)](entities/BlondieDog.md) — German shepherd used in Nazi leader imagery and killed in the Berlin bunker cyanide test.
@@ -14470,6 +14477,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Neuralink](entities/Neuralink.md) — Neurotechnology company presented through its April 2023 assistive cortical-interface and robotic-insertion roadmap.
 
 ## Concepts
+- [GDR State Legitimacy](concepts/GDRStateLegitimacy.md) — Combined model of Soviet force, coercion, provision, attachment, and unmet reform expectations in East German durability.
+- [Socialist Welfare-Consumer Tradeoff](concepts/SocialistWelfareConsumerTradeoff.md) — GDR tension between subsidized universal basics and widening demand for modern consumer goods.
+- [East German Identity Afterlife](concepts/EastGermanIdentityAfterlife.md) — Persistence of eastern social patterns, memory, and ordinary cultural identity after reunification.
 - [Breast Reconstruction Decision / 乳房再造决策](concepts/BreastReconstructionDecision.md) — Whole-pathway selection of whether, when, and how to reconstruct after breast-cancer surgery.
 - [Autologous Breast Reconstruction Flap Selection / 自体组织乳房再造皮瓣选择](concepts/AutologousBreastReconstructionFlapSelection.md) — Blood-supply and donor-site framework for pedicled and free-tissue breast reconstruction.
 - [Breast Augmentation Anatomy and Expectation Boundary / 乳房增容的解剖与预期边界](concepts/BreastAugmentationAnatomyExpectationBoundary.md) — Anatomy-, proportion-, life-stage-, and motivation-sensitive boundary for breast size and shape requests.

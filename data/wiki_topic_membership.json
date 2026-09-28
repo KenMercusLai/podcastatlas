@@ -1526,6 +1526,13 @@
       "url": "/topics/history/"
     }
   ],
+  "322-east-germany-life-behind-the-iron-curtain-glt4069689977": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "323-historys-greatest-dogs-glt5170761413": [
     {
       "key": "history",
@@ -13637,6 +13644,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "BerlinWall": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "BernadetteDevlin": [
@@ -70724,6 +70738,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "Stasi": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "StateAGPlatformLitigation": [

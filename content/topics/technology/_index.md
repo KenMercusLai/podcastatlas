@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3212
+topic_total_pages: 3213
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -4862,6 +4862,9 @@ topic_entities:
   - key: "BenjaminLarson"
     title: "Benjamin Larson"
     url: "/wiki/entities/benjaminlarson/"
+  - key: "BerlinWall"
+    title: "Berlin Wall"
+    url: "/wiki/entities/berlinwall/"
   - key: "BernieSanders"
     title: "Bernie Sanders"
     url: "/wiki/entities/berniesanders/"

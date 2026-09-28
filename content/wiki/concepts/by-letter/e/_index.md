@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 8701
+wiki_total_pages: 8704
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -68,6 +68,9 @@ wiki_pages:
   - key: "EastAsianTigers"
     title: "East Asian Tigers"
     url: "/wiki/concepts/eastasiantigers/"
+  - key: "EastGermanIdentityAfterlife"
+    title: "East German Identity Afterlife"
+    url: "/wiki/concepts/eastgermanidentityafterlife/"
   - key: "EastWestEmperorDiplomaticProbe"
     title: "East-West Emperor Diplomatic Probe / 东西二帝试探"
     url: "/wiki/concepts/eastwestemperordiplomaticprobe/"

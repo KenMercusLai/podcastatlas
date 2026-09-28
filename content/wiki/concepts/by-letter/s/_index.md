@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 8701
+wiki_total_pages: 8704
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1193,6 +1193,9 @@ wiki_pages:
   - key: "SocialTemplateDesire"
     title: "Social-Template Desire / 社会模板欲望"
     url: "/wiki/concepts/socialtemplatedesire/"
+  - key: "SocialistWelfareConsumerTradeoff"
+    title: "Socialist Welfare-Consumer Tradeoff"
+    url: "/wiki/concepts/socialistwelfareconsumertradeoff/"
   - key: "SocializingDecline"
     title: "Socializing Decline"
     url: "/wiki/concepts/socializingdecline/"

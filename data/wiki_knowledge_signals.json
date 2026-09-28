@@ -18249,6 +18249,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/entities/benkei/"
     },
+    "BerlinWall": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4069689977 [GLT4069689977].md",
+          "key": "322-east-germany-life-behind-the-iron-curtain-glt4069689977",
+          "show": "The Rest Is History",
+          "title": "322: East Germany: Life Behind the Iron Curtain",
+          "url": "/wiki/sources/322-east-germany-life-behind-the-iron-curtain-glt4069689977/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/berlinwall/"
+    },
     "BernardReneDeLaunay": {
       "episode_count": 1,
       "show_count": 1,
@@ -47277,10 +47293,26 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/earthrisephoto/"
     },
-    "EastGermany": {
+    "EastGermanIdentityAfterlife": {
       "episode_count": 1,
       "show_count": 1,
       "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4069689977 [GLT4069689977].md",
+          "key": "322-east-germany-life-behind-the-iron-curtain-glt4069689977",
+          "show": "The Rest Is History",
+          "title": "322: East Germany: Life Behind the Iron Curtain",
+          "url": "/wiki/sources/322-east-germany-life-behind-the-iron-curtain-glt4069689977/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/eastgermanidentityafterlife/"
+    },
+    "EastGermany": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6217148052 [GLT6217148052].md",
@@ -47288,9 +47320,16 @@
           "show": "The Rest Is History",
           "title": "679. Germany: The Song Hitler Stole (Part 3)",
           "url": "/wiki/sources/679-germany-the-song-hitler-stole-part-3-glt6217148052/"
+        },
+        {
+          "episode_file": "GLT4069689977 [GLT4069689977].md",
+          "key": "322-east-germany-life-behind-the-iron-curtain-glt4069689977",
+          "show": "The Rest Is History",
+          "title": "322: East Germany: Life Behind the Iron Curtain",
+          "url": "/wiki/sources/322-east-germany-life-behind-the-iron-curtain-glt4069689977/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-29",
       "url": "/wiki/entities/eastgermany/"
     },
     "EasterRising": {
@@ -53535,6 +53574,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/entities/ericzwick/"
+    },
+    "ErichHonecker": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4069689977 [GLT4069689977].md",
+          "key": "322-east-germany-life-behind-the-iron-curtain-glt4069689977",
+          "show": "The Rest Is History",
+          "title": "322: East Germany: Life Behind the Iron Curtain",
+          "url": "/wiki/sources/322-east-germany-life-behind-the-iron-curtain-glt4069689977/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/erichhonecker/"
     },
     "ErichJarvis": {
       "episode_count": 1,
@@ -64218,6 +64273,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/fuzhuleiruodichanyu/"
+    },
+    "GDRStateLegitimacy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4069689977 [GLT4069689977].md",
+          "key": "322-east-germany-life-behind-the-iron-curtain-glt4069689977",
+          "show": "The Rest Is History",
+          "title": "322: East Germany: Life Behind the Iron Curtain",
+          "url": "/wiki/sources/322-east-germany-life-behind-the-iron-curtain-glt4069689977/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/gdrstatelegitimacy/"
     },
     "GECapital": {
       "episode_count": 1,
@@ -75122,6 +75193,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/hellobike/"
+    },
+    "HelmutKohl": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4069689977 [GLT4069689977].md",
+          "key": "322-east-germany-life-behind-the-iron-curtain-glt4069689977",
+          "show": "The Rest Is History",
+          "title": "322: East Germany: Life Behind the Iron Curtain",
+          "url": "/wiki/sources/322-east-germany-life-behind-the-iron-curtain-glt4069689977/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/helmutkohl/"
     },
     "HelmuthVonMoltkeTheYounger": {
       "episode_count": 2,
@@ -92658,6 +92745,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/kateaha/"
+    },
+    "KatjaHoyer": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4069689977 [GLT4069689977].md",
+          "key": "322-east-germany-life-behind-the-iron-curtain-glt4069689977",
+          "show": "The Rest Is History",
+          "title": "322: East Germany: Life Behind the Iron Curtain",
+          "url": "/wiki/sources/322-east-germany-life-behind-the-iron-curtain-glt4069689977/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/katjahoyer/"
     },
     "KayTye": {
       "episode_count": 1,
@@ -152764,6 +152867,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/entities/socialwar/"
     },
+    "SocialistWelfareConsumerTradeoff": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4069689977 [GLT4069689977].md",
+          "key": "322-east-germany-life-behind-the-iron-curtain-glt4069689977",
+          "show": "The Rest Is History",
+          "title": "322: East Germany: Life Behind the Iron Curtain",
+          "url": "/wiki/sources/322-east-germany-life-behind-the-iron-curtain-glt4069689977/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/socialistwelfareconsumertradeoff/"
+    },
     "SocializingDecline": {
       "episode_count": 2,
       "show_count": 2,
@@ -155095,6 +155214,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/startupembassy/"
+    },
+    "Stasi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4069689977 [GLT4069689977].md",
+          "key": "322-east-germany-life-behind-the-iron-curtain-glt4069689977",
+          "show": "The Rest Is History",
+          "title": "322: East Germany: Life Behind the Iron Curtain",
+          "url": "/wiki/sources/322-east-germany-life-behind-the-iron-curtain-glt4069689977/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/stasi/"
     },
     "StateCollapseCascade": {
       "episode_count": 1,
@@ -170535,6 +170670,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/entities/walterraleigh/"
+    },
+    "WalterUlbricht": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4069689977 [GLT4069689977].md",
+          "key": "322-east-germany-life-behind-the-iron-curtain-glt4069689977",
+          "show": "The Rest Is History",
+          "title": "322: East Germany: Life Behind the Iron Curtain",
+          "url": "/wiki/sources/322-east-germany-life-behind-the-iron-curtain-glt4069689977/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/walterulbricht/"
     },
     "WalterWalker": {
       "episode_count": 1,

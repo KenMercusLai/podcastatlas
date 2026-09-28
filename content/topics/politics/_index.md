@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2801
+topic_total_pages: 2802
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6539,6 +6539,9 @@ topic_entities:
   - key: "StargateAIInfrastructure"
     title: "Stargate AI Infrastructure"
     url: "/wiki/entities/stargateaiinfrastructure/"
+  - key: "Stasi"
+    title: "Stasi"
+    url: "/wiki/entities/stasi/"
   - key: "StephenMiran"
     title: "Stephen Miran"
     url: "/wiki/entities/stephenmiran/"

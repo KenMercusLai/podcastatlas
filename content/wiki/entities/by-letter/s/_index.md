@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 11302
+wiki_total_pages: 11308
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1298,6 +1298,9 @@ wiki_pages:
   - key: "StarwoodPreferredGuest"
     title: "Starwood Preferred Guest"
     url: "/wiki/entities/starwoodpreferredguest/"
+  - key: "Stasi"
+    title: "Stasi"
+    url: "/wiki/entities/stasi/"
   - key: "StateAdministrationForMarketRegulation"
     title: "State Administration for Market Regulation"
     url: "/wiki/entities/stateadministrationformarketregulation/"

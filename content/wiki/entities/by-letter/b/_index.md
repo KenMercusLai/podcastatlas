@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 11302
+wiki_total_pages: 11308
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -434,6 +434,9 @@ wiki_pages:
   - key: "BerkshireHathaway"
     title: "Berkshire Hathaway"
     url: "/wiki/entities/berkshirehathaway/"
+  - key: "BerlinWall"
+    title: "Berlin Wall"
+    url: "/wiki/entities/berlinwall/"
   - key: "BernadetteDevlin"
     title: "Bernadette Devlin"
     url: "/wiki/entities/bernadettedevlin/"

@@ -24830,3 +24830,11 @@ Added source `neuralink-technologies-to-enhance-human-brains-dr-matthew-macdouga
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | 322: East Germany: Life Behind the Iron Curtain
+
+Added source `322-east-germany-life-behind-the-iron-curtain-glt4069689977`; created `KatjaHoyer`, `WalterUlbricht`, `ErichHonecker`, `Stasi`, `BerlinWall`, `HelmutKohl`, `GDRStateLegitimacy`, `SocialistWelfareConsumerTradeoff`, and `EastGermanIdentityAfterlife`; and updated `EastGermany` from its complete bounded source set. Core synthesis: the GDR endured through a combination of Soviet-backed coercion, exit control, welfare provision, everyday routine, cultural participation, and a distinct identity, while the attempt to meet both subsidized social guarantees and widening consumer expectations became increasingly fragile. In 1989, reform and travel demands turned rapidly into reunification after border opening and West German intervention, but the state's social afterlife persisted. No settled contradiction was adopted. Public attitudes, statistics, motives, economic causation, protest goals, and post-reunification comparisons remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

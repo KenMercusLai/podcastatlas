@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 11302
+wiki_total_pages: 11308
 wiki_pages:
   - key: "KennedyAssassination"
     title: "Assassination of John F. Kennedy"
@@ -176,6 +176,9 @@ wiki_pages:
   - key: "KathyHochul"
     title: "Kathy Hochul"
     url: "/wiki/entities/kathyhochul/"
+  - key: "KatjaHoyer"
+    title: "Katja Hoyer"
+    url: "/wiki/entities/katjahoyer/"
   - key: "KatsushikaHokusai"
     title: "Katsushika Hokusai / 葛饰北斋"
     url: "/wiki/entities/katsushikahokusai/"
