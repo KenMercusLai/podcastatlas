@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 11323
+wiki_total_pages: 11326
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -398,6 +398,9 @@ wiki_pages:
   - key: "TheDreamersAndI"
     title: "The Dreamers and I"
     url: "/wiki/entities/thedreamersandi/"
+  - key: "TheEarthTransformed"
+    title: "The Earth Transformed"
+    url: "/wiki/entities/theearthtransformed/"
   - key: "TheEndOfReadingIsHere"
     title: "The End of Reading Is Here"
     url: "/wiki/entities/theendofreadingishere/"

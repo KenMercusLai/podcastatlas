@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [313: Climate Apocalypse](sources/313-climate-apocalypse-glt8815959934.md) — The Rest Is History conversation with Peter Frankopan on climate-history evidence, causal pluralism, disease ecology, institutional resilience, inequality, and conditional optimism.
 - [VOL.37眼科｜你近视吗?眼睛保健操到底有用吗？｜为何我国闭角型青光眼发病概率大？](sources/vol-37-yanke-ni-jinshi-ma-yanjing-baojiancao-daodi-youyong-ma-weihe-woguo-bijiaoxing-qingguangyan-fabing-gailv-da-ltflr8s93wbkieqidme8ykjuznzp.md) — 这病说来话长 episode on age-patterned eye risk, irreversible glaucoma loss, childhood refraction and myopia control, defocus spectacles, and trauma prevention.
 - [The Science of Healthy Hair, Hair Loss and How to Regrow Hair](sources/the-science-of-healthy-hair-hair-loss-and-how-to-regrow-hair-scim6579560756.md) — Huberman Lab solo episode on follicle biology, growth-cycle timing, minoxidil and microneedling, DHT suppression, adjunct evidence, and treatment-risk hierarchy.
 - [VOL.38眼科｜当代年轻人的这12个眼部问题你中了几个？](sources/vol-38-yanke-dangdai-nianqingren-de-zhe-12-ge-yanbu-wenti-ni-zhong-le-jige-lphaxiiov6oe9fii1zotrzxygyor.md) — 这病说来话长 episode on cause-based visual fatigue, contact-lens oxygen and wear, glaucoma context, screens and light, UV filtering, foreign bodies, and presbyopia fitting.
@@ -3150,6 +3151,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.39眼科｜眼科主任请回答——18位听友的眼科问题](sources/vol-39-yanke-yanke-zhuren-qing-huida-18-wei-tingyou-de-yanke-wenti-lszj71flalpxl4lg8j6d9rex8mv.md) — 这病说来话长 listener Q&A on refractive-surgery selection, myopia inheritance and childhood control, adult correction, dry eye, anisometropia, and floater triage.
 
 ## Entities
+- [Peter Frankopan](entities/PeterFrankopan.md) — Global historian presenting a proxy-rich, non-deterministic account of climate, ecology, institutions, and power.
+- [The Earth Transformed](entities/TheEarthTransformed.md) — Peter Frankopan book represented as a long-duration environmental history of climate, disease, energy, inequality, and political resilience.
+- [Naram-Sin](entities/NaramSin.md) — Akkadian ruler used as a counterexample to automatic climate-collapse reasoning through crisis-linked centralization.
 - [Katja Hoyer](entities/KatjaHoyer.md) — East German-born historian whose Beyond the Wall account combines state politics with everyday GDR life.
 - [Walter Ulbricht](entities/WalterUlbricht.md) — Early GDR leader associated with socialist construction, the 1953 crisis, and Wall-backed stabilization.
 - [Erich Honecker](entities/ErichHonecker.md) — Later GDR leader associated with controlled cultural relaxation, welfare-consumer strain, and reform failure.
@@ -14499,6 +14503,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Free Companies in the Hundred Years' War](entities/FreeCompaniesHundredYearsWar.md) — Mobile veteran companies whose predation makes demobilization and territorial governance unstable.
 
 ## Concepts
+- [Climate History Causal Pluralism](concepts/ClimateHistoryCausalPluralism.md) — Method treating climate as consequential but mediated by institutions, resources, disease, inequality, and decisions.
+- [Environmental Proxy Evidence in History](concepts/EnvironmentalProxyHistoricalEvidence.md) — Use of ice cores, pollen, tree rings, genomes, and remote sensing to test and extend historical narratives.
+- [Climate Shock Institutional Resilience](concepts/ClimateShockInstitutionalResilience.md) — Capacity to sustain food, energy, health, infrastructure, and legitimate governance under environmental pressure.
+- [Climate-Disease Ecology](concepts/ClimateDiseaseEcology.md) — Pathway through which environmental disturbance changes pathogen, host, vector, food, or mobility conditions.
+- [Climate Externalization and Justice](concepts/ClimateExternalizationJustice.md) — Distribution problem separating consumption benefits from pollution, resource, labor, and climate burdens.
 - [Hair Loss Treatment Mechanism Hierarchy](concepts/HairLossTreatmentMechanismHierarchy.md) — Diagnosis-first comparison of local support, growth-phase treatment, controlled injury, DHT suppression, persistence, evidence, and risk.
 - [Visual Fatigue Cause-Based Management / 视疲劳病因导向管理](concepts/VisualFatigueCauseBasedManagement.md) — Cause-first framework separating dry eye, refraction, accommodation, inflammation, screen context, and escalation.
 - [Presbyopia Correction and Fitting / 老花矫正与验配](concepts/PresbyopiaCorrectionFitting.md) — Distinguishes presbyopia from myopia and joins near correction to task distance, refraction, progressive-lens fitting, and adaptation.

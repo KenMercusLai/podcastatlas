@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2153
+topic_total_pages: 2158
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -184,6 +184,12 @@ topic_concepts:
   - key: "CivilizationBarbarismFrame"
     title: "Civilization-Barbarism Frame / 文明-野蛮框架"
     url: "/wiki/concepts/civilizationbarbarismframe/"
+  - key: "ClimateHistoryCausalPluralism"
+    title: "Climate History Causal Pluralism"
+    url: "/wiki/concepts/climatehistorycausalpluralism/"
+  - key: "ClimateDiseaseEcology"
+    title: "Climate-Disease Ecology"
+    url: "/wiki/concepts/climatediseaseecology/"
   - key: "CoalitionFractureExploitation"
     title: "Coalition Fracture Exploitation / 联盟裂缝利用"
     url: "/wiki/concepts/coalitionfractureexploitation/"
@@ -361,6 +367,9 @@ topic_concepts:
   - key: "EncirclingWeiToRescueZhao"
     title: "Encircling Wei to Rescue Zhao / 围魏救赵"
     url: "/wiki/concepts/encirclingweitorescuezhao/"
+  - key: "EnvironmentalProxyHistoricalEvidence"
+    title: "Environmental Proxy Evidence in History"
+    url: "/wiki/concepts/environmentalproxyhistoricalevidence/"
   - key: "EuropeanAmazonProjection"
     title: "European Amazon Projection"
     url: "/wiki/concepts/europeanamazonprojection/"
@@ -2027,6 +2036,9 @@ topic_entities:
   - key: "NagasakiAtomicBombing"
     title: "Nagasaki Atomic Bombing"
     url: "/wiki/entities/nagasakiatomicbombing/"
+  - key: "NaramSin"
+    title: "Naram-Sin"
+    url: "/wiki/entities/naramsin/"
   - key: "NationalCityBank"
     title: "National City Bank / 国民城市银行"
     url: "/wiki/entities/nationalcitybank/"
@@ -4698,6 +4710,9 @@ topic_sources:
   - key: "30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138"
     title: "30.孟子：战国愤青的赤子之心"
     url: "/wiki/sources/30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138/"
+  - key: "313-climate-apocalypse-glt8815959934"
+    title: "313: Climate Apocalypse"
+    url: "/wiki/sources/313-climate-apocalypse-glt8815959934/"
   - key: "314-atlantis-the-legend-part-1-glt4735672898"
     title: "314: Atlantis: The Legend (Part 1)"
     url: "/wiki/sources/314-atlantis-the-legend-part-1-glt4735672898/"

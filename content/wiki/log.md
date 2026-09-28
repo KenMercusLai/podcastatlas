@@ -24894,3 +24894,11 @@ Added source `319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638`
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | 313: Climate Apocalypse
+
+Added source `313-climate-apocalypse-glt8815959934`; created `PeterFrankopan`, `TheEarthTransformed`, `NaramSin`, `ClimateHistoryCausalPluralism`, `EnvironmentalProxyHistoricalEvidence`, `ClimateShockInstitutionalResilience`, `ClimateDiseaseEcology`, and `ClimateExternalizationJustice`; and updated the canonical index. Core synthesis: environmental change is historically consequential without being a sufficient explanation; proxy evidence can test written disaster narratives, while institutions, food and energy systems, disease ecology, inequality, and political choices mediate outcomes. No settled contradiction was adopted. Akkad and Roman climate interpretations, volcanic-disease links, fossil-fuel shares, polling, pollution rankings, consumption comparisons, and technical mitigation estimates remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

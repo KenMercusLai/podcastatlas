@@ -963,6 +963,10 @@
     "title": "31.冰与火之歌：虽然从不自称历史",
     "url": "/wiki/sources/31-bing-yu-huo-zhi-ge-suiran-cong-bu-zicheng-lishi-594509848/"
   },
+  "313-climate-apocalypse-glt8815959934": {
+    "title": "313: Climate Apocalypse",
+    "url": "/wiki/sources/313-climate-apocalypse-glt8815959934/"
+  },
   "314-atlantis-the-legend-part-1-glt4735672898": {
     "title": "314: Atlantis: The Legend (Part 1)",
     "url": "/wiki/sources/314-atlantis-the-legend-part-1-glt4735672898/"
@@ -15939,13 +15943,29 @@
     "title": "Climate-Altered Summer",
     "url": "/wiki/concepts/climatealteredsummer/"
   },
+  "ClimateDiseaseEcology": {
+    "title": "Climate-Disease Ecology",
+    "url": "/wiki/concepts/climatediseaseecology/"
+  },
   "ClimateExternalityCostAllocation": {
     "title": "Climate Externality Cost Allocation",
     "url": "/wiki/concepts/climateexternalitycostallocation/"
   },
+  "ClimateExternalizationJustice": {
+    "title": "Climate Externalization and Justice",
+    "url": "/wiki/concepts/climateexternalizationjustice/"
+  },
   "ClimateFoodPriceTransmission": {
     "title": "Climate Food Price Transmission",
     "url": "/wiki/concepts/climatefoodpricetransmission/"
+  },
+  "ClimateHistoryCausalPluralism": {
+    "title": "Climate History Causal Pluralism",
+    "url": "/wiki/concepts/climatehistorycausalpluralism/"
+  },
+  "ClimateShockInstitutionalResilience": {
+    "title": "Climate Shock Institutional Resilience",
+    "url": "/wiki/concepts/climateshockinstitutionalresilience/"
   },
   "ClimateStartupCommercializationGap": {
     "title": "Climate Startup Commercialization Gap",
@@ -24154,6 +24174,10 @@
   "EnvironmentalProtectionAgency": {
     "title": "Environmental Protection Agency",
     "url": "/wiki/entities/environmentalprotectionagency/"
+  },
+  "EnvironmentalProxyHistoricalEvidence": {
+    "title": "Environmental Proxy Evidence in History",
+    "url": "/wiki/concepts/environmentalproxyhistoricalevidence/"
   },
   "EnvironmentalRepairSocialCost": {
     "title": "Environmental Repair Social Cost",
@@ -50111,6 +50135,10 @@
     "title": "Napster",
     "url": "/wiki/entities/napster/"
   },
+  "NaramSin": {
+    "title": "Naram-Sin",
+    "url": "/wiki/entities/naramsin/"
+  },
   "NarcissisticRelationalControl": {
     "title": "Narcissistic Relational Control / 自恋式关系控制",
     "url": "/wiki/concepts/narcissisticrelationalcontrol/"
@@ -54874,6 +54902,10 @@
   "PeterFankhauser": {
     "title": "Peter Fankhauser",
     "url": "/wiki/entities/peterfankhauser/"
+  },
+  "PeterFrankopan": {
+    "title": "Peter Frankopan",
+    "url": "/wiki/entities/peterfrankopan/"
   },
   "PeterLynch": {
     "title": "Peter Lynch",
@@ -70282,6 +70314,10 @@
   "TheDreamersAndI": {
     "title": "The Dreamers and I",
     "url": "/wiki/entities/thedreamersandi/"
+  },
+  "TheEarthTransformed": {
+    "title": "The Earth Transformed",
+    "url": "/wiki/entities/theearthtransformed/"
   },
   "TheEconomicWayOfThinking": {
     "title": "《经济学的思维方式》 / The Economic Way of Thinking",

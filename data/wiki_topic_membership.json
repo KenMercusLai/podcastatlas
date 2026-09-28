@@ -1491,6 +1491,18 @@
       "url": "/topics/history/"
     }
   ],
+  "313-climate-apocalypse-glt8815959934": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "314-atlantis-the-legend-part-1-glt4735672898": [
     {
       "key": "history",
@@ -19306,6 +19318,18 @@
       "url": "/topics/science/"
     }
   ],
+  "ClimateDiseaseEcology": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "ClimateExternalityCostAllocation": [
     {
       "key": "economics",
@@ -19323,7 +19347,38 @@
       "url": "/topics/science/"
     }
   ],
+  "ClimateExternalizationJustice": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "ClimateFoodPriceTransmission": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "ClimateHistoryCausalPluralism": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "ClimateShockInstitutionalResilience": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
     {
       "key": "science",
       "label": "Science",
@@ -27808,6 +27863,18 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "EnvironmentalProxyHistoricalEvidence": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     },
     {
       "key": "science",
@@ -52849,6 +52916,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "NaramSin": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "NarcissisticRelationalControl": [
     {
       "key": "science",
@@ -74546,6 +74620,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "TheEarthTransformed": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "TheEconomicWayOfThinking": [

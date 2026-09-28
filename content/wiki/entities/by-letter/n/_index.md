@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 11323
+wiki_total_pages: 11326
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -62,6 +62,9 @@ wiki_pages:
   - key: "Napster"
     title: "Napster"
     url: "/wiki/entities/napster/"
+  - key: "NaramSin"
+    title: "Naram-Sin"
+    url: "/wiki/entities/naramsin/"
   - key: "NarendraModi"
     title: "Narendra Modi"
     url: "/wiki/entities/narendramodi/"

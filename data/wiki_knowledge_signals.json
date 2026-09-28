@@ -31559,6 +31559,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/concepts/climatealteredsummer/"
     },
+    "ClimateDiseaseEcology": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8815959934 [GLT8815959934].md",
+          "key": "313-climate-apocalypse-glt8815959934",
+          "show": "The Rest Is History",
+          "title": "313: Climate Apocalypse",
+          "url": "/wiki/sources/313-climate-apocalypse-glt8815959934/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/climatediseaseecology/"
+    },
     "ClimateExternalityCostAllocation": {
       "episode_count": 1,
       "show_count": 1,
@@ -31574,6 +31590,54 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/climateexternalitycostallocation/"
+    },
+    "ClimateExternalizationJustice": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8815959934 [GLT8815959934].md",
+          "key": "313-climate-apocalypse-glt8815959934",
+          "show": "The Rest Is History",
+          "title": "313: Climate Apocalypse",
+          "url": "/wiki/sources/313-climate-apocalypse-glt8815959934/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/climateexternalizationjustice/"
+    },
+    "ClimateHistoryCausalPluralism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8815959934 [GLT8815959934].md",
+          "key": "313-climate-apocalypse-glt8815959934",
+          "show": "The Rest Is History",
+          "title": "313: Climate Apocalypse",
+          "url": "/wiki/sources/313-climate-apocalypse-glt8815959934/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/climatehistorycausalpluralism/"
+    },
+    "ClimateShockInstitutionalResilience": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8815959934 [GLT8815959934].md",
+          "key": "313-climate-apocalypse-glt8815959934",
+          "show": "The Rest Is History",
+          "title": "313: Climate Apocalypse",
+          "url": "/wiki/sources/313-climate-apocalypse-glt8815959934/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/climateshockinstitutionalresilience/"
     },
     "ClinicalBehaviorChangeRedFlags": {
       "episode_count": 1,
@@ -53387,6 +53451,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/environmentalprotectionagency/"
+    },
+    "EnvironmentalProxyHistoricalEvidence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8815959934 [GLT8815959934].md",
+          "key": "313-climate-apocalypse-glt8815959934",
+          "show": "The Rest Is History",
+          "title": "313: Climate Apocalypse",
+          "url": "/wiki/sources/313-climate-apocalypse-glt8815959934/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/environmentalproxyhistoricalevidence/"
     },
     "EnvironmentalTradeoffAccounting": {
       "episode_count": 15,
@@ -118219,6 +118299,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/napoleonbonaparte/"
     },
+    "NaramSin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8815959934 [GLT8815959934].md",
+          "key": "313-climate-apocalypse-glt8815959934",
+          "show": "The Rest Is History",
+          "title": "313: Climate Apocalypse",
+          "url": "/wiki/sources/313-climate-apocalypse-glt8815959934/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/naramsin/"
+    },
     "NarcolepsyWakeSleepBoundary": {
       "episode_count": 2,
       "show_count": 2,
@@ -128892,6 +128988,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/peterfankhauser/"
+    },
+    "PeterFrankopan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8815959934 [GLT8815959934].md",
+          "key": "313-climate-apocalypse-glt8815959934",
+          "show": "The Rest Is History",
+          "title": "313: Climate Apocalypse",
+          "url": "/wiki/sources/313-climate-apocalypse-glt8815959934/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/peterfrankopan/"
     },
     "PeterTheGreat": {
       "episode_count": 9,
@@ -162724,6 +162836,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/thedreamersandi/"
+    },
+    "TheEarthTransformed": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8815959934 [GLT8815959934].md",
+          "key": "313-climate-apocalypse-glt8815959934",
+          "show": "The Rest Is History",
+          "title": "313: Climate Apocalypse",
+          "url": "/wiki/sources/313-climate-apocalypse-glt8815959934/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/theearthtransformed/"
     },
     "TheEndOfReadingIsHere": {
       "episode_count": 1,
