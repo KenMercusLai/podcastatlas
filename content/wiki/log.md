@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-29] ingest | 312: Reagan, Iran-Contra and the Cold War (Part 3)
+
+Added source `312-reagan-iran-contra-and-the-cold-war-part-3-glt4042202229`; created `OliverNorth`, `PresidentialSymbolicLeadership`, `ReaganomicsPoliticalEconomy`, and `IranContraAffair`; and updated `RonaldReagan`, `MikhailGorbachev`, `ColdWarNuclearMisperception`, the canonical index, and overview from their complete bounded source sets. Core synthesis: Reagan's optimism, ceremony, humor, and narrative were substantive political resources, but they coexisted with contested economic outcomes, deficits, labor confrontation, AIDS-response failure, and Iran-Contra's evasion of legal constraint; his hard-line posture also coexisted with genuine nuclear fear and arms-control ambition. No settled contradiction was adopted. Recovery causation, economic figures, precise operational knowledge, scandal survival, and individual credit for the Cold War's end remain contested or source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
 ## [2026-09-29] ingest | 323: History's Greatest Dogs
 
 Added source `323-historys-greatest-dogs-glt5170761413`; created `CheckersDog`, `GreyfriarsBobby`, `BlondieDog`, `LootieDog`, `RinTinTin`, and `CompanionAnimalPublicSymbolism`; and updated `AnimalAnecdoteSourceUncertainty`, `RichardNixon`, and the canonical index from their complete bounded source sets. Core synthesis: named dogs can convert private attachment into political legitimacy, civic loyalty, propaganda intimacy, imperial memory, naval companionship, or film celebrity, but public meaning must be separated from animal biography and the owner's wider moral character. No settled contradiction was adopted. Greyfriars Bobby's vigil, Gellert's historicity, the first-Oscars story, audience and political-causation totals, bunker details, discovery narratives, dialogue, motives, and rankings remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -24906,6 +24910,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-29] ingest | Intermittent Fasting to Improve Health, Cognition & Longevity | Dr. Satchin Panda
 
 Added source `intermittent-fasting-to-improve-health-cognition-longevity-dr-satchin-panda-scim5921048014`; created `SatchinPanda` and `ShiftWorkCircadianHealth`; and updated `CircadianEatingWindowAlignment` and the canonical index from the complete bounded source set. Core synthesis: meal timing, duration, and consistency can matter independently of food quality and calorie amount, but the strongest longevity evidence remains in mice; human evidence supports feasibility and selected metabolic effects rather than one universal fasting prescription. The firefighter trial supports a schedule-specific occupational intervention, not direct generalization to all shift workers. No settled contradiction was adopted. Numerical longevity effects, biomarkers, historical claims, very short windows, and metabolic-drug timing remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-29] lint | Wiki health check
 

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [312: Reagan, Iran-Contra and the Cold War (Part 3)](sources/312-reagan-iran-contra-and-the-cold-war-part-3-glt4042202229.md) — The Rest Is History episode on Reagan's symbolic leadership, contested economic program, AIDS and Iran-Contra failures, nuclear fear, and arms-control diplomacy with Gorbachev.
 - [313: Climate Apocalypse](sources/313-climate-apocalypse-glt8815959934.md) — The Rest Is History conversation with Peter Frankopan on climate-history evidence, causal pluralism, disease ecology, institutional resilience, inequality, and conditional optimism.
 - [VOL.37眼科｜你近视吗?眼睛保健操到底有用吗？｜为何我国闭角型青光眼发病概率大？](sources/vol-37-yanke-ni-jinshi-ma-yanjing-baojiancao-daodi-youyong-ma-weihe-woguo-bijiaoxing-qingguangyan-fabing-gailv-da-ltflr8s93wbkieqidme8ykjuznzp.md) — 这病说来话长 episode on age-patterned eye risk, irreversible glaucoma loss, childhood refraction and myopia control, defocus spectacles, and trauma prevention.
 - [The Science of Healthy Hair, Hair Loss and How to Regrow Hair](sources/the-science-of-healthy-hair-hair-loss-and-how-to-regrow-hair-scim6579560756.md) — Huberman Lab solo episode on follicle biology, growth-cycle timing, minoxidil and microneedling, DHT suppression, adjunct evidence, and treatment-risk hierarchy.
@@ -3153,6 +3154,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Intermittent Fasting to Improve Health, Cognition & Longevity | Dr. Satchin Panda](sources/intermittent-fasting-to-improve-health-cognition-longevity-dr-satchin-panda-scim5921048014.md) — Huberman Lab interview on circadian meal timing, time-restricted eating, human-versus-mouse evidence, energy-adequacy limits, and a firefighter shift-work trial.
 
 ## Entities
+- [Oliver North](entities/OliverNorth.md) — National Security Council aide presented as a central operational figure in the Iran-Contra affair.
 - [Peter Frankopan](entities/PeterFrankopan.md) — Global historian presenting a proxy-rich, non-deterministic account of climate, ecology, institutions, and power.
 - [The Earth Transformed](entities/TheEarthTransformed.md) — Peter Frankopan book represented as a long-duration environmental history of climate, disease, energy, inequality, and political resilience.
 - [Naram-Sin](entities/NaramSin.md) — Akkadian ruler used as a counterexample to automatic climate-collapse reasoning through crisis-linked centralization.
@@ -9731,8 +9733,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Aldrich Ames / 奥德里奇·艾姆斯](entities/AldrichAmes.md) — CIA officer whose betrayal to the KGB exposed Oleg Gordievsky and made Operation Pimlico urgent.
 - [Operation RYAN / 莱恩行动](entities/OperationRYAN.md) — KGB nuclear-war warning operation used by episode 81 to show Soviet fear becoming an intelligence feedback loop.
 - [Margaret Thatcher / 玛格丽特·撒切尔](entities/MargaretThatcher.md) — Prominent 1974 Conservative campaigner, 1975 party leader, and later prime minister who approved Operation Pimlico.
-- [Ronald Reagan / 罗纳德·里根](entities/RonaldReagan.md) — U.S. president whose hard-line Cold War posture shaped Soviet fear in the episode's Operation RYAN branch.
-- [Mikhail Gorbachev / 米哈伊尔·戈尔巴乔夫](entities/MikhailGorbachev.md) — Soviet leader whose British and U.S. encounters are interpreted through Gordievsky's strategic intelligence in episode 81.
+- [Ronald Reagan / 罗纳德·里根](entities/RonaldReagan.md) — U.S. president represented through symbolic leadership, contested domestic policy, Iran-Contra, Soviet threat perception, and nuclear diplomacy.
+- [Mikhail Gorbachev / 米哈伊尔·戈尔巴乔夫](entities/MikhailGorbachev.md) — Soviet leader represented through intelligence-mediated Western interpretation and arms-control diplomacy with Reagan.
 - [Yuri Andropov / 尤里·安德罗波夫](entities/YuriAndropov.md) — Soviet leader tied to Operation RYAN and the conversion of nuclear fear into a KGB collection task.
 - [Finland](entities/Finland.md) — Cold War border route and diplomatic-ambiguity setting for Operation Pimlico's extraction of Gordievsky.
 - [Veronica Price / 维罗尼卡·普莱斯](entities/VeronicaPrice.md) — MI6 figure who kept Operation Pimlico actionable and coordinated the Finnish-side rescue in episode 81.
@@ -14507,6 +14509,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Satchin Panda](entities/SatchinPanda.md) — Circadian-biology researcher separating meal timing, fasting duration, energy intake, and evidence limits in animal and human studies.
 
 ## Concepts
+- [Iran-Contra Affair](concepts/IranContraAffair.md) — Executive-law and covert-policy failure linking Iran arms transfers, hostages, Contra funding, congressional restrictions, and concealment.
+- [Reaganomics Political Economy](concepts/ReaganomicsPoliticalEconomy.md) — Multi-causal framework for Reagan-era tax, regulation, spending, monetary, labor, deficit, and regional outcomes.
+- [Presidential Symbolic Leadership](concepts/PresidentialSymbolicLeadership.md) — Use of ceremony, narrative, demeanor, humor, and national imagery to build authority and political confidence.
 - [Climate History Causal Pluralism](concepts/ClimateHistoryCausalPluralism.md) — Method treating climate as consequential but mediated by institutions, resources, disease, inequality, and decisions.
 - [Environmental Proxy Evidence in History](concepts/EnvironmentalProxyHistoricalEvidence.md) — Use of ice cores, pollen, tree rings, genomes, and remote sensing to test and extend historical narratives.
 - [Climate Shock Institutional Resilience](concepts/ClimateShockInstitutionalResilience.md) — Capacity to sustain food, energy, health, infrastructure, and legitimate governance under environmental pressure.
@@ -19610,7 +19615,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Machiavellian Intelligence / 马基雅维利智能](concepts/MachiavellianIntelligence.md) — Social-cognition capacity to track alliances and third-party relations under group pressure.
 - [Group-Boundary Language / 群体边界语言](concepts/GroupBoundaryLanguage.md) — Dialect, slang, black talk, memes, and shared codes as signs of belonging and exclusion.
 - [Workplace Informal Talk / 职场非正式闲聊](concepts/WorkplaceInformalTalk.md) — Management-side frame for tea rooms, shared meals, and casual chat as workplace social infrastructure.
-- [Cold War Nuclear Misperception / 冷战核误判](concepts/ColdWarNuclearMisperception.md) — Episode 81 frame for nuclear escalation risk created by fear, adversary perception, and intelligence feedback loops.
+- [Cold War Nuclear Misperception / 冷战核误判](concepts/ColdWarNuclearMisperception.md) — Nuclear escalation risk created by fear, confirmatory intelligence, ambiguous military signals, and failed reassurance.
 - [Intelligence Liaison Risk / 情报盟友协作风险](concepts/IntelligenceLiaisonRisk.md) — Ally-sharing problem where sanitized intelligence, curiosity, and compromised officials can expose a protected source.
 - [Extraction Promise Ethics / 撤离承诺伦理](concepts/ExtractionPromiseEthics.md) — Ethical frame for honoring rescue promises to human intelligence sources despite diplomatic, family, and operational costs.
 - [Strategic Intelligence Interpretation / 战略情报解释](concepts/StrategicIntelligenceInterpretation.md) — Concept for intelligence value as a judgment model of the adversary's fears, rules, and institutional habits.

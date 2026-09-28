@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 8717
+wiki_total_pages: 8720
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -116,6 +116,9 @@ wiki_pages:
   - key: "ReadingSilentSpeech"
     title: "Reading Silent Speech"
     url: "/wiki/concepts/readingsilentspeech/"
+  - key: "ReaganomicsPoliticalEconomy"
+    title: "Reaganomics Political Economy"
+    url: "/wiki/concepts/reaganomicspoliticaleconomy/"
   - key: "RealEstateHighTurnoverLeverage"
     title: "Real Estate High-Turnover Leverage / 房地产高周转杠杆"
     url: "/wiki/concepts/realestatehighturnoverleverage/"

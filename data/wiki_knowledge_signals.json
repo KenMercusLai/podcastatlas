@@ -32832,6 +32832,29 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/coldshiveringthermogenesis/"
     },
+    "ColdWarNuclearMisperception": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "81.间谍与叛徒：恕我直言，007的故事弱爆了 (下) [693711209].md",
+          "key": "81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209",
+          "show": "蜜獾吃书",
+          "title": "81.间谍与叛徒：恕我直言，007的故事弱爆了（下）",
+          "url": "/wiki/sources/81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209/"
+        },
+        {
+          "episode_file": "GLT4042202229 [GLT4042202229].md",
+          "key": "312-reagan-iran-contra-and-the-cold-war-part-3-glt4042202229",
+          "show": "The Rest Is History",
+          "title": "312: Reagan, Iran-Contra and the Cold War (Part 3)",
+          "url": "/wiki/sources/312-reagan-iran-contra-and-the-cold-war-part-3-glt4042202229/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/coldwarnuclearmisperception/"
+    },
     "ColdWarRegimeChangePressure": {
       "episode_count": 1,
       "show_count": 1,
@@ -87246,6 +87269,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/ionianrevolt/"
     },
+    "IranContraAffair": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4042202229 [GLT4042202229].md",
+          "key": "312-reagan-iran-contra-and-the-cold-war-part-3-glt4042202229",
+          "show": "The Rest Is History",
+          "title": "312: Reagan, Iran-Contra and the Cold War (Part 3)",
+          "url": "/wiki/sources/312-reagan-iran-contra-and-the-cold-war-part-3-glt4042202229/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/irancontraaffair/"
+    },
     "IranSanctions": {
       "episode_count": 4,
       "show_count": 3,
@@ -114523,6 +114562,29 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/mikesteinberger/"
     },
+    "MikhailGorbachev": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "81.间谍与叛徒：恕我直言，007的故事弱爆了 (下) [693711209].md",
+          "key": "81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209",
+          "show": "蜜獾吃书",
+          "title": "81.间谍与叛徒：恕我直言，007的故事弱爆了（下）",
+          "url": "/wiki/sources/81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209/"
+        },
+        {
+          "episode_file": "GLT4042202229 [GLT4042202229].md",
+          "key": "312-reagan-iran-contra-and-the-cold-war-part-3-glt4042202229",
+          "show": "The Rest Is History",
+          "title": "312: Reagan, Iran-Contra and the Cold War (Part 3)",
+          "url": "/wiki/sources/312-reagan-iran-contra-and-the-cold-war-part-3-glt4042202229/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/mikhailgorbachev/"
+    },
     "MilesWilliams": {
       "episode_count": 1,
       "show_count": 1,
@@ -123194,6 +123256,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/olivercromwell/"
+    },
+    "OliverNorth": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4042202229 [GLT4042202229].md",
+          "key": "312-reagan-iran-contra-and-the-cold-war-part-3-glt4042202229",
+          "show": "The Rest Is History",
+          "title": "312: Reagan, Iran-Contra and the Cold War (Part 3)",
+          "url": "/wiki/sources/312-reagan-iran-contra-and-the-cold-war-part-3-glt4042202229/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/olivernorth/"
     },
     "Ollama": {
       "episode_count": 1,
@@ -133269,6 +133347,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/presidentialaccessibilitysecuritytradeoff/"
     },
+    "PresidentialSymbolicLeadership": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4042202229 [GLT4042202229].md",
+          "key": "312-reagan-iran-contra-and-the-cold-war-part-3-glt4042202229",
+          "show": "The Rest Is History",
+          "title": "312: Reagan, Iran-Contra and the Cold War (Part 3)",
+          "url": "/wiki/sources/312-reagan-iran-contra-and-the-cold-war-part-3-glt4042202229/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/presidentialsymbolicleadership/"
+    },
     "PressureReleaseInfightingStrategy": {
       "episode_count": 5,
       "show_count": 1,
@@ -138280,6 +138374,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/readingsilentspeech/"
+    },
+    "ReaganomicsPoliticalEconomy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4042202229 [GLT4042202229].md",
+          "key": "312-reagan-iran-contra-and-the-cold-war-part-3-glt4042202229",
+          "show": "The Rest Is History",
+          "title": "312: Reagan, Iran-Contra and the Cold War (Part 3)",
+          "url": "/wiki/sources/312-reagan-iran-contra-and-the-cold-war-part-3-glt4042202229/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/reaganomicspoliticaleconomy/"
     },
     "RealEstateHighTurnoverLeverage": {
       "episode_count": 1,
@@ -143781,6 +143891,29 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/romanceofthethreekingdoms/"
+    },
+    "RonaldReagan": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "81.间谍与叛徒：恕我直言，007的故事弱爆了 (下) [693711209].md",
+          "key": "81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209",
+          "show": "蜜獾吃书",
+          "title": "81.间谍与叛徒：恕我直言，007的故事弱爆了（下）",
+          "url": "/wiki/sources/81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209/"
+        },
+        {
+          "episode_file": "GLT4042202229 [GLT4042202229].md",
+          "key": "312-reagan-iran-contra-and-the-cold-war-part-3-glt4042202229",
+          "show": "The Rest Is History",
+          "title": "312: Reagan, Iran-Contra and the Cold War (Part 3)",
+          "url": "/wiki/sources/312-reagan-iran-contra-and-the-cold-war-part-3-glt4042202229/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/ronaldreagan/"
     },
     "RongJunchuan": {
       "episode_count": 1,

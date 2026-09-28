@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8717
+wiki_total_pages: 8720
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1517,6 +1517,9 @@ wiki_pages:
   - key: "PresidentialMemorialCulture"
     title: "Presidential Memorial Culture"
     url: "/wiki/concepts/presidentialmemorialculture/"
+  - key: "PresidentialSymbolicLeadership"
+    title: "Presidential Symbolic Leadership"
+    url: "/wiki/concepts/presidentialsymbolicleadership/"
   - key: "PresidentialSystem"
     title: "Presidential System"
     url: "/wiki/concepts/presidentialsystem/"

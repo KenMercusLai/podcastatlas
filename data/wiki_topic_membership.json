@@ -1491,6 +1491,18 @@
       "url": "/topics/history/"
     }
   ],
+  "312-reagan-iran-contra-and-the-cold-war-part-3-glt4042202229": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "313-climate-apocalypse-glt8815959934": [
     {
       "key": "history",
@@ -41076,6 +41088,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "IranContraAffair": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "IranHorizontalEscalation": [
     {
       "key": "politics",
@@ -55133,6 +55152,13 @@
       "url": "/topics/science/"
     }
   ],
+  "OliverNorth": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "OliviaCarville": [
     {
       "key": "technology",
@@ -59814,6 +59840,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "PresidentialSymbolicLeadership": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "PresidentialSystem": [
     {
       "key": "politics",
@@ -62736,6 +62769,18 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "ReaganomicsPoliticalEconomy": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "RealEstateInvestmentTrust": [

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2804
+topic_total_pages: 2809
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1966,6 +1966,9 @@ topic_concepts:
   - key: "IranPostwarEconomicRelief"
     title: "Iran Postwar Economic Relief"
     url: "/wiki/concepts/iranpostwareconomicrelief/"
+  - key: "IranContraAffair"
+    title: "Iran-Contra Affair"
+    url: "/wiki/concepts/irancontraaffair/"
   - key: "IranLinkedCyberOperations"
     title: "Iran-Linked Cyber Operations"
     url: "/wiki/concepts/iranlinkedcyberoperations/"
@@ -2911,6 +2914,9 @@ topic_concepts:
   - key: "PresidentialMemorialCulture"
     title: "Presidential Memorial Culture"
     url: "/wiki/concepts/presidentialmemorialculture/"
+  - key: "PresidentialSymbolicLeadership"
+    title: "Presidential Symbolic Leadership"
+    url: "/wiki/concepts/presidentialsymbolicleadership/"
   - key: "PresidentialSystem"
     title: "Presidential System"
     url: "/wiki/concepts/presidentialsystem/"
@@ -3124,6 +3130,9 @@ topic_concepts:
   - key: "RatedNoteFeeders"
     title: "Rated Note Feeders / 评级票据通道"
     url: "/wiki/concepts/ratednotefeeders/"
+  - key: "ReaganomicsPoliticalEconomy"
+    title: "Reaganomics Political Economy"
+    url: "/wiki/concepts/reaganomicspoliticaleconomy/"
   - key: "RealityApathy"
     title: "Reality Apathy"
     url: "/wiki/concepts/realityapathy/"
@@ -6188,6 +6197,9 @@ topic_entities:
   - key: "OlinFoundation"
     title: "Olin Foundation"
     url: "/wiki/entities/olinfoundation/"
+  - key: "OliverNorth"
+    title: "Oliver North"
+    url: "/wiki/entities/olivernorth/"
   - key: "Oman"
     title: "Oman"
     url: "/wiki/entities/oman/"
@@ -7443,6 +7455,9 @@ topic_sources:
   - key: "264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0"
     title: "264.库克的道德锚点｜过去15年，库克给苹果留下了什么？"
     url: "/wiki/sources/264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0/"
+  - key: "312-reagan-iran-contra-and-the-cold-war-part-3-glt4042202229"
+    title: "312: Reagan, Iran-Contra and the Cold War (Part 3)"
+    url: "/wiki/sources/312-reagan-iran-contra-and-the-cold-war-part-3-glt4042202229/"
   - key: "331-american-witches-glt9152886733"
     title: "331: American Witches"
     url: "/wiki/sources/331-american-witches-glt9152886733/"

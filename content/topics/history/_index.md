@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2158
+topic_total_pages: 2159
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4710,6 +4710,9 @@ topic_sources:
   - key: "30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138"
     title: "30.孟子：战国愤青的赤子之心"
     url: "/wiki/sources/30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138/"
+  - key: "312-reagan-iran-contra-and-the-cold-war-part-3-glt4042202229"
+    title: "312: Reagan, Iran-Contra and the Cold War (Part 3)"
+    url: "/wiki/sources/312-reagan-iran-contra-and-the-cold-war-part-3-glt4042202229/"
   - key: "313-climate-apocalypse-glt8815959934"
     title: "313: Climate Apocalypse"
     url: "/wiki/sources/313-climate-apocalypse-glt8815959934/"

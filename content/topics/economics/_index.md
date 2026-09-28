@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2133
+topic_total_pages: 2134
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2449,6 +2449,9 @@ topic_concepts:
   - key: "RareEarthExportLeverage"
     title: "Rare Earth Export Leverage"
     url: "/wiki/concepts/rareearthexportleverage/"
+  - key: "ReaganomicsPoliticalEconomy"
+    title: "Reaganomics Political Economy"
+    url: "/wiki/concepts/reaganomicspoliticaleconomy/"
   - key: "RealEstateInvestmentTrust"
     title: "Real Estate Investment Trust"
     url: "/wiki/concepts/realestateinvestmenttrust/"
