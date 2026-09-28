@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8743
+wiki_total_pages: 8747
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -110,6 +110,9 @@ wiki_pages:
   - key: "PandemicAsHistoricalForce"
     title: "Pandemic As Historical Force"
     url: "/wiki/concepts/pandemicashistoricalforce/"
+  - key: "PapalAtlanticPartition"
+    title: "Papal Atlantic Partition"
+    url: "/wiki/concepts/papalatlanticpartition/"
   - key: "PaperMagazineSubscriptionRitual"
     title: "Paper Magazine Subscription Ritual / 纸刊订阅仪式"
     url: "/wiki/concepts/papermagazinesubscriptionritual/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 11336
+wiki_total_pages: 11341
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -599,6 +599,9 @@ wiki_pages:
   - key: "HiSilicon"
     title: "HiSilicon"
     url: "/wiki/entities/hisilicon/"
+  - key: "Hispaniola"
+    title: "Hispaniola"
+    url: "/wiki/entities/hispaniola/"
   - key: "Histias"
     title: "Histias"
     url: "/wiki/entities/histias/"

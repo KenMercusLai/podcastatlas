@@ -1491,6 +1491,13 @@
       "url": "/topics/history/"
     }
   ],
+  "308-columbus-death-in-the-caribbean-part-3-glt3250512968": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "309-columbus-villain-or-hero-part-4-glt6751575003": [
     {
       "key": "history",
@@ -30023,6 +30030,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "FerdinandIIOfAragon": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "FermatsPrincipleOfLeastTime": [
     {
       "key": "science",
@@ -56639,6 +56653,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "PapalAtlanticPartition": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "PaperMagazineSubscriptionRitual": [

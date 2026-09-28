@@ -5,6 +5,7 @@ knowledge_schema: synthesis-v1
 tags: [colonialism, caribbean, spanish-empire, conquest, indigenous-history]
 sources:
   - 384-the-fall-of-the-aztecs-the-adventure-begins-part-1-glt8046611029
+  - 308-columbus-death-in-the-caribbean-part-3-glt3250512968
 last_updated: 2026-09-27
 ---
 
@@ -14,7 +15,9 @@ Spanish Caribbean expansion was the island-to-mainland process through which con
 
 ## Current Synthesis
 
-The episode treats expansion as a chain rather than a single voyage. Hispaniola supplied colonial offices, kinship networks, ships, experience, and a regime already built on Taino dispossession, mining labor, disease, ecological disruption, and imported African slavery. Cuba then became another conquest zone and a forward base under [[DiegoVelazquezDeCuellar|Diego Velazquez de Cuellar]], where encomiendas, livestock, crops, gold shipments, and colonial appointments joined violence to settlement.
+The sources treat expansion as a chain rather than a single voyage. [[308-columbus-death-in-the-caribbean-part-3-glt3250512968]] supplies the formative second-voyage stage: a large settler fleet, papal claim, Portuguese rivalry, conversion policy, the failed [[LaIsabela]] settlement, mass captivity, tribute, and ecological transfer on [[Hispaniola]]. [[384-the-fall-of-the-aztecs-the-adventure-begins-part-1-glt8046611029]] follows the resulting colonial system as Hispaniola supplies offices, kinship networks, ships, experience, and a regime already built on Taíno dispossession, mining labor, disease, ecological disruption, and imported African slavery.
+
+Cuba then became another conquest zone and a forward base under [[DiegoVelazquezDeCuellar|Diego Velazquez de Cuellar]], where encomiendas, livestock, crops, gold shipments, and colonial appointments joined violence to settlement.
 
 From Cuba, privately organized expeditions moved west through rumor and competition. Hernandez de Cordoba's 1517 voyage revealed Maya towns, stone buildings, temples, and armed resistance; Juan de Grijalva's 1518 expedition added trade, gold, Totonac political intelligence, and contact with a Mexica envoy. These voyages did not yet amount to the [[SpanishConquestOfMexico|conquest of Mexico]], but they assembled the geographic knowledge, expectations of wealth, and rival claims that made a larger expedition urgent.
 
@@ -23,6 +26,7 @@ The framework therefore resists separating faith, greed, fear, status, law, and 
 ## Key Claims
 
 - Hispaniola and Cuba were institutional and violent preconditions for the later Mexico expedition, not incidental stopping points.
+- The enlarged second voyage joined papal diplomacy, settlement, conversion, extraction, and transported organisms before Cuba became the forward base.
 - Encomienda, mining, ecological transfer, epidemic collapse, and African slavery tied settlement to coerced labor and demographic catastrophe.
 - Expansion was conducted by armed entrepreneurs operating under colonial and royal authority without resembling a modern state army.
 - Successive voyages converted rumor into route knowledge, material observation, diplomatic contact, and expectations of gold.
@@ -31,19 +35,19 @@ The framework therefore resists separating faith, greed, fear, status, law, and 
 
 ## Evidence
 
-- Colonial apprenticeship: [[384-the-fall-of-the-aztecs-the-adventure-begins-part-1-glt8046611029]] places Cortes inside Hispaniola's notarial order, Taino repression, mining, demographic collapse, and early African slavery.
+- Colonial foundation and apprenticeship: [[308-columbus-death-in-the-caribbean-part-3-glt3250512968]] establishes settlement, tribute, captivity, and administrative failure; [[384-the-fall-of-the-aztecs-the-adventure-begins-part-1-glt8046611029]] places Cortes inside the resulting Hispaniola order, Taíno repression, mining, demographic collapse, and early African slavery.
 - Cuba as forward base: [[384-the-fall-of-the-aztecs-the-adventure-begins-part-1-glt8046611029]] connects Velazquez's campaign, Hatuey's resistance, encomienda distribution, ecological transfer, gold shipment, and colonial officeholding.
 - Mainland reconnaissance: [[384-the-fall-of-the-aztecs-the-adventure-begins-part-1-glt8046611029]] follows the Cordoba and Grijalva voyages through Maya urbanism, battle, trade, gold, Totonac information, and Mexica diplomacy.
 - Competitive command: [[384-the-fall-of-the-aztecs-the-adventure-begins-part-1-glt8046611029]] presents Velazquez's selection of Cortes as an attempt to secure opportunity before rival colonial authorities moved first.
 
 ## Counterevidence & Qualifications
 
-This synthesis is bounded to one narrative podcast episode and does not supply a comprehensive institutional history of Spanish rule, Taino societies, Maya polities, African slavery, encomienda, or royal finance. Famous Hatuey stories, sacrifice reports, remembered dialogue, the origin of “Yucatan,” and participants' private motives remain source-scoped. Calling the ventures entrepreneurial describes their organization and incentives; it does not imply voluntary or legitimate relations with the people subjected to them.
+This synthesis is bounded to two narrative podcast episodes and does not supply a comprehensive institutional history of Spanish rule, Taíno societies, Maya polities, African slavery, encomienda, papal law, or royal finance. Population estimates, cannibalism reports, famous Hatuey stories, sacrifice reports, remembered dialogue, the origin of “Yucatan,” and participants' private motives remain source-scoped. Calling the ventures entrepreneurial describes their organization and incentives; it does not imply voluntary or legitimate relations with the people subjected to them.
 
 ## What Changed
 
-- Established the Caribbean conquest-and-settlement chain as the material and institutional prehistory of the Mexico expedition.
-- Connected reconnaissance, Indigenous political information, and competitive colonial sponsorship to the decision to appoint Cortes.
+- Extended the chain backward to papal claims, Portuguese rivalry, and the 1493 settler fleet.
+- Added La Isabela's administrative failure, early tribute, captive export, and royal investigation as formative institutions.
 
 ## Related Concepts
 
@@ -53,3 +57,6 @@ This synthesis is bounded to one narrative podcast episode and does not supply a
 - [[HernanCortes]] - colonial officeholder formed inside this system before receiving command.
 - [[DiegoVelazquezDeCuellar]] - Cuban governor who sponsored westward reconnaissance and selected Cortes.
 - [[Hatuey]] - resistance leader whose death exposes the violence and conversion pressure within the expansion chain.
+- [[ColumbusSecondVoyageColonization]] - state-backed settlement threshold that begins the current bounded chain.
+- [[PapalAtlanticPartition]] - diplomatic claim framework accelerating Spanish occupation.
+- [[ColonialConversionEnslavementContradiction]] - unresolved protection and exploitation logic within expansion.

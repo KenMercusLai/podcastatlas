@@ -8,6 +8,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Sources
 - [VOL.24肿瘤肝胆外科｜胰脏和脾脏虽然不大，但这些危险诱因要警惕](sources/vol-24-zhongliu-gandan-waike-yizang-he-pizang-suiran-bu-da-dan-zhexie-weixian-youyin-yaojingti-lvw8ajdllmj73ecq2br3sgnmkug.md) — 这病说来话长 episode on pancreatic function and risk communication, pancreatitis escalation, splenic trauma, lifestyle claims, and oncology communication.
 - [VOL.25肿瘤肝胆外科｜箫郎医生在肿瘤医院行医18年所遇到的那些“怪”事和医患故事](sources/vol-25-zhongliu-gandan-waike-xiaolang-yisheng-zai-zhongliu-yiyuan-xingyi-18-nian-suo-yudao-de-naxie-guai-shi-he-yihuan-gushi-lr1jwin34m6obozyrqpybpujq5cz.md) — 这病说来话长 episode on oncology distress, symptom experience, family decision communication, clinical trust, and informed-consent responsibility.
+- [308: Columbus: Death in the Caribbean (Part 3)](sources/308-columbus-death-in-the-caribbean-part-3-glt3250512968.md) — The Rest Is History episode on Columbus's second-voyage colonization, failed settlement, Taíno coercion and resistance, royal alarm, and geographical denial.
 - [309: Columbus: Villain or Hero? (Part 4)](sources/309-columbus-villain-or-hero-part-4-glt6751575003.md) — The Rest Is History episode on Columbus's final voyages, failed colonial government, enslavement, Indigenous devastation, and contested global memory.
 - [VOL.26妇产科｜妇产科的事也是男士的必修课](sources/vol-26-fuchanke-fuchanke-de-shi-yeshi-nanshi-de-bixiuke-ljhkdbucgrm_c2ykhzglj7ecbos1.md) — 这病说来话长 episode on male obstetrician-gynecologists, specialty training, intimate-care dignity, examination discomfort, partner health literacy, and prenatal-screening adherence.
 - [310: Ronald Reagan and the American Dream (Part 1)](sources/310-ronald-reagan-and-the-american-dream-part-1-glt3254036306.md) — The Rest Is History episode on Reagan's religious, civic, radio, Hollywood, union, and anti-communist formation and the fusion of performance with conviction.
@@ -3168,6 +3169,11 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Entities
 - [骁狼医生 / Xiaolang (oncology surgeon)](entities/XiaolangOncologySurgeon.md) — Source-scoped oncology hepatobiliary surgeon discussing pancreatic and splenic health, psychological support, family communication, and surgical consent in VOL.24–25.
+- [Taíno](entities/TainoPeople.md) — Indigenous Caribbean peoples whose resistance and catastrophe expose captivity, labor, gendered violence, ecological disruption, and source asymmetry.
+- [Isabella I of Castile](entities/IsabellaIOfCastile.md) — Spanish monarch who sponsored colonization while objecting to the enslavement of Indigenous subjects and potential converts.
+- [Ferdinand II of Aragon](entities/FerdinandIIOfAragon.md) — Spanish monarch linking Portuguese rivalry, papal diplomacy, colonial sponsorship, and later royal investigation.
+- [Hispaniola](entities/Hispaniola.md) — Taíno homeland and early Spanish colonial contact zone of settlement failure, tribute, captivity, ecological change, and royal intervention.
+- [La Isabela](entities/LaIsabela.md) — Poorly sited second-voyage settlement whose failure exposed Columbus's administrative weakness and intensified extractive pressure.
 - [Christopher Columbus](entities/ChristopherColumbus.md) — Genoese Atlantic navigator whose maritime skill, colonial coercion, geographical error, and contested afterlife resist a single moral verdict.
 - [Bartolomé de las Casas](entities/BartolomeDeLasCasas.md) — Spanish Catholic critic grounding an early tradition against conquest violence, enslavement, and Indigenous abuse.
 - [Screen Actors Guild](entities/ScreenActorsGuild.md) — Hollywood performers' union and Reagan training ground in representation, negotiation, labor conflict, and anti-communist politics.
@@ -14535,6 +14541,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Oncology Psychological Support / 肿瘤照护中的心理支持](concepts/OncologyPsychologicalSupport.md) — Emotional recognition, symptom assessment, realistic hope, and incremental recovery goals integrated into cancer care.
 - [Family-Centered Cancer Decision Communication / 肿瘤家庭决策沟通](concepts/FamilyCenteredCancerDecisionCommunication.md) — Shared information and role clarity for patient, clinicians, and relatives in high-stakes cancer decisions.
 - [Surgical Informed Consent and Responsibility / 手术知情同意与责任](concepts/SurgicalInformedConsentResponsibility.md) — Process-based distinction among risk disclosure, authorization, documentation, and continuing accountability.
+- [Columbus Second-Voyage Colonization](concepts/ColumbusSecondVoyageColonization.md) — 1493 threshold from reconnaissance to state-backed settlement, conversion, extraction, and imperial government.
+- [Colonial Conversion-Enslavement Contradiction](concepts/ColonialConversionEnslavementContradiction.md) — Conflict between protected convert-subject status and colonial captivity, transport, tribute, and coerced labor.
+- [Cannibalism as Colonial Justification](concepts/CannibalismColonialJustification.md) — Evidence-unstable classification whose political use could move Indigenous groups outside colonial protection.
+- [Papal Atlantic Partition](concepts/PapalAtlanticPartition.md) — Iberian-papal claim framework that turned uncertain geography and Portuguese rivalry into urgent Spanish settlement.
 - [Columbus Legacy Contestation](concepts/ColumbusLegacyContestation.md) — Changing struggle over Columbus in Spanish, U.S., Italian American, Latin American, and Indigenous public memory.
 - [Contextual Explanation Without Exoneration](concepts/ContextualExplanationWithoutExoneration.md) — Historical method that reconstructs formative conditions while preserving agency, dissent, harm, and accountability.
 - [Hero-Villain Historical Reduction](concepts/HeroVillainHistoricalReduction.md) — Compression of a historical life into one totalizing moral identity instead of specific judgments about acts and consequences.

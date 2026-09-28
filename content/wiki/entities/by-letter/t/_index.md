@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 11336
+wiki_total_pages: 11341
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -185,6 +185,9 @@ wiki_pages:
   - key: "TaylorSwift"
     title: "Taylor Swift"
     url: "/wiki/entities/taylorswift/"
+  - key: "TainoPeople"
+    title: "Taíno"
+    url: "/wiki/entities/tainopeople/"
   - key: "TBPN"
     title: "TBPN"
     url: "/wiki/entities/tbpn/"

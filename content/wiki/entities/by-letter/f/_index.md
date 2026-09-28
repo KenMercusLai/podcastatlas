@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 11336
+wiki_total_pages: 11341
 wiki_pages:
   - key: "FIFAWorldCup1934"
     title: "1934 FIFA World Cup"
@@ -188,6 +188,9 @@ wiki_pages:
   - key: "FerdinandDeSaussure"
     title: "Ferdinand de Saussure / 索绪尔"
     url: "/wiki/entities/ferdinanddesaussure/"
+  - key: "FerdinandIIOfAragon"
+    title: "Ferdinand II of Aragon"
+    url: "/wiki/entities/ferdinandiiofaragon/"
   - key: "Ferrari"
     title: "Ferrari"
     url: "/wiki/entities/ferrari/"

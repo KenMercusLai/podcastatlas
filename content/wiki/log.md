@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-29] ingest | 308: Columbus: Death in the Caribbean (Part 3)
+
+Added source `308-columbus-death-in-the-caribbean-part-3-glt3250512968`; created `TainoPeople`, `IsabellaIOfCastile`, `FerdinandIIOfAragon`, `Hispaniola`, `LaIsabela`, `ColumbusSecondVoyageColonization`, `ColonialConversionEnslavementContradiction`, `CannibalismColonialJustification`, and `PapalAtlanticPartition`; updated `ChristopherColumbus`, `BartolomeDeLasCasas`, `EncomiendaColonialLaborSystem`, `SpanishCaribbeanExpansion`, `ColumbianExchange`, `ColumbusLegacyContestation`, and the canonical index from their complete bounded source sets. Core synthesis: the 1493 expedition changed westward reconnaissance into state-backed settlement, conversion, extraction, and imperial rivalry, but La Isabela's failure and scarce gold intensified captivity, sexual violence, tribute, compelled labor, evidentiary classification, and geographical denial. Royal protection language and Catholic criticism constrained enslavement without ending conquest, while Taíno catastrophe remained multi-causal and source-mediated. No settled contradiction was adopted. Cannibalism, population, syphilis, dialogue, motives, intent classification, and causal weights remain contested or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-29] ingest | VOL.24肿瘤肝胆外科｜胰脏和脾脏虽然不大，但这些危险诱因要警惕
 
 Added source `vol-24-zhongliu-gandan-waike-yizang-he-pizang-suiran-bu-da-dan-zhexie-weixian-youyin-yaojingti-lvw8ajdllmj73ecq2br3sgnmkug`; created `PancreaticRiskCommunicationBoundary` and `SplenicTraumaEmergencyEscalation`; and updated `XiaolangOncologySurgeon`, `AcutePancreatitisEmergencyEscalation`, and the canonical index from their complete bounded source sets. Core synthesis: pancreatic risk communication should distinguish modifiable context and symptom escalation from diagnosis or individual causation, while significant abdominal trauma can conceal dangerous splenic bleeding. No settled contradiction was adopted. The late-night-eating, chilling, “organ rest,” internal-organ food safety, and traditional Chinese medicine mechanisms remain source-scoped; the automatic `wiki/overview.md` was read for context but not manually rewritten because the episode deepens an existing medical-literacy branch without changing the wiki-wide synthesis.
@@ -25007,6 +25011,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-29] ingest | Genes & the Inheritance of Memories Across Generations | Dr. Oded Rechavi
 
 Added source `genes-the-inheritance-of-memories-across-generations-dr-oded-rechavi-scim1011684384`; created `TransgenerationalInheritanceEvidenceDesign`; and updated `OdedRechavi`, `AcquiredTraitInheritanceBoundary`, `EpigeneticReprogrammingBoundary`, `SmallRNAIntergenerationalInheritance`, and the canonical index from their complete bounded source sets. Core synthesis: specific small-RNA inheritance mechanisms are experimentally strong in C. elegans, but direct prenatal exposure and parental environment must be excluded before an effect is called transgenerational; paternal F2 and maternal F3 descendants provide the episode's unexposed-generation rule. No settled contradiction was adopted. The source substantially overlaps an existing Essentials cut, while human transmission, mammalian examples, adaptive interpretations, numerical duration claims, and unfinished cold/lithium memory work remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-29] lint | Wiki health check
 

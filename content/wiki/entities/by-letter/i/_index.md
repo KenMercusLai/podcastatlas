@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 11336
+wiki_total_pages: 11341
 wiki_pages:
   - key: "IHaveADreamSpeech"
     title: "I Have a Dream Speech"
@@ -326,6 +326,9 @@ wiki_pages:
   - key: "IsabelPeron"
     title: "Isabel Perón"
     url: "/wiki/entities/isabelperon/"
+  - key: "IsabellaIOfCastile"
+    title: "Isabella I of Castile"
+    url: "/wiki/entities/isabellaiofcastile/"
   - key: "IsabellaOfFrance"
     title: "Isabella of France"
     url: "/wiki/entities/isabellaoffrance/"

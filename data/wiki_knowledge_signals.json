@@ -16795,9 +16795,9 @@
       "url": "/wiki/entities/barrygoldwater/"
     },
     "BartolomeDeLasCasas": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6751575003 [GLT6751575003].md",
@@ -16805,6 +16805,13 @@
           "show": "The Rest Is History",
           "title": "309: Columbus: Villain or Hero? (Part 4)",
           "url": "/wiki/sources/309-columbus-villain-or-hero-part-4-glt6751575003/"
+        },
+        {
+          "episode_file": "GLT3250512968 [GLT3250512968].md",
+          "key": "308-columbus-death-in-the-caribbean-part-3-glt3250512968",
+          "show": "The Rest Is History",
+          "title": "308: Columbus: Death in the Caribbean (Part 3)",
+          "url": "/wiki/sources/308-columbus-death-in-the-caribbean-part-3-glt3250512968/"
         }
       ],
       "updated": "2026-09-29",
@@ -23564,6 +23571,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/concepts/cannabisstrainlabelevidenceboundary/"
+    },
+    "CannibalismColonialJustification": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3250512968 [GLT3250512968].md",
+          "key": "308-columbus-death-in-the-caribbean-part-3-glt3250512968",
+          "show": "The Rest Is History",
+          "title": "308: Columbus: Death in the Caribbean (Part 3)",
+          "url": "/wiki/sources/308-columbus-death-in-the-caribbean-part-3-glt3250512968/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/cannibalismcolonialjustification/"
     },
     "CaoAng": {
       "episode_count": 4,
@@ -30495,9 +30518,9 @@
       "url": "/wiki/entities/christopherclark/"
     },
     "ChristopherColumbus": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6751575003 [GLT6751575003].md",
@@ -30505,6 +30528,13 @@
           "show": "The Rest Is History",
           "title": "309: Columbus: Villain or Hero? (Part 4)",
           "url": "/wiki/sources/309-columbus-villain-or-hero-part-4-glt6751575003/"
+        },
+        {
+          "episode_file": "GLT3250512968 [GLT3250512968].md",
+          "key": "308-columbus-death-in-the-caribbean-part-3-glt3250512968",
+          "show": "The Rest Is History",
+          "title": "308: Columbus: Death in the Caribbean (Part 3)",
+          "url": "/wiki/sources/308-columbus-death-in-the-caribbean-part-3-glt3250512968/"
         }
       ],
       "updated": "2026-09-29",
@@ -33128,6 +33158,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/concepts/colonialchocolatecommoditychain/"
     },
+    "ColonialConversionEnslavementContradiction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3250512968 [GLT3250512968].md",
+          "key": "308-columbus-death-in-the-caribbean-part-3-glt3250512968",
+          "show": "The Rest Is History",
+          "title": "308: Columbus: Death in the Caribbean (Part 3)",
+          "url": "/wiki/sources/308-columbus-death-in-the-caribbean-part-3-glt3250512968/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/colonialconversionenslavementcontradiction/"
+    },
     "ColonialFrontierGovernanceFragility": {
       "episode_count": 1,
       "show_count": 1,
@@ -33347,9 +33393,9 @@
       "url": "/wiki/entities/colosseum/"
     },
     "ColumbianExchange": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT2984940365 [GLT2984940365].md",
@@ -33371,15 +33417,22 @@
           "show": "The Rest Is History",
           "title": "389. The Fall of the Aztecs: The Night of Tears (Part 6)",
           "url": "/wiki/sources/389-the-fall-of-the-aztecs-the-night-of-tears-part-6-glt2744313815/"
+        },
+        {
+          "episode_file": "GLT3250512968 [GLT3250512968].md",
+          "key": "308-columbus-death-in-the-caribbean-part-3-glt3250512968",
+          "show": "The Rest Is History",
+          "title": "308: Columbus: Death in the Caribbean (Part 3)",
+          "url": "/wiki/sources/308-columbus-death-in-the-caribbean-part-3-glt3250512968/"
         }
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/columbianexchange/"
     },
     "ColumbusLegacyContestation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6751575003 [GLT6751575003].md",
@@ -33387,10 +33440,33 @@
           "show": "The Rest Is History",
           "title": "309: Columbus: Villain or Hero? (Part 4)",
           "url": "/wiki/sources/309-columbus-villain-or-hero-part-4-glt6751575003/"
+        },
+        {
+          "episode_file": "GLT3250512968 [GLT3250512968].md",
+          "key": "308-columbus-death-in-the-caribbean-part-3-glt3250512968",
+          "show": "The Rest Is History",
+          "title": "308: Columbus: Death in the Caribbean (Part 3)",
+          "url": "/wiki/sources/308-columbus-death-in-the-caribbean-part-3-glt3250512968/"
         }
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/columbuslegacycontestation/"
+    },
+    "ColumbusSecondVoyageColonization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3250512968 [GLT3250512968].md",
+          "key": "308-columbus-death-in-the-caribbean-part-3-glt3250512968",
+          "show": "The Rest Is History",
+          "title": "308: Columbus: Death in the Caribbean (Part 3)",
+          "url": "/wiki/sources/308-columbus-death-in-the-caribbean-part-3-glt3250512968/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/columbussecondvoyagecolonization/"
     },
     "ComedyAsInvoluntaryJudgment": {
       "episode_count": 1,
@@ -52491,9 +52567,9 @@
       "url": "/wiki/concepts/encirclingweitorescuezhao/"
     },
     "EncomiendaColonialLaborSystem": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6751575003 [GLT6751575003].md",
@@ -52501,6 +52577,13 @@
           "show": "The Rest Is History",
           "title": "309: Columbus: Villain or Hero? (Part 4)",
           "url": "/wiki/sources/309-columbus-villain-or-hero-part-4-glt6751575003/"
+        },
+        {
+          "episode_file": "GLT3250512968 [GLT3250512968].md",
+          "key": "308-columbus-death-in-the-caribbean-part-3-glt3250512968",
+          "show": "The Rest Is History",
+          "title": "308: Columbus: Death in the Caribbean (Part 3)",
+          "url": "/wiki/sources/308-columbus-death-in-the-caribbean-part-3-glt3250512968/"
         }
       ],
       "updated": "2026-09-29",
@@ -59426,6 +59509,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/concepts/fenxiangmailu/"
+    },
+    "FerdinandIIOfAragon": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3250512968 [GLT3250512968].md",
+          "key": "308-columbus-death-in-the-caribbean-part-3-glt3250512968",
+          "show": "The Rest Is History",
+          "title": "308: Columbus: Death in the Caribbean (Part 3)",
+          "url": "/wiki/sources/308-columbus-death-in-the-caribbean-part-3-glt3250512968/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/ferdinandiiofaragon/"
     },
     "FermentedFoodResponsePersonalization": {
       "episode_count": 1,
@@ -77462,6 +77561,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/hiroshimaatomicbombing/"
     },
+    "Hispaniola": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3250512968 [GLT3250512968].md",
+          "key": "308-columbus-death-in-the-caribbean-part-3-glt3250512968",
+          "show": "The Rest Is History",
+          "title": "308: Columbus: Death in the Caribbean (Part 3)",
+          "url": "/wiki/sources/308-columbus-death-in-the-caribbean-part-3-glt3250512968/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/hispaniola/"
+    },
     "Histias": {
       "episode_count": 1,
       "show_count": 1,
@@ -87959,6 +88074,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/entities/isabelperon/"
     },
+    "IsabellaIOfCastile": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3250512968 [GLT3250512968].md",
+          "key": "308-columbus-death-in-the-caribbean-part-3-glt3250512968",
+          "show": "The Rest Is History",
+          "title": "308: Columbus: Death in the Caribbean (Part 3)",
+          "url": "/wiki/sources/308-columbus-death-in-the-caribbean-part-3-glt3250512968/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/isabellaiofcastile/"
+    },
     "IsabellaOfFrance": {
       "episode_count": 1,
       "show_count": 1,
@@ -95808,6 +95939,22 @@
       ],
       "updated": "2026-09-15",
       "url": "/wiki/entities/lvmh/"
+    },
+    "LaIsabela": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3250512968 [GLT3250512968].md",
+          "key": "308-columbus-death-in-the-caribbean-part-3-glt3250512968",
+          "show": "The Rest Is History",
+          "title": "308: Columbus: Death in the Caribbean (Part 3)",
+          "url": "/wiki/sources/308-columbus-death-in-the-caribbean-part-3-glt3250512968/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/laisabela/"
     },
     "LaMarseillaise": {
       "episode_count": 1,
@@ -126704,6 +126851,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/entities/pangyulatehan/"
     },
+    "PapalAtlanticPartition": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3250512968 [GLT3250512968].md",
+          "key": "308-columbus-death-in-the-caribbean-part-3-glt3250512968",
+          "show": "The Rest Is History",
+          "title": "308: Columbus: Death in the Caribbean (Part 3)",
+          "url": "/wiki/sources/308-columbus-death-in-the-caribbean-part-3-glt3250512968/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/papalatlanticpartition/"
+    },
     "ParadoxMachines": {
       "episode_count": 1,
       "show_count": 1,
@@ -155360,9 +155523,9 @@
       "url": "/wiki/concepts/spacebasedaiinfrastructure/"
     },
     "SpanishCaribbeanExpansion": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8046611029 [GLT8046611029].md",
@@ -155370,6 +155533,13 @@
           "show": "The Rest Is History",
           "title": "384. The Fall of the Aztecs: The Adventure Begins (Part 1)",
           "url": "/wiki/sources/384-the-fall-of-the-aztecs-the-adventure-begins-part-1-glt8046611029/"
+        },
+        {
+          "episode_file": "GLT3250512968 [GLT3250512968].md",
+          "key": "308-columbus-death-in-the-caribbean-part-3-glt3250512968",
+          "show": "The Rest Is History",
+          "title": "308: Columbus: Death in the Caribbean (Part 3)",
+          "url": "/wiki/sources/308-columbus-death-in-the-caribbean-part-3-glt3250512968/"
         }
       ],
       "updated": "2026-09-27",
@@ -161554,6 +161724,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/concepts/taisuibelief/"
+    },
+    "TainoPeople": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3250512968 [GLT3250512968].md",
+          "key": "308-columbus-death-in-the-caribbean-part-3-glt3250512968",
+          "show": "The Rest Is History",
+          "title": "308: Columbus: Death in the Caribbean (Part 3)",
+          "url": "/wiki/sources/308-columbus-death-in-the-caribbean-part-3-glt3250512968/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/tainopeople/"
     },
     "Taipingjing": {
       "episode_count": 1,

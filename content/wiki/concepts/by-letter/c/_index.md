@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8743
+wiki_total_pages: 8747
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -152,6 +152,9 @@ wiki_pages:
   - key: "CannabisPsychosisCausalityBoundary"
     title: "Cannabis-Psychosis Causality Boundary"
     url: "/wiki/concepts/cannabispsychosiscausalityboundary/"
+  - key: "CannibalismColonialJustification"
+    title: "Cannibalism as Colonial Justification"
+    url: "/wiki/concepts/cannibalismcolonialjustification/"
   - key: "CapTableLiteracy"
     title: "Cap Table Literacy"
     url: "/wiki/concepts/captableliteracy/"
@@ -1379,6 +1382,9 @@ wiki_pages:
   - key: "ColonialChocolateCommodityChain"
     title: "Colonial Chocolate Commodity Chain"
     url: "/wiki/concepts/colonialchocolatecommoditychain/"
+  - key: "ColonialConversionEnslavementContradiction"
+    title: "Colonial Conversion-Enslavement Contradiction"
+    url: "/wiki/concepts/colonialconversionenslavementcontradiction/"
   - key: "ColonialFrontierGovernanceFragility"
     title: "Colonial Frontier Governance Fragility"
     url: "/wiki/concepts/colonialfrontiergovernancefragility/"
@@ -1418,6 +1424,9 @@ wiki_pages:
   - key: "ColumbusLegacyContestation"
     title: "Columbus Legacy Contestation"
     url: "/wiki/concepts/columbuslegacycontestation/"
+  - key: "ColumbusSecondVoyageColonization"
+    title: "Columbus Second-Voyage Colonization"
+    url: "/wiki/concepts/columbussecondvoyagecolonization/"
   - key: "ComedyAsInvoluntaryJudgment"
     title: "Comedy as Involuntary Judgment"
     url: "/wiki/concepts/comedyasinvoluntaryjudgment/"

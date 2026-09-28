@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2816
+topic_total_pages: 2818
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2551,6 +2551,9 @@ topic_concepts:
   - key: "PandemicAsHistoricalForce"
     title: "Pandemic As Historical Force"
     url: "/wiki/concepts/pandemicashistoricalforce/"
+  - key: "PapalAtlanticPartition"
+    title: "Papal Atlantic Partition"
+    url: "/wiki/concepts/papalatlanticpartition/"
   - key: "ParamilitarySpoilerViolence"
     title: "Paramilitary Spoiler Violence"
     url: "/wiki/concepts/paramilitaryspoilerviolence/"
@@ -5276,6 +5279,9 @@ topic_entities:
   - key: "FengYuxiang"
     title: "Feng Yuxiang / 冯玉祥"
     url: "/wiki/entities/fengyuxiang/"
+  - key: "FerdinandIIOfAragon"
+    title: "Ferdinand II of Aragon"
+    url: "/wiki/entities/ferdinandiiofaragon/"
   - key: "FIA"
     title: "FIA"
     url: "/wiki/entities/fia/"
