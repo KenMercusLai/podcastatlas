@@ -20826,9 +20826,9 @@
       "url": "/wiki/entities/britisharmy/"
     },
     "BritishCoronationRitual": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8755026279 [GLT8755026279].md",
@@ -20836,6 +20836,13 @@
           "show": "The Rest Is History",
           "title": "329: Coronations: Chaos, Ceremony and Empire (Part 3)",
           "url": "/wiki/sources/329-coronations-chaos-ceremony-and-empire-part-3-glt8755026279/"
+        },
+        {
+          "episode_file": "GLT8165021855 [GLT8165021855].md",
+          "key": "328-coronations-sex-holy-oil-and-civil-war-part-2-glt8165021855",
+          "show": "The Rest Is History",
+          "title": "328: Coronations: Sex, Holy Oil and Civil War (Part 2)",
+          "url": "/wiki/sources/328-coronations-sex-holy-oil-and-civil-war-part-2-glt8165021855/"
         }
       ],
       "updated": "2026-09-28",
@@ -33558,6 +33565,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/concepts/conditionedphysiologicalresponses/"
+    },
+    "ConfessionalCoronationAdaptation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8165021855 [GLT8165021855].md",
+          "key": "328-coronations-sex-holy-oil-and-civil-war-part-2-glt8165021855",
+          "show": "The Rest Is History",
+          "title": "328: Coronations: Sex, Holy Oil and Civil War (Part 2)",
+          "url": "/wiki/sources/328-coronations-sex-holy-oil-and-civil-war-part-2-glt8165021855/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/confessionalcoronationadaptation/"
     },
     "ConfessionalInvasionConspiracy": {
       "episode_count": 3,
@@ -109102,6 +109125,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/maryhelenimmordinoyang/"
     },
+    "MaryII": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8165021855 [GLT8165021855].md",
+          "key": "328-coronations-sex-holy-oil-and-civil-war-part-2-glt8165021855",
+          "show": "The Rest Is History",
+          "title": "328: Coronations: Sex, Holy Oil and Civil War (Part 2)",
+          "url": "/wiki/sources/328-coronations-sex-holy-oil-and-civil-war-part-2-glt8165021855/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/maryii/"
+    },
     "MaryParsons": {
       "episode_count": 1,
       "show_count": 1,
@@ -121140,9 +121179,9 @@
       "url": "/wiki/entities/oliveyoung/"
     },
     "OliverCromwell": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6280042699 [GLT6280042699].md",
@@ -121157,6 +121196,13 @@
           "show": "The Rest Is History",
           "title": "333: The Republic of Britain: Life under Cromwell",
           "url": "/wiki/sources/333-the-republic-of-britain-life-under-cromwell-glt3360112790/"
+        },
+        {
+          "episode_file": "GLT8165021855 [GLT8165021855].md",
+          "key": "328-coronations-sex-holy-oil-and-civil-war-part-2-glt8165021855",
+          "show": "The Rest Is History",
+          "title": "328: Coronations: Sex, Holy Oil and Civil War (Part 2)",
+          "url": "/wiki/sources/328-coronations-sex-holy-oil-and-civil-war-part-2-glt8165021855/"
         }
       ],
       "updated": "2026-09-28",
@@ -138722,6 +138768,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/retroproductrevival/"
+    },
+    "RetrospectiveCoronationNarrative": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8165021855 [GLT8165021855].md",
+          "key": "328-coronations-sex-holy-oil-and-civil-war-part-2-glt8165021855",
+          "show": "The Rest Is History",
+          "title": "328: Coronations: Sex, Holy Oil and Civil War (Part 2)",
+          "url": "/wiki/sources/328-coronations-sex-holy-oil-and-civil-war-part-2-glt8165021855/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/retrospectivecoronationnarrative/"
     },
     "ReturningArmyInterdictionRisk": {
       "episode_count": 2,
@@ -173191,6 +173253,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/williamgolding/"
+    },
+    "WilliamIII": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8165021855 [GLT8165021855].md",
+          "key": "328-coronations-sex-holy-oil-and-civil-war-part-2-glt8165021855",
+          "show": "The Rest Is History",
+          "title": "328: Coronations: Sex, Holy Oil and Civil War (Part 2)",
+          "url": "/wiki/sources/328-coronations-sex-holy-oil-and-civil-war-part-2-glt8165021855/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/williamiii/"
     },
     "WilliamJoyce": {
       "episode_count": 2,

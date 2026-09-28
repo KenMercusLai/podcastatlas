@@ -24674,3 +24674,11 @@ Added source `329-coronations-chaos-ceremony-and-empire-part-3-glt8755026279`; c
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | 328: Coronations: Sex, Holy Oil and Civil War (Part 2)
+
+Added source `328-coronations-sex-holy-oil-and-civil-war-part-2-glt8165021855`; created `WilliamIII`, `MaryII`, `ConfessionalCoronationAdaptation`, and `RetrospectiveCoronationNarrative`; and updated `BritishCoronationRitual` and `OliverCromwell` from their complete bounded source sets. Core synthesis: coronation is adaptable sacred and political technology whose anointing, oil, oath, procession, and regalia are intensified or reinterpreted under conquest, usurpation, minority, Reformation, civil war, Protectorate, Restoration, and dynastic replacement. No settled contradiction was adopted. Partisan anecdotes, prophetic oil, bad omens, inferred motives, crowd reactions, and the political effect of ceremony remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [328: Coronations: Sex, Holy Oil and Civil War (Part 2)](sources/328-coronations-sex-holy-oil-and-civil-war-part-2-glt8165021855.md) — The Rest Is History episode on coronation as adaptable sacred and political technology across conquest, usurpation, Reformation, civil war, Protectorate, and the Glorious Revolution.
 - [329: Coronations: Chaos, Ceremony and Empire (Part 3)](sources/329-coronations-chaos-ceremony-and-empire-part-3-glt8755026279.md) — The Rest Is History episode on British coronation as sacred rite, political contest, public disorder, imperial spectacle, and mass-media event.
 - [330: Herodotus: The Birth of History](sources/330-herodotus-the-birth-of-history-glt7158094581.md) — The Rest Is History episode on Herodotus as historian, storyteller, ethnographer, source critic, cross-cultural interpreter, and analyst of imperial power.
 - [How Psilocybin Can Rewire Our Brain, Its Therapeutic Benefits & Its Risks](sources/how-psilocybin-can-rewire-our-brain-its-therapeutic-benefits-its-risks-scim8168511614.md) — Huberman Lab solo episode on psilocybin pharmacology, structured therapeutic context, adaptive neuroplasticity, depression evidence, contraindications, and supervision.
@@ -14394,6 +14395,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [George IV](entities/GeorgeIV.md) — British monarch whose extravagant coronation joined antiquarian theatre, marital exclusion, grandeur, and farce.
 - [Elizabeth II](entities/ElizabethII.md) — British monarch whose sacramental coronation became a defining television-era mass event.
 - [Charles III](entities/CharlesIII.md) — British monarch whose planned 2023 coronation renewed the question of sacral meaning in a more sceptical public culture.
+- [William III](entities/WilliamIII.md) — Dutch Protestant ruler whose joint coronation with Mary II helped publicize the post-Glorious Revolution settlement.
+- [Mary II](entities/MaryII.md) — Daughter of James II and joint monarch whose 1689 coronation made an unusual Protestant succession publicly legible.
 
 ## Concepts
 - [Historical Inquiry and Source Criticism](concepts/HistoricalInquirySourceCriticism.md) — Method for attributing testimony, comparing accounts, preserving uncertainty, and recovering information from mediated reports.
@@ -23070,5 +23073,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [British Coronation Ritual](concepts/BritishCoronationRitual.md) — Christian consecration and public installation repeatedly reshaped by politics, spectacle, disorder, empire, and media.
 - [Coronation Mass-Media Transformation](concepts/CoronationMassMediaTransformation.md) — Expansion of place-bound royal ritual through rail tourism, imperial staging, radio, television, and communal viewing.
+- [Confessional Coronation Adaptation](concepts/ConfessionalCoronationAdaptation.md) — Reuse and reinterpretation of coronation form across Catholic and Protestant changes in oil, clergy, language, communion, procession, and oath.
+- [Retrospective Coronation Narrative](concepts/RetrospectiveCoronationNarrative.md) — Process by which later reign outcomes turn ceremonial details into omens, propaganda, and character judgments.
 
 ## Syntheses

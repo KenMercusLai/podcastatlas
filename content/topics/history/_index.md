@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2142
+topic_total_pages: 2143
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4710,6 +4710,9 @@ topic_sources:
   - key: "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008"
     title: "318: Hundred Years' War: A Game of Thrones (Part 1)"
     url: "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+  - key: "328-coronations-sex-holy-oil-and-civil-war-part-2-glt8165021855"
+    title: "328: Coronations: Sex, Holy Oil and Civil War (Part 2)"
+    url: "/wiki/sources/328-coronations-sex-holy-oil-and-civil-war-part-2-glt8165021855/"
   - key: "329-coronations-chaos-ceremony-and-empire-part-3-glt8755026279"
     title: "329: Coronations: Chaos, Ceremony and Empire (Part 3)"
     url: "/wiki/sources/329-coronations-chaos-ceremony-and-empire-part-3-glt8755026279/"
