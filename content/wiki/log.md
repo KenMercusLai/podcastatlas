@@ -24878,3 +24878,11 @@ Added source `320-hundred-years-war-the-black-prince-part-3-glt6004693022`; crea
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | VOL.37眼科｜你近视吗?眼睛保健操到底有用吗？｜为何我国闭角型青光眼发病概率大？
+
+Added source `vol-37-yanke-ni-jinshi-ma-yanjing-baojiancao-daodi-youyong-ma-weihe-woguo-bijiaoxing-qingguangyan-fabing-gailv-da-ltflr8s93wbkieqidme8ykjuznzp`; and updated `MaoChunjie`, `TianjinGeneralHospital`, `PediatricMyopiaControl`, `CycloplegicRefraction`, `GlaucomaScreeningAndAdherence`, `VisualSystemHealthToolkit`, and the canonical index from their complete bounded source sets. Core synthesis: age, anatomy, visual development, family risk, environment, and trauma exposure create different eye-care priorities; irreversible glaucoma and axial-myopia changes make early examination, accurate refraction, appropriate correction, protection, and progression control more realistic than restoration claims. No settled contradiction was adopted. Cataract prevalence, amblyopia timing, angle-closure population risk, steroid exposure, screening cadence, cycloplegic recovery, defocus mechanisms, eye-exercise benefit, and product performance remain source-scoped public education rather than individualized ophthalmology advice. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

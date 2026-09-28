@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.37眼科｜你近视吗?眼睛保健操到底有用吗？｜为何我国闭角型青光眼发病概率大？](sources/vol-37-yanke-ni-jinshi-ma-yanjing-baojiancao-daodi-youyong-ma-weihe-woguo-bijiaoxing-qingguangyan-fabing-gailv-da-ltflr8s93wbkieqidme8ykjuznzp.md) — 这病说来话长 episode on age-patterned eye risk, irreversible glaucoma loss, childhood refraction and myopia control, defocus spectacles, and trauma prevention.
 - [The Science of Healthy Hair, Hair Loss and How to Regrow Hair](sources/the-science-of-healthy-hair-hair-loss-and-how-to-regrow-hair-scim6579560756.md) — Huberman Lab solo episode on follicle biology, growth-cycle timing, minoxidil and microneedling, DHT suppression, adjunct evidence, and treatment-risk hierarchy.
 - [VOL.38眼科｜当代年轻人的这12个眼部问题你中了几个？](sources/vol-38-yanke-dangdai-nianqingren-de-zhe-12-ge-yanbu-wenti-ni-zhong-le-jige-lphaxiiov6oe9fii1zotrzxygyor.md) — 这病说来话长 episode on cause-based visual fatigue, contact-lens oxygen and wear, glaucoma context, screens and light, UV filtering, foreign bodies, and presbyopia fitting.
 - [322: East Germany: Life Behind the Iron Curtain](sources/322-east-germany-life-behind-the-iron-curtain-glt4069689977.md) — The Rest Is History episode on the GDR's coercive foundations, welfare and consumer bargain, everyday identity, 1989 reform movement, collapse, and social afterlife.
@@ -5884,8 +5885,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Patient SM](entities/PatientSM.md) — Amygdala-lesion research case used to distinguish fear perception, external-threat fear, and internal panic.
 - [这病说来话长 / Zhe Bing Shuo Lai Hua Chang](entities/ZheBingShuoLaiHuaChang.md) — Chinese medical-literacy podcast represented by medical imaging, liver health, oncology, orthopedics, outpatient diagnostic safety, urology, anesthesiology, otolaryngology, ophthalmology, rehabilitation, exercise safety, and consumer medical boundaries.
 - [梨花医生 / Lihua Speech Therapist](entities/LihuaSpeechTherapist.md) — Source-scoped speech therapist guest in VOL.34 and VOL.35 explaining dysphagia safety, functional articulation, pediatric language-delay early intervention, adult aphasia rhythm cueing, dysarthria boundaries, and long-term rehabilitation.
-- [毛春杰 / Mao Chunjie](entities/MaoChunjie.md) — Source-scoped ophthalmology guest covering fundus screening, dry eye, myopia and surgery boundaries, contact lenses, presbyopia, inherited retinal disease, color vision, and symptom triage.
-- [天津总医院 / Tianjin General Hospital](entities/TianjinGeneralHospital.md) — Source-scoped hospital affiliation named for Mao Chunjie in the VOL.36 and VOL.38 ophthalmology episodes.
+- [毛春杰 / Mao Chunjie](entities/MaoChunjie.md) — Source-scoped ophthalmology guest covering age-patterned eye risk, glaucoma, fundus screening, dry eye, myopia control and surgery boundaries, contact lenses, inherited retinal disease, and symptom triage.
+- [天津总医院 / Tianjin General Hospital](entities/TianjinGeneralHospital.md) — Source-scoped hospital affiliation named for Mao Chunjie in the VOL.36–38 ophthalmology series.
 - [董心彤 / Dong Xintong](entities/DongXintong.md) — Source-scoped anesthesiology guest explaining perioperative safety, awareness and sedation depth, obstetric anesthesia, recovery, anesthesia misconceptions, and pain-related sleep care.
 - [刘子明 / Liu Ziming (sports medicine doctor)](entities/LiuZimingSportsMedicine.md) — Source-scoped 北医三院 sports-medicine doctor explaining safe exercise, lower-limb joint protection, progressive training, support-device boundaries, and symptom escalation.
 - [Peking University Third Hospital / 北医三院](entities/PekingUniversityThirdHospital.md) — Source-scoped institutional context for 这病说来话长 sports-medicine, orthopedic, and emergency-care guests explaining safe exercise, injury prevention, first-aid judgment, and trauma escalation.
@@ -23186,7 +23187,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Imperial Constitutional Mismatch](concepts/ImperialConstitutionalMismatch.md) — Conflict between parliamentary sovereignty and colonial expectations of consent, self-taxation, and practical self-government.
 - [Postwar Imperial Fiscal-Security Bind](concepts/PostwarImperialFiscalSecurityBind.md) — Mechanism joining military victory, enlarged security costs, revenue enforcement, and declining political consent.
-- [Glaucoma Screening and Treatment Adherence](concepts/GlaucomaScreeningAndAdherence.md) — Silent-disease framework joining early optic-nerve assessment, durable pressure reduction, adherence, and adjunct boundaries.
+- [Glaucoma Screening and Treatment Adherence](concepts/GlaucomaScreeningAndAdherence.md) — Framework joining silent and acute presentations, anatomy and exposure risk, early optic-nerve assessment, durable pressure reduction, and adherence.
 - [Contact-Lens Safety](concepts/ContactLensSafety.md) — Balance between optical benefit and oxygen, tear-film, infection, overnight-wear, hygiene, and age-related tolerance risks.
 
 - [Biblical Covenant](concepts/BiblicalCovenant.md) — Framework joining divine relationship, law, protection, obligation, punishment, and peoplehood through the tablets associated with the Ark.
