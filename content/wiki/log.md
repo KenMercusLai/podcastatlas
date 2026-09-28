@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-28] ingest | VOL.43心血管内科｜帮你分清高血压及高血压病、如何准确测量和用药误区
+
+Added source `vol-43-xinxueguan-neike-bang-ni-fenqing-gaoxueya-ji-gaoxueyabing-ruhe-zhunque-celiang-he-yongyao-wuqu-nlpxlwbgg0fb8lfosi_5ysestz8k`; updated `WengJiayiCardiology`, `HypertensionDiagnosisAndTargets`, `HomeBloodPressureMeasurement`, `AntihypertensiveMedicationAdherence`, `HypertensionLongTermManagement`, `HypertensionTargetOrganDamage`, `CardiovascularExerciseRiskBoundary`, and the canonical index from their complete bounded source sets. Core synthesis: hypertension in younger adults can be asymptomatic, diastolic-predominant, secondary, or metabolically clustered; reliable care joins standardized measurement, individualized and safely managed medication, gradual exercise, lifestyle support, follow-up, and target-organ prevention rather than fixation on one number. No settled contradiction was adopted. The supplied episodes' 翁家毅/翁嘉义 spelling difference remains unresolved, and thresholds, risk figures, medicine onset, potassium replacement, exercise response, and seasonal effects remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-28] ingest | How Psilocybin Can Rewire Our Brain, Its Therapeutic Benefits & Its Risks
 
 Added source `how-psilocybin-can-rewire-our-brain-its-therapeutic-benefits-its-risks-scim8168511614`; updated `PsilocybinMushrooms`, `PsychedelicTherapyMechanism`, `PsychedelicIntegration`, `PsychedelicClinicalSupervisionBoundary`, `Neuroplasticity`, and the canonical index from their complete bounded source sets. Core synthesis: psilocybin is presented as a combined pharmacological, network, subjective, relational, and learning intervention in which plasticity is useful only when it becomes adaptive through screening, structured context, support, and follow-up. No settled contradiction was adopted. Receptor localization, thalamic gating, dendritic-spine findings, music effects, responder predictors, depression outcomes, dose comparisons, adverse events, and legal status remain source-scoped or historically bounded rather than individualized medical or legal guidance. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -24686,6 +24690,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-28] ingest | 327: Coronations: The Deep History (Part 1)
 
 Added source `327-coronations-the-deep-history-part-1-glt4746607803`; created `Dunstan`, `StoneOfScone`, and `RoyalAnointingTradition`; and updated `BritishCoronationRitual`, `EdgarThePeaceful`, `Athelstan`, `CharlesIII`, `ElizabethII`, and the canonical index from their complete bounded source sets. Core synthesis: British coronation is a layered inheritance joining older territorial and martial inauguration, Anglo-Saxon state-building, Roman and Carolingian form, biblical consecration, oath-bound service, and politically charged objects and places. No settled contradiction was adopted. Pre-Christian practices, direct ritual transmission, disputed artifact origins, early-anointing priority, Near Eastern influence, and modern public reception remain uncertain or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten because this episode deepens the existing coronation branch without changing the wiki-wide synthesis.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-28] lint | Wiki health check
 

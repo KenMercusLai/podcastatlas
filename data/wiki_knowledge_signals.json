@@ -11569,9 +11569,9 @@
       "url": "/wiki/concepts/anticoagulationselfmedicationboundary/"
     },
     "AntihypertensiveMedicationAdherence": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lioWkHcJC8q3OgxagQsfib14oydY [lioWkHcJC8q3OgxagQsfib14oydY].md",
@@ -11586,9 +11586,16 @@
           "show": "这病说来话长",
           "title": "VOL.114心内科｜不就是高血压么？你别吓唬我了！不量血压就不高 长期吃药没必要？",
           "url": "/wiki/sources/vol-114-xinneike-bujiushi-gaoxueya-me-ni-bie-xiahu-wo-le-bu-liang-xueya-jiu-bu-gao-changqi-chiyao-mei-biyao-lr7xq6xsfudvmhy9ucz29yitcex1/"
+        },
+        {
+          "episode_file": "nlPXLwbgG0Fb8lfosi_5ysEstZ8K [nlPXLwbgG0Fb8lfosi_5ysEstZ8K].md",
+          "key": "vol-43-xinxueguan-neike-bang-ni-fenqing-gaoxueya-ji-gaoxueyabing-ruhe-zhunque-celiang-he-yongyao-wuqu-nlpxlwbgg0fb8lfosi_5ysestz8k",
+          "show": "这病说来话长",
+          "title": "VOL.43心血管内科｜帮你分清高血压及高血压病、如何准确测量和用药误区",
+          "url": "/wiki/sources/vol-43-xinxueguan-neike-bang-ni-fenqing-gaoxueya-ji-gaoxueyabing-ruhe-zhunque-celiang-he-yongyao-wuqu-nlpxlwbgg0fb8lfosi_5ysestz8k/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/antihypertensivemedicationadherence/"
     },
     "AntimicrobialResistance": {
@@ -24604,9 +24611,9 @@
       "url": "/wiki/concepts/cardiovascularbrainhealthlink/"
     },
     "CardiovascularExerciseRiskBoundary": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lsP1XlzQ1IApC-QAlE-mZuTIgv0U [lsP1XlzQ1IApC-QAlE-mZuTIgv0U].md",
@@ -24621,9 +24628,16 @@
           "show": "这病说来话长",
           "title": "VOL.51四科室医生会诊｜拒绝恐惧和焦虑 正确理性面对“二阳”才是正经事",
           "url": "/wiki/sources/vol-51-sikeshi-yisheng-huizhen-jujue-kongju-he-jiaolv-zhengque-lixing-miandui-eryang-caishi-zhengjingshi-lqzw5tta44mvu60jg-hrmxsak8ko/"
+        },
+        {
+          "episode_file": "nlPXLwbgG0Fb8lfosi_5ysEstZ8K [nlPXLwbgG0Fb8lfosi_5ysEstZ8K].md",
+          "key": "vol-43-xinxueguan-neike-bang-ni-fenqing-gaoxueya-ji-gaoxueyabing-ruhe-zhunque-celiang-he-yongyao-wuqu-nlpxlwbgg0fb8lfosi_5ysestz8k",
+          "show": "这病说来话长",
+          "title": "VOL.43心血管内科｜帮你分清高血压及高血压病、如何准确测量和用药误区",
+          "url": "/wiki/sources/vol-43-xinxueguan-neike-bang-ni-fenqing-gaoxueya-ji-gaoxueyabing-ruhe-zhunque-celiang-he-yongyao-wuqu-nlpxlwbgg0fb8lfosi_5ysestz8k/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/cardiovascularexerciseriskboundary/"
     },
     "CareSocialization": {
@@ -76261,9 +76275,9 @@
       "url": "/wiki/entities/holyromanempire/"
     },
     "HomeBloodPressureMeasurement": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lioWkHcJC8q3OgxagQsfib14oydY [lioWkHcJC8q3OgxagQsfib14oydY].md",
@@ -76278,9 +76292,16 @@
           "show": "这病说来话长",
           "title": "VOL.114心内科｜不就是高血压么？你别吓唬我了！不量血压就不高 长期吃药没必要？",
           "url": "/wiki/sources/vol-114-xinneike-bujiushi-gaoxueya-me-ni-bie-xiahu-wo-le-bu-liang-xueya-jiu-bu-gao-changqi-chiyao-mei-biyao-lr7xq6xsfudvmhy9ucz29yitcex1/"
+        },
+        {
+          "episode_file": "nlPXLwbgG0Fb8lfosi_5ysEstZ8K [nlPXLwbgG0Fb8lfosi_5ysEstZ8K].md",
+          "key": "vol-43-xinxueguan-neike-bang-ni-fenqing-gaoxueya-ji-gaoxueyabing-ruhe-zhunque-celiang-he-yongyao-wuqu-nlpxlwbgg0fb8lfosi_5ysestz8k",
+          "show": "这病说来话长",
+          "title": "VOL.43心血管内科｜帮你分清高血压及高血压病、如何准确测量和用药误区",
+          "url": "/wiki/sources/vol-43-xinxueguan-neike-bang-ni-fenqing-gaoxueya-ji-gaoxueyabing-ruhe-zhunque-celiang-he-yongyao-wuqu-nlpxlwbgg0fb8lfosi_5ysestz8k/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/homebloodpressuremeasurement/"
     },
     "HomeDepot": {
@@ -80914,9 +80935,9 @@
       "url": "/wiki/concepts/hyperscaledatacentermoratorium/"
     },
     "HypertensionDiagnosisAndTargets": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lr7xQ6XSFUDvMHY9UCz29YITCEX1 [lr7xQ6XSFUDvMHY9UCz29YITCEX1].md",
@@ -80924,15 +80945,22 @@
           "show": "这病说来话长",
           "title": "VOL.114心内科｜不就是高血压么？你别吓唬我了！不量血压就不高 长期吃药没必要？",
           "url": "/wiki/sources/vol-114-xinneike-bujiushi-gaoxueya-me-ni-bie-xiahu-wo-le-bu-liang-xueya-jiu-bu-gao-changqi-chiyao-mei-biyao-lr7xq6xsfudvmhy9ucz29yitcex1/"
+        },
+        {
+          "episode_file": "nlPXLwbgG0Fb8lfosi_5ysEstZ8K [nlPXLwbgG0Fb8lfosi_5ysEstZ8K].md",
+          "key": "vol-43-xinxueguan-neike-bang-ni-fenqing-gaoxueya-ji-gaoxueyabing-ruhe-zhunque-celiang-he-yongyao-wuqu-nlpxlwbgg0fb8lfosi_5ysestz8k",
+          "show": "这病说来话长",
+          "title": "VOL.43心血管内科｜帮你分清高血压及高血压病、如何准确测量和用药误区",
+          "url": "/wiki/sources/vol-43-xinxueguan-neike-bang-ni-fenqing-gaoxueya-ji-gaoxueyabing-ruhe-zhunque-celiang-he-yongyao-wuqu-nlpxlwbgg0fb8lfosi_5ysestz8k/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/hypertensiondiagnosisandtargets/"
     },
     "HypertensionLongTermManagement": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "lioWkHcJC8q3OgxagQsfib14oydY [lioWkHcJC8q3OgxagQsfib14oydY].md",
@@ -80961,15 +80989,22 @@
           "show": "这病说来话长",
           "title": "VOL.114心内科｜不就是高血压么？你别吓唬我了！不量血压就不高 长期吃药没必要？",
           "url": "/wiki/sources/vol-114-xinneike-bujiushi-gaoxueya-me-ni-bie-xiahu-wo-le-bu-liang-xueya-jiu-bu-gao-changqi-chiyao-mei-biyao-lr7xq6xsfudvmhy9ucz29yitcex1/"
+        },
+        {
+          "episode_file": "nlPXLwbgG0Fb8lfosi_5ysEstZ8K [nlPXLwbgG0Fb8lfosi_5ysEstZ8K].md",
+          "key": "vol-43-xinxueguan-neike-bang-ni-fenqing-gaoxueya-ji-gaoxueyabing-ruhe-zhunque-celiang-he-yongyao-wuqu-nlpxlwbgg0fb8lfosi_5ysestz8k",
+          "show": "这病说来话长",
+          "title": "VOL.43心血管内科｜帮你分清高血压及高血压病、如何准确测量和用药误区",
+          "url": "/wiki/sources/vol-43-xinxueguan-neike-bang-ni-fenqing-gaoxueya-ji-gaoxueyabing-ruhe-zhunque-celiang-he-yongyao-wuqu-nlpxlwbgg0fb8lfosi_5ysestz8k/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/hypertensionlongtermmanagement/"
     },
     "HypertensionTargetOrganDamage": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "lioWkHcJC8q3OgxagQsfib14oydY [lioWkHcJC8q3OgxagQsfib14oydY].md",
@@ -80998,6 +81033,13 @@
           "show": "这病说来话长",
           "title": "VOL.66心脏外科｜从挂号到就医 从吃药到手术 安贞医生给你的实用贴士",
           "url": "/wiki/sources/vol-66-xinzang-waike-cong-guahao-dao-jiuyi-cong-chiyao-dao-shoushu-anzhen-yisheng-gei-ni-de-shiyong-tieshi-lnnmiealbw5s886_m4y8yjj3mja_/"
+        },
+        {
+          "episode_file": "nlPXLwbgG0Fb8lfosi_5ysEstZ8K [nlPXLwbgG0Fb8lfosi_5ysEstZ8K].md",
+          "key": "vol-43-xinxueguan-neike-bang-ni-fenqing-gaoxueya-ji-gaoxueyabing-ruhe-zhunque-celiang-he-yongyao-wuqu-nlpxlwbgg0fb8lfosi_5ysestz8k",
+          "show": "这病说来话长",
+          "title": "VOL.43心血管内科｜帮你分清高血压及高血压病、如何准确测量和用药误区",
+          "url": "/wiki/sources/vol-43-xinxueguan-neike-bang-ni-fenqing-gaoxueya-ji-gaoxueyabing-ruhe-zhunque-celiang-he-yongyao-wuqu-nlpxlwbgg0fb8lfosi_5ysestz8k/"
         }
       ],
       "updated": "2026-09-28",
@@ -172591,9 +172633,9 @@
       "url": "/wiki/entities/wendys/"
     },
     "WengJiayiCardiology": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ll6i050qnIR6OT6TYlDl8meaXJDr [ll6i050qnIR6OT6TYlDl8meaXJDr].md",
@@ -172601,9 +172643,16 @@
           "show": "这病说来话长",
           "title": "VOL.116别看你今天笑得欢，当心乐极生悲“笑不活” X 玲珑塔门市部 X 天津师大校广",
           "url": "/wiki/sources/vol-116-bie-kan-ni-jintian-xiao-de-huan-dangxin-leji-shengbei-xiao-bu-huo-x-linglongta-menshibu-x-tianjin-shida-xiaoguang-ll6i050qnir6ot6tyldl8meaxjdr/"
+        },
+        {
+          "episode_file": "nlPXLwbgG0Fb8lfosi_5ysEstZ8K [nlPXLwbgG0Fb8lfosi_5ysEstZ8K].md",
+          "key": "vol-43-xinxueguan-neike-bang-ni-fenqing-gaoxueya-ji-gaoxueyabing-ruhe-zhunque-celiang-he-yongyao-wuqu-nlpxlwbgg0fb8lfosi_5ysestz8k",
+          "show": "这病说来话长",
+          "title": "VOL.43心血管内科｜帮你分清高血压及高血压病、如何准确测量和用药误区",
+          "url": "/wiki/sources/vol-43-xinxueguan-neike-bang-ni-fenqing-gaoxueya-ji-gaoxueyabing-ruhe-zhunque-celiang-he-yongyao-wuqu-nlpxlwbgg0fb8lfosi_5ysestz8k/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/wengjiayicardiology/"
     },
     "WengYiming": {
