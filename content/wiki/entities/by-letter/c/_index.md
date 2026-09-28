@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 11319
+wiki_total_pages: 11323
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -59,6 +59,9 @@ wiki_pages:
   - key: "CalNewport"
     title: "Cal Newport"
     url: "/wiki/entities/calnewport/"
+  - key: "Calais"
+    title: "Calais"
+    url: "/wiki/entities/calais/"
   - key: "CALB"
     title: "CALB / 中创新航"
     url: "/wiki/entities/calb/"

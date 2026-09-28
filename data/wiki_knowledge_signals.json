@@ -16881,6 +16881,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/battleofcablestreet/"
     },
+    "BattleOfCrecy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3100937638 [GLT3100937638].md",
+          "key": "319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638",
+          "show": "The Rest Is History",
+          "title": "319: Hundred Years' War: Triumph of the Longbow (Part 2)",
+          "url": "/wiki/sources/319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/battleofcrecy/"
+    },
     "BattleOfHastings": {
       "episode_count": 1,
       "show_count": 1,
@@ -17100,6 +17116,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/battleofshrewsbury/"
+    },
+    "BattleOfSluys": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3100937638 [GLT3100937638].md",
+          "key": "319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638",
+          "show": "The Rest Is History",
+          "title": "319: Hundred Years' War: Triumph of the Longbow (Part 2)",
+          "url": "/wiki/sources/319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/battleofsluys/"
     },
     "BattleOfStamfordBridge": {
       "episode_count": 2,
@@ -22639,6 +22671,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/entities/calnewport/"
     },
+    "Calais": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3100937638 [GLT3100937638].md",
+          "key": "319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638",
+          "show": "The Rest Is History",
+          "title": "319: Hundred Years' War: Triumph of the Longbow (Part 2)",
+          "url": "/wiki/sources/319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/calais/"
+    },
     "CalibratedNegotiationQuestions": {
       "episode_count": 1,
       "show_count": 1,
@@ -23016,9 +23064,9 @@
       "url": "/wiki/concepts/campaignfinanceaccessincentive/"
     },
     "CampaignLogisticsBattlefieldSelection": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2110427983 [GLT2110427983].md",
@@ -23026,9 +23074,16 @@
           "show": "The Rest Is History",
           "title": "488. Hundred Years' War: The Road to Agincourt (Part 2)",
           "url": "/wiki/sources/488-hundred-years-war-the-road-to-agincourt-part-2-glt2110427983/"
+        },
+        {
+          "episode_file": "GLT3100937638 [GLT3100937638].md",
+          "key": "319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638",
+          "show": "The Rest Is History",
+          "title": "319: Hundred Years' War: Triumph of the Longbow (Part 2)",
+          "url": "/wiki/sources/319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/campaignlogisticsbattlefieldselection/"
     },
     "CampaignSpendingArmsRace": {
@@ -28636,9 +28691,9 @@
       "url": "/wiki/entities/chesterwilliams/"
     },
     "Chevauchee": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6004693022 [GLT6004693022].md",
@@ -28646,6 +28701,13 @@
           "show": "The Rest Is History",
           "title": "320: Hundred Years' War: The Black Prince (Part 3)",
           "url": "/wiki/sources/320-hundred-years-war-the-black-prince-part-3-glt6004693022/"
+        },
+        {
+          "episode_file": "GLT3100937638 [GLT3100937638].md",
+          "key": "319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638",
+          "show": "The Rest Is History",
+          "title": "319: Hundred Years' War: Triumph of the Longbow (Part 2)",
+          "url": "/wiki/sources/319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638/"
         }
       ],
       "updated": "2026-09-29",
@@ -48038,9 +48100,9 @@
       "url": "/wiki/entities/edwardheath/"
     },
     "EdwardIIIOfEngland": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT5584156008 [GLT5584156008].md",
@@ -48069,6 +48131,13 @@
           "show": "The Rest Is History",
           "title": "320: Hundred Years' War: The Black Prince (Part 3)",
           "url": "/wiki/sources/320-hundred-years-war-the-black-prince-part-3-glt6004693022/"
+        },
+        {
+          "episode_file": "GLT3100937638 [GLT3100937638].md",
+          "key": "319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638",
+          "show": "The Rest Is History",
+          "title": "319: Hundred Years' War: Triumph of the Longbow (Part 2)",
+          "url": "/wiki/sources/319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638/"
         }
       ],
       "updated": "2026-09-29",
@@ -48185,9 +48254,9 @@
       "url": "/wiki/entities/edwardteller/"
     },
     "EdwardTheBlackPrince": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT1570526345 [GLT1570526345].md",
@@ -48202,6 +48271,13 @@
           "show": "The Rest Is History",
           "title": "320: Hundred Years' War: The Black Prince (Part 3)",
           "url": "/wiki/sources/320-hundred-years-war-the-black-prince-part-3-glt6004693022/"
+        },
+        {
+          "episode_file": "GLT3100937638 [GLT3100937638].md",
+          "key": "319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638",
+          "show": "The Rest Is History",
+          "title": "319: Hundred Years' War: Triumph of the Longbow (Part 2)",
+          "url": "/wiki/sources/319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638/"
         }
       ],
       "updated": "2026-09-29",
@@ -60142,6 +60218,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/fixedcampsiegeengineering/"
+    },
+    "Flanders": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3100937638 [GLT3100937638].md",
+          "key": "319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638",
+          "show": "The Rest Is History",
+          "title": "319: Hundred Years' War: Triumph of the Longbow (Part 2)",
+          "url": "/wiki/sources/319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/flanders/"
     },
     "FlashmanOnTheMarch": {
       "episode_count": 1,
@@ -81482,9 +81574,9 @@
       "url": "/wiki/concepts/hundredschoolssynthesis/"
     },
     "HundredYearsWar": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "GLT5584156008 [GLT5584156008].md",
@@ -81534,6 +81626,13 @@
           "show": "The Rest Is History",
           "title": "320: Hundred Years' War: The Black Prince (Part 3)",
           "url": "/wiki/sources/320-hundred-years-war-the-black-prince-part-3-glt6004693022/"
+        },
+        {
+          "episode_file": "GLT3100937638 [GLT3100937638].md",
+          "key": "319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638",
+          "show": "The Rest Is History",
+          "title": "319: Hundred Years' War: Triumph of the Longbow (Part 2)",
+          "url": "/wiki/sources/319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638/"
         }
       ],
       "updated": "2026-09-29",
@@ -129099,9 +129198,9 @@
       "url": "/wiki/entities/philipthegood/"
     },
     "PhilipVIOfFrance": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5584156008 [GLT5584156008].md",
@@ -129109,9 +129208,16 @@
           "show": "The Rest Is History",
           "title": "318: Hundred Years' War: A Game of Thrones (Part 1)",
           "url": "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+        },
+        {
+          "episode_file": "GLT3100937638 [GLT3100937638].md",
+          "key": "319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638",
+          "show": "The Rest Is History",
+          "title": "319: Hundred Years' War: Triumph of the Longbow (Part 2)",
+          "url": "/wiki/sources/319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638/"
         }
       ],
-      "updated": "2026-09-04",
+      "updated": "2026-09-29",
       "url": "/wiki/entities/philipvioffrance/"
     },
     "Philippines": {
@@ -162253,9 +162359,9 @@
       "url": "/wiki/concepts/terrainboundtransportevolution/"
     },
     "TerrainConstrainedCombinedArms": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5834061192 [GLT5834061192].md",
@@ -162263,9 +162369,16 @@
           "show": "The Rest Is History",
           "title": "489. Hundred Years' War: Bloodbath at Agincourt (Part 3)",
           "url": "/wiki/sources/489-hundred-years-war-bloodbath-at-agincourt-part-3-glt5834061192/"
+        },
+        {
+          "episode_file": "GLT3100937638 [GLT3100937638].md",
+          "key": "319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638",
+          "show": "The Rest Is History",
+          "title": "319: Hundred Years' War: Triumph of the Longbow (Part 2)",
+          "url": "/wiki/sources/319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/terrainconstrainedcombinedarms/"
     },
     "TerrorRuleBackfire": {

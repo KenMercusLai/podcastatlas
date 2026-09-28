@@ -7,6 +7,7 @@ sources:
   - 462-st-george-dragon-slayer-glt5334319363
   - 321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345
   - 320-hundred-years-war-the-black-prince-part-3-glt6004693022
+  - 319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638
 last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
@@ -23,6 +24,10 @@ The source presents Edward as energetic, tournament-minded, and initially pragma
 
 Edward's war path emerges through linked constraints. He rejects the humiliation of [[Gascony]]'s vassal status, reverses the 1328 Scottish settlement, wins at [[HallidonHill|Hallidon Hill]], and then faces French defense of Scottish rights through the [[FrancoScottishAlliance|Franco-Scottish alliance]]. After [[PhilipVIOfFrance|Philip VI]] confiscates [[Aquitaine]] in 1337, Edward secures parliamentary backing and issues a manifesto that frames the dispute as a broader English cause.
 
+The 1340-1347 evidence shows how he tried to fight from material weakness. A wool embargo pressured [[Flanders]], while the French crown claim helped Flemish cities reconcile support for Edward with their existing oaths. Heavy borrowing made attrition dangerous, so [[BattleOfSluys|Sluys]] supplied the spectacular Channel victory his strategy needed without curing its fiscal strain.
+
+In 1346 Edward carried the war through Normandy by [[Chevauchee|chevauchée]], river crossings, and deliberate battlefield selection. At [[BattleOfCrecy|Crécy]], prepared ground, archers, obstacles, reserves, field cannon, and French disorder produced victory. The subsequent siege of [[Calais]] shows a different capacity: sustained shipping, supply, settlement, privilege, and garrisoning converted tactical success into a lasting bridgehead, although expulsion made that conversion coercive.
+
 The George episode adds Edward's symbolic statecraft. By founding the [[OrderOfTheGarter]] on St George's feast and placing the armored saint on the order's seal, he joined monarchy, chivalry, military patronage, and the saint's red-cross imagery in a durable English institution. The newer source places that institution inside an Arthurian court program: Windsor becomes a new Camelot, while the Garter's membership and motto turn Crécy-era victory into a claim of honorable and divinely favored kingship.
 
 The Poitiers prehistory also sharpens Edward's war aims. His French crown claim is presented as leverage for sovereign territorial possession rather than an initially literal plan to govern all France. He exploits [[CharlesTheBad|Charles the Bad's]] promises and French factionalism, while his son conducts a destructive [[Chevauchee|chevauchée]] and wins at [[BattleOfPoitiers|Poitiers]].
@@ -31,13 +36,13 @@ The later source shows the limit of Edward's war system. John II's captivity and
 
 ## Key Characteristics
 
-- Presented as initially cautious rather than rushing into war over succession.
-- Uses a 1330 coup against Mortimer to take direct control.
-- Pursues Scottish policy and resists Gascon homage constraints in ways that activate French treaty commitments and forfeiture pressure.
-- Converts dynastic and territorial grievance into parliamentary and public mobilization.
-- Uses Arthur, St George, Windsor, and the Order of the Garter to institutionalize chivalric and royal symbolism.
-- Uses crown claims, French factionalism, raids, captivity, and Poitiers-era leverage to seek sovereign territory.
-- Converts that leverage into the large but unstable Brétigny settlement without securing lasting French territorial control.
+- Pragmatic claimant who converts dynastic and territorial grievance into parliamentary, economic, and public mobilization.
+- Ruler whose wool embargo, alliances, borrowing, and naval victory try to compensate for England's smaller resource base.
+- Commander using chevauchée, crossings, prepared positions, archery, and reserves to force or exploit decisive battle.
+- King able to sustain the shipping, administration, settlement, and garrison required to hold Calais.
+- Chivalric image-maker using Arthur, St George, Windsor, fellowship, and the Order of the Garter.
+- Negotiator using crown claims, factionalism, raids, captivity, and battlefield leverage to seek sovereign territory.
+- Victorious but ultimately unable to make Brétigny and England's wider French gains durable.
 
 ## Evidence
 
@@ -46,6 +51,10 @@ The later source shows the limit of Edward's war system. John II's captivity and
 - Scottish escalation: [[318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008]] links Edward's Balliol policy and Hallidon Hill victory to David II's French refuge and Philip VI's treaty pressure.
 - Gascon grievance: [[318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008]] presents Aquitaine's confiscation as the effective declaration of war.
 - National framing: [[318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008]] says Edward goes to Parliament and issues an August 1337 manifesto against Philip.
+- Flanders and finance: [[319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638]] connects wool pressure, Flemish alignment, Italian and urban credit, and parliamentary resentment to Edward's need for victory.
+- Maritime success: [[319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638]] links Edward's personal attack at Sluys to archers, boarding troops, Flemish support, Channel security, and restored prestige.
+- Campaign command: [[319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638]] connects the Normandy chevauchée, repaired crossings, chosen ground, and prepared Crécy position to victory.
+- Territorial conversion: [[319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638]] makes Calais a product of siege supply, coercive surrender, resettlement, privileges, and garrisoning.
 - Garter patronage: [[462-st-george-dragon-slayer-glt5334319363]] dates Edward's foundation of the order to St George's feast in 1344 and describes its first seal as the king kneeling before the armored saint.
 - Arthurian kingship: [[320-hundred-years-war-the-black-prince-part-3-glt6004693022]] links Windsor, Camelot, Garter membership, and the motto to Edward's victorious royal image.
 - War aims and leverage: [[320-hundred-years-war-the-black-prince-part-3-glt6004693022]] frames the crown claim as bargaining theater for sovereign possessions and connects French factionalism to English operations.
@@ -54,14 +63,14 @@ The later source shows the limit of Edward's war system. John II's captivity and
 
 ## Qualifications
 
-This profile remains selective. The source set does not supply a continuous account of Edward's campaigns, longbow use, naval strategy, government, or diplomacy. The post-Poitiers narrative compresses treaty implementation and French reconquest. The Garter chronology is unresolved: one source gives 1344 and the newer episode gives St George's Day 1349.
+This profile remains selective rather than a continuous reign history. The operational claims about longbow performance, army and fleet numbers, casualties, speeches, and the Black Prince's badge remain source-scoped, and the Calais chronology is internally inconsistent. The post-Poitiers narrative compresses treaty implementation and French reconquest. The Garter chronology is unresolved: one source gives 1344 and another gives St George's Day 1349.
 
 ## What Changed
 
-- Added the Arthurian Windsor and Garter program behind Edward's chivalric kingship.
-- Clarified the French crown claim as leverage for sovereign territorial concessions in this source's account.
-- Added the role of French factionalism, chevauchée, and Poitiers in creating Edward's bargaining dominance.
-- Preserved the unresolved 1344/1349 Garter foundation chronology.
+- Added wool pressure, Flemish alignment, borrowing, and Sluys to the explanation of Edward's opening strategy.
+- Added the Normandy chevauchée, river crossings, battlefield selection, and prepared victory at Crécy.
+- Added Calais as evidence that Edward could convert one victory into a supplied and garrisoned foothold.
+- Qualified the heroic image with fiscal fragility, civilian destruction, expulsion, and source-level tactical uncertainty.
 
 ## Relationships
 
@@ -74,6 +83,10 @@ This profile remains selective. The source set does not supply a continuous acco
 - [[RogerMortimer]] - regency power Edward overthrows before independent rule.
 - [[Gascony]] - continental possession whose legal vulnerability pressures Edward.
 - [[HallidonHill]] - Scottish victory that escalates the Franco-Scottish dimension.
+- [[Flanders]] - region Edward pressures through wool and recruits through his French claim.
+- [[BattleOfSluys]] - naval victory that secures prestige and Channel access.
+- [[BattleOfCrecy]] - prepared-position victory in Edward's 1346 campaign.
+- [[Calais]] - fortified port Edward captures, resettles, and garrisons.
 - [[DynasticClaimNationalMobilization]] - pattern embodied by Edward's 1337 political framing.
 - [[StGeorge]] - saint Edward made central to English royal chivalric patronage.
 - [[OrderOfTheGarter]] - order through which Edward institutionalized that patronage.

@@ -5,6 +5,7 @@ tags: [person, prince, england, aquitaine, medieval-history]
 sources:
   - 321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345
   - 320-hundred-years-war-the-black-prince-part-3-glt6004693022
+  - 319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638
 last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
@@ -17,7 +18,9 @@ Edward the Black Prince is the English prince whose victories at Crécy and [[Ba
 
 ## Current Profile
 
-The earlier source presents the prince as already the most famous knight in Christendom after standing with [[JohnChandos|John Chandos]] at Crécy and joining the [[OrderOfTheGarter]]. His reputation joins elite courtesy and military terror: the 1355 [[Chevauchee|chevauchée]] from Bordeaux extracts loot and ransom and devastates civilian settlements, while the following campaign ends with his trapped army capturing [[JohnIIOfFrance|John II]] at Poitiers.
+The earliest source follows the 16-year-old prince into [[BattleOfCrecy|Crécy]] after [[EdwardIIIOfEngland|Edward III]] knights him on landing in Normandy. He commands the forward English division, comes under pressure, and becomes the center of a reported “win his spurs” refusal of reinforcement. The later source presents him as already the most famous knight in Christendom after standing with [[JohnChandos|John Chandos]] at Crécy and joining the [[OrderOfTheGarter]].
+
+His reputation joins elite courtesy and military terror. The 1355 [[Chevauchee|chevauchée]] from Bordeaux extracts loot and ransom and devastates civilian settlements, while the following campaign ends with his trapped army capturing [[JohnIIOfFrance|John II]] at Poitiers.
 
 At Poitiers, weakness becomes opportunity. The prince is exhausted, short of food and water, and unable to join Lancaster across the Loire. Archery disrupts mounted attack, French lines lose coordination, and an English-Gascon flanking counterstroke turns defensive survival into a decisive victory.
 
@@ -27,7 +30,7 @@ His 1366 Castilian campaign brings military victory but also illness and debt af
 
 ## Key Characteristics
 
-- Celebrated English commander and heir formed by Crécy and Poitiers-era glory.
+- Royal heir knighted on campaign whose exposed forward command at Crécy becomes part of his heroic legend.
 - Chivalric celebrity whose reputation coexists with destructive raiding.
 - Duke maintaining a rich chivalric court in damaged Aquitaine.
 - Heavy taxer whose fiscal demands weaken political allegiance.
@@ -38,6 +41,7 @@ His 1366 Castilian campaign brings military victory but also illness and debt af
 ## Evidence
 
 - Reputation and retinue: [[320-hundred-years-war-the-black-prince-part-3-glt6004693022]] links the prince's fame to Crécy, the Garter, and Chandos's advice.
+- Crécy formation: [[319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638]] connects his knighting, forward command, battlefield pressure, and father's reported refusal of reinforcements to the making of his legend.
 - Raid and civilian harm: [[320-hundred-years-war-the-black-prince-part-3-glt6004693022]] describes the 1355 chevauchée's loot, ransom, settlement destruction, and strategic shock.
 - Poitiers reversal: [[320-hundred-years-war-the-black-prince-part-3-glt6004693022]] connects logistical weakness, archery, French confusion, and flanking attacks to John II's capture.
 - Court and territory: [[321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345]] contrasts the prince's magnificent court with ravaged lands and free companies.
@@ -48,17 +52,17 @@ His 1366 Castilian campaign brings military victory but also illness and debt af
 
 ## Qualifications
 
-This profile relies on two popular-history narratives, not a full biography or campaign history. The origin of the name "Black Prince," destruction and force totals, tactical attribution at Poitiers, tax burdens, the Castilian bargain, Limoges casualties, illness, and the causes of Aquitanian disaffection remain source-scoped.
+This profile relies on three popular-history narratives, not a full biography or campaign history. The reported Crécy exchange, the ostrich-feather badge story, the origin of the name "Black Prince," destruction and force totals, tactical attribution at Poitiers, tax burdens, the Castilian bargain, Limoges casualties, illness, and the causes of Aquitanian disaffection remain source-scoped.
 
 ## What Changed
 
-- Added the Crécy reputation, Chandos partnership, and Garter setting behind the prince's early prestige.
-- Added the 1355 chevauchée's strategic success and civilian destruction.
-- Added the constrained campaign and combined tactical reversal at Poitiers.
+- Added the prince's knighting, forward command, battlefield pressure, and reported “win his spurs” episode at Crécy.
+- Grounded the later Crécy reputation in the preceding campaign narrative while preserving the heroic details as source-scoped.
 
 ## Relationships
 
 - [[EdwardIIIOfEngland]] - father whose treaty gains the prince is expected to govern.
+- [[BattleOfCrecy]] - victory that establishes the prince's first major chivalric reputation.
 - [[JohnChandos]] - friend and adviser associated with his early victories.
 - [[BattleOfPoitiers]] - battle that establishes his greatest captive and diplomatic leverage.
 - [[Chevauchee]] - destructive raid method central to his 1355 campaign.

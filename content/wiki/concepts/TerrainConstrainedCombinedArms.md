@@ -4,7 +4,8 @@ type: concept
 tags: [warfare, tactics, terrain, command, medieval-history]
 sources:
   - 489-hundred-years-war-bloodbath-at-agincourt-part-3-glt5834061192
-last_updated: 2026-09-23
+  - 319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638
+last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
 
@@ -15,6 +16,8 @@ knowledge_schema: synthesis-v1
 Terrain-constrained combined arms is the interaction by which ground, frontage, weather, obstacles, troop types, timing, and command structure determine whether a nominally coherent battle plan can function.
 
 ## Current Synthesis
+
+At [[BattleOfCrecy|Crécy]], [[EdwardIIIOfEngland|Edward III]] chose defensible ground, arranged divisions and reserves, placed archers and field cannon on the wings, and used trenches, spikes, and wagons. Rain, missing shields, missile range, French attacks through retreating Genoese crossbowmen, and repeated cavalry pressure compounded one another. The longbow mattered inside a prepared system rather than as an isolated explanation.
 
 At [[BattleOfAgincourt|Agincourt]], neither the longbow nor mud acts as a sufficient explanation alone. [[HenryVOfEngland|Henry V]] used a thin line, archers, wedges, and portable stakes inside a field narrowed by woods. His advance forced engagement, while arrow fire helped disorder cavalry whose movement churned wet clay and rebounded into the following French men-at-arms.
 
@@ -34,14 +37,17 @@ The French plan had a combined-arms rationale, but its components became misalig
 - Ground and frontage: [[489-hundred-years-war-bloodbath-at-agincourt-part-3-glt5834061192]] describes wet ploughed clay, a shallow dip, woods, and a field that narrowed toward the English line.
 - English system: [[489-hundred-years-war-bloodbath-at-agincourt-part-3-glt5834061192]] links archers, stakes, a thin formation, Henry's forward move, and the later melee counterattack.
 - French degradation: [[489-hundred-years-war-bloodbath-at-agincourt-part-3-glt5834061192]] says an experienced plan lost coherence when nobles enlarged the front rank, missile troops moved rearward, cavalry failed, and the infantry mass compressed in mud.
+- Crécy system: [[319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638]] connects selected ground, divisions, reserves, archers, cannon, trenches, spikes, and wagons to Edward's prepared defense.
+- Crécy cascade: [[319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638]] links rain, absent Genoese shields, range disadvantage, friendly trampling, arrow fire, and successive cavalry attacks to French collapse.
 
 ## Counterevidence & Qualifications
 
-The concept does not prove that terrain mechanically determines battle or that French planning was irrational. The episode emphasizes contingency: the English advance exposed archers while stakes were reset, the English line was pushed back, and different timing or coordination might have produced another result. Exact troop, arrow, casualty, and timing figures remain disputed or source-scoped.
+The concept does not prove that terrain mechanically determines battle or that French planning was irrational. The Agincourt source emphasizes contingency: the English advance exposed archers while stakes were reset, the English line was pushed back, and different timing or coordination might have produced another result. Crécy's force ratios, armor-penetration claims, cannon effect, speeches, and exact sequence remain source-scoped. Exact troop, arrow, casualty, and timing figures in both cases remain disputed or unaudited here.
 
 ## What Changed
 
-- Created a reusable interaction model from the episode's Agincourt reconstruction.
+- Extended the interaction model from Agincourt to Crécy, where selected ground, obstacles, missile troops, reserves, weather, and command failure also operate as a system.
+- Qualified the “triumph of the longbow” frame by placing the weapon inside prepared combined arms.
 
 ## Related Concepts
 
@@ -49,3 +55,4 @@ The concept does not prove that terrain mechanically determines battle or that F
 - [[ChivalricRomanceWarMemory]] - contrasts systemic battlefield explanation with heroic memory centered on noble courage and decisive weapons.
 - [[HistoricalMemoryContest]] - explains why tactical reconstruction competes with patriotic, literary, and catastrophic versions of the same battle.
 - [[LancastrianLegitimacy]] - shows how a contingent tactical outcome became evidence of competent and providential kingship.
+- [[CampaignLogisticsBattlefieldSelection]] - explains how movement and crossings precede the prepared battlefield system.

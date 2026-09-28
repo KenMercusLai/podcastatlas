@@ -983,6 +983,10 @@
     "title": "318: Hundred Years' War: A Game of Thrones (Part 1)",
     "url": "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
   },
+  "319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638": {
+    "title": "319: Hundred Years' War: Triumph of the Longbow (Part 2)",
+    "url": "/wiki/sources/319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638/"
+  },
   "32-yindianren-jiang-le-yi-bai-wan-ci-de-gushi-shi-maerkesi-de-laoshi-596386714": {
     "title": "32.印第安人《讲了一百万次的故事》是马尔克斯的老师",
     "url": "/wiki/sources/32-yindianren-jiang-le-yi-bai-wan-ci-de-gushi-shi-maerkesi-de-laoshi-596386714/"
@@ -9367,6 +9371,10 @@
     "title": "Battle of Cable Street",
     "url": "/wiki/entities/battleofcablestreet/"
   },
+  "BattleOfCrecy": {
+    "title": "Battle of Crécy",
+    "url": "/wiki/entities/battleofcrecy/"
+  },
   "BattleOfCrete": {
     "title": "Battle of Crete",
     "url": "/wiki/entities/battleofcrete/"
@@ -9418,6 +9426,10 @@
   "BattleOfShrewsbury": {
     "title": "Battle of Shrewsbury",
     "url": "/wiki/entities/battleofshrewsbury/"
+  },
+  "BattleOfSluys": {
+    "title": "Battle of Sluys",
+    "url": "/wiki/entities/battleofsluys/"
   },
   "BattleOfStamfordBridge": {
     "title": "Battle of Stamford Bridge",
@@ -12106,6 +12118,10 @@
   "CalNewport": {
     "title": "Cal Newport",
     "url": "/wiki/entities/calnewport/"
+  },
+  "Calais": {
+    "title": "Calais",
+    "url": "/wiki/entities/calais/"
   },
   "CalculatedPublics": {
     "title": "Calculated Publics / 计算出的公众",
@@ -26790,6 +26806,10 @@
   "FixedPriceEngineeringRisk": {
     "title": "Fixed Price Engineering Risk",
     "url": "/wiki/concepts/fixedpriceengineeringrisk/"
+  },
+  "Flanders": {
+    "title": "Flanders",
+    "url": "/wiki/entities/flanders/"
   },
   "FlashInvaders": {
     "title": "Flash Invaders",

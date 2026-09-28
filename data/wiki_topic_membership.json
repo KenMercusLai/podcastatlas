@@ -1526,6 +1526,13 @@
       "url": "/topics/history/"
     }
   ],
+  "319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "320-hundred-years-war-the-black-prince-part-3-glt6004693022": [
     {
       "key": "history",
@@ -30533,6 +30540,13 @@
     }
   ],
   "FixedIncomePlusProduct": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
+  "Flanders": [
     {
       "key": "economics",
       "label": "Economics",

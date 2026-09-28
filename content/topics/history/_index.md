@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2152
+topic_total_pages: 2153
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4713,6 +4713,9 @@ topic_sources:
   - key: "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008"
     title: "318: Hundred Years' War: A Game of Thrones (Part 1)"
     url: "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+  - key: "319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638"
+    title: "319: Hundred Years' War: Triumph of the Longbow (Part 2)"
+    url: "/wiki/sources/319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638/"
   - key: "320-hundred-years-war-the-black-prince-part-3-glt6004693022"
     title: "320: Hundred Years' War: The Black Prince (Part 3)"
     url: "/wiki/sources/320-hundred-years-war-the-black-prince-part-3-glt6004693022/"

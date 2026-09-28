@@ -24886,3 +24886,11 @@ Added source `vol-37-yanke-ni-jinshi-ma-yanjing-baojiancao-daodi-youyong-ma-weih
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | 319: Hundred Years' War: Triumph of the Longbow (Part 2)
+
+Added source `319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638`; created `BattleOfSluys`, `BattleOfCrecy`, `Calais`, and `Flanders`; and updated `HundredYearsWar`, `EdwardIIIOfEngland`, `PhilipVIOfFrance`, `EdwardTheBlackPrince`, `Chevauchee`, `TerrainConstrainedCombinedArms`, and `CampaignLogisticsBattlefieldSelection` from their complete bounded source sets. Core synthesis: England's early advantage joined Flemish wool leverage, borrowing, Channel security, destructive campaigning, engineering and river crossings, selected ground, prepared combined arms, and the sustained maritime and administrative work needed to hold Calais; chivalric image helped mobilize commitment but does not by itself explain Sluys or Crécy. The source's Calais siege dates conflict internally. Force, fleet, casualty, longbow-performance, cannon-effect, badge-transfer, speech, and tactical-sequence claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -10,6 +10,7 @@ sources:
   - 487-hundred-years-war-henry-v-s-invasion-of-france-part-1-glt7554933021
   - 321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345
   - 320-hundred-years-war-the-black-prince-part-3-glt6004693022
+  - 319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638
 last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
@@ -18,13 +19,15 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-The Hundred Years' War is the 1337-1453 Anglo-French conflict whose current wiki evidence connects its structural origins, the reversal of England's early Poitiers-era advantage, and [[HenryVOfEngland|Henry V's]] later 1415-1422 military and dynastic high point.
+The Hundred Years' War is the 1337-1453 Anglo-French conflict whose current wiki evidence connects its structural origins, Edward III's early victories and their reversal, and [[HenryVOfEngland|Henry V's]] later 1415-1422 military and dynastic high point.
 
 ## Current Profile
 
 The origin evidence argues that the war did not begin only because [[EdwardIIIOfEngland|Edward III]] was denied the French throne. That claim operated inside a larger field: [[France]] was the richer and more prestigious kingdom, [[England]] retained a legally vulnerable [[Gascony]], and [[Scotland]] gave France a northern route to pressure England. [[PhilipVIOfFrance|Philip VI's]] 1337 confiscation of [[Aquitaine]] converted these structural disputes into open war.
 
-After Crécy, Calais, and the Black Death pause, the war resumes through chivalric rivalry, French factionalism, and destructive campaigning. Edward's Arthurian kingship and [[OrderOfTheGarter]] compete with French reform around [[GeoffreyDeCharny|Geoffrey de Charny]] and the Order of the Star, while [[JohnIIOfFrance|John II's]] favoritism and [[CharlesTheBad|Charles the Bad's]] shifting alliances weaken French coordination.
+The new operational evidence explains how England temporarily changed that imbalance. Edward used a wool embargo to pressure [[Flanders]], financed war through heavy borrowing, and won [[BattleOfSluys|Sluys]] with archers, boarding forces, and Flemish support. In 1346, a destructive [[Chevauchee|chevauchée]], repaired crossings of the Seine and Somme, and a deliberately selected position led to [[BattleOfCrecy|Crécy]], where terrain, obstacles, archery, reserves, and French command breakdown mattered together.
+
+Edward then tried to institutionalize victory by taking [[Calais]]. Its capture required a long maritime supply effort, and its expulsion, settlement, privileges, and garrison made it more durable than a battlefield triumph alone. The Black Death interrupted this momentum before campaigning resumed through chivalric rivalry, French factionalism, and destructive operations. Edward's Arthurian kingship and [[OrderOfTheGarter]] compete with French reform around [[GeoffreyDeCharny|Geoffrey de Charny]] and the Order of the Star, while [[JohnIIOfFrance|John II's]] favoritism and [[CharlesTheBad|Charles the Bad's]] shifting alliances weaken French coordination.
 
 The [[EdwardTheBlackPrince|Black Prince's]] 1355 [[Chevauchee|chevauchée]] turns civilian destruction into loot, ransom, and political shock. In 1356, a flooded Loire prevents English forces from joining, but the trapped prince wins the [[BattleOfPoitiers]] through archery, French line confusion, and flanking counterattacks. John II's capture creates the leverage whose political limits define the next phase.
 
@@ -40,7 +43,7 @@ The later evidence shows Henry's dynastic claim becoming politically plausible a
 
 ## Key Characteristics
 
-- Long conflict framed as lasting from 1337 to 1453, with current coverage spanning its origin, Poitiers-era zenith and reversal, and Henry V's high point.
+- Long conflict framed as lasting from 1337 to 1453, with current coverage spanning its origin, early English operational victories, Poitiers-era zenith and reversal, and Henry V's high point.
 - Repeated interaction among dynastic claims, territorial law, factional alignment, and national mobilization rather than a single cause.
 - Reversible asymmetry: early English battlefield supremacy fails under French state recovery, while later French factional collapse again creates English opportunity.
 - Battlefield effectiveness shaped by terrain, combined-arms coordination, command structure, and timing as much as force totals.
@@ -52,6 +55,10 @@ The later evidence shows Henry's dynastic claim becoming politically plausible a
 
 - Origins and asymmetry: [[318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008]] links succession, Gascony, Scotland, trade, English identity, and materially stronger French monarchy to the opening crisis.
 - Territorial law and mobilization: [[318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008]] makes Gascon homage and Aquitaine's confiscation central before Edward uses Parliament and manifesto.
+- Economic and fiscal strategy: [[319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638]] connects English wool pressure in Flanders and heavy borrowing to a search for decisive success.
+- Sluys and Channel security: [[319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638]] links archery, boarding, and Flemish intervention to a major maritime victory that does not resolve Edward's debts.
+- Normandy to Crécy: [[319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638]] connects chevauchée, river crossings, prepared ground, projectile fire, obstacles, and French disorder to the 1346 victory.
+- Calais as conversion of victory: [[319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638]] makes ships, supply, surrender, expulsion, settlement, and garrisoning the basis of a durable foothold.
 - Chivalric rivalry and faction: [[320-hundred-years-war-the-black-prince-part-3-glt6004693022]] connects the Garter, Order of the Star, John II's noble alienation, and Charles the Bad's shifting alliances to war capacity.
 - Chevauchée and civilians: [[320-hundred-years-war-the-black-prince-part-3-glt6004693022]] links rapid raiding, loot, ransom, settlement destruction, and damage to French royal credibility.
 - Poitiers mechanism: [[320-hundred-years-war-the-black-prince-part-3-glt6004693022]] connects failed army concentration, English logistical weakness, archery, French command confusion, and flanking attacks to John II's capture.
@@ -70,14 +77,14 @@ The later evidence shows Henry's dynastic claim becoming politically plausible a
 
 ## Qualifications
 
-Coverage remains discontinuous: it contains the origin, the 1349-1356 approach to Poitiers, a compressed post-Poitiers-to-1380 reversal, and the 1415-1422 sequence, not a continuous campaign history. Population, raid-destruction, financial, fleet, route, force, arrow, casualty, ransom, and prisoner figures remain podcast claims rather than independently audited data. The evidence does not resolve the Garter's foundation chronology, the exact implementation of Brétigny, the relative causes of Charles V's recovery, the sincerity of Henry V's bargaining position, whether he sought battle during the march, or whether he could have sustained Troyes had he lived.
+Coverage remains discontinuous: it contains the origin, selected 1340-1347 operations, the 1349-1356 approach to Poitiers, a compressed post-Poitiers-to-1380 reversal, and the 1415-1422 sequence, not a continuous campaign history. Population, raid-destruction, financial, fleet, route, force, arrow, casualty, ransom, and prisoner figures remain podcast claims rather than independently audited data. The new source is internally inconsistent about the Calais siege dates. The evidence also does not resolve the Garter's foundation chronology, the exact implementation of Brétigny, the relative causes of Charles V's recovery, the sincerity of Henry V's bargaining position, whether he sought battle during the march, or whether he could have sustained Troyes had he lived.
 
 ## What Changed
 
-- Added the chivalric rivalry and French factional breakdown preceding Poitiers.
-- Added chevauchée as a link among campaign finance, political shock, and civilian devastation.
-- Added the failed English junction and combined tactical explanation for Poitiers.
-- Connected John II's capture directly to the later gap between battlefield leverage and governable settlement.
+- Filled the operational gap from Flemish wool pressure through Sluys and the 1346 Normandy campaign.
+- Added Crécy as an interaction among selected terrain, projectiles, obstacles, deployment, and French command failure.
+- Added Calais as the logistical, administrative, and coercive conversion of battlefield victory into a foothold.
+- Reframed the early English zenith as a multi-front achievement interrupted by the Black Death rather than a sudden Poitiers-era development.
 
 ## Relationships
 
@@ -85,6 +92,10 @@ Coverage remains discontinuous: it contains the origin, the 1349-1356 approach t
 - [[France]] - stronger monarchy and territorial overlord in the origin episode.
 - [[EdwardIIIOfEngland]] - English king whose claim and manifesto open the war branch.
 - [[PhilipVIOfFrance]] - French king whose Aquitaine confiscation triggers open conflict in the source.
+- [[Flanders]] - cloth-producing region whose wool dependence and alliance matter to Edward's opening strategy.
+- [[BattleOfSluys]] - maritime victory supporting Channel access and English prestige.
+- [[BattleOfCrecy]] - prepared-position victory at the center of Edward's 1346 campaign.
+- [[Calais]] - garrisoned port that turns early victory into durable territorial access.
 - [[Gascony]] - territorial hinge that makes homage and sovereignty collide.
 - [[Aquitaine]] - larger duchy whose confiscation becomes the war threshold.
 - [[CapetianSuccessionCrisis]] - succession mechanism behind Edward III's claim and rejection.

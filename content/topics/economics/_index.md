@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2132
+topic_total_pages: 2133
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3866,6 +3866,9 @@ topic_entities:
   - key: "FirstSouthwestBank"
     title: "First Southwest Bank"
     url: "/wiki/entities/firstsouthwestbank/"
+  - key: "Flanders"
+    title: "Flanders"
+    url: "/wiki/entities/flanders/"
   - key: "Flexport"
     title: "Flexport"
     url: "/wiki/entities/flexport/"

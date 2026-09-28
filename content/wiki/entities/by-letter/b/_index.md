@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 11319
+wiki_total_pages: 11323
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -197,6 +197,9 @@ wiki_pages:
   - key: "BattleOfCrete"
     title: "Battle of Crete"
     url: "/wiki/entities/battleofcrete/"
+  - key: "BattleOfCrecy"
+    title: "Battle of Crécy"
+    url: "/wiki/entities/battleofcrecy/"
   - key: "BattleOfLakeTrasimene"
     title: "Battle of Lake Trasimene / 特拉西梅诺湖战役"
     url: "/wiki/entities/battleoflaketrasimene/"
@@ -221,6 +224,9 @@ wiki_pages:
   - key: "BattleOfShrewsbury"
     title: "Battle of Shrewsbury"
     url: "/wiki/entities/battleofshrewsbury/"
+  - key: "BattleOfSluys"
+    title: "Battle of Sluys"
+    url: "/wiki/entities/battleofsluys/"
   - key: "BattleOfTheBogside"
     title: "Battle of the Bogside"
     url: "/wiki/entities/battleofthebogside/"
