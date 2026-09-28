@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8585
+wiki_total_pages: 8587
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1310,6 +1310,9 @@ wiki_pages:
   - key: "ColdWarRegimeChangePressure"
     title: "Cold War Regime-Change Pressure"
     url: "/wiki/concepts/coldwarregimechangepressure/"
+  - key: "ColdWarSecurityLoyaltyPolitics"
+    title: "Cold War Security and Loyalty Politics"
+    url: "/wiki/concepts/coldwarsecurityloyaltypolitics/"
   - key: "ColdWarSpycraft"
     title: "Cold War Spycraft / 冷战间谍技艺"
     url: "/wiki/concepts/coldwarspycraft/"

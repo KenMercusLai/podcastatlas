@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 11178
+wiki_total_pages: 11183
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -185,6 +185,9 @@ wiki_pages:
   - key: "MandySuzanneWong"
     title: "Mandy Suzanne Wong"
     url: "/wiki/entities/mandysuzannewong/"
+  - key: "ManhattanProject"
+    title: "Manhattan Project"
+    url: "/wiki/entities/manhattanproject/"
   - key: "ManiSkill"
     title: "ManiSkill"
     url: "/wiki/entities/maniskill/"

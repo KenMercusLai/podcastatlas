@@ -987,6 +987,10 @@
     "title": "34.猫咪秘史：呵，愚蠢又可爱的人类",
     "url": "/wiki/sources/34-maomi-mishi-he-yuchun-you-keai-de-renlei-601590607/"
   },
+  "344-oppenheimer-the-witch-hunt-part-2-glt1594914557": {
+    "title": "344: Oppenheimer: The Witch Hunt (Part 2)",
+    "url": "/wiki/sources/344-oppenheimer-the-witch-hunt-part-2-glt1594914557/"
+  },
   "345-raiders-of-the-lost-ark-part-1-glt1189467433": {
     "title": "345: Raiders of the Lost Ark (Part 1)",
     "url": "/wiki/sources/345-raiders-of-the-lost-ark-part-1-glt1189467433/"
@@ -16087,6 +16091,10 @@
     "title": "Cold War Regime-Change Pressure",
     "url": "/wiki/concepts/coldwarregimechangepressure/"
   },
+  "ColdWarSecurityLoyaltyPolitics": {
+    "title": "Cold War Security and Loyalty Politics",
+    "url": "/wiki/concepts/coldwarsecurityloyaltypolitics/"
+  },
   "ColdWarSpycraft": {
     "title": "Cold War Spycraft / 冷战间谍技艺",
     "url": "/wiki/concepts/coldwarspycraft/"
@@ -22522,6 +22530,10 @@
   "EdwardSmith": {
     "title": "Edward Smith",
     "url": "/wiki/entities/edwardsmith/"
+  },
+  "EdwardTeller": {
+    "title": "Edward Teller",
+    "url": "/wiki/entities/edwardteller/"
   },
   "EdwardTheConfessor": {
     "title": "Edward the Confessor",
@@ -36475,6 +36487,10 @@
     "title": "J.R.R. Tolkien / 托尔金",
     "url": "/wiki/entities/jrrtolkien/"
   },
+  "JRobertOppenheimer": {
+    "title": "J. Robert Oppenheimer",
+    "url": "/wiki/entities/jrobertoppenheimer/"
+  },
   "JackClark": {
     "title": "Jack Clark",
     "url": "/wiki/entities/jackclark/"
@@ -41295,6 +41311,10 @@
     "title": "Lewis Henry Morgan",
     "url": "/wiki/entities/lewishenrymorgan/"
   },
+  "LewisStrauss": {
+    "title": "Lewis Strauss",
+    "url": "/wiki/entities/lewisstrauss/"
+  },
   "LexFridman": {
     "title": "Lex Fridman",
     "url": "/wiki/entities/lexfridman/"
@@ -45162,6 +45182,10 @@
   "Mangshi": {
     "title": "芒市 / Mangshi",
     "url": "/wiki/entities/mangshi/"
+  },
+  "ManhattanProject": {
+    "title": "Manhattan Project",
+    "url": "/wiki/entities/manhattanproject/"
   },
   "ManiSkill": {
     "title": "ManiSkill",
@@ -50795,6 +50819,10 @@
     "title": "Nuclear Safety Propaganda",
     "url": "/wiki/concepts/nuclearsafetypropaganda/"
   },
+  "NuclearScientificResponsibility": {
+    "title": "Nuclear Scientific Responsibility",
+    "url": "/wiki/concepts/nuclearscientificresponsibility/"
+  },
   "NuclearWeaponsModeling": {
     "title": "Nuclear Weapons Modeling",
     "url": "/wiki/concepts/nuclearweaponsmodeling/"
@@ -51834,6 +51862,10 @@
   "OppenheimerFilm": {
     "title": "Oppenheimer",
     "url": "/wiki/entities/oppenheimerfilm/"
+  },
+  "OppenheimerSecurityHearing": {
+    "title": "Oppenheimer Security Hearing",
+    "url": "/wiki/entities/oppenheimersecurityhearing/"
   },
   "OpportunisticCourtAlignment": {
     "title": "投机型朝堂站队 / Opportunistic Court Alignment",

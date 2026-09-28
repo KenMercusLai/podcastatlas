@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1281
+topic_total_pages: 1283
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1363,6 +1363,9 @@ topic_concepts:
   - key: "NonMarketEnvironmentalValuation"
     title: "Non-Market Environmental Valuation"
     url: "/wiki/concepts/nonmarketenvironmentalvaluation/"
+  - key: "NuclearScientificResponsibility"
+    title: "Nuclear Scientific Responsibility"
+    url: "/wiki/concepts/nuclearscientificresponsibility/"
   - key: "NuclearWinter"
     title: "Nuclear Winter"
     url: "/wiki/concepts/nuclearwinter/"
@@ -2684,6 +2687,9 @@ topic_entities:
   - key: "MalibuHighSchool"
     title: "Malibu High School"
     url: "/wiki/entities/malibuhighschool/"
+  - key: "ManhattanProject"
+    title: "Manhattan Project"
+    url: "/wiki/entities/manhattanproject/"
   - key: "MarcBrackett"
     title: "Marc Brackett"
     url: "/wiki/entities/marcbrackett/"

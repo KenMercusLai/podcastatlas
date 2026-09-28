@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [344: Oppenheimer: The Witch Hunt (Part 2)](sources/344-oppenheimer-the-witch-hunt-part-2-glt1594914557.md) — The Rest Is History episode on Oppenheimer's post-bomb responsibility, hydrogen-bomb dissent, Cold War surveillance, clearance hearing, and martyr afterlife.
 - [假期通知兼谈本台为什么要做视频播客](sources/jiaqi-tongzhi-jian-tan-bentai-weishenme-yao-zuo-shipin-boke-1018741567.md) — 商业就是这样 announcement on holiday scheduling and a content-first video-podcast strategy built around editorial control, audio parity, expert access, and multi-platform distribution.
 - [VOL.55口腔科｜正畸、正颌、种植牙齿的这几个常见误区和疑问 公立医院主任给你一一讲清楚](sources/vol-55-kouqiangke-zhengji-zhenghe-zhongzhi-yachi-de-zhe-jige-changjian-wuqu-he-yiwen-gongli-yiyuan-zhuren-gei-ni-yi-yi-jiang-qingchu-lsupjdtklqeinpgfcsnd8zlale5t.md) — 这病说来话长 Q&A on orthodontic and orthognathic assessment, implant suitability and maintenance, oral-care tools, symptoms, and lifecycle prevention.
 - [346: The Mystery of the Holy Grail (Part 2)](sources/346-the-mystery-of-the-holy-grail-part-2-glt9518077570.md) — The Rest Is History episode on the Grail's medieval textual formation, Eucharistic theology, sacred knighthood, and the chronological weaknesses of pagan and universal-origin theories.
@@ -3083,6 +3084,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve Your Eye Health & Offset Vision Loss | Dr. Jeffrey Goldberg](sources/how-to-improve-your-eye-health-offset-vision-loss-dr-jeffrey-goldberg-scim5633963628.md) — Huberman Lab interview on visual development, prevention, optical correction, contact and dry-eye care, silent eye disease, treatment adherence, and emerging-intervention boundaries.
 
 ## Entities
+- [J. Robert Oppenheimer](entities/JRobertOppenheimer.md) — Manhattan Project scientific leader whose postwar burden, nuclear-policy dissent, clearance loss, and martyr reputation remain in tension.
+- [Lewis Strauss](entities/LewisStrauss.md) — Atomic Energy Commission power broker whose policy and personal conflict with Oppenheimer drove the clearance campaign.
+- [Edward Teller](entities/EdwardTeller.md) — Hydrogen-bomb advocate whose trust-based testimony helped end Oppenheimer's government role.
+- [Manhattan Project](entities/ManhattanProject.md) — Wartime atomic-bomb program linking technical achievement to political use authority and postwar scientific responsibility.
+- [Oppenheimer Security Hearing](entities/OppenheimerSecurityHearing.md) — 1954 clearance proceeding that removed Oppenheimer's influence without establishing treachery.
 - [Holy Grail](entities/HolyGrail.md) — Medieval literary vessel transformed into a Passion relic, Eucharistic mystery, and knightly quest object.
 - [Chrétien de Troyes](entities/ChretienDeTroyes.md) — Late-12th-century French romance writer whose unfinished Perceval contains the earliest surviving Grail narrative discussed.
 - [Perceval](entities/Perceval.md) — Original Grail-quest knight whose silence at the Fisher King's castle becomes a failure of compassion.
@@ -14282,6 +14288,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Raiders of the Lost Ark](entities/RaidersOfTheLostArk.md) — Adventure film that translates the Ark's dangerous holiness into an ultimate-weapon race against Nazi Germany.
 
 ## Concepts
+- [Nuclear Scientific Responsibility](concepts/NuclearScientificResponsibility.md) — Framework separating formal weapons-use authority from scientists' continuing causal, epistemic, and public responsibility.
+- [Cold War Security and Loyalty Politics](concepts/ColdWarSecurityLoyaltyPolitics.md) — Framework holding genuine counterespionage risk together with association, policy dissent, trust judgments, and political exclusion.
 - [Football Footwear Market Entry](concepts/FootballFootwearMarketEntry.md) — System-level challenge of converting footwear technology and athlete attention into credible football products, ecosystem presence, and demand.
 - [Grail Tradition Formation](concepts/GrailTraditionFormation.md) — Textual process turning an ambiguous romance vessel into a Passion relic and collective sacred quest.
 - [Grail Eucharistic Theology](concepts/GrailEucharisticTheology.md) — Sacramental framework joining vessel, host, blood, lance, healing, and vision.

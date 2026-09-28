@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2776
+topic_total_pages: 2777
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5798,6 +5798,9 @@ topic_entities:
   - key: "LetitiaJames"
     title: "Letitia James"
     url: "/wiki/entities/letitiajames/"
+  - key: "LewisStrauss"
+    title: "Lewis Strauss"
+    url: "/wiki/entities/lewisstrauss/"
   - key: "LiberalDemocraticPartyJapan"
     title: "Liberal Democratic Party (Japan)"
     url: "/wiki/entities/liberaldemocraticpartyjapan/"

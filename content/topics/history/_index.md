@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2117
+topic_total_pages: 2119
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1994,6 +1994,9 @@ topic_entities:
   - key: "MainlandSoutheastAsia"
     title: "Mainland Southeast Asia / 中南半岛"
     url: "/wiki/entities/mainlandsoutheastasia/"
+  - key: "ManhattanProject"
+    title: "Manhattan Project"
+    url: "/wiki/entities/manhattanproject/"
   - key: "Mariupol"
     title: "Mariupol / 马里乌波尔"
     url: "/wiki/entities/mariupol/"
@@ -4680,6 +4683,9 @@ topic_sources:
   - key: "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008"
     title: "318: Hundred Years' War: A Game of Thrones (Part 1)"
     url: "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+  - key: "344-oppenheimer-the-witch-hunt-part-2-glt1594914557"
+    title: "344: Oppenheimer: The Witch Hunt (Part 2)"
+    url: "/wiki/sources/344-oppenheimer-the-witch-hunt-part-2-glt1594914557/"
   - key: "345-raiders-of-the-lost-ark-part-1-glt1189467433"
     title: "345: Raiders of the Lost Ark (Part 1)"
     url: "/wiki/sources/345-raiders-of-the-lost-ark-part-1-glt1189467433/"

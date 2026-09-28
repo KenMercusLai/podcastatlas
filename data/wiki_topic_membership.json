@@ -1521,6 +1521,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "344-oppenheimer-the-witch-hunt-part-2-glt1594914557": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "345-raiders-of-the-lost-ark-part-1-glt1189467433": [
     {
       "key": "history",
@@ -45106,6 +45113,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "LewisStrauss": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "LexFridman": [
     {
       "key": "technology",
@@ -48151,6 +48165,18 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "ManhattanProject": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "ManiSkill": [
@@ -53847,6 +53873,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "NuclearScientificResponsibility": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "NuclearWeaponsModeling": [

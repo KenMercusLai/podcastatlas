@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 8585
+wiki_total_pages: 8587
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -473,6 +473,9 @@ wiki_pages:
   - key: "NuclearSafetyPropaganda"
     title: "Nuclear Safety Propaganda"
     url: "/wiki/concepts/nuclearsafetypropaganda/"
+  - key: "NuclearScientificResponsibility"
+    title: "Nuclear Scientific Responsibility"
+    url: "/wiki/concepts/nuclearscientificresponsibility/"
   - key: "NuclearWeaponsModeling"
     title: "Nuclear Weapons Modeling"
     url: "/wiki/concepts/nuclearweaponsmodeling/"

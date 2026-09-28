@@ -24399,3 +24399,11 @@ Added source `345-raiders-of-the-lost-ark-part-1-glt1189467433`; created `ArkOfT
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | 344: Oppenheimer: The Witch Hunt (Part 2)
+
+Added source `344-oppenheimer-the-witch-hunt-part-2-glt1594914557`; created `JRobertOppenheimer`, `LewisStrauss`, `EdwardTeller`, `ManhattanProject`, `OppenheimerSecurityHearing`, `NuclearScientificResponsibility`, and `ColdWarSecurityLoyaltyPolitics`; and updated `HiroshimaAtomicBombing`, `NagasakiAtomicBombing`, `NuclearDisasterMemory`, and the canonical index from their complete bounded source sets. Core synthesis: Oppenheimer lacked final authority to use the bombs but retained causal, epistemic, and public responsibility; real espionage risk and his own credibility failures did not establish treachery, while policy conflict, surveillance, personal rivalry, and a trust-based clearance standard enabled his exclusion. No settled contradiction was adopted. Bombing necessity, surrender timing, Soviet signaling, private motives, hearing procedure, and later martyr narratives remain source-scoped or contested. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

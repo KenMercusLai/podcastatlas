@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 11178
+wiki_total_pages: 11183
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -23,6 +23,9 @@ wiki_pages:
   - key: "JLAustin"
     title: "J. L. Austin / 奥斯丁"
     url: "/wiki/entities/jlaustin/"
+  - key: "JRobertOppenheimer"
+    title: "J. Robert Oppenheimer"
+    url: "/wiki/entities/jrobertoppenheimer/"
   - key: "JPMorgan"
     title: "J.P. Morgan"
     url: "/wiki/entities/jpmorgan/"

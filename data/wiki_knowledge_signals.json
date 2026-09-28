@@ -31174,6 +31174,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/coldwarregimechangepressure/"
     },
+    "ColdWarSecurityLoyaltyPolitics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1594914557 [GLT1594914557].md",
+          "key": "344-oppenheimer-the-witch-hunt-part-2-glt1594914557",
+          "show": "The Rest Is History",
+          "title": "344: Oppenheimer: The Witch Hunt (Part 2)",
+          "url": "/wiki/sources/344-oppenheimer-the-witch-hunt-part-2-glt1594914557/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/coldwarsecurityloyaltypolitics/"
+    },
     "ColemanRuiz": {
       "episode_count": 1,
       "show_count": 1,
@@ -45956,6 +45972,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/entities/edwardsmith/"
+    },
+    "EdwardTeller": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1594914557 [GLT1594914557].md",
+          "key": "344-oppenheimer-the-witch-hunt-part-2-glt1594914557",
+          "show": "The Rest Is History",
+          "title": "344: Oppenheimer: The Witch Hunt (Part 2)",
+          "url": "/wiki/sources/344-oppenheimer-the-witch-hunt-part-2-glt1594914557/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/edwardteller/"
     },
     "EdwardTheConfessor": {
       "episode_count": 4,
@@ -73504,9 +73536,9 @@
       "url": "/wiki/concepts/hippiehistoricistfashionturn/"
     },
     "HiroshimaAtomicBombing": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》394-3｜深挖历史，核危机为何都发生在日本？ [lspzTKfAaQ0HCQ1no3YUM1xdOX8a].md",
@@ -73514,9 +73546,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》394-3｜深挖历史，核危机为何都发生在日本？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-394-3-shenwa-lishi-heweiji-weihe-dou-fasheng-zai-riben-lspztkfaaq0hcq1no3yum1xdox8a/"
+        },
+        {
+          "episode_file": "GLT1594914557 [GLT1594914557].md",
+          "key": "344-oppenheimer-the-witch-hunt-part-2-glt1594914557",
+          "show": "The Rest Is History",
+          "title": "344: Oppenheimer: The Witch Hunt (Part 2)",
+          "url": "/wiki/sources/344-oppenheimer-the-witch-hunt-part-2-glt1594914557/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/hiroshimaatomicbombing/"
     },
     "Histias": {
@@ -83086,6 +83125,22 @@
       "updated": "2026-09-25",
       "url": "/wiki/entities/jrrtolkien/"
     },
+    "JRobertOppenheimer": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1594914557 [GLT1594914557].md",
+          "key": "344-oppenheimer-the-witch-hunt-part-2-glt1594914557",
+          "show": "The Rest Is History",
+          "title": "344: Oppenheimer: The Witch Hunt (Part 2)",
+          "url": "/wiki/sources/344-oppenheimer-the-witch-hunt-part-2-glt1594914557/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/jrobertoppenheimer/"
+    },
     "JackMerridew": {
       "episode_count": 1,
       "show_count": 1,
@@ -92223,6 +92278,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/lewisandclarkexpedition/"
+    },
+    "LewisStrauss": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1594914557 [GLT1594914557].md",
+          "key": "344-oppenheimer-the-witch-hunt-part-2-glt1594914557",
+          "show": "The Rest Is History",
+          "title": "344: Oppenheimer: The Witch Hunt (Part 2)",
+          "url": "/wiki/sources/344-oppenheimer-the-witch-hunt-part-2-glt1594914557/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/lewisstrauss/"
     },
     "LexFridman": {
       "episode_count": 2,
@@ -103578,6 +103649,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/mangshi/"
     },
+    "ManhattanProject": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1594914557 [GLT1594914557].md",
+          "key": "344-oppenheimer-the-witch-hunt-part-2-glt1594914557",
+          "show": "The Rest Is History",
+          "title": "344: Oppenheimer: The Witch Hunt (Part 2)",
+          "url": "/wiki/sources/344-oppenheimer-the-witch-hunt-part-2-glt1594914557/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/manhattanproject/"
+    },
     "ManiusAquillius": {
       "episode_count": 2,
       "show_count": 1,
@@ -112185,9 +112272,9 @@
       "url": "/wiki/entities/nio/"
     },
     "NagasakiAtomicBombing": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》394-3｜深挖历史，核危机为何都发生在日本？ [lspzTKfAaQ0HCQ1no3YUM1xdOX8a].md",
@@ -112195,9 +112282,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》394-3｜深挖历史，核危机为何都发生在日本？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-394-3-shenwa-lishi-heweiji-weihe-dou-fasheng-zai-riben-lspztkfaaq0hcq1no3yum1xdox8a/"
+        },
+        {
+          "episode_file": "GLT1594914557 [GLT1594914557].md",
+          "key": "344-oppenheimer-the-witch-hunt-part-2-glt1594914557",
+          "show": "The Rest Is History",
+          "title": "344: Oppenheimer: The Witch Hunt (Part 2)",
+          "url": "/wiki/sources/344-oppenheimer-the-witch-hunt-part-2-glt1594914557/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/nagasakiatomicbombing/"
     },
     "NanJiHe": {
@@ -115591,9 +115685,9 @@
       "url": "/wiki/concepts/novushomooutsiderpolitics/"
     },
     "NuclearDisasterMemory": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》394-3｜深挖历史，核危机为何都发生在日本？ [lspzTKfAaQ0HCQ1no3YUM1xdOX8a].md",
@@ -115601,9 +115695,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》394-3｜深挖历史，核危机为何都发生在日本？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-394-3-shenwa-lishi-heweiji-weihe-dou-fasheng-zai-riben-lspztkfaaq0hcq1no3yum1xdox8a/"
+        },
+        {
+          "episode_file": "GLT1594914557 [GLT1594914557].md",
+          "key": "344-oppenheimer-the-witch-hunt-part-2-glt1594914557",
+          "show": "The Rest Is History",
+          "title": "344: Oppenheimer: The Witch Hunt (Part 2)",
+          "url": "/wiki/sources/344-oppenheimer-the-witch-hunt-part-2-glt1594914557/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/nucleardisastermemory/"
     },
     "NuclearElectricSpaceflight": {
@@ -115660,6 +115761,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/concepts/nuclearsafetypropaganda/"
+    },
+    "NuclearScientificResponsibility": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1594914557 [GLT1594914557].md",
+          "key": "344-oppenheimer-the-witch-hunt-part-2-glt1594914557",
+          "show": "The Rest Is History",
+          "title": "344: Oppenheimer: The Witch Hunt (Part 2)",
+          "url": "/wiki/sources/344-oppenheimer-the-witch-hunt-part-2-glt1594914557/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/nuclearscientificresponsibility/"
     },
     "NujiangGorge": {
       "episode_count": 1,
@@ -117710,6 +117827,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/oppenheimerfilm/"
+    },
+    "OppenheimerSecurityHearing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1594914557 [GLT1594914557].md",
+          "key": "344-oppenheimer-the-witch-hunt-part-2-glt1594914557",
+          "show": "The Rest Is History",
+          "title": "344: Oppenheimer: The Witch Hunt (Part 2)",
+          "url": "/wiki/sources/344-oppenheimer-the-witch-hunt-part-2-glt1594914557/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/oppenheimersecurityhearing/"
     },
     "OpportunisticCourtAlignment": {
       "episode_count": 2,
