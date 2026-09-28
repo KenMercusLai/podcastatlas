@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 8644
+wiki_total_pages: 8646
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -248,6 +248,9 @@ wiki_pages:
   - key: "WholeFoodMostlyPlantPattern"
     title: "Whole-Food Mostly-Plant Pattern"
     url: "/wiki/concepts/wholefoodmostlyplantpattern/"
+  - key: "WholePersonEndOfLifeCare"
+    title: "Whole-Person End-of-Life Care / 身心社灵照护"
+    url: "/wiki/concepts/wholepersonendoflifecare/"
   - key: "WholeProcessCancerDocumentation"
     title: "Whole-Process Cancer Documentation"
     url: "/wiki/concepts/wholeprocesscancerdocumentation/"

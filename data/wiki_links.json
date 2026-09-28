@@ -21055,6 +21055,10 @@
     "title": "Division by Zero",
     "url": "/wiki/entities/divisionbyzero/"
   },
+  "DoNotResuscitateDecision": {
+    "title": "Do-Not-Resuscitate Decision / 拒绝心肺复苏决定",
+    "url": "/wiki/concepts/donotresuscitatedecision/"
+  },
   "DoTooMuchFounderPhilosophy": {
     "title": "Do Too Much Founder Philosophy",
     "url": "/wiki/concepts/dotoomuchfounderphilosophy/"
@@ -32158,6 +32162,10 @@
   "HeYunzhong": {
     "title": "何韵中 / He Yunzhong",
     "url": "/wiki/entities/heyunzhong/"
+  },
+  "HeZhaokaiNurse": {
+    "title": "何昭凯 / He Zhaokai",
+    "url": "/wiki/entities/hezhaokainurse/"
   },
   "HeZhenLateHan": {
     "title": "何真 / He Zhen (late Han)",
@@ -53899,6 +53907,10 @@
     "title": "Pejman Nozad",
     "url": "/wiki/entities/pejmannozad/"
   },
+  "PekingUnionMedicalCollegeHospital": {
+    "title": "北京协和医院 / Peking Union Medical College Hospital",
+    "url": "/wiki/entities/pekingunionmedicalcollegehospital/"
+  },
   "PekingUniversity": {
     "title": "Peking University / 北京大学",
     "url": "/wiki/entities/pekinguniversity/"
@@ -75583,6 +75595,10 @@
     "title": "Whole Foods Market",
     "url": "/wiki/entities/wholefoodsmarket/"
   },
+  "WholePersonEndOfLifeCare": {
+    "title": "Whole-Person End-of-Life Care / 身心社灵照护",
+    "url": "/wiki/concepts/wholepersonendoflifecare/"
+  },
   "WholeProcessCancerDocumentation": {
     "title": "Whole-Process Cancer Documentation",
     "url": "/wiki/concepts/wholeprocesscancerdocumentation/"
@@ -86990,6 +87006,10 @@
   "vol-36-yanke-guanyu-ganyanzheng-yanyaoshui-yandibing-jinshi-he-jinshi-shoushu-yanke-zhuren-you-hua-shuo-lmpfupdvpcxynhp6d4hfhptayvpo": {
     "title": "VOL.36眼科｜关于干眼症、眼药水、眼底病、近视和近视手术…眼科主任有话说",
     "url": "/wiki/sources/vol-36-yanke-guanyu-ganyanzheng-yanyaoshui-yandibing-jinshi-he-jinshi-shoushu-yanke-zhuren-you-hua-shuo-lmpfupdvpcxynhp6d4hfhptayvpo/"
+  },
+  "vol-44-xianli-hushijie-yu-xiehe-yiyuan-hushi-duitan-linzhong-guanhuai-zhong-de-shen-xin-she-ling-luernzy5tf_brgkkrkc4nw0fgmog": {
+    "title": "VOL.44献礼护士节｜与协和医院护师对谈临终关怀中的“身、心、社、灵”",
+    "url": "/wiki/sources/vol-44-xianli-hushijie-yu-xiehe-yiyuan-hushi-duitan-linzhong-guanhuai-zhong-de-shen-xin-she-ling-luernzy5tf_brgkkrkc4nw0fgmog/"
   },
   "vol-45-shipin-yu-yingyang-ni-he-niunai-me-zhe-5-zhong-chaoji-shiwu-shi-zhishangshui-ma-lmiafjnoiooijzqcnmfrmref-h2v": {
     "title": "VOL.45食品与营养｜你喝牛奶么？这5种“超级食物”是智商税吗？",

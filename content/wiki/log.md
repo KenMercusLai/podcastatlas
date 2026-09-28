@@ -24643,3 +24643,11 @@ Added source `331-american-witches-glt9152886733`; created `MalcolmGaskell`, `Wi
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | VOL.44献礼护士节｜与协和医院护师对谈临终关怀中的“身、心、社、灵”
+
+Added source `vol-44-xianli-hushijie-yu-xiehe-yiyuan-hushi-duitan-linzhong-guanhuai-zhong-de-shen-xin-she-ling-luernzy5tf_brgkkrkc4nw0fgmog`; created `HeZhaokaiNurse`, `PekingUnionMedicalCollegeHospital`, `DoNotResuscitateDecision`, and `WholePersonEndOfLifeCare`; and updated `HospiceCare` from its complete bounded source set. Core synthesis: hospice actively reprioritizes treatment toward comfort and remaining-life quality without meaning abandonment, euthanasia, or automatic cessation of all disease-directed care; DNR is one revisable resuscitation-limit choice, while nursing joins symptom control to psychological, social, spiritual, family, and setting needs. No settled contradiction was adopted; the family reversal from DNR to intubation illustrates changing decisions under distress rather than a universal right answer, and operational clinical and legal details remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

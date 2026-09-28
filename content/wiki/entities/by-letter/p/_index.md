@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 11250
+wiki_total_pages: 11252
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -995,6 +995,9 @@ wiki_pages:
   - key: "PeteLau"
     title: "刘作虎 / Pete Lau"
     url: "/wiki/entities/petelau/"
+  - key: "PekingUnionMedicalCollegeHospital"
+    title: "北京协和医院 / Peking Union Medical College Hospital"
+    url: "/wiki/entities/pekingunionmedicalcollegehospital/"
   - key: "PrincipleTech"
     title: "原则科技"
     url: "/wiki/entities/principletech/"

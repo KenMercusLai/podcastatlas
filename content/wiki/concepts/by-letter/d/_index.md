@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 8644
+wiki_total_pages: 8646
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -887,6 +887,9 @@ wiki_pages:
   - key: "DoTooMuchFounderPhilosophy"
     title: "Do Too Much Founder Philosophy"
     url: "/wiki/concepts/dotoomuchfounderphilosophy/"
+  - key: "DoNotResuscitateDecision"
+    title: "Do-Not-Resuscitate Decision / 拒绝心肺复苏决定"
+    url: "/wiki/concepts/donotresuscitatedecision/"
   - key: "DoctorGuidedAIInterpretation"
     title: "Doctor-Guided AI Interpretation"
     url: "/wiki/concepts/doctorguidedaiinterpretation/"

@@ -43373,6 +43373,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/diversifiedhappinessportfolio/"
     },
+    "DoNotResuscitateDecision": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "luernzy5tf_BrgKkrkc4Nw0FGmoG [luernzy5tf_BrgKkrkc4Nw0FGmoG].md",
+          "key": "vol-44-xianli-hushijie-yu-xiehe-yiyuan-hushi-duitan-linzhong-guanhuai-zhong-de-shen-xin-she-ling-luernzy5tf_brgkkrkc4nw0fgmog",
+          "show": "这病说来话长",
+          "title": "VOL.44献礼护士节｜与协和医院护师对谈临终关怀中的“身、心、社、灵”",
+          "url": "/wiki/sources/vol-44-xianli-hushijie-yu-xiehe-yiyuan-hushi-duitan-linzhong-guanhuai-zhong-de-shen-xin-she-ling-luernzy5tf_brgkkrkc4nw0fgmog/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/donotresuscitatedecision/"
+    },
     "DoctorPatientCommunication": {
       "episode_count": 7,
       "show_count": 3,
@@ -73331,6 +73347,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/heyunzhong/"
     },
+    "HeZhaokaiNurse": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "luernzy5tf_BrgKkrkc4Nw0FGmoG [luernzy5tf_BrgKkrkc4Nw0FGmoG].md",
+          "key": "vol-44-xianli-hushijie-yu-xiehe-yiyuan-hushi-duitan-linzhong-guanhuai-zhong-de-shen-xin-she-ling-luernzy5tf_brgkkrkc4nw0fgmog",
+          "show": "这病说来话长",
+          "title": "VOL.44献礼护士节｜与协和医院护师对谈临终关怀中的“身、心、社、灵”",
+          "url": "/wiki/sources/vol-44-xianli-hushijie-yu-xiehe-yiyuan-hushi-duitan-linzhong-guanhuai-zhong-de-shen-xin-she-ling-luernzy5tf_brgkkrkc4nw0fgmog/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/hezhaokainurse/"
+    },
     "HeadlessSoftware": {
       "episode_count": 7,
       "show_count": 5,
@@ -77014,9 +77046,9 @@
       "url": "/wiki/entities/horstwessellied/"
     },
     "HospiceCare": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "119.安乐死现场：正因生命如此珍贵 [770771087].md",
@@ -77038,9 +77070,16 @@
           "show": "这病说来话长",
           "title": "VOL.110善终是为了更好的活着！生老病死，6位医生视角怎么看？｜世界读书日",
           "url": "/wiki/sources/vol-110-shanzhong-shi-weile-genghao-de-huozhe-shenglaobingsi-6-wei-yisheng-shijiao-zenme-kan-shijie-dushuri-lklwhndplyk73rpqxuraocs4cii5/"
+        },
+        {
+          "episode_file": "luernzy5tf_BrgKkrkc4Nw0FGmoG [luernzy5tf_BrgKkrkc4Nw0FGmoG].md",
+          "key": "vol-44-xianli-hushijie-yu-xiehe-yiyuan-hushi-duitan-linzhong-guanhuai-zhong-de-shen-xin-she-ling-luernzy5tf_brgkkrkc4nw0fgmog",
+          "show": "这病说来话长",
+          "title": "VOL.44献礼护士节｜与协和医院护师对谈临终关怀中的“身、心、社、灵”",
+          "url": "/wiki/sources/vol-44-xianli-hushijie-yu-xiehe-yiyuan-hushi-duitan-linzhong-guanhuai-zhong-de-shen-xin-she-ling-luernzy5tf_brgkkrkc4nw0fgmog/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/hospicecare/"
     },
     "HospitalCapabilityPatientComplexityMatching": {
@@ -125234,6 +125273,29 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/peisistratus/"
     },
+    "PekingUnionMedicalCollegeHospital": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "lpmvs4nuik_bzGLZ3LNADZBNc_eu [lpmvs4nuik_bzGLZ3LNADZBNc_eu].md",
+          "key": "vol-113-xiaohuaneike-cong-shaojianbing-dao-changjianbing-ni-yinggai-renshi-ta-le-ibd-ri-zhuanti-lpmvs4nuik-bzglz3lnadzbnc-eu",
+          "show": "这病说来话长",
+          "title": "VOL.113消化内科｜从“少见病”到“常见病” 你应该认识它了｜IBD日专题",
+          "url": "/wiki/sources/vol-113-xiaohuaneike-cong-shaojianbing-dao-changjianbing-ni-yinggai-renshi-ta-le-ibd-ri-zhuanti-lpmvs4nuik-bzglz3lnadzbnc-eu/"
+        },
+        {
+          "episode_file": "luernzy5tf_BrgKkrkc4Nw0FGmoG [luernzy5tf_BrgKkrkc4Nw0FGmoG].md",
+          "key": "vol-44-xianli-hushijie-yu-xiehe-yiyuan-hushi-duitan-linzhong-guanhuai-zhong-de-shen-xin-she-ling-luernzy5tf_brgkkrkc4nw0fgmog",
+          "show": "这病说来话长",
+          "title": "VOL.44献礼护士节｜与协和医院护师对谈临终关怀中的“身、心、社、灵”",
+          "url": "/wiki/sources/vol-44-xianli-hushijie-yu-xiehe-yiyuan-hushi-duitan-linzhong-guanhuai-zhong-de-shen-xin-she-ling-luernzy5tf_brgkkrkc4nw0fgmog/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/pekingunionmedicalcollegehospital/"
+    },
     "PekingUniversityThirdHospital": {
       "episode_count": 2,
       "show_count": 1,
@@ -172594,6 +172656,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/concepts/wholefoodmostlyplantpattern/"
+    },
+    "WholePersonEndOfLifeCare": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "luernzy5tf_BrgKkrkc4Nw0FGmoG [luernzy5tf_BrgKkrkc4Nw0FGmoG].md",
+          "key": "vol-44-xianli-hushijie-yu-xiehe-yiyuan-hushi-duitan-linzhong-guanhuai-zhong-de-shen-xin-she-ling-luernzy5tf_brgkkrkc4nw0fgmog",
+          "show": "这病说来话长",
+          "title": "VOL.44献礼护士节｜与协和医院护师对谈临终关怀中的“身、心、社、灵”",
+          "url": "/wiki/sources/vol-44-xianli-hushijie-yu-xiehe-yiyuan-hushi-duitan-linzhong-guanhuai-zhong-de-shen-xin-she-ling-luernzy5tf_brgkkrkc4nw0fgmog/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/wholepersonendoflifecare/"
     },
     "WholesaleRetailerAmplification": {
       "episode_count": 1,
