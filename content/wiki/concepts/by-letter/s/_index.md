@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 8726
+wiki_total_pages: 8729
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1352,6 +1352,9 @@ wiki_pages:
   - key: "SpecialtyRetailLogistics"
     title: "Specialty Retail Logistics"
     url: "/wiki/concepts/specialtyretaillogistics/"
+  - key: "SpecialtyWaterEvidenceBoundary"
+    title: "Specialty Water Evidence Boundary"
+    url: "/wiki/concepts/specialtywaterevidenceboundary/"
   - key: "SpeciesAppropriateAnimalCare"
     title: "Species-Appropriate Animal Care"
     url: "/wiki/concepts/speciesappropriateanimalcare/"

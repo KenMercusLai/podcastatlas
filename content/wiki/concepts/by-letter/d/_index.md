@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 8726
+wiki_total_pages: 8729
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -17,6 +17,9 @@ wiki_pages:
   - key: "DailyCircadianPerformanceRoutine"
     title: "Daily Circadian Performance Routine"
     url: "/wiki/concepts/dailycircadianperformanceroutine/"
+  - key: "DailyHydrationTiming"
+    title: "Daily Hydration Timing"
+    url: "/wiki/concepts/dailyhydrationtiming/"
   - key: "DailyLeverageReset"
     title: "Daily Leverage Reset"
     url: "/wiki/concepts/dailyleveragereset/"

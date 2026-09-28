@@ -5,7 +5,8 @@ tags: [nutrition, hydration, sports, healthcare]
 sources:
   - vol-209-bie-wei-gongnengxing-shangtou-ni-yiwei-de-jingzhun-yangsheng-qishi-yue-bu-yue-zao-liao-liao-daicanfen-dianjiezhi-dengdeng-ljlwqq2yhtcsa4r3nvnzaa6p5i9o
   - essentials-how-to-build-endurance-scim1120276865
-last_updated: 2026-09-21
+  - how-to-optimize-your-water-quality-intake-for-health-scim6169879512
+last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,6 +22,8 @@ The boundary is that ordinary low-consumption activity does not automatically ju
 
 The endurance episode strengthens the exertion side of that boundary by treating heat, intensity, sweat loss, and body-mass change as performance context and by emphasizing sodium, potassium, and magnesium in neural signaling. Its reported sweat-loss range, performance-loss percentages, and Galpin fluid equation remain heuristics rather than universal replacement targets, especially when disease, medication, climate, or overhydration risk changes the calculation.
 
+The water-quality episode reinforces the same contextual rule across ordinary hydration, exercise, heat, sauna, and caffeine. It names sodium, potassium, and magnesium as possible additions when losses justify them, but supplies no universal concentration or dose; electrolyte replacement therefore remains subordinate to actual loss, diet, symptoms, and medical context.
+
 ## Key Claims
 - Electrolyte replacement is most plausible after meaningful mineral loss through heavy sweating, diarrhea, vomiting, heat, or sustained exercise.
 - Sports drinks may include sugar for quick energy in exercise contexts, so sugar is not automatically evidence of a bad formulation.
@@ -28,7 +31,7 @@ The endurance episode strengthens the exertion side of that boundary by treating
 - Kidney dysfunction, high sodium intake, and high blood pressure are caution conditions for treating electrolyte drinks as daily water.
 - Label reading still matters because sodium, carbohydrate, serving size, and total daily intake determine the actual burden.
 - The concept is a context boundary, not a universal anti-electrolyte rule.
-- Exercise-fluid formulas and body-mass estimates can orient replacement, but they do not override individual sweat rate, climate, diet, thirst, or medical context.
+- Exercise-fluid formulas and body-mass estimates can orient replacement, while sauna, heat, and caffeine can change fluid planning without overriding individual sweat rate, climate, diet, thirst, medical context, or automatically requiring a commercial electrolyte product.
 
 ## Evidence
 - Mineral-loss context: [[vol-209-bie-wei-gongnengxing-shangtou-ni-yiwei-de-jingzhun-yangsheng-qishi-yue-bu-yue-zao-liao-liao-daicanfen-dianjiezhi-dengdeng-ljlwqq2yhtcsa4r3nvnzaa6p5i9o]] ties electrolyte loss to heavy sweating, diarrhea, and vomiting.
@@ -37,14 +40,15 @@ The endurance episode strengthens the exertion side of that boundary by treating
 - Sodium and disease caveat: [[vol-209-bie-wei-gongnengxing-shangtou-ni-yiwei-de-jingzhun-yangsheng-qishi-yue-bu-yue-zao-liao-liao-daicanfen-dianjiezhi-dengdeng-ljlwqq2yhtcsa4r3nvnzaa6p5i9o]] warns kidney-impaired, high-sodium, and high-blood-pressure listeners against drinking electrolyte beverages like water.
 - Product-use framing: [[vol-209-bie-wei-gongnengxing-shangtou-ni-yiwei-de-jingzhun-yangsheng-qishi-yue-bu-yue-zao-liao-liao-daicanfen-dianjiezhi-dengdeng-ljlwqq2yhtcsa4r3nvnzaa6p5i9o]] treats electrolyte beverages as scenario-specific products rather than general wellness upgrades.
 - Exercise-loss context: [[essentials-how-to-build-endurance-scim1120276865]] links hydration and sodium, potassium, and magnesium to physical work, reports broad sweat- and performance-loss estimates, and offers a body-weight-based fluid heuristic.
+- Wider hydration context: [[how-to-optimize-your-water-quality-intake-for-health-scim6169879512]] discusses sodium, potassium, and magnesium alongside exercise, heat, sauna, and caffeine while leaving dose and formulation individualized.
 
 ## Counterevidence & Qualifications
-The sources do not establish universal exercise-duration thresholds, sodium targets, renal criteria, blood-pressure protocols, or safe upper fluid limits. The endurance source's numerical loss estimates and fluid equation are not individualized prescriptions, and excessive fluid intake can also be unsafe. This synthesis is public education: use context and medical status matter, and people with disease, medication, heat illness, prolonged gastrointestinal loss, or serious dehydration should seek qualified care.
+The sources do not establish universal exercise-duration thresholds, sodium targets, renal criteria, blood-pressure protocols, caffeine replacement ratios, sauna formulas, or safe upper fluid limits. The numerical loss estimates and fluid equations are not individualized prescriptions, and excessive fluid or electrolyte intake can also be unsafe. This synthesis is public education: use context and medical status matter, and people with disease, medication, heat illness, prolonged gastrointestinal loss, or serious dehydration should seek qualified care.
 
 ## What Changed
-- Added a hydration concept distinguishing meaningful electrolyte replacement from health-halo daily drinking.
-- Connected electrolyte drinks to sweat, gastrointestinal loss, sport energy, sodium burden, kidney function, blood pressure, and label reading.
-- Added exertion-specific fluid-loss context while bounding the episode's numeric estimates and formula.
+- Added sauna, heat, and caffeine to the context assessment.
+- Reinforced that mineral replacement depends on actual loss rather than a hydration halo.
+- Kept fluid formulas, ratios, and electrolyte doses source-scoped.
 
 ## Related Concepts
 - [[ExerciseLoadManagement]] - exercise-context neighbor where hydration and fatigue interact with training load.
@@ -54,3 +58,4 @@ The sources do not establish universal exercise-duration thresholds, sodium targ
 - [[MedicalRiskManagement]] - clinical boundary for kidney function, blood pressure, dehydration, and illness.
 - [[CardiovascularExerciseRiskBoundary]] - exercise safety neighbor where heart and blood-pressure context matter.
 - [[ExerciseHydrationPerformanceBoundary]] - narrower performance frame for sweat loss, body-mass change, fluid heuristics, and supplement caution.
+- [[DailyHydrationTiming]] - ordinary waking-day fluid distribution outside loss-replacement scenarios.

@@ -24947,3 +24947,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | How to Optimize Your Water Quality & Intake for Health
+
+Added source `how-to-optimize-your-water-quality-intake-for-health-scim6169879512`; created `DailyHydrationTiming`, `HouseholdWaterQualityFiltration`, and `SpecialtyWaterEvidenceBoundary`; and updated `AndrewHuberman`, `HubermanLab`, `ExerciseHydrationPerformanceBoundary`, `ElectrolyteDrinkUseBoundary`, `FluorideRiskBenefitBoundary`, and the canonical index from their complete bounded source sets. Core synthesis: hydration guidance is best treated as timing- and context-aware rather than quota-driven; household filtration should begin with local data, the delivery path, and a named contaminant; and specialty-water mechanisms or biomarkers should not be promoted into broad clinical outcomes. An unresolved source-level tension was preserved between this episode's thyroid concern around 0.5 mg/L fluoride and another episode's reported 0.7 mg/L U.S. community target. All numeric intake, heat, sauna, caffeine, aquaporin, contaminant, mineral, hydrogen-water, and structured-water claims remain source-scoped public education rather than individualized medical or water-safety guidance. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

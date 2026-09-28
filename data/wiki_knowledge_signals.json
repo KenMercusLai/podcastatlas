@@ -9795,9 +9795,9 @@
       "url": "/wiki/entities/andrewbogle/"
     },
     "AndrewHuberman": {
-      "episode_count": 53,
+      "episode_count": 54,
       "show_count": 1,
-      "source_note_count": 53,
+      "source_note_count": 54,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -10169,9 +10169,16 @@
           "show": "Huberman Lab",
           "title": "Ketamine: Benefits and Risks for Depression, PTSD & Neuroplasticity",
           "url": "/wiki/sources/ketamine-benefits-risks-for-depression-ptsd-neuroplasticity-scim3757014952/"
+        },
+        {
+          "episode_file": "SCIM6169879512 [SCIM6169879512].md",
+          "key": "how-to-optimize-your-water-quality-intake-for-health-scim6169879512",
+          "show": "Huberman Lab",
+          "title": "How to Optimize Your Water Quality & Intake for Health",
+          "url": "/wiki/sources/how-to-optimize-your-water-quality-intake-for-health-scim6169879512/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-09-29",
       "url": "/wiki/entities/andrewhuberman/"
     },
     "AndrewLoogOldham": {
@@ -38884,6 +38891,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/dailycircadianperformanceroutine/"
     },
+    "DailyHydrationTiming": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6169879512 [SCIM6169879512].md",
+          "key": "how-to-optimize-your-water-quality-intake-for-health-scim6169879512",
+          "show": "Huberman Lab",
+          "title": "How to Optimize Your Water Quality & Intake for Health",
+          "url": "/wiki/sources/how-to-optimize-your-water-quality-intake-for-health-scim6169879512/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/dailyhydrationtiming/"
+    },
     "DairyCategoryPremiumization": {
       "episode_count": 1,
       "show_count": 1,
@@ -48943,9 +48966,9 @@
       "url": "/wiki/concepts/electricityaffordabilityindicator/"
     },
     "ElectrolyteDrinkUseBoundary": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "ljLwQq2yHTCsa4r3NvNzaA6P5I9O [ljLwQq2yHTCsa4r3NvNzaA6P5I9O].md",
@@ -48960,9 +48983,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Build Endurance",
           "url": "/wiki/sources/essentials-how-to-build-endurance-scim1120276865/"
+        },
+        {
+          "episode_file": "SCIM6169879512 [SCIM6169879512].md",
+          "key": "how-to-optimize-your-water-quality-intake-for-health-scim6169879512",
+          "show": "Huberman Lab",
+          "title": "How to Optimize Your Water Quality & Intake for Health",
+          "url": "/wiki/sources/how-to-optimize-your-water-quality-intake-for-health-scim6169879512/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/electrolytedrinkuseboundary/"
     },
     "ElectronicCigaretteRisk": {
@@ -55126,9 +55156,9 @@
       "url": "/wiki/concepts/exerciseheatmanagement/"
     },
     "ExerciseHydrationPerformanceBoundary": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1120276865 [SCIM1120276865].md",
@@ -55136,9 +55166,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Build Endurance",
           "url": "/wiki/sources/essentials-how-to-build-endurance-scim1120276865/"
+        },
+        {
+          "episode_file": "SCIM6169879512 [SCIM6169879512].md",
+          "key": "how-to-optimize-your-water-quality-intake-for-health-scim6169879512",
+          "show": "Huberman Lab",
+          "title": "How to Optimize Your Water Quality & Intake for Health",
+          "url": "/wiki/sources/how-to-optimize-your-water-quality-intake-for-health-scim6169879512/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/exercisehydrationperformanceboundary/"
     },
     "ExerciseLoadManagement": {
@@ -60663,9 +60700,9 @@
       "url": "/wiki/entities/flowerofscotland/"
     },
     "FluorideRiskBenefitBoundary": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM9002750849 [SCIM9002750849].md",
@@ -60687,9 +60724,16 @@
           "show": "Huberman Lab",
           "title": "AMA #15: Fluoride Benefits/Risks & Vagus Nerve Stimulation",
           "url": "/wiki/sources/ama-15-fluoride-benefits-risks-vagus-nerve-stimulation-scim9500186850/"
+        },
+        {
+          "episode_file": "SCIM6169879512 [SCIM6169879512].md",
+          "key": "how-to-optimize-your-water-quality-intake-for-health-scim6169879512",
+          "show": "Huberman Lab",
+          "title": "How to Optimize Your Water Quality & Intake for Health",
+          "url": "/wiki/sources/how-to-optimize-your-water-quality-intake-for-health-scim6169879512/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/fluorideriskbenefitboundary/"
     },
     "FlywheelWordPressHosting": {
@@ -79228,6 +79272,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/concepts/householdoccupationcontrol/"
     },
+    "HouseholdWaterQualityFiltration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6169879512 [SCIM6169879512].md",
+          "key": "how-to-optimize-your-water-quality-intake-for-health-scim6169879512",
+          "show": "Huberman Lab",
+          "title": "How to Optimize Your Water Quality & Intake for Health",
+          "url": "/wiki/sources/how-to-optimize-your-water-quality-intake-for-health-scim6169879512/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/householdwaterqualityfiltration/"
+    },
     "HousingLeverageRisk": {
       "episode_count": 1,
       "show_count": 1,
@@ -80400,9 +80460,9 @@
       "url": "/wiki/entities/hubeihumanoidinnovationcenter/"
     },
     "HubermanLab": {
-      "episode_count": 53,
+      "episode_count": 54,
       "show_count": 1,
-      "source_note_count": 53,
+      "source_note_count": 54,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -80774,9 +80834,16 @@
           "show": "Huberman Lab",
           "title": "Ketamine: Benefits and Risks for Depression, PTSD & Neuroplasticity",
           "url": "/wiki/sources/ketamine-benefits-risks-for-depression-ptsd-neuroplasticity-scim3757014952/"
+        },
+        {
+          "episode_file": "SCIM6169879512 [SCIM6169879512].md",
+          "key": "how-to-optimize-your-water-quality-intake-for-health-scim6169879512",
+          "show": "Huberman Lab",
+          "title": "How to Optimize Your Water Quality & Intake for Health",
+          "url": "/wiki/sources/how-to-optimize-your-water-quality-intake-for-health-scim6169879512/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-09-29",
       "url": "/wiki/entities/hubermanlab/"
     },
     "HubertHumphrey": {
@@ -155126,6 +155193,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/concepts/specialtyretaillogistics/"
+    },
+    "SpecialtyWaterEvidenceBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6169879512 [SCIM6169879512].md",
+          "key": "how-to-optimize-your-water-quality-intake-for-health-scim6169879512",
+          "show": "Huberman Lab",
+          "title": "How to Optimize Your Water Quality & Intake for Health",
+          "url": "/wiki/sources/how-to-optimize-your-water-quality-intake-for-health-scim6169879512/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/specialtywaterevidenceboundary/"
     },
     "SpeciesAppropriateAnimalCare": {
       "episode_count": 1,

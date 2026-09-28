@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 8726
+wiki_total_pages: 8729
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -704,6 +704,9 @@ wiki_pages:
   - key: "HouseholdSeparationLaw"
     title: "Household Separation Law / 分居令"
     url: "/wiki/concepts/householdseparationlaw/"
+  - key: "HouseholdWaterQualityFiltration"
+    title: "Household Water Quality and Filtration"
+    url: "/wiki/concepts/householdwaterqualityfiltration/"
   - key: "HousingAffordabilitySupplyMechanics"
     title: "Housing Affordability Supply Mechanics"
     url: "/wiki/concepts/housingaffordabilitysupplymechanics/"

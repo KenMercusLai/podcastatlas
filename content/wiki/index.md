@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Optimize Your Water Quality & Intake for Health](sources/how-to-optimize-your-water-quality-intake-for-health-scim6169879512.md) — Huberman Lab solo episode on hydration timing, exercise and heat losses, tap-water assessment, filtration, minerals, and specialty-water evidence boundaries.
 - [VOL.27妇产科｜关于生理痛、HPV、避孕、怀孕我们要知道的这些误区和知识点](sources/vol-27-fuchanke-guanyu-shenglitong-hpv-biyun-huaiyun-women-yao-zhidao-de-zhexie-wuqu-he-zhishidian-lsdiuqrn72kocqbldexyzqglbwq6.md) — 这病说来话长 episode on menstrual and gynecological triage, HPV, contraception, prenatal screening limits, pregnancy care, delivery, and postpartum myths.
 - [311: Reagan: The Road to the White House (Part 2)](sources/311-reagan-the-road-to-the-white-house-part-2-glt9813084891.md) — The Rest Is History episode on Reagan's GE speaking apprenticeship, Goldwater breakthrough, California pragmatism, coded racial appeals, and 1980 coalition.
 - [312: Reagan, Iran-Contra and the Cold War (Part 3)](sources/312-reagan-iran-contra-and-the-cold-war-part-3-glt4042202229.md) — The Rest Is History episode on Reagan's symbolic leadership, contested economic program, AIDS and Iran-Contra failures, nuclear fear, and arms-control diplomacy with Gorbachev.
@@ -14517,6 +14518,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Satchin Panda](entities/SatchinPanda.md) — Circadian-biology researcher separating meal timing, fasting duration, energy intake, and evidence limits in animal and human studies.
 
 ## Concepts
+- [Daily Hydration Timing](concepts/DailyHydrationTiming.md) — Timing-aware framework for distributing fluid across the waking day while adapting to activity, heat, health context, and nighttime urination.
+- [Household Water Quality and Filtration](concepts/HouseholdWaterQualityFiltration.md) — Local-report, plumbing, contaminant, maintenance, filter-performance, cost, and mineral-tradeoff decision frame.
+- [Specialty Water Evidence Boundary](concepts/SpecialtyWaterEvidenceBoundary.md) — Evidence hierarchy for alkaline, hydrogen-rich, deuterium-depleted, electrolyzed, and structured waters.
 - [Prenatal Screening and Pregnancy-Care Limits / 产前筛查与孕期照护边界](concepts/PrenatalScreeningAndPregnancyCareLimits.md) — Risk-communication frame for early assessment, bounded prenatal and genetic testing, exposure management, imaging, and delivery planning.
 - [Influenza Home-Care and Medication Triage / 流感居家照护与用药分诊](concepts/InfluenzaHomeCareAndMedicationTriage.md) — Integrates influenza symptom patterns, early test uncertainty, escalation, antiviral timing, ingredient overlap, antibiotic stewardship, and proportionate prevention.
 - [Corporate Speaking as Political Apprenticeship](concepts/CorporateSpeakingPoliticalApprenticeship.md) — Conversion of employer-funded broadcasting, travel, workplace contact, and repeated explanation into electoral skill and message.
