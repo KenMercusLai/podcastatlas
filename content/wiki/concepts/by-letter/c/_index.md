@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8662
+wiki_total_pages: 8666
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -899,6 +899,9 @@ wiki_pages:
   - key: "CholulaMassacre"
     title: "Cholula Massacre"
     url: "/wiki/concepts/cholulamassacre/"
+  - key: "ChoreographicSpace"
+    title: "Choreographic Space / 编舞空间组织"
+    url: "/wiki/concepts/choreographicspace/"
   - key: "ChristianInheritanceOfEnlightenmentRights"
     title: "Christian Inheritance of Enlightenment Rights"
     url: "/wiki/concepts/christianinheritanceofenlightenmentrights/"

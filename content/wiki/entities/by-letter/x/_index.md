@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 11265
+wiki_total_pages: 11273
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -728,6 +728,12 @@ wiki_pages:
   - key: "XieChen"
     title: "谢晨"
     url: "/wiki/entities/xiechen/"
+  - key: "XieXinChoreographer"
+    title: "谢欣 / Xie Xin"
+    url: "/wiki/entities/xiexinchoreographer/"
+  - key: "XieXinDanceTheatre"
+    title: "谢欣舞蹈剧场 / Xie Xin Dance Theatre"
+    url: "/wiki/entities/xiexindancetheatre/"
   - key: "XieZhiyu"
     title: "谢治宇 / Xie Zhiyu"
     url: "/wiki/entities/xiezhiyu/"

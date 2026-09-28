@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 11265
+wiki_total_pages: 11273
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -113,6 +113,9 @@ wiki_pages:
   - key: "DanWang"
     title: "Dan Wang"
     url: "/wiki/entities/danwang/"
+  - key: "DanceReflections"
+    title: "Dance Reflections by Van Cleef & Arpels / 梵克雅宝舞蹈映像"
+    url: "/wiki/entities/dancereflections/"
   - key: "DangerousVisions"
     title: "Dangerous Visions"
     url: "/wiki/entities/dangerousvisions/"

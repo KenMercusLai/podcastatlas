@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 8662
+wiki_total_pages: 8666
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -32,6 +32,12 @@ wiki_pages:
   - key: "DanNoUraBattle"
     title: "Dan-no-ura Battle"
     url: "/wiki/concepts/dannourabattle/"
+  - key: "DanceAsOpenEmbodiedInquiry"
+    title: "Dance as Open Embodied Inquiry / 舞蹈作为开放的身体探究"
+    url: "/wiki/concepts/danceasopenembodiedinquiry/"
+  - key: "DanceParticipationProfessionalBoundary"
+    title: "Dance Participation–Professionalism Boundary / 舞蹈参与与专业创作边界"
+    url: "/wiki/concepts/danceparticipationprofessionalboundary/"
   - key: "DanegeldEscalation"
     title: "Danegeld Escalation"
     url: "/wiki/concepts/danegeldescalation/"

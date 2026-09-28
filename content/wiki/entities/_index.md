@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 11265
+wiki_total_pages: 11273
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1670,6 +1670,9 @@ wiki_pages:
   - key: "Aweil"
     title: "Aweil / 阿维尔"
     url: "/wiki/entities/aweil/"
+  - key: "AWPlanet"
+    title: "AWPlanet"
+    url: "/wiki/entities/awplanet/"
   - key: "AxelVonFersen"
     title: "Axel von Fersen"
     url: "/wiki/entities/axelvonfersen/"

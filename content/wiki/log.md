@@ -24722,3 +24722,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | EP286 在越来越数字化的时代，如何通过舞蹈重新找回用身体感知世界的能力？
+
+Added source `ep286-zai-yuelaiyue-shuzihua-de-shidai-ruhe-tongguo-wudao-zhongxin-zhaohui-yong-shenti-ganzhi-shijie-de-nengli-ltbnmxye2gnqzs4oubhe3mtmx0q9`; created `SergeLaurent`, `XieXinChoreographer`, `JinXiaolin`, `ZengYan`, `DanceReflections`, `VanCleefArpels`, `XieXinDanceTheatre`, `AWPlanet`, `EmbodiedPerceptionRecovery`, `DanceAsOpenEmbodiedInquiry`, `ChoreographicSpace`, and `DanceParticipationProfessionalBoundary`; and updated `MovementPracticeAsAwareness` from its complete bounded source set. Core synthesis: screen-heavy life can narrow bodily attention, while breath, release, self-touch, and simple movement can restore perception; dance communicates through shared embodiment without imposing one interpretation; choreography organizes temporary spatial relations; and public participation does not erase the training required for artistic production. No settled contradiction was adopted. The supplied summary's “金晓玲” conflicts with the official episode metadata's “金晓霖,” so the canonical entity uses 金晓霖. AI-replacement claims, cross-cultural effects, modern/contemporary/postmodern distinctions, and program impact remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

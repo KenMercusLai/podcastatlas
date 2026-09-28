@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 8662
+wiki_total_pages: 8666
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -371,6 +371,9 @@ wiki_pages:
   - key: "EmbodiedNativeFoundationModels"
     title: "Embodied Native Foundation Models"
     url: "/wiki/concepts/embodiednativefoundationmodels/"
+  - key: "EmbodiedPerceptionRecovery"
+    title: "Embodied Perception Recovery / 身体感知恢复"
+    url: "/wiki/concepts/embodiedperceptionrecovery/"
   - key: "EmbodiedPersonhood"
     title: "Embodied Personhood"
     url: "/wiki/concepts/embodiedpersonhood/"

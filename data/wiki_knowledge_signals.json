@@ -4399,6 +4399,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/auxgroup/"
     },
+    "AWPlanet": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP286 在越来越数字化的时代，如何通过舞蹈重新找回用身体感知世界的能力？ [ltBnMxYe2gnQzs4OUbHe3mTmx0Q9].md",
+          "key": "ep286-zai-yuelaiyue-shuzihua-de-shidai-ruhe-tongguo-wudao-zhongxin-zhaohui-yong-shenti-ganzhi-shijie-de-nengli-ltbnmxye2gnqzs4oubhe3mtmx0q9",
+          "show": "Talk三联",
+          "title": "EP286 在越来越数字化的时代，如何通过舞蹈重新找回用身体感知世界的能力？",
+          "url": "/wiki/sources/ep286-zai-yuelaiyue-shuzihua-de-shidai-ruhe-tongguo-wudao-zhongxin-zhaohui-yong-shenti-ganzhi-shijie-de-nengli-ltbnmxye2gnqzs4oubhe3mtmx0q9/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/awplanet/"
+    },
     "AaronBraun": {
       "episode_count": 2,
       "show_count": 1,
@@ -29794,6 +29810,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/chongming/"
     },
+    "ChoreographicSpace": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP286 在越来越数字化的时代，如何通过舞蹈重新找回用身体感知世界的能力？ [ltBnMxYe2gnQzs4OUbHe3mTmx0Q9].md",
+          "key": "ep286-zai-yuelaiyue-shuzihua-de-shidai-ruhe-tongguo-wudao-zhongxin-zhaohui-yong-shenti-ganzhi-shijie-de-nengli-ltbnmxye2gnqzs4oubhe3mtmx0q9",
+          "show": "Talk三联",
+          "title": "EP286 在越来越数字化的时代，如何通过舞蹈重新找回用身体感知世界的能力？",
+          "url": "/wiki/sources/ep286-zai-yuelaiyue-shuzihua-de-shidai-ruhe-tongguo-wudao-zhongxin-zhaohui-yong-shenti-ganzhi-shijie-de-nengli-ltbnmxye2gnqzs4oubhe3mtmx0q9/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/choreographicspace/"
+    },
     "Chouxiangzai": {
       "episode_count": 2,
       "show_count": 2,
@@ -38300,6 +38332,54 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/danpashman/"
+    },
+    "DanceAsOpenEmbodiedInquiry": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP286 在越来越数字化的时代，如何通过舞蹈重新找回用身体感知世界的能力？ [ltBnMxYe2gnQzs4OUbHe3mTmx0Q9].md",
+          "key": "ep286-zai-yuelaiyue-shuzihua-de-shidai-ruhe-tongguo-wudao-zhongxin-zhaohui-yong-shenti-ganzhi-shijie-de-nengli-ltbnmxye2gnqzs4oubhe3mtmx0q9",
+          "show": "Talk三联",
+          "title": "EP286 在越来越数字化的时代，如何通过舞蹈重新找回用身体感知世界的能力？",
+          "url": "/wiki/sources/ep286-zai-yuelaiyue-shuzihua-de-shidai-ruhe-tongguo-wudao-zhongxin-zhaohui-yong-shenti-ganzhi-shijie-de-nengli-ltbnmxye2gnqzs4oubhe3mtmx0q9/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/danceasopenembodiedinquiry/"
+    },
+    "DanceParticipationProfessionalBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP286 在越来越数字化的时代，如何通过舞蹈重新找回用身体感知世界的能力？ [ltBnMxYe2gnQzs4OUbHe3mTmx0Q9].md",
+          "key": "ep286-zai-yuelaiyue-shuzihua-de-shidai-ruhe-tongguo-wudao-zhongxin-zhaohui-yong-shenti-ganzhi-shijie-de-nengli-ltbnmxye2gnqzs4oubhe3mtmx0q9",
+          "show": "Talk三联",
+          "title": "EP286 在越来越数字化的时代，如何通过舞蹈重新找回用身体感知世界的能力？",
+          "url": "/wiki/sources/ep286-zai-yuelaiyue-shuzihua-de-shidai-ruhe-tongguo-wudao-zhongxin-zhaohui-yong-shenti-ganzhi-shijie-de-nengli-ltbnmxye2gnqzs4oubhe3mtmx0q9/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/danceparticipationprofessionalboundary/"
+    },
+    "DanceReflections": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP286 在越来越数字化的时代，如何通过舞蹈重新找回用身体感知世界的能力？ [ltBnMxYe2gnQzs4OUbHe3mTmx0Q9].md",
+          "key": "ep286-zai-yuelaiyue-shuzihua-de-shidai-ruhe-tongguo-wudao-zhongxin-zhaohui-yong-shenti-ganzhi-shijie-de-nengli-ltbnmxye2gnqzs4oubhe3mtmx0q9",
+          "show": "Talk三联",
+          "title": "EP286 在越来越数字化的时代，如何通过舞蹈重新找回用身体感知世界的能力？",
+          "url": "/wiki/sources/ep286-zai-yuelaiyue-shuzihua-de-shidai-ruhe-tongguo-wudao-zhongxin-zhaohui-yong-shenti-ganzhi-shijie-de-nengli-ltbnmxye2gnqzs4oubhe3mtmx0q9/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/dancereflections/"
     },
     "DanegeldEscalation": {
       "episode_count": 2,
@@ -48605,6 +48685,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/embodiedintelligencevehiclepath/"
+    },
+    "EmbodiedPerceptionRecovery": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP286 在越来越数字化的时代，如何通过舞蹈重新找回用身体感知世界的能力？ [ltBnMxYe2gnQzs4OUbHe3mTmx0Q9].md",
+          "key": "ep286-zai-yuelaiyue-shuzihua-de-shidai-ruhe-tongguo-wudao-zhongxin-zhaohui-yong-shenti-ganzhi-shijie-de-nengli-ltbnmxye2gnqzs4oubhe3mtmx0q9",
+          "show": "Talk三联",
+          "title": "EP286 在越来越数字化的时代，如何通过舞蹈重新找回用身体感知世界的能力？",
+          "url": "/wiki/sources/ep286-zai-yuelaiyue-shuzihua-de-shidai-ruhe-tongguo-wudao-zhongxin-zhaohui-yong-shenti-ganzhi-shijie-de-nengli-ltbnmxye2gnqzs4oubhe3mtmx0q9/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/embodiedperceptionrecovery/"
     },
     "EmbodiedRobotDataTradeoff": {
       "episode_count": 1,
@@ -89355,6 +89451,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/jinwenjinglatehan/"
     },
+    "JinXiaolin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP286 在越来越数字化的时代，如何通过舞蹈重新找回用身体感知世界的能力？ [ltBnMxYe2gnQzs4OUbHe3mTmx0Q9].md",
+          "key": "ep286-zai-yuelaiyue-shuzihua-de-shidai-ruhe-tongguo-wudao-zhongxin-zhaohui-yong-shenti-ganzhi-shijie-de-nengli-ltbnmxye2gnqzs4oubhe3mtmx0q9",
+          "show": "Talk三联",
+          "title": "EP286 在越来越数字化的时代，如何通过舞蹈重新找回用身体感知世界的能力？",
+          "url": "/wiki/sources/ep286-zai-yuelaiyue-shuzihua-de-shidai-ruhe-tongguo-wudao-zhongxin-zhaohui-yong-shenti-ganzhi-shijie-de-nengli-ltbnmxye2gnqzs4oubhe3mtmx0q9/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/jinxiaolin/"
+    },
     "JingDanEasternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -115421,9 +115533,9 @@
       "url": "/wiki/concepts/mourningdiplomaticrestraint/"
     },
     "MovementPracticeAsAwareness": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM2496765743 [SCIM2496765743].md",
@@ -115438,9 +115550,16 @@
           "show": "Huberman Lab",
           "title": "Protocols to Strengthen & Pain Proof Your Back",
           "url": "/wiki/sources/protocols-to-strengthen-pain-proof-your-back-scim8264963647/"
+        },
+        {
+          "episode_file": "EP286 在越来越数字化的时代，如何通过舞蹈重新找回用身体感知世界的能力？ [ltBnMxYe2gnQzs4OUbHe3mTmx0Q9].md",
+          "key": "ep286-zai-yuelaiyue-shuzihua-de-shidai-ruhe-tongguo-wudao-zhongxin-zhaohui-yong-shenti-ganzhi-shijie-de-nengli-ltbnmxye2gnqzs4oubhe3mtmx0q9",
+          "show": "Talk三联",
+          "title": "EP286 在越来越数字化的时代，如何通过舞蹈重新找回用身体感知世界的能力？",
+          "url": "/wiki/sources/ep286-zai-yuelaiyue-shuzihua-de-shidai-ruhe-tongguo-wudao-zhongxin-zhaohui-yong-shenti-ganzhi-shijie-de-nengli-ltbnmxye2gnqzs4oubhe3mtmx0q9/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/movementpracticeasawareness/"
     },
     "MovementScreenScoring": {
@@ -145877,6 +145996,22 @@
       "updated": "2026-09-24",
       "url": "/wiki/entities/serbia/"
     },
+    "SergeLaurent": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP286 在越来越数字化的时代，如何通过舞蹈重新找回用身体感知世界的能力？ [ltBnMxYe2gnQzs4OUbHe3mTmx0Q9].md",
+          "key": "ep286-zai-yuelaiyue-shuzihua-de-shidai-ruhe-tongguo-wudao-zhongxin-zhaohui-yong-shenti-ganzhi-shijie-de-nengli-ltbnmxye2gnqzs4oubhe3mtmx0q9",
+          "show": "Talk三联",
+          "title": "EP286 在越来越数字化的时代，如何通过舞蹈重新找回用身体感知世界的能力？",
+          "url": "/wiki/sources/ep286-zai-yuelaiyue-shuzihua-de-shidai-ruhe-tongguo-wudao-zhongxin-zhaohui-yong-shenti-ganzhi-shijie-de-nengli-ltbnmxye2gnqzs4oubhe3mtmx0q9/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/sergelaurent/"
+    },
     "SergeiSazonov": {
       "episode_count": 1,
       "show_count": 1,
@@ -167342,6 +167477,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/valuesbasedaigovernance/"
     },
+    "VanCleefArpels": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP286 在越来越数字化的时代，如何通过舞蹈重新找回用身体感知世界的能力？ [ltBnMxYe2gnQzs4OUbHe3mTmx0Q9].md",
+          "key": "ep286-zai-yuelaiyue-shuzihua-de-shidai-ruhe-tongguo-wudao-zhongxin-zhaohui-yong-shenti-ganzhi-shijie-de-nengli-ltbnmxye2gnqzs4oubhe3mtmx0q9",
+          "show": "Talk三联",
+          "title": "EP286 在越来越数字化的时代，如何通过舞蹈重新找回用身体感知世界的能力？",
+          "url": "/wiki/sources/ep286-zai-yuelaiyue-shuzihua-de-shidai-ruhe-tongguo-wudao-zhongxin-zhaohui-yong-shenti-ganzhi-shijie-de-nengli-ltbnmxye2gnqzs4oubhe3mtmx0q9/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/vancleefarpels/"
+    },
     "VandalKingdom": {
       "episode_count": 1,
       "show_count": 1,
@@ -177398,6 +177549,38 @@
       "updated": "2026-09-25",
       "url": "/wiki/entities/xieweiinsurance/"
     },
+    "XieXinChoreographer": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP286 在越来越数字化的时代，如何通过舞蹈重新找回用身体感知世界的能力？ [ltBnMxYe2gnQzs4OUbHe3mTmx0Q9].md",
+          "key": "ep286-zai-yuelaiyue-shuzihua-de-shidai-ruhe-tongguo-wudao-zhongxin-zhaohui-yong-shenti-ganzhi-shijie-de-nengli-ltbnmxye2gnqzs4oubhe3mtmx0q9",
+          "show": "Talk三联",
+          "title": "EP286 在越来越数字化的时代，如何通过舞蹈重新找回用身体感知世界的能力？",
+          "url": "/wiki/sources/ep286-zai-yuelaiyue-shuzihua-de-shidai-ruhe-tongguo-wudao-zhongxin-zhaohui-yong-shenti-ganzhi-shijie-de-nengli-ltbnmxye2gnqzs4oubhe3mtmx0q9/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/xiexinchoreographer/"
+    },
+    "XieXinDanceTheatre": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP286 在越来越数字化的时代，如何通过舞蹈重新找回用身体感知世界的能力？ [ltBnMxYe2gnQzs4OUbHe3mTmx0Q9].md",
+          "key": "ep286-zai-yuelaiyue-shuzihua-de-shidai-ruhe-tongguo-wudao-zhongxin-zhaohui-yong-shenti-ganzhi-shijie-de-nengli-ltbnmxye2gnqzs4oubhe3mtmx0q9",
+          "show": "Talk三联",
+          "title": "EP286 在越来越数字化的时代，如何通过舞蹈重新找回用身体感知世界的能力？",
+          "url": "/wiki/sources/ep286-zai-yuelaiyue-shuzihua-de-shidai-ruhe-tongguo-wudao-zhongxin-zhaohui-yong-shenti-ganzhi-shijie-de-nengli-ltbnmxye2gnqzs4oubhe3mtmx0q9/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/xiexindancetheatre/"
+    },
     "XieYunLateHan": {
       "episode_count": 3,
       "show_count": 1,
@@ -183025,6 +183208,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/zengming/"
+    },
+    "ZengYan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP286 在越来越数字化的时代，如何通过舞蹈重新找回用身体感知世界的能力？ [ltBnMxYe2gnQzs4OUbHe3mTmx0Q9].md",
+          "key": "ep286-zai-yuelaiyue-shuzihua-de-shidai-ruhe-tongguo-wudao-zhongxin-zhaohui-yong-shenti-ganzhi-shijie-de-nengli-ltbnmxye2gnqzs4oubhe3mtmx0q9",
+          "show": "Talk三联",
+          "title": "EP286 在越来越数字化的时代，如何通过舞蹈重新找回用身体感知世界的能力？",
+          "url": "/wiki/sources/ep286-zai-yuelaiyue-shuzihua-de-shidai-ruhe-tongguo-wudao-zhongxin-zhaohui-yong-shenti-ganzhi-shijie-de-nengli-ltbnmxye2gnqzs4oubhe3mtmx0q9/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/zengyan/"
     },
     "ZeroSumConflictHesitationRisk": {
       "episode_count": 6,

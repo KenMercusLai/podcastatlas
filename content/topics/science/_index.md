@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1296
+topic_total_pages: 1297
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -340,6 +340,9 @@ topic_concepts:
   - key: "ChildhoodSurvivalRuleGeneralization"
     title: "Childhood Survival Rule Generalization / 童年生存规则泛化"
     url: "/wiki/concepts/childhoodsurvivalrulegeneralization/"
+  - key: "ChoreographicSpace"
+    title: "Choreographic Space / 编舞空间组织"
+    url: "/wiki/concepts/choreographicspace/"
   - key: "CircadianRhythmExperimentation"
     title: "Circadian Rhythm Experimentation"
     url: "/wiki/concepts/circadianrhythmexperimentation/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "v"
-wiki_total_pages: 11265
+wiki_total_pages: 11273
 wiki_pages:
   - key: "VacheronConstantin"
     title: "Vacheron Constantin"
@@ -26,6 +26,9 @@ wiki_pages:
   - key: "ValoisDynasty"
     title: "Valois Dynasty"
     url: "/wiki/entities/valoisdynasty/"
+  - key: "VanCleefArpels"
+    title: "Van Cleef & Arpels / 梵克雅宝"
+    url: "/wiki/entities/vancleefarpels/"
   - key: "Vancouver"
     title: "Vancouver / 温哥华"
     url: "/wiki/entities/vancouver/"

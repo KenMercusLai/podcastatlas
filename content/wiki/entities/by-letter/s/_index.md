@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 11265
+wiki_total_pages: 11273
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -464,6 +464,9 @@ wiki_pages:
   - key: "Seres"
     title: "Seres / 赛力斯"
     url: "/wiki/entities/seres/"
+  - key: "SergeLaurent"
+    title: "Serge Laurent"
+    url: "/wiki/entities/sergelaurent/"
   - key: "SergeiSazonov"
     title: "Sergei Sazonov"
     url: "/wiki/entities/sergeisazonov/"
