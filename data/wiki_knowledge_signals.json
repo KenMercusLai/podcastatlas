@@ -40198,9 +40198,9 @@
       "url": "/wiki/concepts/dentalantithromboticmedicationcoordination/"
     },
     "DentalProsthesisMaintenance": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "loeRbxIpAqSzz4GgChblZsnvtxO9 [loeRbxIpAqSzz4GgChblZsnvtxO9].md",
@@ -40208,9 +40208,16 @@
           "show": "这病说来话长",
           "title": "VOL.75口腔科｜爸妈洗牙吗？反向转发家族群，让他们“重回”年轻有绝招",
           "url": "/wiki/sources/vol-75-kouqiangke-bama-xiya-ma-fanxiang-zhuanfa-jiazuqun-rang-tamen-zhonghui-nianqing-you-juezhao-loerbxipaqszz4ggchblzsnvtxo9/"
+        },
+        {
+          "episode_file": "lsUpJDTKLqeiNpgFCsNd8ZlaLE5T [lsUpJDTKLqeiNpgFCsNd8ZlaLE5T].md",
+          "key": "vol-55-kouqiangke-zhengji-zhenghe-zhongzhi-yachi-de-zhe-jige-changjian-wuqu-he-yiwen-gongli-yiyuan-zhuren-gei-ni-yi-yi-jiang-qingchu-lsupjdtklqeinpgfcsnd8zlale5t",
+          "show": "这病说来话长",
+          "title": "VOL.55口腔科｜正畸、正颌、种植牙齿的这几个常见误区和疑问 公立医院主任给你一一讲清楚",
+          "url": "/wiki/sources/vol-55-kouqiangke-zhengji-zhenghe-zhongzhi-yachi-de-zhe-jige-changjian-wuqu-he-yiwen-gongli-yiyuan-zhuren-gei-ni-yi-yi-jiang-qingchu-lsupjdtklqeinpgfcsnd8zlale5t/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/dentalprosthesismaintenance/"
     },
     "DentalProviderQualificationAssessment": {
@@ -94038,9 +94045,9 @@
       "url": "/wiki/concepts/lifetimevsmachinetime/"
     },
     "LifecycleOralHealthPrevention": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "lmjeyE3oACbaWtN3OmssKuQeubeh [lmjeyE3oACbaWtN3OmssKuQeubeh].md",
@@ -94076,9 +94083,16 @@
           "show": "这病说来话长",
           "title": "VOL.74口腔科｜咖啡红酒茶上色三件套？牙齿美白选哪种？三甲主任帮你避坑",
           "url": "/wiki/sources/vol-74-kouqiangke-kafei-hongjiu-cha-shangse-sanjian-ta-yachi-meibai-xuan-nazhong-sanjia-zhuren-bang-ni-bikeng-lup1n6wlhmeceqidmllkafzw8w9c/"
+        },
+        {
+          "episode_file": "lsUpJDTKLqeiNpgFCsNd8ZlaLE5T [lsUpJDTKLqeiNpgFCsNd8ZlaLE5T].md",
+          "key": "vol-55-kouqiangke-zhengji-zhenghe-zhongzhi-yachi-de-zhe-jige-changjian-wuqu-he-yiwen-gongli-yiyuan-zhuren-gei-ni-yi-yi-jiang-qingchu-lsupjdtklqeinpgfcsnd8zlale5t",
+          "show": "这病说来话长",
+          "title": "VOL.55口腔科｜正畸、正颌、种植牙齿的这几个常见误区和疑问 公立医院主任给你一一讲清楚",
+          "url": "/wiki/sources/vol-55-kouqiangke-zhengji-zhenghe-zhongzhi-yachi-de-zhe-jige-changjian-wuqu-he-yiwen-gongli-yiyuan-zhuren-gei-ni-yi-yi-jiang-qingchu-lsupjdtklqeinpgfcsnd8zlale5t/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/lifecycleoralhealthprevention/"
     },
     "LifelongSexEducation": {
@@ -117629,9 +117643,9 @@
       "url": "/wiki/concepts/oralhistorymemoryanalysis/"
     },
     "OralMicrobiomePreventiveCare": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM9002750849 [SCIM9002750849].md",
@@ -117667,9 +117681,16 @@
           "show": "这病说来话长",
           "title": "VOL.74口腔科｜咖啡红酒茶上色三件套？牙齿美白选哪种？三甲主任帮你避坑",
           "url": "/wiki/sources/vol-74-kouqiangke-kafei-hongjiu-cha-shangse-sanjian-ta-yachi-meibai-xuan-nazhong-sanjia-zhuren-bang-ni-bikeng-lup1n6wlhmeceqidmllkafzw8w9c/"
+        },
+        {
+          "episode_file": "lsUpJDTKLqeiNpgFCsNd8ZlaLE5T [lsUpJDTKLqeiNpgFCsNd8ZlaLE5T].md",
+          "key": "vol-55-kouqiangke-zhengji-zhenghe-zhongzhi-yachi-de-zhe-jige-changjian-wuqu-he-yiwen-gongli-yiyuan-zhuren-gei-ni-yi-yi-jiang-qingchu-lsupjdtklqeinpgfcsnd8zlale5t",
+          "show": "这病说来话长",
+          "title": "VOL.55口腔科｜正畸、正颌、种植牙齿的这几个常见误区和疑问 公立医院主任给你一一讲清楚",
+          "url": "/wiki/sources/vol-55-kouqiangke-zhengji-zhenghe-zhongzhi-yachi-de-zhe-jige-changjian-wuqu-he-yiwen-gongli-yiyuan-zhuren-gei-ni-yi-yi-jiang-qingchu-lsupjdtklqeinpgfcsnd8zlale5t/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/oralmicrobiomepreventivecare/"
     },
     "OralTurnPoliticalCommunication": {
@@ -117843,9 +117864,9 @@
       "url": "/wiki/concepts/originbiasincoffeeevaluation/"
     },
     "OrthodonticTreatmentContinuity": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lkMKUyYmlFqxIyoes_n5nflvLJrY [lkMKUyYmlFqxIyoes_n5nflvLJrY].md",
@@ -117853,6 +117874,13 @@
           "show": "这病说来话长",
           "title": "VOL.56大学毕业季｜摘眼镜、戴牙套、除皱、战痘、减肥 5学科联袂为你出招",
           "url": "/wiki/sources/vol-56-daxue-biyeji-zhai-yanjing-dai-yatao-chuzhou-zhandou-jianfei-5-xueke-lianmei-wei-ni-chuzhao-lkmkuyymlfqxiyoes-n5nflvljry/"
+        },
+        {
+          "episode_file": "lsUpJDTKLqeiNpgFCsNd8ZlaLE5T [lsUpJDTKLqeiNpgFCsNd8ZlaLE5T].md",
+          "key": "vol-55-kouqiangke-zhengji-zhenghe-zhongzhi-yachi-de-zhe-jige-changjian-wuqu-he-yiwen-gongli-yiyuan-zhuren-gei-ni-yi-yi-jiang-qingchu-lsupjdtklqeinpgfcsnd8zlale5t",
+          "show": "这病说来话长",
+          "title": "VOL.55口腔科｜正畸、正颌、种植牙齿的这几个常见误区和疑问 公立医院主任给你一一讲清楚",
+          "url": "/wiki/sources/vol-55-kouqiangke-zhengji-zhenghe-zhongzhi-yachi-de-zhe-jige-changjian-wuqu-he-yiwen-gongli-yiyuan-zhuren-gei-ni-yi-yi-jiang-qingchu-lsupjdtklqeinpgfcsnd8zlale5t/"
         }
       ],
       "updated": "2026-09-28",
@@ -168776,9 +168804,9 @@
       "url": "/wiki/entities/wubin/"
     },
     "WuBinOralDoctor": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "ll6i050qnIR6OT6TYlDl8meaXJDr [ll6i050qnIR6OT6TYlDl8meaXJDr].md",
@@ -168800,6 +168828,13 @@
           "show": "这病说来话长",
           "title": "VOL.56大学毕业季｜摘眼镜、戴牙套、除皱、战痘、减肥 5学科联袂为你出招",
           "url": "/wiki/sources/vol-56-daxue-biyeji-zhai-yanjing-dai-yatao-chuzhou-zhandou-jianfei-5-xueke-lianmei-wei-ni-chuzhao-lkmkuyymlfqxiyoes-n5nflvljry/"
+        },
+        {
+          "episode_file": "lsUpJDTKLqeiNpgFCsNd8ZlaLE5T [lsUpJDTKLqeiNpgFCsNd8ZlaLE5T].md",
+          "key": "vol-55-kouqiangke-zhengji-zhenghe-zhongzhi-yachi-de-zhe-jige-changjian-wuqu-he-yiwen-gongli-yiyuan-zhuren-gei-ni-yi-yi-jiang-qingchu-lsupjdtklqeinpgfcsnd8zlale5t",
+          "show": "这病说来话长",
+          "title": "VOL.55口腔科｜正畸、正颌、种植牙齿的这几个常见误区和疑问 公立医院主任给你一一讲清楚",
+          "url": "/wiki/sources/vol-55-kouqiangke-zhengji-zhenghe-zhongzhi-yachi-de-zhe-jige-changjian-wuqu-he-yiwen-gongli-yiyuan-zhuren-gei-ni-yi-yi-jiang-qingchu-lsupjdtklqeinpgfcsnd8zlale5t/"
         }
       ],
       "updated": "2026-09-28",

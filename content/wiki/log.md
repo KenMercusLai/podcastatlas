@@ -24355,3 +24355,11 @@ Added source `angpao-qianxia-mubapei-zhihou-paoxie-pinpai-zuo-zuqiu-shengyi-haiy
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | VOL.55口腔科｜正畸、正颌、种植牙齿的这几个常见误区和疑问 公立医院主任给你一一讲清楚
+
+Added source `vol-55-kouqiangke-zhengji-zhenghe-zhongzhi-yachi-de-zhe-jige-changjian-wuqu-he-yiwen-gongli-yiyuan-zhuren-gei-ni-yi-yi-jiang-qingchu-lsupjdtklqeinpgfcsnd8zlale5t`; updated `WuBinOralDoctor`, `OrthodonticTreatmentContinuity`, `DentalProsthesisMaintenance`, `LifecycleOralHealthPrevention`, `OralMicrobiomePreventiveCare`, and the canonical index from their complete bounded source sets. Core synthesis: orthodontic appliances, retainers, implants, brushes, irrigators, toothpastes, crowns, and supplements are tools whose benefit depends on diagnosis, biologic pacing, suitability, technique, cooperation, maintenance, symptoms, and follow-up rather than speed, age, price, or product category alone. No settled contradiction was adopted. Wisdom-tooth contributions to recurrent crowding, treatment timing, medication and bone risk, implant failure, root-canal restoration, and listener-specific symptom claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

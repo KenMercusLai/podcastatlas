@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.55口腔科｜正畸、正颌、种植牙齿的这几个常见误区和疑问 公立医院主任给你一一讲清楚](sources/vol-55-kouqiangke-zhengji-zhenghe-zhongzhi-yachi-de-zhe-jige-changjian-wuqu-he-yiwen-gongli-yiyuan-zhuren-gei-ni-yi-yi-jiang-qingchu-lsupjdtklqeinpgfcsnd8zlale5t.md) — 这病说来话长 Q&A on orthodontic and orthognathic assessment, implant suitability and maintenance, oral-care tools, symptoms, and lifecycle prevention.
 - [346: The Mystery of the Holy Grail (Part 2)](sources/346-the-mystery-of-the-holy-grail-part-2-glt9518077570.md) — The Rest Is History episode on the Grail's medieval textual formation, Eucharistic theology, sacred knighthood, and the chronological weaknesses of pagan and universal-origin theories.
 - [VOL.56大学毕业季｜摘眼镜、戴牙套、除皱、战痘、减肥 5学科联袂为你出招](sources/vol-56-daxue-biyeji-zhai-yanjing-dai-yatao-chuzhou-zhandou-jianfei-5-xueke-lianmei-wei-ni-chuzhao-lkmkuyymlfqxiyoes-n5nflvljry.md) — 这病说来话长 multidisciplinary guide to refractive surgery, orthodontic continuity, medical-aesthetic selection, acne care, and sustainable weight loss.
 - [VOL.57精神科｜心理疾病导致的轻生可预防 给予陪伴是最好的安慰｜认识抑郁和抑郁情绪](sources/vol-57-jingshenke-xinli-jibing-daozhi-de-qingsheng-ke-yufang-jiyu-peiban-shi-zuihao-de-anwei-renshi-yiyu-he-yiyu-qingxu-lhgqmsvos2ybk74qjnrt3bxs0l7d.md) — 这病说来话长 episode on suicide-risk signals, depressed mood versus disorder, nonjudgmental companionship, safety, and professional escalation.
@@ -3440,7 +3441,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mary Claire Haver](entities/MaryClaireHaver.md) — OBGYN and menopause-health educator emphasizing symptom recognition, individualized hormone-therapy decisions, local genitourinary care, and midlife strength and nutrition.
 - [玲珑塔门市部 / Linglongta Menshibu](entities/LinglongtaMenshibu.md) — Crosstalk-centered comedy podcast using an outsider-facing approach to comic craft and lesser-known folk arts.
 - [何思琪 / He Siqi (天津师大校广播)](entities/HeSiqiTianjinNormalRadio.md) — Campus-radio participant who originated the “笑不活” health-and-humor topic.
-- [吴斌 / Wu Bin (口腔科)](entities/WuBinOralDoctor.md) — Oral-health clinician explaining jaw-dislocation triggers, recurrence, escalation, and recovery boundaries.
+- [吴斌 / Wu Bin (口腔科)](entities/WuBinOralDoctor.md) — Oral-health clinician explaining orthodontic, implant, preventive-care, older-adult, and jaw-dislocation boundaries.
 - [翁家毅 / Weng Jiayi](entities/WengJiayiCardiology.md) — Cardiovascular clinician distinguishing ordinary laughter activation from vulnerability-dependent cardiac risk.
 - [Charles II of England](entities/CharlesIIOfEngland.md) — Restoration king joining sober dress politics to charismatic sociability, male friendship, marital protection, and sexual unreliability.
 - [Beau Brummell](entities/BeauBrummell.md) — Regency dandy who made immaculate understatement an expensive elite performance.
@@ -14275,7 +14276,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Grail Eucharistic Theology](concepts/GrailEucharisticTheology.md) — Sacramental framework joining vessel, host, blood, lance, healing, and vision.
 - [Chivalric Sacralization](concepts/ChivalricSacralization.md) — Medieval effort to subordinate warrior prowess and violence to Christian service, compassion, and holiness.
 - [Textual Chronology Origin Testing](concepts/TextualChronologyOriginTesting.md) — Source-critical method testing origin theories against motif dates, object forms, and transmission routes.
-- [Orthodontic Treatment Continuity / 正畸治疗连续性](concepts/OrthodonticTreatmentContinuity.md) — Framework joining appliance choice to diagnosis, repeated review, retention, patient cooperation, relocation, and surgical coordination.
+- [Orthodontic Treatment Continuity / 正畸治疗连续性](concepts/OrthodonticTreatmentContinuity.md) — Framework joining appliance choice to diagnosis, biologic pacing, review, retention, cooperation, relocation, and surgical coordination.
 - [Suicide-Risk Recognition and Support / 轻生风险识别与支持](concepts/SuicideRiskRecognitionAndSupport.md) — Framework joining warning-pattern recognition, nonjudgmental presence, safety protection, and qualified crisis escalation.
 - [No Taxation Without Representation](concepts/NoTaxationWithoutRepresentation.md) — Constitutional claim separating a tax's material burden from the legitimacy of distant parliamentary authority.
 - [American Revolutionary Universalism](concepts/AmericanRevolutionaryUniversalism.md) — Frame treating independence as a general cause of equality, liberty, consent, and republicanism while preserving its founding exclusions.
@@ -14818,8 +14819,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lancastrian Legitimacy](concepts/LancastrianLegitimacy.md) — Process from Appellant conflict, inheritance seizure, disputed deposition, and regicide burden through military survival to Agincourt's stabilization.
 - [Sacral Kingship and Political Control](concepts/SacralKingshipPoliticalControl.md) — Richard II's fusion of anointing, image, fiscal independence, obedience, and coercive authority, qualified by coalition failure.
 - [Anglo-French Dual Monarchy](concepts/AngloFrenchDualMonarchy.md) — Intended union of separate English and French kingdoms under one hereditary crown after Troyes.
-- [Lifecycle Oral Health Prevention / 全生命周期口腔预防](concepts/LifecycleOralHealthPrevention.md) — Age-sensitive framework joining daily hygiene, diet, developmental review, professional prevention, and timely restoration.
-- [Dental Prosthesis Maintenance / 义齿与种植牙维护](concepts/DentalProsthesisMaintenance.md) — Ongoing design-specific cleaning, use, symptom review, and professional maintenance for removable, fixed, and implant-supported restorations.
+- [Lifecycle Oral Health Prevention / 全生命周期口腔预防](concepts/LifecycleOralHealthPrevention.md) — Age-sensitive framework joining daily hygiene, exposure, symptom and developmental review, professional prevention, and timely restoration.
+- [Dental Prosthesis Maintenance / 义齿与种植牙维护](concepts/DentalProsthesisMaintenance.md) — Ongoing suitability, cleaning, use, symptom review, failure assessment, and professional maintenance for dental restorations.
 - [Persistent Oral Lesion Escalation / 持续口腔黏膜异常升级就诊](concepts/PersistentOralLesionEscalation.md) — Triage boundary for fixed, non-healing, progressive, or visibly changing oral-mucosal lesions without remote diagnosis.
 - [Dental Antithrombotic Medication Coordination / 牙科操作抗栓药协调](concepts/DentalAntithromboticMedicationCoordination.md) — Coordination of dental bleeding and systemic thrombotic risk without patient-directed medication interruption.
 - [Oral-Care Product Treatment Boundary / 口腔护理产品治疗边界](concepts/OralCareProductTreatmentBoundary.md) — Boundary separating supportive hygiene products from cure, regeneration, infection-treatment, or permanent-repair claims.
