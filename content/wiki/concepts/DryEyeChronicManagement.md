@@ -6,6 +6,7 @@ sources:
   - vol-36-yanke-guanyu-ganyanzheng-yanyaoshui-yandibing-jinshi-he-jinshi-shoushu-yanke-zhuren-you-hua-shuo-lmpfupdvpcxynhp6d4hfhptayvpo
   - how-to-improve-your-eye-health-offset-vision-loss-dr-jeffrey-goldberg-scim5633963628
   - vol-39-yanke-yanke-zhuren-qing-huida-18-wei-tingyou-de-yanke-wenti-lszj71flalpxl4lg8j6d9rex8mv
+  - vol-38-yanke-dangdai-nianqingren-de-zhe-12-ge-yanbu-wenti-ni-zhong-le-jige-lphaxiiov6oe9fii1zotrzxygyor
 last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
@@ -16,7 +17,7 @@ knowledge_schema: synthesis-v1
 Dry eye chronic management is the episode's frame for treating dry-eye symptoms as a tear-film, blinking, screen-use, meibomian-gland, age, and medication-context problem rather than as a simple need for any eye drop.
 
 ## Current Synthesis
-The three ophthalmology sources present dry eye as often manageable but not always curable in the everyday sense. They explain the tear film through aqueous fluid and meibomian oil, with VOL.36 also emphasizing proteins that help tears adhere to the cornea. Screen use can reduce blinking, reduce meibomian oil expression, and accelerate evaporation; older age can reduce tear quantity and quality, making chronic symptom control and contact-lens reassessment more important.
+The four ophthalmology sources present dry eye as often manageable but not always curable in the everyday sense. They explain the tear film through aqueous fluid and meibomian oil, with VOL.36 also emphasizing proteins that help tears adhere to the cornea. Screen use can reduce blinking, reduce meibomian oil expression, and accelerate evaporation; older age can reduce tear quantity and quality, making chronic symptom control and contact-lens reassessment more important. VOL.38 places dry eye inside a broader visual-fatigue differential, so improvement with artificial tears can support symptom relief without proving that every tired eye has the same cause.
 
 The sources therefore keep dry-eye self-care modest. Rest, deliberate blinking, screen reduction, warm compresses, eyelid hygiene, and artificial tears may help, but allergy, inflammation, persistent symptoms, or severe ocular-surface disease can require clinician-guided anti-inflammatory drops, short-course steroid decisions, or autologous serum tears. Frequent users are steered toward preservative-free tears because preservatives can irritate the surface. PRP is distinguished from serum tears and remains investigational rather than standard care in this account.
 
@@ -38,12 +39,14 @@ The sources therefore keep dry-eye self-care modest. Rest, deliberate blinking, 
 - Severity and formulation: [[how-to-improve-your-eye-health-offset-vision-loss-dr-jeffrey-goldberg-scim5633963628]] adds eyelid cleaning, artificial tears, preservative-free formulations for frequent use, anti-inflammatory treatment, and autologous serum tears while keeping PRP investigational.
 - Contact and surgery context: [[how-to-improve-your-eye-health-offset-vision-loss-dr-jeffrey-goldberg-scim5633963628]] links declining tear reserve to reduced contact tolerance and identifies dry eye as a LASIK counseling issue.
 - Listener-Q&A self-care: [[vol-39-yanke-yanke-zhuren-qing-huida-18-wei-tingyou-de-yanke-wenti-lszj71flalpxl4lg8j6d9rex8mv|VOL.39]] names rest, warm compresses, and artificial tears as possible relief for dryness and soreness while keeping diagnosis and persistent symptoms inside clinical care.
+- Fatigue differential: [[vol-38-yanke-dangdai-nianqingren-de-zhe-12-ge-yanbu-wenti-ni-zhong-le-jige-lphaxiiov6oe9fii1zotrzxygyor|VOL.38]] identifies dry eye as one major cause of visual fatigue while separating refractive, accommodative, conjunctival, and corneal causes that artificial tears do not correct.
 
 ## Counterevidence & Qualifications
-The page summarizes three podcast sources, not a dry-eye guideline. It does not distinguish every dry-eye subtype, contact-lens material or fit issue, autoimmune condition, post-surgical dry eye, medication effect, infection, allergy, or treatment ladder. Warm-compress temperatures and duration are not universal, and steroid drops, anti-inflammatory prescriptions, serum tears, and PRP require professional selection and monitoring. Persistent, painful, vision-affecting, or treatment-resistant symptoms remain clinical questions.
+The page summarizes four podcast sources, not a dry-eye guideline. It does not distinguish every dry-eye subtype, contact-lens material or fit issue, autoimmune condition, post-surgical dry eye, medication effect, infection, allergy, or treatment ladder. Warm-compress temperatures and duration are not universal, and steroid drops, anti-inflammatory prescriptions, serum tears, and PRP require professional selection and monitoring. Symptom improvement with artificial tears does not exclude refractive, inflammatory, or other causes. Persistent, painful, vision-affecting, or treatment-resistant symptoms remain clinical questions.
 
 ## What Changed
-- Added warm compresses and artificial tears to the modest self-care layer while preserving temperature, diagnosis, and persistence boundaries.
+- Placed dry eye inside a broader cause-based visual-fatigue differential.
+- Clarified that artificial-tear relief does not establish a universal diagnosis or address refractive and inflammatory causes.
 
 ## Related Concepts
 - [[EyeDropSelfMedicationRisk]] - medication boundary that overlaps with dry-eye relief choices.
@@ -52,3 +55,4 @@ The page summarizes three podcast sources, not a dry-eye guideline. It does not 
 - [[MyopiaSurgeryRiskBoundary]] - adjacent eye topic where dry eye appears as a possible post-surgical discomfort.
 - [[SleepAsDailyHealthAccount]] - neighboring habit-health concept because screen time, rest, and fatigue can shape eye comfort.
 - [[ContactLensSafety]] - device-specific oxygen, infection, and tear-film branch.
+- [[VisualFatigueCauseBasedManagement]] - broader symptom framework in which dry eye is one possible mechanism.

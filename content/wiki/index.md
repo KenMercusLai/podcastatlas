@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.38眼科｜当代年轻人的这12个眼部问题你中了几个？](sources/vol-38-yanke-dangdai-nianqingren-de-zhe-12-ge-yanbu-wenti-ni-zhong-le-jige-lphaxiiov6oe9fii1zotrzxygyor.md) — 这病说来话长 episode on cause-based visual fatigue, contact-lens oxygen and wear, glaucoma context, screens and light, UV filtering, foreign bodies, and presbyopia fitting.
 - [322: East Germany: Life Behind the Iron Curtain](sources/322-east-germany-life-behind-the-iron-curtain-glt4069689977.md) — The Rest Is History episode on the GDR's coercive foundations, welfare and consumer bargain, everyday identity, 1989 reform movement, collapse, and social afterlife.
 - [VOL.40整形外科｜“拆东墙补西墙”为女性乳腺癌术后乳房再造提供了更多可能](sources/vol-40-zhengxingwaike-chai-dongqiang-bu-xiqiang-wei-nvxing-ruxianai-shuhou-rufang-zaizao-tigong-le-geng-duo-keneng-ltyo0gcsutudirgpxk6h9uosjlcc.md) — 这病说来话长 episode on post-cancer breast reconstruction timing, implants and autologous tissue, flap blood supply and donor-site tradeoffs, and anatomy-bounded aesthetic expectations.
 - [323: History's Greatest Dogs](sources/323-historys-greatest-dogs-glt5170761413.md) — The Rest Is History episode on dogs as political appeals, loyalty legends, propaganda companions, imperial trophies, naval friends, and film celebrities.
@@ -5881,8 +5882,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Patient SM](entities/PatientSM.md) — Amygdala-lesion research case used to distinguish fear perception, external-threat fear, and internal panic.
 - [这病说来话长 / Zhe Bing Shuo Lai Hua Chang](entities/ZheBingShuoLaiHuaChang.md) — Chinese medical-literacy podcast represented by medical imaging, liver health, oncology, orthopedics, outpatient diagnostic safety, urology, anesthesiology, otolaryngology, ophthalmology, rehabilitation, exercise safety, and consumer medical boundaries.
 - [梨花医生 / Lihua Speech Therapist](entities/LihuaSpeechTherapist.md) — Source-scoped speech therapist guest in VOL.34 and VOL.35 explaining dysphagia safety, functional articulation, pediatric language-delay early intervention, adult aphasia rhythm cueing, dysarthria boundaries, and long-term rehabilitation.
-- [毛春杰 / Mao Chunjie](entities/MaoChunjie.md) — Source-scoped ophthalmology guest covering fundus screening, dry eye, myopia and surgery boundaries, inherited retinal disease, color vision, and new-floater assessment.
-- [天津总医院 / Tianjin General Hospital](entities/TianjinGeneralHospital.md) — Source-scoped hospital affiliation named for Mao Chunjie in the VOL.36 ophthalmology episode.
+- [毛春杰 / Mao Chunjie](entities/MaoChunjie.md) — Source-scoped ophthalmology guest covering fundus screening, dry eye, myopia and surgery boundaries, contact lenses, presbyopia, inherited retinal disease, color vision, and symptom triage.
+- [天津总医院 / Tianjin General Hospital](entities/TianjinGeneralHospital.md) — Source-scoped hospital affiliation named for Mao Chunjie in the VOL.36 and VOL.38 ophthalmology episodes.
 - [董心彤 / Dong Xintong](entities/DongXintong.md) — Source-scoped anesthesiology guest explaining perioperative safety, awareness and sedation depth, obstetric anesthesia, recovery, anesthesia misconceptions, and pain-related sleep care.
 - [刘子明 / Liu Ziming (sports medicine doctor)](entities/LiuZimingSportsMedicine.md) — Source-scoped 北医三院 sports-medicine doctor explaining safe exercise, lower-limb joint protection, progressive training, support-device boundaries, and symptom escalation.
 - [Peking University Third Hospital / 北医三院](entities/PekingUniversityThirdHospital.md) — Source-scoped institutional context for 这病说来话长 sports-medicine, orthopedic, and emergency-care guests explaining safe exercise, injury prevention, first-aid judgment, and trauma escalation.
@@ -14487,6 +14488,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Free Companies in the Hundred Years' War](entities/FreeCompaniesHundredYearsWar.md) — Mobile veteran companies whose predation makes demobilization and territorial governance unstable.
 
 ## Concepts
+- [Visual Fatigue Cause-Based Management / 视疲劳病因导向管理](concepts/VisualFatigueCauseBasedManagement.md) — Cause-first framework separating dry eye, refraction, accommodation, inflammation, screen context, and escalation.
+- [Presbyopia Correction and Fitting / 老花矫正与验配](concepts/PresbyopiaCorrectionFitting.md) — Distinguishes presbyopia from myopia and joins near correction to task distance, refraction, progressive-lens fitting, and adaptation.
 - [GDR State Legitimacy](concepts/GDRStateLegitimacy.md) — Combined model of Soviet force, coercion, provision, attachment, and unmet reform expectations in East German durability.
 - [Socialist Welfare-Consumer Tradeoff](concepts/SocialistWelfareConsumerTradeoff.md) — GDR tension between subsidized universal basics and widening demand for modern consumer goods.
 - [East German Identity Afterlife](concepts/EastGermanIdentityAfterlife.md) — Persistence of eastern social patterns, memory, and ordinary cultural identity after reunification.

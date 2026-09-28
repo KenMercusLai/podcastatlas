@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "v"
-wiki_total_pages: 8707
+wiki_total_pages: 8709
 wiki_pages:
   - key: "VacationShame"
     title: "Vacation Shame / 休假羞耻感"
@@ -290,6 +290,9 @@ wiki_pages:
   - key: "VisualBrandSystem"
     title: "Visual Brand System"
     url: "/wiki/concepts/visualbrandsystem/"
+  - key: "VisualFatigueCauseBasedManagement"
+    title: "Visual Fatigue Cause-Based Management / 视疲劳病因导向管理"
+    url: "/wiki/concepts/visualfatiguecausebasedmanagement/"
   - key: "VisualFocusEffortTool"
     title: "Visual Focus Effort Tool"
     url: "/wiki/concepts/visualfocusefforttool/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8707
+wiki_total_pages: 8709
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1490,6 +1490,9 @@ wiki_pages:
   - key: "Preregistration"
     title: "Preregistration"
     url: "/wiki/concepts/preregistration/"
+  - key: "PresbyopiaCorrectionFitting"
+    title: "Presbyopia Correction and Fitting / 老花矫正与验配"
+    url: "/wiki/concepts/presbyopiacorrectionfitting/"
   - key: "PresentMomentAgainstDeath"
     title: "Present Moment Against Death"
     url: "/wiki/concepts/presentmomentagainstdeath/"

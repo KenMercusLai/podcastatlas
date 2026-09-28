@@ -24854,3 +24854,11 @@ Added source `321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345`; cre
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | VOL.38眼科｜当代年轻人的这12个眼部问题你中了几个？
+
+Added source `vol-38-yanke-dangdai-nianqingren-de-zhe-12-ge-yanbu-wenti-ni-zhong-le-jige-lphaxiiov6oe9fii1zotrzxygyor`; created `VisualFatigueCauseBasedManagement` and `PresbyopiaCorrectionFitting`; and updated `MaoChunjie`, `TianjinGeneralHospital`, `ContactLensSafety`, `OrthokeratologyMyopiaControl`, `VisualSystemHealthToolkit`, `GlaucomaScreeningAndAdherence`, `DryEyeChronicManagement`, and the canonical index from their complete bounded source sets. Core synthesis: everyday eye-care claims need mechanism and context—distance rather than green tint relaxes sustained near focus, fatigue requires cause-based assessment, contact-lens risk depends on material and wear, glaucoma associations differ by type and anatomy, and presbyopia correction depends on refraction, task distance, fitting, and adaptation. No settled contradiction was adopted. Brief-nap contact wear, cosmetic-lens infection, glaucoma, illuminance, display, lamp, UV, foreign-body, and lens-fitting claims remain source-scoped public education rather than individualized advice. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
