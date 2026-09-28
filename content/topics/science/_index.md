@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1288
+topic_total_pages: 1290
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -2717,6 +2717,9 @@ topic_entities:
   - key: "MaryClaireHaver"
     title: "Mary Claire Haver"
     url: "/wiki/entities/maryclairehaver/"
+  - key: "MaryHelenImmordinoYang"
+    title: "Mary Helen Immordino-Yang"
+    url: "/wiki/entities/maryhelenimmordinoyang/"
   - key: "MaryFrancesOConnor"
     title: "Mary-Frances O'Connor"
     url: "/wiki/entities/maryfrancesoconnor/"
@@ -3609,6 +3612,9 @@ topic_sources:
   - key: "tech-20260106-0106-mp-tech-pod-128-tech-20260106-0106-mp-tech-pod-128"
     title: "How convergence will define the tech sector in 2026"
     url: "/wiki/sources/tech-20260106-0106-mp-tech-pod-128-tech-20260106-0106-mp-tech-pod-128/"
+  - key: "how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002"
+    title: "How Emotions & Social Factors Impact Learning | Dr. Immordino-Yang"
+    url: "/wiki/sources/how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002/"
   - key: "how-placebo-effects-work-to-change-our-biology-psychology-scim2208611274"
     title: "How Placebo Effects Work to Change Our Biology & Psychology"
     url: "/wiki/sources/how-placebo-effects-work-to-change-our-biology-psychology-scim2208611274/"

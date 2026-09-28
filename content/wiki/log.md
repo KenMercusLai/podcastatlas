@@ -24495,3 +24495,11 @@ Added source `vol-51-sikeshi-yisheng-huizhen-jujue-kongju-he-jiaolv-zhengque-lix
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | How Emotions & Social Factors Impact Learning | Dr. Immordino-Yang
+
+Added source `how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002`; created `MaryHelenImmordinoYang` and `EmotionGuidedLearning`; and updated `BrainBodyEmotionMapping`, `DefaultModeNetwork`, `EducationMotivationArchitecture`, `AweEmotion`, and the canonical index from their complete bounded source sets. Core synthesis: emotion directs what receives thought, bodily feeling becomes meaning through concepts and stories, default-mode systems can support complex social and ethical inference, and education should align safety, agency, assessment, and worthwhile questions so effort is about ideas rather than only performance signals. No settled contradiction was adopted. The source qualifies a psychedelic-only or pathology-only default-mode account; broad schooling, adolescent mental-health, cultural, mirror-neuron, and educational-effect claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

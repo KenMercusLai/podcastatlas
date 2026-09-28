@@ -14634,9 +14634,9 @@
       "url": "/wiki/concepts/awarenessmeditationstorydropping/"
     },
     "AweEmotion": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM6985403733 [SCIM6985403733].md",
@@ -14651,6 +14651,13 @@
           "show": "Huberman Lab",
           "title": "How to Shape Your Identity & Goals | Dr. Maya Shankar",
           "url": "/wiki/sources/how-to-shape-your-identity-goals-dr-maya-shankar-scim1420437673/"
+        },
+        {
+          "episode_file": "SCIM3156934002 [SCIM3156934002].md",
+          "key": "how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002",
+          "show": "Huberman Lab",
+          "title": "How Emotions & Social Factors Impact Learning | Dr. Immordino-Yang",
+          "url": "/wiki/sources/how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002/"
         }
       ],
       "updated": "2026-09-14",
@@ -19372,9 +19379,9 @@
       "url": "/wiki/entities/bradgerstner/"
     },
     "BrainBodyEmotionMapping": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM1222961716 [SCIM1222961716].md",
@@ -19396,6 +19403,13 @@
           "show": "Huberman Lab",
           "title": "How to Understand Emotions | Dr. Lisa Feldman Barrett",
           "url": "/wiki/sources/how-to-understand-emotions-dr-lisa-feldman-barrett-scim3919749252/"
+        },
+        {
+          "episode_file": "SCIM3156934002 [SCIM3156934002].md",
+          "key": "how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002",
+          "show": "Huberman Lab",
+          "title": "How Emotions & Social Factors Impact Learning | Dr. Immordino-Yang",
+          "url": "/wiki/sources/how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002/"
         }
       ],
       "updated": "2026-09-27",
@@ -39331,6 +39345,29 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/deepz/"
     },
+    "DefaultModeNetwork": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Bryan Johnson： I Just Took the Most Powerful Dose of DMT in the World... Here's What It Was Like [40626165].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-bryan-johnson-i-just-took-the-most-powerful-dose-of-dmt-in-the-world-heres-what-it-was-like-40626165",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Bryan Johnson: I Just Took the Most Powerful Dose of DMT in the World... Here's What It Was Like",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-bryan-johnson-i-just-took-the-most-powerful-dose-of-dmt-in-the-world-heres-what-it-was-like-40626165/"
+        },
+        {
+          "episode_file": "SCIM3156934002 [SCIM3156934002].md",
+          "key": "how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002",
+          "show": "Huberman Lab",
+          "title": "How Emotions & Social Factors Impact Learning | Dr. Immordino-Yang",
+          "url": "/wiki/sources/how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/defaultmodenetwork/"
+    },
     "DefeatDrivenMilitaryReform": {
       "episode_count": 1,
       "show_count": 1,
@@ -46031,9 +46068,9 @@
       "url": "/wiki/entities/eduardhabsburg/"
     },
     "EducationMotivationArchitecture": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM7393383815 [SCIM7393383815].md",
@@ -46048,6 +46085,13 @@
           "show": "Huberman Lab",
           "title": "How to Master Growth Mindset to Improve Performance | Dr. David Yeager",
           "url": "/wiki/sources/how-to-master-growth-mindset-to-improve-performance-dr-david-yeager-scim6606381639/"
+        },
+        {
+          "episode_file": "SCIM3156934002 [SCIM3156934002].md",
+          "key": "how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002",
+          "show": "Huberman Lab",
+          "title": "How Emotions & Social Factors Impact Learning | Dr. Immordino-Yang",
+          "url": "/wiki/sources/how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002/"
         }
       ],
       "updated": "2026-09-26",
@@ -47635,6 +47679,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/emotionattentionalcapture/"
+    },
+    "EmotionGuidedLearning": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3156934002 [SCIM3156934002].md",
+          "key": "how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002",
+          "show": "Huberman Lab",
+          "title": "How Emotions & Social Factors Impact Learning | Dr. Immordino-Yang",
+          "url": "/wiki/sources/how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/emotionguidedlearning/"
     },
     "EmotionMentorship": {
       "episode_count": 1,
@@ -106159,6 +106219,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/maryfrancesoconnor/"
+    },
+    "MaryHelenImmordinoYang": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3156934002 [SCIM3156934002].md",
+          "key": "how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002",
+          "show": "Huberman Lab",
+          "title": "How Emotions & Social Factors Impact Learning | Dr. Immordino-Yang",
+          "url": "/wiki/sources/how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/maryhelenimmordinoyang/"
     },
     "MaryPickersgill": {
       "episode_count": 1,

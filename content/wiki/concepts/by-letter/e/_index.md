@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 8607
+wiki_total_pages: 8608
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -428,6 +428,9 @@ wiki_pages:
   - key: "EmotionRegulationToolkit"
     title: "Emotion Regulation Toolkit / 情绪调节工具箱"
     url: "/wiki/concepts/emotionregulationtoolkit/"
+  - key: "EmotionGuidedLearning"
+    title: "Emotion-Guided Learning"
+    url: "/wiki/concepts/emotionguidedlearning/"
   - key: "EmotionalAttachmentPoliticalDistortion"
     title: "Emotional Attachment Political Distortion / 情执政治判断失衡"
     url: "/wiki/concepts/emotionalattachmentpoliticaldistortion/"
