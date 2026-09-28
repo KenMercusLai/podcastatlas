@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8740
+wiki_total_pages: 8743
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -104,6 +104,9 @@ wiki_pages:
   - key: "PancreaticImagingFindingTriage"
     title: "Pancreatic Imaging Finding Triage / 胰腺影像异常分诊"
     url: "/wiki/concepts/pancreaticimagingfindingtriage/"
+  - key: "PancreaticRiskCommunicationBoundary"
+    title: "Pancreatic Risk Communication Boundary / 胰腺风险沟通边界"
+    url: "/wiki/concepts/pancreaticriskcommunicationboundary/"
   - key: "PandemicAsHistoricalForce"
     title: "Pandemic As Historical Force"
     url: "/wiki/concepts/pandemicashistoricalforce/"

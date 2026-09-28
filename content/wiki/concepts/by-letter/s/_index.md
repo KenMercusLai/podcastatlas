@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 8740
+wiki_total_pages: 8743
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1403,6 +1403,9 @@ wiki_pages:
   - key: "SpiritualMentorAsSelfProjection"
     title: "Spiritual Mentor As Self Projection / 精神导师作为自我投射"
     url: "/wiki/concepts/spiritualmentorasselfprojection/"
+  - key: "SplenicTraumaEmergencyEscalation"
+    title: "Splenic Trauma Emergency Escalation / 脾外伤急症升级"
+    url: "/wiki/concepts/splenictraumaemergencyescalation/"
   - key: "SplitGlobalization"
     title: "Split Globalization / 分裂的全球化"
     url: "/wiki/concepts/splitglobalization/"

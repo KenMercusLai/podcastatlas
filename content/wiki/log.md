@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-29] ingest | VOL.24肿瘤肝胆外科｜胰脏和脾脏虽然不大，但这些危险诱因要警惕
+
+Added source `vol-24-zhongliu-gandan-waike-yizang-he-pizang-suiran-bu-da-dan-zhexie-weixian-youyin-yaojingti-lvw8ajdllmj73ecq2br3sgnmkug`; created `PancreaticRiskCommunicationBoundary` and `SplenicTraumaEmergencyEscalation`; and updated `XiaolangOncologySurgeon`, `AcutePancreatitisEmergencyEscalation`, and the canonical index from their complete bounded source sets. Core synthesis: pancreatic risk communication should distinguish modifiable context and symptom escalation from diagnosis or individual causation, while significant abdominal trauma can conceal dangerous splenic bleeding. No settled contradiction was adopted. The late-night-eating, chilling, “organ rest,” internal-organ food safety, and traditional Chinese medicine mechanisms remain source-scoped; the automatic `wiki/overview.md` was read for context but not manually rewritten because the episode deepens an existing medical-literacy branch without changing the wiki-wide synthesis.
+
 ## [2026-09-29] ingest | 309: Columbus: Villain or Hero? (Part 4)
 
 Added source `309-columbus-villain-or-hero-part-4-glt6751575003`; created `ChristopherColumbus`, `BartolomeDeLasCasas`, `ColumbusLegacyContestation`, `ContextualExplanationWithoutExoneration`, `HeroVillainHistoricalReduction`, and `EncomiendaColonialLaborSystem`; and updated the canonical index. Core synthesis: Columbus's exceptional seamanship coexisted with persistent Asian misidentification, religious intensity, failed colonial government, enslavement, and coercive extraction; his context explains without exonerating, especially because Spanish Catholic criticism already existed. His afterlife shifted through Spanish, U.S., Italian American, Latin American, and Indigenous memory politics, making a single hero-or-villain verdict analytically inadequate without suspending judgment of specific harms. No settled contradiction was adopted. Genocide-intent classification, relative causes of Indigenous collapse, dialogue, remains, holiday chronology, motives, and navigation firsts remain contested or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -24991,6 +24995,18 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-29] ingest | VOL.25肿瘤肝胆外科｜箫郎医生在肿瘤医院行医18年所遇到的那些“怪”事和医患故事
 
 Added source `vol-25-zhongliu-gandan-waike-xiaolang-yisheng-zai-zhongliu-yiyuan-xingyi-18-nian-suo-yudao-de-naxie-guai-shi-he-yihuan-gushi-lr1jwin34m6obozyrqpybpujq5cz`; created `XiaolangOncologySurgeon`, `OncologyPsychologicalSupport`, `FamilyCenteredCancerDecisionCommunication`, and `SurgicalInformedConsentResponsibility`; and updated `PlaceboNoceboExpectationEffects` and the canonical index from their complete bounded source sets. Core synthesis: oncology care includes distress recognition, symptom assessment, family information alignment, realistic recovery goals, and clear risk communication alongside technical treatment, while consent documents authorization rather than releasing clinicians from responsibility. The saline-as-analgesia story is retained only as an uncontrolled, ethically qualified expectation-effect anecdote and not as permission to deceive patients or dismiss postoperative pain. No settled contradiction was adopted. Claims about psychological causation, national disclosure practice, patient education and adherence, and individual clinical outcomes remain source-scoped public education. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | Genes & the Inheritance of Memories Across Generations | Dr. Oded Rechavi
+
+Added source `genes-the-inheritance-of-memories-across-generations-dr-oded-rechavi-scim1011684384`; created `TransgenerationalInheritanceEvidenceDesign`; and updated `OdedRechavi`, `AcquiredTraitInheritanceBoundary`, `EpigeneticReprogrammingBoundary`, `SmallRNAIntergenerationalInheritance`, and the canonical index from their complete bounded source sets. Core synthesis: specific small-RNA inheritance mechanisms are experimentally strong in C. elegans, but direct prenatal exposure and parental environment must be excluded before an effect is called transgenerational; paternal F2 and maternal F3 descendants provide the episode's unexposed-generation rule. No settled contradiction was adopted. The source substantially overlaps an existing Essentials cut, while human transmission, mammalian examples, adaptive interpretations, numerical duration claims, and unfinished cold/lithium memory work remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
 
 ## [2026-09-29] lint | Wiki health check
 

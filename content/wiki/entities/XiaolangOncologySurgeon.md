@@ -4,6 +4,7 @@ type: entity
 tags: [medicine, oncology, hepatobiliary-surgery, podcast-guest]
 sources:
   - vol-25-zhongliu-gandan-waike-xiaolang-yisheng-zai-zhongliu-yiyuan-xingyi-18-nian-suo-yudao-de-naxie-guai-shi-he-yihuan-gushi-lr1jwin34m6obozyrqpybpujq5cz
+  - vol-24-zhongliu-gandan-waike-yizang-he-pizang-suiran-bu-da-dan-zhexie-weixian-youyin-yaojingti-lvw8ajdllmj73ecq2br3sgnmkug
 last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
@@ -11,13 +12,14 @@ knowledge_schema: synthesis-v1
 # 骁狼医生 / Xiaolang (oncology surgeon)
 
 ## Overview
-骁狼医生 is the source-scoped oncology hepatobiliary surgeon interviewed in VOL.25 of [[ZheBingShuoLaiHuaChang|这病说来话长]] about eighteen years of ward experience. The episode title writes the nickname as “箫郎,” while the supplied body consistently uses “骁狼”; the wiki preserves that ambiguity rather than asserting a verified legal name or identity.
+骁狼医生 is the source-scoped oncology hepatobiliary surgeon interviewed in VOL.24 and VOL.25 of [[ZheBingShuoLaiHuaChang|这病说来话长]] about pancreatic and splenic health and eighteen years of ward experience. The VOL.25 title writes the nickname as “箫郎,” while the supplied body consistently uses “骁狼”; the wiki preserves that ambiguity rather than asserting a verified legal name or identity.
 
 ## Current Profile
-The guest presents oncology as clinical, psychological, relational, and ethical work. His cases focus on fear around death, pain and insomnia under anxiety, small recovery goals, simultaneous family briefings, difficult treatment choices, and the distinction between informed consent and professional exemption. His strongest contribution is practical communication under uncertainty, but the material remains an edited set of personal recollections rather than audited clinical evidence.
+The guest presents hepatobiliary oncology as anatomical, metabolic, behavioral, psychological, relational, and ethical work. VOL.24 adds accessible explanations of pancreatic function, pancreatitis and cancer-risk context, traumatic splenic injury, and eating or activity habits; VOL.25 adds fear around death, pain and insomnia under anxiety, small recovery goals, simultaneous family briefings, difficult treatment choices, and the distinction between informed consent and professional exemption. His strongest contribution is practical translation and communication under uncertainty, but the material remains edited personal observation rather than audited clinical evidence.
 
 ## Key Characteristics
 - Describes oncology and hepatobiliary surgical care through ward-based cases rather than disease-specific treatment instruction.
+- Explains pancreas and spleen anatomy through symptom, metabolism, trauma, and everyday-behavior examples for a general audience.
 - Treats emotional distress as capable of changing symptom experience without equating it with fabrication.
 - Uses concrete, incremental recovery goals to help patients notice progress and participate in care.
 - Brings relevant relatives into one explanation when family decision-making could otherwise fragment information.
@@ -28,13 +30,15 @@ The guest presents oncology as clinical, psychological, relational, and ethical 
 - Psychological and symptom support: [[vol-25-zhongliu-gandan-waike-xiaolang-yisheng-zai-zhongliu-yiyuan-xingyi-18-nian-suo-yudao-de-naxie-guai-shi-he-yihuan-gushi-lr1jwin34m6obozyrqpybpujq5cz|VOL.25]] recounts pain, insomnia, conversation, fear, appetite, and stepwise postoperative goals.
 - Family communication: [[vol-25-zhongliu-gandan-waike-xiaolang-yisheng-zai-zhongliu-yiyuan-xingyi-18-nian-suo-yudao-de-naxie-guai-shi-he-yihuan-gushi-lr1jwin34m6obozyrqpybpujq5cz|VOL.25]] describes gathering several adult children for the same risk-and-treatment discussion to reduce relay errors and later blame.
 - Consent and responsibility: [[vol-25-zhongliu-gandan-waike-xiaolang-yisheng-zai-zhongliu-yiyuan-xingyi-18-nian-suo-yudao-de-naxie-guai-shi-he-yihuan-gushi-lr1jwin34m6obozyrqpybpujq5cz|VOL.25]] explicitly says signing implements the right to know rather than releasing clinicians from responsibility.
+- Pancreatic and splenic translation: [[vol-24-zhongliu-gandan-waike-yizang-he-pizang-suiran-bu-da-dan-zhexie-weixian-youyin-yaojingti-lvw8ajdllmj73ecq2br3sgnmkug|VOL.24]] explains endocrine and digestive pancreatic functions, possible back-pain presentation, risk contexts, and concealed bleeding after splenic trauma.
+- Evidence boundaries: [[vol-24-zhongliu-gandan-waike-yizang-he-pizang-suiran-bu-da-dan-zhexie-weixian-youyin-yaojingti-lvw8ajdllmj73ecq2br3sgnmkug|VOL.24]] labels the late-night-eating link as an observation without substantial evidence, although other traditional-medicine and lifestyle mechanisms are not consistently separated from biomedical claims.
 
 ## Qualifications
-The profile rests on one structured podcast summary. It does not independently establish the guest's legal name, hospital, credentials, patient records, outcomes, or the ethical and clinical details of the reported cases. The saline-injection story raises consent concerns and should not be generalized into permission to deceive patients, dismiss pain, or replace appropriate analgesia and assessment.
+The profile rests on two structured podcast summaries. They do not independently establish the guest's legal name, hospital, credentials, patient records, outcomes, or the ethical and clinical details of the reported cases. The saline-injection story raises consent concerns and should not be generalized into permission to deceive patients, dismiss pain, or replace appropriate analgesia and assessment. The late-night-eating, chilling, “organ rest,” internal-organ food safety, and traditional Chinese medicine mechanisms remain source-scoped and should not be treated as cancer causation, diagnostic rules, or individualized advice.
 
 ## What Changed
-- Established a source-scoped surgeon profile while preserving the source's “箫郎/骁狼” nickname inconsistency.
-- Defined his durable contribution as oncology communication and responsibility rather than disease-specific treatment advice.
+- Expanded the profile from oncology communication into pancreas and spleen public education.
+- Added explicit boundaries around anecdotal lifestyle causation and traditional-medicine mechanisms.
 
 ## Relationships
 - [[ZheBingShuoLaiHuaChang]] - podcast on which he appears.
@@ -43,3 +47,6 @@ The profile rests on one structured podcast summary. It does not independently e
 - [[FamilyCenteredCancerDecisionCommunication]] - family briefing and decision-conflict framework he describes.
 - [[SurgicalInformedConsentResponsibility]] - consent and accountability distinction he makes explicit.
 - [[PlaceboNoceboExpectationEffects]] - expectation-effect framework relevant to one ethically qualified anecdote.
+- [[AcutePancreatitisEmergencyEscalation]] - urgent-care boundary related to his pancreatic discussion.
+- [[PancreaticRiskCommunicationBoundary]] - evidence boundary for the risk factors and late-night-eating hypothesis he presents.
+- [[SplenicTraumaEmergencyEscalation]] - trauma and concealed-bleeding boundary from his spleen discussion.

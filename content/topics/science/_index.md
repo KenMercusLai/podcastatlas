@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1314
+topic_total_pages: 1315
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -3630,6 +3630,9 @@ topic_sources:
   - key: "tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio"
     title: "Founder Mode: Andy Lapsa, Founder & CEO, Stoke Space"
     url: "/wiki/sources/tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio/"
+  - key: "genes-the-inheritance-of-memories-across-generations-dr-oded-rechavi-scim1011684384"
+    title: "Genes & the Inheritance of Memories Across Generations | Dr. Oded Rechavi"
+    url: "/wiki/sources/genes-the-inheritance-of-memories-across-generations-dr-oded-rechavi-scim1011684384/"
   - key: "tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128"
     title: "Gig workers train humanoids on household chores"
     url: "/wiki/sources/tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128/"

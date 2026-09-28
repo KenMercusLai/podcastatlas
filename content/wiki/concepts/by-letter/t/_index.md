@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 8740
+wiki_total_pages: 8743
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -728,6 +728,9 @@ wiki_pages:
   - key: "TransgenerationalEmpathy"
     title: "Transgenerational Empathy"
     url: "/wiki/concepts/transgenerationalempathy/"
+  - key: "TransgenerationalInheritanceEvidenceDesign"
+    title: "Transgenerational Inheritance Evidence Design"
+    url: "/wiki/concepts/transgenerationalinheritanceevidencedesign/"
   - key: "TransitionFitOverMerit"
     title: "Transition Fit Over Merit / 过渡期适任优先于功劳"
     url: "/wiki/concepts/transitionfitovermerit/"

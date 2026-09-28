@@ -5008,9 +5008,9 @@
       "url": "/wiki/concepts/acquiredproductmarketfit/"
     },
     "AcquiredTraitInheritanceBoundary": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM1624813352 [SCIM1624813352].md",
@@ -5025,9 +5025,16 @@
           "show": "Huberman Lab",
           "title": "Behaviors That Alter Your Genes to Improve Your Health & Performance | Dr. Melissa Ilardo",
           "url": "/wiki/sources/behaviors-that-alter-your-genes-to-improve-your-health-performance-dr-melissa-ilardo-scim2045300705/"
+        },
+        {
+          "episode_file": "SCIM1011684384 [SCIM1011684384].md",
+          "key": "genes-the-inheritance-of-memories-across-generations-dr-oded-rechavi-scim1011684384",
+          "show": "Huberman Lab",
+          "title": "Genes & the Inheritance of Memories Across Generations | Dr. Oded Rechavi",
+          "url": "/wiki/sources/genes-the-inheritance-of-memories-across-generations-dr-oded-rechavi-scim1011684384/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/acquiredtraitinheritanceboundary/"
     },
     "AcquisitionContractLanguage": {
@@ -5272,9 +5279,9 @@
       "url": "/wiki/concepts/acuteepiglottitisairwayrisk/"
     },
     "AcutePancreatitisEmergencyEscalation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lrVLx1WBuKF4g2PBSeM4cbzqBuqZ [lrVLx1WBuKF4g2PBSeM4cbzqBuqZ].md",
@@ -5282,9 +5289,16 @@
           "show": "这病说来话长",
           "title": "VOL.99八学科联合｜春节健康带回家 给咱不听劝的爸妈 「震惊」家族群的养生干货｜饮食、护理、打鼾、心梗、卒中、消化等",
           "url": "/wiki/sources/vol-99-ba-xueke-lianhe-chunjie-jiankang-dai-huijia-gei-zan-bu-tingquan-de-bama-zhenjing-jiazuqun-de-yangsheng-ganhuo-yinshi-huli-dahan-xingeng-zuzhong-xiaohua-deng-lrvlx1wbukf4g2pbsem4cbzqbuqz/"
+        },
+        {
+          "episode_file": "lvw8ajDlLLmj73EcQ2bR3SGnmKuG [lvw8ajDlLLmj73EcQ2bR3SGnmKuG].md",
+          "key": "vol-24-zhongliu-gandan-waike-yizang-he-pizang-suiran-bu-da-dan-zhexie-weixian-youyin-yaojingti-lvw8ajdllmj73ecq2br3sgnmkug",
+          "show": "这病说来话长",
+          "title": "VOL.24肿瘤肝胆外科｜胰脏和脾脏虽然不大，但这些危险诱因要警惕",
+          "url": "/wiki/sources/vol-24-zhongliu-gandan-waike-yizang-he-pizang-suiran-bu-da-dan-zhexie-weixian-youyin-yaojingti-lvw8ajdllmj73ecq2br3sgnmkug/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/acutepancreatitisemergencyescalation/"
     },
     "AcuteSportsInjuryEscalation": {
@@ -53801,9 +53815,9 @@
       "url": "/wiki/concepts/epicherohumanlimits/"
     },
     "EpigeneticReprogrammingBoundary": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM1624813352 [SCIM1624813352].md",
@@ -53818,9 +53832,16 @@
           "show": "Huberman Lab",
           "title": "Behaviors That Alter Your Genes to Improve Your Health & Performance | Dr. Melissa Ilardo",
           "url": "/wiki/sources/behaviors-that-alter-your-genes-to-improve-your-health-performance-dr-melissa-ilardo-scim2045300705/"
+        },
+        {
+          "episode_file": "SCIM1011684384 [SCIM1011684384].md",
+          "key": "genes-the-inheritance-of-memories-across-generations-dr-oded-rechavi-scim1011684384",
+          "show": "Huberman Lab",
+          "title": "Genes & the Inheritance of Memories Across Generations | Dr. Oded Rechavi",
+          "url": "/wiki/sources/genes-the-inheritance-of-memories-across-generations-dr-oded-rechavi-scim1011684384/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/epigeneticreprogrammingboundary/"
     },
     "EpinephrineAlertnessToolkit": {
@@ -122729,9 +122750,9 @@
       "url": "/wiki/entities/octoberdays1789/"
     },
     "OdedRechavi": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1624813352 [SCIM1624813352].md",
@@ -122739,9 +122760,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Genes & the Inheritance of Memories Across Generations | Dr. Oded Rechavi",
           "url": "/wiki/sources/essentials-genes-inheritance-memories-across-generations-dr-oded-rechavi-scim1624813352/"
+        },
+        {
+          "episode_file": "SCIM1011684384 [SCIM1011684384].md",
+          "key": "genes-the-inheritance-of-memories-across-generations-dr-oded-rechavi-scim1011684384",
+          "show": "Huberman Lab",
+          "title": "Genes & the Inheritance of Memories Across Generations | Dr. Oded Rechavi",
+          "url": "/wiki/sources/genes-the-inheritance-of-memories-across-generations-dr-oded-rechavi-scim1011684384/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-29",
       "url": "/wiki/entities/odedrechavi/"
     },
     "Odin": {
@@ -126461,6 +126489,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/pancreaticimagingfindingtriage/"
+    },
+    "PancreaticRiskCommunicationBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvw8ajDlLLmj73EcQ2bR3SGnmKuG [lvw8ajDlLLmj73EcQ2bR3SGnmKuG].md",
+          "key": "vol-24-zhongliu-gandan-waike-yizang-he-pizang-suiran-bu-da-dan-zhexie-weixian-youyin-yaojingti-lvw8ajdllmj73ecq2br3sgnmkug",
+          "show": "这病说来话长",
+          "title": "VOL.24肿瘤肝胆外科｜胰脏和脾脏虽然不大，但这些危险诱因要警惕",
+          "url": "/wiki/sources/vol-24-zhongliu-gandan-waike-yizang-he-pizang-suiran-bu-da-dan-zhexie-weixian-youyin-yaojingti-lvw8ajdllmj73ecq2br3sgnmkug/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/pancreaticriskcommunicationboundary/"
     },
     "PanfiloDeNarvaez": {
       "episode_count": 1,
@@ -153277,9 +153321,9 @@
       "url": "/wiki/concepts/smallorderquickresponse/"
     },
     "SmallRNAIntergenerationalInheritance": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1624813352 [SCIM1624813352].md",
@@ -153287,9 +153331,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Genes & the Inheritance of Memories Across Generations | Dr. Oded Rechavi",
           "url": "/wiki/sources/essentials-genes-inheritance-memories-across-generations-dr-oded-rechavi-scim1624813352/"
+        },
+        {
+          "episode_file": "SCIM1011684384 [SCIM1011684384].md",
+          "key": "genes-the-inheritance-of-memories-across-generations-dr-oded-rechavi-scim1011684384",
+          "show": "Huberman Lab",
+          "title": "Genes & the Inheritance of Memories Across Generations | Dr. Oded Rechavi",
+          "url": "/wiki/sources/genes-the-inheritance-of-memories-across-generations-dr-oded-rechavi-scim1011684384/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/smallrnaintergenerationalinheritance/"
     },
     "SmallRetailerChannelTest": {
@@ -155788,6 +155839,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/entities/spiroagnew/"
+    },
+    "SplenicTraumaEmergencyEscalation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvw8ajDlLLmj73EcQ2bR3SGnmKuG [lvw8ajDlLLmj73EcQ2bR3SGnmKuG].md",
+          "key": "vol-24-zhongliu-gandan-waike-yizang-he-pizang-suiran-bu-da-dan-zhexie-weixian-youyin-yaojingti-lvw8ajdllmj73ecq2br3sgnmkug",
+          "show": "这病说来话长",
+          "title": "VOL.24肿瘤肝胆外科｜胰脏和脾脏虽然不大，但这些危险诱因要警惕",
+          "url": "/wiki/sources/vol-24-zhongliu-gandan-waike-yizang-he-pizang-suiran-bu-da-dan-zhexie-weixian-youyin-yaojingti-lvw8ajdllmj73ecq2br3sgnmkug/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/splenictraumaemergencyescalation/"
     },
     "SpoilsLossMobilization": {
       "episode_count": 1,
@@ -167223,6 +167290,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/concepts/transgenerationalempathy/"
+    },
+    "TransgenerationalInheritanceEvidenceDesign": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1011684384 [SCIM1011684384].md",
+          "key": "genes-the-inheritance-of-memories-across-generations-dr-oded-rechavi-scim1011684384",
+          "show": "Huberman Lab",
+          "title": "Genes & the Inheritance of Memories Across Generations | Dr. Oded Rechavi",
+          "url": "/wiki/sources/genes-the-inheritance-of-memories-across-generations-dr-oded-rechavi-scim1011684384/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/transgenerationalinheritanceevidencedesign/"
     },
     "TransitHubCommanderyControl": {
       "episode_count": 3,
@@ -180212,9 +180295,9 @@
       "url": "/wiki/entities/xiaochangnutritionguest/"
     },
     "XiaolangOncologySurgeon": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lr1JWIN34M6obOzYrqpyBpuJQ5CZ [lr1JWIN34M6obOzYrqpyBpuJQ5CZ].md",
@@ -180222,6 +180305,13 @@
           "show": "这病说来话长",
           "title": "VOL.25肿瘤肝胆外科｜箫郎医生在肿瘤医院行医18年所遇到的那些“怪”事和医患故事",
           "url": "/wiki/sources/vol-25-zhongliu-gandan-waike-xiaolang-yisheng-zai-zhongliu-yiyuan-xingyi-18-nian-suo-yudao-de-naxie-guai-shi-he-yihuan-gushi-lr1jwin34m6obozyrqpybpujq5cz/"
+        },
+        {
+          "episode_file": "lvw8ajDlLLmj73EcQ2bR3SGnmKuG [lvw8ajDlLLmj73EcQ2bR3SGnmKuG].md",
+          "key": "vol-24-zhongliu-gandan-waike-yizang-he-pizang-suiran-bu-da-dan-zhexie-weixian-youyin-yaojingti-lvw8ajdllmj73ecq2br3sgnmkug",
+          "show": "这病说来话长",
+          "title": "VOL.24肿瘤肝胆外科｜胰脏和脾脏虽然不大，但这些危险诱因要警惕",
+          "url": "/wiki/sources/vol-24-zhongliu-gandan-waike-yizang-he-pizang-suiran-bu-da-dan-zhexie-weixian-youyin-yaojingti-lvw8ajdllmj73ecq2br3sgnmkug/"
         }
       ],
       "updated": "2026-09-29",
