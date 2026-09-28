@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3194
+topic_total_pages: 3195
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -9516,6 +9516,9 @@ topic_sources:
   - key: "liangjianzhang-luoyonghao-xiecheng-renkou-ai-ljpurcsyivjkwjyak-3kt3zly-fp"
     title: "携程梁建章×罗永浩！在企业家与学者之间，他选择了最艰难的“往返票”"
     url: "/wiki/sources/liangjianzhang-luoyonghao-xiecheng-renkou-ai-ljpurcsyivjkwjyak-3kt3zly-fp/"
+  - key: "angpao-qianxia-mubapei-zhihou-paoxie-pinpai-zuo-zuqiu-shengyi-haiyou-naxie-nanti-1018738205"
+    title: "昂跑签下姆巴佩之后，跑鞋品牌做足球生意还有哪些难题？"
+    url: "/wiki/sources/angpao-qianxia-mubapei-zhihou-paoxie-pinpai-zuo-zuqiu-shengyi-haiyou-naxie-nanti-1018738205/"
   - key: "xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195"
     title: "星巴克回应「蜜雪冰城代工」等传闻，李宁否认与姆巴佩签约"
     url: "/wiki/sources/xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195/"

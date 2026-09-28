@@ -13074,6 +13074,57 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/athletepostretirementidentity/"
     },
+    "AthleteSponsorshipStrategy": {
+      "episode_count": 6,
+      "show_count": 4,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "汽水音乐冲击腾讯、网易，特斯拉等车企在国内开展大规模召回 [1008396395].md",
+          "key": "qishui-yinyue-chongji-tengxun-wangyi-tesila-deng-cheqi-zai-guonei-kaizhan-daguimo-zhaohui-1008396395",
+          "show": "声动早咖啡",
+          "title": "汽水音乐冲击腾讯、网易，特斯拉等车企在国内开展大规模召回",
+          "url": "/wiki/sources/qishui-yinyue-chongji-tengxun-wangyi-tesila-deng-cheqi-zai-guonei-kaizhan-daguimo-zhaohui-1008396395/"
+        },
+        {
+          "episode_file": "Vol.271 阿迪达斯如何触底反弹？ [1007333155].md",
+          "key": "vol-271-a-di-da-si-ruhe-chudi-fantan-1007333155",
+          "show": "商业就是这样",
+          "title": "Vol.271 阿迪达斯如何触底反弹？",
+          "url": "/wiki/sources/vol-271-a-di-da-si-ruhe-chudi-fantan-1007333155/"
+        },
+        {
+          "episode_file": "星巴克回应「蜜雪冰城代工」等传闻，李宁否认与姆巴佩签约 [1006054195].md",
+          "key": "xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195",
+          "show": "声动早咖啡",
+          "title": "星巴克回应「蜜雪冰城代工」等传闻，李宁否认与姆巴佩签约",
+          "url": "/wiki/sources/xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195/"
+        },
+        {
+          "episode_file": "Advice Line with Chris Riccobono of UNTUCKit [c087247f-1f85-4c15-b4aa-4ffea0368c4c].md",
+          "key": "advice-line-with-chris-riccobono-of-untuckit-c087247f-1f85-4c15-b4aa-4ffea0368c4c",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Chris Riccobono of UNTUCKit",
+          "url": "/wiki/sources/advice-line-with-chris-riccobono-of-untuckit-c087247f-1f85-4c15-b4aa-4ffea0368c4c/"
+        },
+        {
+          "episode_file": "E241｜跑鞋技术迭代史：马拉松跑进2小时，靠人还是靠鞋？ [c38d5df5-2eb3-46d3-8437-892593599d29].md",
+          "key": "e241-paoxie-jishu-diedaishi-malasong-paojin-2-xiaoshi-kao-ren-haishi-kao-xie",
+          "show": "硅谷101",
+          "title": "E241｜跑鞋技术迭代史：马拉松跑进2小时，靠人还是靠鞋？",
+          "url": "/wiki/sources/e241-paoxie-jishu-diedaishi-malasong-paojin-2-xiaoshi-kao-ren-haishi-kao-xie/"
+        },
+        {
+          "episode_file": "昂跑签下姆巴佩之后，跑鞋品牌做足球生意还有哪些难题？ [1018738205].md",
+          "key": "angpao-qianxia-mubapei-zhihou-paoxie-pinpai-zuo-zuqiu-shengyi-haiyou-naxie-nanti-1018738205",
+          "show": "声动早咖啡",
+          "title": "昂跑签下姆巴佩之后，跑鞋品牌做足球生意还有哪些难题？",
+          "url": "/wiki/sources/angpao-qianxia-mubapei-zhihou-paoxie-pinpai-zuo-zuqiu-shengyi-haiyou-naxie-nanti-1018738205/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/athletesponsorshipstrategy/"
+    },
     "AthleticMasteryBranding": {
       "episode_count": 1,
       "show_count": 1,
@@ -57987,6 +58038,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/footballclublegacytransfer/"
     },
+    "FootballFootwearMarketEntry": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "昂跑签下姆巴佩之后，跑鞋品牌做足球生意还有哪些难题？ [1018738205].md",
+          "key": "angpao-qianxia-mubapei-zhihou-paoxie-pinpai-zuo-zuqiu-shengyi-haiyou-naxie-nanti-1018738205",
+          "show": "声动早咖啡",
+          "title": "昂跑签下姆巴佩之后，跑鞋品牌做足球生意还有哪些难题？",
+          "url": "/wiki/sources/angpao-qianxia-mubapei-zhihou-paoxie-pinpai-zuo-zuqiu-shengyi-haiyou-naxie-nanti-1018738205/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/footballfootwearmarketentry/"
+    },
     "FootballYouthAcademyContinuity": {
       "episode_count": 1,
       "show_count": 1,
@@ -89565,9 +89632,9 @@
       "url": "/wiki/entities/kylegillett/"
     },
     "KylianMbappe": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "星巴克回应「蜜雪冰城代工」等传闻，李宁否认与姆巴佩签约 [1006054195].md",
@@ -89582,9 +89649,16 @@
           "show": "声动早咖啡",
           "title": "参半｜阿那亚变身热门景点，一度销售难的地产项目如何摆脱困境？",
           "url": "/wiki/sources/canban-anaya-bianshen-remen-jingdian-yidu-xiaoshou-nan-de-dichan-xiangmu-ruhe-baituo-kunjing-1017012362/"
+        },
+        {
+          "episode_file": "昂跑签下姆巴佩之后，跑鞋品牌做足球生意还有哪些难题？ [1018738205].md",
+          "key": "angpao-qianxia-mubapei-zhihou-paoxie-pinpai-zuo-zuqiu-shengyi-haiyou-naxie-nanti-1018738205",
+          "show": "声动早咖啡",
+          "title": "昂跑签下姆巴佩之后，跑鞋品牌做足球生意还有哪些难题？",
+          "url": "/wiki/sources/angpao-qianxia-mubapei-zhihou-paoxie-pinpai-zuo-zuqiu-shengyi-haiyou-naxie-nanti-1018738205/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/kylianmbappe/"
     },
     "KylieJenner": {
@@ -116948,9 +117022,9 @@
       "url": "/wiki/concepts/onpolicydistillation/"
     },
     "OnRunning": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "E241｜跑鞋技术迭代史：马拉松跑进2小时，靠人还是靠鞋？ [c38d5df5-2eb3-46d3-8437-892593599d29].md",
@@ -116972,9 +117046,16 @@
           "show": "声动早咖啡",
           "title": "参半｜阿那亚变身热门景点，一度销售难的地产项目如何摆脱困境？",
           "url": "/wiki/sources/canban-anaya-bianshen-remen-jingdian-yidu-xiaoshou-nan-de-dichan-xiangmu-ruhe-baituo-kunjing-1017012362/"
+        },
+        {
+          "episode_file": "昂跑签下姆巴佩之后，跑鞋品牌做足球生意还有哪些难题？ [1018738205].md",
+          "key": "angpao-qianxia-mubapei-zhihou-paoxie-pinpai-zuo-zuqiu-shengyi-haiyou-naxie-nanti-1018738205",
+          "show": "声动早咖啡",
+          "title": "昂跑签下姆巴佩之后，跑鞋品牌做足球生意还有哪些难题？",
+          "url": "/wiki/sources/angpao-qianxia-mubapei-zhihou-paoxie-pinpai-zuo-zuqiu-shengyi-haiyou-naxie-nanti-1018738205/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/onrunning/"
     },
     "OneX": {

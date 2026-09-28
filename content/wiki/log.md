@@ -24347,3 +24347,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | 昂跑签下姆巴佩之后，跑鞋品牌做足球生意还有哪些难题？
+
+Added source `angpao-qianxia-mubapei-zhihou-paoxie-pinpai-zuo-zuqiu-shengyi-haiyou-naxie-nanti-1018738205`; created `FootballFootwearMarketEntry`; updated `OnRunning` and `KylianMbappe`; and migrated `AthleteSponsorshipStrategy` to the synthesis-first schema from its complete bounded source set. Core synthesis: On's reported Mbappe partnership can accelerate product learning and global attention, but football entry still requires specialist product credibility, sustained ecosystem investment, distribution, and broader lifestyle conversion because a studded boot has a narrower use case than running or tennis footwear. No settled contradiction was adopted. Contract duration, equity, bonuses, financial figures, competitor outcomes, product performance, and side-item business claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

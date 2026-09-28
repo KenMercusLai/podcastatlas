@@ -3075,6 +3075,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Science-Supported Tools to Accelerate Your Fitness Goals](sources/science-supported-tools-to-accelerate-your-fitness-goals-scim7037527631.md) — Huberman Lab solo episode on daily zone 2 movement, low-repetition strength blocks, exercise snacks, interval and breathing tools, workout focus, flexible fueling, and supplement boundaries.
 
 - [347: The American Revolution (Part 1)](sources/347-the-american-revolution-part-1-glt3042850673.md) — The Rest Is History episode on the Seven Years' War settlement, imperial debt and frontier security, constitutional mismatch, colonial resistance, and the Boston Massacre.
+- [昂跑签下姆巴佩之后，跑鞋品牌做足球生意还有哪些难题？](sources/angpao-qianxia-mubapei-zhihou-paoxie-pinpai-zuo-zuqiu-shengyi-haiyou-naxie-nanti-1018738205.md) — 声动早咖啡 episode on On Running's Mbappe partnership, football-market entry barriers, Meta AI hardware, iQIYI medium-length dramas, and H&M cost pressure.
 
 ## Entities
 - [Holy Grail](entities/HolyGrail.md) — Medieval literary vessel transformed into a Passion relic, Eucharistic mystery, and knightly quest object.
@@ -8273,7 +8274,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Min Kao / 高明环](entities/MinKao.md) — Garmin co-founder whose name forms the second half of Garmin and whose navigation background anchors the source's GPS-origin account.
 - [Los Angeles Lakers](entities/LosAngelesLakers.md) — NBA franchise whose reported $12.5 billion valuation is used as a live-sports media-rights and AI-resistant asset signal.
 - [张青 / Zhang Qing](entities/ZhangQing.md) — Former Sam's Club China procurement executive named in source-scoped reporting around Starbucks China's supply-chain rumor and denial.
-- [Kylian Mbappe / 姆巴佩](entities/KylianMbappe.md) — Football star at the center of a denied Li-Ning sponsorship rumor in the 2026-08-13 声动早咖啡 source.
+- [Kylian Mbappe / 姆巴佩](entities/KylianMbappe.md) — Football star whose reported On partnership combines global ambassadorship, product development, and category-entry attention.
 - [Meta Muse Glimmer / Muse Spark](entities/MetaMuseModels.md) — Meta open-weight model releases used by the source to show a renewed open-model posture after Llama 4 disappointment.
 - [Master Kong / 康师傅](entities/MasterKong.md) — Packaged-beverage incumbent whose first-half 2026 beverage results illustrate bottled beverage demand pressure.
 - [Uni-President Enterprises / 统一集团](entities/UniPresidentEnterprises.md) — Packaged-beverage incumbent paired with Master Kong in the source's bottled-beverage slowdown segment.
@@ -13260,7 +13261,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Brooks](entities/Brooks.md) — Running-footwear brand discussed as a comfort-oriented slow-running shoe company pressured by carbon-plate racing competition.
 - [Saucony](entities/Saucony.md) — Running-footwear brand tied to Gaide's work history and iterative carbon-plate racing-shoe development.
 - [HOKA](entities/HOKA.md) — Performance and lifestyle running-footwear brand discussed through thick cushioning, rolling geometry, and retail growth.
-- [On Running](entities/OnRunning.md) — Footwear brand discussed through commute/lifestyle positioning and robotic upper-production experimentation.
+- [On Running](entities/OnRunning.md) — Premium sports brand expanding from running and controlled retail into football through LightSpray, apparel, and a reported long-term Mbappe partnership.
 - [Xtep](entities/Xtep.md) — Chinese running-shoe brand discussed through lab infrastructure, gait testing, and domestic performance-footwear catch-up.
 - [Li-Ning](entities/LiNing.md) — Chinese sportswear brand discussed through domestic super-shoe experimentation and its denial of a rumored Kylian Mbappe signing.
 - [Qiaodan Sports](entities/QiaodanSports.md) — Chinese sportswear brand discussed as part of domestic sub-100-gram racing-shoe experimentation.
@@ -14269,6 +14270,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Crispus Attucks](entities/CrispusAttucks.md) — Black and Native dockworker whose death and representation expose racialized revolutionary law and memory.
 
 ## Concepts
+- [Football Footwear Market Entry](concepts/FootballFootwearMarketEntry.md) — System-level challenge of converting footwear technology and athlete attention into credible football products, ecosystem presence, and demand.
 - [Grail Tradition Formation](concepts/GrailTraditionFormation.md) — Textual process turning an ambiguous romance vessel into a Passion relic and collective sacred quest.
 - [Grail Eucharistic Theology](concepts/GrailEucharisticTheology.md) — Sacramental framework joining vessel, host, blood, lance, healing, and vision.
 - [Chivalric Sacralization](concepts/ChivalricSacralization.md) — Medieval effort to subordinate warrior prowess and violence to Christian service, compassion, and holiness.
@@ -21915,7 +21917,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Carbon Plate Racing Shoes](concepts/CarbonPlateRacingShoes.md) — Road-racing shoe category where carbon structures, super foam, geometry, weight, and fit work as one performance system.
 - [Marathon Performance Ecosystem](concepts/MarathonPerformanceEcosystem.md) — Combined system of athlete talent, training, monitoring, recovery, footwear, sponsorship, and race attention behind marathon records.
 - [Performance Footwear Market](concepts/PerformanceFootwearMarket.md) — Market where shoes sell through race proof, comfort, fit, materials, lifestyle adoption, channels, events, fashion-cycle refresh, and technology momentum.
-- [Athlete Sponsorship Strategy](concepts/AthleteSponsorshipStrategy.md) — Brand strategy for backing athletes whose performance validates products, while managing rumor and incumbent-sponsor uncertainty.
+- [Athlete Sponsorship Strategy](concepts/AthleteSponsorshipStrategy.md) — Product-learning and credibility strategy whose value depends on incentives, follow-through, category capability, and attention-to-sales conversion.
 - [Forward Deployed Product Manager](concepts/ForwardDeployedProductManager.md) — Product/customer counterpart to FDE, responsible for agent behavior, quality expectations, requirements, and trust during deployment.
 - [AI Workflow Triage](concepts/AIWorkflowTriage.md) — Workflow decomposition discipline that separates deterministic, AI-suitable, and human-review steps before enterprise AI implementation.
 - [Private Equity AI Transformation](concepts/PrivateEquityAITransformation.md) — PE-led AI adoption pattern where owners use portfolio influence, fund workflows, and signaling needs to push AI deployment.
