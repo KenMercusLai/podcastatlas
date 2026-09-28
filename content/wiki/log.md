@@ -24926,3 +24926,11 @@ Added source `vol-29-miniao-waike-renshi-miniao-xitong-he-rongyi-gua-cuo-hao-de-
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | 311: Reagan: The Road to the White House (Part 2)
+
+Added source `311-reagan-the-road-to-the-white-house-part-2-glt9813084891`; created `BarryGoldwater`, `GeneralElectric`, and `CorporateSpeakingPoliticalApprenticeship`; and updated `RonaldReagan`, `PresidentialSymbolicLeadership`, `LawAndOrderRacialSignaling`, `SouthernConservativeRealignmentSignal`, and the canonical index from their complete bounded source sets. Core synthesis: Reagan's path from Hollywood to the presidency joined GE-funded speaking repetition, anecdotal ideological translation, the Goldwater donor network, California conflict, pragmatic state-level governing, Carter-era crisis, Sun Belt growth, and evangelical mobilization. No settled contradiction was adopted. Hard-right rhetoric and pragmatic governance coexist, while evidence against simple personal racial animus does not neutralize the racial meaning of welfare, states' rights, and Neshoba cues. Dialogue, figures, motives, biographical anecdotes, and precise causal weights remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

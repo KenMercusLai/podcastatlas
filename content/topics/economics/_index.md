@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2134
+topic_total_pages: 2135
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -730,6 +730,9 @@ topic_concepts:
   - key: "ConwaysLawOrganizationalDesign"
     title: "Conway's Law Organizational Design"
     url: "/wiki/concepts/conwayslaworganizationaldesign/"
+  - key: "CorporateSpeakingPoliticalApprenticeship"
+    title: "Corporate Speaking as Political Apprenticeship"
+    url: "/wiki/concepts/corporatespeakingpoliticalapprenticeship/"
   - key: "CostCapEconomics"
     title: "Cost Cap Economics"
     url: "/wiki/concepts/costcapeconomics/"

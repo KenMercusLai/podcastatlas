@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [311: Reagan: The Road to the White House (Part 2)](sources/311-reagan-the-road-to-the-white-house-part-2-glt9813084891.md) — The Rest Is History episode on Reagan's GE speaking apprenticeship, Goldwater breakthrough, California pragmatism, coded racial appeals, and 1980 coalition.
 - [312: Reagan, Iran-Contra and the Cold War (Part 3)](sources/312-reagan-iran-contra-and-the-cold-war-part-3-glt4042202229.md) — The Rest Is History episode on Reagan's symbolic leadership, contested economic program, AIDS and Iran-Contra failures, nuclear fear, and arms-control diplomacy with Gorbachev.
 - [313: Climate Apocalypse](sources/313-climate-apocalypse-glt8815959934.md) — The Rest Is History conversation with Peter Frankopan on climate-history evidence, causal pluralism, disease ecology, institutional resilience, inequality, and conditional optimism.
 - [VOL.37眼科｜你近视吗?眼睛保健操到底有用吗？｜为何我国闭角型青光眼发病概率大？](sources/vol-37-yanke-ni-jinshi-ma-yanjing-baojiancao-daodi-youyong-ma-weihe-woguo-bijiaoxing-qingguangyan-fabing-gailv-da-ltflr8s93wbkieqidme8ykjuznzp.md) — 这病说来话长 episode on age-patterned eye risk, irreversible glaucoma loss, childhood refraction and myopia control, defocus spectacles, and trauma prevention.
@@ -3155,6 +3156,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Intermittent Fasting to Improve Health, Cognition & Longevity | Dr. Satchin Panda](sources/intermittent-fasting-to-improve-health-cognition-longevity-dr-satchin-panda-scim5921048014.md) — Huberman Lab interview on circadian meal timing, time-restricted eating, human-versus-mouse evidence, energy-adequacy limits, and a firefighter shift-work trial.
 
 ## Entities
+- [Barry Goldwater](entities/BarryGoldwater.md) — 1964 Republican nominee whose campaign gave Reagan a national breakthrough and exposed a more electorally adaptable conservative successor.
+- [General Electric](entities/GeneralElectric.md) — Industrial and media employer whose television role, plant circuit, and Boulwarism environment trained Reagan's public political method.
 - [Oliver North](entities/OliverNorth.md) — National Security Council aide presented as a central operational figure in the Iran-Contra affair.
 - [Peter Frankopan](entities/PeterFrankopan.md) — Global historian presenting a proxy-rich, non-deterministic account of climate, ecology, institutions, and power.
 - [The Earth Transformed](entities/TheEarthTransformed.md) — Peter Frankopan book represented as a long-duration environmental history of climate, disease, energy, inequality, and political resilience.
@@ -14510,6 +14513,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Satchin Panda](entities/SatchinPanda.md) — Circadian-biology researcher separating meal timing, fasting duration, energy intake, and evidence limits in animal and human studies.
 
 ## Concepts
+- [Corporate Speaking as Political Apprenticeship](concepts/CorporateSpeakingPoliticalApprenticeship.md) — Conversion of employer-funded broadcasting, travel, workplace contact, and repeated explanation into electoral skill and message.
 - [Iran-Contra Affair](concepts/IranContraAffair.md) — Executive-law and covert-policy failure linking Iran arms transfers, hostages, Contra funding, congressional restrictions, and concealment.
 - [Reaganomics Political Economy](concepts/ReaganomicsPoliticalEconomy.md) — Multi-causal framework for Reagan-era tax, regulation, spending, monetary, labor, deficit, and regional outcomes.
 - [Presidential Symbolic Leadership](concepts/PresidentialSymbolicLeadership.md) — Use of ceremony, narrative, demeanor, humor, and national imagery to build authority and political confidence.

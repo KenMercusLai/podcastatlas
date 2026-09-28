@@ -1491,6 +1491,18 @@
       "url": "/topics/history/"
     }
   ],
+  "311-reagan-the-road-to-the-white-house-part-2-glt9813084891": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "312-reagan-iran-contra-and-the-cold-war-part-3-glt4042202229": [
     {
       "key": "history",
@@ -13145,6 +13157,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "BarryGoldwater": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "BartlebyColumn": [
     {
       "key": "culture",
@@ -21226,6 +21245,18 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "CorporateSpeakingPoliticalApprenticeship": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "CorrectableLeadershipError": [
@@ -33221,6 +33252,18 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "GeneralElectric": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "GeneralGrowthProperties": [

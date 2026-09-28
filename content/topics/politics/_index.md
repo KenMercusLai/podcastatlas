@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2809
+topic_total_pages: 2813
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -856,6 +856,9 @@ topic_concepts:
   - key: "CorporateLandlordTradeoffs"
     title: "Corporate Landlord Tradeoffs"
     url: "/wiki/concepts/corporatelandlordtradeoffs/"
+  - key: "CorporateSpeakingPoliticalApprenticeship"
+    title: "Corporate Speaking as Political Apprenticeship"
+    url: "/wiki/concepts/corporatespeakingpoliticalapprenticeship/"
   - key: "CorrectableLeadershipError"
     title: "Correctable Leadership Error / 犯错能改的领导力"
     url: "/wiki/concepts/correctableleadershiperror/"
@@ -4865,6 +4868,9 @@ topic_entities:
   - key: "BarronTrump"
     title: "Barron Trump"
     url: "/wiki/entities/barrontrump/"
+  - key: "BarryGoldwater"
+    title: "Barry Goldwater"
+    url: "/wiki/entities/barrygoldwater/"
   - key: "BasharAlAssad"
     title: "Bashar al-Assad"
     url: "/wiki/entities/basharalassad/"
@@ -5363,6 +5369,9 @@ topic_entities:
   - key: "Gaza"
     title: "Gaza"
     url: "/wiki/entities/gaza/"
+  - key: "GeneralElectric"
+    title: "General Electric"
+    url: "/wiki/entities/generalelectric/"
   - key: "GENIUSAct"
     title: "GENIUS Act"
     url: "/wiki/entities/geniusact/"
@@ -7455,6 +7464,9 @@ topic_sources:
   - key: "264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0"
     title: "264.库克的道德锚点｜过去15年，库克给苹果留下了什么？"
     url: "/wiki/sources/264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0/"
+  - key: "311-reagan-the-road-to-the-white-house-part-2-glt9813084891"
+    title: "311: Reagan: The Road to the White House (Part 2)"
+    url: "/wiki/sources/311-reagan-the-road-to-the-white-house-part-2-glt9813084891/"
   - key: "312-reagan-iran-contra-and-the-cold-war-part-3-glt4042202229"
     title: "312: Reagan, Iran-Contra and the Cold War (Part 3)"
     url: "/wiki/sources/312-reagan-iran-contra-and-the-cold-war-part-3-glt4042202229/"

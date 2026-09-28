@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 11328
+wiki_total_pages: 11330
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -194,6 +194,9 @@ wiki_pages:
   - key: "GeneralCatalyst"
     title: "General Catalyst"
     url: "/wiki/entities/generalcatalyst/"
+  - key: "GeneralElectric"
+    title: "General Electric"
+    url: "/wiki/entities/generalelectric/"
   - key: "GeneralGrowthProperties"
     title: "General Growth Properties"
     url: "/wiki/entities/generalgrowthproperties/"

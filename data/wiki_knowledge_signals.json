@@ -16757,6 +16757,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/barmakids/"
     },
+    "BarryGoldwater": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9813084891 [GLT9813084891].md",
+          "key": "311-reagan-the-road-to-the-white-house-part-2-glt9813084891",
+          "show": "The Rest Is History",
+          "title": "311: Reagan: The Road to the White House (Part 2)",
+          "url": "/wiki/sources/311-reagan-the-road-to-the-white-house-part-2-glt9813084891/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/barrygoldwater/"
+    },
     "BasicResearchBreakthroughLatency": {
       "episode_count": 1,
       "show_count": 1,
@@ -35970,6 +35986,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/corporatecomplicitywithauthoritarianism/"
+    },
+    "CorporateSpeakingPoliticalApprenticeship": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9813084891 [GLT9813084891].md",
+          "key": "311-reagan-the-road-to-the-white-house-part-2-glt9813084891",
+          "show": "The Rest Is History",
+          "title": "311: Reagan: The Road to the White House (Part 2)",
+          "url": "/wiki/sources/311-reagan-the-road-to-the-white-house-part-2-glt9813084891/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/corporatespeakingpoliticalapprenticeship/"
     },
     "CorporateTrainingComplianceRitual": {
       "episode_count": 1,
@@ -66346,6 +66378,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/geneenvironmentinteraction/"
     },
+    "GeneralElectric": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9813084891 [GLT9813084891].md",
+          "key": "311-reagan-the-road-to-the-white-house-part-2-glt9813084891",
+          "show": "The Rest Is History",
+          "title": "311: Reagan: The Road to the White House (Part 2)",
+          "url": "/wiki/sources/311-reagan-the-road-to-the-white-house-part-2-glt9813084891/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/generalelectric/"
+    },
     "GeneralGrowthProperties": {
       "episode_count": 1,
       "show_count": 1,
@@ -96479,9 +96527,9 @@
       "url": "/wiki/concepts/laughtertriggeredhealthrisk/"
     },
     "LawAndOrderRacialSignaling": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT3853956463 [GLT3853956463].md",
@@ -96510,9 +96558,16 @@
           "show": "The Rest Is History",
           "title": "509. America in '68: The Assassination of Martin Luther King Jr. (Part 2)",
           "url": "/wiki/sources/509-america-in-68-the-assassination-of-martin-luther-king-jr-part-2-glt4373367265/"
+        },
+        {
+          "episode_file": "GLT9813084891 [GLT9813084891].md",
+          "key": "311-reagan-the-road-to-the-white-house-part-2-glt9813084891",
+          "show": "The Rest Is History",
+          "title": "311: Reagan: The Road to the White House (Part 2)",
+          "url": "/wiki/sources/311-reagan-the-road-to-the-white-house-part-2-glt9813084891/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/lawandorderracialsignaling/"
     },
     "LawEnforcementAgainstElitePrivilege": {
@@ -133380,9 +133435,9 @@
       "url": "/wiki/concepts/presidentialaccessibilitysecuritytradeoff/"
     },
     "PresidentialSymbolicLeadership": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4042202229 [GLT4042202229].md",
@@ -133390,6 +133445,13 @@
           "show": "The Rest Is History",
           "title": "312: Reagan, Iran-Contra and the Cold War (Part 3)",
           "url": "/wiki/sources/312-reagan-iran-contra-and-the-cold-war-part-3-glt4042202229/"
+        },
+        {
+          "episode_file": "GLT9813084891 [GLT9813084891].md",
+          "key": "311-reagan-the-road-to-the-white-house-part-2-glt9813084891",
+          "show": "The Rest Is History",
+          "title": "311: Reagan: The Road to the White House (Part 2)",
+          "url": "/wiki/sources/311-reagan-the-road-to-the-white-house-part-2-glt9813084891/"
         }
       ],
       "updated": "2026-09-29",
@@ -143925,9 +143987,9 @@
       "url": "/wiki/entities/romanceofthethreekingdoms/"
     },
     "RonaldReagan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "81.间谍与叛徒：恕我直言，007的故事弱爆了 (下) [693711209].md",
@@ -143942,6 +144004,13 @@
           "show": "The Rest Is History",
           "title": "312: Reagan, Iran-Contra and the Cold War (Part 3)",
           "url": "/wiki/sources/312-reagan-iran-contra-and-the-cold-war-part-3-glt4042202229/"
+        },
+        {
+          "episode_file": "GLT9813084891 [GLT9813084891].md",
+          "key": "311-reagan-the-road-to-the-white-house-part-2-glt9813084891",
+          "show": "The Rest Is History",
+          "title": "311: Reagan: The Road to the White House (Part 2)",
+          "url": "/wiki/sources/311-reagan-the-road-to-the-white-house-part-2-glt9813084891/"
         }
       ],
       "updated": "2026-09-29",
@@ -154488,9 +154557,9 @@
       "url": "/wiki/entities/southamptonplot/"
     },
     "SouthernConservativeRealignmentSignal": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8855008412 [GLT8855008412].md",
@@ -154498,9 +154567,16 @@
           "show": "The Rest Is History",
           "title": "511. America in '68: George Wallace, The First Donald Trump (Part 4)",
           "url": "/wiki/sources/511-america-in-68-george-wallace-the-first-donald-trump-part-4-glt8855008412/"
+        },
+        {
+          "episode_file": "GLT9813084891 [GLT9813084891].md",
+          "key": "311-reagan-the-road-to-the-white-house-part-2-glt9813084891",
+          "show": "The Rest Is History",
+          "title": "311: Reagan: The Road to the White House (Part 2)",
+          "url": "/wiki/sources/311-reagan-the-road-to-the-white-house-part-2-glt9813084891/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/southernconservativerealignmentsignal/"
     },
     "SouthernOcean": {
