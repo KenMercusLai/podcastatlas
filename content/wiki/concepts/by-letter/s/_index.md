@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 8681
+wiki_total_pages: 8683
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1643,6 +1643,9 @@ wiki_pages:
   - key: "StateAIRegulationPatchwork"
     title: "State AI Regulation Patchwork"
     url: "/wiki/concepts/stateairegulationpatchwork/"
+  - key: "StateCollapseCascade"
+    title: "State Collapse Cascade"
+    url: "/wiki/concepts/statecollapsecascade/"
   - key: "StateCredibilityAgainstMilitia"
     title: "State Credibility Against Militia"
     url: "/wiki/concepts/statecredibilityagainstmilitia/"

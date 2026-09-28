@@ -983,6 +983,10 @@
     "title": "32.印第安人《讲了一百万次的故事》是马尔克斯的老师",
     "url": "/wiki/sources/32-yindianren-jiang-le-yi-bai-wan-ci-de-gushi-shi-maerkesi-de-laoshi-596386714/"
   },
+  "324-fall-of-saigon-the-nightmare-begins-part-1-glt6047251362": {
+    "title": "324: Fall of Saigon: The Nightmare Begins (Part 1)",
+    "url": "/wiki/sources/324-fall-of-saigon-the-nightmare-begins-part-1-glt6047251362/"
+  },
   "325-fall-of-saigon-apocalypse-now-part-2-glt1698435670": {
     "title": "325: Fall of Saigon: Apocalypse Now (Part 2)",
     "url": "/wiki/sources/325-fall-of-saigon-apocalypse-now-part-2-glt1698435670/"
@@ -16919,6 +16923,10 @@
     "title": "Congo Reform Association",
     "url": "/wiki/entities/congoreformassociation/"
   },
+  "CongressionalWarPowersConstraint": {
+    "title": "Congressional War-Powers Constraint",
+    "url": "/wiki/concepts/congressionalwarpowersconstraint/"
+  },
   "ConocoPhillips": {
     "title": "ConocoPhillips",
     "url": "/wiki/entities/conocophillips/"
@@ -29495,6 +29503,10 @@
     "title": "Geppetto / 杰佩托",
     "url": "/wiki/entities/geppetto/"
   },
+  "GeraldFord": {
+    "title": "Gerald Ford",
+    "url": "/wiki/entities/geraldford/"
+  },
   "GerardWay": {
     "title": "Gerard Way",
     "url": "/wiki/entities/gerardway/"
@@ -32710,6 +32722,10 @@
   "HenryKeswick": {
     "title": "Henry Keswick / 亨利·凯瑟克",
     "url": "/wiki/entities/henrykeswick/"
+  },
+  "HenryKissinger": {
+    "title": "Henry Kissinger",
+    "url": "/wiki/entities/henrykissinger/"
   },
   "HenryLaufer": {
     "title": "Henry Laufer",
@@ -39982,6 +39998,10 @@
   "KhmerEmpire": {
     "title": "Khmer Empire / 吴哥王朝",
     "url": "/wiki/entities/khmerempire/"
+  },
+  "KhmerRouge": {
+    "title": "Khmer Rouge",
+    "url": "/wiki/entities/khmerrouge/"
   },
   "Khorasan": {
     "title": "Khorasan",
@@ -50687,6 +50707,10 @@
     "title": "Ngozi Okonjo-Iweala",
     "url": "/wiki/entities/ngoziokonjoiweala/"
   },
+  "NguyenVanThieu": {
+    "title": "Nguyễn Văn Thiệu",
+    "url": "/wiki/entities/nguyenvanthieu/"
+  },
   "NiChiXiangcaiMa": {
     "title": "你吃香菜吗",
     "url": "/wiki/entities/nichixiangcaima/"
@@ -52419,6 +52443,10 @@
     "title": "Operating Room Physiology Management / 手术室生理管理",
     "url": "/wiki/concepts/operatingroomphysiologymanagement/"
   },
+  "OperationBabylift": {
+    "title": "Operation Babylift",
+    "url": "/wiki/entities/operationbabylift/"
+  },
   "OperationBlueSkies": {
     "title": "Operation Blue Skies",
     "url": "/wiki/entities/operationblueskies/"
@@ -53530,6 +53558,10 @@
   "ParisOfTroy": {
     "title": "Paris of Troy",
     "url": "/wiki/entities/parisoftroy/"
+  },
+  "ParisPeaceAccords": {
+    "title": "Paris Peace Accords",
+    "url": "/wiki/entities/parispeaceaccords/"
   },
   "ParkMobile": {
     "title": "ParkMobile",
@@ -66782,6 +66814,10 @@
   "StateBackedRareEarthRebuilding": {
     "title": "State-Backed Rare Earth Rebuilding",
     "url": "/wiki/concepts/statebackedrareearthrebuilding/"
+  },
+  "StateCollapseCascade": {
+    "title": "State Collapse Cascade",
+    "url": "/wiki/concepts/statecollapsecascade/"
   },
   "StateCommercialMonopolyExtraction": {
     "title": "官营商业垄断式汲取 / State Commercial Monopoly Extraction",

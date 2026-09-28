@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2797
+topic_total_pages: 2800
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5369,6 +5369,9 @@ topic_entities:
   - key: "GeorgetownLawCenterOnPrivacyTechnology"
     title: "Georgetown Law Center on Privacy and Technology"
     url: "/wiki/entities/georgetownlawcenteronprivacytechnology/"
+  - key: "GeraldFord"
+    title: "Gerald Ford"
+    url: "/wiki/entities/geraldford/"
   - key: "Germany"
     title: "Germany"
     url: "/wiki/entities/germany/"
@@ -6116,6 +6119,9 @@ topic_entities:
   - key: "NewYorkState"
     title: "New York State"
     url: "/wiki/entities/newyorkstate/"
+  - key: "NguyenVanThieu"
+    title: "Nguyễn Văn Thiệu"
+    url: "/wiki/entities/nguyenvanthieu/"
   - key: "NicholasMiller"
     title: "Nicholas Miller"
     url: "/wiki/entities/nicholasmiller/"
@@ -6206,6 +6212,9 @@ topic_entities:
   - key: "Palestinians"
     title: "Palestinians"
     url: "/wiki/entities/palestinians/"
+  - key: "ParisPeaceAccords"
+    title: "Paris Peace Accords"
+    url: "/wiki/entities/parispeaceaccords/"
   - key: "PasqualePaoli"
     title: "Pasquale Paoli"
     url: "/wiki/entities/pasqualepaoli/"

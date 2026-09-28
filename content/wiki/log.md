@@ -24778,3 +24778,11 @@ Added source `science-based-mental-training-visualization-for-improved-learning-
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | 324: Fall of Saigon: The Nightmare Begins (Part 1)
+
+Added source `324-fall-of-saigon-the-nightmare-begins-part-1-glt6047251362`; created `HenryKissinger`, `GeraldFord`, `NguyenVanThieu`, `ParisPeaceAccords`, `OperationBabylift`, `KhmerRouge`, `StateCollapseCascade`, and `CongressionalWarPowersConstraint`; and updated `FallOfSaigon`, `GrahamMartin`, `InterventionWithdrawalDependency`, `Vietnam`, `Cambodia`, `RichardNixon`, and the canonical index from their complete bounded source sets. Core synthesis: the 1973 settlement enabled American exit without durable peace; Watergate and congressional constraint made retaliation promises noncredible; and South Vietnam's failed retreat, refugee congestion, public panic, and lost external support formed a self-accelerating collapse before the final evacuation. No settled contradiction was adopted. Nixon and Kissinger's intent, aid and bombing counterfactuals, figures, atrocities, private motives, dialogue, and evacuation conduct remain source-scoped, while Cambodia's Khmer Rouge outcome is distinguished from postwar repression in Vietnam. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

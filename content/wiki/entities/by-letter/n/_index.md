@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 11287
+wiki_total_pages: 11293
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -404,6 +404,9 @@ wiki_pages:
   - key: "NgoziOkonjoIweala"
     title: "Ngozi Okonjo-Iweala"
     url: "/wiki/entities/ngoziokonjoiweala/"
+  - key: "NguyenVanThieu"
+    title: "Nguyễn Văn Thiệu"
+    url: "/wiki/entities/nguyenvanthieu/"
   - key: "NHLPlayersAssociation"
     title: "NHL Players' Association / NHLPA"
     url: "/wiki/entities/nhlplayersassociation/"

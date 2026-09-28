@@ -4,6 +4,7 @@ type: entity
 tags: [person, diplomat, united-states, vietnam-war]
 sources:
   - 325-fall-of-saigon-apocalypse-now-part-2-glt1698435670
+  - 324-fall-of-saigon-the-nightmare-begins-part-1-glt6047251362
 last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
@@ -16,14 +17,14 @@ Graham Martin was the U.S. ambassador in Saigon during South Vietnam's final col
 
 ## Current Profile
 
-The episode presents Martin as a conflicted figure rather than a simple coward or hero. He resisted early evacuation preparation because he feared panic and regarded departure as betrayal, while also attaching personal honor to remaining until the end. That posture delayed practical preparation and eventually forced Washington to order his removal.
+The two episodes present Martin as a conflicted figure rather than a simple coward or hero. Before the final helicopter operation, he resisted early evacuation preparation because he feared panic, violence, and the visible betrayal of Vietnamese partners. In the final hours he also attached personal honor to remaining until the end. That posture delayed practical preparation and eventually forced Washington to order his removal.
 
 His questions about abandoning Vietnamese dependents show a real moral problem, but the episode's judgment is that honor, guilt, and denial worsened the operational chaos rather than solving it.
 
 ## Key Characteristics
 
 - He resisted visible evacuation preparation as South Vietnam collapsed.
-- He feared that preparation would trigger panic and signal betrayal.
+- He feared that preparation would trigger panic, violence, and a signal of betrayal.
 - He framed departure partly through responsibility for Vietnamese dependents and mixed families.
 - His conduct is compared to a “General Gordon complex” centered on being the last man out.
 - Washington ultimately ordered that he be put on a helicopter even if he resisted.
@@ -32,6 +33,7 @@ His questions about abandoning Vietnamese dependents show a real moral problem, 
 
 ### Delay and motive
 
+- [[324-fall-of-saigon-the-nightmare-begins-part-1-glt6047251362]] places Martin's resistance inside the pre-evacuation dilemma of roughly 6,000 Americans and a vastly larger population of vulnerable Vietnamese partners and families.
 - [[325-fall-of-saigon-apocalypse-now-part-2-glt1698435670]] attributes Martin's delay to fear of panic, loyalty, personal honor, guilt, and denial.
 
 ### Final removal
@@ -44,12 +46,12 @@ His questions about abandoning Vietnamese dependents show a real moral problem, 
 
 ## Qualifications
 
-The episode infers Martin's psychology from conduct and reported statements; it does not independently establish the relative weight of honor, denial, loyalty, grief, or operational judgment. Its “General Gordon” comparison is interpretive, and exact orders, dialogue, and timing remain source-scoped.
+The episodes infer Martin's psychology from conduct and reported statements; they do not independently establish the relative weight of honor, denial, loyalty, grief, or operational judgment. His fear that early preparation could provoke panic was not irrational, even though delay increased later risk. The “General Gordon” comparison is interpretive, and exact orders, dialogue, vulnerable-person counts, and timing remain source-scoped.
 
 ## What Changed
 
-- Established a profile combining sincere obligation to Vietnamese partners with damaging delay and denial.
-- Distinguished the moral seriousness of Martin's questions from the practical consequences of his decisions.
+- Added the pre-evacuation scale mismatch and Martin's fear that visible preparation would itself trigger violence.
+- Sharpened the distinction between a genuine duty to partners and decisions that reduced time to fulfill it.
 
 ## Relationships
 

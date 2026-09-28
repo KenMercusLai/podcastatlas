@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 11287
+wiki_total_pages: 11293
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -344,6 +344,9 @@ wiki_pages:
   - key: "Geppetto"
     title: "Geppetto / 杰佩托"
     url: "/wiki/entities/geppetto/"
+  - key: "GeraldFord"
+    title: "Gerald Ford"
+    url: "/wiki/entities/geraldford/"
   - key: "GerardWay"
     title: "Gerard Way"
     url: "/wiki/entities/gerardway/"

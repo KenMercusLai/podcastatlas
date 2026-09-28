@@ -1514,6 +1514,13 @@
       "url": "/topics/history/"
     }
   ],
+  "324-fall-of-saigon-the-nightmare-begins-part-1-glt6047251362": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "325-fall-of-saigon-apocalypse-now-part-2-glt1698435670": [
     {
       "key": "history",
@@ -33417,6 +33424,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "GeraldFord": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "GermanCaretakerStalemate": [
     {
       "key": "politics",
@@ -53658,6 +53672,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "NguyenVanThieu": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "NiChiXiangcaiMa": [
     {
       "key": "culture",
@@ -56455,6 +56476,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "ParisPeaceAccords": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "ParkerConrad": [

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 11287
+wiki_total_pages: 11293
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -92,6 +92,9 @@ wiki_pages:
   - key: "ParisOfTroy"
     title: "Paris of Troy"
     url: "/wiki/entities/parisoftroy/"
+  - key: "ParisPeaceAccords"
+    title: "Paris Peace Accords"
+    url: "/wiki/entities/parispeaceaccords/"
   - key: "ParkerConrad"
     title: "Parker Conrad"
     url: "/wiki/entities/parkerconrad/"

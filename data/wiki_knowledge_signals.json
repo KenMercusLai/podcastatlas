@@ -22685,6 +22685,36 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/calypso/"
     },
+    "Cambodia": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "For bucks’ sake： the rise of self-made billionaires [6a61e076562e3ad886d54c95].md",
+          "key": "for-bucks-sake-the-rise-of-self-made-billionaires-6a61e076562e3ad886d54c95",
+          "show": "Economist Podcasts",
+          "title": "For bucks' sake: the rise of self-made billionaires",
+          "url": "/wiki/sources/for-bucks-sake-the-rise-of-self-made-billionaires-6a61e076562e3ad886d54c95/"
+        },
+        {
+          "episode_file": "EP267 踏访湄公河：雨季、婚飞蚁与水利帝国 [lkq2VXaATn4wXUE7y5q1FC3_8yfk].md",
+          "key": "ep267-tafang-meigonghe-yuji-hunfeiyi-yu-shuili-diguo-lkq2vxaatn4wxue7y5q1fc3-8yfk",
+          "show": "Talk三联",
+          "title": "EP267 踏访湄公河：雨季、婚飞蚁与水利帝国",
+          "url": "/wiki/sources/ep267-tafang-meigonghe-yuji-hunfeiyi-yu-shuili-diguo-lkq2vxaatn4wxue7y5q1fc3-8yfk/"
+        },
+        {
+          "episode_file": "GLT6047251362 [GLT6047251362].md",
+          "key": "324-fall-of-saigon-the-nightmare-begins-part-1-glt6047251362",
+          "show": "The Rest Is History",
+          "title": "324: Fall of Saigon: The Nightmare Begins (Part 1)",
+          "url": "/wiki/sources/324-fall-of-saigon-the-nightmare-begins-part-1-glt6047251362/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/cambodia/"
+    },
     "CameraFreeSmartGlasses": {
       "episode_count": 1,
       "show_count": 1,
@@ -34073,6 +34103,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/entities/congoreformassociation/"
+    },
+    "CongressionalWarPowersConstraint": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6047251362 [GLT6047251362].md",
+          "key": "324-fall-of-saigon-the-nightmare-begins-part-1-glt6047251362",
+          "show": "The Rest Is History",
+          "title": "324: Fall of Saigon: The Nightmare Begins (Part 1)",
+          "url": "/wiki/sources/324-fall-of-saigon-the-nightmare-begins-part-1-glt6047251362/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/congressionalwarpowersconstraint/"
     },
     "ConquestCaptivityNarrativeUncertainty": {
       "episode_count": 2,
@@ -55758,9 +55804,9 @@
       "url": "/wiki/concepts/fairallocationpoliticalskill/"
     },
     "FallOfSaigon": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1698435670 [GLT1698435670].md",
@@ -55768,6 +55814,13 @@
           "show": "The Rest Is History",
           "title": "325: Fall of Saigon: Apocalypse Now (Part 2)",
           "url": "/wiki/sources/325-fall-of-saigon-apocalypse-now-part-2-glt1698435670/"
+        },
+        {
+          "episode_file": "GLT6047251362 [GLT6047251362].md",
+          "key": "324-fall-of-saigon-the-nightmare-begins-part-1-glt6047251362",
+          "show": "The Rest Is History",
+          "title": "324: Fall of Saigon: The Nightmare Begins (Part 1)",
+          "url": "/wiki/sources/324-fall-of-saigon-the-nightmare-begins-part-1-glt6047251362/"
         }
       ],
       "updated": "2026-09-28",
@@ -66915,6 +66968,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/entities/georgiabanjo/"
     },
+    "GeraldFord": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6047251362 [GLT6047251362].md",
+          "key": "324-fall-of-saigon-the-nightmare-begins-part-1-glt6047251362",
+          "show": "The Rest Is History",
+          "title": "324: Fall of Saigon: The Nightmare Begins (Part 1)",
+          "url": "/wiki/sources/324-fall-of-saigon-the-nightmare-begins-part-1-glt6047251362/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/geraldford/"
+    },
     "GerardWinstanley": {
       "episode_count": 1,
       "show_count": 1,
@@ -69006,9 +69075,9 @@
       "url": "/wiki/entities/grahamhancock/"
     },
     "GrahamMartin": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1698435670 [GLT1698435670].md",
@@ -69016,6 +69085,13 @@
           "show": "The Rest Is History",
           "title": "325: Fall of Saigon: Apocalypse Now (Part 2)",
           "url": "/wiki/sources/325-fall-of-saigon-apocalypse-now-part-2-glt1698435670/"
+        },
+        {
+          "episode_file": "GLT6047251362 [GLT6047251362].md",
+          "key": "324-fall-of-saigon-the-nightmare-begins-part-1-glt6047251362",
+          "show": "The Rest Is History",
+          "title": "324: Fall of Saigon: The Nightmare Begins (Part 1)",
+          "url": "/wiki/sources/324-fall-of-saigon-the-nightmare-begins-part-1-glt6047251362/"
         }
       ],
       "updated": "2026-09-28",
@@ -75042,6 +75118,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/henryivofengland/"
+    },
+    "HenryKissinger": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6047251362 [GLT6047251362].md",
+          "key": "324-fall-of-saigon-the-nightmare-begins-part-1-glt6047251362",
+          "show": "The Rest Is History",
+          "title": "324: Fall of Saigon: The Nightmare Begins (Part 1)",
+          "url": "/wiki/sources/324-fall-of-saigon-the-nightmare-begins-part-1-glt6047251362/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/henrykissinger/"
     },
     "HenryMintzberg": {
       "episode_count": 1,
@@ -85504,9 +85596,9 @@
       "url": "/wiki/concepts/interstateeconomicwarfare/"
     },
     "InterventionWithdrawalDependency": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1698435670 [GLT1698435670].md",
@@ -85514,6 +85606,13 @@
           "show": "The Rest Is History",
           "title": "325: Fall of Saigon: Apocalypse Now (Part 2)",
           "url": "/wiki/sources/325-fall-of-saigon-apocalypse-now-part-2-glt1698435670/"
+        },
+        {
+          "episode_file": "GLT6047251362 [GLT6047251362].md",
+          "key": "324-fall-of-saigon-the-nightmare-begins-part-1-glt6047251362",
+          "show": "The Rest Is History",
+          "title": "324: Fall of Saigon: The Nightmare Begins (Part 1)",
+          "url": "/wiki/sources/324-fall-of-saigon-the-nightmare-begins-part-1-glt6047251362/"
         }
       ],
       "updated": "2026-09-28",
@@ -92759,6 +92858,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/kharosthiniyadocuments/"
+    },
+    "KhmerRouge": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6047251362 [GLT6047251362].md",
+          "key": "324-fall-of-saigon-the-nightmare-begins-part-1-glt6047251362",
+          "show": "The Rest Is History",
+          "title": "324: Fall of Saigon: The Nightmare Begins (Part 1)",
+          "url": "/wiki/sources/324-fall-of-saigon-the-nightmare-begins-part-1-glt6047251362/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/khmerrouge/"
     },
     "Khorasan": {
       "episode_count": 1,
@@ -118692,6 +118807,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/nexushararibook/"
     },
+    "NguyenVanThieu": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6047251362 [GLT6047251362].md",
+          "key": "324-fall-of-saigon-the-nightmare-begins-part-1-glt6047251362",
+          "show": "The Rest Is History",
+          "title": "324: Fall of Saigon: The Nightmare Begins (Part 1)",
+          "url": "/wiki/sources/324-fall-of-saigon-the-nightmare-begins-part-1-glt6047251362/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/nguyenvanthieu/"
+    },
     "Nibbo": {
       "episode_count": 1,
       "show_count": 1,
@@ -122611,6 +122742,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/operatingroomphysiologymanagement/"
     },
+    "OperationBabylift": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6047251362 [GLT6047251362].md",
+          "key": "324-fall-of-saigon-the-nightmare-begins-part-1-glt6047251362",
+          "show": "The Rest Is History",
+          "title": "324: Fall of Saigon: The Nightmare Begins (Part 1)",
+          "url": "/wiki/sources/324-fall-of-saigon-the-nightmare-begins-part-1-glt6047251362/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/operationbabylift/"
+    },
     "OperationBlueSkies": {
       "episode_count": 1,
       "show_count": 1,
@@ -125154,6 +125301,22 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/entities/parisoftroy/"
+    },
+    "ParisPeaceAccords": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6047251362 [GLT6047251362].md",
+          "key": "324-fall-of-saigon-the-nightmare-begins-part-1-glt6047251362",
+          "show": "The Rest Is History",
+          "title": "324: Fall of Saigon: The Nightmare Begins (Part 1)",
+          "url": "/wiki/sources/324-fall-of-saigon-the-nightmare-begins-part-1-glt6047251362/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/parispeaceaccords/"
     },
     "ParkingCostInternalization": {
       "episode_count": 1,
@@ -140588,9 +140751,9 @@
       "url": "/wiki/entities/richardjdaley/"
     },
     "RichardNixon": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 4,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "Vol.268 两个劳斯莱斯 [1003563933].md",
@@ -140619,6 +140782,13 @@
           "show": "The Rest Is History",
           "title": "513. America in '68: Nixon's Great Comeback (Part 6)",
           "url": "/wiki/sources/513-america-in-68-nixons-great-comeback-part-6-glt3853956463/"
+        },
+        {
+          "episode_file": "GLT6047251362 [GLT6047251362].md",
+          "key": "324-fall-of-saigon-the-nightmare-begins-part-1-glt6047251362",
+          "show": "The Rest Is History",
+          "title": "324: Fall of Saigon: The Nightmare Begins (Part 1)",
+          "url": "/wiki/sources/324-fall-of-saigon-the-nightmare-begins-part-1-glt6047251362/"
         }
       ],
       "updated": "2026-09-22",
@@ -154397,6 +154567,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/startupembassy/"
+    },
+    "StateCollapseCascade": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6047251362 [GLT6047251362].md",
+          "key": "324-fall-of-saigon-the-nightmare-begins-part-1-glt6047251362",
+          "show": "The Rest Is History",
+          "title": "324: Fall of Saigon: The Nightmare Begins (Part 1)",
+          "url": "/wiki/sources/324-fall-of-saigon-the-nightmare-begins-part-1-glt6047251362/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/statecollapsecascade/"
     },
     "StateCommercialMonopolyExtraction": {
       "episode_count": 3,
@@ -168962,9 +169148,9 @@
       "url": "/wiki/concepts/viennasocialhousingscale/"
     },
     "Vietnam": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "EP267 踏访湄公河：雨季、婚飞蚁与水利帝国 [lkq2VXaATn4wXUE7y5q1FC3_8yfk].md",
@@ -168986,6 +169172,13 @@
           "show": "The Rest Is History",
           "title": "325: Fall of Saigon: Apocalypse Now (Part 2)",
           "url": "/wiki/sources/325-fall-of-saigon-apocalypse-now-part-2-glt1698435670/"
+        },
+        {
+          "episode_file": "GLT6047251362 [GLT6047251362].md",
+          "key": "324-fall-of-saigon-the-nightmare-begins-part-1-glt6047251362",
+          "show": "The Rest Is History",
+          "title": "324: Fall of Saigon: The Nightmare Begins (Part 1)",
+          "url": "/wiki/sources/324-fall-of-saigon-the-nightmare-begins-part-1-glt6047251362/"
         }
       ],
       "updated": "2026-09-28",

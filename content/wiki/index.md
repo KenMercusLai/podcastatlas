@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [324: Fall of Saigon: The Nightmare Begins (Part 1)](sources/324-fall-of-saigon-the-nightmare-begins-part-1-glt6047251362.md) — The Rest Is History episode on the Paris settlement, Watergate-era war-powers constraints, South Vietnam's collapse cascade, Cambodia, and pre-evacuation moral triage.
 - [VOL.42心血管内科｜听说你总是头疼？可能需要做一件“堵心事”来解决](sources/vol-42-xinxueguan-neike-tingshuo-ni-zongshi-touteng-keneng-xuyao-zuo-yijian-du-xin-shi-lai-jiejue-lvw85wqzb0kvpyk5uipsagy13b11.md) — 这病说来话长 episode on PFO anatomy, migraine and embolic evaluation, echocardiographic testing, and individualized closure decisions.
 - [325: Fall of Saigon: Apocalypse Now (Part 2)](sources/325-fall-of-saigon-apocalypse-now-part-2-glt1698435670.md) — The Rest Is History episode on Saigon's final evacuation, postwar repression and refugee flight, and the American cultural memory of Vietnam.
 - [Amazon wants Alexa to finish your to-do list, not just research it](sources/tech-20260928-0928-mp-tech-pod-128-tech-20260928-0928-mp-tech-pod-128.md) — Marketplace Tech interview with Daniel Rausch on Alexa+ task completion, Prime economics, household hardware, agentic shopping, and expansion into wearable ambient assistance.
@@ -3135,6 +3136,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Science-Based Mental Training & Visualization for Improved Learning](sources/science-based-mental-training-visualization-for-improved-learning-scim9944841947.md) — Huberman Lab solo episode on brief task-matched imagery, physical-practice primacy, first-person rehearsal, response inhibition, sleep, and protocol evidence boundaries.
 
 ## Entities
+- [Henry Kissinger](entities/HenryKissinger.md) — U.S. diplomat balancing acceptance of South Vietnamese defeat against credibility, aid, bombing, and evacuation concerns.
+- [Gerald Ford](entities/GeraldFord.md) — U.S. president constrained by Watergate's aftermath, Congress, public opinion, and an impossible evacuation hierarchy.
+- [Nguyễn Văn Thiệu](entities/NguyenVanThieu.md) — South Vietnamese president whose failed territorial withdrawal and partly credible betrayal charge shape the collapse account.
+- [Paris Peace Accords](entities/ParisPeaceAccords.md) — 1973 settlement that enabled U.S. withdrawal without producing durable peace or enforceable deterrence.
+- [Operation Babylift](entities/OperationBabylift.md) — Humanitarian child-evacuation effort whose fatal crash became a symbol of intervention failure.
+- [Khmer Rouge](entities/KhmerRouge.md) — Cambodian Communist movement whose 1975 victory led to forced urban evacuation and mass violence.
 - [Roger Shepard](entities/RogerShepard.md) — Cognitive scientist credited for mental-rotation evidence that imagined transformation preserves spatial and temporal constraints.
 - [Stephen Kosslyn](entities/StephenKosslyn.md) — Cognitive scientist credited for imagined-navigation evidence linking mental travel time to represented distance.
 - [Fall of Saigon](entities/FallOfSaigon.md) — April 1975 collapse of South Vietnam framed through evacuation, extinguished sovereignty, abandonment, and long political memory.
@@ -14447,6 +14454,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Frankfurt Parliament](entities/FrankfurtParliament.md) — German national assembly whose representative ambition lacked independent military and administrative capacity.
 
 ## Concepts
+- [State Collapse Cascade](concepts/StateCollapseCascade.md) — Reinforcing interaction among retreat, territorial loss, refugee movement, public panic, and institutional failure.
+- [Congressional War-Powers Constraint](concepts/CongressionalWarPowersConstraint.md) — Legislative, funding, and political limits that narrow presidential military action and external commitment credibility.
 - [Mental Practice and Visualization](concepts/MentalPracticeAndVisualization.md) — Skill-rehearsal framework using brief, simple, task-matched imagery as a supplement to real execution and feedback.
 - [Patent Foramen Ovale Evaluation and Closure / 卵圆孔未闭评估与封堵](concepts/PatentForamenOvaleEvaluationAndClosure.md) — Finding-versus-indication framework for PFO anatomy, shunt testing, causal assessment, and treatment selection.
 - [Intervention–Withdrawal Dependency](concepts/InterventionWithdrawalDependency.md) — Process by which intervention creates reliance and obligations that make later withdrawal materially and morally difficult.

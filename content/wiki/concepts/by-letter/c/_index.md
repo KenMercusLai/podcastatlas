@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8681
+wiki_total_pages: 8683
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1688,6 +1688,9 @@ wiki_pages:
   - key: "ConglomerateControlInColonialHongKong"
     title: "Conglomerate Control in Colonial Hong Kong / 殖民期香港财团控制"
     url: "/wiki/concepts/conglomeratecontrolincolonialhongkong/"
+  - key: "CongressionalWarPowersConstraint"
+    title: "Congressional War-Powers Constraint"
+    url: "/wiki/concepts/congressionalwarpowersconstraint/"
   - key: "ConquestCaptivityNarrativeUncertainty"
     title: "Conquest Captivity Narrative Uncertainty"
     url: "/wiki/concepts/conquestcaptivitynarrativeuncertainty/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "o"
-wiki_total_pages: 11287
+wiki_total_pages: 11293
 wiki_pages:
   - key: "OneX"
     title: "1X"
@@ -221,6 +221,9 @@ wiki_pages:
   - key: "OpenTelemetry"
     title: "OpenTelemetry"
     url: "/wiki/entities/opentelemetry/"
+  - key: "OperationBabylift"
+    title: "Operation Babylift"
+    url: "/wiki/entities/operationbabylift/"
   - key: "OperationBlueSkies"
     title: "Operation Blue Skies"
     url: "/wiki/entities/operationblueskies/"
