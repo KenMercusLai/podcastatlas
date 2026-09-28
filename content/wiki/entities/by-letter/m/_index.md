@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 11341
+wiki_total_pages: 11343
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -494,6 +494,9 @@ wiki_pages:
   - key: "MartyMakary"
     title: "Marty Makary"
     url: "/wiki/entities/martymakary/"
+  - key: "MartinPinzon"
+    title: "Martín Pinzón"
+    url: "/wiki/entities/martinpinzon/"
   - key: "Marubeni"
     title: "Marubeni / 丸红"
     url: "/wiki/entities/marubeni/"

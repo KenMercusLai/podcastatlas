@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8749
+wiki_total_pages: 8750
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1421,6 +1421,9 @@ wiki_pages:
   - key: "ColumbianExchange"
     title: "Columbian Exchange"
     url: "/wiki/concepts/columbianexchange/"
+  - key: "ColumbusFirstVoyageAtlanticGamble"
+    title: "Columbus First-Voyage Atlantic Gamble"
+    url: "/wiki/concepts/columbusfirstvoyageatlanticgamble/"
   - key: "ColumbusLegacyContestation"
     title: "Columbus Legacy Contestation"
     url: "/wiki/concepts/columbuslegacycontestation/"

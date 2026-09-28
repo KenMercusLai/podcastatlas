@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 11341
+wiki_total_pages: 11343
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -29,6 +29,9 @@ wiki_pages:
   - key: "LaMarseillaise"
     title: "La Marseillaise"
     url: "/wiki/entities/lamarseillaise/"
+  - key: "LaNavidad"
+    title: "La Navidad"
+    url: "/wiki/entities/lanavidad/"
   - key: "LabourPartyUK"
     title: "Labour Party (UK)"
     url: "/wiki/entities/labourpartyuk/"

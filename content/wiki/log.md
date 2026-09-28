@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-29] ingest | 307: Columbus: A New World? (Part 2)
+
+Added source `307-columbus-a-new-world-part-2-glt7219741357`; created `MartinPinzon`, `LaNavidad`, and `ColumbusFirstVoyageAtlanticGamble`; and updated `ChristopherColumbus`, `TainoPeople`, `Hispaniola`, `CannibalismColonialJustification`, `ColonialConversionEnslavementContradiction`, and the canonical index from their complete bounded source sets. Core synthesis: the first voyage was a privately financed and royally sponsored Atlantic gamble whose navigation depended on Canary winds, local sailors, and Pinzón authority, while Asian misidentification, territorial claim, captive-taking, gold pressure, and the resisting-cannibal category appeared before formal colonization. The Santa María wreck turned reconnaissance into the improvised La Navidad foothold, and marketable evidence made a larger second voyage possible. No settled contradiction with Parts 3 or 4 was adopted. Landfall, motives, course counterfactuals, first-clash causes, cannibalism reports, Pinzón's death, and captive outcomes remain uncertain or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-29] ingest | 308: Columbus: Death in the Caribbean (Part 3)
 
 Added source `308-columbus-death-in-the-caribbean-part-3-glt3250512968`; created `TainoPeople`, `IsabellaIOfCastile`, `FerdinandIIOfAragon`, `Hispaniola`, `LaIsabela`, `ColumbusSecondVoyageColonization`, `ColonialConversionEnslavementContradiction`, `CannibalismColonialJustification`, and `PapalAtlanticPartition`; updated `ChristopherColumbus`, `BartolomeDeLasCasas`, `EncomiendaColonialLaborSystem`, `SpanishCaribbeanExpansion`, `ColumbianExchange`, `ColumbusLegacyContestation`, and the canonical index from their complete bounded source sets. Core synthesis: the 1493 expedition changed westward reconnaissance into state-backed settlement, conversion, extraction, and imperial rivalry, but La Isabela's failure and scarce gold intensified captivity, sexual violence, tribute, compelled labor, evidentiary classification, and geographical denial. Royal protection language and Catholic criticism constrained enslavement without ending conquest, while Taíno catastrophe remained multi-causal and source-mediated. No settled contradiction was adopted. Cannibalism, population, syphilis, dialogue, motives, intent classification, and causal weights remain contested or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -25023,6 +25027,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-29] ingest | VOL.23肿瘤肝胆外科｜外科医生用中西医双系统聊胆囊胆管疾病和养生
 
 Added source `vol-23-zhongliu-gandan-waike-waike-yisheng-yong-zhongxiyi-shuangxitong-liao-dannang-danguan-jibing-he-yangsheng-lvmnrsimkqyj8jmtzdj7kfazvbzu`; created `GallbladderDiseaseRecognitionAndTriage` and `BiliaryCancerDecisionAndPrognosisBoundary`; and updated `XiaolangOncologySurgeon`, `OncologyPsychologicalSupport`, `ClinicalOutcomeUncertainty`, and the canonical index from their complete bounded source sets. Core synthesis: gallbladder findings and symptoms require context from obstruction, inflammation, persistence, imaging, and change over time, while biliary-cancer decisions depend on tumor site, spread, pathology, stage, and current specialist assessment; population survival statistics are not personal countdowns. No settled contradiction was adopted. The episode's symptom attribution, stone thresholds, treatment figures, lifestyle mechanisms, and traditional-medicine explanations remain source-scoped public education. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-29] lint | Wiki health check
 

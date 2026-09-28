@@ -4,6 +4,7 @@ type: concept
 tags: [colonialism, indigenous-history, slavery, evidence]
 sources:
   - 308-columbus-death-in-the-caribbean-part-3-glt3250512968
+  - 307-columbus-a-new-world-part-2-glt7219741357
 last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
@@ -12,40 +13,43 @@ knowledge_schema: synthesis-v1
 
 ## Definition
 
-Cannibalism as colonial justification is the use of uncertain or generalized claims of human consumption to classify Indigenous groups as dangerous outsiders who could be attacked or enslaved rather than protected and converted.
+Cannibalism as colonial justification is the use of uncertain or generalized claims of human consumption to classify Indigenous groups as dangerous outsiders who could be attacked or enslaved rather than treated as protected subjects and potential converts.
 
 ## Current Synthesis
 
-In [[308-columbus-death-in-the-caribbean-part-3-glt3250512968]], Spaniards on Guadeloupe report bones and other signs they interpret as cannibalism. The hosts do not conclude that every report was fabricated; they say participants may have believed what they saw while emphasizing that the surviving evidence cannot establish the practice's truth, extent, or social meaning.
+[[307-columbus-a-new-world-part-2-glt7219741357]] shows the category forming during first contact. Columbus hears Taíno reports about neighboring Caribs and interprets them through a European cannibal fear. The source preserves two live possibilities: the report may reflect a real practice, or local communities may be characterizing rivals strategically. After the first armed clash, Columbus identifies resisting people as cannibals, making resistance itself capable of confirming the category.
 
-The political effect is clearer than the underlying evidence. [[ChristopherColumbus]] had previously described Indigenous people as peaceable potential converts. Once resistance to kidnapping, mining, and colonial violence grew, cannibal classification made coercion easier to defend. The concept therefore links [[ColonialSourceMediation|evidence mediation]] to the allocation of protection and violence.
+[[308-columbus-death-in-the-caribbean-part-3-glt3250512968]] shows the label acquiring clearer colonial utility. Spaniards report bones and other signs on Guadeloupe, but the surviving evidence cannot establish truth, extent, or social meaning. As kidnapping, forced mining, and resistance expand, cannibal classification helps separate allegedly enslaveable enemies from peaceful potential converts. The concept therefore joins [[ColonialSourceMediation|evidence mediation]], Indigenous politics, and the allocation of protection and violence.
 
 ## Key Claims
 
-- Spanish reports included material observations they interpreted as evidence of cannibalism.
-- Belief, exaggeration, misinterpretation, and strategic use are not mutually exclusive possibilities.
+- The category emerged from translated intergroup reports before Spaniards claimed material confirmation.
+- Indigenous communities could use newcomers and enemy descriptions within their own political conflicts.
+- Spanish reports later included observations interpreted as material evidence of cannibalism.
+- Belief, exaggeration, misinterpretation, local strategy, and colonial utility are not mutually exclusive possibilities.
+- Resistance produced by captive-taking or colonial coercion could be redescribed as proof of inherent savagery.
 - The category helped distinguish protected potential converts from allegedly enslaveable enemies.
-- Resistance produced by colonial coercion could itself be redescribed as proof of inherent savagery.
-- Evidentiary uncertainty should be preserved without erasing the category's institutional consequences.
 
 ## Evidence
 
-- Reported signs: [[308-columbus-death-in-the-caribbean-part-3-glt3250512968]] recounts Álvarez Chanca's descriptions of bones and Spanish interpretations on Guadeloupe.
+- First-contact formation: [[307-columbus-a-new-world-part-2-glt7219741357]] connects Taíno reports about Caribs, European fear, local political incentives, and Columbus's labeling of people after armed resistance.
+- Reported material signs: [[308-columbus-death-in-the-caribbean-part-3-glt3250512968]] recounts Álvarez Chanca's descriptions of bones and Spanish interpretations on Guadeloupe.
 - Uncertain truth status: [[308-columbus-death-in-the-caribbean-part-3-glt3250512968]] explicitly says the accuracy and scope of the accounts cannot be recovered securely.
-- Coercive utility: [[308-columbus-death-in-the-caribbean-part-3-glt3250512968]] connects changing descriptions of Indigenous peacefulness to enslavement, forced mining, resistance, and the need for justification.
+- Coercive utility: [[307-columbus-a-new-world-part-2-glt7219741357]] and [[308-columbus-death-in-the-caribbean-part-3-glt3250512968]] connect changing descriptions of Indigenous peacefulness and hostility to captivity, enslavement, resistance, and the need for justification.
 
 ## Counterevidence & Qualifications
 
-The concept does not prove that every cannibalism report was invented or that no ritual or wartime practice existed. Nor does participant belief make generalization reliable. The episode lacks Indigenous testimony and independent archaeological assessment, so the safest conclusion concerns the label's political function and evidentiary instability.
+The concept does not prove that every cannibalism report was invented or that no ritual or wartime practice existed. Nor do participant belief, reported bones, or intergroup accusations make generalization reliable. The episodes lack direct Indigenous testimony and independent archaeological assessment, so the strongest conclusion concerns the category's evidentiary instability and political function.
 
 ## What Changed
 
-- Established a distinction between the uncertain truth of a colonial report and the observable use of its category.
-- Connected resistance and coercive classification without assuming fabrication in every case.
+- Extended the category back to translated first-contact reports and Indigenous intergroup politics.
+- Showed how an armed response to Spanish action could be made to validate a preexisting coercive label.
 
 ## Related Concepts
 
 - [[ColonialSourceMediation]] - method for evaluating interested, translated, and asymmetric encounter evidence.
 - [[ColonialConversionEnslavementContradiction]] - protection boundary that cannibal classification could alter.
+- [[ColumbusFirstVoyageAtlanticGamble]] - first-voyage setting in which the category began to shape interpretation.
 - [[SpanishCaribbeanExpansion]] - expansion process in which the label acquired material consequences.
 - [[ContextualExplanationWithoutExoneration]] - approach that can explain period belief without endorsing its use.

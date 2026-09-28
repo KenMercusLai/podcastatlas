@@ -23589,9 +23589,9 @@
       "url": "/wiki/concepts/cannabisstrainlabelevidenceboundary/"
     },
     "CannibalismColonialJustification": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3250512968 [GLT3250512968].md",
@@ -23599,6 +23599,13 @@
           "show": "The Rest Is History",
           "title": "308: Columbus: Death in the Caribbean (Part 3)",
           "url": "/wiki/sources/308-columbus-death-in-the-caribbean-part-3-glt3250512968/"
+        },
+        {
+          "episode_file": "GLT7219741357 [GLT7219741357].md",
+          "key": "307-columbus-a-new-world-part-2-glt7219741357",
+          "show": "The Rest Is History",
+          "title": "307: Columbus: A New World? (Part 2)",
+          "url": "/wiki/sources/307-columbus-a-new-world-part-2-glt7219741357/"
         }
       ],
       "updated": "2026-09-29",
@@ -30534,9 +30541,9 @@
       "url": "/wiki/entities/christopherclark/"
     },
     "ChristopherColumbus": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6751575003 [GLT6751575003].md",
@@ -30551,6 +30558,13 @@
           "show": "The Rest Is History",
           "title": "308: Columbus: Death in the Caribbean (Part 3)",
           "url": "/wiki/sources/308-columbus-death-in-the-caribbean-part-3-glt3250512968/"
+        },
+        {
+          "episode_file": "GLT7219741357 [GLT7219741357].md",
+          "key": "307-columbus-a-new-world-part-2-glt7219741357",
+          "show": "The Rest Is History",
+          "title": "307: Columbus: A New World? (Part 2)",
+          "url": "/wiki/sources/307-columbus-a-new-world-part-2-glt7219741357/"
         }
       ],
       "updated": "2026-09-29",
@@ -33182,9 +33196,9 @@
       "url": "/wiki/concepts/colonialchocolatecommoditychain/"
     },
     "ColonialConversionEnslavementContradiction": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3250512968 [GLT3250512968].md",
@@ -33192,6 +33206,13 @@
           "show": "The Rest Is History",
           "title": "308: Columbus: Death in the Caribbean (Part 3)",
           "url": "/wiki/sources/308-columbus-death-in-the-caribbean-part-3-glt3250512968/"
+        },
+        {
+          "episode_file": "GLT7219741357 [GLT7219741357].md",
+          "key": "307-columbus-a-new-world-part-2-glt7219741357",
+          "show": "The Rest Is History",
+          "title": "307: Columbus: A New World? (Part 2)",
+          "url": "/wiki/sources/307-columbus-a-new-world-part-2-glt7219741357/"
         }
       ],
       "updated": "2026-09-29",
@@ -33451,6 +33472,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/columbianexchange/"
+    },
+    "ColumbusFirstVoyageAtlanticGamble": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7219741357 [GLT7219741357].md",
+          "key": "307-columbus-a-new-world-part-2-glt7219741357",
+          "show": "The Rest Is History",
+          "title": "307: Columbus: A New World? (Part 2)",
+          "url": "/wiki/sources/307-columbus-a-new-world-part-2-glt7219741357/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/columbusfirstvoyageatlanticgamble/"
     },
     "ColumbusLegacyContestation": {
       "episode_count": 2,
@@ -77601,9 +77638,9 @@
       "url": "/wiki/entities/hiroshimaatomicbombing/"
     },
     "Hispaniola": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3250512968 [GLT3250512968].md",
@@ -77611,6 +77648,13 @@
           "show": "The Rest Is History",
           "title": "308: Columbus: Death in the Caribbean (Part 3)",
           "url": "/wiki/sources/308-columbus-death-in-the-caribbean-part-3-glt3250512968/"
+        },
+        {
+          "episode_file": "GLT7219741357 [GLT7219741357].md",
+          "key": "307-columbus-a-new-world-part-2-glt7219741357",
+          "show": "The Rest Is History",
+          "title": "307: Columbus: A New World? (Part 2)",
+          "url": "/wiki/sources/307-columbus-a-new-world-part-2-glt7219741357/"
         }
       ],
       "updated": "2026-09-29",
@@ -96011,6 +96055,29 @@
       "updated": "2026-09-23",
       "url": "/wiki/entities/lamarseillaise/"
     },
+    "LaNavidad": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "GLT7219741357 [GLT7219741357].md",
+          "key": "307-columbus-a-new-world-part-2-glt7219741357",
+          "show": "The Rest Is History",
+          "title": "307: Columbus: A New World? (Part 2)",
+          "url": "/wiki/sources/307-columbus-a-new-world-part-2-glt7219741357/"
+        },
+        {
+          "episode_file": "GLT3250512968 [GLT3250512968].md",
+          "key": "308-columbus-death-in-the-caribbean-part-3-glt3250512968",
+          "show": "The Rest Is History",
+          "title": "308: Columbus: Death in the Caribbean (Part 3)",
+          "url": "/wiki/sources/308-columbus-death-in-the-caribbean-part-3-glt3250512968/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/lanavidad/"
+    },
     "LaborIllusion": {
       "episode_count": 1,
       "show_count": 1,
@@ -111408,6 +111475,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/martinofpoland/"
+    },
+    "MartinPinzon": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7219741357 [GLT7219741357].md",
+          "key": "307-columbus-a-new-world-part-2-glt7219741357",
+          "show": "The Rest Is History",
+          "title": "307: Columbus: A New World? (Part 2)",
+          "url": "/wiki/sources/307-columbus-a-new-world-part-2-glt7219741357/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/martinpinzon/"
     },
     "MartyrdomStaging": {
       "episode_count": 2,
@@ -161772,9 +161855,9 @@
       "url": "/wiki/concepts/taisuibelief/"
     },
     "TainoPeople": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3250512968 [GLT3250512968].md",
@@ -161782,6 +161865,13 @@
           "show": "The Rest Is History",
           "title": "308: Columbus: Death in the Caribbean (Part 3)",
           "url": "/wiki/sources/308-columbus-death-in-the-caribbean-part-3-glt3250512968/"
+        },
+        {
+          "episode_file": "GLT7219741357 [GLT7219741357].md",
+          "key": "307-columbus-a-new-world-part-2-glt7219741357",
+          "show": "The Rest Is History",
+          "title": "307: Columbus: A New World? (Part 2)",
+          "url": "/wiki/sources/307-columbus-a-new-world-part-2-glt7219741357/"
         }
       ],
       "updated": "2026-09-29",
