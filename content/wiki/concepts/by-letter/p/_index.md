@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8774
+wiki_total_pages: 8776
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -50,6 +50,9 @@ wiki_pages:
   - key: "PaidPilotValueProof"
     title: "Paid Pilot Value Proof"
     url: "/wiki/concepts/paidpilotvalueproof/"
+  - key: "PaidServiceToUnpaidHouseworkTransfer"
+    title: "Paid Service-to-Unpaid Housework Transfer"
+    url: "/wiki/concepts/paidservicetounpaidhouseworktransfer/"
   - key: "PaidVacationAsLaborRight"
     title: "Paid Vacation As Labor Right"
     url: "/wiki/concepts/paidvacationaslaborright/"

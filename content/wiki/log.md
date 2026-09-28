@@ -25171,3 +25171,11 @@ Added source `vol-19-erke-erke-jue-bushi-suoxiao-ban-de-chengren-youxie-yaowu-sh
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | 300: The Real Downton Abbey
+
+Added source `300-the-real-downton-abbey-glt7393411506`; created `LucyLethbridge`, `DowntonAbbey`, `BritishDomesticServiceHierarchy`, and `PaidServiceToUnpaidHouseworkTransfer`; and updated the canonical index. Core synthesis: British domestic service combined paid household work with a classed, gendered identity that controlled rank, visibility, intimacy, and time; war and alternative employment weakened inherited deference; and postwar decline redistributed much of the work to housewives while making labor-saving technology more acceptable. No settled contradiction was adopted. Employment totals, named anecdotes, refugee experiences, and household variation remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

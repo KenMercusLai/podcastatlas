@@ -21427,6 +21427,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/britishdeindustrialization1970s/"
     },
+    "BritishDomesticServiceHierarchy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7393411506 [GLT7393411506].md",
+          "key": "300-the-real-downton-abbey-glt7393411506",
+          "show": "The Rest Is History",
+          "title": "300: The Real Downton Abbey",
+          "url": "/wiki/sources/300-the-real-downton-abbey-glt7393411506/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/britishdomesticservicehierarchy/"
+    },
     "BritishECReferendum1975": {
       "episode_count": 2,
       "show_count": 1,
@@ -46380,6 +46396,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/downstreamporkabsorptionlimits/"
+    },
+    "DowntonAbbey": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7393411506 [GLT7393411506].md",
+          "key": "300-the-real-downton-abbey-glt7393411506",
+          "show": "The Rest Is History",
+          "title": "300: The Real Downton Abbey",
+          "url": "/wiki/sources/300-the-real-downton-abbey-glt7393411506/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/downtonabbey/"
     },
     "DragonAsDangerousPower": {
       "episode_count": 1,
@@ -107702,6 +107734,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/entities/luciuscorneliussulla/"
     },
+    "LucyLethbridge": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7393411506 [GLT7393411506].md",
+          "key": "300-the-real-downton-abbey-glt7393411506",
+          "show": "The Rest Is History",
+          "title": "300: The Real Downton Abbey",
+          "url": "/wiki/sources/300-the-real-downton-abbey-glt7393411506/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/lucylethbridge/"
+    },
     "LuffyMedicalChannel": {
       "episode_count": 1,
       "show_count": 1,
@@ -127047,6 +127095,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/concepts/paidpilotvalueproof/"
+    },
+    "PaidServiceToUnpaidHouseworkTransfer": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7393411506 [GLT7393411506].md",
+          "key": "300-the-real-downton-abbey-glt7393411506",
+          "show": "The Rest Is History",
+          "title": "300: The Real Downton Abbey",
+          "url": "/wiki/sources/300-the-real-downton-abbey-glt7393411506/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/paidservicetounpaidhouseworktransfer/"
     },
     "PainAsDistributedExperience": {
       "episode_count": 1,

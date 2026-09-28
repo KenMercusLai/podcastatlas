@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3213
+topic_total_pages: 3214
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3283,6 +3283,9 @@ topic_concepts:
   - key: "PagedAttention"
     title: "PagedAttention"
     url: "/wiki/concepts/pagedattention/"
+  - key: "PaidServiceToUnpaidHouseworkTransfer"
+    title: "Paid Service-to-Unpaid Housework Transfer"
+    url: "/wiki/concepts/paidservicetounpaidhouseworktransfer/"
   - key: "ParentalJudgmentOutsourcing"
     title: "Parental Judgment Outsourcing"
     url: "/wiki/concepts/parentaljudgmentoutsourcing/"

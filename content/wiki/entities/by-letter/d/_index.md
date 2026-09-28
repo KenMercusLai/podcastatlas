@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 11356
+wiki_total_pages: 11358
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -836,6 +836,9 @@ wiki_pages:
   - key: "DowayoPeople"
     title: "Dowayo People / 多瓦优人"
     url: "/wiki/entities/dowayopeople/"
+  - key: "DowntonAbbey"
+    title: "Downton Abbey"
+    url: "/wiki/entities/downtonabbey/"
   - key: "DraftKings"
     title: "DraftKings"
     url: "/wiki/entities/draftkings/"
