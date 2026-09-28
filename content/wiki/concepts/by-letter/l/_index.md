@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 8780
+wiki_total_pages: 8783
 wiki_pages:
   - key: "LaborIllusion"
     title: "Labor Illusion"
@@ -254,6 +254,9 @@ wiki_pages:
   - key: "LegalTruthEvidenceGap"
     title: "Legal Truth-Evidence Gap / 法律真相与证据差距"
     url: "/wiki/concepts/legaltruthevidencegap/"
+  - key: "LegalCoerciveDictatorshipConsolidation"
+    title: "Legal-Coercive Dictatorship Consolidation"
+    url: "/wiki/concepts/legalcoercivedictatorshipconsolidation/"
   - key: "LegalistRulerTechnique"
     title: "Legalist Ruler Technique / 法家君术"
     url: "/wiki/concepts/legalistrulertechnique/"

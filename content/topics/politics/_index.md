@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2818
+topic_total_pages: 2821
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2116,6 +2116,9 @@ topic_concepts:
   - key: "LegalTruthEvidenceGap"
     title: "Legal Truth-Evidence Gap / 法律真相与证据差距"
     url: "/wiki/concepts/legaltruthevidencegap/"
+  - key: "LegalCoerciveDictatorshipConsolidation"
+    title: "Legal-Coercive Dictatorship Consolidation"
+    url: "/wiki/concepts/legalcoercivedictatorshipconsolidation/"
   - key: "LegalistRulerTechnique"
     title: "Legalist Ruler Technique / 法家君术"
     url: "/wiki/concepts/legalistrulertechnique/"
@@ -5219,6 +5222,9 @@ topic_entities:
   - key: "HanPingdi"
     title: "Emperor Ping of Han / 汉平帝"
     url: "/wiki/entities/hanpingdi/"
+  - key: "EnablingAct1933"
+    title: "Enabling Act (1933)"
+    url: "/wiki/entities/enablingact1933/"
   - key: "EngelbertDollfuss"
     title: "Engelbert Dollfuss"
     url: "/wiki/entities/engelbertdollfuss/"
@@ -6359,6 +6365,9 @@ topic_entities:
   - key: "ReginaldMaudling"
     title: "Reginald Maudling"
     url: "/wiki/entities/reginaldmaudling/"
+  - key: "ReichstagFireDecree"
+    title: "Reichstag Fire Decree"
+    url: "/wiki/entities/reichstagfiredecree/"
   - key: "RhinelandRemilitarization"
     title: "Remilitarization of the Rhineland"
     url: "/wiki/entities/rhinelandremilitarization/"

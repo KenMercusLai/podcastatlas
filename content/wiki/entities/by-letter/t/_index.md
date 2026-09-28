@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 11358
+wiki_total_pages: 11364
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -686,6 +686,9 @@ wiki_pages:
   - key: "ThuleSociety"
     title: "Thule Society"
     url: "/wiki/entities/thulesociety/"
+  - key: "ThutmoseIII"
+    title: "Thutmose III"
+    url: "/wiki/entities/thutmoseiii/"
   - key: "TheroigneDeMericourt"
     title: "Théroigne de Méricourt"
     url: "/wiki/entities/theroignedemericourt/"

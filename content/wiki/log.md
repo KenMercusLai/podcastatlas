@@ -24847,6 +24847,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-29] ingest | 298: The Nazis: Total Power (Part 4)
+
+Added source `298-the-nazis-total-power-part-4-glt6097237943`; created `MarinusVanDerLubbe`, `ReichstagFire1933`, `ReichstagFireDecree`, `EnablingAct1933`, and `LegalCoerciveDictatorshipConsolidation`; and updated the canonical index. Core synthesis: Hitler's 1933 dictatorship emerged by making formal elections, emergency decree, and legislative procedure operate together with captured police, paramilitary violence, opposition exclusion, conservative accommodation, and destruction of independent institutions. No settled contradiction was adopted. The episode's lone-actor fire judgment, arrest and crowd totals, counterfactual stopping points, private motives, broad ideological comparisons, and modern analogies remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -25191,6 +25195,18 @@ Added source `guest-series-dr-andy-galpin-how-to-build-physical-endurance-lose-f
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | 299: The Greatest Female Pharaoh
+
+Added source `299-the-greatest-female-pharaoh-glt5076645168`; created `ThutmoseIII`, `Senenmut`, `FemaleKingshipBeyondRegency`, and `PharaonicKingshipLegitimation`; expanded `Hatshepsut` from its complete bounded source set; and updated the canonical index. Core synthesis: Hatshepsut converted an established female regency role into full kingship by combining dynastic descent, Amun's authority, royal regalia, military action, Punt exchange, and monumental building; her successful reign makes her a major pharaoh in her own right, while royal evidence reveals public ideology more securely than private motive. No settled contradiction was adopted. Her original intentions, gendered self-understanding, relationship with Senenmut, death, Punt details, and the agent and purpose of delayed defacement remain source-scoped or unresolved. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
 
 ## [2026-09-29] lint | Wiki health check
 

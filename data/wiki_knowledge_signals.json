@@ -5778,9 +5778,9 @@
       "url": "/wiki/entities/adolfeichmann/"
     },
     "AdolfHitler": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "GLT5771265943 [GLT5771265943].md",
@@ -5837,9 +5837,16 @@
           "show": "The Rest Is History",
           "title": "375. Hitler and the Mitford Sisters",
           "url": "/wiki/sources/375-hitler-and-the-mitford-sisters-glt5493256820/"
+        },
+        {
+          "episode_file": "GLT6097237943 [GLT6097237943].md",
+          "key": "298-the-nazis-total-power-part-4-glt6097237943",
+          "show": "The Rest Is History",
+          "title": "298: The Nazis: Total Power (Part 4)",
+          "url": "/wiki/sources/298-the-nazis-total-power-part-4-glt6097237943/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-29",
       "url": "/wiki/entities/adolfhitler/"
     },
     "AdoptiveLineageRitualPolitics": {
@@ -53001,6 +53008,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/emptyreputationrealitygap/"
     },
+    "EnablingAct1933": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6097237943 [GLT6097237943].md",
+          "key": "298-the-nazis-total-power-part-4-glt6097237943",
+          "show": "The Rest Is History",
+          "title": "298: The Nazis: Total Power (Part 4)",
+          "url": "/wiki/sources/298-the-nazis-total-power-part-4-glt6097237943/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/enablingact1933/"
+    },
     "EncirclingWeiToRescueZhao": {
       "episode_count": 5,
       "show_count": 1,
@@ -59104,6 +59127,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/femalehormonehealthphenotyping/"
+    },
+    "FemaleKingshipBeyondRegency": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5076645168 [GLT5076645168].md",
+          "key": "299-the-greatest-female-pharaoh-glt5076645168",
+          "show": "The Rest Is History",
+          "title": "299: The Greatest Female Pharaoh",
+          "url": "/wiki/sources/299-the-greatest-female-pharaoh-glt5076645168/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/femalekingshipbeyondregency/"
     },
     "FemalePowerCenterPoliticalCapacity": {
       "episode_count": 4,
@@ -75560,9 +75599,9 @@
       "url": "/wiki/entities/hasdrubalthehandsome/"
     },
     "Hatshepsut": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6058938613 [GLT6058938613].md",
@@ -75570,9 +75609,16 @@
           "show": "The Rest Is History",
           "title": "491. History's Greatest Beards: From Egyptian Queens to Medieval Conquerors (Part 1)",
           "url": "/wiki/sources/491-historys-greatest-beards-from-egyptian-queens-to-medieval-conquerors-part-1-glt6058938613/"
+        },
+        {
+          "episode_file": "GLT5076645168 [GLT5076645168].md",
+          "key": "299-the-greatest-female-pharaoh-glt5076645168",
+          "show": "The Rest Is History",
+          "title": "299: The Greatest Female Pharaoh",
+          "url": "/wiki/sources/299-the-greatest-female-pharaoh-glt5076645168/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-29",
       "url": "/wiki/entities/hatshepsut/"
     },
     "Hatuey": {
@@ -77402,9 +77448,9 @@
       "url": "/wiki/concepts/heritagetourismcommercialization/"
     },
     "HermannGoring": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3861584466 [GLT3861584466].md",
@@ -77412,9 +77458,16 @@
           "show": "The Rest Is History",
           "title": "404. The Nazis in Power: The Night of the Long Knives (Part 1)",
           "url": "/wiki/sources/404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861584466/"
+        },
+        {
+          "episode_file": "GLT6097237943 [GLT6097237943].md",
+          "key": "298-the-nazis-total-power-part-4-glt6097237943",
+          "show": "The Rest Is History",
+          "title": "298: The Nazis: Total Power (Part 4)",
+          "url": "/wiki/sources/298-the-nazis-total-power-part-4-glt6097237943/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-29",
       "url": "/wiki/entities/hermanngoring/"
     },
     "HernanCortes": {
@@ -93377,9 +93430,9 @@
       "url": "/wiki/entities/josephconrad/"
     },
     "JosephGoebbels": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT5771265943 [GLT5771265943].md",
@@ -93415,9 +93468,16 @@
           "show": "The Rest Is History",
           "title": "404. The Nazis in Power: The Night of the Long Knives (Part 1)",
           "url": "/wiki/sources/404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861584466/"
+        },
+        {
+          "episode_file": "GLT6097237943 [GLT6097237943].md",
+          "key": "298-the-nazis-total-power-part-4-glt6097237943",
+          "show": "The Rest Is History",
+          "title": "298: The Nazis: Total Power (Part 4)",
+          "url": "/wiki/sources/298-the-nazis-total-power-part-4-glt6097237943/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-29",
       "url": "/wiki/entities/josephgoebbels/"
     },
     "JosephIgnaceGuillotin": {
@@ -98488,6 +98548,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/legalagentorchestration/"
+    },
+    "LegalCoerciveDictatorshipConsolidation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6097237943 [GLT6097237943].md",
+          "key": "298-the-nazis-total-power-part-4-glt6097237943",
+          "show": "The Rest Is History",
+          "title": "298: The Nazis: Total Power (Part 4)",
+          "url": "/wiki/sources/298-the-nazis-total-power-part-4-glt6097237943/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/legalcoercivedictatorshipconsolidation/"
     },
     "LegalComplexityDiscretionPower": {
       "episode_count": 1,
@@ -111670,6 +111746,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/entities/marinelepen/"
+    },
+    "MarinusVanDerLubbe": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6097237943 [GLT6097237943].md",
+          "key": "298-the-nazis-total-power-part-4-glt6097237943",
+          "show": "The Rest Is History",
+          "title": "298: The Nazis: Total Power (Part 4)",
+          "url": "/wiki/sources/298-the-nazis-total-power-part-4-glt6097237943/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/marinusvanderlubbe/"
     },
     "MaritimeDisasterSafetyReform": {
       "episode_count": 2,
@@ -128993,9 +129085,9 @@
       "url": "/wiki/entities/paulrouse/"
     },
     "PaulVonHindenburg": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3861584466 [GLT3861584466].md",
@@ -129003,9 +129095,16 @@
           "show": "The Rest Is History",
           "title": "404. The Nazis in Power: The Night of the Long Knives (Part 1)",
           "url": "/wiki/sources/404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861584466/"
+        },
+        {
+          "episode_file": "GLT6097237943 [GLT6097237943].md",
+          "key": "298-the-nazis-total-power-part-4-glt6097237943",
+          "show": "The Rest Is History",
+          "title": "298: The Nazis: Total Power (Part 4)",
+          "url": "/wiki/sources/298-the-nazis-total-power-part-4-glt6097237943/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-29",
       "url": "/wiki/entities/paulvonhindenburg/"
     },
     "PaulaMejia": {
@@ -131083,6 +131182,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/phaeacians/"
+    },
+    "PharaonicKingshipLegitimation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5076645168 [GLT5076645168].md",
+          "key": "299-the-greatest-female-pharaoh-glt5076645168",
+          "show": "The Rest Is History",
+          "title": "299: The Greatest Female Pharaoh",
+          "url": "/wiki/sources/299-the-greatest-female-pharaoh-glt5076645168/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/pharaonickingshiplegitimation/"
     },
     "Pheidippides": {
       "episode_count": 1,
@@ -141591,6 +141706,38 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/rehabilitationgoaldifferentiation/"
     },
+    "ReichstagFire1933": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6097237943 [GLT6097237943].md",
+          "key": "298-the-nazis-total-power-part-4-glt6097237943",
+          "show": "The Rest Is History",
+          "title": "298: The Nazis: Total Power (Part 4)",
+          "url": "/wiki/sources/298-the-nazis-total-power-part-4-glt6097237943/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/reichstagfire1933/"
+    },
+    "ReichstagFireDecree": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6097237943 [GLT6097237943].md",
+          "key": "298-the-nazis-total-power-part-4-glt6097237943",
+          "show": "The Rest Is History",
+          "title": "298: The Nazis: Total Power (Part 4)",
+          "url": "/wiki/sources/298-the-nazis-total-power-part-4-glt6097237943/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/reichstagfiredecree/"
+    },
     "ReinhardHeydrich": {
       "episode_count": 2,
       "show_count": 1,
@@ -150187,6 +150334,22 @@
       ],
       "updated": "2026-09-17",
       "url": "/wiki/concepts/semiconductorindexconcentration/"
+    },
+    "Senenmut": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5076645168 [GLT5076645168].md",
+          "key": "299-the-greatest-female-pharaoh-glt5076645168",
+          "show": "The Rest Is History",
+          "title": "299: The Greatest Female Pharaoh",
+          "url": "/wiki/sources/299-the-greatest-female-pharaoh-glt5076645168/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/senenmut/"
     },
     "SensitivePersonnelRecommendationBoundary": {
       "episode_count": 1,
@@ -159996,9 +160159,9 @@
       "url": "/wiki/entities/studio54/"
     },
     "Sturmabteilung": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3861584466 [GLT3861584466].md",
@@ -160006,9 +160169,16 @@
           "show": "The Rest Is History",
           "title": "404. The Nazis in Power: The Night of the Long Knives (Part 1)",
           "url": "/wiki/sources/404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861584466/"
+        },
+        {
+          "episode_file": "GLT6097237943 [GLT6097237943].md",
+          "key": "298-the-nazis-total-power-part-4-glt6097237943",
+          "show": "The Rest Is History",
+          "title": "298: The Nazis: Total Power (Part 4)",
+          "url": "/wiki/sources/298-the-nazis-total-power-part-4-glt6097237943/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-29",
       "url": "/wiki/entities/sturmabteilung/"
     },
     "StutteringSpeechCoordination": {
@@ -166983,6 +167153,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/thulesociety/"
+    },
+    "ThutmoseIII": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5076645168 [GLT5076645168].md",
+          "key": "299-the-greatest-female-pharaoh-glt5076645168",
+          "show": "The Rest Is History",
+          "title": "299: The Greatest Female Pharaoh",
+          "url": "/wiki/sources/299-the-greatest-female-pharaoh-glt5076645168/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/thutmoseiii/"
     },
     "ThymosinBeta4TissueRepair": {
       "episode_count": 1,

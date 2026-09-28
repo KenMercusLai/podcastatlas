@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 8780
+wiki_total_pages: 8783
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -314,6 +314,9 @@ wiki_pages:
   - key: "FemaleJournalistFieldwork"
     title: "Female Journalist Fieldwork / 女记者现场方法"
     url: "/wiki/concepts/femalejournalistfieldwork/"
+  - key: "FemaleKingshipBeyondRegency"
+    title: "Female Kingship Beyond Regency"
+    url: "/wiki/concepts/femalekingshipbeyondregency/"
   - key: "FemaleOralStorytelling"
     title: "Female Oral Storytelling / 女性口头叙事"
     url: "/wiki/concepts/femaleoralstorytelling/"

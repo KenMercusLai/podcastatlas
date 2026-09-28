@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8780
+wiki_total_pages: 8783
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -629,6 +629,9 @@ wiki_pages:
   - key: "Petrostate"
     title: "Petrostate"
     url: "/wiki/concepts/petrostate/"
+  - key: "PharaonicKingshipLegitimation"
+    title: "Pharaonic Kingship Legitimation"
+    url: "/wiki/concepts/pharaonickingshiplegitimation/"
   - key: "PharmaceuticalEcommerce"
     title: "Pharmaceutical Ecommerce"
     url: "/wiki/concepts/pharmaceuticalecommerce/"

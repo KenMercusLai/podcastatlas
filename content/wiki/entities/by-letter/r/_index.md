@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 11358
+wiki_total_pages: 11364
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -224,6 +224,12 @@ wiki_pages:
   - key: "RegnansInExcelsis"
     title: "Regnans in Excelsis"
     url: "/wiki/entities/regnansinexcelsis/"
+  - key: "ReichstagFire1933"
+    title: "Reichstag Fire (1933)"
+    url: "/wiki/entities/reichstagfire1933/"
+  - key: "ReichstagFireDecree"
+    title: "Reichstag Fire Decree"
+    url: "/wiki/entities/reichstagfiredecree/"
   - key: "ReidHoffman"
     title: "Reid Hoffman"
     url: "/wiki/entities/reidhoffman/"

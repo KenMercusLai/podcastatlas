@@ -1477,6 +1477,20 @@
       "url": "/topics/culture/"
     }
   ],
+  "298-the-nazis-total-power-part-4-glt6097237943": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
+  "299-the-greatest-female-pharaoh-glt5076645168": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "2b2e96d8aea7-2b2e96d8aea7": [
     {
       "key": "technology",
@@ -27639,6 +27653,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "EnablingAct1933": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "EncirclementReleaseCalculus": [
     {
       "key": "politics",
@@ -45544,6 +45565,13 @@
       "label": "Technology",
       "url": "/topics/technology/"
     },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "LegalCoerciveDictatorshipConsolidation": [
     {
       "key": "politics",
       "label": "Politics",
@@ -63481,6 +63509,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "ReichstagFireDecree": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "ReidHoffman": [

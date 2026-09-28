@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 11358
+wiki_total_pages: 11364
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -434,6 +434,9 @@ wiki_pages:
   - key: "Senegal"
     title: "Senegal"
     url: "/wiki/entities/senegal/"
+  - key: "Senenmut"
+    title: "Senenmut"
+    url: "/wiki/entities/senenmut/"
   - key: "SenseTime"
     title: "SenseTime"
     url: "/wiki/entities/sensetime/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 11358
+wiki_total_pages: 11364
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -377,6 +377,9 @@ wiki_pages:
   - key: "EmpressZoe"
     title: "Empress Zoe"
     url: "/wiki/entities/empresszoe/"
+  - key: "EnablingAct1933"
+    title: "Enabling Act (1933)"
+    url: "/wiki/entities/enablingact1933/"
   - key: "Endeca"
     title: "Endeca"
     url: "/wiki/entities/endeca/"

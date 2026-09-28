@@ -939,14 +939,14 @@
       "earliest_episode_date": "2020-11-02",
       "latest_episode_date": "2026-09-27",
       "latest_episode_file": "GLT8774364224 [GLT8774364224].md",
-      "source_note_count": 296,
-      "topic_matched_source_note_count": 279,
+      "source_note_count": 298,
+      "topic_matched_source_note_count": 281,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 277
+          "source_note_count": 279
         },
         {
           "key": "politics",
@@ -976,6 +976,13 @@
           "episode_count": 12
         },
         {
+          "key": "AdolfHitler",
+          "title": "Adolf Hitler",
+          "url": "/wiki/entities/adolfhitler/",
+          "kind": "person",
+          "episode_count": 9
+        },
+        {
           "key": "MarieAntoinette",
           "title": "Marie Antoinette",
           "url": "/wiki/entities/marieantoinette/",
@@ -988,13 +995,6 @@
           "url": "/wiki/entities/maximilienrobespierre/",
           "kind": "person",
           "episode_count": 9
-        },
-        {
-          "key": "AdolfHitler",
-          "title": "Adolf Hitler",
-          "url": "/wiki/entities/adolfhitler/",
-          "kind": "person",
-          "episode_count": 8
         },
         {
           "key": "HernanCortes",
