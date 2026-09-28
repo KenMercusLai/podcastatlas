@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 8656
+wiki_total_pages: 8659
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -893,6 +893,9 @@ wiki_pages:
   - key: "HurtHarmPainReframing"
     title: "Hurt-versus-Harm Pain Reframing"
     url: "/wiki/concepts/hurtharmpainreframing/"
+  - key: "HybridWarfareAttributionThreshold"
+    title: "Hybrid Warfare Attribution Threshold"
+    url: "/wiki/concepts/hybridwarfareattributionthreshold/"
   - key: "HydraulicSiegeWarfare"
     title: "Hydraulic Siege Warfare / 水攻围城"
     url: "/wiki/concepts/hydraulicsiegewarfare/"

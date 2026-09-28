@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8656
+wiki_total_pages: 8659
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -536,6 +536,9 @@ wiki_pages:
   - key: "PersonalDigitalArchiving"
     title: "Personal Digital Archiving"
     url: "/wiki/concepts/personaldigitalarchiving/"
+  - key: "PersonalExperienceWorkplaceGenderDecisions"
+    title: "Personal Experience and Workplace Gender Decisions"
+    url: "/wiki/concepts/personalexperienceworkplacegenderdecisions/"
   - key: "PersonalGuardAttackSurface"
     title: "Personal Guard Attack Surface / 贴身侍卫反噬"
     url: "/wiki/concepts/personalguardattacksurface/"

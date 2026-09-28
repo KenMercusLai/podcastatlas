@@ -24706,3 +24706,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | Foiled plot: did Iran plan British base attack?
+
+Added source `foiled-plot-did-iran-plan-british-base-attack-6aba32b170b66274d96fb345`; created `RAFFairford`, `MI5`, `HybridWarfareAttributionThreshold`, `ConflictOilWindfallInvestmentCycle`, and `PersonalExperienceWorkplaceGenderDecisions`; and updated the canonical index. Core synthesis: pattern evidence and strategic motive can make Iran a plausible suspect in the alleged Fairford plot without establishing responsibility; conflict-driven oil profits flow first through balance sheets and distributions before potentially funding reserves and acquisitions; and the Danish manager-daughter association appears mainly through hiring and promotion while its psychological mechanism and broader generalizability remain unresolved. No settled contradiction was adopted. Incident attribution, intended attack method, profit and decline totals, future investment, and study mechanism remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

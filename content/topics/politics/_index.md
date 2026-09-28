@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2796
+topic_total_pages: 2797
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -775,6 +775,9 @@ topic_concepts:
   - key: "ConfessionalWarEscalation"
     title: "Confessional War Escalation"
     url: "/wiki/concepts/confessionalwarescalation/"
+  - key: "ConflictOilWindfallInvestmentCycle"
+    title: "Conflict Oil Windfall Investment Cycle"
+    url: "/wiki/concepts/conflictoilwindfallinvestmentcycle/"
   - key: "ConfucianForeignPolicyMoralism"
     title: "Confucian Foreign Policy Moralism / 儒家外交道德主义"
     url: "/wiki/concepts/confucianforeignpolicymoralism/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 11263
+wiki_total_pages: 11265
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -917,6 +917,9 @@ wiki_pages:
   - key: "MGX"
     title: "MGX"
     url: "/wiki/entities/mgx/"
+  - key: "MI5"
+    title: "MI5"
+    url: "/wiki/entities/mi5/"
   - key: "MI6"
     title: "MI6 / British Secret Intelligence Service / 军情六处"
     url: "/wiki/entities/mi6/"

@@ -3121,6 +3121,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [341: The Trials of Oscar Wilde: Sex and Scandal (Part 1)](sources/341-the-trials-of-oscar-wilde-sex-and-scandal-part-1-glt1940599692.md) — The Rest Is History episode on Wilde's celebrity, changing sexual law and identity, unequal relationships, the Queensberry conflict, and the failed libel prosecution.
 - [334: Athens and the Birth of Democracy](sources/334-athens-and-the-birth-of-democracy-glt2496707123.md) — The Rest Is History episode on Solon, Peisistratid tyranny, Cleisthenic reform, popular revolution, demes, autochthony, sacred citizenship, and the limits of the demos.
 
+- [Foiled plot: did Iran plan British base attack?](sources/foiled-plot-did-iran-plan-british-base-attack-6aba32b170b66274d96fb345.md) — The Intelligence episode on an unresolved RAF Fairford plot, conflict-driven oil profits and investment, and a Danish manager-daughter workplace study.
+
 ## Entities
 - [The Histories](entities/TheHistories.md) — Herodotus's inquiry-driven, digressive account of Greeks, Persians, custom, conflict, and empire.
 - [何昭凯 / He Zhaokai](entities/HeZhaokaiNurse.md) — Intensive-care nurse explaining hospice, dynamic communication, symptom relief, and whole-person support.
@@ -14406,6 +14408,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [William III](entities/WilliamIII.md) — Dutch Protestant ruler whose joint coronation with Mary II helped publicize the post-Glorious Revolution settlement.
 - [Mary II](entities/MaryII.md) — Daughter of James II and joint monarch whose 1689 coronation made an unusual Protestant succession publicly legible.
 
+- [RAF Fairford](entities/RAFFairford.md) — Sovereign British air base used by American forces and the location context for an unresolved alleged explosives plot.
+- [MI5](entities/MI5.md) — British domestic security service supplying the wider Iran-linked threat context without settling the Fairford attribution.
+
 ## Concepts
 - [Historical Inquiry and Source Criticism](concepts/HistoricalInquirySourceCriticism.md) — Method for attributing testimony, comparing accounts, preserving uncertainty, and recovering information from mediated reports.
 - [Cross-Cultural Historical Perspective](concepts/CrossCulturalHistoricalPerspective.md) — Historical comparison that interprets customs and enemies within their own worlds while exposing the contingency of the observer's norms.
@@ -23086,5 +23091,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Coronation Mass-Media Transformation](concepts/CoronationMassMediaTransformation.md) — Expansion of place-bound royal ritual through rail tourism, imperial staging, radio, television, and communal viewing.
 - [Confessional Coronation Adaptation](concepts/ConfessionalCoronationAdaptation.md) — Reuse and reinterpretation of coronation form across Catholic and Protestant changes in oil, clergy, language, communion, procession, and oath.
 - [Retrospective Coronation Narrative](concepts/RetrospectiveCoronationNarrative.md) — Process by which later reign outcomes turn ceremonial details into omens, propaganda, and character judgments.
+
+- [Hybrid Warfare Attribution Threshold](concepts/HybridWarfareAttributionThreshold.md) — Boundary between pattern-based suspicion and incident-specific proof in deniable state pressure.
+- [Conflict Oil Windfall Investment Cycle](concepts/ConflictOilWindfallInvestmentCycle.md) — Sequence linking conflict-driven oil prices to producer cash flow, balance sheets, reserves, acquisitions, and transition incentives.
+- [Personal Experience and Workplace Gender Decisions](concepts/PersonalExperienceWorkplaceGenderDecisions.md) — Qualified hypothesis that a manager's private experience can alter hiring and promotion choices affecting women's representation and earnings.
 
 ## Syntheses

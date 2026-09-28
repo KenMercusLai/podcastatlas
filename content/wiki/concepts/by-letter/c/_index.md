@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8656
+wiki_total_pages: 8659
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1664,6 +1664,9 @@ wiki_pages:
   - key: "ConfidentialRemonstranceLeakage"
     title: "Confidential Remonstrance Leakage / 密奏泄露风险"
     url: "/wiki/concepts/confidentialremonstranceleakage/"
+  - key: "ConflictOilWindfallInvestmentCycle"
+    title: "Conflict Oil Windfall Investment Cycle"
+    url: "/wiki/concepts/conflictoilwindfallinvestmentcycle/"
   - key: "ConfucianForeignPolicyMoralism"
     title: "Confucian Foreign Policy Moralism / 儒家外交道德主义"
     url: "/wiki/concepts/confucianforeignpolicymoralism/"
