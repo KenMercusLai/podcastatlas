@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 8654
+wiki_total_pages: 8656
 wiki_pages:
   - key: "LaborIllusion"
     title: "Labor Illusion"
@@ -404,6 +404,9 @@ wiki_pages:
   - key: "LightAndDarkWorldDuality"
     title: "Light And Dark World Duality / 光明与黑暗世界二分"
     url: "/wiki/concepts/lightanddarkworldduality/"
+  - key: "LightFoodCategoryReframing"
+    title: "Light-Food Category Reframing / 轻食品类重构"
+    url: "/wiki/concepts/lightfoodcategoryreframing/"
   - key: "LightTouchFrontierGovernance"
     title: "Light-Touch Frontier Governance / 宽简边疆治理"
     url: "/wiki/concepts/lighttouchfrontiergovernance/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 11260
+wiki_total_pages: 11263
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1568,6 +1568,9 @@ wiki_pages:
   - key: "Atour"
     title: "Atour / 亚朵"
     url: "/wiki/entities/atour/"
+  - key: "AtourPlanet"
+    title: "Atour Planet / 亚朵星球"
+    url: "/wiki/entities/atourplanet/"
   - key: "AtreidesManagement"
     title: "Atreides Management"
     url: "/wiki/entities/atreidesmanagement/"

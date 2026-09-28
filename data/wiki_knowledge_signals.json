@@ -13919,6 +13919,52 @@
       "updated": "2026-09-24",
       "url": "/wiki/concepts/atomizedfamilycaremarketization/"
     },
+    "Atour": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "汽水音乐冲击腾讯、网易，特斯拉等车企在国内开展大规模召回 [1008396395].md",
+          "key": "qishui-yinyue-chongji-tengxun-wangyi-tesila-deng-cheqi-zai-guonei-kaizhan-daguimo-zhaohui-1008396395",
+          "show": "声动早咖啡",
+          "title": "汽水音乐冲击腾讯、网易，特斯拉等车企在国内开展大规模召回",
+          "url": "/wiki/sources/qishui-yinyue-chongji-tengxun-wangyi-tesila-deng-cheqi-zai-guonei-kaizhan-daguimo-zhaohui-1008396395/"
+        },
+        {
+          "episode_file": "140.酒店集团为什么都热衷于打造会员和积分体系？｜ 串台远行者与碎冰匠 [lj_XA3WXzJOG6_8Zm9nfAkH6UleW].md",
+          "key": "140-jiudian-jituan-weishenme-dou-rezhongyu-dazao-huiyuan-he-jifen-tixi-chuantai-yuanxingzhe-yu-suibingjiang-lj-xa3wxzjog6-8zm9nfakh6ulew",
+          "show": "起朱楼宴宾客",
+          "title": "140.酒店集团为什么都热衷于打造会员和积分体系？| 串台远行者与碎冰匠",
+          "url": "/wiki/sources/140-jiudian-jituan-weishenme-dou-rezhongyu-dazao-huiyuan-he-jifen-tixi-chuantai-yuanxingzhe-yu-suibingjiang-lj-xa3wxzjog6-8zm9nfakh6ulew/"
+        },
+        {
+          "episode_file": "148. 吃好睡好：肯德基KRPO入局轻食、亚朵星球床品创新 ｜ 疯投圈 (1) [148-1].md",
+          "key": "148-chihao-shuihao-kendeji-kpro-ruju-qingshi-yaduo-xingqiu-chuangpin-chuangxin-feng-tou-quan-1-148-1",
+          "show": "疯投圈",
+          "title": "148 ✪ 吃好睡好：肯德基 K Pro 入局轻食、亚朵星球床品创新",
+          "url": "/wiki/sources/148-chihao-shuihao-kendeji-kpro-ruju-qingshi-yaduo-xingqiu-chuangpin-chuangxin-feng-tou-quan-1-148-1/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/atour/"
+    },
+    "AtourPlanet": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "148. 吃好睡好：肯德基KRPO入局轻食、亚朵星球床品创新 ｜ 疯投圈 (1) [148-1].md",
+          "key": "148-chihao-shuihao-kendeji-kpro-ruju-qingshi-yaduo-xingqiu-chuangpin-chuangxin-feng-tou-quan-1-148-1",
+          "show": "疯投圈",
+          "title": "148 ✪ 吃好睡好：肯德基 K Pro 入局轻食、亚朵星球床品创新",
+          "url": "/wiki/sources/148-chihao-shuihao-kendeji-kpro-ruju-qingshi-yaduo-xingqiu-chuangpin-chuangxin-feng-tou-quan-1-148-1/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/atourplanet/"
+    },
     "AtrocityNarrativeReframing": {
       "episode_count": 1,
       "show_count": 1,
@@ -57704,9 +57750,9 @@
       "url": "/wiki/entities/fengshilatehan/"
     },
     "FengTouQuan": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 1,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "132. 🍦雪糕江湖 ｜ 疯投圈 (1) [132-1].md",
@@ -57784,9 +57830,16 @@
           "show": "疯投圈",
           "title": "146 ✪ 对买量和铺货说bye-bye，AI如何驱动出海品牌增长?",
           "url": "/wiki/sources/146-dui-mai-liang-he-pu-huo-shuo-bye-bye-ai-ruhe-qudong-chuhai-pinpai-zengzhang-feng-tou-quan-1-146-1/"
+        },
+        {
+          "episode_file": "148. 吃好睡好：肯德基KRPO入局轻食、亚朵星球床品创新 ｜ 疯投圈 (1) [148-1].md",
+          "key": "148-chihao-shuihao-kendeji-kpro-ruju-qingshi-yaduo-xingqiu-chuangpin-chuangxin-feng-tou-quan-1-148-1",
+          "show": "疯投圈",
+          "title": "148 ✪ 吃好睡好：肯德基 K Pro 入局轻食、亚朵星球床品创新",
+          "url": "/wiki/sources/148-chihao-shuihao-kendeji-kpro-ruju-qingshi-yaduo-xingqiu-chuangpin-chuangxin-feng-tou-quan-1-148-1/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/fengtouquan/"
     },
     "FengXiaogang": {
@@ -77456,9 +77509,9 @@
       "url": "/wiki/concepts/hostageransomdeterrence/"
     },
     "HotelRetailFlywheel": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "汽水音乐冲击腾讯、网易，特斯拉等车企在国内开展大规模召回 [1008396395].md",
@@ -77473,9 +77526,16 @@
           "show": "商业就是这样",
           "title": "Vol.272 2026年了，怎么还有人要做中国版Airbnb？",
           "url": "/wiki/sources/vol-272-2026-nian-le-zenme-hai-you-ren-yao-zuo-zhongguo-ban-airbnb-1008880863/"
+        },
+        {
+          "episode_file": "148. 吃好睡好：肯德基KRPO入局轻食、亚朵星球床品创新 ｜ 疯投圈 (1) [148-1].md",
+          "key": "148-chihao-shuihao-kendeji-kpro-ruju-qingshi-yaduo-xingqiu-chuangpin-chuangxin-feng-tou-quan-1-148-1",
+          "show": "疯投圈",
+          "title": "148 ✪ 吃好睡好：肯德基 K Pro 入局轻食、亚朵星球床品创新",
+          "url": "/wiki/sources/148-chihao-shuihao-kendeji-kpro-ruju-qingshi-yaduo-xingqiu-chuangpin-chuangxin-feng-tou-quan-1-148-1/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/hotelretailflywheel/"
     },
     "HouBaEasternHan": {
@@ -91281,9 +91341,9 @@
       "url": "/wiki/entities/juvenilemaculardegenerationcarecenter/"
     },
     "KFC": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "在非洲卖快餐，为什么肯德基比麦当劳更吃得开？ [1010601062].md",
@@ -91291,10 +91351,33 @@
           "show": "声动早咖啡",
           "title": "在非洲卖快餐，为什么肯德基比麦当劳更吃得开？",
           "url": "/wiki/sources/zai-feizhou-mai-kuaican-weishenme-kendeji-bi-maidanglao-geng-chidekai-1010601062/"
+        },
+        {
+          "episode_file": "148. 吃好睡好：肯德基KRPO入局轻食、亚朵星球床品创新 ｜ 疯投圈 (1) [148-1].md",
+          "key": "148-chihao-shuihao-kendeji-kpro-ruju-qingshi-yaduo-xingqiu-chuangpin-chuangxin-feng-tou-quan-1-148-1",
+          "show": "疯投圈",
+          "title": "148 ✪ 吃好睡好：肯德基 K Pro 入局轻食、亚朵星球床品创新",
+          "url": "/wiki/sources/148-chihao-shuihao-kendeji-kpro-ruju-qingshi-yaduo-xingqiu-chuangpin-chuangxin-feng-tou-quan-1-148-1/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/kfc/"
+    },
+    "KPro": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "148. 吃好睡好：肯德基KRPO入局轻食、亚朵星球床品创新 ｜ 疯投圈 (1) [148-1].md",
+          "key": "148-chihao-shuihao-kendeji-kpro-ruju-qingshi-yaduo-xingqiu-chuangpin-chuangxin-feng-tou-quan-1-148-1",
+          "show": "疯投圈",
+          "title": "148 ✪ 吃好睡好：肯德基 K Pro 入局轻食、亚朵星球床品创新",
+          "url": "/wiki/sources/148-chihao-shuihao-kendeji-kpro-ruju-qingshi-yaduo-xingqiu-chuangpin-chuangxin-feng-tou-quan-1-148-1/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/kpro/"
     },
     "KShapedConsumerSpending": {
       "episode_count": 5,
@@ -98323,6 +98406,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/light9m/"
+    },
+    "LightFoodCategoryReframing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "148. 吃好睡好：肯德基KRPO入局轻食、亚朵星球床品创新 ｜ 疯投圈 (1) [148-1].md",
+          "key": "148-chihao-shuihao-kendeji-kpro-ruju-qingshi-yaduo-xingqiu-chuangpin-chuangxin-feng-tou-quan-1-148-1",
+          "show": "疯投圈",
+          "title": "148 ✪ 吃好睡好：肯德基 K Pro 入局轻食、亚朵星球床品创新",
+          "url": "/wiki/sources/148-chihao-shuihao-kendeji-kpro-ruju-qingshi-yaduo-xingqiu-chuangpin-chuangxin-feng-tou-quan-1-148-1/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/lightfoodcategoryreframing/"
     },
     "LightTouchFrontierGovernance": {
       "episode_count": 4,
@@ -117309,6 +117408,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/entities/nemoclaw/"
+    },
+    "NeglectedFrictionProductInnovation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "148. 吃好睡好：肯德基KRPO入局轻食、亚朵星球床品创新 ｜ 疯投圈 (1) [148-1].md",
+          "key": "148-chihao-shuihao-kendeji-kpro-ruju-qingshi-yaduo-xingqiu-chuangpin-chuangxin-feng-tou-quan-1-148-1",
+          "show": "疯投圈",
+          "title": "148 ✪ 吃好睡好：肯德基 K Pro 入局轻食、亚朵星球床品创新",
+          "url": "/wiki/sources/148-chihao-shuihao-kendeji-kpro-ruju-qingshi-yaduo-xingqiu-chuangpin-chuangxin-feng-tou-quan-1-148-1/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/neglectedfrictionproductinnovation/"
     },
     "NegotiationAsBargaining": {
       "episode_count": 3,
@@ -154034,6 +154149,36 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/stopandshop/"
     },
+    "StoreWithinStoreFoodservice": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "中国迎来汉堡开店潮，国产黄柠檬价格回落 [1006920543].md",
+          "key": "zhongguo-yinglai-hanbao-kaidianchao-guochan-huangningmeng-jiage-huiluo-1006920543",
+          "show": "声动早咖啡",
+          "title": "中国迎来汉堡开店潮，国产黄柠檬价格回落",
+          "url": "/wiki/sources/zhongguo-yinglai-hanbao-kaidianchao-guochan-huangningmeng-jiage-huiluo-1006920543/"
+        },
+        {
+          "episode_file": "「蜘蛛侠」新片拿下近半国内票房，AI 模型爆发价格战 [1004403588].md",
+          "key": "zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588",
+          "show": "声动早咖啡",
+          "title": "「蜘蛛侠」新片拿下近半国内票房，AI 模型爆发价格战",
+          "url": "/wiki/sources/zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588/"
+        },
+        {
+          "episode_file": "148. 吃好睡好：肯德基KRPO入局轻食、亚朵星球床品创新 ｜ 疯投圈 (1) [148-1].md",
+          "key": "148-chihao-shuihao-kendeji-kpro-ruju-qingshi-yaduo-xingqiu-chuangpin-chuangxin-feng-tou-quan-1-148-1",
+          "show": "疯投圈",
+          "title": "148 ✪ 吃好睡好：肯德基 K Pro 入局轻食、亚朵星球床品创新",
+          "url": "/wiki/sources/148-chihao-shuihao-kendeji-kpro-ruju-qingshi-yaduo-xingqiu-chuangpin-chuangxin-feng-tou-quan-1-148-1/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/storewithinstorefoodservice/"
+    },
     "StormOptical": {
       "episode_count": 1,
       "show_count": 1,
@@ -156803,6 +156948,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/suoyisong/"
+    },
+    "SuperBowlLightFood": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "148. 吃好睡好：肯德基KRPO入局轻食、亚朵星球床品创新 ｜ 疯投圈 (1) [148-1].md",
+          "key": "148-chihao-shuihao-kendeji-kpro-ruju-qingshi-yaduo-xingqiu-chuangpin-chuangxin-feng-tou-quan-1-148-1",
+          "show": "疯投圈",
+          "title": "148 ✪ 吃好睡好：肯德基 K Pro 入局轻食、亚朵星球床品创新",
+          "url": "/wiki/sources/148-chihao-shuihao-kendeji-kpro-ruju-qingshi-yaduo-xingqiu-chuangpin-chuangxin-feng-tou-quan-1-148-1/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/superbowllightfood/"
     },
     "SuperSlowJogging": {
       "episode_count": 1,
@@ -182318,6 +182479,50 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/yuezhi/"
+    },
+    "YumChina": {
+      "episode_count": 5,
+      "show_count": 2,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "中国迎来汉堡开店潮，国产黄柠檬价格回落 [1006920543].md",
+          "key": "zhongguo-yinglai-hanbao-kaidianchao-guochan-huangningmeng-jiage-huiluo-1006920543",
+          "show": "声动早咖啡",
+          "title": "中国迎来汉堡开店潮，国产黄柠檬价格回落",
+          "url": "/wiki/sources/zhongguo-yinglai-hanbao-kaidianchao-guochan-huangningmeng-jiage-huiluo-1006920543/"
+        },
+        {
+          "episode_file": "巴黎水和圣培露还能赚钱，雀巢为何要剥离水业务？ [1005452453].md",
+          "key": "bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453",
+          "show": "声动早咖啡",
+          "title": "巴黎水和圣培露还能赚钱，雀巢为何要剥离水业务？",
+          "url": "/wiki/sources/bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453/"
+        },
+        {
+          "episode_file": "「蜘蛛侠」新片拿下近半国内票房，AI 模型爆发价格战 [1004403588].md",
+          "key": "zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588",
+          "show": "声动早咖啡",
+          "title": "「蜘蛛侠」新片拿下近半国内票房，AI 模型爆发价格战",
+          "url": "/wiki/sources/zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588/"
+        },
+        {
+          "episode_file": "145. 改嫁中资的餐饮洋品牌 ｜ 疯投圈 (1) [145-1].md",
+          "key": "145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1",
+          "show": "疯投圈",
+          "title": "145. 改嫁中资的餐饮洋品牌",
+          "url": "/wiki/sources/145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1/"
+        },
+        {
+          "episode_file": "148. 吃好睡好：肯德基KRPO入局轻食、亚朵星球床品创新 ｜ 疯投圈 (1) [148-1].md",
+          "key": "148-chihao-shuihao-kendeji-kpro-ruju-qingshi-yaduo-xingqiu-chuangpin-chuangxin-feng-tou-quan-1-148-1",
+          "show": "疯投圈",
+          "title": "148 ✪ 吃好睡好：肯德基 K Pro 入局轻食、亚朵星球床品创新",
+          "url": "/wiki/sources/148-chihao-shuihao-kendeji-kpro-ruju-qingshi-yaduo-xingqiu-chuangpin-chuangxin-feng-tou-quan-1-148-1/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/yumchina/"
     },
     "YunChangWesternHan": {
       "episode_count": 1,

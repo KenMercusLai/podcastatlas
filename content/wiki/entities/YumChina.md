@@ -2,36 +2,57 @@
 title: "Yum China / 百胜中国"
 type: entity
 tags: [company, restaurants, china, foodservice]
-sources: [zhongguo-yinglai-hanbao-kaidianchao-guochan-huangningmeng-jiage-huiluo-1006920543, bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453, zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588, 145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1]
-last_updated: 2026-08-24
+sources:
+  - zhongguo-yinglai-hanbao-kaidianchao-guochan-huangningmeng-jiage-huiluo-1006920543
+  - bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453
+  - zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588
+  - 145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1
+  - 148-chihao-shuihao-kendeji-kpro-ruju-qingshi-yaduo-xingqiu-chuangpin-chuangxin-feng-tou-quan-1-148-1
+last_updated: 2026-09-28
+knowledge_schema: synthesis-v1
 ---
 
 # Yum China / 百胜中国
 
-[[bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453]] adds Yum China as a brand-ownership and margin case. The source says Yum China completed its purchase of [[PizzaHutChina|Pizza Hut China]] mainland brand ownership on August 7, removing ongoing franchise fees to Yum Brands and potentially improving profit margin and franchisee expansion incentives.
+## Overview
 
-[[zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588]] adds Yum China / 百胜中国 as a chain-restaurant operating case. The source says second-quarter KFC same-store transaction volume grew while average ticket fell, and frames coffee, light meals, and Pizza Hut burgers as lower-ticket incremental orders rather than a pure premiumization story.
+Yum China is the China restaurant operator presented across the sources as a locally controlled platform that combines major chain brands, local product decisions, store-infrastructure reuse, supply-chain execution, and ownership of [[PizzaHutChina|Pizza Hut China]] mainland brand rights.
 
-The episode's useful contribution is [[StoreWithinStoreFoodservice|store-within-store foodservice]]. Yum China is presented as testing new categories inside existing restaurant kitchens, employees, and traffic flows, so the experiment can use [[ChainRestaurantStandardization]] and shared operations instead of bearing the full cost of a standalone new chain.
+## Current Profile
 
-[[145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1]] adds Yum China to [[ForeignRestaurantBrandLocalControl]]. The source says Yum China bought [[PizzaHutChina]] brand ownership from [[YumBrands]] for 1.2 billion USD, while the rest of global Pizza Hut was sold separately for 1.5 billion USD. The hosts read this as evidence that Yum China's long-localized operation made the China region unusually valuable inside the brand.
+The bounded sources treat Yum China's advantage as more than store count. Local autonomy supports faster adaptation in products and formats; buying Pizza Hut China rights can recapture franchise fees; and existing KFC or Pizza Hut kitchens, labor, traffic, logistics, and digital systems lower the cost of testing coffee, burgers, and light food. [[KPro]] deepens this pattern because it uses adjacent branded space and a localized health-meal proposition, but it also exposes fresh-food logistics and lower-tier demand risks that shared infrastructure cannot remove.
 
-[[zhongguo-yinglai-hanbao-kaidianchao-guochan-huangningmeng-jiage-huiluo-1006920543]] adds the next burger-specific rollout marker. It says [[PizzaHutChina]] had burgers in more than 200 stores and planned 500-600 by year-end, making the earlier [[StoreWithinStoreFoodservice]] concept a visible part of [[ChinaBurgerExpansion]] rather than only a small category test.
+## Key Characteristics
 
-## Source Position
-- KFC's higher transaction count but lower average order value points to value pressure and smaller-order growth.
-- Coffee and light meals are treated as incremental occasions that can fit existing stores.
-- Pizza Hut's burger module is described as a competitive response to beef-burger brands and as a planned rollout to hundreds of stores by year-end.
-- The later 声动早咖啡 source updates the burger plan to more than 200 active stores and a 500-600 store year-end target.
-- The source frames these experiments as lower-cost because kitchen equipment, staffing, and store traffic can be shared.
-- The later 声动早咖啡 source adds that buying mainland Pizza Hut brand ownership can recapture fees and make expansion economics more attractive.
+- Locally controlled China restaurant platform with significant operating autonomy.
+- Owner of Pizza Hut mainland China brand rights in the source set.
+- User of existing restaurant infrastructure for adjacent categories and lower-ticket occasions.
+- Localization system spanning taste, menu, price, supply chain, format, and operating cadence.
+- Expansion platform whose scale advantages remain bounded by category-specific supply and demand constraints.
 
-## Connections
-- [[PizzaHutChina]] - brand-ownership and margin branch added by the later source.
-- [[StoreWithinStoreFoodservice]] - operating pattern added from the source.
-- [[FranchiseLedConsumerChainExpansion]] - franchisee and unit-economics context.
-- [[ChainRestaurantStandardization]] - repeatable store process needed for category modules.
-- [[RestaurantSupplyChainLocalization]] - upstream ingredient, kitchen, and preparation fit.
-- [[RestaurantOperatingSystem]], [[RetailIncrementality]], and [[ProductLedWillingnessToPay]] - adjacent restaurant and demand concepts.
-- [[YumBrands]] and [[ForeignRestaurantBrandLocalControl]] - episode 145's brand-rights ownership branch.
-- [[ChinaBurgerExpansion]] - burger-market growth branch added by 声动早咖啡.
+## Evidence
+
+- Local control and brand ownership: [[145-gaijia-zhongzi-de-canyin-yangpinpai-feng-tou-quan-1-145-1]] and [[bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453]] present Yum China's Pizza Hut China rights purchase as a localization, margin, and expansion case.
+- Store-within-store experimentation: [[zhizhuxia-xinpian-naxia-jinban-guonei-piaofang-ai-moxing-baofa-jiagezhan-1004403588]] says coffee, light meals, and burgers can reuse existing KFC and Pizza Hut operations.
+- Burger rollout: [[zhongguo-yinglai-hanbao-kaidianchao-guochan-huangningmeng-jiage-huiluo-1006920543]] says Pizza Hut China had expanded burgers into more than 200 stores and planned hundreds more.
+- K Pro adjacency: [[148-chihao-shuihao-kendeji-kpro-ruju-qingshi-yaduo-xingqiu-chuangpin-chuangxin-feng-tou-quan-1-148-1]] describes K Pro as sharing or adjoining KFC sites while reusing real estate, labor, logistics, traffic, and ordering systems.
+- Local product logic: [[148-chihao-shuihao-kendeji-kpro-ruju-qingshi-yaduo-xingqiu-chuangpin-chuangxin-feng-tou-quan-1-148-1]] attributes KFC China's relative strength to local decision space and repeated adaptation through congee, coffee, and light food.
+
+## Qualifications
+
+The sources are podcast analyses, several of them short business-news summaries. Deal values, timing, store counts, rollout targets, transaction volumes, pricing, and category forecasts remain source-scoped. Shared infrastructure lowers experimentation cost but does not prove incrementality, profitability, national product-market fit, or successful lower-tier expansion.
+
+## What Changed
+
+- Recast Yum China as an integrated local-control and adjacent-category operating platform rather than an episode-by-episode company note.
+- Added K Pro as the fullest light-food example of infrastructure reuse and its fresh-supply constraints.
+
+## Relationships
+
+- [[KFC]] - major operating brand and infrastructure base for adjacent categories.
+- [[KPro]] - light-food sub-brand using shared or adjacent KFC resources.
+- [[PizzaHutChina]] - owned mainland brand-rights and burger-rollout case.
+- [[YumBrands]] - former rights owner and global brand context.
+- [[StoreWithinStoreFoodservice]] - operating pattern used for lower-cost category expansion.
+- [[ForeignRestaurantBrandLocalControl]] - ownership and decision-rights frame for Yum China's position.
+- [[RestaurantSupplyChainLocalization]] - supply and execution system supporting local menus.

@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-28] ingest | 148 ✪ 吃好睡好：肯德基 K Pro 入局轻食、亚朵星球床品创新
+
+Added source `148-chihao-shuihao-kendeji-kpro-ruju-qingshi-yaduo-xingqiu-chuangpin-chuangxin-feng-tou-quan-1-148-1`; created `KPro`, `AtourPlanet`, `SuperBowlLightFood`, `LightFoodCategoryReframing`, and `NeglectedFrictionProductInnovation`; and updated `KFC`, `YumChina`, `Atour`, `FengTouQuan`, `StoreWithinStoreFoodservice`, `HotelRetailFlywheel`, and the canonical index from their complete bounded source sets. Core synthesis: light food is moving from salad-style deprivation toward filling localized meals while K Pro reuses KFC infrastructure and larger brands educate the category; Atour Planet shows how hotel trial can seed sleep-product retail, but large-scale growth increasingly depends on direct product, supply, channel, and reputation strength. No settled contradiction was adopted. Store counts, revenue, forecasts, subsidy and influencer-channel effects remain source-scoped; the hosts' Super Bowl and 唐岛 investments and the closing insurance promotion are explicit conflict and commercial qualifications. The automatic `wiki/overview.md` was read for context but not manually rewritten because the source deepens established consumer-business branches without changing the wiki-wide synthesis.
+
 ## [2026-09-28] ingest | VOL.43心血管内科｜帮你分清高血压及高血压病、如何准确测量和用药误区
 
 Added source `vol-43-xinxueguan-neike-bang-ni-fenqing-gaoxueya-ji-gaoxueyabing-ruhe-zhunque-celiang-he-yongyao-wuqu-nlpxlwbgg0fb8lfosi_5ysestz8k`; updated `WengJiayiCardiology`, `HypertensionDiagnosisAndTargets`, `HomeBloodPressureMeasurement`, `AntihypertensiveMedicationAdherence`, `HypertensionLongTermManagement`, `HypertensionTargetOrganDamage`, `CardiovascularExerciseRiskBoundary`, and the canonical index from their complete bounded source sets. Core synthesis: hypertension in younger adults can be asymptomatic, diastolic-predominant, secondary, or metabolically clustered; reliable care joins standardized measurement, individualized and safely managed medication, gradual exercise, lifestyle support, follow-up, and target-organ prevention rather than fixation on one number. No settled contradiction was adopted. The supplied episodes' 翁家毅/翁嘉义 spelling difference remains unresolved, and thresholds, risk figures, medicine onset, potassium replacement, exercise response, and seasonal effects remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -24690,6 +24694,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-28] ingest | 327: Coronations: The Deep History (Part 1)
 
 Added source `327-coronations-the-deep-history-part-1-glt4746607803`; created `Dunstan`, `StoneOfScone`, and `RoyalAnointingTradition`; and updated `BritishCoronationRitual`, `EdgarThePeaceful`, `Athelstan`, `CharlesIII`, `ElizabethII`, and the canonical index from their complete bounded source sets. Core synthesis: British coronation is a layered inheritance joining older territorial and martial inauguration, Anglo-Saxon state-building, Roman and Carolingian form, biblical consecration, oath-bound service, and politically charged objects and places. No settled contradiction was adopted. Pre-Christian practices, direct ritual transmission, disputed artifact origins, early-anointing priority, Near Eastern influence, and modern public reception remain uncertain or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten because this episode deepens the existing coronation branch without changing the wiki-wide synthesis.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-28] lint | Wiki health check
 

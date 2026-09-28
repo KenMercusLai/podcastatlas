@@ -455,6 +455,10 @@
     "title": "147.再谈日本医疗与照护行业之我曾在北海道的医院当护士",
     "url": "/wiki/sources/147-zaitan-riben-yiliao-yu-zhaohu-hangye-zhi-wo-ceng-zai-beihaidao-de-yiyuan-dang-hushi-lgokb-l-nvnqsstfzlqwhtnkqzhp/"
   },
+  "148-chihao-shuihao-kendeji-kpro-ruju-qingshi-yaduo-xingqiu-chuangpin-chuangxin-feng-tou-quan-1-148-1": {
+    "title": "148 ✪ 吃好睡好：肯德基 K Pro 入局轻食、亚朵星球床品创新",
+    "url": "/wiki/sources/148-chihao-shuihao-kendeji-kpro-ruju-qingshi-yaduo-xingqiu-chuangpin-chuangxin-feng-tou-quan-1-148-1/"
+  },
   "148-dui-you-kaichao-3-xiaoshi-fangtan-kaiyuan-infra-he-moxing-co-design-ruguo-vllm-shibai-women-hui-houhui-yibeizi-lg-fhgpmq4r-8l-5-yrimxgkims": {
     "title": "148. 对游凯超3小时访谈：开源Infra、和模型Co-design 、“如果vLLM失败，我们会后悔一辈子”",
     "url": "/wiki/sources/148-dui-you-kaichao-3-xiaoshi-fangtan-kaiyuan-infra-he-moxing-co-design-ruguo-vllm-shibai-women-hui-houhui-yibeizi-lg-fhgpmq4r-8l-5-yrimxgkims/"
@@ -8074,6 +8078,10 @@
   "Atour": {
     "title": "Atour / 亚朵",
     "url": "/wiki/entities/atour/"
+  },
+  "AtourPlanet": {
+    "title": "Atour Planet / 亚朵星球",
+    "url": "/wiki/entities/atourplanet/"
   },
   "AtreidesManagement": {
     "title": "Atreides Management",
@@ -39291,6 +39299,10 @@
     "title": "K (Physical Intelligence)",
     "url": "/wiki/entities/kphysicalintelligence/"
   },
+  "KPro": {
+    "title": "K Pro / 肯律轻食",
+    "url": "/wiki/entities/kpro/"
+  },
   "KRASOncologyTarget": {
     "title": "KRAS Oncology Target",
     "url": "/wiki/concepts/krasoncologytarget/"
@@ -42582,6 +42594,10 @@
   "LightCone": {
     "title": "Light Cone",
     "url": "/wiki/entities/lightcone/"
+  },
+  "LightFoodCategoryReframing": {
+    "title": "Light-Food Category Reframing / 轻食品类重构",
+    "url": "/wiki/concepts/lightfoodcategoryreframing/"
   },
   "LightTouchFrontierGovernance": {
     "title": "Light-Touch Frontier Governance / 宽简边疆治理",
@@ -50166,6 +50182,10 @@
   "NegativeResultsAsScientificData": {
     "title": "Negative Results As Scientific Data",
     "url": "/wiki/concepts/negativeresultsasscientificdata/"
+  },
+  "NeglectedFrictionProductInnovation": {
+    "title": "Neglected-Friction Product Innovation / 被忽视摩擦的产品创新",
+    "url": "/wiki/concepts/neglectedfrictionproductinnovation/"
   },
   "NegotiationAsBargaining": {
     "title": "Negotiation As Bargaining / 谈判即商量",
@@ -67946,6 +67966,10 @@
   "SuperBowl": {
     "title": "Super Bowl",
     "url": "/wiki/entities/superbowl/"
+  },
+  "SuperBowlLightFood": {
+    "title": "Super Bowl / 超级碗（轻食品牌）",
+    "url": "/wiki/entities/superbowllightfood/"
   },
   "SuperDry": {
     "title": "Super Dry",

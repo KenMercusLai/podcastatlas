@@ -1193,6 +1193,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [财报的根 + 估值的茎 = 叙事的果实](sources/caibao-de-gen-guzhi-de-jing-xushi-de-guoshi-lolxytqwzzxq9kzjbtkmfolafavb.md) — 面基 episode with Zou Peixuan on financial reports, DCF, terminal-value narrative, prosperity-investing traps, A-share auction pricing, and capitalized research process.
 - [EP281 对话吴镇宇：困在创伤里的我们，决定重新找回自己](sources/ep281-duihua-wuzhenyu-kun-zai-chuangshang-li-de-women-jueding-zhongxin-zhaohui-ziji-lvvreapoykpj5xtlryaaupu1xo7r.md) — Talk三联 episode with Wu Zhenyu and Yuan Yumei on 《蝉》, trauma visualization, embodied acting, aging, anger, imperfect creativity under AI, and love as relational repair.
 - [147 SHEIN回港上市、新拼姆开启自营](sources/147-shein-huigang-shangshi-xin-pin-mu-kaiqi-ziying-feng-tou-quan-1-147-1.md) — 疯投圈 episode on SHEIN's Hong Kong listing, European tariff and anti-ultra-fast-fashion pressure, local warehouse inventory risk, Temu's tariff resilience, and Pinduoduo/Xinpinmu's self-operated quality upgrade.
+- [148 ✪ 吃好睡好：肯德基 K Pro 入局轻食、亚朵星球床品创新](sources/148-chihao-shuihao-kendeji-kpro-ruju-qingshi-yaduo-xingqiu-chuangpin-chuangxin-feng-tou-quan-1-148-1.md) — 疯投圈 episode on K Pro's reuse of KFC infrastructure, light-food category reframing, direct-operated fresh-food constraints, Atour Planet's bedding expansion, and simple product innovation that removes everyday friction.
 - [146 ✪ 对买量和铺货说bye-bye，AI如何驱动出海品牌增长?](sources/146-dui-mai-liang-he-pu-huo-shuo-bye-bye-ai-ruhe-qudong-chuhai-pinpai-zengzhang-feng-tou-quan-1-146-1.md) — 疯投圈 episode with Kate of AHA Creator on AI-enabled overseas creator marketing, the shift from traffic buying to brand building, and why third-party creator workflow platforms may have room outside domestic-style closed loops.
 - [Episode 21: 抗压、应变与终生动力：CZ 的人事和天命](sources/kangya-yingbian-yu-zhongsheng-dongli-cz-de-renshi-he-tianming-1736950d-420c-4021-9a56-a180810612d7.md) — Fuyou Tiandi episode with CZ on Binance hindsight, founder pressure tolerance, proactive team management, blockchain consensus, payment adoption gaps, RWA, stablecoins, and education-driven motivation.
 - [ICE is collecting DNA from detainees for future policing](sources/tech-20260831-0831-mp-tech-pod-128-tech-20260831-0831-mp-tech-pod-128.md) — Marketplace Tech episode with Stevie Gleiberson on DHS and ICE DNA collection, CODIS retention, child-sampling concerns, familial genetic exposure, Maryland v. King, and Briggs v. Mullen.
@@ -5184,7 +5185,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Zhuo Mao / 卓茂 (Eastern Han)](entities/ZhuoMaoEasternHan.md) — Elder virtue-official whom Liu Xiu elevates as a founding-order moral exemplar.
 - [Liu Gong / 刘公 (Eastern Han)](entities/LiuGongEasternHan.md) — Liu Penzi's kinsman and Gengshi loyalist who protects Liu Xuan through surrender, body concealment, and later revenge memory.
 - [Social Security](entities/SocialSecurity.md) — U.S. retirement program used by the All-In source as a non-confiscatory vehicle for broad citizen equity ownership.
-- [KFC](entities/KFC.md) — Chicken-centered fast-food chain whose sub-Saharan African footprint illustrates protein and supply-chain market fit.
+- [KFC](entities/KFC.md) — Global fast-food chain linking African protein and supplier fit with China-side infrastructure reuse for K Pro light food.
+- [K Pro / 肯律轻食](entities/KPro.md) — Yum China light-food sub-brand using adjacent KFC sites, shared infrastructure, and localized filling meals.
 - [Sub-Saharan Africa](entities/SubSaharanAfrica.md) — Regional fast-food comparison frame for KFC's broad footprint and McDonald's narrower presence.
 - [Nando's](entities/Nandos.md) — South African chicken chain used as supporting evidence for chicken-led fast-food demand.
 - [German National Anthem / Das Lied der Deutschen](entities/GermanNationalAnthem.md) — German anthem case where Haydn's tune and Hoffmann's song survive through a postwar third-verse convention.
@@ -8442,7 +8444,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [CPE 源峰](entities/CPEYuanfeng.md) — Chinese private-equity investor acquiring Mammut and facing brand/channel execution questions.
 - [声动早咖啡](entities/ShengdongZaokafei.md) — 声动活泼 workday-morning podcast positioned as short, fresh, concentrated business-and-technology audio.
 - [Aldi / 奥乐齐](entities/Aldi.md) — Hard-discount grocery retailer used by 声动早咖啡 as a China expansion and low-price supermarket competition case.
-- [Yum China / 百胜中国](entities/YumChina.md) — China restaurant-chain operator used by 声动早咖啡 to explain store-within-store foodservice and lower-ticket incremental orders.
+- [Yum China / 百胜中国](entities/YumChina.md) — Locally controlled China restaurant platform combining brand rights, product adaptation, and shared infrastructure for adjacent categories.
 - [孟依](entities/MengYi.md) — 声动活泼 producer and host voice introducing 声动早咖啡 through morning routines and coffee metaphor.
 - [南希 / Nanxi](entities/NanxiWanxiang.md) — 万象更新 host whose EP274 discussion connects menopause symptoms, clinic preparation, information triage, family support, and workplace realities.
 - [万象更新](entities/WanxiangGengxin.md) — Podcast and listener-community context that brings menopause and women's-health stories into the EP274 Talk三联 discussion.
@@ -9517,7 +9519,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [InterContinental Hotels Group / IHG](entities/InterContinentalHotelsGroup.md) — Global hotel group tied by episode 140 to early hotel loyalty and customer lifetime value.
 - [Holiday Inn](entities/HolidayInn.md) — Early hotel loyalty-program example associated with IHG in episode 140.
 - [Jinjiang Hotels / 锦江酒店](entities/JinjiangHotels.md) — Chinese hotel group used as a large but more fragmented membership-integration contrast to Huazhu.
-- [Atour / 亚朵](entities/Atour.md) — Chinese hotel chain used by episode 140 as a standardized domestic business-travel option.
+- [Atour / 亚朵](entities/Atour.md) — Chinese hotel chain linking standardized lodging with hotel-derived sleep-product retail.
+- [Atour Planet / 亚朵星球](entities/AtourPlanet.md) — Atour sleep-products business expanding from hotel-trial pillows into quilts and broader bedding competition.
 - [All Seasons Hotel / 全季酒店](entities/AllSeasonsHotel.md) — Huazhu-linked chain used by episode 140 to explain domestic chain standards replacing star ratings.
 - [Hoshino Resorts / 星野集团](entities/HoshinoResorts.md) — Japanese hotel group used by episode 140 to explain simpler loyalty design and employee-led service improvement.
 - [Aman Resorts](entities/AmanResorts.md) — Luxury/destination hotel example in episode 140.
@@ -10062,6 +10065,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ed Sabol](entities/EdSabol.md) — NFL Films founder figure whose 1962 championship film helped create the league's cinematic storytelling layer.
 - [Monday Night Football](entities/MondayNightFootball.md) — Prime-time NFL television product that created a new scarce weekly media window.
 - [Super Bowl](entities/SuperBowl.md) — NFL championship event built into a media spectacle and merger-legitimacy vehicle.
+- [Super Bowl / 超级碗（轻食品牌）](entities/SuperBowlLightFood.md) — Disambiguated Chinese direct-operated light-food chain focused on office-heavy districts and fresh-product control.
 - [ESPN](entities/ESPN.md) — Sports media company tied to the NFL Network and fantasy-app transaction described in the NFL source.
 - [YouTube TV](entities/YouTubeTV.md) — Streaming television service carrying NFL Sunday Ticket in the NFL source.
 - [NBC](entities/NBC.md) — Television network whose AFL rights deal helped strengthen football's national media economics.
@@ -13524,7 +13528,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [One Life](entities/OneLife.md) — RV brand or fit-out style associated with Guigui's secondhand B-type RV in EP122.
 - [Maxus V90](entities/MaxusV90.md) — Van platform used as the source's concrete B-type RV example.
 - [张一贞](entities/ZhangYizhen.md) — 面基 guest explaining A-share valuation indicators, trend rules, asset rotation, and drawdown-aware investor psychology.
-- [疯投圈](entities/FengTouQuan.md) — Podcast/show context for episodes on consumer categories, experience consumption, Pop Mart, coffee, DJI, Japan/Korea brand comparison, and Chinese premium EVs.
+- [疯投圈](entities/FengTouQuan.md) — Category-analysis podcast connecting consumer products, experience, localization, operations, investing, AI, light food, and sleep retail.
 - [Yeren Xiansheng](entities/YerenXiansheng.md) — Chinese store-made gelato/ice-cream chain used as the episode's core case for sampling, fresh-made positioning, and franchise expansion.
 - [Zhong Xuegao](entities/ZhongXuegao.md) — Chinese prepackaged premium ice-cream brand used as the cold-chain and high-price contrast case.
 - [Haagen-Dazs](entities/HaagenDazs.md) — Premium ice-cream incumbent used to discuss China store contraction, traffic decline, and weak fit with the current consumption environment.
@@ -17132,7 +17136,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hamiltonian Economic Nationalism](concepts/HamiltonianEconomicNationalism.md) — Policy grammar linking central state capacity, banking, manufacturing, finance, trade posture, and national power.
 - [Vehicle Emergency Handle Usability](concepts/VehicleEmergencyHandleUsability.md) — Automotive safety affordance issue where emergency mechanical handles must be visible and usable in crash conditions.
 - [Short-Video Music Distribution](concepts/ShortVideoMusicDistribution.md) — Platform pattern where short-video discovery and traffic reshape music-app competition.
-- [Hotel Retail Flywheel](concepts/HotelRetailFlywheel.md) — Hospitality-retail pattern where in-stay product trial turns hotel bedding and comfort goods into consumer sales.
+- [Hotel Retail Flywheel](concepts/HotelRetailFlywheel.md) — Lodging-to-retail loop whose trial advantage must give way to standalone product and channel strength at scale.
+- [Neglected-Friction Product Innovation / 被忽视摩擦的产品创新](concepts/NeglectedFrictionProductInnovation.md) — Mature-category innovation that removes recurring setup, cleaning, maintenance, or use burdens.
 - [Efficiency Over Scale Expansion](concepts/EfficiencyOverScaleExpansion.md) — Business shift from traffic, store, headcount, and network growth toward operating efficiency and channel discipline.
 - [Sports Betting Sponsorship Exit](concepts/SportsBettingSponsorshipExit.md) — Football sponsorship shift as betting sponsors leave restricted shirt inventory and other global brands enter.
 - [Rotomolded Cooler Category](concepts/RotomoldedCoolerCategory.md) — Durable cooler category using thick polyethylene rotomolding to justify premium outdoor use.
@@ -18268,7 +18273,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hard-Discount Retail / 硬折扣零售](concepts/HardDiscountRetail.md) — Grocery retail format that tries to make low prices structural through sourcing, private labels, assortment, and operations.
 - [Mini-Program Game Monetization / 小程序游戏变现](concepts/MiniProgramGameMonetization.md) — Platform-embedded game revenue pattern shifting from ads toward in-app purchases as user growth slows.
 - [China Film Scheduling Risk / 中国电影档期风险](concepts/ChinaFilmSchedulingRisk.md) — Release-window and screen-allocation risk highlighted by Spider-Man box-office concentration and summer-film withdrawals.
-- [Store-Within-Store Foodservice / 餐饮店中店](concepts/StoreWithinStoreFoodservice.md) — Restaurant-chain format that tests new categories inside existing kitchens, labor, rent, and traffic flows.
+- [Store-Within-Store Foodservice / 餐饮店中店](concepts/StoreWithinStoreFoodservice.md) — Restaurant-chain pattern reusing sites, labor, logistics, ordering, and traffic for new categories or adjacent sub-brands.
+- [Light-Food Category Reframing / 轻食品类重构](concepts/LightFoodCategoryReframing.md) — Shift from salad-style deprivation toward filling, localized, repeatable everyday healthy meals.
 - [Morning Audio Ritual / 早间音频仪式](concepts/MorningAudioRitual.md) — Use of short, repeatable listening to help move from waking into the workday through information, mood, wakefulness, and planning.
 - [Short-Form Business-Tech Audio / 短时长商业科技音频](concepts/ShortFormBusinessTechAudio.md) — Compressed business-and-technology news format designed for narrow morning listening windows and fixed release cadence.
 - [Menopause Clinical Shared Decision-Making / 更年期临床共同决策](concepts/MenopauseClinicalSharedDecision.md) — Menopause-care frame where patients bring symptoms, priorities, constraints, biomarkers, and midlife risk questions into clinician-guided decisions.

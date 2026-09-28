@@ -4,7 +4,8 @@ type: entity
 tags: [company, restaurant, fast-food, consumer-brand]
 sources:
   - zai-feizhou-mai-kuaican-weishenme-kendeji-bi-maidanglao-geng-chidekai-1010601062
-last_updated: 2026-09-02
+  - 148-chihao-shuihao-kendeji-kpro-ruju-qingshi-yaduo-xingqiu-chuangpin-chuangxin-feng-tou-quan-1-148-1
+last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
 
@@ -12,41 +13,42 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-KFC appears in the wiki as the chicken-centered fast-food chain whose sub-Saharan African footprint is much larger than [[McDonalds|McDonald's]] in the same episode's comparison.
+KFC appears across the bounded sources as a global chicken-centered fast-food chain whose regional advantage comes from adapting both the product and the operating system: poultry supply and early entry support its African footprint, while China-scale stores and infrastructure support adjacent formats such as [[KPro]].
 
 ## Current Profile
 
-The episode presents KFC's African advantage as a fit among product identity, local protein preference, supplier economics, and timing. KFC's chicken-first menu is closer to South African and broader sub-Saharan meal preferences than McDonald's burger-centered identity, while chicken supply can be built with lower capital needs and faster vertical integration than standardized hamburger-beef supply. KFC also entered [[SouthAfrica]] in 1971, giving it a network and operating base that later supported expansion into neighboring markets.
+The African case presents KFC's advantage over [[McDonalds|McDonald's]] as a fit among chicken demand, local supplier economics, brand meaning, and a [[SouthAfrica]] base established in 1971. The China case adds a different form of localization: KFC's large store network becomes reusable infrastructure for coffee and light food. Together, the sources show that global scale matters when it is converted into region-specific menus, suppliers, store formats, labor, logistics, and customer occasions rather than copied unchanged.
 
 ## Key Characteristics
 
-- Chicken-centered fast-food brand with a large [[SubSaharanAfrica]] presence in the source.
-- Menu architecture that can emphasize bone-in chicken products aligned with local demand.
-- Supplier model that benefits from comparatively easier poultry sourcing and vertical integration.
-- Early [[SouthAfrica]] entrant that turned the country into a regional expansion base.
-- Competitive contrast case showing how a global brand can beat a peer through local protein and supply-chain fit.
+- Chicken-centered global fast-food brand whose product identity can fit local protein demand.
+- Early South Africa entrant with a regional management and supply-chain platform.
+- Supplier-development case where poultry can scale more readily than tightly standardized hamburger beef.
+- Large China store network that can host or adjoin new categories and sub-brands.
+- Localization case spanning menu, supply, real estate, labor, logistics, pricing, and brand perception.
 
 ## Evidence
 
-- African footprint: [[zai-feizhou-mai-kuaican-weishenme-kendeji-bi-maidanglao-geng-chidekai-1010601062]] says KFC has more than 1,500 stores across 22 sub-Saharan African countries, with about 1,200 in [[SouthAfrica]].
-- Menu and demand fit: [[zai-feizhou-mai-kuaican-weishenme-kendeji-bi-maidanglao-geng-chidekai-1010601062]] says chicken is South African consumers' favored protein and that KFC added more bone-in items such as drumsticks and wings.
-- Supplier economics: [[zai-feizhou-mai-kuaican-weishenme-kendeji-bi-maidanglao-geng-chidekai-1010601062]] contrasts poultry's lower startup investment and vertical-integration potential with McDonald's tighter beef-patty standards.
-- South Africa platform: [[zai-feizhou-mai-kuaican-weishenme-kendeji-bi-maidanglao-geng-chidekai-1010601062]] says KFC opened in Johannesburg in 1971, later returned after sanctions, and used South Africa for management talent and supply-chain support.
-- Peer contrast: [[zai-feizhou-mai-kuaican-weishenme-kendeji-bi-maidanglao-geng-chidekai-1010601062]] says McDonald's is present only in South Africa within sub-Saharan Africa and has far fewer South African stores than KFC.
+- African footprint and timing: [[zai-feizhou-mai-kuaican-weishenme-kendeji-bi-maidanglao-geng-chidekai-1010601062]] says KFC entered Johannesburg in 1971 and built a much broader sub-Saharan footprint than McDonald's.
+- Protein and supplier fit: [[zai-feizhou-mai-kuaican-weishenme-kendeji-bi-maidanglao-geng-chidekai-1010601062]] links bone-in chicken demand, lower poultry startup cost, and vertical integration to KFC's regional scalability.
+- China infrastructure reuse: [[148-chihao-shuihao-kendeji-kpro-ruju-qingshi-yaduo-xingqiu-chuangpin-chuangxin-feng-tou-quan-1-148-1]] says K Pro can share or adjoin KFC sites and reuse traffic, rent negotiation, staff, cleaning, logistics, ordering, and awareness.
+- Brand extension: [[148-chihao-shuihao-kendeji-kpro-ruju-qingshi-yaduo-xingqiu-chuangpin-chuangxin-feng-tou-quan-1-148-1]] treats light food as both a new occasion and a possible response to KFC's unhealthy-fast-food image.
 
 ## Qualifications
 
-The page is bounded to one podcast episode about sub-Saharan Africa. It does not yet synthesize KFC's full global ownership, U.S. business, China business, franchise system, or financial performance.
+The page is bounded to two podcast sources rather than a complete global corporate profile. Store counts, expansion plans, consumer preferences, supply economics, and image effects remain source-scoped. African protein fit and Chinese light-food adjacency are different regional mechanisms and should not be collapsed into one universal playbook.
 
 ## What Changed
 
-- Created KFC as a fast-food localization and supply-chain-fit case.
+- Broadened KFC from an Africa protein-and-supply-chain case into a cross-regional localization profile.
+- Added the China network's role as shared infrastructure for K Pro light food.
 
 ## Relationships
 
-- [[McDonalds]] - global fast-food peer contrasted through African footprint, brand identity, and beef supply-chain difficulty.
+- [[McDonalds]] - global peer contrasted through African product meaning and beef-supply difficulty.
 - [[SouthAfrica]] - first African market and regional operating base in the source.
-- [[SubSaharanAfrica]] - regional scope where KFC's store footprint is compared with McDonald's.
-- [[Nandos]] - chicken-led South African brand used as category-preference evidence.
-- [[ProteinSupplyChainMarketFit]] - concept KFC illustrates through chicken demand and poultry supplier scalability.
-- [[RestaurantSupplyChainLocalization]] - operating concept extended by KFC's local sourcing and supplier-development case.
+- [[YumChina]] - local China operator and resource base.
+- [[KPro]] - light-food sub-brand using KFC sites and operating infrastructure.
+- [[ProteinSupplyChainMarketFit]] - African chicken-versus-beef scaling mechanism.
+- [[StoreWithinStoreFoodservice]] - China-side infrastructure-reuse pattern.
+- [[RestaurantSupplyChainLocalization]] - broader operating concept spanning sourcing, logistics, menu, and execution.

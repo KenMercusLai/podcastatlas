@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 8654
+wiki_total_pages: 8656
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -149,6 +149,9 @@ wiki_pages:
   - key: "NegativeResultsAsScientificData"
     title: "Negative Results As Scientific Data"
     url: "/wiki/concepts/negativeresultsasscientificdata/"
+  - key: "NeglectedFrictionProductInnovation"
+    title: "Neglected-Friction Product Innovation / 被忽视摩擦的产品创新"
+    url: "/wiki/concepts/neglectedfrictionproductinnovation/"
   - key: "NegotiationAsBargaining"
     title: "Negotiation As Bargaining / 谈判即商量"
     url: "/wiki/concepts/negotiationasbargaining/"

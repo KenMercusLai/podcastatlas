@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 11260
+wiki_total_pages: 11263
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1595,6 +1595,9 @@ wiki_pages:
   - key: "SuperBowl"
     title: "Super Bowl"
     url: "/wiki/entities/superbowl/"
+  - key: "SuperBowlLightFood"
+    title: "Super Bowl / 超级碗（轻食品牌）"
+    url: "/wiki/entities/superbowllightfood/"
   - key: "SuperDry"
     title: "Super Dry"
     url: "/wiki/entities/superdry/"
