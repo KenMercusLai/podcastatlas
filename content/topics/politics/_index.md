@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2778
+topic_total_pages: 2779
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -7380,6 +7380,9 @@ topic_sources:
   - key: "264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0"
     title: "264.库克的道德锚点｜过去15年，库克给苹果留下了什么？"
     url: "/wiki/sources/264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0/"
+  - key: "342-the-trials-of-oscar-wilde-downfall-and-prison-part-2-glt5549466795"
+    title: "342: The Trials of Oscar Wilde: Downfall and Prison (Part 2)"
+    url: "/wiki/sources/342-the-trials-of-oscar-wilde-downfall-and-prison-part-2-glt5549466795/"
   - key: "36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522"
     title: "36.黑暗的左手：流放与爱的未来往事"
     url: "/wiki/sources/36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522/"

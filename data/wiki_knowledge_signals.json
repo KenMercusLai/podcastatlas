@@ -7640,6 +7640,29 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/alexandrianlibrarymyth/"
     },
+    "AlfredDouglas": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "10.王尔德奇异故事集：用最会撒谎的嘴唇亲吻天使 [545332195].md",
+          "key": "10-wang-erde-qiyi-gushiji-yong-zui-hui-sahuang-de-zuichun-qinwen-tianshi-545332195",
+          "show": "蜜獾吃书",
+          "title": "10.王尔德奇异故事集：用最会撒谎的嘴唇亲吻天使",
+          "url": "/wiki/sources/10-wang-erde-qiyi-gushiji-yong-zui-hui-sahuang-de-zuichun-qinwen-tianshi-545332195/"
+        },
+        {
+          "episode_file": "GLT5549466795 [GLT5549466795].md",
+          "key": "342-the-trials-of-oscar-wilde-downfall-and-prison-part-2-glt5549466795",
+          "show": "The Rest Is History",
+          "title": "342: The Trials of Oscar Wilde: Downfall and Prison (Part 2)",
+          "url": "/wiki/sources/342-the-trials-of-oscar-wilde-downfall-and-prison-part-2-glt5549466795/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/alfreddouglas/"
+    },
     "AlfredTerry": {
       "episode_count": 1,
       "show_count": 1,
@@ -24426,9 +24449,9 @@
       "url": "/wiki/concepts/celebritycostumeportraiture/"
     },
     "CelebrityFolkDevilMoralPanic": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT1390188077 [GLT1390188077].md",
@@ -24443,9 +24466,16 @@
           "show": "The Rest Is History",
           "title": "558. The Rolling Stones: Sex, Drugs and Rock ‘n’ Roll (Part 1)",
           "url": "/wiki/sources/558-the-rolling-stones-sex-drugs-and-rock-n-roll-part-1-glt1663902020/"
+        },
+        {
+          "episode_file": "GLT5549466795 [GLT5549466795].md",
+          "key": "342-the-trials-of-oscar-wilde-downfall-and-prison-part-2-glt5549466795",
+          "show": "The Rest Is History",
+          "title": "342: The Trials of Oscar Wilde: Downfall and Prison (Part 2)",
+          "url": "/wiki/sources/342-the-trials-of-oscar-wilde-downfall-and-prison-part-2-glt5549466795/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/celebrityfolkdevilmoralpanic/"
     },
     "CelebrityLedMarketEntry": {
@@ -38648,6 +38678,29 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/entities/dbt/"
+    },
+    "DeProfundis": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "10.王尔德奇异故事集：用最会撒谎的嘴唇亲吻天使 [545332195].md",
+          "key": "10-wang-erde-qiyi-gushiji-yong-zui-hui-sahuang-de-zuichun-qinwen-tianshi-545332195",
+          "show": "蜜獾吃书",
+          "title": "10.王尔德奇异故事集：用最会撒谎的嘴唇亲吻天使",
+          "url": "/wiki/sources/10-wang-erde-qiyi-gushiji-yong-zui-hui-sahuang-de-zuichun-qinwen-tianshi-545332195/"
+        },
+        {
+          "episode_file": "GLT5549466795 [GLT5549466795].md",
+          "key": "342-the-trials-of-oscar-wilde-downfall-and-prison-part-2-glt5549466795",
+          "show": "The Rest Is History",
+          "title": "342: The Trials of Oscar Wilde: Downfall and Prison (Part 2)",
+          "url": "/wiki/sources/342-the-trials-of-oscar-wilde-downfall-and-prison-part-2-glt5549466795/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/deprofundis/"
     },
     "DeRoyalizationRitual": {
       "episode_count": 2,
@@ -118427,6 +118480,36 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/concepts/orthokeratologymyopiacontrol/"
+    },
+    "OscarWilde": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "60.闲聊伟大作家们的八卦（第一弹） [648693204].md",
+          "key": "60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204",
+          "show": "蜜獾吃书",
+          "title": "60.闲聊伟大作家们的八卦（第一弹）",
+          "url": "/wiki/sources/60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204/"
+        },
+        {
+          "episode_file": "10.王尔德奇异故事集：用最会撒谎的嘴唇亲吻天使 [545332195].md",
+          "key": "10-wang-erde-qiyi-gushiji-yong-zui-hui-sahuang-de-zuichun-qinwen-tianshi-545332195",
+          "show": "蜜獾吃书",
+          "title": "10.王尔德奇异故事集：用最会撒谎的嘴唇亲吻天使",
+          "url": "/wiki/sources/10-wang-erde-qiyi-gushiji-yong-zui-hui-sahuang-de-zuichun-qinwen-tianshi-545332195/"
+        },
+        {
+          "episode_file": "GLT5549466795 [GLT5549466795].md",
+          "key": "342-the-trials-of-oscar-wilde-downfall-and-prison-part-2-glt5549466795",
+          "show": "The Rest Is History",
+          "title": "342: The Trials of Oscar Wilde: Downfall and Prison (Part 2)",
+          "url": "/wiki/sources/342-the-trials-of-oscar-wilde-downfall-and-prison-part-2-glt5549466795/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/oscarwilde/"
     },
     "OsorioDuqueEstrada": {
       "episode_count": 1,

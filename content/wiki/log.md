@@ -24431,3 +24431,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | 342: The Trials of Oscar Wilde: Downfall and Prison (Part 2)
+
+Added source `342-the-trials-of-oscar-wilde-downfall-and-prison-part-2-glt5549466795`; updated `OscarWilde`, `AlfredDouglas`, `DeProfundis`, `CelebrityFolkDevilMoralPanic`, and the canonical index from their complete bounded source sets. Core synthesis: Wilde's conviction under an unjust sexual regime and ferocious public hostility coexist with pockets of legal, political, and custodial sympathy, while age and class asymmetries remain morally relevant; his celebrity prosecution also helped give Britain's public idea of homosexuality a durable Wilde-shaped form. No settled contradiction was adopted. Prosecutorial motives, witness credibility, consent, prison treatment, private relationships, and the long-term cultural effects remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

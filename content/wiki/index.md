@@ -3085,6 +3085,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [347: The American Revolution (Part 1)](sources/347-the-american-revolution-part-1-glt3042850673.md) — The Rest Is History episode on the Seven Years' War settlement, imperial debt and frontier security, constitutional mismatch, colonial resistance, and the Boston Massacre.
 - [昂跑签下姆巴佩之后，跑鞋品牌做足球生意还有哪些难题？](sources/angpao-qianxia-mubapei-zhihou-paoxie-pinpai-zuo-zuqiu-shengyi-haiyou-naxie-nanti-1018738205.md) — 声动早咖啡 episode on On Running's Mbappe partnership, football-market entry barriers, Meta AI hardware, iQIYI medium-length dramas, and H&M cost pressure.
 - [How to Improve Your Eye Health & Offset Vision Loss | Dr. Jeffrey Goldberg](sources/how-to-improve-your-eye-health-offset-vision-loss-dr-jeffrey-goldberg-scim5633963628.md) — Huberman Lab interview on visual development, prevention, optical correction, contact and dry-eye care, silent eye disease, treatment adherence, and emerging-intervention boundaries.
+- [342: The Trials of Oscar Wilde: Downfall and Prison (Part 2)](sources/342-the-trials-of-oscar-wilde-downfall-and-prison-part-2-glt5549466795.md) — The Rest Is History episode on Wilde's criminal trials, imprisonment, establishment sympathy, unequal-status relationships, exile, and queer cultural afterlife.
 
 ## Entities
 - [Cockpunch](entities/Cockpunch.md) — Tim Ferriss creative project combining emergent fiction, illustration, digital experiments, philanthropy, and public creative risk.
@@ -12063,13 +12064,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jeremy Clarkson](entities/JeremyClarkson.md) — British media figure whose novice-farmer failures in Clarkson's Farm make farm skill, environmental costs, livestock, and public speech limits visible.
 - [《克拉克森的农场》 / Clarkson's Farm](entities/ClarksonsFarm.md) — Television/book case used by episode 62 to connect farming, machinery, livestock, crop policy, land management, and environmental tradeoffs.
 - [Royal Society for the Protection of Birds](entities/RoyalSocietyForProtectionOfBirds.md) — Bird-conservation organization appearing through the garden birdwatch citizen-science activity in the Clarkson farm episode.
-- [Oscar Wilde / 王尔德](entities/OscarWilde.md) — Writer used by episodes 60 and 10 to connect aesthetic self-fashioning, sexual persecution, social performance, aphoristic craft, story-level black comedy, and posthumous reputation change.
+- [Oscar Wilde / 王尔德](entities/OscarWilde.md) — Writer whose aesthetics, trials, imprisonment, unequal-status relationships, and queer cultural afterlife resist both martyr-only and scandal-only readings.
 - [《王尔德奇异故事集》 / Wilde Strange Stories](entities/WildeStrangeStories.md) — Wilde story collection read through black comedy, ghost-story tenderness, forged-evidence obsession, life imitating art, and art against moral instruction.
 - [《阿瑟·萨维尔勋爵的罪行》 / Lord Arthur Savile's Crime](entities/LordArthurSavilesCrime.md) — Wilde story where murder is treated as a responsible premarital duty, making respectable moral logic absurd.
 - [《W.H.先生的画像》 / The Portrait of Mr. W.H.](entities/ThePortraitOfMrWH.md) — Wilde story about Shakespeare-sonnet interpretation, forged evidence, self-persuasion, and the contagious beauty of a theory.
 - [《坎特维尔的幽灵》 / The Canterville Ghost](entities/TheCantervilleGhost.md) — Wilde ghost story read as Anglo-American cultural comedy that turns haunting into practical nuisance and eventual tenderness.
-- [《自深深处》 / De Profundis](entities/DeProfundis.md) — Wilde prison letter used by episode 10 to connect Alfred Douglas, love, money, creative exhaustion, legal disaster, and author myth deflation.
-- [Lord Alfred Douglas / 波西](entities/AlfredDouglas.md) — Wilde's lover in the episode's account of 《自深深处》, financial/emotional strain, and the legal conflict that led to Wilde's imprisonment.
+- [《自深深处》 / De Profundis](entities/DeProfundis.md) — Wilde prison letter joining accusation, attachment, dependency, punishment, and the limited custodial kindness that enabled its composition.
+- [Lord Alfred Douglas / 波西](entities/AlfredDouglas.md) — Wilde's lover and prison-letter addressee, marked by legal conflict, post-release reunion, and a later reversal against homosexuality.
 - [Andre Gide / 安德烈·纪德](entities/AndreGide.md) — Writer whose memory of Wilde's oral storytelling helps episode 10 connect social performance, rhythm, aphorism, and life imitating art.
 - [《道连·格雷的画像》 / The Picture of Dorian Gray](entities/ThePictureOfDorianGray.md) — Wilde novel invoked by episode 10 as an example of aphoristic density and the tension between brilliant sentences and work-level unity.
 - [《快乐王子》 / The Happy Prince](entities/TheHappyPrince.md) — Familiar Wilde fairy tale used as a sad sacrificial-beauty contrast to the black-comic and ghost-story range of 《王尔德奇异故事集》.
@@ -15018,7 +15019,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Self-Directed State Shifting](concepts/SelfDirectedStateShifting.md) — Proactive and reactive practices for changing state without relying on the addictive object.
 - [Manufactured Rebellion Branding](concepts/ManufacturedRebellionBranding.md) — Deliberate construction of oppositional identity through appearance, behavior, publicity, and contrast with a respectable competitor.
 - [Postwar Teenage Consumer Market](concepts/PostwarTeenageConsumerMarket.md) — Youth market formed through discretionary income, leisure venues, media, playback technology, and shared generational identity.
-- [Celebrity Folk-Devil Moral Panic](concepts/CelebrityFolkDevilMoralPanic.md) — Process by which a famous target makes limited conduct symbolize a broad social threat.
+- [Celebrity Folk-Devil Moral Panic](concepts/CelebrityFolkDevilMoralPanic.md) — Process by which a famous target condenses wider fears and may reshape how a stigmatized identity is publicly imagined.
 - [Pop-to-Album-Rock Transition](concepts/PopToAlbumRockTransition.md) — Late-1960s shift toward serious listening, albums, virtuosity, adult identity, and higher-value rock markets.
 - [Visual System Health Toolkit](concepts/VisualSystemHealthToolkit.md) — Framework joining outdoor light, varied viewing distance, smooth pursuit, accommodation, binocular balance, systemic health, and qualified eye care.
 - [Protein Source Goal Matching](concepts/ProteinSourceGoalMatching.md) — Matches protein amino-acid profile, bioavailability, tolerance, and format to muscle, skin, convenience, or dietary goals.

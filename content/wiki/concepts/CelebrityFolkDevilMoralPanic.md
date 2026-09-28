@@ -1,57 +1,62 @@
 ---
 title: "Celebrity Folk-Devil Moral Panic"
 type: concept
-tags: [media, celebrity, moral-panic, youth-culture]
+tags: [media, celebrity, moral-panic, sexuality, youth-culture]
 sources:
   - 559-the-rolling-stones-satanic-majesties-of-sixties-rebellion-part-2-glt1390188077
   - 558-the-rolling-stones-sex-drugs-and-rock-n-roll-part-1-glt1663902020
+  - 342-the-trials-of-oscar-wilde-downfall-and-prison-part-2-glt5549466795
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-21
+last_updated: 2026-09-28
 ---
 
 # Celebrity Folk-Devil Moral Panic
 
 ## Definition
 
-Celebrity folk-devil moral panic is the process by which a famous person or group becomes a simplified carrier for diffuse social fears, so limited conduct is interpreted as proof of a broader threat to order, family, class, youth, or national culture.
+Celebrity folk-devil moral panic is the process by which a famous person or group becomes a simplified carrier for diffuse social fears, so specific conduct is interpreted as proof of a broader threat to order, family, class, sexuality, youth, art, or national culture.
 
 ## Current Synthesis
 
-The Rolling Stones case begins before [[RedlandsDrugCase|Redlands]]. [[ManufacturedRebellionBranding|Deliberate anti-Beatles positioning]] made hair, rudeness, racialized R&B coverage, television appearances, and minor public misconduct carry anxieties about youth affluence, sexuality, parenting, and social order. Redlands then shows amplification rather than invention: drugs were present, but celebrity and an established threat image made a raid, country house, and small quantities symbolize much more.
+The Rolling Stones case shows image prehistory and later amplification. [[ManufacturedRebellionBranding|Deliberate anti-Beatles positioning]] made hair, rudeness, racialized R&B coverage, television appearances, and minor public misconduct carry anxieties about youth affluence, sexuality, parenting, and social order. [[RedlandsDrugCase|Redlands]] did not invent that threat image: real drug possession was enlarged by celebrity, class setting, press mythology, policing, and punishment into a symbolic national conflict.
 
-The mechanism needs no coordinated conspiracy. Tabloid rivalry, police opportunity, judicial discretion, public prejudice, storytelling, and audience demand can converge. Counterforces may arise inside “the establishment,” as *The Times* defended equal treatment and appellate courts reduced punishment.
+The [[OscarWilde|Oscar Wilde]] case extends the mechanism beyond modern youth branding. His artistic celebrity, aestheticism, male same-sex relationships, specific criminal allegations, class-crossing encounters, and anxieties about decadence were compressed into a public image that helped make homosexuality itself appear “Wilde-shaped.” A folk devil can therefore alter identity categories as well as intensify one scandal.
+
+Neither case requires a coordinated establishment conspiracy. Press competition, public prejudice, political fear, police or prosecutorial opportunity, judicial discretion, storytelling, and audience demand can converge, while judges, newspapers, politicians, prison officials, and other insiders may still resist or soften the result.
 
 ## Key Claims
 
-- Existing celebrity images shape interpretation of ambiguous or minor facts.
-- Branding can prepare the symbolic target that later panic amplifies.
-- Moral panic condenses multiple anxieties into a legible target.
-- Respectable settings can heighten scandal when apparent outsiders occupy them.
-- Institutions can amplify one another without explicit coordination.
-- Reaction rarely divides cleanly by generation or establishment status.
-- Correcting punishment does not dissolve the cultural image.
+- Existing celebrity images shape interpretation before the decisive scandal arrives.
+- Branding may deliberately construct the threatening image, but cultural prejudice can also build one around a target.
+- Moral panic condenses multiple anxieties into a legible person or group.
+- Specific wrongdoing and symbolic overreach can coexist; one does not disprove the other.
+- Class crossing and apparently respectable settings can heighten scandal.
+- Institutions can amplify one another without explicit coordination or uniform motives.
+- Counterforces may arise within the same establishment blamed for persecution.
 
 ## Evidence
 
-- Prehistory of the folk devil: [[558-the-rolling-stones-sex-drugs-and-rock-n-roll-part-1-glt1663902020]] links image strategy, hair, television complaint, racialized coverage, and the service-station case.
-- Image and amplification: [[559-the-rolling-stones-satanic-majesties-of-sixties-rebellion-part-2-glt1390188077]] links press mythology, drugs, country houses, youth, and celebrity.
-- Distributed enforcement: [[559-the-rolling-stones-satanic-majesties-of-sixties-rebellion-part-2-glt1390188077]] presents tabloid, police, magistrate, newspaper, appeal, and public roles without a government plot.
-- Mixed response: [[559-the-rolling-stones-satanic-majesties-of-sixties-rebellion-part-2-glt1390188077]] notes establishment criticism and youth support for punishment.
+- Image prehistory: [[558-the-rolling-stones-sex-drugs-and-rock-n-roll-part-1-glt1663902020]] links deliberate branding, hair, television complaint, racialized coverage, and minor misconduct to a ready-made youth threat.
+- Modern scandal amplification: [[559-the-rolling-stones-satanic-majesties-of-sixties-rebellion-part-2-glt1390188077]] links drugs, celebrity, class-coded settings, prosecution, press mythology, and mixed public reaction.
+- Victorian sexuality and aestheticism: [[342-the-trials-of-oscar-wilde-downfall-and-prison-part-2-glt5549466795]] shows Wilde's celebrity and case carrying wider fears about decadence, same-sex desire, class, predation, and politics.
+- Non-monolithic institutions: the Stones source records newspaper and appellate resistance, while [[342-the-trials-of-oscar-wilde-downfall-and-prison-part-2-glt5549466795]] records sympathy among some judges, politicians, prison officials, and warders.
 
 ## Counterevidence & Qualifications
 
-The concept does not make every early complaint or later offence imaginary, deny possession, collapse Fraser's heroin case into the others, or assume every adverse response was irrational. Claims about retaliation, prejudice, audience demographics, social anxiety, and surveys require broader primary evidence before generalization.
+The concept does not make underlying conduct imaginary, settle contested testimony, or turn every famous defendant into an innocent martyr. The Stones possessed drugs; Wilde was convicted under the law then in force, and the episode preserves concerns about younger and poorer men. “Moral panic” identifies symbolic amplification and social condensation, not a substitute verdict on each allegation. Claims about prejudice, political motive, public opinion, institutional coordination, and long-term identity effects require broader primary evidence before generalization.
 
 ## What Changed
 
-- Added the band's image-making and early controversy as the prehistory that made Redlands legible as a larger threat.
+- Extended the concept from manufactured youth rebellion to a Victorian literary-sexuality case.
+- Added identity-category formation: a famous defendant can shape how a stigmatized group is publicly imagined.
+- Strengthened the distinction between real conduct, unjust law or punishment, and symbolic amplification.
+- Added internal institutional sympathy as evidence against treating “the establishment” as a single actor.
 
 ## Related Concepts
 
-- [[RedlandsDrugCase]] - primary case of celebrity-driven amplification.
-- [[TheRollingStones]] - group cast as a threat to respectable order.
-- [[MickJagger]] - individual central to punishment and defense.
-- [[KeithRichards]] - homeowner sharpening the class symbolism.
-- [[AltamontFreeConcert]] - later event with real violence and wider symbolism.
-- [[ManufacturedRebellionBranding]] - preceding process that deliberately constructed the threatening image.
-- [[PostwarTeenageConsumerMarket]] - audience formation that made generational conflict commercially valuable.
+- [[RedlandsDrugCase]] - modern drug case showing celebrity-driven amplification.
+- [[TheRollingStones]] - group deliberately branded as a threat to respectable order.
+- [[ManufacturedRebellionBranding]] - process that commercially constructed one folk-devil image.
+- [[OscarWilde]] - Victorian celebrity whose prosecution fused aesthetics, sexuality, class, and criminality.
+- [[AuthorMythDeflation]] - adjacent discipline resisting both martyr-only and scandal-only biography.
+- [[StructuralPowerImbalance]] - ethical frame that remains necessary even when public reaction is disproportionate.
