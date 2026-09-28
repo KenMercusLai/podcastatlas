@@ -117347,9 +117347,9 @@
       "url": "/wiki/concepts/neuromodulatorstatetoolkit/"
     },
     "Neuroplasticity": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 3,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "用 AI 让我们变笨了吗？｜ S10E25 [a6b360da-07f7-4d9e-ab1b-64a7130e9254].md",
@@ -117399,9 +117399,16 @@
           "show": "Huberman Lab",
           "title": "Ketamine: Benefits and Risks for Depression, PTSD & Neuroplasticity",
           "url": "/wiki/sources/ketamine-benefits-risks-for-depression-ptsd-neuroplasticity-scim3757014952/"
+        },
+        {
+          "episode_file": "SCIM8168511614 [SCIM8168511614].md",
+          "key": "how-psilocybin-can-rewire-our-brain-its-therapeutic-benefits-its-risks-scim8168511614",
+          "show": "Huberman Lab",
+          "title": "How Psilocybin Can Rewire Our Brain, Its Therapeutic Benefits & Its Risks",
+          "url": "/wiki/sources/how-psilocybin-can-rewire-our-brain-its-therapeutic-benefits-its-risks-scim8168511614/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/neuroplasticity/"
     },
     "NeurorestorativeStrokeRecovery": {
@@ -132468,10 +132475,40 @@
       "updated": "2026-09-26",
       "url": "/wiki/concepts/pseudoproductivity/"
     },
+    "PsilocybinMushrooms": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_b26d4f668893516a09311bf1740fc9f5_33073298 [default.mp3_ywr3ahjkcgo_b26d4f668893516a09311bf1740fc9f5_33073298].md",
+          "key": "a-trip-to-the-magic-mushroom-megachurch",
+          "show": "Planet Money",
+          "title": "A trip to the magic mushroom megachurch",
+          "url": "/wiki/sources/a-trip-to-the-magic-mushroom-megachurch/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Bryan Johnson： I Just Took the Most Powerful Dose of DMT in the World... Here's What It Was Like [40626165].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-bryan-johnson-i-just-took-the-most-powerful-dose-of-dmt-in-the-world-heres-what-it-was-like-40626165",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Bryan Johnson: I Just Took the Most Powerful Dose of DMT in the World... Here's What It Was Like",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-bryan-johnson-i-just-took-the-most-powerful-dose-of-dmt-in-the-world-heres-what-it-was-like-40626165/"
+        },
+        {
+          "episode_file": "SCIM8168511614 [SCIM8168511614].md",
+          "key": "how-psilocybin-can-rewire-our-brain-its-therapeutic-benefits-its-risks-scim8168511614",
+          "show": "Huberman Lab",
+          "title": "How Psilocybin Can Rewire Our Brain, Its Therapeutic Benefits & Its Risks",
+          "url": "/wiki/sources/how-psilocybin-can-rewire-our-brain-its-therapeutic-benefits-its-risks-scim8168511614/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/psilocybinmushrooms/"
+    },
     "PsychedelicClinicalSupervisionBoundary": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "SCIM5296180263 [SCIM5296180263].md",
@@ -132514,15 +132551,22 @@
           "show": "Huberman Lab",
           "title": "The Science of Psychedelics for Mental Health | Dr. Robin Carhart-Harris",
           "url": "/wiki/sources/the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019/"
+        },
+        {
+          "episode_file": "SCIM8168511614 [SCIM8168511614].md",
+          "key": "how-psilocybin-can-rewire-our-brain-its-therapeutic-benefits-its-risks-scim8168511614",
+          "show": "Huberman Lab",
+          "title": "How Psilocybin Can Rewire Our Brain, Its Therapeutic Benefits & Its Risks",
+          "url": "/wiki/sources/how-psilocybin-can-rewire-our-brain-its-therapeutic-benefits-its-risks-scim8168511614/"
         }
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/psychedelicclinicalsupervisionboundary/"
     },
     "PsychedelicIntegration": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM8487331019 [SCIM8487331019].md",
@@ -132530,6 +132574,13 @@
           "show": "Huberman Lab",
           "title": "The Science of Psychedelics for Mental Health | Dr. Robin Carhart-Harris",
           "url": "/wiki/sources/the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019/"
+        },
+        {
+          "episode_file": "SCIM8168511614 [SCIM8168511614].md",
+          "key": "how-psilocybin-can-rewire-our-brain-its-therapeutic-benefits-its-risks-scim8168511614",
+          "show": "Huberman Lab",
+          "title": "How Psilocybin Can Rewire Our Brain, Its Therapeutic Benefits & Its Risks",
+          "url": "/wiki/sources/how-psilocybin-can-rewire-our-brain-its-therapeutic-benefits-its-risks-scim8168511614/"
         }
       ],
       "updated": "2026-09-28",
@@ -132552,9 +132603,9 @@
       "url": "/wiki/concepts/psychedelicordinaryfreedom/"
     },
     "PsychedelicTherapyMechanism": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM8487331019 [SCIM8487331019].md",
@@ -132562,6 +132613,13 @@
           "show": "Huberman Lab",
           "title": "The Science of Psychedelics for Mental Health | Dr. Robin Carhart-Harris",
           "url": "/wiki/sources/the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019/"
+        },
+        {
+          "episode_file": "SCIM8168511614 [SCIM8168511614].md",
+          "key": "how-psilocybin-can-rewire-our-brain-its-therapeutic-benefits-its-risks-scim8168511614",
+          "show": "Huberman Lab",
+          "title": "How Psilocybin Can Rewire Our Brain, Its Therapeutic Benefits & Its Risks",
+          "url": "/wiki/sources/how-psilocybin-can-rewire-our-brain-its-therapeutic-benefits-its-risks-scim8168511614/"
         }
       ],
       "updated": "2026-09-28",

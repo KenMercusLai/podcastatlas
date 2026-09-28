@@ -9,6 +9,7 @@ sources:
   - how-to-learn-better-create-your-best-future-tim-ferriss-scim6518415604
   - the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449
   - the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019
+  - how-psilocybin-can-rewire-our-brain-its-therapeutic-benefits-its-risks-scim8168511614
 knowledge_schema: synthesis-v1
 last_updated: 2026-09-28
 ---
@@ -33,6 +34,8 @@ The MDMA source supplies the clearest contrast between a clinical program and re
 
 Carhart-Harris adds a classic-psychedelic therapy case. The source treats preparation, rapport, eye masks, music, two guides, willingness to let go, and [[PsychedelicIntegration]] as possible parts of the intervention while reporting acute anxiety, difficult material, relapse, restricted post-trial access, street-product contamination, and practitioner boundary violations. Promising results therefore increase rather than remove the need for trained providers, emergency procedures, evidence calibration, and durable follow-up.
 
+The solo psilocybin episode makes eligibility and dose-response limits more explicit. It flags psychosis or bipolar vulnerability, close family history, younger age, pregnancy or breastfeeding, serotonergic medication, acute increases in heart rate and blood pressure, hazardous environments, and the need for sober trained guides. It also pairs stronger benefit at a higher dose in one depression trial with more adverse events, including suicidal ideation and self-harm-related concerns, so average efficacy cannot substitute for individual screening and monitoring.
+
 ## Key Claims
 - Psychedelics are potential psychiatric tools only when condition-specific evidence supports them.
 - Strong changes to cognition, memory, physiology, self-evaluation, or perceived reality make casual use a poor clinical analogy.
@@ -52,6 +55,7 @@ Carhart-Harris adds a classic-psychedelic therapy case. The source treats prepar
 - Lived-risk and infrastructure context - [[how-to-learn-better-create-your-best-future-tim-ferriss-scim6518415604]] pairs reported benefit and an unsafe experience with later support for supervised research, therapist training, and policy infrastructure.
 - Clinical-versus-recreational contrast - [[the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449]] pairs structured MDMA-assisted PTSD therapy with contamination, overheating, cardiovascular, dose, frequency, caffeine, and polydrug cautions.
 - Classic-psychedelic protocol and durability - [[the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019]] pairs supported psilocybin sessions and integration with acute distress, relapse, unpublished findings, legal barriers, contamination, and professional-conduct safeguards.
+- Psilocybin eligibility and dose-response - [[how-psilocybin-can-rewire-our-brain-its-therapeutic-benefits-its-risks-scim8168511614]] pairs psychiatric, age, pregnancy, medication, physiological, environmental, and legal cautions with dose-dependent benefit and adverse-event signals.
 
 ## Counterevidence & Qualifications
 This concept is a safety boundary, not a claim that psychedelics are broadly approved, safe for all people, legal in all contexts, non-addictive, or superior to standard psychiatric care. Personal histories of depression, benefit, fear, or transformation cannot determine another person's eligibility. Trial claims, legal status, regulatory progress, relapse, and provider standards must be interpreted in their publication-date context. The page does not provide dosing, sourcing, ceremony, or self-treatment instructions; screening, contraindication, emergency, and follow-up decisions belong in qualified clinical and legal contexts.
@@ -60,6 +64,7 @@ This concept is a safety boundary, not a claim that psychedelics are broadly app
 - Added the MDMA case showing that positive clinical evidence depends on product identity, participant selection, psychotherapy, monitoring, and integration.
 - Made heat, contamination, caffeine, cardiovascular strain, and polydrug exposure explicit clinical-versus-recreational boundaries.
 - Added the classic-psychedelic case showing that setting, guides, acute distress, integration, relapse, and professional conduct are parts of the safety boundary.
+- Added psilocybin-specific eligibility, medication, pregnancy, age, physiological, environmental, and dose-response constraints.
 
 ## Related Concepts
 - [[PsychiatricMedicationSupervisionBoundary]] - broader psychiatric treatment supervision rule updated by this episode.

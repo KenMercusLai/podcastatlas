@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1294
+topic_total_pages: 1295
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -3627,6 +3627,9 @@ topic_sources:
   - key: "how-placebo-effects-work-to-change-our-biology-psychology-scim2208611274"
     title: "How Placebo Effects Work to Change Our Biology & Psychology"
     url: "/wiki/sources/how-placebo-effects-work-to-change-our-biology-psychology-scim2208611274/"
+  - key: "how-psilocybin-can-rewire-our-brain-its-therapeutic-benefits-its-risks-scim8168511614"
+    title: "How Psilocybin Can Rewire Our Brain, Its Therapeutic Benefits & Its Risks"
+    url: "/wiki/sources/how-psilocybin-can-rewire-our-brain-its-therapeutic-benefits-its-risks-scim8168511614/"
   - key: "how-relationships-shape-your-brain-dr-allan-schore-scim1947263719"
     title: "How Relationships Shape Your Brain | Dr. Allan Schore"
     url: "/wiki/sources/how-relationships-shape-your-brain-dr-allan-schore-scim1947263719/"

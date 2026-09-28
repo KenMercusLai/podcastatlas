@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How Psilocybin Can Rewire Our Brain, Its Therapeutic Benefits & Its Risks](sources/how-psilocybin-can-rewire-our-brain-its-therapeutic-benefits-its-risks-scim8168511614.md) — Huberman Lab solo episode on psilocybin pharmacology, structured therapeutic context, adaptive neuroplasticity, depression evidence, contraindications, and supervision.
 - [VOL.44献礼护士节｜与协和医院护师对谈临终关怀中的“身、心、社、灵”](sources/vol-44-xianli-hushijie-yu-xiehe-yiyuan-hushi-duitan-linzhong-guanhuai-zhong-de-shen-xin-she-ling-luernzy5tf_brgkkrkc4nw0fgmog.md) — 这病说来话长 episode on nursing, hospice goals, DNR, symptom relief, family communication, and whole-person end-of-life care.
 - [331: American Witches](sources/331-american-witches-glt9152886733.md) — The Rest Is History episode on Springfield, Puritan settlement, the Parsons household, witchcraft's social ecology, and belief coexisting with judicial skepticism.
 - [What Humans, Animals and Plants Tell Us About Consciousness | Michael Pollan](sources/what-humans-animals-and-plants-tell-us-about-consciousness-michael-pollan-scim4063268713.md) — Huberman Lab conversation on plant perception, embodied consciousness, ego dissolution, AI, food-system reform, psychedelic safeguards, and contextual caffeine use.

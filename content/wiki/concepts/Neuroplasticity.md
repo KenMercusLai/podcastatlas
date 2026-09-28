@@ -10,8 +10,9 @@ sources:
   - optimal-protocols-for-studying-learning-scim3722040660
   - how-to-improve-brain-health-offset-neurodegeneration-dr-gary-steinberg-scim3649091801
   - ketamine-benefits-risks-for-depression-ptsd-neuroplasticity-scim3757014952
+  - how-psilocybin-can-rewire-our-brain-its-therapeutic-benefits-its-risks-scim8168511614
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-25
+last_updated: 2026-09-28
 ---
 
 # Neuroplasticity / 神经可塑性
@@ -27,6 +28,8 @@ The motor-learning episode makes the practice loop more concrete: safe repetitio
 The Steinberg episode adds a post-injury branch. Plasticity can allow surviving circuits to assume functions after stroke or traumatic injury, while rehabilitation supplies task demand and feedback. Experimental cells may support the recovery environment through signaling rather than becoming replacement neurons, and paired stimulation may amplify therapy in selected patients; neither turns plasticity into automatic regeneration.
 
 The ketamine episode adds a pharmacological branch without creating a "plasticity drug" shortcut. NMDA blockade on inhibitory neurons is proposed to disinhibit excitatory burst firing, which may recruit [[BrainDerivedNeurotrophicFactor]] and later circuit change. Opioid signaling, TrkB-related effects, altered rhythms, and post-treatment behavior may also contribute, so the acute dissociative state is not treated as identical to the longer-term antidepressant process.
+
+The psilocybin episode adds the clearest value boundary: plasticity is change, not necessarily improvement. It describes animal dendritic-spine growth and human network-flexibility findings as plausible bridges to longer-lasting effects, but says dose, set and setting, music, guidance, psychotherapy, and integration help determine whether a temporary window becomes adaptive. Hallucination or mystical intensity therefore cannot stand in for improved functioning.
 
 Plasticity is therefore supported by repeated, sufficiently challenging stimulation, recovery, diet, movement, and meaningful feedback. It is weakened when tools remove the search, recall, comparison, and correction work that trains the system. It also should not be inflated into a universal intervention claim: there is no "plasticity pill," psychedelic evidence remains unsettled, and concussion or clinical recovery belongs inside medical guidance.
 
@@ -51,6 +54,7 @@ Plasticity is therefore supported by repeated, sufficiently challenging stimulat
 - Post-injury reorganization - [[how-to-improve-brain-health-offset-neurodegeneration-dr-gary-steinberg-scim3649091801]] describes surviving circuits taking over function after stroke or injury and pairs that possibility with physical and constraint-based rehabilitation.
 - Regeneration boundary - [[how-to-improve-brain-health-offset-neurodegeneration-dr-gary-steinberg-scim3649091801]] says experimental stem cells are proposed to work mainly through secreted factors, vascular and repair support, and immune modulation rather than direct replacement of lost neurons.
 - Ketamine branch - [[ketamine-benefits-risks-for-depression-ptsd-neuroplasticity-scim3757014952]] links disinhibition and burst firing to BDNF/TrkB-related change while separating acute dissociation from later antidepressant benefit.
+- Psilocybin adaptive-change branch - [[how-psilocybin-can-rewire-our-brain-its-therapeutic-benefits-its-risks-scim8168511614]] links serotonin 2A activity, dendritic-spine findings, and network integration to a temporary change window while making later functioning, context, and follow-up the value test.
 
 ## Counterevidence & Qualifications
 The evidence does not imply that every difficult activity transfers broadly, that more repetitions are always better, that meditation, NSDR, caffeine, or brief pauses reliably improve every kind of learning, that psychedelics or ketamine create durable beneficial change, or that plasticity can be pursued without safety, sleep, recovery, or medical context. Plasticity can include pruning and weakening connections, so change is not automatically improvement. The learning episodes' replay and sleep mechanisms, the Steinberg episode's recovery mechanisms, and the ketamine episode's BDNF, TrkB, opioid, rhythm, dose, and behavior claims remain source-scoped.
@@ -58,6 +62,7 @@ The evidence does not imply that every difficult activity transfers broadly, tha
 ## What Changed
 - Added a ketamine branch in which disinhibition and BDNF-related signaling may open a temporary change window.
 - Separated acute dissociation from proof of durable or beneficial plasticity.
+- Added psilocybin evidence and made adaptive outcome, not change alone, the explicit value criterion.
 
 ## Related Concepts
 - [[MultimodalAdultNeuroplasticity]] - adult practice branch built around embodied, social, and cognitively rich challenge.

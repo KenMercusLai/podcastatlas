@@ -4,6 +4,7 @@ type: concept
 tags: [psychedelics, psychotherapy, neuroscience, mental-health]
 sources:
   - the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019
+  - how-psilocybin-can-rewire-our-brain-its-therapeutic-benefits-its-risks-scim8168511614
 knowledge_schema: synthesis-v1
 last_updated: 2026-09-28
 ---
@@ -14,9 +15,11 @@ last_updated: 2026-09-28
 Psychedelic therapy mechanism is the combined biological, experiential, relational, and learning process through which a psychedelic-assisted intervention might produce mental-health change.
 
 ## Current Synthesis
-The source rejects a molecule-only explanation. Classic psychedelics act at serotonin 2A receptors and can increase cross-network communication, but [[RobinCarhartHarris]] argues that the acute experience may also matter: difficult memories or emotions can become conscious, resistance may soften, and insight or emotional release may occur inside a supported relationship and carefully structured setting.
+The sources reject a molecule-only explanation. Classic psychedelics act at serotonin 2A receptors and can increase cross-network communication, but [[RobinCarhartHarris]] argues that the acute experience may also matter: difficult memories or emotions can become conscious, resistance may soften, and insight or emotional release may occur inside a supported relationship and carefully structured setting.
 
 The proposed mechanism is therefore a sequence rather than one event. Preparation and rapport create enough trust to enter an intense state; reduced [[BrainNetworkModularity]] may accompany a temporarily less constrained repertoire; openness or surrender may permit new contact with previously avoided material; and [[PsychedelicIntegration]] may convert transient insight into durable learning. This overlaps with [[TherapeuticStateLearning]] and [[MemoryReconsolidationPsychiatry]] but does not establish that any particular receptor, network measure, mystical experience, or therapy component causes improvement.
+
+The solo psilocybin episode sharpens both biological and protocol layers. It connects psilocin to serotonin 2A receptors on cortical pyramidal neurons, broader thalamic sensory flow, reduced network hierarchy, cross-network communication, and dendritic-spine findings. It then makes [[Neuroplasticity|adaptive neuroplasticity]] the outcome criterion: visual intensity or plastic change alone is not therapeutic unless preparation, manageable anxiety, guides, music, psychotherapy, and follow-up help shape durable functioning.
 
 ## Key Claims
 - Serotonin 2A activation is relevant but does not exhaust the proposed therapeutic mechanism.
@@ -32,12 +35,16 @@ The proposed mechanism is therefore a sequence rather than one event. Preparatio
 - Combined intervention - [[the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019]] describes therapeutic rapport, guides, eye masks, music, surrender, openness, and difficult emotional material.
 - Network correlate - [[the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019]] reports increased global connectivity and reduced modularity during psilocybin, LSD, and DMT states, with qualified post-treatment correlations.
 - Learning and durability - [[the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019]] treats integration as ongoing practice and reports relapse in many treatment-resistant-depression participants after initial benefit.
+- Psilocybin mechanism stack - [[how-psilocybin-can-rewire-our-brain-its-therapeutic-benefits-its-risks-scim8168511614]] connects receptor action, pyramidal neurons, thalamic gating, network integration, subjective experience, music, guides, psychotherapy, and later learning.
+- Adaptive-change boundary - [[how-psilocybin-can-rewire-our-brain-its-therapeutic-benefits-its-risks-scim8168511614]] distinguishes vivid experience or plasticity from improved later functioning and pairs higher-dose benefit signals with adverse events.
 
 ## Counterevidence & Qualifications
-The source summarizes research rather than supplying full protocols, effect sizes, adverse-event tables, or primary papers. Several condition-specific and imaging findings were early, unpublished, or derived from one study. Music's role was described as standard but inadequately tested, and expectancy, blinding, therapist effects, participant selection, relapse, and access remain unresolved. This is a research framework, not a dosing, eligibility, sourcing, or self-treatment guide.
+The sources summarize research rather than supplying full protocols, effect sizes, adverse-event tables, or primary papers. Several condition-specific and imaging findings were early, unpublished, or derived from one study. Music's role was described as standard but inadequately tested, and expectancy, blinding, therapist effects, participant selection, relapse, and access remain unresolved. This is a research framework, not a dosing, eligibility, sourcing, or self-treatment guide.
 
 ## What Changed
-- Created a combined mechanism model spanning receptor action, network change, subjective experience, therapeutic context, and later learning.
+- Added a psilocybin-specific receptor-to-network account without reducing treatment to pharmacology.
+- Made adaptive rather than merely increased plasticity the mechanism's outcome criterion.
+- Added manageable anxiety, music contour, and controlled dose as candidate protocol components.
 
 ## Related Concepts
 - [[BrainNetworkModularity]] - candidate network-level correlate of acute flexibility.

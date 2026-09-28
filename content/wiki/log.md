@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-28] ingest | How Psilocybin Can Rewire Our Brain, Its Therapeutic Benefits & Its Risks
+
+Added source `how-psilocybin-can-rewire-our-brain-its-therapeutic-benefits-its-risks-scim8168511614`; updated `PsilocybinMushrooms`, `PsychedelicTherapyMechanism`, `PsychedelicIntegration`, `PsychedelicClinicalSupervisionBoundary`, `Neuroplasticity`, and the canonical index from their complete bounded source sets. Core synthesis: psilocybin is presented as a combined pharmacological, network, subjective, relational, and learning intervention in which plasticity is useful only when it becomes adaptive through screening, structured context, support, and follow-up. No settled contradiction was adopted. Receptor localization, thalamic gating, dendritic-spine findings, music effects, responder predictors, depression outcomes, dose comparisons, adverse events, and legal status remain source-scoped or historically bounded rather than individualized medical or legal guidance. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-28] ingest | 333: The Republic of Britain: Life under Cromwell
 
 Added source `333-the-republic-of-britain-life-under-cromwell-glt3360112790`; created `AnnaKeay`, `EnglishCommonwealth`, `CharlesIOfEngland`, `Diggers`, `GerardWinstanley`, `AnnaTrapnel`, `MarchamontNeedham`, `WilliamPetty`, `GeorgeMonck`, `AnneMonck`, `RichardCromwell`, `ArmyParliamentDualSovereignty`, `ProvidentialGovernanceFailure`, `ColonialSurveyDispossession`, and `RestorationContingency`; and updated `OliverCromwell`, `CharlesIIOfEngland`, `RepublicanFoundingWithoutSettlement`, `RegicideAsRepublicanFounding`, `IrishPlantation`, and the canonical index from their complete bounded source sets. Core synthesis: regicide abolished the old sovereign without settling authority between Parliament and army, Cromwell's sincere providential politics concentrated coercive power without institutionalizing succession, and the Irish survey joined scientific-administrative capacity to colonial dispossession. The Restoration was contingent rather than automatic. No settled contradiction was adopted. Cromwell's motives, popular constitutional preferences, atrocity classification, Anne Monck's influence, and the Henry-versus-Richard succession counterfactual remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten because the episode deepens an existing historical branch without changing the wiki-wide synthesis.
@@ -24647,6 +24651,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-28] ingest | VOL.44献礼护士节｜与协和医院护师对谈临终关怀中的“身、心、社、灵”
 
 Added source `vol-44-xianli-hushijie-yu-xiehe-yiyuan-hushi-duitan-linzhong-guanhuai-zhong-de-shen-xin-she-ling-luernzy5tf_brgkkrkc4nw0fgmog`; created `HeZhaokaiNurse`, `PekingUnionMedicalCollegeHospital`, `DoNotResuscitateDecision`, and `WholePersonEndOfLifeCare`; and updated `HospiceCare` from its complete bounded source set. Core synthesis: hospice actively reprioritizes treatment toward comfort and remaining-life quality without meaning abandonment, euthanasia, or automatic cessation of all disease-directed care; DNR is one revisable resuscitation-limit choice, while nursing joins symptom control to psychological, social, spiritual, family, and setting needs. No settled contradiction was adopted; the family reversal from DNR to intubation illustrates changing decisions under distress rather than a universal right answer, and operational clinical and legal details remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-28] lint | Wiki health check
 
