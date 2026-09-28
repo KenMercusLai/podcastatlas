@@ -28619,6 +28619,10 @@
     "title": "Gaston Browne",
     "url": "/wiki/entities/gastonbrowne/"
   },
+  "GastrointestinalEndoscopyScreening": {
+    "title": "Gastrointestinal Endoscopy Screening / 胃肠镜筛查",
+    "url": "/wiki/concepts/gastrointestinalendoscopyscreening/"
+  },
   "GastrointestinalForeignBodyEscalation": {
     "title": "Gastrointestinal Foreign Body Escalation / 消化道异物升级处置",
     "url": "/wiki/concepts/gastrointestinalforeignbodyescalation/"
@@ -41958,6 +41962,10 @@
   "LianFanEasternHan": {
     "title": "廉范 / Lian Fan (Eastern Han)",
     "url": "/wiki/entities/lianfaneasternhan/"
+  },
+  "LianJingjing": {
+    "title": "练晶晶 / Lian Jingjing",
+    "url": "/wiki/entities/lianjingjing/"
   },
   "LianKuoru": {
     "title": "连阔如 / Lian Kuoru",
@@ -63134,6 +63142,10 @@
   "ShanghaiArtDecoArchitecture": {
     "title": "Shanghai Art Deco Architecture / 上海装饰艺术派建筑",
     "url": "/wiki/concepts/shanghaiartdecoarchitecture/"
+  },
+  "ShanghaiEastHospital": {
+    "title": "上海市东方医院 / Shanghai East Hospital",
+    "url": "/wiki/entities/shanghaieasthospital/"
   },
   "ShanghaiForeignBanks": {
     "title": "Shanghai Foreign Banks",
@@ -86594,6 +86606,10 @@
   "vol-36-yanke-guanyu-ganyanzheng-yanyaoshui-yandibing-jinshi-he-jinshi-shoushu-yanke-zhuren-you-hua-shuo-lmpfupdvpcxynhp6d4hfhptayvpo": {
     "title": "VOL.36眼科｜关于干眼症、眼药水、眼底病、近视和近视手术…眼科主任有话说",
     "url": "/wiki/sources/vol-36-yanke-guanyu-ganyanzheng-yanyaoshui-yandibing-jinshi-he-jinshi-shoushu-yanke-zhuren-you-hua-shuo-lmpfupdvpcxynhp6d4hfhptayvpo/"
+  },
+  "vol-52-xiaohuaneijingke-ni-weichang-gongneng-zenmeyang-ni-jingli-guo-weichangjing-jiancha-ma-cai-guo-zhexie-wuqu-ma-lgvjd8plhexcbqjhck_u0kaem_z5": {
+    "title": "VOL.52消化内镜科｜你胃肠功能怎么样？你经历过胃肠镜检查吗？踩过这些误区吗？",
+    "url": "/wiki/sources/vol-52-xiaohuaneijingke-ni-weichang-gongneng-zenmeyang-ni-jingli-guo-weichangjing-jiancha-ma-cai-guo-zhexie-wuqu-ma-lgvjd8plhexcbqjhck_u0kaem_z5/"
   },
   "vol-53-xiaohuaneijingke-nadao-baogao-bie-pa-youmen-luoganjun-milanxing-weiyan-weikuiyang-changxirou-bianxie-jiujing-zenme-huishi-lnnmnwcdzoxvblysajxyk_wyhgy": {
     "title": "VOL.53消化内镜科｜拿到报告别怕！幽门螺杆菌、糜烂性胃炎、胃溃疡、肠息肉、便血究竟怎么回事？",

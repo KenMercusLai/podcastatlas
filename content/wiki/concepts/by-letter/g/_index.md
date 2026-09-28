@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 8604
+wiki_total_pages: 8605
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -41,6 +41,9 @@ wiki_pages:
   - key: "GarageDragonTest"
     title: "Garage Dragon Test"
     url: "/wiki/concepts/garagedragontest/"
+  - key: "GastrointestinalEndoscopyScreening"
+    title: "Gastrointestinal Endoscopy Screening / 胃肠镜筛查"
+    url: "/wiki/concepts/gastrointestinalendoscopyscreening/"
   - key: "GastrointestinalForeignBodyEscalation"
     title: "Gastrointestinal Foreign Body Escalation / 消化道异物升级处置"
     url: "/wiki/concepts/gastrointestinalforeignbodyescalation/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.52消化内镜科｜你胃肠功能怎么样？你经历过胃肠镜检查吗？踩过这些误区吗？](sources/vol-52-xiaohuaneijingke-ni-weichang-gongneng-zenmeyang-ni-jingli-guo-weichangjing-jiancha-ma-cai-guo-zhexie-wuqu-ma-lgvjd8plhexcbqjhck_u0kaem_z5.md) — 这病说来话长 episode on gastrointestinal-endoscopy screening, alternative-test limits, preparation, painless procedures, biopsy, follow-up, and detox misconceptions.
 - [339: Ireland: The Easter Rising, 1916 (Part 4)](sources/339-ireland-the-easter-rising-1916-part-4-glt7095481415.md) — The Rest Is History episode on the Rising's republican, labour, cultural, military, and commemorative causes and its conversion from battlefield defeat into political success.
 - [VOL.53消化内镜科｜拿到报告别怕！幽门螺杆菌、糜烂性胃炎、胃溃疡、肠息肉、便血究竟怎么回事？](sources/vol-53-xiaohuaneijingke-nadao-baogao-bie-pa-youmen-luoganjun-milanxing-weiyan-weikuiyang-changxirou-bianxie-jiujing-zenme-huishi-lnnmnwcdzoxvblysajxyk_wyhgy.md) — 这病说来话长 episode on contextual endoscopy-report reading, gastric findings, H. pylori, colon polyps, tumor markers, functional symptoms, and rectal-bleeding triage.
 - [340: Hadrian and Antinous](sources/340-hadrian-and-antinous-glt4184410900.md) — The Rest Is History episode on Hadrian's bond with Antinous, Roman sexual status norms, the Nile death mystery, and an imperially sponsored divine afterlife.
@@ -3093,6 +3094,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [341: The Trials of Oscar Wilde: Sex and Scandal (Part 1)](sources/341-the-trials-of-oscar-wilde-sex-and-scandal-part-1-glt1940599692.md) — The Rest Is History episode on Wilde's celebrity, changing sexual law and identity, unequal relationships, the Queensberry conflict, and the failed libel prosecution.
 
 ## Entities
+- [练晶晶 / Lian Jingjing](entities/LianJingjing.md) — Digestive-endoscopy clinician explaining screening, test selection, preparation, anesthesia boundaries, biopsy, and common misconceptions.
+- [上海市东方医院 / Shanghai East Hospital](entities/ShanghaiEastHospital.md) — Source-stated hospital affiliation for 练晶晶 and institutional context for gastrointestinal-endoscopy education.
 - [Easter Rising](entities/EasterRising.md) — 1916 Irish republican rebellion whose military defeat became a political and commemorative turning point.
 - [Patrick Pearse](entities/PatrickPearse.md) — educator, language activist, writer, and revolutionary who proclaimed the republic and accepted surrender.
 - [James Connolly](entities/JamesConnolly.md) — socialist labour leader and Irish Citizen Army commander linking Dublin poverty to the Rising.
@@ -14318,6 +14321,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Raiders of the Lost Ark](entities/RaidersOfTheLostArk.md) — Adventure film that translates the Ark's dangerous holiness into an ultimate-weapon race against Nazi Germany.
 
 ## Concepts
+- [Gastrointestinal Endoscopy Screening / 胃肠镜筛查](concepts/GastrointestinalEndoscopyScreening.md) — Risk- and question-matched framework for direct endoscopy, narrower alternative tests, preparation, pathology, and follow-up.
 - [Irish Home Rule](concepts/IrishHomeRule.md) — devolved-government project whose limits and armed opposition shaped prewar Irish politics.
 - [Cultural Nationalism Institution-Building](concepts/CulturalNationalismInstitutionBuilding.md) — use of language, schools, sport, youth bodies, poetry, and ritual to make national identity institutionally durable.
 - [Revolutionary Failure and Political Success](concepts/RevolutionaryFailurePoliticalSuccess.md) — mechanism by which operational defeat can alter legitimacy and future political choice through aftermath and memory.

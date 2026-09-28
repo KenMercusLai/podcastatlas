@@ -31659,9 +31659,9 @@
       "url": "/wiki/concepts/colorvisiondeficiency/"
     },
     "ColorectalCancerScreening": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lvTxC2z3hN5UkH3VA9rzijreMCIh [lvTxC2z3hN5UkH3VA9rzijreMCIh].md",
@@ -31676,9 +31676,16 @@
           "show": "这病说来话长",
           "title": "VOL.93消化内科｜有屁不放损害五脏？这几个坏习惯你占几个？便秘和腹泻时这样做！",
           "url": "/wiki/sources/vol-93-xiaohuaneike-you-pi-bu-fang-sunhai-wuzang-zhe-jige-huai-xiguan-ni-zhan-jige-bianmi-he-fuxie-shi-zheyang-zuo-lgrsyf6ozplphgjjpcrh7dspc_do/"
+        },
+        {
+          "episode_file": "lgvJd8plhexcBQjhck_u0kAEm_z5 [lgvJd8plhexcBQjhck_u0kAEm_z5].md",
+          "key": "vol-52-xiaohuaneijingke-ni-weichang-gongneng-zenmeyang-ni-jingli-guo-weichangjing-jiancha-ma-cai-guo-zhexie-wuqu-ma-lgvjd8plhexcbqjhck_u0kaem_z5",
+          "show": "这病说来话长",
+          "title": "VOL.52消化内镜科｜你胃肠功能怎么样？你经历过胃肠镜检查吗？踩过这些误区吗？",
+          "url": "/wiki/sources/vol-52-xiaohuaneijingke-ni-weichang-gongneng-zenmeyang-ni-jingli-guo-weichangjing-jiancha-ma-cai-guo-zhexie-wuqu-ma-lgvjd8plhexcbqjhck_u0kaem_z5/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/colorectalcancerscreening/"
     },
     "Colosseum": {
@@ -63345,6 +63352,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/gascony/"
     },
+    "GastrointestinalEndoscopyScreening": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgvJd8plhexcBQjhck_u0kAEm_z5 [lgvJd8plhexcBQjhck_u0kAEm_z5].md",
+          "key": "vol-52-xiaohuaneijingke-ni-weichang-gongneng-zenmeyang-ni-jingli-guo-weichangjing-jiancha-ma-cai-guo-zhexie-wuqu-ma-lgvjd8plhexcbqjhck_u0kaem_z5",
+          "show": "这病说来话长",
+          "title": "VOL.52消化内镜科｜你胃肠功能怎么样？你经历过胃肠镜检查吗？踩过这些误区吗？",
+          "url": "/wiki/sources/vol-52-xiaohuaneijingke-ni-weichang-gongneng-zenmeyang-ni-jingli-guo-weichangjing-jiancha-ma-cai-guo-zhexie-wuqu-ma-lgvjd8plhexcbqjhck_u0kaem_z5/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/gastrointestinalendoscopyscreening/"
+    },
     "GastrointestinalForeignBodyEscalation": {
       "episode_count": 1,
       "show_count": 1,
@@ -81834,6 +81857,115 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/internationalmonetaryfund/"
     },
+    "InternetLiabilitySpillover": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "tech_20260109_0109_MP_TECH_pod_128 [tech_20260109_0109_MP_TECH_pod_128].md",
+          "key": "tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - New year, new state AI laws, new showdown with Trump admin.",
+          "url": "/wiki/sources/tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260417_0417_MP_TECH_pod_128 [tech_20260417_0417_MP_TECH_pod_128].md",
+          "key": "tech-20260417-0417-mp-tech-pod-128-tech-20260417-0417-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - AI companies divided over proposed state law, Amazon buys Globalstar, and Spotify to sell physical books",
+          "url": "/wiki/sources/tech-20260417-0417-mp-tech-pod-128-tech-20260417-0417-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260401_0401_MP_TECH_pod_128 [tech_20260401_0401_MP_TECH_pod_128].md",
+          "key": "tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Meta and Youtube held liable for their addictive products",
+          "url": "/wiki/sources/tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260205_0205_MP_TECH_pod_128 [tech_20260205_0205_MP_TECH_pod_128].md",
+          "key": "tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Is social media addictive? And are social media companies liable?",
+          "url": "/wiki/sources/tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-08-05",
+      "url": "/wiki/concepts/internetliabilityspillover/"
+    },
+    "InternetMoralTrial": {
+      "episode_count": 9,
+      "show_count": 1,
+      "source_note_count": 9,
+      "sources": [
+        {
+          "episode_file": "24.捍卫雅各布：相信你是我唯一的执念 [576218441].md",
+          "key": "24-hanwei-yagebu-xiangxin-ni-shi-wo-weiyi-de-zhinian-576218441",
+          "show": "蜜獾吃书",
+          "title": "24.捍卫雅各布：相信你是我唯一的执念",
+          "url": "/wiki/sources/24-hanwei-yagebu-xiangxin-ni-shi-wo-weiyi-de-zhinian-576218441/"
+        },
+        {
+          "episode_file": "145.嫉妒与鄙视：我该如何躲避这双向的毒箭？ [882378647].md",
+          "key": "145-jidu-yu-bishi-wo-gai-ruhe-duobi-zhe-shuangxiang-de-dujian-882378647",
+          "show": "蜜獾吃书",
+          "title": "145.嫉妒与鄙视：我该如何躲避这双向的毒箭？",
+          "url": "/wiki/sources/145-jidu-yu-bishi-wo-gai-ruhe-duobi-zhe-shuangxiang-de-dujian-882378647/"
+        },
+        {
+          "episode_file": "132.争论与说服：我们为什么吵架，怎么才算赢？ [807583318].md",
+          "key": "132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318",
+          "show": "蜜獾吃书",
+          "title": "132.争论与说服：我们为什么吵架，怎么才算赢？",
+          "url": "/wiki/sources/132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318/"
+        },
+        {
+          "episode_file": "123.人性实验：当心你自己！ [779479569].md",
+          "key": "123-renxing-shiyan-dangxin-ni-ziji-779479569",
+          "show": "蜜獾吃书",
+          "title": "123.人性实验：当心你自己！",
+          "url": "/wiki/sources/123-renxing-shiyan-dangxin-ni-ziji-779479569/"
+        },
+        {
+          "episode_file": "121.极简法医鉴识手册：一切犯罪，皆有痕迹 [775064343].md",
+          "key": "121-jijian-fayi-jianshi-shouce-yiqie-fanzui-jieyou-henji-775064343",
+          "show": "蜜獾吃书",
+          "title": "121.极简法医鉴识手册：一切犯罪，皆有痕迹",
+          "url": "/wiki/sources/121-jijian-fayi-jianshi-shouce-yiqie-fanzui-jieyou-henji-775064343/"
+        },
+        {
+          "episode_file": "119.安乐死现场：正因生命如此珍贵 [770771087].md",
+          "key": "119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087",
+          "show": "蜜獾吃书",
+          "title": "119.安乐死现场：正因生命如此珍贵",
+          "url": "/wiki/sources/119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087/"
+        },
+        {
+          "episode_file": "100.法律的悖论：谢天谢地，幸好我们还有罗翔 [733477302].md",
+          "key": "100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302",
+          "show": "蜜獾吃书",
+          "title": "100.法律的悖论：谢天谢地，幸好我们还有罗翔",
+          "url": "/wiki/sources/100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302/"
+        },
+        {
+          "episode_file": "【闲聊】想送赵露思一本短歌集--编辑推书,无所不用其极！ [905512770].md",
+          "key": "xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770",
+          "show": "蜜獾吃书",
+          "title": "【闲聊】想送赵露思一本短歌集--编辑推书,无所不用其极！",
+          "url": "/wiki/sources/xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770/"
+        },
+        {
+          "episode_file": "91.猎巫：塞勒姆1692，从癔症开始 [714732018].md",
+          "key": "91-liewu-sailemu-1692-cong-yizheng-kaishi-714732018",
+          "show": "蜜獾吃书",
+          "title": "91.猎巫：塞勒姆1692，从癔症开始",
+          "url": "/wiki/sources/91-liewu-sailemu-1692-cong-yizheng-kaishi-714732018/"
+        }
+      ],
+      "updated": "2026-08-05",
+      "url": "/wiki/concepts/internetmoraltrial/"
+    },
     "InterpersonalImageProjection": {
       "episode_count": 1,
       "show_count": 1,
@@ -81888,6 +82020,155 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/interpositive/"
+    },
+    "InterpretationAndOverinterpretation": {
+      "episode_count": 20,
+      "show_count": 1,
+      "source_note_count": 20,
+      "sources": [
+        {
+          "episode_file": "31.冰与火之歌：虽然从不自称历史 [594509848].md",
+          "key": "31-bing-yu-huo-zhi-ge-suiran-cong-bu-zicheng-lishi-594509848",
+          "show": "蜜獾吃书",
+          "title": "31.冰与火之歌：虽然从不自称历史",
+          "url": "/wiki/sources/31-bing-yu-huo-zhi-ge-suiran-cong-bu-zicheng-lishi-594509848/"
+        },
+        {
+          "episode_file": "29.千面英雄：俄狄浦斯正在下班挤地铁 [590112891].md",
+          "key": "29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891",
+          "show": "蜜獾吃书",
+          "title": "29.千面英雄：俄狄浦斯正在下班挤地铁",
+          "url": "/wiki/sources/29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891/"
+        },
+        {
+          "episode_file": "日谈串台｜红楼梦：还是可以读一读的 [587167638].md",
+          "key": "ritan-chuantai-hongloumeng-haishi-keyi-du-yidu-de-587167638",
+          "show": "蜜獾吃书",
+          "title": "日谈串台｜红楼梦：还是可以读一读的",
+          "url": "/wiki/sources/ritan-chuantai-hongloumeng-haishi-keyi-du-yidu-de-587167638/"
+        },
+        {
+          "episode_file": "17.地狱变：众生皆苦，一念入魔 [561780565].md",
+          "key": "17-diyubian-zhongsheng-jie-ku-yi-nian-ru-mo-561780565",
+          "show": "蜜獾吃书",
+          "title": "17.地狱变：众生皆苦，一念入魔",
+          "url": "/wiki/sources/17-diyubian-zhongsheng-jie-ku-yi-nian-ru-mo-561780565/"
+        },
+        {
+          "episode_file": "20.德米安：该隐的额头上，那神秘的印记 [567302734].md",
+          "key": "20-demian-gaiyin-de-etou-shang-na-shenmi-de-yinji-567302734",
+          "show": "蜜獾吃书",
+          "title": "20.德米安：该隐的额头上，那神秘的印记",
+          "url": "/wiki/sources/20-demian-gaiyin-de-etou-shang-na-shenmi-de-yinji-567302734/"
+        },
+        {
+          "episode_file": "10.王尔德奇异故事集：用最会撒谎的嘴唇亲吻天使 [545332195].md",
+          "key": "10-wang-erde-qiyi-gushiji-yong-zui-hui-sahuang-de-zuichun-qinwen-tianshi-545332195",
+          "show": "蜜獾吃书",
+          "title": "10.王尔德奇异故事集：用最会撒谎的嘴唇亲吻天使",
+          "url": "/wiki/sources/10-wang-erde-qiyi-gushiji-yong-zui-hui-sahuang-de-zuichun-qinwen-tianshi-545332195/"
+        },
+        {
+          "episode_file": "07.用荣格理论分析《小王子》 永恒少年及其他 [539091165].md",
+          "key": "07-yong-rongge-lilun-fenxi-xiaowangzi-yongheng-shaonian-ji-qita-539091165",
+          "show": "蜜獾吃书",
+          "title": "07.用荣格理论分析《小王子》 永恒少年及其他",
+          "url": "/wiki/sources/07-yong-rongge-lilun-fenxi-xiaowangzi-yongheng-shaonian-ji-qita-539091165/"
+        },
+        {
+          "episode_file": "115.京极夏彦今昔续百鬼：不研究妖怪，怎么好好做人？ [760601309].md",
+          "key": "115-jingji-xiayan-jinxi-xu-baigui-bu-yanjiu-yaoguai-zenme-haohao-zuoren-760601309",
+          "show": "蜜獾吃书",
+          "title": "115.京极夏彦今昔续百鬼：不研究妖怪，怎么好好做人？",
+          "url": "/wiki/sources/115-jingji-xiayan-jinxi-xu-baigui-bu-yanjiu-yaoguai-zenme-haohao-zuoren-760601309/"
+        },
+        {
+          "episode_file": "90.酉阳杂俎：血滴子和武则天手指上的黑毛 [712539933].md",
+          "key": "90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933",
+          "show": "蜜獾吃书",
+          "title": "90.酉阳杂俎：血滴子和武则天手指上的黑毛",
+          "url": "/wiki/sources/90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933/"
+        },
+        {
+          "episode_file": "76.玄怪录：晚唐党争？没耽误宰相写大马猴的故事 [683323220].md",
+          "key": "76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220",
+          "show": "蜜獾吃书",
+          "title": "76.玄怪录：晚唐党争？没耽误宰相写大马猴的故事",
+          "url": "/wiki/sources/76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220/"
+        },
+        {
+          "episode_file": "75.故事新编：骷髅被复活后会感激庄子吗？ [681010087].md",
+          "key": "75-gushi-xinbian-kulou-bei-fuhuo-hou-hui-ganji-zhuangzi-ma-681010087",
+          "show": "蜜獾吃书",
+          "title": "75.故事新编：骷髅被复活后会感激庄子吗？",
+          "url": "/wiki/sources/75-gushi-xinbian-kulou-bei-fuhuo-hou-hui-ganji-zhuangzi-ma-681010087/"
+        },
+        {
+          "episode_file": "111. 花衣魔笛手：快来，和历史学家一起推理童话真相 [751190766].md",
+          "key": "111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766",
+          "show": "蜜獾吃书",
+          "title": "111. 花衣魔笛手：快来，和历史学家一起推理童话真相",
+          "url": "/wiki/sources/111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766/"
+        },
+        {
+          "episode_file": "69.闲聊推理文学：历史学者可不就是侦探吗！ [666244465].md",
+          "key": "69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465",
+          "show": "蜜獾吃书",
+          "title": "69.闲聊推理文学：历史学者可不就是侦探吗！",
+          "url": "/wiki/sources/69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465/"
+        },
+        {
+          "episode_file": "167.命若朝霜：为什么红楼梦不需要悼明？ [949917324].md",
+          "key": "167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324",
+          "show": "蜜獾吃书",
+          "title": "167.命若朝霜：为什么红楼梦不需要悼明？",
+          "url": "/wiki/sources/167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324/"
+        },
+        {
+          "episode_file": "183.李商隐和红楼梦：偏僻性乖张，那管世人诽谤！ [981580260].md",
+          "key": "183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260",
+          "show": "蜜獾吃书",
+          "title": "183.李商隐和红楼梦：偏僻性乖张，那管世人诽谤！",
+          "url": "/wiki/sources/183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260/"
+        },
+        {
+          "episode_file": "101.曹寅与康熙：红楼梦醒终有时 [735044876].md",
+          "key": "101-caoyin-yu-kangxi-hongloumeng-xing-zhong-you-shi-735044876",
+          "show": "蜜獾吃书",
+          "title": "101.曹寅与康熙：红楼梦醒终有时",
+          "url": "/wiki/sources/101-caoyin-yu-kangxi-hongloumeng-xing-zhong-you-shi-735044876/"
+        },
+        {
+          "episode_file": "53.玫瑰的名字（上）：真与假，正与邪，诠释与过度诠释 [636490184].md",
+          "key": "53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184",
+          "show": "蜜獾吃书",
+          "title": "53.玫瑰的名字（上）：真与假，正与邪，诠释与过度诠释",
+          "url": "/wiki/sources/53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184/"
+        },
+        {
+          "episode_file": "54.玫瑰的名字（下）：真与假，正与邪，诠释与过度诠释 [638214699].md",
+          "key": "54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699",
+          "show": "蜜獾吃书",
+          "title": "54.玫瑰的名字（下）：真与假，正与邪，诠释与过度诠释",
+          "url": "/wiki/sources/54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699/"
+        },
+        {
+          "episode_file": "57.说解汉字：屎尿屁为啥是“尸”字头？ [642970319].md",
+          "key": "57-shuojie-hanzi-shiniaopi-weisha-shi-shi-zitou-642970319",
+          "show": "蜜獾吃书",
+          "title": "57.说解汉字：屎尿屁为啥是“尸”字头？",
+          "url": "/wiki/sources/57-shuojie-hanzi-shiniaopi-weisha-shi-shi-zitou-642970319/"
+        },
+        {
+          "episode_file": "43.西游记：咄！你是什么妖精！ [618154182].md",
+          "key": "43-xiyouji-duo-ni-shi-shenme-yaojing-618154182",
+          "show": "蜜獾吃书",
+          "title": "43.西游记：咄！你是什么妖精！",
+          "url": "/wiki/sources/43-xiyouji-duo-ni-shi-shenme-yaojing-618154182/"
+        }
+      ],
+      "updated": "2026-08-06",
+      "url": "/wiki/concepts/interpretationandoverinterpretation/"
     },
     "InterrogationTortureConstraint": {
       "episode_count": 1,
@@ -94091,6 +94372,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/lianfaneasternhan/"
+    },
+    "LianJingjing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgvJd8plhexcBQjhck_u0kAEm_z5 [lgvJd8plhexcBQjhck_u0kAEm_z5].md",
+          "key": "vol-52-xiaohuaneijingke-ni-weichang-gongneng-zenmeyang-ni-jingli-guo-weichangjing-jiancha-ma-cai-guo-zhexie-wuqu-ma-lgvjd8plhexcbqjhck_u0kaem_z5",
+          "show": "这病说来话长",
+          "title": "VOL.52消化内镜科｜你胃肠功能怎么样？你经历过胃肠镜检查吗？踩过这些误区吗？",
+          "url": "/wiki/sources/vol-52-xiaohuaneijingke-ni-weichang-gongneng-zenmeyang-ni-jingli-guo-weichangjing-jiancha-ma-cai-guo-zhexie-wuqu-ma-lgvjd8plhexcbqjhck_u0kaem_z5/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/lianjingjing/"
     },
     "LiangBingLateHan": {
       "episode_count": 2,
@@ -140878,9 +141175,9 @@
       "url": "/wiki/concepts/securityforauthorityexchange/"
     },
     "SedatedGastrointestinalEndoscopy": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lmiFB8pnp9D-QS_eZkdzyIjYUTov [lmiFB8pnp9D-QS_eZkdzyIjYUTov].md",
@@ -140888,9 +141185,16 @@
           "show": "这病说来话长",
           "title": "VOL.158高嘉程：这肠胃镜非做不可吗？ft. Luffy医学频道&高贵FM",
           "url": "/wiki/sources/vol-158-gaojiacheng-zhe-changweijing-feizuo-bukema-ft-luffy-yixue-pindao-gaoguifm-lmifb8pnp9d-qs_ezkdzyijyutov/"
+        },
+        {
+          "episode_file": "lgvJd8plhexcBQjhck_u0kAEm_z5 [lgvJd8plhexcBQjhck_u0kAEm_z5].md",
+          "key": "vol-52-xiaohuaneijingke-ni-weichang-gongneng-zenmeyang-ni-jingli-guo-weichangjing-jiancha-ma-cai-guo-zhexie-wuqu-ma-lgvjd8plhexcbqjhck_u0kaem_z5",
+          "show": "这病说来话长",
+          "title": "VOL.52消化内镜科｜你胃肠功能怎么样？你经历过胃肠镜检查吗？踩过这些误区吗？",
+          "url": "/wiki/sources/vol-52-xiaohuaneijingke-ni-weichang-gongneng-zenmeyang-ni-jingli-guo-weichangjing-jiancha-ma-cai-guo-zhexie-wuqu-ma-lgvjd8plhexcbqjhck_u0kaem_z5/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/sedatedgastrointestinalendoscopy/"
     },
     "SedentaryBehaviorInterruption": {
@@ -142489,6 +142793,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/concepts/shanghaiartdecoarchitecture/"
+    },
+    "ShanghaiEastHospital": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgvJd8plhexcBQjhck_u0kAEm_z5 [lgvJd8plhexcBQjhck_u0kAEm_z5].md",
+          "key": "vol-52-xiaohuaneijingke-ni-weichang-gongneng-zenmeyang-ni-jingli-guo-weichangjing-jiancha-ma-cai-guo-zhexie-wuqu-ma-lgvjd8plhexcbqjhck_u0kaem_z5",
+          "show": "这病说来话长",
+          "title": "VOL.52消化内镜科｜你胃肠功能怎么样？你经历过胃肠镜检查吗？踩过这些误区吗？",
+          "url": "/wiki/sources/vol-52-xiaohuaneijingke-ni-weichang-gongneng-zenmeyang-ni-jingli-guo-weichangjing-jiancha-ma-cai-guo-zhexie-wuqu-ma-lgvjd8plhexcbqjhck_u0kaem_z5/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/shanghaieasthospital/"
     },
     "ShanghaiFrenchConcession": {
       "episode_count": 1,

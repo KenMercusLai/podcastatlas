@@ -24479,3 +24479,11 @@ Added source `339-ireland-the-easter-rising-1916-part-4-glt7095481415`; created 
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | VOL.52消化内镜科｜你胃肠功能怎么样？你经历过胃肠镜检查吗？踩过这些误区吗？
+
+Added source `vol-52-xiaohuaneijingke-ni-weichang-gongneng-zenmeyang-ni-jingli-guo-weichangjing-jiancha-ma-cai-guo-zhexie-wuqu-ma-lgvjd8plhexcbqjhck_u0kaem_z5`; created `LianJingjing`, `ShanghaiEastHospital`, and `GastrointestinalEndoscopyScreening`; and updated `SedatedGastrointestinalEndoscopy`, `ColorectalCancerScreening`, and the canonical index from their complete bounded source sets. Core synthesis: gastrointestinal endoscopy is a question-matched direct-visualization, tissue, and treatment capability rather than an expensive-test category that blood, tumor-marker, stool, breath, genetic, capsule, or imaging tests can uniformly replace; silent disease, symptoms, family history, preparation quality, anesthesia assessment, pathology, and follow-up determine the pathway. No settled contradiction was adopted. Screening ages and intervals, anesthesia exclusions, fasting, biopsy heuristics, and procedural claims remain source-scoped public education. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

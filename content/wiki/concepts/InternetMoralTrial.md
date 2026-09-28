@@ -2,59 +2,60 @@
 title: "Internet Moral Trial / 互联网审判"
 type: concept
 tags: [internet-culture, judgment, public-expression, creators, ethics]
-sources: [24-hanwei-yagebu-xiangxin-ni-shi-wo-weiyi-de-zhinian-576218441, 145-jidu-yu-bishi-wo-gai-ruhe-duobi-zhe-shuangxiang-de-dujian-882378647, 132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318, 123-renxing-shiyan-dangxin-ni-ziji-779479569, 121-jijian-fayi-jianshi-shouce-yiqie-fanzui-jieyou-henji-775064343, 119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087, 100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302, xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770, 91-liewu-sailemu-1692-cong-yizheng-kaishi-714732018]
+knowledge_schema: synthesis-v1
+sources:
+  - 24-hanwei-yagebu-xiangxin-ni-shi-wo-weiyi-de-zhinian-576218441
+  - 145-jidu-yu-bishi-wo-gai-ruhe-duobi-zhe-shuangxiang-de-dujian-882378647
+  - 132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318
+  - 123-renxing-shiyan-dangxin-ni-ziji-779479569
+  - 121-jijian-fayi-jianshi-shouce-yiqie-fanzui-jieyou-henji-775064343
+  - 119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087
+  - 100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302
+  - xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770
+  - 91-liewu-sailemu-1692-cong-yizheng-kaishi-714732018
 last_updated: 2026-08-05
 ---
 
 # Internet Moral Trial / 互联网审判
 
-[[24-hanwei-yagebu-xiangxin-ni-shi-wo-weiyi-de-zhinian-576218441]] adds a fictional community-panic case through [[DefendingJacob|《捍卫雅各布》 / Defending Jacob]]. Once online student comments and neighborhood hostility point toward [[JacobBarber|Jacob Barber]], the episode shows how suspicion can become social punishment before legal proof has done its work.
+## Definition
+Internet moral trial names an interpretive risk: fragmentary information about an individual becomes a total moral verdict, with punishment or demanded allegiance proceeding faster than evidence and proportionate correction. It does not forbid criticism of harmful acts or institutions.
 
-[[132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318]] adds a public-argument boundary. The source accepts that some online conflict can be worth having for third-party witnesses, but it warns against confusing that with endless attempts to make a hostile stranger concede or with addictive punishment-seeking.
-
-Internet moral trial / 互联网审判 is the episode's critique of turning partial online information into whole-person condemnation. In [[xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770]], the hosts move from [[ZhaoLusi|赵露思]] discourse to a broader warning: criticizing public power or systems is different from treating an individual as fully knowable and punishable from a distance.
-
-The concept is not a ban on judgment. The episode preserves basic values and bottom lines, but argues that online publics often skip evidence, proportionality, and context. It also notes that demands for creators to "talk about" a topic may actually be demands to stand on the correct side of a trial.
-
-[[91-liewu-sailemu-1692-cong-yizheng-kaishi-714732018]] adds the historical analogy through the [[SalemWitchTrials|塞勒姆猎巫]]. The source argues that contemporary online accusation can become Salem-like when it centers hidden motive, ideological impurity, or "暗戳戳" intent in a process where the accused has no real way to answer. This connects internet moral trial to [[WitchHuntMechanism]] rather than only celebrity discourse.
-
-[[100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302]] adds a legal-philosophy parallel through the episode's warning about "键盘法官." Public anger at offenders can feel morally clarifying, but the source treats that confidence as one reason law needs [[CriminalLawAsPowerLimitation]], [[LawMoralityBoundary]], and [[RationalHumility]].
-
-[[119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087]] adds a life-and-death version. The host begins by warning against attacking ordinary people over assisted-death choices or spreading rumor, fabrication, and decontextualized fragments in a chaotic public field; the episode then treats [[BrittanyMaynard]]'s public storytelling as useful but ethically sensitive because death-related media can affect vulnerable audiences.
-
-[[121-jijian-fayi-jianshi-shouce-yiqie-fanzui-jieyou-henji-775064343]] adds a forensic-evidence version. The source argues that even formal courts cannot always possess the whole truth, so online publics should be especially cautious about judging from unverifiable fragments, rumors, and entertainment-shaped expectations about evidence.
-
-[[123-renxing-shiyan-dangxin-ni-ziji-779479569]] adds the social-psychology mechanism. [[ActorObserverBias]] makes distant observers convert behavior into character, while [[Deindividuation]] lets a crowd hide individual responsibility; together they explain why online moral certainty can become unusually cruel even when participants see themselves as righteous.
-
-[[145-jidu-yu-bishi-wo-gai-ruhe-duobi-zhe-shuangxiang-de-dujian-882378647]] adds the comparison-pressure mechanism. The episode's account of online "toilet culture" treats some pile-ons as [[SocialComparisonPressure|social comparison pressure]], [[LowStatusSyndrome|low-status resentment]], envy, and contempt moving through private groups, screenshots, ridicule, and audience reward.
+## Current Synthesis
+The strongest direct example is a book-discussion podcast's treatment of [[ZhaoLusi|赵露思]] discourse: the hosts expressly do not verify the private illness or entertainment-industry allegations. Social-psychology and envy accounts offer possible mechanisms; Salem and a legal thriller offer analogies with sharply different evidentiary status. The corrective is bounded judgment, not silence: reasoned public argument can help witnesses even if an opponent never yields.
 
 ## Key Claims
-- Incomplete information should reduce confidence, especially when the target is an individual rather than a public system.
-- Public visibility, fame, or wealth does not make a person default eligible for unlimited abuse.
-- Standing against harm does not require every creator to perform a full position on every event.
-- Internet trial often collapses action, motive, and whole personality into one verdict.
-- The source frames "do not throw stones too easily" as a restraint on collective punishment, not as moral indifference.
-- [[RecognitionAsHumiliation|认错等于屈辱]] helps explain why online judgment becomes sticky: if apology means total shame, people resist proportional correction.
-- The Salem analogy adds that unfalsifiable motive accusation can function like modern [[SpectralEvidence]]: what matters is claimed invisible intent rather than independently checkable action.
-- The legal-philosophy extension adds that collective anger can make procedural safeguards look unnecessary exactly when they are doing their most important work.
-- Assisted-death discourse adds that some subjects require both public discussion and suicide-contagion caution; refusing online attack is part of respecting life rather than avoiding judgment.
-- Forensic-science discourse adds that partial clues and missing evidence should reduce online certainty, not intensify amateur conviction.
-- Social psychology adds that anonymity, group identity, and character attribution can make cruelty feel like justice.
-- Episode 145 adds that envy and contempt can make online punishment feel personally relieving before it becomes ethically examined.
-- The legal-thriller case adds that community accusation may feel protective after a child murder, but it can still bypass [[LegalTruthEvidenceGap]] and convert suspicion into informal punishment.
+- Fame or wealth does not license unlimited abuse: a public figure's vulnerability or imperfect expression cannot justify whole-person condemnation from second-hand fragments.
+- Attribution bias, anonymity and group reward can intensify certainty, but no single mechanism diagnoses every participant.
+- Hidden-intent accusations are especially difficult to answer; historical witch trials illuminate a procedural hazard without being identical to online criticism.
+- Law and forensic practice show why evidentiary limits and proportionate safeguards matter most under public anger; [[RationalHumility]] means judging conduct within those limits rather than pretending certainty.
+- Constructive dissent for an audience differs from pressuring every creator to declare allegiance or trying endlessly to convert a hostile interlocutor.
 
-## Connections
-- [[ZhaoLusi|赵露思]] - public-figure case that opens the discussion.
-- [[LiveHumanFeeling]] - the kind of public expression that moral trial can punish.
-- [[RecognitionAsHumiliation]] - cultural psychology branch explaining all-or-nothing condemnation.
-- [[CommunicationBoundarySetting]] - deciding when to speak, defer, or refuse a performative position demand.
-- [[CreatorEvaluationPressure]] - pressure surface that makes judgment costly for public people.
-- [[CreativeRiskAvoidanceCulture]] - broader cultural cost when creators avoid rough or risky expression.
-- [[ObservationBeforeInference]] and [[EmpathyBoundaries]] - adjacent guardrails for evidence and bounded understanding.
-- [[WitchHuntMechanism]] and [[SpectralEvidence]] - historical analogy added by the Salem source.
-- [[CriminalLawAsPowerLimitation]], [[LawMoralityBoundary]], and [[LegalParadoxThinking]] - legal judgment extension added by episode 100.
-- [[DeathOptionAsPsychologicalRelief]], [[EndOfLifeAutonomyAndDignity]], and [[EuthanasiaUncertaintyStance]] - assisted-death media-ethics extension added by episode 119.
-- [[ForensicScience]], [[CSIEffect]], and [[EvidenceOverTestimony]] - source-121 extension around evidence expectations and online judgment.
-- [[ActorObserverBias]], [[Deindividuation]], [[HostileMediaEffect]], and [[EmotionalContagion]] - source-123 mechanisms behind public certainty and online group behavior.
-- [[EnvyContemptComparison]], [[SocialComparisonPressure]], [[LowStatusSyndrome]], [[SchadenfreudeAsComparisonEmotion]], and [[DehumanizationByComparison]] - episode-145 comparison-emotion extension.
-- [[DefendingJacob|《捍卫雅各布》 / Defending Jacob]], [[JacobBarber]], and [[LegalTruthEvidenceGap]] - fictional school-and-neighborhood suspicion case.
+## Evidence
+- In the [[MihuanChishu|蜜獾吃书]] crossover, the hosts relate [[IshikawaTakuboku|石川啄木]]'s short poetry and [[LiveHumanFeeling|活人感]] to media discussion of Zhao Lusi, while explicitly disclaiming firsthand knowledge of her illness or company dispute. The risk is that desire for authentic expression becomes [[CreatorEvaluationPressure|demands for a flawless persona]], where admitting one error feels like total [[RecognitionAsHumiliation|humiliation]] and pressures creators to take performative positions. [[xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770]]
+- The [[SocialPsychology|social psychology]] reading describes [[ActorObserverBias]]—ascribing a stranger's conduct to character while explaining one's own by context—and [[Deindividuation]] in anonymous groups; [[HostileMediaEffect]] and [[EmotionalContagion]] can amplify partisan interpretation. The envy/contempt reading interprets some online “toilet culture” through [[SocialComparisonPressure]], [[LowStatusSyndrome|status resentment]] and [[SchadenfreudeAsComparisonEmotion|pleasure in a rival's fall]]. These are possible pathways, not verified motives of specific users. [[123-renxing-shiyan-dangxin-ni-ziji-779479569]] [[145-jidu-yu-bishi-wo-gai-ruhe-duobi-zhe-shuangxiang-de-dujian-882378647]]
+- The [[SalemWitchTrials|Salem]] book discussion recounts [[SpectralEvidence|spectral evidence]], coerced confession and an escalating colonial legal persecution. It offers a [[WitchHuntMechanism|witch-hunt analogy]] when online accusations of invisible motives lack a workable defense; historical executions are not equivalent in degree to every online dispute. [[DefendingJacob|《捍卫雅各布》]], a novel, separately imagines [[JacobBarber]] facing school and neighborhood suspicion before the legal and family questions settle. [[91-liewu-sailemu-1692-cong-yizheng-kaishi-714732018]] [[24-hanwei-yagebu-xiangxin-ni-shi-wo-weiyi-de-zhinian-576218441]]
+- The [[LuoXiang|罗翔]] law discussion treats [[CriminalLawAsPowerLimitation|criminal law as a limit on punitive power]] and [[LawMoralityBoundary|morality as distinct from conviction]]. The forensic reading explains that even trace evidence, laboratory tests and [[CSIEffect|CSI-like expectations]] may not deliver full truth; spectators' rumors have still weaker standing than adjudicated evidence. [[100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302]] [[121-jijian-fayi-jianshi-shouce-yiqie-fanzui-jieyou-henji-775064343]]
+- The argument-and-persuasion episode distinguishes [[PublicArgumentForBystanders|public argument for bystanders]] from futile demands for a hostile stranger's conversion, invoking listening and ethical purpose. The assisted-death discussion asks audiences to avoid rumor and attacks on ordinary people, while treating [[BrittanyMaynard]]'s public story and suicide-contagion concerns with care; it is a media-ethics neighbor, not direct proof of an internet pile-on. [[132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318]] [[119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087]]
+
+## Counterevidence & Qualifications
+All nine notes belong to the same book-discussion show (one crossover); they are not nine independent online-behavior studies. [[DefendingJacob]] is fiction; Salem is a different historical legal institution. The assisted-death and forensic episodes chiefly contribute caution about evidence and ethics, not measured social-media effects. Envy and actor–observer bias are possibilities, not diagnoses. Public accountability remains possible without asserting hidden intentions or inflicting unlimited collateral punishment.
+
+## What Changed
+- Reorganized direct media example, candidate mechanisms, historical/fictional analogy and procedural limit by evidentiary strength.
+- Preserved a constructive role for public disagreement rather than treating all argument as harassment.
+
+## Related Concepts
+- [[CommunicationBoundarySetting]] - helps a creator decide when not to enter a compulsory stance test.
+- [[CreativeRiskAvoidanceCulture]] - names the possible chilling effect of treating rough expression as disqualifying.
+- [[ObservationBeforeInference]] - requires separating visible acts from guesses about invisible motives.
+- [[EmpathyBoundaries]] - permits concern without claiming complete access to another person's mind.
+- [[LegalParadoxThinking]] - reminds observers that legal and moral judgments can conflict under incomplete facts.
+- [[DeathOptionAsPsychologicalRelief]] - is a sensitive assisted-death claim that needs context rather than viral simplification.
+- [[EndOfLifeAutonomyAndDignity]] - concerns the patient agency at stake in public assisted-death storytelling.
+- [[EuthanasiaUncertaintyStance]] - models caution rather than instant verdict in contested end-of-life cases.
+- [[ForensicScience]] - supplies disciplined but still fallible evidence methods.
+- [[EvidenceOverTestimony]] - stresses corroboration while acknowledging the limits of physical traces.
+- [[EnvyContemptComparison]] - analyzes the comparison emotions sometimes invoked in pile-on narratives.
+- [[DehumanizationByComparison]] - marks how status comparisons can erase an individual target's complexity.
+- [[LegalTruthEvidenceGap]] - separates a legal judgment from omniscient certainty in the fictional case.

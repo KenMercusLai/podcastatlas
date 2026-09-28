@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 11204
+wiki_total_pages: 11206
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -2081,6 +2081,9 @@ wiki_pages:
   - key: "LaughingMan"
     title: "笑脸男 / Laughing Man"
     url: "/wiki/entities/laughingman/"
+  - key: "LianJingjing"
+    title: "练晶晶 / Lian Jingjing"
+    url: "/wiki/entities/lianjingjing/"
   - key: "LuoDayou"
     title: "罗大佑 / Luo Dayou"
     url: "/wiki/entities/luodayou/"
