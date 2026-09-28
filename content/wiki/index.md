@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [323: History's Greatest Dogs](sources/323-historys-greatest-dogs-glt5170761413.md) — The Rest Is History episode on dogs as political appeals, loyalty legends, propaganda companions, imperial trophies, naval friends, and film celebrities.
 - [VOL.41整形外科｜关于男性乳房发育、巨乳症、抽脂、美容针、瘢痕体质的认识误区](sources/vol-41-zhengxingwaike-guanyu-nanxing-rufang-fayu-juruzheng-chouzhi-meirongzhen-banhentizhi-de-renshi-wuqu-lsknmcasvbogjgadfbfos7uj2t59.md) — 这病说来话长 episode on plastic surgery's clinical scope, breast conditions, contouring, wound reconstruction, scarring, closure planning, and microtia reconstruction.
 - [184.为了在算法时代被“听见”，我们改变了多少自己？｜对谈「声东击西」张晶](sources/184-weile-zai-suanfa-shidai-bei-tingjian-women-gaibian-le-duoshao-ziji-duitan-shengdongjixi-zhangjing-lpotw0uqivlj8m6otnoxh0kahee5.md) — 起朱楼宴宾客 conversation with 张晶 on creator self-discipline under opaque metrics, subscription versus recommendation, rescue documentation, AI summary loss, communication as ritual participation, and hidden podcast labor.
 - [324: Fall of Saigon: The Nightmare Begins (Part 1)](sources/324-fall-of-saigon-the-nightmare-begins-part-1-glt6047251362.md) — The Rest Is History episode on the Paris settlement, Watergate-era war-powers constraints, South Vietnam's collapse cascade, Cambodia, and pre-evacuation moral triage.
@@ -3138,6 +3139,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Science-Based Mental Training & Visualization for Improved Learning](sources/science-based-mental-training-visualization-for-improved-learning-scim9944841947.md) — Huberman Lab solo episode on brief task-matched imagery, physical-practice primacy, first-person rehearsal, response inhibition, sleep, and protocol evidence boundaries.
 
 ## Entities
+- [Checkers](entities/CheckersDog.md) — Nixon family dog whose role in the 1952 Checkers speech made canine loyalty a tool of televised political repair.
+- [Greyfriars Bobby](entities/GreyfriarsBobby.md) — Edinburgh dog whose grave-side loyalty story became civic commemoration, tourism, and qualified legend.
+- [Blondie (Hitler's dog)](entities/BlondieDog.md) — German shepherd used in Nazi leader imagery and killed in the Berlin bunker cyanide test.
+- [Lootie](entities/LootieDog.md) — Pekingese taken from the Old Summer Palace and presented to Queen Victoria as a living conquest trophy.
+- [Rin Tin Tin](entities/RinTinTin.md) — First World War rescue story and silent-film career that produced an enduring canine media celebrity.
 - [罗路 / Luo Lu (plastic surgeon)](entities/LuoLuPlasticSurgeon.md) — Plastic-surgery clinician explaining differential assessment, reconstruction, indication, expectation, and psychosocial care.
 - [张晶 / Zhang Jing (声东击西)](entities/ZhangJingShengdongJixi.md) — Journalist, 声东击西 co-founder, and content practitioner connecting reporting, long-form audio, platform feedback, AI summaries, and professional community.
 - [Henry Kissinger](entities/HenryKissinger.md) — U.S. diplomat balancing acceptance of South Vietnamese defeat against credibility, aid, bombing, and evacuation concerns.
@@ -14458,6 +14464,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Frankfurt Parliament](entities/FrankfurtParliament.md) — German national assembly whose representative ambition lacked independent military and administrative capacity.
 
 ## Concepts
+- [Companion Animal Public Symbolism](concepts/CompanionAnimalPublicSymbolism.md) — Process through which a named animal carries public claims about family, loyalty, leadership, conquest, memory, or celebrity.
 - [Plastic Surgery Clinical Scope / 整形外科临床范围](concepts/PlasticSurgeryClinicalScope.md) — Framework joining disease care, reconstruction, function, appearance, safety, and psychosocial outcome.
 - [Gynecomastia Clinical Assessment / 男性乳房发育临床评估](concepts/GynecomastiaClinicalAssessment.md) — Tissue-, cause-, and duration-based assessment of male breast enlargement.
 - [Liposuction Body-Contouring Boundary / 吸脂塑形边界](concepts/LiposuctionBodyContouringBoundary.md) — Boundary separating local contour change from general weight-loss treatment.

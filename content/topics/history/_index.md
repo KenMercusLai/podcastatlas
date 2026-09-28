@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2148
+topic_total_pages: 2149
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4713,6 +4713,9 @@ topic_sources:
   - key: "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008"
     title: "318: Hundred Years' War: A Game of Thrones (Part 1)"
     url: "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+  - key: "323-historys-greatest-dogs-glt5170761413"
+    title: "323: History's Greatest Dogs"
+    url: "/wiki/sources/323-historys-greatest-dogs-glt5170761413/"
   - key: "324-fall-of-saigon-the-nightmare-begins-part-1-glt6047251362"
     title: "324: Fall of Saigon: The Nightmare Begins (Part 1)"
     url: "/wiki/sources/324-fall-of-saigon-the-nightmare-begins-part-1-glt6047251362/"

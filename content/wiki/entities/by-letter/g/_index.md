@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 11295
+wiki_total_pages: 11300
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -776,6 +776,9 @@ wiki_pages:
   - key: "GregoryXI"
     title: "Gregory XI"
     url: "/wiki/entities/gregoryxi/"
+  - key: "GreyfriarsBobby"
+    title: "Greyfriars Bobby"
+    url: "/wiki/entities/greyfriarsbobby/"
   - key: "GrillMeSkills"
     title: "GrillMe Skills"
     url: "/wiki/entities/grillmeskills/"

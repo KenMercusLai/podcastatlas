@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2800
+topic_total_pages: 2801
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -760,6 +760,9 @@ topic_concepts:
   - key: "CommonEnemyAlliance"
     title: "Common-Enemy Alliance / 共同敌人联盟"
     url: "/wiki/concepts/commonenemyalliance/"
+  - key: "CompanionAnimalPublicSymbolism"
+    title: "Companion Animal Public Symbolism"
+    url: "/wiki/concepts/companionanimalpublicsymbolism/"
   - key: "CompelledDNASamplingFourthAmendment"
     title: "Compelled DNA Sampling Fourth Amendment"
     url: "/wiki/concepts/compelleddnasamplingfourthamendment/"

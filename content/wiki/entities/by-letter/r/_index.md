@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 11295
+wiki_total_pages: 11300
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -434,6 +434,9 @@ wiki_pages:
   - key: "RidolfiPlot"
     title: "Ridolfi Plot"
     url: "/wiki/entities/ridolfiplot/"
+  - key: "RinTinTin"
+    title: "Rin Tin Tin"
+    url: "/wiki/entities/rintintin/"
   - key: "Ring"
     title: "Ring"
     url: "/wiki/entities/ring/"

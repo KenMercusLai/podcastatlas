@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-29] ingest | 323: History's Greatest Dogs
+
+Added source `323-historys-greatest-dogs-glt5170761413`; created `CheckersDog`, `GreyfriarsBobby`, `BlondieDog`, `LootieDog`, `RinTinTin`, and `CompanionAnimalPublicSymbolism`; and updated `AnimalAnecdoteSourceUncertainty`, `RichardNixon`, and the canonical index from their complete bounded source sets. Core synthesis: named dogs can convert private attachment into political legitimacy, civic loyalty, propaganda intimacy, imperial memory, naval companionship, or film celebrity, but public meaning must be separated from animal biography and the owner's wider moral character. No settled contradiction was adopted. Greyfriars Bobby's vigil, Gellert's historicity, the first-Oscars story, audience and political-causation totals, bunker details, discovery narratives, dialogue, motives, and rankings remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-29] ingest | VOL.41整形外科｜关于男性乳房发育、巨乳症、抽脂、美容针、瘢痕体质的认识误区
 
 Added source `vol-41-zhengxingwaike-guanyu-nanxing-rufang-fayu-juruzheng-chouzhi-meirongzhen-banhentizhi-de-renshi-wuqu-lsknmcasvbogjgadfbfos7uj2t59`; created `LuoLuPlasticSurgeon`, `PlasticSurgeryClinicalScope`, `GynecomastiaClinicalAssessment`, `LiposuctionBodyContouringBoundary`, `WoundCoverageReconstructionSelection`, `ScarKeloidDistinction`, `CosmeticWoundClosurePlanning`, and `MicrotiaEarReconstructionDecision`; and updated `ShanghaiEastHospital` and the canonical index from their complete bounded source sets. Core synthesis: plastic surgery spans disease, reconstruction, function, appearance, and psychosocial care, while clinical selection separates gland from fat, contouring from weight loss, hypertrophic scars from keloids, and closure planning from a supposed universal “美容针.” Wound coverage and microtia reconstruction are matched to tissue needs, operative burden, realistic outcomes, and patient context. No settled contradiction was adopted. Prevalence, cancer association, insurance, procedural, scar, nevus, and technique claims remain source-scoped, and the supplied note ends before the microtia hearing discussion is complete. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -24796,6 +24800,14 @@ Added source `324-fall-of-saigon-the-nightmare-begins-part-1-glt6047251362`; cre
 Ran lint. See lint-report.md for details.
 
 ## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
 

@@ -4,7 +4,8 @@ type: concept
 tags: [animals, historical-method, anecdotes, uncertainty]
 sources:
   - 426-historys-greatest-monkeys-glt5532014348
-last_updated: 2026-09-26
+  - 323-historys-greatest-dogs-glt5170761413
+last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
 
@@ -16,7 +17,7 @@ Animal anecdote source uncertainty is the historical problem created when a memo
 
 ## Current Synthesis
 
-Animal stories are unusually vulnerable to compression around one striking act: a macaque receives a military burial, a fighting monkey defeats dogs, an orangutan kills a trainer, a chimpanzee behaves badly at a celebrity home, a baboon works faultlessly, or a shipwrecked monkey is hanged as a spy. Repetition can preserve the story while erasing the evidentiary path.
+Animal stories are unusually vulnerable to compression around one striking act: a macaque receives a military burial, a fighting monkey defeats dogs, an orangutan kills a trainer, a baboon works faultlessly, a dog keeps vigil at a grave, a prince kills his loyal hound, or a canine film star wins an early Oscars vote. Repetition can preserve the story while erasing the evidentiary path.
 
 Good synthesis separates layers. The existence of an animal, performance, burial, song, mascot, or public controversy may be well supported even when species, motive, dialogue, injuries, death, and causal meaning are not. Conflicting accounts should remain part of the result because they reveal how commercial, reform, civic, and entertainment interests shaped the surviving biography.
 
@@ -28,6 +29,7 @@ Good synthesis separates layers. The existence of an animal, performance, burial
 - A story's cultural afterlife can be secure even when its initiating event is not.
 - Contradictory death and injury accounts should be preserved rather than harmonized without evidence.
 - Source-scoped narration can retain historical meaning without promoting every anecdote to fact.
+- Animal biography and cultural afterlife can have different confidence levels: a monument, novel, film career, or political speech may be secure even when the origin story is not.
 
 ## Evidence
 
@@ -36,6 +38,9 @@ Good synthesis separates layers. The existence of an animal, performance, burial
 - Celebrity death stories - [[426-historys-greatest-monkeys-glt5532014348]] gives competing explanations for Scatter's end.
 - Folklore and civic afterlife - [[426-historys-greatest-monkeys-glt5532014348]] treats the Hartlepool hanging as insecure history while documenting the later song, nickname, mascot, and mayoral campaign.
 - Archaeological interpretation - [[426-historys-greatest-monkeys-glt5532014348]] separates the Llívia macaque burial from competing claims about its military affiliation.
+- Canine civic legend - [[323-historys-greatest-dogs-glt5170761413]] preserves [[GreyfriarsBobby]]'s Edinburgh commemoration while qualifying the fourteen-year vigil and later narrative additions.
+- Traveling loyalty motif - [[323-historys-greatest-dogs-glt5170761413]] treats Gellert's story as emotionally powerful but similar to older fatal-misjudgment tales.
+- Celebrity folklore - [[323-historys-greatest-dogs-glt5170761413]] distinguishes [[RinTinTin]]'s film career from the doubtful story that he won the first Academy Awards vote.
 
 ## Counterevidence & Qualifications
 
@@ -43,8 +48,8 @@ Uncertainty is not proof that an event is false, and later retelling can preserv
 
 ## What Changed
 
-- Created an animal-history-specific evidence framework from the episode's repeated qualifications.
-- Distinguished uncertain initiating events from well-documented cultural afterlives.
+- Extended the framework from primate cases to canine civic legend, traveling story motifs, and film-celebrity folklore.
+- Sharpened the distinction between recoverable biography and documented commemoration, media, or political afterlife.
 
 ## Related Concepts
 
@@ -53,3 +58,4 @@ Uncertainty is not proof that an event is false, and later retelling can preserv
 - [[HistoricalMemoryContest]] - neighboring process through which later interests reshape the meaning of past events.
 - [[FolkloreAsSocialMemory]] - framework for cultural truth and communal use beyond literal event verification.
 - [[InterpretationAndOverinterpretation]] - boundary against converting suggestive detail into settled explanation.
+- [[CompanionAnimalPublicSymbolism]] - explains why uncertain biographies can still produce consequential public meaning.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8694
+wiki_total_pages: 8695
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1511,6 +1511,9 @@ wiki_pages:
   - key: "CompanionAnimalHealth"
     title: "Companion Animal Health"
     url: "/wiki/concepts/companionanimalhealth/"
+  - key: "CompanionAnimalPublicSymbolism"
+    title: "Companion Animal Public Symbolism"
+    url: "/wiki/concepts/companionanimalpublicsymbolism/"
   - key: "CompanionRobots"
     title: "Companion Robots"
     url: "/wiki/concepts/companionrobots/"

@@ -10698,9 +10698,9 @@
       "url": "/wiki/concepts/animalabuseviolencelink/"
     },
     "AnimalAnecdoteSourceUncertainty": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5532014348 [GLT5532014348].md",
@@ -10708,9 +10708,16 @@
           "show": "The Rest Is History",
           "title": "426. History's Greatest Monkeys",
           "url": "/wiki/sources/426-historys-greatest-monkeys-glt5532014348/"
+        },
+        {
+          "episode_file": "GLT5170761413 [GLT5170761413].md",
+          "key": "323-historys-greatest-dogs-glt5170761413",
+          "show": "The Rest Is History",
+          "title": "323: History's Greatest Dogs",
+          "url": "/wiki/sources/323-historys-greatest-dogs-glt5170761413/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/animalanecdotesourceuncertainty/"
     },
     "AnimalIntelligenceModes": {
@@ -19365,6 +19372,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/blockchainfinancialinnovation/"
     },
+    "BlondieDog": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5170761413 [GLT5170761413].md",
+          "key": "323-historys-greatest-dogs-glt5170761413",
+          "show": "The Rest Is History",
+          "title": "323: History's Greatest Dogs",
+          "url": "/wiki/sources/323-historys-greatest-dogs-glt5170761413/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/blondiedog/"
+    },
     "BloodVengeanceToCivicJustice": {
       "episode_count": 1,
       "show_count": 1,
@@ -26891,6 +26914,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/chezhoulatehan/"
     },
+    "CheckersDog": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5170761413 [GLT5170761413].md",
+          "key": "323-historys-greatest-dogs-glt5170761413",
+          "show": "The Rest Is History",
+          "title": "323: History's Greatest Dogs",
+          "url": "/wiki/sources/323-historys-greatest-dogs-glt5170761413/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/checkersdog/"
+    },
     "CheerChanyu": {
       "episode_count": 2,
       "show_count": 1,
@@ -33364,6 +33403,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/concepts/companionanimalhealth/"
+    },
+    "CompanionAnimalPublicSymbolism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5170761413 [GLT5170761413].md",
+          "key": "323-historys-greatest-dogs-glt5170761413",
+          "show": "The Rest Is History",
+          "title": "323: History's Greatest Dogs",
+          "url": "/wiki/sources/323-historys-greatest-dogs-glt5170761413/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/companionanimalpublicsymbolism/"
     },
     "CompanionAnimalSterilizationDecision": {
       "episode_count": 1,
@@ -69579,6 +69634,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/gregoryxi/"
     },
+    "GreyfriarsBobby": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5170761413 [GLT5170761413].md",
+          "key": "323-historys-greatest-dogs-glt5170761413",
+          "show": "The Rest Is History",
+          "title": "323: History's Greatest Dogs",
+          "url": "/wiki/sources/323-historys-greatest-dogs-glt5170761413/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/greyfriarsbobby/"
+    },
     "GriefAttachmentRemapping": {
       "episode_count": 3,
       "show_count": 1,
@@ -103914,6 +103985,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/concepts/longzhongplan/"
+    },
+    "LootieDog": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5170761413 [GLT5170761413].md",
+          "key": "323-historys-greatest-dogs-glt5170761413",
+          "show": "The Rest Is History",
+          "title": "323: History's Greatest Dogs",
+          "url": "/wiki/sources/323-historys-greatest-dogs-glt5170761413/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/lootiedog/"
     },
     "LopeDeAguirre": {
       "episode_count": 1,
@@ -140983,9 +141070,9 @@
       "url": "/wiki/entities/richardjdaley/"
     },
     "RichardNixon": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 4,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "Vol.268 两个劳斯莱斯 [1003563933].md",
@@ -141021,9 +141108,16 @@
           "show": "The Rest Is History",
           "title": "324: Fall of Saigon: The Nightmare Begins (Part 1)",
           "url": "/wiki/sources/324-fall-of-saigon-the-nightmare-begins-part-1-glt6047251362/"
+        },
+        {
+          "episode_file": "GLT5170761413 [GLT5170761413].md",
+          "key": "323-historys-greatest-dogs-glt5170761413",
+          "show": "The Rest Is History",
+          "title": "323: History's Greatest Dogs",
+          "url": "/wiki/sources/323-historys-greatest-dogs-glt5170761413/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-29",
       "url": "/wiki/entities/richardnixon/"
     },
     "RichardSchwartz": {
@@ -141229,6 +141323,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/entities/rilibaqianwanbelthook/"
+    },
+    "RinTinTin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5170761413 [GLT5170761413].md",
+          "key": "323-historys-greatest-dogs-glt5170761413",
+          "show": "The Rest Is History",
+          "title": "323: History's Greatest Dogs",
+          "url": "/wiki/sources/323-historys-greatest-dogs-glt5170761413/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/rintintin/"
     },
     "Ring": {
       "episode_count": 2,

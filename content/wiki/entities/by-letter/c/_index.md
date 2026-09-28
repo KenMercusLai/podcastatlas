@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 11295
+wiki_total_pages: 11300
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -668,6 +668,9 @@ wiki_pages:
   - key: "ChatGPTHealth"
     title: "ChatGPT Health"
     url: "/wiki/entities/chatgpthealth/"
+  - key: "CheckersDog"
+    title: "Checkers"
+    url: "/wiki/entities/checkersdog/"
   - key: "ChelanPUD"
     title: "Chelan PUD"
     url: "/wiki/entities/chelanpud/"
