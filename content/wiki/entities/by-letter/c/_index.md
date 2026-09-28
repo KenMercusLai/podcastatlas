@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 11308
+wiki_total_pages: 11316
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -608,9 +608,15 @@ wiki_pages:
   - key: "CharlesStewartParnell"
     title: "Charles Stewart Parnell"
     url: "/wiki/entities/charlesstewartparnell/"
+  - key: "CharlesTheBad"
+    title: "Charles the Bad"
+    url: "/wiki/entities/charlesthebad/"
   - key: "CharlesV"
     title: "Charles V"
     url: "/wiki/entities/charlesv/"
+  - key: "CharlesVOfFrance"
+    title: "Charles V of France"
+    url: "/wiki/entities/charlesvoffrance/"
   - key: "CharlesVIOfFrance"
     title: "Charles VI of France"
     url: "/wiki/entities/charlesvioffrance/"

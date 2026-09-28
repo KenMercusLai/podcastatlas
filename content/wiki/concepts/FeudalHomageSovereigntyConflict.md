@@ -4,7 +4,8 @@ type: concept
 tags: [history, sovereignty, law, monarchy, medieval-history]
 sources:
   - 318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008
-last_updated: 2026-09-04
+  - 321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345
+last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
 
@@ -20,14 +21,17 @@ The episode grounds the concept in [[Gascony]]. [[England]]'s king rules England
 
 The concept matters because it explains why [[Aquitaine]] is more than territory. Gascon subjects can appeal to the French king, French authorities can investigate disorder, and forfeiture can become an instrument of pressure. When [[PhilipVIOfFrance|Philip VI]] confiscates Aquitaine in 1337, the legal relationship turns into the war threshold.
 
+The Brétigny evidence tests an attempted escape from that hierarchy. [[EdwardIIIOfEngland|Edward III]] receives an enlarged Aquitaine as a sovereign possession, but the practical question of appeal returns when subjects challenge [[EdwardTheBlackPrince|the Black Prince's]] taxation before [[CharlesVOfFrance|Charles V]]. The prince's refusal of a French summons and the ensuing reconquest show that treaty language cannot settle sovereignty if subjects, rulers, and enforcement institutions continue to act on incompatible hierarchies.
+
 ## Key Claims
 
 - A settlement can preserve conflict when it recognizes possession but embeds subordination.
 - Gascony makes the English king both sovereign ruler and French vassal.
 - Appeals over the English king's head make local governance a cross-border sovereignty problem.
-- French investigation and forfeiture threats convert legal hierarchy into geopolitical leverage.
-- The conflict is structural, so it predates Edward III's personal claim to France.
+- French investigation and forfeiture threats convert a structural hierarchy predating Edward III's personal claim into geopolitical leverage.
 - Aquitaine's 1337 confiscation shows how feudal procedure can become open war.
+- Brétigny attempts to remove the homage hierarchy by granting sovereign possession.
+- Aquitanian tax appeals show that legal practice can survive or reopen after formal settlement.
 
 ## Evidence
 
@@ -36,14 +40,17 @@ The concept matters because it explains why [[Aquitaine]] is more than territory
 - Humiliation: [[318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008]] says Edward I found the arrangement humiliating and limiting.
 - Edward II pressure: [[318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008]] says French claims of disorder in Aquitaine helped justify intervention.
 - War threshold: [[318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008]] says Philip VI's confiscation of Aquitaine in May 1337 was effectively war.
+- Sovereign settlement: [[321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345]] presents Brétigny as granting enlarged Aquitaine without French overlordship.
+- Renewed appeal conflict: [[321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345]] links Aquitanian appeals, the Black Prince's rejected summons, and Charles V's intervention to renewed war.
 
 ## Counterevidence & Qualifications
 
-The concept is currently grounded in one medieval Anglo-French case. It should not be generalized to all sovereignty conflicts without attention to the specific legal hierarchy, appeal rights, and enforcement capacity involved.
+The concept remains grounded in one medieval Anglo-French case across two episode sources. The exact legal effectiveness of Brétigny and its renunciations is not established here. It should not be generalized without attention to hierarchy, appeal rights, local allegiance, and enforcement capacity.
 
 ## What Changed
 
-- Created the concept to capture the Gascony/Aquitaine legal mechanism behind the war.
+- Extended the concept from the 1337 forfeiture trigger to Brétigny's failed attempt to terminate the hierarchy.
+- Added taxation appeals as a mechanism that reopens sovereignty conflict after treaty settlement.
 
 ## Related Concepts
 
@@ -51,3 +58,6 @@ The concept is currently grounded in one medieval Anglo-French case. It should n
 - [[DynasticClaimNationalMobilization]] - political mobilization pattern layered on top of the legal dispute.
 - [[MilitaryBaseSovereignty]] - modern adjacent sovereignty problem where territorial control and legal authority diverge.
 - [[AIEmpireSovereigntyRisk]] - distant adjacent concept about external infrastructure eroding local control.
+- [[TreatyOfBretigny]] - formal attempt to replace homage with sovereign possession.
+- [[BattlefieldVictoryPoliticalControl]] - broader gap between legal-military gains and enforceable rule.
+- [[AttritionalReconquest]] - recovery strategy that uses appellate and allegiance openings.

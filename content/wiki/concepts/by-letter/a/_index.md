@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 8705
+wiki_total_pages: 8707
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2414,6 +2414,9 @@ wiki_pages:
   - key: "AttractivenessLaborMarketPremium"
     title: "Attractiveness Labor-Market Premium / 外貌劳动力市场溢价"
     url: "/wiki/concepts/attractivenesslabormarketpremium/"
+  - key: "AttritionalReconquest"
+    title: "Attritional Reconquest"
+    url: "/wiki/concepts/attritionalreconquest/"
   - key: "AudienceBeforeProductMarketing"
     title: "Audience Before Product Marketing"
     url: "/wiki/concepts/audiencebeforeproductmarketing/"

@@ -1526,6 +1526,13 @@
       "url": "/topics/history/"
     }
   ],
+  "321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "322-east-germany-life-behind-the-iron-curtain-glt4069689977": [
     {
       "key": "history",
@@ -76627,6 +76634,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "TreatyOfBretigny": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "TreatyOfParis1783": [

@@ -1120,6 +1120,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [317: African Amazons](sources/317-african-amazons-glt5973082485.md) — The Rest Is History episode on African women warriors, queen mothers, female rulers, Kush, Njinga, Asante, Ranavalona I, Dahomey's Agojie, and the moral/source problems around slavery and European "Amazon" projection.
 - [VOL.35康复医学科｜对“贵人语迟”的误解会耽误儿童言语的发展](sources/vol-35-kangfu-yixueke-dui-guiren-yuchi-de-wujie-hui-danwu-ertong-yanyu-de-fazhan-lnmoqgfmshs-zzt1gxkutv06w8aj.md) — 这病说来话长 episode with 阿汤 and speech therapist 梨花医生 on pediatric language-delay warning signs, family communication scaffolding, adult aphasia rhythm cueing, dysarthria boundaries, and long-term speech-language rehabilitation.
 - [318: Hundred Years' War: A Game of Thrones (Part 1)](sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008.md) — The Rest Is History episode on the Hundred Years' War origins through French power, English continental vulnerability, Gascony homage, Capetian succession, Scotland, Aquitaine, and Edward III's 1337 manifesto.
+- [321: Hundred Years' War: A Storm of Swords (Part 4)](sources/321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345.md) — The Rest Is History episode on post-Poitiers disorder, Brétigny, the Black Prince's Aquitaine, Charles V's recovery, du Guesclin's attrition, and the collapse of England's early gains.
 - [Control Stress for Healthy Eating, Metabolism & Aging | Dr. Elissa Epel](sources/control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803.md) — Huberman Lab episode with Elissa Epel on stress response and recovery, threat-versus-challenge appraisal, stress eating, mindful cue control, telomeres, mitochondria, acceptance, uncertainty tolerance, and positive-stress breathwork.
 - [从抢 GPU 到喂 AI，互联网正在悄悄更换主人](sources/ba044533d184-ba044533d184.md) — 科技乱炖 episode on Nvidia/CUDA moat pressure, GPU spot-market trust friction, model price routing, agent-readable web design, agent payment, MCP-style service access, and AI-assisted infrastructure operations.
 - [272. 从飞书基座到Agent优先，豆包工作All in one紧追WorkBuddy](sources/272-cong-feishu-jizuo-dao-agent-youxian-doubao-gongzuo-all-in-one-jinzhui-workbuddy-lqmfcnfkkhoxt440qy26vwpnvswp.md) — 乱翻书 episode on Doubao Work as ByteDance's Feishu/Doubao/Trae/Coze consolidation, with WorkBuddy and Qwen Office comparisons, connector quality, office-agent harness design, token pricing, FDE, and enterprise AI readiness.
@@ -5173,15 +5174,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Huaxizi / 花西子](entities/Huaxizi.md) — Chinese beauty brand whose Korean pop-up and store-channel entry illustrate Chinese beauty localization in Korea.
 - [Mingming Henmang / 鸣鸣很忙](entities/MingmingHenmang.md) — Chinese value snack chain used as evidence for discount-snack store growth and channel concentration.
 - [Wanchen Group / 万辰集团](entities/WanchenGroup.md) — Chinese value snack chain operator used as evidence for discount-snack revenue growth and consolidation.
-- [Hundred Years' War](entities/HundredYearsWar.md) — Anglo-French conflict branch opened through dynastic succession, Gascony homage, Scotland, Aquitaine, and competing war-memory frames.
-- [Edward III of England](entities/EdwardIIIOfEngland.md) — English king whose French claim, Scottish policy, Gascon vulnerability, and 1337 manifesto open the Hundred Years' War branch.
+- [Hundred Years' War](entities/HundredYearsWar.md) — Anglo-French conflict branch spanning its structural origins, post-Poitiers reversal, and Henry V's later high point.
+- [Edward III of England](entities/EdwardIIIOfEngland.md) — English king whose mobilization and victories produce large but ultimately unstable French gains.
 - [Philip VI of France](entities/PhilipVIOfFrance.md) — Valois king chosen over Edward III's claim and tied to the 1337 confiscation of Aquitaine.
 - [Edward II of England](entities/EdwardIIOfEngland.md) — Weak predecessor whose defeat, Aquitaine crisis, and deposition shape Edward III's inheritance.
 - [Isabella of France](entities/IsabellaOfFrance.md) — Capetian daughter, English queen, and maternal route for Edward III's French claim.
 - [Roger Mortimer](entities/RogerMortimer.md) — Regency power whose Scottish settlement and fall help frame Edward III's later assertion of authority.
 - [Philip IV of France](entities/PhilipIVOfFrance.md) — Capetian ruler at the episode's peak-French-power moment before succession failure.
 - [Gascony](entities/Gascony.md) — English-held French possession where homage, appeals, wine trade, and forfeiture threats collide.
-- [Aquitaine](entities/Aquitaine.md) — Duchy whose 1337 confiscation becomes the Hundred Years' War threshold in the source.
+- [Aquitaine](entities/Aquitaine.md) — Duchy whose confiscation opens war and whose Brétigny enlargement exposes contested sovereignty, taxation, and allegiance.
 - [Capetian Dynasty](entities/CapetianDynasty.md) — French dynasty whose long stable succession fails after Philip IV's sons.
 - [Valois Dynasty](entities/ValoisDynasty.md) — Collateral French royal line selected through Philip VI after direct Capetian male failure.
 - [Franco-Scottish Alliance](entities/FrancoScottishAlliance.md) — 1295 alliance mechanism that makes Scotland part of Anglo-French diplomacy.
@@ -14476,6 +14477,14 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Matthew MacDougall](entities/MatthewMacDougall.md) — Neurosurgeon connecting Neuralink’s assistive-interface roadmap to surgical precision, decoding, and augmentation boundaries.
 - [Neuralink](entities/Neuralink.md) — Neurotechnology company presented through its April 2023 assistive cortical-interface and robotic-insertion roadmap.
+- [John II of France](entities/JohnIIOfFrance.md) — Captive French king whose ransom value and concessions exceed the fractured kingdom's implementation capacity.
+- [Charles V of France](entities/CharlesVOfFrance.md) — French king who rebuilds revenue and loyalty and recovers most early English gains through attritional strategy.
+- [Charles the Bad](entities/CharlesTheBad.md) — Navarrese rival whose shifting Parisian, noble, and estate alliances deepen post-Poitiers disorder.
+- [Edward the Black Prince](entities/EdwardTheBlackPrince.md) — English prince whose costly Aquitanian rule turns military prestige into fiscal and allegiance problems.
+- [Bertrand du Guesclin](entities/BertrandDuGuesclin.md) — French constable associated with battle avoidance and attritional territorial recovery.
+- [Treaty of Brétigny](entities/TreatyOfBretigny.md) — 1360 settlement exchanging Edward III's crown claim for enlarged but fragile sovereign territory.
+- [Jacquerie](entities/Jacquerie.md) — Peasant uprising that exposes France's social and political breakdown after Poitiers.
+- [Free Companies in the Hundred Years' War](entities/FreeCompaniesHundredYearsWar.md) — Mobile veteran companies whose predation makes demobilization and territorial governance unstable.
 
 ## Concepts
 - [GDR State Legitimacy](concepts/GDRStateLegitimacy.md) — Combined model of Soviet force, coercion, provision, attachment, and unmet reform expectations in East German durability.
@@ -16459,9 +16468,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Aphasia Rhythm Cueing](concepts/AphasiaRhythmCueing.md) — Speech-rehabilitation branch using familiar music, rhythm, counting, chanting, and situational fill-ins to support adult aphasia expression.
 - [Dysarthria Capability Boundary](concepts/DysarthriaCapabilityBoundary.md) — Boundary separating unclear articulation from assumptions about intelligence, creativity, humor, writing, or broader communication potential.
 - [Capetian Succession Crisis](concepts/CapetianSuccessionCrisis.md) — French succession rupture after Philip IV's sons that makes Edward III's rejected claim politically consequential.
-- [Feudal Homage Sovereignty Conflict](concepts/FeudalHomageSovereigntyConflict.md) — Pattern where a ruler is sovereign in one order but subordinate in another, grounded in Gascony and Aquitaine.
+- [Feudal Homage Sovereignty Conflict](concepts/FeudalHomageSovereigntyConflict.md) — Pattern where formal sovereignty, homage, and appellate practice conflict before and after Brétigny.
 - [Dynastic Claim National Mobilization](concepts/DynasticClaimNationalMobilization.md) — Pattern where Edward III converts a dynastic and territorial claim into parliamentary and English-cause framing.
-- [Chivalric Romance War Memory](concepts/ChivalricRomanceWarMemory.md) — War-memory frame contrasting knights, honor, and patriotic adventure with catastrophic social violence.
+- [Chivalric Romance War Memory](concepts/ChivalricRomanceWarMemory.md) — War-memory frame contrasting knights and honor with social violence, strategic failure, and institutional collapse.
 - [Stress Response Recovery](concepts/StressResponseRecovery.md) — Epel frame where stress outcomes depend on appraisal, body activation, recovery, coping resources, and whether the stress response remains active longer than needed.
 - [Threat Challenge Stress Reappraisal](concepts/ThreatChallengeStressReappraisal.md) — Stress-appraisal concept separating threat physiology from challenge physiology and emphasizing believable resource-backed scripts.
 - [Stress Eating Reward Loop](concepts/StressEatingRewardLoop.md) — Pattern where stress, cravings, insulin resistance, reward sensitivity, compulsive eating traits, and liquid-sugar environments can reinforce each other in some people.
@@ -23210,5 +23219,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Robotic Neural-Electrode Insertion](concepts/RoboticNeuralElectrodeInsertion.md) — Machine-guided placement of fine neural electrodes within a surgeon-led workflow.
 - [Neural-Interface Bitrate–Adoption Tradeoff](concepts/NeuralInterfaceBitrateAdoptionTradeoff.md) — Framework balancing useful neural information transfer against invasiveness, risk, training, and user need.
 - [Floater Symptom Triage / 飞蚊与眼前黑影分诊](concepts/FloaterSymptomTriage.md) — Boundary separating familiar stable vitreous shadows from new, changing, or uncertain visual symptoms requiring ophthalmic assessment.
+- [Battlefield Victory and Political Control](concepts/BattlefieldVictoryPoliticalControl.md) — Gap between military leverage and the revenue, allegiance, administration, and enforcement needed for durable rule.
+- [Attritional Reconquest](concepts/AttritionalReconquest.md) — State-backed recovery through sustained pressure, local allegiance, legal openings, and avoidance of an opponent's preferred decisive battle.
 
 ## Syntheses

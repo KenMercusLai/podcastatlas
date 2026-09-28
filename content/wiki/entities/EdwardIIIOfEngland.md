@@ -5,7 +5,8 @@ tags: [person, monarch, england, medieval-history]
 sources:
   - 318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008
   - 462-st-george-dragon-slayer-glt5334319363
-last_updated: 2026-09-25
+  - 321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345
+last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
 
@@ -13,7 +14,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Edward III of England appears as the young English king who turns inherited humiliation, Scottish policy, Gascon vulnerability, and a disputed French succession claim into the opening confrontation of the [[HundredYearsWar|Hundred Years' War]].
+Edward III of England appears as the king who turns inherited humiliation, Scottish policy, Gascon vulnerability, and a disputed French succession claim into the [[HundredYearsWar|Hundred Years' War]], then discovers that extraordinary victories cannot guarantee durable rule in France.
 
 ## Current Profile
 
@@ -23,15 +24,17 @@ Edward's war path emerges through linked constraints. He rejects the humiliation
 
 The George episode adds Edward's symbolic statecraft. By founding the [[OrderOfTheGarter]] on St George's feast and placing the armored saint on the order's seal, he joined monarchy, chivalry, military patronage, and the saint's red-cross imagery in a durable English institution.
 
+The later source shows the limit of Edward's war system. John II's captivity and French disorder create leverage, but Edward cannot take Reims or Paris in 1359-1360. The [[TreatyOfBretigny|Treaty of Brétigny]] gives him enlarged sovereign [[Aquitaine]] in exchange for renouncing the French crown claim, yet the Black Prince's costly government, Aquitanian appeals, and [[CharlesVOfFrance|Charles V's]] recovery unravel most of the gain. Edward renews the crown claim after the treaty breaks down but dies in 1377 amid political and military decline.
+
 ## Key Characteristics
 
 - English king whose French claim comes through his mother Isabella.
 - Presented as initially cautious rather than rushing into war over succession.
 - Uses a 1330 coup against Mortimer to take direct control.
-- Pursues Scottish policy in a way that activates French treaty commitments.
-- Treats Gascon homage and forfeiture threats as intolerable constraints.
+- Pursues Scottish policy and resists Gascon homage constraints in ways that activate French treaty commitments and forfeiture pressure.
 - Converts dynastic and territorial grievance into parliamentary and public mobilization.
 - Uses St George and the Order of the Garter to institutionalize chivalric and royal symbolism.
+- Turns raids, captivity, and Poitiers-era leverage into the large but unstable Brétigny settlement without securing lasting French territorial control.
 
 ## Evidence
 
@@ -41,14 +44,17 @@ The George episode adds Edward's symbolic statecraft. By founding the [[OrderOfT
 - Gascon grievance: [[318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008]] presents Aquitaine's confiscation as the effective declaration of war.
 - National framing: [[318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008]] says Edward goes to Parliament and issues an August 1337 manifesto against Philip.
 - Garter patronage: [[462-st-george-dragon-slayer-glt5334319363]] dates Edward's foundation of the order to St George's feast in 1344 and describes its first seal as the king kneeling before the armored saint.
+- Failed final invasion: [[321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345]] says Edward cannot take Reims or Paris despite deep campaigning.
+- Settlement and reversal: [[321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345]] links Brétigny to enlarged Aquitaine, later treaty repudiation, renewed crown claims, and the collapse of English positions.
 
 ## Qualifications
 
-This profile remains selective. Edward's later campaigns, longbow use, naval strategy, victories, diplomacy, and much of his reign are not developed by the source set. The St George source supplies institutional symbolism but is not a comprehensive history of the Garter or a precise audit of foundation chronology.
+This profile remains selective. The source set does not supply a continuous account of Edward's campaigns, longbow use, naval strategy, government, or diplomacy. The post-Poitiers narrative compresses treaty implementation and French reconquest, while the St George source is not a comprehensive history of the Garter or a precise audit of foundation chronology.
 
 ## What Changed
 
-- Added Edward's George-centered Garter patronage as a symbolic counterpart to his parliamentary and military mobilization.
+- Added the gap between Edward's Poitiers-era leverage and the inability to conquer or retain most French gains.
+- Added Brétigny, treaty repudiation, and late-reign decline to the current profile.
 
 ## Relationships
 
@@ -64,3 +70,7 @@ This profile remains selective. Edward's later campaigns, longbow use, naval str
 - [[DynasticClaimNationalMobilization]] - pattern embodied by Edward's 1337 political framing.
 - [[StGeorge]] - saint Edward made central to English royal chivalric patronage.
 - [[OrderOfTheGarter]] - order through which Edward institutionalized that patronage.
+- [[JohnIIOfFrance]] - captive king whose ransom and concessions create English leverage.
+- [[TreatyOfBretigny]] - settlement exchanging Edward's crown claim for sovereign territory.
+- [[EdwardTheBlackPrince]] - son whose Aquitanian government inherits the settlement's burdens.
+- [[BattlefieldVictoryPoliticalControl]] - concept explaining why Edward's victories fail to yield lasting conquest.

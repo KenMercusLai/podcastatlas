@@ -8,7 +8,8 @@ sources:
   - 489-hundred-years-war-bloodbath-at-agincourt-part-3-glt5834061192
   - 488-hundred-years-war-the-road-to-agincourt-part-2-glt2110427983
   - 487-hundred-years-war-henry-v-s-invasion-of-france-part-1-glt7554933021
-last_updated: 2026-09-23
+  - 321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345
+last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
 
@@ -16,11 +17,15 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-The Hundred Years' War is the 1337-1453 Anglo-French conflict whose current wiki evidence connects its structural origins to [[HenryVOfEngland|Henry V's]] 1415-1422 military and dynastic high point.
+The Hundred Years' War is the 1337-1453 Anglo-French conflict whose current wiki evidence connects its structural origins, the reversal of England's early Poitiers-era advantage, and [[HenryVOfEngland|Henry V's]] later 1415-1422 military and dynastic high point.
 
 ## Current Profile
 
 The origin evidence argues that the war did not begin only because [[EdwardIIIOfEngland|Edward III]] was denied the French throne. That claim operated inside a larger field: [[France]] was the richer and more prestigious kingdom, [[England]] retained a legally vulnerable [[Gascony]], and [[Scotland]] gave France a northern route to pressure England. [[PhilipVIOfFrance|Philip VI's]] 1337 confiscation of [[Aquitaine]] converted these structural disputes into open war.
+
+The early-war reversal shows why victories do not automatically become control. After Poitiers, captive [[JohnIIOfFrance|John II]], French civil disorder, the [[Jacquerie]], and free-company violence gave England enormous leverage but also weakened the state expected to fund and enforce concessions. Edward III failed to take Reims or Paris and accepted the [[TreatyOfBretigny|Treaty of Brétigny]], exchanging his crown claim for enlarged sovereign territory.
+
+That settlement remained politically fragile. [[EdwardTheBlackPrince|The Black Prince's]] court, taxes, Castilian debts, and rejection of French appellate authority alienated Aquitanian subjects. [[CharlesVOfFrance|Charles V]] restored revenue and local loyalty, while [[BertrandDuGuesclin|Bertrand du Guesclin]] avoided open battle and pursued [[AttritionalReconquest|attritional reconquest]], recovering most English gains without reproducing Crécy or Poitiers in reverse.
 
 The 1415 sequence begins with a different imbalance from 1337. [[CharlesVIOfFrance|Charles VI's]] incapacity and the [[ArmagnacBurgundianCivilWar]] fragmented the richer kingdom, while [[HenryVOfEngland|Henry V]] inherited a more consolidated English war machine and a contested dynasty that made victory politically valuable. Maximalist diplomacy, parliamentary support, archers, shipping, and artillery turned opportunity into invasion, while the [[SouthamptonPlot]] exposed the domestic consequences of failure.
 
@@ -30,18 +35,21 @@ The later evidence shows Henry's dynastic claim becoming politically plausible a
 
 ## Key Characteristics
 
-- Long conflict framed as lasting from 1337 to 1453, with current coverage concentrated on its origin and Henry V's high point.
+- Long conflict framed as lasting from 1337 to 1453, with current coverage spanning its origin, the post-Poitiers reversal, and Henry V's high point.
 - Repeated interaction among dynastic claims, territorial law, factional alignment, and national mobilization rather than a single cause.
-- Changing asymmetry: richer France dominated early, but by 1415 its factional collapse met English fiscal and military preparation.
+- Reversible asymmetry: early English battlefield supremacy fails under French state recovery, while later French factional collapse again creates English opportunity.
 - Territorial hinges shifting from Gascony and Aquitaine at the opening to Normandy, where French civil division created opportunity for Henry V.
 - Battlefield effectiveness shaped by terrain, combined-arms coordination, command structure, and timing as much as force totals.
-- Campaign outcomes shaped before battle by siege duration, disease, provisions, crossings, weather, and route denial.
-- Dynastic settlement at Troyes reaching beyond conquest toward a dual monarchy remembered between chivalric-national triumph and catastrophic social violence.
+- Durable control shaped beyond battle by revenue, allegiance, legal authority, demobilization, logistics, disease, and succession.
+- Treaty settlements at Brétigny and Troyes reaching beyond conquest yet remaining vulnerable to contested legitimacy and enforcement.
 
 ## Evidence
 
 - Origins and asymmetry: [[318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008]] links succession, Gascony, Scotland, trade, English identity, and materially stronger French monarchy to the opening crisis.
 - Territorial law and mobilization: [[318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008]] makes Gascon homage and Aquitaine's confiscation central before Edward uses Parliament and manifesto.
+- Post-Poitiers leverage and disorder: [[321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345]] connects John II's captivity, ransom diplomacy, Parisian turmoil, the Jacquerie, and free companies to England's inability to institutionalize victory.
+- Brétigny and Aquitaine: [[321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345]] links sovereign territorial gains to war damage, court costs, taxation, appeals, and renewed sovereignty conflict.
+- French recovery: [[321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345]] credits Charles V's revenue and loyalty rebuilding and du Guesclin's battle avoidance with attritional reconquest.
 - Pre-invasion opportunity: [[487-hundred-years-war-henry-v-s-invasion-of-france-part-1-glt7554933021]] links Charles VI's incapacity, French civil war, Henry's demands, parliamentary finance, and military preparation to the 1415 expedition.
 - Domestic stakes: [[487-hundred-years-war-henry-v-s-invasion-of-france-part-1-glt7554933021]] connects Lancastrian insecurity and the Southampton Plot to the risk of war.
 - Harfleur and the march: [[488-hundred-years-war-the-road-to-agincourt-part-2-glt2110427983]] connects siege delay, disease, discipline, provisions, Somme denial, river crossing, and French concentration to the approach to Agincourt.
@@ -54,13 +62,13 @@ The later evidence shows Henry's dynastic claim becoming politically plausible a
 
 ## Qualifications
 
-Coverage remains discontinuous: it contains the origin and the 1415-1422 sequence, not the intervening early campaigns or later French recovery. Population, financial, fleet, route, force, arrow, casualty, and prisoner figures remain podcast claims rather than independently audited data. The evidence does not resolve the sincerity of Henry's bargaining position, whether he sought battle during the march, or whether he could have sustained Troyes had he lived.
+Coverage remains discontinuous: it contains the origin, a compressed post-Poitiers-to-1380 reversal, and the 1415-1422 sequence, not a continuous campaign history. Population, financial, fleet, route, force, arrow, casualty, ransom, and prisoner figures remain podcast claims rather than independently audited data. The evidence does not resolve the exact implementation of Brétigny, the relative causes of Charles V's recovery, the sincerity of Henry V's bargaining position, whether he sought battle during the march, or whether he could have sustained Troyes had he lived.
 
 ## What Changed
 
-- Added the pre-invasion causal layer of French royal incapacity, factional civil war, English diplomacy, mobilization, and domestic risk.
-- Filled the 1415 operational layer from Harfleur through the Somme crossing and French concentration.
-- Added disciplined-conquest claims, logistics, disease, provisions, and route denial to the war's military and moral profile.
+- Added the post-Poitiers gap between battlefield victory and governable settlement.
+- Added Brétigny, Black Prince taxation, Aquitanian appeals, and renewed sovereignty conflict.
+- Added Charles V's state rebuilding and du Guesclin's attritional reconquest as the mechanism of early English reversal.
 
 ## Relationships
 
@@ -74,6 +82,11 @@ Coverage remains discontinuous: it contains the origin and the 1415-1422 sequenc
 - [[FrancoScottishAlliance]] - alliance pressure that makes Scotland part of the Anglo-French crisis.
 - [[ChivalricRomanceWarMemory]] - memory frame contrasted with the war's catastrophic social effects.
 - [[DynasticClaimNationalMobilization]] - political pattern by which Edward turns a royal claim into a wider English cause.
+- [[TreatyOfBretigny]] - settlement converting early victories into large but fragile sovereign gains.
+- [[CharlesVOfFrance]] - French king whose state rebuilding reverses those gains.
+- [[BertrandDuGuesclin]] - commander associated with battle avoidance and attritional recovery.
+- [[BattlefieldVictoryPoliticalControl]] - distinction between defeating an enemy and sustaining territorial rule.
+- [[AttritionalReconquest]] - strategy by which France recovers territory without seeking a symmetrical decisive victory.
 - [[BattleOfAgincourt]] - victory transforming English legitimacy and French elite capacity.
 - [[Harfleur]] - costly port victory that reshaped Henry's 1415 campaign.
 - [[CampaignLogisticsBattlefieldSelection]] - campaign-level interaction explaining how armies reached Agincourt.

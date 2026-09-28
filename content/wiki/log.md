@@ -24846,3 +24846,11 @@ Added source `vol-39-yanke-yanke-zhuren-qing-huida-18-wei-tingyou-de-yanke-wenti
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | 321: Hundred Years' War: A Storm of Swords (Part 4)
+
+Added source `321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345`; created `JohnIIOfFrance`, `CharlesVOfFrance`, `CharlesTheBad`, `EdwardTheBlackPrince`, `BertrandDuGuesclin`, `TreatyOfBretigny`, `Jacquerie`, `FreeCompaniesHundredYearsWar`, `BattlefieldVictoryPoliticalControl`, and `AttritionalReconquest`; and updated `HundredYearsWar`, `EdwardIIIOfEngland`, `Aquitaine`, `FeudalHomageSovereigntyConflict`, and `ChivalricRomanceWarMemory` from their complete bounded source sets. Core synthesis: England's Poitiers-era military leverage could not become durable political control because conquest, ransom, sovereign territory, taxation, local allegiance, demobilization, appellate authority, and enforcement did not align; Charles V and Bertrand du Guesclin reversed the gains through state rebuilding and attritional reconquest rather than a symmetrical decisive victory. No settled contradiction was adopted. Motives, figures, treaty implementation, Limoges, social effects, and the compressed post-1368 campaign narrative remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

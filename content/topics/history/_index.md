@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2150
+topic_total_pages: 2151
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4713,6 +4713,9 @@ topic_sources:
   - key: "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008"
     title: "318: Hundred Years' War: A Game of Thrones (Part 1)"
     url: "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+  - key: "321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345"
+    title: "321: Hundred Years' War: A Storm of Swords (Part 4)"
+    url: "/wiki/sources/321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345/"
   - key: "322-east-germany-life-behind-the-iron-curtain-glt4069689977"
     title: "322: East Germany: Life Behind the Iron Curtain"
     url: "/wiki/sources/322-east-germany-life-behind-the-iron-curtain-glt4069689977/"

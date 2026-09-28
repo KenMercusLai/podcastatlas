@@ -12453,9 +12453,9 @@
       "url": "/wiki/concepts/apprenticeshipbeforeoriginality/"
     },
     "Aquitaine": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5584156008 [GLT5584156008].md",
@@ -12463,9 +12463,16 @@
           "show": "The Rest Is History",
           "title": "318: Hundred Years' War: A Game of Thrones (Part 1)",
           "url": "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+        },
+        {
+          "episode_file": "GLT1570526345 [GLT1570526345].md",
+          "key": "321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345",
+          "show": "The Rest Is History",
+          "title": "321: Hundred Years' War: A Storm of Swords (Part 4)",
+          "url": "/wiki/sources/321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345/"
         }
       ],
-      "updated": "2026-09-04",
+      "updated": "2026-09-29",
       "url": "/wiki/entities/aquitaine/"
     },
     "ArabianNights": {
@@ -14168,6 +14175,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/attilathehun/"
+    },
+    "AttritionalReconquest": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1570526345 [GLT1570526345].md",
+          "key": "321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345",
+          "show": "The Rest Is History",
+          "title": "321: Hundred Years' War: A Storm of Swords (Part 4)",
+          "url": "/wiki/sources/321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/attritionalreconquest/"
     },
     "AudienceBeforeProductMarketing": {
       "episode_count": 1,
@@ -17356,6 +17379,22 @@
       "updated": "2026-09-25",
       "url": "/wiki/concepts/battlefieldreconstructionunderuncertainty/"
     },
+    "BattlefieldVictoryPoliticalControl": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1570526345 [GLT1570526345].md",
+          "key": "321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345",
+          "show": "The Rest Is History",
+          "title": "321: Hundred Years' War: A Storm of Swords (Part 4)",
+          "url": "/wiki/sources/321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/battlefieldvictorypoliticalcontrol/"
+    },
     "Baturin": {
       "episode_count": 1,
       "show_count": 1,
@@ -18342,6 +18381,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/berntbornich/"
+    },
+    "BertrandDuGuesclin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1570526345 [GLT1570526345].md",
+          "key": "321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345",
+          "show": "The Rest Is History",
+          "title": "321: Hundred Years' War: A Storm of Swords (Part 4)",
+          "url": "/wiki/sources/321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/bertrandduguesclin/"
     },
     "BespokeHeritageEconomy": {
       "episode_count": 1,
@@ -26808,6 +26863,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/charlesstewartparnell/"
     },
+    "CharlesTheBad": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1570526345 [GLT1570526345].md",
+          "key": "321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345",
+          "show": "The Rest Is History",
+          "title": "321: Hundred Years' War: A Storm of Swords (Part 4)",
+          "url": "/wiki/sources/321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/charlesthebad/"
+    },
     "CharlesV": {
       "episode_count": 1,
       "show_count": 1,
@@ -26862,6 +26933,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/charlesvioffrance/"
+    },
+    "CharlesVOfFrance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1570526345 [GLT1570526345].md",
+          "key": "321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345",
+          "show": "The Rest Is History",
+          "title": "321: Hundred Years' War: A Storm of Swords (Part 4)",
+          "url": "/wiki/sources/321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/charlesvoffrance/"
     },
     "CharlesXII": {
       "episode_count": 3,
@@ -29898,9 +29985,9 @@
       "url": "/wiki/entities/chitingdefenselatehan/"
     },
     "ChivalricRomanceWarMemory": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5584156008 [GLT5584156008].md",
@@ -29915,9 +30002,16 @@
           "show": "The Rest Is History",
           "title": "446. Custer vs. Crazy Horse: Civil War (Part 1)",
           "url": "/wiki/sources/446-custer-vs-crazy-horse-civil-war-part-1-glt9088781244/"
+        },
+        {
+          "episode_file": "GLT1570526345 [GLT1570526345].md",
+          "key": "321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345",
+          "show": "The Rest Is History",
+          "title": "321: Hundred Years' War: A Storm of Swords (Part 4)",
+          "url": "/wiki/sources/321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/chivalricromancewarmemory/"
     },
     "ChivalricSacralization": {
@@ -47863,9 +47957,9 @@
       "url": "/wiki/entities/edwardheath/"
     },
     "EdwardIIIOfEngland": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5584156008 [GLT5584156008].md",
@@ -47880,9 +47974,16 @@
           "show": "The Rest Is History",
           "title": "462. St George: Dragon-Slayer",
           "url": "/wiki/sources/462-st-george-dragon-slayer-glt5334319363/"
+        },
+        {
+          "episode_file": "GLT1570526345 [GLT1570526345].md",
+          "key": "321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345",
+          "show": "The Rest Is History",
+          "title": "321: Hundred Years' War: A Storm of Swords (Part 4)",
+          "url": "/wiki/sources/321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-09-29",
       "url": "/wiki/entities/edwardiiiofengland/"
     },
     "EdwardIIOfEngland": {
@@ -47994,6 +48095,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/edwardteller/"
+    },
+    "EdwardTheBlackPrince": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1570526345 [GLT1570526345].md",
+          "key": "321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345",
+          "show": "The Rest Is History",
+          "title": "321: Hundred Years' War: A Storm of Swords (Part 4)",
+          "url": "/wiki/sources/321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/edwardtheblackprince/"
     },
     "EdwardTheConfessor": {
       "episode_count": 4,
@@ -58977,9 +59094,9 @@
       "url": "/wiki/entities/fettermanfight/"
     },
     "FeudalHomageSovereigntyConflict": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5584156008 [GLT5584156008].md",
@@ -58987,9 +59104,16 @@
           "show": "The Rest Is History",
           "title": "318: Hundred Years' War: A Game of Thrones (Part 1)",
           "url": "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+        },
+        {
+          "episode_file": "GLT1570526345 [GLT1570526345].md",
+          "key": "321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345",
+          "show": "The Rest Is History",
+          "title": "321: Hundred Years' War: A Storm of Swords (Part 4)",
+          "url": "/wiki/sources/321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345/"
         }
       ],
-      "updated": "2026-09-04",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/feudalhomagesovereigntyconflict/"
     },
     "FeuillantClub": {
@@ -62397,6 +62521,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/entities/frederickthewise/"
+    },
+    "FreeCompaniesHundredYearsWar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1570526345 [GLT1570526345].md",
+          "key": "321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345",
+          "show": "The Rest Is History",
+          "title": "321: Hundred Years' War: A Storm of Swords (Part 4)",
+          "url": "/wiki/sources/321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/freecompanieshundredyearswar/"
     },
     "FreeDerry": {
       "episode_count": 1,
@@ -81194,9 +81334,9 @@
       "url": "/wiki/concepts/hundredschoolssynthesis/"
     },
     "HundredYearsWar": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT5584156008 [GLT5584156008].md",
@@ -81232,9 +81372,16 @@
           "show": "The Rest Is History",
           "title": "487. Hundred Years' War: Henry V's Invasion of France (Part 1)",
           "url": "/wiki/sources/487-hundred-years-war-henry-v-s-invasion-of-france-part-1-glt7554933021/"
+        },
+        {
+          "episode_file": "GLT1570526345 [GLT1570526345].md",
+          "key": "321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345",
+          "show": "The Rest Is History",
+          "title": "321: Hundred Years' War: A Storm of Swords (Part 4)",
+          "url": "/wiki/sources/321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-29",
       "url": "/wiki/entities/hundredyearswar/"
     },
     "HuoChengjunWesternHan": {
@@ -87917,6 +88064,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/jacquelinekennedyonassis/"
     },
+    "Jacquerie": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1570526345 [GLT1570526345].md",
+          "key": "321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345",
+          "show": "The Rest Is History",
+          "title": "321: Hundred Years' War: A Storm of Swords (Part 4)",
+          "url": "/wiki/sources/321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/jacquerie/"
+    },
     "JacquesHebert": {
       "episode_count": 1,
       "show_count": 1,
@@ -91045,6 +91208,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/johngroner/"
+    },
+    "JohnIIOfFrance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1570526345 [GLT1570526345].md",
+          "key": "321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345",
+          "show": "The Rest Is History",
+          "title": "321: Hundred Years' War: A Storm of Swords (Part 4)",
+          "url": "/wiki/sources/321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/johniioffrance/"
     },
     "JohnIOfPortugal": {
       "episode_count": 1,
@@ -166078,6 +166257,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/treatmentcontextdoseexpectation/"
+    },
+    "TreatyOfBretigny": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1570526345 [GLT1570526345].md",
+          "key": "321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345",
+          "show": "The Rest Is History",
+          "title": "321: Hundred Years' War: A Storm of Swords (Part 4)",
+          "url": "/wiki/sources/321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/treatyofbretigny/"
     },
     "TreatyOfParis1783": {
       "episode_count": 2,

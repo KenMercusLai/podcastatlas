@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2802
+topic_total_pages: 2803
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6689,6 +6689,9 @@ topic_entities:
   - key: "Toshiba"
     title: "Toshiba"
     url: "/wiki/entities/toshiba/"
+  - key: "TreatyOfBretigny"
+    title: "Treaty of Brétigny"
+    url: "/wiki/entities/treatyofbretigny/"
   - key: "TreatyOfParis1783"
     title: "Treaty of Paris (1783)"
     url: "/wiki/entities/treatyofparis1783/"

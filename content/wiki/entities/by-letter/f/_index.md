@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 11308
+wiki_total_pages: 11316
 wiki_pages:
   - key: "FIFAWorldCup1934"
     title: "1934 FIFA World Cup"
@@ -605,6 +605,9 @@ wiki_pages:
   - key: "FrederickTheWise"
     title: "Frederick the Wise"
     url: "/wiki/entities/frederickthewise/"
+  - key: "FreeCompaniesHundredYearsWar"
+    title: "Free Companies in the Hundred Years' War"
+    url: "/wiki/entities/freecompanieshundredyearswar/"
   - key: "FreeDerry"
     title: "Free Derry"
     url: "/wiki/entities/freederry/"

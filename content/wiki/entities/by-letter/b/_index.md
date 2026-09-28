@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 11308
+wiki_total_pages: 11316
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -476,6 +476,9 @@ wiki_pages:
   - key: "Bertelsmann"
     title: "Bertelsmann"
     url: "/wiki/entities/bertelsmann/"
+  - key: "BertrandDuGuesclin"
+    title: "Bertrand du Guesclin"
+    url: "/wiki/entities/bertrandduguesclin/"
   - key: "BessemerVenturePartners"
     title: "Bessemer Venture Partners"
     url: "/wiki/entities/bessemerventurepartners/"
