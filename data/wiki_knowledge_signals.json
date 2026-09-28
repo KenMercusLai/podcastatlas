@@ -68562,9 +68562,9 @@
       "url": "/wiki/concepts/giftrefusalasauthority/"
     },
     "GinaPoe": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7156610982 [SCIM7156610982].md",
@@ -68572,9 +68572,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe",
           "url": "/wiki/sources/essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982/"
+        },
+        {
+          "episode_file": "SCIM4085406904 [SCIM4085406904].md",
+          "key": "use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim4085406904",
+          "show": "Huberman Lab",
+          "title": "Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe",
+          "url": "/wiki/sources/use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim4085406904/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-29",
       "url": "/wiki/entities/ginapoe/"
     },
     "GiorgioMoroder": {
@@ -105099,6 +105106,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/concepts/lockedinsyndromeassistivecommunication/"
     },
+    "LocusCoeruleusStateRegulation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4085406904 [SCIM4085406904].md",
+          "key": "use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim4085406904",
+          "show": "Huberman Lab",
+          "title": "Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe",
+          "url": "/wiki/sources/use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim4085406904/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/locuscoeruleusstateregulation/"
+    },
     "LogicDataSolutions": {
       "episode_count": 1,
       "show_count": 1,
@@ -121290,9 +121313,9 @@
       "url": "/wiki/entities/nightofthelongknives/"
     },
     "NightmareImageryRehearsalTherapy": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1698271951 [SCIM1698271951].md",
@@ -121300,9 +121323,16 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Matt Walker: The Science of Dreams, Nightmares & Lucid Dreaming",
           "url": "/wiki/sources/guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951/"
+        },
+        {
+          "episode_file": "SCIM4085406904 [SCIM4085406904].md",
+          "key": "use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim4085406904",
+          "show": "Huberman Lab",
+          "title": "Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe",
+          "url": "/wiki/sources/use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim4085406904/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/nightmareimageryrehearsaltherapy/"
     },
     "NighttimeEconomyGovernance": {
@@ -138797,9 +138827,9 @@
       "url": "/wiki/entities/raffairford/"
     },
     "REMEmotionalMemorySeparation": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM7156610982 [SCIM7156610982].md",
@@ -138821,9 +138851,16 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Matt Walker: Improve Sleep to Boost Mood & Emotional Regulation",
           "url": "/wiki/sources/guest-series-dr-matt-walker-improve-sleep-to-boost-mood-emotional-regulation-scim1989437288/"
+        },
+        {
+          "episode_file": "SCIM4085406904 [SCIM4085406904].md",
+          "key": "use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim4085406904",
+          "show": "Huberman Lab",
+          "title": "Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe",
+          "url": "/wiki/sources/use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim4085406904/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/rememotionalmemoryseparation/"
     },
     "RMSCarpathia": {
@@ -154024,9 +154061,9 @@
       "url": "/wiki/concepts/slowproductivity/"
     },
     "SlowWaveSleepRestoration": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM7156610982 [SCIM7156610982].md",
@@ -154041,9 +154078,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Control Your Metabolism by Thyroid & Growth Hormone",
           "url": "/wiki/sources/essentials-how-to-control-your-metabolism-by-thyroid-growth-hormone-scim6636881997/"
+        },
+        {
+          "episode_file": "SCIM4085406904 [SCIM4085406904].md",
+          "key": "use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim4085406904",
+          "show": "Huberman Lab",
+          "title": "Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe",
+          "url": "/wiki/sources/use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim4085406904/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/slowwavesleeprestoration/"
     },
     "SmallBrainActionLayer": {

@@ -3177,6 +3177,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [How to Breathe Correctly for Optimal Health, Mood, Learning & Performance](sources/how-to-breathe-correctly-for-optimal-health-mood-learning-performance-scim7880960950.md) — Huberman Lab solo episode on respiratory gas balance, state-matched breathwork, physiological sighing, learning, sleep-apnea recognition, and water safety.
 
+- [Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe](sources/use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim4085406904.md) — Full Huberman Lab interview on sleep-stage function, slow-wave restoration, REM emotional-memory processing, locus-coeruleus regulation, nightmares, and opioid-withdrawal sleep disruption.
+
 ## Entities
 - [骁狼医生 / Xiaolang (oncology surgeon)](entities/XiaolangOncologySurgeon.md) — Source-scoped oncology hepatobiliary surgeon discussing liver, biliary, pancreatic, and splenic health plus oncology communication in VOL.22–25.
 - [Taíno](entities/TainoPeople.md) — Indigenous Caribbean peoples whose exchange, political agency, captivity, resistance, and catastrophe are preserved through an asymmetric colonial archive.
@@ -23343,5 +23345,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Training Fuel Timing Context](concepts/TrainingFuelTimingContext.md) — Demand-based framework for fed, fasted, intra-workout, and recovery nutrition.
 
 - [Respiratory Gas Balance and Breathwork Safety](concepts/RespiratoryGasBalanceAndBreathworkSafety.md) — Framework connecting oxygen delivery, carbon-dioxide regulation, desired state, and categorical hyperventilation safety boundaries.
+
+- [Locus Coeruleus State Regulation](concepts/LocusCoeruleusStateRegulation.md) — State-based framework connecting waking attention, REM norepinephrine shutdown, trauma-memory hypotheses, and opioid-withdrawal sleep disruption.
 
 ## Syntheses

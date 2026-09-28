@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1315
+topic_total_pages: 1317
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1156,6 +1156,9 @@ topic_concepts:
   - key: "LockedInSyndromeAssistiveCommunication"
     title: "Locked-In Syndrome Assistive Communication"
     url: "/wiki/concepts/lockedinsyndromeassistivecommunication/"
+  - key: "LocusCoeruleusStateRegulation"
+    title: "Locus Coeruleus State Regulation"
+    url: "/wiki/concepts/locuscoeruleusstateregulation/"
   - key: "LossAndDamageClimateFinance"
     title: "Loss and Damage Climate Finance"
     url: "/wiki/concepts/lossanddamageclimatefinance/"
@@ -3864,6 +3867,9 @@ topic_sources:
   - key: "tools-to-reduce-manage-pain-dr-sean-mackey-scim1698075556"
     title: "Tools to Reduce & Manage Pain | Dr. Sean Mackey"
     url: "/wiki/sources/tools-to-reduce-manage-pain-dr-sean-mackey-scim1698075556/"
+  - key: "use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim4085406904"
+    title: "Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe"
+    url: "/wiki/sources/use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim4085406904/"
   - key: "using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040"
     title: "Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li"
     url: "/wiki/sources/using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040/"

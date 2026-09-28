@@ -25087,3 +25087,15 @@ Added source `guest-series-dr-andy-galpin-maximize-recovery-to-achieve-fitness-p
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe
+
+Added source `use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim4085406904`; created `LocusCoeruleusStateRegulation`; and updated `GinaPoe`, `SlowWaveSleepRestoration`, `REMEmotionalMemorySeparation`, `NightmareImageryRehearsalTherapy`, and the canonical index from their complete bounded source sets. Core synthesis: sleep is stage-specific biological work; schedule-relative early slow-wave sleep supports restoration; low-norepinephrine REM may permit emotional-memory updating; and locus-coeruleus hyperactivity may connect opioid withdrawal, sleep disruption, and relapse-like behavior in animal work. No settled contradiction was adopted. Growth-hormone timing, cleanup mechanisms, antidepressant and estrogen implications, sex-hormone findings, lucid-dream costs, and withdrawal mechanisms remain source-scoped or preliminary public education rather than individualized care. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

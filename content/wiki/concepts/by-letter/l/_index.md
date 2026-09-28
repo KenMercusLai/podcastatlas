@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 8760
+wiki_total_pages: 8761
 wiki_pages:
   - key: "LaborIllusion"
     title: "Labor Illusion"
@@ -665,6 +665,9 @@ wiki_pages:
   - key: "LockedInSyndromeAssistiveCommunication"
     title: "Locked-In Syndrome Assistive Communication"
     url: "/wiki/concepts/lockedinsyndromeassistivecommunication/"
+  - key: "LocusCoeruleusStateRegulation"
+    title: "Locus Coeruleus State Regulation"
+    url: "/wiki/concepts/locuscoeruleusstateregulation/"
   - key: "LogisticsCrisisResponse"
     title: "Logistics Crisis Response"
     url: "/wiki/concepts/logisticscrisisresponse/"

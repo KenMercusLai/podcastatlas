@@ -47227,6 +47227,13 @@
       "url": "/topics/science/"
     }
   ],
+  "LocusCoeruleusStateRegulation": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "LogicDataSolutions": [
     {
       "key": "technology",
@@ -93028,6 +93035,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim4085406904": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds": [
