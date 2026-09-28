@@ -25215,3 +25215,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | GUEST SERIES | Dr. Andy Galpin: Optimal Protocols to Build Strength & Grow Muscles
+
+Added source `guest-series-dr-andy-galpin-optimal-protocols-to-build-strength-grow-muscles-scim5680136934`; updated `AndyGalpin`, `StrengthHypertrophyProgramming`, `MuscleAsLongevityInfrastructure`, `ExerciseRecoveryReadiness`, and `CreatineMonohydrateEvidence` from their complete bounded source sets; and updated the canonical index. Core synthesis: strength, power, and hypertrophy overlap but require different execution and fatigue priorities; resistance training also develops connective tissue and bone on different time courses; and recovery, cardio, cold exposure, protein, and creatine should be judged against the training goal rather than used as universal rules. No settled contradiction was adopted. Weekly volume, decline rates, biomarker thresholds, cold timing, cardio interference, protein, and supplement doses remain source-scoped public education. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
