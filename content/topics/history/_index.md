@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2161
+topic_total_pages: 2164
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -256,6 +256,9 @@ topic_concepts:
   - key: "ContestedAmericanFoundingMyth"
     title: "Contested American Founding Myth"
     url: "/wiki/concepts/contestedamericanfoundingmyth/"
+  - key: "ContextualExplanationWithoutExoneration"
+    title: "Contextual Explanation Without Exoneration"
+    url: "/wiki/concepts/contextualexplanationwithoutexoneration/"
   - key: "CorrectableLeadershipError"
     title: "Correctable Leadership Error / 犯错能改的领导力"
     url: "/wiki/concepts/correctableleadershiperror/"
@@ -508,6 +511,9 @@ topic_concepts:
   - key: "HengshanEconomicWarfare"
     title: "Hengshan Economic Warfare / 恒山之谋"
     url: "/wiki/concepts/hengshaneconomicwarfare/"
+  - key: "HeroVillainHistoricalReduction"
+    title: "Hero-Villain Historical Reduction"
+    url: "/wiki/concepts/herovillainhistoricalreduction/"
   - key: "HeroicResistanceViolenceAmbiguity"
     title: "Heroic Resistance-Violence Ambiguity"
     url: "/wiki/concepts/heroicresistanceviolenceambiguity/"
@@ -4710,6 +4716,9 @@ topic_sources:
   - key: "30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138"
     title: "30.孟子：战国愤青的赤子之心"
     url: "/wiki/sources/30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138/"
+  - key: "309-columbus-villain-or-hero-part-4-glt6751575003"
+    title: "309: Columbus: Villain or Hero? (Part 4)"
+    url: "/wiki/sources/309-columbus-villain-or-hero-part-4-glt6751575003/"
   - key: "310-ronald-reagan-and-the-american-dream-part-1-glt3254036306"
     title: "310: Ronald Reagan and the American Dream (Part 1)"
     url: "/wiki/sources/310-ronald-reagan-and-the-american-dream-part-1-glt3254036306/"

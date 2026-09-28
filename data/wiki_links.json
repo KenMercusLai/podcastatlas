@@ -959,6 +959,10 @@
     "title": "30.孟子：战国愤青的赤子之心",
     "url": "/wiki/sources/30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138/"
   },
+  "309-columbus-villain-or-hero-part-4-glt6751575003": {
+    "title": "309: Columbus: Villain or Hero? (Part 4)",
+    "url": "/wiki/sources/309-columbus-villain-or-hero-part-4-glt6751575003/"
+  },
   "31-bing-yu-huo-zhi-ge-suiran-cong-bu-zicheng-lishi-594509848": {
     "title": "31.冰与火之歌：虽然从不自称历史",
     "url": "/wiki/sources/31-bing-yu-huo-zhi-ge-suiran-cong-bu-zicheng-lishi-594509848/"
@@ -9303,6 +9307,10 @@
     "title": "Bartleby Column",
     "url": "/wiki/entities/bartlebycolumn/"
   },
+  "BartolomeDeLasCasas": {
+    "title": "Bartolomé de las Casas",
+    "url": "/wiki/entities/bartolomedelascasas/"
+  },
   "BaruchSpinoza": {
     "title": "Baruch Spinoza / 斯宾诺莎",
     "url": "/wiki/entities/baruchspinoza/"
@@ -15315,6 +15323,10 @@
     "title": "Christopher Clark",
     "url": "/wiki/entities/christopherclark/"
   },
+  "ChristopherColumbus": {
+    "title": "Christopher Columbus",
+    "url": "/wiki/entities/christophercolumbus/"
+  },
   "ChristopherGardner": {
     "title": "Christopher Gardner",
     "url": "/wiki/entities/christophergardner/"
@@ -16587,6 +16599,10 @@
     "title": "Columbian Exchange",
     "url": "/wiki/concepts/columbianexchange/"
   },
+  "ColumbusLegacyContestation": {
+    "title": "Columbus Legacy Contestation",
+    "url": "/wiki/concepts/columbuslegacycontestation/"
+  },
   "Comcast": {
     "title": "Comcast",
     "url": "/wiki/entities/comcast/"
@@ -17418,6 +17434,10 @@
   "ContextualEpisodicMemory": {
     "title": "Contextual Episodic Memory",
     "url": "/wiki/concepts/contextualepisodicmemory/"
+  },
+  "ContextualExplanationWithoutExoneration": {
+    "title": "Contextual Explanation Without Exoneration",
+    "url": "/wiki/concepts/contextualexplanationwithoutexoneration/"
   },
   "ContinentalArmy": {
     "title": "Continental Army",
@@ -23918,6 +23938,10 @@
   "EncirclingWeiToRescueZhao": {
     "title": "Encircling Wei to Rescue Zhao / 围魏救赵",
     "url": "/wiki/concepts/encirclingweitorescuezhao/"
+  },
+  "EncomiendaColonialLaborSystem": {
+    "title": "Encomienda Colonial Labor System",
+    "url": "/wiki/concepts/encomiendacoloniallaborsystem/"
   },
   "EndOfLifeAutonomyAndDignity": {
     "title": "End-of-Life Autonomy And Dignity",
@@ -33090,6 +33114,10 @@
   "HeroReturnWithBoon": {
     "title": "Hero Return With Boon / 英雄携赐归来",
     "url": "/wiki/concepts/heroreturnwithboon/"
+  },
+  "HeroVillainHistoricalReduction": {
+    "title": "Hero-Villain Historical Reduction",
+    "url": "/wiki/concepts/herovillainhistoricalreduction/"
   },
   "Herodotus": {
     "title": "Herodotus",

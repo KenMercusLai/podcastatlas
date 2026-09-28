@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8733
+wiki_total_pages: 8737
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1415,6 +1415,9 @@ wiki_pages:
   - key: "ColumbianExchange"
     title: "Columbian Exchange"
     url: "/wiki/concepts/columbianexchange/"
+  - key: "ColumbusLegacyContestation"
+    title: "Columbus Legacy Contestation"
+    url: "/wiki/concepts/columbuslegacycontestation/"
   - key: "ComedyAsInvoluntaryJudgment"
     title: "Comedy as Involuntary Judgment"
     url: "/wiki/concepts/comedyasinvoluntaryjudgment/"
@@ -1931,6 +1934,9 @@ wiki_pages:
   - key: "ContextualEpisodicMemory"
     title: "Contextual Episodic Memory"
     url: "/wiki/concepts/contextualepisodicmemory/"
+  - key: "ContextualExplanationWithoutExoneration"
+    title: "Contextual Explanation Without Exoneration"
+    url: "/wiki/concepts/contextualexplanationwithoutexoneration/"
   - key: "ContingentAgreement"
     title: "Contingent Agreement / 权变协议"
     url: "/wiki/concepts/contingentagreement/"

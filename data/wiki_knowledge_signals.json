@@ -16780,6 +16780,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/entities/barrygoldwater/"
     },
+    "BartolomeDeLasCasas": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6751575003 [GLT6751575003].md",
+          "key": "309-columbus-villain-or-hero-part-4-glt6751575003",
+          "show": "The Rest Is History",
+          "title": "309: Columbus: Villain or Hero? (Part 4)",
+          "url": "/wiki/sources/309-columbus-villain-or-hero-part-4-glt6751575003/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/bartolomedelascasas/"
+    },
     "BasicResearchBreakthroughLatency": {
       "episode_count": 1,
       "show_count": 1,
@@ -30464,6 +30480,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/christopherclark/"
     },
+    "ChristopherColumbus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6751575003 [GLT6751575003].md",
+          "key": "309-columbus-villain-or-hero-part-4-glt6751575003",
+          "show": "The Rest Is History",
+          "title": "309: Columbus: Villain or Hero? (Part 4)",
+          "url": "/wiki/sources/309-columbus-villain-or-hero-part-4-glt6751575003/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/christophercolumbus/"
+    },
     "ChristopherGardner": {
       "episode_count": 1,
       "show_count": 1,
@@ -33330,6 +33362,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/columbianexchange/"
     },
+    "ColumbusLegacyContestation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6751575003 [GLT6751575003].md",
+          "key": "309-columbus-villain-or-hero-part-4-glt6751575003",
+          "show": "The Rest Is History",
+          "title": "309: Columbus: Villain or Hero? (Part 4)",
+          "url": "/wiki/sources/309-columbus-villain-or-hero-part-4-glt6751575003/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/columbuslegacycontestation/"
+    },
     "ComedyAsInvoluntaryJudgment": {
       "episode_count": 1,
       "show_count": 1,
@@ -35499,6 +35547,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/concepts/contextualepisodicmemory/"
+    },
+    "ContextualExplanationWithoutExoneration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6751575003 [GLT6751575003].md",
+          "key": "309-columbus-villain-or-hero-part-4-glt6751575003",
+          "show": "The Rest Is History",
+          "title": "309: Columbus: Villain or Hero? (Part 4)",
+          "url": "/wiki/sources/309-columbus-villain-or-hero-part-4-glt6751575003/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/contextualexplanationwithoutexoneration/"
     },
     "ContinentalArmy": {
       "episode_count": 3,
@@ -52411,6 +52475,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/encirclingweitorescuezhao/"
+    },
+    "EncomiendaColonialLaborSystem": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6751575003 [GLT6751575003].md",
+          "key": "309-columbus-villain-or-hero-part-4-glt6751575003",
+          "show": "The Rest Is History",
+          "title": "309: Columbus: Villain or Hero? (Part 4)",
+          "url": "/wiki/sources/309-columbus-villain-or-hero-part-4-glt6751575003/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/encomiendacoloniallaborsystem/"
     },
     "Endeavour": {
       "episode_count": 2,
@@ -76631,6 +76711,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/concepts/heroreturnwithboon/"
+    },
+    "HeroVillainHistoricalReduction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6751575003 [GLT6751575003].md",
+          "key": "309-columbus-villain-or-hero-part-4-glt6751575003",
+          "show": "The Rest Is History",
+          "title": "309: Columbus: Villain or Hero? (Part 4)",
+          "url": "/wiki/sources/309-columbus-villain-or-hero-part-4-glt6751575003/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/herovillainhistoricalreduction/"
     },
     "Herodotus": {
       "episode_count": 3,

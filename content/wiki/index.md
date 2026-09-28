@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [309: Columbus: Villain or Hero? (Part 4)](sources/309-columbus-villain-or-hero-part-4-glt6751575003.md) — The Rest Is History episode on Columbus's final voyages, failed colonial government, enslavement, Indigenous devastation, and contested global memory.
 - [VOL.26妇产科｜妇产科的事也是男士的必修课](sources/vol-26-fuchanke-fuchanke-de-shi-yeshi-nanshi-de-bixiuke-ljhkdbucgrm_c2ykhzglj7ecbos1.md) — 这病说来话长 episode on male obstetrician-gynecologists, specialty training, intimate-care dignity, examination discomfort, partner health literacy, and prenatal-screening adherence.
 - [310: Ronald Reagan and the American Dream (Part 1)](sources/310-ronald-reagan-and-the-american-dream-part-1-glt3254036306.md) — The Rest Is History episode on Reagan's religious, civic, radio, Hollywood, union, and anti-communist formation and the fusion of performance with conviction.
 - [史蒂夫说474期 - 咨询师回信：权力视角是为人处世的必备角度](sources/shi-di-fu-shuo-474-zixunshi-huixin-quanli-shijiao-shi-weiren-chushi-de-bibei-jiaodu-lnanj_uwjhcnv2vt7ezagdfn9c11.md) — 史蒂夫说 counselor-letter episode on interpretive power, self-justification, family abuse, breakup control, therapy authority, and multidimensional marriage meaning.
@@ -3162,6 +3163,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Intermittent Fasting to Improve Health, Cognition & Longevity | Dr. Satchin Panda](sources/intermittent-fasting-to-improve-health-cognition-longevity-dr-satchin-panda-scim5921048014.md) — Huberman Lab interview on circadian meal timing, time-restricted eating, human-versus-mouse evidence, energy-adequacy limits, and a firefighter shift-work trial.
 
 ## Entities
+- [Christopher Columbus](entities/ChristopherColumbus.md) — Genoese Atlantic navigator whose maritime skill, colonial coercion, geographical error, and contested afterlife resist a single moral verdict.
+- [Bartolomé de las Casas](entities/BartolomeDeLasCasas.md) — Spanish Catholic critic grounding an early tradition against conquest violence, enslavement, and Indigenous abuse.
 - [Screen Actors Guild](entities/ScreenActorsGuild.md) — Hollywood performers' union and Reagan training ground in representation, negotiation, labor conflict, and anti-communist politics.
 - [Jackson 刘医生 / Jackson Liu](entities/JacksonLiuGynecologist.md) — Source-scoped clinician guest explaining gynecological and obstetric decisions through symptoms, evidence, risk, and patient context.
 - [蒙医生 / Meng Doctor (fever clinic)](entities/MengDoctorFeverClinic.md) — Source-scoped fever-clinic guest explaining March 2023 influenza workflow, early test uncertainty, care-setting tradeoffs, medication safety, and antibiotic stewardship.
@@ -14522,6 +14525,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Satchin Panda](entities/SatchinPanda.md) — Circadian-biology researcher separating meal timing, fasting duration, energy intake, and evidence limits in animal and human studies.
 
 ## Concepts
+- [Columbus Legacy Contestation](concepts/ColumbusLegacyContestation.md) — Changing struggle over Columbus in Spanish, U.S., Italian American, Latin American, and Indigenous public memory.
+- [Contextual Explanation Without Exoneration](concepts/ContextualExplanationWithoutExoneration.md) — Historical method that reconstructs formative conditions while preserving agency, dissent, harm, and accountability.
+- [Hero-Villain Historical Reduction](concepts/HeroVillainHistoricalReduction.md) — Compression of a historical life into one totalizing moral identity instead of specific judgments about acts and consequences.
+- [Encomienda Colonial Labor System](concepts/EncomiendaColonialLaborSystem.md) — Colonial arrangement joining settler grants and authority to compelled Indigenous labor and wider extractive harm.
 - [Political Performance and Sincerity](concepts/PoliticalPerformanceSincerity.md) — Framework separating genuine conviction, learned public performance, factual reliability, and substantive accountability.
 - [Relational Interpretive Authority / 关系中的解释权](concepts/RelationalInterpretiveAuthority.md) — Power to define a relationship problem while preserving first-person context without claiming infallibility.
 - [Love Control Illusion / 爱的可控性幻觉](concepts/LoveControlIllusion.md) — Breakup pattern where self-blame or diagnosis preserves the hope that affection can be restored through the correct procedure.

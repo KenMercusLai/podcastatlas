@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 8733
+wiki_total_pages: 8737
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -545,6 +545,9 @@ wiki_pages:
   - key: "EncirclingWeiToRescueZhao"
     title: "Encircling Wei to Rescue Zhao / 围魏救赵"
     url: "/wiki/concepts/encirclingweitorescuezhao/"
+  - key: "EncomiendaColonialLaborSystem"
+    title: "Encomienda Colonial Labor System"
+    url: "/wiki/concepts/encomiendacoloniallaborsystem/"
   - key: "EndOfLifeAutonomyAndDignity"
     title: "End-of-Life Autonomy And Dignity"
     url: "/wiki/concepts/endoflifeautonomyanddignity/"

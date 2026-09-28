@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-29] ingest | 309: Columbus: Villain or Hero? (Part 4)
+
+Added source `309-columbus-villain-or-hero-part-4-glt6751575003`; created `ChristopherColumbus`, `BartolomeDeLasCasas`, `ColumbusLegacyContestation`, `ContextualExplanationWithoutExoneration`, `HeroVillainHistoricalReduction`, and `EncomiendaColonialLaborSystem`; and updated the canonical index. Core synthesis: Columbus's exceptional seamanship coexisted with persistent Asian misidentification, religious intensity, failed colonial government, enslavement, and coercive extraction; his context explains without exonerating, especially because Spanish Catholic criticism already existed. His afterlife shifted through Spanish, U.S., Italian American, Latin American, and Indigenous memory politics, making a single hero-or-villain verdict analytically inadequate without suspending judgment of specific harms. No settled contradiction was adopted. Genocide-intent classification, relative causes of Indigenous collapse, dialogue, remains, holiday chronology, motives, and navigation firsts remain contested or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-29] ingest | VOL.26妇产科｜妇产科的事也是男士的必修课
 
 Added source `vol-26-fuchanke-fuchanke-de-shi-yeshi-nanshi-de-bixiuke-ljhkdbucgrm_c2ykhzglj7ecbos1`; updated `JacksonLiuGynecologist`, `GynecologicalSymptomTriage`, `PrenatalScreeningAndPregnancyCareLimits`, `GynecologicalExamDignity`, and the canonical index from their complete bounded source sets. Core synthesis: clinician gender does not determine competence, while intimate-care dignity still requires explanation, appropriate chaperoning, attention to reluctance and pain, and an urgency-sensitive alternative when delay is safe; prenatal screening reduces avoidable risk without guaranteeing an outcome, and prior uncomplicated pregnancy does not make later follow-up redundant. No settled contradiction with VOL.27 was found. The episode's wiping-direction advice is qualified by newer wiki evidence reporting weak support for that prevention ritual, while staffing, instrument, discomfort, screening, prognosis, genetic-testing, and termination claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -24967,6 +24971,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-29] ingest | 史蒂夫说474期 - 咨询师回信：权力视角是为人处世的必备角度
 
 Added source `shi-di-fu-shuo-474-zixunshi-huixin-quanli-shijiao-shi-weiren-chushi-de-bibei-jiaodu-lnanj_uwjhcnv2vt7ezagdfn9c11`; created `RelationalInterpretiveAuthority`, `LoveControlIllusion`, and `MultidimensionalMarriageMeaning`; and updated `PowerLiteracy`, `ShiDiFuShuo`, `SteveShiDiFuShuoHost`, the canonical index, and overview synthesis from their complete bounded source sets. Core synthesis: relationship power includes the authority to define the problem and decide whose experience counts; repeated self-justification can deepen loss of agency; breakup analysis can preserve an illusion that love is controllable; and marriage has legal, social, emotional, psychological, and shared-life dimensions that should be examined without minimizing concealment or legal consequence. No settled contradiction was adopted. Third-party motives, diagnoses, family dynamics, the former marriage's history, and confrontation safety remain source-scoped public psychoeducation rather than individualized therapy, legal advice, or safety planning.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-29] lint | Wiki health check
 
