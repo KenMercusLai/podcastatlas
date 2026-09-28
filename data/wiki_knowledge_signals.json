@@ -1678,6 +1678,29 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/aicomputepricerisk/"
     },
+    "AIConsciousnessBoundary": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "I, robot？ AI and consciousness [6a880840b0d5e24ea40c7015].md",
+          "key": "i-robot-ai-and-consciousness-6a880840b0d5e24ea40c7015",
+          "show": "Economist Podcasts",
+          "title": "I, robot? AI and consciousness",
+          "url": "/wiki/sources/i-robot-ai-and-consciousness-6a880840b0d5e24ea40c7015/"
+        },
+        {
+          "episode_file": "SCIM4063268713 [SCIM4063268713].md",
+          "key": "what-humans-animals-and-plants-tell-us-about-consciousness-michael-pollan-scim4063268713",
+          "show": "Huberman Lab",
+          "title": "What Humans, Animals and Plants Tell Us About Consciousness | Michael Pollan",
+          "url": "/wiki/sources/what-humans-animals-and-plants-tell-us-about-consciousness-michael-pollan-scim4063268713/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/aiconsciousnessboundary/"
+    },
     "AIContentLabelingAndFiltering": {
       "episode_count": 1,
       "show_count": 1,
@@ -47353,6 +47376,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/egodepletiondebate/"
     },
+    "EgoDissolutionFunctionalSelf": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4063268713 [SCIM4063268713].md",
+          "key": "what-humans-animals-and-plants-tell-us-about-consciousness-michael-pollan-scim4063268713",
+          "show": "Huberman Lab",
+          "title": "What Humans, Animals and Plants Tell Us About Consciousness | Michael Pollan",
+          "url": "/wiki/sources/what-humans-animals-and-plants-tell-us-about-consciousness-michael-pollan-scim4063268713/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/egodissolutionfunctionalself/"
+    },
     "EgocentricRobotData": {
       "episode_count": 2,
       "show_count": 2,
@@ -48182,6 +48221,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/concepts/embodiedcollectiveawe/"
+    },
+    "EmbodiedConsciousnessHypothesis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4063268713 [SCIM4063268713].md",
+          "key": "what-humans-animals-and-plants-tell-us-about-consciousness-michael-pollan-scim4063268713",
+          "show": "Huberman Lab",
+          "title": "What Humans, Animals and Plants Tell Us About Consciousness | Michael Pollan",
+          "url": "/wiki/sources/what-humans-animals-and-plants-tell-us-about-consciousness-michael-pollan-scim4063268713/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/embodiedconsciousnesshypothesis/"
     },
     "EmbodiedContextMemory": {
       "episode_count": 1,
@@ -59474,9 +59529,9 @@
       "url": "/wiki/concepts/foodpleasureengineering/"
     },
     "FoodSystemNutritionResponsibility": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM6504027968 [SCIM6504027968].md",
@@ -59491,9 +59546,16 @@
           "show": "Huberman Lab",
           "title": "Efforts & Challenges in Promoting Public Health | U.S. Surgeon General Dr. Vivek Murthy",
           "url": "/wiki/sources/efforts-challenges-in-promoting-public-health-us-surgeon-general-dr-vivek-murthy-scim4553126123/"
+        },
+        {
+          "episode_file": "SCIM4063268713 [SCIM4063268713].md",
+          "key": "what-humans-animals-and-plants-tell-us-about-consciousness-michael-pollan-scim4063268713",
+          "show": "Huberman Lab",
+          "title": "What Humans, Animals and Plants Tell Us About Consciousness | Michael Pollan",
+          "url": "/wiki/sources/what-humans-animals-and-plants-tell-us-about-consciousness-michael-pollan-scim4063268713/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/foodsystemnutritionresponsibility/"
     },
     "FoodValueContextAssessment": {
@@ -111749,6 +111811,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/entities/michaelplatt/"
     },
+    "MichaelPollan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4063268713 [SCIM4063268713].md",
+          "key": "what-humans-animals-and-plants-tell-us-about-consciousness-michael-pollan-scim4063268713",
+          "show": "Huberman Lab",
+          "title": "What Humans, Animals and Plants Tell Us About Consciousness | Michael Pollan",
+          "url": "/wiki/sources/what-humans-animals-and-plants-tell-us-about-consciousness-michael-pollan-scim4063268713/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/michaelpollan/"
+    },
     "MichelFoucault": {
       "episode_count": 4,
       "show_count": 3,
@@ -125454,6 +125532,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/perceptionasbiologicalinference/"
+    },
+    "PerceptionConsciousnessBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4063268713 [SCIM4063268713].md",
+          "key": "what-humans-animals-and-plants-tell-us-about-consciousness-michael-pollan-scim4063268713",
+          "show": "Huberman Lab",
+          "title": "What Humans, Animals and Plants Tell Us About Consciousness | Michael Pollan",
+          "url": "/wiki/sources/what-humans-animals-and-plants-tell-us-about-consciousness-michael-pollan-scim4063268713/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/perceptionconsciousnessboundary/"
     },
     "Perceval": {
       "episode_count": 1,

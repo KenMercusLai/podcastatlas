@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [What Humans, Animals and Plants Tell Us About Consciousness | Michael Pollan](sources/what-humans-animals-and-plants-tell-us-about-consciousness-michael-pollan-scim4063268713.md) — Huberman Lab conversation on plant perception, embodied consciousness, ego dissolution, AI, food-system reform, psychedelic safeguards, and contextual caffeine use.
 - [VOL.45食品与营养｜你喝牛奶么？这5种“超级食物”是智商税吗？](sources/vol-45-shipin-yu-yingyang-ni-he-niunai-me-zhe-5-zhong-chaoji-shiwu-shi-zhishangshui-ma-lmiafjnoiooijzqcnmfrmref-h2v.md) — 这病说来话长 episode on milk choice, lactose tolerance, superfood and supplement claims, ingredient lists, additives, and contextual food value.
 - [332: King Solomon's Mines](sources/332-king-solomons-mines-glt4960691587.md) — The Rest Is History episode on Haggard's biography, imperial adventure fiction, racial contradiction, lost-world storytelling, and modern genre afterlives.
 - [How to Use Cold & Heat Exposure to Improve Your Health | Dr. Susanna Søberg](sources/how-to-use-cold-heat-exposure-to-improve-your-health-dr-susanna-soberg-scim2723639227.md) — Huberman Lab interview on cold/heat hormesis, brown-fat thermogenesis, winter-swimmer metabolic findings, minimum effective dose, and safety limits.
@@ -3112,6 +3113,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [334: Athens and the Birth of Democracy](sources/334-athens-and-the-birth-of-democracy-glt2496707123.md) — The Rest Is History episode on Solon, Peisistratid tyranny, Cleisthenic reform, popular revolution, demes, autochthony, sacred citizenship, and the limits of the demos.
 
 ## Entities
+- [Michael Pollan](entities/MichaelPollan.md) — Author and journalist connecting consciousness, gardening, psychedelics, food systems, advocacy, and contextual self-experimentation.
 - [H. Rider Haggard](entities/HRiderHaggard.md) — Victorian novelist joining southern African experience, imperial anxiety, racial hierarchy, and durable adventure conventions.
 - [King Solomon's Mines](entities/KingSolomonsMines.md) — 1885 quest novel whose hidden kingdom, treasure, fellowship, and ideological tensions shaped later adventure media.
 - [Allan Quatermain](entities/AllanQuatermain.md) — Haggard's hunter-narrator and prototype expedition hero whose wealth does not resolve his restlessness.
@@ -14377,6 +14379,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Theseus](entities/Theseus.md) — Athenian founder figure remembered as unifier of Attica and ancestral source of power for the demos.
 
 ## Concepts
+- [Perception-Consciousness Boundary](concepts/PerceptionConsciousnessBoundary.md) — Distinguishes sensing, valence, adaptation, and problem-solving from evidence of subjective experience.
+- [Embodied Consciousness Hypothesis](concepts/EmbodiedConsciousnessHypothesis.md) — Brainstem and homeostasis account in which bodily feeling may precede cortical reflection.
+- [Ego Dissolution and the Functional Self](concepts/EgoDissolutionFunctionalSelf.md) — Holds temporary self-loss together with the self's roles in planning, responsibility, and durable action.
 - [Dairy Choice and Tolerance Boundary / 奶制品选择与耐受边界](concepts/DairyChoiceToleranceBoundary.md) — Dairy comparison frame separating nutrient profile, lactose and protein tolerance, formulation, alternatives, price, and medical context.
 - [Food Value Context Assessment / 食品价值语境判断](concepts/FoodValueContextAssessment.md) — Food-choice frame based on the person, dose, formulation, realistic nutrition, alternatives, price, and use context.
 - [Imperial Adventure Fiction](concepts/ImperialAdventureFiction.md) — Quest form joining exploration, masculine recovery, racial hierarchy, extractive desire, and internal criticism of imperial actors.

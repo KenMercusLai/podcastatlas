@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8639
+wiki_total_pages: 8642
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -422,6 +422,9 @@ wiki_pages:
   - key: "PerceptionAsBiologicalInference"
     title: "Perception as Biological Inference"
     url: "/wiki/concepts/perceptionasbiologicalinference/"
+  - key: "PerceptionConsciousnessBoundary"
+    title: "Perception-Consciousness Boundary"
+    url: "/wiki/concepts/perceptionconsciousnessboundary/"
   - key: "PerfectDayImagination"
     title: "Perfect-Day Imagination Practice"
     url: "/wiki/concepts/perfectdayimagination/"

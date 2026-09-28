@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 8639
+wiki_total_pages: 8642
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -200,6 +200,9 @@ wiki_pages:
   - key: "EgoDepletionDebate"
     title: "Ego Depletion Debate"
     url: "/wiki/concepts/egodepletiondebate/"
+  - key: "EgoDissolutionFunctionalSelf"
+    title: "Ego Dissolution and the Functional Self"
+    url: "/wiki/concepts/egodissolutionfunctionalself/"
   - key: "EgocentricRobotData"
     title: "Egocentric Robot Data"
     url: "/wiki/concepts/egocentricrobotdata/"
@@ -344,6 +347,9 @@ wiki_pages:
   - key: "EmbodiedCollectiveAwe"
     title: "Embodied Collective Awe"
     url: "/wiki/concepts/embodiedcollectiveawe/"
+  - key: "EmbodiedConsciousnessHypothesis"
+    title: "Embodied Consciousness Hypothesis"
+    url: "/wiki/concepts/embodiedconsciousnesshypothesis/"
   - key: "EmbodiedContextMemory"
     title: "Embodied Context & Memory / 具身上下文与记忆"
     url: "/wiki/concepts/embodiedcontextmemory/"
