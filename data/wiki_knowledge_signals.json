@@ -37211,9 +37211,9 @@
       "url": "/wiki/entities/crazyhorse/"
     },
     "CreatineMonohydrateEvidence": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM7693897484 [SCIM7693897484].md",
@@ -37242,6 +37242,13 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Andy Galpin: Optimal Nutrition & Supplementation for Fitness",
           "url": "/wiki/sources/guest-series-dr-andy-galpin-optimal-nutrition-supplementation-for-fitness-scim1024405440/"
+        },
+        {
+          "episode_file": "SCIM3934172473 [SCIM3934172473].md",
+          "key": "how-to-stop-headaches-using-science-based-approaches-scim3934172473",
+          "show": "Huberman Lab",
+          "title": "How to Stop Headaches Using Science-Based Approaches",
+          "url": "/wiki/sources/how-to-stop-headaches-using-science-based-approaches-scim3934172473/"
         }
       ],
       "updated": "2026-09-29",
@@ -75753,6 +75760,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/hezhaokainurse/"
+    },
+    "HeadacheMechanismDirectedCare": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3934172473 [SCIM3934172473].md",
+          "key": "how-to-stop-headaches-using-science-based-approaches-scim3934172473",
+          "show": "Huberman Lab",
+          "title": "How to Stop Headaches Using Science-Based Approaches",
+          "url": "/wiki/sources/how-to-stop-headaches-using-science-based-approaches-scim3934172473/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/headachemechanismdirectedcare/"
     },
     "HeadlessSoftware": {
       "episode_count": 7,
@@ -115749,9 +115772,9 @@
       "url": "/wiki/concepts/midtermbacklashforecasting/"
     },
     "MigraineMedicationChoice": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lrKQHLcwHXomw_aegpD_RzCO8vIO [lrKQHLcwHXomw_aegpD_RzCO8vIO].md",
@@ -115759,9 +115782,16 @@
           "show": "这病说来话长",
           "title": "VOL.157最头疼的问题就是头疼 ft.大物是也·斑马酱",
           "url": "/wiki/sources/vol-157-zui-touteng-de-wenti-jiushi-touteng-ft-dawu-shiye-banmajiang-lrkqhlcwhxomw_aegpd_rzco8vio/"
+        },
+        {
+          "episode_file": "SCIM3934172473 [SCIM3934172473].md",
+          "key": "how-to-stop-headaches-using-science-based-approaches-scim3934172473",
+          "show": "Huberman Lab",
+          "title": "How to Stop Headaches Using Science-Based Approaches",
+          "url": "/wiki/sources/how-to-stop-headaches-using-science-based-approaches-scim3934172473/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/migrainemedicationchoice/"
     },
     "MigraineNeuromodulationEvidenceBoundary": {
@@ -115781,9 +115811,9 @@
       "url": "/wiki/concepts/migraineneuromodulationevidenceboundary/"
     },
     "MigraineRecognitionAndTriage": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lrKQHLcwHXomw_aegpD_RzCO8vIO [lrKQHLcwHXomw_aegpD_RzCO8vIO].md",
@@ -115798,9 +115828,16 @@
           "show": "这病说来话长",
           "title": "VOL.42心血管内科｜听说你总是头疼？可能需要做一件“堵心事”来解决",
           "url": "/wiki/sources/vol-42-xinxueguan-neike-tingshuo-ni-zongshi-touteng-keneng-xuyao-zuo-yijian-du-xin-shi-lai-jiejue-lvw85wqzb0kvpyk5uipsagy13b11/"
+        },
+        {
+          "episode_file": "SCIM3934172473 [SCIM3934172473].md",
+          "key": "how-to-stop-headaches-using-science-based-approaches-scim3934172473",
+          "show": "Huberman Lab",
+          "title": "How to Stop Headaches Using Science-Based Approaches",
+          "url": "/wiki/sources/how-to-stop-headaches-using-science-based-approaches-scim3934172473/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/migrainerecognitionandtriage/"
     },
     "MigraineTriggerDiaryManagement": {

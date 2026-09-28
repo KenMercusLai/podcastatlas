@@ -7,6 +7,7 @@ sources:
   - essentials-build-muscle-size-increase-strength-improve-recovery-scim4036424126
   - science-supported-tools-to-accelerate-your-fitness-goals-scim7037527631
   - guest-series-dr-andy-galpin-optimal-nutrition-supplementation-for-fitness-scim1024405440
+  - how-to-stop-headaches-using-science-based-approaches-scim3934172473
 last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
@@ -27,6 +28,8 @@ The fitness-tools episode agrees that monohydrate is the effective low-cost form
 
 The Galpin interview returns to a more conservative three-to-five-gram daily example and clarifies that creatine works through repeated intake over weeks rather than as a once-weekly or immediate pre-workout aid. It broadens possible benefits to recovery, bone mineral density, and cognition while explicitly denying that creatine prevents or treats neurodegenerative disease, traumatic brain injury, or concussion. These additions strengthen the consistency principle without resolving the dose disagreement or turning exploratory outcomes into treatment claims.
 
+The earlier headache episode reports a small human pilot using 0.4 grams per kilogram per day for six months after traumatic brain injury and describes a large difference in headache frequency. That is a materially different population, dose, and outcome from the sports-supplement evidence, and it directly tensions the later Galpin boundary. Without study methods, sample size, replication, adverse-event detail, or a current clinical synthesis in the supplied note, the pilot remains a contested research signal rather than support for treating TBI or post-traumatic headache with creatine.
+
 ## Key Claims
 - Creatine monohydrate is treated as the most tested, safe, effective, and cost-justified form compared with more expensive alternatives.
 - The source links creatine to phosphocreatine stores, exercise performance, recovery, lean mass, strength, and possible cognition.
@@ -34,7 +37,7 @@ The Galpin interview returns to a more conservative three-to-five-gram daily exa
 - Loading saturates stores faster, but five grams per day without loading can reach the same endpoint over two to four weeks.
 - Gastrointestinal tolerance and adherence can justify skipping loading or splitting doses.
 - A third source agrees on formulation and optional loading but gives a substantially higher dose for heavier people, creating an unresolved dosing qualification.
-- A fourth source reinforces three to five grams daily and consistent use while drawing a firm boundary against disease or brain-injury treatment claims.
+- A later source rejects brain-injury treatment claims, while an earlier episode reports a favorable high-dose post-traumatic-headache pilot; the conflict remains unresolved and does not support self-treatment.
 
 ## Evidence
 - Evidence strength: [[essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484]] calls creatine monohydrate the most tested, safe, and effective sports supplement available.
@@ -46,14 +49,15 @@ The Galpin interview returns to a more conservative three-to-five-gram daily exa
 - Independent reinforcement: [[essentials-build-muscle-size-increase-strength-improve-recovery-scim4036424126]] describes creatine as repeatedly supported for muscle performance, cellular hydration, and fatigue reduction and gives about five grams daily for a roughly 180-pound person as an expert example.
 - Dosing disagreement: [[science-supported-tools-to-accelerate-your-fitness-goals-scim7037527631]] says loading is unnecessary but recommends roughly 10-15 grams daily at 185-250 pounds, without supplying evidence that resolves the difference from the five-gram examples.
 - Consistency and treatment boundary: [[guest-series-dr-andy-galpin-optimal-nutrition-supplementation-for-fitness-scim1024405440]] describes three to five grams daily over weeks and says creatine does not prevent or treat neurodegenerative disease, traumatic brain injury, or concussion.
+- Contested post-traumatic pilot: [[how-to-stop-headaches-using-science-based-approaches-scim3934172473]] reports six months of 0.4 grams per kilogram per day and a large headache-frequency difference after TBI, but the episode summary does not provide enough study detail or replication context to establish treatment efficacy.
 
 ## Counterevidence & Qualifications
-This concept is not individualized supplement advice. Kidney disease, liver disease, pregnancy, adolescence, medication interactions, competitive-sport rules, product contamination, gastrointestinal intolerance, diet pattern, and clinical conditions can change the risk calculation. "Healthy people" is part of the source's safety boundary, not a universal claim. The 66-study count and 12% to 20% power figure cannot be independently evaluated from the episode summary, the 10-15 gram range should not be generalized without evidence or clinical context, and possible cognitive or bone effects do not establish prevention or treatment of neurological disease or injury.
+This concept is not individualized supplement advice. Kidney disease, liver disease, pregnancy, adolescence, medication interactions, competitive-sport rules, product contamination, gastrointestinal intolerance, diet pattern, and clinical conditions can change the risk calculation. "Healthy people" is part of the source's safety boundary, not a universal claim. The 66-study count and 12% to 20% power figure cannot be independently evaluated from the episode summary, the 10-15 gram range should not be generalized without evidence or clinical context, and possible cognitive or bone effects do not establish prevention or treatment of neurological disease or injury. The post-traumatic pilot used a much higher weight-scaled dose and cannot override the later explicit non-treatment boundary without fuller evidence and clinical guidance.
 
 ## What Changed
-- Added a third three-to-five-gram daily example without erasing the unresolved higher-dose claim.
-- Clarified that consistent intake over weeks, not sporadic acute use, drives the episode's expected benefit.
-- Added an explicit boundary against treating neurodegenerative disease, traumatic brain injury, or concussion.
+- Added the favorable post-traumatic-headache pilot as a contested research signal.
+- Made the conflict with the later no-TBI-treatment claim explicit.
+- Preserved sports-supplement dosing separately from the pilot's high weight-scaled clinical dose.
 
 ## Related Concepts
 - [[ProteinBodyCompositionLever]] - adjacent body-composition lever where protein and creatine both support training adaptation differently.
@@ -63,3 +67,4 @@ This concept is not individualized supplement advice. Kidney disease, liver dise
 - [[AndrogenSupportSupplementBoundary]] - adjacent supplement concept where creatine appears in an androgen-support discussion without becoming a hormone protocol.
 - [[SupplementLabelAccuracy]] - consumer-risk concept for whether supplement contents match labels.
 - [[ThirdPartySupplementTesting]] - partial mitigation for supplement-content uncertainty.
+- [[HeadacheMechanismDirectedCare]] - headache framework containing the contested post-traumatic use claim.

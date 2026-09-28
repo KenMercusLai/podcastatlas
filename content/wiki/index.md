@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Stop Headaches Using Science-Based Approaches](sources/how-to-stop-headaches-using-science-based-approaches-scim3934172473.md) — Huberman Lab solo episode on headache classification, neural and tissue mechanisms, migraine and post-traumatic triage, and conditional treatment options.
 - [302: The Mystery of the Cathars](sources/302-the-mystery-of-the-cathars-glt9956144594.md) — The Rest Is History episode on contested Cathar identity, Gregorian reform, institutional heresy-making, Languedoc politics, and the prelude to the Albigensian Crusade.
 - [GUEST SERIES | Dr. Andy Galpin: Optimize Your Training Program for Fitness & Longevity](sources/guest-series-dr-andy-galpin-optimize-your-training-program-for-fitness-longevity-scim2066998732.md) — Huberman Lab guest-series episode on constraint-first program design, annual periodization, mixed weekly templates, progressive overload, deloading, and disruption planning.
 - [303: The Bloodiest Crusade](sources/303-the-bloodiest-crusade-glt7887097153.md) — The Rest Is History episode on the Albigensian Crusade, anti-heresy violence, French expansion, inquisitorial coercion, and the contested construction of Cathar identity.
@@ -14563,6 +14564,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Satchin Panda](entities/SatchinPanda.md) — Circadian-biology researcher separating meal timing, fasting duration, energy intake, and evidence limits in animal and human studies.
 
 ## Concepts
+- [Headache Mechanism-Directed Care](concepts/HeadacheMechanismDirectedCare.md) — Framework for matching headache assessment and treatment to muscular, neural, vascular, inflammatory, hormonal, or traumatic context.
 - [Annual Fitness Periodization](concepts/AnnualFitnessPeriodization.md) — Rotating yearly training emphasis while maintaining broad capacity and scheduling recovery.
 - [Constraint-First Training Design](concepts/ConstraintFirstTrainingDesign.md) — Designing exercise around the target adaptation, likely blocker, real calendar, and anticipated disruption.
 - [Cathars](concepts/Cathars.md) — Contested category separating local holy people, learned and political classification, persecution-driven consolidation, and later reinvention.

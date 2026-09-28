@@ -25139,3 +25139,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | How to Stop Headaches Using Science-Based Approaches
+
+Added source `how-to-stop-headaches-using-science-based-approaches-scim3934172473`; created `HeadacheMechanismDirectedCare`; and updated `MigraineRecognitionAndTriage`, `MigraineMedicationChoice`, `CreatineMonohydrateEvidence`, and the canonical index from their complete bounded source sets. Core synthesis: headache location alone does not identify one mechanism; muscular, neural, vascular, inflammatory, hormonal, and traumatic contributors require pattern-specific assessment and treatment; sleep is foundational but does not replace diagnosis; and the episode's medication, supplement, light, topical, acupuncture, and procedure claims remain conditional. An unresolved contradiction is preserved between the episode's favorable high-dose creatine pilot for post-traumatic headache and a later source's explicit boundary against treating TBI or concussion with creatine. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
