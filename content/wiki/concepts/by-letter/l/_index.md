@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 8635
+wiki_total_pages: 8637
 wiki_pages:
   - key: "LaborIllusion"
     title: "Labor Illusion"
@@ -755,6 +755,9 @@ wiki_pages:
   - key: "LostCivilizationPseudohistory"
     title: "Lost Civilization Pseudohistory"
     url: "/wiki/concepts/lostcivilizationpseudohistory/"
+  - key: "LostWorldFiction"
+    title: "Lost-World Fiction"
+    url: "/wiki/concepts/lostworldfiction/"
   - key: "LotteryGamblingPlatformFraud"
     title: "Lottery Gambling Platform Fraud"
     url: "/wiki/concepts/lotterygamblingplatformfraud/"

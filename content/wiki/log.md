@@ -24611,3 +24611,11 @@ Added source `how-to-use-cold-heat-exposure-to-improve-your-health-dr-susanna-so
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | 332: King Solomon's Mines
+
+Added source `332-king-solomons-mines-glt4960691587`; created `HRiderHaggard`, `KingSolomonsMines`, `AllanQuatermain`, `GreatZimbabwe`, `ImperialAdventureFiction`, and `LostWorldFiction`; and updated `RaidersOfTheLostArk`, `SocialDarwinism`, and the canonical index from their complete bounded source sets. Core synthesis: Haggard's fiction helped establish modern quest and lost-world machinery by joining Victorian mass readership, African exploration, biblical geography, masculinity, racial hierarchy, and imperial anxiety, while its admiration for African strength and criticism of greed kept it from operating as simple propaganda. The Great Zimbabwe Phoenician theory is rejected as colonial denial of African construction. Direct influence on every later franchise, Haggard's unconscious motives, gendered-landscape readings, and detailed biographical or literary claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

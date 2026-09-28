@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [332: King Solomon's Mines](sources/332-king-solomons-mines-glt4960691587.md) — The Rest Is History episode on Haggard's biography, imperial adventure fiction, racial contradiction, lost-world storytelling, and modern genre afterlives.
 - [How to Use Cold & Heat Exposure to Improve Your Health | Dr. Susanna Søberg](sources/how-to-use-cold-heat-exposure-to-improve-your-health-dr-susanna-soberg-scim2723639227.md) — Huberman Lab interview on cold/heat hormesis, brown-fat thermogenesis, winter-swimmer metabolic findings, minimum effective dose, and safety limits.
 - [VOL.46食品与营养｜这5大健康困扰你占了几个？其实解决办法就在你身边！](sources/vol-46-shipin-yu-yingyang-zhe-5-da-jiankang-kunrao-ni-zhanle-jige-qishi-jiejue-banfa-jiu-zai-ni-shenbian-ls3h7eocliv0b72bz2wxdhbealp5.md) — 这病说来话长 episode on nutrition triage for hair loss, constipation, acne, insomnia, weight loss, and anxiety-driven product claims.
 - [Seventh Generation: Alan Newman and Jeffrey Hollender. A Partnership that Flourished—until it Failed. (2021)](sources/seventh-generation-alan-newman-and-jeffrey-hollender-a-partnership-that-flourished-until-it-failed-2021-cf1c5327-05ed-44de-b54e-e2d81fb740fa.md) — How I Built This episode on Seventh Generation's mission-led growth, founder breakup, wholesale transition, parallel board ousters, and partnership lessons.
@@ -3110,6 +3111,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [334: Athens and the Birth of Democracy](sources/334-athens-and-the-birth-of-democracy-glt2496707123.md) — The Rest Is History episode on Solon, Peisistratid tyranny, Cleisthenic reform, popular revolution, demes, autochthony, sacred citizenship, and the limits of the demos.
 
 ## Entities
+- [H. Rider Haggard](entities/HRiderHaggard.md) — Victorian novelist joining southern African experience, imperial anxiety, racial hierarchy, and durable adventure conventions.
+- [King Solomon's Mines](entities/KingSolomonsMines.md) — 1885 quest novel whose hidden kingdom, treasure, fellowship, and ideological tensions shaped later adventure media.
+- [Allan Quatermain](entities/AllanQuatermain.md) — Haggard's hunter-narrator and prototype expedition hero whose wealth does not resolve his restlessness.
+- [Great Zimbabwe](entities/GreatZimbabwe.md) — African-built monumental city misread through colonial Phoenician-origin and lost-civilization theories.
 - [Susanna Søberg](entities/SusannaSoberg.md) — Researcher studying cold and heat exposure, brown fat, thermoregulation, and metabolism through a minimum-effective-dose lens.
 - [Anna Keay](entities/AnnaKeay.md) — Historian interpreting the English Republic through constitutional experiment, social lives, Irish conquest, and contingent restoration.
 - [English Commonwealth](entities/EnglishCommonwealth.md) — Crownless regime whose Parliament–army rivalry, Protectorate, coercion, and succession failure prevented durable settlement.
@@ -14371,6 +14376,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Theseus](entities/Theseus.md) — Athenian founder figure remembered as unifier of Attica and ancestral source of power for the demos.
 
 ## Concepts
+- [Imperial Adventure Fiction](concepts/ImperialAdventureFiction.md) — Quest form joining exploration, masculine recovery, racial hierarchy, extractive desire, and internal criticism of imperial actors.
+- [Lost-World Fiction](concepts/LostWorldFiction.md) — Hidden-civilization form shaped by exploration, archaeology, old legends, outsider revelation, and later political reuse.
 - [Everyday Symptom Nutrition Triage / 日常困扰营养分诊](concepts/EverydaySymptomNutritionTriage.md) — Four-part framework for assessing cause and severity, strengthening foundations, testing product fit, and escalating concerning symptoms.
 - [Army-Parliament Dual Sovereignty](concepts/ArmyParliamentDualSovereignty.md) — Unstable order in which a legislature claims civil rule while the army retains power to purge or redefine it.
 - [Providential Governance Failure](concepts/ProvidentialGovernanceFailure.md) — Failure mode in which perceived divine signs displace contestable evidence, compromise, and revisable policy.

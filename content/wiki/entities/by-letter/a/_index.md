@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 11240
+wiki_total_pages: 11244
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -746,6 +746,9 @@ wiki_pages:
   - key: "AllIn"
     title: "All-In"
     url: "/wiki/entities/allin/"
+  - key: "AllanQuatermain"
+    title: "Allan Quatermain"
+    url: "/wiki/entities/allanquatermain/"
   - key: "AllanSchore"
     title: "Allan Schore"
     url: "/wiki/entities/allanschore/"

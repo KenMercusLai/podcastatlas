@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 8635
+wiki_total_pages: 8637
 wiki_pages:
   - key: "IBDPatientEducationAndPeerSupport"
     title: "IBD Patient Education and Peer Support / IBD患者教育与同伴支持"
@@ -116,6 +116,9 @@ wiki_pages:
   - key: "ImperfectActionPractice"
     title: "Imperfect Action Practice"
     url: "/wiki/concepts/imperfectactionpractice/"
+  - key: "ImperialAdventureFiction"
+    title: "Imperial Adventure Fiction"
+    url: "/wiki/concepts/imperialadventurefiction/"
   - key: "ImperialBurialLegitimacy"
     title: "Imperial Burial Legitimacy / 帝后合葬名分"
     url: "/wiki/concepts/imperialburiallegitimacy/"

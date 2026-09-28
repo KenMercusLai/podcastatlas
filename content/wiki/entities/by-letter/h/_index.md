@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 11240
+wiki_total_pages: 11244
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -47,6 +47,9 @@ wiki_pages:
   - key: "HRHaldeman"
     title: "H. R. Haldeman"
     url: "/wiki/entities/hrhaldeman/"
+  - key: "HRiderHaggard"
+    title: "H. Rider Haggard"
+    url: "/wiki/entities/hriderhaggard/"
   - key: "HBReese"
     title: "H.B. Reese"
     url: "/wiki/entities/hbreese/"

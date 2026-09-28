@@ -8111,6 +8111,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/entities/alipaytapnetwork/"
     },
+    "AllanQuatermain": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4960691587 [GLT4960691587].md",
+          "key": "332-king-solomons-mines-glt4960691587",
+          "show": "The Rest Is History",
+          "title": "332: King Solomon's Mines",
+          "url": "/wiki/sources/332-king-solomons-mines-glt4960691587/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/allanquatermain/"
+    },
     "AllanSchore": {
       "episode_count": 1,
       "show_count": 1,
@@ -68477,6 +68493,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/greatwesternschism/"
     },
+    "GreatZimbabwe": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4960691587 [GLT4960691587].md",
+          "key": "332-king-solomons-mines-glt4960691587",
+          "show": "The Rest Is History",
+          "title": "332: King Solomon's Mines",
+          "url": "/wiki/sources/332-king-solomons-mines-glt4960691587/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/greatzimbabwe/"
+    },
     "GreaterBayAreaAirportCluster": {
       "episode_count": 1,
       "show_count": 1,
@@ -70321,6 +70353,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/entities/hrhaldeman/"
+    },
+    "HRiderHaggard": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4960691587 [GLT4960691587].md",
+          "key": "332-king-solomons-mines-glt4960691587",
+          "show": "The Rest Is History",
+          "title": "332: King Solomon's Mines",
+          "url": "/wiki/sources/332-king-solomons-mines-glt4960691587/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/hriderhaggard/"
     },
     "HYROX": {
       "episode_count": 3,
@@ -81422,6 +81470,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/concepts/imperialachievementcostaccounting/"
     },
+    "ImperialAdventureFiction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4960691587 [GLT4960691587].md",
+          "key": "332-king-solomons-mines-glt4960691587",
+          "show": "The Rest Is History",
+          "title": "332: King Solomon's Mines",
+          "url": "/wiki/sources/332-king-solomons-mines-glt4960691587/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/imperialadventurefiction/"
+    },
     "ImperialBirthMotherRecognition": {
       "episode_count": 1,
       "show_count": 1,
@@ -92014,6 +92078,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/kinderhymne/"
+    },
+    "KingSolomonsMines": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4960691587 [GLT4960691587].md",
+          "key": "332-king-solomons-mines-glt4960691587",
+          "show": "The Rest Is History",
+          "title": "332: King Solomon's Mines",
+          "url": "/wiki/sources/332-king-solomons-mines-glt4960691587/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/kingsolomonsmines/"
     },
     "KinshipBackedEarlyCareerCapital": {
       "episode_count": 1,
@@ -102840,6 +102920,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/concepts/lostcivilizationpseudohistory/"
+    },
+    "LostWorldFiction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4960691587 [GLT4960691587].md",
+          "key": "332-king-solomons-mines-glt4960691587",
+          "show": "The Rest Is History",
+          "title": "332: King Solomon's Mines",
+          "url": "/wiki/sources/332-king-solomons-mines-glt4960691587/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/lostworldfiction/"
     },
     "LotusEaters": {
       "episode_count": 1,
@@ -134809,9 +134905,9 @@
       "url": "/wiki/concepts/radiopharmaceuticaldrugconjugates/"
     },
     "RaidersOfTheLostArk": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1189467433 [GLT1189467433].md",
@@ -134819,6 +134915,13 @@
           "show": "The Rest Is History",
           "title": "345: Raiders of the Lost Ark (Part 1)",
           "url": "/wiki/sources/345-raiders-of-the-lost-ark-part-1-glt1189467433/"
+        },
+        {
+          "episode_file": "GLT4960691587 [GLT4960691587].md",
+          "key": "332-king-solomons-mines-glt4960691587",
+          "show": "The Rest Is History",
+          "title": "332: King Solomon's Mines",
+          "url": "/wiki/sources/332-king-solomons-mines-glt4960691587/"
         }
       ],
       "updated": "2026-09-28",
@@ -149797,9 +149900,9 @@
       "url": "/wiki/concepts/socialcontractuk1970s/"
     },
     "SocialDarwinism": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "37.智商测试：请问你是智力婆罗门吗？ [608020679].md",
@@ -149814,9 +149917,16 @@
           "show": "The Rest Is History",
           "title": "408. The Nazis in Power: Hitler's Dream (Part 5)",
           "url": "/wiki/sources/408-the-nazis-in-power-hitlers-dream-part-5-glt6100029744/"
+        },
+        {
+          "episode_file": "GLT4960691587 [GLT4960691587].md",
+          "key": "332-king-solomons-mines-glt4960691587",
+          "show": "The Rest Is History",
+          "title": "332: King Solomon's Mines",
+          "url": "/wiki/sources/332-king-solomons-mines-glt4960691587/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/socialdarwinism/"
     },
     "SocialEmbarrassmentFear": {

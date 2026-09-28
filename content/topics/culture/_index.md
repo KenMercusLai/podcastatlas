@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2888
+topic_total_pages: 2891
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1444,6 +1444,9 @@ topic_concepts:
   - key: "IMAXAuthenticityAesthetic"
     title: "IMAX Authenticity Aesthetic / IMAX真实美学"
     url: "/wiki/concepts/imaxauthenticityaesthetic/"
+  - key: "ImperialAdventureFiction"
+    title: "Imperial Adventure Fiction"
+    url: "/wiki/concepts/imperialadventurefiction/"
   - key: "ImperialExaminationAsOnlyExit"
     title: "Imperial Examination As Only Exit"
     url: "/wiki/concepts/imperialexaminationasonlyexit/"
@@ -1657,6 +1660,9 @@ topic_concepts:
   - key: "LongwaveRadio"
     title: "Longwave Radio"
     url: "/wiki/concepts/longwaveradio/"
+  - key: "LostWorldFiction"
+    title: "Lost-World Fiction"
+    url: "/wiki/concepts/lostworldfiction/"
   - key: "LoveAsContainingFrame"
     title: "Love As Containing Frame / 爱作为包裹性框架"
     url: "/wiki/concepts/loveascontainingframe/"
@@ -7938,6 +7944,9 @@ topic_sources:
   - key: "33-renjian-shige-danxiaogui-de-zhuanglie-xianji-599924624"
     title: "33.人间失格：胆小鬼的壮烈献祭"
     url: "/wiki/sources/33-renjian-shige-danxiaogui-de-zhuanglie-xianji-599924624/"
+  - key: "332-king-solomons-mines-glt4960691587"
+    title: "332: King Solomon's Mines"
+    url: "/wiki/sources/332-king-solomons-mines-glt4960691587/"
   - key: "341-the-trials-of-oscar-wilde-sex-and-scandal-part-1-glt1940599692"
     title: "341: The Trials of Oscar Wilde: Sex and Scandal (Part 1)"
     url: "/wiki/sources/341-the-trials-of-oscar-wilde-sex-and-scandal-part-1-glt1940599692/"

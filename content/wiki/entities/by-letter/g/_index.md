@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 11240
+wiki_total_pages: 11244
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -716,6 +716,9 @@ wiki_pages:
   - key: "GreatWesternSchism"
     title: "Great Western Schism"
     url: "/wiki/entities/greatwesternschism/"
+  - key: "GreatZimbabwe"
+    title: "Great Zimbabwe"
+    url: "/wiki/entities/greatzimbabwe/"
   - key: "GreaterManchester"
     title: "Greater Manchester"
     url: "/wiki/entities/greatermanchester/"

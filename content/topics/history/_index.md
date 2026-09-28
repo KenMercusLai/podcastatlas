@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2133
+topic_total_pages: 2135
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1880,6 +1880,9 @@ topic_entities:
   - key: "GeHong"
     title: "Ge Hong / 葛洪"
     url: "/wiki/entities/gehong/"
+  - key: "GreatZimbabwe"
+    title: "Great Zimbabwe"
+    url: "/wiki/entities/greatzimbabwe/"
   - key: "GuoPu"
     title: "Guo Pu / 郭璞"
     url: "/wiki/entities/guopu/"
@@ -4695,6 +4698,9 @@ topic_sources:
   - key: "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008"
     title: "318: Hundred Years' War: A Game of Thrones (Part 1)"
     url: "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+  - key: "332-king-solomons-mines-glt4960691587"
+    title: "332: King Solomon's Mines"
+    url: "/wiki/sources/332-king-solomons-mines-glt4960691587/"
   - key: "333-the-republic-of-britain-life-under-cromwell-glt3360112790"
     title: "333: The Republic of Britain: Life under Cromwell"
     url: "/wiki/sources/333-the-republic-of-britain-life-under-cromwell-glt3360112790/"

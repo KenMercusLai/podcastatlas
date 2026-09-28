@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 11240
+wiki_total_pages: 11244
 wiki_pages:
   - key: "KennedyAssassination"
     title: "Assassination of John F. Kennedy"
@@ -395,6 +395,9 @@ wiki_pages:
   - key: "Kinderhymne"
     title: "Kinderhymne"
     url: "/wiki/entities/kinderhymne/"
+  - key: "KingSolomonsMines"
+    title: "King Solomon's Mines"
+    url: "/wiki/entities/kingsolomonsmines/"
   - key: "KingsCollegeChapel"
     title: "King's College Chapel / 国王学院礼拜堂"
     url: "/wiki/entities/kingscollegechapel/"

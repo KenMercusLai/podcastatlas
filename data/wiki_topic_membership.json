@@ -1521,6 +1521,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "332-king-solomons-mines-glt4960691587": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "333-the-republic-of-britain-life-under-cromwell-glt3360112790": [
     {
       "key": "history",
@@ -34314,6 +34326,13 @@
       "url": "/topics/history/"
     }
   ],
+  "GreatZimbabwe": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "GreaterBayAreaCinema": [
     {
       "key": "politics",
@@ -38979,6 +38998,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "ImperialAdventureFiction": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "ImperialBondservantGovernance": [
@@ -47037,6 +47063,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "LostWorldFiction": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "LottePotteryWorkshop": [

@@ -983,6 +983,10 @@
     "title": "33.人间失格：胆小鬼的壮烈献祭",
     "url": "/wiki/sources/33-renjian-shige-danxiaogui-de-zhuanglie-xianji-599924624/"
   },
+  "332-king-solomons-mines-glt4960691587": {
+    "title": "332: King Solomon's Mines",
+    "url": "/wiki/sources/332-king-solomons-mines-glt4960691587/"
+  },
   "333-the-republic-of-britain-life-under-cromwell-glt3360112790": {
     "title": "333: The Republic of Britain: Life under Cromwell",
     "url": "/wiki/sources/333-the-republic-of-britain-life-under-cromwell-glt3360112790/"
@@ -5962,6 +5966,10 @@
   "AllSeasonsHotel": {
     "title": "All Seasons Hotel / 全季酒店",
     "url": "/wiki/entities/allseasonshotel/"
+  },
+  "AllanQuatermain": {
+    "title": "Allan Quatermain",
+    "url": "/wiki/entities/allanquatermain/"
   },
   "AllanSchore": {
     "title": "Allan Schore",
@@ -30347,6 +30355,10 @@
     "title": "大雁塔 / Great Wild Goose Pagoda",
     "url": "/wiki/entities/greatwildgoosepagoda/"
   },
+  "GreatZimbabwe": {
+    "title": "Great Zimbabwe",
+    "url": "/wiki/entities/greatzimbabwe/"
+  },
   "GreaterBayAreaAirportCluster": {
     "title": "Greater Bay Area Airport Cluster / 大湾区机场群",
     "url": "/wiki/concepts/greaterbayareaairportcluster/"
@@ -31126,6 +31138,10 @@
   "HRHaldeman": {
     "title": "H. R. Haldeman",
     "url": "/wiki/entities/hrhaldeman/"
+  },
+  "HRiderHaggard": {
+    "title": "H. Rider Haggard",
+    "url": "/wiki/entities/hriderhaggard/"
   },
   "HSBC": {
     "title": "HSBC",
@@ -34982,6 +34998,10 @@
   "ImperialAchievementCostAccounting": {
     "title": "帝王功业代价核算 / Imperial Achievement Cost Accounting",
     "url": "/wiki/concepts/imperialachievementcostaccounting/"
+  },
+  "ImperialAdventureFiction": {
+    "title": "Imperial Adventure Fiction",
+    "url": "/wiki/concepts/imperialadventurefiction/"
   },
   "ImperialBirthMotherRecognition": {
     "title": "皇帝生母名分追认 / Imperial Birth-Mother Recognition",
@@ -39863,6 +39883,10 @@
     "title": "Kinderhymne",
     "url": "/wiki/entities/kinderhymne/"
   },
+  "KingSolomonsMines": {
+    "title": "King Solomon's Mines",
+    "url": "/wiki/entities/kingsolomonsmines/"
+  },
   "KingsCollegeChapel": {
     "title": "King's College Chapel / 国王学院礼拜堂",
     "url": "/wiki/entities/kingscollegechapel/"
@@ -43998,6 +44022,10 @@
   "LostCivilizationPseudohistory": {
     "title": "Lost Civilization Pseudohistory",
     "url": "/wiki/concepts/lostcivilizationpseudohistory/"
+  },
+  "LostWorldFiction": {
+    "title": "Lost-World Fiction",
+    "url": "/wiki/concepts/lostworldfiction/"
   },
   "LottePotteryWorkshop": {
     "title": "Lotte Pottery Workshop / 乐天陶社",
