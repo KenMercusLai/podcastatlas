@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.20儿科｜听林医生讲宝宝的发热、外伤、心理、疫苗的那些误区和判断常识｜台湾地区就诊现状](sources/vol-20-erke-ting-lin-yisheng-jiang-baobao-de-fare-waishang-xinli-yimiao-de-naxie-wuqu-he-panduan-changshi-taiwan-diqu-jiuzhen-xianzhuang-lmpxj193ifwfm0x-uxmjsan1a-m5.md) — 这病说来话长 episode with 林佳君 Nora on pediatric fever, infection and medication judgment, convulsion and injury response, vaccination, behavioral clues, growth assessment, and Taiwan care settings.
 - [301: The Real Da Vinci Code](sources/301-the-real-da-vinci-code-glt5654192229.md) — The Rest Is History episode tracing the modern Priory of Sion fabrication through local legend, forged archives, pseudo-history, popular fiction, and contested Cathar reception.
 - [How to Stop Headaches Using Science-Based Approaches](sources/how-to-stop-headaches-using-science-based-approaches-scim3934172473.md) — Huberman Lab solo episode on headache classification, neural and tissue mechanisms, migraine and post-traumatic triage, and conditional treatment options.
 - [302: The Mystery of the Cathars](sources/302-the-mystery-of-the-cathars-glt9956144594.md) — The Rest Is History episode on contested Cathar identity, Gregorian reform, institutional heresy-making, Languedoc politics, and the prelude to the Albigensian Crusade.
@@ -3187,6 +3188,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe](sources/use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim4085406904.md) — Full Huberman Lab interview on sleep-stage function, slow-wave restoration, REM emotional-memory processing, locus-coeruleus regulation, nightmares, and opioid-withdrawal sleep disruption.
 
 ## Entities
+- [林佳君 / Nora Lin (pediatrician)](entities/LinJiajunPediatrician.md) — Source-scoped pediatrician explaining fever, infection, acute-care, development, vaccination, and growth-assessment boundaries in VOL.20.
 - [Pierre Plantard](entities/PierrePlantard.md) — Modern founder and documentary fabricator behind the invented medieval history of the Priory of Sion.
 - [Priory of Sion](entities/PrioryOfSion.md) — 1956 French association transformed through forged records into a supposed ancient secret order.
 - [Rennes-le-Château](entities/RennesLeChateau.md) — French village where priestly finances, tourist treasure legend, Cathar atmosphere, and conspiracy publishing converged.
@@ -14569,6 +14571,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Satchin Panda](entities/SatchinPanda.md) — Circadian-biology researcher separating meal timing, fasting duration, energy intake, and evidence limits in animal and human studies.
 
 ## Concepts
+- [Pediatric Growth Evaluation and Hormone Boundary / 儿童生长评估与生长激素边界](concepts/PediatricGrowthEvaluationAndHormoneBoundary.md) — Staged short-stature assessment through growth pattern, family height, nutrition, disease review, bone age, indication, and uncertain hormone benefit.
 - [Manufactured Historical Conspiracy](concepts/ManufacturedHistoricalConspiracy.md) — Provenance chain in which mundane events, commercial legend, forged evidence, discovery, elaboration, and mass retelling create false historical continuity.
 - [Headache Mechanism-Directed Care](concepts/HeadacheMechanismDirectedCare.md) — Framework for matching headache assessment and treatment to muscular, neural, vascular, inflammatory, hormonal, or traumatic context.
 - [Annual Fitness Periodization](concepts/AnnualFitnessPeriodization.md) — Rotating yearly training emphasis while maintaining broad capacity and scheduling recovery.

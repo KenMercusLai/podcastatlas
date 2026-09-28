@@ -25155,3 +25155,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | VOL.20儿科｜听林医生讲宝宝的发热、外伤、心理、疫苗的那些误区和判断常识｜台湾地区就诊现状
+
+Added source `vol-20-erke-ting-lin-yisheng-jiang-baobao-de-fare-waishang-xinli-yimiao-de-naxie-wuqu-he-panduan-changshi-taiwan-diqu-jiuzhen-xianzhuang-lmpxj193ifwfm0x-uxmjsan1a-m5`; created `LinJiajunPediatrician` and `PediatricGrowthEvaluationAndHormoneBoundary`; and updated `PediatricFeverHomeCareTriage`, `PediatricEmergencyTriageAndEscalation`, `SeizureFirstAidBoundary`, `AntimicrobialResistance`, and the canonical index from their complete bounded source sets. Core synthesis: pediatric judgment should combine age, alertness, hydration and feeding, symptoms, mechanism, and trajectory rather than temperature or another child's prescription alone; convulsions and injuries call for protective action and explicit escalation; antibiotics require diagnosis- and course-specific instructions; and short stature requires staged evaluation before growth-hormone decisions. No settled contradiction was adopted. Fixed fever thresholds, maternal-antibody protection, sputum color, seizure duration, vaccine reactions, bone-age interpretation, hormone benefit, and Taiwan care-setting comparisons remain source-scoped public education. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

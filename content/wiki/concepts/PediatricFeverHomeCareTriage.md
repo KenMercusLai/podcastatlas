@@ -5,7 +5,8 @@ tags: [pediatric-health, fever, home-care, medication-safety, escalation]
 sources:
   - vol-115-mao-manfen-fumu-ni-zuo-60-fen-yi-buyi-13-wei-yisheng-10-xueke-chuzhao-shenxinxing-jiankang-jiaoyu-gonglue-ertongjie-zhuanti-ljlyg0kuqvuj2r89k6o5hhuefjt9
   - vol-97-huxike-jindong-liugan-feiyan-zheme-meng-wo-zazheng-ertong-zhiyuanti-feiyan-zong-buhao-you-houyizheng-ma-liz9rdhhqkbxpktg1gd2z2sb2klq
-last_updated: 2026-09-27
+  - vol-20-erke-ting-lin-yisheng-jiang-baobao-de-fare-waishang-xinli-yimiao-de-naxie-wuqu-he-panduan-changshi-taiwan-diqu-jiuzhen-xianzhuang-lmpxj193ifwfm0x-uxmjsan1a-m5
+last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
 
@@ -15,16 +16,16 @@ knowledge_schema: synthesis-v1
 Pediatric fever home-care triage is the caregiver decision frame that interprets temperature alongside duration, overall condition, hydration, associated symptoms, medication dose and timing, and escalation signs rather than treating the number alone as disease severity.
 
 ## Current Synthesis
-[[vol-115-mao-manfen-fumu-ni-zuo-60-fen-yi-buyi-13-wei-yisheng-10-xueke-chuzhao-shenxinxing-jiankang-jiaoyu-gonglue-ertongjie-zhuanti-ljlyg0kuqvuj2r89k6o5hhuefjt9|VOL.115]] uses hand-foot-and-mouth disease to show why high temperature and severe disease are not identical. Home care depends on the child's age- and weight-appropriate plan, hydration, response between fever episodes, ability to take medicine, and the pattern over time. The source favors weight-based use of common antipyretics under instructions or clinical advice and rejects aggressive cold-water or ice cooling.
+[[vol-115-mao-manfen-fumu-ni-zuo-60-fen-yi-buyi-13-wei-yisheng-10-xueke-chuzhao-shenxinxing-jiankang-jiaoyu-gonglue-ertongjie-zhuanti-ljlyg0kuqvuj2r89k6o5hhuefjt9|VOL.115]] uses hand-foot-and-mouth disease to show why high temperature and severe disease are not identical. Home care depends on the child's age- and weight-appropriate plan, hydration, response between fever episodes, ability to take medicine, and the pattern over time. The source favors weight-based use of common antipyretics under instructions or clinical advice and rejects aggressive cold-water or ice cooling. [[vol-20-erke-ting-lin-yisheng-jiang-baobao-de-fare-waishang-xinli-yimiao-de-naxie-wuqu-he-panduan-changshi-taiwan-diqu-jiuzhen-xianzhuang-lmpxj193ifwfm0x-uxmjsan1a-m5|VOL.20]] reinforces the same overall-condition frame through alertness, appetite, drinking, and milk intake, while lowering the threshold for assessment in very young infants.
 
 Escalation is pattern-based. Persistent fever, increasingly frequent high-fever episodes, convulsions, altered consciousness, or substantial vomiting and diarrhea warrant timely assessment. This is a safety-netting frame, not a remote method for identifying the infection.
 
-VOL.97 adds a respiratory branch: persistent high fever with severe cough, breathing effort, poor overall condition, or later reduced exercise tolerance needs assessment or follow-up rather than home inference that the child has mycoplasma pneumonia. Fever may help determine urgency, but it does not identify the pathogen or justify preventive or self-selected antibiotics.
+VOL.97 adds a respiratory branch: persistent high fever with severe cough, breathing effort, poor overall condition, or later reduced exercise tolerance needs assessment or follow-up rather than home inference that the child has mycoplasma pneumonia. Fever may help determine urgency, but it does not identify the pathogen or justify preventive or self-selected antibiotics. VOL.20 adds that an initially similar viral or bacterial presentation requires time, examination, and sometimes testing; sputum color, temperature, or a previous prescription cannot settle the cause at home.
 
 ## Key Claims
 - Temperature magnitude alone does not determine pediatric illness severity.
 - Medicine selection, dose, spacing, and redosing after vomiting require weight-aware instructions or professional advice.
-- Hydration and the child's overall state between temperature readings matter to home observation.
+- Hydration, feeding, and the child's overall state between temperature readings matter to home observation, especially for very young infants.
 - Ice application and cold-water bathing are not presented as routine fever care in the source.
 - Persistent or worsening patterns and neurological or major gastrointestinal symptoms lower the threshold for medical care.
 - Severe cough, breathing effort, poor general condition, or post-illness activity decline add respiratory escalation and follow-up signals.
@@ -36,13 +37,15 @@ VOL.97 adds a respiratory branch: persistent high fever with severe cough, breat
 - Escalation: [[vol-115-mao-manfen-fumu-ni-zuo-60-fen-yi-buyi-13-wei-yisheng-10-xueke-chuzhao-shenxinxing-jiankang-jiaoyu-gonglue-ertongjie-zhuanti-ljlyg0kuqvuj2r89k6o5hhuefjt9|VOL.115]] flags prolonged or increasingly frequent fever, convulsions, altered consciousness, vomiting, and diarrhea for care.
 - Respiratory escalation: [[vol-97-huxike-jindong-liugan-feiyan-zheme-meng-wo-zazheng-ertong-zhiyuanti-feiyan-zong-buhao-you-houyizheng-ma-liz9rdhhqkbxpktg1gd2z2sb2klq|VOL.97]] links persistent high fever, severe cough, breathing effort, poor condition, and later exercise intolerance to timely assessment and follow-up.
 - Pathogen and medicine boundary: [[vol-97-huxike-jindong-liugan-feiyan-zheme-meng-wo-zazheng-ertong-zhiyuanti-feiyan-zong-buhao-you-houyizheng-ma-liz9rdhhqkbxpktg1gd2z2sb2klq|VOL.97]] rejects blind pathogen guessing and preventive azithromycin.
+- Overall-condition and infant boundary: [[vol-20-erke-ting-lin-yisheng-jiang-baobao-de-fare-waishang-xinli-yimiao-de-naxie-wuqu-he-panduan-changshi-taiwan-diqu-jiuzhen-xianzhuang-lmpxj193ifwfm0x-uxmjsan1a-m5|VOL.20]] prioritizes alertness, appetite, drinking, milk intake, age, and trajectory and advises assessment before medication for infants under six months who develop fever.
 
 ## Counterevidence & Qualifications
-The episodes' disease-course descriptions, medicine intervals, bathing temperatures, antibiotic discussion, and escalation examples are public education, not a universal pediatric protocol. Age, weight, underlying illness, hydration, breathing effort, oxygenation, local disease patterns, medicine concentration, contraindications, infant status, and clinical appearance can change urgency. Caregivers should use local instructions and qualified pediatric care, especially for very young infants or a child who appears seriously unwell.
+The episodes' disease-course descriptions, medicine intervals, bathing temperatures, antibiotic discussion, and escalation examples are public education, not a universal pediatric protocol. Age, weight, underlying illness, hydration, breathing effort, oxygenation, local disease patterns, medicine concentration, contraindications, infant status, and clinical appearance can change urgency. VOL.20's fixed 38°C medication threshold, maternal-antibody statement, sputum-color cue, and bathing advice are source-scoped rather than universal rules. Caregivers should use local instructions and qualified pediatric care, especially for very young infants or a child who appears seriously unwell.
 
 ## What Changed
 - Established a pediatric fever frame centered on pattern, weight-aware medication safety, hydration, and explicit escalation signs.
 - Added respiratory deterioration, post-illness function, pathogen uncertainty, and antibiotic-stewardship boundaries from VOL.97.
+- Added very-young-infant caution, feeding and drinking status, and a stronger boundary against fixed-number or leftover-prescription decisions.
 
 ## Related Concepts
 - [[DiagnosticSafetyNetting]] - broader practice of defining monitoring and return thresholds under uncertainty.

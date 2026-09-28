@@ -11788,9 +11788,9 @@
       "url": "/wiki/concepts/antihypertensivemedicationadherence/"
     },
     "AntimicrobialResistance": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "I, robot？ AI and consciousness [6a880840b0d5e24ea40c7015].md",
@@ -11805,9 +11805,16 @@
           "show": "这病说来话长",
           "title": "VOL.97呼吸科｜今冬流感、肺炎这么“猛”？我咋整？｜儿童支原体肺炎总不好？有后遗症吗？",
           "url": "/wiki/sources/vol-97-huxike-jindong-liugan-feiyan-zheme-meng-wo-zazheng-ertong-zhiyuanti-feiyan-zong-buhao-you-houyizheng-ma-liz9rdhhqkbxpktg1gd2z2sb2klq/"
+        },
+        {
+          "episode_file": "lmpXJ193iFwfm0X-UxmjsAN1a-m5 [lmpXJ193iFwfm0X-UxmjsAN1a-m5].md",
+          "key": "vol-20-erke-ting-lin-yisheng-jiang-baobao-de-fare-waishang-xinli-yimiao-de-naxie-wuqu-he-panduan-changshi-taiwan-diqu-jiuzhen-xianzhuang-lmpxj193ifwfm0x-uxmjsan1a-m5",
+          "show": "这病说来话长",
+          "title": "VOL.20儿科｜听林医生讲宝宝的发热、外伤、心理、疫苗的那些误区和判断常识｜台湾地区就诊现状",
+          "url": "/wiki/sources/vol-20-erke-ting-lin-yisheng-jiang-baobao-de-fare-waishang-xinli-yimiao-de-naxie-wuqu-he-panduan-changshi-taiwan-diqu-jiuzhen-xianzhuang-lmpxj193ifwfm0x-uxmjsan1a-m5/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/antimicrobialresistance/"
     },
     "Antinous": {
@@ -101278,6 +101285,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/linchangqiang/"
     },
+    "LinJiajunPediatrician": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmpXJ193iFwfm0X-UxmjsAN1a-m5 [lmpXJ193iFwfm0X-UxmjsAN1a-m5].md",
+          "key": "vol-20-erke-ting-lin-yisheng-jiang-baobao-de-fare-waishang-xinli-yimiao-de-naxie-wuqu-he-panduan-changshi-taiwan-diqu-jiuzhen-xianzhuang-lmpxj193ifwfm0x-uxmjsan1a-m5",
+          "show": "这病说来话长",
+          "title": "VOL.20儿科｜听林医生讲宝宝的发热、外伤、心理、疫苗的那些误区和判断常识｜台湾地区就诊现状",
+          "url": "/wiki/sources/vol-20-erke-ting-lin-yisheng-jiang-baobao-de-fare-waishang-xinli-yimiao-de-naxie-wuqu-he-panduan-changshi-taiwan-diqu-jiuzhen-xianzhuang-lmpxj193ifwfm0x-uxmjsan1a-m5/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/linjiajunpediatrician/"
+    },
     "LinJianxinStandup": {
       "episode_count": 1,
       "show_count": 1,
@@ -128946,9 +128969,9 @@
       "url": "/wiki/concepts/pediatricairwayforeignbodyescalation/"
     },
     "PediatricEmergencyTriageAndEscalation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lgciXQ48AMOKf8Z_TbV7L7bOOkHG [lgciXQ48AMOKf8Z_TbV7L7bOOkHG].md",
@@ -128956,15 +128979,22 @@
           "show": "这病说来话长",
           "title": "VOL.87儿科急诊｜害怕医院有交叉感染就不带孩子去看病？被忽略的那些致命细节",
           "url": "/wiki/sources/vol-87-erke-jizhen-haipa-yiyuan-you-jiaochaganran-jiu-bu-dai-haizi-qu-kanbing-bei-hulue-de-naxie-zhiming-xijie-lgcixq48amokf8z_tbv7l7bookhg/"
+        },
+        {
+          "episode_file": "lmpXJ193iFwfm0X-UxmjsAN1a-m5 [lmpXJ193iFwfm0X-UxmjsAN1a-m5].md",
+          "key": "vol-20-erke-ting-lin-yisheng-jiang-baobao-de-fare-waishang-xinli-yimiao-de-naxie-wuqu-he-panduan-changshi-taiwan-diqu-jiuzhen-xianzhuang-lmpxj193ifwfm0x-uxmjsan1a-m5",
+          "show": "这病说来话长",
+          "title": "VOL.20儿科｜听林医生讲宝宝的发热、外伤、心理、疫苗的那些误区和判断常识｜台湾地区就诊现状",
+          "url": "/wiki/sources/vol-20-erke-ting-lin-yisheng-jiang-baobao-de-fare-waishang-xinli-yimiao-de-naxie-wuqu-he-panduan-changshi-taiwan-diqu-jiuzhen-xianzhuang-lmpxj193ifwfm0x-uxmjsan1a-m5/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/pediatricemergencytriageandescalation/"
     },
     "PediatricFeverHomeCareTriage": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "ljLYg0KUQvUJ2R89K6O5HHUeFJt9 [ljLYg0KUQvUJ2R89K6O5HHUeFJt9].md",
@@ -128979,10 +129009,33 @@
           "show": "这病说来话长",
           "title": "VOL.97呼吸科｜今冬流感、肺炎这么“猛”？我咋整？｜儿童支原体肺炎总不好？有后遗症吗？",
           "url": "/wiki/sources/vol-97-huxike-jindong-liugan-feiyan-zheme-meng-wo-zazheng-ertong-zhiyuanti-feiyan-zong-buhao-you-houyizheng-ma-liz9rdhhqkbxpktg1gd2z2sb2klq/"
+        },
+        {
+          "episode_file": "lmpXJ193iFwfm0X-UxmjsAN1a-m5 [lmpXJ193iFwfm0X-UxmjsAN1a-m5].md",
+          "key": "vol-20-erke-ting-lin-yisheng-jiang-baobao-de-fare-waishang-xinli-yimiao-de-naxie-wuqu-he-panduan-changshi-taiwan-diqu-jiuzhen-xianzhuang-lmpxj193ifwfm0x-uxmjsan1a-m5",
+          "show": "这病说来话长",
+          "title": "VOL.20儿科｜听林医生讲宝宝的发热、外伤、心理、疫苗的那些误区和判断常识｜台湾地区就诊现状",
+          "url": "/wiki/sources/vol-20-erke-ting-lin-yisheng-jiang-baobao-de-fare-waishang-xinli-yimiao-de-naxie-wuqu-he-panduan-changshi-taiwan-diqu-jiuzhen-xianzhuang-lmpxj193ifwfm0x-uxmjsan1a-m5/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/pediatricfeverhomecaretriage/"
+    },
+    "PediatricGrowthEvaluationAndHormoneBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmpXJ193iFwfm0X-UxmjsAN1a-m5 [lmpXJ193iFwfm0X-UxmjsAN1a-m5].md",
+          "key": "vol-20-erke-ting-lin-yisheng-jiang-baobao-de-fare-waishang-xinli-yimiao-de-naxie-wuqu-he-panduan-changshi-taiwan-diqu-jiuzhen-xianzhuang-lmpxj193ifwfm0x-uxmjsan1a-m5",
+          "show": "这病说来话长",
+          "title": "VOL.20儿科｜听林医生讲宝宝的发热、外伤、心理、疫苗的那些误区和判断常识｜台湾地区就诊现状",
+          "url": "/wiki/sources/vol-20-erke-ting-lin-yisheng-jiang-baobao-de-fare-waishang-xinli-yimiao-de-naxie-wuqu-he-panduan-changshi-taiwan-diqu-jiuzhen-xianzhuang-lmpxj193ifwfm0x-uxmjsan1a-m5/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/pediatricgrowthevaluationandhormoneboundary/"
     },
     "PediatricLanguageDelayEarlyIntervention": {
       "episode_count": 1,
@@ -149389,9 +149442,9 @@
       "url": "/wiki/entities/seikofootballclub/"
     },
     "SeizureFirstAidBoundary": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lneMOgQ8gB9o3E2835jvtFX3EMiy [lneMOgQ8gB9o3E2835jvtFX3EMiy].md",
@@ -149406,9 +149459,16 @@
           "show": "这病说来话长",
           "title": "VOL.87儿科急诊｜害怕医院有交叉感染就不带孩子去看病？被忽略的那些致命细节",
           "url": "/wiki/sources/vol-87-erke-jizhen-haipa-yiyuan-you-jiaochaganran-jiu-bu-dai-haizi-qu-kanbing-bei-hulue-de-naxie-zhiming-xijie-lgcixq48amokf8z_tbv7l7bookhg/"
+        },
+        {
+          "episode_file": "lmpXJ193iFwfm0X-UxmjsAN1a-m5 [lmpXJ193iFwfm0X-UxmjsAN1a-m5].md",
+          "key": "vol-20-erke-ting-lin-yisheng-jiang-baobao-de-fare-waishang-xinli-yimiao-de-naxie-wuqu-he-panduan-changshi-taiwan-diqu-jiuzhen-xianzhuang-lmpxj193ifwfm0x-uxmjsan1a-m5",
+          "show": "这病说来话长",
+          "title": "VOL.20儿科｜听林医生讲宝宝的发热、外伤、心理、疫苗的那些误区和判断常识｜台湾地区就诊现状",
+          "url": "/wiki/sources/vol-20-erke-ting-lin-yisheng-jiang-baobao-de-fare-waishang-xinli-yimiao-de-naxie-wuqu-he-panduan-changshi-taiwan-diqu-jiuzhen-xianzhuang-lmpxj193ifwfm0x-uxmjsan1a-m5/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/seizurefirstaidboundary/"
     },
     "SelectionDrivenVirtueSignaling": {

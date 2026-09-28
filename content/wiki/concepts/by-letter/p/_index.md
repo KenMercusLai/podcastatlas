@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8772
+wiki_total_pages: 8773
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -362,6 +362,9 @@ wiki_pages:
   - key: "PediatricFeverHomeCareTriage"
     title: "Pediatric Fever Home-Care Triage / 儿童发热家庭分诊"
     url: "/wiki/concepts/pediatricfeverhomecaretriage/"
+  - key: "PediatricGrowthEvaluationAndHormoneBoundary"
+    title: "Pediatric Growth Evaluation and Hormone Boundary / 儿童生长评估与生长激素边界"
+    url: "/wiki/concepts/pediatricgrowthevaluationandhormoneboundary/"
   - key: "PediatricLanguageDelayEarlyIntervention"
     title: "Pediatric Language Delay Early Intervention"
     url: "/wiki/concepts/pediatriclanguagedelayearlyintervention/"

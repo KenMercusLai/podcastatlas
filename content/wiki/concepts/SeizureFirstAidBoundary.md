@@ -5,7 +5,8 @@ tags: [health, emergency-response, first-aid, neurology]
 sources:
   - vol-222-aoye-xintiao-kuangbiao-shi-cusi-qianzhao-aed-hui-dian-cuo-huoren-dai-ni-bikai-zhiming-changshi-shijie-jijiu-ri-teji-lnemogq8gb9o3e2835jvtfx3emiy
   - vol-87-erke-jizhen-haipa-yiyuan-you-jiaochaganran-jiu-bu-dai-haizi-qu-kanbing-bei-hulue-de-naxie-zhiming-xijie-lgcixq48amokf8z_tbv7l7bookhg
-last_updated: 2026-09-27
+  - vol-20-erke-ting-lin-yisheng-jiang-baobao-de-fare-waishang-xinli-yimiao-de-naxie-wuqu-he-panduan-changshi-taiwan-diqu-jiuzhen-xianzhuang-lmpxj193ifwfm0x-uxmjsan1a-m5
+last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
 
@@ -17,11 +18,11 @@ Seizure first-aid boundary / 抽搐急救边界 is the public response distincti
 ## Current Synthesis
 [[vol-222-aoye-xintiao-kuangbiao-shi-cusi-qianzhao-aed-hui-dian-cuo-huoren-dai-ni-bikai-zhiming-changshi-shijie-jijiu-ri-teji-lnemogq8gb9o3e2835jvtfx3emiy]] gives a clear negative boundary: do not pinch the philtrum and do not put chopsticks, towels, fingers, or other objects into the mouth during convulsions. The safer public role is protection, observation, and escalation when the seizure does not stop or breathing and airway risk become concerning.
 
-The concept also shows why first-aid technique must match the event. A convulsion is not a reason to improvise CPR, Heimlich-style abdominal thrusts, or forced mouth opening without assessment. VOL.87 extends the boundary to febrile convulsions in children: make the surroundings safer, avoid restraining or trying to stop the movements, protect the airway through appropriate positioning when feasible, and obtain medical assessment after the episode.
+The concept also shows why first-aid technique must match the event. A convulsion is not a reason to improvise CPR, Heimlich-style abdominal thrusts, or forced mouth opening without assessment. VOL.87 extends the boundary to febrile convulsions in children: make the surroundings safer, avoid restraining or trying to stop the movements, protect the airway through appropriate positioning when feasible, and obtain medical assessment after the episode. VOL.20 reinforces side positioning and explicitly rejects shaking as well as philtrum pinching; duration, recurrence, prior history, recovery, and associated illness help determine escalation.
 
 ## Key Claims
 - Bystanders should not put hard or soft objects into a convulsing person's mouth.
-- Pinching the philtrum is rejected as a recommended response in the source.
+- Pinching the philtrum or shaking the person is rejected as a recommended response.
 - Forced mouth access can injure the rescuer's fingers or the person's teeth and mouth.
 - The safer public action is to protect the head, trunk, and limbs from surrounding objects and reduce secondary impact.
 - If convulsions continue, emergency calling should happen early.
@@ -33,13 +34,15 @@ The concept also shows why first-aid technique must match the event. A convulsio
 - Protection and escalation: [[vol-222-aoye-xintiao-kuangbiao-shi-cusi-qianzhao-aed-hui-dian-cuo-huoren-dai-ni-bikai-zhiming-changshi-shijie-jijiu-ri-teji-lnemogq8gb9o3e2835jvtfx3emiy]] recommends protecting the person's head, body, and limbs from collision and calling 120 if seizures do not stop.
 - Post-event positioning: [[vol-222-aoye-xintiao-kuangbiao-shi-cusi-qianzhao-aed-hui-dian-cuo-huoren-dai-ni-bikai-zhiming-changshi-shijie-jijiu-ri-teji-lnemogq8gb9o3e2835jvtfx3emiy]] says side positioning after convulsions stop can reduce risk from vomit.
 - Pediatric febrile-convulsion branch: [[vol-87-erke-jizhen-haipa-yiyuan-you-jiaochaganran-jiu-bu-dai-haizi-qu-kanbing-bei-hulue-de-naxie-zhiming-xijie-lgcixq48amokf8z_tbv7l7bookhg]] recommends a safer environment, airway-conscious positioning, no forced restraint, and subsequent hospital assessment.
+- Duration and shaking boundary: [[vol-20-erke-ting-lin-yisheng-jiang-baobao-de-fare-waishang-xinli-yimiao-de-naxie-wuqu-he-panduan-changshi-taiwan-diqu-jiuzhen-xianzhuang-lmpxj193ifwfm0x-uxmjsan1a-m5|VOL.20]] rejects philtrum pinching and shaking, supports side positioning, and links prolonged or recurrent events to prompt emergency help.
 
 ## Counterevidence & Qualifications
-The page is not individualized neurology, pediatric, or emergency guidance. Seizure cause, age, duration, injury, pregnancy, diabetes, poisoning, fever, trauma, repeated seizures, airway status, recovery, and local emergency protocols determine clinical urgency.
+The page is not individualized neurology, pediatric, or emergency guidance. Seizure cause, age, duration, injury, pregnancy, diabetes, poisoning, fever, trauma, repeated seizures, airway status, recovery, and local emergency protocols determine clinical urgency. VOL.20's statement that a typical febrile convulsion stays under five minutes is source-scoped and must not be used as a reason to delay emergency calling when the event or recovery is concerning.
 
 ## What Changed
 - VOL.222 creates a seizure first-aid concept that records the episode's boundary against philtrum pinching, mouth-stuffing, and mismatched emergency techniques.
 - Added febrile convulsions, non-restraint, airway-conscious protection, and post-event pediatric assessment.
+- Reinforced the no-shaking boundary and duration-aware escalation without turning five minutes into a universal wait rule.
 
 ## Related Concepts
 - [[FirstAidTriageAndEscalation]] - broader first-aid judgment frame for unclear collapse and convulsions.
