@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 11351
+wiki_total_pages: 11355
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -269,6 +269,9 @@ wiki_pages:
   - key: "RenminUniversityOfChina"
     title: "Renmin University of China / 中国人民大学"
     url: "/wiki/entities/renminuniversityofchina/"
+  - key: "RennesLeChateau"
+    title: "Rennes-le-Château"
+    url: "/wiki/entities/renneslechateau/"
   - key: "ReneSchneider"
     title: "René Schneider"
     url: "/wiki/entities/reneschneider/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 8771
+wiki_total_pages: 8772
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -158,6 +158,9 @@ wiki_pages:
   - key: "ManufacturedAccessBrokerage"
     title: "Manufactured Access Brokerage / 假势通道套利"
     url: "/wiki/concepts/manufacturedaccessbrokerage/"
+  - key: "ManufacturedHistoricalConspiracy"
+    title: "Manufactured Historical Conspiracy"
+    url: "/wiki/concepts/manufacturedhistoricalconspiracy/"
   - key: "ManufacturedPrisonerDilemma"
     title: "Manufactured Prisoner Dilemma"
     url: "/wiki/concepts/manufacturedprisonerdilemma/"

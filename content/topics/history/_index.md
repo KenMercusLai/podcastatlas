@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2172
+topic_total_pages: 2173
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4719,6 +4719,9 @@ topic_sources:
   - key: "30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138"
     title: "30.孟子：战国愤青的赤子之心"
     url: "/wiki/sources/30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138/"
+  - key: "301-the-real-da-vinci-code-glt5654192229"
+    title: "301: The Real Da Vinci Code"
+    url: "/wiki/sources/301-the-real-da-vinci-code-glt5654192229/"
   - key: "302-the-mystery-of-the-cathars-glt9956144594"
     title: "302: The Mystery of the Cathars"
     url: "/wiki/sources/302-the-mystery-of-the-cathars-glt9956144594/"

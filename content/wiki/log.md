@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-29] ingest | 301: The Real Da Vinci Code
+
+Added source `301-the-real-da-vinci-code-glt5654192229`; created `PierrePlantard`, `PrioryOfSion`, `RennesLeChateau`, `TheDaVinciCode`, and `ManufacturedHistoricalConspiracy`; updated `Cathars` from its complete bounded source set; and updated the canonical index. Core synthesis: the supposedly ancient Priory was a 1956 association whose medieval continuity was manufactured through local treasure promotion, Plantard's forged archive trail, documentary and pseudo-historical elaboration, and mass-market fiction, while genuine Cathar persecution and Languedoc history supplied atmosphere rather than proof. No settled contradiction with episodes 302 or 303 was adopted. The source directly rejects the 1099 Priory and sacred-bloodline claims, while sales figures, promotional wording, motives, document authorship, and the wider Cathar historiographical dispute remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten because this episode backfills the established Cathar branch; downstream synthesis refresh only reads it.
+
 ## [2026-09-29] ingest | 302: The Mystery of the Cathars
 
 Added source `302-the-mystery-of-the-cathars-glt9956144594`; updated `Cathars`, `GregorianReform`, `AlbigensianCrusade`, `InnocentIII`, `RaymondVIOfToulouse`, `GregoryVII`, and `Languedoc` from their complete bounded source sets; migrated `Languedoc` to the synthesis-first entity schema; and updated the canonical index. Core synthesis: real religious dissent and brutal persecution do not by themselves establish an ancient, unified, self-identifying Cathar church; learned labels, Gregorian clericalization, proactive investigation, and regional political accusation helped construct a universal internal enemy before papal pressure, excommunication, failed negotiation, and Peter de Castelnau's murder opened the path to crusade. No settled contradiction with episode 303 was adopted. The revisionist thesis, terminology history, English political influence, Raymond's non-involvement in the murder, and the “first revolution” framing remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten because this episode backfills the causal prehistory of an established branch; downstream synthesis refresh only reads it.
@@ -25143,6 +25147,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-29] ingest | How to Stop Headaches Using Science-Based Approaches
 
 Added source `how-to-stop-headaches-using-science-based-approaches-scim3934172473`; created `HeadacheMechanismDirectedCare`; and updated `MigraineRecognitionAndTriage`, `MigraineMedicationChoice`, `CreatineMonohydrateEvidence`, and the canonical index from their complete bounded source sets. Core synthesis: headache location alone does not identify one mechanism; muscular, neural, vascular, inflammatory, hormonal, and traumatic contributors require pattern-specific assessment and treatment; sleep is foundational but does not replace diagnosis; and the episode's medication, supplement, light, topical, acupuncture, and procedure claims remain conditional. An unresolved contradiction is preserved between the episode's favorable high-dose creatine pilot for post-traumatic headache and a later source's explicit boundary against treating TBI or concussion with creatine. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-29] lint | Wiki health check
 

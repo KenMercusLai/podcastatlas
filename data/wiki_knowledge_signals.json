@@ -25828,9 +25828,9 @@
       "url": "/wiki/concepts/catastrophicfailurerootcauseinvestigation/"
     },
     "Cathars": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT7887097153 [GLT7887097153].md",
@@ -25845,6 +25845,13 @@
           "show": "The Rest Is History",
           "title": "302: The Mystery of the Cathars",
           "url": "/wiki/sources/302-the-mystery-of-the-cathars-glt9956144594/"
+        },
+        {
+          "episode_file": "GLT5654192229 [GLT5654192229].md",
+          "key": "301-the-real-da-vinci-code-glt5654192229",
+          "show": "The Rest Is History",
+          "title": "301: The Real Da Vinci Code",
+          "url": "/wiki/sources/301-the-real-da-vinci-code-glt5654192229/"
         }
       ],
       "updated": "2026-09-29",
@@ -110596,6 +110603,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/maniusaquillius/"
     },
+    "ManufacturedHistoricalConspiracy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5654192229 [GLT5654192229].md",
+          "key": "301-the-real-da-vinci-code-glt5654192229",
+          "show": "The Rest Is History",
+          "title": "301: The Real Da Vinci Code",
+          "url": "/wiki/sources/301-the-real-da-vinci-code-glt5654192229/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/manufacturedhistoricalconspiracy/"
+    },
     "ManufacturedRebellionBranding": {
       "episode_count": 1,
       "show_count": 1,
@@ -131255,6 +131278,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/entities/picloram/"
     },
+    "PierrePlantard": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5654192229 [GLT5654192229].md",
+          "key": "301-the-real-da-vinci-code-glt5654192229",
+          "show": "The Rest Is History",
+          "title": "301: The Real Da Vinci Code",
+          "url": "/wiki/sources/301-the-real-da-vinci-code-glt5654192229/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/pierreplantard/"
+    },
     "PiggyLordOfTheFlies": {
       "episode_count": 1,
       "show_count": 1,
@@ -135482,6 +135521,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/principledworkplacenonalignment/"
+    },
+    "PrioryOfSion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5654192229 [GLT5654192229].md",
+          "key": "301-the-real-da-vinci-code-glt5654192229",
+          "show": "The Rest Is History",
+          "title": "301: The Real Da Vinci Code",
+          "url": "/wiki/sources/301-the-real-da-vinci-code-glt5654192229/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/prioryofsion/"
     },
     "PriscillaChan": {
       "episode_count": 1,
@@ -142019,6 +142074,22 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/concepts/renewedmandateritualreversal/"
+    },
+    "RennesLeChateau": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5654192229 [GLT5654192229].md",
+          "key": "301-the-real-da-vinci-code-glt5654192229",
+          "show": "The Rest Is History",
+          "title": "301: The Real Da Vinci Code",
+          "url": "/wiki/sources/301-the-real-da-vinci-code-glt5654192229/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/renneslechateau/"
     },
     "RepeatCOVIDInfectionTriage": {
       "episode_count": 1,
@@ -164963,6 +165034,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/thecoralisland/"
+    },
+    "TheDaVinciCode": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5654192229 [GLT5654192229].md",
+          "key": "301-the-real-da-vinci-code-glt5654192229",
+          "show": "The Rest Is History",
+          "title": "301: The Real Da Vinci Code",
+          "url": "/wiki/sources/301-the-real-da-vinci-code-glt5654192229/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/thedavincicode/"
     },
     "TheDreamersAndI": {
       "episode_count": 1,

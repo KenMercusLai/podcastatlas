@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 11351
+wiki_total_pages: 11355
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -542,6 +542,9 @@ wiki_pages:
   - key: "PierreMichaux"
     title: "Pierre Michaux / 皮埃尔·米肖"
     url: "/wiki/entities/pierremichaux/"
+  - key: "PierrePlantard"
+    title: "Pierre Plantard"
+    url: "/wiki/entities/pierreplantard/"
   - key: "PierreSimonLaplace"
     title: "Pierre-Simon Laplace / 拉普拉斯"
     url: "/wiki/entities/pierresimonlaplace/"
@@ -812,6 +815,9 @@ wiki_pages:
   - key: "PrinciplesOfPhilosophy"
     title: "Principles of Philosophy / 《哲学原理》"
     url: "/wiki/entities/principlesofphilosophy/"
+  - key: "PrioryOfSion"
+    title: "Priory of Sion"
+    url: "/wiki/entities/prioryofsion/"
   - key: "Pripyat"
     title: "Pripyat"
     url: "/wiki/entities/pripyat/"

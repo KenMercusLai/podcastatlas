@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [301: The Real Da Vinci Code](sources/301-the-real-da-vinci-code-glt5654192229.md) — The Rest Is History episode tracing the modern Priory of Sion fabrication through local legend, forged archives, pseudo-history, popular fiction, and contested Cathar reception.
 - [How to Stop Headaches Using Science-Based Approaches](sources/how-to-stop-headaches-using-science-based-approaches-scim3934172473.md) — Huberman Lab solo episode on headache classification, neural and tissue mechanisms, migraine and post-traumatic triage, and conditional treatment options.
 - [302: The Mystery of the Cathars](sources/302-the-mystery-of-the-cathars-glt9956144594.md) — The Rest Is History episode on contested Cathar identity, Gregorian reform, institutional heresy-making, Languedoc politics, and the prelude to the Albigensian Crusade.
 - [GUEST SERIES | Dr. Andy Galpin: Optimize Your Training Program for Fitness & Longevity](sources/guest-series-dr-andy-galpin-optimize-your-training-program-for-fitness-longevity-scim2066998732.md) — Huberman Lab guest-series episode on constraint-first program design, annual periodization, mixed weekly templates, progressive overload, deloading, and disruption planning.
@@ -3186,6 +3187,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe](sources/use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim4085406904.md) — Full Huberman Lab interview on sleep-stage function, slow-wave restoration, REM emotional-memory processing, locus-coeruleus regulation, nightmares, and opioid-withdrawal sleep disruption.
 
 ## Entities
+- [Pierre Plantard](entities/PierrePlantard.md) — Modern founder and documentary fabricator behind the invented medieval history of the Priory of Sion.
+- [Priory of Sion](entities/PrioryOfSion.md) — 1956 French association transformed through forged records into a supposed ancient secret order.
+- [Rennes-le-Château](entities/RennesLeChateau.md) — French village where priestly finances, tourist treasure legend, Cathar atmosphere, and conspiracy publishing converged.
+- [The Da Vinci Code](entities/TheDaVinciCode.md) — 2003 thriller that globalized an inherited sacred-bloodline conspiracy while marketing its background as substantially factual.
 - [Pope Innocent III](entities/InnocentIII.md) — Pope who escalated anti-heresy investigation, excommunication, and failed negotiation into armed pilgrimage in Languedoc.
 - [Raymond VI of Toulouse](entities/RaymondVIOfToulouse.md) — Count whose prewar confrontation, tactical submission, participation, and resistance expose the crusade's unstable regional politics.
 - [Simon de Montfort](entities/SimonDeMontfort.md) — Devout and brutal commander who converted the opening crusade into prolonged occupation and conquest.
@@ -14564,6 +14569,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Satchin Panda](entities/SatchinPanda.md) — Circadian-biology researcher separating meal timing, fasting duration, energy intake, and evidence limits in animal and human studies.
 
 ## Concepts
+- [Manufactured Historical Conspiracy](concepts/ManufacturedHistoricalConspiracy.md) — Provenance chain in which mundane events, commercial legend, forged evidence, discovery, elaboration, and mass retelling create false historical continuity.
 - [Headache Mechanism-Directed Care](concepts/HeadacheMechanismDirectedCare.md) — Framework for matching headache assessment and treatment to muscular, neural, vascular, inflammatory, hormonal, or traumatic context.
 - [Annual Fitness Periodization](concepts/AnnualFitnessPeriodization.md) — Rotating yearly training emphasis while maintaining broad capacity and scheduling recovery.
 - [Constraint-First Training Design](concepts/ConstraintFirstTrainingDesign.md) — Designing exercise around the target adaptation, likely blocker, real calendar, and anticipated disruption.

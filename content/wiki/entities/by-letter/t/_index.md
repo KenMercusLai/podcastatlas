@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 11351
+wiki_total_pages: 11355
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -395,6 +395,9 @@ wiki_pages:
   - key: "TheCoralIsland"
     title: "The Coral Island / 《珊瑚岛》"
     url: "/wiki/entities/thecoralisland/"
+  - key: "TheDaVinciCode"
+    title: "The Da Vinci Code"
+    url: "/wiki/entities/thedavincicode/"
   - key: "TheDagda"
     title: "The Dagda / 达格达"
     url: "/wiki/entities/thedagda/"
