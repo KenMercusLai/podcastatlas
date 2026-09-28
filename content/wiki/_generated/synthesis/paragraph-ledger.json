@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "6e136b358cff61003fb4df15f0b3f39f2bf43b0d64fa941310906c084be8a2d8",
       "88d5adbd64b28071ad6efb260eac66b89a97ffdc403817ec87487ddf6132ee3a",
       "613de235fc1a66cb7709adb21aec428dd3252285c7d000ec7b56e62a6e97e689",
       "9898c41e8e82385c78359cad5a20f5a3d90978bfde6fe83d6e000e11ccf92d30",
@@ -768,11 +769,33 @@
       "718798e1c902241c90f817fc5263e223e3a7e3324d31441c2ee9f2e19f9dfd0d",
       "e831e8e86e17b030487ea014bf3b5808a8c29e2427f06293b304cc57798e77a3"
     ],
-    "paragraph_count": 766
+    "paragraph_count": 767
   },
-  "overview_commit": "8a8bf3cb0166555339f0cbf6bcf3935b2065eca4",
-  "overview_digest": "6478306adf59069e813433336e7ffa1851d1bbc634830400a43791f1a249db5e",
+  "overview_commit": "273d9746cd35e8c05d734deee40b316e5ebbe588",
+  "overview_digest": "d761c694c1b3688f547cf39fc2f30c23c1f88091400c24e9ebe84752dc84e673",
   "paragraphs": [
+    {
+      "id": "6e136b358cff61003fb4df15f0b3f39f2bf43b0d64fa941310906c084be8a2d8",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [],
+      "text": "The latest women's-health addition is [[vol-27-fuchanke-guanyu-shenglitong-hpv-biyun-huaiyun-women-yao-zhidao-de-zhexie-wuqu-he-zhishidian-lsdiuqrn72kocqbldexyzqglbwq6|VOL.27妇产科｜关于生理痛、HPV、避孕、怀孕我们要知道的这些误区和知识点]], a [[ZheBingShuoLaiHuaChang|这病说来话长]] episode with [[Atang|阿汤]] and [[JacksonLiuGynecologist|Jackson 刘医生]] on menstrual symptoms, PCOS, HPV, contraception, abortion, prenatal testing, pregnancy care, delivery, and postpartum myths. It adds [[JacksonLiuGynecologist]] and [[PrenatalScreeningAndPregnancyCareLimits]] while extending [[GynecologicalSymptomTriage]], [[PCOSOvulatoryDysfunction]], [[HPVPreventionAndFollowup]], [[ContraceptionSexualHealthRiskLiteracy]], and [[UltrasoundExamPreparationAndSafety]]. Its core synthesis is that reproductive-health decisions should combine symptom burden, timing, examination, bounded test performance, clinical indication, patient preference, and family context instead of relying on universal folk rules, fear-based marketing, or guarantees. No settled contradiction is recorded; vaccine eligibility, screening schedules, abortion methods and gestational limits, prenatal-test performance, infection assessment, and delivery criteria remain time-, jurisdiction-, method-, and patient-sensitive public education rather than current individualized guidance.",
+      "topic_scores": {
+        "science-health-and-climate": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "Atang",
+        "ContraceptionSexualHealthRiskLiteracy",
+        "GynecologicalSymptomTriage",
+        "HPVPreventionAndFollowup",
+        "JacksonLiuGynecologist",
+        "PCOSOvulatoryDysfunction",
+        "PrenatalScreeningAndPregnancyCareLimits",
+        "UltrasoundExamPreparationAndSafety",
+        "ZheBingShuoLaiHuaChang",
+        "vol-27-fuchanke-guanyu-shenglitong-hpv-biyun-huaiyun-women-yao-zhidao-de-zhexie-wuqu-he-zhishidian-lsdiuqrn72kocqbldexyzqglbwq6"
+      ]
+    },
     {
       "id": "88d5adbd64b28071ad6efb260eac66b89a97ffdc403817ec87487ddf6132ee3a",
       "primary_topic": "science-health-and-climate",

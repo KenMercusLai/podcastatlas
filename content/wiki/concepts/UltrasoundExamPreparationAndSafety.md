@@ -4,7 +4,8 @@ type: concept
 tags: [healthcare, ultrasound, patient-preparation, consent, infection-control]
 sources:
   - vol-140-weishenme-jiancha-qian-yao-bieniao-ni-zuo-b-chao-jiancha-shi-tu-de-you-haishi-liang-de-ma-a-chao-m-chao-d-chao-sanwei-siwei-dou-shi-shenme-lqu3qcqbn3yr5r_-opoaw3sc1vsf
-last_updated: 2026-09-22
+  - vol-27-fuchanke-guanyu-shenglitong-hpv-biyun-huaiyun-women-yao-zhidao-de-zhexie-wuqu-he-zhishidian-lsdiuqrn72kocqbldexyzqglbwq6
+last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
 
@@ -17,6 +18,8 @@ Ultrasound exam preparation and safety is the patient-facing coordination of aco
 Preparation changes what ultrasound can see. Coupling gel replaces the air gap between probe and skin so sound transmits effectively; it is ordinarily water-soluble rather than oil, and warming it can improve comfort. For selected pelvic examinations, a moderately full bladder opens an acoustic window and displaces bowel, but excessive filling can compress surrounding structures and worsen the view. Examination order can therefore matter when fasting abdominal imaging, pelvic imaging, blood collection, and urine sampling are scheduled together.
 
 Endocavitary routes trade distance for invasiveness. Transvaginal scanning can show the uterus, ovaries, early intrauterine pregnancy, or cervical length more clearly than transabdominal scanning in selected settings, while transrectal scanning can improve access to structures such as the prostate. These routes require explanation, consent, protective probe covers, appropriate gel and cleaning practice, and the option to use a less invasive route when clinically acceptable. The episode rejects the idea that a correctly performed transvaginal scan enters the cervix or itself causes miscarriage or preterm birth, while leaving individual eligibility to the treating team.
+
+VOL.27 reinforces the pregnancy boundary from an earlier obstetric perspective: ultrasound uses sound rather than ionizing radiation and is ordered for a clinical monitoring purpose, while early transvaginal scanning is preceded by assessment of the patient's situation. Reassurance about the modality does not mean every scan, route, or timing is automatically indicated.
 
 ## Key Claims
 - Coupling gel removes the air interface that would otherwise impair sound transmission between probe and skin.
@@ -32,14 +35,16 @@ Endocavitary routes trade distance for invasiveness. Transvaginal scanning can s
 - Bladder window and scheduling: [[vol-140-weishenme-jiancha-qian-yao-bieniao-ni-zuo-b-chao-jiancha-shi-tu-de-you-haishi-liang-de-ma-a-chao-m-chao-d-chao-sanwei-siwei-dou-shi-shenme-lqu3qcqbn3yr5r_-opoaw3sc1vsf]] describes moderate filling, overfilling, pelvic visualization, and sequencing with fasting scans and urine tests.
 - Endocavitary route, hygiene, and consent: [[vol-140-weishenme-jiancha-qian-yao-bieniao-ni-zuo-b-chao-jiancha-shi-tu-de-you-haishi-liang-de-ma-a-chao-m-chao-d-chao-sanwei-siwei-dou-shi-shenme-lqu3qcqbn3yr5r_-opoaw3sc1vsf]] describes protective covers and gel, says transvaginal imaging is generally clearer than transabdominal imaging when both are possible, and states that the examination requires patient agreement.
 - Pregnancy context: [[vol-140-weishenme-jiancha-qian-yao-bieniao-ni-zuo-b-chao-jiancha-shi-tu-de-you-haishi-liang-de-ma-a-chao-m-chao-d-chao-sanwei-siwei-dou-shi-shenme-lqu3qcqbn3yr5r_-opoaw3sc1vsf]] says transvaginal ultrasound can visualize early pregnancy or cervical length without entering the cervix and does not itself cause miscarriage or preterm birth.
+- Obstetric indication and assessment: [[vol-27-fuchanke-guanyu-shenglitong-hpv-biyun-huaiyun-women-yao-zhidao-de-zhexie-wuqu-he-zhishidian-lsdiuqrn72kocqbldexyzqglbwq6|VOL.27]] describes early transvaginal and obstetric ultrasound as clinically indicated monitoring whose route and timing follow patient assessment.
 
 ## Counterevidence & Qualifications
-Preparation instructions vary by organ, route, urgency, institution, and patient condition. The source's approximate water volume and waiting time are not universal prescriptions. Infection-control protocols, cover materials, gel sterility, contraindications, bleeding or pain concerns, and pregnancy assessment should follow local clinical practice. A patient can decline an endocavitary route, but an alternative may provide less diagnostic detail.
+Preparation instructions vary by organ, route, urgency, institution, and patient condition. VOL.140's approximate water volume and waiting time are not universal prescriptions. Infection-control protocols, cover materials, gel sterility, contraindications, bleeding or pain concerns, and pregnancy assessment should follow local clinical practice. A patient can decline an endocavitary route, but an alternative may provide less diagnostic detail. General reassurance that ultrasound is non-ionizing does not establish that a particular examination is necessary or answer every pregnancy-risk question.
 
 ## What Changed
 - Created the concept to connect acoustic preparation, scheduling, comfort, consent, hygiene, and route choice.
 - Clarified that bladder filling should be adequate rather than maximal.
 - Separated general pregnancy reassurance from individualized obstetric assessment.
+- Reinforced indication-based obstetric use and pre-examination assessment.
 
 ## Related Concepts
 - [[DiagnosticUltrasoundModalitySelection]] - determines which route and ultrasound technique can answer the clinical question.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.27妇产科｜关于生理痛、HPV、避孕、怀孕我们要知道的这些误区和知识点](sources/vol-27-fuchanke-guanyu-shenglitong-hpv-biyun-huaiyun-women-yao-zhidao-de-zhexie-wuqu-he-zhishidian-lsdiuqrn72kocqbldexyzqglbwq6.md) — 这病说来话长 episode on menstrual and gynecological triage, HPV, contraception, prenatal screening limits, pregnancy care, delivery, and postpartum myths.
 - [311: Reagan: The Road to the White House (Part 2)](sources/311-reagan-the-road-to-the-white-house-part-2-glt9813084891.md) — The Rest Is History episode on Reagan's GE speaking apprenticeship, Goldwater breakthrough, California pragmatism, coded racial appeals, and 1980 coalition.
 - [312: Reagan, Iran-Contra and the Cold War (Part 3)](sources/312-reagan-iran-contra-and-the-cold-war-part-3-glt4042202229.md) — The Rest Is History episode on Reagan's symbolic leadership, contested economic program, AIDS and Iran-Contra failures, nuclear fear, and arms-control diplomacy with Gorbachev.
 - [313: Climate Apocalypse](sources/313-climate-apocalypse-glt8815959934.md) — The Rest Is History conversation with Peter Frankopan on climate-history evidence, causal pluralism, disease ecology, institutional resilience, inequality, and conditional optimism.
@@ -3157,6 +3158,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Intermittent Fasting to Improve Health, Cognition & Longevity | Dr. Satchin Panda](sources/intermittent-fasting-to-improve-health-cognition-longevity-dr-satchin-panda-scim5921048014.md) — Huberman Lab interview on circadian meal timing, time-restricted eating, human-versus-mouse evidence, energy-adequacy limits, and a firefighter shift-work trial.
 
 ## Entities
+- [Jackson 刘医生 / Jackson Liu](entities/JacksonLiuGynecologist.md) — Source-scoped clinician guest explaining gynecological and obstetric decisions through symptoms, evidence, risk, and patient context.
 - [蒙医生 / Meng Doctor (fever clinic)](entities/MengDoctorFeverClinic.md) — Source-scoped fever-clinic guest explaining March 2023 influenza workflow, early test uncertainty, care-setting tradeoffs, medication safety, and antibiotic stewardship.
 - [Barry Goldwater](entities/BarryGoldwater.md) — 1964 Republican nominee whose campaign gave Reagan a national breakthrough and exposed a more electorally adaptable conservative successor.
 - [General Electric](entities/GeneralElectric.md) — Industrial and media employer whose television role, plant circuit, and Boulwarism environment trained Reagan's public political method.
@@ -14515,6 +14517,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Satchin Panda](entities/SatchinPanda.md) — Circadian-biology researcher separating meal timing, fasting duration, energy intake, and evidence limits in animal and human studies.
 
 ## Concepts
+- [Prenatal Screening and Pregnancy-Care Limits / 产前筛查与孕期照护边界](concepts/PrenatalScreeningAndPregnancyCareLimits.md) — Risk-communication frame for early assessment, bounded prenatal and genetic testing, exposure management, imaging, and delivery planning.
 - [Influenza Home-Care and Medication Triage / 流感居家照护与用药分诊](concepts/InfluenzaHomeCareAndMedicationTriage.md) — Integrates influenza symptom patterns, early test uncertainty, escalation, antiviral timing, ingredient overlap, antibiotic stewardship, and proportionate prevention.
 - [Corporate Speaking as Political Apprenticeship](concepts/CorporateSpeakingPoliticalApprenticeship.md) — Conversion of employer-funded broadcasting, travel, workplace contact, and repeated explanation into electoral skill and message.
 - [Iran-Contra Affair](concepts/IranContraAffair.md) — Executive-law and covert-policy failure linking Iran arms transfers, hostages, Contra funding, congressional restrictions, and concealment.

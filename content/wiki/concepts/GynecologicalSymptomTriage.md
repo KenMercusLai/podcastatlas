@@ -6,7 +6,8 @@ sources:
   - vol-83-fuke-ni-shifou-ye-zheng-bei-zhexie-wenti-kunrao-shengliqi-fuke-jiancha-pendiji-xiufu-chanruqi-de-wenti-zhepian-yiyi-zuoda-loabkthdztlcuy7qfhsrkaqujlf3
   - vol-82-fuke-zhu-jiudian-xiya-yi-huan-xingbing-nvsheng-ganran-hpv-hou-nansheng-ying-zuo-shenme-lgihsbqu9wldxyrjfomxghqtjqdg
   - vol-81-fuke-tongsudian-shuo-duonangluanchao-zigongneimoyiweidao-zigongjiliu-daodi-shi-zenmehuishi-lq4attgiawxnqbczgl-ietatygyc
-last_updated: 2026-09-27
+  - vol-27-fuchanke-guanyu-shenglitong-hpv-biyun-huaiyun-women-yao-zhidao-de-zhexie-wuqu-he-zhishidian-lsdiuqrn72kocqbldexyzqglbwq6
+last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
 
@@ -24,8 +25,10 @@ The framework is deliberately non-diagnostic. Similar descriptions can arise fro
 
 VOL.81 adds longitudinal and anatomical context. New or progressively worsening dysmenorrhea can suggest a secondary cause, and sudden pain around the luteal phase can require assessment for an ovarian event. A cycle record, symptom severity, change over time, imaging timing, and the location of a fibroid or polyp can be more informative than a diagnostic word viewed in isolation.
 
+VOL.27 adds functional burden and treatment dependence to the menstrual history. Mild, stable discomfort differs from pain that repeatedly requires medication or disrupts daily life, while cycle length, regularity, bleeding duration, and amount should be read together rather than reduced to a single “normal” number.
+
 ## Key Claims
-- Timing within or outside the menstrual cycle helps interpretation but does not settle diagnosis.
+- Timing within or outside the menstrual cycle, symptom burden, and repeated need for relief help interpretation but do not settle diagnosis.
 - New, progressive, severe, irregular, unusually heavy, or prolonged symptoms lower the threshold for qualified assessment.
 - Bleeding should be interpreted with amount, duration, trigger, recurrence, anemia signs, age, and pregnancy possibility.
 - Sudden severe lower-abdominal pain is an escalation problem, not a reliable self-differentiation exercise.
@@ -40,12 +43,14 @@ VOL.81 adds longitudinal and anatomical context. New or progressively worsening 
 - Midlife bleeding - [[vol-83-fuke-ni-shifou-ye-zheng-bei-zhexie-wenti-kunrao-shengliqi-fuke-jiancha-pendiji-xiufu-chanruqi-de-wenti-zhepian-yiyi-zuoda-loabkthdztlcuy7qfhsrkaqujlf3|VOL.83]] treats prolonged perimenopausal bleeding and possible anemia or malignancy as requiring clinical evaluation rather than watchful normalization.
 - Vulvar symptoms - [[vol-82-fuke-zhu-jiudian-xiya-yi-huan-xingbing-nvsheng-ganran-hpv-hou-nansheng-ying-zuo-shenme-lgihsbqu9wldxyrjfomxghqtjqdg|VOL.82]] distinguishes itching and folliculitis-like bumps from automatic STI attribution and routes persistent symptoms, discharge, or visible skin change toward qualified examination.
 - Progressive pain and structural context - [[vol-81-fuke-tongsudian-shuo-duonangluanchao-zigongneimoyiweidao-zigongjiliu-daodi-shi-zenmehuishi-lq4attgiawxnqbczgl-ietatygyc|VOL.81]] distinguishes primary from later-onset or worsening dysmenorrhea, recommends tracking frequency and severity, and connects bleeding or fertility impact with lesion location and persistence.
+- Functional burden and combined menstrual pattern - [[vol-27-fuchanke-guanyu-shenglitong-hpv-biyun-huaiyun-women-yao-zhidao-de-zhexie-wuqu-he-zhishidian-lsdiuqrn72kocqbldexyzqglbwq6|VOL.27]] distinguishes tolerable discomfort from recurrent medication-dependent pain and reads cycle regularity, duration, and flow together.
 
 ## Counterevidence & Qualifications
-The episodes are broad Q&A, not a validated triage rule or current guideline. Normal ranges, testing, cervical screening, infection testing, imaging, biopsy or curettage decisions, topical or oral treatment, pain medication, hormone treatment, and emergency thresholds depend on age, pregnancy possibility, medical and sexual history, examination, severity, local guidance, and clinician assessment. Severe pain, fainting, heavy bleeding, pregnancy concern, fever, spreading redness, ulcers, or neurological symptoms can require prompt care.
+The episodes are broad Q&A, not a validated triage rule or current guideline. Normal ranges, testing, cervical screening, infection testing, imaging, biopsy or curettage decisions, topical or oral treatment, pain medication, hormone treatment, and emergency thresholds depend on age, pregnancy possibility, medical and sexual history, examination, severity, local guidance, and clinician assessment. VOL.27's cycle ranges and treatment threshold are source-scoped rather than universal diagnostic cutoffs. Severe pain, fainting, heavy bleeding, pregnancy concern, fever, spreading redness, ulcers, or neurological symptoms can require prompt care.
 
 ## What Changed
 - Added longitudinal pain records, progressive dysmenorrhea, luteal-phase ovarian events, and the role of lesion location and imaging timing.
+- Added functional impairment, repeated medication need, and joint interpretation of cycle, duration, and flow.
 
 ## Related Concepts
 - [[GynecologicalExamDignity]] - examination and communication pathway after a symptom prompts care.

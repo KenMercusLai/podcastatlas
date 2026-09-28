@@ -5,7 +5,8 @@ tags: [hpv, vaccination, cervical-screening, sexual-health]
 sources:
   - vol-82-fuke-zhu-jiudian-xiya-yi-huan-xingbing-nvsheng-ganran-hpv-hou-nansheng-ying-zuo-shenme-lgihsbqu9wldxyrjfomxghqtjqdg
   - vol-78-shengzhi-yixueke-nanke-tade-baopi-gebuge-lai-ting-sanjia-yisheng-zenme-shuo-weishenme-hpv-jiancha-nansheng-hui-chang-chuxian-jiayinxing-lvg2m7yu6whcctt79kmvl38egnh
-last_updated: 2026-09-27
+  - vol-27-fuchanke-guanyu-shenglitong-hpv-biyun-huaiyun-women-yao-zhidao-de-zhexie-wuqu-he-zhishidian-lsdiuqrn72kocqbldexyzqglbwq6
+last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
 
@@ -20,6 +21,8 @@ VOL.82 presents HPV infection as common and not a reliable marker of a person's 
 Prevention is layered. Vaccination can prevent selected future type-specific infections but does not treat an infection already acquired. Barrier use may reduce partner-to-partner exposure without eliminating all skin-to-skin transmission. Screening looks for infection or cervical change on a schedule shaped by age, history, method, local guidance, and prior results; it remains important even when vaccination has occurred. Partners can share responsibility through communication, barrier use, relevant examination, vaccination discussion, and follow-up rather than making one person carry the diagnosis alone.
 
 VOL.78 adds a male-testing limitation: sampling may not capture infection reliably, so a negative male result cannot be converted into proof that HPV is absent. The episode also places foreskin hygiene and circumcision-related population claims within prevention discussion, but these do not replace vaccination, cervical screening, partner communication, or finding-specific clinical follow-up.
+
+VOL.27 adds an earlier public-education formulation: higher-valency vaccines cover more selected HPV types, but waiting for a preferred valency should be weighed against the value of timely protection under current eligibility and availability. It also treats male vaccination as self-protection and partner responsibility, and separates physiological cervical ectropion terminology from the need to investigate abnormal cytology, HPV results, symptoms, or concerning change.
 
 ## Key Claims
 - HPV infection is common and should not be moralized as proof of “unclean” behavior.
@@ -36,15 +39,17 @@ VOL.78 adds a male-testing limitation: sampling may not capture infection reliab
 - Shared responsibility - [[vol-82-fuke-zhu-jiudian-xiya-yi-huan-xingbing-nvsheng-ganran-hpv-hou-nansheng-ying-zuo-shenme-lgihsbqu9wldxyrjfomxghqtjqdg|VOL.82]] includes male partners in communication, risk reduction, hygiene, possible evaluation, and vaccination discussion.
 - Follow-up boundary - [[vol-82-fuke-zhu-jiudian-xiya-yi-huan-xingbing-nvsheng-ganran-hpv-hou-nansheng-ying-zuo-shenme-lgihsbqu9wldxyrjfomxghqtjqdg|VOL.82]] distinguishes home sampling from clinician collection and routes possible cervical lesions toward further assessment.
 - Male testing limit - [[vol-78-shengzhi-yixueke-nanke-tade-baopi-gebuge-lai-ting-sanjia-yisheng-zenme-shuo-weishenme-hpv-jiancha-nansheng-hui-chang-chuxian-jiayinxing-lvg2m7yu6whcctt79kmvl38egnh|VOL.78]] says male sampling can produce false-negative results and should not be treated as definitive exclusion.
+- Timely protection and cervical terminology - [[vol-27-fuchanke-guanyu-shenglitong-hpv-biyun-huaiyun-women-yao-zhidao-de-zhexie-wuqu-he-zhishidian-lsdiuqrn72kocqbldexyzqglbwq6|VOL.27]] discusses vaccine valency and male participation while distinguishing a commonly physiological cervical appearance from result-specific cytology and HPV follow-up.
 
 ## Counterevidence & Qualifications
-The sources describe vaccine age limits, availability, type attribution, screening ages, male testing, public-environment transmission, immune clearance, circumcision associations, and dosing priorities in a jurisdiction-, method-, and time-sensitive way. Current local recommendations, product approvals, dose schedules, screening methods, pregnancy status, immune status, anatomy, symptoms, and prior results can change the appropriate plan. HPV testing in men is not presented here as a universal screening protocol, and a negative test cannot prove absence of infection. VOL.78's transcript contains an uncertain “HBV” rendering in the relevant passage; the episode title and context support HPV, but the disputed audio has not been independently verified. This concept does not diagnose infection or prescribe vaccination, testing, circumcision, supplements, or treatment.
+The sources describe vaccine age limits, availability, valency, type attribution, screening ages, male testing, public-environment transmission, immune clearance, cervical terminology, circumcision associations, and dosing priorities in a jurisdiction-, method-, and time-sensitive way. Current local recommendations, product approvals, dose schedules, screening methods, pregnancy status, immune status, anatomy, symptoms, and prior results can change the appropriate plan. HPV testing in men is not presented here as a universal screening protocol, and a negative test cannot prove absence of infection. VOL.78's transcript contains an uncertain “HBV” rendering in the relevant passage; the episode title and context support HPV, but the disputed audio has not been independently verified. This concept does not diagnose infection or prescribe vaccination, testing, circumcision, supplements, or treatment.
 
 ## What Changed
 - Created a layered model separating vaccination, exposure reduction, screening, and follow-up.
 - Added shared partner responsibility and explicit anti-stigma framing.
 - Preserved uncertainty around time-sensitive eligibility, testing, and screening claims.
 - Added the male-sampling false-negative boundary without treating circumcision as a standalone HPV strategy.
+- Added timely-vaccination, male-participation, and cervical-terminology context while keeping eligibility and screening claims time-sensitive.
 
 ## Related Concepts
 - [[ContraceptionSexualHealthRiskLiteracy]] - barrier-use and partner-risk literacy adjacent to HPV prevention.
