@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Adderall, Stimulants & Modafinil for ADHD: Short- & Long-Term Effects](sources/adderall-stimulants-modafinil-for-adhd-short-long-term-effects-scim8090698200.md) — Huberman Lab solo episode on ADHD attention networks, stimulant and non-stimulant mechanisms, formulation kinetics, neuroplasticity, and individualized safety boundaries.
 - [VOL.49耳鼻咽喉科｜整天戴耳机感觉听力下降、耳鸣？喜欢采耳？这些习惯容易得中耳炎吗？得了中耳炎怎么办？](sources/vol-49-erbiyanhouke-zhengtian-dai-erji-ganjue-tingli-xiajiang-erming-xihuan-caier-zhexie-xiguan-rongyi-de-zhongeryan-ma-dele-zhongeryan-zenmeban-lhtgv0oqyrvnm_-gsgj8jgatu26z.md) — 这病说来话长 episode on tinnitus, middle-ear disease subtypes, cholesteatoma, perforation, ear cleaning, headphones, and symptom-based care routing.
 - [337: Ireland: Union, Famine and Parnell (Part 2)](sources/337-ireland-union-famine-and-parnell-part-2-glt4375415331.md) — The Rest Is History episode on Catholic emancipation, famine culpability, land reform, constitutional nationalism, Home Rule, and Ulster resistance.
 - [E253｜谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长](sources/e253-shui-zai-gei-damoxing-chuti-maiti-panjuan-liaoliao-ai-shuju-hangye-de-yemanshengzhang-0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d.md) — 硅谷101 episode on expert rubrics, agent environments, benchmark integrity, vertical data procurement, reward hacking, and contributor incentives.

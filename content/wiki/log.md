@@ -23945,6 +23945,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-28] ingest | Adderall, Stimulants & Modafinil for ADHD: Short- & Long-Term Effects
+
+Added source `adderall-stimulants-modafinil-for-adhd-short-long-term-effects-scim8090698200` and updated `ADHDAttentionControlModel`, `ADHDTreatmentSelectionBoundary`, and the canonical index from their complete bounded source sets. Core synthesis: ADHD medication effects depend on attention-network coordination, formulation kinetics, individual response, and clinical context; supervised treatment can support function and learning, while sleep, cardiovascular and psychiatric history, combinations, misuse, tapering, and unequal long-term evidence constrain selection. No settled contradiction was adopted. Drug-mechanism, dose, duration, growth, endocrine, addiction, psychosis, neurotoxicity, and comparative-risk claims remain source-scoped public education rather than individualized prescribing guidance. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-28] ingest | VOL.49耳鼻咽喉科｜整天戴耳机感觉听力下降、耳鸣？喜欢采耳？这些习惯容易得中耳炎吗？得了中耳炎怎么办？
 
 Added source `vol-49-erbiyanhouke-zhengtian-dai-erji-ganjue-tingli-xiajiang-erming-xihuan-caier-zhexie-xiguan-rongyi-de-zhongeryan-ma-dele-zhongeryan-zenmeban-lhtgv0oqyrvnm_-gsgj8jgatu26z`; created `XieDaoyu`, `HangzhouNormalUniversityAffiliatedHospital`, `MiddleEarDiseaseTriage`, and `EarCleaningTraumaRisk`; and updated `HeadphoneUseHearingRisk`, `EarCanalInflammationRisk`, `TinnitusSignalBoundary`, and the canonical index from their complete bounded source sets. Core synthesis: tinnitus, discharge, fullness, pain, and hearing change are non-specific symptoms; middle-ear disease must be separated by anatomy, subtype, perforation, recurrence, hearing impact, and structural risk; and repeated or poorly controlled cleaning creates a preventable external-canal and eardrum injury pathway. No settled contradiction was adopted. Cleaning intervals, topical substances, device comparisons, surgical claims, COVID-positive effusion samples, and cancer associations remain source-scoped public education. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -24519,6 +24523,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-28] ingest | 337: Ireland: Union, Famine and Parnell (Part 2)
 
 Added source `337-ireland-union-famine-and-parnell-part-2-glt4375415331`; created `DanielOConnell`, `CharlesStewartParnell`, `JohnRedmond`, `GreatIrishFamine`, and `IrishConstitutionalNationalism`; and updated `Ireland`, `IrishHomeRule`, `PaulRouse`, `IrishRepublicanBrotherhood`, and the canonical index from their complete bounded source sets. Core synthesis: the Union's everyday commercial and imperial ties did not overcome the legitimacy failures of delayed Catholic emancipation, famine policy, unequal landholding, or contested sovereignty; constitutional nationalism achieved emancipation, land transfer, and statutory Home Rule, but underestimation of Ulster unionist resistance left enactment without an accepted settlement. No settled contradiction was adopted. Famine quantities and causation, private motives, degrees of allegiance, parliamentary and land-transfer figures, and Home Rule counterfactuals remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-28] lint | Wiki health check
 

@@ -218,9 +218,9 @@
       "url": "/wiki/entities/acrcloud/"
     },
     "ADHDAttentionControlModel": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM4112569463 [SCIM4112569463].md",
@@ -242,9 +242,16 @@
           "show": "这病说来话长",
           "title": "VOL.108精神心理科｜你只是误会了你的高光时刻 多动症不等于聪明 ADHD需不需要治是个问题",
           "url": "/wiki/sources/lvfirgzbmtwypcjqyqry291qz6cw-lvfirgzbmtwypcjqyqry291qz6cw/"
+        },
+        {
+          "episode_file": "SCIM8090698200 [SCIM8090698200].md",
+          "key": "adderall-stimulants-modafinil-for-adhd-short-long-term-effects-scim8090698200",
+          "show": "Huberman Lab",
+          "title": "Adderall, Stimulants & Modafinil for ADHD: Short- & Long-Term Effects",
+          "url": "/wiki/sources/adderall-stimulants-modafinil-for-adhd-short-long-term-effects-scim8090698200/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/adhdattentioncontrolmodel/"
     },
     "ADHDExternalStructureAndTiming": {
@@ -331,9 +338,9 @@
       "url": "/wiki/concepts/adhdselfdiagnosisboundary/"
     },
     "ADHDTreatmentSelectionBoundary": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM4112569463 [SCIM4112569463].md",
@@ -355,9 +362,16 @@
           "show": "Huberman Lab",
           "title": "LIVE EVENT Q&A: Dr. Andrew Huberman at Meridian Hall in Toronto",
           "url": "/wiki/sources/live-event-q-a-dr-andrew-huberman-at-meridian-hall-in-toronto-scim7370892669/"
+        },
+        {
+          "episode_file": "SCIM8090698200 [SCIM8090698200].md",
+          "key": "adderall-stimulants-modafinil-for-adhd-short-long-term-effects-scim8090698200",
+          "show": "Huberman Lab",
+          "title": "Adderall, Stimulants & Modafinil for ADHD: Short- & Long-Term Effects",
+          "url": "/wiki/sources/adderall-stimulants-modafinil-for-adhd-short-long-term-effects-scim8090698200/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/adhdtreatmentselectionboundary/"
     },
     "AFCChampionsLeague": {
