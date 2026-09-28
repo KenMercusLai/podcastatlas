@@ -1521,6 +1521,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "345-raiders-of-the-lost-ark-part-1-glt1189467433": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "346-the-mystery-of-the-holy-grail-part-2-glt9518077570": [
     {
       "key": "history",
@@ -13581,6 +13593,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "BiblicalCovenant": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "BibliographicClassificationAsStatecraft": [
@@ -61714,6 +61733,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "RaidersOfTheLostArk": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "RalphAdolphs": [

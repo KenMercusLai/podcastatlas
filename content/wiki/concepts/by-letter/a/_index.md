@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 8582
+wiki_total_pages: 8585
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2180,6 +2180,9 @@ wiki_pages:
   - key: "AristocraticVampire"
     title: "Aristocratic Vampire"
     url: "/wiki/concepts/aristocraticvampire/"
+  - key: "ArkTraditionLayering"
+    title: "Ark Tradition Layering"
+    url: "/wiki/concepts/arktraditionlayering/"
   - key: "ArmagnacBurgundianCivilWar"
     title: "Armagnac-Burgundian Civil War"
     url: "/wiki/concepts/armagnacburgundiancivilwar/"

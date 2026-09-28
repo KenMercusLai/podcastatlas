@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 8582
+wiki_total_pages: 8585
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -287,6 +287,9 @@ wiki_pages:
   - key: "BiasBlindSpot"
     title: "Bias Blind Spot"
     url: "/wiki/concepts/biasblindspot/"
+  - key: "BiblicalCovenant"
+    title: "Biblical Covenant"
+    url: "/wiki/concepts/biblicalcovenant/"
   - key: "BibliographicClassificationAsStatecraft"
     title: "Bibliographic Classification as Statecraft / 目录分类作为治国术"
     url: "/wiki/concepts/bibliographicclassificationasstatecraft/"

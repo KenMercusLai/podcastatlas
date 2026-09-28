@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2879
+topic_total_pages: 2881
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -4898,6 +4898,9 @@ topic_entities:
   - key: "RachelSalzman"
     title: "Rachel Salzman"
     url: "/wiki/entities/rachelsalzman/"
+  - key: "RaidersOfTheLostArk"
+    title: "Raiders of the Lost Ark"
+    url: "/wiki/entities/raidersofthelostark/"
   - key: "RalphLordOfTheFlies"
     title: "Ralph / 拉尔夫（《蝇王》）"
     url: "/wiki/entities/ralphlordoftheflies/"
@@ -7923,6 +7926,9 @@ topic_sources:
   - key: "33-renjian-shige-danxiaogui-de-zhuanglie-xianji-599924624"
     title: "33.人间失格：胆小鬼的壮烈献祭"
     url: "/wiki/sources/33-renjian-shige-danxiaogui-de-zhuanglie-xianji-599924624/"
+  - key: "345-raiders-of-the-lost-ark-part-1-glt1189467433"
+    title: "345: Raiders of the Lost Ark (Part 1)"
+    url: "/wiki/sources/345-raiders-of-the-lost-ark-part-1-glt1189467433/"
   - key: "365-le-marquis-de-sade-sex-and-violence-glt8871465113"
     title: "365. Le Marquis de Sade: Sex and Violence"
     url: "/wiki/sources/365-le-marquis-de-sade-sex-and-violence-glt8871465113/"

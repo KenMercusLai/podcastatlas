@@ -4714,9 +4714,9 @@
       "url": "/wiki/entities/abudbakri/"
     },
     "Abyssinia": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT8608697296 [GLT8608697296].md",
@@ -4731,9 +4731,16 @@
           "show": "The Rest Is History",
           "title": "706. Queen Victoria's Revenge: Storming the Citadel (Part 2)",
           "url": "/wiki/sources/706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568/"
+        },
+        {
+          "episode_file": "GLT1189467433 [GLT1189467433].md",
+          "key": "345-raiders-of-the-lost-ark-part-1-glt1189467433",
+          "show": "The Rest Is History",
+          "title": "345: Raiders of the Lost Ark (Part 1)",
+          "url": "/wiki/sources/345-raiders-of-the-lost-ark-part-1-glt1189467433/"
         }
       ],
-      "updated": "2026-09-17",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/abyssinia/"
     },
     "AbyssinianExpedition1868": {
@@ -12165,6 +12172,38 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/aristotle/"
     },
+    "ArkOfTheCovenant": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1189467433 [GLT1189467433].md",
+          "key": "345-raiders-of-the-lost-ark-part-1-glt1189467433",
+          "show": "The Rest Is History",
+          "title": "345: Raiders of the Lost Ark (Part 1)",
+          "url": "/wiki/sources/345-raiders-of-the-lost-ark-part-1-glt1189467433/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/arkofthecovenant/"
+    },
+    "ArkTraditionLayering": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1189467433 [GLT1189467433].md",
+          "key": "345-raiders-of-the-lost-ark-part-1-glt1189467433",
+          "show": "The Rest Is History",
+          "title": "345: Raiders of the Lost Ark (Part 1)",
+          "url": "/wiki/sources/345-raiders-of-the-lost-ark-part-1-glt1189467433/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/arktraditionlayering/"
+    },
     "ArmagnacBurgundianCivilWar": {
       "episode_count": 2,
       "show_count": 1,
@@ -17481,6 +17520,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/biba/"
+    },
+    "BiblicalCovenant": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1189467433 [GLT1189467433].md",
+          "key": "345-raiders-of-the-lost-ark-part-1-glt1189467433",
+          "show": "The Rest Is History",
+          "title": "345: Raiders of the Lost Ark (Part 1)",
+          "url": "/wiki/sources/345-raiders-of-the-lost-ark-part-1-glt1189467433/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/biblicalcovenant/"
     },
     "BibliographicClassificationAsStatecraft": {
       "episode_count": 1,
@@ -66628,9 +66683,9 @@
       "url": "/wiki/entities/graft/"
     },
     "GrahamHancock": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2807981945 [GLT2807981945].md",
@@ -66645,9 +66700,16 @@
           "show": "The Rest Is History",
           "title": "314: Atlantis: The Legend (Part 1)",
           "url": "/wiki/sources/314-atlantis-the-legend-part-1-glt4735672898/"
+        },
+        {
+          "episode_file": "GLT1189467433 [GLT1189467433].md",
+          "key": "345-raiders-of-the-lost-ark-part-1-glt1189467433",
+          "show": "The Rest Is History",
+          "title": "345: Raiders of the Lost Ark (Part 1)",
+          "url": "/wiki/sources/345-raiders-of-the-lost-ark-part-1-glt1189467433/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/grahamhancock/"
     },
     "GrahamPlatner": {
@@ -87928,6 +87990,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/kearney/"
+    },
+    "KebraNagast": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1189467433 [GLT1189467433].md",
+          "key": "345-raiders-of-the-lost-ark-part-1-glt1189467433",
+          "show": "The Rest Is History",
+          "title": "345: Raiders of the Lost Ark (Part 1)",
+          "url": "/wiki/sources/345-raiders-of-the-lost-ark-part-1-glt1189467433/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/kebranagast/"
     },
     "KeithJoseph": {
       "episode_count": 2,
@@ -130745,6 +130823,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/radiopharmaceuticaldrugconjugates/"
     },
+    "RaidersOfTheLostArk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1189467433 [GLT1189467433].md",
+          "key": "345-raiders-of-the-lost-ark-part-1-glt1189467433",
+          "show": "The Rest Is History",
+          "title": "345: Raiders of the Lost Ark (Part 1)",
+          "url": "/wiki/sources/345-raiders-of-the-lost-ark-part-1-glt1189467433/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/raidersofthelostark/"
+    },
     "RainExposureFootCareBoundary": {
       "episode_count": 1,
       "show_count": 1,
@@ -137409,6 +137503,22 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/concepts/sacralqueenshipandregency/"
+    },
+    "SacredObjectAuthorityMigration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1189467433 [GLT1189467433].md",
+          "key": "345-raiders-of-the-lost-ark-part-1-glt1189467433",
+          "show": "The Rest Is History",
+          "title": "345: Raiders of the Lost Ark (Part 1)",
+          "url": "/wiki/sources/345-raiders-of-the-lost-ark-part-1-glt1189467433/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/sacredobjectauthoritymigration/"
     },
     "SacredPawsSoapCompany": {
       "episode_count": 1,

@@ -24391,3 +24391,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | 345: Raiders of the Lost Ark (Part 1)
+
+Added source `345-raiders-of-the-lost-ark-part-1-glt1189467433`; created `ArkOfTheCovenant`, `KebraNagast`, `RaidersOfTheLostArk`, `BiblicalCovenant`, `ArkTraditionLayering`, and `SacredObjectAuthorityMigration`; and updated `GrahamHancock`, `Abyssinia`, and the canonical index from their complete bounded source sets. Core synthesis: the Ark's power comes from layered biblical roles as covenant container, divine meeting place, dangerous holy object, and battlefield presence, while its unexplained disappearance relocates authority into theology, Ethiopian dynasty and ritual, cinema, and modern treasure hunting. No settled contradiction was adopted. The Bible's internal plurality, ancient Near Eastern parallels, the Kebra Nagast's layers, all proposed hiding places, and the physical survival claim at Axum remain source-scoped or unresolved. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

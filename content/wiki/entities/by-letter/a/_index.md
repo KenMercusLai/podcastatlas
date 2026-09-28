@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 11175
+wiki_total_pages: 11178
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1382,6 +1382,9 @@ wiki_pages:
   - key: "Arizona"
     title: "Arizona"
     url: "/wiki/entities/arizona/"
+  - key: "ArkOfTheCovenant"
+    title: "Ark of the Covenant"
+    url: "/wiki/entities/arkofthecovenant/"
   - key: "ArkadyOstrovsky"
     title: "Arkady Ostrovsky"
     url: "/wiki/entities/arkadyostrovsky/"

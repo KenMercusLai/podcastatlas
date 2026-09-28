@@ -9,6 +9,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [假期通知兼谈本台为什么要做视频播客](sources/jiaqi-tongzhi-jian-tan-bentai-weishenme-yao-zuo-shipin-boke-1018741567.md) — 商业就是这样 announcement on holiday scheduling and a content-first video-podcast strategy built around editorial control, audio parity, expert access, and multi-platform distribution.
 - [VOL.55口腔科｜正畸、正颌、种植牙齿的这几个常见误区和疑问 公立医院主任给你一一讲清楚](sources/vol-55-kouqiangke-zhengji-zhenghe-zhongzhi-yachi-de-zhe-jige-changjian-wuqu-he-yiwen-gongli-yiyuan-zhuren-gei-ni-yi-yi-jiang-qingchu-lsupjdtklqeinpgfcsnd8zlale5t.md) — 这病说来话长 Q&A on orthodontic and orthognathic assessment, implant suitability and maintenance, oral-care tools, symptoms, and lifecycle prevention.
 - [346: The Mystery of the Holy Grail (Part 2)](sources/346-the-mystery-of-the-holy-grail-part-2-glt9518077570.md) — The Rest Is History episode on the Grail's medieval textual formation, Eucharistic theology, sacred knighthood, and the chronological weaknesses of pagan and universal-origin theories.
+- [345: Raiders of the Lost Ark (Part 1)](sources/345-raiders-of-the-lost-ark-part-1-glt1189467433.md) — The Rest Is History episode on the Ark's layered biblical roles, covenant theology, unexplained disappearance, Ethiopian tradition, and modern cinematic and treasure-hunting afterlives.
 - [VOL.56大学毕业季｜摘眼镜、戴牙套、除皱、战痘、减肥 5学科联袂为你出招](sources/vol-56-daxue-biyeji-zhai-yanjing-dai-yatao-chuzhou-zhandou-jianfei-5-xueke-lianmei-wei-ni-chuzhao-lkmkuyymlfqxiyoes-n5nflvljry.md) — 这病说来话长 multidisciplinary guide to refractive surgery, orthodontic continuity, medical-aesthetic selection, acne care, and sustainable weight loss.
 - [VOL.57精神科｜心理疾病导致的轻生可预防 给予陪伴是最好的安慰｜认识抑郁和抑郁情绪](sources/vol-57-jingshenke-xinli-jibing-daozhi-de-qingsheng-ke-yufang-jiyu-peiban-shi-zuihao-de-anwei-renshi-yiyu-he-yiyu-qingxu-lhgqmsvos2ybk74qjnrt3bxs0l7d.md) — 这病说来话长 episode on suicide-risk signals, depressed mood versus disorder, nonjudgmental companionship, safety, and professional escalation.
 - [348: The Boston Tea Party (Part 2)](sources/348-the-boston-tea-party-part-2-glt5189620267.md) — The Rest Is History episode on the Tea Act, Boston Tea Party, Coercive Acts, colonial coordination, early fighting, British strategy, and Dunmore's proclamation.
@@ -14276,6 +14277,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Crispus Attucks](entities/CrispusAttucks.md) — Black and Native dockworker whose death and representation expose racialized revolutionary law and memory.
 - [Jeffrey Goldberg](entities/JeffreyGoldberg.md) — Ophthalmologist-scientist connecting eye screening and disease treatment with cautious interpretation of emerging vision research.
 
+- [Ark of the Covenant](entities/ArkOfTheCovenant.md) — Biblical sacred chest whose roles as covenant container, divine meeting place, dangerous power, and missing relic generated enduring theological and cultural traditions.
+- [Kebra Nagast](entities/KebraNagast.md) — Ethiopian dynastic text linking the Queen of Sheba, Solomon, Menelik, the Ark, and Solomonic royal legitimacy.
+- [Raiders of the Lost Ark](entities/RaidersOfTheLostArk.md) — Adventure film that translates the Ark's dangerous holiness into an ultimate-weapon race against Nazi Germany.
+
 ## Concepts
 - [Football Footwear Market Entry](concepts/FootballFootwearMarketEntry.md) — System-level challenge of converting footwear technology and athlete attention into credible football products, ecosystem presence, and demand.
 - [Grail Tradition Formation](concepts/GrailTraditionFormation.md) — Textual process turning an ambiguous romance vessel into a Passion relic and collective sacred quest.
@@ -22878,5 +22883,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Postwar Imperial Fiscal-Security Bind](concepts/PostwarImperialFiscalSecurityBind.md) — Mechanism joining military victory, enlarged security costs, revenue enforcement, and declining political consent.
 - [Glaucoma Screening and Treatment Adherence](concepts/GlaucomaScreeningAndAdherence.md) — Silent-disease framework joining early optic-nerve assessment, durable pressure reduction, adherence, and adjunct boundaries.
 - [Contact-Lens Safety](concepts/ContactLensSafety.md) — Balance between optical benefit and oxygen, tear-film, infection, overnight-wear, hygiene, and age-related tolerance risks.
+
+- [Biblical Covenant](concepts/BiblicalCovenant.md) — Framework joining divine relationship, law, protection, obligation, punishment, and peoplehood through the tablets associated with the Ark.
+- [Ark Tradition Layering](concepts/ArkTraditionLayering.md) — Interpretive model preserving the Ark's divergent roles as presence, law chest, leader, and battlefield power.
+- [Sacred-Object Authority Migration](concepts/SacredObjectAuthorityMigration.md) — Process by which a missing relic's authority relocates into texts, communities, institutions, places, dynasties, and cultural narratives.
 
 ## Syntheses

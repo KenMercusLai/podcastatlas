@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 8582
+wiki_total_pages: 8585
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -47,6 +47,9 @@ wiki_pages:
   - key: "SacramentDonationModel"
     title: "Sacrament Donation Model"
     url: "/wiki/concepts/sacramentdonationmodel/"
+  - key: "SacredObjectAuthorityMigration"
+    title: "Sacred-Object Authority Migration"
+    url: "/wiki/concepts/sacredobjectauthoritymigration/"
   - key: "SacrificingOthersEthics"
     title: "Sacrificing Others Ethics"
     url: "/wiki/concepts/sacrificingothersethics/"

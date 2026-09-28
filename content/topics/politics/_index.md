@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2775
+topic_total_pages: 2776
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -430,6 +430,9 @@ topic_concepts:
   - key: "BestsellerListOpacity"
     title: "Bestseller List Opacity"
     url: "/wiki/concepts/bestsellerlistopacity/"
+  - key: "BiblicalCovenant"
+    title: "Biblical Covenant"
+    url: "/wiki/concepts/biblicalcovenant/"
   - key: "BibliographicClassificationAsStatecraft"
     title: "Bibliographic Classification as Statecraft / 目录分类作为治国术"
     url: "/wiki/concepts/bibliographicclassificationasstatecraft/"

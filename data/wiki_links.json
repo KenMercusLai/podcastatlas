@@ -987,6 +987,10 @@
     "title": "34.猫咪秘史：呵，愚蠢又可爱的人类",
     "url": "/wiki/sources/34-maomi-mishi-he-yuchun-you-keai-de-renlei-601590607/"
   },
+  "345-raiders-of-the-lost-ark-part-1-glt1189467433": {
+    "title": "345: Raiders of the Lost Ark (Part 1)",
+    "url": "/wiki/sources/345-raiders-of-the-lost-ark-part-1-glt1189467433/"
+  },
   "346-the-mystery-of-the-holy-grail-part-2-glt9518077570": {
     "title": "346: The Mystery of the Holy Grail (Part 2)",
     "url": "/wiki/sources/346-the-mystery-of-the-holy-grail-part-2-glt9518077570/"
@@ -7511,6 +7515,14 @@
     "title": "Arizona",
     "url": "/wiki/entities/arizona/"
   },
+  "ArkOfTheCovenant": {
+    "title": "Ark of the Covenant",
+    "url": "/wiki/entities/arkofthecovenant/"
+  },
+  "ArkTraditionLayering": {
+    "title": "Ark Tradition Layering",
+    "url": "/wiki/concepts/arktraditionlayering/"
+  },
   "ArkadyOstrovsky": {
     "title": "Arkady Ostrovsky",
     "url": "/wiki/entities/arkadyostrovsky/"
@@ -9878,6 +9890,10 @@
   "Bibigo": {
     "title": "Bibigo",
     "url": "/wiki/entities/bibigo/"
+  },
+  "BiblicalCovenant": {
+    "title": "Biblical Covenant",
+    "url": "/wiki/concepts/biblicalcovenant/"
   },
   "BibliographicClassificationAsStatecraft": {
     "title": "Bibliographic Classification as Statecraft / 目录分类作为治国术",
@@ -39191,6 +39207,10 @@
     "title": "Kearney",
     "url": "/wiki/entities/kearney/"
   },
+  "KebraNagast": {
+    "title": "Kebra Nagast",
+    "url": "/wiki/entities/kebranagast/"
+  },
   "KedaibiaoLizheng": {
     "title": "Kedaibiao Lizheng",
     "url": "/wiki/entities/kedaibiaolizheng/"
@@ -58099,6 +58119,10 @@
     "title": "Rahul Banerjee",
     "url": "/wiki/entities/rahulbanerjee/"
   },
+  "RaidersOfTheLostArk": {
+    "title": "Raiders of the Lost Ark",
+    "url": "/wiki/entities/raidersofthelostark/"
+  },
   "RainExposureFootCareBoundary": {
     "title": "Rain Exposure and Foot-Care Boundary / 雨后蹚水足部照护边界",
     "url": "/wiki/concepts/rainexposurefootcareboundary/"
@@ -61154,6 +61178,10 @@
   "SacramentDonationModel": {
     "title": "Sacrament Donation Model",
     "url": "/wiki/concepts/sacramentdonationmodel/"
+  },
+  "SacredObjectAuthorityMigration": {
+    "title": "Sacred-Object Authority Migration",
+    "url": "/wiki/concepts/sacredobjectauthoritymigration/"
   },
   "SacredPawsSoapCompany": {
     "title": "Sacred Paws Soap Company",

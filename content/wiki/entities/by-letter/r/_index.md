@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 11175
+wiki_total_pages: 11178
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -32,6 +32,9 @@ wiki_pages:
   - key: "RahulBanerjee"
     title: "Rahul Banerjee"
     url: "/wiki/entities/rahulbanerjee/"
+  - key: "RaidersOfTheLostArk"
+    title: "Raiders of the Lost Ark"
+    url: "/wiki/entities/raidersofthelostark/"
   - key: "RaisedNutrition"
     title: "Raised Nutrition"
     url: "/wiki/entities/raisednutrition/"
