@@ -4,6 +4,7 @@ type: concept
 tags: [healthcare, prognosis, surgery, uncertainty]
 sources:
   - vol-128-he-7-wei-yisheng-de-liaotianju-jiangshu-le-12-wei-huanzhe-de-zhenshi-gushi-yishijie-litblbacavb9homqxo81g71oujyz
+  - vol-23-zhongliu-gandan-waike-waike-yisheng-yong-zhongxiyi-shuangxitong-liao-dannang-danguan-jibing-he-yangsheng-lvmnrsimkqyj8jmtzdj7kfazvbzu
 last_updated: 2026-09-23
 knowledge_schema: synthesis-v1
 ---
@@ -18,6 +19,8 @@ The Physicians' Day roundtable makes this gap visible through trauma, intensive 
 
 The practical communication boundary is neither false reassurance nor hopeless certainty. Doctors can state what is known, what remains possible, what tradeoff is being made, and why preserving life may overtake preserving a limb or function. These stories support honest prognosis and coordinated care, but they are not population-level estimates of any complication or treatment.
 
+VOL.23 adds the inverse statistical boundary: even when a population survival rate exists, it does not determine one person's remaining time. Site, stage, pathology, differentiation, organ and nodal involvement, vascular features, treatment response, and other individual factors mediate the translation from group evidence to personal prognosis.
+
 ## Key Claims
 - Procedural success and whole-patient outcome are different endpoints.
 - Perioperative and intensive-care management can remain decisive after the technical intervention ends.
@@ -25,18 +28,21 @@ The practical communication boundary is neither false reassurance nor hopeless c
 - Delayed presentation can reduce recoverable function even when treatment remains technically possible.
 - Recognition and referral can be clinically responsible even when the original doctor cannot guarantee or observe the final outcome.
 - Prognostic honesty should describe uncertainty and tradeoffs without converting either hope or risk into certainty.
+- Population survival statistics inform prognosis but do not function as individualized countdowns.
 
 ## Evidence
 - Postoperative risk: [[vol-128-he-7-wei-yisheng-de-liaotianju-jiangshu-le-12-wei-huanzhe-de-zhenshi-gushi-yishijie-litblbacavb9homqxo81g71oujyz]] uses fat embolism and a crush-injury amputation to separate surgery from subsequent survival and function.
 - Delayed presentation: [[vol-128-he-7-wei-yisheng-de-liaotianju-jiangshu-le-12-wei-huanzhe-de-zhenshi-gushi-yishijie-litblbacavb9homqxo81g71oujyz]] recounts a long-standing retinal detachment involving the macula and a poor expected visual outcome.
 - Recognition without control: [[vol-128-he-7-wei-yisheng-de-liaotianju-jiangshu-le-12-wei-huanzhe-de-zhenshi-gushi-yishijie-litblbacavb9homqxo81g71oujyz]] has Wu Bin describe suspected oral tumors he referred but whose later outcomes he did not fully know.
 - Prognostic communication: [[vol-128-he-7-wei-yisheng-de-liaotianju-jiangshu-le-12-wei-huanzhe-de-zhenshi-gushi-yishijie-litblbacavb9homqxo81g71oujyz]] rejects presenting a poor expected course as guaranteed recovery.
+- Population-to-person boundary: [[vol-23-zhongliu-gandan-waike-waike-yisheng-yong-zhongxiyi-shuangxitong-liao-dannang-danguan-jibing-he-yangsheng-lvmnrsimkqyj8jmtzdj7kfazvbzu|VOL.23]] says biliary-cancer survival rates describe groups while individual prognosis depends on pathology, stage, spread, and other case features.
 
 ## Counterevidence & Qualifications
-The source consists of memorable individual cases selected by clinicians, so it cannot establish complication rates, comparative treatment effectiveness, or the typical course of trauma, retinal detachment, neurologic illness, or sarcoma. Uncertainty also does not excuse vague communication, missing follow-up, or preventable process failure.
+The sources consist of selected clinician recollections and a public episode summary, so they cannot establish complication rates, comparative treatment effectiveness, or the typical course of trauma, retinal detachment, neurologic illness, sarcoma, or biliary cancer. Uncertainty also does not excuse vague communication, missing follow-up, preventable process failure, or withholding material prognostic information.
 
 ## What Changed
 - Created the concept to separate technical intervention success from survival, function, recovery, and discharge.
+- Added the distinction between population survival rates and individualized prognosis.
 
 ## Related Concepts
 - [[MedicalRiskManagement]] - broader system for balancing probability, severity, intervention, and inaction.
@@ -44,3 +50,4 @@ The source consists of memorable individual cases selected by clinicians, so it 
 - [[DiagnosticSafetyNetting]] - follow-up structure when uncertainty persists after an encounter.
 - [[ClinicalTrustBuilding]] - relational basis that makes difficult prognostic communication usable.
 - [[ChronicIllnessQualityOfLife]] - patient-valued outcome frame beyond laboratory or procedural endpoints.
+- [[BiliaryCancerDecisionAndPrognosisBoundary]] - anatomy-, pathology-, and stage-specific application of the prognosis boundary.

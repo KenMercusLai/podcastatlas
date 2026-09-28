@@ -6,11 +6,14 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 8747
+wiki_total_pages: 8749
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
     url: "/wiki/concepts/gainconversionassetform/"
+  - key: "GallbladderDiseaseRecognitionAndTriage"
+    title: "Gallbladder Disease Recognition and Triage / 胆囊疾病识别与分流"
+    url: "/wiki/concepts/gallbladderdiseaserecognitionandtriage/"
   - key: "GalvanicReanimationImaginary"
     title: "Galvanic Reanimation Imaginary / 伽伐尼式复活想象"
     url: "/wiki/concepts/galvanicreanimationimaginary/"

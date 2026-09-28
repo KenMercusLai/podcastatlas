@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.23肿瘤肝胆外科｜外科医生用中西医双系统聊胆囊胆管疾病和养生](sources/vol-23-zhongliu-gandan-waike-waike-yisheng-yong-zhongxiyi-shuangxitong-liao-dannang-danguan-jibing-he-yangsheng-lvmnrsimkqyj8jmtzdj7kfazvbzu.md) — 这病说来话长 episode on gallbladder function, gallstones, biliary cancer anatomy, treatment selection, prognosis, and medical-evidence boundaries.
 - [VOL.24肿瘤肝胆外科｜胰脏和脾脏虽然不大，但这些危险诱因要警惕](sources/vol-24-zhongliu-gandan-waike-yizang-he-pizang-suiran-bu-da-dan-zhexie-weixian-youyin-yaojingti-lvw8ajdllmj73ecq2br3sgnmkug.md) — 这病说来话长 episode on pancreatic function and risk communication, pancreatitis escalation, splenic trauma, lifestyle claims, and oncology communication.
 - [VOL.25肿瘤肝胆外科｜箫郎医生在肿瘤医院行医18年所遇到的那些“怪”事和医患故事](sources/vol-25-zhongliu-gandan-waike-xiaolang-yisheng-zai-zhongliu-yiyuan-xingyi-18-nian-suo-yudao-de-naxie-guai-shi-he-yihuan-gushi-lr1jwin34m6obozyrqpybpujq5cz.md) — 这病说来话长 episode on oncology distress, symptom experience, family decision communication, clinical trust, and informed-consent responsibility.
 - [308: Columbus: Death in the Caribbean (Part 3)](sources/308-columbus-death-in-the-caribbean-part-3-glt3250512968.md) — The Rest Is History episode on Columbus's second-voyage colonization, failed settlement, Taíno coercion and resistance, royal alarm, and geographical denial.
@@ -3168,7 +3169,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Genes & the Inheritance of Memories Across Generations | Dr. Oded Rechavi](sources/genes-the-inheritance-of-memories-across-generations-dr-oded-rechavi-scim1011684384.md) — Full Huberman Lab interview on epigenetic inheritance, generation-aware evidence design, C. elegans small-RNA mechanisms, and why human inherited-memory claims remain unresolved.
 
 ## Entities
-- [骁狼医生 / Xiaolang (oncology surgeon)](entities/XiaolangOncologySurgeon.md) — Source-scoped oncology hepatobiliary surgeon discussing pancreatic and splenic health, psychological support, family communication, and surgical consent in VOL.24–25.
+- [骁狼医生 / Xiaolang (oncology surgeon)](entities/XiaolangOncologySurgeon.md) — Source-scoped oncology hepatobiliary surgeon discussing biliary, pancreatic, and splenic health plus oncology communication in VOL.23–25.
 - [Taíno](entities/TainoPeople.md) — Indigenous Caribbean peoples whose resistance and catastrophe expose captivity, labor, gendered violence, ecological disruption, and source asymmetry.
 - [Isabella I of Castile](entities/IsabellaIOfCastile.md) — Spanish monarch who sponsored colonization while objecting to the enslavement of Indigenous subjects and potential converts.
 - [Ferdinand II of Aragon](entities/FerdinandIIOfAragon.md) — Spanish monarch linking Portuguese rivalry, papal diplomacy, colonial sponsorship, and later royal investigation.
@@ -14536,6 +14537,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Satchin Panda](entities/SatchinPanda.md) — Circadian-biology researcher separating meal timing, fasting duration, energy intake, and evidence limits in animal and human studies.
 
 ## Concepts
+- [Gallbladder Disease Recognition and Triage / 胆囊疾病识别与分流](concepts/GallbladderDiseaseRecognitionAndTriage.md) — Contextualizes gallbladder findings, chronic symptoms, silent stones, and acute biliary escalation.
+- [Biliary Cancer Decision and Prognosis Boundary / 胆道肿瘤决策与预后边界](concepts/BiliaryCancerDecisionAndPrognosisBoundary.md) — Separates biliary-cancer anatomy, pathology, stage, treatment selection, and group statistics from individualized prognosis.
 - [Pancreatic Risk Communication Boundary / 胰腺风险沟通边界](concepts/PancreaticRiskCommunicationBoundary.md) — Separates pancreatic risk context and symptom awareness from unsupported causation, diagnosis, and individualized treatment.
 - [Splenic Trauma Emergency Escalation / 脾外伤急症升级](concepts/SplenicTraumaEmergencyEscalation.md) — Urgent assessment boundary for concealed bleeding and contextual imaging after possible splenic injury.
 - [Oncology Psychological Support / 肿瘤照护中的心理支持](concepts/OncologyPsychologicalSupport.md) — Emotional recognition, symptom assessment, realistic hope, and incremental recovery goals integrated into cancer care.

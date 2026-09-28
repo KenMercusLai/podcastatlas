@@ -25019,3 +25019,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | VOL.23肿瘤肝胆外科｜外科医生用中西医双系统聊胆囊胆管疾病和养生
+
+Added source `vol-23-zhongliu-gandan-waike-waike-yisheng-yong-zhongxiyi-shuangxitong-liao-dannang-danguan-jibing-he-yangsheng-lvmnrsimkqyj8jmtzdj7kfazvbzu`; created `GallbladderDiseaseRecognitionAndTriage` and `BiliaryCancerDecisionAndPrognosisBoundary`; and updated `XiaolangOncologySurgeon`, `OncologyPsychologicalSupport`, `ClinicalOutcomeUncertainty`, and the canonical index from their complete bounded source sets. Core synthesis: gallbladder findings and symptoms require context from obstruction, inflammation, persistence, imaging, and change over time, while biliary-cancer decisions depend on tumor site, spread, pathology, stage, and current specialist assessment; population survival statistics are not personal countdowns. No settled contradiction was adopted. The episode's symptom attribution, stone thresholds, treatment figures, lifestyle mechanisms, and traditional-medicine explanations remain source-scoped public education. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

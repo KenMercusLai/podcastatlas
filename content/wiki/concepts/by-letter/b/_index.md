@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 8747
+wiki_total_pages: 8749
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -329,6 +329,9 @@ wiki_pages:
   - key: "BigConceptScienceTeaching"
     title: "Big-Concept Science Teaching / 大概念科学教学"
     url: "/wiki/concepts/bigconceptscienceteaching/"
+  - key: "BiliaryCancerDecisionAndPrognosisBoundary"
+    title: "Biliary Cancer Decision and Prognosis Boundary / 胆道肿瘤决策与预后边界"
+    url: "/wiki/concepts/biliarycancerdecisionandprognosisboundary/"
   - key: "BinaryActionThinking"
     title: "Binary Action Thinking"
     url: "/wiki/concepts/binaryactionthinking/"
