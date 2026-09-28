@@ -3141,6 +3141,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Science-Based Mental Training & Visualization for Improved Learning](sources/science-based-mental-training-visualization-for-improved-learning-scim9944841947.md) — Huberman Lab solo episode on brief task-matched imagery, physical-practice primacy, first-person rehearsal, response inhibition, sleep, and protocol evidence boundaries.
 
 - [Neuralink & Technologies to Enhance Human Brains | Dr. Matthew MacDougall](sources/neuralink-technologies-to-enhance-human-brains-dr-matthew-macdougall-scim4147376395.md) — Huberman Lab interview on assistive brain–computer control, robotic cortical-electrode insertion, co-adaptive decoding, interface bitrate and adoption, and speculative restoration or augmentation boundaries.
+- [VOL.39眼科｜眼科主任请回答——18位听友的眼科问题](sources/vol-39-yanke-yanke-zhuren-qing-huida-18-wei-tingyou-de-yanke-wenti-lszj71flalpxl4lg8j6d9rex8mv.md) — 这病说来话长 listener Q&A on refractive-surgery selection, myopia inheritance and childhood control, adult correction, dry eye, anisometropia, and floater triage.
 
 ## Entities
 - [Katja Hoyer](entities/KatjaHoyer.md) — East German-born historian whose Beyond the Wall account combines state politics with everyday GDR life.
@@ -23208,5 +23209,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Brain–Computer Interface](concepts/BrainComputerInterface.md) — Assistive system translating selected neural activity into computer or device commands through co-adaptive decoding.
 - [Robotic Neural-Electrode Insertion](concepts/RoboticNeuralElectrodeInsertion.md) — Machine-guided placement of fine neural electrodes within a surgeon-led workflow.
 - [Neural-Interface Bitrate–Adoption Tradeoff](concepts/NeuralInterfaceBitrateAdoptionTradeoff.md) — Framework balancing useful neural information transfer against invasiveness, risk, training, and user need.
+- [Floater Symptom Triage / 飞蚊与眼前黑影分诊](concepts/FloaterSymptomTriage.md) — Boundary separating familiar stable vitreous shadows from new, changing, or uncertain visual symptoms requiring ophthalmic assessment.
 
 ## Syntheses

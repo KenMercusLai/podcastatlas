@@ -24838,3 +24838,11 @@ Added source `322-east-germany-life-behind-the-iron-curtain-glt4069689977`; crea
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | VOL.39眼科｜眼科主任请回答——18位听友的眼科问题
+
+Added source `vol-39-yanke-yanke-zhuren-qing-huida-18-wei-tingyou-de-yanke-wenti-lszj71flalpxl4lg8j6d9rex8mv`; created `FloaterSymptomTriage`; and updated `MaoChunjie`, `MyopiaSurgeryRiskBoundary`, `PediatricMyopiaControl`, and `DryEyeChronicManagement` from their complete bounded source sets. Core synthesis: ophthalmic decisions should combine symptoms and prescription with corneal and fundus findings, stability, visual needs, binocular balance, and examination; surgery corrects focus rather than erasing myopia risk; childhood control remains individualized; and moving shadows should not be self-labeled benign before other eye disease is excluded. No settled contradiction was adopted. Light-device effectiveness and safety, inheritance estimates, age and prescription thresholds, repeat-surgery feasibility, warm-compress temperature, supplement value, and 3D-viewing tolerance remain source-scoped public education rather than individualized advice. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

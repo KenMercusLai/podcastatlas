@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 8704
+wiki_total_pages: 8705
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -635,6 +635,9 @@ wiki_pages:
   - key: "FlexibleWeeklyFitnessScaffold"
     title: "Flexible Weekly Fitness Scaffold"
     url: "/wiki/concepts/flexibleweeklyfitnessscaffold/"
+  - key: "FloaterSymptomTriage"
+    title: "Floater Symptom Triage / 飞蚊与眼前黑影分诊"
+    url: "/wiki/concepts/floatersymptomtriage/"
   - key: "FloodControlRiskTransfer"
     title: "Flood Control Risk Transfer"
     url: "/wiki/concepts/floodcontrolrisktransfer/"

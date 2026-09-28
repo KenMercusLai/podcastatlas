@@ -45592,9 +45592,9 @@
       "url": "/wiki/entities/drownproof/"
     },
     "DryEyeChronicManagement": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lmpFupdvpcXyNHp6D4HFhpTayvPO [lmpFupdvpcXyNHp6D4HFhpTayvPO].md",
@@ -45609,9 +45609,16 @@
           "show": "Huberman Lab",
           "title": "How to Improve Your Eye Health & Offset Vision Loss | Dr. Jeffrey Goldberg",
           "url": "/wiki/sources/how-to-improve-your-eye-health-offset-vision-loss-dr-jeffrey-goldberg-scim5633963628/"
+        },
+        {
+          "episode_file": "lszJ71FLaLP-XL4lG8j6D9rEx8Mv [lszJ71FLaLP-XL4lG8j6D9rEx8Mv].md",
+          "key": "vol-39-yanke-yanke-zhuren-qing-huida-18-wei-tingyou-de-yanke-wenti-lszj71flalpxl4lg8j6d9rex8mv",
+          "show": "这病说来话长",
+          "title": "VOL.39眼科｜眼科主任请回答——18位听友的眼科问题",
+          "url": "/wiki/sources/vol-39-yanke-yanke-zhuren-qing-huida-18-wei-tingyou-de-yanke-wenti-lszj71flalpxl4lg8j6d9rex8mv/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/dryeyechronicmanagement/"
     },
     "DuBaoTeleread": {
@@ -60033,6 +60040,36 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/flighttovarennes/"
+    },
+    "FloaterSymptomTriage": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "lqzW5TTa44mVu60JG_HrMXSAK8KO [lqzW5TTa44mVu60JG_HrMXSAK8KO].md",
+          "key": "vol-51-sikeshi-yisheng-huizhen-jujue-kongju-he-jiaolv-zhengque-lixing-miandui-eryang-caishi-zhengjingshi-lqzw5tta44mvu60jg-hrmxsak8ko",
+          "show": "这病说来话长",
+          "title": "VOL.51四科室医生会诊｜拒绝恐惧和焦虑 正确理性面对“二阳”才是正经事",
+          "url": "/wiki/sources/vol-51-sikeshi-yisheng-huizhen-jujue-kongju-he-jiaolv-zhengque-lixing-miandui-eryang-caishi-zhengjingshi-lqzw5tta44mvu60jg-hrmxsak8ko/"
+        },
+        {
+          "episode_file": "SCIM5633963628 [SCIM5633963628].md",
+          "key": "how-to-improve-your-eye-health-offset-vision-loss-dr-jeffrey-goldberg-scim5633963628",
+          "show": "Huberman Lab",
+          "title": "How to Improve Your Eye Health & Offset Vision Loss | Dr. Jeffrey Goldberg",
+          "url": "/wiki/sources/how-to-improve-your-eye-health-offset-vision-loss-dr-jeffrey-goldberg-scim5633963628/"
+        },
+        {
+          "episode_file": "lszJ71FLaLP-XL4lG8j6D9rEx8Mv [lszJ71FLaLP-XL4lG8j6D9rEx8Mv].md",
+          "key": "vol-39-yanke-yanke-zhuren-qing-huida-18-wei-tingyou-de-yanke-wenti-lszj71flalpxl4lg8j6d9rex8mv",
+          "show": "这病说来话长",
+          "title": "VOL.39眼科｜眼科主任请回答——18位听友的眼科问题",
+          "url": "/wiki/sources/vol-39-yanke-yanke-zhuren-qing-huida-18-wei-tingyou-de-yanke-wenti-lszj71flalpxl4lg8j6d9rex8mv/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/floatersymptomtriage/"
     },
     "FlockSafety": {
       "episode_count": 6,
@@ -108790,9 +108827,9 @@
       "url": "/wiki/concepts/manufacturingsinglechampion/"
     },
     "MaoChunjie": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "lmpFupdvpcXyNHp6D4HFhpTayvPO [lmpFupdvpcXyNHp6D4HFhpTayvPO].md",
@@ -108821,9 +108858,16 @@
           "show": "这病说来话长",
           "title": "VOL.51四科室医生会诊｜拒绝恐惧和焦虑 正确理性面对“二阳”才是正经事",
           "url": "/wiki/sources/vol-51-sikeshi-yisheng-huizhen-jujue-kongju-he-jiaolv-zhengque-lixing-miandui-eryang-caishi-zhengjingshi-lqzw5tta44mvu60jg-hrmxsak8ko/"
+        },
+        {
+          "episode_file": "lszJ71FLaLP-XL4lG8j6D9rEx8Mv [lszJ71FLaLP-XL4lG8j6D9rEx8Mv].md",
+          "key": "vol-39-yanke-yanke-zhuren-qing-huida-18-wei-tingyou-de-yanke-wenti-lszj71flalpxl4lg8j6d9rex8mv",
+          "show": "这病说来话长",
+          "title": "VOL.39眼科｜眼科主任请回答——18位听友的眼科问题",
+          "url": "/wiki/sources/vol-39-yanke-yanke-zhuren-qing-huida-18-wei-tingyou-de-yanke-wenti-lszj71flalpxl4lg8j6d9rex8mv/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-09-29",
       "url": "/wiki/entities/maochunjie/"
     },
     "MaoJie": {
@@ -117201,9 +117245,9 @@
       "url": "/wiki/entities/mycenae/"
     },
     "MyopiaSurgeryRiskBoundary": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lmpFupdvpcXyNHp6D4HFhpTayvPO [lmpFupdvpcXyNHp6D4HFhpTayvPO].md",
@@ -117225,9 +117269,16 @@
           "show": "这病说来话长",
           "title": "VOL.56大学毕业季｜摘眼镜、戴牙套、除皱、战痘、减肥 5学科联袂为你出招",
           "url": "/wiki/sources/vol-56-daxue-biyeji-zhai-yanjing-dai-yatao-chuzhou-zhandou-jianfei-5-xueke-lianmei-wei-ni-chuzhao-lkmkuyymlfqxiyoes-n5nflvljry/"
+        },
+        {
+          "episode_file": "lszJ71FLaLP-XL4lG8j6D9rEx8Mv [lszJ71FLaLP-XL4lG8j6D9rEx8Mv].md",
+          "key": "vol-39-yanke-yanke-zhuren-qing-huida-18-wei-tingyou-de-yanke-wenti-lszj71flalpxl4lg8j6d9rex8mv",
+          "show": "这病说来话长",
+          "title": "VOL.39眼科｜眼科主任请回答——18位听友的眼科问题",
+          "url": "/wiki/sources/vol-39-yanke-yanke-zhuren-qing-huida-18-wei-tingyou-de-yanke-wenti-lszj71flalpxl4lg8j6d9rex8mv/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/myopiasurgeryriskboundary/"
     },
     "MythicAndMaterialWarCausation": {
@@ -126761,9 +126812,9 @@
       "url": "/wiki/concepts/pediatricmycoplasmapneumoniacareboundary/"
     },
     "PediatricMyopiaControl": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "lpCB-or4iBTodc2BB383VMo2dxbc [lpCB-or4iBTodc2BB383VMo2dxbc].md",
@@ -126792,9 +126843,16 @@
           "show": "Huberman Lab",
           "title": "How to Improve Your Eye Health & Offset Vision Loss | Dr. Jeffrey Goldberg",
           "url": "/wiki/sources/how-to-improve-your-eye-health-offset-vision-loss-dr-jeffrey-goldberg-scim5633963628/"
+        },
+        {
+          "episode_file": "lszJ71FLaLP-XL4lG8j6D9rEx8Mv [lszJ71FLaLP-XL4lG8j6D9rEx8Mv].md",
+          "key": "vol-39-yanke-yanke-zhuren-qing-huida-18-wei-tingyou-de-yanke-wenti-lszj71flalpxl4lg8j6d9rex8mv",
+          "show": "这病说来话长",
+          "title": "VOL.39眼科｜眼科主任请回答——18位听友的眼科问题",
+          "url": "/wiki/sources/vol-39-yanke-yanke-zhuren-qing-huida-18-wei-tingyou-de-yanke-wenti-lszj71flalpxl4lg8j6d9rex8mv/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/pediatricmyopiacontrol/"
     },
     "PediatricPTSDRecognition": {

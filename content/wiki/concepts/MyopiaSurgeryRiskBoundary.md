@@ -6,7 +6,8 @@ sources:
   - vol-36-yanke-guanyu-ganyanzheng-yanyaoshui-yandibing-jinshi-he-jinshi-shoushu-yanke-zhuren-you-hua-shuo-lmpfupdvpcxynhp6d4hfhptayvpo
   - vol-163-jinshi-de-ren-name-duo-wo-gai-zenmeban-yanke-zhuren-zhizhao-chengren-ertong-de-jinshi-fangkong-shouduan-lpcb-or4ibtodc2bb383vmo2dxbc
   - vol-56-daxue-biyeji-zhai-yanjing-dai-yatao-chuzhou-zhandou-jianfei-5-xueke-lianmei-wei-ni-chuzhao-lkmkuyymlfqxiyoes-n5nflvljry
-last_updated: 2026-09-28
+  - vol-39-yanke-yanke-zhuren-qing-huida-18-wei-tingyou-de-yanke-wenti-lszj71flalpxl4lg8j6d9rex8mv
+last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
 
@@ -16,13 +17,15 @@ knowledge_schema: synthesis-v1
 Myopia surgery risk boundary is the episode's distinction between surgical optical correction for seeing clearly or removing glasses and the continuing ocular risks associated with myopia, especially high myopia.
 
 ## Current Synthesis
-The current evidence is source-scoped to two ophthalmology episodes. Both treat laser corneal surgery and ICL lens implantation as ways to improve focus or reduce dependence on glasses, not as ways to reverse the underlying myopic eye state. This matters because patients may read postoperative clarity as disappearance of retinal, cataract, macular, or detachment risk when the sources argue those risks can persist.
+The four ophthalmology sources treat laser corneal surgery and implanted-lens correction as ways to improve focus or reduce dependence on glasses, not as ways to reverse the underlying myopic eye state. This matters because patients may read postoperative clarity as disappearance of retinal, cataract, macular, or detachment risk when the sources argue those risks can persist.
 
 The practical boundary is preoperative and long-term screening. Pre-op evaluation checks the cornea and fundus and may discover retinal problems before surgery. For people with higher myopia, the source emphasizes routine dilated fundus checks, early laser sealing of weak or pre-tear retinal areas when appropriate, and realistic expectations about dry eye or other postoperative discomfort.
 
 VOL.163 extends the same boundary upstream into childhood control. Slowing axial elongation through behavior, optical defocus, or medication is not the same as making established true myopia disappear, while apparent prescription improvement can reflect accommodation or an inaccurate earlier refraction.
 
 VOL.56 adds the elective-candidacy layer. Adulthood and relative prescription stability are screening inputs rather than permission by themselves, and procedure choice depends on corneal and ocular findings, prescription, dry-eye tradeoffs, trauma exposure, occupation, activity, and patient goals. A smaller-incision or newer-sounding method is not automatically the right method for every eye.
+
+VOL.39 makes the procedure map more explicit: SMILE removes a corneal lenticule through a small incision, LASIK works through a corneal flap, and an implanted lens adds optical power when corneal thickness, shape, or prescription makes corneal surgery less suitable. Low prescription does not rule surgery in or out by itself, and later enhancement is presented only as conditional on renewed evaluation and adequate remaining corneal tissue.
 
 ## Key Claims
 - Myopia surgery is framed as optical correction and glasses removal, not as erasing the biological risk profile of high myopia.
@@ -31,7 +34,7 @@ VOL.56 adds the elective-candidacy layer. Adulthood and relative prescription st
 - Surgery screening can itself create early detection value when hidden fundus lesions are found.
 - Post-surgical discomfort such as dry eye is treated as a possible tradeoff, and candidacy should remain clinician-assessed.
 - Childhood control and accurate refraction can reduce progression or measurement error without becoming evidence that established true myopia has been cured.
-- Refractive-surgery timing and method should follow stable measurements, qualified examination, lifestyle and occupational context, and informed goals rather than age, degree, or technology label alone.
+- Refractive-surgery timing and method should follow stable measurements, qualified examination, corneal and fundus findings, lifestyle and occupational context, and informed goals rather than age, degree, or technology label alone.
 
 ## Evidence
 - Optical-correction boundary: [[vol-36-yanke-guanyu-ganyanzheng-yanyaoshui-yandibing-jinshi-he-jinshi-shoushu-yanke-zhuren-you-hua-shuo-lmpfupdvpcxynhp6d4hfhptayvpo|VOL.36]] describes laser surgery and ICL implantation as changing the path of light so it focuses on the retina.
@@ -41,15 +44,16 @@ VOL.56 adds the elective-candidacy layer. Adulthood and relative prescription st
 - Surgical tradeoff: [[vol-36-yanke-guanyu-ganyanzheng-yanyaoshui-yandibing-jinshi-he-jinshi-shoushu-yanke-zhuren-you-hua-shuo-lmpfupdvpcxynhp6d4hfhptayvpo|VOL.36]] frames surgery as an elective improvement tied to personal need and strict evaluation, with dry eye named as a common discomfort that may gradually improve.
 - Prevention-versus-reversal boundary: [[vol-163-jinshi-de-ren-name-duo-wo-gai-zenmeban-yanke-zhuren-zhizhao-chengren-ertong-de-jinshi-fangkong-shouduan-lpcb-or4ibtodc2bb383vmo2dxbc|VOL.163]] says laser surgery and implanted lenses can solve focus or glasses-dependence problems without curing true myopia, and separates genuine reversal from accommodative or refraction changes.
 - Candidacy and method selection: [[vol-56-daxue-biyeji-zhai-yanjing-dai-yatao-chuzhou-zhandou-jianfei-5-xueke-lianmei-wei-ni-chuzhao-lkmkuyymlfqxiyoes-n5nflvljry|VOL.56]] links adulthood and relative prescription stability to examination and distinguishes full- and half-femtosecond surgery through incision, flap, dry-eye, trauma, prescription, occupation, and activity considerations.
+- Procedure mechanics and conditional enhancement: [[vol-39-yanke-yanke-zhuren-qing-huida-18-wei-tingyou-de-yanke-wenti-lszj71flalpxl4lg8j6d9rex8mv|VOL.39]] distinguishes small-incision lenticule extraction, flap-based laser surgery, and implanted-lens correction, and keeps any repeat procedure conditional on renewed examination and sufficient corneal tissue.
+- Patient-goal boundary: [[vol-39-yanke-yanke-zhuren-qing-huida-18-wei-tingyou-de-yanke-wenti-lszj71flalpxl4lg8j6d9rex8mv|VOL.39]] treats even low myopia as a possible elective-surgery question only when visual burden and the desire to avoid glasses justify considering it.
 
 ## Counterevidence & Qualifications
-This is not a refractive-surgery guideline or candidacy checklist. Surgical type, prescription degree and stability, corneal thickness, fundus findings, ocular-surface disease, anisometropia, astigmatism, age, occupation, activity, pregnancy, systemic disease, and risk tolerance can change recommendations. The sources' age, annual-change, inter-eye difference, recovery, dry-eye, incision-size, and procedure-comparison statements remain podcast-source education rather than personalized advice.
+This is not a refractive-surgery guideline or candidacy checklist. Surgical type, prescription degree and stability, corneal thickness and shape, fundus findings, ocular-surface disease, anisometropia, astigmatism, age, occupation, activity, pregnancy, systemic disease, and risk tolerance can change recommendations. The sources' age, annual-change, inter-eye difference, recovery, dry-eye, incision-size, repeat-surgery, and procedure-comparison statements remain podcast-source education rather than personalized advice.
 
 ## What Changed
-- Added adulthood, prescription stability, anisometropia, and full-versus-half-femtosecond selection as qualified candidacy inputs.
-- Created the myopia-surgery risk-boundary concept from the VOL.36 ophthalmology episode.
-- Added a durable distinction between postoperative visual clarity and persistent high-myopia fundus risk.
-- Extended the boundary from refractive surgery into childhood control and accurate refraction.
+- Added an explicit SMILE, LASIK, and implanted-lens procedure map while preserving individualized selection.
+- Added corneal shape and conditional re-treatment to the candidacy boundary.
+- Clarified that low prescription can still be considered only through visual burden, personal goals, and examination rather than degree alone.
 
 ## Related Concepts
 - [[DiabeticRetinopathyScreening]] - parallel ophthalmology screening concept where early fundus checks prevent late high-loss disease.
