@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8580
+wiki_total_pages: 8582
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1838,6 +1838,9 @@ wiki_pages:
   - key: "ContactCenterAI"
     title: "Contact Center AI"
     url: "/wiki/concepts/contactcenterai/"
+  - key: "ContactLensSafety"
+    title: "Contact-Lens Safety"
+    url: "/wiki/concepts/contactlenssafety/"
   - key: "ContentAestheticOverMetrics"
     title: "Content Aesthetic Over Metrics"
     url: "/wiki/concepts/contentaestheticovermetrics/"

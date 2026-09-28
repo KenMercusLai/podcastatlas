@@ -24363,3 +24363,11 @@ Added source `vol-55-kouqiangke-zhengji-zhenghe-zhongzhi-yachi-de-zhe-jige-chang
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | How to Improve Your Eye Health & Offset Vision Loss | Dr. Jeffrey Goldberg
+
+Added source `how-to-improve-your-eye-health-offset-vision-loss-dr-jeffrey-goldberg-scim5633963628`; created `JeffreyGoldberg`, `GlaucomaScreeningAndAdherence`, and `ContactLensSafety`; and updated `VisualSystemHealthToolkit`, `PediatricMyopiaControl`, `DryEyeChronicManagement`, `DiabeticRetinopathyScreening`, `CannabisMedicalUseEvidenceBoundary`, and the canonical index from their complete bounded source sets. Core synthesis: eye-health tools are useful only when developmental timing, protective behavior, device hygiene, age- and risk-aware screening, and durable treatment adherence remain distinct from optical correction or emerging self-treatment. No settled contradiction was adopted. Outdoor-light dose, visual exercises, LASIK outcomes, dry-eye escalation, red or near-infrared light, PRP, sleep posture, supplements, and cannabis effects remain source-scoped public education rather than individualized ophthalmology guidance. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

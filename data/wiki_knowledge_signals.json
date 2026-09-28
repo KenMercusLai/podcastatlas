@@ -22085,9 +22085,9 @@
       "url": "/wiki/concepts/cannabisdoseroutevulnerability/"
     },
     "CannabisMedicalUseEvidenceBoundary": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM3230094101 [SCIM3230094101].md",
@@ -22102,9 +22102,16 @@
           "show": "Huberman Lab",
           "title": "Tools to Reduce & Manage Pain | Dr. Sean Mackey",
           "url": "/wiki/sources/tools-to-reduce-manage-pain-dr-sean-mackey-scim1698075556/"
+        },
+        {
+          "episode_file": "SCIM5633963628 [SCIM5633963628].md",
+          "key": "how-to-improve-your-eye-health-offset-vision-loss-dr-jeffrey-goldberg-scim5633963628",
+          "show": "Huberman Lab",
+          "title": "How to Improve Your Eye Health & Offset Vision Loss | Dr. Jeffrey Goldberg",
+          "url": "/wiki/sources/how-to-improve-your-eye-health-offset-vision-loss-dr-jeffrey-goldberg-scim5633963628/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/cannabismedicaluseevidenceboundary/"
     },
     "CannabisPsychosisCausalityBoundary": {
@@ -33381,6 +33388,22 @@
       "updated": "2026-09-24",
       "url": "/wiki/concepts/consumptionmoralization/"
     },
+    "ContactLensSafety": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5633963628 [SCIM5633963628].md",
+          "key": "how-to-improve-your-eye-health-offset-vision-loss-dr-jeffrey-goldberg-scim5633963628",
+          "show": "Huberman Lab",
+          "title": "How to Improve Your Eye Health & Offset Vision Loss | Dr. Jeffrey Goldberg",
+          "url": "/wiki/sources/how-to-improve-your-eye-health-offset-vision-loss-dr-jeffrey-goldberg-scim5633963628/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/contactlenssafety/"
+    },
     "ContentAestheticOverMetrics": {
       "episode_count": 1,
       "show_count": 1,
@@ -40616,9 +40639,9 @@
       "url": "/wiki/concepts/deviceoriginphotoauthentication/"
     },
     "DiabeticRetinopathyScreening": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lmpFupdvpcXyNHp6D4HFhpTayvPO [lmpFupdvpcXyNHp6D4HFhpTayvPO].md",
@@ -40626,9 +40649,16 @@
           "show": "这病说来话长",
           "title": "VOL.36眼科｜关于干眼症、眼药水、眼底病、近视和近视手术…眼科主任有话说",
           "url": "/wiki/sources/vol-36-yanke-guanyu-ganyanzheng-yanyaoshui-yandibing-jinshi-he-jinshi-shoushu-yanke-zhuren-you-hua-shuo-lmpfupdvpcxynhp6d4hfhptayvpo/"
+        },
+        {
+          "episode_file": "SCIM5633963628 [SCIM5633963628].md",
+          "key": "how-to-improve-your-eye-health-offset-vision-loss-dr-jeffrey-goldberg-scim5633963628",
+          "show": "Huberman Lab",
+          "title": "How to Improve Your Eye Health & Offset Vision Loss | Dr. Jeffrey Goldberg",
+          "url": "/wiki/sources/how-to-improve-your-eye-health-offset-vision-loss-dr-jeffrey-goldberg-scim5633963628/"
         }
       ],
-      "updated": "2026-09-04",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/diabeticretinopathyscreening/"
     },
     "DiagnosisPersonhoodBoundary": {
@@ -43664,9 +43694,9 @@
       "url": "/wiki/entities/drownproof/"
     },
     "DryEyeChronicManagement": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lmpFupdvpcXyNHp6D4HFhpTayvPO [lmpFupdvpcXyNHp6D4HFhpTayvPO].md",
@@ -43674,9 +43704,16 @@
           "show": "这病说来话长",
           "title": "VOL.36眼科｜关于干眼症、眼药水、眼底病、近视和近视手术…眼科主任有话说",
           "url": "/wiki/sources/vol-36-yanke-guanyu-ganyanzheng-yanyaoshui-yandibing-jinshi-he-jinshi-shoushu-yanke-zhuren-you-hua-shuo-lmpfupdvpcxynhp6d4hfhptayvpo/"
+        },
+        {
+          "episode_file": "SCIM5633963628 [SCIM5633963628].md",
+          "key": "how-to-improve-your-eye-health-offset-vision-loss-dr-jeffrey-goldberg-scim5633963628",
+          "show": "Huberman Lab",
+          "title": "How to Improve Your Eye Health & Offset Vision Loss | Dr. Jeffrey Goldberg",
+          "url": "/wiki/sources/how-to-improve-your-eye-health-offset-vision-loss-dr-jeffrey-goldberg-scim5633963628/"
         }
       ],
-      "updated": "2026-09-04",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/dryeyechronicmanagement/"
     },
     "DuBaoTeleread": {
@@ -64893,6 +64930,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/gladiatorialspectacle/"
     },
+    "GlaucomaScreeningAndAdherence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5633963628 [SCIM5633963628].md",
+          "key": "how-to-improve-your-eye-health-offset-vision-loss-dr-jeffrey-goldberg-scim5633963628",
+          "show": "Huberman Lab",
+          "title": "How to Improve Your Eye Health & Offset Vision Loss | Dr. Jeffrey Goldberg",
+          "url": "/wiki/sources/how-to-improve-your-eye-health-offset-vision-loss-dr-jeffrey-goldberg-scim5633963628/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/glaucomascreeningandadherence/"
+    },
     "GlobalAIGovernanceFramework": {
       "episode_count": 1,
       "show_count": 1,
@@ -83981,6 +84034,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/jeffersonianlibertycontradiction/"
+    },
+    "JeffreyGoldberg": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5633963628 [SCIM5633963628].md",
+          "key": "how-to-improve-your-eye-health-offset-vision-loss-dr-jeffrey-goldberg-scim5633963628",
+          "show": "Huberman Lab",
+          "title": "How to Improve Your Eye Health & Offset Vision Loss | Dr. Jeffrey Goldberg",
+          "url": "/wiki/sources/how-to-improve-your-eye-health-offset-vision-loss-dr-jeffrey-goldberg-scim5633963628/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/jeffreygoldberg/"
     },
     "JenniferKing": {
       "episode_count": 1,
@@ -120808,9 +120877,9 @@
       "url": "/wiki/concepts/pediatricmycoplasmapneumoniacareboundary/"
     },
     "PediatricMyopiaControl": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lpCB-or4iBTodc2BB383VMo2dxbc [lpCB-or4iBTodc2BB383VMo2dxbc].md",
@@ -120832,6 +120901,13 @@
           "show": "这病说来话长",
           "title": "VOL.115冇满分父母，你做60分已不易 13位医生10学科出招身心性健康教育攻略｜儿童节专题",
           "url": "/wiki/sources/vol-115-mao-manfen-fumu-ni-zuo-60-fen-yi-buyi-13-wei-yisheng-10-xueke-chuzhao-shenxinxing-jiankang-jiaoyu-gonglue-ertongjie-zhuanti-ljlyg0kuqvuj2r89k6o5hhuefjt9/"
+        },
+        {
+          "episode_file": "SCIM5633963628 [SCIM5633963628].md",
+          "key": "how-to-improve-your-eye-health-offset-vision-loss-dr-jeffrey-goldberg-scim5633963628",
+          "show": "Huberman Lab",
+          "title": "How to Improve Your Eye Health & Offset Vision Loss | Dr. Jeffrey Goldberg",
+          "url": "/wiki/sources/how-to-improve-your-eye-health-offset-vision-loss-dr-jeffrey-goldberg-scim5633963628/"
         }
       ],
       "updated": "2026-09-25",
@@ -162590,9 +162666,9 @@
       "url": "/wiki/concepts/visualfocusefforttool/"
     },
     "VisualSystemHealthToolkit": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1823781754 [SCIM1823781754].md",
@@ -162600,9 +162676,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Protocols to Improve Vision & Eyesight",
           "url": "/wiki/sources/essentials-protocols-to-improve-vision-eyesight-scim1823781754/"
+        },
+        {
+          "episode_file": "SCIM5633963628 [SCIM5633963628].md",
+          "key": "how-to-improve-your-eye-health-offset-vision-loss-dr-jeffrey-goldberg-scim5633963628",
+          "show": "Huberman Lab",
+          "title": "How to Improve Your Eye Health & Offset Vision Loss | Dr. Jeffrey Goldberg",
+          "url": "/wiki/sources/how-to-improve-your-eye-health-offset-vision-loss-dr-jeffrey-goldberg-scim5633963628/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/visualsystemhealthtoolkit/"
     },
     "VittorioPozzo": {

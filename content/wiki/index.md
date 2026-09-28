@@ -3077,6 +3077,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [347: The American Revolution (Part 1)](sources/347-the-american-revolution-part-1-glt3042850673.md) — The Rest Is History episode on the Seven Years' War settlement, imperial debt and frontier security, constitutional mismatch, colonial resistance, and the Boston Massacre.
 - [昂跑签下姆巴佩之后，跑鞋品牌做足球生意还有哪些难题？](sources/angpao-qianxia-mubapei-zhihou-paoxie-pinpai-zuo-zuqiu-shengyi-haiyou-naxie-nanti-1018738205.md) — 声动早咖啡 episode on On Running's Mbappe partnership, football-market entry barriers, Meta AI hardware, iQIYI medium-length dramas, and H&M cost pressure.
+- [How to Improve Your Eye Health & Offset Vision Loss | Dr. Jeffrey Goldberg](sources/how-to-improve-your-eye-health-offset-vision-loss-dr-jeffrey-goldberg-scim5633963628.md) — Huberman Lab interview on visual development, prevention, optical correction, contact and dry-eye care, silent eye disease, treatment adherence, and emerging-intervention boundaries.
 
 ## Entities
 - [Holy Grail](entities/HolyGrail.md) — Medieval literary vessel transformed into a Passion relic, Eucharistic mystery, and knightly quest object.
@@ -14269,6 +14270,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Proclamation Line of 1763](entities/ProclamationLine1763.md) — British frontier policy connecting Native diplomacy and settlement restraint to troops, land interests, and revenue pressure.
 - [Boston Massacre](entities/BostonMassacre.md) — 1770 confrontation interpreted through military occupation, crowd action, propaganda, race, and due process.
 - [Crispus Attucks](entities/CrispusAttucks.md) — Black and Native dockworker whose death and representation expose racialized revolutionary law and memory.
+- [Jeffrey Goldberg](entities/JeffreyGoldberg.md) — Ophthalmologist-scientist connecting eye screening and disease treatment with cautious interpretation of emerging vision research.
 
 ## Concepts
 - [Football Footwear Market Entry](concepts/FootballFootwearMarketEntry.md) — System-level challenge of converting footwear technology and athlete attention into credible football products, ecosystem presence, and demand.
@@ -22870,5 +22872,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Imperial Constitutional Mismatch](concepts/ImperialConstitutionalMismatch.md) — Conflict between parliamentary sovereignty and colonial expectations of consent, self-taxation, and practical self-government.
 - [Postwar Imperial Fiscal-Security Bind](concepts/PostwarImperialFiscalSecurityBind.md) — Mechanism joining military victory, enlarged security costs, revenue enforcement, and declining political consent.
+- [Glaucoma Screening and Treatment Adherence](concepts/GlaucomaScreeningAndAdherence.md) — Silent-disease framework joining early optic-nerve assessment, durable pressure reduction, adherence, and adjunct boundaries.
+- [Contact-Lens Safety](concepts/ContactLensSafety.md) — Balance between optical benefit and oxygen, tear-film, infection, overnight-wear, hygiene, and age-related tolerance risks.
 
 ## Syntheses

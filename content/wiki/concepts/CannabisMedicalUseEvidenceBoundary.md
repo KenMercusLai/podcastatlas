@@ -5,7 +5,8 @@ tags: [cannabis, medical-use, evidence, pain, ptsd]
 sources:
   - how-cannabis-impacts-health-the-potential-risks-dr-matthew-hill-scim3230094101
   - tools-to-reduce-manage-pain-dr-sean-mackey-scim1698075556
-last_updated: 2026-09-27
+  - how-to-improve-your-eye-health-offset-vision-loss-dr-jeffrey-goldberg-scim5633963628
+last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
 
@@ -19,11 +20,11 @@ The episode discusses plausible or observed roles in appetite stimulation, nause
 
 The boundary also keeps treatment claims connected to harm. Smoking affects lungs; THC can change heart rate and blood pressure; high doses can worsen anxiety or precipitate acute psychotic reactions; pregnancy, fertility difficulty, bipolar disorder, schizophrenia vulnerability, driving, cyclic vomiting, tolerance, and use disorder all alter the risk-benefit judgment. Medical framing therefore does not convert a heterogeneous product into a universal or self-directed therapy.
 
-Mackey's pain-focused interview adds a cross-study qualification: small controlled laboratory studies can show neuropathic-pain relief while larger epidemiological or clinic comparisons may show little average advantage over non-use. The mismatch reinforces the need to specify product composition, population, setting, comparator, and outcome before generalizing from “cannabis helps pain.”
+Mackey's pain-focused interview adds a cross-study qualification: small controlled laboratory studies can show neuropathic-pain relief while larger epidemiological or clinic comparisons may show little average advantage over non-use. The mismatch reinforces the need to specify product composition, population, setting, comparator, and outcome before generalizing from “cannabis helps pain.” Goldberg's glaucoma discussion supplies the same lesson for eye pressure: a real but short-lived pressure reduction is not equivalent to durable disease control, and smoked delivery adds pulmonary, dry-eye, and ocular-inflammation costs.
 
 ## Key Claims
 - Therapeutic evidence must be evaluated separately for each cannabinoid, formulation, dose, route, indication, and population.
-- Appetite, nausea, pain, eye pressure, anxiety, and PTSD nightmares are discussed with different levels and kinds of support.
+- Appetite, nausea, pain, eye pressure, anxiety, and PTSD nightmares are discussed with different levels and kinds of support; transient eye-pressure change is not durable glaucoma treatment.
 - Chronic-pain benefit may involve reduced distress or salience rather than complete removal of pain.
 - Small treatment-resistant PTSD studies suggest a nightmare-reduction signal but do not establish broad first-line use.
 - CBD for selected pediatric epilepsies is the strongest indication-specific evidence discussed.
@@ -37,11 +38,13 @@ Mackey's pain-focused interview adds a cross-study qualification: small controll
 - Risk integration: [[how-cannabis-impacts-health-the-potential-risks-dr-matthew-hill-scim3230094101]] preserves smoking, cardiovascular, psychiatric, pregnancy, fertility, driving, cyclic-vomiting, and use-disorder concerns.
 - Cross-design pain evidence: [[tools-to-reduce-manage-pain-dr-sean-mackey-scim1698075556]] contrasts small controlled neuropathic-pain studies with less favorable average findings in larger epidemiological and clinic-based comparisons.
 - Product heterogeneity: [[tools-to-reduce-manage-pain-dr-sean-mackey-scim1698075556]] emphasizes variation in THC-to-CBD ratios and dosing while calling for easier, higher-quality research.
+- Glaucoma qualification: [[how-to-improve-your-eye-health-offset-vision-loss-dr-jeffrey-goldberg-scim5633963628]] says cannabis can lower eye pressure for many patients but only transiently, while smoked use can worsen pulmonary, dry-eye, and ocular-inflammatory risk.
 
 ## Counterevidence & Qualifications
 The supplied notes do not provide full trial designs, effect sizes, comparators, long-term follow-up, product standardization, contraindications, or complete adverse-event data. The apparent difference between controlled and real-world pain findings could reflect product, dose, patient selection, outcome, confounding, or other design differences; the sources do not resolve it. Some proposed uses are mechanistically plausible or based on small studies rather than established routine care. This page is not guidance to start, stop, substitute, or combine cannabis with clinical treatment.
 
 ## What Changed
+- Added the distinction between transient eye-pressure reduction and durable glaucoma control, including smoked-route harms.
 - Created the concept to keep medical-cannabis claims indication-specific and joined to product and patient risk.
 - Added the controlled-study versus larger-scale chronic-pain evidence tension without flattening it into a universal verdict.
 
@@ -53,3 +56,4 @@ The supplied notes do not provide full trial designs, effect sizes, comparators,
 - [[MedicalRiskManagement]] - clinical boundary for indications, contraindications, monitoring, and escalation.
 - [[PainAsDistributedExperience]] - neighboring pain framework separating nociception, subjective experience, and tissue state.
 - [[MultimodalFunctionCenteredPainCare]] - positions cannabis as one possible, evidence-bounded modality rather than a complete care plan.
+- [[GlaucomaScreeningAndAdherence]] - eye-pressure use case where adherence to durable treatment outweighs transient intoxication-bound effects.

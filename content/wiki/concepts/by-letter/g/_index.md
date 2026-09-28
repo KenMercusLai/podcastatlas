@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 8580
+wiki_total_pages: 8582
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -248,6 +248,9 @@ wiki_pages:
   - key: "GlassSteagallAct"
     title: "Glass-Steagall Act / 格拉斯-斯蒂格尔法案"
     url: "/wiki/concepts/glasssteagallact/"
+  - key: "GlaucomaScreeningAndAdherence"
+    title: "Glaucoma Screening and Treatment Adherence"
+    url: "/wiki/concepts/glaucomascreeningandadherence/"
   - key: "GlobalAIGovernanceFramework"
     title: "Global AI Governance Framework"
     url: "/wiki/concepts/globalaigovernanceframework/"
