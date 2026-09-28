@@ -25163,3 +25163,11 @@ Added source `vol-20-erke-ting-lin-yisheng-jiang-baobao-de-fare-waishang-xinli-y
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | VOL.19儿科｜儿科绝不是缩小版的成人 有些药物是儿童是千万不能用的
+
+Added source `vol-19-erke-erke-jue-bushi-suoxiao-ban-de-chengren-youxie-yaowu-shi-ertong-qianwan-buneng-yong-de-lj9gj3jcpbyul8crv2og1wboygtq`; created `PediatricCareAgeSpecificity`; updated `LinJiajunPediatrician` from its complete bounded source set; and updated the canonical index. Core synthesis: pediatric care is age- and development-specific across disease patterns, anatomy, examination, medication suitability, symptom narration, and caregiver-mediated history; basic medical literacy is useful when it improves description, questions, and clinician-guided shared decisions rather than substituting for care. No settled medical contradiction was adopted. The 林家君/林佳君 character variation is preserved as a source-level identity uncertainty, while medicine, disease-frequency, service-age, post-COVID, and parenting claims remain source-scoped public education. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

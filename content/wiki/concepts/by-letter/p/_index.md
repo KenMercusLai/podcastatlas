@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8773
+wiki_total_pages: 8774
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -356,6 +356,9 @@ wiki_pages:
   - key: "PediatricAirwayForeignBodyEscalation"
     title: "Pediatric Airway Foreign-Body Escalation / 儿童气道异物升级处置"
     url: "/wiki/concepts/pediatricairwayforeignbodyescalation/"
+  - key: "PediatricCareAgeSpecificity"
+    title: "Pediatric Care Age-Specificity / 儿科诊疗年龄特异性"
+    url: "/wiki/concepts/pediatriccareagespecificity/"
   - key: "PediatricEmergencyTriageAndEscalation"
     title: "Pediatric Emergency Triage and Escalation / 儿科急诊判断与升级"
     url: "/wiki/concepts/pediatricemergencytriageandescalation/"

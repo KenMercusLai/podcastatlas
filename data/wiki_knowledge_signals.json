@@ -101286,9 +101286,9 @@
       "url": "/wiki/entities/linchangqiang/"
     },
     "LinJiajunPediatrician": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lmpXJ193iFwfm0X-UxmjsAN1a-m5 [lmpXJ193iFwfm0X-UxmjsAN1a-m5].md",
@@ -101296,6 +101296,13 @@
           "show": "这病说来话长",
           "title": "VOL.20儿科｜听林医生讲宝宝的发热、外伤、心理、疫苗的那些误区和判断常识｜台湾地区就诊现状",
           "url": "/wiki/sources/vol-20-erke-ting-lin-yisheng-jiang-baobao-de-fare-waishang-xinli-yimiao-de-naxie-wuqu-he-panduan-changshi-taiwan-diqu-jiuzhen-xianzhuang-lmpxj193ifwfm0x-uxmjsan1a-m5/"
+        },
+        {
+          "episode_file": "lj9Gj3JcpBYuL8cRV2og1WboyGTq [lj9Gj3JcpBYuL8cRV2og1WboyGTq].md",
+          "key": "vol-19-erke-erke-jue-bushi-suoxiao-ban-de-chengren-youxie-yaowu-shi-ertong-qianwan-buneng-yong-de-lj9gj3jcpbyul8crv2og1wboygtq",
+          "show": "这病说来话长",
+          "title": "VOL.19儿科｜儿科绝不是缩小版的成人 有些药物是儿童是千万不能用的",
+          "url": "/wiki/sources/vol-19-erke-erke-jue-bushi-suoxiao-ban-de-chengren-youxie-yaowu-shi-ertong-qianwan-buneng-yong-de-lj9gj3jcpbyul8crv2og1wboygtq/"
         }
       ],
       "updated": "2026-09-29",
@@ -128967,6 +128974,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/pediatricairwayforeignbodyescalation/"
+    },
+    "PediatricCareAgeSpecificity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lj9Gj3JcpBYuL8cRV2og1WboyGTq [lj9Gj3JcpBYuL8cRV2og1WboyGTq].md",
+          "key": "vol-19-erke-erke-jue-bushi-suoxiao-ban-de-chengren-youxie-yaowu-shi-ertong-qianwan-buneng-yong-de-lj9gj3jcpbyul8crv2og1wboygtq",
+          "show": "这病说来话长",
+          "title": "VOL.19儿科｜儿科绝不是缩小版的成人 有些药物是儿童是千万不能用的",
+          "url": "/wiki/sources/vol-19-erke-erke-jue-bushi-suoxiao-ban-de-chengren-youxie-yaowu-shi-ertong-qianwan-buneng-yong-de-lj9gj3jcpbyul8crv2og1wboygtq/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/pediatriccareagespecificity/"
     },
     "PediatricEmergencyTriageAndEscalation": {
       "episode_count": 2,
