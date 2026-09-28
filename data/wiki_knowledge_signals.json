@@ -13536,9 +13536,9 @@
       "url": "/wiki/entities/atang/"
     },
     "Athelstan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9632339286 [GLT9632339286].md",
@@ -13546,9 +13546,16 @@
           "show": "The Rest Is History",
           "title": "548. The Road to 1066: Anglo-Saxon Apocalypse (Part 1)",
           "url": "/wiki/sources/548-the-road-to-1066-anglo-saxon-apocalypse-part-1-glt9632339286/"
+        },
+        {
+          "episode_file": "GLT4746607803 [GLT4746607803].md",
+          "key": "327-coronations-the-deep-history-part-1-glt4746607803",
+          "show": "The Rest Is History",
+          "title": "327: Coronations: The Deep History (Part 1)",
+          "url": "/wiki/sources/327-coronations-the-deep-history-part-1-glt4746607803/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/athelstan/"
     },
     "Athena": {
@@ -20826,9 +20833,9 @@
       "url": "/wiki/entities/britisharmy/"
     },
     "BritishCoronationRitual": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT8755026279 [GLT8755026279].md",
@@ -20843,6 +20850,13 @@
           "show": "The Rest Is History",
           "title": "328: Coronations: Sex, Holy Oil and Civil War (Part 2)",
           "url": "/wiki/sources/328-coronations-sex-holy-oil-and-civil-war-part-2-glt8165021855/"
+        },
+        {
+          "episode_file": "GLT4746607803 [GLT4746607803].md",
+          "key": "327-coronations-the-deep-history-part-1-glt4746607803",
+          "show": "The Rest Is History",
+          "title": "327: Coronations: The Deep History (Part 1)",
+          "url": "/wiki/sources/327-coronations-the-deep-history-part-1-glt4746607803/"
         }
       ],
       "updated": "2026-09-28",
@@ -26400,9 +26414,9 @@
       "url": "/wiki/entities/charleshenrisanson/"
     },
     "CharlesIII": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8755026279 [GLT8755026279].md",
@@ -26410,6 +26424,13 @@
           "show": "The Rest Is History",
           "title": "329: Coronations: Chaos, Ceremony and Empire (Part 3)",
           "url": "/wiki/sources/329-coronations-chaos-ceremony-and-empire-part-3-glt8755026279/"
+        },
+        {
+          "episode_file": "GLT4746607803 [GLT4746607803].md",
+          "key": "327-coronations-the-deep-history-part-1-glt4746607803",
+          "show": "The Rest Is History",
+          "title": "327: Coronations: The Deep History (Part 1)",
+          "url": "/wiki/sources/327-coronations-the-deep-history-part-1-glt4746607803/"
         }
       ],
       "updated": "2026-09-28",
@@ -46048,6 +46069,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/dune/"
     },
+    "Dunstan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4746607803 [GLT4746607803].md",
+          "key": "327-coronations-the-deep-history-part-1-glt4746607803",
+          "show": "The Rest Is History",
+          "title": "327: Coronations: The Deep History (Part 1)",
+          "url": "/wiki/sources/327-coronations-the-deep-history-part-1-glt4746607803/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/dunstan/"
+    },
     "DushuBuchenglin": {
       "episode_count": 3,
       "show_count": 2,
@@ -46954,9 +46991,9 @@
       "url": "/wiki/entities/edgarcayce/"
     },
     "EdgarThePeaceful": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9632339286 [GLT9632339286].md",
@@ -46964,9 +47001,16 @@
           "show": "The Rest Is History",
           "title": "548. The Road to 1066: Anglo-Saxon Apocalypse (Part 1)",
           "url": "/wiki/sources/548-the-road-to-1066-anglo-saxon-apocalypse-part-1-glt9632339286/"
+        },
+        {
+          "episode_file": "GLT4746607803 [GLT4746607803].md",
+          "key": "327-coronations-the-deep-history-part-1-glt4746607803",
+          "show": "The Rest Is History",
+          "title": "327: Coronations: The Deep History (Part 1)",
+          "url": "/wiki/sources/327-coronations-the-deep-history-part-1-glt4746607803/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/edgarthepeaceful/"
     },
     "EdgeCaseOpportunityDiscovery": {
@@ -48175,9 +48219,9 @@
       "url": "/wiki/entities/elizabethi/"
     },
     "ElizabethII": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8755026279 [GLT8755026279].md",
@@ -48185,6 +48229,13 @@
           "show": "The Rest Is History",
           "title": "329: Coronations: Chaos, Ceremony and Empire (Part 3)",
           "url": "/wiki/sources/329-coronations-chaos-ceremony-and-empire-part-3-glt8755026279/"
+        },
+        {
+          "episode_file": "GLT4746607803 [GLT4746607803].md",
+          "key": "327-coronations-the-deep-history-part-1-glt4746607803",
+          "show": "The Rest Is History",
+          "title": "327: Coronations: The Deep History (Part 1)",
+          "url": "/wiki/sources/327-coronations-the-deep-history-part-1-glt4746607803/"
         }
       ],
       "updated": "2026-09-28",
@@ -141549,6 +141600,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/roybaumeister/"
     },
+    "RoyalAnointingTradition": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4746607803 [GLT4746607803].md",
+          "key": "327-coronations-the-deep-history-part-1-glt4746607803",
+          "show": "The Rest Is History",
+          "title": "327: Coronations: The Deep History (Part 1)",
+          "url": "/wiki/sources/327-coronations-the-deep-history-part-1-glt4746607803/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/royalanointingtradition/"
+    },
     "RoyalCaribbean": {
       "episode_count": 1,
       "show_count": 1,
@@ -153876,6 +153943,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/stillnessasnonconditioning/"
+    },
+    "StoneOfScone": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4746607803 [GLT4746607803].md",
+          "key": "327-coronations-the-deep-history-part-1-glt4746607803",
+          "show": "The Rest Is History",
+          "title": "327: Coronations: The Deep History (Part 1)",
+          "url": "/wiki/sources/327-coronations-the-deep-history-part-1-glt4746607803/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/stoneofscone/"
     },
     "Stonyfield": {
       "episode_count": 1,

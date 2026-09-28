@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 11258
+wiki_total_pages: 11260
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -884,6 +884,9 @@ wiki_pages:
   - key: "DunlopPneumaticTyreCompany"
     title: "Dunlop Pneumatic Tyre Company"
     url: "/wiki/entities/dunloppneumatictyrecompany/"
+  - key: "Dunstan"
+    title: "Dunstan"
+    url: "/wiki/entities/dunstan/"
   - key: "Duoshan"
     title: "Duoshan"
     url: "/wiki/entities/duoshan/"

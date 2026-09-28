@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [327: Coronations: The Deep History (Part 1)](sources/327-coronations-the-deep-history-part-1-glt4746607803.md) — The Rest Is History episode on the Anglo-Saxon, Roman, Carolingian, biblical, material, and territorial roots of British coronation.
 - [328: Coronations: Sex, Holy Oil and Civil War (Part 2)](sources/328-coronations-sex-holy-oil-and-civil-war-part-2-glt8165021855.md) — The Rest Is History episode on coronation as adaptable sacred and political technology across conquest, usurpation, Reformation, civil war, Protectorate, and the Glorious Revolution.
 - [329: Coronations: Chaos, Ceremony and Empire (Part 3)](sources/329-coronations-chaos-ceremony-and-empire-part-3-glt8755026279.md) — The Rest Is History episode on British coronation as sacred rite, political contest, public disorder, imperial spectacle, and mass-media event.
 - [330: Herodotus: The Birth of History](sources/330-herodotus-the-birth-of-history-glt7158094581.md) — The Rest Is History episode on Herodotus as historian, storyteller, ethnographer, source critic, cross-cultural interpreter, and analyst of imperial power.
@@ -14392,6 +14393,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Peisistratus](entities/Peisistratus.md) — Athenian tyrant who stabilizes personal rule through popular measures, patronage, festivals, and building before dynastic decline.
 - [Theseus](entities/Theseus.md) — Athenian founder figure remembered as unifier of Attica and ancestral source of power for the demos.
 
+- [Dunstan](entities/Dunstan.md) — Archbishop who likely shaped Edgar's 973 coronation and the later Canterbury crowning precedent.
+- [Stone of Scone](entities/StoneOfScone.md) — Contested Scottish coronation object whose authority joins territorial kingship, legend, conquest, and Westminster.
 - [George IV](entities/GeorgeIV.md) — British monarch whose extravagant coronation joined antiquarian theatre, marital exclusion, grandeur, and farce.
 - [Elizabeth II](entities/ElizabethII.md) — British monarch whose sacramental coronation became a defining television-era mass event.
 - [Charles III](entities/CharlesIII.md) — British monarch whose planned 2023 coronation renewed the question of sacral meaning in a more sceptical public culture.
@@ -23071,6 +23074,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Post-Infectious Return to Activity / 感染后活动恢复](concepts/PostInfectiousReturnToActivity.md) — Graded return to exercise, work, travel, and altitude after infection with cardiopulmonary pause criteria.
 - [Athenian Autochthony](concepts/AthenianAutochthony.md) — Sacred civic identity rooting Athenian belonging in Attic soil, ancestry, gods, ritual, generational continuity, and exclusion boundaries.
 
+- [Royal Anointing Tradition](concepts/RoyalAnointingTradition.md) — Consecration that grants sacred legitimacy while binding monarchy to divine judgment, oath, and service.
 - [British Coronation Ritual](concepts/BritishCoronationRitual.md) — Christian consecration and public installation repeatedly reshaped by politics, spectacle, disorder, empire, and media.
 - [Coronation Mass-Media Transformation](concepts/CoronationMassMediaTransformation.md) — Expansion of place-bound royal ritual through rail tourism, imperial staging, radio, television, and communal viewing.
 - [Confessional Coronation Adaptation](concepts/ConfessionalCoronationAdaptation.md) — Reuse and reinterpretation of coronation form across Catholic and Protestant changes in oil, clergy, language, communion, procession, and oath.

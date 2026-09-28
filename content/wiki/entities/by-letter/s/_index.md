@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 11258
+wiki_total_pages: 11260
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1430,6 +1430,9 @@ wiki_pages:
   - key: "Stoke"
     title: "Stoke Space"
     url: "/wiki/entities/stoke/"
+  - key: "StoneOfScone"
+    title: "Stone of Scone"
+    url: "/wiki/entities/stoneofscone/"
   - key: "Stonyfield"
     title: "Stonyfield"
     url: "/wiki/entities/stonyfield/"

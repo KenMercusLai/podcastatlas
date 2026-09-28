@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 8653
+wiki_total_pages: 8654
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -1118,6 +1118,9 @@ wiki_pages:
   - key: "RoutineAgentAutomation"
     title: "Routine Agent Automation"
     url: "/wiki/concepts/routineagentautomation/"
+  - key: "RoyalAnointingTradition"
+    title: "Royal Anointing Tradition"
+    url: "/wiki/concepts/royalanointingtradition/"
   - key: "RoyalExecutionLegitimacy"
     title: "Royal Execution Legitimacy"
     url: "/wiki/concepts/royalexecutionlegitimacy/"

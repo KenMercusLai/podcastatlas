@@ -24682,3 +24682,11 @@ Added source `328-coronations-sex-holy-oil-and-civil-war-part-2-glt8165021855`; 
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | 327: Coronations: The Deep History (Part 1)
+
+Added source `327-coronations-the-deep-history-part-1-glt4746607803`; created `Dunstan`, `StoneOfScone`, and `RoyalAnointingTradition`; and updated `BritishCoronationRitual`, `EdgarThePeaceful`, `Athelstan`, `CharlesIII`, `ElizabethII`, and the canonical index from their complete bounded source sets. Core synthesis: British coronation is a layered inheritance joining older territorial and martial inauguration, Anglo-Saxon state-building, Roman and Carolingian form, biblical consecration, oath-bound service, and politically charged objects and places. No settled contradiction was adopted. Pre-Christian practices, direct ritual transmission, disputed artifact origins, early-anointing priority, Near Eastern influence, and modern public reception remain uncertain or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten because this episode deepens the existing coronation branch without changing the wiki-wide synthesis.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
