@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 8613
+wiki_total_pages: 8615
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -17,6 +17,9 @@ wiki_pages:
   - key: "EarCanalInflammationRisk"
     title: "Ear Canal Inflammation Risk"
     url: "/wiki/concepts/earcanalinflammationrisk/"
+  - key: "EarCleaningTraumaRisk"
+    title: "Ear-Cleaning Trauma Risk"
+    url: "/wiki/concepts/earcleaningtraumarisk/"
   - key: "EarlyConfucianResistancePolitics"
     title: "Early Confucian Resistance Politics / 早期儒家的反抗政治"
     url: "/wiki/concepts/earlyconfucianresistancepolitics/"

@@ -46037,9 +46037,9 @@
       "url": "/wiki/concepts/evvalueformoneycostdiscipline/"
     },
     "EarCanalInflammationRisk": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ljV6vMb1UPj03uQJUgLZ6GjNI-xb [ljV6vMb1UPj03uQJUgLZ6GjNI-xb].md",
@@ -46047,10 +46047,33 @@
           "show": "这病说来话长",
           "title": "VOL.208 耳机“半永久”生存指南｜每天听/剪播客，你的耳朵离“工伤”还有多远？",
           "url": "/wiki/sources/vol-208-erji-ban-yongjiu-shengcun-zhinan-meitian-ting-jian-boke-nide-erduo-li-gongshang-haiyou-duoyuan-ljv6vmb1upj03uqjuglz6gjni-xb/"
+        },
+        {
+          "episode_file": "lhtGV0Oqyrvnm_-gsGj8jGATU26Z [lhtGV0Oqyrvnm_-gsGj8jGATU26Z].md",
+          "key": "vol-49-erbiyanhouke-zhengtian-dai-erji-ganjue-tingli-xiajiang-erming-xihuan-caier-zhexie-xiguan-rongyi-de-zhongeryan-ma-dele-zhongeryan-zenmeban-lhtgv0oqyrvnm_-gsgj8jgatu26z",
+          "show": "这病说来话长",
+          "title": "VOL.49耳鼻咽喉科｜整天戴耳机感觉听力下降、耳鸣？喜欢采耳？这些习惯容易得中耳炎吗？得了中耳炎怎么办？",
+          "url": "/wiki/sources/vol-49-erbiyanhouke-zhengtian-dai-erji-ganjue-tingli-xiajiang-erming-xihuan-caier-zhexie-xiguan-rongyi-de-zhongeryan-ma-dele-zhongeryan-zenmeban-lhtgv0oqyrvnm_-gsgj8jgatu26z/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/earcanalinflammationrisk/"
+    },
+    "EarCleaningTraumaRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lhtGV0Oqyrvnm_-gsGj8jGATU26Z [lhtGV0Oqyrvnm_-gsGj8jGATU26Z].md",
+          "key": "vol-49-erbiyanhouke-zhengtian-dai-erji-ganjue-tingli-xiajiang-erming-xihuan-caier-zhexie-xiguan-rongyi-de-zhongeryan-ma-dele-zhongeryan-zenmeban-lhtgv0oqyrvnm_-gsgj8jgatu26z",
+          "show": "这病说来话长",
+          "title": "VOL.49耳鼻咽喉科｜整天戴耳机感觉听力下降、耳鸣？喜欢采耳？这些习惯容易得中耳炎吗？得了中耳炎怎么办？",
+          "url": "/wiki/sources/vol-49-erbiyanhouke-zhengtian-dai-erji-ganjue-tingli-xiajiang-erming-xihuan-caier-zhexie-xiguan-rongyi-de-zhongeryan-ma-dele-zhongeryan-zenmeban-lhtgv0oqyrvnm_-gsgj8jgatu26z/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/earcleaningtraumarisk/"
     },
     "EarlyChineseBuddhismCourtTransmission": {
       "episode_count": 1,
@@ -71667,6 +71690,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/hangzhoumuseum/"
     },
+    "HangzhouNormalUniversityAffiliatedHospital": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lhtGV0Oqyrvnm_-gsGj8jGATU26Z [lhtGV0Oqyrvnm_-gsGj8jGATU26Z].md",
+          "key": "vol-49-erbiyanhouke-zhengtian-dai-erji-ganjue-tingli-xiajiang-erming-xihuan-caier-zhexie-xiguan-rongyi-de-zhongeryan-ma-dele-zhongeryan-zenmeban-lhtgv0oqyrvnm_-gsgj8jgatu26z",
+          "show": "这病说来话长",
+          "title": "VOL.49耳鼻咽喉科｜整天戴耳机感觉听力下降、耳鸣？喜欢采耳？这些习惯容易得中耳炎吗？得了中耳炎怎么办？",
+          "url": "/wiki/sources/vol-49-erbiyanhouke-zhengtian-dai-erji-ganjue-tingli-xiajiang-erming-xihuan-caier-zhexie-xiguan-rongyi-de-zhongeryan-ma-dele-zhongeryan-zenmeban-lhtgv0oqyrvnm_-gsgj8jgatu26z/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/hangzhounormaluniversityaffiliatedhospital/"
+    },
     "HannibalAlpineCrossing": {
       "episode_count": 2,
       "show_count": 1,
@@ -72722,9 +72761,9 @@
       "url": "/wiki/concepts/headlesssoftware/"
     },
     "HeadphoneUseHearingRisk": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ljV6vMb1UPj03uQJUgLZ6GjNI-xb [ljV6vMb1UPj03uQJUgLZ6GjNI-xb].md",
@@ -72732,9 +72771,16 @@
           "show": "这病说来话长",
           "title": "VOL.208 耳机“半永久”生存指南｜每天听/剪播客，你的耳朵离“工伤”还有多远？",
           "url": "/wiki/sources/vol-208-erji-ban-yongjiu-shengcun-zhinan-meitian-ting-jian-boke-nide-erduo-li-gongshang-haiyou-duoyuan-ljv6vmb1upj03uqjuglz6gjni-xb/"
+        },
+        {
+          "episode_file": "lhtGV0Oqyrvnm_-gsGj8jGATU26Z [lhtGV0Oqyrvnm_-gsGj8jGATU26Z].md",
+          "key": "vol-49-erbiyanhouke-zhengtian-dai-erji-ganjue-tingli-xiajiang-erming-xihuan-caier-zhexie-xiguan-rongyi-de-zhongeryan-ma-dele-zhongeryan-zenmeban-lhtgv0oqyrvnm_-gsgj8jgatu26z",
+          "show": "这病说来话长",
+          "title": "VOL.49耳鼻咽喉科｜整天戴耳机感觉听力下降、耳鸣？喜欢采耳？这些习惯容易得中耳炎吗？得了中耳炎怎么办？",
+          "url": "/wiki/sources/vol-49-erbiyanhouke-zhengtian-dai-erji-ganjue-tingli-xiajiang-erming-xihuan-caier-zhexie-xiguan-rongyi-de-zhongeryan-ma-dele-zhongeryan-zenmeban-lhtgv0oqyrvnm_-gsgj8jgatu26z/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/headphoneusehearingrisk/"
     },
     "HealthCodedFoodLabelLiteracy": {
@@ -111271,6 +111317,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/midmarketdatatalentgap/"
+    },
+    "MiddleEarDiseaseTriage": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lhtGV0Oqyrvnm_-gsGj8jGATU26Z [lhtGV0Oqyrvnm_-gsGj8jGATU26Z].md",
+          "key": "vol-49-erbiyanhouke-zhengtian-dai-erji-ganjue-tingli-xiajiang-erming-xihuan-caier-zhexie-xiguan-rongyi-de-zhongeryan-ma-dele-zhongeryan-zenmeban-lhtgv0oqyrvnm_-gsgj8jgatu26z",
+          "show": "这病说来话长",
+          "title": "VOL.49耳鼻咽喉科｜整天戴耳机感觉听力下降、耳鸣？喜欢采耳？这些习惯容易得中耳炎吗？得了中耳炎怎么办？",
+          "url": "/wiki/sources/vol-49-erbiyanhouke-zhengtian-dai-erji-ganjue-tingli-xiajiang-erming-xihuan-caier-zhexie-xiguan-rongyi-de-zhongeryan-ma-dele-zhongeryan-zenmeban-lhtgv0oqyrvnm_-gsgj8jgatu26z/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/middleeardiseasetriage/"
     },
     "Mideer": {
       "episode_count": 1,
@@ -160714,9 +160776,9 @@
       "url": "/wiki/concepts/timelyretirementriskavoidance/"
     },
     "TinnitusSignalBoundary": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ljV6vMb1UPj03uQJUgLZ6GjNI-xb [ljV6vMb1UPj03uQJUgLZ6GjNI-xb].md",
@@ -160724,9 +160786,16 @@
           "show": "这病说来话长",
           "title": "VOL.208 耳机“半永久”生存指南｜每天听/剪播客，你的耳朵离“工伤”还有多远？",
           "url": "/wiki/sources/vol-208-erji-ban-yongjiu-shengcun-zhinan-meitian-ting-jian-boke-nide-erduo-li-gongshang-haiyou-duoyuan-ljv6vmb1upj03uqjuglz6gjni-xb/"
+        },
+        {
+          "episode_file": "lhtGV0Oqyrvnm_-gsGj8jGATU26Z [lhtGV0Oqyrvnm_-gsGj8jGATU26Z].md",
+          "key": "vol-49-erbiyanhouke-zhengtian-dai-erji-ganjue-tingli-xiajiang-erming-xihuan-caier-zhexie-xiguan-rongyi-de-zhongeryan-ma-dele-zhongeryan-zenmeban-lhtgv0oqyrvnm_-gsgj8jgatu26z",
+          "show": "这病说来话长",
+          "title": "VOL.49耳鼻咽喉科｜整天戴耳机感觉听力下降、耳鸣？喜欢采耳？这些习惯容易得中耳炎吗？得了中耳炎怎么办？",
+          "url": "/wiki/sources/vol-49-erbiyanhouke-zhengtian-dai-erji-ganjue-tingli-xiajiang-erming-xihuan-caier-zhexie-xiguan-rongyi-de-zhongeryan-ma-dele-zhongeryan-zenmeban-lhtgv0oqyrvnm_-gsgj8jgatu26z/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/tinnitussignalboundary/"
     },
     "Tiresias": {
@@ -174870,6 +174939,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/xiebilatehan/"
+    },
+    "XieDaoyu": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lhtGV0Oqyrvnm_-gsGj8jGATU26Z [lhtGV0Oqyrvnm_-gsGj8jGATU26Z].md",
+          "key": "vol-49-erbiyanhouke-zhengtian-dai-erji-ganjue-tingli-xiajiang-erming-xihuan-caier-zhexie-xiguan-rongyi-de-zhongeryan-ma-dele-zhongeryan-zenmeban-lhtgv0oqyrvnm_-gsgj8jgatu26z",
+          "show": "这病说来话长",
+          "title": "VOL.49耳鼻咽喉科｜整天戴耳机感觉听力下降、耳鸣？喜欢采耳？这些习惯容易得中耳炎吗？得了中耳炎怎么办？",
+          "url": "/wiki/sources/vol-49-erbiyanhouke-zhengtian-dai-erji-ganjue-tingli-xiajiang-erming-xihuan-caier-zhexie-xiguan-rongyi-de-zhongeryan-ma-dele-zhongeryan-zenmeban-lhtgv0oqyrvnm_-gsgj8jgatu26z/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/xiedaoyu/"
     },
     "XieGongEasternHan": {
       "episode_count": 2,

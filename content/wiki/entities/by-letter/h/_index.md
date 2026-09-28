@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 11214
+wiki_total_pages: 11216
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -1184,6 +1184,9 @@ wiki_pages:
   - key: "HangzhouMuseum"
     title: "杭州博物馆 / Hangzhou Museum"
     url: "/wiki/entities/hangzhoumuseum/"
+  - key: "HangzhouNormalUniversityAffiliatedHospital"
+    title: "杭州师范大学附属医院 / Hangzhou Normal University Affiliated Hospital"
+    url: "/wiki/entities/hangzhounormaluniversityaffiliatedhospital/"
   - key: "HayashiYuri"
     title: "林优里 / Hayashi Yuri"
     url: "/wiki/entities/hayashiyuri/"

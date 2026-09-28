@@ -23945,6 +23945,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-28] ingest | VOL.49耳鼻咽喉科｜整天戴耳机感觉听力下降、耳鸣？喜欢采耳？这些习惯容易得中耳炎吗？得了中耳炎怎么办？
+
+Added source `vol-49-erbiyanhouke-zhengtian-dai-erji-ganjue-tingli-xiajiang-erming-xihuan-caier-zhexie-xiguan-rongyi-de-zhongeryan-ma-dele-zhongeryan-zenmeban-lhtgv0oqyrvnm_-gsgj8jgatu26z`; created `XieDaoyu`, `HangzhouNormalUniversityAffiliatedHospital`, `MiddleEarDiseaseTriage`, and `EarCleaningTraumaRisk`; and updated `HeadphoneUseHearingRisk`, `EarCanalInflammationRisk`, `TinnitusSignalBoundary`, and the canonical index from their complete bounded source sets. Core synthesis: tinnitus, discharge, fullness, pain, and hearing change are non-specific symptoms; middle-ear disease must be separated by anatomy, subtype, perforation, recurrence, hearing impact, and structural risk; and repeated or poorly controlled cleaning creates a preventable external-canal and eardrum injury pathway. No settled contradiction was adopted. Cleaning intervals, topical substances, device comparisons, surgical claims, COVID-positive effusion samples, and cancer associations remain source-scoped public education. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-28] ingest | VOL.60皮肤科｜不怕晒黑就不防晒了？轻度晒伤处理法｜黑色素瘤判断法
 
 Added source `vol-60-pifuke-bupa-shaihei-jiu-bu-fangshai-le-qingdu-shaishang-chulifa-heisesuliu-panduanfa-lipgbuf1-3iufdq-lho6y7l6hxd8c`; created `SunburnAssessmentAndFirstAid`, `PigmentedLesionMelanomaTriage`, and `TopicalCorticosteroidUseBoundary`; and updated `HuangXinlvDermatologist`, `UVExposureSkinProtection`, and the canonical index from their complete bounded source sets. Core synthesis: ultraviolet protection should scale with exposure duration, intensity, activity, coverage, sweat, water, and location; mild sunburn begins with exposure removal and gentle cooling while blistering, erosion, or systemic symptoms require escalation; ABCDE and acral location are examination prompts rather than melanoma diagnoses; and short clinician-directed topical corticosteroid treatment is distinct from both blanket steroid fear and prolonged self-use. No settled contradiction was adopted. SPF, reapplication, cleansing, lesion thresholds, treatment products, potency, dosing, and duration remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -24515,6 +24519,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-28] ingest | 337: Ireland: Union, Famine and Parnell (Part 2)
 
 Added source `337-ireland-union-famine-and-parnell-part-2-glt4375415331`; created `DanielOConnell`, `CharlesStewartParnell`, `JohnRedmond`, `GreatIrishFamine`, and `IrishConstitutionalNationalism`; and updated `Ireland`, `IrishHomeRule`, `PaulRouse`, `IrishRepublicanBrotherhood`, and the canonical index from their complete bounded source sets. Core synthesis: the Union's everyday commercial and imperial ties did not overcome the legitimacy failures of delayed Catholic emancipation, famine policy, unequal landholding, or contested sovereignty; constitutional nationalism achieved emancipation, land transfer, and statutory Home Rule, but underestimation of Ulster unionist resistance left enactment without an accepted settlement. No settled contradiction was adopted. Famine quantities and causation, private motives, degrees of allegiance, parliamentary and land-transfer figures, and Home Rule counterfactuals remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-28] lint | Wiki health check
 

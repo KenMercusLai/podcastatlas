@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.49耳鼻咽喉科｜整天戴耳机感觉听力下降、耳鸣？喜欢采耳？这些习惯容易得中耳炎吗？得了中耳炎怎么办？](sources/vol-49-erbiyanhouke-zhengtian-dai-erji-ganjue-tingli-xiajiang-erming-xihuan-caier-zhexie-xiguan-rongyi-de-zhongeryan-ma-dele-zhongeryan-zenmeban-lhtgv0oqyrvnm_-gsgj8jgatu26z.md) — 这病说来话长 episode on tinnitus, middle-ear disease subtypes, cholesteatoma, perforation, ear cleaning, headphones, and symptom-based care routing.
 - [337: Ireland: Union, Famine and Parnell (Part 2)](sources/337-ireland-union-famine-and-parnell-part-2-glt4375415331.md) — The Rest Is History episode on Catholic emancipation, famine culpability, land reform, constitutional nationalism, Home Rule, and Ulster resistance.
 - [E253｜谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长](sources/e253-shui-zai-gei-damoxing-chuti-maiti-panjuan-liaoliao-ai-shuju-hangye-de-yemanshengzhang-0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d.md) — 硅谷101 episode on expert rubrics, agent environments, benchmark integrity, vertical data procurement, reward hacking, and contributor incentives.
 - [How Emotions & Social Factors Impact Learning | Dr. Immordino-Yang](sources/how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002.md) — Huberman Lab interview on embodied emotion, narrative meaning, default-mode processing, adolescent reflection, culturally shaped perception, and inquiry-centered education.
@@ -3098,6 +3099,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [341: The Trials of Oscar Wilde: Sex and Scandal (Part 1)](sources/341-the-trials-of-oscar-wilde-sex-and-scandal-part-1-glt1940599692.md) — The Rest Is History episode on Wilde's celebrity, changing sexual law and identity, unequal relationships, the Queensberry conflict, and the failed libel prosecution.
 
 ## Entities
+- [谢道宇 / Xie Daoyu](entities/XieDaoyu.md) — Source-scoped otolaryngology guest explaining ear symptoms, anatomy, prevention, and treatment boundaries.
+- [杭州师范大学附属医院 / Hangzhou Normal University Affiliated Hospital](entities/HangzhouNormalUniversityAffiliatedHospital.md) — Hospital affiliation stated for the VOL.49 otolaryngology guest.
 - [Daniel O'Connell](entities/DanielOConnell.md) — Irish organizer whose Catholic Association and County Clare victory helped force emancipation in 1829.
 - [Charles Stewart Parnell](entities/CharlesStewartParnell.md) — Irish Parliamentary Party leader who joined land agitation, Westminster leverage, and Home Rule.
 - [John Redmond](entities/JohnRedmond.md) — Constitutional nationalist whose parliamentary leverage brought Home Rule onto the statute book.
@@ -14333,6 +14336,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Raiders of the Lost Ark](entities/RaidersOfTheLostArk.md) — Adventure film that translates the Ark's dangerous holiness into an ultimate-weapon race against Nazi Germany.
 
 ## Concepts
+- [Middle-Ear Disease Triage](concepts/MiddleEarDiseaseTriage.md) — Distinguishes middle-ear subtypes, symptom ambiguity, structural risk, and treatment routes.
+- [Ear-Cleaning Trauma Risk](concepts/EarCleaningTraumaRisk.md) — Injury, infection, and itch-cycle risks from repeated or poorly controlled ear cleaning.
 - [Irish Constitutional Nationalism](concepts/IrishConstitutionalNationalism.md) — Strategy linking mass organization, elections, Westminster leverage, land reform, and Home Rule.
 - [Expert Rubric Verification / 专家评分标准验证](concepts/ExpertRubricVerification.md) — Expert criteria used with program checks, model judges, and human review to evaluate open-ended AI work.
 - [Benchmark–Training Data Separation / 评测集与训练数据隔离](concepts/BenchmarkTrainingDataSeparation.md) — Governance rule keeping held-out evaluation tasks out of the training material used to claim benchmark performance.
