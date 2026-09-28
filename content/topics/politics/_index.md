@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2782
+topic_total_pages: 2783
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -418,6 +418,9 @@ topic_concepts:
   - key: "BeltAndRoadExternalDemand"
     title: "Belt and Road External Demand"
     url: "/wiki/concepts/beltandroadexternaldemand/"
+  - key: "BenchmarkTrainingDataSeparation"
+    title: "Benchmark–Training Data Separation / 评测集与训练数据隔离"
+    url: "/wiki/concepts/benchmarktrainingdataseparation/"
   - key: "Benfen"
     title: "Benfen / 本分"
     url: "/wiki/concepts/benfen/"

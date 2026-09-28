@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 8608
+wiki_total_pages: 8612
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -242,6 +242,9 @@ wiki_pages:
   - key: "BeltAndRoadExternalDemand"
     title: "Belt and Road External Demand"
     url: "/wiki/concepts/beltandroadexternaldemand/"
+  - key: "BenchmarkTrainingDataSeparation"
+    title: "Benchmark–Training Data Separation / 评测集与训练数据隔离"
+    url: "/wiki/concepts/benchmarktrainingdataseparation/"
   - key: "BenevolentCommandExecutionGap"
     title: "Benevolent Command Execution Gap / 仁厚指挥执行缺口"
     url: "/wiki/concepts/benevolentcommandexecutiongap/"

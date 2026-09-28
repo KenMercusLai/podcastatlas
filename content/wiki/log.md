@@ -24503,3 +24503,11 @@ Added source `how-emotions-social-factors-impact-learning-dr-immordino-yang-scim
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | E253｜谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长
+
+Added source `e253-shui-zai-gei-damoxing-chuti-maiti-panjuan-liaoliao-ai-shuju-hangye-de-yemanshengzhang-0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d`; created `HeYunzhong`, `SunYiyou`, `AgentsLastExam`, `ExpertRubricVerification`, `BenchmarkTrainingDataSeparation`, `VerticalAIDataProcurement`, and `HumanDataContributorIncentiveAlignment`; and updated `ScaleAI`, `AgentEvaluationBenchmarks`, `EnvironmentBasedAgentBenchmarks`, and the canonical index from their complete bounded source sets. Core synthesis: agent-era data products combine authentic tasks, tools, environments, rubrics, verifiers, and trajectories; credible improvement depends on held-out benchmark integrity, task-model difficulty fit, anti-reward-hacking design, lawful workflow procurement, and incentives that make expert submissions costly to fake. No settled contradiction was adopted. Market forecasts, procurement costs, project task counts, domain coverage, and claims about supplier durability remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -8605,6 +8605,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "AgentsLastExam": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AggregateIndicatorsLivedExperienceGap": [
     {
       "key": "economics",
@@ -13325,6 +13332,18 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "BenchmarkTrainingDataSeparation": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "BendingSpoons": [
@@ -28371,6 +28390,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "ExpertRubricVerification": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "ExpertiseAmplifiedAIUse": [
     {
       "key": "technology",
@@ -35889,6 +35915,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "HeYunzhong": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "HealthBench": [
     {
       "key": "technology",
@@ -38135,6 +38168,13 @@
     }
   ],
   "HumanConnectionUnderAI": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "HumanDataContributorIncentiveAlignment": [
     {
       "key": "technology",
       "label": "Technology",
@@ -71574,6 +71614,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "SunYiyou": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "SunYutao": [
     {
       "key": "technology",
@@ -77934,6 +77981,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "VerticalAIDataProcurement": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "VerticalAgentSaaSification": [
@@ -87249,6 +87303,13 @@
     }
   ],
   "e251-tuili-xinpian-zhi-zhan-liaoliao-groq-cerebras-yu-openai-sanda-lujing-yu-bill-dally-de-sheji-zhexue-786d63c4-d46c-4ff3-80f8-fc895b2a57f0": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "e253-shui-zai-gei-damoxing-chuti-maiti-panjuan-liaoliao-ai-shuju-hangye-de-yemanshengzhang-0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d": [
     {
       "key": "technology",
       "label": "Technology",

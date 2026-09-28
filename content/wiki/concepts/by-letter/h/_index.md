@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 8608
+wiki_total_pages: 8612
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -770,6 +770,9 @@ wiki_pages:
   - key: "HumanConnectionUnderAI"
     title: "Human Connection Under AI"
     url: "/wiki/concepts/humanconnectionunderai/"
+  - key: "HumanDataContributorIncentiveAlignment"
+    title: "Human Data Contributor Incentive Alignment / 人类数据贡献者激励对齐"
+    url: "/wiki/concepts/humandatacontributorincentivealignment/"
   - key: "HumanExperienceContentPremium"
     title: "Human Experience Content Premium / 真人体验内容溢价"
     url: "/wiki/concepts/humanexperiencecontentpremium/"

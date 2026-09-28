@@ -6486,6 +6486,36 @@
       "updated": "2026-09-20",
       "url": "/wiki/concepts/agentenvironmentisolation/"
     },
+    "AgentEvaluationBenchmarks": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "从蒸馏到合成数据到 RSI，模型竞争的下一个焦点是什么？｜对谈 Evolvent AI 联创孟繁青 [lq1xnhp4MuC3iViDqhVd0Ul77QmI].md",
+          "key": "cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi",
+          "show": "42章经",
+          "title": "从蒸馏到合成数据到 RSI，模型竞争的下一个焦点是什么？｜对谈 Evolvent AI 联创孟繁青",
+          "url": "/wiki/sources/cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi/"
+        },
+        {
+          "episode_file": "我们是如何定义 OpenClaw for Teams 新产品形态的｜对谈 Kuse&Junior 联创兼 CTO 宇豪 [lkp1A0TodFlxOyYCYo3zhRaP3eBv].md",
+          "key": "women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv",
+          "show": "42章经",
+          "title": "我们是如何定义 OpenClaw for Teams 新产品形态的｜对谈 Kuse&Junior 联创兼 CTO 宇豪",
+          "url": "/wiki/sources/women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv/"
+        },
+        {
+          "episode_file": "E253｜谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长 [0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d].md",
+          "key": "e253-shui-zai-gei-damoxing-chuti-maiti-panjuan-liaoliao-ai-shuju-hangye-de-yemanshengzhang-0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d",
+          "show": "硅谷101",
+          "title": "E253｜谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长",
+          "url": "/wiki/sources/e253-shui-zai-gei-damoxing-chuti-maiti-panjuan-liaoliao-ai-shuju-hangye-de-yemanshengzhang-0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/agentevaluationbenchmarks/"
+    },
     "AgentPaymentInfrastructure": {
       "episode_count": 5,
       "show_count": 5,
@@ -6690,6 +6720,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/agenticsystemofrecordmoat/"
+    },
+    "AgentsLastExam": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "E253｜谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长 [0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d].md",
+          "key": "e253-shui-zai-gei-damoxing-chuti-maiti-panjuan-liaoliao-ai-shuju-hangye-de-yemanshengzhang-0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d",
+          "show": "硅谷101",
+          "title": "E253｜谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长",
+          "url": "/wiki/sources/e253-shui-zai-gei-damoxing-chuti-maiti-panjuan-liaoliao-ai-shuju-hangye-de-yemanshengzhang-0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/agentslastexam/"
     },
     "AggressionCircuitBiology": {
       "episode_count": 2,
@@ -17123,6 +17169,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/bengraham/"
+    },
+    "BenchmarkTrainingDataSeparation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "E253｜谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长 [0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d].md",
+          "key": "e253-shui-zai-gei-damoxing-chuti-maiti-panjuan-liaoliao-ai-shuju-hangye-de-yemanshengzhang-0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d",
+          "show": "硅谷101",
+          "title": "E253｜谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长",
+          "url": "/wiki/sources/e253-shui-zai-gei-damoxing-chuti-maiti-panjuan-liaoliao-ai-shuju-hangye-de-yemanshengzhang-0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/benchmarktrainingdataseparation/"
     },
     "BendingSpoons": {
       "episode_count": 2,
@@ -51260,6 +51322,36 @@
       "updated": "2026-09-10",
       "url": "/wiki/entities/enverpasha/"
     },
+    "EnvironmentBasedAgentBenchmarks": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "蒸馏风暴：一场无人公开谈论的技术竞赛 (1) [179-1].md",
+          "key": "zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1",
+          "show": "晚点聊 LateTalk",
+          "title": "179: 蒸馏风暴：一场无人公开谈论的技术竞赛",
+          "url": "/wiki/sources/zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1/"
+        },
+        {
+          "episode_file": "从蒸馏到合成数据到 RSI，模型竞争的下一个焦点是什么？｜对谈 Evolvent AI 联创孟繁青 [lq1xnhp4MuC3iViDqhVd0Ul77QmI].md",
+          "key": "cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi",
+          "show": "42章经",
+          "title": "从蒸馏到合成数据到 RSI，模型竞争的下一个焦点是什么？｜对谈 Evolvent AI 联创孟繁青",
+          "url": "/wiki/sources/cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi/"
+        },
+        {
+          "episode_file": "E253｜谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长 [0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d].md",
+          "key": "e253-shui-zai-gei-damoxing-chuti-maiti-panjuan-liaoliao-ai-shuju-hangye-de-yemanshengzhang-0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d",
+          "show": "硅谷101",
+          "title": "E253｜谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长",
+          "url": "/wiki/sources/e253-shui-zai-gei-damoxing-chuti-maiti-panjuan-liaoliao-ai-shuju-hangye-de-yemanshengzhang-0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/environmentbasedagentbenchmarks/"
+    },
     "EnvironmentalEndocrineDisruptionEvidenceBoundary": {
       "episode_count": 3,
       "show_count": 1,
@@ -53379,6 +53471,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/experimentallifedesign/"
+    },
+    "ExpertRubricVerification": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "E253｜谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长 [0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d].md",
+          "key": "e253-shui-zai-gei-damoxing-chuti-maiti-panjuan-liaoliao-ai-shuju-hangye-de-yemanshengzhang-0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d",
+          "show": "硅谷101",
+          "title": "E253｜谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长",
+          "url": "/wiki/sources/e253-shui-zai-gei-damoxing-chuti-maiti-panjuan-liaoliao-ai-shuju-hangye-de-yemanshengzhang-0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/expertrubricverification/"
     },
     "ExpertiseAmplifiedAIUse": {
       "episode_count": 3,
@@ -71907,6 +72015,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/heyonglatehan/"
     },
+    "HeYunzhong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "E253｜谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长 [0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d].md",
+          "key": "e253-shui-zai-gei-damoxing-chuti-maiti-panjuan-liaoliao-ai-shuju-hangye-de-yemanshengzhang-0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d",
+          "show": "硅谷101",
+          "title": "E253｜谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长",
+          "url": "/wiki/sources/e253-shui-zai-gei-damoxing-chuti-maiti-panjuan-liaoliao-ai-shuju-hangye-de-yemanshengzhang-0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/heyunzhong/"
+    },
     "HeadphoneUseHearingRisk": {
       "episode_count": 1,
       "show_count": 1,
@@ -77810,6 +77934,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/concepts/humancommunitydatalicensing/"
+    },
+    "HumanDataContributorIncentiveAlignment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "E253｜谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长 [0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d].md",
+          "key": "e253-shui-zai-gei-damoxing-chuti-maiti-panjuan-liaoliao-ai-shuju-hangye-de-yemanshengzhang-0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d",
+          "show": "硅谷101",
+          "title": "E253｜谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长",
+          "url": "/wiki/sources/e253-shui-zai-gei-damoxing-chuti-maiti-panjuan-liaoliao-ai-shuju-hangye-de-yemanshengzhang-0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/humandatacontributorincentivealignment/"
     },
     "HumanDirectedAIAuthorship": {
       "episode_count": 1,
@@ -140334,6 +140474,43 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/saxonyanhalt/"
     },
+    "ScaleAI": {
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "tech_20260424_0424_MP_TECH_pod_128 [tech_20260424_0424_MP_TECH_pod_128].md",
+          "key": "tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Apple's new CEO, Meta's latest AI play, and Roblox's safety updates",
+          "url": "/wiki/sources/tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "TSR-S4-AlexandrWang-v3 [TSR-S4-AlexandrWang-v3].md",
+          "key": "tsr-s4-alexandrwang-v3-tsr-s4-alexandrwang-v3",
+          "show": "The Social Radars",
+          "title": "Alexandr Wang on Scale and AI Data Infrastructure",
+          "url": "/wiki/sources/tsr-s4-alexandrwang-v3-tsr-s4-alexandrwang-v3/"
+        },
+        {
+          "episode_file": "134. 【数据的综述】和谢晨聊，新时代的石油、历史、版图、数据金字塔、定价与Recipe [lkInPy65_ZR4cQmK23rmHJ_hhLVQ].md",
+          "key": "134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "134. 【数据的综述】和谢晨聊，新时代的石油、历史、版图、数据金字塔、定价与Recipe",
+          "url": "/wiki/sources/134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe/"
+        },
+        {
+          "episode_file": "E253｜谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长 [0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d].md",
+          "key": "e253-shui-zai-gei-damoxing-chuti-maiti-panjuan-liaoliao-ai-shuju-hangye-de-yemanshengzhang-0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d",
+          "show": "硅谷101",
+          "title": "E253｜谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长",
+          "url": "/wiki/sources/e253-shui-zai-gei-damoxing-chuti-maiti-panjuan-liaoliao-ai-shuju-hangye-de-yemanshengzhang-0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/scaleai/"
+    },
     "ScandalPlausibilityLegitimacyDamage": {
       "episode_count": 2,
       "show_count": 1,
@@ -153055,6 +153232,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/sunyilatehan/"
     },
+    "SunYiyou": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "E253｜谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长 [0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d].md",
+          "key": "e253-shui-zai-gei-damoxing-chuti-maiti-panjuan-liaoliao-ai-shuju-hangye-de-yemanshengzhang-0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d",
+          "show": "硅谷101",
+          "title": "E253｜谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长",
+          "url": "/wiki/sources/e253-shui-zai-gei-damoxing-chuti-maiti-panjuan-liaoliao-ai-shuju-hangye-de-yemanshengzhang-0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/sunyiyou/"
+    },
     "SunYutao": {
       "episode_count": 1,
       "show_count": 1,
@@ -163766,6 +163959,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/entities/versailles/"
+    },
+    "VerticalAIDataProcurement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "E253｜谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长 [0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d].md",
+          "key": "e253-shui-zai-gei-damoxing-chuti-maiti-panjuan-liaoliao-ai-shuju-hangye-de-yemanshengzhang-0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d",
+          "show": "硅谷101",
+          "title": "E253｜谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长",
+          "url": "/wiki/sources/e253-shui-zai-gei-damoxing-chuti-maiti-panjuan-liaoliao-ai-shuju-hangye-de-yemanshengzhang-0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/verticalaidataprocurement/"
     },
     "VerticalIntegrationForDataColdStart": {
       "episode_count": 1,

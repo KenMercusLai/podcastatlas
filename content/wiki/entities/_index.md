@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 11207
+wiki_total_pages: 11210
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -374,6 +374,9 @@ wiki_pages:
   - key: "Agent365"
     title: "Agent 365"
     url: "/wiki/entities/agent365/"
+  - key: "AgentsLastExam"
+    title: "Agent's Last Exam"
+    url: "/wiki/entities/agentslastexam/"
   - key: "AgentIn"
     title: "AgentIn"
     url: "/wiki/entities/agentin/"

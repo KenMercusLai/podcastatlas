@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "v"
-wiki_total_pages: 8608
+wiki_total_pages: 8612
 wiki_pages:
   - key: "VacationShame"
     title: "Vacation Shame / 休假羞耻感"
@@ -122,6 +122,9 @@ wiki_pages:
   - key: "VerticalAgentSaaSification"
     title: "Vertical Agent SaaSification"
     url: "/wiki/concepts/verticalagentsaasification/"
+  - key: "VerticalAIDataProcurement"
+    title: "Vertical AI Data Procurement / 垂直 AI 数据采购"
+    url: "/wiki/concepts/verticalaidataprocurement/"
   - key: "VerticalEcommerceFailureModes"
     title: "Vertical Ecommerce Failure Modes"
     url: "/wiki/concepts/verticalecommercefailuremodes/"

@@ -5175,6 +5175,10 @@
     "title": "Agentic Workflow",
     "url": "/wiki/concepts/agenticworkflow/"
   },
+  "AgentsLastExam": {
+    "title": "Agent's Last Exam",
+    "url": "/wiki/entities/agentslastexam/"
+  },
   "AggregateIndicatorsLivedExperienceGap": {
     "title": "Aggregate Indicators Lived Experience Gap",
     "url": "/wiki/concepts/aggregateindicatorslivedexperiencegap/"
@@ -9638,6 +9642,10 @@
   "Benchling": {
     "title": "Benchling",
     "url": "/wiki/entities/benchling/"
+  },
+  "BenchmarkTrainingDataSeparation": {
+    "title": "Benchmark–Training Data Separation / 评测集与训练数据隔离",
+    "url": "/wiki/concepts/benchmarktrainingdataseparation/"
   },
   "BendingSpoons": {
     "title": "Bending Spoons",
@@ -24531,6 +24539,10 @@
     "title": "Expert Data Export Controls",
     "url": "/wiki/concepts/expertdataexportcontrols/"
   },
+  "ExpertRubricVerification": {
+    "title": "Expert Rubric Verification / 专家评分标准验证",
+    "url": "/wiki/concepts/expertrubricverification/"
+  },
   "ExpertTrustRepair": {
     "title": "Expert Trust Repair",
     "url": "/wiki/concepts/experttrustrepair/"
@@ -31987,6 +31999,10 @@
     "title": "何颙 / He Yong (late Han)",
     "url": "/wiki/entities/heyonglatehan/"
   },
+  "HeYunzhong": {
+    "title": "何韵中 / He Yunzhong",
+    "url": "/wiki/entities/heyunzhong/"
+  },
   "HeZhenLateHan": {
     "title": "何真 / He Zhen (late Han)",
     "url": "/wiki/entities/hezhenlatehan/"
@@ -34246,6 +34262,10 @@
   "HumanConnectionUnderAI": {
     "title": "Human Connection Under AI",
     "url": "/wiki/concepts/humanconnectionunderai/"
+  },
+  "HumanDataContributorIncentiveAlignment": {
+    "title": "Human Data Contributor Incentive Alignment / 人类数据贡献者激励对齐",
+    "url": "/wiki/concepts/humandatacontributorincentivealignment/"
   },
   "HumanDependentSafetySystem": {
     "title": "Human-Dependent Safety System",
@@ -67479,6 +67499,10 @@
     "title": "孙翊 / Sun Yi (late Han)",
     "url": "/wiki/entities/sunyilatehan/"
   },
+  "SunYiyou": {
+    "title": "孙一游 / Sun Yiyou",
+    "url": "/wiki/entities/sunyiyou/"
+  },
   "SunYuanhua": {
     "title": "孙元化 / Sun Yuanhua",
     "url": "/wiki/entities/sunyuanhua/"
@@ -72902,6 +72926,10 @@
   "Versailles": {
     "title": "Versailles",
     "url": "/wiki/entities/versailles/"
+  },
+  "VerticalAIDataProcurement": {
+    "title": "Vertical AI Data Procurement / 垂直 AI 数据采购",
+    "url": "/wiki/concepts/verticalaidataprocurement/"
   },
   "VerticalAgentSaaSification": {
     "title": "Vertical Agent SaaSification",
@@ -82742,6 +82770,10 @@
   "e252-guigu-shuimian-waigua-furende-wanju-haishi-yufang-yiliao-de-rukou-duihua-eight-sleep-chuangshiren-833a6b89-e6a1-4d61-a3b3-46f4d664894e": {
     "title": "E252｜硅谷睡眠外挂：富人的玩具，还是预防医疗的入口？｜对话Eight Sleep创始人",
     "url": "/wiki/sources/e252-guigu-shuimian-waigua-furende-wanju-haishi-yufang-yiliao-de-rukou-duihua-eight-sleep-chuangshiren-833a6b89-e6a1-4d61-a3b3-46f4d664894e/"
+  },
+  "e253-shui-zai-gei-damoxing-chuti-maiti-panjuan-liaoliao-ai-shuju-hangye-de-yemanshengzhang-0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d": {
+    "title": "E253｜谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长",
+    "url": "/wiki/sources/e253-shui-zai-gei-damoxing-chuti-maiti-panjuan-liaoliao-ai-shuju-hangye-de-yemanshengzhang-0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d/"
   },
   "e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0": {
     "title": "E42 孟岩对话韦青：沉默的主角",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 8608
+wiki_total_pages: 8612
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -1040,6 +1040,9 @@ wiki_pages:
   - key: "ExpertDataExportControls"
     title: "Expert Data Export Controls"
     url: "/wiki/concepts/expertdataexportcontrols/"
+  - key: "ExpertRubricVerification"
+    title: "Expert Rubric Verification / 专家评分标准验证"
+    url: "/wiki/concepts/expertrubricverification/"
   - key: "ExpertTrustRepair"
     title: "Expert Trust Repair"
     url: "/wiki/concepts/experttrustrepair/"
