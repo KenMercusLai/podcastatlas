@@ -25035,3 +25035,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | GUEST SERIES | Dr. Andy Galpin: Optimal Nutrition & Supplementation for Fitness
+
+Added source `guest-series-dr-andy-galpin-optimal-nutrition-supplementation-for-fitness-scim1024405440`; created `PerformanceSupplementHierarchy` and `TrainingFuelTimingContext`; and updated `AndyGalpin`, `ExerciseHydrationPerformanceBoundary`, `DailyHydrationTiming`, `CreatineMonohydrateEvidence`, `ExerciseRecoveryReadiness`, and `SleepAnxietyLoop` from their complete bounded source sets. Core synthesis: performance supplements belong beneath sleep, hydration, food, training, and recovery; fuel timing becomes more important as demand and session frequency rise; both dehydration and overhydration can impair performance; and recovery tools must be timed against adaptation goals. The three-to-five-gram creatine guidance remains unresolved against an existing 10-15 gram source-specific range, and broad fasted-training permission is qualified by female low-energy-availability evidence. No other settled contradiction was adopted. Doses, formulas, taper timing, nocturia thresholds, anti-inflammatory timing, and sleep tools remain source-scoped public education. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

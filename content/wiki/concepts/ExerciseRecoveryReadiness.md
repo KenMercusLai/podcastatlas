@@ -7,7 +7,8 @@ sources:
   - essentials-supercharge-exercise-performance-recovery-with-cooling-scim3687301411
   - tools-for-nutrition-fitness-dr-layne-norton-scim5519161031
   - ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965
-last_updated: 2026-09-23
+  - guest-series-dr-andy-galpin-optimal-nutrition-supplementation-for-fitness-scim1024405440
+last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
 
@@ -27,14 +28,16 @@ The Norton interview places these tactics beneath the recovery fundamentals: sle
 
 The AMA adds [[NonSleepDeepRestRecovery]] as an optional post-training downshift while turning repeated need for it into a load-management clue. If every session demands a rescue practice, intensity or duration may be too high. The episode's suggestion to sometimes stop at roughly 80-90% effort supports sustainable consistency but remains a general heuristic rather than a readiness test or sport-specific prescription.
 
+The Galpin interview adds a taper-first rule and a time-course model. When hard training stops producing improvement, reducing volume is the first response before adding recovery supplements; its example cuts volume by about half for roughly one week after an extended block. It also separates immediate post-training inflammation from later proliferation and remodeling, arguing that routine anti-inflammatory suppression in the first hours may conflict with adaptation while later nutrition or selected aids may serve different recovery goals.
+
 ## Key Claims
-- Recovery can be tracked against a person's own repeatable baseline rather than a population score.
-- Morning grip force is presented as a simple proxy for current nervous-system force production.
-- A slow-exhale carbon-dioxide-tolerance test is presented as an additional readiness signal, not a direct measure of muscle repair.
+- Recovery can be tracked against a person's own repeatable baseline, with morning grip force and a slow-exhale test treated as provisional signals rather than clearance or direct measures of tissue repair.
 - Sleep, consistent nutrition, stress management, and overall activity are higher-priority recovery inputs than fine post-workout timing.
 - Multiple signals and symptoms should inform training adjustment because no single field test establishes readiness.
 - Reducing soreness immediately after training can conflict with maximizing some resistance-training adaptations.
 - Targeted removal of excess exercise heat is a different intervention from whole-body cold immersion for soreness.
+- Stalled performance under hard training should prompt load reduction before supplement escalation.
+- Recovery interventions should be judged by phase and goal because immediate soreness relief can conflict with longer-term adaptation.
 
 ## Evidence
 - Grip trend: [[essentials-build-muscle-size-increase-strength-improve-recovery-scim4036424126]] treats a roughly 10% to 20% morning grip-force decline as concerning and emphasizes change from personal baseline.
@@ -45,13 +48,16 @@ The AMA adds [[NonSleepDeepRestRecovery]] as an optional post-training downshift
 - Recovery hierarchy: [[tools-for-nutrition-fitness-dr-layne-norton-scim5519161031]] ranks sleep, consistent nutrition, stress management, and overall activity above narrow recovery hacks.
 - Fuel timing: [[tools-for-nutrition-fitness-dr-layne-norton-scim5519161031]] says a protein meal within a few hours is reasonable and that total daily carbohydrate matters more than immediate glycogen replenishment for most once-daily trainees.
 - NSDR and load signal: [[ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965]] presents NSDR as a possible post-training recovery aid while treating dependence after every session as evidence to reconsider training dose.
+- Taper-first response: [[guest-series-dr-andy-galpin-optimal-nutrition-supplementation-for-fitness-scim1024405440]] recommends reducing training volume before adding supplements when hard work no longer improves performance.
+- Recovery-phase timing: [[guest-series-dr-andy-galpin-optimal-nutrition-supplementation-for-fitness-scim1024405440]] distinguishes inflammation, proliferation, and remodeling and cautions against routine immediate anti-inflammatory use when adaptation is the goal.
 
 ## Counterevidence & Qualifications
-The episode summaries supply no validation data, sensitivity, specificity, test-retest reliability, or clinical thresholds for either readiness test, and the cooling source omits complete study methods and individualized temperature targets. Grip dynamometry and slow-exhale measures are influenced by technique and health status, so poor results do not diagnose overtraining and good results do not establish clearance. Protein and carbohydrate needs vary with body size, diet, training volume, sport, session frequency, metabolic health, and clinical context; the relaxed timing claim does not apply automatically to rapid competition turnaround or repeated same-day training. Breathing symptoms, chest pain, faintness, acute injury, severe fatigue, persistent performance decline, or signs of heat illness require appropriate assessment.
+The episode summaries supply no validation data, sensitivity, specificity, test-retest reliability, or clinical thresholds for either readiness test, and the cooling and recovery sources omit complete study methods and individualized temperature or supplement targets. Grip dynamometry and slow-exhale measures are influenced by technique and health status, so poor results do not diagnose overtraining and good results do not establish clearance. Protein and carbohydrate needs vary with body size, diet, training volume, sport, session frequency, metabolic health, and clinical context; the relaxed timing claim does not apply automatically to rapid competition turnaround or repeated same-day training. Anti-inflammatory drugs may be medically necessary, and injury treatment takes priority over speculative adaptation optimization. Breathing symptoms, chest pain, faintness, acute injury, severe fatigue, persistent performance decline, or signs of heat illness require appropriate assessment.
 
 ## What Changed
-- Added NSDR as an optional recovery aid rather than a substitute for appropriate training load.
-- Added repeated need for rescue and inability to leave capacity in reserve as practical prompts to reassess intensity or duration.
+- Added a taper-first rule when hard training stops producing improvement.
+- Added inflammation, proliferation, and remodeling as a qualified timing model for recovery interventions.
+- Reinforced that immediate soreness relief and long-term adaptation can be different goals.
 
 ## Related Concepts
 - [[StrengthBenchmarkTesting]] - population and periodic strength testing that should not be conflated with morning readiness trends.
@@ -63,3 +69,5 @@ The episode summaries supply no validation data, sensitivity, specificity, test-
 - [[MedicalRiskManagement]] - escalation boundary when symptoms or treatment needs exceed self-monitoring.
 - [[ProteinBodyCompositionLever]] - total-protein and meal-timing context for recovery and adaptation.
 - [[NonSleepDeepRestRecovery]] - guided-rest branch and overload-compensation boundary.
+- [[PerformanceSupplementHierarchy]] - foundations-first check before adding recovery aids.
+- [[TrainingFuelTimingContext]] - nutrition timing branch shaped by session demand and recovery interval.

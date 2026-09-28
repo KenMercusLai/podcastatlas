@@ -10390,9 +10390,9 @@
       "url": "/wiki/entities/andyburnham/"
     },
     "AndyGalpin": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM5641095924 [SCIM5641095924].md",
@@ -10414,9 +10414,16 @@
           "show": "Huberman Lab",
           "title": "Science-Supported Tools to Accelerate Your Fitness Goals",
           "url": "/wiki/sources/science-supported-tools-to-accelerate-your-fitness-goals-scim7037527631/"
+        },
+        {
+          "episode_file": "SCIM1024405440 [SCIM1024405440].md",
+          "key": "guest-series-dr-andy-galpin-optimal-nutrition-supplementation-for-fitness-scim1024405440",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Andy Galpin: Optimal Nutrition & Supplementation for Fitness",
+          "url": "/wiki/sources/guest-series-dr-andy-galpin-optimal-nutrition-supplementation-for-fitness-scim1024405440/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-09-29",
       "url": "/wiki/entities/andygalpin/"
     },
     "AndyStalman": {
@@ -36944,9 +36951,9 @@
       "url": "/wiki/entities/crazyhorse/"
     },
     "CreatineMonohydrateEvidence": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM7693897484 [SCIM7693897484].md",
@@ -36968,9 +36975,16 @@
           "show": "Huberman Lab",
           "title": "Science-Supported Tools to Accelerate Your Fitness Goals",
           "url": "/wiki/sources/science-supported-tools-to-accelerate-your-fitness-goals-scim7037527631/"
+        },
+        {
+          "episode_file": "SCIM1024405440 [SCIM1024405440].md",
+          "key": "guest-series-dr-andy-galpin-optimal-nutrition-supplementation-for-fitness-scim1024405440",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Andy Galpin: Optimal Nutrition & Supplementation for Fitness",
+          "url": "/wiki/sources/guest-series-dr-andy-galpin-optimal-nutrition-supplementation-for-fitness-scim1024405440/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/creatinemonohydrateevidence/"
     },
     "CreativeApertureShift": {
@@ -39106,9 +39120,9 @@
       "url": "/wiki/concepts/dailycircadianperformanceroutine/"
     },
     "DailyHydrationTiming": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM6169879512 [SCIM6169879512].md",
@@ -39116,6 +39130,13 @@
           "show": "Huberman Lab",
           "title": "How to Optimize Your Water Quality & Intake for Health",
           "url": "/wiki/sources/how-to-optimize-your-water-quality-intake-for-health-scim6169879512/"
+        },
+        {
+          "episode_file": "SCIM1024405440 [SCIM1024405440].md",
+          "key": "guest-series-dr-andy-galpin-optimal-nutrition-supplementation-for-fitness-scim1024405440",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Andy Galpin: Optimal Nutrition & Supplementation for Fitness",
+          "url": "/wiki/sources/guest-series-dr-andy-galpin-optimal-nutrition-supplementation-for-fitness-scim1024405440/"
         }
       ],
       "updated": "2026-09-29",
@@ -55400,9 +55421,9 @@
       "url": "/wiki/concepts/exerciseheatmanagement/"
     },
     "ExerciseHydrationPerformanceBoundary": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM1120276865 [SCIM1120276865].md",
@@ -55417,6 +55438,13 @@
           "show": "Huberman Lab",
           "title": "How to Optimize Your Water Quality & Intake for Health",
           "url": "/wiki/sources/how-to-optimize-your-water-quality-intake-for-health-scim6169879512/"
+        },
+        {
+          "episode_file": "SCIM1024405440 [SCIM1024405440].md",
+          "key": "guest-series-dr-andy-galpin-optimal-nutrition-supplementation-for-fitness-scim1024405440",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Andy Galpin: Optimal Nutrition & Supplementation for Fitness",
+          "url": "/wiki/sources/guest-series-dr-andy-galpin-optimal-nutrition-supplementation-for-fitness-scim1024405440/"
         }
       ],
       "updated": "2026-09-29",
@@ -55520,9 +55548,9 @@
       "url": "/wiki/concepts/exercisepillarsforlongevity/"
     },
     "ExerciseRecoveryReadiness": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM4036424126 [SCIM4036424126].md",
@@ -55551,9 +55579,16 @@
           "show": "Huberman Lab",
           "title": "AMA #16: Sleep, Vertigo, TBI, OCD, Tips for Travelers, Gut-Brain Axis & More",
           "url": "/wiki/sources/ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965/"
+        },
+        {
+          "episode_file": "SCIM1024405440 [SCIM1024405440].md",
+          "key": "guest-series-dr-andy-galpin-optimal-nutrition-supplementation-for-fitness-scim1024405440",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Andy Galpin: Optimal Nutrition & Supplementation for Fitness",
+          "url": "/wiki/sources/guest-series-dr-andy-galpin-optimal-nutrition-supplementation-for-fitness-scim1024405440/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/exerciserecoveryreadiness/"
     },
     "ExerciseSelfMasteryForProcrastination": {
@@ -128986,6 +129021,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/performancelinkedadspendpricing/"
     },
+    "PerformanceSupplementHierarchy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1024405440 [SCIM1024405440].md",
+          "key": "guest-series-dr-andy-galpin-optimal-nutrition-supplementation-for-fitness-scim1024405440",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Andy Galpin: Optimal Nutrition & Supplementation for Fitness",
+          "url": "/wiki/sources/guest-series-dr-andy-galpin-optimal-nutrition-supplementation-for-fitness-scim1024405440/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/performancesupplementhierarchy/"
+    },
     "PerformerAudienceStateCoupling": {
       "episode_count": 2,
       "show_count": 1,
@@ -152941,9 +152992,9 @@
       "url": "/wiki/concepts/slaverynationalidentitycontradiction/"
     },
     "SleepAnxietyLoop": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 4,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "tech_20260811_0811_MP_TECH_pod_128 [tech_20260811_0811_MP_TECH_pod_128].md",
@@ -152993,9 +153044,16 @@
           "show": "这病说来话长",
           "title": "VOL.70精神科｜又失眠了？真的可治愈！三甲精神科医生给你睡眠支招",
           "url": "/wiki/sources/vol-70-jingshenke-you-shimian-le-zhende-ke-zhiyu-sanjia-jingshenke-yisheng-gei-ni-shuimian-zhizhao-lkfpagwnhiqlhyyz71xwefocyhf0/"
+        },
+        {
+          "episode_file": "SCIM1024405440 [SCIM1024405440].md",
+          "key": "guest-series-dr-andy-galpin-optimal-nutrition-supplementation-for-fitness-scim1024405440",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Andy Galpin: Optimal Nutrition & Supplementation for Fitness",
+          "url": "/wiki/sources/guest-series-dr-andy-galpin-optimal-nutrition-supplementation-for-fitness-scim1024405440/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/sleepanxietyloop/"
     },
     "SleepArchitectureAcrossLifespan": {
@@ -167470,6 +167528,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/concepts/trainingchaosmanagement/"
+    },
+    "TrainingFuelTimingContext": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1024405440 [SCIM1024405440].md",
+          "key": "guest-series-dr-andy-galpin-optimal-nutrition-supplementation-for-fitness-scim1024405440",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Andy Galpin: Optimal Nutrition & Supplementation for Fitness",
+          "url": "/wiki/sources/guest-series-dr-andy-galpin-optimal-nutrition-supplementation-for-fitness-scim1024405440/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/trainingfueltimingcontext/"
     },
     "TransEurasianMigrationCascade": {
       "episode_count": 2,

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 8750
+wiki_total_pages: 8752
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -698,6 +698,9 @@ wiki_pages:
   - key: "TrainingComputeAllocation"
     title: "Training Compute Allocation"
     url: "/wiki/concepts/trainingcomputeallocation/"
+  - key: "TrainingFuelTimingContext"
+    title: "Training Fuel Timing Context"
+    url: "/wiki/concepts/trainingfueltimingcontext/"
   - key: "TransatlanticBurdenShifting"
     title: "Transatlantic Burden Shifting"
     url: "/wiki/concepts/transatlanticburdenshifting/"

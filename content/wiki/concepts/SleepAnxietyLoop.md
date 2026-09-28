@@ -10,7 +10,8 @@ sources:
   - guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory-scim9549338704
   - guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663
   - vol-70-jingshenke-you-shimian-le-zhende-ke-zhiyu-sanjia-jingshenke-yisheng-gei-ni-shuimian-zhizhao-lkfpagwnhiqlhyyz71xwefocyhf0
-last_updated: 2026-09-28
+  - guest-series-dr-andy-galpin-optimal-nutrition-supplementation-for-fitness-scim1024405440
+last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
 
@@ -31,6 +32,8 @@ The learning episode names the tracker-focused form as orthosomnia. Belief about
 The protocols episode adds anticipatory and compensatory forms of the same loop. Visible clocks turn a waking into a calculation about lost sleep, while phones can carry expected messages, alarms, or stressful information into the bedroom. After a poor night, sleeping in, moving bedtime earlier, adding caffeine, or napping can become effortful attempts to force recovery that weaken the next night's timing or sleep pressure. A detailed familiar mental walk can redirect attention, but it remains a de-arousal technique rather than a cure for persistent insomnia.
 
 The psychiatric sleep episode makes the loop explicit at sleep onset: once a personally normal latency passes, the thought that sleep is failing can trigger stress arousal and further delay sleep. It also joins tracker caution to a broader functional test—restoration, routine, mood, relationships, and daytime life—while offering slow breathing, body scanning, or a deliberately simple word-and-image anchor as bounded attention shifts. These tools may reduce arousal; they do not show that persistent insomnia, limb symptoms, neurological disease, or dementia-related waking is caused by worry.
+
+The Galpin interview adds a simple feedback-delay rule: when a sleep score becomes stressful or compulsive, do not check it during at least the first hour after waking. This preserves the possibility of periodic pattern review while reducing the chance that one estimate sets the day's expectations before subjective restoration and function can be noticed.
 
 ## Key Claims
 - Sleep advice can backfire when a flexible health range becomes an exact performance demand.
@@ -53,14 +56,14 @@ The psychiatric sleep episode makes the loop explicit at sleep onset: once a per
 - Familiar mental walk - [[guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663]] describes detailed familiar-route imagery as more useful than counting sheep for moving attention away from self-focused rumination.
 - Sleep-onset interpretation and de-arousal - [[vol-70-jingshenke-you-shimian-le-zhende-ke-zhiyu-sanjia-jingshenke-yisheng-gei-ni-shuimian-zhizhao-lkfpagwnhiqlhyyz71xwefocyhf0]] connects a catastrophic thought after longer-than-usual sleep latency with stress arousal and offers slow breathing, body scanning, or a simple imagery-and-word anchor as possible attention shifts.
 - Functional and device boundary - [[vol-70-jingshenke-you-shimian-le-zhende-ke-zhiyu-sanjia-jingshenke-yisheng-gei-ni-shuimian-zhizhao-lkfpagwnhiqlhyyz71xwefocyhf0]] prioritizes waking restoration and wider life context over an exact eight-hour, 90-minute-cycle, or consumer deep-sleep target.
+- Delayed score checking - [[guest-series-dr-andy-galpin-optimal-nutrition-supplementation-for-fitness-scim1024405440]] recommends waiting at least the first waking hour before viewing a sleep score when feedback has become stressful or compulsive.
 
 ## Counterevidence & Qualifications
 Sleep worry is not an explanation for every sleep complaint. Persistent difficulty, daytime impairment, witnessed breathing pauses, recurrent dream enactment, uncomfortable legs, irresistible daytime sleep, medication effects, menopause symptoms, dementia, neurological disease, or circadian change can require medical assessment. Belief effects, athlete-feedback practice, clock and phone removal, conditioning, breathing, body scans, and attention-shifting tools are source-scoped and are not substitutes for CBT-I or sleep-medicine evaluation.
 
 ## What Changed
-- Added catastrophic interpretation of delayed sleep onset as a direct arousal pathway.
-- Broadened the functional counterweight to rigid targets from sleep metrics to restoration and wider life context.
-- Added breathing, body scanning, and a simple imagery-and-word anchor as bounded de-arousal tools.
+- Added delayed morning score checking as a practical orthosomnia boundary.
+- Preserved periodic pattern review while prioritizing subjective restoration and function before device feedback.
 
 ## Related Concepts
 - [[ChronicInsomniaRecognitionAndTreatment]] - clinical pathway for persistent symptoms and daytime impairment.

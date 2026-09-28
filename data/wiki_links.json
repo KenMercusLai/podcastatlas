@@ -54735,6 +54735,10 @@
     "title": "Performance-Linked Ad Spend Pricing",
     "url": "/wiki/concepts/performancelinkedadspendpricing/"
   },
+  "PerformanceSupplementHierarchy": {
+    "title": "Performance Supplement Hierarchy",
+    "url": "/wiki/concepts/performancesupplementhierarchy/"
+  },
   "PerformativeEnforcementAccountability": {
     "title": "Performative Enforcement Accountability",
     "url": "/wiki/concepts/performativeenforcementaccountability/"
@@ -72175,6 +72179,10 @@
     "title": "Training Compute Allocation",
     "url": "/wiki/concepts/trainingcomputeallocation/"
   },
+  "TrainingFuelTimingContext": {
+    "title": "Training Fuel Timing Context",
+    "url": "/wiki/concepts/trainingfueltimingcontext/"
+  },
   "TransEurasianMigrationCascade": {
     "title": "欧亚迁徙连锁 / Trans-Eurasian Migration Cascade",
     "url": "/wiki/concepts/transeurasianmigrationcascade/"
@@ -84854,6 +84862,10 @@
   "guanyu-ai-kaiyuan-shangyehua-yu-quanqiuhua-de-jingyan-jiaoxun-he-fangfalun-duitan-pingcap-cto-dongxu-ljw8va0evobhz4ojzrulqzjvxw5": {
     "title": "关于 AI、开源、商业化与全球化的经验、教训和方法论 | 对谈 PingCAP CTO 东旭",
     "url": "/wiki/sources/guanyu-ai-kaiyuan-shangyehua-yu-quanqiuhua-de-jingyan-jiaoxun-he-fangfalun-duitan-pingcap-cto-dongxu-ljw8va0evobhz4ojzrulqzjvxw5/"
+  },
+  "guest-series-dr-andy-galpin-optimal-nutrition-supplementation-for-fitness-scim1024405440": {
+    "title": "GUEST SERIES | Dr. Andy Galpin: Optimal Nutrition & Supplementation for Fitness",
+    "url": "/wiki/sources/guest-series-dr-andy-galpin-optimal-nutrition-supplementation-for-fitness-scim1024405440/"
   },
   "guest-series-dr-matt-walker-how-to-structure-your-sleep-use-naps-time-caffeine-scim8589399999": {
     "title": "GUEST SERIES | Dr. Matt Walker: How to Structure Your Sleep, Use Naps & Time Caffeine",

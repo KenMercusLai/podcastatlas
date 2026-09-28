@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8750
+wiki_total_pages: 8752
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -446,6 +446,9 @@ wiki_pages:
   - key: "PerformanceFootwearMarket"
     title: "Performance Footwear Market"
     url: "/wiki/concepts/performancefootwearmarket/"
+  - key: "PerformanceSupplementHierarchy"
+    title: "Performance Supplement Hierarchy"
+    url: "/wiki/concepts/performancesupplementhierarchy/"
   - key: "PerformanceLinkedAdSpendPricing"
     title: "Performance-Linked Ad Spend Pricing"
     url: "/wiki/concepts/performancelinkedadspendpricing/"

@@ -6,7 +6,8 @@ sources:
   - essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484
   - essentials-build-muscle-size-increase-strength-improve-recovery-scim4036424126
   - science-supported-tools-to-accelerate-your-fitness-goals-scim7037527631
-last_updated: 2026-09-28
+  - guest-series-dr-andy-galpin-optimal-nutrition-supplementation-for-fitness-scim1024405440
+last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
 
@@ -24,14 +25,16 @@ The Huberman Essentials source independently reinforces the performance and hydr
 
 The fitness-tools episode agrees that monohydrate is the effective low-cost form and that loading is unnecessary, but proposes weight-scaled daily doses of roughly 10-15 grams for people around 185-250 pounds and three to five grams for lighter people. Because that higher range is not reconciled with the existing five-gram examples or supported by study details in the summary, it remains a contested source-specific dosing claim rather than a new default.
 
+The Galpin interview returns to a more conservative three-to-five-gram daily example and clarifies that creatine works through repeated intake over weeks rather than as a once-weekly or immediate pre-workout aid. It broadens possible benefits to recovery, bone mineral density, and cognition while explicitly denying that creatine prevents or treats neurodegenerative disease, traumatic brain injury, or concussion. These additions strengthen the consistency principle without resolving the dose disagreement or turning exploratory outcomes into treatment claims.
+
 ## Key Claims
-- Creatine monohydrate is treated as the most tested, safe, and effective sports supplement in the source.
-- Other creatine forms are presented as probably not worth extra cost compared with monohydrate.
+- Creatine monohydrate is treated as the most tested, safe, effective, and cost-justified form compared with more expensive alternatives.
 - The source links creatine to phosphocreatine stores, exercise performance, recovery, lean mass, strength, and possible cognition.
 - Kidney and liver concerns are treated as debunked for healthy people, while the hair-loss concern rests mainly on one unreplicated DHT study.
 - Loading saturates stores faster, but five grams per day without loading can reach the same endpoint over two to four weeks.
 - Gastrointestinal tolerance and adherence can justify skipping loading or splitting doses.
 - A third source agrees on formulation and optional loading but gives a substantially higher dose for heavier people, creating an unresolved dosing qualification.
+- A fourth source reinforces three to five grams daily and consistent use while drawing a firm boundary against disease or brain-injury treatment claims.
 
 ## Evidence
 - Evidence strength: [[essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484]] calls creatine monohydrate the most tested, safe, and effective sports supplement available.
@@ -42,15 +45,15 @@ The fitness-tools episode agrees that monohydrate is the effective low-cost form
 - Tolerance adjustment: [[essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484]] recommends avoiding loading and splitting doses if creatine causes gastrointestinal irritation.
 - Independent reinforcement: [[essentials-build-muscle-size-increase-strength-improve-recovery-scim4036424126]] describes creatine as repeatedly supported for muscle performance, cellular hydration, and fatigue reduction and gives about five grams daily for a roughly 180-pound person as an expert example.
 - Dosing disagreement: [[science-supported-tools-to-accelerate-your-fitness-goals-scim7037527631]] says loading is unnecessary but recommends roughly 10-15 grams daily at 185-250 pounds, without supplying evidence that resolves the difference from the five-gram examples.
+- Consistency and treatment boundary: [[guest-series-dr-andy-galpin-optimal-nutrition-supplementation-for-fitness-scim1024405440]] describes three to five grams daily over weeks and says creatine does not prevent or treat neurodegenerative disease, traumatic brain injury, or concussion.
 
 ## Counterevidence & Qualifications
-This concept is not individualized supplement advice. Kidney disease, liver disease, pregnancy, adolescence, medication interactions, competitive-sport rules, product contamination, gastrointestinal intolerance, diet pattern, and clinical conditions can change the risk calculation. "Healthy people" is part of the source's safety boundary, not a universal claim. The 66-study count and 12% to 20% power figure cannot be independently evaluated from the episode summary, and the newer 10-15 gram range should not be generalized without evidence or clinical context.
+This concept is not individualized supplement advice. Kidney disease, liver disease, pregnancy, adolescence, medication interactions, competitive-sport rules, product contamination, gastrointestinal intolerance, diet pattern, and clinical conditions can change the risk calculation. "Healthy people" is part of the source's safety boundary, not a universal claim. The 66-study count and 12% to 20% power figure cannot be independently evaluated from the episode summary, the 10-15 gram range should not be generalized without evidence or clinical context, and possible cognitive or bone effects do not establish prevention or treatment of neurological disease or injury.
 
 ## What Changed
-- Added agreement that loading is optional and monohydrate remains the low-cost default.
-- Recorded the 10-15 gram recommendation for heavier people as unresolved against existing five-gram examples.
-- Added a second episode's performance, hydration, fatigue, and roughly five-gram dosing claims.
-- Kept its quoted study count and power-output range explicitly source-scoped.
+- Added a third three-to-five-gram daily example without erasing the unresolved higher-dose claim.
+- Clarified that consistent intake over weeks, not sporadic acute use, drives the episode's expected benefit.
+- Added an explicit boundary against treating neurodegenerative disease, traumatic brain injury, or concussion.
 
 ## Related Concepts
 - [[ProteinBodyCompositionLever]] - adjacent body-composition lever where protein and creatine both support training adaptation differently.

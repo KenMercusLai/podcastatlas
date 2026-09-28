@@ -3169,6 +3169,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Genes & the Inheritance of Memories Across Generations | Dr. Oded Rechavi](sources/genes-the-inheritance-of-memories-across-generations-dr-oded-rechavi-scim1011684384.md) — Full Huberman Lab interview on epigenetic inheritance, generation-aware evidence design, C. elegans small-RNA mechanisms, and why human inherited-memory claims remain unresolved.
 
+- [GUEST SERIES | Dr. Andy Galpin: Optimal Nutrition & Supplementation for Fitness](sources/guest-series-dr-andy-galpin-optimal-nutrition-supplementation-for-fitness-scim1024405440.md) — Huberman Lab guest-series finale on foundations-first supplementation, hydration, fuel timing, sleep, and phase-aware recovery.
+
 ## Entities
 - [骁狼医生 / Xiaolang (oncology surgeon)](entities/XiaolangOncologySurgeon.md) — Source-scoped oncology hepatobiliary surgeon discussing biliary, pancreatic, and splenic health plus oncology communication in VOL.23–25.
 - [Taíno](entities/TainoPeople.md) — Indigenous Caribbean peoples whose exchange, political agency, captivity, resistance, and catastrophe are preserved through an asymmetric colonial archive.
@@ -23319,5 +23321,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Shift-Work Circadian Health](concepts/ShiftWorkCircadianHealth.md) — Occupational timing framework connecting sleep, light, eating, caffeine, alcohol, and schedule-specific intervention design.
 
 - [Transgenerational Inheritance Evidence Design](concepts/TransgenerationalInheritanceEvidenceDesign.md) — Study-design standard separating direct exposure and parental environment from true germline transmission in an unexposed generation.
+
+- [Performance Supplement Hierarchy](concepts/PerformanceSupplementHierarchy.md) — Foundations-first method for matching targeted, tested supplements to a defined performance constraint.
+- [Training Fuel Timing Context](concepts/TrainingFuelTimingContext.md) — Demand-based framework for fed, fasted, intra-workout, and recovery nutrition.
 
 ## Syntheses
