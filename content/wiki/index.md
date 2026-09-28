@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.26妇产科｜妇产科的事也是男士的必修课](sources/vol-26-fuchanke-fuchanke-de-shi-yeshi-nanshi-de-bixiuke-ljhkdbucgrm_c2ykhzglj7ecbos1.md) — 这病说来话长 episode on male obstetrician-gynecologists, specialty training, intimate-care dignity, examination discomfort, partner health literacy, and prenatal-screening adherence.
 - [310: Ronald Reagan and the American Dream (Part 1)](sources/310-ronald-reagan-and-the-american-dream-part-1-glt3254036306.md) — The Rest Is History episode on Reagan's religious, civic, radio, Hollywood, union, and anti-communist formation and the fusion of performance with conviction.
 - [史蒂夫说474期 - 咨询师回信：权力视角是为人处世的必备角度](sources/shi-di-fu-shuo-474-zixunshi-huixin-quanli-shijiao-shi-weiren-chushi-de-bibei-jiaodu-lnanj_uwjhcnv2vt7ezagdfn9c11.md) — 史蒂夫说 counselor-letter episode on interpretive power, self-justification, family abuse, breakup control, therapy authority, and multidimensional marriage meaning.
 - [How to Optimize Your Water Quality & Intake for Health](sources/how-to-optimize-your-water-quality-intake-for-health-scim6169879512.md) — Huberman Lab solo episode on hydration timing, exercise and heat losses, tap-water assessment, filtration, minerals, and specialty-water evidence boundaries.

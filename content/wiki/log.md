@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-29] ingest | VOL.26妇产科｜妇产科的事也是男士的必修课
+
+Added source `vol-26-fuchanke-fuchanke-de-shi-yeshi-nanshi-de-bixiuke-ljhkdbucgrm_c2ykhzglj7ecbos1`; updated `JacksonLiuGynecologist`, `GynecologicalSymptomTriage`, `PrenatalScreeningAndPregnancyCareLimits`, `GynecologicalExamDignity`, and the canonical index from their complete bounded source sets. Core synthesis: clinician gender does not determine competence, while intimate-care dignity still requires explanation, appropriate chaperoning, attention to reluctance and pain, and an urgency-sensitive alternative when delay is safe; prenatal screening reduces avoidable risk without guaranteeing an outcome, and prior uncomplicated pregnancy does not make later follow-up redundant. No settled contradiction with VOL.27 was found. The episode's wiping-direction advice is qualified by newer wiki evidence reporting weak support for that prevention ritual, while staffing, instrument, discomfort, screening, prognosis, genetic-testing, and termination claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-29] ingest | 310: Ronald Reagan and the American Dream (Part 1)
 
 Added source `310-ronald-reagan-and-the-american-dream-part-1-glt3254036306`; created `ScreenActorsGuild` and `PoliticalPerformanceSincerity`; and updated `RonaldReagan`, `PresidentialSymbolicLeadership`, and the canonical index from their complete bounded source sets. Core synthesis: Reagan's public authority grew from small-town civic and religious formation, sport, radio reconstruction, Hollywood roles, wartime film, and union politics; performance and conviction reinforced one another, but sincerity did not guarantee factual accuracy or substantive virtue. His move from New Deal Democrat toward conservative anti-communism is treated as gradual and multi-causal rather than inherited or reducible to one grievance. No settled contradiction was adopted. Ancestry, dialogue, ratings, threats, tax and salary figures, private motives, marriage dynamics, and the causal weight of religion, divorce, Britain, taxation, or Hollywood labor conflict remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -24963,6 +24967,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-29] ingest | 史蒂夫说474期 - 咨询师回信：权力视角是为人处世的必备角度
 
 Added source `shi-di-fu-shuo-474-zixunshi-huixin-quanli-shijiao-shi-weiren-chushi-de-bibei-jiaodu-lnanj_uwjhcnv2vt7ezagdfn9c11`; created `RelationalInterpretiveAuthority`, `LoveControlIllusion`, and `MultidimensionalMarriageMeaning`; and updated `PowerLiteracy`, `ShiDiFuShuo`, `SteveShiDiFuShuoHost`, the canonical index, and overview synthesis from their complete bounded source sets. Core synthesis: relationship power includes the authority to define the problem and decide whose experience counts; repeated self-justification can deepen loss of agency; breakup analysis can preserve an illusion that love is controllable; and marriage has legal, social, emotional, psychological, and shared-life dimensions that should be examined without minimizing concealment or legal consequence. No settled contradiction was adopted. Third-party motives, diagnoses, family dynamics, the former marriage's history, and confrontation safety remain source-scoped public psychoeducation rather than individualized therapy, legal advice, or safety planning.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-29] lint | Wiki health check
 
