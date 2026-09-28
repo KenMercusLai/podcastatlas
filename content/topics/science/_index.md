@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1290
+topic_total_pages: 1293
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1555,6 +1555,9 @@ topic_concepts:
   - key: "PsychedelicLongevityHypothesis"
     title: "Psychedelic Longevity Hypothesis"
     url: "/wiki/concepts/psychedeliclongevityhypothesis/"
+  - key: "PsychedelicTherapyMechanism"
+    title: "Psychedelic Therapy Mechanism"
+    url: "/wiki/concepts/psychedelictherapymechanism/"
   - key: "PsychicVampirePersonality"
     title: "Psychic Vampire Personality / 精神吸血鬼人格"
     url: "/wiki/concepts/psychicvampirepersonality/"
@@ -2897,6 +2900,9 @@ topic_entities:
   - key: "RobertSapolsky"
     title: "Robert Sapolsky / 萨波斯基"
     url: "/wiki/entities/robertsapolsky/"
+  - key: "RobinCarhartHarris"
+    title: "Robin Carhart-Harris"
+    url: "/wiki/entities/robincarhartharris/"
   - key: "RobinDunbar"
     title: "Robin Dunbar / 罗宾·邓巴"
     url: "/wiki/entities/robindunbar/"
@@ -3780,6 +3786,9 @@ topic_sources:
   - key: "the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449"
     title: "The Science of MDMA & Its Therapeutic Uses: Benefits & Risks"
     url: "/wiki/sources/the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449/"
+  - key: "the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019"
+    title: "The Science of Psychedelics for Mental Health | Dr. Robin Carhart-Harris"
+    url: "/wiki/sources/the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019/"
   - key: "the-science-of-your-gut-sense-the-gut-brain-axis-dr-diego-bohorquez-scim8970398714"
     title: "The Science of Your Gut Sense & the Gut-Brain Axis | Dr. Diego Bohórquez"
     url: "/wiki/sources/the-science-of-your-gut-sense-the-gut-brain-axis-dr-diego-bohorquez-scim8970398714/"

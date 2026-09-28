@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-28] ingest | The Science of Psychedelics for Mental Health | Dr. Robin Carhart-Harris
+
+Added source `the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019`; created `RobinCarhartHarris`, `PsychedelicTherapyMechanism`, and `PsychedelicIntegration`; and updated `BrainNetworkModularity`, `MDMAAssistedPTSDTherapy`, `PsychedelicClinicalSupervisionBoundary`, the canonical index, and overview from their complete bounded source sets. Core synthesis: psychedelic therapy is treated as a combined biological, experiential, relational, and learning intervention; acute lower modularity can coexist with the value of organized baseline networks; and integration, relapse, product identity, legal access, practitioner conduct, and emergency safeguards remain central. No settled contradiction was adopted. Microdosing, expectancy, depression, anorexia, fibromyalgia, imaging, cognitive-flexibility, remission, and regulatory claims remain early, historical, unpublished, single-study, or otherwise source-scoped rather than individualized treatment guidance. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
 ## [2026-09-28] ingest | How to Learn Better & Create Your Best Future | Tim Ferriss
 
 Added source `how-to-learn-better-create-your-best-future-tim-ferriss-scim6518415604`; created `Cockpunch`, `EdgeCaseOpportunityDiscovery`, and `ExperimentalLifeDesign`; and updated `TimFerriss`, `SelfExperimentation`, `PsychedelicClinicalSupervisionBoundary`, and the canonical index from their complete bounded source sets. Core synthesis: Ferriss treats opportunity finding as pattern recognition across edge cases and awkward workarounds, treats anecdotes as hypothesis generators rather than proof, and turns life design into reversible experiments, protected attention, calendar commitments, identity diversification, and selective de-optimization. No settled contradiction was adopted. Diet, protein, fasting, cold-exposure, supplement, retreat, neurochemical, fundraising, and psychedelic-effect claims remain autobiographical or source-scoped; psychedelic discussion stays inside evidence, screening, supervision, contraindication, and integration boundaries. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -24559,6 +24563,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-28] ingest | 335: The Freemasons: History's Greatest Conspiracy Theory
 
 Added source `335-the-freemasons-historys-greatest-conspiracy-theory-glt4122245847`; created `JohnDickey`, `LeoTaxil`, `PrinceHallFreemasonry`, `PropagandaDue`, `Freemasonry`, `MasonicSecrecyConspiracyFeedback`, and `FraternalNetworkOrganizationalTemplate`; and updated `ConspiracyTheoryPatternSeeking` and the canonical index from the complete bounded source set. Core synthesis: Freemasonry's ritual secrecy, symbolic borrowing, translocal credentials, and lodge structure made it adaptable to civic, imperial, excluded-community, and corrupt uses while also inviting totalizing hostile interpretation. Taxil demonstrates fabricated revelation, P2 demonstrates bounded real conspiracy, and Prince Hall Freemasonry demonstrates civic adaptation under racial exclusion. No settled contradiction was adopted. Origins, Whig and Enlightenment causation, imperial scale, Franco-era figures, P2 allegations, Calvi's death, organizational borrowing, and Prince Hall impact remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-28] lint | Wiki health check
 

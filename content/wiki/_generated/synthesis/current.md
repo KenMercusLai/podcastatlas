@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-28
-as_of_overview_commit: 4ae47c7960231033b793517ffd76c361f7d4c1e4
+as_of_overview_commit: 25095543237272b679f228c8332d32388e9e4ddd
 summary: "Across domains, durable progress depends on evidence, context, human judgment, capable institutions, bounded authority, practical implementation, and feedback."
-episode_count: 2999
-source_count: 2999
-paragraph_count: 765
+episode_count: 3072
+source_count: 3072
+paragraph_count: 766
 topic_count: 9
 ---
 
@@ -22,7 +22,7 @@ topic_count: 9
 - [[366-the-architect-of-modern-china-glt1902993082|The Deng episode]] adds a governance settlement in which [[ChineseAuthoritarianMarketReform]] joined central permission, [[LocalGovernmentPolicyExperimentation]], unequal special-zone capacity, foreign learning, and bottom-up enterprise to a non-negotiable [[ChineseCommunistParty]] monopoly; [[TiananmenCrackdown1989]] closed political liberalization under [[CulturalRevolutionGovernanceMemory]], while the 1992 southern tour restarted economic opening without political pluralism.
 - [[391-the-fall-of-the-aztecs-the-last-emperor-part-8-glt2984940365|The Fall of the Aztecs finale]] treats the [[SpanishConquestOfMexico|Spanish conquest of Mexico]] as a long, uneven transformation rather than a completed 1521 event: coalition politics, [[ColonialLegalAdaptation|legal legitimation and Indigenous claims]], labor, urban rebuilding, religion, and the [[ColumbianExchange]] extended battlefield defeat, while [[HistoricalCatastropheNarrativeEthics]] preserves constrained Indigenous agency and dramatic contingency without minimizing torture, exploitation, dispossession, or demographic catastrophe.
 - [[LifeTaskDiscovery]] and [[PurposeIntegratedMotivation]] frame direction as a test of recurring inclination, engagement, contribution, and adult experimentation; [[PowerLiteracy]], [[EmbodiedSocialPerception]], and [[CharacterBasedRomanticCompatibility]] place social judgment on influence, demonstrated values, cue clusters, and conduct across contexts, while [[EffortfulThinkingInTheAIAge]] and [[MortalityBoundedMeaning]] preserve effort and finite-time urgency without turning struggle, crisis, or intuition into universal prescriptions.
-- [[vol-71-jingshenke-guanai-chanhou-yiyu-chanqian-yiji-yufang-chanhou-jujue-moshi-jiyu-gengduo-peiban-loossm3a72jbbdj7tplmsidw4ovi|VOL.71]] adds a perinatal mental-health branch: [[PostpartumDepressionRecognitionAndSupport]] combines emotional, cognitive, bodily, sleep, appetite, caregiving, functional, and safety changes; [[PerinatalMentalHealthPrevention]] moves screening and family planning before crisis; and [[PerinatalPsychiatricMedicationSharedDecision]] keeps pregnancy, lactation, untreated illness, medicine, and feeding choices individualized rather than governed by stigma or blanket rules.
+- [[the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019|The Carhart-Harris interview]] adds a psychedelic mental-health branch in which [[PsychedelicTherapyMechanism]] joins serotonin 2A pharmacology, acute cross-network change, subjective confrontation, therapeutic trust, and setting, while [[PsychedelicIntegration]] and [[PsychedelicClinicalSupervisionBoundary]] keep transient experience, relapse, legal access, contamination, provider conduct, and emergency support distinct from durable efficacy; [[BrainNetworkModularity]] can therefore be useful when high at baseline yet temporarily reduced in an altered state without yielding a one-direction optimization rule.
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough.
 
 ## Synthesis by Domain
@@ -75,10 +75,10 @@ Personal change depends on bounded self-inquiry, contextual relationship and fam
 
 ### Science, Health, and Climate
 
-Scientific and public-health claims require mechanisms, outcomes, uncertainty, communication, social infrastructure, adaptable support, and clinical escalation when stakes demand care.
+Scientific and public-health claims require mechanisms, outcomes, uncertainty, adaptable support, professional safeguards, and clinical escalation when stakes demand care.
 
+- [[the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019|The Carhart-Harris interview]] adds a psychedelic mental-health branch in which [[PsychedelicTherapyMechanism]] joins serotonin 2A pharmacology, acute cross-network change, subjective confrontation, therapeutic trust, and setting, while [[PsychedelicIntegration]] and [[PsychedelicClinicalSupervisionBoundary]] keep transient experience, relapse, legal access, contamination, provider conduct, and emergency support distinct from durable efficacy; [[BrainNetworkModularity]] can therefore be useful when high at baseline yet temporarily reduced in an altered state without yielding a one-direction optimization rule. Evidence: [[the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019]], [[RobinCarhartHarris]], [[PsychedelicTherapyMechanism]], [[PsychedelicIntegration]], [[PsychedelicClinicalSupervisionBoundary]], [[BrainNetworkModularity]], [[MDMAAssistedPTSDTherapy]].
 - [[vol-71-jingshenke-guanai-chanhou-yiyu-chanqian-yiji-yufang-chanhou-jujue-moshi-jiyu-gengduo-peiban-loossm3a72jbbdj7tplmsidw4ovi|VOL.71]] adds a perinatal mental-health branch: [[PostpartumDepressionRecognitionAndSupport]] combines emotional, cognitive, bodily, sleep, appetite, caregiving, functional, and safety changes; [[PerinatalMentalHealthPrevention]] moves screening and family planning before crisis; and [[PerinatalPsychiatricMedicationSharedDecision]] keeps pregnancy, lactation, untreated illness, medicine, and feeding choices individualized rather than governed by stigma or blanket rules. Evidence: [[vol-71-jingshenke-guanai-chanhou-yiyu-chanqian-yiji-yufang-chanhou-jujue-moshi-jiyu-gengduo-peiban-loossm3a72jbbdj7tplmsidw4ovi]], [[ZheBingShuoLaiHuaChang]], [[PostpartumDepressionRecognitionAndSupport]], [[PerinatalMentalHealthPrevention]], [[PerinatalPsychiatricMedicationSharedDecision]].
-- [[efforts-challenges-in-promoting-public-health-us-surgeon-general-dr-vivek-murthy-scim4553126123|The Murthy interview]] adds a health-systems claim: prevention joins evidence communication with sleep, nutrition, activity, relationships, food access, coordinated care, child-safe platform design, and [[EverydaySocialConnection]], while [[LonelinessPublicHealthRisk]] and [[IntegratedCareFragmentation]] keep population association, individual care, and institutional responsibility distinct. Evidence: [[efforts-challenges-in-promoting-public-health-us-surgeon-general-dr-vivek-murthy-scim4553126123]], [[VivekMurthy]], [[PublicHealthTrustCommunication]], [[LonelinessPublicHealthRisk]], [[IntegratedCareFragmentation]], [[FoodSystemNutritionResponsibility]], [[SocialMediaDesignRegulation]], [[EverydaySocialConnection]].
 
 ### Work, Education, and Society
 

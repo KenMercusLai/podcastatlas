@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Science of Psychedelics for Mental Health | Dr. Robin Carhart-Harris](sources/the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019.md) — Huberman Lab interview on classic psychedelics, subjective experience, brain-network flexibility, integration, mental-health trials, relapse, and clinical safeguards.
 - [VOL.47食品与营养｜关于免疫力和补充剂的误区你中了几条？](sources/vol-47-shipin-yu-yingyang-guanyu-mianyili-he-buchongji-de-wuqu-ni-zhongle-jitiao-lruch-jc9a_r3r1qmdo2ojlxz2mk.md) — 这病说来话长 episode on immune homeostasis, food-first nutrition, targeted supplement need, and diet or dosing boundaries.
 - [335: The Freemasons: History's Greatest Conspiracy Theory](sources/335-the-freemasons-historys-greatest-conspiracy-theory-glt4122245847.md) — The Rest Is History episode on Masonic ritual, secrecy, civic and imperial networks, anti-Masonic conspiracy, P2 corruption, and Prince Hall Freemasonry.
 - [VOL.48耳鼻咽喉科｜卡鱼刺的误区｜咽炎｜火锅+冰饮=急性会厌炎=10分钟丧命？别慌，来听医生怎么讲](sources/vol-48-erbiyanhouke-kayuci-de-wuqu-yanyan-huoguo-bingyin-jixing-huiyanyan-10-fenzhong-sangming-biehuang-lai-ting-yisheng-zenme-jiang-ljwo-vs4u8t7vnkodtvuflm1r3mg.md) — 这病说来话长 episode on fish-bone foreign bodies, epiglottitis airway risk, sore-throat escalation, chronic pharyngitis, and tonsil surgery decisions.
@@ -3104,6 +3105,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [341: The Trials of Oscar Wilde: Sex and Scandal (Part 1)](sources/341-the-trials-of-oscar-wilde-sex-and-scandal-part-1-glt1940599692.md) — The Rest Is History episode on Wilde's celebrity, changing sexual law and identity, unequal relationships, the Queensberry conflict, and the failed libel prosecution.
 
 ## Entities
+- [Robin Carhart-Harris](entities/RobinCarhartHarris.md) — Psychedelic researcher connecting serotonin 2A pharmacology, subjective experience, brain-network change, clinical trials, integration, and safeguards.
 - [John Dickey](entities/JohnDickey.md) — Historian connecting Freemasonry's ritual, political history, conspiracy culture, and organizational form.
 - [Leo Taxil](entities/LeoTaxil.md) — Anti-Masonic hoaxer whose fabricated insider revelations exploited prior Catholic suspicion.
 - [Prince Hall Freemasonry](entities/PrinceHallFreemasonry.md) — Black American Masonic tradition linking racial exclusion to mutual aid, abolition, and civil-rights capacity.
@@ -14347,6 +14349,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Raiders of the Lost Ark](entities/RaidersOfTheLostArk.md) — Adventure film that translates the Ark's dangerous holiness into an ultimate-weapon race against Nazi Germany.
 
 ## Concepts
+- [Psychedelic Therapy Mechanism](concepts/PsychedelicTherapyMechanism.md) — Combined receptor, network, subjective, relational, and learning model for psychedelic-assisted mental-health change.
+- [Psychedelic Integration](concepts/PsychedelicIntegration.md) — Ongoing process for translating an acute psychedelic experience into qualified, durable ordinary-life learning.
 - [Immune Homeostasis, Not Indiscriminate Boosting](concepts/ImmuneHomeostasisNotBoosting.md) — Distinguishes regulated immune sufficiency from indiscriminate activation or supplement-led “boosting.”
 - [Freemasonry](concepts/Freemasonry.md) — Fraternal lodge tradition joining ritual, symbolism, mutual obligation, civic and imperial networks, exclusion, and case-specific risks of corrupt capture.
 - [Masonic Secrecy–Conspiracy Feedback](concepts/MasonicSecrecyConspiracyFeedback.md) — Cycle linking ritual opacity and symbolic ambiguity to hostile totalization, repression, and renewed mystery.

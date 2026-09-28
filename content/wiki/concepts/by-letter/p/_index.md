@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8626
+wiki_total_pages: 8628
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1943,12 +1943,18 @@ wiki_pages:
   - key: "PsychedelicIdentityDisruption"
     title: "Psychedelic Identity Disruption"
     url: "/wiki/concepts/psychedelicidentitydisruption/"
+  - key: "PsychedelicIntegration"
+    title: "Psychedelic Integration"
+    url: "/wiki/concepts/psychedelicintegration/"
   - key: "PsychedelicLongevityHypothesis"
     title: "Psychedelic Longevity Hypothesis"
     url: "/wiki/concepts/psychedeliclongevityhypothesis/"
   - key: "PsychedelicOrdinaryFreedom"
     title: "Psychedelic Ordinary Freedom"
     url: "/wiki/concepts/psychedelicordinaryfreedom/"
+  - key: "PsychedelicTherapyMechanism"
+    title: "Psychedelic Therapy Mechanism"
+    url: "/wiki/concepts/psychedelictherapymechanism/"
   - key: "PsychiatricDiagnosisMechanismBoundary"
     title: "Psychiatric Diagnosis-Mechanism Boundary"
     url: "/wiki/concepts/psychiatricdiagnosismechanismboundary/"

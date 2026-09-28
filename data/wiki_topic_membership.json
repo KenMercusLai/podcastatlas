@@ -60288,6 +60288,13 @@
       "url": "/topics/science/"
     }
   ],
+  "PsychedelicTherapyMechanism": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "PsychicVampirePersonality": [
     {
       "key": "science",
@@ -63912,6 +63919,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "RobinCarhartHarris": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "RobinDunbar": [
@@ -91595,6 +91609,13 @@
     }
   ],
   "the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019": [
     {
       "key": "science",
       "label": "Science",

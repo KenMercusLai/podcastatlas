@@ -4,6 +4,7 @@ type: concept
 tags: [mdma, ptsd, psychotherapy, trauma, clinical-research]
 sources:
   - the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449
+  - the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019
 knowledge_schema: synthesis-v1
 last_updated: 2026-09-28
 ---
@@ -18,7 +19,9 @@ The source's central distinction is between a drug effect and a treatment progra
 
 The proposed mechanism is multi-level. Reduced amygdala activity and reduced amygdala-insula connectivity are linked in the episode to lower threat burden and symptom improvement, while dopamine-mediated reinforcement and serotonin-linked sociability may make supported social engagement more rewarding. This overlaps with [[TherapeuticStateLearning]] and [[MemoryReconsolidationPsychiatry]] without proving that any one circuit or subjective feeling causes remission.
 
-The episode reports substantial response and loss-of-diagnosis proportions in the MDMA-plus-therapy arm of a phase-three comparison, including people with severe or dissociative PTSD. Those figures are clinically important within the source, but the supplied note lacks the primary trial's full methods and later regulatory history, so they remain dated, source-scoped evidence rather than treatment guidance.
+The MDMA source reports substantial response and loss-of-diagnosis proportions in the MDMA-plus-therapy arm of a phase-three comparison, including people with severe or dissociative PTSD. Carhart-Harris adds a comparative clinical-process account: MDMA sessions are described as more dialogic, relational, and directionally positive than classic psychedelic sessions, potentially allowing traumatic material to be revisited while the participant feels safer and more trusting.
+
+That comparison supports mechanism differentiation rather than a hierarchy of compounds. It may help explain why MDMA fits trauma-focused talk therapy, but it does not establish that MDMA is easier, safer, approved, or appropriate for a given person. Both sources keep the intervention inside preparation, monitoring, psychotherapy, integration, identified product, and professional safeguards.
 
 ## Key Claims
 - MDMA is presented as an adjunct that may enhance psychotherapy, not a stand-alone PTSD cure.
@@ -26,20 +29,22 @@ The episode reports substantial response and loss-of-diagnosis proportions in th
 - Reduced threat appraisal may allow traumatic memories to be examined without erasing the memories themselves.
 - Amygdala-insula changes, social reward, and altered trust are proposed mechanisms rather than a settled causal chain.
 - The discussed trial reported stronger response and remission outcomes for MDMA plus therapy than for therapy plus placebo.
-- Severe and dissociative PTSD are important target contexts because avoidance or disconnection can make traumatic material difficult to access.
-- Trial findings do not establish current approval, individual eligibility, or safe unsupervised use.
+- MDMA is described as more interpersonal and positively valenced than classic psychedelics, a possible reason it fits supported trauma dialogue.
+- Trial findings and compound comparisons do not establish current approval, individual eligibility, superiority, or safe unsupervised use.
 
 ## Evidence
 - Adjunctive design - [[the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449]] repeatedly separates MDMA alone from MDMA combined with structured talk therapy.
 - Threat-circuit account - [[the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449]] links reduced amygdala activity and amygdala-insula connectivity with reduced threat burden and PTSD symptoms.
 - Protocol - [[the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449]] describes preparatory sessions, three MDMA-or-placebo sessions, paired therapists, and follow-up integration.
 - Outcome signal - [[the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449]] reports higher clinical response and loss-of-diagnosis proportions in the MDMA-plus-therapy arm.
+- Comparative process - [[the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019]] describes MDMA therapy as more dialogic and relational than classic psychedelic sessions, with a safer-feeling approach to trauma as a hypothesis.
 
 ## Counterevidence & Qualifications
-The supplied source is public education based on the evidence available in June 2023, not the primary trial report or current regulatory record. Placebo masking, therapist effects, participant selection, adverse-event ascertainment, durability, comorbidities, expectancy, and later evidence cannot be fully evaluated from the note. The concept provides no dosing, sourcing, eligibility, or self-treatment instructions and remains inside [[PsychedelicClinicalSupervisionBoundary]].
+The supplied sources are public education from May and June 2023, not the primary trial reports or current regulatory record. Placebo masking, therapist effects, participant selection, adverse-event ascertainment, durability, comorbidities, expectancy, comparative efficacy, and later evidence cannot be fully evaluated from the notes. The concept provides no dosing, sourcing, eligibility, or self-treatment instructions and remains inside [[PsychedelicClinicalSupervisionBoundary]].
 
 ## What Changed
 - Created a dedicated concept separating the complete therapy program from the acute MDMA state.
+- Added the qualified contrast with classic psychedelic therapy: more dialogue, affiliation, and safer-feeling trauma approach without claiming superiority.
 
 ## Related Concepts
 - [[MDMA]] - pharmacological adjunct used in the intervention.
@@ -48,3 +53,5 @@ The supplied source is public education based on the evidence available in June 
 - [[TraumaNarrativeIntegration]] - narrative branch for approaching and reframing traumatic material.
 - [[PsychedelicClinicalSupervisionBoundary]] - evidence, screening, legal, and supervision gate.
 - [[MDMANeurotoxicityRisk]] - compound-specific benefit-risk qualification.
+- [[PsychedelicTherapyMechanism]] - related classic-psychedelic model with a different acute therapeutic process.
+- [[PsychedelicIntegration]] - follow-up process shared across assisted-therapy models.

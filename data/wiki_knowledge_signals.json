@@ -20026,9 +20026,9 @@
       "url": "/wiki/concepts/brainimmunestatecoupling/"
     },
     "BrainNetworkModularity": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM4205449835 [SCIM4205449835].md",
@@ -20036,9 +20036,16 @@
           "show": "Huberman Lab",
           "title": "How to Optimize Cognitive Function & Brain Health | Dr. Mark D'Esposito",
           "url": "/wiki/sources/how-to-optimize-cognitive-function-brain-health-dr-mark-desposito-scim4205449835/"
+        },
+        {
+          "episode_file": "SCIM8487331019 [SCIM8487331019].md",
+          "key": "the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019",
+          "show": "Huberman Lab",
+          "title": "The Science of Psychedelics for Mental Health | Dr. Robin Carhart-Harris",
+          "url": "/wiki/sources/the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/brainnetworkmodularity/"
     },
     "BrandBelief": {
@@ -105066,9 +105073,9 @@
       "url": "/wiki/entities/mdma/"
     },
     "MDMAAssistedPTSDTherapy": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM6952643449 [SCIM6952643449].md",
@@ -105076,6 +105083,13 @@
           "show": "Huberman Lab",
           "title": "The Science of MDMA & Its Therapeutic Uses: Benefits & Risks",
           "url": "/wiki/sources/the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449/"
+        },
+        {
+          "episode_file": "SCIM8487331019 [SCIM8487331019].md",
+          "key": "the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019",
+          "show": "Huberman Lab",
+          "title": "The Science of Psychedelics for Mental Health | Dr. Robin Carhart-Harris",
+          "url": "/wiki/sources/the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019/"
         }
       ],
       "updated": "2026-09-28",
@@ -131636,9 +131650,9 @@
       "url": "/wiki/concepts/pseudoproductivity/"
     },
     "PsychedelicClinicalSupervisionBoundary": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM5296180263 [SCIM5296180263].md",
@@ -131674,10 +131688,33 @@
           "show": "Huberman Lab",
           "title": "The Science of MDMA & Its Therapeutic Uses: Benefits & Risks",
           "url": "/wiki/sources/the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449/"
+        },
+        {
+          "episode_file": "SCIM8487331019 [SCIM8487331019].md",
+          "key": "the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019",
+          "show": "Huberman Lab",
+          "title": "The Science of Psychedelics for Mental Health | Dr. Robin Carhart-Harris",
+          "url": "/wiki/sources/the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019/"
         }
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/psychedelicclinicalsupervisionboundary/"
+    },
+    "PsychedelicIntegration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8487331019 [SCIM8487331019].md",
+          "key": "the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019",
+          "show": "Huberman Lab",
+          "title": "The Science of Psychedelics for Mental Health | Dr. Robin Carhart-Harris",
+          "url": "/wiki/sources/the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/psychedelicintegration/"
     },
     "PsychedelicOrdinaryFreedom": {
       "episode_count": 1,
@@ -131694,6 +131731,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/psychedelicordinaryfreedom/"
+    },
+    "PsychedelicTherapyMechanism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8487331019 [SCIM8487331019].md",
+          "key": "the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019",
+          "show": "Huberman Lab",
+          "title": "The Science of Psychedelics for Mental Health | Dr. Robin Carhart-Harris",
+          "url": "/wiki/sources/the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/psychedelictherapymechanism/"
     },
     "PsychiatricDiagnosisMechanismBoundary": {
       "episode_count": 1,
@@ -139207,6 +139260,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/robertoridolfi/"
+    },
+    "RobinCarhartHarris": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8487331019 [SCIM8487331019].md",
+          "key": "the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019",
+          "show": "Huberman Lab",
+          "title": "The Science of Psychedelics for Mental Health | Dr. Robin Carhart-Harris",
+          "url": "/wiki/sources/the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/robincarhartharris/"
     },
     "RobotAgenticOS": {
       "episode_count": 1,

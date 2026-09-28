@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 11222
+wiki_total_pages: 11223
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -563,6 +563,9 @@ wiki_pages:
   - key: "RobertoRidolfi"
     title: "Roberto Ridolfi"
     url: "/wiki/entities/robertoridolfi/"
+  - key: "RobinCarhartHarris"
+    title: "Robin Carhart-Harris"
+    url: "/wiki/entities/robincarhartharris/"
   - key: "RobinDunbar"
     title: "Robin Dunbar / 罗宾·邓巴"
     url: "/wiki/entities/robindunbar/"
