@@ -25099,3 +25099,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | 304: The Murder of Julius Caesar
+
+Added source `304-the-murder-of-julius-caesar-glt3561951089`; updated `JuliusCaesar`, `CaesarAssassination`, `MarcusBrutus`, `DecimusJuniusBrutus`, `CatoTheYounger`, `LateRomanRepublicCrisis`, and `PersonalRuleLegitimacyCrisis` from their complete bounded source sets. Core synthesis: Caesar's reforms and clemency coexisted with lifetime dictatorship and monarchy-adjacent signals; Cato turned refusal of pardon into a posthumous republican victory; Brutus experienced clemency as potential dependence; Decimus converted trusted access into operational betrayal; and the conspirators chose a public political killing without a workable post-assassination settlement. No settled contradiction was adopted. Omens, dreams, last words, paternity rumors, the Lupercalia's staging, exact motives, wound details, and conspirator numbers remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

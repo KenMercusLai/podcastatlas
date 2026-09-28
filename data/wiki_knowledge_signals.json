@@ -22454,9 +22454,9 @@
       "url": "/wiki/entities/cadbury/"
     },
     "CaesarAssassination": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
@@ -22478,6 +22478,13 @@
           "show": "The Rest Is History",
           "title": "305: The Fall of the Roman Republic",
           "url": "/wiki/sources/305-the-fall-of-the-roman-republic-glt6995332578/"
+        },
+        {
+          "episode_file": "GLT3561951089 [GLT3561951089].md",
+          "key": "304-the-murder-of-julius-caesar-glt3561951089",
+          "show": "The Rest Is History",
+          "title": "304: The Murder of Julius Caesar",
+          "url": "/wiki/sources/304-the-murder-of-julius-caesar-glt3561951089/"
         }
       ],
       "updated": "2026-09-29",
@@ -25885,6 +25892,29 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/catholicburiallegitimacy/"
+    },
+    "CatoTheYounger": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
+          "key": "124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361",
+          "show": "蜜獾吃书",
+          "title": "124. 恺撒之死：历史的韵脚，是否已失效？",
+          "url": "/wiki/sources/124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361/"
+        },
+        {
+          "episode_file": "GLT3561951089 [GLT3561951089].md",
+          "key": "304-the-murder-of-julius-caesar-glt3561951089",
+          "show": "The Rest Is History",
+          "title": "304: The Murder of Julius Caesar",
+          "url": "/wiki/sources/304-the-murder-of-julius-caesar-glt3561951089/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/catotheyounger/"
     },
     "CelebrityCostumePortraiture": {
       "episode_count": 1,
@@ -41342,6 +41372,29 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/deceptivesurrenderlull/"
+    },
+    "DecimusJuniusBrutus": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
+          "key": "124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361",
+          "show": "蜜獾吃书",
+          "title": "124. 恺撒之死：历史的韵脚，是否已失效？",
+          "url": "/wiki/sources/124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361/"
+        },
+        {
+          "episode_file": "GLT3561951089 [GLT3561951089].md",
+          "key": "304-the-murder-of-julius-caesar-glt3561951089",
+          "show": "The Rest Is History",
+          "title": "304: The Murder of Julius Caesar",
+          "url": "/wiki/sources/304-the-murder-of-julius-caesar-glt3561951089/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/decimusjuniusbrutus/"
     },
     "DecisionActionCostAsymmetry": {
       "episode_count": 1,
@@ -93409,9 +93462,9 @@
       "url": "/wiki/entities/juliettebruce/"
     },
     "JuliusCaesar": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
@@ -93433,9 +93486,16 @@
           "show": "The Rest Is History",
           "title": "361. The Lost Library of Alexandria",
           "url": "/wiki/sources/361-the-lost-library-of-alexandria-glt1578679297/"
+        },
+        {
+          "episode_file": "GLT3561951089 [GLT3561951089].md",
+          "key": "304-the-murder-of-julius-caesar-glt3561951089",
+          "show": "The Rest Is History",
+          "title": "304: The Murder of Julius Caesar",
+          "url": "/wiki/sources/304-the-murder-of-julius-caesar-glt3561951089/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-29",
       "url": "/wiki/entities/juliuscaesar/"
     },
     "JuliusKurfgen": {
@@ -97170,9 +97230,9 @@
       "url": "/wiki/concepts/latemedievalsalvationsystem/"
     },
     "LateRomanRepublicCrisis": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 2,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
@@ -97215,6 +97275,13 @@
           "show": "The Rest Is History",
           "title": "305: The Fall of the Roman Republic",
           "url": "/wiki/sources/305-the-fall-of-the-roman-republic-glt6995332578/"
+        },
+        {
+          "episode_file": "GLT3561951089 [GLT3561951089].md",
+          "key": "304-the-murder-of-julius-caesar-glt3561951089",
+          "show": "The Rest Is History",
+          "title": "304: The Murder of Julius Caesar",
+          "url": "/wiki/sources/304-the-murder-of-julius-caesar-glt3561951089/"
         }
       ],
       "updated": "2026-09-29",
@@ -110748,9 +110815,9 @@
       "url": "/wiki/entities/marconiunion/"
     },
     "MarcusBrutus": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
@@ -110772,6 +110839,13 @@
           "show": "The Rest Is History",
           "title": "305: The Fall of the Roman Republic",
           "url": "/wiki/sources/305-the-fall-of-the-roman-republic-glt6995332578/"
+        },
+        {
+          "episode_file": "GLT3561951089 [GLT3561951089].md",
+          "key": "304-the-murder-of-julius-caesar-glt3561951089",
+          "show": "The Rest Is History",
+          "title": "304: The Murder of Julius Caesar",
+          "url": "/wiki/sources/304-the-murder-of-julius-caesar-glt3561951089/"
         }
       ],
       "updated": "2026-09-29",
@@ -130042,6 +130116,43 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/personalrisktrustsignal/"
+    },
+    "PersonalRuleLegitimacyCrisis": {
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
+          "key": "126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780",
+          "show": "蜜獾吃书",
+          "title": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖",
+          "url": "/wiki/sources/126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780/"
+        },
+        {
+          "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
+          "key": "124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361",
+          "show": "蜜獾吃书",
+          "title": "124. 恺撒之死：历史的韵脚，是否已失效？",
+          "url": "/wiki/sources/124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361/"
+        },
+        {
+          "episode_file": "11.雍正王朝之大义觉迷：史景迁笔下的千古奇案 [547265513].md",
+          "key": "11-yongzheng-wangchao-zhi-dayi-juemi-shijingqian-bi-xia-de-qiangu-qi-an-547265513",
+          "show": "蜜獾吃书",
+          "title": "11.雍正王朝之大义觉迷：史景迁笔下的千古奇案",
+          "url": "/wiki/sources/11-yongzheng-wangchao-zhi-dayi-juemi-shijingqian-bi-xia-de-qiangu-qi-an-547265513/"
+        },
+        {
+          "episode_file": "GLT3561951089 [GLT3561951089].md",
+          "key": "304-the-murder-of-julius-caesar-glt3561951089",
+          "show": "The Rest Is History",
+          "title": "304: The Murder of Julius Caesar",
+          "url": "/wiki/sources/304-the-murder-of-julius-caesar-glt3561951089/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/personalrulelegitimacycrisis/"
     },
     "PersonalityTestIdentityBoundary": {
       "episode_count": 1,

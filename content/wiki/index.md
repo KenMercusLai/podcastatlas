@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [GUEST SERIES | Dr. Andy Galpin: Maximize Recovery to Achieve Fitness & Performance Goals](sources/guest-series-dr-andy-galpin-maximize-recovery-to-achieve-fitness-performance-goals-scim4488298115.md) — Huberman Lab guest-series episode on soreness, the training stress-recovery continuum, multi-domain monitoring, HRV trends, and goal-sensitive recovery tools.
+- [304: The Murder of Julius Caesar](sources/304-the-murder-of-julius-caesar-glt3561951089.md) — The Rest Is History episode on Caesar's dictatorship, monarchy fears, Cato and Brutus, the Ides of March plot, and the conspirators' missing political settlement.
 - [305: The Fall of the Roman Republic](sources/305-the-fall-of-the-roman-republic-glt6995332578.md) — The Rest Is History episode on the failed post-Caesar settlement, Octavian's rise, the Second Triumvirate, proscriptions, Philippi, and the Augustan end of the Republic.
 - [306: Columbus: The Adventure Begins (Part 1)](sources/306-columbus-the-adventure-begins-part-1-glt6089901915.md) — The Rest Is History episode on Columbus's Genoese-Portuguese formation, geographic error, religious and status ambition, repeated rejection, and 1492 royal sponsorship.
 - [VOL.22肿瘤肝胆外科｜关于肝炎、肝硬化和肝癌 我们应该知道这些事](sources/vol-22-zhongliu-gandan-waike-guanyu-ganyan-ganyinghua-he-ganai-women-yinggai-zhidao-zhexie-shi-lmmkgp8rpb2mvtk7slmtatq_jheg.md) — 这病说来话长 episode on hepatitis prevention, silent liver disease, fatty-liver context, liver-cancer surveillance and treatment, and cancer nutrition support.
@@ -11053,14 +11054,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [François Jourgniac Saint-Méard](entities/FrancoisJourgniacSaintMeard.md) — Abbaye survivor whose account documents the massacres' selective, tribunal-like procedure.
 - [Stanislas Maillard](entities/StanislasMaillard.md) — Identifiable local organizer associated with September Massacres killing teams and improvised tribunals.
 - [Thomas Paine / 托马斯·潘恩](entities/ThomasPaine.md) — Transatlantic republican whose mass persuasion for American independence coexisted with opposition to revolutionary execution in France.
-- [Julius Caesar / 尤利乌斯·恺撒](entities/JuliusCaesar.md) — Roman commander whose frontier prestige, personal rule, assassination, and disputed Alexandrian-library role shaped competing legacies.
+- [Julius Caesar / 尤利乌斯·恺撒](entities/JuliusCaesar.md) — Roman commander, reformer, and dictator whose military prestige, clemency, monarchy signals, assassination, and disputed Alexandrian-library role shaped competing legacies.
 - [Roman Republic / 罗马共和国](entities/RomanRepublic.md) — Expansionary polity whose civic-military capacity, command crisis, failed post-Caesar settlement, and triumviral defeat expose both republican strength and collapse.
 - [Roman Empire / 罗马帝国](entities/RomanEmpire.md) — Imperial order emerging after Caesar's assassination, appearing as Da Qin in Gan Ying's Eastern Han mission, and serving as the western endpoint of a qualified Hunnic/Gothic pressure sequence.
 - [阿提拉 / Attila the Hun](entities/AttilaTheHun.md) — Hunnic leader used in Hanji 764 as the remembered late figure in the qualified migration-pressure chain from steppe displacement to Roman crisis.
-- [Assassination of Julius Caesar / 恺撒遇刺](entities/CaesarAssassination.md) — Ides of March event whose failed political settlement leads from funeral backlash through triumviral rule and Philippi.
-- [Marcus Brutus / 马库斯·布鲁图斯](entities/MarcusBrutus.md) — Republican conspirator whose symbolic authority, failed city control, eastern coercion, and death at Philippi complicate the liberator memory.
+- [Assassination of Julius Caesar / 恺撒遇刺](entities/CaesarAssassination.md) — Public Ides of March tyrannicide planned without a political settlement and followed by funeral backlash, triumviral rule, and Philippi.
+- [Marcus Brutus / 马库斯·布鲁图斯](entities/MarcusBrutus.md) — Pardoned republican conspirator whose ancestry, Cato connection, symbolic authority, failed city control, eastern coercion, and death at Philippi complicate the liberator memory.
 - [Gaius Cassius Longinus / 卡西乌斯](entities/GaiusCassiusLonginus.md) — Assassination organizer and eastern commander whose premature suicide at Philippi fractures the republican coalition.
-- [Decimus Junius Brutus / 德奇姆斯](entities/DecimusJuniusBrutus.md) — Caesar confidant and conspirator whose access helped bring Caesar to the fatal Senate meeting.
+- [Decimus Junius Brutus / 德奇姆斯](entities/DecimusJuniusBrutus.md) — Caesar confidant and conspirator whose trusted access brought Caesar to the fatal Senate meeting before Decimus's own post-assassination defeat.
 - [Mark Antony / 马克·安东尼](entities/MarkAntony.md) — Caesar ally who converts funeral politics and military recovery into triumviral power before his later defeat by Octavian.
 - [Octavian / Augustus / 屋大维](entities/OctavianAugustus.md) — Caesar's teenage heir who converts name, money, troops, consulship, and civil-war victory into the Augustan settlement.
 - [Cleopatra VII / 克娄巴特拉七世](entities/CleopatraVII.md) — Egyptian queen whose relation to Caesar and Antony intensifies Roman fears around monarchy, divinity, and succession.
@@ -11069,7 +11070,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Cicero / 西塞罗](entities/Cicero.md) — Republican orator whose amnesty, anti-Antony campaign, military dependence, and proscription death expose the limits of constitutional speech.
 - [Second Triumvirate / 第二次三头同盟](entities/SecondTriumvirate.md) — Legally empowered alliance of Octavian, Antony, and Lepidus that combines dictatorship, proscription, war finance, and revenge.
 - [Battle of Philippi / 腓立比战役](entities/BattleOfPhilippi.md) — Macedonian campaign where the triumviral coalition defeats Brutus and Cassius and destroys the principal republican armies.
-- [Cato the Younger / 小加图](entities/CatoTheYounger.md) — Stoic republican opponent of Caesar and moral reference point for anti-dictatorship politics.
+- [Cato the Younger / 小加图](entities/CatoTheYounger.md) — Stoic republican opponent whose suicide denied Caesar a clemency victory and made Cato a posthumous anti-dictatorship standard.
 - [Gaius Marius / 马略](entities/GaiusMarius.md) — Provincial new man and soldier-politician whose rise, victories, command seizure, exile, armed return, death, and factional afterlife shape the Sullan crisis.
 - [Lucius Cornelius Sulla / 苏拉](entities/LuciusCorneliusSulla.md) — Marius subordinate turned rival, first marcher on Rome, eastern victor, proscriptions author, dictator, reformer, and abdicator whose precedent shadows Caesar.
 - [Jugurtha / 朱古达](entities/Jugurtha.md) — Numidian king whose war exposes Roman corruption, gives Marius the African command opportunity, and creates Sulla's early credit claim.
@@ -20604,7 +20605,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Revolutionary Martyrdom Image-Making / 革命殉道图像制造](concepts/RevolutionaryMartyrdomImageMaking.md) — Frame for how David's The Death of Marat turns political violence into saint-like revolutionary sacrifice.
 - [Science Under Revolutionary Suspicion / 革命怀疑下的科学](concepts/ScienceUnderRevolutionarySuspicion.md) — Episode 125's Lavoisier thread on how expert institutions become vulnerable when knowledge is read as privilege or conspiracy.
 - [Revolutionary Virtue Politics / 革命美德政治](concepts/RevolutionaryVirtuePolitics.md) — Moralized revolutionary language where sincerity, virtue, public emotion, and suspicion of hidden interests can feed terror.
-- [Late Roman Republic Crisis / 罗马共和国晚期危机](concepts/LateRomanRepublicCrisis.md) — Structural frame for breakdown through expansion, inequality, Gracchan violence, citizenship exclusion, public-enemy outlawry, Marius-Sulla command politics, proscriptions, dictatorship, and later Caesarism.
+- [Late Roman Republic Crisis / 罗马共和国晚期危机](concepts/LateRomanRepublicCrisis.md) — Structural frame for breakdown through expansion, inequality, citizenship exclusion, commander-centered power, civil-war precedent, Caesar's lifetime dictatorship, and the failed post-assassination settlement.
 - [Military Personalization / 军队私人化](concepts/MilitaryPersonalization.md) — Comparative mechanism where armies attach to commanders, rewards, battlefield proof, personal ambition, private forces, confiscation, and constitutional redesign.
 - [Roman Expansion Moral Anxiety / 罗马扩张的道德焦虑](concepts/RomanExpansionMoralAnxiety.md) — Frame for how Mediterranean success, Campanian wealth, Asian extraction, luxury, publicani, anti-Roman propaganda, and Greek revolt fed republican crisis.
 - [Republican Emergency Violence Precedent / 共和紧急暴力先例](concepts/RepublicanEmergencyViolencePrecedent.md) — Pattern where republican protections are overridden by crisis violence, from the Gracchi aftermath to Sulpicius's street coercion, public-enemy outlawry, Sullan massacre, and proscriptions.
@@ -20616,7 +20617,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Novus Homo Outsider Politics / 新人局外人政治](concepts/NovusHomoOutsiderPolitics.md) — Marius-style path where military merit, provincial authenticity, patronage, and anti-elite positioning compensate for weak lineage.
 - [Cursus Honorum / 晋升官阶](concepts/CursusHonorum.md) — Roman office ladder whose consulship goal and command stakes make Marius's outsider ascent politically charged.
 - [Popularis Politics / 民众派政治](concepts/PopularisPolitics.md) — Late-republic public-legitimacy mode using tribunate authority, anti-elite positioning, citizenship claims, street mobilization, and command-transfer votes.
-- [Personal Rule Legitimacy Crisis / 个人统治正当性危机](concepts/PersonalRuleLegitimacyCrisis.md) — Caesar's final problem of vast authority without an accepted republican form for one-person rule or succession.
+- [Personal Rule Legitimacy Crisis / 个人统治正当性危机](concepts/PersonalRuleLegitimacyCrisis.md) — Comparative problem in which coercive or symbolic authority fails to secure accepted rule, succession, or durable governing consent.
 - [Tyrannicide Republican Dilemma / 弑君式共和困境](concepts/TyrannicideRepublicanDilemma.md) — Moral-political problem where killing a would-be tyrant can be intelligible but insufficient to rebuild institutions.
 - [Republican Memory Against Dictatorship / 反独裁的共和记忆](concepts/RepublicanMemoryAgainstDictatorship.md) — Episode 124's frame for the warning against open dictatorship that survived even though the Roman Republic did not.
 - [Historical Rhyme Political Reading / 历史押韵式政治阅读](concepts/HistoricalRhymePoliticalReading.md) — Interpretive method using Rome to notice recurring political patterns without forcing one-to-one historical analogy.

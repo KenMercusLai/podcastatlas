@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2168
+topic_total_pages: 2169
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4716,6 +4716,9 @@ topic_sources:
   - key: "30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138"
     title: "30.孟子：战国愤青的赤子之心"
     url: "/wiki/sources/30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138/"
+  - key: "304-the-murder-of-julius-caesar-glt3561951089"
+    title: "304: The Murder of Julius Caesar"
+    url: "/wiki/sources/304-the-murder-of-julius-caesar-glt3561951089/"
   - key: "305-the-fall-of-the-roman-republic-glt6995332578"
     title: "305: The Fall of the Roman Republic"
     url: "/wiki/sources/305-the-fall-of-the-roman-republic-glt6995332578/"
