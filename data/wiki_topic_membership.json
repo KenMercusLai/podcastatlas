@@ -1521,6 +1521,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "347-the-american-revolution-part-1-glt3042850673": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "348-the-boston-tea-party-part-2-glt5189620267": [
     {
       "key": "history",
@@ -14472,6 +14479,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "BostonMassacre": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "BottomUpEnterpriseDistribution": [
@@ -58615,6 +58629,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "PostwarImperialFiscalSecurityBind": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "PostwarKeynesianRetreat": [
     {
       "key": "economics",
@@ -59512,6 +59533,13 @@
     }
   ],
   "ProceduralizedViolence": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "ProclamationLine1763": [
     {
       "key": "politics",
       "label": "Politics",

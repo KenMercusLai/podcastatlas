@@ -5,6 +5,7 @@ tags: [person, founding, diplomacy, science, united-states]
 sources:
   - 684-franklin-revenge-of-the-american-genius-part-2-glt6013835340
   - 316-the-first-abolitionist-glt2136062721
+  - 347-the-american-revolution-part-1-glt3042850673
 last_updated: 2026-09-05
 knowledge_schema: synthesis-v1
 ---
@@ -19,7 +20,7 @@ Benjamin Franklin is presented as a printer, journalist, inventor, scientist, di
 
 The episode 684 profile is neither a static patriotic icon nor only a charming polymath. Franklin begins inside Boston Puritan discipline and British imperial loyalty, becomes famous through printing, moral journalism, practical invention, and electrical science, then breaks with Britain after the Hutchinson letters, the Cockpit humiliation, and the outbreak of war. His decisive contribution comes in France, where celebrity, costume, salons, and Enlightenment symbolism become tools for securing the [[FrancoAmericanAlliance1778|Franco-American alliance]].
 
-The Lay episode adds an earlier anti-slavery network around Franklin's printing world. Franklin prints Lay's 1737 anti-slavery book and is described as Lay's friend and sympathetic, while still owning enslaved people at the time. The profile therefore has a sharper moral chronology: Franklin's late abolitionist turn matters, but even his earlier proximity to abolitionist argument coexisted with personal and social entanglement in slavery.
+The Lay episode adds an earlier anti-slavery network around Franklin's printing world. Franklin prints Lay's 1737 anti-slavery book and is described as Lay's friend and sympathetic, while still owning enslaved people at the time. The Revolution's opening episode further shows his position inside colonial imperial society: he helped furnish wagons for Braddock's expedition, studied George Whitefield's ability to reach large crowds, and used testimony about homespun production to describe resistance to British imports. The profile therefore has a sharper moral and political chronology: Franklin's late abolitionist turn and revolutionary diplomacy matter, but both emerged from long participation in colonial print, science, empire, commerce, and slavery.
 
 ## Key Characteristics
 
@@ -40,15 +41,17 @@ The Lay episode adds an earlier anti-slavery network around Franklin's printing 
 - French diplomacy: [[684-franklin-revenge-of-the-american-genius-part-2-glt6013835340]] says Franklin's Paris mission used celebrity, costume, Voltaire symbolism, and salon sociability to help secure French military and financial backing.
 - Slavery qualification: [[684-franklin-revenge-of-the-american-genius-part-2-glt6013835340]] says Franklin owned enslaved people, wrote an anonymous 1770 defense of slavery, petitioned Congress against slavery in February 1790, and published a final anti-slavery satire.
 - Early abolitionist printing connection: [[316-the-first-abolitionist-glt2136062721]] says Franklin printed [[BenjaminLay]]'s 1737 anti-slavery book and was Lay's friend and sympathetic, even though Franklin owned slaves at the time.
+- Colonial networks and imperial war: [[347-the-american-revolution-part-1-glt3042850673]] says Franklin helped furnish wagons for Braddock's expedition and analyzed George Whitefield's voice projection during the Great Awakening.
+- Boycott testimony: [[347-the-american-revolution-part-1-glt3042850673]] uses Franklin's claim about preserving lambs for wool to illustrate homespun production during non-importation resistance.
 
 ## Qualifications
 
-The main Franklin episode is interpretive biography, not a complete archival life. It emphasizes personality, public image, and diplomatic effect; Franklin's private motives, the exact weight of his persona in French policy, and his inner moral change on slavery remain source-scoped. The Lay episode is not a Franklin biography, so the printing connection should be read as early abolitionist-network evidence, not as proof that Franklin had already adopted Lay's position. The slavery evidence is not treated as redeemed by the late petition; it remains part of the current profile.
+The main Franklin episode is interpretive biography, not a complete archival life. It emphasizes personality, public image, and diplomatic effect; Franklin's private motives, the exact weight of his persona in French policy, and his inner moral change on slavery remain source-scoped. The Lay and Revolution episodes are not Franklin biographies, so their printing, Braddock, Whitefield, and homespun details establish network and public-role context rather than a complete account. The slavery evidence is not treated as redeemed by the late petition; it remains part of the current profile.
 
 ## What Changed
 
-- Created Franklin as the central figure for episode 684's Founding Fathers branch.
-- Added the Lay episode's early anti-slavery printing connection, sharpening the gap between Franklin's exposure to abolitionist argument and his continuing slaveholding.
+- Extended Franklin's pre-revolutionary profile through imperial logistics, evangelical communication, and consumer-boycott testimony.
+- Clarified that the later founder and diplomat emerged from long participation in colonial public networks.
 
 ## Relationships
 
@@ -64,3 +67,5 @@ The main Franklin episode is interpretive biography, not a complete archival lif
 - [[DiplomaticPersonaAsStrategicAsset]] - concept grounded by Franklin's French public image.
 - [[FoundingLibertySlaverySelfCorrection]] - concept tracking Franklin's slaveholding and late abolitionist turn.
 - [[AbolitionistPublicWitness]] - Lay-centered abolitionist activism branch connected to Franklin through printing.
+- [[SevenYearsWar]] - imperial conflict whose Braddock expedition Franklin helped provision.
+- [[PostwarImperialFiscalSecurityBind]] - context in which Franklin's colonial public role became revolutionary resistance.

@@ -8,6 +8,7 @@ sources:
   - 350-the-triumph-of-george-washington-part-4-glt1619660676
   - 349-the-birth-of-the-united-states-part-3-glt9804967639
   - 348-the-boston-tea-party-part-2-glt5189620267
+  - 347-the-american-revolution-part-1-glt3042850673
 last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
@@ -20,7 +21,7 @@ The American Revolution appears as a colonial rupture, civil conflict, and globa
 
 ## Current Profile
 
-The current synthesis begins with competing British constitutional claims rather than inevitable separatism. The Tea Act, [[BostonTeaParty|Boston Tea Party]], [[CoerciveActs|Coercive Acts]], and [[ContinentalCongress|First Continental Congress]] turned a taxation and sovereignty dispute into coordinated resistance; [[LexingtonAndConcord|Lexington and Concord]] and [[BattleOfBunkerHill|Bunker Hill]] then made armed conflict durable while many colonists still professed loyalty to George III. [[CommonSensePamphlet|Common Sense]] and the [[DeclarationOfIndependence|Declaration]] converted that rupture into an explicit republican and universal cause, even as slavery contradicted equality at the founding. Washington's survival strategy and French intervention carried the conflict to [[Yorktown]], widening political capacity for many ordinary white men while exposing Native nations, women, and Black people to different combinations of exclusion, dispossession, service, emancipation, and re-enslavement.
+The current synthesis begins with the [[SevenYearsWar|Seven Years' War]] settlement rather than inevitable separatism. Victory removed the French threat but left Britain with debt, frontier obligations, troops, and new administrative demands; the [[ProclamationLine1763|Proclamation Line]], customs enforcement, and taxation then activated an [[ImperialConstitutionalMismatch|imperial constitutional mismatch]] between parliamentary supremacy and colonial self-government. The Tea Act, [[BostonTeaParty|Boston Tea Party]], [[CoerciveActs|Coercive Acts]], and [[ContinentalCongress|First Continental Congress]] turned that dispute into coordinated resistance; [[LexingtonAndConcord|Lexington and Concord]] and [[BattleOfBunkerHill|Bunker Hill]] made armed conflict durable while many colonists still professed loyalty to George III. [[CommonSensePamphlet|Common Sense]] and the [[DeclarationOfIndependence|Declaration]] converted rupture into an explicit republican and universal cause, even as slavery contradicted equality at the founding. Washington's survival strategy and French intervention carried the conflict to [[Yorktown]], widening political capacity for many ordinary white men while exposing Native nations, women, and Black people to different combinations of exclusion, dispossession, service, emancipation, and re-enslavement.
 
 ## Key Characteristics
 
@@ -35,6 +36,9 @@ The current synthesis begins with competing British constitutional claims rather
 ## Evidence
 
 - Rupture sequence: [[684-franklin-revenge-of-the-american-genius-part-2-glt6013835340]] follows Franklin from loyal Englishman to independence supporter after the Hutchinson letters, Cockpit humiliation, and outbreak of fighting.
+- Structural prehistory: [[347-the-american-revolution-part-1-glt3042850673]] links Seven Years' War victory to British debt, Quebec, frontier security, the Proclamation Line, troops, and colonial revenue.
+- Constitutional collision: [[347-the-american-revolution-part-1-glt3042850673]] contrasts Parliament's non-negotiable sovereignty with colonists' demand for self-taxation and practical government within the empire.
+- Early resistance: [[347-the-american-revolution-part-1-glt3042850673]] follows Sugar and Stamp Act enforcement, consumer boycotts, political crowds, troops in Boston, and the Boston Massacre while preserving independence as contingent in 1770.
 - Prewar escalation: [[348-the-boston-tea-party-part-2-glt5189620267]] links the Tea Act and Boston Tea Party to the Coercive Acts, intercolonial coordination, collapsing royal authority, and armed preparation.
 - Armed threshold: [[348-the-boston-tea-party-part-2-glt5189620267]] follows Lexington, Concord, and Bunker Hill as costly evidence that British tactical action could not easily restore political control.
 - Ideological declaration: [[349-the-birth-of-the-united-states-part-3-glt9804967639]] links Paine's mass republican persuasion to a Declaration designed for unity, public justification, and diplomacy.
@@ -49,14 +53,13 @@ The current synthesis begins with competing British constitutional claims rather
 
 ## Qualifications
 
-The sources provide broad podcast synthesis rather than a complete revolutionary history. Loyalist, Native, Black, female, southern, naval, Quebec, Caribbean, and ordinary civilian experiences remain compressed. Claims about precise forces and casualties, British restraint, the decisive weight of Dunmore's proclamation, missed opportunities to destroy Washington, a peaceful imperial path, or alternative British commanders remain source-scoped or speculative.
+The sources provide broad podcast synthesis rather than a complete revolutionary history. Loyalist, Native, Black, female, southern, naval, Quebec, Caribbean, western-frontier, and ordinary civilian experiences remain compressed. Claims about fiscal totals, the Great Awakening's causal weight, precise forces and casualties, British restraint, the decisive weight of Dunmore's proclamation, missed opportunities to destroy Washington, a peaceful imperial path, or alternative British commanders remain source-scoped or speculative.
 
 ## What Changed
 
-- Backfilled the ideological and operational middle from Paine and the Declaration through New York, Trenton-Princeton, and Saratoga.
-- Connected universal independence language to both foreign support and the founding slavery contradiction.
-- Added the Tea Act-to-Bunker Hill escalation sequence and preserved continued colonial loyalty before independence.
-- Moved Dunmore's proclamation into the war's liberty-slavery and allegiance analysis.
+- Extended the causal sequence backward from the Tea Act to the Seven Years' War settlement, frontier governance, debt, customs enforcement, and taxation.
+- Clarified that incompatible constitutional assumptions and material imperial costs interacted without making independence inevitable in 1770.
+- Added the Boston Massacre as a contested legal, racial, military, and propaganda precursor.
 
 ## Relationships
 
@@ -82,3 +85,8 @@ The sources provide broad podcast synthesis rather than a complete revolutionary
 - [[CoerciveActs]] - response that broadened resistance beyond Massachusetts.
 - [[LexingtonAndConcord]] - armed threshold between constitutional crisis and war.
 - [[LordDunmoresProclamation]] - wartime freedom offer exposing the conflict's slavery dimension.
+- [[SevenYearsWar]] - imperial victory that transformed the fiscal and strategic relationship with the colonies.
+- [[ProclamationLine1763]] - frontier policy joining land interests to military and revenue pressure.
+- [[ImperialConstitutionalMismatch]] - conflict between parliamentary sovereignty and colonial consent.
+- [[PostwarImperialFiscalSecurityBind]] - structural mechanism connecting victory to intrusive administration.
+- [[BostonMassacre]] - prewar confrontation showing violence, propaganda, race, and legal process.

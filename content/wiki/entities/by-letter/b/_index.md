@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 11164
+wiki_total_pages: 11168
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -803,6 +803,9 @@ wiki_pages:
   - key: "BostonDynamics"
     title: "Boston Dynamics"
     url: "/wiki/entities/bostondynamics/"
+  - key: "BostonMassacre"
+    title: "Boston Massacre"
+    url: "/wiki/entities/bostonmassacre/"
   - key: "BostonScientific"
     title: "Boston Scientific"
     url: "/wiki/entities/bostonscientific/"

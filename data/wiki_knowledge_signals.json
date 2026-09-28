@@ -5290,9 +5290,9 @@
       "url": "/wiki/entities/adamgrant/"
     },
     "AdamIPSmith": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT1619660676 [GLT1619660676].md",
@@ -5307,6 +5307,13 @@
           "show": "The Rest Is History",
           "title": "348: The Boston Tea Party (Part 2)",
           "url": "/wiki/sources/348-the-boston-tea-party-part-2-glt5189620267/"
+        },
+        {
+          "episode_file": "GLT3042850673 [GLT3042850673].md",
+          "key": "347-the-american-revolution-part-1-glt3042850673",
+          "show": "The Rest Is History",
+          "title": "347: The American Revolution (Part 1)",
+          "url": "/wiki/sources/347-the-american-revolution-part-1-glt3042850673/"
         }
       ],
       "updated": "2026-09-28",
@@ -8599,9 +8606,9 @@
       "url": "/wiki/entities/americanpridebank/"
     },
     "AmericanRevolution": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT6013835340 [GLT6013835340].md",
@@ -8637,6 +8644,13 @@
           "show": "The Rest Is History",
           "title": "348: The Boston Tea Party (Part 2)",
           "url": "/wiki/sources/348-the-boston-tea-party-part-2-glt5189620267/"
+        },
+        {
+          "episode_file": "GLT3042850673 [GLT3042850673].md",
+          "key": "347-the-american-revolution-part-1-glt3042850673",
+          "show": "The Rest Is History",
+          "title": "347: The American Revolution (Part 1)",
+          "url": "/wiki/sources/347-the-american-revolution-part-1-glt3042850673/"
         }
       ],
       "updated": "2026-09-28",
@@ -17074,9 +17088,9 @@
       "url": "/wiki/entities/benjamineidlis/"
     },
     "BenjaminFranklin": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6013835340 [GLT6013835340].md",
@@ -17091,6 +17105,13 @@
           "show": "The Rest Is History",
           "title": "316: The First Abolitionist",
           "url": "/wiki/sources/316-the-first-abolitionist-glt2136062721/"
+        },
+        {
+          "episode_file": "GLT3042850673 [GLT3042850673].md",
+          "key": "347-the-american-revolution-part-1-glt3042850673",
+          "show": "The Rest Is History",
+          "title": "347: The American Revolution (Part 1)",
+          "url": "/wiki/sources/347-the-american-revolution-part-1-glt3042850673/"
         }
       ],
       "updated": "2026-09-05",
@@ -18774,6 +18795,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/bostondynamics/"
+    },
+    "BostonMassacre": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3042850673 [GLT3042850673].md",
+          "key": "347-the-american-revolution-part-1-glt3042850673",
+          "show": "The Rest Is History",
+          "title": "347: The American Revolution (Part 1)",
+          "url": "/wiki/sources/347-the-american-revolution-part-1-glt3042850673/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/bostonmassacre/"
     },
     "BostonTeaParty": {
       "episode_count": 1,
@@ -35141,6 +35178,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/crisiswithdrawalselfprotection/"
+    },
+    "CrispusAttucks": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3042850673 [GLT3042850673].md",
+          "key": "347-the-american-revolution-part-1-glt3042850673",
+          "show": "The Rest Is History",
+          "title": "347: The American Revolution (Part 1)",
+          "url": "/wiki/sources/347-the-american-revolution-part-1-glt3042850673/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/crispusattucks/"
     },
     "CriticalPathMethodPersonalPlanning": {
       "episode_count": 1,
@@ -64183,9 +64236,9 @@
       "url": "/wiki/entities/georgewallace/"
     },
     "GeorgeWashington": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT3752138067 [GLT3752138067].md",
@@ -64214,6 +64267,13 @@
           "show": "The Rest Is History",
           "title": "348: The Boston Tea Party (Part 2)",
           "url": "/wiki/sources/348-the-boston-tea-party-part-2-glt5189620267/"
+        },
+        {
+          "episode_file": "GLT3042850673 [GLT3042850673].md",
+          "key": "347-the-american-revolution-part-1-glt3042850673",
+          "show": "The Rest Is History",
+          "title": "347: The American Revolution (Part 1)",
+          "url": "/wiki/sources/347-the-american-revolution-part-1-glt3042850673/"
         }
       ],
       "updated": "2026-09-28",
@@ -78915,6 +78975,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/concepts/imperialconsortposthumoustitlesystem/"
     },
+    "ImperialConstitutionalMismatch": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3042850673 [GLT3042850673].md",
+          "key": "347-the-american-revolution-part-1-glt3042850673",
+          "show": "The Rest Is History",
+          "title": "347: The American Revolution (Part 1)",
+          "url": "/wiki/sources/347-the-american-revolution-part-1-glt3042850673/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/imperialconstitutionalmismatch/"
+    },
     "ImperialDeathCauseInference": {
       "episode_count": 1,
       "show_count": 1,
@@ -85568,9 +85644,9 @@
       "url": "/wiki/entities/johannesburg/"
     },
     "JohnAdams": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT6013835340 [GLT6013835340].md",
@@ -85592,6 +85668,13 @@
           "show": "The Rest Is History",
           "title": "348: The Boston Tea Party (Part 2)",
           "url": "/wiki/sources/348-the-boston-tea-party-part-2-glt5189620267/"
+        },
+        {
+          "episode_file": "GLT3042850673 [GLT3042850673].md",
+          "key": "347-the-american-revolution-part-1-glt3042850673",
+          "show": "The Rest Is History",
+          "title": "347: The American Revolution (Part 1)",
+          "url": "/wiki/sources/347-the-american-revolution-part-1-glt3042850673/"
         }
       ],
       "updated": "2026-09-28",
@@ -125158,6 +125241,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/postwarfashionconsumerrevolution/"
     },
+    "PostwarImperialFiscalSecurityBind": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3042850673 [GLT3042850673].md",
+          "key": "347-the-american-revolution-part-1-glt3042850673",
+          "show": "The Rest Is History",
+          "title": "347: The American Revolution (Part 1)",
+          "url": "/wiki/sources/347-the-american-revolution-part-1-glt3042850673/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/postwarimperialfiscalsecuritybind/"
+    },
     "PostwarKeynesianRetreat": {
       "episode_count": 1,
       "show_count": 1,
@@ -126932,6 +127031,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/processingspeedtrainingdementiasignal/"
+    },
+    "ProclamationLine1763": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3042850673 [GLT3042850673].md",
+          "key": "347-the-american-revolution-part-1-glt3042850673",
+          "show": "The Rest Is History",
+          "title": "347: The American Revolution (Part 1)",
+          "url": "/wiki/sources/347-the-american-revolution-part-1-glt3042850673/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/proclamationline1763/"
     },
     "ProcrastinationSelfRegulationFailure": {
       "episode_count": 5,
@@ -140111,6 +140226,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/sevenlearnings/"
+    },
+    "SevenYearsWar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3042850673 [GLT3042850673].md",
+          "key": "347-the-american-revolution-part-1-glt3042850673",
+          "show": "The Rest Is History",
+          "title": "347: The American Revolution (Part 1)",
+          "url": "/wiki/sources/347-the-american-revolution-part-1-glt3042850673/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/sevenyearswar/"
     },
     "SeventyMillimeterFilmProjection": {
       "episode_count": 1,

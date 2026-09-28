@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2773
+topic_total_pages: 2775
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4886,6 +4886,9 @@ topic_entities:
   - key: "BorisJohnson"
     title: "Boris Johnson"
     url: "/wiki/entities/borisjohnson/"
+  - key: "BostonMassacre"
+    title: "Boston Massacre"
+    url: "/wiki/entities/bostonmassacre/"
   - key: "BrahimGhali"
     title: "Brahim Ghali"
     url: "/wiki/entities/brahimghali/"
@@ -6203,6 +6206,9 @@ topic_entities:
   - key: "Prevagen"
     title: "Prevagen"
     url: "/wiki/entities/prevagen/"
+  - key: "ProclamationLine1763"
+    title: "Proclamation Line of 1763"
+    url: "/wiki/entities/proclamationline1763/"
   - key: "Project2025"
     title: "Project 2025"
     url: "/wiki/entities/project2025/"

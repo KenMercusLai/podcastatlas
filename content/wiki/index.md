@@ -3073,6 +3073,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Science-Supported Tools to Accelerate Your Fitness Goals](sources/science-supported-tools-to-accelerate-your-fitness-goals-scim7037527631.md) — Huberman Lab solo episode on daily zone 2 movement, low-repetition strength blocks, exercise snacks, interval and breathing tools, workout focus, flexible fueling, and supplement boundaries.
 
+- [347: The American Revolution (Part 1)](sources/347-the-american-revolution-part-1-glt3042850673.md) — The Rest Is History episode on the Seven Years' War settlement, imperial debt and frontier security, constitutional mismatch, colonial resistance, and the Boston Massacre.
+
 ## Entities
 - [小常老师 / Xiaochang (nutrition guest)](entities/XiaochangNutritionGuest.md) — Source-scoped nutrition guest emphasizing sustainable energy deficit, dietary quality, rebound prevention, and low-energy-availability caution.
 - [Lord Dunmore's Proclamation](entities/LordDunmoresProclamation.md) — November 1775 service-linked freedom offer exposing Black agency, British strategy, and slaveholder radicalization.
@@ -14256,6 +14258,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tony Hawk's Pro Skater](entities/TonyHawksProSkater.md) — Video-game franchise that translated skateboarding movement and culture to a mass audience.
 - [The Skatepark Project](entities/TheSkateparkProject.md) — Nonprofit supporting public skateparks as access, practice, and youth-community infrastructure.
 
+- [Seven Years' War](entities/SevenYearsWar.md) — Global imperial conflict whose British victory enlarged debt, territory, security obligations, and colonial tension.
+- [Proclamation Line of 1763](entities/ProclamationLine1763.md) — British frontier policy connecting Native diplomacy and settlement restraint to troops, land interests, and revenue pressure.
+- [Boston Massacre](entities/BostonMassacre.md) — 1770 confrontation interpreted through military occupation, crowd action, propaganda, race, and due process.
+- [Crispus Attucks](entities/CrispusAttucks.md) — Black and Native dockworker whose death and representation expose racialized revolutionary law and memory.
+
 ## Concepts
 - [Orthodontic Treatment Continuity / 正畸治疗连续性](concepts/OrthodonticTreatmentContinuity.md) — Framework joining appliance choice to diagnosis, repeated review, retention, patient cooperation, relocation, and surgical coordination.
 - [Suicide-Risk Recognition and Support / 轻生风险识别与支持](concepts/SuicideRiskRecognitionAndSupport.md) — Framework joining warning-pattern recognition, nonjudgmental presence, safety protection, and qualified crisis escalation.
@@ -22848,5 +22855,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Integrated Zone 2 Movement](concepts/IntegratedZone2Movement.md) — Aerobic-base strategy that accumulates conversational-intensity work through walking, errands, meetings, calls, and active play.
 - [Exercise Snacks](concepts/ExerciseSnacks.md) — Brief cardiovascular or muscular-endurance bouts used to lower movement barriers and bridge disrupted training.
 - [Low-Repetition Strength Blocks](concepts/LowRepetitionStrengthBlocks.md) — Bounded heavy-strength phases using low repetitions, longer rests, progressive warm-ups, and individualized exercise selection.
+
+- [Imperial Constitutional Mismatch](concepts/ImperialConstitutionalMismatch.md) — Conflict between parliamentary sovereignty and colonial expectations of consent, self-taxation, and practical self-government.
+- [Postwar Imperial Fiscal-Security Bind](concepts/PostwarImperialFiscalSecurityBind.md) — Mechanism joining military victory, enlarged security costs, revenue enforcement, and declining political consent.
 
 ## Syntheses

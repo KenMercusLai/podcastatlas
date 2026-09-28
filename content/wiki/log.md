@@ -24331,3 +24331,11 @@ Added source `science-supported-tools-to-accelerate-your-fitness-goals-scim70375
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | 347: The American Revolution (Part 1)
+
+Added source `347-the-american-revolution-part-1-glt3042850673`; created `SevenYearsWar`, `ProclamationLine1763`, `BostonMassacre`, `CrispusAttucks`, `ImperialConstitutionalMismatch`, and `PostwarImperialFiscalSecurityBind`; and updated `AdamIPSmith`, `AmericanRevolution`, `GeorgeWashington`, `BenjaminFranklin`, `JohnAdams`, and the canonical index from their complete bounded source sets. Core synthesis: the Seven Years' War removed the French threat but created a fiscal-security bind around debt, territory, Native diplomacy, western settlement, troops, and revenue, while parliamentary sovereignty and colonial self-government located legitimate authority in incompatible institutions. Independence remained contingent in 1770; the Sugar and Stamp Act disputes, boycotts, crowd pressure, military occupation, and Boston Massacre intensified mistrust without yet producing a settled separatist program. No settled contradiction was adopted. Fiscal figures, Great Awakening causality, regional attitudes, customs enforcement, boycott effectiveness, crowd conduct, and individual motives remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

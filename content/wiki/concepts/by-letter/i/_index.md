@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 8573
+wiki_total_pages: 8575
 wiki_pages:
   - key: "IBDPatientEducationAndPeerSupport"
     title: "IBD Patient Education and Peer Support / IBD患者教育与同伴支持"
@@ -122,6 +122,9 @@ wiki_pages:
   - key: "ImperialCivilisingMissionContradiction"
     title: "Imperial Civilising-Mission Contradiction"
     url: "/wiki/concepts/imperialcivilisingmissioncontradiction/"
+  - key: "ImperialConstitutionalMismatch"
+    title: "Imperial Constitutional Mismatch"
+    url: "/wiki/concepts/imperialconstitutionalmismatch/"
   - key: "ImperialConstructionOverload"
     title: "Imperial Construction Overload / 帝国工程过载"
     url: "/wiki/concepts/imperialconstructionoverload/"

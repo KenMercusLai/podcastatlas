@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 11164
+wiki_total_pages: 11168
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -497,6 +497,9 @@ wiki_pages:
   - key: "SevenSistersOilMajors"
     title: "Seven Sisters Oil Majors"
     url: "/wiki/entities/sevensistersoilmajors/"
+  - key: "SevenYearsWar"
+    title: "Seven Years' War"
+    url: "/wiki/entities/sevenyearswar/"
   - key: "SeventhGeneration"
     title: "Seventh Generation"
     url: "/wiki/entities/seventhgeneration/"

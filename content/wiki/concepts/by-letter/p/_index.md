@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8573
+wiki_total_pages: 8575
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1253,6 +1253,9 @@ wiki_pages:
   - key: "PostwarFashionConsumerRevolution"
     title: "Postwar Fashion Consumer Revolution"
     url: "/wiki/concepts/postwarfashionconsumerrevolution/"
+  - key: "PostwarImperialFiscalSecurityBind"
+    title: "Postwar Imperial Fiscal-Security Bind"
+    url: "/wiki/concepts/postwarimperialfiscalsecuritybind/"
   - key: "PostwarKeynesianRetreat"
     title: "Postwar Keynesian Retreat"
     url: "/wiki/concepts/postwarkeynesianretreat/"

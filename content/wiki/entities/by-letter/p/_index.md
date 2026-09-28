@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 11164
+wiki_total_pages: 11168
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -806,6 +806,9 @@ wiki_pages:
   - key: "Proarc"
     title: "Proarc"
     url: "/wiki/entities/proarc/"
+  - key: "ProclamationLine1763"
+    title: "Proclamation Line of 1763"
+    url: "/wiki/entities/proclamationline1763/"
   - key: "ProcterGamble"
     title: "Procter & Gamble"
     url: "/wiki/entities/proctergamble/"

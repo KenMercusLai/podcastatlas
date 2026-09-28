@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2126
+topic_total_pages: 2127
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2284,6 +2284,9 @@ topic_concepts:
   - key: "PositiveExternality"
     title: "Positive Externality"
     url: "/wiki/concepts/positiveexternality/"
+  - key: "PostwarImperialFiscalSecurityBind"
+    title: "Postwar Imperial Fiscal-Security Bind"
+    url: "/wiki/concepts/postwarimperialfiscalsecuritybind/"
   - key: "PostwarKeynesianRetreat"
     title: "Postwar Keynesian Retreat"
     url: "/wiki/concepts/postwarkeynesianretreat/"
