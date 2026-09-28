@@ -10406,9 +10406,9 @@
       "url": "/wiki/entities/andyburnham/"
     },
     "AndyGalpin": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM5641095924 [SCIM5641095924].md",
@@ -10444,6 +10444,13 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Andy Galpin: Maximize Recovery to Achieve Fitness & Performance Goals",
           "url": "/wiki/sources/guest-series-dr-andy-galpin-maximize-recovery-to-achieve-fitness-performance-goals-scim4488298115/"
+        },
+        {
+          "episode_file": "SCIM2066998732 [SCIM2066998732].md",
+          "key": "guest-series-dr-andy-galpin-optimize-your-training-program-for-fitness-longevity-scim2066998732",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Andy Galpin: Optimize Your Training Program for Fitness & Longevity",
+          "url": "/wiki/sources/guest-series-dr-andy-galpin-optimize-your-training-program-for-fitness-longevity-scim2066998732/"
         }
       ],
       "updated": "2026-09-29",
@@ -11083,6 +11090,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/annettegordonreed/"
+    },
+    "AnnualFitnessPeriodization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2066998732 [SCIM2066998732].md",
+          "key": "guest-series-dr-andy-galpin-optimize-your-training-program-for-fitness-longevity-scim2066998732",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Andy Galpin: Optimize Your Training Program for Fitness & Longevity",
+          "url": "/wiki/sources/guest-series-dr-andy-galpin-optimize-your-training-program-for-fitness-longevity-scim2066998732/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/annualfitnessperiodization/"
     },
     "AnonymousSlanderRetaliation": {
       "episode_count": 2,
@@ -35474,6 +35497,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/constitutionalistmilitarynorm/"
+    },
+    "ConstraintFirstTrainingDesign": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2066998732 [SCIM2066998732].md",
+          "key": "guest-series-dr-andy-galpin-optimize-your-training-program-for-fitness-longevity-scim2066998732",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Andy Galpin: Optimize Your Training Program for Fitness & Longevity",
+          "url": "/wiki/sources/guest-series-dr-andy-galpin-optimize-your-training-program-for-fitness-longevity-scim2066998732/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/constraintfirsttrainingdesign/"
     },
     "ConstructedCategoryTrust": {
       "episode_count": 1,
@@ -61087,9 +61126,9 @@
       "url": "/wiki/concepts/flexiblefrontiermilitarydiscretion/"
     },
     "FlexibleWeeklyFitnessScaffold": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM5878324891 [SCIM5878324891].md",
@@ -61104,9 +61143,16 @@
           "show": "Huberman Lab",
           "title": "Science-Supported Tools to Accelerate Your Fitness Goals",
           "url": "/wiki/sources/science-supported-tools-to-accelerate-your-fitness-goals-scim7037527631/"
+        },
+        {
+          "episode_file": "SCIM2066998732 [SCIM2066998732].md",
+          "key": "guest-series-dr-andy-galpin-optimize-your-training-program-for-fitness-longevity-scim2066998732",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Andy Galpin: Optimize Your Training Program for Fitness & Longevity",
+          "url": "/wiki/sources/guest-series-dr-andy-galpin-optimize-your-training-program-for-fitness-longevity-scim2066998732/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/flexibleweeklyfitnessscaffold/"
     },
     "FlightToVarennes": {
@@ -168313,9 +168359,9 @@
       "url": "/wiki/concepts/trafficarbitragetobrandbuilding/"
     },
     "TrainingChaosManagement": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM8443296592 [SCIM8443296592].md",
@@ -168323,9 +168369,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Optimal Protocols to Build Strength & Grow Muscles | Dr. Andy Galpin",
           "url": "/wiki/sources/essentials-optimal-protocols-to-build-strength-grow-muscles-dr-andy-galpin-scim8443296592/"
+        },
+        {
+          "episode_file": "SCIM2066998732 [SCIM2066998732].md",
+          "key": "guest-series-dr-andy-galpin-optimize-your-training-program-for-fitness-longevity-scim2066998732",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Andy Galpin: Optimize Your Training Program for Fitness & Longevity",
+          "url": "/wiki/sources/guest-series-dr-andy-galpin-optimize-your-training-program-for-fitness-longevity-scim2066998732/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/trainingchaosmanagement/"
     },
     "TrainingFuelTimingContext": {

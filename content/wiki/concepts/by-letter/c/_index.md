@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8768
+wiki_total_pages: 8770
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1838,6 +1838,9 @@ wiki_pages:
   - key: "ConstraintDrivenProductDiscipline"
     title: "Constraint-Driven Product Discipline"
     url: "/wiki/concepts/constraintdrivenproductdiscipline/"
+  - key: "ConstraintFirstTrainingDesign"
+    title: "Constraint-First Training Design"
+    url: "/wiki/concepts/constraintfirsttrainingdesign/"
   - key: "ConstructedCategoryTrust"
     title: "Constructed Category Trust / 被建构的品类信任"
     url: "/wiki/concepts/constructedcategorytrust/"

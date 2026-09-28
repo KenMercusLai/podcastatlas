@@ -491,7 +491,7 @@
       "earliest_episode_date": "2020-12-21",
       "latest_episode_date": "2026-09-28",
       "latest_episode_file": "SCIM4063268713 [SCIM4063268713].md",
-      "source_note_count": 194,
+      "source_note_count": 195,
       "topic_matched_source_note_count": 104,
       "topics": [
         {
@@ -528,6 +528,13 @@
           "episode_count": 54
         },
         {
+          "key": "AndyGalpin",
+          "title": "Andy Galpin",
+          "url": "/wiki/entities/andygalpin/",
+          "kind": "person",
+          "episode_count": 6
+        },
+        {
           "key": "MatthewWalker",
           "title": "Matthew Walker",
           "url": "/wiki/entities/matthewwalker/",
@@ -540,13 +547,6 @@
           "url": "/wiki/entities/paulconti/",
           "kind": "person",
           "episode_count": 6
-        },
-        {
-          "key": "AndyGalpin",
-          "title": "Andy Galpin",
-          "url": "/wiki/entities/andygalpin/",
-          "kind": "person",
-          "episode_count": 5
         },
         {
           "key": "PeterAttia",

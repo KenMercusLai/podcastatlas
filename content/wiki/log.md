@@ -25123,3 +25123,11 @@ Added source `303-the-bloodiest-crusade-glt7887097153`; created `InnocentIII`, `
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | GUEST SERIES | Dr. Andy Galpin: Optimize Your Training Program for Fitness & Longevity
+
+Added source `guest-series-dr-andy-galpin-optimize-your-training-program-for-fitness-longevity-scim2066998732`; created `ConstraintFirstTrainingDesign` and `AnnualFitnessPeriodization`; and updated `TrainingChaosManagement`, `FlexibleWeeklyFitnessScaffold`, `AndyGalpin`, and the canonical index from their complete bounded source sets. Core synthesis: effective training starts with a specific goal, likely blocker, calendar, and recovery budget before exercise selection; longer phases can rotate emphasis while weekly templates preserve mixed capacity; and likely disruption should be planned before it forces improvisation. No settled contradiction was adopted. Percentage progression, heart-rate timing, illness thresholds, calorie targets, recovery allocations, testing cadence, and deload timing remain source-scoped public education rather than individualized medical or training guidance. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

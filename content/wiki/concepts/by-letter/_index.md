@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 8768
+wiki_total_pages: 8770
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1970,6 +1970,9 @@ wiki_pages:
   - key: "AnimationStudioCreativeEcology"
     title: "Animation Studio Creative Ecology"
     url: "/wiki/concepts/animationstudiocreativeecology/"
+  - key: "AnnualFitnessPeriodization"
+    title: "Annual Fitness Periodization"
+    url: "/wiki/concepts/annualfitnessperiodization/"
   - key: "AnnualReportMacroReading"
     title: "Annual Report Macro Reading"
     url: "/wiki/concepts/annualreportmacroreading/"

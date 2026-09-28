@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [GUEST SERIES | Dr. Andy Galpin: Optimize Your Training Program for Fitness & Longevity](sources/guest-series-dr-andy-galpin-optimize-your-training-program-for-fitness-longevity-scim2066998732.md) — Huberman Lab guest-series episode on constraint-first program design, annual periodization, mixed weekly templates, progressive overload, deloading, and disruption planning.
 - [303: The Bloodiest Crusade](sources/303-the-bloodiest-crusade-glt7887097153.md) — The Rest Is History episode on the Albigensian Crusade, anti-heresy violence, French expansion, inquisitorial coercion, and the contested construction of Cathar identity.
 - [VOL.21肿瘤肝胆外科｜虽不严肃但有用——肿瘤是遗传？ 外科医生有话说—转发家族群少买保健品](sources/vol-21-zhongliu-gandan-waike-sui-bu-yansu-dan-youyong-zhongliu-shi-yichuan-waike-yisheng-you-hua-shuo-zhuanfa-jiazuqun-shao-mai-baojianpin-ltyennewyimh08rtyrgfe4qkz5g3.md) — 这病说来话长 episode separating tumor terminology, familial risk, prevention, early detection, and stage-specific multimodal cancer treatment.
 - [GUEST SERIES | Dr. Andy Galpin: Maximize Recovery to Achieve Fitness & Performance Goals](sources/guest-series-dr-andy-galpin-maximize-recovery-to-achieve-fitness-performance-goals-scim4488298115.md) — Huberman Lab guest-series episode on soreness, the training stress-recovery continuum, multi-domain monitoring, HRV trends, and goal-sensitive recovery tools.
@@ -4141,7 +4142,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [DRASTIC](entities/DRASTIC.md) — Decentralized COVID-origin research collective praised in the source for scientific sharing and surfacing the DEFUSE proposal.
 - [Nick Shirley](entities/NickShirley.md) — Independent creator presented by All-In as an audience-funded investigator using tips, field reporting, confrontation, and platform distribution to expose alleged fraud and public waste.
 - [California High-Speed Rail](entities/CaliforniaHighSpeedRail.md) — State passenger-rail megaproject used by the Nick Shirley episode to examine cost escalation, delivery delay, land conflict, contractor incentives, and political accountability.
-- [Andy Galpin](entities/AndyGalpin.md) — Exercise physiologist connecting fitness assessment and goal-specific programming with recovery monitoring, soreness boundaries, fueling, hydration, and supplementation.
+- [Andy Galpin](entities/AndyGalpin.md) — Exercise physiologist connecting fitness assessment, constraint-first programming, periodization, recovery, fueling, hydration, and supplementation.
 - [深普智能 / Shenpu Intelligence](entities/ShenpuIntelligence.md) — Home-facing general embodied-intelligence company whose chief scientist describes full-stack data, action-model, Agentic OS, and evaluation work.
 - [王家伟 / Wang Jiawei](entities/WangJiawei.md) — 24-year-old chief scientist of 深普智能, with a USTC youth-class and Microsoft Research Asia doctoral background plus DeepSeek and ByteDance Seed internships.
 - [Blackmores / 澳佳宝](entities/Blackmores.md) — Australian supplement brand the source uses to show naturopathic practice converting into a mainstream industrial product.
@@ -14561,6 +14562,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Satchin Panda](entities/SatchinPanda.md) — Circadian-biology researcher separating meal timing, fasting duration, energy intake, and evidence limits in animal and human studies.
 
 ## Concepts
+- [Annual Fitness Periodization](concepts/AnnualFitnessPeriodization.md) — Rotating yearly training emphasis while maintaining broad capacity and scheduling recovery.
+- [Constraint-First Training Design](concepts/ConstraintFirstTrainingDesign.md) — Designing exercise around the target adaptation, likely blocker, real calendar, and anticipated disruption.
 - [Cathars](concepts/Cathars.md) — Contested category separating local holy people, hostile classification, persecution-driven consolidation, and later reinvention.
 - [Albigensian Crusade](concepts/AlbigensianCrusade.md) — Sanctified anti-heresy war that joined massacre, occupation, institutional change, and French royal expansion.
 - [Fourth Lateran Council](concepts/FourthLateranCouncil.md) — 1215 council associated with tighter doctrine, clerical governance, lay confession, and visible social boundaries.
