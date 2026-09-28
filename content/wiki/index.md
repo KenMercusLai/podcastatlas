@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.45食品与营养｜你喝牛奶么？这5种“超级食物”是智商税吗？](sources/vol-45-shipin-yu-yingyang-ni-he-niunai-me-zhe-5-zhong-chaoji-shiwu-shi-zhishangshui-ma-lmiafjnoiooijzqcnmfrmref-h2v.md) — 这病说来话长 episode on milk choice, lactose tolerance, superfood and supplement claims, ingredient lists, additives, and contextual food value.
 - [332: King Solomon's Mines](sources/332-king-solomons-mines-glt4960691587.md) — The Rest Is History episode on Haggard's biography, imperial adventure fiction, racial contradiction, lost-world storytelling, and modern genre afterlives.
 - [How to Use Cold & Heat Exposure to Improve Your Health | Dr. Susanna Søberg](sources/how-to-use-cold-heat-exposure-to-improve-your-health-dr-susanna-soberg-scim2723639227.md) — Huberman Lab interview on cold/heat hormesis, brown-fat thermogenesis, winter-swimmer metabolic findings, minimum effective dose, and safety limits.
 - [VOL.46食品与营养｜这5大健康困扰你占了几个？其实解决办法就在你身边！](sources/vol-46-shipin-yu-yingyang-zhe-5-da-jiankang-kunrao-ni-zhanle-jige-qishi-jiejue-banfa-jiu-zai-ni-shenbian-ls3h7eocliv0b72bz2wxdhbealp5.md) — 这病说来话长 episode on nutrition triage for hair loss, constipation, acne, insomnia, weight loss, and anxiety-driven product claims.
@@ -14376,6 +14377,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Theseus](entities/Theseus.md) — Athenian founder figure remembered as unifier of Attica and ancestral source of power for the demos.
 
 ## Concepts
+- [Dairy Choice and Tolerance Boundary / 奶制品选择与耐受边界](concepts/DairyChoiceToleranceBoundary.md) — Dairy comparison frame separating nutrient profile, lactose and protein tolerance, formulation, alternatives, price, and medical context.
+- [Food Value Context Assessment / 食品价值语境判断](concepts/FoodValueContextAssessment.md) — Food-choice frame based on the person, dose, formulation, realistic nutrition, alternatives, price, and use context.
 - [Imperial Adventure Fiction](concepts/ImperialAdventureFiction.md) — Quest form joining exploration, masculine recovery, racial hierarchy, extractive desire, and internal criticism of imperial actors.
 - [Lost-World Fiction](concepts/LostWorldFiction.md) — Hidden-civilization form shaped by exploration, archaeology, old legends, outsider revelation, and later political reuse.
 - [Everyday Symptom Nutrition Triage / 日常困扰营养分诊](concepts/EverydaySymptomNutritionTriage.md) — Four-part framework for assessing cause and severity, strengthening foundations, testing product fit, and escalating concerning symptoms.

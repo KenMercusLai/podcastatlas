@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 8637
+wiki_total_pages: 8639
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -713,6 +713,9 @@ wiki_pages:
   - key: "FoodTextureAesthetics"
     title: "Food Texture Aesthetics"
     url: "/wiki/concepts/foodtextureaesthetics/"
+  - key: "FoodValueContextAssessment"
+    title: "Food Value Context Assessment / 食品价值语境判断"
+    url: "/wiki/concepts/foodvaluecontextassessment/"
   - key: "FoodWritingAsLifeExperience"
     title: "Food Writing As Life Experience"
     url: "/wiki/concepts/foodwritingaslifeexperience/"

@@ -24619,3 +24619,11 @@ Added source `332-king-solomons-mines-glt4960691587`; created `HRiderHaggard`, `
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | VOL.45食品与营养｜你喝牛奶么？这5种“超级食物”是智商税吗？
+
+Added source `vol-45-shipin-yu-yingyang-ni-he-niunai-me-zhe-5-zhong-chaoji-shiwu-shi-zhishangshui-ma-lmiafjnoiooijzqcnmfrmref-h2v`; created `FoodValueContextAssessment` and `DairyChoiceToleranceBoundary`; and updated `XiaochangNutritionGuest` and `FunctionalFoodMarketingClaimSkepticism` from their complete bounded source sets. Core synthesis: foods and supplements should be judged through the person, dose, full formulation, realistic nutritional contribution, alternatives, price, and use context rather than as universally good, bad, or medicinal. Milk choice additionally separates nutrient profile from lactose tolerance, protein questions, sensory substitution, and disease context. No settled contradiction was adopted; milk composition, calcium, A1/A2 beta-casein, metabolic effects, vitamin D, enzyme, and fish-oil details remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

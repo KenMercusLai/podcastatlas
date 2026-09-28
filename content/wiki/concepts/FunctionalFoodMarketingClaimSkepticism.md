@@ -6,6 +6,7 @@ sources:
   - vol-209-bie-wei-gongnengxing-shangtou-ni-yiwei-de-jingzhun-yangsheng-qishi-yue-bu-yue-zao-liao-liao-daicanfen-dianjiezhi-dengdeng-ljlwqq2yhtcsa4r3nvnzaa6p5i9o
   - vol-161-weishenme-ni-yue-chi-jiankang-shipin-faner-yue-pang-ft-dashihua-lkpgv9cwzxomr-oi5kse-lpyj-qz
   - vol-46-shipin-yu-yingyang-zhe-5-da-jiankang-kunrao-ni-zhanle-jige-qishi-jiejue-banfa-jiu-zai-ni-shenbian-ls3h7eocliv0b72bz2wxdhbealp5
+  - vol-45-shipin-yu-yingyang-ni-he-niunai-me-zhe-5-zhong-chaoji-shiwu-shi-zhishangshui-ma-lmiafjnoiooijzqcnmfrmref-h2v
 last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
@@ -22,6 +23,8 @@ The skeptical stance does not deny that nutrients, foods, or supplements can hav
 
 VOL.46 adds symptom-anxiety marketing. Hair loss, constipation, acne, insomnia, and weight concerns are emotionally and commercially salient, making “以黑养黑,” “宿便排毒,” one probiotic, one sleep aid, or a low-calorie replacement feel like a complete answer. The source's better claim check is whether the product fits the likely mechanism and severity, what formulation and dose it contains, what harms or dependencies are plausible, and whether ordinary foundations or qualified care are being displaced.
 
+VOL.45 adds price-value and substitutability tests. “Superfood” has no unique regulatory or dietary-guideline status in the source, while milk upgrades, bird's nest, enzyme products, and fish oil can turn a real nutrient or narrow use into a premium universal promise. A defensible judgment asks whether the dose is meaningful, whether ordinary foods supply the same function, whether the buyer mainly wants taste or gifting value, and whether the product is being miscast as treatment.
+
 ## Key Claims
 - Marketing language should not be allowed to replace product identity, ingredient review, nutrition-panel reading, evidence, and applicable-population checks.
 - "Natural" does not automatically mean safer, more suitable, or equivalent to medical treatment.
@@ -29,7 +32,7 @@ VOL.46 adds symptom-anxiety marketing. Hair loss, constipation, acne, insomnia, 
 - "Anti-inflammatory," "smart drug," collagen beauty, and "white-person Chinese medicine" claims can turn ordinary uncertainty or health anxiety into repeat purchasing.
 - Products that feel healthy can still deliver sugar, sodium, energy density, or interaction risk; the response is bounded use rather than blanket rejection when a product addresses a defined gap or condition.
 - Strong drug-like effects from weakly accountable food channels are warning signals, not proof that a marketing claim works.
-- A product can contain a useful nutrient or ingredient without becoming a complete treatment for a multifactorial symptom.
+- A useful ingredient, “superfood,” premium, or traditional-prestige story should be tested for realistic dose, substitutability, price-value fit, and separation from treatment claims.
 
 ## Evidence
 - Functional-food ambiguity: [[vol-209-bie-wei-gongnengxing-shangtou-ni-yiwei-de-jingzhun-yangsheng-qishi-yue-bu-yue-zao-liao-liao-daicanfen-dianjiezhi-dengdeng-ljlwqq2yhtcsa4r3nvnzaa6p5i9o]] treats "functional food" as market language rather than a strict regulatory category.
@@ -40,13 +43,15 @@ VOL.46 adds symptom-anxiety marketing. Hair loss, constipation, acne, insomnia, 
 - Single-attribute halo: [[vol-161-weishenme-ni-yue-chi-jiankang-shipin-faner-yue-pang-ft-dashihua-lkpgv9cwzxomr-oi5kse-lpyj-qz]] shows that high-protein, low-GI, zero-fat, low-calorie, natural, and zero-additive language can leave total formulation, serving size, and frequency unexamined.
 - Shortcut and channel risk: [[vol-161-weishenme-ni-yue-chi-jiankang-shipin-faner-yue-pang-ft-dashihua-lkpgv9cwzxomr-oi5kse-lpyj-qz]] rejects diet snacks, vinegar, spicy food, metabolism coffee, supplements, and unofficial fat-burning products as substitutes for dietary pattern, movement, and accountable sourcing.
 - Symptom-anxiety marketing: [[vol-46-shipin-yu-yingyang-zhe-5-da-jiankang-kunrao-ni-zhanle-jige-qishi-jiejue-banfa-jiu-zai-ni-shenbian-ls3h7eocliv0b72bz2wxdhbealp5|VOL.46]] shows how black sesame, detox language, probiotic products, melatonin, meal replacements, and sweeteners can be promoted as simple answers to complex hair, bowel, skin, sleep, or weight concerns.
+- Price, dose, and substitutability: [[vol-45-shipin-yu-yingyang-ni-he-niunai-me-zhe-5-zhong-chaoji-shiwu-shi-zhishangshui-ma-lmiafjnoiooijzqcnmfrmref-h2v|VOL.45]] tests premium milk, superfoods, bird's nest, enzyme products, and fish oil against realistic intake, ordinary alternatives, complete formulation, and the difference between nutritional, emotional, and medical value.
 
 ## Counterevidence & Qualifications
-The concept should not be read as evidence that every functional-food claim is false. The sources allow bounded products in appropriate contexts, including targeted supplementation or temporary convenience. Their claim is narrower: vague, premium, symptom-anxiety, or single-attribute language needs product identity, full-label, serving-size, evidence, safety, use-context, and need checks before it becomes a reason to buy or consume daily. The probiotic, laxative, melatonin, acne-diet, sweetener, oil, or supplement details remain source-scoped; none of the sources substitutes for formal product testing or clinical nutrition care.
+The concept should not be read as evidence that every functional-food claim is false. The sources allow bounded products in appropriate contexts, including targeted supplementation, temporary convenience, taste, or gifting. Their claim is narrower: vague, premium, symptom-anxiety, traditional-prestige, or single-attribute language needs product identity, full-label, serving-size, evidence, safety, use-context, alternative, and need checks before it becomes a reason to buy or consume daily. The milk, calcium, probiotic, laxative, melatonin, acne-diet, sweetener, oil, or supplement details remain source-scoped; none of the sources substitutes for formal product testing or clinical nutrition care.
 
 ## What Changed
 - Added symptom-anxiety marketing across hair, bowel, skin, sleep, and weight concerns.
 - Clarified that ingredient plausibility does not make a product a complete treatment for a multifactorial problem.
+- Added realistic-dose, substitutability, and price-value checks for superfoods and prestige products.
 
 ## Related Concepts
 - [[FunctionalFoodRegulatoryIdentity]] - regulatory identity check behind marketing claims.
@@ -58,3 +63,4 @@ The concept should not be read as evidence that every functional-food claim is f
 - [[MedicalScamPackaging]] - broader health-product packaging and promise-risk neighbor.
 - [[HealthCodedFoodLabelLiteracy]] - whole-product method for translating a headline food claim into a practical judgment.
 - [[EverydaySymptomNutritionTriage]] - cause, severity, foundation, product-fit, and escalation check for common concerns.
+- [[FoodValueContextAssessment]] - broader person-dose-formulation-alternative-price test behind purchase judgments.

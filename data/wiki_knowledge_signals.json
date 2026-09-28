@@ -37961,6 +37961,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/concepts/dairycategorypremiumization/"
     },
+    "DairyChoiceToleranceBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmiaFjNOIoOiJZQCNMfRMRef-H2V [lmiaFjNOIoOiJZQCNMfRMRef-H2V].md",
+          "key": "vol-45-shipin-yu-yingyang-ni-he-niunai-me-zhe-5-zhong-chaoji-shiwu-shi-zhishangshui-ma-lmiafjnoiooijzqcnmfrmref-h2v",
+          "show": "这病说来话长",
+          "title": "VOL.45食品与营养｜你喝牛奶么？这5种“超级食物”是智商税吗？",
+          "url": "/wiki/sources/vol-45-shipin-yu-yingyang-ni-he-niunai-me-zhe-5-zhong-chaoji-shiwu-shi-zhishangshui-ma-lmiafjnoiooijzqcnmfrmref-h2v/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/dairychoicetoleranceboundary/"
+    },
     "DalianYingbo": {
       "episode_count": 1,
       "show_count": 1,
@@ -59480,6 +59496,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/foodsystemnutritionresponsibility/"
     },
+    "FoodValueContextAssessment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmiaFjNOIoOiJZQCNMfRMRef-H2V [lmiaFjNOIoOiJZQCNMfRMRef-H2V].md",
+          "key": "vol-45-shipin-yu-yingyang-ni-he-niunai-me-zhe-5-zhong-chaoji-shiwu-shi-zhishangshui-ma-lmiafjnoiooijzqcnmfrmref-h2v",
+          "show": "这病说来话长",
+          "title": "VOL.45食品与营养｜你喝牛奶么？这5种“超级食物”是智商税吗？",
+          "url": "/wiki/sources/vol-45-shipin-yu-yingyang-ni-he-niunai-me-zhe-5-zhong-chaoji-shiwu-shi-zhishangshui-ma-lmiafjnoiooijzqcnmfrmref-h2v/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/foodvaluecontextassessment/"
+    },
     "FoodserviceBeachheadScaling": {
       "episode_count": 1,
       "show_count": 1,
@@ -62999,9 +63031,9 @@
       "url": "/wiki/concepts/functionalfitnessreadiness/"
     },
     "FunctionalFoodMarketingClaimSkepticism": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "ljLwQq2yHTCsa4r3NvNzaA6P5I9O [ljLwQq2yHTCsa4r3NvNzaA6P5I9O].md",
@@ -63023,6 +63055,13 @@
           "show": "这病说来话长",
           "title": "VOL.46食品与营养｜这5大健康困扰你占了几个？其实解决办法就在你身边！",
           "url": "/wiki/sources/vol-46-shipin-yu-yingyang-zhe-5-da-jiankang-kunrao-ni-zhanle-jige-qishi-jiejue-banfa-jiu-zai-ni-shenbian-ls3h7eocliv0b72bz2wxdhbealp5/"
+        },
+        {
+          "episode_file": "lmiaFjNOIoOiJZQCNMfRMRef-H2V [lmiaFjNOIoOiJZQCNMfRMRef-H2V].md",
+          "key": "vol-45-shipin-yu-yingyang-ni-he-niunai-me-zhe-5-zhong-chaoji-shiwu-shi-zhishangshui-ma-lmiafjnoiooijzqcnmfrmref-h2v",
+          "show": "这病说来话长",
+          "title": "VOL.45食品与营养｜你喝牛奶么？这5种“超级食物”是智商税吗？",
+          "url": "/wiki/sources/vol-45-shipin-yu-yingyang-ni-he-niunai-me-zhe-5-zhong-chaoji-shiwu-shi-zhishangshui-ma-lmiafjnoiooijzqcnmfrmref-h2v/"
         }
       ],
       "updated": "2026-09-28",
@@ -175801,9 +175840,9 @@
       "url": "/wiki/entities/xiaoxianwesternhan/"
     },
     "XiaochangNutritionGuest": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lkMKUyYmlFqxIyoes_n5nflvLJrY [lkMKUyYmlFqxIyoes_n5nflvLJrY].md",
@@ -175825,6 +175864,13 @@
           "show": "这病说来话长",
           "title": "VOL.46食品与营养｜这5大健康困扰你占了几个？其实解决办法就在你身边！",
           "url": "/wiki/sources/vol-46-shipin-yu-yingyang-zhe-5-da-jiankang-kunrao-ni-zhanle-jige-qishi-jiejue-banfa-jiu-zai-ni-shenbian-ls3h7eocliv0b72bz2wxdhbealp5/"
+        },
+        {
+          "episode_file": "lmiaFjNOIoOiJZQCNMfRMRef-H2V [lmiaFjNOIoOiJZQCNMfRMRef-H2V].md",
+          "key": "vol-45-shipin-yu-yingyang-ni-he-niunai-me-zhe-5-zhong-chaoji-shiwu-shi-zhishangshui-ma-lmiafjnoiooijzqcnmfrmref-h2v",
+          "show": "这病说来话长",
+          "title": "VOL.45食品与营养｜你喝牛奶么？这5种“超级食物”是智商税吗？",
+          "url": "/wiki/sources/vol-45-shipin-yu-yingyang-ni-he-niunai-me-zhe-5-zhong-chaoji-shiwu-shi-zhishangshui-ma-lmiafjnoiooijzqcnmfrmref-h2v/"
         }
       ],
       "updated": "2026-09-28",
