@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 8695
+wiki_total_pages: 8698
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2534,6 +2534,9 @@ wiki_pages:
   - key: "AutoimmuneDiseaseSubtyping"
     title: "Autoimmune Disease Subtyping"
     url: "/wiki/concepts/autoimmunediseasesubtyping/"
+  - key: "AutologousBreastReconstructionFlapSelection"
+    title: "Autologous Breast Reconstruction Flap Selection / 自体组织乳房再造皮瓣选择"
+    url: "/wiki/concepts/autologousbreastreconstructionflapselection/"
   - key: "AutomatedHiringProxyDiscrimination"
     title: "Automated Hiring Proxy Discrimination"
     url: "/wiki/concepts/automatedhiringproxydiscrimination/"

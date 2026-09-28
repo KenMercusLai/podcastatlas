@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 8695
+wiki_total_pages: 8698
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -662,6 +662,12 @@ wiki_pages:
   - key: "BreakupWorldLoss"
     title: "Breakup World Loss"
     url: "/wiki/concepts/breakupworldloss/"
+  - key: "BreastAugmentationAnatomyExpectationBoundary"
+    title: "Breast Augmentation Anatomy and Expectation Boundary / 乳房增容的解剖与预期边界"
+    url: "/wiki/concepts/breastaugmentationanatomyexpectationboundary/"
+  - key: "BreastReconstructionDecision"
+    title: "Breast Reconstruction Decision / 乳房再造决策"
+    url: "/wiki/concepts/breastreconstructiondecision/"
   - key: "BreathHoldDivingAdaptation"
     title: "Breath-Hold Diving Adaptation"
     url: "/wiki/concepts/breathholddivingadaptation/"

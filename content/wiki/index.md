@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.40整形外科｜“拆东墙补西墙”为女性乳腺癌术后乳房再造提供了更多可能](sources/vol-40-zhengxingwaike-chai-dongqiang-bu-xiqiang-wei-nvxing-ruxianai-shuhou-rufang-zaizao-tigong-le-geng-duo-keneng-ltyo0gcsutudirgpxk6h9uosjlcc.md) — 这病说来话长 episode on post-cancer breast reconstruction timing, implants and autologous tissue, flap blood supply and donor-site tradeoffs, and anatomy-bounded aesthetic expectations.
 - [323: History's Greatest Dogs](sources/323-historys-greatest-dogs-glt5170761413.md) — The Rest Is History episode on dogs as political appeals, loyalty legends, propaganda companions, imperial trophies, naval friends, and film celebrities.
 - [VOL.41整形外科｜关于男性乳房发育、巨乳症、抽脂、美容针、瘢痕体质的认识误区](sources/vol-41-zhengxingwaike-guanyu-nanxing-rufang-fayu-juruzheng-chouzhi-meirongzhen-banhentizhi-de-renshi-wuqu-lsknmcasvbogjgadfbfos7uj2t59.md) — 这病说来话长 episode on plastic surgery's clinical scope, breast conditions, contouring, wound reconstruction, scarring, closure planning, and microtia reconstruction.
 - [184.为了在算法时代被“听见”，我们改变了多少自己？｜对谈「声东击西」张晶](sources/184-weile-zai-suanfa-shidai-bei-tingjian-women-gaibian-le-duoshao-ziji-duitan-shengdongjixi-zhangjing-lpotw0uqivlj8m6otnoxh0kahee5.md) — 起朱楼宴宾客 conversation with 张晶 on creator self-discipline under opaque metrics, subscription versus recommendation, rescue documentation, AI summary loss, communication as ritual participation, and hidden podcast labor.
@@ -3144,7 +3145,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Blondie (Hitler's dog)](entities/BlondieDog.md) — German shepherd used in Nazi leader imagery and killed in the Berlin bunker cyanide test.
 - [Lootie](entities/LootieDog.md) — Pekingese taken from the Old Summer Palace and presented to Queen Victoria as a living conquest trophy.
 - [Rin Tin Tin](entities/RinTinTin.md) — First World War rescue story and silent-film career that produced an enduring canine media celebrity.
-- [罗路 / Luo Lu (plastic surgeon)](entities/LuoLuPlasticSurgeon.md) — Plastic-surgery clinician explaining differential assessment, reconstruction, indication, expectation, and psychosocial care.
+- [罗路 / Luo Lu (plastic surgeon)](entities/LuoLuPlasticSurgeon.md) — Plastic-surgery clinician explaining breast reconstruction, tissue transfer, differential assessment, indication, expectation, and psychosocial care.
 - [张晶 / Zhang Jing (声东击西)](entities/ZhangJingShengdongJixi.md) — Journalist, 声东击西 co-founder, and content practitioner connecting reporting, long-form audio, platform feedback, AI summaries, and professional community.
 - [Henry Kissinger](entities/HenryKissinger.md) — U.S. diplomat balancing acceptance of South Vietnamese defeat against credibility, aid, bombing, and evacuation concerns.
 - [Gerald Ford](entities/GeraldFord.md) — U.S. president constrained by Watergate's aftermath, Congress, public opinion, and an impossible evacuation hierarchy.
@@ -3202,7 +3203,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent's Last Exam](entities/AgentsLastExam.md) — Cross-domain agent benchmark built around professional tasks, tools, environments, verifiers, and held-out evaluation.
 - [Mary Helen Immordino-Yang](entities/MaryHelenImmordinoYang.md) — Neuroscientist and developmental psychologist connecting emotion, culture, narrative, social inference, and education.
 - [练晶晶 / Lian Jingjing](entities/LianJingjing.md) — Digestive-endoscopy clinician explaining screening, test selection, preparation, anesthesia boundaries, biopsy, and common misconceptions.
-- [上海市东方医院 / Shanghai East Hospital](entities/ShanghaiEastHospital.md) — Source-stated hospital affiliation for 练晶晶 and institutional context for gastrointestinal-endoscopy education.
+- [上海市东方医院 / Shanghai East Hospital](entities/ShanghaiEastHospital.md) — Source-stated hospital affiliation for digestive-endoscopy and plastic-surgery guests and their public medical education.
 - [Easter Rising](entities/EasterRising.md) — 1916 Irish republican rebellion whose military defeat became a political and commemorative turning point.
 - [Patrick Pearse](entities/PatrickPearse.md) — Modern bilingual educator and revolutionary who used deep and invented historical tradition to frame the Easter Rising.
 - [Oliver Cromwell](entities/OliverCromwell.md) — English commander and Lord Protector joining Irish conquest to coercive, providential, and constitutionally unstable rule.
@@ -14464,6 +14465,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Frankfurt Parliament](entities/FrankfurtParliament.md) — German national assembly whose representative ambition lacked independent military and administrative capacity.
 
 ## Concepts
+- [Breast Reconstruction Decision / 乳房再造决策](concepts/BreastReconstructionDecision.md) — Whole-pathway selection of whether, when, and how to reconstruct after breast-cancer surgery.
+- [Autologous Breast Reconstruction Flap Selection / 自体组织乳房再造皮瓣选择](concepts/AutologousBreastReconstructionFlapSelection.md) — Blood-supply and donor-site framework for pedicled and free-tissue breast reconstruction.
+- [Breast Augmentation Anatomy and Expectation Boundary / 乳房增容的解剖与预期边界](concepts/BreastAugmentationAnatomyExpectationBoundary.md) — Anatomy-, proportion-, life-stage-, and motivation-sensitive boundary for breast size and shape requests.
 - [Companion Animal Public Symbolism](concepts/CompanionAnimalPublicSymbolism.md) — Process through which a named animal carries public claims about family, loyalty, leadership, conquest, memory, or celebrity.
 - [Plastic Surgery Clinical Scope / 整形外科临床范围](concepts/PlasticSurgeryClinicalScope.md) — Framework joining disease care, reconstruction, function, appearance, safety, and psychosocial outcome.
 - [Gynecomastia Clinical Assessment / 男性乳房发育临床评估](concepts/GynecomastiaClinicalAssessment.md) — Tissue-, cause-, and duration-based assessment of male breast enlargement.

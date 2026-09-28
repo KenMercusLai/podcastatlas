@@ -8435,6 +8435,10 @@
     "title": "Autoimmune Disease Subtyping",
     "url": "/wiki/concepts/autoimmunediseasesubtyping/"
   },
+  "AutologousBreastReconstructionFlapSelection": {
+    "title": "Autologous Breast Reconstruction Flap Selection / 自体组织乳房再造皮瓣选择",
+    "url": "/wiki/concepts/autologousbreastreconstructionflapselection/"
+  },
   "AutomatedBallStrikeChallengeSystem": {
     "title": "Automated Ball Strike Challenge System",
     "url": "/wiki/entities/automatedballstrikechallengesystem/"
@@ -11155,6 +11159,10 @@
     "title": "Breakup World Loss",
     "url": "/wiki/concepts/breakupworldloss/"
   },
+  "BreastAugmentationAnatomyExpectationBoundary": {
+    "title": "Breast Augmentation Anatomy and Expectation Boundary / 乳房增容的解剖与预期边界",
+    "url": "/wiki/concepts/breastaugmentationanatomyexpectationboundary/"
+  },
   "BreastCancerRiskContext": {
     "title": "乳腺癌风险情境化 / Breast Cancer Risk Context",
     "url": "/wiki/concepts/breastcancerriskcontext/"
@@ -11162,6 +11170,10 @@
   "BreastFindingRecognitionAndTriage": {
     "title": "乳腺异常识别与分诊 / Breast Finding Recognition and Triage",
     "url": "/wiki/concepts/breastfindingrecognitionandtriage/"
+  },
+  "BreastReconstructionDecision": {
+    "title": "Breast Reconstruction Decision / 乳房再造决策",
+    "url": "/wiki/concepts/breastreconstructiondecision/"
   },
   "BreastSelfAwarenessBoundary": {
     "title": "乳房自我觉察边界 / Breast Self-Awareness Boundary",
@@ -87458,6 +87470,10 @@
   "vol-36-yanke-guanyu-ganyanzheng-yanyaoshui-yandibing-jinshi-he-jinshi-shoushu-yanke-zhuren-you-hua-shuo-lmpfupdvpcxynhp6d4hfhptayvpo": {
     "title": "VOL.36眼科｜关于干眼症、眼药水、眼底病、近视和近视手术…眼科主任有话说",
     "url": "/wiki/sources/vol-36-yanke-guanyu-ganyanzheng-yanyaoshui-yandibing-jinshi-he-jinshi-shoushu-yanke-zhuren-you-hua-shuo-lmpfupdvpcxynhp6d4hfhptayvpo/"
+  },
+  "vol-40-zhengxingwaike-chai-dongqiang-bu-xiqiang-wei-nvxing-ruxianai-shuhou-rufang-zaizao-tigong-le-geng-duo-keneng-ltyo0gcsutudirgpxk6h9uosjlcc": {
+    "title": "VOL.40整形外科｜“拆东墙补西墙”为女性乳腺癌术后乳房再造提供了更多可能",
+    "url": "/wiki/sources/vol-40-zhengxingwaike-chai-dongqiang-bu-xiqiang-wei-nvxing-ruxianai-shuhou-rufang-zaizao-tigong-le-geng-duo-keneng-ltyo0gcsutudirgpxk6h9uosjlcc/"
   },
   "vol-41-zhengxingwaike-guanyu-nanxing-rufang-fayu-juruzheng-chouzhi-meirongzhen-banhentizhi-de-renshi-wuqu-lsknmcasvbogjgadfbfos7uj2t59": {
     "title": "VOL.41整形外科｜关于男性乳房发育、巨乳症、抽脂、美容针、瘢痕体质的认识误区",

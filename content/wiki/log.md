@@ -24814,3 +24814,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | VOL.40整形外科｜“拆东墙补西墙”为女性乳腺癌术后乳房再造提供了更多可能
+
+Added source `vol-40-zhengxingwaike-chai-dongqiang-bu-xiqiang-wei-nvxing-ruxianai-shuhou-rufang-zaizao-tigong-le-geng-duo-keneng-ltyo0gcsutudirgpxk6h9uosjlcc`; created `BreastReconstructionDecision`, `AutologousBreastReconstructionFlapSelection`, and `BreastAugmentationAnatomyExpectationBoundary`; and updated `LuoLuPlasticSurgeon`, `ShanghaiEastHospital`, `PlasticSurgeryClinicalScope`, and the canonical index from their complete bounded source sets. Core synthesis: post-cancer breast reconstruction is a whole-pathway choice integrating oncologic treatment, defect type, timing, tissue and donor-site conditions, operative burden, cost, readiness, and patient preference; flaps carry a planned blood supply and trade recipient-site benefit against donor morbidity and vascular risk; and augmentation goals remain constrained by anatomy, life-stage change, proportionality, and informed expectations. No settled contradiction was adopted. The source's guest-name rendering, local reconstruction rate, insurance and care-pathway observations, oncologic-safety and radiotherapy claims, textured-implant lymphoma discussion, postpartum-prevention advice, and “gold standard” language remain identity-qualified, setting-specific, or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
