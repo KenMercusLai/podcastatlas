@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 11245
+wiki_total_pages: 11250
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -146,6 +146,9 @@ wiki_pages:
   - key: "Malaysia"
     title: "Malaysia"
     url: "/wiki/entities/malaysia/"
+  - key: "MalcolmGaskell"
+    title: "Malcolm Gaskell"
+    url: "/wiki/entities/malcolmgaskell/"
   - key: "Malibu"
     title: "Malibu"
     url: "/wiki/entities/malibu/"
@@ -518,6 +521,9 @@ wiki_pages:
   - key: "MaryHelenImmordinoYang"
     title: "Mary Helen Immordino-Yang"
     url: "/wiki/entities/maryhelenimmordinoyang/"
+  - key: "MaryParsons"
+    title: "Mary Parsons"
+    url: "/wiki/entities/maryparsons/"
   - key: "MaryPatCampbell"
     title: "Mary Pat Campbell"
     url: "/wiki/entities/marypatcampbell/"

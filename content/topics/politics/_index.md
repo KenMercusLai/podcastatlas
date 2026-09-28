@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2794
+topic_total_pages: 2796
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3967,6 +3967,9 @@ topic_concepts:
   - key: "WitchHuntMechanism"
     title: "Witch-Hunt Mechanism / 猎巫机制"
     url: "/wiki/concepts/witchhuntmechanism/"
+  - key: "WitchcraftBeliefEvidenceThreshold"
+    title: "Witchcraft Belief–Evidence Threshold"
+    url: "/wiki/concepts/witchcraftbeliefevidencethreshold/"
   - key: "WorkingTowardsTheFuhrer"
     title: "Working Towards the Führer"
     url: "/wiki/concepts/workingtowardsthefuhrer/"
@@ -7416,6 +7419,9 @@ topic_sources:
   - key: "264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0"
     title: "264.库克的道德锚点｜过去15年，库克给苹果留下了什么？"
     url: "/wiki/sources/264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0/"
+  - key: "331-american-witches-glt9152886733"
+    title: "331: American Witches"
+    url: "/wiki/sources/331-american-witches-glt9152886733/"
   - key: "334-athens-and-the-birth-of-democracy-glt2496707123"
     title: "334: Athens and the Birth of Democracy"
     url: "/wiki/sources/334-athens-and-the-birth-of-democracy-glt2496707123/"

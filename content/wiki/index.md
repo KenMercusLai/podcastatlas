@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [331: American Witches](sources/331-american-witches-glt9152886733.md) — The Rest Is History episode on Springfield, Puritan settlement, the Parsons household, witchcraft's social ecology, and belief coexisting with judicial skepticism.
 - [What Humans, Animals and Plants Tell Us About Consciousness | Michael Pollan](sources/what-humans-animals-and-plants-tell-us-about-consciousness-michael-pollan-scim4063268713.md) — Huberman Lab conversation on plant perception, embodied consciousness, ego dissolution, AI, food-system reform, psychedelic safeguards, and contextual caffeine use.
 - [VOL.45食品与营养｜你喝牛奶么？这5种“超级食物”是智商税吗？](sources/vol-45-shipin-yu-yingyang-ni-he-niunai-me-zhe-5-zhong-chaoji-shiwu-shi-zhishangshui-ma-lmiafjnoiooijzqcnmfrmref-h2v.md) — 这病说来话长 episode on milk choice, lactose tolerance, superfood and supplement claims, ingredient lists, additives, and contextual food value.
 - [332: King Solomon's Mines](sources/332-king-solomons-mines-glt4960691587.md) — The Rest Is History episode on Haggard's biography, imperial adventure fiction, racial contradiction, lost-world storytelling, and modern genre afterlives.
@@ -3113,6 +3114,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [334: Athens and the Birth of Democracy](sources/334-athens-and-the-birth-of-democracy-glt2496707123.md) — The Rest Is History episode on Solon, Peisistratid tyranny, Cleisthenic reform, popular revolution, demes, autochthony, sacred citizenship, and the limits of the demos.
 
 ## Entities
+- [Malcolm Gaskell](entities/MalcolmGaskell.md) — Historian connecting Springfield microhistory to the social ecology and evidentiary limits of witch accusation.
+- [William Pynchon](entities/WilliamPynchon.md) — Puritan merchant-founder whose religious, commercial, and landholding project structures the Springfield setting.
+- [Hugh Parsons](entities/HughParsons.md) — Springfield brickmaker whose scarce skill, conflicts, and reputation became inputs to witchcraft accusation.
+- [Mary Parsons](entities/MaryParsons.md) — Monmouthshire migrant whose grief and distress moved across accusation, self-accusation, religion, and possible illness.
+- [Springfield, Massachusetts](entities/SpringfieldMassachusetts.md) — Puritan-commercial settlement whose insecurity and neighbor dependence shaped the Parsons witchcraft crisis.
 - [Michael Pollan](entities/MichaelPollan.md) — Author and journalist connecting consciousness, gardening, psychedelics, food systems, advocacy, and contextual self-experimentation.
 - [H. Rider Haggard](entities/HRiderHaggard.md) — Victorian novelist joining southern African experience, imperial anxiety, racial hierarchy, and durable adventure conventions.
 - [King Solomon's Mines](entities/KingSolomonsMines.md) — 1885 quest novel whose hidden kingdom, treasure, fellowship, and ideological tensions shaped later adventure media.
@@ -14379,6 +14385,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Theseus](entities/Theseus.md) — Athenian founder figure remembered as unifier of Attica and ancestral source of power for the demos.
 
 ## Concepts
+- [New England Witchcraft Social Ecology](concepts/NewEnglandWitchcraftSocialEcology.md) — Interaction of religious anxiety, household grief, economic dependence, settlement insecurity, reputation, and law in witchcraft accusation.
+- [Witchcraft Belief–Evidence Threshold](concepts/WitchcraftBeliefEvidenceThreshold.md) — Distinction between accepting witchcraft as possible and finding a particular accusation legally proven.
 - [Perception-Consciousness Boundary](concepts/PerceptionConsciousnessBoundary.md) — Distinguishes sensing, valence, adaptation, and problem-solving from evidence of subjective experience.
 - [Embodied Consciousness Hypothesis](concepts/EmbodiedConsciousnessHypothesis.md) — Brainstem and homeostasis account in which bodily feeling may precede cortical reflection.
 - [Ego Dissolution and the Functional Self](concepts/EgoDissolutionFunctionalSelf.md) — Holds temporary self-loss together with the self's roles in planning, responsibility, and durable action.

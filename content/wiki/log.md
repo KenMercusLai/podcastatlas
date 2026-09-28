@@ -24635,3 +24635,11 @@ Added source `what-humans-animals-and-plants-tell-us-about-consciousness-michael
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | 331: American Witches
+
+Added source `331-american-witches-glt9152886733`; created `MalcolmGaskell`, `WilliamPynchon`, `HughParsons`, `MaryParsons`, `SpringfieldMassachusetts`, `NewEnglandWitchcraftSocialEcology`, and `WitchcraftBeliefEvidenceThreshold`; and updated `WitchHuntMechanism`, `SalemWitchTrials`, and the canonical index from their complete bounded source sets. Core synthesis: Springfield witchcraft accusation grew from interacting religious anxiety, migration, household grief, economic dependence, reputation, settlement insecurity, and Atlantic crisis, but belief in witches did not make conviction automatic because courts could reject inadequate proof. Salem is therefore qualified as an exceptional escalation rather than the default trajectory. No settled contradiction was adopted; retrospective diagnosis, conviction rates, migration motives, Springfield's later crises, and causal claims about the decline of witch hunting remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

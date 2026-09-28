@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 11245
+wiki_total_pages: 11250
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -845,6 +845,9 @@ wiki_pages:
   - key: "HuggingFace"
     title: "Hugging Face"
     url: "/wiki/entities/huggingface/"
+  - key: "HughParsons"
+    title: "Hugh Parsons"
+    url: "/wiki/entities/hughparsons/"
   - key: "HugoChavez"
     title: "Hugo Chavez"
     url: "/wiki/entities/hugochavez/"

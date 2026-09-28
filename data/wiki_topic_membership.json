@@ -1521,6 +1521,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "331-american-witches-glt9152886733": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "332-king-solomons-mines-glt4960691587": [
     {
       "key": "history",
@@ -80823,6 +80835,13 @@
     }
   ],
   "WitchHuntMechanism": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "WitchcraftBeliefEvidenceThreshold": [
     {
       "key": "politics",
       "label": "Politics",

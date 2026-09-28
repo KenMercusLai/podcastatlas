@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 8642
+wiki_total_pages: 8644
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -209,6 +209,9 @@ wiki_pages:
   - key: "NewEngineeringEducation"
     title: "New Engineering Education / 新工科教育"
     url: "/wiki/concepts/newengineeringeducation/"
+  - key: "NewEnglandWitchcraftSocialEcology"
+    title: "New England Witchcraft Social Ecology"
+    url: "/wiki/concepts/newenglandwitchcraftsocialecology/"
   - key: "NewGoldenAgeScienceAgenda"
     title: "New Golden Age Science Agenda"
     url: "/wiki/concepts/newgoldenagescienceagenda/"

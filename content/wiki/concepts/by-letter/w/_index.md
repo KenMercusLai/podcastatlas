@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 8642
+wiki_total_pages: 8644
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -338,6 +338,9 @@ wiki_pages:
   - key: "WitchHuntMechanism"
     title: "Witch-Hunt Mechanism / 猎巫机制"
     url: "/wiki/concepts/witchhuntmechanism/"
+  - key: "WitchcraftBeliefEvidenceThreshold"
+    title: "Witchcraft Belief–Evidence Threshold"
+    url: "/wiki/concepts/witchcraftbeliefevidencethreshold/"
   - key: "WokHei"
     title: "Wok Hei"
     url: "/wiki/concepts/wokhei/"

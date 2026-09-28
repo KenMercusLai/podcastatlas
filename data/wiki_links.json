@@ -983,6 +983,10 @@
     "title": "33.人间失格：胆小鬼的壮烈献祭",
     "url": "/wiki/sources/33-renjian-shige-danxiaogui-de-zhuanglie-xianji-599924624/"
   },
+  "331-american-witches-glt9152886733": {
+    "title": "331: American Witches",
+    "url": "/wiki/sources/331-american-witches-glt9152886733/"
+  },
   "332-king-solomons-mines-glt4960691587": {
     "title": "332: King Solomon's Mines",
     "url": "/wiki/sources/332-king-solomons-mines-glt4960691587/"
@@ -34299,6 +34303,10 @@
     "title": "Hugging Face",
     "url": "/wiki/entities/huggingface/"
   },
+  "HughParsons": {
+    "title": "Hugh Parsons",
+    "url": "/wiki/entities/hughparsons/"
+  },
   "HugoChavez": {
     "title": "Hugo Chavez",
     "url": "/wiki/entities/hugochavez/"
@@ -45355,6 +45363,10 @@
     "title": "Malaysia",
     "url": "/wiki/entities/malaysia/"
   },
+  "MalcolmGaskell": {
+    "title": "Malcolm Gaskell",
+    "url": "/wiki/entities/malcolmgaskell/"
+  },
   "MaleEmotionalIntimacyNeed": {
     "title": "Male Emotional Intimacy Need / 男性情感亲密需要",
     "url": "/wiki/concepts/maleemotionalintimacyneed/"
@@ -46274,6 +46286,10 @@
   "MaryHelenImmordinoYang": {
     "title": "Mary Helen Immordino-Yang",
     "url": "/wiki/entities/maryhelenimmordinoyang/"
+  },
+  "MaryParsons": {
+    "title": "Mary Parsons",
+    "url": "/wiki/entities/maryparsons/"
   },
   "MaryPatCampbell": {
     "title": "Mary Pat Campbell",
@@ -50302,6 +50318,10 @@
   "NewEnglandRevolution": {
     "title": "New England Revolution",
     "url": "/wiki/entities/newenglandrevolution/"
+  },
+  "NewEnglandWitchcraftSocialEcology": {
+    "title": "New England Witchcraft Social Ecology",
+    "url": "/wiki/concepts/newenglandwitchcraftsocialecology/"
   },
   "NewFiveDynastiesHistory": {
     "title": "《新五代史》 / New History of the Five Dynasties",
@@ -66131,6 +66151,10 @@
     "title": "Springboks",
     "url": "/wiki/entities/springboks/"
   },
+  "SpringfieldMassachusetts": {
+    "title": "Springfield, Massachusetts",
+    "url": "/wiki/entities/springfieldmassachusetts/"
+  },
   "SprinkleBites": {
     "title": "Sprinkle Bites",
     "url": "/wiki/entities/sprinklebites/"
@@ -75787,6 +75811,10 @@
     "title": "William Pirrie",
     "url": "/wiki/entities/williampirrie/"
   },
+  "WilliamPynchon": {
+    "title": "William Pynchon",
+    "url": "/wiki/entities/williampynchon/"
+  },
   "WilliamRandolphLovelace": {
     "title": "William Randolph Lovelace",
     "url": "/wiki/entities/williamrandolphlovelace/"
@@ -75926,6 +75954,10 @@
   "WitchHuntMechanism": {
     "title": "Witch-Hunt Mechanism / 猎巫机制",
     "url": "/wiki/concepts/witchhuntmechanism/"
+  },
+  "WitchcraftBeliefEvidenceThreshold": {
+    "title": "Witchcraft Belief–Evidence Threshold",
+    "url": "/wiki/concepts/witchcraftbeliefevidencethreshold/"
   },
   "WithoutADoubt": {
     "title": "Without a Doubt",

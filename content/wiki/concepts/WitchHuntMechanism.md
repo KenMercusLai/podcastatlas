@@ -2,34 +2,67 @@
 title: "Witch-Hunt Mechanism / 猎巫机制"
 type: concept
 tags: [persecution, public-opinion, law, religion, reasoning]
-sources: [34-maomi-mishi-he-yuchun-you-keai-de-renlei-601590607, 91-liewu-sailemu-1692-cong-yizheng-kaishi-714732018]
-last_updated: 2026-08-06
+sources:
+  - 34-maomi-mishi-he-yuchun-you-keai-de-renlei-601590607
+  - 91-liewu-sailemu-1692-cong-yizheng-kaishi-714732018
+  - 331-american-witches-glt9152886733
+last_updated: 2026-09-28
+knowledge_schema: synthesis-v1
 ---
 
 # Witch-Hunt Mechanism / 猎巫机制
 
-Witch-hunt mechanism / 猎巫机制 is [[91-liewu-sailemu-1692-cong-yizheng-kaishi-714732018]]'s generalization from the [[SalemWitchTrials|塞勒姆猎巫]]. The episode argues that witch hunting is not just ignorance about witches; it is a social process where closedness, oppression, authority guidance, and pseudo-rationality convert diffuse fear into a hunt for internal enemies.
+## Definition
 
-The mechanism begins with pressure that cannot be easily acted on: war, disease, economic decline, gender discipline, political insecurity, and status anxiety. A community then finds suspicious bodies, odd symptoms, dreams, rumors, or disliked people. When authority accepts those signs as evidence, accusation becomes both moral performance and self-protection.
+Witch-hunt mechanism / 猎巫机制 is the process by which diffuse pressure and ambiguous misfortune are organized into accusations against hidden internal enemies, then amplified or constrained by communal incentives and institutional evidence rules.
 
-[[34-maomi-mishi-he-yuchun-you-keai-de-renlei-601590607]] adds a nonhuman target extension through [[CatCulturalAmbivalence]]. The source's medieval European cat section shows how animals associated with night, women, pagan deities, household intimacy, or blackness can become evidence-like signs inside a moral panic. In that pattern, persecuting cats is not separate from persecuting suspected witches; it helps materialize the imagined hidden alliance.
+## Current Synthesis
+
+The mechanism begins with pressures that are difficult to master directly: war, disease, economic strain, household loss, gender discipline, religious anxiety, political insecurity, and status conflict. An interpretive frame then turns bodily symptoms, dreams, animal behavior, quarrels, coincidence, or a disliked neighbor into signs of hostile agency. Accusation can become moral performance and self-protection when authorities accept those signs, confession is safer than denial, or naming others redirects suspicion.
+
+The combined sources now separate accusation from inevitable escalation. [[SalemWitchTrials|Salem]] shows how [[SpectralEvidence]], coerced denunciation, and authority can convert subjective experience into lethal procedure. [[331-american-witches-glt9152886733|Springfield]] shows that a community can share belief in witches while courts reject a particular case for inadequate proof. [[34-maomi-mishi-he-yuchun-you-keai-de-renlei-601590607|The cat-history episode]] extends the target set: animals associated with night, women, paganism, blackness, or household intimacy can materialize the imagined alliance and become objects of persecution.
 
 ## Key Claims
-- A witch hunt needs an interpretive frame that turns misfortune into enemy action.
-- Marginal people are often first targets because they already carry stigma, resentment, or social inconvenience.
-- Animals can be drawn into the mechanism when their behavior or symbolism is treated as proof of secret alliance with a feared human group.
-- Once accusation becomes useful, it can spread beyond the marginal to family members, defenders, and previous accusers.
-- [[SpectralEvidence]] shows how subjective experience becomes dangerous when institutions treat it as proof.
-- [[CoercedDenunciation]] changes the incentive structure: confessing and naming others can look safer than denial.
-- [[PoliticalShowTrial]] supplies closure by making a public enemy more important than truth-finding.
-- The modern form can appear as [[InternetMoralTrial]], where hidden motive, stance, or impurity is asserted in ways the accused cannot falsify.
-- The episode's counter-method is not blind trust in elite rationality; it is [[ObservationBeforeInference]], [[RationalHumility]], and the refusal to confuse plausible causal stories with evidence.
 
-## Connections
-- [[SalemWitchTrials]] - source case.
-- [[CatCulturalAmbivalence]] - cat-specific extension where animal demonization becomes part of witchcraft panic.
-- [[SpectralEvidence]] - procedural expression of weak evidence becoming official proof.
-- [[PoliticalShowTrial]] and [[CoercedDenunciation]] - institutional and speech-coercion mechanisms.
-- [[InternetMoralTrial]] - modern public-discourse analogy.
-- [[ConspiracyTheoryPatternSeeking]] and [[AppealToIgnorance]] - reasoning failures that make accusation sticky.
-- [[RationalistMethod]], [[ObservationBeforeInference]], and [[RationalHumility]] - source's proposed resistance tools.
+- A witch hunt needs an interpretive frame that turns misfortune into enemy action.
+- Marginal or difficult people are vulnerable because stigma, dependence, resentment, and social inconvenience make hidden-agency stories easier to attach to them.
+- Accusation can spread beyond initial targets to family, defenders, children, men, previous accusers, and symbolically associated animals.
+- [[SpectralEvidence]] and [[CoercedDenunciation]] lower procedural resistance by converting subjective experience and survival speech into evidence.
+- Authority matters twice: it can legitimate escalation, or it can interrupt it by demanding stronger proof.
+- Shared supernatural belief does not make conviction automatic; [[WitchcraftBeliefEvidenceThreshold]] separates possibility from case-specific legal sufficiency.
+- Modern analogies such as [[InternetMoralTrial]] are useful only when they preserve differences in law, punishment, media, and historical worldview.
+
+## Evidence
+
+### Pressure, accusation, and institutional escalation
+
+- [[91-liewu-sailemu-1692-cong-yizheng-kaishi-714732018]] links Salem's war, disease, poverty, political instability, Puritan discipline, gendered conflict, spectacle, spectral evidence, and coerced confession.
+
+### Neighbor dependence and evidentiary restraint
+
+- [[331-american-witches-glt9152886733]] uses the Parsons case to connect religious anxiety, household grief, scarce skilled labor, transactional conflict, reputation, and accusation while showing Boston authorities reject insufficient proof.
+
+### Nonhuman extension
+
+- [[34-maomi-mishi-he-yuchun-you-keai-de-renlei-601590607]] shows cats becoming evidence-like symbols within European witchcraft panic and the persecution of suspected witches.
+
+## Counterevidence & Qualifications
+
+The mechanism is a comparative model, not proof that every accusation has the same cause or that every disliked person becomes a target. Salem's extraordinary escalation should not stand for all early modern prosecutions, and Springfield's failed convictions should not imply that accusation was harmless. The cat-history source contains legend-heavy material that remains evidence of cultural association rather than proof of each narrated event. Modern analogies must not erase the distinct theology, law, and violence of historical witch trials.
+
+## What Changed
+
+- Added neighbor dependence, household grief, and settlement economy to the pressure model.
+- Distinguished the social production of accusation from the legal threshold for conviction.
+- Qualified Salem as an exceptional escalation rather than the default outcome of witchcraft belief.
+- Preserved animals as a symbolic and persecuted extension of the human target set.
+
+## Related Concepts
+
+- [[NewEnglandWitchcraftSocialEcology]] - specifies the household, neighbor, settlement, religious, and Atlantic conditions behind New England accusations.
+- [[WitchcraftBeliefEvidenceThreshold]] - explains how courts can accept witchcraft as possible yet reject a named accusation.
+- [[SpectralEvidence]] - procedural route by which subjective experience becomes official proof.
+- [[CoercedDenunciation]] - incentive structure in which confession and naming others can appear safer than denial.
+- [[InternetMoralTrial]] - modern public-discourse analogy requiring historical qualification.
+- [[ConspiracyTheoryPatternSeeking]] - related conversion of ambiguous events into hidden coordinated agency.
+- [[ObservationBeforeInference]] - counter-method that tests evidence before settling on an attractive causal story.
