@@ -979,6 +979,10 @@
     "title": "32.印第安人《讲了一百万次的故事》是马尔克斯的老师",
     "url": "/wiki/sources/32-yindianren-jiang-le-yi-bai-wan-ci-de-gushi-shi-maerkesi-de-laoshi-596386714/"
   },
+  "329-coronations-chaos-ceremony-and-empire-part-3-glt8755026279": {
+    "title": "329: Coronations: Chaos, Ceremony and Empire (Part 3)",
+    "url": "/wiki/sources/329-coronations-chaos-ceremony-and-empire-part-3-glt8755026279/"
+  },
   "33-renjian-shige-danxiaogui-de-zhuanglie-xianji-599924624": {
     "title": "33.人间失格：胆小鬼的壮烈献祭",
     "url": "/wiki/sources/33-renjian-shige-danxiaogui-de-zhuanglie-xianji-599924624/"
@@ -11211,6 +11215,10 @@
     "title": "British Columbia / 加拿大BC省",
     "url": "/wiki/entities/britishcolumbia/"
   },
+  "BritishCoronationRitual": {
+    "title": "British Coronation Ritual",
+    "url": "/wiki/concepts/britishcoronationritual/"
+  },
   "BritishCoupParanoia1974": {
     "title": "British Coup Paranoia in 1974",
     "url": "/wiki/concepts/britishcoupparanoia1974/"
@@ -13574,6 +13582,10 @@
   "CharlesHenriSanson": {
     "title": "Charles-Henri Sanson",
     "url": "/wiki/entities/charleshenrisanson/"
+  },
+  "CharlesIII": {
+    "title": "Charles III",
+    "url": "/wiki/entities/charlesiii/"
   },
   "CharlesIIOfEngland": {
     "title": "Charles II of England",
@@ -17398,6 +17410,10 @@
   "CoronaryArteryCalciumMidlifeScreening": {
     "title": "Coronary Artery Calcium Midlife Screening",
     "url": "/wiki/concepts/coronaryarterycalciummidlifescreening/"
+  },
+  "CoronationMassMediaTransformation": {
+    "title": "Coronation Mass-Media Transformation",
+    "url": "/wiki/concepts/coronationmassmediatransformation/"
   },
   "CorporateComplicityWithAuthoritarianism": {
     "title": "Corporate Complicity With Authoritarianism / 企业对威权的共谋",
@@ -23062,6 +23078,10 @@
   "ElizabethI": {
     "title": "Elizabeth I",
     "url": "/wiki/entities/elizabethi/"
+  },
+  "ElizabethII": {
+    "title": "Elizabeth II",
+    "url": "/wiki/entities/elizabethii/"
   },
   "ElizabethJenningsGraham": {
     "title": "Elizabeth Jennings Graham",
@@ -29286,6 +29306,10 @@
   "GeorgeIII": {
     "title": "George III",
     "url": "/wiki/entities/georgeiii/"
+  },
+  "GeorgeIV": {
+    "title": "George IV",
+    "url": "/wiki/entities/georgeiv/"
   },
   "GeorgeKurtz": {
     "title": "George Kurtz",

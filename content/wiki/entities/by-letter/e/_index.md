@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 11253
+wiki_total_pages: 11256
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -275,6 +275,9 @@ wiki_pages:
   - key: "ElizabethI"
     title: "Elizabeth I"
     url: "/wiki/entities/elizabethi/"
+  - key: "ElizabethII"
+    title: "Elizabeth II"
+    url: "/wiki/entities/elizabethii/"
   - key: "ElizabethJenningsGraham"
     title: "Elizabeth Jennings Graham"
     url: "/wiki/entities/elizabethjenningsgraham/"

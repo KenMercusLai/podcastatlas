@@ -24666,3 +24666,11 @@ Added source `330-herodotus-the-birth-of-history-glt7158094581`; created `TheHis
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | 329: Coronations: Chaos, Ceremony and Empire (Part 3)
+
+Added source `329-coronations-chaos-ceremony-and-empire-part-3-glt8755026279`; created `GeorgeIV`, `ElizabethII`, `CharlesIII`, `BritishCoronationRitual`, and `CoronationMassMediaTransformation`; and updated `GeorgeIII`, `QueenVictoria`, and the canonical index from their complete bounded source sets. Core synthesis: British coronation persists by holding Christian consecration, political legitimacy, public spectacle, administrative failure, imperial representation, and mass mediation together, while rail, radio, and television widen access without guaranteeing shared theological meaning. No settled contradiction was adopted. Crowd, cost, riot, and audience totals; reported dialogue; ceremonial motives; and claims about religious consensus remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

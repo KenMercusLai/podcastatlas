@@ -20825,6 +20825,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/britisharmy/"
     },
+    "BritishCoronationRitual": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8755026279 [GLT8755026279].md",
+          "key": "329-coronations-chaos-ceremony-and-empire-part-3-glt8755026279",
+          "show": "The Rest Is History",
+          "title": "329: Coronations: Chaos, Ceremony and Empire (Part 3)",
+          "url": "/wiki/sources/329-coronations-chaos-ceremony-and-empire-part-3-glt8755026279/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/britishcoronationritual/"
+    },
     "BritishCoupParanoia1974": {
       "episode_count": 1,
       "show_count": 1,
@@ -26375,6 +26391,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/charleshenrisanson/"
+    },
+    "CharlesIII": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8755026279 [GLT8755026279].md",
+          "key": "329-coronations-chaos-ceremony-and-empire-part-3-glt8755026279",
+          "show": "The Rest Is History",
+          "title": "329: Coronations: Chaos, Ceremony and Empire (Part 3)",
+          "url": "/wiki/sources/329-coronations-chaos-ceremony-and-empire-part-3-glt8755026279/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/charlesiii/"
     },
     "CharlesIIOfEngland": {
       "episode_count": 3,
@@ -35116,6 +35148,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/coronaryarterycalciummidlifescreening/"
+    },
+    "CoronationMassMediaTransformation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8755026279 [GLT8755026279].md",
+          "key": "329-coronations-chaos-ceremony-and-empire-part-3-glt8755026279",
+          "show": "The Rest Is History",
+          "title": "329: Coronations: Chaos, Ceremony and Empire (Part 3)",
+          "url": "/wiki/sources/329-coronations-chaos-ceremony-and-empire-part-3-glt8755026279/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/coronationmassmediatransformation/"
     },
     "CorporateComplicityWithAuthoritarianism": {
       "episode_count": 2,
@@ -48102,6 +48150,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/entities/elizabethi/"
+    },
+    "ElizabethII": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8755026279 [GLT8755026279].md",
+          "key": "329-coronations-chaos-ceremony-and-empire-part-3-glt8755026279",
+          "show": "The Rest Is History",
+          "title": "329: Coronations: Chaos, Ceremony and Empire (Part 3)",
+          "url": "/wiki/sources/329-coronations-chaos-ceremony-and-empire-part-3-glt8755026279/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/elizabethii/"
     },
     "ElizabethanRecusancySecurityState": {
       "episode_count": 2,
@@ -66022,9 +66086,9 @@
       "url": "/wiki/entities/georgecrook/"
     },
     "GeorgeIII": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6013835340 [GLT6013835340].md",
@@ -66039,10 +66103,33 @@
           "show": "The Rest Is History",
           "title": "348: The Boston Tea Party (Part 2)",
           "url": "/wiki/sources/348-the-boston-tea-party-part-2-glt5189620267/"
+        },
+        {
+          "episode_file": "GLT8755026279 [GLT8755026279].md",
+          "key": "329-coronations-chaos-ceremony-and-empire-part-3-glt8755026279",
+          "show": "The Rest Is History",
+          "title": "329: Coronations: Chaos, Ceremony and Empire (Part 3)",
+          "url": "/wiki/sources/329-coronations-chaos-ceremony-and-empire-part-3-glt8755026279/"
         }
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/georgeiii/"
+    },
+    "GeorgeIV": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8755026279 [GLT8755026279].md",
+          "key": "329-coronations-chaos-ceremony-and-empire-part-3-glt8755026279",
+          "show": "The Rest Is History",
+          "title": "329: Coronations: Chaos, Ceremony and Empire (Part 3)",
+          "url": "/wiki/sources/329-coronations-chaos-ceremony-and-empire-part-3-glt8755026279/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/georgeiv/"
     },
     "GeorgeLucas": {
       "episode_count": 3,
@@ -134791,9 +134878,9 @@
       "url": "/wiki/entities/queennjinga/"
     },
     "QueenVictoria": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT8608697296 [GLT8608697296].md",
@@ -134808,9 +134895,16 @@
           "show": "The Rest Is History",
           "title": "706. Queen Victoria's Revenge: Storming the Citadel (Part 2)",
           "url": "/wiki/sources/706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568/"
+        },
+        {
+          "episode_file": "GLT8755026279 [GLT8755026279].md",
+          "key": "329-coronations-chaos-ceremony-and-empire-part-3-glt8755026279",
+          "show": "The Rest Is History",
+          "title": "329: Coronations: Chaos, Ceremony and Empire (Part 3)",
+          "url": "/wiki/sources/329-coronations-chaos-ceremony-and-empire-part-3-glt8755026279/"
         }
       ],
-      "updated": "2026-09-17",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/queenvictoria/"
     },
     "QueerSafetyRetreat": {

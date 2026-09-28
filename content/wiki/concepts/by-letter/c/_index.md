@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8649
+wiki_total_pages: 8651
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1997,6 +1997,9 @@ wiki_pages:
   - key: "CoronaryArteryCalciumMidlifeScreening"
     title: "Coronary Artery Calcium Midlife Screening"
     url: "/wiki/concepts/coronaryarterycalciummidlifescreening/"
+  - key: "CoronationMassMediaTransformation"
+    title: "Coronation Mass-Media Transformation"
+    url: "/wiki/concepts/coronationmassmediatransformation/"
   - key: "CorporateComplicityWithAuthoritarianism"
     title: "Corporate Complicity With Authoritarianism / 企业对威权的共谋"
     url: "/wiki/concepts/corporatecomplicitywithauthoritarianism/"

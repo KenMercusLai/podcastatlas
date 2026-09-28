@@ -1514,6 +1514,13 @@
       "url": "/topics/history/"
     }
   ],
+  "329-coronations-chaos-ceremony-and-empire-part-3-glt8755026279": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "33-renjian-shige-danxiaogui-de-zhuanglie-xianji-599924624": [
     {
       "key": "culture",
@@ -20950,6 +20957,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "CoronationMassMediaTransformation": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "CorporateComplicityWithAuthoritarianism": [

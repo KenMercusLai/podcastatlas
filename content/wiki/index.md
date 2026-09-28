@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [329: Coronations: Chaos, Ceremony and Empire (Part 3)](sources/329-coronations-chaos-ceremony-and-empire-part-3-glt8755026279.md) — The Rest Is History episode on British coronation as sacred rite, political contest, public disorder, imperial spectacle, and mass-media event.
 - [330: Herodotus: The Birth of History](sources/330-herodotus-the-birth-of-history-glt7158094581.md) — The Rest Is History episode on Herodotus as historian, storyteller, ethnographer, source critic, cross-cultural interpreter, and analyst of imperial power.
 - [How Psilocybin Can Rewire Our Brain, Its Therapeutic Benefits & Its Risks](sources/how-psilocybin-can-rewire-our-brain-its-therapeutic-benefits-its-risks-scim8168511614.md) — Huberman Lab solo episode on psilocybin pharmacology, structured therapeutic context, adaptive neuroplasticity, depression evidence, contraindications, and supervision.
 - [VOL.44献礼护士节｜与协和医院护师对谈临终关怀中的“身、心、社、灵”](sources/vol-44-xianli-hushijie-yu-xiehe-yiyuan-hushi-duitan-linzhong-guanhuai-zhong-de-shen-xin-she-ling-luernzy5tf_brgkkrkc4nw0fgmog.md) — 这病说来话长 episode on nursing, hospice goals, DNR, symptom relief, family communication, and whole-person end-of-life care.
@@ -14390,6 +14391,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Peisistratus](entities/Peisistratus.md) — Athenian tyrant who stabilizes personal rule through popular measures, patronage, festivals, and building before dynastic decline.
 - [Theseus](entities/Theseus.md) — Athenian founder figure remembered as unifier of Attica and ancestral source of power for the demos.
 
+- [George IV](entities/GeorgeIV.md) — British monarch whose extravagant coronation joined antiquarian theatre, marital exclusion, grandeur, and farce.
+- [Elizabeth II](entities/ElizabethII.md) — British monarch whose sacramental coronation became a defining television-era mass event.
+- [Charles III](entities/CharlesIII.md) — British monarch whose planned 2023 coronation renewed the question of sacral meaning in a more sceptical public culture.
+
 ## Concepts
 - [Historical Inquiry and Source Criticism](concepts/HistoricalInquirySourceCriticism.md) — Method for attributing testimony, comparing accounts, preserving uncertainty, and recovering information from mediated reports.
 - [Cross-Cultural Historical Perspective](concepts/CrossCulturalHistoricalPerspective.md) — Historical comparison that interprets customs and enemies within their own worlds while exposing the contingency of the observer's norms.
@@ -23062,5 +23067,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Repeat COVID Infection Triage / 新冠再感染分诊](concepts/RepeatCOVIDInfectionTriage.md) — Severity-, function-, comorbidity-, and care-setting-based assessment of suspected COVID reinfection.
 - [Post-Infectious Return to Activity / 感染后活动恢复](concepts/PostInfectiousReturnToActivity.md) — Graded return to exercise, work, travel, and altitude after infection with cardiopulmonary pause criteria.
 - [Athenian Autochthony](concepts/AthenianAutochthony.md) — Sacred civic identity rooting Athenian belonging in Attic soil, ancestry, gods, ritual, generational continuity, and exclusion boundaries.
+
+- [British Coronation Ritual](concepts/BritishCoronationRitual.md) — Christian consecration and public installation repeatedly reshaped by politics, spectacle, disorder, empire, and media.
+- [Coronation Mass-Media Transformation](concepts/CoronationMassMediaTransformation.md) — Expansion of place-bound royal ritual through rail tourism, imperial staging, radio, television, and communal viewing.
 
 ## Syntheses

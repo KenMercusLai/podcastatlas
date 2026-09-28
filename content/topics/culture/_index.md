@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2892
+topic_total_pages: 2893
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -754,6 +754,9 @@ topic_concepts:
   - key: "CopyrightPlatformConflict"
     title: "Copyright Platform Conflict"
     url: "/wiki/concepts/copyrightplatformconflict/"
+  - key: "CoronationMassMediaTransformation"
+    title: "Coronation Mass-Media Transformation"
+    url: "/wiki/concepts/coronationmassmediatransformation/"
   - key: "CorporateHospitalityPlatform"
     title: "Corporate Hospitality Platform"
     url: "/wiki/concepts/corporatehospitalityplatform/"

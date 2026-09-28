@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 11253
+wiki_total_pages: 11256
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -284,6 +284,9 @@ wiki_pages:
   - key: "GeorgeIII"
     title: "George III"
     url: "/wiki/entities/georgeiii/"
+  - key: "GeorgeIV"
+    title: "George IV"
+    url: "/wiki/entities/georgeiv/"
   - key: "GeorgeKurtz"
     title: "George Kurtz"
     url: "/wiki/entities/georgekurtz/"
