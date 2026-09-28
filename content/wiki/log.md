@@ -25115,3 +25115,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | 303: The Bloodiest Crusade
+
+Added source `303-the-bloodiest-crusade-glt7887097153`; created `InnocentIII`, `RaymondVIOfToulouse`, `SimonDeMontfort`, `DominicDeGuzman`, `Cathars`, `AlbigensianCrusade`, `FourthLateranCouncil`, and `InquisitorialPastoralCoercion`; and updated `CapetianDynasty`, `ChivalricSacralization`, and the canonical index from their complete bounded source sets. Core synthesis: the Albigensian Crusade fused papal anti-heresy policy, armed pilgrimage, local rivalry, massacre, occupation, and Capetian expansion, while persecution and later investigation helped consolidate the Cathar category they claimed merely to suppress. No settled contradiction was adopted. Casualty figures, attributed speeches, doctrinal unity, late dualist evidence, survivor self-understanding, gender claims, and the genealogy of inquisitorial procedure remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

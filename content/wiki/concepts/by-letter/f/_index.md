@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 8764
+wiki_total_pages: 8768
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1070,6 +1070,9 @@ wiki_pages:
   - key: "FourthAmendmentIsNotForSaleAct"
     title: "Fourth Amendment is Not For Sale Act"
     url: "/wiki/concepts/fourthamendmentisnotforsaleact/"
+  - key: "FourthLateranCouncil"
+    title: "Fourth Lateran Council"
+    url: "/wiki/concepts/fourthlaterancouncil/"
   - key: "FourthPersonNarrative"
     title: "Fourth-Person Narrative"
     url: "/wiki/concepts/fourthpersonnarrative/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [303: The Bloodiest Crusade](sources/303-the-bloodiest-crusade-glt7887097153.md) — The Rest Is History episode on the Albigensian Crusade, anti-heresy violence, French expansion, inquisitorial coercion, and the contested construction of Cathar identity.
 - [VOL.21肿瘤肝胆外科｜虽不严肃但有用——肿瘤是遗传？ 外科医生有话说—转发家族群少买保健品](sources/vol-21-zhongliu-gandan-waike-sui-bu-yansu-dan-youyong-zhongliu-shi-yichuan-waike-yisheng-you-hua-shuo-zhuanfa-jiazuqun-shao-mai-baojianpin-ltyennewyimh08rtyrgfe4qkz5g3.md) — 这病说来话长 episode separating tumor terminology, familial risk, prevention, early detection, and stage-specific multimodal cancer treatment.
 - [GUEST SERIES | Dr. Andy Galpin: Maximize Recovery to Achieve Fitness & Performance Goals](sources/guest-series-dr-andy-galpin-maximize-recovery-to-achieve-fitness-performance-goals-scim4488298115.md) — Huberman Lab guest-series episode on soreness, the training stress-recovery continuum, multi-domain monitoring, HRV trends, and goal-sensitive recovery tools.
 - [304: The Murder of Julius Caesar](sources/304-the-murder-of-julius-caesar-glt3561951089.md) — The Rest Is History episode on Caesar's dictatorship, monarchy fears, Cato and Brutus, the Ides of March plot, and the conspirators' missing political settlement.
@@ -3182,6 +3183,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe](sources/use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim4085406904.md) — Full Huberman Lab interview on sleep-stage function, slow-wave restoration, REM emotional-memory processing, locus-coeruleus regulation, nightmares, and opioid-withdrawal sleep disruption.
 
 ## Entities
+- [Pope Innocent III](entities/InnocentIII.md) — Pope who joined anti-heresy policy to armed pilgrimage and conditional reconciliation in Languedoc.
+- [Raymond VI of Toulouse](entities/RaymondVIOfToulouse.md) — Count whose tactical submission, participation, and resistance expose the crusade's unstable regional politics.
+- [Simon de Montfort](entities/SimonDeMontfort.md) — Devout and brutal commander who converted the opening crusade into prolonged occupation and conquest.
+- [Dominic de Guzmán](entities/DominicDeGuzman.md) — Mendicant founder linking competitive preaching and study to the later development of inquisitorial correction.
 - [骁狼医生 / Xiaolang (oncology surgeon)](entities/XiaolangOncologySurgeon.md) — Source-scoped oncology hepatobiliary surgeon discussing tumor literacy, cancer risk and treatment, liver, biliary, pancreatic, and splenic health, and oncology communication in VOL.21–25.
 - [Taíno](entities/TainoPeople.md) — Indigenous Caribbean peoples whose exchange, political agency, captivity, resistance, and catastrophe are preserved through an asymmetric colonial archive.
 - [Martín Pinzón](entities/MartinPinzon.md) — Palos mariner whose recruitment, course judgment, local authority, and rivalry made Columbus's first voyage possible and command unstable.
@@ -14556,6 +14561,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Satchin Panda](entities/SatchinPanda.md) — Circadian-biology researcher separating meal timing, fasting duration, energy intake, and evidence limits in animal and human studies.
 
 ## Concepts
+- [Cathars](concepts/Cathars.md) — Contested category separating local holy people, hostile classification, persecution-driven consolidation, and later reinvention.
+- [Albigensian Crusade](concepts/AlbigensianCrusade.md) — Sanctified anti-heresy war that joined massacre, occupation, institutional change, and French royal expansion.
+- [Fourth Lateran Council](concepts/FourthLateranCouncil.md) — 1215 council associated with tighter doctrine, clerical governance, lay confession, and visible social boundaries.
+- [Inquisitorial Pastoral Coercion](concepts/InquisitorialPastoralCoercion.md) — Investigative pressure justified as compassionate correction and salvation while remaining coercive.
 - [Cancer Stage-Specific Treatment Selection / 癌症分期与治疗选择](concepts/CancerStageSpecificTreatmentSelection.md) — Matching surgery, radiation, systemic therapy, observation, and combinations to diagnosis, stage, biomarkers, patient condition, and goals.
 - [Familial Cancer Risk Interpretation / 家族性肿瘤风险解读](concepts/FamilialCancerRiskInterpretation.md) — Separates inherited syndromes and susceptibility from shared household exposure, chance clustering, and deterministic fear.
 - [Tumor Terminology and Malignancy Boundary / 肿瘤术语与恶性判断边界](concepts/TumorTerminologyAndMalignancyBoundary.md) — Separates a tumor finding from malignant behavior, tissue-origin categories, prognosis, and treatment indication.

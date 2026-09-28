@@ -1491,6 +1491,13 @@
       "url": "/topics/history/"
     }
   ],
+  "303-the-bloodiest-crusade-glt7887097153": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "304-the-murder-of-julius-caesar-glt3561951089": [
     {
       "key": "history",
@@ -16873,6 +16880,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "Cathars": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "CatherineGildiner": [

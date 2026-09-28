@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2169
+topic_total_pages: 2171
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -145,6 +145,9 @@ topic_concepts:
   - key: "CatDomesticationHistory"
     title: "Cat Domestication History"
     url: "/wiki/concepts/catdomesticationhistory/"
+  - key: "Cathars"
+    title: "Cathars"
+    url: "/wiki/concepts/cathars/"
   - key: "CavalryShockCommandStrike"
     title: "Cavalry Shock Command Strike / 骑兵奇袭指挥中枢"
     url: "/wiki/concepts/cavalryshockcommandstrike/"
@@ -4716,6 +4719,9 @@ topic_sources:
   - key: "30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138"
     title: "30.孟子：战国愤青的赤子之心"
     url: "/wiki/sources/30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138/"
+  - key: "303-the-bloodiest-crusade-glt7887097153"
+    title: "303: The Bloodiest Crusade"
+    url: "/wiki/sources/303-the-bloodiest-crusade-glt7887097153/"
   - key: "304-the-murder-of-julius-caesar-glt3561951089"
     title: "304: The Murder of Julius Caesar"
     url: "/wiki/sources/304-the-murder-of-julius-caesar-glt3561951089/"

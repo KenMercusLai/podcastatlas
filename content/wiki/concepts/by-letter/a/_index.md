@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 8764
+wiki_total_pages: 8768
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1634,6 +1634,9 @@ wiki_pages:
   - key: "AlbedoFeedback"
     title: "Albedo Feedback"
     url: "/wiki/concepts/albedofeedback/"
+  - key: "AlbigensianCrusade"
+    title: "Albigensian Crusade"
+    url: "/wiki/concepts/albigensiancrusade/"
   - key: "AlchemyChemistryContinuity"
     title: "Alchemy-Chemistry Continuity / 炼金术与化学连续性"
     url: "/wiki/concepts/alchemychemistrycontinuity/"

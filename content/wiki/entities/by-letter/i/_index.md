@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 11347
+wiki_total_pages: 11351
 wiki_pages:
   - key: "IHaveADreamSpeech"
     title: "I Have a Dream Speech"
@@ -401,6 +401,9 @@ wiki_pages:
   - key: "IvoryCoast"
     title: "Ivory Coast"
     url: "/wiki/entities/ivorycoast/"
+  - key: "InnocentIII"
+    title: "Pope Innocent III"
+    url: "/wiki/entities/innocentiii/"
   - key: "InvisibleManHGWells"
     title: "The Invisible Man / 《隐身人》"
     url: "/wiki/entities/invisiblemanhgwells/"
