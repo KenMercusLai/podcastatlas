@@ -1521,6 +1521,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "334-athens-and-the-birth-of-democracy-glt2496707123": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "335-the-freemasons-historys-greatest-conspiracy-theory-glt4122245847": [
     {
       "key": "history",
@@ -19042,6 +19054,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "Cleisthenes": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "ClergyMandatoryReportingConflict": [
@@ -68901,6 +68920,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "Solon": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "Sonalight": [

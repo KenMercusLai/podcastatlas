@@ -24575,3 +24575,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | 334: Athens and the Birth of Democracy
+
+Added source `334-athens-and-the-birth-of-democracy-glt2496707123`; created `Cleisthenes`, `Solon`, `Peisistratus`, `Theseus`, and `AthenianAutochthony`; and updated `Athens`, `AthenianDemocracy`, `HippiasAthenianTyrant`, `Athena`, `Herodotus`, and the canonical index from their complete bounded source sets. Core synthesis: Athenian democracy emerged through Solonian compromise, popularized tyranny, aristocratic conflict, Spartan intervention, collective resistance, and Cleisthenic territorial engineering, while autochthony, heroes, cult, descent, and ritual made the demos a sacred and bounded community rather than a modern universal electorate. No settled contradiction was adopted. Early chronology, reformers' motives, the age of autochthony, women's private views, and liberation-to-military-performance claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

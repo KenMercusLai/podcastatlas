@@ -5,7 +5,8 @@ tags: [ancient-greece, athens, democracy, political-history]
 sources:
   - 669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260
   - 668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182
-last_updated: 2026-09-12
+  - 334-athens-and-the-birth-of-democracy-glt2496707123
+last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
 
@@ -13,27 +14,30 @@ knowledge_schema: synthesis-v1
 
 ## Definition
 
-Athenian democracy is the young civic-political order that the Marathon sources treat as newly formed, strategically vulnerable, implicated in the [[IonianRevolt]], and possibly preserved by Athens's survival at Marathon.
+Athenian democracy is the civic order created through constitutional reform and popular action around 507 BC, organizing the demos through local and cross-regional institutions while grounding political belonging in land, ancestry, gods, ritual, and collective defense.
 
 ## Current Synthesis
 
-The pre-Marathon source makes the democracy recent and politically charged. [[Athens]] expels [[HippiasAthenianTyrant|Hippias]] in 510 BC and establishes democracy in 507 BC. Its revolutionary energy makes it receptive to [[Aristagoras]]' appeal against Ionian tyrants, but Athens is not innocent of strategic calculation: it had previously offered earth and water to Persia while seeking help and later regretted that submission.
+The origin source places democracy in a longer sequence. [[Solon]] curbs exploitation and strengthens equality before written law without ending elite control; [[Peisistratus]] then stabilizes tyranny through popular measures, patronage, festivals, and building. After the Peisistratid succession becomes oppressive, [[Cleisthenes]] appeals to the demos against Spartan-backed oligarchic control. His roughly 150 demes, regional thirds, and tribes shift public identity away from lineage alone and create overlapping loyalties across Attica.
 
-The battle source then uses Marathon to show how fragile the city's future looked when the [[AchaemenidEmpire|Persian]] expedition reached Attica with Hippias in tow. The democratic city is threatened militarily by Persian invasion and politically by internal betrayal or tyrant restoration.
+Constitutional design does not by itself create the order. When Cleomenes and Isagoras occupy the Acropolis, a large crowd besieges them and enables Cleisthenes' return. The source therefore treats democracy as both elite institutional invention and collective revolution. It is also sacred self-understanding: [[AthenianAutochthony]], [[Theseus]], Athena, Erechtheus, tribal heroes, and Delphi make the demos a community of land, ancestors, gods, living citizens, and future generations rather than a modern collection of equal individual rights-bearers.
 
-The sources' strongest claim is counterfactual and qualified: if Athens had been destroyed at Marathon, the later arc of democracy, philosophy, drama, and cultural prestige associated with Athens might have been stillborn. At the same time, the sources complicate the clean liberty-versus-despotism version because Athens had its own compromised choices and later becomes an empire itself.
+That sacred boundary is inclusive and exclusive in unfamiliar ways. Women do not vote but are necessary to citizen descent and ritual continuity; metics and enslaved people are outside democratic power. The later Marathon sources show the young order acting strategically, compromising with Persia, joining the [[IonianRevolt]], and facing possible destruction or restored tyranny. Its survival matters, but later Athenian empire and the discontinuity with modern liberal democracy prevent a clean progress story.
 
 ## Key Claims
 
-- Athenian democracy is presented as recent, revolutionary, and insecure in the years before Marathon.
-- Athens's aid to the Ionian Revolt grows from anti-tyrant sympathy, fear of Persian-backed Hippias, and underestimation of Persian power.
-- Marathon matters for democracy because defeat could have ended the city before its later political and cultural influence matured.
-- The threat to democracy is both external invasion and possible internal betrayal or restored tyranny.
-- Hoplite cohesion is connected in the episode to citizens fighting together, but that military image should not become a complete theory of democracy.
-- Later political memory makes Athenian survival a freedom story, but the sources keep Athens's compromised and later imperial behavior visible.
+- Democracy emerges from Solonian compromise, tyranny, aristocratic rivalry, foreign intervention, constitutional invention, and popular resistance rather than one founding act.
+- Cleisthenic demes and tribes convert territory into civic identity and weaken older clan monopolies without erasing hierarchy.
+- Heroic, autochthonous, and Delphic traditions legitimate radical reform as ancestral restoration.
+- The demos is a bounded sacred community, not a modern universal electorate; women's descent and ritual roles coexist with political exclusion, while metics and enslaved people remain outside it.
+- The order is militarily and politically fragile before Marathon, threatened by invasion, betrayal, and possible restored tyranny.
+- Athens's Persian submission, Ionian intervention, and later empire complicate the freedom-versus-despotism memory.
 
 ## Evidence
 
+- Constitutional sequence and popular agency: [[334-athens-and-the-birth-of-democracy-glt2496707123]] moves from Solon and Peisistratus to Cleisthenes' appeal and the crowd's Acropolis siege.
+- Territorial reorganization: [[334-athens-and-the-birth-of-democracy-glt2496707123]] describes demes, thirds, and tribes as overlapping civic loyalties that weaken inherited clan identity.
+- Sacred legitimacy and citizenship boundary: [[334-athens-and-the-birth-of-democracy-glt2496707123]] joins autochthony, heroes, Delphi, land, ritual, descent, women's roles, and the exclusion of metics and enslaved people.
 - Recent democracy: [[668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182]] says Athens expelled Hippias in 510 BC and established democracy in 507 BC.
 - Persian entanglement and Ionian aid: [[668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182]] says Athens earlier offered earth and water to Persia, then later sent twenty ships after Aristagoras's appeal.
 - Existential risk: [[669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260]] says defeat could have meant Athens's destruction, enslavement, or exile.
@@ -43,16 +47,21 @@ The sources' strongest claim is counterfactual and qualified: if Athens had been
 
 ## Counterevidence & Qualifications
 
-The page is source-scoped and counterfactual. It does not settle whether democracy would necessarily have vanished after a Persian victory or how much later Greek culture depended on one battle. The sources also show Athens acting from fear, prior compromised diplomacy, and later imperial ambition, which complicates any simple democracy-versus-despotism morality tale.
+The origin reconstruction relies on scarce early evidence and myths that illuminate self-understanding without proving literal events. It does not settle Cleisthenes' motives, whether democracy generated autochthony or adapted older belief, or what excluded Athenians privately wanted. The Marathon counterfactual likewise cannot prove democracy would have vanished after Persian victory. Athens's strategic fear, compromised diplomacy, exclusions, slavery, and later imperial ambition prevent both idealization and dismissal by modern standards.
 
 ## What Changed
 
-- Added the pre-Marathon democratic setup: 510/507 BC transformation, earlier Persian submission, Hippias pressure, and Ionian intervention.
-- Reframed Marathon contingency as real but morally complicated rather than a pure liberty myth.
+- Recast the origin as a sequence of legal compromise, tyranny, faction, popular action, and institutional engineering rather than a 507 BC date alone.
+- Added demes, tribes, autochthony, heroic legitimation, and the sacred rather than rights-based definition of the demos.
+- Made gendered membership and the exclusion of metics and enslaved people explicit while retaining the later Marathon contingency and imperial qualification.
 
 ## Related Concepts
 
 - [[Athens]] - city whose survival grounds the concept in these sources.
+- [[Cleisthenes]] - constitutional designer whose reforms depend on popular action.
+- [[AthenianAutochthony]] - sacred identity framework defining civic belonging.
+- [[Solon]] - lawgiver whose mixed settlement precedes democracy.
+- [[Peisistratus]] - tyrant whose dynasty forms democracy's immediate political background.
 - [[IonianRevolt]] - revolt that the young democracy joins.
 - [[BattleOfMarathon]] - battle presented as a democratic-survival threshold.
 - [[HippiasAthenianTyrant]] - possible restored-tyranny figure.

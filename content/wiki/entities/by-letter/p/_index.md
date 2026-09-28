@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 11223
+wiki_total_pages: 11227
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -290,6 +290,9 @@ wiki_pages:
   - key: "PeetsCoffee"
     title: "Peet's Coffee"
     url: "/wiki/entities/peetscoffee/"
+  - key: "Peisistratus"
+    title: "Peisistratus"
+    url: "/wiki/entities/peisistratus/"
   - key: "PejmanNozad"
     title: "Pejman Nozad"
     url: "/wiki/entities/pejmannozad/"

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2131
+topic_total_pages: 2132
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4695,6 +4695,9 @@ topic_sources:
   - key: "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008"
     title: "318: Hundred Years' War: A Game of Thrones (Part 1)"
     url: "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+  - key: "334-athens-and-the-birth-of-democracy-glt2496707123"
+    title: "334: Athens and the Birth of Democracy"
+    url: "/wiki/sources/334-athens-and-the-birth-of-democracy-glt2496707123/"
   - key: "335-the-freemasons-historys-greatest-conspiracy-theory-glt4122245847"
     title: "335: The Freemasons: History's Greatest Conspiracy Theory"
     url: "/wiki/sources/335-the-freemasons-historys-greatest-conspiracy-theory-glt4122245847/"

@@ -3103,6 +3103,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve Your Eye Health & Offset Vision Loss | Dr. Jeffrey Goldberg](sources/how-to-improve-your-eye-health-offset-vision-loss-dr-jeffrey-goldberg-scim5633963628.md) — Huberman Lab interview on visual development, prevention, optical correction, contact and dry-eye care, silent eye disease, treatment adherence, and emerging-intervention boundaries.
 - [342: The Trials of Oscar Wilde: Downfall and Prison (Part 2)](sources/342-the-trials-of-oscar-wilde-downfall-and-prison-part-2-glt5549466795.md) — The Rest Is History episode on Wilde's criminal trials, imprisonment, establishment sympathy, unequal-status relationships, exile, and queer cultural afterlife.
 - [341: The Trials of Oscar Wilde: Sex and Scandal (Part 1)](sources/341-the-trials-of-oscar-wilde-sex-and-scandal-part-1-glt1940599692.md) — The Rest Is History episode on Wilde's celebrity, changing sexual law and identity, unequal relationships, the Queensberry conflict, and the failed libel prosecution.
+- [334: Athens and the Birth of Democracy](sources/334-athens-and-the-birth-of-democracy-glt2496707123.md) — The Rest Is History episode on Solon, Peisistratid tyranny, Cleisthenic reform, popular revolution, demes, autochthony, sacred citizenship, and the limits of the demos.
 
 ## Entities
 - [Robin Carhart-Harris](entities/RobinCarhartHarris.md) — Psychedelic researcher connecting serotonin 2A pharmacology, subjective experience, brain-network change, clinical trials, integration, and safeguards.
@@ -14347,6 +14348,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ark of the Covenant](entities/ArkOfTheCovenant.md) — Biblical sacred chest whose roles as covenant container, divine meeting place, dangerous power, and missing relic generated enduring theological and cultural traditions.
 - [Kebra Nagast](entities/KebraNagast.md) — Ethiopian dynastic text linking the Queen of Sheba, Solomon, Menelik, the Ark, and Solomonic royal legitimacy.
 - [Raiders of the Lost Ark](entities/RaidersOfTheLostArk.md) — Adventure film that translates the Ark's dangerous holiness into an ultimate-weapon race against Nazi Germany.
+- [Cleisthenes](entities/Cleisthenes.md) — Athenian constitutional designer joining popular appeal, territorial reorganization, ancestral legitimation, and crowd-enabled reform.
+- [Solon](entities/Solon.md) — Athenian lawgiver whose anti-exploitation and written-law settlement preserves elite officeholding while preparing later reform.
+- [Peisistratus](entities/Peisistratus.md) — Athenian tyrant who stabilizes personal rule through popular measures, patronage, festivals, and building before dynastic decline.
+- [Theseus](entities/Theseus.md) — Athenian founder figure remembered as unifier of Attica and ancestral source of power for the demos.
 
 ## Concepts
 - [Psychedelic Therapy Mechanism](concepts/PsychedelicTherapyMechanism.md) — Combined receptor, network, subjective, relational, and learning model for psychedelic-assisted mental-health change.
@@ -22999,5 +23004,6 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Repeat COVID Infection Triage / 新冠再感染分诊](concepts/RepeatCOVIDInfectionTriage.md) — Severity-, function-, comorbidity-, and care-setting-based assessment of suspected COVID reinfection.
 - [Post-Infectious Return to Activity / 感染后活动恢复](concepts/PostInfectiousReturnToActivity.md) — Graded return to exercise, work, travel, and altitude after infection with cardiopulmonary pause criteria.
+- [Athenian Autochthony](concepts/AthenianAutochthony.md) — Sacred civic identity rooting Athenian belonging in Attic soil, ancestry, gods, ritual, generational continuity, and exclusion boundaries.
 
 ## Syntheses

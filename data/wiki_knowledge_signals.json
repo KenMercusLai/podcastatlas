@@ -13419,9 +13419,9 @@
       "url": "/wiki/entities/athelstan/"
     },
     "Athena": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2882541084 [GLT2882541084].md",
@@ -13429,15 +13429,38 @@
           "show": "The Rest Is History",
           "title": "688. The Odyssey: Return of the King (Part 2)",
           "url": "/wiki/sources/688-the-odyssey-return-of-the-king-part-2-glt2882541084/"
+        },
+        {
+          "episode_file": "GLT2496707123 [GLT2496707123].md",
+          "key": "334-athens-and-the-birth-of-democracy-glt2496707123",
+          "show": "The Rest Is History",
+          "title": "334: Athens and the Birth of Democracy",
+          "url": "/wiki/sources/334-athens-and-the-birth-of-democracy-glt2496707123/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/athena/"
     },
-    "AthenianDemocracy": {
-      "episode_count": 2,
+    "AthenianAutochthony": {
+      "episode_count": 1,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2496707123 [GLT2496707123].md",
+          "key": "334-athens-and-the-birth-of-democracy-glt2496707123",
+          "show": "The Rest Is History",
+          "title": "334: Athens and the Birth of Democracy",
+          "url": "/wiki/sources/334-athens-and-the-birth-of-democracy-glt2496707123/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/concepts/athenianautochthony/"
+    },
+    "AthenianDemocracy": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2696648260 [GLT2696648260].md",
@@ -13452,15 +13475,22 @@
           "show": "The Rest Is History",
           "title": "668. Greece vs Persia: The Rise of the First Superpower (Part 1)",
           "url": "/wiki/sources/668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182/"
+        },
+        {
+          "episode_file": "GLT2496707123 [GLT2496707123].md",
+          "key": "334-athens-and-the-birth-of-democracy-glt2496707123",
+          "show": "The Rest Is History",
+          "title": "334: Athens and the Birth of Democracy",
+          "url": "/wiki/sources/334-athens-and-the-birth-of-democracy-glt2496707123/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-28",
       "url": "/wiki/concepts/atheniandemocracy/"
     },
     "Athens": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT3125075511 [GLT3125075511].md",
@@ -13482,9 +13512,16 @@
           "show": "The Rest Is History",
           "title": "668. Greece vs Persia: The Rise of the First Superpower (Part 1)",
           "url": "/wiki/sources/668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182/"
+        },
+        {
+          "episode_file": "GLT2496707123 [GLT2496707123].md",
+          "key": "334-athens-and-the-birth-of-democracy-glt2496707123",
+          "show": "The Rest Is History",
+          "title": "334: Athens and the Birth of Democracy",
+          "url": "/wiki/sources/334-athens-and-the-birth-of-democracy-glt2496707123/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/athens/"
     },
     "AtherosclerosisPreventionTargets": {
@@ -30692,6 +30729,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/cleanofficialpowerboundary/"
+    },
+    "Cleisthenes": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2496707123 [GLT2496707123].md",
+          "key": "334-athens-and-the-birth-of-democracy-glt2496707123",
+          "show": "The Rest Is History",
+          "title": "334: Athens and the Birth of Democracy",
+          "url": "/wiki/sources/334-athens-and-the-birth-of-democracy-glt2496707123/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/cleisthenes/"
     },
     "ClimateAidRetrenchment": {
       "episode_count": 2,
@@ -74417,9 +74470,9 @@
       "url": "/wiki/concepts/heroreturnwithboon/"
     },
     "Herodotus": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2696648260 [GLT2696648260].md",
@@ -74427,9 +74480,16 @@
           "show": "The Rest Is History",
           "title": "669. Greece vs. Persia: The Battle of Marathon (Part 2)",
           "url": "/wiki/sources/669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260/"
+        },
+        {
+          "episode_file": "GLT2496707123 [GLT2496707123].md",
+          "key": "334-athens-and-the-birth-of-democracy-glt2496707123",
+          "show": "The Rest Is History",
+          "title": "334: Athens and the Birth of Democracy",
+          "url": "/wiki/sources/334-athens-and-the-birth-of-democracy-glt2496707123/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/herodotus/"
     },
     "HeroicLastStandMyth": {
@@ -75038,9 +75098,9 @@
       "url": "/wiki/entities/hindukushhimalaya/"
     },
     "HippiasAthenianTyrant": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2696648260 [GLT2696648260].md",
@@ -75048,9 +75108,16 @@
           "show": "The Rest Is History",
           "title": "669. Greece vs. Persia: The Battle of Marathon (Part 2)",
           "url": "/wiki/sources/669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260/"
+        },
+        {
+          "episode_file": "GLT2496707123 [GLT2496707123].md",
+          "key": "334-athens-and-the-birth-of-democracy-glt2496707123",
+          "show": "The Rest Is History",
+          "title": "334: Athens and the Birth of Democracy",
+          "url": "/wiki/sources/334-athens-and-the-birth-of-democracy-glt2496707123/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-28",
       "url": "/wiki/entities/hippiasatheniantyrant/"
     },
     "HippieHistoricistFashionTurn": {
@@ -124509,6 +124576,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/entities/peizuneasternhan/"
     },
+    "Peisistratus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2496707123 [GLT2496707123].md",
+          "key": "334-athens-and-the-birth-of-democracy-glt2496707123",
+          "show": "The Rest Is History",
+          "title": "334: Athens and the Birth of Democracy",
+          "url": "/wiki/sources/334-athens-and-the-birth-of-democracy-glt2496707123/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/peisistratus/"
+    },
     "PekingUniversityThirdHospital": {
       "episode_count": 2,
       "show_count": 1,
@@ -150011,6 +150094,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/soloairpgs/"
     },
+    "Solon": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2496707123 [GLT2496707123].md",
+          "key": "334-athens-and-the-birth-of-democracy-glt2496707123",
+          "show": "The Rest Is History",
+          "title": "334: Athens and the Birth of Democracy",
+          "url": "/wiki/sources/334-athens-and-the-birth-of-democracy-glt2496707123/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/solon/"
+    },
     "SomatizationAsBodyAlarm": {
       "episode_count": 1,
       "show_count": 1,
@@ -159945,6 +160044,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/theroignedemericourt/"
+    },
+    "Theseus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2496707123 [GLT2496707123].md",
+          "key": "334-athens-and-the-birth-of-democracy-glt2496707123",
+          "show": "The Rest Is History",
+          "title": "334: Athens and the Birth of Democracy",
+          "url": "/wiki/sources/334-athens-and-the-birth-of-democracy-glt2496707123/"
+        }
+      ],
+      "updated": "2026-09-28",
+      "url": "/wiki/entities/theseus/"
     },
     "ThinSoleSneakerRevival": {
       "episode_count": 2,

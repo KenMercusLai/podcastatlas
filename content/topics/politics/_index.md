@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2788
+topic_total_pages: 2791
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5000,6 +5000,9 @@ topic_entities:
   - key: "Clacton"
     title: "Clacton"
     url: "/wiki/entities/clacton/"
+  - key: "Cleisthenes"
+    title: "Cleisthenes"
+    url: "/wiki/entities/cleisthenes/"
   - key: "ColinKaepernick"
     title: "Colin Kaepernick"
     url: "/wiki/entities/colinkaepernick/"
@@ -6482,6 +6485,9 @@ topic_entities:
   - key: "SocratesFootballer"
     title: "Socrates (Footballer)"
     url: "/wiki/entities/socratesfootballer/"
+  - key: "Solon"
+    title: "Solon"
+    url: "/wiki/entities/solon/"
   - key: "SonnyLoughran"
     title: "Sonny Loughran"
     url: "/wiki/entities/sonnyloughran/"
@@ -7404,6 +7410,9 @@ topic_sources:
   - key: "264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0"
     title: "264.库克的道德锚点｜过去15年，库克给苹果留下了什么？"
     url: "/wiki/sources/264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0/"
+  - key: "334-athens-and-the-birth-of-democracy-glt2496707123"
+    title: "334: Athens and the Birth of Democracy"
+    url: "/wiki/sources/334-athens-and-the-birth-of-democracy-glt2496707123/"
   - key: "341-the-trials-of-oscar-wilde-sex-and-scandal-part-1-glt1940599692"
     title: "341: The Trials of Oscar Wilde: Sex and Scandal (Part 1)"
     url: "/wiki/sources/341-the-trials-of-oscar-wilde-sex-and-scandal-part-1-glt1940599692/"
