@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-29] ingest | VOL.21肿瘤肝胆外科｜虽不严肃但有用——肿瘤是遗传？ 外科医生有话说—转发家族群少买保健品
+
+Added source `vol-21-zhongliu-gandan-waike-sui-bu-yansu-dan-youyong-zhongliu-shi-yichuan-waike-yisheng-you-hua-shuo-zhuanfa-jiazuqun-shao-mai-baojianpin-ltyennewyimh08rtyrgfe4qkz5g3`; created `TumorTerminologyAndMalignancyBoundary`, `FamilialCancerRiskInterpretation`, and `CancerStageSpecificTreatmentSelection`; and updated `XiaolangOncologySurgeon`, `OnlineSymptomSearchAnxiety`, and the canonical index from their complete bounded source sets. Core synthesis: a tumor is not automatically malignant, family history changes risk rather than determining destiny, prevention and supplements do not treat established cancer, and surgery, radiotherapy, chemotherapy, targeted therapy, immunotherapy, or observation require diagnosis-, stage-, and patient-specific indications. No settled contradiction was adopted. Screening frequency, hereditary proportions, food, supplement, immunity, organ-removal, gene-testing, and treatment-availability claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten because the episode backfills an established oncology and medical-literacy branch without changing the wiki-wide synthesis.
+
 ## [2026-09-29] ingest | 307: Columbus: A New World? (Part 2)
 
 Added source `307-columbus-a-new-world-part-2-glt7219741357`; created `MartinPinzon`, `LaNavidad`, and `ColumbusFirstVoyageAtlanticGamble`; and updated `ChristopherColumbus`, `TainoPeople`, `Hispaniola`, `CannibalismColonialJustification`, `ColonialConversionEnslavementContradiction`, and the canonical index from their complete bounded source sets. Core synthesis: the first voyage was a privately financed and royally sponsored Atlantic gamble whose navigation depended on Canary winds, local sailors, and Pinzón authority, while Asian misidentification, territorial claim, captive-taking, gold pressure, and the resisting-cannibal category appeared before formal colonization. The Santa María wreck turned reconnaissance into the improvised La Navidad foothold, and marketable evidence made a larger second voyage possible. No settled contradiction with Parts 3 or 4 was adopted. Landfall, motives, course counterfactuals, first-clash causes, cannibalism reports, Pinzón's death, and captive outcomes remain uncertain or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -25103,6 +25107,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-29] ingest | 304: The Murder of Julius Caesar
 
 Added source `304-the-murder-of-julius-caesar-glt3561951089`; updated `JuliusCaesar`, `CaesarAssassination`, `MarcusBrutus`, `DecimusJuniusBrutus`, `CatoTheYounger`, `LateRomanRepublicCrisis`, and `PersonalRuleLegitimacyCrisis` from their complete bounded source sets. Core synthesis: Caesar's reforms and clemency coexisted with lifetime dictatorship and monarchy-adjacent signals; Cato turned refusal of pardon into a posthumous republican victory; Brutus experienced clemency as potential dependence; Decimus converted trusted access into operational betrayal; and the conspirators chose a public political killing without a workable post-assassination settlement. No settled contradiction was adopted. Omens, dreams, last words, paternity rumors, the Lupercalia's staging, exact motives, wound details, and conspirator numbers remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-29] lint | Wiki health check
 

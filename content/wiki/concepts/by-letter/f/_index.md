@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 8761
+wiki_total_pages: 8764
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -83,6 +83,9 @@ wiki_pages:
   - key: "FalsifiableProductHypothesis"
     title: "Falsifiable Product Hypothesis / 可证伪产品假设"
     url: "/wiki/concepts/falsifiableproducthypothesis/"
+  - key: "FamilialCancerRiskInterpretation"
+    title: "Familial Cancer Risk Interpretation / 家族性肿瘤风险解读"
+    url: "/wiki/concepts/familialcancerriskinterpretation/"
   - key: "FamiliarPainRelationshipPattern"
     title: "Familiar Pain Relationship Pattern"
     url: "/wiki/concepts/familiarpainrelationshippattern/"

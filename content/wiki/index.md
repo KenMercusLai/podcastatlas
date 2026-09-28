@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.21肿瘤肝胆外科｜虽不严肃但有用——肿瘤是遗传？ 外科医生有话说—转发家族群少买保健品](sources/vol-21-zhongliu-gandan-waike-sui-bu-yansu-dan-youyong-zhongliu-shi-yichuan-waike-yisheng-you-hua-shuo-zhuanfa-jiazuqun-shao-mai-baojianpin-ltyennewyimh08rtyrgfe4qkz5g3.md) — 这病说来话长 episode separating tumor terminology, familial risk, prevention, early detection, and stage-specific multimodal cancer treatment.
 - [GUEST SERIES | Dr. Andy Galpin: Maximize Recovery to Achieve Fitness & Performance Goals](sources/guest-series-dr-andy-galpin-maximize-recovery-to-achieve-fitness-performance-goals-scim4488298115.md) — Huberman Lab guest-series episode on soreness, the training stress-recovery continuum, multi-domain monitoring, HRV trends, and goal-sensitive recovery tools.
 - [304: The Murder of Julius Caesar](sources/304-the-murder-of-julius-caesar-glt3561951089.md) — The Rest Is History episode on Caesar's dictatorship, monarchy fears, Cato and Brutus, the Ides of March plot, and the conspirators' missing political settlement.
 - [305: The Fall of the Roman Republic](sources/305-the-fall-of-the-roman-republic-glt6995332578.md) — The Rest Is History episode on the failed post-Caesar settlement, Octavian's rise, the Second Triumvirate, proscriptions, Philippi, and the Augustan end of the Republic.
@@ -3181,7 +3182,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe](sources/use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim4085406904.md) — Full Huberman Lab interview on sleep-stage function, slow-wave restoration, REM emotional-memory processing, locus-coeruleus regulation, nightmares, and opioid-withdrawal sleep disruption.
 
 ## Entities
-- [骁狼医生 / Xiaolang (oncology surgeon)](entities/XiaolangOncologySurgeon.md) — Source-scoped oncology hepatobiliary surgeon discussing liver, biliary, pancreatic, and splenic health plus oncology communication in VOL.22–25.
+- [骁狼医生 / Xiaolang (oncology surgeon)](entities/XiaolangOncologySurgeon.md) — Source-scoped oncology hepatobiliary surgeon discussing tumor literacy, cancer risk and treatment, liver, biliary, pancreatic, and splenic health, and oncology communication in VOL.21–25.
 - [Taíno](entities/TainoPeople.md) — Indigenous Caribbean peoples whose exchange, political agency, captivity, resistance, and catastrophe are preserved through an asymmetric colonial archive.
 - [Martín Pinzón](entities/MartinPinzon.md) — Palos mariner whose recruitment, course judgment, local authority, and rivalry made Columbus's first voyage possible and command unstable.
 - [João II of Portugal](entities/JoaoIIOfPortugal.md) — Portuguese monarch whose experts rejected Columbus's underestimated westward route while the African route advanced.
@@ -14555,6 +14556,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Satchin Panda](entities/SatchinPanda.md) — Circadian-biology researcher separating meal timing, fasting duration, energy intake, and evidence limits in animal and human studies.
 
 ## Concepts
+- [Cancer Stage-Specific Treatment Selection / 癌症分期与治疗选择](concepts/CancerStageSpecificTreatmentSelection.md) — Matching surgery, radiation, systemic therapy, observation, and combinations to diagnosis, stage, biomarkers, patient condition, and goals.
+- [Familial Cancer Risk Interpretation / 家族性肿瘤风险解读](concepts/FamilialCancerRiskInterpretation.md) — Separates inherited syndromes and susceptibility from shared household exposure, chance clustering, and deterministic fear.
+- [Tumor Terminology and Malignancy Boundary / 肿瘤术语与恶性判断边界](concepts/TumorTerminologyAndMalignancyBoundary.md) — Separates a tumor finding from malignant behavior, tissue-origin categories, prognosis, and treatment indication.
 - [Training Stress-Recovery Continuum](concepts/TrainingStressRecoveryContinuum.md) — Distinguishes acute overload, productive functional overreaching, non-functional overreaching, and rare true overtraining.
 - [Soreness-Recovery Boundary](concepts/SorenessRecoveryBoundary.md) — Separates delayed soreness and symptom relief from tissue damage, repair, restored performance, and adaptation.
 - [Recovery Monitoring Triad](concepts/RecoveryMonitoringTriad.md) — Combines standardized within-person performance, physiology, and symptom trends instead of relying on one readiness score.

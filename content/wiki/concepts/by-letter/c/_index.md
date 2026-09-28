@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8761
+wiki_total_pages: 8764
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -137,6 +137,9 @@ wiki_pages:
   - key: "CancerScreeningBurdenTradeoff"
     title: "Cancer Screening Burden Tradeoff"
     url: "/wiki/concepts/cancerscreeningburdentradeoff/"
+  - key: "CancerStageSpecificTreatmentSelection"
+    title: "Cancer Stage-Specific Treatment Selection / 癌症分期与治疗选择"
+    url: "/wiki/concepts/cancerstagespecifictreatmentselection/"
   - key: "CancerVaccinePlatform"
     title: "Cancer Vaccine Platform"
     url: "/wiki/concepts/cancervaccineplatform/"

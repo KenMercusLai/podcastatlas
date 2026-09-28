@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 8761
+wiki_total_pages: 8764
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -917,6 +917,9 @@ wiki_pages:
   - key: "TumorMicroenvironment"
     title: "Tumor Microenvironment"
     url: "/wiki/concepts/tumormicroenvironment/"
+  - key: "TumorTerminologyAndMalignancyBoundary"
+    title: "Tumor Terminology and Malignancy Boundary / 肿瘤术语与恶性判断边界"
+    url: "/wiki/concepts/tumorterminologyandmalignancyboundary/"
   - key: "TunnelingTax"
     title: "Tunneling Tax / 管窥税"
     url: "/wiki/concepts/tunnelingtax/"
