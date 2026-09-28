@@ -3132,7 +3132,11 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [326: The Year of Revolutions: 1848](sources/326-the-year-of-revolutions-1848-glt9746323554.md) — The Rest Is History conversation with Christopher Clark on 1848 as a plural European crisis whose defeats reshaped constitutions, nationalism, conservatism, Catholicism, and state power.
 
+- [Science-Based Mental Training & Visualization for Improved Learning](sources/science-based-mental-training-visualization-for-improved-learning-scim9944841947.md) — Huberman Lab solo episode on brief task-matched imagery, physical-practice primacy, first-person rehearsal, response inhibition, sleep, and protocol evidence boundaries.
+
 ## Entities
+- [Roger Shepard](entities/RogerShepard.md) — Cognitive scientist credited for mental-rotation evidence that imagined transformation preserves spatial and temporal constraints.
+- [Stephen Kosslyn](entities/StephenKosslyn.md) — Cognitive scientist credited for imagined-navigation evidence linking mental travel time to represented distance.
 - [Fall of Saigon](entities/FallOfSaigon.md) — April 1975 collapse of South Vietnam framed through evacuation, extinguished sovereignty, abandonment, and long political memory.
 - [Operation Frequent Wind](entities/OperationFrequentWind.md) — Final U.S. helicopter evacuation from Saigon, combining emergency logistics with a severe rescue hierarchy.
 - [Graham Martin](entities/GrahamMartin.md) — U.S. ambassador whose concern for Vietnamese dependents, honor, denial, and delayed preparation shaped the final evacuation.
@@ -14443,6 +14447,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Frankfurt Parliament](entities/FrankfurtParliament.md) — German national assembly whose representative ambition lacked independent military and administrative capacity.
 
 ## Concepts
+- [Mental Practice and Visualization](concepts/MentalPracticeAndVisualization.md) — Skill-rehearsal framework using brief, simple, task-matched imagery as a supplement to real execution and feedback.
 - [Patent Foramen Ovale Evaluation and Closure / 卵圆孔未闭评估与封堵](concepts/PatentForamenOvaleEvaluationAndClosure.md) — Finding-versus-indication framework for PFO anatomy, shunt testing, causal assessment, and treatment selection.
 - [Intervention–Withdrawal Dependency](concepts/InterventionWithdrawalDependency.md) — Process by which intervention creates reliance and obligations that make later withdrawal materially and morally difficult.
 - [Vietnamese Refugee Exodus](concepts/VietnameseRefugeeExodus.md) — Post-1975 displacement through evacuation, maritime flight, resettlement, and receiving-country hostility.

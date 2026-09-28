@@ -24770,3 +24770,11 @@ Added source `vol-42-xinxueguan-neike-tingshuo-ni-zongshi-touteng-keneng-xuyao-z
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | Science-Based Mental Training & Visualization for Improved Learning
+
+Added source `science-based-mental-training-visualization-for-improved-learning-scim9944841947`; created `RogerShepard`, `StephenKosslyn`, and `MentalPracticeAndVisualization`; and updated `StageMatchedMotorSkillPractice` from its complete bounded source set. Core synthesis: mental rehearsal can refine a familiar motor or cognitive sequence when it is brief, simple, repeated, task-matched, and preferably first-person, but partial neural overlap does not make imagery equivalent to execution, sensory feedback, or correction. No settled contradiction was adopted. Exact imagery duration, repetitions, frequency, perspective effects, older-adult benefit, connectivity findings, stop-signal transfer, injury-recovery benefit, and aphantasia associations remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

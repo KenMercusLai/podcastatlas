@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1300
+topic_total_pages: 1303
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -2918,6 +2918,9 @@ topic_entities:
   - key: "RobinDunbar"
     title: "Robin Dunbar / 罗宾·邓巴"
     url: "/wiki/entities/robindunbar/"
+  - key: "RogerShepard"
+    title: "Roger Shepard"
+    url: "/wiki/entities/rogershepard/"
   - key: "RudolfErichRaspe"
     title: "Rudolf Erich Raspe"
     url: "/wiki/entities/rudolferichraspe/"
@@ -2975,6 +2978,9 @@ topic_entities:
   - key: "Starbase"
     title: "Starbase"
     url: "/wiki/entities/starbase/"
+  - key: "StephenKosslyn"
+    title: "Stephen Kosslyn"
+    url: "/wiki/entities/stephenkosslyn/"
   - key: "StephenMathis"
     title: "Stephen Mathis"
     url: "/wiki/entities/stephenmathis/"
@@ -3765,6 +3771,9 @@ topic_sources:
   - key: "science-of-attraction-compatibility-romance-dr-paul-eastwick-scim9984287085"
     title: "Science of Attraction, Compatibility & Romance | Dr. Paul Eastwick"
     url: "/wiki/sources/science-of-attraction-compatibility-romance-dr-paul-eastwick-scim9984287085/"
+  - key: "science-based-mental-training-visualization-for-improved-learning-scim9944841947"
+    title: "Science-Based Mental Training & Visualization for Improved Learning"
+    url: "/wiki/sources/science-based-mental-training-visualization-for-improved-learning-scim9944841947/"
   - key: "sp-01-yuzhou-kaer-sagen-de-xingchen-dahai-he-renlei-mengxiang-543901074"
     title: "sp.01 宇宙：卡尔·萨根的星辰大海和人类梦想"
     url: "/wiki/sources/sp-01-yuzhou-kaer-sagen-de-xingchen-dahai-he-renlei-mengxiang-543901074/"
