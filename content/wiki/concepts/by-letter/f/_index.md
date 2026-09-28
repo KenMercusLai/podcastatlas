@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 8622
+wiki_total_pages: 8625
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1091,6 +1091,9 @@ wiki_pages:
   - key: "FrankishPortraiturePressure"
     title: "Frankish Portraiture Pressure"
     url: "/wiki/concepts/frankishportraiturepressure/"
+  - key: "FraternalNetworkOrganizationalTemplate"
+    title: "Fraternal Network Organizational Template"
+    url: "/wiki/concepts/fraternalnetworkorganizationaltemplate/"
   - key: "FreeCashFlowIndexing"
     title: "Free Cash Flow Indexing"
     url: "/wiki/concepts/freecashflowindexing/"
@@ -1130,6 +1133,9 @@ wiki_pages:
   - key: "FreelanceMarketExposure"
     title: "Freelance Market Exposure / 自由职业市场暴露"
     url: "/wiki/concepts/freelancemarketexposure/"
+  - key: "Freemasonry"
+    title: "Freemasonry"
+    url: "/wiki/concepts/freemasonry/"
   - key: "FrenchLineDancingCulture"
     title: "French Line Dancing Culture"
     url: "/wiki/concepts/frenchlinedancingculture/"

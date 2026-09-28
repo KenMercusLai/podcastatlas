@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 11218
+wiki_total_pages: 11222
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -773,6 +773,9 @@ wiki_pages:
   - key: "PrinceGroup"
     title: "Prince Group"
     url: "/wiki/entities/princegroup/"
+  - key: "PrinceHallFreemasonry"
+    title: "Prince Hall Freemasonry"
+    url: "/wiki/entities/princehallfreemasonry/"
   - key: "PrinceHisahito"
     title: "Prince Hisahito"
     url: "/wiki/entities/princehisahito/"
@@ -854,6 +857,9 @@ wiki_pages:
   - key: "Prometheus"
     title: "Prometheus / 普罗米修斯"
     url: "/wiki/entities/prometheus/"
+  - key: "PropagandaDue"
+    title: "Propaganda Due / P2"
+    url: "/wiki/entities/propagandadue/"
   - key: "ProPublica"
     title: "ProPublica"
     url: "/wiki/entities/propublica/"

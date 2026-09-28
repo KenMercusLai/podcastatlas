@@ -24551,3 +24551,11 @@ Added source `vol-48-erbiyanhouke-kayuci-de-wuqu-yanyan-huoguo-bingyin-jixing-hu
 ## [2026-09-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-28] ingest | 335: The Freemasons: History's Greatest Conspiracy Theory
+
+Added source `335-the-freemasons-historys-greatest-conspiracy-theory-glt4122245847`; created `JohnDickey`, `LeoTaxil`, `PrinceHallFreemasonry`, `PropagandaDue`, `Freemasonry`, `MasonicSecrecyConspiracyFeedback`, and `FraternalNetworkOrganizationalTemplate`; and updated `ConspiracyTheoryPatternSeeking` and the canonical index from the complete bounded source set. Core synthesis: Freemasonry's ritual secrecy, symbolic borrowing, translocal credentials, and lodge structure made it adaptable to civic, imperial, excluded-community, and corrupt uses while also inviting totalizing hostile interpretation. Taxil demonstrates fabricated revelation, P2 demonstrates bounded real conspiracy, and Prince Hall Freemasonry demonstrates civic adaptation under racial exclusion. No settled contradiction was adopted. Origins, Whig and Enlightenment causation, imperial scale, Franco-era figures, P2 allegations, Calvi's death, organizational borrowing, and Prince Hall impact remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

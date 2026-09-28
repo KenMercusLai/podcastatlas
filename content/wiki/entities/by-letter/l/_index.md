@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 11218
+wiki_total_pages: 11222
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -293,6 +293,9 @@ wiki_pages:
   - key: "LeoStrauss"
     title: "Leo Strauss"
     url: "/wiki/entities/leostrauss/"
+  - key: "LeoTaxil"
+    title: "Leo Taxil"
+    url: "/wiki/entities/leotaxil/"
   - key: "LeoTolstoy"
     title: "Leo Tolstoy / 托尔斯泰"
     url: "/wiki/entities/leotolstoy/"

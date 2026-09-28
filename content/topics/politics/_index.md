@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2786
+topic_total_pages: 2788
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1486,6 +1486,9 @@ topic_concepts:
   - key: "FragmentedCeasefireEnforcement"
     title: "Fragmented Ceasefire Enforcement"
     url: "/wiki/concepts/fragmentedceasefireenforcement/"
+  - key: "FraternalNetworkOrganizationalTemplate"
+    title: "Fraternal Network Organizational Template"
+    url: "/wiki/concepts/fraternalnetworkorganizationaltemplate/"
   - key: "FreeSpeechCoalitionVPaxton"
     title: "Free Speech Coalition v. Paxton"
     url: "/wiki/concepts/freespeechcoalitionvpaxton/"
@@ -1495,6 +1498,9 @@ topic_concepts:
   - key: "FreedomOfNavigationTradeOrder"
     title: "Freedom of Navigation Trade Order"
     url: "/wiki/concepts/freedomofnavigationtradeorder/"
+  - key: "Freemasonry"
+    title: "Freemasonry"
+    url: "/wiki/concepts/freemasonry/"
   - key: "FreshProduceSafetyRegulation"
     title: "Fresh Produce Safety Regulation"
     url: "/wiki/concepts/freshproducesafetyregulation/"
