@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1313
+topic_total_pages: 1314
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -3302,6 +3302,9 @@ topic_entities:
   - key: "Mianji"
     title: "面基"
     url: "/wiki/entities/mianji/"
+  - key: "XiaolangOncologySurgeon"
+    title: "骁狼医生 / Xiaolang (oncology surgeon)"
+    url: "/wiki/entities/xiaolangoncologysurgeon/"
   - key: "GaoYiding"
     title: "高一丁 / Gao Yiding"
     url: "/wiki/entities/gaoyiding/"

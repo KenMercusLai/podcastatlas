@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 8737
+wiki_total_pages: 8740
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -248,6 +248,9 @@ wiki_pages:
   - key: "OnboardingLedChurnReduction"
     title: "Onboarding-Led Churn Reduction"
     url: "/wiki/concepts/onboardingledchurnreduction/"
+  - key: "OncologyPsychologicalSupport"
+    title: "Oncology Psychological Support / 肿瘤照护中的心理支持"
+    url: "/wiki/concepts/oncologypsychologicalsupport/"
   - key: "OneThreeFiveSevenConsumerSegmentation"
     title: "One Three Five Seven Consumer Segmentation"
     url: "/wiki/concepts/onethreefivesevenconsumersegmentation/"

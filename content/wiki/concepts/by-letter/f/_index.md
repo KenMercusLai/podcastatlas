@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 8737
+wiki_total_pages: 8740
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -140,6 +140,9 @@ wiki_pages:
   - key: "FamilyBusinessWorkLifeBoundary"
     title: "Family-Business Work-Life Boundary / 家族企业工作生活边界"
     url: "/wiki/concepts/familybusinessworklifeboundary/"
+  - key: "FamilyCenteredCancerDecisionCommunication"
+    title: "Family-Centered Cancer Decision Communication / 肿瘤家庭决策沟通"
+    url: "/wiki/concepts/familycenteredcancerdecisioncommunication/"
   - key: "FamilySupportedAspiration"
     title: "Family-Supported Aspiration / 家庭承托的愿望"
     url: "/wiki/concepts/familysupportedaspiration/"

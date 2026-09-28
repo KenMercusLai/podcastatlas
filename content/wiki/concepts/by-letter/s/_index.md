@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 8737
+wiki_total_pages: 8740
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2198,6 +2198,9 @@ wiki_pages:
   - key: "SurfactantTechnology"
     title: "Surfactant Technology / 表面活性剂技术"
     url: "/wiki/concepts/surfactanttechnology/"
+  - key: "SurgicalInformedConsentResponsibility"
+    title: "Surgical Informed Consent and Responsibility / 手术知情同意与责任"
+    url: "/wiki/concepts/surgicalinformedconsentresponsibility/"
   - key: "SurgicalOutcomeMetricDistortion"
     title: "Surgical Outcome Metric Distortion"
     url: "/wiki/concepts/surgicaloutcomemetricdistortion/"

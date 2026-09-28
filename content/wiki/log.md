@@ -24987,3 +24987,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | VOL.25肿瘤肝胆外科｜箫郎医生在肿瘤医院行医18年所遇到的那些“怪”事和医患故事
+
+Added source `vol-25-zhongliu-gandan-waike-xiaolang-yisheng-zai-zhongliu-yiyuan-xingyi-18-nian-suo-yudao-de-naxie-guai-shi-he-yihuan-gushi-lr1jwin34m6obozyrqpybpujq5cz`; created `XiaolangOncologySurgeon`, `OncologyPsychologicalSupport`, `FamilyCenteredCancerDecisionCommunication`, and `SurgicalInformedConsentResponsibility`; and updated `PlaceboNoceboExpectationEffects` and the canonical index from their complete bounded source sets. Core synthesis: oncology care includes distress recognition, symptom assessment, family information alignment, realistic recovery goals, and clear risk communication alongside technical treatment, while consent documents authorization rather than releasing clinicians from responsibility. The saline-as-analgesia story is retained only as an uncontrolled, ethically qualified expectation-effect anecdote and not as permission to deceive patients or dismiss postoperative pain. No settled contradiction was adopted. Claims about psychological causation, national disclosure practice, patient education and adherence, and individual clinical outcomes remain source-scoped public education. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

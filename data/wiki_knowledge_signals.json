@@ -56756,6 +56756,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/familybusinesssuccessionopacity/"
     },
+    "FamilyCenteredCancerDecisionCommunication": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lr1JWIN34M6obOzYrqpyBpuJQ5CZ [lr1JWIN34M6obOzYrqpyBpuJQ5CZ].md",
+          "key": "vol-25-zhongliu-gandan-waike-xiaolang-yisheng-zai-zhongliu-yiyuan-xingyi-18-nian-suo-yudao-de-naxie-guai-shi-he-yihuan-gushi-lr1jwin34m6obozyrqpybpujq5cz",
+          "show": "这病说来话长",
+          "title": "VOL.25肿瘤肝胆外科｜箫郎医生在肿瘤医院行医18年所遇到的那些“怪”事和医患故事",
+          "url": "/wiki/sources/vol-25-zhongliu-gandan-waike-xiaolang-yisheng-zai-zhongliu-yiyuan-xingyi-18-nian-suo-yudao-de-naxie-guai-shi-he-yihuan-gushi-lr1jwin34m6obozyrqpybpujq5cz/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/familycenteredcancerdecisioncommunication/"
+    },
     "FamilyCommunicationScaffolding": {
       "episode_count": 1,
       "show_count": 1,
@@ -123915,6 +123931,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/onrunning/"
     },
+    "OncologyPsychologicalSupport": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lr1JWIN34M6obOzYrqpyBpuJQ5CZ [lr1JWIN34M6obOzYrqpyBpuJQ5CZ].md",
+          "key": "vol-25-zhongliu-gandan-waike-xiaolang-yisheng-zai-zhongliu-yiyuan-xingyi-18-nian-suo-yudao-de-naxie-guai-shi-he-yihuan-gushi-lr1jwin34m6obozyrqpybpujq5cz",
+          "show": "这病说来话长",
+          "title": "VOL.25肿瘤肝胆外科｜箫郎医生在肿瘤医院行医18年所遇到的那些“怪”事和医患故事",
+          "url": "/wiki/sources/vol-25-zhongliu-gandan-waike-xiaolang-yisheng-zai-zhongliu-yiyuan-xingyi-18-nian-suo-yudao-de-naxie-guai-shi-he-yihuan-gushi-lr1jwin34m6obozyrqpybpujq5cz/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/oncologypsychologicalsupport/"
+    },
     "OneX": {
       "episode_count": 1,
       "show_count": 1,
@@ -130332,9 +130364,9 @@
       "url": "/wiki/concepts/placebasedexhibitioncuration/"
     },
     "PlaceboNoceboExpectationEffects": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2208611274 [SCIM2208611274].md",
@@ -130342,9 +130374,16 @@
           "show": "Huberman Lab",
           "title": "How Placebo Effects Work to Change Our Biology & Psychology",
           "url": "/wiki/sources/how-placebo-effects-work-to-change-our-biology-psychology-scim2208611274/"
+        },
+        {
+          "episode_file": "lr1JWIN34M6obOzYrqpyBpuJQ5CZ [lr1JWIN34M6obOzYrqpyBpuJQ5CZ].md",
+          "key": "vol-25-zhongliu-gandan-waike-xiaolang-yisheng-zai-zhongliu-yiyuan-xingyi-18-nian-suo-yudao-de-naxie-guai-shi-he-yihuan-gushi-lr1jwin34m6obozyrqpybpujq5cz",
+          "show": "这病说来话长",
+          "title": "VOL.25肿瘤肝胆外科｜箫郎医生在肿瘤医院行医18年所遇到的那些“怪”事和医患故事",
+          "url": "/wiki/sources/vol-25-zhongliu-gandan-waike-xiaolang-yisheng-zai-zhongliu-yiyuan-xingyi-18-nian-suo-yudao-de-naxie-guai-shi-he-yihuan-gushi-lr1jwin34m6obozyrqpybpujq5cz/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/placebonoceboexpectationeffects/"
     },
     "PlainsSocietyHistoricalDynamism": {
@@ -160322,6 +160361,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/entities/supuyanlatehan/"
     },
+    "SurgicalInformedConsentResponsibility": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lr1JWIN34M6obOzYrqpyBpuJQ5CZ [lr1JWIN34M6obOzYrqpyBpuJQ5CZ].md",
+          "key": "vol-25-zhongliu-gandan-waike-xiaolang-yisheng-zai-zhongliu-yiyuan-xingyi-18-nian-suo-yudao-de-naxie-guai-shi-he-yihuan-gushi-lr1jwin34m6obozyrqpybpujq5cz",
+          "show": "这病说来话长",
+          "title": "VOL.25肿瘤肝胆外科｜箫郎医生在肿瘤医院行医18年所遇到的那些“怪”事和医患故事",
+          "url": "/wiki/sources/vol-25-zhongliu-gandan-waike-xiaolang-yisheng-zai-zhongliu-yiyuan-xingyi-18-nian-suo-yudao-de-naxie-guai-shi-he-yihuan-gushi-lr1jwin34m6obozyrqpybpujq5cz/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/surgicalinformedconsentresponsibility/"
+    },
     "SurrenderAsCivilianProtectionTradeoff": {
       "episode_count": 1,
       "show_count": 1,
@@ -180155,6 +180210,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/xiaochangnutritionguest/"
+    },
+    "XiaolangOncologySurgeon": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lr1JWIN34M6obOzYrqpyBpuJQ5CZ [lr1JWIN34M6obOzYrqpyBpuJQ5CZ].md",
+          "key": "vol-25-zhongliu-gandan-waike-xiaolang-yisheng-zai-zhongliu-yiyuan-xingyi-18-nian-suo-yudao-de-naxie-guai-shi-he-yihuan-gushi-lr1jwin34m6obozyrqpybpujq5cz",
+          "show": "这病说来话长",
+          "title": "VOL.25肿瘤肝胆外科｜箫郎医生在肿瘤医院行医18年所遇到的那些“怪”事和医患故事",
+          "url": "/wiki/sources/vol-25-zhongliu-gandan-waike-xiaolang-yisheng-zai-zhongliu-yiyuan-xingyi-18-nian-suo-yudao-de-naxie-guai-shi-he-yihuan-gushi-lr1jwin34m6obozyrqpybpujq5cz/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/xiaolangoncologysurgeon/"
     },
     "XiaolongWeightManagementGuest": {
       "episode_count": 2,

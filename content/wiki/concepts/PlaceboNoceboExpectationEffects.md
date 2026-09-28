@@ -4,7 +4,8 @@ type: concept
 tags: [psychology, neuroscience, placebo, nocebo, health]
 sources:
   - how-placebo-effects-work-to-change-our-biology-psychology-scim2208611274
-last_updated: 2026-09-26
+  - vol-25-zhongliu-gandan-waike-xiaolang-yisheng-zai-zhongliu-yiyuan-xingyi-18-nian-suo-yudao-de-naxie-guai-shi-he-yihuan-gushi-lr1jwin34m6obozyrqpybpujq5cz
+last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
 
@@ -16,12 +17,15 @@ Placebo, nocebo, and expectation effects are context-dependent changes in sympto
 ## Current Synthesis
 [[how-placebo-effects-work-to-change-our-biology-psychology-scim2208611274]] treats placebo improvement, nocebo worsening, and more specific belief or mindset effects as overlapping expectation processes. The prefrontal cortex is presented as interpreting context and influencing deeper dopamine, hypothalamic, brainstem, and autonomic pathways. The useful synthesis is neither "imaginary" nor "mind over everything": expectations can recruit pathways the body actually has, but their reach, size, specificity, and clinical value depend on the condition and outcome.
 
+[[vol-25-zhongliu-gandan-waike-xiaolang-yisheng-zai-zhongliu-yiyuan-xingyi-18-nian-suo-yudao-de-naxie-guai-shi-he-yihuan-gushi-lr1jwin34m6obozyrqpybpujq5cz|VOL.25]] supplies a ward anecdote in which a postoperative cancer patient reportedly slept better after saline was described as stronger analgesia. This is consistent with expectation influencing pain experience, but it neither verifies the mechanism nor shows that postoperative pathology improved. Because the intervention involved deception and the account lacks clinical detail, the case belongs in the evidence boundary as much as in the evidence base.
+
 ## Key Claims
 - Placebo and nocebo effects can alter real experience and measurable biology rather than only produce inaccurate verbal reports.
 - Prior learning, treatment context, and explicit information can shape the direction and specificity of an expected response.
 - Prefrontal prediction can influence some deeper neural and autonomic systems but cannot arbitrarily command all tissues or disease processes.
 - Active treatment and expectation can interact; demonstrating a placebo effect does not make the pharmacological component unnecessary.
 - Individual response varies, with COMT-related catecholamine biology discussed as one possible contributor rather than a deterministic explanation.
+- Deceptive expectation-setting raises consent and trust concerns, especially when pain or other symptoms could signal untreated pathology.
 
 ## Evidence
 ### Neural and clinical effects
@@ -32,13 +36,14 @@ Placebo, nocebo, and expectation effects are context-dependent changes in sympto
 
 ### Boundary cases
 - [[how-placebo-effects-work-to-change-our-biology-psychology-scim2208611274]] contrasts asthma discomfort with measured breathing and cancer-treatment comfort with tumor control.
+- [[vol-25-zhongliu-gandan-waike-xiaolang-yisheng-zai-zhongliu-yiyuan-xingyi-18-nian-suo-yudao-de-naxie-guai-shi-he-yihuan-gushi-lr1jwin34m6obozyrqpybpujq5cz|VOL.25]] reports improved sleep after a deceptive saline-as-analgesic intervention, but supplies no controlled comparison, diagnostic reassessment, or consent analysis.
 
 ## Counterevidence & Qualifications
-The source does not establish universal response, clinical substitutability, or a single mechanism shared by every example. Study effect sizes and replication evidence are not supplied. Reduced pain, nausea, breathlessness, or anxiety can matter while leaving underlying pathology unchanged, and nocebo framing can also worsen outcomes.
+The sources do not establish universal response, clinical substitutability, or a single mechanism shared by every example. Study effect sizes and replication evidence are not supplied. Reduced pain, nausea, breathlessness, or anxiety can matter while leaving underlying pathology unchanged, and nocebo framing can also worsen outcomes. The VOL.25 anecdote is a clinician recollection, not evidence that difficult postoperative pain should be classified as psychological or that deception is ethically acceptable; assessment, analgesia, consent, and trust remain independent obligations.
 
 ## What Changed
-- Created an umbrella synthesis separating measurable expectation effects from unrestricted mind-over-body claims.
-- Made symptom relief versus disease modification an explicit boundary.
+- Added a postoperative pain anecdote as a clinically suggestive but uncontrolled expectation-effect case.
+- Added deception, consent, missed-pathology, and trust risks as explicit limits on applying placebo reasoning.
 
 ## Related Concepts
 - [[ConditionedPhysiologicalResponses]] - learned cues can acquire specific physiological effects after pairing with active events.
@@ -46,3 +51,5 @@ The source does not establish universal response, clinical substitutability, or 
 - [[SymptomFunctionDissociation]] - subjective improvement can occur without corresponding functional correction.
 - [[MindsetPhysiologyEffects]] - broader informational frames can shape responses to food and activity.
 - [[SupplementPlaceboEffect]] - narrower consumer-health application of perceived benefit under unresolved product efficacy.
+- [[OncologyPsychologicalSupport]] - cancer-care context in which expectation and distress can shape symptoms without replacing treatment.
+- [[SurgicalInformedConsentResponsibility]] - consent boundary implicated when treatment expectations are manipulated deceptively.

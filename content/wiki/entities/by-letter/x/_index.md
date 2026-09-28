@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 11335
+wiki_total_pages: 11336
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -821,6 +821,9 @@ wiki_pages:
   - key: "Xiangling"
     title: "香菱 / Xiangling"
     url: "/wiki/entities/xiangling/"
+  - key: "XiaolangOncologySurgeon"
+    title: "骁狼医生 / Xiaolang (oncology surgeon)"
+    url: "/wiki/entities/xiaolangoncologysurgeon/"
   - key: "XianyuFu"
     title: "鲜于辅 / Xianyu Fu"
     url: "/wiki/entities/xianyufu/"

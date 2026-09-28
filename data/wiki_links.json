@@ -25411,6 +25411,10 @@
     "title": "Family Caregiver Training",
     "url": "/wiki/concepts/familycaregivertraining/"
   },
+  "FamilyCenteredCancerDecisionCommunication": {
+    "title": "Family-Centered Cancer Decision Communication / 肿瘤家庭决策沟通",
+    "url": "/wiki/concepts/familycenteredcancerdecisioncommunication/"
+  },
   "FamilyCommunicationScaffolding": {
     "title": "Family Communication Scaffolding",
     "url": "/wiki/concepts/familycommunicationscaffolding/"
@@ -52511,6 +52515,10 @@
     "title": "Onboarding-Led Churn Reduction",
     "url": "/wiki/concepts/onboardingledchurnreduction/"
   },
+  "OncologyPsychologicalSupport": {
+    "title": "Oncology Psychological Support / 肿瘤照护中的心理支持",
+    "url": "/wiki/concepts/oncologypsychologicalsupport/"
+  },
   "OneLife": {
     "title": "One Life",
     "url": "/wiki/entities/onelife/"
@@ -68719,6 +68727,10 @@
     "title": "Surge AI",
     "url": "/wiki/entities/surgeai/"
   },
+  "SurgicalInformedConsentResponsibility": {
+    "title": "Surgical Informed Consent and Responsibility / 手术知情同意与责任",
+    "url": "/wiki/concepts/surgicalinformedconsentresponsibility/"
+  },
   "SurgicalOutcomeMetricDistortion": {
     "title": "Surgical Outcome Metric Distortion",
     "url": "/wiki/concepts/surgicaloutcomemetricdistortion/"
@@ -77890,6 +77902,10 @@
   "Xiaojia": {
     "title": "小佳",
     "url": "/wiki/entities/xiaojia/"
+  },
+  "XiaolangOncologySurgeon": {
+    "title": "骁狼医生 / Xiaolang (oncology surgeon)",
+    "url": "/wiki/entities/xiaolangoncologysurgeon/"
   },
   "XiaolongWeightManagementGuest": {
     "title": "小龙 / Xiaolong (Weight-Management Guest)",
@@ -87722,6 +87738,10 @@
   "vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244": {
     "title": "Vol.245 五周年，你身边的商业就是这样",
     "url": "/wiki/sources/vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244/"
+  },
+  "vol-25-zhongliu-gandan-waike-xiaolang-yisheng-zai-zhongliu-yiyuan-xingyi-18-nian-suo-yudao-de-naxie-guai-shi-he-yihuan-gushi-lr1jwin34m6obozyrqpybpujq5cz": {
+    "title": "VOL.25肿瘤肝胆外科｜箫郎医生在肿瘤医院行医18年所遇到的那些“怪”事和医患故事",
+    "url": "/wiki/sources/vol-25-zhongliu-gandan-waike-xiaolang-yisheng-zai-zhongliu-yiyuan-xingyi-18-nian-suo-yudao-de-naxie-guai-shi-he-yihuan-gushi-lr1jwin34m6obozyrqpybpujq5cz/"
   },
   "vol-26-fuchanke-fuchanke-de-shi-yeshi-nanshi-de-bixiuke-ljhkdbucgrm_c2ykhzglj7ecbos1": {
     "title": "VOL.26妇产科｜妇产科的事也是男士的必修课",
