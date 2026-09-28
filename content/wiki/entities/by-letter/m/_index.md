@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 11330
+wiki_total_pages: 11331
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1853,6 +1853,9 @@ wiki_pages:
   - key: "MengmengJiang"
     title: "萌萌将 / Mengmeng Jiang"
     url: "/wiki/entities/mengmengjiang/"
+  - key: "MengDoctorFeverClinic"
+    title: "蒙医生 / Meng Doctor (fever clinic)"
+    url: "/wiki/entities/mengdoctorfeverclinic/"
   - key: "MengJia"
     title: "蒙嘉 / Meng Jia"
     url: "/wiki/entities/mengjia/"

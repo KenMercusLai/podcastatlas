@@ -24934,3 +24934,11 @@ Added source `311-reagan-the-road-to-the-white-house-part-2-glt9813084891`; crea
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | VOL.28发热门诊｜甲流进行时听听一线萌医生怎么说｜附看诊现场收录声
+
+Added source `vol-28-faremenzhen-jialiu-jinxingshi-tingting-yixian-mengyisheng-zenme-shuo-fu-kanzhen-xianchang-shoulusheng-li1axa3xcd_jea6lauylj9cfjpwf`; created `MengDoctorFeverClinic` and `InfluenzaHomeCareAndMedicationTriage`; and updated the canonical index. Core synthesis: influenza triage must combine symptom pattern, illness timing, early-test uncertainty, patient vulnerability, deterioration, care-setting burden, prescription constraints, ingredient review, and follow-up rather than relying on fever, one antigen result, or one drug. No settled contradiction was adopted. The episode's clinic positivity, early false-negative, antiviral efficacy and timing, pregnancy and pediatric advice, medicine prices, vaccine duration, isolation, and severity claims remain source-scoped March 2023 public education rather than current individualized guidance. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

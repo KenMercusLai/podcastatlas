@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 8724
+wiki_total_pages: 8725
 wiki_pages:
   - key: "IBDPatientEducationAndPeerSupport"
     title: "IBD Patient Education and Peer Support / IBD患者教育与同伴支持"
@@ -434,6 +434,9 @@ wiki_pages:
   - key: "InflationShapedConsumerHabits"
     title: "Inflation-Shaped Consumer Habits"
     url: "/wiki/concepts/inflationshapedconsumerhabits/"
+  - key: "InfluenzaHomeCareAndMedicationTriage"
+    title: "Influenza Home-Care and Medication Triage / 流感居家照护与用药分诊"
+    url: "/wiki/concepts/influenzahomecareandmedicationtriage/"
   - key: "InformalFemalePoliticalInfluence"
     title: "Informal Female Political Influence"
     url: "/wiki/concepts/informalfemalepoliticalinfluence/"

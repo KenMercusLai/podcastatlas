@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1311
+topic_total_pages: 1312
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -3278,6 +3278,9 @@ topic_entities:
   - key: "XiaoChuzhou"
     title: "萧楚舟 / Xiao Chuzhou"
     url: "/wiki/entities/xiaochuzhou/"
+  - key: "MengDoctorFeverClinic"
+    title: "蒙医生 / Meng Doctor (fever clinic)"
+    url: "/wiki/entities/mengdoctorfeverclinic/"
   - key: "Outlive"
     title: "超越百岁 / Outlive"
     url: "/wiki/entities/outlive/"
