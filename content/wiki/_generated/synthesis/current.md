@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-29
-as_of_overview_commit: 273d9746cd35e8c05d734deee40b316e5ebbe588
+as_of_overview_commit: c0464d085de40d05849b02e06a82d65ddfae6c65
 summary: "Across domains, durable progress depends on evidence, context, human judgment, capable institutions, bounded authority, practical implementation, and feedback."
-episode_count: 3119
-source_count: 3119
-paragraph_count: 767
+episode_count: 3178
+source_count: 3178
+paragraph_count: 769
 topic_count: 9
 ---
 
@@ -22,7 +22,7 @@ topic_count: 9
 - [[366-the-architect-of-modern-china-glt1902993082|The Deng episode]] adds a governance settlement in which [[ChineseAuthoritarianMarketReform]] joined central permission, [[LocalGovernmentPolicyExperimentation]], unequal special-zone capacity, foreign learning, and bottom-up enterprise to a non-negotiable [[ChineseCommunistParty]] monopoly; [[TiananmenCrackdown1989]] closed political liberalization under [[CulturalRevolutionGovernanceMemory]], while the 1992 southern tour restarted economic opening without political pluralism.
 - [[391-the-fall-of-the-aztecs-the-last-emperor-part-8-glt2984940365|The Fall of the Aztecs finale]] treats the [[SpanishConquestOfMexico|Spanish conquest of Mexico]] as a long, uneven transformation rather than a completed 1521 event: coalition politics, [[ColonialLegalAdaptation|legal legitimation and Indigenous claims]], labor, urban rebuilding, religion, and the [[ColumbianExchange]] extended battlefield defeat, while [[HistoricalCatastropheNarrativeEthics]] preserves constrained Indigenous agency and dramatic contingency without minimizing torture, exploitation, dispossession, or demographic catastrophe.
 - [[LifeTaskDiscovery]] and [[PurposeIntegratedMotivation]] frame direction as a test of recurring inclination, engagement, contribution, and adult experimentation; [[PowerLiteracy]], [[EmbodiedSocialPerception]], and [[CharacterBasedRomanticCompatibility]] place social judgment on influence, demonstrated values, cue clusters, and conduct across contexts, while [[EffortfulThinkingInTheAIAge]] and [[MortalityBoundedMeaning]] preserve effort and finite-time urgency without turning struggle, crisis, or intuition into universal prescriptions.
-- [[the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019|The Carhart-Harris interview]] adds a psychedelic mental-health branch in which [[PsychedelicTherapyMechanism]] joins serotonin 2A pharmacology, acute cross-network change, subjective confrontation, therapeutic trust, and setting, while [[PsychedelicIntegration]] and [[PsychedelicClinicalSupervisionBoundary]] keep transient experience, relapse, legal access, contamination, provider conduct, and emergency support distinct from durable efficacy; [[BrainNetworkModularity]] can therefore be useful when high at baseline yet temporarily reduced in an altered state without yielding a one-direction optimization rule.
+- [[vol-10-zhongyi-shaoshangxue-fangxue-zhende-neng-zhi-sangzi-tong-me-daodi-gai-bu-gai-duandiao-hanxing-de-niunai-ljojejbtrsnpuu1aa-10klw6reds|VOL.10]] adds that [[TCMClinicalReasoningBoundary|context-sensitive pattern reasoning]] can discourage copied prescriptions without validating a pattern, procedure, remedy, or preparation, while [[ChineseHerbalMedicineSafetyBoundary]] rejects naturalness, food familiarity, and product naming as substitutes for identity, dose, interaction, life-stage, safety, and escalation review.
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough.
 
 ## Synthesis by Domain
@@ -36,7 +36,7 @@ AI capability becomes durable value only through trustworthy context, workflows,
 
 ### Business and Markets
 
-Business value depends on real demand, distribution, operating fit, trustworthy governance, financing discipline, and evidence beyond narrative.
+Business value depends on real demand, distribution, operating fit, trustworthy governance, financing discipline, and evidence beyond narrative or product labeling.
 
 - [[defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029|The Natalia Olson interview]] adds that public institutions can shape markets through demand and network rules: [[PublicProcurementAsMarketCatalyst]] can give smaller or excluded suppliers revenue-bearing contracts, while [[LastMileNetworkConsolidation]] can separate upstream competition from duplicated physical routes when shared data, capacity, and accountability make consolidation workable. Evidence: [[defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029]], [[PublicProcurementAsMarketCatalyst]], [[LastMileNetworkConsolidation]], [[PolicyLeverageForSystemChange]].
 - [[all-in-with-chamath-jason-sacks-friedberg-brad-gerstner-no-ai-bubble-semis-eat-the-nasdaq-ais-take-off-problem-42936597|The Gerstner market-check episode]] adds an offtake-reconciliation branch: AI infrastructure spending by [[Microsoft]], [[Google]], and [[Amazon]] is treated as rented capacity that has to be paid for by lab and application revenue, so the market question reduces to whether monthly revenue at [[Anthropic]] and [[OpenAI]] grows into the amount needed to service a capex path near $1.5T a year, which makes [[AIOfftakeRevenueGap]] a checkable test alongside [[AICapexReturnWindow]]. Evidence: [[all-in-with-chamath-jason-sacks-friedberg-brad-gerstner-no-ai-bubble-semis-eat-the-nasdaq-ais-take-off-problem-42936597]], [[Microsoft]], [[Google]], [[Amazon]], [[Anthropic]], [[OpenAI]], [[AIOfftakeRevenueGap]], [[AICapexReturnWindow]].
@@ -75,7 +75,7 @@ Personal change depends on bounded self-inquiry, contextual relationship and fam
 
 ### Science, Health, and Climate
 
-Scientific and public-health claims require mechanisms, outcomes, uncertainty, adaptable support, professional safeguards, and clinical escalation when stakes demand care.
+Scientific and public-health claims require mechanisms, outcomes, uncertainty, adaptable support, professional safeguards, and clinical escalation rather than naturalness, tradition, or labels alone.
 
 - [[the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019|The Carhart-Harris interview]] adds a psychedelic mental-health branch in which [[PsychedelicTherapyMechanism]] joins serotonin 2A pharmacology, acute cross-network change, subjective confrontation, therapeutic trust, and setting, while [[PsychedelicIntegration]] and [[PsychedelicClinicalSupervisionBoundary]] keep transient experience, relapse, legal access, contamination, provider conduct, and emergency support distinct from durable efficacy; [[BrainNetworkModularity]] can therefore be useful when high at baseline yet temporarily reduced in an altered state without yielding a one-direction optimization rule. Evidence: [[the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019]], [[RobinCarhartHarris]], [[PsychedelicTherapyMechanism]], [[PsychedelicIntegration]], [[PsychedelicClinicalSupervisionBoundary]], [[BrainNetworkModularity]], [[MDMAAssistedPTSDTherapy]].
 - [[vol-71-jingshenke-guanai-chanhou-yiyu-chanqian-yiji-yufang-chanhou-jujue-moshi-jiyu-gengduo-peiban-loossm3a72jbbdj7tplmsidw4ovi|VOL.71]] adds a perinatal mental-health branch: [[PostpartumDepressionRecognitionAndSupport]] combines emotional, cognitive, bodily, sleep, appetite, caregiving, functional, and safety changes; [[PerinatalMentalHealthPrevention]] moves screening and family planning before crisis; and [[PerinatalPsychiatricMedicationSharedDecision]] keeps pregnancy, lactation, untreated illness, medicine, and feeding choices individualized rather than governed by stigma or blanket rules. Evidence: [[vol-71-jingshenke-guanai-chanhou-yiyu-chanqian-yiji-yufang-chanhou-jujue-moshi-jiyu-gengduo-peiban-loossm3a72jbbdj7tplmsidw4ovi]], [[ZheBingShuoLaiHuaChang]], [[PostpartumDepressionRecognitionAndSupport]], [[PerinatalMentalHealthPrevention]], [[PerinatalPsychiatricMedicationSharedDecision]].

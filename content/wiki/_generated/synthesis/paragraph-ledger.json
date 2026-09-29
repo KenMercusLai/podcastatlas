@@ -768,12 +768,13 @@
       "60d22980877c9a07564718a1614f1e06e5947001e678ff946ba7dbbc77be1f31",
       "718798e1c902241c90f817fc5263e223e3a7e3324d31441c2ee9f2e19f9dfd0d",
       "e831e8e86e17b030487ea014bf3b5808a8c29e2427f06293b304cc57798e77a3",
-      "31c7f90fc6543c2884f08949e65e0d7fcbcf87a146de833aad456ad7ff83697a"
+      "31c7f90fc6543c2884f08949e65e0d7fcbcf87a146de833aad456ad7ff83697a",
+      "ee49b7e1f96890360662e93d6add77e0f4431b634664e869d269eb5847eb0c43"
     ],
-    "paragraph_count": 768
+    "paragraph_count": 769
   },
-  "overview_commit": "9b195372654671ef512490931509fc14a4271aea",
-  "overview_digest": "c5f4eaea91223129007b2564ee7a5fd17982b498dc8f0bd77e8feab50e0e29c9",
+  "overview_commit": "c0464d085de40d05849b02e06a82d65ddfae6c65",
+  "overview_digest": "777d596c0dcc279c107cdb0ef70b08d7f6d0bc8ed3da115957cd458f82f5b826",
   "paragraphs": [
     {
       "id": "6e136b358cff61003fb4df15f0b3f39f2bf43b0d64fa941310906c084be8a2d8",
@@ -22568,6 +22569,29 @@
         "ShiDiFuShuo",
         "SteveShiDiFuShuoHost",
         "shi-di-fu-shuo-474-zixunshi-huixin-quanli-shijiao-shi-weiren-chushi-de-bibei-jiaodu-lnanj_uwjhcnv2vt7ezagdfn9c11"
+      ]
+    },
+    {
+      "id": "ee49b7e1f96890360662e93d6add77e0f4431b634664e869d269eb5847eb0c43",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "science-health-and-climate",
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[vol-10-zhongyi-shaoshangxue-fangxue-zhende-neng-zhi-sangzi-tong-me-daodi-gai-bu-gai-duandiao-hanxing-de-niunai-ljojejbtrsnpuu1aa-10klw6reds|VOL.10中医｜少商穴放血真的能治嗓子痛么｜到底该不该断掉寒性的牛奶]], a [[ZheBingShuoLaiHuaChang|这病说来话长]] conversation in which [[Atang|阿汤]] asks [[TianDoctorTCM|田大夫]] about acute care, pattern differentiation, herbal medicine, food therapy, pregnancy, children, milk, and dosage forms. It adds [[TCMClinicalReasoningBoundary]] and [[ChineseHerbalMedicineSafetyBoundary]] while extending [[DairyChoiceToleranceBoundary]]. Its core synthesis is that diagnosis names, copied prescriptions, naturalness, food familiarity, product names, and traditional hot/cold labels are insufficient for treatment or safety decisions; individualized context is useful but does not validate specific patterns, procedures, remedies, or dosage-form equivalence. No settled contradiction is adopted. Bloodletting, acute remedies, pregnancy and pediatric use, food therapy, and preparation-effect claims remain source-scoped public education, while emergencies and medication decisions require qualified assessment.",
+      "topic_scores": {
+        "business-and-markets": 1,
+        "science-health-and-climate": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "Atang",
+        "ChineseHerbalMedicineSafetyBoundary",
+        "DairyChoiceToleranceBoundary",
+        "TCMClinicalReasoningBoundary",
+        "TianDoctorTCM",
+        "ZheBingShuoLaiHuaChang",
+        "vol-10-zhongyi-shaoshangxue-fangxue-zhende-neng-zhi-sangzi-tong-me-daodi-gai-bu-gai-duandiao-hanxing-de-niunai-ljojejbtrsnpuu1aa-10klw6reds"
       ]
     }
   ],

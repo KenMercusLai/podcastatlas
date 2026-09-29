@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.10中医｜少商穴放血真的能治嗓子痛么｜到底该不该断掉寒性的牛奶](sources/vol-10-zhongyi-shaoshangxue-fangxue-zhende-neng-zhi-sangzi-tong-me-daodi-gai-bu-gai-duandiao-hanxing-de-niunai-ljojejbtrsnpuu1aa-10klw6reds.md) — 这病说来话长 episode on individualized TCM reasoning, acute-care boundaries, herbal-medicine safety, food therapy, pregnancy, children, milk tolerance, and dosage forms.
 - [Using Meditation to Focus, View Consciousness & Expand Your Mind | Dr. Sam Harris](sources/using-meditation-to-focus-view-consciousness-expand-your-mind-dr-sam-harris-scim3261454307.md) — Full Huberman Lab conversation on non-dual mindfulness, selfing, free will, psychedelics, present-centered goals, social attention, and leaving Twitter.
 - [VOL.11脊柱外科｜在舞台和手术台之间切换自如的摇滚医生](sources/vol-11-jizhuwaike-zai-wutai-he-shoushutai-zhijian-qiehuan-ziru-de-yaogun-yisheng-lsuymbo3py0vfgz6ejw0zie-rqtu.md) — 这病说来话长 profile of spine surgeon and Penicillin musician 马浩宁 on dual-career scheduling, medical-education boundaries, and plural definitions of a good doctor.
 - [VOL.12脊柱外科｜脊柱问题误区排雷｜头晕应先挂耳鼻喉和神内｜高枕无忧实则有隐患](sources/vol-12-jizhuwaike-jizhu-wenti-wuqu-pailei-touyun-ying-xian-gua-erbihou-he-shennei-gaozhen-wuyou-shize-you-yinhuan-lp_jgmo3rovwxsq52re_c6mp_pa6.md) — 这病说来话长 episode with 马浩宁 on dizziness routing, cervical and lumbar symptom interpretation, imaging limits, comfort aids, neurological red flags, and indication-led surgery.
@@ -3221,6 +3222,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [290: 2022: A History](sources/290-2022-a-history-glt4625765030.md) — The Rest Is History year-end episode on Ukraine as a post-Cold War rupture, European energy dependence, Elizabeth II's death, British political turmoil, and 2022 cultural recommendations.
 
 ## Entities
+- [田大夫 / Doctor Tian (TCM Guest)](entities/TianDoctorTCM.md) — Source-scoped VOL.10 guest explaining pattern differentiation, context-sensitive treatment, herbal safety, food therapy, and dosage-form tradeoffs.
 - [盘尼西林乐队 / Penicillin](entities/PenicillinBand.md) — Chinese rock band in which spine surgeon 马浩宁 performs selectively on keyboard and accordion.
 - [咪仔 / Mizi](entities/MiziCrimePodcaster.md) — Journalist-trained crime podcaster combining vocal skill, nonfiction verification, audio composition, payment ethics, and vulnerable creator practice.
 - [黑猫侦探社 / Black Cat Detective Agency](entities/BlackCatDetectiveAgency.md) — Bootstrapped nonfiction crime podcast illustrating recommendation-driven growth, additive paid depth, category-specific ad friction, and small-team sustainability limits.
@@ -14648,6 +14650,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Auschwitz-Birkenau](entities/AuschwitzBirkenau.md) — Nazi concentration and extermination complex examined through forced labor, confiscation, registration, deception, mass killing, and escapee evidence.
 
 ## Concepts
+- [TCM Clinical Reasoning Boundary / 中医辨证论治边界](concepts/TCMClinicalReasoningBoundary.md) — Separates individualized clinical context from unvalidated TCM diagnosis, efficacy, mechanism, and treatment claims.
+- [Chinese Herbal Medicine Safety Boundary / 中药安全边界](concepts/ChineseHerbalMedicineSafetyBoundary.md) — Rejects naturalness, culinary familiarity, product naming, or dosage form as sufficient evidence of herbal safety and suitability.
 - [Dual-Career Role Integration / 双重职业角色整合](concepts/DualCareerRoleIntegration.md) — Asymmetric coordination of two serious roles through priority rules, selective participation, and advance scheduling.
 - [Dizziness Diagnostic Routing / 头晕鉴别与就诊分流](concepts/DizzinessDiagnosticRouting.md) — Differential-first framework for routing dizziness before attributing it to cervical imaging or neck symptoms.
 - [Ankylosing Spondylitis / 强直性脊柱炎](concepts/AnkylosingSpondylitis.md) — Immune-mediated rheumatic disease framed through early recognition, medical inflammation control, access burdens, and surgery limited to selected structural consequences.

@@ -1815,9 +1815,25 @@
         "MentalHealthStructureFunctionMap",
         "GenerativeDrive"
       ]
+    },
+    {
+      "global_candidate": true,
+      "id": "individualized-tcm-reasoning-does-not-establish-efficacy-or-safety",
+      "qualifications": [
+        "The source supplies anecdotes and clinician interpretation rather than validated diagnostic criteria, comparative outcomes, dosing evidence, interaction review, or adverse-event surveillance.",
+        "Bloodletting, acute remedies, pregnancy and pediatric use, food therapy, and dosage-form effects remain source-scoped; emergencies and medication decisions require qualified assessment."
+      ],
+      "statement": "[[vol-10-zhongyi-shaoshangxue-fangxue-zhende-neng-zhi-sangzi-tong-me-daodi-gai-bu-gai-duandiao-hanxing-de-niunai-ljojejbtrsnpuu1aa-10klw6reds|VOL.10]] adds that [[TCMClinicalReasoningBoundary|context-sensitive pattern reasoning]] can discourage copied prescriptions without validating a pattern, procedure, remedy, or preparation, while [[ChineseHerbalMedicineSafetyBoundary]] rejects naturalness, food familiarity, and product naming as substitutes for identity, dose, interaction, life-stage, safety, and escalation review.",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "vol-10-zhongyi-shaoshangxue-fangxue-zhende-neng-zhi-sangzi-tong-me-daodi-gai-bu-gai-duandiao-hanxing-de-niunai-ljojejbtrsnpuu1aa-10klw6reds",
+        "TCMClinicalReasoningBoundary",
+        "ChineseHerbalMedicineSafetyBoundary",
+        "DairyChoiceToleranceBoundary"
+      ]
     }
   ],
-  "input_digest": "64fe1d27aee719d7cd2c150606f751800d952d8d71de28b05324817956a4d162",
+  "input_digest": "c3bb669834b6871a9232af957fb027052ecf1c3c37e038b25be8815fa717070f",
   "summary": "Science, health, and climate sources consistently separate public literacy from individualized care: mechanisms, measurements, urgent escalation, qualified treatment, environmental context, and uncertainty matter more than labels or cure claims. Psychedelic therapy now adds the same boundary by treating receptor action, network change, subjective experience, setting, and integration as candidate components rather than interchangeable proof, with relapse, preliminary evidence, legal access, product identity, provider conduct, and emergency support kept explicit. The topic spans social neuroscience, sleep and mental health, perinatal support, chronic and acute care, metabolism and nutrition, exercise and sensory health, disability and animal welfare, climate adaptation, and science governance; interventions remain population-, comparator-, dose-, timing-, endpoint-, goal-, and supervision-dependent. Perinatal mental health adds early screening, practical family support, harm-risk escalation, and shared pregnancy, lactation, medicine, untreated-illness, and feeding decisions. Digestive comfort and food familiarity do not establish disease treatment, just as expectation effects can change symptoms without proving restored function; end-of-life and intensive-care decisions depend on reversibility and stated wishes, elite performance does not establish psychological safety, and social need depends on state, history, contact quality, and translation boundaries. Exercise safety depends on controlled range, preparation, equipment, progression, and current capacity; suspected injury should be protected from secondary damage before repeated testing, while strength and supplements can support selected goals without proving structural repair. Health tools should support adaptable function through safe effort, day-night light contrast, mixed physical capacity, trend-based tracking, proportionate follow-up, and flexible weekly fitness coverage rather than one score, scan, protocol, or rigid calendar. Respiratory illness reflects exposure, entry routes, physical barriers, innate response, adaptive memory, and recovery state, so layered prevention, sleep, manageable exercise, and rest during systemic malaise remain more foundational than supplements, deliberate heat, or microbiome hypotheses. Creative routines, breathing, HRV, light, diet, dream, and unconscious-processing remarks remain practitioner guidance or source-scoped rather than universal health protocols.",
   "topic_id": "science-health-and-climate"
 }

@@ -25419,3 +25419,10 @@ Added source `290-2022-a-history-glt4625765030`; created `PostColdWarOrderRuptur
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-09-29] ingest | VOL.10中医｜少商穴放血真的能治嗓子痛么｜到底该不该断掉寒性的牛奶
+
+Added source `vol-10-zhongyi-shaoshangxue-fangxue-zhende-neng-zhi-sangzi-tong-me-daodi-gai-bu-gai-duandiao-hanxing-de-niunai-ljojejbtrsnpuu1aa-10klw6reds`; created `TianDoctorTCM`, `TCMClinicalReasoningBoundary`, and `ChineseHerbalMedicineSafetyBoundary`; expanded `DairyChoiceToleranceBoundary` from its complete bounded two-source set; and updated the canonical index and overview. Core synthesis: diagnosis names, copied prescriptions, tradition, naturalness, food familiarity, and product names are insufficient for treatment or safety decisions; context sensitivity is useful but does not validate specific TCM patterns, procedures, remedies, or dosage-form equivalence. No settled contradiction was adopted. Bloodletting, acute-care remedies, pregnancy and pediatric use, food therapy, hot/cold classifications, and preparation-effect claims remain source-scoped public education rather than individualized guidance.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

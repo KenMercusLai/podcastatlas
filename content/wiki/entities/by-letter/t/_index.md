@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 11399
+wiki_total_pages: 11400
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1583,6 +1583,9 @@ wiki_pages:
   - key: "TianHe"
     title: "田和 / Tian He"
     url: "/wiki/entities/tianhe/"
+  - key: "TianDoctorTCM"
+    title: "田大夫 / Doctor Tian (TCM Guest)"
+    url: "/wiki/entities/tiandoctortcm/"
   - key: "TianYing"
     title: "田婴 / Tian Ying"
     url: "/wiki/entities/tianying/"

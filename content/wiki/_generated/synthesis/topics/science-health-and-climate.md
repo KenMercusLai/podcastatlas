@@ -3,9 +3,9 @@
 generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
-last_updated: 2026-09-28
-as_of_overview_commit: 25095543237272b679f228c8332d32388e9e4ddd
-input_digest: 64fe1d27aee719d7cd2c150606f751800d952d8d71de28b05324817956a4d162
+last_updated: 2026-09-29
+as_of_overview_commit: c0464d085de40d05849b02e06a82d65ddfae6c65
+input_digest: c3bb669834b6871a9232af957fb027052ecf1c3c37e038b25be8815fa717070f
 ---
 
 # Science, Health, and Climate
@@ -977,3 +977,14 @@ The Conti series opener adds a health-literacy boundary: [[MentalHealthStructure
 - The series presents Conti's mental-health map and metaphors as public education, not a validated diagnostic instrument or individualized treatment plan.
 - Grounding, journaling, meditation, trusted conversation, and self-inquiry can support orientation without replacing psychotherapy, medication management, crisis assessment, or trauma care.
 - Self-harm thoughts, hopelessness, instability, severe symptoms, and inquiry that compounds guilt or shame require qualified or urgent support.
+
+### Individualized Tcm Reasoning Does Not Establish Efficacy Or Safety
+
+[[vol-10-zhongyi-shaoshangxue-fangxue-zhende-neng-zhi-sangzi-tong-me-daodi-gai-bu-gai-duandiao-hanxing-de-niunai-ljojejbtrsnpuu1aa-10klw6reds|VOL.10]] adds that [[TCMClinicalReasoningBoundary|context-sensitive pattern reasoning]] can discourage copied prescriptions without validating a pattern, procedure, remedy, or preparation, while [[ChineseHerbalMedicineSafetyBoundary]] rejects naturalness, food familiarity, and product naming as substitutes for identity, dose, interaction, life-stage, safety, and escalation review.
+
+**Evidence:** [[vol-10-zhongyi-shaoshangxue-fangxue-zhende-neng-zhi-sangzi-tong-me-daodi-gai-bu-gai-duandiao-hanxing-de-niunai-ljojejbtrsnpuu1aa-10klw6reds]], [[TCMClinicalReasoningBoundary]], [[ChineseHerbalMedicineSafetyBoundary]], [[DairyChoiceToleranceBoundary]]
+
+**Qualifications:**
+
+- The source supplies anecdotes and clinician interpretation rather than validated diagnostic criteria, comparative outcomes, dosing evidence, interaction review, or adverse-event surveillance.
+- Bloodletting, acute remedies, pregnancy and pediatric use, food therapy, and dosage-form effects remain source-scoped; emergencies and medication decisions require qualified assessment.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 8811
+wiki_total_pages: 8813
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -194,6 +194,9 @@ wiki_pages:
   - key: "TCMAutumnSelfCareBoundary"
     title: "TCM Autumn Self-Care Boundary / 中医秋季养生边界"
     url: "/wiki/concepts/tcmautumnselfcareboundary/"
+  - key: "TCMClinicalReasoningBoundary"
+    title: "TCM Clinical Reasoning Boundary / 中医辨证论治边界"
+    url: "/wiki/concepts/tcmclinicalreasoningboundary/"
   - key: "TCMDigestiveSelfCareBoundary"
     title: "TCM Digestive Self-Care Boundary / 中医消化自我调理边界"
     url: "/wiki/concepts/tcmdigestiveselfcareboundary/"

@@ -2549,9 +2549,24 @@
         "PassThroughBusinessTaxAdvantage",
         "DispersedBusinessElitePower"
       ]
+    },
+    {
+      "global_candidate": false,
+      "id": "health-product-market-claims-need-identity-safety-and-effect-proof",
+      "qualifications": [
+        "VOL.10 is a clinician interview and structured summary, not a product audit, comparative trial, pharmacovigilance dataset, or regulatory review.",
+        "The episode's examples do not establish efficacy, safety, interchangeability, or commercial value for any named herb, proprietary medicine, food therapy, or dosage form."
+      ],
+      "statement": "[[vol-10-zhongyi-shaoshangxue-fangxue-zhende-neng-zhi-sangzi-tong-me-daodi-gai-bu-gai-duandiao-hanxing-de-niunai-ljojejbtrsnpuu1aa-10klw6reds|VOL.10]] adds a consumer-health market boundary: [[ChineseHerbalMedicineSafetyBoundary]] and [[DairyChoiceToleranceBoundary]] require product identity, ingredients, dose, patient fit, safety, and treatment-effect evidence rather than inferring value from naturalness, traditional naming, food familiarity, a hot/cold label, or convenient dosage form.",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "vol-10-zhongyi-shaoshangxue-fangxue-zhende-neng-zhi-sangzi-tong-me-daodi-gai-bu-gai-duandiao-hanxing-de-niunai-ljojejbtrsnpuu1aa-10klw6reds",
+        "ChineseHerbalMedicineSafetyBoundary",
+        "DairyChoiceToleranceBoundary"
+      ]
     }
   ],
-  "input_digest": "9c6bac2e55f0bb4ac9c99b14cc0296fa67d6df47d20460918b1a410e02a9439e",
+  "input_digest": "4c15ccc1ab6f79a9c06e77e13783b5f6941127ae216e17f297357c4de48e8159",
   "summary": "Business and market sources converge on a disciplined implementation thesis: demand, pricing, financing, distribution, infrastructure, governance, and operational fit determine whether technical capability, mission, or narrative becomes durable value. Across AI, SaaS, consumer brands, finance, climate, media, logistics, healthcare, and public systems, credible adoption requires measurable customer pull, bounded risk, production and channel proof, and institutions that can carry costs and accountability. The Luther source adds a historical market-structure case: criticism of indulgences threatened a network joining spiritual assurance to relics, church revenue, banking debt, officeholding, and electoral power, while print enlarged the challenge beyond a local dispute. Metrics, forecasts, motives, historical analogies, and founder or host claims remain source-scoped where the bounded inputs do not independently verify them.",
   "title": "Business and Markets",
   "topic_id": "business-and-markets"

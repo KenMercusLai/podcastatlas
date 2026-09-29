@@ -3,9 +3,9 @@
 generated: true
 topic_id: business-and-markets
 title: "Business and Markets"
-last_updated: 2026-09-26
-as_of_overview_commit: 66da1b8d373b8ab66d412b044a030100076018ad
-input_digest: 9c6bac2e55f0bb4ac9c99b14cc0296fa67d6df47d20460918b1a410e02a9439e
+last_updated: 2026-09-29
+as_of_overview_commit: c0464d085de40d05849b02e06a82d65ddfae6c65
+input_digest: 4c15ccc1ab6f79a9c06e77e13783b5f6941127ae216e17f297357c4de48e8159
 ---
 
 # Business and Markets
@@ -1257,3 +1257,14 @@ The supplement case shows category awareness being created outside official chan
 
 - Wealth totals, industry rankings, owner-origin shares, owner-exit profit effects, tax comparisons, fiscal costs, and consumer-price effects remain episode-attributed or source-scoped.
 - The source does not show that all pass-through owners receive equal benefits or use political influence in the same way.
+
+### Health Product Market Claims Need Identity Safety And Effect Proof
+
+[[vol-10-zhongyi-shaoshangxue-fangxue-zhende-neng-zhi-sangzi-tong-me-daodi-gai-bu-gai-duandiao-hanxing-de-niunai-ljojejbtrsnpuu1aa-10klw6reds|VOL.10]] adds a consumer-health market boundary: [[ChineseHerbalMedicineSafetyBoundary]] and [[DairyChoiceToleranceBoundary]] require product identity, ingredients, dose, patient fit, safety, and treatment-effect evidence rather than inferring value from naturalness, traditional naming, food familiarity, a hot/cold label, or convenient dosage form.
+
+**Evidence:** [[vol-10-zhongyi-shaoshangxue-fangxue-zhende-neng-zhi-sangzi-tong-me-daodi-gai-bu-gai-duandiao-hanxing-de-niunai-ljojejbtrsnpuu1aa-10klw6reds]], [[ChineseHerbalMedicineSafetyBoundary]], [[DairyChoiceToleranceBoundary]]
+
+**Qualifications:**
+
+- VOL.10 is a clinician interview and structured summary, not a product audit, comparative trial, pharmacovigilance dataset, or regulatory review.
+- The episode's examples do not establish efficacy, safety, interchangeability, or commercial value for any named herb, proprietary medicine, food therapy, or dosage form.

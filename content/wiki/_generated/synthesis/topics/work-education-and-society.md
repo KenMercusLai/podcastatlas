@@ -4,8 +4,8 @@ generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
 last_updated: 2026-09-29
-as_of_overview_commit: 34439b38fba2836ca4f96dceb631ebae5918e046
-input_digest: 302a743368943c6446a0153237eeecdb565cd274bc68f13e37269564f87c2c23
+as_of_overview_commit: c0464d085de40d05849b02e06a82d65ddfae6c65
+input_digest: 1d75d5a66842b24476c566d0242076c84332e77fdf590df540df29cba1f1abe7
 ---
 
 # Work, Education, and Society
@@ -1267,3 +1267,14 @@ The Conti series enters work and society through [[MentalHealthStructureFunction
 - The source is public psychoeducation based on short listener letters rather than verified third-party histories, individualized therapy, diagnosis, legal advice, or safety planning.
 - First-person proximity provides important context but does not make a person's interpretation infallible or invalidate evidence of coercion, deception, danger, or legal consequence.
 - The host's explanations of friends, relatives, partners, and therapists are hypotheses, and confrontation in abusive relationships can create retaliation risk.
+
+### Public Tcm Literacy Needs Context Evidence And Escalation
+
+[[vol-10-zhongyi-shaoshangxue-fangxue-zhende-neng-zhi-sangzi-tong-me-daodi-gai-bu-gai-duandiao-hanxing-de-niunai-ljojejbtrsnpuu1aa-10klw6reds|VOL.10]] adds a public medical-literacy claim: [[TCMClinicalReasoningBoundary]] rejects Chinese-versus-Western slogans, diagnosis-label prescribing, and copied formulas, while [[ChineseHerbalMedicineSafetyBoundary]] makes product identity, dose, life stage, interaction, and professional escalation part of household health decisions.
+
+**Evidence:** [[vol-10-zhongyi-shaoshangxue-fangxue-zhende-neng-zhi-sangzi-tong-me-daodi-gai-bu-gai-duandiao-hanxing-de-niunai-ljojejbtrsnpuu1aa-10klw6reds]], [[TCMClinicalReasoningBoundary]], [[ChineseHerbalMedicineSafetyBoundary]]
+
+**Qualifications:**
+
+- VOL.10 is public education from one guest and does not establish a universal clinical workflow, professional scope rule, or Chinese-versus-Western treatment comparison.
+- Person-, season-, place-, and constitution-sensitive language can reduce overgeneralization but cannot replace validated diagnosis, evidence, or emergency routing.

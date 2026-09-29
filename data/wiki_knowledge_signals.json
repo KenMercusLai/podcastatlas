@@ -30436,6 +30436,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/concepts/chinesefootballpyramiddesign/"
     },
+    "ChineseHerbalMedicineSafetyBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ljoJEJbtrSNPUu1aa-10kLW6REds [ljoJEJbtrSNPUu1aa-10kLW6REds].md",
+          "key": "vol-10-zhongyi-shaoshangxue-fangxue-zhende-neng-zhi-sangzi-tong-me-daodi-gai-bu-gai-duandiao-hanxing-de-niunai-ljojejbtrsnpuu1aa-10klw6reds",
+          "show": "这病说来话长",
+          "title": "VOL.10中医｜少商穴放血真的能治嗓子痛么｜到底该不该断掉寒性的牛奶",
+          "url": "/wiki/sources/vol-10-zhongyi-shaoshangxue-fangxue-zhende-neng-zhi-sangzi-tong-me-daodi-gai-bu-gai-duandiao-hanxing-de-niunai-ljojejbtrsnpuu1aa-10klw6reds/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/chineseherbalmedicinesafetyboundary/"
+    },
     "ChineseInternetEntryPointCompetition": {
       "episode_count": 1,
       "show_count": 1,
@@ -39869,9 +39885,9 @@
       "url": "/wiki/concepts/dairycategorypremiumization/"
     },
     "DairyChoiceToleranceBoundary": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lmiaFjNOIoOiJZQCNMfRMRef-H2V [lmiaFjNOIoOiJZQCNMfRMRef-H2V].md",
@@ -39879,9 +39895,16 @@
           "show": "这病说来话长",
           "title": "VOL.45食品与营养｜你喝牛奶么？这5种“超级食物”是智商税吗？",
           "url": "/wiki/sources/vol-45-shipin-yu-yingyang-ni-he-niunai-me-zhe-5-zhong-chaoji-shiwu-shi-zhishangshui-ma-lmiafjnoiooijzqcnmfrmref-h2v/"
+        },
+        {
+          "episode_file": "ljoJEJbtrSNPUu1aa-10kLW6REds [ljoJEJbtrSNPUu1aa-10kLW6REds].md",
+          "key": "vol-10-zhongyi-shaoshangxue-fangxue-zhende-neng-zhi-sangzi-tong-me-daodi-gai-bu-gai-duandiao-hanxing-de-niunai-ljojejbtrsnpuu1aa-10klw6reds",
+          "show": "这病说来话长",
+          "title": "VOL.10中医｜少商穴放血真的能治嗓子痛么｜到底该不该断掉寒性的牛奶",
+          "url": "/wiki/sources/vol-10-zhongyi-shaoshangxue-fangxue-zhende-neng-zhi-sangzi-tong-me-daodi-gai-bu-gai-duandiao-hanxing-de-niunai-ljojejbtrsnpuu1aa-10klw6reds/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/dairychoicetoleranceboundary/"
     },
     "DalianYingbo": {
@@ -164939,6 +164962,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/tcmautumnselfcareboundary/"
     },
+    "TCMClinicalReasoningBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ljoJEJbtrSNPUu1aa-10kLW6REds [ljoJEJbtrSNPUu1aa-10kLW6REds].md",
+          "key": "vol-10-zhongyi-shaoshangxue-fangxue-zhende-neng-zhi-sangzi-tong-me-daodi-gai-bu-gai-duandiao-hanxing-de-niunai-ljojejbtrsnpuu1aa-10klw6reds",
+          "show": "这病说来话长",
+          "title": "VOL.10中医｜少商穴放血真的能治嗓子痛么｜到底该不该断掉寒性的牛奶",
+          "url": "/wiki/sources/vol-10-zhongyi-shaoshangxue-fangxue-zhende-neng-zhi-sangzi-tong-me-daodi-gai-bu-gai-duandiao-hanxing-de-niunai-ljojejbtrsnpuu1aa-10klw6reds/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/tcmclinicalreasoningboundary/"
+    },
     "TCMDigestiveSelfCareBoundary": {
       "episode_count": 1,
       "show_count": 1,
@@ -169209,6 +169248,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/entities/tianchou/"
+    },
+    "TianDoctorTCM": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ljoJEJbtrSNPUu1aa-10kLW6REds [ljoJEJbtrSNPUu1aa-10kLW6REds].md",
+          "key": "vol-10-zhongyi-shaoshangxue-fangxue-zhende-neng-zhi-sangzi-tong-me-daodi-gai-bu-gai-duandiao-hanxing-de-niunai-ljojejbtrsnpuu1aa-10klw6reds",
+          "show": "这病说来话长",
+          "title": "VOL.10中医｜少商穴放血真的能治嗓子痛么｜到底该不该断掉寒性的牛奶",
+          "url": "/wiki/sources/vol-10-zhongyi-shaoshangxue-fangxue-zhende-neng-zhi-sangzi-tong-me-daodi-gai-bu-gai-duandiao-hanxing-de-niunai-ljojejbtrsnpuu1aa-10klw6reds/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/tiandoctortcm/"
     },
     "TianFengLateHan": {
       "episode_count": 7,

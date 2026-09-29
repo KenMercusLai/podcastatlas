@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8811
+wiki_total_pages: 8813
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -812,6 +812,9 @@ wiki_pages:
   - key: "ChineseHardwareGlobalization"
     title: "Chinese Hardware Globalization"
     url: "/wiki/concepts/chinesehardwareglobalization/"
+  - key: "ChineseHerbalMedicineSafetyBoundary"
+    title: "Chinese Herbal Medicine Safety Boundary / 中药安全边界"
+    url: "/wiki/concepts/chineseherbalmedicinesafetyboundary/"
   - key: "ChineseHighSpeedRail"
     title: "Chinese High-Speed Rail"
     url: "/wiki/concepts/chinesehighspeedrail/"
