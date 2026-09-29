@@ -25403,3 +25403,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | 291: The Man Who Escaped Auschwitz
+
+Added source `291-the-man-who-escaped-auschwitz-glt6191002964`; created `AuschwitzBirkenau` and `DeceptionAsGenocidalInfrastructure`; expanded `RudolfVrba`, `AlfredWetzler`, `VrbaWetzlerReport`, `JonathanFreedland`, `HolocaustWarningActionGap`, and `TheHolocaust` from their complete bounded source sets; and updated the canonical index. Core synthesis: false resettlement promises, reassuring arrival procedures, queues, luggage handling, and sham disinfection functioned as operational capacity for mass killing, while Vrba and Wetzler turned camp observation, memorized transport data, escape, and structured debrief into counter-information. No settled contradiction was adopted. The escape's claimed precedence, camp details, arrival knowledge, report-drafting intentions, and the counterfactual effect of advance warning remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

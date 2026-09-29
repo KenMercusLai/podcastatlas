@@ -8046,9 +8046,9 @@
       "url": "/wiki/entities/alfredthegreat/"
     },
     "AlfredWetzler": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7756076339 [GLT7756076339].md",
@@ -8056,6 +8056,13 @@
           "show": "The Rest Is History",
           "title": "292: The Shadow of the Holocaust",
           "url": "/wiki/sources/292-the-shadow-of-the-holocaust-glt7756076339/"
+        },
+        {
+          "episode_file": "GLT6191002964 [GLT6191002964].md",
+          "key": "291-the-man-who-escaped-auschwitz-glt6191002964",
+          "show": "The Rest Is History",
+          "title": "291: The Man Who Escaped Auschwitz",
+          "url": "/wiki/sources/291-the-man-who-escaped-auschwitz-glt6191002964/"
         }
       ],
       "updated": "2026-09-29",
@@ -14633,6 +14640,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/aurelstein/"
+    },
+    "AuschwitzBirkenau": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6191002964 [GLT6191002964].md",
+          "key": "291-the-man-who-escaped-auschwitz-glt6191002964",
+          "show": "The Rest Is History",
+          "title": "291: The Man Who Escaped Auschwitz",
+          "url": "/wiki/sources/291-the-man-who-escaped-auschwitz-glt6191002964/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/auschwitzbirkenau/"
     },
     "AuspiciousOmenPolitics": {
       "episode_count": 14,
@@ -41861,6 +41884,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/december25christmasdating/"
+    },
+    "DeceptionAsGenocidalInfrastructure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6191002964 [GLT6191002964].md",
+          "key": "291-the-man-who-escaped-auschwitz-glt6191002964",
+          "show": "The Rest Is History",
+          "title": "291: The Man Who Escaped Auschwitz",
+          "url": "/wiki/sources/291-the-man-who-escaped-auschwitz-glt6191002964/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/deceptionasgenocidalinfrastructure/"
     },
     "DeceptionAsPatronTrustCollapse": {
       "episode_count": 1,
@@ -79516,9 +79555,9 @@
       "url": "/wiki/concepts/hollywoodnepotismnetworkadvantage/"
     },
     "HolocaustWarningActionGap": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7756076339 [GLT7756076339].md",
@@ -79526,6 +79565,13 @@
           "show": "The Rest Is History",
           "title": "292: The Shadow of the Holocaust",
           "url": "/wiki/sources/292-the-shadow-of-the-holocaust-glt7756076339/"
+        },
+        {
+          "episode_file": "GLT6191002964 [GLT6191002964].md",
+          "key": "291-the-man-who-escaped-auschwitz-glt6191002964",
+          "show": "The Rest Is History",
+          "title": "291: The Man Who Escaped Auschwitz",
+          "url": "/wiki/sources/291-the-man-who-escaped-auschwitz-glt6191002964/"
         }
       ],
       "updated": "2026-09-29",
@@ -94205,9 +94251,9 @@
       "url": "/wiki/entities/jonathananderson/"
     },
     "JonathanFreedland": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7756076339 [GLT7756076339].md",
@@ -94215,6 +94261,13 @@
           "show": "The Rest Is History",
           "title": "292: The Shadow of the Holocaust",
           "url": "/wiki/sources/292-the-shadow-of-the-holocaust-glt7756076339/"
+        },
+        {
+          "episode_file": "GLT6191002964 [GLT6191002964].md",
+          "key": "291-the-man-who-escaped-auschwitz-glt6191002964",
+          "show": "The Rest Is History",
+          "title": "291: The Man Who Escaped Auschwitz",
+          "url": "/wiki/sources/291-the-man-who-escaped-auschwitz-glt6191002964/"
         }
       ],
       "updated": "2026-09-29",
@@ -148194,9 +148247,9 @@
       "url": "/wiki/entities/rudolfii/"
     },
     "RudolfVrba": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7756076339 [GLT7756076339].md",
@@ -148204,6 +148257,13 @@
           "show": "The Rest Is History",
           "title": "292: The Shadow of the Holocaust",
           "url": "/wiki/sources/292-the-shadow-of-the-holocaust-glt7756076339/"
+        },
+        {
+          "episode_file": "GLT6191002964 [GLT6191002964].md",
+          "key": "291-the-man-who-escaped-auschwitz-glt6191002964",
+          "show": "The Rest Is History",
+          "title": "291: The Man Who Escaped Auschwitz",
+          "url": "/wiki/sources/291-the-man-who-escaped-auschwitz-glt6191002964/"
         }
       ],
       "updated": "2026-09-29",
@@ -167377,9 +167437,9 @@
       "url": "/wiki/entities/thehistories/"
     },
     "TheHolocaust": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "133. IBM与纳粹：为什么普通人不应赞美鸡贼主义 [815684110].md",
@@ -167415,6 +167475,13 @@
           "show": "The Rest Is History",
           "title": "292: The Shadow of the Holocaust",
           "url": "/wiki/sources/292-the-shadow-of-the-holocaust-glt7756076339/"
+        },
+        {
+          "episode_file": "GLT6191002964 [GLT6191002964].md",
+          "key": "291-the-man-who-escaped-auschwitz-glt6191002964",
+          "show": "The Rest Is History",
+          "title": "291: The Man Who Escaped Auschwitz",
+          "url": "/wiki/sources/291-the-man-who-escaped-auschwitz-glt6191002964/"
         }
       ],
       "updated": "2026-09-29",
@@ -175917,9 +175984,9 @@
       "url": "/wiki/concepts/voluntaryaisafetycommitments/"
     },
     "VrbaWetzlerReport": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7756076339 [GLT7756076339].md",
@@ -175927,6 +175994,13 @@
           "show": "The Rest Is History",
           "title": "292: The Shadow of the Holocaust",
           "url": "/wiki/sources/292-the-shadow-of-the-holocaust-glt7756076339/"
+        },
+        {
+          "episode_file": "GLT6191002964 [GLT6191002964].md",
+          "key": "291-the-man-who-escaped-auschwitz-glt6191002964",
+          "show": "The Rest Is History",
+          "title": "291: The Man Who Escaped Auschwitz",
+          "url": "/wiki/sources/291-the-man-who-escaped-auschwitz-glt6191002964/"
         }
       ],
       "updated": "2026-09-29",

@@ -3217,6 +3217,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [京东开出购物中心，蔚来与吉利推进充电换电合作](sources/jingdong-kaichu-gouwuzhongxin-weilai-yu-jili-tuijin-chongdian-huandian-hezuo-1019779523.md) — 声动早咖啡 episode on NIO–Geely charging and battery-swap collaboration, JD's physical-retail and rapid-delivery experiments, and brief updates on visitor payments, patents, restaurants, variety rights, football, festival streaming, and celebrity-IP retail.
 - [293: Lady Jane Grey: The Nine Days' Queen (Part 1)](sources/293-lady-jane-grey-the-nine-days-queen-part-1-glt2281550812.md) — The Rest Is History episode on Edward VI's succession device, Protestant commitment, female-rule anxiety, disputed legality, Northumberland's mixed motives, and Jane's education and reluctant accession.
 - [292: The Shadow of the Holocaust](sources/292-the-shadow-of-the-holocaust-glt7756076339.md) — The Rest Is History episode on the Vrba-Wetzler Report, delayed institutional response, the halt of Budapest deportations, and Rudolf Vrba's non-consoling witness legacy.
+- [291: The Man Who Escaped Auschwitz](sources/291-the-man-who-escaped-auschwitz-glt6191002964.md) — The Rest Is History episode on Rudolf Vrba and Alfred Wetzler's escape, deception inside Auschwitz, and the evidentiary construction of their report.
 
 ## Entities
 - [盘尼西林乐队 / Penicillin](entities/PenicillinBand.md) — Chinese rock band in which spine surgeon 马浩宁 performs selectively on keyboard and accordion.
@@ -14643,6 +14644,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jonathan Freedland](entities/JonathanFreedland.md) — Journalist and author interpreting the Vrba-Wetzler Report through institutional inaction and non-redemptive survivor memory.
 - [Rezső Kasztner](entities/RezsoKasztner.md) — Contested Hungarian Jewish intermediary associated with both selective rescue and failure to circulate the Auschwitz warning broadly.
 - [Vrba-Wetzler Report](entities/VrbaWetzlerReport.md) — 1944 escapee account whose circulation exposed Auschwitz and eventually contributed to pressure against Hungarian deportations.
+- [Auschwitz-Birkenau](entities/AuschwitzBirkenau.md) — Nazi concentration and extermination complex examined through forced labor, confiscation, registration, deception, mass killing, and escapee evidence.
 
 ## Concepts
 - [Dual-Career Role Integration / 双重职业角色整合](concepts/DualCareerRoleIntegration.md) — Asymmetric coordination of two serious roles through priority rules, selective participation, and advance scheduling.
@@ -23486,5 +23488,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tudor Female Sovereignty Constraint](concepts/TudorFemaleSovereigntyConstraint.md) — Gendered legitimacy problem joining female hereditary claims to male-kingship expectations and fear of rule through a queen's husband.
 - [Holocaust Warning-to-Action Gap](concepts/HolocaustWarningActionGap.md) — Distance between credible atrocity evidence and timely protection created by disbelief, prejudice, bureaucracy, strategy, and fragmented responsibility.
 - [Survivor Witness Without Consolation](concepts/SurvivorWitnessWithoutConsolation.md) — Testimony that preserves anger, accusation, and damaged aftermath instead of satisfying demands for redemptive closure.
+- [Deception as Genocidal Infrastructure](concepts/DeceptionAsGenocidalInfrastructure.md) — False destinations, ordinary procedures, reassurance, and controlled information used as operational components of mass killing.
 
 ## Syntheses

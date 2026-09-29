@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 11398
+wiki_total_pages: 11399
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1628,6 +1628,9 @@ wiki_pages:
   - key: "AurelStein"
     title: "Aurel Stein"
     url: "/wiki/entities/aurelstein/"
+  - key: "AuschwitzBirkenau"
+    title: "Auschwitz-Birkenau"
+    url: "/wiki/entities/auschwitzbirkenau/"
   - key: "AustinCurrie"
     title: "Austin Currie"
     url: "/wiki/entities/austincurrie/"
