@@ -5,7 +5,8 @@ tags: [healthcare, prognosis, surgery, uncertainty]
 sources:
   - vol-128-he-7-wei-yisheng-de-liaotianju-jiangshu-le-12-wei-huanzhe-de-zhenshi-gushi-yishijie-litblbacavb9homqxo81g71oujyz
   - vol-23-zhongliu-gandan-waike-waike-yisheng-yong-zhongxiyi-shuangxitong-liao-dannang-danguan-jibing-he-yangsheng-lvmnrsimkqyj8jmtzdj7kfazvbzu
-last_updated: 2026-09-23
+  - vol-14-jizhen-weizhongbingke-zai-eicu-shengsi-yichana-xiayimiao-de-gushi-yongyuan-wufa-jutou-lvroomdoozbajm99k07hhffefc7c
+last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,8 +22,10 @@ The practical communication boundary is neither false reassurance nor hopeless c
 
 VOL.23 adds the inverse statistical boundary: even when a population survival rate exists, it does not determine one person's remaining time. Site, stage, pathology, differentiation, organ and nodal involvement, vascular features, treatment response, and other individual factors mediate the translation from group evidence to personal prognosis.
 
+VOL.14 adds temporal instability inside apparent recovery. One patient died after looking ready for discharge, while another developed myocardial infarction and heart failure after gastrointestinal bleeding treatment and survived further rescue. A planned discharge, reassuring snapshot, or earlier successful intervention therefore marks a point in the course rather than a guarantee about the next hours.
+
 ## Key Claims
-- Procedural success and whole-patient outcome are different endpoints.
+- Procedural success, apparent stabilization, planned discharge, and whole-patient outcome are different endpoints.
 - Perioperative and intensive-care management can remain decisive after the technical intervention ends.
 - Preserving function can conflict with preserving life when bleeding, shock, organ failure, or systemic complications escalate.
 - Delayed presentation can reduce recoverable function even when treatment remains technically possible.
@@ -36,13 +39,15 @@ VOL.23 adds the inverse statistical boundary: even when a population survival ra
 - Recognition without control: [[vol-128-he-7-wei-yisheng-de-liaotianju-jiangshu-le-12-wei-huanzhe-de-zhenshi-gushi-yishijie-litblbacavb9homqxo81g71oujyz]] has Wu Bin describe suspected oral tumors he referred but whose later outcomes he did not fully know.
 - Prognostic communication: [[vol-128-he-7-wei-yisheng-de-liaotianju-jiangshu-le-12-wei-huanzhe-de-zhenshi-gushi-yishijie-litblbacavb9homqxo81g71oujyz]] rejects presenting a poor expected course as guaranteed recovery.
 - Population-to-person boundary: [[vol-23-zhongliu-gandan-waike-waike-yisheng-yong-zhongxiyi-shuangxitong-liao-dannang-danguan-jibing-he-yangsheng-lvmnrsimkqyj8jmtzdj7kfazvbzu|VOL.23]] says biliary-cancer survival rates describe groups while individual prognosis depends on pathology, stage, spread, and other case features.
+- Near-discharge deterioration: [[vol-14-jizhen-weizhongbingke-zai-eicu-shengsi-yichana-xiayimiao-de-gushi-yongyuan-wufa-jutou-lvroomdoozbajm99k07hhffefc7c|VOL.14]] contrasts sudden fatal arrhythmia after apparent recovery with successful rescue after a new cardiac complication, showing that similar “ready to leave” moments can diverge sharply.
 
 ## Counterevidence & Qualifications
-The sources consist of selected clinician recollections and a public episode summary, so they cannot establish complication rates, comparative treatment effectiveness, or the typical course of trauma, retinal detachment, neurologic illness, sarcoma, or biliary cancer. Uncertainty also does not excuse vague communication, missing follow-up, preventable process failure, or withholding material prognostic information.
+The sources consist of selected clinician recollections and public episode summaries, so they cannot establish complication rates, comparative treatment effectiveness, or the typical course of trauma, retinal detachment, neurologic illness, sarcoma, biliary cancer, myocardial infarction, heart failure, or arrhythmia. A dramatic late deterioration does not show that discharge planning is generally unreliable. Uncertainty also does not excuse vague communication, missing follow-up, preventable process failure, or withholding material prognostic information.
 
 ## What Changed
-- Created the concept to separate technical intervention success from survival, function, recovery, and discharge.
-- Added the distinction between population survival rates and individualized prognosis.
+- Added apparent stabilization and planned discharge to the states that do not guarantee the next outcome.
+- Added divergent near-discharge cases without generalizing their frequency or causes.
+- Clarified that dramatic anecdotes do not invalidate discharge planning or excuse preventable process failure.
 
 ## Related Concepts
 - [[MedicalRiskManagement]] - broader system for balancing probability, severity, intervention, and inaction.

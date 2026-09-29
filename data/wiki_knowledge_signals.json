@@ -32331,9 +32331,9 @@
       "url": "/wiki/concepts/clinicalmusictherapy/"
     },
     "ClinicalOutcomeUncertainty": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "liTblbACaVb9homQXO81g71oujYz [liTblbACaVb9homQXO81g71oujYz].md",
@@ -32348,9 +32348,16 @@
           "show": "这病说来话长",
           "title": "VOL.23肿瘤肝胆外科｜外科医生用中西医双系统聊胆囊胆管疾病和养生",
           "url": "/wiki/sources/vol-23-zhongliu-gandan-waike-waike-yisheng-yong-zhongxiyi-shuangxitong-liao-dannang-danguan-jibing-he-yangsheng-lvmnrsimkqyj8jmtzdj7kfazvbzu/"
+        },
+        {
+          "episode_file": "lvRoOMdOozbAJM99k07hHFfEFC7c [lvRoOMdOozbAJM99k07hHFfEFC7c].md",
+          "key": "vol-14-jizhen-weizhongbingke-zai-eicu-shengsi-yichana-xiayimiao-de-gushi-yongyuan-wufa-jutou-lvroomdoozbajm99k07hhffefc7c",
+          "show": "这病说来话长",
+          "title": "VOL.14急诊危重病科｜在EICU生死一刹那 下一秒的故事永远无法剧透",
+          "url": "/wiki/sources/vol-14-jizhen-weizhongbingke-zai-eicu-shengsi-yichana-xiayimiao-de-gushi-yongyuan-wufa-jutou-lvroomdoozbajm99k07hhffefc7c/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/clinicaloutcomeuncertainty/"
     },
     "ClinicalRoleOverload": {
@@ -32377,9 +32384,9 @@
       "url": "/wiki/concepts/clinicalroleoverload/"
     },
     "ClinicalTeachingRelationship": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lgutjXt-7VqzeCklQyXE_OsyZR43 [lgutjXt-7VqzeCklQyXE_OsyZR43].md",
@@ -32387,9 +32394,16 @@
           "show": "这病说来话长",
           "title": "VOL.105悲剧！规培生不止沦为了廉价劳动力！和7位医生解剖规培利弊得失",
           "url": "/wiki/sources/vol-105-beiju-guipeisheng-buzhi-lunweile-lianjia-laodongli-he-7-wei-yisheng-jiepo-guipei-libi-deshi-lgutjxt-7vqzecklqyxe_osyzr43/"
+        },
+        {
+          "episode_file": "lvRoOMdOozbAJM99k07hHFfEFC7c [lvRoOMdOozbAJM99k07hHFfEFC7c].md",
+          "key": "vol-14-jizhen-weizhongbingke-zai-eicu-shengsi-yichana-xiayimiao-de-gushi-yongyuan-wufa-jutou-lvroomdoozbajm99k07hhffefc7c",
+          "show": "这病说来话长",
+          "title": "VOL.14急诊危重病科｜在EICU生死一刹那 下一秒的故事永远无法剧透",
+          "url": "/wiki/sources/vol-14-jizhen-weizhongbingke-zai-eicu-shengsi-yichana-xiayimiao-de-gushi-yongyuan-wufa-jutou-lvroomdoozbajm99k07hhffefc7c/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/clinicalteachingrelationship/"
     },
     "ClinicalTrustBuilding": {
@@ -45287,9 +45301,9 @@
       "url": "/wiki/concepts/donotresuscitatedecision/"
     },
     "DoctorPatientCommunication": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 3,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "EP274 如何找到适合自己的“更年期答案”？ [li2BP1rTITdNVc04rMIZyfg1tXfH].md",
@@ -45339,9 +45353,16 @@
           "show": "这病说来话长",
           "title": "VOL.106胸外科｜王兴：病人家属问我怎么能够讨好医生｜胸闷、气胸、肺结节问题回答篇",
           "url": "/wiki/sources/vol-106-xiongwaike-wangxing-bingren-jiashu-wen-wo-zenme-nenggou-taohao-yisheng-lrjqaw3ovznk0zn4-jfj3f2xyvzi/"
+        },
+        {
+          "episode_file": "lvRoOMdOozbAJM99k07hHFfEFC7c [lvRoOMdOozbAJM99k07hHFfEFC7c].md",
+          "key": "vol-14-jizhen-weizhongbingke-zai-eicu-shengsi-yichana-xiayimiao-de-gushi-yongyuan-wufa-jutou-lvroomdoozbajm99k07hhffefc7c",
+          "show": "这病说来话长",
+          "title": "VOL.14急诊危重病科｜在EICU生死一刹那 下一秒的故事永远无法剧透",
+          "url": "/wiki/sources/vol-14-jizhen-weizhongbingke-zai-eicu-shengsi-yichana-xiayimiao-de-gushi-yongyuan-wufa-jutou-lvroomdoozbajm99k07hhffefc7c/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/doctorpatientcommunication/"
     },
     "DocumentaryEthicalRestraint": {
@@ -50575,9 +50596,9 @@
       "url": "/wiki/concepts/emergencycashassistance/"
     },
     "EmergencyDepartmentAcuityTriage": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ljGg_zhhUq3tEyoQjk6UnvUZba1N [ljGg_zhhUq3tEyoQjk6UnvUZba1N].md",
@@ -50585,6 +50606,13 @@
           "show": "这病说来话长",
           "title": "VOL.15急诊危重病科｜鬼门关隔壁的玄学 车祸患者对我说：“每天看到有人拉我去火葬场”",
           "url": "/wiki/sources/vol-15-jizhen-weizhongbingke-guimenguan-gebide-xuanxue-chehuo-huanzhe-dui-wo-shuo-meitian-kandao-youren-la-wo-qu-huozangchang-ljgg_zhhuq3teyoqjk6unvuzba1n/"
+        },
+        {
+          "episode_file": "lvRoOMdOozbAJM99k07hHFfEFC7c [lvRoOMdOozbAJM99k07hHFfEFC7c].md",
+          "key": "vol-14-jizhen-weizhongbingke-zai-eicu-shengsi-yichana-xiayimiao-de-gushi-yongyuan-wufa-jutou-lvroomdoozbajm99k07hhffefc7c",
+          "show": "这病说来话长",
+          "title": "VOL.14急诊危重病科｜在EICU生死一刹那 下一秒的故事永远无法剧透",
+          "url": "/wiki/sources/vol-14-jizhen-weizhongbingke-zai-eicu-shengsi-yichana-xiayimiao-de-gushi-yongyuan-wufa-jutou-lvroomdoozbajm99k07hhffefc7c/"
         }
       ],
       "updated": "2026-09-29",
@@ -87441,9 +87469,9 @@
       "url": "/wiki/concepts/intelligenceflywheel/"
     },
     "IntensiveCareAsTimeBuying": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "lnrBQZtEhpu3nNpOfUw1iHAscwrM [lnrBQZtEhpu3nNpOfUw1iHAscwrM].md",
@@ -87472,6 +87500,13 @@
           "show": "这病说来话长",
           "title": "VOL.15急诊危重病科｜鬼门关隔壁的玄学 车祸患者对我说：“每天看到有人拉我去火葬场”",
           "url": "/wiki/sources/vol-15-jizhen-weizhongbingke-guimenguan-gebide-xuanxue-chehuo-huanzhe-dui-wo-shuo-meitian-kandao-youren-la-wo-qu-huozangchang-ljgg_zhhuq3teyoqjk6unvuzba1n/"
+        },
+        {
+          "episode_file": "lvRoOMdOozbAJM99k07hHFfEFC7c [lvRoOMdOozbAJM99k07hHFfEFC7c].md",
+          "key": "vol-14-jizhen-weizhongbingke-zai-eicu-shengsi-yichana-xiayimiao-de-gushi-yongyuan-wufa-jutou-lvroomdoozbajm99k07hhffefc7c",
+          "show": "这病说来话长",
+          "title": "VOL.14急诊危重病科｜在EICU生死一刹那 下一秒的故事永远无法剧透",
+          "url": "/wiki/sources/vol-14-jizhen-weizhongbingke-zai-eicu-shengsi-yichana-xiayimiao-de-gushi-yongyuan-wufa-jutou-lvroomdoozbajm99k07hhffefc7c/"
         }
       ],
       "updated": "2026-09-29",
@@ -115003,9 +115038,9 @@
       "url": "/wiki/entities/menelikii/"
     },
     "MengDoctorFeverClinic": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "li1aXA3xcD_jEa6LAUylj9cfjpwf [li1aXA3xcD_jEa6LAUylj9cfjpwf].md",
@@ -115041,6 +115076,13 @@
           "show": "这病说来话长",
           "title": "VOL.15急诊危重病科｜鬼门关隔壁的玄学 车祸患者对我说：“每天看到有人拉我去火葬场”",
           "url": "/wiki/sources/vol-15-jizhen-weizhongbingke-guimenguan-gebide-xuanxue-chehuo-huanzhe-dui-wo-shuo-meitian-kandao-youren-la-wo-qu-huozangchang-ljgg_zhhuq3teyoqjk6unvuzba1n/"
+        },
+        {
+          "episode_file": "lvRoOMdOozbAJM99k07hHFfEFC7c [lvRoOMdOozbAJM99k07hHFfEFC7c].md",
+          "key": "vol-14-jizhen-weizhongbingke-zai-eicu-shengsi-yichana-xiayimiao-de-gushi-yongyuan-wufa-jutou-lvroomdoozbajm99k07hhffefc7c",
+          "show": "这病说来话长",
+          "title": "VOL.14急诊危重病科｜在EICU生死一刹那 下一秒的故事永远无法剧透",
+          "url": "/wiki/sources/vol-14-jizhen-weizhongbingke-zai-eicu-shengsi-yichana-xiayimiao-de-gushi-yongyuan-wufa-jutou-lvroomdoozbajm99k07hhffefc7c/"
         }
       ],
       "updated": "2026-09-29",

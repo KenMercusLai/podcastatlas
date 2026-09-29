@@ -25333,3 +25333,11 @@ Added source `vol-15-jizhen-weizhongbingke-guimenguan-gebide-xuanxue-chehuo-huan
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | VOL.14急诊危重病科｜在EICU生死一刹那 下一秒的故事永远无法剧透
+
+Added source `vol-14-jizhen-weizhongbingke-zai-eicu-shengsi-yichana-xiayimiao-de-gushi-yongyuan-wufa-jutou-lvroomdoozbajm99k07hhffefc7c`; expanded `MengDoctorFeverClinic`, `IntensiveCareAsTimeBuying`, `EmergencyDepartmentAcuityTriage`, `DoctorPatientCommunication`, `ClinicalTeachingRelationship`, and `ClinicalOutcomeUncertainty` from their complete bounded source sets; and updated the canonical index. Core synthesis: emergency calm is trained prioritization rather than indifference; EICU decisions join interacting disease, immediate threat, realistic benefit, treatment goals, cost, and coverage; time-critical communication should combine risk disclosure with a reasoned professional recommendation; and apparent improvement or planned discharge cannot guarantee the next outcome. No settled contradiction was adopted. Case histories, hospital organization, treatment examples, insurance rules, and training or career claims remain source-scoped personal testimony and public education. The supplied transcript ends mid-sentence, and no missing conclusion was reconstructed. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
