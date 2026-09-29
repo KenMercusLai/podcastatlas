@@ -30540,6 +30540,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "FinancialCommentaryKnowledgeTranslation": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "FinancialDataAlignment": [
     {
       "key": "economics",
@@ -46712,6 +46719,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "LinXingzhi": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "LinYao": [
     {
       "key": "politics",
@@ -48424,6 +48438,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "LuoYoumei": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "LuoZijun": [
@@ -85304,13 +85325,6 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
-    }
-  ],
-  "ZhangWuchang": [
-    {
-      "key": "economics",
-      "label": "Economics",
-      "url": "/topics/economics/"
     }
   ],
   "ZhangXiangrong": [

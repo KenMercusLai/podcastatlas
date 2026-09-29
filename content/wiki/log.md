@@ -24882,6 +24882,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
 ## [2026-09-29] ingest | 298: The Nazis: Total Power (Part 4)
 
 Added source `298-the-nazis-total-power-part-4-glt6097237943`; created `MarinusVanDerLubbe`, `ReichstagFire1933`, `ReichstagFireDecree`, `EnablingAct1933`, and `LegalCoerciveDictatorshipConsolidation`; and updated the canonical index. Core synthesis: Hitler's 1933 dictatorship emerged by making formal elections, emergency decree, and legislative procedure operate together with captured police, paramilitary violence, opposition exclusion, conservative accommodation, and destruction of independent institutions. No settled contradiction was adopted. The episode's lone-actor fire judgment, arrest and crowd totals, counterfactual stopping points, private motives, broad ideological comparisons, and modern analogies remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -25453,6 +25454,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-29] ingest | VOL.001｜从模型到记忆，AI竞争的新战场已经出现｜对话 MemVerge CEO Charles
 
 Added source `lsh8sdro6i9mkt5nug4zkibv95tn`; created `MemVerge`, `CharlesFan`, `MemoryMachine`, `MemoryBox`, `WeiAIFadian`, `MemoryCenteredAI`, `AIMemoryLifecycle`, and `PersonalEnterpriseMemoryOwnership`; and expanded `LocalFirstMemoryLayer`, `AIDataMemoryInfrastructure`, and `DataSovereignty` from their complete bounded source sets. Core synthesis: memory-centered AI separates governed private context from interchangeable models; local-first can remain hybrid; memory quality requires retrieval, synchronization, compression, association, correction, and forgetting; and AI-extracted workplace skills create an unresolved personal-enterprise ownership boundary. No settled contradiction was adopted. Benchmark leadership, adoption, privacy guarantees, subscriptions, mobile releases, partnerships, and the 2030 enterprise-local AI forecast remain source-scoped company claims or plans. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | 504 林行止、《信报》与香港经济黄金年代
+
+Added source `504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih`; created `LinXingzhi`, `HongKongEconomicJournal`, `LuoYoumei`, `ZhengShiliang`, `FinancialCommentaryKnowledgeTranslation`, and `AdvertiserPressureEditorialIndependence`; and expanded `HuzuoHuyou`, `ChengYanliang`, `HongKong`, `LiKaShing`, `JinYong`, `ZhangWuchang`, and `JournalisticIndependenceAgainstFaction` from their complete bounded source sets. Core synthesis: 《信报》 turned economics, institutions, policy, and markets into accessible Chinese public knowledge; independence required resisting both factional and advertiser pressure while correcting factual error; and the newspaper's survival depended on organizational collaboration as well as Lin Xingzhi's writing. No settled contradiction was adopted. Biographical details, circulation, advertising value, private motives, relationship disputes, and continuity after ownership transfer remain source-scoped.
 
 ## [2026-09-29] lint | Wiki health check
 

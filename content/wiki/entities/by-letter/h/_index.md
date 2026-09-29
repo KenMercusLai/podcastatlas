@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 11406
+wiki_total_pages: 11410
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -935,6 +935,9 @@ wiki_pages:
   - key: "HenriettaSchmerlerMurderBook"
     title: "《亨丽埃塔与那场将人类学送上审判席的谋杀案》"
     url: "/wiki/entities/henriettaschmerlermurderbook/"
+  - key: "HongKongEconomicJournal"
+    title: "《信报》 / Hong Kong Economic Journal"
+    url: "/wiki/entities/hongkongeconomicjournal/"
   - key: "HomeIsTheHangman"
     title: "《刽子手返乡》 / Home Is the Hangman"
     url: "/wiki/entities/homeisthehangman/"

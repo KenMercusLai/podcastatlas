@@ -770,12 +770,13 @@
       "718798e1c902241c90f817fc5263e223e3a7e3324d31441c2ee9f2e19f9dfd0d",
       "e831e8e86e17b030487ea014bf3b5808a8c29e2427f06293b304cc57798e77a3",
       "31c7f90fc6543c2884f08949e65e0d7fcbcf87a146de833aad456ad7ff83697a",
-      "ee49b7e1f96890360662e93d6add77e0f4431b634664e869d269eb5847eb0c43"
+      "ee49b7e1f96890360662e93d6add77e0f4431b634664e869d269eb5847eb0c43",
+      "ecd765c009d9e3481055e84c4371949d523e299508f403dd64e6b68d48a611f4"
     ],
-    "paragraph_count": 770
+    "paragraph_count": 771
   },
-  "overview_commit": "57cb9f91caa6d4256b6cdb2ed848d4dac4efcf3e",
-  "overview_digest": "2523a43b31500b8e648f44fb48bb908f065e8230d34d8f8684350a4b8ed5fc6f",
+  "overview_commit": "b56aa0728bd5f4a6c68fd5721473aa518cab3adc",
+  "overview_digest": "10531cbd3a47bda1f138115dced160f907061bd7e95e2671c852207a29c32dcf",
   "paragraphs": [
     {
       "id": "f675edf892ee52d8341ee167bbbc6839c9f97c9569f2233bea485e51c366392c",
@@ -22612,6 +22613,38 @@
         "TianDoctorTCM",
         "ZheBingShuoLaiHuaChang",
         "vol-10-zhongyi-shaoshangxue-fangxue-zhende-neng-zhi-sangzi-tong-me-daodi-gai-bu-gai-duandiao-hanxing-de-niunai-ljojejbtrsnpuu1aa-10klw6reds"
+      ]
+    },
+    {
+      "id": "ecd765c009d9e3481055e84c4371949d523e299508f403dd64e6b68d48a611f4",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "governance-and-institutions"
+      ],
+      "text": "The latest addition is [[504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih|504 林行止、《信报》与香港经济黄金年代]], a [[HuzuoHuyou|忽左忽右]] retrospective with [[ChengYanliang|程衍樑 / 成言梁]] and [[ZhengShiliang|郑诗亮]] on [[LinXingzhi|林行止]] and the [[HongKongEconomicJournal|《信报》]]. It adds [[FinancialCommentaryKnowledgeTranslation]] and [[AdvertiserPressureEditorialIndependence]] while extending [[JournalisticIndependenceAgainstFaction]], [[HongKong]], [[JinYong|金庸]], [[ZhangWuchang|张五常]], and [[LiKaShing|李嘉诚]]. Its core synthesis is that Hong Kong financial journalism built public value by translating markets, economics, institutions, policy, and international affairs into accessible Chinese for an expanding middle class; editorial independence required resisting factional and advertiser pressure while still correcting factual error; and the paper's achievement depended on [[LuoYoumei|骆友梅]]'s organizational work and a wider editorial network as well as Lin's writing. No settled contradiction is recorded. Birth details, migration episodes, circulation, advertising value, private motives, relationship disputes, and continuity after the [[LiTzarKai|李泽楷]] ownership transition remain source-scoped, and the episode's admiring retrospective gives limited space to critics of Lin's market liberalism.",
+      "topic_scores": {
+        "business-and-markets": 3,
+        "governance-and-institutions": 2,
+        "psychology-and-personal-development": 1,
+        "science-health-and-climate": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih",
+        "AdvertiserPressureEditorialIndependence",
+        "ChengYanliang",
+        "FinancialCommentaryKnowledgeTranslation",
+        "HongKong",
+        "HongKongEconomicJournal",
+        "HuzuoHuyou",
+        "JinYong",
+        "JournalisticIndependenceAgainstFaction",
+        "LiKaShing",
+        "LiTzarKai",
+        "LinXingzhi",
+        "LuoYoumei",
+        "ZhangWuchang",
+        "ZhengShiliang"
       ]
     }
   ],

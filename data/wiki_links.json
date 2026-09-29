@@ -2003,6 +2003,10 @@
     "title": "503 无锡·台北·匹兹堡：冯俊文回忆时代巨变中的历史学家许倬云",
     "url": "/wiki/sources/503-wuxi-taibei-pizibao-fengjunwen-huiyi-shidai-jubian-zhong-de-lishixuejia-xuzhuoyun-llhgtepdszpyv65xkizxvaquicu/"
   },
+  "504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih": {
+    "title": "504 林行止、《信报》与香港经济黄金年代",
+    "url": "/wiki/sources/504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih/"
+  },
   "504-the-french-revolution-war-to-the-death-part-2-glt3201191708": {
     "title": "504. The French Revolution: War to the Death (Part 2)",
     "url": "/wiki/sources/504-the-french-revolution-war-to-the-death-part-2-glt3201191708/"
@@ -5030,6 +5034,10 @@
   "AdversitySilenceDiscipline": {
     "title": "Adversity Silence Discipline / 逆境守口",
     "url": "/wiki/concepts/adversitysilencediscipline/"
+  },
+  "AdvertiserPressureEditorialIndependence": {
+    "title": "Advertiser Pressure and Editorial Independence / 广告压力下的编辑独立",
+    "url": "/wiki/concepts/advertiserpressureeditorialindependence/"
   },
   "AdviceFramingUnderHierarchy": {
     "title": "等级场景中的进言包装 / Hierarchy-Aware Advice Framing",
@@ -26855,6 +26863,10 @@
     "title": "Financial Career Risk",
     "url": "/wiki/concepts/financialcareerrisk/"
   },
+  "FinancialCommentaryKnowledgeTranslation": {
+    "title": "Financial Commentary Knowledge Translation / 财经评论的知识转译",
+    "url": "/wiki/concepts/financialcommentaryknowledgetranslation/"
+  },
   "FinancialDataAlignment": {
     "title": "Financial Data Alignment / 金融数据对齐",
     "url": "/wiki/concepts/financialdataalignment/"
@@ -34066,6 +34078,10 @@
   "HongKongDollarHotMoneyCycle": {
     "title": "Hong Kong Dollar Hot-Money Cycle / 港元热钱周期",
     "url": "/wiki/concepts/hongkongdollarhotmoneycycle/"
+  },
+  "HongKongEconomicJournal": {
+    "title": "《信报》 / Hong Kong Economic Journal",
+    "url": "/wiki/entities/hongkongeconomicjournal/"
   },
   "HongKongExchangesAndClearing": {
     "title": "Hong Kong Exchanges and Clearing",
@@ -43487,6 +43503,10 @@
     "title": "蔺相如 / Lin Xiangru",
     "url": "/wiki/entities/linxiangru/"
   },
+  "LinXingzhi": {
+    "title": "林行止 / Lin Xingzhi",
+    "url": "/wiki/entities/linxingzhi/"
+  },
   "LinYao": {
     "title": "林垚 / Lin Yao",
     "url": "/wiki/entities/linyao/"
@@ -45638,6 +45658,10 @@
   "LuoYonghao": {
     "title": "Luo Yonghao",
     "url": "/wiki/entities/luoyonghao/"
+  },
+  "LuoYoumei": {
+    "title": "骆友梅 / Luo Youmei",
+    "url": "/wiki/entities/luoyoumei/"
   },
   "LuoZijun": {
     "title": "罗子君 / Luo Zijun",
@@ -81704,7 +81728,7 @@
     "url": "/wiki/entities/zhangwenhongshuochuanran/"
   },
   "ZhangWuchang": {
-    "title": "张五常",
+    "title": "张五常 / Zhang Wuchang",
     "url": "/wiki/entities/zhangwuchang/"
   },
   "ZhangWuhuaSportsMedicine": {
@@ -82430,6 +82454,10 @@
   "ZhengSaLateHan": {
     "title": "郑飒 / Zheng Sa (late Han)",
     "url": "/wiki/entities/zhengsalatehan/"
+  },
+  "ZhengShiliang": {
+    "title": "郑诗亮 / Zheng Shiliang",
+    "url": "/wiki/entities/zhengshiliang/"
   },
   "ZhengState": {
     "title": "郑国 / Zheng State",

@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2139
+topic_total_pages: 2140
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1147,6 +1147,9 @@ topic_concepts:
   - key: "FinancialCareerRisk"
     title: "Financial Career Risk"
     url: "/wiki/concepts/financialcareerrisk/"
+  - key: "FinancialCommentaryKnowledgeTranslation"
+    title: "Financial Commentary Knowledge Translation / 财经评论的知识转译"
+    url: "/wiki/concepts/financialcommentaryknowledgetranslation/"
   - key: "FinancialDataAlignment"
     title: "Financial Data Alignment / 金融数据对齐"
     url: "/wiki/concepts/financialdataalignment/"
@@ -5390,9 +5393,6 @@ topic_entities:
   - key: "ZhangYizhen"
     title: "张一贞"
     url: "/wiki/entities/zhangyizhen/"
-  - key: "ZhangWuchang"
-    title: "张五常"
-    url: "/wiki/entities/zhangwuchang/"
   - key: "ZhangKun"
     title: "张坤 / Zhang Kun"
     url: "/wiki/entities/zhangkun/"
@@ -5432,6 +5432,9 @@ topic_entities:
   - key: "YangTianzhen"
     title: "杨天真 / 天真"
     url: "/wiki/entities/yangtianzhen/"
+  - key: "LinXingzhi"
+    title: "林行止 / Lin Xingzhi"
+    url: "/wiki/entities/linxingzhi/"
   - key: "SangHongyangWesternHan"
     title: "桑弘羊 / Sang Hongyang (Western Han)"
     url: "/wiki/entities/sanghongyangwesternhan/"

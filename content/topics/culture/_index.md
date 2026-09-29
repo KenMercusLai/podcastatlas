@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2916
+topic_total_pages: 2917
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -7724,6 +7724,9 @@ topic_entities:
   - key: "MaShaonainaiLihun"
     title: "马少奶奶（《离婚》） / Ma Shaonainai"
     url: "/wiki/entities/mashaonainailihun/"
+  - key: "LuoYoumei"
+    title: "骆友梅 / Luo Youmei"
+    url: "/wiki/entities/luoyoumei/"
   - key: "GaoYiding"
     title: "高一丁 / Gao Yiding"
     url: "/wiki/entities/gaoyiding/"

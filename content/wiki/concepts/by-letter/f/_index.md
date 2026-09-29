@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 8821
+wiki_total_pages: 8823
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -476,6 +476,9 @@ wiki_pages:
   - key: "FinancialCareerRisk"
     title: "Financial Career Risk"
     url: "/wiki/concepts/financialcareerrisk/"
+  - key: "FinancialCommentaryKnowledgeTranslation"
+    title: "Financial Commentary Knowledge Translation / 财经评论的知识转译"
+    url: "/wiki/concepts/financialcommentaryknowledgetranslation/"
   - key: "FinancialDataAlignment"
     title: "Financial Data Alignment / 金融数据对齐"
     url: "/wiki/concepts/financialdataalignment/"

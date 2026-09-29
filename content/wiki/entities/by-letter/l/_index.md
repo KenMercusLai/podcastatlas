@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 11406
+wiki_total_pages: 11410
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -1943,6 +1943,9 @@ wiki_pages:
   - key: "LinJianxinStandup"
     title: "林简欣 / Lin Jianxin"
     url: "/wiki/entities/linjianxinstandup/"
+  - key: "LinXingzhi"
+    title: "林行止 / Lin Xingzhi"
+    url: "/wiki/entities/linxingzhi/"
   - key: "LinDaiyu"
     title: "林黛玉 / Lin Daiyu"
     url: "/wiki/entities/lindaiyu/"
@@ -2288,6 +2291,9 @@ wiki_pages:
   - key: "LuoJun"
     title: "骆俊 / Luo Jun"
     url: "/wiki/entities/luojun/"
+  - key: "LuoYoumei"
+    title: "骆友梅 / Luo Youmei"
+    url: "/wiki/entities/luoyoumei/"
   - key: "LuoJiaQinCavalry"
     title: "骆甲 / Luo Jia"
     url: "/wiki/entities/luojiaqincavalry/"

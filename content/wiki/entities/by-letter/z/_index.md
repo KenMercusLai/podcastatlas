@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 11406
+wiki_total_pages: 11410
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -639,7 +639,7 @@ wiki_pages:
     title: "张乔 / Zhang Qiao (late Han)"
     url: "/wiki/entities/zhangqiaolatehan/"
   - key: "ZhangWuchang"
-    title: "张五常"
+    title: "张五常 / Zhang Wuchang"
     url: "/wiki/entities/zhangwuchang/"
   - key: "ZhangWuhuaSportsMedicine"
     title: "张五花 / Zhang Wuhua (sports medicine doctor)"
@@ -1736,6 +1736,9 @@ wiki_pages:
   - key: "ZhengXiu"
     title: "郑袖 / Zheng Xiu"
     url: "/wiki/entities/zhengxiu/"
+  - key: "ZhengShiliang"
+    title: "郑诗亮 / Zheng Shiliang"
+    url: "/wiki/entities/zhengshiliang/"
   - key: "ZhengSaLateHan"
     title: "郑飒 / Zheng Sa (late Han)"
     url: "/wiki/entities/zhengsalatehan/"

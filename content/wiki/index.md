@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [504 林行止、《信报》与香港经济黄金年代](sources/504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih.md) — 忽左忽右 retrospective on Lin Xingzhi, the Hong Kong Economic Journal, financial knowledge translation, editorial independence, and founder-to-group media ownership transition.
 - [VOL.001｜从模型到记忆，AI竞争的新战场已经出现｜对话 MemVerge CEO Charles](sources/lsh8sdro6i9mkt5nug4zkibv95tn.md) — 为 AI 发电 episode on Memory Machine, Memory Box, local and hybrid personal memory, lifecycle maintenance, data sovereignty, and personal-enterprise ownership.
 - [VOL.002｜DeepChat：为什么要做一块开源 AI 试验田？](sources/lo0pfirl4khc0jzj57kgbx7wsq49.md) — 为 AI 发电 episode on DeepChat's Tape and harness architecture, memory and sandbox tradeoffs, MCP/ACP integration, local-agent workflows, model routing, and responsible open-source contribution.
 - [VOL.08麻醉科｜“可行走的麻醉术”无痛分娩对孩子今后有影响吗](sources/vol-08-mazuike-kexingzou-de-mazuishu-wutong-fenmian-dui-haizi-jinhou-you-yingxiang-ma-lif37vkcu8a2gdmf3jraupbnvqpm.md) — 这病说来话长 episode on continuous anesthetic management, recovery, patient-controlled analgesia, and movement-preserving labor analgesia.
@@ -3226,6 +3227,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [290: 2022: A History](sources/290-2022-a-history-glt4625765030.md) — The Rest Is History year-end episode on Ukraine as a post-Cold War rupture, European energy dependence, Elizabeth II's death, British political turmoil, and 2022 cultural recommendations.
 
 ## Entities
+- [林行止 / Lin Xingzhi](entities/LinXingzhi.md) — Hong Kong founder-editor who turned economics, policy, and markets into accessible Chinese financial commentary.
+- [《信报》 / Hong Kong Economic Journal](entities/HongKongEconomicJournal.md) — Financial newspaper built as a Chinese-language public-knowledge platform and tested by advertiser and ownership pressure.
+- [骆友梅 / Luo Youmei](entities/LuoYoumei.md) — Co-founder whose administration, staffing, financing, and networks supported 《信报》's survival.
+- [郑诗亮 / Zheng Shiliang](entities/ZhengShiliang.md) — Former Lin Xingzhi column editor and episode 504's close editorial witness.
 - [MemVerge](entities/MemVerge.md) — AI-memory company developing the open Memory Machine layer and consumer-facing Memory Box application.
 - [Charles Fan](entities/CharlesFan.md) — MemVerge CEO advocating shared memory infrastructure, local and hybrid execution, and memory-centered AI.
 - [Memory Machine](entities/MemoryMachine.md) — Open developer-facing memory layer intended for embedding in or sharing across agents and applications.
@@ -10347,7 +10352,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Xiamen / 厦门](entities/Xiamen.md) — first-batch special economic zone and adjacent Fujian maritime-policy comparison node.
 - [Taksin / 郑信](entities/Taksin.md) — Thai/Siamese historical figure with Chaoshan ancestry used in the migration-imagination branch.
 - [Chen Cihong / 陈慈黉](entities/ChenCihong.md) — overseas Chaoshan merchant figure illustrating private qiaopi-era trade and exchange networks.
-- [Li Ka-shing / 李嘉诚](entities/LiKaShing.md) — Chaoshan-rooted entrepreneur whose Shantou University support illustrates diaspora philanthropy limits.
+- [Li Ka-shing / 李嘉诚](entities/LiKaShing.md) — Chaoshan-rooted entrepreneur linked here to philanthropy limits and a Hong Kong advertiser-pressure case.
 - [Shantou University / 汕头大学](entities/ShantouUniversity.md) — hometown education project tied to Li Ka-shing and diaspora return capital.
 - [CP Group / 正大集团](entities/CPGroup.md) — Thai-Chinese conglomerate used as an early reform-era return-investment case.
 - [Xie Guomin / 谢国民](entities/XieGuomin.md) — CP Group leader connected to early foreign-investment approvals in Shenzhen, Zhuhai, and Shantou.
@@ -11359,7 +11364,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [G. W. F. Hegel / 黑格尔](entities/GWFHegel.md) — Retributivist punishment reference paired with Kant in the episode's discussion of responsibility and dignity.
 - [Magna Carta / 大宪章](entities/MagnaCarta.md) — Historical document used as a symbol of law limiting royal and state punishment power.
 - [Richard Jewell / 理查德·朱维尔](entities/RichardJewell.md) — Atlanta Olympics security guard used as an example of suspicion, media pressure, and investigative overreach before exoneration.
-- [金庸 / Jin Yong](entities/JinYong.md) — Wuxia writer read here through cultural allusion, historical Jianghu space, political critique, and Hong Kong public context.
+- [金庸 / Jin Yong](entities/JinYong.md) — Wuxia writer and newspaper editor read through cultural craft, political critique, and his mentorship and disputes with Lin Xingzhi.
 - [梁羽生 / Liang Yusheng](entities/LiangYusheng.md) — New-school wuxia comparison figure for learned, classically rooted martial-arts fiction.
 - [古龙 / Gu Long](entities/GuLong.md) — Wuxia writer framed as diverging from Jin Yong and Liang Yusheng through suspense and martial-arts mystery.
 - [《笑傲江湖》](entities/XiaoAoJiangHu.md) — Jin Yong novel read as a political critique of faction labels, power addiction, and simple正邪 binaries.
@@ -13717,7 +13722,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Aaron Braun](entities/AaronBraun.md) — The Intelligence reporter for the Heber City skijoring segment.
 - [Bernard Mandeville](entities/BernardMandeville.md) — Economist-philosopher reference whose bee fable opens the source's theory-to-industry sequence.
 - [James Meade](entities/JamesMeade.md) — Economist whose bee-and-orchard example frames pollination as a positive-externality case.
-- [张五常](entities/ZhangWuchang.md) — Economist whose beekeeping contract investigation is used to challenge the simple market-failure reading of pollination.
+- [张五常 / Zhang Wuchang](entities/ZhangWuchang.md) — Economist connecting empirical contract analysis with edited Chinese public writing in 《信报》.
 - [彭文君](entities/PengWenjun.md) — Chinese bee researcher cited for the potential value of China's pollination services beyond honey output.
 - [Takaichi Sanae](entities/TakaichiSanae.md) — Japanese prime minister whose page now connects both her snap-election mandate and conservative resistance to female imperial succession.
 - [Liberal Democratic Party (Japan)](entities/LiberalDemocraticPartyJapan.md) — Dominant Japanese party turned from recent fragility into the institutional vehicle for Takaichi's lower-house mandate.
@@ -14660,6 +14665,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Auschwitz-Birkenau](entities/AuschwitzBirkenau.md) — Nazi concentration and extermination complex examined through forced labor, confiscation, registration, deception, mass killing, and escapee evidence.
 
 ## Concepts
+- [Financial Commentary Knowledge Translation / 财经评论的知识转译](concepts/FinancialCommentaryKnowledgeTranslation.md) — Practice of connecting markets to economics, institutions, policy, and international affairs in accessible Chinese.
+- [Advertiser Pressure and Editorial Independence / 广告压力下的编辑独立](concepts/AdvertiserPressureEditorialIndependence.md) — Capacity to resist advertiser leverage while remaining willing to correct factual error.
 - [Memory-Centered AI](concepts/MemoryCenteredAI.md) — Architecture that keeps governed memory stable while routing individual tasks among local or remote models.
 - [AI Memory Lifecycle](concepts/AIMemoryLifecycle.md) — Continuing ingestion, retrieval, compression, association, updating, and forgetting needed to keep long-lived context useful.
 - [Personal-Enterprise Memory Ownership](concepts/PersonalEnterpriseMemoryOwnership.md) — Governance boundary for AI-extracted skills combining prior personal experience with workplace learning and company context.
@@ -19885,7 +19892,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Female Duel Agency / 女性决斗主体性](concepts/FemaleDuelAgency.md) — Frame for women as duel combatants and reputation actors rather than only protected objects in honor culture.
 - [Power Myth Deflation / 权力神话拆解](concepts/PowerMythDeflation.md) — Fallaci-derived concept for refusing to treat rulers, revolutions, institutions, or journalists themselves as sacred figures.
 - [Freedom As Dignity / 自由作为尊严](concepts/FreedomAsDignity.md) — Episode 77 frame where freedom is impossible in absolute form but remains necessary because dignity depends on the capacity to refuse domination.
-- [Journalistic Independence Against Faction / 拒绝站队的新闻独立](concepts/JournalisticIndependenceAgainstFaction.md) — Reporting ethic in which Fallaci's truth standard cuts across left/right, ruler/opposition, and approved/protective institution lines.
+- [Journalistic Independence Against Faction / 拒绝站队的新闻独立](concepts/JournalisticIndependenceAgainstFaction.md) — Reporting ethic that keeps judgment answerable to evidence rather than a political camp, now grounded in Fallaci and Lin Xingzhi.
 - [LLM Statistical Boundary](concepts/LLMStatisticalBoundary.md) — Claim that large language models remain powerful statistical systems with visible causal and transfer limits.
 - [Scenario-Specific AI](concepts/ScenarioSpecificAI.md) — Product rule that AI value is best judged by concrete scenes, user types, inputs, outputs, and review standards.
 - [Model Post-Training Bottleneck](concepts/ModelPostTrainingBottleneck.md) — Hidden training barrier where data matching, expert labels, evaluation, RL, and failure recovery shape model usefulness after pretraining.

@@ -6298,6 +6298,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/concepts/adversitysilencediscipline/"
     },
+    "AdvertiserPressureEditorialIndependence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lsQH0b2Fi11Uc5udp330iBwuYiH_ [lsQH0b2Fi11Uc5udp330iBwuYiH_].md",
+          "key": "504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih",
+          "show": "忽左忽右",
+          "title": "504 林行止、《信报》与香港经济黄金年代",
+          "url": "/wiki/sources/504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/advertiserpressureeditorialindependence/"
+    },
     "AdviceFramingUnderHierarchy": {
       "episode_count": 7,
       "show_count": 1,
@@ -29007,9 +29023,9 @@
       "url": "/wiki/entities/chengpulatehan/"
     },
     "ChengYanliang": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "lskF8BdKhS71LbWJOmt3gU1kO8BE [lskF8BdKhS71LbWJOmt3gU1kO8BE].md",
@@ -29038,9 +29054,16 @@
           "show": "忽左忽右",
           "title": "494 张诗坪谈战争史视角下的秦末汉初混战",
           "url": "/wiki/sources/494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj/"
+        },
+        {
+          "episode_file": "lsQH0b2Fi11Uc5udp330iBwuYiH_ [lsQH0b2Fi11Uc5udp330iBwuYiH_].md",
+          "key": "504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih",
+          "show": "忽左忽右",
+          "title": "504 林行止、《信报》与香港经济黄金年代",
+          "url": "/wiki/sources/504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-29",
       "url": "/wiki/entities/chengyanliang/"
     },
     "ChengYishiLateHan": {
@@ -61400,6 +61423,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/entities/finalspark/"
     },
+    "FinancialCommentaryKnowledgeTranslation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lsQH0b2Fi11Uc5udp330iBwuYiH_ [lsQH0b2Fi11Uc5udp330iBwuYiH_].md",
+          "key": "504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih",
+          "show": "忽左忽右",
+          "title": "504 林行止、《信报》与香港经济黄金年代",
+          "url": "/wiki/sources/504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/financialcommentaryknowledgetranslation/"
+    },
     "FinancialDataAlignment": {
       "episode_count": 1,
       "show_count": 1,
@@ -80208,9 +80247,9 @@
       "url": "/wiki/entities/honggongwesternhan/"
     },
     "HongKong": {
-      "episode_count": 7,
-      "show_count": 7,
-      "source_note_count": 7,
+      "episode_count": 8,
+      "show_count": 8,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "Vol.269 小历史 ｜ “不要怕，是技术性调整” [1004793119].md",
@@ -80260,9 +80299,16 @@
           "show": "端聞 | 端傳媒新聞播客",
           "title": "董建華逝世：「愛國者元老」的香港人生",
           "url": "/wiki/sources/dong-jianhua-shishi-aiguozhe-yuanlao-de-xianggang-rensheng-7d743a8515cf65334add1a55cd20148e/"
+        },
+        {
+          "episode_file": "lsQH0b2Fi11Uc5udp330iBwuYiH_ [lsQH0b2Fi11Uc5udp330iBwuYiH_].md",
+          "key": "504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih",
+          "show": "忽左忽右",
+          "title": "504 林行止、《信报》与香港经济黄金年代",
+          "url": "/wiki/sources/504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-09-29",
       "url": "/wiki/entities/hongkong/"
     },
     "HongKongAnimalSolidarity": {
@@ -80344,6 +80390,22 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/entities/hongkongcoalition/"
+    },
+    "HongKongEconomicJournal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lsQH0b2Fi11Uc5udp330iBwuYiH_ [lsQH0b2Fi11Uc5udp330iBwuYiH_].md",
+          "key": "504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih",
+          "show": "忽左忽右",
+          "title": "504 林行止、《信报》与香港经济黄金年代",
+          "url": "/wiki/sources/504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/hongkongeconomicjournal/"
     },
     "HongKongFilmGangPressure": {
       "episode_count": 1,
@@ -84426,9 +84488,9 @@
       "url": "/wiki/entities/huyangprincesseasternhan/"
     },
     "HuzuoHuyou": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 2,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "149.百五特辑：和两位老媒体人漫谈播客、媒介以及声音生态的未来 [liHbq8vuJSQXvB7h2_pZ2xM-eQGA].md",
@@ -84478,9 +84540,16 @@
           "show": "忽左忽右",
           "title": "503 无锡·台北·匹兹堡：冯俊文回忆时代巨变中的历史学家许倬云",
           "url": "/wiki/sources/503-wuxi-taibei-pizibao-fengjunwen-huiyi-shidai-jubian-zhong-de-lishixuejia-xuzhuoyun-llhgtepdszpyv65xkizxvaquicu/"
+        },
+        {
+          "episode_file": "lsQH0b2Fi11Uc5udp330iBwuYiH_ [lsQH0b2Fi11Uc5udp330iBwuYiH_].md",
+          "key": "504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih",
+          "show": "忽左忽右",
+          "title": "504 林行止、《信报》与香港经济黄金年代",
+          "url": "/wiki/sources/504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-09-29",
       "url": "/wiki/entities/huzuohuyou/"
     },
     "HybridWarfareAttributionThreshold": {
@@ -93187,6 +93256,29 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/jinxiaolin/"
     },
+    "JinYong": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "112.闲聊金庸第一弹：明教竟然今天还存在？ [754593095].md",
+          "key": "112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095",
+          "show": "蜜獾吃书",
+          "title": "112. 闲聊金庸第一弹：明教竟然今天还存在？",
+          "url": "/wiki/sources/112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095/"
+        },
+        {
+          "episode_file": "lsQH0b2Fi11Uc5udp330iBwuYiH_ [lsQH0b2Fi11Uc5udp330iBwuYiH_].md",
+          "key": "504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih",
+          "show": "忽左忽右",
+          "title": "504 林行止、《信报》与香港经济黄金年代",
+          "url": "/wiki/sources/504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/jinyong/"
+    },
     "JingDanEasternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -94880,6 +94972,29 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/joshspencer/"
+    },
+    "JournalisticIndependenceAgainstFaction": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "77.她是自由的野狗，她是法拉奇 [685710187].md",
+          "key": "77-ta-shi-ziyou-de-yegou-ta-shi-falaqi-685710187",
+          "show": "蜜獾吃书",
+          "title": "77.她是自由的野狗，她是法拉奇",
+          "url": "/wiki/sources/77-ta-shi-ziyou-de-yegou-ta-shi-falaqi-685710187/"
+        },
+        {
+          "episode_file": "lsQH0b2Fi11Uc5udp330iBwuYiH_ [lsQH0b2Fi11Uc5udp330iBwuYiH_].md",
+          "key": "504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih",
+          "show": "忽左忽右",
+          "title": "504 林行止、《信报》与香港经济黄金年代",
+          "url": "/wiki/sources/504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/journalisticindependenceagainstfaction/"
     },
     "JourneyToTheWest": {
       "episode_count": 5,
@@ -101091,6 +101206,29 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/lijunrongfootballhistorian/"
     },
+    "LiKaShing": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "No.205 ⛵️ 潮汕往事：侨批、经济特区和没有等来的深圳奇迹 [989721046].md",
+          "key": "no-205-chaoshan-wangshi-qiaopi-jingji-tequ-he-meiyou-denglaide-shenzhen-qiji-989721046",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.205 ⛵️ 潮汕往事：侨批、经济特区和没有等来的深圳奇迹",
+          "url": "/wiki/sources/no-205-chaoshan-wangshi-qiaopi-jingji-tequ-he-meiyou-denglaide-shenzhen-qiji-989721046/"
+        },
+        {
+          "episode_file": "lsQH0b2Fi11Uc5udp330iBwuYiH_ [lsQH0b2Fi11Uc5udp330iBwuYiH_].md",
+          "key": "504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih",
+          "show": "忽左忽右",
+          "title": "504 林行止、《信报》与香港经济黄金年代",
+          "url": "/wiki/sources/504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/likashing/"
+    },
     "LiLingWesternHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -102854,6 +102992,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/linjianxinstandup/"
+    },
+    "LinXingzhi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lsQH0b2Fi11Uc5udp330iBwuYiH_ [lsQH0b2Fi11Uc5udp330iBwuYiH_].md",
+          "key": "504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih",
+          "show": "忽左忽右",
+          "title": "504 林行止、《信报》与香港经济黄金年代",
+          "url": "/wiki/sources/504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/linxingzhi/"
     },
     "LindsayCole": {
       "episode_count": 1,
@@ -109861,6 +110015,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/entities/luoyonghao/"
+    },
+    "LuoYoumei": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lsQH0b2Fi11Uc5udp330iBwuYiH_ [lsQH0b2Fi11Uc5udp330iBwuYiH_].md",
+          "key": "504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih",
+          "show": "忽左忽右",
+          "title": "504 林行止、《信报》与香港经济黄金年代",
+          "url": "/wiki/sources/504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/luoyoumei/"
     },
     "LuoZijun": {
       "episode_count": 1,
@@ -192539,6 +192709,29 @@
       "updated": "2026-09-13",
       "url": "/wiki/entities/zhangtangwesternhan/"
     },
+    "ZhangWuchang": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "【旧番重听】蜜蜂经济学 [956460448].md",
+          "key": "jiufan-zhongting-mifeng-jingjixue-956460448",
+          "show": "商业就是这样",
+          "title": "【旧番重听】蜜蜂经济学",
+          "url": "/wiki/sources/jiufan-zhongting-mifeng-jingjixue-956460448/"
+        },
+        {
+          "episode_file": "lsQH0b2Fi11Uc5udp330iBwuYiH_ [lsQH0b2Fi11Uc5udp330iBwuYiH_].md",
+          "key": "504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih",
+          "show": "忽左忽右",
+          "title": "504 林行止、《信报》与香港经济黄金年代",
+          "url": "/wiki/sources/504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/zhangwuchang/"
+    },
     "ZhangWuhuaSportsMedicine": {
       "episode_count": 1,
       "show_count": 1,
@@ -194442,6 +194635,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/zhengsalatehan/"
+    },
+    "ZhengShiliang": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lsQH0b2Fi11Uc5udp330iBwuYiH_ [lsQH0b2Fi11Uc5udp330iBwuYiH_].md",
+          "key": "504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih",
+          "show": "忽左忽右",
+          "title": "504 林行止、《信报》与香港经济黄金年代",
+          "url": "/wiki/sources/504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/zhengshiliang/"
     },
     "ZhengXingEasternHan": {
       "episode_count": 3,

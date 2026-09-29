@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 8821
+wiki_total_pages: 8823
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -341,6 +341,9 @@ wiki_pages:
   - key: "AdversitySilenceDiscipline"
     title: "Adversity Silence Discipline / 逆境守口"
     url: "/wiki/concepts/adversitysilencediscipline/"
+  - key: "AdvertiserPressureEditorialIndependence"
+    title: "Advertiser Pressure and Editorial Independence / 广告压力下的编辑独立"
+    url: "/wiki/concepts/advertiserpressureeditorialindependence/"
   - key: "AdviceSeekingForImprovement"
     title: "Advice Seeking for Improvement"
     url: "/wiki/concepts/adviceseekingforimprovement/"
