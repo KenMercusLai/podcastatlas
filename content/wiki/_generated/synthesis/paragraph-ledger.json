@@ -771,12 +771,13 @@
       "e831e8e86e17b030487ea014bf3b5808a8c29e2427f06293b304cc57798e77a3",
       "31c7f90fc6543c2884f08949e65e0d7fcbcf87a146de833aad456ad7ff83697a",
       "ee49b7e1f96890360662e93d6add77e0f4431b634664e869d269eb5847eb0c43",
-      "ecd765c009d9e3481055e84c4371949d523e299508f403dd64e6b68d48a611f4"
+      "ecd765c009d9e3481055e84c4371949d523e299508f403dd64e6b68d48a611f4",
+      "97ddacf9f023b1e5680c7127d46e96f638420591d4635592343ca4adfb26f62c"
     ],
-    "paragraph_count": 771
+    "paragraph_count": 772
   },
-  "overview_commit": "b56aa0728bd5f4a6c68fd5721473aa518cab3adc",
-  "overview_digest": "10531cbd3a47bda1f138115dced160f907061bd7e95e2671c852207a29c32dcf",
+  "overview_commit": "d4cd01faba40e047a681f650e894b41f6c7fe9cb",
+  "overview_digest": "ab4ac9722413144dea337e81033762a635df4ca8f48d16b33a2da654fce09243",
   "paragraphs": [
     {
       "id": "f675edf892ee52d8341ee167bbbc6839c9f97c9569f2233bea485e51c366392c",
@@ -22645,6 +22646,23 @@
         "LuoYoumei",
         "ZhangWuchang",
         "ZhengShiliang"
+      ]
+    },
+    {
+      "id": "97ddacf9f023b1e5680c7127d46e96f638420591d4635592343ca4adfb26f62c",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[tech-20260929-0929-mp-tech-pod-128-tech-20260929-0929-mp-tech-pod-128|Why one X user is microblogging history in real time]], a [[MarketplaceTech]] profile of [[MannyMorota]] and his manually researched historical feeds on [[Twitter|X]]. It adds [[RealTimeHistoricalReenactment]] and [[PlatformNativePublicHistory]]. Its core synthesis is that breaking-news chronology can restore partial knowledge, confusion, and period texture that retrospective summaries compress, while the platform's stream and community mechanics can connect firsthand memory to later generations. No settled contradiction is recorded. Including period misinformation creates a context-and-correction obligation, and follower growth, compensation, research accuracy, audience effects, platform rewards, and future coverage remain source-scoped; the ethics of monetizing traumatic history and the possibility of building an educational enclave inside a combative platform remain explicit qualifications.",
+      "topic_scores": {
+        "history-and-geopolitics": 2
+      },
+      "wikilinks": [
+        "MannyMorota",
+        "MarketplaceTech",
+        "PlatformNativePublicHistory",
+        "RealTimeHistoricalReenactment",
+        "Twitter",
+        "tech-20260929-0929-mp-tech-pod-128-tech-20260929-0929-mp-tech-pod-128"
       ]
     }
   ],

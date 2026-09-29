@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Why one X user is microblogging history in real time](sources/tech-20260929-0929-mp-tech-pod-128-tech-20260929-0929-mp-tech-pod-128.md) — Marketplace Tech profile of Manny Morota's manual, real-time historical feeds, intergenerational memory, misinformation framing, community norms, and trauma-monetization boundary.
 - [504 林行止、《信报》与香港经济黄金年代](sources/504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih.md) — 忽左忽右 retrospective on Lin Xingzhi, the Hong Kong Economic Journal, financial knowledge translation, editorial independence, and founder-to-group media ownership transition.
 - [VOL.001｜从模型到记忆，AI竞争的新战场已经出现｜对话 MemVerge CEO Charles](sources/lsh8sdro6i9mkt5nug4zkibv95tn.md) — 为 AI 发电 episode on Memory Machine, Memory Box, local and hybrid personal memory, lifecycle maintenance, data sovereignty, and personal-enterprise ownership.
 - [VOL.002｜DeepChat：为什么要做一块开源 AI 试验田？](sources/lo0pfirl4khc0jzj57kgbx7wsq49.md) — 为 AI 发电 episode on DeepChat's Tape and harness architecture, memory and sandbox tradeoffs, MCP/ACP integration, local-agent workflows, model routing, and responsible open-source contribution.
@@ -3227,6 +3228,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [290: 2022: A History](sources/290-2022-a-history-glt4625765030.md) — The Rest Is History year-end episode on Ukraine as a post-Cold War rupture, European energy dependence, Elizabeth II's death, British political turmoil, and 2022 cultural recommendations.
 
 ## Entities
+- [Manny Morota](entities/MannyMorota.md) — Creator and nonprofit law clerk who manually turns archival reporting into real-time historical news feeds on X.
 - [林行止 / Lin Xingzhi](entities/LinXingzhi.md) — Hong Kong founder-editor who turned economics, policy, and markets into accessible Chinese financial commentary.
 - [《信报》 / Hong Kong Economic Journal](entities/HongKongEconomicJournal.md) — Financial newspaper built as a Chinese-language public-knowledge platform and tested by advertiser and ownership pressure.
 - [骆友梅 / Luo Youmei](entities/LuoYoumei.md) — Co-founder whose administration, staffing, financing, and networks supported 《信报》's survival.
@@ -14665,6 +14667,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Auschwitz-Birkenau](entities/AuschwitzBirkenau.md) — Nazi concentration and extermination complex examined through forced labor, confiscation, registration, deception, mass killing, and escapee evidence.
 
 ## Concepts
+- [Real-Time Historical Reenactment](concepts/RealTimeHistoricalReenactment.md) — Delivery of archival events in unfolding sequence so audiences encounter period uncertainty before retrospective resolution.
+- [Platform-Native Public History](concepts/PlatformNativePublicHistory.md) — Historical interpretation designed around a digital platform's native interface, cadence, audience habits, and community incentives.
 - [Financial Commentary Knowledge Translation / 财经评论的知识转译](concepts/FinancialCommentaryKnowledgeTranslation.md) — Practice of connecting markets to economics, institutions, policy, and international affairs in accessible Chinese.
 - [Advertiser Pressure and Editorial Independence / 广告压力下的编辑独立](concepts/AdvertiserPressureEditorialIndependence.md) — Capacity to resist advertiser leverage while remaining willing to correct factual error.
 - [Memory-Centered AI](concepts/MemoryCenteredAI.md) — Architecture that keeps governed memory stable while routing individual tasks among local or remote models.

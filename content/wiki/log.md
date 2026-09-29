@@ -25466,3 +25466,11 @@ Added source `504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | Why one X user is microblogging history in real time
+
+Added source `tech-20260929-0929-mp-tech-pod-128-tech-20260929-0929-mp-tech-pod-128`; created `MannyMorota`, `RealTimeHistoricalReenactment`, and `PlatformNativePublicHistory`; and updated the canonical index and overview. Core synthesis: a breaking-news feed can restore chronology, partial knowledge, and intergenerational memory to public history, but the method depends on source selection, context, corrections, moderation, and an explicit boundary around misinformation and monetized trauma. No settled contradiction was adopted. Follower growth, compensation, historical accuracy, audience effects, and future coverage remain source-scoped.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

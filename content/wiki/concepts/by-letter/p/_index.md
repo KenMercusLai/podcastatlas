@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8823
+wiki_total_pages: 8825
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -866,6 +866,9 @@ wiki_pages:
   - key: "PlatformLevelBiotechBD"
     title: "Platform-Level Biotech BD"
     url: "/wiki/concepts/platformlevelbiotechbd/"
+  - key: "PlatformNativePublicHistory"
+    title: "Platform-Native Public History"
+    url: "/wiki/concepts/platformnativepublichistory/"
   - key: "PlatformPipelineBiotechStrategy"
     title: "Platform-Pipeline Biotech Strategy"
     url: "/wiki/concepts/platformpipelinebiotechstrategy/"

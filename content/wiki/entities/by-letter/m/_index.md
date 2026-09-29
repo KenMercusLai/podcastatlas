@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 11410
+wiki_total_pages: 11411
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -206,6 +206,9 @@ wiki_pages:
   - key: "MannerCoffee"
     title: "Manner Coffee"
     url: "/wiki/entities/mannercoffee/"
+  - key: "MannyMorota"
+    title: "Manny Morota"
+    url: "/wiki/entities/mannymorota/"
   - key: "MansurYavas"
     title: "Mansur Yavas"
     url: "/wiki/entities/mansuryavas/"

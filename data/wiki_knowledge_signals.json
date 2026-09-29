@@ -112452,6 +112452,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/maniusaquillius/"
     },
+    "MannyMorota": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260929_0929_MP_TECH_pod_128 [tech_20260929_0929_MP_TECH_pod_128].md",
+          "key": "tech-20260929-0929-mp-tech-pod-128-tech-20260929-0929-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Why one X user is microblogging history in real time",
+          "url": "/wiki/sources/tech-20260929-0929-mp-tech-pod-128-tech-20260929-0929-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/mannymorota/"
+    },
     "ManufacturedHistoricalConspiracy": {
       "episode_count": 1,
       "show_count": 1,
@@ -134359,6 +134375,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/platformfirstamendmentdefense/"
     },
+    "PlatformNativePublicHistory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260929_0929_MP_TECH_pod_128 [tech_20260929_0929_MP_TECH_pod_128].md",
+          "key": "tech-20260929-0929-mp-tech-pod-128-tech-20260929-0929-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Why one X user is microblogging history in real time",
+          "url": "/wiki/sources/tech-20260929-0929-mp-tech-pod-128-tech-20260929-0929-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/platformnativepublichistory/"
+    },
     "PlatformRightsPreReview": {
       "episode_count": 1,
       "show_count": 1,
@@ -142802,6 +142834,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/concepts/realtimegeneratedworlds/"
+    },
+    "RealTimeHistoricalReenactment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260929_0929_MP_TECH_pod_128 [tech_20260929_0929_MP_TECH_pod_128].md",
+          "key": "tech-20260929-0929-mp-tech-pod-128-tech-20260929-0929-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Why one X user is microblogging history in real time",
+          "url": "/wiki/sources/tech-20260929-0929-mp-tech-pod-128-tech-20260929-0929-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/realtimehistoricalreenactment/"
     },
     "RealTimeKinematicsLocationNetwork": {
       "episode_count": 1,

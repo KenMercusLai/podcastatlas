@@ -11,22 +11,22 @@ outputs: ["html"]
 
 ## Pages
 - Overview: 1
-- Concepts: 8823
-- Entities: 11410
-- Sources: 3183
-- Total wiki content pages: 23417
+- Concepts: 8825
+- Entities: 11411
+- Sources: 3184
+- Total wiki content pages: 23421
 
 ## Links
-- Wiki link references: 577774
-- Unique wiki link targets: 23425
-- Missing targets: 10
+- Wiki link references: 577836
+- Unique wiki link targets: 23430
+- Missing targets: 11
 - Exact duplicate keys: 0
 - Case-insensitive key collisions: 0
 - Public route collisions: 0
 
 ## Source Episodes
-- Source pages: 3183
-- Matched episodes: 3183
+- Source pages: 3184
+- Matched episodes: 3184
 - Missing source_file: 0
 - Unmatched source_file: 0
 
@@ -46,6 +46,8 @@ outputs: ["html"]
   - `content/wiki/concepts/AIGeneratedPullRequestBurden.md`
 - `[[CoordinatedVulnerabilityDisclosure]]`
   - `content/wiki/sources/tech-20260924-0924-mp-tech-pod-128-tech-20260924-0924-mp-tech-pod-128.md`
+- `[[CreatorEconomy]]`
+  - `content/wiki/concepts/PlatformNativePublicHistory.md`
 - `[[IntrinsicMotivation]]`
   - `content/wiki/concepts/InnovatorTraitConfiguration.md`
   - `content/wiki/sources/goals-toolkit-how-to-set-achieve-your-goals-scim1532399364.md`

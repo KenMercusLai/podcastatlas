@@ -46523,6 +46523,10 @@
     "title": "曼妮森",
     "url": "/wiki/entities/mannisen/"
   },
+  "MannyMorota": {
+    "title": "Manny Morota",
+    "url": "/wiki/entities/mannymorota/"
+  },
   "ManqiuChen": {
     "title": "曼丘臣 / Manqiu Chen",
     "url": "/wiki/entities/manqiuchen/"
@@ -56195,6 +56199,10 @@
     "title": "Platform Moderation Compliance Labor / 平台合规劳动",
     "url": "/wiki/concepts/platformmoderationcompliancelabor/"
   },
+  "PlatformNativePublicHistory": {
+    "title": "Platform-Native Public History",
+    "url": "/wiki/concepts/platformnativepublichistory/"
+  },
   "PlatformOwnershipTransition": {
     "title": "Platform Ownership Transition",
     "url": "/wiki/concepts/platformownershiptransition/"
@@ -60086,6 +60094,10 @@
   "RealTimeGeneratedWorlds": {
     "title": "Real-Time Generated Worlds",
     "url": "/wiki/concepts/realtimegeneratedworlds/"
+  },
+  "RealTimeHistoricalReenactment": {
+    "title": "Real-Time Historical Reenactment",
+    "url": "/wiki/concepts/realtimehistoricalreenactment/"
   },
   "RealTimeInteractiveVideoGeneration": {
     "title": "Real-Time Interactive Video Generation",
@@ -87562,6 +87574,10 @@
   "tech-20260928-0928-mp-tech-pod-128-tech-20260928-0928-mp-tech-pod-128": {
     "title": "Amazon wants Alexa to finish your to-do list, not just research it",
     "url": "/wiki/sources/tech-20260928-0928-mp-tech-pod-128-tech-20260928-0928-mp-tech-pod-128/"
+  },
+  "tech-20260929-0929-mp-tech-pod-128-tech-20260929-0929-mp-tech-pod-128": {
+    "title": "Why one X user is microblogging history in real time",
+    "url": "/wiki/sources/tech-20260929-0929-mp-tech-pod-128-tech-20260929-0929-mp-tech-pod-128/"
   },
   "tefan-cong-fengwo-wangluo-dao-shouji-geming-yangyang-tan-yidong-tongxin-langchao-sanshinian-lhbvza29-24szqust-nwtm0z09-4": {
     "title": "特番｜从蜂窝网络到手机革命：杨旸谈移动通信浪潮三十年",

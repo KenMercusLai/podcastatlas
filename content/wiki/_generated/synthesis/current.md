@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-29
-as_of_overview_commit: b56aa0728bd5f4a6c68fd5721473aa518cab3adc
+as_of_overview_commit: d4cd01faba40e047a681f650e894b41f6c7fe9cb
 summary: "Across domains, durable progress depends on evidence, context, human judgment, capable institutions, bounded authority, practical implementation, and feedback."
-episode_count: 3183
-source_count: 3183
-paragraph_count: 771
+episode_count: 3184
+source_count: 3184
+paragraph_count: 772
 topic_count: 9
 ---
 
@@ -61,7 +61,7 @@ Institutions require capable implementation, legitimate limits, accountable info
 
 ### History and Geopolitics
 
-Historical outcomes emerge from routes, logistics, state capacity, coalitions, law, disease, material control, and contested evidence rather than heroic shorthand.
+Historical outcomes and public memory emerge from routes, logistics, state capacity, coalitions, law, media form, and contested evidence rather than heroic or hindsight-driven shorthand.
 
 - [[391-the-fall-of-the-aztecs-the-last-emperor-part-8-glt2984940365|The Fall of the Aztecs finale]] treats the [[SpanishConquestOfMexico|Spanish conquest of Mexico]] as a long, uneven transformation rather than a completed 1521 event: coalition politics, [[ColonialLegalAdaptation|legal legitimation and Indigenous claims]], labor, urban rebuilding, religion, and the [[ColumbianExchange]] extended battlefield defeat, while [[HistoricalCatastropheNarrativeEthics]] preserves constrained Indigenous agency and dramatic contingency without minimizing torture, exploitation, dispossession, or demographic catastrophe. Evidence: [[391-the-fall-of-the-aztecs-the-last-emperor-part-8-glt2984940365]], [[SpanishConquestOfMexico]], [[ColonialLegalAdaptation]], [[ColumbianExchange]], [[HistoricalCatastropheNarrativeEthics]], [[HernanCortes]], [[Malinche]], [[Cuauhtemoc]], [[MexicaEmpire]], [[TheRestIsHistory]].
 - [[562-peter-the-great-the-rise-of-russia-part-1-glt5535116202|Peter Part 1]] extends the [[GreatNorthernWar|Great Northern War]] sequence back to the [[MoscowUprising1682|1682 succession crisis]]: genuine [[Streltsy]] grievances and dynastic manipulation produce Kremlin violence and [[SophiaAlekseyevna|Sophia]]'s regency, while Peter's mock regiments, technical craft, foreign contacts, and sailing form a practical-military identity inside an already Westernizing court under [[VasilyGolitsyn|Golitsyn]]. [[563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819|Peter Part 2]] then turns the [[GreatEmbassy]] into technical recruitment without political limits, joins [[CoerciveWesternization]] and the Streltsy purge to autocratic consolidation, and uses [[AugustusTheStrong|Augustus the Strong]] plus an Ottoman truce to redirect [[PeterTheGreat|Peter]] toward Sweden. [[564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070|War Part 1]], [[565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243|Part 2]], and [[566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587|Part 3]] show outcomes working through systems: [[BattleOfNarva|Narva]] drives Russian reform and [[SaintPetersburg|Baltic consolidation]], before resource denial, [[BattleOfLesnaya|Lesnaya]], [[Baturin]], winter, absent allies, injury, and divided command let [[BattleOfPoltava|Poltava]] convert capacity into decline of the [[SwedishEmpire]] and ascent of the [[RussianEmpire]]. Evidence: [[562-peter-the-great-the-rise-of-russia-part-1-glt5535116202]], [[563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819]], [[564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070]], [[565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243]], [[566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587]], [[MoscowUprising1682]], [[SophiaAlekseyevna]], [[VasilyGolitsyn]], [[BattleOfNarva]], [[SaintPetersburg]], [[BattleOfPoltava]], [[BattleOfLesnaya]], [[Baturin]], [[CharlesXII]], [[PeterTheGreat]], [[SwedishEmpire]], [[RussianEmpire]], [[GreatNorthernWar]], [[GreatEmbassy]], [[CoerciveWesternization]], [[Streltsy]], [[AugustusTheStrong]].

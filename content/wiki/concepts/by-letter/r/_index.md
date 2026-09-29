@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 8823
+wiki_total_pages: 8825
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -140,6 +140,9 @@ wiki_pages:
   - key: "RealTimeGeneratedWorlds"
     title: "Real-Time Generated Worlds"
     url: "/wiki/concepts/realtimegeneratedworlds/"
+  - key: "RealTimeHistoricalReenactment"
+    title: "Real-Time Historical Reenactment"
+    url: "/wiki/concepts/realtimehistoricalreenactment/"
   - key: "RealTimeInteractiveVideoGeneration"
     title: "Real-Time Interactive Video Generation"
     url: "/wiki/concepts/realtimeinteractivevideogeneration/"
