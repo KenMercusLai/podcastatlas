@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.05急诊｜解密医生之间的那些暗语｜在急诊有床位就代表有一席之地](sources/vol-05-jizhen-jiemi-yisheng-zhijian-de-naxie-anyu-zai-jizhen-you-chuangwei-jiu-daibiao-you-yixi-zhidi-lirey0j7u3c55buirusfj4qtzzg6.md) — 这病说来话长 episode on acuity-based emergency order, bed and imaging bottlenecks, clinician communication, CPR/AED literacy, and symptom-search anxiety.
 - [288: Jesus Christ: The History (Part 2)](sources/288-jesus-christ-the-history-part-2-glt4776258433.md) — The Rest Is History episode separating historical anchors in Jesus's life from disputed Nativity details and supernatural adjudication, while explaining Kingdom preaching, crucifixion, resurrection belief, and early exaltation.
 - [VOL.06麻醉科｜可以选择手术麻醉医生么｜和手臂一样长的针头是真的么？](sources/vol-06-mazuike-keyi-xuanze-shoushu-mazui-yisheng-me-he-shoubi-yiyang-chang-de-zhentou-shi-zhen-de-me-ll7tqta4renix5vmcvrspd069z8o.md) — 这病说来话长 episode on anesthesiologists' clinical role, layered operating-room coverage, preoperative screening, patient allocation, training, and anatomy-matched needle choice.
 - [VOL.07麻醉科｜麻醉药物会使脑子变笨么｜乳腺手术是否需全麻？](sources/vol-07-mazuike-mazui-yaowu-hui-shi-naozi-bian-ben-me-ruxian-shoushu-shifou-xu-quanma-lkf-9yhb2yphhalturxi5h89ya45.md) — 这病说来话长 episode on preoperative assessment, anesthesia-mode selection, cognition and dosing myths, informed consent, and aspiration-prevention fasting.

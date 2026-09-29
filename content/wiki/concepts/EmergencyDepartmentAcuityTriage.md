@@ -5,7 +5,8 @@ tags: [healthcare, emergency-care, triage, medical-literacy]
 sources:
   - vol-15-jizhen-weizhongbingke-guimenguan-gebide-xuanxue-chehuo-huanzhe-dui-wo-shuo-meitian-kandao-youren-la-wo-qu-huozangchang-ljgg_zhhuq3teyoqjk6unvuzba1n
   - vol-14-jizhen-weizhongbingke-zai-eicu-shengsi-yichana-xiayimiao-de-gushi-yongyuan-wufa-jutou-lvroomdoozbajm99k07hhffefc7c
-last_updated: 2026-09-29
+  - vol-05-jizhen-jiemi-yisheng-zhijian-de-naxie-anyu-zai-jizhen-you-chuangwei-jiu-daibiao-you-yixi-zhidi-lirey0j7u3c55buirusfj4qtzzg6
+last_updated: 2026-09-30
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,9 +22,11 @@ This does not make waiting patients unimportant or prove that an unseen patient 
 
 VOL.14 adds the clinician-side cognitive discipline behind the queue. Repeated exposure and training can make an emergency physician appear unusually calm because attention is directed first to threats that change survival. Lower-risk pain or a requested scan may remain secondary while unstable circulation, breathing, consciousness, or rapid deterioration is addressed; this is prioritization, not proof that the smaller concern is unreal.
 
+VOL.05 adds the capacity side of the same system. Correct priority does not create a bed, free an ambulance stretcher, or shorten an occupied scanner slot. A patient left on the only available transport or imaging surface can block the next transfer or examination, while MRI cost, examination time, and continuous demand make add-on requests a system-level tradeoff rather than a simple test of staff willingness. Triage therefore orders risk inside a constrained flow system; it does not guarantee immediate service at every downstream step.
+
 ## Key Claims
 - Emergency order is primarily severity- and time-sensitivity-based rather than arrival-time-based.
-- Resuscitation rooms, observation areas, ordinary wards, specialty services, and ICU serve different levels and phases of need.
+- Resuscitation rooms, observation areas, beds, scanners, ordinary wards, specialty services, and ICU serve different levels and phases of need, and a bottleneck in one can slow the whole pathway.
 - Triage categories can change as symptoms, vital signs, function, or test results change.
 - Ambulance transport can communicate urgency and enable pre-arrival preparation, but it does not make every arrival clinically identical.
 - Waiting time alone cannot reveal the reasoning behind another patient's priority or establish neglect.
@@ -34,14 +37,15 @@ VOL.14 adds the clinician-side cognitive discipline behind the queue. Repeated e
 - Severity-based order and routing: [[vol-15-jizhen-weizhongbingke-guimenguan-gebide-xuanxue-chehuo-huanzhe-dui-wo-shuo-meitian-kandao-youren-la-wo-qu-huozangchang-ljgg_zhhuq3teyoqjk6unvuzba1n]] describes critical ambulance arrivals entering resuscitation, less severe patients moving among observation areas, and the most unstable patients being admitted to ICU rather than everyone being treated in arrival order.
 - Dynamic destination: [[vol-15-jizhen-weizhongbingke-guimenguan-gebide-xuanxue-chehuo-huanzhe-dui-wo-shuo-meitian-kandao-youren-la-wo-qu-huozangchang-ljgg_zhhuq3teyoqjk6unvuzba1n]] presents ICU as one stage in a pathway that can lead to stabilization, specialty treatment, ordinary ward care, observation, or discharge.
 - Learned prioritization: [[vol-14-jizhen-weizhongbingke-zai-eicu-shengsi-yichana-xiayimiao-de-gushi-yongyuan-wufa-jutou-lvroomdoozbajm99k07hhffefc7c|VOL.14]] describes emergency composure as rapid recovery from surprise, identification of the next action, and allocation of attention by effect on the patient's immediate life course.
+- Capacity-constrained flow: [[vol-05-jizhen-jiemi-yisheng-zhijian-de-naxie-anyu-zai-jizhen-you-chuangwei-jiu-daibiao-you-yixi-zhidi-lirey0j7u3c55buirusfj4qtzzg6|VOL.05]] describes beds, ambulance stretchers, CT tables, MRI slots, and add-on requests as linked resources whose occupation can delay later patients even when severity ordering is understood.
 
 ## Counterevidence & Qualifications
-The sources are one clinician's public explanations, not a universal triage scale, waiting-time standard, ambulance protocol, imaging rule, or admission rule. Actual systems differ by jurisdiction, hospital capacity, age, specialty resources, mass-casualty conditions, and reassessment processes. A severity-based system can still suffer from error, crowding, communication failure, inequity, or delayed reassessment, and professional calm alone does not prove that a decision is correct.
+The sources are clinician public explanations, not a universal triage scale, waiting-time standard, ambulance protocol, imaging rule, or admission rule. Actual systems differ by jurisdiction, hospital capacity, age, specialty resources, mass-casualty conditions, and reassessment processes. A severity-based system can still suffer from error, crowding, communication failure, inequity, or delayed reassessment, and neither professional calm nor claimed scarcity proves that a particular decision is correct. The Beijing capacity anecdotes, overseas waiting comparison, MRI price, and patient-level proportions in VOL.05 are not independently verified here.
 
 ## What Changed
-- Added learned composure and rapid next-action selection as clinician-side mechanisms of acuity triage.
-- Distinguished deprioritizing a lower-risk concern from denying that the concern exists.
-- Added explanation and reassessment as safeguards around selective testing and prioritization.
+- Added physical capacity and patient-flow bottlenecks to the severity-based triage model.
+- Distinguished correct prioritization from a guarantee of an immediate bed, scan, transfer, or admission.
+- Added scarcity claims themselves to the explanation-and-reassessment safeguard rather than treating them as self-validating.
 
 ## Related Concepts
 - [[EmergencyDepartmentRiskExclusion]] - diagnostic and stabilization work performed after urgent routing.
@@ -49,3 +53,4 @@ The sources are one clinician's public explanations, not a universal triage scal
 - [[PrehospitalEmergencyMedicalResponse]] - ambulance dispatch, stabilization, transport, and handoff pathway.
 - [[IntensiveCareAsTimeBuying]] - downstream critical-care branch for unstable organ function.
 - [[DiagnosticSafetyNetting]] - return and deterioration instructions when uncertainty persists.
+- [[DoctorPatientCommunication]] - explains priority and capacity without treating delay as self-explanatory.

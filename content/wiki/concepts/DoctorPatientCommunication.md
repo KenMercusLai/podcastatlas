@@ -11,7 +11,8 @@ sources:
   - vol-110-shanzhong-shi-weile-genghao-de-huozhe-shenglaobingsi-6-wei-yisheng-shijiao-zenme-kan-shijie-dushuri-lklwhndplyk73rpqxuraocs4cii5
   - vol-106-xiongwaike-wangxing-bingren-jiashu-wen-wo-zenme-nenggou-taohao-yisheng-lrjqaw3ovznk0zn4-jfj3f2xyvzi
   - vol-14-jizhen-weizhongbingke-zai-eicu-shengsi-yichana-xiayimiao-de-gushi-yongyuan-wufa-jutou-lvroomdoozbajm99k07hhffefc7c
-last_updated: 2026-09-29
+  - vol-05-jizhen-jiemi-yisheng-zhijian-de-naxie-anyu-zai-jizhen-you-chuangwei-jiu-daibiao-you-yixi-zhidi-lirey0j7u3c55buirusfj4qtzzg6
+last_updated: 2026-09-30
 knowledge_schema: synthesis-v1
 ---
 
@@ -35,13 +36,15 @@ VOL.106 applies the same boundary to a listener Q&A: without examination or imag
 
 VOL.14 adds the time-critical family conversation. Full disclosure does not make relatives medically equipped to weigh conflicting cardiac, bleeding, organ-support, financial, and prognosis questions in minutes. A clinician should explain uncertainty and material risks while still offering a reasoned recommendation grounded in the patient's goals and the multidisciplinary view; avoiding all recommendation merely relocates professional responsibility onto the family.
 
+VOL.05 adds two communication channels under emergency pressure. Bad news may need paced, progressively clearer explanation so a family can absorb severity and likely consequences, while a stamped imaging report and direct critical-value call between clinicians preserve context that an informal bedside comment or patient relay may lose. The same episode shows why explanation must include system constraints: a failed add-on request can reflect a full scanner schedule or absent bed rather than hostility, but scarcity does not excuse opacity, missed deterioration, or withholding material information.
+
 ## Key Claims
 - A useful visit opening names the main symptom, duration, and relevant changes before background narration.
 - Patients should ask about unfamiliar terms, likely diagnosis, still-unexcluded risks, return triggers, and report access instead of pretending to understand.
 - Patient feedback matters because treatment response, pain change, sleep, bowel function, side effects, and symptom progression cannot always be inferred from tests alone.
 - Real-life constraints and goals can be clinically relevant when treatment advice has to fit work, caregiving, sleep, medication fears, or priorities.
 - Second opinions are compatible with respect for clinicians, and comparing plans works best when the patient's goals, costs, pain tolerance, and uncertainty preferences are explicit.
-- Communication should preserve clinical and legal integrity by avoiding false diagnoses, hidden assumptions, unqualified care drift, and adversarial search-result arguments; under time pressure it should combine material-risk disclosure with a reasoned professional recommendation rather than treating information transfer as the whole decision.
+- Communication should preserve clinical and legal integrity by avoiding false diagnoses, hidden assumptions, unqualified care drift, adversarial search-result arguments, and context-free preliminary interpretations; under time pressure it should combine paced material-risk disclosure with a reasoned professional recommendation rather than treating information transfer as the whole decision.
 - Written instructions, repetition, and family participation can make care information more durable; after sedation or critical illness, the same support can reconstruct why invasive treatment occurred without dismissing the patient's fear or anger, while public Q&A is most useful when it states what cannot be decided remotely and turns uncertainty into observable changes, records to preserve, and an appropriate follow-up route.
 
 ## Evidence
@@ -55,14 +58,15 @@ VOL.14 adds the time-critical family conversation. Full disclosure does not make
 - Remote caution and preference-sensitive plans: [[vol-110-shanzhong-shi-weile-genghao-de-huozhe-shenglaobingsi-6-wei-yisheng-shijiao-zenme-kan-shijie-dushuri-lklwhndplyk73rpqxuraocs4cii5]] links conservative online referral to missing clinical context and links plan comparison to the patient's actual goals and constraints.
 - Public Q&A boundaries: [[vol-106-xiongwaike-wangxing-bingren-jiashu-wen-wo-zenme-nenggou-taohao-yisheng-lrjqaw3ovznk0zn4-jfj3f2xyvzi]] uses nodule, chest-tightness, postoperative-pain, and pneumothorax questions to separate general direction from examination-, imaging-, and treating-team-dependent judgment.
 - Time-critical family decisions: [[vol-14-jizhen-weizhongbingke-zai-eicu-shengsi-yichana-xiayimiao-de-gushi-yongyuan-wufa-jutou-lvroomdoozbajm99k07hhffefc7c|VOL.14]] has the guest combine disclosure, multidisciplinary input, treatment goals, affordability, and a professional recommendation when relatives cannot independently absorb the full medical tradeoff within an emergency window.
+- Emergency explanation and reporting channels: [[vol-05-jizhen-jiemi-yisheng-zhijian-de-naxie-anyu-zai-jizhen-you-chuangwei-jiu-daibiao-you-yixi-zhidi-lirey0j7u3c55buirusfj4qtzzg6|VOL.05]] links paced bad-news communication, formal imaging reports, direct critical-value calls, and explanations of bed or scanner scarcity to the need to preserve context under pressure.
 
 ## Counterevidence & Qualifications
-Good communication cannot eliminate scarce appointments, overloaded clinicians, disease uncertainty, severe complications, delirium, traumatic memories, or system handoff failures. The concept also should not shift all safety responsibility onto patients or family members. The sources make patient questions and family support useful because clinicians and institutions still need to give intelligible explanations, track reports, offer recommendations where appropriate, respect patient agency, and preserve qualified care boundaries. Recommendation is not coercion or a guarantee, and encouragement and narrative attention can improve experience without proving a physiological treatment effect or overriding consent and prognosis.
+Good communication cannot eliminate scarce appointments, beds, imaging slots, overloaded clinicians, disease uncertainty, severe complications, delirium, traumatic memories, or system handoff failures. The concept also should not shift all safety responsibility onto patients or family members. The sources make patient questions and family support useful because clinicians and institutions still need to give intelligible explanations, track reports, communicate critical results through reliable channels, offer recommendations where appropriate, respect patient agency, and preserve qualified care boundaries. Pacing difficult information should improve comprehension, not become deception or indefinite nondisclosure; recommendation is not coercion or a guarantee.
 
 ## What Changed
-- Added professional recommendation as a complement to informed risk disclosure in time-critical family decisions.
-- Added treatment goals, cost or coverage, and multidisciplinary input as legitimate parts of critical-care communication.
-- Clarified that recommendation must preserve patient agency and uncertainty rather than become coercion or a promise.
+- Added paced bad-news explanation as a comprehension tool bounded against deception or indefinite nondisclosure.
+- Added formal reports and direct critical-value calls as context-preserving communication channels.
+- Added bed and scanner constraints as information clinicians may need to explain without treating scarcity as proof that every delay is justified.
 
 ## Related Concepts
 - [[MedicalDiagnosticReasoning]] - communication supplies the input that diagnosis needs.

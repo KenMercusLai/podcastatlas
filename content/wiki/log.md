@@ -25515,9 +25515,17 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-30] ingest | VOL.05急诊｜解密医生之间的那些暗语｜在急诊有床位就代表有一席之地
+
+Added source `vol-05-jizhen-jiemi-yisheng-zhijian-de-naxie-anyu-zai-jizhen-you-chuangwei-jiu-daibiao-you-yixi-zhidi-lirey0j7u3c55buirusfj4qtzzg6`; expanded `EmergencyDepartmentAcuityTriage`, `DoctorPatientCommunication`, and `OnlineSymptomSearchAnxiety` from their complete bounded source sets. Core synthesis: emergency order follows acuity but still operates inside bed, transport, scanner, and staffing constraints; paced family explanation and formal clinician-to-clinician reporting can preserve comprehension and context without making opacity acceptable; and unranked symptom searching can turn overlap and familiarity into false personal certainty. No settled contradiction was adopted. Waiting-time comparisons, resource counts and costs, patient proportions, clinician motives, legal trends, and individual cases remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-30] ingest | 288: Jesus Christ: The History (Part 2)
 
 Added source `288-jesus-christ-the-history-part-2-glt4776258433`; created `Jesus`, `JohnTheBaptist`, `PontiusPilate`, `HistoricalJesusReconstruction`, `KingdomOfGodEschatology`, and `EarlyChristianExaltation`; and updated the canonical index. Core synthesis: skeptical historical reconstruction can reject a harmonized Nativity while retaining existence, baptism, public teaching, Jerusalem conflict, and crucifixion as graduated historical claims; the Kingdom of God was socially and imperially subversive without being a conventional armed state or modern ideology; and Christianity's emergence joined early resurrection and exaltation belief to memorable teaching, humiliating death, and prophetic interpretation. No settled contradiction was adopted. Nativity chronology, Nazareth and Bethlehem claims, messianic self-understanding, Passion details, ministry length, and the supernatural status of resurrection remain disputed or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-30] lint | Wiki health check
 
