@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 8828
+wiki_total_pages: 8832
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -671,6 +671,9 @@ wiki_pages:
   - key: "BrandmauerCordonSanitaire"
     title: "Brandmauer Cordon Sanitaire"
     url: "/wiki/concepts/brandmauercordonsanitaire/"
+  - key: "BrazilFiscalPoliticalStalemate"
+    title: "Brazil Fiscal-Political Stalemate"
+    url: "/wiki/concepts/brazilfiscalpoliticalstalemate/"
   - key: "BreakupWorldLoss"
     title: "Breakup World Loss"
     url: "/wiki/concepts/breakupworldloss/"

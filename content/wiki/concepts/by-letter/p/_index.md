@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8828
+wiki_total_pages: 8832
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -44,6 +44,9 @@ wiki_pages:
   - key: "PageRankSearchRelevance"
     title: "PageRank Search Relevance"
     url: "/wiki/concepts/pageranksearchrelevance/"
+  - key: "PaidEmploymentHouseholdBargainingPower"
+    title: "Paid Employment Household Bargaining Power"
+    url: "/wiki/concepts/paidemploymenthouseholdbargainingpower/"
   - key: "PaidListeningServices"
     title: "Paid Listening Services / 付费树洞与倾听师"
     url: "/wiki/concepts/paidlisteningservices/"
@@ -665,6 +668,9 @@ wiki_pages:
   - key: "PhoneBasedChildhoodDisplacement"
     title: "Phone-Based Childhood Displacement"
     url: "/wiki/concepts/phonebasedchildhooddisplacement/"
+  - key: "PhoneFreeConcertExperience"
+    title: "Phone-Free Concert Experience"
+    url: "/wiki/concepts/phonefreeconcertexperience/"
   - key: "PhotoCaptureProvenance"
     title: "Photo Capture Provenance"
     url: "/wiki/concepts/photocaptureprovenance/"

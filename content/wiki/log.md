@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-29] ingest | Brazil rut: Lula v Bolsonaro, again
+
+Added source `brazil-rut-lula-v-bolsonaro-again-6abb8653ed4e198024b38eb5`; created `LuizInacioLulaDaSilva`, `FlavioBolsonaro`, `JairBolsonaro`, `PhoebeBridgers`, `Yondr`, `BrazilFiscalPoliticalStalemate`, `HonorCultureFemaleMobilityConstraint`, `PaidEmploymentHouseholdBargainingPower`, and `PhoneFreeConcertExperience`; and updated `Brazil`, `WomenWorkplaceProgressStall`, and the canonical index from their complete bounded source sets. Core synthesis: Brazil's polarized candidates inherit a high-interest, consumption-led fiscal and congressional stalemate without erasing institutional checks; women's work can be blocked before workplace entry by honor-based mobility control, while legal reform, role models, technology, and income can shift household bargaining; and phone-free concerts trade digital capture for attention, intimacy, and ephemerality. No settled contradiction was adopted. Election forecasts, debt and participation figures, corruption allegations, household-power associations, macroeconomic estimates, and concert effects remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-29] ingest | VOL.002｜DeepChat：为什么要做一块开源 AI 试验田？
 
 Added source `lo0pfirl4khc0jzj57kgbx7wsq49`; created `DeepChat`, `AgentTapeSystem`, `AgentClientProtocol`, `OpenSourceAITestbed`, and `AIGeneratedPullRequestBurden`; and updated the canonical index. Core synthesis: DeepChat's durable value is not a single chat feature but an open desktop integration layer joining an append-only Tape, a maintained harness, local device access, memory, MCP tools, and ACP-connected external agents; stronger models still need software, permissions, isolation, verification, and recovery to act reliably in real systems. No settled contradiction was adopted. The local-capability versus sandbox-isolation tension, ACP maturity, performance and adoption claims, OpenClaw platform effects, and small-model routing benefits remain source-scoped practitioner judgments. The automatic `wiki/overview.md` was read for context but not manually rewritten because the episode deepens established agent-infrastructure branches without changing the wiki-wide synthesis; downstream synthesis refresh only reads it.
@@ -25486,6 +25490,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-29] ingest | 289: Drink — Britain’s Empire of Booze
 
 Added source `289-drink-glt6408276244`; created `HenryJeffreys`, `EmpireOfBooze`, and `BritishDrinkMarketFormation`; expanded `WinePrestigeClassificationSystem` from its complete bounded two-source set; and updated the canonical index and overview. Core synthesis: Britain’s purchasing power, merchant networks, bottle and barrel technology, taxation, diplomacy, consumer tastes, and branding helped reshape champagne, claret, port, sherry, Marsala, and blended Scotch without displacing producer-region agency. No settled contradiction was adopted; the bottle-technology and Haut-Brion branches corroborate the earlier wine episode, while invention priority, market rankings, consumption anecdotes, fortification motives, and causal weight remain source-scoped.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-29] lint | Wiki health check
 

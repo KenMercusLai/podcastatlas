@@ -15208,6 +15208,13 @@
       "url": "/topics/history/"
     }
   ],
+  "BrazilFiscalPoliticalStalemate": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "BrazilianNationalAnthem": [
     {
       "key": "culture",
@@ -30965,6 +30972,13 @@
       "url": "/topics/science/"
     }
   ],
+  "FlavioBolsonaro": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "FlexibilityNeuralSafetyGating": [
     {
       "key": "science",
@@ -41838,6 +41852,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "JairBolsonaro": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "JakeHeller": [
     {
       "key": "technology",
@@ -48341,6 +48362,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "LuizInacioLulaDaSilva": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "LulinRebellion": [
@@ -87824,6 +87852,13 @@
       "label": "Technology",
       "url": "/topics/technology/"
     },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "brazil-rut-lula-v-bolsonaro-again-6abb8653ed4e198024b38eb5": [
     {
       "key": "politics",
       "label": "Politics",

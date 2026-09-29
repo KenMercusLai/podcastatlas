@@ -21281,9 +21281,9 @@
       "url": "/wiki/concepts/brandmauercordonsanitaire/"
     },
     "Brazil": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 6,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "服装品牌 A&F 寻找中国合作伙伴，付费提前看特朗普帖文服务上线 [1004810677].md",
@@ -21361,10 +21361,33 @@
           "show": "The Rest Is History",
           "title": "681. Brazil: The Emperor's Anthem (Part 5)",
           "url": "/wiki/sources/681-brazil-the-emperors-anthem-part-5-glt5596929385/"
+        },
+        {
+          "episode_file": "Brazil rut： Lula v Bolsonaro, again [6abb8653ed4e198024b38eb5].md",
+          "key": "brazil-rut-lula-v-bolsonaro-again-6abb8653ed4e198024b38eb5",
+          "show": "Economist Podcasts",
+          "title": "Brazil rut: Lula v Bolsonaro, again",
+          "url": "/wiki/sources/brazil-rut-lula-v-bolsonaro-again-6abb8653ed4e198024b38eb5/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-29",
       "url": "/wiki/entities/brazil/"
+    },
+    "BrazilFiscalPoliticalStalemate": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Brazil rut： Lula v Bolsonaro, again [6abb8653ed4e198024b38eb5].md",
+          "key": "brazil-rut-lula-v-bolsonaro-again-6abb8653ed4e198024b38eb5",
+          "show": "Economist Podcasts",
+          "title": "Brazil rut: Lula v Bolsonaro, again",
+          "url": "/wiki/sources/brazil-rut-lula-v-bolsonaro-again-6abb8653ed4e198024b38eb5/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/brazilfiscalpoliticalstalemate/"
     },
     "BrazilianEmpire": {
       "episode_count": 1,
@@ -62235,6 +62258,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/flatulenceashealthsignal/"
     },
+    "FlavioBolsonaro": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Brazil rut： Lula v Bolsonaro, again [6abb8653ed4e198024b38eb5].md",
+          "key": "brazil-rut-lula-v-bolsonaro-again-6abb8653ed4e198024b38eb5",
+          "show": "Economist Podcasts",
+          "title": "Brazil rut: Lula v Bolsonaro, again",
+          "url": "/wiki/sources/brazil-rut-lula-v-bolsonaro-again-6abb8653ed4e198024b38eb5/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/flaviobolsonaro/"
+    },
     "FlexibilityNeuralSafetyGating": {
       "episode_count": 1,
       "show_count": 1,
@@ -80801,6 +80840,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/hongshengsystem/"
     },
+    "HonorCultureFemaleMobilityConstraint": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Brazil rut： Lula v Bolsonaro, again [6abb8653ed4e198024b38eb5].md",
+          "key": "brazil-rut-lula-v-bolsonaro-again-6abb8653ed4e198024b38eb5",
+          "show": "Economist Podcasts",
+          "title": "Brazil rut: Lula v Bolsonaro, again",
+          "url": "/wiki/sources/brazil-rut-lula-v-bolsonaro-again-6abb8653ed4e198024b38eb5/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/honorculturefemalemobilityconstraint/"
+    },
     "HonorDuelCulture": {
       "episode_count": 2,
       "show_count": 2,
@@ -91185,6 +91240,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/jacquespierrebrissot/"
+    },
+    "JairBolsonaro": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Brazil rut： Lula v Bolsonaro, again [6abb8653ed4e198024b38eb5].md",
+          "key": "brazil-rut-lula-v-bolsonaro-again-6abb8653ed4e198024b38eb5",
+          "show": "Economist Podcasts",
+          "title": "Brazil rut: Lula v Bolsonaro, again",
+          "url": "/wiki/sources/brazil-rut-lula-v-bolsonaro-again-6abb8653ed4e198024b38eb5/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/jairbolsonaro/"
     },
     "JamesCallender": {
       "episode_count": 1,
@@ -109611,6 +109682,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/entities/luisdesantangel/"
+    },
+    "LuizInacioLulaDaSilva": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Brazil rut： Lula v Bolsonaro, again [6abb8653ed4e198024b38eb5].md",
+          "key": "brazil-rut-lula-v-bolsonaro-again-6abb8653ed4e198024b38eb5",
+          "show": "Economist Podcasts",
+          "title": "Brazil rut: Lula v Bolsonaro, again",
+          "url": "/wiki/sources/brazil-rut-lula-v-bolsonaro-again-6abb8653ed4e198024b38eb5/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/luizinacioluladasilva/"
     },
     "LujiangCommandery": {
       "episode_count": 2,
@@ -129353,6 +129440,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/concepts/packagedwaterpricewar/"
     },
+    "PaidEmploymentHouseholdBargainingPower": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Brazil rut： Lula v Bolsonaro, again [6abb8653ed4e198024b38eb5].md",
+          "key": "brazil-rut-lula-v-bolsonaro-again-6abb8653ed4e198024b38eb5",
+          "show": "Economist Podcasts",
+          "title": "Brazil rut: Lula v Bolsonaro, again",
+          "url": "/wiki/sources/brazil-rut-lula-v-bolsonaro-again-6abb8653ed4e198024b38eb5/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/paidemploymenthouseholdbargainingpower/"
+    },
     "PaidPilotValueProof": {
       "episode_count": 1,
       "show_count": 1,
@@ -133559,6 +133662,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/philippines/"
     },
+    "PhoebeBridgers": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Brazil rut： Lula v Bolsonaro, again [6abb8653ed4e198024b38eb5].md",
+          "key": "brazil-rut-lula-v-bolsonaro-again-6abb8653ed4e198024b38eb5",
+          "show": "Economist Podcasts",
+          "title": "Brazil rut: Lula v Bolsonaro, again",
+          "url": "/wiki/sources/brazil-rut-lula-v-bolsonaro-again-6abb8653ed4e198024b38eb5/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/phoebebridgers/"
+    },
     "PhoenicianAlphabetTransmission": {
       "episode_count": 1,
       "show_count": 1,
@@ -133622,6 +133741,22 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/concepts/phonebasedchildhooddisplacement/"
+    },
+    "PhoneFreeConcertExperience": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Brazil rut： Lula v Bolsonaro, again [6abb8653ed4e198024b38eb5].md",
+          "key": "brazil-rut-lula-v-bolsonaro-again-6abb8653ed4e198024b38eb5",
+          "show": "Economist Podcasts",
+          "title": "Brazil rut: Lula v Bolsonaro, again",
+          "url": "/wiki/sources/brazil-rut-lula-v-bolsonaro-again-6abb8653ed4e198024b38eb5/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/phonefreeconcertexperience/"
     },
     "PhotoCaptureProvenance": {
       "episode_count": 1,
@@ -182517,9 +182652,9 @@
       "url": "/wiki/concepts/womensportswearsegmentstratification/"
     },
     "WomenWorkplaceProgressStall": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 3,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "EP274 如何找到适合自己的“更年期答案”？ [li2BP1rTITdNVc04rMIZyfg1tXfH].md",
@@ -182548,9 +182683,16 @@
           "show": "Planet Money",
           "title": "Dolly Parton’s “9 to 5,” the true story behind the anthem (bonus)",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177-default-mp3-ywr3ahjkcgo-121afa1edad69a8165a6651fddddf97c-25337177/"
+        },
+        {
+          "episode_file": "Brazil rut： Lula v Bolsonaro, again [6abb8653ed4e198024b38eb5].md",
+          "key": "brazil-rut-lula-v-bolsonaro-again-6abb8653ed4e198024b38eb5",
+          "show": "Economist Podcasts",
+          "title": "Brazil rut: Lula v Bolsonaro, again",
+          "url": "/wiki/sources/brazil-rut-lula-v-bolsonaro-again-6abb8653ed4e198024b38eb5/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/womenworkplaceprogressstall/"
     },
     "WomensFootballVisibility": {
@@ -189864,6 +190006,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/yokkaichipollutionincident/"
+    },
+    "Yondr": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Brazil rut： Lula v Bolsonaro, again [6abb8653ed4e198024b38eb5].md",
+          "key": "brazil-rut-lula-v-bolsonaro-again-6abb8653ed4e198024b38eb5",
+          "show": "Economist Podcasts",
+          "title": "Brazil rut: Lula v Bolsonaro, again",
+          "url": "/wiki/sources/brazil-rut-lula-v-bolsonaro-again-6abb8653ed4e198024b38eb5/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/yondr/"
     },
     "YongLambert": {
       "episode_count": 1,

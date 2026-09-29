@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2827
+topic_total_pages: 2832
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -475,6 +475,9 @@ topic_concepts:
   - key: "BrandmauerCordonSanitaire"
     title: "Brandmauer Cordon Sanitaire"
     url: "/wiki/concepts/brandmauercordonsanitaire/"
+  - key: "BrazilFiscalPoliticalStalemate"
+    title: "Brazil Fiscal-Political Stalemate"
+    url: "/wiki/concepts/brazilfiscalpoliticalstalemate/"
   - key: "Brexit"
     title: "Brexit"
     url: "/wiki/concepts/brexit/"
@@ -5312,6 +5315,9 @@ topic_entities:
   - key: "FINRA"
     title: "FINRA"
     url: "/wiki/entities/finra/"
+  - key: "FlavioBolsonaro"
+    title: "Flavio Bolsonaro"
+    url: "/wiki/entities/flaviobolsonaro/"
   - key: "FlockSafety"
     title: "Flock Safety"
     url: "/wiki/entities/flocksafety/"
@@ -5642,6 +5648,9 @@ topic_entities:
   - key: "JackLynch"
     title: "Jack Lynch"
     url: "/wiki/entities/jacklynch/"
+  - key: "JairBolsonaro"
+    title: "Jair Bolsonaro"
+    url: "/wiki/entities/jairbolsonaro/"
   - key: "JamesBeaton"
     title: "James Beaton"
     url: "/wiki/entities/jamesbeaton/"
@@ -5936,6 +5945,9 @@ topic_entities:
   - key: "LuigiCaseSuspect"
     title: "Luigi Case Suspect"
     url: "/wiki/entities/luigicasesuspect/"
+  - key: "LuizInacioLulaDaSilva"
+    title: "Luiz Inacio Lula da Silva"
+    url: "/wiki/entities/luizinacioluladasilva/"
   - key: "LurleenWallace"
     title: "Lurleen Wallace"
     url: "/wiki/entities/lurleenwallace/"
@@ -7704,6 +7716,9 @@ topic_sources:
   - key: "brave-new-whirl-turkeys-opposition-overhaul-6a69c7766043035f89eb097f"
     title: "Brave New whirl: Turkey's opposition overhaul"
     url: "/wiki/sources/brave-new-whirl-turkeys-opposition-overhaul-6a69c7766043035f89eb097f/"
+  - key: "brazil-rut-lula-v-bolsonaro-again-6abb8653ed4e198024b38eb5"
+    title: "Brazil rut: Lula v Bolsonaro, again"
+    url: "/wiki/sources/brazil-rut-lula-v-bolsonaro-again-6abb8653ed4e198024b38eb5/"
   - key: "socialradarspod-brianarmstrong-final"
     title: "Brian Armstrong on Coinbase's Origin, Crypto Regulation, FTX, and Founder Resilience"
     url: "/wiki/sources/socialradarspod-brianarmstrong-final/"

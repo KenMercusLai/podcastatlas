@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 8828
+wiki_total_pages: 8832
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -599,6 +599,9 @@ wiki_pages:
   - key: "HonorBindingBySelfSacrifice"
     title: "Honor Binding By Self-Sacrifice / 以死绑定的侠义压力"
     url: "/wiki/concepts/honorbindingbyselfsacrifice/"
+  - key: "HonorCultureFemaleMobilityConstraint"
+    title: "Honor Culture Female Mobility Constraint"
+    url: "/wiki/concepts/honorculturefemalemobilityconstraint/"
   - key: "HonorDuelCulture"
     title: "Honor Duel Culture / 荣誉决斗文化"
     url: "/wiki/concepts/honorduelculture/"

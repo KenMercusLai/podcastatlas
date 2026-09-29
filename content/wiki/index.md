@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Brazil rut: Lula v Bolsonaro, again](sources/brazil-rut-lula-v-bolsonaro-again-6abb8653ed4e198024b38eb5.md) — The Intelligence episode on Brazil's polarized election and fiscal constraints, honor culture and women's work, and the rise of phone-free concerts.
 - [289: Drink — Britain’s Empire of Booze](sources/289-drink-glt6408276244.md) — The Rest Is History episode with Henry Jeffreys on how British technology, trade, policy, taste, and branding shaped champagne, claret, port, sherry, Marsala, and blended Scotch.
 - [How to Become Resilient, Forge Your Identity & Lead Others | Jocko Willink](sources/how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim5755591173.md) — Full Huberman Lab conversation on discipline, energy, intent-led command, detachment, morale, role fit, grief, identity, and bounded resilience practice.
 - [Why one X user is microblogging history in real time](sources/tech-20260929-0929-mp-tech-pod-128-tech-20260929-0929-mp-tech-pod-128.md) — Marketplace Tech profile of Manny Morota's manual, real-time historical feeds, intergenerational memory, misinformation framing, community norms, and trauma-monetization boundary.
@@ -3230,6 +3231,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [290: 2022: A History](sources/290-2022-a-history-glt4625765030.md) — The Rest Is History year-end episode on Ukraine as a post-Cold War rupture, European energy dependence, Elizabeth II's death, British political turmoil, and 2022 cultural recommendations.
 
 ## Entities
+- [Luiz Inacio Lula da Silva](entities/LuizInacioLulaDaSilva.md) — Incumbent Brazilian president presented as one pole of the 2026 election and fiscal debate.
+- [Flavio Bolsonaro](entities/FlavioBolsonaro.md) — Bolsonaro-family presidential candidate whose platform centers a pardon for his father.
+- [Jair Bolsonaro](entities/JairBolsonaro.md) — Former Brazilian president whose conviction, voter base, and family succession remain central to the 2026 contest.
+- [Phoebe Bridgers](entities/PhoebeBridgers.md) — Musician used as the episode's lead example of a repeated phone-free concert policy.
+- [Yondr](entities/Yondr.md) — Locking phone-pouch system used to enforce device restrictions at live events.
 - [Henry Jeffreys](entities/HenryJeffreys.md) — Drinks writer explaining Britain’s role in the cross-border formation of wines and spirits.
 - [Empire of Booze](entities/EmpireOfBooze.md) — Henry Jeffreys book framing drink traditions through British demand, trade, technology, and branding.
 - [Manny Morota](entities/MannyMorota.md) — Creator and nonprofit law clerk who manually turns archival reporting into real-time historical news feeds on X.
@@ -14671,6 +14677,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Auschwitz-Birkenau](entities/AuschwitzBirkenau.md) — Nazi concentration and extermination complex examined through forced labor, confiscation, registration, deception, mass killing, and escapee evidence.
 
 ## Concepts
+- [Brazil Fiscal-Political Stalemate](concepts/BrazilFiscalPoliticalStalemate.md) — Electoral and governing lock-in joining high debt costs, consumption-led spending, congressional power, and institutional checks.
+- [Honor Culture Female Mobility Constraint](concepts/HonorCultureFemaleMobilityConstraint.md) — Family-reputation norm that can make permission to leave home a prior barrier to women's employment.
+- [Paid Employment Household Bargaining Power](concepts/PaidEmploymentHouseholdBargainingPower.md) — Qualified link between women's earned income and influence over household budgets, social activity, and movement.
+- [Phone-Free Concert Experience](concepts/PhoneFreeConcertExperience.md) — Live-event design restricting devices to prioritize shared attention, intimacy, and ephemerality.
 - [British Drink Market Formation](concepts/BritishDrinkMarketFormation.md) — Cross-border process through which British demand, merchants, technology, policy, and branding reshaped drinks made elsewhere.
 - [Decentralized Command Leadership](concepts/DecentralizedCommandLeadership.md) — Intent-led operating model that distributes local judgment while preserving doctrine, competence, context, and accountability.
 - [Team Role-Fit Leadership](concepts/TeamRoleFitLeadership.md) — Leadership practice of matching execution, creation, communication, and support responsibilities to demonstrated strengths without fixing people into permanent labels.

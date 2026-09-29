@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 11413
+wiki_total_pages: 11418
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -509,6 +509,9 @@ wiki_pages:
   - key: "Philippines"
     title: "Philippines"
     url: "/wiki/entities/philippines/"
+  - key: "PhoebeBridgers"
+    title: "Phoebe Bridgers"
+    url: "/wiki/entities/phoebebridgers/"
   - key: "PhoebeCaulfield"
     title: "Phoebe Caulfield / 菲比"
     url: "/wiki/entities/phoebecaulfield/"

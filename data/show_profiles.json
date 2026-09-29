@@ -323,14 +323,14 @@
       "earliest_episode_date": "2026-02-09",
       "latest_episode_date": "2026-09-29",
       "latest_episode_file": "Brazil rut： Lula v Bolsonaro, again [6abb8653ed4e198024b38eb5].md",
-      "source_note_count": 82,
-      "topic_matched_source_note_count": 74,
+      "source_note_count": 83,
+      "topic_matched_source_note_count": 75,
       "topics": [
         {
           "key": "politics",
           "label": "Politics",
           "url": "/topics/politics/",
-          "source_note_count": 54
+          "source_note_count": 55
         },
         {
           "key": "technology",
@@ -410,7 +410,7 @@
         }
       ],
       "start_here_episode_files": [
-        "National front-runner： who can beat Le Pen？ [6ab3960493749e4c0ba24e60].md",
+        "Brazil rut： Lula v Bolsonaro, again [6abb8653ed4e198024b38eb5].md",
         "Out-numbered： AI’s contentious maths milestone [6aa3ce622e8bb8424c920cfb].md",
         "Drone truth： Russia has the upper hand [6aad03f98a1508074de8337e].md",
         "Big meet, little meat： the Trump-Xi summit [6ab6401bbd67ce4b534215db].md"
