@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 8786
+wiki_total_pages: 8788
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -281,6 +281,9 @@ wiki_pages:
   - key: "AdultFairyTaleReading"
     title: "Adult Fairy-Tale Reading"
     url: "/wiki/concepts/adultfairytalereading/"
+  - key: "AdultFeverMedicationSafety"
+    title: "Adult Fever Medication Safety / 成人发热用药安全"
+    url: "/wiki/concepts/adultfevermedicationsafety/"
   - key: "AdultIndependenceFromFamily"
     title: "Adult Independence From Family"
     url: "/wiki/concepts/adultindependencefromfamily/"

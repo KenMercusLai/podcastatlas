@@ -8454,6 +8454,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "AdultFeverMedicationSafety": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "AdultProductsRelationshipSupport": [
     {
       "key": "culture",
@@ -15933,6 +15940,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "COVIDAntiviralRiskBenefitBoundary": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "COWZ": [

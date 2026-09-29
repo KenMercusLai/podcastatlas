@@ -4895,6 +4895,10 @@
     "title": "Adult Fairy-Tale Reading",
     "url": "/wiki/concepts/adultfairytalereading/"
   },
+  "AdultFeverMedicationSafety": {
+    "title": "Adult Fever Medication Safety / 成人发热用药安全",
+    "url": "/wiki/concepts/adultfevermedicationsafety/"
+  },
   "AdultIndependenceFromFamily": {
     "title": "Adult Independence From Family",
     "url": "/wiki/concepts/adultindependencefromfamily/"
@@ -12002,6 +12006,10 @@
   "COSMOPlat": {
     "title": "COSMOPlat / 卡奥斯",
     "url": "/wiki/entities/cosmoplat/"
+  },
+  "COVIDAntiviralRiskBenefitBoundary": {
+    "title": "COVID Antiviral Risk-Benefit Boundary / 新冠抗病毒药风险收益边界",
+    "url": "/wiki/concepts/covidantiviralriskbenefitboundary/"
   },
   "COVIDOriginsInvestigationUncertainty": {
     "title": "COVID Origins Investigation Uncertainty",
@@ -88050,6 +88058,10 @@
   "vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1": {
     "title": "Vol. 169 高考只是个开始，Don’t Waste Your Life",
     "url": "/wiki/sources/vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1/"
+  },
+  "vol-17-jizhen-weizhongbingke-yangkang-de-jizhen-yisheng-liao-xinguan-zhi-yongyao-wuqu-dui-azifuding-he-paxlovid-de-jinshen-taidu-lqdru5slonvj7tu2rmhjlf0vlnzx": {
+    "title": "VOL.17急诊危重病科｜阳康的急诊医生聊新冠之用药误区｜对阿兹夫定和Paxlovid的谨慎态度",
+    "url": "/wiki/sources/vol-17-jizhen-weizhongbingke-yangkang-de-jizhen-yisheng-liao-xinguan-zhi-yongyao-wuqu-dui-azifuding-he-paxlovid-de-jinshen-taidu-lqdru5slonvj7tu2rmhjlf0vlnzx/"
   },
   "vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1": {
     "title": "Vol. 170 Fable 5 重出江湖，GPT 仍需努力",

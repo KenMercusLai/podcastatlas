@@ -5907,6 +5907,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/adoptivelineageritualpolitics/"
     },
+    "AdultFeverMedicationSafety": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lqDRU5sLoNVJ7tu2RMHJlf0vLnZX [lqDRU5sLoNVJ7tu2RMHJlf0vLnZX].md",
+          "key": "vol-17-jizhen-weizhongbingke-yangkang-de-jizhen-yisheng-liao-xinguan-zhi-yongyao-wuqu-dui-azifuding-he-paxlovid-de-jinshen-taidu-lqdru5slonvj7tu2rmhjlf0vlnzx",
+          "show": "这病说来话长",
+          "title": "VOL.17急诊危重病科｜阳康的急诊医生聊新冠之用药误区｜对阿兹夫定和Paxlovid的谨慎态度",
+          "url": "/wiki/sources/vol-17-jizhen-weizhongbingke-yangkang-de-jizhen-yisheng-liao-xinguan-zhi-yongyao-wuqu-dui-azifuding-he-paxlovid-de-jinshen-taidu-lqdru5slonvj7tu2rmhjlf0vlnzx/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/adultfevermedicationsafety/"
+    },
     "AdultNappingSleepPressure": {
       "episode_count": 1,
       "show_count": 1,
@@ -11837,9 +11853,9 @@
       "url": "/wiki/concepts/antihypertensivemedicationadherence/"
     },
     "AntimicrobialResistance": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "I, robot？ AI and consciousness [6a880840b0d5e24ea40c7015].md",
@@ -11861,6 +11877,13 @@
           "show": "这病说来话长",
           "title": "VOL.20儿科｜听林医生讲宝宝的发热、外伤、心理、疫苗的那些误区和判断常识｜台湾地区就诊现状",
           "url": "/wiki/sources/vol-20-erke-ting-lin-yisheng-jiang-baobao-de-fare-waishang-xinli-yimiao-de-naxie-wuqu-he-panduan-changshi-taiwan-diqu-jiuzhen-xianzhuang-lmpxj193ifwfm0x-uxmjsan1a-m5/"
+        },
+        {
+          "episode_file": "lqDRU5sLoNVJ7tu2RMHJlf0vLnZX [lqDRU5sLoNVJ7tu2RMHJlf0vLnZX].md",
+          "key": "vol-17-jizhen-weizhongbingke-yangkang-de-jizhen-yisheng-liao-xinguan-zhi-yongyao-wuqu-dui-azifuding-he-paxlovid-de-jinshen-taidu-lqdru5slonvj7tu2rmhjlf0vlnzx",
+          "show": "这病说来话长",
+          "title": "VOL.17急诊危重病科｜阳康的急诊医生聊新冠之用药误区｜对阿兹夫定和Paxlovid的谨慎态度",
+          "url": "/wiki/sources/vol-17-jizhen-weizhongbingke-yangkang-de-jizhen-yisheng-liao-xinguan-zhi-yongyao-wuqu-dui-azifuding-he-paxlovid-de-jinshen-taidu-lqdru5slonvj7tu2rmhjlf0vlnzx/"
         }
       ],
       "updated": "2026-09-29",
@@ -22508,6 +22531,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/codis/"
+    },
+    "COVIDAntiviralRiskBenefitBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lqDRU5sLoNVJ7tu2RMHJlf0vLnZX [lqDRU5sLoNVJ7tu2RMHJlf0vLnZX].md",
+          "key": "vol-17-jizhen-weizhongbingke-yangkang-de-jizhen-yisheng-liao-xinguan-zhi-yongyao-wuqu-dui-azifuding-he-paxlovid-de-jinshen-taidu-lqdru5slonvj7tu2rmhjlf0vlnzx",
+          "show": "这病说来话长",
+          "title": "VOL.17急诊危重病科｜阳康的急诊医生聊新冠之用药误区｜对阿兹夫定和Paxlovid的谨慎态度",
+          "url": "/wiki/sources/vol-17-jizhen-weizhongbingke-yangkang-de-jizhen-yisheng-liao-xinguan-zhi-yongyao-wuqu-dui-azifuding-he-paxlovid-de-jinshen-taidu-lqdru5slonvj7tu2rmhjlf0vlnzx/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/covidantiviralriskbenefitboundary/"
     },
     "COVIDOriginsInvestigationUncertainty": {
       "episode_count": 1,
@@ -114115,9 +114154,9 @@
       "url": "/wiki/concepts/medicaltraineepsychosocialsafety/"
     },
     "MedicationSelfCombinationRisk": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lneMOgQ8gB9o3E2835jvtFX3EMiy [lneMOgQ8gB9o3E2835jvtFX3EMiy].md",
@@ -114125,6 +114164,13 @@
           "show": "这病说来话长",
           "title": "VOL.222熬夜心跳狂飙是猝死前兆？AED会“电错”活人？带你避开致命常识｜世界急救日特辑",
           "url": "/wiki/sources/vol-222-aoye-xintiao-kuangbiao-shi-cusi-qianzhao-aed-hui-dian-cuo-huoren-dai-ni-bikai-zhiming-changshi-shijie-jijiu-ri-teji-lnemogq8gb9o3e2835jvtfx3emiy/"
+        },
+        {
+          "episode_file": "lqDRU5sLoNVJ7tu2RMHJlf0vLnZX [lqDRU5sLoNVJ7tu2RMHJlf0vLnZX].md",
+          "key": "vol-17-jizhen-weizhongbingke-yangkang-de-jizhen-yisheng-liao-xinguan-zhi-yongyao-wuqu-dui-azifuding-he-paxlovid-de-jinshen-taidu-lqdru5slonvj7tu2rmhjlf0vlnzx",
+          "show": "这病说来话长",
+          "title": "VOL.17急诊危重病科｜阳康的急诊医生聊新冠之用药误区｜对阿兹夫定和Paxlovid的谨慎态度",
+          "url": "/wiki/sources/vol-17-jizhen-weizhongbingke-yangkang-de-jizhen-yisheng-liao-xinguan-zhi-yongyao-wuqu-dui-azifuding-he-paxlovid-de-jinshen-taidu-lqdru5slonvj7tu2rmhjlf0vlnzx/"
         }
       ],
       "updated": "2026-09-09",
@@ -114593,9 +114639,9 @@
       "url": "/wiki/entities/menelikii/"
     },
     "MengDoctorFeverClinic": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "li1aXA3xcD_jEa6LAUylj9cfjpwf [li1aXA3xcD_jEa6LAUylj9cfjpwf].md",
@@ -114610,6 +114656,13 @@
           "show": "这病说来话长",
           "title": "VOL.18急诊危重病科｜突发运动损伤的院前急救和CPR流程",
           "url": "/wiki/sources/vol-18-jizhen-weizhongbingke-tufa-yundong-sunshang-de-yuanqian-jijiu-he-cpr-liucheng-lsdfg_wubb1qdmi_boh8lvulyr-1/"
+        },
+        {
+          "episode_file": "lqDRU5sLoNVJ7tu2RMHJlf0vLnZX [lqDRU5sLoNVJ7tu2RMHJlf0vLnZX].md",
+          "key": "vol-17-jizhen-weizhongbingke-yangkang-de-jizhen-yisheng-liao-xinguan-zhi-yongyao-wuqu-dui-azifuding-he-paxlovid-de-jinshen-taidu-lqdru5slonvj7tu2rmhjlf0vlnzx",
+          "show": "这病说来话长",
+          "title": "VOL.17急诊危重病科｜阳康的急诊医生聊新冠之用药误区｜对阿兹夫定和Paxlovid的谨慎态度",
+          "url": "/wiki/sources/vol-17-jizhen-weizhongbingke-yangkang-de-jizhen-yisheng-liao-xinguan-zhi-yongyao-wuqu-dui-azifuding-he-paxlovid-de-jinshen-taidu-lqdru5slonvj7tu2rmhjlf0vlnzx/"
         }
       ],
       "updated": "2026-09-29",

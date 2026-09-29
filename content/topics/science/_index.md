@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1319
+topic_total_pages: 1321
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -37,6 +37,9 @@ topic_concepts:
   - key: "AdolescentAlienationRecognition"
     title: "Adolescent Alienation Recognition"
     url: "/wiki/concepts/adolescentalienationrecognition/"
+  - key: "AdultFeverMedicationSafety"
+    title: "Adult Fever Medication Safety / 成人发热用药安全"
+    url: "/wiki/concepts/adultfevermedicationsafety/"
   - key: "AdvancedMarketCommitment"
     title: "Advanced Market Commitment"
     url: "/wiki/concepts/advancedmarketcommitment/"
@@ -481,6 +484,9 @@ topic_concepts:
   - key: "CountertransferenceBoundaryRisk"
     title: "Countertransference Boundary Risk"
     url: "/wiki/concepts/countertransferenceboundaryrisk/"
+  - key: "COVIDAntiviralRiskBenefitBoundary"
+    title: "COVID Antiviral Risk-Benefit Boundary / 新冠抗病毒药风险收益边界"
+    url: "/wiki/concepts/covidantiviralriskbenefitboundary/"
   - key: "CPRAEDResponseBoundary"
     title: "CPR/AED Response Boundary / 心肺复苏与AED使用边界"
     url: "/wiki/concepts/cpraedresponseboundary/"

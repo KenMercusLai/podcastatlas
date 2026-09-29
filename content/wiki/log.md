@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-29] ingest | VOL.17急诊危重病科｜阳康的急诊医生聊新冠之用药误区｜对阿兹夫定和Paxlovid的谨慎态度
+
+Added source `vol-17-jizhen-weizhongbingke-yangkang-de-jizhen-yisheng-liao-xinguan-zhi-yongyao-wuqu-dui-azifuding-he-paxlovid-de-jinshen-taidu-lqdru5slonvj7tu2rmhjlf0vlnzx`; created `AdultFeverMedicationSafety` and `COVIDAntiviralRiskBenefitBoundary`; and updated `MengDoctorFeverClinic`, `MedicationSelfCombinationRisk`, `AntimicrobialResistance`, the canonical index, and overview from their complete bounded source sets. Core synthesis: fever and respiratory-infection medicines require patient context, active-ingredient literacy, diagnostic support, timing, indication, and adverse-effect review rather than copied experience, reassurance-driven antibiotics, or belief in a new “miracle drug.” No settled contradiction was adopted. The 38.5°C threshold, cooling method, named-drug effects, azvudine and Paxlovid judgments, heart-rate examples, and other treatment specifics remain source-scoped January 2023 public education rather than current individualized guidance. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
 ## [2026-09-29] ingest | Daniel Ek: Life After Spotify, Broken Healthcare Incentives, Catching Disease Early & AI's Potential
 
 Added source `all-in-with-chamath-jason-sacks-friedberg-daniel-ek-life-after-spotify-broken-healthcare-incentives-catching-di`; created `DanielEk`, `NekoHealth`, `HjalmarNilsonne`, `PrimaMateria`, `HealthcarePayerHorizonMismatch`, and `LongitudinalMultimodalScreening`; and updated `Spotify`, `PreventiveHealthScreening`, `PreventiveCareCostSavingsUncertainty`, and the canonical index from their complete bounded source sets. Core synthesis: Neko's integrated laboratory, imaging, functional, wearable, AI-triage, and clinician-review workflow is a promising longitudinal product design but not yet proof of population benefit or system-level savings; employment-linked insurer turnover can underfund prevention whose returns arrive after a member leaves. No settled contradiction was adopted. Scan volume, detection rate, behavior change, profitability, clinical-trial count, expansion, and cost claims remain founder-reported and source-scoped, while false positives, overdiagnosis, affordability, privacy, representativeness, and downstream burden remain open qualifications. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -25259,6 +25263,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-29] ingest | 296: The Nazis: The Beer Hall Putsch (Part 2)
 
 Added source `296-the-nazis-the-beer-hall-putsch-part-2-glt4099180386`; created `BeerHallPutsch`, `GustavStresemann`, `ErichLudendorff`, `MeinKampf`, and `GregorStrasser`; and updated `AdolfHitler`, `PaulVonHindenburg`, `FriedrichEbert`, `WeimarRepublic`, `LegalCoerciveDictatorshipConsolidation`, and the canonical index from their complete bounded source sets. Core synthesis: Weimar's defeat, hostile institutions, emergency authority, paramilitary violence, and hyperinflation created deep vulnerability without making collapse inevitable; Stresemann stabilized the 1923 crisis, while Hitler converted the failed putsch into trial publicity, prison-era ideological and leadership consolidation, and a strategic turn toward destroying democracy through democratic mechanisms. No settled contradiction was adopted. Inflation and decree figures, reported dialogue, private motives, social-group generalizations, trial details, and counterfactual claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-29] lint | Wiki health check
 
