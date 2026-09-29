@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3218
+topic_total_pages: 3219
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -9441,6 +9441,9 @@ topic_sources:
   - key: "yushi-zhuan-shen-xiang-jushen-zouqu-duitan-wangjiawei-24-sui-de-jushen-zhineng-shouxi-kexuejia-litrgtfozrerillt7mtumknilr"
     title: "于是转身向具身走去｜对话王家伟：24 岁的具身智能首席科学家"
     url: "/wiki/sources/yushi-zhuan-shen-xiang-jushen-zouqu-duitan-wangjiawei-24-sui-de-jushen-zhineng-shouxi-kexuejia-litrgtfozrerillt7mtumknilr/"
+  - key: "jingdong-kaichu-gouwuzhongxin-weilai-yu-jili-tuijin-chongdian-huandian-hezuo-1019779523"
+    title: "京东开出购物中心，蔚来与吉利推进充电换电合作"
+    url: "/wiki/sources/jingdong-kaichu-gouwuzhongxin-weilai-yu-jili-tuijin-chongdian-huandian-hezuo-1019779523/"
   - key: "renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o"
     title: "人类和 AI Agent 的最佳配合方式，还没被发明｜对谈 Paperboy"
     url: "/wiki/sources/renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o/"

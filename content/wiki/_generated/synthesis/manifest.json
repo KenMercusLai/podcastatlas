@@ -1,8 +1,8 @@
 {
   "content_date": "2026-09-29",
   "corpus": {
-    "episode_count": 3163,
-    "source_count": 3163
+    "episode_count": 3164,
+    "source_count": 3164
   },
   "generated": true,
   "global": {
@@ -21,7 +21,7 @@
       "work-education-and-society"
     ]
   },
-  "overview_commit": "a70db65e2e7c2d4d598334ff2798363de0e4a210",
+  "overview_commit": "2f8b28c2c06747e1fec471fe5124ff67fda57514",
   "overview_digest": "c5f4eaea91223129007b2564ee7a5fd17982b498dc8f0bd77e8feab50e0e29c9",
   "paragraph_count": 768,
   "schema_version": 1,

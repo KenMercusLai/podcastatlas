@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2913
+topic_total_pages: 2914
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -8676,6 +8676,9 @@ topic_sources:
   - key: "yu-duan-zhiqiang-tan-chongming-xiangye-bowuzhi-wo-zhu-changjiang-wei-8212963740-775078"
     title: "与段志强谈崇明乡野博物志：《我住长江尾》"
     url: "/wiki/sources/yu-duan-zhiqiang-tan-chongming-xiangye-bowuzhi-wo-zhu-changjiang-wei-8212963740-775078/"
+  - key: "jingdong-kaichu-gouwuzhongxin-weilai-yu-jili-tuijin-chongdian-huandian-hezuo-1019779523"
+    title: "京东开出购物中心，蔚来与吉利推进充电换电合作"
+    url: "/wiki/sources/jingdong-kaichu-gouwuzhongxin-weilai-yu-jili-tuijin-chongdian-huandian-hezuo-1019779523/"
   - key: "jiaqi-moyu-geng-jiankang-574391976"
     title: "假期摸鱼更健康"
     url: "/wiki/sources/jiaqi-moyu-geng-jiankang-574391976/"

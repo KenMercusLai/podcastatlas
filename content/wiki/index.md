@@ -3205,6 +3205,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe](sources/use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim4085406904.md) — Full Huberman Lab interview on sleep-stage function, slow-wave restoration, REM emotional-memory processing, locus-coeruleus regulation, nightmares, and opioid-withdrawal sleep disruption.
 
 - [Vol.354 宛如泰坦尼克：冒充者综合征大爆发！献给才华平平但野心勃勃的人](sources/vol-354-wanru-taitannike-maochongzhe-zonghezheng-dabaofa-xiangei-caihua-pingping-dan-yexin-bobo-de-ren-gkwrirwokgwgauo05wtfda-h.md) — 文化有限 episode on Sounds Like Titanic, fake musical performance, impostor feelings, effort narratives, workplace conformity, and audience perfection pressure.
+- [京东开出购物中心，蔚来与吉利推进充电换电合作](sources/jingdong-kaichu-gouwuzhongxin-weilai-yu-jili-tuijin-chongdian-huandian-hezuo-1019779523.md) — 声动早咖啡 episode on NIO–Geely charging and battery-swap collaboration, JD's physical-retail and rapid-delivery experiments, and brief updates on visitor payments, patents, restaurants, variety rights, football, festival streaming, and celebrity-IP retail.
 
 ## Entities
 - [咪仔 / Mizi](entities/MiziCrimePodcaster.md) — Journalist-trained crime podcaster combining vocal skill, nonfiction verification, audio composition, payment ethics, and vulnerable creator practice.

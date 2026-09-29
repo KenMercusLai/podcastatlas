@@ -17087,6 +17087,29 @@
       "updated": "2026-09-15",
       "url": "/wiki/concepts/batterysupplierdiversification/"
     },
+    "BatterySwapInfrastructure": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "143. 🚗「蔚小理」的高端探索 ｜ 疯投圈 (1) [143-1].md",
+          "key": "143-wei-xiao-li-de-gaoduan-tansuo-feng-tou-quan-1-143-1",
+          "show": "疯投圈",
+          "title": "143. 「蔚小理」的高端探索",
+          "url": "/wiki/sources/143-wei-xiao-li-de-gaoduan-tansuo-feng-tou-quan-1-143-1/"
+        },
+        {
+          "episode_file": "京东开出购物中心，蔚来与吉利推进充电换电合作 [1019779523].md",
+          "key": "jingdong-kaichu-gouwuzhongxin-weilai-yu-jili-tuijin-chongdian-huandian-hezuo-1019779523",
+          "show": "声动早咖啡",
+          "title": "京东开出购物中心，蔚来与吉利推进充电换电合作",
+          "url": "/wiki/sources/jingdong-kaichu-gouwuzhongxin-weilai-yu-jili-tuijin-chongdian-huandian-hezuo-1019779523/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/batteryswapinfrastructure/"
+    },
     "BattleOfAgincourt": {
       "episode_count": 3,
       "show_count": 1,
@@ -67478,6 +67501,36 @@
       "updated": "2026-09-14",
       "url": "/wiki/entities/gejianxiong/"
     },
+    "GeelyAutomobile": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "汽水音乐冲击腾讯、网易，特斯拉等车企在国内开展大规模召回 [1008396395].md",
+          "key": "qishui-yinyue-chongji-tengxun-wangyi-tesila-deng-cheqi-zai-guonei-kaizhan-daguimo-zhaohui-1008396395",
+          "show": "声动早咖啡",
+          "title": "汽水音乐冲击腾讯、网易，特斯拉等车企在国内开展大规模召回",
+          "url": "/wiki/sources/qishui-yinyue-chongji-tengxun-wangyi-tesila-deng-cheqi-zai-guonei-kaizhan-daguimo-zhaohui-1008396395/"
+        },
+        {
+          "episode_file": "不爱直播带货的欧美消费者，为何在这家平台上大把花钱？ [1007104138].md",
+          "key": "buai-zhibo-daihuo-de-oumei-xiaofeizhe-weihe-zai-zhejia-pingtai-shang-daba-huaqian-1007104138",
+          "show": "声动早咖啡",
+          "title": "不爱直播带货的欧美消费者，为何在 Whatnot 上大把花钱？",
+          "url": "/wiki/sources/buai-zhibo-daihuo-de-oumei-xiaofeizhe-weihe-zai-zhejia-pingtai-shang-daba-huaqian-1007104138/"
+        },
+        {
+          "episode_file": "京东开出购物中心，蔚来与吉利推进充电换电合作 [1019779523].md",
+          "key": "jingdong-kaichu-gouwuzhongxin-weilai-yu-jili-tuijin-chongdian-huandian-hezuo-1019779523",
+          "show": "声动早咖啡",
+          "title": "京东开出购物中心，蔚来与吉利推进充电换电合作",
+          "url": "/wiki/sources/jingdong-kaichu-gouwuzhongxin-weilai-yu-jili-tuijin-chongdian-huandian-hezuo-1019779523/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/geelyautomobile/"
+    },
     "Gele": {
       "episode_count": 1,
       "show_count": 1,
@@ -89762,9 +89815,9 @@
       "url": "/wiki/entities/jandtexpress/"
     },
     "JDCom": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 4,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "Vans、匡威风光不再，经典帆布鞋为什么卖不动了？ [1006742982].md",
@@ -89793,9 +89846,16 @@
           "show": "Economist Podcasts",
           "title": "Bots on the ground: China leads humanoid race",
           "url": "/wiki/sources/bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf/"
+        },
+        {
+          "episode_file": "京东开出购物中心，蔚来与吉利推进充电换电合作 [1019779523].md",
+          "key": "jingdong-kaichu-gouwuzhongxin-weilai-yu-jili-tuijin-chongdian-huandian-hezuo-1019779523",
+          "show": "声动早咖啡",
+          "title": "京东开出购物中心，蔚来与吉利推进充电换电合作",
+          "url": "/wiki/sources/jingdong-kaichu-gouwuzhongxin-weilai-yu-jili-tuijin-chongdian-huandian-hezuo-1019779523/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-09-29",
       "url": "/wiki/entities/jdcom/"
     },
     "JDTippit": {
@@ -120529,9 +120589,9 @@
       "url": "/wiki/entities/nhs/"
     },
     "NIO": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "No.211 徽商往事：从前世不修到最牛风投 [1002275189].md",
@@ -120553,9 +120613,16 @@
           "show": "声动早咖啡",
           "title": "戴森进入电动牙刷领域，传统金店加盟持续收缩",
           "url": "/wiki/sources/daisen-jinru-diandong-yashua-lingyu-chuantong-jindian-jiameng-chixu-shousuo-1010976825/"
+        },
+        {
+          "episode_file": "京东开出购物中心，蔚来与吉利推进充电换电合作 [1019779523].md",
+          "key": "jingdong-kaichu-gouwuzhongxin-weilai-yu-jili-tuijin-chongdian-huandian-hezuo-1019779523",
+          "show": "声动早咖啡",
+          "title": "京东开出购物中心，蔚来与吉利推进充电换电合作",
+          "url": "/wiki/sources/jingdong-kaichu-gouwuzhongxin-weilai-yu-jili-tuijin-chongdian-huandian-hezuo-1019779523/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-29",
       "url": "/wiki/entities/nio/"
     },
     "NagasakiAtomicBombing": {

@@ -24862,7 +24862,6 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
-
 ## [2026-09-29] ingest | 298: The Nazis: Total Power (Part 4)
 
 Added source `298-the-nazis-total-power-part-4-glt6097237943`; created `MarinusVanDerLubbe`, `ReichstagFire1933`, `ReichstagFireDecree`, `EnablingAct1933`, and `LegalCoerciveDictatorshipConsolidation`; and updated the canonical index. Core synthesis: Hitler's 1933 dictatorship emerged by making formal elections, emergency decree, and legislative procedure operate together with captured police, paramilitary violence, opposition exclusion, conservative accommodation, and destruction of independent institutions. No settled contradiction was adopted. The episode's lone-actor fire judgment, arrest and crowd totals, counterfactual stopping points, private motives, broad ideological comparisons, and modern analogies remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -25306,6 +25305,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-29] ingest | How to Access Your Creativity | Rick Rubin
 
 Added source `how-to-access-your-creativity-rick-rubin-scim6664103159`; updated `RickRubin`, `CreativityAsFeltProcess`, `CreativePhaseSeparation`, `CreativeReceptivityAndIdeaCapture`, `SubconsciousCreativeIncubation`, `SelfDoubtAsCreativeCheck`, `ArtisticFeedbackBoundary`, `AwarenessMeditationStoryDropping`, `CreativeApertureShift`, `OutcomeIndependentCreativePractice`, and the canonical index from their complete bounded source sets. Core synthesis: creative work combines receptive attention and felt taste with productive constraints, direct experimentation, phase-appropriate deadlines, deliberate disengagement, and commitment to finish; outside response remains information rather than final authority, while perception and meditation can expose habitual stories and filters. No settled contradiction was adopted. Claims about a universal creative source, subconscious causation, belief, meditation, and unconventional health approaches remain philosophical, experiential, or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten because existing canonical concepts already cover the episode's themes.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | 京东开出购物中心，蔚来与吉利推进充电换电合作
+
+Added source `jingdong-kaichu-gouwuzhongxin-weilai-yu-jili-tuijin-chongdian-huandian-hezuo-1019779523`; updated `NIO`, `GeelyAutomobile`, `JDCom`, `BatterySwapInfrastructure`, and the canonical index from their complete bounded source sets. Core synthesis: the reported NIO–Geely cross-investment treats partner vehicle volume and reciprocal charging access as ways to improve infrastructure utilization while faster charging narrows swapping's pure speed advantage; JD's new physical formats test whether in-person discovery, online assortment, and rapid fulfillment can reinforce one another, but store operation and replication remain unproven. No settled contradiction was adopted. Transaction terms, rollout plans, financial and legal figures, store economics, and the unresolved Manchester City proceeding remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
 
 ## [2026-09-29] lint | Wiki health check
 
