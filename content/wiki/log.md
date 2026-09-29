@@ -25482,3 +25482,11 @@ Added source `how-to-become-resilient-forge-your-identity-lead-others-jocko-will
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | 289: Drink — Britain’s Empire of Booze
+
+Added source `289-drink-glt6408276244`; created `HenryJeffreys`, `EmpireOfBooze`, and `BritishDrinkMarketFormation`; expanded `WinePrestigeClassificationSystem` from its complete bounded two-source set; and updated the canonical index and overview. Core synthesis: Britain’s purchasing power, merchant networks, bottle and barrel technology, taxation, diplomacy, consumer tastes, and branding helped reshape champagne, claret, port, sherry, Marsala, and blended Scotch without displacing producer-region agency. No settled contradiction was adopted; the bottle-technology and Haut-Brion branches corroborate the earlier wine episode, while invention priority, market rankings, consumption anecdotes, fortification motives, and causal weight remain source-scoped.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

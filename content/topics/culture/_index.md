@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2917
+topic_total_pages: 2918
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -3851,6 +3851,9 @@ topic_entities:
   - key: "EmmyAwards"
     title: "Emmy Awards"
     url: "/wiki/entities/emmyawards/"
+  - key: "EmpireOfBooze"
+    title: "Empire of Booze"
+    url: "/wiki/entities/empireofbooze/"
   - key: "EnglandNationalFootballTeam"
     title: "England National Football Team"
     url: "/wiki/entities/englandnationalfootballteam/"

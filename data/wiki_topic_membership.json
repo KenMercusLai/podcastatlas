@@ -1477,6 +1477,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "289-drink-glt6408276244": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "290-2022-a-history-glt4625765030": [
     {
       "key": "history",
@@ -15383,6 +15390,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "BritishDrinkMarketFormation": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "BritishECReferendum1975": [
     {
       "key": "politics",
@@ -27677,6 +27691,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "EmpireOfBooze": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "EmployeeEquityCommunication": [

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 8827
+wiki_total_pages: 8828
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -722,6 +722,9 @@ wiki_pages:
   - key: "BritishDomesticServiceHierarchy"
     title: "British Domestic-Service Hierarchy"
     url: "/wiki/concepts/britishdomesticservicehierarchy/"
+  - key: "BritishDrinkMarketFormation"
+    title: "British Drink Market Formation"
+    url: "/wiki/concepts/britishdrinkmarketformation/"
   - key: "BritishECReferendum1975"
     title: "British EC Referendum 1975"
     url: "/wiki/concepts/britishecreferendum1975/"

@@ -4,8 +4,8 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-09-29
-as_of_overview_commit: d4cd01faba40e047a681f650e894b41f6c7fe9cb
-input_digest: cfd8deb5ffef25eeb52ab85b38736f4c0a1caeaa11c75ea547f5dd778c3803d4
+as_of_overview_commit: 916033383342f205f4d38cd896145b957f38b96d
+input_digest: 6537f2a46dd690df2c001dcb50b29d7b7d020aa989a92845f906a0c053c3a89a
 ---
 
 # History and Geopolitics
@@ -671,3 +671,15 @@ The same campaign supplies a motive-and-consequence pair for the topic: [[Imperi
 - The source is a short creator interview rather than an independent audit of archival accuracy, selection, correction, moderation, follower growth, compensation, or audience learning.
 - Reproducing period misinformation may communicate uncertainty in context but can renew falsehoods when posts are detached or algorithmically recirculated.
 - Reported audience response and engagement do not establish that the format produces better historical understanding than books, documentaries, museums, or conventional timelines.
+
+### British Demand Reshapes Cross Border Drink Styles
+
+[[289-drink-glt6408276244|Britain’s Empire of Booze]] adds [[BritishDrinkMarketFormation]]: strong bottles, barrels, blending, shipping, duties, treaties, merchant selection, affluent demand, and branding helped reshape champagne, claret, port, sherry, Marsala, and blended Scotch across borders, extending [[WinePrestigeClassificationSystem]] without reducing producer regions to passive suppliers.
+
+**Evidence:** [[289-drink-glt6408276244]], [[BritishDrinkMarketFormation]], [[WinePrestigeClassificationSystem]], [[HenryJeffreys]], [[EmpireOfBooze]], [[TheRestIsHistory]], [[666-wine-and-the-birth-of-civilisation-glt1414718476]]
+
+**Qualifications:**
+
+- The episode is a conversational popular-history account rather than a complete technical, commercial, or comparative history of the drinks discussed.
+- British influence does not erase French, Portuguese, Spanish, Italian, or Scottish producer agency, and the episode also identifies Russian, American, French, and wider global demand.
+- Bottle-invention priority, the Dom Pérignon marketing account, export-market rankings, drinking quantities, fortification motives, and single-cause explanations of style change remain source-scoped.

@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2140
+topic_total_pages: 2141
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -463,6 +463,9 @@ topic_concepts:
   - key: "BritishDeindustrialization1970s"
     title: "British Deindustrialization in the 1970s"
     url: "/wiki/concepts/britishdeindustrialization1970s/"
+  - key: "BritishDrinkMarketFormation"
+    title: "British Drink Market Formation"
+    url: "/wiki/concepts/britishdrinkmarketformation/"
   - key: "BrokerageResearchReports"
     title: "Brokerage Research Reports"
     url: "/wiki/concepts/brokerageresearchreports/"

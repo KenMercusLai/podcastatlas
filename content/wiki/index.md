@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [289: Drink — Britain’s Empire of Booze](sources/289-drink-glt6408276244.md) — The Rest Is History episode with Henry Jeffreys on how British technology, trade, policy, taste, and branding shaped champagne, claret, port, sherry, Marsala, and blended Scotch.
 - [How to Become Resilient, Forge Your Identity & Lead Others | Jocko Willink](sources/how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim5755591173.md) — Full Huberman Lab conversation on discipline, energy, intent-led command, detachment, morale, role fit, grief, identity, and bounded resilience practice.
 - [Why one X user is microblogging history in real time](sources/tech-20260929-0929-mp-tech-pod-128-tech-20260929-0929-mp-tech-pod-128.md) — Marketplace Tech profile of Manny Morota's manual, real-time historical feeds, intergenerational memory, misinformation framing, community norms, and trauma-monetization boundary.
 - [504 林行止、《信报》与香港经济黄金年代](sources/504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih.md) — 忽左忽右 retrospective on Lin Xingzhi, the Hong Kong Economic Journal, financial knowledge translation, editorial independence, and founder-to-group media ownership transition.
@@ -3229,6 +3230,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [290: 2022: A History](sources/290-2022-a-history-glt4625765030.md) — The Rest Is History year-end episode on Ukraine as a post-Cold War rupture, European energy dependence, Elizabeth II's death, British political turmoil, and 2022 cultural recommendations.
 
 ## Entities
+- [Henry Jeffreys](entities/HenryJeffreys.md) — Drinks writer explaining Britain’s role in the cross-border formation of wines and spirits.
+- [Empire of Booze](entities/EmpireOfBooze.md) — Henry Jeffreys book framing drink traditions through British demand, trade, technology, and branding.
 - [Manny Morota](entities/MannyMorota.md) — Creator and nonprofit law clerk who manually turns archival reporting into real-time historical news feeds on X.
 - [林行止 / Lin Xingzhi](entities/LinXingzhi.md) — Hong Kong founder-editor who turned economics, policy, and markets into accessible Chinese financial commentary.
 - [《信报》 / Hong Kong Economic Journal](entities/HongKongEconomicJournal.md) — Financial newspaper built as a Chinese-language public-knowledge platform and tested by advertiser and ownership pressure.
@@ -14668,6 +14671,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Auschwitz-Birkenau](entities/AuschwitzBirkenau.md) — Nazi concentration and extermination complex examined through forced labor, confiscation, registration, deception, mass killing, and escapee evidence.
 
 ## Concepts
+- [British Drink Market Formation](concepts/BritishDrinkMarketFormation.md) — Cross-border process through which British demand, merchants, technology, policy, and branding reshaped drinks made elsewhere.
 - [Decentralized Command Leadership](concepts/DecentralizedCommandLeadership.md) — Intent-led operating model that distributes local judgment while preserving doctrine, competence, context, and accountability.
 - [Team Role-Fit Leadership](concepts/TeamRoleFitLeadership.md) — Leadership practice of matching execution, creation, communication, and support responsibilities to demonstrated strengths without fixing people into permanent labels.
 - [Real-Time Historical Reenactment](concepts/RealTimeHistoricalReenactment.md) — Delivery of archival events in unfolding sequence so audiences encounter period uncertainty before retrospective resolution.

@@ -21878,6 +21878,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/concepts/britishdomesticservicehierarchy/"
     },
+    "BritishDrinkMarketFormation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6408276244 [GLT6408276244].md",
+          "key": "289-drink-glt6408276244",
+          "show": "The Rest Is History",
+          "title": "289: Drink — Britain’s Empire of Booze",
+          "url": "/wiki/sources/289-drink-glt6408276244/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/britishdrinkmarketformation/"
+    },
     "BritishECReferendum1975": {
       "episode_count": 2,
       "show_count": 1,
@@ -52896,6 +52912,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/emperorzhiofhan/"
     },
+    "EmpireOfBooze": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6408276244 [GLT6408276244].md",
+          "key": "289-drink-glt6408276244",
+          "show": "The Rest Is History",
+          "title": "289: Drink — Britain’s Empire of Booze",
+          "url": "/wiki/sources/289-drink-glt6408276244/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/empireofbooze/"
+    },
     "EmpireWindrush": {
       "episode_count": 1,
       "show_count": 1,
@@ -78183,6 +78215,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/henryivofengland/"
+    },
+    "HenryJeffreys": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6408276244 [GLT6408276244].md",
+          "key": "289-drink-glt6408276244",
+          "show": "The Rest Is History",
+          "title": "289: Drink — Britain’s Empire of Booze",
+          "url": "/wiki/sources/289-drink-glt6408276244/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/henryjeffreys/"
     },
     "HenryKissinger": {
       "episode_count": 1,
@@ -182166,9 +182214,9 @@
       "url": "/wiki/concepts/wineasagriculturalculture/"
     },
     "WinePrestigeClassificationSystem": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1414718476 [GLT1414718476].md",
@@ -182176,9 +182224,16 @@
           "show": "The Rest Is History",
           "title": "666. Wine and the Birth of Civilisation",
           "url": "/wiki/sources/666-wine-and-the-birth-of-civilisation-glt1414718476/"
+        },
+        {
+          "episode_file": "GLT6408276244 [GLT6408276244].md",
+          "key": "289-drink-glt6408276244",
+          "show": "The Rest Is History",
+          "title": "289: Drink — Britain’s Empire of Booze",
+          "url": "/wiki/sources/289-drink-glt6408276244/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/wineprestigeclassificationsystem/"
     },
     "WineTerroir": {

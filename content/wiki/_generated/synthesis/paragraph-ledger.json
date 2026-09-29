@@ -772,12 +772,13 @@
       "31c7f90fc6543c2884f08949e65e0d7fcbcf87a146de833aad456ad7ff83697a",
       "ee49b7e1f96890360662e93d6add77e0f4431b634664e869d269eb5847eb0c43",
       "ecd765c009d9e3481055e84c4371949d523e299508f403dd64e6b68d48a611f4",
-      "97ddacf9f023b1e5680c7127d46e96f638420591d4635592343ca4adfb26f62c"
+      "97ddacf9f023b1e5680c7127d46e96f638420591d4635592343ca4adfb26f62c",
+      "70e5e81c25e66f1fe8d857b47ca94527789bb83f586564a97e0909e64e3dadf6"
     ],
-    "paragraph_count": 772
+    "paragraph_count": 773
   },
-  "overview_commit": "d216102d39d140b3322396eac58773ba7ea0fe2d",
-  "overview_digest": "ab4ac9722413144dea337e81033762a635df4ca8f48d16b33a2da654fce09243",
+  "overview_commit": "916033383342f205f4d38cd896145b957f38b96d",
+  "overview_digest": "72381bf87a655e943b327c7fc472e3235b3c9df19c3b1906b5ffc504df4dfdf7",
   "paragraphs": [
     {
       "id": "f675edf892ee52d8341ee167bbbc6839c9f97c9569f2233bea485e51c366392c",
@@ -22663,6 +22664,25 @@
         "RealTimeHistoricalReenactment",
         "Twitter",
         "tech-20260929-0929-mp-tech-pod-128-tech-20260929-0929-mp-tech-pod-128"
+      ]
+    },
+    {
+      "id": "70e5e81c25e66f1fe8d857b47ca94527789bb83f586564a97e0909e64e3dadf6",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[289-drink-glt6408276244|289: Drink — Britain’s Empire of Booze]], a [[TheRestIsHistory]] episode with [[HenryJeffreys]] presenting the argument of [[EmpireOfBooze]]. It adds [[BritishDrinkMarketFormation]] and extends [[WinePrestigeClassificationSystem]]. Its core synthesis is that prestigious drinks are cross-border products: strong bottles, barrels, blending, shipping, duties, treaties, merchant selection, affluent demand, and branding helped reshape champagne, claret, port, sherry, Marsala, and blended Scotch without erasing producer-region agency. No settled contradiction is recorded; the English-bottle and Haut-Brion branches corroborate [[666-wine-and-the-birth-of-civilisation-glt1414718476]], while invention priority, historical market rankings, drinking quantities, fortification motives, and single-cause accounts of style change remain source-scoped.",
+      "topic_scores": {
+        "business-and-markets": 1,
+        "history-and-geopolitics": 3
+      },
+      "wikilinks": [
+        "289-drink-glt6408276244",
+        "666-wine-and-the-birth-of-civilisation-glt1414718476",
+        "BritishDrinkMarketFormation",
+        "EmpireOfBooze",
+        "HenryJeffreys",
+        "TheRestIsHistory",
+        "WinePrestigeClassificationSystem"
       ]
     }
   ],

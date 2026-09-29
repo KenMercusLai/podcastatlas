@@ -1,8 +1,8 @@
 {
   "content_date": "2026-09-29",
   "corpus": {
-    "episode_count": 3185,
-    "source_count": 3185
+    "episode_count": 3186,
+    "source_count": 3186
   },
   "generated": true,
   "global": {
@@ -16,12 +16,14 @@
     "output_digest": "4c238956ea5c961361fde250be4dac44351503190d283690fb67c96f740076fc",
     "overview_commit": "d4cd01faba40e047a681f650e894b41f6c7fe9cb",
     "overview_digest": "ab4ac9722413144dea337e81033762a635df4ca8f48d16b33a2da654fce09243",
-    "pending_ingests": 0,
-    "pending_topics": []
+    "pending_ingests": 1,
+    "pending_topics": [
+      "history-and-geopolitics"
+    ]
   },
-  "overview_commit": "d216102d39d140b3322396eac58773ba7ea0fe2d",
-  "overview_digest": "ab4ac9722413144dea337e81033762a635df4ca8f48d16b33a2da654fce09243",
-  "paragraph_count": 772,
+  "overview_commit": "916033383342f205f4d38cd896145b957f38b96d",
+  "overview_digest": "72381bf87a655e943b327c7fc472e3235b3c9df19c3b1906b5ffc504df4dfdf7",
+  "paragraph_count": 773,
   "schema_version": 1,
   "topics": {
     "ai-and-technology": {
@@ -55,9 +57,9 @@
       "title": "Governance and Institutions"
     },
     "history-and-geopolitics": {
-      "claim_digest": "d61b5a783a6f9c8dbc3c8e41010034c710bf288b0cf4b82ed6898817df8c52b7",
-      "input_digest": "cfd8deb5ffef25eeb52ab85b38736f4c0a1caeaa11c75ea547f5dd778c3803d4",
-      "output_digest": "9616ec17796852966e73e1a0be86f26bbf9c7f762cd6ce8cbb602f596a16a1ad",
+      "claim_digest": "656d198dd871fd2f7da6e1ffcbfaf9a6ca33c08a95c051494e4a789eaf2742c6",
+      "input_digest": "6537f2a46dd690df2c001dcb50b29d7b7d020aa989a92845f906a0c053c3a89a",
+      "output_digest": "718617f2da2c6e2e78e27218a59a54f918acb862da1f2331e719a95f9ee3850d",
       "title": "History and Geopolitics"
     },
     "psychology-and-personal-development": {
