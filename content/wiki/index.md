@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Using Meditation to Focus, View Consciousness & Expand Your Mind | Dr. Sam Harris](sources/using-meditation-to-focus-view-consciousness-expand-your-mind-dr-sam-harris-scim3261454307.md) — Full Huberman Lab conversation on non-dual mindfulness, selfing, free will, psychedelics, present-centered goals, social attention, and leaving Twitter.
 - [VOL.11脊柱外科｜在舞台和手术台之间切换自如的摇滚医生](sources/vol-11-jizhuwaike-zai-wutai-he-shoushutai-zhijian-qiehuan-ziru-de-yaogun-yisheng-lsuymbo3py0vfgz6ejw0zie-rqtu.md) — 这病说来话长 profile of spine surgeon and Penicillin musician 马浩宁 on dual-career scheduling, medical-education boundaries, and plural definitions of a good doctor.
 - [VOL.12脊柱外科｜脊柱问题误区排雷｜头晕应先挂耳鼻喉和神内｜高枕无忧实则有隐患](sources/vol-12-jizhuwaike-jizhu-wenti-wuqu-pailei-touyun-ying-xian-gua-erbihou-he-shennei-gaozhen-wuyou-shize-you-yinhuan-lp_jgmo3rovwxsq52re_c6mp_pa6.md) — 这病说来话长 episode with 马浩宁 on dizziness routing, cervical and lumbar symptom interpretation, imaging limits, comfort aids, neurological red flags, and indication-led surgery.
 - [Developing a Rational Approach to Supplementation for Health & Performance](sources/developing-a-rational-approach-to-supplementation-for-health-performance-scim5857890354.md) — Huberman Lab solo episode on foundations-first supplement decisions, single-variable testing, label uncertainty, sleep aids, hormone-active products, cognition tools, and clinical boundaries.

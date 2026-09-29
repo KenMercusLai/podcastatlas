@@ -44304,9 +44304,9 @@
       "url": "/wiki/concepts/digitalmemorydefault/"
     },
     "DigitalMinimalism": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM6504498504 [SCIM6504498504].md",
@@ -44314,9 +44314,16 @@
           "show": "Huberman Lab",
           "title": "How to Enhance Focus and Improve Productivity | Dr. Cal Newport",
           "url": "/wiki/sources/how-to-enhance-focus-and-improve-productivity-dr-cal-newport-scim6504498504/"
+        },
+        {
+          "episode_file": "SCIM3261454307 [SCIM3261454307].md",
+          "key": "using-meditation-to-focus-view-consciousness-expand-your-mind-dr-sam-harris-scim3261454307",
+          "show": "Huberman Lab",
+          "title": "Using Meditation to Focus, View Consciousness & Expand Your Mind | Dr. Sam Harris",
+          "url": "/wiki/sources/using-meditation-to-focus-view-consciousness-expand-your-mind-dr-sam-harris-scim3261454307/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/digitalminimalism/"
     },
     "DigitalOlfaction": {
@@ -64377,6 +64384,36 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/freespeechcoalitionvpaxton/"
+    },
+    "FreeWill": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "EP256 AI时代,“自由意志”还存在吗？ [lk9AcI8oqNwerk26JY683NbDddCX].md",
+          "key": "ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx",
+          "show": "Talk三联",
+          "title": "EP256 AI时代，“自由意志”还存在吗？",
+          "url": "/wiki/sources/ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx/"
+        },
+        {
+          "episode_file": "104.你一生的故事：终点已经注定，还要出发吗？ [739384680].md",
+          "key": "104-ni-yisheng-de-gushi-zhongdian-yijing-zhuding-haiyao-chufa-ma-739384680",
+          "show": "蜜獾吃书",
+          "title": "104.你一生的故事：终点已经注定，还要出发吗？",
+          "url": "/wiki/sources/104-ni-yisheng-de-gushi-zhongdian-yijing-zhuding-haiyao-chufa-ma-739384680/"
+        },
+        {
+          "episode_file": "SCIM3261454307 [SCIM3261454307].md",
+          "key": "using-meditation-to-focus-view-consciousness-expand-your-mind-dr-sam-harris-scim3261454307",
+          "show": "Huberman Lab",
+          "title": "Using Meditation to Focus, View Consciousness & Expand Your Mind | Dr. Sam Harris",
+          "url": "/wiki/sources/using-meditation-to-focus-view-consciousness-expand-your-mind-dr-sam-harris-scim3261454307/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/freewill/"
     },
     "Freemasonry": {
       "episode_count": 1,
@@ -124050,9 +124087,9 @@
       "url": "/wiki/concepts/nonalgorithmiccapabilities/"
     },
     "NonDualMindfulness": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7293799235 [SCIM7293799235].md",
@@ -124060,9 +124097,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Using Meditation to Focus, View Consciousness & Expand Your Mind | Dr. Sam Harris",
           "url": "/wiki/sources/essentials-using-meditation-to-focus-view-consciousness-expand-your-mind-dr-sam-harris-scim7293799235/"
+        },
+        {
+          "episode_file": "SCIM3261454307 [SCIM3261454307].md",
+          "key": "using-meditation-to-focus-view-consciousness-expand-your-mind-dr-sam-harris-scim3261454307",
+          "show": "Huberman Lab",
+          "title": "Using Meditation to Focus, View Consciousness & Expand Your Mind | Dr. Sam Harris",
+          "url": "/wiki/sources/using-meditation-to-focus-view-consciousness-expand-your-mind-dr-sam-harris-scim3261454307/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/nondualmindfulness/"
     },
     "NonInstrumentalRelationalSafety": {
@@ -138746,9 +138790,9 @@
       "url": "/wiki/concepts/psychedelicintegration/"
     },
     "PsychedelicOrdinaryFreedom": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7293799235 [SCIM7293799235].md",
@@ -138756,9 +138800,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Using Meditation to Focus, View Consciousness & Expand Your Mind | Dr. Sam Harris",
           "url": "/wiki/sources/essentials-using-meditation-to-focus-view-consciousness-expand-your-mind-dr-sam-harris-scim7293799235/"
+        },
+        {
+          "episode_file": "SCIM3261454307 [SCIM3261454307].md",
+          "key": "using-meditation-to-focus-view-consciousness-expand-your-mind-dr-sam-harris-scim3261454307",
+          "show": "Huberman Lab",
+          "title": "Using Meditation to Focus, View Consciousness & Expand Your Mind | Dr. Sam Harris",
+          "url": "/wiki/sources/using-meditation-to-focus-view-consciousness-expand-your-mind-dr-sam-harris-scim3261454307/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/psychedelicordinaryfreedom/"
     },
     "PsychedelicTherapyMechanism": {
@@ -149253,9 +149304,9 @@
       "url": "/wiki/entities/samdatasciencewithsam/"
     },
     "SamHarris": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7293799235 [SCIM7293799235].md",
@@ -149263,9 +149314,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Using Meditation to Focus, View Consciousness & Expand Your Mind | Dr. Sam Harris",
           "url": "/wiki/sources/essentials-using-meditation-to-focus-view-consciousness-expand-your-mind-dr-sam-harris-scim7293799235/"
+        },
+        {
+          "episode_file": "SCIM3261454307 [SCIM3261454307].md",
+          "key": "using-meditation-to-focus-view-consciousness-expand-your-mind-dr-sam-harris-scim3261454307",
+          "show": "Huberman Lab",
+          "title": "Using Meditation to Focus, View Consciousness & Expand Your Mind | Dr. Sam Harris",
+          "url": "/wiki/sources/using-meditation-to-focus-view-consciousness-expand-your-mind-dr-sam-harris-scim3261454307/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-09-29",
       "url": "/wiki/entities/samharris/"
     },
     "SamSachs": {
