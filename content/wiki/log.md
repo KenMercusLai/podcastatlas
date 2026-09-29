@@ -25586,3 +25586,11 @@ Added source `default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-30] ingest | VOL.02影像科｜那些患者不想说的体内异物或致命｜喝醋能否软化被误吞的鱼刺｜要不要经常掏耳朵
+
+Added source `vol-02-yingxiangke-naxie-huanzhe-buxiang-shuo-de-tinei-yiwu-huo-zhiming-hecu-nengfou-ruanhua-bei-wutun-de-yuci-yaobuyao-jingchang-tao-erduo-lnflf1c5kthpz_8arhb2vux0b2zk`; expanded `FishBoneForeignBodyCare`, `GastrointestinalForeignBodyEscalation`, `GenitourinaryForeignBodyEscalation`, `EarCleaningTraumaRisk`, and `ClinicalHistoryDisclosure` from their complete bounded source sets. Core synthesis: present comfort does not exclude downstream foreign-body danger; object shape, location, migration, trauma, swelling, and perforation risk justify qualified assessment, while folk remedies, improvised insertion or extraction, shame-driven delay, and inaccurate history can worsen care. No settled contradiction was adopted. Object-specific removal, imaging, endoscopy, surgery, psychiatric interpretation, and ear-care details remain source-scoped public education rather than individualized guidance. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

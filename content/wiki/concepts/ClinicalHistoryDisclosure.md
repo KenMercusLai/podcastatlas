@@ -4,7 +4,8 @@ type: concept
 tags: [healthcare, patient-safety, doctor-patient-communication, diagnosis, anesthesia]
 sources:
   - vol-131-yisheng-qing-huida-ni-ruguo-yinman-bingshi-yisheng-zhende-bu-zhidao-ma-lg-a6kjqu-s1lk8uu1fapb763xzq
-last_updated: 2026-09-23
+  - vol-02-yingxiangke-naxie-huanzhe-buxiang-shuo-de-tinei-yiwu-huo-zhiming-hecu-nengfou-ruanhua-bei-wutun-de-yuci-yaobuyao-jingchang-tao-erduo-lnflf1c5kthpz_8arhb2vux0b2zk
+last_updated: 2026-09-30
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,6 +19,8 @@ VOL.131 frames concealed history as a loss of diagnostic time and safety rather 
 
 The highest-consequence branch is anesthesia and procedural care. A fact that seems embarrassing or minor to the patient may change drug choice, airway planning, monitoring, fasting assessment, or whether a procedure can safely proceed. The episode pairs this duty to disclose with a professional privacy expectation: relevant information should be used for care, not casually exposed.
 
+VOL.02 adds a shame-sensitive foreign-body branch. A fabricated accident story does not erase the object visible on examination or imaging, but it can obscure the route, timing, material, attempted extraction, and likelihood of injury. Those facts can affect anatomical assessment and removal planning, so clinicians should verify evidence without turning embarrassment into ridicule.
+
 ## Key Claims
 - Accurate history can shorten the path from uncertainty to treatment.
 - Clinicians compare the patient's account with examination, tests, disease pattern, records, and family information rather than relying on one narrative in isolation.
@@ -25,6 +28,7 @@ The highest-consequence branch is anesthesia and procedural care. A fact that se
 - Concealment from anesthesiology can create disproportionate risk because small details may change drugs, monitoring, airway planning, or procedure timing.
 - Prior surgery, diabetes, medication, identity, and exposure information can become visible through examination or verification, but late discovery still consumes time and trust.
 - Professional confidentiality supports honest disclosure, while privacy concerns should be discussed explicitly rather than managed through clinically misleading information.
+- For retained foreign bodies, the object's identity, entry route, timing, symptoms, and attempted removal are clinically relevant even when the circumstances are embarrassing.
 
 ## Evidence
 - Diagnostic mismatch: [[vol-131-yisheng-qing-huida-ni-ruguo-yinman-bingshi-yisheng-zhende-bu-zhidao-ma-lg-a6kjqu-s1lk8uu1fapb763xzq|VOL.131]] says clinicians may suspect concealment when findings and the reported story do not fit.
@@ -32,13 +36,14 @@ The highest-consequence branch is anesthesia and procedural care. A fact that se
 - Anesthesia risk: [[vol-131-yisheng-qing-huida-ni-ruguo-yinman-bingshi-yisheng-zhende-bu-zhidao-ma-lg-a6kjqu-s1lk8uu1fapb763xzq|VOL.131]] warns specifically against withholding information from anesthesiologists because medication and procedural consequences can be severe.
 - Verification and trust: [[vol-131-yisheng-qing-huida-ni-ruguo-yinman-bingshi-yisheng-zhende-bu-zhidao-ma-lg-a6kjqu-s1lk8uu1fapb763xzq|VOL.131]] uses prior cosmetic surgery, diabetes, requests to omit a known diagnosis, and use of another person's insurance card to show how concealment complicates both care and trust.
 - Privacy boundary: [[vol-131-yisheng-qing-huida-ni-ruguo-yinman-bingshi-yisheng-zhende-bu-zhidao-ma-lg-a6kjqu-s1lk8uu1fapb763xzq|VOL.131]] pairs its disclosure request with the claim that clinicians have professional duties not to expose patient information casually.
+- Foreign-body evidence: [[vol-02-yingxiangke-naxie-huanzhe-buxiang-shuo-de-tinei-yiwu-huo-zhiming-hecu-nengfou-ruanhua-bei-wutun-de-yuci-yaobuyao-jingchang-tao-erduo-lnflf1c5kthpz_8arhb2vux0b2zk|VOL.02]] shows clinicians reconciling implausible accident accounts with imaging and emphasizes that accurate circumstances support safer assessment and treatment.
 
 ## Counterevidence & Qualifications
 Disclosure does not mean every detail must be shared with every person in a hospital or that privacy concerns are trivial. Relevance, consent, confidentiality, safeguarding duties, legal requirements, and emergency context shape information handling. The episode's examples do not establish what must appear in every record or how insurance, child-protection, or confidentiality law applies in a specific jurisdiction.
 
 ## What Changed
-- Created a focused concept linking truthful history to diagnostic speed, anesthesia safety, collateral information, confidentiality, and clinical trust.
-- Distinguished eventual discovery of a concealed fact from timely availability of that fact when decisions are being made.
+- Added retained foreign bodies as a shame-sensitive case where route, timing, material, and attempted removal change clinical planning.
+- Reinforced evidence triangulation without treating patient embarrassment as permission for ridicule.
 
 ## Related Concepts
 - [[DoctorPatientCommunication]] - broader information-sharing relationship in which relevant history is elicited and clarified.

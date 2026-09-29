@@ -32749,9 +32749,9 @@
       "url": "/wiki/concepts/clinicalbehaviorchangeredflags/"
     },
     "ClinicalHistoryDisclosure": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lg-A6KjqU-S1lk8uu1FApb763XZq [lg-A6KjqU-S1lk8uu1FApb763XZq].md",
@@ -32759,9 +32759,16 @@
           "show": "这病说来话长",
           "title": "VOL.131医生请回答｜你如果隐瞒病史，医生真的不知道吗？",
           "url": "/wiki/sources/vol-131-yisheng-qing-huida-ni-ruguo-yinman-bingshi-yisheng-zhende-bu-zhidao-ma-lg-a6kjqu-s1lk8uu1fapb763xzq/"
+        },
+        {
+          "episode_file": "lnfLF1c5KthPZ_8arHb2VuX0b2zK [lnfLF1c5KthPZ_8arHb2VuX0b2zK].md",
+          "key": "vol-02-yingxiangke-naxie-huanzhe-buxiang-shuo-de-tinei-yiwu-huo-zhiming-hecu-nengfou-ruanhua-bei-wutun-de-yuci-yaobuyao-jingchang-tao-erduo-lnflf1c5kthpz_8arhb2vux0b2zk",
+          "show": "这病说来话长",
+          "title": "VOL.02影像科｜那些患者不想说的体内异物或致命｜喝醋能否软化被误吞的鱼刺｜要不要经常掏耳朵",
+          "url": "/wiki/sources/vol-02-yingxiangke-naxie-huanzhe-buxiang-shuo-de-tinei-yiwu-huo-zhiming-hecu-nengfou-ruanhua-bei-wutun-de-yuci-yaobuyao-jingchang-tao-erduo-lnflf1c5kthpz_8arhb2vux0b2zk/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-30",
       "url": "/wiki/concepts/clinicalhistorydisclosure/"
     },
     "ClinicalMusicTherapy": {
@@ -49126,9 +49133,9 @@
       "url": "/wiki/concepts/earcanalinflammationrisk/"
     },
     "EarCleaningTraumaRisk": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lhtGV0Oqyrvnm_-gsGj8jGATU26Z [lhtGV0Oqyrvnm_-gsGj8jGATU26Z].md",
@@ -49136,9 +49143,16 @@
           "show": "这病说来话长",
           "title": "VOL.49耳鼻咽喉科｜整天戴耳机感觉听力下降、耳鸣？喜欢采耳？这些习惯容易得中耳炎吗？得了中耳炎怎么办？",
           "url": "/wiki/sources/vol-49-erbiyanhouke-zhengtian-dai-erji-ganjue-tingli-xiajiang-erming-xihuan-caier-zhexie-xiguan-rongyi-de-zhongeryan-ma-dele-zhongeryan-zenmeban-lhtgv0oqyrvnm_-gsgj8jgatu26z/"
+        },
+        {
+          "episode_file": "lnfLF1c5KthPZ_8arHb2VuX0b2zK [lnfLF1c5KthPZ_8arHb2VuX0b2zK].md",
+          "key": "vol-02-yingxiangke-naxie-huanzhe-buxiang-shuo-de-tinei-yiwu-huo-zhiming-hecu-nengfou-ruanhua-bei-wutun-de-yuci-yaobuyao-jingchang-tao-erduo-lnflf1c5kthpz_8arhb2vux0b2zk",
+          "show": "这病说来话长",
+          "title": "VOL.02影像科｜那些患者不想说的体内异物或致命｜喝醋能否软化被误吞的鱼刺｜要不要经常掏耳朵",
+          "url": "/wiki/sources/vol-02-yingxiangke-naxie-huanzhe-buxiang-shuo-de-tinei-yiwu-huo-zhiming-hecu-nengfou-ruanhua-bei-wutun-de-yuci-yaobuyao-jingchang-tao-erduo-lnflf1c5kthpz_8arhb2vux0b2zk/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-09-30",
       "url": "/wiki/concepts/earcleaningtraumarisk/"
     },
     "EarlyChineseBuddhismCourtTransmission": {
@@ -62245,9 +62259,9 @@
       "url": "/wiki/concepts/fiscalextractionrebellionspiral/"
     },
     "FishBoneForeignBodyCare": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ljwo-vS4U8T7vnKodtVufLM1R3mg [ljwo-vS4U8T7vnKodtVufLM1R3mg].md",
@@ -62255,9 +62269,16 @@
           "show": "这病说来话长",
           "title": "VOL.48耳鼻咽喉科｜卡鱼刺的误区｜咽炎｜火锅+冰饮=急性会厌炎=10分钟丧命？别慌，来听医生怎么讲",
           "url": "/wiki/sources/vol-48-erbiyanhouke-kayuci-de-wuqu-yanyan-huoguo-bingyin-jixing-huiyanyan-10-fenzhong-sangming-biehuang-lai-ting-yisheng-zenme-jiang-ljwo-vs4u8t7vnkodtvuflm1r3mg/"
+        },
+        {
+          "episode_file": "lnfLF1c5KthPZ_8arHb2VuX0b2zK [lnfLF1c5KthPZ_8arHb2VuX0b2zK].md",
+          "key": "vol-02-yingxiangke-naxie-huanzhe-buxiang-shuo-de-tinei-yiwu-huo-zhiming-hecu-nengfou-ruanhua-bei-wutun-de-yuci-yaobuyao-jingchang-tao-erduo-lnflf1c5kthpz_8arhb2vux0b2zk",
+          "show": "这病说来话长",
+          "title": "VOL.02影像科｜那些患者不想说的体内异物或致命｜喝醋能否软化被误吞的鱼刺｜要不要经常掏耳朵",
+          "url": "/wiki/sources/vol-02-yingxiangke-naxie-huanzhe-buxiang-shuo-de-tinei-yiwu-huo-zhiming-hecu-nengfou-ruanhua-bei-wutun-de-yuci-yaobuyao-jingchang-tao-erduo-lnflf1c5kthpz_8arhb2vux0b2zk/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-09-30",
       "url": "/wiki/concepts/fishboneforeignbodycare/"
     },
     "FishOilNaturalStatinBoundary": {
@@ -68267,9 +68288,9 @@
       "url": "/wiki/concepts/gastrointestinalendoscopyscreening/"
     },
     "GastrointestinalForeignBodyEscalation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lkOI2IZgvI4P7jJHPu8_svJl9fdT [lkOI2IZgvI4P7jJHPu8_svJl9fdT].md",
@@ -68277,9 +68298,16 @@
           "show": "这病说来话长",
           "title": "VOL.100百期特别策划：聊了99期后才敢还原医院里这些刺激的真实事件！",
           "url": "/wiki/sources/vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt/"
+        },
+        {
+          "episode_file": "lnfLF1c5KthPZ_8arHb2VuX0b2zK [lnfLF1c5KthPZ_8arHb2VuX0b2zK].md",
+          "key": "vol-02-yingxiangke-naxie-huanzhe-buxiang-shuo-de-tinei-yiwu-huo-zhiming-hecu-nengfou-ruanhua-bei-wutun-de-yuci-yaobuyao-jingchang-tao-erduo-lnflf1c5kthpz_8arhb2vux0b2zk",
+          "show": "这病说来话长",
+          "title": "VOL.02影像科｜那些患者不想说的体内异物或致命｜喝醋能否软化被误吞的鱼刺｜要不要经常掏耳朵",
+          "url": "/wiki/sources/vol-02-yingxiangke-naxie-huanzhe-buxiang-shuo-de-tinei-yiwu-huo-zhiming-hecu-nengfou-ruanhua-bei-wutun-de-yuci-yaobuyao-jingchang-tao-erduo-lnflf1c5kthpz_8arhb2vux0b2zk/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-30",
       "url": "/wiki/concepts/gastrointestinalforeignbodyescalation/"
     },
     "GastrointestinalReportInterpretation": {
@@ -69437,9 +69465,9 @@
       "url": "/wiki/entities/gengyuwesternhan/"
     },
     "GenitourinaryForeignBodyEscalation": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lpN3FHoZeJ2V-3oiJPakVKDX-R_Y [lpN3FHoZeJ2V-3oiJPakVKDX-R_Y].md",
@@ -69454,9 +69482,16 @@
           "show": "这病说来话长",
           "title": "VOL.100百期特别策划：聊了99期后才敢还原医院里这些刺激的真实事件！",
           "url": "/wiki/sources/vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt/"
+        },
+        {
+          "episode_file": "lnfLF1c5KthPZ_8arHb2VuX0b2zK [lnfLF1c5KthPZ_8arHb2VuX0b2zK].md",
+          "key": "vol-02-yingxiangke-naxie-huanzhe-buxiang-shuo-de-tinei-yiwu-huo-zhiming-hecu-nengfou-ruanhua-bei-wutun-de-yuci-yaobuyao-jingchang-tao-erduo-lnflf1c5kthpz_8arhb2vux0b2zk",
+          "show": "这病说来话长",
+          "title": "VOL.02影像科｜那些患者不想说的体内异物或致命｜喝醋能否软化被误吞的鱼刺｜要不要经常掏耳朵",
+          "url": "/wiki/sources/vol-02-yingxiangke-naxie-huanzhe-buxiang-shuo-de-tinei-yiwu-huo-zhiming-hecu-nengfou-ruanhua-bei-wutun-de-yuci-yaobuyao-jingchang-tao-erduo-lnflf1c5kthpz_8arhb2vux0b2zk/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-30",
       "url": "/wiki/concepts/genitourinaryforeignbodyescalation/"
     },
     "GenitourinarySyndromeMenopauseCare": {

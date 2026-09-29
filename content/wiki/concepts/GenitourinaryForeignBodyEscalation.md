@@ -5,7 +5,8 @@ tags: [healthcare, urology, emergency-care, medical-literacy]
 sources:
   - vol-31-miniao-waike-guanyu-niaopin-niaoye-huang-jieshi-nanxing-qianliexian-de-yaoyan-ji-wuqu-lpn3fhozej2v-3oijpakvkdx-r-y
   - vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt
-last_updated: 2026-09-27
+  - vol-02-yingxiangke-naxie-huanzhe-buxiang-shuo-de-tinei-yiwu-huo-zhiming-hecu-nengfou-ruanhua-bei-wutun-de-yuci-yaobuyao-jingchang-tao-erduo-lnflf1c5kthpz_8arhb2vux0b2zk
+last_updated: 2026-09-30
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,8 +22,10 @@ The concept also captures the shame-management side of emergency care. Urethral 
 
 VOL.100 adds object-design and removal-risk detail. Rectal objects may be fragile, smooth, difficult to grasp, or shaped in ways that make improvised extraction more dangerous. The clinical boundary is therefore prevention, reputable purpose-designed products, honest disclosure, and timely professional removal rather than entertainment at the patient's expense.
 
+VOL.02 adds the mechanical reason self-instrumentation can backfire. Wire, chopsticks, or similar objects used against difficult urination can injure the urethra; the resulting swelling may narrow the passage further and trap the object. It also reinforces that urinary obstruction is not equivalent to a household pipe blockage and that object, route, and timing should be disclosed accurately.
+
 ## Key Claims
-- Poor urination from prostate enlargement or other obstruction should not be self-treated with wire, grass roots, or other inserted objects.
+- Poor urination from prostate enlargement or other obstruction should not be self-treated with wire, grass roots, or other inserted objects; urethral trauma and swelling can worsen narrowing and entrap the object.
 - A foreign body that enters the urethra or urinary tract can become stuck and may require procedural or surgical removal.
 - Waiting for self-expulsion is not the safe default once a foreign body is retained.
 - Rectal foreign bodies can become more serious if they pierce or damage bowel.
@@ -35,12 +38,14 @@ VOL.100 adds object-design and removal-risk detail. Rectal objects may be fragil
 - Obstruction misconception: [[vol-31-miniao-waike-guanyu-niaopin-niaoye-huang-jieshi-nanxing-qianliexian-de-yaoyan-ji-wuqu-lpn3fhozej2v-3oijpakvkdx-r-y]] says prostate-related difficult urination is not solved by inserting foreign objects.
 - Rectal escalation: [[vol-31-miniao-waike-guanyu-niaopin-niaoye-huang-jieshi-nanxing-qianliexian-de-yaoyan-ji-wuqu-lpn3fhozej2v-3oijpakvkdx-r-y]] adds that rectal foreign bodies become more serious if they perforate bowel.
 - Object design and patient dignity: [[vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt|VOL.100]] discusses fragile and difficult-to-grasp rectal objects, urges reputable safety-designed products, and states that patient suffering should not become the joke.
+- Swelling and entrapment: [[vol-02-yingxiangke-naxie-huanzhe-buxiang-shuo-de-tinei-yiwu-huo-zhiming-hecu-nengfou-ruanhua-bei-wutun-de-yuci-yaobuyao-jingchang-tao-erduo-lnflf1c5kthpz_8arhb2vux0b2zk|VOL.02]] explains that improvised urethral instrumentation can cause injury and swelling that worsens narrowing and traps the object.
 
 ## Counterevidence & Qualifications
 This concept is not an emergency medicine protocol and does not describe removal techniques, imaging choices, antibiotics, anesthesia, or legal/psychological handling. It captures the source's public safety boundary: retained foreign bodies require timely professional evaluation.
 
 ## What Changed
-- Added shape, fragility, removal difficulty, product design, and patient dignity to the retained-object boundary.
+- Added urethral trauma, swelling, worsening narrowing, and entrapment as mechanisms behind the no-self-instrumentation boundary.
+- Reinforced accurate, shame-sensitive disclosure of the object, route, and timing.
 
 ## Related Concepts
 - [[UrologicalSymptomTriage]] - difficult urination should be assessed clinically instead of self-instrumented.

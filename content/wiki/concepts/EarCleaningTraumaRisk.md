@@ -4,7 +4,8 @@ type: concept
 tags: [healthcare, otolaryngology, ear-cleaning, infection, injury]
 sources:
   - vol-49-erbiyanhouke-zhengtian-dai-erji-ganjue-tingli-xiajiang-erming-xihuan-caier-zhexie-xiguan-rongyi-de-zhongeryan-ma-dele-zhongeryan-zenmeban-lhtgv0oqyrvnm_-gsgj8jgatu26z
-last_updated: 2026-09-28
+  - vol-02-yingxiangke-naxie-huanzhe-buxiang-shuo-de-tinei-yiwu-huo-zhiming-hecu-nengfou-ruanhua-bei-wutun-de-yuci-yaobuyao-jingchang-tao-erduo-lnflf1c5kthpz_8arhb2vux0b2zk
+last_updated: 2026-09-30
 knowledge_schema: synthesis-v1
 ---
 
@@ -31,12 +32,14 @@ The practical boundary is minimal intervention. Superficial material near the ca
 - Hygiene and trauma: [[vol-49-erbiyanhouke-zhengtian-dai-erji-ganjue-tingli-xiajiang-erming-xihuan-caier-zhexie-xiguan-rongyi-de-zhongeryan-ma-dele-zhongeryan-zenmeban-lhtgv0oqyrvnm_-gsgj8jgatu26z]] warns that poorly disinfected tools and uncontrolled technique can cause fungal infection, bleeding, myringitis, or perforation.
 - Visual-tool limits: [[vol-49-erbiyanhouke-zhengtian-dai-erji-ganjue-tingli-xiajiang-erming-xihuan-caier-zhexie-xiguan-rongyi-de-zhongeryan-ma-dele-zhongeryan-zenmeban-lhtgv0oqyrvnm_-gsgj8jgatu26z]] notes that camera systems still involve delay, error, unfamiliarity, and hand tremor.
 - Intervention boundary: [[vol-49-erbiyanhouke-zhengtian-dai-erji-ganjue-tingli-xiajiang-erming-xihuan-caier-zhexie-xiguan-rongyi-de-zhongeryan-ma-dele-zhongeryan-zenmeban-lhtgv0oqyrvnm_-gsgj8jgatu26z]] advises infrequent shallow cleaning and clinical removal when wax is deep or cannot be removed safely.
+- Early corroboration: [[vol-02-yingxiangke-naxie-huanzhe-buxiang-shuo-de-tinei-yiwu-huo-zhiming-hecu-nengfou-ruanhua-bei-wutun-de-yuci-yaobuyao-jingchang-tao-erduo-lnflf1c5kthpz_8arhb2vux0b2zk|VOL.02]] advises leaving routine earwax alone, limiting any wiping to the outer ear, and using qualified otolaryngology care for symptomatic or unwanted deep material; it separately warns about fungal infection after inadequately hygienic commercial cleaning.
 
 ## Counterevidence & Qualifications
 The episode's suggested cleaning intervals and substances are not universal protocols and may not suit perforation, tubes, infection, allergy, skin disease, device damage, or uncertain anatomy. Persistent itch, pain, bleeding, discharge, blockage, hearing change, or suspected perforation should be examined rather than repeatedly self-treated.
 
 ## What Changed
-- Created a prevention boundary for recreational, home, commercial, and camera-assisted ear cleaning.
+- Added an earlier independent minimal-intervention rule: outer-ear wiping only, with symptomatic or deep material routed to clinical care.
+- Reinforced hygiene-related fungal risk in commercial ear cleaning.
 
 ## Related Concepts
 - [[EarCanalInflammationRisk]] - skin-inflammation pathway aggravated by repeated cleaning and scratching.
