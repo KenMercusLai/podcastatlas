@@ -25591,6 +25591,14 @@ Ran lint. See lint-report.md for details.
 
 Added source `vol-02-yingxiangke-naxie-huanzhe-buxiang-shuo-de-tinei-yiwu-huo-zhiming-hecu-nengfou-ruanhua-bei-wutun-de-yuci-yaobuyao-jingchang-tao-erduo-lnflf1c5kthpz_8arhb2vux0b2zk`; expanded `FishBoneForeignBodyCare`, `GastrointestinalForeignBodyEscalation`, `GenitourinaryForeignBodyEscalation`, `EarCleaningTraumaRisk`, and `ClinicalHistoryDisclosure` from their complete bounded source sets. Core synthesis: present comfort does not exclude downstream foreign-body danger; object shape, location, migration, trauma, swelling, and perforation risk justify qualified assessment, while folk remedies, improvised insertion or extraction, shame-driven delay, and inaccurate history can worsen care. No settled contradiction was adopted. Object-specific removal, imaging, endoscopy, surgery, psychiatric interpretation, and ear-care details remain source-scoped public education rather than individualized guidance. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
 
+## [2026-09-30] ingest | 284: Denmark: The Great Escape
+
+Added source `284-denmark-the-great-escape-glt4809968647`; created `GeorgFerdinandDuckwitz`, `WernerBest`, `ChristianXOfDenmark`, and `RescueOfTheDanishJews`; and expanded `Denmark`, `Sweden`, `NielsBohr`, and `TheHolocaust` from their complete bounded source sets. Core synthesis: advance warning became rescue only because Danish civic inclusion, preserved institutions, decentralized hiding and transport, Sweden's public admission commitment, and limited German enforcement aligned; the high survival rate does not erase accommodation, payment, capture, deportation, or morally mixed motives. No settled contradiction was adopted. Best's intentions, Bohr's exact influence on Sweden, numerical categories, payment practices, and the relative causal weight of civic culture, geography, population size, German restraint, and Swedish policy remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

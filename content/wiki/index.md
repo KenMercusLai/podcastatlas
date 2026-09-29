@@ -3241,6 +3241,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [291: The Man Who Escaped Auschwitz](sources/291-the-man-who-escaped-auschwitz-glt6191002964.md) — The Rest Is History episode on Rudolf Vrba and Alfred Wetzler's escape, deception inside Auschwitz, and the evidentiary construction of their report.
 - [290: 2022: A History](sources/290-2022-a-history-glt4625765030.md) — The Rest Is History year-end episode on Ukraine as a post-Cold War rupture, European energy dependence, Elizabeth II's death, British political turmoil, and 2022 cultural recommendations.
 - [285: Canada: Beaver Wars](sources/285-canada-beaver-wars-glt6084067740.md) — The Rest Is History episode on beavers as landscape engineers and commodities connecting Indigenous use, colonial rivalry, fur-trade empire, ecological collapse, and conservation.
+- [284: Denmark: The Great Escape](sources/284-denmark-the-great-escape-glt4809968647.md) — The Rest Is History episode on warning, civic networks, Oresund transport, Swedish refuge, and the multi-causal rescue of the Danish Jews.
 
 ## Entities
 - [Chetan Bhagat](entities/ChetanBhagat.md) — Indian writer and former investment banker connecting accessible fiction, education and labor inequality, achievement psychology, AI-era authorship, and examined success.
@@ -3407,7 +3408,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Multidisciplinary Association for Psychedelic Studies](entities/MultidisciplinaryAssociationForPsychedelicStudies.md) — Organization presented in the source as developing structured MDMA-assisted psychotherapy trials for severe PTSD.
 - [Cockpunch](entities/Cockpunch.md) — Tim Ferriss creative project combining emergent fiction, illustration, digital experiments, philanthropy, and public creative risk.
 - [Leslie Groves](entities/LeslieGroves.md) — Manhattan Project military director who selected and defended Oppenheimer despite known security concerns.
-- [Niels Bohr](entities/NielsBohr.md) — physicist who joined the Allied bomb effort and argued for international openness around atomic knowledge.
+- [Niels Bohr](entities/NielsBohr.md) — Danish physicist connecting Jewish-refuge advocacy, Allied atomic work, Nazi-bomb warning, and international control of atomic knowledge.
 - [Jean Tatlock](entities/JeanTatlock.md) — Oppenheimer's formative romantic and political relationship, later treated as a wartime security concern.
 - [Haakon Chevalier](entities/HaakonChevalier.md) — Berkeley friend whose rejected Soviet-information approach became central to Oppenheimer's credibility problem.
 - [Trinity Nuclear Test](entities/TrinityNuclearTest.md) — first atomic-bomb detonation and threshold between Manhattan Project success and the atomic age.
@@ -9200,7 +9201,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Zanny Minton Beddoes](entities/ZannyMintonBeddoes.md) — Economist interviewer challenging Elon Musk's AI-abundance future and political claims about Europe, migration, DOGE, and USAID.
 - [Meghna Nanu](entities/MeghnaNanu.md) — Reporter grounding The Intelligence segment on Sweden's child prison units and youth criminal responsibility.
 - [Mona Khalil](entities/MonaKhalil.md) — Lebanese conservationist who turned a family beach house into a turtle-protection hub on Mansouri Beach.
-- [Sweden](entities/Sweden.md) — Country case for new child prison units and lowered-age criminal-responsibility debates.
+- [Sweden](entities/Sweden.md) — Refuge state in the rescue of Danish Jews and contemporary case for child prison units and lowered-age criminal-responsibility debates.
 - [USAID](entities/USAID.md) — Aid agency used in the source as the humanitarian-consequence test for DOGE-style cuts.
 - [Orange House](entities/OrangeHouseLebanon.md) — Mona Khalil and Habiba Fayed's Lebanese B&B and turtle-conservation center.
 - [Habiba Fayed](entities/HabibaFayed.md) — Mona Khalil's collaborator in restoring and running the Orange House conservation hub.
@@ -10931,7 +10932,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《被诅咒的木乃伊》 / The Cursed Mummy](entities/TheCursedMummy.md) — Shimada Soji Holmes pastiche that inserts Natsume Soseki into a London mummy, impostor, curse, and dual-manuscript case.
 - [John Watson / 华生](entities/JohnWatson.md) — Holmes narrator whose manuscript in 《被诅咒的木乃伊》 restores the classical detective frame after Soseki's comic account.
 - [Greenland](entities/Greenland.md) — Self-governing Arctic territory whose rare earths, geography, defense access, and political agency anchor the Planet Money episode's Greenland case.
-- [Denmark](entities/Denmark.md) — Kingdom-state context for Greenland, showing why Greenland cannot simply be sold and why alliance access matters more than acquisition.
+- [Denmark](entities/Denmark.md) — Occupied-state rescue case, Cold War intelligence setting, and kingdom-state context for self-governing Greenland.
 - [Graceland Baskaran](entities/GracelandBaskaran.md) — Mining economist and rare-earth expert explaining why processing capacity and partners matter more than controlling Greenland's deposits.
 - [Saha Ullsvig](entities/SahaUllsvig.md) — Greenlandic voice emphasizing trade history, local agency, and refusal to be treated as a new colonial acquisition.
 - [Daniel Immerwahr](entities/DanielImmerwahr.md) — Historian and How to Hide an Empire author used by the episode to explain purchase, bases, and sovereignty-like control.
@@ -11388,7 +11389,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《艾希曼在耶路撒冷》 / Eichmann in Jerusalem](entities/EichmannInJerusalem.md) — Arendt's controversial report/book on Eichmann, the Holocaust, Jewish Councils, and responsibility versus guilt.
 - [Jewish Councils / 犹太委员会](entities/JewishCouncils.md) — Holocaust-era councils discussed through Arendt's disputed responsibility claims under coercive Nazi rule.
 - [Nazi Germany / 纳粹德国](entities/NaziGermany.md) — Racial dictatorship joining territorial annexation and plunder to leader direction, law, bureaucracy, distributed persecution, war, and genocide.
-- [The Holocaust / 犹太人大屠杀](entities/TheHolocaust.md) — Genocide of European Jews traced through historically developing exclusion, law, war, dispossession, administration, and mass murder.
+- [The Holocaust / 犹太人大屠杀](entities/TheHolocaust.md) — Genocide traced through developing persecution, administration, deception, warning failures, and the exceptional Danish rescue case.
 - [连阔如 / Lian Kuoru](entities/LianKuoru.md) — Storyteller and author whose 《江湖丛谈》 exposes old Jianghu argot, street trades, scams, quyi worlds, and informal order.
 - [《江湖丛谈》 / Jianghu Congtan](entities/JiangHuCongTan.md) — Lian Kuoru book used by 蜜獾吃书 as a guide to old Jianghu language, livelihood, deception, and mutual-aid rules.
 - [罗翔 / Luo Xiang](entities/LuoXiang.md) — Legal scholar and public intellectual whose 《法律的悖论》 is used by 蜜獾吃书 to examine criminal law, moral judgment, punishment, freedom, and rational humility.
@@ -14699,6 +14700,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Rezső Kasztner](entities/RezsoKasztner.md) — Contested Hungarian Jewish intermediary associated with both selective rescue and failure to circulate the Auschwitz warning broadly.
 - [Vrba-Wetzler Report](entities/VrbaWetzlerReport.md) — 1944 escapee account whose circulation exposed Auschwitz and eventually contributed to pressure against Hungarian deportations.
 - [Auschwitz-Birkenau](entities/AuschwitzBirkenau.md) — Nazi concentration and extermination complex examined through forced labor, confiscation, registration, deception, mass killing, and escapee evidence.
+- [Georg Ferdinand Duckwitz](entities/GeorgFerdinandDuckwitz.md) — German official whose warning helped Danish political, religious, and civic networks act before the 1943 roundup.
+- [Werner Best](entities/WernerBest.md) — SS occupation administrator whose self-interested restraint may have widened rescue space without making him a humanitarian actor.
+- [Christian X of Denmark](entities/ChristianXOfDenmark.md) — Occupation-era monarch symbolizing national continuity and Jewish civic inclusion while the yellow-star story remains a myth.
 
 ## Concepts
 - [Achievement as Adaptive Overdrive](concepts/AchievementAsAdaptiveOverdrive.md) — Pattern in which adversity-powered ambition remains active after the threat changes, requiring success to be separated from wellbeing.
@@ -23585,5 +23589,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Holocaust Warning-to-Action Gap](concepts/HolocaustWarningActionGap.md) — Distance between credible atrocity evidence and timely protection created by disbelief, prejudice, bureaucracy, strategy, and fragmented responsibility.
 - [Survivor Witness Without Consolation](concepts/SurvivorWitnessWithoutConsolation.md) — Testimony that preserves anger, accusation, and damaged aftermath instead of satisfying demands for redemptive closure.
 - [Deception as Genocidal Infrastructure](concepts/DeceptionAsGenocidalInfrastructure.md) — False destinations, ordinary procedures, reassurance, and controlled information used as operational components of mass killing.
+- [Rescue of the Danish Jews](concepts/RescueOfTheDanishJews.md) — 1943 rescue chain joining insider warning, civic inclusion, concealment, improvised transport, Swedish refuge, and uneven German enforcement.
 
 ## Syntheses

@@ -9,7 +9,8 @@ sources:
   - 409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455
   - 292-the-shadow-of-the-holocaust-glt7756076339
   - 291-the-man-who-escaped-auschwitz-glt6191002964
-last_updated: 2026-09-29
+  - 284-denmark-the-great-escape-glt4809968647
+last_updated: 2026-09-30
 knowledge_schema: synthesis-v1
 ---
 
@@ -33,6 +34,8 @@ The Auschwitz evidence adds [[DeceptionAsGenocidalInfrastructure|managed ignoran
 
 The 1944 Hungarian branch shifts from the construction of persecution to the reception of evidence about extermination. The [[VrbaWetzlerReport]] reached Jewish, Hungarian, Allied, Catholic, resistance, and press channels, yet [[HolocaustWarningActionGap|warning did not immediately become action]]. Disbelief, antisemitism, military prioritization, bureaucratic referral, political caution, and selective information control operated together while deportations continued. Later publicity and threats of personal accountability helped move Miklos Horthy to halt transports, preserving consequential rescue without erasing the hundreds of thousands already killed.
 
+The Danish branch adds a contrast case in which warning was rapidly converted into protection. [[GeorgFerdinandDuckwitz]]'s advance notice moved through Danish politicians and clergy into hiding, while households, institutions, boat networks, and [[Sweden]] supplied complementary capacity. The [[RescueOfTheDanishJews]] does not negate the wider warning-to-action gap: its unusual civic, geographic, institutional, demographic, and occupation conditions help explain why the result was difficult to reproduce elsewhere.
+
 ## Key Characteristics
 
 - Eliminationist antisemitism preceded the seizure of power, while operational policy radicalized over time.
@@ -41,7 +44,7 @@ The 1944 Hungarian branch shifts from the construction of persecution to the rec
 - Bureaucratic records, logistics, firms, routine offices, and open terror functioned as complementary mechanisms that made persecution scalable.
 - Responsibility differed across leaders, perpetrators, enablers, beneficiaries, constrained intermediaries, resisters, and victims.
 - Deception and controlled arrival made industrialized killing easier to administer, while escapee testimony tried to break that informational control.
-- Credible witness evidence could circulate internationally without overcoming institutional delay, disbelief, prejudice, or fragmented responsibility.
+- Warning produced sharply different outcomes: credible witness evidence could circulate without action, while Denmark's actionable warning aligned with civic inclusion, preserved institutions, decentralized logistics, and a willing refuge state.
 
 ## Evidence
 
@@ -51,10 +54,11 @@ The 1944 Hungarian branch shifts from the construction of persecution to the rec
 - Bureaucracy and judgment: [[103-ta-shi-cichuan-yewu-de-guang-ta-shi-hanna-alunte-737939789]] uses Arendt, Eichmann, and the Jewish Councils controversy to distinguish guilt, responsibility, coercion, and routine role performance.
 - Camp deception and eyewitness evidence: [[291-the-man-who-escaped-auschwitz-glt6191002964]] connects false resettlement and arrival rituals to controlled killing, then follows Vrba and Wetzler's escape and report production.
 - Warning and delayed response: [[292-the-shadow-of-the-holocaust-glt7756076339]] follows the Vrba-Wetzler Report through Hungarian, Jewish, Allied, Catholic, resistance, and press channels before Horthy halted deportations from Budapest.
+- Warning converted into rescue: [[284-denmark-the-great-escape-glt4809968647]] connects advance notice to concealment, Oresund transport, Swedish admission, exceptional survival, and the remaining captures and deportations.
 
 ## Qualifications
 
-The bounded sources illuminate selected mechanisms and interpretations rather than supplying a complete chronological or victim-centered history. Early exterminatory rhetoric establishes ideology, not a fully fixed 1933 plan for later industrialized murder. Corporate, bureaucratic, and deception-centered analysis must not obscure antisemitism, direct killing, victim experience, or primary responsibility; ignorance at arrival does not imply passivity or consent. Discussion of coerced Jewish Councils and Hungarian intermediaries must preserve the difference between responsibility under duress and perpetrator guilt. The escape's precedence, camp details, bombing debate, Horthy's motives, Kasztner's agency, the report's exact causal effect, and numerical rescue counterfactuals remain contested or source-scoped.
+The bounded sources illuminate selected mechanisms and interpretations rather than supplying a complete chronological or victim-centered history. Early exterminatory rhetoric establishes ideology, not a fully fixed 1933 plan for later industrialized murder. Corporate, bureaucratic, deception-centered, and rescue-centered analysis must not obscure antisemitism, direct killing, victim experience, or primary Nazi responsibility; ignorance at arrival does not imply passivity or consent. Discussion of coerced Jewish Councils and Hungarian intermediaries must preserve the difference between responsibility under duress and perpetrator guilt. Denmark's exceptional case should not be universalized or reduced to national virtue: geography, population size, Swedish policy, preserved institutions, payments, German self-interest, capture, and deportation remain necessary qualifications. Camp details, bombing debate, Horthy's motives, Kasztner's agency, Best's motives, numerical claims, and rescue counterfactuals remain contested or source-scoped.
 
 ## What Changed
 
@@ -62,6 +66,7 @@ The bounded sources illuminate selected mechanisms and interpretations rather th
 - Connected property sorting and prisoner registration to the production of eyewitness inference and quantitative evidence.
 - Added the 1944 gap between credible Auschwitz testimony and timely institutional action.
 - Added public exposure and threatened accountability as mechanisms that helped interrupt the Hungarian deportations.
+- Added Denmark as a contrasting case where warning, civic capacity, logistics, and refuge policy aligned quickly enough to save most of a Jewish community.
 
 ## Relationships
 
@@ -78,3 +83,4 @@ The bounded sources illuminate selected mechanisms and interpretations rather th
 - [[DeceptionAsGenocidalInfrastructure]] - mechanism joining false resettlement and arrival order to mass murder.
 - [[HolocaustWarningActionGap]] - framework for disbelief, delay, prejudice, and fragmented responsibility.
 - [[SurvivorWitnessWithoutConsolation]] - memory framework preserving anger and unresolved aftermath.
+- [[RescueOfTheDanishJews]] - exceptional rescue case that clarifies the conditions required to convert warning into protection.

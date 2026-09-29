@@ -1,26 +1,60 @@
 ---
 title: "Denmark"
 type: entity
-tags: [country, europe, arctic, geopolitics]
-sources: [81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209, 80-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-shang-691866649, how-to-get-what-greenland-has-with-permission]
-last_updated: 2026-08-06
+tags: [country, europe, arctic, geopolitics, world-war-ii]
+sources:
+  - 81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209
+  - 80-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-shang-691866649
+  - how-to-get-what-greenland-has-with-permission
+  - 284-denmark-the-great-escape-glt4809968647
+last_updated: 2026-09-30
+knowledge_schema: synthesis-v1
 ---
 
 # Denmark
 
-[[80-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-shang-691866649]] adds Denmark as the freedom-shock and intelligence-posting setting for [[OlegGordievsky|Oleg Gordievsky]]. The [[MihuanChishu|蜜獾吃书]] episode says his Copenhagen years exposed him to public libraries, music, streets, cafes, and uncensored foreign publications, making the West tangible while [[MI6]] and Danish observers assessed whether he could become a source against the [[KGB]].
+## Overview
 
-[[81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209]] adds Denmark again through the extraction side of [[OperationPimlico]]. Danish intelligence personnel meet [[VeronicaPrice|Veronica Price]] and British officers on the Finnish side, linking Denmark's earlier observation role to the later rescue infrastructure.
+Denmark appears across the wiki as an occupied Second World War state that enabled an exceptional Jewish rescue, a Cold War setting for ideological defection and British intelligence work, and the kingdom-state within which self-governing [[Greenland]] retains political agency.
 
-Denmark appears in [[how-to-get-what-greenland-has-with-permission]] as the kingdom-state context for [[Greenland]]. The episode says Greenland was colonized by Denmark in 1721 and remains within the Kingdom of Denmark, but is self-governing and cannot simply be sold by Denmark to the [[UnitedStates]].
+## Current Profile
 
-The source uses Denmark to show why [[DonaldTrump]]'s Greenland rhetoric runs into political and legal reality. Denmark's relationship to Greenland matters for defense and diplomacy, but the episode emphasizes that Greenlanders themselves have agency and that both Denmark and Greenland have said the island is not for sale.
+The Second World War branch distinguishes rapid military defeat from civic passivity. German occupation preserved Denmark's government, parliament, police, courts, and king because stability and food production served German interests. When the cooperation arrangement collapsed in 1943, [[GeorgFerdinandDuckwitz]]'s warning, inclusive national identity, domestic institutions, informal trust networks, boat transport, and nearby [[Sweden]] enabled the [[RescueOfTheDanishJews]].
 
-Denmark also sits inside the episode's alliance logic. Because Greenland is tied to Denmark and [[NATO]], the source argues that aggressive attempts to control Greenland would create allied disorder while the U.S. already has extensive defense access through existing arrangements.
+The Cold War branch uses Copenhagen as a lived contrast to the [[SovietUnion]] for [[OlegGordievsky]]. Libraries, public life, music, and uncensored print helped turn ideological doubt into [[IdeologicalDefection]], while Danish observation and later Finnish-side coordination supported [[MI6]] operations.
 
-## Connections
-- [[Greenland]] - self-governing territory at the center of the episode.
-- [[UnitedStates]] and [[DonaldTrump]] - external pressure and acquisition rhetoric.
-- [[NATO]] - alliance context for Greenland's defense position.
-- [[GreenlandStrategicAccess]] and [[StrategicAccessWithoutAnnexation]] - concepts that make Denmark's role matter without implying a sale.
-- [[OlegGordievsky]], [[KGB]], [[MI6]], [[OperationSunbeam]], [[OperationPimlico]], [[Finland]], and [[ColdWarSpycraft]] - Cold War intelligence branch added by 蜜獾吃书 episodes 80 and 81.
+The contemporary Arctic branch separates Danish constitutional connection from ownership. Greenland is self-governing and inhabited; Denmark cannot simply sell it to the [[UnitedStates]]. Existing arrangements with [[NATO]] and the United States show how strategic access can operate through permission and alliance rather than annexation.
+
+## Key Characteristics
+
+- Small European kingdom whose institutions and civic networks retained partial capacity under German occupation.
+- Setting for a multi-causal Holocaust rescue built from warning, social inclusion, hiding, transport, and Swedish refuge.
+- Cold War posting and coordination state in the Gordievsky–MI6 story.
+- Kingdom partner whose relationship with self-governing Greenland limits acquisition rhetoric and supports permission-based defense access.
+
+## Evidence
+
+- Occupation and rescue: [[284-denmark-the-great-escape-glt4809968647]] connects preserved institutions, Jewish civic inclusion, decentralized hiding, Oresund crossings, and Swedish admission.
+- Cold War contrast and recruitment: [[80-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-shang-691866649]] places Gordievsky's freedom shock and British assessment in Denmark.
+- Extraction coordination: [[81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209]] links Danish personnel to the Finnish side of Operation Pimlico.
+- Greenland and alliance structure: [[how-to-get-what-greenland-has-with-permission]] distinguishes Denmark's kingdom role from Greenlandic agency and connects defense needs to existing access agreements.
+
+## Qualifications
+
+The bounded sources are selective podcast narratives rather than a complete history of Denmark. The rescue episode should not turn a high survival rate into an uncomplicated national virtue story: early cooperation, German occupation, profiteering, capture, deportation, and uneven agency remain material. The Gordievsky sources focus on one intelligence career, while the Greenland source presents a contemporary strategic argument whose legal, political, and mineral details may change.
+
+## What Changed
+
+- Added occupied Denmark's preserved institutions and the collapse of the cooperation arrangement.
+- Added the rescue of Danish Jews as a warning-to-action, civic-network, transport, and refuge-policy case.
+- Qualified national heroism by retaining accommodation, capture, payment, and German self-interest.
+
+## Relationships
+
+- [[RescueOfTheDanishJews]] - 1943 rescue process enabled by Danish institutions, networks, and geography.
+- [[Sweden]] - nearby refuge state that received Danish Jewish escapees.
+- [[ChristianXOfDenmark]] - monarch symbolizing national continuity and Jewish civic inclusion.
+- [[OlegGordievsky]] - Soviet officer whose Danish posting contributed to ideological defection.
+- [[Greenland]] - self-governing territory within the Kingdom of Denmark.
+- [[StrategicAccessWithoutAnnexation]] - framework for meeting Arctic security needs without territorial acquisition.
+- [[NATO]] - alliance context for Denmark's and Greenland's defense position.

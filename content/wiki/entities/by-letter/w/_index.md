@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 11430
+wiki_total_pages: 11433
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -335,6 +335,9 @@ wiki_pages:
   - key: "WeRide"
     title: "WeRide"
     url: "/wiki/entities/weride/"
+  - key: "WernerBest"
+    title: "Werner Best"
+    url: "/wiki/entities/wernerbest/"
   - key: "WesHarrell"
     title: "Wes Harrell"
     url: "/wiki/entities/wesharrell/"

@@ -1477,6 +1477,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "284-denmark-the-great-escape-glt4809968647": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "285-canada-beaver-wars-glt6084067740": [
     {
       "key": "history",
@@ -18832,6 +18839,13 @@
       "url": "/topics/science/"
     }
   ],
+  "ChristianXOfDenmark": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "ChristinaCacioppo": [
     {
       "key": "economics",
@@ -24392,6 +24406,11 @@
     }
   ],
   "Denmark": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
     {
       "key": "politics",
       "label": "Politics",
@@ -33863,6 +33882,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "GeorgFerdinandDuckwitz": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "GeorgWilhelmSteller": [

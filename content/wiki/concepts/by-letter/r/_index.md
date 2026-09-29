@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 8851
+wiki_total_pages: 8852
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -533,6 +533,9 @@ wiki_pages:
   - key: "RerankingModels"
     title: "Reranking Models"
     url: "/wiki/concepts/rerankingmodels/"
+  - key: "RescueOfTheDanishJews"
+    title: "Rescue of the Danish Jews"
+    url: "/wiki/concepts/rescueofthedanishjews/"
   - key: "RescueReciprocityCommandTrust"
     title: "Rescue Reciprocity Command Trust / 救援互惠式统帅信任"
     url: "/wiki/concepts/rescuereciprocitycommandtrust/"
