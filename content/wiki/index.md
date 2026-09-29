@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.11脊柱外科｜在舞台和手术台之间切换自如的摇滚医生](sources/vol-11-jizhuwaike-zai-wutai-he-shoushutai-zhijian-qiehuan-ziru-de-yaogun-yisheng-lsuymbo3py0vfgz6ejw0zie-rqtu.md) — 这病说来话长 profile of spine surgeon and Penicillin musician 马浩宁 on dual-career scheduling, medical-education boundaries, and plural definitions of a good doctor.
 - [VOL.12脊柱外科｜脊柱问题误区排雷｜头晕应先挂耳鼻喉和神内｜高枕无忧实则有隐患](sources/vol-12-jizhuwaike-jizhu-wenti-wuqu-pailei-touyun-ying-xian-gua-erbihou-he-shennei-gaozhen-wuyou-shize-you-yinhuan-lp_jgmo3rovwxsq52re_c6mp_pa6.md) — 这病说来话长 episode with 马浩宁 on dizziness routing, cervical and lumbar symptom interpretation, imaging limits, comfort aids, neurological red flags, and indication-led surgery.
 - [Developing a Rational Approach to Supplementation for Health & Performance](sources/developing-a-rational-approach-to-supplementation-for-health-performance-scim5857890354.md) — Huberman Lab solo episode on foundations-first supplement decisions, single-variable testing, label uncertainty, sleep aids, hormone-active products, cognition tools, and clinical boundaries.
 - [How to Access Your Creativity | Rick Rubin](sources/how-to-access-your-creativity-rick-rubin-scim6664103159.md) — Full Huberman Lab conversation on felt creative judgment, constraints, receptive attention, phase-specific deadlines, completion, feedback boundaries, and meditation.
@@ -3217,6 +3218,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [292: The Shadow of the Holocaust](sources/292-the-shadow-of-the-holocaust-glt7756076339.md) — The Rest Is History episode on the Vrba-Wetzler Report, delayed institutional response, the halt of Budapest deportations, and Rudolf Vrba's non-consoling witness legacy.
 
 ## Entities
+- [盘尼西林乐队 / Penicillin](entities/PenicillinBand.md) — Chinese rock band in which spine surgeon 马浩宁 performs selectively on keyboard and accordion.
 - [咪仔 / Mizi](entities/MiziCrimePodcaster.md) — Journalist-trained crime podcaster combining vocal skill, nonfiction verification, audio composition, payment ethics, and vulnerable creator practice.
 - [黑猫侦探社 / Black Cat Detective Agency](entities/BlackCatDetectiveAgency.md) — Bootstrapped nonfiction crime podcast illustrating recommendation-driven growth, additive paid depth, category-specific ad friction, and small-team sustainability limits.
 - [Beer Hall Putsch](entities/BeerHallPutsch.md) — Failed 1923 Munich coup whose trial, prison, and mythology redirected Hitler toward legal-electoral subversion.
@@ -14642,6 +14644,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Vrba-Wetzler Report](entities/VrbaWetzlerReport.md) — 1944 escapee account whose circulation exposed Auschwitz and eventually contributed to pressure against Hungarian deportations.
 
 ## Concepts
+- [Dual-Career Role Integration / 双重职业角色整合](concepts/DualCareerRoleIntegration.md) — Asymmetric coordination of two serious roles through priority rules, selective participation, and advance scheduling.
 - [Dizziness Diagnostic Routing / 头晕鉴别与就诊分流](concepts/DizzinessDiagnosticRouting.md) — Differential-first framework for routing dizziness before attributing it to cervical imaging or neck symptoms.
 - [Ankylosing Spondylitis / 强直性脊柱炎](concepts/AnkylosingSpondylitis.md) — Immune-mediated rheumatic disease framed through early recognition, medical inflammation control, access burdens, and surgery limited to selected structural consequences.
 - [Emergency-Department Acuity Triage / 急诊病情分级](concepts/EmergencyDepartmentAcuityTriage.md) — Severity- and time-sensitivity-based emergency ordering, trained prioritization, routing, explanation, and reassessment rather than first-come service.

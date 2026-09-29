@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 11397
+wiki_total_pages: 11398
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -1151,6 +1151,9 @@ wiki_pages:
   - key: "Pipilu"
     title: "皮皮鲁 / Pipilu"
     url: "/wiki/entities/pipilu/"
+  - key: "PenicillinBand"
+    title: "盘尼西林乐队 / Penicillin"
+    url: "/wiki/entities/penicillinband/"
   - key: "PiedPiperOfHamelin"
     title: "花衣魔笛手 / The Pied Piper of Hamelin"
     url: "/wiki/entities/piedpiperofhamelin/"

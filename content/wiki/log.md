@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-29] ingest | VOL.11脊柱外科｜在舞台和手术台之间切换自如的摇滚医生
+
+Added source `vol-11-jizhuwaike-zai-wutai-he-shoushutai-zhijian-qiehuan-ziru-de-yaogun-yisheng-lsuymbo3py0vfgz6ejw0zie-rqtu`; created `PenicillinBand` and `DualCareerRoleIntegration`; and updated `MaHaoning` and the canonical index from the complete bounded source set. Core synthesis: Ma Haoning preserves a serious musical identity through asymmetric commitment, selected performances, weekend timing, and advance shift coordination while keeping clinical responsibility primary; medical popularization reduces information asymmetry but does not replace in-person care. No settled contradiction was adopted. Biographical timing, workplace acceptance, medical-training claims, Chinese/Western medicine comparisons, and definitions of a good doctor remain guest-reported or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten because this episode backfills an established profile branch; downstream synthesis refresh only reads it.
+
 ## [2026-09-29] ingest | Developing a Rational Approach to Supplementation for Health & Performance
 
 Added source `developing-a-rational-approach-to-supplementation-for-health-performance-scim5857890354`; updated `TargetedSupplementNeedAssessment`, `PerformanceSupplementHierarchy`, `SleepSupplementBoundary`, `AndrogenSupportSupplementBoundary`, and `SupplementLabelAccuracy`; migrated `SupplementLabelAccuracy` to the synthesis-first schema; and updated the canonical index from the complete bounded source sets. Core synthesis: supplement decisions should begin with behavior, nutrition, a defined goal, personal context, and budget; outside broad foundational formulas, isolated minimum-effective-dose trials make benefit and harm more interpretable, while zero supplements remains a valid outcome. No settled contradiction was adopted. Fermented-food, microbiome, dose, EPA, melatonin, sleep, fertility, hormone, growth-hormone, stimulant, cognition, pediatric, and named-product claims remain source-scoped public education rather than individualized guidance. The automatic `wiki/overview.md` was read for context but not manually rewritten because the episode reinforces established foundations-first health branches; downstream synthesis refresh only reads it.
@@ -25383,6 +25387,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-29] ingest | 292: The Shadow of the Holocaust
 
 Added source `292-the-shadow-of-the-holocaust-glt7756076339`; created `RudolfVrba`, `AlfredWetzler`, `JonathanFreedland`, `RezsoKasztner`, `VrbaWetzlerReport`, `HolocaustWarningActionGap`, and `SurvivorWitnessWithoutConsolation`; expanded `TheHolocaust` from its complete bounded source set; and updated the canonical index. Core synthesis: the Vrba-Wetzler Report shows that accurate atrocity evidence could reach powerful institutions without overcoming disbelief, antisemitism, bureaucratic referral, military priority, political fear, or selective dissemination, while publicity and threatened accountability eventually helped halt the Budapest deportations. No settled contradiction was adopted. Kasztner's responsibility, Horthy's motives, bombing feasibility, causal attribution, rescue counts, and counterfactual lives saved remain contested or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-29] lint | Wiki health check
 

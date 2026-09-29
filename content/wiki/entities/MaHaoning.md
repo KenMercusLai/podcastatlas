@@ -13,6 +13,7 @@ sources:
   - vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms
   - vol-13-jizhuwaike-dangdai-nianqingren-de-yaojianpan-weihe-ruci-tuchu-weihe-mingxing-de-le-qiangzhixing-jizhuyan-bingqing-dou-bu-zhong-lj3jo6rju4zbrlp3_qres3tdxjsa
   - vol-12-jizhuwaike-jizhu-wenti-wuqu-pailei-touyun-ying-xian-gua-erbihou-he-shennei-gaozhen-wuyou-shize-you-yinhuan-lp_jgmo3rovwxsq52re_c6mp_pa6
+  - vol-11-jizhuwaike-zai-wutai-he-shoushutai-zhijian-qiehuan-ziru-de-yaogun-yisheng-lsuymbo3py0vfgz6ejw0zie-rqtu
 last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
@@ -20,7 +21,7 @@ knowledge_schema: synthesis-v1
 # 马浩宁 / Ma Haoning
 
 ## Overview
-马浩宁 is an orthopedic and spine-surgery guest in [[ZheBingShuoLaiHuaChang|这病说来话长]] episodes on first encounters with patient death, neck and lower-back discomfort, lumbar disc herniation, ankylosing spondylitis, sedentary-work health, and outpatient missed-diagnosis prevention.
+马浩宁 is an orthopedic spine surgeon and a keyboard and accordion player with [[PenicillinBand|盘尼西林乐队]]. In [[ZheBingShuoLaiHuaChang|这病说来话长]], he appears in a personal profile and later episodes on patient death, neck and lower-back discomfort, lumbar disc herniation, ankylosing spondylitis, sedentary-work health, and outpatient missed-diagnosis prevention.
 
 ## Current Profile
 The source presents Ma Haoning as a spine surgeon using a physical model and ordinary-life examples to make [[LumbarDiscHerniation|腰椎间盘突出]] intelligible. His explanation moves from anatomy to treatment choice: disc shape on MRI matters, but [[SymptomDrivenSpineCare|symptom-driven spine care]] requires matching the image to pain, numbness, motor function, bowel or bladder function, and a clinician's reading of the actual film.
@@ -43,6 +44,8 @@ VOL.13 adds his distinction between inflammatory disease control and mechanical 
 
 VOL.12 adds an earlier differential-diagnosis and product-boundary expression of the same approach. Ma routes dizziness toward otolaryngology and neurology before an uncommon cervical attribution, separates osteophytes from symptomatic nerve compression, and matches neck, arm, leg, gait, motor, and bowel or bladder findings to different levels of concern. He treats pillow height, mattress support, and massage as comfort or positioning questions, while active capacity and indication-led procedure choice remain upstream of marketing labels.
 
+VOL.11 adds the biographical frame behind the later clinical appearances. Ma says he graduated in 2016, practices in spine surgery, and joined Penicillin near the end of 2015 after entering Beijing's live-music network through another band. His [[DualCareerRoleIntegration|dual-career arrangement]] keeps hospital duties primary while using weekends, selected larger performances, and advance shift coordination to preserve a serious musical role. He also describes medical popularization as a way to reduce information asymmetry rather than a substitute for offline care.
+
 ## Key Characteristics
 - Explains spine anatomy through models and simple body analogies.
 - Distinguishes radiology-report wording from clinical severity and treatment urgency.
@@ -50,7 +53,7 @@ VOL.12 adds an earlier differential-diagnosis and product-boundary expression of
 - Emphasizes gradual rehabilitation and avoidance of early overload after surgery or injury.
 - Converts clinical guidance into concrete movement habits, return thresholds, low-cost safety checks, and capacity-matched sport participation.
 - Treats posture cues, pillows, heat, massage, chairs, collars, lumbar supports, and neuraxial-procedure concerns as conditional issues requiring anatomical and clinical context rather than one-cause attribution.
-- Describes an unsuccessful early resuscitation as a formative emotional and career-choice experience while avoiding generalization of his response to all clinicians or specialties.
+- Combines a primary spine-surgery career with selective keyboard and accordion performance, using explicit scheduling and responsibility boundaries rather than claiming equal full-time commitment to both roles.
 
 ## Evidence
 - Anatomy explanation: [[vol-219-shipin-boke-dangdai-nianqingren-yaotu-zijiu-zhinan-guke-yisheng-jiaodi-bieba-nide-yao-dang-xiaohaopin-lkvjq45dukdjpesxikwec0zrglmg]] has him distinguish bulging, protrusion, extrusion, and sequestration using disc, annulus, nucleus, nerve-root, and dural-sac anatomy.
@@ -70,14 +73,16 @@ VOL.12 adds an earlier differential-diagnosis and product-boundary expression of
 - Inflammatory-disease boundary: [[vol-13-jizhuwaike-dangdai-nianqingren-de-yaojianpan-weihe-ruci-tuchu-weihe-mingxing-de-le-qiangzhixing-jizhuyan-bingqing-dou-bu-zhong-lj3jo6rju4zbrlp3_qres3tdxjsa|VOL.13]] distinguishes medical control of ankylosing spondylitis from later surgery for selected deformity or neurological consequences.
 - Disc-treatment tradeoffs: [[vol-13-jizhuwaike-dangdai-nianqingren-de-yaojianpan-weihe-ruci-tuchu-weihe-mingxing-de-le-qiangzhixing-jizhuyan-bingqing-dou-bu-zhong-lj3jo6rju4zbrlp3_qres3tdxjsa|VOL.13]] separates imaging persistence from symptom recovery and contrasts conservative care, minimally invasive removal, fusion, recurrence, and movement management.
 - Differential routing and adjunct boundaries: [[vol-12-jizhuwaike-jizhu-wenti-wuqu-pailei-touyun-ying-xian-gua-erbihou-he-shennei-gaozhen-wuyou-shize-you-yinhuan-lp_jgmo3rovwxsq52re_c6mp_pa6|VOL.12]] routes dizziness away from automatic cervical attribution, interprets osteophytes through symptoms and nerve involvement, and places pillows, mattresses, massage, and procedure labels behind comfort, function, active capacity, and indication.
+- Professional and musical identity: [[vol-11-jizhuwaike-zai-wutai-he-shoushutai-zhijian-qiehuan-ziru-de-yaogun-yisheng-lsuymbo3py0vfgz6ejw0zie-rqtu|VOL.11]] describes his spine-surgery work, 2015 entry into Penicillin, keyboard and accordion roles, selected performances, weekend scheduling, and advance duty swaps.
+- Public-education boundary: [[vol-11-jizhuwaike-zai-wutai-he-shoushutai-zhijian-qiehuan-ziru-de-yaogun-yisheng-lsuymbo3py0vfgz6ejw0zie-rqtu|VOL.11]] has him treat medical popularization as partial information-gap reduction while preserving in-person diagnosis and treatment.
 
 ## Qualifications
-The wiki has no independent biographical evidence for Ma Haoning beyond these podcast notes. His professional identity, career-choice recollection, examples, posture mechanics, cervical-curvature and whiplash claims, exercise selection, ride and headrest cautions, product cautions, neuraxial-placement explanation, and treatment framing should remain tied to the sources until additional material is ingested. VOL.59's pressure-related disc-worsening claim is preserved as theoretical rather than a universal contraindication. VOL.58's compressed inheritance, ankylosing-spondylitis, congenital-variation, surgery, and exercise statements are public education rather than complete genetic or clinical guidance. VOL.13's age pattern, test suggestions, “controllable” framing, operation comparisons, motion estimate, recurrence claims, and exercise risks likewise do not define diagnosis, prognosis, or individual treatment. VOL.12's “99%” estimate, age-linked degeneration, dizziness attribution, invasive diagnostic discussion, product fitting, and operative comparisons remain source-scoped January 2023 teaching.
+The wiki has no independent biographical evidence for Ma Haoning beyond these podcast notes. His professional identity, graduation and band chronology, workplace arrangements, career-choice recollection, examples, posture mechanics, cervical-curvature and whiplash claims, exercise selection, ride and headrest cautions, product cautions, neuraxial-placement explanation, and treatment framing should remain tied to the sources until additional material is ingested. VOL.11's Chinese/Western medicine comparison, “good doctor” discussion, and claims about medical training or research remain compressed personal commentary rather than comparative evidence or professional standards. VOL.59's pressure-related disc-worsening claim is preserved as theoretical rather than a universal contraindication. VOL.58's compressed inheritance, ankylosing-spondylitis, congenital-variation, surgery, and exercise statements are public education rather than complete genetic or clinical guidance. VOL.13's age pattern, test suggestions, “controllable” framing, operation comparisons, motion estimate, recurrence claims, and exercise risks likewise do not define diagnosis, prognosis, or individual treatment. VOL.12's “99%” estimate, age-linked degeneration, dizziness attribution, invasive diagnostic discussion, product fitting, and operative comparisons remain source-scoped January 2023 teaching.
 
 ## What Changed
-- Added his differential-first routing of dizziness before an uncommon cervical attribution.
-- Extended his symptom-driven profile to osteophytes, gait and limb findings, bowel or bladder red flags, and indication-led procedure selection.
-- Added the earlier comfort-versus-capacity boundary for pillows, mattresses, and massage.
+- Expanded the profile from clinical educator to a spine surgeon with a sustained but selective professional-level music role.
+- Added explicit priority, scheduling, and shift-coordination boundaries behind the dual-career arrangement.
+- Added his information-asymmetry rationale and in-person-care boundary for medical popularization.
 
 ## Relationships
 - [[ChinaJapanFriendshipHospital]] - hospital affiliation named for Ma in VOL.58.
@@ -99,3 +104,5 @@ The wiki has no independent biographical evidence for Ma Haoning beyond these po
 - [[AcuteSportsInjuryEscalation]] - response-side boundary adjacent to his prevention guidance.
 - [[ObstetricAnesthesiaDecisionBoundary]] - obstetric and neuraxial context where his spine-anatomy explanation contributes.
 - [[DizzinessDiagnosticRouting]] - differential-first routing principle he explains in VOL.12.
+- [[PenicillinBand]] - rock band in which he is described as a keyboard and accordion player.
+- [[DualCareerRoleIntegration]] - asymmetric role-integration pattern illustrated by his hospital and performance scheduling.

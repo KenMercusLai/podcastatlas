@@ -47574,6 +47574,22 @@
       "updated": "2026-09-15",
       "url": "/wiki/entities/duzhouwesternhan/"
     },
+    "DualCareerRoleIntegration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lsuymBO3PY0VFgz6ejw0ZiE_rqTu [lsuymBO3PY0VFgz6ejw0ZiE_rqTu].md",
+          "key": "vol-11-jizhuwaike-zai-wutai-he-shoushutai-zhijian-qiehuan-ziru-de-yaogun-yisheng-lsuymbo3py0vfgz6ejw0zie-rqtu",
+          "show": "这病说来话长",
+          "title": "VOL.11脊柱外科｜在舞台和手术台之间切换自如的摇滚医生",
+          "url": "/wiki/sources/vol-11-jizhuwaike-zai-wutai-he-shoushutai-zhijian-qiehuan-ziru-de-yaogun-yisheng-lsuymbo3py0vfgz6ejw0zie-rqtu/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/dualcareerroleintegration/"
+    },
     "DualProcessBereavementOscillation": {
       "episode_count": 1,
       "show_count": 1,
@@ -110493,9 +110509,9 @@
       "url": "/wiki/entities/magongwesternhan/"
     },
     "MaHaoning": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "lkVJQ45DUKdjpesxikWEC0Zrglmg [lkVJQ45DUKdjpesxikWEC0Zrglmg].md",
@@ -110566,6 +110582,13 @@
           "show": "这病说来话长",
           "title": "VOL.12脊柱外科｜脊柱问题误区排雷｜头晕应先挂耳鼻喉和神内｜高枕无忧实则有隐患",
           "url": "/wiki/sources/vol-12-jizhuwaike-jizhu-wenti-wuqu-pailei-touyun-ying-xian-gua-erbihou-he-shennei-gaozhen-wuyou-shize-you-yinhuan-lp_jgmo3rovwxsq52re_c6mp_pa6/"
+        },
+        {
+          "episode_file": "lsuymBO3PY0VFgz6ejw0ZiE_rqTu [lsuymBO3PY0VFgz6ejw0ZiE_rqTu].md",
+          "key": "vol-11-jizhuwaike-zai-wutai-he-shoushutai-zhijian-qiehuan-ziru-de-yaogun-yisheng-lsuymbo3py0vfgz6ejw0zie-rqtu",
+          "show": "这病说来话长",
+          "title": "VOL.11脊柱外科｜在舞台和手术台之间切换自如的摇滚医生",
+          "url": "/wiki/sources/vol-11-jizhuwaike-zai-wutai-he-shoushutai-zhijian-qiehuan-ziru-de-yaogun-yisheng-lsuymbo3py0vfgz6ejw0zie-rqtu/"
         }
       ],
       "updated": "2026-09-29",
@@ -131035,6 +131058,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/pengxuanwesternhan/"
+    },
+    "PenicillinBand": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lsuymBO3PY0VFgz6ejw0ZiE_rqTu [lsuymBO3PY0VFgz6ejw0ZiE_rqTu].md",
+          "key": "vol-11-jizhuwaike-zai-wutai-he-shoushutai-zhijian-qiehuan-ziru-de-yaogun-yisheng-lsuymbo3py0vfgz6ejw0zie-rqtu",
+          "show": "这病说来话长",
+          "title": "VOL.11脊柱外科｜在舞台和手术台之间切换自如的摇滚医生",
+          "url": "/wiki/sources/vol-11-jizhuwaike-zai-wutai-he-shoushutai-zhijian-qiehuan-ziru-de-yaogun-yisheng-lsuymbo3py0vfgz6ejw0zie-rqtu/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/penicillinband/"
     },
     "Pennsylvania": {
       "episode_count": 2,
