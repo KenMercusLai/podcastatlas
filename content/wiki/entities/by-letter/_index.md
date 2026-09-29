@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 11441
+wiki_total_pages: 11444
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -92,6 +92,9 @@ wiki_pages:
   - key: "ABC"
     title: "ABC"
     url: "/wiki/entities/abc/"
+  - key: "AbdAlRahmanIII"
+    title: "Abd al-Rahman III"
+    url: "/wiki/entities/abdalrahmaniii/"
   - key: "AbdelFattahAlSisi"
     title: "Abdel Fattah al-Sisi"
     url: "/wiki/entities/abdelfattahalsisi/"
@@ -464,6 +467,9 @@ wiki_pages:
   - key: "AlMansur"
     title: "Al-Mansur"
     url: "/wiki/entities/almansur/"
+  - key: "AlMansurCordoba"
+    title: "Al-Mansur / Almanzor (Cordoba)"
+    url: "/wiki/entities/almansurcordoba/"
   - key: "Alabama"
     title: "Alabama"
     url: "/wiki/entities/alabama/"

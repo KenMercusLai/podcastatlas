@@ -4677,6 +4677,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/entities/abbiehoffman/"
     },
+    "AbdAlRahmanIII": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2203638069 [GLT2203638069].md",
+          "key": "281-spain-the-caliphate-of-cordoba-glt2203638069",
+          "show": "The Rest Is History",
+          "title": "281: Spain: The Caliphate of Córdoba",
+          "url": "/wiki/sources/281-spain-the-caliphate-of-cordoba-glt2203638069/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/abdalrahmaniii/"
+    },
     "AbleistCurePressure": {
       "episode_count": 1,
       "show_count": 1,
@@ -7597,9 +7613,9 @@
       "url": "/wiki/entities/akronohio/"
     },
     "AlAndalus": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lu8PaWNKiSeLmmrgubrEy4pq-4fw [lu8PaWNKiSeLmmrgubrEy4pq-4fw].md",
@@ -7607,9 +7623,16 @@
           "show": "忽左忽右",
           "title": "496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海",
           "url": "/wiki/sources/496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw/"
+        },
+        {
+          "episode_file": "GLT2203638069 [GLT2203638069].md",
+          "key": "281-spain-the-caliphate-of-cordoba-glt2203638069",
+          "show": "The Rest Is History",
+          "title": "281: Spain: The Caliphate of Córdoba",
+          "url": "/wiki/sources/281-spain-the-caliphate-of-cordoba-glt2203638069/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-30",
       "url": "/wiki/entities/alandalus/"
     },
     "AlIdrisi": {
@@ -7666,6 +7689,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/almansur/"
+    },
+    "AlMansurCordoba": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2203638069 [GLT2203638069].md",
+          "key": "281-spain-the-caliphate-of-cordoba-glt2203638069",
+          "show": "The Rest Is History",
+          "title": "281: Spain: The Caliphate of Córdoba",
+          "url": "/wiki/sources/281-spain-the-caliphate-of-cordoba-glt2203638069/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/almansurcordoba/"
     },
     "AlanCastel": {
       "episode_count": 1,
@@ -26956,6 +26995,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/concepts/centralbankindependence/"
     },
+    "CentralizedGoldenAgeFragility": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2203638069 [GLT2203638069].md",
+          "key": "281-spain-the-caliphate-of-cordoba-glt2203638069",
+          "show": "The Rest Is History",
+          "title": "281: Spain: The Caliphate of Córdoba",
+          "url": "/wiki/sources/281-spain-the-caliphate-of-cordoba-glt2203638069/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/centralizedgoldenagefragility/"
+    },
     "CentristFragmentationRunoffRisk": {
       "episode_count": 1,
       "show_count": 1,
@@ -37127,9 +37182,9 @@
       "url": "/wiki/entities/cordeliersclub/"
     },
     "CordobaCaliphate": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lu8PaWNKiSeLmmrgubrEy4pq-4fw [lu8PaWNKiSeLmmrgubrEy4pq-4fw].md",
@@ -37137,9 +37192,16 @@
           "show": "忽左忽右",
           "title": "496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海",
           "url": "/wiki/sources/496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw/"
+        },
+        {
+          "episode_file": "GLT2203638069 [GLT2203638069].md",
+          "key": "281-spain-the-caliphate-of-cordoba-glt2203638069",
+          "show": "The Rest Is History",
+          "title": "281: Spain: The Caliphate of Córdoba",
+          "url": "/wiki/sources/281-spain-the-caliphate-of-cordoba-glt2203638069/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-30",
       "url": "/wiki/entities/cordobacaliphate/"
     },
     "CoreBeforePeripheryStrategy": {
@@ -72602,6 +72664,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/greatirishfamine/"
     },
+    "GreatMosqueOfCordoba": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2203638069 [GLT2203638069].md",
+          "key": "281-spain-the-caliphate-of-cordoba-glt2203638069",
+          "show": "The Rest Is History",
+          "title": "281: Spain: The Caliphate of Córdoba",
+          "url": "/wiki/sources/281-spain-the-caliphate-of-cordoba-glt2203638069/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/greatmosqueofcordoba/"
+    },
     "GreatNorthernWar": {
       "episode_count": 4,
       "show_count": 1,
@@ -79588,6 +79666,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/hiddenpotential/"
     },
+    "HierarchicalPluralismAlAndalus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2203638069 [GLT2203638069].md",
+          "key": "281-spain-the-caliphate-of-cordoba-glt2203638069",
+          "show": "The Rest Is History",
+          "title": "281: Spain: The Caliphate of Córdoba",
+          "url": "/wiki/sources/281-spain-the-caliphate-of-cordoba-glt2203638069/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/hierarchicalpluralismalandalus/"
+    },
     "HigashinoKeigo": {
       "episode_count": 1,
       "show_count": 1,
@@ -85858,9 +85952,9 @@
       "url": "/wiki/entities/iberianpeninsula/"
     },
     "IberianReconquista": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lu8PaWNKiSeLmmrgubrEy4pq-4fw [lu8PaWNKiSeLmmrgubrEy4pq-4fw].md",
@@ -85875,9 +85969,16 @@
           "show": "The Rest Is History",
           "title": "306: Columbus: The Adventure Begins (Part 1)",
           "url": "/wiki/sources/306-columbus-the-adventure-begins-part-1-glt6089901915/"
+        },
+        {
+          "episode_file": "GLT2203638069 [GLT2203638069].md",
+          "key": "281-spain-the-caliphate-of-cordoba-glt2203638069",
+          "show": "The Rest Is History",
+          "title": "281: Spain: The Caliphate of Córdoba",
+          "url": "/wiki/sources/281-spain-the-caliphate-of-cordoba-glt2203638069/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-30",
       "url": "/wiki/concepts/iberianreconquista/"
     },
     "Iceni": {
@@ -175178,9 +175279,9 @@
       "url": "/wiki/concepts/ultrasoundexampreparationandsafety/"
     },
     "UmayyadCaliphate": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9529602805 [GLT9529602805].md",
@@ -175188,9 +175289,16 @@
           "show": "The Rest Is History",
           "title": "376. Baghdad: The Forging of Islam (Part 1)",
           "url": "/wiki/sources/376-baghdad-the-forging-of-islam-part-1-glt9529602805/"
+        },
+        {
+          "episode_file": "GLT2203638069 [GLT2203638069].md",
+          "key": "281-spain-the-caliphate-of-cordoba-glt2203638069",
+          "show": "The Rest Is History",
+          "title": "281: Spain: The Caliphate of Córdoba",
+          "url": "/wiki/sources/281-spain-the-caliphate-of-cordoba-glt2203638069/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-30",
       "url": "/wiki/entities/umayyadcaliphate/"
     },
     "UnapprovedMedicalAestheticProducts": {

@@ -947,6 +947,10 @@
     "title": "28.聊斋志异：不为君王唱赞歌，偏向苍生说鬼话",
     "url": "/wiki/sources/28-liaozhai-zhiyi-buwei-junwang-chang-zange-pianxiang-cangsheng-shuo-guihua-587843930/"
   },
+  "281-spain-the-caliphate-of-cordoba-glt2203638069": {
+    "title": "281: Spain: The Caliphate of Córdoba",
+    "url": "/wiki/sources/281-spain-the-caliphate-of-cordoba-glt2203638069/"
+  },
   "282-morocco-the-rif-war-glt7389759975": {
     "title": "282: Morocco: The Rif War",
     "url": "/wiki/sources/282-morocco-the-rif-war-glt7389759975/"
@@ -4347,6 +4351,10 @@
     "title": "Abby Rose",
     "url": "/wiki/entities/abbyrose/"
   },
+  "AbdAlRahmanIII": {
+    "title": "Abd al-Rahman III",
+    "url": "/wiki/entities/abdalrahmaniii/"
+  },
   "AbdelFattahAlSisi": {
     "title": "Abdel Fattah al-Sisi",
     "url": "/wiki/entities/abdelfattahalsisi/"
@@ -5678,6 +5686,10 @@
   "AlMansur": {
     "title": "Al-Mansur",
     "url": "/wiki/entities/almansur/"
+  },
+  "AlMansurCordoba": {
+    "title": "Al-Mansur / Almanzor (Cordoba)",
+    "url": "/wiki/entities/almansurcordoba/"
   },
   "Alabama": {
     "title": "Alabama",
@@ -13618,6 +13630,10 @@
   "CentralBankOfChina": {
     "title": "Central Bank of China",
     "url": "/wiki/entities/centralbankofchina/"
+  },
+  "CentralizedGoldenAgeFragility": {
+    "title": "Centralized Golden-Age Fragility",
+    "url": "/wiki/concepts/centralizedgoldenagefragility/"
   },
   "CentristFragmentationRunoffRisk": {
     "title": "Centrist Fragmentation Runoff Risk",
@@ -31179,6 +31195,10 @@
     "title": "Great Irish Famine",
     "url": "/wiki/entities/greatirishfamine/"
   },
+  "GreatMosqueOfCordoba": {
+    "title": "Great Mosque of Cordoba",
+    "url": "/wiki/entities/greatmosqueofcordoba/"
+  },
   "GreatNorthernExpedition": {
     "title": "Great Northern Expedition / 大北方探险",
     "url": "/wiki/entities/greatnorthernexpedition/"
@@ -33702,6 +33722,10 @@
   "HiddenValleyRanch": {
     "title": "Hidden Valley Ranch",
     "url": "/wiki/entities/hiddenvalleyranch/"
+  },
+  "HierarchicalPluralismAlAndalus": {
+    "title": "Hierarchical Pluralism in al-Andalus",
+    "url": "/wiki/concepts/hierarchicalpluralismalandalus/"
   },
   "HigashinoKeigo": {
     "title": "东野圭吾 / Higashino Keigo",

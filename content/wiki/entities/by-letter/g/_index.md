@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 11441
+wiki_total_pages: 11444
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -725,6 +725,9 @@ wiki_pages:
   - key: "GreatIrishFamine"
     title: "Great Irish Famine"
     url: "/wiki/entities/greatirishfamine/"
+  - key: "GreatMosqueOfCordoba"
+    title: "Great Mosque of Cordoba"
+    url: "/wiki/entities/greatmosqueofcordoba/"
   - key: "GreatNorthernExpedition"
     title: "Great Northern Expedition / 大北方探险"
     url: "/wiki/entities/greatnorthernexpedition/"

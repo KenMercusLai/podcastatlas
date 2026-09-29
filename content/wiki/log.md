@@ -25626,3 +25626,10 @@ Added source `282-morocco-the-rif-war-glt7389759975`; created `MohammedAbdelKrim
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-09-30] ingest | 281: Spain: The Caliphate of Córdoba
+
+Added source `281-spain-the-caliphate-of-cordoba-glt2203638069`; created `AbdAlRahmanIII`, `AlMansurCordoba`, `GreatMosqueOfCordoba`, `HierarchicalPluralismAlAndalus`, and `CentralizedGoldenAgeFragility`; and expanded `AlAndalus`, `CordobaCaliphate`, `UmayyadCaliphate`, and `IberianReconquista` from their complete bounded source sets. Core synthesis: Cordoba's urban, commercial, intellectual, and architectural brilliance depended on centralized peace, taxation, administration, succession, and military control, while meaningful cross-religious exchange operated within an unequal Muslim-dominant order. No settled contradiction was adopted. Mosque-site history, demographic and urban totals, library size, palace spectacle, and the causal weight of conversion, jizya, Berber recruitment, ethnic resentment, succession, and collapse remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
