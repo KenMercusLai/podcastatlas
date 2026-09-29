@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 11448
+wiki_total_pages: 11449
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1682,6 +1682,9 @@ wiki_pages:
   - key: "AvivOvadia"
     title: "Aviv Ovadia"
     url: "/wiki/entities/avivovadia/"
+  - key: "AvramGannibal"
+    title: "Avram Petrovich Gannibal"
+    url: "/wiki/entities/avramgannibal/"
   - key: "AwamiLeague"
     title: "Awami League"
     url: "/wiki/entities/awamileague/"

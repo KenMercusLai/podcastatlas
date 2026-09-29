@@ -8036,6 +8036,29 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/alexanderluria/"
     },
+    "AlexanderPushkin": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "78.西方决斗史：出剑吧！为了荣誉！ [687731000].md",
+          "key": "78-xifang-juedou-shi-chujian-ba-weile-rongyu-687731000",
+          "show": "蜜獾吃书",
+          "title": "78.西方决斗史：出剑吧！为了荣誉！",
+          "url": "/wiki/sources/78-xifang-juedou-shi-chujian-ba-weile-rongyu-687731000/"
+        },
+        {
+          "episode_file": "GLT8175760918 [GLT8175760918].md",
+          "key": "279-cameroon-the-slave-general-of-peter-the-great-glt8175760918",
+          "show": "The Rest Is History",
+          "title": "279: Cameroon: The Slave General of Peter the Great",
+          "url": "/wiki/sources/279-cameroon-the-slave-general-of-peter-the-great-glt8175760918/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/alexanderpushkin/"
+    },
     "AlexanderShulgin": {
       "episode_count": 1,
       "show_count": 1,
@@ -15865,6 +15888,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/avignonpapacy/"
+    },
+    "AvramGannibal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8175760918 [GLT8175760918].md",
+          "key": "279-cameroon-the-slave-general-of-peter-the-great-glt8175760918",
+          "show": "The Rest Is History",
+          "title": "279: Cameroon: The Slave General of Peter the Great",
+          "url": "/wiki/sources/279-cameroon-the-slave-general-of-peter-the-great-glt8175760918/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/avramgannibal/"
     },
     "AwaitingPunishmentPerformance": {
       "episode_count": 1,
@@ -23918,6 +23957,29 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/camerajet/"
+    },
+    "Cameroon": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "35.天真的人类学家：做田野会上瘾的！ [603418624].md",
+          "key": "35-tianzhende-renleixuejia-zuo-tianye-hui-shangyin-de-603418624",
+          "show": "蜜獾吃书",
+          "title": "35.天真的人类学家：做田野会上瘾的！",
+          "url": "/wiki/sources/35-tianzhende-renleixuejia-zuo-tianye-hui-shangyin-de-603418624/"
+        },
+        {
+          "episode_file": "GLT8175760918 [GLT8175760918].md",
+          "key": "279-cameroon-the-slave-general-of-peter-the-great-glt8175760918",
+          "show": "The Rest Is History",
+          "title": "279: Cameroon: The Slave General of Peter the Great",
+          "url": "/wiki/sources/279-cameroon-the-slave-general-of-peter-the-great-glt8175760918/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/cameroon/"
     },
     "CamilleDesmoulins": {
       "episode_count": 1,
@@ -134397,9 +134459,9 @@
       "url": "/wiki/entities/peterfrankopan/"
     },
     "PeterTheGreat": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 2,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "120.蓝狐岛：伟大事业中的雄心与现实 [772998218].md",
@@ -134463,6 +134525,13 @@
           "show": "The Rest Is History",
           "title": "357: Historical Love Island: The Sequel",
           "url": "/wiki/sources/357-historical-love-island-the-sequel-glt7719682575/"
+        },
+        {
+          "episode_file": "GLT8175760918 [GLT8175760918].md",
+          "key": "279-cameroon-the-slave-general-of-peter-the-great-glt8175760918",
+          "show": "The Rest Is History",
+          "title": "279: Cameroon: The Slave General of Peter the Great",
+          "url": "/wiki/sources/279-cameroon-the-slave-general-of-peter-the-great-glt8175760918/"
         }
       ],
       "updated": "2026-09-28",
@@ -143525,6 +143594,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/racialantisemitism/"
+    },
+    "RacializedAncestralClaimmaking": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8175760918 [GLT8175760918].md",
+          "key": "279-cameroon-the-slave-general-of-peter-the-great-glt8175760918",
+          "show": "The Rest Is History",
+          "title": "279: Cameroon: The Slave General of Peter the Great",
+          "url": "/wiki/sources/279-cameroon-the-slave-general-of-peter-the-great-glt8175760918/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/racializedancestralclaimmaking/"
     },
     "RadicalAcceptanceChronicStress": {
       "episode_count": 1,

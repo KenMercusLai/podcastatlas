@@ -25649,3 +25649,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-30] ingest | 279: Cameroon: The Slave General of Peter the Great
+
+Added source `279-cameroon-the-slave-general-of-peter-the-great-glt8175760918`; created `AvramGannibal` and `RacializedAncestralClaimmaking`; and expanded `AlexanderPushkin`, `Cameroon`, and `PeterTheGreat` from their complete bounded source sets. Core synthesis: Gannibal's technical achievement and exceptional rise from childhood enslavement to Russian noble and general depended on imperial patronage without escaping coercive hierarchy, while his uncertain origin became a contested resource for Russian, Cameroonian, Ethiopian, Soviet, and Black diasporic identity. No settled contradiction was adopted. Birthplace, elite parentage, “Fummo,” Peter's motives, military and family anecdotes, and literary-priority claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten because this 2022 episode backfills established Peter, Pushkin, Cameroon, and historical-memory branches.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [279: Cameroon: The Slave General of Peter the Great](sources/279-cameroon-the-slave-general-of-peter-the-great-glt8175760918.md) — The Rest Is History episode on Avram Gannibal's disputed Cameroonian origin, enslavement, engineering career under Peter the Great, Pushkin lineage, and racialized afterlives.
 - [280: Serbia: The Birthplace of Civilisation](sources/280-serbia-the-birthplace-of-civilisation-glt4941340070.md) — The Rest Is History episode on Vinča settlements, early copper working, symbol and writing disputes, Old Europe, and the limits of prehistoric reconstruction.
 - [Tools for Hormone Optimization in Males | Dr. Kyle Gillett](sources/tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim8881525886.md) — Full-length Huberman Lab interview on male puberty, hormone phenotyping, lifestyle foundations, fertility exposures, supplements, peptides, and supervised androgen interventions.
 - [281: Spain: The Caliphate of Córdoba](sources/281-spain-the-caliphate-of-cordoba-glt2203638069.md) — The Rest Is History episode on al-Andalus, Cordoba's Umayyad consolidation and golden age, hierarchical pluralism, Almanzor, civil war, and contingent Reconquista.
@@ -3250,6 +3251,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [284: Denmark: The Great Escape](sources/284-denmark-the-great-escape-glt4809968647.md) — The Rest Is History episode on warning, civic networks, Oresund transport, Swedish refuge, and the multi-causal rescue of the Danish Jews.
 
 ## Entities
+- [Avram Petrovich Gannibal](entities/AvramGannibal.md) — African-born military engineer, Russian nobleman and general, and Pushkin ancestor whose origin and afterlife remain contested.
 - [Vinča Culture](entities/VincaCulture.md) — Neolithic settlement and material-culture network centered in present-day Serbia.
 - [Miloje Vasić](entities/MilojeVasic.md) — Serbian archaeologist whose Vinča excavations revealed a much earlier culture than he initially proposed.
 - [Marija Gimbutas](entities/MarijaGimbutas.md) — Archaeologist associated with the contested goddess-centered Old Europe interpretation.
@@ -9954,7 +9956,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [John Gideon Millingen / 约翰·基甸·米林根](entities/JohnGideonMillingen.md) — Nineteenth-century doctor, military surgeon, and dueling-history author read critically by episode 78.
 - [Andrew Jackson / 安德鲁·杰克逊](entities/AndrewJackson.md) — U.S. president used by episode 78 as a high-frequency duelist and American honor-culture example.
 - [Aaron Burr / 阿伦·伯尔](entities/AaronBurr.md) — U.S. vice president whose rivalry with Hamilton, 1800 tie, 1804 challenge, and later ruin anchor the American political-dueling branch.
-- [Alexander Pushkin / 普希金](entities/AlexanderPushkin.md) — Literary dueling case used by episode 78 to show reputation, romance, and rumor turning deadly.
+- [Alexander Pushkin / 普希金](entities/AlexanderPushkin.md) — Russian writer whose fatal duel, African ancestry, Gannibal fiction, and later racial reception join honor culture to contested memory.
 - [Evariste Galois / 伽罗瓦](entities/EvaristeGalois.md) — Mathematician whose fatal duel is used by episode 78 as a compact case of intellectual life destroyed by honor logic.
 - [Richard Brinsley Sheridan / 谢里丹](entities/RichardBrinsleySheridan.md) — Writer and politician used by episode 78 to show dueling apologies, public humiliation, and renewed conflict.
 - [Julie d'Aubigny / Mademoiselle de Maupin / 莫庞小姐](entities/JulieDAubigny.md) — Opera performer and duelist used by episode 78 to make women visible as actors inside honor violence.
@@ -10054,7 +10056,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《天真的人类学家》 / The Innocent Anthropologist](entities/TheInnocentAnthropologist.md) — Nigel Barley fieldwork book used by episode 35 to demystify anthropology through everyday friction, dependency, humor, and development ambiguity.
 - [Nigel Barley / 奈杰尔·巴利](entities/NigelBarley.md) — British anthropologist whose Cameroon/Dowayo fieldwork anchors the episode's fieldwork-demystification branch.
 - [Dowayo People / 多瓦优人](entities/DowayoPeople.md) — Cameroon group discussed through Barley's source-scoped fieldwork account of ritual, gender, language, state paperwork, and development projects.
-- [Cameroon / 喀麦隆](entities/Cameroon.md) — Fieldwork setting where bureaucracy, colonial language history, local officials, missions, and development policy shape the episode's anthropology branch.
+- [Cameroon / 喀麦隆](entities/Cameroon.md) — Country appearing through anthropology, development institutions, internal plurality, and the qualified Gannibal-origin hypothesis.
 - [Bronislaw Malinowski / 马林诺夫斯基](entities/BronislawMalinowski.md) — Classic anthropology fieldwork figure used by episode 35 to frame diary scandal, fieldwork prestige, and the deflation of heroic observers.
 - [Cat / 猫](entities/Cat.md) — Central animal of episode 34, connecting cat domestication, pest-control infrastructure, religious mythology, cultural ambivalence, and companion-animal afterlives.
 - [《猫咪秘史：从史前时期到太空时代》](entities/MaomiMishiBook.md) — Book discussed by episode 34 as a cat-centered narrative of human-cat history from agriculture and Egypt to ships, war, and space.
@@ -14726,6 +14728,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Christian X of Denmark](entities/ChristianXOfDenmark.md) — Occupation-era monarch symbolizing national continuity and Jewish civic inclusion while the yellow-star story remains a myth.
 
 ## Concepts
+- [Racialized Ancestral Claimmaking](concepts/RacializedAncestralClaimmaking.md) — Process by which uncertain ancestry is evidentially contested and repurposed for literary, national, religious, or racial identity.
 - [Vinča Symbols and Proto-Writing](concepts/VincaSymbolsProtoWriting.md) — Contested classification of Vinča marks as decoration, notation, proto-writing, or writing.
 - [Archaeological Interpretation Under Sparse Evidence](concepts/ArchaeologicalInterpretationUnderSparseEvidence.md) — Confidence boundary between material finds and wider reconstructions of language, society, religion, or collapse.
 - [Male Puberty Growth Context](concepts/MalePubertyGrowthContext.md) — Development-first frame separating resistance training from adiposity, energy, sleep, nutrition, endocrine context, and clinical concerns in male puberty and growth.
