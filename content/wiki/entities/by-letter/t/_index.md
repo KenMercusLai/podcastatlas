@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 11449
+wiki_total_pages: 11453
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -614,6 +614,9 @@ wiki_pages:
   - key: "ThomasDoughty"
     title: "Thomas Doughty"
     url: "/wiki/entities/thomasdoughty/"
+  - key: "ThomasEdison"
+    title: "Thomas Edison"
+    url: "/wiki/entities/thomasedison/"
   - key: "ThomasHobbes"
     title: "Thomas Hobbes / 托马斯·霍布斯"
     url: "/wiki/entities/thomashobbes/"

@@ -49371,6 +49371,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/evvalueformoneycostdiscipline/"
     },
+    "EadweardMuybridge": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1101934476 [GLT1101934476].md",
+          "key": "278-france-the-mystery-of-le-prince-glt1101934476",
+          "show": "The Rest Is History",
+          "title": "278: France: The Mystery of Le Prince",
+          "url": "/wiki/sources/278-france-the-mystery-of-le-prince-glt1101934476/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/eadweardmuybridge/"
+    },
     "EarCanalInflammationRisk": {
       "episode_count": 2,
       "show_count": 1,
@@ -49448,6 +49464,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/concepts/earlychristianexaltation/"
+    },
+    "EarlyCinemaInventionPriority": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1101934476 [GLT1101934476].md",
+          "key": "278-france-the-mystery-of-le-prince-glt1101934476",
+          "show": "The Rest Is History",
+          "title": "278: France: The Mystery of Le Prince",
+          "url": "/wiki/sources/278-france-the-mystery-of-le-prince-glt1101934476/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/earlycinemainventionpriority/"
     },
     "EarlyConfucianResistancePolitics": {
       "episode_count": 2,
@@ -109282,6 +109314,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/louischarles/"
     },
+    "LouisLePrince": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1101934476 [GLT1101934476].md",
+          "key": "278-france-the-mystery-of-le-prince-glt1101934476",
+          "show": "The Rest Is History",
+          "title": "278: France: The Mystery of Le Prince",
+          "url": "/wiki/sources/278-france-the-mystery-of-le-prince-glt1101934476/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/louisleprince/"
+    },
     "LouisMoreauGottschalk": {
       "episode_count": 1,
       "show_count": 1,
@@ -150228,6 +150276,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/roundcityofbaghdad/"
     },
+    "RoundhayGardenScene": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1101934476 [GLT1101934476].md",
+          "key": "278-france-the-mystery-of-le-prince-glt1101934476",
+          "show": "The Rest Is History",
+          "title": "278: France: The Mystery of Le Prince",
+          "url": "/wiki/sources/278-france-the-mystery-of-le-prince-glt1101934476/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/roundhaygardenscene/"
+    },
     "Roundup": {
       "episode_count": 1,
       "show_count": 1,
@@ -171110,6 +171174,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/thomasarnold/"
+    },
+    "ThomasEdison": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1101934476 [GLT1101934476].md",
+          "key": "278-france-the-mystery-of-le-prince-glt1101934476",
+          "show": "The Rest Is History",
+          "title": "278: France: The Mystery of Le Prince",
+          "url": "/wiki/sources/278-france-the-mystery-of-le-prince-glt1101934476/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/thomasedison/"
     },
     "ThomasHowardDukeOfNorfolk": {
       "episode_count": 1,

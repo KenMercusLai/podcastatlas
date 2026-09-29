@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [278: France: The Mystery of Le Prince](sources/278-france-the-mystery-of-le-prince-glt1101934476.md) — The Rest Is History episode on Louis Le Prince's 1888 Leeds films, unresolved projection system, disappearance, and contested place in cinema invention history.
 - [279: Cameroon: The Slave General of Peter the Great](sources/279-cameroon-the-slave-general-of-peter-the-great-glt8175760918.md) — The Rest Is History episode on Avram Gannibal's disputed Cameroonian origin, enslavement, engineering career under Peter the Great, Pushkin lineage, and racialized afterlives.
 - [280: Serbia: The Birthplace of Civilisation](sources/280-serbia-the-birthplace-of-civilisation-glt4941340070.md) — The Rest Is History episode on Vinča settlements, early copper working, symbol and writing disputes, Old Europe, and the limits of prehistoric reconstruction.
 - [Tools for Hormone Optimization in Males | Dr. Kyle Gillett](sources/tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim8881525886.md) — Full-length Huberman Lab interview on male puberty, hormone phenotyping, lifestyle foundations, fertility exposures, supplements, peptides, and supervised androgen interventions.
@@ -3251,6 +3252,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [284: Denmark: The Great Escape](sources/284-denmark-the-great-escape-glt4809968647.md) — The Rest Is History episode on warning, civic networks, Oresund transport, Swedish refuge, and the multi-causal rescue of the Danish Jews.
 
 ## Entities
+- [Louis Le Prince](entities/LouisLePrince.md) — French-born artist-inventor whose surviving 1888 Leeds films and 1890 disappearance shape his contested cinema priority.
+- [Eadweard Muybridge](entities/EadweardMuybridge.md) — Photographer whose sequential motion studies influenced Le Prince's moving-picture experiments.
+- [Thomas Edison](entities/ThomasEdison.md) — Bounded early-cinema profile separating public demonstration and patent litigation from an unproven disappearance theory.
+- [Roundhay Garden Scene](entities/RoundhayGardenScene.md) — Surviving 1888 Leeds footage that evidences Le Prince's motion-picture capture while leaving projection unresolved.
 - [Avram Petrovich Gannibal](entities/AvramGannibal.md) — African-born military engineer, Russian nobleman and general, and Pushkin ancestor whose origin and afterlife remain contested.
 - [Vinča Culture](entities/VincaCulture.md) — Neolithic settlement and material-culture network centered in present-day Serbia.
 - [Miloje Vasić](entities/MilojeVasic.md) — Serbian archaeologist whose Vinča excavations revealed a much earlier culture than he initially proposed.
@@ -14728,6 +14733,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Christian X of Denmark](entities/ChristianXOfDenmark.md) — Occupation-era monarch symbolizing national continuity and Jewish civic inclusion while the yellow-star story remains a myth.
 
 ## Concepts
+- [Early Cinema Invention Priority](concepts/EarlyCinemaInventionPriority.md) — Framework separating sequential photography, capture, patenting, projection, demonstration, commercialization, and remembered credit.
 - [Racialized Ancestral Claimmaking](concepts/RacializedAncestralClaimmaking.md) — Process by which uncertain ancestry is evidentially contested and repurposed for literary, national, religious, or racial identity.
 - [Vinča Symbols and Proto-Writing](concepts/VincaSymbolsProtoWriting.md) — Contested classification of Vinča marks as decoration, notation, proto-writing, or writing.
 - [Archaeological Interpretation Under Sparse Evidence](concepts/ArchaeologicalInterpretationUnderSparseEvidence.md) — Confidence boundary between material finds and wider reconstructions of language, society, religion, or collapse.

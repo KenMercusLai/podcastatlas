@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 11449
+wiki_total_pages: 11453
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -23,6 +23,9 @@ wiki_pages:
   - key: "EAB"
     title: "EAB"
     url: "/wiki/entities/eab/"
+  - key: "EadweardMuybridge"
+    title: "Eadweard Muybridge"
+    url: "/wiki/entities/eadweardmuybridge/"
   - key: "EarthKit"
     title: "EarthKit"
     url: "/wiki/entities/earthkit/"

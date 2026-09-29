@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 11449
+wiki_total_pages: 11453
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -776,6 +776,9 @@ wiki_pages:
   - key: "RoswellIncident"
     title: "Roswell Incident / 罗斯维尔事件"
     url: "/wiki/entities/roswellincident/"
+  - key: "RoundhayGardenScene"
+    title: "Roundhay Garden Scene"
+    url: "/wiki/entities/roundhaygardenscene/"
   - key: "Roundup"
     title: "Roundup"
     url: "/wiki/entities/roundup/"

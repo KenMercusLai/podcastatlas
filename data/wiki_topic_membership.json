@@ -1470,6 +1470,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "278-france-the-mystery-of-le-prince-glt1101934476": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "279-cameroon-the-slave-general-of-peter-the-great-glt8175760918": [
     {
       "key": "history",
@@ -65682,6 +65689,13 @@
     }
   ],
   "RosieBloor": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "RoundhayGardenScene": [
     {
       "key": "culture",
       "label": "Culture",

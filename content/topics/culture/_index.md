@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2922
+topic_total_pages: 2923
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -5048,6 +5048,9 @@ topic_entities:
   - key: "RosieBloor"
     title: "Rosie Bloor"
     url: "/wiki/entities/rosiebloor/"
+  - key: "RoundhayGardenScene"
+    title: "Roundhay Garden Scene"
+    url: "/wiki/entities/roundhaygardenscene/"
   - key: "Route66"
     title: "Route 66"
     url: "/wiki/entities/route66/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 8866
+wiki_total_pages: 8867
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -23,6 +23,9 @@ wiki_pages:
   - key: "EarlyChristianExaltation"
     title: "Early Christian Exaltation"
     url: "/wiki/concepts/earlychristianexaltation/"
+  - key: "EarlyCinemaInventionPriority"
+    title: "Early Cinema Invention Priority"
+    url: "/wiki/concepts/earlycinemainventionpriority/"
   - key: "EarlyConfucianResistancePolitics"
     title: "Early Confucian Resistance Politics / 早期儒家的反抗政治"
     url: "/wiki/concepts/earlyconfucianresistancepolitics/"

@@ -25657,3 +25657,11 @@ Added source `279-cameroon-the-slave-general-of-peter-the-great-glt8175760918`; 
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-30] ingest | 278: France: The Mystery of Le Prince
+
+Added source `278-france-the-mystery-of-le-prince-glt1101934476`; created `LouisLePrince`, `EadweardMuybridge`, `ThomasEdison`, `RoundhayGardenScene`, and `EarlyCinemaInventionPriority`; and updated the canonical index. Core synthesis: early-cinema priority must separate sequential photography, motion-picture capture, patenting, projection, public demonstration, commercial continuity, and historical memory; Le Prince's surviving 1888 films establish a serious technical claim without resolving his projector or making any disappearance theory true. No settled contradiction was adopted. “Father of cinema,” patent and projection details, the Seine photograph, murder, suicide, voluntary disappearance, and Edison involvement remain contested or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten because this episode opens a bounded early-cinema branch without changing the wiki-wide synthesis; downstream synthesis refresh only reads it.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
