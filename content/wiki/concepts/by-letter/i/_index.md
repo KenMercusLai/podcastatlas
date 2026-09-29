@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 8852
+wiki_total_pages: 8854
 wiki_pages:
   - key: "IBDPatientEducationAndPeerSupport"
     title: "IBD Patient Education and Peer Support / IBD患者教育与同伴支持"
@@ -74,6 +74,9 @@ wiki_pages:
   - key: "ImageFirstIP"
     title: "Image-First IP"
     url: "/wiki/concepts/imagefirstip/"
+  - key: "ImagingRadiationRiskBenefit"
+    title: "Imaging Radiation Risk-Benefit / 影像辐射风险收益"
+    url: "/wiki/concepts/imagingradiationriskbenefit/"
   - key: "IMAXAuthenticityAesthetic"
     title: "IMAX Authenticity Aesthetic / IMAX真实美学"
     url: "/wiki/concepts/imaxauthenticityaesthetic/"

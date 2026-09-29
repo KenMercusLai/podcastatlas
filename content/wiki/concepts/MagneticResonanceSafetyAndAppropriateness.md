@@ -5,7 +5,8 @@ tags: [healthcare, medical-imaging, mri, patient-safety, diagnostic-reasoning]
 sources:
   - vol-131-yisheng-qing-huida-ni-ruguo-yinman-bingshi-yisheng-zhende-bu-zhidao-ma-lg-a6kjqu-s1lk8uu1fapb763xzq
   - vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt
-last_updated: 2026-09-27
+  - vol-01-yingxiangke-yixue-yingxiangke-li-fushe-chulai-de-naxie-shier-lgxelt6usztrpyoamymmk-v46-v8u
+last_updated: 2026-09-30
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,8 +22,10 @@ The same boundary applies to scan scope. Pregnancy or an additional spinal regio
 
 VOL.100 makes the external-object branch concrete. Coins, hairpins, badges, identity cards, removable dentures, and prosthetic limbs can be overlooked, attracted, damaged, or left around the scanner. Screening must therefore cover pockets, clothing, accessories, removable dental work, and prostheses rather than only implanted devices.
 
+VOL.01 adds the mechanism distinction: MRI does not use ionizing radiation, but that does not make the scanner environment risk-free. The persistent magnetic field, radiofrequency heating, ferromagnetic projectile risk, implant artifacts, and the exceptional cost and complexity of shutting down or recovering a superconducting system require strict room-entry control even when no X-ray dose is involved.
+
 ## Key Claims
-- MRI-room safety requires exact identification of devices, implants, pumps, metal-containing parts, and detachable components.
+- MRI-room safety requires exact identification of devices, implants, pumps, metal-containing parts, and detachable components; absence of ionizing radiation does not remove magnetic, heating, device-interaction, or emergency-response hazards.
 - Some implants are conditionally compatible only under specified field strength, programming, positioning, or component-removal rules.
 - Pregnancy does not make MRI categorically impossible, but timing and indication still require qualified judgment.
 - A tube or drain may be compatible while its spring, pump, or attached hardware is not, so the complete assembly matters.
@@ -37,13 +40,15 @@ VOL.100 makes the external-object branch concrete. Coins, hairpins, badges, iden
 - Pregnancy and sedation: [[vol-131-yisheng-qing-huida-ni-ruguo-yinman-bingshi-yisheng-zhende-bu-zhidao-ma-lg-a6kjqu-s1lk8uu1fapb763xzq|VOL.131]] discusses fetal MRI and the need for some infants to be sedated so a long, noisy examination can be completed.
 - Scan appropriateness: [[vol-131-yisheng-qing-huida-ni-ruguo-yinman-bingshi-yisheng-zhende-bu-zhidao-ma-lg-a6kjqu-s1lk8uu1fapb763xzq|VOL.131]] weighs a requested thoracic MRI against examination findings, an additional order, alternative radiography, and the risk of unnecessary testing.
 - External-object screening: [[vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt|VOL.100]] gives examples involving coins, hairpins, badges, identity cards, removable dentures, and prosthetic limbs, including objects later found around scanner hardware.
+- Mechanism and persistent-field risk: [[vol-01-yingxiangke-yixue-yingxiangke-li-fushe-chulai-de-naxie-shier-lgxelt6usztrpyoamymmk-v46-v8u|VOL.01]] distinguishes MRI's magnetic and radiofrequency mechanism from ionizing radiation and uses a wheelchair projectile example to explain strict ferromagnetic-object control.
+- Implant and artifact caution: [[vol-01-yingxiangke-yixue-yingxiangke-li-fushe-chulai-de-naxie-shier-lgxelt6usztrpyoamymmk-v46-v8u|VOL.01]] notes that some implants may be usable under conditions while still degrading the image, reinforcing exact-device rather than category-level clearance.
 
 ## Counterevidence & Qualifications
-The episode provides public examples, not a current compatibility database or imaging guideline. Device labeling, magnet strength, software or programming, implant age, pregnancy context, sedation capability, local policy, and the clinical indication can all change the decision. Patients should not use a category-level statement about “ear implants,” “pacemakers,” “pumps,” pregnancy, or metal to self-clear an MRI.
+The sources provide public examples, not a current compatibility database or imaging guideline. Device labeling, magnet strength, software or programming, implant age, pregnancy context, sedation capability, local policy, and the clinical indication can all change the decision. The VOL.01 statements about stents, heating, liquid helium, quench recovery cost, and physically removing a trapped object are source-scoped and must not be used as operational instructions. Patients and staff should not use a category-level statement about “ear implants,” “pacemakers,” “pumps,” stents, pregnancy, or metal to self-clear an MRI.
 
 ## What Changed
-- Added pockets, clothing, accessories, removable dental work, and prostheses to the room-entry screening model.
-- Made small hidden-object and projectile risk concrete without changing the separate appropriateness judgment.
+- Clarified why absence of ionizing radiation does not remove magnetic, heating, device, artifact, or emergency-response hazards.
+- Added persistent-field and superconducting-system context to the room-entry safety model.
 
 ## Related Concepts
 - [[MedicalDiagnosticReasoning]] - determines whether the scan and anatomical scope answer the clinical question.
@@ -52,3 +57,4 @@ The episode provides public examples, not a current compatibility database or im
 - [[MedicalImagingCommunicationBoundary]] - governs how imaging preparation, acquisition, reporting, and clinical interpretation are communicated.
 - [[SymptomDrivenSpineCare]] - adjacent spine-care rule that imaging findings and scan scope must remain connected to symptoms and examination.
 - [[ClinicalHistoryDisclosure]] - provides implant, procedure, pregnancy, and device information needed for safe screening.
+- [[ImagingRadiationRiskBenefit]] - distinguishes MRI's non-ionizing mechanism from X-ray, CT, and radiotracer exposure.

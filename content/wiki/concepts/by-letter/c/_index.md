@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8852
+wiki_total_pages: 8854
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2006,6 +2006,9 @@ wiki_pages:
   - key: "ContrarianSentimentIndicators"
     title: "Contrarian Sentiment Indicators"
     url: "/wiki/concepts/contrariansentimentindicators/"
+  - key: "ContrastMediaSafetyAndConsent"
+    title: "Contrast Media Safety and Consent / 造影剂安全与知情同意"
+    url: "/wiki/concepts/contrastmediasafetyandconsent/"
   - key: "ControlPreservingGrowthCapital"
     title: "Control-Preserving Growth Capital"
     url: "/wiki/concepts/controlpreservinggrowthcapital/"

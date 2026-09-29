@@ -25602,3 +25602,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-30] ingest | VOL.01影像科｜医学影像科里“辐射”出来的那些事儿
+
+Added source `vol-01-yingxiangke-yixue-yingxiangke-li-fushe-chulai-de-naxie-shier-lgxelt6usztrpyoamymmk-v46-v8u`; created `ImagingRadiationRiskBenefit` and `ContrastMediaSafetyAndConsent`; and expanded `MedicalImagingCommunicationBoundary`, `RadiographerClinicalResponsibility`, and `MagneticResonanceSafetyAndAppropriateness` from their complete bounded source sets. Core synthesis: X-ray and CT radiation, MRI magnetic hazards, CT contrast, PET radiotracers, image acquisition, formal reporting, and clinical interpretation are distinct layers that require modality-specific explanation, justified risk-benefit judgment, and qualified workflow. No settled contradiction was adopted. Dose comparisons, tracer-clearance timing, implant compatibility, quench response, contrast testing and reaction rates, and bedside exposure details remain source-scoped public education rather than individualized guidance. The automatic `wiki/overview.md` was read for context but not manually rewritten because this 2022 episode backfills an established medical-imaging branch without changing the wiki-wide synthesis.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

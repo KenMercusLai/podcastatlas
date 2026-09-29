@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.01影像科｜医学影像科里“辐射”出来的那些事儿](sources/vol-01-yingxiangke-yixue-yingxiangke-li-fushe-chulai-de-naxie-shier-lgxelt6usztrpyoamymmk-v46-v8u.md) — 这病说来话长 episode on imaging modalities, radiation risk-benefit, MRI safety, contrast reactions, PET tracers, role separation, and bedside imaging.
 - [VOL.02影像科｜那些患者不想说的体内异物或致命｜喝醋能否软化被误吞的鱼刺｜要不要经常掏耳朵](sources/vol-02-yingxiangke-naxie-huanzhe-buxiang-shuo-de-tinei-yiwu-huo-zhiming-hecu-nengfou-ruanhua-bei-wutun-de-yuci-yaobuyao-jingchang-tao-erduo-lnflf1c5kthpz_8arhb2vux0b2zk.md) — 这病说来话长 episode on fish-bone and date-pit ingestion, retained rectal and urethral objects, truthful disclosure, symptom-poor risk, and ear-cleaning safety.
 - [India's Gig Economy, Education & The Future of Work | Chetan Bhagat | Tomorrow Today](sources/default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559-default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559.md) — Tomorrow Today interview with Chetan Bhagat on creativity, education and platform inequality, achievement, AI safety, human authorship, cognitive offloading, and a more examined definition of success.
 - [VOL.03传染病｜半夜接到恐艾人电话 还是我们对艾滋病防治宣传太少｜防狂犬病及时打疫苗](sources/vol-03-chuanranbing-banye-jiedao-kongairen-dianhua-haishi-women-dui-aizibing-fangzhi-xuanchuan-taishao-fang-kuangquanbing-jishi-da-yimiao-ljbk6zqxqkscsp9veggcut0ugjjr.md) — 这病说来话长 episode on rabies exposure, STI care, hepatitis and HIV transmission literacy, vaccination boundaries, qualified treatment, privacy, and infection stigma.
@@ -14705,6 +14706,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Christian X of Denmark](entities/ChristianXOfDenmark.md) — Occupation-era monarch symbolizing national continuity and Jewish civic inclusion while the yellow-star story remains a myth.
 
 ## Concepts
+- [Imaging Radiation Risk-Benefit / 影像辐射风险收益](concepts/ImagingRadiationRiskBenefit.md) — Modality-, dose-, indication-, and context-aware framework balancing diagnostic value against ionizing-radiation exposure.
+- [Contrast Media Safety and Consent / 造影剂安全与知情同意](concepts/ContrastMediaSafetyAndConsent.md) — Framework distinguishing contrast enhancement from radioactive tracers while joining risk screening, consent, monitoring, and response readiness.
 - [Achievement as Adaptive Overdrive](concepts/AchievementAsAdaptiveOverdrive.md) — Pattern in which adversity-powered ambition remains active after the threat changes, requiring success to be separated from wellbeing.
 - [Natural Intelligence–AI Boundary](concepts/NaturalIntelligenceAIBoundary.md) — Practical rule preserving human judgment, difficult learning, relationships, moral purpose, and self-directed experience when AI assists.
 - [Poor-to-Rich Platform Economy](concepts/PoorToRichPlatformEconomy.md) — Distributional lens for platforms that organize inexpensive labor to serve affluent consumers while worker security and progression remain limited.
