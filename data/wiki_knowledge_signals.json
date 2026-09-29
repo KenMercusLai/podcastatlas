@@ -5824,9 +5824,9 @@
       "url": "/wiki/entities/adolfeichmann/"
     },
     "AdolfHitler": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 1,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "GLT5771265943 [GLT5771265943].md",
@@ -5904,6 +5904,13 @@
           "show": "The Rest Is History",
           "title": "296: The Nazis: The Beer Hall Putsch (Part 2)",
           "url": "/wiki/sources/296-the-nazis-the-beer-hall-putsch-part-2-glt4099180386/"
+        },
+        {
+          "episode_file": "GLT8045984312 [GLT8045984312].md",
+          "key": "295-the-rise-of-the-nazis-part-1-glt8045984312",
+          "show": "The Rest Is History",
+          "title": "295: The Rise of the Nazis (Part 1)",
+          "url": "/wiki/sources/295-the-rise-of-the-nazis-part-1-glt8045984312/"
         }
       ],
       "updated": "2026-09-29",
@@ -61300,9 +61307,9 @@
       "url": "/wiki/entities/firstsouthwestbank/"
     },
     "FirstWorldWar": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "GLT1889262052 [GLT1889262052].md",
@@ -61359,9 +61366,16 @@
           "show": "The Rest Is History",
           "title": "473. The Road to The Great War: The Tsar Chooses War (Part 5)",
           "url": "/wiki/sources/473-the-road-to-the-great-war-the-tsar-chooses-war-part-5-glt1322848845/"
+        },
+        {
+          "episode_file": "GLT8045984312 [GLT8045984312].md",
+          "key": "295-the-rise-of-the-nazis-part-1-glt8045984312",
+          "show": "The Rest Is History",
+          "title": "295: The Rise of the Nazis (Part 1)",
+          "url": "/wiki/sources/295-the-rise-of-the-nazis-part-1-glt8045984312/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/firstworldwar/"
     },
     "FirstWorldWarGasWarfare": {
@@ -64449,9 +64463,9 @@
       "url": "/wiki/concepts/freshallergysafeproductionscaling/"
     },
     "FriedrichEbert": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6217148052 [GLT6217148052].md",
@@ -64466,6 +64480,13 @@
           "show": "The Rest Is History",
           "title": "296: The Nazis: The Beer Hall Putsch (Part 2)",
           "url": "/wiki/sources/296-the-nazis-the-beer-hall-putsch-part-2-glt4099180386/"
+        },
+        {
+          "episode_file": "GLT8045984312 [GLT8045984312].md",
+          "key": "295-the-rise-of-the-nazis-part-1-glt8045984312",
+          "show": "The Rest Is History",
+          "title": "295: The Rise of the Nazis (Part 1)",
+          "url": "/wiki/sources/295-the-rise-of-the-nazis-part-1-glt8045984312/"
         }
       ],
       "updated": "2026-09-02",
@@ -68699,9 +68720,9 @@
       "url": "/wiki/concepts/geopoliticalcriminaldeterrence/"
     },
     "GeorgVonSchonerer": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6194086702 [GLT6194086702].md",
@@ -68709,9 +68730,16 @@
           "show": "The Rest Is History",
           "title": "689. A Murderous Affair: The Habsburgs' Greatest Scandal (Part 1)",
           "url": "/wiki/sources/689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702/"
+        },
+        {
+          "episode_file": "GLT8045984312 [GLT8045984312].md",
+          "key": "295-the-rise-of-the-nazis-part-1-glt8045984312",
+          "show": "The Rest Is History",
+          "title": "295: The Rise of the Nazis (Part 1)",
+          "url": "/wiki/sources/295-the-rise-of-the-nazis-part-1-glt8045984312/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-09-29",
       "url": "/wiki/entities/georgvonschonerer/"
     },
     "GeorgeArmistead": {
@@ -69178,6 +69206,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/germancaretakerstalemate/"
+    },
+    "GermanEmpire": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8045984312 [GLT8045984312].md",
+          "key": "295-the-rise-of-the-nazis-part-1-glt8045984312",
+          "show": "The Rest Is History",
+          "title": "295: The Rise of the Nazis (Part 1)",
+          "url": "/wiki/sources/295-the-rise-of-the-nazis-part-1-glt8045984312/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/germanempire/"
     },
     "GermanNationalAnthem": {
       "episode_count": 1,
@@ -121512,6 +121556,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/naziinvoluntaryeuthanasiaprogram/"
     },
+    "NaziParty": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8045984312 [GLT8045984312].md",
+          "key": "295-the-rise-of-the-nazis-part-1-glt8045984312",
+          "show": "The Rest Is History",
+          "title": "295: The Rise of the Nazis (Part 1)",
+          "url": "/wiki/sources/295-the-rise-of-the-nazis-part-1-glt8045984312/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/naziparty/"
+    },
     "NaziRacialMorality": {
       "episode_count": 2,
       "show_count": 1,
@@ -127142,6 +127202,22 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/entities/ottothegreat/"
+    },
+    "OttoVonBismarck": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8045984312 [GLT8045984312].md",
+          "key": "295-the-rise-of-the-nazis-part-1-glt8045984312",
+          "show": "The Rest Is History",
+          "title": "295: The Rise of the Nazis (Part 1)",
+          "url": "/wiki/sources/295-the-rise-of-the-nazis-part-1-glt8045984312/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/ottovonbismarck/"
     },
     "OttomanEmpire": {
       "episode_count": 6,
@@ -140815,6 +140891,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/concepts/rulerframework/"
+    },
+    "RacialAntisemitism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8045984312 [GLT8045984312].md",
+          "key": "295-the-rise-of-the-nazis-part-1-glt8045984312",
+          "show": "The Rest Is History",
+          "title": "295: The Rise of the Nazis (Part 1)",
+          "url": "/wiki/sources/295-the-rise-of-the-nazis-part-1-glt8045984312/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/racialantisemitism/"
     },
     "RadicalAcceptanceChronicStress": {
       "episode_count": 1,
@@ -156483,9 +156575,9 @@
       "url": "/wiki/concepts/socialcontractuk1970s/"
     },
     "SocialDarwinism": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "37.智商测试：请问你是智力婆罗门吗？ [608020679].md",
@@ -156507,9 +156599,16 @@
           "show": "The Rest Is History",
           "title": "332: King Solomon's Mines",
           "url": "/wiki/sources/332-king-solomons-mines-glt4960691587/"
+        },
+        {
+          "episode_file": "GLT8045984312 [GLT8045984312].md",
+          "key": "295-the-rise-of-the-nazis-part-1-glt8045984312",
+          "show": "The Rest Is History",
+          "title": "295: The Rise of the Nazis (Part 1)",
+          "url": "/wiki/sources/295-the-rise-of-the-nazis-part-1-glt8045984312/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/socialdarwinism/"
     },
     "SocialEmbarrassmentFear": {
@@ -168179,9 +168278,9 @@
       "url": "/wiki/entities/thrivecausemetics/"
     },
     "ThuleSociety": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2807981945 [GLT2807981945].md",
@@ -168189,9 +168288,16 @@
           "show": "The Rest Is History",
           "title": "315: Atlantis: Legacy of the Lost Empire (Part 2)",
           "url": "/wiki/sources/315-atlantis-legacy-of-the-lost-empire-part-2-glt2807981945/"
+        },
+        {
+          "episode_file": "GLT8045984312 [GLT8045984312].md",
+          "key": "295-the-rise-of-the-nazis-part-1-glt8045984312",
+          "show": "The Rest Is History",
+          "title": "295: The Rise of the Nazis (Part 1)",
+          "url": "/wiki/sources/295-the-rise-of-the-nazis-part-1-glt8045984312/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-29",
       "url": "/wiki/entities/thulesociety/"
     },
     "ThutmoseIII": {
@@ -177997,6 +178103,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/concepts/warasviolentredistribution/"
     },
+    "WarDefeatRadicalization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8045984312 [GLT8045984312].md",
+          "key": "295-the-rise-of-the-nazis-part-1-glt8045984312",
+          "show": "The Rest Is History",
+          "title": "295: The Rise of the Nazis (Part 1)",
+          "url": "/wiki/sources/295-the-rise-of-the-nazis-part-1-glt8045984312/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/wardefeatradicalization/"
+    },
     "WarOf1812": {
       "episode_count": 1,
       "show_count": 1,
@@ -179095,9 +179217,9 @@
       "url": "/wiki/entities/weizilatehan/"
     },
     "WeimarRepublic": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT6217148052 [GLT6217148052].md",
@@ -179119,6 +179241,13 @@
           "show": "The Rest Is History",
           "title": "296: The Nazis: The Beer Hall Putsch (Part 2)",
           "url": "/wiki/sources/296-the-nazis-the-beer-hall-putsch-part-2-glt4099180386/"
+        },
+        {
+          "episode_file": "GLT8045984312 [GLT8045984312].md",
+          "key": "295-the-rise-of-the-nazis-part-1-glt8045984312",
+          "show": "The Rest Is History",
+          "title": "295: The Rise of the Nazis (Part 1)",
+          "url": "/wiki/sources/295-the-rise-of-the-nazis-part-1-glt8045984312/"
         }
       ],
       "updated": "2026-09-29",

@@ -9,6 +9,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Access Your Creativity | Rick Rubin](sources/how-to-access-your-creativity-rick-rubin-scim6664103159.md) — Full Huberman Lab conversation on felt creative judgment, constraints, receptive attention, phase-specific deadlines, completion, feedback boundaries, and meditation.
 - [GUEST SERIES | Dr. Andy Galpin: How to Assess & Improve All Aspects of Your Fitness](sources/guest-series-dr-andy-galpin-how-to-assess-improve-all-aspects-of-your-fitness-scim9072919255.md) — Huberman Lab guest-series opener on nine trainable adaptations, cross-domain fitness gaps, practical self-testing, and weak-link prioritization.
 - [vol.56 对谈咪仔：人生是认领自己与确立使命的过程](sources/vol-56-duitan-mizi-rensheng-shi-renling-ziji-yu-queli-shiming-de-guocheng-lgrbpfubc8s6y59jb6tsd6glz-c.md) — 天真不天真 conversation on career-skill convergence, crime-podcast craft, journalism ethics, paid-content design, creator portfolios, vulnerability, and emotional triggers.
+- [295: The Rise of the Nazis (Part 1)](sources/295-the-rise-of-the-nazis-part-1-glt8045984312.md) — The Rest Is History episode on imperial Germany, European racial thought, First World War rupture, Hitler's early formation, and the Nazi Party's Munich origins.
 - [296: The Nazis: The Beer Hall Putsch (Part 2)](sources/296-the-nazis-the-beer-hall-putsch-part-2-glt4099180386.md) — The Rest Is History episode on Weimar's fragile foundations, hyperinflation, the failed Munich coup, trial and prison, Mein Kampf, and Hitler's turn toward procedural subversion.
 - [297: The Nazis: Hitler's Triumph (Part 3)](sources/297-the-nazis-hitlers-triumph-part-3-glt2055084600.md) — The Rest Is History episode on Depression-era Nazi growth, emergency government, paramilitary politics, elite authoritarian projects, and the containment bargain that made Hitler chancellor.
 - [How to Optimize Fertility in Males & Females](sources/how-to-optimize-fertility-in-males-females-scim8187072933.md) — Huberman Lab solo episode on reproductive biology, fertile-window timing, ovarian and semen testing, lifestyle exposures, supplements, and clinician-directed fertility care.
@@ -3557,6 +3558,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kristallnacht / Night of Broken Glass](entities/Kristallnacht.md) — State-enabled November 1938 pogrom joining central direction, police nonprotection, local participation, mass arrest, and dispossession.
 - [Herschel Grünspan](entities/HerschelGrunspan.md) — Polish Jewish refugee whose shooting of Ernst vom Rath was appropriated as the pogrom's public pretext.
 - [Ernst vom Rath](entities/ErnstVomRath.md) — German diplomat whose death Nazi leaders converted into propaganda authorization for Kristallnacht.
+- [Otto von Bismarck](entities/OttoVonBismarck.md) — Prussian statesman who founded an empire combining mass electoral politics with monarchical and military autonomy.
+- [German Empire](entities/GermanEmpire.md) — German state whose mixed constitutional order, wartime militarization, and abrupt defeat frame the prehistory of Weimar.
+- [Nazi Party](entities/NaziParty.md) — Movement formed from the German Workers' Party through Hitler's speaking, organizing, and early control in postwar Munich.
 - [Adolf Hitler](entities/AdolfHitler.md) — Nazi dictator who turned coup failure into procedural subversion, then joined mass mobilization, elite sponsorship, racial ideology, expansion, and violence.
 - [Joseph Goebbels](entities/JosephGoebbels.md) — Nazi propagandist who joined centralized film and radio distribution to racial-health morality, agitation, mobilization, and deniability.
 - [Nuremberg Laws](entities/NurembergLaws.md) — 1935 legal package that fused party-state symbolism with racial citizenship and intimate-life exclusion.
@@ -5954,7 +5958,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Deutsche Bahn](entities/DeutscheBahn.md) — Enterprise customer case in Uplane's source, showing slow ad-formatting automation as a wedge into compliance, purchasing, and cross-team marketing adoption.
 - [Princess Stephanie of Belgium](entities/PrincessStephanieOfBelgium.md) — Rudolf's arranged wife, whose fearful marriage, illness context, and daughter Elisabeth Marie sharpen the Mayerling succession pressure.
 - [Elisabeth Marie of Austria](entities/ElisabethMarieOfAustria.md) — Rudolf and Stephanie's daughter, named as the later Red Archduchess and as a dynastic child who does not resolve the male-heir problem.
-- [Georg von Schonerer](entities/GeorgVonSchonerer.md) — Pan-German nationalist and extremist antisemite used as Rudolf's political counterpoint in late-Habsburg Vienna.
+- [Georg von Schonerer](entities/GeorgVonSchonerer.md) — Pan-German antisemite linking late-Habsburg political conflict to part of the Viennese repertoire later encountered by Hitler.
 - [Tommy Wood](entities/TommyWood.md) — Huberman Lab guest explaining adult neuroplasticity, learning challenge, exercise, nutrient sufficiency, dementia prevention, concussion recovery, and strongman training.
 - [Alan Castel](entities/AlanCastel.md) — Huberman Lab guest explaining reconstructive memory, retrieval practice, eyewitness error, prospective memory, and cognitive aging.
 - [Nolan Williams](entities/NolanWilliams.md) — Huberman Lab guest explaining depression, circuit psychiatry, TMS/SNT, psychedelic-assisted research, trauma memory updating, and clinical supervision boundaries.
@@ -16199,7 +16203,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Unrestricted Submarine Warfare](concepts/UnrestrictedSubmarineWarfare.md) — First World War naval strategy where submarine attacks on merchant shipping collided with cruiser rules, civilian passengers, and neutral rights.
 - [Passenger-Liner Atrocity Propaganda](concepts/PassengerLinerAtrocityPropaganda.md) — Pattern for how a civilian ship sinking becomes a contested wartime symbol through suffering, censorship, justification, and conspiracy.
 - [Neutrality-to-Intervention Memory](concepts/NeutralityToInterventionMemory.md) — Pattern where a shock that does not immediately end neutrality later becomes evidence for intervention.
-- [First World War](concepts/FirstWorldWar.md) — Seed concept grounded in the Western Front, Lusitania, Cavell's occupied-Belgium case, Gallipoli, and Italy's Isonzo intervention.
+- [First World War](concepts/FirstWorldWar.md) — Seed concept spanning war entry, major 1915 branches, public memory, and Germany's destabilizing defeat aftermath.
+- [War Defeat Radicalization](concepts/WarDefeatRadicalization.md) — Process joining mass wartime loss and sudden defeat to betrayal myths, scapegoating, violence, and contingent political mobilization.
 - [Trench Life on the Western Front](concepts/TrenchLifeWesternFront.md) — Soldier-experience pattern where mud, dugouts, vermin, boredom, food, comradeship, shellfire, and gas fear coexist.
 - [Shell Shock](concepts/ShellShock.md) — First World War psychological injury category framed as breakdown under shelling and harrowing front-line experience.
 - [First World War Gas Warfare](concepts/FirstWorldWarGasWarfare.md) — Chemical-weapons branch where gas becomes a terrifying but tactically limited shortcut attempt against trench stalemate.
@@ -19876,6 +19881,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Intelligence Testing / 智力测试](concepts/IntelligenceTesting.md) — Measurement practice traced from Galton and Binet-Simon into schooling, immigration, military selection, courts, and status hierarchy.
 - [Eugenic Governance / 优生学治理](concepts/EugenicGovernance.md) — Pattern where heredity claims, intelligence labels, and state power manage reproduction, migration, schooling, institutionalization, or death.
 - [Social Darwinism / 社会达尔文主义](concepts/SocialDarwinism.md) — Ideological move from evolutionary language to social hierarchy, separated from Darwin's own caution in the episode.
+- [Racial Antisemitism](concepts/RacialAntisemitism.md) — Pseudobiological recasting of Jewish identity as immutable ancestry, enabling permanent exclusion and medicalized scapegoating.
 - [Psychometric Social Sorting / 心理测量式社会分层](concepts/PsychometricSocialSorting.md) — Use of psychological tests or measured traits to allocate people into ranks, resources, stigma, rights, or institutional destinies.
 - [Cultural Bias In Testing / 测试中的文化偏差](concepts/CulturalBiasInTesting.md) — Risk that supposedly neutral tests measure language, schooling, exhaustion, cultural familiarity, or class background.
 - [Educational Tracking By Testing / 测试驱动的教育分流](concepts/EducationalTrackingByTesting.md) — Placement of children into different schools, curricula, resources, or life expectations by test result.

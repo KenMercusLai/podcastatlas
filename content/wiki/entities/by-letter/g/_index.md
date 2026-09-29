@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 11381
+wiki_total_pages: 11384
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -359,6 +359,9 @@ wiki_pages:
   - key: "GerardWinstanley"
     title: "Gerard Winstanley"
     url: "/wiki/entities/gerardwinstanley/"
+  - key: "GermanEmpire"
+    title: "German Empire"
+    url: "/wiki/entities/germanempire/"
   - key: "GermanNationalAnthem"
     title: "German National Anthem / Das Lied der Deutschen"
     url: "/wiki/entities/germannationalanthem/"

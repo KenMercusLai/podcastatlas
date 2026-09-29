@@ -6,11 +6,14 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 8796
+wiki_total_pages: 8798
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
     url: "/wiki/concepts/racepromotionfees/"
+  - key: "RacialAntisemitism"
+    title: "Racial Antisemitism"
+    url: "/wiki/concepts/racialantisemitism/"
   - key: "RacializedRemittancePolitics"
     title: "Racialized Remittance Politics / 种族化汇款政治"
     url: "/wiki/concepts/racializedremittancepolitics/"

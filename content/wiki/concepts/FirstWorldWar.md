@@ -11,7 +11,8 @@ sources:
   - 671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565
   - 474-the-road-to-the-great-war-the-lights-go-out-part-6-glt2293540702
   - 473-the-road-to-the-great-war-the-tsar-chooses-war-part-5-glt1322848845
-last_updated: 2026-09-24
+  - 295-the-rise-of-the-nazis-part-1-glt8045984312
+last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
 
@@ -27,6 +28,8 @@ The wiki's current First World War page is still selective rather than general. 
 
 It also adds a political and memory layer. First World War campaigning, occupation, and maritime disaster reshape reputations and public symbols: Lusitania becomes a remembered case against German submarine warfare, Cavell becomes a martyr-propaganda figure, [[WinstonChurchill]] is damaged, [[MustafaKemalAtaturk|Mustafa Kemal / Ataturk]] rises, [[AnzacSpirit]] becomes a civic memory in Australia and New Zealand, and Italian losses plus postwar disappointment help feed the resentment field later used by [[ItalianFascism|Italian fascism]].
 
+Germany's home-front and post-defeat experience adds another branch. Blockade hardship, mass casualties, debt-financed spending, inflation, military dominance, imperial collapse, and revolutionary disorder made 1918 a political rupture as well as a military endpoint. That shock fed [[WarDefeatRadicalization|war defeat radicalization]] and the stab-in-the-back myth without making Hitler's movement an automatic product of the war.
+
 ## Key Claims
 
 - The Western Front trench system made industrial war a daily environment of routine, social mixture, bodily degradation, artillery terror, gas fear, comradeship, and failed offensive breakthrough.
@@ -35,7 +38,7 @@ It also adds a political and memory layer. First World War campaigning, occupati
 - Occupation and resistance made non-frontline civilian and medical spaces part of the war's moral and legal battlefield.
 - Ottoman entry and Russia's Caucasus crisis helped make the Dardanelles look strategically useful to Allied leaders.
 - Gallipoli and the Isonzo reproduced trench, machine-gun, barbed-wire, terrain, and attrition dynamics in different theaters.
-- Coalition politics, press scandal, public memory, and propaganda could shape campaign continuation and convert battlefield or occupation events into national symbols.
+- Coalition politics, press scandal, public memory, and propaganda could shape campaigns and postwar politics; in Germany, wartime damage, sudden defeat, and betrayal mythology destabilized the new order without determining one inevitable outcome.
 
 ## Evidence
 
@@ -48,14 +51,16 @@ It also adds a political and memory layer. First World War campaigning, occupati
 - Italian front: [[672-the-first-world-war-italys-doomed-campaign-part-2-glt3383347829]] connects Italy's intervention bargaining, D'Annunzio's pro-war agitation, Cadorna's doctrine, and Isonzo terrain to repeated high-casualty offensives.
 - Political consequence: [[676-the-first-world-war-churchills-calamity-part-6-glt1275431911]] links the Dardanelles to Churchill's removal, coalition crisis, and delayed response to Hamilton.
 - Memory consequence: [[673-the-first-world-war-the-submarine-strikes-part-3-glt3632974949]] follows Lusitania from immediate nonintervention into later U.S. recruitment and propaganda memory, [[674-the-first-world-war-the-spy-who-took-on-the-germans-part-4-glt1889262052]] follows Cavell from execution into Allied propaganda and memorial culture, [[676-the-first-world-war-churchills-calamity-part-6-glt1275431911]] connects Gallipoli to Ataturk's later reputation and Anzac public memory, and [[672-the-first-world-war-italys-doomed-campaign-part-2-glt3383347829]] links Italian losses, Caporetto, partial victory, and Fiume to later fascist resentment.
+- German defeat and aftermath: [[295-the-rise-of-the-nazis-part-1-glt8045984312]] connects blockade, casualties, debt, military power, abrupt defeat, revolution, and betrayal mythology to a contingent radicalization setting.
 
 ## Counterevidence & Qualifications
 
-This page is a seed page, not a general history of the First World War. The July Crisis sources challenge literal sleepwalking and uniform war-enthusiasm narratives but do not erase uncertainty, constraint, patriotic mobilisation, or responsibility. They treat Russian general mobilisation as decisive without making it the sole cause, and Belgium as decisive to Britain's entry without reducing that decision to one motive. The Western Front source qualifies simple retrospective anti-war memory by showing that early soldiers and poets could combine duty, sacrifice, fear, boredom, comradeship, and trauma. The Lusitania source preserves war-relevant cargo and British censorship without using them to justify mass civilian death. The Cavell source preserves real escape assistance and military-law arguments alongside the execution's disastrous politics. The Italy source contrasts interventionist spectacle with broad anti-war sentiment and treats fascist use of resentment as an afterlife, not an automatic outcome.
+This page is a seed page, not a general history of the First World War. The July Crisis sources challenge literal sleepwalking and uniform war-enthusiasm narratives but do not erase uncertainty, constraint, patriotic mobilisation, or responsibility. They treat Russian general mobilisation as decisive without making it the sole cause, and Belgium as decisive to Britain's entry without reducing that decision to one motive. The Western Front source qualifies simple retrospective anti-war memory by showing that early soldiers and poets could combine duty, sacrifice, fear, boredom, comradeship, and trauma. The Lusitania source preserves war-relevant cargo and British censorship without using them to justify mass civilian death. The Cavell source preserves real escape assistance and military-law arguments alongside the execution's disastrous politics. The Italy source contrasts interventionist spectacle with broad anti-war sentiment and treats fascist use of resentment as an afterlife, not an automatic outcome. The German-aftermath source does not show that defeat necessarily produced Nazism; casualty totals, tax-share estimates, the scale of political shock, and the relative weight of war in later radicalization remain source-scoped.
 
 ## What Changed
 
-- Extended the war-entry branch backward to Austria-Hungary's declaration against Serbia, failed limitation proposals, and the personal-state machinery gap before Russian general mobilisation.
+- Added the German home-front, fiscal-collapse, imperial-breakdown, and post-defeat radicalization branch.
+- Kept the connection from war to Nazism contingent rather than deterministic.
 
 ## Related Concepts
 
@@ -83,3 +88,5 @@ This page is a seed page, not a general history of the First World War. The July
 - [[TrenchSanitationDiseaseBurden]] - human-cost frame emphasized by the source.
 - [[AnzacSpirit]] - national-memory outcome of the campaign.
 - [[MartyrdomStaging]] - execution-memory concept extended by the Cavell case.
+- [[WarDefeatRadicalization]] - postwar mechanism linking German defeat shock to grievance, myth, and organized violence.
+- [[GermanEmpire]] - wartime state whose military dominance and sudden collapse frame the German aftermath.

@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-29] ingest | 295: The Rise of the Nazis (Part 1)
+
+Added source `295-the-rise-of-the-nazis-part-1-glt8045984312`; created `OttoVonBismarck`, `GermanEmpire`, `NaziParty`, `RacialAntisemitism`, and `WarDefeatRadicalization`; and updated `AdolfHitler`, `WeimarRepublic`, `FriedrichEbert`, `FirstWorldWar`, `SocialDarwinism`, `GeorgVonSchonerer`, `ThuleSociety`, and the canonical index from their complete bounded source sets. Core synthesis: Nazism did not follow from one timeless German trait or intellectual cause; late nineteenth-century racial and pan-German ideas became politically explosive when First World War death, fiscal damage, abrupt defeat, imperial collapse, revolutionary violence, betrayal mythology, army sponsorship, party organization, and Hitler's speaking ability converged. No settled contradiction was adopted. Casualty and finance figures, intellectual lineage, biographical anecdotes, reported speech, personal influence, party-network links, and audience response remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-29] ingest | vol.56 对谈咪仔：人生是认领自己与确立使命的过程
 
 Added source `vol-56-duitan-mizi-rensheng-shi-renling-ziji-yu-queli-shiming-de-guocheng-lgrbpfubc8s6y59jb6tsd6glz-c`; created `MiziCrimePodcaster`, `BlackCatDetectiveAgency`, `EthicalPaidContentDesign`, `AccumulatedSkillMissionRecognition`, `EmotionalTriggerSourceSeparation`, and `SuperCreatorPortfolioModel`; and updated `YangTianzhen`, `TianzhenButianzhen`, `PodcastCommercializationFragmentation`, and the canonical index from their complete bounded source sets. Core synthesis: a creator mission can become legible when accumulated craft, values, and environmental experiments converge; sustainable payment should fund real added value without manufacturing information gaps or anxiety; and creator resilience depends on separating present facts from older triggers while building diversified support. No settled contradiction was adopted. Career, revenue, audience-growth, health, relationship, and business-plan details remain speaker-reported and source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -25313,6 +25317,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-29] ingest | 京东开出购物中心，蔚来与吉利推进充电换电合作
 
 Added source `jingdong-kaichu-gouwuzhongxin-weilai-yu-jili-tuijin-chongdian-huandian-hezuo-1019779523`; updated `NIO`, `GeelyAutomobile`, `JDCom`, `BatterySwapInfrastructure`, and the canonical index from their complete bounded source sets. Core synthesis: the reported NIO–Geely cross-investment treats partner vehicle volume and reciprocal charging access as ways to improve infrastructure utilization while faster charging narrows swapping's pure speed advantage; JD's new physical formats test whether in-person discovery, online assortment, and rapid fulfillment can reinforce one another, but store operation and replication remain unproven. No settled contradiction was adopted. Transaction terms, rollout plans, financial and legal figures, store economics, and the unresolved Manchester City proceeding remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-29] lint | Wiki health check
 

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "o"
-wiki_total_pages: 11381
+wiki_total_pages: 11384
 wiki_pages:
   - key: "OneX"
     title: "1X"
@@ -338,6 +338,9 @@ wiki_pages:
   - key: "OttoTheGreat"
     title: "Otto the Great"
     url: "/wiki/entities/ottothegreat/"
+  - key: "OttoVonBismarck"
+    title: "Otto von Bismarck"
+    url: "/wiki/entities/ottovonbismarck/"
   - key: "OttomanEmpire"
     title: "Ottoman Empire / 奥斯曼帝国"
     url: "/wiki/entities/ottomanempire/"

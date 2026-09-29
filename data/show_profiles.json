@@ -939,14 +939,14 @@
       "earliest_episode_date": "2020-11-02",
       "latest_episode_date": "2026-09-27",
       "latest_episode_file": "GLT8774364224 [GLT8774364224].md",
-      "source_note_count": 300,
-      "topic_matched_source_note_count": 283,
+      "source_note_count": 301,
+      "topic_matched_source_note_count": 284,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 281
+          "source_note_count": 282
         },
         {
           "key": "politics",
@@ -969,18 +969,18 @@
       ],
       "entities": [
         {
+          "key": "AdolfHitler",
+          "title": "Adolf Hitler",
+          "url": "/wiki/entities/adolfhitler/",
+          "kind": "person",
+          "episode_count": 12
+        },
+        {
           "key": "LouisXVI",
           "title": "Louis XVI",
           "url": "/wiki/entities/louisxvi/",
           "kind": "person",
           "episode_count": 12
-        },
-        {
-          "key": "AdolfHitler",
-          "title": "Adolf Hitler",
-          "url": "/wiki/entities/adolfhitler/",
-          "kind": "person",
-          "episode_count": 11
         },
         {
           "key": "MarieAntoinette",

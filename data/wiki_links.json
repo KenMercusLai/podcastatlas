@@ -951,6 +951,10 @@
     "title": "29.千面英雄：俄狄浦斯正在下班挤地铁",
     "url": "/wiki/sources/29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891/"
   },
+  "295-the-rise-of-the-nazis-part-1-glt8045984312": {
+    "title": "295: The Rise of the Nazis (Part 1)",
+    "url": "/wiki/sources/295-the-rise-of-the-nazis-part-1-glt8045984312/"
+  },
   "296-the-nazis-the-beer-hall-putsch-part-2-glt4099180386": {
     "title": "296: The Nazis: The Beer Hall Putsch (Part 2)",
     "url": "/wiki/sources/296-the-nazis-the-beer-hall-putsch-part-2-glt4099180386/"
@@ -29943,6 +29947,10 @@
     "title": "German Caretaker Stalemate",
     "url": "/wiki/concepts/germancaretakerstalemate/"
   },
+  "GermanEmpire": {
+    "title": "German Empire",
+    "url": "/wiki/entities/germanempire/"
+  },
   "GermanLuxuryCarChinaPressure": {
     "title": "German Luxury Car China Pressure / 德系豪华车中国压力",
     "url": "/wiki/concepts/germanluxurycarchinapressure/"
@@ -50911,6 +50919,10 @@
     "title": "Nazi Involuntary-Euthanasia Program",
     "url": "/wiki/concepts/naziinvoluntaryeuthanasiaprogram/"
   },
+  "NaziParty": {
+    "title": "Nazi Party",
+    "url": "/wiki/entities/naziparty/"
+  },
   "NaziRacialMorality": {
     "title": "Nazi Racial Morality",
     "url": "/wiki/concepts/naziracialmorality/"
@@ -53490,6 +53502,10 @@
   "OttoTheGreat": {
     "title": "Otto the Great",
     "url": "/wiki/entities/ottothegreat/"
+  },
+  "OttoVonBismarck": {
+    "title": "Otto von Bismarck",
+    "url": "/wiki/entities/ottovonbismarck/"
   },
   "OttomanEmpire": {
     "title": "Ottoman Empire / 奥斯曼帝国",
@@ -59542,6 +59558,10 @@
   "RachelSalzman": {
     "title": "Rachel Salzman",
     "url": "/wiki/entities/rachelsalzman/"
+  },
+  "RacialAntisemitism": {
+    "title": "Racial Antisemitism",
+    "url": "/wiki/concepts/racialantisemitism/"
   },
   "RacializedRemittancePolitics": {
     "title": "Racialized Remittance Politics / 种族化汇款政治",
@@ -75822,6 +75842,10 @@
   "WarCostTempoDiscipline": {
     "title": "War Cost Tempo Discipline / 战争成本与速决纪律",
     "url": "/wiki/concepts/warcosttempodiscipline/"
+  },
+  "WarDefeatRadicalization": {
+    "title": "War Defeat Radicalization",
+    "url": "/wiki/concepts/wardefeatradicalization/"
   },
   "WarDisasterCompounding": {
     "title": "War-Disaster Compounding",
