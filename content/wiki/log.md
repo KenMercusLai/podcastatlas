@@ -25247,3 +25247,11 @@ Added source `how-to-optimize-fertility-in-males-females-scim8187072933`; create
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | 297: The Nazis: Hitler's Triumph (Part 3)
+
+Added source `297-the-nazis-hitlers-triumph-part-3-glt2055084600`; created `HorstWessel`, `HeinrichBruning`, `KurtVonSchleicher`, and `ErnstThalmann`; and updated `AdolfHitler`, `PaulVonHindenburg`, `FranzVonPapen`, `WeimarRepublic`, `Sturmabteilung`, `HorstWesselLied`, `LegalCoerciveDictatorshipConsolidation`, and the canonical index from their complete bounded source sets. Core synthesis: the Depression transformed Nazi electoral prospects but did not itself appoint Hitler; decree government, repeated election gambles, federal dismantling, left division, paramilitary belonging and violence, and conservative attempts to build authoritarian government created the institutional route, while Papen and Hindenburg's circle finally transferred the chancellorship under a failed containment premise. No settled contradiction was adopted. Vote totals, economic estimates, audience belief, private motives, reported dialogue, and counterfactual resistance remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

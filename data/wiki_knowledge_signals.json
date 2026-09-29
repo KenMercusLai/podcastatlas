@@ -5792,9 +5792,9 @@
       "url": "/wiki/entities/adolfeichmann/"
     },
     "AdolfHitler": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "GLT5771265943 [GLT5771265943].md",
@@ -5858,6 +5858,13 @@
           "show": "The Rest Is History",
           "title": "298: The Nazis: Total Power (Part 4)",
           "url": "/wiki/sources/298-the-nazis-total-power-part-4-glt6097237943/"
+        },
+        {
+          "episode_file": "GLT2055084600 [GLT2055084600].md",
+          "key": "297-the-nazis-hitlers-triumph-part-3-glt2055084600",
+          "show": "The Rest Is History",
+          "title": "297: The Nazis: Hitler's Triumph (Part 3)",
+          "url": "/wiki/sources/297-the-nazis-hitlers-triumph-part-3-glt2055084600/"
         }
       ],
       "updated": "2026-09-29",
@@ -54864,6 +54871,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/ernstrohm/"
     },
+    "ErnstThalmann": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2055084600 [GLT2055084600].md",
+          "key": "297-the-nazis-hitlers-triumph-part-3-glt2055084600",
+          "show": "The Rest Is History",
+          "title": "297: The Nazis: Hitler's Triumph (Part 3)",
+          "url": "/wiki/sources/297-the-nazis-hitlers-triumph-part-3-glt2055084600/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/ernstthalmann/"
+    },
     "ErnstVomRath": {
       "episode_count": 1,
       "show_count": 1,
@@ -63694,9 +63717,9 @@
       "url": "/wiki/entities/franzjosephi/"
     },
     "FranzVonPapen": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3861584466 [GLT3861584466].md",
@@ -63704,9 +63727,16 @@
           "show": "The Rest Is History",
           "title": "404. The Nazis in Power: The Night of the Long Knives (Part 1)",
           "url": "/wiki/sources/404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861584466/"
+        },
+        {
+          "episode_file": "GLT2055084600 [GLT2055084600].md",
+          "key": "297-the-nazis-hitlers-triumph-part-3-glt2055084600",
+          "show": "The Rest Is History",
+          "title": "297: The Nazis: Hitler's Triumph (Part 3)",
+          "url": "/wiki/sources/297-the-nazis-hitlers-triumph-part-3-glt2055084600/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-29",
       "url": "/wiki/entities/franzvonpapen/"
     },
     "FraserMcIlwraith": {
@@ -76592,6 +76622,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/heiligenkreuzabbey/"
     },
+    "HeinrichBruning": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2055084600 [GLT2055084600].md",
+          "key": "297-the-nazis-hitlers-triumph-part-3-glt2055084600",
+          "show": "The Rest Is History",
+          "title": "297: The Nazis: Hitler's Triumph (Part 3)",
+          "url": "/wiki/sources/297-the-nazis-hitlers-triumph-part-3-glt2055084600/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/heinrichbruning/"
+    },
     "HeinrichHimmler": {
       "episode_count": 3,
       "show_count": 1,
@@ -79851,10 +79897,26 @@
       "updated": "2026-09-01",
       "url": "/wiki/concepts/horsehideburialresolve/"
     },
-    "HorstWesselLied": {
+    "HorstWessel": {
       "episode_count": 1,
       "show_count": 1,
       "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2055084600 [GLT2055084600].md",
+          "key": "297-the-nazis-hitlers-triumph-part-3-glt2055084600",
+          "show": "The Rest Is History",
+          "title": "297: The Nazis: Hitler's Triumph (Part 3)",
+          "url": "/wiki/sources/297-the-nazis-hitlers-triumph-part-3-glt2055084600/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/horstwessel/"
+    },
+    "HorstWesselLied": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6217148052 [GLT6217148052].md",
@@ -79862,9 +79924,16 @@
           "show": "The Rest Is History",
           "title": "679. Germany: The Song Hitler Stole (Part 3)",
           "url": "/wiki/sources/679-germany-the-song-hitler-stole-part-3-glt6217148052/"
+        },
+        {
+          "episode_file": "GLT2055084600 [GLT2055084600].md",
+          "key": "297-the-nazis-hitlers-triumph-part-3-glt2055084600",
+          "show": "The Rest Is History",
+          "title": "297: The Nazis: Hitler's Triumph (Part 3)",
+          "url": "/wiki/sources/297-the-nazis-hitlers-triumph-part-3-glt2055084600/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-29",
       "url": "/wiki/entities/horstwessellied/"
     },
     "HospiceCare": {
@@ -96608,6 +96677,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/concepts/kurikarabattle/"
     },
+    "KurtVonSchleicher": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2055084600 [GLT2055084600].md",
+          "key": "297-the-nazis-hitlers-triumph-part-3-glt2055084600",
+          "show": "The Rest Is History",
+          "title": "297: The Nazis: Hitler's Triumph (Part 3)",
+          "url": "/wiki/sources/297-the-nazis-hitlers-triumph-part-3-glt2055084600/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/kurtvonschleicher/"
+    },
     "KurtVonSchuschnigg": {
       "episode_count": 1,
       "show_count": 1,
@@ -98668,9 +98753,9 @@
       "url": "/wiki/concepts/legalagentorchestration/"
     },
     "LegalCoerciveDictatorshipConsolidation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6097237943 [GLT6097237943].md",
@@ -98678,6 +98763,13 @@
           "show": "The Rest Is History",
           "title": "298: The Nazis: Total Power (Part 4)",
           "url": "/wiki/sources/298-the-nazis-total-power-part-4-glt6097237943/"
+        },
+        {
+          "episode_file": "GLT2055084600 [GLT2055084600].md",
+          "key": "297-the-nazis-hitlers-triumph-part-3-glt2055084600",
+          "show": "The Rest Is History",
+          "title": "297: The Nazis: Hitler's Triumph (Part 3)",
+          "url": "/wiki/sources/297-the-nazis-hitlers-triumph-part-3-glt2055084600/"
         }
       ],
       "updated": "2026-09-29",
@@ -129263,9 +129355,9 @@
       "url": "/wiki/entities/paulrouse/"
     },
     "PaulVonHindenburg": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT3861584466 [GLT3861584466].md",
@@ -129280,6 +129372,13 @@
           "show": "The Rest Is History",
           "title": "298: The Nazis: Total Power (Part 4)",
           "url": "/wiki/sources/298-the-nazis-total-power-part-4-glt6097237943/"
+        },
+        {
+          "episode_file": "GLT2055084600 [GLT2055084600].md",
+          "key": "297-the-nazis-hitlers-triumph-part-3-glt2055084600",
+          "show": "The Rest Is History",
+          "title": "297: The Nazis: Hitler's Triumph (Part 3)",
+          "url": "/wiki/sources/297-the-nazis-hitlers-triumph-part-3-glt2055084600/"
         }
       ],
       "updated": "2026-09-29",
@@ -160471,9 +160570,9 @@
       "url": "/wiki/entities/studio54/"
     },
     "Sturmabteilung": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT3861584466 [GLT3861584466].md",
@@ -160488,6 +160587,13 @@
           "show": "The Rest Is History",
           "title": "298: The Nazis: Total Power (Part 4)",
           "url": "/wiki/sources/298-the-nazis-total-power-part-4-glt6097237943/"
+        },
+        {
+          "episode_file": "GLT2055084600 [GLT2055084600].md",
+          "key": "297-the-nazis-hitlers-triumph-part-3-glt2055084600",
+          "show": "The Rest Is History",
+          "title": "297: The Nazis: Hitler's Triumph (Part 3)",
+          "url": "/wiki/sources/297-the-nazis-hitlers-triumph-part-3-glt2055084600/"
         }
       ],
       "updated": "2026-09-29",
@@ -178360,9 +178466,9 @@
       "url": "/wiki/entities/weizilatehan/"
     },
     "WeimarRepublic": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6217148052 [GLT6217148052].md",
@@ -178370,9 +178476,16 @@
           "show": "The Rest Is History",
           "title": "679. Germany: The Song Hitler Stole (Part 3)",
           "url": "/wiki/sources/679-germany-the-song-hitler-stole-part-3-glt6217148052/"
+        },
+        {
+          "episode_file": "GLT2055084600 [GLT2055084600].md",
+          "key": "297-the-nazis-hitlers-triumph-part-3-glt2055084600",
+          "show": "The Rest Is History",
+          "title": "297: The Nazis: Hitler's Triumph (Part 3)",
+          "url": "/wiki/sources/297-the-nazis-hitlers-triumph-part-3-glt2055084600/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-29",
       "url": "/wiki/entities/weimarrepublic/"
     },
     "WeinanBattleLateHan": {

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 11368
+wiki_total_pages: 11372
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -341,6 +341,9 @@ wiki_pages:
   - key: "HeinrichBlucher"
     title: "Heinrich Blücher / 海因里希·布鲁歇尔"
     url: "/wiki/entities/heinrichblucher/"
+  - key: "HeinrichBruning"
+    title: "Heinrich Brüning"
+    url: "/wiki/entities/heinrichbruning/"
   - key: "HeinrichHimmler"
     title: "Heinrich Himmler"
     url: "/wiki/entities/heinrichhimmler/"
@@ -740,6 +743,9 @@ wiki_pages:
   - key: "HorseHeadGuanyin"
     title: "Horse-Head Guanyin / 马头观音"
     url: "/wiki/entities/horseheadguanyin/"
+  - key: "HorstWessel"
+    title: "Horst Wessel"
+    url: "/wiki/entities/horstwessel/"
   - key: "HorstWesselLied"
     title: "Horst-Wessel-Lied"
     url: "/wiki/entities/horstwessellied/"
