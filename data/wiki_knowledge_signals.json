@@ -30437,9 +30437,9 @@
       "url": "/wiki/concepts/chinesefootballpyramiddesign/"
     },
     "ChineseHerbalMedicineSafetyBoundary": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ljoJEJbtrSNPUu1aa-10kLW6REds [ljoJEJbtrSNPUu1aa-10kLW6REds].md",
@@ -30447,6 +30447,13 @@
           "show": "这病说来话长",
           "title": "VOL.10中医｜少商穴放血真的能治嗓子痛么｜到底该不该断掉寒性的牛奶",
           "url": "/wiki/sources/vol-10-zhongyi-shaoshangxue-fangxue-zhende-neng-zhi-sangzi-tong-me-daodi-gai-bu-gai-duandiao-hanxing-de-niunai-ljojejbtrsnpuu1aa-10klw6reds/"
+        },
+        {
+          "episode_file": "llGYe2INoaWw6KpJkwYG0C3HK6gO [llGYe2INoaWw6KpJkwYG0C3HK6gO].md",
+          "key": "vol-09-zhongyi-fenghan-fengre-fenghan-zhuan-fengre-hanbaohuo-deng-ganmao-yao-bianzheng-laikan-zhongxiyi-jiehe-de-zhuanye-yuqi-buru-zhongxiyi-hezuo-llgye2inoaww6kpjkwyg0c3hk6go",
+          "show": "这病说来话长",
+          "title": "VOL.09中医｜风寒、风热、风寒转风热、寒包火等感冒要辩证来看｜“中西医结合”的专业预期不如“中西医合作”",
+          "url": "/wiki/sources/vol-09-zhongyi-fenghan-fengre-fenghan-zhuan-fengre-hanbaohuo-deng-ganmao-yao-bianzheng-laikan-zhongxiyi-jiehe-de-zhuanye-yuqi-buru-zhongxiyi-hezuo-llgye2inoaww6kpjkwyg0c3hk6go/"
         }
       ],
       "updated": "2026-09-29",
@@ -30727,6 +30734,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/chinesesuperleague/"
+    },
+    "ChineseWesternMedicineCollaborationBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "llGYe2INoaWw6KpJkwYG0C3HK6gO [llGYe2INoaWw6KpJkwYG0C3HK6gO].md",
+          "key": "vol-09-zhongyi-fenghan-fengre-fenghan-zhuan-fengre-hanbaohuo-deng-ganmao-yao-bianzheng-laikan-zhongxiyi-jiehe-de-zhuanye-yuqi-buru-zhongxiyi-hezuo-llgye2inoaww6kpjkwyg0c3hk6go",
+          "show": "这病说来话长",
+          "title": "VOL.09中医｜风寒、风热、风寒转风热、寒包火等感冒要辩证来看｜“中西医结合”的专业预期不如“中西医合作”",
+          "url": "/wiki/sources/vol-09-zhongyi-fenghan-fengre-fenghan-zhuan-fengre-hanbaohuo-deng-ganmao-yao-bianzheng-laikan-zhongxiyi-jiehe-de-zhuanye-yuqi-buru-zhongxiyi-hezuo-llgye2inoaww6kpjkwyg0c3hk6go/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/chinesewesternmedicinecollaborationboundary/"
     },
     "ChineseWoodblockPrintingEconomics": {
       "episode_count": 1,
@@ -164963,9 +164986,9 @@
       "url": "/wiki/concepts/tcmautumnselfcareboundary/"
     },
     "TCMClinicalReasoningBoundary": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ljoJEJbtrSNPUu1aa-10kLW6REds [ljoJEJbtrSNPUu1aa-10kLW6REds].md",
@@ -164973,6 +164996,13 @@
           "show": "这病说来话长",
           "title": "VOL.10中医｜少商穴放血真的能治嗓子痛么｜到底该不该断掉寒性的牛奶",
           "url": "/wiki/sources/vol-10-zhongyi-shaoshangxue-fangxue-zhende-neng-zhi-sangzi-tong-me-daodi-gai-bu-gai-duandiao-hanxing-de-niunai-ljojejbtrsnpuu1aa-10klw6reds/"
+        },
+        {
+          "episode_file": "llGYe2INoaWw6KpJkwYG0C3HK6gO [llGYe2INoaWw6KpJkwYG0C3HK6gO].md",
+          "key": "vol-09-zhongyi-fenghan-fengre-fenghan-zhuan-fengre-hanbaohuo-deng-ganmao-yao-bianzheng-laikan-zhongxiyi-jiehe-de-zhuanye-yuqi-buru-zhongxiyi-hezuo-llgye2inoaww6kpjkwyg0c3hk6go",
+          "show": "这病说来话长",
+          "title": "VOL.09中医｜风寒、风热、风寒转风热、寒包火等感冒要辩证来看｜“中西医结合”的专业预期不如“中西医合作”",
+          "url": "/wiki/sources/vol-09-zhongyi-fenghan-fengre-fenghan-zhuan-fengre-hanbaohuo-deng-ganmao-yao-bianzheng-laikan-zhongxiyi-jiehe-de-zhuanye-yuqi-buru-zhongxiyi-hezuo-llgye2inoaww6kpjkwyg0c3hk6go/"
         }
       ],
       "updated": "2026-09-29",
@@ -169250,9 +169280,9 @@
       "url": "/wiki/entities/tianchou/"
     },
     "TianDoctorTCM": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ljoJEJbtrSNPUu1aa-10kLW6REds [ljoJEJbtrSNPUu1aa-10kLW6REds].md",
@@ -169260,6 +169290,13 @@
           "show": "这病说来话长",
           "title": "VOL.10中医｜少商穴放血真的能治嗓子痛么｜到底该不该断掉寒性的牛奶",
           "url": "/wiki/sources/vol-10-zhongyi-shaoshangxue-fangxue-zhende-neng-zhi-sangzi-tong-me-daodi-gai-bu-gai-duandiao-hanxing-de-niunai-ljojejbtrsnpuu1aa-10klw6reds/"
+        },
+        {
+          "episode_file": "llGYe2INoaWw6KpJkwYG0C3HK6gO [llGYe2INoaWw6KpJkwYG0C3HK6gO].md",
+          "key": "vol-09-zhongyi-fenghan-fengre-fenghan-zhuan-fengre-hanbaohuo-deng-ganmao-yao-bianzheng-laikan-zhongxiyi-jiehe-de-zhuanye-yuqi-buru-zhongxiyi-hezuo-llgye2inoaww6kpjkwyg0c3hk6go",
+          "show": "这病说来话长",
+          "title": "VOL.09中医｜风寒、风热、风寒转风热、寒包火等感冒要辩证来看｜“中西医结合”的专业预期不如“中西医合作”",
+          "url": "/wiki/sources/vol-09-zhongyi-fenghan-fengre-fenghan-zhuan-fengre-hanbaohuo-deng-ganmao-yao-bianzheng-laikan-zhongxiyi-jiehe-de-zhuanye-yuqi-buru-zhongxiyi-hezuo-llgye2inoaww6kpjkwyg0c3hk6go/"
         }
       ],
       "updated": "2026-09-29",

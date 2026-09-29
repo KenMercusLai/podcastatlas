@@ -24878,7 +24878,6 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
-
 ## [2026-09-29] ingest | 298: The Nazis: Total Power (Part 4)
 
 Added source `298-the-nazis-total-power-part-4-glt6097237943`; created `MarinusVanDerLubbe`, `ReichstagFire1933`, `ReichstagFireDecree`, `EnablingAct1933`, and `LegalCoerciveDictatorshipConsolidation`; and updated the canonical index. Core synthesis: Hitler's 1933 dictatorship emerged by making formal elections, emergency decree, and legislative procedure operate together with captured police, paramilitary violence, opposition exclusion, conservative accommodation, and destruction of independent institutions. No settled contradiction was adopted. The episode's lone-actor fire judgment, arrest and crowd totals, counterfactual stopping points, private motives, broad ideological comparisons, and modern analogies remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -25422,6 +25421,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-29] ingest | VOL.10中医｜少商穴放血真的能治嗓子痛么｜到底该不该断掉寒性的牛奶
 
 Added source `vol-10-zhongyi-shaoshangxue-fangxue-zhende-neng-zhi-sangzi-tong-me-daodi-gai-bu-gai-duandiao-hanxing-de-niunai-ljojejbtrsnpuu1aa-10klw6reds`; created `TianDoctorTCM`, `TCMClinicalReasoningBoundary`, and `ChineseHerbalMedicineSafetyBoundary`; expanded `DairyChoiceToleranceBoundary` from its complete bounded two-source set; and updated the canonical index and overview. Core synthesis: diagnosis names, copied prescriptions, tradition, naturalness, food familiarity, and product names are insufficient for treatment or safety decisions; context sensitivity is useful but does not validate specific TCM patterns, procedures, remedies, or dosage-form equivalence. No settled contradiction was adopted. Bloodletting, acute-care remedies, pregnancy and pediatric use, food therapy, hot/cold classifications, and preparation-effect claims remain source-scoped public education rather than individualized guidance.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | VOL.09中医｜风寒、风热、风寒转风热、寒包火等感冒要辩证来看｜“中西医结合”的专业预期不如“中西医合作”
+
+Added source `vol-09-zhongyi-fenghan-fengre-fenghan-zhuan-fengre-hanbaohuo-deng-ganmao-yao-bianzheng-laikan-zhongxiyi-jiehe-de-zhuanye-yuqi-buru-zhongxiyi-hezuo-llgye2inoaww6kpjkwyg0c3hk6go`; created `ChineseWesternMedicineCollaborationBoundary`; and expanded `TianDoctorTCM`, `TCMClinicalReasoningBoundary`, and `ChineseHerbalMedicineSafetyBoundary` from their complete bounded two-episode source sets. Core synthesis: symptom labels and professional identity do not determine treatment; technique, dose, preparation, duration, trajectory, and practitioner competence shape risk; and Chinese-Western medical cooperation should be assessed by task-specific patient benefit rather than assumed disciplinary fusion. No settled contradiction was adopted. Point anatomy, manual techniques, herbal thresholds and compatibility, regulatory reformulation, training outcomes, and rehabilitation effects remain source-scoped public education rather than individualized guidance. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
 
 ## [2026-09-29] lint | Wiki health check
 

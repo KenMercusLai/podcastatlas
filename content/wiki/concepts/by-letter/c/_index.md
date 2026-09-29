@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8813
+wiki_total_pages: 8814
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -887,6 +887,9 @@ wiki_pages:
   - key: "ChineseStyleFDE"
     title: "Chinese-Style FDE / 中国式 FDE"
     url: "/wiki/concepts/chinesestylefde/"
+  - key: "ChineseWesternMedicineCollaborationBoundary"
+    title: "Chinese-Western Medicine Collaboration Boundary / 中西医协作边界"
+    url: "/wiki/concepts/chinesewesternmedicinecollaborationboundary/"
   - key: "ChivalricRomanceWarMemory"
     title: "Chivalric Romance War Memory"
     url: "/wiki/concepts/chivalricromancewarmemory/"
