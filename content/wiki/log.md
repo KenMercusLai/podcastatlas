@@ -25681,3 +25681,11 @@ Added source `276-netherlands-the-maid-of-holland-glt8981353378`; created `MaidO
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-30] ingest | 275: Argentina: The Welsh Colony
+
+Added source `275-argentina-the-welsh-colony-glt3290664499`; created `YWladfa`, `MichaelDJones`, `CulturalPreservationColony`, `SettlementTerritorialClaimmaking`, and `MinorityRefugeSettlerColonialParadox`; and resynthesized `PatagoniaRegion` and `Argentina` from their preserved evidence inventories. Core synthesis: Y Wladfa used concentrated institutions to protect Welsh language and identity, but its survival also served Argentine frontier consolidation and increased exposure to demographic and state-led assimilation; Welsh cultural pressure explains the refuge project without erasing Indigenous prior presence or settler-colonial effects. No settled contradiction was adopted. Land-grant geography, Indigenous relations, border-arbitration causation, population and speaker estimates, and revival strength remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten because this 2022 episode opens a bounded historical branch without changing the wiki-wide synthesis.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

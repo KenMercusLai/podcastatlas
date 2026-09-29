@@ -6,11 +6,14 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 11461
+wiki_total_pages: 11463
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
     url: "/wiki/entities/ycombinator/"
+  - key: "YWladfa"
+    title: "Y Wladfa / Welsh Patagonia"
+    url: "/wiki/entities/ywladfa/"
   - key: "YaaAsantewaa"
     title: "Yaa Asantewaa"
     url: "/wiki/entities/yaaasantewaa/"

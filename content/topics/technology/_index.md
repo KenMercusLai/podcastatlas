@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3235
+topic_total_pages: 3236
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3874,6 +3874,9 @@ topic_concepts:
   - key: "ServiceAsSoftware"
     title: "Service As Software"
     url: "/wiki/concepts/serviceassoftware/"
+  - key: "SettlementTerritorialClaimmaking"
+    title: "Settlement as Territorial Claimmaking"
+    url: "/wiki/concepts/settlementterritorialclaimmaking/"
   - key: "ShadowAI"
     title: "Shadow AI"
     url: "/wiki/concepts/shadowai/"

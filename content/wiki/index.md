@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [275: Argentina: The Welsh Colony](sources/275-argentina-the-welsh-colony-glt3290664499.md) — The Rest Is History episode on Y Wladfa, Welsh cultural preservation, Patagonian settlement, Argentine territorial consolidation, assimilation, revival, and settler-colonial reassessment.
 - [276: Netherlands: The Maid of Holland](sources/276-netherlands-the-maid-of-holland-glt8981353378.md) — The Rest Is History episode on the Maid of Holland, revolt-era female allegory, Dutch cleanliness, civic housekeeping, and the domestic moralization of commercial wealth.
 - [277: Japan: Samurai and Shoguns](sources/277-japan-samurai-and-shoguns-glt3851919583.md) — The Rest Is History survey of Japanese adaptation, imperial legitimacy, samurai and Tokugawa rule, Meiji capitalism and empire, and postwar manga through six lives.
 - [278: France: The Mystery of Le Prince](sources/278-france-the-mystery-of-le-prince-glt1101934476.md) — The Rest Is History episode on Louis Le Prince's 1888 Leeds films, unresolved projection system, disappearance, and contested place in cinema invention history.
@@ -3254,6 +3255,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [284: Denmark: The Great Escape](sources/284-denmark-the-great-escape-glt4809968647.md) — The Rest Is History episode on warning, civic networks, Oresund transport, Swedish refuge, and the multi-causal rescue of the Danish Jews.
 
 ## Entities
+- [Y Wladfa / Welsh Patagonia](entities/YWladfa.md) — Welsh Patagonian settlement joining language preservation, frontier survival, Argentine integration, cultural revival, and colonial reassessment.
+- [Michael D. Jones](entities/MichaelDJones.md) — Welsh minister and nationalist organizer whose anti-assimilation project founded Y Wladfa.
 - [Maid of Holland](entities/MaidOfHolland.md) — Female personification joining Dutch liberty, defended territory, martial virtue, domestic order, and prosperity.
 - [Kenau Simonsdochter Hasselaer](entities/KenauSimonsdochterHasselaer.md) — Haarlem resistance heroine whose expanding martial legend shaped Dutch patriotic female memory.
 - [Simon Schama](entities/SimonSchama.md) — Historian whose wealth-and-morality framework guides the episode's reading of Dutch domestic culture.
@@ -14743,6 +14746,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Christian X of Denmark](entities/ChristianXOfDenmark.md) — Occupation-era monarch symbolizing national continuity and Jewish civic inclusion while the yellow-star story remains a myth.
 
 ## Concepts
+- [Cultural-Preservation Colony](concepts/CulturalPreservationColony.md) — Concentrated migration strategy using community institutions to preserve minority language and identity while facing integration pressures.
+- [Settlement as Territorial Claimmaking](concepts/SettlementTerritorialClaimmaking.md) — Use of resident communities, farms, towns, and infrastructure to convert disputed sovereignty into practical occupation.
+- [Minority-Refuge Settler-Colonial Paradox](concepts/MinorityRefugeSettlerColonialParadox.md) — Tension in which a culturally pressured minority seeks refuge through settlement that can subordinate Indigenous inhabitants.
 - [Dutch Domestic Cleanliness as Civic Order](concepts/DutchDomesticCleanlinessCivicOrder.md) — Early Dutch framework joining housework, urban order, dikes, religious discipline, and national independence.
 - [Commercial Wealth Domestic Moralization](concepts/CommercialWealthDomesticMoralization.md) — Use of ordered households and domestic virtue to represent market prosperity as morally legitimate.
 - [Japanese Adaptive Cultural Synthesis](concepts/JapaneseAdaptiveCulturalSynthesis.md) — Cross-period pattern of selectively reshaping outside institutions and cultural forms under local political pressures.
