@@ -49431,9 +49431,9 @@
       "url": "/wiki/entities/edwardtheconfessor/"
     },
     "EdwardVI": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7286066638 [GLT7286066638].md",
@@ -49441,6 +49441,13 @@
           "show": "The Rest Is History",
           "title": "294: Lady Jane Grey: The Axe Falls (Part 2)",
           "url": "/wiki/sources/294-lady-jane-grey-the-axe-falls-part-2-glt7286066638/"
+        },
+        {
+          "episode_file": "GLT2281550812 [GLT2281550812].md",
+          "key": "293-lady-jane-grey-the-nine-days-queen-part-1-glt2281550812",
+          "show": "The Rest Is History",
+          "title": "293: Lady Jane Grey: The Nine Days' Queen (Part 1)",
+          "url": "/wiki/sources/293-lady-jane-grey-the-nine-days-queen-part-1-glt2281550812/"
         }
       ],
       "updated": "2026-09-29",
@@ -63652,6 +63659,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/france/"
     },
+    "FrancesGrey": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2281550812 [GLT2281550812].md",
+          "key": "293-lady-jane-grey-the-nine-days-queen-part-1-glt2281550812",
+          "show": "The Rest Is History",
+          "title": "293: Lady Jane Grey: The Nine Days' Queen (Part 1)",
+          "url": "/wiki/sources/293-lady-jane-grey-the-nine-days-queen-part-1-glt2281550812/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/francesgrey/"
+    },
     "FrancesHaugen": {
       "episode_count": 1,
       "show_count": 1,
@@ -72684,9 +72707,9 @@
       "url": "/wiki/concepts/guiderobotdogs/"
     },
     "GuildfordDudley": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7286066638 [GLT7286066638].md",
@@ -72694,6 +72717,13 @@
           "show": "The Rest Is History",
           "title": "294: Lady Jane Grey: The Axe Falls (Part 2)",
           "url": "/wiki/sources/294-lady-jane-grey-the-axe-falls-part-2-glt7286066638/"
+        },
+        {
+          "episode_file": "GLT2281550812 [GLT2281550812].md",
+          "key": "293-lady-jane-grey-the-nine-days-queen-part-1-glt2281550812",
+          "show": "The Rest Is History",
+          "title": "293: Lady Jane Grey: The Nine Days' Queen (Part 1)",
+          "url": "/wiki/sources/293-lady-jane-grey-the-nine-days-queen-part-1-glt2281550812/"
         }
       ],
       "updated": "2026-09-29",
@@ -93541,9 +93571,9 @@
       "url": "/wiki/entities/johndickie/"
     },
     "JohnDudleyDukeOfNorthumberland": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7286066638 [GLT7286066638].md",
@@ -93551,6 +93581,13 @@
           "show": "The Rest Is History",
           "title": "294: Lady Jane Grey: The Axe Falls (Part 2)",
           "url": "/wiki/sources/294-lady-jane-grey-the-axe-falls-part-2-glt7286066638/"
+        },
+        {
+          "episode_file": "GLT2281550812 [GLT2281550812].md",
+          "key": "293-lady-jane-grey-the-nine-days-queen-part-1-glt2281550812",
+          "show": "The Rest Is History",
+          "title": "293: Lady Jane Grey: The Nine Days' Queen (Part 1)",
+          "url": "/wiki/sources/293-lady-jane-grey-the-nine-days-queen-part-1-glt2281550812/"
         }
       ],
       "updated": "2026-09-29",
@@ -97793,9 +97830,9 @@
       "url": "/wiki/entities/ladygouyiwesternhan/"
     },
     "LadyJaneGrey": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7286066638 [GLT7286066638].md",
@@ -97803,6 +97840,13 @@
           "show": "The Rest Is History",
           "title": "294: Lady Jane Grey: The Axe Falls (Part 2)",
           "url": "/wiki/sources/294-lady-jane-grey-the-axe-falls-part-2-glt7286066638/"
+        },
+        {
+          "episode_file": "GLT2281550812 [GLT2281550812].md",
+          "key": "293-lady-jane-grey-the-nine-days-queen-part-1-glt2281550812",
+          "show": "The Rest Is History",
+          "title": "293: Lady Jane Grey: The Nine Days' Queen (Part 1)",
+          "url": "/wiki/sources/293-lady-jane-grey-the-nine-days-queen-part-1-glt2281550812/"
         }
       ],
       "updated": "2026-09-29",
@@ -113460,9 +113504,9 @@
       "url": "/wiki/entities/maryhelenimmordinoyang/"
     },
     "MaryI": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7286066638 [GLT7286066638].md",
@@ -113470,6 +113514,13 @@
           "show": "The Rest Is History",
           "title": "294: Lady Jane Grey: The Axe Falls (Part 2)",
           "url": "/wiki/sources/294-lady-jane-grey-the-axe-falls-part-2-glt7286066638/"
+        },
+        {
+          "episode_file": "GLT2281550812 [GLT2281550812].md",
+          "key": "293-lady-jane-grey-the-nine-days-queen-part-1-glt2281550812",
+          "show": "The Rest Is History",
+          "title": "293: Lady Jane Grey: The Nine Days' Queen (Part 1)",
+          "url": "/wiki/sources/293-lady-jane-grey-the-nine-days-queen-part-1-glt2281550812/"
         }
       ],
       "updated": "2026-09-29",
@@ -118938,9 +118989,9 @@
       "url": "/wiki/concepts/monalisafameformation/"
     },
     "MonarchicalRecognitionLegitimacy": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7286066638 [GLT7286066638].md",
@@ -118948,6 +118999,13 @@
           "show": "The Rest Is History",
           "title": "294: Lady Jane Grey: The Axe Falls (Part 2)",
           "url": "/wiki/sources/294-lady-jane-grey-the-axe-falls-part-2-glt7286066638/"
+        },
+        {
+          "episode_file": "GLT2281550812 [GLT2281550812].md",
+          "key": "293-lady-jane-grey-the-nine-days-queen-part-1-glt2281550812",
+          "show": "The Rest Is History",
+          "title": "293: Lady Jane Grey: The Nine Days' Queen (Part 1)",
+          "url": "/wiki/sources/293-lady-jane-grey-the-nine-days-queen-part-1-glt2281550812/"
         }
       ],
       "updated": "2026-09-29",
@@ -123243,9 +123301,9 @@
       "url": "/wiki/entities/nimiwusun/"
     },
     "NineDaysQueenSuccessionCrisis": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7286066638 [GLT7286066638].md",
@@ -123253,6 +123311,13 @@
           "show": "The Rest Is History",
           "title": "294: Lady Jane Grey: The Axe Falls (Part 2)",
           "url": "/wiki/sources/294-lady-jane-grey-the-axe-falls-part-2-glt7286066638/"
+        },
+        {
+          "episode_file": "GLT2281550812 [GLT2281550812].md",
+          "key": "293-lady-jane-grey-the-nine-days-queen-part-1-glt2281550812",
+          "show": "The Rest Is History",
+          "title": "293: Lady Jane Grey: The Nine Days' Queen (Part 1)",
+          "url": "/wiki/sources/293-lady-jane-grey-the-nine-days-queen-part-1-glt2281550812/"
         }
       ],
       "updated": "2026-09-29",
@@ -171508,6 +171573,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/tudongdong/"
+    },
+    "TudorFemaleSovereigntyConstraint": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2281550812 [GLT2281550812].md",
+          "key": "293-lady-jane-grey-the-nine-days-queen-part-1-glt2281550812",
+          "show": "The Rest Is History",
+          "title": "293: Lady Jane Grey: The Nine Days' Queen (Part 1)",
+          "url": "/wiki/sources/293-lady-jane-grey-the-nine-days-queen-part-1-glt2281550812/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/tudorfemalesovereigntyconstraint/"
     },
     "TudorSuccessionCrisis": {
       "episode_count": 4,

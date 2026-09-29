@@ -951,6 +951,10 @@
     "title": "29.千面英雄：俄狄浦斯正在下班挤地铁",
     "url": "/wiki/sources/29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891/"
   },
+  "293-lady-jane-grey-the-nine-days-queen-part-1-glt2281550812": {
+    "title": "293: Lady Jane Grey: The Nine Days' Queen (Part 1)",
+    "url": "/wiki/sources/293-lady-jane-grey-the-nine-days-queen-part-1-glt2281550812/"
+  },
   "294-lady-jane-grey-the-axe-falls-part-2-glt7286066638": {
     "title": "294: Lady Jane Grey: The Axe Falls (Part 2)",
     "url": "/wiki/sources/294-lady-jane-grey-the-axe-falls-part-2-glt7286066638/"
@@ -27986,6 +27990,10 @@
   "France": {
     "title": "France",
     "url": "/wiki/entities/france/"
+  },
+  "FrancesGrey": {
+    "title": "Frances Grey",
+    "url": "/wiki/entities/francesgrey/"
   },
   "FrancesHaugen": {
     "title": "Frances Haugen",
@@ -73114,6 +73122,10 @@
   "Tudor": {
     "title": "Tudor",
     "url": "/wiki/entities/tudor/"
+  },
+  "TudorFemaleSovereigntyConstraint": {
+    "title": "Tudor Female Sovereignty Constraint",
+    "url": "/wiki/concepts/tudorfemalesovereigntyconstraint/"
   },
   "TudorSuccessionCrisis": {
     "title": "Tudor Succession Crisis",

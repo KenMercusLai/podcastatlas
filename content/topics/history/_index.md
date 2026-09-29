@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2180
+topic_total_pages: 2181
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4716,6 +4716,9 @@ topic_sources:
   - key: "271-tangchao-douyao-bucunzai-le-weishenme-weishilun-hui-zai-jinnian-da-baofa-lg7-wdrdw1b9h7lwa4vwkvmyb4un"
     title: "271.唐朝都要不存在了？为什么伪史论会在今年大爆发？"
     url: "/wiki/sources/271-tangchao-douyao-bucunzai-le-weishenme-weishilun-hui-zai-jinnian-da-baofa-lg7-wdrdw1b9h7lwa4vwkvmyb4un/"
+  - key: "293-lady-jane-grey-the-nine-days-queen-part-1-glt2281550812"
+    title: "293: Lady Jane Grey: The Nine Days' Queen (Part 1)"
+    url: "/wiki/sources/293-lady-jane-grey-the-nine-days-queen-part-1-glt2281550812/"
   - key: "294-lady-jane-grey-the-axe-falls-part-2-glt7286066638"
     title: "294: Lady Jane Grey: The Axe Falls (Part 2)"
     url: "/wiki/sources/294-lady-jane-grey-the-axe-falls-part-2-glt7286066638/"

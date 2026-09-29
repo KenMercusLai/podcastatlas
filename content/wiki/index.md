@@ -3212,6 +3212,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Vol.354 宛如泰坦尼克：冒充者综合征大爆发！献给才华平平但野心勃勃的人](sources/vol-354-wanru-taitannike-maochongzhe-zonghezheng-dabaofa-xiangei-caihua-pingping-dan-yexin-bobo-de-ren-gkwrirwokgwgauo05wtfda-h.md) — 文化有限 episode on Sounds Like Titanic, fake musical performance, impostor feelings, effort narratives, workplace conformity, and audience perfection pressure.
 - [京东开出购物中心，蔚来与吉利推进充电换电合作](sources/jingdong-kaichu-gouwuzhongxin-weilai-yu-jili-tuijin-chongdian-huandian-hezuo-1019779523.md) — 声动早咖啡 episode on NIO–Geely charging and battery-swap collaboration, JD's physical-retail and rapid-delivery experiments, and brief updates on visitor payments, patents, restaurants, variety rights, football, festival streaming, and celebrity-IP retail.
+- [293: Lady Jane Grey: The Nine Days' Queen (Part 1)](sources/293-lady-jane-grey-the-nine-days-queen-part-1-glt2281550812.md) — The Rest Is History episode on Edward VI's succession device, Protestant commitment, female-rule anxiety, disputed legality, Northumberland's mixed motives, and Jane's education and reluctant accession.
 
 ## Entities
 - [咪仔 / Mizi](entities/MiziCrimePodcaster.md) — Journalist-trained crime podcaster combining vocal skill, nonfiction verification, audio composition, payment ethics, and vulnerable creator practice.
@@ -14624,13 +14625,14 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Jessica Chiccehitto Hindman / 杰西卡·齐切西托·辛德曼](entities/JessicaChiccehittoHindman.md) — Writer, teacher, and classically trained violinist whose fake-playing touring experience became Sounds Like Titanic.
 - [《宛如泰坦尼克》 / Sounds Like Titanic](entities/SoundsLikeTitanicBook.md) — Jessica Chiccehitto Hindman's nonfiction inquiry into mimed performance, ambition, work, audience desire, and post-9/11 consolation.
-- [Lady Jane Grey](entities/LadyJaneGrey.md) — Teenage Protestant claimant whose nine-day regime, bounded agency, execution, and martyr afterlife leave her status as queen contested.
-- [Mary I](entities/MaryI.md) — Lawful Tudor heir who builds a broad East Anglian coalition, defeats Jane's regime, and moves from mercy to execution after renewed rebellion.
-- [Edward VI](entities/EdwardVI.md) — Protestant Tudor king whose succession plan excludes Mary and Elizabeth but cannot secure Jane's rule without wider recognition.
-- [John Dudley, Duke of Northumberland](entities/JohnDudleyDukeOfNorthumberland.md) — Jane's leading political-military sponsor whose claimant-security, coalition, and London-control failures accelerate the regime's collapse.
-- [Guildford Dudley](entities/GuildfordDudley.md) — Jane Grey's husband whose disputed kingship exposes her bounded agency and whose suspended sentence ends after Wyatt's Rebellion.
+- [Lady Jane Grey](entities/LadyJaneGrey.md) — Educated teenage Protestant claimant whose reluctant accession, bounded agency, nine-day regime, execution, and martyr afterlife leave her status as queen contested.
+- [Mary I](entities/MaryI.md) — Excluded Catholic Tudor heir who converts statutory and hereditary legitimacy into a broad coalition, defeats Jane, and later moves from mercy to execution.
+- [Edward VI](entities/EdwardVI.md) — Capable Protestant Tudor king whose evolving succession device joins confessional purpose to disputed gender, legitimacy, and legal reasoning.
+- [John Dudley, Duke of Northumberland](entities/JohnDudleyDukeOfNorthumberland.md) — Jane's ambitious Protestant sponsor whose family interest and implementation role coexist with Edward's agency and major strategic failures.
+- [Guildford Dudley](entities/GuildfordDudley.md) — Jane Grey's teenage husband whose marriage, disputed kingship, and execution expose dynastic interest, consort anxiety, and Jane's bounded agency.
 - [Henry Grey](entities/HenryGrey.md) — Jane Grey's father whose participation in Wyatt's Rebellion increases the security danger attached to her surviving claim.
 - [Wyatt's Rebellion](entities/WyattRebellion.md) — 1554 rising against Mary I that transforms Jane from a containable prisoner into a reusable Protestant claimant.
+- [Frances Grey](entities/FrancesGrey.md) — Jane Grey's mother and closer hereditary claimant whose omission from Edward VI's device remains unresolved.
 
 ## Concepts
 - [Ankylosing Spondylitis / 强直性脊柱炎](concepts/AnkylosingSpondylitis.md) — Immune-mediated rheumatic disease framed through early recognition, medical inflammation control, access burdens, and surgery limited to selected structural consequences.
@@ -23467,7 +23469,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Performance Authenticity Tradeoff / 表演真实性权衡](concepts/PerformanceAuthenticityTradeoff.md) — Tension among live appearance, polished output, disclosure, genuine audience effects, and tolerance for human error.
 - [Recognition-Driven Workplace Conformity / 认可驱动的职场顺从](concepts/RecognitionDrivenWorkplaceConformity.md) — Pattern where income, belonging, identity, and praise for cooperativeness suppress a worker's ethical or professional judgment.
-- [Nine Days' Queen Succession Crisis](concepts/NineDaysQueenSuccessionCrisis.md) — July 1553 contest joining documentary title, hereditary claim, coalition building, force, council defection, and residual claimant danger.
-- [Monarchical Recognition Legitimacy](concepts/MonarchicalRecognitionLegitimacy.md) — Gap between a formal claim to a crown and acceptance by public, elite, military, and later historical audiences.
+- [Nine Days' Queen Succession Crisis](concepts/NineDaysQueenSuccessionCrisis.md) — 1553 contest joining a changing royal device, statute, religion, gender, rival claims, coalition, force, and residual claimant danger.
+- [Monarchical Recognition Legitimacy](concepts/MonarchicalRecognitionLegitimacy.md) — Gap among designation, statute, proclamation, and acceptance by public, elite, military, and later historical audiences.
+- [Tudor Female Sovereignty Constraint](concepts/TudorFemaleSovereigntyConstraint.md) — Gendered legitimacy problem joining female hereditary claims to male-kingship expectations and fear of rule through a queen's husband.
 
 ## Syntheses

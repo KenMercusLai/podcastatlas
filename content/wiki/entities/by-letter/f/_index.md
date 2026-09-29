@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 11391
+wiki_total_pages: 11392
 wiki_pages:
   - key: "FIFAWorldCup1934"
     title: "1934 FIFA World Cup"
@@ -476,6 +476,9 @@ wiki_pages:
   - key: "France"
     title: "France"
     url: "/wiki/entities/france/"
+  - key: "FrancesGrey"
+    title: "Frances Grey"
+    url: "/wiki/entities/francesgrey/"
   - key: "FrancesHaugen"
     title: "Frances Haugen"
     url: "/wiki/entities/franceshaugen/"

@@ -25363,3 +25363,11 @@ Added source `vol-13-jizhuwaike-dangdai-nianqingren-de-yaojianpan-weihe-ruci-tuc
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | 293: Lady Jane Grey: The Nine Days' Queen (Part 1)
+
+Added source `293-lady-jane-grey-the-nine-days-queen-part-1-glt2281550812`; created `FrancesGrey` and `TudorFemaleSovereigntyConstraint`; expanded `LadyJaneGrey`, `MaryI`, `EdwardVI`, `JohnDudleyDukeOfNorthumberland`, `GuildfordDudley`, `NineDaysQueenSuccessionCrisis`, and `MonarchicalRecognitionLegitimacy` from their complete bounded two-episode source sets; and updated the canonical index. Core synthesis: Edward's changing device combines genuine Protestant conviction and personal agency with male-heir preference, disputed illegitimacy, an unresolved conflict with Henry VIII's statutory settlement, and Northumberland's overlapping religious, political, and family interests. Jane's education and later conduct support a serious Protestant identity, while her marriage, consent, linguistic attainments, Frances Grey's omission, and the device's legality remain uncertain. No settled contradiction was adopted. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

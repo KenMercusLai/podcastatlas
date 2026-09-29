@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 8803
+wiki_total_pages: 8804
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -911,6 +911,9 @@ wiki_pages:
   - key: "TryCatchFinallySelfManagement"
     title: "Try-Catch-Finally Self-Management / try-catch-finally 自我管理"
     url: "/wiki/concepts/trycatchfinallyselfmanagement/"
+  - key: "TudorFemaleSovereigntyConstraint"
+    title: "Tudor Female Sovereignty Constraint"
+    url: "/wiki/concepts/tudorfemalesovereigntyconstraint/"
   - key: "TudorSuccessionCrisis"
     title: "Tudor Succession Crisis"
     url: "/wiki/concepts/tudorsuccessioncrisis/"
