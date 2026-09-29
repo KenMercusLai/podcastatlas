@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 8798
+wiki_total_pages: 8800
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -413,6 +413,9 @@ wiki_pages:
   - key: "EmergencyWarningInfrastructure"
     title: "Emergency Warning Infrastructure"
     url: "/wiki/concepts/emergencywarninginfrastructure/"
+  - key: "EmergencyDepartmentAcuityTriage"
+    title: "Emergency-Department Acuity Triage / 急诊病情分级"
+    url: "/wiki/concepts/emergencydepartmentacuitytriage/"
   - key: "EmergencyDepartmentRiskExclusion"
     title: "Emergency-Department Risk Exclusion / 急诊危重风险排除"
     url: "/wiki/concepts/emergencydepartmentriskexclusion/"

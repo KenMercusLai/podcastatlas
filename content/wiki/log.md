@@ -25325,3 +25325,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | VOL.15急诊危重病科｜鬼门关隔壁的玄学 车祸患者对我说：“每天看到有人拉我去火葬场”
+
+Added source `vol-15-jizhen-weizhongbingke-guimenguan-gebide-xuanxue-chehuo-huanzhe-dui-wo-shuo-meitian-kandao-youren-la-wo-qu-huozangchang-ljgg_zhhuq3teyoqjk6unvuzba1n`; created `EmergencyDepartmentAcuityTriage` and `ICUFamilyParticipationBoundary`; and expanded `MengDoctorFeverClinic`, `IntensiveCareAsTimeBuying`, and `PostAnesthesiaRecoverySafety` from their complete bounded source sets. Core synthesis: ICU is a high-intensity stabilization and specialty-handoff node rather than a terminal destination; emergency order follows acuity; frightening ICU perceptions can reflect delirium and environmental disorientation; and families help most through accurate history, approved contact, and informed questions rather than unsupervised device changes. No settled contradiction was adopted. The transfer-out estimate, case histories, equipment examples, lifestyle advice, and treatment details remain source-scoped public education rather than universal outcomes or individualized medical guidance. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

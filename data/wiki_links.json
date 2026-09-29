@@ -23675,6 +23675,10 @@
     "title": "Emergency Cash Assistance / 紧急现金援助",
     "url": "/wiki/concepts/emergencycashassistance/"
   },
+  "EmergencyDepartmentAcuityTriage": {
+    "title": "Emergency-Department Acuity Triage / 急诊病情分级",
+    "url": "/wiki/concepts/emergencydepartmentacuitytriage/"
+  },
   "EmergencyDepartmentRiskExclusion": {
     "title": "Emergency-Department Risk Exclusion / 急诊危重风险排除",
     "url": "/wiki/concepts/emergencydepartmentriskexclusion/"
@@ -35398,6 +35402,10 @@
   "ICEWorkforceExpansion": {
     "title": "ICE Workforce Expansion",
     "url": "/wiki/concepts/iceworkforceexpansion/"
+  },
+  "ICUFamilyParticipationBoundary": {
+    "title": "ICU Family Participation Boundary / ICU家属参与边界",
+    "url": "/wiki/concepts/icufamilyparticipationboundary/"
   },
   "IDC": {
     "title": "IDC",
@@ -88058,6 +88066,10 @@
   "vol-140-weishenme-jiancha-qian-yao-bieniao-ni-zuo-b-chao-jiancha-shi-tu-de-you-haishi-liang-de-ma-a-chao-m-chao-d-chao-sanwei-siwei-dou-shi-shenme-lqu3qcqbn3yr5r_-opoaw3sc1vsf": {
     "title": "VOL.140为什么检查前要憋尿？你做B超检查时涂的“油”还是凉的吗？A超、M超、D超、三维、四维都是什么？",
     "url": "/wiki/sources/vol-140-weishenme-jiancha-qian-yao-bieniao-ni-zuo-b-chao-jiancha-shi-tu-de-you-haishi-liang-de-ma-a-chao-m-chao-d-chao-sanwei-siwei-dou-shi-shenme-lqu3qcqbn3yr5r_-opoaw3sc1vsf/"
+  },
+  "vol-15-jizhen-weizhongbingke-guimenguan-gebide-xuanxue-chehuo-huanzhe-dui-wo-shuo-meitian-kandao-youren-la-wo-qu-huozangchang-ljgg_zhhuq3teyoqjk6unvuzba1n": {
+    "title": "VOL.15急诊危重病科｜鬼门关隔壁的玄学 车祸患者对我说：“每天看到有人拉我去火葬场”",
+    "url": "/wiki/sources/vol-15-jizhen-weizhongbingke-guimenguan-gebide-xuanxue-chehuo-huanzhe-dui-wo-shuo-meitian-kandao-youren-la-wo-qu-huozangchang-ljgg_zhhuq3teyoqjk6unvuzba1n/"
   },
   "vol-152-nazha-wo-ming-you-wo-bu-you-tian-xianshi-zhong-de-gaiming-shenqi-ni-zhidao-ma-zhen-neng-yufang-cusi-ma-lvt24r7x6bppx7e5gqhas1yn-jru": {
     "title": "VOL.152哪吒：我命由我不由天！现实中的“改命”神器你知道吗？真能预防猝死吗？",
