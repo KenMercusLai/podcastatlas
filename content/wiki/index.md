@@ -3255,6 +3255,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [283: Ecuador: Darwin's Adventure to the Galapagos](sources/283-ecuador-darwins-adventure-to-the-galapagos-glt2992613399.md) — The Rest Is History episode on Darwin's Beagle voyage, Galapagos variation, Gould's finch classification, and the gradual formation of evolutionary theory.
 - [284: Denmark: The Great Escape](sources/284-denmark-the-great-escape-glt4809968647.md) — The Rest Is History episode on warning, civic networks, Oresund transport, Swedish refuge, and the multi-causal rescue of the Danish Jews.
 
+- [Using Caffeine to Optimize Mental & Physical Performance](sources/using-caffeine-to-optimize-mental-physical-performance-scim1210768101.md) — Huberman Lab solo episode on adenosine blockade, caffeine timing and dose, performance, memory, learned reinforcement, tolerance, sleep, and stacking risks.
+
 ## Entities
 - [Y Wladfa / Welsh Patagonia](entities/YWladfa.md) — Welsh Patagonian settlement joining language preservation, frontier survival, Argentine integration, cultural revival, and colonial reassessment.
 - [Michael D. Jones](entities/MichaelDJones.md) — Welsh minister and nationalist organizer whose anti-assimilation project founded Y Wladfa.
@@ -23665,5 +23667,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Confessional Commonwealth](concepts/ConfessionalCommonwealth.md) — Polity integrating doctrine, worship, education, welfare, moral oversight, and civic order within one religious community.
 - [Reformation Toleration Boundary](concepts/ReformationTolerationBoundary.md) — Distinction between liberty for a persecuted confession and liberty of conscience for dissenters within or beyond it.
+
+- [Caffeine Behavioral Reinforcement](concepts/CaffeineBehavioralReinforcement.md) — Learned-preference model in which caffeine reinforces repeatedly paired tastes, products, contexts, people, and activities.
 
 ## Syntheses

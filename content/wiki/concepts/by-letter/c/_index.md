@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8879
+wiki_total_pages: 8880
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -35,6 +35,9 @@ wiki_pages:
   - key: "CaffeinatedModernity"
     title: "Caffeinated Modernity"
     url: "/wiki/concepts/caffeinatedmodernity/"
+  - key: "CaffeineBehavioralReinforcement"
+    title: "Caffeine Behavioral Reinforcement"
+    url: "/wiki/concepts/caffeinebehavioralreinforcement/"
   - key: "CaffeineAdenosineSleepTiming"
     title: "Caffeine-Adenosine Sleep Timing"
     url: "/wiki/concepts/caffeineadenosinesleeptiming/"

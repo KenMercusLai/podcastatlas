@@ -25527,6 +25527,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-30] ingest | Using Caffeine to Optimize Mental & Physical Performance
+
+Added source `using-caffeine-to-optimize-mental-physical-performance-scim1210768101`; created `CaffeineBehavioralReinforcement`; and updated `CaffeineAdenosineSleepTiming`, `DopamineToolTiming`, and `PostLearningArousalTagging` from their complete bounded source sets. Core synthesis: caffeine blocks rather than clears adenosine, while dose, timing, adaptation, sleep, and learned pairing determine whether it supports alertness and performance or masks fatigue and reinforces unwanted contexts. No settled contradiction was adopted. Dose, delay and cutoff windows, abstinence schedules, GLP-1, theanine, hydration, hormone, neuroprotection, mood, ADHD, asthma, and dopamine-stacking claims remain source-scoped public education rather than individualized guidance. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-30] ingest | VOL.05急诊｜解密医生之间的那些暗语｜在急诊有床位就代表有一席之地
 
 Added source `vol-05-jizhen-jiemi-yisheng-zhijian-de-naxie-anyu-zai-jizhen-you-chuangwei-jiu-daibiao-you-yixi-zhidi-lirey0j7u3c55buirusfj4qtzzg6`; expanded `EmergencyDepartmentAcuityTriage`, `DoctorPatientCommunication`, and `OnlineSymptomSearchAnxiety` from their complete bounded source sets. Core synthesis: emergency order follows acuity but still operates inside bed, transport, scanner, and staffing constraints; paced family explanation and formal clinician-to-clinician reporting can preserve comprehension and context without making opacity acceptable; and unranked symptom searching can turn overlap and familiarity into false personal certainty. No settled contradiction was adopted. Waiting-time comparisons, resource counts and costs, patient proportions, clinician motives, legal trends, and individual cases remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -25693,6 +25697,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-30] ingest | 274: Switzerland: Calvin's Cancel Culture
 
 Added source `274-switzerland-calvins-cancel-culture-glt2874543265`; created `JohnCalvin`, `MichaelServetus`, `SebastianCastellio`, `Geneva`, `ConfessionalCommonwealth`, and `ReformationTolerationBoundary`; and expanded `PragmaticReligiousToleration` from its complete bounded source set. Core synthesis: Calvin's Geneva combined Protestant refuge with a distributed confessional order of preaching, education, welfare, moral oversight, civic authority, and doctrinal punishment; Servetus's execution exposed the difference between liberty for a threatened confession and liberty of conscience, while Castellio's response made persecution itself an argument for broader toleration. No settled contradiction was adopted. Medical priority, Calvin's desired pardon and responsibility, civic motives, consistory rates, long-run cultural influence, and modern free-speech analogies remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten because this 2022 episode backfills a bounded Reformation branch without changing the wiki-wide synthesis.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-30] lint | Wiki health check
 

@@ -23314,9 +23314,9 @@
       "url": "/wiki/concepts/caesarsbritishexpeditions/"
     },
     "CaffeineAdenosineSleepTiming": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 3,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "SCIM6408620468 [SCIM6408620468].md",
@@ -23359,10 +23359,33 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Matt Walker: Protocols to Improve Your Sleep",
           "url": "/wiki/sources/guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663/"
+        },
+        {
+          "episode_file": "SCIM1210768101 [SCIM1210768101].md",
+          "key": "using-caffeine-to-optimize-mental-physical-performance-scim1210768101",
+          "show": "Huberman Lab",
+          "title": "Using Caffeine to Optimize Mental & Physical Performance",
+          "url": "/wiki/sources/using-caffeine-to-optimize-mental-physical-performance-scim1210768101/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-09-30",
       "url": "/wiki/concepts/caffeineadenosinesleeptiming/"
+    },
+    "CaffeineBehavioralReinforcement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1210768101 [SCIM1210768101].md",
+          "key": "using-caffeine-to-optimize-mental-physical-performance-scim1210768101",
+          "show": "Huberman Lab",
+          "title": "Using Caffeine to Optimize Mental & Physical Performance",
+          "url": "/wiki/sources/using-caffeine-to-optimize-mental-physical-performance-scim1210768101/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/caffeinebehavioralreinforcement/"
     },
     "CaiJing": {
       "episode_count": 1,
@@ -47207,9 +47230,9 @@
       "url": "/wiki/concepts/dopaminepeaktroughbaseline/"
     },
     "DopamineToolTiming": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM6495209379 [SCIM6495209379].md",
@@ -47231,9 +47254,16 @@
           "show": "Huberman Lab",
           "title": "Tools to Enhance Working Memory & Attention",
           "url": "/wiki/sources/tools-to-enhance-working-memory-attention-scim1948560111/"
+        },
+        {
+          "episode_file": "SCIM1210768101 [SCIM1210768101].md",
+          "key": "using-caffeine-to-optimize-mental-physical-performance-scim1210768101",
+          "show": "Huberman Lab",
+          "title": "Using Caffeine to Optimize Mental & Physical Performance",
+          "url": "/wiki/sources/using-caffeine-to-optimize-mental-physical-performance-scim1210768101/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-30",
       "url": "/wiki/concepts/dopaminetooltiming/"
     },
     "DopamineWantingLoop": {
@@ -138003,9 +138033,9 @@
       "url": "/wiki/concepts/postinfectiousreturntoactivity/"
     },
     "PostLearningArousalTagging": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM6024056343 [SCIM6024056343].md",
@@ -138013,9 +138043,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Understand & Improve Memory Using Science-Based Tools",
           "url": "/wiki/sources/essentials-understand-improve-memory-using-science-based-tools-scim6024056343/"
+        },
+        {
+          "episode_file": "SCIM1210768101 [SCIM1210768101].md",
+          "key": "using-caffeine-to-optimize-mental-physical-performance-scim1210768101",
+          "show": "Huberman Lab",
+          "title": "Using Caffeine to Optimize Mental & Physical Performance",
+          "url": "/wiki/sources/using-caffeine-to-optimize-mental-physical-performance-scim1210768101/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-09-30",
       "url": "/wiki/concepts/postlearningarousaltagging/"
     },
     "PostPlagueSocialMobility": {
