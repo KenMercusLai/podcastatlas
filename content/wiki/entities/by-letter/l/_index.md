@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 11384
+wiki_total_pages: 11391
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -44,6 +44,9 @@ wiki_pages:
   - key: "LadyCarolineLamb"
     title: "Lady Caroline Lamb"
     url: "/wiki/entities/ladycarolinelamb/"
+  - key: "LadyJaneGrey"
+    title: "Lady Jane Grey"
+    url: "/wiki/entities/ladyjanegrey/"
   - key: "LadyMelbourne"
     title: "Lady Melbourne"
     url: "/wiki/entities/ladymelbourne/"

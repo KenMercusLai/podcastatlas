@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 11384
+wiki_total_pages: 11391
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -725,6 +725,9 @@ wiki_pages:
   - key: "Wuxiaworld"
     title: "Wuxiaworld / 武侠世界"
     url: "/wiki/entities/wuxiaworld/"
+  - key: "WyattRebellion"
+    title: "Wyatt's Rebellion"
+    url: "/wiki/entities/wyattrebellion/"
   - key: "Wyscout"
     title: "Wyscout"
     url: "/wiki/entities/wyscout/"

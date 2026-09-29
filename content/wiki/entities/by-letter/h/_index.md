@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 11384
+wiki_total_pages: 11391
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -419,6 +419,9 @@ wiki_pages:
   - key: "HenryFordII"
     title: "Henry Ford II"
     url: "/wiki/entities/henryfordii/"
+  - key: "HenryGrey"
+    title: "Henry Grey"
+    url: "/wiki/entities/henrygrey/"
   - key: "HenryGoddard"
     title: "Henry H. Goddard / 亨利·戈达德"
     url: "/wiki/entities/henrygoddard/"

@@ -951,6 +951,10 @@
     "title": "29.千面英雄：俄狄浦斯正在下班挤地铁",
     "url": "/wiki/sources/29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891/"
   },
+  "294-lady-jane-grey-the-axe-falls-part-2-glt7286066638": {
+    "title": "294: Lady Jane Grey: The Axe Falls (Part 2)",
+    "url": "/wiki/sources/294-lady-jane-grey-the-axe-falls-part-2-glt7286066638/"
+  },
   "295-the-rise-of-the-nazis-part-1-glt8045984312": {
     "title": "295: The Rise of the Nazis (Part 1)",
     "url": "/wiki/sources/295-the-rise-of-the-nazis-part-1-glt8045984312/"
@@ -23187,6 +23191,10 @@
     "title": "Edward Threate",
     "url": "/wiki/entities/edwardthreate/"
   },
+  "EdwardVI": {
+    "title": "Edward VI",
+    "url": "/wiki/entities/edwardvi/"
+  },
   "EdwinAbbott": {
     "title": "Edwin A. Abbott / 爱德温·爱伯特",
     "url": "/wiki/entities/edwinabbott/"
@@ -31423,6 +31431,10 @@
     "title": "鬼谷子 / Guiguzi",
     "url": "/wiki/entities/guiguzi/"
   },
+  "GuildfordDudley": {
+    "title": "Guildford Dudley",
+    "url": "/wiki/entities/guildforddudley/"
+  },
   "GuilinCommandery": {
     "title": "桂林郡 / Guilin Commandery",
     "url": "/wiki/entities/guilincommandery/"
@@ -33170,6 +33182,10 @@
   "HenryGoddard": {
     "title": "Henry H. Goddard / 亨利·戈达德",
     "url": "/wiki/entities/henrygoddard/"
+  },
+  "HenryGrey": {
+    "title": "Henry Grey",
+    "url": "/wiki/entities/henrygrey/"
   },
   "HenryHarteveldt": {
     "title": "Henry Harteveldt",
@@ -39199,6 +39215,10 @@
     "title": "John Donahoe",
     "url": "/wiki/entities/johndonahoe/"
   },
+  "JohnDudleyDukeOfNorthumberland": {
+    "title": "John Dudley, Duke of Northumberland",
+    "url": "/wiki/entities/johndudleydukeofnorthumberland/"
+  },
   "JohnElkann": {
     "title": "John Elkann",
     "url": "/wiki/entities/johnelkann/"
@@ -41342,6 +41362,10 @@
   "LadyGouyiWesternHan": {
     "title": "钩弋夫人 / Lady Gouyi (Western Han)",
     "url": "/wiki/entities/ladygouyiwesternhan/"
+  },
+  "LadyJaneGrey": {
+    "title": "Lady Jane Grey",
+    "url": "/wiki/entities/ladyjanegrey/"
   },
   "LadyLiWesternHan": {
     "title": "李夫人 / Lady Li (Western Han)",
@@ -47119,6 +47143,10 @@
     "title": "Mary Helen Immordino-Yang",
     "url": "/wiki/entities/maryhelenimmordinoyang/"
   },
+  "MaryI": {
+    "title": "Mary I",
+    "url": "/wiki/entities/maryi/"
+  },
   "MaryII": {
     "title": "Mary II",
     "url": "/wiki/entities/maryii/"
@@ -49575,6 +49603,10 @@
     "title": "Mona Lisa Fame Formation",
     "url": "/wiki/concepts/monalisafameformation/"
   },
+  "MonarchicalRecognitionLegitimacy": {
+    "title": "Monarchical Recognition Legitimacy",
+    "url": "/wiki/concepts/monarchicalrecognitionlegitimacy/"
+  },
   "MondayCom": {
     "title": "monday.com",
     "url": "/wiki/entities/mondaycom/"
@@ -51626,6 +51658,10 @@
   "NinaMiolane": {
     "title": "Nina Miolane",
     "url": "/wiki/entities/ninamiolane/"
+  },
+  "NineDaysQueenSuccessionCrisis": {
+    "title": "Nine Days' Queen Succession Crisis",
+    "url": "/wiki/concepts/ninedaysqueensuccessioncrisis/"
   },
   "NinePhysiologicalAdaptations": {
     "title": "Nine Physiological Adaptations / 九大生理适应能力",
@@ -77978,6 +78014,10 @@
   "Wuzi": {
     "title": "《吴子》 / Wuzi",
     "url": "/wiki/entities/wuzi/"
+  },
+  "WyattRebellion": {
+    "title": "Wyatt's Rebellion",
+    "url": "/wiki/entities/wyattrebellion/"
   },
   "Wyscout": {
     "title": "Wyscout",

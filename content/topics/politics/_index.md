@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2822
+topic_total_pages: 2823
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5720,6 +5720,9 @@ topic_entities:
   - key: "JohnConnally"
     title: "John Connally"
     url: "/wiki/entities/johnconnally/"
+  - key: "JohnDudleyDukeOfNorthumberland"
+    title: "John Dudley, Duke of Northumberland"
+    url: "/wiki/entities/johndudleydukeofnorthumberland/"
   - key: "JohnFKennedy"
     title: "John F. Kennedy"
     url: "/wiki/entities/johnfkennedy/"

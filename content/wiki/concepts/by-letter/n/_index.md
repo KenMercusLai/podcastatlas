@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 8800
+wiki_total_pages: 8802
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -290,6 +290,9 @@ wiki_pages:
   - key: "NikeBrandDrift"
     title: "Nike Brand Drift"
     url: "/wiki/concepts/nikebranddrift/"
+  - key: "NineDaysQueenSuccessionCrisis"
+    title: "Nine Days' Queen Succession Crisis"
+    url: "/wiki/concepts/ninedaysqueensuccessioncrisis/"
   - key: "NinePhysiologicalAdaptations"
     title: "Nine Physiological Adaptations / 九大生理适应能力"
     url: "/wiki/concepts/ninephysiologicaladaptations/"

@@ -24866,6 +24866,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
 ## [2026-09-29] ingest | 298: The Nazis: Total Power (Part 4)
 
 Added source `298-the-nazis-total-power-part-4-glt6097237943`; created `MarinusVanDerLubbe`, `ReichstagFire1933`, `ReichstagFireDecree`, `EnablingAct1933`, and `LegalCoerciveDictatorshipConsolidation`; and updated the canonical index. Core synthesis: Hitler's 1933 dictatorship emerged by making formal elections, emergency decree, and legislative procedure operate together with captured police, paramilitary violence, opposition exclusion, conservative accommodation, and destruction of independent institutions. No settled contradiction was adopted. The episode's lone-actor fire judgment, arrest and crowd totals, counterfactual stopping points, private motives, broad ideological comparisons, and modern analogies remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -24873,6 +24874,7 @@ Added source `298-the-nazis-total-power-part-4-glt6097237943`; created `MarinusV
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
 
 ## [2026-09-29] lint | Wiki health check
 
@@ -25337,6 +25339,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-29] ingest | VOL.14急诊危重病科｜在EICU生死一刹那 下一秒的故事永远无法剧透
 
 Added source `vol-14-jizhen-weizhongbingke-zai-eicu-shengsi-yichana-xiayimiao-de-gushi-yongyuan-wufa-jutou-lvroomdoozbajm99k07hhffefc7c`; expanded `MengDoctorFeverClinic`, `IntensiveCareAsTimeBuying`, `EmergencyDepartmentAcuityTriage`, `DoctorPatientCommunication`, `ClinicalTeachingRelationship`, and `ClinicalOutcomeUncertainty` from their complete bounded source sets; and updated the canonical index. Core synthesis: emergency calm is trained prioritization rather than indifference; EICU decisions join interacting disease, immediate threat, realistic benefit, treatment goals, cost, and coverage; time-critical communication should combine risk disclosure with a reasoned professional recommendation; and apparent improvement or planned discharge cannot guarantee the next outcome. No settled contradiction was adopted. Case histories, hospital organization, treatment examples, insurance rules, and training or career claims remain source-scoped personal testimony and public education. The supplied transcript ends mid-sentence, and no missing conclusion was reconstructed. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | 294: Lady Jane Grey: The Axe Falls (Part 2)
+
+Added source `294-lady-jane-grey-the-axe-falls-part-2-glt7286066638`; created `LadyJaneGrey`, `MaryI`, `EdwardVI`, `JohnDudleyDukeOfNorthumberland`, `GuildfordDudley`, `HenryGrey`, `WyattRebellion`, `NineDaysQueenSuccessionCrisis`, and `MonarchicalRecognitionLegitimacy`; expanded `RoyalExecutionLegitimacy` from its complete bounded source set; and updated the canonical index. Core synthesis: Mary converts a simpler hereditary claim, East Anglian networks, cross-confessional support, naval defection, and council reversal into accepted rule, while Jane's written designation and proclamation fail to become durable monarchy. Mary's initial mercy remains viable only until Wyatt's Rebellion and Henry Grey's participation demonstrate that Jane's surviving claim can organize renewed opposition. No settled contradiction was adopted. Jane's consent and age, Northumberland's authorship and recantation motives, prison reports, counterfactual reign, execution detail, and final monarchical status remain source-scoped or contested. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
 
 ## [2026-09-29] lint | Wiki health check
 

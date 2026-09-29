@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 11384
+wiki_total_pages: 11391
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -737,6 +737,9 @@ wiki_pages:
   - key: "JohnDonahoe"
     title: "John Donahoe"
     url: "/wiki/entities/johndonahoe/"
+  - key: "JohnDudleyDukeOfNorthumberland"
+    title: "John Dudley, Duke of Northumberland"
+    url: "/wiki/entities/johndudleydukeofnorthumberland/"
   - key: "JohnElkann"
     title: "John Elkann"
     url: "/wiki/entities/johnelkann/"

@@ -9,6 +9,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Access Your Creativity | Rick Rubin](sources/how-to-access-your-creativity-rick-rubin-scim6664103159.md) — Full Huberman Lab conversation on felt creative judgment, constraints, receptive attention, phase-specific deadlines, completion, feedback boundaries, and meditation.
 - [GUEST SERIES | Dr. Andy Galpin: How to Assess & Improve All Aspects of Your Fitness](sources/guest-series-dr-andy-galpin-how-to-assess-improve-all-aspects-of-your-fitness-scim9072919255.md) — Huberman Lab guest-series opener on nine trainable adaptations, cross-domain fitness gaps, practical self-testing, and weak-link prioritization.
 - [vol.56 对谈咪仔：人生是认领自己与确立使命的过程](sources/vol-56-duitan-mizi-rensheng-shi-renling-ziji-yu-queli-shiming-de-guocheng-lgrbpfubc8s6y59jb6tsd6glz-c.md) — 天真不天真 conversation on career-skill convergence, crime-podcast craft, journalism ethics, paid-content design, creator portfolios, vulnerability, and emotional triggers.
+- [294: Lady Jane Grey: The Axe Falls (Part 2)](sources/294-lady-jane-grey-the-axe-falls-part-2-glt7286066638.md) — The Rest Is History episode on Jane Grey's nine-day regime, Mary I's legitimacy coalition, elite and naval defection, conditional mercy, Wyatt's Rebellion, execution, and martyr memory.
 - [295: The Rise of the Nazis (Part 1)](sources/295-the-rise-of-the-nazis-part-1-glt8045984312.md) — The Rest Is History episode on imperial Germany, European racial thought, First World War rupture, Hitler's early formation, and the Nazi Party's Munich origins.
 - [296: The Nazis: The Beer Hall Putsch (Part 2)](sources/296-the-nazis-the-beer-hall-putsch-part-2-glt4099180386.md) — The Rest Is History episode on Weimar's fragile foundations, hyperinflation, the failed Munich coup, trial and prison, Mein Kampf, and Hitler's turn toward procedural subversion.
 - [297: The Nazis: Hitler's Triumph (Part 3)](sources/297-the-nazis-hitlers-triumph-part-3-glt2055084600.md) — The Rest Is History episode on Depression-era Nazi growth, emergency government, paramilitary politics, elite authoritarian projects, and the containment bargain that made Hitler chancellor.
@@ -14621,6 +14622,13 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Jessica Chiccehitto Hindman / 杰西卡·齐切西托·辛德曼](entities/JessicaChiccehittoHindman.md) — Writer, teacher, and classically trained violinist whose fake-playing touring experience became Sounds Like Titanic.
 - [《宛如泰坦尼克》 / Sounds Like Titanic](entities/SoundsLikeTitanicBook.md) — Jessica Chiccehitto Hindman's nonfiction inquiry into mimed performance, ambition, work, audience desire, and post-9/11 consolation.
+- [Lady Jane Grey](entities/LadyJaneGrey.md) — Teenage Protestant claimant whose nine-day regime, bounded agency, execution, and martyr afterlife leave her status as queen contested.
+- [Mary I](entities/MaryI.md) — Lawful Tudor heir who builds a broad East Anglian coalition, defeats Jane's regime, and moves from mercy to execution after renewed rebellion.
+- [Edward VI](entities/EdwardVI.md) — Protestant Tudor king whose succession plan excludes Mary and Elizabeth but cannot secure Jane's rule without wider recognition.
+- [John Dudley, Duke of Northumberland](entities/JohnDudleyDukeOfNorthumberland.md) — Jane's leading political-military sponsor whose claimant-security, coalition, and London-control failures accelerate the regime's collapse.
+- [Guildford Dudley](entities/GuildfordDudley.md) — Jane Grey's husband whose disputed kingship exposes her bounded agency and whose suspended sentence ends after Wyatt's Rebellion.
+- [Henry Grey](entities/HenryGrey.md) — Jane Grey's father whose participation in Wyatt's Rebellion increases the security danger attached to her surviving claim.
+- [Wyatt's Rebellion](entities/WyattRebellion.md) — 1554 rising against Mary I that transforms Jane from a containable prisoner into a reusable Protestant claimant.
 
 ## Concepts
 - [Emergency-Department Acuity Triage / 急诊病情分级](concepts/EmergencyDepartmentAcuityTriage.md) — Severity- and time-sensitivity-based emergency ordering, trained prioritization, routing, explanation, and reassessment rather than first-come service.
@@ -23456,5 +23464,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Performance Authenticity Tradeoff / 表演真实性权衡](concepts/PerformanceAuthenticityTradeoff.md) — Tension among live appearance, polished output, disclosure, genuine audience effects, and tolerance for human error.
 - [Recognition-Driven Workplace Conformity / 认可驱动的职场顺从](concepts/RecognitionDrivenWorkplaceConformity.md) — Pattern where income, belonging, identity, and praise for cooperativeness suppress a worker's ethical or professional judgment.
+- [Nine Days' Queen Succession Crisis](concepts/NineDaysQueenSuccessionCrisis.md) — July 1553 contest joining documentary title, hereditary claim, coalition building, force, council defection, and residual claimant danger.
+- [Monarchical Recognition Legitimacy](concepts/MonarchicalRecognitionLegitimacy.md) — Gap between a formal claim to a crown and acceptance by public, elite, military, and later historical audiences.
 
 ## Syntheses

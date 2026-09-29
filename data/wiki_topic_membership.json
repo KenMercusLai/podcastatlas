@@ -1477,6 +1477,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "294-lady-jane-grey-the-axe-falls-part-2-glt7286066638": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "295-the-rise-of-the-nazis-part-1-glt8045984312": [
     {
       "key": "history",
@@ -43002,6 +43009,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "JohnDudleyDukeOfNorthumberland": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "JohnFKennedy": [
