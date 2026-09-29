@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1323
+topic_total_pages: 1325
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -490,6 +490,9 @@ topic_concepts:
   - key: "CPRAEDResponseBoundary"
     title: "CPR/AED Response Boundary / 心肺复苏与AED使用边界"
     url: "/wiki/concepts/cpraedresponseboundary/"
+  - key: "CreativityNetworkCoordination"
+    title: "Creativity Network Coordination"
+    url: "/wiki/concepts/creativitynetworkcoordination/"
   - key: "CreatorEvaluationPressure"
     title: "Creator Evaluation Pressure"
     url: "/wiki/concepts/creatorevaluationpressure/"
@@ -3864,6 +3867,9 @@ topic_sources:
   - key: "the-science-art-of-comedy-creativity-tom-segura-scim7538555033"
     title: "The Science & Art of Comedy & Creativity | Tom Segura"
     url: "/wiki/sources/the-science-art-of-comedy-creativity-tom-segura-scim7538555033/"
+  - key: "the-science-of-creativity-how-to-enhance-creative-innovation-scim5096680097"
+    title: "The Science of Creativity & How to Enhance Creative Innovation"
+    url: "/wiki/sources/the-science-of-creativity-how-to-enhance-creative-innovation-scim5096680097/"
   - key: "the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890"
     title: "The Science of Hunger & Medications to Combat Obesity | Dr. Zachary Knight"
     url: "/wiki/sources/the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890/"

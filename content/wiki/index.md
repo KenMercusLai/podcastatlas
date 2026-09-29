@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Science of Creativity & How to Enhance Creative Innovation](sources/the-science-of-creativity-how-to-enhance-creative-innovation-scim5096680097.md) — Huberman Lab solo episode on divergence and convergence, creativity networks, state matching, narrative training, and bounded dopamine, meditation, movement, NSDR, and substance claims.
 - [VOL.05急诊｜解密医生之间的那些暗语｜在急诊有床位就代表有一席之地](sources/vol-05-jizhen-jiemi-yisheng-zhijian-de-naxie-anyu-zai-jizhen-you-chuangwei-jiu-daibiao-you-yixi-zhidi-lirey0j7u3c55buirusfj4qtzzg6.md) — 这病说来话长 episode on acuity-based emergency order, bed and imaging bottlenecks, clinician communication, CPR/AED literacy, and symptom-search anxiety.
 - [288: Jesus Christ: The History (Part 2)](sources/288-jesus-christ-the-history-part-2-glt4776258433.md) — The Rest Is History episode separating historical anchors in Jesus's life from disputed Nativity details and supernatural adjudication, while explaining Kingdom preaching, crucifixion, resurrection belief, and early exaltation.
 - [VOL.06麻醉科｜可以选择手术麻醉医生么｜和手臂一样长的针头是真的么？](sources/vol-06-mazuike-keyi-xuanze-shoushu-mazui-yisheng-me-he-shoubi-yiyang-chang-de-zhentou-shi-zhen-de-me-ll7tqta4renix5vmcvrspd069z8o.md) — 这病说来话长 episode on anesthesiologists' clinical role, layered operating-room coverage, preoperative screening, patient allocation, training, and anatomy-matched needle choice.
@@ -14684,6 +14685,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Auschwitz-Birkenau](entities/AuschwitzBirkenau.md) — Nazi concentration and extermination complex examined through forced labor, confiscation, registration, deception, mass killing, and escapee evidence.
 
 ## Concepts
+- [Creative Divergence-Convergence Cycle](concepts/CreativeDivergenceConvergenceCycle.md) — Two-mode process in which flexible association generates possibilities before focused evaluation selects and develops them.
+- [Creativity Network Coordination](concepts/CreativityNetworkCoordination.md) — Distributed account joining spontaneous generation, salience selection, and executive constraint in creative cognition.
+- [Creative State Matching](concepts/CreativeStateMatching.md) — Task-relative matching of attention, arousal, movement, rest, and stimulation to divergent or convergent work.
+- [Narrative Creativity Training](concepts/NarrativeCreativityTraining.md) — Structured creativity practice through world building, perspective shifting, and action-generating collisions.
 - [Historical Jesus Reconstruction](concepts/HistoricalJesusReconstruction.md) — Graduated-confidence method separating defensible historical claims from legendary, theological, and supernatural questions.
 - [Kingdom of God Eschatology](concepts/KingdomOfGodEschatology.md) — Imminent divine judgment and rule framed as socially subversive without being a conventional state or military revolt.
 - [Early Christian Exaltation](concepts/EarlyChristianExaltation.md) — Rapid post-crucifixion belief that Jesus had risen and occupied an exalted role, interpreted through teaching, death, and prophecy.

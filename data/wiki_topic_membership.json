@@ -21796,6 +21796,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "CreativityNetworkCoordination": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "CreatorDrivenFinancialNarrative": [
     {
       "key": "economics",
@@ -92934,6 +92941,13 @@
     }
   ],
   "the-science-art-of-comedy-creativity-tom-segura-scim7538555033": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "the-science-of-creativity-how-to-enhance-creative-innovation-scim5096680097": [
     {
       "key": "science",
       "label": "Science",

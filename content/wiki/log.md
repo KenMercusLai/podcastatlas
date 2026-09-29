@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-30] ingest | The Science of Creativity & How to Enhance Creative Innovation
+
+Added source `the-science-of-creativity-how-to-enhance-creative-innovation-scim5096680097`; created `CreativeDivergenceConvergenceCycle`, `CreativityNetworkCoordination`, `CreativeStateMatching`, and `NarrativeCreativityTraining`; updated `DopamineInvertedU` and `NonSleepDeepRestRecovery` from their complete bounded source sets; and updated the canonical index. Core synthesis: creative work alternates broad generation with focused selection, depends on coordinated rather than single-region brain systems, and benefits from matching tools to the immediate cognitive mode rather than treating stimulation as uniformly helpful. No settled contradiction was adopted. Network assignments, meditation effects, dopamine-pathway claims, NSDR timing and percentage, movement effects, ADHD generalizations, psychedelic microdosing, and alcohol or cannabis claims remain source-scoped public education rather than individualized care. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-29] ingest | Brazil rut: Lula v Bolsonaro, again
 
 Added source `brazil-rut-lula-v-bolsonaro-again-6abb8653ed4e198024b38eb5`; created `LuizInacioLulaDaSilva`, `FlavioBolsonaro`, `JairBolsonaro`, `PhoebeBridgers`, `Yondr`, `BrazilFiscalPoliticalStalemate`, `HonorCultureFemaleMobilityConstraint`, `PaidEmploymentHouseholdBargainingPower`, and `PhoneFreeConcertExperience`; and updated `Brazil`, `WomenWorkplaceProgressStall`, and the canonical index from their complete bounded source sets. Core synthesis: Brazil's polarized candidates inherit a high-interest, consumption-led fiscal and congressional stalemate without erasing institutional checks; women's work can be blocked before workplace entry by honor-based mobility control, while legal reform, role models, technology, and income can shift household bargaining; and phone-free concerts trade digital capture for attention, intimacy, and ephemerality. No settled contradiction was adopted. Election forecasts, debt and participation figures, corruption allegations, household-power associations, macroeconomic estimates, and concert effects remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -25522,6 +25526,10 @@ Added source `vol-05-jizhen-jiemi-yisheng-zhijian-de-naxie-anyu-zai-jizhen-you-c
 ## [2026-09-30] ingest | 288: Jesus Christ: The History (Part 2)
 
 Added source `288-jesus-christ-the-history-part-2-glt4776258433`; created `Jesus`, `JohnTheBaptist`, `PontiusPilate`, `HistoricalJesusReconstruction`, `KingdomOfGodEschatology`, and `EarlyChristianExaltation`; and updated the canonical index. Core synthesis: skeptical historical reconstruction can reject a harmonized Nativity while retaining existence, baptism, public teaching, Jerusalem conflict, and crucifixion as graduated historical claims; the Kingdom of God was socially and imperially subversive without being a conventional armed state or modern ideology; and Christianity's emergence joined early resurrection and exaltation belief to memorable teaching, humiliating death, and prophetic interpretation. No settled contradiction was adopted. Nativity chronology, Nazareth and Bethlehem claims, messianic self-understanding, Passion details, ministry length, and the supernatural status of resurrection remain disputed or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-30] lint | Wiki health check
 

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8837
+wiki_total_pages: 8841
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2231,6 +2231,9 @@ wiki_pages:
   - key: "CreativeCoreRenewal"
     title: "Creative Core Renewal"
     url: "/wiki/concepts/creativecorerenewal/"
+  - key: "CreativeDivergenceConvergenceCycle"
+    title: "Creative Divergence-Convergence Cycle"
+    url: "/wiki/concepts/creativedivergenceconvergencecycle/"
   - key: "CreativeHobbyCommercializationBoundary"
     title: "Creative Hobby Commercialization Boundary / 创作爱好商业化边界"
     url: "/wiki/concepts/creativehobbycommercializationboundary/"
@@ -2252,9 +2255,15 @@ wiki_pages:
   - key: "CreativeRiskAvoidanceCulture"
     title: "Creative Risk-Avoidance Culture"
     url: "/wiki/concepts/creativeriskavoidanceculture/"
+  - key: "CreativeStateMatching"
+    title: "Creative State Matching"
+    url: "/wiki/concepts/creativestatematching/"
   - key: "CreativityAsFeltProcess"
     title: "Creativity as Felt Process"
     url: "/wiki/concepts/creativityasfeltprocess/"
+  - key: "CreativityNetworkCoordination"
+    title: "Creativity Network Coordination"
+    url: "/wiki/concepts/creativitynetworkcoordination/"
   - key: "CreatorCulture"
     title: "Creator Culture"
     url: "/wiki/concepts/creatorculture/"

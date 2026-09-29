@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 8837
+wiki_total_pages: 8841
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -23,6 +23,9 @@ wiki_pages:
   - key: "NarcolepsyWakeSleepBoundary"
     title: "Narcolepsy Wake-Sleep Boundary"
     url: "/wiki/concepts/narcolepsywakesleepboundary/"
+  - key: "NarrativeCreativityTraining"
+    title: "Narrative Creativity Training"
+    url: "/wiki/concepts/narrativecreativitytraining/"
   - key: "NarrativeFateInteraction"
     title: "Narrative Fate Interaction"
     url: "/wiki/concepts/narrativefateinteraction/"

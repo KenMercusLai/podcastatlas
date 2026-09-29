@@ -37979,6 +37979,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/creativecompetitionteaminfrastructure/"
     },
+    "CreativeDivergenceConvergenceCycle": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5096680097 [SCIM5096680097].md",
+          "key": "the-science-of-creativity-how-to-enhance-creative-innovation-scim5096680097",
+          "show": "Huberman Lab",
+          "title": "The Science of Creativity & How to Enhance Creative Innovation",
+          "url": "/wiki/sources/the-science-of-creativity-how-to-enhance-creative-innovation-scim5096680097/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/creativedivergenceconvergencecycle/"
+    },
     "CreativeHobbyCommercializationBoundary": {
       "episode_count": 1,
       "show_count": 1,
@@ -38048,6 +38064,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/concepts/creativereceptivityandideacapture/"
     },
+    "CreativeStateMatching": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5096680097 [SCIM5096680097].md",
+          "key": "the-science-of-creativity-how-to-enhance-creative-innovation-scim5096680097",
+          "show": "Huberman Lab",
+          "title": "The Science of Creativity & How to Enhance Creative Innovation",
+          "url": "/wiki/sources/the-science-of-creativity-how-to-enhance-creative-innovation-scim5096680097/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/creativestatematching/"
+    },
     "CreativityAsFeltProcess": {
       "episode_count": 5,
       "show_count": 2,
@@ -38091,6 +38123,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/creativityasfeltprocess/"
+    },
+    "CreativityNetworkCoordination": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5096680097 [SCIM5096680097].md",
+          "key": "the-science-of-creativity-how-to-enhance-creative-innovation-scim5096680097",
+          "show": "Huberman Lab",
+          "title": "The Science of Creativity & How to Enhance Creative Innovation",
+          "url": "/wiki/sources/the-science-of-creativity-how-to-enhance-creative-innovation-scim5096680097/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/creativitynetworkcoordination/"
     },
     "CreatorGiftingDemandManufacture": {
       "episode_count": 1,
@@ -46647,9 +46695,9 @@
       "url": "/wiki/concepts/dopaminebaselinemaintenance/"
     },
     "DopamineInvertedU": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM3386045656 [SCIM3386045656].md",
@@ -46671,9 +46719,16 @@
           "show": "Huberman Lab",
           "title": "Tools to Enhance Working Memory & Attention",
           "url": "/wiki/sources/tools-to-enhance-working-memory-attention-scim1948560111/"
+        },
+        {
+          "episode_file": "SCIM5096680097 [SCIM5096680097].md",
+          "key": "the-science-of-creativity-how-to-enhance-creative-innovation-scim5096680097",
+          "show": "Huberman Lab",
+          "title": "The Science of Creativity & How to Enhance Creative Innovation",
+          "url": "/wiki/sources/the-science-of-creativity-how-to-enhance-creative-innovation-scim5096680097/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-30",
       "url": "/wiki/concepts/dopamineinvertedu/"
     },
     "DopaminePeakTroughBaseline": {
@@ -122239,6 +122294,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/narcolepsywakesleepboundary/"
     },
+    "NarrativeCreativityTraining": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5096680097 [SCIM5096680097].md",
+          "key": "the-science-of-creativity-how-to-enhance-creative-innovation-scim5096680097",
+          "show": "Huberman Lab",
+          "title": "The Science of Creativity & How to Enhance Creative Innovation",
+          "url": "/wiki/sources/the-science-of-creativity-how-to-enhance-creative-innovation-scim5096680097/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/narrativecreativitytraining/"
+    },
     "NarrativeFateInteraction": {
       "episode_count": 1,
       "show_count": 1,
@@ -125072,9 +125143,9 @@
       "url": "/wiki/concepts/nonmoralpoliticalanalysis/"
     },
     "NonSleepDeepRestRecovery": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM8512997965 [SCIM8512997965].md",
@@ -125096,9 +125167,16 @@
           "show": "Huberman Lab",
           "title": "LIVE EVENT Q&A: Dr. Andrew Huberman at Meridian Hall in Toronto",
           "url": "/wiki/sources/live-event-q-a-dr-andrew-huberman-at-meridian-hall-in-toronto-scim7370892669/"
+        },
+        {
+          "episode_file": "SCIM5096680097 [SCIM5096680097].md",
+          "key": "the-science-of-creativity-how-to-enhance-creative-innovation-scim5096680097",
+          "show": "Huberman Lab",
+          "title": "The Science of Creativity & How to Enhance Creative Innovation",
+          "url": "/wiki/sources/the-science-of-creativity-how-to-enhance-creative-innovation-scim5096680097/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-30",
       "url": "/wiki/concepts/nonsleepdeeprestrecovery/"
     },
     "NonStandardLodgingSearch": {
