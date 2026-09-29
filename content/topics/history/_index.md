@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2210
+topic_total_pages: 2211
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4749,6 +4749,9 @@ topic_sources:
   - key: "271-tangchao-douyao-bucunzai-le-weishenme-weishilun-hui-zai-jinnian-da-baofa-lg7-wdrdw1b9h7lwa4vwkvmyb4un"
     title: "271.唐朝都要不存在了？为什么伪史论会在今年大爆发？"
     url: "/wiki/sources/271-tangchao-douyao-bucunzai-le-weishenme-weishilun-hui-zai-jinnian-da-baofa-lg7-wdrdw1b9h7lwa4vwkvmyb4un/"
+  - key: "274-switzerland-calvins-cancel-culture-glt2874543265"
+    title: "274: Switzerland: Calvin's Cancel Culture"
+    url: "/wiki/sources/274-switzerland-calvins-cancel-culture-glt2874543265/"
   - key: "275-argentina-the-welsh-colony-glt3290664499"
     title: "275: Argentina: The Welsh Colony"
     url: "/wiki/sources/275-argentina-the-welsh-colony-glt3290664499/"

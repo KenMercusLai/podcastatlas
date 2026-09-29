@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1327
+topic_total_pages: 1328
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -2798,6 +2798,9 @@ topic_entities:
   - key: "MichaelGrandner"
     title: "Michael Grandner"
     url: "/wiki/entities/michaelgrandner/"
+  - key: "MichaelServetus"
+    title: "Michael Servetus"
+    url: "/wiki/entities/michaelservetus/"
   - key: "MindEmulationFoundation"
     title: "Mind Emulation Foundation"
     url: "/wiki/entities/mindemulationfoundation/"

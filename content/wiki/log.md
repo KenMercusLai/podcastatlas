@@ -25689,3 +25689,11 @@ Added source `275-argentina-the-welsh-colony-glt3290664499`; created `YWladfa`, 
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-30] ingest | 274: Switzerland: Calvin's Cancel Culture
+
+Added source `274-switzerland-calvins-cancel-culture-glt2874543265`; created `JohnCalvin`, `MichaelServetus`, `SebastianCastellio`, `Geneva`, `ConfessionalCommonwealth`, and `ReformationTolerationBoundary`; and expanded `PragmaticReligiousToleration` from its complete bounded source set. Core synthesis: Calvin's Geneva combined Protestant refuge with a distributed confessional order of preaching, education, welfare, moral oversight, civic authority, and doctrinal punishment; Servetus's execution exposed the difference between liberty for a threatened confession and liberty of conscience, while Castellio's response made persecution itself an argument for broader toleration. No settled contradiction was adopted. Medical priority, Calvin's desired pardon and responsibility, civic motives, consistory rates, long-run cultural influence, and modern free-speech analogies remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten because this 2022 episode backfills a bounded Reformation branch without changing the wiki-wide synthesis.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

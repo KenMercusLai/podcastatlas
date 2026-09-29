@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 8877
+wiki_total_pages: 8879
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -287,6 +287,9 @@ wiki_pages:
   - key: "ReformationPrintCulture"
     title: "Reformation Print Culture"
     url: "/wiki/concepts/reformationprintculture/"
+  - key: "ReformationTolerationBoundary"
+    title: "Reformation Toleration Boundary"
+    url: "/wiki/concepts/reformationtolerationboundary/"
   - key: "RefugeeAidRegistrationGap"
     title: "Refugee Aid Registration Gap / 难民登记援助空窗"
     url: "/wiki/concepts/refugeeaidregistrationgap/"

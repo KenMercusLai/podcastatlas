@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [274: Switzerland: Calvin's Cancel Culture](sources/274-switzerland-calvins-cancel-culture-glt2874543265.md) — The Rest Is History episode on Calvin's Geneva, Michael Servetus's execution, confessional discipline, and the Reformation boundary between refuge and liberty of conscience.
 - [275: Argentina: The Welsh Colony](sources/275-argentina-the-welsh-colony-glt3290664499.md) — The Rest Is History episode on Y Wladfa, Welsh cultural preservation, Patagonian settlement, Argentine territorial consolidation, assimilation, revival, and settler-colonial reassessment.
 - [276: Netherlands: The Maid of Holland](sources/276-netherlands-the-maid-of-holland-glt8981353378.md) — The Rest Is History episode on the Maid of Holland, revolt-era female allegory, Dutch cleanliness, civic housekeeping, and the domestic moralization of commercial wealth.
 - [277: Japan: Samurai and Shoguns](sources/277-japan-samurai-and-shoguns-glt3851919583.md) — The Rest Is History survey of Japanese adaptation, imperial legitimacy, samurai and Tokugawa rule, Meiji capitalism and empire, and postwar manga through six lives.
@@ -14745,6 +14746,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Werner Best](entities/WernerBest.md) — SS occupation administrator whose self-interested restraint may have widened rescue space without making him a humanitarian actor.
 - [Christian X of Denmark](entities/ChristianXOfDenmark.md) — Occupation-era monarch symbolizing national continuity and Jewish civic inclusion while the yellow-star story remains a myth.
 
+- [John Calvin](entities/JohnCalvin.md) — Protestant reformer whose preaching and institutional influence made Geneva both a refuge and a disciplined confessional commonwealth.
+- [Michael Servetus](entities/MichaelServetus.md) — Spanish physician and anti-Trinitarian dissenter whose 1553 execution exposed Protestant limits on liberty of conscience.
+- [Sebastian Castellio](entities/SebastianCastellio.md) — Reformation scholar who used Servetus's death to argue against persecuting alleged heretics.
+- [Geneva](entities/Geneva.md) — Protestant refuge and city-state whose consistory discipline and Servetus trial joined sanctuary to coercive confessional rule.
+
 ## Concepts
 - [Cultural-Preservation Colony](concepts/CulturalPreservationColony.md) — Concentrated migration strategy using community institutions to preserve minority language and identity while facing integration pressures.
 - [Settlement as Territorial Claimmaking](concepts/SettlementTerritorialClaimmaking.md) — Use of resident communities, farms, towns, and infrastructure to convert disputed sovereignty into practical occupation.
@@ -23656,5 +23662,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Survivor Witness Without Consolation](concepts/SurvivorWitnessWithoutConsolation.md) — Testimony that preserves anger, accusation, and damaged aftermath instead of satisfying demands for redemptive closure.
 - [Deception as Genocidal Infrastructure](concepts/DeceptionAsGenocidalInfrastructure.md) — False destinations, ordinary procedures, reassurance, and controlled information used as operational components of mass killing.
 - [Rescue of the Danish Jews](concepts/RescueOfTheDanishJews.md) — 1943 rescue chain joining insider warning, civic inclusion, concealment, improvised transport, Swedish refuge, and uneven German enforcement.
+
+- [Confessional Commonwealth](concepts/ConfessionalCommonwealth.md) — Polity integrating doctrine, worship, education, welfare, moral oversight, and civic order within one religious community.
+- [Reformation Toleration Boundary](concepts/ReformationTolerationBoundary.md) — Distinction between liberty for a persecuted confession and liberty of conscience for dissenters within or beyond it.
 
 ## Syntheses

@@ -35727,6 +35727,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/concepts/conditionedphysiologicalresponses/"
     },
+    "ConfessionalCommonwealth": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2874543265 [GLT2874543265].md",
+          "key": "274-switzerland-calvins-cancel-culture-glt2874543265",
+          "show": "The Rest Is History",
+          "title": "274: Switzerland: Calvin's Cancel Culture",
+          "url": "/wiki/sources/274-switzerland-calvins-cancel-culture-glt2874543265/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/confessionalcommonwealth/"
+    },
     "ConfessionalCoronationAdaptation": {
       "episode_count": 1,
       "show_count": 1,
@@ -69526,6 +69542,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/geneticlineupprivacyrisk/"
     },
+    "Geneva": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2874543265 [GLT2874543265].md",
+          "key": "274-switzerland-calvins-cancel-culture-glt2874543265",
+          "show": "The Rest Is History",
+          "title": "274: Switzerland: Calvin's Cancel Culture",
+          "url": "/wiki/sources/274-switzerland-calvins-cancel-culture-glt2874543265/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/geneva/"
+    },
     "GengBaoGrandGeneralLateHan": {
       "episode_count": 5,
       "show_count": 1,
@@ -95219,6 +95251,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/johncade/"
     },
+    "JohnCalvin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2874543265 [GLT2874543265].md",
+          "key": "274-switzerland-calvins-cancel-culture-glt2874543265",
+          "show": "The Rest Is History",
+          "title": "274: Switzerland: Calvin's Cancel Culture",
+          "url": "/wiki/sources/274-switzerland-calvins-cancel-culture-glt2874543265/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/johncalvin/"
+    },
     "JohnCamHobhouse": {
       "episode_count": 2,
       "show_count": 1,
@@ -118880,6 +118928,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/michaelpollan/"
     },
+    "MichaelServetus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2874543265 [GLT2874543265].md",
+          "key": "274-switzerland-calvins-cancel-culture-glt2874543265",
+          "show": "The Rest Is History",
+          "title": "274: Switzerland: Calvin's Cancel Culture",
+          "url": "/wiki/sources/274-switzerland-calvins-cancel-culture-glt2874543265/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/michaelservetus/"
+    },
     "MichelFoucault": {
       "episode_count": 4,
       "show_count": 3,
@@ -138824,9 +138888,9 @@
       "url": "/wiki/entities/pradmeshpatil/"
     },
     "PragmaticReligiousToleration": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT4209356543 [GLT4209356543].md",
@@ -138841,9 +138905,16 @@
           "show": "The Rest Is History",
           "title": "351: Amsterdam: Miracles, Money, and Mud (Part 1)",
           "url": "/wiki/sources/351-amsterdam-miracles-money-and-mud-part-1-glt4666881212/"
+        },
+        {
+          "episode_file": "GLT2874543265 [GLT2874543265].md",
+          "key": "274-switzerland-calvins-cancel-culture-glt2874543265",
+          "show": "The Rest Is History",
+          "title": "274: Switzerland: Calvin's Cancel Culture",
+          "url": "/wiki/sources/274-switzerland-calvins-cancel-culture-glt2874543265/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-09-30",
       "url": "/wiki/concepts/pragmaticreligioustoleration/"
     },
     "PraiseAsPoliticalMemory": {
@@ -145422,6 +145493,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/concepts/reformationprintculture/"
+    },
+    "ReformationTolerationBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2874543265 [GLT2874543265].md",
+          "key": "274-switzerland-calvins-cancel-culture-glt2874543265",
+          "show": "The Rest Is History",
+          "title": "274: Switzerland: Calvin's Cancel Culture",
+          "url": "/wiki/sources/274-switzerland-calvins-cancel-culture-glt2874543265/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/reformationtolerationboundary/"
     },
     "RefugeeAidRegistrationGap": {
       "episode_count": 1,
@@ -153688,6 +153775,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/concepts/seasonalwellnessmarketingboundary/"
+    },
+    "SebastianCastellio": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2874543265 [GLT2874543265].md",
+          "key": "274-switzerland-calvins-cancel-culture-glt2874543265",
+          "show": "The Rest Is History",
+          "title": "274: Switzerland: Calvin's Cancel Culture",
+          "url": "/wiki/sources/274-switzerland-calvins-cancel-culture-glt2874543265/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/sebastiancastellio/"
     },
     "SecondDayMoneyEvolution": {
       "episode_count": 1,
