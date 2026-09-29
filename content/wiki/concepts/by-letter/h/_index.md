@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 8834
+wiki_total_pages: 8837
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -455,6 +455,9 @@ wiki_pages:
   - key: "HistoricalInternationalLaw"
     title: "Historical International Law / 国际法历史化"
     url: "/wiki/concepts/historicalinternationallaw/"
+  - key: "HistoricalJesusReconstruction"
+    title: "Historical Jesus Reconstruction"
+    url: "/wiki/concepts/historicaljesusreconstruction/"
   - key: "HistoricalJianghuSpace"
     title: "Historical Jianghu Space"
     url: "/wiki/concepts/historicaljianghuspace/"

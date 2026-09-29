@@ -25514,3 +25514,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-30] ingest | 288: Jesus Christ: The History (Part 2)
+
+Added source `288-jesus-christ-the-history-part-2-glt4776258433`; created `Jesus`, `JohnTheBaptist`, `PontiusPilate`, `HistoricalJesusReconstruction`, `KingdomOfGodEschatology`, and `EarlyChristianExaltation`; and updated the canonical index. Core synthesis: skeptical historical reconstruction can reject a harmonized Nativity while retaining existence, baptism, public teaching, Jerusalem conflict, and crucifixion as graduated historical claims; the Kingdom of God was socially and imperially subversive without being a conventional armed state or modern ideology; and Christianity's emergence joined early resurrection and exaltation belief to memorable teaching, humiliating death, and prophetic interpretation. No settled contradiction was adopted. Nativity chronology, Nazareth and Bethlehem claims, messianic self-understanding, Passion details, ministry length, and the supernatural status of resurrection remain disputed or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

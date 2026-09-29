@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 8834
+wiki_total_pages: 8837
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -20,6 +20,9 @@ wiki_pages:
   - key: "EarCleaningTraumaRisk"
     title: "Ear-Cleaning Trauma Risk"
     url: "/wiki/concepts/earcleaningtraumarisk/"
+  - key: "EarlyChristianExaltation"
+    title: "Early Christian Exaltation"
+    url: "/wiki/concepts/earlychristianexaltation/"
   - key: "EarlyConfucianResistancePolitics"
     title: "Early Confucian Resistance Politics / 早期儒家的反抗政治"
     url: "/wiki/concepts/earlyconfucianresistancepolitics/"

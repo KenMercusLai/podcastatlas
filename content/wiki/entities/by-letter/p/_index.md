@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 11418
+wiki_total_pages: 11421
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -671,6 +671,9 @@ wiki_pages:
   - key: "Pompey"
     title: "Pompey / 庞培"
     url: "/wiki/entities/pompey/"
+  - key: "PontiusPilate"
+    title: "Pontius Pilate"
+    url: "/wiki/entities/pontiuspilate/"
   - key: "PonyMa"
     title: "Pony Ma"
     url: "/wiki/entities/ponyma/"

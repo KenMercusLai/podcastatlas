@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [288: Jesus Christ: The History (Part 2)](sources/288-jesus-christ-the-history-part-2-glt4776258433.md) — The Rest Is History episode separating historical anchors in Jesus's life from disputed Nativity details and supernatural adjudication, while explaining Kingdom preaching, crucifixion, resurrection belief, and early exaltation.
 - [VOL.06麻醉科｜可以选择手术麻醉医生么｜和手臂一样长的针头是真的么？](sources/vol-06-mazuike-keyi-xuanze-shoushu-mazui-yisheng-me-he-shoubi-yiyang-chang-de-zhentou-shi-zhen-de-me-ll7tqta4renix5vmcvrspd069z8o.md) — 这病说来话长 episode on anesthesiologists' clinical role, layered operating-room coverage, preoperative screening, patient allocation, training, and anatomy-matched needle choice.
 - [VOL.07麻醉科｜麻醉药物会使脑子变笨么｜乳腺手术是否需全麻？](sources/vol-07-mazuike-mazui-yaowu-hui-shi-naozi-bian-ben-me-ruxian-shoushu-shifou-xu-quanma-lkf-9yhb2yphhalturxi5h89ya45.md) — 这病说来话长 episode on preoperative assessment, anesthesia-mode selection, cognition and dosing myths, informed consent, and aspiration-prevention fasting.
 - [Brazil rut: Lula v Bolsonaro, again](sources/brazil-rut-lula-v-bolsonaro-again-6abb8653ed4e198024b38eb5.md) — The Intelligence episode on Brazil's polarized election and fiscal constraints, honor culture and women's work, and the rise of phone-free concerts.
@@ -3233,6 +3234,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [290: 2022: A History](sources/290-2022-a-history-glt4625765030.md) — The Rest Is History year-end episode on Ukraine as a post-Cold War rupture, European energy dependence, Elizabeth II's death, British political turmoil, and 2022 cultural recommendations.
 
 ## Entities
+- [Jesus](entities/Jesus.md) — First-century Jewish teacher reconstructed through baptism, Kingdom preaching, Jerusalem conflict, crucifixion, and early resurrection belief.
+- [John the Baptist](entities/JohnTheBaptist.md) — Preacher of repentance, baptism, and judgment whose connection to Jesus is a strong historical anchor.
+- [Pontius Pilate](entities/PontiusPilate.md) — Roman authority connecting the Jerusalem arrest of Jesus to political interrogation and crucifixion.
 - [Luiz Inacio Lula da Silva](entities/LuizInacioLulaDaSilva.md) — Incumbent Brazilian president presented as one pole of the 2026 election and fiscal debate.
 - [Flavio Bolsonaro](entities/FlavioBolsonaro.md) — Bolsonaro-family presidential candidate whose platform centers a pardon for his father.
 - [Jair Bolsonaro](entities/JairBolsonaro.md) — Former Brazilian president whose conviction, voter base, and family succession remain central to the 2026 contest.
@@ -14679,6 +14683,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Auschwitz-Birkenau](entities/AuschwitzBirkenau.md) — Nazi concentration and extermination complex examined through forced labor, confiscation, registration, deception, mass killing, and escapee evidence.
 
 ## Concepts
+- [Historical Jesus Reconstruction](concepts/HistoricalJesusReconstruction.md) — Graduated-confidence method separating defensible historical claims from legendary, theological, and supernatural questions.
+- [Kingdom of God Eschatology](concepts/KingdomOfGodEschatology.md) — Imminent divine judgment and rule framed as socially subversive without being a conventional state or military revolt.
+- [Early Christian Exaltation](concepts/EarlyChristianExaltation.md) — Rapid post-crucifixion belief that Jesus had risen and occupied an exalted role, interpreted through teaching, death, and prophecy.
 - [Anesthesiology Clinical Role and Team Escalation / 麻醉医生临床角色与团队升级](concepts/AnesthesiologyClinicalRoleAndTeamEscalation.md) — Whole-course physician responsibility, room continuity, senior coverage, rescue escalation, training breadth, and complexity-based allocation in anesthesia care.
 - [Brazil Fiscal-Political Stalemate](concepts/BrazilFiscalPoliticalStalemate.md) — Electoral and governing lock-in joining high debt costs, consumption-led spending, congressional power, and institutional checks.
 - [Honor Culture Female Mobility Constraint](concepts/HonorCultureFemaleMobilityConstraint.md) — Family-reputation norm that can make permission to leave home a prior barrier to women's employment.
