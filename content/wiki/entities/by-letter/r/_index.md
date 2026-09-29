@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 11392
+wiki_total_pages: 11397
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -332,6 +332,9 @@ wiki_pages:
   - key: "RezaPahlavi"
     title: "Reza Pahlavi"
     url: "/wiki/entities/rezapahlavi/"
+  - key: "RezsoKasztner"
+    title: "Rezső Kasztner"
+    url: "/wiki/entities/rezsokasztner/"
   - key: "RhodaLintornOrman"
     title: "Rhoda Lintorn-Orman"
     url: "/wiki/entities/rhodalintornorman/"
@@ -842,6 +845,9 @@ wiki_pages:
   - key: "RudolfII"
     title: "Rudolf II"
     url: "/wiki/entities/rudolfii/"
+  - key: "RudolfVrba"
+    title: "Rudolf Vrba"
+    url: "/wiki/entities/rudolfvrba/"
   - key: "RudyGiuliani"
     title: "Rudy Giuliani"
     url: "/wiki/entities/rudygiuliani/"

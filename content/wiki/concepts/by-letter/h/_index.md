@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 8805
+wiki_total_pages: 8807
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -488,6 +488,9 @@ wiki_pages:
   - key: "HoloAssets"
     title: "Holo Assets"
     url: "/wiki/concepts/holoassets/"
+  - key: "HolocaustWarningActionGap"
+    title: "Holocaust Warning-to-Action Gap"
+    url: "/wiki/concepts/holocaustwarningactiongap/"
   - key: "HomeBloodPressureMeasurement"
     title: "Home Blood Pressure Measurement / 家庭血压测量"
     url: "/wiki/concepts/homebloodpressuremeasurement/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "v"
-wiki_total_pages: 11392
+wiki_total_pages: 11397
 wiki_pages:
   - key: "VacheronConstantin"
     title: "Vacheron Constantin"
@@ -266,6 +266,9 @@ wiki_pages:
   - key: "VoyagerGoldenRecord"
     title: "Voyager Golden Record"
     url: "/wiki/entities/voyagergoldenrecord/"
+  - key: "VrbaWetzlerReport"
+    title: "Vrba-Wetzler Report"
+    url: "/wiki/entities/vrbawetzlerreport/"
   - key: "VendeeWar"
     title: "War in the Vendée"
     url: "/wiki/entities/vendeewar/"

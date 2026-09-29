@@ -8045,6 +8045,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/entities/alfredthegreat/"
     },
+    "AlfredWetzler": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7756076339 [GLT7756076339].md",
+          "key": "292-the-shadow-of-the-holocaust-glt7756076339",
+          "show": "The Rest Is History",
+          "title": "292: The Shadow of the Holocaust",
+          "url": "/wiki/sources/292-the-shadow-of-the-holocaust-glt7756076339/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/alfredwetzler/"
+    },
     "AlgorithmicCreatorSelfDiscipline": {
       "episode_count": 1,
       "show_count": 1,
@@ -79446,6 +79462,22 @@
       "updated": "2026-09-15",
       "url": "/wiki/concepts/hollywoodnepotismnetworkadvantage/"
     },
+    "HolocaustWarningActionGap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7756076339 [GLT7756076339].md",
+          "key": "292-the-shadow-of-the-holocaust-glt7756076339",
+          "show": "The Rest Is History",
+          "title": "292: The Shadow of the Holocaust",
+          "url": "/wiki/sources/292-the-shadow-of-the-holocaust-glt7756076339/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/holocaustwarningactiongap/"
+    },
     "HolyGrail": {
       "episode_count": 1,
       "show_count": 1,
@@ -94118,6 +94150,22 @@
       ],
       "updated": "2026-09-15",
       "url": "/wiki/entities/jonathananderson/"
+    },
+    "JonathanFreedland": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7756076339 [GLT7756076339].md",
+          "key": "292-the-shadow-of-the-holocaust-glt7756076339",
+          "show": "The Rest Is History",
+          "title": "292: The Shadow of the Holocaust",
+          "url": "/wiki/sources/292-the-shadow-of-the-holocaust-glt7756076339/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/jonathanfreedland/"
     },
     "JonathanHaidt": {
       "episode_count": 2,
@@ -145596,6 +145644,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/concepts/rewardeddenunciationfiscalenforcement/"
     },
+    "RezsoKasztner": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7756076339 [GLT7756076339].md",
+          "key": "292-the-shadow-of-the-holocaust-glt7756076339",
+          "show": "The Rest Is History",
+          "title": "292: The Shadow of the Holocaust",
+          "url": "/wiki/sources/292-the-shadow-of-the-holocaust-glt7756076339/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/rezsokasztner/"
+    },
     "RhinelandRemilitarization": {
       "episode_count": 1,
       "show_count": 1,
@@ -148038,6 +148102,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/entities/rudolfii/"
+    },
+    "RudolfVrba": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7756076339 [GLT7756076339].md",
+          "key": "292-the-shadow-of-the-holocaust-glt7756076339",
+          "show": "The Rest Is History",
+          "title": "292: The Shadow of the Holocaust",
+          "url": "/wiki/sources/292-the-shadow-of-the-holocaust-glt7756076339/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/rudolfvrba/"
     },
     "RudyardKipling": {
       "episode_count": 1,
@@ -163944,6 +164024,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/survivalpressurerebellion/"
     },
+    "SurvivorWitnessWithoutConsolation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7756076339 [GLT7756076339].md",
+          "key": "292-the-shadow-of-the-holocaust-glt7756076339",
+          "show": "The Rest Is History",
+          "title": "292: The Shadow of the Holocaust",
+          "url": "/wiki/sources/292-the-shadow-of-the-holocaust-glt7756076339/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/survivorwitnesswithoutconsolation/"
+    },
     "SusannaSoberg": {
       "episode_count": 1,
       "show_count": 1,
@@ -167184,9 +167280,9 @@
       "url": "/wiki/entities/thehistories/"
     },
     "TheHolocaust": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "133. IBM与纳粹：为什么普通人不应赞美鸡贼主义 [815684110].md",
@@ -167215,9 +167311,16 @@
           "show": "The Rest Is History",
           "title": "409. The Nazis in Power: Hitler's War on the Jews (Part 6)",
           "url": "/wiki/sources/409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455/"
+        },
+        {
+          "episode_file": "GLT7756076339 [GLT7756076339].md",
+          "key": "292-the-shadow-of-the-holocaust-glt7756076339",
+          "show": "The Rest Is History",
+          "title": "292: The Shadow of the Holocaust",
+          "url": "/wiki/sources/292-the-shadow-of-the-holocaust-glt7756076339/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-29",
       "url": "/wiki/entities/theholocaust/"
     },
     "TheHungerGames": {
@@ -175715,6 +175818,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/concepts/voluntaryaisafetycommitments/"
+    },
+    "VrbaWetzlerReport": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7756076339 [GLT7756076339].md",
+          "key": "292-the-shadow-of-the-holocaust-glt7756076339",
+          "show": "The Rest Is History",
+          "title": "292: The Shadow of the Holocaust",
+          "url": "/wiki/sources/292-the-shadow-of-the-holocaust-glt7756076339/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/vrbawetzlerreport/"
     },
     "VulnerabilityAsLoveSource": {
       "episode_count": 3,

@@ -25379,3 +25379,11 @@ Added source `vol-12-jizhuwaike-jizhu-wenti-wuqu-pailei-touyun-ying-xian-gua-erb
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | 292: The Shadow of the Holocaust
+
+Added source `292-the-shadow-of-the-holocaust-glt7756076339`; created `RudolfVrba`, `AlfredWetzler`, `JonathanFreedland`, `RezsoKasztner`, `VrbaWetzlerReport`, `HolocaustWarningActionGap`, and `SurvivorWitnessWithoutConsolation`; expanded `TheHolocaust` from its complete bounded source set; and updated the canonical index. Core synthesis: the Vrba-Wetzler Report shows that accurate atrocity evidence could reach powerful institutions without overcoming disbelief, antisemitism, bureaucratic referral, military priority, political fear, or selective dissemination, while publicity and threatened accountability eventually helped halt the Budapest deportations. No settled contradiction was adopted. Kasztner's responsibility, Horthy's motives, bombing feasibility, causal attribution, rescue counts, and counterfactual lives saved remain contested or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

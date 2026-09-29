@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 8805
+wiki_total_pages: 8807
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2240,6 +2240,9 @@ wiki_pages:
   - key: "SurveyModeEffects"
     title: "Survey Mode Effects"
     url: "/wiki/concepts/surveymodeeffects/"
+  - key: "SurvivorWitnessWithoutConsolation"
+    title: "Survivor Witness Without Consolation"
+    url: "/wiki/concepts/survivorwitnesswithoutconsolation/"
   - key: "SuspicionTriggeredCommandMutiny"
     title: "Suspicion-Triggered Command Mutiny / 猜疑触发的部下倒戈"
     url: "/wiki/concepts/suspiciontriggeredcommandmutiny/"
