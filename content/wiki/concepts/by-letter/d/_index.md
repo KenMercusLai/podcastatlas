@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 8872
+wiki_total_pages: 8874
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -1127,6 +1127,9 @@ wiki_pages:
   - key: "DutchDisease"
     title: "Dutch Disease"
     url: "/wiki/concepts/dutchdisease/"
+  - key: "DutchDomesticCleanlinessCivicOrder"
+    title: "Dutch Domestic Cleanliness as Civic Order"
+    url: "/wiki/concepts/dutchdomesticcleanlinesscivicorder/"
   - key: "DuyouSword"
     title: "Duyou Sword / 杜邮剑"
     url: "/wiki/concepts/duyousword/"

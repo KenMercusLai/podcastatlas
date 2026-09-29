@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8872
+wiki_total_pages: 8874
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1502,6 +1502,9 @@ wiki_pages:
   - key: "CommercialVehicleIndustrialBase"
     title: "Commercial Vehicle Industrial Base"
     url: "/wiki/concepts/commercialvehicleindustrialbase/"
+  - key: "CommercialWealthDomesticMoralization"
+    title: "Commercial Wealth Domestic Moralization"
+    url: "/wiki/concepts/commercialwealthdomesticmoralization/"
   - key: "CommercializationProtectsCreativeIdeals"
     title: "Commercialization Protects Creative Ideals"
     url: "/wiki/concepts/commercializationprotectscreativeideals/"

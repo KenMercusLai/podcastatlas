@@ -34940,6 +34940,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/commercialfilmaudiencelogic/"
     },
+    "CommercialWealthDomesticMoralization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8981353378 [GLT8981353378].md",
+          "key": "276-netherlands-the-maid-of-holland-glt8981353378",
+          "show": "The Rest Is History",
+          "title": "276: Netherlands: The Maid of Holland",
+          "url": "/wiki/sources/276-netherlands-the-maid-of-holland-glt8981353378/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/commercialwealthdomesticmoralization/"
+    },
     "CommercializationProtectsCreativeIdeals": {
       "episode_count": 1,
       "show_count": 1,
@@ -48924,6 +48940,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/dushubuchenglin/"
     },
+    "DutchDomesticCleanlinessCivicOrder": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8981353378 [GLT8981353378].md",
+          "key": "276-netherlands-the-maid-of-holland-glt8981353378",
+          "show": "The Rest Is History",
+          "title": "276: Netherlands: The Maid of Holland",
+          "url": "/wiki/sources/276-netherlands-the-maid-of-holland-glt8981353378/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/dutchdomesticcleanlinesscivicorder/"
+    },
     "DutchEastIndiaCompany": {
       "episode_count": 1,
       "show_count": 1,
@@ -48941,9 +48973,9 @@
       "url": "/wiki/entities/dutcheastindiacompany/"
     },
     "DutchRepublic": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT4209356543 [GLT4209356543].md",
@@ -48958,15 +48990,22 @@
           "show": "The Rest Is History",
           "title": "351: Amsterdam: Miracles, Money, and Mud (Part 1)",
           "url": "/wiki/sources/351-amsterdam-miracles-money-and-mud-part-1-glt4666881212/"
+        },
+        {
+          "episode_file": "GLT8981353378 [GLT8981353378].md",
+          "key": "276-netherlands-the-maid-of-holland-glt8981353378",
+          "show": "The Rest Is History",
+          "title": "276: Netherlands: The Maid of Holland",
+          "url": "/wiki/sources/276-netherlands-the-maid-of-holland-glt8981353378/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-09-30",
       "url": "/wiki/entities/dutchrepublic/"
     },
     "DutchRevolt": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT1627515087 [GLT1627515087].md",
@@ -48988,9 +49027,16 @@
           "show": "The Rest Is History",
           "title": "680. The Netherlands: The Revolt that Made The Modern World (Part 4)",
           "url": "/wiki/sources/680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543/"
+        },
+        {
+          "episode_file": "GLT8981353378 [GLT8981353378].md",
+          "key": "276-netherlands-the-maid-of-holland-glt8981353378",
+          "show": "The Rest Is History",
+          "title": "276: Netherlands: The Maid of Holland",
+          "url": "/wiki/sources/276-netherlands-the-maid-of-holland-glt8981353378/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-30",
       "url": "/wiki/entities/dutchrevolt/"
     },
     "DutianAccountabilityEasternHan": {
@@ -60510,9 +60556,9 @@
       "url": "/wiki/entities/felixhoffman/"
     },
     "FemaleAllegoryPoliticalExclusion": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4335903757 [GLT4335903757].md",
@@ -60520,9 +60566,16 @@
           "show": "The Rest Is History",
           "title": "545. The French Revolution: The First Feminist (Part 2)",
           "url": "/wiki/sources/545-the-french-revolution-the-first-feminist-part-2-glt4335903757/"
+        },
+        {
+          "episode_file": "GLT8981353378 [GLT8981353378].md",
+          "key": "276-netherlands-the-maid-of-holland-glt8981353378",
+          "show": "The Rest Is History",
+          "title": "276: Netherlands: The Maid of Holland",
+          "url": "/wiki/sources/276-netherlands-the-maid-of-holland-glt8981353378/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-30",
       "url": "/wiki/concepts/femaleallegorypoliticalexclusion/"
     },
     "FemaleBodyFreedom": {
@@ -97433,6 +97486,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/entities/kenlangone/"
     },
+    "KenauSimonsdochterHasselaer": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8981353378 [GLT8981353378].md",
+          "key": "276-netherlands-the-maid-of-holland-glt8981353378",
+          "show": "The Rest Is History",
+          "title": "276: Netherlands: The Maid of Holland",
+          "url": "/wiki/sources/276-netherlands-the-maid-of-holland-glt8981353378/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/kenausimonsdochterhasselaer/"
+    },
     "KenjiYamamoto": {
       "episode_count": 1,
       "show_count": 1,
@@ -113282,6 +113351,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/magnusthegood/"
     },
+    "MaidOfHolland": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8981353378 [GLT8981353378].md",
+          "key": "276-netherlands-the-maid-of-holland-glt8981353378",
+          "show": "The Rest Is History",
+          "title": "276: Netherlands: The Maid of Holland",
+          "url": "/wiki/sources/276-netherlands-the-maid-of-holland-glt8981353378/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/maidofholland/"
+    },
     "MaifredaDaPirovano": {
       "episode_count": 1,
       "show_count": 1,
@@ -124391,9 +124476,9 @@
       "url": "/wiki/entities/nero/"
     },
     "Netherlands": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 2,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "GLT1627515087 [GLT1627515087].md",
@@ -124436,9 +124521,16 @@
           "show": "The Rest Is History",
           "title": "680. The Netherlands: The Revolt that Made The Modern World (Part 4)",
           "url": "/wiki/sources/680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543/"
+        },
+        {
+          "episode_file": "GLT8981353378 [GLT8981353378].md",
+          "key": "276-netherlands-the-maid-of-holland-glt8981353378",
+          "show": "The Rest Is History",
+          "title": "276: Netherlands: The Maid of Holland",
+          "url": "/wiki/sources/276-netherlands-the-maid-of-holland-glt8981353378/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-30",
       "url": "/wiki/entities/netherlands/"
     },
     "NeuralInterfaceBitrateAdoptionTradeoff": {
@@ -158064,6 +158156,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/simonlordoftheflies/"
+    },
+    "SimonSchama": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8981353378 [GLT8981353378].md",
+          "key": "276-netherlands-the-maid-of-holland-glt8981353378",
+          "show": "The Rest Is History",
+          "title": "276: Netherlands: The Maid of Holland",
+          "url": "/wiki/sources/276-netherlands-the-maid-of-holland-glt8981353378/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/simonschama/"
     },
     "SimonSudbury": {
       "episode_count": 2,

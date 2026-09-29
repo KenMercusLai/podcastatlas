@@ -25673,3 +25673,11 @@ Added source `277-japan-samurai-and-shoguns-glt3851919583`; created `ChrisHardin
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-30] ingest | 276: Netherlands: The Maid of Holland
+
+Added source `276-netherlands-the-maid-of-holland-glt8981353378`; created `MaidOfHolland`, `KenauSimonsdochterHasselaer`, `SimonSchama`, `DutchDomesticCleanlinessCivicOrder`, and `CommercialWealthDomesticMoralization`; and resynthesized `DutchRepublic`, `Netherlands`, `DutchRevolt`, and `FemaleAllegoryPoliticalExclusion` from their complete bounded source sets. Core synthesis: the Maid of Holland joins revolt-era liberty and defended territory to a later domestic language in which household, garden, street, city, dike, and republic become nested spaces of disciplined order, while domestic art helps represent commercial wealth as compatible with virtue. No settled contradiction was adopted. The Maid's precise symbolic genealogy, Kenau's military role, traveler reports, Calvinist causation, household representativeness, political equality, and capitalism claims remain source-scoped; colonial extraction, unequal wealth, and gendered labor explicitly qualify the moralized-prosperity frame. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

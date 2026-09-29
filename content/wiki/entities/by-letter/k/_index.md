@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 11458
+wiki_total_pages: 11461
 wiki_pages:
   - key: "KennedyAssassination"
     title: "Assassination of John F. Kennedy"
@@ -269,6 +269,9 @@ wiki_pages:
   - key: "KenanVoiceChanger"
     title: "Kenan Voice Changer"
     url: "/wiki/entities/kenanvoicechanger/"
+  - key: "KenauSimonsdochterHasselaer"
+    title: "Kenau Simonsdochter Hasselaer"
+    url: "/wiki/entities/kenausimonsdochterhasselaer/"
   - key: "KenjiYamamoto"
     title: "Kenji Yamamoto"
     url: "/wiki/entities/kenjiyamamoto/"
