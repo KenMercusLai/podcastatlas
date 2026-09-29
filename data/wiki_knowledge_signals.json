@@ -2400,6 +2400,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/concepts/aigeneratedproofgovernance/"
     },
+    "AIGeneratedPullRequestBurden": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lo0PFirL4KhC0JzJ57KgBX7Wsq49 [lo0PFirL4KhC0JzJ57KgBX7Wsq49].md",
+          "key": "lo0pfirl4khc0jzj57kgbx7wsq49",
+          "show": "为 AI 发电",
+          "title": "VOL.002｜DeepChat：为什么要做一块开源 AI 试验田？",
+          "url": "/wiki/sources/lo0pfirl4khc0jzj57kgbx7wsq49/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/aigeneratedpullrequestburden/"
+    },
     "AIGlassesComputingPlatform": {
       "episode_count": 2,
       "show_count": 2,
@@ -6620,6 +6636,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/agentcivilizationnarrative/"
     },
+    "AgentClientProtocol": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lo0PFirL4KhC0JzJ57KgBX7Wsq49 [lo0PFirL4KhC0JzJ57KgBX7Wsq49].md",
+          "key": "lo0pfirl4khc0jzj57kgbx7wsq49",
+          "show": "为 AI 发电",
+          "title": "VOL.002｜DeepChat：为什么要做一块开源 AI 试验田？",
+          "url": "/wiki/sources/lo0pfirl4khc0jzj57kgbx7wsq49/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/agentclientprotocol/"
+    },
     "AgentCommandCenter": {
       "episode_count": 1,
       "show_count": 1,
@@ -6810,6 +6842,22 @@
       ],
       "updated": "2026-09-19",
       "url": "/wiki/concepts/agentspendcontrols/"
+    },
+    "AgentTapeSystem": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lo0PFirL4KhC0JzJ57KgBX7Wsq49 [lo0PFirL4KhC0JzJ57KgBX7Wsq49].md",
+          "key": "lo0pfirl4khc0jzj57kgbx7wsq49",
+          "show": "为 AI 发电",
+          "title": "VOL.002｜DeepChat：为什么要做一块开源 AI 试验田？",
+          "url": "/wiki/sources/lo0pfirl4khc0jzj57kgbx7wsq49/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/agenttapesystem/"
     },
     "AgentTrustCalibration": {
       "episode_count": 1,
@@ -42194,6 +42242,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/deepbrainstimulationpsychiatry/"
+    },
+    "DeepChat": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lo0PFirL4KhC0JzJ57KgBX7Wsq49 [lo0PFirL4KhC0JzJ57KgBX7Wsq49].md",
+          "key": "lo0pfirl4khc0jzj57kgbx7wsq49",
+          "show": "为 AI 发电",
+          "title": "VOL.002｜DeepChat：为什么要做一块开源 AI 试验田？",
+          "url": "/wiki/sources/lo0pfirl4khc0jzj57kgbx7wsq49/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/deepchat/"
     },
     "DeepNonREMSleepAnxietyRegulation": {
       "episode_count": 1,
@@ -127026,6 +127090,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/concepts/opensourceaibanrisk/"
+    },
+    "OpenSourceAITestbed": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lo0PFirL4KhC0JzJ57KgBX7Wsq49 [lo0PFirL4KhC0JzJ57KgBX7Wsq49].md",
+          "key": "lo0pfirl4khc0jzj57kgbx7wsq49",
+          "show": "为 AI 发电",
+          "title": "VOL.002｜DeepChat：为什么要做一块开源 AI 试验田？",
+          "url": "/wiki/sources/lo0pfirl4khc0jzj57kgbx7wsq49/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/opensourceaitestbed/"
     },
     "OpenSourceCommunityCommercialization": {
       "episode_count": 3,

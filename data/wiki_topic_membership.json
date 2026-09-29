@@ -5995,6 +5995,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "AIGeneratedPullRequestBurden": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AIGlassesComputingPlatform": [
     {
       "key": "technology",
@@ -23828,6 +23835,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "DeepChat": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "DeepMind": [
@@ -55863,6 +55877,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "OpenSourceAITestbed": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "OpenSourceCommunityCommercialization": [
@@ -90499,6 +90520,13 @@
     }
   ],
   "ln6gnhmsx1xo3p2n8z2powciqnur-ln6gnhmsx1xo3p2n8z2powciqnur": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "lo0pfirl4khc0jzj57kgbx7wsq49": [
     {
       "key": "technology",
       "label": "Technology",

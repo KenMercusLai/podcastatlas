@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 11400
+wiki_total_pages: 11401
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -428,6 +428,9 @@ wiki_pages:
   - key: "DeepakMalhotra"
     title: "Deepak Malhotra / 马尔霍特拉"
     url: "/wiki/entities/deepakmalhotra/"
+  - key: "DeepChat"
+    title: "DeepChat"
+    url: "/wiki/entities/deepchat/"
   - key: "DeePhiTech"
     title: "DeePhi Tech / 深鉴科技"
     url: "/wiki/entities/deephitech/"

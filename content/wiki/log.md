@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-29] ingest | VOL.002｜DeepChat：为什么要做一块开源 AI 试验田？
+
+Added source `lo0pfirl4khc0jzj57kgbx7wsq49`; created `DeepChat`, `AgentTapeSystem`, `AgentClientProtocol`, `OpenSourceAITestbed`, and `AIGeneratedPullRequestBurden`; and updated the canonical index. Core synthesis: DeepChat's durable value is not a single chat feature but an open desktop integration layer joining an append-only Tape, a maintained harness, local device access, memory, MCP tools, and ACP-connected external agents; stronger models still need software, permissions, isolation, verification, and recovery to act reliably in real systems. No settled contradiction was adopted. The local-capability versus sandbox-isolation tension, ACP maturity, performance and adoption claims, OpenClaw platform effects, and small-model routing benefits remain source-scoped practitioner judgments. The automatic `wiki/overview.md` was read for context but not manually rewritten because the episode deepens established agent-infrastructure branches without changing the wiki-wide synthesis; downstream synthesis refresh only reads it.
+
 ## [2026-09-29] ingest | Using Meditation to Focus, View Consciousness & Expand Your Mind | Dr. Sam Harris
 
 Added source `using-meditation-to-focus-view-consciousness-expand-your-mind-dr-sam-harris-scim3261454307`; updated `SamHarris`, `NonDualMindfulness`, `PsychedelicOrdinaryFreedom`, `FreeWill`, `DigitalMinimalism`, and the canonical index from their complete bounded source sets. Core synthesis: the full conversation extends the existing Essentials cut by connecting centerless awareness to arising choices, preserved responsibility distinctions, open-eye social practice, the difference between psychedelic unity and emptiness, process-oriented goals, and a value-sensitive exit from Twitter. No settled contradiction was adopted. The two Harris notes are edits of the same conversation rather than independent corroboration, while meditation, free-will, psychedelic, neuroscience, and platform-effect claims remain philosophical, experiential, guest-reported, or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten because this source deepens an already represented conversation; downstream synthesis refresh only reads it.
@@ -25437,6 +25441,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-29] ingest | VOL.08麻醉科｜“可行走的麻醉术”无痛分娩对孩子今后有影响吗
 
 Added source `vol-08-mazuike-kexingzou-de-mazuishu-wutong-fenmian-dui-haizi-jinhou-you-yingxiang-ma-lif37vkcu8a2gdmf3jraupbnvqpm`; expanded `PerioperativeAnesthesiaSafety`, `OperatingRoomPhysiologyManagement`, `PostAnesthesiaRecoverySafety`, `PerioperativePainControl`, and `ObstetricAnesthesiaDecisionBoundary` from their complete bounded source sets; and updated the canonical index and overview. Core synthesis: anesthesia is continuous physiological management through emergence; patient-controlled analgesia combines background delivery, bounded rescue dosing, and lockout safety; and low-concentration neuraxial labor analgesia aims to preserve movement and pushing while remaining eligibility- and context-dependent. No settled contradiction was adopted. Historical coverage estimates, puncture levels, dosing, contraindications, delivery choices, eye-anesthesia claims, and newborn effects remain source-scoped public education rather than current statistics or individualized medical guidance.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-29] lint | Wiki health check
 

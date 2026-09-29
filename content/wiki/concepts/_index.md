@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 8814
+wiki_total_pages: 8818
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -413,6 +413,9 @@ wiki_pages:
   - key: "AgentCivilizationNarrative"
     title: "Agent Civilization Narrative"
     url: "/wiki/concepts/agentcivilizationnarrative/"
+  - key: "AgentClientProtocol"
+    title: "Agent Client Protocol"
+    url: "/wiki/concepts/agentclientprotocol/"
   - key: "AgentCommandCenter"
     title: "Agent Command Center"
     url: "/wiki/concepts/agentcommandcenter/"
@@ -479,6 +482,9 @@ wiki_pages:
   - key: "AgentSpendControls"
     title: "Agent Spend Controls / 智能体消费控制"
     url: "/wiki/concepts/agentspendcontrols/"
+  - key: "AgentTapeSystem"
+    title: "Agent Tape System"
+    url: "/wiki/concepts/agenttapesystem/"
   - key: "AgentTaskClaiming"
     title: "Agent Task Claiming"
     url: "/wiki/concepts/agenttaskclaiming/"
@@ -1568,6 +1574,9 @@ wiki_pages:
   - key: "AIGeneratedProofGovernance"
     title: "AI-Generated Proof Governance"
     url: "/wiki/concepts/aigeneratedproofgovernance/"
+  - key: "AIGeneratedPullRequestBurden"
+    title: "AI-Generated Pull Request Burden"
+    url: "/wiki/concepts/aigeneratedpullrequestburden/"
   - key: "AINativeInvestingWorkflow"
     title: "AI-Native Investing Workflow"
     url: "/wiki/concepts/ainativeinvestingworkflow/"

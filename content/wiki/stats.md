@@ -11,22 +11,22 @@ outputs: ["html"]
 
 ## Pages
 - Overview: 1
-- Concepts: 8814
-- Entities: 11400
-- Sources: 3180
-- Total wiki content pages: 23395
+- Concepts: 8818
+- Entities: 11401
+- Sources: 3181
+- Total wiki content pages: 23401
 
 ## Links
-- Wiki link references: 577434
-- Unique wiki link targets: 23402
-- Missing targets: 9
+- Wiki link references: 577514
+- Unique wiki link targets: 23409
+- Missing targets: 10
 - Exact duplicate keys: 0
 - Case-insensitive key collisions: 0
 - Public route collisions: 0
 
 ## Source Episodes
-- Source pages: 3180
-- Matched episodes: 3180
+- Source pages: 3181
+- Matched episodes: 3181
 - Missing source_file: 0
 - Unmatched source_file: 0
 
@@ -42,6 +42,8 @@ outputs: ["html"]
 - `[[ClinicalValidationThresholds]]`
   - `content/wiki/concepts/DentalProviderQualificationAssessment.md`
   - `content/wiki/log.md`
+- `[[CodeReviewSkillShift]]`
+  - `content/wiki/concepts/AIGeneratedPullRequestBurden.md`
 - `[[CoordinatedVulnerabilityDisclosure]]`
   - `content/wiki/sources/tech-20260924-0924-mp-tech-pod-128-tech-20260924-0924-mp-tech-pod-128.md`
 - `[[IntrinsicMotivation]]`

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 8814
+wiki_total_pages: 8818
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -368,6 +368,9 @@ wiki_pages:
   - key: "OpenSourceAIDemocratization"
     title: "Open-Source AI Democratization"
     url: "/wiki/concepts/opensourceaidemocratization/"
+  - key: "OpenSourceAITestbed"
+    title: "Open-Source AI Testbed"
+    url: "/wiki/concepts/opensourceaitestbed/"
   - key: "OpenWeightCommercialLicensing"
     title: "Open-Weight Commercial Licensing"
     url: "/wiki/concepts/openweightcommerciallicensing/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.002｜DeepChat：为什么要做一块开源 AI 试验田？](sources/lo0pfirl4khc0jzj57kgbx7wsq49.md) — 为 AI 发电 episode on DeepChat's Tape and harness architecture, memory and sandbox tradeoffs, MCP/ACP integration, local-agent workflows, model routing, and responsible open-source contribution.
 - [VOL.08麻醉科｜“可行走的麻醉术”无痛分娩对孩子今后有影响吗](sources/vol-08-mazuike-kexingzou-de-mazuishu-wutong-fenmian-dui-haizi-jinhou-you-yingxiang-ma-lif37vkcu8a2gdmf3jraupbnvqpm.md) — 这病说来话长 episode on continuous anesthetic management, recovery, patient-controlled analgesia, and movement-preserving labor analgesia.
 - [VOL.09中医｜风寒、风热、风寒转风热、寒包火等感冒要辩证来看｜“中西医结合”的专业预期不如“中西医合作”](sources/vol-09-zhongyi-fenghan-fengre-fenghan-zhuan-fengre-hanbaohuo-deng-ganmao-yao-bianzheng-laikan-zhongxiyi-jiehe-de-zhuanye-yuqi-buru-zhongxiyi-hezuo-llgye2inoaww6kpjkwyg0c3hk6go.md) — 这病说来话长 episode on licensed TCM practice, pattern differentiation, procedure and herbal safety, clinician experience, and patient-centered Chinese-Western medical cooperation.
 - [VOL.10中医｜少商穴放血真的能治嗓子痛么｜到底该不该断掉寒性的牛奶](sources/vol-10-zhongyi-shaoshangxue-fangxue-zhende-neng-zhi-sangzi-tong-me-daodi-gai-bu-gai-duandiao-hanxing-de-niunai-ljojejbtrsnpuu1aa-10klw6reds.md) — 这病说来话长 episode on individualized TCM reasoning, acute-care boundaries, herbal-medicine safety, food therapy, pregnancy, children, milk tolerance, and dosage forms.
@@ -3224,6 +3225,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [290: 2022: A History](sources/290-2022-a-history-glt4625765030.md) — The Rest Is History year-end episode on Ukraine as a post-Cold War rupture, European energy dependence, Elizabeth II's death, British political turmoil, and 2022 cultural recommendations.
 
 ## Entities
+- [DeepChat](entities/DeepChat.md) — Open-source desktop agent client maintaining its own Tape and harness while connecting tools and external agents through MCP and ACP.
 - [田大夫 / Doctor Tian (TCM Guest)](entities/TianDoctorTCM.md) — Source-scoped VOL.09–10 guest explaining licensed TCM practice, pattern differentiation, procedure and herbal safety, and task-specific medical cooperation.
 - [盘尼西林乐队 / Penicillin](entities/PenicillinBand.md) — Chinese rock band in which spine surgeon 马浩宁 performs selectively on keyboard and accordion.
 - [咪仔 / Mizi](entities/MiziCrimePodcaster.md) — Journalist-trained crime podcaster combining vocal skill, nonfiction verification, audio composition, payment ethics, and vulnerable creator practice.
@@ -14652,6 +14654,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Auschwitz-Birkenau](entities/AuschwitzBirkenau.md) — Nazi concentration and extermination complex examined through forced labor, confiscation, registration, deception, mass killing, and escapee evidence.
 
 ## Concepts
+- [Agent Tape System](concepts/AgentTapeSystem.md) — Append-only agent event record paired with a movable working view, selective context, and inspectable traces.
+- [Agent Client Protocol](concepts/AgentClientProtocol.md) — Emerging interoperability boundary for connecting external agents and harnesses to a shared client.
+- [Open-Source AI Testbed](concepts/OpenSourceAITestbed.md) — Runnable open project that turns fast-moving AI methods into inspectable, adaptable engineering implementations.
+- [AI-Generated Pull Request Burden](concepts/AIGeneratedPullRequestBurden.md) — Review and lifecycle cost imposed when agent-generated contributions outpace contributor understanding and maintainer capacity.
 - [Chinese-Western Medicine Collaboration Boundary / 中西医协作边界](concepts/ChineseWesternMedicineCollaborationBoundary.md) — Separates patient-centered, task-specific cooperation from claims that mixed modalities form a validated integrated discipline.
 - [TCM Clinical Reasoning Boundary / 中医辨证论治边界](concepts/TCMClinicalReasoningBoundary.md) — Separates individualized clinical context from unvalidated TCM diagnosis, efficacy, mechanism, and treatment claims.
 - [Chinese Herbal Medicine Safety Boundary / 中药安全边界](concepts/ChineseHerbalMedicineSafetyBoundary.md) — Rejects naturalness, culinary familiarity, product naming, or dosage form as sufficient evidence of herbal safety and suitability.

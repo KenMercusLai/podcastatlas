@@ -3331,6 +3331,10 @@
     "title": "AI-Generated Proof Governance",
     "url": "/wiki/concepts/aigeneratedproofgovernance/"
   },
+  "AIGeneratedPullRequestBurden": {
+    "title": "AI-Generated Pull Request Burden",
+    "url": "/wiki/concepts/aigeneratedpullrequestburden/"
+  },
   "AIGlassesComputingPlatform": {
     "title": "AI Glasses Computing Platform / AI眼镜计算平台",
     "url": "/wiki/concepts/aiglassescomputingplatform/"
@@ -5219,6 +5223,10 @@
     "title": "Agent Civilization Narrative",
     "url": "/wiki/concepts/agentcivilizationnarrative/"
   },
+  "AgentClientProtocol": {
+    "title": "Agent Client Protocol",
+    "url": "/wiki/concepts/agentclientprotocol/"
+  },
   "AgentCommandCenter": {
     "title": "Agent Command Center",
     "url": "/wiki/concepts/agentcommandcenter/"
@@ -5334,6 +5342,10 @@
   "AgentSpendControls": {
     "title": "Agent Spend Controls / 智能体消费控制",
     "url": "/wiki/concepts/agentspendcontrols/"
+  },
+  "AgentTapeSystem": {
+    "title": "Agent Tape System",
+    "url": "/wiki/concepts/agenttapesystem/"
   },
   "AgentTaskClaiming": {
     "title": "Agent Task Claiming",
@@ -20166,6 +20178,10 @@
   "DeepCanvassing": {
     "title": "Deep Canvassing / 深度说服",
     "url": "/wiki/concepts/deepcanvassing/"
+  },
+  "DeepChat": {
+    "title": "DeepChat",
+    "url": "/wiki/entities/deepchat/"
   },
   "DeepMind": {
     "title": "DeepMind",
@@ -53171,6 +53187,10 @@
     "title": "Open Source AI Models",
     "url": "/wiki/concepts/opensourceaimodels/"
   },
+  "OpenSourceAITestbed": {
+    "title": "Open-Source AI Testbed",
+    "url": "/wiki/concepts/opensourceaitestbed/"
+  },
   "OpenSourceCommunityCommercialization": {
     "title": "Open Source Community Commercialization",
     "url": "/wiki/concepts/opensourcecommunitycommercialization/"
@@ -86070,6 +86090,10 @@
   "lnrbqztehpu3nnpofuw1ihascwrm-lnrbqztehpu3nnpofuw1ihascwrm": {
     "title": "VOL.118你见过深夜的ICU吗？打破你的刻板印象",
     "url": "/wiki/sources/lnrbqztehpu3nnpofuw1ihascwrm-lnrbqztehpu3nnpofuw1ihascwrm/"
+  },
+  "lo0pfirl4khc0jzj57kgbx7wsq49": {
+    "title": "VOL.002｜DeepChat：为什么要做一块开源 AI 试验田？",
+    "url": "/wiki/sources/lo0pfirl4khc0jzj57kgbx7wsq49/"
   },
   "lswakifoozu5vkckl5n-nzndj43e-lswakifoozu5vkckl5n-nzndj43e": {
     "title": "VOL.67无·事｜听躺进ICU的医生和普通病人在聊些什么？知道越多越恐惧？｜献礼医师节彩蛋",

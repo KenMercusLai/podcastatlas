@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3219
+topic_total_pages: 3223
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1081,6 +1081,9 @@ topic_concepts:
   - key: "AIGeneratedProofGovernance"
     title: "AI-Generated Proof Governance"
     url: "/wiki/concepts/aigeneratedproofgovernance/"
+  - key: "AIGeneratedPullRequestBurden"
+    title: "AI-Generated Pull Request Burden"
+    url: "/wiki/concepts/aigeneratedpullrequestburden/"
   - key: "AINativeInvestingWorkflow"
     title: "AI-Native Investing Workflow"
     url: "/wiki/concepts/ainativeinvestingworkflow/"
@@ -3223,6 +3226,9 @@ topic_concepts:
   - key: "OpenSourceAIDemocratization"
     title: "Open-Source AI Democratization"
     url: "/wiki/concepts/opensourceaidemocratization/"
+  - key: "OpenSourceAITestbed"
+    title: "Open-Source AI Testbed"
+    url: "/wiki/concepts/opensourceaitestbed/"
   - key: "OpenWeightCommercialLicensing"
     title: "Open-Weight Commercial Licensing"
     url: "/wiki/concepts/openweightcommerciallicensing/"
@@ -5282,6 +5288,9 @@ topic_entities:
   - key: "DeepBlue"
     title: "Deep Blue / 深蓝"
     url: "/wiki/entities/deepblue/"
+  - key: "DeepChat"
+    title: "DeepChat"
+    url: "/wiki/entities/deepchat/"
   - key: "DeepMind"
     title: "DeepMind"
     url: "/wiki/entities/deepmind/"
@@ -9330,6 +9339,9 @@ topic_sources:
   - key: "vol-175-gpt-6-astra-opus-5-5-jev-zhu-moxing-hunzhan-1-6700-1"
     title: "Vol. 175 GPT 6 Astra、Opus 5.5、Jev 诸模型混战"
     url: "/wiki/sources/vol-175-gpt-6-astra-opus-5-5-jev-zhu-moxing-hunzhan-1-6700-1/"
+  - key: "lo0pfirl4khc0jzj57kgbx7wsq49"
+    title: "VOL.002｜DeepChat：为什么要做一块开源 AI 试验田？"
+    url: "/wiki/sources/lo0pfirl4khc0jzj57kgbx7wsq49/"
   - key: "vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo"
     title: "Vol.114 AI的2025和DeepSeek们的未来 | 对谈复旦张奇教授"
     url: "/wiki/sources/vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo/"
