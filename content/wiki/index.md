@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [286: England: Beef and Liberty](sources/286-england-beef-and-liberty-glt5964129806.md) — The Rest Is History episode on roast beef as a material food, anti-French political language, patriotic performance, John Bull archetype, and fading English national myth.
 - [VOL.04医美｜正规有资质是医美的前提条件｜中韩医美整容的环境对比](sources/vol-04-yimei-zhenggui-you-zizhi-shi-yimei-de-qianti-tiaojian-zhonghan-yimei-zhengrong-de-huanjing-duibi-lhgwrsxzkwg7mvf5gl3xn1bdl2ns.md) — 这病说来话长 episode on medical-aesthetic credentials, informal-setting and product risks, device-operator skill, realistic expectations, and low-price warning signals.
 - [287: Jesus Christ: The Mystery (Part 1)](sources/287-jesus-christ-the-mystery-part-1-glt4572965796.md) — The Rest Is History episode on non-Christian evidence, Gospel source criticism, Roman Judea, and Jesus’s Galilean cultural and political setting.
 - [The Science of Creativity & How to Enhance Creative Innovation](sources/the-science-of-creativity-how-to-enhance-creative-innovation-scim5096680097.md) — Huberman Lab solo episode on divergence and convergence, creativity networks, state matching, narrative training, and bounded dopamine, meditation, movement, NSDR, and substance claims.
@@ -3238,6 +3239,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [290: 2022: A History](sources/290-2022-a-history-glt4625765030.md) — The Rest Is History year-end episode on Ukraine as a post-Cold War rupture, European energy dependence, Elizabeth II's death, British political turmoil, and 2022 cultural recommendations.
 
 ## Entities
+- [John Bull](entities/JohnBull.md) — Stout, beef- and beer-consuming personification that embodied a selective English ideal of plainness, liberty, and self-caricature.
+- [William Hogarth](entities/WilliamHogarth.md) — English satirist whose Calais and invasion images made roast-beef patriotism visually durable.
 - [Josephus](entities/Josephus.md) — Judean priest, revolt participant, and historian whose disputed and incidental references are central to reconstructing Jesus and John the Baptist.
 - [Jesus](entities/Jesus.md) — First-century Jewish teacher reconstructed through baptism, Kingdom preaching, Jerusalem conflict, crucifixion, and early resurrection belief.
 - [John the Baptist](entities/JohnTheBaptist.md) — Preacher of repentance, baptism, and judgment whose connection to Jesus is a strong historical anchor.
@@ -14688,6 +14691,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Auschwitz-Birkenau](entities/AuschwitzBirkenau.md) — Nazi concentration and extermination complex examined through forced labor, confiscation, registration, deception, mass killing, and escapee evidence.
 
 ## Concepts
+- [Culinary Nationalism](concepts/CulinaryNationalism.md) — Process by which food, cooking, institutions, and performance become claims about national character and political order.
+- [Roast Beef and English Identity](concepts/RoastBeefEnglishIdentity.md) — Early-modern English symbol joining beef, plain cookery, abundance, strength, Protestant patriotism, and liberty.
 - [Galilean-Judean Cultural Boundary](concepts/GalileanJudeanCulturalBoundary.md) — Framework joining Jesus’s Jewish identity to Galilean formation, Roman political geography, and distance from Jerusalem and Greco-Roman civic culture.
 - [Creative Divergence-Convergence Cycle](concepts/CreativeDivergenceConvergenceCycle.md) — Two-mode process in which flexible association generates possibilities before focused evaluation selects and develops them.
 - [Creativity Network Coordination](concepts/CreativityNetworkCoordination.md) — Distributed account joining spontaneous generation, salience selection, and executive constraint in creative cognition.

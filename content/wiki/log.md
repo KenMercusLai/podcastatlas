@@ -25554,3 +25554,11 @@ Added source `vol-04-yimei-zhenggui-you-zizhi-shi-yimei-de-qianti-tiaojian-zhong
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-30] ingest | 286: England: Beef and Liberty
+
+Added source `286-england-beef-and-liberty-glt5964129806`; created `JohnBull`, `WilliamHogarth`, `CulinaryNationalism`, and `RoastBeefEnglishIdentity`; and updated the canonical index. Core synthesis: roast beef became a national political symbol when a plausible material base was amplified through French contrast, plain-cookery rhetoric, theatre, song, clubs, satire, military ritual, and the body of John Bull, then faded from active argument into nostalgia and caricature after Waterloo and industrialization. No settled contradiction was adopted. Consumption, price, enclosure, cross-class access, culinary binaries, institutional continuity, and modern lines of descent remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

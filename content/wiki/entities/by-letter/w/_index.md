@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 11422
+wiki_total_pages: 11424
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -524,6 +524,9 @@ wiki_pages:
   - key: "WilliamGolding"
     title: "William Golding / 威廉·戈尔丁"
     url: "/wiki/entities/williamgolding/"
+  - key: "WilliamHogarth"
+    title: "William Hogarth"
+    url: "/wiki/entities/williamhogarth/"
   - key: "WilliamIII"
     title: "William III"
     url: "/wiki/entities/williamiii/"

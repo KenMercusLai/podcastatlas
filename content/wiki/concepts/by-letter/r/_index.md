@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 8842
+wiki_total_pages: 8844
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -950,6 +950,9 @@ wiki_pages:
   - key: "RoadsideAdvertisingSpectacle"
     title: "Roadside Advertising Spectacle"
     url: "/wiki/concepts/roadsideadvertisingspectacle/"
+  - key: "RoastBeefEnglishIdentity"
+    title: "Roast Beef and English Identity"
+    url: "/wiki/concepts/roastbeefenglishidentity/"
   - key: "RoboAdvisorHybridService"
     title: "Robo-Advisor Hybrid Service / 人机结合投顾"
     url: "/wiki/concepts/roboadvisorhybridservice/"

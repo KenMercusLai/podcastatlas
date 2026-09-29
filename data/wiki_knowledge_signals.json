@@ -39212,6 +39212,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/cuitlahuac/"
     },
+    "CulinaryNationalism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5964129806 [GLT5964129806].md",
+          "key": "286-england-beef-and-liberty-glt5964129806",
+          "show": "The Rest Is History",
+          "title": "286: England: Beef and Liberty",
+          "url": "/wiki/sources/286-england-beef-and-liberty-glt5964129806/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/culinarynationalism/"
+    },
     "CulinaryTraditionMythmaking": {
       "episode_count": 1,
       "show_count": 1,
@@ -94299,6 +94315,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/johnball/"
     },
+    "JohnBull": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5964129806 [GLT5964129806].md",
+          "key": "286-england-beef-and-liberty-glt5964129806",
+          "show": "The Rest Is History",
+          "title": "286: England: Beef and Liberty",
+          "url": "/wiki/sources/286-england-beef-and-liberty-glt5964129806/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/johnbull/"
+    },
     "JohnCadbury": {
       "episode_count": 1,
       "show_count": 1,
@@ -147824,6 +147856,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/concepts/roadarchaeology/"
     },
+    "RoastBeefEnglishIdentity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5964129806 [GLT5964129806].md",
+          "key": "286-england-beef-and-liberty-glt5964129806",
+          "show": "The Rest Is History",
+          "title": "286: England: Beef and Liberty",
+          "url": "/wiki/sources/286-england-beef-and-liberty-glt5964129806/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/roastbeefenglishidentity/"
+    },
     "RobbenIsland": {
       "episode_count": 1,
       "show_count": 1,
@@ -182313,6 +182361,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/williamgolding/"
+    },
+    "WilliamHogarth": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5964129806 [GLT5964129806].md",
+          "key": "286-england-beef-and-liberty-glt5964129806",
+          "show": "The Rest Is History",
+          "title": "286: England: Beef and Liberty",
+          "url": "/wiki/sources/286-england-beef-and-liberty-glt5964129806/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/williamhogarth/"
     },
     "WilliamIII": {
       "episode_count": 1,
