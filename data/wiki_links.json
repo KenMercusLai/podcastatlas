@@ -947,6 +947,10 @@
     "title": "28.聊斋志异：不为君王唱赞歌，偏向苍生说鬼话",
     "url": "/wiki/sources/28-liaozhai-zhiyi-buwei-junwang-chang-zange-pianxiang-cangsheng-shuo-guihua-587843930/"
   },
+  "280-serbia-the-birthplace-of-civilisation-glt4941340070": {
+    "title": "280: Serbia: The Birthplace of Civilisation",
+    "url": "/wiki/sources/280-serbia-the-birthplace-of-civilisation-glt4941340070/"
+  },
   "281-spain-the-caliphate-of-cordoba-glt2203638069": {
     "title": "281: Spain: The Caliphate of Córdoba",
     "url": "/wiki/sources/281-spain-the-caliphate-of-cordoba-glt2203638069/"
@@ -7770,6 +7774,10 @@
   "ArcLanguage": {
     "title": "Arc",
     "url": "/wiki/entities/arclanguage/"
+  },
+  "ArchaeologicalInterpretationUnderSparseEvidence": {
+    "title": "Archaeological Interpretation Under Sparse Evidence",
+    "url": "/wiki/concepts/archaeologicalinterpretationundersparseevidence/"
   },
   "ArcherAviation": {
     "title": "Archer Aviation",
@@ -47099,6 +47107,10 @@
     "title": "Marie-Louise von Franz / 玛丽-路易丝·冯·弗兰兹",
     "url": "/wiki/entities/marielouisevonfranz/"
   },
+  "MarijaGimbutas": {
+    "title": "Marija Gimbutas",
+    "url": "/wiki/entities/marijagimbutas/"
+  },
   "MarinaDataScienceWithSam": {
     "title": "Marina (Data Science With Sam)",
     "url": "/wiki/entities/marinadatasciencewithsam/"
@@ -49270,6 +49282,10 @@
   "Millian": {
     "title": "Millian",
     "url": "/wiki/entities/millian/"
+  },
+  "MilojeVasic": {
+    "title": "Miloje Vasić",
+    "url": "/wiki/entities/milojevasic/"
   },
   "Miltiades": {
     "title": "Miltiades",
@@ -70711,6 +70727,10 @@
     "title": "Tarleton Gillespie",
     "url": "/wiki/entities/tarletongillespie/"
   },
+  "TartariaTablets": {
+    "title": "Tărtăria Tablets",
+    "url": "/wiki/entities/tartariatablets/"
+  },
   "TaskAsAService": {
     "title": "Task As A Service",
     "url": "/wiki/concepts/taskasaservice/"
@@ -75242,6 +75262,14 @@
   "VillageSelfGovernance": {
     "title": "Village Self-Governance / 村庄自主治理",
     "url": "/wiki/concepts/villageselfgovernance/"
+  },
+  "VincaCulture": {
+    "title": "Vinča Culture",
+    "url": "/wiki/entities/vincaculture/"
+  },
+  "VincaSymbolsProtoWriting": {
+    "title": "Vinča Symbols and Proto-Writing",
+    "url": "/wiki/concepts/vincasymbolsprotowriting/"
   },
   "VinceGiudice": {
     "title": "Vince Giudice",

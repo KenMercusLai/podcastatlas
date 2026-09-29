@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [280: Serbia: The Birthplace of Civilisation](sources/280-serbia-the-birthplace-of-civilisation-glt4941340070.md) — The Rest Is History episode on Vinča settlements, early copper working, symbol and writing disputes, Old Europe, and the limits of prehistoric reconstruction.
 - [Tools for Hormone Optimization in Males | Dr. Kyle Gillett](sources/tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim8881525886.md) — Full-length Huberman Lab interview on male puberty, hormone phenotyping, lifestyle foundations, fertility exposures, supplements, peptides, and supervised androgen interventions.
 - [281: Spain: The Caliphate of Córdoba](sources/281-spain-the-caliphate-of-cordoba-glt2203638069.md) — The Rest Is History episode on al-Andalus, Cordoba's Umayyad consolidation and golden age, hierarchical pluralism, Almanzor, civil war, and contingent Reconquista.
 - [282: Morocco: The Rif War](sources/282-morocco-the-rif-war-glt7389759975.md) — The Rest Is History episode on Abdel Krim, the Republic of the Rif, Spain's colonial disaster, modern military escalation, and the Army of Africa's later political role.
@@ -3249,6 +3250,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [284: Denmark: The Great Escape](sources/284-denmark-the-great-escape-glt4809968647.md) — The Rest Is History episode on warning, civic networks, Oresund transport, Swedish refuge, and the multi-causal rescue of the Danish Jews.
 
 ## Entities
+- [Vinča Culture](entities/VincaCulture.md) — Neolithic settlement and material-culture network centered in present-day Serbia.
+- [Miloje Vasić](entities/MilojeVasic.md) — Serbian archaeologist whose Vinča excavations revealed a much earlier culture than he initially proposed.
+- [Marija Gimbutas](entities/MarijaGimbutas.md) — Archaeologist associated with the contested goddess-centered Old Europe interpretation.
+- [Tărtăria Tablets](entities/TartariaTablets.md) — Three marked Romanian artifacts central to debate over Vinča chronology and writing.
 - [Abd al-Rahman III](entities/AbdAlRahmanIII.md) — Methodical Umayyad consolidator who rebuilt al-Andalus and proclaimed the Cordoba Caliphate in 929.
 - [Al-Mansur / Almanzor (Cordoba)](entities/AlMansurCordoba.md) — Cordoban vizier and de facto ruler whose campaigns, repression, and Berber military system preceded a destabilizing succession.
 - [Great Mosque of Cordoba](entities/GreatMosqueOfCordoba.md) — Umayyad sacred monument joining architectural synthesis, dynastic legitimacy, and political display.
@@ -14721,6 +14726,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Christian X of Denmark](entities/ChristianXOfDenmark.md) — Occupation-era monarch symbolizing national continuity and Jewish civic inclusion while the yellow-star story remains a myth.
 
 ## Concepts
+- [Vinča Symbols and Proto-Writing](concepts/VincaSymbolsProtoWriting.md) — Contested classification of Vinča marks as decoration, notation, proto-writing, or writing.
+- [Archaeological Interpretation Under Sparse Evidence](concepts/ArchaeologicalInterpretationUnderSparseEvidence.md) — Confidence boundary between material finds and wider reconstructions of language, society, religion, or collapse.
 - [Male Puberty Growth Context](concepts/MalePubertyGrowthContext.md) — Development-first frame separating resistance training from adiposity, energy, sleep, nutrition, endocrine context, and clinical concerns in male puberty and growth.
 - [Hierarchical Pluralism in al-Andalus](concepts/HierarchicalPluralismAlAndalus.md) — Real cross-religious exchange and protected community life within an unequal Muslim-dominant legal and political order.
 - [Centralized Golden-Age Fragility](concepts/CentralizedGoldenAgeFragility.md) — Pattern in which urban and intellectual flourishing depends on concentrated peace, revenue, administration, succession, and military control.

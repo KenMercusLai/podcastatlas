@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-30] ingest | 280: Serbia: The Birthplace of Civilisation
+
+Added source `280-serbia-the-birthplace-of-civilisation-glt4941340070`; created `VincaCulture`, `MilojeVasic`, `MarijaGimbutas`, `TartariaTablets`, `VincaSymbolsProtoWriting`, and `ArchaeologicalInterpretationUnderSparseEvidence`; and updated `Serbia` and the canonical index from Serbia's complete bounded source set. Core synthesis: Vinča's large settlements, material culture, agriculture, early copper working, and sign corpus are substantial, while claims of full writing, modern Serbian continuity, matriarchy, pacifism, mother-goddess religion, Aegean descent, or a single invasion or environmental collapse exceed the supplied evidence. No settled contradiction was adopted. Dates, population and sign totals, metallurgical priority, tablet context, and collapse models remain source-scoped or contested. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-30] ingest | The Science of Creativity & How to Enhance Creative Innovation
 
 Added source `the-science-of-creativity-how-to-enhance-creative-innovation-scim5096680097`; created `CreativeDivergenceConvergenceCycle`, `CreativityNetworkCoordination`, `CreativeStateMatching`, and `NarrativeCreativityTraining`; updated `DopamineInvertedU` and `NonSleepDeepRestRecovery` from their complete bounded source sets; and updated the canonical index. Core synthesis: creative work alternates broad generation with focused selection, depends on coordinated rather than single-region brain systems, and benefits from matching tools to the immediate cognitive mode rather than treating stimulation as uniformly helpful. No settled contradiction was adopted. Network assignments, meditation effects, dopamine-pathway claims, NSDR timing and percentage, movement effects, ADHD generalizations, psychedelic microdosing, and alcohol or cannabis claims remain source-scoped public education rather than individualized care. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -25637,6 +25641,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-30] ingest | Tools for Hormone Optimization in Males | Dr. Kyle Gillett
 
 Added source `tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim8881525886`; created `MalePubertyGrowthContext`; and expanded `KyleGillett`, `MaleHormoneHealthPhenotyping`, `AndrogenInterventionClinicalBoundary`, and `AndrogenSupportSupplementBoundary` from their complete bounded source sets. Core synthesis: male hormone health is a life-course measurement and risk-management problem joining development, symptoms, SHBG or free testosterone, lifestyle foundations, fertility goals, and multi-system intervention tradeoffs rather than a testosterone-number chase. No settled contradiction was adopted. The full episode and later Essentials cut are overlapping versions, not independent corroboration; exact supplement, peptide, drug, pornography, substance, fertility-exposure, and environmental claims remain source-scoped public education rather than individualized medical advice. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-30] lint | Wiki health check
 

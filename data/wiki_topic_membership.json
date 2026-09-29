@@ -1477,6 +1477,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "280-serbia-the-birthplace-of-civilisation-glt4941340070": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "281-spain-the-caliphate-of-cordoba-glt2203638069": [
     {
       "key": "history",
@@ -11551,6 +11558,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "ArchaeologicalInterpretationUnderSparseEvidence": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "ArcheryFlow": [
@@ -74354,6 +74368,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "TartariaTablets": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "TaskAsAService": [
     {
       "key": "technology",
@@ -79659,6 +79680,20 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "VincaCulture": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
+  "VincaSymbolsProtoWriting": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "VirtualAssetAMLRisk": [

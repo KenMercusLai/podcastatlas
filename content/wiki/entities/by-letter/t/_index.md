@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 11444
+wiki_total_pages: 11448
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1172,6 +1172,9 @@ wiki_pages:
   - key: "Tyre"
     title: "Tyre / 推罗"
     url: "/wiki/entities/tyre/"
+  - key: "TartariaTablets"
+    title: "Tărtăria Tablets"
+    url: "/wiki/entities/tartariatablets/"
   - key: "ThirtySeven"
     title: "《37》"
     url: "/wiki/entities/thirtyseven/"

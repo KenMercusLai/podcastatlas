@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 11444
+wiki_total_pages: 11448
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -326,6 +326,9 @@ wiki_pages:
   - key: "MarieLouiseVonFranz"
     title: "Marie-Louise von Franz / 玛丽-路易丝·冯·弗兰兹"
     url: "/wiki/entities/marielouisevonfranz/"
+  - key: "MarijaGimbutas"
+    title: "Marija Gimbutas"
+    url: "/wiki/entities/marijagimbutas/"
   - key: "MarinaDataScienceWithSam"
     title: "Marina (Data Science With Sam)"
     url: "/wiki/entities/marinadatasciencewithsam/"
@@ -1154,6 +1157,9 @@ wiki_pages:
   - key: "Millian"
     title: "Millian"
     url: "/wiki/entities/millian/"
+  - key: "MilojeVasic"
+    title: "Miloje Vasić"
+    url: "/wiki/entities/milojevasic/"
   - key: "Miltiades"
     title: "Miltiades"
     url: "/wiki/entities/miltiades/"

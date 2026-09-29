@@ -13044,6 +13044,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/aracelisegarra/"
     },
+    "ArchaeologicalInterpretationUnderSparseEvidence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4941340070 [GLT4941340070].md",
+          "key": "280-serbia-the-birthplace-of-civilisation-glt4941340070",
+          "show": "The Rest Is History",
+          "title": "280: Serbia: The Birthplace of Civilisation",
+          "url": "/wiki/sources/280-serbia-the-birthplace-of-civilisation-glt4941340070/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/archaeologicalinterpretationundersparseevidence/"
+    },
     "ArchieHall": {
       "episode_count": 1,
       "show_count": 1,
@@ -114463,6 +114479,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/marieantoinette/"
     },
+    "MarijaGimbutas": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4941340070 [GLT4941340070].md",
+          "key": "280-serbia-the-birthplace-of-civilisation-glt4941340070",
+          "show": "The Rest Is History",
+          "title": "280: Serbia: The Birthplace of Civilisation",
+          "url": "/wiki/sources/280-serbia-the-birthplace-of-civilisation-glt4941340070/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/marijagimbutas/"
+    },
     "MarineLePen": {
       "episode_count": 2,
       "show_count": 1,
@@ -119367,6 +119399,22 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/concepts/millennialromanimperialeschatology/"
+    },
+    "MilojeVasic": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4941340070 [GLT4941340070].md",
+          "key": "280-serbia-the-birthplace-of-civilisation-glt4941340070",
+          "show": "The Rest Is History",
+          "title": "280: Serbia: The Birthplace of Civilisation",
+          "url": "/wiki/sources/280-serbia-the-birthplace-of-civilisation-glt4941340070/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/milojevasic/"
     },
     "Miltiades": {
       "episode_count": 2,
@@ -154184,9 +154232,9 @@
       "url": "/wiki/entities/septembermassacres/"
     },
     "Serbia": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT1171003479 [GLT1171003479].md",
@@ -154222,9 +154270,16 @@
           "show": "The Rest Is History",
           "title": "466. The Murder of Franz Ferdinand: The Conspiracy (Part 2)",
           "url": "/wiki/sources/466-the-murder-of-franz-ferdinand-the-conspiracy-part-2-glt2060941792/"
+        },
+        {
+          "episode_file": "GLT4941340070 [GLT4941340070].md",
+          "key": "280-serbia-the-birthplace-of-civilisation-glt4941340070",
+          "show": "The Rest Is History",
+          "title": "280: Serbia: The Birthplace of Civilisation",
+          "url": "/wiki/sources/280-serbia-the-birthplace-of-civilisation-glt4941340070/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-09-30",
       "url": "/wiki/entities/serbia/"
     },
     "SergeLaurent": {
@@ -168397,6 +168452,22 @@
       "updated": "2026-09-17",
       "url": "/wiki/concepts/tariffdrivenoverseaslocalproduction/"
     },
+    "TartariaTablets": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4941340070 [GLT4941340070].md",
+          "key": "280-serbia-the-birthplace-of-civilisation-glt4941340070",
+          "show": "The Rest Is History",
+          "title": "280: Serbia: The Birthplace of Civilisation",
+          "url": "/wiki/sources/280-serbia-the-birthplace-of-civilisation-glt4941340070/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/tartariatablets/"
+    },
     "TaskBasedAINativeOrganization": {
       "episode_count": 1,
       "show_count": 1,
@@ -177862,6 +177933,38 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/viktormayerschonberger/"
+    },
+    "VincaCulture": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4941340070 [GLT4941340070].md",
+          "key": "280-serbia-the-birthplace-of-civilisation-glt4941340070",
+          "show": "The Rest Is History",
+          "title": "280: Serbia: The Birthplace of Civilisation",
+          "url": "/wiki/sources/280-serbia-the-birthplace-of-civilisation-glt4941340070/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/vincaculture/"
+    },
+    "VincaSymbolsProtoWriting": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4941340070 [GLT4941340070].md",
+          "key": "280-serbia-the-birthplace-of-civilisation-glt4941340070",
+          "show": "The Rest Is History",
+          "title": "280: Serbia: The Birthplace of Civilisation",
+          "url": "/wiki/sources/280-serbia-the-birthplace-of-civilisation-glt4941340070/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/vincasymbolsprotowriting/"
     },
     "VincenzoPerugia": {
       "episode_count": 1,

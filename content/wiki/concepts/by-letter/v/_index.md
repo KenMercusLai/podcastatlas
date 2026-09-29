@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "v"
-wiki_total_pages: 8863
+wiki_total_pages: 8865
 wiki_pages:
   - key: "VacationShame"
     title: "Vacation Shame / 休假羞耻感"
@@ -251,6 +251,9 @@ wiki_pages:
   - key: "VillageSelfGovernance"
     title: "Village Self-Governance / 村庄自主治理"
     url: "/wiki/concepts/villageselfgovernance/"
+  - key: "VincaSymbolsProtoWriting"
+    title: "Vinča Symbols and Proto-Writing"
+    url: "/wiki/concepts/vincasymbolsprotowriting/"
   - key: "ViolenceReductionPublicHealthModel"
     title: "Violence Reduction Public-Health Model"
     url: "/wiki/concepts/violencereductionpublichealthmodel/"

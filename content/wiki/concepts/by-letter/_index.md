@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 8863
+wiki_total_pages: 8865
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2201,6 +2201,9 @@ wiki_pages:
   - key: "ArbitraryAuthorityProcedure"
     title: "Arbitrary Authority Procedure"
     url: "/wiki/concepts/arbitraryauthorityprocedure/"
+  - key: "ArchaeologicalInterpretationUnderSparseEvidence"
+    title: "Archaeological Interpretation Under Sparse Evidence"
+    url: "/wiki/concepts/archaeologicalinterpretationundersparseevidence/"
   - key: "ArcheryFlow"
     title: "Archery Flow / 射箭专注体验"
     url: "/wiki/concepts/archeryflow/"
