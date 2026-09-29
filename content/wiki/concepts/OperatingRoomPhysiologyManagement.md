@@ -6,7 +6,8 @@ sources:
   - vol-33-mazuike-ni-dui-mazui-kongju-ma-ni-haijide-xinglai-de-shunjian-ma-guanyu-shoushu-zhong-hou-mazui-de-wujie-he-jinji-fu-waike-yisheng-caifang-luyin-lj2x7wulcdfnv7bnh9dzowciwvrr
   - vol-32-mazuike-ni-zuoguo-shoushu-ma-ni-jingliguo-mazui-ma-guanyu-shoushu-qian-mazui-de-wujie-he-jinji-fu-huanzhe-caifang-luyin-ltfmx4d3ile0djxqlurikqueocxn
   - vol-59-mazuike-jizhuwai-ke-shuzhong-zhixiao-guiyachuang-changjian-ma-yaoteng-shi-mazui-zaocheng-de-ma-chanfu-dou-shihe-wutong-fenmian-ma-lp7ibbaykdfkwlpwdj8zdwejodtr
-last_updated: 2026-09-28
+  - vol-08-mazuike-kexingzou-de-mazuishu-wutong-fenmian-dui-haizi-jinhou-you-yingxiang-ma-lif37vkcu8a2gdmf3jraupbnvqpm
+last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
 
@@ -24,11 +25,13 @@ The new preoperative branch shows that operating-room physiology management star
 
 VOL.59 adds anesthetic-depth coordination and context-specific reflex or circulation problems. Neuromuscular blockade, hypnosis, and analgesia must be managed as separate but coordinated components; BIS-like depth signals may help identify light anesthesia but do not substitute for the whole clinical picture. Cardiopulmonary bypass can alter drug behavior, visceral or cranial-nerve stimulation can produce reflex cardiovascular change, and circulatory instability may force a tradeoff between depth and physiological tolerance.
 
+VOL.08 adds the continuous control-loop view in accessible terms. Anesthetic drugs and surgical stimulation can move blood pressure, heart rate, oxygenation, breathing, pain, and depth in different directions, so the anesthesiologist repeatedly interprets monitors and the operative stage, then adjusts drugs or interventions rather than relying on a one-time dose. This is also why anesthesiology can coordinate immediate rescue: the specialty is already integrating the patient's whole physiology while surgery continues.
+
 ## Key Claims
 - Operating-room temperature is a clinical and operational tradeoff, not merely staff comfort.
 - Patient hypothermia can cause perioperative harm, especially for older or vulnerable patients.
 - Warming and temperature monitoring are active parts of anesthesia care.
-- BIS and other depth signals can support awareness prevention and sedation assessment, but they cannot replace broader clinical judgment or guarantee unconsciousness.
+- BIS and other depth signals can support awareness prevention and sedation assessment, while blood pressure, heart rate, oxygenation, breathing, pain responses, and surgical stage guide continuous adjustment; no single signal replaces broader clinical judgment.
 - Consciousness, airway reflexes, spontaneous breathing, muscle recovery, brainstem reflexes, imaging, and severity scores remain complementary signals.
 - Pulse oximetry, airway access, and blood preparation can be affected by preoperative details such as nail polish, teeth, dentures, and surgical bleeding risk.
 - Major bleeding turns physiology management into a shared surgeon-anesthesiologist decision about transfusion, fluid, blood components, and circulation support.
@@ -43,14 +46,15 @@ VOL.59 adds anesthetic-depth coordination and context-specific reflex or circula
 - Airway and transfusion: [[vol-32-mazuike-ni-zuoguo-shoushu-ma-ni-jingliguo-mazui-ma-guanyu-shoushu-qian-mazui-de-wujie-he-jinji-fu-huanzhe-caifang-luyin-ltfmx4d3ile0djxqlurikqueocxn|VOL.32]] ties intubation to dental risk and describes intraoperative transfusion decisions through bleeding amount, blood gas, vital signs, red cells, plasma, platelets, cryoprecipitate, fluids, and vasoactive drugs.
 
 - Depth, bypass, and reflex context: [[vol-59-mazuike-jizhuwai-ke-shuzhong-zhixiao-guiyachuang-changjian-ma-yaoteng-shi-mazui-zaocheng-de-ma-chanfu-dou-shihe-wutong-fenmian-ma-lp7ibbaykdfkwlpwdj8zdwejodtr|VOL.59]] separates neuromuscular blockade from hypnotic depth, describes cardiopulmonary bypass as changing drug behavior, and distinguishes aspiration from procedure-triggered reflex responses such as sudden bradycardia during ocular stimulation.
+- Continuous control loop: [[vol-08-mazuike-kexingzou-de-mazuishu-wutong-fenmian-dui-haizi-jinhou-you-yingxiang-ma-lif37vkcu8a2gdmf3jraupbnvqpm|VOL.08]] links drug and surgical effects with real-time blood-pressure, heart-rate, oxygenation, breathing, pain, and depth monitoring, dose adjustment, and rescue coordination.
 
 ## Counterevidence & Qualifications
-This concept does not define operating-room temperature policy, anesthesia monitoring standards, pulse-oximetry thresholds, BIS targets, awareness incidence, cardiopulmonary-bypass dosing, reflex-management protocols, ICU prognostication, airway practice, blood preparation, or transfusion practice. The sources are patient-facing public education; actual monitoring, depth, airway, warming, and circulation decisions belong to the clinical team.
+This concept does not define operating-room temperature policy, anesthesia monitoring standards, pulse-oximetry thresholds, BIS targets, awareness incidence, cardiopulmonary-bypass dosing, reflex-management protocols, ICU prognostication, airway practice, blood preparation, transfusion practice, or emergency command structure. The sources are patient-facing public education; actual monitoring, depth, airway, warming, circulation, and rescue decisions belong to the clinical team.
 
 ## What Changed
-- Added coordinated management of hypnosis, analgesia, and neuromuscular blockade to the physiology frame.
-- Added cardiopulmonary-bypass drug effects, reflex cardiovascular responses, and instability-related depth tradeoffs.
-- Preserved depth monitoring as decision support rather than a standalone awareness guarantee.
+- Added a continuous feedback-loop model connecting surgical stimulation and anesthetic drugs to repeated monitoring and intervention.
+- Made blood pressure, heart rate, oxygenation, breathing, pain response, and operative stage explicit inputs to real-time adjustment.
+- Added rescue coordination as a consequence of anesthesiology's whole-patient physiological view, while keeping institutional authority source-scoped.
 
 ## Related Concepts
 - [[PreoperativeAnesthesiaAssessment]] - preparation branch that supplies monitoring, airway, and blood-risk inputs.

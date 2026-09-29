@@ -25433,3 +25433,11 @@ Added source `vol-09-zhongyi-fenghan-fengre-fenghan-zhuan-fengre-hanbaohuo-deng-
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | VOL.08麻醉科｜“可行走的麻醉术”无痛分娩对孩子今后有影响吗
+
+Added source `vol-08-mazuike-kexingzou-de-mazuishu-wutong-fenmian-dui-haizi-jinhou-you-yingxiang-ma-lif37vkcu8a2gdmf3jraupbnvqpm`; expanded `PerioperativeAnesthesiaSafety`, `OperatingRoomPhysiologyManagement`, `PostAnesthesiaRecoverySafety`, `PerioperativePainControl`, and `ObstetricAnesthesiaDecisionBoundary` from their complete bounded source sets; and updated the canonical index and overview. Core synthesis: anesthesia is continuous physiological management through emergence; patient-controlled analgesia combines background delivery, bounded rescue dosing, and lockout safety; and low-concentration neuraxial labor analgesia aims to preserve movement and pushing while remaining eligibility- and context-dependent. No settled contradiction was adopted. Historical coverage estimates, puncture levels, dosing, contraindications, delivery choices, eye-anesthesia claims, and newborn effects remain source-scoped public education rather than current statistics or individualized medical guidance.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

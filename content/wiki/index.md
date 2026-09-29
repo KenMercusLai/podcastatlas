@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.08麻醉科｜“可行走的麻醉术”无痛分娩对孩子今后有影响吗](sources/vol-08-mazuike-kexingzou-de-mazuishu-wutong-fenmian-dui-haizi-jinhou-you-yingxiang-ma-lif37vkcu8a2gdmf3jraupbnvqpm.md) — 这病说来话长 episode on continuous anesthetic management, recovery, patient-controlled analgesia, and movement-preserving labor analgesia.
 - [VOL.09中医｜风寒、风热、风寒转风热、寒包火等感冒要辩证来看｜“中西医结合”的专业预期不如“中西医合作”](sources/vol-09-zhongyi-fenghan-fengre-fenghan-zhuan-fengre-hanbaohuo-deng-ganmao-yao-bianzheng-laikan-zhongxiyi-jiehe-de-zhuanye-yuqi-buru-zhongxiyi-hezuo-llgye2inoaww6kpjkwyg0c3hk6go.md) — 这病说来话长 episode on licensed TCM practice, pattern differentiation, procedure and herbal safety, clinician experience, and patient-centered Chinese-Western medical cooperation.
 - [VOL.10中医｜少商穴放血真的能治嗓子痛么｜到底该不该断掉寒性的牛奶](sources/vol-10-zhongyi-shaoshangxue-fangxue-zhende-neng-zhi-sangzi-tong-me-daodi-gai-bu-gai-duandiao-hanxing-de-niunai-ljojejbtrsnpuu1aa-10klw6reds.md) — 这病说来话长 episode on individualized TCM reasoning, acute-care boundaries, herbal-medicine safety, food therapy, pregnancy, children, milk tolerance, and dosage forms.
 - [Using Meditation to Focus, View Consciousness & Expand Your Mind | Dr. Sam Harris](sources/using-meditation-to-focus-view-consciousness-expand-your-mind-dr-sam-harris-scim3261454307.md) — Full Huberman Lab conversation on non-dual mindfulness, selfing, free will, psychedelics, present-centered goals, social attention, and leaving Twitter.

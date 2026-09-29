@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "f675edf892ee52d8341ee167bbbc6839c9f97c9569f2233bea485e51c366392c",
       "6e136b358cff61003fb4df15f0b3f39f2bf43b0d64fa941310906c084be8a2d8",
       "88d5adbd64b28071ad6efb260eac66b89a97ffdc403817ec87487ddf6132ee3a",
       "613de235fc1a66cb7709adb21aec428dd3252285c7d000ec7b56e62a6e97e689",
@@ -771,11 +772,30 @@
       "31c7f90fc6543c2884f08949e65e0d7fcbcf87a146de833aad456ad7ff83697a",
       "ee49b7e1f96890360662e93d6add77e0f4431b634664e869d269eb5847eb0c43"
     ],
-    "paragraph_count": 769
+    "paragraph_count": 770
   },
-  "overview_commit": "3f1f7e5633cc9fe8e099e9af91c23fcecf5ab314",
-  "overview_digest": "777d596c0dcc279c107cdb0ef70b08d7f6d0bc8ed3da115957cd458f82f5b826",
+  "overview_commit": "3ad527d05b7b8f83de9312fcae14f19d2fc98542",
+  "overview_digest": "2523a43b31500b8e648f44fb48bb908f065e8230d34d8f8684350a4b8ed5fc6f",
   "paragraphs": [
+    {
+      "id": "f675edf892ee52d8341ee167bbbc6839c9f97c9569f2233bea485e51c366392c",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [],
+      "text": "The latest addition is [[vol-08-mazuike-kexingzou-de-mazuishu-wutong-fenmian-dui-haizi-jinhou-you-yingxiang-ma-lif37vkcu8a2gdmf3jraupbnvqpm|VOL.08麻醉科｜“可行走的麻醉术”无痛分娩对孩子今后有影响吗]], an early [[ZheBingShuoLaiHuaChang|这病说来话长]] episode that makes the anesthesiologist's continuous work visible from induction through recovery. It extends [[PerioperativeAnesthesiaSafety]], [[OperatingRoomPhysiologyManagement]], and [[PostAnesthesiaRecoverySafety]] by connecting real-time physiological adjustment, rescue leadership, breathing and extubation checks, and the limited role of family calling; [[PerioperativePainControl]] now distinguishes background infusion, patient-controlled rescue dosing, and safety lockouts; and [[ObstetricAnesthesiaDecisionBoundary]] adds movement-preserving low-concentration labor analgesia without treating it as universally suitable. No settled contradiction is adopted. Labor-analgesia prevalence, puncture-level, dosing, contraindication, delivery-mode, eye-anesthesia, and newborn-effect claims remain source-scoped public education rather than current statistics or individualized care.",
+      "topic_scores": {
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 4
+      },
+      "wikilinks": [
+        "ObstetricAnesthesiaDecisionBoundary",
+        "OperatingRoomPhysiologyManagement",
+        "PerioperativeAnesthesiaSafety",
+        "PerioperativePainControl",
+        "PostAnesthesiaRecoverySafety",
+        "ZheBingShuoLaiHuaChang",
+        "vol-08-mazuike-kexingzou-de-mazuishu-wutong-fenmian-dui-haizi-jinhou-you-yingxiang-ma-lif37vkcu8a2gdmf3jraupbnvqpm"
+      ]
+    },
     {
       "id": "6e136b358cff61003fb4df15f0b3f39f2bf43b0d64fa941310906c084be8a2d8",
       "primary_topic": "work-education-and-society",

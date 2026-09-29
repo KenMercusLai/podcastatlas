@@ -8,6 +8,7 @@ sources:
   - vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt
   - vol-59-mazuike-jizhuwai-ke-shuzhong-zhixiao-guiyachuang-changjian-ma-yaoteng-shi-mazui-zaocheng-de-ma-chanfu-dou-shihe-wutong-fenmian-ma-lp7ibbaykdfkwlpwdj8zdwejodtr
   - vol-15-jizhen-weizhongbingke-guimenguan-gebide-xuanxue-chehuo-huanzhe-dui-wo-shuo-meitian-kandao-youren-la-wo-qu-huozangchang-ljgg_zhhuq3teyoqjk6unvuzba1n
+  - vol-08-mazuike-kexingzou-de-mazuishu-wutong-fenmian-dui-haizi-jinhou-you-yingxiang-ma-lif37vkcu8a2gdmf3jraupbnvqpm
 last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
@@ -30,8 +31,10 @@ VOL.59 extends recovery from ordinary awakening into delayed emergence, agitatio
 
 VOL.15 adds a severe-trauma case in which a conscious young patient reportedly wrote a blood-marked letter and repeatedly perceived people taking her to a crematorium. The guest treats the experience as possible ICU delirium or ICU syndrome shaped by major injury, unfamiliar surroundings, lighting, alarms, machinery, sleep disruption, and psychological shock. The account strengthens the existing rule: a perception can be vivid and distressing without establishing an external or supernatural event, and humane care requires orientation and communication rather than ridicule.
 
+VOL.08 clarifies the family-visible boundary. By the time relatives are invited to call to a patient, the clinically decisive emergence work has usually already occurred in the operating room or recovery area: anesthetic delivery has been stopped, spontaneous breathing and vital signs have been assessed, and extubation has been considered or completed. Familiar voices may provide orientation and help counter residual drowsiness, but they are not the mechanism that reverses anesthesia.
+
 ## Key Claims
-- Awakening after ordinary surgery usually depends on drug metabolism and spontaneous breathing recovery rather than being physically woken; delay requires a multi-cause assessment rather than automatic blame on one drug.
+- Awakening after ordinary surgery usually depends on drug metabolism and spontaneous breathing recovery rather than being physically woken; family calling can support later orientation but does not reverse anesthesia, and delay requires a multi-cause assessment rather than automatic blame on one drug.
 - Safe emergence requires muscle, airway reflex, cough, swallowing, breathing, and consciousness checks.
 - Delayed exit from the operating room can reflect anesthesiology recovery assessment after the surgical portion is finished.
 - Postoperative or ICU-associated delirium or agitation can create acute, fluctuating confusion, talkativeness, sleepiness, unusual speech, frightening writing, hallucination, environmental misperception, or unsafe movement, especially in children, older adults, severely injured or ill patients, or high-risk settings.
@@ -50,14 +53,14 @@ VOL.15 adds a severe-trauma case in which a conscious young patient reportedly w
 
 - Delayed emergence, agitation, and respiratory recovery: [[vol-59-mazuike-jizhuwai-ke-shuzhong-zhixiao-guiyachuang-changjian-ma-yaoteng-shi-mazui-zaocheng-de-ma-chanfu-dou-shihe-wutong-fenmian-ma-lp7ibbaykdfkwlpwdj8zdwejodtr|VOL.59]] links late awakening with age, organ function, neurological surgery, blood loss, glucose, electrolytes, temperature, and duration; it links agitation or slow respiratory recovery with pain, tubes or packing, childhood or older age, chronic lung disease, and impaired cough or lung expansion.
 - Severe-trauma ICU perception: [[vol-15-jizhen-weizhongbingke-guimenguan-gebide-xuanxue-chehuo-huanzhe-dui-wo-shuo-meitian-kandao-youren-la-wo-qu-huozangchang-ljgg_zhhuq3teyoqjk6unvuzba1n|VOL.15]] connects a young trauma patient's repeated crematorium visions to possible delirium, environmental change, light, alarms, respiratory equipment, and psychological shock rather than accepting a supernatural interpretation.
+- Family-visible recovery boundary: [[vol-08-mazuike-kexingzou-de-mazuishu-wutong-fenmian-dui-haizi-jinhou-you-yingxiang-ma-lif37vkcu8a2gdmf3jraupbnvqpm|VOL.08]] places drug cessation, vital-sign stabilization, spontaneous-breathing assessment, and extubation before the family usually sees the patient, while treating familiar calling as orientation and vigilance during residual drowsiness rather than the cause of awakening.
 
 ## Counterevidence & Qualifications
-This page does not define a universal delayed-emergence time threshold, discharge criteria, delirium diagnosis, antiemetic selection, diet or activity instructions, positioning orders, airway management, escort rules, ICU management, or endoscopy aftercare for any individual. Recovery instructions depend on procedure and intervention type, anesthesia type, severe illness or injury, comorbidities, pathology, hospital protocol, and clinician judgment. Delirium can have multiple contributors and requires clinical assessment; anecdotal similarities and “mystical” stories are not diagnostic, causal, or supernatural evidence.
+This page does not define a universal delayed-emergence time threshold, discharge criteria, delirium diagnosis, antiemetic selection, diet or activity instructions, positioning orders, airway management, extubation criteria, family-calling protocol, escort rules, ICU management, or endoscopy aftercare for any individual. Recovery instructions depend on procedure and intervention type, anesthesia type, severe illness or injury, comorbidities, pathology, hospital protocol, and clinician judgment. Delirium can have multiple contributors and requires clinical assessment; anecdotal similarities and “mystical” stories are not diagnostic, causal, or supernatural evidence.
 
 ## What Changed
-- Extended delirium beyond postoperative emergence to a conscious young trauma patient in an ICU environment.
-- Added lighting, alarms, machinery, sleep disruption, injury, and psychological shock as source-scoped contributors to environmental misperception.
-- Clarified that validating distress does not validate a supernatural explanation.
+- Separated clinically managed emergence from the later family-visible period of residual drowsiness.
+- Clarified that familiar calling may support orientation and breathing vigilance without being the mechanism that reverses anesthesia.
 
 ## Related Concepts
 - [[PerioperativeAnesthesiaSafety]] - broader anesthesia safety frame that recovery completes.

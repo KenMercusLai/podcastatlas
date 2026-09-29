@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-29
-as_of_overview_commit: c0464d085de40d05849b02e06a82d65ddfae6c65
+as_of_overview_commit: 3ad527d05b7b8f83de9312fcae14f19d2fc98542
 summary: "Across domains, durable progress depends on evidence, context, human judgment, capable institutions, bounded authority, practical implementation, and feedback."
-episode_count: 3178
-source_count: 3178
-paragraph_count: 769
+episode_count: 3180
+source_count: 3180
+paragraph_count: 770
 topic_count: 9
 ---
 
@@ -75,14 +75,14 @@ Personal change depends on bounded self-inquiry, contextual relationship and fam
 
 ### Science, Health, and Climate
 
-Scientific and public-health claims require mechanisms, outcomes, uncertainty, adaptable support, professional safeguards, and clinical escalation rather than naturalness, tradition, or labels alone.
+Scientific and public-health claims require mechanisms, outcomes, uncertainty, adaptable support, professional safeguards, and clinical escalation rather than labels alone.
 
 - [[the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019|The Carhart-Harris interview]] adds a psychedelic mental-health branch in which [[PsychedelicTherapyMechanism]] joins serotonin 2A pharmacology, acute cross-network change, subjective confrontation, therapeutic trust, and setting, while [[PsychedelicIntegration]] and [[PsychedelicClinicalSupervisionBoundary]] keep transient experience, relapse, legal access, contamination, provider conduct, and emergency support distinct from durable efficacy; [[BrainNetworkModularity]] can therefore be useful when high at baseline yet temporarily reduced in an altered state without yielding a one-direction optimization rule. Evidence: [[the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019]], [[RobinCarhartHarris]], [[PsychedelicTherapyMechanism]], [[PsychedelicIntegration]], [[PsychedelicClinicalSupervisionBoundary]], [[BrainNetworkModularity]], [[MDMAAssistedPTSDTherapy]].
 - [[vol-71-jingshenke-guanai-chanhou-yiyu-chanqian-yiji-yufang-chanhou-jujue-moshi-jiyu-gengduo-peiban-loossm3a72jbbdj7tplmsidw4ovi|VOL.71]] adds a perinatal mental-health branch: [[PostpartumDepressionRecognitionAndSupport]] combines emotional, cognitive, bodily, sleep, appetite, caregiving, functional, and safety changes; [[PerinatalMentalHealthPrevention]] moves screening and family planning before crisis; and [[PerinatalPsychiatricMedicationSharedDecision]] keeps pregnancy, lactation, untreated illness, medicine, and feeding choices individualized rather than governed by stigma or blanket rules. Evidence: [[vol-71-jingshenke-guanai-chanhou-yiyu-chanqian-yiji-yufang-chanhou-jujue-moshi-jiyu-gengduo-peiban-loossm3a72jbbdj7tplmsidw4ovi]], [[ZheBingShuoLaiHuaChang]], [[PostpartumDepressionRecognitionAndSupport]], [[PerinatalMentalHealthPrevention]], [[PerinatalPsychiatricMedicationSharedDecision]].
 
 ### Work, Education, and Society
 
-Learning and social capacity depend on active effort, feedback, fair role design, practical routines, trusted relationships, coordinated support, and context-sensitive health and technology literacy.
+Learning and social capacity depend on active effort, feedback, fair role design, practical routines, trusted relationships, coordinated support, and bounded clinical and technology literacy.
 
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough. Evidence: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], [[LearningExperienceDesign]].
 - AI and product/work sources repeatedly show that capability becomes useful only when embedded in [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]], workflows, distribution, and customer or classroom context. Evidence: [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].
