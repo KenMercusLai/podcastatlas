@@ -7,7 +7,8 @@ sources:
   - vol-136-ni-ye-bei-yizi-yingkong-le-dafu-kuai-jiujiu-jiuzuo-dagongren-ba-lovi71tk-wgo30v9myvd2f1gjdwu
   - build-a-strong-pain-proof-back-dr-stuart-mcgill-scim9911539455
   - vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms
-last_updated: 2026-09-28
+  - vol-13-jizhuwaike-dangdai-nianqingren-de-yaojianpan-weihe-ruci-tuchu-weihe-mingxing-de-le-qiangzhixing-jizhuyan-bingqing-dou-bu-zhong-lj3jo6rju4zbrlp3_qres3tdxjsa
+last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
 
@@ -25,6 +26,8 @@ The McGill episode adds task and anatomy dependence. Hip hinging and whole-body 
 
 VOL.58 adds sleep and ordinary-action examples. A tolerable sleep position should avoid sustained twisting or forced extension, while painful bending can be replaced temporarily with hip-and-knee-dominant squatting or another less provocative strategy. Neutral remains a feedback-guided movement option rather than a rule that every person must hold continuously.
 
+VOL.13 adds novice strength training and postoperative recurrence context. Squats, deadlifts, and heavy object pickup are treated as load-allocation tasks: technique, current capacity, supervision, and hip-and-knee contribution matter more than the exercise name alone. Neutral control reduces one avoidable exposure but cannot guarantee that a disc will not herniate or recur.
+
 ## Key Claims
 - Repeated slumped flexion, uncontrolled extension, or rotation can increase lumbar stress in susceptible contexts.
 - Hip and knee motion can reduce unnecessary waist-dominant movement during lifting and daily tasks.
@@ -40,12 +43,13 @@ VOL.58 adds sleep and ordinary-action examples. A tolerable sleep position shoul
 - Hip-hinge and stiffness mechanics: [[build-a-strong-pain-proof-back-dr-stuart-mcgill-scim9911539455]] teaches hip hinging and whole-body stiffness before heavy loading.
 - Anatomy and range: [[build-a-strong-pain-proof-back-dr-stuart-mcgill-scim9911539455]] recommends assessing hip structure and modifying bar height, range, or exercise when pulling from the floor is a poor fit.
 - Sleep and daily substitution: [[vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms|VOL.58]] applies neutral positioning to sleep comfort, object pickup, and replacing pain-provoking waist flexion with hip and knee movement.
+- Novice lifting and recurrence context: [[vol-13-jizhuwaike-dangdai-nianqingren-de-yaojianpan-weihe-ruci-tuchu-weihe-mingxing-de-le-qiangzhixing-jizhuyan-bingqing-dou-bu-zhong-lj3jo6rju4zbrlp3_qres3tdxjsa|VOL.13]] applies spinal control, hip-and-knee contribution, capacity matching, and supervision to lifting, squats, deadlifts, and post-treatment risk reduction.
 
 ## Counterevidence & Qualifications
 The sources do not claim that one posture cures disc disease or prevents every injury. Natural spinal motion remains necessary, and the useful range varies by anatomy, task, symptoms, and training state. Sustained standing is not automatically the answer to sustained sitting, and neurological or worsening symptoms require clinical review.
 
 ## What Changed
-- Extended neutral-position reasoning to sleep and pain-aware substitution of everyday actions.
+- Added novice strength-training and postoperative-recurrence contexts while preserving neutral position as a conditional control strategy rather than a guarantee.
 
 ## Related Concepts
 - [[LumbarDiscHerniation]] - condition whose symptom management may use controlled lumbar loading.

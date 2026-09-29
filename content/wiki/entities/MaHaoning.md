@@ -11,14 +11,15 @@ sources:
   - vol-90-yundong-yixue-pengyou-ni-huaxue-ma-bugai-yao-chenzao-kemu-san-jinji-renqun-lvfameb1ztoxm5yx5e-ylsrekbsq
   - vol-59-mazuike-jizhuwai-ke-shuzhong-zhixiao-guiyachuang-changjian-ma-yaoteng-shi-mazui-zaocheng-de-ma-chanfu-dou-shihe-wutong-fenmian-ma-lp7ibbaykdfkwlpwdj8zdwejodtr
   - vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms
-last_updated: 2026-09-28
+  - vol-13-jizhuwaike-dangdai-nianqingren-de-yaojianpan-weihe-ruci-tuchu-weihe-mingxing-de-le-qiangzhixing-jizhuyan-bingqing-dou-bu-zhong-lj3jo6rju4zbrlp3_qres3tdxjsa
+last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
 
 # 马浩宁 / Ma Haoning
 
 ## Overview
-马浩宁 is an orthopedic and spine-surgery guest in [[ZheBingShuoLaiHuaChang|这病说来话长]] episodes on first encounters with patient death, neck and lower-back discomfort, lumbar disc herniation, sedentary-work health, and outpatient missed-diagnosis prevention.
+马浩宁 is an orthopedic and spine-surgery guest in [[ZheBingShuoLaiHuaChang|这病说来话长]] episodes on first encounters with patient death, neck and lower-back discomfort, lumbar disc herniation, ankylosing spondylitis, sedentary-work health, and outpatient missed-diagnosis prevention.
 
 ## Current Profile
 The source presents Ma Haoning as a spine surgeon using a physical model and ordinary-life examples to make [[LumbarDiscHerniation|腰椎间盘突出]] intelligible. His explanation moves from anatomy to treatment choice: disc shape on MRI matters, but [[SymptomDrivenSpineCare|symptom-driven spine care]] requires matching the image to pain, numbness, motor function, bowel or bladder function, and a clinician's reading of the actual film.
@@ -37,10 +38,12 @@ VOL.59 adds a peri-anesthesia spine perspective. Ma helps distinguish later back
 
 VOL.58 adds an earlier listener-Q&A expression of the same spine-care philosophy. Ma places movement breaks and active strengthening ahead of office gadgets, interprets bulging and protrusion through symptoms rather than report wording, distinguishes urgent neurological or uncontrollable-pain criteria from elective quality-of-life decisions, and turns rehabilitation into daily action substitution as well as formal exercise.
 
+VOL.13 adds his distinction between inflammatory disease control and mechanical correction. He presents [[AnkylosingSpondylitis|强直性脊柱炎]] as an immune-mediated rheumatic disease requiring medical management before severe deformity develops, with surgery reserved for selected structural or neurological consequences. In the same episode, he separates persistent disc morphology from clinical recovery and compares conservative care, minimally invasive removal, fusion, recurrence, and long-term movement management without making one procedure the default.
+
 ## Key Characteristics
 - Explains spine anatomy through models and simple body analogies.
 - Distinguishes radiology-report wording from clinical severity and treatment urgency.
-- Treats surgery as individualized tradeoff rather than a default answer to every protrusion.
+- Treats surgery as an individualized tradeoff and separates correction of structural consequences from control of an underlying inflammatory disease.
 - Emphasizes gradual rehabilitation and avoidance of early overload after surgery or injury.
 - Converts clinical guidance into concrete movement habits, return thresholds, low-cost safety checks, and capacity-matched sport participation.
 - Treats posture cues, pillows, heat, massage, chairs, collars, lumbar supports, and neuraxial-procedure concerns as conditional issues requiring anatomical and clinical context rather than one-cause attribution.
@@ -61,18 +64,21 @@ VOL.58 adds an earlier listener-Q&A expression of the same spine-care philosophy
 
 - Spine and neuraxial context: [[vol-59-mazuike-jizhuwai-ke-shuzhong-zhixiao-guiyachuang-changjian-ma-yaoteng-shi-mazui-zaocheng-de-ma-chanfu-dou-shihe-wutong-fenmian-ma-lp7ibbaykdfkwlpwdj8zdwejodtr|VOL.59]] links previous lumbar surgery and altered tissue planes with more difficult neuraxial placement or less predictable drug spread while resisting automatic attribution of later back pain to anesthesia.
 - Listener-Q&A synthesis: [[vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms|VOL.58]] links desk-work prevention, imaging interpretation, surgery thresholds, daily movement substitution, and active rehabilitation while keeping congenital, inflammatory, and listener-specific questions source-scoped.
+- Inflammatory-disease boundary: [[vol-13-jizhuwaike-dangdai-nianqingren-de-yaojianpan-weihe-ruci-tuchu-weihe-mingxing-de-le-qiangzhixing-jizhuyan-bingqing-dou-bu-zhong-lj3jo6rju4zbrlp3_qres3tdxjsa|VOL.13]] distinguishes medical control of ankylosing spondylitis from later surgery for selected deformity or neurological consequences.
+- Disc-treatment tradeoffs: [[vol-13-jizhuwaike-dangdai-nianqingren-de-yaojianpan-weihe-ruci-tuchu-weihe-mingxing-de-le-qiangzhixing-jizhuyan-bingqing-dou-bu-zhong-lj3jo6rju4zbrlp3_qres3tdxjsa|VOL.13]] separates imaging persistence from symptom recovery and contrasts conservative care, minimally invasive removal, fusion, recurrence, and movement management.
 
 ## Qualifications
-The wiki has no independent biographical evidence for Ma Haoning beyond these podcast notes. His professional identity, career-choice recollection, examples, posture mechanics, cervical-curvature and whiplash claims, exercise selection, ride and headrest cautions, product cautions, neuraxial-placement explanation, and treatment framing should remain tied to the sources until additional material is ingested. VOL.59's pressure-related disc-worsening claim is preserved as theoretical rather than a universal contraindication. VOL.58's compressed inheritance, ankylosing-spondylitis, congenital-variation, surgery, and exercise statements are public education rather than complete genetic or clinical guidance.
+The wiki has no independent biographical evidence for Ma Haoning beyond these podcast notes. His professional identity, career-choice recollection, examples, posture mechanics, cervical-curvature and whiplash claims, exercise selection, ride and headrest cautions, product cautions, neuraxial-placement explanation, and treatment framing should remain tied to the sources until additional material is ingested. VOL.59's pressure-related disc-worsening claim is preserved as theoretical rather than a universal contraindication. VOL.58's compressed inheritance, ankylosing-spondylitis, congenital-variation, surgery, and exercise statements are public education rather than complete genetic or clinical guidance. VOL.13's age pattern, test suggestions, “controllable” framing, operation comparisons, motion estimate, recurrence claims, and exercise risks likewise do not define diagnosis, prognosis, or individual treatment.
 
 ## What Changed
-- Added the earlier listener-Q&A evidence joining desk-work prevention, symptom-led imaging interpretation, and active rehabilitation.
-- Clarified his distinction between urgent surgical indicators and elective decisions shaped by recurrent quality-of-life burden.
+- Added the earlier distinction between immune-disease control and surgery for selected structural consequences of ankylosing spondylitis.
+- Expanded his disc-care profile with imaging-versus-clinical recovery, minimally invasive versus fusion tradeoffs, and recurrence management.
 
 ## Relationships
 - [[ChinaJapanFriendshipHospital]] - hospital affiliation named for Ma in VOL.58.
 - [[ZheBingShuoLaiHuaChang]] - show where he appears as the spine-surgery guest.
 - [[LumbarDiscHerniation]] - main condition he explains.
+- [[AnkylosingSpondylitis]] - inflammatory spine disease whose medical and surgical boundaries he explains in VOL.13.
 - [[SymptomDrivenSpineCare]] - diagnostic and treatment-decision boundary he emphasizes.
 - [[LumbarNeutralPosition]] - movement principle he uses for prevention and training.
 - [[SpineRehabilitationProgression]] - recovery pattern he describes after surgery and during conservative care.

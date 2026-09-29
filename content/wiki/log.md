@@ -25351,3 +25351,7 @@ Added source `294-lady-jane-grey-the-axe-falls-part-2-glt7286066638`; created `L
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | VOL.13脊柱外科｜当代年轻人的腰间盘为何如此突出｜为何明星得了强直性脊柱炎病情都不重
+
+Added source `vol-13-jizhuwaike-dangdai-nianqingren-de-yaojianpan-weihe-ruci-tuchu-weihe-mingxing-de-le-qiangzhixing-jizhuyan-bingqing-dou-bu-zhong-lj3jo6rju4zbrlp3_qres3tdxjsa`; created `AnkylosingSpondylitis`; and expanded `MaHaoning`, `LumbarDiscHerniation`, and `LumbarNeutralPosition` from their complete bounded source sets. Core synthesis: ankylosing spondylitis requires medical control of immune-mediated inflammation before surgery for selected structural consequences; lumbar-disc morphology does not determine clinical recovery by itself; and procedure choice, recurrence reduction, posture, and training remain symptom-, function-, and capacity-dependent. No settled contradiction was adopted. Screening cues, treatment affordability, medication effects, procedure comparisons, recurrence patterns, biomechanics, and exercise risks remain source-scoped public education rather than diagnosis or individualized care. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.

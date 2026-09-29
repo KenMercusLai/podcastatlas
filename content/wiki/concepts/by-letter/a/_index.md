@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 8802
+wiki_total_pages: 8803
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1979,6 +1979,9 @@ wiki_pages:
   - key: "AnimationStudioCreativeEcology"
     title: "Animation Studio Creative Ecology"
     url: "/wiki/concepts/animationstudiocreativeecology/"
+  - key: "AnkylosingSpondylitis"
+    title: "Ankylosing Spondylitis / 强直性脊柱炎"
+    url: "/wiki/concepts/ankylosingspondylitis/"
   - key: "AnnualFitnessPeriodization"
     title: "Annual Fitness Periodization"
     url: "/wiki/concepts/annualfitnessperiodization/"
