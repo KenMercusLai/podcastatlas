@@ -5,7 +5,8 @@ tags: [resilience, agency, grief, self-regulation]
 sources:
   - essentials-how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim2090153799
   - the-mental-frame-specific-daily-actions-to-succeed-andy-stumpf-scim2498586099
-last_updated: 2026-09-02
+  - how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim5755591173
+last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
 
@@ -15,7 +16,7 @@ knowledge_schema: synthesis-v1
 Action after adversity is the practice of acknowledging loss, pain, or setback, extracting usable information, and taking a next constructive step before distress becomes the only active force in the situation.
 
 ## Current Synthesis
-The current sources treat action as an agency-restoring move after adversity, but not as denial. Willink gives the grief and setback pattern: mourn, analyze, and return to constructive work. Stumpf adds a harder domestic and personal version through divorce, estrangement from his oldest son, ignored physical pain, and suicide discussion. In that layer, action may shrink to sorting concern from influence, shortening the time frame, managing self-talk, speaking honestly about pain, or staying available for reconnection.
+The current sources treat action as an agency-restoring move after adversity, but not as denial. Willink gives the grief and setback pattern: mourn, analyze, prepare, and return to constructive work. The full conversation grounds that judgment in his account of honoring Seth and other fallen teammates without wasting the opportunities they no longer have. Stumpf adds a harder domestic and personal version through divorce, estrangement from his oldest son, ignored physical pain, and suicide discussion. In that layer, action may shrink to sorting concern from influence, shortening the time frame, managing self-talk, speaking honestly about pain, or staying available for reconnection.
 
 The synthesis is therefore bounded. Acting after adversity can restore traction, but the constructive next step may be rest, treatment, outside help, legal process, apology, waiting, or regular connection. Agency is preserved by doing what the situation can actually support, not by pretending all pain can be outworked.
 
@@ -34,13 +35,16 @@ The synthesis is therefore bounded. Acting after adversity can restore traction,
 - Personal adversity tools: [[the-mental-frame-specific-daily-actions-to-succeed-andy-stumpf-scim2498586099]] says Stumpf used concern/influence sorting, shortened time frames, and self-talk management during a nearly two-year contentious divorce.
 - Reconnection boundary: [[the-mental-frame-specific-daily-actions-to-succeed-andy-stumpf-scim2498586099]] records Stumpf losing contact with his oldest son for 18 months and later having a closer relationship, implying availability without forced repair.
 - Pain and help: [[the-mental-frame-specific-daily-actions-to-succeed-andy-stumpf-scim2498586099]] has Stumpf connect emergency surgery after ignored pain to the lesson that being more open about pain helped him receive care.
+- Grief and honoring: [[how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim5755591173]] has Willink describe Seth's death, the wake, the gift of his black belt, and continued responsibility as a way to honor fallen teammates.
+- Risk qualification: [[how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim5755591173]] discusses suicide alongside possible brain injury, blast exposure, sleep disruption, alcohol, bipolar risk, and contagion without resolving cause.
 
 ## Counterevidence & Qualifications
-This concept should not be read as a demand for immediate productivity after grief, trauma, injury, abuse, family rupture, or acute danger. Sometimes the constructive next step is safety, rest, medical care, outside support, or professional help. Suicide risk and life-threatening distress belong near [[MentalHealthCrisisInterventionBoundary]], not inside ordinary self-command alone.
+This concept should not be read as a demand for immediate productivity after grief, trauma, injury, abuse, family rupture, or acute danger. Sometimes the constructive next step is mourning, safety, rest, medical care, outside support, or professional help. The full episode's speculative brain-injury and suicide discussion does not establish why any person died. Suicide risk and life-threatening distress belong near [[MentalHealthCrisisInterventionBoundary]], not inside ordinary self-command alone.
 
 ## What Changed
-- Added Stumpf's divorce, parenting estrangement, pain-disclosure, and suicide-context material as a non-military adversity branch.
-- Clarified that the next action can be support, communication, or narrowed time-frame management rather than visible productivity.
+- Added the full episode's Seth account as deeper evidence that honoring loss can coexist with ongoing responsibility.
+- Added explicit limits around causal inference from brain injury, sleep, alcohol, bipolar risk, or contagion to suicide.
+- Preserved mourning, support, and care as valid actions rather than equating resilience with immediate productivity.
 
 ## Related Concepts
 - [[DisciplineOverMotivation]] - behavioral route for acting without waiting for motivation to return.

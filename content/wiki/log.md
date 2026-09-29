@@ -25474,3 +25474,11 @@ Added source `tech-20260929-0929-mp-tech-pod-128-tech-20260929-0929-mp-tech-pod-
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | How to Become Resilient, Forge Your Identity & Lead Others | Jocko Willink
+
+Added source `how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim5755591173`; created `DecentralizedCommandLeadership` and `TeamRoleFitLeadership`; and expanded `JockoWillink`, `DisciplineOverMotivation`, `OperationalDetachment`, `LeadershipEmotionalCounterweight`, `ActionAfterAdversity`, and `AutonomicStressTraining` from their complete bounded source sets. Core synthesis: discipline reduces repeated negotiation, but effective leadership also requires clear intent, distributed judgment, emotional counterweight, perspective-taking, and role fit; bounded discomfort can support readiness only when timing, recovery, safety, and the following task are respected. No settled contradiction was adopted. Cold, dopamine, cortisol, hydration, alcohol, brain-injury, suicide, parenting, dog-temperament, and political-leadership claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

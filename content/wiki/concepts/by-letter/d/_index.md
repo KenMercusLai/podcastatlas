@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 8825
+wiki_total_pages: 8827
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -296,6 +296,9 @@ wiki_pages:
   - key: "DecentralizedAIControl"
     title: "Decentralized AI Control"
     url: "/wiki/concepts/decentralizedaicontrol/"
+  - key: "DecentralizedCommandLeadership"
+    title: "Decentralized Command Leadership"
+    url: "/wiki/concepts/decentralizedcommandleadership/"
   - key: "DecentralizedWorldModelStrategy"
     title: "Decentralized World Model Strategy"
     url: "/wiki/concepts/decentralizedworldmodelstrategy/"

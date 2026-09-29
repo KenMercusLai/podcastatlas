@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Become Resilient, Forge Your Identity & Lead Others | Jocko Willink](sources/how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim5755591173.md) — Full Huberman Lab conversation on discipline, energy, intent-led command, detachment, morale, role fit, grief, identity, and bounded resilience practice.
 - [Why one X user is microblogging history in real time](sources/tech-20260929-0929-mp-tech-pod-128-tech-20260929-0929-mp-tech-pod-128.md) — Marketplace Tech profile of Manny Morota's manual, real-time historical feeds, intergenerational memory, misinformation framing, community norms, and trauma-monetization boundary.
 - [504 林行止、《信报》与香港经济黄金年代](sources/504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih.md) — 忽左忽右 retrospective on Lin Xingzhi, the Hong Kong Economic Journal, financial knowledge translation, editorial independence, and founder-to-group media ownership transition.
 - [VOL.001｜从模型到记忆，AI竞争的新战场已经出现｜对话 MemVerge CEO Charles](sources/lsh8sdro6i9mkt5nug4zkibv95tn.md) — 为 AI 发电 episode on Memory Machine, Memory Box, local and hybrid personal memory, lifecycle maintenance, data sovereignty, and personal-enterprise ownership.
@@ -6023,7 +6024,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [赵典 / Zhao Dian (late Han)](entities/ZhaoDianLateHan.md) — Taichang whose recommendation brings Xun Shuang into Emperor Huan's post-eclipse court examination field.
 - [Sam Harris](entities/SamHarris.md) — Huberman Lab guest presenting meditation as first-person inquiry into consciousness, selfing, thought identification, psychedelics, and ordinary freedom.
 - [MDMA](entities/MDMA.md) — Source-scoped psychedelic/entactogenic substance Harris names as important to his early interest in meditation and first-person inquiry.
-- [Jocko Willink](entities/JockoWillink.md) — Huberman Lab Essentials guest framing discipline, resilience, detachment, leadership, identity, and action after adversity through lived military and training experience.
+- [Jocko Willink](entities/JockoWillink.md) — Huberman Lab guest framing discipline, resilience, detachment, decentralized command, role fit, identity, and action after adversity through lived military and training experience.
 - [Max Krummel](entities/MaxKrummel.md) — Immunologist and cancer biologist explaining immune-system tuning, T-cell education, immune aging, sleep repair, vaccines, brain-immune coupling, and intervention caution.
 - [University of California San Francisco / UCSF](entities/UniversityOfCaliforniaSanFrancisco.md) — Biomedical-research institution named as the academic context for Max Krummel's immunology work and Elissa Epel's stress, aging, metabolism, and emotion research.
 - [Sara Gottfried](entities/SaraGottfried.md) — Physician and Huberman Lab guest explaining female hormone phenotyping, PCOS risk, contraception tradeoffs, perimenopause brain metabolism, and midlife screening.
@@ -14667,6 +14668,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Auschwitz-Birkenau](entities/AuschwitzBirkenau.md) — Nazi concentration and extermination complex examined through forced labor, confiscation, registration, deception, mass killing, and escapee evidence.
 
 ## Concepts
+- [Decentralized Command Leadership](concepts/DecentralizedCommandLeadership.md) — Intent-led operating model that distributes local judgment while preserving doctrine, competence, context, and accountability.
+- [Team Role-Fit Leadership](concepts/TeamRoleFitLeadership.md) — Leadership practice of matching execution, creation, communication, and support responsibilities to demonstrated strengths without fixing people into permanent labels.
 - [Real-Time Historical Reenactment](concepts/RealTimeHistoricalReenactment.md) — Delivery of archival events in unfolding sequence so audiences encounter period uncertainty before retrospective resolution.
 - [Platform-Native Public History](concepts/PlatformNativePublicHistory.md) — Historical interpretation designed around a digital platform's native interface, cadence, audience habits, and community incentives.
 - [Financial Commentary Knowledge Translation / 财经评论的知识转译](concepts/FinancialCommentaryKnowledgeTranslation.md) — Practice of connecting markets to economics, institutions, policy, and international affairs in accessible Chinese.
