@@ -27630,9 +27630,9 @@
       "url": "/wiki/entities/charlesalexandredecalonne/"
     },
     "CharlesDarwin": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 3,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "EP256 AI时代,“自由意志”还存在吗？ [lk9AcI8oqNwerk26JY683NbDddCX].md",
@@ -27675,9 +27675,16 @@
           "show": "The Rest Is History",
           "title": "426. History's Greatest Monkeys",
           "url": "/wiki/sources/426-historys-greatest-monkeys-glt5532014348/"
+        },
+        {
+          "episode_file": "GLT2992613399 [GLT2992613399].md",
+          "key": "283-ecuador-darwins-adventure-to-the-galapagos-glt2992613399",
+          "show": "The Rest Is History",
+          "title": "283: Ecuador: Darwin's Adventure to the Galapagos",
+          "url": "/wiki/sources/283-ecuador-darwins-adventure-to-the-galapagos-glt2992613399/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-09-30",
       "url": "/wiki/entities/charlesdarwin/"
     },
     "CharlesDawson": {
@@ -49588,6 +49595,29 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/ecovacsrobotics/"
     },
+    "Ecuador": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "商业小样45 ｜ 厄尔尼诺越大，鱼越贵 [1000164352].md",
+          "key": "shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352",
+          "show": "商业就是这样",
+          "title": "商业小样45 | 厄尔尼诺越大，鱼越贵",
+          "url": "/wiki/sources/shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352/"
+        },
+        {
+          "episode_file": "GLT2992613399 [GLT2992613399].md",
+          "key": "283-ecuador-darwins-adventure-to-the-galapagos-glt2992613399",
+          "show": "The Rest Is History",
+          "title": "283: Ecuador: Darwin's Adventure to the Galapagos",
+          "url": "/wiki/sources/283-ecuador-darwins-adventure-to-the-galapagos-glt2992613399/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/ecuador/"
+    },
     "EdKoch": {
       "episode_count": 1,
       "show_count": 1,
@@ -56923,6 +56953,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/evolutionarymisrecognition/"
+    },
+    "EvolutionaryTheoryFormation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2992613399 [GLT2992613399].md",
+          "key": "283-ecuador-darwins-adventure-to-the-galapagos-glt2992613399",
+          "show": "The Rest Is History",
+          "title": "283: Ecuador: Darwin's Adventure to the Galapagos",
+          "url": "/wiki/sources/283-ecuador-darwins-adventure-to-the-galapagos-glt2992613399/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/evolutionarytheoryformation/"
     },
     "ExMachinaFilm": {
       "episode_count": 1,
@@ -67681,6 +67727,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/galahad/"
     },
+    "GalapagosIslands": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2992613399 [GLT2992613399].md",
+          "key": "283-ecuador-darwins-adventure-to-the-galapagos-glt2992613399",
+          "show": "The Rest Is History",
+          "title": "283: Ecuador: Darwin's Adventure to the Galapagos",
+          "url": "/wiki/sources/283-ecuador-darwins-adventure-to-the-galapagos-glt2992613399/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/galapagosislands/"
+    },
     "GalileanJudeanCulturalBoundary": {
       "episode_count": 1,
       "show_count": 1,
@@ -74541,6 +74603,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/entities/hhasquith/"
+    },
+    "HMSBeagle": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2992613399 [GLT2992613399].md",
+          "key": "283-ecuador-darwins-adventure-to-the-galapagos-glt2992613399",
+          "show": "The Rest Is History",
+          "title": "283: Ecuador: Darwin's Adventure to the Galapagos",
+          "url": "/wiki/sources/283-ecuador-darwins-adventure-to-the-galapagos-glt2992613399/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/hmsbeagle/"
     },
     "HPVPreventionAndFollowup": {
       "episode_count": 3,
@@ -90941,6 +91019,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/concepts/islandadventureinversion/"
     },
+    "IslandVariationEvolutionaryEvidence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2992613399 [GLT2992613399].md",
+          "key": "283-ecuador-darwins-adventure-to-the-galapagos-glt2992613399",
+          "show": "The Rest Is History",
+          "title": "283: Ecuador: Darwin's Adventure to the Galapagos",
+          "url": "/wiki/sources/283-ecuador-darwins-adventure-to-the-galapagos-glt2992613399/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/islandvariationevolutionaryevidence/"
+    },
     "IsolatedRetailDemandManagement": {
       "episode_count": 1,
       "show_count": 1,
@@ -94936,6 +95030,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/johngottman/"
+    },
+    "JohnGould": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2992613399 [GLT2992613399].md",
+          "key": "283-ecuador-darwins-adventure-to-the-galapagos-glt2992613399",
+          "show": "The Rest Is History",
+          "title": "283: Ecuador: Darwin's Adventure to the Galapagos",
+          "url": "/wiki/sources/283-ecuador-darwins-adventure-to-the-galapagos-glt2992613399/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/johngould/"
     },
     "JohnGroner": {
       "episode_count": 1,
@@ -123286,6 +123396,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/concepts/naturalintelligenceaiboundary/"
     },
+    "NaturalSelectionBiology": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2992613399 [GLT2992613399].md",
+          "key": "283-ecuador-darwins-adventure-to-the-galapagos-glt2992613399",
+          "show": "The Rest Is History",
+          "title": "283: Ecuador: Darwin's Adventure to the Galapagos",
+          "url": "/wiki/sources/283-ecuador-darwins-adventure-to-the-galapagos-glt2992613399/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/naturalselectionbiology/"
+    },
     "NaturalizedPlayerPolicyInChineseFootball": {
       "episode_count": 2,
       "show_count": 1,
@@ -148384,6 +148510,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/entities/robertfkennedy/"
     },
+    "RobertFitzRoy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2992613399 [GLT2992613399].md",
+          "key": "283-ecuador-darwins-adventure-to-the-galapagos-glt2992613399",
+          "show": "The Rest Is History",
+          "title": "283: Ecuador: Darwin's Adventure to the Galapagos",
+          "url": "/wiki/sources/283-ecuador-darwins-adventure-to-the-galapagos-glt2992613399/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/robertfitzroy/"
+    },
     "RobertFrancoisDamiens": {
       "episode_count": 1,
       "show_count": 1,
@@ -169531,9 +169673,9 @@
       "url": "/wiki/entities/theprincipleofresponsibility/"
     },
     "TheRestIsHistory": {
-      "episode_count": 33,
+      "episode_count": 34,
       "show_count": 1,
-      "source_note_count": 33,
+      "source_note_count": 34,
       "sources": [
         {
           "episode_file": "GLT4665799025 [GLT4665799025].md",
@@ -169765,9 +169907,16 @@
           "show": "The Rest Is History",
           "title": "376. Baghdad: The Forging of Islam (Part 1)",
           "url": "/wiki/sources/376-baghdad-the-forging-of-islam-part-1-glt9529602805/"
+        },
+        {
+          "episode_file": "GLT2992613399 [GLT2992613399].md",
+          "key": "283-ecuador-darwins-adventure-to-the-galapagos-glt2992613399",
+          "show": "The Rest Is History",
+          "title": "283: Ecuador: Darwin's Adventure to the Galapagos",
+          "url": "/wiki/sources/283-ecuador-darwins-adventure-to-the-galapagos-glt2992613399/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-30",
       "url": "/wiki/entities/therestishistory/"
     },
     "TheRollingStones": {

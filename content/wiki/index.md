@@ -3242,9 +3242,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [291: The Man Who Escaped Auschwitz](sources/291-the-man-who-escaped-auschwitz-glt6191002964.md) — The Rest Is History episode on Rudolf Vrba and Alfred Wetzler's escape, deception inside Auschwitz, and the evidentiary construction of their report.
 - [290: 2022: A History](sources/290-2022-a-history-glt4625765030.md) — The Rest Is History year-end episode on Ukraine as a post-Cold War rupture, European energy dependence, Elizabeth II's death, British political turmoil, and 2022 cultural recommendations.
 - [285: Canada: Beaver Wars](sources/285-canada-beaver-wars-glt6084067740.md) — The Rest Is History episode on beavers as landscape engineers and commodities connecting Indigenous use, colonial rivalry, fur-trade empire, ecological collapse, and conservation.
+- [283: Ecuador: Darwin's Adventure to the Galapagos](sources/283-ecuador-darwins-adventure-to-the-galapagos-glt2992613399.md) — The Rest Is History episode on Darwin's Beagle voyage, Galapagos variation, Gould's finch classification, and the gradual formation of evolutionary theory.
 - [284: Denmark: The Great Escape](sources/284-denmark-the-great-escape-glt4809968647.md) — The Rest Is History episode on warning, civic networks, Oresund transport, Swedish refuge, and the multi-causal rescue of the Danish Jews.
 
 ## Entities
+- [Galapagos Islands / 加拉帕戈斯群岛](entities/GalapagosIslands.md) — Ecuadorian volcanic archipelago whose island variation became an emblem of Darwinian evolution and biodiversity fragility.
+- [HMS Beagle](entities/HMSBeagle.md) — Survey vessel connecting Darwin's South American and Galapagos field observations to later analysis in Britain.
+- [Robert FitzRoy](entities/RobertFitzRoy.md) — Beagle captain, Darwin's political contrast, and witness to the Galapagos' bleak volcanic landscape.
+- [John Gould](entities/JohnGould.md) — Ornithologist whose reclassification of Darwin's Galapagos birds clarified the finch evidence chain.
 - [Chetan Bhagat](entities/ChetanBhagat.md) — Indian writer and former investment banker connecting accessible fiction, education and labor inequality, achievement psychology, AI-era authorship, and examined success.
 - [Beaver Wars](entities/BeaverWars.md) — Seventeenth-century conflict complex joining Indigenous strategy and rivalry to fur-trade competition and European colonial intervention.
 - [Hudson's Bay Company](entities/HudsonsBayCompany.md) — Chartered company connecting beaver commerce, Rupert's Land, mapping, and British imperial power.
@@ -14706,6 +14711,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Christian X of Denmark](entities/ChristianXOfDenmark.md) — Occupation-era monarch symbolizing national continuity and Jewish civic inclusion while the yellow-star story remains a myth.
 
 ## Concepts
+- [Natural Selection (Biology) / 生物学自然选择](concepts/NaturalSelectionBiology.md) — Biological process grounded here through island variation, local adaptation, and Darwin's gradual interpretation.
+- [Evolutionary Theory Formation](concepts/EvolutionaryTheoryFormation.md) — Distributed discovery process joining field observation, provenance, classification, comparison, publication, and revision.
+- [Island Variation as Evolutionary Evidence](concepts/IslandVariationEvolutionaryEvidence.md) — Comparative pattern in which related organisms differ across neighboring islands in evolutionarily informative ways.
 - [Imaging Radiation Risk-Benefit / 影像辐射风险收益](concepts/ImagingRadiationRiskBenefit.md) — Modality-, dose-, indication-, and context-aware framework balancing diagnostic value against ionizing-radiation exposure.
 - [Contrast Media Safety and Consent / 造影剂安全与知情同意](concepts/ContrastMediaSafetyAndConsent.md) — Framework distinguishing contrast enhancement from radioactive tracers while joining risk screening, consent, monitoring, and response readiness.
 - [Achievement as Adaptive Overdrive](concepts/AchievementAsAdaptiveOverdrive.md) — Pattern in which adversity-powered ambition remains active after the threat changes, requiring success to be separated from wellbeing.

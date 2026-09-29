@@ -1477,6 +1477,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "283-ecuador-darwins-adventure-to-the-galapagos-glt2992613399": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "284-denmark-the-great-escape-glt4809968647": [
     {
       "key": "history",
@@ -53816,6 +53823,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "NaturalSelectionBiology": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "NaturalizedPlayerPolicyInChineseFootball": [

@@ -947,6 +947,10 @@
     "title": "28.聊斋志异：不为君王唱赞歌，偏向苍生说鬼话",
     "url": "/wiki/sources/28-liaozhai-zhiyi-buwei-junwang-chang-zange-pianxiang-cangsheng-shuo-guihua-587843930/"
   },
+  "283-ecuador-darwins-adventure-to-the-galapagos-glt2992613399": {
+    "title": "283: Ecuador: Darwin's Adventure to the Galapagos",
+    "url": "/wiki/sources/283-ecuador-darwins-adventure-to-the-galapagos-glt2992613399/"
+  },
   "284-denmark-the-great-escape-glt4809968647": {
     "title": "284: Denmark: The Great Escape",
     "url": "/wiki/sources/284-denmark-the-great-escape-glt4809968647/"
@@ -25155,6 +25159,10 @@
     "title": "Evolutionary Misrecognition / 进化式误认",
     "url": "/wiki/concepts/evolutionarymisrecognition/"
   },
+  "EvolutionaryTheoryFormation": {
+    "title": "Evolutionary Theory Formation",
+    "url": "/wiki/concepts/evolutionarytheoryformation/"
+  },
   "EvolutionaryTraitInterpretation": {
     "title": "Evolutionary Trait Interpretation",
     "url": "/wiki/concepts/evolutionarytraitinterpretation/"
@@ -29231,6 +29239,10 @@
     "title": "Galahad",
     "url": "/wiki/entities/galahad/"
   },
+  "GalapagosIslands": {
+    "title": "Galapagos Islands / 加拉帕戈斯群岛",
+    "url": "/wiki/entities/galapagosislands/"
+  },
   "GalileanJudeanCulturalBoundary": {
     "title": "Galilean-Judean Cultural Boundary",
     "url": "/wiki/concepts/galileanjudeanculturalboundary/"
@@ -31962,6 +31974,10 @@
   "HMOManagedCare": {
     "title": "HMO Managed Care",
     "url": "/wiki/concepts/hmomanagedcare/"
+  },
+  "HMSBeagle": {
+    "title": "HMS Beagle",
+    "url": "/wiki/entities/hmsbeagle/"
   },
   "HOKA": {
     "title": "HOKA",
@@ -37587,6 +37603,10 @@
     "title": "Island Extinction After Human Arrival",
     "url": "/wiki/concepts/islandextinctionafterhumanarrival/"
   },
+  "IslandVariationEvolutionaryEvidence": {
+    "title": "Island Variation as Evolutionary Evidence",
+    "url": "/wiki/concepts/islandvariationevolutionaryevidence/"
+  },
   "IsolatedRetailDemandManagement": {
     "title": "Isolated Retail Demand Management",
     "url": "/wiki/concepts/isolatedretaildemandmanagement/"
@@ -39510,6 +39530,10 @@
   "JohnGottman": {
     "title": "John Gottman / 约翰·哥特曼",
     "url": "/wiki/entities/johngottman/"
+  },
+  "JohnGould": {
+    "title": "John Gould",
+    "url": "/wiki/entities/johngould/"
   },
   "JohnGraham": {
     "title": "John Graham",
@@ -51211,6 +51235,10 @@
     "title": "Natural Selection / 自然选择",
     "url": "/wiki/entities/naturalselection/"
   },
+  "NaturalSelectionBiology": {
+    "title": "Natural Selection (Biology) / 生物学自然选择",
+    "url": "/wiki/concepts/naturalselectionbiology/"
+  },
   "NaturalWine": {
     "title": "Natural Wine",
     "url": "/wiki/concepts/naturalwine/"
@@ -62082,6 +62110,10 @@
   "RobertFKennedyJr": {
     "title": "Robert F. Kennedy Jr.",
     "url": "/wiki/entities/robertfkennedyjr/"
+  },
+  "RobertFitzRoy": {
+    "title": "Robert FitzRoy",
+    "url": "/wiki/entities/robertfitzroy/"
   },
   "RobertForsythe": {
     "title": "Robert Forsythe",

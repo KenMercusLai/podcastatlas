@@ -36,7 +36,8 @@ sources:
   - 416-the-canterbury-tales-part-4-glt1956280616
   - 401-windrush-the-story-of-black-britain-glt4826407019
   - 376-baghdad-the-forging-of-islam-part-1-glt9529602805
-last_updated: 2026-09-27
+  - 283-ecuador-darwins-adventure-to-the-galapagos-glt2992613399
+last_updated: 2026-09-30
 knowledge_schema: synthesis-v1
 ---
 
@@ -44,9 +45,11 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-The Rest Is History is a narrative podcast represented in the wiki through selected multi-part historical branches, including ancient Greek war memory, a 1915 [[FirstWorldWar|First World War]] branch, national-symbol and sport-politics episodes, literary and legendary afterlives, founding and Roman political-crisis branches, medieval Anglo-French and Chaucer branches, comparative African female power, early Quaker abolitionist activism, postwar Caribbean British migration, and [[LordByron|Lord Byron / 拜伦]]'s celebrity, Gothic, and philhellenic afterlives.
+The Rest Is History is a narrative podcast represented in the wiki through selected multi-part historical branches, including ancient Greek war memory, science history and [[CharlesDarwin|Darwin]], a 1915 [[FirstWorldWar|First World War]] branch, national-symbol and sport-politics episodes, literary and legendary afterlives, founding and Roman political-crisis branches, medieval Anglo-French and Chaucer branches, comparative African female power, early Quaker abolitionist activism, postwar Caribbean British migration, and [[LordByron|Lord Byron / 拜伦]]'s celebrity, Gothic, and philhellenic afterlives.
 
 ## Current Profile
+
+The science-history branch uses the [[GalapagosIslands|Galapagos Islands]] to resist an instant-genius origin story. [[283-ecuador-darwins-adventure-to-the-galapagos-glt2992613399]] follows Darwin from South American geology through island-specific mockingbirds, confusing finches, [[JohnGould]]'s later classification, and progressively bolder publication, making [[EvolutionaryTheoryFormation]] a collaborative process rather than a single revelation.
 
 The current wiki profile now includes an ancient Greek war-memory branch through the show's Marathon episode. [[669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260]] uses [[BattleOfMarathon]], [[Athens]], [[Miltiades]], [[AchaemenidEmpire]], [[Herodotus]], [[Pheidippides]], and [[GrecoPersianWarMemory]] to reconstruct a battle as containment, tactical risk, civic survival, and later ideological afterlife rather than a simple freedom-versus-despotism tableau.
 
@@ -72,7 +75,7 @@ The Byron branch now begins with family mythology, childhood adversity, educatio
 
 ## Key Characteristics
 
-- The show is used as a source of chronological narrative history with emphasis on decisions, symbols, inherited constraints, contingency, and multi-part sequences, from Marathon's tactical and memory problem and the 1915 war branch to the late Umayyad prehistory of Abbasid Baghdad.
+- The show is used as a source of chronological narrative history with emphasis on decisions, evidence chains, symbols, inherited constraints, contingency, and multi-part sequences, from Darwin's delayed interpretation and Marathon's memory problem to the 1915 war branch and late Umayyad prehistory of Abbasid Baghdad.
 - Its abolitionist branch uses Benjamin Lay to connect Quaker equality, plantation slavery, ethical consumption, public stunts, and institutional discipline.
 - Its African female-power branch treats women rulers, queen mothers, and warriors as institutional cases while preserving slavery, coercion, and source-bias qualifications.
 - Its medieval branches treat the Hundred Years' War as a multi-causal origin problem and Chaucer's writing as qualified evidence for post-plague social and linguistic change.
@@ -81,6 +84,8 @@ The Byron branch now begins with family mythology, childhood adversity, educatio
 - Its Homeric, Mayerling, Founding Fathers, Roman Civil War, and Byron branches use literature, scandal, biography, celebrity, and military or political careers to expose institutional crisis and public authority while preserving uncertainty about motives and impact.
 
 ## Evidence
+
+- Darwin and Galapagos branch: [[283-ecuador-darwins-adventure-to-the-galapagos-glt2992613399]] connects the Beagle voyage, geology, island-labeled mockingbirds, tortoise clues, confusing finches, Gould's classification, and later publication to a gradual theory-formation account.
 
 - Early Islamic and Baghdad branch: [[376-baghdad-the-forging-of-islam-part-1-glt9529602805]] links conquest limits, sectarian opposition, conversion inequality, and juristic criticism to the late Umayyad crisis; Parts 2-4 continue through Abbasid victory, Baghdad's foundation, metropolitan growth, legal authority, translation, and literary afterlife.
 - Ancient Greek war-memory branch: [[669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260]] reconstructs Marathon through Athenian road-blocking, the cavalry window, hoplite tactics, the return to Athens, Herodotean source dependence, Pan/Pheidippides traditions, and later freedom-versus-despotism memory.
@@ -108,12 +113,19 @@ The Byron branch now begins with family mythology, childhood adversity, educatio
 
 This page summarizes only the episodes currently listed in its evidence inventory. The show should not be treated as endorsing one uniform theory of history or literature; the covered episodes mix narrative reconstruction, source uncertainty, moral interpretation, symbolic interpretation, and explicit cautions against overreading. The early Islamic branch's claims about Jewish and Zoroastrian influence, conversion policy, chronology, and religious practice remain source-scoped rather than settled by comparison alone. The Marathon branch is especially dependent on surviving Greek literary evidence and later memory traditions, so Persian perspective, Pheidippides legends, and broad civilizational interpretations remain qualified. The Lay branch explicitly rejects the literal "first abolitionist" label and keeps the exact reach of his influence source-scoped. The African Amazons branch is especially dependent on mediated European, missionary, traveler, and popular-history accounts. The George branch cannot establish the saint's existence, identity, relics, or dragon story as contemporary history; its strongest claims concern the development and reuse of the tradition. The Byron inventory covers three installments rather than a complete life or literary study. The Chaucer branch uses fictional characters as suggestive rather than representative evidence, and its Cecily Champagne, plague-season, women's-autonomy, and dialect-influence claims remain source-scoped. The Windrush branch relies on one interview-led interpretation; passenger totals, demographic comparisons, church attendance, the warship claim, and international mixed-heritage comparisons remain source-scoped.
 
+The Darwin branch is an accessible outline rather than a specialist history of biology: specimen counts, taxonomy, exact wording, and the causal weight of individual Galapagos observations remain source-scoped.
+
 ## What Changed
 
-- Added the late Umayyad causal layer before the existing Abbasid Baghdad sequence.
-- Bounded cross-religious influence claims as source-scoped comparisons rather than proven one-way borrowing.
+- Added a science-history branch in which field observations, specimen provenance, specialist classification, and publication develop into theory over time.
+- Replaced the popular instant-Galapagos discovery frame with a qualified collaborative account.
 
 ## Relationships
+
+- [[CharlesDarwin]] - naturalist whose Beagle evidence chain opens the show's science-history branch.
+- [[GalapagosIslands]] - field setting later turned into an emblem of Darwinian evolution.
+- [[EvolutionaryTheoryFormation]] - gradual discovery model emphasized by episode 283.
+- [[NaturalSelectionBiology]] - biological theory distinguished from the compressed public origin myth.
 
 - [[UmayyadCaliphate]] - declining dynasty whose military, social, sectarian, and moral crises open the Baghdad sequence.
 - [[EarlyIslamicReligiousFormation]] - process through which converts and conquered peoples participate in forming law and practice.

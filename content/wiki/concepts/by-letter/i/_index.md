@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 8854
+wiki_total_pages: 8857
 wiki_pages:
   - key: "IBDPatientEducationAndPeerSupport"
     title: "IBD Patient Education and Peer Support / IBD患者教育与同伴支持"
@@ -992,6 +992,9 @@ wiki_pages:
   - key: "IslandExtinctionAfterHumanArrival"
     title: "Island Extinction After Human Arrival"
     url: "/wiki/concepts/islandextinctionafterhumanarrival/"
+  - key: "IslandVariationEvolutionaryEvidence"
+    title: "Island Variation as Evolutionary Evidence"
+    url: "/wiki/concepts/islandvariationevolutionaryevidence/"
   - key: "IsolatedRetailDemandManagement"
     title: "Isolated Retail Demand Management"
     url: "/wiki/concepts/isolatedretaildemandmanagement/"
