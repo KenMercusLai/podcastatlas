@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Optimize Fertility in Males & Females](sources/how-to-optimize-fertility-in-males-females-scim8187072933.md) — Huberman Lab solo episode on reproductive biology, fertile-window timing, ovarian and semen testing, lifestyle exposures, supplements, and clinician-directed fertility care.
 - [Daniel Ek: Life After Spotify, Broken Healthcare Incentives, Catching Disease Early & AI's Potential](sources/all-in-with-chamath-jason-sacks-friedberg-daniel-ek-life-after-spotify-broken-healthcare-incentives-catching-di.md) — All-In interview on Spotify's origin, Neko Health's longitudinal preventive-screening model, payer incentives, AI ecosystems, and compute governance.
 - [298: The Nazis: Total Power (Part 4)](sources/298-the-nazis-total-power-part-4-glt6097237943.md) — The Rest Is History episode on Hitler's 1933 conversion of a constrained chancellorship into dictatorship through spectacle, police capture, terror, emergency decree, and coerced legislation.
 - [299: The Greatest Female Pharaoh](sources/299-the-greatest-female-pharaoh-glt5076645168.md) — The Rest Is History episode on Hatshepsut's move from regency to kingship through dynastic, divine, ritual, military, commercial, and monumental legitimacy.
@@ -14592,6 +14593,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Satchin Panda](entities/SatchinPanda.md) — Circadian-biology researcher separating meal timing, fasting duration, energy intake, and evidence limits in animal and human studies.
 
 ## Concepts
+- [Preconception Timing and Testing](concepts/PreconceptionTimingAndTesting.md) — Couple-based planning frame joining fertile-window timing with distinct ovarian, semen, history, exposure, medication, and age inputs.
 - [Healthcare Payer Horizon Mismatch](concepts/HealthcarePayerHorizonMismatch.md) — Incentive gap when today's prevention payer may not retain the member long enough to capture future benefits.
 - [Longitudinal Multimodal Screening](concepts/LongitudinalMultimodalScreening.md) — Repeat multi-signal screening model whose value depends on validation, clinician interpretation, and follow-up.
 - [Legal-Coercive Dictatorship Consolidation](concepts/LegalCoerciveDictatorshipConsolidation.md) — Mechanism joining lawful appearance, crisis powers, police capture, organized violence, elite accommodation, and civic destruction in democratic collapse.

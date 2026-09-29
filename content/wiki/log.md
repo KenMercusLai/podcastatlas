@@ -25239,3 +25239,11 @@ Added source `vol-18-jizhen-weizhongbingke-tufa-yundong-sunshang-de-yuanqian-jij
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | How to Optimize Fertility in Males & Females
+
+Added source `how-to-optimize-fertility-in-males-females-scim8187072933`; created `PreconceptionTimingAndTesting`; and updated `FemaleFertilityAsHealthMarker`, `OvarianReserveAMHInterpretation`, `MaleReproductiveHealthAssessment`, `AssistedReproductionDecisionLiteracy`, and the canonical index from their complete bounded source sets. Core synthesis: fertility is a shared probabilistic pathway in which fertile-window timing, ovarian reserve, egg quality, semen measures, age, illness, infection, heat, substances, medications, anatomy, and endocrine feedback answer different questions and should not be collapsed into one optimization score. No settled contradiction was adopted. Exact timing, probabilities, abstinence, phone-radiofrequency effects, cold exposure, acupuncture, supplements, pelvic positioning, hormone treatment, procedures, and sex selection remain source-scoped or clinician-, ethics-, and jurisdiction-dependent. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

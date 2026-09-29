@@ -13586,9 +13586,9 @@
       "url": "/wiki/concepts/assisteddrivingtrustformation/"
     },
     "AssistedReproductionDecisionLiteracy": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM7009544360 [SCIM7009544360].md",
@@ -13610,9 +13610,16 @@
           "show": "这病说来话长",
           "title": "VOL.79生殖医学科男科｜取精室里不能说的秘密 辅助生殖知多少",
           "url": "/wiki/sources/vol-79-shengzhi-yixueke-nanke-qujingshi-li-buneng-shuo-de-mimi-fuzhu-shengzhi-zhi-duoshao-lp8ztob7icudu2x06tqc0dh_zhdk/"
+        },
+        {
+          "episode_file": "SCIM8187072933 [SCIM8187072933].md",
+          "key": "how-to-optimize-fertility-in-males-females-scim8187072933",
+          "show": "Huberman Lab",
+          "title": "How to Optimize Fertility in Males & Females",
+          "url": "/wiki/sources/how-to-optimize-fertility-in-males-females-scim8187072933/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/assistedreproductiondecisionliteracy/"
     },
     "AssociativeKnowledgeSystems": {
@@ -59127,9 +59134,9 @@
       "url": "/wiki/concepts/femalecourteducationeasternhan/"
     },
     "FemaleFertilityAsHealthMarker": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM7009544360 [SCIM7009544360].md",
@@ -59144,9 +59151,16 @@
           "show": "Huberman Lab",
           "title": "Female Hormone Health, Fertility & Vitality | Dr. Natalie Crawford",
           "url": "/wiki/sources/female-hormone-health-fertility-vitality-dr-natalie-crawford-scim4341208380/"
+        },
+        {
+          "episode_file": "SCIM8187072933 [SCIM8187072933].md",
+          "key": "how-to-optimize-fertility-in-males-females-scim8187072933",
+          "show": "Huberman Lab",
+          "title": "How to Optimize Fertility in Males & Females",
+          "url": "/wiki/sources/how-to-optimize-fertility-in-males-females-scim8187072933/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/femalefertilityashealthmarker/"
     },
     "FemaleHormoneHealthPhenotyping": {
@@ -110708,9 +110722,9 @@
       "url": "/wiki/concepts/malementorshipresponsibility/"
     },
     "MaleReproductiveHealthAssessment": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM8414501670 [SCIM8414501670].md",
@@ -110732,9 +110746,16 @@
           "show": "这病说来话长",
           "title": "VOL.77生殖医学科男科｜固化的偏见让负罪感成为自慰的最大危害 「男」言之隐不再难",
           "url": "/wiki/sources/vol-77-shengzhi-yixueke-nanke-guhua-de-pianjian-rang-fuzuigan-chengwei-ziwei-de-zuidahai-nan-yanzhiyin-bu-zai-nan-lidn4alesw5vihbybf_c3f5qbvmo/"
+        },
+        {
+          "episode_file": "SCIM8187072933 [SCIM8187072933].md",
+          "key": "how-to-optimize-fertility-in-males-females-scim8187072933",
+          "show": "Huberman Lab",
+          "title": "How to Optimize Fertility in Males & Females",
+          "url": "/wiki/sources/how-to-optimize-fertility-in-males-females-scim8187072933/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/malereproductivehealthassessment/"
     },
     "MaleUrologicalHealthMisconceptions": {
@@ -127099,9 +127120,9 @@
       "url": "/wiki/entities/ouyangxieasternhan/"
     },
     "OvarianReserveAMHInterpretation": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM7009544360 [SCIM7009544360].md",
@@ -127116,9 +127137,16 @@
           "show": "Huberman Lab",
           "title": "Female Hormone Health, Fertility & Vitality | Dr. Natalie Crawford",
           "url": "/wiki/sources/female-hormone-health-fertility-vitality-dr-natalie-crawford-scim4341208380/"
+        },
+        {
+          "episode_file": "SCIM8187072933 [SCIM8187072933].md",
+          "key": "how-to-optimize-fertility-in-males-females-scim8187072933",
+          "show": "Huberman Lab",
+          "title": "How to Optimize Fertility in Males & Females",
+          "url": "/wiki/sources/how-to-optimize-fertility-in-males-females-scim8187072933/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/ovarianreserveamhinterpretation/"
     },
     "OverextendedFrontierExpedition": {
@@ -135173,6 +135201,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/concepts/preachingasfailedconnection/"
+    },
+    "PreconceptionTimingAndTesting": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8187072933 [SCIM8187072933].md",
+          "key": "how-to-optimize-fertility-in-males-females-scim8187072933",
+          "show": "Huberman Lab",
+          "title": "How to Optimize Fertility in Males & Females",
+          "url": "/wiki/sources/how-to-optimize-fertility-in-males-females-scim8187072933/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/preconceptiontimingandtesting/"
     },
     "PredictionMarketEthics": {
       "episode_count": 7,

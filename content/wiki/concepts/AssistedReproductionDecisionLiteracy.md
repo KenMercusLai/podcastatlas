@@ -6,7 +6,8 @@ sources:
   - how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360
   - female-hormone-health-fertility-vitality-dr-natalie-crawford-scim4341208380
   - vol-79-shengzhi-yixueke-nanke-qujingshi-li-buneng-shuo-de-mimi-fuzhu-shengzhi-zhi-duoshao-lp8ztob7icudu2x06tqc0dh_zhdk
-last_updated: 2026-09-27
+  - how-to-optimize-fertility-in-males-females-scim8187072933
+last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
 
@@ -22,13 +23,15 @@ VOL.79 adds the male-side operational dependency. Semen collection may be a rout
 
 Literacy extends beyond success rates into conventional insemination versus ICSI, fresh versus frozen transfer, storage, disposition, donor consent, genetic information, and whether embryo testing addresses the actual indication. Patient autonomy remains central: clinicians should make options, attrition, uncertainty, ethical consequences, and operational failure points legible rather than promise certainty or block information paternalistically.
 
+The Huberman solo episode adds a concise mechanism-level comparison of IUI and IVF, ovarian stimulation and egg retrieval, embryo development and selection, and physician-directed hormone or surgical options. It also mentions sex selection and post-ejaculation pelvic position, but these claims do not alter the core decision standard: technical possibility, low apparent cost, or biological plausibility is not the same as a clinically indicated, effective, ethically acceptable, or legally available intervention.
+
 ## Key Claims
 - IVF and egg freezing are described as using eggs already recruited for that cycle, not as depleting the long-term ovarian reserve.
 - Egg freezing preserves opportunity but should not be described as a guaranteed future baby.
 - Assisted reproduction has stage-by-stage attrition across egg and sperm availability, fertilization, embryo development, testing, transfer, implantation, and live birth.
 - Usable sperm availability can be a time-sensitive treatment dependency, especially after oocyte retrieval.
 - Embryo genetic testing can support selected disease-avoidance and treatment decisions, but test type, indication, uncertainty, and information preferences matter.
-- Treatment literacy includes collection, retrieval, protocol, fertilization, transfer, storage, disposition, and donor-consent choices, not only egg or embryo counts.
+- Treatment literacy includes collection, retrieval, protocol, fertilization, transfer, selection, storage, disposition, donor consent, and jurisdiction-sensitive choices, not only egg or embryo counts.
 - Sperm freezing and retrieval can be operationally simpler than egg retrieval in some contexts but still raise timing, storage, prognosis, and future-family decisions.
 
 ## Evidence
@@ -37,13 +40,13 @@ Literacy extends beyond success rates into conventional insemination versus ICSI
 - Male-side operational dependency - [[vol-79-shengzhi-yixueke-nanke-qujingshi-li-buneng-shuo-de-mimi-fuzhu-shengzhi-zhi-duoshao-lp8ztob7icudu2x06tqc0dh_zhdk|VOL.79]] explains that failure to obtain a usable sample can disrupt a cycle when retrieved oocytes are already waiting.
 - Azoospermia options - [[vol-79-shengzhi-yixueke-nanke-qujingshi-li-buneng-shuo-de-mimi-fuzhu-shengzhi-zhi-duoshao-lp8ztob7icudu2x06tqc0dh_zhdk|VOL.79]] distinguishes obstruction, reconstruction, epididymal aspiration, and testicular microsurgical retrieval without guaranteeing success.
 - Autonomy, genetics, and long-horizon ethics - [[how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360]] and [[female-hormone-health-fertility-vitality-dr-natalie-crawford-scim4341208380]] discuss PGT, information preferences, donor anonymity, sibling-group scale, storage, disposition, donation, and preservation choices.
+- IUI, IVF, and intervention boundary - [[how-to-optimize-fertility-in-males-females-scim8187072933]] sketches ovarian stimulation, retrieval, fertilization, embryo selection, IUI, sex selection, hormones, and procedures while leaving indications and outcomes to specialist care.
 
 ## Counterevidence & Qualifications
-The page does not compare clinics, legal frameworks, insurance coverage, or country-specific assisted-reproduction and embryo-disposition law. Survival, fertilization, euploidy, retrieval, reconstruction, and live-birth probabilities are source-scoped educational estimates, not personalized prognosis. “Third-generation IVF” is an imprecise umbrella; embryo testing does not simply identify a universally “better” embryo or guarantee a healthy child. Age, ovarian reserve, sperm etiology, uterine factors, genetics, medical history, laboratory quality, diagnosis, protocol, regulation, cost, and patient preference can materially change decisions and outcomes.
+The page does not compare clinics, legal frameworks, insurance coverage, or country-specific assisted-reproduction, sex-selection, or embryo-disposition law. Survival, fertilization, euploidy, retrieval, reconstruction, and live-birth probabilities are source-scoped educational estimates, not personalized prognosis. “Third-generation IVF” is an imprecise umbrella; embryo testing does not simply identify a universally “better” embryo or guarantee a healthy child. Pelvic positioning after ejaculation is presented with split expert opinion, not established outcome evidence. Age, ovarian reserve, sperm etiology, uterine factors, genetics, medical history, laboratory quality, diagnosis, protocol, regulation, cost, and patient preference can materially change decisions and outcomes.
 
 ## What Changed
-- Added usable sperm collection and retrieval as an explicit operational dependency in the treatment chain.
-- Narrowed broad embryo-screening language to indication-, test-, and counseling-specific decision literacy.
+- Added IUI-versus-IVF, sex-selection, and low-evidence adjuncts to the indication, ethics, evidence, and jurisdiction boundary.
 
 ## Related Concepts
 - [[SemenSampleCollectionQuality]] - pre-analytic male-side dependency in diagnosis and treatment.
@@ -53,3 +56,4 @@ The page does not compare clinics, legal frameworks, insurance coverage, or coun
 - [[DoctorPatientCommunication]] - clinical discussion pattern for high-stakes reproductive decisions.
 - [[MedicalRiskManagement]] - risk-benefit frame for procedures, medications, and intervention selection.
 - [[ContextDependentBiomedicalInterventions]] - general boundary for selected biomedical tools.
+- [[PreconceptionTimingAndTesting]] - upstream planning and baseline-assessment branch before or alongside assisted reproduction.
