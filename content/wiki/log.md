@@ -25411,3 +25411,11 @@ Added source `291-the-man-who-escaped-auschwitz-glt6191002964`; created `Auschwi
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | 290: 2022: A History
+
+Added source `290-2022-a-history-glt4625765030`; created `PostColdWarOrderRupture` and `EuropeanEnergySecurityDependence`; and expanded `ElizabethII`, `AngelaMerkel`, `VolodymyrZelensky`, and `EuropeanIntegrationWarPrevention` from their complete bounded source sets. Core synthesis: Russia's invasion of Ukraine is treated as a plausible rupture in the immediate post-Cold War order; Ukraine's survival and Western support were contingent rather than automatic; European energy dependence converted trade ties into unequal strategic exposure; and Elizabeth II's death showed that inherited ritual could still organize broad, though not uniform, public participation. The episode's Finland-and-Sweden NATO timing and “cold fusion” wording were not adopted as settled facts, while causal, counterfactual, and decline claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

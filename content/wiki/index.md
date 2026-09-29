@@ -3218,6 +3218,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [293: Lady Jane Grey: The Nine Days' Queen (Part 1)](sources/293-lady-jane-grey-the-nine-days-queen-part-1-glt2281550812.md) — The Rest Is History episode on Edward VI's succession device, Protestant commitment, female-rule anxiety, disputed legality, Northumberland's mixed motives, and Jane's education and reluctant accession.
 - [292: The Shadow of the Holocaust](sources/292-the-shadow-of-the-holocaust-glt7756076339.md) — The Rest Is History episode on the Vrba-Wetzler Report, delayed institutional response, the halt of Budapest deportations, and Rudolf Vrba's non-consoling witness legacy.
 - [291: The Man Who Escaped Auschwitz](sources/291-the-man-who-escaped-auschwitz-glt6191002964.md) — The Rest Is History episode on Rudolf Vrba and Alfred Wetzler's escape, deception inside Auschwitz, and the evidentiary construction of their report.
+- [290: 2022: A History](sources/290-2022-a-history-glt4625765030.md) — The Rest Is History year-end episode on Ukraine as a post-Cold War rupture, European energy dependence, Elizabeth II's death, British political turmoil, and 2022 cultural recommendations.
 
 ## Entities
 - [盘尼西林乐队 / Penicillin](entities/PenicillinBand.md) — Chinese rock band in which spine surgeon 马浩宁 performs selectively on keyboard and accordion.
@@ -8369,7 +8370,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《竹书纪年》 / Bamboo Annals](entities/ZhushuJinian.md) — Text cited for the Jin You Gong and Qin Ying assassination-attribution example.
 - [Rahm Emanuel](entities/RahmEmanuel.md) — Democratic governing and diplomacy figure whose All-In interview links China strategy, alliances, immigration compromise, education reform, research funding, and DSA criticism.
 - [Taiwan](entities/Taiwan.md) — Indo-Pacific security and semiconductor node added through Emanuel's Taiwan scenarios, earlier All-In blockade-risk discussion, and existing Japan/TSMC and Minnan maritime references.
-- [Angela Merkel](entities/AngelaMerkel.md) — German CDU leader used by Emanuel as a counterexample to reducing Europe's refugee and nuclear-policy decisions to a simple left-wing explanation.
+- [Angela Merkel](entities/AngelaMerkel.md) — German CDU leader whose refugee, nuclear, and Russian-gas policies complicate partisan explanations and the equation of stability with strategic success.
 - [Dignity Act](entities/DignityAct.md) — Immigration compromise Emanuel says he would pass, used as a source-scoped example of pairing legal status, border control, and workplace enforcement.
 - [Ryan Cohen](entities/RyanCohen.md) — Chewy founder and GameStop CEO whose All-In interview links low-margin retail execution, GameStop's turnaround, and a contested eBay acquisition proposal.
 - [Chewy](entities/Chewy.md) — Online pet retailer Ryan Cohen uses as a case in recurring-category ecommerce, supply-chain discipline, and service-led customer loyalty.
@@ -13293,7 +13294,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [ADNOC](entities/ADNOC.md) — National oil company used as a new entrant trying to build energy-trading capacity.
 - [Harry Styles](entities/HarryStyles.md) — Megastar example for long-run, few-city concert touring and residency economics.
 - [Crimea](entities/Crimea.md) — Peninsula framed as both Black Sea military base and symbolic target in Ukraine's war visibility strategy.
-- [Volodymyr Zelensky](entities/VolodymyrZelensky.md) — Ukrainian leader whose escalation warning frames the episode's strikes on Crimea, Moscow, and Russian infrastructure.
+- [Volodymyr Zelensky](entities/VolodymyrZelensky.md) — Ukrainian wartime leader framed through 2022 resolve, deep-strike visibility strategy, military reform, and mounting domestic constraints.
 - [Vladimir Putin](entities/VladimirPutin.md) — Russian leader whose Crimea-linked war narrative and exit problem are central to the episode's Russia segment.
 - [Andrey Melnichenko](entities/AndreyMelnichenko.md) — Russian industrial oligarch whose sanctions exposure, attacked factories, and survival logic ground the wiki's Russian elite discontent branch.
 - [Arkady Ostrovsky](entities/ArkadyOstrovsky.md) — Economist journalist whose long conversations with Melnichenko frame the source's insider-pressure account of Russia's war dilemma.
@@ -14590,7 +14591,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dunstan](entities/Dunstan.md) — Archbishop who likely shaped Edgar's 973 coronation and the later Canterbury crowning precedent.
 - [Stone of Scone](entities/StoneOfScone.md) — Contested Scottish coronation object whose authority joins territorial kingship, legend, conquest, and Westminster.
 - [George IV](entities/GeorgeIV.md) — British monarch whose extravagant coronation joined antiquarian theatre, marital exclusion, grandeur, and farce.
-- [Elizabeth II](entities/ElizabethII.md) — British monarch whose sacramental coronation became a defining television-era mass event.
+- [Elizabeth II](entities/ElizabethII.md) — British monarch whose sacramental television-era coronation and 2022 public mourning joined old ritual to mass participation.
 - [Charles III](entities/CharlesIII.md) — British monarch whose planned 2023 coronation renewed the question of sacral meaning in a more sceptical public culture.
 - [William III](entities/WilliamIII.md) — Dutch Protestant ruler whose joint coronation with Mary II helped publicize the post-Glorious Revolution settlement.
 - [Mary II](entities/MaryII.md) — Daughter of James II and joint monarch whose 1689 coronation made an unusual Protestant succession publicly legible.
@@ -19625,7 +19626,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hotel Service SOP And Human Ceiling](concepts/HotelServiceSOPHumanCeiling.md) — Episode 140 distinction between SOP as the service floor and human attention as the hospitality ceiling.
 - [Belle Epoque / 美好年代](concepts/BelleEpoque.md) — Remembered prewar European golden age read by the source as real cultural abundance but unevenly classed access.
 - [Elite Cosmopolitan Mobility](concepts/EliteCosmopolitanMobility.md) — Class, language, passport, and network conditions that make world-citizen travel available to some people more than others.
-- [European Integration As War Prevention](concepts/EuropeanIntegrationWarPrevention.md) — Source's bounded claim that shared European institutions and industrial chains can lower internal war risk.
+- [European Integration As War Prevention](concepts/EuropeanIntegrationWarPrevention.md) — Bounded claim that shared institutions and industrial chains can lower internal war risk while commerce alone cannot prevent external coercion.
+- [Post-Cold War Order Rupture](concepts/PostColdWarOrderRupture.md) — Interpretation of Russia's 2022 invasion as exposing or ending the immediate post-1990 European security order.
+- [European Energy Security Dependence](concepts/EuropeanEnergySecurityDependence.md) — Strategic exposure created when European energy imports constrain sanctions, industry, and alliance action during conflict.
 - [Passport Mobility Inequality](concepts/PassportMobilityInequality.md) — Difference between borderless travel for strong passport holders and permit-heavy travel for others.
 - [European Language Friction](concepts/EuropeanLanguageFriction.md) — European language diversity as both cultural asset and practical barrier to social and political integration.
 - [European Identity Class Gradient](concepts/EuropeanIdentityClassGradient.md) — Uneven distribution of European identity across education, mobility, class, language, and locality.

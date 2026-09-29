@@ -10714,6 +10714,29 @@
       "updated": "2026-09-17",
       "url": "/wiki/entities/angelraymer/"
     },
+    "AngelaMerkel": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Rahm Emanuel： Trump's Foreign Policy, China, Europe's Decline, Immigration & DSA vs Democrats [42416310].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Rahm Emanuel: Trump's Foreign Policy, China, Europe's Decline, Immigration & DSA vs Democrats",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310/"
+        },
+        {
+          "episode_file": "GLT4625765030 [GLT4625765030].md",
+          "key": "290-2022-a-history-glt4625765030",
+          "show": "The Rest Is History",
+          "title": "290: 2022: A History",
+          "url": "/wiki/sources/290-2022-a-history-glt4625765030/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/angelamerkel/"
+    },
     "AngelicIntelligence": {
       "episode_count": 2,
       "show_count": 1,
@@ -50367,9 +50390,9 @@
       "url": "/wiki/entities/elizabethi/"
     },
     "ElizabethII": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT8755026279 [GLT8755026279].md",
@@ -50384,9 +50407,16 @@
           "show": "The Rest Is History",
           "title": "327: Coronations: The Deep History (Part 1)",
           "url": "/wiki/sources/327-coronations-the-deep-history-part-1-glt4746607803/"
+        },
+        {
+          "episode_file": "GLT4625765030 [GLT4625765030].md",
+          "key": "290-2022-a-history-glt4625765030",
+          "show": "The Rest Is History",
+          "title": "290: 2022: A History",
+          "url": "/wiki/sources/290-2022-a-history-glt4625765030/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-09-29",
       "url": "/wiki/entities/elizabethii/"
     },
     "ElizabethanRecusancySecurityState": {
@@ -55741,6 +55771,45 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/europeandefenseautonomy/"
+    },
+    "EuropeanEnergySecurityDependence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4625765030 [GLT4625765030].md",
+          "key": "290-2022-a-history-glt4625765030",
+          "show": "The Rest Is History",
+          "title": "290: 2022: A History",
+          "url": "/wiki/sources/290-2022-a-history-glt4625765030/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/europeanenergysecuritydependence/"
+    },
+    "EuropeanIntegrationWarPrevention": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "139.从《昨日的世界》到如今的欧洲：美好年代Belle époque，它还能回来吗？ [ltvSGOV8hT9_-l7YP9QaMdgJMYrf].md",
+          "key": "139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf",
+          "show": "起朱楼宴宾客",
+          "title": "139.从《昨日的世界》到如今的欧洲：美好年代Belle époque，它还能回来吗？",
+          "url": "/wiki/sources/139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf/"
+        },
+        {
+          "episode_file": "GLT4625765030 [GLT4625765030].md",
+          "key": "290-2022-a-history-glt4625765030",
+          "show": "The Rest Is History",
+          "title": "290: 2022: A History",
+          "url": "/wiki/sources/290-2022-a-history-glt4625765030/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/europeanintegrationwarprevention/"
     },
     "EustacheDege": {
       "episode_count": 1,
@@ -135431,6 +135500,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/postcnutenglishsuccessioncrisis/"
     },
+    "PostColdWarOrderRupture": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4625765030 [GLT4625765030].md",
+          "key": "290-2022-a-history-glt4625765030",
+          "show": "The Rest Is History",
+          "title": "290: 2022: A History",
+          "url": "/wiki/sources/290-2022-a-history-glt4625765030/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/postcoldwarorderrupture/"
+    },
     "PostDefeatForceReconstitution": {
       "episode_count": 1,
       "show_count": 1,
@@ -175908,6 +175993,50 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/volkswagengroup/"
+    },
+    "VolodymyrZelensky": {
+      "episode_count": 5,
+      "show_count": 2,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "Far Crimea： war comes to Russia’s door [6a3e560c26d5a6687a90c658].md",
+          "key": "far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658",
+          "show": "Economist Podcasts",
+          "title": "Far Crimea: war comes to Russia's door",
+          "url": "/wiki/sources/far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658/"
+        },
+        {
+          "episode_file": "Putin’s options： an oligarch speaks out [6a50c5ebbafe2fa6a7f38210].md",
+          "key": "putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210",
+          "show": "Economist Podcasts",
+          "title": "Putin's options: an oligarch speaks out",
+          "url": "/wiki/sources/putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210/"
+        },
+        {
+          "episode_file": "Kyiv brawl： Ukraine’s top general fired [6a609aec4fac21e67f1be165].md",
+          "key": "kyiv-brawl-ukraines-top-general-fired-6a609aec4fac21e67f1be165",
+          "show": "Economist Podcasts",
+          "title": "Kyiv brawl: Ukraine's top general fired",
+          "url": "/wiki/sources/kyiv-brawl-ukraines-top-general-fired-6a609aec4fac21e67f1be165/"
+        },
+        {
+          "episode_file": "Bombs and bombshells： Zelensky under pressure [6a86d3561ad8716bb64646f0].md",
+          "key": "bombs-and-bombshells-zelensky-under-pressure-6a86d3561ad8716bb64646f0",
+          "show": "Economist Podcasts",
+          "title": "Bombs and bombshells: Zelensky under pressure",
+          "url": "/wiki/sources/bombs-and-bombshells-zelensky-under-pressure-6a86d3561ad8716bb64646f0/"
+        },
+        {
+          "episode_file": "GLT4625765030 [GLT4625765030].md",
+          "key": "290-2022-a-history-glt4625765030",
+          "show": "The Rest Is History",
+          "title": "290: 2022: A History",
+          "url": "/wiki/sources/290-2022-a-history-glt4625765030/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/volodymyrzelensky/"
     },
     "Voltaire": {
       "episode_count": 3,

@@ -5,7 +5,8 @@ tags: [person, britain, monarchy, television]
 sources:
   - 329-coronations-chaos-ceremony-and-empire-part-3-glt8755026279
   - 327-coronations-the-deep-history-part-1-glt4746607803
-last_updated: 2026-09-28
+  - 290-2022-a-history-glt4625765030
+last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
 
@@ -13,43 +14,45 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Elizabeth II appears through her 1953 coronation as a devout monarch whose sacramental understanding of anointing was carried to a mass postwar audience through television.
+Elizabeth II appears as a monarch whose private sacramental understanding of coronation became a mass television event in 1953 and whose death in 2022 reactivated public participation in Britain's old constitutional and religious ritual order.
 
 ## Current Profile
 
-The episode places Elizabeth II's coronation at the meeting point of old ritual and new media. Rain, lingering austerity, imperial-era figures, and news of the Everest ascent supplied a postwar national setting, while communal viewing made the ceremony a major event in television adoption.
+The coronation sources place Elizabeth II at the meeting point of old rite and new media. Rain, austerity, imperial memory, and the Everest news supplied a postwar national setting, while communal television viewing expanded participation without eliminating the ceremony's protected sacred center. Her understanding of anointing is presented as devotional and tied to a much older ideal of service under God.
 
-Her private religious understanding remains central to the interpretation. The hosts present the anointing as the holiest and sacramental part for Elizabeth herself, so broadcasting did not simply replace sacred kingship with entertainment; it widened public access to a rite whose innermost meaning remained devotional and partly screened from view. The deep-history episode connects that privacy to a much older tradition in which consecration elevates the ruler while binding power to service under God.
+The end of the reign completes that profile. In [[290-2022-a-history-glt4625765030]], the hosts expected indifference but instead saw institutions and many members of the public embrace mourning, procession, and ceremony. Because Elizabeth died in Scotland, the sequence also made the monarchy's different territorial settings visible; the source treats the response as collective participation without claiming uniform feeling across Britain.
 
 ## Key Characteristics
 
-- Understood her coronation and anointing in deeply Christian and sacramental terms.
-- Embodied the persistence of a protected consecratory act inside a mass-mediated national ceremony.
+- Understood coronation and anointing in deeply Christian and sacramental terms.
+- Preserved a protected consecratory act inside a mass-mediated national ceremony.
 - Became the monarch of a coronation experienced collectively through television on an unprecedented scale.
 - Joined postwar austerity, imperial memory, technological change, and national optimism in one public event.
-- Serves as the episode's contrast point for debate over whether the same sacral language can command shared meaning in a more sceptical Britain.
+- Her death prompted an unusually broad public pause and renewed participation in procession and mourning ritual.
+- Her reign supplies a contrast case for whether sacral monarchy can retain shared meaning in a more sceptical Britain.
 
 ## Evidence
 
-- Sacramental understanding: [[329-coronations-chaos-ceremony-and-empire-part-3-glt8755026279]] says Elizabeth regarded the coronation as a profound religious moment.
-- Postwar setting: [[329-coronations-chaos-ceremony-and-empire-part-3-glt8755026279]] places the ceremony amid rain and austerity and connects it to the arrival of the Everest news.
-- Mass viewing: [[329-coronations-chaos-ceremony-and-empire-part-3-glt8755026279]] reports roughly 25 million viewers sharing only a few million television sets.
-- Historical contrast: [[329-coronations-chaos-ceremony-and-empire-part-3-glt8755026279]] compares the Christianity and deference attributed to 1953 with the social setting facing Charles III.
-- Deep ritual continuity: [[327-coronations-the-deep-history-part-1-glt4746607803]] treats Elizabeth's view of anointing as the modern expression of an older theology of sacred service.
+- Sacramental understanding and postwar setting: [[329-coronations-chaos-ceremony-and-empire-part-3-glt8755026279]] presents Elizabeth's coronation as personally religious and places it amid austerity, rain, and Everest news.
+- Mass viewing and changing public culture: [[329-coronations-chaos-ceremony-and-empire-part-3-glt8755026279]] describes communal television viewing and contrasts 1953 with the setting facing Charles III.
+- Deep ritual continuity: [[327-coronations-the-deep-history-part-1-glt4746607803]] connects Elizabeth's protected anointing to a consecratory tradition of sacred service and obligation.
+- Mourning and national ceremony: [[290-2022-a-history-glt4625765030]] says her death generated stronger public and institutional mourning than the hosts expected and made old monarchical ritual newly visible.
+- Territorial variation: [[290-2022-a-history-glt4625765030]] emphasizes the Scottish setting of her death while noting different possible reactions across Scotland, Wales, and the wider United Kingdom.
 
 ## Qualifications
 
-This page covers Elizabeth II only through the episodes' accounts of her coronation. Audience totals, the degree of postwar religious consensus, direct continuity with ancient practice, and claims about television adoption are source-scoped; viewing a service does not demonstrate shared belief in its theology.
+The sources interpret Elizabeth II primarily through coronation, anointing, death, and public ritual rather than through a comprehensive account of her reign. Audience totals, public motives, the scale and uniformity of mourning, direct continuity with ancient practice, and the degree of postwar religious consensus remain source-scoped. Watching or joining a ceremony does not demonstrate agreement with its theology, monarchy, or constitutional meaning.
 
 ## What Changed
 
-- Added the older consecratory tradition that gives her private anointing its claimed theology of sacred service.
+- Added her 2022 death and public mourning as the end-of-reign counterpart to the television coronation.
+- Qualified national unity by preserving territorial variation and the difference between participation and assent.
 
 ## Relationships
 
-- [[BritishCoronationRitual]] - sacred institution through which the episode interprets her accession.
-- [[CoronationMassMediaTransformation]] - broadcast mechanism that made her coronation a shared domestic event.
-- [[CharlesIII]] - successor whose ceremony renews the problem of sacral meaning in a different public culture.
-- [[QueenVictoria]] - earlier monarch whose coronation expanded attendance through railway travel.
-- [[UnitedKingdom]] - postwar polity in which the ceremony became a national media event.
-- [[RoyalAnointingTradition]] - consecratory inheritance whose protected inner act she understood sacramentally.
+- [[BritishCoronationRitual]] - institution joining her sacred accession and later public mourning to deep ceremonial history.
+- [[CoronationMassMediaTransformation]] - mechanism that made her coronation a shared domestic event.
+- [[RoyalAnointingTradition]] - consecratory inheritance she understood as religious service.
+- [[CharlesIII]] - successor whose ceremony renews the question of sacral meaning in a different public culture.
+- [[UnitedKingdom]] - polity whose institutions and publics participated unevenly in coronation and mourning.
+- [[QueenVictoria]] - earlier monarch whose coronation expanded participation through railway travel.

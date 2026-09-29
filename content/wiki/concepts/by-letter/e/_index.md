@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 8809
+wiki_total_pages: 8811
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -845,6 +845,9 @@ wiki_pages:
   - key: "EuropeanDeforestationRegulationSupplyChain"
     title: "European Deforestation Regulation Supply Chain"
     url: "/wiki/concepts/europeandeforestationregulationsupplychain/"
+  - key: "EuropeanEnergySecurityDependence"
+    title: "European Energy Security Dependence"
+    url: "/wiki/concepts/europeanenergysecuritydependence/"
   - key: "EuropeanIdentityClassGradient"
     title: "European Identity Class Gradient"
     url: "/wiki/concepts/europeanidentityclassgradient/"

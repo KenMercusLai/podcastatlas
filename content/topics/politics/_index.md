@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2823
+topic_total_pages: 2826
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1264,6 +1264,9 @@ topic_concepts:
   - key: "EuropeanDeforestationRegulationSupplyChain"
     title: "European Deforestation Regulation Supply Chain"
     url: "/wiki/concepts/europeandeforestationregulationsupplychain/"
+  - key: "EuropeanEnergySecurityDependence"
+    title: "European Energy Security Dependence"
+    url: "/wiki/concepts/europeanenergysecuritydependence/"
   - key: "EuropeanIntegrationWarPrevention"
     title: "European Integration As War Prevention"
     url: "/wiki/concepts/europeanintegrationwarprevention/"
@@ -2833,6 +2836,9 @@ topic_concepts:
   - key: "PostCoalitionSpoilsImbalance"
     title: "Post-Coalition Spoils Imbalance / 联军战后利益失衡"
     url: "/wiki/concepts/postcoalitionspoilsimbalance/"
+  - key: "PostColdWarOrderRupture"
+    title: "Post-Cold War Order Rupture"
+    url: "/wiki/concepts/postcoldwarorderrupture/"
   - key: "PostDisasterTruthAndResponsibility"
     title: "Post-Disaster Truth And Responsibility"
     url: "/wiki/concepts/postdisastertruthandresponsibility/"
@@ -7491,6 +7497,9 @@ topic_sources:
   - key: "264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0"
     title: "264.库克的道德锚点｜过去15年，库克给苹果留下了什么？"
     url: "/wiki/sources/264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0/"
+  - key: "290-2022-a-history-glt4625765030"
+    title: "290: 2022: A History"
+    url: "/wiki/sources/290-2022-a-history-glt4625765030/"
   - key: "310-ronald-reagan-and-the-american-dream-part-1-glt3254036306"
     title: "310: Ronald Reagan and the American Dream (Part 1)"
     url: "/wiki/sources/310-ronald-reagan-and-the-american-dream-part-1-glt3254036306/"

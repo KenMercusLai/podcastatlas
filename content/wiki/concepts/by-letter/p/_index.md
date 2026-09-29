@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8809
+wiki_total_pages: 8811
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1208,6 +1208,9 @@ wiki_pages:
   - key: "PostCoalitionSpoilsImbalance"
     title: "Post-Coalition Spoils Imbalance / 联军战后利益失衡"
     url: "/wiki/concepts/postcoalitionspoilsimbalance/"
+  - key: "PostColdWarOrderRupture"
+    title: "Post-Cold War Order Rupture"
+    url: "/wiki/concepts/postcoldwarorderrupture/"
   - key: "PostConquestDisarmament"
     title: "Post-Conquest Disarmament / 统一后收兵器"
     url: "/wiki/concepts/postconquestdisarmament/"

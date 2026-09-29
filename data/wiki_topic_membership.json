@@ -1477,6 +1477,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "290-2022-a-history-glt4625765030": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "291-the-man-who-escaped-auschwitz-glt6191002964": [
     {
       "key": "history",
@@ -28576,6 +28588,13 @@
     }
   ],
   "EuropeanDeforestationRegulationSupplyChain": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "EuropeanEnergySecurityDependence": [
     {
       "key": "politics",
       "label": "Politics",
@@ -59615,6 +59634,18 @@
     }
   ],
   "PostCoalitionSpoilsImbalance": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "PostColdWarOrderRupture": [
     {
       "key": "history",
       "label": "History",
