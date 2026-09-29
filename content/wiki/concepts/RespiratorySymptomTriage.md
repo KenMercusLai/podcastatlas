@@ -5,7 +5,8 @@ tags: [healthcare, respiratory-medicine, diagnostic-reasoning, triage]
 sources:
   - vol-97-huxike-jindong-liugan-feiyan-zheme-meng-wo-zazheng-ertong-zhiyuanti-feiyan-zong-buhao-you-houyizheng-ma-liz9rdhhqkbxpktg1gd2z2sb2klq
   - vol-51-sikeshi-yisheng-huizhen-jujue-kongju-he-jiaolv-zhengque-lixing-miandui-eryang-caishi-zhengjingshi-lqzw5tta44mvu60jg-hrmxsak8ko
-last_updated: 2026-09-27
+  - vol-16-jizhen-weizhongbingke-yangkang-de-jizhen-yisheng-liao-xinguan-zhi-jiezhen-qinshen-ganshou-loayers_pa8js_kaeuaqf1nn41om
+last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,13 +22,15 @@ The episode's practical rule is to interpret patterns rather than isolated signs
 
 VOL.51 applies that rule to repeat COVID infection. A positive antigen result can explain part of the presentation without explaining every dangerous change. Older adults may show appetite loss, weakness, or sudden loss of self-care rather than high fever, while new or worsening breathlessness, inability to lie flat, marked tachycardia, syncope, or major deviation from baseline pushes care beyond routine home observation.
 
+VOL.16 adds a home-observation bridge between symptoms and escalation. Pulse oximetry should be interpreted through device reliability, personal baseline, and trend, while activity tolerance, eating, and ordinary self-care show whether an older or chronically ill person is losing functional reserve. These measures can strengthen a decision to seek care but cannot diagnose the cause or make serious deterioration safe to manage at home.
+
 ## Key Claims
 - Upper-versus-lower respiratory anatomy organizes symptoms but does not diagnose their cause.
 - Cough, fever, sputum color, or a single image cannot independently confirm or exclude pneumonia or identify a pathogen.
 - Older or immunologically vulnerable people may show pneumonia through functional decline or poor overall condition without typical fever or cough.
 - Chronic cough and sputum can arise from chronic bronchitis, bronchiectasis, emphysema, reflux, asthma, and other nonacute-infection pathways.
 - Cough-variant and chest-tightness-variant asthma can present without the complete classic asthma pattern.
-- Worsening breathing, persistent systemic illness, marked functional decline, or failure to improve lowers the threshold for in-person assessment.
+- Worsening breathing, persistent systemic illness, marked functional decline, or failure to improve lowers the threshold for in-person assessment; pulse oximetry and activity tolerance add context only when read through baseline, trend, symptoms, and measurement limits.
 - A positive respiratory-virus test does not end the differential when metabolic, bacterial, thromboembolic, cardiac, hepatic, renal, or other findings suggest a concurrent problem.
 
 ## Evidence
@@ -36,13 +39,14 @@ VOL.51 applies that rule to repeat COVID infection. A positive antigen result ca
 - Cough and sputum differential: [[vol-97-huxike-jindong-liugan-feiyan-zheme-meng-wo-zazheng-ertong-zhiyuanti-feiyan-zong-buhao-you-houyizheng-ma-liz9rdhhqkbxpktg1gd2z2sb2klq]] connects chronic sputum to smoking-related and structural airway disease and occasional throat symptoms to reflux.
 - Asthma variants: [[vol-97-huxike-jindong-liugan-feiyan-zheme-meng-wo-zazheng-ertong-zhiyuanti-feiyan-zong-buhao-you-houyizheng-ma-liz9rdhhqkbxpktg1gd2z2sb2klq]] describes cough-only and chest-tightness-only variants and the role of lung-function and allergy context.
 - Repeat-infection escalation: [[vol-51-sikeshi-yisheng-huizhen-jujue-kongju-he-jiaolv-zhengque-lixing-miandui-eryang-caishi-zhengjingshi-lqzw5tta44mvu60jg-hrmxsak8ko]] links respiratory symptoms to baseline change, atypical older-adult decline, cardiac warning signs, and concurrent-disease assessment.
+- Baseline-aware home monitoring: [[vol-16-jizhen-weizhongbingke-yangkang-de-jizhen-yisheng-liao-xinguan-zhi-jiezhen-qinshen-ganshou-loayers_pa8js_kaeuaqf1nn41om]] combines oxygenation trend with familiar walking, stair-climbing, food intake, and self-care capacity, while retaining urgent assessment for substantial deterioration.
 
 ## Counterevidence & Qualifications
-This is a public-literacy frame, not a remote diagnostic algorithm. Sputum appearance, symptom absence, family allergy history, response to previous medicine, and home testing have limited specificity. Age, pregnancy, immune status, chronic disease, oxygenation, respiratory effort, duration, local outbreaks, and examination can change urgency. Severe breathing difficulty, altered mental state, cyanosis, dehydration, or rapid deterioration requires urgent local care.
+This is a public-literacy frame, not a remote diagnostic algorithm. Sputum appearance, symptom absence, family allergy history, response to previous medicine, home testing, consumer pulse oximetry, and unsupervised activity checks have important limits. Age, pregnancy, immune status, chronic disease, oxygenation, respiratory effort, duration, local outbreaks, and examination can change urgency. VOL.16's exact saturation and timeline examples are source-scoped January 2023 teaching, not universal thresholds. Severe breathing difficulty, altered mental state, cyanosis, dehydration, or rapid deterioration requires urgent local care.
 
 ## What Changed
-- Added repeat-COVID triage, atypical older-adult decline, and the rule that a positive viral test does not close the differential.
-- Created a respiratory-specific symptom-pattern and escalation framework from VOL.97.
+- Added baseline-aware pulse oximetry and activity tolerance as complementary monitoring signals.
+- Clarified that home measurements support triage but neither diagnose cause nor override serious deterioration.
 
 ## Related Concepts
 - [[MedicalDiagnosticReasoning]] - broader process that integrates symptoms, examination, tests, response, and follow-up.
@@ -53,3 +57,4 @@ This is a public-literacy frame, not a remote diagnostic algorithm. Sputum appea
 - [[LayeredRespiratoryInfectionPrevention]] - prevention framework adjacent to symptom recognition.
 - [[RepeatCOVIDInfectionTriage]] - reinfection-specific application of symptom and care-setting triage.
 - [[PostInfectiousReturnToActivity]] - recovery-stage breathing and exertion boundary.
+- [[BaselineAwareRespiratoryMonitoring]] - focused oxygen-trend, function, and personal-baseline application.

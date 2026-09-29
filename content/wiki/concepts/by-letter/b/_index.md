@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 8794
+wiki_total_pages: 8796
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -110,6 +110,9 @@ wiki_pages:
   - key: "BaseballStrikeZoneAutomation"
     title: "Baseball Strike-Zone Automation"
     url: "/wiki/concepts/baseballstrikezoneautomation/"
+  - key: "BaselineAwareRespiratoryMonitoring"
+    title: "Baseline-Aware Respiratory Monitoring / 基线化呼吸监测"
+    url: "/wiki/concepts/baselineawarerespiratorymonitoring/"
   - key: "BasicEconomyCopycatStrategy"
     title: "Basic Economy Copycat Strategy"
     url: "/wiki/concepts/basiceconomycopycatstrategy/"

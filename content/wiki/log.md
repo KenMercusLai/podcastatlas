@@ -25295,3 +25295,11 @@ Added source `guest-series-dr-andy-galpin-how-to-assess-improve-all-aspects-of-y
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | VOL.16急诊危重病科｜阳康的急诊医生聊新冠之接诊亲身感受
+
+Added source `vol-16-jizhen-weizhongbingke-yangkang-de-jizhen-yisheng-liao-xinguan-zhi-jiezhen-qinshen-ganshou-loayers_pa8js_kaeuaqf1nn41om`; created `BaselineAwareRespiratoryMonitoring` and `AcuteIllnessNutritionSupport`; expanded `MengDoctorFeverClinic` and `RespiratorySymptomTriage` from their complete bounded source sets; and updated the canonical index. Core synthesis: respiratory home observation is strongest when pulse oximetry is interpreted beside personal baseline, trend, activity tolerance, intake, and ordinary function, while marked deterioration still requires qualified assessment despite crowding or exposure concerns; acute illness also does not justify starving the patient in an attempt to starve a virus or tumor. No settled contradiction was adopted. Exact saturation values, timelines, treatment details, nutrition claims, and constipation advice remain source-scoped January 2023 public education rather than current individualized guidance. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

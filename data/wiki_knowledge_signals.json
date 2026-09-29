@@ -5294,6 +5294,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/acuteepiglottitisairwayrisk/"
     },
+    "AcuteIllnessNutritionSupport": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "loaYERs_Pa8js_kAEuAqf1nn41Om [loaYERs_Pa8js_kAEuAqf1nn41Om].md",
+          "key": "vol-16-jizhen-weizhongbingke-yangkang-de-jizhen-yisheng-liao-xinguan-zhi-jiezhen-qinshen-ganshou-loayers_pa8js_kaeuaqf1nn41om",
+          "show": "这病说来话长",
+          "title": "VOL.16急诊危重病科｜阳康的急诊医生聊新冠之接诊亲身感受",
+          "url": "/wiki/sources/vol-16-jizhen-weizhongbingke-yangkang-de-jizhen-yisheng-liao-xinguan-zhi-jiezhen-qinshen-ganshou-loayers_pa8js_kaeuaqf1nn41om/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/acuteillnessnutritionsupport/"
+    },
     "AcutePancreatitisEmergencyEscalation": {
       "episode_count": 2,
       "show_count": 1,
@@ -16978,6 +16994,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/entities/bartolomedelascasas/"
+    },
+    "BaselineAwareRespiratoryMonitoring": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "loaYERs_Pa8js_kAEuAqf1nn41Om [loaYERs_Pa8js_kAEuAqf1nn41Om].md",
+          "key": "vol-16-jizhen-weizhongbingke-yangkang-de-jizhen-yisheng-liao-xinguan-zhi-jiezhen-qinshen-ganshou-loayers_pa8js_kaeuaqf1nn41om",
+          "show": "这病说来话长",
+          "title": "VOL.16急诊危重病科｜阳康的急诊医生聊新冠之接诊亲身感受",
+          "url": "/wiki/sources/vol-16-jizhen-weizhongbingke-yangkang-de-jizhen-yisheng-liao-xinguan-zhi-jiezhen-qinshen-ganshou-loayers_pa8js_kaeuaqf1nn41om/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/baselineawarerespiratorymonitoring/"
     },
     "BasicResearchBreakthroughLatency": {
       "episode_count": 1,
@@ -114786,9 +114818,9 @@
       "url": "/wiki/entities/menelikii/"
     },
     "MengDoctorFeverClinic": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "li1aXA3xcD_jEa6LAUylj9cfjpwf [li1aXA3xcD_jEa6LAUylj9cfjpwf].md",
@@ -114810,6 +114842,13 @@
           "show": "这病说来话长",
           "title": "VOL.17急诊危重病科｜阳康的急诊医生聊新冠之用药误区｜对阿兹夫定和Paxlovid的谨慎态度",
           "url": "/wiki/sources/vol-17-jizhen-weizhongbingke-yangkang-de-jizhen-yisheng-liao-xinguan-zhi-yongyao-wuqu-dui-azifuding-he-paxlovid-de-jinshen-taidu-lqdru5slonvj7tu2rmhjlf0vlnzx/"
+        },
+        {
+          "episode_file": "loaYERs_Pa8js_kAEuAqf1nn41Om [loaYERs_Pa8js_kAEuAqf1nn41Om].md",
+          "key": "vol-16-jizhen-weizhongbingke-yangkang-de-jizhen-yisheng-liao-xinguan-zhi-jiezhen-qinshen-ganshou-loayers_pa8js_kaeuaqf1nn41om",
+          "show": "这病说来话长",
+          "title": "VOL.16急诊危重病科｜阳康的急诊医生聊新冠之接诊亲身感受",
+          "url": "/wiki/sources/vol-16-jizhen-weizhongbingke-yangkang-de-jizhen-yisheng-liao-xinguan-zhi-jiezhen-qinshen-ganshou-loayers_pa8js_kaeuaqf1nn41om/"
         }
       ],
       "updated": "2026-09-29",
@@ -143786,9 +143825,9 @@
       "url": "/wiki/concepts/respiratorygasbalanceandbreathworksafety/"
     },
     "RespiratorySymptomTriage": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "liz9RDhHqKBXPKtG1gD2z2Sb2klq [liz9RDhHqKBXPKtG1gD2z2Sb2klq].md",
@@ -143803,9 +143842,16 @@
           "show": "这病说来话长",
           "title": "VOL.51四科室医生会诊｜拒绝恐惧和焦虑 正确理性面对“二阳”才是正经事",
           "url": "/wiki/sources/vol-51-sikeshi-yisheng-huizhen-jujue-kongju-he-jiaolv-zhengque-lixing-miandui-eryang-caishi-zhengjingshi-lqzw5tta44mvu60jg-hrmxsak8ko/"
+        },
+        {
+          "episode_file": "loaYERs_Pa8js_kAEuAqf1nn41Om [loaYERs_Pa8js_kAEuAqf1nn41Om].md",
+          "key": "vol-16-jizhen-weizhongbingke-yangkang-de-jizhen-yisheng-liao-xinguan-zhi-jiezhen-qinshen-ganshou-loayers_pa8js_kaeuaqf1nn41om",
+          "show": "这病说来话长",
+          "title": "VOL.16急诊危重病科｜阳康的急诊医生聊新冠之接诊亲身感受",
+          "url": "/wiki/sources/vol-16-jizhen-weizhongbingke-yangkang-de-jizhen-yisheng-liao-xinguan-zhi-jiezhen-qinshen-ganshou-loayers_pa8js_kaeuaqf1nn41om/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/respiratorysymptomtriage/"
     },
     "ResponsibilityBoundRiskAvoidance": {

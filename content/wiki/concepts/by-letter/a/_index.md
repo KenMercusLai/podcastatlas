@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 8794
+wiki_total_pages: 8796
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -200,6 +200,9 @@ wiki_pages:
   - key: "AcuteWoundBurnFirstAid"
     title: "Acute Wound and Burn First Aid / 急性伤口与烫伤急救"
     url: "/wiki/concepts/acutewoundburnfirstaid/"
+  - key: "AcuteIllnessNutritionSupport"
+    title: "Acute-Illness Nutrition Support / 急性病期营养支持"
+    url: "/wiki/concepts/acuteillnessnutritionsupport/"
   - key: "AdaptationAsMoralReframing"
     title: "Adaptation As Moral Reframing / 改编作为道德重心重置"
     url: "/wiki/concepts/adaptationasmoralreframing/"
