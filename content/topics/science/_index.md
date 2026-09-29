@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1322
+topic_total_pages: 1323
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -3495,6 +3495,9 @@ topic_sources:
   - key: "data-ai-and-scientific-research-a-coffee-chat"
     title: "Data, AI, and Scientific Research: A Coffee Chat"
     url: "/wiki/sources/data-ai-and-scientific-research-a-coffee-chat/"
+  - key: "developing-a-rational-approach-to-supplementation-for-health-performance-scim5857890354"
+    title: "Developing a Rational Approach to Supplementation for Health & Performance"
+    url: "/wiki/sources/developing-a-rational-approach-to-supplementation-for-health-performance-scim5857890354/"
   - key: "dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d"
     title: "Dhaka matters: an election for Bangladesh"
     url: "/wiki/sources/dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d/"

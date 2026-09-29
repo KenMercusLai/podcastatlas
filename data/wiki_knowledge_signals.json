@@ -10385,9 +10385,9 @@
       "url": "/wiki/concepts/androgeninterventionclinicalboundary/"
     },
     "AndrogenSupportSupplementBoundary": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM5974928415 [SCIM5974928415].md",
@@ -10402,6 +10402,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Optimize Testosterone & Estrogen",
           "url": "/wiki/sources/essentials-how-to-optimize-testosterone-estrogen-scim1902283258/"
+        },
+        {
+          "episode_file": "SCIM5857890354 [SCIM5857890354].md",
+          "key": "developing-a-rational-approach-to-supplementation-for-health-performance-scim5857890354",
+          "show": "Huberman Lab",
+          "title": "Developing a Rational Approach to Supplementation for Health & Performance",
+          "url": "/wiki/sources/developing-a-rational-approach-to-supplementation-for-health-performance-scim5857890354/"
         }
       ],
       "updated": "2026-09-22",
@@ -131275,9 +131282,9 @@
       "url": "/wiki/concepts/performancelinkedadspendpricing/"
     },
     "PerformanceSupplementHierarchy": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1024405440 [SCIM1024405440].md",
@@ -131285,6 +131292,13 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Andy Galpin: Optimal Nutrition & Supplementation for Fitness",
           "url": "/wiki/sources/guest-series-dr-andy-galpin-optimal-nutrition-supplementation-for-fitness-scim1024405440/"
+        },
+        {
+          "episode_file": "SCIM5857890354 [SCIM5857890354].md",
+          "key": "developing-a-rational-approach-to-supplementation-for-health-performance-scim5857890354",
+          "show": "Huberman Lab",
+          "title": "Developing a Rational Approach to Supplementation for Health & Performance",
+          "url": "/wiki/sources/developing-a-rational-approach-to-supplementation-for-health-performance-scim5857890354/"
         }
       ],
       "updated": "2026-09-29",
@@ -156096,9 +156110,9 @@
       "url": "/wiki/concepts/sleepstagefunctionalarchitecture/"
     },
     "SleepSupplementBoundary": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM6408620468 [SCIM6408620468].md",
@@ -156134,6 +156148,13 @@
           "show": "这病说来话长",
           "title": "VOL.46食品与营养｜这5大健康困扰你占了几个？其实解决办法就在你身边！",
           "url": "/wiki/sources/vol-46-shipin-yu-yingyang-zhe-5-da-jiankang-kunrao-ni-zhanle-jige-qishi-jiejue-banfa-jiu-zai-ni-shenbian-ls3h7eocliv0b72bz2wxdhbealp5/"
+        },
+        {
+          "episode_file": "SCIM5857890354 [SCIM5857890354].md",
+          "key": "developing-a-rational-approach-to-supplementation-for-health-performance-scim5857890354",
+          "show": "Huberman Lab",
+          "title": "Developing a Rational Approach to Supplementation for Health & Performance",
+          "url": "/wiki/sources/developing-a-rational-approach-to-supplementation-for-health-performance-scim5857890354/"
         }
       ],
       "updated": "2026-09-28",
@@ -163500,6 +163521,29 @@
       "updated": "2026-09-17",
       "url": "/wiki/concepts/supplementcontractmanufacturing/"
     },
+    "SupplementLabelAccuracy": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_ed8c760b6e391051b3e2f7c5f8f114ae_36678497 [default.mp3_ywr3ahjkcgo_ed8c760b6e391051b3e2f7c5f8f114ae_36678497].md",
+          "key": "why-is-there-a-supplement-craze-if-they-dont-even-work",
+          "show": "Planet Money",
+          "title": "Why is there a supplement craze if they don't even work?",
+          "url": "/wiki/sources/why-is-there-a-supplement-craze-if-they-dont-even-work/"
+        },
+        {
+          "episode_file": "SCIM5857890354 [SCIM5857890354].md",
+          "key": "developing-a-rational-approach-to-supplementation-for-health-performance-scim5857890354",
+          "show": "Huberman Lab",
+          "title": "Developing a Rational Approach to Supplementation for Health & Performance",
+          "url": "/wiki/sources/developing-a-rational-approach-to-supplementation-for-health-performance-scim5857890354/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/supplementlabelaccuracy/"
+    },
     "SupplementMarketingIntensity": {
       "episode_count": 1,
       "show_count": 1,
@@ -165634,9 +165678,9 @@
       "url": "/wiki/concepts/targetedmemoryreactivation/"
     },
     "TargetedSupplementNeedAssessment": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "ljLwQq2yHTCsa4r3NvNzaA6P5I9O [ljLwQq2yHTCsa4r3NvNzaA6P5I9O].md",
@@ -165651,6 +165695,13 @@
           "show": "这病说来话长",
           "title": "VOL.47食品与营养｜关于免疫力和补充剂的误区你中了几条？",
           "url": "/wiki/sources/vol-47-shipin-yu-yingyang-guanyu-mianyili-he-buchongji-de-wuqu-ni-zhongle-jitiao-lruch-jc9a_r3r1qmdo2ojlxz2mk/"
+        },
+        {
+          "episode_file": "SCIM5857890354 [SCIM5857890354].md",
+          "key": "developing-a-rational-approach-to-supplementation-for-health-performance-scim5857890354",
+          "show": "Huberman Lab",
+          "title": "Developing a Rational Approach to Supplementation for Health & Performance",
+          "url": "/wiki/sources/developing-a-rational-approach-to-supplementation-for-health-performance-scim5857890354/"
         }
       ],
       "updated": "2026-09-28",

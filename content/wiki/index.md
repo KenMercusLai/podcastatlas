@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Developing a Rational Approach to Supplementation for Health & Performance](sources/developing-a-rational-approach-to-supplementation-for-health-performance-scim5857890354.md) — Huberman Lab solo episode on foundations-first supplement decisions, single-variable testing, label uncertainty, sleep aids, hormone-active products, cognition tools, and clinical boundaries.
 - [How to Access Your Creativity | Rick Rubin](sources/how-to-access-your-creativity-rick-rubin-scim6664103159.md) — Full Huberman Lab conversation on felt creative judgment, constraints, receptive attention, phase-specific deadlines, completion, feedback boundaries, and meditation.
 - [GUEST SERIES | Dr. Andy Galpin: How to Assess & Improve All Aspects of Your Fitness](sources/guest-series-dr-andy-galpin-how-to-assess-improve-all-aspects-of-your-fitness-scim9072919255.md) — Huberman Lab guest-series opener on nine trainable adaptations, cross-domain fitness gaps, practical self-testing, and weak-link prioritization.
 - [vol.56 对谈咪仔：人生是认领自己与确立使命的过程](sources/vol-56-duitan-mizi-rensheng-shi-renling-ziji-yu-queli-shiming-de-guocheng-lgrbpfubc8s6y59jb6tsd6glz-c.md) — 天真不天真 conversation on career-skill convergence, crime-podcast craft, journalism ethics, paid-content design, creator portfolios, vulnerability, and emotional triggers.

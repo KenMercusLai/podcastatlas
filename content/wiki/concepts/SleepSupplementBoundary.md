@@ -8,6 +8,7 @@ sources:
   - vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng-bu-chiyao-lvn_cutp5uob9zeosq-wiv3c4zot
   - guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951
   - vol-46-shipin-yu-yingyang-zhe-5-da-jiankang-kunrao-ni-zhanle-jige-qishi-jiejue-banfa-jiu-zai-ni-shenbian-ls3h7eocliv0b72bz2wxdhbealp5
+  - developing-a-rational-approach-to-supplementation-for-health-performance-scim5857890354
 last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
@@ -30,6 +31,8 @@ The Walker conversation reinforces the foundations-first rule while widening the
 
 VOL.46 adds problem matching: melatonin is more plausibly relevant when sleep timing is disrupted by jet lag, inverted schedules, irregular routines, or age-related change than when the dominant problem is stress, rumination, phone stimulation, or persistent nervous-system arousal. The episode also reinforces low-dose caution and daytime-side-effect awareness while keeping exact doses, long-term dependence, GABA, theanine, and magnesium claims source-scoped.
 
+The dedicated supplementation episode adds explicit variable isolation. It asks users to check late caffeine and food timing before adding an aid, then test one ingredient for roughly a week before considering combinations. Myo-inositol is discussed for night waking, while theanine is again qualified by vivid-dream sensitivity; melatonin is questioned for routine use, sleep maintenance, label accuracy, and childhood exposure.
+
 ## Key Claims
 - Behavioral tools come first, nutrition second, supplements third, and prescription drugs require physician involvement.
 - Magnesium forms, apigenin, theanine, and occasional inositol are presented as possible sleep supports; evidence may depend on deficiency, formulation, and individual response.
@@ -37,7 +40,7 @@ VOL.46 adds problem matching: melatonin is more plausibly relevant when sleep ti
 - Theanine may cause vivid or disruptive dreams for some people.
 - Melatonin is treated as a hormone whose commercial doses may exceed endogenous levels, making chronic use—especially in children—a concern rather than a casual default.
 - Valerian is described as unsupported and glycine or phosphatidylserine as more promising, but these comparisons remain source-scoped rather than product recommendations.
-- Sleep aids should be matched to the cause: a circadian-timing intervention is not automatically a treatment for stress- or arousal-driven insomnia.
+- Sleep aids should be matched to the cause and tested one at a time: a circadian-timing intervention is not automatically a treatment for stress- or arousal-driven insomnia.
 
 ## Evidence
 - Hierarchy - [[essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468]] prioritizes behavioral tools, then nutrition, then supplements, then prescription drugs under a physician.
@@ -49,13 +52,15 @@ VOL.46 adds problem matching: melatonin is more plausibly relevant when sleep ti
 - Deficiency and comparison boundary - [[guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951]] says magnesium evidence is clearest for deficiency, describes valerian as unsupported, and treats glycine and phosphatidylserine as only more promising.
 - Regimen boundary - [[guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951]] places behavioral foundations before supplements and directs changes through clinician discussion.
 - Problem-fit and dose boundary - [[vol-46-shipin-yu-yingyang-zhe-5-da-jiankang-kunrao-ni-zhanle-jige-qishi-jiejue-banfa-jiu-zai-ni-shenbian-ls3h7eocliv0b72bz2wxdhbealp5|VOL.46]] distinguishes circadian disruption from stress or stimulation-related insomnia and warns that higher-dose melatonin can produce daytime sleepiness, headache, or unease.
+- Variable isolation and melatonin boundary - [[developing-a-rational-approach-to-supplementation-for-health-performance-scim5857890354]] checks caffeine and meal timing first, discusses myo-inositol for night waking, recommends isolated trials, and raises routine-use, maintenance, label, and pediatric concerns about melatonin.
 
 ## Counterevidence & Qualifications
-The sources do not determine whether any person should use, taper, or avoid a supplement, hormone, serotonin precursor, or prescription sleep medication. They do not establish comparative efficacy for valerian, glycine, phosphatidylserine, GABA, theanine, inositol, magnesium forms, or deficiency testing; certify product quality; validate doses or long-term dependence claims; or replace clinical care for insomnia, pediatric sleep, pregnancy, psychiatric illness, breathing disorders, drug interactions, or persistent impairment.
+The sources do not determine whether any person should use, taper, or avoid a supplement, hormone, serotonin precursor, or prescription sleep medication. They do not establish comparative efficacy for valerian, glycine, phosphatidylserine, GABA, theanine, myo-inositol, magnesium forms, or deficiency testing; certify product quality; validate doses, label-variance estimates, or long-term dependence claims; or replace clinical care for insomnia, pediatric sleep, pregnancy, psychiatric illness, breathing disorders, drug interactions, or persistent impairment.
 
 ## What Changed
-- Added cause matching between circadian disruption and stress- or stimulation-related insomnia.
-- Added low-dose and next-day side-effect caution without adopting a universal regimen.
+- Added late-caffeine and meal-timing checks before supplement trials.
+- Added one-at-a-time testing and night-waking problem matching.
+- Expanded melatonin caution to sleep maintenance and label accuracy.
 
 ## Related Concepts
 - [[SleepWakeTimingToolkit]] - parent timing toolkit that places supplements after behavior and nutrition.
