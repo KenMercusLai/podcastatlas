@@ -4475,6 +4475,10 @@
     "title": "积怨式默认怀疑 / Accumulated Enmity Default Suspicion",
     "url": "/wiki/concepts/accumulatedenmitydefaultsuspicion/"
   },
+  "AccumulatedSkillMissionRecognition": {
+    "title": "Accumulated-Skill Mission Recognition / 累积能力的使命识别",
+    "url": "/wiki/concepts/accumulatedskillmissionrecognition/"
+  },
   "AccusationQuotaRefusal": {
     "title": "Accusation Quota Refusal / 诬陷指标拒绝",
     "url": "/wiki/concepts/accusationquotarefusal/"
@@ -10582,6 +10586,10 @@
   "BlackBerry": {
     "title": "BlackBerry",
     "url": "/wiki/entities/blackberry/"
+  },
+  "BlackCatDetectiveAgency": {
+    "title": "黑猫侦探社 / Black Cat Detective Agency",
+    "url": "/wiki/entities/blackcatdetectiveagency/"
   },
   "BlackComicMoralInversion": {
     "title": "Black Comic Moral Inversion",
@@ -23823,6 +23831,10 @@
     "title": "Emotional Stability As Social Norm / 情绪稳定作为社会规范",
     "url": "/wiki/concepts/emotionalstabilityassocialnorm/"
   },
+  "EmotionalTriggerSourceSeparation": {
+    "title": "Emotional Trigger-Source Separation / 情绪触发源分离",
+    "url": "/wiki/concepts/emotionaltriggersourceseparation/"
+  },
   "EmotionalValueCommodification": {
     "title": "Emotional Value Commodification / 情绪价值商品化",
     "url": "/wiki/concepts/emotionalvaluecommodification/"
@@ -24650,6 +24662,10 @@
   "EthicalMinorityTravel": {
     "title": "Ethical Minority Travel / 少数民族地区旅行伦理",
     "url": "/wiki/concepts/ethicalminoritytravel/"
+  },
+  "EthicalPaidContentDesign": {
+    "title": "Ethical Paid-Content Design / 内容付费伦理设计",
+    "url": "/wiki/concepts/ethicalpaidcontentdesign/"
   },
   "EthicalTriageUnderScarcity": {
     "title": "稀缺情境下的伦理分诊 / Ethical Triage Under Scarcity",
@@ -49215,6 +49231,10 @@
     "title": "Mixue Bingcheng",
     "url": "/wiki/entities/mixuebingcheng/"
   },
+  "MiziCrimePodcaster": {
+    "title": "咪仔 / Mizi",
+    "url": "/wiki/entities/mizicrimepodcaster/"
+  },
   "MoChen": {
     "title": "莫晨 / Mo Chen",
     "url": "/wiki/entities/mochen/"
@@ -68983,6 +69003,10 @@
     "title": "Super Bowl / 超级碗（轻食品牌）",
     "url": "/wiki/entities/superbowllightfood/"
   },
+  "SuperCreatorPortfolioModel": {
+    "title": "Super-Creator Portfolio Model / 超级创作者组合模型",
+    "url": "/wiki/concepts/supercreatorportfoliomodel/"
+  },
   "SuperDry": {
     "title": "Super Dry",
     "url": "/wiki/entities/superdry/"
@@ -88450,6 +88474,10 @@
   "vol-56-daxue-biyeji-zhai-yanjing-dai-yatao-chuzhou-zhandou-jianfei-5-xueke-lianmei-wei-ni-chuzhao-lkmkuyymlfqxiyoes-n5nflvljry": {
     "title": "VOL.56大学毕业季｜摘眼镜、戴牙套、除皱、战痘、减肥 5学科联袂为你出招",
     "url": "/wiki/sources/vol-56-daxue-biyeji-zhai-yanjing-dai-yatao-chuzhou-zhandou-jianfei-5-xueke-lianmei-wei-ni-chuzhao-lkmkuyymlfqxiyoes-n5nflvljry/"
+  },
+  "vol-56-duitan-mizi-rensheng-shi-renling-ziji-yu-queli-shiming-de-guocheng-lgrbpfubc8s6y59jb6tsd6glz-c": {
+    "title": "vol.56 对谈咪仔：人生是认领自己与确立使命的过程",
+    "url": "/wiki/sources/vol-56-duitan-mizi-rensheng-shi-renling-ziji-yu-queli-shiming-de-guocheng-lgrbpfubc8s6y59jb6tsd6glz-c/"
   },
   "vol-57-jingshenke-xinli-jibing-daozhi-de-qingsheng-ke-yufang-jiyu-peiban-shi-zuihao-de-anwei-renshi-yiyu-he-yiyu-qingxu-lhgqmsvos2ybk74qjnrt3bxs0l7d": {
     "title": "VOL.57精神科｜心理疾病导致的轻生可预防 给予陪伴是最好的安慰｜认识抑郁和抑郁情绪",

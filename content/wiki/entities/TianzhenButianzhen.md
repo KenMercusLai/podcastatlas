@@ -5,49 +5,49 @@ tags: [podcast, conversation, self-knowledge, media]
 sources:
   - vol-54-duitan-songjia-wo-weishenme-shi-wo-mingyun-de-mudedi-bushi-zhangkong-yiqie-ershi-jingli-yiqie-lues-m-6btm17a5qt6kb1khr5s6i
   - vol-55-duitan-xieyin-melody-xuan-yitiao-gengman-de-lu-ranhou-shizhe-zou-de-gengyuan-lvmwwqnwmew2-s22x-4otjy2gnlw
-last_updated: 2026-09-08
+  - vol-56-duitan-mizi-rensheng-shi-renling-ziji-yu-queli-shiming-de-guocheng-lgrbpfubc8s6y59jb6tsd6glz-c
+last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
 
 # 天真不天真
 
 ## Overview
-天真不天真 is a conversation-led podcast represented in the wiki through reflective interviews with [[SongJia|宋佳 / 小花老师]] and [[XieyinMelody|携隐 Melody]]. The available sources show the program using personal conversation to connect work identity, relationships, long-form media, creator transition, and self-knowledge.
+天真不天真 is a conversation-led podcast represented through reflective interviews with [[SongJia|宋佳 / 小花老师]], [[XieyinMelody|携隐 Melody]], and [[MiziCrimePodcaster|咪仔]]. The sources connect work identity, relationships, long-form media, creator transition, business design, emotional triggers, and self-knowledge.
 
 ## Current Profile
-The sources present 天真不天真 as a show whose method is part of its subject. In the Song Jia conversation, the host begins from a prior high-performing guest episode and lets the return conversation move through career uncertainty, manifestation language, speech intention, jealousy, inward attention, relationship needs, apology, travel, study abroad, and future English-language podcast ambitions.
+The show treats conversation method as part of its subject. With Song Jia it moves through career uncertainty, speech intention, jealousy, relationship needs, apology, travel, and inward attention. With Melody it argues that long-form voice can preserve thought, relationship, and human presence even when short video is commercially faster. With Mizi it links a creator's full career history to mission recognition, paid-content ethics, team economics, grief, vulnerability, and practiced emotion regulation.
 
-The Melody conversation makes the show's media thesis more explicit. [[YangTianzhen|杨天真 / 天真]] treats podcasting as her first-priority work even though short video can be more efficient commercially, because long-form voice can preserve thought, relationship, and AI-era human connection. The show therefore sits at the intersection of [[PodcastAuthenticityBoundary]], [[LongContentTimeTail]], and [[PodcastLedMediaTransition]]: its value comes from audible process, personal presence, professional media curiosity, and a willingness to choose a slower format.
+Across the three sources, [[YangTianzhen|杨天真 / 天真]] brings operational questions about formats, conversion, companies, and products into conversations that also tolerate uncertainty and personal revision. The show sits at the intersection of [[PodcastAuthenticityBoundary]], [[LongContentTimeTail]], [[PodcastLedMediaTransition]], and [[InwardLookingSelfCultivation]].
 
 ## Key Characteristics
-- The show uses returning guests and prior audience response as entry points into updated life states.
-- Its conversational format prioritizes process, mutual recognition, and personal examples over systematic expert instruction.
-- The show treats self-knowledge, relationships, and work identity as intertwined rather than separate advice categories.
-- It presents podcasting as a medium of comparatively complete, lightly edited, real-time exchange.
-- It now frames podcasting as both a personal expression medium and a possible media-industry transition route.
-- Its host openly contrasts long-form author logic with short-video traffic logic and commercial pressure.
+- The show uses guests' career histories and current transitions as entry points into broader questions of identity and purpose.
+- Its conversations prioritize process, mutual recognition, and concrete personal examples over systematic expert instruction.
+- It treats self-knowledge, relationships, emotional practice, and work design as intertwined.
+- It presents podcasting as comparatively complete, lightly edited, long-form exchange with durable relational value.
+- It combines creator-business analysis with boundaries around manipulation, public-interest facts, and audience trust.
+- It frames podcasting as both personal inquiry and an organized media-production route.
 
 ## Evidence
-- Return-guest structure: [[vol-54-duitan-songjia-wo-weishenme-shi-wo-mingyun-de-mudedi-bushi-zhangkong-yiqie-ershi-jingli-yiqie-lues-m-6btm17a5qt6kb1khr5s6i]] opens by noting Song Jia's earlier guest episode had unusually high clicks and spread.
-- Process-oriented conversation: [[vol-54-duitan-songjia-wo-weishenme-shi-wo-mingyun-de-mudedi-bushi-zhangkong-yiqie-ershi-jingli-yiqie-lues-m-6btm17a5qt6kb1khr5s6i]] moves through work, speech, jealousy, relationships, apology, travel, and English learning without reducing them to one formal framework.
-- Self-knowledge and relationship integration: [[vol-54-duitan-songjia-wo-weishenme-shi-wo-mingyun-de-mudedi-bushi-zhangkong-yiqie-ershi-jingli-yiqie-lues-m-6btm17a5qt6kb1khr5s6i]] connects "向内求" to speech, anger, need expression, and not trying to change intimate partners.
-- Podcast authenticity and long-form value: [[vol-54-duitan-songjia-wo-weishenme-shi-wo-mingyun-de-mudedi-bushi-zhangkong-yiqie-ershi-jingli-yiqie-lues-m-6btm17a5qt6kb1khr5s6i]] says podcasts can show the whole conversational process and preserve real states with limited editing; [[vol-55-duitan-xieyin-melody-xuan-yitiao-gengman-de-lu-ranhou-shizhe-zou-de-gengyuan-lvmwwqnwmew2-s22x-4otjy2gnlw]] adds that podcasts can preserve thought and human connection despite lower near-term commercial return.
-- Media transition and format contrast: [[vol-55-duitan-xieyin-melody-xuan-yitiao-gengman-de-lu-ranhou-shizhe-zou-de-gengyuan-lvmwwqnwmew2-s22x-4otjy2gnlw]] connects the show to media-worker podcast transition, short-video logic, AI creation, and the business choice to build podcast-company capacity.
-- Cross-language ambition: [[vol-54-duitan-songjia-wo-weishenme-shi-wo-mingyun-de-mudedi-bushi-zhangkong-yiqie-ershi-jingli-yiqie-lues-m-6btm17a5qt6kb1khr5s6i]] links English learning to the desire to conduct future conversations directly with non-Chinese speakers.
+- Self-knowledge and relationships - [[vol-54-duitan-songjia-wo-weishenme-shi-wo-mingyun-de-mudedi-bushi-zhangkong-yiqie-ershi-jingli-yiqie-lues-m-6btm17a5qt6kb1khr5s6i]] connects inward attention to speech, anger, needs, apology, and attachment to evaluation.
+- Long-form media thesis - [[vol-55-duitan-xieyin-melody-xuan-yitiao-gengman-de-lu-ranhou-shizhe-zou-de-gengyuan-lvmwwqnwmew2-s22x-4otjy2gnlw]] says podcasts preserve thought and human connection despite lower near-term commercial return.
+- Career-history method - [[vol-56-duitan-mizi-rensheng-shi-renling-ziji-yu-queli-shiming-de-guocheng-lgrbpfubc8s6y59jb6tsd6glz-c]] traces music, journalism, public relations, migration, food sales, and podcast work before identifying storytelling as Mizi's mission.
+- Business, ethics, and vulnerability - [[vol-55-duitan-xieyin-melody-xuan-yitiao-gengman-de-lu-ranhou-shizhe-zou-de-gengyuan-lvmwwqnwmew2-s22x-4otjy2gnlw]] examines traffic and professional production; [[vol-56-duitan-mizi-rensheng-shi-renling-ziji-yu-queli-shiming-de-guocheng-lgrbpfubc8s6y59jb6tsd6glz-c]] adds payment design, creator portfolios, support systems, and trigger recognition.
 
 ## Qualifications
-The wiki currently has two sources for 天真不天真, both reflective conversations. The page should not be read as a full catalog description, host biography, audience profile, or proof that the discussed podcast-company plans have been executed.
+The wiki currently has three reflective conversations rather than a complete catalog. The page does not establish the show's full guest range, audience composition, editorial process, or the execution and performance of business plans discussed on air. Mental-health and career reflections remain personal and source-scoped.
 
 ## What Changed
-- Added the Melody source, expanding the show profile from self-knowledge conversation into podcast-media strategy, long-form value, and creator transition.
+- Added career-mission recognition, crime-audio craft, paid-content ethics, and creator-portfolio design.
+- Expanded the show's self-knowledge branch into vulnerability, support systems, and emotional trigger analysis.
+- Added Mizi and 黑猫侦探社 to the represented guest and creator ecosystem.
 
 ## Relationships
-- [[YangTianzhen]] - host whose creator and operator transition becomes explicit in the Melody conversation.
-- [[SongJia]] - returning guest whose conversation anchors the current show profile.
-- [[XieyinMelody]] - guest whose long-form podcast experience shapes the episode's media thesis.
-- [[PodcastAuthenticityBoundary]] - media-quality concept illustrated by the show's emphasis on complete real conversation.
-- [[PodcastCommercializationFragmentation]] - adjacent monetization boundary because the host names advertising and paid podcasting as limited routes.
-- [[ChinesePodcastEcosystem]] - broader media environment in which the show sits.
-- [[PodcastEnabledCareerPath]] - adjacent creator path because the host links podcasting to future cross-language interviews.
-- [[LongContentTimeTail]] - long-form value concept made explicit in the Melody conversation.
-- [[PodcastLedMediaTransition]] - media-worker transition route the show discusses and may participate in.
+- [[YangTianzhen]] - host whose creator, operator, and self-regulation practices shape the conversations.
+- [[SongJia]] - returning guest anchoring speech, relationship, acting, and inward-attention themes.
+- [[XieyinMelody]] - guest anchoring long-form media, podcast labor, and creator transition.
+- [[MiziCrimePodcaster]] - guest anchoring career convergence, nonfiction craft, monetization, and vulnerability.
+- [[PodcastAuthenticityBoundary]] - trust boundary reinforced by the show's real conversational process.
+- [[PodcastCommercializationFragmentation]] - market condition examined through multiple guests and formats.
+- [[AccumulatedSkillMissionRecognition]] - career-purpose pattern developed in the Mizi conversation.
+- [[EmotionalTriggerSourceSeparation]] - emotional-practice pattern developed in the Mizi conversation.

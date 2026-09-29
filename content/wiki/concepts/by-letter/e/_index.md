@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 8790
+wiki_total_pages: 8794
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -482,6 +482,9 @@ wiki_pages:
   - key: "EmotionalStabilityAsSocialNorm"
     title: "Emotional Stability As Social Norm / 情绪稳定作为社会规范"
     url: "/wiki/concepts/emotionalstabilityassocialnorm/"
+  - key: "EmotionalTriggerSourceSeparation"
+    title: "Emotional Trigger-Source Separation / 情绪触发源分离"
+    url: "/wiki/concepts/emotionaltriggersourceseparation/"
   - key: "EmotionalValueCommodification"
     title: "Emotional Value Commodification / 情绪价值商品化"
     url: "/wiki/concepts/emotionalvaluecommodification/"
@@ -806,6 +809,9 @@ wiki_pages:
   - key: "EthicalMinorityTravel"
     title: "Ethical Minority Travel / 少数民族地区旅行伦理"
     url: "/wiki/concepts/ethicalminoritytravel/"
+  - key: "EthicalPaidContentDesign"
+    title: "Ethical Paid-Content Design / 内容付费伦理设计"
+    url: "/wiki/concepts/ethicalpaidcontentdesign/"
   - key: "EthnographicEverydayFriction"
     title: "Ethnographic Everyday Friction / 民族志日常摩擦"
     url: "/wiki/concepts/ethnographiceverydayfriction/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 8790
+wiki_total_pages: 8794
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -104,6 +104,9 @@ wiki_pages:
   - key: "AccretiveTextFormation"
     title: "Accretive Text Formation"
     url: "/wiki/concepts/accretivetextformation/"
+  - key: "AccumulatedSkillMissionRecognition"
+    title: "Accumulated-Skill Mission Recognition / 累积能力的使命识别"
+    url: "/wiki/concepts/accumulatedskillmissionrecognition/"
   - key: "AccusationQuotaRefusal"
     title: "Accusation Quota Refusal / 诬陷指标拒绝"
     url: "/wiki/concepts/accusationquotarefusal/"

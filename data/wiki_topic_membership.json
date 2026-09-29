@@ -72689,6 +72689,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "SuperCreatorPortfolioModel": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "SuperJustice": [
     {
       "key": "technology",

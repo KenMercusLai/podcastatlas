@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2138
+topic_total_pages: 2139
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2830,6 +2830,9 @@ topic_concepts:
   - key: "SuccessionAsContinuousEntrepreneurship"
     title: "Succession as Continuous Entrepreneurship / 接班即持续创业"
     url: "/wiki/concepts/successionascontinuousentrepreneurship/"
+  - key: "SuperCreatorPortfolioModel"
+    title: "Super-Creator Portfolio Model / 超级创作者组合模型"
+    url: "/wiki/concepts/supercreatorportfoliomodel/"
   - key: "SupersonicRegulatorySpeedLimit"
     title: "Supersonic Regulatory Speed Limit"
     url: "/wiki/concepts/supersonicregulatoryspeedlimit/"

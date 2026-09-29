@@ -4,44 +4,49 @@ type: entity
 tags: [creator, podcast-host, media, entrepreneurship]
 sources:
   - vol-55-duitan-xieyin-melody-xuan-yitiao-gengman-de-lu-ranhou-shizhe-zou-de-gengyuan-lvmwwqnwmew2-s22x-4otjy2gnlw
-last_updated: 2026-09-08
+  - vol-56-duitan-mizi-rensheng-shi-renling-ziji-yu-queli-shiming-de-guocheng-lgrbpfubc8s6y59jb6tsd6glz-c
+last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
 
 # 杨天真 / 天真
 
 ## Overview
-杨天真 / 天真 is the host voice in the [[vol-55-duitan-xieyin-melody-xuan-yitiao-gengman-de-lu-ranhou-shizhe-zou-de-gengyuan-lvmwwqnwmew2-s22x-4otjy2gnlw]] source note, where she discusses moving from talent-management and backstage work toward public hosting, podcast production, short-video judgment, and personal method revision.
+杨天真 / 天真 is a host, public creator, and media operator represented through consecutive [[TianzhenButianzhen|天真不天真]] conversations with [[XieyinMelody|携隐 Melody]] and [[MiziCrimePodcaster|咪仔]]. The sources connect her podcast priority, long- versus short-form media judgment, creator-company planning, payment ethics, public-role transition, and practical emotion regulation.
 
 ## Current Profile
-The available source presents Yang Tianzhen as both a creator and operator. She treats podcasting as a slower but higher-value priority than more immediately profitable short-video work because it preserves thought, voice, and human connection. Her operating view is commercial without being purely metric-driven: she studies behavior, titles, conversion, and platform logic, but rejects formats or payment designs that feel too dependent on exploiting weakness.
+Yang Tianzhen treats podcasting as a slower but high-value medium because it preserves thought, voice, human connection, and durable conversation. Her operating view is commercial without being purely metric-driven: she studies behavior, titles, conversion, platform logic, subscriptions, advertising, and creator portfolios, while rejecting formats or payment designs that depend mainly on exploiting weakness, anxiety, or strategically missing information.
 
-The episode also makes her personal transition explicit. Moving from behind the scenes to the front stage initially felt awkward because celebrity-like treatment conflicted with her old self-understanding. Her current practice is to notice control-driven stress responses, apologize when they hurt others, document what happened, and revise her internal operating system rather than only add more external methods.
+The second source makes her organizational ambition more concrete. She proposes a [[SuperCreatorPortfolioModel|超级创作者组合模型]] and a podcast company that can combine editors, researchers, performers, operators, and public figures rather than expecting one creator to master every function. Her self-work similarly combines role transition with [[EmotionalTriggerSourceSeparation|情绪触发源分离]], support systems, repair after strong reactions, and release from a rigid strong-woman persona.
 
 ## Key Characteristics
-- She prioritizes podcasting as a human-connection and long-form thinking surface even when short video is commercially easier.
-- She reads media formats through business-model and behavior-design questions, including conversion, titles, user psychology, and monetization ethics.
-- She is building or planning podcast-company capabilities that combine professional editors, investigators, voice performance, and commercial resources.
-- Her transition from backstage operator to public creator creates identity friction around visibility, audience contact, and public attention.
-- Her recent self-work centers on loosening control, retiring overused methods, observing stress responses, and building new regulation habits.
+- She prioritizes podcasting as a long-form human-connection and thinking surface despite weaker immediate commercial efficiency.
+- She evaluates media through both user value and business mechanics, including behavior design, pricing, conversion, and monetization ethics.
+- She is building or proposing podcast-company and super-creator capabilities that combine complementary specialist roles.
+- Her transition from backstage operator to public creator creates identity friction around visibility and audience contact.
+- She treats standards as reusable "case law" while allowing major value changes to revise them.
+- Her emotional practice separates present facts and responsibility from older control, abandonment, or grievance triggers.
 
 ## Evidence
-- Podcast priority: [[vol-55-duitan-xieyin-melody-xuan-yitiao-gengman-de-lu-ranhou-shizhe-zou-de-gengyuan-lvmwwqnwmew2-s22x-4otjy2gnlw]] says she keeps podcasting as a first-priority job despite lower commercial cost performance.
-- Business and behavior reading: [[vol-55-duitan-xieyin-melody-xuan-yitiao-gengman-de-lu-ranhou-shizhe-zou-de-gengyuan-lvmwwqnwmew2-s22x-4otjy2gnlw]] has her analyze short-drama payment design, short-video title reaction, conversion metrics, and behavior economics.
-- Podcast-company planning: [[vol-55-duitan-xieyin-melody-xuan-yitiao-gengman-de-lu-ranhou-shizhe-zou-de-gengyuan-lvmwwqnwmew2-s22x-4otjy2gnlw]] describes her plans for podcast production, including crime-podcast editorial hiring and possible cooperation with legal or investigative institutions.
-- Identity transition: [[vol-55-duitan-xieyin-melody-xuan-yitiao-gengman-de-lu-ranhou-shizhe-zou-de-gengyuan-lvmwwqnwmew2-s22x-4otjy2gnlw]] records her discomfort when production staff, advertisers, or listeners treated her as a front-stage public figure.
-- Regulation practice: [[vol-55-duitan-xieyin-melody-xuan-yitiao-gengman-de-lu-ranhou-shizhe-zou-de-gengyuan-lvmwwqnwmew2-s22x-4otjy2gnlw]] describes allowing instinctive reactions, apologizing after harm, recording the situation, and fixing future response patterns.
+- Podcast priority and format judgment - [[vol-55-duitan-xieyin-melody-xuan-yitiao-gengman-de-lu-ranhou-shizhe-zou-de-gengyuan-lvmwwqnwmew2-s22x-4otjy2gnlw]] contrasts long-form author logic with short-video traffic logic and says podcasting remains first-priority work.
+- Creator-company design - [[vol-55-duitan-xieyin-melody-xuan-yitiao-gengman-de-lu-ranhou-shizhe-zou-de-gengyuan-lvmwwqnwmew2-s22x-4otjy2gnlw]] introduces professional editorial and investigative capacity; [[vol-56-duitan-mizi-rensheng-shi-renling-ziji-yu-queli-shiming-de-guocheng-lgrbpfubc8s6y59jb6tsd6glz-c]] adds specialist role combination and a multi-format portfolio.
+- Monetization ethics - [[vol-56-duitan-mizi-rensheng-shi-renling-ziji-yu-queli-shiming-de-guocheng-lgrbpfubc8s6y59jb6tsd6glz-c]] supports charging for valuable work while opposing anxiety and information-gap manipulation.
+- Identity and regulation - [[vol-55-duitan-xieyin-melody-xuan-yitiao-gengman-de-lu-ranhou-shizhe-zou-de-gengyuan-lvmwwqnwmew2-s22x-4otjy2gnlw]] records front-stage discomfort and control-reaction repair; [[vol-56-duitan-mizi-rensheng-shi-renling-ziji-yu-queli-shiming-de-guocheng-lgrbpfubc8s6y59jb6tsd6glz-c]] adds fact-first trigger analysis, diversified support, tears, and vulnerability.
 
 ## Qualifications
-This profile is source-scoped to one podcast conversation. It should not be treated as a complete biography, company history, or verified business plan beyond the claims made in the episode.
+The profile is bounded to two podcast conversations and should not be treated as a complete biography, clinical account, company history, or proof that proposed production and creator-business models have been executed successfully. Business, emotional-development, and audience claims are speaker-reported.
 
 ## What Changed
-- Created the entity from the Melody conversation source.
+- Added payment ethics, specialist creator-company design, and the super-creator portfolio proposal.
+- Expanded self-regulation from control repair to support systems, vulnerability, and trigger-source separation.
+- Clarified her use of reusable judgment standards and non-retroactive self-blame.
 
 ## Relationships
-- [[TianzhenButianzhen]] - show context where Yang Tianzhen appears as host.
-- [[XieyinMelody]] - guest and early podcast advocate for Yang Tianzhen.
+- [[TianzhenButianzhen]] - show she hosts and uses for long-form inquiry.
+- [[XieyinMelody]] - guest who helps frame podcast-media transition and creator identity.
+- [[MiziCrimePodcaster]] - guest whose career, payment ethics, and crime-audio craft ground the second source.
 - [[PodcastLedMediaTransition]] - media route she is building around professional long-form audio.
-- [[ShortVideoTrafficLogic]] - platform logic she contrasts with long-form author logic.
-- [[CreatorIdentityTransition]] - personal transition pattern illustrated by her backstage-to-front-stage discomfort.
-- [[MethodologyDisarmament]] - self-regulation pattern she names through retiring old "weapons."
+- [[SuperCreatorPortfolioModel]] - business structure she proposes for multi-format creator work.
+- [[EthicalPaidContentDesign]] - compensation and anti-manipulation boundary she articulates with Mizi.
+- [[EmotionalTriggerSourceSeparation]] - fact-and-history separation used in her emotional-regulation account.
+- [[MethodologyDisarmament]] - practice of retiring overused control and success methods.

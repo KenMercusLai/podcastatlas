@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-29] ingest | vol.56 对谈咪仔：人生是认领自己与确立使命的过程
+
+Added source `vol-56-duitan-mizi-rensheng-shi-renling-ziji-yu-queli-shiming-de-guocheng-lgrbpfubc8s6y59jb6tsd6glz-c`; created `MiziCrimePodcaster`, `BlackCatDetectiveAgency`, `EthicalPaidContentDesign`, `AccumulatedSkillMissionRecognition`, `EmotionalTriggerSourceSeparation`, and `SuperCreatorPortfolioModel`; and updated `YangTianzhen`, `TianzhenButianzhen`, `PodcastCommercializationFragmentation`, and the canonical index from their complete bounded source sets. Core synthesis: a creator mission can become legible when accumulated craft, values, and environmental experiments converge; sustainable payment should fund real added value without manufacturing information gaps or anxiety; and creator resilience depends on separating present facts from older triggers while building diversified support. No settled contradiction was adopted. Career, revenue, audience-growth, health, relationship, and business-plan details remain speaker-reported and source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-29] ingest | Vol.354 宛如泰坦尼克：冒充者综合征大爆发！献给才华平平但野心勃勃的人
 
 Added source `vol-354-wanru-taitannike-maochongzhe-zonghezheng-dabaofa-xiangei-caihua-pingping-dan-yexin-bobo-de-ren-gkwrirwokgwgauo05wtfda-h`; created `JessicaChiccehittoHindman`, `SoundsLikeTitanicBook`, `PerformanceAuthenticityTradeoff`, and `RecognitionDrivenWorkplaceConformity`; and updated `CultureLimited`, `ImpostorSyndrome`, `EffortNarrativeInterrogation`, `PodcastAuthenticityBoundary`, and the canonical index from their complete bounded source sets. Core synthesis: genuine comfort, applause, income, and narrative recovery can coexist with a concealed production process, while audience perfection demands, effort-to-success myths, and approval-seeking workplace conformity help explain fake performance without erasing responsibility. No settled contradiction was adopted. The suspected composer identity, audience knowledge, symptom causation, post-9/11 interpretation, translation dispute, and consumer-consent balance remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -25267,6 +25271,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-29] ingest | 296: The Nazis: The Beer Hall Putsch (Part 2)
 
 Added source `296-the-nazis-the-beer-hall-putsch-part-2-glt4099180386`; created `BeerHallPutsch`, `GustavStresemann`, `ErichLudendorff`, `MeinKampf`, and `GregorStrasser`; and updated `AdolfHitler`, `PaulVonHindenburg`, `FriedrichEbert`, `WeimarRepublic`, `LegalCoerciveDictatorshipConsolidation`, and the canonical index from their complete bounded source sets. Core synthesis: Weimar's defeat, hostile institutions, emergency authority, paramilitary violence, and hyperinflation created deep vulnerability without making collapse inevitable; Stresemann stabilized the 1923 crisis, while Hitler converted the failed putsch into trial publicity, prison-era ideological and leadership consolidation, and a strategic turn toward destroying democracy through democratic mechanisms. No settled contradiction was adopted. Inflation and decree figures, reported dialogue, private motives, social-group generalizations, trial details, and counterfactual claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-29] lint | Wiki health check
 

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [vol.56 对谈咪仔：人生是认领自己与确立使命的过程](sources/vol-56-duitan-mizi-rensheng-shi-renling-ziji-yu-queli-shiming-de-guocheng-lgrbpfubc8s6y59jb6tsd6glz-c.md) — 天真不天真 conversation on career-skill convergence, crime-podcast craft, journalism ethics, paid-content design, creator portfolios, vulnerability, and emotional triggers.
 - [296: The Nazis: The Beer Hall Putsch (Part 2)](sources/296-the-nazis-the-beer-hall-putsch-part-2-glt4099180386.md) — The Rest Is History episode on Weimar's fragile foundations, hyperinflation, the failed Munich coup, trial and prison, Mein Kampf, and Hitler's turn toward procedural subversion.
 - [297: The Nazis: Hitler's Triumph (Part 3)](sources/297-the-nazis-hitlers-triumph-part-3-glt2055084600.md) — The Rest Is History episode on Depression-era Nazi growth, emergency government, paramilitary politics, elite authoritarian projects, and the containment bargain that made Hitler chancellor.
 - [How to Optimize Fertility in Males & Females](sources/how-to-optimize-fertility-in-males-females-scim8187072933.md) — Huberman Lab solo episode on reproductive biology, fertile-window timing, ovarian and semen testing, lifestyle exposures, supplements, and clinician-directed fertility care.
@@ -3203,6 +3204,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Vol.354 宛如泰坦尼克：冒充者综合征大爆发！献给才华平平但野心勃勃的人](sources/vol-354-wanru-taitannike-maochongzhe-zonghezheng-dabaofa-xiangei-caihua-pingping-dan-yexin-bobo-de-ren-gkwrirwokgwgauo05wtfda-h.md) — 文化有限 episode on Sounds Like Titanic, fake musical performance, impostor feelings, effort narratives, workplace conformity, and audience perfection pressure.
 
 ## Entities
+- [咪仔 / Mizi](entities/MiziCrimePodcaster.md) — Journalist-trained crime podcaster combining vocal skill, nonfiction verification, audio composition, payment ethics, and vulnerable creator practice.
+- [黑猫侦探社 / Black Cat Detective Agency](entities/BlackCatDetectiveAgency.md) — Bootstrapped nonfiction crime podcast illustrating recommendation-driven growth, additive paid depth, category-specific ad friction, and small-team sustainability limits.
 - [Beer Hall Putsch](entities/BeerHallPutsch.md) — Failed 1923 Munich coup whose trial, prison, and mythology redirected Hitler toward legal-electoral subversion.
 - [Gustav Stresemann](entities/GustavStresemann.md) — Weimar statesman associated with the Rentenmark, Ruhr de-escalation, and the republic's 1923 stabilization.
 - [Erich Ludendorff](entities/ErichLudendorff.md) — Wartime commander linking the stab-in-the-back myth, military prestige, and participation in the Beer Hall Putsch.
@@ -4909,7 +4912,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Huawei Ascend 950DT / 华为昇腾 950DT](entities/HuaweiAscend950DT.md) — AI chip named in DeepZ's reported Inner Mongolia inference data-center procurement plan.
 - [Huabei / 花呗](entities/Huabei.md) — Internet credit-payment comparator helping explain pressure on bank credit-card growth.
 - [JD White Bar / 白条](entities/JDWhiteBar.md) — Platform credit-payment comparator in the credit-card contraction branch.
-- [杨天真 / 天真](entities/YangTianzhen.md) — Host and media operator in the Melody conversation, grounding podcast priority, short-video contrast, podcast-company planning, and backstage-to-front-stage creator transition.
+- [杨天真 / 天真](entities/YangTianzhen.md) — Host and media operator connecting podcast priority, creator-company design, payment ethics, public-role transition, and practiced emotion regulation.
 - [携隐 Melody](entities/XieyinMelody.md) — Long-form podcast creator discussing 纵横四海 production labor, professional media standards, media-worker podcast transition, title psychology, and multi-account fatigue.
 - [四孝喜剧 / Sixiao Comedy](entities/SixiaoComedy.md) — Live-comedy collaborator for the Luo Yonghao money-and-debt panel, represented through audience interaction, advertising jokes, and personal borrowing stories.
 - [咸鱼 / Xianyu (Stand-up Comedian)](entities/XianyuStandup.md) — Comedian whose panel stories link trend-following consumption, 500-yuan friend debt, new-income awkwardness, and commercial collection.
@@ -14610,6 +14613,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《宛如泰坦尼克》 / Sounds Like Titanic](entities/SoundsLikeTitanicBook.md) — Jessica Chiccehitto Hindman's nonfiction inquiry into mimed performance, ambition, work, audience desire, and post-9/11 consolation.
 
 ## Concepts
+- [Ethical Paid-Content Design / 内容付费伦理设计](concepts/EthicalPaidContentDesign.md) — Compensation boundary that sells genuine added value without manufacturing anxiety or withholding essential public-interest context.
+- [Accumulated-Skill Mission Recognition / 累积能力的使命识别](concepts/AccumulatedSkillMissionRecognition.md) — Career-purpose process in which latent abilities, values, experiments, and environmental fit become retrospectively coherent.
+- [Emotional Trigger-Source Separation / 情绪触发源分离](concepts/EmotionalTriggerSourceSeparation.md) — Practice of separating present facts and responsibility from older wounds that amplify a reaction.
+- [Super-Creator Portfolio Model / 超级创作者组合模型](concepts/SuperCreatorPortfolioModel.md) — Multi-format creator-business model combining transferable authorship with complementary editorial, performance, production, and commercial roles.
 - [Preconception Timing and Testing](concepts/PreconceptionTimingAndTesting.md) — Couple-based planning frame joining fertile-window timing with distinct ovarian, semen, history, exposure, medication, and age inputs.
 - [Healthcare Payer Horizon Mismatch](concepts/HealthcarePayerHorizonMismatch.md) — Incentive gap when today's prevention payer may not retain the member long enough to capture future benefits.
 - [Longitudinal Multimodal Screening](concepts/LongitudinalMultimodalScreening.md) — Repeat multi-signal screening model whose value depends on validation, clinician interpretation, and follow-up.
@@ -19521,7 +19528,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Chinese Modernization Cultural Gap / 中国现代化的文化短板](concepts/ChineseModernizationCulturalGap.md) — Episode 150 warning that China's next modernization gap is cultural, service, humanistic, and social-science capacity rather than engineering alone.
 - [Reality-Oriented Social Science Research / 现实问题导向的社会科学研究](concepts/RealityOrientedSocialScienceResearch.md) — Episode 150 claim that Chinese economic and social research needs stronger grounding in real problems, not only technical polish.
 - [Chinese Podcast Ecosystem / 中文播客生态](concepts/ChinesePodcastEcosystem.md) — Episode 149 frame for platform, hardware, creator, brand, and listener conditions behind Chinese podcast growth.
-- [Podcast Commercialization Fragmentation / 播客商业化分散](concepts/PodcastCommercializationFragmentation.md) — Episode 149 claim that Chinese podcast monetization is real but dispersed across ads, branded shows, services, communities, events, and vertical deals.
+- [Podcast Commercialization Fragmentation / 播客商业化分散](concepts/PodcastCommercializationFragmentation.md) — Chinese podcast revenue remains dispersed across category-sensitive ads, services, subscriptions, episodes, communities, products, and creator portfolios.
 - [Subscription vs Algorithm Podcast Distribution / 播客订阅与算法分发](concepts/SubscriptionVsAlgorithmPodcastDistribution.md) — Tension between stable subscribed podcast relationships and algorithmic discovery or concentration.
 - [Care Sociology / 照护社会学](concepts/CareSociology.md) — Episode 147 frame for analyzing care as social organization, labor, ethics, subjecthood, and public responsibility rather than only private family duty.
 - [Japanese No-Family-Attendant Care / 日本无家属陪护](concepts/JapaneseNoFamilyAttendantCare.md) — Japanese hospital practice where daily bedside care shifts from family attendants into trained hospital roles and workflows.

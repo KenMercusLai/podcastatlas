@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 11379
+wiki_total_pages: 11381
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1625,6 +1625,9 @@ wiki_pages:
   - key: "MinamiIoto"
     title: "南硫磺岛 / Minami Ioto"
     url: "/wiki/entities/minamiioto/"
+  - key: "MiziCrimePodcaster"
+    title: "咪仔 / Mizi"
+    url: "/wiki/entities/mizicrimepodcaster/"
   - key: "Migu"
     title: "咪咕 / Migu"
     url: "/wiki/entities/migu/"
