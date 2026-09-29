@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 11377
+wiki_total_pages: 11379
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -479,6 +479,9 @@ wiki_pages:
   - key: "JessicaAlter"
     title: "Jessica Alter"
     url: "/wiki/entities/jessicaalter/"
+  - key: "JessicaChiccehittoHindman"
+    title: "Jessica Chiccehitto Hindman / 杰西卡·齐切西托·辛德曼"
+    url: "/wiki/entities/jessicachiccehittohindman/"
   - key: "JessicaLivingston"
     title: "Jessica Livingston"
     url: "/wiki/entities/jessicalivingston/"

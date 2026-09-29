@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 11377
+wiki_total_pages: 11379
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1784,6 +1784,9 @@ wiki_pages:
   - key: "SunBinBingfa"
     title: "《孙膑兵法》 / Sun Bin's Art of War"
     url: "/wiki/entities/sunbinbingfa/"
+  - key: "SoundsLikeTitanicBook"
+    title: "《宛如泰坦尼克》 / Sounds Like Titanic"
+    url: "/wiki/entities/soundsliketitanicbook/"
   - key: "ShoshiminSeries"
     title: "《小市民》系列"
     url: "/wiki/entities/shoshiminseries/"

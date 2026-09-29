@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 8788
+wiki_total_pages: 8790
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -188,6 +188,9 @@ wiki_pages:
   - key: "RecognitionBackedFrontierDiplomacy"
     title: "Recognition-Backed Frontier Diplomacy / 册封威慑式边疆外交"
     url: "/wiki/concepts/recognitionbackedfrontierdiplomacy/"
+  - key: "RecognitionDrivenWorkplaceConformity"
+    title: "Recognition-Driven Workplace Conformity / 认可驱动的职场顺从"
+    url: "/wiki/concepts/recognitiondrivenworkplaceconformity/"
   - key: "RecommendationDistributionAdvantage"
     title: "Recommendation Distribution Advantage"
     url: "/wiki/concepts/recommendationdistributionadvantage/"

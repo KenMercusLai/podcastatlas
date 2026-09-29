@@ -3200,6 +3200,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe](sources/use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim4085406904.md) — Full Huberman Lab interview on sleep-stage function, slow-wave restoration, REM emotional-memory processing, locus-coeruleus regulation, nightmares, and opioid-withdrawal sleep disruption.
 
+- [Vol.354 宛如泰坦尼克：冒充者综合征大爆发！献给才华平平但野心勃勃的人](sources/vol-354-wanru-taitannike-maochongzhe-zonghezheng-dabaofa-xiangei-caihua-pingping-dan-yexin-bobo-de-ren-gkwrirwokgwgauo05wtfda-h.md) — 文化有限 episode on Sounds Like Titanic, fake musical performance, impostor feelings, effort narratives, workplace conformity, and audience perfection pressure.
+
 ## Entities
 - [Beer Hall Putsch](entities/BeerHallPutsch.md) — Failed 1923 Munich coup whose trial, prison, and mythology redirected Hitler toward legal-electoral subversion.
 - [Gustav Stresemann](entities/GustavStresemann.md) — Weimar statesman associated with the Rentenmark, Ruhr de-escalation, and the republic's 1923 stabilization.
@@ -14604,6 +14606,9 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Satchin Panda](entities/SatchinPanda.md) — Circadian-biology researcher separating meal timing, fasting duration, energy intake, and evidence limits in animal and human studies.
 
+- [Jessica Chiccehitto Hindman / 杰西卡·齐切西托·辛德曼](entities/JessicaChiccehittoHindman.md) — Writer, teacher, and classically trained violinist whose fake-playing touring experience became Sounds Like Titanic.
+- [《宛如泰坦尼克》 / Sounds Like Titanic](entities/SoundsLikeTitanicBook.md) — Jessica Chiccehitto Hindman's nonfiction inquiry into mimed performance, ambition, work, audience desire, and post-9/11 consolation.
+
 ## Concepts
 - [Preconception Timing and Testing](concepts/PreconceptionTimingAndTesting.md) — Couple-based planning frame joining fertile-window timing with distinct ovarian, semen, history, exposure, medication, and age inputs.
 - [Healthcare Payer Horizon Mismatch](concepts/HealthcarePayerHorizonMismatch.md) — Incentive gap when today's prevention payer may not retain the member long enough to capture future benefits.
@@ -23425,5 +23430,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Respiratory Gas Balance and Breathwork Safety](concepts/RespiratoryGasBalanceAndBreathworkSafety.md) — Framework connecting oxygen delivery, carbon-dioxide regulation, desired state, and categorical hyperventilation safety boundaries.
 
 - [Locus Coeruleus State Regulation](concepts/LocusCoeruleusStateRegulation.md) — State-based framework connecting waking attention, REM norepinephrine shutdown, trauma-memory hypotheses, and opioid-withdrawal sleep disruption.
+
+- [Performance Authenticity Tradeoff / 表演真实性权衡](concepts/PerformanceAuthenticityTradeoff.md) — Tension among live appearance, polished output, disclosure, genuine audience effects, and tolerance for human error.
+- [Recognition-Driven Workplace Conformity / 认可驱动的职场顺从](concepts/RecognitionDrivenWorkplaceConformity.md) — Pattern where income, belonging, identity, and praise for cooperativeness suppress a worker's ethical or professional judgment.
 
 ## Syntheses
