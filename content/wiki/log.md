@@ -25562,3 +25562,11 @@ Added source `286-england-beef-and-liberty-glt5964129806`; created `JohnBull`, `
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-30] ingest | VOL.03传染病｜半夜接到恐艾人电话 还是我们对艾滋病防治宣传太少｜防狂犬病及时打疫苗
+
+Added source `vol-03-chuanranbing-banye-jiedao-kongairen-dianhua-haishi-women-dui-aizibing-fangzhi-xuanchuan-taishao-fang-kuangquanbing-jishi-da-yimiao-ljbk6zqxqkscsp9veggcut0ugjjr`; created `RabiesExposurePostExposureCare` and `InfectiousDiseaseStigmaPrivacy`; and expanded `InfectiousDiseasePublicLiteracy`, `STIPublicHealthResponse`, and `ViralHepatitisLiverCancerPrevention` from their complete bounded source sets. Core synthesis: infection literacy should identify the actual route, exposure, timing, prevention or test, and care pathway; possible rabies exposure should receive prompt qualified assessment rather than delayed certainty; and privacy and anti-stigma practice can coexist with partner protection and route-specific precautions. No settled contradiction was adopted. The episode's mammal-wide rabies rule, HIV window, hepatitis routes, vaccine eligibility, and treatment details remain source-scoped, and its reference to a syphilis “virus” is retained only as an explicit terminology error. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

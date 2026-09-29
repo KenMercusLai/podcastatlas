@@ -87419,6 +87419,52 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/infeasiblepublicworkscancellation/"
     },
+    "InfectiousDiseasePublicLiteracy": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "EP262 高考过后，知识“归零”：我们需要怎样的科学教育？ [ls8ecQcdpE9d5ioYtyCA3jqDF-3r].md",
+          "key": "ep262-gaokao-guohou-zhishi-guiling-women-xuyao-zenyang-de-kexue-jiaoyu-ls8ecqcdpe9d5ioytyca3jqdf-3r",
+          "show": "Talk三联",
+          "title": "EP262 高考过后，知识“归零”：我们需要怎样的科学教育？",
+          "url": "/wiki/sources/ep262-gaokao-guohou-zhishi-guiling-women-xuyao-zenyang-de-kexue-jiaoyu-ls8ecqcdpe9d5ioytyca3jqdf-3r/"
+        },
+        {
+          "episode_file": "一份来自病床上的相关书单 [598284093].md",
+          "key": "yi-fen-laizi-bingchuang-shang-de-xiangguan-shudan-598284093",
+          "show": "蜜獾吃书",
+          "title": "一份来自病床上的相关书单",
+          "url": "/wiki/sources/yi-fen-laizi-bingchuang-shang-de-xiangguan-shudan-598284093/"
+        },
+        {
+          "episode_file": "ljBK6ZQxQkSCSp9vEgGCuT0ugjjR [ljBK6ZQxQkSCSp9vEgGCuT0ugjjR].md",
+          "key": "vol-03-chuanranbing-banye-jiedao-kongairen-dianhua-haishi-women-dui-aizibing-fangzhi-xuanchuan-taishao-fang-kuangquanbing-jishi-da-yimiao-ljbk6zqxqkscsp9veggcut0ugjjr",
+          "show": "这病说来话长",
+          "title": "VOL.03传染病｜半夜接到恐艾人电话 还是我们对艾滋病防治宣传太少｜防狂犬病及时打疫苗",
+          "url": "/wiki/sources/vol-03-chuanranbing-banye-jiedao-kongairen-dianhua-haishi-women-dui-aizibing-fangzhi-xuanchuan-taishao-fang-kuangquanbing-jishi-da-yimiao-ljbk6zqxqkscsp9veggcut0ugjjr/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/infectiousdiseasepublicliteracy/"
+    },
+    "InfectiousDiseaseStigmaPrivacy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ljBK6ZQxQkSCSp9vEgGCuT0ugjjR [ljBK6ZQxQkSCSp9vEgGCuT0ugjjR].md",
+          "key": "vol-03-chuanranbing-banye-jiedao-kongairen-dianhua-haishi-women-dui-aizibing-fangzhi-xuanchuan-taishao-fang-kuangquanbing-jishi-da-yimiao-ljbk6zqxqkscsp9veggcut0ugjjr",
+          "show": "这病说来话长",
+          "title": "VOL.03传染病｜半夜接到恐艾人电话 还是我们对艾滋病防治宣传太少｜防狂犬病及时打疫苗",
+          "url": "/wiki/sources/vol-03-chuanranbing-banye-jiedao-kongairen-dianhua-haishi-women-dui-aizibing-fangzhi-xuanchuan-taishao-fang-kuangquanbing-jishi-da-yimiao-ljbk6zqxqkscsp9veggcut0ugjjr/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/infectiousdiseasestigmaprivacy/"
+    },
     "InferenceChipAsEmbodiedMoat": {
       "episode_count": 1,
       "show_count": 1,
@@ -142702,6 +142748,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/rulerframework/"
     },
+    "RabiesExposurePostExposureCare": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ljBK6ZQxQkSCSp9vEgGCuT0ugjjR [ljBK6ZQxQkSCSp9vEgGCuT0ugjjR].md",
+          "key": "vol-03-chuanranbing-banye-jiedao-kongairen-dianhua-haishi-women-dui-aizibing-fangzhi-xuanchuan-taishao-fang-kuangquanbing-jishi-da-yimiao-ljbk6zqxqkscsp9veggcut0ugjjr",
+          "show": "这病说来话长",
+          "title": "VOL.03传染病｜半夜接到恐艾人电话 还是我们对艾滋病防治宣传太少｜防狂犬病及时打疫苗",
+          "url": "/wiki/sources/vol-03-chuanranbing-banye-jiedao-kongairen-dianhua-haishi-women-dui-aizibing-fangzhi-xuanchuan-taishao-fang-kuangquanbing-jishi-da-yimiao-ljbk6zqxqkscsp9veggcut0ugjjr/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/rabiesexposurepostexposurecare/"
+    },
     "RacialAntisemitism": {
       "episode_count": 1,
       "show_count": 1,
@@ -149979,6 +150041,29 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/entities/srsdistribution/"
+    },
+    "STIPublicHealthResponse": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "I, robot？ AI and consciousness [6a880840b0d5e24ea40c7015].md",
+          "key": "i-robot-ai-and-consciousness-6a880840b0d5e24ea40c7015",
+          "show": "Economist Podcasts",
+          "title": "I, robot? AI and consciousness",
+          "url": "/wiki/sources/i-robot-ai-and-consciousness-6a880840b0d5e24ea40c7015/"
+        },
+        {
+          "episode_file": "ljBK6ZQxQkSCSp9vEgGCuT0ugjjR [ljBK6ZQxQkSCSp9vEgGCuT0ugjjR].md",
+          "key": "vol-03-chuanranbing-banye-jiedao-kongairen-dianhua-haishi-women-dui-aizibing-fangzhi-xuanchuan-taishao-fang-kuangquanbing-jishi-da-yimiao-ljbk6zqxqkscsp9veggcut0ugjjr",
+          "show": "这病说来话长",
+          "title": "VOL.03传染病｜半夜接到恐艾人电话 还是我们对艾滋病防治宣传太少｜防狂犬病及时打疫苗",
+          "url": "/wiki/sources/vol-03-chuanranbing-banye-jiedao-kongairen-dianhua-haishi-women-dui-aizibing-fangzhi-xuanchuan-taishao-fang-kuangquanbing-jishi-da-yimiao-ljbk6zqxqkscsp9veggcut0ugjjr/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/stipublichealthresponse/"
     },
     "STOExpress": {
       "episode_count": 1,
@@ -176884,9 +176969,9 @@
       "url": "/wiki/concepts/violencetoinstitutionallegitimacy/"
     },
     "ViralHepatitisLiverCancerPrevention": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lmmKGp8rpB2MVTk7SlMTAtQ_JheG [lmmKGp8rpB2MVTk7SlMTAtQ_JheG].md",
@@ -176894,9 +176979,16 @@
           "show": "这病说来话长",
           "title": "VOL.22肿瘤肝胆外科｜关于肝炎、肝硬化和肝癌 我们应该知道这些事",
           "url": "/wiki/sources/vol-22-zhongliu-gandan-waike-guanyu-ganyan-ganyinghua-he-ganai-women-yinggai-zhidao-zhexie-shi-lmmkgp8rpb2mvtk7slmtatq_jheg/"
+        },
+        {
+          "episode_file": "ljBK6ZQxQkSCSp9vEgGCuT0ugjjR [ljBK6ZQxQkSCSp9vEgGCuT0ugjjR].md",
+          "key": "vol-03-chuanranbing-banye-jiedao-kongairen-dianhua-haishi-women-dui-aizibing-fangzhi-xuanchuan-taishao-fang-kuangquanbing-jishi-da-yimiao-ljbk6zqxqkscsp9veggcut0ugjjr",
+          "show": "这病说来话长",
+          "title": "VOL.03传染病｜半夜接到恐艾人电话 还是我们对艾滋病防治宣传太少｜防狂犬病及时打疫苗",
+          "url": "/wiki/sources/vol-03-chuanranbing-banye-jiedao-kongairen-dianhua-haishi-women-dui-aizibing-fangzhi-xuanchuan-taishao-fang-kuangquanbing-jishi-da-yimiao-ljbk6zqxqkscsp9veggcut0ugjjr/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-09-30",
       "url": "/wiki/concepts/viralhepatitislivercancerprevention/"
     },
     "ViralProductToBrandTransition": {

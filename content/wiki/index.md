@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.03传染病｜半夜接到恐艾人电话 还是我们对艾滋病防治宣传太少｜防狂犬病及时打疫苗](sources/vol-03-chuanranbing-banye-jiedao-kongairen-dianhua-haishi-women-dui-aizibing-fangzhi-xuanchuan-taishao-fang-kuangquanbing-jishi-da-yimiao-ljbk6zqxqkscsp9veggcut0ugjjr.md) — 这病说来话长 episode on rabies exposure, STI care, hepatitis and HIV transmission literacy, vaccination boundaries, qualified treatment, privacy, and infection stigma.
 - [286: England: Beef and Liberty](sources/286-england-beef-and-liberty-glt5964129806.md) — The Rest Is History episode on roast beef as a material food, anti-French political language, patriotic performance, John Bull archetype, and fading English national myth.
 - [VOL.04医美｜正规有资质是医美的前提条件｜中韩医美整容的环境对比](sources/vol-04-yimei-zhenggui-you-zizhi-shi-yimei-de-qianti-tiaojian-zhonghan-yimei-zhengrong-de-huanjing-duibi-lhgwrsxzkwg7mvf5gl3xn1bdl2ns.md) — 这病说来话长 episode on medical-aesthetic credentials, informal-setting and product risks, device-operator skill, realistic expectations, and low-price warning signals.
 - [287: Jesus Christ: The Mystery (Part 1)](sources/287-jesus-christ-the-mystery-part-1-glt4572965796.md) — The Rest Is History episode on non-Christian evidence, Gospel source criticism, Roman Judea, and Jesus’s Galilean cultural and political setting.
@@ -14691,6 +14692,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Auschwitz-Birkenau](entities/AuschwitzBirkenau.md) — Nazi concentration and extermination complex examined through forced labor, confiscation, registration, deception, mass killing, and escapee evidence.
 
 ## Concepts
+- [Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置](concepts/RabiesExposurePostExposureCare.md) — Time-sensitive route from animal exposure and wound context to qualified rabies prophylaxis assessment without overgeneralizing species risk.
+- [Infectious Disease Stigma and Privacy / 传染病污名与隐私](concepts/InfectiousDiseaseStigmaPrivacy.md) — Public-health boundary joining dignity, confidentiality, care access, partner responsibility, and route-specific prevention.
 - [Culinary Nationalism](concepts/CulinaryNationalism.md) — Process by which food, cooking, institutions, and performance become claims about national character and political order.
 - [Roast Beef and English Identity](concepts/RoastBeefEnglishIdentity.md) — Early-modern English symbol joining beef, plain cookery, abundance, strength, Protestant patriotism, and liberty.
 - [Galilean-Judean Cultural Boundary](concepts/GalileanJudeanCulturalBoundary.md) — Framework joining Jesus’s Jewish identity to Galilean formation, Roman political geography, and distance from Jerusalem and Greco-Roman civic culture.
@@ -14760,7 +14763,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Training Stress-Recovery Continuum](concepts/TrainingStressRecoveryContinuum.md) — Distinguishes acute overload, productive functional overreaching, non-functional overreaching, and rare true overtraining.
 - [Soreness-Recovery Boundary](concepts/SorenessRecoveryBoundary.md) — Separates delayed soreness and symptom relief from tissue damage, repair, restored performance, and adaptation.
 - [Recovery Monitoring Triad](concepts/RecoveryMonitoringTriad.md) — Combines standardized within-person performance, physiology, and symptom trends instead of relying on one readiness score.
-- [Viral Hepatitis and Liver-Cancer Prevention](concepts/ViralHepatitisLiverCancerPrevention.md) — Prevention framework joining transmission literacy, vaccination, maternal-infant prevention, testing, treatment, stigma reduction, and risk-based follow-up.
+- [Viral Hepatitis and Liver-Cancer Prevention](concepts/ViralHepatitisLiverCancerPrevention.md) — Virus-specific framework joining transmission literacy, vaccination, partner and maternal-infant prevention, testing, treatment, stigma reduction, and risk-based follow-up.
 - [Liver-Cancer Screening and Treatment Selection](concepts/LiverCancerScreeningAndTreatment.md) — Risk-based pathway from surveillance into liver-reserve-aware multimodal oncology care.
 - [Cancer Nutrition Support Boundary](concepts/CancerNutritionSupportBoundary.md) — Separates tumor-directed vascular treatment from harmful whole-body food restriction and indiscriminate supplementation.
 - [Gallbladder Disease Recognition and Triage / 胆囊疾病识别与分流](concepts/GallbladderDiseaseRecognitionAndTriage.md) — Contextualizes gallbladder findings, chronic symptoms, silent stones, and acute biliary escalation.
@@ -17817,7 +17820,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Computational Functionalism](concepts/ComputationalFunctionalism.md) — View that consciousness depends on computation rather than biological substrate, keeping future AI consciousness possible in principle.
 - [Organoid Computing](concepts/OrganoidComputing.md) — Biological-computation boundary where human brain cells or organoids make the AI consciousness question less cleanly digital versus biological.
 - [European STI Surge](concepts/EuropeanSTISurge.md) — Public-health trend of rising gonorrhea and syphilis counts in Europe without a single settled behavioral explanation.
-- [STI Public Health Response](concepts/STIPublicHealthResponse.md) — Response frame combining outbreak control, screening, testing access, safe-sex campaigns, and antibiotic stewardship.
+- [STI Public Health Response](concepts/STIPublicHealthResponse.md) — Non-moralizing response combining surveillance, screening, testing access, qualified treatment, partner services, safe-sex education, and antibiotic stewardship.
 - [Antimicrobial Resistance](concepts/AntimicrobialResistance.md) — Treatment-risk constraint that makes STI prevention, surveillance, and careful antibiotic use more important.
 - [伪史论 / Pseudo-History Conspiracy](concepts/PseudoHistoryConspiracy.md) — Historical denial pattern where a desired reversal rejects the wider evidence ecology instead of revising claims through bounded proof.
 - [Professional Community Trust / 专业共同体信任](concepts/ProfessionalCommunityTrust.md) — Trust in accountable expert communities as a necessary modern knowledge practice under editor, search, and algorithmic media environments.
@@ -20018,7 +20021,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [信赖作为道德风险 / Trust As Moral Risk](concepts/TrustAsMoralRisk.md) — Episode 33 concept for trust becoming fragile and frightening after Yoshiko's ambiguous harm.
 - [正常性强制 / Coerced Normality](concepts/CoercedNormality.md) — Social pressure to appear useful, positive, orderly, and humanly legible even when inner life cannot honestly comply.
 - [胆小鬼的献祭 / Cowardly Sacrifice As Witness](concepts/CowardlySacrificeWitness.md) — Source-scoped reading of Dazai/Yozo as making shame, cowardice, and social unfitness speakable without making them exemplary.
-- [Infectious Disease Public Literacy](concepts/InfectiousDiseasePublicLiteracy.md) — Ordinary-reader knowledge frame for pathogens, transmission, prevention, symptoms, and bounded self-care.
+- [Infectious Disease Public Literacy](concepts/InfectiousDiseasePublicLiteracy.md) — Ordinary-reader framework for transmission routes, exposure severity, prevention, testing, timely care, uncertainty, stigma, and public systems.
 - [Medical Visual History](concepts/MedicalVisualHistory.md) — History of medical knowledge made through disease images, anatomical drawings, wax models, specimens, and visual comparison.
 - [Historical Body Concept](concepts/HistoricalBodyConcept.md) — Frame for reading bodies through historically specific medical theories, hygiene norms, religious imagery, and personhood ideas.
 - [Pandemic As Historical Force](concepts/PandemicAsHistoricalForce.md) — Disease-history frame where epidemics reshape labor, war, nationalism, trust, migration, political fracture, and late-Han population-collapse narratives.

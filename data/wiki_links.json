@@ -36431,6 +36431,10 @@
     "title": "Infectious Disease Public Literacy",
     "url": "/wiki/concepts/infectiousdiseasepublicliteracy/"
   },
+  "InfectiousDiseaseStigmaPrivacy": {
+    "title": "Infectious Disease Stigma and Privacy / 传染病污名与隐私",
+    "url": "/wiki/concepts/infectiousdiseasestigmaprivacy/"
+  },
   "InferenceAccelerationStack": {
     "title": "Inference Acceleration Stack",
     "url": "/wiki/concepts/inferenceaccelerationstack/"
@@ -59870,6 +59874,10 @@
   "RWKV": {
     "title": "RWKV",
     "url": "/wiki/entities/rwkv/"
+  },
+  "RabiesExposurePostExposureCare": {
+    "title": "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置",
+    "url": "/wiki/concepts/rabiesexposurepostexposurecare/"
   },
   "RacePromotionFees": {
     "title": "Race Promotion Fees",
@@ -88222,6 +88230,10 @@
   "venezuelas-recent-economic-history-update": {
     "title": "Venezuela's recent economic history (Update)",
     "url": "/wiki/sources/venezuelas-recent-economic-history-update/"
+  },
+  "vol-03-chuanranbing-banye-jiedao-kongairen-dianhua-haishi-women-dui-aizibing-fangzhi-xuanchuan-taishao-fang-kuangquanbing-jishi-da-yimiao-ljbk6zqxqkscsp9veggcut0ugjjr": {
+    "title": "VOL.03传染病｜半夜接到恐艾人电话 还是我们对艾滋病防治宣传太少｜防狂犬病及时打疫苗",
+    "url": "/wiki/sources/vol-03-chuanranbing-banye-jiedao-kongairen-dianhua-haishi-women-dui-aizibing-fangzhi-xuanchuan-taishao-fang-kuangquanbing-jishi-da-yimiao-ljbk6zqxqkscsp9veggcut0ugjjr/"
   },
   "vol-04-yimei-zhenggui-you-zizhi-shi-yimei-de-qianti-tiaojian-zhonghan-yimei-zhengrong-de-huanjing-duibi-lhgwrsxzkwg7mvf5gl3xn1bdl2ns": {
     "title": "VOL.04医美｜正规有资质是医美的前提条件｜中韩医美整容的环境对比",
