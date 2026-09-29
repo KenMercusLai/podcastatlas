@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 11401
+wiki_total_pages: 11406
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -854,12 +854,21 @@ wiki_pages:
   - key: "MemoVR"
     title: "Memo VR"
     url: "/wiki/entities/memovr/"
+  - key: "MemoryBox"
+    title: "Memory Box"
+    url: "/wiki/entities/memorybox/"
+  - key: "MemoryMachine"
+    title: "Memory Machine"
+    url: "/wiki/entities/memorymachine/"
   - key: "Memphis"
     title: "Memphis / 孟菲斯"
     url: "/wiki/entities/memphis/"
   - key: "MemphisSanitationStrike"
     title: "Memphis Sanitation Strike"
     url: "/wiki/entities/memphissanitationstrike/"
+  - key: "MemVerge"
+    title: "MemVerge"
+    url: "/wiki/entities/memverge/"
   - key: "Menelaus"
     title: "Menelaus"
     url: "/wiki/entities/menelaus/"

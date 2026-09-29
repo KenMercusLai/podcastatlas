@@ -25449,3 +25449,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | VOL.001｜从模型到记忆，AI竞争的新战场已经出现｜对话 MemVerge CEO Charles
+
+Added source `lsh8sdro6i9mkt5nug4zkibv95tn`; created `MemVerge`, `CharlesFan`, `MemoryMachine`, `MemoryBox`, `WeiAIFadian`, `MemoryCenteredAI`, `AIMemoryLifecycle`, and `PersonalEnterpriseMemoryOwnership`; and expanded `LocalFirstMemoryLayer`, `AIDataMemoryInfrastructure`, and `DataSovereignty` from their complete bounded source sets. Core synthesis: memory-centered AI separates governed private context from interchangeable models; local-first can remain hybrid; memory quality requires retrieval, synchronization, compression, association, correction, and forgetting; and AI-extracted workplace skills create an unresolved personal-enterprise ownership boundary. No settled contradiction was adopted. Benchmark leadership, adoption, privacy guarantees, subscriptions, mobile releases, partnerships, and the 2030 enterprise-local AI forecast remain source-scoped company claims or plans. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

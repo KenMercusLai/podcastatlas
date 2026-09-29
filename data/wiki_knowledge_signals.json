@@ -1963,6 +1963,43 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/aidataleakage/"
     },
+    "AIDataMemoryInfrastructure": {
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Nikesh Arora： Mythos is Real, Analytical SaaS is Dead, and Google can be a $10T company [41577435].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Nikesh Arora: Mythos is Real, Analytical SaaS is Dead, and Google can be a $10T company",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435/"
+        },
+        {
+          "episode_file": "关于 AI、开源、商业化与全球化的经验、教训和方法论 ｜ 对谈 PingCAP CTO 东旭 [ljw8Va0EvOBhz4OJzRULqZJvXW5-].md",
+          "key": "guanyu-ai-kaiyuan-shangyehua-yu-quanqiuhua-de-jingyan-jiaoxun-he-fangfalun-duitan-pingcap-cto-dongxu-ljw8va0evobhz4ojzrulqzjvxw5",
+          "show": "42章经",
+          "title": "关于 AI、开源、商业化与全球化的经验、教训和方法论 | 对谈 PingCAP CTO 东旭",
+          "url": "/wiki/sources/guanyu-ai-kaiyuan-shangyehua-yu-quanqiuhua-de-jingyan-jiaoxun-he-fangfalun-duitan-pingcap-cto-dongxu-ljw8va0evobhz4ojzrulqzjvxw5/"
+        },
+        {
+          "episode_file": "为什么硅谷开始重新定义「AI 记忆」｜ S10E20 [a70c41aa-41ae-488d-a6e2-63c3de5b9ec3].md",
+          "key": "weishenme-guigu-kaishi-zhongxin-dingyi-ai-jiyi-s10e20-a70c41aa-41ae-488d-a6e2-63c3de5b9ec3",
+          "show": "What's Next｜科技早知道",
+          "title": "为什么硅谷开始重新定义「AI 记忆」｜ S10E20",
+          "url": "/wiki/sources/weishenme-guigu-kaishi-zhongxin-dingyi-ai-jiyi-s10e20-a70c41aa-41ae-488d-a6e2-63c3de5b9ec3/"
+        },
+        {
+          "episode_file": "lsH8SDro6i9mKT5Nug4zKiBv95tN [lsH8SDro6i9mKT5Nug4zKiBv95tN].md",
+          "key": "lsh8sdro6i9mkt5nug4zkibv95tn",
+          "show": "为 AI 发电",
+          "title": "VOL.001｜从模型到记忆，AI竞争的新战场已经出现｜对话 MemVerge CEO Charles",
+          "url": "/wiki/sources/lsh8sdro6i9mkt5nug4zkibv95tn/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/aidatamemoryinfrastructure/"
+    },
     "AIDataPrivacyLaw": {
       "episode_count": 1,
       "show_count": 1,
@@ -3112,6 +3149,22 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/concepts/aimathematician/"
+    },
+    "AIMemoryLifecycle": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lsH8SDro6i9mKT5Nug4zKiBv95tN [lsH8SDro6i9mKT5Nug4zKiBv95tN].md",
+          "key": "lsh8sdro6i9mkt5nug4zkibv95tn",
+          "show": "为 AI 发电",
+          "title": "VOL.001｜从模型到记忆，AI竞争的新战场已经出现｜对话 MemVerge CEO Charles",
+          "url": "/wiki/sources/lsh8sdro6i9mkt5nug4zkibv95tn/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/aimemorylifecycle/"
     },
     "AIModelApprovalRegime": {
       "episode_count": 1,
@@ -27510,6 +27563,22 @@
       "updated": "2026-09-17",
       "url": "/wiki/entities/charlesduncancameron/"
     },
+    "CharlesFan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lsH8SDro6i9mKT5Nug4zKiBv95tN [lsH8SDro6i9mKT5Nug4zKiBv95tN].md",
+          "key": "lsh8sdro6i9mkt5nug4zkibv95tn",
+          "show": "为 AI 发电",
+          "title": "VOL.001｜从模型到记忆，AI竞争的新战场已经出现｜对话 MemVerge CEO Charles",
+          "url": "/wiki/sources/lsh8sdro6i9mkt5nug4zkibv95tn/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/charlesfan/"
+    },
     "CharlesFrancoisDumouriez": {
       "episode_count": 2,
       "show_count": 1,
@@ -41266,9 +41335,9 @@
       "url": "/wiki/entities/datasciencewithsam/"
     },
     "DataSovereignty": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "27EF88C45FEB84B417313FFFF4F07AA4~8584396_2026-08-10-213036-8787-0-0-10.128 [27EF88C45FEB84B417313FFFF4F07AA4~8584396_2026-08-10-213036-8787-0-0-10.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a83af9f].md",
@@ -41283,9 +41352,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "AI Sovereignty Wars, Palantir-Nvidia Deal, SCOTUS Birthright Ruling, Newsom's CA Budget Lie",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-ai-sovereignty-wars-palantir-nvidia-deal-scotus-birthright-ruling-newsoms-ca-budget-lie-41958585/"
+        },
+        {
+          "episode_file": "lsH8SDro6i9mKT5Nug4zKiBv95tN [lsH8SDro6i9mKT5Nug4zKiBv95tN].md",
+          "key": "lsh8sdro6i9mkt5nug4zkibv95tn",
+          "show": "为 AI 发电",
+          "title": "VOL.001｜从模型到记忆，AI竞争的新战场已经出现｜对话 MemVerge CEO Charles",
+          "url": "/wiki/sources/lsh8sdro6i9mkt5nug4zkibv95tn/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/datasovereignty/"
     },
     "DataTeamAsBusinessPartner": {
@@ -106743,6 +106819,29 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/localfaultattributionpacification/"
     },
+    "LocalFirstMemoryLayer": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "为什么硅谷开始重新定义「AI 记忆」｜ S10E20 [a70c41aa-41ae-488d-a6e2-63c3de5b9ec3].md",
+          "key": "weishenme-guigu-kaishi-zhongxin-dingyi-ai-jiyi-s10e20-a70c41aa-41ae-488d-a6e2-63c3de5b9ec3",
+          "show": "What's Next｜科技早知道",
+          "title": "为什么硅谷开始重新定义「AI 记忆」｜ S10E20",
+          "url": "/wiki/sources/weishenme-guigu-kaishi-zhongxin-dingyi-ai-jiyi-s10e20-a70c41aa-41ae-488d-a6e2-63c3de5b9ec3/"
+        },
+        {
+          "episode_file": "lsH8SDro6i9mKT5Nug4zKiBv95tN [lsH8SDro6i9mKT5Nug4zKiBv95tN].md",
+          "key": "lsh8sdro6i9mkt5nug4zkibv95tn",
+          "show": "为 AI 发电",
+          "title": "VOL.001｜从模型到记忆，AI竞争的新战场已经出现｜对话 MemVerge CEO Charles",
+          "url": "/wiki/sources/lsh8sdro6i9mkt5nug4zkibv95tn/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/localfirstmemorylayer/"
+    },
     "LocalGovernanceAsCare": {
       "episode_count": 4,
       "show_count": 3,
@@ -115326,6 +115425,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/melodramaticpoliticalformation/"
     },
+    "MemVerge": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lsH8SDro6i9mKT5Nug4zKiBv95tN [lsH8SDro6i9mKT5Nug4zKiBv95tN].md",
+          "key": "lsh8sdro6i9mkt5nug4zkibv95tn",
+          "show": "为 AI 发电",
+          "title": "VOL.001｜从模型到记忆，AI竞争的新战场已经出现｜对话 MemVerge CEO Charles",
+          "url": "/wiki/sources/lsh8sdro6i9mkt5nug4zkibv95tn/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/memverge/"
+    },
     "Memex": {
       "episode_count": 1,
       "show_count": 1,
@@ -115341,6 +115456,38 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/memex/"
+    },
+    "MemoryBox": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lsH8SDro6i9mKT5Nug4zKiBv95tN [lsH8SDro6i9mKT5Nug4zKiBv95tN].md",
+          "key": "lsh8sdro6i9mkt5nug4zkibv95tn",
+          "show": "为 AI 发电",
+          "title": "VOL.001｜从模型到记忆，AI竞争的新战场已经出现｜对话 MemVerge CEO Charles",
+          "url": "/wiki/sources/lsh8sdro6i9mkt5nug4zkibv95tn/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/memorybox/"
+    },
+    "MemoryCenteredAI": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lsH8SDro6i9mKT5Nug4zKiBv95tN [lsH8SDro6i9mKT5Nug4zKiBv95tN].md",
+          "key": "lsh8sdro6i9mkt5nug4zkibv95tn",
+          "show": "为 AI 发电",
+          "title": "VOL.001｜从模型到记忆，AI竞争的新战场已经出现｜对话 MemVerge CEO Charles",
+          "url": "/wiki/sources/lsh8sdro6i9mkt5nug4zkibv95tn/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/memorycenteredai/"
     },
     "MemoryConsolidationWindows": {
       "episode_count": 8,
@@ -115459,6 +115606,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/memorydeletionethics/"
+    },
+    "MemoryMachine": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lsH8SDro6i9mKT5Nug4zKiBv95tN [lsH8SDro6i9mKT5Nug4zKiBv95tN].md",
+          "key": "lsh8sdro6i9mkt5nug4zkibv95tn",
+          "show": "为 AI 发电",
+          "title": "VOL.001｜从模型到记忆，AI竞争的新战场已经出现｜对话 MemVerge CEO Charles",
+          "url": "/wiki/sources/lsh8sdro6i9mkt5nug4zkibv95tn/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/memorymachine/"
     },
     "MemoryReconsolidationPsychiatry": {
       "episode_count": 3,
@@ -132353,6 +132516,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/concepts/personalagentunderstandinglayer/"
+    },
+    "PersonalEnterpriseMemoryOwnership": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lsH8SDro6i9mKT5Nug4zKiBv95tN [lsH8SDro6i9mKT5Nug4zKiBv95tN].md",
+          "key": "lsh8sdro6i9mkt5nug4zkibv95tn",
+          "show": "为 AI 发电",
+          "title": "VOL.001｜从模型到记忆，AI竞争的新战场已经出现｜对话 MemVerge CEO Charles",
+          "url": "/wiki/sources/lsh8sdro6i9mkt5nug4zkibv95tn/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/personalenterprisememoryownership/"
     },
     "PersonalExperienceWorkplaceGenderDecisions": {
       "episode_count": 1,
@@ -179683,6 +179862,29 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/wedweilrefugeecamp/"
+    },
+    "WeiAIFadian": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "lo0PFirL4KhC0JzJ57KgBX7Wsq49 [lo0PFirL4KhC0JzJ57KgBX7Wsq49].md",
+          "key": "lo0pfirl4khc0jzj57kgbx7wsq49",
+          "show": "为 AI 发电",
+          "title": "VOL.002｜DeepChat：为什么要做一块开源 AI 试验田？",
+          "url": "/wiki/sources/lo0pfirl4khc0jzj57kgbx7wsq49/"
+        },
+        {
+          "episode_file": "lsH8SDro6i9mKT5Nug4zKiBv95tN [lsH8SDro6i9mKT5Nug4zKiBv95tN].md",
+          "key": "lsh8sdro6i9mkt5nug4zkibv95tn",
+          "show": "为 AI 发电",
+          "title": "VOL.001｜从模型到记忆，AI竞争的新战场已经出现｜对话 MemVerge CEO Charles",
+          "url": "/wiki/sources/lsh8sdro6i9mkt5nug4zkibv95tn/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/weiaifadian/"
     },
     "WeiBaoWesternHan": {
       "episode_count": 2,

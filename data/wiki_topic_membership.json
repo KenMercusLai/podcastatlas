@@ -6533,6 +6533,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "AIMemoryLifecycle": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AIMetabolicInfrastructure": [
     {
       "key": "technology",
@@ -17412,6 +17419,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "CharlesFan": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "CharlesGoodhart": [
@@ -50540,7 +50554,28 @@
       "url": "/topics/technology/"
     }
   ],
+  "MemVerge": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "MemoryBox": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "MemoryCapacityLockIn": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "MemoryCenteredAI": [
     {
       "key": "technology",
       "label": "Technology",
@@ -50559,6 +50594,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "MemoryMachine": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "MemorySelfMythologizing": [
@@ -58031,6 +58073,18 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "PersonalEnterpriseMemoryOwnership": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "PersonalGuaranteeClemency": [
@@ -80796,6 +80850,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "WeiAIFadian": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "WeiAnxiWang": [
     {
       "key": "history",
@@ -90527,6 +90588,13 @@
     }
   ],
   "lo0pfirl4khc0jzj57kgbx7wsq49": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "lsh8sdro6i9mkt5nug4zkibv95tn": [
     {
       "key": "technology",
       "label": "Technology",

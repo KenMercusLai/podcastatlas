@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.001｜从模型到记忆，AI竞争的新战场已经出现｜对话 MemVerge CEO Charles](sources/lsh8sdro6i9mkt5nug4zkibv95tn.md) — 为 AI 发电 episode on Memory Machine, Memory Box, local and hybrid personal memory, lifecycle maintenance, data sovereignty, and personal-enterprise ownership.
 - [VOL.002｜DeepChat：为什么要做一块开源 AI 试验田？](sources/lo0pfirl4khc0jzj57kgbx7wsq49.md) — 为 AI 发电 episode on DeepChat's Tape and harness architecture, memory and sandbox tradeoffs, MCP/ACP integration, local-agent workflows, model routing, and responsible open-source contribution.
 - [VOL.08麻醉科｜“可行走的麻醉术”无痛分娩对孩子今后有影响吗](sources/vol-08-mazuike-kexingzou-de-mazuishu-wutong-fenmian-dui-haizi-jinhou-you-yingxiang-ma-lif37vkcu8a2gdmf3jraupbnvqpm.md) — 这病说来话长 episode on continuous anesthetic management, recovery, patient-controlled analgesia, and movement-preserving labor analgesia.
 - [VOL.09中医｜风寒、风热、风寒转风热、寒包火等感冒要辩证来看｜“中西医结合”的专业预期不如“中西医合作”](sources/vol-09-zhongyi-fenghan-fengre-fenghan-zhuan-fengre-hanbaohuo-deng-ganmao-yao-bianzheng-laikan-zhongxiyi-jiehe-de-zhuanye-yuqi-buru-zhongxiyi-hezuo-llgye2inoaww6kpjkwyg0c3hk6go.md) — 这病说来话长 episode on licensed TCM practice, pattern differentiation, procedure and herbal safety, clinician experience, and patient-centered Chinese-Western medical cooperation.
@@ -3225,6 +3226,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [290: 2022: A History](sources/290-2022-a-history-glt4625765030.md) — The Rest Is History year-end episode on Ukraine as a post-Cold War rupture, European energy dependence, Elizabeth II's death, British political turmoil, and 2022 cultural recommendations.
 
 ## Entities
+- [MemVerge](entities/MemVerge.md) — AI-memory company developing the open Memory Machine layer and consumer-facing Memory Box application.
+- [Charles Fan](entities/CharlesFan.md) — MemVerge CEO advocating shared memory infrastructure, local and hybrid execution, and memory-centered AI.
+- [Memory Machine](entities/MemoryMachine.md) — Open developer-facing memory layer intended for embedding in or sharing across agents and applications.
+- [Memory Box](entities/MemoryBox.md) — Personal AI memory application for querying scattered user data through local and hybrid models.
+- [为 AI 发电](entities/WeiAIFadian.md) — Chinese-language AI podcast covering memory infrastructure, agent clients, protocols, safety, and open engineering.
 - [DeepChat](entities/DeepChat.md) — Open-source desktop agent client maintaining its own Tape and harness while connecting tools and external agents through MCP and ACP.
 - [田大夫 / Doctor Tian (TCM Guest)](entities/TianDoctorTCM.md) — Source-scoped VOL.09–10 guest explaining licensed TCM practice, pattern differentiation, procedure and herbal safety, and task-specific medical cooperation.
 - [盘尼西林乐队 / Penicillin](entities/PenicillinBand.md) — Chinese rock band in which spine surgeon 马浩宁 performs selectively on keyboard and accordion.
@@ -14654,6 +14660,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Auschwitz-Birkenau](entities/AuschwitzBirkenau.md) — Nazi concentration and extermination complex examined through forced labor, confiscation, registration, deception, mass killing, and escapee evidence.
 
 ## Concepts
+- [Memory-Centered AI](concepts/MemoryCenteredAI.md) — Architecture that keeps governed memory stable while routing individual tasks among local or remote models.
+- [AI Memory Lifecycle](concepts/AIMemoryLifecycle.md) — Continuing ingestion, retrieval, compression, association, updating, and forgetting needed to keep long-lived context useful.
+- [Personal-Enterprise Memory Ownership](concepts/PersonalEnterpriseMemoryOwnership.md) — Governance boundary for AI-extracted skills combining prior personal experience with workplace learning and company context.
 - [Agent Tape System](concepts/AgentTapeSystem.md) — Append-only agent event record paired with a movable working view, selective context, and inspectable traces.
 - [Agent Client Protocol](concepts/AgentClientProtocol.md) — Emerging interoperability boundary for connecting external agents and harnesses to a shared client.
 - [Open-Source AI Testbed](concepts/OpenSourceAITestbed.md) — Runnable open project that turns fast-moving AI methods into inspectable, adaptable engineering implementations.

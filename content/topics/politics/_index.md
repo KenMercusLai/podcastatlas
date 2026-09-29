@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2826
+topic_total_pages: 2827
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2650,6 +2650,9 @@ topic_concepts:
   - key: "PersonalRuleLegitimacyCrisis"
     title: "Personal Rule Legitimacy Crisis / 个人统治正当性危机"
     url: "/wiki/concepts/personalrulelegitimacycrisis/"
+  - key: "PersonalEnterpriseMemoryOwnership"
+    title: "Personal-Enterprise Memory Ownership"
+    url: "/wiki/concepts/personalenterprisememoryownership/"
   - key: "PersonalizedLegalGuidance"
     title: "Personalized Legal Guidance"
     url: "/wiki/concepts/personalizedlegalguidance/"

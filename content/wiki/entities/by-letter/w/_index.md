@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 11401
+wiki_total_pages: 11406
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -800,6 +800,9 @@ wiki_pages:
   - key: "WandaGroup"
     title: "万达集团 / Wanda Group"
     url: "/wiki/entities/wandagroup/"
+  - key: "WeiAIFadian"
+    title: "为 AI 发电"
+    url: "/wiki/entities/weiaifadian/"
   - key: "WutaiPoetryCase"
     title: "乌台诗案 / Wutai Poetry Case"
     url: "/wiki/entities/wutaipoetrycase/"

@@ -3571,6 +3571,10 @@
     "title": "AI Mathematician",
     "url": "/wiki/concepts/aimathematician/"
   },
+  "AIMemoryLifecycle": {
+    "title": "AI Memory Lifecycle",
+    "url": "/wiki/concepts/aimemorylifecycle/"
+  },
   "AIMetabolicInfrastructure": {
     "title": "AI Metabolic Infrastructure",
     "url": "/wiki/concepts/aimetabolicinfrastructure/"
@@ -13874,6 +13878,10 @@
   "CharlesEMitchell": {
     "title": "Charles E. Mitchell / 查理·米切尔",
     "url": "/wiki/entities/charlesemitchell/"
+  },
+  "CharlesFan": {
+    "title": "Charles Fan",
+    "url": "/wiki/entities/charlesfan/"
   },
   "CharlesFort": {
     "title": "Charles Fort / 查尔斯·霍伊·福特",
@@ -47983,6 +47991,10 @@
     "title": "Mem0",
     "url": "/wiki/entities/mem0/"
   },
+  "MemVerge": {
+    "title": "MemVerge",
+    "url": "/wiki/entities/memverge/"
+  },
   "MembershipRetail": {
     "title": "Membership Retail",
     "url": "/wiki/concepts/membershipretail/"
@@ -47999,9 +48011,17 @@
     "title": "Memory-Autonomy Framework",
     "url": "/wiki/concepts/memoryautonomyframework/"
   },
+  "MemoryBox": {
+    "title": "Memory Box",
+    "url": "/wiki/entities/memorybox/"
+  },
   "MemoryCapacityLockIn": {
     "title": "Memory Capacity Lock-In",
     "url": "/wiki/concepts/memorycapacitylockin/"
+  },
+  "MemoryCenteredAI": {
+    "title": "Memory-Centered AI",
+    "url": "/wiki/concepts/memorycenteredai/"
   },
   "MemoryChipShortage": {
     "title": "Memory Chip Shortage",
@@ -48022,6 +48042,10 @@
   "MemoryDeletionEthics": {
     "title": "Memory Deletion Ethics / 记忆删除伦理",
     "url": "/wiki/concepts/memorydeletionethics/"
+  },
+  "MemoryMachine": {
+    "title": "Memory Machine",
+    "url": "/wiki/entities/memorymachine/"
   },
   "MemoryReconsolidationPsychiatry": {
     "title": "Memory Reconsolidation Psychiatry",
@@ -55326,6 +55350,10 @@
   "PersonalDigitalArchiving": {
     "title": "Personal Digital Archiving",
     "url": "/wiki/concepts/personaldigitalarchiving/"
+  },
+  "PersonalEnterpriseMemoryOwnership": {
+    "title": "Personal-Enterprise Memory Ownership",
+    "url": "/wiki/concepts/personalenterprisememoryownership/"
   },
   "PersonalExperienceWorkplaceGenderDecisions": {
     "title": "Personal Experience and Workplace Gender Decisions",
@@ -76383,6 +76411,10 @@
     "title": "Weebly",
     "url": "/wiki/entities/weebly/"
   },
+  "WeiAIFadian": {
+    "title": "为 AI 发电",
+    "url": "/wiki/entities/weiaifadian/"
+  },
   "WeiAnxiWang": {
     "title": "魏安釐王 / King Anxi of Wei",
     "url": "/wiki/entities/weianxiwang/"
@@ -86094,6 +86126,10 @@
   "lo0pfirl4khc0jzj57kgbx7wsq49": {
     "title": "VOL.002｜DeepChat：为什么要做一块开源 AI 试验田？",
     "url": "/wiki/sources/lo0pfirl4khc0jzj57kgbx7wsq49/"
+  },
+  "lsh8sdro6i9mkt5nug4zkibv95tn": {
+    "title": "VOL.001｜从模型到记忆，AI竞争的新战场已经出现｜对话 MemVerge CEO Charles",
+    "url": "/wiki/sources/lsh8sdro6i9mkt5nug4zkibv95tn/"
   },
   "lswakifoozu5vkckl5n-nzndj43e-lswakifoozu5vkckl5n-nzndj43e": {
     "title": "VOL.67无·事｜听躺进ICU的医生和普通病人在聊些什么？知道越多越恐惧？｜献礼医师节彩蛋",
