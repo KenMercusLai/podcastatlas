@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2832
+topic_total_pages: 2833
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -8049,6 +8049,9 @@ topic_sources:
   - key: "vanguard-1"
     title: "Vanguard"
     url: "/wiki/sources/vanguard-1/"
+  - key: "vol-04-yimei-zhenggui-you-zizhi-shi-yimei-de-qianti-tiaojian-zhonghan-yimei-zhengrong-de-huanjing-duibi-lhgwrsxzkwg7mvf5gl3xn1bdl2ns"
+    title: "VOL.04医美｜正规有资质是医美的前提条件｜中韩医美整容的环境对比"
+    url: "/wiki/sources/vol-04-yimei-zhenggui-you-zizhi-shi-yimei-de-qianti-tiaojian-zhonghan-yimei-zhengrong-de-huanjing-duibi-lhgwrsxzkwg7mvf5gl3xn1bdl2ns/"
   - key: "vol-111-guanyu-2025-nian-de-si-ge-caixiang-lgaira5qw1fhic4qwihrimed6q9g"
     title: "Vol.111 关于2025年的四个猜想"
     url: "/wiki/sources/vol-111-guanyu-2025-nian-de-si-ge-caixiang-lgaira5qw1fhic4qwihrimed6q9g/"

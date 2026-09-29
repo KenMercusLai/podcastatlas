@@ -3499,8 +3499,8 @@
       "earliest_episode_date": "2022-12-15",
       "latest_episode_date": "2026-09-21",
       "latest_episode_file": "lnkG92MQovwQW-ixwqRGJs-evrRi [lnkG92MQovwQW-ixwqRGJs-evrRi].md",
-      "source_note_count": 171,
-      "topic_matched_source_note_count": 8,
+      "source_note_count": 172,
+      "topic_matched_source_note_count": 9,
       "topics": [
         {
           "key": "culture",
@@ -3518,6 +3518,12 @@
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
+          "source_note_count": 1
+        },
+        {
+          "key": "politics",
+          "label": "Politics",
+          "url": "/topics/politics/",
           "source_note_count": 1
         }
       ],
@@ -3583,7 +3589,7 @@
         "lmx4EWrW7KvcqpyH_Q3BUR35ybGZ [lmx4EWrW7KvcqpyH_Q3BUR35ybGZ].md",
         "lp0clL17CYDZMH36saWfj7-rjWUr [lp0clL17CYDZMH36saWfj7-rjWUr].md",
         "loFs520pS1eVva8naFSnRKcbvgJZ [loFs520pS1eVva8naFSnRKcbvgJZ].md",
-        "lnkG92MQovwQW-ixwqRGJs-evrRi [lnkG92MQovwQW-ixwqRGJs-evrRi].md"
+        "lhGWRsxZKWg7MVF5Gl3Xn1bDL2Ns [lhGWRsxZKWg7MVF5Gl3Xn1bDL2Ns].md"
       ]
     },
     "迟早更新": {

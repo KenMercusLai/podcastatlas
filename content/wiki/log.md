@@ -25546,3 +25546,11 @@ Added source `287-jesus-christ-the-mystery-part-1-glt4572965796`; created `Josep
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-30] ingest | VOL.04医美｜正规有资质是医美的前提条件｜中韩医美整容的环境对比
+
+Added source `vol-04-yimei-zhenggui-you-zizhi-shi-yimei-de-qianti-tiaojian-zhonghan-yimei-zhengrong-de-huanjing-duibi-lhgwrsxzkwg7mvf5gl3xn1bdl2ns`; expanded `MedicalAestheticProviderVerification`, `UnapprovedMedicalAestheticProducts`, and `CosmeticProcedureExpectationManagement` from their complete bounded source sets. Core synthesis: minimally invasive and device-based aesthetics remain medical acts; safe selection joins institution, clinician, product, sterile technique, operator parameters, complication capacity, anatomy, and realistic maintenance expectations; and an implausibly low price is a warning signal rather than proof of value. No settled contradiction was adopted. South Korea comparisons, cost examples, device details, complication mechanisms, and individual cases remain source-scoped public education rather than current regulation, market-wide evidence, or individualized advice. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

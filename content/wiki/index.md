@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.04医美｜正规有资质是医美的前提条件｜中韩医美整容的环境对比](sources/vol-04-yimei-zhenggui-you-zizhi-shi-yimei-de-qianti-tiaojian-zhonghan-yimei-zhengrong-de-huanjing-duibi-lhgwrsxzkwg7mvf5gl3xn1bdl2ns.md) — 这病说来话长 episode on medical-aesthetic credentials, informal-setting and product risks, device-operator skill, realistic expectations, and low-price warning signals.
 - [287: Jesus Christ: The Mystery (Part 1)](sources/287-jesus-christ-the-mystery-part-1-glt4572965796.md) — The Rest Is History episode on non-Christian evidence, Gospel source criticism, Roman Judea, and Jesus’s Galilean cultural and political setting.
 - [The Science of Creativity & How to Enhance Creative Innovation](sources/the-science-of-creativity-how-to-enhance-creative-innovation-scim5096680097.md) — Huberman Lab solo episode on divergence and convergence, creativity networks, state matching, narrative training, and bounded dopamine, meditation, movement, NSDR, and substance claims.
 - [VOL.05急诊｜解密医生之间的那些暗语｜在急诊有床位就代表有一席之地](sources/vol-05-jizhen-jiemi-yisheng-zhijian-de-naxie-anyu-zai-jizhen-you-chuangwei-jiu-daibiao-you-yixi-zhidi-lirey0j7u3c55buirusfj4qtzzg6.md) — 这病说来话长 episode on acuity-based emergency order, bed and imaging bottlenecks, clinician communication, CPR/AED literacy, and symptom-search anxiety.

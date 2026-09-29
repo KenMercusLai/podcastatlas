@@ -37309,9 +37309,9 @@
       "url": "/wiki/concepts/corticostriatalthalamicloop/"
     },
     "CosmeticProcedureExpectationManagement": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lkSoHygMb6epma5qgaF76pdDx2fK [lkSoHygMb6epma5qgaF76pdDx2fK].md",
@@ -37326,9 +37326,16 @@
           "show": "这病说来话长",
           "title": "VOL.137医美水太深！整形医生分享小白都听得懂的避坑指南",
           "url": "/wiki/sources/vol-137-yimei-shui-taishen-zhengxing-yisheng-fenxiang-xiaobai-dou-tingdedong-de-bikeng-zhinan-lqogn2-ueebzhwv0g1-ns9yqgv5/"
+        },
+        {
+          "episode_file": "lhGWRsxZKWg7MVF5Gl3Xn1bDL2Ns [lhGWRsxZKWg7MVF5Gl3Xn1bDL2Ns].md",
+          "key": "vol-04-yimei-zhenggui-you-zizhi-shi-yimei-de-qianti-tiaojian-zhonghan-yimei-zhengrong-de-huanjing-duibi-lhgwrsxzkwg7mvf5gl3xn1bdl2ns",
+          "show": "这病说来话长",
+          "title": "VOL.04医美｜正规有资质是医美的前提条件｜中韩医美整容的环境对比",
+          "url": "/wiki/sources/vol-04-yimei-zhenggui-you-zizhi-shi-yimei-de-qianti-tiaojian-zhonghan-yimei-zhengrong-de-huanjing-duibi-lhgwrsxzkwg7mvf5gl3xn1bdl2ns/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-30",
       "url": "/wiki/concepts/cosmeticprocedureexpectationmanagement/"
     },
     "CosmeticWoundClosurePlanning": {
@@ -115695,9 +115702,9 @@
       "url": "/wiki/concepts/medicalairobotcollaborationboundary/"
     },
     "MedicalAestheticProviderVerification": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lkSoHygMb6epma5qgaF76pdDx2fK [lkSoHygMb6epma5qgaF76pdDx2fK].md",
@@ -115719,9 +115726,16 @@
           "show": "这病说来话长",
           "title": "VOL.56大学毕业季｜摘眼镜、戴牙套、除皱、战痘、减肥 5学科联袂为你出招",
           "url": "/wiki/sources/vol-56-daxue-biyeji-zhai-yanjing-dai-yatao-chuzhou-zhandou-jianfei-5-xueke-lianmei-wei-ni-chuzhao-lkmkuyymlfqxiyoes-n5nflvljry/"
+        },
+        {
+          "episode_file": "lhGWRsxZKWg7MVF5Gl3Xn1bDL2Ns [lhGWRsxZKWg7MVF5Gl3Xn1bDL2Ns].md",
+          "key": "vol-04-yimei-zhenggui-you-zizhi-shi-yimei-de-qianti-tiaojian-zhonghan-yimei-zhengrong-de-huanjing-duibi-lhgwrsxzkwg7mvf5gl3xn1bdl2ns",
+          "show": "这病说来话长",
+          "title": "VOL.04医美｜正规有资质是医美的前提条件｜中韩医美整容的环境对比",
+          "url": "/wiki/sources/vol-04-yimei-zhenggui-you-zizhi-shi-yimei-de-qianti-tiaojian-zhonghan-yimei-zhengrong-de-huanjing-duibi-lhgwrsxzkwg7mvf5gl3xn1bdl2ns/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-09-30",
       "url": "/wiki/concepts/medicalaestheticproviderverification/"
     },
     "MedicalCreatorPlatformPressure": {
@@ -174256,9 +174270,9 @@
       "url": "/wiki/entities/umayyadcaliphate/"
     },
     "UnapprovedMedicalAestheticProducts": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lkSoHygMb6epma5qgaF76pdDx2fK [lkSoHygMb6epma5qgaF76pdDx2fK].md",
@@ -174273,9 +174287,16 @@
           "show": "这病说来话长",
           "title": "VOL.137医美水太深！整形医生分享小白都听得懂的避坑指南",
           "url": "/wiki/sources/vol-137-yimei-shui-taishen-zhengxing-yisheng-fenxiang-xiaobai-dou-tingdedong-de-bikeng-zhinan-lqogn2-ueebzhwv0g1-ns9yqgv5/"
+        },
+        {
+          "episode_file": "lhGWRsxZKWg7MVF5Gl3Xn1bDL2Ns [lhGWRsxZKWg7MVF5Gl3Xn1bDL2Ns].md",
+          "key": "vol-04-yimei-zhenggui-you-zizhi-shi-yimei-de-qianti-tiaojian-zhonghan-yimei-zhengrong-de-huanjing-duibi-lhgwrsxzkwg7mvf5gl3xn1bdl2ns",
+          "show": "这病说来话长",
+          "title": "VOL.04医美｜正规有资质是医美的前提条件｜中韩医美整容的环境对比",
+          "url": "/wiki/sources/vol-04-yimei-zhenggui-you-zizhi-shi-yimei-de-qianti-tiaojian-zhonghan-yimei-zhengrong-de-huanjing-duibi-lhgwrsxzkwg7mvf5gl3xn1bdl2ns/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-30",
       "url": "/wiki/concepts/unapprovedmedicalaestheticproducts/"
     },
     "UnauthorizedFrontierCommandIntervention": {

@@ -6,7 +6,8 @@ sources:
   - vol-159-cong-yi-mei-zhi-ming-dao-xianshi-zhengxing-yisheng-jiedu-juzhong-mei-xishuo-de-yimei-neimu-lksohygmb6epma5qgaf76pddx2fk
   - vol-137-yimei-shui-taishen-zhengxing-yisheng-fenxiang-xiaobai-dou-tingdedong-de-bikeng-zhinan-lqogn2-ueebzhwv0g1-ns9yqgv5
   - vol-56-daxue-biyeji-zhai-yanjing-dai-yatao-chuzhou-zhandou-jianfei-5-xueke-lianmei-wei-ni-chuzhao-lkmkuyymlfqxiyoes-n5nflvljry
-last_updated: 2026-09-28
+  - vol-04-yimei-zhenggui-you-zizhi-shi-yimei-de-qianti-tiaojian-zhonghan-yimei-zhengrong-de-huanjing-duibi-lhgwrsxzkwg7mvf5gl3xn1bdl2ns
+last_updated: 2026-09-30
 knowledge_schema: synthesis-v1
 ---
 
@@ -22,12 +23,14 @@ Verification has four linked objects: institution, clinician, procedure, and pro
 
 VOL.56 adds the entry decision before those checks: a young person should not infer need from graduation, anxiety, a device trend, or a fashionable feature. In-person assessment should identify anatomy, skin condition, actual goal, and whether non-treatment is reasonable before provider and product verification proceeds.
 
+VOL.04 backfills an operational distinction between owning equipment and being able to use it safely. Injectables and energy-based devices still depend on sterile technique, product preparation, treatment depth, energy selection, anatomical judgment, consumables, and the ability to recognize and manage burns, infection, or other complications. Home, hotel, and beauty-salon procedures remove several of those safeguards at once.
+
 ## Key Claims
 - A beauty salon is not a medical institution and should not be treated as qualified to perform medical procedures.
 - Hospital, outpatient, and non-medical commercial labels imply different capabilities and should be checked through registered identity and scope rather than inferred from décor or marketing.
 - A sales consultant and a physician perform different roles; consultation language and marketing titles such as expert, professor, master, dean, or international specialist do not themselves prove clinical qualification.
 - The person operating should have verifiable medical credentials and registered practice information appropriate to the procedure.
-- Procedure complexity should match facility hardware, clinical team, anesthesia, monitoring, supporting departments, product verification, and truthful treatment history.
+- Procedure complexity should match facility hardware, clinical team, anesthesia, monitoring, supporting departments, product verification, sterile technique, operator skill, and truthful treatment history.
 - Public and private providers can differ in procurement speed, product access, maturity, and market responsiveness without either label alone deciding suitability.
 - Verification begins with whether the requested intervention is indicated for this person; a lawful provider or popular procedure does not by itself establish need.
 
@@ -39,14 +42,16 @@ VOL.56 adds the entry decision before those checks: a young person should not in
 - High-risk surgery: [[vol-159-cong-yi-mei-zhi-ming-dao-xianshi-zhengxing-yisheng-jiedu-juzhong-mei-xishuo-de-yimei-neimu-lksohygmb6epma5qgaf76pddx2fk]] links higher procedure grades to hospital hardware, physician teams, prior workload, anesthesia, intubation, monitoring, and supporting departments.
 - Public-private qualification: [[vol-159-cong-yi-mei-zhi-ming-dao-xianshi-zhengxing-yisheng-jiedu-juzhong-mei-xishuo-de-yimei-neimu-lksohygmb6epma5qgaf76pddx2fk]] contrasts faster market adoption in private institutions with slower, more conservative public procurement rather than making either label a complete safety test.
 - Need-before-purchase boundary: [[vol-56-daxue-biyeji-zhai-yanjing-dai-yatao-chuzhou-zhandou-jianfei-5-xueke-lianmei-wei-ni-chuzhao-lkmkuyymlfqxiyoes-n5nflvljry|VOL.56]] recommends a regular hospital or medical institution for face-to-face assessment and warns against trend-led tightening, reshaping, injections, and poorly regulated products or prices.
+- Equipment-versus-capability distinction: [[vol-04-yimei-zhenggui-you-zizhi-shi-yimei-de-qianti-tiaojian-zhonghan-yimei-zhengrong-de-huanjing-duibi-lhgwrsxzkwg7mvf5gl3xn1bdl2ns|VOL.04]] explains that the same nominal device can produce different outcomes because energy, depth, treatment layer, consumables, and operator judgment still require medical skill.
+- Informal-setting boundary: [[vol-04-yimei-zhenggui-you-zizhi-shi-yimei-de-qianti-tiaojian-zhonghan-yimei-zhengrong-de-huanjing-duibi-lhgwrsxzkwg7mvf5gl3xn1bdl2ns|VOL.04]] uses hotel surgery and home water-light injection to show how venue choice can simultaneously weaken sterility, credential checks, complication response, and accountability.
 
 ## Counterevidence & Qualifications
-The episodes do not provide a current official lookup workflow, jurisdiction-wide licensing taxonomy, or procedure-by-procedure legal checklist. Institutional names, procedure grades, permitted scopes, professional registrations, platform listings, product approvals, and appropriate age or candidacy can change; verification must use current official records and qualified local advice. A platform listing or absence can be a prompt to investigate, not definitive proof of legal scope, and verification does not turn an unnecessary intervention into a necessary one.
+The episodes do not provide a current official lookup workflow, jurisdiction-wide licensing taxonomy, or procedure-by-procedure legal checklist. Institutional names, procedure grades, permitted scopes, professional registrations, platform listings, product approvals, and appropriate age or candidacy can change; verification must use current official records and qualified local advice. A platform listing or absence can be a prompt to investigate, not definitive proof of legal scope, and verification does not turn an unnecessary intervention into a necessary one. Device categories, consumable lifetimes, cost examples, and complication mechanisms in VOL.04 are illustrative and time-sensitive rather than a current purchasing guide.
 
 ## What Changed
-- Added need, anatomy, maturity, and non-treatment as gates before provider and product verification.
-- Added concrete screening inputs for institutional names, advertised scope, procedure grade, clinician title, specialty qualification, and registered practice location.
-- Made the physician-versus-sales-consultant distinction and its incentive conflict explicit.
+- Added the distinction between equipment possession and verified operator capability.
+- Added sterile technique, treatment parameters, consumables, and complication response to procedure-setting verification.
+- Made home and hotel procedures explicit compound failures of venue, credential, sterility, rescue, and accountability safeguards.
 
 ## Related Concepts
 - [[UnapprovedMedicalAestheticProducts]] - product and supply-chain verification paired with provider checks.

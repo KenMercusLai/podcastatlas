@@ -5,7 +5,8 @@ tags: [healthcare, medical-aesthetics, injectables, product-safety, regulation]
 sources:
   - vol-159-cong-yi-mei-zhi-ming-dao-xianshi-zhengxing-yisheng-jiedu-juzhong-mei-xishuo-de-yimei-neimu-lksohygmb6epma5qgaf76pddx2fk
   - vol-137-yimei-shui-taishen-zhengxing-yisheng-fenxiang-xiaobai-dou-tingdedong-de-bikeng-zhinan-lqogn2-ueebzhwv0g1-ns9yqgv5
-last_updated: 2026-09-23
+  - vol-04-yimei-zhenggui-you-zizhi-shi-yimei-de-qianti-tiaojian-zhonghan-yimei-zhengrong-de-huanjing-duibi-lhgwrsxzkwg7mvf5gl3xn1bdl2ns
+last_updated: 2026-09-30
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,6 +19,8 @@ Unapproved medical-aesthetic product risk is the uncertainty created when an inj
 The episode frames low price as a weak safety signal because a product can be cheap upstream yet sold at a large markup. What matters is whether the patient and clinician can verify what the material is, whether it is authorized for the market and intended use, how accurately it was made and packaged, how it was transported, and what evidence and response capacity surround its use.
 
 The same logic joins illicit botulinum products to migrating or difficult-to-remove fillers. VOL.137 adds the alleged “water molecule” substitute as a source-scoped example of an industrial material marketed in place of hyaluronic acid and injected in informal settings despite tissue-compatibility, infection, removal, and accountability risks. A social-media label such as "平替" does not resolve uncertainty about composition, dose, purity, diffusion, allergy, infection, migration, or long-term removal. Product verification therefore has to be paired with [[MedicalAestheticProviderVerification|provider verification]].
+
+VOL.04 adds that authorization and identity are not the whole chain: preparation, dilution or mixing, disinfection, injection layer, and follow-up can change risk even when a familiar product name is used. Its cost examples also sharpen the price boundary: neither an extreme discount nor a large markup proves authenticity, so price should trigger questions about product source and delivery conditions rather than serve as proof by itself.
 
 ## Key Claims
 - A low purchase price does not demonstrate that an injectable is authentic, approved, correctly stored, or safe.
@@ -34,12 +37,15 @@ The same logic joins illicit botulinum products to migrating or difficult-to-rem
 - Filler analogy: [[vol-159-cong-yi-mei-zhi-ming-dao-xianshi-zhengxing-yisheng-jiedu-juzhong-mei-xishuo-de-yimei-neimu-lksohygmb6epma5qgaf76pddx2fk]] uses 奥美定-like materials to show that one notorious product can recede while new low-cost substitutes repeat the same identity and removal problem.
 - Illegal substitute and venue: [[vol-137-yimei-shui-taishen-zhengxing-yisheng-fenxiang-xiaobai-dou-tingdedong-de-bikeng-zhinan-lqogn2-ueebzhwv0g1-ns9yqgv5]] describes “water molecule” as an alleged industrial substitute used for breast or buttock injection, with tissue incompatibility, infection, difficult removal, ICU-level harm, informal administration, and weak traceability.
 - Marketing channel: [[vol-159-cong-yi-mei-zhi-ming-dao-xianshi-zhengxing-yisheng-jiedu-juzhong-mei-xishuo-de-yimei-neimu-lksohygmb6epma5qgaf76pddx2fk]] identifies social-media and private-message "平替" claims as a route by which product uncertainty is normalized.
+- Preparation and administration chain: [[vol-04-yimei-zhenggui-you-zizhi-shi-yimei-de-qianti-tiaojian-zhonghan-yimei-zhengrong-de-huanjing-duibi-lhgwrsxzkwg7mvf5gl3xn1bdl2ns|VOL.04]] links informally sourced products and home or hotel treatment to uncertain disinfection, preparation, tissue depth, infection control, and later accountability.
+- Price ambiguity: [[vol-04-yimei-zhenggui-you-zizhi-shi-yimei-de-qianti-tiaojian-zhonghan-yimei-zhengrong-de-huanjing-duibi-lhgwrsxzkwg7mvf5gl3xn1bdl2ns|VOL.04]] describes both very low acquisition cost and large retail markup, supporting the conclusion that price alone cannot authenticate a product or treatment chain.
 
 ## Counterevidence & Qualifications
-This page does not independently determine the identity or current regulatory status of any named product or nickname. Approval, authorized indication, batch authenticity, storage, composition, and legal status are time- and jurisdiction-sensitive and must be checked through current official channels and qualified providers. The sources' cost, market-price, complication, and material descriptions are illustrative rather than independently verified market-wide evidence.
+This page does not independently determine the identity or current regulatory status of any named product or nickname. Approval, authorized indication, batch authenticity, storage, composition, preparation, and legal status are time- and jurisdiction-sensitive and must be checked through current official channels and qualified providers. The sources' cost, market-price, complication, granuloma, infection, and material descriptions are illustrative rather than independently verified market-wide evidence.
 
 ## What Changed
-- Added venue, tissue-compatibility, removability, and post-harm accountability to the product-risk framework.
+- Added preparation, disinfection, tissue depth, and follow-up to the product-safety chain.
+- Clarified that neither extreme discounts nor large markups establish product authenticity.
 
 ## Related Concepts
 - [[BotulinumToxinInjectionSafety]] - clinical consequences when product and dose control fail.
