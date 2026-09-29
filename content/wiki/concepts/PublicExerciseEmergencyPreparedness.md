@@ -5,7 +5,8 @@ tags: [health, emergency-response, exercise, public-safety, first-aid]
 sources:
   - vol-211-yue-yundong-yue-kualian-zhengxing-yisheng-yu-xinxueguan-yisheng-de-jianshen-qumei-zhinan-lsp1xlzq1iapc-qale-mzutigv0u
   - vol-222-aoye-xintiao-kuangbiao-shi-cusi-qianzhao-aed-hui-dian-cuo-huoren-dai-ni-bikai-zhiming-changshi-shijie-jijiu-ri-teji-lnemogq8gb9o3e2835jvtfx3emiy
-last_updated: 2026-09-09
+  - vol-18-jizhen-weizhongbingke-tufa-yundong-sunshang-de-yuanqian-jijiu-he-cpr-liucheng-lsdfg_wubb1qdmi_boh8lvulyr-1
+last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,8 +22,10 @@ Public exercise emergency preparedness / 公共运动急救准备 is the capacit
 
 The core synthesis is that useful response depends on both action and judgment. Bystanders should make the environment safe, check whether breathing is absent or abnormal, start chest compressions when cardiac arrest is likely, call 120, seek an AED, and follow device prompts. At the same time, training matters because inappropriate compressions, wrong-condition Heimlich-style response, seizure mouth-stuffing, folk burn remedies, or delayed injury care can cause harm.
 
+VOL.18 connects response readiness to preparation before participation. Protective equipment, skill-matched terrain or intensity, warmup, and sport-specific first-aid learning reduce avoidable exposure, while severe pain, inability to walk, suspected fracture, or collapse require a shift from continuing the activity to protection, help, and trained response.
+
 ## Key Claims
-- Exercise safety includes acute injury, chest-pain, collapse, and first-aid response, not only training-plan design.
+- Exercise safety includes skill-matched participation, protective equipment, warmup, acute injury, chest pain, collapse, and first-aid response, not only training-plan design.
 - Public scenes should first be made safe and flat enough for assessment and rescue.
 - Bystanders need basic criteria for severe collapse: unconsciousness and abnormal or absent breathing shift the response toward immediate CPR for lay rescuers.
 - Emergency response should distribute tasks: one person starts compressions, others call 120, find an AED, and gather help.
@@ -35,14 +38,16 @@ The core synthesis is that useful response depends on both action and judgment. 
 - Early care: [[vol-211-yue-yundong-yue-kualian-zhengxing-yisheng-yu-xinxueguan-yisheng-de-jianshen-qumei-zhinan-lsp1xlzq1iapc-qale-mzutigv0u]] recommends prompt medical treatment and primary closure for facial wounds or fractures when appearance and function may be affected; [[vol-222-aoye-xintiao-kuangbiao-shi-cusi-qianzhao-aed-hui-dian-cuo-huoren-dai-ni-bikai-zhiming-changshi-shijie-jijiu-ri-teji-lnemogq8gb9o3e2835jvtfx3emiy]] adds deep wounds, persistent bleeding, tendon signs, contaminated punctures, tetanus-risk concern, burn cooling, and avoiding stuck-clothing tearing.
 - Collapse and AED response: [[vol-211-yue-yundong-yue-kualian-zhengxing-yisheng-yu-xinxueguan-yisheng-de-jianshen-qumei-zhinan-lsp1xlzq1iapc-qale-mzutigv0u]] describes safe positioning, checking major pulse and breathing, starting chest compressions, calling 120, finding an AED, and following AED prompts; [[vol-222-aoye-xintiao-kuangbiao-shi-cusi-qianzhao-aed-hui-dian-cuo-huoren-dai-ni-bikai-zhiming-changshi-shijie-jijiu-ri-teji-lnemogq8gb9o3e2835jvtfx3emiy]] sharpens the public threshold to unconsciousness plus abnormal or absent breathing, and explains AED analysis, pad contact, shock precautions, and task division.
 - Training and wrong-action boundary: [[vol-211-yue-yundong-yue-kualian-zhengxing-yisheng-yu-xinxueguan-yisheng-de-jianshen-qumei-zhinan-lsp1xlzq1iapc-qale-mzutigv0u]] says public venues need basic knowledge, professional emergency flow, and offline practice while warning against careless compressions when a pulse remains; [[vol-222-aoye-xintiao-kuangbiao-shi-cusi-qianzhao-aed-hui-dian-cuo-huoren-dai-ni-bikai-zhiming-changshi-shijie-jijiu-ri-teji-lnemogq8gb9o3e2835jvtfx3emiy]] adds seizure mouth-stuffing, philtrum pinching, Heimlich-style misuse, medication stacking, and folk burn remedies as wrong-action examples.
+- Preparation and sport-specific readiness: [[vol-18-jizhen-weizhongbingke-tufa-yundong-sunshang-de-yuanqian-jijiu-he-cpr-liucheng-lsdfg_wubb1qdmi_boh8lvulyr-1]] joins warmup, appropriate protection, skill-matched participation, first-aid learning, no-amateur-reduction restraint, and repeated CPR practice.
 
 ## Counterevidence & Qualifications
-The sources are not emergency-care manuals and do not replace certified BLS, first-aid, lifeguard, athletic-trainer, or emergency-medical training. Local emergency numbers, legal protections, AED availability, and response protocols vary by place. The page records the episodes' China-facing public-education frame, including 120 as the emergency number in that context.
+The sources are not emergency-care manuals and do not replace certified BLS, first-aid, lifeguard, athletic-trainer, or emergency-medical training. Warmup duration, protective equipment, exercise heart-rate choices, cooling, splinting, bleeding control, CPR sequence, and return to activity depend on the person, event, training, and current protocol. Local emergency numbers, legal protections, AED availability, and response protocols vary by place. The page records the episodes' China-facing public-education frame, including 120 as the emergency number in that context.
 
 ## What Changed
 - VOL.222 broadens the concept from exercise-scene emergency preparedness into a more explicit first-aid triage frame covering chest pain, collapse, CPR/AED, seizures, wounds, burns, medication risk, and sports-injury escalation.
 - The CPR/AED synthesis now emphasizes unconsciousness plus abnormal or absent breathing for lay response, AED prompt-following, and avoiding contact during analysis or shock.
 - The wrong-action boundary now includes seizure folk practices, Heimlich-style misuse, folk burn remedies, and self-medication stacking, not only careless compressions.
+- Preparedness now begins before the event with skill matching, protection, warmup, sport-specific first-aid learning, and repeated practical CPR training.
 
 ## Related Concepts
 - [[ExerciseLoadManagement]] - prevention-side frame that reduces avoidable overload before emergencies occur.

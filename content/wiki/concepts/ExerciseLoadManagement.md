@@ -8,7 +8,8 @@ sources:
   - essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415
   - vol-127-zhe-xiang-keji-tigao-le-aoyun-chengji-jianshao-le-yundong-henhuo-shanghai-zan-putongren-ye-neng-yong-lai-zhuli-kangfu-ln2tg_vwgjzmmss49rn6nagis5p0
   - vol-90-yundong-yixue-pengyou-ni-huaxue-ma-bugai-yao-chenzao-kemu-san-jinji-renqun-lvfameb1ztoxm5yx5e-ylsrekbsq
-last_updated: 2026-09-27
+  - vol-18-jizhen-weizhongbingke-tufa-yundong-sunshang-de-yuanqian-jijiu-he-cpr-liucheng-lsdfg_wubb1qdmi_boh8lvulyr-1
+last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
 
@@ -30,6 +31,8 @@ The 2024 Olympic and rehabilitation episode adds an individualized biomechanics 
 
 The winter-sports episode adds movement control and environment. Snow, ice, hard ground, skis, exaggerated dance range, sudden stops, cutting, rotation, and uncontrolled cervical movement can turn ordinary participation into acute loading that exceeds current skill or tissue capacity. Its practical response is not blanket avoidance: warm up, use appropriate protection, simplify range, progress technique, and stop when control is lost.
 
+Baseline health and supervision also shape capacity. A participant with hypertension, diabetes, chronic heart disease, poor baseline condition, or little technical experience may face a different risk from the same slope, lift, or gym movement; warmup, protective equipment, coaching, and refusal to advance through pain or bravado are therefore load-management decisions, not decorative extras.
+
 ## Key Claims
 - Safe exercise depends on matching load to current capacity, goals, recovery, medical context, and decision-fit evidence, not on choosing a universally safe sport or trusting more precise-looking sensor output by default.
 - Gradual progression matters across endurance and strength activities: jumping from no base to long runs, marathons, intense functional-fitness sequences, or daily hard training raises risk.
@@ -49,16 +52,17 @@ The winter-sports episode adds movement control and environment. Snow, ice, hard
 - Energy availability: [[essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415]] ties training to sleep, stress, calorie restriction, body fat, and testosterone context rather than treating exercise volume as independently beneficial.
 - Individualized biomechanics: [[vol-127-zhe-xiang-keji-tigao-le-aoyun-chengji-jianshao-le-yundong-henhuo-shanghai-zan-putongren-ye-neng-yong-lai-zhuli-kangfu-ln2tg_vwgjzmmss49rn6nagis5p0]] proposes movement capture, force measurement, musculoskeletal modeling, and repeated rehabilitation assessment while emphasizing purpose, precision, and cost.
 - Environment and movement control: [[vol-90-yundong-yixue-pengyou-ni-huaxue-ma-bugai-yao-chenzao-kemu-san-jinji-renqun-lvfameb1ztoxm5yx5e-ylsrekbsq]] links winter falls, skiing, cutting sports, viral dance range, and uncontrolled neck movement to warmup, protection, simplification, and progression.
+- Health, skill, and supervision: [[vol-18-jizhen-weizhongbingke-tufa-yundong-sunshang-de-yuanqian-jijiu-he-cpr-liucheng-lsdfg_wubb1qdmi_boh8lvulyr-1]] links winter sport and gym injuries to baseline disease, technique, coaching, protective equipment, warmup, severe pain, and the choice not to attempt terrain or loads beyond current ability.
 
 ## Counterevidence & Qualifications
 The sources do not argue against intense training, competition, endurance goals, winter sport, dance participation, exercise for appearance, or exercise for hormone support in general. They argue that intensity and range should be earned by preparation, control, technique, recovery, energy availability, environment, and medical context. These episodes are public education, not individualized training, endocrinology, cardiology, dermatology, medical-aesthetic, supplement, emergency-care, or rehabilitation prescriptions, and pain, swelling, locking, neurological symptoms, suspected acute injury, collapse, known heart disease, abnormal exercise response, fertility concerns, or hormone symptoms still require qualified assessment.
 
 ## What Changed
-- VOL.212 adds exercise load management as the reusable safety frame behind running, gym, cycling, tennis, HYROX, weekend-exercise, and support-device advice.
-- VOL.211 extends the frame into appearance-driven overtraining, cardiovascular risk, sleep/caffeine recovery debt, supplement caution, rhabdomyolysis, equipment safety, and public emergency response.
+- The synthesis treats exercise load as a reusable frame across running, gym, cycling, tennis, HYROX, weekend exercise, appearance goals, systemic risk, and support-device use.
 - Added an endocrine-recovery branch for hormone-support goals, bounded vigorous work, sleep, stress, and energy availability.
 - Added a conditional biomechanics branch: individualized models can inform load choices only when their inputs, precision, validation, and decision use are fit for purpose.
 - Added winter environment, uncontrolled range, viral imitation, and skill progression as load-management variables.
+- Clarified that baseline disease, coaching, protection, warmup, and stopping for severe pain are part of capacity matching in winter sport and gym settings.
 
 ## Related Concepts
 - [[StrengthTrainingJointProtection]] - builds the muscular capacity that makes load easier to tolerate.

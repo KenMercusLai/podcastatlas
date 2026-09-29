@@ -1860,7 +1860,7 @@ wiki_pages:
     title: "萌萌将 / Mengmeng Jiang"
     url: "/wiki/entities/mengmengjiang/"
   - key: "MengDoctorFeverClinic"
-    title: "蒙医生 / Meng Doctor (fever clinic)"
+    title: "蒙医生 / Meng Doctor (这病说来话长)"
     url: "/wiki/entities/mengdoctorfeverclinic/"
   - key: "MengJia"
     title: "蒙嘉 / Meng Jia"

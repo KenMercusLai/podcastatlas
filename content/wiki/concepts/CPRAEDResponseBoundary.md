@@ -7,7 +7,8 @@ sources:
   - vol-152-nazha-wo-ming-you-wo-bu-you-tian-xianshi-zhong-de-gaiming-shenqi-ni-zhidao-ma-zhen-neng-yufang-cusi-ma-lvt24r7x6bppx7e5gqhas1yn-jru
   - vol-122-ni-zhidao-li-ni-zuijin-de-aed-zai-na-ma-buneng-zhishi-tongding-sitong-ranhou-buliaoliaozhi-han-xinfei-fusu-liucheng-aed-shiyong-jiangjie-loltrw1svirwsfkt_skd40mxq7d8
   - vol-65-xinzang-waike-xianxinbing-guanxinbing-banmobing-zhe-jizhong-xinzang-jibing-lai-ting-anzhen-yisheng-zenme-jiang-lo_ztsjizbunfsi5uhii1iv_lrzb
-last_updated: 2026-09-28
+  - vol-18-jizhen-weizhongbingke-tufa-yundong-sunshang-de-yuanqian-jijiu-he-cpr-liucheng-lsdfg_wubb1qdmi_boh8lvulyr-1
+last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
 
@@ -25,6 +26,8 @@ The wider defibrillation boundary also distinguishes implanted from public rescu
 
 VOL.65 supplies an earlier version of the collapse boundary through a marathon example in which heat illness was mistaken for arrest. Its durable contribution is differential assessment before compressions: hypoglycemia, heat illness, pneumothorax, allergy, and other emergencies may produce collapse or breathlessness while retaining circulation. Its carotid-pulse, airway-positioning, ventilation, and exact compression instructions are preserved as source-scoped teaching rather than overriding the newer multi-source lay-rescuer synthesis.
 
+VOL.18 adds another early teaching layer from a sport-injury episode. It records the move from an ABC mnemonic toward a circulation-first CAB frame, a 30:2 compression-to-ventilation sequence, and 100-120 compressions per minute, but its most durable point is educational: hearing numbers is not equivalent to competent response, and recurring hands-on practice matters.
+
 ## Key Claims
 - Chest compressions are for suspected cardiac arrest, not for every person who falls, faints, has a stroke, becomes hypoglycemic, or feels unwell.
 - Lay judgment can focus on scene safety, responsiveness, and absent or abnormal breathing rather than difficult pulse checks.
@@ -41,13 +44,15 @@ VOL.65 supplies an earlier version of the collapse boundary through a marathon e
 - Practical accessibility: [[vol-122-ni-zhidao-li-ni-zuijin-de-aed-zai-na-ma-buneng-zhishi-tongding-sitong-ranhou-buliaoliaozhi-han-xinfei-fusu-liucheng-aed-shiyong-jiangjie-loltrw1svirwsfkt_skd40mxq7d8]] argues that maps should support advance familiarity because floor, indoor position, access control, opening hours, and retrieval time can defeat nominal proximity.
 - External-versus-implanted protection: [[vol-152-nazha-wo-ming-you-wo-bu-you-tian-xianshi-zhong-de-gaiming-shenqi-ni-zhidao-ma-zhen-neng-yufang-cusi-ma-lvt24r7x6bppx7e5gqhas1yn-jru]] contrasts public AED access and bystander timing with continuous ICD monitoring for selected high-risk patients.
 - Collapse differential: [[vol-65-xinzang-waike-xianxinbing-guanxinbing-banmobing-zhe-jizhong-xinzang-jibing-lai-ting-anzhen-yisheng-zenme-jiang-lo_ztsjizbunfsi5uhii1iv_lrzb|VOL.65]] distinguishes suspected arrest from heat illness, hypoglycemia, and other causes of collapse and warns that compressions can injure a person who retains breathing and circulation.
+- Training and historical sequence: [[vol-18-jizhen-weizhongbingke-tufa-yundong-sunshang-de-yuanqian-jijiu-he-cpr-liucheng-lsdfg_wubb1qdmi_boh8lvulyr-1|VOL.18]] describes a circulation-first CAB frame, 30:2 teaching, a 100-120-per-minute rate, and repeated mannequin practice for emergency clinicians.
 
 ## Counterevidence & Qualifications
-The sources are public medical education, not certified CPR/AED training, an implantation guideline, or a complete resuscitation guideline. VOL.65 emphasizes carotid-pulse checking and ventilation, while the later sources give lay rescuers a response-and-breathing threshold; this difference is retained rather than flattened because pulse assessment, compression, ventilation, pediatric, drowning, electrical-injury, carbon-monoxide, and single-rescuer retrieval details are training- and protocol-sensitive. Local device models, emergency numbers, dispatcher instructions, legal protections, formal training standards, and ICD indications vary.
+The sources are public medical education, not certified CPR/AED training, an implantation guideline, or a complete resuscitation guideline. VOL.65 emphasizes carotid-pulse checking and ventilation, while the later sources give lay rescuers a response-and-breathing threshold; this difference is retained rather than flattened because mnemonic order, pulse assessment, compression-to-ventilation sequence, compression technique, ventilation, pediatric, drowning, electrical-injury, carbon-monoxide, and single-rescuer retrieval details are training- and protocol-sensitive. Local device models, emergency numbers, dispatcher instructions, legal protections, formal training standards, and ICD indications vary.
 
 ## What Changed
 - Added an earlier collapse-differential example in which heat illness was mistaken for cardiac arrest.
 - Made the older pulse-check and ventilation teaching explicitly protocol- and training-sensitive beside the later lay response-and-breathing threshold.
+- Added the earlier CAB and 30:2 teaching as historical source context while making hands-on retraining, not memorized numbers, the durable conclusion.
 
 ## Related Concepts
 - [[FirstAidTriageAndEscalation]] - broader emergency decision frame that determines when CPR/AED response is appropriate.

@@ -25231,3 +25231,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | VOL.18急诊危重病科｜突发运动损伤的院前急救和CPR流程
+
+Added source `vol-18-jizhen-weizhongbingke-tufa-yundong-sunshang-de-yuanqian-jijiu-he-cpr-liucheng-lsdfg_wubb1qdmi_boh8lvulyr-1`; expanded `MengDoctorFeverClinic`; and updated `AcuteSportsInjuryEscalation`, `FirstAidTriageAndEscalation`, `CPRAEDResponseBoundary`, `PublicExerciseEmergencyPreparedness`, `AcuteWoundBurnFirstAid`, `ExerciseLoadManagement`, and the canonical index from their complete bounded source sets. Core synthesis: public response to sport and trauma scenes should prioritize stopping activity, direct pressure, protection, minimal movement, safe support, early help, and trained arrest response over amateur reduction or uncertain complex technique. No settled contradiction was adopted. Fixed cooling-to-heat timing, improvised constriction and release, exact CPR sequence, and return-to-loading advice remain source-scoped January 2023 teaching rather than current universal instructions. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

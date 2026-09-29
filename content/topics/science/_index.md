@@ -3282,7 +3282,7 @@ topic_entities:
     title: "萧楚舟 / Xiao Chuzhou"
     url: "/wiki/entities/xiaochuzhou/"
   - key: "MengDoctorFeverClinic"
-    title: "蒙医生 / Meng Doctor (fever clinic)"
+    title: "蒙医生 / Meng Doctor (这病说来话长)"
     url: "/wiki/entities/mengdoctorfeverclinic/"
   - key: "Outlive"
     title: "超越百岁 / Outlive"
