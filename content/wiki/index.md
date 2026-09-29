@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [287: Jesus Christ: The Mystery (Part 1)](sources/287-jesus-christ-the-mystery-part-1-glt4572965796.md) — The Rest Is History episode on non-Christian evidence, Gospel source criticism, Roman Judea, and Jesus’s Galilean cultural and political setting.
 - [The Science of Creativity & How to Enhance Creative Innovation](sources/the-science-of-creativity-how-to-enhance-creative-innovation-scim5096680097.md) — Huberman Lab solo episode on divergence and convergence, creativity networks, state matching, narrative training, and bounded dopamine, meditation, movement, NSDR, and substance claims.
 - [VOL.05急诊｜解密医生之间的那些暗语｜在急诊有床位就代表有一席之地](sources/vol-05-jizhen-jiemi-yisheng-zhijian-de-naxie-anyu-zai-jizhen-you-chuangwei-jiu-daibiao-you-yixi-zhidi-lirey0j7u3c55buirusfj4qtzzg6.md) — 这病说来话长 episode on acuity-based emergency order, bed and imaging bottlenecks, clinician communication, CPR/AED literacy, and symptom-search anxiety.
 - [288: Jesus Christ: The History (Part 2)](sources/288-jesus-christ-the-history-part-2-glt4776258433.md) — The Rest Is History episode separating historical anchors in Jesus's life from disputed Nativity details and supernatural adjudication, while explaining Kingdom preaching, crucifixion, resurrection belief, and early exaltation.
@@ -3236,6 +3237,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [290: 2022: A History](sources/290-2022-a-history-glt4625765030.md) — The Rest Is History year-end episode on Ukraine as a post-Cold War rupture, European energy dependence, Elizabeth II's death, British political turmoil, and 2022 cultural recommendations.
 
 ## Entities
+- [Josephus](entities/Josephus.md) — Judean priest, revolt participant, and historian whose disputed and incidental references are central to reconstructing Jesus and John the Baptist.
 - [Jesus](entities/Jesus.md) — First-century Jewish teacher reconstructed through baptism, Kingdom preaching, Jerusalem conflict, crucifixion, and early resurrection belief.
 - [John the Baptist](entities/JohnTheBaptist.md) — Preacher of repentance, baptism, and judgment whose connection to Jesus is a strong historical anchor.
 - [Pontius Pilate](entities/PontiusPilate.md) — Roman authority connecting the Jerusalem arrest of Jesus to political interrogation and crucifixion.
@@ -14685,6 +14687,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Auschwitz-Birkenau](entities/AuschwitzBirkenau.md) — Nazi concentration and extermination complex examined through forced labor, confiscation, registration, deception, mass killing, and escapee evidence.
 
 ## Concepts
+- [Galilean-Judean Cultural Boundary](concepts/GalileanJudeanCulturalBoundary.md) — Framework joining Jesus’s Jewish identity to Galilean formation, Roman political geography, and distance from Jerusalem and Greco-Roman civic culture.
 - [Creative Divergence-Convergence Cycle](concepts/CreativeDivergenceConvergenceCycle.md) — Two-mode process in which flexible association generates possibilities before focused evaluation selects and develops them.
 - [Creativity Network Coordination](concepts/CreativityNetworkCoordination.md) — Distributed account joining spontaneous generation, salience selection, and executive constraint in creative cognition.
 - [Creative State Matching](concepts/CreativeStateMatching.md) — Task-relative matching of attention, arousal, movement, rest, and stimulation to divergent or convergent work.

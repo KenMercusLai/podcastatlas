@@ -6,11 +6,14 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 8841
+wiki_total_pages: 8842
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
     url: "/wiki/concepts/gainconversionassetform/"
+  - key: "GalileanJudeanCulturalBoundary"
+    title: "Galilean-Judean Cultural Boundary"
+    url: "/wiki/concepts/galileanjudeanculturalboundary/"
   - key: "GallbladderDiseaseRecognitionAndTriage"
     title: "Gallbladder Disease Recognition and Triage / 胆囊疾病识别与分流"
     url: "/wiki/concepts/gallbladderdiseaserecognitionandtriage/"

@@ -25538,3 +25538,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-30] ingest | 287: Jesus Christ: The Mystery (Part 1)
+
+Added source `287-jesus-christ-the-mystery-part-1-glt4572965796`; created `Josephus` and `GalileanJudeanCulturalBoundary`; updated `Jesus`, `JohnTheBaptist`, `PontiusPilate`, and `HistoricalJesusReconstruction`; and updated the canonical index. Core synthesis: Jesus's existence is the broad historical baseline, but non-Christian references and Gospel traditions require differentiated source criticism; Jesus's Jewish identity and Galilean formation are complementary, while regional administration, temple distance, Greco-Roman civic culture, and Roman festival security contextualize his conflict and execution. No settled contradiction was adopted. Josephus's interpolated passage, Gospel dates and eyewitness claims, high-priest jurisdiction, auxiliary identity, pottery interpretation, and the political meaning of the execution remain qualified or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

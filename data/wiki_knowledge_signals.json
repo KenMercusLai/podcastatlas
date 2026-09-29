@@ -67472,6 +67472,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/galahad/"
     },
+    "GalileanJudeanCulturalBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4572965796 [GLT4572965796].md",
+          "key": "287-jesus-christ-the-mystery-part-1-glt4572965796",
+          "show": "The Rest Is History",
+          "title": "287: Jesus Christ: The Mystery (Part 1)",
+          "url": "/wiki/sources/287-jesus-christ-the-mystery-part-1-glt4572965796/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/galileanjudeanculturalboundary/"
+    },
     "GallLakota": {
       "episode_count": 1,
       "show_count": 1,
@@ -79891,9 +79907,9 @@
       "url": "/wiki/concepts/historicalinternationallaw/"
     },
     "HistoricalJesusReconstruction": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4776258433 [GLT4776258433].md",
@@ -79901,6 +79917,13 @@
           "show": "The Rest Is History",
           "title": "288: Jesus Christ: The History (Part 2)",
           "url": "/wiki/sources/288-jesus-christ-the-history-part-2-glt4776258433/"
+        },
+        {
+          "episode_file": "GLT4572965796 [GLT4572965796].md",
+          "key": "287-jesus-christ-the-mystery-part-1-glt4572965796",
+          "show": "The Rest Is History",
+          "title": "287: Jesus Christ: The Mystery (Part 1)",
+          "url": "/wiki/sources/287-jesus-christ-the-mystery-part-1-glt4572965796/"
         }
       ],
       "updated": "2026-09-30",
@@ -92358,9 +92381,9 @@
       "url": "/wiki/entities/jessicachiccehittohindman/"
     },
     "Jesus": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4776258433 [GLT4776258433].md",
@@ -92368,6 +92391,13 @@
           "show": "The Rest Is History",
           "title": "288: Jesus Christ: The History (Part 2)",
           "url": "/wiki/sources/288-jesus-christ-the-history-part-2-glt4776258433/"
+        },
+        {
+          "episode_file": "GLT4572965796 [GLT4572965796].md",
+          "key": "287-jesus-christ-the-mystery-part-1-glt4572965796",
+          "show": "The Rest Is History",
+          "title": "287: Jesus Christ: The Mystery (Part 1)",
+          "url": "/wiki/sources/287-jesus-christ-the-mystery-part-1-glt4572965796/"
         }
       ],
       "updated": "2026-09-30",
@@ -94846,9 +94876,9 @@
       "url": "/wiki/entities/johnternus/"
     },
     "JohnTheBaptist": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4776258433 [GLT4776258433].md",
@@ -94856,6 +94886,13 @@
           "show": "The Rest Is History",
           "title": "288: Jesus Christ: The History (Part 2)",
           "url": "/wiki/sources/288-jesus-christ-the-history-part-2-glt4776258433/"
+        },
+        {
+          "episode_file": "GLT4572965796 [GLT4572965796].md",
+          "key": "287-jesus-christ-the-mystery-part-1-glt4572965796",
+          "show": "The Rest Is History",
+          "title": "287: Jesus Christ: The Mystery (Part 1)",
+          "url": "/wiki/sources/287-jesus-christ-the-mystery-part-1-glt4572965796/"
         }
       ],
       "updated": "2026-09-30",
@@ -95282,6 +95319,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/josephinedebeauharnais/"
+    },
+    "Josephus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4572965796 [GLT4572965796].md",
+          "key": "287-jesus-christ-the-mystery-part-1-glt4572965796",
+          "show": "The Rest Is History",
+          "title": "287: Jesus Christ: The Mystery (Part 1)",
+          "url": "/wiki/sources/287-jesus-christ-the-mystery-part-1-glt4572965796/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/josephus/"
     },
     "JoshShapiro": {
       "episode_count": 1,
@@ -135787,9 +135840,9 @@
       "url": "/wiki/entities/pompey/"
     },
     "PontiusPilate": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4776258433 [GLT4776258433].md",
@@ -135797,6 +135850,13 @@
           "show": "The Rest Is History",
           "title": "288: Jesus Christ: The History (Part 2)",
           "url": "/wiki/sources/288-jesus-christ-the-history-part-2-glt4776258433/"
+        },
+        {
+          "episode_file": "GLT4572965796 [GLT4572965796].md",
+          "key": "287-jesus-christ-the-mystery-part-1-glt4572965796",
+          "show": "The Rest Is History",
+          "title": "287: Jesus Christ: The Mystery (Part 1)",
+          "url": "/wiki/sources/287-jesus-christ-the-mystery-part-1-glt4572965796/"
         }
       ],
       "updated": "2026-09-30",

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2187
+topic_total_pages: 2188
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4719,6 +4719,9 @@ topic_sources:
   - key: "271-tangchao-douyao-bucunzai-le-weishenme-weishilun-hui-zai-jinnian-da-baofa-lg7-wdrdw1b9h7lwa4vwkvmyb4un"
     title: "271.唐朝都要不存在了？为什么伪史论会在今年大爆发？"
     url: "/wiki/sources/271-tangchao-douyao-bucunzai-le-weishenme-weishilun-hui-zai-jinnian-da-baofa-lg7-wdrdw1b9h7lwa4vwkvmyb4un/"
+  - key: "287-jesus-christ-the-mystery-part-1-glt4572965796"
+    title: "287: Jesus Christ: The Mystery (Part 1)"
+    url: "/wiki/sources/287-jesus-christ-the-mystery-part-1-glt4572965796/"
   - key: "288-jesus-christ-the-history-part-2-glt4776258433"
     title: "288: Jesus Christ: The History (Part 2)"
     url: "/wiki/sources/288-jesus-christ-the-history-part-2-glt4776258433/"
