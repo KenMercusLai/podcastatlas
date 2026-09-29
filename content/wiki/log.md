@@ -25287,3 +25287,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | GUEST SERIES | Dr. Andy Galpin: How to Assess & Improve All Aspects of Your Fitness
+
+Added source `guest-series-dr-andy-galpin-how-to-assess-improve-all-aspects-of-your-fitness-scim9072919255`; updated `NinePhysiologicalAdaptations`, `FunctionalFitnessReadiness`, and the canonical index from their complete bounded source sets. Core synthesis: fitness is a portfolio of nine trainable capacities, so exceptional endurance or favorable cardiovascular markers cannot establish adequate strength, power, movement quality, or whole-person readiness; repeatable testing should find severe weak links before specialization. No settled contradiction was adopted. Athlete-study summaries, numeric thresholds, field-test estimates, and maximal-effort protocols remain source-scoped public education rather than clinical norms or individualized exercise advice. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

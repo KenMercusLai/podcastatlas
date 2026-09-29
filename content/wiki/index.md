@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [GUEST SERIES | Dr. Andy Galpin: How to Assess & Improve All Aspects of Your Fitness](sources/guest-series-dr-andy-galpin-how-to-assess-improve-all-aspects-of-your-fitness-scim9072919255.md) — Huberman Lab guest-series opener on nine trainable adaptations, cross-domain fitness gaps, practical self-testing, and weak-link prioritization.
 - [vol.56 对谈咪仔：人生是认领自己与确立使命的过程](sources/vol-56-duitan-mizi-rensheng-shi-renling-ziji-yu-queli-shiming-de-guocheng-lgrbpfubc8s6y59jb6tsd6glz-c.md) — 天真不天真 conversation on career-skill convergence, crime-podcast craft, journalism ethics, paid-content design, creator portfolios, vulnerability, and emotional triggers.
 - [296: The Nazis: The Beer Hall Putsch (Part 2)](sources/296-the-nazis-the-beer-hall-putsch-part-2-glt4099180386.md) — The Rest Is History episode on Weimar's fragile foundations, hyperinflation, the failed Munich coup, trial and prison, Mein Kampf, and Hitler's turn toward procedural subversion.
 - [297: The Nazis: Hitler's Triumph (Part 3)](sources/297-the-nazis-hitlers-triumph-part-3-glt2055084600.md) — The Rest Is History episode on Depression-era Nazi growth, emergency government, paramilitary politics, elite authoritarian projects, and the containment bargain that made Hitler chancellor.

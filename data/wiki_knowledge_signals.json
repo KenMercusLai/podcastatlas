@@ -65671,9 +65671,9 @@
       "url": "/wiki/concepts/functionalarticulationdisorder/"
     },
     "FunctionalFitnessReadiness": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2172700344 [SCIM2172700344].md",
@@ -65681,9 +65681,16 @@
           "show": "Huberman Lab",
           "title": "AMA #14: 2023 Philanthropy, Evening Routine, Light Therapy, Health Metrics & More",
           "url": "/wiki/sources/ama-14-2023-philanthropy-evening-routine-light-therapy-health-metrics-more-scim2172700344/"
+        },
+        {
+          "episode_file": "SCIM9072919255 [SCIM9072919255].md",
+          "key": "guest-series-dr-andy-galpin-how-to-assess-improve-all-aspects-of-your-fitness-scim9072919255",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Andy Galpin: How to Assess & Improve All Aspects of Your Fitness",
+          "url": "/wiki/sources/guest-series-dr-andy-galpin-how-to-assess-improve-all-aspects-of-your-fitness-scim9072919255/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/functionalfitnessreadiness/"
     },
     "FunctionalFoodMarketingClaimSkepticism": {
@@ -122784,9 +122791,9 @@
       "url": "/wiki/entities/nimiwusun/"
     },
     "NinePhysiologicalAdaptations": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM5641095924 [SCIM5641095924].md",
@@ -122808,9 +122815,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Optimal Protocols to Build Strength & Grow Muscles | Dr. Andy Galpin",
           "url": "/wiki/sources/essentials-optimal-protocols-to-build-strength-grow-muscles-dr-andy-galpin-scim8443296592/"
+        },
+        {
+          "episode_file": "SCIM9072919255 [SCIM9072919255].md",
+          "key": "guest-series-dr-andy-galpin-how-to-assess-improve-all-aspects-of-your-fitness-scim9072919255",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Andy Galpin: How to Assess & Improve All Aspects of Your Fitness",
+          "url": "/wiki/sources/guest-series-dr-andy-galpin-how-to-assess-improve-all-aspects-of-your-fitness-scim9072919255/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/ninephysiologicaladaptations/"
     },
     "NinePurpleFireLuckActionFrame": {
