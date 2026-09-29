@@ -10770,9 +10770,9 @@
       "url": "/wiki/concepts/anemiadiagnosticreasoning/"
     },
     "AnesthesiaDrugMythBoundary": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "lj2X7wulCDfnv7bnH9dZOwcIWVrR [lj2X7wulCDfnv7bnH9dZOwcIWVrR].md",
@@ -10801,10 +10801,33 @@
           "show": "这病说来话长",
           "title": "VOL.59麻醉科&脊柱外科｜术中知晓“鬼压床”常见吗？腰疼是麻醉造成的吗？产妇都适合无痛分娩吗？",
           "url": "/wiki/sources/vol-59-mazuike-jizhuwai-ke-shuzhong-zhixiao-guiyachuang-changjian-ma-yaoteng-shi-mazui-zaocheng-de-ma-chanfu-dou-shihe-wutong-fenmian-ma-lp7ibbaykdfkwlpwdj8zdwejodtr/"
+        },
+        {
+          "episode_file": "lkf-9YHb2YphhaLTURxI5H89yA45 [lkf-9YHb2YphhaLTURxI5H89yA45].md",
+          "key": "vol-07-mazuike-mazui-yaowu-hui-shi-naozi-bian-ben-me-ruxian-shoushu-shifou-xu-quanma-lkf-9yhb2yphhalturxi5h89ya45",
+          "show": "这病说来话长",
+          "title": "VOL.07麻醉科｜麻醉药物会使脑子变笨么｜乳腺手术是否需全麻？",
+          "url": "/wiki/sources/vol-07-mazuike-mazui-yaowu-hui-shi-naozi-bian-ben-me-ruxian-shoushu-shifou-xu-quanma-lkf-9yhb2yphhalturxi5h89ya45/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/anesthesiadrugmythboundary/"
+    },
+    "AnesthesiaModalitySelection": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkf-9YHb2YphhaLTURxI5H89yA45 [lkf-9YHb2YphhaLTURxI5H89yA45].md",
+          "key": "vol-07-mazuike-mazui-yaowu-hui-shi-naozi-bian-ben-me-ruxian-shoushu-shifou-xu-quanma-lkf-9yhb2yphhalturxi5h89ya45",
+          "show": "这病说来话长",
+          "title": "VOL.07麻醉科｜麻醉药物会使脑子变笨么｜乳腺手术是否需全麻？",
+          "url": "/wiki/sources/vol-07-mazuike-mazui-yaowu-hui-shi-naozi-bian-ben-me-ruxian-shoushu-shifou-xu-quanma-lkf-9yhb2yphhalturxi5h89ya45/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/concepts/anesthesiamodalityselection/"
     },
     "AngelOakSmokehouse": {
       "episode_count": 1,
@@ -132533,9 +132556,9 @@
       "url": "/wiki/concepts/periodontalsystemichealthboundary/"
     },
     "PerioperativeAnesthesiaSafety": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "lj2X7wulCDfnv7bnH9dZOwcIWVrR [lj2X7wulCDfnv7bnH9dZOwcIWVrR].md",
@@ -132592,6 +132615,13 @@
           "show": "这病说来话长",
           "title": "VOL.08麻醉科｜“可行走的麻醉术”无痛分娩对孩子今后有影响吗",
           "url": "/wiki/sources/vol-08-mazuike-kexingzou-de-mazuishu-wutong-fenmian-dui-haizi-jinhou-you-yingxiang-ma-lif37vkcu8a2gdmf3jraupbnvqpm/"
+        },
+        {
+          "episode_file": "lkf-9YHb2YphhaLTURxI5H89yA45 [lkf-9YHb2YphhaLTURxI5H89yA45].md",
+          "key": "vol-07-mazuike-mazui-yaowu-hui-shi-naozi-bian-ben-me-ruxian-shoushu-shifou-xu-quanma-lkf-9yhb2yphhalturxi5h89ya45",
+          "show": "这病说来话长",
+          "title": "VOL.07麻醉科｜麻醉药物会使脑子变笨么｜乳腺手术是否需全麻？",
+          "url": "/wiki/sources/vol-07-mazuike-mazui-yaowu-hui-shi-naozi-bian-ben-me-ruxian-shoushu-shifou-xu-quanma-lkf-9yhb2yphhalturxi5h89ya45/"
         }
       ],
       "updated": "2026-09-29",
@@ -137722,9 +137752,9 @@
       "url": "/wiki/concepts/prenuptialagreementasrelationshipdesign/"
     },
     "PreoperativeAnesthesiaAssessment": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "ltFMX4d3ilE0DjXQLuRikqueocXn [ltFMX4d3ilE0DjXQLuRikqueocXn].md",
@@ -137739,9 +137769,16 @@
           "show": "这病说来话长",
           "title": "VOL.131医生请回答｜你如果隐瞒病史，医生真的不知道吗？",
           "url": "/wiki/sources/vol-131-yisheng-qing-huida-ni-ruguo-yinman-bingshi-yisheng-zhende-bu-zhidao-ma-lg-a6kjqu-s1lk8uu1fapb763xzq/"
+        },
+        {
+          "episode_file": "lkf-9YHb2YphhaLTURxI5H89yA45 [lkf-9YHb2YphhaLTURxI5H89yA45].md",
+          "key": "vol-07-mazuike-mazui-yaowu-hui-shi-naozi-bian-ben-me-ruxian-shoushu-shifou-xu-quanma-lkf-9yhb2yphhalturxi5h89ya45",
+          "show": "这病说来话长",
+          "title": "VOL.07麻醉科｜麻醉药物会使脑子变笨么｜乳腺手术是否需全麻？",
+          "url": "/wiki/sources/vol-07-mazuike-mazui-yaowu-hui-shi-naozi-bian-ben-me-ruxian-shoushu-shifou-xu-quanma-lkf-9yhb2yphhalturxi5h89ya45/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-29",
       "url": "/wiki/concepts/preoperativeanesthesiaassessment/"
     },
     "PresbyopiaCorrectionFitting": {
@@ -164963,9 +165000,9 @@
       "url": "/wiki/entities/supuyanlatehan/"
     },
     "SurgicalInformedConsentResponsibility": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lr1JWIN34M6obOzYrqpyBpuJQ5CZ [lr1JWIN34M6obOzYrqpyBpuJQ5CZ].md",
@@ -164973,6 +165010,13 @@
           "show": "这病说来话长",
           "title": "VOL.25肿瘤肝胆外科｜箫郎医生在肿瘤医院行医18年所遇到的那些“怪”事和医患故事",
           "url": "/wiki/sources/vol-25-zhongliu-gandan-waike-xiaolang-yisheng-zai-zhongliu-yiyuan-xingyi-18-nian-suo-yudao-de-naxie-guai-shi-he-yihuan-gushi-lr1jwin34m6obozyrqpybpujq5cz/"
+        },
+        {
+          "episode_file": "lkf-9YHb2YphhaLTURxI5H89yA45 [lkf-9YHb2YphhaLTURxI5H89yA45].md",
+          "key": "vol-07-mazuike-mazui-yaowu-hui-shi-naozi-bian-ben-me-ruxian-shoushu-shifou-xu-quanma-lkf-9yhb2yphhalturxi5h89ya45",
+          "show": "这病说来话长",
+          "title": "VOL.07麻醉科｜麻醉药物会使脑子变笨么｜乳腺手术是否需全麻？",
+          "url": "/wiki/sources/vol-07-mazuike-mazui-yaowu-hui-shi-naozi-bian-ben-me-ruxian-shoushu-shifou-xu-quanma-lkf-9yhb2yphhalturxi5h89ya45/"
         }
       ],
       "updated": "2026-09-29",

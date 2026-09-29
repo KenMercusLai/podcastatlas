@@ -4,6 +4,7 @@ type: concept
 tags: [surgery, informed-consent, risk-communication, accountability]
 sources:
   - vol-25-zhongliu-gandan-waike-xiaolang-yisheng-zai-zhongliu-yiyuan-xingyi-18-nian-suo-yudao-de-naxie-guai-shi-he-yihuan-gushi-lr1jwin34m6obozyrqpybpujq5cz
+  - vol-07-mazuike-mazui-yaowu-hui-shi-naozi-bian-ben-me-ruxian-shoushu-shifou-xu-quanma-lkf-9yhb2yphhalturxi5h89ya45
 last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
@@ -18,6 +19,8 @@ Surgical informed consent is a communication and authorization process for under
 
 The episode's clearest legal-ethical claim is that a signature implements a right to know and records a decision; it is not blanket immunity for clinicians. The useful unit is therefore the whole process—comprehension, voluntariness, authority, questions, alternatives, documentation, and continuing professional responsibility—not the paper alone.
 
+VOL.07 extends that reasoning into anesthesia consent. Anesthesia and surgery cannot be made risk-free, so clinicians are described as considering severe outcomes in advance, preparing rescue responses, and explaining material possibilities while also reducing avoidable fear. Disclosure is therefore both a professional obligation and protection of the patient's decision rights, not evidence that a complication is expected.
+
 ## Key Claims
 - Risk disclosure should communicate realistic possibilities without presenting a complication list as a prediction.
 - Consent requires more than a signature; understandable explanation, opportunity for questions, and valid decision authority matter.
@@ -25,18 +28,20 @@ The episode's clearest legal-ethical claim is that a signature implements a righ
 - Preoperative communication can include practical family preparation for postoperative support as well as procedural risk.
 - Signing does not excuse negligence, erase professional standards, or bar later review of clinician conduct.
 - Exact consent and disclosure requirements vary with urgency, capacity, procedure, institution, and jurisdiction.
+- Risk communication should be paired with preventive and rescue planning; disclosure alone is not the clinical management of risk.
 
 ## Evidence
 - Risk interpretation: [[vol-25-zhongliu-gandan-waike-xiaolang-yisheng-zai-zhongliu-yiyuan-xingyi-18-nian-suo-yudao-de-naxie-guai-shi-he-yihuan-gushi-lr1jwin34m6obozyrqpybpujq5cz|VOL.25]] has the guest explain that listed complications are possible rather than inevitable.
 - Care preparation: [[vol-25-zhongliu-gandan-waike-xiaolang-yisheng-zai-zhongliu-yiyuan-xingyi-18-nian-suo-yudao-de-naxie-guai-shi-he-yihuan-gushi-lr1jwin34m6obozyrqpybpujq5cz|VOL.25]] treats preoperative discussion as preparation for family behavior and cooperation if recovery becomes difficult.
 - Continuing accountability: [[vol-25-zhongliu-gandan-waike-xiaolang-yisheng-zai-zhongliu-yiyuan-xingyi-18-nian-suo-yudao-de-naxie-guai-shi-he-yihuan-gushi-lr1jwin34m6obozyrqpybpujq5cz|VOL.25]] explicitly rejects the idea that signing releases a clinician from responsibility for wrongdoing.
+- Anesthesia right-to-know and planning: [[vol-07-mazuike-mazui-yaowu-hui-shi-naozi-bian-ben-me-ruxian-shoushu-shifou-xu-quanma-lkf-9yhb2yphhalturxi5h89ya45|VOL.07]] presents anesthesia-risk disclosure as a professional obligation and respect for patient rights, while linking worst-case discussion to advance rescue preparation and emotional reassurance.
 
 ## Counterevidence & Qualifications
-The source provides public explanation, not jurisdiction-specific legal advice, hospital policy, or a complete doctrine of informed consent. A signed form may have evidentiary importance without proving comprehension or voluntariness, and a bad outcome does not by itself prove negligence. Emergencies, impaired capacity, minors, surrogate decisions, disclosure preferences, and procedure-specific standards require qualified clinical and legal interpretation.
+The sources provide public explanation, not jurisdiction-specific legal advice, hospital policy, or a complete doctrine of informed consent. The statement that listed risks have occurred does not establish their frequency, materiality in every case, or the exact disclosure standard. A signed form may have evidentiary importance without proving comprehension or voluntariness, and a bad outcome does not by itself prove negligence. Emergencies, impaired capacity, minors, surrogate decisions, disclosure preferences, and procedure-specific standards require qualified clinical and legal interpretation.
 
 ## What Changed
-- Established a process-based distinction among risk disclosure, authorization, family preparation, documentation, and continuing accountability.
-- Made explicit that neither a signature nor an adverse outcome alone settles professional liability.
+- Extended the process model from surgery into anesthesia-specific risk communication.
+- Connected disclosure to advance prevention and rescue planning rather than treating the form as the management of risk.
 
 ## Related Concepts
 - [[DoctorPatientCommunication]] - broader exchange that makes consent intelligible and usable.
@@ -45,3 +50,4 @@ The source provides public explanation, not jurisdiction-specific legal advice, 
 - [[FamilyCenteredCancerDecisionCommunication]] - family-participation layer surrounding high-risk oncology choices.
 - [[PerioperativeAnesthesiaSafety]] - adjacent perioperative domain requiring assessment, disclosure, and preparation.
 - [[ClinicalOutcomeUncertainty]] - distinction between procedural decisions and uncertain whole-patient outcomes.
+- [[PreoperativeAnesthesiaAssessment]] - clinical assessment and preparation that accompany anesthesia consent.

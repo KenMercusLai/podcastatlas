@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.07麻醉科｜麻醉药物会使脑子变笨么｜乳腺手术是否需全麻？](sources/vol-07-mazuike-mazui-yaowu-hui-shi-naozi-bian-ben-me-ruxian-shoushu-shifou-xu-quanma-lkf-9yhb2yphhalturxi5h89ya45.md) — 这病说来话长 episode on preoperative assessment, anesthesia-mode selection, cognition and dosing myths, informed consent, and aspiration-prevention fasting.
 - [Brazil rut: Lula v Bolsonaro, again](sources/brazil-rut-lula-v-bolsonaro-again-6abb8653ed4e198024b38eb5.md) — The Intelligence episode on Brazil's polarized election and fiscal constraints, honor culture and women's work, and the rise of phone-free concerts.
 - [289: Drink — Britain’s Empire of Booze](sources/289-drink-glt6408276244.md) — The Rest Is History episode with Henry Jeffreys on how British technology, trade, policy, taste, and branding shaped champagne, claret, port, sherry, Marsala, and blended Scotch.
 - [How to Become Resilient, Forge Your Identity & Lead Others | Jocko Willink](sources/how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim5755591173.md) — Full Huberman Lab conversation on discipline, energy, intent-led command, detachment, morale, role fit, grief, identity, and bounded resilience practice.
@@ -17189,6 +17190,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Preoperative Anesthesia Assessment / 术前麻醉评估](concepts/PreoperativeAnesthesiaAssessment.md) — Preoperative anesthesia safety gate covering anesthesia clinics, patient disclosure, medication handling, airway and aspiration risk, monitoring preparation, infection testing, blood pressure, and fasting.
 - [Perioperative Anesthesia Safety / 麻醉围手术期安全](concepts/PerioperativeAnesthesiaSafety.md) — Anesthesia safety frame treating preoperative assessment, intraoperative maintenance, patient history, and recovery criteria as one perioperative risk-management system.
 - [Anesthesia Drug Myth Boundary / 麻醉药物误解边界](concepts/AnesthesiaDrugMythBoundary.md) — Boundary separating anesthesia drug myths about truth serum, fixed dosing, alcohol, dreams, and allergy from source-scoped clinical reality.
+- [Anesthesia Modality Selection / 麻醉方式选择](concepts/AnesthesiaModalitySelection.md) — Procedure- and patient-specific choice among local infiltration, peripheral nerve block, neuraxial anesthesia, sedation, and general anesthesia.
 - [Operating Room Physiology Management / 手术室生理管理](concepts/OperatingRoomPhysiologyManagement.md) — Intraoperative anesthesia frame for temperature, hypothermia prevention, pulse oximetry, BIS, airway/reflex signals, transfusion/circulation support, and multi-signal clinical judgment.
 - [Post-Anesthesia Recovery Safety / 麻醉术后苏醒与反应边界](concepts/PostAnesthesiaRecoverySafety.md) — Postoperative anesthesia boundary around awakening, breathing, muscle and airway reflexes, delirium, nausea, positioning, and endoscopy aftercare.
 - [Passion Discovery Through Engagement](concepts/PassionDiscoveryThroughEngagement.md) — Career-development frame where direction emerges through structure, work, input, and noticing energy or resonance.

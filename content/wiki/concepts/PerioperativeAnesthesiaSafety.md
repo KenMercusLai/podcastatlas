@@ -11,6 +11,7 @@ sources:
   - lswakifoozu5vkckl5n-nzndj43e-lswakifoozu5vkckl5n-nzndj43e
   - vol-59-mazuike-jizhuwai-ke-shuzhong-zhixiao-guiyachuang-changjian-ma-yaoteng-shi-mazui-zaocheng-de-ma-chanfu-dou-shihe-wutong-fenmian-ma-lp7ibbaykdfkwlpwdj8zdwejodtr
   - vol-08-mazuike-kexingzou-de-mazuishu-wutong-fenmian-dui-haizi-jinhou-you-yingxiang-ma-lif37vkcu8a2gdmf3jraupbnvqpm
+  - vol-07-mazuike-mazui-yaowu-hui-shi-naozi-bian-ben-me-ruxian-shoushu-shifou-xu-quanma-lkf-9yhb2yphhalturxi5h89ya45
 last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
@@ -37,6 +38,8 @@ VOL.59 adds two decision-heavy branches. [[IntraoperativeAwarenessAndSedationDep
 
 VOL.08 supplies an earlier plain-language version of the same whole-course model. The anesthesiologist induces anesthesia, then continuously interprets blood pressure, heart rate, oxygenation, breathing, surgical stimulation, pain, and depth; coordinates rescue when instability occurs; and manages drug cessation, breathing recovery, extubation, and post-anesthesia assessment. It also places [[PerioperativePainControl]] and [[ObstetricAnesthesiaDecisionBoundary]] inside the safety system rather than treating comfort or labor analgesia as optional extras detached from monitoring.
 
+VOL.07 backfills the patient-facing entry to that system. Preoperative answers may change readiness, equipment, vascular access, airway planning, or timing; intraoperative work can include intubation, arterial or central venous access, nerve block, and neuraxial puncture; and the anesthesiologist may contribute airway expertise during hospital resuscitation. It also makes [[AnesthesiaModalitySelection]] part of safety: local, regional, neuraxial, sedated, and general approaches are chosen against the actual procedure and breathing implications rather than a simple body-part label.
+
 ## Key Claims
 - Anesthesia is a perioperative safety system that starts before the operation and continues through recovery; its preventive work may be least visible when no complication occurs.
 - [[PreoperativeAnesthesiaAssessment]] may justify delaying or changing a planned procedure when the patient's condition, medication, airway, infection, fasting, or monitoring context is unsafe.
@@ -44,7 +47,7 @@ VOL.08 supplies an earlier plain-language version of the same whole-course model
 - The anesthesiologist's collaboration with surgical or procedural teams includes depth and physiological management, monitoring, shared-airway response, obstetric contingency planning, recovery-readiness decisions, and—when rescue is required—coordination informed by a whole-patient physiological view while the procedural team addresses the operative problem.
 - Truthful patient history, including allergy, alcohol use, previous anesthesia reaction, chronic disease, stents, procedures, daily activity, snoring, and recent infection recovery, is part of anesthesia safety.
 - Recovery is judged through breathing, consciousness, muscle strength, cough, swallowing and pharyngeal reflexes, and overall stability.
-- Fasting, urinary-catheter decisions, airway control, blood preparation, transfusion decisions, pulse-oximetry reliability, privacy, explanation, and planned pain control show that routine details can become high-consequence intraoperative or postoperative safety issues.
+- Fasting, urinary-catheter decisions, airway control, blood preparation, transfusion decisions, pulse-oximetry reliability, privacy, explanation, planned pain control, and selection among local, regional, neuraxial, sedated, or general approaches show that routine details can become high-consequence perioperative safety issues.
 
 ## Evidence
 - Preoperative safety gate: [[vol-33-mazuike-ni-dui-mazui-kongju-ma-ni-haijide-xinglai-de-shunjian-ma-guanyu-shoushu-zhong-hou-mazui-de-wujie-he-jinji-fu-waike-yisheng-caifang-luyin-lj2x7wulcdfnv7bnh9dzowciwvrr|VOL.33]] says anesthesiologists evaluate cardiopulmonary function, anemia, blood glucose, basic disease, and unexpected neurological status, and may recommend pausing surgery; [[vol-32-mazuike-ni-zuoguo-shoushu-ma-ni-jingliguo-mazui-ma-guanyu-shoushu-qian-mazui-de-wujie-he-jinji-fu-huanzhe-caifang-luyin-ltfmx4d3ile0djxqlurikqueocxn|VOL.32]] makes the preoperative gate concrete through anesthesia clinic screening, post-COVID timing, blood pressure, medication handling, fasting, snoring, and infection testing.
@@ -60,13 +63,14 @@ VOL.08 supplies an earlier plain-language version of the same whole-course model
 
 - Awareness, aspiration, and obstetric planning: [[vol-59-mazuike-jizhuwai-ke-shuzhong-zhixiao-guiyachuang-changjian-ma-yaoteng-shi-mazui-zaocheng-de-ma-chanfu-dou-shihe-wutong-fenmian-ma-lp7ibbaykdfkwlpwdj8zdwejodtr|VOL.59]] connects hypnotic depth, neuromuscular blockade, cardiac surgery, difficult intubation, physiological instability, lung disease, body habitus, dental status, pregnancy, spine history, coagulation, fetal exposure, airway management, and aspiration risk inside one adjustable safety system.
 - Continuous maintenance and rescue: [[vol-08-mazuike-kexingzou-de-mazuishu-wutong-fenmian-dui-haizi-jinhou-you-yingxiang-ma-lif37vkcu8a2gdmf3jraupbnvqpm|VOL.08]] rejects the “single injection and leave” model by linking anesthetic depth and dose adjustment with blood pressure, heart rate, oxygenation, breathing, surgical stimulation, rescue coordination, emergence, extubation, and recovery-room assessment.
+- Patient-facing scope and modality: [[vol-07-mazuike-mazui-yaowu-hui-shi-naozi-bian-ben-me-ruxian-shoushu-shifou-xu-quanma-lkf-9yhb2yphhalturxi5h89ya45|VOL.07]] joins history and functional assessment to intravenous access, intubation, invasive lines, regional techniques, resuscitation support, and procedure-specific choice among anesthesia modes.
 
 ## Counterevidence & Qualifications
-This concept is public medical literacy, not surgical, obstetric, or endoscopy clearance or an anesthetic plan. Actual anesthesia choice, awareness prevention, fasting and bowel preparation, urinary catheterization, medication handling, infection testing, blood preparation, dosing, pain control, monitoring, airway management, neuraxial eligibility, procedure timing, privacy practice, discharge, postoperative instructions, sexual-function assessment, and emergency response depend on the patient, procedure, hospital, and anesthesiology team. The “anesthesiologist as rescue commander” analogy describes a coordination role, not a universal staffing or authority rule for every institution and emergency.
+This concept is public medical literacy, not surgical, obstetric, breast-surgery, or endoscopy clearance or an anesthetic plan. Actual anesthesia choice, awareness prevention, fasting and bowel preparation, urinary catheterization, medication handling, infection testing, blood preparation, vascular access, dosing, pain control, monitoring, airway management, neuraxial eligibility, procedure timing, privacy practice, discharge, postoperative instructions, sexual-function assessment, and emergency response depend on the patient, procedure, hospital, and anesthesiology team. The “anesthesiologist as rescue commander” analogy describes a coordination role, not a universal staffing or authority rule for every institution and emergency.
 
 ## What Changed
-- Made continuous intraoperative adjustment and rescue coordination explicit rather than leaving the anesthesiologist's role implicit between induction and recovery.
-- Integrated bounded patient-controlled analgesia and movement-preserving labor analgesia as monitored branches of the same safety system.
+- Added technique selection and escalation as safety decisions shaped by the operation, breathing effects, patient experience, and rescue needs.
+- Made vascular access, invasive monitoring, regional procedures, and hospital resuscitation support explicit parts of the anesthesiology scope described by the sources.
 
 ## Related Concepts
 - [[PreoperativeAnesthesiaAssessment]] - preoperative gate and preparation branch inside anesthesia safety.
@@ -83,3 +87,4 @@ This concept is public medical literacy, not surgical, obstetric, or endoscopy c
 - [[PerioperativePainControl]] - analgesia, patient report, timing, and agency branch inside perioperative safety.
 - [[IntraoperativeAwarenessAndSedationDepth]] - depth, paralysis, lighter-sedation, and awareness-prevention branch.
 - [[ObstetricAnesthesiaDecisionBoundary]] - labor and cesarean decision branch inside perioperative safety.
+- [[AnesthesiaModalitySelection]] - procedure-specific choice among local, regional, neuraxial, sedated, and general approaches.

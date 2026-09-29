@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 8832
+wiki_total_pages: 8833
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1922,6 +1922,9 @@ wiki_pages:
   - key: "AnesthesiaDrugMythBoundary"
     title: "Anesthesia Drug Myth Boundary / 麻醉药物误解边界"
     url: "/wiki/concepts/anesthesiadrugmythboundary/"
+  - key: "AnesthesiaModalitySelection"
+    title: "Anesthesia Modality Selection / 麻醉方式选择"
+    url: "/wiki/concepts/anesthesiamodalityselection/"
   - key: "AngelicIntelligence"
     title: "Angelic Intelligence"
     url: "/wiki/concepts/angelicintelligence/"
