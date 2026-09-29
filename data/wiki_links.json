@@ -947,6 +947,10 @@
     "title": "28.聊斋志异：不为君王唱赞歌，偏向苍生说鬼话",
     "url": "/wiki/sources/28-liaozhai-zhiyi-buwei-junwang-chang-zange-pianxiang-cangsheng-shuo-guihua-587843930/"
   },
+  "285-canada-beaver-wars-glt6084067740": {
+    "title": "285: Canada: Beaver Wars",
+    "url": "/wiki/sources/285-canada-beaver-wars-glt6084067740/"
+  },
   "286-england-beef-and-liberty-glt5964129806": {
     "title": "286: England: Beef and Liberty",
     "url": "/wiki/sources/286-england-beef-and-liberty-glt5964129806/"
@@ -9750,6 +9754,18 @@
   "BeautyRetailNetworkReallocation": {
     "title": "Beauty Retail Network Reallocation / 美妆零售网络再分配",
     "url": "/wiki/concepts/beautyretailnetworkreallocation/"
+  },
+  "BeaverFurTrade": {
+    "title": "Beaver Fur Trade",
+    "url": "/wiki/concepts/beaverfurtrade/"
+  },
+  "BeaverLandscapeEngineering": {
+    "title": "Beaver Landscape Engineering",
+    "url": "/wiki/concepts/beaverlandscapeengineering/"
+  },
+  "BeaverWars": {
+    "title": "Beaver Wars",
+    "url": "/wiki/entities/beaverwars/"
   },
   "BecauseSong": {
     "title": "\"Because\" / Beatles Song",
@@ -20006,6 +20022,10 @@
   "DavidStirling": {
     "title": "David Stirling",
     "url": "/wiki/entities/davidstirling/"
+  },
+  "DavidThompsonExplorer": {
+    "title": "David Thompson (explorer)",
+    "url": "/wiki/entities/davidthompsonexplorer/"
   },
   "DavidVases": {
     "title": "David Vases / 大维德瓶",
@@ -31255,6 +31275,10 @@
     "title": "Gresham's Law / 劣币驱逐良币",
     "url": "/wiki/concepts/greshamslaw/"
   },
+  "GreyOwl": {
+    "title": "Grey Owl",
+    "url": "/wiki/entities/greyowl/"
+  },
   "GreyWolfRock": {
     "title": "大灰狼罗克 / Grey Wolf Rock",
     "url": "/wiki/entities/greywolfrock/"
@@ -35162,6 +35186,10 @@
   "HudecShanghaiArchitect": {
     "title": "乌达克 / Hudec (Shanghai architect)",
     "url": "/wiki/entities/hudecshanghaiarchitect/"
+  },
+  "HudsonsBayCompany": {
+    "title": "Hudson's Bay Company",
+    "url": "/wiki/entities/hudsonsbaycompany/"
   },
   "HufuQishe": {
     "title": "胡服骑射 / Hu Fu Qi She",
@@ -39510,6 +39538,10 @@
   "JohnJacobAstor": {
     "title": "John Jacob Astor IV",
     "url": "/wiki/entities/johnjacobastor/"
+  },
+  "JohnJacobAstorFurTrader": {
+    "title": "John Jacob Astor (fur trader)",
+    "url": "/wiki/entities/johnjacobastorfurtrader/"
   },
   "JohnJumper": {
     "title": "John Jumper",

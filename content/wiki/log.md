@@ -25570,3 +25570,11 @@ Added source `vol-03-chuanranbing-banye-jiedao-kongairen-dianhua-haishi-women-du
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-30] ingest | 285: Canada: Beaver Wars
+
+Added source `285-canada-beaver-wars-glt6084067740`; created `BeaverWars`, `HudsonsBayCompany`, `GreyOwl`, `DavidThompsonExplorer`, `JohnJacobAstorFurTrader`, `BeaverLandscapeEngineering`, and `BeaverFurTrade`; expanded `SevenYearsWar` from its complete bounded source set; and updated the canonical index. Core synthesis: beavers were landscape-making animals before European hat demand turned their pelts into a currency-like Atlantic commodity, drawing traders and chartered companies inland, intensifying Indigenous and imperial competition, and producing ecological collapse; later conservation restored populations without erasing the trade's political effects or the ethical complications of Grey Owl's assumed identity. No settled contradiction was adopted. Population estimates, oral-memory interpretations, alliance compression, market figures, mapping claims, and recovery totals remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

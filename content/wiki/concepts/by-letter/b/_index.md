@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 8846
+wiki_total_pages: 8848
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -194,6 +194,12 @@ wiki_pages:
   - key: "BeautyRetailNetworkReallocation"
     title: "Beauty Retail Network Reallocation / 美妆零售网络再分配"
     url: "/wiki/concepts/beautyretailnetworkreallocation/"
+  - key: "BeaverFurTrade"
+    title: "Beaver Fur Trade"
+    url: "/wiki/concepts/beaverfurtrade/"
+  - key: "BeaverLandscapeEngineering"
+    title: "Beaver Landscape Engineering"
+    url: "/wiki/concepts/beaverlandscapeengineering/"
   - key: "BedBasedSleepSensing"
     title: "Bed-Based Sleep Sensing / 床面睡眠传感"
     url: "/wiki/concepts/bedbasedsleepsensing/"

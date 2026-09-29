@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 11424
+wiki_total_pages: 11429
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -299,6 +299,9 @@ wiki_pages:
   - key: "BeautyCam"
     title: "BeautyCam / 美颜相机"
     url: "/wiki/entities/beautycam/"
+  - key: "BeaverWars"
+    title: "Beaver Wars"
+    url: "/wiki/entities/beaverwars/"
   - key: "BeckWeathers"
     title: "Beck Weathers"
     url: "/wiki/entities/beckweathers/"

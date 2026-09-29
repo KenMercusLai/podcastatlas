@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 11424
+wiki_total_pages: 11429
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -818,6 +818,9 @@ wiki_pages:
   - key: "JohnIrwin"
     title: "John Irwin"
     url: "/wiki/entities/johnirwin/"
+  - key: "JohnJacobAstorFurTrader"
+    title: "John Jacob Astor (fur trader)"
+    url: "/wiki/entities/johnjacobastorfurtrader/"
   - key: "JohnJacobAstor"
     title: "John Jacob Astor IV"
     url: "/wiki/entities/johnjacobastor/"

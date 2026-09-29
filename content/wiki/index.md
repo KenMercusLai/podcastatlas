@@ -3238,8 +3238,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [292: The Shadow of the Holocaust](sources/292-the-shadow-of-the-holocaust-glt7756076339.md) — The Rest Is History episode on the Vrba-Wetzler Report, delayed institutional response, the halt of Budapest deportations, and Rudolf Vrba's non-consoling witness legacy.
 - [291: The Man Who Escaped Auschwitz](sources/291-the-man-who-escaped-auschwitz-glt6191002964.md) — The Rest Is History episode on Rudolf Vrba and Alfred Wetzler's escape, deception inside Auschwitz, and the evidentiary construction of their report.
 - [290: 2022: A History](sources/290-2022-a-history-glt4625765030.md) — The Rest Is History year-end episode on Ukraine as a post-Cold War rupture, European energy dependence, Elizabeth II's death, British political turmoil, and 2022 cultural recommendations.
+- [285: Canada: Beaver Wars](sources/285-canada-beaver-wars-glt6084067740.md) — The Rest Is History episode on beavers as landscape engineers and commodities connecting Indigenous use, colonial rivalry, fur-trade empire, ecological collapse, and conservation.
 
 ## Entities
+- [Beaver Wars](entities/BeaverWars.md) — Seventeenth-century conflict complex joining Indigenous strategy and rivalry to fur-trade competition and European colonial intervention.
+- [Hudson's Bay Company](entities/HudsonsBayCompany.md) — Chartered company connecting beaver commerce, Rupert's Land, mapping, and British imperial power.
+- [Grey Owl](entities/GreyOwl.md) — British-born former trapper and influential beaver conservation advocate whose assumed Indigenous identity complicates his legacy.
+- [David Thompson (explorer)](entities/DavidThompsonExplorer.md) — Fur-trade surveyor and cartographer connecting commercial routes, colonial mapping, and recognition of beaver landscape agency.
+- [John Jacob Astor (fur trader)](entities/JohnJacobAstorFurTrader.md) — Disambiguated fur magnate whose Canadian-Manhattan-European pelt trade generated exceptional private wealth.
 - [John Bull](entities/JohnBull.md) — Stout, beef- and beer-consuming personification that embodied a selective English ideal of plainness, liberty, and self-caricature.
 - [William Hogarth](entities/WilliamHogarth.md) — English satirist whose Calais and invasion images made roast-beef patriotism visually durable.
 - [Josephus](entities/Josephus.md) — Judean priest, revolt participant, and historian whose disputed and incidental references are central to reconstructing Jesus and John the Baptist.
@@ -14692,6 +14698,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Auschwitz-Birkenau](entities/AuschwitzBirkenau.md) — Nazi concentration and extermination complex examined through forced labor, confiscation, registration, deception, mass killing, and escapee evidence.
 
 ## Concepts
+- [Beaver Landscape Engineering](concepts/BeaverLandscapeEngineering.md) — Reshaping of rivers, wetlands, and habitats through beaver dams, flooding, and related ecosystem processes.
+- [Beaver Fur Trade](concepts/BeaverFurTrade.md) — Commodity system joining Indigenous exchange, Atlantic hat demand, chartered companies, empire, and ecological depletion.
 - [Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置](concepts/RabiesExposurePostExposureCare.md) — Time-sensitive route from animal exposure and wound context to qualified rabies prophylaxis assessment without overgeneralizing species risk.
 - [Infectious Disease Stigma and Privacy / 传染病污名与隐私](concepts/InfectiousDiseaseStigmaPrivacy.md) — Public-health boundary joining dignity, confidentiality, care access, partner responsibility, and route-specific prevention.
 - [Culinary Nationalism](concepts/CulinaryNationalism.md) — Process by which food, cooking, institutions, and performance become claims about national character and political order.

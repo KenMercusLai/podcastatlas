@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 11424
+wiki_total_pages: 11429
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -866,6 +866,9 @@ wiki_pages:
   - key: "HubertHumphrey"
     title: "Hubert Humphrey"
     url: "/wiki/entities/huberthumphrey/"
+  - key: "HudsonsBayCompany"
+    title: "Hudson's Bay Company"
+    url: "/wiki/entities/hudsonsbaycompany/"
   - key: "HuggingFace"
     title: "Hugging Face"
     url: "/wiki/entities/huggingface/"

@@ -18239,6 +18239,54 @@
       "updated": "2026-09-08",
       "url": "/wiki/concepts/beautyretailnetworkreallocation/"
     },
+    "BeaverFurTrade": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6084067740 [GLT6084067740].md",
+          "key": "285-canada-beaver-wars-glt6084067740",
+          "show": "The Rest Is History",
+          "title": "285: Canada: Beaver Wars",
+          "url": "/wiki/sources/285-canada-beaver-wars-glt6084067740/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/beaverfurtrade/"
+    },
+    "BeaverLandscapeEngineering": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6084067740 [GLT6084067740].md",
+          "key": "285-canada-beaver-wars-glt6084067740",
+          "show": "The Rest Is History",
+          "title": "285: Canada: Beaver Wars",
+          "url": "/wiki/sources/285-canada-beaver-wars-glt6084067740/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/beaverlandscapeengineering/"
+    },
+    "BeaverWars": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6084067740 [GLT6084067740].md",
+          "key": "285-canada-beaver-wars-glt6084067740",
+          "show": "The Rest Is History",
+          "title": "285: Canada: Beaver Wars",
+          "url": "/wiki/sources/285-canada-beaver-wars-glt6084067740/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/beaverwars/"
+    },
     "BecauseSong": {
       "episode_count": 1,
       "show_count": 1,
@@ -41875,6 +41923,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/davidstirling/"
+    },
+    "DavidThompsonExplorer": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6084067740 [GLT6084067740].md",
+          "key": "285-canada-beaver-wars-glt6084067740",
+          "show": "The Rest Is History",
+          "title": "285: Canada: Beaver Wars",
+          "url": "/wiki/sources/285-canada-beaver-wars-glt6084067740/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/davidthompsonexplorer/"
     },
     "DavidYeager": {
       "episode_count": 3,
@@ -72596,6 +72660,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/gregoryxi/"
     },
+    "GreyOwl": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6084067740 [GLT6084067740].md",
+          "key": "285-canada-beaver-wars-glt6084067740",
+          "show": "The Rest Is History",
+          "title": "285: Canada: Beaver Wars",
+          "url": "/wiki/sources/285-canada-beaver-wars-glt6084067740/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/greyowl/"
+    },
     "GreyfriarsBobby": {
       "episode_count": 1,
       "show_count": 1,
@@ -83425,6 +83505,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/hudecshanghaiarchitect/"
+    },
+    "HudsonsBayCompany": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6084067740 [GLT6084067740].md",
+          "key": "285-canada-beaver-wars-glt6084067740",
+          "show": "The Rest Is History",
+          "title": "285: Canada: Beaver Wars",
+          "url": "/wiki/sources/285-canada-beaver-wars-glt6084067740/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/hudsonsbaycompany/"
     },
     "HughParsons": {
       "episode_count": 1,
@@ -94752,6 +94848,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/entities/johnjacobastor/"
+    },
+    "JohnJacobAstorFurTrader": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6084067740 [GLT6084067740].md",
+          "key": "285-canada-beaver-wars-glt6084067740",
+          "show": "The Rest Is History",
+          "title": "285: Canada: Beaver Wars",
+          "url": "/wiki/sources/285-canada-beaver-wars-glt6084067740/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/johnjacobastorfurtrader/"
     },
     "JohnJumper": {
       "episode_count": 2,
@@ -153578,9 +153690,9 @@
       "url": "/wiki/entities/sevenlearnings/"
     },
     "SevenYearsWar": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3042850673 [GLT3042850673].md",
@@ -153588,9 +153700,16 @@
           "show": "The Rest Is History",
           "title": "347: The American Revolution (Part 1)",
           "url": "/wiki/sources/347-the-american-revolution-part-1-glt3042850673/"
+        },
+        {
+          "episode_file": "GLT6084067740 [GLT6084067740].md",
+          "key": "285-canada-beaver-wars-glt6084067740",
+          "show": "The Rest Is History",
+          "title": "285: Canada: Beaver Wars",
+          "url": "/wiki/sources/285-canada-beaver-wars-glt6084067740/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-09-30",
       "url": "/wiki/entities/sevenyearswar/"
     },
     "SeventhGeneration": {
