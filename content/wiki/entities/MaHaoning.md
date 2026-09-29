@@ -12,6 +12,7 @@ sources:
   - vol-59-mazuike-jizhuwai-ke-shuzhong-zhixiao-guiyachuang-changjian-ma-yaoteng-shi-mazui-zaocheng-de-ma-chanfu-dou-shihe-wutong-fenmian-ma-lp7ibbaykdfkwlpwdj8zdwejodtr
   - vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms
   - vol-13-jizhuwaike-dangdai-nianqingren-de-yaojianpan-weihe-ruci-tuchu-weihe-mingxing-de-le-qiangzhixing-jizhuyan-bingqing-dou-bu-zhong-lj3jo6rju4zbrlp3_qres3tdxjsa
+  - vol-12-jizhuwaike-jizhu-wenti-wuqu-pailei-touyun-ying-xian-gua-erbihou-he-shennei-gaozhen-wuyou-shize-you-yinhuan-lp_jgmo3rovwxsq52re_c6mp_pa6
 last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
@@ -40,6 +41,8 @@ VOL.58 adds an earlier listener-Q&A expression of the same spine-care philosophy
 
 VOL.13 adds his distinction between inflammatory disease control and mechanical correction. He presents [[AnkylosingSpondylitis|强直性脊柱炎]] as an immune-mediated rheumatic disease requiring medical management before severe deformity develops, with surgery reserved for selected structural or neurological consequences. In the same episode, he separates persistent disc morphology from clinical recovery and compares conservative care, minimally invasive removal, fusion, recurrence, and long-term movement management without making one procedure the default.
 
+VOL.12 adds an earlier differential-diagnosis and product-boundary expression of the same approach. Ma routes dizziness toward otolaryngology and neurology before an uncommon cervical attribution, separates osteophytes from symptomatic nerve compression, and matches neck, arm, leg, gait, motor, and bowel or bladder findings to different levels of concern. He treats pillow height, mattress support, and massage as comfort or positioning questions, while active capacity and indication-led procedure choice remain upstream of marketing labels.
+
 ## Key Characteristics
 - Explains spine anatomy through models and simple body analogies.
 - Distinguishes radiology-report wording from clinical severity and treatment urgency.
@@ -66,13 +69,15 @@ VOL.13 adds his distinction between inflammatory disease control and mechanical 
 - Listener-Q&A synthesis: [[vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms|VOL.58]] links desk-work prevention, imaging interpretation, surgery thresholds, daily movement substitution, and active rehabilitation while keeping congenital, inflammatory, and listener-specific questions source-scoped.
 - Inflammatory-disease boundary: [[vol-13-jizhuwaike-dangdai-nianqingren-de-yaojianpan-weihe-ruci-tuchu-weihe-mingxing-de-le-qiangzhixing-jizhuyan-bingqing-dou-bu-zhong-lj3jo6rju4zbrlp3_qres3tdxjsa|VOL.13]] distinguishes medical control of ankylosing spondylitis from later surgery for selected deformity or neurological consequences.
 - Disc-treatment tradeoffs: [[vol-13-jizhuwaike-dangdai-nianqingren-de-yaojianpan-weihe-ruci-tuchu-weihe-mingxing-de-le-qiangzhixing-jizhuyan-bingqing-dou-bu-zhong-lj3jo6rju4zbrlp3_qres3tdxjsa|VOL.13]] separates imaging persistence from symptom recovery and contrasts conservative care, minimally invasive removal, fusion, recurrence, and movement management.
+- Differential routing and adjunct boundaries: [[vol-12-jizhuwaike-jizhu-wenti-wuqu-pailei-touyun-ying-xian-gua-erbihou-he-shennei-gaozhen-wuyou-shize-you-yinhuan-lp_jgmo3rovwxsq52re_c6mp_pa6|VOL.12]] routes dizziness away from automatic cervical attribution, interprets osteophytes through symptoms and nerve involvement, and places pillows, mattresses, massage, and procedure labels behind comfort, function, active capacity, and indication.
 
 ## Qualifications
-The wiki has no independent biographical evidence for Ma Haoning beyond these podcast notes. His professional identity, career-choice recollection, examples, posture mechanics, cervical-curvature and whiplash claims, exercise selection, ride and headrest cautions, product cautions, neuraxial-placement explanation, and treatment framing should remain tied to the sources until additional material is ingested. VOL.59's pressure-related disc-worsening claim is preserved as theoretical rather than a universal contraindication. VOL.58's compressed inheritance, ankylosing-spondylitis, congenital-variation, surgery, and exercise statements are public education rather than complete genetic or clinical guidance. VOL.13's age pattern, test suggestions, “controllable” framing, operation comparisons, motion estimate, recurrence claims, and exercise risks likewise do not define diagnosis, prognosis, or individual treatment.
+The wiki has no independent biographical evidence for Ma Haoning beyond these podcast notes. His professional identity, career-choice recollection, examples, posture mechanics, cervical-curvature and whiplash claims, exercise selection, ride and headrest cautions, product cautions, neuraxial-placement explanation, and treatment framing should remain tied to the sources until additional material is ingested. VOL.59's pressure-related disc-worsening claim is preserved as theoretical rather than a universal contraindication. VOL.58's compressed inheritance, ankylosing-spondylitis, congenital-variation, surgery, and exercise statements are public education rather than complete genetic or clinical guidance. VOL.13's age pattern, test suggestions, “controllable” framing, operation comparisons, motion estimate, recurrence claims, and exercise risks likewise do not define diagnosis, prognosis, or individual treatment. VOL.12's “99%” estimate, age-linked degeneration, dizziness attribution, invasive diagnostic discussion, product fitting, and operative comparisons remain source-scoped January 2023 teaching.
 
 ## What Changed
-- Added the earlier distinction between immune-disease control and surgery for selected structural consequences of ankylosing spondylitis.
-- Expanded his disc-care profile with imaging-versus-clinical recovery, minimally invasive versus fusion tradeoffs, and recurrence management.
+- Added his differential-first routing of dizziness before an uncommon cervical attribution.
+- Extended his symptom-driven profile to osteophytes, gait and limb findings, bowel or bladder red flags, and indication-led procedure selection.
+- Added the earlier comfort-versus-capacity boundary for pillows, mattresses, and massage.
 
 ## Relationships
 - [[ChinaJapanFriendshipHospital]] - hospital affiliation named for Ma in VOL.58.
@@ -93,3 +98,4 @@ The wiki has no independent biographical evidence for Ma Haoning beyond these po
 - [[ExerciseLoadManagement]] - capacity and progression frame behind his sport-safety advice.
 - [[AcuteSportsInjuryEscalation]] - response-side boundary adjacent to his prevention guidance.
 - [[ObstetricAnesthesiaDecisionBoundary]] - obstetric and neuraxial context where his spine-anatomy explanation contributes.
+- [[DizzinessDiagnosticRouting]] - differential-first routing principle he explains in VOL.12.

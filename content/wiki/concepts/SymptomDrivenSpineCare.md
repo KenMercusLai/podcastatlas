@@ -7,6 +7,7 @@ sources:
   - build-a-strong-pain-proof-back-dr-stuart-mcgill-scim9911539455
   - vol-123-yisheng-wo-zhe-bozi-teng-he-yaoteng-haiyou-jiu-ma-lpqft6dbvu0yyo90rc0c-1wyrgy2
   - vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms
+  - vol-12-jizhuwaike-jizhu-wenti-wuqu-pailei-touyun-ying-xian-gua-erbihou-he-shennei-gaozhen-wuyou-shize-you-yinhuan-lp_jgmo3rovwxsq52re_c6mp_pa6
 last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
@@ -27,8 +28,10 @@ VOL.123 extends the same boundary from lumbar-disc morphology to cervical curvat
 
 VOL.58 adds a quality-of-life distinction to that hierarchy. Emergency or time-sensitive review is driven by uncontrolled pain, neurological loss, and cauda-equina-type change, while recurrent but recoverable sciatica can remain an elective decision shaped by how much repeated disability the person is willing to accept. This preserves a place for patient preference without letting preference replace neurological risk assessment.
 
+VOL.12 adds symptom routing before spine attribution. Dizziness should first be assessed through more common otolaryngologic and neurological pathways rather than inferred from coexisting cervical imaging, while neck or back pain, radiating limb symptoms, motor loss, unstable walking, and bowel or bladder change occupy different urgency levels. It also reinforces that osteophytes and a “minimally invasive” label do not determine treatment without nerve involvement, function, anatomy, and indication.
+
 ## Key Claims
-- Imaging report language is an input to care, not a complete severity score or treatment order.
+- Imaging report language and coexisting degeneration are inputs to care, not proof of symptom cause, a complete severity score, or a treatment order.
 - Pain behavior, functional loss, neurological signs, and bowel or bladder changes determine urgency more directly than morphology alone.
 - Reproducible triggers and relief from movement modification can help identify a mechanical pathway.
 - Lower pain does not prove recovery when weakness or foot-lift difficulty appears.
@@ -43,12 +46,14 @@ VOL.58 adds a quality-of-life distinction to that hierarchy. Emergency or time-s
 - Pain-complexity boundary: [[build-a-strong-pain-proof-back-dr-stuart-mcgill-scim9911539455]] describes sensitization and trauma-linked pain patterns that may require gentle pain-free exposure rather than a straightforward tissue diagnosis.
 - Cervical and adjunct boundary: [[vol-123-yisheng-wo-zhe-bozi-teng-he-yaoteng-haiyou-jiu-ma-lpqft6dbvu0yyo90rc0c-1wyrgy2]] separates curvature and degeneration labels from symptom severity and distinguishes short-term comfort from long-term capacity or surgical indication.
 - Urgency and preference: [[vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms|VOL.58]] separates urgent neurological or uncontrollable-pain criteria from elective decisions about recurrent disability and quality of life.
+- Symptom routing and operative indication: [[vol-12-jizhuwaike-jizhu-wenti-wuqu-pailei-touyun-ying-xian-gua-erbihou-he-shennei-gaozhen-wuyou-shize-you-yinhuan-lp_jgmo3rovwxsq52re_c6mp_pa6|VOL.12]] rejects automatic cervical attribution for dizziness, distinguishes asymptomatic osteophytes from nerve-related findings, and makes minimally invasive versus open surgery an indication question rather than a label hierarchy.
 
 ## Counterevidence & Qualifications
-Neither source supplies a complete diagnostic algorithm. Provocative testing can inform a qualified assessment but should not be treated as proof that unreproduced pain is nonphysical or safe to ignore. Severe or worsening pain, trauma, fever or systemic illness, progressive weakness, saddle sensory change, or bowel and bladder dysfunction requires appropriate clinical evaluation.
+The sources do not supply a complete diagnostic algorithm. Provocative testing can inform a qualified assessment but should not be treated as proof that unreproduced pain is nonphysical or safe to ignore. Dizziness, palpitations, headache, gait change, numbness, or weakness also have non-spinal differentials. Severe or worsening pain, trauma, fever or systemic illness, progressive weakness, saddle sensory change, or bowel and bladder dysfunction requires appropriate clinical evaluation.
 
 ## What Changed
-- Added patient preference and recurrent quality-of-life burden to elective care decisions without weakening neurological escalation thresholds.
+- Added a differential-first boundary for dizziness and other symptoms that can be incorrectly assigned to cervical imaging.
+- Extended the imaging-versus-symptom rule to osteophytes and the procedure-selection rule to minimally invasive versus open surgery.
 
 ## Related Concepts
 - [[LumbarDiscHerniation]] - condition where structure, symptoms, and function must be interpreted together.
@@ -59,3 +64,4 @@ Neither source supplies a complete diagnostic algorithm. Provocative testing can
 - [[DoctorPatientCommunication]] - channel for reporting symptom duration, function, triggers, and treatment response.
 - [[CervicalCurvePostureManagement]] - cervical application of the structure-symptom-function boundary.
 - [[SpineComfortAdjunctBoundary]] - separates symptom relief from diagnosis and structural correction.
+- [[DizzinessDiagnosticRouting]] - applies the same causal caution before assigning dizziness to the cervical spine.

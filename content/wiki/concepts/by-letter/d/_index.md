@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 8804
+wiki_total_pages: 8805
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -896,6 +896,9 @@ wiki_pages:
   - key: "DivinePerspectiveAesthetics"
     title: "Divine Perspective Aesthetics"
     url: "/wiki/concepts/divineperspectiveaesthetics/"
+  - key: "DizzinessDiagnosticRouting"
+    title: "Dizziness Diagnostic Routing / 头晕鉴别与就诊分流"
+    url: "/wiki/concepts/dizzinessdiagnosticrouting/"
   - key: "DoTooMuchFounderPhilosophy"
     title: "Do Too Much Founder Philosophy"
     url: "/wiki/concepts/dotoomuchfounderphilosophy/"

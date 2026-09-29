@@ -8,6 +8,7 @@ sources:
   - build-a-strong-pain-proof-back-dr-stuart-mcgill-scim9911539455
   - vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms
   - vol-13-jizhuwaike-dangdai-nianqingren-de-yaojianpan-weihe-ruci-tuchu-weihe-mingxing-de-le-qiangzhixing-jizhuyan-bingqing-dou-bu-zhong-lj3jo6rju4zbrlp3_qres3tdxjsa
+  - vol-12-jizhuwaike-jizhu-wenti-wuqu-pailei-touyun-ying-xian-gua-erbihou-he-shennei-gaozhen-wuyou-shize-you-yinhuan-lp_jgmo3rovwxsq52re_c6mp_pa6
 last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
@@ -28,6 +29,8 @@ VOL.58 adds sleep and ordinary-action examples. A tolerable sleep position shoul
 
 VOL.13 adds novice strength training and postoperative recurrence context. Squats, deadlifts, and heavy object pickup are treated as load-allocation tasks: technique, current capacity, supervision, and hip-and-knee contribution matter more than the exercise name alone. Neutral control reduces one avoidable exposure but cannot guarantee that a disc will not herniate or recur.
 
+VOL.12 extends neutral positioning into sleep and comfort-product decisions. Pillows and mattresses are fitted to body position, support, and tolerability rather than maximum height or hardness. This does not turn sleep setup into treatment: repeated movement, active capacity, symptom response, and clinical review still govern the wider spine-care plan.
+
 ## Key Claims
 - Repeated slumped flexion, uncontrolled extension, or rotation can increase lumbar stress in susceptible contexts.
 - Hip and knee motion can reduce unnecessary waist-dominant movement during lifting and daily tasks.
@@ -44,12 +47,13 @@ VOL.13 adds novice strength training and postoperative recurrence context. Squat
 - Anatomy and range: [[build-a-strong-pain-proof-back-dr-stuart-mcgill-scim9911539455]] recommends assessing hip structure and modifying bar height, range, or exercise when pulling from the floor is a poor fit.
 - Sleep and daily substitution: [[vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms|VOL.58]] applies neutral positioning to sleep comfort, object pickup, and replacing pain-provoking waist flexion with hip and knee movement.
 - Novice lifting and recurrence context: [[vol-13-jizhuwaike-dangdai-nianqingren-de-yaojianpan-weihe-ruci-tuchu-weihe-mingxing-de-le-qiangzhixing-jizhuyan-bingqing-dou-bu-zhong-lj3jo6rju4zbrlp3_qres3tdxjsa|VOL.13]] applies spinal control, hip-and-knee contribution, capacity matching, and supervision to lifting, squats, deadlifts, and post-treatment risk reduction.
+- Sleep and support context: [[vol-12-jizhuwaike-jizhu-wenti-wuqu-pailei-touyun-ying-xian-gua-erbihou-he-shennei-gaozhen-wuyou-shize-you-yinhuan-lp_jgmo3rovwxsq52re_c6mp_pa6|VOL.12]] applies neutral alignment to pillow height and mattress support while rejecting maximum height, hardness, or branded material as a universal answer.
 
 ## Counterevidence & Qualifications
-The sources do not claim that one posture cures disc disease or prevents every injury. Natural spinal motion remains necessary, and the useful range varies by anatomy, task, symptoms, and training state. Sustained standing is not automatically the answer to sustained sitting, and neurological or worsening symptoms require clinical review.
+The sources do not claim that one posture, pillow, or mattress cures disc disease or prevents every injury. Natural spinal motion remains necessary, and the useful range varies by anatomy, task, sleep position, symptoms, and training state. VOL.12's pillow measurements are source-scoped heuristics rather than validated universal fitting rules. Sustained standing is not automatically the answer to sustained sitting, and neurological or worsening symptoms require clinical review.
 
 ## What Changed
-- Added novice strength-training and postoperative-recurrence contexts while preserving neutral position as a conditional control strategy rather than a guarantee.
+- Added sleep-position, pillow-height, and mattress-support applications while preserving neutral position as a conditional comfort and control strategy rather than treatment.
 
 ## Related Concepts
 - [[LumbarDiscHerniation]] - condition whose symptom management may use controlled lumbar loading.

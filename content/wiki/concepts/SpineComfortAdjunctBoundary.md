@@ -5,6 +5,7 @@ tags: [healthcare, spine, symptom-relief, rehabilitation, medical-literacy]
 sources:
   - vol-123-yisheng-wo-zhe-bozi-teng-he-yaoteng-haiyou-jiu-ma-lpqft6dbvu0yyo90rc0c-1wyrgy2
   - vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms
+  - vol-12-jizhuwaike-jizhu-wenti-wuqu-pailei-touyun-ying-xian-gua-erbihou-he-shennei-gaozhen-wuyou-shize-you-yinhuan-lp_jgmo3rovwxsq52re_c6mp_pa6
 last_updated: 2026-09-28
 knowledge_schema: synthesis-v1
 ---
@@ -21,6 +22,8 @@ The appropriate boundary depends on context and timing. Gentle comfort measures 
 
 VOL.58 expands the adjunct set to lumbar cushions, seat pads, mattresses, foot supports, acupuncture, traction, hanging, and temporary braces. The shared test is functional and contextual: an aid may be reasonable when it supports a comfortable position or reduces symptoms, but recurrent pain, immediate return of symptoms, or neurological change indicates that the aid is not a complete treatment.
 
+VOL.12 provides an earlier fitting-and-feedback version of the same boundary. Pillow height should reflect sleeping position, body dimensions, neutral alignment, and comfort rather than a high pillow or branded material; mattresses should balance support with tolerability rather than default to a hard board. Massage may fit muscular fatigue when it helps, but worsening pain or numbness is a stop signal, and active movement remains the longer-term capacity strategy.
+
 ## Key Claims
 - Comfort and short-term symptom relief can be legitimate outcomes without proving structural correction.
 - Pillow height and positioning matter more clinically than marketing around a particular pillow material.
@@ -28,6 +31,7 @@ VOL.58 expands the adjunct set to lumbar cushions, seat pads, mattresses, foot s
 - Deep disc material cannot ordinarily be palpated or manually pushed back from the body surface.
 - Acute disabling pain or neurological change is a poor context for aggressive massage or self-treatment.
 - A comfort product's safety depends on setting; home and vehicle use are not interchangeable.
+- Symptom worsening during or after an adjunct is a reason to stop and reassess rather than proof that more force is needed.
 
 ## Evidence
 - Sleep and heat: [[vol-123-yisheng-wo-zhe-bozi-teng-he-yaoteng-haiyou-jiu-ma-lpqft6dbvu0yyo90rc0c-1wyrgy2]] prioritizes pillow height and tolerable comfort while presenting warmth as symptom support rather than a cure.
@@ -35,12 +39,14 @@ VOL.58 expands the adjunct set to lumbar cushions, seat pads, mattresses, foot s
 - Timing boundary: [[vol-123-yisheng-wo-zhe-bozi-teng-he-yaoteng-haiyou-jiu-ma-lpqft6dbvu0yyo90rc0c-1wyrgy2]] separates short relaxation from acute severe pain, where massage may worsen the situation.
 - Environment boundary: [[vol-123-yisheng-wo-zhe-bozi-teng-he-yaoteng-haiyou-jiu-ma-lpqft6dbvu0yyo90rc0c-1wyrgy2]] warns that an added neck cushion in a vehicle may alter force during sudden braking or collision.
 - Expanded adjunct boundary: [[vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms|VOL.58]] treats cushions, mattresses, acupuncture, traction, hanging, and braces as symptom- and context-dependent aids rather than replacements for diagnosis or active rehabilitation.
+- Fitting and feedback: [[vol-12-jizhuwaike-jizhu-wenti-wuqu-pailei-touyun-ying-xian-gua-erbihou-he-shennei-gaozhen-wuyou-shize-you-yinhuan-lp_jgmo3rovwxsq52re_c6mp_pa6|VOL.12]] fits pillows and mattresses to neutral positioning, support, and comfort, and treats worsening pain or numbness after massage as a reason to stop.
 
 ## Counterevidence & Qualifications
-The source does not compare products or treatments in controlled trials, establish universal pillow measurements, or settle the effectiveness of massage, heat, acupuncture, or manual therapy for particular diagnoses. Feeling better is useful feedback but is not sufficient evidence of safety when severe or progressive symptoms are present. Product design, vehicle geometry, diagnosis, skin sensation, temperature, force, and professional qualification can all change the risk.
+The sources do not compare products or treatments in controlled trials, establish universal pillow measurements, or settle the effectiveness of massage, heat, acupuncture, or manual therapy for particular diagnoses. Feeling better is useful feedback but is not sufficient evidence of safety when severe or progressive symptoms are present. Product design, vehicle geometry, diagnosis, skin sensation, temperature, force, and professional qualification can all change the risk. VOL.12's wall-distance and shoulder-width pillow heuristics remain source-scoped fitting suggestions rather than validated prescriptions.
 
 ## What Changed
-- Extended the same relief-versus-recovery boundary to cushions, mattresses, acupuncture, traction, hanging, and temporary braces.
+- Added individualized pillow-height and mattress-support fitting without endorsing a material or hard-board rule.
+- Added worsening pain or numbness after massage as a stop-and-reassess signal.
 
 ## Related Concepts
 - [[CervicalCurvePostureManagement]] - posture and muscular-capacity frame that comfort aids may support but cannot replace.

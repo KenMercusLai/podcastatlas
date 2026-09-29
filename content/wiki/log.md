@@ -25371,3 +25371,11 @@ Added source `293-lady-jane-grey-the-nine-days-queen-part-1-glt2281550812`; crea
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | VOL.12脊柱外科｜脊柱问题误区排雷｜头晕应先挂耳鼻喉和神内｜高枕无忧实则有隐患
+
+Added source `vol-12-jizhuwaike-jizhu-wenti-wuqu-pailei-touyun-ying-xian-gua-erbihou-he-shennei-gaozhen-wuyou-shize-you-yinhuan-lp_jgmo3rovwxsq52re_c6mp_pa6`; created `DizzinessDiagnosticRouting`; expanded `MaHaoning`, `SymptomDrivenSpineCare`, `CervicalCurvePostureManagement`, `SpineComfortAdjunctBoundary`, `LumbarDiscHerniation`, and `LumbarNeutralPosition` from their complete bounded source sets; and updated the canonical index. Core synthesis: dizziness should not be inferred from cervical symptoms or imaging before more common otolaryngologic and neurological causes are assessed; degenerative findings and procedure labels remain subordinate to symptoms, function, neurological risk, and indication; and pillows, mattresses, or massage can support comfort without replacing active capacity or qualified care. No settled contradiction was adopted. The “99%” estimate, age-linked degeneration, invasive diagnostic discussion, pillow heuristics, and operative comparisons remain source-scoped January 2023 public education. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

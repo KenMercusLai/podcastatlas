@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.12脊柱外科｜脊柱问题误区排雷｜头晕应先挂耳鼻喉和神内｜高枕无忧实则有隐患](sources/vol-12-jizhuwaike-jizhu-wenti-wuqu-pailei-touyun-ying-xian-gua-erbihou-he-shennei-gaozhen-wuyou-shize-you-yinhuan-lp_jgmo3rovwxsq52re_c6mp_pa6.md) — 这病说来话长 episode with 马浩宁 on dizziness routing, cervical and lumbar symptom interpretation, imaging limits, comfort aids, neurological red flags, and indication-led surgery.
 - [Developing a Rational Approach to Supplementation for Health & Performance](sources/developing-a-rational-approach-to-supplementation-for-health-performance-scim5857890354.md) — Huberman Lab solo episode on foundations-first supplement decisions, single-variable testing, label uncertainty, sleep aids, hormone-active products, cognition tools, and clinical boundaries.
 - [How to Access Your Creativity | Rick Rubin](sources/how-to-access-your-creativity-rick-rubin-scim6664103159.md) — Full Huberman Lab conversation on felt creative judgment, constraints, receptive attention, phase-specific deadlines, completion, feedback boundaries, and meditation.
 - [GUEST SERIES | Dr. Andy Galpin: How to Assess & Improve All Aspects of Your Fitness](sources/guest-series-dr-andy-galpin-how-to-assess-improve-all-aspects-of-your-fitness-scim9072919255.md) — Huberman Lab guest-series opener on nine trainable adaptations, cross-domain fitness gaps, practical self-testing, and weak-link prioritization.
@@ -14635,6 +14636,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Frances Grey](entities/FrancesGrey.md) — Jane Grey's mother and closer hereditary claimant whose omission from Edward VI's device remains unresolved.
 
 ## Concepts
+- [Dizziness Diagnostic Routing / 头晕鉴别与就诊分流](concepts/DizzinessDiagnosticRouting.md) — Differential-first framework for routing dizziness before attributing it to cervical imaging or neck symptoms.
 - [Ankylosing Spondylitis / 强直性脊柱炎](concepts/AnkylosingSpondylitis.md) — Immune-mediated rheumatic disease framed through early recognition, medical inflammation control, access burdens, and surgery limited to selected structural consequences.
 - [Emergency-Department Acuity Triage / 急诊病情分级](concepts/EmergencyDepartmentAcuityTriage.md) — Severity- and time-sensitivity-based emergency ordering, trained prioritization, routing, explanation, and reassessment rather than first-come service.
 - [ICU Family Participation Boundary / ICU家属参与边界](concepts/ICUFamilyParticipationBoundary.md) — Constructive family history, contact, and advocacy separated from unsafe unsupervised equipment changes.

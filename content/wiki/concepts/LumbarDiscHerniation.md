@@ -8,6 +8,7 @@ sources:
   - protocols-to-strengthen-pain-proof-your-back-scim8264963647
   - vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms
   - vol-13-jizhuwaike-dangdai-nianqingren-de-yaojianpan-weihe-ruci-tuchu-weihe-mingxing-de-le-qiangzhixing-jizhuyan-bingqing-dou-bu-zhong-lj3jo6rju4zbrlp3_qres3tdxjsa
+  - vol-12-jizhuwaike-jizhu-wenti-wuqu-pailei-touyun-ying-xian-gua-erbihou-he-shennei-gaozhen-wuyou-shize-you-yinhuan-lp_jgmo3rovwxsq52re_c6mp_pa6
 last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
@@ -28,6 +29,8 @@ VOL.58 reinforces the clinical threshold with listener cases. Bulging and protru
 
 VOL.13 adds an earlier account of treatment architecture. Persistent morphology does not prevent clinical recovery when symptoms resolve, and a first non-disabling episode may be managed conservatively. When surgery is considered, minimally invasive removal and open fusion exchange tissue preservation and motion against stability and recurrence in different ways; postoperative movement and exposure management remain relevant whichever route is chosen.
 
+VOL.12 adds an earlier urgency ladder. Asymptomatic findings or improving pain can remain conservative-care questions, while pain that cannot be controlled, foot-lift weakness or impaired walking, and bowel or bladder dysfunction move surgical assessment from elective quality-of-life discussion toward time-sensitive or emergency care. It also distinguishes a small incision from genuinely lower internal tissue disruption and makes minimally invasive versus open surgery dependent on indication.
+
 ## Key Claims
 - Disc labels describe morphology, not a complete severity score.
 - Mechanical compression and inflammatory reaction can both produce pain or nerve symptoms.
@@ -46,14 +49,14 @@ VOL.13 adds an earlier account of treatment architecture. Persistent morphology 
 - Surgical and recurrence boundary: [[vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms|VOL.58]] distinguishes report wording from symptoms and places uncontrolled pain, neurological deficit, bowel or bladder dysfunction, and recurrent quality-of-life burden inside different levels of surgical consideration.
 - Clinical-versus-radiographic recovery: [[vol-13-jizhuwaike-dangdai-nianqingren-de-yaojianpan-weihe-ruci-tuchu-weihe-mingxing-de-le-qiangzhixing-jizhuyan-bingqing-dou-bu-zhong-lj3jo6rju4zbrlp3_qres3tdxjsa|VOL.13]] says symptoms can improve even when the structural image does not reverse.
 - Procedure tradeoffs and recurrence: [[vol-13-jizhuwaike-dangdai-nianqingren-de-yaojianpan-weihe-ruci-tuchu-weihe-mingxing-de-le-qiangzhixing-jizhuyan-bingqing-dou-bu-zhong-lj3jo6rju4zbrlp3_qres3tdxjsa|VOL.13]] contrasts conservative care, selective minimally invasive removal, fusion, same-level recurrence, adjacent-level problems, and continued lifestyle management.
+- Urgency and access-route boundary: [[vol-12-jizhuwaike-jizhu-wenti-wuqu-pailei-touyun-ying-xian-gua-erbihou-he-shennei-gaozhen-wuyou-shize-you-yinhuan-lp_jgmo3rovwxsq52re_c6mp_pa6|VOL.12]] separates improving or tolerable symptoms from motor and bowel or bladder red flags and says incision size alone does not establish a superior operation.
 
 ## Counterevidence & Qualifications
-These podcast explanations are not clinical guidelines and do not establish that deadlifts, squats, sitting, bending, or any single exposure inevitably causes herniation. The McGill source's tissue model and PRP judgment remain source-scoped, as does Huberman's rapid response to extension. VOL.13's morphology, calcification, procedure, recurrence, and segmental-motion claims are explanatory rather than comparative evidence. A clinician should interpret imaging alongside symptoms and examination, especially when weakness or bowel and bladder changes appear.
+These podcast explanations are not clinical guidelines and do not establish that deadlifts, squats, sitting, bending, or any single exposure inevitably causes herniation. The McGill source's tissue model and PRP judgment remain source-scoped, as does Huberman's rapid response to extension. VOL.13's morphology, calcification, procedure, recurrence, and segmental-motion claims and VOL.12's “99%” nonsurgical estimate and recovery-window language are explanatory rather than comparative evidence. A clinician should interpret imaging alongside symptoms and examination, especially when weakness or bowel and bladder changes appear.
 
 ## What Changed
-- Added the distinction between persistent radiographic morphology and clinical symptom recovery.
-- Added minimally invasive removal versus fusion as a tradeoff among tissue preservation, stability, motion, and recurrence.
-- Reinforced that surgery begins rather than ends long-term exposure and movement management.
+- Added an earlier urgency ladder from asymptomatic or improving findings through uncontrolled pain, motor loss, and bowel or bladder dysfunction.
+- Clarified that minimally invasive selection depends on indication and internal tissue impact, not incision size alone.
 
 ## Related Concepts
 - [[SymptomDrivenSpineCare]] - keeps imaging subordinate to symptoms, function, and risk.
