@@ -24887,6 +24887,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-30] ingest | VOL.06麻醉科｜可以选择手术麻醉医生么｜和手臂一样长的针头是真的么？
+
+Added source `vol-06-mazuike-keyi-xuanze-shoushu-mazui-yisheng-me-he-shoubi-yiyang-chang-de-zhentou-shi-zhen-de-me-ll7tqta4renix5vmcvrspd069z8o`; created `AnesthesiologyClinicalRoleAndTeamEscalation`; and expanded `PreoperativeAnesthesiaAssessment` and `AnesthesiaModalitySelection` from their complete bounded source sets. Core synthesis: anesthesiologists provide whole-course physiological management through a layered operating-room team; preoperative clinics screen general-anesthesia and labor-analgesia suitability; and needle or equipment choice follows anatomy, access depth, body size, procedure, and technique. No settled contradiction was adopted. Workforce shortage, training routes, staffing ratios, patient choice, needle length, and individual anesthesia decisions remain source-scoped institutional or clinical descriptions rather than universal standards or individualized medical guidance.
+
 ## [2026-09-29] ingest | VOL.07麻醉科｜麻醉药物会使脑子变笨么｜乳腺手术是否需全麻？
 
 Added source `vol-07-mazuike-mazui-yaowu-hui-shi-naozi-bian-ben-me-ruxian-shoushu-shifou-xu-quanma-lkf-9yhb2yphhalturxi5h89ya45`; created `AnesthesiaModalitySelection`; and updated `PerioperativeAnesthesiaSafety`, `PreoperativeAnesthesiaAssessment`, `AnesthesiaDrugMythBoundary`, `SurgicalInformedConsentResponsibility`, and the canonical index from their complete bounded source sets. Core synthesis: anesthesiology is whole-course risk management; technique choice depends on procedure coverage, breathing effects, and patient context; truthful history and fasting protect readiness and the airway; and consent communicates uncertainty without predicting harm or waiving responsibility. No settled contradiction was adopted. Pediatric neurodevelopment, age cutoffs, alcohol effects, dosing, fasting intervals, anesthesia-mode eligibility, breast-surgery technique, and invasive monitoring remain source-scoped public education. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -25504,5 +25508,9 @@ Ran lint. See lint-report.md for details.
 Ran lint. See lint-report.md for details.
 
 ## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

@@ -20,8 +20,11 @@ sources: [vol-73-jingshenke-shaonian-ertong-de-xinli-jiankang-guanhu-women-shehu
   vol-27-fuchanke-guanyu-shenglitong-hpv-biyun-huaiyun-women-yao-zhidao-de-zhexie-wuqu-he-zhishidian-lsdiuqrn72kocqbldexyzqglbwq6
   vol-10-zhongyi-shaoshangxue-fangxue-zhende-neng-zhi-sangzi-tong-me-daodi-gai-bu-gai-duandiao-hanxing-de-niunai-ljojejbtrsnpuu1aa-10klw6reds
   504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih
-last_updated: 2026-09-29
+  vol-06-mazuike-keyi-xuanze-shoushu-mazui-yisheng-me-he-shoubi-yiyang-chang-de-zhentou-shi-zhen-de-me-ll7tqta4renix5vmcvrspd069z8o
+last_updated: 2026-09-30
 ---
+
+The latest addition is [[vol-06-mazuike-keyi-xuanze-shoushu-mazui-yisheng-me-he-shoubi-yiyang-chang-de-zhentou-shi-zhen-de-me-ll7tqta4renix5vmcvrspd069z8o|VOL.06麻醉科｜可以选择手术麻醉医生么｜和手臂一样长的针头是真的么？]], an early [[ZheBingShuoLaiHuaChang|这病说来话长]] episode that adds [[AnesthesiologyClinicalRoleAndTeamEscalation]] and extends [[PreoperativeAnesthesiaAssessment]] and [[AnesthesiaModalitySelection]]. Its core synthesis is that anesthesiologists are physicians responsible for whole-course physiological management, supported by room-based continuity and senior escalation; anesthesia clinics screen procedure and patient suitability; and needle or equipment choice follows anatomy, access depth, body size, and technique rather than spectacle. No settled contradiction is adopted. Workforce shortage, training routes, room coverage, direct clinician choice, needle length, and technique examples remain source-scoped institutional or clinical descriptions rather than universal standards or individualized medical guidance.
 
 The latest addition is [[a-science-supported-journaling-protocol-to-improve-mental-physical-health-scim8054388666|A Science-Supported Journaling Protocol to Improve Mental & Physical Health]], a solo [[HubermanLab]] episode in which [[AndrewHuberman]] presents [[JamesPennebaker]]'s [[ExpressiveWritingProtocol]]. It adds a bounded four-session practice—15–30 minutes of private continuous writing about one difficult event, combining facts, feelings, and associations—while extending [[TraumaNarrativeIntegration]] with explicit recovery, sleep-timing, and professional-care safeguards. No settled contradiction is recorded. Reported mental, physical, and immune outcomes and proposed coherence, prefrontal, autonomic, and neuroplasticity mechanisms remain source-scoped because the supplied note does not expose the underlying studies in enough detail to establish universal effect sizes or clinical indications.
 

@@ -10814,9 +10814,9 @@
       "url": "/wiki/concepts/anesthesiadrugmythboundary/"
     },
     "AnesthesiaModalitySelection": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lkf-9YHb2YphhaLTURxI5H89yA45 [lkf-9YHb2YphhaLTURxI5H89yA45].md",
@@ -10824,10 +10824,33 @@
           "show": "这病说来话长",
           "title": "VOL.07麻醉科｜麻醉药物会使脑子变笨么｜乳腺手术是否需全麻？",
           "url": "/wiki/sources/vol-07-mazuike-mazui-yaowu-hui-shi-naozi-bian-ben-me-ruxian-shoushu-shifou-xu-quanma-lkf-9yhb2yphhalturxi5h89ya45/"
+        },
+        {
+          "episode_file": "ll7TqtA4ReNix5vMCvrspD069z8O [ll7TqtA4ReNix5vMCvrspD069z8O].md",
+          "key": "vol-06-mazuike-keyi-xuanze-shoushu-mazui-yisheng-me-he-shoubi-yiyang-chang-de-zhentou-shi-zhen-de-me-ll7tqta4renix5vmcvrspd069z8o",
+          "show": "这病说来话长",
+          "title": "VOL.06麻醉科｜可以选择手术麻醉医生么｜和手臂一样长的针头是真的么？",
+          "url": "/wiki/sources/vol-06-mazuike-keyi-xuanze-shoushu-mazui-yisheng-me-he-shoubi-yiyang-chang-de-zhentou-shi-zhen-de-me-ll7tqta4renix5vmcvrspd069z8o/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-09-30",
       "url": "/wiki/concepts/anesthesiamodalityselection/"
+    },
+    "AnesthesiologyClinicalRoleAndTeamEscalation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ll7TqtA4ReNix5vMCvrspD069z8O [ll7TqtA4ReNix5vMCvrspD069z8O].md",
+          "key": "vol-06-mazuike-keyi-xuanze-shoushu-mazui-yisheng-me-he-shoubi-yiyang-chang-de-zhentou-shi-zhen-de-me-ll7tqta4renix5vmcvrspd069z8o",
+          "show": "这病说来话长",
+          "title": "VOL.06麻醉科｜可以选择手术麻醉医生么｜和手臂一样长的针头是真的么？",
+          "url": "/wiki/sources/vol-06-mazuike-keyi-xuanze-shoushu-mazui-yisheng-me-he-shoubi-yiyang-chang-de-zhentou-shi-zhen-de-me-ll7tqta4renix5vmcvrspd069z8o/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/anesthesiologyclinicalroleandteamescalation/"
     },
     "AngelOakSmokehouse": {
       "episode_count": 1,
@@ -137752,9 +137775,9 @@
       "url": "/wiki/concepts/prenuptialagreementasrelationshipdesign/"
     },
     "PreoperativeAnesthesiaAssessment": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "ltFMX4d3ilE0DjXQLuRikqueocXn [ltFMX4d3ilE0DjXQLuRikqueocXn].md",
@@ -137776,9 +137799,16 @@
           "show": "这病说来话长",
           "title": "VOL.07麻醉科｜麻醉药物会使脑子变笨么｜乳腺手术是否需全麻？",
           "url": "/wiki/sources/vol-07-mazuike-mazui-yaowu-hui-shi-naozi-bian-ben-me-ruxian-shoushu-shifou-xu-quanma-lkf-9yhb2yphhalturxi5h89ya45/"
+        },
+        {
+          "episode_file": "ll7TqtA4ReNix5vMCvrspD069z8O [ll7TqtA4ReNix5vMCvrspD069z8O].md",
+          "key": "vol-06-mazuike-keyi-xuanze-shoushu-mazui-yisheng-me-he-shoubi-yiyang-chang-de-zhentou-shi-zhen-de-me-ll7tqta4renix5vmcvrspd069z8o",
+          "show": "这病说来话长",
+          "title": "VOL.06麻醉科｜可以选择手术麻醉医生么｜和手臂一样长的针头是真的么？",
+          "url": "/wiki/sources/vol-06-mazuike-keyi-xuanze-shoushu-mazui-yisheng-me-he-shoubi-yiyang-chang-de-zhentou-shi-zhen-de-me-ll7tqta4renix5vmcvrspd069z8o/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-09-30",
       "url": "/wiki/concepts/preoperativeanesthesiaassessment/"
     },
     "PresbyopiaCorrectionFitting": {

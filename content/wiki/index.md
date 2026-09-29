@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.06麻醉科｜可以选择手术麻醉医生么｜和手臂一样长的针头是真的么？](sources/vol-06-mazuike-keyi-xuanze-shoushu-mazui-yisheng-me-he-shoubi-yiyang-chang-de-zhentou-shi-zhen-de-me-ll7tqta4renix5vmcvrspd069z8o.md) — 这病说来话长 episode on anesthesiologists' clinical role, layered operating-room coverage, preoperative screening, patient allocation, training, and anatomy-matched needle choice.
 - [VOL.07麻醉科｜麻醉药物会使脑子变笨么｜乳腺手术是否需全麻？](sources/vol-07-mazuike-mazui-yaowu-hui-shi-naozi-bian-ben-me-ruxian-shoushu-shifou-xu-quanma-lkf-9yhb2yphhalturxi5h89ya45.md) — 这病说来话长 episode on preoperative assessment, anesthesia-mode selection, cognition and dosing myths, informed consent, and aspiration-prevention fasting.
 - [Brazil rut: Lula v Bolsonaro, again](sources/brazil-rut-lula-v-bolsonaro-again-6abb8653ed4e198024b38eb5.md) — The Intelligence episode on Brazil's polarized election and fiscal constraints, honor culture and women's work, and the rise of phone-free concerts.
 - [289: Drink — Britain’s Empire of Booze](sources/289-drink-glt6408276244.md) — The Rest Is History episode with Henry Jeffreys on how British technology, trade, policy, taste, and branding shaped champagne, claret, port, sherry, Marsala, and blended Scotch.
@@ -14678,6 +14679,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Auschwitz-Birkenau](entities/AuschwitzBirkenau.md) — Nazi concentration and extermination complex examined through forced labor, confiscation, registration, deception, mass killing, and escapee evidence.
 
 ## Concepts
+- [Anesthesiology Clinical Role and Team Escalation / 麻醉医生临床角色与团队升级](concepts/AnesthesiologyClinicalRoleAndTeamEscalation.md) — Whole-course physician responsibility, room continuity, senior coverage, rescue escalation, training breadth, and complexity-based allocation in anesthesia care.
 - [Brazil Fiscal-Political Stalemate](concepts/BrazilFiscalPoliticalStalemate.md) — Electoral and governing lock-in joining high debt costs, consumption-led spending, congressional power, and institutional checks.
 - [Honor Culture Female Mobility Constraint](concepts/HonorCultureFemaleMobilityConstraint.md) — Family-reputation norm that can make permission to leave home a prior barrier to women's employment.
 - [Paid Employment Household Bargaining Power](concepts/PaidEmploymentHouseholdBargainingPower.md) — Qualified link between women's earned income and influence over household budgets, social activity, and movement.

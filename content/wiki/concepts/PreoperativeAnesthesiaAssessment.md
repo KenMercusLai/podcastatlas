@@ -6,7 +6,8 @@ sources:
   - vol-32-mazuike-ni-zuoguo-shoushu-ma-ni-jingliguo-mazui-ma-guanyu-shoushu-qian-mazui-de-wujie-he-jinji-fu-huanzhe-caifang-luyin-ltfmx4d3ile0djxqlurikqueocxn
   - vol-131-yisheng-qing-huida-ni-ruguo-yinman-bingshi-yisheng-zhende-bu-zhidao-ma-lg-a6kjqu-s1lk8uu1fapb763xzq
   - vol-07-mazuike-mazui-yaowu-hui-shi-naozi-bian-ben-me-ruxian-shoushu-shifou-xu-quanma-lkf-9yhb2yphhalturxi5h89ya45
-last_updated: 2026-09-29
+  - vol-06-mazuike-keyi-xuanze-shoushu-mazui-yisheng-me-he-shoubi-yiyang-chang-de-zhentou-shi-zhen-de-me-ll7tqta4renix5vmcvrspd069z8o
+last_updated: 2026-09-30
 knowledge_schema: synthesis-v1
 ---
 
@@ -16,12 +17,12 @@ knowledge_schema: synthesis-v1
 Preoperative anesthesia assessment is the episode's frame for deciding whether anesthesia and surgery can proceed safely and what patient information, tests, monitoring preparation, medication handling, and fasting rules are needed before the procedure starts.
 
 ## Current Synthesis
-The VOL.32 anesthesia episode makes the preoperative visit a practical safety checkpoint rather than a formality. Anesthesia clinics are described as places where surgery, painless endoscopy, day surgery, painless abortion, and painless childbirth consultation can be screened for suitability, additional tests, risk explanation, and patient anxiety. VOL.131 reinforces that checkpoint from a cross-specialty perspective: accurate history, procedure-specific urinary-catheter decisions, and literal compliance with fasting instructions are safety inputs rather than negotiable hospital rituals.
+The VOL.32 anesthesia episode makes the preoperative visit a practical safety checkpoint rather than a formality. Anesthesia clinics are described as places where surgery, painless endoscopy, day surgery, painless abortion, and painless childbirth consultation can be screened for suitability, additional tests, risk explanation, and patient anxiety. VOL.06 independently places general-anesthesia and labor-analgesia suitability in this clinic, making spine anatomy and coagulation relevant when a neuraxial technique is contemplated. VOL.131 reinforces the checkpoint from a cross-specialty perspective: accurate history, procedure-specific urinary-catheter decisions, and literal compliance with fasting instructions are safety inputs rather than negotiable hospital rituals.
 
 The concept's core is information and physiology preparation. Teeth, dentures, nail polish, infection tests, blood-pressure and blood-glucose control, anticoagulants, diabetes medicine, chronic disease, previous stents, prior procedures, daily activity level, allergy history, snoring, smoking and alcohol history, post-COVID recovery, fasting status, and the planned operation all change what anesthesia teams need to anticipate. VOL.07 makes functional questions concrete through housework and stair-climbing capacity and shows why concealment or unexpectedly severe hypertension can delay elective surgery. The sources treat these details as risk controls that help protect airway, breathing, circulation, monitoring reliability, bladder management, staff safety, and postoperative recovery.
 
 ## Key Claims
-- Preoperative anesthesia assessment is a safety gate for procedure suitability, additional testing, anxiety reduction, and timing decisions.
+- Preoperative anesthesia assessment is a safety gate for procedure and technique suitability, additional testing, anxiety reduction, and timing decisions; neuraxial planning can add anatomy and coagulation questions.
 - Patient disclosure matters because chronic disease, medication, allergy history, prior anesthesia reactions, smoking, alcohol use, snoring, functional capacity, blood pressure, and blood glucose can change anesthesia risk and readiness.
 - Airway preparation begins before induction because loose teeth, dentures, snoring, and sleep-apnea-like breathing can become intubation or recovery hazards.
 - Monitoring preparation includes seemingly small details such as removing at least one obstructive nail decoration so pulse oximetry can measure blood oxygen reliably.
@@ -39,14 +40,14 @@ The concept's core is information and physiology preparation. Teeth, dentures, n
 - Team and procedure preparation: [[vol-32-mazuike-ni-zuoguo-shoushu-ma-ni-jingliguo-mazui-ma-guanyu-shoushu-qian-mazui-de-wujie-he-jinji-fu-huanzhe-caifang-luyin-ltfmx4d3ile0djxqlurikqueocxn|VOL.32]] describes infection tests, protective equipment, medical-waste handling, blood preparation, and joint surgeon-anesthesiologist transfusion decisions; [[vol-131-yisheng-qing-huida-ni-ruguo-yinman-bingshi-yisheng-zhende-bu-zhidao-ma-lg-a6kjqu-s1lk8uu1fapb763xzq|VOL.131]] adds that urinary-catheter need varies with anesthesia, duration, bleeding, fluid management, and procedure type.
 - Functional readiness and postponement: [[vol-07-mazuike-mazui-yaowu-hui-shi-naozi-bian-ben-me-ruxian-shoushu-shifou-xu-quanma-lkf-9yhb2yphhalturxi5h89ya45|VOL.07]] connects housework or stair-climbing capacity, cardiopulmonary and airway review, blood pressure, blood glucose, medication, smoking, alcohol, and snoring to readiness; concealed treatment or unexpectedly severe hypertension may require stabilization and reassessment before elective surgery.
 - Fasting mechanism and food categories: [[vol-07-mazuike-mazui-yaowu-hui-shi-naozi-bian-ben-me-ruxian-shoushu-shifou-xu-quanma-lkf-9yhb2yphhalturxi5h89ya45|VOL.07]] explains regurgitation, aspiration, airway blockage, acid injury, and aspiration pneumonia, while treating solids, milk-like liquids, and clear liquids differently without turning its intervals into a universal schedule.
+- General-anesthesia and labor-analgesia suitability: [[vol-06-mazuike-keyi-xuanze-shoushu-mazui-yisheng-me-he-shoubi-yiyang-chang-de-zhentou-shi-zhen-de-me-ll7tqta4renix5vmcvrspd069z8o|VOL.06]] places both questions in anesthesia clinics and names spine anatomy and coagulation as relevant inputs before neuraxial labor analgesia.
 
 ## Counterevidence & Qualifications
-This concept is public medical literacy, not a checklist for any individual surgery, sedated examination, childbirth plan, medication stop date, blood-pressure threshold, post-COVID delay, transfusion plan, urinary catheter, or fasting rule. Functional-capacity questions and food categories help explain clinical reasoning but do not set clearance standards or universal fasting intervals. The sources repeatedly leave final decisions to the treating clinicians, procedure type, urgency, hospital process, and patient condition.
+This concept is public medical literacy, not a checklist for any individual surgery, sedated examination, childbirth plan, medication stop date, blood-pressure threshold, post-COVID delay, transfusion plan, urinary catheter, puncture, or fasting rule. Functional-capacity, spine, coagulation, and food-category questions help explain clinical reasoning but do not set clearance standards, neuraxial eligibility, or universal fasting intervals. The sources repeatedly leave final decisions to the treating clinicians, procedure type, urgency, hospital process, and patient condition.
 
 ## What Changed
-- Added functional capacity, cardiopulmonary and airway review, blood pressure, blood glucose, smoking, alcohol, and snoring as linked readiness inputs.
-- Made postponement and reassessment explicit when concealed or uncontrolled disease creates an unsafe elective-surgery context.
-- Distinguished solid, milk-like, and clear-liquid preparation categories while retaining a clinician-specific fasting boundary.
+- Extended the anesthesia-clinic gate to explicit general-anesthesia and labor-analgesia suitability questions.
+- Added spine anatomy and coagulation as technique-specific inputs before neuraxial labor analgesia.
 
 ## Related Concepts
 - [[PerioperativeAnesthesiaSafety]] - parent anesthesia safety system that preoperative assessment feeds into.
@@ -57,3 +58,4 @@ This concept is public medical literacy, not a checklist for any individual surg
 - [[DoctorPatientCommunication]] - disclosure route for history, medications, allergies, symptoms, and procedural concerns.
 - [[MedicalRiskManagement]] - broader severity-aware clinical safety frame.
 - [[MultidisciplinaryHospitalCare]] - team-care context for surgeon, anesthesiologist, nursing, laboratory, and blood-bank coordination.
+- [[AnesthesiologyClinicalRoleAndTeamEscalation]] - clinician and staffing context that receives the assessment and carries it into procedural care.

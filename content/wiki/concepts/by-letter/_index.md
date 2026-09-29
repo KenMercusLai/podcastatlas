@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 8833
+wiki_total_pages: 8834
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1925,6 +1925,9 @@ wiki_pages:
   - key: "AnesthesiaModalitySelection"
     title: "Anesthesia Modality Selection / 麻醉方式选择"
     url: "/wiki/concepts/anesthesiamodalityselection/"
+  - key: "AnesthesiologyClinicalRoleAndTeamEscalation"
+    title: "Anesthesiology Clinical Role and Team Escalation / 麻醉医生临床角色与团队升级"
+    url: "/wiki/concepts/anesthesiologyclinicalroleandteamescalation/"
   - key: "AngelicIntelligence"
     title: "Angelic Intelligence"
     url: "/wiki/concepts/angelicintelligence/"
