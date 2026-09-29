@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 11372
+wiki_total_pages: 11377
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -773,6 +773,9 @@ wiki_pages:
   - key: "GregRosalsky"
     title: "Greg Rosalsky"
     url: "/wiki/entities/gregrosalsky/"
+  - key: "GregorStrasser"
+    title: "Gregor Strasser"
+    url: "/wiki/entities/gregorstrasser/"
   - key: "GregoryColeman"
     title: "Gregory Coleman"
     url: "/wiki/entities/gregorycoleman/"
@@ -878,6 +881,9 @@ wiki_pages:
   - key: "GurneySeymour"
     title: "Gurney Seymour / 高尔尼·西摩尔"
     url: "/wiki/entities/gurneyseymour/"
+  - key: "GustavStresemann"
+    title: "Gustav Stresemann"
+    url: "/wiki/entities/gustavstresemann/"
   - key: "GustaveLeBon"
     title: "Gustave Le Bon / 古斯塔夫·勒庞"
     url: "/wiki/entities/gustavelebon/"

@@ -25255,3 +25255,11 @@ Added source `297-the-nazis-hitlers-triumph-part-3-glt2055084600`; created `Hors
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-29] ingest | 296: The Nazis: The Beer Hall Putsch (Part 2)
+
+Added source `296-the-nazis-the-beer-hall-putsch-part-2-glt4099180386`; created `BeerHallPutsch`, `GustavStresemann`, `ErichLudendorff`, `MeinKampf`, and `GregorStrasser`; and updated `AdolfHitler`, `PaulVonHindenburg`, `FriedrichEbert`, `WeimarRepublic`, `LegalCoerciveDictatorshipConsolidation`, and the canonical index from their complete bounded source sets. Core synthesis: Weimar's defeat, hostile institutions, emergency authority, paramilitary violence, and hyperinflation created deep vulnerability without making collapse inevitable; Stresemann stabilized the 1923 crisis, while Hitler converted the failed putsch into trial publicity, prison-era ideological and leadership consolidation, and a strategic turn toward destroying democracy through democratic mechanisms. No settled contradiction was adopted. Inflation and decree figures, reported dialogue, private motives, social-group generalizations, trial details, and counterfactual claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

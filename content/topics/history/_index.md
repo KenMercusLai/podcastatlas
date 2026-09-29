@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2177
+topic_total_pages: 2178
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4716,6 +4716,9 @@ topic_sources:
   - key: "271-tangchao-douyao-bucunzai-le-weishenme-weishilun-hui-zai-jinnian-da-baofa-lg7-wdrdw1b9h7lwa4vwkvmyb4un"
     title: "271.唐朝都要不存在了？为什么伪史论会在今年大爆发？"
     url: "/wiki/sources/271-tangchao-douyao-bucunzai-le-weishenme-weishilun-hui-zai-jinnian-da-baofa-lg7-wdrdw1b9h7lwa4vwkvmyb4un/"
+  - key: "296-the-nazis-the-beer-hall-putsch-part-2-glt4099180386"
+    title: "296: The Nazis: The Beer Hall Putsch (Part 2)"
+    url: "/wiki/sources/296-the-nazis-the-beer-hall-putsch-part-2-glt4099180386/"
   - key: "297-the-nazis-hitlers-triumph-part-3-glt2055084600"
     title: "297: The Nazis: Hitler's Triumph (Part 3)"
     url: "/wiki/sources/297-the-nazis-hitlers-triumph-part-3-glt2055084600/"

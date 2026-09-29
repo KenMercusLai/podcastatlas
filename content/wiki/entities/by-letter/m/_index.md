@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 11372
+wiki_total_pages: 11377
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -803,6 +803,9 @@ wiki_pages:
   - key: "MehmetSimsek"
     title: "Mehmet Simsek"
     url: "/wiki/entities/mehmetsimsek/"
+  - key: "MeinKampf"
+    title: "Mein Kampf"
+    url: "/wiki/entities/meinkampf/"
   - key: "Meipai"
     title: "Meipai / 美拍"
     url: "/wiki/entities/meipai/"

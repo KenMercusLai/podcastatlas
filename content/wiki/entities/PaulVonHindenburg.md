@@ -6,6 +6,7 @@ sources:
   - 404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861584466
   - 298-the-nazis-total-power-part-4-glt6097237943
   - 297-the-nazis-hitlers-triumph-part-3-glt2055084600
+  - 296-the-nazis-the-beer-hall-putsch-part-2-glt4099180386
 last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
@@ -18,7 +19,9 @@ Paul von Hindenburg was the German president whose conservative authority sustai
 
 ## Current Profile
 
-The collapse episode first places Hindenburg above a sequence of presidential cabinets. He and his military-conservative circle treated the Müller coalition's fall as an opportunity to weaken parliamentary government, sustained [[HeinrichBruning]] through Article 48 decrees, removed him after Hitler's presidential challenge, and appointed [[FranzVonPapen]] and [[KurtVonSchleicher]] despite their lack of durable Reichstag support.
+The early episode places Hindenburg's 1925 election after [[FriedrichEbert]]'s death. The aging monarchist sought the exiled Kaiser's approval before running and entered the presidency surrounded by advisers hostile to democracy, putting an anti-Weimar figure at the center of the republic's constitutional order.
+
+The collapse episode then places Hindenburg above a sequence of presidential cabinets. He and his military-conservative circle treated the Müller coalition's fall as an opportunity to weaken parliamentary government, sustained [[HeinrichBruning]] through Article 48 decrees, removed him after Hitler's presidential challenge, and appointed [[FranzVonPapen]] and [[KurtVonSchleicher]] despite their lack of durable Reichstag support.
 
 Hindenburg refused Hitler's demand for the chancellorship in August 1932 and condemned his violent, intolerant movement. By January 1933, however, his circle accepted Papen's containment arrangement; Hindenburg appointed Hitler after private bargaining that included his son Oskar. His appearance during the 30 January torchlight procession and the Day of Potsdam ceremony then gave symbolic continuity and presidential respectability to Hitler's ascent.
 
@@ -30,7 +33,7 @@ After the [[NightOfTheLongKnives|Night of the Long Knives]], the army accepted H
 
 ## Key Characteristics
 
-- His presidential authority helped conservative elites make Hitler chancellor.
+- His monarchism, anti-Weimar advisory circle, and presidential authority made his accession a legitimacy problem and later helped conservative elites make Hitler chancellor.
 - He sustained successive governments through Article 48 after parliamentary majority rule broke down.
 - He initially refused Hitler the chancellorship before accepting a conservative containment bargain.
 - His public symbolism and emergency authority presented Nazi power as national continuity while enabling constitutional dismantling.
@@ -41,6 +44,7 @@ After the [[NightOfTheLongKnives|Night of the Long Knives]], the army accepted H
 ## Evidence
 
 - Symbolic legitimation: [[298-the-nazis-total-power-part-4-glt6097237943]] connects Hindenburg's window appearance and the Day of Potsdam to the staged respectability of Hitler's transfer of power.
+- Anti-Weimar accession: [[296-the-nazis-the-beer-hall-putsch-part-2-glt4099180386]] connects his 1925 election, monarchism, and advisers to the weakening of republican guardianship.
 - Presidential government: [[297-the-nazis-hitlers-triumph-part-3-glt2055084600]] connects Hindenburg to Brüning's decree rule and the Papen-Schleicher sequence.
 - Refusal and appointment: [[297-the-nazis-hitlers-triumph-part-3-glt2055084600]] contrasts his August 1932 rejection of Hitler with the January 1933 containment bargain and appointment.
 - Emergency authority: [[298-the-nazis-total-power-part-4-glt6097237943]] links his presidency to the Fire Decree and the transfer of practical emergency leverage toward Hitler's cabinet.
@@ -50,12 +54,12 @@ After the [[NightOfTheLongKnives|Night of the Long Knives]], the army accepted H
 
 ## Qualifications
 
-This three-episode profile is not a full account of Hindenburg's presidency or responsibility for Hitler's appointment. Formal presidential authority did not mean he controlled how the Nazis used emergency power, but attempted containment does not remove responsibility for normalizing decree government, appointment, symbolism, or decree. His capacity, private intentions, his son's influence, the exact form of the June 1934 threat, and the degree of control during consolidation remain episode-attributed.
+This four-episode profile is not a full account of Hindenburg's presidency or responsibility for Hitler's appointment. Formal presidential authority did not mean he controlled how the Nazis used emergency power, but attempted containment does not remove responsibility for normalizing decree government, appointment, symbolism, or decree. His consultation with the Kaiser, capacity, private intentions, his son's influence, the exact form of the June 1934 threat, and the degree of control during consolidation remain episode-attributed.
 
 ## What Changed
 
-- Added the pre-appointment sequence of decree government, chancellor replacement, initial refusal, and final containment bargain.
-- Distinguished Hindenburg's August 1932 rejection of Hitler from his January 1933 appointment decision.
+- Extended the profile back to his monarchist 1925 accession and anti-Weimar advisory setting.
+- Connected that legitimacy problem to the later presidential-cabinet sequence without making dictatorship inevitable.
 
 ## Relationships
 
@@ -69,3 +73,5 @@ This three-episode profile is not a full account of Hindenburg's presidency or r
 - [[HeinrichBruning]] - chancellor sustained through presidential decree government.
 - [[KurtVonSchleicher]] - military political operator and final chancellor before Hitler.
 - [[WeimarRepublic]] - constitutional order weakened under the presidential-cabinet sequence.
+- [[FriedrichEbert]] - predecessor whose death opened the presidential election Hindenburg won.
+- [[ErichLudendorff]] - fellow wartime nationalist whose presidential candidacy remained marginal.

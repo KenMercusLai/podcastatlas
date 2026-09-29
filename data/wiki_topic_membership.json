@@ -1477,6 +1477,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "296-the-nazis-the-beer-hall-putsch-part-2-glt4099180386": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "297-the-nazis-hitlers-triumph-part-3-glt2055084600": [
     {
       "key": "history",
@@ -35476,6 +35483,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "GustavStresemann": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "GustaveLeBon": [
     {
       "key": "science",
@@ -50369,6 +50383,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "MeinKampf": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "Meitu": [

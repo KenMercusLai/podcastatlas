@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [296: The Nazis: The Beer Hall Putsch (Part 2)](sources/296-the-nazis-the-beer-hall-putsch-part-2-glt4099180386.md) — The Rest Is History episode on Weimar's fragile foundations, hyperinflation, the failed Munich coup, trial and prison, Mein Kampf, and Hitler's turn toward procedural subversion.
 - [297: The Nazis: Hitler's Triumph (Part 3)](sources/297-the-nazis-hitlers-triumph-part-3-glt2055084600.md) — The Rest Is History episode on Depression-era Nazi growth, emergency government, paramilitary politics, elite authoritarian projects, and the containment bargain that made Hitler chancellor.
 - [How to Optimize Fertility in Males & Females](sources/how-to-optimize-fertility-in-males-females-scim8187072933.md) — Huberman Lab solo episode on reproductive biology, fertile-window timing, ovarian and semen testing, lifestyle exposures, supplements, and clinician-directed fertility care.
 - [Daniel Ek: Life After Spotify, Broken Healthcare Incentives, Catching Disease Early & AI's Potential](sources/all-in-with-chamath-jason-sacks-friedberg-daniel-ek-life-after-spotify-broken-healthcare-incentives-catching-di.md) — All-In interview on Spotify's origin, Neko Health's longitudinal preventive-screening model, payer incentives, AI ecosystems, and compute governance.
@@ -3199,6 +3200,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe](sources/use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim4085406904.md) — Full Huberman Lab interview on sleep-stage function, slow-wave restoration, REM emotional-memory processing, locus-coeruleus regulation, nightmares, and opioid-withdrawal sleep disruption.
 
 ## Entities
+- [Beer Hall Putsch](entities/BeerHallPutsch.md) — Failed 1923 Munich coup whose trial, prison, and mythology redirected Hitler toward legal-electoral subversion.
+- [Gustav Stresemann](entities/GustavStresemann.md) — Weimar statesman associated with the Rentenmark, Ruhr de-escalation, and the republic's 1923 stabilization.
+- [Erich Ludendorff](entities/ErichLudendorff.md) — Wartime commander linking the stab-in-the-back myth, military prestige, and participation in the Beer Hall Putsch.
+- [Mein Kampf](entities/MeinKampf.md) — Prison-era Hitler text joining political self-narrative to antisemitism, eastern empire, and living-space ideology.
+- [Gregor Strasser](entities/GregorStrasser.md) — Nazi organizer connecting northern expansion and internal party difference to the failed 1932 split and 1934 purge.
 - [Daniel Ek](entities/DanielEk.md) — Spotify and Neko Health co-founder applying a Sweden-first, vertically integrated product-building pattern across music and healthcare.
 - [Neko Health](entities/NekoHealth.md) — Preventive-health company combining multimodal diagnostics, longitudinal comparison, AI triage, and clinician consultation.
 - [Hjalmar Nilsonne](entities/HjalmarNilsonne.md) — Neko Health co-founder and CEO credited with leading the company and shaping its core vision.
@@ -3521,7 +3527,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ernst Röhm](entities/ErnstRohm.md) — SA leader whose revolutionary and military ambitions made him the central target of the purge despite the false coup allegation.
 - [Sturmabteilung (SA)](entities/Sturmabteilung.md) — Nazi mass stormtrooper organization that recruited through belonging and violence, helped destroy opposition, and was subordinated after threatening the army bargain.
 - [Hermann Göring](entities/HermannGoring.md) — Nazi leader whose Prussian police power and direction of the Berlin operation made the purge institutionally executable.
-- [Paul von Hindenburg](entities/PaulVonHindenburg.md) — German president whose decree authority, appointment decision, demand for order, and death framed Hitler's rise and office merger.
+- [Paul von Hindenburg](entities/PaulVonHindenburg.md) — Monarchist president whose accession, decree authority, appointment decision, and death framed Weimar erosion and Hitler's consolidation.
 - [Franz von Papen](entities/FranzVonPapen.md) — Conservative chancellor whose Prussian coup and failed containment bargain enabled Hitler before purge violence silenced his circle.
 - [Heinrich Brüning](entities/HeinrichBruning.md) — Weimar chancellor whose deflation, emergency-decree government, and 1930 election gamble widened Nazi opportunity.
 - [Kurt von Schleicher](entities/KurtVonSchleicher.md) — Political general and chancellor whose army-centered authoritarian strategy failed to subordinate or split the Nazi movement.
@@ -3541,7 +3547,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kristallnacht / Night of Broken Glass](entities/Kristallnacht.md) — State-enabled November 1938 pogrom joining central direction, police nonprotection, local participation, mass arrest, and dispossession.
 - [Herschel Grünspan](entities/HerschelGrunspan.md) — Polish Jewish refugee whose shooting of Ernst vom Rath was appropriated as the pogrom's public pretext.
 - [Ernst vom Rath](entities/ErnstVomRath.md) — German diplomat whose death Nazi leaders converted into propaganda authorization for Kristallnacht.
-- [Adolf Hitler](entities/AdolfHitler.md) — Nazi dictator whose mass mobilization, elite-enabled appointment, coerced legality, racial ideology, territorial expansion, and violence produced dictatorship and war.
+- [Adolf Hitler](entities/AdolfHitler.md) — Nazi dictator who turned coup failure into procedural subversion, then joined mass mobilization, elite sponsorship, racial ideology, expansion, and violence.
 - [Joseph Goebbels](entities/JosephGoebbels.md) — Nazi propagandist who joined centralized film and radio distribution to racial-health morality, agitation, mobilization, and deniability.
 - [Nuremberg Laws](entities/NurembergLaws.md) — 1935 legal package that fused party-state symbolism with racial citizenship and intimate-life exclusion.
 - [Victor Klemperer](entities/VictorKlemperer.md) — German Jewish veteran and academic whose rootedness illustrates the emigration decisions created by uneven persecution.
@@ -5347,8 +5353,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [German National Anthem / Das Lied der Deutschen](entities/GermanNationalAnthem.md) — German anthem case where Haydn's tune and Hoffmann's song survive through a postwar third-verse convention.
 - [Josef Haydn](entities/JosefHaydn.md) — Austrian composer whose 1797 imperial tune became the German anthem melody.
 - [August Heinrich Hoffmann von Fallersleben](entities/AugustHeinrichHoffmannVonFallersleben.md) — Liberal nationalist lyricist of Das Lied der Deutschen.
-- [Weimar Republic](entities/WeimarRepublic.md) — Postwar German democracy whose symbolic unity project gave way to depression, emergency government, polarization, and elite-led institutional erosion.
-- [Friedrich Ebert](entities/FriedrichEbert.md) — Weimar president associated with adopting the German anthem and emphasizing the third verse.
+- [Weimar Republic](entities/WeimarRepublic.md) — Postwar German democracy burdened by defeat and hostile institutions, stabilized in 1923, then destroyed through crisis and institutional choice.
+- [Friedrich Ebert](entities/FriedrichEbert.md) — Early Weimar president linking the republic's emergency construction and Article 48 precedent to its democratic anthem project.
 - [West Germany](entities/WestGermany.md) — Postwar German state that restored Das Lied der Deutschen through third-verse convention.
 - [East Germany](entities/EastGermany.md) — Rival German state whose anthem Auferstanden aus Ruinen later conflicted with hardened division.
 - [Konrad Adenauer](entities/KonradAdenauer.md) — West German chancellor who pressed for restoring the old anthem.
@@ -14601,7 +14607,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Preconception Timing and Testing](concepts/PreconceptionTimingAndTesting.md) — Couple-based planning frame joining fertile-window timing with distinct ovarian, semen, history, exposure, medication, and age inputs.
 - [Healthcare Payer Horizon Mismatch](concepts/HealthcarePayerHorizonMismatch.md) — Incentive gap when today's prevention payer may not retain the member long enough to capture future benefits.
 - [Longitudinal Multimodal Screening](concepts/LongitudinalMultimodalScreening.md) — Repeat multi-signal screening model whose value depends on validation, clinician interpretation, and follow-up.
-- [Legal-Coercive Dictatorship Consolidation](concepts/LegalCoerciveDictatorshipConsolidation.md) — Mechanism joining pre-appointment institutional erosion, lawful appearance, crisis powers, organized violence, elite accommodation, and civic destruction.
+- [Legal-Coercive Dictatorship Consolidation](concepts/LegalCoerciveDictatorshipConsolidation.md) — Mechanism joining post-coup strategic adaptation, institutional erosion, lawful appearance, crisis powers, violence, elite accommodation, and civic destruction.
 - [Female Kingship Beyond Regency](concepts/FemaleKingshipBeyondRegency.md) — Transition from governing for a minor ruler to claiming the sovereign office and symbolic language of king.
 - [Pharaonic Kingship Legitimation](concepts/PharaonicKingshipLegitimation.md) — Cumulative use of dynasty, divinity, regalia, force, exchange, and monuments to make royal authority credible.
 - [Estrobolome and Estrogen Recirculation](concepts/EstrobolomeEstrogenRecirculation.md) — Gut-microbial estrogen metabolism frame that separates beta-glucuronidase-mediated recirculation from broad microbiome treatment claims.

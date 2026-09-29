@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2821
+topic_total_pages: 2822
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5471,6 +5471,9 @@ topic_entities:
   - key: "GulfCooperationCouncil"
     title: "Gulf Cooperation Council"
     url: "/wiki/entities/gulfcooperationcouncil/"
+  - key: "GustavStresemann"
+    title: "Gustav Stresemann"
+    url: "/wiki/entities/gustavstresemann/"
   - key: "GustavoPetro"
     title: "Gustavo Petro"
     url: "/wiki/entities/gustavopetro/"

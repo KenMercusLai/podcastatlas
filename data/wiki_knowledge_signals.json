@@ -5792,9 +5792,9 @@
       "url": "/wiki/entities/adolfeichmann/"
     },
     "AdolfHitler": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "GLT5771265943 [GLT5771265943].md",
@@ -5865,6 +5865,13 @@
           "show": "The Rest Is History",
           "title": "297: The Nazis: Hitler's Triumph (Part 3)",
           "url": "/wiki/sources/297-the-nazis-hitlers-triumph-part-3-glt2055084600/"
+        },
+        {
+          "episode_file": "GLT4099180386 [GLT4099180386].md",
+          "key": "296-the-nazis-the-beer-hall-putsch-part-2-glt4099180386",
+          "show": "The Rest Is History",
+          "title": "296: The Nazis: The Beer Hall Putsch (Part 2)",
+          "url": "/wiki/sources/296-the-nazis-the-beer-hall-putsch-part-2-glt4099180386/"
         }
       ],
       "updated": "2026-09-29",
@@ -17941,6 +17948,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/bedroomhomestayplatformtrust/"
+    },
+    "BeerHallPutsch": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4099180386 [GLT4099180386].md",
+          "key": "296-the-nazis-the-beer-hall-putsch-part-2-glt4099180386",
+          "show": "The Rest Is History",
+          "title": "296: The Nazis: The Beer Hall Putsch (Part 2)",
+          "url": "/wiki/sources/296-the-nazis-the-beer-hall-putsch-part-2-glt4099180386/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/beerhallputsch/"
     },
     "BehaviorChangeBabySteps": {
       "episode_count": 2,
@@ -54839,6 +54862,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/entities/erichjarvis/"
     },
+    "ErichLudendorff": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4099180386 [GLT4099180386].md",
+          "key": "296-the-nazis-the-beer-hall-putsch-part-2-glt4099180386",
+          "show": "The Rest Is History",
+          "title": "296: The Nazis: The Beer Hall Putsch (Part 2)",
+          "url": "/wiki/sources/296-the-nazis-the-beer-hall-putsch-part-2-glt4099180386/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/erichludendorff/"
+    },
     "ErnstJunger": {
       "episode_count": 1,
       "show_count": 1,
@@ -64180,9 +64219,9 @@
       "url": "/wiki/concepts/freshallergysafeproductionscaling/"
     },
     "FriedrichEbert": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6217148052 [GLT6217148052].md",
@@ -64190,6 +64229,13 @@
           "show": "The Rest Is History",
           "title": "679. Germany: The Song Hitler Stole (Part 3)",
           "url": "/wiki/sources/679-germany-the-song-hitler-stole-part-3-glt6217148052/"
+        },
+        {
+          "episode_file": "GLT4099180386 [GLT4099180386].md",
+          "key": "296-the-nazis-the-beer-hall-putsch-part-2-glt4099180386",
+          "show": "The Rest Is History",
+          "title": "296: The Nazis: The Beer Hall Putsch (Part 2)",
+          "url": "/wiki/sources/296-the-nazis-the-beer-hall-putsch-part-2-glt4099180386/"
         }
       ],
       "updated": "2026-09-02",
@@ -71331,6 +71377,36 @@
       "updated": "2026-09-26",
       "url": "/wiki/entities/greekwarofindependence/"
     },
+    "GregorStrasser": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "GLT3861584466 [GLT3861584466].md",
+          "key": "404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861584466",
+          "show": "The Rest Is History",
+          "title": "404. The Nazis in Power: The Night of the Long Knives (Part 1)",
+          "url": "/wiki/sources/404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861584466/"
+        },
+        {
+          "episode_file": "GLT2055084600 [GLT2055084600].md",
+          "key": "297-the-nazis-hitlers-triumph-part-3-glt2055084600",
+          "show": "The Rest Is History",
+          "title": "297: The Nazis: Hitler's Triumph (Part 3)",
+          "url": "/wiki/sources/297-the-nazis-hitlers-triumph-part-3-glt2055084600/"
+        },
+        {
+          "episode_file": "GLT4099180386 [GLT4099180386].md",
+          "key": "296-the-nazis-the-beer-hall-putsch-part-2-glt4099180386",
+          "show": "The Rest Is History",
+          "title": "296: The Nazis: The Beer Hall Putsch (Part 2)",
+          "url": "/wiki/sources/296-the-nazis-the-beer-hall-putsch-part-2-glt4099180386/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/gregorstrasser/"
+    },
     "GregorianReform": {
       "episode_count": 2,
       "show_count": 1,
@@ -72846,6 +72922,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/guoziyi/"
+    },
+    "GustavStresemann": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4099180386 [GLT4099180386].md",
+          "key": "296-the-nazis-the-beer-hall-putsch-part-2-glt4099180386",
+          "show": "The Rest Is History",
+          "title": "296: The Nazis: The Beer Hall Putsch (Part 2)",
+          "url": "/wiki/sources/296-the-nazis-the-beer-hall-putsch-part-2-glt4099180386/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/gustavstresemann/"
     },
     "GutSensoryNeuralSignaling": {
       "episode_count": 1,
@@ -98753,9 +98845,9 @@
       "url": "/wiki/concepts/legalagentorchestration/"
     },
     "LegalCoerciveDictatorshipConsolidation": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6097237943 [GLT6097237943].md",
@@ -98770,6 +98862,13 @@
           "show": "The Rest Is History",
           "title": "297: The Nazis: Hitler's Triumph (Part 3)",
           "url": "/wiki/sources/297-the-nazis-hitlers-triumph-part-3-glt2055084600/"
+        },
+        {
+          "episode_file": "GLT4099180386 [GLT4099180386].md",
+          "key": "296-the-nazis-the-beer-hall-putsch-part-2-glt4099180386",
+          "show": "The Rest Is History",
+          "title": "296: The Nazis: The Beer Hall Putsch (Part 2)",
+          "url": "/wiki/sources/296-the-nazis-the-beer-hall-putsch-part-2-glt4099180386/"
         }
       ],
       "updated": "2026-09-29",
@@ -114143,6 +114242,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/meifuwesternhan/"
     },
+    "MeinKampf": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4099180386 [GLT4099180386].md",
+          "key": "296-the-nazis-the-beer-hall-putsch-part-2-glt4099180386",
+          "show": "The Rest Is History",
+          "title": "296: The Nazis: The Beer Hall Putsch (Part 2)",
+          "url": "/wiki/sources/296-the-nazis-the-beer-hall-putsch-part-2-glt4099180386/"
+        }
+      ],
+      "updated": "2026-09-29",
+      "url": "/wiki/entities/meinkampf/"
+    },
     "MelanocortinPeptideVitality": {
       "episode_count": 1,
       "show_count": 1,
@@ -129355,9 +129470,9 @@
       "url": "/wiki/entities/paulrouse/"
     },
     "PaulVonHindenburg": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT3861584466 [GLT3861584466].md",
@@ -129379,6 +129494,13 @@
           "show": "The Rest Is History",
           "title": "297: The Nazis: Hitler's Triumph (Part 3)",
           "url": "/wiki/sources/297-the-nazis-hitlers-triumph-part-3-glt2055084600/"
+        },
+        {
+          "episode_file": "GLT4099180386 [GLT4099180386].md",
+          "key": "296-the-nazis-the-beer-hall-putsch-part-2-glt4099180386",
+          "show": "The Rest Is History",
+          "title": "296: The Nazis: The Beer Hall Putsch (Part 2)",
+          "url": "/wiki/sources/296-the-nazis-the-beer-hall-putsch-part-2-glt4099180386/"
         }
       ],
       "updated": "2026-09-29",
@@ -178466,9 +178588,9 @@
       "url": "/wiki/entities/weizilatehan/"
     },
     "WeimarRepublic": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6217148052 [GLT6217148052].md",
@@ -178483,6 +178605,13 @@
           "show": "The Rest Is History",
           "title": "297: The Nazis: Hitler's Triumph (Part 3)",
           "url": "/wiki/sources/297-the-nazis-hitlers-triumph-part-3-glt2055084600/"
+        },
+        {
+          "episode_file": "GLT4099180386 [GLT4099180386].md",
+          "key": "296-the-nazis-the-beer-hall-putsch-part-2-glt4099180386",
+          "show": "The Rest Is History",
+          "title": "296: The Nazis: The Beer Hall Putsch (Part 2)",
+          "url": "/wiki/sources/296-the-nazis-the-beer-hall-putsch-part-2-glt4099180386/"
         }
       ],
       "updated": "2026-09-29",

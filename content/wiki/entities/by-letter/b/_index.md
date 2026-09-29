@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 11372
+wiki_total_pages: 11377
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -317,6 +317,9 @@ wiki_pages:
   - key: "Beeper"
     title: "Beeper"
     url: "/wiki/entities/beeper/"
+  - key: "BeerHallPutsch"
+    title: "Beer Hall Putsch"
+    url: "/wiki/entities/beerhallputsch/"
   - key: "BeerLao"
     title: "Beer Lao"
     url: "/wiki/entities/beerlao/"

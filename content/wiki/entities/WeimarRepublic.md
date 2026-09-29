@@ -5,6 +5,7 @@ tags: [state, germany, democracy, anthem]
 sources:
   - 679-germany-the-song-hitler-stole-part-3-glt6217148052
   - 297-the-nazis-hitlers-triumph-part-3-glt2055084600
+  - 296-the-nazis-the-beer-hall-putsch-part-2-glt4099180386
 last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
@@ -13,11 +14,13 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-The Weimar Republic was Germany's post-First World War democracy, which sought symbolic unity through *Das Lied der Deutschen* but collapsed under depression, polarization, emergency government, political violence, and elite-led constitutional erosion.
+The Weimar Republic was Germany's post-First World War democracy, created amid defeat and revolution, stabilized after the 1923 crisis, and later destroyed through depression, polarization, emergency government, political violence, and elite-led constitutional erosion.
 
 ## Current Profile
 
-The anthem source shows the constructive problem at the republic's beginning. President [[FriedrichEbert]] adopted *Das Lied der Deutschen* in 1922 while emphasizing the third verse's unity, rights, and freedom, hoping a shared national symbol could bridge liberal and conservative audiences after defeat.
+The early-period source presents the republic as an improvised settlement after imperial collapse rather than a universally desired order. Its constitution combined parliamentary democracy with Article 48 emergency authority, while the army, civil service, communists, and nationalist right contained important anti-republican currents. Defeat, Versailles, the stab-in-the-back myth, paramilitary violence, hyperinflation, cultural fear, and antisemitic scapegoating weakened legitimacy, but [[GustavStresemann]]'s 1923 stabilization shows that collapse was not yet inevitable.
+
+The anthem source shows the constructive symbolic problem at the same beginning. President [[FriedrichEbert]] adopted *Das Lied der Deutschen* in 1922 while emphasizing the third verse's unity, rights, and freedom, hoping a shared national symbol could bridge liberal and conservative audiences after defeat.
 
 The collapse source shows why symbolic inclusion did not secure institutional loyalty. Depression-era unemployment and fear expanded both Nazi and communist support, but economic crisis became regime collapse only through choices: [[HeinrichBruning]] normalized Article 48 decree government; [[FranzVonPapen]] removed Prussia's elected Social Democratic government; [[KurtVonSchleicher]] pursued army-centered authoritarianism; and [[PaulVonHindenburg]] ultimately appointed [[AdolfHitler]] under a conservative containment plan.
 
@@ -27,7 +30,7 @@ Elections continued, but parliamentary government lost governing capacity while 
 
 - Postwar democracy seeking unity after defeat, revolution, reparations, and political division.
 - State that officially adopted *Das Lied der Deutschen* in August 1922 with emphasis on its democratic third verse.
-- Constitutional order whose Article 48 emergency provision enabled government without a stable Reichstag majority.
+- Constitutional order whose Article 48 emergency provision was used extensively under Ebert and later normalized as government without a stable Reichstag majority.
 - Political system weakened by depression, polarization, repeated elections, street violence, left division, and conservative authoritarianism.
 - Federal order materially damaged by Papen's removal of Prussia's elected government.
 - Democracy whose procedures were used by actors seeking to destroy or supersede parliamentary rule.
@@ -38,18 +41,21 @@ Elections continued, but parliamentary government lost governing capacity while 
 - Symbolic need: [[679-germany-the-song-hitler-stole-part-3-glt6217148052]] says the republic sought symbols that could unite a defeated and divided Germany.
 - Verse emphasis: [[679-germany-the-song-hitler-stole-part-3-glt6217148052]] says Ebert emphasized the third verse rather than the first.
 - Later vulnerability: [[679-germany-the-song-hitler-stole-part-3-glt6217148052]] contrasts Weimar adoption with Nazi emphasis on the first verse after 1933.
+- Founding fragility: [[296-the-nazis-the-beer-hall-putsch-part-2-glt4099180386]] connects defeat, revolution, emergency authority, hostile institutions, Versailles, and political violence to weak republican legitimacy.
+- Crisis and recovery: [[296-the-nazis-the-beer-hall-putsch-part-2-glt4099180386]] joins hyperinflation and the Ruhr occupation to radicalization while crediting Stresemann with immediate stabilization.
+- Anti-democratic adaptation: [[296-the-nazis-the-beer-hall-putsch-part-2-glt4099180386]] connects the failed Beer Hall Putsch to Hitler's turn toward using democratic procedures against democracy.
 - Depression and polarization: [[297-the-nazis-hitlers-triumph-part-3-glt2055084600]] connects economic collapse to Nazi and communist growth without treating economics as sufficient cause.
 - Institutional erosion: [[297-the-nazis-hitlers-triumph-part-3-glt2055084600]] traces decree government, Reichstag dissolutions, the Prussian coup, and successive authoritarian projects.
 - Appointment failure: [[297-the-nazis-hitlers-triumph-part-3-glt2055084600]] connects Hitler's chancellorship to conservative bargaining and the false belief that cabinet and presidential constraints would contain him.
 
 ## Qualifications
 
-This profile is bounded to two narrative-history episodes and is not a complete constitutional, economic, social, or cultural history. Depression is treated as a decisive accelerator rather than a sufficient cause, and electoral participation is not equated with democratic purpose. Vote totals, economic estimates, political motives, counterfactual resistance, and the relative weight of institutional failures remain source-scoped.
+This profile is bounded to three narrative-history episodes and is not a complete constitutional, economic, social, or cultural history. Structural burdens did not make collapse inevitable: the 1923 stabilization and weak Nazi result in 1928 qualify a deterministic reading, while the Depression remained an accelerator rather than a sufficient cause. Electoral participation is not equated with democratic purpose. Emergency-decree counts, inflation figures, vote totals, economic estimates, political motives, counterfactual resistance, and the relative weight of institutional failures remain source-scoped.
 
 ## What Changed
 
-- Expanded the page from anthem adoption to the 1929–33 collapse sequence.
-- Added emergency decree, federal dismantling, polarization, and conservative containment failure as interacting mechanisms.
+- Extended the profile backward to the republic's improvised birth, 1923 crisis, and recovery.
+- Added the failed putsch and Hitler's strategic adaptation as prehistory to later legal-electoral subversion.
 
 ## Relationships
 
@@ -63,3 +69,6 @@ This profile is bounded to two narrative-history episodes and is not a complete 
 - [[KurtVonSchleicher]] - general and chancellor pursuing an army-centered authoritarian alternative.
 - [[PaulVonHindenburg]] - president whose authority sustained decree government and appointed Hitler.
 - [[LegalCoerciveDictatorshipConsolidation]] - mechanism connecting institutional erosion to the dictatorship that followed.
+- [[BeerHallPutsch]] - failed direct coup whose aftermath changed Nazi strategy.
+- [[GustavStresemann]] - statesman associated with the republic's 1923 stabilization.
+- [[ErichLudendorff]] - nationalist military figure linked to defeat mythology and the failed coup.

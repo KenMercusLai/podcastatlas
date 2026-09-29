@@ -951,6 +951,10 @@
     "title": "29.千面英雄：俄狄浦斯正在下班挤地铁",
     "url": "/wiki/sources/29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891/"
   },
+  "296-the-nazis-the-beer-hall-putsch-part-2-glt4099180386": {
+    "title": "296: The Nazis: The Beer Hall Putsch (Part 2)",
+    "url": "/wiki/sources/296-the-nazis-the-beer-hall-putsch-part-2-glt4099180386/"
+  },
   "297-the-nazis-hitlers-triumph-part-3-glt2055084600": {
     "title": "297: The Nazis: Hitler's Triumph (Part 3)",
     "url": "/wiki/sources/297-the-nazis-hitlers-triumph-part-3-glt2055084600/"
@@ -9694,6 +9698,10 @@
   "Beeper": {
     "title": "Beeper",
     "url": "/wiki/entities/beeper/"
+  },
+  "BeerHallPutsch": {
+    "title": "Beer Hall Putsch",
+    "url": "/wiki/entities/beerhallputsch/"
   },
   "BeerLao": {
     "title": "Beer Lao",
@@ -24531,6 +24539,10 @@
     "title": "Erich Jarvis",
     "url": "/wiki/entities/erichjarvis/"
   },
+  "ErichLudendorff": {
+    "title": "Erich Ludendorff",
+    "url": "/wiki/entities/erichludendorff/"
+  },
   "Ericsson": {
     "title": "Ericsson",
     "url": "/wiki/entities/ericsson/"
@@ -31007,6 +31019,10 @@
     "title": "Greg (Scott Page's partner)",
     "url": "/wiki/entities/gregscottpagepartner/"
   },
+  "GregorStrasser": {
+    "title": "Gregor Strasser",
+    "url": "/wiki/entities/gregorstrasser/"
+  },
   "GregorianReform": {
     "title": "Gregorian Reform",
     "url": "/wiki/concepts/gregorianreform/"
@@ -31582,6 +31598,10 @@
   "GushiXinbian": {
     "title": "《故事新编》",
     "url": "/wiki/entities/gushixinbian/"
+  },
+  "GustavStresemann": {
+    "title": "Gustav Stresemann",
+    "url": "/wiki/entities/gustavstresemann/"
   },
   "GustaveLeBon": {
     "title": "Gustave Le Bon / 古斯塔夫·勒庞",
@@ -47718,6 +47738,10 @@
   "MeilunMeihuan": {
     "title": "美轮美换 / Meilun Meihuan",
     "url": "/wiki/entities/meilunmeihuan/"
+  },
+  "MeinKampf": {
+    "title": "Mein Kampf",
+    "url": "/wiki/entities/meinkampf/"
   },
   "Meipai": {
     "title": "Meipai / 美拍",
