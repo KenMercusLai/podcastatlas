@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [India's Gig Economy, Education & The Future of Work | Chetan Bhagat | Tomorrow Today](sources/default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559-default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559.md) — Tomorrow Today interview with Chetan Bhagat on creativity, education and platform inequality, achievement, AI safety, human authorship, cognitive offloading, and a more examined definition of success.
 - [VOL.03传染病｜半夜接到恐艾人电话 还是我们对艾滋病防治宣传太少｜防狂犬病及时打疫苗](sources/vol-03-chuanranbing-banye-jiedao-kongairen-dianhua-haishi-women-dui-aizibing-fangzhi-xuanchuan-taishao-fang-kuangquanbing-jishi-da-yimiao-ljbk6zqxqkscsp9veggcut0ugjjr.md) — 这病说来话长 episode on rabies exposure, STI care, hepatitis and HIV transmission literacy, vaccination boundaries, qualified treatment, privacy, and infection stigma.
 - [286: England: Beef and Liberty](sources/286-england-beef-and-liberty-glt5964129806.md) — The Rest Is History episode on roast beef as a material food, anti-French political language, patriotic performance, John Bull archetype, and fading English national myth.
 - [VOL.04医美｜正规有资质是医美的前提条件｜中韩医美整容的环境对比](sources/vol-04-yimei-zhenggui-you-zizhi-shi-yimei-de-qianti-tiaojian-zhonghan-yimei-zhengrong-de-huanjing-duibi-lhgwrsxzkwg7mvf5gl3xn1bdl2ns.md) — 这病说来话长 episode on medical-aesthetic credentials, informal-setting and product risks, device-operator skill, realistic expectations, and low-price warning signals.
@@ -3241,6 +3242,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [285: Canada: Beaver Wars](sources/285-canada-beaver-wars-glt6084067740.md) — The Rest Is History episode on beavers as landscape engineers and commodities connecting Indigenous use, colonial rivalry, fur-trade empire, ecological collapse, and conservation.
 
 ## Entities
+- [Chetan Bhagat](entities/ChetanBhagat.md) — Indian writer and former investment banker connecting accessible fiction, education and labor inequality, achievement psychology, AI-era authorship, and examined success.
 - [Beaver Wars](entities/BeaverWars.md) — Seventeenth-century conflict complex joining Indigenous strategy and rivalry to fur-trade competition and European colonial intervention.
 - [Hudson's Bay Company](entities/HudsonsBayCompany.md) — Chartered company connecting beaver commerce, Rupert's Land, mapping, and British imperial power.
 - [Grey Owl](entities/GreyOwl.md) — British-born former trapper and influential beaver conservation advocate whose assumed Indigenous identity complicates his legacy.
@@ -6285,8 +6287,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Vishnu Padmanabhan](entities/VishnuPadmanabhan.md) — Economist explainer distinguishing worker effects from city place effects in wage gaps.
 - [Gaurav Karna](entities/GauravKarna.md) — UC San Diego researcher whose LinkedIn-based job-history work anchors the city place-premium segment.
 - [Andy Stalman](entities/AndyStalman.md) — Branding strategist and entrepreneur whose Tomorrow Today interview frames brand as identity, behavior, culture, AI readiness, and human meaning.
-- [Shekhar Natarajan](entities/ShekharNatarajan.md) — Tomorrow Today host whose interviews connect branding, actionable values, Everest risk, team trust, and AI-era purpose.
-- [Tomorrow Today](entities/TomorrowToday.md) — Long-form podcast show context for Shekhar Natarajan interviews on branding, AI, Everest, resilience, and leadership.
+- [Shekhar Natarajan](entities/ShekharNatarajan.md) — Tomorrow Today host connecting guest biography to institutions, inequality, leadership, authorship, cognition, and accountable AI.
+- [Tomorrow Today](entities/TomorrowToday.md) — Long-form podcast joining biography to business, resilience, spirituality, institutions, creative labor, inequality, AI, and human meaning.
 - [Araceli Segarra](entities/AraceliSegarra.md) — Mountaineer and Tomorrow Today guest whose Everest account connects fear, uncertainty, team trust, rescue, resilience, and AI-era judgment.
 - [Shyalpa Rinpoche](entities/ShyalpaRinpoche.md) — Tibetan Buddhist teacher and Tomorrow Today guest whose interview links exile, lineage, Dzogchen, karma, peace-building, and compassionate AI.
 - [Chhatral Rinpoche](entities/ChhatralRinpoche.md) — Dzogchen master named as Shyalpa Rinpoche's principal teacher and lineage anchor.
@@ -14698,6 +14700,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Auschwitz-Birkenau](entities/AuschwitzBirkenau.md) — Nazi concentration and extermination complex examined through forced labor, confiscation, registration, deception, mass killing, and escapee evidence.
 
 ## Concepts
+- [Achievement as Adaptive Overdrive](concepts/AchievementAsAdaptiveOverdrive.md) — Pattern in which adversity-powered ambition remains active after the threat changes, requiring success to be separated from wellbeing.
+- [Natural Intelligence–AI Boundary](concepts/NaturalIntelligenceAIBoundary.md) — Practical rule preserving human judgment, difficult learning, relationships, moral purpose, and self-directed experience when AI assists.
+- [Poor-to-Rich Platform Economy](concepts/PoorToRichPlatformEconomy.md) — Distributional lens for platforms that organize inexpensive labor to serve affluent consumers while worker security and progression remain limited.
 - [Beaver Landscape Engineering](concepts/BeaverLandscapeEngineering.md) — Reshaping of rivers, wetlands, and habitats through beaver dams, flooding, and related ecosystem processes.
 - [Beaver Fur Trade](concepts/BeaverFurTrade.md) — Commodity system joining Indigenous exchange, Atlantic hat demand, chartered companies, empire, and ecological depletion.
 - [Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置](concepts/RabiesExposurePostExposureCare.md) — Time-sensitive route from animal exposure and wound context to qualified rabies prophylaxis assessment without overgeneralizing species risk.

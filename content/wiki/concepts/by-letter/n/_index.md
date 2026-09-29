@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 8848
+wiki_total_pages: 8851
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -92,6 +92,9 @@ wiki_pages:
   - key: "NaturalHazardSocialDisaster"
     title: "Natural Hazard As Social Disaster"
     url: "/wiki/concepts/naturalhazardsocialdisaster/"
+  - key: "NaturalIntelligenceAIBoundary"
+    title: "Natural Intelligence–AI Boundary"
+    url: "/wiki/concepts/naturalintelligenceaiboundary/"
   - key: "NaturalLanguageAnalytics"
     title: "Natural Language Analytics"
     url: "/wiki/concepts/naturallanguageanalytics/"

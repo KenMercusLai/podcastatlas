@@ -5076,6 +5076,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/achaemenidimperialorderideology/"
     },
+    "AchievementAsAdaptiveOverdrive": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_fe4d0dc018bd4482039d4a6798e610cf_124292559 [default.mp3_ywr3ahjkcgo_fe4d0dc018bd4482039d4a6798e610cf_124292559].md",
+          "key": "default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559-default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559",
+          "show": "Tomorrow, Today",
+          "title": "India's Gig Economy, Education & The Future of Work | Chetan Bhagat | Tomorrow Today",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559-default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/achievementasadaptiveoverdrive/"
+    },
     "AcquiredProductMarketFit": {
       "episode_count": 1,
       "show_count": 1,
@@ -29637,6 +29653,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/chesterwilliams/"
+    },
+    "ChetanBhagat": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_fe4d0dc018bd4482039d4a6798e610cf_124292559 [default.mp3_ywr3ahjkcgo_fe4d0dc018bd4482039d4a6798e610cf_124292559].md",
+          "key": "default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559-default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559",
+          "show": "Tomorrow, Today",
+          "title": "India's Gig Economy, Education & The Future of Work | Chetan Bhagat | Tomorrow Today",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559-default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/chetanbhagat/"
     },
     "Chevauchee": {
       "episode_count": 2,
@@ -83848,6 +83880,29 @@
       "updated": "2026-09-14",
       "url": "/wiki/concepts/humanauthorizedautonomousweapons/"
     },
+    "HumanAuthorshipPremium": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "tech_20260413_0413_MP_TECH_pod_128 [tech_20260413_0413_MP_TECH_pod_128].md",
+          "key": "tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Is \"made by humans\" the new premium label?",
+          "url": "/wiki/sources/tech-20260413-0413-mp-tech-pod-128-tech-20260413-0413-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_fe4d0dc018bd4482039d4a6798e610cf_124292559 [default.mp3_ywr3ahjkcgo_fe4d0dc018bd4482039d4a6798e610cf_124292559].md",
+          "key": "default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559-default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559",
+          "show": "Tomorrow, Today",
+          "title": "India's Gig Economy, Education & The Future of Work | Chetan Bhagat | Tomorrow Today",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559-default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/humanauthorshippremium/"
+    },
     "HumanCareAutomationBoundary": {
       "episode_count": 1,
       "show_count": 1,
@@ -123065,6 +123120,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/nativealienspeciesboundary/"
     },
+    "NaturalIntelligenceAIBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_fe4d0dc018bd4482039d4a6798e610cf_124292559 [default.mp3_ywr3ahjkcgo_fe4d0dc018bd4482039d4a6798e610cf_124292559].md",
+          "key": "default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559-default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559",
+          "show": "Tomorrow, Today",
+          "title": "India's Gig Economy, Education & The Future of Work | Chetan Bhagat | Tomorrow Today",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559-default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/naturalintelligenceaiboundary/"
+    },
     "NaturalizedPlayerPolicyInChineseFootball": {
       "episode_count": 2,
       "show_count": 1,
@@ -136113,6 +136184,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/poorpeoplescampaign/"
+    },
+    "PoorToRichPlatformEconomy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_fe4d0dc018bd4482039d4a6798e610cf_124292559 [default.mp3_ywr3ahjkcgo_fe4d0dc018bd4482039d4a6798e610cf_124292559].md",
+          "key": "default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559-default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559",
+          "show": "Tomorrow, Today",
+          "title": "India's Gig Economy, Education & The Future of Work | Chetan Bhagat | Tomorrow Today",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559-default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/poortorichplatformeconomy/"
     },
     "PopToAlbumRockTransition": {
       "episode_count": 2,
@@ -155152,9 +155239,9 @@
       "url": "/wiki/entities/shawbrothersstudio/"
     },
     "ShekharNatarajan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "128_default_tc [128_default_tc].md",
@@ -155190,9 +155277,16 @@
           "show": "Tomorrow, Today",
           "title": "Adah Sharma on The Kerala Story, Backlash, Threats & Handling Rejection | Shekhar Natarajan | Tomorrow Today",
           "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490-defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_fe4d0dc018bd4482039d4a6798e610cf_124292559 [default.mp3_ywr3ahjkcgo_fe4d0dc018bd4482039d4a6798e610cf_124292559].md",
+          "key": "default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559-default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559",
+          "show": "Tomorrow, Today",
+          "title": "India's Gig Economy, Education & The Future of Work | Chetan Bhagat | Tomorrow Today",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559-default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-30",
       "url": "/wiki/entities/shekharnatarajan/"
     },
     "ShellShock": {
@@ -171839,9 +171933,9 @@
       "url": "/wiki/entities/tomoegozen/"
     },
     "TomorrowToday": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "128_default_tc [128_default_tc].md",
@@ -171877,9 +171971,16 @@
           "show": "Tomorrow, Today",
           "title": "Adah Sharma on The Kerala Story, Backlash, Threats & Handling Rejection | Shekhar Natarajan | Tomorrow Today",
           "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490-defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_fe4d0dc018bd4482039d4a6798e610cf_124292559 [default.mp3_ywr3ahjkcgo_fe4d0dc018bd4482039d4a6798e610cf_124292559].md",
+          "key": "default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559-default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559",
+          "show": "Tomorrow, Today",
+          "title": "India's Gig Economy, Education & The Future of Work | Chetan Bhagat | Tomorrow Today",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559-default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-30",
       "url": "/wiki/entities/tomorrowtoday/"
     },
     "TongLiSexEducator": {

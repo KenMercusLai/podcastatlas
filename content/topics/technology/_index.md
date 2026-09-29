@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3232
+topic_total_pages: 3235
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3082,6 +3082,9 @@ topic_concepts:
   - key: "NarrativeFateInteraction"
     title: "Narrative Fate Interaction"
     url: "/wiki/concepts/narrativefateinteraction/"
+  - key: "NaturalIntelligenceAIBoundary"
+    title: "Natural Intelligence–AI Boundary"
+    url: "/wiki/concepts/naturalintelligenceaiboundary/"
   - key: "NaturalLanguageAnalytics"
     title: "Natural Language Analytics"
     url: "/wiki/concepts/naturallanguageanalytics/"
@@ -5087,6 +5090,9 @@ topic_entities:
   - key: "ChernobylNuclearPowerPlant"
     title: "Chernobyl Nuclear Power Plant"
     url: "/wiki/entities/chernobylnuclearpowerplant/"
+  - key: "ChetanBhagat"
+    title: "Chetan Bhagat"
+    url: "/wiki/entities/chetanbhagat/"
   - key: "Chile"
     title: "Chile"
     url: "/wiki/entities/chile/"
@@ -9018,6 +9024,9 @@ topic_sources:
   - key: "in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74"
     title: "In arms’ way: Gaza-deal sticking points"
     url: "/wiki/sources/in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74/"
+  - key: "default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559-default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559"
+    title: "India's Gig Economy, Education & The Future of Work | Chetan Bhagat | Tomorrow Today"
+    url: "/wiki/sources/default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559-default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955"
     title: "Inside America's AI Strategy: Infrastructure, Regulation, and Global Competition"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955/"

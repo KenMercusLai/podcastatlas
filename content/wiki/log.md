@@ -25578,3 +25578,11 @@ Added source `285-canada-beaver-wars-glt6084067740`; created `BeaverWars`, `Huds
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-30] ingest | India's Gig Economy, Education & The Future of Work | Chetan Bhagat | Tomorrow Today
+
+Added source `default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559-default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559`; created `ChetanBhagat`, `PoorToRichPlatformEconomy`, `NaturalIntelligenceAIBoundary`, and `AchievementAsAdaptiveOverdrive`; updated `ShekharNatarajan` and `TomorrowToday` from their complete bounded six-source sets; and expanded `HumanAuthorshipPremium` from its complete bounded two-source set. Core synthesis: education and platform coordination can create opportunity while still reproducing weak mobility and unequal security; adversity-powered ambition can outlive the threat that made it useful; and AI is most valuable when it remains subordinate to human judgment, difficult learning, relationship, and artistic intent. No settled contradiction was adopted. Employment, wage, platform, healthcare, national-capability, and universal-basic-income claims remain conversational and source-scoped, while AI's current fiction limits are treated as time-sensitive rather than permanent. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

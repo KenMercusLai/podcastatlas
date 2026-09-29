@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2918
+topic_total_pages: 2921
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1438,6 +1438,9 @@ topic_concepts:
   - key: "HPSScienceEducation"
     title: "HPS Science Education / 科学史哲社会科学教育"
     url: "/wiki/concepts/hpsscienceeducation/"
+  - key: "HumanAuthorshipPremium"
+    title: "Human Authorship Premium"
+    url: "/wiki/concepts/humanauthorshippremium/"
   - key: "HumanCapitalDevelopment"
     title: "Human Capital Development"
     url: "/wiki/concepts/humancapitaldevelopment/"
@@ -3626,6 +3629,9 @@ topic_entities:
   - key: "CheshireCat"
     title: "Cheshire Cat / 柴郡猫"
     url: "/wiki/entities/cheshirecat/"
+  - key: "ChetanBhagat"
+    title: "Chetan Bhagat"
+    url: "/wiki/entities/chetanbhagat/"
   - key: "ChicagoFire"
     title: "Chicago Fire"
     url: "/wiki/entities/chicagofire/"
@@ -8415,6 +8421,9 @@ topic_sources:
   - key: "in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e"
     title: "In it to bin it: Nigel Farage v Count Binface"
     url: "/wiki/sources/in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e/"
+  - key: "default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559-default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559"
+    title: "India's Gig Economy, Education & The Future of Work | Chetan Bhagat | Tomorrow Today"
+    url: "/wiki/sources/default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559-default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559/"
   - key: "inside-a-book-auction"
     title: "Inside a BOOK auction"
     url: "/wiki/sources/inside-a-book-auction/"

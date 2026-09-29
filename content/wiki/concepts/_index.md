@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 8848
+wiki_total_pages: 8851
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -116,6 +116,9 @@ wiki_pages:
   - key: "AchaemenidImperialOrderIdeology"
     title: "Achaemenid Imperial Order Ideology"
     url: "/wiki/concepts/achaemenidimperialorderideology/"
+  - key: "AchievementAsAdaptiveOverdrive"
+    title: "Achievement as Adaptive Overdrive"
+    url: "/wiki/concepts/achievementasadaptiveoverdrive/"
   - key: "AchievementPressureMentalHealth"
     title: "Achievement Pressure Mental Health"
     url: "/wiki/concepts/achievementpressurementalhealth/"

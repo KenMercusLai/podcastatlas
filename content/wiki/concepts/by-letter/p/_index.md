@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8848
+wiki_total_pages: 8851
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1109,6 +1109,9 @@ wiki_pages:
   - key: "PonziScheme"
     title: "Ponzi Scheme"
     url: "/wiki/concepts/ponzischeme/"
+  - key: "PoorToRichPlatformEconomy"
+    title: "Poor-to-Rich Platform Economy"
+    url: "/wiki/concepts/poortorichplatformeconomy/"
   - key: "PopToAlbumRockTransition"
     title: "Pop-to-Album-Rock Transition"
     url: "/wiki/concepts/poptoalbumrocktransition/"
