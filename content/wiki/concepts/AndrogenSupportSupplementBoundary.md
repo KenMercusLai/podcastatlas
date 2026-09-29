@@ -6,7 +6,8 @@ sources:
   - essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415
   - essentials-how-to-optimize-testosterone-estrogen-scim1902283258
   - developing-a-rational-approach-to-supplementation-for-health-performance-scim5857890354
-last_updated: 2026-09-22
+  - tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim8881525886
+last_updated: 2026-09-30
 knowledge_schema: synthesis-v1
 ---
 
@@ -16,7 +17,7 @@ knowledge_schema: synthesis-v1
 Androgen support supplement boundary is the source-scoped rule that supplements discussed for male hormone support should be interpreted through deficiency, dose, standardization, side effects, lab context, and foundational lifestyle rather than as standalone testosterone fixes.
 
 ## Current Synthesis
-The Gillett episode discusses several non-prescription or supplement-like levers: creatine, betaine, L-carnitine, boron, Tongkat Ali, vitamin D, and Fadogia. The common pattern is not that they form a universal stack. Each is tied to a condition or uncertainty: creatine response, homocysteine, oral bioavailability, TMAO, vitamin D deficiency, SHBG, caloric deficit, standardization, or animal-to-human toxicity interpretation.
+The full and condensed Gillett episodes discuss several non-prescription or supplement-like levers: creatine, betaine, L-carnitine, boron, Tongkat Ali, vitamin D, and Fadogia. The common pattern is not that they form a universal stack. Each is tied to a condition or uncertainty: creatine response, homocysteine, oral bioavailability, TMAO, vitamin D deficiency, SHBG, caloric deficit, standardization, or animal-to-human toxicity interpretation. Because the Essentials note condenses the same interview, it adds accessibility rather than independent evidence.
 
 The boundary complements the prescription boundary. Supplements may have lower regulatory friction than testosterone therapy or clomiphene, but the episode still treats androgen support as context-dependent biology. The stronger synthesis is to measure, fix foundations, and understand what problem a supplement is supposed to solve before adding it.
 
@@ -41,14 +42,14 @@ The dedicated supplementation episode broadens the frame across sexes and fertil
 - Fadogia caution: [[essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415]] describes Fadogia as increasing luteinizing hormone release while discussing rat-study toxicity markers and human-equivalent dosing boundaries.
 - Repeated caution: [[essentials-how-to-optimize-testosterone-estrogen-scim1902283258]] discusses Tongkat Ali and Fadogia without recommending a dose, flags insomnia and possible anti-estrogen effects, and says Fadogia's side-effect profile is poorly documented.
 - Monitoring and reproductive context: [[developing-a-rational-approach-to-supplementation-for-health-performance-scim5857890354]] places bloodwork, minimum-effective-dose trials, sex-specific response, menstrual timing, fertility care, contraception, and prescription interactions around hormone-support products.
+- Full-episode corroboration and scope: [[tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim8881525886]] repeats the creatine, betaine, L-carnitine, vitamin D, boron, Tongkat Ali, and Fadogia discussion while adding the broader puberty, diet, training, fertility, and prescription context in which those claims were made.
 
 ## Counterevidence & Qualifications
-The sources do not provide independent evidence grading for every supplement, brand, or dose, and they do not establish that any supplement reliably improves outcomes for a specific person. Reported Tongkat Ali ranges are not recommendations, and Fadogia's human efficacy and safety remain especially uncertain. Claims about shilajit, ashwagandha, L-carnitine, maca, libido, fertility, cortisol, FSH, LH, testosterone, or estrogen remain source-scoped. Lab abnormalities, fertility goals, menstrual-cycle context, IVF, birth control, liver or kidney disease, cardiovascular risk, medications, pregnancy or partner fertility planning, and adverse effects require qualified medical interpretation.
+The sources do not provide independent evidence grading for every supplement, brand, or dose, and they do not establish that any supplement reliably improves outcomes for a specific person. The two Gillett notes are versions of the same interview and should not be counted as independent corroboration. Reported Tongkat Ali ranges are not recommendations, and Fadogia's human efficacy and safety remain especially uncertain. Claims about shilajit, ashwagandha, L-carnitine, maca, libido, fertility, cortisol, FSH, LH, testosterone, or estrogen remain source-scoped. Lab abnormalities, fertility goals, menstrual-cycle context, IVF, birth control, liver or kidney disease, cardiovascular risk, medications, pregnancy or partner fertility planning, and adverse effects require qualified medical interpretation.
 
 ## What Changed
-- Extended the boundary across sexes, menstrual-cycle context, and fertility care.
-- Added before-and-after bloodwork as a source-scoped monitoring principle.
-- Expanded the named-compound boundary without turning it into a stack.
+- Added the full episode as expanded context for the same named-compound discussion.
+- Clarified that the full and Essentials versions are overlapping evidence, not separate corroboration.
 
 ## Related Concepts
 - [[MaleHormoneHealthPhenotyping]] - measurement frame that determines whether supplement claims are relevant.

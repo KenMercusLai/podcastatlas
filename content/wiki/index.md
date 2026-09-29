@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Tools for Hormone Optimization in Males | Dr. Kyle Gillett](sources/tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim8881525886.md) — Full-length Huberman Lab interview on male puberty, hormone phenotyping, lifestyle foundations, fertility exposures, supplements, peptides, and supervised androgen interventions.
 - [281: Spain: The Caliphate of Córdoba](sources/281-spain-the-caliphate-of-cordoba-glt2203638069.md) — The Rest Is History episode on al-Andalus, Cordoba's Umayyad consolidation and golden age, hierarchical pluralism, Almanzor, civil war, and contingent Reconquista.
 - [282: Morocco: The Rif War](sources/282-morocco-the-rif-war-glt7389759975.md) — The Rest Is History episode on Abdel Krim, the Republic of the Rif, Spain's colonial disaster, modern military escalation, and the Army of Africa's later political role.
 - [VOL.01影像科｜医学影像科里“辐射”出来的那些事儿](sources/vol-01-yingxiangke-yixue-yingxiangke-li-fushe-chulai-de-naxie-shier-lgxelt6usztrpyoamymmk-v46-v8u.md) — 这病说来话长 episode on imaging modalities, radiation risk-benefit, MRI safety, contrast reactions, PET tracers, role separation, and bedside imaging.
@@ -14720,6 +14721,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Christian X of Denmark](entities/ChristianXOfDenmark.md) — Occupation-era monarch symbolizing national continuity and Jewish civic inclusion while the yellow-star story remains a myth.
 
 ## Concepts
+- [Male Puberty Growth Context](concepts/MalePubertyGrowthContext.md) — Development-first frame separating resistance training from adiposity, energy, sleep, nutrition, endocrine context, and clinical concerns in male puberty and growth.
 - [Hierarchical Pluralism in al-Andalus](concepts/HierarchicalPluralismAlAndalus.md) — Real cross-religious exchange and protected community life within an unequal Muslim-dominant legal and political order.
 - [Centralized Golden-Age Fragility](concepts/CentralizedGoldenAgeFragility.md) — Pattern in which urban and intellectual flourishing depends on concentrated peace, revenue, administration, succession, and military control.
 - [Rif War](concepts/RifWar.md) — Colonial conflict joining Spanish imperial crisis, Rif resistance, state formation, and modern military escalation.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 8862
+wiki_total_pages: 8863
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -98,6 +98,9 @@ wiki_pages:
   - key: "MaleMentorshipResponsibility"
     title: "Male Mentorship Responsibility"
     url: "/wiki/concepts/malementorshipresponsibility/"
+  - key: "MalePubertyGrowthContext"
+    title: "Male Puberty Growth Context"
+    url: "/wiki/concepts/malepubertygrowthcontext/"
   - key: "MaleReproductiveHealthAssessment"
     title: "Male Reproductive Health Assessment"
     url: "/wiki/concepts/malereproductivehealthassessment/"

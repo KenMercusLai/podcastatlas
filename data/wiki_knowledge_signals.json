@@ -10550,9 +10550,9 @@
       "url": "/wiki/entities/andrewpalmer/"
     },
     "AndrogenInterventionClinicalBoundary": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM5974928415 [SCIM5974928415].md",
@@ -10581,15 +10581,22 @@
           "show": "Huberman Lab",
           "title": "The Science of Healthy Hair, Hair Loss and How to Regrow Hair",
           "url": "/wiki/sources/the-science-of-healthy-hair-hair-loss-and-how-to-regrow-hair-scim6579560756/"
+        },
+        {
+          "episode_file": "SCIM8881525886 [SCIM8881525886].md",
+          "key": "tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim8881525886",
+          "show": "Huberman Lab",
+          "title": "Tools for Hormone Optimization in Males | Dr. Kyle Gillett",
+          "url": "/wiki/sources/tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim8881525886/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-09-30",
       "url": "/wiki/concepts/androgeninterventionclinicalboundary/"
     },
     "AndrogenSupportSupplementBoundary": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM5974928415 [SCIM5974928415].md",
@@ -10611,9 +10618,16 @@
           "show": "Huberman Lab",
           "title": "Developing a Rational Approach to Supplementation for Health & Performance",
           "url": "/wiki/sources/developing-a-rational-approach-to-supplementation-for-health-performance-scim5857890354/"
+        },
+        {
+          "episode_file": "SCIM8881525886 [SCIM8881525886].md",
+          "key": "tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim8881525886",
+          "show": "Huberman Lab",
+          "title": "Tools for Hormone Optimization in Males | Dr. Kyle Gillett",
+          "url": "/wiki/sources/tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim8881525886/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-30",
       "url": "/wiki/concepts/androgensupportsupplementboundary/"
     },
     "Anduril": {
@@ -99001,9 +99015,9 @@
       "url": "/wiki/entities/kyaclark/"
     },
     "KyleGillett": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM5974928415 [SCIM5974928415].md",
@@ -99011,9 +99025,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Tools for Hormone Optimization in Males | Dr. Kyle Gillett",
           "url": "/wiki/sources/essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415/"
+        },
+        {
+          "episode_file": "SCIM8881525886 [SCIM8881525886].md",
+          "key": "tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim8881525886",
+          "show": "Huberman Lab",
+          "title": "Tools for Hormone Optimization in Males | Dr. Kyle Gillett",
+          "url": "/wiki/sources/tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim8881525886/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-30",
       "url": "/wiki/entities/kylegillett/"
     },
     "KylianMbappe": {
@@ -113198,9 +113219,9 @@
       "url": "/wiki/concepts/maleemotionalintimacyneed/"
     },
     "MaleHormoneHealthPhenotyping": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM5974928415 [SCIM5974928415].md",
@@ -113222,9 +113243,16 @@
           "show": "Huberman Lab",
           "title": "Improving Male Sexual Health, Function & Fertility | Dr. Michael Eisenberg",
           "url": "/wiki/sources/improving-male-sexual-health-function-fertility-dr-michael-eisenberg-scim8414501670/"
+        },
+        {
+          "episode_file": "SCIM8881525886 [SCIM8881525886].md",
+          "key": "tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim8881525886",
+          "show": "Huberman Lab",
+          "title": "Tools for Hormone Optimization in Males | Dr. Kyle Gillett",
+          "url": "/wiki/sources/tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim8881525886/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-30",
       "url": "/wiki/concepts/malehormonehealthphenotyping/"
     },
     "MaleMentorFemaleGrowthNarrative": {
@@ -113258,6 +113286,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/malementorshipresponsibility/"
+    },
+    "MalePubertyGrowthContext": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8881525886 [SCIM8881525886].md",
+          "key": "tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim8881525886",
+          "show": "Huberman Lab",
+          "title": "Tools for Hormone Optimization in Males | Dr. Kyle Gillett",
+          "url": "/wiki/sources/tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim8881525886/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/malepubertygrowthcontext/"
     },
     "MaleReproductiveHealthAssessment": {
       "episode_count": 4,

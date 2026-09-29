@@ -25633,3 +25633,11 @@ Added source `281-spain-the-caliphate-of-cordoba-glt2203638069`; created `AbdAlR
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-30] ingest | Tools for Hormone Optimization in Males | Dr. Kyle Gillett
+
+Added source `tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim8881525886`; created `MalePubertyGrowthContext`; and expanded `KyleGillett`, `MaleHormoneHealthPhenotyping`, `AndrogenInterventionClinicalBoundary`, and `AndrogenSupportSupplementBoundary` from their complete bounded source sets. Core synthesis: male hormone health is a life-course measurement and risk-management problem joining development, symptoms, SHBG or free testosterone, lifestyle foundations, fertility goals, and multi-system intervention tradeoffs rather than a testosterone-number chase. No settled contradiction was adopted. The full episode and later Essentials cut are overlapping versions, not independent corroboration; exact supplement, peptide, drug, pornography, substance, fertility-exposure, and environmental claims remain source-scoped public education rather than individualized medical advice. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
