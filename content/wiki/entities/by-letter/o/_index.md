@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "o"
-wiki_total_pages: 11453
+wiki_total_pages: 11458
 wiki_pages:
   - key: "OneX"
     title: "1X"
@@ -47,6 +47,9 @@ wiki_pages:
   - key: "OctoberDays1789"
     title: "October Days of 1789"
     url: "/wiki/entities/octoberdays1789/"
+  - key: "OdaNobunaga"
+    title: "Oda Nobunaga"
+    url: "/wiki/entities/odanobunaga/"
   - key: "OdedRechavi"
     title: "Oded Rechavi"
     url: "/wiki/entities/odedrechavi/"

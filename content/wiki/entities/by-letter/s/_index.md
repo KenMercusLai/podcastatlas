@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 11453
+wiki_total_pages: 11458
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -713,6 +713,9 @@ wiki_pages:
   - key: "Shibo"
     title: "Shibo"
     url: "/wiki/entities/shibo/"
+  - key: "ShibusawaEiichi"
+    title: "Shibusawa Eiichi"
+    url: "/wiki/entities/shibusawaeiichi/"
   - key: "Shimano"
     title: "Shimano / 喜马诺"
     url: "/wiki/entities/shimano/"

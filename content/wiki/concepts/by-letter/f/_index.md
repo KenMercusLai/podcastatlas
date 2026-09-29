@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 8867
+wiki_total_pages: 8872
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -650,6 +650,9 @@ wiki_pages:
   - key: "FloaterSymptomTriage"
     title: "Floater Symptom Triage / 飞蚊与眼前黑影分诊"
     url: "/wiki/concepts/floatersymptomtriage/"
+  - key: "FloatingWorldUrbanCulture"
+    title: "Floating-World Urban Culture"
+    url: "/wiki/concepts/floatingworldurbanculture/"
   - key: "FloodControlRiskTransfer"
     title: "Flood Control Risk Transfer"
     url: "/wiki/concepts/floodcontrolrisktransfer/"

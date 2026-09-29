@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2923
+topic_total_pages: 2926
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1543,6 +1543,9 @@ topic_concepts:
   - key: "IslandAdventureInversion"
     title: "Island Adventure Inversion / 荒岛冒险反写"
     url: "/wiki/concepts/islandadventureinversion/"
+  - key: "JapaneseAdaptiveCulturalSynthesis"
+    title: "Japanese Adaptive Cultural Synthesis"
+    url: "/wiki/concepts/japaneseadaptiveculturalsynthesis/"
   - key: "JapaneseChildcareAndPreschoolSystem"
     title: "Japanese Childcare And Preschool System / 日本保育与幼教体系"
     url: "/wiki/concepts/japanesechildcareandpreschoolsystem/"
@@ -4196,6 +4199,9 @@ topic_entities:
   - key: "IgnacioPalacioHuerta"
     title: "Ignacio Palacio Huerta"
     url: "/wiki/entities/ignaciopalaciohuerta/"
+  - key: "IharaSaikaku"
+    title: "Ihara Saikaku"
+    url: "/wiki/entities/iharasaikaku/"
   - key: "ImagineK12"
     title: "Imagine K-12"
     url: "/wiki/entities/imaginek12/"
@@ -8013,6 +8019,9 @@ topic_sources:
   - key: "276-dang-ai-geichu-suoyou-daan-nianqingren-ruhe-zhaodao-ziji-de-wenti-ljjh4ya6beiypsghj49ywicw1c6t"
     title: "276.当AI给出所有答案，年轻人如何找到自己的问题？"
     url: "/wiki/sources/276-dang-ai-geichu-suoyou-daan-nianqingren-ruhe-zhaodao-ziji-de-wenti-ljjh4ya6beiypsghj49ywicw1c6t/"
+  - key: "277-japan-samurai-and-shoguns-glt3851919583"
+    title: "277: Japan: Samurai and Shoguns"
+    url: "/wiki/sources/277-japan-samurai-and-shoguns-glt3851919583/"
   - key: "279-cameroon-the-slave-general-of-peter-the-great-glt8175760918"
     title: "279: Cameroon: The Slave General of Peter the Great"
     url: "/wiki/sources/279-cameroon-the-slave-general-of-peter-the-great-glt8175760918/"

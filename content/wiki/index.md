@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [277: Japan: Samurai and Shoguns](sources/277-japan-samurai-and-shoguns-glt3851919583.md) — The Rest Is History survey of Japanese adaptation, imperial legitimacy, samurai and Tokugawa rule, Meiji capitalism and empire, and postwar manga through six lives.
 - [278: France: The Mystery of Le Prince](sources/278-france-the-mystery-of-le-prince-glt1101934476.md) — The Rest Is History episode on Louis Le Prince's 1888 Leeds films, unresolved projection system, disappearance, and contested place in cinema invention history.
 - [279: Cameroon: The Slave General of Peter the Great](sources/279-cameroon-the-slave-general-of-peter-the-great-glt8175760918.md) — The Rest Is History episode on Avram Gannibal's disputed Cameroonian origin, enslavement, engineering career under Peter the Great, Pushkin lineage, and racialized afterlives.
 - [280: Serbia: The Birthplace of Civilisation](sources/280-serbia-the-birthplace-of-civilisation-glt4941340070.md) — The Rest Is History episode on Vinča settlements, early copper working, symbol and writing disputes, Old Europe, and the limits of prehistoric reconstruction.
@@ -3252,6 +3253,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [284: Denmark: The Great Escape](sources/284-denmark-the-great-escape-glt4809968647.md) — The Rest Is History episode on warning, civic networks, Oresund transport, Swedish refuge, and the multi-causal rescue of the Danish Jews.
 
 ## Entities
+- [Chris Harding](entities/ChrisHarding.md) — Historian whose six-life survey interprets Japanese history through selective adaptation, political discontinuity, empire, and memory.
+- [Oda Nobunaga](entities/OdaNobunaga.md) — Sengoku unifier connecting military violence, cultivated samurai identity, religious conflict, and imperial-legitimacy constraints.
+- [Ihara Saikaku](entities/IharaSaikaku.md) — Tokugawa writer whose work opens the floating-world culture of urban pleasure, print, kabuki, and celebrity.
+- [Shibusawa Eiichi](entities/ShibusawaEiichi.md) — Meiji corporate organizer whose ethical capitalism and industrial institution-building were entangled with imperial expansion.
+- [Tezuka Osamu](entities/TezukaOsamu.md) — Manga creator connecting wartime trauma, hybrid visual traditions, and postwar Japanese cultural export.
 - [Louis Le Prince](entities/LouisLePrince.md) — French-born artist-inventor whose surviving 1888 Leeds films and 1890 disappearance shape his contested cinema priority.
 - [Eadweard Muybridge](entities/EadweardMuybridge.md) — Photographer whose sequential motion studies influenced Le Prince's moving-picture experiments.
 - [Thomas Edison](entities/ThomasEdison.md) — Bounded early-cinema profile separating public demonstration and patent litigation from an unproven disappearance theory.
@@ -14733,6 +14739,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Christian X of Denmark](entities/ChristianXOfDenmark.md) — Occupation-era monarch symbolizing national continuity and Jewish civic inclusion while the yellow-star story remains a myth.
 
 ## Concepts
+- [Japanese Adaptive Cultural Synthesis](concepts/JapaneseAdaptiveCulturalSynthesis.md) — Cross-period pattern of selectively reshaping outside institutions and cultural forms under local political pressures.
+- [Japanese Imperial Legitimacy Continuity](concepts/JapaneseImperialLegitimacyContinuity.md) — Persistence of imperial authorization despite shifts in practical power to aristocratic and warrior governments.
+- [Floating-World Urban Culture](concepts/FloatingWorldUrbanCulture.md) — Tokugawa field joining pleasure districts, kabuki, print, gender performance, commerce, and early celebrity.
+- [Meiji Capitalism–Imperial Entanglement](concepts/MeijiCapitalismImperialEntanglement.md) — Connection among corporate modernization, security pressure, ethical rhetoric, and colonial expansion.
+- [Postwar Manga, Memory, and Cultural Export](concepts/PostwarMangaMemoryAndCulturalExport.md) — Framework joining wartime trauma, hybrid visual form, postwar renewal, global circulation, and unresolved responsibility.
 - [Early Cinema Invention Priority](concepts/EarlyCinemaInventionPriority.md) — Framework separating sequential photography, capture, patenting, projection, demonstration, commercialization, and remembered credit.
 - [Racialized Ancestral Claimmaking](concepts/RacializedAncestralClaimmaking.md) — Process by which uncertain ancestry is evidentially contested and repurposed for literary, national, religious, or racial identity.
 - [Vinča Symbols and Proto-Writing](concepts/VincaSymbolsProtoWriting.md) — Contested classification of Vinča marks as decoration, notation, proto-writing, or writing.

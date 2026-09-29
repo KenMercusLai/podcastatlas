@@ -943,6 +943,10 @@
     "title": "277.从提醒你，到替你办：Today想把Personal AI带到哪一步？",
     "url": "/wiki/sources/277-cong-tixing-ni-dao-ti-ni-ban-today-xiang-ba-personal-ai-dai-dao-na-yibu-lub_xekqnxjr6psdo-utmiuig6m6/"
   },
+  "277-japan-samurai-and-shoguns-glt3851919583": {
+    "title": "277: Japan: Samurai and Shoguns",
+    "url": "/wiki/sources/277-japan-samurai-and-shoguns-glt3851919583/"
+  },
   "278-france-the-mystery-of-le-prince-glt1101934476": {
     "title": "278: France: The Mystery of Le Prince",
     "url": "/wiki/sources/278-france-the-mystery-of-le-prince-glt1101934476/"
@@ -15539,6 +15543,10 @@
     "title": "Chris Comparato",
     "url": "/wiki/entities/chriscomparato/"
   },
+  "ChrisHarding": {
+    "title": "Chris Harding",
+    "url": "/wiki/entities/chrisharding/"
+  },
   "ChrisKane": {
     "title": "Chris Kane",
     "url": "/wiki/entities/chriskane/"
@@ -27415,6 +27423,10 @@
     "title": "Floater Symptom Triage / 飞蚊与眼前黑影分诊",
     "url": "/wiki/concepts/floatersymptomtriage/"
   },
+  "FloatingWorldUrbanCulture": {
+    "title": "Floating-World Urban Culture",
+    "url": "/wiki/concepts/floatingworldurbanculture/"
+  },
   "Flock": {
     "title": "Flock",
     "url": "/wiki/entities/flock/"
@@ -35923,6 +35935,10 @@
     "title": "Ignaz Semmelweis",
     "url": "/wiki/entities/ignazsemmelweis/"
   },
+  "IharaSaikaku": {
+    "title": "Ihara Saikaku",
+    "url": "/wiki/entities/iharasaikaku/"
+  },
   "IllegalSandMining": {
     "title": "Illegal Sand Mining",
     "url": "/wiki/concepts/illegalsandmining/"
@@ -38167,6 +38183,10 @@
     "title": "Japan Rice Supply Fragility / 日本大米供应脆弱性",
     "url": "/wiki/concepts/japanricesupplyfragility/"
   },
+  "JapaneseAdaptiveCulturalSynthesis": {
+    "title": "Japanese Adaptive Cultural Synthesis",
+    "url": "/wiki/concepts/japaneseadaptiveculturalsynthesis/"
+  },
   "JapaneseBushWarbler": {
     "title": "日本树莺 / Japanese Bush Warbler",
     "url": "/wiki/entities/japanesebushwarbler/"
@@ -38230,6 +38250,10 @@
   "JapaneseImperialFamily": {
     "title": "Japanese Imperial Family",
     "url": "/wiki/entities/japaneseimperialfamily/"
+  },
+  "JapaneseImperialLegitimacyContinuity": {
+    "title": "Japanese Imperial Legitimacy Continuity",
+    "url": "/wiki/concepts/japaneseimperiallegitimacycontinuity/"
   },
   "JapaneseImperialSuccession": {
     "title": "Japanese Imperial Succession",
@@ -48199,6 +48223,10 @@
     "title": "梅兰芳 / Mei Lanfang",
     "url": "/wiki/entities/meilanfang/"
   },
+  "MeijiCapitalismImperialEntanglement": {
+    "title": "Meiji Capitalism–Imperial Entanglement",
+    "url": "/wiki/concepts/meijicapitalismimperialentanglement/"
+  },
   "MeijiIntellectualPrecarity": {
     "title": "Meiji Intellectual Precarity",
     "url": "/wiki/concepts/meijiintellectualprecarity/"
@@ -52871,6 +52899,10 @@
     "title": "October Days of 1789",
     "url": "/wiki/entities/octoberdays1789/"
   },
+  "OdaNobunaga": {
+    "title": "Oda Nobunaga",
+    "url": "/wiki/entities/odanobunaga/"
+  },
   "OddsDrivenStartupNarrative": {
     "title": "Odds-Driven Startup Narrative / 优化赔率",
     "url": "/wiki/concepts/oddsdrivenstartupnarrative/"
@@ -57362,6 +57394,10 @@
   "PostwarKeynesianRetreat": {
     "title": "Postwar Keynesian Retreat",
     "url": "/wiki/concepts/postwarkeynesianretreat/"
+  },
+  "PostwarMangaMemoryAndCulturalExport": {
+    "title": "Postwar Manga, Memory, and Cultural Export",
+    "url": "/wiki/concepts/postwarmangamemoryandculturalexport/"
   },
   "PostwarReconstructionFinance": {
     "title": "Postwar Reconstruction Finance",
@@ -65671,6 +65707,10 @@
     "title": "Shibo",
     "url": "/wiki/entities/shibo/"
   },
+  "ShibusawaEiichi": {
+    "title": "Shibusawa Eiichi",
+    "url": "/wiki/entities/shibusawaeiichi/"
+  },
   "ShichengWarringStates": {
     "title": "石城 / Shicheng",
     "url": "/wiki/entities/shichengwarringstates/"
@@ -71346,6 +71386,10 @@
   "TeyanaTaylor": {
     "title": "Teyana Taylor",
     "url": "/wiki/entities/teyanataylor/"
+  },
+  "TezukaOsamu": {
+    "title": "Tezuka Osamu",
+    "url": "/wiki/entities/tezukaosamu/"
   },
   "ThaiOrientAirlines": {
     "title": "Thai Orient Airlines / 泰国东方航空",

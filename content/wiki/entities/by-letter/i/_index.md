@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 11453
+wiki_total_pages: 11458
 wiki_pages:
   - key: "IHaveADreamSpeech"
     title: "I Have a Dream Speech"
@@ -65,6 +65,9 @@ wiki_pages:
   - key: "IgnazSemmelweis"
     title: "Ignaz Semmelweis"
     url: "/wiki/entities/ignazsemmelweis/"
+  - key: "IharaSaikaku"
+    title: "Ihara Saikaku"
+    url: "/wiki/entities/iharasaikaku/"
   - key: "IKEA"
     title: "IKEA"
     url: "/wiki/entities/ikea/"

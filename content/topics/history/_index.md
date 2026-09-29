@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2206
+topic_total_pages: 2208
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -673,6 +673,9 @@ topic_concepts:
   - key: "ItalianIrredentism"
     title: "Italian Irredentism"
     url: "/wiki/concepts/italianirredentism/"
+  - key: "JapaneseAdaptiveCulturalSynthesis"
+    title: "Japanese Adaptive Cultural Synthesis"
+    url: "/wiki/concepts/japaneseadaptiveculturalsynthesis/"
   - key: "JiangXiangHeInternalUnity"
     title: "Jiang-Xiang Harmony / 将相和式内部团结"
     url: "/wiki/concepts/jiangxiangheinternalunity/"
@@ -4746,6 +4749,9 @@ topic_sources:
   - key: "271-tangchao-douyao-bucunzai-le-weishenme-weishilun-hui-zai-jinnian-da-baofa-lg7-wdrdw1b9h7lwa4vwkvmyb4un"
     title: "271.唐朝都要不存在了？为什么伪史论会在今年大爆发？"
     url: "/wiki/sources/271-tangchao-douyao-bucunzai-le-weishenme-weishilun-hui-zai-jinnian-da-baofa-lg7-wdrdw1b9h7lwa4vwkvmyb4un/"
+  - key: "277-japan-samurai-and-shoguns-glt3851919583"
+    title: "277: Japan: Samurai and Shoguns"
+    url: "/wiki/sources/277-japan-samurai-and-shoguns-glt3851919583/"
   - key: "278-france-the-mystery-of-le-prince-glt1101934476"
     title: "278: France: The Mystery of Le Prince"
     url: "/wiki/sources/278-france-the-mystery-of-le-prince-glt1101934476/"

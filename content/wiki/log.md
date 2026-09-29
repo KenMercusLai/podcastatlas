@@ -25665,3 +25665,11 @@ Added source `278-france-the-mystery-of-le-prince-glt1101934476`; created `Louis
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-30] ingest | 277: Japan: Samurai and Shoguns
+
+Added source `277-japan-samurai-and-shoguns-glt3851919583`; created `ChrisHarding`, `OdaNobunaga`, `IharaSaikaku`, `ShibusawaEiichi`, `TezukaOsamu`, `JapaneseAdaptiveCulturalSynthesis`, `JapaneseImperialLegitimacyContinuity`, `FloatingWorldUrbanCulture`, `MeijiCapitalismImperialEntanglement`, and `PostwarMangaMemoryAndCulturalExport`; and updated `MurasakiShikibu`, `YosanoAkiko`, `TokugawaIeyasu`, `TokugawaShogunate`, `SelectiveSinicizationInJapan`, `SamuraiRule`, `TokugawaForeignTradeAmbivalence`, and `SakokuDutchWindow`. No settled contradiction was adopted. First-novel labels, religious comparisons, suicide generalizations, company totals, annexation chronology, biographical motives, cultural influence lines, and comparative postwar-memory claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten because the episode deepens bounded Japanese-history branches without changing the wiki-wide synthesis.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

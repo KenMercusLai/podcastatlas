@@ -2,25 +2,52 @@
 title: "Tokugawa Ieyasu / 德川家康"
 type: entity
 tags: [person, ruler, japan, tokugawa, early-modern-history]
-sources: [14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285]
-last_updated: 2026-07-25
+sources:
+  - 14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285
+  - 277-japan-samurai-and-shoguns-glt3851919583
+last_updated: 2026-09-30
+knowledge_schema: synthesis-v1
 ---
 
 # Tokugawa Ieyasu / 德川家康
 
-Tokugawa Ieyasu / 德川家康 appears in [[14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285]] as the Japanese ruler who recognizes the practical value of [[WilliamAdams|William Adams / 三浦按针]] after Adams reaches Japan in 1600. The episode places their meeting on the eve of the [[SekigaharaBattle|Battle of Sekigahara]], when Ieyasu is consolidating power against the Toyotomi-aligned coalition.
+## Overview
 
-The source presents Ieyasu as open to foreign trade and technical knowledge but increasingly alert to Christian and Iberian political risk. He uses Adams's explanations of European conflict to assess [[Jesuits|Jesuit]] accusations, later grants Adams land and samurai status, asks him to build Western-style ships, and uses him as a diplomatic adviser. The same ruler eventually expels Jesuits in 1614, making him the central figure in [[TokugawaForeignTradeAmbivalence]].
+Tokugawa Ieyasu / 德川家康 is the ruler who consolidated the late-Sengoku order into the [[TokugawaShogunate]] and whose handling of [[WilliamAdams|William Adams / 三浦按针]], trade, and Christianity illustrates selective openness bounded by regime security.
 
-## Key Claims
-- Ieyasu does not accept the Jesuit framing of Adams and the Dutch/English survivors as simple pirates; he interrogates the wider European conflict.
-- His interest in Adams is practical: navigation, astronomy, geometry, shipbuilding, diplomacy, and trade matter to statecraft.
-- The episode treats the claim that Adams's ship cannon affected Sekigahara as uncertain and source-scoped.
-- Ieyasu's openness is bounded by regime security; his 1614 expulsion of Jesuits marks the turn from opportunistic trade toward religious-political control.
+## Current Profile
 
-## Connections
-- [[WilliamAdams|William Adams / 三浦按针]] - foreign adviser and samurai retainer.
-- [[TokugawaShogunate]] - regime order associated with Ieyasu's victory and successors.
-- [[SekigaharaBattle|Battle of Sekigahara]] - decisive battle context.
-- [[Jesuits]] - missionary network Ieyasu increasingly views as a threat.
-- [[TokugawaForeignTradeAmbivalence]], [[EarlyModernJapanEuropeContact]], and [[SakokuDutchWindow]] - policy concepts attached to the source.
+The William Adams source places Ieyasu near the [[SekigaharaBattle|Battle of Sekigahara]], willing to interrogate competing European claims and use navigation, shipbuilding, diplomatic, and commercial expertise. His 1614 expulsion of Jesuits shows that usefulness did not remove religious-political risk.
+
+[[277-japan-samurai-and-shoguns-glt3851919583]] places him after Nobunaga and Hideyoshi as the founder of an order associated with roughly 250 years of peace. The newer source strengthens the conclusion that “closure” is misleading: threatening Iberian missionary influence was constrained, while Dutch and Asian trade persisted.
+
+## Key Characteristics
+
+- Consolidator of the unification process begun before him.
+- Founder of the durable Tokugawa governing order.
+- Pragmatic user of foreign knowledge and technical skill.
+- Ruler increasingly concerned by Christian allegiance and Iberian political leverage.
+- Architect of selective restriction rather than total isolation.
+
+## Evidence
+
+- Adams relationship: [[14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285]] describes interrogation, technical use, shipbuilding, land grant, diplomacy, and uncertain cannon claims.
+- Security boundary: [[14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285]] connects Ieyasu's trade interest with the later Jesuit expulsion.
+- Long settlement: [[277-japan-samurai-and-shoguns-glt3851919583]] positions Ieyasu as founder of prolonged Tokugawa peace and controlled contact.
+
+## Qualifications
+
+Claims that Adams's cannon influenced Sekigahara remain uncertain. Neither source makes Ieyasu the sole cause of Tokugawa peace or later restriction, and “risk management” describes the regime's logic without endorsing persecution or minimizing coercion.
+
+## What Changed
+
+- Added Ieyasu's place in the three-unifier sequence and the long Tokugawa peace.
+- Strengthened the distinction between controlled foreign contact and total isolation.
+
+## Relationships
+
+- [[OdaNobunaga]] - earlier unifier whose political order precedes Ieyasu's settlement.
+- [[TokugawaShogunate]] - regime founded and consolidated around his victory.
+- [[WilliamAdams|William Adams / 三浦按针]] - foreign adviser revealing selective openness.
+- [[TokugawaForeignTradeAmbivalence]] - policy tension between utility and security.
+- [[SakokuDutchWindow]] - later controlled-contact outcome.

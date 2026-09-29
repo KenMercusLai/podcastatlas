@@ -31511,6 +31511,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/chretiendetroyes/"
     },
+    "ChrisHarding": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3851919583 [GLT3851919583].md",
+          "key": "277-japan-samurai-and-shoguns-glt3851919583",
+          "show": "The Rest Is History",
+          "title": "277: Japan: Samurai and Shoguns",
+          "url": "/wiki/sources/277-japan-samurai-and-shoguns-glt3851919583/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/chrisharding/"
+    },
     "ChrisPalmer": {
       "episode_count": 2,
       "show_count": 1,
@@ -62993,6 +63009,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/concepts/floatersymptomtriage/"
     },
+    "FloatingWorldUrbanCulture": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3851919583 [GLT3851919583].md",
+          "key": "277-japan-samurai-and-shoguns-glt3851919583",
+          "show": "The Rest Is History",
+          "title": "277: Japan: Samurai and Shoguns",
+          "url": "/wiki/sources/277-japan-samurai-and-shoguns-glt3851919583/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/floatingworldurbanculture/"
+    },
     "FlockSafety": {
       "episode_count": 6,
       "show_count": 2,
@@ -86261,6 +86293,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/entities/ignatiusdonnelly/"
     },
+    "IharaSaikaku": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3851919583 [GLT3851919583].md",
+          "key": "277-japan-samurai-and-shoguns-glt3851919583",
+          "show": "The Rest Is History",
+          "title": "277: Japan: Samurai and Shoguns",
+          "url": "/wiki/sources/277-japan-samurai-and-shoguns-glt3851919583/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/iharasaikaku/"
+    },
     "ImageNet": {
       "episode_count": 3,
       "show_count": 2,
@@ -92473,6 +92521,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/japanaidsbloodproductsincident/"
     },
+    "JapaneseAdaptiveCulturalSynthesis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3851919583 [GLT3851919583].md",
+          "key": "277-japan-samurai-and-shoguns-glt3851919583",
+          "show": "The Rest Is History",
+          "title": "277: Japan: Samurai and Shoguns",
+          "url": "/wiki/sources/277-japan-samurai-and-shoguns-glt3851919583/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/japaneseadaptiveculturalsynthesis/"
+    },
     "JapaneseHealthcareSystem": {
       "episode_count": 4,
       "show_count": 1,
@@ -92509,6 +92573,22 @@
       ],
       "updated": "2026-08-11",
       "url": "/wiki/concepts/japanesehealthcaresystem/"
+    },
+    "JapaneseImperialLegitimacyContinuity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3851919583 [GLT3851919583].md",
+          "key": "277-japan-samurai-and-shoguns-glt3851919583",
+          "show": "The Rest Is History",
+          "title": "277: Japan: Samurai and Shoguns",
+          "url": "/wiki/sources/277-japan-samurai-and-shoguns-glt3851919583/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/japaneseimperiallegitimacycontinuity/"
     },
     "JaredIsaacman": {
       "episode_count": 1,
@@ -116835,6 +116915,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/meifuwesternhan/"
     },
+    "MeijiCapitalismImperialEntanglement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3851919583 [GLT3851919583].md",
+          "key": "277-japan-samurai-and-shoguns-glt3851919583",
+          "show": "The Rest Is History",
+          "title": "277: Japan: Samurai and Shoguns",
+          "url": "/wiki/sources/277-japan-samurai-and-shoguns-glt3851919583/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/meijicapitalismimperialentanglement/"
+    },
     "MeinKampf": {
       "episode_count": 1,
       "show_count": 1,
@@ -122219,9 +122315,9 @@
       "url": "/wiki/concepts/municipaltransparencycompromise/"
     },
     "MurasakiShikibu": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT9428275194 [GLT9428275194].md",
@@ -122236,9 +122332,16 @@
           "show": "The Rest Is History",
           "title": "560. The Golden Age of Japan: Lady Murasaki and the Shining Prince (Part 1)",
           "url": "/wiki/sources/560-the-golden-age-of-japan-lady-murasaki-and-the-shining-prince-part-1-glt6500007351/"
+        },
+        {
+          "episode_file": "GLT3851919583 [GLT3851919583].md",
+          "key": "277-japan-samurai-and-shoguns-glt3851919583",
+          "show": "The Rest Is History",
+          "title": "277: Japan: Samurai and Shoguns",
+          "url": "/wiki/sources/277-japan-samurai-and-shoguns-glt3851919583/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-30",
       "url": "/wiki/entities/murasakishikibu/"
     },
     "Mureka": {
@@ -127347,6 +127450,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/octoberdays1789/"
+    },
+    "OdaNobunaga": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3851919583 [GLT3851919583].md",
+          "key": "277-japan-samurai-and-shoguns-glt3851919583",
+          "show": "The Rest Is History",
+          "title": "277: Japan: Samurai and Shoguns",
+          "url": "/wiki/sources/277-japan-samurai-and-shoguns-glt3851919583/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/odanobunaga/"
     },
     "OdedRechavi": {
       "episode_count": 2,
@@ -138126,6 +138245,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/postwarkeynesianretreat/"
+    },
+    "PostwarMangaMemoryAndCulturalExport": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3851919583 [GLT3851919583].md",
+          "key": "277-japan-samurai-and-shoguns-glt3851919583",
+          "show": "The Rest Is History",
+          "title": "277: Japan: Samurai and Shoguns",
+          "url": "/wiki/sources/277-japan-samurai-and-shoguns-glt3851919583/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/postwarmangamemoryandculturalexport/"
     },
     "PostwarTeenageConsumerMarket": {
       "episode_count": 3,
@@ -151356,6 +151491,29 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/sajitchanna/"
     },
+    "SakokuDutchWindow": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "14.武士威廉：大航海时代的日本和西方 [555771285].md",
+          "key": "14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285",
+          "show": "蜜獾吃书",
+          "title": "14.武士威廉：大航海时代的日本和西方",
+          "url": "/wiki/sources/14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285/"
+        },
+        {
+          "episode_file": "GLT3851919583 [GLT3851919583].md",
+          "key": "277-japan-samurai-and-shoguns-glt3851919583",
+          "show": "The Rest Is History",
+          "title": "277: Japan: Samurai and Shoguns",
+          "url": "/wiki/sources/277-japan-samurai-and-shoguns-glt3851919583/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/sakokudutchwindow/"
+    },
     "SalemWitchTrials": {
       "episode_count": 2,
       "show_count": 2,
@@ -151870,9 +152028,9 @@
       "url": "/wiki/concepts/samurailegendandpoliticalmemory/"
     },
     "SamuraiRule": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT7837412375 [GLT7837412375].md",
@@ -151894,9 +152052,16 @@
           "show": "The Rest Is History",
           "title": "658. Dawn of the Samurai: The Shadow of the Sword (Part 1)",
           "url": "/wiki/sources/658-dawn-of-the-samurai-the-shadow-of-the-sword-part-1-glt7378881498/"
+        },
+        {
+          "episode_file": "GLT3851919583 [GLT3851919583].md",
+          "key": "277-japan-samurai-and-shoguns-glt3851919583",
+          "show": "The Rest Is History",
+          "title": "277: Japan: Samurai and Shoguns",
+          "url": "/wiki/sources/277-japan-samurai-and-shoguns-glt3851919583/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-09-30",
       "url": "/wiki/concepts/samurairule/"
     },
     "SanWuHuan": {
@@ -153899,9 +154064,9 @@
       "url": "/wiki/concepts/selectiveneuralstimulationprecision/"
     },
     "SelectiveSinicizationInJapan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6500007351 [GLT6500007351].md",
@@ -153909,9 +154074,16 @@
           "show": "The Rest Is History",
           "title": "560. The Golden Age of Japan: Lady Murasaki and the Shining Prince (Part 1)",
           "url": "/wiki/sources/560-the-golden-age-of-japan-lady-murasaki-and-the-shining-prince-part-1-glt6500007351/"
+        },
+        {
+          "episode_file": "GLT3851919583 [GLT3851919583].md",
+          "key": "277-japan-samurai-and-shoguns-glt3851919583",
+          "show": "The Rest Is History",
+          "title": "277: Japan: Samurai and Shoguns",
+          "url": "/wiki/sources/277-japan-samurai-and-shoguns-glt3851919583/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-30",
       "url": "/wiki/concepts/selectivesinicizationinjapan/"
     },
     "SelectiveThreatNarrativeEditing": {
@@ -157071,6 +157243,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/shiyanlatehan/"
+    },
+    "ShibusawaEiichi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3851919583 [GLT3851919583].md",
+          "key": "277-japan-samurai-and-shoguns-glt3851919583",
+          "show": "The Rest Is History",
+          "title": "277: Japan: Samurai and Shoguns",
+          "url": "/wiki/sources/277-japan-samurai-and-shoguns-glt3851919583/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/shibusawaeiichi/"
     },
     "ShidaiFengjun": {
       "episode_count": 1,
@@ -169718,6 +169906,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/teyanataylor/"
     },
+    "TezukaOsamu": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3851919583 [GLT3851919583].md",
+          "key": "277-japan-samurai-and-shoguns-glt3851919583",
+          "show": "The Rest Is History",
+          "title": "277: Japan: Samurai and Shoguns",
+          "url": "/wiki/sources/277-japan-samurai-and-shoguns-glt3851919583/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/tezukaosamu/"
+    },
     "ThatcheriteMoralMarketPolitics": {
       "episode_count": 1,
       "show_count": 1,
@@ -172665,6 +172869,75 @@
       ],
       "updated": "2026-09-15",
       "url": "/wiki/concepts/tokentaxonai/"
+    },
+    "TokugawaForeignTradeAmbivalence": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "14.武士威廉：大航海时代的日本和西方 [555771285].md",
+          "key": "14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285",
+          "show": "蜜獾吃书",
+          "title": "14.武士威廉：大航海时代的日本和西方",
+          "url": "/wiki/sources/14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285/"
+        },
+        {
+          "episode_file": "GLT3851919583 [GLT3851919583].md",
+          "key": "277-japan-samurai-and-shoguns-glt3851919583",
+          "show": "The Rest Is History",
+          "title": "277: Japan: Samurai and Shoguns",
+          "url": "/wiki/sources/277-japan-samurai-and-shoguns-glt3851919583/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/tokugawaforeigntradeambivalence/"
+    },
+    "TokugawaIeyasu": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "14.武士威廉：大航海时代的日本和西方 [555771285].md",
+          "key": "14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285",
+          "show": "蜜獾吃书",
+          "title": "14.武士威廉：大航海时代的日本和西方",
+          "url": "/wiki/sources/14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285/"
+        },
+        {
+          "episode_file": "GLT3851919583 [GLT3851919583].md",
+          "key": "277-japan-samurai-and-shoguns-glt3851919583",
+          "show": "The Rest Is History",
+          "title": "277: Japan: Samurai and Shoguns",
+          "url": "/wiki/sources/277-japan-samurai-and-shoguns-glt3851919583/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/tokugawaieyasu/"
+    },
+    "TokugawaShogunate": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "14.武士威廉：大航海时代的日本和西方 [555771285].md",
+          "key": "14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285",
+          "show": "蜜獾吃书",
+          "title": "14.武士威廉：大航海时代的日本和西方",
+          "url": "/wiki/sources/14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285/"
+        },
+        {
+          "episode_file": "GLT3851919583 [GLT3851919583].md",
+          "key": "277-japan-samurai-and-shoguns-glt3851919583",
+          "show": "The Rest Is History",
+          "title": "277: Japan: Samurai and Shoguns",
+          "url": "/wiki/sources/277-japan-samurai-and-shoguns-glt3851919583/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/tokugawashogunate/"
     },
     "Tokyo": {
       "episode_count": 1,
@@ -191803,6 +192076,29 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/yorktown/"
+    },
+    "YosanoAkiko": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "【沙青青x韩钊】石川啄木：我抱持的思想，都是因为缺钱 [894931314].md",
+          "key": "shaqingqing-x-hanzhao-shichuan-zhuomu-wo-baochi-de-sixiang-doushi-yinwei-queqian-894931314",
+          "show": "蜜獾吃书",
+          "title": "【沙青青x韩钊】石川啄木：我抱持的思想，都是因为缺钱",
+          "url": "/wiki/sources/shaqingqing-x-hanzhao-shichuan-zhuomu-wo-baochi-de-sixiang-doushi-yinwei-queqian-894931314/"
+        },
+        {
+          "episode_file": "GLT3851919583 [GLT3851919583].md",
+          "key": "277-japan-samurai-and-shoguns-glt3851919583",
+          "show": "The Rest Is History",
+          "title": "277: Japan: Samurai and Shoguns",
+          "url": "/wiki/sources/277-japan-samurai-and-shoguns-glt3851919583/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/yosanoakiko/"
     },
     "YoumeiyouWenhuaXianxiang": {
       "episode_count": 1,

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "j"
-wiki_total_pages: 8867
+wiki_total_pages: 8872
 wiki_pages:
   - key: "JankyMVP"
     title: "Janky MVP"
@@ -26,6 +26,9 @@ wiki_pages:
   - key: "JapanRiceSupplyFragility"
     title: "Japan Rice Supply Fragility / 日本大米供应脆弱性"
     url: "/wiki/concepts/japanricesupplyfragility/"
+  - key: "JapaneseAdaptiveCulturalSynthesis"
+    title: "Japanese Adaptive Cultural Synthesis"
+    url: "/wiki/concepts/japaneseadaptiveculturalsynthesis/"
   - key: "JapaneseChildAllowance"
     title: "Japanese Child Allowance / 日本儿童手当"
     url: "/wiki/concepts/japanesechildallowance/"
@@ -68,6 +71,9 @@ wiki_pages:
   - key: "JapaneseHousingPresaleProtection"
     title: "Japanese Housing Presale Protection / 日本住宅预售保全"
     url: "/wiki/concepts/japanesehousingpresaleprotection/"
+  - key: "JapaneseImperialLegitimacyContinuity"
+    title: "Japanese Imperial Legitimacy Continuity"
+    url: "/wiki/concepts/japaneseimperiallegitimacycontinuity/"
   - key: "JapaneseImperialSuccession"
     title: "Japanese Imperial Succession"
     url: "/wiki/concepts/japaneseimperialsuccession/"

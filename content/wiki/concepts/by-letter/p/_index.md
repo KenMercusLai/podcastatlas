@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8867
+wiki_total_pages: 8872
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1328,6 +1328,9 @@ wiki_pages:
   - key: "PostwarKeynesianRetreat"
     title: "Postwar Keynesian Retreat"
     url: "/wiki/concepts/postwarkeynesianretreat/"
+  - key: "PostwarMangaMemoryAndCulturalExport"
+    title: "Postwar Manga, Memory, and Cultural Export"
+    url: "/wiki/concepts/postwarmangamemoryandculturalexport/"
   - key: "PostwarReconstructionFinance"
     title: "Postwar Reconstruction Finance"
     url: "/wiki/concepts/postwarreconstructionfinance/"

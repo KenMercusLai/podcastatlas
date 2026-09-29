@@ -2,24 +2,50 @@
 title: "Sakoku Dutch Window"
 type: concept
 tags: [japan, netherlands, trade, knowledge-transfer, early-modern-history]
-sources: [14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285]
-last_updated: 2026-07-25
+sources:
+  - 14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285
+  - 277-japan-samurai-and-shoguns-glt3851919583
+last_updated: 2026-09-30
+knowledge_schema: synthesis-v1
 ---
 
 # Sakoku Dutch Window
 
-Sakoku Dutch window is the source's shorthand for Japan's later restricted foreign-contact settlement: most European powers lose durable access, while the [[Netherlands]] retains a small, controlled trade channel. [[14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285]] links this channel to [[WilliamAdams|William Adams / 三浦按针]] helping Dutch traders gain permission and to later Western learning through Dutch materials.
+## Definition
 
-The concept matters because it rejects a total-closure story. The episode says Adams does not stop Japan from moving toward restriction, but it also stresses that a narrowed Dutch channel still lets objects, information, and later learning pass between Japan and Europe.
+The sakoku Dutch window is the controlled European exception inside Tokugawa restriction: most European powers lost durable access while Dutch traders retained a narrow channel through Dejima near Nagasaki.
+
+## Current Synthesis
+
+The William Adams source connects Dutch access to Adams's brokerage and later Western learning without claiming he reversed the broad restrictive direction. The six-life survey identifies Dejima directly and places it beside continuing trade with China, Korea, and Southeast Asia. The result is a filtered-contact model, not an image of complete national closure.
 
 ## Key Claims
-- The Dutch window is a controlled exception inside a broader restrictive policy.
-- Adams's help to Dutch traders is historically meaningful even if it does not alter the main direction of Tokugawa policy.
-- The source treats broad claims about Adams enabling later European Japan-fashion as rhetorical or speculative unless separately grounded.
-- [[TokugawaForeignTradeAmbivalence]] explains why a limited Dutch channel could survive when more open trade did not.
 
-## Connections
-- [[Netherlands]] - European country associated with the surviving channel.
-- [[WilliamAdams|William Adams / 三浦按针]] - broker who helps Dutch access.
-- [[TokugawaShogunate]] - regime that restricts and filters access.
-- [[EarlyModernJapanEuropeContact]], [[TokugawaForeignTradeAmbivalence]], and [[ConfessionalTradeConflict]] - connected concepts.
+- Dutch trade survives as a controlled exception rather than proof of broad openness.
+- Adams's brokerage matters without making him the sole cause of later access.
+- Objects and knowledge can cross a narrow channel even under restrictive policy.
+- European restriction should not erase Japan's continuing Asian exchange.
+- [[TokugawaForeignTradeAmbivalence]] explains why useful contact and tight control coexist.
+
+## Evidence
+
+- Adams and Dutch access: [[14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285]] credits Adams with helping Dutch traders while limiting heroic causal claims.
+- Dejima: [[277-japan-samurai-and-shoguns-glt3851919583]] identifies the artificial island near Nagasaki as the controlled Dutch trading site.
+- Non-European exchange: [[277-japan-samurai-and-shoguns-glt3851919583]] retains trade with Southeast Asia, Korea, and China.
+
+## Counterevidence & Qualifications
+
+The term “window” can exaggerate European centrality and understate Asian networks, domestic controls, informal contact, and policy change over time. The sources do not establish the volume, continuity, or social reach of every exchange.
+
+## What Changed
+
+- Added explicit Dejima geography and placed the Dutch channel within wider Asian trade.
+- Migrated the page to the synthesis-first schema using its complete evidence set.
+
+## Related Concepts
+
+- [[TokugawaForeignTradeAmbivalence]] - policy logic sustaining a narrow useful exception.
+- [[EarlyModernJapanEuropeContact]] - broader encounter field.
+- [[ConfessionalTradeConflict]] - religious-political pressure narrowing European access.
+- [[JapaneseAdaptiveCulturalSynthesis]] - wider pattern of selective external borrowing.
+- [[TokugawaShogunate]] - regime administering the restricted channel.

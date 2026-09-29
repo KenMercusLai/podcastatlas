@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2141
+topic_total_pages: 2143
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1987,6 +1987,9 @@ topic_concepts:
   - key: "MegaCapConcentrationRisk"
     title: "Mega-Cap Concentration Risk"
     url: "/wiki/concepts/megacapconcentrationrisk/"
+  - key: "MeijiCapitalismImperialEntanglement"
+    title: "Meiji Capitalism–Imperial Entanglement"
+    url: "/wiki/concepts/meijicapitalismimperialentanglement/"
   - key: "MentalAccounting"
     title: "Mental Accounting / 心理账户"
     url: "/wiki/concepts/mentalaccounting/"
@@ -4859,6 +4862,9 @@ topic_entities:
   - key: "SherrodBrown"
     title: "Sherrod Brown"
     url: "/wiki/entities/sherrodbrown/"
+  - key: "ShibusawaEiichi"
+    title: "Shibusawa Eiichi"
+    url: "/wiki/entities/shibusawaeiichi/"
   - key: "ShiraAviona"
     title: "Shira Aviona"
     url: "/wiki/entities/shiraaviona/"
