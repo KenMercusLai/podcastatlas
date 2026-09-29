@@ -947,6 +947,10 @@
     "title": "28.聊斋志异：不为君王唱赞歌，偏向苍生说鬼话",
     "url": "/wiki/sources/28-liaozhai-zhiyi-buwei-junwang-chang-zange-pianxiang-cangsheng-shuo-guihua-587843930/"
   },
+  "282-morocco-the-rif-war-glt7389759975": {
+    "title": "282: Morocco: The Rif War",
+    "url": "/wiki/sources/282-morocco-the-rif-war-glt7389759975/"
+  },
   "283-ecuador-darwins-adventure-to-the-galapagos-glt2992613399": {
     "title": "283: Ecuador: Darwin's Adventure to the Galapagos",
     "url": "/wiki/sources/283-ecuador-darwins-adventure-to-the-galapagos-glt2992613399/"
@@ -7910,6 +7914,10 @@
   "ArmoredCombat": {
     "title": "Armored Combat / 盔甲格斗",
     "url": "/wiki/concepts/armoredcombat/"
+  },
+  "ArmyOfAfrica": {
+    "title": "Army of Africa",
+    "url": "/wiki/entities/armyofafrica/"
   },
   "ArmyParliamentDualSovereignty": {
     "title": "Army-Parliament Dual Sovereignty",
@@ -16834,6 +16842,10 @@
   "ColonialTemporalDiscipline": {
     "title": "Colonial Temporal Discipline",
     "url": "/wiki/concepts/colonialtemporaldiscipline/"
+  },
+  "ColonialWarMilitaryIncubation": {
+    "title": "Colonial War as Military Incubator",
+    "url": "/wiki/concepts/colonialwarmilitaryincubation/"
   },
   "ColorAsIdentityDisruption": {
     "title": "Color As Identity Disruption",
@@ -28234,6 +28246,10 @@
   "FrancisWalsingham": {
     "title": "Francis Walsingham",
     "url": "/wiki/entities/franciswalsingham/"
+  },
+  "FranciscoFranco": {
+    "title": "Francisco Franco",
+    "url": "/wiki/entities/franciscofranco/"
   },
   "FranciscoManuelDaSilva": {
     "title": "Francisco Manuel da Silva",
@@ -49875,6 +49891,10 @@
     "title": "Mohammad Reza Pahlavi / 穆罕默德·礼萨·巴列维",
     "url": "/wiki/entities/mohammadrezapahlavi/"
   },
+  "MohammedAbdelKrim": {
+    "title": "Mohammed Abdel Krim",
+    "url": "/wiki/entities/mohammedabdelkrim/"
+  },
   "MoisesYee": {
     "title": "Moises Yee",
     "url": "/wiki/entities/moisesyee/"
@@ -61131,6 +61151,10 @@
     "title": "Reproductive Body Omen Politics / 生殖身体祥瑞政治",
     "url": "/wiki/concepts/reproductivebodyomenpolitics/"
   },
+  "RepublicOfTheRif": {
+    "title": "Republic of the Rif",
+    "url": "/wiki/entities/republicoftherif/"
+  },
   "RepublicanChinaBankingSystem": {
     "title": "Republican China Banking System",
     "url": "/wiki/concepts/republicanchinabankingsystem/"
@@ -61866,6 +61890,10 @@
   "RidolfiPlot": {
     "title": "Ridolfi Plot",
     "url": "/wiki/entities/ridolfiplot/"
+  },
+  "RifWar": {
+    "title": "Rif War",
+    "url": "/wiki/concepts/rifwar/"
   },
   "RightHemisphereRelationalProcessing": {
     "title": "Right-Hemisphere Relational Processing",
@@ -67386,6 +67414,10 @@
   "SpanishCaribbeanExpansion": {
     "title": "Spanish Caribbean Expansion",
     "url": "/wiki/concepts/spanishcaribbeanexpansion/"
+  },
+  "SpanishCivilWar": {
+    "title": "Spanish Civil War",
+    "url": "/wiki/concepts/spanishcivilwar/"
   },
   "SpanishConquestOfMexico": {
     "title": "Spanish Conquest of Mexico",

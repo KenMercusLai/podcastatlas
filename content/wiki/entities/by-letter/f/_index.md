@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 11437
+wiki_total_pages: 11441
 wiki_pages:
   - key: "FIFAWorldCup1934"
     title: "1934 FIFA World Cup"
@@ -515,6 +515,9 @@ wiki_pages:
   - key: "FrancisWalsingham"
     title: "Francis Walsingham"
     url: "/wiki/entities/franciswalsingham/"
+  - key: "FranciscoFranco"
+    title: "Francisco Franco"
+    url: "/wiki/entities/franciscofranco/"
   - key: "FranciscoManuelDaSilva"
     title: "Francisco Manuel da Silva"
     url: "/wiki/entities/franciscomanueldasilva/"

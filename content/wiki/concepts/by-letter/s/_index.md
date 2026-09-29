@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 8857
+wiki_total_pages: 8860
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1325,6 +1325,9 @@ wiki_pages:
   - key: "SpanishCaribbeanExpansion"
     title: "Spanish Caribbean Expansion"
     url: "/wiki/concepts/spanishcaribbeanexpansion/"
+  - key: "SpanishCivilWar"
+    title: "Spanish Civil War"
+    url: "/wiki/concepts/spanishcivilwar/"
   - key: "SpanishConquestOfMexico"
     title: "Spanish Conquest of Mexico"
     url: "/wiki/concepts/spanishconquestofmexico/"

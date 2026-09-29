@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 11437
+wiki_total_pages: 11441
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -287,6 +287,9 @@ wiki_pages:
   - key: "Replit"
     title: "Replit"
     url: "/wiki/entities/replit/"
+  - key: "RepublicOfTheRif"
+    title: "Republic of the Rif"
+    url: "/wiki/entities/republicoftherif/"
   - key: "RepublicanParty"
     title: "Republican Party"
     url: "/wiki/entities/republicanparty/"

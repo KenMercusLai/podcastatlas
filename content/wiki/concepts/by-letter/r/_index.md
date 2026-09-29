@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 8857
+wiki_total_pages: 8860
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -872,6 +872,9 @@ wiki_pages:
   - key: "RideHailingSafetyOperations"
     title: "Ride-Hailing Safety Operations / 网约车安全运营"
     url: "/wiki/concepts/ridehailingsafetyoperations/"
+  - key: "RifWar"
+    title: "Rif War"
+    url: "/wiki/concepts/rifwar/"
   - key: "RightHemisphereRelationalProcessing"
     title: "Right-Hemisphere Relational Processing"
     url: "/wiki/concepts/righthemisphererelationalprocessing/"

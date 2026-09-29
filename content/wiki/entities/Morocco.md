@@ -1,50 +1,62 @@
 ---
 title: "Morocco"
 type: entity
-tags: [country, africa, migration, diplomacy, maritime-history]
+tags: [country, africa, migration, diplomacy, maritime-history, colonial-history]
 sources:
   - in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74
   - taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7
   - 496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw
-last_updated: 2026-09-07
+  - 282-morocco-the-rif-war-glt7389759975
+last_updated: 2026-09-30
 knowledge_schema: synthesis-v1
 ---
 
 # Morocco
 
 ## Overview
-Morocco appears in the wiki as a North African state tied to Gaza stabilization capacity, [[Ceuta]] border leverage, [[WesternSahara]] diplomacy, and the long history of the Strait of Gibraltar crossing field.
+
+Morocco appears as a North African state shaped in these sources by the long strategic history of the [[StraitOfGibraltar]], European protectorate rule and Rif resistance, modern [[Ceuta]] border leverage, [[WesternSahara]] diplomacy, and limited regional security roles.
 
 ## Current Profile
-The bounded sources give Morocco two main roles. In modern diplomacy, it is a neighboring state whose border cooperation around Ceuta can become leverage over [[Spain]] and the [[EuropeanUnion]], especially through the Western Sahara dispute. In the Huzuo Huyou historical source, Moroccan territory is the North African setting around Ceuta, where medieval port commerce, inland dynasties, later Spanish conflict, Alawi rule, protectorate politics, and post-1956 sovereignty claims all shape the enclave dispute. A separate Gaza source mentions Morocco as a possible contributor to an [[InternationalStabilizationForce]], but that branch remains secondary.
+
+The historical sources now connect two northern-Moroccan layers. Ceuta's harbor and strait position made it a commercial and imperial borderland across ancient, Islamic, Portuguese, Spanish, and Alawi rule. In the early 20th century, the nearby Rif became the setting for Spain's mining-backed protectorate expansion, the disaster at Annual, [[MohammedAbdelKrim]]'s [[RepublicOfTheRif]], and the combined French-Spanish campaign that ended it.
+
+The modern diplomatic sources show geography still functioning as leverage. Cooperation around Ceuta can tighten or relax amid migration and Western Sahara disputes, although deliberate Moroccan orchestration of particular crossings is not independently established. A separate Gaza source names Morocco as a possible small initial contributor to an [[InternationalStabilizationForce]].
 
 ## Key Characteristics
-- Neighboring state to Spanish Ceuta and the origin side for recent crossing surges into the enclave.
-- Diplomatic actor able to relax or tighten border cooperation, though source claims about deliberate orchestration remain qualified.
-- Territorial claimant that has demanded Ceuta and Melilla after independence while Spain rejects the claim.
-- Historical North African setting around Ceuta's port economy, dynastic control, and later protectorate politics.
-- Secondary Gaza implementation actor in the proposed stabilization-force branch.
+
+- North African monarchy whose northern coast sits at the Mediterranean-Atlantic hinge opposite Spain.
+- Site of layered imperial competition, including Ceuta's long borderland history and 20th-century French and Spanish protectorates.
+- Setting of Rif anti-colonial resistance, limited state formation, and violent Franco-Spanish reconquest.
+- Neighbor and claimant confronting Spain over Ceuta and Melilla after independence.
+- Diplomatic actor whose border cooperation can become leverage, though claims of deliberate migration orchestration remain qualified.
+- Secondary prospective security contributor in the Gaza stabilization branch.
 
 ## Evidence
-- Gaza capacity: [[in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74]] says the proposed International Stabilization Force is expected to begin with only a few hundred personnel from Morocco and [[Uganda]].
-- Migration leverage: [[taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7]] says the central unresolved question in the Ceuta surge is Morocco's role, citing the 2021 precedent after Spain admitted [[BrahimGhali]] of the [[PolisarioFront]] for medical treatment.
-- Western Sahara diplomacy: [[taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7]] ties Morocco's leverage to Spain's shift toward Morocco's autonomy plan and the resulting [[Algeria]] tension.
-- Historical setting: [[496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw]] describes North Moroccan grain routes, Fez-linked control of Ceuta, Spanish-Moroccan wars, Alawi rule from 1666, and the 1912 protectorate split.
-- Sovereignty and migration: [[496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw]] says Morocco demanded Ceuta and Melilla after 1956 independence and reads the 2026 crossings as involving social-media rumor, unequal wages, legal misunderstanding, and possible border-pressure tactics.
+
+- Long historical setting: [[496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw]] traces North Moroccan commerce, dynasties, Alawi rule, European conquest, the 1912 protectorate split, and post-independence enclave claims.
+- Rif conflict and state formation: [[282-morocco-the-rif-war-glt7389759975]] links Spanish mining and military expansion to Annual, Abdel Krim's republic, chemical warfare, French intervention, and the 1926 defeat.
+- Migration and Western Sahara leverage: [[taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7]] describes the Ceuta crossing surge, the 2021 precedent after Spain admitted [[BrahimGhali]], and Spain's later shift toward Morocco's Western Sahara autonomy plan.
+- Sovereignty and crossing signals: [[496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw]] adds Morocco's claims to Ceuta and Melilla plus unequal opportunity, social-media rumor, legal misunderstanding, and possible border pressure.
+- Regional security role: [[in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74]] says an initial Gaza stabilization force could include a few hundred personnel from Morocco and [[Uganda]].
 
 ## Qualifications
-The sources do not independently prove Moroccan direction of the 2026 crossings. The wiki should preserve the distinction between confirmed geography and policy positions, reported or suspected border behavior, and migrants' own economic aspirations. The Gaza stabilization mention is a separate source-scoped role and should not be merged with the Ceuta branch.
+
+The bounded sources cover distinct periods and should not be compressed into a continuous national strategy. The Rif account is a narrative podcast with limited direct Moroccan testimony; casualty figures, chemical-weapon detail, and causal comparisons remain source-scoped. The modern sources do not independently prove Moroccan direction of the 2026 crossings, and migrants' economic agency should not be reduced to interstate pressure. The Gaza role is only a proposal.
 
 ## What Changed
-- Migrated Morocco to the synthesis-v1 entity schema.
-- Added the Huzuo Huyou source's historical and sovereignty-dispute context for Ceuta.
-- Kept migration weaponization as a qualified interpretation rather than a settled finding.
+
+- Added the Rif War as a major colonial and anti-colonial layer in northern Moroccan history.
+- Connected Abdel Krim's resistance to limited state-building as well as warfare.
+- Kept protectorate violence, modern sovereignty claims, migration leverage, and Gaza security roles analytically separate.
 
 ## Relationships
-- [[Ceuta]] - Spanish enclave bordering Morocco and claimed by Morocco.
-- [[Spain]] - sovereign counterpart in the Ceuta dispute.
-- [[WesternSahara]] - diplomatic issue linked to Morocco-Spain tension.
-- [[Algeria]] - regional rival affected by Spain's Western Sahara shift.
-- [[MigrationWeaponization]] - pressure mechanism attached to Ceuta border cooperation.
-- [[BorderLegalSignal]] - legal and rumor mechanism affecting crossings from Morocco into Ceuta.
-- [[InternationalStabilizationForce]] - separate Gaza implementation branch.
+
+- [[RifWar]] - colonial conflict that now anchors Morocco's early-20th-century branch.
+- [[MohammedAbdelKrim]] - Rif resistance leader and state-builder.
+- [[RepublicOfTheRif]] - unrecognized polity created after Annual.
+- [[Spain]] - colonial power, enclave sovereign, and modern diplomatic counterpart.
+- [[Ceuta]] - Spanish enclave bordering Morocco and claimed by it.
+- [[WesternSahara]] - territorial dispute shaping Morocco-Spain-Algeria diplomacy.
+- [[MigrationWeaponization]] - qualified mechanism attached to border cooperation.
+- [[InternationalStabilizationForce]] - separate prospective Gaza role.

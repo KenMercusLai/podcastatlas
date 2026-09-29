@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2195
+topic_total_pages: 2198
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1081,6 +1081,9 @@ topic_concepts:
   - key: "RewardAllocationBacklash"
     title: "Reward Allocation Backlash / 分配反噬"
     url: "/wiki/concepts/rewardallocationbacklash/"
+  - key: "RifWar"
+    title: "Rif War"
+    url: "/wiki/concepts/rifwar/"
   - key: "RitualRecognitionOfMilitaryPower"
     title: "Ritual Recognition of Military Power / 礼制承认军事权力"
     url: "/wiki/concepts/ritualrecognitionofmilitarypower/"
@@ -1165,6 +1168,9 @@ topic_concepts:
   - key: "SongYuanMaritimeTradeCenter"
     title: "Song-Yuan Maritime Trade Center"
     url: "/wiki/concepts/songyuanmaritimetradecenter/"
+  - key: "SpanishCivilWar"
+    title: "Spanish Civil War"
+    url: "/wiki/concepts/spanishcivilwar/"
   - key: "SportsAsHistoricalReadingFrame"
     title: "Sports As Historical Reading Frame"
     url: "/wiki/concepts/sportsashistoricalreadingframe/"
@@ -4728,6 +4734,9 @@ topic_sources:
   - key: "271-tangchao-douyao-bucunzai-le-weishenme-weishilun-hui-zai-jinnian-da-baofa-lg7-wdrdw1b9h7lwa4vwkvmyb4un"
     title: "271.唐朝都要不存在了？为什么伪史论会在今年大爆发？"
     url: "/wiki/sources/271-tangchao-douyao-bucunzai-le-weishenme-weishilun-hui-zai-jinnian-da-baofa-lg7-wdrdw1b9h7lwa4vwkvmyb4un/"
+  - key: "282-morocco-the-rif-war-glt7389759975"
+    title: "282: Morocco: The Rif War"
+    url: "/wiki/sources/282-morocco-the-rif-war-glt7389759975/"
   - key: "283-ecuador-darwins-adventure-to-the-galapagos-glt2992613399"
     title: "283: Ecuador: Darwin's Adventure to the Galapagos"
     url: "/wiki/sources/283-ecuador-darwins-adventure-to-the-galapagos-glt2992613399/"

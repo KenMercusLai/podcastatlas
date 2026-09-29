@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [282: Morocco: The Rif War](sources/282-morocco-the-rif-war-glt7389759975.md) — The Rest Is History episode on Abdel Krim, the Republic of the Rif, Spain's colonial disaster, modern military escalation, and the Army of Africa's later political role.
 - [VOL.01影像科｜医学影像科里“辐射”出来的那些事儿](sources/vol-01-yingxiangke-yixue-yingxiangke-li-fushe-chulai-de-naxie-shier-lgxelt6usztrpyoamymmk-v46-v8u.md) — 这病说来话长 episode on imaging modalities, radiation risk-benefit, MRI safety, contrast reactions, PET tracers, role separation, and bedside imaging.
 - [VOL.02影像科｜那些患者不想说的体内异物或致命｜喝醋能否软化被误吞的鱼刺｜要不要经常掏耳朵](sources/vol-02-yingxiangke-naxie-huanzhe-buxiang-shuo-de-tinei-yiwu-huo-zhiming-hecu-nengfou-ruanhua-bei-wutun-de-yuci-yaobuyao-jingchang-tao-erduo-lnflf1c5kthpz_8arhb2vux0b2zk.md) — 这病说来话长 episode on fish-bone and date-pit ingestion, retained rectal and urethral objects, truthful disclosure, symptom-poor risk, and ear-cleaning safety.
 - [India's Gig Economy, Education & The Future of Work | Chetan Bhagat | Tomorrow Today](sources/default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559-default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559.md) — Tomorrow Today interview with Chetan Bhagat on creativity, education and platform inequality, achievement, AI safety, human authorship, cognitive offloading, and a more examined definition of success.
@@ -3246,6 +3247,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [284: Denmark: The Great Escape](sources/284-denmark-the-great-escape-glt4809968647.md) — The Rest Is History episode on warning, civic networks, Oresund transport, Swedish refuge, and the multi-causal rescue of the Danish Jews.
 
 ## Entities
+- [Mohammed Abdel Krim](entities/MohammedAbdelKrim.md) — Rif jurist, resistance commander, and founder of the Republic of the Rif.
+- [Francisco Franco](entities/FranciscoFranco.md) — Spanish Africanist officer whose Rif War career shaped his later military authority.
+- [Republic of the Rif](entities/RepublicOfTheRif.md) — Unrecognized anti-colonial polity led by Abdel Krim after Annual.
+- [Army of Africa](entities/ArmyOfAfrica.md) — Spanish colonial formation linking Moroccan warfare to the later nationalist rebellion.
 - [Galapagos Islands / 加拉帕戈斯群岛](entities/GalapagosIslands.md) — Ecuadorian volcanic archipelago whose island variation became an emblem of Darwinian evolution and biodiversity fragility.
 - [HMS Beagle](entities/HMSBeagle.md) — Survey vessel connecting Darwin's South American and Galapagos field observations to later analysis in Britain.
 - [Robert FitzRoy](entities/RobertFitzRoy.md) — Beagle captain, Darwin's political contrast, and witness to the Galapagos' bleak volcanic landscape.
@@ -14711,6 +14716,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Christian X of Denmark](entities/ChristianXOfDenmark.md) — Occupation-era monarch symbolizing national continuity and Jewish civic inclusion while the yellow-star story remains a myth.
 
 ## Concepts
+- [Rif War](concepts/RifWar.md) — Colonial conflict joining Spanish imperial crisis, Rif resistance, state formation, and modern military escalation.
+- [Colonial War as Military Incubator](concepts/ColonialWarMilitaryIncubation.md) — Transfer of officers, forces, coercive practices, operations, and mythology from colonial war into later conflict.
+- [Spanish Civil War](concepts/SpanishCivilWar.md) — Bounded prehistory focused on the Army of Africa and Africanist officer culture.
 - [Natural Selection (Biology) / 生物学自然选择](concepts/NaturalSelectionBiology.md) — Biological process grounded here through island variation, local adaptation, and Darwin's gradual interpretation.
 - [Evolutionary Theory Formation](concepts/EvolutionaryTheoryFormation.md) — Distributed discovery process joining field observation, provenance, classification, comparison, publication, and revision.
 - [Island Variation as Evolutionary Evidence](concepts/IslandVariationEvolutionaryEvidence.md) — Comparative pattern in which related organisms differ across neighboring islands in evolutionarily informative ways.

@@ -13349,6 +13349,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/armedfollowerintegrationcost/"
     },
+    "ArmyOfAfrica": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7389759975 [GLT7389759975].md",
+          "key": "282-morocco-the-rif-war-glt7389759975",
+          "show": "The Rest Is History",
+          "title": "282: Morocco: The Rif War",
+          "url": "/wiki/sources/282-morocco-the-rif-war-glt7389759975/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/armyofafrica/"
+    },
     "ArmyParliamentDualSovereignty": {
       "episode_count": 1,
       "show_count": 1,
@@ -34374,6 +34390,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/colonialsurveydispossession/"
+    },
+    "ColonialWarMilitaryIncubation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7389759975 [GLT7389759975].md",
+          "key": "282-morocco-the-rif-war-glt7389759975",
+          "show": "The Rest Is History",
+          "title": "282: Morocco: The Rif War",
+          "url": "/wiki/sources/282-morocco-the-rif-war-glt7389759975/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/colonialwarmilitaryincubation/"
     },
     "ColorVisionDeficiency": {
       "episode_count": 1,
@@ -64678,6 +64710,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/franciswalsingham/"
+    },
+    "FranciscoFranco": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7389759975 [GLT7389759975].md",
+          "key": "282-morocco-the-rif-war-glt7389759975",
+          "show": "The Rest Is History",
+          "title": "282: Morocco: The Rif War",
+          "url": "/wiki/sources/282-morocco-the-rif-war-glt7389759975/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/franciscofranco/"
     },
     "FranciscoManuelDaSilva": {
       "episode_count": 1,
@@ -120626,6 +120674,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/mohammadmahoor/"
     },
+    "MohammedAbdelKrim": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7389759975 [GLT7389759975].md",
+          "key": "282-morocco-the-rif-war-glt7389759975",
+          "show": "The Rest Is History",
+          "title": "282: Morocco: The Rif War",
+          "url": "/wiki/sources/282-morocco-the-rif-war-glt7389759975/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/mohammedabdelkrim/"
+    },
     "MomoTimeApp": {
       "episode_count": 1,
       "show_count": 1,
@@ -121096,9 +121160,9 @@
       "url": "/wiki/concepts/morninglightcircadiananchoring/"
     },
     "Morocco": {
-      "episode_count": 3,
-      "show_count": 2,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "In arms’ way： Gaza-deal sticking points [6a71b49647235c354d3c9b74].md",
@@ -121120,9 +121184,16 @@
           "show": "忽左忽右",
           "title": "496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海",
           "url": "/wiki/sources/496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw/"
+        },
+        {
+          "episode_file": "GLT7389759975 [GLT7389759975].md",
+          "key": "282-morocco-the-rif-war-glt7389759975",
+          "show": "The Rest Is History",
+          "title": "282: Morocco: The Rif War",
+          "url": "/wiki/sources/282-morocco-the-rif-war-glt7389759975/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-30",
       "url": "/wiki/entities/morocco/"
     },
     "MortalityBoundedMeaning": {
@@ -145983,6 +146054,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/concepts/reproductivebodyomenpolitics/"
     },
+    "RepublicOfTheRif": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7389759975 [GLT7389759975].md",
+          "key": "282-morocco-the-rif-war-glt7389759975",
+          "show": "The Rest Is History",
+          "title": "282: Morocco: The Rif War",
+          "url": "/wiki/sources/282-morocco-the-rif-war-glt7389759975/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/republicoftherif/"
+    },
     "RepublicanCommandTransferCrisis": {
       "episode_count": 2,
       "show_count": 1,
@@ -147977,6 +148064,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/ridolfiplot/"
+    },
+    "RifWar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7389759975 [GLT7389759975].md",
+          "key": "282-morocco-the-rif-war-glt7389759975",
+          "show": "The Rest Is History",
+          "title": "282: Morocco: The Rif War",
+          "url": "/wiki/sources/282-morocco-the-rif-war-glt7389759975/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/rifwar/"
     },
     "RightHemisphereRelationalProcessing": {
       "episode_count": 1,
@@ -160758,6 +160861,99 @@
       "updated": "2026-09-15",
       "url": "/wiki/concepts/spacebasedaiinfrastructure/"
     },
+    "Spain": {
+      "episode_count": 12,
+      "show_count": 5,
+      "source_note_count": 12,
+      "sources": [
+        {
+          "episode_file": "GLT5069845329 [GLT5069845329].md",
+          "key": "693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329",
+          "show": "The Rest Is History",
+          "title": "693. Elizabeth I vs The Catholics: England's Greatest Hero (Part 3)",
+          "url": "/wiki/sources/693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329/"
+        },
+        {
+          "episode_file": "GLT1627515087 [GLT1627515087].md",
+          "key": "694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087",
+          "show": "The Rest Is History",
+          "title": "694. Elizabeth I vs The Catholics: A Treacherous Conspiracy (Part 4)",
+          "url": "/wiki/sources/694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087/"
+        },
+        {
+          "episode_file": "GLT5637968455 [GLT5637968455].md",
+          "key": "695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455",
+          "show": "The Rest Is History",
+          "title": "695. Elizabeth I vs The Catholics: The Shadow War (Part 5)",
+          "url": "/wiki/sources/695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455/"
+        },
+        {
+          "episode_file": "GLT2334035496 [GLT2334035496].md",
+          "key": "696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496",
+          "show": "The Rest Is History",
+          "title": "696. Elizabeth I vs The Catholics: Killing the Queen of Scots (Part 6)",
+          "url": "/wiki/sources/696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496/"
+        },
+        {
+          "episode_file": "Taken littorally： Spain’s sudden crisis in Ceuta [6a70712c034f16a52ebfaed7].md",
+          "key": "taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7",
+          "show": "Economist Podcasts",
+          "title": "Taken littorally: Spain’s sudden crisis in Ceuta",
+          "url": "/wiki/sources/taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7/"
+        },
+        {
+          "episode_file": "119.安乐死现场：正因生命如此珍贵 [770771087].md",
+          "key": "119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087",
+          "show": "蜜獾吃书",
+          "title": "119.安乐死现场：正因生命如此珍贵",
+          "url": "/wiki/sources/119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087/"
+        },
+        {
+          "episode_file": "Vol.262 去西班牙买足球俱乐部，一场荒诞的商业冒险 [992614191].md",
+          "key": "vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191",
+          "show": "商业就是这样",
+          "title": "Vol.262 去西班牙买足球俱乐部，一场荒诞的商业冒险",
+          "url": "/wiki/sources/vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_d157958109b7ba46db44643b7470c525_27716616 [default.mp3_ywr3ahjkcgo_d157958109b7ba46db44643b7470c525_27716616].md",
+          "key": "why-the-us-has-no-guaranteed-paid-vacation",
+          "show": "Planet Money",
+          "title": "Why the U.S. Has No Guaranteed Paid Vacation",
+          "url": "/wiki/sources/why-the-us-has-no-guaranteed-paid-vacation/"
+        },
+        {
+          "episode_file": "You’ve come a long way, Bibi： Israel’s crucial election [6a59f9ae461a6a41901ae410].md",
+          "key": "youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410",
+          "show": "Economist Podcasts",
+          "title": "You've come a long way, Bibi: Israel's crucial election",
+          "url": "/wiki/sources/youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410/"
+        },
+        {
+          "episode_file": "14.武士威廉：大航海时代的日本和西方 [555771285].md",
+          "key": "14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285",
+          "show": "蜜獾吃书",
+          "title": "14.武士威廉：大航海时代的日本和西方",
+          "url": "/wiki/sources/14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285/"
+        },
+        {
+          "episode_file": "Burning questions： a more fire-prone world [6a687ea64207b2a60119df8b].md",
+          "key": "burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b",
+          "show": "Economist Podcasts",
+          "title": "Burning questions: a more fire-prone world",
+          "url": "/wiki/sources/burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b/"
+        },
+        {
+          "episode_file": "GLT7389759975 [GLT7389759975].md",
+          "key": "282-morocco-the-rif-war-glt7389759975",
+          "show": "The Rest Is History",
+          "title": "282: Morocco: The Rif War",
+          "url": "/wiki/sources/282-morocco-the-rif-war-glt7389759975/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/spain/"
+    },
     "SpanishCaribbeanExpansion": {
       "episode_count": 2,
       "show_count": 1,
@@ -160780,6 +160976,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/spanishcaribbeanexpansion/"
+    },
+    "SpanishCivilWar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7389759975 [GLT7389759975].md",
+          "key": "282-morocco-the-rif-war-glt7389759975",
+          "show": "The Rest Is History",
+          "title": "282: Morocco: The Rif War",
+          "url": "/wiki/sources/282-morocco-the-rif-war-glt7389759975/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/spanishcivilwar/"
     },
     "SpanishConquestOfMexico": {
       "episode_count": 8,

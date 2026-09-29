@@ -25618,3 +25618,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-30] ingest | 282: Morocco: The Rif War
+
+Added source `282-morocco-the-rif-war-glt7389759975`; created `MohammedAbdelKrim`, `FranciscoFranco`, `RepublicOfTheRif`, `ArmyOfAfrica`, `RifWar`, `ColonialWarMilitaryIncubation`, and a bounded `SpanishCivilWar` prehistory; resynthesized `Morocco` and `Spain` from their preserved evidence inventories. Core synthesis: the Rif conflict joined anti-colonial resistance and state-building to Spanish imperial crisis, modern coercive methods, and an Army of Africa whose personnel and political culture later mattered in Spain. No settled contradiction was found; casualty totals, chemical and aerial warfare details, operational-first claims, and direct causation remain source-scoped.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

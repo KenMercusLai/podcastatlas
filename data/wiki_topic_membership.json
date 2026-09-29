@@ -1477,6 +1477,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "282-morocco-the-rif-war-glt7389759975": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "283-ecuador-darwins-adventure-to-the-galapagos-glt2992613399": [
     {
       "key": "history",
@@ -64768,6 +64775,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "RifWar": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "RightHemisphereRelationalProcessing": [
     {
       "key": "science",
@@ -70615,6 +70629,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "SpanishCivilWar": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "SpanishImperialMonopolyVulnerability": [
