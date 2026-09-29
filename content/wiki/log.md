@@ -25303,3 +25303,10 @@ Added source `vol-16-jizhen-weizhongbingke-yangkang-de-jizhen-yisheng-liao-xingu
 ## [2026-09-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-09-29] ingest | How to Access Your Creativity | Rick Rubin
+
+Added source `how-to-access-your-creativity-rick-rubin-scim6664103159`; updated `RickRubin`, `CreativityAsFeltProcess`, `CreativePhaseSeparation`, `CreativeReceptivityAndIdeaCapture`, `SubconsciousCreativeIncubation`, `SelfDoubtAsCreativeCheck`, `ArtisticFeedbackBoundary`, `AwarenessMeditationStoryDropping`, `CreativeApertureShift`, `OutcomeIndependentCreativePractice`, and the canonical index from their complete bounded source sets. Core synthesis: creative work combines receptive attention and felt taste with productive constraints, direct experimentation, phase-appropriate deadlines, deliberate disengagement, and commitment to finish; outside response remains information rather than final authority, while perception and meditation can expose habitual stories and filters. No settled contradiction was adopted. Claims about a universal creative source, subconscious causation, belief, meditation, and unconventional health approaches remain philosophical, experiential, or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten because existing canonical concepts already cover the episode's themes.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

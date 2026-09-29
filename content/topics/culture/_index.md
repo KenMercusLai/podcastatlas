@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2912
+topic_total_pages: 2913
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -8376,6 +8376,9 @@ topic_sources:
   - key: "how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815"
     title: "How to Accelerate Learning & Improve Education | Joe Liemandt"
     url: "/wiki/sources/how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815/"
+  - key: "how-to-access-your-creativity-rick-rubin-scim6664103159"
+    title: "How to Access Your Creativity | Rick Rubin"
+    url: "/wiki/sources/how-to-access-your-creativity-rick-rubin-scim6664103159/"
   - key: "how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733"
     title: "How to Better Regulate Your Emotions | Dr. Marc Brackett"
     url: "/wiki/sources/how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733/"

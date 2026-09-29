@@ -491,8 +491,8 @@
       "earliest_episode_date": "2020-12-21",
       "latest_episode_date": "2026-09-28",
       "latest_episode_file": "SCIM4063268713 [SCIM4063268713].md",
-      "source_note_count": 201,
-      "topic_matched_source_note_count": 107,
+      "source_note_count": 202,
+      "topic_matched_source_note_count": 108,
       "topics": [
         {
           "key": "science",
@@ -504,7 +504,7 @@
           "key": "culture",
           "label": "Culture",
           "url": "/topics/culture/",
-          "source_note_count": 9
+          "source_note_count": 10
         },
         {
           "key": "technology",
@@ -570,11 +570,11 @@
           "episode_count": 3
         },
         {
-          "key": "CarolDweck",
-          "title": "Carol Dweck",
-          "url": "/wiki/entities/caroldweck/",
+          "key": "RickRubin",
+          "title": "Rick Rubin",
+          "url": "/wiki/entities/rickrubin/",
           "kind": "person",
-          "episode_count": 2
+          "episode_count": 3
         }
       ],
       "start_here_episode_files": [
