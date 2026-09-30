@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 8999
+wiki_total_pages: 9002
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -1145,6 +1145,9 @@ wiki_pages:
   - key: "RomanticDeathEscape"
     title: "Romantic Death Escape / 浪漫化死亡逃避"
     url: "/wiki/concepts/romanticdeathescape/"
+  - key: "RomanticNatureUnity"
+    title: "Romantic Nature Unity"
+    url: "/wiki/concepts/romanticnatureunity/"
   - key: "RomanticProjectionTrap"
     title: "Romantic Projection Trap"
     url: "/wiki/concepts/romanticprojectiontrap/"

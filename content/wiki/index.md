@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [234. Germans Behaving Badly](sources/234-germans-behaving-badly-glt7143029609.md) — The Rest Is History conversation with Andrea Wulf on Jena Romanticism, responsible selfhood, nature, hidden intellectual labor, personal conflict, and the movement's Napoleonic ending.
 - [Nicotine’s Effects on the Brain & Body & How to Quit Smoking or Vaping](sources/nicotines-effects-on-the-brain-body-how-to-quit-smoking-or-vaping-scim2598262635.md) — Huberman Lab solo episode on nicotine receptors, attention, reward, delivery speed, vaping risk, withdrawal, and clinically bounded cessation support.
 - [Biology & Treatments for Compulsive Behaviors & Binge Eating | Dr. Casey Halpern](sources/biology-treatments-for-compulsive-behaviors-binge-eating-dr-casey-halpern-scim4911670131.md) — Full Huberman Lab interview on loss-of-control eating, responsive DBS, craving-signal mapping, OCD, focused ultrasound, and the invasive-to-non-invasive treatment pathway.
 - [237. Marilyn Monroe](sources/237-marilyn-monroe-glt5351991903.md) — The Rest Is History episode on Monroe's professional image-making, studio power, uncertain biography, consumer celebrity, death, and mythic afterlife.
@@ -3328,6 +3329,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [235. China and World War II (Part 1)](sources/235-china-and-world-war-ii-part-1-glt2114682484.md) — The Rest Is History episode with Rana Mitter on rival global-war start dates, Chinese fragmentation, Japanese imperial expansion, the 1937 escalation, and the Battle of Shanghai.
 
 ## Entities
+- [Andrea Wulf](entities/AndreaWulf.md) — Historian interpreting the Jena circle as a social and intellectual experiment in responsible selfhood, interdisciplinary synthesis, and conflict.
+- [Johann Gottlieb Fichte](entities/JohannGottliebFichte.md) — Philosopher whose active-self account and duty-bound freedom catalyzed the Jena circle.
+- [Caroline Schlegel Schelling](entities/CarolineSchlegelSchelling.md) — Critic, editor, translator, and organizer whose central intellectual labor was constrained by gendered attribution.
 - [Marilyn Monroe](entities/MarilynMonroe.md) — American actor and model whose disciplined screen persona became a durable symbol of Hollywood, consumer culture, and biographical uncertainty.
 - [Sarah Churchwell](entities/SarahChurchwell.md) — Scholar whose Monroe work supplies an evidence-conscious method for separating repeated celebrity stories from verified biography.
 - [Hilary Davidson](entities/HilaryDavidson.md) — Fashion historian and curator interpreting Regency dress through garments, bodies, commerce, infrastructure, and multi-causal change.
@@ -11620,7 +11624,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [John Stuart Mill / 穆勒](entities/JohnStuartMill.md) — Liberal philosopher used to test self-regarding conduct, harm, paternalism, and non-waivable freedom.
 - [Jeremy Bentham / 边沁](entities/JeremyBentham.md) — Utilitarian philosopher used in the episode's punishment-theory discussion of deterrence and social welfare.
 - [Immanuel Kant / 康德](entities/ImmanuelKant.md) — Retributivist punishment reference used to connect punishment with responsibility, dignity, and proportionality.
-- [G. W. F. Hegel / 黑格尔](entities/GWFHegel.md) — Retributivist punishment reference paired with Kant in the episode's discussion of responsibility and dignity.
+- [G. W. F. Hegel / 黑格尔](entities/GWFHegel.md) — Philosopher represented through late Jena intellectual transition and responsibility-based retributive punishment.
 - [Magna Carta / 大宪章](entities/MagnaCarta.md) — Historical document used as a symbol of law limiting royal and state punishment power.
 - [Richard Jewell / 理查德·朱维尔](entities/RichardJewell.md) — Atlanta Olympics security guard used as an example of suspicion, media pressure, and investigative overreach before exoneration.
 - [金庸 / Jin Yong](entities/JinYong.md) — Wuxia writer and newspaper editor read through cultural craft, political critique, and his mentorship and disputes with Lin Xingzhi.
@@ -14971,6 +14975,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Battle of Shanghai (1937)](entities/BattleOfShanghai1937.md) — Costly three-month Nationalist stand chosen for military concentration and international visibility.
 
 ## Concepts
+- [Jena Romanticism](concepts/JenaRomanticism.md) — Late-18th-century movement joining active selfhood, responsible freedom, nature, art, science, imagination, and dense collaborative life.
+- [Freedom, Duty, and Selfhood](concepts/FreedomDutyAndSelfhood.md) — Ethical distinction between self-determination as responsible agency and self-centeredness as exemption from obligation.
+- [Romantic Nature Unity](concepts/RomanticNatureUnity.md) — Organismic view of self and nature that retains reason while adding imagination, wonder, and participatory knowledge.
 - [Nicotine Neurobiology and Dependence](concepts/NicotineNeurobiologyAndDependence.md) — Receptor, neuromodulator, delivery-speed, tolerance, withdrawal, and dependence framework for nicotine.
 - [Celebrity Image Afterlife](concepts/CelebrityImageAfterlife.md) — Process by which detachable images and later events preserve a public figure as a reusable symbol while obscuring the historical person.
 - [Responsive Deep Brain Stimulation](concepts/ResponsiveDeepBrainStimulation.md) — Closed-loop neuromodulation that detects a selected neural state and delivers brief stimulation rather than stimulating continuously.
@@ -21073,7 +21080,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Celtic Otherworld](concepts/CelticOtherworld.md) — Hidden Celtic rule-world frame around sidhe, fairy-like survival, altered time, and heroic otherworld spaces.
 - [Science Fiction As Contemporary Science Integration / 科幻作为当代科学整合](concepts/ScienceFictionContemporaryScienceIntegration.md) — Episode 141 frame for judging early science fiction by how it absorbs its own era's live science and anxiety.
 - [Scientific Anxiety As Literary Material / 科学焦虑作为文学材料](concepts/ScientificAnxietyLiteraryMaterial.md) — Pattern where unsettled science becomes story pressure without requiring simple anti-science rejection.
-- [Romantic Science Culture / 浪漫主义科学文化](concepts/RomanticScienceCulture.md) — Period frame where poetry, radical politics, natural philosophy, electricity, medicine, and life speculation overlap.
+- [Romantic Science Culture / 浪漫主义科学文化](concepts/RomanticScienceCulture.md) — European cultural overlap among philosophy, literature, political radicalism, nature, experiment, medicine, and speculation about life.
 - [Vitalism And Life-Principle Debate / 活力论与生命本质争论](concepts/VitalismLifePrincipleDebate.md) — Early life-science controversy over whether life is organized matter, a vital fluid, or another special principle.
 - [Animal Electricity Debate / 动物电争论](concepts/AnimalElectricityDebate.md) — Galvani-Volta controversy around whether living bodies contain their own electricity.
 - [Galvanic Reanimation Imaginary / 伽伐尼式复活想象](concepts/GalvanicReanimationImaginary.md) — Cultural pattern where electrical movement in tissue suggests possible return of life.

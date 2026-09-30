@@ -26188,3 +26188,15 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | 234. Germans Behaving Badly
+
+Added source `234-germans-behaving-badly-glt7143029609`; created `AndreaWulf`, `JohannGottliebFichte`, `CarolineSchlegelSchelling`, `JenaRomanticism`, `FreedomDutyAndSelfhood`, and `RomanticNatureUnity`; and resynthesized `GWFHegel` and `RomanticScienceCulture` from their complete preserved evidence inventories. Core synthesis: the Jena circle made the active self central to knowledge and freedom while binding freedom to moral duty, joining reason and imagination across art, science, self, and nature, and exposing the gendered labor and interpersonal instability inside its experiment. No settled contradiction was adopted. Philosophical priority, exact influence paths, biographical motives, reported dialogue, numerical claims, and broad modern analogies remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten because this 1790s intellectual-history episode is a historical backfill rather than a change to the global current synthesis; downstream synthesis refresh only reads it.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

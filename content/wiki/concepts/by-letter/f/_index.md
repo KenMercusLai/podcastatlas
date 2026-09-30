@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 8999
+wiki_total_pages: 9002
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1175,6 +1175,9 @@ wiki_pages:
   - key: "FreedomOfNavigationTradeOrder"
     title: "Freedom of Navigation Trade Order"
     url: "/wiki/concepts/freedomofnavigationtradeorder/"
+  - key: "FreedomDutyAndSelfhood"
+    title: "Freedom, Duty, and Selfhood"
+    url: "/wiki/concepts/freedomdutyandselfhood/"
   - key: "FreelanceMarketExposure"
     title: "Freelance Market Exposure / 自由职业市场暴露"
     url: "/wiki/concepts/freelancemarketexposure/"

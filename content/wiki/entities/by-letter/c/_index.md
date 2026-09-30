@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 11609
+wiki_total_pages: 11612
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -281,6 +281,9 @@ wiki_pages:
   - key: "CarolineBuck"
     title: "Caroline Buck"
     url: "/wiki/entities/carolinebuck/"
+  - key: "CarolineSchlegelSchelling"
+    title: "Caroline Schlegel Schelling"
+    url: "/wiki/entities/carolineschlegelschelling/"
   - key: "CarolineWalkerBynum"
     title: "Caroline Walker Bynum"
     url: "/wiki/entities/carolinewalkerbynum/"

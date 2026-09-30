@@ -10267,6 +10267,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/andingcommandery/"
     },
+    "AndreaWulf": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7143029609 [GLT7143029609].md",
+          "key": "234-germans-behaving-badly-glt7143029609",
+          "show": "The Rest Is History",
+          "title": "234. Germans Behaving Badly",
+          "url": "/wiki/sources/234-germans-behaving-badly-glt7143029609/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/andreawulf/"
+    },
     "AndreasKarlstadt": {
       "episode_count": 3,
       "show_count": 1,
@@ -27235,6 +27251,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/caroldweck/"
+    },
+    "CarolineSchlegelSchelling": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7143029609 [GLT7143029609].md",
+          "key": "234-germans-behaving-badly-glt7143029609",
+          "show": "The Rest Is History",
+          "title": "234. Germans Behaving Badly",
+          "url": "/wiki/sources/234-germans-behaving-badly-glt7143029609/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/carolineschlegelschelling/"
     },
     "CarolineWalkerBynum": {
       "episode_count": 1,
@@ -67940,6 +67972,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/concepts/freewill/"
     },
+    "FreedomDutyAndSelfhood": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7143029609 [GLT7143029609].md",
+          "key": "234-germans-behaving-badly-glt7143029609",
+          "show": "The Rest Is History",
+          "title": "234. Germans Behaving Badly",
+          "url": "/wiki/sources/234-germans-behaving-badly-glt7143029609/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/freedomdutyandselfhood/"
+    },
     "Freemasonry": {
       "episode_count": 1,
       "show_count": 1,
@@ -70208,6 +70256,29 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/gtsquared/"
+    },
+    "GWFHegel": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "100.法律的悖论：谢天谢地，幸好我们还有罗翔 [733477302].md",
+          "key": "100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302",
+          "show": "蜜獾吃书",
+          "title": "100.法律的悖论：谢天谢地，幸好我们还有罗翔",
+          "url": "/wiki/sources/100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302/"
+        },
+        {
+          "episode_file": "GLT7143029609 [GLT7143029609].md",
+          "key": "234-germans-behaving-badly-glt7143029609",
+          "show": "The Rest Is History",
+          "title": "234. Germans Behaving Badly",
+          "url": "/wiki/sources/234-germans-behaving-badly-glt7143029609/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/gwfhegel/"
     },
     "GabrielAttal": {
       "episode_count": 2,
@@ -96221,6 +96292,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/jeffreyhollender/"
     },
+    "JenaRomanticism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7143029609 [GLT7143029609].md",
+          "key": "234-germans-behaving-badly-glt7143029609",
+          "show": "The Rest Is History",
+          "title": "234. Germans Behaving Badly",
+          "url": "/wiki/sources/234-germans-behaving-badly-glt7143029609/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/jenaromanticism/"
+    },
     "JennieJerome": {
       "episode_count": 1,
       "show_count": 1,
@@ -98120,6 +98207,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/entities/johanneck/"
+    },
+    "JohannGottliebFichte": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7143029609 [GLT7143029609].md",
+          "key": "234-germans-behaving-badly-glt7143029609",
+          "show": "The Rest Is History",
+          "title": "234. Germans Behaving Badly",
+          "url": "/wiki/sources/234-germans-behaving-badly-glt7143029609/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/johanngottliebfichte/"
     },
     "JohannLoschek": {
       "episode_count": 1,
@@ -155342,6 +155445,45 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/romanceofthethreekingdoms/"
+    },
+    "RomanticNatureUnity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7143029609 [GLT7143029609].md",
+          "key": "234-germans-behaving-badly-glt7143029609",
+          "show": "The Rest Is History",
+          "title": "234. Germans Behaving Badly",
+          "url": "/wiki/sources/234-germans-behaving-badly-glt7143029609/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/romanticnatureunity/"
+    },
+    "RomanticScienceCulture": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "141. 制造弗兰肯斯坦：科幻之母和她的神奇时代 [857923931].md",
+          "key": "141-zhizao-fulankensitan-kehuan-zhimu-he-tade-shenqi-shidai-857923931",
+          "show": "蜜獾吃书",
+          "title": "141. 制造弗兰肯斯坦：科幻之母和她的神奇时代",
+          "url": "/wiki/sources/141-zhizao-fulankensitan-kehuan-zhimu-he-tade-shenqi-shidai-857923931/"
+        },
+        {
+          "episode_file": "GLT7143029609 [GLT7143029609].md",
+          "key": "234-germans-behaving-badly-glt7143029609",
+          "show": "The Rest Is History",
+          "title": "234. Germans Behaving Badly",
+          "url": "/wiki/sources/234-germans-behaving-badly-glt7143029609/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/romanticscienceculture/"
     },
     "RomanticizedWarMoralAmbivalence": {
       "episode_count": 1,
