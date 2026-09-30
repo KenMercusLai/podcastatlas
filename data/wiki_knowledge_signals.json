@@ -36639,9 +36639,9 @@
       "url": "/wiki/concepts/constipationsystemichealthsignal/"
     },
     "ConstituentNationSportingIdentity": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2603959218 [GLT2603959218].md",
@@ -36649,9 +36649,16 @@
           "show": "The Rest Is History",
           "title": "678. Britain: God Save the King (Part 2)",
           "url": "/wiki/sources/678-britain-god-save-the-king-part-2-glt2603959218/"
+        },
+        {
+          "episode_file": "GLT2657098007 [GLT2657098007].md",
+          "key": "267-wales-the-roar-of-the-red-dragon-glt2657098007",
+          "show": "The Rest Is History",
+          "title": "267: Wales: The Roar of the Red Dragon",
+          "url": "/wiki/sources/267-wales-the-roar-of-the-red-dragon-glt2657098007/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-30",
       "url": "/wiki/concepts/constituentnationsportingidentity/"
     },
     "ConstitutionHillJohannesburg": {
@@ -117539,6 +117546,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/medievalvisualpoliticalnarrative/"
     },
+    "MedievalWelshColonialRule": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2657098007 [GLT2657098007].md",
+          "key": "267-wales-the-roar-of-the-red-dragon-glt2657098007",
+          "show": "The Rest Is History",
+          "title": "267: Wales: The Roar of the Red Dragon",
+          "url": "/wiki/sources/267-wales-the-roar-of-the-red-dragon-glt2657098007/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/medievalwelshcolonialrule/"
+    },
     "MediterraneanDietModernConstruction": {
       "episode_count": 1,
       "show_count": 1,
@@ -131336,9 +131359,9 @@
       "url": "/wiki/concepts/overseaswarehouseinventoryrisk/"
     },
     "OwainGlyndwr": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT8391310611 [GLT8391310611].md",
@@ -131353,9 +131376,16 @@
           "show": "The Rest Is History",
           "title": "485. Henry IV: The Usurper King (Part 1)",
           "url": "/wiki/sources/485-henry-iv-the-usurper-king-part-1-glt8868267122/"
+        },
+        {
+          "episode_file": "GLT2657098007 [GLT2657098007].md",
+          "key": "267-wales-the-roar-of-the-red-dragon-glt2657098007",
+          "show": "The Rest Is History",
+          "title": "267: Wales: The Roar of the Red Dragon",
+          "url": "/wiki/sources/267-wales-the-roar-of-the-red-dragon-glt2657098007/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-30",
       "url": "/wiki/entities/owainglyndwr/"
     },
     "OwenZidar": {
@@ -136440,6 +136470,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/placebonoceboexpectationeffects/"
+    },
+    "PlaidCymru": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2657098007 [GLT2657098007].md",
+          "key": "267-wales-the-roar-of-the-red-dragon-glt2657098007",
+          "show": "The Rest Is History",
+          "title": "267: Wales: The Roar of the Red Dragon",
+          "url": "/wiki/sources/267-wales-the-roar-of-the-red-dragon-glt2657098007/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/plaidcymru/"
     },
     "PlainsSocietyHistoricalDynamism": {
       "episode_count": 1,
@@ -175782,6 +175828,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/truthseekingdebatenorm/"
     },
+    "Tryweryn": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2657098007 [GLT2657098007].md",
+          "key": "267-wales-the-roar-of-the-red-dragon-glt2657098007",
+          "show": "The Rest Is History",
+          "title": "267: Wales: The Roar of the Red Dragon",
+          "url": "/wiki/sources/267-wales-the-roar-of-the-red-dragon-glt2657098007/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/tryweryn/"
+    },
     "TsaiEngMeng": {
       "episode_count": 1,
       "show_count": 1,
@@ -180229,6 +180291,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/wahahapurewater/"
     },
+    "Wales": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2657098007 [GLT2657098007].md",
+          "key": "267-wales-the-roar-of-the-red-dragon-glt2657098007",
+          "show": "The Rest Is History",
+          "title": "267: Wales: The Roar of the Red Dragon",
+          "url": "/wiki/sources/267-wales-the-roar-of-the-red-dragon-glt2657098007/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/wales/"
+    },
     "WallStreetPrivateMortgageCapital": {
       "episode_count": 1,
       "show_count": 1,
@@ -184199,6 +184277,38 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/welcometomilelevillage/"
+    },
+    "WelshLanguageShift": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2657098007 [GLT2657098007].md",
+          "key": "267-wales-the-roar-of-the-red-dragon-glt2657098007",
+          "show": "The Rest Is History",
+          "title": "267: Wales: The Roar of the Red Dragon",
+          "url": "/wiki/sources/267-wales-the-roar-of-the-red-dragon-glt2657098007/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/welshlanguageshift/"
+    },
+    "WelshNationalIdentity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2657098007 [GLT2657098007].md",
+          "key": "267-wales-the-roar-of-the-red-dragon-glt2657098007",
+          "show": "The Rest Is History",
+          "title": "267: Wales: The Roar of the Red Dragon",
+          "url": "/wiki/sources/267-wales-the-roar-of-the-red-dragon-glt2657098007/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/welshnationalidentity/"
     },
     "WenChouLateHan": {
       "episode_count": 2,

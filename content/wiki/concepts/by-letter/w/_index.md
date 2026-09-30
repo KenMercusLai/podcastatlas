@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 8895
+wiki_total_pages: 8898
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -197,6 +197,12 @@ wiki_pages:
   - key: "WeismannBarrier"
     title: "Weismann Barrier"
     url: "/wiki/concepts/weismannbarrier/"
+  - key: "WelshLanguageShift"
+    title: "Welsh Language Shift"
+    url: "/wiki/concepts/welshlanguageshift/"
+  - key: "WelshNationalIdentity"
+    title: "Welsh National Identity"
+    url: "/wiki/concepts/welshnationalidentity/"
   - key: "WenWangGuanrenFa"
     title: "Wen Wang Guanren Fa / 文王官人法"
     url: "/wiki/concepts/wenwangguanrenfa/"

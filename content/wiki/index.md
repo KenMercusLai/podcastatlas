@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [267: Wales: The Roar of the Red Dragon](sources/267-wales-the-roar-of-the-red-dragon-glt2657098007.md) — The Rest Is History episode on Welsh identity, medieval conquest, language shift, industrialisation, sport, nationalism, and constitutional interdependence.
 - [268: Brazil: The Last Emperor](sources/268-brazil-the-last-emperor-glt5634696575.md) — The Rest Is History episode on Pedro II, slavery-dependent imperial stability, science and national culture, abolition, and the elite-led republican coup.
 - [269: Ghana: The Ashanti Empire](sources/269-ghana-the-ashanti-empire-glt3638102749.md) — The Rest Is History episode on Asante state formation, the Golden Stool, Kumasi, military-commercial power, Anglo-Asante conflict, and symbolic continuity.
 - [270: Poland: Copernicus, the Dragon and the Salt Mine](sources/270-poland-copernicus-the-dragon-and-the-salt-mine-glt2590789810.md) — The Rest Is History tour of seven Polish wonders linking European trade and exchange, layered national memory, Jewish destruction, occupation, conservation, and tourism.
@@ -3265,6 +3266,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Using Caffeine to Optimize Mental & Physical Performance](sources/using-caffeine-to-optimize-mental-physical-performance-scim1210768101.md) — Huberman Lab solo episode on adenosine blockade, caffeine timing and dose, performance, memory, learned reinforcement, tolerance, sleep, and stacking risks.
 
 ## Entities
+- [Wales](entities/Wales.md) — Constituent nation shaped by conquest, industrial transformation, language shift, sporting identity, and constitutional interdependence with England.
+- [Plaid Cymru](entities/PlaidCymru.md) — Welsh nationalist party whose early language-preservation focus widened into constitutional self-government politics.
+- [Tryweryn](entities/Tryweryn.md) — Flooded Welsh community remembered as a symbol of landscape, language, and parliamentary inequality.
 - [Denkyira](entities/Denkyira.md) — Dominant Akan polity whose defeat opens the episode's account of Asante expansion.
 - [Osei Tutu](entities/OseiTutu.md) — Political founder associated with Asante integration, Kumasi, and military consolidation.
 - [Okomfo Anokye](entities/OkomfoAnokye.md) — Sacred and strategic founder paired with Osei Tutu in the Asante origin narrative.
@@ -14790,6 +14794,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Wieliczka Salt Mine](entities/WieliczkaSaltMine.md) — Royal salt industry transformed into an underground religious-art, tourism, and national-memory complex.
 
 ## Concepts
+- [Welsh National Identity](concepts/WelshNationalIdentity.md) — Multi-carrier national identity sustained through language, history, sport, political memory, and narratives of survival.
+- [Welsh Language Shift](concepts/WelshLanguageShift.md) — Multi-causal decline shaped by unequal power, schooling, opportunity, stigma, industrial migration, and local adaptation.
+- [Medieval Welsh Colonial Rule](concepts/MedievalWelshColonialRule.md) — Bounded framework treating English conquest plus ethnic legal inequality as colonial while rejecting direct projection onto modern Wales.
 - [Abolition Monarchy Coalition Collapse](concepts/AbolitionMonarchyCoalitionCollapse.md) — Brazilian mechanism linking gradual reform, emancipation, planter defection, and an officer-led end to monarchy.
 - [Sacred Symbolic State Formation](concepts/SacredSymbolicStateFormation.md) — How sacred objects, founding narrative, ceremony, and visible rank can integrate and defend a polity.
 - [Polish Built-Heritage Palimpsest](concepts/PolishBuiltHeritagePalimpsest.md) — Framework reading Polish landmarks as layered products of trade, dynasty, religion, border change, occupation, conservation, and tourism.

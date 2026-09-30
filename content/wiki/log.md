@@ -25760,3 +25760,11 @@ Added source `268-brazil-the-last-emperor-glt5634696575`; created `AbolitionMona
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-30] ingest | 267: Wales: The Roar of the Red Dragon
+
+Added source `267-wales-the-roar-of-the-red-dragon-glt2657098007`; created `Wales`, `PlaidCymru`, `Tryweryn`, `WelshNationalIdentity`, `WelshLanguageShift`, and `MedievalWelshColonialRule`; and resynthesized `OwainGlyndwr` and `ConstituentNationSportingIdentity` from their complete bounded source sets. Core synthesis: medieval conquest and ethnic legal inequality can support a bounded colonial reading, but modern Welshness is better understood as a language-, history-, sport-, class-, migration-, and memory-bearing identity embedded in deep interdependence with England and the United Kingdom. No settled contradiction was adopted. Population and polling figures, medieval legal scope, the balance among schooling and migration in language decline, and predictions about federalism remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

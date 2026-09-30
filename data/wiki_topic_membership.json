@@ -1395,6 +1395,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "267-wales-the-roar-of-the-red-dragon-glt2657098007": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs": [
     {
       "key": "technology",
@@ -50737,6 +50744,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "MedievalWelshColonialRule": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "MeditationsOnFirstPhilosophy": [
     {
       "key": "culture",
@@ -80203,6 +80217,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "Wales": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "WallStreetJournal": [
     {
       "key": "culture",
@@ -81519,6 +81540,20 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "WelshLanguageShift": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "WelshNationalIdentity": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "WembleyStadium": [

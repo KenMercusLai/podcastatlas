@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 8895
+wiki_total_pages: 8898
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -512,6 +512,9 @@ wiki_pages:
   - key: "MedievalVisualPoliticalNarrative"
     title: "Medieval Visual Political Narrative"
     url: "/wiki/concepts/medievalvisualpoliticalnarrative/"
+  - key: "MedievalWelshColonialRule"
+    title: "Medieval Welsh Colonial Rule"
+    url: "/wiki/concepts/medievalwelshcolonialrule/"
   - key: "MeditativeStabilityPractice"
     title: "Meditative Stability Practice / 定力修行框架"
     url: "/wiki/concepts/meditativestabilitypractice/"

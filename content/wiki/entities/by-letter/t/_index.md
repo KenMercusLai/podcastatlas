@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 11496
+wiki_total_pages: 11499
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1094,6 +1094,9 @@ wiki_pages:
   - key: "TruthSocial"
     title: "Truth Social"
     url: "/wiki/entities/truthsocial/"
+  - key: "Tryweryn"
+    title: "Tryweryn"
+    url: "/wiki/entities/tryweryn/"
   - key: "TSAnil"
     title: "TS Anil"
     url: "/wiki/entities/tsanil/"
