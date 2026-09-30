@@ -1374,6 +1374,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "233-the-loch-ness-monster-glt3620889030": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "235-china-and-world-war-ii-part-1-glt2114682484": [
     {
       "key": "history",
@@ -22885,6 +22892,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "CryptidLegendFormation": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "CryptoConsumerConfidence": [
@@ -50621,6 +50635,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "MarmadukeWeatherall": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "MarquessOfQueensberry": [
     {
       "key": "politics",
@@ -51216,6 +51237,13 @@
       "label": "Technology",
       "url": "/topics/technology/"
     },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "MediaEvidenceFeedbackLoop": [
     {
       "key": "culture",
       "label": "Culture",

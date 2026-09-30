@@ -40706,6 +40706,22 @@
       "updated": "2026-09-24",
       "url": "/wiki/concepts/cruisetoresortintegration/"
     },
+    "CryptidLegendFormation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3620889030 [GLT3620889030].md",
+          "key": "233-the-loch-ness-monster-glt3620889030",
+          "show": "The Rest Is History",
+          "title": "233. The Loch Ness Monster",
+          "url": "/wiki/sources/233-the-loch-ness-monster-glt3620889030/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/cryptidlegendformation/"
+    },
     "CryptoPaymentPracticalityGap": {
       "episode_count": 2,
       "show_count": 2,
@@ -42064,6 +42080,29 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/dailyhydrationtiming/"
+    },
+    "DailyMail": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "tech_20260220_0220_MP_TECH_pod_128 [tech_20260220_0220_MP_TECH_pod_128].md",
+          "key": "tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Google to make links more prominent, Palantir moves to Florida and Ring reportedly had plans to use Search Party for more than finding lost dogs",
+          "url": "/wiki/sources/tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "GLT3620889030 [GLT3620889030].md",
+          "key": "233-the-loch-ness-monster-glt3620889030",
+          "show": "The Rest Is History",
+          "title": "233. The Loch Ness Monster",
+          "url": "/wiki/sources/233-the-loch-ness-monster-glt3620889030/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/dailymail/"
     },
     "DairyCategoryPremiumization": {
       "episode_count": 1,
@@ -112090,6 +112129,38 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/localizedproductdefinition/"
     },
+    "LochNess": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3620889030 [GLT3620889030].md",
+          "key": "233-the-loch-ness-monster-glt3620889030",
+          "show": "The Rest Is History",
+          "title": "233. The Loch Ness Monster",
+          "url": "/wiki/sources/233-the-loch-ness-monster-glt3620889030/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/lochness/"
+    },
+    "LochNessMonster": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3620889030 [GLT3620889030].md",
+          "key": "233-the-loch-ness-monster-glt3620889030",
+          "show": "The Rest Is History",
+          "title": "233. The Loch Ness Monster",
+          "url": "/wiki/sources/233-the-loch-ness-monster-glt3620889030/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/lochnessmonster/"
+    },
     "LockedInSyndromeAssistiveCommunication": {
       "episode_count": 2,
       "show_count": 2,
@@ -118959,6 +119030,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/concepts/marketingscienceuserpath/"
     },
+    "MarmadukeWeatherall": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3620889030 [GLT3620889030].md",
+          "key": "233-the-loch-ness-monster-glt3620889030",
+          "show": "The Rest Is History",
+          "title": "233. The Loch Ness Monster",
+          "url": "/wiki/sources/233-the-loch-ness-monster-glt3620889030/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/marmadukeweatherall/"
+    },
     "Maropost": {
       "episode_count": 1,
       "show_count": 1,
@@ -120522,6 +120609,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/mediaaiworkflowacceleration/"
+    },
+    "MediaEvidenceFeedbackLoop": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3620889030 [GLT3620889030].md",
+          "key": "233-the-loch-ness-monster-glt3620889030",
+          "show": "The Rest Is History",
+          "title": "233. The Loch Ness Monster",
+          "url": "/wiki/sources/233-the-loch-ness-monster-glt3620889030/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/mediaevidencefeedbackloop/"
     },
     "MediaSaturationAndEverydayConformity": {
       "episode_count": 1,
@@ -139381,6 +139484,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/entities/peterfrankopan/"
     },
+    "PeterScott": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3620889030 [GLT3620889030].md",
+          "key": "233-the-loch-ness-monster-glt3620889030",
+          "show": "The Rest Is History",
+          "title": "233. The Loch Ness Monster",
+          "url": "/wiki/sources/233-the-loch-ness-monster-glt3620889030/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/peterscott/"
+    },
     "PeterTheGreat": {
       "episode_count": 10,
       "show_count": 2,
@@ -156896,6 +157015,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/sahanajayaraman/"
+    },
+    "SaintColumba": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3620889030 [GLT3620889030].md",
+          "key": "233-the-loch-ness-monster-glt3620889030",
+          "show": "The Rest Is History",
+          "title": "233. The Loch Ness Monster",
+          "url": "/wiki/sources/233-the-loch-ness-monster-glt3620889030/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/saintcolumba/"
     },
     "SaintLegendAccretion": {
       "episode_count": 1,
@@ -190163,6 +190298,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/concepts/wildmushroompoisoningtriage/"
+    },
+    "WildernessMysteryLonging": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3620889030 [GLT3620889030].md",
+          "key": "233-the-loch-ness-monster-glt3620889030",
+          "show": "The Rest Is History",
+          "title": "233. The Loch Ness Monster",
+          "url": "/wiki/sources/233-the-loch-ness-monster-glt3620889030/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/wildernessmysterylonging/"
     },
     "WildlifeFeedingFeedbackLoop": {
       "episode_count": 1,

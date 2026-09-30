@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 9006
+wiki_total_pages: 9009
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -299,6 +299,9 @@ wiki_pages:
   - key: "WildChildMarginality"
     title: "Wild-Child Marginality / 野孩子边缘性"
     url: "/wiki/concepts/wildchildmarginality/"
+  - key: "WildernessMysteryLonging"
+    title: "Wilderness Mystery Longing"
+    url: "/wiki/concepts/wildernessmysterylonging/"
   - key: "WildfireClimateFeedback"
     title: "Wildfire Climate Feedback"
     url: "/wiki/concepts/wildfireclimatefeedback/"

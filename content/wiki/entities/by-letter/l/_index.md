@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 11613
+wiki_total_pages: 11618
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -638,6 +638,12 @@ wiki_pages:
   - key: "Loblaw"
     title: "Loblaw"
     url: "/wiki/entities/loblaw/"
+  - key: "LochNess"
+    title: "Loch Ness"
+    url: "/wiki/entities/lochness/"
+  - key: "LochNessMonster"
+    title: "Loch Ness Monster"
+    url: "/wiki/entities/lochnessmonster/"
   - key: "LockheedBriberyScandal"
     title: "Lockheed Bribery Scandal"
     url: "/wiki/entities/lockheedbriberyscandal/"

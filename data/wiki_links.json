@@ -863,6 +863,10 @@
     "title": "23.飞马牌汽车：安全是第一位的！",
     "url": "/wiki/sources/23-feima-pai-qiche-anquan-shi-di-yi-wei-de-572699943/"
   },
+  "233-the-loch-ness-monster-glt3620889030": {
+    "title": "233. The Loch Ness Monster",
+    "url": "/wiki/sources/233-the-loch-ness-monster-glt3620889030/"
+  },
   "234-germans-behaving-badly-glt7143029609": {
     "title": "234. Germans Behaving Badly",
     "url": "/wiki/sources/234-germans-behaving-badly-glt7143029609/"
@@ -19214,6 +19218,10 @@
   "Crusoe": {
     "title": "Crusoe",
     "url": "/wiki/entities/crusoe/"
+  },
+  "CryptidLegendFormation": {
+    "title": "Cryptid Legend Formation",
+    "url": "/wiki/concepts/cryptidlegendformation/"
   },
   "CryptidThemeLegibility": {
     "title": "Cryptid Theme Legibility",
@@ -45723,6 +45731,14 @@
     "title": "Locard's Exchange Principle",
     "url": "/wiki/concepts/locardsexchangeprinciple/"
   },
+  "LochNess": {
+    "title": "Loch Ness",
+    "url": "/wiki/entities/lochness/"
+  },
+  "LochNessMonster": {
+    "title": "Loch Ness Monster",
+    "url": "/wiki/entities/lochnessmonster/"
+  },
   "LockedInSyndromeAssistiveCommunication": {
     "title": "Locked-In Syndrome Assistive Communication",
     "url": "/wiki/concepts/lockedinsyndromeassistivecommunication/"
@@ -48247,6 +48263,10 @@
     "title": "Marks & Co. / 马克斯与科恩书店",
     "url": "/wiki/entities/marksandco/"
   },
+  "MarmadukeWeatherall": {
+    "title": "Marmaduke Weatherall",
+    "url": "/wiki/entities/marmadukeweatherall/"
+  },
   "Maropost": {
     "title": "Maropost",
     "url": "/wiki/entities/maropost/"
@@ -48890,6 +48910,10 @@
   "MediaAIWorkflowAcceleration": {
     "title": "Media AI Workflow Acceleration",
     "url": "/wiki/concepts/mediaaiworkflowacceleration/"
+  },
+  "MediaEvidenceFeedbackLoop": {
+    "title": "Media–Evidence Feedback Loop",
+    "url": "/wiki/concepts/mediaevidencefeedbackloop/"
   },
   "MediaFormConstraint": {
     "title": "Media Form Constraint",
@@ -56927,6 +56951,10 @@
     "title": "Peter Reinhardt",
     "url": "/wiki/entities/peterreinhardt/"
   },
+  "PeterScott": {
+    "title": "Peter Scott",
+    "url": "/wiki/entities/peterscott/"
+  },
   "PeterTheGreat": {
     "title": "Peter the Great / 彼得大帝",
     "url": "/wiki/entities/peterthegreat/"
@@ -64590,6 +64618,10 @@
   "SahmRule": {
     "title": "Sahm Rule",
     "url": "/wiki/concepts/sahmrule/"
+  },
+  "SaintColumba": {
+    "title": "Saint Columba",
+    "url": "/wiki/entities/saintcolumba/"
   },
   "SaintLegendAccretion": {
     "title": "Saint Legend Accretion",
@@ -78862,6 +78894,10 @@
   "WildeStrangeStories": {
     "title": "《王尔德奇异故事集》 / Wilde Strange Stories",
     "url": "/wiki/entities/wildestrangestories/"
+  },
+  "WildernessMysteryLonging": {
+    "title": "Wilderness Mystery Longing",
+    "url": "/wiki/concepts/wildernessmysterylonging/"
   },
   "WildfireClimateFeedback": {
     "title": "Wildfire Climate Feedback",

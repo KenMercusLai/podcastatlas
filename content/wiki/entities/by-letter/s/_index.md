@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 11613
+wiki_total_pages: 11618
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -62,6 +62,9 @@ wiki_pages:
   - key: "SAICMotor"
     title: "SAIC Motor / 上汽"
     url: "/wiki/entities/saicmotor/"
+  - key: "SaintColumba"
+    title: "Saint Columba"
+    url: "/wiki/entities/saintcolumba/"
   - key: "SaintPetersburg"
     title: "Saint Petersburg / 圣彼得堡"
     url: "/wiki/entities/saintpetersburg/"

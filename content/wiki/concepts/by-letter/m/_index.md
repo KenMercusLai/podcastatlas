@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9006
+wiki_total_pages: 9009
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -437,6 +437,9 @@ wiki_pages:
   - key: "MediaWorkAsLifestyle"
     title: "Media Work As Lifestyle / 媒体工作作为生活方式"
     url: "/wiki/concepts/mediaworkaslifestyle/"
+  - key: "MediaEvidenceFeedbackLoop"
+    title: "Media–Evidence Feedback Loop"
+    url: "/wiki/concepts/mediaevidencefeedbackloop/"
   - key: "MedicalAIEducation"
     title: "Medical AI Education / 医学AI教育"
     url: "/wiki/concepts/medicalaieducation/"

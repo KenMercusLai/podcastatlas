@@ -26216,3 +26216,11 @@ Added source `the-biology-of-aggression-mating-arousal-dr-david-anderson-scim252
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | 233. The Loch Ness Monster
+
+Added source `233-the-loch-ness-monster-glt3620889030`; created `LochNessMonster`, `LochNess`, `SaintColumba`, `MarmadukeWeatherall`, `PeterScott`, `CryptidLegendFormation`, `MediaEvidenceFeedbackLoop`, and `WildernessMysteryLonging`; and resynthesized `DailyMail` from its complete preserved evidence inventory. Core synthesis: the familiar Nessie is a modern media-formed legend with an older but discontinuous saintly precedent, while geography, road access, visual templates, hoaxes, tourism, exploration nostalgia, and conservation anxiety explain cultural endurance better than the repeatedly collapsing zoological evidence. No settled contradiction was adopted. Individual sightings, early reports, film, sonar, the sturgeon explanation, participants' exact hoax roles, and some cultural-causation claims remain uncertain or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,277-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

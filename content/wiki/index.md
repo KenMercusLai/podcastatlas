@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [233. The Loch Ness Monster](sources/233-the-loch-ness-monster-glt3620889030.md) — The Rest Is History episode on Nessie as a media-formed Highland legend shaped by saintly narrative, access, hoaxes, tourism, exploration nostalgia, and conservation longing.
 - [The Biology of Aggression, Mating, & Arousal | Dr. David Anderson](sources/the-biology-of-aggression-mating-arousal-dr-david-anderson-scim2527130481.md) — Full Huberman Lab interview on circuit-specific arousal, VMH aggression and fear hierarchy, mating-circuit competition, hormone context, PAG routing, isolation-linked tachykinins, and bidirectional brain-body emotion signaling.
 - [234. Germans Behaving Badly](sources/234-germans-behaving-badly-glt7143029609.md) — The Rest Is History conversation with Andrea Wulf on Jena Romanticism, responsible selfhood, nature, hidden intellectual labor, personal conflict, and the movement's Napoleonic ending.
 - [Nicotine’s Effects on the Brain & Body & How to Quit Smoking or Vaping](sources/nicotines-effects-on-the-brain-body-how-to-quit-smoking-or-vaping-scim2598262635.md) — Huberman Lab solo episode on nicotine receptors, attention, reward, delivery speed, vaping risk, withdrawal, and clinically bounded cessation support.
@@ -3331,6 +3332,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Who's Gonna Pay for Your Social Security?](sources/default-mp3-ywr3ahjkcgo-fa7b2a90f9b1f7efc01397a3ed4ae0bf-30494375-default-mp3-ywr3ahjkcgo-fa7b2a90f9b1f7efc01397a3ed4ae0bf-30494375.md) — Planet Money episode comparing the financing scale and distributional costs of Social Security reform options.
 
 ## Entities
+- [Loch Ness Monster](entities/LochNessMonster.md) — Legendary Scottish cryptid whose modern long-necked form emerged through 1933-34 sightings, media circulation, and hoax evidence.
+- [Loch Ness](entities/LochNess.md) — Deep Highland loch whose geography, changing access, and tourism made it a persuasive stage for hidden-creature stories.
+- [Saint Columba](entities/SaintColumba.md) — Sixth-century missionary whose later saint's life contains the River Ness water-beast precedent recruited into Nessie history.
+- [Marmaduke Weatherall](entities/MarmadukeWeatherall.md) — Daily Mail monster hunter linked to exposed tracks and the episode's account of the “surgeon's photograph” hoax.
+- [Peter Scott](entities/PeterScott.md) — Conservationist whose Nessie advocacy joined ambiguous sonar and images to hopes for a wildlife-protection symbol.
 - [Andrea Wulf](entities/AndreaWulf.md) — Historian interpreting the Jena circle as a social and intellectual experiment in responsible selfhood, interdisciplinary synthesis, and conflict.
 - [Johann Gottlieb Fichte](entities/JohannGottliebFichte.md) — Philosopher whose active-self account and duty-bound freedom catalyzed the Jena circle.
 - [Caroline Schlegel Schelling](entities/CarolineSchlegelSchelling.md) — Critic, editor, translator, and organizer whose central intellectual labor was constrained by gendered attribution.
@@ -14978,6 +14984,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Steve Goss](entities/SteveGoss.md) — Former Social Security chief actuary assessing the scale, feasibility, and timing of reform options.
 
 ## Concepts
+- [Cryptid Legend Formation](concepts/CryptidLegendFormation.md) — Process by which sparse precedents, ambiguous sightings, place, access, media templates, and tourism form a standardized modern creature.
+- [Media–Evidence Feedback Loop](concepts/MediaEvidenceFeedbackLoop.md) — Cycle in which publicity shapes expected evidence and later matching reports are mistaken for independent confirmation.
+- [Wilderness Mystery Longing](concepts/WildernessMysteryLonging.md) — Desire for remote landscapes and threatened nature to retain unknown creatures despite expanding knowledge and control.
 - [Arousal Circuit Specificity](concepts/ArousalCircuitSpecificity.md) — View that arousal is implemented by behavior-specific circuits rather than one global intensity or neurochemical switch.
 - [Jena Romanticism](concepts/JenaRomanticism.md) — Late-18th-century movement joining active selfhood, responsible freedom, nature, art, science, imagination, and dense collaborative life.
 - [Freedom, Duty, and Selfhood](concepts/FreedomDutyAndSelfhood.md) — Ethical distinction between self-determination as responsible agency and self-centeredness as exemption from obligation.

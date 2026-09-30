@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 11613
+wiki_total_pages: 11618
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -458,6 +458,9 @@ wiki_pages:
   - key: "MarksAndCo"
     title: "Marks & Co. / 马克斯与科恩书店"
     url: "/wiki/entities/marksandco/"
+  - key: "MarmadukeWeatherall"
+    title: "Marmaduke Weatherall"
+    url: "/wiki/entities/marmadukeweatherall/"
   - key: "Maropost"
     title: "Maropost"
     url: "/wiki/entities/maropost/"

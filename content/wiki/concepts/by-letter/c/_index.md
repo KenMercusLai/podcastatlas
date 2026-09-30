@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9006
+wiki_total_pages: 9009
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2561,6 +2561,9 @@ wiki_pages:
   - key: "CruiseToResortIntegration"
     title: "Cruise-to-Resort Integration"
     url: "/wiki/concepts/cruisetoresortintegration/"
+  - key: "CryptidLegendFormation"
+    title: "Cryptid Legend Formation"
+    url: "/wiki/concepts/cryptidlegendformation/"
   - key: "CryptidThemeLegibility"
     title: "Cryptid Theme Legibility"
     url: "/wiki/concepts/cryptidthemelegibility/"

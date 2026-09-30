@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2958
+topic_total_pages: 2961
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -859,6 +859,9 @@ topic_concepts:
   - key: "CrueltyFootageVisibilityDilemma"
     title: "Cruelty Footage Visibility Dilemma / 残忍影像可见性两难"
     url: "/wiki/concepts/crueltyfootagevisibilitydilemma/"
+  - key: "CryptidLegendFormation"
+    title: "Cryptid Legend Formation"
+    url: "/wiki/concepts/cryptidlegendformation/"
   - key: "CSIEffect"
     title: "CSI Effect"
     url: "/wiki/concepts/csieffect/"
@@ -1783,6 +1786,9 @@ topic_concepts:
   - key: "MediaWorkAsLifestyle"
     title: "Media Work As Lifestyle / 媒体工作作为生活方式"
     url: "/wiki/concepts/mediaworkaslifestyle/"
+  - key: "MediaEvidenceFeedbackLoop"
+    title: "Media–Evidence Feedback Loop"
+    url: "/wiki/concepts/mediaevidencefeedbackloop/"
   - key: "MedicalAIEducation"
     title: "Medical AI Education / 医学AI教育"
     url: "/wiki/concepts/medicalaieducation/"
@@ -4655,6 +4661,9 @@ topic_entities:
   - key: "MarksAndCo"
     title: "Marks & Co. / 马克斯与科恩书店"
     url: "/wiki/entities/marksandco/"
+  - key: "MarmadukeWeatherall"
+    title: "Marmaduke Weatherall"
+    url: "/wiki/entities/marmadukeweatherall/"
   - key: "MartinPeterson"
     title: "Martin Peterson"
     url: "/wiki/entities/martinpeterson/"
