@@ -37,6 +37,7 @@ sources:
   - 401-windrush-the-story-of-black-britain-glt4826407019
   - 376-baghdad-the-forging-of-islam-part-1-glt9529602805
   - 283-ecuador-darwins-adventure-to-the-galapagos-glt2992613399
+  - 273-portugal-the-carnation-revolution-glt3297148398
 last_updated: 2026-09-30
 knowledge_schema: synthesis-v1
 ---
@@ -45,9 +46,11 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-The Rest Is History is a narrative podcast represented in the wiki through selected multi-part historical branches, including ancient Greek war memory, science history and [[CharlesDarwin|Darwin]], a 1915 [[FirstWorldWar|First World War]] branch, national-symbol and sport-politics episodes, literary and legendary afterlives, founding and Roman political-crisis branches, medieval Anglo-French and Chaucer branches, comparative African female power, early Quaker abolitionist activism, postwar Caribbean British migration, and [[LordByron|Lord Byron / 拜伦]]'s celebrity, Gothic, and philhellenic afterlives.
+The Rest Is History is a narrative podcast represented in the wiki through selected multi-part historical branches, including revolution and democratization in [[Portugal]], ancient Greek war memory, science history and [[CharlesDarwin|Darwin]], a 1915 [[FirstWorldWar|First World War]] branch, national-symbol and sport-politics episodes, literary and legendary afterlives, founding and Roman political-crisis branches, medieval Anglo-French and Chaucer branches, comparative African female power, early Quaker abolitionist activism, postwar Caribbean British migration, and [[LordByron|Lord Byron / 拜伦]]'s celebrity, Gothic, and philhellenic afterlives.
 
 ## Current Profile
+
+The Portugal branch distinguishes a swift, symbolically peaceful coup from the unstable transition it opened. [[273-portugal-the-carnation-revolution-glt3297148398]] connects [[EstadoNovoPortugal|Estado Novo]] rigidity, [[PortugueseColonialWars|colonial war]], and officer grievance to the [[CarnationRevolution]], then follows competing military, communist, conservative, and moderate projects until the November 1975 turn and electoral consolidation.
 
 The science-history branch uses the [[GalapagosIslands|Galapagos Islands]] to resist an instant-genius origin story. [[283-ecuador-darwins-adventure-to-the-galapagos-glt2992613399]] follows Darwin from South American geology through island-specific mockingbirds, confusing finches, [[JohnGould]]'s later classification, and progressively bolder publication, making [[EvolutionaryTheoryFormation]] a collaborative process rather than a single revelation.
 
@@ -75,7 +78,7 @@ The Byron branch now begins with family mythology, childhood adversity, educatio
 
 ## Key Characteristics
 
-- The show is used as a source of chronological narrative history with emphasis on decisions, evidence chains, symbols, inherited constraints, contingency, and multi-part sequences, from Darwin's delayed interpretation and Marathon's memory problem to the 1915 war branch and late Umayyad prehistory of Abbasid Baghdad.
+- The show is used as a source of chronological narrative history with emphasis on decisions, evidence chains, symbols, inherited constraints, and contingency, from Portugal's contested post-coup settlement and Darwin's delayed interpretation to Marathon, the 1915 war branch, and late Umayyad prehistory of Abbasid Baghdad.
 - Its abolitionist branch uses Benjamin Lay to connect Quaker equality, plantation slavery, ethical consumption, public stunts, and institutional discipline.
 - Its African female-power branch treats women rulers, queen mothers, and warriors as institutional cases while preserving slavery, coercion, and source-bias qualifications.
 - Its medieval branches treat the Hundred Years' War as a multi-causal origin problem and Chaucer's writing as qualified evidence for post-plague social and linguistic change.
@@ -84,6 +87,8 @@ The Byron branch now begins with family mythology, childhood adversity, educatio
 - Its Homeric, Mayerling, Founding Fathers, Roman Civil War, and Byron branches use literature, scandal, biography, celebrity, and military or political careers to expose institutional crisis and public authority while preserving uncertainty about motives and impact.
 
 ## Evidence
+
+- Portugal revolution branch: [[273-portugal-the-carnation-revolution-glt3297148398]] links colonial-war and officer pressures to the April coup, then follows nationalization, land occupation, decolonization, regional backlash, Cold War anxiety, and the moderate military turn.
 
 - Darwin and Galapagos branch: [[283-ecuador-darwins-adventure-to-the-galapagos-glt2992613399]] connects the Beagle voyage, geology, island-labeled mockingbirds, tortoise clues, confusing finches, Gould's classification, and later publication to a gradual theory-formation account.
 
@@ -113,14 +118,19 @@ The Byron branch now begins with family mythology, childhood adversity, educatio
 
 This page summarizes only the episodes currently listed in its evidence inventory. The show should not be treated as endorsing one uniform theory of history or literature; the covered episodes mix narrative reconstruction, source uncertainty, moral interpretation, symbolic interpretation, and explicit cautions against overreading. The early Islamic branch's claims about Jewish and Zoroastrian influence, conversion policy, chronology, and religious practice remain source-scoped rather than settled by comparison alone. The Marathon branch is especially dependent on surviving Greek literary evidence and later memory traditions, so Persian perspective, Pheidippides legends, and broad civilizational interpretations remain qualified. The Lay branch explicitly rejects the literal "first abolitionist" label and keeps the exact reach of his influence source-scoped. The African Amazons branch is especially dependent on mediated European, missionary, traveler, and popular-history accounts. The George branch cannot establish the saint's existence, identity, relics, or dragon story as contemporary history; its strongest claims concern the development and reuse of the tradition. The Byron inventory covers three installments rather than a complete life or literary study. The Chaucer branch uses fictional characters as suggestive rather than representative evidence, and its Cecily Champagne, plague-season, women's-autonomy, and dialect-influence claims remain source-scoped. The Windrush branch relies on one interview-led interpretation; passenger totals, demographic comparisons, church attendance, the warship claim, and international mixed-heritage comparisons remain source-scoped.
 
-The Darwin branch is an accessible outline rather than a specialist history of biology: specimen counts, taxonomy, exact wording, and the causal weight of individual Galapagos observations remain source-scoped.
+The Darwin branch is an accessible outline rather than a specialist history of biology: specimen counts, taxonomy, exact wording, and the causal weight of individual Galapagos observations remain source-scoped. The Portugal branch is likewise a brisk metropolitan political narrative; its colonial-war budget figure, foreign-intervention claims, personality anecdotes, and limited treatment of African decolonization require fuller specialist sourcing.
 
 ## What Changed
 
-- Added a science-history branch in which field observations, specimen provenance, specialist classification, and publication develop into theory over time.
-- Replaced the popular instant-Galapagos discovery frame with a qualified collaborative account.
+- Added a modern Portuguese branch linking authoritarian rigidity and colonial war to coup, revolutionary uncertainty, and democratic consolidation.
+- Distinguished the Carnation Revolution's peaceful iconography from the conflictual process that followed it.
 
 ## Relationships
+
+- [[CarnationRevolution]] - peaceful-symbol coup whose uncertain aftermath opens the show's modern Portugal branch.
+- [[PortugueseRevolutionaryProcess]] - contested transition used to distinguish regime collapse from democratic consolidation.
+- [[EstadoNovoPortugal]] - authoritarian order whose institutional and imperial pressures structure the episode.
+- [[Portugal]] - national setting extending the show's modern political-history coverage.
 
 - [[CharlesDarwin]] - naturalist whose Beagle evidence chain opens the show's science-history branch.
 - [[GalapagosIslands]] - field setting later turned into an emblem of Darwinian evolution.

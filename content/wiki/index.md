@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [273: Portugal: The Carnation Revolution](sources/273-portugal-the-carnation-revolution-glt3297148398.md) — The Rest Is History episode on Estado Novo collapse, colonial-war and officer pressures, the April 1974 coup, revolutionary instability, and democratic consolidation.
 - [274: Switzerland: Calvin's Cancel Culture](sources/274-switzerland-calvins-cancel-culture-glt2874543265.md) — The Rest Is History episode on Calvin's Geneva, Michael Servetus's execution, confessional discipline, and the Reformation boundary between refuge and liberty of conscience.
 - [275: Argentina: The Welsh Colony](sources/275-argentina-the-welsh-colony-glt3290664499.md) — The Rest Is History episode on Y Wladfa, Welsh cultural preservation, Patagonian settlement, Argentine territorial consolidation, assimilation, revival, and settler-colonial reassessment.
 - [276: Netherlands: The Maid of Holland](sources/276-netherlands-the-maid-of-holland-glt8981353378.md) — The Rest Is History episode on the Maid of Holland, revolt-era female allegory, Dutch cleanliness, civic housekeeping, and the domestic moralization of commercial wealth.
@@ -3258,6 +3259,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Using Caffeine to Optimize Mental & Physical Performance](sources/using-caffeine-to-optimize-mental-physical-performance-scim1210768101.md) — Huberman Lab solo episode on adenosine blockade, caffeine timing and dose, performance, memory, learned reinforcement, tolerance, sleep, and stacking risks.
 
 ## Entities
+- [Antonio de Oliveira Salazar](entities/AntonioDeOliveiraSalazar.md) — Estado Novo ruler whose authoritarian and imperial system outlasted his incapacitation but constrained his successor.
+- [Marcelo Caetano](entities/MarceloCaetano.md) — Salazar's successor, whose bounded reforms and officer-promotion mistake preceded the 1974 coup.
+- [Armed Forces Movement (Portugal)](entities/ArmedForcesMovementPortugal.md) — Junior-officer organization that converted colonial-war and career grievances into the Carnation Revolution.
+- [Antonio de Spinola](entities/AntonioDeSpinola.md) — Senior coup figurehead and first post-coup president whose controlled-liberalization project was overtaken by revolution.
+- [Otelo Saraiva de Carvalho](entities/OteloSaraivaDeCarvalho.md) — Coup strategist and later radical military actor defeated in the November 1975 confrontation.
+- [Vasco Goncalves](entities/VascoGoncalves.md) — Revolutionary prime minister associated with rapid decolonization, nationalization, and the radical phase of transition.
+- [Alvaro Cunhal](entities/AlvaroCunhal.md) — Communist leader whose post-exile prominence became a focal point for domestic and Cold War anxiety.
+- [Antonio Ramalho Eanes](entities/AntonioRamalhoEanes.md) — Moderate military figure and elected president linking November 1975 stabilization to democratic consolidation.
 - [Y Wladfa / Welsh Patagonia](entities/YWladfa.md) — Welsh Patagonian settlement joining language preservation, frontier survival, Argentine integration, cultural revival, and colonial reassessment.
 - [Michael D. Jones](entities/MichaelDJones.md) — Welsh minister and nationalist organizer whose anti-assimilation project founded Y Wladfa.
 - [Maid of Holland](entities/MaidOfHolland.md) — Female personification joining Dutch liberty, defended territory, martial virtue, domestic order, and prosperity.
@@ -14754,6 +14763,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Geneva](entities/Geneva.md) — Protestant refuge and city-state whose consistory discipline and Servetus trial joined sanctuary to coercive confessional rule.
 
 ## Concepts
+- [Estado Novo (Portugal)](concepts/EstadoNovoPortugal.md) — Portuguese authoritarian order whose colonial, fiscal, reform, and military pressures converged in its 1974 collapse.
+- [Portuguese Colonial Wars](concepts/PortugueseColonialWars.md) — African imperial conflicts that strained the dictatorship and politicized the officers who overthrew it.
+- [Carnation Revolution](concepts/CarnationRevolution.md) — Comparatively bloodless April 1974 coup whose peaceful symbolism must be distinguished from its contested aftermath.
+- [Portuguese Revolutionary Process](concepts/PortugueseRevolutionaryProcess.md) — Open post-coup struggle over decolonization, property, representation, and military authority before pluralist consolidation.
 - [Cultural-Preservation Colony](concepts/CulturalPreservationColony.md) — Concentrated migration strategy using community institutions to preserve minority language and identity while facing integration pressures.
 - [Settlement as Territorial Claimmaking](concepts/SettlementTerritorialClaimmaking.md) — Use of resident communities, farms, towns, and infrastructure to convert disputed sovereignty into practical occupation.
 - [Minority-Refuge Settler-Colonial Paradox](concepts/MinorityRefugeSettlerColonialParadox.md) — Tension in which a culturally pressured minority seeks refuge through settlement that can subordinate Indigenous inhabitants.

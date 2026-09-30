@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 8880
+wiki_total_pages: 8884
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -797,6 +797,9 @@ wiki_pages:
   - key: "EssentialPatents"
     title: "Essential Patents"
     url: "/wiki/concepts/essentialpatents/"
+  - key: "EstadoNovoPortugal"
+    title: "Estado Novo (Portugal)"
+    url: "/wiki/concepts/estadonovoportugal/"
   - key: "EstrobolomeEstrogenRecirculation"
     title: "Estrobolome and Estrogen Recirculation"
     url: "/wiki/concepts/estrobolomeestrogenrecirculation/"

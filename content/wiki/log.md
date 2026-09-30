@@ -25705,3 +25705,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-30] ingest | 273: Portugal: The Carnation Revolution
+
+Added source `273-portugal-the-carnation-revolution-glt3297148398`; created `AntonioDeOliveiraSalazar`, `MarceloCaetano`, `ArmedForcesMovementPortugal`, `AntonioDeSpinola`, `OteloSaraivaDeCarvalho`, `VascoGoncalves`, `AlvaroCunhal`, `AntonioRamalhoEanes`, `EstadoNovoPortugal`, `PortugueseColonialWars`, `CarnationRevolution`, and `PortugueseRevolutionaryProcess`; and resynthesized `Portugal` and `TheRestIsHistory` from their preserved evidence inventories. Core synthesis: colonial war, fiscal strain, blocked reform, and officer grievance made the dictatorship vulnerable, but the peaceful April coup only opened an uncertain struggle among controlled liberalization, revolutionary councils, communism, military rule, and pluralist democracy; the November 1975 moderate turn and later elections consolidated the democratic outcome. No settled contradiction was adopted. The flower-origin story, budget share, foreign intervention evidence, Goncalves conflict-of-interest implication, later Otelo anecdotes, and several electoral or biographical details remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten because this episode opens a bounded modern-Portugal branch without changing the wiki-wide synthesis.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

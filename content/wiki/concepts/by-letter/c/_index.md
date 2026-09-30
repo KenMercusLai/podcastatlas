@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8880
+wiki_total_pages: 8884
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -329,6 +329,9 @@ wiki_pages:
   - key: "CareerShoreMyth"
     title: "Career Shore Myth"
     url: "/wiki/concepts/careershoremyth/"
+  - key: "CarnationRevolution"
+    title: "Carnation Revolution"
+    url: "/wiki/concepts/carnationrevolution/"
   - key: "CarrierBagNarrative"
     title: "Carrier-Bag Narrative / 载物袋叙事"
     url: "/wiki/concepts/carrierbagnarrative/"

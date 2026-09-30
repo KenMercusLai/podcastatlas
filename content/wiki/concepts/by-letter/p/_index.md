@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8880
+wiki_total_pages: 8884
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1163,9 +1163,15 @@ wiki_pages:
   - key: "PortfolioSuitability"
     title: "Portfolio Suitability"
     url: "/wiki/concepts/portfoliosuitability/"
+  - key: "PortugueseColonialWars"
+    title: "Portuguese Colonial Wars"
+    url: "/wiki/concepts/portuguesecolonialwars/"
   - key: "PortugueseMaritimeExpansion"
     title: "Portuguese Maritime Expansion / 葡萄牙海上扩张"
     url: "/wiki/concepts/portuguesemaritimeexpansion/"
+  - key: "PortugueseRevolutionaryProcess"
+    title: "Portuguese Revolutionary Process"
+    url: "/wiki/concepts/portugueserevolutionaryprocess/"
   - key: "PositionSizing"
     title: "Position Sizing"
     url: "/wiki/concepts/positionsizing/"

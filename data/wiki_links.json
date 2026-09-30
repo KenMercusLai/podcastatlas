@@ -927,6 +927,10 @@
     "title": "273.逛完外滩大会，发现蚂蚁找到了新位置",
     "url": "/wiki/sources/273-guangwan-waitan-dahui-faxian-mayi-zhaodaole-xin-weizhi-lotxogfoqqwcjigxihtixvncbfc3/"
   },
+  "273-portugal-the-carnation-revolution-glt3297148398": {
+    "title": "273: Portugal: The Carnation Revolution",
+    "url": "/wiki/sources/273-portugal-the-carnation-revolution-glt3297148398/"
+  },
   "274-cong-quanmianping-dao-zhong-zhedie-xiaomi-de-gaoduanhua-zhe-ci-zhaoduilu-le-ma-lkvunil7twhd92duwcu_1hxkefet": {
     "title": "274.从全面屏到中折叠，小米的高端化这次找对路了吗？",
     "url": "/wiki/sources/274-cong-quanmianping-dao-zhong-zhedie-xiaomi-de-gaoduanhua-zhe-ci-zhaoduilu-le-ma-lkvunil7twhd92duwcu_1hxkefet/"
@@ -6419,6 +6423,10 @@
     "title": "阿罗多 / Aluoduo (Cheshi, late Han)",
     "url": "/wiki/entities/aluoduocheshilatehan/"
   },
+  "AlvaroCunhal": {
+    "title": "Alvaro Cunhal",
+    "url": "/wiki/entities/alvarocunhal/"
+  },
   "AlzheimerDrugEfficacyGap": {
     "title": "Alzheimer Drug Efficacy Gap",
     "url": "/wiki/concepts/alzheimerdrugefficacygap/"
@@ -7495,9 +7503,21 @@
     "title": "Antonio Damasio",
     "url": "/wiki/entities/antoniodamasio/"
   },
+  "AntonioDeOliveiraSalazar": {
+    "title": "Antonio de Oliveira Salazar",
+    "url": "/wiki/entities/antoniodeoliveirasalazar/"
+  },
+  "AntonioDeSpinola": {
+    "title": "Antonio de Spinola",
+    "url": "/wiki/entities/antoniodespinola/"
+  },
   "AntonioMaysJr": {
     "title": "Antonio Mays Jr.",
     "url": "/wiki/entities/antoniomaysjr/"
+  },
+  "AntonioRamalhoEanes": {
+    "title": "Antonio Ramalho Eanes",
+    "url": "/wiki/entities/antonioramalhoeanes/"
   },
   "AntsCanada": {
     "title": "AntsCanada",
@@ -7950,6 +7970,10 @@
   "ArmedFollowerIntegrationCost": {
     "title": "武装部众整合成本 / Armed Follower Integration Cost",
     "url": "/wiki/concepts/armedfollowerintegrationcost/"
+  },
+  "ArmedForcesMovementPortugal": {
+    "title": "Armed Forces Movement (Portugal)",
+    "url": "/wiki/entities/armedforcesmovementportugal/"
   },
   "ArmedProtestZoneSecurity": {
     "title": "Armed Protest-Zone Security",
@@ -13258,6 +13282,10 @@
   "CarnabyStreet": {
     "title": "Carnaby Street",
     "url": "/wiki/entities/carnabystreet/"
+  },
+  "CarnationRevolution": {
+    "title": "Carnation Revolution",
+    "url": "/wiki/concepts/carnationrevolution/"
   },
   "CarolDweck": {
     "title": "Carol Dweck",
@@ -24938,6 +24966,10 @@
   "EstablishedHeirReplacementRisk": {
     "title": "既定太子改立风险 / Established Heir Replacement Risk",
     "url": "/wiki/concepts/establishedheirreplacementrisk/"
+  },
+  "EstadoNovoPortugal": {
+    "title": "Estado Novo (Portugal)",
+    "url": "/wiki/concepts/estadonovoportugal/"
   },
   "EstatesGeneral1789": {
     "title": "Estates-General of 1789",
@@ -47087,6 +47119,10 @@
     "title": "Marcello Lippi / 里皮",
     "url": "/wiki/entities/marcellolippi/"
   },
+  "MarceloCaetano": {
+    "title": "Marcelo Caetano",
+    "url": "/wiki/entities/marcelocaetano/"
+  },
   "MarchHare": {
     "title": "March Hare / 三月兔",
     "url": "/wiki/entities/marchhare/"
@@ -54047,6 +54083,10 @@
     "title": "Oswald the Lucky Rabbit",
     "url": "/wiki/entities/oswaldtheluckyrabbit/"
   },
+  "OteloSaraivaDeCarvalho": {
+    "title": "Otelo Saraiva de Carvalho",
+    "url": "/wiki/entities/otelosaraivadecarvalho/"
+  },
   "OtherAsHell": {
     "title": "他人即地狱 / Other As Hell",
     "url": "/wiki/concepts/otherashell/"
@@ -57199,9 +57239,17 @@
     "title": "Portugal",
     "url": "/wiki/entities/portugal/"
   },
+  "PortugueseColonialWars": {
+    "title": "Portuguese Colonial Wars",
+    "url": "/wiki/concepts/portuguesecolonialwars/"
+  },
   "PortugueseMaritimeExpansion": {
     "title": "Portuguese Maritime Expansion / 葡萄牙海上扩张",
     "url": "/wiki/concepts/portuguesemaritimeexpansion/"
+  },
+  "PortugueseRevolutionaryProcess": {
+    "title": "Portuguese Revolutionary Process",
+    "url": "/wiki/concepts/portugueserevolutionaryprocess/"
   },
   "Poseidon": {
     "title": "Poseidon",
@@ -74998,6 +75046,10 @@
   "VaricellaZosterLatencyReactivation": {
     "title": "Varicella-Zoster Latency and Reactivation / 水痘-带状疱疹病毒潜伏与再激活",
     "url": "/wiki/concepts/varicellazosterlatencyreactivation/"
+  },
+  "VascoGoncalves": {
+    "title": "Vasco Goncalves",
+    "url": "/wiki/entities/vascogoncalves/"
   },
   "VascularHealthMarketingBoundary": {
     "title": "Vascular Health Marketing Boundary / 血管健康营销边界",

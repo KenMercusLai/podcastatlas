@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 11467
+wiki_total_pages: 11475
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -260,6 +260,9 @@ wiki_pages:
   - key: "MarcelloLippi"
     title: "Marcello Lippi / 里皮"
     url: "/wiki/entities/marcellolippi/"
+  - key: "MarceloCaetano"
+    title: "Marcelo Caetano"
+    url: "/wiki/entities/marcelocaetano/"
   - key: "MarchHare"
     title: "March Hare / 三月兔"
     url: "/wiki/entities/marchhare/"

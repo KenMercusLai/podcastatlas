@@ -9021,6 +9021,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/aluoduocheshilatehan/"
     },
+    "AlvaroCunhal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3297148398 [GLT3297148398].md",
+          "key": "273-portugal-the-carnation-revolution-glt3297148398",
+          "show": "The Rest Is History",
+          "title": "273: Portugal: The Carnation Revolution",
+          "url": "/wiki/sources/273-portugal-the-carnation-revolution-glt3297148398/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/alvarocunhal/"
+    },
     "AlzheimerEarlyDetectionDiagnosis": {
       "episode_count": 1,
       "show_count": 1,
@@ -12394,6 +12410,54 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/antoniodamasio/"
     },
+    "AntonioDeOliveiraSalazar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3297148398 [GLT3297148398].md",
+          "key": "273-portugal-the-carnation-revolution-glt3297148398",
+          "show": "The Rest Is History",
+          "title": "273: Portugal: The Carnation Revolution",
+          "url": "/wiki/sources/273-portugal-the-carnation-revolution-glt3297148398/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/antoniodeoliveirasalazar/"
+    },
+    "AntonioDeSpinola": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3297148398 [GLT3297148398].md",
+          "key": "273-portugal-the-carnation-revolution-glt3297148398",
+          "show": "The Rest Is History",
+          "title": "273: Portugal: The Carnation Revolution",
+          "url": "/wiki/sources/273-portugal-the-carnation-revolution-glt3297148398/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/antoniodespinola/"
+    },
+    "AntonioRamalhoEanes": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3297148398 [GLT3297148398].md",
+          "key": "273-portugal-the-carnation-revolution-glt3297148398",
+          "show": "The Rest Is History",
+          "title": "273: Portugal: The Carnation Revolution",
+          "url": "/wiki/sources/273-portugal-the-carnation-revolution-glt3297148398/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/antonioramalhoeanes/"
+    },
     "AntsCanada": {
       "episode_count": 1,
       "show_count": 1,
@@ -13447,6 +13511,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/armedfollowerintegrationcost/"
+    },
+    "ArmedForcesMovementPortugal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3297148398 [GLT3297148398].md",
+          "key": "273-portugal-the-carnation-revolution-glt3297148398",
+          "show": "The Rest Is History",
+          "title": "273: Portugal: The Carnation Revolution",
+          "url": "/wiki/sources/273-portugal-the-carnation-revolution-glt3297148398/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/armedforcesmovementportugal/"
     },
     "ArmyOfAfrica": {
       "episode_count": 1,
@@ -26344,6 +26424,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/carnabystreet/"
+    },
+    "CarnationRevolution": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3297148398 [GLT3297148398].md",
+          "key": "273-portugal-the-carnation-revolution-glt3297148398",
+          "show": "The Rest Is History",
+          "title": "273: Portugal: The Carnation Revolution",
+          "url": "/wiki/sources/273-portugal-the-carnation-revolution-glt3297148398/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/carnationrevolution/"
     },
     "CarolDweck": {
       "episode_count": 2,
@@ -56460,6 +56556,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/establishedheirreplacementrisk/"
+    },
+    "EstadoNovoPortugal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3297148398 [GLT3297148398].md",
+          "key": "273-portugal-the-carnation-revolution-glt3297148398",
+          "show": "The Rest Is History",
+          "title": "273: Portugal: The Carnation Revolution",
+          "url": "/wiki/sources/273-portugal-the-carnation-revolution-glt3297148398/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/estadonovoportugal/"
     },
     "EstatesGeneral1789": {
       "episode_count": 2,
@@ -114415,6 +114527,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/marcellolippi/"
     },
+    "MarceloCaetano": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3297148398 [GLT3297148398].md",
+          "key": "273-portugal-the-carnation-revolution-glt3297148398",
+          "show": "The Rest Is History",
+          "title": "273: Portugal: The Carnation Revolution",
+          "url": "/wiki/sources/273-portugal-the-carnation-revolution-glt3297148398/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/marcelocaetano/"
+    },
     "MarchOnWashington1963": {
       "episode_count": 1,
       "show_count": 1,
@@ -129997,6 +130125,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/oswaldmosley/"
     },
+    "OteloSaraivaDeCarvalho": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3297148398 [GLT3297148398].md",
+          "key": "273-portugal-the-carnation-revolution-glt3297148398",
+          "show": "The Rest Is History",
+          "title": "273: Portugal: The Carnation Revolution",
+          "url": "/wiki/sources/273-portugal-the-carnation-revolution-glt3297148398/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/otelosaraivadecarvalho/"
+    },
     "OtherAsHell": {
       "episode_count": 1,
       "show_count": 1,
@@ -137568,9 +137712,9 @@
       "url": "/wiki/concepts/portablepoliticalcapital/"
     },
     "Portugal": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT1627515087 [GLT1627515087].md",
@@ -137592,10 +137736,33 @@
           "show": "忽左忽右",
           "title": "496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海",
           "url": "/wiki/sources/496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw/"
+        },
+        {
+          "episode_file": "GLT3297148398 [GLT3297148398].md",
+          "key": "273-portugal-the-carnation-revolution-glt3297148398",
+          "show": "The Rest Is History",
+          "title": "273: Portugal: The Carnation Revolution",
+          "url": "/wiki/sources/273-portugal-the-carnation-revolution-glt3297148398/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-30",
       "url": "/wiki/entities/portugal/"
+    },
+    "PortugueseColonialWars": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3297148398 [GLT3297148398].md",
+          "key": "273-portugal-the-carnation-revolution-glt3297148398",
+          "show": "The Rest Is History",
+          "title": "273: Portugal: The Carnation Revolution",
+          "url": "/wiki/sources/273-portugal-the-carnation-revolution-glt3297148398/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/portuguesecolonialwars/"
     },
     "PortugueseMaritimeExpansion": {
       "episode_count": 2,
@@ -137619,6 +137786,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/portuguesemaritimeexpansion/"
+    },
+    "PortugueseRevolutionaryProcess": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3297148398 [GLT3297148398].md",
+          "key": "273-portugal-the-carnation-revolution-glt3297148398",
+          "show": "The Rest Is History",
+          "title": "273: Portugal: The Carnation Revolution",
+          "url": "/wiki/sources/273-portugal-the-carnation-revolution-glt3297148398/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/portugueserevolutionaryprocess/"
     },
     "Poseidon": {
       "episode_count": 1,
@@ -170780,9 +170963,9 @@
       "url": "/wiki/entities/theprincipleofresponsibility/"
     },
     "TheRestIsHistory": {
-      "episode_count": 34,
+      "episode_count": 35,
       "show_count": 1,
-      "source_note_count": 34,
+      "source_note_count": 35,
       "sources": [
         {
           "episode_file": "GLT4665799025 [GLT4665799025].md",
@@ -171021,6 +171204,13 @@
           "show": "The Rest Is History",
           "title": "283: Ecuador: Darwin's Adventure to the Galapagos",
           "url": "/wiki/sources/283-ecuador-darwins-adventure-to-the-galapagos-glt2992613399/"
+        },
+        {
+          "episode_file": "GLT3297148398 [GLT3297148398].md",
+          "key": "273-portugal-the-carnation-revolution-glt3297148398",
+          "show": "The Rest Is History",
+          "title": "273: Portugal: The Carnation Revolution",
+          "url": "/wiki/sources/273-portugal-the-carnation-revolution-glt3297148398/"
         }
       ],
       "updated": "2026-09-30",
@@ -177644,6 +177834,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/concepts/varicellazosterlatencyreactivation/"
+    },
+    "VascoGoncalves": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3297148398 [GLT3297148398].md",
+          "key": "273-portugal-the-carnation-revolution-glt3297148398",
+          "show": "The Rest Is History",
+          "title": "273: Portugal: The Carnation Revolution",
+          "url": "/wiki/sources/273-portugal-the-carnation-revolution-glt3297148398/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/vascogoncalves/"
     },
     "VascularHealthMarketingBoundary": {
       "episode_count": 1,

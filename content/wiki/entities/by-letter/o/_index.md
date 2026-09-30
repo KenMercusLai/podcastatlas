@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "o"
-wiki_total_pages: 11467
+wiki_total_pages: 11475
 wiki_pages:
   - key: "OneX"
     title: "1X"
@@ -329,6 +329,9 @@ wiki_pages:
   - key: "OswaldTheLuckyRabbit"
     title: "Oswald the Lucky Rabbit"
     url: "/wiki/entities/oswaldtheluckyrabbit/"
+  - key: "OteloSaraivaDeCarvalho"
+    title: "Otelo Saraiva de Carvalho"
+    url: "/wiki/entities/otelosaraivadecarvalho/"
   - key: "OtterBox"
     title: "OtterBox"
     url: "/wiki/entities/otterbox/"
