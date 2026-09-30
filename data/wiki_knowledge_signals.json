@@ -41198,6 +41198,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/entities/danegan/"
     },
+    "DanMitrione": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1539968794 [GLT1539968794].md",
+          "key": "261-uruguay-the-tupamaros-glt1539968794",
+          "show": "The Rest Is History",
+          "title": "261: Uruguay: The Tupamaros",
+          "url": "/wiki/sources/261-uruguay-the-tupamaros-glt1539968794/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/danmitrione/"
+    },
     "DanNoUraBattle": {
       "episode_count": 1,
       "show_count": 1,
@@ -44130,6 +44146,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/democraticrepublicanparty/"
+    },
+    "DemocraticSecurityEscalationTrap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1539968794 [GLT1539968794].md",
+          "key": "261-uruguay-the-tupamaros-glt1539968794",
+          "show": "The Rest Is History",
+          "title": "261: Uruguay: The Tupamaros",
+          "url": "/wiki/sources/261-uruguay-the-tupamaros-glt1539968794/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/democraticsecurityescalationtrap/"
     },
     "DemocraticSocialistsOfAmerica": {
       "episode_count": 5,
@@ -70866,6 +70898,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/entities/geoffreydecharny/"
     },
+    "GeoffreyJacksonDiplomat": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1539968794 [GLT1539968794].md",
+          "key": "261-uruguay-the-tupamaros-glt1539968794",
+          "show": "The Rest Is History",
+          "title": "261: Uruguay: The Tupamaros",
+          "url": "/wiki/sources/261-uruguay-the-tupamaros-glt1539968794/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/geoffreyjacksondiplomat/"
+    },
     "GeometricUnity": {
       "episode_count": 1,
       "show_count": 1,
@@ -97015,6 +97063,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/entities/joselopezrega/"
     },
+    "JoseMujica": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1539968794 [GLT1539968794].md",
+          "key": "261-uruguay-the-tupamaros-glt1539968794",
+          "show": "The Rest Is History",
+          "title": "261: Uruguay: The Tupamaros",
+          "url": "/wiki/sources/261-uruguay-the-tupamaros-glt1539968794/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/josemujica/"
+    },
     "JosefBratfisch": {
       "episode_count": 1,
       "show_count": 1,
@@ -120808,6 +120872,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/miletus/"
+    },
+    "MilitantToDemocraticPolitics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1539968794 [GLT1539968794].md",
+          "key": "261-uruguay-the-tupamaros-glt1539968794",
+          "show": "The Rest Is History",
+          "title": "261: Uruguay: The Tupamaros",
+          "url": "/wiki/sources/261-uruguay-the-tupamaros-glt1539968794/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/militanttodemocraticpolitics/"
     },
     "MilitarizedAITechnologyBlocRisk": {
       "episode_count": 1,
@@ -145880,6 +145960,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/rationalizedstateviolence/"
+    },
+    "RaulSendic": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1539968794 [GLT1539968794].md",
+          "key": "261-uruguay-the-tupamaros-glt1539968794",
+          "show": "The Rest Is History",
+          "title": "261: Uruguay: The Tupamaros",
+          "url": "/wiki/sources/261-uruguay-the-tupamaros-glt1539968794/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/raulsendic/"
     },
     "RayBanSmartGlasses": {
       "episode_count": 6,
@@ -176929,6 +177025,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/concepts/tuntiansystem/"
     },
+    "Tupamaros": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1539968794 [GLT1539968794].md",
+          "key": "261-uruguay-the-tupamaros-glt1539968794",
+          "show": "The Rest Is History",
+          "title": "261: Uruguay: The Tupamaros",
+          "url": "/wiki/sources/261-uruguay-the-tupamaros-glt1539968794/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/tupamaros/"
+    },
     "Tupia": {
       "episode_count": 1,
       "show_count": 1,
@@ -178697,6 +178809,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/urbandisorderexplanationconflict/"
     },
+    "UrbanGuerrillaArmedPropaganda": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1539968794 [GLT1539968794].md",
+          "key": "261-uruguay-the-tupamaros-glt1539968794",
+          "show": "The Rest Is History",
+          "title": "261: Uruguay: The Tupamaros",
+          "url": "/wiki/sources/261-uruguay-the-tupamaros-glt1539968794/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/urbanguerrillaarmedpropaganda/"
+    },
     "UrbanVI": {
       "episode_count": 1,
       "show_count": 1,
@@ -178891,6 +179019,36 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/ursulakleguin/"
+    },
+    "Uruguay": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "138.企鹅课：我在海滩上捡到一位Q老师 [842331726].md",
+          "key": "138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726",
+          "show": "蜜獾吃书",
+          "title": "138.企鹅课：我在海滩上捡到一位Q老师",
+          "url": "/wiki/sources/138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_c0b17d1ee11ae68f4a3178fb13048861_34464148 [default.mp3_ywr3ahjkcgo_c0b17d1ee11ae68f4a3178fb13048861_34464148].md",
+          "key": "the-real-horror-of-alien-and-how-it-explains-why-were-not-paid-enough",
+          "show": "Planet Money",
+          "title": "The real horror of 'Alien' and how it explains why we're not paid enough",
+          "url": "/wiki/sources/the-real-horror-of-alien-and-how-it-explains-why-were-not-paid-enough/"
+        },
+        {
+          "episode_file": "GLT1539968794 [GLT1539968794].md",
+          "key": "261-uruguay-the-tupamaros-glt1539968794",
+          "show": "The Rest Is History",
+          "title": "261: Uruguay: The Tupamaros",
+          "url": "/wiki/sources/261-uruguay-the-tupamaros-glt1539968794/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/uruguay/"
     },
     "UsageBasedVerticalSaaSPricing": {
       "episode_count": 2,

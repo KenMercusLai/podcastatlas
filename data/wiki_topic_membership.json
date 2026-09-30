@@ -1381,6 +1381,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "261-uruguay-the-tupamaros-glt1539968794": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "262-tunisia-dido-of-carthage-glt5520362156": [
     {
       "key": "history",
@@ -24523,6 +24530,13 @@
     }
   ],
   "DemocraticRepublicanParty": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "DemocraticSecurityEscalationTrap": [
     {
       "key": "politics",
       "label": "Politics",
@@ -51956,6 +51970,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "MilitantToDemocraticPolitics": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "MilitarizedAITechnologyBlocRisk": [
@@ -79393,6 +79414,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "Uruguay": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "UseStrengthsOverFaults": [

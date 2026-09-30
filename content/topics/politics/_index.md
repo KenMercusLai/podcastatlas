@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2839
+topic_total_pages: 2843
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1042,6 +1042,9 @@ topic_concepts:
   - key: "DemocraticIconComplexLegacy"
     title: "Democratic Icon Complex Legacy"
     url: "/wiki/concepts/democraticiconcomplexlegacy/"
+  - key: "DemocraticSecurityEscalationTrap"
+    title: "Democratic Security Escalation Trap"
+    url: "/wiki/concepts/democraticsecurityescalationtrap/"
   - key: "DemocraticTransitionElection"
     title: "Democratic Transition Election"
     url: "/wiki/concepts/democratictransitionelection/"
@@ -2320,6 +2323,9 @@ topic_concepts:
   - key: "MigrationWeaponization"
     title: "Migration Weaponization"
     url: "/wiki/concepts/migrationweaponization/"
+  - key: "MilitantToDemocraticPolitics"
+    title: "Militant-to-Democratic Politics"
+    url: "/wiki/concepts/militanttodemocraticpolitics/"
   - key: "MilitarizedAITechnologyBlocRisk"
     title: "Militarized AI Technology Bloc Risk"
     url: "/wiki/concepts/militarizedaitechnologyblocrisk/"
@@ -6860,6 +6866,9 @@ topic_entities:
   - key: "UniversityOfToronto"
     title: "University of Toronto"
     url: "/wiki/entities/universityoftoronto/"
+  - key: "Uruguay"
+    title: "Uruguay"
+    url: "/wiki/entities/uruguay/"
   - key: "USD1"
     title: "USD1"
     url: "/wiki/entities/usd1/"
@@ -7527,6 +7536,9 @@ topic_sources:
   - key: "2026-qiuji-pian-e03-zunyan-si-riben-yisheng-beipan-sharen-shijian-flop0zzkutdjvbj11zpa-cz62ijj4"
     title: "2026秋季篇E03 尊严死？！日本医生被判杀人事件"
     url: "/wiki/sources/2026-qiuji-pian-e03-zunyan-si-riben-yisheng-beipan-sharen-shijian-flop0zzkutdjvbj11zpa-cz62ijj4/"
+  - key: "261-uruguay-the-tupamaros-glt1539968794"
+    title: "261: Uruguay: The Tupamaros"
+    url: "/wiki/sources/261-uruguay-the-tupamaros-glt1539968794/"
   - key: "264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0"
     title: "264.库克的道德锚点｜过去15年，库克给苹果留下了什么？"
     url: "/wiki/sources/264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 8918
+wiki_total_pages: 8921
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -464,6 +464,9 @@ wiki_pages:
   - key: "DemocraticIconComplexLegacy"
     title: "Democratic Icon Complex Legacy"
     url: "/wiki/concepts/democraticiconcomplexlegacy/"
+  - key: "DemocraticSecurityEscalationTrap"
+    title: "Democratic Security Escalation Trap"
+    url: "/wiki/concepts/democraticsecurityescalationtrap/"
   - key: "DemocraticTransitionElection"
     title: "Democratic Transition Election"
     url: "/wiki/concepts/democratictransitionelection/"

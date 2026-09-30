@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 11517
+wiki_total_pages: 11522
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -95,6 +95,9 @@ wiki_pages:
   - key: "RaulCastro"
     title: "Raul Castro"
     url: "/wiki/entities/raulcastro/"
+  - key: "RaulSendic"
+    title: "Raul Sendic"
+    url: "/wiki/entities/raulsendic/"
   - key: "RayDalio"
     title: "Ray Dalio"
     url: "/wiki/entities/raydalio/"

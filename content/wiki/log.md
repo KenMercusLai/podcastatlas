@@ -25823,3 +25823,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-30] ingest | 261: Uruguay: The Tupamaros
+
+Added source `261-uruguay-the-tupamaros-glt1539968794`; created `Tupamaros`, `JoseMujica`, `RaulSendic`, `GeoffreyJacksonDiplomat`, `DanMitrione`, `DemocraticSecurityEscalationTrap`, `UrbanGuerrillaArmedPropaganda`, and `MilitantToDemocraticPolitics`; and resynthesized `Uruguay` from its complete preserved evidence inventory. Core synthesis: Tupamaro robberies, kidnappings, assassination, and armed propaganda created a real security crisis, while emergency rule, torture, mass imprisonment, military expansion, and union suppression crushed the movement at the price of democratic government; Mujica's later presidency shows a qualified route from militancy and imprisonment into electoral politics rather than retroactive vindication. No settled contradiction was adopted. Mitrione's alleged torture-training role, the causal weight of economic decline, military-budget and prisoner proportions, kidnapping details, and transitional-justice adequacy remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten because this 2022 episode opens a bounded Uruguay branch without changing the wiki-wide synthesis.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

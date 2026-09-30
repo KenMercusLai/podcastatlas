@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [261: Uruguay: The Tupamaros](sources/261-uruguay-the-tupamaros-glt1539968794.md) — The Rest Is History episode on Uruguay's postwar decline, Tupamaro urban guerrillas, authoritarian counterinsurgency, dictatorship, and Jose Mujica's later democratic presidency.
 - [262: Tunisia: Dido of Carthage](sources/262-tunisia-dido-of-carthage-glt5520362156.md) — The Rest Is History episode contrasting Dido's older Tyrian founder tradition with Virgil's tragic queen, Roman destiny, and the human cost of empire.
 - [263: USA vs England: The 200-Year Rivalry](sources/263-usa-vs-england-the-200-year-rivalry-glt7546211559.md) — The Rest Is History episode on Anglo-American power reversal through the War of 1812, Dickens, Carnegie, Black GIs, the Beatles, British decline, and modern Americanization.
 - [264: Mexico: Day of the Dead](sources/264-mexico-day-of-the-dead-glt9022174156.md) — The Rest Is History episode on Dia de Muertos's Catholic-Iberian genealogy, Indigenous and Mexican layering, post-revolutionary national recoding, political skeleton art, and a film-created parade becoming civic ritual.
@@ -3273,6 +3274,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Using Caffeine to Optimize Mental & Physical Performance](sources/using-caffeine-to-optimize-mental-physical-performance-scim1210768101.md) — Huberman Lab solo episode on adenosine blockade, caffeine timing and dose, performance, memory, learned reinforcement, tolerance, sleep, and stacking risks.
 
 ## Entities
+- [Tupamaros](entities/Tupamaros.md) — Uruguayan urban guerrilla movement whose robberies, kidnappings, armed propaganda, and defeat were bound to a wider democratic collapse.
+- [Jose Mujica](entities/JoseMujica.md) — Former Tupamaro prisoner who entered electoral politics and served as Uruguay's president from 2010 to 2015.
+- [Raul Sendic](entities/RaulSendic.md) — Socialist labor activist and founder of the Tupamaros.
+- [Geoffrey Jackson](entities/GeoffreyJacksonDiplomat.md) — British ambassador held by the Tupamaros for 244 days in 1971.
+- [Dan Mitrione](entities/DanMitrione.md) — US police adviser whose kidnapping, death, and disputed torture-training role anchor a Cold War controversy.
 - [Charles Dickens](entities/CharlesDickens.md) — British novelist whose 1842 U.S. tour turned literary celebrity into conflict over slavery, copyright, public intrusion, and national stereotype.
 - [Andrew Carnegie](entities/AndrewCarnegie.md) — Scottish-born U.S. industrialist whose fortune and transatlantic philanthropy symbolize shifting Anglo-American economic power.
 - [Plutarco Elias Calles](entities/PlutarcoEliasCalles.md) — Post-revolutionary president whose anti-clerical state-building forms the political background to the episode's festival-reinvention argument.
@@ -14819,6 +14825,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Wieliczka Salt Mine](entities/WieliczkaSaltMine.md) — Royal salt industry transformed into an underground religious-art, tourism, and national-memory complex.
 
 ## Concepts
+- [Democratic Security Escalation Trap](concepts/DemocraticSecurityEscalationTrap.md) — Process in which defeating a real armed challenge through expanding emergency coercion destroys the democracy being defended.
+- [Urban Guerrilla Armed Propaganda](concepts/UrbanGuerrillaArmedPropaganda.md) — Coercive action designed for resources, political messaging, publicity, and demonstration of state incapacity.
+- [Militant-to-Democratic Politics](concepts/MilitantToDemocraticPolitics.md) — Contingent shift from armed activism into electoral government without erasing responsibility, victimization, or justice disputes.
 - [Anglo-American Power Reversal](concepts/AngloAmericanPowerReversal.md) — Shift in attention, capital, strategic hierarchy, and cultural judgment between Britain and the United States across distinct domains.
 - [Black American GIs in Wartime Britain](concepts/BlackAmericanGIsWartimeBritain.md) — Allied wartime case where U.S. military segregation met British civilian resistance, racial conflict, and local solidarity.
 - [Day of the Dead](concepts/DayOfTheDead.md) — Layered Mexican commemorative festival joining Catholic-Iberian ritual, Indigenous materials, colonial foodways, national recoding, political art, and media spectacle.

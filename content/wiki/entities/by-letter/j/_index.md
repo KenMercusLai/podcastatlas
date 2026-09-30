@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 11517
+wiki_total_pages: 11522
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -980,6 +980,9 @@ wiki_pages:
   - key: "JoseGuadalupePosada"
     title: "Jose Guadalupe Posada"
     url: "/wiki/entities/joseguadalupeposada/"
+  - key: "JoseMujica"
+    title: "Jose Mujica"
+    url: "/wiki/entities/josemujica/"
   - key: "JosefBratfisch"
     title: "Josef Bratfisch"
     url: "/wiki/entities/josefbratfisch/"

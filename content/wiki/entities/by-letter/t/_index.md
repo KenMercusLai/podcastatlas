@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 11517
+wiki_total_pages: 11522
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1145,6 +1145,9 @@ wiki_pages:
   - key: "TungCheeHwa"
     title: "Tung Chee-hwa / 董建華"
     url: "/wiki/entities/tungcheehwa/"
+  - key: "Tupamaros"
+    title: "Tupamaros"
+    url: "/wiki/entities/tupamaros/"
   - key: "Tupia"
     title: "Tupia"
     url: "/wiki/entities/tupia/"
