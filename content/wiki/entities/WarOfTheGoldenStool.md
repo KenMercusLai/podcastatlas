@@ -4,7 +4,8 @@ type: entity
 tags: [war, asante, ghana, anti-colonial-resistance]
 sources:
   - 317-african-amazons-glt5973082485
-last_updated: 2026-09-04
+  - 269-ghana-the-ashanti-empire-glt3638102749
+last_updated: 2026-09-30
 knowledge_schema: synthesis-v1
 ---
 
@@ -12,36 +13,44 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-The War of the Golden Stool is the Asante-British resistance conflict the episode uses to identify [[YaaAsantewaa]] as a famous martial queen mother.
+The War of the Golden Stool is the 1900 Asante-British conflict in which a demand to possess and sit on the [[GoldenStool]] turned colonial supremacy into a direct assault on sacred collective sovereignty.
 
 ## Current Profile
 
-The source mentions the conflict as the setting that makes Yaa Asantewaa the most famous martial example of [[AsanteQueenMothers]]. It is therefore currently a focused event node rather than a full military history. Its wiki role is to connect queen-mother authority, British imperial pressure, and public memory of female-led resistance.
+The war followed decades of trade, border tension, repeated warfare, the destruction of parts of [[Kumasi]], and the 1896 deposition and exile of Prempeh. A British governor's demand for the Golden Stool violated the rule that nobody sits on it and triggered resistance. The stool was hidden, many Asante elites were later exiled, and its survival preserved a focus of institutional continuity.
+
+[[YaaAsantewaa]] is the famous martial example of [[AsanteQueenMothers]]. Her military leadership emerged from an existing political institution and a sovereignty crisis, not simply from exceptional individual courage.
 
 ## Key Characteristics
 
-- Asante resistance conflict named by the source.
-- Associated with British pressure on Asante authority.
-- The event through which [[YaaAsantewaa]] becomes the source's martial queen-mother example.
-- Links institutional female political authority to anti-colonial military resistance.
+- Asante resistance conflict against British colonial pressure in 1900.
+- Triggered in the source by a demand that violated the Golden Stool's sacred status.
+- Culmination of a longer nineteenth-century Anglo-Asante conflict sequence.
+- Conflict associated with Yaa Asantewaa's queen-mother leadership.
+- War after which the hidden stool and Asante institution survived despite deaths and exile.
 
 ## Evidence
 
-- Event association: [[317-african-amazons-glt5973082485]] says Yaa Asantewaa resisted the British during the War of the Golden Stool.
-- Institutional meaning: [[317-african-amazons-glt5973082485]] introduces the event after explaining [[AsanteQueenMothers]] and their authority in selection, veto, and counsel.
-- Comparative role: [[317-african-amazons-glt5973082485]] uses the event as one case among Kush, Njinga, Madagascar, and Dahomey examples.
+- Immediate cause and symbolic meaning: [[269-ghana-the-ashanti-empire-glt3638102749]] says the governor demanded the stool and asked why he was not sitting on it, although nobody may do so.
+- Longer conflict: [[269-ghana-the-ashanti-empire-glt3638102749]] connects the war to repeated Anglo-Asante clashes, Kumasi's destruction, and Prempeh's exile.
+- Female institutional leadership: [[317-african-amazons-glt5973082485]] presents Yaa Asantewaa as the best-known martial queen mother because she resisted British pressure during this war.
+- Symbolic survival: [[269-ghana-the-ashanti-empire-glt3638102749]] says the stool remained hidden from British seizure and later received a formal promise of respect.
 
 ## Qualifications
 
-The source does not give the war's full chronology, causes, military course, or settlement. Current claims are limited to the episode's use of the war as Yaa Asantewaa's resistance setting.
+Neither source provides a complete campaign history, British administrative record, Asante account of mobilization, or settlement analysis. The wider episode does not name Yaa Asantewaa in its summary, while the comparative episode supplies little chronology; their claims complement one another but are not independent corroboration of every detail.
 
 ## What Changed
 
-- Created the War of the Golden Stool as the event node for Yaa Asantewaa's martial authority.
+- Expanded the page from a brief Yaa Asantewaa setting into a symbolic-sovereignty and conflict chronology.
+- Added the governor's demand, the stool's concealment, elite exile, and institutional survival.
+- Connected queen-mother leadership to the longer Anglo-Asante conflict sequence.
 
 ## Relationships
 
-- [[YaaAsantewaa]] - queen-mother figure associated with the conflict.
-- [[Asante]] - society and polity resisting British pressure in the source.
-- [[AsanteQueenMothers]] - institution whose military authority becomes visible through the event.
-- [[AfricanFemaleAuthorityInstitutions]] - concept the event helps support.
+- [[GoldenStool]] - sacred collective symbol whose threatened seizure gives the war its meaning.
+- [[YaaAsantewaa]] - queen mother associated with leading resistance.
+- [[AsanteQueenMothers]] - institution through which the earlier source explains her authority.
+- [[Asante]] - polity defending sacred and political sovereignty.
+- [[Kumasi]] - capital whose earlier destruction forms part of the conflict background.
+- [[SacredSymbolicStateFormation]] - framework explaining why a ritual violation could become a sovereignty crisis.

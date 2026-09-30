@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 8893
+wiki_total_pages: 8894
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -50,6 +50,9 @@ wiki_pages:
   - key: "SacramentDonationModel"
     title: "Sacrament Donation Model"
     url: "/wiki/concepts/sacramentdonationmodel/"
+  - key: "SacredSymbolicStateFormation"
+    title: "Sacred Symbolic State Formation"
+    url: "/wiki/concepts/sacredsymbolicstateformation/"
   - key: "SacredObjectAuthorityMigration"
     title: "Sacred-Object Authority Migration"
     url: "/wiki/concepts/sacredobjectauthoritymigration/"

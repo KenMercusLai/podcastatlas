@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-30] ingest | 269: Ghana: The Ashanti Empire
+
+Added source `269-ghana-the-ashanti-empire-glt3638102749`; created `Denkyira`, `OseiTutu`, `OkomfoAnokye`, `GoldenStool`, `Kumasi`, and `SacredSymbolicStateFormation`; updated `Ghana`, `Asante`, `WarOfTheGoldenStool`, `HeroicResistanceViolenceAmbiguity`, and the canonical index from their complete bounded source sets. Core synthesis: Asante state capacity joined sacred collective identity, military organization, trade, visible rank, and a capital at Kumasi, while neither Asante participation in conquest and slavery nor British invasion, destruction, deposition, and colonial self-justification supports a simple hero-villain story. No settled contradiction was adopted. Origin traditions, alleged human sacrifice, observer accounts, casualty totals, etymology, speeches, motives, and modern institutional details remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-30] ingest | 280: Serbia: The Birthplace of Civilisation
 
 Added source `280-serbia-the-birthplace-of-civilisation-glt4941340070`; created `VincaCulture`, `MilojeVasic`, `MarijaGimbutas`, `TartariaTablets`, `VincaSymbolsProtoWriting`, and `ArchaeologicalInterpretationUnderSparseEvidence`; and updated `Serbia` and the canonical index from Serbia's complete bounded source set. Core synthesis: Vinča's large settlements, material culture, agriculture, early copper working, and sign corpus are substantial, while claims of full writing, modern Serbian continuity, matriarchy, pacifism, mother-goddess religion, Aegean descent, or a single invasion or environmental collapse exceed the supplied evidence. No settled contradiction was adopted. Dates, population and sign totals, metallurgical priority, tablet context, and collapse models remain source-scoped or contested. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -25740,6 +25744,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-30] ingest | 270: Poland: Copernicus, the Dragon and the Salt Mine
 
 Added source `270-poland-copernicus-the-dragon-and-the-salt-mine-glt2590789810`; created `Poland`, `Krakow`, `Zamosc`, `ElblagCanal`, `WawelHill`, `MalborkCastle`, `Torun`, `NicolausCopernicus`, `WieliczkaSaltMine`, `PolishBuiltHeritagePalimpsest`, `HeritageSurvivalAndReconstruction`, and `PremodernIdentityModernNationality`. Core synthesis: the seven-wonders route challenges a simple East-West map by showing Polish landmarks as products of trade, artistic transfer, composite rule, shifting borders, occupation, conservation, and tourism; material survival or reconstruction must be separated from continuity of the communities that gave places meaning, and premodern people such as Copernicus do not fit exclusive modern national labels. No settled contradiction was adopted. Rankings, dimensions, population and production figures, demolition plans, language claims, and causal interpretations remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten because this episode opens a bounded Polish-history branch without changing the wiki-wide synthesis.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-30] lint | Wiki health check
 

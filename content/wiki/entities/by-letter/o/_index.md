@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "o"
-wiki_total_pages: 11491
+wiki_total_pages: 11496
 wiki_pages:
   - key: "OneX"
     title: "1X"
@@ -83,6 +83,9 @@ wiki_pages:
   - key: "Okinawa"
     title: "Okinawa"
     url: "/wiki/entities/okinawa/"
+  - key: "OkomfoAnokye"
+    title: "Okomfo Anokye"
+    url: "/wiki/entities/okomfoanokye/"
   - key: "Okta"
     title: "Okta"
     url: "/wiki/entities/okta/"
@@ -317,6 +320,9 @@ wiki_pages:
   - key: "OscarWilde"
     title: "Oscar Wilde / 王尔德"
     url: "/wiki/entities/oscarwilde/"
+  - key: "OseiTutu"
+    title: "Osei Tutu"
+    url: "/wiki/entities/oseitutu/"
   - key: "OskAdvisory"
     title: "Osk Advisory"
     url: "/wiki/entities/oskadvisory/"

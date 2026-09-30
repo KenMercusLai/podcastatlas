@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 11491
+wiki_total_pages: 11496
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -572,6 +572,9 @@ wiki_pages:
   - key: "GoldenLink"
     title: "Golden Link"
     url: "/wiki/entities/goldenlink/"
+  - key: "GoldenStool"
+    title: "Golden Stool"
+    url: "/wiki/entities/goldenstool/"
   - key: "GoldmanSachs"
     title: "Goldman Sachs"
     url: "/wiki/entities/goldmansachs/"

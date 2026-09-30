@@ -1402,6 +1402,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "269-ghana-the-ashanti-empire-glt3638102749": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "27-xiqukeke-yizai-nin-zhuoxia-anzhi-zhadan-582370829": [
     {
       "key": "culture",
@@ -34206,6 +34213,18 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "Ghana": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "GhostInTheShellStandaloneComplex": [

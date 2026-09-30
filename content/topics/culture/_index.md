@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2926
+topic_total_pages: 2927
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -4031,6 +4031,9 @@ topic_entities:
   - key: "GerontocracyInAmerica"
     title: "Gerontocracy in America"
     url: "/wiki/entities/gerontocracyinamerica/"
+  - key: "Ghana"
+    title: "Ghana"
+    url: "/wiki/entities/ghana/"
   - key: "GianniInfantino"
     title: "Gianni Infantino"
     url: "/wiki/entities/gianniinfantino/"

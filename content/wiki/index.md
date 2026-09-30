@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [269: Ghana: The Ashanti Empire](sources/269-ghana-the-ashanti-empire-glt3638102749.md) — The Rest Is History episode on Asante state formation, the Golden Stool, Kumasi, military-commercial power, Anglo-Asante conflict, and symbolic continuity.
 - [270: Poland: Copernicus, the Dragon and the Salt Mine](sources/270-poland-copernicus-the-dragon-and-the-salt-mine-glt2590789810.md) — The Rest Is History tour of seven Polish wonders linking European trade and exchange, layered national memory, Jewish destruction, occupation, conservation, and tourism.
 - [索道赚钱能力堪比茅台，山岳景区为何还在为增长发愁？](sources/suodao-zhuanqian-nengli-kanbi-maotai-shanyue-jingqu-weihe-hai-zai-wei-zengzhang-fachou-1020019950.md) — 声动早咖啡 episode on high-margin cableway economics, weak destination-level conversion, hotel tradeoffs, capacity, and the shift from fixed-route sightseeing toward deeper outdoor experiences.
 - [271: Belgium: History's Greatest Artist](sources/271-belgium-historys-greatest-artist-glt1331750756.md) — The Rest Is History episode on Jan van Eyck, Burgundian court service, layered oil technique, artistic individualism, Flemish wealth, and the Ghent Altarpiece.
@@ -3263,6 +3264,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Using Caffeine to Optimize Mental & Physical Performance](sources/using-caffeine-to-optimize-mental-physical-performance-scim1210768101.md) — Huberman Lab solo episode on adenosine blockade, caffeine timing and dose, performance, memory, learned reinforcement, tolerance, sleep, and stacking risks.
 
 ## Entities
+- [Denkyira](entities/Denkyira.md) — Dominant Akan polity whose defeat opens the episode's account of Asante expansion.
+- [Osei Tutu](entities/OseiTutu.md) — Political founder associated with Asante integration, Kumasi, and military consolidation.
+- [Okomfo Anokye](entities/OkomfoAnokye.md) — Sacred and strategic founder paired with Osei Tutu in the Asante origin narrative.
+- [Golden Stool](entities/GoldenStool.md) — Sacred collective-sovereignty symbol connecting Asante foundation, resistance, and continuity.
+- [Kumasi](entities/Kumasi.md) — Asante capital joining urban sophistication, court authority, and imperial destruction.
 - [Goree Island](entities/Goree.md) — Senegalese colonial trading island and global slavery-memory site whose statistical role and symbolic afterlife must be distinguished.
 - [House of Slaves (Goree)](entities/HouseOfSlavesGoree.md) — Gorée museum whose “Door of No Return” is a powerful pilgrimage symbol despite disputed mass-embarkation claims.
 - [Boubacar Joseph Ndiaye](entities/BoubacarJosephNdiaye.md) — Curator whose storytelling helped turn the House of Slaves into an international memory site.
@@ -7211,10 +7217,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ndongo](entities/Ndongo.md) — West Central African kingdom whose succession crisis and Portuguese pressure shaped Queen Njinga's rise.
 - [Matamba](entities/Matamba.md) — Kingdom that Queen Njinga conquered and used as a base for recognized rule.
 - [Imbangala](entities/Imbangala.md) — Military group whose alliance and contested ritual descriptions complicate the Njinga narrative.
-- [Asante](entities/Asante.md) — Matrilineal Akan polity used to explain queen-mother authority and Yaa Asantewaa's resistance.
+- [Asante](entities/Asante.md) — Akan polity joining sacred state formation, military-commercial expansion, matrilineal authority, and British conflict.
 - [Asante Queen Mothers](entities/AsanteQueenMothers.md) — Institutional female office with king-selection, veto, counsel, and martial-resistance significance.
 - [Yaa Asantewaa](entities/YaaAsantewaa.md) — Asante queen mother remembered in the source for resisting the British during the War of the Golden Stool.
-- [War of the Golden Stool](entities/WarOfTheGoldenStool.md) — British-Asante conflict used as the episode's clearest martial queen-mother example.
+- [War of the Golden Stool](entities/WarOfTheGoldenStool.md) — 1900 British-Asante sovereignty conflict centered on the Golden Stool and Yaa Asantewaa's resistance.
 - [Ranavalona I](entities/RanavalonaI.md) — Malagasy ruler framed as anti-European sovereign whose harsh rule and reputation require source criticism.
 - [Dahomey](entities/Dahomey.md) — West African kingdom whose Agojie regiment and slavery entanglement anchor the source's popular-history controversy.
 - [Agojie](entities/Agojie.md) — Dahomey's women warrior regiment, read through palace origins, military formalization, slavery, spectacle, and European observer bias.
@@ -13454,7 +13460,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Chile](entities/Chile.md) — Latin America country node now covering both copper/undersea-cable strategy and the South American fishmeal supply cluster with Peru and Ecuador.
 - [Paraguay](entities/Paraguay.md) — Possible mineral-project destination in the Latin America investment boom.
 - [Nigeria](entities/Nigeria.md) — Jollof-price shock case where food inflation, diesel, roads, weather, and wages make a staple dish unaffordable.
-- [Ghana](entities/Ghana.md) — Jollof Index contrast case where lower inflation and a stronger currency cushion food prices more than in Nigeria.
+- [Ghana](entities/Ghana.md) — West African country represented through Asante history, food prices, radio access, and route displacement.
 - [BBC](entities/BBC.md) — Public broadcaster whose Droitwich longwave shutdown becomes a broadcast-infrastructure and access case.
 - [BYD](entities/BYD.md) — Chinese EV and battery company linked to Brazil manufacturing, early battery process learning, and blade-battery route design.
 - [SBM Intelligence](entities/SBMIntelligence.md) — Organization behind the Jollof Index used to compare food affordability in Nigeria and Ghana.
@@ -14783,6 +14789,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Wieliczka Salt Mine](entities/WieliczkaSaltMine.md) — Royal salt industry transformed into an underground religious-art, tourism, and national-memory complex.
 
 ## Concepts
+- [Sacred Symbolic State Formation](concepts/SacredSymbolicStateFormation.md) — How sacred objects, founding narrative, ceremony, and visible rank can integrate and defend a polity.
 - [Polish Built-Heritage Palimpsest](concepts/PolishBuiltHeritagePalimpsest.md) — Framework reading Polish landmarks as layered products of trade, dynasty, religion, border change, occupation, conservation, and tourism.
 - [Heritage Survival and Reconstruction](concepts/HeritageSurvivalAndReconstruction.md) — Distinction among continuous fabric, rebuilding, adaptive reuse, and continuity of the communities that gave places meaning.
 - [Premodern Identity and Modern Nationality](concepts/PremodernIdentityModernNationality.md) — Method separating historically situated affiliations from exclusive national labels projected backward.
@@ -16913,7 +16920,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Robotaxi Platform Disintermediation / 自动驾驶平台去中介化](concepts/RobotaxiPlatformDisintermediation.md) — Risk that robotaxi suppliers can reduce ride-hailing platforms' intermediary role by reaching riders directly.
 - [African Female Authority Institutions](concepts/AfricanFemaleAuthorityInstitutions.md) — Framework for reading African female power through offices, matrilineal authority, queen mothers, ruler titles, and military regiments.
 - [European Amazon Projection](concepts/EuropeanAmazonProjection.md) — Source-critical frame for how European fascination turned African women warriors into exoticized "Amazon" spectacle.
-- [Heroic Resistance-Violence Ambiguity](concepts/HeroicResistanceViolenceAmbiguity.md) — Moral frame for rulers and regiments that resist foreign domination while remaining entangled in coercion, slavery, and harsh violence.
+- [Heroic Resistance-Violence Ambiguity](concepts/HeroicResistanceViolenceAmbiguity.md) — Moral frame for resistance that remains entangled in conquest, slavery, coercion, and imperial self-justification.
 - [Pediatric Language Delay Early Intervention](concepts/PediatricLanguageDelayEarlyIntervention.md) — Child-language frame rejecting passive "贵人语迟" waiting when comprehension, gesture, emotion, interaction, or expression signals are weak.
 - [Child Communication Development Signals](concepts/ChildCommunicationDevelopmentSignals.md) — Observation frame for speech, comprehension, gesture, emotion, social response, pointing, dialogue, and sentence-level communication.
 - [Family Communication Scaffolding](concepts/FamilyCommunicationScaffolding.md) — Caregiver-practice frame for creating expression opportunities, familiar cues, patient prompting, emotional safety, and home support during speech-language rehabilitation.

@@ -13866,9 +13866,9 @@
       "url": "/wiki/concepts/artisticfeedbackboundary/"
     },
     "Asante": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5973082485 [GLT5973082485].md",
@@ -13876,9 +13876,16 @@
           "show": "The Rest Is History",
           "title": "317: African Amazons",
           "url": "/wiki/sources/317-african-amazons-glt5973082485/"
+        },
+        {
+          "episode_file": "GLT3638102749 [GLT3638102749].md",
+          "key": "269-ghana-the-ashanti-empire-glt3638102749",
+          "show": "The Rest Is History",
+          "title": "269: Ghana: The Ashanti Empire",
+          "url": "/wiki/sources/269-ghana-the-ashanti-empire-glt3638102749/"
         }
       ],
-      "updated": "2026-09-04",
+      "updated": "2026-09-30",
       "url": "/wiki/entities/asante/"
     },
     "AsanteQueenMothers": {
@@ -44387,6 +44394,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/denishealey/"
     },
+    "Denkyira": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3638102749 [GLT3638102749].md",
+          "key": "269-ghana-the-ashanti-empire-glt3638102749",
+          "show": "The Rest Is History",
+          "title": "269: Ghana: The Ashanti Empire",
+          "url": "/wiki/sources/269-ghana-the-ashanti-empire-glt3638102749/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/denkyira/"
+    },
     "Denmark": {
       "episode_count": 4,
       "show_count": 3,
@@ -71028,6 +71051,43 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/geronimodeaguilar/"
     },
+    "Ghana": {
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "Taking the shine off： albedo and global temperatures [6a730fdaca067b295bab9760].md",
+          "key": "taking-the-shine-off-albedo-and-global-temperatures-6a730fdaca067b295bab9760",
+          "show": "Economist Podcasts",
+          "title": "Taking the shine off: albedo and global temperatures",
+          "url": "/wiki/sources/taking-the-shine-off-albedo-and-global-temperatures-6a730fdaca067b295bab9760/"
+        },
+        {
+          "episode_file": "In arms’ way： Gaza-deal sticking points [6a71b49647235c354d3c9b74].md",
+          "key": "in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74",
+          "show": "Economist Podcasts",
+          "title": "In arms’ way: Gaza-deal sticking points",
+          "url": "/wiki/sources/in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74/"
+        },
+        {
+          "episode_file": "Latin lessons： the Donroe-doctrine boost [6a4233e26b6690f46aae4e3d].md",
+          "key": "latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d",
+          "show": "Economist Podcasts",
+          "title": "Latin lessons: the Donroe-doctrine boost",
+          "url": "/wiki/sources/latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d/"
+        },
+        {
+          "episode_file": "GLT3638102749 [GLT3638102749].md",
+          "key": "269-ghana-the-ashanti-empire-glt3638102749",
+          "show": "The Rest Is History",
+          "title": "269: Ghana: The Ashanti Empire",
+          "url": "/wiki/sources/269-ghana-the-ashanti-empire-glt3638102749/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/ghana/"
+    },
     "Gheelish": {
       "episode_count": 1,
       "show_count": 1,
@@ -71839,6 +71899,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/goldendoor/"
+    },
+    "GoldenStool": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3638102749 [GLT3638102749].md",
+          "key": "269-ghana-the-ashanti-empire-glt3638102749",
+          "show": "The Rest Is History",
+          "title": "269: Ghana: The Ashanti Empire",
+          "url": "/wiki/sources/269-ghana-the-ashanti-empire-glt3638102749/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/goldenstool/"
     },
     "GongDuLateHan": {
       "episode_count": 1,
@@ -80073,9 +80149,9 @@
       "url": "/wiki/concepts/heroiclaststandmyth/"
     },
     "HeroicResistanceViolenceAmbiguity": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5973082485 [GLT5973082485].md",
@@ -80083,9 +80159,16 @@
           "show": "The Rest Is History",
           "title": "317: African Amazons",
           "url": "/wiki/sources/317-african-amazons-glt5973082485/"
+        },
+        {
+          "episode_file": "GLT3638102749 [GLT3638102749].md",
+          "key": "269-ghana-the-ashanti-empire-glt3638102749",
+          "show": "The Rest Is History",
+          "title": "269: Ghana: The Ashanti Empire",
+          "url": "/wiki/sources/269-ghana-the-ashanti-empire-glt3638102749/"
         }
       ],
-      "updated": "2026-09-04",
+      "updated": "2026-09-30",
       "url": "/wiki/concepts/heroicresistanceviolenceambiguity/"
     },
     "HerpesZosterClinicalManagement": {
@@ -99567,6 +99650,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/kumagaiandatsumori/"
+    },
+    "Kumasi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3638102749 [GLT3638102749].md",
+          "key": "269-ghana-the-ashanti-empire-glt3638102749",
+          "show": "The Rest Is History",
+          "title": "269: Ghana: The Ashanti Empire",
+          "url": "/wiki/sources/269-ghana-the-ashanti-empire-glt3638102749/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/kumasi/"
     },
     "KunyangBattle": {
       "episode_count": 4,
@@ -128766,6 +128865,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/concepts/okinawabasepolitics/"
     },
+    "OkomfoAnokye": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3638102749 [GLT3638102749].md",
+          "key": "269-ghana-the-ashanti-empire-glt3638102749",
+          "show": "The Rest Is History",
+          "title": "269: Ghana: The Ashanti Empire",
+          "url": "/wiki/sources/269-ghana-the-ashanti-empire-glt3638102749/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/okomfoanokye/"
+    },
     "Okta": {
       "episode_count": 1,
       "show_count": 1,
@@ -130334,6 +130449,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/oscarwilde/"
+    },
+    "OseiTutu": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3638102749 [GLT3638102749].md",
+          "key": "269-ghana-the-ashanti-empire-glt3638102749",
+          "show": "The Rest Is History",
+          "title": "269: Ghana: The Ashanti Empire",
+          "url": "/wiki/sources/269-ghana-the-ashanti-empire-glt3638102749/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/oseitutu/"
     },
     "OsorioDuqueEstrada": {
       "episode_count": 1,
@@ -152079,6 +152210,22 @@
       ],
       "updated": "2026-09-17",
       "url": "/wiki/entities/sacredpawssoapcompany/"
+    },
+    "SacredSymbolicStateFormation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3638102749 [GLT3638102749].md",
+          "key": "269-ghana-the-ashanti-empire-glt3638102749",
+          "show": "The Rest Is History",
+          "title": "269: Ghana: The Ashanti Empire",
+          "url": "/wiki/sources/269-ghana-the-ashanti-empire-glt3638102749/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/sacredsymbolicstateformation/"
     },
     "SadeanNaturalism": {
       "episode_count": 1,
@@ -182768,9 +182915,9 @@
       "url": "/wiki/entities/warof1812/"
     },
     "WarOfTheGoldenStool": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5973082485 [GLT5973082485].md",
@@ -182778,9 +182925,16 @@
           "show": "The Rest Is History",
           "title": "317: African Amazons",
           "url": "/wiki/sources/317-african-amazons-glt5973082485/"
+        },
+        {
+          "episode_file": "GLT3638102749 [GLT3638102749].md",
+          "key": "269-ghana-the-ashanti-empire-glt3638102749",
+          "show": "The Rest Is History",
+          "title": "269: Ghana: The Ashanti Empire",
+          "url": "/wiki/sources/269-ghana-the-ashanti-empire-glt3638102749/"
         }
       ],
-      "updated": "2026-09-04",
+      "updated": "2026-09-30",
       "url": "/wiki/entities/warofthegoldenstool/"
     },
     "WarrenCommission": {

@@ -4,7 +4,8 @@ type: concept
 tags: [historiography, violence, slavery, anti-colonial-resistance, gender]
 sources:
   - 317-african-amazons-glt5973082485
-last_updated: 2026-09-04
+  - 269-ghana-the-ashanti-empire-glt3638102749
+last_updated: 2026-09-30
 knowledge_schema: synthesis-v1
 ---
 
@@ -12,39 +13,43 @@ knowledge_schema: synthesis-v1
 
 ## Definition
 
-Heroic resistance-violence ambiguity is the source's pattern where a ruler or military institution can be a formidable resister of foreign pressure while also participating in slavery, coercion, execution, persecution, or brutal war.
+Heroic resistance-violence ambiguity is the pattern in which a ruler, institution, or polity can resist foreign domination while also participating in conquest, slavery, coercion, execution, persecution, or brutal war.
 
 ## Current Synthesis
 
-The episode makes this ambiguity the moral center of the African Amazons discussion. [[QueenNjinga]] resists Portuguese domination through diplomacy, rebellion, alliance, and Christian recognition, but the source also ties her to Dutch slave supply, violent conquest, and uncertain ritual brutality. [[RanavalonaI]] resists British and French pressure and has a reputation distorted by European sources, yet the episode still describes ordeal, persecution, executions, overwork, and harsh projects. [[Dahomey]] and the [[Agojie]] sharpen the same issue because female military power and modern film fascination sit beside war captives, serfdom, and sale to Europeans.
+The African Amazons source establishes the framework through [[QueenNjinga]], [[RanavalonaI]], [[Dahomey]], and the [[Agojie]]. Resistance to Portuguese, British, or French pressure does not remove Dutch slave supply, war captives, ordeal, persecution, executions, forced labor, or violent rule. Source criticism can correct hostile European caricature without converting every resistant actor into an uncomplicated hero.
+
+The Asante history extends the ambiguity from individual women rulers and regiments to two competing empires. [[Asante]] appears as institutionally sophisticated and capable of defending the [[GoldenStool]], while also expanding through war and participating in gold and slave trading. British actors can oppose Atlantic slavery and describe alleged ritual killing while also invading, destroying parts of [[Kumasi]], deposing rulers, and imposing colonial power. Holding both sides' violence in view is not an assertion that their power, motives, or consequences were identical.
 
 ## Key Claims
 
-- Resistance to foreign domination does not automatically make a ruler or institution morally clean.
-- Slavery and coercion should remain inside the account even when the central actors are women or anti-colonial figures.
-- Source criticism can reduce caricature without erasing violence.
-- A heroic/villain binary is especially weak when local power, Atlantic slavery, European pressure, and gendered spectacle overlap.
-- The ambiguity belongs to historical explanation, not just to modern judgment.
+- Resistance to foreign domination does not automatically make a ruler or polity morally clean.
+- Slavery, coercion, and conquest remain relevant even when the central actors are anti-colonial figures or women.
+- Source criticism can reduce colonial caricature without erasing locally exercised violence.
+- Imperial moral language can identify real abuses while also serving conquest and self-justification.
+- Rejecting a hero-villain binary does not require false equivalence between unequal powers or historical situations.
 
 ## Evidence
 
-- Njinga case: [[317-african-amazons-glt5973082485]] says [[QueenNjinga]] fought Portuguese domination, recovered much of [[Ndongo]], and was recognized in [[Matamba]], while also supplying the Dutch with slaves and using coercive violence.
-- Ranavalona case: [[317-african-amazons-glt5973082485]] says [[RanavalonaI]] resisted British and French forces while restoring ordeal and persecuting Christians through denunciations, executions, and a spy network.
-- Dahomey case: [[317-african-amazons-glt5973082485]] says [[Dahomey]]'s war captives could be kept as serfs or sold to Europeans and that the [[Agojie]] were embedded in this violent political world.
-- Interpretive warning: [[317-african-amazons-glt5973082485]] says the episode refuses to flatten African history into modern morality plays.
+- Rulers and institutions: [[317-african-amazons-glt5973082485]] places Njinga's resistance beside slave supply and conquest, Ranavalona's sovereignty beside persecution and forced labor, and Dahomey's Agojie beside captive-taking and sale.
+- Asante expansion and resistance: [[269-ghana-the-ashanti-empire-glt3638102749]] combines disciplined state capacity and defense of the Golden Stool with conquest, slavery, and disputed sacrifice claims.
+- British moral power: [[269-ghana-the-ashanti-empire-glt3638102749]] combines abolitionist hostility to slavery and claimed horror at sacrifice with invasion, city destruction, deposition, and colonial domination.
+- Interpretive limit: both [[317-african-amazons-glt5973082485]] and [[269-ghana-the-ashanti-empire-glt3638102749]] explicitly resist flattening the history into a simple morality play.
 
 ## Counterevidence & Qualifications
 
-The concept does not deny the reality of Portuguese, British, French, Dutch, or broader European coercion. It also does not claim that African violence was uniquely intense. The source explicitly says violence should be read in wider world history while still keeping local agency and slave-trade participation visible.
+The concept does not deny European colonial coercion, treat all violence as equivalent, or establish the truth of every atrocity report. Human-sacrifice accounts in the Asante episode are explicitly tentative, and many vivid African cases depend on European, missionary, military, or traveler sources. Moral complexity should increase evidentiary precision, not become a shortcut for agnosticism or symmetry.
 
 ## What Changed
 
-- Created the concept as the main moral-interpretive frame from the African Amazons episode.
+- Extended the concept from women rulers and military institutions to competing Asante and British imperial projects.
+- Added the distinction between moral complexity and false equivalence.
+- Added abolitionist and civilizing language as claims that can coexist with imperial coercion.
 
 ## Related Concepts
 
-- [[EuropeanAmazonProjection]] - source-critical frame that explains why some violent descriptions need caution.
-- [[AfricanFemaleAuthorityInstitutions]] - institutional frame that prevents moral ambiguity from collapsing into exotic spectacle.
-- [[SlaveryNationalIdentityContradiction]] - adjacent slavery-and-public-identity tension from the Brazil branch.
-- [[AtlanticSlaveTradePrivateeringLink]] - adjacent Atlantic slavery-war-commerce contradiction from the Drake branch.
-- [[CoercedConsentUnderSlavery]] - adjacent concept preserving coercive power inside slavery narratives.
+- [[EuropeanAmazonProjection]] - source-critical frame for outsider fascination and violent description.
+- [[AfricanFemaleAuthorityInstitutions]] - institutional frame preventing female power from becoming exotic spectacle.
+- [[SacredSymbolicStateFormation]] - Asante legitimacy framework that this page morally qualifies.
+- [[ColonialSourceMediation]] - method for evaluating oral tradition and colonial descriptions without automatic acceptance or dismissal.
+- [[ImperialCivilisingMissionContradiction]] - adjacent tension between humanitarian rhetoric and coercive imperial systems.

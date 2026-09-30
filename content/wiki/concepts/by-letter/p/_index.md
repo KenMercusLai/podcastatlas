@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8893
+wiki_total_pages: 8894
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"

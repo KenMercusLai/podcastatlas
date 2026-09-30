@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 11491
+wiki_total_pages: 11496
 wiki_pages:
   - key: "KennedyAssassination"
     title: "Assassination of John F. Kennedy"
@@ -575,6 +575,9 @@ wiki_pages:
   - key: "Kumamoto"
     title: "Kumamoto / 熊本"
     url: "/wiki/entities/kumamoto/"
+  - key: "Kumasi"
+    title: "Kumasi"
+    url: "/wiki/entities/kumasi/"
   - key: "KunNi"
     title: "Kun Ni"
     url: "/wiki/entities/kunni/"

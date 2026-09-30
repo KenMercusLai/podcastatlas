@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2214
+topic_total_pages: 2216
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1934,6 +1934,9 @@ topic_entities:
   - key: "GeorgFerdinandDuckwitz"
     title: "Georg Ferdinand Duckwitz"
     url: "/wiki/entities/georgferdinandduckwitz/"
+  - key: "Ghana"
+    title: "Ghana"
+    url: "/wiki/entities/ghana/"
   - key: "GreatZimbabwe"
     title: "Great Zimbabwe"
     url: "/wiki/entities/greatzimbabwe/"
@@ -4749,6 +4752,9 @@ topic_sources:
   - key: "171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962"
     title: "171.闲聊十二生肖之马：观音大士的兴趣爱好,及老头环角色的灵感"
     url: "/wiki/sources/171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962/"
+  - key: "269-ghana-the-ashanti-empire-glt3638102749"
+    title: "269: Ghana: The Ashanti Empire"
+    url: "/wiki/sources/269-ghana-the-ashanti-empire-glt3638102749/"
   - key: "271-tangchao-douyao-bucunzai-le-weishenme-weishilun-hui-zai-jinnian-da-baofa-lg7-wdrdw1b9h7lwa4vwkvmyb4un"
     title: "271.唐朝都要不存在了？为什么伪史论会在今年大爆发？"
     url: "/wiki/sources/271-tangchao-douyao-bucunzai-le-weishenme-weishilun-hui-zai-jinnian-da-baofa-lg7-wdrdw1b9h7lwa4vwkvmyb4un/"
