@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8948
+wiki_total_pages: 8952
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1754,9 +1754,15 @@ wiki_pages:
   - key: "ConflictDangerNormalization"
     title: "Conflict Danger Normalization"
     url: "/wiki/concepts/conflictdangernormalization/"
+  - key: "ConflictInformationVerification"
+    title: "Conflict Information Verification / 冲突信息核验"
+    url: "/wiki/concepts/conflictinformationverification/"
   - key: "ConflictOilWindfallInvestmentCycle"
     title: "Conflict Oil Windfall Investment Cycle"
     url: "/wiki/concepts/conflictoilwindfallinvestmentcycle/"
+  - key: "ConflictReportingAccessBias"
+    title: "Conflict Reporting Access Bias / 冲突报道准入偏差"
+    url: "/wiki/concepts/conflictreportingaccessbias/"
   - key: "ConflictDrivenIntergroupHatred"
     title: "Conflict-Driven Intergroup Hatred"
     url: "/wiki/concepts/conflictdrivenintergrouphatred/"

@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2947
+topic_total_pages: 2948
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1324,6 +1324,9 @@ topic_concepts:
   - key: "Gisaeng"
     title: "Gisaeng Social Institution"
     url: "/wiki/concepts/gisaeng/"
+  - key: "GlobalConflictAttentionInequality"
+    title: "Global Conflict Attention Inequality / 全球冲突注意力不平等"
+    url: "/wiki/concepts/globalconflictattentioninequality/"
   - key: "GlobalSportsGovernance"
     title: "Global Sports Governance"
     url: "/wiki/concepts/globalsportsgovernance/"

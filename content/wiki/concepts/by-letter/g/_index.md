@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 8948
+wiki_total_pages: 8952
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -272,6 +272,9 @@ wiki_pages:
   - key: "GlobalAIGovernanceFramework"
     title: "Global AI Governance Framework"
     url: "/wiki/concepts/globalaigovernanceframework/"
+  - key: "GlobalConflictAttentionInequality"
+    title: "Global Conflict Attention Inequality / 全球冲突注意力不平等"
+    url: "/wiki/concepts/globalconflictattentioninequality/"
   - key: "GlobalFinancialNetwork"
     title: "Global Financial Network"
     url: "/wiki/concepts/globalfinancialnetwork/"

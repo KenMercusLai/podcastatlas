@@ -7,22 +7,23 @@ sources:
   - cong-jiyin-bianji-nvtong-zhisi-shuoqi-zibizheng-bushi-xuyao-bei-xiufu-de-cuowu-lg7dofyeqv-7noq9w74oh6hsyk4b
   - women-ruhe-laoqu-cong-qianlang2-kuijian-zhongguo-laonian-shenghuo-de-zhenshi-tujing-lkybur9dgim4vxxyjuq1eav4i-up
   - zai-keji-shidai-zhongxin-lijie-womende-ai-gongzuo-yu-shenghuo-ljjrm6-ovwduouaecvymkbeyuvuqu
+  - lkuvt7driaody6cy5pq-bj517ord-lkuvt7driaody6cy5pq-bj517ord
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-14
+last_updated: 2026-09-30
 ---
 
 # 不合时宜 / Bu He Shi Yi
 
 ## Overview
-不合时宜 / Bu He Shi Yi is the Chinese podcast represented in this wiki by care-series episodes on dementia, family caregiving, autism, disability, aging, appointed guardianship, public support systems, and one technology-philosophy episode on AI-era life.
+不合时宜 / Bu He Shi Yi is a Chinese public-issues podcast represented in this wiki by care-system episodes, an AI-era technology-philosophy conversation, and a discussion of field journalism in war and conflict.
 
 ## Current Profile
-The current wiki profile is source-scoped to three care-series episodes plus one AI-era life conversation. One episode interviews [[TangYongSociologist|唐勇]] about dementia care and moves aging-related disability from private family anxiety into a public-care question involving [[CareSocialization]], [[ElderCareStateCapacity]], [[DementiaCaregiverBurden]], and [[ChinaLongTermCareInsurance]]. A second has [[WangQingBuHeShiYi|王磬]] and 若涵 interview [[XuYueAutismScholar|许悦]] about autism, the [[XiaoMeiGeneEditingCase]], disability rights, intervention, and support systems. A third uses [[FrontWave2Documentary|《前浪2》]] and [[FanShiguang|范世广]]'s documentary method to examine older-adult life through [[AppointedGuardianshipAgingPlanning]], [[ElderIntimacyCareAutonomy]], and [[OlderAdultStereotypeResistance]]. The latest interviews [[WangXiaowei|王小伟]] about [[ReEnteringLifeTechEraBook|《重新回到生活：科技时代的工作、情绪、爱情和死亡》]], extending the show profile into [[TechnologyPhilosophy]], AI intimacy, work meaning, emotion language, and [[AIJudgmentInfrastructure]].
+The current wiki profile is source-scoped to three care-series episodes, one AI-era life conversation, and one conflict-reporting roundtable. The care episodes move dementia, autism, disability, aging, and guardianship from private burden toward social support, law, dignity, and representation. The technology conversation with [[WangXiaowei|王小伟]] examines AI intimacy, work meaning, emotional language, and [[AIJudgmentInfrastructure]]. The conflict-reporting episode extends the same public-responsibility lens into journalism, asking how access, language, verification, institutional retreat, danger, and media attention shape what audiences can know about war.
 
-Together, the show profile now reads as a public-issue interview format that uses concrete family care, aging, disability, and technology cases to ask when society shifts burdens onto individuals and when institutions, language, law, media representation, professional systems, and technical infrastructures must share responsibility.
+Together, the show profile reads as a public-issue interview format that uses concrete care, technology, and reporting cases to ask when society shifts burdens onto individuals and when institutions, language, law, media, professional systems, and technical infrastructures must share responsibility.
 
 ## Key Characteristics
-- Public-issue interview format that combines macro data, academic expertise, lived family pressure, and concrete care cases.
+- Public-issue interview format that combines macro data, academic expertise, lived experience, and practitioners' cross-regional reporting knowledge.
 - Uses dementia, aging, autism, disability, guardianship, and documentary cases to connect intimate household pressure with public systems.
 - Frames care as relational and systemic rather than only filial morality, medical management, or parental sacrifice.
 - Keeps the cared-for person visible as a subject whose dignity, preferences, future, and support needs matter.
@@ -38,13 +39,14 @@ Together, the show profile now reads as a public-issue interview format that use
 - Aging and guardianship scope - [[women-ruhe-laoqu-cong-qianlang2-kuijian-zhongguo-laonian-shenghuo-de-zhenshi-tujing-lkybur9dgim4vxxyjuq1eav4i-up]] extends the care-series profile through 《前浪2》, appointed guardianship, solitary elders, non-kin care, late-life companionship, elder scams, and Shanghai local practice.
 - Media representation and specificity - [[women-ruhe-laoqu-cong-qianlang2-kuijian-zhongguo-laonian-shenghuo-de-zhenshi-tujing-lkybur9dgim4vxxyjuq1eav4i-up]] adds documentary restraint and anti-stereotype aging representation as part of seeing care recipients as concrete subjects.
 - AI-era life scope - [[zai-keji-shidai-zhongxin-lijie-womende-ai-gongzuo-yu-shenghuo-ljjrm6-ovwduouaecvymkbeyuvuqu]] extends the show's represented range from care systems into technology philosophy, AI companionship, work fatigue, psychiatricized everyday language, and model-mediated judgment.
+- Conflict-reporting scope - [[lkuvt7driaody6cy5pq-bj517ord-lkuvt7driaody6cy5pq-bj517ord]] extends the show into field presence, language and fixer bias, freelancer safety, propaganda verification, psychological burden, and unequal global attention.
 
 ## Qualifications
-The wiki still represents the show through a narrow slice: three care-system episodes and one technology-philosophy conversation. Its broader editorial identity, full host roster, political range, audience, and many non-care topics remain outside the current evidence.
+The wiki still represents the show through a narrow slice: three care-system episodes, one technology-philosophy conversation, and one conflict-reporting roundtable. Its broader editorial identity, full host roster, political range, and audience remain outside the current evidence. The latest supplied document identifies several speakers only by short names, so the profile does not infer canonical identities for them.
 
 ## What Changed
-- Added the Wang Xiaowei AI-era life conversation to the show's represented range.
-- Expanded the show profile from care and aging into technology philosophy, AI companionship, model-mediated judgment, and ordinary-life resistance to optimization.
+- Added conflict reporting, field access, verification, and journalist safety to the represented range.
+- Broadened the profile from care and technology into the production of public knowledge under conflict.
 
 ## Relationships
 - [[TangYongSociologist]] - dementia-care guest in the represented source set.
@@ -60,4 +62,7 @@ The wiki still represents the show through a narrow slice: three care-system epi
 - [[ReEnteringLifeTechEraBook]] - book anchor for the latest represented source.
 - [[TechnologyPhilosophy]] - AI-era life-world frame developed through the latest represented source.
 - [[AIJudgmentInfrastructure]] - model-mediated judgment concept developed through the latest represented source.
+- [[EmbeddedForeignReporting]] - field-presence method extended by the conflict-reporting episode.
+- [[IndependentConflictReportingRisk]] - institutional retreat and individually absorbed reporting risk developed by the conflict episode.
+- [[GlobalConflictAttentionInequality]] - unequal visibility of severe conflicts developed by the conflict episode.
 - [[Xiaoyuzhou]] - platform context from the source metadata.

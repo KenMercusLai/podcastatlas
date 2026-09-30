@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1339
+topic_total_pages: 1340
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -2825,6 +2825,9 @@ topic_entities:
   - key: "MossamDataScienceWithSam"
     title: "Mossam (Data Science With Sam)"
     url: "/wiki/entities/mossamdatasciencewithsam/"
+  - key: "MedecinsSansFrontieres"
+    title: "Médecins Sans Frontières / 无国界医生"
+    url: "/wiki/entities/medecinssansfrontieres/"
   - key: "NASA"
     title: "NASA"
     url: "/wiki/entities/nasa/"

@@ -22932,9 +22932,9 @@
       "url": "/wiki/entities/brunoretailleau/"
     },
     "BuHeShiYi": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "lscoToGLQYozNYTQATlEfDwV3jeZ [lscoToGLQYozNYTQATlEfDwV3jeZ].md",
@@ -22963,9 +22963,16 @@
           "show": "不合时宜",
           "title": "在科技时代，重新理解我们的爱、工作与生活",
           "url": "/wiki/sources/zai-keji-shidai-zhongxin-lijie-womende-ai-gongzuo-yu-shenghuo-ljjrm6-ovwduouaecvymkbeyuvuqu/"
+        },
+        {
+          "episode_file": "lkuvT7dRIaodY6cY5Pq-Bj517OrD [lkuvT7dRIaodY6cY5Pq-Bj517OrD].md",
+          "key": "lkuvt7driaody6cy5pq-bj517ord-lkuvt7driaody6cy5pq-bj517ord",
+          "show": "不合时宜",
+          "title": "当科技让战争触屏可见，记者为何仍要抵达冲突现场？",
+          "url": "/wiki/sources/lkuvt7driaody6cy5pq-bj517ord-lkuvt7driaody6cy5pq-bj517ord/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-09-30",
       "url": "/wiki/entities/buheshiyi/"
     },
     "BuYangLateHan": {
@@ -36537,6 +36544,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/concepts/conflictdrivenintergrouphatred/"
     },
+    "ConflictInformationVerification": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkuvT7dRIaodY6cY5Pq-Bj517OrD [lkuvT7dRIaodY6cY5Pq-Bj517OrD].md",
+          "key": "lkuvt7driaody6cy5pq-bj517ord-lkuvt7driaody6cy5pq-bj517ord",
+          "show": "不合时宜",
+          "title": "当科技让战争触屏可见，记者为何仍要抵达冲突现场？",
+          "url": "/wiki/sources/lkuvt7driaody6cy5pq-bj517ord-lkuvt7driaody6cy5pq-bj517ord/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/conflictinformationverification/"
+    },
     "ConflictOilWindfallInvestmentCycle": {
       "episode_count": 1,
       "show_count": 1,
@@ -36552,6 +36575,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/conflictoilwindfallinvestmentcycle/"
+    },
+    "ConflictReportingAccessBias": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkuvT7dRIaodY6cY5Pq-Bj517OrD [lkuvT7dRIaodY6cY5Pq-Bj517OrD].md",
+          "key": "lkuvt7driaody6cy5pq-bj517ord-lkuvt7driaody6cy5pq-bj517ord",
+          "show": "不合时宜",
+          "title": "当科技让战争触屏可见，记者为何仍要抵达冲突现场？",
+          "url": "/wiki/sources/lkuvt7driaody6cy5pq-bj517ord-lkuvt7driaody6cy5pq-bj517ord/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/conflictreportingaccessbias/"
     },
     "ConfucianLegalistGovernanceBalance": {
       "episode_count": 3,
@@ -52518,9 +52557,9 @@
       "url": "/wiki/concepts/embarrassmenttrustsignal/"
     },
     "EmbeddedForeignReporting": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "b28f7eaa-c801-4d5f-a6e5-35326d335df7 [b28f7eaa-c801-4d5f-a6e5-35326d335df7].md",
@@ -52528,9 +52567,16 @@
           "show": "声东击西",
           "title": "#398 一场美国观察漫谈：世界杯红牌、南非白人劳工",
           "url": "/wiki/sources/398-yi-chang-meiguo-guancha-mantan-shijiebei-hongpai-nanfei-bairen-laogong-b28f7eaa-c801-4d5f-a6e5-35326d335df7/"
+        },
+        {
+          "episode_file": "lkuvT7dRIaodY6cY5Pq-Bj517OrD [lkuvT7dRIaodY6cY5Pq-Bj517OrD].md",
+          "key": "lkuvt7driaody6cy5pq-bj517ord-lkuvt7driaody6cy5pq-bj517ord",
+          "show": "不合时宜",
+          "title": "当科技让战争触屏可见，记者为何仍要抵达冲突现场？",
+          "url": "/wiki/sources/lkuvt7driaody6cy5pq-bj517ord-lkuvt7driaody6cy5pq-bj517ord/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-09-30",
       "url": "/wiki/concepts/embeddedforeignreporting/"
     },
     "EmbodiedActingImprovisation": {
@@ -72450,6 +72496,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/globalaigovernanceframework/"
     },
+    "GlobalConflictAttentionInequality": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkuvT7dRIaodY6cY5Pq-Bj517OrD [lkuvT7dRIaodY6cY5Pq-Bj517OrD].md",
+          "key": "lkuvt7driaody6cy5pq-bj517ord-lkuvt7driaody6cy5pq-bj517ord",
+          "show": "不合时宜",
+          "title": "当科技让战争触屏可见，记者为何仍要抵达冲突现场？",
+          "url": "/wiki/sources/lkuvt7driaody6cy5pq-bj517ord-lkuvt7driaody6cy5pq-bj517ord/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/globalconflictattentioninequality/"
+    },
     "GlobalProductLocalization": {
       "episode_count": 15,
       "show_count": 9,
@@ -89304,6 +89366,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/incrementalpersecutionfalsestabilization/"
+    },
+    "IndependentConflictReportingRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkuvT7dRIaodY6cY5Pq-Bj517OrD [lkuvT7dRIaodY6cY5Pq-Bj517OrD].md",
+          "key": "lkuvt7driaody6cy5pq-bj517ord-lkuvt7driaody6cy5pq-bj517ord",
+          "show": "不合时宜",
+          "title": "当科技让战争触屏可见，记者为何仍要抵达冲突现场？",
+          "url": "/wiki/sources/lkuvt7driaody6cy5pq-bj517ord-lkuvt7driaody6cy5pq-bj517ord/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/independentconflictreportingrisk/"
     },
     "IndependentMacAppCraft": {
       "episode_count": 1,
@@ -118669,6 +118747,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/entities/medallia/"
+    },
+    "MedecinsSansFrontieres": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkuvT7dRIaodY6cY5Pq-Bj517OrD [lkuvT7dRIaodY6cY5Pq-Bj517OrD].md",
+          "key": "lkuvt7driaody6cy5pq-bj517ord-lkuvt7driaody6cy5pq-bj517ord",
+          "show": "不合时宜",
+          "title": "当科技让战争触屏可见，记者为何仍要抵达冲突现场？",
+          "url": "/wiki/sources/lkuvt7driaody6cy5pq-bj517ord-lkuvt7driaody6cy5pq-bj517ord/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/medecinssansfrontieres/"
     },
     "MediaAIWorkflowAcceleration": {
       "episode_count": 1,
@@ -164138,9 +164232,9 @@
       "url": "/wiki/entities/southchinaaa/"
     },
     "SouthSudan": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "fa63b0de-01f3-44b7-bf44-f1077c09f438 [fa63b0de-01f3-44b7-bf44-f1077c09f438].md",
@@ -164148,9 +164242,16 @@
           "show": "声东击西",
           "title": "#402 即将中断的粮食援助：一个中国人在南苏丹看到的饥饿",
           "url": "/wiki/sources/402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de/"
+        },
+        {
+          "episode_file": "lkuvT7dRIaodY6cY5Pq-Bj517OrD [lkuvT7dRIaodY6cY5Pq-Bj517OrD].md",
+          "key": "lkuvt7driaody6cy5pq-bj517ord-lkuvt7driaody6cy5pq-bj517ord",
+          "show": "不合时宜",
+          "title": "当科技让战争触屏可见，记者为何仍要抵达冲突现场？",
+          "url": "/wiki/sources/lkuvt7driaody6cy5pq-bj517ord-lkuvt7driaody6cy5pq-bj517ord/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-30",
       "url": "/wiki/entities/southsudan/"
     },
     "SouthamptonPlot": {

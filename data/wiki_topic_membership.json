@@ -34667,6 +34667,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "GlobalConflictAttentionInequality": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "GlobalEntrepreneurshipMonitor": [
     {
       "key": "economics",
@@ -50872,6 +50879,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "MedecinsSansFrontieres": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "MediaAIRescueStrategy": [

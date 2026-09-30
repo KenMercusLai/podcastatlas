@@ -3290,8 +3290,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Science-Based Tools for Increasing Happiness](sources/science-based-tools-for-increasing-happiness-scim9472441223.md) — Huberman Lab solo episode on natural and synthetic happiness, attention, generosity, everyday social connection, material limits, and post-choice commitment.
 
 - [The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton](sources/the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim1870631763.md) — Full Huberman Lab interview on dynamic energy balance, appetite, adherence, protein, food processing, evidence hierarchy, supplements, and durable weight-management behavior.
+- [当科技让战争触屏可见，记者为何仍要抵达冲突现场？](sources/lkuvt7driaody6cy5pq-bj517ord-lkuvt7driaody6cy5pq-bj517ord.md) — 不合时宜 roundtable on field presence, language and fixer bias, independent-reporter risk, conflict verification, and unequal global attention.
 
 ## Entities
+- [Médecins Sans Frontières / 无国界医生](entities/MedecinsSansFrontieres.md) — Humanitarian medical organization represented as an institutional safety-and-logistics contrast for conflict reporting in South Sudan.
 - [Neil Johnston](entities/NeilJohnston.md) — National Archives guide and co-author interpreting British treason through legal records, political theatre, and disputed sovereignty.
 - [The National Archives (United Kingdom)](entities/NationalArchivesUK.md) — Archival institution represented through its Treason: People, Power and Plot exhibition and document-based public history.
 - [Theobald Wolfe Tone](entities/WolfeTone.md) — United Irishmen founder who moved from cross-confessional reform toward French-backed republican revolution.
@@ -14875,6 +14877,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Roger Berkowitz](entities/RogerBerkowitz.md) — Political theorist reconstructing Hannah Arendt's account of friendship, plurality, truth, and reciprocal persuasion.
 
 ## Concepts
+- [Conflict Reporting Access Bias / 冲突报道准入偏差](concepts/ConflictReportingAccessBias.md) — How language, class, politics, intermediaries, surveillance, and safety select the people and evidence visible to a reporter.
+- [Independent Conflict Reporting Risk / 独立冲突报道风险](concepts/IndependentConflictReportingRisk.md) — Transfer of financial, logistical, physical, legal, and psychological conflict-reporting burdens from institutions to individuals.
+- [Conflict Information Verification / 冲突信息核验](concepts/ConflictInformationVerification.md) — Evidence-boundary practice for separating observation, testimony, official messaging, rumor, and unresolved disagreement during war.
+- [Global Conflict Attention Inequality / 全球冲突注意力不平等](concepts/GlobalConflictAttentionInequality.md) — Uneven allocation of reporting and audience concern across severe conflicts with different geopolitical and communicative visibility.
 - [Treason as Sovereignty Contest](concepts/TreasonAsSovereigntyContest.md) — Framework linking treason charges to the authority entitled to demand allegiance, judge disloyalty, and define rebellion.
 - [Maracanazo](concepts/Maracanazo.md) — Uruguay's 1950 victory over Brazil understood as national trauma, racialized scapegoating, and intergenerational football memory.
 - [Football Imperial Network Diffusion](concepts/FootballImperialNetworkDiffusion.md) — Spread of football through British-linked transport, commerce, work, migration, and clubs followed by local transformation.

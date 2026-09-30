@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-30] ingest | 当科技让战争触屏可见，记者为何仍要抵达冲突现场？
+
+Added source `lkuvt7driaody6cy5pq-bj517ord-lkuvt7driaody6cy5pq-bj517ord`; created `MedecinsSansFrontieres`, `ConflictReportingAccessBias`, `IndependentConflictReportingRisk`, `ConflictInformationVerification`, and `GlobalConflictAttentionInequality`; and resynthesized `EmbeddedForeignReporting`, `SouthSudan`, and `BuHeShiYi` from their complete preserved evidence inventories. Core synthesis: field presence can broaden observation and reveal embodied, environmental, and accidental evidence, but language, class, fixers, surveillance, institutions, and reporter position still select what becomes visible; institutional retreat can transfer safety and psychological burdens to freelancers; responsible conflict reporting must state verification limits; and severe conflicts remain unequally visible. No settled contradiction was adopted. Speaker identities, historical comparisons, fixer prices, visa practices, political attitudes, and comparative coverage volume remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-30] ingest | 249. Treason in Modern Britain (Part 2)
 
 Added source `249-treason-in-modern-britain-part-2-glt2159531504`; created `NeilJohnston`, `NationalArchivesUK`, `WolfeTone`, and `TreasonAsSovereigntyContest`; and resynthesized `CharlesIOfEngland`, `CharlesIIOfEngland`, `GeorgeMonck`, `WilliamJoyce`, `UnitedIrishmen`, `EasterRising`, `DeclarationOfIndependence`, and `RegicideAsRepublicanFounding` from their complete preserved evidence inventories. Core synthesis: treason identifies a prohibited act and the authority entitled to demand allegiance, so its meaning can reverse when sovereignty moves among monarch, Parliament, people, state, nation, and republic. The trial of Charles I, American independence, Irish republicanism, and Joyce's passport-based wartime allegiance expose different versions of that problem. No settled contradiction was adopted. Trial records, legal formulations, evidentiary details, crowd reactions, individual motives, and the modern adequacy of treason law remain disputed or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -25950,6 +25954,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-30] ingest | 250. Alfred the Great: Fury of the Vikings (Part 1)
 
 Added source `250-alfred-the-great-fury-of-the-vikings-part-1-glt7924523463`; created `GreatHeathenArmy`; and resynthesized `AlfredTheGreat`, `Guthrum`, and `AngloSaxonStateFormation` from their complete preserved evidence inventories. Core synthesis: Alfred's Christianity, education, alliance-building, battles, payments, and treaties developed within a divided Anglo-Saxon landscape that Viking ships, winter operations, surprise, and large camps could systematically disrupt; Guthrum's 878 seizure of Chippenham was the low point before the recovery covered in Part 2. No settled contradiction was adopted. Alfred's court-connected evidence, Victorian reputation, legendary atrocity and martyrdom stories, army size, motives, childhood anecdotes, papal honors, and counterfactual claims remain source-scoped or qualified. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-30] lint | Wiki health check
 
