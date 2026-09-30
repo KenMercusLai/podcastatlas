@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9051
+wiki_total_pages: 9054
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -785,6 +785,9 @@ wiki_pages:
   - key: "PlaceboNoceboExpectationEffects"
     title: "Placebo, Nocebo, and Expectation Effects"
     url: "/wiki/concepts/placebonoceboexpectationeffects/"
+  - key: "PlagueOfCyprian"
+    title: "Plague of Cyprian"
+    url: "/wiki/concepts/plagueofcyprian/"
   - key: "PlainsSocietyHistoricalDynamism"
     title: "Plains Society Historical Dynamism"
     url: "/wiki/concepts/plainssocietyhistoricaldynamism/"

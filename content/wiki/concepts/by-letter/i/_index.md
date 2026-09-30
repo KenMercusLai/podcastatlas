@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 9051
+wiki_total_pages: 9054
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -143,6 +143,9 @@ wiki_pages:
   - key: "ImperialCivilisingMissionContradiction"
     title: "Imperial Civilising-Mission Contradiction"
     url: "/wiki/concepts/imperialcivilisingmissioncontradiction/"
+  - key: "ImperialConnectivityDiseaseRisk"
+    title: "Imperial Connectivity Disease Risk"
+    url: "/wiki/concepts/imperialconnectivitydiseaserisk/"
   - key: "ImperialConstitutionalMismatch"
     title: "Imperial Constitutional Mismatch"
     url: "/wiki/concepts/imperialconstitutionalmismatch/"

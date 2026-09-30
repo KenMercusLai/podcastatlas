@@ -10,12 +10,13 @@ sources:
   - 502-the-roman-conquest-of-britain-to-the-ends-of-the-earth-part-4-glt1970351222
   - 500-the-roman-conquest-of-britain-the-empire-strikes-back-part-2-glt3137178317
   - 260-croatia-the-man-who-saved-the-roman-empire-glt9631298578
-last_updated: 2026-09-30
+  - 217-plague-and-the-decline-of-the-roman-empire-glt2583859060
+last_updated: 2026-10-01
 ---
 
 ## Overview
 
-The Roman Empire / 罗马帝国 appears in the wiki as the imperial order emerging after the [[RomanRepublic|Roman Republic]] crisis, the far-western [[DaQin|Da Qin]] sought by [[GanYingEasternHan|Gan Ying]], the system that conquered and consolidated [[RomanBritain]], and the polity remade by [[Diocletian]] after the [[ThirdCenturyCrisis]].
+The Roman Empire / 罗马帝国 appears in the wiki as the imperial order emerging after the [[RomanRepublic|Roman Republic]] crisis, the far-western [[DaQin|Da Qin]] sought by [[GanYingEasternHan|Gan Ying]], the system that conquered and consolidated [[RomanBritain]], and the polity remade by [[Diocletian]] after the [[ThirdCenturyCrisis]]. Its cities, armies, roads, shipping, grain supply, and trade also made imperial capacity a form of [[ImperialConnectivityDiseaseRisk|biological exposure]].
 
 ## Current Profile
 
@@ -31,6 +32,8 @@ Episode 502 adds the later provincial-frontier layer. Britain shows the empire j
 
 The Diocletian episode adds the survival-and-reconstruction layer. Third-century civil wars, stronger enemies, plague, famine, inflation, and tax contraction weakened the Augustan compromise until military command became the principal route to order. Diocletian's [[Tetrarchy]] distributed strategic response among four rulers, while the [[DiocletianicMilitaryFiscalReconstruction]] enlarged the military, strengthened frontiers, subdivided administration, taxed Italy, reworked currency, and made imperial authority more mobile and sacral. The succession system collapsed, but much of the state form endured into the later Roman and Byzantine worlds.
 
+Episode 217 adds the biological-connectivity layer. Roman success concentrated population and joined regions through roads, ships, armies, grain movement, trade, and migration, but those systems also circulated ordinary infections and major pandemics. The [[AntoninePlague]] was a severe shock without immediate structural replacement; the [[PlagueOfCyprian]] compounded civil war, monetary disruption, food insecurity, and stronger enemies during the third-century transformation; and the [[JustinianicPlague]] weakened the later eastern empire's tax base, manpower, frontiers, and western momentum. Disease altered the conditions under which human institutions operated rather than replacing politics, war, class, and strategy as causes.
+
 ## Key Characteristics
 
 - Imperial order emerging from the late Republic's institutional crisis, where tyrannicide removed Caesar without restoring the constraints on one-person rule.
@@ -38,7 +41,7 @@ The Diocletian episode adds the survival-and-reconstruction layer. Third-century
 - Distant polity known in Eastern Han sources through mediated mission reports and a later source-scoped envoy notice, and western endpoint of a qualified Hunnic/Gothic pressure sequence.
 - Provincial system that combines military infrastructure, fiscal administration, urbanization, and local-elite incorporation.
 - Legitimacy system in which commanders' victories can be converted into imperial triumph, public imagery, and ruler prestige.
-- Strategic but crisis-adaptive order whose competing frontiers eventually required divided command and a heavier military-fiscal state.
+- Strategic but biologically exposed order whose cities and interregional logistics increased both imperial capacity and pathogen circulation.
 - Institutionally continuous polity in which the Tetrarchy failed as succession management while Diocletianic administrative reforms endured.
 
 ## Evidence
@@ -56,16 +59,19 @@ The Diocletian episode adds the survival-and-reconstruction layer. Third-century
 - Frontier allocation: [[502-the-roman-conquest-of-britain-to-the-ends-of-the-earth-part-4-glt1970351222]] says the Danubian crisis caused the withdrawal of a legion and the abandonment of permanent occupation in Caledonia.
 - Third-century reconstruction: [[260-croatia-the-man-who-saved-the-roman-empire-glt9631298578]] links frontier and civil-war crisis to shared rule, army expansion, administrative subdivision, taxation, currency reform, and mobile court government.
 - Uneven institutional durability: [[260-croatia-the-man-who-saved-the-roman-empire-glt9631298578]] distinguishes the Tetrarchy's succession collapse from the longer survival of Diocletian's governing framework.
+- Connectivity and endemic burden: [[217-plague-and-the-decline-of-the-roman-empire-glt2583859060]] links dense cities, weak sanitation, animals, migration, roads, shipping, trade, grain, and armies to persistent disease exposure.
+- Pandemic differentiation: [[217-plague-and-the-decline-of-the-roman-empire-glt2583859060]] distinguishes the Antonine shock, the Cyprian crisis feedback, and the recurrent Justinianic pandemic rather than treating plague as one event.
+- State-capacity pathway: [[217-plague-and-the-decline-of-the-roman-empire-glt2583859060]] connects mortality to tax, recruitment, food, infrastructure, frontier, and legitimacy pressures while retaining war and political decisions as independent causes.
 
 ## Qualifications
 
-This page is not a complete Roman Empire history. Each source covers a bounded transition, contact, frontier, conquest, or reconstruction problem. The page treats Da Qin as the source's Roman Empire identification without settling every route debate, keeps the Northern-Xiongnu-to-Rome chain qualified, and does not treat temporary Roman penetration into Caledonia as permanent conquest. The Diocletian source's dating, anecdotes, price-policy assessment, and claims about Persian ceremonial influence remain source-scoped.
+This page is not a complete Roman Empire history. Each source covers a bounded transition, contact, frontier, conquest, reconstruction, or disease problem. The page treats Da Qin as the source's Roman Empire identification without settling every route debate, keeps the Northern-Xiongnu-to-Rome chain qualified, and does not treat temporary Roman penetration into Caledonia as permanent conquest. The Diocletian source's dating, anecdotes, price-policy assessment, and claims about Persian ceremonial influence remain source-scoped. Roman population and life-expectancy estimates, earlier-plague pathogens and mortality, migrant transmission, and the countryside reach of the Justinianic plague also remain uncertain; disease is treated as a compounding force, not a sufficient cause of imperial decline.
 
 ## What Changed
 
-- Added the third-century crisis and Diocletianic reconstruction as a second major transformation after imperial emergence.
-- Distinguished the Tetrarchy's failed succession mechanism from the longer durability of administrative and military-fiscal reform.
-- Added mobile, geographically distributed, and sacral emperorship to the empire's governing profile.
+- Added connectivity as a dual-use imperial system: logistical capacity also increased biological exposure.
+- Distinguished the Antonine shock, Cyprian crisis feedback, and recurrent Justinianic pandemic.
+- Reframed disease as a pressure on state capacity that compounded rather than replaced political and military causes.
 
 ## Relationships
 
@@ -90,3 +96,7 @@ This page is not a complete Roman Empire history. Each source covers a bounded t
 - [[Diocletian]] - emperor who rebuilt the state after the crisis.
 - [[Tetrarchy]] - divided command system designed for multiple frontiers and orderly succession.
 - [[DiocletianicMilitaryFiscalReconstruction]] - durable late-imperial package of defense, taxation, administration, currency, and ceremony.
+- [[ImperialConnectivityDiseaseRisk]] - systems tradeoff joining urban and logistical strength to pathogen exposure.
+- [[AntoninePlague]] - second-century pandemic shock that did not immediately replace the Augustan order.
+- [[PlagueOfCyprian]] - epidemic entangled with third-century political, monetary, military, and food crisis.
+- [[JustinianicPlague]] - recurrent sixth-century pandemic that weakened later imperial capacity.

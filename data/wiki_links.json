@@ -851,6 +851,10 @@
     "title": "21.红与黑：他死于真诚",
     "url": "/wiki/sources/21-hong-yu-hei-ta-si-yu-zhencheng-569042001/"
   },
+  "217-plague-and-the-decline-of-the-roman-empire-glt2583859060": {
+    "title": "217. Plague and the Decline of the Roman Empire",
+    "url": "/wiki/sources/217-plague-and-the-decline-of-the-roman-empire-glt2583859060/"
+  },
   "218-theodora-empress-of-byzantium-part-1-glt5957583440": {
     "title": "218. Theodora: Empress of Byzantium (Part 1)",
     "url": "/wiki/sources/218-theodora-empress-of-byzantium-part-1-glt5957583440/"
@@ -7818,6 +7822,10 @@
   "AntonOsika": {
     "title": "Anton Osika",
     "url": "/wiki/entities/antonosika/"
+  },
+  "AntoninePlague": {
+    "title": "Antonine Plague",
+    "url": "/wiki/concepts/antonineplague/"
   },
   "AntonioDamasio": {
     "title": "Antonio Damasio",
@@ -37015,6 +37023,10 @@
     "title": "官方经学定议 / Imperial Classics Consensus Building",
     "url": "/wiki/concepts/imperialclassicsconsensusbuilding/"
   },
+  "ImperialConnectivityDiseaseRisk": {
+    "title": "Imperial Connectivity Disease Risk",
+    "url": "/wiki/concepts/imperialconnectivitydiseaserisk/"
+  },
   "ImperialConsortPosthumousTitleSystem": {
     "title": "皇后谥号制度 / Imperial Consort Posthumous Title System",
     "url": "/wiki/concepts/imperialconsortposthumoustitlesystem/"
@@ -42618,6 +42630,10 @@
   "KyleGillett": {
     "title": "Kyle Gillett",
     "url": "/wiki/entities/kylegillett/"
+  },
+  "KyleHarper": {
+    "title": "Kyle Harper",
+    "url": "/wiki/entities/kyleharper/"
   },
   "KyleVogt": {
     "title": "Kyle Vogt",
@@ -57778,6 +57794,10 @@
   "PlagueNights": {
     "title": "《瘟疫之夜》 / Nights of Plague",
     "url": "/wiki/entities/plaguenights/"
+  },
+  "PlagueOfCyprian": {
+    "title": "Plague of Cyprian",
+    "url": "/wiki/concepts/plagueofcyprian/"
   },
   "PlaidCymru": {
     "title": "Plaid Cymru",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9051
+wiki_total_pages: 9054
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2126,6 +2126,9 @@ wiki_pages:
   - key: "AntitrustChill"
     title: "Antitrust Chill"
     url: "/wiki/concepts/antitrustchill/"
+  - key: "AntoninePlague"
+    title: "Antonine Plague"
+    url: "/wiki/concepts/antonineplague/"
   - key: "AnxietyDecomposition"
     title: "Anxiety Decomposition / 焦虑拆解"
     url: "/wiki/concepts/anxietydecomposition/"

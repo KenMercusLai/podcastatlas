@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [217. Plague and the Decline of the Roman Empire](sources/217-plague-and-the-decline-of-the-roman-empire-glt2583859060.md) — The Rest Is History interview with Kyle Harper on Roman connectivity, urban disease burdens, three pandemics, and multi-causal imperial decline.
 - [218. Theodora: Empress of Byzantium (Part 1)](sources/218-theodora-empress-of-byzantium-part-1-glt5957583440.md) — The Rest Is History episode on Constantinople's Roman identity, Theodora's rise, Miaphysite faith, and imperial partnership with Justinian.
 - [Jake Paul & The Chainsmokers: Turning Fame into Funds, Jake Enters Politics? & Venture Bubble Signs](sources/all-in-with-chamath-jason-sacks-friedberg-jake-paul-the-chainsmokers-turning-fame-into-funds-jake-enters-polit.md) — All-In episode on creator-business flywheels, celebrity operational capital, boxing and music economics, venture liquidity, and valuation discipline.
 - [Sleep Toolkit: Tools for Optimizing Sleep & Sleep-Wake Timing](sources/sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836.md) — Full Huberman Lab sleep toolkit on light, temperature, caffeine, daily timing, deep rest, substances, supplements, clock shifting, and clinical sleep boundaries.
@@ -3355,6 +3356,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [226. The Lord of the Rings](sources/226-the-lord-of-the-rings-glt1788342017.md) — The Rest Is History episode on Tolkien's ring ethics, hidden Catholic structure, wartime power, damaged homecoming, anti-industrial environmentalism, politics, and race.
 
 ## Entities
+- [Kyle Harper](entities/KyleHarper.md) — Historian connecting Roman decline to climate, disease ecology, demography, connectivity, and state capacity within a multi-causal model.
 - [Constantinople](entities/Constantinople.md) — Eastern Roman capital whose geography, infrastructure, institutions, Christianity, and Hippodrome politics sustained imperial power.
 - [Jake Paul](entities/JakePaul.md) — Creator, boxer, promoter, investor, and philanthropist connecting audience reach to a cross-domain business flywheel.
 - [The Chainsmokers](entities/TheChainsmokers.md) — Music partnership extending internet-native distribution and brand experience into venture capital.
@@ -15056,6 +15058,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Steve Goss](entities/SteveGoss.md) — Former Social Security chief actuary assessing the scale, feasibility, and timing of reform options.
 
 ## Concepts
+- [Antonine Plague](concepts/AntoninePlague.md) — Second-century trans-imperial pandemic treated as a severe but bounded shock with unresolved pathogen and mortality.
+- [Plague of Cyprian](concepts/PlagueOfCyprian.md) — Third-century epidemic understood through feedback with civil war, provisioning failure, monetary disruption, and frontier pressure.
+- [Imperial Connectivity Disease Risk](concepts/ImperialConnectivityDiseaseRisk.md) — Systems tradeoff in which cities, transport, trade, armies, grain, migration, and animal contact create capacity while amplifying disease exposure.
 - [Miaphysite Christianity](concepts/MiaphysiteChristianity.md) — Christological tradition connecting Theodora's Alexandrian conversion to provincial and imperial religious politics.
 - [Creator Business Flywheel](concepts/CreatorBusinessFlywheel.md) — Model in which audience, creative work, operating businesses, talent development, investing, and public-purpose activity reinforce one another.
 - [Celebrity Operational Capital](concepts/CelebrityOperationalCapital.md) — Public reach, relationships, brand skill, and direct distribution treated as company-building resources subject to performance proof.

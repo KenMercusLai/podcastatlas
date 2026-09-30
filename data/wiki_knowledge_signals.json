@@ -12878,6 +12878,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/antonosika/"
     },
+    "AntoninePlague": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2583859060 [GLT2583859060].md",
+          "key": "217-plague-and-the-decline-of-the-roman-empire-glt2583859060",
+          "show": "The Rest Is History",
+          "title": "217. Plague and the Decline of the Roman Empire",
+          "url": "/wiki/sources/217-plague-and-the-decline-of-the-roman-empire-glt2583859060/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/antonineplague/"
+    },
     "AntonioDamasio": {
       "episode_count": 1,
       "show_count": 1,
@@ -90959,6 +90975,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/concepts/imperialclassicsconsensusbuilding/"
     },
+    "ImperialConnectivityDiseaseRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2583859060 [GLT2583859060].md",
+          "key": "217-plague-and-the-decline-of-the-roman-empire-glt2583859060",
+          "show": "The Rest Is History",
+          "title": "217. Plague and the Decline of the Roman Empire",
+          "url": "/wiki/sources/217-plague-and-the-decline-of-the-roman-empire-glt2583859060/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/imperialconnectivitydiseaserisk/"
+    },
     "ImperialConsortPosthumousTitleSystem": {
       "episode_count": 3,
       "show_count": 1,
@@ -101348,9 +101380,9 @@
       "url": "/wiki/entities/justiniani/"
     },
     "JustinianicPlague": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6795699757 [GLT6795699757].md",
@@ -101358,6 +101390,13 @@
           "show": "The Rest Is History",
           "title": "220. Justinian & Theodora: The Secret History (Part 3)",
           "url": "/wiki/sources/220-justinian-theodora-the-secret-history-part-3-glt6795699757/"
+        },
+        {
+          "episode_file": "GLT2583859060 [GLT2583859060].md",
+          "key": "217-plague-and-the-decline-of-the-roman-empire-glt2583859060",
+          "show": "The Rest Is History",
+          "title": "217. Plague and the Decline of the Roman Empire",
+          "url": "/wiki/sources/217-plague-and-the-decline-of-the-roman-empire-glt2583859060/"
         }
       ],
       "updated": "2026-10-01",
@@ -103964,6 +104003,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/kylegillett/"
+    },
+    "KyleHarper": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2583859060 [GLT2583859060].md",
+          "key": "217-plague-and-the-decline-of-the-roman-empire-glt2583859060",
+          "show": "The Rest Is History",
+          "title": "217. Plague and the Decline of the Roman Empire",
+          "url": "/wiki/sources/217-plague-and-the-decline-of-the-roman-empire-glt2583859060/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/kyleharper/"
     },
     "KylianMbappe": {
       "episode_count": 3,
@@ -137660,9 +137715,9 @@
       "url": "/wiki/concepts/pancreaticriskcommunicationboundary/"
     },
     "PandemicAsHistoricalForce": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 3,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》904丨觉照内观：获得心灵大自由的秘诀 [lopN_oKbzr4LJvqmgzCsb7qAv0n2].md",
@@ -137691,6 +137746,13 @@
           "show": "The Rest Is History",
           "title": "220. Justinian & Theodora: The Secret History (Part 3)",
           "url": "/wiki/sources/220-justinian-theodora-the-secret-history-part-3-glt6795699757/"
+        },
+        {
+          "episode_file": "GLT2583859060 [GLT2583859060].md",
+          "key": "217-plague-and-the-decline-of-the-roman-empire-glt2583859060",
+          "show": "The Rest Is History",
+          "title": "217. Plague and the Decline of the Roman Empire",
+          "url": "/wiki/sources/217-plague-and-the-decline-of-the-roman-empire-glt2583859060/"
         }
       ],
       "updated": "2026-10-01",
@@ -142134,6 +142196,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/placebonoceboexpectationeffects/"
+    },
+    "PlagueOfCyprian": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2583859060 [GLT2583859060].md",
+          "key": "217-plague-and-the-decline-of-the-roman-empire-glt2583859060",
+          "show": "The Rest Is History",
+          "title": "217. Plague and the Decline of the Roman Empire",
+          "url": "/wiki/sources/217-plague-and-the-decline-of-the-roman-empire-glt2583859060/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/plagueofcyprian/"
     },
     "PlaidCymru": {
       "episode_count": 1,
@@ -157252,9 +157330,9 @@
       "url": "/wiki/concepts/romaneliteleisure/"
     },
     "RomanEmpire": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 3,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
@@ -157297,9 +157375,16 @@
           "show": "The Rest Is History",
           "title": "260: Croatia: The Man Who Saved The Roman Empire",
           "url": "/wiki/sources/260-croatia-the-man-who-saved-the-roman-empire-glt9631298578/"
+        },
+        {
+          "episode_file": "GLT2583859060 [GLT2583859060].md",
+          "key": "217-plague-and-the-decline-of-the-roman-empire-glt2583859060",
+          "show": "The Rest Is History",
+          "title": "217. Plague and the Decline of the Roman Empire",
+          "url": "/wiki/sources/217-plague-and-the-decline-of-the-roman-empire-glt2583859060/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/romanempire/"
     },
     "RomanExpansionMoralAnxiety": {
@@ -179461,9 +179546,9 @@
       "url": "/wiki/concepts/thinsolesneakerrevival/"
     },
     "ThirdCenturyCrisis": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9631298578 [GLT9631298578].md",
@@ -179471,9 +179556,16 @@
           "show": "The Rest Is History",
           "title": "260: Croatia: The Man Who Saved The Roman Empire",
           "url": "/wiki/sources/260-croatia-the-man-who-saved-the-roman-empire-glt9631298578/"
+        },
+        {
+          "episode_file": "GLT2583859060 [GLT2583859060].md",
+          "key": "217-plague-and-the-decline-of-the-roman-empire-glt2583859060",
+          "show": "The Rest Is History",
+          "title": "217. Plague and the Decline of the Roman Empire",
+          "url": "/wiki/sources/217-plague-and-the-decline-of-the-roman-empire-glt2583859060/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/thirdcenturycrisis/"
     },
     "ThirdPartyAIVendorOversight": {

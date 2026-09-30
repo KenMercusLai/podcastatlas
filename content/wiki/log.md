@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-10-01] ingest | 217. Plague and the Decline of the Roman Empire
+
+Added source `217-plague-and-the-decline-of-the-roman-empire-glt2583859060`; created `KyleHarper`, `AntoninePlague`, `PlagueOfCyprian`, and `ImperialConnectivityDiseaseRisk`; and resynthesized `RomanEmpire`, `ThirdCenturyCrisis`, `JustinianicPlague`, and `PandemicAsHistoricalForce` from their complete preserved evidence inventories. Core synthesis: Roman cities, roads, shipping, grain systems, armies, trade, and migration created both imperial capacity and pathogen exposure; the Antonine pandemic was a severe shock, the Cyprian epidemic reinforced third-century crisis, and recurrent Justinianic plague weakened an already extended state. No settled contradiction was adopted, and disease remains a compounding force rather than a sufficient cause of decline. Earlier pathogen identities, origins, mortality totals, migrant transmission, rural reach, and political counterfactuals remain uncertain or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-10-01] ingest | Exercise, Nutrition, Hormones for Vitality & Longevity | Dr. Peter Attia
 
 Added source `exercise-nutrition-hormones-for-vitality-longevity-dr-peter-attia-scim2767035219`; created `MarginalDecadeBackcasting` and `FunctionalHealthspanAssessment`; and resynthesized `PeterAttia`, `ExercisePillarsForLongevity`, and `ApoBParticleBurden` from their complete preserved evidence inventories. Core synthesis: longevity planning becomes concrete when desired final-decade function is backcast into present strength, stability, aerobic, bone, and movement reserve, while biomarkers are paired with functional testing rather than mistaken for complete healthspan. Exercise, rehabilitation, and cumulative ApoB prevention retain higher confidence than supplements, peptides, stem cells, PRP, or behavior-replacing drug narratives. No settled contradiction was adopted. Mortality associations, numeric fitness and ApoB targets, hormone protocols, fertility interventions, regenerative therapies, and GLP-1 strategy remain source-scoped public medical education rather than individualized advice. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -26391,6 +26395,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-01] ingest | 218. Theodora: Empress of Byzantium (Part 1)
 
 Added source `218-theodora-empress-of-byzantium-part-1-glt5957583440`; created `Constantinople` and `MiaphysiteChristianity`; and resynthesized `Theodora`, `JustinianI`, `Procopius`, and `ByzantineEmpire` from their complete preserved evidence inventories. Core synthesis: Constantinople's geography, fortifications, water infrastructure, Roman institutions, Christianity, commerce, and Hippodrome politics supported a strong eastern Roman state, while Theodora's ascent joined social stigma, factional networks, Alexandrian conversion, legal change, marriage, and formal imperial partnership. No settled contradiction was adopted. “Byzantine” is qualified as a modern rather than native identity, “Monophysite” is retained as episode terminology but bounded by the less polemical Miaphysite label, and Procopius's sexual allegations, accession stories, motives, conversion details, population estimates, and private biographies remain hostile, uncertain, or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,299-source coverage; no topic claim set was dirty and global compaction was not due. Publish validation passed.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-10-01] lint | Wiki health check
 

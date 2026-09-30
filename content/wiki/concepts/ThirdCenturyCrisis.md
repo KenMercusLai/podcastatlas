@@ -4,7 +4,8 @@ type: concept
 tags: [rome, late-antiquity, state-crisis, military-history]
 sources:
   - 260-croatia-the-man-who-saved-the-roman-empire-glt9631298578
-last_updated: 2026-09-30
+  - 217-plague-and-the-decline-of-the-roman-empire-glt2583859060
+last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
 
@@ -12,7 +13,7 @@ knowledge_schema: synthesis-v1
 
 ## Definition
 
-The Third-Century Crisis is the episode's name for roughly fifty years in which Roman civil war, repeated imperial turnover, stronger frontier enemies, plague, famine, monetary instability, and tax-base contraction combined to threaten the imperial order.
+The Third-Century Crisis is the name for roughly fifty years in which Roman civil war, repeated imperial turnover, stronger frontier enemies, the [[PlagueOfCyprian]], famine and provisioning failure, monetary instability, and tax-base contraction combined to threaten the imperial order.
 
 ## Current Synthesis
 
@@ -20,11 +21,13 @@ The crisis is not presented as one cause or a simple fall narrative. Its importa
 
 That shift elevated Illyrian soldier-emperors such as Claudius, Aurelian, Probus, and ultimately [[Diocletian]]. The old Augustan compromise did not merely resume after stabilization; crisis response produced the structurally different [[DiocletianicMilitaryFiscalReconstruction]].
 
+The newer source sharpens the disease mechanism without turning it into a master cause. Civil war and invasion could disrupt harvests and provisioning, increasing infectious mortality; mortality could then shrink taxes, labor, and recruitment, further weakening political and military response. The epidemic and the crisis are therefore best understood as a feedback loop whose direction cannot be cleanly separated.
+
 ## Key Claims
 
 - Civil war and rapid imperial turnover compounded rather than replaced frontier danger.
 - Sassanian power made the eastern frontier more demanding than under the earlier Parthian balance.
-- Plague, famine, monetary disruption, and shrinking tax capacity turned defense into a fiscal problem.
+- The Plague of Cyprian, food disruption, monetary instability, and shrinking tax capacity turned defense into a demographic and fiscal problem.
 - The army became the strongest surviving institution of order and a principal route to emperorship.
 - Recovery transformed the imperial settlement instead of restoring the Augustan model unchanged.
 
@@ -33,14 +36,19 @@ That shift elevated Illyrian soldier-emperors such as Claudius, Aurelian, Probus
 - Interacting crisis: [[260-croatia-the-man-who-saved-the-roman-empire-glt9631298578]] joins political violence, invasion, disease, famine, inflation, and revenue collapse in one explanatory frame.
 - Military selection: [[260-croatia-the-man-who-saved-the-roman-empire-glt9631298578]] connects the decline of senatorial command with the rise of experienced Illyrian officers.
 - Transformative recovery: [[260-croatia-the-man-who-saved-the-roman-empire-glt9631298578]] argues that Diocletian ended rather than restored the older Augustan settlement.
+- Epidemic feedback: [[217-plague-and-the-decline-of-the-roman-empire-glt2583859060]] says it is difficult to separate disease causing crisis from civil war, invasion, and harvest disruption worsening disease.
+- Political-military intensity: [[217-plague-and-the-decline-of-the-roman-empire-glt2583859060]] describes monetary collapse, rival emperors, expansionist Persian pressure, northern confederations, and exceptionally rapid imperial turnover.
+- Officer-led aftermath: [[217-plague-and-the-decline-of-the-roman-empire-glt2583859060]] links survival after the 260s to Danubian military officers and a system unlike the earlier senatorial order.
 
 ## Counterevidence & Qualifications
 
-The source gives a high-level podcast synthesis rather than a regional chronology of the entire third century. “Crisis” can conceal uneven timing and local resilience, and the episode does not independently quantify demographic loss, inflation, army size, or tax contraction.
+The sources give high-level podcast syntheses rather than a regional chronology of the entire third century. “Crisis” can conceal uneven timing and local resilience, and they do not independently quantify demographic loss, inflation, army size, or tax contraction. The Cyprian epidemic's pathogen, origin, mortality, and relation to Gothic movement remain unresolved, so feedback is better supported here than a precise one-way disease explanation.
 
 ## What Changed
 
-- Created the crisis as an interacting political, military, demographic, monetary, and fiscal mechanism rather than a single-cause collapse.
+- Made the disease-crisis relationship explicitly bidirectional rather than treating plague as one item in a list.
+- Added food provisioning and infectious mortality as a pathway between war and demographic loss.
+- Strengthened the contrast between Augustan senatorial order and the Danubian officer-led aftermath.
 
 ## Related Concepts
 
@@ -48,3 +56,5 @@ The source gives a high-level podcast synthesis rather than a regional chronolog
 - [[Tetrarchy]] - divided-command solution to simultaneous regional pressure.
 - [[LateRomanRepublicCrisis]] - earlier Roman crisis that transformed republican government into imperial rule.
 - [[RomanImperialLegitimacy]] - legitimacy problem intensified when armies rather than the Senate selected rulers.
+- [[PlagueOfCyprian]] - epidemic that compounded and was likely worsened by the wider crisis.
+- [[PandemicAsHistoricalForce]] - broader model for mortality interacting with state capacity, war, and social organization.
