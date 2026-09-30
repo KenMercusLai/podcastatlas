@@ -26067,3 +26067,11 @@ Added source `ai-jiang-taiyu-zhangbei-weihe-you-ting-meiyou-dong-8f2ef858c5c159b
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-30] ingest | Psychedelics & Neurostimulation for Brain Rewiring | Dr. Nolan Williams
+
+Added source `psychedelics-neurostimulation-for-brain-rewiring-dr-nolan-williams-scim3664218578`; created `DepressionChronotherapy`; and resynthesized `NolanWilliams`, `TranscranialMagneticStimulationForDepression`, `StanfordNeuromodulationTherapy`, and `CircuitBasedPsychiatry` from their complete preserved evidence inventories. Core synthesis: depression interventions are better distinguished by circuit, timing, individualized target, dose, patient state, and clinical supervision than by a simple chemical-imbalance story; the full interview also separates supervised sleep-light chronotherapy from unsafe self-directed sleep deprivation. No settled contradiction was adopted. SNT remission and durability, psychedelic response rates, ketamine-opioid interpretation, ibogaine and ayahuasca results, MDMA safety, and cannabinoid claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,260-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

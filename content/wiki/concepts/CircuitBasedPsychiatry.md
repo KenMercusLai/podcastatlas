@@ -7,8 +7,9 @@ sources:
   - essentials-compulsive-behaviors-deep-brain-stimulation-dr-casey-halpern-scim9347675622
   - essentials-understanding-healing-the-mind-dr-karl-deisseroth-scim2644851631
   - ketamine-benefits-risks-for-depression-ptsd-neuroplasticity-scim3757014952
+  - psychedelics-neurostimulation-for-brain-rewiring-dr-nolan-williams-scim3664218578
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-12
+last_updated: 2026-09-30
 ---
 
 # Circuit-Based Psychiatry
@@ -17,9 +18,9 @@ last_updated: 2026-09-12
 Circuit-based psychiatry is the model that explains psychiatric symptoms through brain networks, control loops, timing, stimulation targets, connectivity, and state signals rather than a single neurotransmitter deficit.
 
 ## Current Synthesis
-In [[essentials-psychedelics-neurostimulation-for-brain-rewiring-dr-nolan-williams-scim5296180263]], [[NolanWilliams]] frames depression treatment as moving beyond a simple chemical-imbalance story. SSRIs can help a subpopulation, but their delayed effects make it unlikely that depression is simply caused by serotonin being absent. The episode's alternative is a circuit model where prefrontal control, cingulate and limbic regulation, default-mode connectivity, and brain-body pathways can become maladaptive but recalibrable.
+In the full [[psychedelics-neurostimulation-for-brain-rewiring-dr-nolan-williams-scim3664218578]] interview and its [[essentials-psychedelics-neurostimulation-for-brain-rewiring-dr-nolan-williams-scim5296180263|Essentials edit]], [[NolanWilliams]] frames depression treatment as moving beyond a simple chemical-imbalance story. SSRIs can help a subpopulation, but their delayed effects make it unlikely that depression is simply caused by serotonin being absent. The alternative is a circuit model where prefrontal control, cingulate and limbic regulation, default-mode connectivity, brain-body pathways, and timing relationships can become maladaptive but recalibrable.
 
-The practical importance is that very different treatments may converge on network change. [[TranscranialMagneticStimulationForDepression]] directly stimulates a targeted region, [[StanfordNeuromodulationTherapy]] compresses that stimulation into a high-dose protocol, and psychedelic or ketamine states may change connectivity and memory processing. The page keeps those convergences provisional because the source distinguishes established benefit, open-label results, anecdotes, and still-hypothetical mechanisms.
+The practical importance is that very different treatments may converge on network or state change. [[TranscranialMagneticStimulationForDepression]] directly stimulates a targeted region, [[StanfordNeuromodulationTherapy]] combines personalized connectivity targeting with compressed high-dose stimulation, [[DepressionChronotherapy]] changes sleep-light timing, and psychedelic or ketamine states may change connectivity and memory processing. These convergences remain provisional because the sources distinguish established benefit, open-label results, anecdotes, biomarkers, and still-hypothetical mechanisms.
 
 [[essentials-compulsive-behaviors-deep-brain-stimulation-dr-casey-halpern-scim9347675622]] extends the model from depression and psychedelics into neurosurgical psychiatry. [[CaseyHalpern]] frames severe OCD, binge eating, addiction, obesity, depression, and suicidality as possible circuit problems when urges or impulses override risk awareness. [[DeepBrainStimulationPsychiatry]], [[FocusedUltrasoundNeuromodulation]], and [[IntracranialCircuitMapping]] make the model concrete: treatment depends not only on having a powerful device, but on discovering the relevant target and state signal.
 
@@ -45,6 +46,7 @@ Ketamine adds a receptor-to-circuit case. In [[ketamine-benefits-risks-for-depre
 - Understanding requirement - [[essentials-understanding-healing-the-mind-dr-karl-deisseroth-scim2644851631]] says cure requires identifying relevant cells, regions, connections, projections, and normal activity patterns.
 - Precision limit - [[essentials-understanding-healing-the-mind-dr-karl-deisseroth-scim2644851631]] contrasts dose-limited broad electrical stimulation with conditional cell- and projection-specific optogenetic control.
 - Ketamine circuit case - [[ketamine-benefits-risks-for-depression-ptsd-neuroplasticity-scim3757014952]] connects inhibitory-neuron NMDA blockade to burst firing, BDNF-related plasticity, reward availability, and frontal connectivity while separating immediate experience from delayed benefit.
+- Timing and target refinement - [[psychedelics-neurostimulation-for-brain-rewiring-dr-nolan-williams-scim3664218578]] adds prefrontal-cingulate directionality, individualized connectivity targeting, transient heart-rate response, and supervised sleep-light timing as circuit-relevant variables.
 
 ## Counterevidence & Qualifications
 The sources do not show that all depression, PTSD, OCD, addiction, obesity, binge eating, or suicidality are one circuit disorder, that medication is obsolete, or that circuit change automatically produces durable recovery. EEG biomarkers, optogenetic psychiatric treatment, brain-machine interfaces, BDNF/TrkB interpretation, opioid involvement, and several altered-state mechanisms remain emerging, incomplete, or source-scoped rather than routine diagnostic tools or individualized treatment guides.
@@ -52,6 +54,7 @@ The sources do not show that all depression, PTSD, OCD, addiction, obesity, bing
 ## What Changed
 - Added ketamine as a receptor-to-disinhibition-to-plasticity circuit case.
 - Separated altered-state intensity from later clinical benefit and complete mechanism.
+- Added the full Williams interview's individualized targeting, circuit-timing markers, and chronotherapy branch.
 
 ## Related Concepts
 - [[TranscranialMagneticStimulationForDepression]] - direct neuromodulation branch that operationalizes the circuit model.
@@ -67,3 +70,4 @@ The sources do not show that all depression, PTSD, OCD, addiction, obesity, bing
 - [[SelectiveNeuralStimulationPrecision]] - requirement for cell- and projection-level targeting rather than broad electrical activation.
 - [[KetamineAntidepressantMechanisms]] - multi-timescale receptor, trophic, opioid, and circuit branch.
 - [[KetamineTreatmentSafety]] - clinical boundary around translating the circuit model into care.
+- [[DepressionChronotherapy]] - sleep, circadian-phase, and light-timing branch of state-based psychiatric intervention.

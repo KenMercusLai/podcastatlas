@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Psychedelics & Neurostimulation for Brain Rewiring | Dr. Nolan Williams](sources/psychedelics-neurostimulation-for-brain-rewiring-dr-nolan-williams-scim3664218578.md) — Full Huberman Lab interview on depression circuits, TMS/SNT, psychedelics, ketamine, supervised chronotherapy, cannabis risk, and clinical evidence boundaries.
 - [242. French History on Film](sources/242-french-history-on-film-glt2672520929.md) — The Rest Is History episode on historical worldview, French cinema, national memory, Occupation allegory, May 1968, and the cultural significance of omission and changing reception.
 - [246. The Fall of Liz Truss](sources/246-the-fall-of-liz-truss-glt3484252092.md) — The Rest Is History episode on Truss's 45-day premiership, activist leader selection, cascading authority loss, competing Brexit programmes, and energy-driven industrial risk.
 - [247. Monty & Patton vs. the Nazis](sources/247-monty-patton-vs-the-nazis-glt2932235302.md) — The Rest Is History episode with Al Murray on morale, logistics, staff work, public image, institutional learning, and the continuing role of commanders in industrial war.
@@ -14930,6 +14931,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [台灣人工智慧實驗室 / Taiwan AI Labs](entities/TaiwanAILabs.md) — AI organization adapting Taiwanese speech generation through better alignment and Romanized pronunciation targets.
 
 ## Concepts
+- [Depression Chronotherapy](concepts/DepressionChronotherapy.md) — Clinically supervised combination of wake therapy, circadian phase shifting, and bright light for depression, kept distinct from self-directed sleep deprivation.
 - [Cinema as National Memory](concepts/CinemaAsNationalMemory.md) — How film confirms, revises, domesticates, or avoids inherited national histories.
 - [Historical Worldview Reconstruction](concepts/HistoricalWorldviewReconstruction.md) — Making past beliefs, incentives, and status codes causally govern historical drama.
 - [Party-Membership Leadership Selection](concepts/PartyMembershipLeadershipSelection.md) — Tradeoff between wider internal participation and the representativeness, parliamentary support, and governing viability of party leaders.
