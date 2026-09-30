@@ -64548,9 +64548,9 @@
       "url": "/wiki/concepts/flexiblefrontiermilitarydiscretion/"
     },
     "FlexibleWeeklyFitnessScaffold": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM5878324891 [SCIM5878324891].md",
@@ -64572,6 +64572,13 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Andy Galpin: Optimize Your Training Program for Fitness & Longevity",
           "url": "/wiki/sources/guest-series-dr-andy-galpin-optimize-your-training-program-for-fitness-longevity-scim2066998732/"
+        },
+        {
+          "episode_file": "SCIM2940233129 [SCIM2940233129].md",
+          "key": "fitness-toolkit-protocol-tools-to-optimize-physical-health-scim2940233129",
+          "show": "Huberman Lab",
+          "title": "Fitness Toolkit: Protocol & Tools to Optimize Physical Health",
+          "url": "/wiki/sources/fitness-toolkit-protocol-tools-to-optimize-physical-health-scim2940233129/"
         }
       ],
       "updated": "2026-09-29",

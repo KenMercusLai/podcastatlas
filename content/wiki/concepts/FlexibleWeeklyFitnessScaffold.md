@@ -6,6 +6,7 @@ sources:
   - ama-11-improve-task-switching-productivity-and-reduce-brain-fog-scim5878324891
   - science-supported-tools-to-accelerate-your-fitness-goals-scim7037527631
   - guest-series-dr-andy-galpin-optimize-your-training-program-for-fitness-longevity-scim2066998732
+  - fitness-toolkit-protocol-tools-to-optimize-physical-health-scim2940233129
 last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
@@ -22,8 +23,10 @@ Lower-frequency and higher-frequency alternatives can cover the same broad capac
 
 The more reusable idea is not the exact split but the relation between structure and flexibility. Weekly targets guide decisions, while sleep, illness, stress, travel, soreness, family time, nutrition, recent training, and ordinary physical activity determine whether a session should proceed, move, combine with another, change modality, or be skipped. Consistency therefore means a high long-run completion rate rather than perfect obedience to a calendar.
 
+The earlier seven-day toolkit supplies a concrete version of the same logic: long easy endurance; legs; recovery; torso and neck; moderate cardiovascular work; high-intensity intervals; then arms, calves, neck, and indirect torso work. Its named weekdays are movable, but the source treats spacing as consequential—for example, it avoids placing hard intervals directly after leg training—and favors gradual re-entry after illness or a layoff.
+
 ## Key Claims
-- Weekly targets can provide enough structure to cover resistance work, moderate cardiovascular work, high-intensity conditioning, longer easy movement, and deliberate rest.
+- Weekly targets, including a seven-day sequence when useful, can provide enough structure to cover resistance work, moderate cardiovascular work, high-intensity conditioning, longer easy movement, and deliberate rest without making named weekdays mandatory.
 - Session order is adjustable; recovery state can justify moving or switching workouts, while consecutive resistance days increase the importance of later rest.
 - Combining moderate cardio with short high-intensity work can recover schedule coverage, but only when sleep, stress, illness risk, nutrition, and recovery support it.
 - Injury-aware exercise selection overrides the nominal split, and long-run adherence can survive occasional missed workouts.
@@ -40,11 +43,15 @@ The more reusable idea is not the exact split but the relation between structure
 - Foundation restatement - [[science-supported-tools-to-accelerate-your-fitness-goals-scim7037527631]] repeats the three-resistance and three-cardio foundation, adds 150-200 minutes of zone 2 movement, and presents its later tools as additions or occasional substitutions.
 - Alternative frequencies - [[guest-series-dr-andy-galpin-optimize-your-training-program-for-fitness-longevity-scim2066998732]] gives three-, four-, and six-day examples that distribute power, strength, hypertrophy, muscular endurance, intervals, and long-duration work.
 - Activity distinction - [[guest-series-dr-andy-galpin-optimize-your-training-program-for-fitness-longevity-scim2066998732]] keeps walking and work-related movement beneath rather than identical to formal exercise sessions.
+- Seven-day implementation - [[fitness-toolkit-protocol-tools-to-optimize-physical-health-scim2940233129]] sequences long endurance, legs, recovery, torso, moderate cardio, intervals, and smaller-body-part work while permitting day shifts and preserving separation between demanding lower-body sessions.
+- Disruption and return - [[fitness-toolkit-protocol-tools-to-optimize-physical-health-scim2940233129]] treats poor sleep, illness, travel, and layoffs as reasons to adjust dose or timing and recommends a gradual ramp back rather than an immediate maximal return.
 
 ## Counterevidence & Qualifications
-These are public-education scheduling examples, not evidence that three, four, or six training days or a particular zone 2 total are necessary, sufficient, or optimal for every person. The sources do not compare the templates directly or provide enough study methods, individualized intensity targets, or outcomes. Training age, disability, injury, cardiovascular risk, illness, pregnancy, medication, sport goals, time, access, and recovery capacity can all change an appropriate plan. VO2-max intervals, weighted walking, exercise snacks, heat or cold exposure, caffeine, exercise combinations, and periodization require their own safety and goal context.
+These are public-education scheduling examples, not evidence that three, four, six, or seven training days or a particular zone 2 total are necessary, sufficient, or optimal for every person. The sources do not compare the templates directly or provide enough study methods, individualized intensity targets, or outcomes. Training age, disability, injury, cardiovascular risk, illness, pregnancy, medication, sport goals, time, access, and recovery capacity can all change an appropriate plan. VO2-max intervals, weighted walking, exercise snacks, neck work, heat or cold exposure, caffeine, exercise combinations, and periodization require their own safety and goal context.
 
 ## What Changed
+- Added the earlier seven-day toolkit as a concrete mixed-capacity sequence while preserving weekday flexibility.
+- Made recovery-aware spacing and gradual return after illness or layoffs explicit invariants of the scaffold.
 - Added three-, four-, and six-day mixed-adaptation templates.
 - Distinguished ordinary physical activity from structured training while retaining both in the weekly model.
 

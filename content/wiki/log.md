@@ -26028,3 +26028,11 @@ Added source `244-trafalgar-countdown-to-annihilation-part-2-glt5489746159`; cre
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-30] ingest | Fitness Toolkit: Protocol & Tools to Optimize Physical Health
+
+Added source `fitness-toolkit-protocol-tools-to-optimize-physical-health-scim2940233129` and resynthesized `FlexibleWeeklyFitnessScaffold` from its complete preserved four-source evidence inventory. Core synthesis: a mixed fitness week can distribute long easy endurance, lower- and upper-body resistance work, moderate cardiovascular work, high-intensity intervals, and recovery, while the durable rule is broad capacity coverage plus recovery-aware spacing rather than fixed weekdays or exercises. Poor sleep, illness, travel, soreness, and layoffs can justify moving, reducing, or skipping work, followed by gradual return. No settled contradiction was adopted. The exact seven-day split, zone 2 total, repetition blocks, interval and stretching doses, cold timing, feeding preferences, and unreplicated soleus-push-up findings remain source-scoped public education rather than individualized prescription. Existing `AndrewHuberman` and `HubermanLab` profiles were linked but not rewritten because the episode added no material profile change. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,255-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

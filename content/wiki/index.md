@@ -3303,6 +3303,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [244. Trafalgar: Countdown to Annihilation (Part 2)](sources/244-trafalgar-countdown-to-annihilation-part-2-glt5489746159.md) — The Rest Is History account of Nelson, Villeneuve, Napoleon's Atlantic-scale invasion plan, coalition friction, blockade, and the eve of Trafalgar.
 
+- [Fitness Toolkit: Protocol & Tools to Optimize Physical Health](sources/fitness-toolkit-protocol-tools-to-optimize-physical-health-scim2940233129.md) — Huberman Lab solo episode presenting an adaptable weekly mix of endurance, resistance work, intervals, recovery, mobility, and return-to-training constraints.
+
 ## Entities
 - [Liz Truss](entities/LizTruss.md) — British prime minister whose 45-day tenure became a case of rapid policy and political-authority collapse.
 - [Kwasi Kwarteng](entities/KwasiKwarteng.md) — Truss's chancellor, associated with the mini-budget and the failed attempt to restore authority by dismissing a close ally.
