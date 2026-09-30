@@ -7754,6 +7754,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/entities/alidrisi/"
     },
+    "AlJazeera": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4853394229 [GLT4853394229].md",
+          "key": "255-qatar-a-history-glt4853394229",
+          "show": "The Rest Is History",
+          "title": "255. Qatar: A History",
+          "url": "/wiki/sources/255-qatar-a-history-glt4853394229/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/aljazeera/"
+    },
     "AlKhayzuran": {
       "episode_count": 1,
       "show_count": 1,
@@ -76662,6 +76678,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/halliemiller/"
     },
+    "HamadBinKhalifaAlThani": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4853394229 [GLT4853394229].md",
+          "key": "255-qatar-a-history-glt4853394229",
+          "show": "The Rest Is History",
+          "title": "255. Qatar: A History",
+          "url": "/wiki/sources/255-qatar-a-history-glt4853394229/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/hamadbinkhalifaalthani/"
+    },
     "HamilcarBarca": {
       "episode_count": 2,
       "show_count": 1,
@@ -144758,6 +144790,52 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/qlora/"
     },
+    "Qatar": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "In arms’ way： Gaza-deal sticking points [6a71b49647235c354d3c9b74].md",
+          "key": "in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74",
+          "show": "Economist Podcasts",
+          "title": "In arms’ way: Gaza-deal sticking points",
+          "url": "/wiki/sources/in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74/"
+        },
+        {
+          "episode_file": "A firm Andy： what are new British PM’s plans？ [6a5deeca76f8ee25bb4bbf9c].md",
+          "key": "a-firm-andy-what-are-new-british-pms-plans-6a5deeca76f8ee25bb4bbf9c",
+          "show": "Economist Podcasts",
+          "title": "A firm Andy: what are new British PM's plans?",
+          "url": "/wiki/sources/a-firm-andy-what-are-new-british-pms-plans-6a5deeca76f8ee25bb4bbf9c/"
+        },
+        {
+          "episode_file": "GLT4853394229 [GLT4853394229].md",
+          "key": "255-qatar-a-history-glt4853394229",
+          "show": "The Rest Is History",
+          "title": "255. Qatar: A History",
+          "url": "/wiki/sources/255-qatar-a-history-glt4853394229/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/qatar/"
+    },
+    "QatariSmallStateSecurityStrategy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4853394229 [GLT4853394229].md",
+          "key": "255-qatar-a-history-glt4853394229",
+          "show": "The Rest Is History",
+          "title": "255. Qatar: A History",
+          "url": "/wiki/sources/255-qatar-a-history-glt4853394229/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/qatarismallstatesecuritystrategy/"
+    },
     "QiXiangdong": {
       "episode_count": 1,
       "show_count": 1,
@@ -166657,6 +166735,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/concepts/strategicpatronexitjudgment/"
+    },
+    "StrategicVisibilityScrutinyTradeoff": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4853394229 [GLT4853394229].md",
+          "key": "255-qatar-a-history-glt4853394229",
+          "show": "The Rest Is History",
+          "title": "255. Qatar: A History",
+          "url": "/wiki/sources/255-qatar-a-history-glt4853394229/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/strategicvisibilityscrutinytradeoff/"
     },
     "StreamingAwardLeadership": {
       "episode_count": 1,

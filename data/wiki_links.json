@@ -875,6 +875,10 @@
     "title": "246. 杭州博物馆「一苇杭之」，好久没看过这么推荐的展览了",
     "url": "/wiki/sources/246-hangzhou-bowuguan-yiwei-hangzhi-haojiu-mei-kan-guo-zheme-tuijian-de-zhanlan-le-8217911423-973793/"
   },
+  "255-qatar-a-history-glt4853394229": {
+    "title": "255. Qatar: A History",
+    "url": "/wiki/sources/255-qatar-a-history-glt4853394229/"
+  },
   "256-germany-the-white-rose-glt6296738472": {
     "title": "256. Germany: The White Rose",
     "url": "/wiki/sources/256-germany-the-white-rose-glt6296738472/"
@@ -5802,6 +5806,10 @@
   "AlIdrisi": {
     "title": "al-Idrisi / 伊德里希",
     "url": "/wiki/entities/alidrisi/"
+  },
+  "AlJazeera": {
+    "title": "Al Jazeera",
+    "url": "/wiki/entities/aljazeera/"
   },
   "AlKhayzuran": {
     "title": "Al-Khayzuran",
@@ -32610,6 +32618,10 @@
   "HaloProductStrategy": {
     "title": "Halo Product Strategy",
     "url": "/wiki/concepts/haloproductstrategy/"
+  },
+  "HamadBinKhalifaAlThani": {
+    "title": "Hamad bin Khalifa Al Thani",
+    "url": "/wiki/entities/hamadbinkhalifaalthani/"
   },
   "Hamas": {
     "title": "Hamas",
@@ -59723,6 +59735,10 @@
     "title": "Qatar",
     "url": "/wiki/entities/qatar/"
   },
+  "QatariSmallStateSecurityStrategy": {
+    "title": "Qatari Small-State Security Strategy",
+    "url": "/wiki/concepts/qatarismallstatesecuritystrategy/"
+  },
   "QiChronologyDispute": {
     "title": "Qi Wei Wang Chronology Dispute / 齐威王编年争议",
     "url": "/wiki/concepts/qichronologydispute/"
@@ -69450,6 +69466,10 @@
   "StrategicUnpredictability": {
     "title": "Strategic Unpredictability",
     "url": "/wiki/concepts/strategicunpredictability/"
+  },
+  "StrategicVisibilityScrutinyTradeoff": {
+    "title": "Strategic Visibility-Scrutiny Tradeoff",
+    "url": "/wiki/concepts/strategicvisibilityscrutinytradeoff/"
   },
   "StrategyFollowsStructure": {
     "title": "Strategy Follows Structure",

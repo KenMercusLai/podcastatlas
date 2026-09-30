@@ -25887,3 +25887,10 @@ Added source `256-germany-the-white-rose-glt6296738472`; created `HansScholl`, `
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-09-30] ingest | 255. Qatar: A History
+
+Added source `255-qatar-a-history-glt4853394229`; created `HamadBinKhalifaAlThani`, `AlJazeera`, `QatariSmallStateSecurityStrategy`, and `StrategicVisibilityScrutinyTradeoff`; and resynthesized `Qatar` from its complete preserved evidence inventory. Core synthesis: gas wealth enabled but did not automatically secure Qatar; the modern state converted LNG demand, global investment, Al Udeid, media, education, aviation, and cross-rival diplomacy into a portfolio of external stakes in its autonomy, while World Cup and media visibility also intensified scrutiny of labor, inequality, governance, and environmental costs. No settled contradiction was adopted. Ancient identifications, imperial control, reserve rankings, coup motives, blockade diplomacy, migrant-worker deaths, bidding allegations, and reputational effects remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten because this historical episode deepens an existing Gulf branch without changing the wiki-wide synthesis.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2942
+topic_total_pages: 2945
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2689,6 +2689,9 @@ topic_concepts:
   - key: "StrategicUnpredictability"
     title: "Strategic Unpredictability"
     url: "/wiki/concepts/strategicunpredictability/"
+  - key: "StrategicVisibilityScrutinyTradeoff"
+    title: "Strategic Visibility-Scrutiny Tradeoff"
+    url: "/wiki/concepts/strategicvisibilityscrutinytradeoff/"
   - key: "StreamingAudienceRetention"
     title: "Streaming Audience Retention"
     url: "/wiki/concepts/streamingaudienceretention/"
@@ -3290,6 +3293,9 @@ topic_entities:
   - key: "AlDavis"
     title: "Al Davis"
     url: "/wiki/entities/aldavis/"
+  - key: "AlJazeera"
+    title: "Al Jazeera"
+    url: "/wiki/entities/aljazeera/"
   - key: "Aldhani"
     title: "Aldhani"
     url: "/wiki/entities/aldhani/"
@@ -8061,6 +8067,9 @@ topic_sources:
   - key: "246-hangzhou-bowuguan-yiwei-hangzhi-haojiu-mei-kan-guo-zheme-tuijian-de-zhanlan-le-8217911423-973793"
     title: "246. 杭州博物馆「一苇杭之」，好久没看过这么推荐的展览了"
     url: "/wiki/sources/246-hangzhou-bowuguan-yiwei-hangzhi-haojiu-mei-kan-guo-zheme-tuijian-de-zhanlan-le-8217911423-973793/"
+  - key: "255-qatar-a-history-glt4853394229"
+    title: "255. Qatar: A History"
+    url: "/wiki/sources/255-qatar-a-history-glt4853394229/"
   - key: "27-xiqukeke-yizai-nin-zhuoxia-anzhi-zhadan-582370829"
     title: "27.希区柯克已在您桌下安置炸弹"
     url: "/wiki/sources/27-xiqukeke-yizai-nin-zhuoxia-anzhi-zhadan-582370829/"
