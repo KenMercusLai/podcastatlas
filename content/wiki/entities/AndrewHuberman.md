@@ -58,6 +58,7 @@ sources:
   - ketamine-benefits-risks-for-depression-ptsd-neuroplasticity-scim3757014952
   - how-to-optimize-your-water-quality-intake-for-health-scim6169879512
   - the-effects-of-cannabis-marijuana-on-the-brain-body-scim1203833427
+  - nicotines-effects-on-the-brain-body-how-to-quit-smoking-or-vaping-scim2598262635
 last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
@@ -140,6 +141,8 @@ In the water-quality episode, he joins baseline intake, exercise and heat losses
 
 In the cannabis solo episode, he maps anandamide, 2-AG, CB1 and CB2 receptors, acute intoxication, repeated use, development, mental health, fertility, and medical-use claims into a precautionary public-health account. [[EndocannabinoidHomeostaticSignaling]] and [[CannabisDoseRouteVulnerability]] retain the mechanism and risk-context value, while [[CannabisStrainLabelEvidenceBoundary]] and [[CannabisPsychosisCausalityBoundary]] record that a later expert interview corrected his categorical strain predictions and simple causal framing.
 
+In the nicotine solo episode, he separates nicotine pharmacology from smoking, vaping, dipping, and snuffing harms while connecting nicotinic receptors to attention, arousal, dopamine reinforcement, tolerance, and withdrawal. [[NicotineNeurobiologyAndDependence]], [[ElectronicCigaretteRisk]], and [[SmokingCessationSupport]] preserve the mechanism, route, and cessation value while keeping cognitive-enhancement, bupropion, hypnosis, nicotine-replacement, and numerical claims source-scoped.
+
 ## Key Characteristics
 - Frames everyday concerns through guest expertise, practical mechanisms, and first-person examples.
 - Uses guest answers to distinguish useful tools from treatment, protocol, or replacement overclaims.
@@ -150,6 +153,7 @@ In the cannabis solo episode, he maps anandamide, 2-AG, CB1 and CB2 receptors, a
 - Organizes mechanisms, sleep-wake timing, dopamine baseline and effort tools, lived practices, movement practice, flexibility protocols, leadership frames, listener questions, first-person meditation claims, learning-performance questions, nutrition hierarchies, relationship-science claims, stress appraisal and recovery, preventive-longevity tradeoffs, risk and agency tools, sugar-craving mechanisms, nine-adaptation fitness self-assessment, and serious psychiatric education into practical toolkits while warning against over-stacking, universalizing, or protocolizing interventions.
 
 ## Evidence
+- Nicotine mechanism and cessation framing: [[nicotines-effects-on-the-brain-body-how-to-quit-smoking-or-vaping-scim2598262635]] has Huberman connect nicotinic receptors, attention, arousal, reward, delivery speed, withdrawal, vaping risk, and supported cessation while separating mechanism from a safety claim.
 - Cannabis mechanism and evidence boundaries: [[the-effects-of-cannabis-marijuana-on-the-brain-body-scim1203833427]] has Huberman connect endocannabinoid signaling to acute effects, developmental exposure, chronic use, psychiatric risk, fertility, and selected medical uses while later wiki evidence qualifies its strain and psychosis claims.
 - Hydration and water-quality framing: [[how-to-optimize-your-water-quality-intake-for-health-scim6169879512]] has Huberman connect timed intake, exertion and heat, local water reports, plumbing, filtration, minerals, and specialty-water claims while preserving evidence and medical boundaries.
 - Ketamine framing: [[ketamine-benefits-risks-for-depression-ptsd-neuroplasticity-scim3757014952]] has Huberman distinguish rapid but often time-limited psychiatric benefit from acute dissociation, route-dependent exposure, multi-process mechanisms, and substantial unsupervised-use risk.
@@ -249,13 +253,18 @@ The water-quality episode's hourly intake, dehydration threshold, exercise and s
 
 The cannabis episode's strain effects, chronic-use threshold, pharmacokinetics, cortical-thinning, depression and psychosis risk ratios, hormone effects, pregnancy prevalence, vascular claims, and medical benefits remain source-scoped. A later corrective expert interview rejects reliable indica/sativa prediction and simple one-way schizophrenia causation. This addition brings the bounded profile to fifty-five episode notes.
 
+The nicotine episode's receptor, absorption, half-life, developmental-window, metabolism, lifespan, cancer-risk, withdrawal, relapse, hypnosis, bupropion, and nicotine-replacement figures remain source-scoped. Separating nicotine from delivery toxicants does not establish harmlessness, and the episode does not provide individualized cessation treatment. This addition brings the bounded profile to fifty-six episode notes.
+
 ## What Changed
-- Added the cannabis solo episode's endocannabinoid mechanism and dose-route-vulnerability framing.
-- Added developmental, repeated-use, psychiatric, reproductive, vascular, and medical-use cautions.
-- Recorded later expert corrections to categorical strain effects and simple psychosis causation.
-- Kept numerical risks, thresholds, timings, and treatment claims source-scoped.
+- Added a nicotine branch joining receptor mechanisms, delivery speed, reinforcement, tolerance, and withdrawal.
+- Extended vaping risk through delivery kinetics without treating noncombustion as safety.
+- Added hypnosis, bupropion, and nicotine-replacement discussion inside clinical boundaries.
+- Kept numerical risks, success rates, dosing logic, and treatment claims source-scoped.
 
 ## Relationships
+- [[NicotineNeurobiologyAndDependence]] - receptor, neuromodulator, delivery-speed, tolerance, and withdrawal framework he presents.
+- [[ElectronicCigaretteRisk]] - route-specific aerosol, vascular, youth, and dependence boundary.
+- [[SmokingCessationSupport]] - supported quitting, relapse recovery, and treatment-literacy branch.
 - [[EndocannabinoidHomeostaticSignaling]] - endogenous feedback and broad THC-activation distinction developed by the cannabis episode.
 - [[CannabisDoseRouteVulnerability]] - product, route, frequency, developmental stage, and susceptibility framework.
 - [[CannabisStrainLabelEvidenceBoundary]] - later correction to the episode's categorical indica/sativa claims.

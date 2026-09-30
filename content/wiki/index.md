@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Nicotine’s Effects on the Brain & Body & How to Quit Smoking or Vaping](sources/nicotines-effects-on-the-brain-body-how-to-quit-smoking-or-vaping-scim2598262635.md) — Huberman Lab solo episode on nicotine receptors, attention, reward, delivery speed, vaping risk, withdrawal, and clinically bounded cessation support.
 - [Biology & Treatments for Compulsive Behaviors & Binge Eating | Dr. Casey Halpern](sources/biology-treatments-for-compulsive-behaviors-binge-eating-dr-casey-halpern-scim4911670131.md) — Full Huberman Lab interview on loss-of-control eating, responsive DBS, craving-signal mapping, OCD, focused ultrasound, and the invasive-to-non-invasive treatment pathway.
 - [237. Marilyn Monroe](sources/237-marilyn-monroe-glt5351991903.md) — The Rest Is History episode on Monroe's professional image-making, studio power, uncertain biography, consumer celebrity, death, and mythic afterlife.
 - [238. The Regency Revolution](sources/238-the-regency-revolution-glt7671750288.md) — The Rest Is History conversation with Hilary Davidson on rapid Regency changes in women's dress, menswear, bodies, retail networks, mobility, and political meaning.
@@ -14970,6 +14971,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Battle of Shanghai (1937)](entities/BattleOfShanghai1937.md) — Costly three-month Nationalist stand chosen for military concentration and international visibility.
 
 ## Concepts
+- [Nicotine Neurobiology and Dependence](concepts/NicotineNeurobiologyAndDependence.md) — Receptor, neuromodulator, delivery-speed, tolerance, withdrawal, and dependence framework for nicotine.
 - [Celebrity Image Afterlife](concepts/CelebrityImageAfterlife.md) — Process by which detachable images and later events preserve a public figure as a reusable symbol while obscuring the historical person.
 - [Responsive Deep Brain Stimulation](concepts/ResponsiveDeepBrainStimulation.md) — Closed-loop neuromodulation that detects a selected neural state and delivers brief stimulation rather than stimulating continuously.
 - [Loss of Control Eating](concepts/LossOfControlEating.md) — Eating-behavior construct distinguished from obesity and from formal binges that also require unusually large intake.

@@ -26176,3 +26176,15 @@ Added source `235-china-and-world-war-ii-part-1-glt2114682484`; created `MarcoPo
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | Nicotine’s Effects on the Brain & Body & How to Quit Smoking or Vaping
+
+Added source `nicotines-effects-on-the-brain-body-how-to-quit-smoking-or-vaping-scim2598262635`; created `NicotineNeurobiologyAndDependence`; and resynthesized `ElectronicCigaretteRisk`, `SmokingCessationSupport`, `AcetylcholineFocusSupport`, `DopaminePeakTroughBaseline`, `AndrewHuberman`, and `HubermanLab` from their complete preserved evidence inventories. Core synthesis: nicotine’s transient attention, arousal, and reward effects are inseparable from delivery speed, tolerance, withdrawal, cardiovascular and developmental context, and dependence risk; smoking, vaping, dipping, and snuffing add route-specific harms, while quitting is best treated as a supported behavioral and clinical process rather than a willpower test. No settled contradiction was adopted. Absorption, half-life, developmental-window, metabolism, lifespan, cancer-risk, withdrawal, relapse, hypnosis, bupropion, and nicotine-replacement figures remain source-scoped public education rather than individualized treatment guidance. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,273-source coverage; no topic claim set was dirty and global compaction was not due. Publish validation passed; deterministic lint found only the 15 pre-existing broken links outside this ingest's changed pages.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

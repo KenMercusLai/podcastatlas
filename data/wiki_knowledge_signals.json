@@ -5088,9 +5088,9 @@
       "url": "/wiki/concepts/accusationquotarefusal/"
     },
     "AcetylcholineFocusSupport": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM6495209379 [SCIM6495209379].md",
@@ -5105,9 +5105,16 @@
           "show": "Huberman Lab",
           "title": "Your Top Health Questions Answered",
           "url": "/wiki/sources/your-top-health-questions-answered-scim2882548864/"
+        },
+        {
+          "episode_file": "SCIM2598262635 [SCIM2598262635].md",
+          "key": "nicotines-effects-on-the-brain-body-how-to-quit-smoking-or-vaping-scim2598262635",
+          "show": "Huberman Lab",
+          "title": "Nicotine’s Effects on the Brain & Body & How to Quit Smoking or Vaping",
+          "url": "/wiki/sources/nicotines-effects-on-the-brain-body-how-to-quit-smoking-or-vaping-scim2598262635/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/acetylcholinefocussupport/"
     },
     "AchaemenidEmpire": {
@@ -10360,9 +10367,9 @@
       "url": "/wiki/entities/andrewcarnegie/"
     },
     "AndrewHuberman": {
-      "episode_count": 55,
+      "episode_count": 56,
       "show_count": 1,
-      "source_note_count": 55,
+      "source_note_count": 56,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -10748,6 +10755,13 @@
           "show": "Huberman Lab",
           "title": "The Effects of Cannabis (Marijuana) on the Brain & Body",
           "url": "/wiki/sources/the-effects-of-cannabis-marijuana-on-the-brain-body-scim1203833427/"
+        },
+        {
+          "episode_file": "SCIM2598262635 [SCIM2598262635].md",
+          "key": "nicotines-effects-on-the-brain-body-how-to-quit-smoking-or-vaping-scim2598262635",
+          "show": "Huberman Lab",
+          "title": "Nicotine’s Effects on the Brain & Body & How to Quit Smoking or Vaping",
+          "url": "/wiki/sources/nicotines-effects-on-the-brain-body-how-to-quit-smoking-or-vaping-scim2598262635/"
         }
       ],
       "updated": "2026-10-01",
@@ -48951,9 +48965,9 @@
       "url": "/wiki/concepts/dopamineinvertedu/"
     },
     "DopaminePeakTroughBaseline": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2602950288 [SCIM2602950288].md",
@@ -48961,9 +48975,16 @@
           "show": "Huberman Lab",
           "title": "Leverage Dopamine to Overcome Procrastination & Optimize Effort",
           "url": "/wiki/sources/leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288/"
+        },
+        {
+          "episode_file": "SCIM2598262635 [SCIM2598262635].md",
+          "key": "nicotines-effects-on-the-brain-body-how-to-quit-smoking-or-vaping-scim2598262635",
+          "show": "Huberman Lab",
+          "title": "Nicotine’s Effects on the Brain & Body & How to Quit Smoking or Vaping",
+          "url": "/wiki/sources/nicotines-effects-on-the-brain-body-how-to-quit-smoking-or-vaping-scim2598262635/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/dopaminepeaktroughbaseline/"
     },
     "DopamineToolTiming": {
@@ -52944,9 +52965,9 @@
       "url": "/wiki/concepts/electrolytedrinkuseboundary/"
     },
     "ElectronicCigaretteRisk": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "ljG7oQXs6D_N1--U7fZcYl7XDbXn [ljG7oQXs6D_N1--U7fZcYl7XDbXn].md",
@@ -52961,9 +52982,16 @@
           "show": "Huberman Lab",
           "title": "Vaping, Alcohol Use & Other Risky Youth Behaviors | Dr. Bonnie Halpern-Felsher",
           "url": "/wiki/sources/vaping-alcohol-use-other-risky-youth-behaviors-dr-bonnie-halpern-felsher-scim9155116429/"
+        },
+        {
+          "episode_file": "SCIM2598262635 [SCIM2598262635].md",
+          "key": "nicotines-effects-on-the-brain-body-how-to-quit-smoking-or-vaping-scim2598262635",
+          "show": "Huberman Lab",
+          "title": "Nicotine’s Effects on the Brain & Body & How to Quit Smoking or Vaping",
+          "url": "/wiki/sources/nicotines-effects-on-the-brain-body-how-to-quit-smoking-or-vaping-scim2598262635/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/electroniccigaretterisk/"
     },
     "ElevenLabs": {
@@ -86490,9 +86518,9 @@
       "url": "/wiki/entities/hubeihumanoidinnovationcenter/"
     },
     "HubermanLab": {
-      "episode_count": 55,
+      "episode_count": 56,
       "show_count": 1,
-      "source_note_count": 55,
+      "source_note_count": 56,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -86878,6 +86906,13 @@
           "show": "Huberman Lab",
           "title": "The Effects of Cannabis (Marijuana) on the Brain & Body",
           "url": "/wiki/sources/the-effects-of-cannabis-marijuana-on-the-brain-body-scim1203833427/"
+        },
+        {
+          "episode_file": "SCIM2598262635 [SCIM2598262635].md",
+          "key": "nicotines-effects-on-the-brain-body-how-to-quit-smoking-or-vaping-scim2598262635",
+          "show": "Huberman Lab",
+          "title": "Nicotine’s Effects on the Brain & Body & How to Quit Smoking or Vaping",
+          "url": "/wiki/sources/nicotines-effects-on-the-brain-body-how-to-quit-smoking-or-vaping-scim2598262635/"
         }
       ],
       "updated": "2026-10-01",
@@ -129513,6 +129548,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/nicolebernarddawes/"
     },
+    "NicotineNeurobiologyAndDependence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2598262635 [SCIM2598262635].md",
+          "key": "nicotines-effects-on-the-brain-body-how-to-quit-smoking-or-vaping-scim2598262635",
+          "show": "Huberman Lab",
+          "title": "Nicotine’s Effects on the Brain & Body & How to Quit Smoking or Vaping",
+          "url": "/wiki/sources/nicotines-effects-on-the-brain-body-how-to-quit-smoking-or-vaping-scim2598262635/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/nicotineneurobiologyanddependence/"
+    },
     "NieShangLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -164931,9 +164982,9 @@
       "url": "/wiki/entities/smileaction/"
     },
     "SmokingCessationSupport": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "ljG7oQXs6D_N1--U7fZcYl7XDbXn [ljG7oQXs6D_N1--U7fZcYl7XDbXn].md",
@@ -164948,9 +164999,16 @@
           "show": "Huberman Lab",
           "title": "Vaping, Alcohol Use & Other Risky Youth Behaviors | Dr. Bonnie Halpern-Felsher",
           "url": "/wiki/sources/vaping-alcohol-use-other-risky-youth-behaviors-dr-bonnie-halpern-felsher-scim9155116429/"
+        },
+        {
+          "episode_file": "SCIM2598262635 [SCIM2598262635].md",
+          "key": "nicotines-effects-on-the-brain-body-how-to-quit-smoking-or-vaping-scim2598262635",
+          "show": "Huberman Lab",
+          "title": "Nicotine’s Effects on the Brain & Body & How to Quit Smoking or Vaping",
+          "url": "/wiki/sources/nicotines-effects-on-the-brain-body-how-to-quit-smoking-or-vaping-scim2598262635/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/smokingcessationsupport/"
     },
     "Snap": {

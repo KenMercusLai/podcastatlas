@@ -58,6 +58,7 @@ sources:
   - ketamine-benefits-risks-for-depression-ptsd-neuroplasticity-scim3757014952
   - how-to-optimize-your-water-quality-intake-for-health-scim6169879512
   - the-effects-of-cannabis-marijuana-on-the-brain-body-scim1203833427
+  - nicotines-effects-on-the-brain-body-how-to-quit-smoking-or-vaping-scim2598262635
 last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
@@ -140,6 +141,8 @@ The water-quality episode adds a hydration and household-exposure branch. [[Dail
 
 The cannabis solo episode adds an endocannabinoid and substance-risk branch spanning anandamide, 2-AG, CB1 and CB2 receptors, acute intoxication, repeated use, development, mental health, fertility, and selected medical uses. [[EndocannabinoidHomeostaticSignaling]] and [[CannabisDoseRouteVulnerability]] preserve its useful mechanism and conditional-risk structure, while [[CannabisStrainLabelEvidenceBoundary]] and [[CannabisPsychosisCausalityBoundary]] record later corrections to its categorical strain and simple causality claims.
 
+The nicotine solo episode adds a receptor, delivery-kinetics, dependence, and cessation branch. [[NicotineNeurobiologyAndDependence]] connects nicotinic receptors with attention, arousal, dopamine reinforcement, tolerance, and withdrawal; [[ElectronicCigaretteRisk]] separates noncombustion from safety; and [[SmokingCessationSupport]] keeps hypnosis, bupropion, and nicotine replacement inside clinical and evidence boundaries.
+
 ## Key Characteristics
 - Uses long-form guest interviews to connect science, health, behavior, relationships, technology, and practical decision-making.
 - Translates everyday concerns into mechanism-oriented questions while preserving clinical or evidentiary boundaries.
@@ -150,6 +153,7 @@ The cannabis solo episode adds an endocannabinoid and substance-risk branch span
 - Uses solo Essentials, Q&A, and long-form guest framing to turn core mechanisms, sleep-wake timing, dopamine baseline and effort tools, discipline practices, movement practice, flexibility protocols, leadership frames, everyday health questions, meditation claims, learning-performance questions, nutrition hierarchies, relationship-science claims, stress appraisal and recovery, preventive-longevity tradeoffs, risk and agency tools, sugar-craving mechanisms, nine-adaptation fitness self-assessment, and serious psychiatric topics into cautiously bounded self-regulation or treatment-literacy toolkits.
 
 ## Evidence
+- Nicotine mechanism and cessation boundaries: [[nicotines-effects-on-the-brain-body-how-to-quit-smoking-or-vaping-scim2598262635]] separates nicotine pharmacology from delivery-product harm and connects receptor effects, rapid reinforcement, withdrawal, vaping risk, and supported cessation.
 - Cannabis mechanism and evidence boundaries: [[the-effects-of-cannabis-marijuana-on-the-brain-body-scim1203833427]] connects endocannabinoid signaling to acute effects, developmental exposure, chronic use, psychiatric risk, fertility, and selected medical uses while later wiki evidence qualifies its strain and psychosis claims.
 - Hydration and water quality: [[how-to-optimize-your-water-quality-intake-for-health-scim6169879512]] connects timed intake, exertion and heat, local water reports, household delivery, filtration, minerals, and specialty-water evidence boundaries.
 - Ketamine treatment and mechanism: [[ketamine-benefits-risks-for-depression-ptsd-neuroplasticity-scim3757014952]] separates rapid but often time-limited psychiatric benefit from acute dissociation, route-dependent exposure, multi-process mechanisms, and substantial unsupervised-use risk.
@@ -249,13 +253,18 @@ The water-quality episode's hourly intake, dehydration threshold, exercise and s
 
 The cannabis episode's strain effects, chronic-use threshold, pharmacokinetics, cortical-thinning, depression and psychosis risk ratios, hormone effects, pregnancy prevalence, vascular claims, and medical benefits remain source-scoped. A later corrective expert interview rejects reliable indica/sativa prediction and simple one-way schizophrenia causation. This addition brings the bounded profile to fifty-five episode notes.
 
+The nicotine episode's receptor, absorption, half-life, developmental-window, metabolism, lifespan, cancer-risk, withdrawal, relapse, hypnosis, bupropion, and nicotine-replacement figures remain source-scoped. Separating nicotine from delivery toxicants does not establish harmlessness, and the episode does not provide individualized cessation treatment. This addition brings the bounded profile to fifty-six episode notes.
+
 ## What Changed
-- Added an endocannabinoid mechanism and cannabis dose-route-vulnerability branch.
-- Added developmental, repeated-use, psychiatric, reproductive, vascular, and medical-use cautions.
-- Recorded later corrections to categorical strain effects and simple psychosis causation.
-- Kept numerical risks, thresholds, timings, and treatment claims source-scoped.
+- Added a nicotine branch joining receptor mechanisms, delivery speed, reinforcement, tolerance, and withdrawal.
+- Extended vaping risk through delivery kinetics without treating noncombustion as safety.
+- Added hypnosis, bupropion, and nicotine-replacement discussion inside clinical boundaries.
+- Kept numerical risks, success rates, dosing logic, and treatment claims source-scoped.
 
 ## Relationships
+- [[NicotineNeurobiologyAndDependence]] - receptor, neuromodulator, delivery-speed, tolerance, and withdrawal framework.
+- [[ElectronicCigaretteRisk]] - route-specific aerosol, vascular, youth, and dependence boundary.
+- [[SmokingCessationSupport]] - supported quitting, relapse recovery, and treatment-literacy branch.
 - [[EndocannabinoidHomeostaticSignaling]] - endogenous feedback and broad THC-activation distinction.
 - [[CannabisDoseRouteVulnerability]] - product, route, frequency, developmental stage, and susceptibility framework.
 - [[CannabisStrainLabelEvidenceBoundary]] - later correction to categorical indica/sativa claims.

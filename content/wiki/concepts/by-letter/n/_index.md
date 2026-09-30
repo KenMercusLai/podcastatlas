@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 8998
+wiki_total_pages: 8999
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -290,6 +290,9 @@ wiki_pages:
   - key: "NicheOriginStoryRepositioning"
     title: "Niche Origin Story Repositioning"
     url: "/wiki/concepts/nicheoriginstoryrepositioning/"
+  - key: "NicotineNeurobiologyAndDependence"
+    title: "Nicotine Neurobiology and Dependence"
+    url: "/wiki/concepts/nicotineneurobiologyanddependence/"
   - key: "NightlifeMayor"
     title: "Nightlife Mayor"
     url: "/wiki/concepts/nightlifemayor/"

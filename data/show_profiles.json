@@ -491,7 +491,7 @@
       "earliest_episode_date": "2020-12-21",
       "latest_episode_date": "2026-09-28",
       "latest_episode_file": "SCIM4063268713 [SCIM4063268713].md",
-      "source_note_count": 219,
+      "source_note_count": 220,
       "topic_matched_source_note_count": 120,
       "topics": [
         {
@@ -525,7 +525,7 @@
           "title": "Andrew Huberman",
           "url": "/wiki/entities/andrewhuberman/",
           "kind": "person",
-          "episode_count": 55
+          "episode_count": 56
         },
         {
           "key": "AndyGalpin",

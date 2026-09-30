@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1351
+topic_total_pages: 1352
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1414,6 +1414,9 @@ topic_concepts:
   - key: "Neuroplasticity"
     title: "Neuroplasticity / 神经可塑性"
     url: "/wiki/concepts/neuroplasticity/"
+  - key: "NicotineNeurobiologyAndDependence"
+    title: "Nicotine Neurobiology and Dependence"
+    url: "/wiki/concepts/nicotineneurobiologyanddependence/"
   - key: "NonAlcoholicBeerGrowth"
     title: "Non-Alcoholic Beer Growth / 无醇啤酒增长"
     url: "/wiki/concepts/nonalcoholicbeergrowth/"
