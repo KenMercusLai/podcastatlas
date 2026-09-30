@@ -57725,6 +57725,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/etoncollege/"
     },
+    "EuanRoger": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9532907553 [GLT9532907553].md",
+          "key": "248-medieval-treason-part-1-glt9532907553",
+          "show": "The Rest Is History",
+          "title": "248. Medieval Treason (Part 1)",
+          "url": "/wiki/sources/248-medieval-treason-part-1-glt9532907553/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/euanroger/"
+    },
     "EugeneMcCarthy": {
       "episode_count": 2,
       "show_count": 1,
@@ -58590,6 +58606,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/concepts/executivewarpowersbreakdown/"
+    },
+    "ExemplaryTreasonPunishment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9532907553 [GLT9532907553].md",
+          "key": "248-medieval-treason-part-1-glt9532907553",
+          "show": "The Rest Is History",
+          "title": "248. Medieval Treason (Part 1)",
+          "url": "/wiki/sources/248-medieval-treason-part-1-glt9532907553/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/exemplarytreasonpunishment/"
     },
     "ExerciseAssistiveGearBoundary": {
       "episode_count": 2,
@@ -80827,6 +80859,22 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/entities/henrythequarrelsome/"
+    },
+    "HenryVIII": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9532907553 [GLT9532907553].md",
+          "key": "248-medieval-treason-part-1-glt9532907553",
+          "show": "The Rest Is History",
+          "title": "248. Medieval Treason (Part 1)",
+          "url": "/wiki/sources/248-medieval-treason-part-1-glt9532907553/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/henryviii/"
     },
     "HenryVOfEngland": {
       "episode_count": 7,
@@ -126079,9 +126127,9 @@
       "url": "/wiki/concepts/nationalanthempoliticalplasticity/"
     },
     "NationalArchivesUK": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2159531504 [GLT2159531504].md",
@@ -126089,6 +126137,13 @@
           "show": "The Rest Is History",
           "title": "249. Treason in Modern Britain (Part 2)",
           "url": "/wiki/sources/249-treason-in-modern-britain-part-2-glt2159531504/"
+        },
+        {
+          "episode_file": "GLT9532907553 [GLT9532907553].md",
+          "key": "248-medieval-treason-part-1-glt9532907553",
+          "show": "The Rest Is History",
+          "title": "248. Medieval Treason (Part 1)",
+          "url": "/wiki/sources/248-medieval-treason-part-1-glt9532907553/"
         }
       ],
       "updated": "2026-09-30",
@@ -134551,6 +134606,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/parkinsonismrecognitiontreatmentboundary/"
+    },
+    "ParliamentaryAttainder": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9532907553 [GLT9532907553].md",
+          "key": "248-medieval-treason-part-1-glt9532907553",
+          "show": "The Rest Is History",
+          "title": "248. Medieval Treason (Part 1)",
+          "url": "/wiki/sources/248-medieval-treason-part-1-glt9532907553/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/parliamentaryattainder/"
     },
     "ParthianEmpire": {
       "episode_count": 1,
@@ -151437,6 +151508,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/entities/richardnixon/"
+    },
+    "RichardRoose": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9532907553 [GLT9532907553].md",
+          "key": "248-medieval-treason-part-1-glt9532907553",
+          "show": "The Rest Is History",
+          "title": "248. Medieval Treason (Part 1)",
+          "url": "/wiki/sources/248-medieval-treason-part-1-glt9532907553/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/richardroose/"
     },
     "RichardSchwartz": {
       "episode_count": 1,
@@ -177591,10 +177678,26 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/traviskalanick/"
     },
-    "TreasonAsSovereigntyContest": {
+    "TreasonAct1351": {
       "episode_count": 1,
       "show_count": 1,
       "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9532907553 [GLT9532907553].md",
+          "key": "248-medieval-treason-part-1-glt9532907553",
+          "show": "The Rest Is History",
+          "title": "248. Medieval Treason (Part 1)",
+          "url": "/wiki/sources/248-medieval-treason-part-1-glt9532907553/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/treasonact1351/"
+    },
+    "TreasonAsSovereigntyContest": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2159531504 [GLT2159531504].md",
@@ -177602,6 +177705,13 @@
           "show": "The Rest Is History",
           "title": "249. Treason in Modern Britain (Part 2)",
           "url": "/wiki/sources/249-treason-in-modern-britain-part-2-glt2159531504/"
+        },
+        {
+          "episode_file": "GLT9532907553 [GLT9532907553].md",
+          "key": "248-medieval-treason-part-1-glt9532907553",
+          "show": "The Rest Is History",
+          "title": "248. Medieval Treason (Part 1)",
+          "url": "/wiki/sources/248-medieval-treason-part-1-glt9532907553/"
         }
       ],
       "updated": "2026-09-30",

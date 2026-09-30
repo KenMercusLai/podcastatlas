@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [248. Medieval Treason (Part 1)](sources/248-medieval-treason-part-1-glt9532907553.md) — The Rest Is History episode on the Treason Act 1351/1352, medieval royal allegiance, attainder, exemplary punishment, Tudor legal expansion, and the shift toward institutional treason.
 - [How Meditation Works & Science-Based Effective Meditations](sources/how-meditation-works-science-based-effective-meditations-scim5642770846.md) — Huberman Lab episode on state-matched inward and outward attention, refocusing practice, meditation dose, breathing, and the boundary between meditation and deep rest.
 - [AMA #1: Leveraging Ultradian Cycles, How to Protect Your Brain, Seed Oils Examined and More](sources/ama-1-leveraging-ultradian-cycles-how-to-protect-your-brain-seed-oils-examined-and-more-scim2378383211.md) — Huberman Lab premium AMA separating strong morning-light guidance from broader nature benefits and uncertain grounding or negative-ion mechanisms.
 - [249. Treason in Modern Britain (Part 2)](sources/249-treason-in-modern-britain-part-2-glt2159531504.md) — The Rest Is History episode on treason as a changing contest over monarchy, Parliament, state, nation, republic, evidence, and political legitimacy.
@@ -3295,6 +3296,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [当科技让战争触屏可见，记者为何仍要抵达冲突现场？](sources/lkuvt7driaody6cy5pq-bj517ord-lkuvt7driaody6cy5pq-bj517ord.md) — 不合时宜 roundtable on field presence, language and fixer bias, independent-reporter risk, conflict verification, and unequal global attention.
 
 ## Entities
+- [Euan Roger](entities/EuanRoger.md) — National Archives historian guiding the medieval and Tudor treason-law exhibition material.
+- [Treason Act 1351/1352](entities/TreasonAct1351.md) — Durable English statutory baseline defining high treason while permitting later reinterpretation.
+- [Henry VIII](entities/HenryVIII.md) — Tudor monarch whose treason-law expansions joined supremacy, religion, speech, court politics, and poisoning.
+- [Richard Roose](entities/RichardRoose.md) — Cook whose poisoning case became a retroactive high-treason offence punished by public boiling.
 - [Médecins Sans Frontières / 无国界医生](entities/MedecinsSansFrontieres.md) — Humanitarian medical organization represented as an institutional safety-and-logistics contrast for conflict reporting in South Sudan.
 - [Neil Johnston](entities/NeilJohnston.md) — National Archives guide and co-author interpreting British treason through legal records, political theatre, and disputed sovereignty.
 - [The National Archives (United Kingdom)](entities/NationalArchivesUK.md) — Archival institution represented through its Treason: People, Power and Plot exhibition and document-based public history.
@@ -14879,6 +14884,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Roger Berkowitz](entities/RogerBerkowitz.md) — Political theorist reconstructing Hannah Arendt's account of friendship, plurality, truth, and reciprocal persuasion.
 
 ## Concepts
+- [Parliamentary Attainder](concepts/ParliamentaryAttainder.md) — Legislative condemnation joining treason, forfeiture, hereditary exclusion, and punishment without ordinary trial.
+- [Exemplary Treason Punishment](concepts/ExemplaryTreasonPunishment.md) — Public execution, bodily display, and hereditary loss used to communicate sovereign power.
 - [Meditation Attention-Mode Selection](concepts/MeditationAttentionModeSelection.md) — State-dependent choice among inward-focused, outward-focused, and attention-switching practices to build flexible attentional control.
 - [Meditation as Refocusing Practice](concepts/MeditationRefocusingPractice.md) — Model treating detection and return after mind wandering as the central meditation repetition.
 - [Nature Exposure Health Evidence](concepts/NatureExposureHealthEvidence.md) — Evidence hierarchy separating whole-experience nature benefits from stronger morning-light evidence and weaker grounding, ionization, forest-bathing, or indoor-plant mechanisms.

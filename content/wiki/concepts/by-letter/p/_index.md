@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8955
+wiki_total_pages: 8957
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -179,6 +179,9 @@ wiki_pages:
   - key: "ParkinsonismRecognitionTreatmentBoundary"
     title: "Parkinsonism Recognition and Treatment Boundary / 帕金森综合征识别与治疗边界"
     url: "/wiki/concepts/parkinsonismrecognitiontreatmentboundary/"
+  - key: "ParliamentaryAttainder"
+    title: "Parliamentary Attainder"
+    url: "/wiki/concepts/parliamentaryattainder/"
   - key: "ParliamentarySystem"
     title: "Parliamentary System"
     url: "/wiki/concepts/parliamentarysystem/"

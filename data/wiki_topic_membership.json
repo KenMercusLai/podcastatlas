@@ -1381,6 +1381,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "248-medieval-treason-part-1-glt9532907553": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "249-treason-in-modern-britain-part-2-glt2159531504": [
     {
       "key": "history",
@@ -57865,6 +57877,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "ParliamentaryAttainder": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "ParliamentarySystem": [
     {
       "key": "politics",
@@ -78080,6 +78099,13 @@
       "label": "History",
       "url": "/topics/history/"
     },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "TreasonAct1351": [
     {
       "key": "politics",
       "label": "Politics",

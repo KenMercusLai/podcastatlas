@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2862
+topic_total_pages: 2865
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2605,6 +2605,9 @@ topic_concepts:
   - key: "ParentalDefenseConflict"
     title: "Parental Defense Conflict / 父母辩护冲突"
     url: "/wiki/concepts/parentaldefenseconflict/"
+  - key: "ParliamentaryAttainder"
+    title: "Parliamentary Attainder"
+    url: "/wiki/concepts/parliamentaryattainder/"
   - key: "ParliamentarySystem"
     title: "Parliamentary System"
     url: "/wiki/concepts/parliamentarysystem/"
@@ -6833,6 +6836,9 @@ topic_entities:
   - key: "Toshiba"
     title: "Toshiba"
     url: "/wiki/entities/toshiba/"
+  - key: "TreasonAct1351"
+    title: "Treason Act 1351/1352"
+    url: "/wiki/entities/treasonact1351/"
   - key: "TreatyOfBretigny"
     title: "Treaty of Brétigny"
     url: "/wiki/entities/treatyofbretigny/"
@@ -7584,6 +7590,9 @@ topic_sources:
   - key: "2026-qiuji-pian-e03-zunyan-si-riben-yisheng-beipan-sharen-shijian-flop0zzkutdjvbj11zpa-cz62ijj4"
     title: "2026秋季篇E03 尊严死？！日本医生被判杀人事件"
     url: "/wiki/sources/2026-qiuji-pian-e03-zunyan-si-riben-yisheng-beipan-sharen-shijian-flop0zzkutdjvbj11zpa-cz62ijj4/"
+  - key: "248-medieval-treason-part-1-glt9532907553"
+    title: "248. Medieval Treason (Part 1)"
+    url: "/wiki/sources/248-medieval-treason-part-1-glt9532907553/"
   - key: "254-the-world-cup-the-falklands-despots-and-corruption-part-3-glt5891154284"
     title: "254. The World Cup: The Falklands, despots, and corruption (Part 3)"
     url: "/wiki/sources/254-the-world-cup-the-falklands-despots-and-corruption-part-3-glt5891154284/"

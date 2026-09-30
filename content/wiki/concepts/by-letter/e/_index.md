@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 8955
+wiki_total_pages: 8957
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -1007,6 +1007,9 @@ wiki_pages:
   - key: "ExecutorCharacterAdviceRisk"
     title: "Executor Character Advice Risk"
     url: "/wiki/concepts/executorcharacteradvicerisk/"
+  - key: "ExemplaryTreasonPunishment"
+    title: "Exemplary Treason Punishment"
+    url: "/wiki/concepts/exemplarytreasonpunishment/"
   - key: "ExerciseAssistiveGearBoundary"
     title: "Exercise Assistive Gear Boundary / 运动护具辅助边界"
     url: "/wiki/concepts/exerciseassistivegearboundary/"

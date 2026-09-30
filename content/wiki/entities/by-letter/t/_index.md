@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 11554
+wiki_total_pages: 11558
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1022,6 +1022,9 @@ wiki_pages:
   - key: "TravisKelce"
     title: "Travis Kelce"
     url: "/wiki/entities/traviskelce/"
+  - key: "TreasonAct1351"
+    title: "Treason Act 1351/1352"
+    url: "/wiki/entities/treasonact1351/"
   - key: "TreatyOfBretigny"
     title: "Treaty of Brétigny"
     url: "/wiki/entities/treatyofbretigny/"

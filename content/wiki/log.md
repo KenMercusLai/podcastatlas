@@ -25981,3 +25981,10 @@ Added source `how-meditation-works-science-based-effective-meditations-scim56427
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-09-30] ingest | 248. Medieval Treason (Part 1)
+
+Added source `248-medieval-treason-part-1-glt9532907553`; created `EuanRoger`, `TreasonAct1351`, `HenryVIII`, `RichardRoose`, `ParliamentaryAttainder`, and `ExemplaryTreasonPunishment`; expanded `NationalArchivesUK` and `TreasonAsSovereigntyContest` from their complete bounded two-episode source sets; and updated the canonical index. Core synthesis: the 1351/1352 statute supplied a durable definition of treason but did not eliminate political interpretation around intent, succession, war, religion, or the identity of the lawful sovereign; attainder and exemplary punishment extended condemnation into Parliament, property, family, body, and public spectacle; and most Henrician expansions were later repealed. No settled contradiction was adopted. The 1351/1352 variation is preserved as a dating convention, and the movement from monarch to state is treated as layered rather than linear. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 11554
+wiki_total_pages: 11558
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -410,6 +410,9 @@ wiki_pages:
   - key: "RichardNixon"
     title: "Richard Nixon"
     url: "/wiki/entities/richardnixon/"
+  - key: "RichardRoose"
+    title: "Richard Roose"
+    url: "/wiki/entities/richardroose/"
   - key: "RichardSchwartz"
     title: "Richard Schwartz"
     url: "/wiki/entities/richardschwartz/"
