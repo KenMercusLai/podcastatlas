@@ -4,6 +4,7 @@ type: entity
 tags: [football, sports, tournament, world-cup, fascism]
 sources:
   - the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007
+  - 252-the-world-cup-british-imperialism-south-american-rivalries-and-mussolini-part-1-glt2171290588
 last_updated: 2026-09-01
 knowledge_schema: synthesis-v1
 ---
@@ -16,12 +17,13 @@ The 1938 FIFA World Cup appears as the tournament in France where [[ItalyNationa
 
 ## Current Profile
 
-The episode presents 1938 as a second, less home-controlled but still politically charged victory. [[FIFA]] chose [[France]] over [[Germany]] as host, Austria's football position was altered by the Anschluss, anti-fascist protesters booed Italy in France, and Italy won the final against Hungary. The source again separates event history from legend, treating bought-off-opponent stories as weakly supported.
+The sources present 1938 as a second, less home-controlled but still politically charged Italian victory under the shadow of impending war. [[FIFA]] chose [[France]] over [[Germany]] as host, the Spanish Civil War removed Spain, the Anschluss ended Austria's independent participation, anti-fascist exiles encouraged hostility toward Italy, and Italy defeated Hungary. Both accounts separate event history from legend, rejecting the “win or die” telegram and treating bought-off-opponent stories as weakly supported.
 
 ## Key Characteristics
 
 - Hosted in France after FIFA chose France over Germany.
 - Played after the Anschluss ended Austria's independent football status and complicated German team formation.
+- Lacked Spain because of civil war and included the Dutch East Indies after Japan withdrew.
 - Marked by anti-fascist protest against the Italian team in France.
 - Won by Italy with a largely different side from 1934.
 - Used in the episode as a continuation of the Mussolini-era sport-politics story.
@@ -34,14 +36,16 @@ The episode presents 1938 as a second, less home-controlled but still politicall
 - Sporting result: [[the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007]] says Italy beat Hungary 4-2 in the final.
 - Team continuity: [[the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007]] says the 1938 side retained only two players from 1934.
 - Evidence boundary: [[the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007]] says claims that Brazil or Hungary were bought off lack convincing specificity.
+- Myth correction and wartime shadow: [[252-the-world-cup-british-imperialism-south-american-rivalries-and-mussolini-part-1-glt2171290588]] rejects the “win or die” telegram through later player testimony and places the tournament amid civil war, Anschluss, exile protest, and looming European conflict.
 
 ## Qualifications
 
-This page is not a complete tournament history. It records the event through the episode's focus on fascism, protest, Austria's disappearance, Italy's repeat victory, and uncertain corruption allegations.
+This page is not a complete tournament history. It records the event through the sources' focus on fascism, protest, absent or displaced teams, Italy's repeat victory, and uncertain corruption allegations; colorful player anecdotes do not establish the tournament's broader political causation.
 
 ## What Changed
 
-- Created the 1938 event page as the sequel to the 1934 Mussolini-era World Cup branch.
+- Added Spain, the Dutch East Indies, and wider prewar absence context.
+- Explicitly rejected the “win or die” telegram while retaining uncertainty around opponent-manipulation claims.
 
 ## Relationships
 

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [252. The World Cup: British Imperialism, South American rivalries, and Mussolini (Part 1)](sources/252-the-world-cup-british-imperialism-south-american-rivalries-and-mussolini-part-1-glt2171290588.md) — The Rest Is History episode on football's British-network diffusion, Uruguay's rise, fascist World Cups, and the Maracanazo's racialized national memory.
 - [253. The World Cup: Post-war reconciliation, Brazilian dictatorship, and North Koreans in Middlesbrough (Part 2)](sources/253-the-world-cup-post-war-reconciliation-brazilian-dictatorship-and-north-koreans-in-middlesbrough-part-2-glt3874165711.md) — The Rest Is History episode on postwar football memory, Brazil and Argentina under dictatorship, and the coexistence of World Cup beauty with political coercion.
 - [254. The World Cup: The Falklands, despots, and corruption (Part 3)](sources/254-the-world-cup-the-falklands-despots-and-corruption-part-3-glt5891154284.md) — The Rest Is History episode using Gary Lineker's World Cup memories to connect player experience, national identity, corruption, host politics, and sportwashing.
 - [255. Qatar: A History](sources/255-qatar-a-history-glt4853394229.md) — The Rest Is History episode on Qatar's pearling and imperial past, British protection, hydrocarbons, small-state security strategy, and World Cup scrutiny.
@@ -3286,6 +3287,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Science-Based Tools for Increasing Happiness](sources/science-based-tools-for-increasing-happiness-scim9472441223.md) — Huberman Lab solo episode on natural and synthetic happiness, attention, generosity, everyday social connection, material limits, and post-choice commitment.
 
 ## Entities
+- [Jules Rimet](entities/JulesRimet.md) — French football administrator whose interwar internationalism and organizing helped establish the World Cup.
+- [1930 FIFA World Cup](entities/FIFAWorldCup1930.md) — First official World Cup, hosted and won by Uruguay as a claim to small-state and South American football prestige.
+- [Moacir Barbosa](entities/MoacirBarbosa.md) — Brazil goalkeeper subjected to decades of racialized scapegoating after the 1950 Maracanazo.
 - [Pelé](entities/Pele.md) — Brazilian football icon joining World Cup excellence, multiracial national representation, and political ambiguity under military rule.
 - [1978 FIFA World Cup](entities/FIFAWorldCup1978.md) — Argentina-hosted tournament where junta spectacle, national celebration, disputed sporting claims, and nearby state terror converged.
 - [Gary Lineker](entities/GaryLineker.md) — England footballer and broadcaster linking World Cup playing memory to governance and human-rights criticism.
@@ -14861,6 +14865,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Roger Berkowitz](entities/RogerBerkowitz.md) — Political theorist reconstructing Hannah Arendt's account of friendship, plurality, truth, and reciprocal persuasion.
 
 ## Concepts
+- [Maracanazo](concepts/Maracanazo.md) — Uruguay's 1950 victory over Brazil understood as national trauma, racialized scapegoating, and intergenerational football memory.
+- [Football Imperial Network Diffusion](concepts/FootballImperialNetworkDiffusion.md) — Spread of football through British-linked transport, commerce, work, migration, and clubs followed by local transformation.
 - [World Cup National Memory](concepts/WorldCupNationalMemory.md) — Process by which tournament moments become selective national stories about recovery, unity, grievance, or modernity.
 - [Sportwashing](concepts/Sportwashing.md) — Use of sporting attention to improve reputation by displacing scrutiny, qualified by the possibility that visibility can also intensify criticism.
 - [Qatari Small-State Security Strategy](concepts/QatariSmallStateSecurityStrategy.md) — Portfolio using energy, military presence, investment, infrastructure, media, and diplomacy to protect a vulnerable state.

@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3238
+topic_total_pages: 3239
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2182,6 +2182,9 @@ topic_concepts:
   - key: "FootballEventTrackingData"
     title: "Football Event and Tracking Data"
     url: "/wiki/concepts/footballeventtrackingdata/"
+  - key: "FootballImperialNetworkDiffusion"
+    title: "Football Imperial Network Diffusion"
+    url: "/wiki/concepts/footballimperialnetworkdiffusion/"
   - key: "FounderMode"
     title: "Founder Mode"
     url: "/wiki/concepts/foundermode/"

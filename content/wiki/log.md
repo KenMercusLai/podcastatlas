@@ -25918,3 +25918,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-30] ingest | 252. The World Cup: British Imperialism, South American rivalries, and Mussolini (Part 1)
+
+Added source `252-the-world-cup-british-imperialism-south-american-rivalries-and-mussolini-part-1-glt2171290588`; created `JulesRimet`, `FIFAWorldCup1930`, `MoacirBarbosa`, `Maracanazo`, and `FootballImperialNetworkDiffusion`; and resynthesized `Pele`, `WorldCupNationalMemory`, `FascistSportPolicy`, `FIFAWorldCup1934`, and `FIFAWorldCup1938` from their complete preserved evidence inventories. Core synthesis: the World Cup emerged from British-linked mobility and Rimet's internationalism but was rapidly localized into South American prestige, fascist spectacle, and national memory; the Maracanazo shows how a modernity project and collective defeat could become racialized individual blame and intergenerational identity. No settled contradiction was adopted. Mussolini-era coercion and bribery stories, attendance and medical-response figures, Olympic-status explanations, and personal recollections remain myth-corrected, disputed, or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

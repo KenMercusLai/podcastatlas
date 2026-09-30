@@ -875,6 +875,10 @@
     "title": "246. 杭州博物馆「一苇杭之」，好久没看过这么推荐的展览了",
     "url": "/wiki/sources/246-hangzhou-bowuguan-yiwei-hangzhi-haojiu-mei-kan-guo-zheme-tuijian-de-zhanlan-le-8217911423-973793/"
   },
+  "252-the-world-cup-british-imperialism-south-american-rivalries-and-mussolini-part-1-glt2171290588": {
+    "title": "252. The World Cup: British Imperialism, South American rivalries, and Mussolini (Part 1)",
+    "url": "/wiki/sources/252-the-world-cup-british-imperialism-south-american-rivalries-and-mussolini-part-1-glt2171290588/"
+  },
   "253-the-world-cup-post-war-reconciliation-brazilian-dictatorship-and-north-koreans-in-middlesbrough-part-2-glt3874165711": {
     "title": "253. The World Cup: Post-war reconciliation, Brazilian dictatorship, and North Koreans in Middlesbrough (Part 2)",
     "url": "/wiki/sources/253-the-world-cup-post-war-reconciliation-brazilian-dictatorship-and-north-koreans-in-middlesbrough-part-2-glt3874165711/"
@@ -25919,6 +25923,10 @@
     "title": "FIFA World Cup",
     "url": "/wiki/entities/fifaworldcup/"
   },
+  "FIFAWorldCup1930": {
+    "title": "1930 FIFA World Cup",
+    "url": "/wiki/entities/fifaworldcup1930/"
+  },
   "FIFAWorldCup1934": {
     "title": "1934 FIFA World Cup",
     "url": "/wiki/entities/fifaworldcup1934/"
@@ -28022,6 +28030,10 @@
   "FootballFootwearMarketEntry": {
     "title": "Football Footwear Market Entry",
     "url": "/wiki/concepts/footballfootwearmarketentry/"
+  },
+  "FootballImperialNetworkDiffusion": {
+    "title": "Football Imperial Network Diffusion",
+    "url": "/wiki/concepts/footballimperialnetworkdiffusion/"
   },
   "FootballLaborMarketDiscrimination": {
     "title": "Football Labor-Market Discrimination",
@@ -40591,6 +40603,10 @@
     "title": "Jules / 祖",
     "url": "/wiki/entities/julesjulesandjim/"
   },
+  "JulesRimet": {
+    "title": "Jules Rimet",
+    "url": "/wiki/entities/julesrimet/"
+  },
   "JuliaDruskin": {
     "title": "Julia Druskin",
     "url": "/wiki/entities/juliadruskin/"
@@ -47467,6 +47483,10 @@
     "title": "Mar-a-Lago",
     "url": "/wiki/entities/maralago/"
   },
+  "Maracanazo": {
+    "title": "Maracanazo",
+    "url": "/wiki/concepts/maracanazo/"
+  },
   "Maranello": {
     "title": "Maranello",
     "url": "/wiki/entities/maranello/"
@@ -50230,6 +50250,10 @@
   "MoZihao": {
     "title": "莫子浩 / Mo Zihao",
     "url": "/wiki/entities/mozihao/"
+  },
+  "MoacirBarbosa": {
+    "title": "Moacir Barbosa",
+    "url": "/wiki/entities/moacirbarbosa/"
   },
   "Mobike": {
     "title": "Mobike / 摩拜",

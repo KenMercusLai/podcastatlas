@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 8943
+wiki_total_pages: 8945
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -785,6 +785,9 @@ wiki_pages:
   - key: "FootballFootwearMarketEntry"
     title: "Football Footwear Market Entry"
     url: "/wiki/concepts/footballfootwearmarketentry/"
+  - key: "FootballImperialNetworkDiffusion"
+    title: "Football Imperial Network Diffusion"
+    url: "/wiki/concepts/footballimperialnetworkdiffusion/"
   - key: "FootballLaborMarketDiscrimination"
     title: "Football Labor-Market Discrimination"
     url: "/wiki/concepts/footballlabormarketdiscrimination/"

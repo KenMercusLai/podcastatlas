@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 11545
+wiki_total_pages: 11548
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -1133,6 +1133,9 @@ wiki_pages:
   - key: "JulesJulesAndJim"
     title: "Jules / 祖"
     url: "/wiki/entities/julesjulesandjim/"
+  - key: "JulesRimet"
+    title: "Jules Rimet"
+    url: "/wiki/entities/julesrimet/"
   - key: "JuliaDruskin"
     title: "Julia Druskin"
     url: "/wiki/entities/juliadruskin/"

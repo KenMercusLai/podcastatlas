@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2946
+topic_total_pages: 2947
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -3206,6 +3206,9 @@ topic_entities:
   - key: "NineteenTwentyNineSorkin"
     title: "1929 / 《1929》 (Andrew Ross Sorkin)"
     url: "/wiki/entities/nineteentwentyninesorkin/"
+  - key: "FIFAWorldCup1930"
+    title: "1930 FIFA World Cup"
+    url: "/wiki/entities/fifaworldcup1930/"
   - key: "FIFAWorldCup1934"
     title: "1934 FIFA World Cup"
     url: "/wiki/entities/fifaworldcup1934/"

@@ -1381,6 +1381,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "252-the-world-cup-british-imperialism-south-american-rivalries-and-mussolini-part-1-glt2171290588": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "253-the-world-cup-post-war-reconciliation-brazilian-dictatorship-and-north-koreans-in-middlesbrough-part-2-glt3874165711": [
     {
       "key": "history",
@@ -29730,6 +29737,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "FIFAWorldCup1930": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "FIFAWorldCup1934": [
     {
       "key": "culture",
@@ -31654,6 +31668,13 @@
     }
   ],
   "FootballEventTrackingData": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "FootballImperialNetworkDiffusion": [
     {
       "key": "technology",
       "label": "Technology",

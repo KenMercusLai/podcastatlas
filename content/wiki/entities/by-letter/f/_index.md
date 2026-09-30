@@ -6,8 +6,11 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 11545
+wiki_total_pages: 11548
 wiki_pages:
+  - key: "FIFAWorldCup1930"
+    title: "1930 FIFA World Cup"
+    url: "/wiki/entities/fifaworldcup1930/"
   - key: "FIFAWorldCup1934"
     title: "1934 FIFA World Cup"
     url: "/wiki/entities/fifaworldcup1934/"
