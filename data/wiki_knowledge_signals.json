@@ -42529,9 +42529,9 @@
       "url": "/wiki/concepts/datacenterairpermitparticipation/"
     },
     "DataCenterBacklash": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 5,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up [42513830].md",
@@ -42616,15 +42616,22 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Meta's Dina Powell McCormick: The Case for Data Centers, Backlash, AI Job Boom & Meta's Future",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-metas-dina-powell-mccormick-the-case-for-data-centers-backlash-ai-job-boom-metas-future-42943275/"
+        },
+        {
+          "episode_file": "tech_20260930_MP_TECH_pod_128 [tech_20260930_MP_TECH_pod_128].md",
+          "key": "tech-20260930-mp-tech-pod-128-tech-20260930-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Can data centers ever be good neighbors?",
+          "url": "/wiki/sources/tech-20260930-mp-tech-pod-128-tech-20260930-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-09-30",
       "url": "/wiki/concepts/datacenterbacklash/"
     },
     "DataCenterCommunityConsent": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 3,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "146.美国经济这么差，美股还能继续涨吗 ｜ 串台《美轮美换》 [lrShkXgoFPrEl_E-7lKIqU_eN8GU].md",
@@ -42660,15 +42667,115 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Meta's Dina Powell McCormick: The Case for Data Centers, Backlash, AI Job Boom & Meta's Future",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-metas-dina-powell-mccormick-the-case-for-data-centers-backlash-ai-job-boom-metas-future-42943275/"
+        },
+        {
+          "episode_file": "tech_20260930_MP_TECH_pod_128 [tech_20260930_MP_TECH_pod_128].md",
+          "key": "tech-20260930-mp-tech-pod-128-tech-20260930-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Can data centers ever be good neighbors?",
+          "url": "/wiki/sources/tech-20260930-mp-tech-pod-128-tech-20260930-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-09-30",
       "url": "/wiki/concepts/datacentercommunityconsent/"
     },
+    "DataCenterCostShifting": {
+      "episode_count": 12,
+      "show_count": 5,
+      "source_note_count": 12,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Inside America’s AI Strategy： Infrastructure, Regulation, and Global Competition [39846955].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Inside America's AI Strategy: Infrastructure, Regulation, and Global Competition",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955/"
+        },
+        {
+          "episode_file": "星巴克回应「蜜雪冰城代工」等传闻，李宁否认与姆巴佩签约 [1006054195].md",
+          "key": "xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195",
+          "show": "声动早咖啡",
+          "title": "星巴克回应「蜜雪冰城代工」等传闻，李宁否认与姆巴佩签约",
+          "url": "/wiki/sources/xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195/"
+        },
+        {
+          "episode_file": "152.关于2026年的四个猜想 [nhx-c5XJwaOVpaqjpuA24dIOhsAz].md",
+          "key": "152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz",
+          "show": "起朱楼宴宾客",
+          "title": "152.关于2026年的四个猜想",
+          "url": "/wiki/sources/152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz/"
+        },
+        {
+          "episode_file": "tech_20260423_MP_TECH_pod_128 [tech_20260423_MP_TECH_pod_128].md",
+          "key": "tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Anti-AI data center sentiment is becoming a political issue",
+          "url": "/wiki/sources/tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260410_0410_MP_TECH_pod_128 [tech_20260410_0410_MP_TECH_pod_128].md",
+          "key": "tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Anthropic's new AI model, a referendum on data centers, and NASA livestreams journey to space",
+          "url": "/wiki/sources/tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_f17904cb588113b2be001b690b20690e_20012475 [default.mp3_ywr3ahjkcgo_f17904cb588113b2be001b690b20690e_20012475].md",
+          "key": "indicators-of-2025-and-what-to-watch-in-2026",
+          "show": "Planet Money",
+          "title": "Indicators of 2025 and What to Watch in 2026",
+          "url": "/wiki/sources/indicators-of-2025-and-what-to-watch-in-2026/"
+        },
+        {
+          "episode_file": "tech_20251219_1219_MP_TECH_pod_128 [tech_20251219_1219_MP_TECH_pod_128].md",
+          "key": "tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Micron''s big earnings, Oracle''s data center woes and \"slop\" is Merriam-Webster''s word of the year",
+          "url": "/wiki/sources/tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20251216_1216_MP_TECH_pod_128 [tech_20251216_1216_MP_TECH_pod_128].md",
+          "key": "tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "How states are competing in the data center gold rush",
+          "url": "/wiki/sources/tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20251211_1211_MP_TECH_pod_128 [tech_20251211_1211_MP_TECH_pod_128].md",
+          "key": "the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers",
+          "show": "Marketplace Tech",
+          "title": "The little-known regulatory bodies that can make or break AI data centers",
+          "url": "/wiki/sources/the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers/"
+        },
+        {
+          "episode_file": "tech_20260717_0717_MP_TECH_pod_128 [tech_20260717_0717_MP_TECH_pod_128].md",
+          "key": "tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "The Apple vs. OpenAI legal showdown",
+          "url": "/wiki/sources/tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260116_0116_MP_TECH_pod_128 [tech_20260116_0116_MP_TECH_pod_128].md",
+          "key": "tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - New chip exports for China, Microsoft to pay electricity for AI data centers, and Gemini will power Apple's AI",
+          "url": "/wiki/sources/tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260930_MP_TECH_pod_128 [tech_20260930_MP_TECH_pod_128].md",
+          "key": "tech-20260930-mp-tech-pod-128-tech-20260930-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Can data centers ever be good neighbors?",
+          "url": "/wiki/sources/tech-20260930-mp-tech-pod-128-tech-20260930-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/datacentercostshifting/"
+    },
     "DataCenterOnsitePower": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 3,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Future of Everything： What CEOs of Circle, CrowdStrike & More See Coming in 2026 [39870920].md",
@@ -42711,9 +42818,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Can the AI Industry Regulate Itself? Stripe Wants PayPal, China Catches Up, NY Bans Datacenters",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-can-the-ai-industry-regulate-itself-stripe-wants-paypal-china-catches-up-ny-bans-datacenters-42134305/"
+        },
+        {
+          "episode_file": "tech_20260930_MP_TECH_pod_128 [tech_20260930_MP_TECH_pod_128].md",
+          "key": "tech-20260930-mp-tech-pod-128-tech-20260930-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Can data centers ever be good neighbors?",
+          "url": "/wiki/sources/tech-20260930-mp-tech-pod-128-tech-20260930-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-09-30",
       "url": "/wiki/concepts/datacenteronsitepower/"
     },
     "DataCenterPowerBottleneck": {
@@ -56302,6 +56416,29 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/concepts/energybalanceaccounting/"
+    },
+    "EnforceableCommunityBenefits": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "tech_20260123_0123_MP_TECH_pod_128 [tech_20260123_0123_MP_TECH_pod_128].md",
+          "key": "tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - SpaceX eyes an IPO, community members want legal commitments from Micron, and YouTube to ditch AI slop",
+          "url": "/wiki/sources/tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260930_MP_TECH_pod_128 [tech_20260930_MP_TECH_pod_128].md",
+          "key": "tech-20260930-mp-tech-pod-128-tech-20260930-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Can data centers ever be good neighbors?",
+          "url": "/wiki/sources/tech-20260930-mp-tech-pod-128-tech-20260930-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/enforceablecommunitybenefits/"
     },
     "EnforcementAgencyDataSharing": {
       "episode_count": 2,
@@ -157550,6 +157687,29 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/scottbessent/"
+    },
+    "ScottBrennan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "tech_20251211_1211_MP_TECH_pod_128 [tech_20251211_1211_MP_TECH_pod_128].md",
+          "key": "the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers",
+          "show": "Marketplace Tech",
+          "title": "The little-known regulatory bodies that can make or break AI data centers",
+          "url": "/wiki/sources/the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers/"
+        },
+        {
+          "episode_file": "tech_20260930_MP_TECH_pod_128 [tech_20260930_MP_TECH_pod_128].md",
+          "key": "tech-20260930-mp-tech-pod-128-tech-20260930-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Can data centers ever be good neighbors?",
+          "url": "/wiki/sources/tech-20260930-mp-tech-pod-128-tech-20260930-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/scottbrennan/"
     },
     "ScottGalloway": {
       "episode_count": 1,

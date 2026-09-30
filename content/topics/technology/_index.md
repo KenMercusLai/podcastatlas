@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3244
+topic_total_pages: 3245
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -8649,6 +8649,9 @@ topic_sources:
   - key: "can-computer-hackers-get-inside-your-mind"
     title: "Can computer hackers get inside your mind?"
     url: "/wiki/sources/can-computer-hackers-get-inside-your-mind/"
+  - key: "tech-20260930-mp-tech-pod-128-tech-20260930-mp-tech-pod-128"
+    title: "Can data centers ever be good neighbors?"
+    url: "/wiki/sources/tech-20260930-mp-tech-pod-128-tech-20260930-mp-tech-pod-128/"
   - key: "tech-20260826-0826-mp-tech-pod-128-tech-20260826-0826-mp-tech-pod-128"
     title: "Can Meta Finally Make Smart Glasses Cool?"
     url: "/wiki/sources/tech-20260826-0826-mp-tech-pod-128-tech-20260826-0826-mp-tech-pod-128/"

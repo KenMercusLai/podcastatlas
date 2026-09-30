@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Can data centers ever be good neighbors?](sources/tech-20260930-mp-tech-pod-128-tech-20260930-mp-tech-pod-128.md) — Marketplace Tech interview with Scott Brennan on concentrated local data-center costs, community benefit agreements, onsite-power tradeoffs, and why weak delivery histories turn incentives into a trust problem.
 - [241. Young Churchill: Prisoner and Fugitive (Part 3)](sources/241-young-churchill-prisoner-and-fugitive-part-3-glt9087091726.md) — The Rest Is History episode on the Boer War, Churchill's armored-train capture and Pretoria escape, imperial mineral politics, military adaptation, and adventure-driven public celebrity.
 - [Psychedelics & Neurostimulation for Brain Rewiring | Dr. Nolan Williams](sources/psychedelics-neurostimulation-for-brain-rewiring-dr-nolan-williams-scim3664218578.md) — Full Huberman Lab interview on depression circuits, TMS/SNT, psychedelics, ketamine, supervised chronotherapy, cannabis risk, and clinical evidence boundaries.
 - [242. French History on Film](sources/242-french-history-on-film-glt2672520929.md) — The Rest Is History episode on historical worldview, French cinema, national memory, Occupation allegory, May 1968, and the cultural significance of omission and changing reception.
@@ -13317,7 +13318,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Paramount](entities/Paramount.md) — David Ellison-led bidder in the Warner Bros. Discovery streaming-consolidation segment.
 - [McDonald's](entities/McDonalds.md) — Fast-food company used by episode 155 to explain Coca-Cola refill economics, marginal consumption, and targeted restaurant marketing.
 - [McDonald's Netherlands](entities/McDonaldsNetherlands.md) — Brand unit that pulled an AI-generated Christmas ad after backlash, grounding the episode's AI advertising discussion.
-- [Scott Brennan](entities/ScottBrennan.md) — NYU Center on Technology Policy researcher explaining why Public Utility Commissions matter to AI data-center growth and ratepayer protection.
+- [Scott Brennan](entities/ScottBrennan.md) — NYU technology-policy researcher connecting utility regulation, tangible community benefits, and developer credibility to AI data-center acceptance.
 - [NYU Center on Technology Policy](entities/NYUCenterOnTechnologyPolicy.md) — Institutional source for the Marketplace Tech discussion of public utility commissions as AI infrastructure gatekeepers.
 - [Nicholas Miller](entities/NicholasMiller.md) — National Conference of State Legislatures expert explaining how states use data-center tax incentives, job requirements, capital thresholds, and energy-policy conditions.
 - [National Conference of State Legislatures](entities/NationalConferenceOfStateLegislatures.md) — State-legislative policy organization supplying data on data-center incentive programs in the Marketplace Tech episode.

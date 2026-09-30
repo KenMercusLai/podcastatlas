@@ -10,7 +10,8 @@ sources:
   - tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio
   - tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128
   - all-in-with-chamath-jason-sacks-friedberg-can-the-ai-industry-regulate-itself-stripe-wants-paypal-china-catches-up-ny-bans-datacenters-42134305
-last_updated: 2026-08-28
+  - tech-20260930-mp-tech-pod-128-tech-20260930-mp-tech-pod-128
+last_updated: 2026-09-30
 ---
 
 # Data Center Onsite Power
@@ -21,7 +22,7 @@ Data center onsite power is the pattern where a data-center developer generates,
 ## Current Synthesis
 The page now synthesizes onsite power as a deployment workaround, a competitiveness policy, and an industrial constraint shift. Earlier sources show concrete forms: Crusoe's Abilene mix of substation access, onsite gas, and batteries; Caterpillar generators used as primary power; Redwood second-life batteries for off-grid supply; and Helion's speculative fusion-at-customer-site route. The latest All-In source adds the macro pressure: if U.S. electricity capacity is tight and PJM auctions signal scarcity, behind-the-meter power becomes a way for AI data centers to add net supply rather than only compete with households.
 
-The current judgment is that onsite power compresses grid-delay risk but does not eliminate energy politics. It moves the bottleneck from utility interconnection to turbines, batteries, fuel, emissions, maintenance, siting, and public legitimacy. Its strongest strategic role appears when projects add genuinely incremental power and avoid cost shifting.
+The current judgment is that onsite power compresses grid-delay risk but does not eliminate energy politics. It moves the bottleneck from utility interconnection to turbines, batteries, fuel, emissions, noise, maintenance, siting, and public legitimacy. Its strongest strategic role appears when projects add genuinely incremental power, avoid cost shifting, and do not treat grid robustness as proof that nearby quality-of-life costs have disappeared.
 
 ## Key Claims
 - Onsite power can shorten deployment timelines when interconnection queues are too slow for AI compute demand.
@@ -39,16 +40,16 @@ The current judgment is that onsite power compresses grid-delay risk but does no
 - Generator route: [[tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128]] shows Caterpillar natural-gas generators moving from backup equipment into primary power for some AI data centers.
 - Speculative clean route: [[tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio]] presents Helion's plan for generators placed directly at data centers, factories, and manufacturing sites.
 - Scarcity and siting claim: [[all-in-with-chamath-jason-sacks-friedberg-can-the-ai-industry-regulate-itself-stripe-wants-paypal-china-catches-up-ny-bans-datacenters-42134305]] links behind-the-meter power to PJM supply stress, possible long-run U.S. power shortages, and premium pricing for energizable data-center sites.
+- Community tradeoff: [[tech-20260930-mp-tech-pod-128-tech-20260930-mp-tech-pod-128]] says onsite generation may make the grid more robust while natural-gas turbines still produce pollution and substantial noise.
 
 ## Counterevidence & Qualifications
-Onsite power can make local electricity constraints less visible without making them disappear. Gas plants still need fuel and emissions approval; batteries need charging and lifecycle management; fusion and small modular reactors remain source-described future routes rather than routine data-center options.
+Onsite power can make local electricity constraints less visible without making them disappear. Gas plants still need fuel and emissions approval and can create serious noise; batteries need charging and lifecycle management; fusion and small modular reactors remain source-described future routes rather than routine data-center options. Grid stability and neighborhood acceptability are separate tests.
 
 The All-In macro power-shortage and PJM claims are source-scoped. They are useful for mapping the argument but should not be treated as a settled grid forecast without primary utility and market data.
 
 ## What Changed
-- Added the July 18 All-In source's link between behind-the-meter power, PJM scarcity, and global data-center siting.
-- Updated the synthesis from a workaround catalogue to a constraint-shift model covering equipment, fuel, emissions, reliability, and politics.
-- Clarified that onsite power is most defensible when it creates incremental capacity rather than shifting public-grid costs.
+- Added the distinction between grid robustness and neighborhood pollution or noise.
+- Clarified that natural-gas speed can solve an interconnection problem while worsening the community-consent problem.
 
 ## Related Concepts
 - [[AIEnergyBottleneck]] - macro constraint onsite power attempts to compress.

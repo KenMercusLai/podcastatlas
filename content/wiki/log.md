@@ -25591,6 +25591,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-30] ingest | Can data centers ever be good neighbors?
+
+Added source `tech-20260930-mp-tech-pod-128-tech-20260930-mp-tech-pod-128`; migrated `ScottBrennan`, `EnforceableCommunityBenefits`, and `DataCenterCostShifting` to `synthesis-v1`; and resynthesized `DataCenterBacklash`, `DataCenterCommunityConsent`, and `DataCenterOnsitePower` from their complete preserved evidence inventories. Core synthesis: data centers can offer taxes, cleaner power, mitigation, workforce funds, and negotiated agreements, but benefits must be measurable and trusted because weak job delivery and limited agreement evaluation can make larger offers look like purchased consent. No settled contradiction was adopted. Survey results, local fiscal outcomes, the Indiana grant amount, job-delivery history, and agreement effectiveness remain source-attributed; onsite power can improve grid robustness while worsening local noise or pollution. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,262-source coverage; no topic claim set was dirty and global compaction was not due.
+
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -26075,6 +26079,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-30] ingest | Psychedelics & Neurostimulation for Brain Rewiring | Dr. Nolan Williams
 
 Added source `psychedelics-neurostimulation-for-brain-rewiring-dr-nolan-williams-scim3664218578`; created `DepressionChronotherapy`; and resynthesized `NolanWilliams`, `TranscranialMagneticStimulationForDepression`, `StanfordNeuromodulationTherapy`, and `CircuitBasedPsychiatry` from their complete preserved evidence inventories. Core synthesis: depression interventions are better distinguished by circuit, timing, individualized target, dose, patient state, and clinical supervision than by a simple chemical-imbalance story; the full interview also separates supervised sleep-light chronotherapy from unsafe self-directed sleep deprivation. No settled contradiction was adopted. SNT remission and durability, psychedelic response rates, ketamine-opioid interpretation, ibogaine and ayahuasca results, MDMA safety, and cannabinoid claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,260-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-30] lint | Wiki health check
 
