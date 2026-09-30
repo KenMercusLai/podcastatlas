@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 11475
+wiki_total_pages: 11479
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -770,6 +770,9 @@ wiki_pages:
   - key: "HouseOfMedici"
     title: "House of Medici / 美第奇家族"
     url: "/wiki/entities/houseofmedici/"
+  - key: "HouseOfSlavesGoree"
+    title: "House of Slaves (Goree)"
+    url: "/wiki/entities/houseofslavesgoree/"
   - key: "HouseOfTheDragon"
     title: "House of the Dragon"
     url: "/wiki/entities/houseofthedragon/"

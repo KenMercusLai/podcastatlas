@@ -21017,6 +21017,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/botulinumtoxininjectionsafety/"
     },
+    "BoubacarJosephNdiaye": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8611353465 [GLT8611353465].md",
+          "key": "272-senegal-the-door-of-no-return-glt8611353465",
+          "show": "The Rest Is History",
+          "title": "272: Senegal: The Door of No Return",
+          "url": "/wiki/sources/272-senegal-the-door-of-no-return-glt8611353465/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/boubacarjosephndiaye/"
+    },
     "Boudicca": {
       "episode_count": 1,
       "show_count": 1,
@@ -37005,6 +37021,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/contestedamericanfoundingmyth/"
+    },
+    "ContestedHeritagePilgrimage": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8611353465 [GLT8611353465].md",
+          "key": "272-senegal-the-door-of-no-return-glt8611353465",
+          "show": "The Rest Is History",
+          "title": "272: Senegal: The Door of No Return",
+          "url": "/wiki/sources/272-senegal-the-door-of-no-return-glt8611353465/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/contestedheritagepilgrimage/"
     },
     "ContestedMonumentReattribution": {
       "episode_count": 1,
@@ -72563,6 +72595,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/entities/gooseagenttool/"
     },
+    "Goree": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8611353465 [GLT8611353465].md",
+          "key": "272-senegal-the-door-of-no-return-glt8611353465",
+          "show": "The Rest Is History",
+          "title": "272: Senegal: The Door of No Return",
+          "url": "/wiki/sources/272-senegal-the-door-of-no-return-glt8611353465/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/goree/"
+    },
     "GottmanInstitute": {
       "episode_count": 1,
       "show_count": 1,
@@ -82530,6 +82578,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/houyinwesternhan/"
+    },
+    "HouseOfSlavesGoree": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8611353465 [GLT8611353465].md",
+          "key": "272-senegal-the-door-of-no-return-glt8611353465",
+          "show": "The Rest Is History",
+          "title": "272: Senegal: The Door of No Return",
+          "url": "/wiki/sources/272-senegal-the-door-of-no-return-glt8611353465/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/houseofslavesgoree/"
     },
     "HouseOfTheDragon": {
       "episode_count": 1,
@@ -117341,6 +117405,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/memex/"
     },
+    "MemorialAudienceFraming": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8611353465 [GLT8611353465].md",
+          "key": "272-senegal-the-door-of-no-return-glt8611353465",
+          "show": "The Rest Is History",
+          "title": "272: Senegal: The Door of No Return",
+          "url": "/wiki/sources/272-senegal-the-door-of-no-return-glt8611353465/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/memorialaudienceframing/"
+    },
     "MemoryBox": {
       "episode_count": 1,
       "show_count": 1,
@@ -135175,6 +135255,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/pheidippides/"
+    },
+    "PhilipDCurtin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8611353465 [GLT8611353465].md",
+          "key": "272-senegal-the-door-of-no-return-glt8611353465",
+          "show": "The Rest Is History",
+          "title": "272: Senegal: The Door of No Return",
+          "url": "/wiki/sources/272-senegal-the-door-of-no-return-glt8611353465/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/philipdcurtin/"
     },
     "PhilipHamilton": {
       "episode_count": 1,
@@ -154950,6 +155046,29 @@
       ],
       "updated": "2026-09-17",
       "url": "/wiki/concepts/semiconductorindexconcentration/"
+    },
+    "Senegal": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "In arms’ way： Gaza-deal sticking points [6a71b49647235c354d3c9b74].md",
+          "key": "in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74",
+          "show": "Economist Podcasts",
+          "title": "In arms’ way: Gaza-deal sticking points",
+          "url": "/wiki/sources/in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74/"
+        },
+        {
+          "episode_file": "GLT8611353465 [GLT8611353465].md",
+          "key": "272-senegal-the-door-of-no-return-glt8611353465",
+          "show": "The Rest Is History",
+          "title": "272: Senegal: The Door of No Return",
+          "url": "/wiki/sources/272-senegal-the-door-of-no-return-glt8611353465/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/senegal/"
     },
     "Senenmut": {
       "episode_count": 1,

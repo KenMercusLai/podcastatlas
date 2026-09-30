@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [272: Senegal: The Door of No Return](sources/272-senegal-the-door-of-no-return-glt8611353465.md) — The Rest Is History episode on Gorée, the disputed House of Slaves embarkation narrative, African American pilgrimage, and the boundary between historical evidence and symbolic memory.
 - [273: Portugal: The Carnation Revolution](sources/273-portugal-the-carnation-revolution-glt3297148398.md) — The Rest Is History episode on Estado Novo collapse, colonial-war and officer pressures, the April 1974 coup, revolutionary instability, and democratic consolidation.
 - [274: Switzerland: Calvin's Cancel Culture](sources/274-switzerland-calvins-cancel-culture-glt2874543265.md) — The Rest Is History episode on Calvin's Geneva, Michael Servetus's execution, confessional discipline, and the Reformation boundary between refuge and liberty of conscience.
 - [275: Argentina: The Welsh Colony](sources/275-argentina-the-welsh-colony-glt3290664499.md) — The Rest Is History episode on Y Wladfa, Welsh cultural preservation, Patagonian settlement, Argentine territorial consolidation, assimilation, revival, and settler-colonial reassessment.
@@ -3259,6 +3260,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Using Caffeine to Optimize Mental & Physical Performance](sources/using-caffeine-to-optimize-mental-physical-performance-scim1210768101.md) — Huberman Lab solo episode on adenosine blockade, caffeine timing and dose, performance, memory, learned reinforcement, tolerance, sleep, and stacking risks.
 
 ## Entities
+- [Goree Island](entities/Goree.md) — Senegalese colonial trading island and global slavery-memory site whose statistical role and symbolic afterlife must be distinguished.
+- [House of Slaves (Goree)](entities/HouseOfSlavesGoree.md) — Gorée museum whose “Door of No Return” is a powerful pilgrimage symbol despite disputed mass-embarkation claims.
+- [Boubacar Joseph Ndiaye](entities/BoubacarJosephNdiaye.md) — Curator whose storytelling helped turn the House of Slaves into an international memory site.
+- [Philip D. Curtin](entities/PhilipDCurtin.md) — Atlantic slave-trade historian associated with the documentary challenge to Gorée's museum narrative.
 - [Antonio de Oliveira Salazar](entities/AntonioDeOliveiraSalazar.md) — Estado Novo ruler whose authoritarian and imperial system outlasted his incapacitation but constrained his successor.
 - [Marcelo Caetano](entities/MarceloCaetano.md) — Salazar's successor, whose bounded reforms and officer-promotion mistake preceded the 1974 coup.
 - [Armed Forces Movement (Portugal)](entities/ArmedForcesMovementPortugal.md) — Junior-officer organization that converted colonial-war and career grievances into the Carnation Revolution.
@@ -14763,6 +14768,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Geneva](entities/Geneva.md) — Protestant refuge and city-state whose consistory discipline and Servetus trial joined sanctuary to coercive confessional rule.
 
 ## Concepts
+- [Contested Heritage Pilgrimage](concepts/ContestedHeritagePilgrimage.md) — Framework separating a disputed site's material history from its real commemorative, ancestral, and ritual power.
+- [Memorial Audience Framing](concepts/MemorialAudienceFraming.md) — Process by which visitor identity, access, and tourism shape which parts of a transnational history a memorial foregrounds.
 - [Estado Novo (Portugal)](concepts/EstadoNovoPortugal.md) — Portuguese authoritarian order whose colonial, fiscal, reform, and military pressures converged in its 1974 collapse.
 - [Portuguese Colonial Wars](concepts/PortugueseColonialWars.md) — African imperial conflicts that strained the dictatorship and politicized the officers who overthrew it.
 - [Carnation Revolution](concepts/CarnationRevolution.md) — Comparatively bloodless April 1974 coup whose peaceful symbolism must be distinguished from its contested aftermath.

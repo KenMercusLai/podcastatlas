@@ -25713,3 +25713,11 @@ Added source `273-portugal-the-carnation-revolution-glt3297148398`; created `Ant
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-30] ingest | 272: Senegal: The Door of No Return
+
+Added source `272-senegal-the-door-of-no-return-glt8611353465`; created `Goree`, `HouseOfSlavesGoree`, `BoubacarJosephNdiaye`, `PhilipDCurtin`, `ContestedHeritagePilgrimage`, and `MemorialAudienceFraming`; and resynthesized `Senegal` from its complete bounded source set. Core synthesis: Gorée's real colonial and slave-trade history must be separated from unsupported claims that the House of Slaves was a mass embarkation depot, while the site's visual, ritual, and diasporic power remains historically significant as public memory. No settled contradiction was adopted. Export totals, building use, chronology, mortality figures, visitor demographics, scholarly consensus, and the relative geographic framing of the Atlantic trade remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten because the episode opens a bounded Gorée branch without changing the wiki-wide synthesis.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

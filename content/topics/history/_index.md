@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2212
+topic_total_pages: 2214
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2102,6 +2102,9 @@ topic_entities:
   - key: "OttomanEmpire"
     title: "Ottoman Empire / 奥斯曼帝国"
     url: "/wiki/entities/ottomanempire/"
+  - key: "PhilipDCurtin"
+    title: "Philip D. Curtin"
+    url: "/wiki/entities/philipdcurtin/"
   - key: "Pompeii"
     title: "Pompeii"
     url: "/wiki/entities/pompeii/"
@@ -4749,6 +4752,9 @@ topic_sources:
   - key: "271-tangchao-douyao-bucunzai-le-weishenme-weishilun-hui-zai-jinnian-da-baofa-lg7-wdrdw1b9h7lwa4vwkvmyb4un"
     title: "271.唐朝都要不存在了？为什么伪史论会在今年大爆发？"
     url: "/wiki/sources/271-tangchao-douyao-bucunzai-le-weishenme-weishilun-hui-zai-jinnian-da-baofa-lg7-wdrdw1b9h7lwa4vwkvmyb4un/"
+  - key: "272-senegal-the-door-of-no-return-glt8611353465"
+    title: "272: Senegal: The Door of No Return"
+    url: "/wiki/sources/272-senegal-the-door-of-no-return-glt8611353465/"
   - key: "273-portugal-the-carnation-revolution-glt3297148398"
     title: "273: Portugal: The Carnation Revolution"
     url: "/wiki/sources/273-portugal-the-carnation-revolution-glt3297148398/"

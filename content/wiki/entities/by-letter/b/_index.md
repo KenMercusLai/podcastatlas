@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 11475
+wiki_total_pages: 11479
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -848,6 +848,9 @@ wiki_pages:
   - key: "BostonUniversity"
     title: "Boston University"
     url: "/wiki/entities/bostonuniversity/"
+  - key: "BoubacarJosephNdiaye"
+    title: "Boubacar Joseph Ndiaye"
+    url: "/wiki/entities/boubacarjosephndiaye/"
   - key: "Boudicca"
     title: "Boudicca"
     url: "/wiki/entities/boudicca/"
