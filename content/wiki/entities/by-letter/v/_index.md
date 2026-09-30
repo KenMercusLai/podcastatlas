@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "v"
-wiki_total_pages: 11514
+wiki_total_pages: 11517
 wiki_pages:
   - key: "VacheronConstantin"
     title: "Vacheron Constantin"
@@ -194,6 +194,9 @@ wiki_pages:
   - key: "VincaCulture"
     title: "Vinča Culture"
     url: "/wiki/entities/vincaculture/"
+  - key: "Virgil"
+    title: "Virgil"
+    url: "/wiki/entities/virgil/"
   - key: "VirginGroup"
     title: "Virgin Group"
     url: "/wiki/entities/virgingroup/"

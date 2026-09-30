@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 8917
+wiki_total_pages: 8918
 wiki_pages:
   - key: "IBDPatientEducationAndPeerSupport"
     title: "IBD Patient Education and Peer Support / IBD患者教育与同伴支持"
@@ -146,6 +146,9 @@ wiki_pages:
   - key: "ImperialDepositionCoupRisk"
     title: "Imperial Deposition Coup Risk / 废立政变风险"
     url: "/wiki/concepts/imperialdepositioncouprisk/"
+  - key: "ImperialDestinyHumanCost"
+    title: "Imperial Destiny and Human Cost"
+    url: "/wiki/concepts/imperialdestinyhumancost/"
   - key: "ImperialExaminationAsOnlyExit"
     title: "Imperial Examination As Only Exit"
     url: "/wiki/concepts/imperialexaminationasonlyexit/"

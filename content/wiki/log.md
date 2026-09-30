@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-30] ingest | 262: Tunisia: Dido of Carthage
+
+Added source `262-tunisia-dido-of-carthage-glt5520362156`; created `Virgil`, `Aeneas`, `Aeneid`, and `ImperialDestinyHumanCost`; updated `Dido` from its complete bounded source set; and updated the canonical index. Core synthesis: older traditions make Dido a resourceful Tyrian founder and loyal widow, while Virgil transforms her into Aeneas's abandoned queen so that Rome's destined future remains politically authoritative but morally costly. A direct contradiction between the Iarbas and Aeneas death traditions is preserved as literary transformation rather than resolved biography. Chronology, foundation details, etymology, coin identification, ritual parallels, Virgilian intention, and the Cleopatra analogy remain legendary, contested, or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-30] ingest | 266: South Korea: The Riddle of Hwang Jini
 
 Added source `266-south-korea-the-riddle-of-hwang-jini-glt1910695360`; created `HwangJini`, `JoseonDynasty`, `Gisaeng`, and `SijoPoetry`; and resynthesized `MythicBiographySourceCaution` from its complete bounded source set. Core synthesis: gisaeng education, artistry, poetry, and social mobility existed inside hereditary stigma, sexual service, patronage, short careers, and constrained choices, while Hwang Jini's literary reputation is more secure than the legend-heavy events used to construct her image of wit and agency. No settled contradiction was adopted. Dates, career norms, institutional details, poems in translation, life anecdotes, adaptation counts, and North-South reception claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten because this episode opens a bounded Korean literary-history branch; downstream synthesis refresh only reads it.
@@ -25811,6 +25815,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-30] ingest | 263: USA vs England: The 200-Year Rivalry
 
 Added source `263-usa-vs-england-the-200-year-rivalry-glt7546211559`; created `CharlesDickens`, `AndrewCarnegie`, `AngloAmericanPowerReversal`, and `BlackAmericanGIsWartimeBritain`; and resynthesized `WarOf1812`, `TheBeatles`, and `AmericanCulturalExports` from their complete bounded source sets. Core synthesis: the Anglo-American relationship is a domain-specific power reversal rather than a simple succession, with military dependence, capital, cultural prestige, racial institutions, and media moving at different speeds; cultural influence remains recursive because American forms can be transformed abroad and returned through American markets. No settled contradiction was adopted. Troop and casualty figures, reported dialogue and signs, chart and audience statistics, promotional anecdotes, and broad national-character or Americanization claims remain source-scoped. The canonical `wiki/overview.md` input was updated during ingest; the downstream synthesis-refresh workflow read it without rewriting it.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-30] lint | Wiki health check
 

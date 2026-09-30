@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [262: Tunisia: Dido of Carthage](sources/262-tunisia-dido-of-carthage-glt5520362156.md) — The Rest Is History episode contrasting Dido's older Tyrian founder tradition with Virgil's tragic queen, Roman destiny, and the human cost of empire.
 - [263: USA vs England: The 200-Year Rivalry](sources/263-usa-vs-england-the-200-year-rivalry-glt7546211559.md) — The Rest Is History episode on Anglo-American power reversal through the War of 1812, Dickens, Carnegie, Black GIs, the Beatles, British decline, and modern Americanization.
 - [264: Mexico: Day of the Dead](sources/264-mexico-day-of-the-dead-glt9022174156.md) — The Rest Is History episode on Dia de Muertos's Catholic-Iberian genealogy, Indigenous and Mexican layering, post-revolutionary national recoding, political skeleton art, and a film-created parade becoming civic ritual.
 - [265: Saudi Arabia: The Mystery of the Kaaba](sources/265-saudi-arabia-the-mystery-of-the-kaaba-glt1528147434.md) — The Rest Is History episode on the Kaaba's Muslim sacred history, sparse early external evidence, late-seventh-century reconstruction, and the limits of secular historical interpretation.
@@ -4233,7 +4234,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Bad Thoughts](entities/BadThoughts.md) — Segura's short-form screen-comedy project and extension of his acting and writing ambitions.
 - [Tsarevich Alexei / 阿列克谢皇太子](entities/TsarevichAlexei.md) — Peter the Great's frightened and politically dangerous heir whose attempted withdrawal ends in forced return, torture, and death.
 - [Tyre / 推罗](entities/Tyre.md) — Levantine maritime city and remembered parent of Carthage, central to Phoenician trade, production, myth, and writing.
-- [Dido / Elissa](entities/Dido.md) — Legendary Tyrian exile and founder who personifies Carthage's eastern origin.
+- [Dido / Elissa](entities/Dido.md) — Legendary Tyrian founder transformed by Virgil from loyal widow into tragic witness to Roman destiny and imperial cost.
+- [Virgil](entities/Virgil.md) — Roman poet who reshapes Dido's foundation tradition inside an Augustan epic that both dignifies and complicates empire.
+- [Aeneas](entities/Aeneas.md) — Trojan epic hero whose duty to Rome's future requires him to leave Dido and makes obedience morally costly.
+- [Aeneid](entities/Aeneid.md) — Virgil's Roman foundation epic, read through Dido's transformation and the tension between destiny and sacrifice.
 - [Carthage / 迦太基](entities/Carthage.md) — Phoenician-founded North African power whose commerce, agriculture, mixed institutions, and territorial expansion precede Punic war and Iberian recovery.
 - [Pyrrhus of Epirus / 伊庇鲁斯的皮洛士](entities/Pyrrhus.md) — Hellenistic king whose costly victories fail to break Rome's Italian coalition before his withdrawal shifts attention toward Sicily.
 - [Hamilcar Barca / 哈米尔卡·巴卡](entities/HamilcarBarca.md) — Carthaginian commander linking the Sicilian holding war, Mercenary War, and Spanish power base inherited by Hannibal.
@@ -15337,6 +15341,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Phoenician Mediterranean Networks / 腓尼基地中海网络](concepts/PhoenicianMediterraneanNetworks.md) — Maritime routes, skills, settlements, goods, and relationships connecting the Levant to the western Mediterranean.
 - [Phoenician Alphabet Transmission / 腓尼基字母传播](concepts/PhoenicianAlphabetTransmission.md) — Adaptation path from Phoenician consonantal writing into Greek and later alphabetic traditions.
 - [Carthaginian Child-Sacrifice Evidence / 迦太基儿童献祭证据](concepts/CarthaginianChildSacrificeEvidence.md) — Qualified archaeological and textual case for sacrifice without assuming every hostile claim or a settled scale.
+- [Imperial Destiny and Human Cost](concepts/ImperialDestinyHumanCost.md) — Literary pattern that preserves the victims of a necessary or divinely authorized collective future inside the story that affirms it.
 - [Parenting Sturdiness](concepts/ParentingSturdiness.md) — Adult capacity to retain values, responsibility, warmth, and connection during a child's distress or opposition.
 - [Boundary–Empathy Parenting](concepts/BoundaryEmpathyParenting.md) — Parenting model pairing adult-enforced limits with validation that does not transfer decision authority to emotion.
 - [Frustration-Tolerance Learning Space](concepts/FrustrationToleranceLearningSpace.md) — Manageable interval between inability or disappointment and adaptation where learning and resilience develop.

@@ -6540,6 +6540,38 @@
       "updated": "2026-09-20",
       "url": "/wiki/concepts/adviserstatearchitecture/"
     },
+    "Aeneas": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5520362156 [GLT5520362156].md",
+          "key": "262-tunisia-dido-of-carthage-glt5520362156",
+          "show": "The Rest Is History",
+          "title": "262: Tunisia: Dido of Carthage",
+          "url": "/wiki/sources/262-tunisia-dido-of-carthage-glt5520362156/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/aeneas/"
+    },
+    "Aeneid": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5520362156 [GLT5520362156].md",
+          "key": "262-tunisia-dido-of-carthage-glt5520362156",
+          "show": "The Rest Is History",
+          "title": "262: Tunisia: Dido of Carthage",
+          "url": "/wiki/sources/262-tunisia-dido-of-carthage-glt5520362156/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/aeneid/"
+    },
     "Aeolus": {
       "episode_count": 1,
       "show_count": 1,
@@ -45449,9 +45481,9 @@
       "url": "/wiki/entities/didi/"
     },
     "Dido": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1311066631 [GLT1311066631].md",
@@ -45459,9 +45491,16 @@
           "show": "The Rest Is History",
           "title": "421. Ancient Carthage: Lords of the Sea (Part 1)",
           "url": "/wiki/sources/421-ancient-carthage-lords-of-the-sea-part-1-glt1311066631/"
+        },
+        {
+          "episode_file": "GLT5520362156 [GLT5520362156].md",
+          "key": "262-tunisia-dido-of-carthage-glt5520362156",
+          "show": "The Rest Is History",
+          "title": "262: Tunisia: Dido of Carthage",
+          "url": "/wiki/sources/262-tunisia-dido-of-carthage-glt5520362156/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-30",
       "url": "/wiki/entities/dido/"
     },
     "DieStemVanSuidAfrika": {
@@ -87886,6 +87925,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/imperialdeathconcealment/"
+    },
+    "ImperialDestinyHumanCost": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5520362156 [GLT5520362156].md",
+          "key": "262-tunisia-dido-of-carthage-glt5520362156",
+          "show": "The Rest Is History",
+          "title": "262: Tunisia: Dido of Carthage",
+          "url": "/wiki/sources/262-tunisia-dido-of-carthage-glt5520362156/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/imperialdestinyhumancost/"
     },
     "ImperialEdictImplementationResistance": {
       "episode_count": 1,
@@ -180384,6 +180439,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/concepts/viralproducttobrandtransition/"
+    },
+    "Virgil": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5520362156 [GLT5520362156].md",
+          "key": "262-tunisia-dido-of-carthage-glt5520362156",
+          "show": "The Rest Is History",
+          "title": "262: Tunisia: Dido of Carthage",
+          "url": "/wiki/sources/262-tunisia-dido-of-carthage-glt5520362156/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/virgil/"
     },
     "VirtualCellWorldModel": {
       "episode_count": 2,
