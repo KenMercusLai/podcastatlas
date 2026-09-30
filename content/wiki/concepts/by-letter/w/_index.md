@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 8939
+wiki_total_pages: 8940
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -473,6 +473,9 @@ wiki_pages:
   - key: "WorldCupHydrationPauseAdInventory"
     title: "World Cup Hydration Pause Ad Inventory"
     url: "/wiki/concepts/worldcuphydrationpauseadinventory/"
+  - key: "WorldCupNationalMemory"
+    title: "World Cup National Memory"
+    url: "/wiki/concepts/worldcupnationalmemory/"
   - key: "WorldFoundationModels"
     title: "World Foundation Models"
     url: "/wiki/concepts/worldfoundationmodels/"

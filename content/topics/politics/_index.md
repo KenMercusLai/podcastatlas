@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2859
+topic_total_pages: 2860
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4072,6 +4072,9 @@ topic_concepts:
   - key: "WorldCupExpansion"
     title: "World Cup Expansion"
     url: "/wiki/concepts/worldcupexpansion/"
+  - key: "WorldCupNationalMemory"
+    title: "World Cup National Memory"
+    url: "/wiki/concepts/worldcupnationalmemory/"
   - key: "WorldlyPoliticalCultivation"
     title: "Worldly Political Cultivation / 入世政治修行"
     url: "/wiki/concepts/worldlypoliticalcultivation/"

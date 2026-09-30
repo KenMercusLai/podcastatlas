@@ -875,6 +875,10 @@
     "title": "246. 杭州博物馆「一苇杭之」，好久没看过这么推荐的展览了",
     "url": "/wiki/sources/246-hangzhou-bowuguan-yiwei-hangzhi-haojiu-mei-kan-guo-zheme-tuijian-de-zhanlan-le-8217911423-973793/"
   },
+  "253-the-world-cup-post-war-reconciliation-brazilian-dictatorship-and-north-koreans-in-middlesbrough-part-2-glt3874165711": {
+    "title": "253. The World Cup: Post-war reconciliation, Brazilian dictatorship, and North Koreans in Middlesbrough (Part 2)",
+    "url": "/wiki/sources/253-the-world-cup-post-war-reconciliation-brazilian-dictatorship-and-north-koreans-in-middlesbrough-part-2-glt3874165711/"
+  },
   "254-the-world-cup-the-falklands-despots-and-corruption-part-3-glt5891154284": {
     "title": "254. The World Cup: The Falklands, despots, and corruption (Part 3)",
     "url": "/wiki/sources/254-the-world-cup-the-falklands-despots-and-corruption-part-3-glt5891154284/"
@@ -25914,6 +25918,10 @@
   "FIFAWorldCup1938": {
     "title": "1938 FIFA World Cup",
     "url": "/wiki/entities/fifaworldcup1938/"
+  },
+  "FIFAWorldCup1978": {
+    "title": "1978 FIFA World Cup",
+    "url": "/wiki/entities/fifaworldcup1978/"
   },
   "FIMARepoBackstop": {
     "title": "FIMA Repo Backstop",
@@ -55891,6 +55899,10 @@
     "title": "Peking University Third Hospital / 北医三院",
     "url": "/wiki/entities/pekinguniversitythirdhospital/"
   },
+  "Pele": {
+    "title": "Pelé",
+    "url": "/wiki/entities/pele/"
+  },
   "Peloton": {
     "title": "Peloton",
     "url": "/wiki/entities/peloton/"
@@ -78802,6 +78814,10 @@
   "WorldCupHydrationPauseAdInventory": {
     "title": "World Cup Hydration Pause Ad Inventory",
     "url": "/wiki/concepts/worldcuphydrationpauseadinventory/"
+  },
+  "WorldCupNationalMemory": {
+    "title": "World Cup National Memory",
+    "url": "/wiki/concepts/worldcupnationalmemory/"
   },
   "WorldFoodProgramme": {
     "title": "World Food Programme / 世界粮食计划署",

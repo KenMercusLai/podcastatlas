@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 11543
+wiki_total_pages: 11545
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -308,6 +308,9 @@ wiki_pages:
   - key: "Peloton"
     title: "Peloton"
     url: "/wiki/entities/peloton/"
+  - key: "Pele"
+    title: "Pelé"
+    url: "/wiki/entities/pele/"
   - key: "Penelope"
     title: "Penelope"
     url: "/wiki/entities/penelope/"

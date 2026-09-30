@@ -15700,9 +15700,9 @@
       "url": "/wiki/concepts/authorcommercialfilmbalance/"
     },
     "AuthoritarianSportsPropaganda": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5810592007 [GLT5810592007].md",
@@ -15717,9 +15717,16 @@
           "show": "The Rest Is History",
           "title": "405. The Nazis in Power: The Nuremberg Rallies (Part 2)",
           "url": "/wiki/sources/405-the-nazis-in-power-the-nuremberg-rallies-part-2-glt8681167377/"
+        },
+        {
+          "episode_file": "GLT3874165711 [GLT3874165711].md",
+          "key": "253-the-world-cup-post-war-reconciliation-brazilian-dictatorship-and-north-koreans-in-middlesbrough-part-2-glt3874165711",
+          "show": "The Rest Is History",
+          "title": "253. The World Cup: Post-war reconciliation, Brazilian dictatorship, and North Koreans in Middlesbrough (Part 2)",
+          "url": "/wiki/sources/253-the-world-cup-post-war-reconciliation-brazilian-dictatorship-and-north-koreans-in-middlesbrough-part-2-glt3874165711/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-30",
       "url": "/wiki/concepts/authoritariansportspropaganda/"
     },
     "AuthorityDisguiseInfiltration": {
@@ -59467,6 +59474,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/fifaworldcup1938/"
+    },
+    "FIFAWorldCup1978": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3874165711 [GLT3874165711].md",
+          "key": "253-the-world-cup-post-war-reconciliation-brazilian-dictatorship-and-north-koreans-in-middlesbrough-part-2-glt3874165711",
+          "show": "The Rest Is History",
+          "title": "253. The World Cup: Post-war reconciliation, Brazilian dictatorship, and North Koreans in Middlesbrough (Part 2)",
+          "url": "/wiki/sources/253-the-world-cup-post-war-reconciliation-brazilian-dictatorship-and-north-koreans-in-middlesbrough-part-2-glt3874165711/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/fifaworldcup1978/"
     },
     "FINRA": {
       "episode_count": 1,
@@ -135297,6 +135320,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/pekinguniversitythirdhospital/"
     },
+    "Pele": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3874165711 [GLT3874165711].md",
+          "key": "253-the-world-cup-post-war-reconciliation-brazilian-dictatorship-and-north-koreans-in-middlesbrough-part-2-glt3874165711",
+          "show": "The Rest Is History",
+          "title": "253. The World Cup: Post-war reconciliation, Brazilian dictatorship, and North Koreans in Middlesbrough (Part 2)",
+          "url": "/wiki/sources/253-the-world-cup-post-war-reconciliation-brazilian-dictatorship-and-north-koreans-in-middlesbrough-part-2-glt3874165711/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/pele/"
+    },
     "PelvicFloorFunctionMatching": {
       "episode_count": 1,
       "show_count": 1,
@@ -164918,9 +164957,9 @@
       "url": "/wiki/concepts/sportspoliticalinterference/"
     },
     "SportsPropagandaEffectUncertainty": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5810592007 [GLT5810592007].md",
@@ -164928,9 +164967,16 @@
           "show": "The Rest Is History",
           "title": "The Fascist World Cup: Mussolini's Football Dictatorship | History of the World Cup",
           "url": "/wiki/sources/the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007/"
+        },
+        {
+          "episode_file": "GLT3874165711 [GLT3874165711].md",
+          "key": "253-the-world-cup-post-war-reconciliation-brazilian-dictatorship-and-north-koreans-in-middlesbrough-part-2-glt3874165711",
+          "show": "The Rest Is History",
+          "title": "253. The World Cup: Post-war reconciliation, Brazilian dictatorship, and North Koreans in Middlesbrough (Part 2)",
+          "url": "/wiki/sources/253-the-world-cup-post-war-reconciliation-brazilian-dictatorship-and-north-koreans-in-middlesbrough-part-2-glt3874165711/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-30",
       "url": "/wiki/concepts/sportspropagandaeffectuncertainty/"
     },
     "SportswearExperienceSpace": {
@@ -164996,9 +165042,9 @@
       "url": "/wiki/concepts/sportswearmultibrandportfolio/"
     },
     "Sportwashing": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5891154284 [GLT5891154284].md",
@@ -165006,6 +165052,13 @@
           "show": "The Rest Is History",
           "title": "254. The World Cup: The Falklands, despots, and corruption (Part 3)",
           "url": "/wiki/sources/254-the-world-cup-the-falklands-despots-and-corruption-part-3-glt5891154284/"
+        },
+        {
+          "episode_file": "GLT3874165711 [GLT3874165711].md",
+          "key": "253-the-world-cup-post-war-reconciliation-brazilian-dictatorship-and-north-koreans-in-middlesbrough-part-2-glt3874165711",
+          "show": "The Rest Is History",
+          "title": "253. The World Cup: Post-war reconciliation, Brazilian dictatorship, and North Koreans in Middlesbrough (Part 2)",
+          "url": "/wiki/sources/253-the-world-cup-post-war-reconciliation-brazilian-dictatorship-and-north-koreans-in-middlesbrough-part-2-glt3874165711/"
         }
       ],
       "updated": "2026-09-30",
@@ -186299,9 +186352,9 @@
       "url": "/wiki/entities/westbengal/"
     },
     "WestGermany": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6217148052 [GLT6217148052].md",
@@ -186309,9 +186362,16 @@
           "show": "The Rest Is History",
           "title": "679. Germany: The Song Hitler Stole (Part 3)",
           "url": "/wiki/sources/679-germany-the-song-hitler-stole-part-3-glt6217148052/"
+        },
+        {
+          "episode_file": "GLT3874165711 [GLT3874165711].md",
+          "key": "253-the-world-cup-post-war-reconciliation-brazilian-dictatorship-and-north-koreans-in-middlesbrough-part-2-glt3874165711",
+          "show": "The Rest Is History",
+          "title": "253. The World Cup: Post-war reconciliation, Brazilian dictatorship, and North Koreans in Middlesbrough (Part 2)",
+          "url": "/wiki/sources/253-the-world-cup-post-war-reconciliation-brazilian-dictatorship-and-north-koreans-in-middlesbrough-part-2-glt3874165711/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-30",
       "url": "/wiki/entities/westgermany/"
     },
     "WesternDragonCulturalSynthesis": {
@@ -188099,6 +188159,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/worldcoffeeingoodspiritschampionship/"
+    },
+    "WorldCupNationalMemory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3874165711 [GLT3874165711].md",
+          "key": "253-the-world-cup-post-war-reconciliation-brazilian-dictatorship-and-north-koreans-in-middlesbrough-part-2-glt3874165711",
+          "show": "The Rest Is History",
+          "title": "253. The World Cup: Post-war reconciliation, Brazilian dictatorship, and North Koreans in Middlesbrough (Part 2)",
+          "url": "/wiki/sources/253-the-world-cup-post-war-reconciliation-brazilian-dictatorship-and-north-koreans-in-middlesbrough-part-2-glt3874165711/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/worldcupnationalmemory/"
     },
     "WorldFoodProgramme": {
       "episode_count": 1,

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [253. The World Cup: Post-war reconciliation, Brazilian dictatorship, and North Koreans in Middlesbrough (Part 2)](sources/253-the-world-cup-post-war-reconciliation-brazilian-dictatorship-and-north-koreans-in-middlesbrough-part-2-glt3874165711.md) — The Rest Is History episode on postwar football memory, Brazil and Argentina under dictatorship, and the coexistence of World Cup beauty with political coercion.
 - [254. The World Cup: The Falklands, despots, and corruption (Part 3)](sources/254-the-world-cup-the-falklands-despots-and-corruption-part-3-glt5891154284.md) — The Rest Is History episode using Gary Lineker's World Cup memories to connect player experience, national identity, corruption, host politics, and sportwashing.
 - [255. Qatar: A History](sources/255-qatar-a-history-glt4853394229.md) — The Rest Is History episode on Qatar's pearling and imperial past, British protection, hydrocarbons, small-state security strategy, and World Cup scrutiny.
 - [256. Germany: The White Rose](sources/256-germany-the-white-rose-glt6296738472.md) — The Rest Is History episode on Hans and Sophie Scholl, the White Rose leaflets, conscience formation, execution, and postwar symbolic legacy.
@@ -3284,6 +3285,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [作者对谈：朋友是否比真理更加重要？（Roger Berkowitz）](sources/zuozhe-duitan-pengyou-shifou-bi-zhenli-gengjia-zhongyao-roger-berkowitz-ln7i59hzhpigtixkj-dvwmkqrrsf.md) — 独树不成林 conversation on Hannah Arendt, friendship across disagreement, political plurality, public denunciation, and persuasion as mutual transformation.
 
 ## Entities
+- [Pelé](entities/Pele.md) — Brazilian football icon joining World Cup excellence, multiracial national representation, and political ambiguity under military rule.
+- [1978 FIFA World Cup](entities/FIFAWorldCup1978.md) — Argentina-hosted tournament where junta spectacle, national celebration, disputed sporting claims, and nearby state terror converged.
 - [Gary Lineker](entities/GaryLineker.md) — England footballer and broadcaster linking World Cup playing memory to governance and human-rights criticism.
 - [Diego Maradona](entities/DiegoMaradona.md) — Argentine football icon whose 1986 performance joined extraordinary skill, controversy, and national symbolism.
 - [Hamad bin Khalifa Al Thani](entities/HamadBinKhalifaAlThani.md) — Qatari ruler associated with converting gas wealth into media, investment, infrastructure, diplomacy, and external security ties.
@@ -14857,6 +14860,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Roger Berkowitz](entities/RogerBerkowitz.md) — Political theorist reconstructing Hannah Arendt's account of friendship, plurality, truth, and reciprocal persuasion.
 
 ## Concepts
+- [World Cup National Memory](concepts/WorldCupNationalMemory.md) — Process by which tournament moments become selective national stories about recovery, unity, grievance, or modernity.
 - [Sportwashing](concepts/Sportwashing.md) — Use of sporting attention to improve reputation by displacing scrutiny, qualified by the possibility that visibility can also intensify criticism.
 - [Qatari Small-State Security Strategy](concepts/QatariSmallStateSecurityStrategy.md) — Portfolio using energy, military presence, investment, infrastructure, media, and diplomacy to protect a vulnerable state.
 - [Strategic Visibility-Scrutiny Tradeoff](concepts/StrategicVisibilityScrutinyTradeoff.md) — Pattern where global attention produces influence and protective relevance while widening scrutiny of hidden costs and contradictions.

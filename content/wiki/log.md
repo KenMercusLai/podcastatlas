@@ -25902,3 +25902,11 @@ Added source `254-the-world-cup-the-falklands-despots-and-corruption-part-3-glt5
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-30] ingest | 253. The World Cup: Post-war reconciliation, Brazilian dictatorship, and North Koreans in Middlesbrough (Part 2)
+
+Added source `253-the-world-cup-post-war-reconciliation-brazilian-dictatorship-and-north-koreans-in-middlesbrough-part-2-glt3874165711`; created `Pele`, `FIFAWorldCup1978`, and `WorldCupNationalMemory`; and resynthesized `WestGermany`, `AuthoritarianSportsPropaganda`, `Sportwashing`, and `SportsPropagandaEffectUncertainty` from their complete preserved evidence inventories. Core synthesis: World Cup beauty, national recovery, and sincere celebration can coexist with authoritarian appropriation, repression, disputed evidence, and selective memory. No settled contradiction was adopted. Claims about amphetamines, threats, Pelé's political position, João Saldanha's removal, Argentina-Peru, and individual audience belief remain disputed or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
