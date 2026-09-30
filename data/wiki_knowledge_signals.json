@@ -71594,6 +71594,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/entities/girondins/"
     },
+    "Gisaeng": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1910695360 [GLT1910695360].md",
+          "key": "266-south-korea-the-riddle-of-hwang-jini-glt1910695360",
+          "show": "The Rest Is History",
+          "title": "266: South Korea: The Riddle of Hwang Jini",
+          "url": "/wiki/sources/266-south-korea-the-riddle-of-hwang-jini-glt1910695360/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/gisaeng/"
+    },
     "GladiatorialSpectacle": {
       "episode_count": 1,
       "show_count": 1,
@@ -86292,6 +86308,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/entities/huzuohuyou/"
     },
+    "HwangJini": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1910695360 [GLT1910695360].md",
+          "key": "266-south-korea-the-riddle-of-hwang-jini-glt1910695360",
+          "show": "The Rest Is History",
+          "title": "266: South Korea: The Riddle of Hwang Jini",
+          "url": "/wiki/sources/266-south-korea-the-riddle-of-hwang-jini-glt1910695360/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/hwangjini/"
+    },
     "HybridWarfareAttributionThreshold": {
       "episode_count": 1,
       "show_count": 1,
@@ -96776,6 +96808,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/josefhoyos/"
+    },
+    "JoseonDynasty": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1910695360 [GLT1910695360].md",
+          "key": "266-south-korea-the-riddle-of-hwang-jini-glt1910695360",
+          "show": "The Rest Is History",
+          "title": "266: South Korea: The Riddle of Hwang Jini",
+          "url": "/wiki/sources/266-south-korea-the-riddle-of-hwang-jini-glt1910695360/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/joseondynasty/"
     },
     "JosephBanks": {
       "episode_count": 2,
@@ -123844,9 +123892,9 @@
       "url": "/wiki/concepts/mythicandmaterialwarcausation/"
     },
     "MythicBiographySourceCaution": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》601-2丨烽火戏诸侯：一笑天下亡，褒姒是何方“妖孽”？ [lkiRbrVOnA0YIaoUSoblcDu0Gs5U].md",
@@ -123854,6 +123902,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》601-2丨烽火戏诸侯：一笑天下亡，褒姒是何方“妖孽”？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-601-2-fenghuo-xi-zhuhou-yixiao-tianxia-wang-baosi-shi-hefang-yaonie-lkirbrvonyiyaousoblcd/"
+        },
+        {
+          "episode_file": "GLT1910695360 [GLT1910695360].md",
+          "key": "266-south-korea-the-riddle-of-hwang-jini-glt1910695360",
+          "show": "The Rest Is History",
+          "title": "266: South Korea: The Riddle of Hwang Jini",
+          "url": "/wiki/sources/266-south-korea-the-riddle-of-hwang-jini-glt1910695360/"
         }
       ],
       "updated": "2026-09-10",
@@ -159202,6 +159257,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/entities/sigmundfreud/"
+    },
+    "SijoPoetry": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1910695360 [GLT1910695360].md",
+          "key": "266-south-korea-the-riddle-of-hwang-jini-glt1910695360",
+          "show": "The Rest Is History",
+          "title": "266: South Korea: The Riddle of Hwang Jini",
+          "url": "/wiki/sources/266-south-korea-the-riddle-of-hwang-jini-glt1910695360/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/sijopoetry/"
     },
     "SikuQuanshu": {
       "episode_count": 1,

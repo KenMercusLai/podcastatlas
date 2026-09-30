@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [E254｜超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？](sources/e254-chaoji-eerninuo-laile-womende-richang-suoxu-zhenhui-yin-ta-zhangjia-ma-0b644f51-461c-4ddb-b707-d2a39b9a7d80.md) — 硅谷101 episode on conditional El Niño commodity shocks, crop-stage and inventory exposure, retail pass-through, fishmeal, producer risk controls, and Panama Canal drought disruption.
+- [266: South Korea: The Riddle of Hwang Jini](sources/266-south-korea-the-riddle-of-hwang-jini-glt1910695360.md) — The Rest Is History episode on Hwang Jini, gisaeng status and training, sijo poetry, legend-heavy biography, and divided modern Korean memory.
 - [Navigating Conflict, Finding Purpose & Maintaining Drive | Dr. Lex Fridman](sources/navigating-conflict-finding-purpose-maintaining-drive-dr-lex-fridman-scim7125421200.md) — Huberman Lab episode on Ukraine, conflict psychology, difficult interviews, scientific criticism, social robotics, and the costs of pursuing a calling.
 - [267: Wales: The Roar of the Red Dragon](sources/267-wales-the-roar-of-the-red-dragon-glt2657098007.md) — The Rest Is History episode on Welsh identity, medieval conquest, language shift, industrialisation, sport, nationalism, and constitutional interdependence.
 - [268: Brazil: The Last Emperor](sources/268-brazil-the-last-emperor-glt5634696575.md) — The Rest Is History episode on Pedro II, slavery-dependent imperial stability, science and national culture, abolition, and the elite-led republican coup.
@@ -3268,6 +3269,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Using Caffeine to Optimize Mental & Physical Performance](sources/using-caffeine-to-optimize-mental-physical-performance-scim1210768101.md) — Huberman Lab solo episode on adenosine blockade, caffeine timing and dose, performance, memory, learned reinforcement, tolerance, sleep, and stacking risks.
 
 ## Entities
+- [Hwang Jini / Hwang Jin-hee](entities/HwangJini.md) — Joseon gisaeng and sijo poet whose durable cultural reputation must be separated from her legend-heavy biography.
+- [Joseon Dynasty](entities/JoseonDynasty.md) — Korean dynastic setting connecting Confucian hierarchy, gisaeng training, gender constraint, and literary memory.
 - [张司祺 / Zhang Siqi](entities/ZhangSiqi.md) — Commodity researcher who combines regional weather, crop stages, inventories, trade, logistics, and hedging to assess climate-linked price risk.
 - [Wales](entities/Wales.md) — Constituent nation shaped by conquest, industrial transformation, language shift, sporting identity, and constitutional interdependence with England.
 - [Plaid Cymru](entities/PlaidCymru.md) — Welsh nationalist party whose early language-preservation focus widened into constitutional self-government politics.
@@ -14797,6 +14800,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Wieliczka Salt Mine](entities/WieliczkaSaltMine.md) — Royal salt industry transformed into an underground religious-art, tourism, and national-memory complex.
 
 ## Concepts
+- [Gisaeng Social Institution](concepts/Gisaeng.md) — Korean institution joining low hereditary status and coercive service to artistic education, elite access, and bounded cultural agency.
+- [Sijo Poetry](concepts/SijoPoetry.md) — Compact Korean verse form linking gisaeng literary memory and Hwang Jini's reputation to a clear translation boundary.
 - [Commodity-to-Consumer Price Pass-Through](concepts/CommodityConsumerPricePassThrough.md) — How inventories, contracts, hedging, substitution, chain length, demand, and pricing strategy filter upstream commodity moves before retail.
 - [Agricultural Weather-Risk Management](concepts/AgriculturalWeatherRiskManagement.md) — Layered farm resilience through forecasts, agronomy, water and logistics infrastructure, insurance, and financial contracts.
 - [Panama Canal Drought Disruption](concepts/PanamaCanalDroughtDisruption.md) — Route-specific logistics shock in which low canal water creates slot constraints, queues, fees, delays, and diversion costs.

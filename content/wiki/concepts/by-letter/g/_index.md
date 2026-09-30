@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 8906
+wiki_total_pages: 8908
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -257,6 +257,9 @@ wiki_pages:
   - key: "GirlsEducationWorkaround"
     title: "Girls Education Workaround"
     url: "/wiki/concepts/girlseducationworkaround/"
+  - key: "Gisaeng"
+    title: "Gisaeng Social Institution"
+    url: "/wiki/concepts/gisaeng/"
   - key: "GladiatorialSpectacle"
     title: "Gladiatorial Spectacle"
     url: "/wiki/concepts/gladiatorialspectacle/"

@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2929
+topic_total_pages: 2930
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1312,6 +1312,9 @@ topic_concepts:
   - key: "GirlsEducationWorkaround"
     title: "Girls Education Workaround"
     url: "/wiki/concepts/girlseducationworkaround/"
+  - key: "Gisaeng"
+    title: "Gisaeng Social Institution"
+    url: "/wiki/concepts/gisaeng/"
   - key: "GlobalSportsGovernance"
     title: "Global Sports Governance"
     url: "/wiki/concepts/globalsportsgovernance/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 11500
+wiki_total_pages: 11502
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -923,6 +923,9 @@ wiki_pages:
   - key: "HutianKilnSite"
     title: "Hutian Kiln Site / 湖田古瓷窑址"
     url: "/wiki/entities/hutiankilnsite/"
+  - key: "HwangJini"
+    title: "Hwang Jini / Hwang Jin-hee"
+    url: "/wiki/entities/hwangjini/"
   - key: "HyattHotels"
     title: "Hyatt Hotels"
     url: "/wiki/entities/hyatthotels/"

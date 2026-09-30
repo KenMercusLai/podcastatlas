@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 11500
+wiki_total_pages: 11502
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -986,6 +986,9 @@ wiki_pages:
   - key: "JosefHoyos"
     title: "Josef Hoyos"
     url: "/wiki/entities/josefhoyos/"
+  - key: "JoseonDynasty"
+    title: "Joseon Dynasty"
+    url: "/wiki/entities/joseondynasty/"
   - key: "JosephAoun"
     title: "Joseph Aoun"
     url: "/wiki/entities/josephaoun/"

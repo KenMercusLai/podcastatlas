@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-30] ingest | 266: South Korea: The Riddle of Hwang Jini
+
+Added source `266-south-korea-the-riddle-of-hwang-jini-glt1910695360`; created `HwangJini`, `JoseonDynasty`, `Gisaeng`, and `SijoPoetry`; and resynthesized `MythicBiographySourceCaution` from its complete bounded source set. Core synthesis: gisaeng education, artistry, poetry, and social mobility existed inside hereditary stigma, sexual service, patronage, short careers, and constrained choices, while Hwang Jini's literary reputation is more secure than the legend-heavy events used to construct her image of wit and agency. No settled contradiction was adopted. Dates, career norms, institutional details, poems in translation, life anecdotes, adaptation counts, and North-South reception claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten because this episode opens a bounded Korean literary-history branch; downstream synthesis refresh only reads it.
+
 ## [2026-09-30] ingest | E254｜超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？
 
 Added source `e254-chaoji-eerninuo-laile-womende-richang-suoxu-zhenhui-yin-ta-zhangjia-ma-0b644f51-461c-4ddb-b707-d2a39b9a7d80`; created `ZhangSiqi`, `CommodityConsumerPricePassThrough`, `AgriculturalWeatherRiskManagement`, and `PanamaCanalDroughtDisruption`; updated `ElNino`, `ElNinoClimateRisk`, `ClimateFoodPriceTransmission`, and `FishmealSupplyChain` from their complete bounded source sets; and updated the canonical index. Core synthesis: El Niño is not a universal price switch—material effects require exposure of important production or trade at a sensitive stage plus weak inventory, substitution, logistics, or policy buffers, and upstream moves are further filtered before reaching consumers. No settled contradiction was adopted. Regional forecasts, climate thresholds, market shares, historical price moves, copper figures, and current market outlooks remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -25776,6 +25780,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-30] ingest | Navigating Conflict, Finding Purpose & Maintaining Drive | Dr. Lex Fridman
 
 Added source `navigating-conflict-finding-purpose-maintaining-drive-dr-lex-fridman-scim7125421200`; created `ConflictDrivenIntergroupHatred`, `ConflictDangerNormalization`, `EmpathicAdversarialInterviewing`, `CallingCommitmentTradeoff`, and `OpenScientificCriticism`; and resynthesized `LexFridman` from its preserved evidence inventory. Core synthesis: the conversation joins war's destruction of continuity and widening hatred to danger normalization, propaganda resistance, empathy joined with interview scrutiny, faster but bounded scientific criticism, and the real opportunity costs of treating a social-robotics company as a calling. No settled contradiction was adopted. Wartime crime, soldiers' beliefs, national attitudes, review reform, extreme-work advice, and robot-company forecasts remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-30] lint | Wiki health check
 
