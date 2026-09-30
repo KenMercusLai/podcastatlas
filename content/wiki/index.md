@@ -3303,6 +3303,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [244. Trafalgar: Countdown to Annihilation (Part 2)](sources/244-trafalgar-countdown-to-annihilation-part-2-glt5489746159.md) — The Rest Is History account of Nelson, Villeneuve, Napoleon's Atlantic-scale invasion plan, coalition friction, blockade, and the eve of Trafalgar.
 
+- [243. Trafalgar: A World at War (Part 1)](sources/243-trafalgar-a-world-at-war-part-1-glt3542298238.md) — The Rest Is History background episode on British and French strategy and the fiscal, professional, logistical, industrial, and cultural construction of Royal Navy power.
+
 - [Fitness Toolkit: Protocol & Tools to Optimize Physical Health](sources/fitness-toolkit-protocol-tools-to-optimize-physical-health-scim2940233129.md) — Huberman Lab solo episode presenting an adaptable weekly mix of endurance, resistance work, intervals, recovery, mobility, and return-to-training constraints.
 
 ## Entities
@@ -14908,6 +14910,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Pierre-Charles Villeneuve](entities/PierreCharlesVilleneuve.md) — French admiral whose learned caution, Atlantic campaign, coalition constraints, and reversal maneuver preceded defeat at Trafalgar.
 - [Federico Gravina](entities/FedericoGravina.md) — Spanish admiral navigating coalition pressure, distinct government instructions, capacity limits, and honor before Trafalgar.
 - [Trafalgar Campaign](entities/TrafalgarCampaign.md) — 1805 sequence of Atlantic feint, pursuit, failed concentration, blockade, and coalition pressure culminating at Trafalgar.
+- [Royal Navy](entities/RoyalNavy.md) — British maritime institution synthesized through finance, administration, training, logistics, health, dockyards, gunnery, and command culture.
 
 ## Concepts
 - [Party-Membership Leadership Selection](concepts/PartyMembershipLeadershipSelection.md) — Tradeoff between wider internal participation and the representativeness, parliamentary support, and governing viability of party leaders.
@@ -23916,6 +23919,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Naval Breakthrough Tactics](concepts/NavalBreakthroughTactics.md) — Tactical pattern joining pre-battle intent, approach exposure, line penetration, local advantage, and delegated close-action execution.
 - [Sea Control as State Capacity](concepts/SeaControlStateCapacity.md) — Framework connecting fiscal, administrative, logistical, medical, industrial, and human systems to sustained maritime power.
+- [Fiscal-Military Naval State](concepts/FiscalMilitaryNavalState.md) — Framework for converting public credit, administration, logistics, and industry into sustained naval force.
 - [Maritime Coalition Coordination](concepts/MaritimeCoalitionCoordination.md) — Framework for aligning distant allied fleets across communication limits, political divergence, logistics, and operational risk.
 
 ## Syntheses

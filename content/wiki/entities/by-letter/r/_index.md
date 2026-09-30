@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 11573
+wiki_total_pages: 11574
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -827,6 +827,9 @@ wiki_pages:
   - key: "RoyalMint"
     title: "Royal Mint / 皇家造币厂"
     url: "/wiki/entities/royalmint/"
+  - key: "RoyalNavy"
+    title: "Royal Navy"
+    url: "/wiki/entities/royalnavy/"
   - key: "RoyalSociety"
     title: "Royal Society / 皇家学会"
     url: "/wiki/entities/royalsociety/"

@@ -6,6 +6,7 @@ sources:
   - 357-historical-love-island-the-sequel-glt7719682575
   - 245-trafalgar-victory-part-3-glt4217731619
   - 244-trafalgar-countdown-to-annihilation-part-2-glt5489746159
+  - 243-trafalgar-a-world-at-war-part-1-glt3542298238
 knowledge_schema: synthesis-v1
 last_updated: 2026-09-30
 ---
@@ -18,13 +19,14 @@ Horatio Nelson is presented as a British naval commander whose preparation, tact
 
 ## Current Profile
 
-Nelson's command joined meticulous attention to weather, provisioning, health, and fleet readiness with an intense patriotic and religious sense of destiny. He made captains and sailors feel part of a heroic common mission, trusted them to execute intent once battle became chaotic, and sought not a limited win but annihilation through a two-column break into the allied line. The same sources complicate that achievement: peers could find him fame-hungry, his aggressive self-image carried an apocalyptic edge, and his hostility to abolitionism placed heroic care for his own crews beside indifference to wealth rooted in Caribbean slavery. His visible courage and fatal wound at Trafalgar fused operational success with sacrifice and national myth, while the earlier comic source shows how Emma Hamilton and celebrity scandal remain part of his afterlife.
+Nelson's command joined meticulous attention to weather, provisioning, health, and fleet readiness with an intense patriotic and religious sense of destiny. He made captains and sailors feel part of a heroic common mission, trusted them to execute intent once battle became chaotic, and sought not a limited win but annihilation through a two-column break into the allied line. The background source places those qualities in an inherited system: Hood's offensive strategy, Jervis's discipline and captain-level autonomy, professional training, dockyards, health, logistics, and practiced gunnery made Nelson a culmination of the [[RoyalNavy]] rather than a solitary genius. The same sources complicate that achievement: peers could find him fame-hungry, his aggressive self-image carried an apocalyptic edge, and his hostility to abolitionism placed heroic care for his own crews beside indifference to wealth rooted in Caribbean slavery. His visible courage and fatal wound at Trafalgar fused operational success with sacrifice and national myth, while the earlier comic source shows how Emma Hamilton and celebrity scandal remain part of his afterlife.
 
 ## Key Characteristics
 
 - Meticulous commander who treated weather, food, maintenance, health, and preparation as combat inputs.
 - Charismatic leader who created shared mission through affection, patriotic language, and heroic self-presentation.
 - Risk-accepting tactician who trusted captains and aimed to convert close-range chaos into British advantage.
+- Institutional inheritor who adapted Hood's offensive reach and Jervis's disciplined delegation.
 - Aggressive and fame-conscious figure whose desired end state was enemy-fleet annihilation.
 - Visible front-line commander whose death during victory fused duty, sacrifice, mourning, and national myth.
 - Morally contested celebrity shaped by Emma Hamilton, anti-abolitionism, empire, and later comic retelling.
@@ -34,6 +36,7 @@ Nelson's command joined meticulous attention to weather, provisioning, health, a
 ### Preparation, care, and emotional command
 
 - [[244-trafalgar-countdown-to-annihilation-part-2-glt5489746159]] connects Nelson's weather logs, sailor welfare, courage, captain loyalty, patriotic mission, and emotionally charged explanation of the “Nelson touch.”
+- [[243-trafalgar-a-world-at-war-part-1-glt3542298238]] places his provisioning, anti-scurvy attention, aggression, and delegated command within the Navy's longer professional and logistical development.
 
 ### Tactical risk, delegated intent, and death
 
@@ -47,7 +50,7 @@ Nelson's command joined meticulous attention to weather, provisioning, health, a
 
 ## Qualifications
 
-The two Trafalgar sources are British-centered conversational narratives, while the third source is intentional comedy. Reported dialogue, the captains' reactions, private motives, exact tactical expectations, casualty totals, last words, and causal claims about Nelson's individual contribution remain source-scoped. Care for British sailors does not resolve his politics of empire and slavery, and acknowledgment of those politics should not collapse analysis of command into either hero worship or total dismissal.
+The three Trafalgar sources are British-centered conversational narratives, while the fourth source is intentional comedy. Reported dialogue, the captains' reactions, private motives, exact tactical expectations, casualty totals, last words, and causal claims about Nelson's individual contribution remain source-scoped. Treating Nelson as a culmination qualifies hero worship but does not make institutions alone sufficient to explain the battle. Care for British sailors does not resolve his politics of empire and slavery, and acknowledgment of those politics should not collapse analysis of command into either hero worship or total dismissal.
 
 ## What Changed
 
@@ -55,6 +58,7 @@ The two Trafalgar sources are British-centered conversational narratives, while 
 - Made annihilation-seeking ambition and public self-fashioning part of the profile rather than treating courage as uncomplicated.
 - Added anti-abolitionism and Caribbean slavery as direct moral qualifications to the heroic image.
 - Connected the pre-battle “Nelson touch” to its execution, cost, death, and memorial afterlife.
+- Reframed his aggression and delegated intent as developments within Hood's, Jervis's, and the wider Navy's institutional inheritance.
 
 ## Relationships
 
@@ -67,3 +71,4 @@ The two Trafalgar sources are British-centered conversational narratives, while 
 - [[FedericoGravina]] - Spanish commander affected by Nelson's concealment of British strength.
 - [[NavalBreakthroughTactics]] - tactical pattern joining accepted exposure, line penetration, and local initiative.
 - [[SeaControlStateCapacity]] - institutional explanation that places Nelson's achievement within wider British capability.
+- [[RoyalNavy]] - professional, fiscal, logistical, and cultural institution Nelson inherited and embodied.

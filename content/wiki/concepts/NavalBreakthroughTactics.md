@@ -5,6 +5,7 @@ tags: [naval-warfare, tactics, command, risk]
 sources:
   - 245-trafalgar-victory-part-3-glt4217731619
   - 244-trafalgar-countdown-to-annihilation-part-2-glt5489746159
+  - 243-trafalgar-a-world-at-war-part-1-glt3542298238
 knowledge_schema: synthesis-v1
 last_updated: 2026-09-30
 ---
@@ -17,7 +18,7 @@ Naval breakthrough tactics accept concentrated danger while closing with an enem
 
 ## Current Synthesis
 
-At the [[BattleOfTrafalgar|Battle of Trafalgar]], breakthrough was both a designed command system and a battlefield gamble. Before sailing, [[HoratioNelson]] explained that two columns would cut the allied line in two places and force a “pell-mell” action; captains then had to carry the intent forward without expecting detailed control. The columns were vulnerable during their approach, but penetration converted exposure into raking fire and confused ship-to-ship fighting where British gunnery, preparation, and crew confidence were expected to dominate. [[CuthbertCollingwood]]'s early isolated engagement shows that success depended on initiative and rapid exploitation of an already strained formation, not geometry alone.
+At the [[BattleOfTrafalgar|Battle of Trafalgar]], breakthrough was both a designed command system and a battlefield gamble. Before sailing, [[HoratioNelson]] explained that two columns would cut the allied line in two places and force a “pell-mell” action; captains then had to carry the intent forward without expecting detailed control. The approach drew on an older [[RoyalNavy]] culture: Jervis paired discipline with captain-level autonomy, Hood emphasized offensive strategic reach, and institutional investment in gunnery, maintenance, and crew readiness made aggressive close action plausible. The columns were vulnerable during their approach, but penetration converted exposure into raking fire and confused ship-to-ship fighting where British preparation and crew confidence were expected to dominate. [[CuthbertCollingwood]]'s early isolated engagement shows that success depended on initiative and rapid exploitation of an already strained formation, not geometry alone.
 
 ## Key Claims
 
@@ -33,6 +34,7 @@ At the [[BattleOfTrafalgar|Battle of Trafalgar]], breakthrough was both a design
 ### Design, communication, and intended battle
 
 - [[244-trafalgar-countdown-to-annihilation-part-2-glt5489746159]] describes Nelson explaining a two-column break and close “pell-mell” battle to captains who would execute the intent locally.
+- [[243-trafalgar-a-world-at-war-part-1-glt3542298238]] traces delegated intent, disciplined autonomy, offensive culture, close-range gunnery, and annihilation-seeking strategy through Hood, Jervis, and the wider Navy.
 
 ### Accepted exposure and positional payoff
 
@@ -45,12 +47,13 @@ At the [[BattleOfTrafalgar|Battle of Trafalgar]], breakthrough was both a design
 
 ## Counterevidence & Qualifications
 
-One victory does not establish a universally superior method. The British-centered sources may understate weather, coalition constraints, allied skill, chance, and survivorship in judging the plan. Nelson's confidence and captains' reported enthusiasm do not remove the approach's genuine risk, while numerical, casualty, and technical comparisons remain source-scoped.
+One victory does not establish a universally superior method. The British-centered sources may understate weather, coalition constraints, allied skill, chance, coercive discipline, and survivorship in judging the plan. Nelson's confidence and captains' reported enthusiasm do not remove the approach's genuine risk, while numerical, casualty, firing-rate, and technical comparisons remain source-scoped.
 
 ## What Changed
 
 - Added the pre-battle design and communication that made delegated close action possible.
 - Connected tactical geometry to psychological shaping before battle and institutional capability during it.
+- Extended delegated aggression backward to Hood, Jervis, professional training, and the Navy's accumulated gunnery system.
 
 ## Related Concepts
 
@@ -60,3 +63,4 @@ One victory does not establish a universally superior method. The British-center
 - [[MaritimeCoalitionCoordination]] - coalition weakness that contributed to the defending formation's vulnerability.
 - [[HoratioNelson]] - commander associated with the two-column plan and delegated intent.
 - [[CuthbertCollingwood]] - subordinate whose first penetration demonstrates local execution.
+- [[RoyalNavy]] - institution whose training, discipline, firepower, and delegated command made the tactic executable.

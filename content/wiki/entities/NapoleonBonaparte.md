@@ -8,6 +8,7 @@ sources:
   - 383-young-napoleon-the-shadow-of-the-guillotine-part-2-glt2658259929
   - 382-young-napoleon-teenage-revolutionary-part-1-glt6500252244
   - 244-trafalgar-countdown-to-annihilation-part-2-glt5489746159
+  - 243-trafalgar-a-world-at-war-part-1-glt3542298238
 knowledge_schema: synthesis-v1
 last_updated: 2026-09-30
 ---
@@ -26,7 +27,7 @@ Part 2 follows that tension into rupture. Defeat in Corsican politics and family
 
 Later cultural sources show the ascent's afterlife. For [[JulienSorel|Julien Sorel]], Napoleon represents a lost route by which talent might defeat birth hierarchy. The dueling source presents him as opposing private duels while ruling within a Europe where martial honor remained prestigious.
 
-The [[TrafalgarCampaign|Trafalgar campaign]] adds the mature ruler's strategic reach and maritime limits. Napoleon attempted to turn blockade escapes, a Caribbean feint, coalition concentration, and temporary Channel control into an invasion opportunity, but the plan accumulated failure points across weather, distance, communications, British interception, Spanish reluctance, and Villeneuve's caution. His shift toward Central Europe and Austerlitz shows strategic adaptability, while the failed naval design qualifies any transfer of his land-war mastery to operations at sea.
+The [[TrafalgarCampaign|Trafalgar campaign]] adds the mature ruler's strategic reach and maritime limits. Napoleon described the struggle as an elephant against a whale: French continental power faced a British maritime-commercial system whose dockyards and accumulated naval resources he hoped an invasion could cripple. He attempted to turn blockade escapes, a Caribbean feint, coalition concentration, and temporary Channel control into an invasion opportunity, but the plan accumulated failure points across fiscal competition between army and fleet, institutional discontinuity, weather, distance, communications, British interception, Spanish reluctance, and Villeneuve's caution. His shift toward Central Europe and Austerlitz shows strategic adaptability, while the failed naval design qualifies any transfer of his land-war mastery to operations at sea.
 
 ## Key Characteristics
 
@@ -67,10 +68,11 @@ The [[TrafalgarCampaign|Trafalgar campaign]] adds the mature ruler's strategic r
 ### Maritime strategy and operational limits
 
 - [[244-trafalgar-countdown-to-annihilation-part-2-glt5489746159]] reconstructs Napoleon's Atlantic-scale invasion design, pressure on Villeneuve, abandonment of the immediate Channel opportunity, and turn toward Central Europe.
+- [[243-trafalgar-a-world-at-war-part-1-glt3542298238]] frames the invasion as an attempt to neutralize dockyards and naval capacity within a structural contest between continental and maritime power.
 
 ## Qualifications
 
-The direct biography is conversational and remains incomplete. Childhood aggression, reported dialogue, private motives, and several revolutionary scenes are uncertain, mythologized, or interpretive. His simultaneous Corsican and French commitments caution against reading nationality as a clean conversion. The claim that disorder troubled him more than violence anticipates later conduct but does not prove a fully formed doctrine in 1792. Toulon atrocities, Vendémiaire casualties, Barras's account, and Josephine anecdotes remain source-scoped. The feasibility of the 1805 invasion plan, Napoleon's understanding of naval operations, and counterfactual consequences of temporary Channel control also require wider evidence. Later literary admiration describes symbolic afterlife, not moral endorsement.
+The direct biography is conversational and remains incomplete. Childhood aggression, reported dialogue, private motives, and several revolutionary scenes are uncertain, mythologized, or interpretive. His simultaneous Corsican and French commitments caution against reading nationality as a clean conversion. The claim that disorder troubled him more than violence anticipates later conduct but does not prove a fully formed doctrine in 1792. Toulon atrocities, Vendémiaire casualties, Barras's account, and Josephine anecdotes remain source-scoped. The feasibility and intended scope of the 1805 invasion, Napoleon's understanding of naval operations, comparative French-British fiscal capacity, and counterfactual consequences of temporary Channel control also require wider evidence. Later literary admiration describes symbolic afterlife, not moral endorsement.
 
 ## What Changed
 
@@ -78,7 +80,7 @@ The direct biography is conversational and remains incomplete. Childhood aggress
 - Replaced a sharp exile-to-France switch with a longer period of simultaneous Corsican nationalism, French service, and revolutionary commitment.
 - Added the 1792 distinction between republican radicalism, contempt for royal weakness, and hostility to mob disorder.
 - Connected the early preference for organized authority to the later Toulon and Vendémiaire trajectory without treating it as predetermined.
-- Added the 1805 naval campaign as evidence of strategic ambition, adaptability, coalition dependence, and maritime limitation.
+- Added the 1805 naval campaign as evidence of strategic ambition, adaptability, coalition dependence, and maritime limitation, including its infrastructure target and the mismatch between French land power and British maritime-commercial capacity.
 
 ## Relationships
 
@@ -97,3 +99,4 @@ The direct biography is conversational and remains incomplete. Childhood aggress
 - [[TrafalgarCampaign]] - failed maritime design intended to create a temporary Channel invasion opportunity.
 - [[PierreCharlesVilleneuve]] - admiral pressured to execute the Atlantic maneuver and later threatened with replacement.
 - [[MaritimeCoalitionCoordination]] - framework exposing the rendezvous, incentive, and communication demands of Napoleon's plan.
+- [[RoyalNavy]] - opposing institution whose accumulated dockyard and fleet capacity his invasion strategy sought to neutralize.

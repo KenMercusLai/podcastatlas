@@ -17491,6 +17491,43 @@
       "updated": "2026-09-24",
       "url": "/wiki/entities/bangladesh/"
     },
+    "BankOfEngland": {
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "151.私募信贷Private Credit：加速AI建设的“天使”，还是诱发金融危机的“恶魔”？ [nlAHYbjWcrIMit8DfF7YhZPbUpm1].md",
+          "key": "151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1",
+          "show": "起朱楼宴宾客",
+          "title": "151.私募信贷Private Credit：加速AI建设的“天使”，还是诱发金融危机的“恶魔”？",
+          "url": "/wiki/sources/151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1/"
+        },
+        {
+          "episode_file": "129.货币的本质，以及黄金的真正价值 ｜ 串台十分吸引 [lsJBfTtqXf58uK-A4G8-srrETKwb].md",
+          "key": "129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb",
+          "show": "起朱楼宴宾客",
+          "title": "129.货币的本质，以及黄金的真正价值 | 串台十分吸引",
+          "url": "/wiki/sources/129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb/"
+        },
+        {
+          "episode_file": "26.牛顿与伪币制造者：可能是斯内普的原型？ [580065317].md",
+          "key": "26-niudun-yu-weibi-zhizaozhe-keneng-shi-sineipu-de-yuanxing-580065317",
+          "show": "蜜獾吃书",
+          "title": "26.牛顿与伪币制造者：可能是斯内普的原型？",
+          "url": "/wiki/sources/26-niudun-yu-weibi-zhizaozhe-keneng-shi-sineipu-de-yuanxing-580065317/"
+        },
+        {
+          "episode_file": "GLT3542298238 [GLT3542298238].md",
+          "key": "243-trafalgar-a-world-at-war-part-1-glt3542298238",
+          "show": "The Rest Is History",
+          "title": "243. Trafalgar: A World at War (Part 1)",
+          "url": "/wiki/sources/243-trafalgar-a-world-at-war-part-1-glt3542298238/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/bankofengland/"
+    },
     "BanmaJiangMedicalGuest": {
       "episode_count": 1,
       "show_count": 1,
@@ -18359,9 +18396,9 @@
       "url": "/wiki/concepts/battleofstiklestad/"
     },
     "BattleOfTrafalgar": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT4217731619 [GLT4217731619].md",
@@ -18376,6 +18413,13 @@
           "show": "The Rest Is History",
           "title": "244. Trafalgar: Countdown to Annihilation (Part 2)",
           "url": "/wiki/sources/244-trafalgar-countdown-to-annihilation-part-2-glt5489746159/"
+        },
+        {
+          "episode_file": "GLT3542298238 [GLT3542298238].md",
+          "key": "243-trafalgar-a-world-at-war-part-1-glt3542298238",
+          "show": "The Rest Is History",
+          "title": "243. Trafalgar: A World at War (Part 1)",
+          "url": "/wiki/sources/243-trafalgar-a-world-at-war-part-1-glt3542298238/"
         }
       ],
       "updated": "2026-09-30",
@@ -64198,6 +64242,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/fiscalextractionrebellionspiral/"
     },
+    "FiscalMilitaryNavalState": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3542298238 [GLT3542298238].md",
+          "key": "243-trafalgar-a-world-at-war-part-1-glt3542298238",
+          "show": "The Rest Is History",
+          "title": "243. Trafalgar: A World at War (Part 1)",
+          "url": "/wiki/sources/243-trafalgar-a-world-at-war-part-1-glt3542298238/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/fiscalmilitarynavalstate/"
+    },
     "FishBoneForeignBodyCare": {
       "episode_count": 2,
       "show_count": 1,
@@ -83777,9 +83837,9 @@
       "url": "/wiki/entities/horatiogates/"
     },
     "HoratioNelson": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT7719682575 [GLT7719682575].md",
@@ -83801,6 +83861,13 @@
           "show": "The Rest Is History",
           "title": "244. Trafalgar: Countdown to Annihilation (Part 2)",
           "url": "/wiki/sources/244-trafalgar-countdown-to-annihilation-part-2-glt5489746159/"
+        },
+        {
+          "episode_file": "GLT3542298238 [GLT3542298238].md",
+          "key": "243-trafalgar-a-world-at-war-part-1-glt3542298238",
+          "show": "The Rest Is History",
+          "title": "243. Trafalgar: A World at War (Part 1)",
+          "url": "/wiki/sources/243-trafalgar-a-world-at-war-part-1-glt3542298238/"
         }
       ],
       "updated": "2026-09-30",
@@ -126129,9 +126196,9 @@
       "url": "/wiki/entities/nansunshi/"
     },
     "NapoleonBonaparte": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "21.红与黑：他死于真诚 [569042001].md",
@@ -126167,6 +126234,13 @@
           "show": "The Rest Is History",
           "title": "244. Trafalgar: Countdown to Annihilation (Part 2)",
           "url": "/wiki/sources/244-trafalgar-countdown-to-annihilation-part-2-glt5489746159/"
+        },
+        {
+          "episode_file": "GLT3542298238 [GLT3542298238].md",
+          "key": "243-trafalgar-a-world-at-war-part-1-glt3542298238",
+          "show": "The Rest Is History",
+          "title": "243. Trafalgar: A World at War (Part 1)",
+          "url": "/wiki/sources/243-trafalgar-a-world-at-war-part-1-glt3542298238/"
         }
       ],
       "updated": "2026-09-30",
@@ -126836,9 +126910,9 @@
       "url": "/wiki/concepts/naturelawlegaljustice/"
     },
     "NavalBreakthroughTactics": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT4217731619 [GLT4217731619].md",
@@ -126853,6 +126927,13 @@
           "show": "The Rest Is History",
           "title": "244. Trafalgar: Countdown to Annihilation (Part 2)",
           "url": "/wiki/sources/244-trafalgar-countdown-to-annihilation-part-2-glt5489746159/"
+        },
+        {
+          "episode_file": "GLT3542298238 [GLT3542298238].md",
+          "key": "243-trafalgar-a-world-at-war-part-1-glt3542298238",
+          "show": "The Rest Is History",
+          "title": "243. Trafalgar: A World at War (Part 1)",
+          "url": "/wiki/sources/243-trafalgar-a-world-at-war-part-1-glt3542298238/"
         }
       ],
       "updated": "2026-09-30",
@@ -154213,6 +154294,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/royalkinshipscandaladjudication/"
     },
+    "RoyalNavy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3542298238 [GLT3542298238].md",
+          "key": "243-trafalgar-a-world-at-war-part-1-glt3542298238",
+          "show": "The Rest Is History",
+          "title": "243. Trafalgar: A World at War (Part 1)",
+          "url": "/wiki/sources/243-trafalgar-a-world-at-war-part-1-glt3542298238/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/royalnavy/"
+    },
     "RoyalSociety": {
       "episode_count": 3,
       "show_count": 2,
@@ -157116,9 +157213,9 @@
       "url": "/wiki/entities/seabeggars/"
     },
     "SeaControlStateCapacity": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT4217731619 [GLT4217731619].md",
@@ -157133,6 +157230,13 @@
           "show": "The Rest Is History",
           "title": "244. Trafalgar: Countdown to Annihilation (Part 2)",
           "url": "/wiki/sources/244-trafalgar-countdown-to-annihilation-part-2-glt5489746159/"
+        },
+        {
+          "episode_file": "GLT3542298238 [GLT3542298238].md",
+          "key": "243-trafalgar-a-world-at-war-part-1-glt3542298238",
+          "show": "The Rest Is History",
+          "title": "243. Trafalgar: A World at War (Part 1)",
+          "url": "/wiki/sources/243-trafalgar-a-world-at-war-part-1-glt3542298238/"
         }
       ],
       "updated": "2026-09-30",
@@ -177743,9 +177847,9 @@
       "url": "/wiki/entities/trae/"
     },
     "TrafalgarCampaign": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5489746159 [GLT5489746159].md",
@@ -177753,6 +177857,13 @@
           "show": "The Rest Is History",
           "title": "244. Trafalgar: Countdown to Annihilation (Part 2)",
           "url": "/wiki/sources/244-trafalgar-countdown-to-annihilation-part-2-glt5489746159/"
+        },
+        {
+          "episode_file": "GLT3542298238 [GLT3542298238].md",
+          "key": "243-trafalgar-a-world-at-war-part-1-glt3542298238",
+          "show": "The Rest Is History",
+          "title": "243. Trafalgar: A World at War (Part 1)",
+          "url": "/wiki/sources/243-trafalgar-a-world-at-war-part-1-glt3542298238/"
         }
       ],
       "updated": "2026-09-30",
