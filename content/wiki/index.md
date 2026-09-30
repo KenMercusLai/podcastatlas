@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [268: Brazil: The Last Emperor](sources/268-brazil-the-last-emperor-glt5634696575.md) — The Rest Is History episode on Pedro II, slavery-dependent imperial stability, science and national culture, abolition, and the elite-led republican coup.
 - [269: Ghana: The Ashanti Empire](sources/269-ghana-the-ashanti-empire-glt3638102749.md) — The Rest Is History episode on Asante state formation, the Golden Stool, Kumasi, military-commercial power, Anglo-Asante conflict, and symbolic continuity.
 - [270: Poland: Copernicus, the Dragon and the Salt Mine](sources/270-poland-copernicus-the-dragon-and-the-salt-mine-glt2590789810.md) — The Rest Is History tour of seven Polish wonders linking European trade and exchange, layered national memory, Jewish destruction, occupation, conservation, and tourism.
 - [索道赚钱能力堪比茅台，山岳景区为何还在为增长发愁？](sources/suodao-zhuanqian-nengli-kanbi-maotai-shanyue-jingqu-weihe-hai-zai-wei-zengzhang-fachou-1020019950.md) — 声动早咖啡 episode on high-margin cableway economics, weak destination-level conversion, hotel tradeoffs, capacity, and the shift from fixed-route sightseeing toward deeper outdoor experiences.
@@ -5602,14 +5603,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Brazilian National Anthem](entities/BrazilianNationalAnthem.md) — Anthem whose tune, lyrics, and performance history carry Brazil's monarchy, republic, slavery-shadowed identity, and protest memory.
 - [Brazilian Flag](entities/BrazilianFlag.md) — National symbol whose colors, stars, Southern Cross reference, and positivist motto connect dynastic inheritance to republican symbolism.
 - [Brazilian Independence](entities/BrazilianIndependence.md) — 1822 break with Portuguese authority led by Dom Pedro I and later remembered through the anthem's Ipiranga reference.
-- [Brazilian Empire](entities/BrazilianEmpire.md) — Monarchical independence regime linking Pedro I, Pedro II, abolition pressure, and national-symbol continuity.
+- [Brazilian Empire](entities/BrazilianEmpire.md) — Slavery-dependent constitutional monarchy whose national-symbol continuity outlasted abolition-era coalition collapse.
 - [Dom Joao VI](entities/DomJoaoVI.md) — Portuguese monarch whose court's 1807 move to Rio made Brazil central before independence.
-- [Dom Pedro I](entities/DomPedroI.md) — Regent and first emperor who declared Brazilian independence and whose personalist first anthem became politically unusable.
-- [Dom Pedro II](entities/DomPedroII.md) — Long-reigning Brazilian emperor tied to national-identity consolidation, abolition-era pressure, and republican transition.
+- [Dom Pedro I](entities/DomPedroI.md) — First emperor whose independence role, abdication, personalist anthem, and late anti-slavery letter expose the empire's contradictions.
+- [Dom Pedro II](entities/DomPedroII.md) — Scholarly long-reigning emperor whose anti-slavery views, elite dependence, and refusal to resist shaped abolition-era memory and regime collapse.
 - [Maria Leopoldina](entities/MariaLeopoldina.md) — Habsburg wife of Pedro I whose dynastic background informs Brazil's color-symbol story.
 - [Francisco Manuel da Silva](entities/FranciscoManuelDaSilva.md) — Composer of the durable 1831 tune that became the Brazilian national anthem melody.
 - [Osorio Duque Estrada](entities/OsorioDuqueEstrada.md) — Lyricist whose words were officially settled for the Brazilian anthem around the 1922 independence centenary.
-- [Deodoro da Fonseca](entities/DeodoroDaFonseca.md) — Republican marshal whose regime kept the older Brazilian anthem tune after the empire fell.
+- [Deodoro da Fonseca](entities/DeodoroDaFonseca.md) — Initially hesitant coup marshal whose republic retained the older Brazilian anthem tune.
 - [Fafa de Belem](entities/FafaDeBelem.md) — Singer whose slow anthem performances at Diretas Ja rallies turned official music into democratic protest sound.
 - [Diretas Ja](entities/DiretasJa.md) — Brazilian democratic-election movement where anthem performance became mass protest symbolism.
 - [Louis Moreau Gottschalk](entities/LouisMoreauGottschalk.md) — Composer whose Rio visit and anthem-inspired music gave Brazil's anthem an international musical afterlife.
@@ -14789,6 +14790,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Wieliczka Salt Mine](entities/WieliczkaSaltMine.md) — Royal salt industry transformed into an underground religious-art, tourism, and national-memory complex.
 
 ## Concepts
+- [Abolition Monarchy Coalition Collapse](concepts/AbolitionMonarchyCoalitionCollapse.md) — Brazilian mechanism linking gradual reform, emancipation, planter defection, and an officer-led end to monarchy.
 - [Sacred Symbolic State Formation](concepts/SacredSymbolicStateFormation.md) — How sacred objects, founding narrative, ceremony, and visible rank can integrate and defend a polity.
 - [Polish Built-Heritage Palimpsest](concepts/PolishBuiltHeritagePalimpsest.md) — Framework reading Polish landmarks as layered products of trade, dynasty, religion, border change, occupation, conservation, and tourism.
 - [Heritage Survival and Reconstruction](concepts/HeritageSurvivalAndReconstruction.md) — Distinction among continuous fabric, rebuilding, adaptive reuse, and continuity of the communities that gave places meaning.

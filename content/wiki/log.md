@@ -25752,3 +25752,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-30] ingest | 268: Brazil: The Last Emperor
+
+Added source `268-brazil-the-last-emperor-glt5634696575`; created `AbolitionMonarchyCoalitionCollapse`; and resynthesized `DomPedroII`, `BrazilianEmpire`, `DomPedroI`, `DeodoroDaFonseca`, and `SlaveryNationalIdentityContradiction` from their complete bounded source sets. Core synthesis: Pedro II's scientific and cultural patronage coexisted with a monarchy structurally dependent on slavery; gradual reform preserved coercive labor and elite accommodation, while final abolition helped dissolve planter support before an officer-led coup that lacked mass popular mobilization in the episode's account. No settled contradiction was adopted. Revolt and demographic figures, forced-Islam-disappearance claims, private motives, abolition causation, coup support, and empire-versus-republic stability remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

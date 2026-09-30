@@ -4,7 +4,8 @@ type: entity
 tags: [person, brazil, monarchy, empire]
 sources:
   - 681-brazil-the-emperors-anthem-part-5-glt5596929385
-last_updated: 2026-09-01
+  - 268-brazil-the-last-emperor-glt5634696575
+last_updated: 2026-09-30
 knowledge_schema: synthesis-v1
 ---
 
@@ -12,33 +13,39 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Dom Pedro II appears in the episode as [[Brazil]]'s long-reigning emperor whose period helped build a stronger national identity while leaving slavery, war, and republican opposition unresolved.
+Dom Pedro II appears across the sources as [[Brazil]]'s child-emperor turned long-reigning constitutional monarch: a stabilizing, scholarly ruler whose cultural and scientific patronage coexisted with political dependence on a slaveholding order.
 
 ## Current Profile
 
-The episode uses Pedro II as the imperial successor whose reign separated Brazil's national symbols from his father's unstable personal image. Brazil retained [[FranciscoManuelDaSilva]]'s tune through his era, even though coronation lyrics remained unsatisfactory and the anthem was often performed without fixed words. His reign also forms the backdrop for the War of the Triple Alliance, continued slave revolts, abolition in 1888, and the republic's later symbolic inheritance.
+The anthem source uses Pedro II as the imperial successor under whom Brazilian symbols became less personal to [[DomPedroI]] and more nationally reusable. The biographical episode deepens that profile: an isolated education produced strong interests in languages, photography, astronomy, natural history, and European intellectual life, while his patronage helped construct a tropical national culture that largely omitted slavery.
+
+The sources make his anti-slavery reputation qualified rather than simple. He freed the enslaved people he inherited and privately condemned slavery, but moved gradually because the [[BrazilianEmpire]] depended on slaveholding elites. Abolition in 1888 strengthened his later moral memory while helping drive coffee planters away from the monarchy. His refusal to resist the 1889 military coup then made regime collapse swift and comparatively bloodless.
 
 ## Key Characteristics
 
-- Became heir when [[DomPedroI]] abdicated in favor of his five-year-old son.
-- Reigned during a period when Brazil developed a stronger distinct tropical national identity.
-- Associated with continued political turbulence, the War of the Triple Alliance, slave revolts, and abolition.
-- His coronation generated lyrics that did not solve the anthem's textual problem.
-- His fall cleared the way for [[DeodoroDaFonseca]]'s republic while the anthem tune survived.
+- Became emperor before age six after [[DomPedroI]] abdicated, then was crowned early as a focus for imperial stability.
+- Developed broad linguistic, scientific, photographic, and natural-historical interests through an intensely controlled education.
+- Sponsored a distinctive tropical national culture while its official imagery largely excluded slavery.
+- Personally condemned slavery and freed the people he inherited, but accepted gradual reform while his regime depended on slaveholding elites.
+- Became associated with abolition even though he was abroad in 1888 and did not enact final emancipation personally.
+- Declined armed resistance to the 1889 coup, allowing [[DeodoroDaFonseca]]'s republic to replace the empire while older national symbols survived.
 
 ## Evidence
 
-- Succession: [[681-brazil-the-emperors-anthem-part-5-glt5596929385]] says Pedro I abdicated in favor of his five-year-old son, the future Pedro II.
-- National identity: [[681-brazil-the-emperors-anthem-part-5-glt5596929385]] says Brazil under Pedro II developed a stronger distinct tropical identity.
-- Anthem and regime afterlife: [[681-brazil-the-emperors-anthem-part-5-glt5596929385]] says lyrics written for Pedro II's coronation were unsatisfactory and that the republic later kept the older tune.
+- Succession and symbolic continuity: [[681-brazil-the-emperors-anthem-part-5-glt5596929385]] says Pedro I abdicated for his five-year-old son, links Pedro II's reign to a stronger tropical identity, and shows the republic retaining the older anthem tune after his fall.
+- Education and cultural patronage: [[268-brazil-the-last-emperor-glt5634696575]] connects Pedro II's isolated childhood to his languages and scientific interests, then describes support for writers, artists, researchers, and institutions.
+- Slavery and reform: [[268-brazil-the-last-emperor-glt5634696575]] says Pedro II freed the enslaved people he inherited and condemned slavery privately, but delayed decisive action because of elite dependence.
+- Abolition and regime collapse: [[268-brazil-the-last-emperor-glt5634696575]] links 1888 emancipation to planter defection and says Pedro II declined to mobilize troops against the 1889 coup.
 
 ## Qualifications
 
-This page is bounded to the anthem episode's treatment of Pedro II. It does not reconstruct his full reign, political program, or abolition-era politics.
+The profile is source-bounded and should not turn a personally anti-slavery monarch into the sole author of abolition. The newer episode is openly sympathetic, acknowledges his caution and dependence on slaveholders, gives limited agency to enslaved and Indigenous Brazilians, and does not independently establish its demographic figures, private motives, or comparison between imperial and republican stability.
 
 ## What Changed
 
-- Created Pedro II as the imperial continuity and anthem-transition figure.
+- Recast Pedro II from an anthem-transition figure into a qualified profile of scientific patronage, selective nation-building, and constrained anti-slavery politics.
+- Distinguished personal opposition to slavery from decisive abolitionist action.
+- Connected abolition-era planter defection and Pedro II's refusal of armed resistance to the monarchy's fall.
 
 ## Relationships
 
@@ -48,3 +55,4 @@ This page is bounded to the anthem episode's treatment of Pedro II. It does not 
 - [[BrazilianNationalAnthem]] - song whose tune remained usable through and beyond his reign.
 - [[DeodoroDaFonseca]] - republican successor figure whose regime kept the old tune.
 - [[SlaveryNationalIdentityContradiction]] - concept qualifying imperial identity and abolition memory.
+- [[AbolitionMonarchyCoalitionCollapse]] - mechanism connecting emancipation, planter defection, and the end of his regime.

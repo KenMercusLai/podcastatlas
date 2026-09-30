@@ -4739,6 +4739,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/concepts/abnormalfindingfollowupcontinuity/"
     },
+    "AbolitionMonarchyCoalitionCollapse": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5634696575 [GLT5634696575].md",
+          "key": "268-brazil-the-last-emperor-glt5634696575",
+          "show": "The Rest Is History",
+          "title": "268: Brazil: The Last Emperor",
+          "url": "/wiki/sources/268-brazil-the-last-emperor-glt5634696575/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/abolitionmonarchycoalitioncollapse/"
+    },
     "AbolitionistPublicWitness": {
       "episode_count": 1,
       "show_count": 1,
@@ -21750,9 +21766,9 @@
       "url": "/wiki/concepts/brazilfiscalpoliticalstalemate/"
     },
     "BrazilianEmpire": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5596929385 [GLT5596929385].md",
@@ -21760,9 +21776,16 @@
           "show": "The Rest Is History",
           "title": "681. Brazil: The Emperor's Anthem (Part 5)",
           "url": "/wiki/sources/681-brazil-the-emperors-anthem-part-5-glt5596929385/"
+        },
+        {
+          "episode_file": "GLT5634696575 [GLT5634696575].md",
+          "key": "268-brazil-the-last-emperor-glt5634696575",
+          "show": "The Rest Is History",
+          "title": "268: Brazil: The Last Emperor",
+          "url": "/wiki/sources/268-brazil-the-last-emperor-glt5634696575/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-30",
       "url": "/wiki/entities/brazilianempire/"
     },
     "BrazilianFlag": {
@@ -44549,9 +44572,9 @@
       "url": "/wiki/concepts/dentalproviderqualificationassessment/"
     },
     "DeodoroDaFonseca": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5596929385 [GLT5596929385].md",
@@ -44559,9 +44582,16 @@
           "show": "The Rest Is History",
           "title": "681. Brazil: The Emperor's Anthem (Part 5)",
           "url": "/wiki/sources/681-brazil-the-emperors-anthem-part-5-glt5596929385/"
+        },
+        {
+          "episode_file": "GLT5634696575 [GLT5634696575].md",
+          "key": "268-brazil-the-last-emperor-glt5634696575",
+          "show": "The Rest Is History",
+          "title": "268: Brazil: The Last Emperor",
+          "url": "/wiki/sources/268-brazil-the-last-emperor-glt5634696575/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-30",
       "url": "/wiki/entities/deodorodafonseca/"
     },
     "DermatologicRenewalAndCancerPrevention": {
@@ -46649,9 +46679,9 @@
       "url": "/wiki/entities/domjoaovi/"
     },
     "DomPedroI": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5596929385 [GLT5596929385].md",
@@ -46659,15 +46689,22 @@
           "show": "The Rest Is History",
           "title": "681. Brazil: The Emperor's Anthem (Part 5)",
           "url": "/wiki/sources/681-brazil-the-emperors-anthem-part-5-glt5596929385/"
+        },
+        {
+          "episode_file": "GLT5634696575 [GLT5634696575].md",
+          "key": "268-brazil-the-last-emperor-glt5634696575",
+          "show": "The Rest Is History",
+          "title": "268: Brazil: The Last Emperor",
+          "url": "/wiki/sources/268-brazil-the-last-emperor-glt5634696575/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-30",
       "url": "/wiki/entities/dompedroi/"
     },
     "DomPedroII": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5596929385 [GLT5596929385].md",
@@ -46675,9 +46712,16 @@
           "show": "The Rest Is History",
           "title": "681. Brazil: The Emperor's Anthem (Part 5)",
           "url": "/wiki/sources/681-brazil-the-emperors-anthem-part-5-glt5596929385/"
+        },
+        {
+          "episode_file": "GLT5634696575 [GLT5634696575].md",
+          "key": "268-brazil-the-last-emperor-glt5634696575",
+          "show": "The Rest Is History",
+          "title": "268: Brazil: The Last Emperor",
+          "url": "/wiki/sources/268-brazil-the-last-emperor-glt5634696575/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-30",
       "url": "/wiki/entities/dompedroii/"
     },
     "DomainSpecificSuperintelligence": {
@@ -159618,9 +159662,9 @@
       "url": "/wiki/concepts/slaveproducedgoodsboycott/"
     },
     "SlaveryNationalIdentityContradiction": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5596929385 [GLT5596929385].md",
@@ -159635,9 +159679,16 @@
           "show": "The Rest Is History",
           "title": "677. USA: The Star-Spangled Banner (Part 1)",
           "url": "/wiki/sources/677-usa-the-star-spangled-banner-part-1-glt7890467734/"
+        },
+        {
+          "episode_file": "GLT5634696575 [GLT5634696575].md",
+          "key": "268-brazil-the-last-emperor-glt5634696575",
+          "show": "The Rest Is History",
+          "title": "268: Brazil: The Last Emperor",
+          "url": "/wiki/sources/268-brazil-the-last-emperor-glt5634696575/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-09-30",
       "url": "/wiki/concepts/slaverynationalidentitycontradiction/"
     },
     "SleepAnxietyLoop": {

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2216
+topic_total_pages: 2217
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4752,6 +4752,9 @@ topic_sources:
   - key: "171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962"
     title: "171.闲聊十二生肖之马：观音大士的兴趣爱好,及老头环角色的灵感"
     url: "/wiki/sources/171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962/"
+  - key: "268-brazil-the-last-emperor-glt5634696575"
+    title: "268: Brazil: The Last Emperor"
+    url: "/wiki/sources/268-brazil-the-last-emperor-glt5634696575/"
   - key: "269-ghana-the-ashanti-empire-glt3638102749"
     title: "269: Ghana: The Ashanti Empire"
     url: "/wiki/sources/269-ghana-the-ashanti-empire-glt3638102749/"

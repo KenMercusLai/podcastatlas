@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 8894
+wiki_total_pages: 8895
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -44,6 +44,9 @@ wiki_pages:
   - key: "AbleistCurePressure"
     title: "Ableist Cure Pressure / 健全中心主义治愈压力"
     url: "/wiki/concepts/ableistcurepressure/"
+  - key: "AbolitionMonarchyCoalitionCollapse"
+    title: "Abolition Monarchy Coalition Collapse"
+    url: "/wiki/concepts/abolitionmonarchycoalitioncollapse/"
   - key: "AbolitionistPublicWitness"
     title: "Abolitionist Public Witness"
     url: "/wiki/concepts/abolitionistpublicwitness/"
