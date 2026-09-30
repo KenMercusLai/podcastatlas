@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How Meditation Works & Science-Based Effective Meditations](sources/how-meditation-works-science-based-effective-meditations-scim5642770846.md) — Huberman Lab episode on state-matched inward and outward attention, refocusing practice, meditation dose, breathing, and the boundary between meditation and deep rest.
 - [AMA #1: Leveraging Ultradian Cycles, How to Protect Your Brain, Seed Oils Examined and More](sources/ama-1-leveraging-ultradian-cycles-how-to-protect-your-brain-seed-oils-examined-and-more-scim2378383211.md) — Huberman Lab premium AMA separating strong morning-light guidance from broader nature benefits and uncertain grounding or negative-ion mechanisms.
 - [249. Treason in Modern Britain (Part 2)](sources/249-treason-in-modern-britain-part-2-glt2159531504.md) — The Rest Is History episode on treason as a changing contest over monarchy, Parliament, state, nation, republic, evidence, and political legitimacy.
 - [250. Alfred the Great: Fury of the Vikings (Part 1)](sources/250-alfred-the-great-fury-of-the-vikings-part-1-glt7924523463.md) — The Rest Is History episode on Alfred's formation, the Great Heathen Army, Viking operational mobility, divided Anglo-Saxon kingdoms, source bias, and the Chippenham crisis of 878.
@@ -14878,6 +14879,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Roger Berkowitz](entities/RogerBerkowitz.md) — Political theorist reconstructing Hannah Arendt's account of friendship, plurality, truth, and reciprocal persuasion.
 
 ## Concepts
+- [Meditation Attention-Mode Selection](concepts/MeditationAttentionModeSelection.md) — State-dependent choice among inward-focused, outward-focused, and attention-switching practices to build flexible attentional control.
+- [Meditation as Refocusing Practice](concepts/MeditationRefocusingPractice.md) — Model treating detection and return after mind wandering as the central meditation repetition.
 - [Nature Exposure Health Evidence](concepts/NatureExposureHealthEvidence.md) — Evidence hierarchy separating whole-experience nature benefits from stronger morning-light evidence and weaker grounding, ionization, forest-bathing, or indoor-plant mechanisms.
 - [Conflict Reporting Access Bias / 冲突报道准入偏差](concepts/ConflictReportingAccessBias.md) — How language, class, politics, intermediaries, surveillance, and safety select the people and evidence visible to a reporter.
 - [Independent Conflict Reporting Risk / 独立冲突报道风险](concepts/IndependentConflictReportingRisk.md) — Transfer of financial, logistical, physical, legal, and psychological conflict-reporting burdens from institutions to individuals.

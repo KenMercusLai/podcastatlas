@@ -15097,9 +15097,9 @@
       "url": "/wiki/concepts/attentionforagingmodel/"
     },
     "AttentionPresenceAndHappiness": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM9472441223 [SCIM9472441223].md",
@@ -15107,6 +15107,13 @@
           "show": "Huberman Lab",
           "title": "Science-Based Tools for Increasing Happiness",
           "url": "/wiki/sources/science-based-tools-for-increasing-happiness-scim9472441223/"
+        },
+        {
+          "episode_file": "SCIM5642770846 [SCIM5642770846].md",
+          "key": "how-meditation-works-science-based-effective-meditations-scim5642770846",
+          "show": "Huberman Lab",
+          "title": "How Meditation Works & Science-Based Effective Meditations",
+          "url": "/wiki/sources/how-meditation-works-science-based-effective-meditations-scim5642770846/"
         }
       ],
       "updated": "2026-09-30",
@@ -119081,6 +119088,38 @@
       "updated": "2026-09-30",
       "url": "/wiki/concepts/medievalwelshcolonialrule/"
     },
+    "MeditationAttentionModeSelection": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5642770846 [SCIM5642770846].md",
+          "key": "how-meditation-works-science-based-effective-meditations-scim5642770846",
+          "show": "Huberman Lab",
+          "title": "How Meditation Works & Science-Based Effective Meditations",
+          "url": "/wiki/sources/how-meditation-works-science-based-effective-meditations-scim5642770846/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/meditationattentionmodeselection/"
+    },
+    "MeditationRefocusingPractice": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5642770846 [SCIM5642770846].md",
+          "key": "how-meditation-works-science-based-effective-meditations-scim5642770846",
+          "show": "Huberman Lab",
+          "title": "How Meditation Works & Science-Based Effective Meditations",
+          "url": "/wiki/sources/how-meditation-works-science-based-effective-meditations-scim5642770846/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/meditationrefocusingpractice/"
+    },
     "MediterraneanDietModernConstruction": {
       "episode_count": 1,
       "show_count": 1,
@@ -128750,9 +128789,9 @@
       "url": "/wiki/concepts/nonmoralpoliticalanalysis/"
     },
     "NonSleepDeepRestRecovery": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM8512997965 [SCIM8512997965].md",
@@ -128781,6 +128820,13 @@
           "show": "Huberman Lab",
           "title": "The Science of Creativity & How to Enhance Creative Innovation",
           "url": "/wiki/sources/the-science-of-creativity-how-to-enhance-creative-innovation-scim5096680097/"
+        },
+        {
+          "episode_file": "SCIM5642770846 [SCIM5642770846].md",
+          "key": "how-meditation-works-science-based-effective-meditations-scim5642770846",
+          "show": "Huberman Lab",
+          "title": "How Meditation Works & Science-Based Effective Meditations",
+          "url": "/wiki/sources/how-meditation-works-science-based-effective-meditations-scim5642770846/"
         }
       ],
       "updated": "2026-09-30",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 8953
+wiki_total_pages: 8955
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -518,6 +518,12 @@ wiki_pages:
   - key: "MedievalWelshColonialRule"
     title: "Medieval Welsh Colonial Rule"
     url: "/wiki/concepts/medievalwelshcolonialrule/"
+  - key: "MeditationRefocusingPractice"
+    title: "Meditation as Refocusing Practice"
+    url: "/wiki/concepts/meditationrefocusingpractice/"
+  - key: "MeditationAttentionModeSelection"
+    title: "Meditation Attention-Mode Selection"
+    url: "/wiki/concepts/meditationattentionmodeselection/"
   - key: "MeditativeStabilityPractice"
     title: "Meditative Stability Practice / 定力修行框架"
     url: "/wiki/concepts/meditativestabilitypractice/"

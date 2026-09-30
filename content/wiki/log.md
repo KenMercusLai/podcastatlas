@@ -25974,3 +25974,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-09-30] ingest | How Meditation Works & Science-Based Effective Meditations
+
+Added source `how-meditation-works-science-based-effective-meditations-scim5642770846`; created `MeditationAttentionModeSelection` and `MeditationRefocusingPractice`; and resynthesized `AttentionPresenceAndHappiness` and `NonSleepDeepRestRecovery` from their complete preserved evidence inventories. Core synthesis: meditation choice can be state-dependent, attentional return is the training repetition, and focus/refocus practice should remain distinct from yoga nidra or NSDR as deep-rest support. No settled contradiction was adopted. Interoception-dissociation, brain-region, duration, breathing, sleep-need, cortisol, and space-time-bridging claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
