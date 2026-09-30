@@ -1381,6 +1381,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "246-the-fall-of-liz-truss-glt3484252092": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "247-monty-patton-vs-the-nazis-glt2932235302": [
     {
       "key": "history",
@@ -45516,6 +45523,18 @@
       "url": "/topics/history/"
     }
   ],
+  "KwasiKwarteng": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "KyaClark": [
     {
       "key": "culture",
@@ -47953,6 +47972,13 @@
     }
   ],
   "LizFarmer": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "LizTruss": [
     {
       "key": "politics",
       "label": "Politics",
@@ -58004,6 +58030,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "PartyMembershipLeadershipSelection": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "PartyNetworkTreasonFraming": [
     {
       "key": "politics",
@@ -60003,6 +60036,13 @@
     }
   ],
   "PoliticalAssassinationEthics": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "PoliticalAuthorityCollapseCascade": [
     {
       "key": "politics",
       "label": "Politics",
@@ -65520,6 +65560,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "RishiSunak": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "RiskBearingReliefGovernance": [

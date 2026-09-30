@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 11565
+wiki_total_pages: 11568
 wiki_pages:
   - key: "KennedyAssassination"
     title: "Assassination of John F. Kennedy"
@@ -611,6 +611,9 @@ wiki_pages:
   - key: "Kusra"
     title: "Kusra"
     url: "/wiki/entities/kusra/"
+  - key: "KwasiKwarteng"
+    title: "Kwasi Kwarteng"
+    url: "/wiki/entities/kwasikwarteng/"
   - key: "KweichowMoutai"
     title: "Kweichow Moutai / 贵州茅台"
     url: "/wiki/entities/kweichowmoutai/"

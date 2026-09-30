@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2144
+topic_total_pages: 2145
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -4325,6 +4325,9 @@ topic_entities:
   - key: "KulvirTaggar"
     title: "Kulvir Taggar"
     url: "/wiki/entities/kulvirtaggar/"
+  - key: "KwasiKwarteng"
+    title: "Kwasi Kwarteng"
+    url: "/wiki/entities/kwasikwarteng/"
   - key: "KyleVogt"
     title: "Kyle Vogt"
     url: "/wiki/entities/kylevogt/"

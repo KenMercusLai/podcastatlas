@@ -875,6 +875,10 @@
     "title": "246. 杭州博物馆「一苇杭之」，好久没看过这么推荐的展览了",
     "url": "/wiki/sources/246-hangzhou-bowuguan-yiwei-hangzhi-haojiu-mei-kan-guo-zheme-tuijian-de-zhanlan-le-8217911423-973793/"
   },
+  "246-the-fall-of-liz-truss-glt3484252092": {
+    "title": "246. The Fall of Liz Truss",
+    "url": "/wiki/sources/246-the-fall-of-liz-truss-glt3484252092/"
+  },
   "247-monty-patton-vs-the-nazis-glt2932235302": {
     "title": "247. Monty & Patton vs. the Nazis",
     "url": "/wiki/sources/247-monty-patton-vs-the-nazis-glt2932235302/"
@@ -42107,6 +42111,10 @@
     "title": "Kusra",
     "url": "/wiki/entities/kusra/"
   },
+  "KwasiKwarteng": {
+    "title": "Kwasi Kwarteng",
+    "url": "/wiki/entities/kwasikwarteng/"
+  },
   "KweichowMoutai": {
     "title": "Kweichow Moutai / 贵州茅台",
     "url": "/wiki/entities/kweichowmoutai/"
@@ -45306,6 +45314,10 @@
   "LizFarmer": {
     "title": "Liz Farmer",
     "url": "/wiki/entities/lizfarmer/"
+  },
+  "LizTruss": {
+    "title": "Liz Truss",
+    "url": "/wiki/entities/liztruss/"
   },
   "LizWalters": {
     "title": "Liz Walters",
@@ -55543,6 +55555,10 @@
     "title": "Party Guitar",
     "url": "/wiki/entities/partyguitar/"
   },
+  "PartyMembershipLeadershipSelection": {
+    "title": "Party-Membership Leadership Selection",
+    "url": "/wiki/concepts/partymembershipleadershipselection/"
+  },
   "PartyNetworkTreasonFraming": {
     "title": "Party Network Treason Framing / 朋党网络谋反化",
     "url": "/wiki/concepts/partynetworktreasonframing/"
@@ -57506,6 +57522,10 @@
   "PoliticalAssassinationEthics": {
     "title": "Political Assassination Ethics / 政治刺杀伦理",
     "url": "/wiki/concepts/politicalassassinationethics/"
+  },
+  "PoliticalAuthorityCollapseCascade": {
+    "title": "Political Authority Collapse Cascade",
+    "url": "/wiki/concepts/politicalauthoritycollapsecascade/"
   },
   "PoliticalBiasInAIProcurement": {
     "title": "Political Bias In AI Procurement",
@@ -62826,6 +62846,10 @@
   "Rishengchang": {
     "title": "Rishengchang / 日升昌",
     "url": "/wiki/entities/rishengchang/"
+  },
+  "RishiSunak": {
+    "title": "Rishi Sunak",
+    "url": "/wiki/entities/rishisunak/"
   },
   "RiskBearingReliefGovernance": {
     "title": "担责开仓式救民 / Risk-Bearing Relief Governance",

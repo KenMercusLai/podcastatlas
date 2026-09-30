@@ -21317,6 +21317,29 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/borderlegalsignal/"
     },
+    "BorisJohnson": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Keep qualms and carry on： a decade after Brexit [6a3a53028a3c8822ab345d4b].md",
+          "key": "keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b",
+          "show": "Economist Podcasts",
+          "title": "Keep qualms and carry on: a decade after Brexit",
+          "url": "/wiki/sources/keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b/"
+        },
+        {
+          "episode_file": "GLT3484252092 [GLT3484252092].md",
+          "key": "246-the-fall-of-liz-truss-glt3484252092",
+          "show": "The Rest Is History",
+          "title": "246. The Fall of Liz Truss",
+          "url": "/wiki/sources/246-the-fall-of-liz-truss-glt3484252092/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/borisjohnson/"
+    },
     "BorrowedKnifeKilling": {
       "episode_count": 2,
       "show_count": 1,
@@ -22403,9 +22426,9 @@
       "url": "/wiki/concepts/breathinggearsco2tolerance/"
     },
     "Brexit": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "Keep qualms and carry on： a decade after Brexit [6a3a53028a3c8822ab345d4b].md",
@@ -22427,9 +22450,16 @@
           "show": "The Rest Is History",
           "title": "663. Britain in the 70s: The Brexit That Never Was (Part 2)",
           "url": "/wiki/sources/663-britain-in-the-70s-the-brexit-that-never-was-part-2-glt2237203377/"
+        },
+        {
+          "episode_file": "GLT3484252092 [GLT3484252092].md",
+          "key": "246-the-fall-of-liz-truss-glt3484252092",
+          "show": "The Rest Is History",
+          "title": "246. The Fall of Liz Truss",
+          "url": "/wiki/sources/246-the-fall-of-liz-truss-glt3484252092/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-09-30",
       "url": "/wiki/concepts/brexit/"
     },
     "BrexitEconomicFriction": {
@@ -58057,9 +58087,9 @@
       "url": "/wiki/concepts/europeandefenseautonomy/"
     },
     "EuropeanEnergySecurityDependence": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4625765030 [GLT4625765030].md",
@@ -58067,6 +58097,13 @@
           "show": "The Rest Is History",
           "title": "290: 2022: A History",
           "url": "/wiki/sources/290-2022-a-history-glt4625765030/"
+        },
+        {
+          "episode_file": "GLT3484252092 [GLT3484252092].md",
+          "key": "246-the-fall-of-liz-truss-glt3484252092",
+          "show": "The Rest Is History",
+          "title": "246. The Fall of Liz Truss",
+          "url": "/wiki/sources/246-the-fall-of-liz-truss-glt3484252092/"
         }
       ],
       "updated": "2026-09-29",
@@ -101404,6 +101441,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/kush/"
     },
+    "KwasiKwarteng": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3484252092 [GLT3484252092].md",
+          "key": "246-the-fall-of-liz-truss-glt3484252092",
+          "show": "The Rest Is History",
+          "title": "246. The Fall of Liz Truss",
+          "url": "/wiki/sources/246-the-fall-of-liz-truss-glt3484252092/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/kwasikwarteng/"
+    },
     "KyaClark": {
       "episode_count": 1,
       "show_count": 1,
@@ -110377,6 +110430,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/liyangyellowriverlatehan/"
+    },
+    "LizTruss": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3484252092 [GLT3484252092].md",
+          "key": "246-the-fall-of-liz-truss-glt3484252092",
+          "show": "The Rest Is History",
+          "title": "246. The Fall of Liz Truss",
+          "url": "/wiki/sources/246-the-fall-of-liz-truss-glt3484252092/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/liztruss/"
     },
     "LizWalters": {
       "episode_count": 1,
@@ -134939,6 +135008,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/concepts/partnershipboundaryrisk/"
     },
+    "PartyMembershipLeadershipSelection": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3484252092 [GLT3484252092].md",
+          "key": "246-the-fall-of-liz-truss-glt3484252092",
+          "show": "The Rest Is History",
+          "title": "246. The Fall of Liz Truss",
+          "url": "/wiki/sources/246-the-fall-of-liz-truss-glt3484252092/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/partymembershipleadershipselection/"
+    },
     "PartyNetworkTreasonFraming": {
       "episode_count": 3,
       "show_count": 1,
@@ -139498,6 +139583,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/politicalaccentprestige/"
+    },
+    "PoliticalAuthorityCollapseCascade": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3484252092 [GLT3484252092].md",
+          "key": "246-the-fall-of-liz-truss-glt3484252092",
+          "show": "The Rest Is History",
+          "title": "246. The Fall of Liz Truss",
+          "url": "/wiki/sources/246-the-fall-of-liz-truss-glt3484252092/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/politicalauthoritycollapsecascade/"
     },
     "PoliticalCaseEvidenceSkepticism": {
       "episode_count": 4,
@@ -152019,6 +152120,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/concepts/ringtakeencryption/"
+    },
+    "RishiSunak": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3484252092 [GLT3484252092].md",
+          "key": "246-the-fall-of-liz-truss-glt3484252092",
+          "show": "The Rest Is History",
+          "title": "246. The Fall of Liz Truss",
+          "url": "/wiki/sources/246-the-fall-of-liz-truss-glt3484252092/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/rishisunak/"
     },
     "RiskBearingReliefGovernance": {
       "episode_count": 1,

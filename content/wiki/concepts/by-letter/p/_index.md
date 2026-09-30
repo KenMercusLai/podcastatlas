@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8964
+wiki_total_pages: 8966
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -224,6 +224,9 @@ wiki_pages:
   - key: "PartyBanCrisisAmnesty"
     title: "Party-Ban Crisis Amnesty / 党锢危机赦免"
     url: "/wiki/concepts/partybancrisisamnesty/"
+  - key: "PartyMembershipLeadershipSelection"
+    title: "Party-Membership Leadership Selection"
+    url: "/wiki/concepts/partymembershipleadershipselection/"
   - key: "PassThroughBusinessTaxAdvantage"
     title: "Pass-Through Business Tax Advantage"
     url: "/wiki/concepts/passthroughbusinesstaxadvantage/"
@@ -995,6 +998,9 @@ wiki_pages:
   - key: "PoliticalAssassinationEthics"
     title: "Political Assassination Ethics / 政治刺杀伦理"
     url: "/wiki/concepts/politicalassassinationethics/"
+  - key: "PoliticalAuthorityCollapseCascade"
+    title: "Political Authority Collapse Cascade"
+    url: "/wiki/concepts/politicalauthoritycollapsecascade/"
   - key: "PoliticalBiasInAIProcurement"
     title: "Political Bias In AI Procurement"
     url: "/wiki/concepts/politicalbiasinaiprocurement/"

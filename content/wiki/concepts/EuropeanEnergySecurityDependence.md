@@ -4,6 +4,7 @@ type: concept
 tags: [europe, energy, geopolitics, security]
 sources:
   - 290-2022-a-history-glt4625765030
+  - 246-the-fall-of-liz-truss-glt3484252092
 last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
@@ -20,6 +21,8 @@ European energy security dependence is the strategic exposure created when Europ
 
 The historical comparison with the 1973 oil shock suggests a recurring mechanism: energy systems that appear efficient in normal conditions can become geopolitical constraints during conflict. The episode uses German policy under Schröder and [[AngelaMerkel]] as the sharpest example, while stopping short of treating gas purchases as identical to deliberate appeasement.
 
+The same exposure has an industrial pathway: if European energy remains substantially more expensive than energy in the United States or Russia, it may shift production and investment as well as constrain sanctions. This is a plausible risk mechanism, not evidence that continent-wide deindustrialization had already occurred.
+
 ## Key Claims
 
 - Energy sourcing can constrain sanctions, diplomacy, industry, and alliance bargaining as well as household prices.
@@ -27,6 +30,7 @@ The historical comparison with the 1973 oil shock suggests a recurring mechanism
 - The 1973 oil shock and the 2022 Russian-energy shock reveal a recurring gap between peacetime efficiency and crisis resilience.
 - Long political stability can conceal energy vulnerability rather than demonstrate strategic success.
 - Diversification, domestic capacity, storage, infrastructure, and demand adaptation are security questions, though the source does not compare specific remedies.
+- Persistent energy-price divergence can become an industrial-competitiveness risk as well as a household and diplomatic burden.
 
 ## Evidence
 
@@ -34,13 +38,15 @@ The historical comparison with the 1973 oil shock suggests a recurring mechanism
 - Sanctions asymmetry: [[290-2022-a-history-glt4625765030]] says the United States could sanction Russia at lower self-cost because it was less dependent and could export gas.
 - Historical recurrence: [[290-2022-a-history-glt4625765030]] compares the 2022 shock with 1973's revelation of dependence on imported Middle Eastern oil.
 - German case: [[290-2022-a-history-glt4625765030]] connects Schröder, Nord Stream, and Merkel-era gas policy to accumulated strategic exposure.
+- Industrial pathway: [[246-the-fall-of-liz-truss-glt3484252092]] connects expensive European energy to a possible divergence from energy-rich America and potential industrial relocation.
 
 ## Counterevidence & Qualifications
 
-The episode offers a high-level historical argument, not a measured comparison of national energy mixes, contract structures, infrastructure, prices, or policy alternatives. Europe is not a single energy system, and dependence on Russian gas differed across countries. Claims about deindustrialization, U.S.-European divergence, and the motives or avoidability of German policy remain source-scoped.
+The episodes offer high-level historical arguments, not measured comparisons of national energy mixes, contract structures, infrastructure, prices, firm relocation, or policy alternatives. Europe is not a single energy system, and dependence on Russian gas differed across countries. Claims about deindustrialization, U.S.-European divergence, and the motives or avoidability of German policy remain source-scoped.
 
 ## What Changed
 
+- Added the qualified pathway from energy-price disadvantage to industrial relocation or deindustrialization risk.
 - Established the concept from the episode's comparison of the 1973 and 2022 energy shocks.
 
 ## Related Concepts

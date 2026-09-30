@@ -26004,3 +26004,11 @@ Added source `the-science-of-learning-speaking-languages-dr-eddie-chang-scim2227
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-30] ingest | 246. The Fall of Liz Truss
+
+Added source `246-the-fall-of-liz-truss-glt3484252092`; created `LizTruss`, `KwasiKwarteng`, `RishiSunak`, `PartyMembershipLeadershipSelection`, and `PoliticalAuthorityCollapseCascade`; and resynthesized `BorisJohnson`, `Brexit`, and `EuropeanEnergySecurityDependence` from their complete preserved evidence inventories. Core synthesis: Truss's 45-day premiership became exceptional because policy failure, forced reversal, ally sacrifice, and parliamentary disorder formed a public authority-collapse cascade; the episode ties that failure to an activist-selector mismatch and competing post-Brexit programmes while separating external COVID and Ukraine shocks from domestic governing responsibility. No settled contradiction was adopted. Personal competence judgments, counterfactual interest-rate effects, selector psychology, and European deindustrialization remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,252-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

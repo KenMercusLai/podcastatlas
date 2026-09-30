@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [246. The Fall of Liz Truss](sources/246-the-fall-of-liz-truss-glt3484252092.md) — The Rest Is History episode on Truss's 45-day premiership, activist leader selection, cascading authority loss, competing Brexit programmes, and energy-driven industrial risk.
 - [247. Monty & Patton vs. the Nazis](sources/247-monty-patton-vs-the-nazis-glt2932235302.md) — The Rest Is History episode with Al Murray on morale, logistics, staff work, public image, institutional learning, and the continuing role of commanders in industrial war.
 - [248. Medieval Treason (Part 1)](sources/248-medieval-treason-part-1-glt9532907553.md) — The Rest Is History episode on the Treason Act 1351/1352, medieval royal allegiance, attainder, exemplary punishment, Tudor legal expansion, and the shift toward institutional treason.
 - [How Meditation Works & Science-Based Effective Meditations](sources/how-meditation-works-science-based-effective-meditations-scim5642770846.md) — Huberman Lab episode on state-matched inward and outward attention, refocusing practice, meditation dose, breathing, and the boundary between meditation and deep rest.
@@ -3299,6 +3300,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Science of Learning & Speaking Languages | Dr. Eddie Chang](sources/the-science-of-learning-speaking-languages-dr-eddie-chang-scim2227065926.md) — Full Huberman Lab interview on auditory critical periods, awake cortical mapping, epilepsy, distributed speech-language circuits, bilingual learning, and BRAVO speech neuroprosthetics.
 
 ## Entities
+- [Liz Truss](entities/LizTruss.md) — British prime minister whose 45-day tenure became a case of rapid policy and political-authority collapse.
+- [Kwasi Kwarteng](entities/KwasiKwarteng.md) — Truss's chancellor, associated with the mini-budget and the failed attempt to restore authority by dismissing a close ally.
+- [Rishi Sunak](entities/RishiSunak.md) — Conservative leadership rival used to examine activist preference, competence, authenticity, and succession resentment.
 - [Al Murray](entities/AlMurray.md) — Author and broadcaster presenting a systems-centered account of Allied Second World War command.
 - [Bernard Montgomery](entities/BernardMontgomery.md) — British commander framed through morale, discipline, welfare, and institutional effectiveness.
 - [William Slim](entities/WilliamSlim.md) — Burma commander presented as rebuilding and adapting a diverse imperial army.
@@ -13598,7 +13602,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dimensity 9500](entities/Dimensity9500.md) — MediaTek smartphone-chip platform used as the vivo/MediaTek case for early AI compute, NPU, and terminal-chip co-design.
 - [United Kingdom](entities/UnitedKingdom.md) — Country case where Brexit reshaped trade, immigration expectations, strategic identity, and later Labour leadership instability under Starmer.
 - [David Cameron](entities/DavidCameron.md) — British prime minister whose 2013 EU referendum promise is framed as turning Conservative pressure into a national Brexit rupture.
-- [Boris Johnson](entities/BorisJohnson.md) — Brexit figure whose Leave support and later hard-Brexit government are tied to economic friction and post-Brexit migration disappointment.
+- [Boris Johnson](entities/BorisJohnson.md) — Brexit figure whose Leave role, harder settlement, migration record, fall, and succession influence connect referendum politics to later governing instability.
 - [Daniel Franklin](entities/DanielFranklin.md) — The Intelligence participant framing Brexit as a continuing source of British political churn and strategic-identity uncertainty.
 - [Tom Carter](entities/TomCarter.md) — The Intelligence participant explaining Brexit's GDP, goods-export, services, finance, and professional-qualification frictions.
 - [Georgia Banjo](entities/GeorgiaBanjo.md) — The Intelligence participant analyzing AI as a possible but limited post-Brexit regulatory opportunity for Britain.
@@ -14894,6 +14898,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Roger Berkowitz](entities/RogerBerkowitz.md) — Political theorist reconstructing Hannah Arendt's account of friendship, plurality, truth, and reciprocal persuasion.
 
 ## Concepts
+- [Party-Membership Leadership Selection](concepts/PartyMembershipLeadershipSelection.md) — Tradeoff between wider internal participation and the representativeness, parliamentary support, and governing viability of party leaders.
+- [Political Authority Collapse Cascade](concepts/PoliticalAuthorityCollapseCascade.md) — Sequence in which policy failure, forced reversal, ally sacrifice, and elite defection reveal and accelerate a leader's loss of control.
 - [Systems-Era Generalship](concepts/SystemsEraGeneralship.md) — Command in industrial mass warfare as the integration of institutions, logistics, staff work, morale, communication, and judgment.
 - [Military Morale as Combat Capacity](concepts/MilitaryMoraleAsCombatCapacity.md) — Morale, care, training, health, and trust treated as operational inputs to fighting effectiveness.
 - [Open-Culture Military Learning](concepts/OpenCultureMilitaryLearning.md) — Qualified hypothesis that open institutions adapt and correct wartime failure more effectively.
@@ -20008,7 +20014,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Elite Cosmopolitan Mobility](concepts/EliteCosmopolitanMobility.md) — Class, language, passport, and network conditions that make world-citizen travel available to some people more than others.
 - [European Integration As War Prevention](concepts/EuropeanIntegrationWarPrevention.md) — Bounded claim that shared institutions and industrial chains can lower internal war risk while commerce alone cannot prevent external coercion.
 - [Post-Cold War Order Rupture](concepts/PostColdWarOrderRupture.md) — Interpretation of Russia's 2022 invasion as exposing or ending the immediate post-1990 European security order.
-- [European Energy Security Dependence](concepts/EuropeanEnergySecurityDependence.md) — Strategic exposure created when European energy imports constrain sanctions, industry, and alliance action during conflict.
+- [European Energy Security Dependence](concepts/EuropeanEnergySecurityDependence.md) — Strategic exposure through which imported energy constrains sanctions, households, industry, and alliance action during conflict.
 - [Passport Mobility Inequality](concepts/PassportMobilityInequality.md) — Difference between borderless travel for strong passport holders and permit-heavy travel for others.
 - [European Language Friction](concepts/EuropeanLanguageFriction.md) — European language diversity as both cultural asset and practical barrier to social and political integration.
 - [European Identity Class Gradient](concepts/EuropeanIdentityClassGradient.md) — Uneven distribution of European identity across education, mobility, class, language, and locality.
@@ -22743,7 +22749,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Handset-Chip Co-Design](concepts/HandsetChipCoDesign.md) — Cooperation pattern where terminal scenarios are translated into chip architecture, NPU, bandwidth, power, and thermal decisions years ahead.
 - [Foldable Phone Productivity](concepts/FoldablePhoneProductivity.md) — Foldable-phone value test where larger screens must enable multitasking, documents, meetings, and AI-assisted work rather than only bigger viewing.
 - [Edge-Cloud AI Boundary](concepts/EdgeCloudAIBoundary.md) — Practical split between terminal-side sensing, memory, privacy, and low-latency work versus cloud-side heavy reasoning and generation.
-- [Brexit](concepts/Brexit.md) — United Kingdom departure from the European Union, framed as a cumulative political, economic, immigration, regulatory, strategic, and historically rooted rupture.
+- [Brexit](concepts/Brexit.md) — United Kingdom departure from the European Union, framed as a cumulative rupture whose referendum coalition did not settle one governing model.
 - [Brexit Economic Friction](concepts/BrexitEconomicFriction.md) — Cumulative trade, GDP, finance, professional-qualification, and investment drag rather than a single immediate Brexit crash.
 - [Brexit Regulatory Dividend](concepts/BrexitRegulatoryDividend.md) — Hoped-for post-EU policy freedom that produced narrow flexibility but not the broad Singapore-on-Thames deregulation payoff.
 - [Post-Brexit Immigration Politics](concepts/PostBrexitImmigrationPolitics.md) — Tension between take-back-control migration rhetoric and later non-EU migration growth under Britain's post-Brexit system.

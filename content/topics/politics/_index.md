@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2865
+topic_total_pages: 2870
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2626,6 +2626,9 @@ topic_concepts:
   - key: "PartyBanCrisisAmnesty"
     title: "Party-Ban Crisis Amnesty / 党锢危机赦免"
     url: "/wiki/concepts/partybancrisisamnesty/"
+  - key: "PartyMembershipLeadershipSelection"
+    title: "Party-Membership Leadership Selection"
+    url: "/wiki/concepts/partymembershipleadershipselection/"
   - key: "PassiveInvestingGovernance"
     title: "Passive Investing Governance"
     url: "/wiki/concepts/passiveinvestinggovernance/"
@@ -2764,6 +2767,9 @@ topic_concepts:
   - key: "PoliticalAssassinationEthics"
     title: "Political Assassination Ethics / 政治刺杀伦理"
     url: "/wiki/concepts/politicalassassinationethics/"
+  - key: "PoliticalAuthorityCollapseCascade"
+    title: "Political Authority Collapse Cascade"
+    url: "/wiki/concepts/politicalauthoritycollapsecascade/"
   - key: "PoliticalBiasInAIProcurement"
     title: "Political Bias In AI Procurement"
     url: "/wiki/concepts/politicalbiasinaiprocurement/"
@@ -5930,6 +5936,9 @@ topic_entities:
   - key: "KurtVonSchuschnigg"
     title: "Kurt von Schuschnigg"
     url: "/wiki/entities/kurtvonschuschnigg/"
+  - key: "KwasiKwarteng"
+    title: "Kwasi Kwarteng"
+    url: "/wiki/entities/kwasikwarteng/"
   - key: "Kyiv"
     title: "Kyiv"
     url: "/wiki/entities/kyiv/"
@@ -5996,6 +6005,9 @@ topic_entities:
   - key: "LizFarmer"
     title: "Liz Farmer"
     url: "/wiki/entities/lizfarmer/"
+  - key: "LizTruss"
+    title: "Liz Truss"
+    url: "/wiki/entities/liztruss/"
   - key: "London"
     title: "London"
     url: "/wiki/entities/london/"
@@ -6509,6 +6521,9 @@ topic_entities:
   - key: "RingSearchParty"
     title: "Ring Search Party"
     url: "/wiki/entities/ringsearchparty/"
+  - key: "RishiSunak"
+    title: "Rishi Sunak"
+    url: "/wiki/entities/rishisunak/"
   - key: "RobertFKennedy"
     title: "Robert F. Kennedy"
     url: "/wiki/entities/robertfkennedy/"
