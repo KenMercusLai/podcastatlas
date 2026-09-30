@@ -26264,3 +26264,11 @@ Added source `228-portugal-the-golden-age-of-discovery-part-2-glt7949934800`; cr
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | Focus Toolkit: Tools to Improve Your Focus & Concentration
+
+Added source `focus-toolkit-tools-to-improve-your-focus-concentration-scim5273827033`; created `FocusTrainingToolkit`; and resynthesized `MeditationRefocusingPractice`, `UltradianDeepWorkBlock`, `NonSleepDeepRestRecovery`, `VisualFocusEffortTool`, `SoundBasedStateRegulation`, and `NeuromodulatorStateToolkit` from their complete preserved evidence inventories. Core synthesis: focus is a trainable cycle of readiness, warm-up, selective attention, recovery after distraction, bounded effort, and deliberate defocus; behavioral foundations precede optional state tools, supplements, or clinician-supervised prescriptions. No settled contradiction was adopted. The 90-minute work rhythm, 13-minute meditation outcomes, NSDR recovery, 40 Hz binaural beats, visual fixation, acute stress, cold exposure, supplement doses, and neurochemical arrow metaphor remain source-scoped or qualified. The automatic `wiki/overview.md` was read for context but not manually rewritten because this 2022 episode is a conceptual backfill rather than a change to the global current synthesis.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

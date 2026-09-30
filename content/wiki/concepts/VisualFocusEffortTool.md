@@ -4,8 +4,9 @@ type: concept
 tags: [attention, vision, motivation, effort]
 sources:
   - goals-toolkit-how-to-set-achieve-your-goals-scim1532399364
+  - focus-toolkit-tools-to-improve-your-focus-concentration-scim5273827033
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-28
+last_updated: 2026-10-01
 ---
 
 # Visual Focus Effort Tool
@@ -14,7 +15,7 @@ last_updated: 2026-09-28
 The visual focus effort tool is the source's proposal that briefly narrowing gaze onto a task-relevant target can increase alertness and engagement and may reduce perceived effort during goal pursuit.
 
 ## Current Synthesis
-[[goals-toolkit-how-to-set-achieve-your-goals-scim1532399364]] links visual aperture to task state: a narrow target is used for activation, while panoramic viewing is used periodically for relaxation and eye comfort. The practical protocol proposes focusing at the relevant working distance for roughly 30-90 seconds while allowing blinking.
+[[goals-toolkit-how-to-set-achieve-your-goals-scim1532399364]] links visual aperture to task state: a narrow target is used for activation, while panoramic viewing is used periodically for relaxation and eye comfort. Its practical protocol proposes focusing at the relevant working distance for roughly 30-90 seconds while allowing blinking. [[focus-toolkit-tools-to-improve-your-focus-concentration-scim5273827033]] broadens the example to 30 seconds through three minutes and distinguishes overt focus on the target from covert attention directed away from where the eyes remain fixed.
 
 The reliable conceptual contribution is that attention can be shaped through the visual environment. Claims about blood pressure, brainstem neurochemistry, dopamine, perceived effort, and completion time remain source-scoped pending the underlying study details.
 
@@ -24,21 +25,25 @@ The reliable conceptual contribution is that attention can be shaped through the
 - The target should be relevant to the task distance rather than an arbitrary permanent cue.
 - Blinking remains allowed; the protocol is sustained attention, not unbroken staring.
 - Panoramic viewing can be interleaved to relax the visual system and reduce fatigue.
+- Overt gaze and covert attention are separable, so eye direction alone does not prove where cognitive attention is placed.
 
 ## Evidence
 - Practical protocol - [[goals-toolkit-how-to-set-achieve-your-goals-scim1532399364]] proposes 30-90 seconds of narrow focus on a task-relevant visual target.
 - Perceived-effort claim - [[goals-toolkit-how-to-set-achieve-your-goals-scim1532399364]] attributes target-focus findings to [[EmilyBalcetis]]'s laboratory.
 - Recovery branch - [[goals-toolkit-how-to-set-achieve-your-goals-scim1532399364]] recommends occasional panoramic viewing rather than continuous narrowing.
+- Attention-mode distinction - [[focus-toolkit-tools-to-improve-your-focus-concentration-scim5273827033]] distinguishes direct overt focus from covert attention and presents brief fixation as an entry or re-entry tool.
 
 ## Counterevidence & Qualifications
-The source note does not provide study populations, effect sizes, task types, replication status, or complete safety criteria. A brief gaze exercise is not treatment for attention disorders, visual problems, anxiety, fatigue, or cardiovascular disease. Discomfort, headache, dizziness, or eyestrain are reasons to stop rather than intensify the protocol.
+The source notes do not provide study populations, effect sizes, task types, replication status, or complete safety criteria, and their 30-90-second versus up-to-three-minute ranges do not establish an optimal duration. A brief gaze exercise is not treatment for attention disorders, visual problems, anxiety, fatigue, or cardiovascular disease. Discomfort, headache, dizziness, or eyestrain are reasons to stop rather than intensify the protocol.
 
 ## What Changed
-- Added the wiki's first dedicated synthesis of narrow visual targeting as a proposed effort and motivation tool.
+- Added overt-versus-covert attention and the broader 30-second-to-three-minute source range.
+- Preserved the shorter prior protocol as an example rather than declaring a single optimum.
 
 ## Related Concepts
 - [[GoalPursuitBehaviorDesign]] - broader toolkit that places gaze control inside a scheduled work session.
 - [[AttentionCapacitySelection]] - general account of selecting goal-relevant information.
 - [[SelectiveAuditoryAttention]] - parallel sensory-selection mechanism in hearing.
 - [[OperationalDetachment]] - complementary widening-of-view tool used for perspective rather than activation.
-- [[VisualCognitiveOffloading]] - adjacent use of the visual field to support cognition.
+- [[VisualSystemHealthToolkit]] - broader visual-use framework that bounds narrow focus with varied distance and panoramic viewing.
+- [[FocusTrainingToolkit]] - broader behavior-first context for using fixation as an optional state cue.

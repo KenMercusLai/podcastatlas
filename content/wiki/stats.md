@@ -11,22 +11,22 @@ outputs: ["html"]
 
 ## Pages
 - Overview: 1
-- Concepts: 9021
+- Concepts: 9022
 - Entities: 11635
-- Sources: 3282
-- Total wiki content pages: 23939
+- Sources: 3283
+- Total wiki content pages: 23941
 
 ## Links
-- Wiki link references: 584921
-- Unique wiki link targets: 23949
-- Missing targets: 12
+- Wiki link references: 584982
+- Unique wiki link targets: 23950
+- Missing targets: 11
 - Exact duplicate keys: 0
 - Case-insensitive key collisions: 0
 - Public route collisions: 0
 
 ## Source Episodes
-- Source pages: 3282
-- Matched episodes: 3282
+- Source pages: 3283
+- Matched episodes: 3283
 - Missing source_file: 0
 - Unmatched source_file: 0
 
@@ -59,7 +59,5 @@ outputs: ["html"]
   - `content/wiki/sources/how-risk-taking-innovation-artificial-intelligence-transform-human-experience-marc-andreessen-scim7464698870.md`
 - `[[SupplementContaminationAndMislabelling]]`
   - `content/wiki/concepts/ShilajitEvidenceBoundary.md`
-- `[[VisualCognitiveOffloading]]`
-  - `content/wiki/concepts/VisualFocusEffortTool.md`
 
 All wiki source pages resolve to episode pages.

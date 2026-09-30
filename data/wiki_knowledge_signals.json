@@ -65892,6 +65892,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/flywheelwordpresshosting/"
     },
+    "FocusTrainingToolkit": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5273827033 [SCIM5273827033].md",
+          "key": "focus-toolkit-tools-to-improve-your-focus-concentration-scim5273827033",
+          "show": "Huberman Lab",
+          "title": "Focus Toolkit: Tools to Improve Your Focus & Concentration",
+          "url": "/wiki/sources/focus-toolkit-tools-to-improve-your-focus-concentration-scim5273827033/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/focustrainingtoolkit/"
+    },
     "FocusedUltrasoundNeuromodulation": {
       "episode_count": 2,
       "show_count": 1,
@@ -121323,9 +121339,9 @@
       "url": "/wiki/concepts/meditationattentionmodeselection/"
     },
     "MeditationRefocusingPractice": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM5642770846 [SCIM5642770846].md",
@@ -121333,9 +121349,16 @@
           "show": "Huberman Lab",
           "title": "How Meditation Works & Science-Based Effective Meditations",
           "url": "/wiki/sources/how-meditation-works-science-based-effective-meditations-scim5642770846/"
+        },
+        {
+          "episode_file": "SCIM5273827033 [SCIM5273827033].md",
+          "key": "focus-toolkit-tools-to-improve-your-focus-concentration-scim5273827033",
+          "show": "Huberman Lab",
+          "title": "Focus Toolkit: Tools to Improve Your Focus & Concentration",
+          "url": "/wiki/sources/focus-toolkit-tools-to-improve-your-focus-concentration-scim5273827033/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/meditationrefocusingpractice/"
     },
     "MediterraneanDietModernConstruction": {
@@ -129489,9 +129512,9 @@
       "url": "/wiki/concepts/neurodivergentaiaugmentation/"
     },
     "NeuromodulatorStateToolkit": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM6495209379 [SCIM6495209379].md",
@@ -129506,9 +129529,16 @@
           "show": "Huberman Lab",
           "title": "Leverage Dopamine to Overcome Procrastination & Optimize Effort",
           "url": "/wiki/sources/leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288/"
+        },
+        {
+          "episode_file": "SCIM5273827033 [SCIM5273827033].md",
+          "key": "focus-toolkit-tools-to-improve-your-focus-concentration-scim5273827033",
+          "show": "Huberman Lab",
+          "title": "Focus Toolkit: Tools to Improve Your Focus & Concentration",
+          "url": "/wiki/sources/focus-toolkit-tools-to-improve-your-focus-concentration-scim5273827033/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/neuromodulatorstatetoolkit/"
     },
     "Neuroplasticity": {
@@ -131237,9 +131267,9 @@
       "url": "/wiki/concepts/nonmoralpoliticalanalysis/"
     },
     "NonSleepDeepRestRecovery": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM8512997965 [SCIM8512997965].md",
@@ -131275,9 +131305,16 @@
           "show": "Huberman Lab",
           "title": "How Meditation Works & Science-Based Effective Meditations",
           "url": "/wiki/sources/how-meditation-works-science-based-effective-meditations-scim5642770846/"
+        },
+        {
+          "episode_file": "SCIM5273827033 [SCIM5273827033].md",
+          "key": "focus-toolkit-tools-to-improve-your-focus-concentration-scim5273827033",
+          "show": "Huberman Lab",
+          "title": "Focus Toolkit: Tools to Improve Your Focus & Concentration",
+          "url": "/wiki/sources/focus-toolkit-tools-to-improve-your-focus-concentration-scim5273827033/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/nonsleepdeeprestrecovery/"
     },
     "NonStandardLodgingSearch": {
@@ -167387,9 +167424,9 @@
       "url": "/wiki/concepts/sorenessrecoveryboundary/"
     },
     "SoundBasedStateRegulation": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM1135697510 [SCIM1135697510].md",
@@ -167411,9 +167448,16 @@
           "show": "Huberman Lab",
           "title": "How to Use Music to Boost Motivation, Mood & Improve Learning",
           "url": "/wiki/sources/how-to-use-music-to-boost-motivation-mood-improve-learning-scim9662829681/"
+        },
+        {
+          "episode_file": "SCIM5273827033 [SCIM5273827033].md",
+          "key": "focus-toolkit-tools-to-improve-your-focus-concentration-scim5273827033",
+          "show": "Huberman Lab",
+          "title": "Focus Toolkit: Tools to Improve Your Focus & Concentration",
+          "url": "/wiki/sources/focus-toolkit-tools-to-improve-your-focus-concentration-scim5273827033/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/soundbasedstateregulation/"
     },
     "SoundsLikeTitanicBook": {
@@ -182558,9 +182602,9 @@
       "url": "/wiki/concepts/ultraprocessedfoodpragmaticboundary/"
     },
     "UltradianDeepWorkBlock": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM5427393382 [SCIM5427393382].md",
@@ -182568,9 +182612,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Maximize Productivity, Physical & Mental Health With Daily Tools",
           "url": "/wiki/sources/essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382/"
+        },
+        {
+          "episode_file": "SCIM5273827033 [SCIM5273827033].md",
+          "key": "focus-toolkit-tools-to-improve-your-focus-concentration-scim5273827033",
+          "show": "Huberman Lab",
+          "title": "Focus Toolkit: Tools to Improve Your Focus & Concentration",
+          "url": "/wiki/sources/focus-toolkit-tools-to-improve-your-focus-concentration-scim5273827033/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/ultradiandeepworkblock/"
     },
     "UltrasoundExamPreparationAndSafety": {
@@ -185466,9 +185517,9 @@
       "url": "/wiki/concepts/visualfatiguecausebasedmanagement/"
     },
     "VisualFocusEffortTool": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1532399364 [SCIM1532399364].md",
@@ -185476,9 +185527,16 @@
           "show": "Huberman Lab",
           "title": "Goals Toolkit: How to Set & Achieve Your Goals",
           "url": "/wiki/sources/goals-toolkit-how-to-set-achieve-your-goals-scim1532399364/"
+        },
+        {
+          "episode_file": "SCIM5273827033 [SCIM5273827033].md",
+          "key": "focus-toolkit-tools-to-improve-your-focus-concentration-scim5273827033",
+          "show": "Huberman Lab",
+          "title": "Focus Toolkit: Tools to Improve Your Focus & Concentration",
+          "url": "/wiki/sources/focus-toolkit-tools-to-improve-your-focus-concentration-scim5273827033/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/visualfocusefforttool/"
     },
     "VisualSystemHealthToolkit": {

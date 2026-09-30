@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Focus Toolkit: Tools to Improve Your Focus & Concentration](sources/focus-toolkit-tools-to-improve-your-focus-concentration-scim5273827033.md) — Huberman Lab solo episode on behavior-first focus training, bounded work bouts, refocusing, deliberate recovery, sensory cues, supplements, and medication boundaries.
 - [228. Portugal: The Golden Age of Discovery (Part 2)](sources/228-portugal-the-golden-age-of-discovery-part-2-glt7949934800.md) — The Rest Is History episode on Portugal's Cape route, Indian Ocean network, crusading-commercial ambition, organized violence, and Sebastian's succession crisis.
 - [229. Portugal: Gold, Earthquakes, and Brazil (Part 3)](sources/229-portugal-gold-earthquakes-and-brazil-part-3-glt8317395817.md) — The Rest Is History episode on Portuguese restoration, Brazilian commodity wealth and slavery, Pombal, the Lisbon earthquake, court relocation, and Brazilian independence.
 - [230. Portugal: Football, Fado, and Fascism? (Part 4)](sources/230-portugal-football-fado-and-fascism-part-4-glt9147423732.md) — The Rest Is History episode on Salazar's rise, Estado Novo repression and stability, the fascism boundary, wartime neutrality, cultural symbols, football, and colonial crisis.
@@ -15006,6 +15007,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Steve Goss](entities/SteveGoss.md) — Former Social Security chief actuary assessing the scale, feasibility, and timing of reform options.
 
 ## Concepts
+- [Focus Training Toolkit](concepts/FocusTrainingToolkit.md) — Behavior-first focus cycle joining readiness, task entry, repeated return, bounded effort, and deliberate decompression.
 - [1755 Lisbon Earthquake](concepts/LisbonEarthquake1755.md) — Compound earthquake, tsunami, and fire that challenged European optimism and tested Portuguese crisis administration and urban reconstruction.
 - [Colonial Commodity Dependency](concepts/ColonialCommodityDependency.md) — Pattern in which extractive imperial wealth can weaken diversification while increasing labor coercion and alliance dependence.
 - [Imperial Center Relocation](concepts/ImperialCenterRelocation.md) — Transfer of court and governing capacity from metropole to colony that reverses imperial hierarchy and raises the cost of later recentralization.

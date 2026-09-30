@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 9021
+wiki_total_pages: 9022
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -680,6 +680,9 @@ wiki_pages:
   - key: "FlyingGeeseModel"
     title: "Flying Geese Model"
     url: "/wiki/concepts/flyinggeesemodel/"
+  - key: "FocusTrainingToolkit"
+    title: "Focus Training Toolkit"
+    url: "/wiki/concepts/focustrainingtoolkit/"
   - key: "FocusedUltrasoundNeuromodulation"
     title: "Focused Ultrasound Neuromodulation"
     url: "/wiki/concepts/focusedultrasoundneuromodulation/"
