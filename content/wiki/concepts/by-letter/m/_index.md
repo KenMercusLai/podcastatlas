@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9041
+wiki_total_pages: 9043
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -224,6 +224,9 @@ wiki_pages:
   - key: "MarginalAnalysis"
     title: "Marginal Analysis"
     url: "/wiki/concepts/marginalanalysis/"
+  - key: "MarginalDecadeBackcasting"
+    title: "Marginal Decade Backcasting"
+    url: "/wiki/concepts/marginaldecadebackcasting/"
   - key: "MarginalIncomeScaling"
     title: "Marginal Income Scaling / 边际收入放大"
     url: "/wiki/concepts/marginalincomescaling/"

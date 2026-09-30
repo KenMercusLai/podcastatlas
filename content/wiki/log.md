@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-10-01] ingest | Exercise, Nutrition, Hormones for Vitality & Longevity | Dr. Peter Attia
+
+Added source `exercise-nutrition-hormones-for-vitality-longevity-dr-peter-attia-scim2767035219`; created `MarginalDecadeBackcasting` and `FunctionalHealthspanAssessment`; and resynthesized `PeterAttia`, `ExercisePillarsForLongevity`, and `ApoBParticleBurden` from their complete preserved evidence inventories. Core synthesis: longevity planning becomes concrete when desired final-decade function is backcast into present strength, stability, aerobic, bone, and movement reserve, while biomarkers are paired with functional testing rather than mistaken for complete healthspan. Exercise, rehabilitation, and cumulative ApoB prevention retain higher confidence than supplements, peptides, stem cells, PRP, or behavior-replacing drug narratives. No settled contradiction was adopted. Mortality associations, numeric fitness and ApoB targets, hormone protocols, fertility interventions, regenerative therapies, and GLP-1 strategy remain source-scoped public medical education rather than individualized advice. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-30] ingest | 241. Young Churchill: Prisoner and Fugitive (Part 3)
 
 Added source `241-young-churchill-prisoner-and-fugitive-part-3-glt9087091726`; created `BoerWar`, `CecilRhodes`, `JosephChamberlain`, `PaulKruger`, `ImperialAdventurePublicMythmaking`, and `ImperialWarResourceMotive`; and resynthesized `WinstonChurchill` and `SouthAfrica` from their complete preserved evidence inventories. Core synthesis: gold, diamonds, outlander politics, imperial geography, and Boer independence formed the structural conflict, while real danger, press circulation, Black Week, and Churchill's deliberate self-presentation converted capture and escape into political celebrity. No settled contradiction was adopted. The episode extends rather than overturns Churchill's later profile: courage and relative magnanimity coexist with imperial ambition and a recurring attraction to bold action. Boer, African, civilian, motive, dialogue, and escape-detail claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten because the episode backfills Churchill's early formation and opens a bounded Boer War branch; downstream synthesis refresh only reads it.
@@ -26335,6 +26339,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-01] ingest | LIVE EVENT Q&A: Dr. Andrew Huberman at the Moore Theatre in Seattle
 
 Added source `live-event-q-a-dr-andrew-huberman-at-the-moore-theatre-in-seattle-scim4148265964` and created `NervousSystemStateFlexibility` from its complete bounded source set. Core synthesis: health and performance depend partly on moving deliberately among alertness, focus, stress, calm, and rest; behavioral tools and multi-marker recovery signals can support those transitions, but no breath test, sleep symptom, or physiological score should become a diagnosis or a verdict on life direction. No settled contradiction was adopted. The source's Moore Theatre/Seattle metadata conflicts with its Beacon Theater/New York body and remains unresolved; stress thresholds, hypnosis, microbiome, oxytocin, chronotype, breathwork, nasal-breathing, neural-interface, and career-meaning claims remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,292-source coverage; no topic claim set was dirty and global compaction was not due. Publish validation passed.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-10-01] lint | Wiki health check
 

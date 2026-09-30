@@ -4,7 +4,8 @@ type: concept
 tags: [cardiovascular-health, lipids, preventive-health, biomarkers]
 sources:
   - improve-vitality-emotional-physical-health-lifespan-dr-peter-attia-scim5907126956
-last_updated: 2026-09-05
+  - exercise-nutrition-hormones-for-vitality-longevity-dr-peter-attia-scim2767035219
+last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
 
@@ -16,7 +17,7 @@ ApoB particle burden is the preventive-cardiology frame that counts ApoB-bearing
 ## Current Synthesis
 In the episode, [[PeterAttia]] explains that cholesterol is necessary but water-insoluble, so the body transports it inside lipoprotein particles. ApoB sits on atherogenic particle lineages such as LDL, VLDL, and IDL, making ApoB a particle-number proxy rather than only a cholesterol-content measure.
 
-The source's practical judgment is cumulative exposure oriented. Attia argues that ApoB is causally related to atherosclerosis and criticizes waiting until a 10-year major adverse cardiovascular event risk score is high before treating particle burden. The concept should therefore track risk exposure and treatment thresholds as source-scoped clinical posture, not as a universal medication target.
+The sources' practical judgment is cumulative-exposure oriented. Attia argues that ApoB is causally related to atherosclerosis and criticizes waiting until a 10-year major adverse cardiovascular event risk score is high before treating particle burden. The earlier conversation adds Lp(a)-related particles and contrasts dietary levers with medication classes, but its very low target claims remain a source-scoped longevity posture rather than a universal medication threshold.
 
 ## Key Claims
 - ApoB-bearing particles are presented as atherogenic because they can enter and contribute to arterial plaque processes.
@@ -32,12 +33,15 @@ The source's practical judgment is cumulative exposure oriented. Attia argues th
 - Marker distinction: [[improve-vitality-emotional-physical-health-lifespan-dr-peter-attia-scim5907126956]] distinguishes ApoB particle number from LDL-C cholesterol content.
 - Causality claim: [[improve-vitality-emotional-physical-health-lifespan-dr-peter-attia-scim5907126956]] says Attia grounds ApoB causality in trials, epidemiology, and Mendelian randomization.
 - Treatment posture: [[improve-vitality-emotional-physical-health-lifespan-dr-peter-attia-scim5907126956]] discusses 60 mg/dL as a possible lower-risk goal and 30-40 mg/dL in higher-risk cases, while noting pharmacotherapy is usually required for such levels.
+- Earlier-prevention frame: [[exercise-nutrition-hormones-for-vitality-longevity-dr-peter-attia-scim2767035219]] rejects HDL-to-LDL ratios as the main decision marker, includes Lp(a)-related particles in the ApoB family, and criticizes age-dominated ten-year risk thresholds.
+- Intervention context: [[exercise-nutrition-hormones-for-vitality-longevity-dr-peter-attia-scim2767035219]] discusses triglyceride and saturated-fat reduction alongside statins, ezetimibe, bempedoic acid, and PCSK9 inhibitors while saying diet alone rarely reaches the source's lowest target.
 
 ## Counterevidence & Qualifications
-The source summarizes Attia's clinical posture and target ranges; it is not a guideline for any individual. Medication choice, side effects, pregnancy status, age, plaque burden, family history, diabetes, kidney or liver context, and clinician judgment can change lipid decisions.
+The sources summarize Attia's clinical posture and target ranges; they are not guidelines for any individual. The claim that a person aiming to live to 100 needs ApoB below 30 mg/dL is especially strong and remains source-scoped. Medication choice, side effects, pregnancy status, age, plaque burden, family history, diabetes, kidney or liver context, and clinician judgment can change lipid decisions.
 
 ## What Changed
-- Created the ApoB-specific cardiovascular marker concept.
+- Added Lp(a)-related particles, diet-versus-medication context, and the critique of delayed ten-year-risk treatment.
+- Explicitly bounded the source's below-30 mg/dL longevity target as non-universal.
 
 ## Related Concepts
 - [[AtherosclerosisPreventionTargets]] - prevention frame that uses ApoB alongside blood pressure and inhaled exposures.

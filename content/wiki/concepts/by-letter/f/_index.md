@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 9041
+wiki_total_pages: 9043
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1316,6 +1316,9 @@ wiki_pages:
   - key: "FunctionalFoodRegulatoryIdentity"
     title: "Functional Food Regulatory Identity / 功能食品监管身份"
     url: "/wiki/concepts/functionalfoodregulatoryidentity/"
+  - key: "FunctionalHealthspanAssessment"
+    title: "Functional Healthspan Assessment"
+    url: "/wiki/concepts/functionalhealthspanassessment/"
   - key: "FunctionalLongevityTraining"
     title: "Functional Longevity Training"
     url: "/wiki/concepts/functionallongevitytraining/"
