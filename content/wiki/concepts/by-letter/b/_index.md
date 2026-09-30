@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 9037
+wiki_total_pages: 9040
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -173,6 +173,9 @@ wiki_pages:
   - key: "BattlefieldReconstructionUnderUncertainty"
     title: "Battlefield Reconstruction Under Uncertainty"
     url: "/wiki/concepts/battlefieldreconstructionunderuncertainty/"
+  - key: "BattlefieldTourism"
+    title: "Battlefield Tourism"
+    url: "/wiki/concepts/battlefieldtourism/"
   - key: "BattlefieldVictoryPoliticalControl"
     title: "Battlefield Victory and Political Control"
     url: "/wiki/concepts/battlefieldvictorypoliticalcontrol/"

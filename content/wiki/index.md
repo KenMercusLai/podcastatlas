@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [222. Victorian Holidays](sources/222-victorian-holidays-glt9970456316.md) — The Rest Is History episode on railways, Thomas Cook, guidebooks, spas, battlefield travel, staged authenticity, wakes weeks, and Blackpool's mass-resort growth.
 - [223. Sun, Sea, and Sex](sources/223-sun-sea-and-sex-glt5217352210.md) — The Rest Is History episode on paid holidays, holiday camps, charter packages, Mediterranean mass tourism, class, improvement, and travel intermediation.
 - [224. Roman Holidays](sources/224-roman-holidays-glt9939678940.md) — The Rest Is History episode on Roman elite leisure, Campanian resorts, culturally prestigious travel, plunder, heritage staging, and pilgrimage.
 - [225. J.R.R. Tolkien](sources/225-j-r-r-tolkien-glt9725776786.md) — The Rest Is History episode on Tolkien's formative losses, Catholicism, philology, friendships, the Somme, Edith, and the early legendarium.
@@ -3346,6 +3347,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [226. The Lord of the Rings](sources/226-the-lord-of-the-rings-glt1788342017.md) — The Rest Is History episode on Tolkien's ring ethics, hidden Catholic structure, wartime power, damaged homecoming, anti-industrial environmentalism, politics, and race.
 
 ## Entities
+- [Blackpool](entities/Blackpool.md) — British seaside resort built through railway access, wakes-week demand, electrification, entertainment, and working-class mass leisure.
 - [Thomas Cook](entities/ThomasCook.md) — Organized-travel enterprise used as the historical model for guided tours, package coordination, and the pre-internet agent age.
 - [Billy Butlin](entities/BillyButlin.md) — Entrepreneur who scaled affordable British holiday camps through inclusive pricing, activities, and managed participation.
 - [Vladimir Raitz](entities/VladimirRaitz.md) — Charter-flight pioneer who bundled transport, accommodation, food, recreation, and local representation for postwar British travelers.
@@ -3436,7 +3438,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Raul Sendic](entities/RaulSendic.md) — Socialist labor activist and founder of the Tupamaros.
 - [Geoffrey Jackson](entities/GeoffreyJacksonDiplomat.md) — British ambassador held by the Tupamaros for 244 days in 1971.
 - [Dan Mitrione](entities/DanMitrione.md) — US police adviser whose kidnapping, death, and disputed torture-training role anchor a Cold War controversy.
-- [Charles Dickens](entities/CharlesDickens.md) — British novelist whose 1842 U.S. tour turned literary celebrity into conflict over slavery, copyright, public intrusion, and national stereotype.
+- [Charles Dickens](entities/CharlesDickens.md) — British novelist and travel writer connecting celebrity, moral judgment, foreign comparison, dark sightseeing, and travel documentation.
 - [Andrew Carnegie](entities/AndrewCarnegie.md) — Scottish-born U.S. industrialist whose fortune and transatlantic philanthropy symbolize shifting Anglo-American economic power.
 - [Plutarco Elias Calles](entities/PlutarcoEliasCalles.md) — Post-revolutionary president whose anti-clerical state-building forms the political background to the episode's festival-reinvention argument.
 - [Lazaro Cardenas](entities/LazaroCardenas.md) — President associated by the episode with strong 1930s state promotion of Dia de Muertos as national tradition.
@@ -15028,6 +15030,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Steve Goss](entities/SteveGoss.md) — Former Social Security chief actuary assessing the scale, feasibility, and timing of reform options.
 
 ## Concepts
+- [Victorian Tourism Formation](concepts/VictorianTourismFormation.md) — Nineteenth-century assembly of railways, usable leisure time, coordination, cultural permission, and resort capacity.
+- [Battlefield Tourism](concepts/BattlefieldTourism.md) — Travel to sites of organized violence where mourning, memory, curiosity, spectacle, collecting, and commerce overlap.
+- [Tourist Authenticity Performance](concepts/TouristAuthenticityPerformance.md) — Staging, revival, relabeling, or continuation of tradition so visitors can encounter a legible past or local culture.
 - [Modern Mass Tourism](concepts/ModernMassTourism.md) — Widening leisure travel through paid time, mobility, commercial bundling, resort infrastructure, state policy, and rising incomes.
 - [Organized Holiday Intermediation](concepts/OrganizedHolidayIntermediation.md) — Coordination of travel through clubs, camps, agents, operators, representatives, brochures, and later digital platforms.
 - [Holiday Improvement Ideology](concepts/HolidayImprovementIdeology.md) — Expectation that holidays should improve health, knowledge, character, fellowship, or taste while signaling social position.

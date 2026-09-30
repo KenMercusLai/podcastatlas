@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 11648
+wiki_total_pages: 11649
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -677,6 +677,9 @@ wiki_pages:
   - key: "BLACKPINK"
     title: "BLACKPINK"
     url: "/wiki/entities/blackpink/"
+  - key: "Blackpool"
+    title: "Blackpool"
+    url: "/wiki/entities/blackpool/"
   - key: "BlackRock"
     title: "BlackRock"
     url: "/wiki/entities/blackrock/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 9037
+wiki_total_pages: 9040
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -623,6 +623,9 @@ wiki_pages:
   - key: "TourismDependentSmallEconomy"
     title: "Tourism-Dependent Small Economy"
     url: "/wiki/concepts/tourismdependentsmalleconomy/"
+  - key: "TouristAuthenticityPerformance"
+    title: "Tourist Authenticity Performance"
+    url: "/wiki/concepts/touristauthenticityperformance/"
   - key: "ToutengWar"
     title: "Touteng War"
     url: "/wiki/concepts/toutengwar/"

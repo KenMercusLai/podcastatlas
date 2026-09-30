@@ -26324,3 +26324,10 @@ Added source `what-alcohol-does-to-your-body-brain-health-scim8915337113`; creat
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-01] ingest | 222. Victorian Holidays
+
+Added source `222-victorian-holidays-glt9970456316`; created `Blackpool`, `VictorianTourismFormation`, `BattlefieldTourism`, and `TouristAuthenticityPerformance`; and resynthesized `ThomasCook`, `CharlesDickens`, `ModernMassTourism`, `OrganizedHolidayIntermediation`, and `HolidayImprovementIdeology` from their complete preserved evidence inventories. Core synthesis: Victorian tourism formed through the interaction of railways, usable leisure time, guidebooks, organized travel, moral and medical legitimation, and resort infrastructure; wider access expanded from middle-class travel toward wakes-week mass leisure without erasing class distinction, cultural anxiety, or moral ambiguity. No settled contradiction was adopted. Visitor totals, treatment efficacy, primacy claims, reported behavior, motives, and causal judgments remain source-scoped, and the account is strongly British-centered. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,291-source coverage; no topic claim set was dirty and global compaction was not due. Publish validation passed.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

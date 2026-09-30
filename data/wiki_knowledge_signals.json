@@ -19013,6 +19013,29 @@
       "updated": "2026-09-25",
       "url": "/wiki/concepts/battlefieldreconstructionunderuncertainty/"
     },
+    "BattlefieldTourism": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "GLT9970456316 [GLT9970456316].md",
+          "key": "222-victorian-holidays-glt9970456316",
+          "show": "The Rest Is History",
+          "title": "222. Victorian Holidays",
+          "url": "/wiki/sources/222-victorian-holidays-glt9970456316/"
+        },
+        {
+          "episode_file": "GLT5217352210 [GLT5217352210].md",
+          "key": "223-sun-sea-and-sex-glt5217352210",
+          "show": "The Rest Is History",
+          "title": "223. Sun, Sea, and Sex",
+          "url": "/wiki/sources/223-sun-sea-and-sex-glt5217352210/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/battlefieldtourism/"
+    },
     "BattlefieldVictoryPoliticalControl": {
       "episode_count": 2,
       "show_count": 1,
@@ -21147,6 +21170,29 @@
       ],
       "updated": "2026-09-17",
       "url": "/wiki/entities/blackmores/"
+    },
+    "Blackpool": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "GLT9970456316 [GLT9970456316].md",
+          "key": "222-victorian-holidays-glt9970456316",
+          "show": "The Rest Is History",
+          "title": "222. Victorian Holidays",
+          "url": "/wiki/sources/222-victorian-holidays-glt9970456316/"
+        },
+        {
+          "episode_file": "GLT5217352210 [GLT5217352210].md",
+          "key": "223-sun-sea-and-sex-glt5217352210",
+          "show": "The Rest Is History",
+          "title": "223. Sun, Sea, and Sex",
+          "url": "/wiki/sources/223-sun-sea-and-sex-glt5217352210/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/blackpool/"
     },
     "BlameAbsorbingResponsibility": {
       "episode_count": 2,
@@ -29174,9 +29220,9 @@
       "url": "/wiki/entities/charlesdegaulle/"
     },
     "CharlesDickens": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7546211559 [GLT7546211559].md",
@@ -29184,9 +29230,16 @@
           "show": "The Rest Is History",
           "title": "263: USA vs England: The 200-Year Rivalry",
           "url": "/wiki/sources/263-usa-vs-england-the-200-year-rivalry-glt7546211559/"
+        },
+        {
+          "episode_file": "GLT9970456316 [GLT9970456316].md",
+          "key": "222-victorian-holidays-glt9970456316",
+          "show": "The Rest Is History",
+          "title": "222. Victorian Holidays",
+          "url": "/wiki/sources/222-victorian-holidays-glt9970456316/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/charlesdickens/"
     },
     "CharlesDuncanCameron": {
@@ -84345,9 +84398,9 @@
       "url": "/wiki/entities/hojomasako/"
     },
     "HolidayImprovementIdeology": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5217352210 [GLT5217352210].md",
@@ -84355,6 +84408,13 @@
           "show": "The Rest Is History",
           "title": "223. Sun, Sea, and Sex",
           "url": "/wiki/sources/223-sun-sea-and-sex-glt5217352210/"
+        },
+        {
+          "episode_file": "GLT9970456316 [GLT9970456316].md",
+          "key": "222-victorian-holidays-glt9970456316",
+          "show": "The Rest Is History",
+          "title": "222. Victorian Holidays",
+          "url": "/wiki/sources/222-victorian-holidays-glt9970456316/"
         }
       ],
       "updated": "2026-10-01",
@@ -125855,9 +125915,9 @@
       "url": "/wiki/concepts/modernboundaryhardening/"
     },
     "ModernMassTourism": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5217352210 [GLT5217352210].md",
@@ -125865,6 +125925,13 @@
           "show": "The Rest Is History",
           "title": "223. Sun, Sea, and Sex",
           "url": "/wiki/sources/223-sun-sea-and-sex-glt5217352210/"
+        },
+        {
+          "episode_file": "GLT9970456316 [GLT9970456316].md",
+          "key": "222-victorian-holidays-glt9970456316",
+          "show": "The Rest Is History",
+          "title": "222. Victorian Holidays",
+          "url": "/wiki/sources/222-victorian-holidays-glt9970456316/"
         }
       ],
       "updated": "2026-10-01",
@@ -135152,9 +135219,9 @@
       "url": "/wiki/concepts/ordinarypeoplehistoricalvisibility/"
     },
     "OrganizedHolidayIntermediation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5217352210 [GLT5217352210].md",
@@ -135162,6 +135229,13 @@
           "show": "The Rest Is History",
           "title": "223. Sun, Sea, and Sex",
           "url": "/wiki/sources/223-sun-sea-and-sex-glt5217352210/"
+        },
+        {
+          "episode_file": "GLT9970456316 [GLT9970456316].md",
+          "key": "222-victorian-holidays-glt9970456316",
+          "show": "The Rest Is History",
+          "title": "222. Victorian Holidays",
+          "url": "/wiki/sources/222-victorian-holidays-glt9970456316/"
         }
       ],
       "updated": "2026-10-01",
@@ -178691,9 +178765,9 @@
       "url": "/wiki/entities/thomasarnold/"
     },
     "ThomasCook": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5217352210 [GLT5217352210].md",
@@ -178701,6 +178775,13 @@
           "show": "The Rest Is History",
           "title": "223. Sun, Sea, and Sex",
           "url": "/wiki/sources/223-sun-sea-and-sex-glt5217352210/"
+        },
+        {
+          "episode_file": "GLT9970456316 [GLT9970456316].md",
+          "key": "222-victorian-holidays-glt9970456316",
+          "show": "The Rest Is History",
+          "title": "222. Victorian Holidays",
+          "url": "/wiki/sources/222-victorian-holidays-glt9970456316/"
         }
       ],
       "updated": "2026-10-01",
@@ -180970,6 +181051,29 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/totembranding/"
+    },
+    "TouristAuthenticityPerformance": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "GLT9970456316 [GLT9970456316].md",
+          "key": "222-victorian-holidays-glt9970456316",
+          "show": "The Rest Is History",
+          "title": "222. Victorian Holidays",
+          "url": "/wiki/sources/222-victorian-holidays-glt9970456316/"
+        },
+        {
+          "episode_file": "GLT9939678940 [GLT9939678940].md",
+          "key": "224-roman-holidays-glt9939678940",
+          "show": "The Rest Is History",
+          "title": "224. Roman Holidays",
+          "url": "/wiki/sources/224-roman-holidays-glt9939678940/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/touristauthenticityperformance/"
     },
     "TownPersonalAI": {
       "episode_count": 1,
@@ -185714,6 +185818,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/victorianhomosexualidentityformation/"
+    },
+    "VictorianTourismFormation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9970456316 [GLT9970456316].md",
+          "key": "222-victorian-holidays-glt9970456316",
+          "show": "The Rest Is History",
+          "title": "222. Victorian Holidays",
+          "url": "/wiki/sources/222-victorian-holidays-glt9970456316/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/victoriantourismformation/"
     },
     "VideoPodcastAffordance": {
       "episode_count": 4,
