@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 8930
+wiki_total_pages: 8933
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2228,6 +2228,9 @@ wiki_pages:
   - key: "ArchivePreservationBias"
     title: "Archive Preservation Bias / 档案保存偏差"
     url: "/wiki/concepts/archivepreservationbias/"
+  - key: "ArendtianFriendship"
+    title: "Arendtian Friendship"
+    url: "/wiki/concepts/arendtianfriendship/"
   - key: "ArgentineDirtyWar"
     title: "Argentine Dirty War"
     url: "/wiki/concepts/argentinedirtywar/"

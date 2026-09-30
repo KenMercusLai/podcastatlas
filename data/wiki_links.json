@@ -7963,6 +7963,10 @@
     "title": "Area 51 / 51区",
     "url": "/wiki/entities/area51/"
   },
+  "ArendtianFriendship": {
+    "title": "Arendtian Friendship",
+    "url": "/wiki/concepts/arendtianfriendship/"
+  },
   "ArenicCapitalManagement": {
     "title": "Arenic Capital Management",
     "url": "/wiki/entities/areniccapitalmanagement/"
@@ -56251,6 +56255,10 @@
     "title": "Personalized Molecular Medicine",
     "url": "/wiki/concepts/personalizedmolecularmedicine/"
   },
+  "PersuasionAsMutualTransformation": {
+    "title": "Persuasion as Mutual Transformation",
+    "url": "/wiki/concepts/persuasionasmutualtransformation/"
+  },
   "Peru": {
     "title": "Peru",
     "url": "/wiki/entities/peru/"
@@ -57366,6 +57374,10 @@
   "PoliticalPerformanceSincerity": {
     "title": "Political Performance and Sincerity",
     "url": "/wiki/concepts/politicalperformancesincerity/"
+  },
+  "PoliticalPluralitySharedWorld": {
+    "title": "Political Plurality and the Shared World",
+    "url": "/wiki/concepts/politicalpluralitysharedworld/"
   },
   "PoliticalPropagandaBackfire": {
     "title": "Political Propaganda Backfire / 政治宣传反噬",
@@ -63074,6 +63086,10 @@
   "RodoSayagues": {
     "title": "Rodo Sayagues",
     "url": "/wiki/entities/rodosayagues/"
+  },
+  "RogerBerkowitz": {
+    "title": "Roger Berkowitz",
+    "url": "/wiki/entities/rogerberkowitz/"
   },
   "RogerCasement": {
     "title": "Roger Casement",
@@ -94778,5 +94794,9 @@
   "zong-di-072-qi-wo-shi-qianxi-nian-de-haizi-wo-shi-xiaofei-zhuyizhe-cmufb34v60djg01x4atjs8211": {
     "title": "总第072期：我是千禧年的孩子，我是消费主义者",
     "url": "/wiki/sources/zong-di-072-qi-wo-shi-qianxi-nian-de-haizi-wo-shi-xiaofei-zhuyizhe-cmufb34v60djg01x4atjs8211/"
+  },
+  "zuozhe-duitan-pengyou-shifou-bi-zhenli-gengjia-zhongyao-roger-berkowitz-ln7i59hzhpigtixkj-dvwmkqrrsf": {
+    "title": "作者对谈：朋友是否比真理更加重要？（Roger Berkowitz）",
+    "url": "/wiki/sources/zuozhe-duitan-pengyou-shifou-bi-zhenli-gengjia-zhongyao-roger-berkowitz-ln7i59hzhpigtixkj-dvwmkqrrsf/"
   }
 }

@@ -3277,6 +3277,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Using Caffeine to Optimize Mental & Physical Performance](sources/using-caffeine-to-optimize-mental-physical-performance-scim1210768101.md) — Huberman Lab solo episode on adenosine blockade, caffeine timing and dose, performance, memory, learned reinforcement, tolerance, sleep, and stacking risks.
 
+- [作者对谈：朋友是否比真理更加重要？（Roger Berkowitz）](sources/zuozhe-duitan-pengyou-shifou-bi-zhenli-gengjia-zhongyao-roger-berkowitz-ln7i59hzhpigtixkj-dvwmkqrrsf.md) — 独树不成林 conversation on Hannah Arendt, friendship across disagreement, political plurality, public denunciation, and persuasion as mutual transformation.
+
 ## Entities
 - [Costa Rica](entities/CostaRica.md) — Central American republic whose post-1948 settlement joined expanded citizenship, civilian rule, and army abolition.
 - [Jose Figueres Ferrer](entities/JoseFigueresFerrer.md) — Costa Rican rebel leader, temporary junta head, institutional reformer, and later elected president.
@@ -14837,6 +14839,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Nicolaus Copernicus](entities/NicolausCopernicus.md) — Renaissance canon and astronomer whose Polish-German national classification remains necessarily qualified.
 - [Wieliczka Salt Mine](entities/WieliczkaSaltMine.md) — Royal salt industry transformed into an underground religious-art, tourism, and national-memory complex.
 
+- [Roger Berkowitz](entities/RogerBerkowitz.md) — Political theorist reconstructing Hannah Arendt's account of friendship, plurality, truth, and reciprocal persuasion.
+
 ## Concepts
 - [Army Abolition as a Democratic Safeguard](concepts/ArmyAbolitionDemocraticSafeguard.md) — Removal of a standing military power center to reduce coup risk and reinforce civilian institutions.
 - [Costa Rican Civil War of 1948](concepts/CostaRicanCivilWar1948.md) — Disputed-election conflict whose significance rests heavily on the victors' later institutional settlement.
@@ -23803,5 +23807,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Third-Century Crisis](concepts/ThirdCenturyCrisis.md) — Interacting Roman crisis of civil war, frontier pressure, disease, monetary disruption, and fiscal contraction that elevated military command.
 - [Tetrarchy](concepts/Tetrarchy.md) — Diocletian's four-ruler system, effective at distributed command but unstable as a non-dynastic succession settlement.
 - [Diocletianic Military-Fiscal Reconstruction](concepts/DiocletianicMilitaryFiscalReconstruction.md) — Late Roman package joining defense, taxation, administration, money, mobile court geography, and sacral monarchy.
+
+- [Arendtian Friendship](concepts/ArendtianFriendship.md) — Shared world built through conversation, time, presence, respect, and honest difference rather than ideological sameness.
+- [Political Plurality and the Shared World](concepts/PoliticalPluralitySharedWorld.md) — Political form that preserves factual reality while sustaining common life among distinct standpoints and judgments.
+- [Persuasion as Mutual Transformation](concepts/PersuasionAsMutualTransformation.md) — Reciprocal conversation in which participants listen, revise, find shared ground, and clarify durable disagreement.
 
 ## Syntheses

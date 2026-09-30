@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8930
+wiki_total_pages: 8933
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -623,6 +623,9 @@ wiki_pages:
   - key: "PersonalizedMolecularMedicine"
     title: "Personalized Molecular Medicine"
     url: "/wiki/concepts/personalizedmolecularmedicine/"
+  - key: "PersuasionAsMutualTransformation"
+    title: "Persuasion as Mutual Transformation"
+    url: "/wiki/concepts/persuasionasmutualtransformation/"
   - key: "PesticidePollinatorRisk"
     title: "Pesticide Pollinator Risk / 农药传粉昆虫风险"
     url: "/wiki/concepts/pesticidepollinatorrisk/"
@@ -1064,6 +1067,9 @@ wiki_pages:
   - key: "PoliticalPerformanceSincerity"
     title: "Political Performance and Sincerity"
     url: "/wiki/concepts/politicalperformancesincerity/"
+  - key: "PoliticalPluralitySharedWorld"
+    title: "Political Plurality and the Shared World"
+    url: "/wiki/concepts/politicalpluralitysharedworld/"
   - key: "PoliticalPropagandaBackfire"
     title: "Political Propaganda Backfire / 政治宣传反噬"
     url: "/wiki/concepts/politicalpropagandabackfire/"

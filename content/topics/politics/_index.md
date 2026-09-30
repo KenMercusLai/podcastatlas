@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2850
+topic_total_pages: 2852
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2686,6 +2686,9 @@ topic_concepts:
   - key: "PersonalizedLegalGuidance"
     title: "Personalized Legal Guidance"
     url: "/wiki/concepts/personalizedlegalguidance/"
+  - key: "PersuasionAsMutualTransformation"
+    title: "Persuasion as Mutual Transformation"
+    url: "/wiki/concepts/persuasionasmutualtransformation/"
   - key: "PiracyPrivateeringBoundary"
     title: "Piracy-Privateering Boundary"
     url: "/wiki/concepts/piracyprivateeringboundary/"
@@ -2815,6 +2818,9 @@ topic_concepts:
   - key: "PoliticalPerformanceSincerity"
     title: "Political Performance and Sincerity"
     url: "/wiki/concepts/politicalperformancesincerity/"
+  - key: "PoliticalPluralitySharedWorld"
+    title: "Political Plurality and the Shared World"
+    url: "/wiki/concepts/politicalpluralitysharedworld/"
   - key: "PoliticalPropagandaBackfire"
     title: "Political Propaganda Backfire / 政治宣传反噬"
     url: "/wiki/concepts/politicalpropagandabackfire/"

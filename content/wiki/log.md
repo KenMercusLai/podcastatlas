@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-30] ingest | 作者对谈：朋友是否比真理更加重要？（Roger Berkowitz）
+
+Added source `zuozhe-duitan-pengyou-shifou-bi-zhenli-gengjia-zhongyao-roger-berkowitz-ln7i59hzhpigtixkj-dvwmkqrrsf`; created `RogerBerkowitz`, `ArendtianFriendship`, `PoliticalPluralitySharedWorld`, and `PersuasionAsMutualTransformation`; and resynthesized `HannahArendt` from its complete bounded source set. Core synthesis: friendship can create a shared world through conversation, time, presence, honesty, and respect without requiring political sameness; factual truth remains indispensable, while political judgment and persuasion should preserve plurality rather than install one standpoint as unanswerable authority. A productive tension with `PoliticalTruthTelling` is preserved rather than flattened. The model's limits around abuse, danger, organized dehumanization, deliberate falsehood, coercive power, and untested civic-intervention effectiveness remain explicit. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-30] ingest | 262: Tunisia: Dido of Carthage
 
 Added source `262-tunisia-dido-of-carthage-glt5520362156`; created `Virgil`, `Aeneas`, `Aeneid`, and `ImperialDestinyHumanCost`; updated `Dido` from its complete bounded source set; and updated the canonical index. Core synthesis: older traditions make Dido a resourceful Tyrian founder and loyal widow, while Virgil transforms her into Aeneas's abandoned queen so that Rome's destined future remains politically authoritative but morally costly. A direct contradiction between the Iarbas and Aeneas death traditions is preserved as literary transformation rather than resolved biography. Chronology, foundation details, etymology, coin identification, ritual parallels, Virgilian intention, and the Cleopatra analogy remain legendary, contested, or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -25859,6 +25863,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-30] ingest | 258. Costa Rica: Civil War
 
 Added source `258-costa-rica-civil-war-glt4854467564`; created `CostaRica`, `JoseFigueresFerrer`, `RafaelAngelCalderon`, `CostaRicanCivilWar1948`, `ArmyAbolitionDemocraticSafeguard`, and `PostVictoryPowerSurrender`. Core synthesis: Costa Rica's later democratic outlier status is presented as contingent on background conditions and postwar choices, especially widening political membership, preserving social reform, constraining armed power, and transferring authority after rebel victory. No settled contradiction was adopted. Casualty and election figures, comparative rankings, US pressure, CIA/KGB payments, Caribbean Legion details, and the exact causal weight of demilitarization remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-30] lint | Wiki health check
 

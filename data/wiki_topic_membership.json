@@ -58782,6 +58782,13 @@
       "url": "/topics/science/"
     }
   ],
+  "PersuasionAsMutualTransformation": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "Peru": [
     {
       "key": "science",
@@ -60012,6 +60019,13 @@
     }
   ],
   "PoliticalPerformanceSincerity": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "PoliticalPluralitySharedWorld": [
     {
       "key": "politics",
       "label": "Politics",
