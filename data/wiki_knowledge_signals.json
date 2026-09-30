@@ -8451,6 +8451,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/algorithmictrustmigration/"
     },
+    "AliAnsari": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8347276204 [GLT8347276204].md",
+          "key": "259-iran-england-the-little-satan-glt8347276204",
+          "show": "The Rest Is History",
+          "title": "259: Iran: England - 'The Little Satan'",
+          "url": "/wiki/sources/259-iran-england-the-little-satan-glt8347276204/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/aliansari/"
+    },
     "AliCrum": {
       "episode_count": 1,
       "show_count": 1,
@@ -11248,6 +11264,38 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/concepts/anglofrenchdualmonarchy/"
+    },
+    "AngloIranianOilCompany": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8347276204 [GLT8347276204].md",
+          "key": "259-iran-england-the-little-satan-glt8347276204",
+          "show": "The Rest Is History",
+          "title": "259: Iran: England - 'The Little Satan'",
+          "url": "/wiki/sources/259-iran-england-the-little-satan-glt8347276204/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/angloiranianoilcompany/"
+    },
+    "AngloIranianRelations": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8347276204 [GLT8347276204].md",
+          "key": "259-iran-england-the-little-satan-glt8347276204",
+          "show": "The Rest Is History",
+          "title": "259: Iran: England - 'The Little Satan'",
+          "url": "/wiki/sources/259-iran-england-the-little-satan-glt8347276204/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/angloiranianrelations/"
     },
     "AngloNormanSuccessionLegitimacy": {
       "episode_count": 4,
@@ -92030,6 +92078,38 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/iransanctions/"
     },
+    "IranianConstitutionalRevolution": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8347276204 [GLT8347276204].md",
+          "key": "259-iran-england-the-little-satan-glt8347276204",
+          "show": "The Rest Is History",
+          "title": "259: Iran: England - 'The Little Satan'",
+          "url": "/wiki/sources/259-iran-england-the-little-satan-glt8347276204/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/iranianconstitutionalrevolution/"
+    },
+    "IranianCoup1953": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8347276204 [GLT8347276204].md",
+          "key": "259-iran-england-the-little-satan-glt8347276204",
+          "show": "The Rest Is History",
+          "title": "259: Iran: England - 'The Little Satan'",
+          "url": "/wiki/sources/259-iran-england-the-little-satan-glt8347276204/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/iraniancoup1953/"
+    },
     "IraqWar": {
       "episode_count": 1,
       "show_count": 1,
@@ -122667,6 +122747,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/mohammadmahoor/"
     },
+    "MohammadMossadegh": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8347276204 [GLT8347276204].md",
+          "key": "259-iran-england-the-little-satan-glt8347276204",
+          "show": "The Rest Is History",
+          "title": "259: Iran: England - 'The Little Satan'",
+          "url": "/wiki/sources/259-iran-england-the-little-satan-glt8347276204/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/mohammadmossadegh/"
+    },
     "MohammedAbdelKrim": {
       "episode_count": 1,
       "show_count": 1,
@@ -129622,10 +129718,33 @@
       "updated": "2026-09-10",
       "url": "/wiki/entities/ofo/"
     },
-    "OilConcessionBargaining": {
-      "episode_count": 3,
+    "OilCompanyEnclave": {
+      "episode_count": 2,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_daf859cd7d85a829a02ba1b45d4a0aa9_34350586 [default.mp3_ywr3ahjkcgo_daf859cd7d85a829a02ba1b45d4a0aa9_34350586].md",
+          "key": "chevron-venezuela-and-the-paradox-of-plenty",
+          "show": "Planet Money",
+          "title": "Chevron, Venezuela and the Paradox of Plenty",
+          "url": "/wiki/sources/chevron-venezuela-and-the-paradox-of-plenty/"
+        },
+        {
+          "episode_file": "GLT8347276204 [GLT8347276204].md",
+          "key": "259-iran-england-the-little-satan-glt8347276204",
+          "show": "The Rest Is History",
+          "title": "259: Iran: England - 'The Little Satan'",
+          "url": "/wiki/sources/259-iran-england-the-little-satan-glt8347276204/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/oilcompanyenclave/"
+    },
+    "OilConcessionBargaining": {
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_daf859cd7d85a829a02ba1b45d4a0aa9_34350586 [default.mp3_ywr3ahjkcgo_daf859cd7d85a829a02ba1b45d4a0aa9_34350586].md",
@@ -129647,15 +129766,22 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "GPT-6 Hits AGI? Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250/"
+        },
+        {
+          "episode_file": "GLT8347276204 [GLT8347276204].md",
+          "key": "259-iran-england-the-little-satan-glt8347276204",
+          "show": "The Rest Is History",
+          "title": "259: Iran: England - 'The Little Satan'",
+          "url": "/wiki/sources/259-iran-england-the-little-satan-glt8347276204/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-30",
       "url": "/wiki/concepts/oilconcessionbargaining/"
     },
     "OilNationalization": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_daf859cd7d85a829a02ba1b45d4a0aa9_34350586 [default.mp3_ywr3ahjkcgo_daf859cd7d85a829a02ba1b45d4a0aa9_34350586].md",
@@ -129670,9 +129796,16 @@
           "show": "Planet Money",
           "title": "Trump drinks Venezuela's milkshake",
           "url": "/wiki/sources/trump-drinks-venezuelas-milkshake/"
+        },
+        {
+          "episode_file": "GLT8347276204 [GLT8347276204].md",
+          "key": "259-iran-england-the-little-satan-glt8347276204",
+          "show": "The Rest Is History",
+          "title": "259: Iran: England - 'The Little Satan'",
+          "url": "/wiki/sources/259-iran-england-the-little-satan-glt8347276204/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-30",
       "url": "/wiki/concepts/oilnationalization/"
     },
     "OilReopeningBacklash": {

@@ -25847,3 +25847,11 @@ Added source `diet-nutrition-for-mental-health-dr-chris-palmer-scim6818542478`; 
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-30] ingest | 259: Iran: England - 'The Little Satan'
+
+Added source `259-iran-england-the-little-satan-glt8347276204`; created `AliAnsari`, `AngloIranianOilCompany`, `MohammadMossadegh`, `AngloIranianRelations`, `IranianConstitutionalRevolution`, and `IranianCoup1953`; and resynthesized `OilNationalization`, `OilConcessionBargaining`, and `OilCompanyEnclave` from their complete bounded source sets. Core synthesis: modern Iranian suspicion of Britain is presented not as timeless hostility but as disappointed admiration for British constitutional and cultural institutions, intensified by imperial accommodation, asymmetric oil arrangements, occupation, and the 1953 coup; continued educational, linguistic, and football ties qualify any simple hostility narrative. No settled contradiction was adopted. Famine responsibility, company-government divisions, coup design and execution, public attitudes, and reported financial terms remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

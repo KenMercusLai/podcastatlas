@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 11525
+wiki_total_pages: 11528
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1343,6 +1343,9 @@ wiki_pages:
   - key: "MohammadMahoor"
     title: "Mohammad H. Mahoor"
     url: "/wiki/entities/mohammadmahoor/"
+  - key: "MohammadMossadegh"
+    title: "Mohammad Mossadegh"
+    url: "/wiki/entities/mohammadmossadegh/"
   - key: "MohammadRezaPahlavi"
     title: "Mohammad Reza Pahlavi / 穆罕默德·礼萨·巴列维"
     url: "/wiki/entities/mohammadrezapahlavi/"

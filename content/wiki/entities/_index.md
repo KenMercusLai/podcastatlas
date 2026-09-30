@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 11525
+wiki_total_pages: 11528
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -704,6 +704,9 @@ wiki_pages:
   - key: "AliIranProtester"
     title: "Ali (Iran protester)"
     url: "/wiki/entities/aliiranprotester/"
+  - key: "AliAnsari"
+    title: "Ali Ansari"
+    url: "/wiki/entities/aliansari/"
   - key: "AliCrum"
     title: "Ali Crum"
     url: "/wiki/entities/alicrum/"
@@ -1148,6 +1151,9 @@ wiki_pages:
   - key: "Angkor"
     title: "Angkor / 吴哥"
     url: "/wiki/entities/angkor/"
+  - key: "AngloIranianOilCompany"
+    title: "Anglo-Iranian Oil Company"
+    url: "/wiki/entities/angloiranianoilcompany/"
   - key: "AnitaRamaswamy"
     title: "Anita Ramaswamy"
     url: "/wiki/entities/anitaramaswamy/"

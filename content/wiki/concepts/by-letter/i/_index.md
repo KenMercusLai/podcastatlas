@@ -6,8 +6,11 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 8924
+wiki_total_pages: 8927
 wiki_pages:
+  - key: "IranianCoup1953"
+    title: "1953 Iranian Coup"
+    url: "/wiki/concepts/iraniancoup1953/"
   - key: "IBDPatientEducationAndPeerSupport"
     title: "IBD Patient Education and Peer Support / IBD患者教育与同伴支持"
     url: "/wiki/concepts/ibdpatienteducationandpeersupport/"
@@ -956,6 +959,9 @@ wiki_pages:
   - key: "IranLinkedCyberOperations"
     title: "Iran-Linked Cyber Operations"
     url: "/wiki/concepts/iranlinkedcyberoperations/"
+  - key: "IranianConstitutionalRevolution"
+    title: "Iranian Constitutional Revolution"
+    url: "/wiki/concepts/iranianconstitutionalrevolution/"
   - key: "IrishConstitutionalNationalism"
     title: "Irish Constitutional Nationalism"
     url: "/wiki/concepts/irishconstitutionalnationalism/"

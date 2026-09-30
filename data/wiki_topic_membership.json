@@ -1381,6 +1381,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "259-iran-england-the-little-satan-glt8347276204": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "260-croatia-the-man-who-saved-the-roman-empire-glt9631298578": [
     {
       "key": "history",
@@ -10964,6 +10971,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "AngloIranianRelations": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "Anhui": [

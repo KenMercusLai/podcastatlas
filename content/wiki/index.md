@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [259: Iran: England - 'The Little Satan'](sources/259-iran-england-the-little-satan-glt8347276204.md) — The Rest Is History episode on Iranian admiration for British institutions, constitutional disappointment, oil, nationalization, the 1953 coup, and persistent cultural attraction.
 - [260: Croatia: The Man Who Saved The Roman Empire](sources/260-croatia-the-man-who-saved-the-roman-empire-glt9631298578.md) — The Rest Is History episode on Diocletian, the third-century crisis, the Tetrarchy, military-fiscal reconstruction, Christian persecution, abdication, and the succession system's collapse.
 - [261: Uruguay: The Tupamaros](sources/261-uruguay-the-tupamaros-glt1539968794.md) — The Rest Is History episode on Uruguay's postwar decline, Tupamaro urban guerrillas, authoritarian counterinsurgency, dictatorship, and Jose Mujica's later democratic presidency.
 - [262: Tunisia: Dido of Carthage](sources/262-tunisia-dido-of-carthage-glt5520362156.md) — The Rest Is History episode contrasting Dido's older Tyrian founder tradition with Virgil's tragic queen, Roman destiny, and the human cost of empire.
@@ -3276,6 +3277,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Using Caffeine to Optimize Mental & Physical Performance](sources/using-caffeine-to-optimize-mental-physical-performance-scim1210768101.md) — Huberman Lab solo episode on adenosine blockade, caffeine timing and dose, performance, memory, learned reinforcement, tolerance, sleep, and stacking risks.
 
 ## Entities
+- [Ali Ansari](entities/AliAnsari.md) — Historian who interprets Anglo-Iranian relations through institutional attraction, imperial power, and disappointed political trust.
+- [Anglo-Iranian Oil Company](entities/AngloIranianOilCompany.md) — British-linked oil enterprise that built strategic industrial capacity while becoming a focus of Iranian sovereignty and revenue conflict.
+- [Mohammad Mossadegh](entities/MohammadMossadegh.md) — Iranian prime minister associated with oil nationalization and overthrown in the 1953 coup.
 - [Tupamaros](entities/Tupamaros.md) — Uruguayan urban guerrilla movement whose robberies, kidnappings, armed propaganda, and defeat were bound to a wider democratic collapse.
 - [Jose Mujica](entities/JoseMujica.md) — Former Tupamaro prisoner who entered electoral politics and served as Uruguay's president from 2010 to 2015.
 - [Raul Sendic](entities/RaulSendic.md) — Socialist labor activist and founder of the Tupamaros.
@@ -14830,6 +14834,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Wieliczka Salt Mine](entities/WieliczkaSaltMine.md) — Royal salt industry transformed into an underground religious-art, tourism, and national-memory complex.
 
 ## Concepts
+- [Anglo-Iranian Relations](concepts/AngloIranianRelations.md) — Bilateral history in which admiration for British institutions became disappointment through imperial strategy, oil conflict, and intervention without erasing cultural ties.
+- [Iranian Constitutional Revolution](concepts/IranianConstitutionalRevolution.md) — Iranian constitutional reform shaped partly by British parliamentary models and qualified by Britain's accommodation with Russia.
+- [1953 Iranian Coup](concepts/IranianCoup1953.md) — Overthrow of Mohammad Mossadegh whose Anglo-American structure became a lasting template for Iranian intervention fears.
 - [Democratic Security Escalation Trap](concepts/DemocraticSecurityEscalationTrap.md) — Process in which defeating a real armed challenge through expanding emergency coercion destroys the democracy being defended.
 - [Urban Guerrilla Armed Propaganda](concepts/UrbanGuerrillaArmedPropaganda.md) — Coercive action designed for resources, political messaging, publicity, and demonstration of state incapacity.
 - [Militant-to-Democratic Politics](concepts/MilitantToDemocraticPolitics.md) — Contingent shift from armed activism into electoral government without erasing responsibility, victimization, or justice disputes.
@@ -20743,9 +20750,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Petrostate](concepts/Petrostate.md) — State whose economy and public finances are built around oil, with Venezuela as the episode's core case.
 - [Dutch Disease](concepts/DutchDisease.md) — Commodity-boom mechanism where oil inflows strengthen the currency and crowd out other export sectors.
 - [Political Resource Curse](concepts/PoliticalResourceCurse.md) — Terry Karl's governance frame that oil becomes blessing or curse through institutions, leadership, and corporate choices.
-- [Oil Nationalization](concepts/OilNationalization.md) — State-control turn in which Venezuela created PDVSA and converted foreign oil companies into stricter contractors.
-- [Oil Company Enclave](concepts/OilCompanyEnclave.md) — Company-town pattern where oil firms build modern infrastructure while preserving labor and status hierarchy.
-- [Oil Concession Bargaining](concepts/OilConcessionBargaining.md) — Host-state negotiation pattern moving from foreign concessions to revenue sharing, nationalization, and producer coordination.
+- [Oil Nationalization](concepts/OilNationalization.md) — Sovereignty and state-control response to foreign oil power, tempered by continuing needs for capacity, investment, and durable institutions.
+- [Oil Company Enclave](concepts/OilCompanyEnclave.md) — Spatial or institutional concentration where oil firms build modern capacity while preserving hierarchy and weak host-country control.
+- [Oil Concession Bargaining](concepts/OilConcessionBargaining.md) — Host-state negotiation cycle shaped by foreign capacity, changing strategic value, information asymmetry, revenue sharing, and nationalization pressure.
 - [Statistical Bubble Indicators](concepts/StatisticalBubbleIndicators.md) — Greenwood's four-signal bubble checklist: high valuation, volatility, issuance, and acceleration.
 - [Lean Versus Clean Bubble Policy](concepts/LeanVersusCleanBubblePolicy.md) — Policy debate over leaning against a suspected bubble before it bursts or cleaning up after the crash.
 - [Productive Bubble Spillovers](concepts/ProductiveBubbleSpillovers.md) — Silver-lining theory that some bubbles can leave reusable infrastructure, R&D, or knowledge behind after investors overpay.

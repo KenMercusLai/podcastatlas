@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2843
+topic_total_pages: 2844
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -271,6 +271,9 @@ topic_concepts:
   - key: "AngloAmericanPowerReversal"
     title: "Anglo-American Power Reversal"
     url: "/wiki/concepts/angloamericanpowerreversal/"
+  - key: "AngloIranianRelations"
+    title: "Anglo-Iranian Relations"
+    url: "/wiki/concepts/angloiranianrelations/"
   - key: "AnimalPainLegalRecognition"
     title: "Animal Pain Legal Recognition / 动物痛苦的法律承认"
     url: "/wiki/concepts/animalpainlegalrecognition/"
