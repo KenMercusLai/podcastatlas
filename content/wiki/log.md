@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-30] ingest | Science-Based Tools for Increasing Happiness
+
+Added source `science-based-tools-for-increasing-happiness-scim9472441223`; created `SyntheticHappiness`, `AttentionPresenceAndHappiness`, and `ChoiceClosureSatisfaction`; and resynthesized `EverydaySocialConnection` from its complete preserved evidence inventory. Core synthesis: happiness depends on material, physiological, relational, attentional, and interpretive conditions rather than one chemical or universal recipe; deliberate practices can cultivate genuine happiness, but they do not erase trauma, unmet needs, illness, or unsafe circumstances. No settled contradiction was adopted. Money, meditation, mind-wandering causality, gratitude, prosocial spending, eye contact, touch, animal interaction, ego depletion, and lifespan curves remain source-scoped, and health claims remain public education rather than individualized guidance. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-30] ingest | 作者对谈：朋友是否比真理更加重要？（Roger Berkowitz）
 
 Added source `zuozhe-duitan-pengyou-shifou-bi-zhenli-gengjia-zhongyao-roger-berkowitz-ln7i59hzhpigtixkj-dvwmkqrrsf`; created `RogerBerkowitz`, `ArendtianFriendship`, `PoliticalPluralitySharedWorld`, and `PersuasionAsMutualTransformation`; and resynthesized `HannahArendt` from its complete bounded source set. Core synthesis: friendship can create a shared world through conversation, time, presence, honesty, and respect without requiring political sameness; factual truth remains indispensable, while political judgment and persuasion should preserve plurality rather than install one standpoint as unanswerable authority. A productive tension with `PoliticalTruthTelling` is preserved rather than flattened. The model's limits around abuse, danger, organized dehumanization, deliberate falsehood, coercive power, and untested civic-intervention effectiveness remain explicit. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -25906,6 +25910,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-30] ingest | 253. The World Cup: Post-war reconciliation, Brazilian dictatorship, and North Koreans in Middlesbrough (Part 2)
 
 Added source `253-the-world-cup-post-war-reconciliation-brazilian-dictatorship-and-north-koreans-in-middlesbrough-part-2-glt3874165711`; created `Pele`, `FIFAWorldCup1978`, and `WorldCupNationalMemory`; and resynthesized `WestGermany`, `AuthoritarianSportsPropaganda`, `Sportwashing`, and `SportsPropagandaEffectUncertainty` from their complete preserved evidence inventories. Core synthesis: World Cup beauty, national recovery, and sincere celebration can coexist with authoritarian appropriation, repression, disputed evidence, and selective memory. No settled contradiction was adopted. Claims about amphetamines, threats, Pelé's political position, João Saldanha's removal, Argentina-Peru, and individual audience belief remain disputed or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-30] lint | Wiki health check
 

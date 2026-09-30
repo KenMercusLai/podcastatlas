@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1336
+topic_total_pages: 1338
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -2104,6 +2104,9 @@ topic_concepts:
   - key: "SymptomFunctionDissociation"
     title: "Symptom–Function Dissociation"
     url: "/wiki/concepts/symptomfunctiondissociation/"
+  - key: "SyntheticHappiness"
+    title: "Synthetic Happiness"
+    url: "/wiki/concepts/synthetichappiness/"
   - key: "SystemDesignOverWillpower"
     title: "System Design Over Willpower / 系统设计优先于意志力"
     url: "/wiki/concepts/systemdesignoverwillpower/"
@@ -3858,6 +3861,9 @@ topic_sources:
   - key: "science-based-mental-training-visualization-for-improved-learning-scim9944841947"
     title: "Science-Based Mental Training & Visualization for Improved Learning"
     url: "/wiki/sources/science-based-mental-training-visualization-for-improved-learning-scim9944841947/"
+  - key: "science-based-tools-for-increasing-happiness-scim9472441223"
+    title: "Science-Based Tools for Increasing Happiness"
+    url: "/wiki/sources/science-based-tools-for-increasing-happiness-scim9472441223/"
   - key: "sp-01-yuzhou-kaer-sagen-de-xingchen-dahai-he-renlei-mengxiang-543901074"
     title: "sp.01 宇宙：卡尔·萨根的星辰大海和人类梦想"
     url: "/wiki/sources/sp-01-yuzhou-kaer-sagen-de-xingchen-dahai-he-renlei-mengxiang-543901074/"

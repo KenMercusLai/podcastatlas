@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 8940
+wiki_total_pages: 8943
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2333,6 +2333,9 @@ wiki_pages:
   - key: "SyntheticFlavorScalability"
     title: "Synthetic Flavor Scalability / 合成风味可规模化"
     url: "/wiki/concepts/syntheticflavorscalability/"
+  - key: "SyntheticHappiness"
+    title: "Synthetic Happiness"
+    url: "/wiki/concepts/synthetichappiness/"
   - key: "SyntheticPerformers"
     title: "Synthetic Performers"
     url: "/wiki/concepts/syntheticperformers/"

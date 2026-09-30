@@ -3283,6 +3283,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Using Caffeine to Optimize Mental & Physical Performance](sources/using-caffeine-to-optimize-mental-physical-performance-scim1210768101.md) — Huberman Lab solo episode on adenosine blockade, caffeine timing and dose, performance, memory, learned reinforcement, tolerance, sleep, and stacking risks.
 
 - [作者对谈：朋友是否比真理更加重要？（Roger Berkowitz）](sources/zuozhe-duitan-pengyou-shifou-bi-zhenli-gengjia-zhongyao-roger-berkowitz-ln7i59hzhpigtixkj-dvwmkqrrsf.md) — 独树不成林 conversation on Hannah Arendt, friendship across disagreement, political plurality, public denunciation, and persuasion as mutual transformation.
+- [Science-Based Tools for Increasing Happiness](sources/science-based-tools-for-increasing-happiness-scim9472441223.md) — Huberman Lab solo episode on natural and synthetic happiness, attention, generosity, everyday social connection, material limits, and post-choice commitment.
 
 ## Entities
 - [Pelé](entities/Pele.md) — Brazilian football icon joining World Cup excellence, multiracial national representation, and political ambiguity under military rule.
@@ -23836,5 +23837,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Arendtian Friendship](concepts/ArendtianFriendship.md) — Shared world built through conversation, time, presence, respect, and honest difference rather than ideological sameness.
 - [Political Plurality and the Shared World](concepts/PoliticalPluralitySharedWorld.md) — Political form that preserves factual reality while sustaining common life among distinct standpoints and judgments.
 - [Persuasion as Mutual Transformation](concepts/PersuasionAsMutualTransformation.md) — Reciprocal conversation in which participants listen, revise, find shared ground, and clarify durable disagreement.
+- [Synthetic Happiness](concepts/SyntheticHappiness.md) — Genuine happiness cultivated through deliberate attention, behavior, social connection, environment, and post-outcome framing.
+- [Attention, Presence, and Happiness](concepts/AttentionPresenceAndHappiness.md) — Attentional pathway connecting focus, mind wandering, meditation, social presence, and access to valued experience.
+- [Choice Closure and Satisfaction](concepts/ChoiceClosureSatisfaction.md) — Distinction between valuable options before deciding and satisfaction-reducing comparison after choosing.
 
 ## Syntheses
