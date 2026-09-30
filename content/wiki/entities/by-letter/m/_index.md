@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 11596
+wiki_total_pages: 11598
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1337,6 +1337,9 @@ wiki_pages:
   - key: "Moderna"
     title: "Moderna"
     url: "/wiki/entities/moderna/"
+  - key: "ModularAI"
+    title: "Modular"
+    url: "/wiki/entities/modularai/"
   - key: "MOECapital"
     title: "MOE Capital"
     url: "/wiki/entities/moecapital/"

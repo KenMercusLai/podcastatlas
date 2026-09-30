@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3245
+topic_total_pages: 3250
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1609,6 +1609,9 @@ topic_concepts:
   - key: "CrossDatasetPrivacyLinkage"
     title: "Cross-Dataset Privacy Linkage"
     url: "/wiki/concepts/crossdatasetprivacylinkage/"
+  - key: "CrossDevicePersonalMemory"
+    title: "Cross-Device Personal Memory / 跨设备个人记忆"
+    url: "/wiki/concepts/crossdevicepersonalmemory/"
   - key: "CumulativeRiverValleyDevelopmentRisk"
     title: "Cumulative River-Valley Development Risk"
     url: "/wiki/concepts/cumulativerivervalleydevelopmentrisk/"
@@ -3637,6 +3640,9 @@ topic_concepts:
   - key: "ReliabilityDrivenInfrastructureOwnership"
     title: "Reliability-Driven Infrastructure Ownership"
     url: "/wiki/concepts/reliabilitydriveninfrastructureownership/"
+  - key: "RememberUnderstandActLoop"
+    title: "Remember-Understand-Act Loop / 记忆—理解—行动闭环"
+    url: "/wiki/concepts/rememberunderstandactloop/"
   - key: "RemoteCardiacMonitoringAndWarning"
     title: "Remote Cardiac Monitoring and Warning / 远程心脏监测与预警"
     url: "/wiki/concepts/remotecardiacmonitoringandwarning/"
@@ -6488,6 +6494,9 @@ topic_entities:
   - key: "ModernTreasury"
     title: "Modern Treasury"
     url: "/wiki/entities/moderntreasury/"
+  - key: "ModularAI"
+    title: "Modular"
+    url: "/wiki/entities/modularai/"
   - key: "MOECapital"
     title: "MOE Capital"
     url: "/wiki/entities/moecapital/"
@@ -6866,6 +6875,9 @@ topic_entities:
   - key: "QilinRansomwareGroup"
     title: "Qilin Ransomware Group"
     url: "/wiki/entities/qilinransomwaregroup/"
+  - key: "Qualcomm"
+    title: "Qualcomm / 高通"
+    url: "/wiki/entities/qualcomm/"
   - key: "Quark"
     title: "Quark"
     url: "/wiki/entities/quark/"
@@ -9627,6 +9639,9 @@ topic_sources:
   - key: "dang-jiqiren-xuehui-renlu-wuli-shijie-cai-zhenzheng-jieshangle-ai-658f592c4a52"
     title: "当机器人学会认路，物理世界才真正接上了 AI"
     url: "/wiki/sources/dang-jiqiren-xuehui-renlu-wuli-shijie-cai-zhenzheng-jieshangle-ai-658f592c4a52/"
+  - key: "dang-yanjing-erji-shouji-dou-you-ai-shui-lai-tongyi-ni-de-di-er-danao-2026-gaotong-xiaolong-fenghui-s10e31-2d6bfcec-31c3-4ef2-981f-6dc2864cf92d"
+    title: "当眼镜、耳机、手机都有 AI，谁来统一你的「第二大脑」｜ 2026 高通骁龙峰会 S10E31"
+    url: "/wiki/sources/dang-yanjing-erji-shouji-dou-you-ai-shui-lai-tongyi-ni-de-di-er-danao-2026-gaotong-xiaolong-fenghui-s10e31-2d6bfcec-31c3-4ef2-981f-6dc2864cf92d/"
   - key: "dang-heike-gongpo-le-riben-de-guomin-pijiu-chule-jugong-daoqian-tamen-hai-neng-zuo-shenme-feat-top-of-japan-keji-luandun"
     title: "当黑客攻破了日本的国民啤酒，除了鞠躬道歉，他们还能做什么？feat.Top of Japan"
     url: "/wiki/sources/dang-heike-gongpo-le-riben-de-guomin-pijiu-chule-jugong-daoqian-tamen-hai-neng-zuo-shenme-feat-top-of-japan-keji-luandun/"

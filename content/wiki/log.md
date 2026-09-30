@@ -26112,3 +26112,11 @@ Added source `no-221-zhongguo-latiao-jianghu-1020016798`; created `Weilong`, `Pi
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-30] ingest | 当眼镜、耳机、手机都有 AI，谁来统一你的「第二大脑」｜ 2026 高通骁龙峰会 S10E31
+
+Added source `dang-yanjing-erji-shouji-dou-you-ai-shui-lai-tongyi-ni-de-di-er-danao-2026-gaotong-xiaolong-fenghui-s10e31-2d6bfcec-31c3-4ef2-981f-6dc2864cf92d`; created `Qualcomm`, `ModularAI`, `CrossDevicePersonalMemory`, and `RememberUnderstandActLoop`. Core synthesis: AI interaction can spread across glasses, earbuds, phones, PCs, pendants, rings, and cars while the phone remains a near-term coordination hub for identity, private context, permissions, connectivity, payments, and shared compute. A coherent personal “second brain” requires multimodal transformation, local-first privacy, permission and task continuity, and cross-brand protocols; model portability alone does not solve memory governance. No settled contradiction was adopted. Shipment forecasts, price increases, the Modular acquisition value, interoperability timing, and comparisons with CUDA remain source-scoped, while summit demonstrations do not establish real-world reliability or adoption. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,265-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran deterministic and graph-aware lint interactively. Semantic checks were unavailable because the LiteLLM model lacked a provider-qualified configuration; no lint report was saved.

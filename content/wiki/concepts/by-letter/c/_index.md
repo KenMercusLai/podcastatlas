@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8985
+wiki_total_pages: 8987
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2507,6 +2507,9 @@ wiki_pages:
   - key: "CrossDatasetPrivacyLinkage"
     title: "Cross-Dataset Privacy Linkage"
     url: "/wiki/concepts/crossdatasetprivacylinkage/"
+  - key: "CrossDevicePersonalMemory"
+    title: "Cross-Device Personal Memory / 跨设备个人记忆"
+    url: "/wiki/concepts/crossdevicepersonalmemory/"
   - key: "CrossDisciplinaryLiteratureSearch"
     title: "Cross-Disciplinary Literature Search"
     url: "/wiki/concepts/crossdisciplinaryliteraturesearch/"

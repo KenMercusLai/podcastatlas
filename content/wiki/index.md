@@ -3316,6 +3316,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [AI講台語，長輩為何有聽沒有懂？](sources/ai-jiang-taiyu-zhangbei-weihe-you-ting-meiyou-dong-8f2ef858c5c159ba4b0becd4f1676e8b.md) — 端聞 episode on Taiwanese-language clinical communication, elder comprehension, AI patient education, low-resource speech data, and user-centered validation.
 - [No.221 中国辣条江湖](sources/no-221-zhongguo-latiao-jianghu-1020016798.md) — 半拿铁 episode on Pingjiang's辣条 origin cluster, Weilong and Malawangzi's competing routes, food-safety standardization, and second-generation brand visibility.
+- [当眼镜、耳机、手机都有 AI，谁来统一你的「第二大脑」｜ 2026 高通骁龙峰会 S10E31](sources/dang-yanjing-erji-shouji-dou-you-ai-shui-lai-tongyi-ni-de-di-er-danao-2026-gaotong-xiaolong-fenghui-s10e31-2d6bfcec-31c3-4ef2-981f-6dc2864cf92d.md) — What's Next｜科技早知道 episode on distributed AI devices, the phone as coordination hub, local-first multimodal memory, cross-device interoperability, and Qualcomm's platform ambitions.
 
 ## Entities
 - [Lord Randolph Churchill](entities/LordRandolphChurchill.md) — Winston Churchill's admired but critical father, whose death intensified the episode's account of Winston's drive for achievement.
@@ -14945,6 +14946,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [卫龙 / Weilong](entities/Weilong.md) — Luohe snack company that scaled辣条 through packaging, brand marketing, capital, and later vegetable-snack diversification.
 - [平江 / Pingjiang](entities/Pingjiang.md) — Hunan county presented as modern辣条's origin cluster and a case of crisis-driven food-industry upgrading.
 - [张子龙 / Zhang Zilong](entities/ZhangZilong.md) — Malawangzi second-generation employee whose public account connects brand visibility to unresolved operating apprenticeship.
+- [Qualcomm / 高通](entities/Qualcomm.md) — Semiconductor and platform company presented as linking edge-AI hardware, model deployment, and prospective device interoperability.
+- [Modular](entities/ModularAI.md) — AI software-infrastructure company whose Mojo and MAX stack is presented as supporting cross-hardware model deployment.
 
 ## Concepts
 - [Romanticized War Moral Ambivalence](concepts/RomanticizedWarMoralAmbivalence.md) — Coexistence of attraction to danger and martial glory with admiration for enemies, awareness of suffering, and revulsion at cruelty.
@@ -23972,5 +23975,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [辣条产业标准化 / Latiao Industry Standardization](concepts/LatiaoIndustryStandardization.md) — Transition from low-price workshops toward cleaner facilities, testing, national classification, and higher-cost category legitimacy.
 - [食品分类监管冲突 / Food Classification Regulatory Conflict](concepts/FoodClassificationRegulatoryConflict.md) — Conflict in which different legal food categories make the same ingredients or additives compliant in one jurisdiction and noncompliant in another.
 - [县域产业危机升级 / County-Industry Crisis Upgrade](concepts/CountyIndustryCrisisUpgrade.md) — Local-cluster adaptation that recombines inherited capabilities after shocks and later institutionalizes production through standards, training, and brand trust.
+- [Cross-Device Personal Memory / 跨设备个人记忆](concepts/CrossDevicePersonalMemory.md) — User-governed continuity layer for multimodal context, permissions, and task state across AI devices and platforms.
+- [Remember-Understand-Act Loop / 记忆—理解—行动闭环](concepts/RememberUnderstandActLoop.md) — Three-stage personal-AI model separating retained context, contextual judgment, and permissioned action.
 
 ## Syntheses

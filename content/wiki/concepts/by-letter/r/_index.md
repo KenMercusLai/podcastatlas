@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 8985
+wiki_total_pages: 8987
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -437,6 +437,9 @@ wiki_pages:
   - key: "RemedialEducationTargeting"
     title: "Remedial Education Targeting"
     url: "/wiki/concepts/remedialeducationtargeting/"
+  - key: "RememberUnderstandActLoop"
+    title: "Remember-Understand-Act Loop / 记忆—理解—行动闭环"
+    url: "/wiki/concepts/rememberunderstandactloop/"
   - key: "RemigrationPolitics"
     title: "Remigration Politics"
     url: "/wiki/concepts/remigrationpolitics/"

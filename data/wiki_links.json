@@ -19075,6 +19075,10 @@
     "title": "Cross-Dataset Privacy Linkage",
     "url": "/wiki/concepts/crossdatasetprivacylinkage/"
   },
+  "CrossDevicePersonalMemory": {
+    "title": "Cross-Device Personal Memory / 跨设备个人记忆",
+    "url": "/wiki/concepts/crossdevicepersonalmemory/"
+  },
   "CrossDisciplinaryLiteratureSearch": {
     "title": "Cross-Disciplinary Literature Search",
     "url": "/wiki/concepts/crossdisciplinaryliteraturesearch/"
@@ -50751,6 +50755,10 @@
     "title": "Modifiable Dementia Risk Factors",
     "url": "/wiki/concepts/modifiabledementiariskfactors/"
   },
+  "ModularAI": {
+    "title": "Modular",
+    "url": "/wiki/entities/modularai/"
+  },
   "ModularAIDataCenters": {
     "title": "Modular AI Data Centers",
     "url": "/wiki/concepts/modularaidatacenters/"
@@ -60755,6 +60763,10 @@
     "title": "Quakers",
     "url": "/wiki/entities/quakers/"
   },
+  "Qualcomm": {
+    "title": "Qualcomm / 高通",
+    "url": "/wiki/entities/qualcomm/"
+  },
   "QualityLowPriceReasonedPremium": {
     "title": "Quality Low Price And Reasoned Premium / 有品质的低价与有理由的溢价",
     "url": "/wiki/concepts/qualitylowpricereasonedpremium/"
@@ -62010,6 +62022,10 @@
   "RemedialEducationTargeting": {
     "title": "Remedial Education Targeting",
     "url": "/wiki/concepts/remedialeducationtargeting/"
+  },
+  "RememberUnderstandActLoop": {
+    "title": "Remember-Understand-Act Loop / 记忆—理解—行动闭环",
+    "url": "/wiki/concepts/rememberunderstandactloop/"
   },
   "RemigrationPolitics": {
     "title": "Remigration Politics",
@@ -85954,6 +85970,10 @@
   "dang-xinwen-chengwei-dupan-jizhe-keyi-da-zhuan-yibi-ma-f8800ef95c64ad18f08802b15cd20b79": {
     "title": "當新聞成為賭盤，記者可以大賺一筆嗎？",
     "url": "/wiki/sources/dang-xinwen-chengwei-dupan-jizhe-keyi-da-zhuan-yibi-ma-f8800ef95c64ad18f08802b15cd20b79/"
+  },
+  "dang-yanjing-erji-shouji-dou-you-ai-shui-lai-tongyi-ni-de-di-er-danao-2026-gaotong-xiaolong-fenghui-s10e31-2d6bfcec-31c3-4ef2-981f-6dc2864cf92d": {
+    "title": "当眼镜、耳机、手机都有 AI，谁来统一你的「第二大脑」｜ 2026 高通骁龙峰会 S10E31",
+    "url": "/wiki/sources/dang-yanjing-erji-shouji-dou-you-ai-shui-lai-tongyi-ni-de-di-er-danao-2026-gaotong-xiaolong-fenghui-s10e31-2d6bfcec-31c3-4ef2-981f-6dc2864cf92d/"
   },
   "dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun": {
     "title": "当“印钞机”百度开始失血，是天灾还是人祸？",

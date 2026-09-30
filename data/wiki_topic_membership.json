@@ -22751,6 +22751,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "CrossDevicePersonalMemory": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "CrossDisciplinaryLiteratureSearch": [
     {
       "key": "science",
@@ -53117,6 +53124,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "ModularAI": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "ModularAIDataCenters": [
     {
       "key": "technology",
@@ -63623,6 +63637,13 @@
       "url": "/topics/history/"
     }
   ],
+  "Qualcomm": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "QualityValueInvesting": [
     {
       "key": "economics",
@@ -64911,6 +64932,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "RememberUnderstandActLoop": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "RemnantResistanceBase": [
@@ -89330,6 +89358,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "dang-yanjing-erji-shouji-dou-you-ai-shui-lai-tongyi-ni-de-di-er-danao-2026-gaotong-xiaolong-fenghui-s10e31-2d6bfcec-31c3-4ef2-981f-6dc2864cf92d": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun": [

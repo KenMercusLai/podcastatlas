@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 11596
+wiki_total_pages: 11598
 wiki_pages:
   - key: "Qatar"
     title: "Qatar"
@@ -56,6 +56,9 @@ wiki_pages:
   - key: "Quakers"
     title: "Quakers"
     url: "/wiki/entities/quakers/"
+  - key: "Qualcomm"
+    title: "Qualcomm / 高通"
+    url: "/wiki/entities/qualcomm/"
   - key: "QuanzhenDaoism"
     title: "Quanzhen Daoism / 全真道教"
     url: "/wiki/entities/quanzhendaoism/"
