@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "v"
-wiki_total_pages: 11645
+wiki_total_pages: 11648
 wiki_pages:
   - key: "VacheronConstantin"
     title: "Vacheron Constantin"
@@ -254,6 +254,9 @@ wiki_pages:
   - key: "VladimirPutin"
     title: "Vladimir Putin"
     url: "/wiki/entities/vladimirputin/"
+  - key: "VladimirRaitz"
+    title: "Vladimir Raitz"
+    url: "/wiki/entities/vladimirraitz/"
   - key: "VLLM"
     title: "vLLM"
     url: "/wiki/entities/vllm/"

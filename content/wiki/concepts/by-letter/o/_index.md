@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 9034
+wiki_total_pages: 9037
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -533,6 +533,9 @@ wiki_pages:
   - key: "OrganizedAngelInvestorNetworks"
     title: "Organized Angel Investor Networks"
     url: "/wiki/concepts/organizedangelinvestornetworks/"
+  - key: "OrganizedHolidayIntermediation"
+    title: "Organized Holiday Intermediation"
+    url: "/wiki/concepts/organizedholidayintermediation/"
   - key: "OrganoidComputing"
     title: "Organoid Computing"
     url: "/wiki/concepts/organoidcomputing/"

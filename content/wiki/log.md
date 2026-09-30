@@ -26309,6 +26309,10 @@ Ran lint. See lint-report.md for details.
 
 Added source `224-roman-holidays-glt9939678940`; created `Tiberius`, `RomanEliteLeisure`, and `AncientRomanTourism`; and resynthesized `PlinyTheYounger`, `BayOfNaples`, `Hadrian`, `Nero`, and `Athens` from their complete preserved evidence inventories. Core synthesis: Roman elites pursued recognisable pleasures of sea, privacy, food, bathing, views, ruins, and cultural travel, but leisure required moral and political legitimation; travel also joined education and historical atmosphere to conquest, plunder, restoration, staged tradition, inscriptions, and pilgrimage. No settled contradiction was adopted. Tiberius's Capri reputation, Nero's degree of public access, ordinary Roman experience, engineering attribution, visitor motives, and claims of continuity with modern tourism remain contested or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
 
+## [2026-10-01] ingest | 223. Sun, Sea, and Sex
+
+Added source `223-sun-sea-and-sex-glt5217352210`; created `ThomasCook`, `BillyButlin`, `VladimirRaitz`, `ModernMassTourism`, `OrganizedHolidayIntermediation`, and `HolidayImprovementIdeology`. Core synthesis: modern mass tourism grew through paid time, rising mobility, bundled services, resort construction, and state economic policy, while holidays remained morally and socially coded through health, education, class, and fear of boredom. Clubs, camps, agents, brochures, representatives, and package operators reduced uncertainty but also created dependence on intermediaries; internet booking changed that structure without eliminating aggregation or trust needs. No settled contradiction was adopted. Visitor totals, prices, construction figures, primacy claims, health chronology, and causal judgments remain source-scoped, and the account is strongly British-centered. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,290-source coverage; no topic claim set was dirty and global compaction was not due.
+
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -26316,3 +26320,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-01] ingest | What Alcohol Does to Your Body, Brain & Health
 
 Added source `what-alcohol-does-to-your-body-brain-health-scim8915337113`; created `AlcoholSystemicDoseRisk` and `AlcoholRewardStressAdaptation`; and resynthesized `AlcoholLiverHarmBoundary` and `SubstanceSleepArchitectureBoundary` from their complete preserved evidence inventories. Core synthesis: alcohol risk is graded and multi-system, while brief reward, relief, or sedation can coexist with negative mood rebound, higher baseline stress, tolerance, impaired control, and disrupted sleep architecture. Food, water, electrolytes, fermented foods, vitamins, and other tactics may alter absorption or symptoms but do not neutralize ethanol or acetaldehyde exposure. No settled contradiction was adopted. Low-to-moderate brain associations, recovery timelines, neurochemical and microbiome mechanisms, hangover interventions, cancer estimates, vitamin mitigation, hormone effects, and exact risk thresholds remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,289-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

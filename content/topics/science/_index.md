@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1360
+topic_total_pages: 1361
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1015,6 +1015,9 @@ topic_concepts:
   - key: "HistoricalBodyConcept"
     title: "Historical Body Concept"
     url: "/wiki/concepts/historicalbodyconcept/"
+  - key: "HolidayImprovementIdeology"
+    title: "Holiday Improvement Ideology"
+    url: "/wiki/concepts/holidayimprovementideology/"
   - key: "HormoneContextAggression"
     title: "Hormone Context Aggression"
     url: "/wiki/concepts/hormonecontextaggression/"

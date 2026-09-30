@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9034
+wiki_total_pages: 9037
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1106,6 +1106,9 @@ wiki_pages:
   - key: "ModernJapaneseInteriorDiscovery"
     title: "Modern Japanese Interior Discovery"
     url: "/wiki/concepts/modernjapaneseinteriordiscovery/"
+  - key: "ModernMassTourism"
+    title: "Modern Mass Tourism"
+    url: "/wiki/concepts/modernmasstourism/"
   - key: "ModernPoetryForChildren"
     title: "Modern Poetry For Children"
     url: "/wiki/concepts/modernpoetryforchildren/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [223. Sun, Sea, and Sex](sources/223-sun-sea-and-sex-glt5217352210.md) — The Rest Is History episode on paid holidays, holiday camps, charter packages, Mediterranean mass tourism, class, improvement, and travel intermediation.
 - [224. Roman Holidays](sources/224-roman-holidays-glt9939678940.md) — The Rest Is History episode on Roman elite leisure, Campanian resorts, culturally prestigious travel, plunder, heritage staging, and pilgrimage.
 - [225. J.R.R. Tolkien](sources/225-j-r-r-tolkien-glt9725776786.md) — The Rest Is History episode on Tolkien's formative losses, Catholicism, philology, friendships, the Somme, Edith, and the early legendarium.
 - [227. Portugal: On the Edge of the World (Part 1)](sources/227-portugal-on-the-edge-of-the-world-part-1-glt1834337589.md) — The Rest Is History episode on Portuguese kingdom formation, the Anglo-Portuguese alliance, Ceuta, Henry the Navigator, maritime knowledge, and early Atlantic plantation slavery.
@@ -3345,6 +3346,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [226. The Lord of the Rings](sources/226-the-lord-of-the-rings-glt1788342017.md) — The Rest Is History episode on Tolkien's ring ethics, hidden Catholic structure, wartime power, damaged homecoming, anti-industrial environmentalism, politics, and race.
 
 ## Entities
+- [Thomas Cook](entities/ThomasCook.md) — Organized-travel enterprise used as the historical model for guided tours, package coordination, and the pre-internet agent age.
+- [Billy Butlin](entities/BillyButlin.md) — Entrepreneur who scaled affordable British holiday camps through inclusive pricing, activities, and managed participation.
+- [Vladimir Raitz](entities/VladimirRaitz.md) — Charter-flight pioneer who bundled transport, accommodation, food, recreation, and local representation for postwar British travelers.
 - [Tiberius](entities/Tiberius.md) — Roman emperor whose withdrawal to Capri turned cultivated retreat into a crisis of privacy, reputation, and political absence.
 - [Edith Tolkien](entities/EdithTolkien.md) — Tolkien's wife and wartime companion whose 1917 dance became the biographical seed for Beren and Luthien.
 - [Tea Club Barrovian Society](entities/TeaClubBarrovianSociety.md) — Tolkien's school literary circle joining Edwardian fellowship, medieval interests, and First World War loss.
@@ -15024,6 +15028,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Steve Goss](entities/SteveGoss.md) — Former Social Security chief actuary assessing the scale, feasibility, and timing of reform options.
 
 ## Concepts
+- [Modern Mass Tourism](concepts/ModernMassTourism.md) — Widening leisure travel through paid time, mobility, commercial bundling, resort infrastructure, state policy, and rising incomes.
+- [Organized Holiday Intermediation](concepts/OrganizedHolidayIntermediation.md) — Coordination of travel through clubs, camps, agents, operators, representatives, brochures, and later digital platforms.
+- [Holiday Improvement Ideology](concepts/HolidayImprovementIdeology.md) — Expectation that holidays should improve health, knowledge, character, fellowship, or taste while signaling social position.
 - [Roman Elite Leisure](concepts/RomanEliteLeisure.md) — Privileged rest made legitimate through cultivation, status discipline, and continuing public responsibility.
 - [Ancient Roman Tourism](concepts/AncientRomanTourism.md) — Elite travel joining education, myth, ruins, cultural prestige, plunder, heritage staging, and pilgrimage.
 - [Philological Worldbuilding](concepts/PhilologicalWorldbuilding.md) — Language-first method in which words, names, registers, and textual fragments generate imagined peoples, histories, and worlds.
