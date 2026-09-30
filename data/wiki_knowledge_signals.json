@@ -123880,9 +123880,9 @@
       "url": "/wiki/concepts/morganaticmarriage/"
     },
     "MorningLightCircadianAnchoring": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 2,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "SCIM2882548864 [SCIM2882548864].md",
@@ -123939,9 +123939,16 @@
           "show": "Huberman Lab",
           "title": "AMA #14: 2023 Philanthropy, Evening Routine, Light Therapy, Health Metrics & More",
           "url": "/wiki/sources/ama-14-2023-philanthropy-evening-routine-light-therapy-health-metrics-more-scim2172700344/"
+        },
+        {
+          "episode_file": "SCIM2378383211 [SCIM2378383211].md",
+          "key": "ama-1-leveraging-ultradian-cycles-how-to-protect-your-brain-seed-oils-examined-and-more-scim2378383211",
+          "show": "Huberman Lab",
+          "title": "AMA #1: Leveraging Ultradian Cycles, How to Protect Your Brain, Seed Oils Examined and More",
+          "url": "/wiki/sources/ama-1-leveraging-ultradian-cycles-how-to-protect-your-brain-seed-oils-examined-and-more-scim2378383211/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-30",
       "url": "/wiki/concepts/morninglightcircadiananchoring/"
     },
     "Morocco": {
@@ -126368,6 +126375,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/concepts/naturalizedplayerpolicyinchinesefootball/"
+    },
+    "NatureExposureHealthEvidence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2378383211 [SCIM2378383211].md",
+          "key": "ama-1-leveraging-ultradian-cycles-how-to-protect-your-brain-seed-oils-examined-and-more-scim2378383211",
+          "show": "Huberman Lab",
+          "title": "AMA #1: Leveraging Ultradian Cycles, How to Protect Your Brain, Seed Oils Examined and More",
+          "url": "/wiki/sources/ama-1-leveraging-ultradian-cycles-how-to-protect-your-brain-seed-oils-examined-and-more-scim2378383211/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/natureexposurehealthevidence/"
     },
     "NatureLawLegalJustice": {
       "episode_count": 1,

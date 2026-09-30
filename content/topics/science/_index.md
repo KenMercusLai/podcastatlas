@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1340
+topic_total_pages: 1342
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1375,6 +1375,9 @@ topic_concepts:
   - key: "NaturalSelectionBiology"
     title: "Natural Selection (Biology) / 生物学自然选择"
     url: "/wiki/concepts/naturalselectionbiology/"
+  - key: "NatureExposureHealthEvidence"
+    title: "Nature Exposure Health Evidence"
+    url: "/wiki/concepts/natureexposurehealthevidence/"
   - key: "NavierStokesEquations"
     title: "Navier-Stokes Equations"
     url: "/wiki/concepts/navierstokesequations/"
@@ -3471,6 +3474,9 @@ topic_sources:
   - key: "ama-18-cold-therapy-advice-skin-health-tips-motivation-learning-strategies-more-scim1100391235"
     title: "AMA #18: Cold Therapy Advice, Skin Health Tips, Motivation, Learning Strategies & More"
     url: "/wiki/sources/ama-18-cold-therapy-advice-skin-health-tips-motivation-learning-strategies-more-scim1100391235/"
+  - key: "ama-1-leveraging-ultradian-cycles-how-to-protect-your-brain-seed-oils-examined-and-more-scim2378383211"
+    title: "AMA #1: Leveraging Ultradian Cycles, How to Protect Your Brain, Seed Oils Examined and More"
+    url: "/wiki/sources/ama-1-leveraging-ultradian-cycles-how-to-protect-your-brain-seed-oils-examined-and-more-scim2378383211/"
   - key: "tech-20260728-0728-mp-tech-pod-128-tech-20260728-0728-mp-tech-pod-128"
     title: "An \"antacid\" to fight climate change"
     url: "/wiki/sources/tech-20260728-0728-mp-tech-pod-128-tech-20260728-0728-mp-tech-pod-128/"

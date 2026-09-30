@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [AMA #1: Leveraging Ultradian Cycles, How to Protect Your Brain, Seed Oils Examined and More](sources/ama-1-leveraging-ultradian-cycles-how-to-protect-your-brain-seed-oils-examined-and-more-scim2378383211.md) — Huberman Lab premium AMA separating strong morning-light guidance from broader nature benefits and uncertain grounding or negative-ion mechanisms.
 - [249. Treason in Modern Britain (Part 2)](sources/249-treason-in-modern-britain-part-2-glt2159531504.md) — The Rest Is History episode on treason as a changing contest over monarchy, Parliament, state, nation, republic, evidence, and political legitimacy.
 - [250. Alfred the Great: Fury of the Vikings (Part 1)](sources/250-alfred-the-great-fury-of-the-vikings-part-1-glt7924523463.md) — The Rest Is History episode on Alfred's formation, the Great Heathen Army, Viking operational mobility, divided Anglo-Saxon kingdoms, source bias, and the Chippenham crisis of 878.
 - [251. Alfred the Great: Return of the King (Part 2)](sources/251-alfred-the-great-return-of-the-king-part-2-glt9621369023.md) — The Rest Is History episode on Alfred's 878 recovery, Edington, Guthrum's baptism, Danelaw accommodation, fortified reform, learning, and wider English identity.
@@ -14877,6 +14878,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Roger Berkowitz](entities/RogerBerkowitz.md) — Political theorist reconstructing Hannah Arendt's account of friendship, plurality, truth, and reciprocal persuasion.
 
 ## Concepts
+- [Nature Exposure Health Evidence](concepts/NatureExposureHealthEvidence.md) — Evidence hierarchy separating whole-experience nature benefits from stronger morning-light evidence and weaker grounding, ionization, forest-bathing, or indoor-plant mechanisms.
 - [Conflict Reporting Access Bias / 冲突报道准入偏差](concepts/ConflictReportingAccessBias.md) — How language, class, politics, intermediaries, surveillance, and safety select the people and evidence visible to a reporter.
 - [Independent Conflict Reporting Risk / 独立冲突报道风险](concepts/IndependentConflictReportingRisk.md) — Transfer of financial, logistical, physical, legal, and psychological conflict-reporting burdens from institutions to individuals.
 - [Conflict Information Verification / 冲突信息核验](concepts/ConflictInformationVerification.md) — Evidence-boundary practice for separating observation, testimony, official messaging, rumor, and unresolved disagreement during war.

@@ -54389,6 +54389,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "NatureExposureHealthEvidence": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "NatureLawLegalJustice": [
     {
       "key": "politics",
@@ -88468,6 +88475,13 @@
       "label": "Politics",
       "url": "/topics/politics/"
     },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "ama-1-leveraging-ultradian-cycles-how-to-protect-your-brain-seed-oils-examined-and-more-scim2378383211": [
     {
       "key": "science",
       "label": "Science",
