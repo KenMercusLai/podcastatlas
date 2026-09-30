@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2251
+topic_total_pages: 2253
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1438,6 +1438,9 @@ topic_concepts:
   - key: "WindfallDecisionTrap"
     title: "Windfall Decision Trap / 无故之利"
     url: "/wiki/concepts/windfalldecisiontrap/"
+  - key: "WorldWarIIAsianChronology"
+    title: "World War II Asian Chronology"
+    url: "/wiki/concepts/worldwariiasianchronology/"
   - key: "WrittenSuccessionCredential"
     title: "Written Succession Credential / 书面继承凭证"
     url: "/wiki/concepts/writtensuccessioncredential/"
@@ -4767,6 +4770,9 @@ topic_sources:
   - key: "171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962"
     title: "171.闲聊十二生肖之马：观音大士的兴趣爱好,及老头环角色的灵感"
     url: "/wiki/sources/171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962/"
+  - key: "235-china-and-world-war-ii-part-1-glt2114682484"
+    title: "235. China and World War II (Part 1)"
+    url: "/wiki/sources/235-china-and-world-war-ii-part-1-glt2114682484/"
   - key: "236-china-and-world-war-ii-part-2-glt5290070743"
     title: "236. China and World War II (Part 2)"
     url: "/wiki/sources/236-china-and-world-war-ii-part-2-glt5290070743/"

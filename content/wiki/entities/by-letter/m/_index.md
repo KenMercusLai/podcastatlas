@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 11607
+wiki_total_pages: 11609
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -281,6 +281,9 @@ wiki_pages:
   - key: "MarciaWilliams"
     title: "Marcia Williams"
     url: "/wiki/entities/marciawilliams/"
+  - key: "MarcoPoloBridgeIncident"
+    title: "Marco Polo Bridge Incident"
+    url: "/wiki/entities/marcopolobridgeincident/"
   - key: "MarcoRubio"
     title: "Marco Rubio"
     url: "/wiki/entities/marcorubio/"

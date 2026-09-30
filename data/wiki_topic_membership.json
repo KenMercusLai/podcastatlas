@@ -1374,6 +1374,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "235-china-and-world-war-ii-part-1-glt2114682484": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "236-china-and-world-war-ii-part-2-glt5290070743": [
     {
       "key": "history",
@@ -83462,6 +83469,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "WorldWarIIAsianChronology": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "WorldlyPoliticalCultivation": [

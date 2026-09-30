@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 8997
+wiki_total_pages: 8998
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -488,6 +488,9 @@ wiki_pages:
   - key: "WorldModels"
     title: "World Models"
     url: "/wiki/concepts/worldmodels/"
+  - key: "WorldWarIIAsianChronology"
+    title: "World War II Asian Chronology"
+    url: "/wiki/concepts/worldwariiasianchronology/"
   - key: "WorldlyPoliticalCultivation"
     title: "Worldly Political Cultivation / 入世政治修行"
     url: "/wiki/concepts/worldlypoliticalcultivation/"

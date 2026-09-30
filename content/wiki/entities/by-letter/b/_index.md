@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 11607
+wiki_total_pages: 11609
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -236,6 +236,9 @@ wiki_pages:
   - key: "BattleOfSaratoga"
     title: "Battle of Saratoga"
     url: "/wiki/entities/battleofsaratoga/"
+  - key: "BattleOfShanghai1937"
+    title: "Battle of Shanghai (1937)"
+    url: "/wiki/entities/battleofshanghai1937/"
   - key: "BattleOfShrewsbury"
     title: "Battle of Shrewsbury"
     url: "/wiki/entities/battleofshrewsbury/"

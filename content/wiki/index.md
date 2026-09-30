@@ -3324,6 +3324,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [当眼镜、耳机、手机都有 AI，谁来统一你的「第二大脑」｜ 2026 高通骁龙峰会 S10E31](sources/dang-yanjing-erji-shouji-dou-you-ai-shui-lai-tongyi-ni-de-di-er-danao-2026-gaotong-xiaolong-fenghui-s10e31-2d6bfcec-31c3-4ef2-981f-6dc2864cf92d.md) — What's Next｜科技早知道 episode on distributed AI devices, the phone as coordination hub, local-first multimodal memory, cross-device interoperability, and Qualcomm's platform ambitions.
 
 - [236. China and World War II (Part 2)](sources/236-china-and-world-war-ii-part-2-glt5290070743.md) — The Rest Is History episode with Rana Mitter on Nanjing, the 1938 Yellow River flood, resistance and collaboration, alliance friction, communist growth, civil-war contingency, and war memory.
+- [235. China and World War II (Part 1)](sources/235-china-and-world-war-ii-part-1-glt2114682484.md) — The Rest Is History episode with Rana Mitter on rival global-war start dates, Chinese fragmentation, Japanese imperial expansion, the 1937 escalation, and the Battle of Shanghai.
 
 ## Entities
 - [Marilyn Monroe](entities/MarilynMonroe.md) — American actor and model whose disciplined screen persona became a durable symbol of Hollywood, consumer culture, and biographical uncertainty.
@@ -3693,8 +3694,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Deng Xiaoping](entities/DengXiaoping.md) — Revolutionary leader who joined pragmatic market opening to uncompromising Communist Party rule.
 - [Zhao Ziyang](entities/ZhaoZiyang.md) — Reform-era leader whose economic and limited political liberalization ended with his 1989 removal.
 - [Mao Zedong](entities/MaoZedong.md) — Revolutionary founder whose protected legitimacy and destructive later campaigns shaped post-Mao reform.
-- [Chinese Communist Party](entities/ChineseCommunistParty.md) — One-party institution that adapted economic policy while retaining coercive political supremacy.
-- [Rana Mitter](entities/RanaMitter.md) — Modern-China historian interpreting Deng-era reform, social transformation, and repression.
+- [Chinese Communist Party](entities/ChineseCommunistParty.md) — Revolutionary organization traced from retreat and the anti-Japanese united front through wartime growth, later victory, economic adaptation, and coercive political supremacy.
+- [Rana Mitter](entities/RanaMitter.md) — Modern-China historian interpreting imperial pressure, war chronology, resistance, revolution, reform, and repression through bounded contingency.
 - [Thomas Hughes](entities/ThomasHughes.md) — Author who translated Rugby and Arnoldian character formation into the foundational Tom Brown school story.
 - [Rugby School](entities/RugbySchool.md) — British public school linking Thomas Arnold's reforms to Thomas Hughes's literary model.
 - [William of Wykeham](entities/WilliamOfWykeham.md) — Medieval bishop and chancellor whose Winchester–New College pipeline joined poor scholars, Latin training, and limited elite access.
@@ -12588,7 +12589,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sun Chuanfang / 孙传芳](entities/SunChuanfang.md) — Warlord killed by Shi Jianqiao, whose prior execution and humiliation of Shi Congbin shaped the case's public morality.
 - [Shi Congbin / 施从斌](entities/ShiCongbin.md) — Shi Jianqiao's father, whose execution and head-display became the emotional basis of the revenge claim.
 - [Feng Yuxiang / 冯玉祥](entities/FengYuxiang.md) — Military-political figure linked by the episode to Shi Jianqiao's pardon and patriotic image politics.
-- [Chiang Kai-shek / 蒋介石](entities/ChiangKaiShek.md) — Nationalist leader appearing through executive pardon and wartime aircraft-donation recognition in the Shi Jianqiao episode.
+- [Chiang Kai-shek / 蒋介石](entities/ChiangKaiShek.md) — Nationalist leader joining incomplete state consolidation and consequential resistance to coercive rule and catastrophic civilian harm.
 - [Jürgen Habermas / 哈贝马斯](entities/JurgenHabermas.md) — Public-sphere theorist used as the episode's foil for thinking about sensational, emotional publicness.
 - [《平面国》 / Flatland](entities/Flatland.md) — Edwin Abbott classic read by episode 40 as mathematical science fiction, social satire, dimensional allegory, and a publishing/translation case.
 - [Edwin A. Abbott / 爱德温·爱伯特](entities/EdwinAbbott.md) — Author of 《平面国》, framed by episode 40 through mathematics, theology, satire, and author-character separation.
@@ -12607,7 +12608,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gaoyou / 高邮](entities/Gaoyou.md) — Local 1931 flood disaster scene where the episode highlights nighttime wall collapse and religious explanation.
 - [Dongting Lake / 洞庭湖](entities/DongtingLake.md) — Lake and risk-distribution node in the episode's levee, opening, and flood-control politics.
 - [Yunmengze / 云梦泽](entities/Yunmengze.md) — Ancient wetland invoked by episode 65 as a flood-buffer and wetland-adaptation contrast.
-- [Nationalist Government / 国民政府](entities/NationalistGovernment.md) — Republican-era state actor in episode 65's anti-superstition, war, public-health, and flood-relief account.
+- [Nationalist Government / 国民政府](entities/NationalistGovernment.md) — Incompletely consolidated modernization and resistance state with real mobilizing capacity, coercive power, and severe geographic and institutional limits.
 - [China International Famine Relief Commission / 华洋义赈会](entities/ChinaInternationalFamineReliefCommission.md) — Major civil charity organization in the 1931 flood relief network.
 - [Wu Liande / 伍连德](entities/WuLiande.md) — Public-health expert linked by episode 65 to cholera investigation and disease response after the flood.
 - [John Hope Simpson](entities/JohnHopeSimpson.md) — British expert in episode 65's flood relief and refugee-movement discussion.
@@ -14965,6 +14966,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Nanjing Massacre / 南京大屠杀](entities/NanjingMassacre.md) — Japanese mass murder, sexual violence, plunder, and terror after the December 1937 occupation of Nanjing.
 - [Wang Jingwei / 汪精卫](entities/WangJingwei.md) — Former Nationalist leader who headed the Japanese-backed Nanjing regime while claiming Republican continuity and harm reduction.
+- [Marco Polo Bridge Incident](entities/MarcoPoloBridgeIncident.md) — July 1937 local confrontation near Wanping that escalated into sustained war between China and Japan.
+- [Battle of Shanghai (1937)](entities/BattleOfShanghai1937.md) — Costly three-month Nationalist stand chosen for military concentration and international visibility.
 
 ## Concepts
 - [Celebrity Image Afterlife](concepts/CelebrityImageAfterlife.md) — Process by which detachable images and later events preserve a public figure as a reusable symbol while obscuring the historical person.
@@ -24001,7 +24004,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Cross-Device Personal Memory / 跨设备个人记忆](concepts/CrossDevicePersonalMemory.md) — User-governed continuity layer for multimodal context, permissions, and task state across AI devices and platforms.
 - [Remember-Understand-Act Loop / 记忆—理解—行动闭环](concepts/RememberUnderstandActLoop.md) — Three-stage personal-AI model separating retained context, contextual judgment, and permissioned action.
 
-- [China's Wartime Resistance and Political Realignment](concepts/ChinaWartimeResistanceAndPoliticalRealignment.md) — Continued resistance constrained Japan while mass violence and exhaustion weakened the Nationalists and changed the later civil-war balance.
+- [China's Wartime Resistance and Political Realignment](concepts/ChinaWartimeResistanceAndPoliticalRealignment.md) — Fragmented entry into war and continued resistance constrained Japan while mass violence and exhaustion changed the Nationalist-Communist balance.
+- [World War II Asian Chronology](concepts/WorldWarIIAsianChronology.md) — Framework comparing 1931, 1937, 1939, and 1941 as different starting points for imperial aggression, sustained war, and global expansion.
 - [1938 Yellow River Flood](concepts/YellowRiverFlood1938.md) — Deliberate Nationalist dike breach whose mass civilian cost and disputed military value define a severe military-necessity dilemma.
 - [Wartime Collaboration under Occupation](concepts/WartimeCollaborationUnderOccupation.md) — Framework distinguishing elite client rule from coerced, pragmatic, and survival-based accommodation under occupation.
 - [Chinese War Memory and Reconciliation](concepts/ChineseWarMemoryReconciliation.md) — Selective widening of war memory to recognize Nationalist as well as communist resistance without resolving rival narratives.
