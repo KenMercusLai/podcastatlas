@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [265: Saudi Arabia: The Mystery of the Kaaba](sources/265-saudi-arabia-the-mystery-of-the-kaaba-glt1528147434.md) — The Rest Is History episode on the Kaaba's Muslim sacred history, sparse early external evidence, late-seventh-century reconstruction, and the limits of secular historical interpretation.
 - [E254｜超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？](sources/e254-chaoji-eerninuo-laile-womende-richang-suoxu-zhenhui-yin-ta-zhangjia-ma-0b644f51-461c-4ddb-b707-d2a39b9a7d80.md) — 硅谷101 episode on conditional El Niño commodity shocks, crop-stage and inventory exposure, retail pass-through, fishmeal, producer risk controls, and Panama Canal drought disruption.
 - [266: South Korea: The Riddle of Hwang Jini](sources/266-south-korea-the-riddle-of-hwang-jini-glt1910695360.md) — The Rest Is History episode on Hwang Jini, gisaeng status and training, sijo poetry, legend-heavy biography, and divided modern Korean memory.
 - [Navigating Conflict, Finding Purpose & Maintaining Drive | Dr. Lex Fridman](sources/navigating-conflict-finding-purpose-maintaining-drive-dr-lex-fridman-scim7125421200.md) — Huberman Lab episode on Ukraine, conflict psychology, difficult interviews, scientific criticism, social robotics, and the costs of pursuing a calling.
@@ -3269,6 +3270,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Using Caffeine to Optimize Mental & Physical Performance](sources/using-caffeine-to-optimize-mental-physical-performance-scim1210768101.md) — Huberman Lab solo episode on adenosine blockade, caffeine timing and dose, performance, memory, learned reinforcement, tolerance, sleep, and stacking risks.
 
 ## Entities
+- [Kaaba](entities/Kaaba.md) — Islam's holiest sanctuary, examined through ritual centrality, sacred tradition, sparse early evidence, and contested reconstruction.
+- [Mecca](entities/Mecca.md) — Islamic pilgrimage city whose sanctuary, contested early attestation, and political custody anchor the episode.
+- [Muhammad](entities/Muhammad.md) — Source-bounded profile of the prophet's revelation, migration, return to Mecca, and reconsecration of the Kaaba.
+- [Abd al-Malik](entities/AbdAlMalik.md) — Umayyad caliph associated with imperial consolidation, Mecca's recovery, and qualified sacred-geography formation claims.
+- [Abdullah ibn al-Zubayr](entities/AbdullahIbnAlZubayr.md) — Mecca-centered rival whose defense and rebuilding of the Kaaba supported a competing claim to rule.
 - [Hwang Jini / Hwang Jin-hee](entities/HwangJini.md) — Joseon gisaeng and sijo poet whose durable cultural reputation must be separated from her legend-heavy biography.
 - [Joseon Dynasty](entities/JoseonDynasty.md) — Korean dynastic setting connecting Confucian hierarchy, gisaeng training, gender constraint, and literary memory.
 - [张司祺 / Zhang Siqi](entities/ZhangSiqi.md) — Commodity researcher who combines regional weather, crop stages, inventories, trade, logistics, and hedging to assess climate-linked price risk.
@@ -14800,6 +14806,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Wieliczka Salt Mine](entities/WieliczkaSaltMine.md) — Royal salt industry transformed into an underground religious-art, tourism, and national-memory complex.
 
 ## Concepts
+- [Sacred History Source Criticism](concepts/SacredHistorySourceCriticism.md) — Method separating religious meaning, textual layers, external attestation, political context, and secular historical limits.
+- [Sacred Site Political Legitimacy](concepts/SacredSitePoliticalLegitimacy.md) — Authority and liability created through custody, protection, rebuilding, and administration of a revered sanctuary.
 - [Gisaeng Social Institution](concepts/Gisaeng.md) — Korean institution joining low hereditary status and coercive service to artistic education, elite access, and bounded cultural agency.
 - [Sijo Poetry](concepts/SijoPoetry.md) — Compact Korean verse form linking gisaeng literary memory and Hwang Jini's reputation to a clear translation boundary.
 - [Commodity-to-Consumer Price Pass-Through](concepts/CommodityConsumerPricePassThrough.md) — How inventories, contracts, hedging, substitution, chain length, demand, and pricing strategy filter upstream commodity moves before retail.

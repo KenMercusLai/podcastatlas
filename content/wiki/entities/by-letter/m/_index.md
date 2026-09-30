@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 11502
+wiki_total_pages: 11507
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -779,6 +779,9 @@ wiki_pages:
   - key: "MDMA"
     title: "MDMA"
     url: "/wiki/entities/mdma/"
+  - key: "Mecca"
+    title: "Mecca"
+    url: "/wiki/entities/mecca/"
   - key: "Medallia"
     title: "Medallia"
     url: "/wiki/entities/medallia/"
@@ -1505,6 +1508,9 @@ wiki_pages:
   - key: "MughalEmpire"
     title: "Mughal Empire"
     url: "/wiki/entities/mughalempire/"
+  - key: "Muhammad"
+    title: "Muhammad"
+    url: "/wiki/entities/muhammad/"
   - key: "MuhammadAtalla"
     title: "Muhammad Atalla"
     url: "/wiki/entities/muhammadatalla/"

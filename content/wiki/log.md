@@ -25539,6 +25539,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-30] ingest | 265: Saudi Arabia: The Mystery of the Kaaba
+
+Added source `265-saudi-arabia-the-mystery-of-the-kaaba-glt1528147434`; created `Kaaba`, `Mecca`, `Muhammad`, `AbdAlMalik`, `AbdullahIbnAlZubayr`, `SacredHistorySourceCriticism`, and `SacredSitePoliticalLegitimacy`; and resynthesized `UmayyadCaliphate` and `SaudiArabia` from their complete bounded source sets. Core synthesis: the Kaaba's religious centrality is clear within Islam, while its earliest secularly recoverable history remains constrained by sparse and disputed external evidence; late-seventh-century siege, rebuilding, and imperial consolidation show sacred-site control functioning as political legitimacy without proving that Abd al-Malik invented Mecca's centrality. No settled contradiction was adopted. Baka/Mecca, classical place-name and temple identifications, reconstruction sequence, Jerusalem's role, and revisionist origin hypotheses remain contested or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-30] ingest | Using Caffeine to Optimize Mental & Physical Performance
 
 Added source `using-caffeine-to-optimize-mental-physical-performance-scim1210768101`; created `CaffeineBehavioralReinforcement`; and updated `CaffeineAdenosineSleepTiming`, `DopamineToolTiming`, and `PostLearningArousalTagging` from their complete bounded source sets. Core synthesis: caffeine blocks rather than clears adenosine, while dose, timing, adaptation, sleep, and learned pairing determine whether it supports alertness and performance or masks fatigue and reinforces unwanted contexts. No settled contradiction was adopted. Dose, delay and cutoff windows, abstinence schedules, GLP-1, theanine, hydration, hormone, neuroprotection, mood, ADHD, asthma, and dopamine-stacking claims remain source-scoped public education rather than individualized guidance. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -25780,6 +25784,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-30] ingest | Navigating Conflict, Finding Purpose & Maintaining Drive | Dr. Lex Fridman
 
 Added source `navigating-conflict-finding-purpose-maintaining-drive-dr-lex-fridman-scim7125421200`; created `ConflictDrivenIntergroupHatred`, `ConflictDangerNormalization`, `EmpathicAdversarialInterviewing`, `CallingCommitmentTradeoff`, and `OpenScientificCriticism`; and resynthesized `LexFridman` from its preserved evidence inventory. Core synthesis: the conversation joins war's destruction of continuity and widening hatred to danger normalization, propaganda resistance, empathy joined with interview scrutiny, faster but bounded scientific criticism, and the real opportunity costs of treating a social-robotics company as a calling. No settled contradiction was adopted. Wartime crime, soldiers' beliefs, national attitudes, review reform, extreme-work advice, and robot-company forecasts remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-30] lint | Wiki health check
 

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 11502
+wiki_total_pages: 11507
 wiki_pages:
   - key: "KennedyAssassination"
     title: "Assassination of John F. Kennedy"
@@ -26,6 +26,9 @@ wiki_pages:
   - key: "KPro"
     title: "K Pro / 肯律轻食"
     url: "/wiki/entities/kpro/"
+  - key: "Kaaba"
+    title: "Kaaba"
+    url: "/wiki/entities/kaaba/"
   - key: "Kachimodo"
     title: "Kachimodo"
     url: "/wiki/entities/kachimodo/"

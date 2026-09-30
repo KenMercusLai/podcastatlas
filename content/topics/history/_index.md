@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2220
+topic_total_pages: 2221
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4758,6 +4758,9 @@ topic_sources:
   - key: "171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962"
     title: "171.闲聊十二生肖之马：观音大士的兴趣爱好,及老头环角色的灵感"
     url: "/wiki/sources/171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962/"
+  - key: "265-saudi-arabia-the-mystery-of-the-kaaba-glt1528147434"
+    title: "265: Saudi Arabia: The Mystery of the Kaaba"
+    url: "/wiki/sources/265-saudi-arabia-the-mystery-of-the-kaaba-glt1528147434/"
   - key: "267-wales-the-roar-of-the-red-dragon-glt2657098007"
     title: "267: Wales: The Roar of the Red Dragon"
     url: "/wiki/sources/267-wales-the-roar-of-the-red-dragon-glt2657098007/"

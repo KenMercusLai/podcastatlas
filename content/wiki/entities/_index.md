@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 11502
+wiki_total_pages: 11507
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -92,6 +92,9 @@ wiki_pages:
   - key: "ABC"
     title: "ABC"
     url: "/wiki/entities/abc/"
+  - key: "AbdAlMalik"
+    title: "Abd al-Malik"
+    url: "/wiki/entities/abdalmalik/"
   - key: "AbdAlRahmanIII"
     title: "Abd al-Rahman III"
     url: "/wiki/entities/abdalrahmaniii/"
@@ -104,6 +107,9 @@ wiki_pages:
   - key: "AbdulMajidChowdhury"
     title: "Abdul Majid Chowdhury"
     url: "/wiki/entities/abdulmajidchowdhury/"
+  - key: "AbdullahIbnAlZubayr"
+    title: "Abdullah ibn al-Zubayr"
+    url: "/wiki/entities/abdullahibnalzubayr/"
   - key: "AbelBrodeur"
     title: "Abel Brodeur"
     url: "/wiki/entities/abelbrodeur/"
