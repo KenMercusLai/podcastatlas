@@ -8344,9 +8344,9 @@
       "url": "/wiki/entities/alfredterry/"
     },
     "AlfredTheGreat": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9632339286 [GLT9632339286].md",
@@ -8354,9 +8354,16 @@
           "show": "The Rest Is History",
           "title": "548. The Road to 1066: Anglo-Saxon Apocalypse (Part 1)",
           "url": "/wiki/sources/548-the-road-to-1066-anglo-saxon-apocalypse-part-1-glt9632339286/"
+        },
+        {
+          "episode_file": "GLT9621369023 [GLT9621369023].md",
+          "key": "251-alfred-the-great-return-of-the-king-part-2-glt9621369023",
+          "show": "The Rest Is History",
+          "title": "251. Alfred the Great: Return of the King (Part 2)",
+          "url": "/wiki/sources/251-alfred-the-great-return-of-the-king-part-2-glt9621369023/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-30",
       "url": "/wiki/entities/alfredthegreat/"
     },
     "AlfredWetzler": {
@@ -11351,9 +11358,9 @@
       "url": "/wiki/concepts/anglonormansuccessionlegitimacy/"
     },
     "AngloSaxonStateFormation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9632339286 [GLT9632339286].md",
@@ -11361,9 +11368,16 @@
           "show": "The Rest Is History",
           "title": "548. The Road to 1066: Anglo-Saxon Apocalypse (Part 1)",
           "url": "/wiki/sources/548-the-road-to-1066-anglo-saxon-apocalypse-part-1-glt9632339286/"
+        },
+        {
+          "episode_file": "GLT9621369023 [GLT9621369023].md",
+          "key": "251-alfred-the-great-return-of-the-king-part-2-glt9621369023",
+          "show": "The Rest Is History",
+          "title": "251. Alfred the Great: Return of the King (Part 2)",
+          "url": "/wiki/sources/251-alfred-the-great-return-of-the-king-part-2-glt9621369023/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-30",
       "url": "/wiki/concepts/anglosaxonstateformation/"
     },
     "AnimalAbuseViolenceLink": {
@@ -17960,6 +17974,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/entities/battleofcrecy/"
+    },
+    "BattleOfEdington": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9621369023 [GLT9621369023].md",
+          "key": "251-alfred-the-great-return-of-the-king-part-2-glt9621369023",
+          "show": "The Rest Is History",
+          "title": "251. Alfred the Great: Return of the King (Part 2)",
+          "url": "/wiki/sources/251-alfred-the-great-return-of-the-king-part-2-glt9621369023/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/battleofedington/"
     },
     "BattleOfHastings": {
       "episode_count": 1,
@@ -41552,6 +41582,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/concepts/danegeldescalation/"
+    },
+    "DanelawSettlement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9621369023 [GLT9621369023].md",
+          "key": "251-alfred-the-great-return-of-the-king-part-2-glt9621369023",
+          "show": "The Rest Is History",
+          "title": "251. Alfred the Great: Return of the King (Part 2)",
+          "url": "/wiki/sources/251-alfred-the-great-return-of-the-king-part-2-glt9621369023/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/danelawsettlement/"
     },
     "DangerousAllyInvitationRisk": {
       "episode_count": 1,
@@ -76086,6 +76132,22 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/concepts/gutsensoryneuralsignaling/"
+    },
+    "Guthrum": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9621369023 [GLT9621369023].md",
+          "key": "251-alfred-the-great-return-of-the-king-part-2-glt9621369023",
+          "show": "The Rest Is History",
+          "title": "251. Alfred the Great: Return of the King (Part 2)",
+          "url": "/wiki/sources/251-alfred-the-great-return-of-the-king-part-2-glt9621369023/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/guthrum/"
     },
     "GwenShotwell": {
       "episode_count": 2,

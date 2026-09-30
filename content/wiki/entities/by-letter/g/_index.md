@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 11548
+wiki_total_pages: 11549
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -935,6 +935,9 @@ wiki_pages:
   - key: "GustySpence"
     title: "Gusty Spence"
     url: "/wiki/entities/gustyspence/"
+  - key: "Guthrum"
+    title: "Guthrum"
+    url: "/wiki/entities/guthrum/"
   - key: "GuyRaz"
     title: "Guy Raz"
     url: "/wiki/entities/guyraz/"

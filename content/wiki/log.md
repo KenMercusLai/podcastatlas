@@ -25926,3 +25926,11 @@ Added source `252-the-world-cup-british-imperialism-south-american-rivalries-and
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-30] ingest | 251. Alfred the Great: Return of the King (Part 2)
+
+Added source `251-alfred-the-great-return-of-the-king-part-2-glt9621369023`; created `Guthrum`, `BattleOfEdington`, and `DanelawSettlement`; and resynthesized `AlfredTheGreat` and `AngloSaxonStateFormation` from their complete preserved evidence inventories. Core synthesis: Alfred's significance lies in turning the 878 recovery from Athelney through Edington, siege, baptismal sponsorship, and negotiated Danelaw coexistence into an integrated system of burhs, service, markets, money, church restoration, literacy, learning, administration, and broader political identity. No settled contradiction was adopted. Alfred-centered evidence, legendary comeback stories, Guthrum's beliefs, treaty chronology, burh operation, and the causal role of Viking destruction remain source-scoped or qualified. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 8945
+wiki_total_pages: 8947
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -143,6 +143,9 @@ wiki_pages:
   - key: "BatterySwapInfrastructure"
     title: "Battery Swap Infrastructure / 换电体系"
     url: "/wiki/concepts/batteryswapinfrastructure/"
+  - key: "BattleOfEdington"
+    title: "Battle of Edington"
+    url: "/wiki/concepts/battleofedington/"
   - key: "BattleOfHastings"
     title: "Battle of Hastings"
     url: "/wiki/concepts/battleofhastings/"

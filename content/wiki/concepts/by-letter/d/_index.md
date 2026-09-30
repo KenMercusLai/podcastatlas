@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 8945
+wiki_total_pages: 8947
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -44,6 +44,9 @@ wiki_pages:
   - key: "DanegeldEscalation"
     title: "Danegeld Escalation"
     url: "/wiki/concepts/danegeldescalation/"
+  - key: "DanelawSettlement"
+    title: "Danelaw Settlement"
+    url: "/wiki/concepts/danelawsettlement/"
   - key: "DangerousAllyInvitationRisk"
     title: "Dangerous Ally Invitation Risk / 引强援反噬风险"
     url: "/wiki/concepts/dangerousallyinvitationrisk/"
