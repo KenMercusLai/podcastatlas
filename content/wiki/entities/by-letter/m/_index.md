@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 11522
+wiki_total_pages: 11525
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -719,6 +719,9 @@ wiki_pages:
   - key: "MaxWeber"
     title: "Max Weber"
     url: "/wiki/entities/maxweber/"
+  - key: "Maximian"
+    title: "Maximian"
+    url: "/wiki/entities/maximian/"
   - key: "MaximilienRobespierre"
     title: "Maximilien Robespierre / 罗伯斯庇尔"
     url: "/wiki/entities/maximilienrobespierre/"

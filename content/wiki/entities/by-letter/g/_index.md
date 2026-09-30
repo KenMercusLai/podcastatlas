@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 11522
+wiki_total_pages: 11525
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -56,6 +56,9 @@ wiki_pages:
   - key: "GalapagosIslands"
     title: "Galapagos Islands / 加拉帕戈斯群岛"
     url: "/wiki/entities/galapagosislands/"
+  - key: "Galerius"
+    title: "Galerius"
+    url: "/wiki/entities/galerius/"
   - key: "Galileo"
     title: "Galileo"
     url: "/wiki/entities/galileo/"

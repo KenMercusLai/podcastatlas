@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 8921
+wiki_total_pages: 8924
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -362,6 +362,9 @@ wiki_pages:
   - key: "TestTimeScaling"
     title: "Test-Time Scaling"
     url: "/wiki/concepts/testtimescaling/"
+  - key: "Tetrarchy"
+    title: "Tetrarchy"
+    url: "/wiki/concepts/tetrarchy/"
   - key: "TextShapedCognition"
     title: "Text-Shaped Cognition / 文本塑造的认知方式"
     url: "/wiki/concepts/textshapedcognition/"
@@ -437,6 +440,9 @@ wiki_pages:
   - key: "ThirdTypeCompany"
     title: "Third Type Company"
     url: "/wiki/concepts/thirdtypecompany/"
+  - key: "ThirdCenturyCrisis"
+    title: "Third-Century Crisis"
+    url: "/wiki/concepts/thirdcenturycrisis/"
   - key: "ThirdPartyAIVendorOversight"
     title: "Third-Party AI Vendor Oversight"
     url: "/wiki/concepts/thirdpartyaivendoroversight/"

@@ -36852,9 +36852,9 @@
       "url": "/wiki/entities/constancemarkievicz/"
     },
     "ConstantineTheGreat": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6058938613 [GLT6058938613].md",
@@ -36862,10 +36862,33 @@
           "show": "The Rest Is History",
           "title": "491. History's Greatest Beards: From Egyptian Queens to Medieval Conquerors (Part 1)",
           "url": "/wiki/sources/491-historys-greatest-beards-from-egyptian-queens-to-medieval-conquerors-part-1-glt6058938613/"
+        },
+        {
+          "episode_file": "GLT9631298578 [GLT9631298578].md",
+          "key": "260-croatia-the-man-who-saved-the-roman-empire-glt9631298578",
+          "show": "The Rest Is History",
+          "title": "260: Croatia: The Man Who Saved The Roman Empire",
+          "url": "/wiki/sources/260-croatia-the-man-who-saved-the-roman-empire-glt9631298578/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-30",
       "url": "/wiki/entities/constantinethegreat/"
+    },
+    "ConstantiusChlorus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9631298578 [GLT9631298578].md",
+          "key": "260-croatia-the-man-who-saved-the-roman-empire-glt9631298578",
+          "show": "The Rest Is History",
+          "title": "260: Croatia: The Man Who Saved The Roman Empire",
+          "url": "/wiki/sources/260-croatia-the-man-who-saved-the-roman-empire-glt9631298578/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/constantiuschlorus/"
     },
     "ConstipationSystemicHealthSignal": {
       "episode_count": 1,
@@ -46112,9 +46135,9 @@
       "url": "/wiki/entities/dingdongxiaoqu/"
     },
     "Diocletian": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5334319363 [GLT5334319363].md",
@@ -46122,10 +46145,33 @@
           "show": "The Rest Is History",
           "title": "462. St George: Dragon-Slayer",
           "url": "/wiki/sources/462-st-george-dragon-slayer-glt5334319363/"
+        },
+        {
+          "episode_file": "GLT9631298578 [GLT9631298578].md",
+          "key": "260-croatia-the-man-who-saved-the-roman-empire-glt9631298578",
+          "show": "The Rest Is History",
+          "title": "260: Croatia: The Man Who Saved The Roman Empire",
+          "url": "/wiki/sources/260-croatia-the-man-who-saved-the-roman-empire-glt9631298578/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-09-30",
       "url": "/wiki/entities/diocletian/"
+    },
+    "DiocletianicMilitaryFiscalReconstruction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9631298578 [GLT9631298578].md",
+          "key": "260-croatia-the-man-who-saved-the-roman-empire-glt9631298578",
+          "show": "The Rest Is History",
+          "title": "260: Croatia: The Man Who Saved The Roman Empire",
+          "url": "/wiki/sources/260-croatia-the-man-who-saved-the-roman-empire-glt9631298578/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/diocletianicmilitaryfiscalreconstruction/"
     },
     "Dior": {
       "episode_count": 1,
@@ -68866,6 +68912,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/galapagosislands/"
+    },
+    "Galerius": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9631298578 [GLT9631298578].md",
+          "key": "260-croatia-the-man-who-saved-the-roman-empire-glt9631298578",
+          "show": "The Rest Is History",
+          "title": "260: Croatia: The Man Who Saved The Roman Empire",
+          "url": "/wiki/sources/260-croatia-the-man-who-saved-the-roman-empire-glt9631298578/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/galerius/"
     },
     "GalileanJudeanCulturalBoundary": {
       "episode_count": 1,
@@ -117453,6 +117515,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/concepts/maximalspeedvitalityhypothesis/"
     },
+    "Maximian": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9631298578 [GLT9631298578].md",
+          "key": "260-croatia-the-man-who-saved-the-roman-empire-glt9631298578",
+          "show": "The Rest Is History",
+          "title": "260: Croatia: The Man Who Saved The Roman Empire",
+          "url": "/wiki/sources/260-croatia-the-man-who-saved-the-roman-empire-glt9631298578/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/maximian/"
+    },
     "MaximilienRobespierre": {
       "episode_count": 10,
       "show_count": 2,
@@ -151757,9 +151835,9 @@
       "url": "/wiki/concepts/romanconquestofbritain/"
     },
     "RomanEmpire": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 3,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
@@ -151795,9 +151873,16 @@
           "show": "The Rest Is History",
           "title": "500. The Roman Conquest of Britain: The Empire Strikes Back (Part 2)",
           "url": "/wiki/sources/500-the-roman-conquest-of-britain-the-empire-strikes-back-part-2-glt3137178317/"
+        },
+        {
+          "episode_file": "GLT9631298578 [GLT9631298578].md",
+          "key": "260-croatia-the-man-who-saved-the-roman-empire-glt9631298578",
+          "show": "The Rest Is History",
+          "title": "260: Croatia: The Man Who Saved The Roman Empire",
+          "url": "/wiki/sources/260-croatia-the-man-who-saved-the-roman-empire-glt9631298578/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-30",
       "url": "/wiki/entities/romanempire/"
     },
     "RomanExpansionMoralAnxiety": {
@@ -171763,6 +171848,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/testinterveneretestloop/"
     },
+    "Tetrarchy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9631298578 [GLT9631298578].md",
+          "key": "260-croatia-the-man-who-saved-the-roman-empire-glt9631298578",
+          "show": "The Rest Is History",
+          "title": "260: Croatia: The Man Who Saved The Roman Empire",
+          "url": "/wiki/sources/260-croatia-the-man-who-saved-the-roman-empire-glt9631298578/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/tetrarchy/"
+    },
     "TeutonesAndCimbri": {
       "episode_count": 2,
       "show_count": 1,
@@ -173251,6 +173352,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/thinsolesneakerrevival/"
+    },
+    "ThirdCenturyCrisis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9631298578 [GLT9631298578].md",
+          "key": "260-croatia-the-man-who-saved-the-roman-empire-glt9631298578",
+          "show": "The Rest Is History",
+          "title": "260: Croatia: The Man Who Saved The Roman Empire",
+          "url": "/wiki/sources/260-croatia-the-man-who-saved-the-roman-empire-glt9631298578/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/thirdcenturycrisis/"
     },
     "ThirdPartyAIVendorOversight": {
       "episode_count": 1,

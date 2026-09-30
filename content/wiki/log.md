@@ -25831,3 +25831,11 @@ Added source `261-uruguay-the-tupamaros-glt1539968794`; created `Tupamaros`, `Jo
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-30] ingest | 260: Croatia: The Man Who Saved The Roman Empire
+
+Added source `260-croatia-the-man-who-saved-the-roman-empire-glt9631298578`; created `Maximian`, `Galerius`, `ConstantiusChlorus`, `ThirdCenturyCrisis`, `Tetrarchy`, and `DiocletianicMilitaryFiscalReconstruction`; and resynthesized `Diocletian`, `ConstantineTheGreat`, and `RomanEmpire` from their complete bounded source sets. Core synthesis: Diocletian's response to third-century political, frontier, demographic, monetary, and fiscal crisis made the empire more distributed, military, bureaucratic, taxable, mobile, and sacral; the four-ruler system worked better at multi-front command than at excluding dynastic succession, while the Great Persecution remains a central moral qualification to the rescue narrative. No settled contradiction was adopted. Accession stories, the Tetrarchy's exact formalization date, price-policy effects, ceremonial influence, death dating, reported dialogue, and the Split-name etymology remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [260: Croatia: The Man Who Saved The Roman Empire](sources/260-croatia-the-man-who-saved-the-roman-empire-glt9631298578.md) — The Rest Is History episode on Diocletian, the third-century crisis, the Tetrarchy, military-fiscal reconstruction, Christian persecution, abdication, and the succession system's collapse.
 - [261: Uruguay: The Tupamaros](sources/261-uruguay-the-tupamaros-glt1539968794.md) — The Rest Is History episode on Uruguay's postwar decline, Tupamaro urban guerrillas, authoritarian counterinsurgency, dictatorship, and Jose Mujica's later democratic presidency.
 - [262: Tunisia: Dido of Carthage](sources/262-tunisia-dido-of-carthage-glt5520362156.md) — The Rest Is History episode contrasting Dido's older Tyrian founder tradition with Virgil's tragic queen, Roman destiny, and the human cost of empire.
 - [263: USA vs England: The 200-Year Rivalry](sources/263-usa-vs-england-the-200-year-rivalry-glt7546211559.md) — The Rest Is History episode on Anglo-American power reversal through the War of 1812, Dickens, Carnegie, Black GIs, the Beatles, British decline, and modern Americanization.
@@ -3910,7 +3911,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [St George](entities/StGeorge.md) — Historically uncertain martyr whose layered afterlife joins soldier sainthood, dragon-slaying, English patronage, and transnational symbolic reuse.
 - [Order of the Garter](entities/OrderOfTheGarter.md) — English royal chivalric order joining St George, Arthurian kingship, Crécy fellowship, and contested foundation chronology.
 - [Bellerophon](entities/Bellerophon.md) — Greek mounted hero used as a qualified classical parallel for later St George iconography.
-- [Diocletian](entities/Diocletian.md) — Roman emperor whose Christian persecution supplies historical context, but not proof, for a martyr behind the George tradition.
+- [Diocletian](entities/Diocletian.md) — Dalmatian soldier-emperor who stabilized Rome through shared rule and military-fiscal reconstruction while launching the Great Persecution.
+- [Maximian](entities/Maximian.md) — Western co-Augustus, campaigner, and reluctant partner in Diocletian's joint abdication.
+- [Galerius](entities/Galerius.md) — Eastern tetrarch tied to the Persian victory, Great Persecution, and unstable 305 succession.
+- [Constantius Chlorus](entities/ConstantiusChlorus.md) — Western tetrarch who recovered Britain and whose death opened Constantine's dynastic claim.
 - [Old Sarum](entities/OldSarum.md) — Emblematic rotten borough whose inherited seats, tiny electorate, and landowner control exposed pre-reform representational inequality.
 - [1945 British General Election](entities/BritishGeneralElection1945.md) — Labour landslide used to distinguish postwar demand and prior legitimacy from Churchill's famous campaign mistake.
 - [1992 British General Election](entities/BritishGeneralElection1992.md) — Conservative victory used as a case of advertising amplifying prior tax anxiety and candidate-format fit.
@@ -4036,7 +4040,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Battle of Agincourt](entities/BattleOfAgincourt.md) — 1415 victory combining French elite destruction, English legitimacy, human catastrophe, and national myth.
 - [Treaty of Troyes](entities/TreatyOfTroyes.md) — 1420 agreement making Henry V regent and heir to France while disinheriting the Dauphin.
 - [Hadrian](entities/Hadrian.md) — Philhellenic Roman emperor whose beard, bond with Antinous, and cult sponsorship joined public image, grief, and imperial authority.
-- [Constantine the Great](entities/ConstantineTheGreat.md) — Roman emperor whose clean-shaven image signaled civilian order and informed early Christian imperial iconography.
+- [Constantine the Great](entities/ConstantineTheGreat.md) — Excluded tetrarchic heir whose later claim and clean-shaven image joined dynastic return to post-crisis civilian order.
 - [Hatshepsut](entities/Hatshepsut.md) — New Kingdom ruler who moved from regency to full pharaonic kingship through divine, dynastic, ritual, military, commercial, and monumental claims.
 - [Gregory VII](entities/GregoryVII.md) — Reforming pope linking clerical purification, institutional independence, radical pressure, and stronger papal governance.
 - [宾哥 / Binge (oral-health doctor)](entities/BingeOralDoctor.md) — Source-scoped oral-health doctor explaining prevention, product claims, dental aesthetics, provider selection, and referral boundaries.
@@ -11289,7 +11293,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Thomas Paine / 托马斯·潘恩](entities/ThomasPaine.md) — Transatlantic republican whose mass persuasion for American independence coexisted with opposition to revolutionary execution in France.
 - [Julius Caesar / 尤利乌斯·恺撒](entities/JuliusCaesar.md) — Roman commander, reformer, and dictator whose military prestige, clemency, monarchy signals, assassination, and disputed Alexandrian-library role shaped competing legacies.
 - [Roman Republic / 罗马共和国](entities/RomanRepublic.md) — Expansionary polity whose civic-military capacity, command crisis, failed post-Caesar settlement, and triumviral defeat expose both republican strength and collapse.
-- [Roman Empire / 罗马帝国](entities/RomanEmpire.md) — Imperial order emerging after Caesar's assassination, appearing as Da Qin in Gan Ying's Eastern Han mission, and serving as the western endpoint of a qualified Hunnic/Gothic pressure sequence.
+- [Roman Empire / 罗马帝国](entities/RomanEmpire.md) — Imperial order traced from republican collapse and provincial conquest through Eastern Han contact and Diocletianic crisis reconstruction.
 - [阿提拉 / Attila the Hun](entities/AttilaTheHun.md) — Hunnic leader used in Hanji 764 as the remembered late figure in the qualified migration-pressure chain from steppe displacement to Roman crisis.
 - [Assassination of Julius Caesar / 恺撒遇刺](entities/CaesarAssassination.md) — Public Ides of March tyrannicide planned without a political settlement and followed by funeral backlash, triumviral rule, and Philippi.
 - [Marcus Brutus / 马库斯·布鲁图斯](entities/MarcusBrutus.md) — Pardoned republican conspirator whose ancestry, Cato connection, symbolic authority, failed city control, eastern coercion, and death at Philippi complicate the liberator memory.
@@ -23781,5 +23785,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Van Eyck Oil Layering](concepts/VanEyckOilLayering.md) — Technical mastery of translucent oil layers for luminous color, depth, texture, and material realism without an invention claim.
 
 - [Caffeine Behavioral Reinforcement](concepts/CaffeineBehavioralReinforcement.md) — Learned-preference model in which caffeine reinforces repeatedly paired tastes, products, contexts, people, and activities.
+- [Third-Century Crisis](concepts/ThirdCenturyCrisis.md) — Interacting Roman crisis of civil war, frontier pressure, disease, monetary disruption, and fiscal contraction that elevated military command.
+- [Tetrarchy](concepts/Tetrarchy.md) — Diocletian's four-ruler system, effective at distributed command but unstable as a non-dynastic succession settlement.
+- [Diocletianic Military-Fiscal Reconstruction](concepts/DiocletianicMilitaryFiscalReconstruction.md) — Late Roman package joining defense, taxation, administration, money, mobile court geography, and sacral monarchy.
 
 ## Syntheses
