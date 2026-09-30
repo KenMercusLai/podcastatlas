@@ -875,6 +875,10 @@
     "title": "246. 杭州博物馆「一苇杭之」，好久没看过这么推荐的展览了",
     "url": "/wiki/sources/246-hangzhou-bowuguan-yiwei-hangzhi-haojiu-mei-kan-guo-zheme-tuijian-de-zhanlan-le-8217911423-973793/"
   },
+  "257-australia-the-mystery-of-the-somerton-man-glt2531949703": {
+    "title": "257. Australia: The Mystery of the Somerton Man",
+    "url": "/wiki/sources/257-australia-the-mystery-of-the-somerton-man-glt2531949703/"
+  },
   "258-costa-rica-civil-war-glt4854467564": {
     "title": "258. Costa Rica: Civil War",
     "url": "/wiki/sources/258-costa-rica-civil-war-glt4854467564/"
@@ -13355,6 +13359,10 @@
     "title": "Carl von Clausewitz / 克劳塞维茨",
     "url": "/wiki/entities/carlvonclausewitz/"
   },
+  "CarlWebb": {
+    "title": "Carl Webb",
+    "url": "/wiki/entities/carlwebb/"
+  },
   "CarlaSugirana": {
     "title": "Carla Sugirana",
     "url": "/wiki/entities/carlasugirana/"
@@ -21055,6 +21063,10 @@
     "title": "Der Ring des Nibelungen / The Ring Cycle",
     "url": "/wiki/entities/derringdesnibelungen/"
   },
+  "DerekAbbott": {
+    "title": "Derek Abbott",
+    "url": "/wiki/entities/derekabbott/"
+  },
   "DerekHockeyNinja": {
     "title": "Derek (Hockey Ninja)",
     "url": "/wiki/entities/derekhockeyninja/"
@@ -28066,6 +28078,10 @@
   "ForensicHairEvidence": {
     "title": "Forensic Hair Evidence",
     "url": "/wiki/concepts/forensichairevidence/"
+  },
+  "ForensicIdentificationExplanationGap": {
+    "title": "Forensic Identification-Explanation Gap",
+    "url": "/wiki/concepts/forensicidentificationexplanationgap/"
   },
   "ForensicScience": {
     "title": "Forensic Science / 法证鉴识",
@@ -38978,6 +38994,10 @@
   "JessicaLivingston": {
     "title": "Jessica Livingston",
     "url": "/wiki/entities/jessicalivingston/"
+  },
+  "JessicaThompson": {
+    "title": "Jessica Thompson",
+    "url": "/wiki/entities/jessicathompson/"
   },
   "JessieNorthKorea": {
     "title": "Jessie (North Korea entrepreneur)",
@@ -51234,6 +51254,10 @@
   "MyopiaSurgeryRiskBoundary": {
     "title": "Myopia Surgery Risk Boundary / 近视手术风险边界",
     "url": "/wiki/concepts/myopiasurgeryriskboundary/"
+  },
+  "MysteryNarrativeOverfitting": {
+    "title": "Mystery Narrative Overfitting",
+    "url": "/wiki/concepts/mysterynarrativeoverfitting/"
   },
   "MysteryToyPackaging": {
     "title": "Mystery Toy Packaging",
@@ -67658,6 +67682,10 @@
   "SomatizationAsBodyAlarm": {
     "title": "Somatization As Body Alarm / 躯体化作为身体报警",
     "url": "/wiki/concepts/somatizationasbodyalarm/"
+  },
+  "SomertonManCase": {
+    "title": "Somerton Man Case",
+    "url": "/wiki/entities/somertonmancase/"
   },
   "Sonalight": {
     "title": "Sonalight",

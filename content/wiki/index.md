@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [257. Australia: The Mystery of the Somerton Man](sources/257-australia-the-mystery-of-the-somerton-man-glt2531949703.md) — The Rest Is History episode on the 1948 Somerton Man case, its literary and Cold War clues, Carl Webb's reported DNA identification, and the death's unresolved cause.
 - [258. Costa Rica: Civil War](sources/258-costa-rica-civil-war-glt4854467564.md) — The Rest Is History episode on the disputed 1948 election, Figueres's uprising, democratic reconstruction, army abolition, and voluntary transfer of power.
 - [259: Iran: England - 'The Little Satan'](sources/259-iran-england-the-little-satan-glt8347276204.md) — The Rest Is History episode on Iranian admiration for British institutions, constitutional disappointment, oil, nationalization, the 1953 coup, and persistent cultural attraction.
 - [260: Croatia: The Man Who Saved The Roman Empire](sources/260-croatia-the-man-who-saved-the-roman-empire-glt9631298578.md) — The Rest Is History episode on Diocletian, the third-century crisis, the Tetrarchy, military-fiscal reconstruction, Christian persecution, abdication, and the succession system's collapse.
@@ -3280,6 +3281,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [作者对谈：朋友是否比真理更加重要？（Roger Berkowitz）](sources/zuozhe-duitan-pengyou-shifou-bi-zhenli-gengjia-zhongyao-roger-berkowitz-ln7i59hzhpigtixkj-dvwmkqrrsf.md) — 独树不成林 conversation on Hannah Arendt, friendship across disagreement, political plurality, public denunciation, and persuasion as mutual transformation.
 
 ## Entities
+- [Somerton Man Case](entities/SomertonManCase.md) — 1948 Adelaide unidentified-death mystery reportedly resolved as to identity but not cause or circumstances.
+- [Carl Webb](entities/CarlWebb.md) — Australian man reportedly identified through DNA and genealogy as the Somerton Man.
+- [Jessica Thompson](entities/JessicaThompson.md) — Nurse whose proximity and phone number became central but inconclusive clues in the Somerton Man case.
+- [Derek Abbott](entities/DerekAbbott.md) — Physicist and investigator associated with the case's paternity testing and reported genetic identification.
 - [Costa Rica](entities/CostaRica.md) — Central American republic whose post-1948 settlement joined expanded citizenship, civilian rule, and army abolition.
 - [Jose Figueres Ferrer](entities/JoseFigueresFerrer.md) — Costa Rican rebel leader, temporary junta head, institutional reformer, and later elected president.
 - [Rafael Angel Calderon](entities/RafaelAngelCalderon.md) — Costa Rican welfare populist and defeated 1948 candidate central to the election crisis preceding civil war.
@@ -14842,6 +14847,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Roger Berkowitz](entities/RogerBerkowitz.md) — Political theorist reconstructing Hannah Arendt's account of friendship, plurality, truth, and reciprocal persuasion.
 
 ## Concepts
+- [Forensic Identification-Explanation Gap](concepts/ForensicIdentificationExplanationGap.md) — Boundary between establishing who a deceased person was and explaining mechanism, motive, or responsibility for the death.
+- [Mystery Narrative Overfitting](concepts/MysteryNarrativeOverfitting.md) — Construction of one dramatic story from ambiguous clues whose causal relationships have not been independently shown.
 - [Army Abolition as a Democratic Safeguard](concepts/ArmyAbolitionDemocraticSafeguard.md) — Removal of a standing military power center to reduce coup risk and reinforce civilian institutions.
 - [Costa Rican Civil War of 1948](concepts/CostaRicanCivilWar1948.md) — Disputed-election conflict whose significance rests heavily on the victors' later institutional settlement.
 - [Post-Victory Power Surrender](concepts/PostVictoryPowerSurrender.md) — Fulfillment of a bounded revolutionary mandate through transfer rather than indefinite personal rule.

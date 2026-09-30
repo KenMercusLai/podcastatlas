@@ -26622,6 +26622,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/caribbean/"
     },
+    "CarlWebb": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2531949703 [GLT2531949703].md",
+          "key": "257-australia-the-mystery-of-the-somerton-man-glt2531949703",
+          "show": "The Rest Is History",
+          "title": "257. Australia: The Mystery of the Somerton Man",
+          "url": "/wiki/sources/257-australia-the-mystery-of-the-somerton-man-glt2531949703/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/carlwebb/"
+    },
     "CarlaSuperana": {
       "episode_count": 1,
       "show_count": 1,
@@ -45058,6 +45074,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/deodorodafonseca/"
+    },
+    "DerekAbbott": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2531949703 [GLT2531949703].md",
+          "key": "257-australia-the-mystery-of-the-somerton-man-glt2531949703",
+          "show": "The Rest Is History",
+          "title": "257. Australia: The Mystery of the Somerton Man",
+          "url": "/wiki/sources/257-australia-the-mystery-of-the-somerton-man-glt2531949703/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/derekabbott/"
     },
     "DermatologicRenewalAndCancerPrevention": {
       "episode_count": 3,
@@ -64682,6 +64714,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/foreignaidmedicalpractice/"
+    },
+    "ForensicIdentificationExplanationGap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2531949703 [GLT2531949703].md",
+          "key": "257-australia-the-mystery-of-the-somerton-man-glt2531949703",
+          "show": "The Rest Is History",
+          "title": "257. Australia: The Mystery of the Somerton Man",
+          "url": "/wiki/sources/257-australia-the-mystery-of-the-somerton-man-glt2531949703/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/forensicidentificationexplanationgap/"
     },
     "ForeskinHygieneSurgeryBoundary": {
       "episode_count": 2,
@@ -94526,6 +94574,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/entities/jessicachiccehittohindman/"
+    },
+    "JessicaThompson": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2531949703 [GLT2531949703].md",
+          "key": "257-australia-the-mystery-of-the-somerton-man-glt2531949703",
+          "show": "The Rest Is History",
+          "title": "257. Australia: The Mystery of the Somerton Man",
+          "url": "/wiki/sources/257-australia-the-mystery-of-the-somerton-man-glt2531949703/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/jessicathompson/"
     },
     "Jesus": {
       "episode_count": 2,
@@ -124667,6 +124731,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/myopiasurgeryriskboundary/"
+    },
+    "MysteryNarrativeOverfitting": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2531949703 [GLT2531949703].md",
+          "key": "257-australia-the-mystery-of-the-somerton-man-glt2531949703",
+          "show": "The Rest Is History",
+          "title": "257. Australia: The Mystery of the Somerton Man",
+          "url": "/wiki/sources/257-australia-the-mystery-of-the-somerton-man-glt2531949703/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/mysterynarrativeoverfitting/"
     },
     "MythicAndMaterialWarCausation": {
       "episode_count": 1,
@@ -162983,6 +163063,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/somatizationasbodyalarm/"
+    },
+    "SomertonManCase": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2531949703 [GLT2531949703].md",
+          "key": "257-australia-the-mystery-of-the-somerton-man-glt2531949703",
+          "show": "The Rest Is History",
+          "title": "257. Australia: The Mystery of the Somerton Man",
+          "url": "/wiki/sources/257-australia-the-mystery-of-the-somerton-man-glt2531949703/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/somertonmancase/"
     },
     "SongChongLateHan": {
       "episode_count": 1,

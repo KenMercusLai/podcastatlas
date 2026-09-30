@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 8933
+wiki_total_pages: 8935
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1460,6 +1460,9 @@ wiki_pages:
   - key: "MyopiaSurgeryRiskBoundary"
     title: "Myopia Surgery Risk Boundary / 近视手术风险边界"
     url: "/wiki/concepts/myopiasurgeryriskboundary/"
+  - key: "MysteryNarrativeOverfitting"
+    title: "Mystery Narrative Overfitting"
+    url: "/wiki/concepts/mysterynarrativeoverfitting/"
   - key: "MysteryToyPackaging"
     title: "Mystery Toy Packaging"
     url: "/wiki/concepts/mysterytoypackaging/"

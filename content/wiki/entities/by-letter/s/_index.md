@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 11532
+wiki_total_pages: 11536
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1025,6 +1025,9 @@ wiki_pages:
   - key: "SOMDocumentary"
     title: "SOM"
     url: "/wiki/entities/somdocumentary/"
+  - key: "SomertonManCase"
+    title: "Somerton Man Case"
+    url: "/wiki/entities/somertonmancase/"
   - key: "Sonalight"
     title: "Sonalight"
     url: "/wiki/entities/sonalight/"

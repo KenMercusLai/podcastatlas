@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 11532
+wiki_total_pages: 11536
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -491,6 +491,9 @@ wiki_pages:
   - key: "JessicaLivingston"
     title: "Jessica Livingston"
     url: "/wiki/entities/jessicalivingston/"
+  - key: "JessicaThompson"
+    title: "Jessica Thompson"
+    url: "/wiki/entities/jessicathompson/"
   - key: "JessieNorthKorea"
     title: "Jessie (North Korea entrepreneur)"
     url: "/wiki/entities/jessienorthkorea/"

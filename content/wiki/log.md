@@ -25871,3 +25871,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-30] ingest | 257. Australia: The Mystery of the Somerton Man
+
+Added source `257-australia-the-mystery-of-the-somerton-man-glt2531949703`; created `SomertonManCase`, `CarlWebb`, `JessicaThompson`, `DerekAbbott`, `ForensicIdentificationExplanationGap`, and `MysteryNarrativeOverfitting`. Core synthesis: the episode reports that death-mask hair DNA and genetic genealogy identified the 1948 Somerton Man as Carl Webb and rejected the proposed Robin Thompson paternity link, but identity does not establish cause of death, Webb's movements, a connection to Jessica Thompson, or the meaning of the literary and apparent-code clues. No settled contradiction was adopted. Poisoning, espionage, romance, betting-note, ballet, and intentional label-removal interpretations remain source-scoped, as does the genetic identification because the episode does not provide the underlying lab and genealogical record. The automatic `wiki/overview.md` was read for context but not manually rewritten because this historical case opens a bounded branch without changing the wiki-wide synthesis.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
