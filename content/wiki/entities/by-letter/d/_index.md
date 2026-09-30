@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 11657
+wiki_total_pages: 11666
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -887,6 +887,9 @@ wiki_pages:
   - key: "DrewHouston"
     title: "Drew Houston"
     url: "/wiki/entities/drewhouston/"
+  - key: "DrewTaggart"
+    title: "Drew Taggart"
+    url: "/wiki/entities/drewtaggart/"
   - key: "DriveToSurvive"
     title: "Drive to Survive"
     url: "/wiki/entities/drivetosurvive/"

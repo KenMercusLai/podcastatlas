@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 11657
+wiki_total_pages: 11666
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -878,6 +878,9 @@ wiki_pages:
   - key: "ProcterGamble"
     title: "Procter & Gamble"
     url: "/wiki/entities/proctergamble/"
+  - key: "ProfessionalFightersLeague"
+    title: "Professional Fighters League"
+    url: "/wiki/entities/professionalfightersleague/"
   - key: "ProfessionalWomensHockeyLeague"
     title: "Professional Women's Hockey League"
     url: "/wiki/entities/professionalwomenshockeyleague/"

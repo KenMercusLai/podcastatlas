@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9048
+wiki_total_pages: 9050
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -428,6 +428,9 @@ wiki_pages:
   - key: "CelebrityImageAfterlife"
     title: "Celebrity Image Afterlife"
     url: "/wiki/concepts/celebrityimageafterlife/"
+  - key: "CelebrityOperationalCapital"
+    title: "Celebrity Operational Capital"
+    url: "/wiki/concepts/celebrityoperationalcapital/"
   - key: "CelebrityLedMarketEntry"
     title: "Celebrity-Led Market Entry / 明星带动市场进入"
     url: "/wiki/concepts/celebrityledmarketentry/"
@@ -2342,6 +2345,9 @@ wiki_pages:
   - key: "CreativityNetworkCoordination"
     title: "Creativity Network Coordination"
     url: "/wiki/concepts/creativitynetworkcoordination/"
+  - key: "CreatorBusinessFlywheel"
+    title: "Creator Business Flywheel"
+    url: "/wiki/concepts/creatorbusinessflywheel/"
   - key: "CreatorCulture"
     title: "Creator Culture"
     url: "/wiki/concepts/creatorculture/"

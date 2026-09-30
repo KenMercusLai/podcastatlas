@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 11657
+wiki_total_pages: 11666
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -203,6 +203,9 @@ wiki_pages:
   - key: "TeaMaker"
     title: "Tea Maker"
     url: "/wiki/entities/teamaker/"
+  - key: "Team10"
+    title: "Team 10"
+    url: "/wiki/entities/team10/"
   - key: "TeamMarketing"
     title: "Team Marketing"
     url: "/wiki/entities/teammarketing/"
@@ -392,6 +395,9 @@ wiki_pages:
   - key: "TheCenturyTrilogy"
     title: "The Century Trilogy / 世纪三部曲"
     url: "/wiki/entities/thecenturytrilogy/"
+  - key: "TheChainsmokers"
+    title: "The Chainsmokers"
+    url: "/wiki/entities/thechainsmokers/"
   - key: "TheContainerStore"
     title: "The Container Store"
     url: "/wiki/entities/thecontainerstore/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 11657
+wiki_total_pages: 11666
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -605,6 +605,9 @@ wiki_pages:
   - key: "AlexMaiassi"
     title: "Alex Maiassi"
     url: "/wiki/entities/alexmaiassi/"
+  - key: "AlexPall"
+    title: "Alex Pall"
+    url: "/wiki/entities/alexpall/"
   - key: "AlexPreti"
     title: "Alex Preti"
     url: "/wiki/entities/alexpreti/"
@@ -1262,6 +1265,9 @@ wiki_pages:
   - key: "AnthropicBiologicalResearchLab"
     title: "Anthropic Biological Research Laboratory"
     url: "/wiki/entities/anthropicbiologicalresearchlab/"
+  - key: "AntiFund"
+    title: "Anti Fund"
+    url: "/wiki/entities/antifund/"
   - key: "AntiGravity"
     title: "Anti-Gravity"
     url: "/wiki/entities/antigravity/"

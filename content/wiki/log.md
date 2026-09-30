@@ -26379,3 +26379,11 @@ Added source `sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim577
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | Jake Paul & The Chainsmokers: Turning Fame into Funds, Jake Enters Politics? & Venture Bubble Signs
+
+Added source `all-in-with-chamath-jason-sacks-friedberg-jake-paul-the-chainsmokers-turning-fame-into-funds-jake-enters-polit`; created `JakePaul`, `TheChainsmokers`, `DrewTaggart`, `AlexPall`, `AntiFund`, `MantisVC`, `Team10`, `MostValuablePromotions`, `ProfessionalFightersLeague`, `CreatorBusinessFlywheel`, and `CelebrityOperationalCapital`; and resynthesized `SuperCreatorPortfolioModel`, `VentureDPILiquidityPressure`, and `PrivateMarketBubbleOpacity` from their complete preserved evidence inventories. Core synthesis: fame and audience access can become operating leverage through distribution, relationships, talent development, and brand knowledge, but durable creator businesses and venture firms still require domain competence, governance, operating progress, and realized returns. No settled contradiction was adopted. Fighter-pay comparisons, roster and merger claims, Sora participation, charitable impact, music-platform figures, and fund performance remain guest-reported and source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten because the episode deepens established creator-economy and private-market branches. The downstream manifest and paragraph ledger were refreshed to 3,298-source coverage; no topic claim set was dirty and global compaction was not due. Publish validation passed.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

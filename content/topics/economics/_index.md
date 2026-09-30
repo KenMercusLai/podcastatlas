@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2151
+topic_total_pages: 2154
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -754,6 +754,9 @@ topic_concepts:
   - key: "CountercyclicalPublicWorks"
     title: "Countercyclical Public Works / 逆周期公共工程"
     url: "/wiki/concepts/countercyclicalpublicworks/"
+  - key: "CreatorBusinessFlywheel"
+    title: "Creator Business Flywheel"
+    url: "/wiki/concepts/creatorbusinessflywheel/"
   - key: "CreatorLateCycleAnxiety"
     title: "Creator Late-Cycle Anxiety / 创作者末班车感"
     url: "/wiki/concepts/creatorlatecycleanxiety/"
@@ -3371,6 +3374,9 @@ topic_entities:
   - key: "AnthonyBarber"
     title: "Anthony Barber"
     url: "/wiki/entities/anthonybarber/"
+  - key: "AntiFund"
+    title: "Anti Fund"
+    url: "/wiki/entities/antifund/"
   - key: "AntoineHersen"
     title: "Antoine Hersen"
     url: "/wiki/entities/antoinehersen/"
@@ -4415,6 +4421,9 @@ topic_entities:
   - key: "ManchesterUnited"
     title: "Manchester United"
     url: "/wiki/entities/manchesterunited/"
+  - key: "MantisVC"
+    title: "Mantis"
+    url: "/wiki/entities/mantisvc/"
   - key: "MaoHonghui"
     title: "Mao Honghui / 毛红汇"
     url: "/wiki/entities/maohonghui/"

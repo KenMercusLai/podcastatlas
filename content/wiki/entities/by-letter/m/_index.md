@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 11657
+wiki_total_pages: 11666
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -224,6 +224,9 @@ wiki_pages:
   - key: "MansurYavas"
     title: "Mansur Yavas"
     url: "/wiki/entities/mansuryavas/"
+  - key: "MantisVC"
+    title: "Mantis"
+    url: "/wiki/entities/mantisvc/"
   - key: "ManuelIOfPortugal"
     title: "Manuel I of Portugal"
     url: "/wiki/entities/manueliofportugal/"
@@ -1481,6 +1484,9 @@ wiki_pages:
   - key: "MossamDataScienceWithSam"
     title: "Mossam (Data Science With Sam)"
     url: "/wiki/entities/mossamdatasciencewithsam/"
+  - key: "MostValuablePromotions"
+    title: "Most Valuable Promotions"
+    url: "/wiki/entities/mostvaluablepromotions/"
   - key: "Mosuo"
     title: "Mosuo"
     url: "/wiki/entities/mosuo/"

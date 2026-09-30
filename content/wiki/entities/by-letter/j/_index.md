@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 11657
+wiki_total_pages: 11666
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -134,6 +134,9 @@ wiki_pages:
   - key: "JakeHeller"
     title: "Jake Heller"
     url: "/wiki/entities/jakeheller/"
+  - key: "JakePaul"
+    title: "Jake Paul"
+    url: "/wiki/entities/jakepaul/"
   - key: "JamaatEIslamiBangladesh"
     title: "Jamaat-e-Islami Bangladesh"
     url: "/wiki/entities/jamaateislamibangladesh/"

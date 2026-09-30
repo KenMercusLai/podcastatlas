@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Jake Paul & The Chainsmokers: Turning Fame into Funds, Jake Enters Politics? & Venture Bubble Signs](sources/all-in-with-chamath-jason-sacks-friedberg-jake-paul-the-chainsmokers-turning-fame-into-funds-jake-enters-polit.md) — All-In episode on creator-business flywheels, celebrity operational capital, boxing and music economics, venture liquidity, and valuation discipline.
 - [Sleep Toolkit: Tools for Optimizing Sleep & Sleep-Wake Timing](sources/sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836.md) — Full Huberman Lab sleep toolkit on light, temperature, caffeine, daily timing, deep rest, substances, supplements, clock shifting, and clinical sleep boundaries.
 - [219. Justinian: Making Rome Great Again (Part 2)](sources/219-justinian-making-rome-great-again-part-2-glt2369595847.md) — The Rest Is History episode on Justinianic centralization, Persian strategy, the Nika revolt, Theodora's resolve, mass repression, and Hagia Sophia.
 - [220. Justinian & Theodora: The Secret History (Part 3)](sources/220-justinian-theodora-the-secret-history-part-3-glt6795699757.md) — The Rest Is History episode on Justinianic reconquest, Italian devastation, plague-driven state weakness, Theodora's reforms, Procopius, and the limits of imperial restoration.
@@ -3353,6 +3354,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [226. The Lord of the Rings](sources/226-the-lord-of-the-rings-glt1788342017.md) — The Rest Is History episode on Tolkien's ring ethics, hidden Catholic structure, wartime power, damaged homecoming, anti-industrial environmentalism, politics, and race.
 
 ## Entities
+- [Jake Paul](entities/JakePaul.md) — Creator, boxer, promoter, investor, and philanthropist connecting audience reach to a cross-domain business flywheel.
+- [The Chainsmokers](entities/TheChainsmokers.md) — Music partnership extending internet-native distribution and brand experience into venture capital.
+- [Drew Taggart](entities/DrewTaggart.md) — Chainsmokers member and Mantis co-founder whose music and investment roles are presented jointly with Alex Pall.
+- [Alex Pall](entities/AlexPall.md) — Chainsmokers member and Mantis co-founder associated with early personalized music distribution and venture building.
+- [Anti Fund](entities/AntiFund.md) — Jake Paul venture fund using a barbell strategy and claiming attention, branding, and distribution as founder support.
+- [Mantis](entities/MantisVC.md) — Seed and Series A venture firm founded by Drew Taggart and Alex Pall with a supporting “sixth man” position.
+- [Team 10](entities/Team10.md) — Jake Paul's early social-media creator-development organization and prototype for audience-plus-roster businesses.
+- [Most Valuable Promotions](entities/MostValuablePromotions.md) — Jake Paul combat-sports promotion and representation company built around distribution and fighter economics.
+- [Professional Fighters League](entities/ProfessionalFightersLeague.md) — MMA organization linked to MVP and positioned in the source as a challenger to UFC economics.
 - [Hagia Sophia](entities/HagiaSophia.md) — Justinianic church joining Roman engineering, Christian sacred authority, and post-Nika monumental reconstruction.
 - [Justinian I](entities/JustinianI.md) — Eastern Roman emperor whose law, building, and reconquest achievements were shadowed by destructive war, plague, and overextension.
 - [Theodora](entities/Theodora.md) — Eastern Roman empress remembered through political partnership, religious patronage, women's reform traditions, and hostile testimony.
@@ -15044,6 +15054,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Steve Goss](entities/SteveGoss.md) — Former Social Security chief actuary assessing the scale, feasibility, and timing of reform options.
 
 ## Concepts
+- [Creator Business Flywheel](concepts/CreatorBusinessFlywheel.md) — Model in which audience, creative work, operating businesses, talent development, investing, and public-purpose activity reinforce one another.
+- [Celebrity Operational Capital](concepts/CelebrityOperationalCapital.md) — Public reach, relationships, brand skill, and direct distribution treated as company-building resources subject to performance proof.
 - [Justinianic Plague](concepts/JustinianicPlague.md) — Sixth-century pandemic understood through its fiscal, military, urban, and geopolitical effects.
 - [Nika Riots](concepts/NikaRiots.md) — Constantinopolitan coalition revolt transformed by massacre, elite punishment, and rebuilding into stronger Justinianic rule.
 - [Imperial Restoration Paradox](concepts/ImperialRestorationParadox.md) — Pattern in which recovering a former order damages the institutions and capacity needed to sustain it.
