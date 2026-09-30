@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1362
+topic_total_pages: 1363
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -922,6 +922,9 @@ topic_concepts:
   - key: "GeometricUnity"
     title: "Geometric Unity"
     url: "/wiki/concepts/geometricunity/"
+  - key: "GeorgianHealthResortFormation"
+    title: "Georgian Health Resort Formation"
+    url: "/wiki/concepts/georgianhealthresortformation/"
   - key: "GilbertSpinozaHypothesis"
     title: "Gilbert-Spinoza Hypothesis / 吉尔伯特-斯宾诺莎假设"
     url: "/wiki/concepts/gilbertspinozahypothesis/"

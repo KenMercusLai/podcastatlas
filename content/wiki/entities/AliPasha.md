@@ -4,7 +4,8 @@ type: entity
 tags: [historical-figure, ottoman-empire, albania, political-violence]
 sources:
   - 441-lord-byron-scandal-sex-and-celebrity-part-2-glt1954408695
-last_updated: 2026-09-26
+  - 221-holidays-byrons-grand-tour-glt3921798295
+last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
 
@@ -16,7 +17,7 @@ Ali Pasha was an effectively autonomous Ottoman-Albanian ruler whose hospitality
 
 ## Current Profile
 
-In [[441-lord-byron-scandal-sex-and-celebrity-part-2-glt1954408695]], Ali rules Albania formally within the [[OttomanEmpire|Ottoman Empire / 奥斯曼帝国]] but with substantial practical independence. His pro-British position helps Byron and [[JohnCamHobhouse|John Cam Hobhouse]] travel under protection, and his warm, intimate reception of Byron feeds the poet's attraction to costume, rank, danger, and paternal or erotic ambiguity.
+In [[221-holidays-byrons-grand-tour-glt3921798295]] and [[441-lord-byron-scandal-sex-and-celebrity-part-2-glt1954408695]], Ali rules Albania formally within the [[OttomanEmpire|Ottoman Empire / 奥斯曼帝国]] but with substantial practical independence. His pro-British position helps Byron and [[JohnCamHobhouse|John Cam Hobhouse]] travel under protection, and his warm, intimate reception of Byron feeds the poet's attraction to costume, rank, danger, and paternal or erotic ambiguity. The Albanian outfit Byron acquired and later wore for a portrait made the encounter part of his portable public image.
 
 The episode refuses to make glamour innocent. Ali's courtly charm stands beside accounts of rape, murder, impalement, and other atrocities, exposing Byron's uneven moral response when violence appeared exotic, aristocratic, and personally flattering.
 
@@ -32,6 +33,7 @@ The episode refuses to make glamour innocent. Ali's courtly charm stands beside 
 
 - Political role: [[441-lord-byron-scandal-sex-and-celebrity-part-2-glt1954408695]] describes Ali as formally Ottoman, practically autonomous, and temporarily pro-British.
 - Personal encounter: [[441-lord-byron-scandal-sex-and-celebrity-part-2-glt1954408695]] reports his elaborate reception, compliments, paternal language, and provision of protection to Byron.
+- Visual afterlife: [[221-holidays-byrons-grand-tour-glt3921798295]] connects Ali's Albanian setting to the costume Byron acquired and used in later self-presentation.
 - Moral contradiction: [[441-lord-byron-scandal-sex-and-celebrity-part-2-glt1954408695]] places charm and hospitality beside atrocity accounts and Byron's continued fascination.
 
 ## Qualifications
@@ -40,7 +42,7 @@ The profile is limited to a narrative podcast's use of Ali in Byron's biography.
 
 ## What Changed
 
-- Established Ali as a political facilitator and moral test within Byron's travel self-fashioning.
+- Added costume and portraiture as the visual afterlife of Byron's encounter with Ali's Albania.
 
 ## Relationships
 

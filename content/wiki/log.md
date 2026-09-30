@@ -26347,3 +26347,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | 221. Holidays: Byron's Grand Tour
+
+Added source `221-holidays-byrons-grand-tour-glt3921798295`; created `Bath`, `Brighton`, `JamesBoswell`, `GrandTourCulture`, and `GeorgianHealthResortFormation`; and resynthesized the episode's existing Byron, Regency, and holiday-history pages from their complete preserved evidence inventories. Core synthesis: elite European travel joined education, collecting, pleasure, and self-fashioning, while Georgian spa and seaside destinations used medical belief, architecture, sociability, patronage, and visitor work to create a domestic resort economy. Byron's travel writing and post-Waterloo travel form a hinge toward wider commercial tourism. No settled contradiction was adopted. Seawater drinking is treated as medically invalid but historically consequential; routes, attributions, object totals, intimate anecdotes, motives, and origin claims remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,294-source coverage; no topic claim set was dirty and global compaction was not due. Publish validation passed.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

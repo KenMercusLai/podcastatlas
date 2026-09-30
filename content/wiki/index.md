@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [221. Holidays: Byron's Grand Tour](sources/221-holidays-byrons-grand-tour-glt3921798295.md) — The Rest Is History episode on the Grand Tour, Bath, Brighton, Boswell, Byron, elite self-improvement, health resorts, and tourism's pre-mass foundations.
 - [Exercise, Nutrition, Hormones for Vitality & Longevity | Dr. Peter Attia](sources/exercise-nutrition-hormones-for-vitality-longevity-dr-peter-attia-scim2767035219.md) — Huberman Lab conversation on marginal-decade backcasting, functional testing, exercise and bone reserve, ApoB prevention, hormone context, experimental therapies, and GLP-1 limits.
 - [LIVE EVENT Q&A: Dr. Andrew Huberman at the Moore Theatre in Seattle](sources/live-event-q-a-dr-andrew-huberman-at-the-moore-theatre-in-seattle-scim4148265964.md) — Huberman Lab live Q&A on state flexibility, stress recovery, breathwork, sleep timing, microbiome support, social reward, neural interfaces, and meaningful work.
 - [222. Victorian Holidays](sources/222-victorian-holidays-glt9970456316.md) — The Rest Is History episode on railways, Thomas Cook, guidebooks, spas, battlefield travel, staged authenticity, wakes weeks, and Blackpool's mass-resort growth.
@@ -3349,6 +3350,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [226. The Lord of the Rings](sources/226-the-lord-of-the-rings-glt1788342017.md) — The Rest Is History episode on Tolkien's ring ethics, hidden Catholic structure, wartime power, damaged homecoming, anti-industrial environmentalism, politics, and race.
 
 ## Entities
+- [Bath](entities/Bath.md) — Georgian spa destination joining hot-water medicine, architecture, entertainment, and managed fashionable sociability.
+- [Brighton](entities/Brighton.md) — Regency seaside resort formed through seawater cures, royal pleasure, fantasy architecture, bathing, and visitor services.
+- [James Boswell](entities/JamesBoswell.md) — Grand Tourist who converted intellectual ambition, Corsican politics, adventure, and costume into a public travel persona.
 - [Blackpool](entities/Blackpool.md) — British seaside resort built through railway access, wakes-week demand, electrification, entertainment, and working-class mass leisure.
 - [Thomas Cook](entities/ThomasCook.md) — Organized-travel enterprise used as the historical model for guided tours, package coordination, and the pre-internet agent age.
 - [Billy Butlin](entities/BillyButlin.md) — Entrepreneur who scaled affordable British holiday camps through inclusive pricing, activities, and managed participation.
@@ -15032,6 +15036,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Steve Goss](entities/SteveGoss.md) — Former Social Security chief actuary assessing the scale, feasibility, and timing of reform options.
 
 ## Concepts
+- [Grand Tour Culture](concepts/GrandTourCulture.md) — Elite travel system joining education, classical encounter, collecting, social polish, pleasure, and status display.
+- [Georgian Health Resort Formation](concepts/GeorgianHealthResortFormation.md) — Conversion of spa and seaside places into destinations through medical claims, architecture, sociability, patronage, and visitor services.
 - [Marginal Decade Backcasting](concepts/MarginalDecadeBackcasting.md) — Longevity-planning method that derives present capacity and reserve targets from desired late-life function.
 - [Functional Healthspan Assessment](concepts/FunctionalHealthspanAssessment.md) — Framework combining biomarkers with DEXA, bone, lean-mass, aerobic, strength, stability, and lived-function measures.
 - [Nervous-System State Flexibility](concepts/NervousSystemStateFlexibility.md) — Capacity to move deliberately among alertness, focus, stress, calm, and rest while using multiple recovery signals rather than one diagnostic score.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 9043
+wiki_total_pages: 9045
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -236,6 +236,9 @@ wiki_pages:
   - key: "GeopoliticalCycleMacro"
     title: "Geopolitical Cycle Macro"
     url: "/wiki/concepts/geopoliticalcyclemacro/"
+  - key: "GeorgianHealthResortFormation"
+    title: "Georgian Health Resort Formation"
+    url: "/wiki/concepts/georgianhealthresortformation/"
   - key: "GermanCaretakerStalemate"
     title: "German Caretaker Stalemate"
     url: "/wiki/concepts/germancaretakerstalemate/"
@@ -467,6 +470,9 @@ wiki_pages:
   - key: "GrainLeverageAllianceBetrayal"
     title: "Grain Leverage Alliance Betrayal / 粮食诱导式同盟背叛"
     url: "/wiki/concepts/grainleveragealliancebetrayal/"
+  - key: "GrandTourCulture"
+    title: "Grand Tour Culture"
+    url: "/wiki/concepts/grandtourculture/"
   - key: "GraphNeuralNetworks"
     title: "Graph Neural Networks"
     url: "/wiki/concepts/graphneuralnetworks/"

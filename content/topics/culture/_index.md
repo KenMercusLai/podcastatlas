@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2976
+topic_total_pages: 2977
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1363,6 +1363,9 @@ topic_concepts:
   - key: "GraduationAnxiety"
     title: "Graduation Anxiety"
     url: "/wiki/concepts/graduationanxiety/"
+  - key: "GrandTourCulture"
+    title: "Grand Tour Culture"
+    url: "/wiki/concepts/grandtourculture/"
   - key: "GreaterBayAreaCinema"
     title: "Greater Bay Area Cinema / 大湾区电影"
     url: "/wiki/concepts/greaterbayareacinema/"

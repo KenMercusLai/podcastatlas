@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 11649
+wiki_total_pages: 11652
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -197,6 +197,9 @@ wiki_pages:
   - key: "Bastet"
     title: "Bastet / 巴斯特"
     url: "/wiki/entities/bastet/"
+  - key: "Bath"
+    title: "Bath"
+    url: "/wiki/entities/bath/"
   - key: "BattleOfAgincourt"
     title: "Battle of Agincourt"
     url: "/wiki/entities/battleofagincourt/"
@@ -995,6 +998,9 @@ wiki_pages:
   - key: "BridgewaterAssociates"
     title: "Bridgewater Associates"
     url: "/wiki/entities/bridgewaterassociates/"
+  - key: "Brighton"
+    title: "Brighton"
+    url: "/wiki/entities/brighton/"
   - key: "BristolMyersSquibb"
     title: "Bristol Myers Squibb / BMS"
     url: "/wiki/entities/bristolmyerssquibb/"

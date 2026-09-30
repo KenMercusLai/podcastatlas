@@ -8684,9 +8684,9 @@
       "url": "/wiki/entities/alikhamenei/"
     },
     "AliPasha": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1954408695 [GLT1954408695].md",
@@ -8694,9 +8694,16 @@
           "show": "The Rest Is History",
           "title": "441. Lord Byron: Scandal, Sex and Celebrity (Part 2)",
           "url": "/wiki/sources/441-lord-byron-scandal-sex-and-celebrity-part-2-glt1954408695/"
+        },
+        {
+          "episode_file": "GLT3921798295 [GLT3921798295].md",
+          "key": "221-holidays-byrons-grand-tour-glt3921798295",
+          "show": "The Rest Is History",
+          "title": "221. Holidays: Byron's Grand Tour",
+          "url": "/wiki/sources/221-holidays-byrons-grand-tour-glt3921798295/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/alipasha/"
     },
     "AlibabaCloud": {
@@ -18272,6 +18279,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/bastillerevolutionarymythmaking/"
     },
+    "Bath": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3921798295 [GLT3921798295].md",
+          "key": "221-holidays-byrons-grand-tour-glt3921798295",
+          "show": "The Rest Is History",
+          "title": "221. Holidays: Byron's Grand Tour",
+          "url": "/wiki/sources/221-holidays-byrons-grand-tour-glt3921798295/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/bath/"
+    },
     "BatterySupplierDiversification": {
       "episode_count": 1,
       "show_count": 1,
@@ -23052,6 +23075,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/briggsvmullen/"
+    },
+    "Brighton": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3921798295 [GLT3921798295].md",
+          "key": "221-holidays-byrons-grand-tour-glt3921798295",
+          "show": "The Rest Is History",
+          "title": "221. Holidays: Byron's Grand Tour",
+          "url": "/wiki/sources/221-holidays-byrons-grand-tour-glt3921798295/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/brighton/"
     },
     "Britain1976IMFCrisis": {
       "episode_count": 5,
@@ -31456,9 +31495,9 @@
       "url": "/wiki/concepts/childbearingirreversibility/"
     },
     "ChildeHaroldsPilgrimage": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1954408695 [GLT1954408695].md",
@@ -31466,9 +31505,16 @@
           "show": "The Rest Is History",
           "title": "441. Lord Byron: Scandal, Sex and Celebrity (Part 2)",
           "url": "/wiki/sources/441-lord-byron-scandal-sex-and-celebrity-part-2-glt1954408695/"
+        },
+        {
+          "episode_file": "GLT3921798295 [GLT3921798295].md",
+          "key": "221-holidays-byrons-grand-tour-glt3921798295",
+          "show": "The Rest Is History",
+          "title": "221. Holidays: Byron's Grand Tour",
+          "url": "/wiki/sources/221-holidays-byrons-grand-tour-glt3921798295/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/childeharoldspilgrimage/"
     },
     "Chile": {
@@ -73466,9 +73512,9 @@
       "url": "/wiki/entities/georgeiii/"
     },
     "GeorgeIV": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8755026279 [GLT8755026279].md",
@@ -73476,9 +73522,16 @@
           "show": "The Rest Is History",
           "title": "329: Coronations: Chaos, Ceremony and Empire (Part 3)",
           "url": "/wiki/sources/329-coronations-chaos-ceremony-and-empire-part-3-glt8755026279/"
+        },
+        {
+          "episode_file": "GLT3921798295 [GLT3921798295].md",
+          "key": "221-holidays-byrons-grand-tour-glt3921798295",
+          "show": "The Rest Is History",
+          "title": "221. Holidays: Byron's Grand Tour",
+          "url": "/wiki/sources/221-holidays-byrons-grand-tour-glt3921798295/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/georgeiv/"
     },
     "GeorgeLucas": {
@@ -73823,6 +73876,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/georgiabanjo/"
+    },
+    "GeorgianHealthResortFormation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3921798295 [GLT3921798295].md",
+          "key": "221-holidays-byrons-grand-tour-glt3921798295",
+          "show": "The Rest Is History",
+          "title": "221. Holidays: Byron's Grand Tour",
+          "url": "/wiki/sources/221-holidays-byrons-grand-tour-glt3921798295/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/georgianhealthresortformation/"
     },
     "GeraldFord": {
       "episode_count": 1,
@@ -76154,6 +76223,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/grailtraditionformation/"
+    },
+    "GrandTourCulture": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3921798295 [GLT3921798295].md",
+          "key": "221-holidays-byrons-grand-tour-glt3921798295",
+          "show": "The Rest Is History",
+          "title": "221. Holidays: Byron's Grand Tour",
+          "url": "/wiki/sources/221-holidays-byrons-grand-tour-glt3921798295/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/grandtourculture/"
     },
     "GraphNeuralNetworks": {
       "episode_count": 1,
@@ -84428,9 +84513,9 @@
       "url": "/wiki/entities/hojomasako/"
     },
     "HolidayImprovementIdeology": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5217352210 [GLT5217352210].md",
@@ -84445,6 +84530,13 @@
           "show": "The Rest Is History",
           "title": "222. Victorian Holidays",
           "url": "/wiki/sources/222-victorian-holidays-glt9970456316/"
+        },
+        {
+          "episode_file": "GLT3921798295 [GLT3921798295].md",
+          "key": "221-holidays-byrons-grand-tour-glt3921798295",
+          "show": "The Rest Is History",
+          "title": "221. Holidays: Byron's Grand Tour",
+          "url": "/wiki/sources/221-holidays-byrons-grand-tour-glt3921798295/"
         }
       ],
       "updated": "2026-10-01",
@@ -96190,6 +96282,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/entities/jairbolsonaro/"
     },
+    "JamesBoswell": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3921798295 [GLT3921798295].md",
+          "key": "221-holidays-byrons-grand-tour-glt3921798295",
+          "show": "The Rest Is History",
+          "title": "221. Holidays: Byron's Grand Tour",
+          "url": "/wiki/sources/221-holidays-byrons-grand-tour-glt3921798295/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/jamesboswell/"
+    },
     "JamesCallender": {
       "episode_count": 1,
       "show_count": 1,
@@ -96468,9 +96576,9 @@
       "url": "/wiki/entities/janvaneyck/"
     },
     "JaneAusten": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7671750288 [GLT7671750288].md",
@@ -96478,6 +96586,13 @@
           "show": "The Rest Is History",
           "title": "238. The Regency Revolution",
           "url": "/wiki/sources/238-the-regency-revolution-glt7671750288/"
+        },
+        {
+          "episode_file": "GLT3921798295 [GLT3921798295].md",
+          "key": "221-holidays-byrons-grand-tour-glt3921798295",
+          "show": "The Rest Is History",
+          "title": "221. Holidays: Byron's Grand Tour",
+          "url": "/wiki/sources/221-holidays-byrons-grand-tour-glt3921798295/"
         }
       ],
       "updated": "2026-10-01",
@@ -99255,9 +99370,9 @@
       "url": "/wiki/entities/johncalvin/"
     },
     "JohnCamHobhouse": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT1954408695 [GLT1954408695].md",
@@ -99272,9 +99387,16 @@
           "show": "The Rest Is History",
           "title": "440. Lord Byron: Mad, Bad and Dangerous to Know (Part 1)",
           "url": "/wiki/sources/440-lord-byron-mad-bad-and-dangerous-to-know-part-1-glt4389862746/"
+        },
+        {
+          "episode_file": "GLT3921798295 [GLT3921798295].md",
+          "key": "221-holidays-byrons-grand-tour-glt3921798295",
+          "show": "The Rest Is History",
+          "title": "221. Holidays: Byron's Grand Tour",
+          "url": "/wiki/sources/221-holidays-byrons-grand-tour-glt3921798295/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/johncamhobhouse/"
     },
     "JohnChandos": {
@@ -113588,9 +113710,9 @@
       "url": "/wiki/entities/lopedeaguirre/"
     },
     "LordByron": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 2,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "141. 制造弗兰肯斯坦：科幻之母和她的神奇时代 [857923931].md",
@@ -113633,9 +113755,16 @@
           "show": "The Rest Is History",
           "title": "440. Lord Byron: Mad, Bad and Dangerous to Know (Part 1)",
           "url": "/wiki/sources/440-lord-byron-mad-bad-and-dangerous-to-know-part-1-glt4389862746/"
+        },
+        {
+          "episode_file": "GLT3921798295 [GLT3921798295].md",
+          "key": "221-holidays-byrons-grand-tour-glt3921798295",
+          "show": "The Rest Is History",
+          "title": "221. Holidays: Byron's Grand Tour",
+          "url": "/wiki/sources/221-holidays-byrons-grand-tour-glt3921798295/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/lordbyron/"
     },
     "LordDunmoresProclamation": {
@@ -125961,9 +126090,9 @@
       "url": "/wiki/concepts/modernboundaryhardening/"
     },
     "ModernMassTourism": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5217352210 [GLT5217352210].md",
@@ -125978,6 +126107,13 @@
           "show": "The Rest Is History",
           "title": "222. Victorian Holidays",
           "url": "/wiki/sources/222-victorian-holidays-glt9970456316/"
+        },
+        {
+          "episode_file": "GLT3921798295 [GLT3921798295].md",
+          "key": "221-holidays-byrons-grand-tour-glt3921798295",
+          "show": "The Rest Is History",
+          "title": "221. Holidays: Byron's Grand Tour",
+          "url": "/wiki/sources/221-holidays-byrons-grand-tour-glt3921798295/"
         }
       ],
       "updated": "2026-10-01",
