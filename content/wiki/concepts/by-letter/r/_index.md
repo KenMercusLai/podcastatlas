@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 8988
+wiki_total_pages: 8990
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -293,6 +293,9 @@ wiki_pages:
   - key: "RefugeeAidRegistrationGap"
     title: "Refugee Aid Registration Gap / 难民登记援助空窗"
     url: "/wiki/concepts/refugeeaidregistrationgap/"
+  - key: "RegencyFashionTransition"
+    title: "Regency Fashion Transition"
+    url: "/wiki/concepts/regencyfashiontransition/"
   - key: "RegencyUnderCompoundCrisis"
     title: "Regency Under Compound Crisis / 复合危机下的摄政"
     url: "/wiki/concepts/regencyundercompoundcrisis/"

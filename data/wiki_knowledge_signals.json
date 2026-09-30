@@ -18853,9 +18853,9 @@
       "url": "/wiki/entities/bayeuxtapestry/"
     },
     "BeauBrummell": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8912379704 [GLT8912379704].md",
@@ -18863,9 +18863,16 @@
           "show": "The Rest Is History",
           "title": "459. The Suit, Savile Row, and Smartly Dressed Men",
           "url": "/wiki/sources/459-the-suit-savile-row-and-smartly-dressed-men-glt8912379704/"
+        },
+        {
+          "episode_file": "GLT7671750288 [GLT7671750288].md",
+          "key": "238-the-regency-revolution-glt7671750288",
+          "show": "The Rest Is History",
+          "title": "238. The Regency Revolution",
+          "url": "/wiki/sources/238-the-regency-revolution-glt7671750288/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/beaubrummell/"
     },
     "BeautyAccessorization": {
@@ -53632,6 +53639,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/emilybalcetis/"
     },
+    "EmmaHamilton": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7671750288 [GLT7671750288].md",
+          "key": "238-the-regency-revolution-glt7671750288",
+          "show": "The Rest Is History",
+          "title": "238. The Regency Revolution",
+          "url": "/wiki/sources/238-the-regency-revolution-glt7671750288/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/emmahamilton/"
+    },
     "EmmaOfNormandy": {
       "episode_count": 2,
       "show_count": 1,
@@ -61948,6 +61971,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/concepts/fascistsportpolicy/"
+    },
+    "FashionCirculationInfrastructure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7671750288 [GLT7671750288].md",
+          "key": "238-the-regency-revolution-glt7671750288",
+          "show": "The Rest Is History",
+          "title": "238. The Regency Revolution",
+          "url": "/wiki/sources/238-the-regency-revolution-glt7671750288/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/fashioncirculationinfrastructure/"
     },
     "FashionLiberationExploitationParadox": {
       "episode_count": 2,
@@ -82793,6 +82832,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/hightemplerite/"
     },
+    "HilaryDavidson": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7671750288 [GLT7671750288].md",
+          "key": "238-the-regency-revolution-glt7671750288",
+          "show": "The Rest Is History",
+          "title": "238. The Regency Revolution",
+          "url": "/wiki/sources/238-the-regency-revolution-glt7671750288/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/hilarydavidson/"
+    },
     "HimalayanGlacialFloodRisk": {
       "episode_count": 3,
       "show_count": 2,
@@ -95304,6 +95359,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/janvaneyck/"
+    },
+    "JaneAusten": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7671750288 [GLT7671750288].md",
+          "key": "238-the-regency-revolution-glt7671750288",
+          "show": "The Rest Is History",
+          "title": "238. The Regency Revolution",
+          "url": "/wiki/sources/238-the-regency-revolution-glt7671750288/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/janeausten/"
     },
     "JaneFonda": {
       "episode_count": 1,
@@ -149888,6 +149959,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/refugeeaidregistrationgap/"
     },
+    "RegencyFashionTransition": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7671750288 [GLT7671750288].md",
+          "key": "238-the-regency-revolution-glt7671750288",
+          "show": "The Rest Is History",
+          "title": "238. The Regency Revolution",
+          "url": "/wiki/sources/238-the-regency-revolution-glt7671750288/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/regencyfashiontransition/"
+    },
     "RegencyUnderCompoundCrisis": {
       "episode_count": 15,
       "show_count": 1,
@@ -151796,9 +151883,9 @@
       "url": "/wiki/concepts/restoredroyalfigureheadlegitimacy/"
     },
     "RestrainedLuxuryStatus": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8912379704 [GLT8912379704].md",
@@ -151806,9 +151893,16 @@
           "show": "The Rest Is History",
           "title": "459. The Suit, Savile Row, and Smartly Dressed Men",
           "url": "/wiki/sources/459-the-suit-savile-row-and-smartly-dressed-men-glt8912379704/"
+        },
+        {
+          "episode_file": "GLT7671750288 [GLT7671750288].md",
+          "key": "238-the-regency-revolution-glt7671750288",
+          "show": "The Rest Is History",
+          "title": "238. The Regency Revolution",
+          "url": "/wiki/sources/238-the-regency-revolution-glt7671750288/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/restrainedluxurystatus/"
     },
     "RetailDisplayAsBrandSurface": {
@@ -152294,9 +152388,9 @@
       "url": "/wiki/concepts/revolutionarycrowdvengeance/"
     },
     "RevolutionaryDressPoliticalIdentity": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5535769124 [GLT5535769124].md",
@@ -152304,9 +152398,16 @@
           "show": "The Rest Is History",
           "title": "507. The French Revolution: The Marseillaise, Song of War (Part 5)",
           "url": "/wiki/sources/507-the-french-revolution-the-marseillaise-song-of-war-part-5-glt5535769124/"
+        },
+        {
+          "episode_file": "GLT7671750288 [GLT7671750288].md",
+          "key": "238-the-regency-revolution-glt7671750288",
+          "show": "The Rest Is History",
+          "title": "238. The Regency Revolution",
+          "url": "/wiki/sources/238-the-regency-revolution-glt7671750288/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/revolutionarydresspoliticalidentity/"
     },
     "RevolutionaryFactionalOutflanking": {
@@ -170447,9 +170548,9 @@
       "url": "/wiki/concepts/suicideriskrecognitionandsupport/"
     },
     "SuitAsSocialCode": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8912379704 [GLT8912379704].md",
@@ -170457,9 +170558,16 @@
           "show": "The Rest Is History",
           "title": "459. The Suit, Savile Row, and Smartly Dressed Men",
           "url": "/wiki/sources/459-the-suit-savile-row-and-smartly-dressed-men-glt8912379704/"
+        },
+        {
+          "episode_file": "GLT7671750288 [GLT7671750288].md",
+          "key": "238-the-regency-revolution-glt7671750288",
+          "show": "The Rest Is History",
+          "title": "238. The Regency Revolution",
+          "url": "/wiki/sources/238-the-regency-revolution-glt7671750288/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/suitassocialcode/"
     },
     "SuitorsOfPenelope": {

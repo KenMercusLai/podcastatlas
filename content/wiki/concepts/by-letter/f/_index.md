@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 8988
+wiki_total_pages: 8990
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -191,6 +191,9 @@ wiki_pages:
   - key: "FascistSportPolicy"
     title: "Fascist Sport Policy"
     url: "/wiki/concepts/fascistsportpolicy/"
+  - key: "FashionCirculationInfrastructure"
+    title: "Fashion Circulation Infrastructure"
+    url: "/wiki/concepts/fashioncirculationinfrastructure/"
   - key: "FashionLiberationExploitationParadox"
     title: "Fashion Liberation-Exploitation Paradox"
     url: "/wiki/concepts/fashionliberationexploitationparadox/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [238. The Regency Revolution](sources/238-the-regency-revolution-glt7671750288.md) — The Rest Is History conversation with Hilary Davidson on rapid Regency changes in women's dress, menswear, bodies, retail networks, mobility, and political meaning.
 - [239. Young Churchill: Born to Lead (Part 1)](sources/239-young-churchill-born-to-lead-part-1-glt1969009161.md) — The Rest Is History episode on Churchill's aristocratic childhood, emotional neglect, destiny belief, schooling, risk-taking, and entry to Sandhurst.
 - [The Effects of Cannabis (Marijuana) on the Brain & Body](sources/the-effects-of-cannabis-marijuana-on-the-brain-body-scim1203833427.md) — Huberman Lab solo episode on endocannabinoid mechanisms, acute and chronic cannabis effects, developmental risk, and strain, psychosis, CBD, and medical-use claims later bounded by corrective evidence.
 - [240. Young Churchill: Soldier of Empire (Part 2)](sources/240-young-churchill-soldier-of-empire-part-2-glt4710302249.md) — The Rest Is History episode on Churchill's Cuba, India, Malakand, and Omdurman apprenticeship, joining war reporting and self-education to imperial confidence and moral unease.
@@ -3321,6 +3322,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [当眼镜、耳机、手机都有 AI，谁来统一你的「第二大脑」｜ 2026 高通骁龙峰会 S10E31](sources/dang-yanjing-erji-shouji-dou-you-ai-shui-lai-tongyi-ni-de-di-er-danao-2026-gaotong-xiaolong-fenghui-s10e31-2d6bfcec-31c3-4ef2-981f-6dc2864cf92d.md) — What's Next｜科技早知道 episode on distributed AI devices, the phone as coordination hub, local-first multimodal memory, cross-device interoperability, and Qualcomm's platform ambitions.
 
 ## Entities
+- [Hilary Davidson](entities/HilaryDavidson.md) — Fashion historian and curator interpreting Regency dress through garments, bodies, commerce, infrastructure, and multi-causal change.
+- [Jane Austen](entities/JaneAusten.md) — Novelist whose letters and social world illuminate fashion circulation and the balance between novelty and respectability.
+- [Emma Hamilton](entities/EmmaHamilton.md) — Celebrity performer whose classically draped attitudes made Romantic antiquity embodied and imitable.
 - [Jennie Jerome](entities/JennieJerome.md) — Winston Churchill's admired but emotionally distant American mother and Lord Randolph Churchill's wife.
 - [Elizabeth Everest](entities/ElizabethEverest.md) — Churchill's nanny and the most dependable source of affection in the episode's childhood account.
 - [Lord Randolph Churchill](entities/LordRandolphChurchill.md) — Winston Churchill's admired but critical father, whose death intensified the episode's account of Winston's drive for achievement.
@@ -14954,6 +14958,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Modular](entities/ModularAI.md) — AI software-infrastructure company whose Mojo and MAX stack is presented as supporting cross-hardware model deployment.
 
 ## Concepts
+- [Regency Fashion Transition](concepts/RegencyFashionTransition.md) — Rapid shift in silhouettes, textiles, body ideals, mobility, tailoring, and gendered social meaning from the 1790s to about 1820.
+- [Fashion Circulation Infrastructure](concepts/FashionCirculationInfrastructure.md) — Social, commercial, craft, communication, and transport network turning observed appearance into distributed styles and goods.
 - [Destiny-Driven Self-Construction](concepts/DestinyDrivenSelfConstruction.md) — Process joining inherited narrative, family longing, cultural scripts, urgency, action, and retrospective memory into a durable sense of historical purpose.
 - [Romanticized War Moral Ambivalence](concepts/RomanticizedWarMoralAmbivalence.md) — Coexistence of attraction to danger and martial glory with admiration for enemies, awareness of suffering, and revulsion at cruelty.
 - [Imperial Adventure Public Mythmaking](concepts/ImperialAdventurePublicMythmaking.md) — Process by which real danger, narrative control, press timing, and national morale convert colonial adventure into political celebrity.

@@ -4,7 +4,8 @@ type: concept
 tags: [luxury, status, fashion, signaling]
 sources:
   - 459-the-suit-savile-row-and-smartly-dressed-men-glt8912379704
-last_updated: 2026-09-25
+  - 238-the-regency-revolution-glt7671750288
+last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
 
@@ -20,6 +21,8 @@ The suit episode describes a shift from conspicuous ornament toward what it call
 
 Restraint does not remove hierarchy. It can make hierarchy harder to read from outside while increasing the value of insider knowledge: the right shade, cut, drape, cloth, button practice, or degree of formality can distinguish wearers who appear superficially alike.
 
+[[238-the-regency-revolution-glt7671750288]] places this logic inside the broader Regency rejection of courtly flamboyance. Practical riding and working styles could move upward, but elite distinction survived through bodily fit, exact tailoring, laundering, material quality, and connoisseurship. Brummell's ideal of clothing that did not obviously attract attention made invisibility itself a difficult achievement.
+
 ## Key Claims
 
 - Plain appearance can conceal substantial expenditure of money, time, labor, and attention.
@@ -34,14 +37,15 @@ Restraint does not remove hierarchy. It can make hierarchy harder to read from o
 - Dandy refinement: [[459-the-suit-savile-row-and-smartly-dressed-men-glt8912379704]] makes Brummell's controlled appearance dependent on expense, labor, and exact judgment.
 - Maintenance signal: [[459-the-suit-savile-row-and-smartly-dressed-men-glt8912379704]] notes that white shirts and black cloth displayed the ability to keep linen clean and dyes unfaded.
 - Bespoke form: [[459-the-suit-savile-row-and-smartly-dressed-men-glt8912379704]] treats Savile Row cut and house style as quiet but legible forms of differentiation.
+- Upward borrowing and refinement: [[238-the-regency-revolution-glt7671750288]] connects grooms, jockeys, country gentlemen, military dress, precise tailoring, laundering, and Brummell's judgment within a sober status system.
 
 ## Counterevidence & Qualifications
 
-The concept describes one signaling mechanism, not every motive for wearing sober clothes. Practicality, occupation, mourning, religion, regulation, comfort, affordability, or personal preference may produce similar appearances. The source's gender and national generalizations remain limited by its British elite focus.
+The concept describes one signaling mechanism, not every motive for wearing sober clothes. Practicality, occupation, mourning, religion, regulation, comfort, affordability, or personal preference may produce similar appearances. Upward borrowing does not erase class inequality, and the sources' gender and national generalizations remain limited by their British elite focus.
 
 ## What Changed
 
-- Created a concept for the suit episode's claim that controlled understatement can intensify rather than abolish status display.
+- Added Regency trickle-up borrowing and Brummell's deliberately unobtrusive perfection as mechanisms of restrained distinction.
 
 ## Related Concepts
 
@@ -49,3 +53,4 @@ The concept describes one signaling mechanism, not every motive for wearing sobe
 - [[BespokeHeritageEconomy]] - production and provenance system that monetizes quiet distinction.
 - [[SocialSignalInterpretation]] - broader process by which small contextual cues acquire meaning.
 - [[MaterialHistoryNarrative]] - connects the signal to linen, dye, wool, labor, and garment care.
+- [[RegencyFashionTransition]] - historical transition that made sober male tailoring culturally dominant.

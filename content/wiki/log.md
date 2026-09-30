@@ -26129,9 +26129,17 @@ Added source `the-effects-of-cannabis-marijuana-on-the-brain-body-scim1203833427
 
 Ran lint. See lint-report.md for details.
 
+## [2026-10-01] ingest | 238. The Regency Revolution
+
+Added source `238-the-regency-revolution-glt7671750288`; created `HilaryDavidson`, `JaneAusten`, `EmmaHamilton`, `RegencyFashionTransition`, and `FashionCirculationInfrastructure`; and resynthesized `BeauBrummell`, `SuitAsSocialCode`, `RestrainedLuxuryStatus`, and `RevolutionaryDressPoliticalIdentity` from their complete preserved evidence inventories. Core synthesis: Regency fashion joined changing bodies, textiles, mobility, tailoring, celebrity, retail, communication, and political meaning, while the French Revolution acted as one marker and accelerator rather than a sufficient cause. No settled contradiction was adopted. Participation estimates, influence stories, timing, national comparisons, reported dialogue, and origin claims remain source-scoped; working-class production, cotton slavery, empire, and non-European dress are major scope limits. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,268-source coverage; no topic claim set was dirty and global compaction was not due.
+
 ## [2026-10-01] ingest | 239. Young Churchill: Born to Lead (Part 1)
 
 Added source `239-young-churchill-born-to-lead-part-1-glt1969009161`; created `JennieJerome`, `ElizabethEverest`, and `DestinyDrivenSelfConstruction`; and resynthesized `WinstonChurchill` and `LordRandolphChurchill` from their complete preserved evidence inventories. Core synthesis: Churchill's public identity began before imperial campaigning, as Marlborough ancestry, military play, adventure reading, aristocratic duty, parental distance, dependable care from Everest, mortality anxiety, physical risk, and an early belief in destiny formed a durable heroic and comic self-story. No settled contradiction was adopted. The episode qualifies Churchill's later dunce narrative, while reported prophecy, recalled dialogue, parental motives, medical explanation, and psychological causation remain memoir-based or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten because this source backfills an established Churchill branch; downstream synthesis refresh only reads it.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-10-01] lint | Wiki health check
 
