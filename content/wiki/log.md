@@ -25942,3 +25942,11 @@ Added source `the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-nor
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-30] ingest | 250. Alfred the Great: Fury of the Vikings (Part 1)
+
+Added source `250-alfred-the-great-fury-of-the-vikings-part-1-glt7924523463`; created `GreatHeathenArmy`; and resynthesized `AlfredTheGreat`, `Guthrum`, and `AngloSaxonStateFormation` from their complete preserved evidence inventories. Core synthesis: Alfred's Christianity, education, alliance-building, battles, payments, and treaties developed within a divided Anglo-Saxon landscape that Viking ships, winter operations, surprise, and large camps could systematically disrupt; Guthrum's 878 seizure of Chippenham was the low point before the recovery covered in Part 2. No settled contradiction was adopted. Alfred's court-connected evidence, Victorian reputation, legendary atrocity and martyrdom stories, army size, motives, childhood anecdotes, papal honors, and counterfactual claims remain source-scoped or qualified. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

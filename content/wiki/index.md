@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [250. Alfred the Great: Fury of the Vikings (Part 1)](sources/250-alfred-the-great-fury-of-the-vikings-part-1-glt7924523463.md) — The Rest Is History episode on Alfred's formation, the Great Heathen Army, Viking operational mobility, divided Anglo-Saxon kingdoms, source bias, and the Chippenham crisis of 878.
 - [251. Alfred the Great: Return of the King (Part 2)](sources/251-alfred-the-great-return-of-the-king-part-2-glt9621369023.md) — The Rest Is History episode on Alfred's 878 recovery, Edington, Guthrum's baptism, Danelaw accommodation, fortified reform, learning, and wider English identity.
 - [252. The World Cup: British Imperialism, South American rivalries, and Mussolini (Part 1)](sources/252-the-world-cup-british-imperialism-south-american-rivalries-and-mussolini-part-1-glt2171290588.md) — The Rest Is History episode on football's British-network diffusion, Uruguay's rise, fascist World Cups, and the Maracanazo's racialized national memory.
 - [253. The World Cup: Post-war reconciliation, Brazilian dictatorship, and North Koreans in Middlesbrough (Part 2)](sources/253-the-world-cup-post-war-reconciliation-brazilian-dictatorship-and-north-koreans-in-middlesbrough-part-2-glt3874165711.md) — The Rest Is History episode on postwar football memory, Brazil and Argentina under dictatorship, and the coexistence of World Cup beauty with political coercion.
@@ -4184,8 +4185,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Louis XVI](entities/LouisXVI.md) — Bourbon king whose scandal-era reputational damage preceded constitutional collapse, suspension, trial, and execution.
 - [National Convention](entities/NationalConvention.md) — Republican assembly acting as legislature, court, and symbolic sovereign in the trial and execution of Louis XVI.
 - [李杰 / Li Jie (Respiratory Physician)](entities/LiJieRespiratoryDoctor.md) — Respiratory physician explaining obstructive sleep apnea, clinical testing, treatment selection, and home positive-airway-pressure use.
-- [Alfred the Great](entities/AlfredTheGreat.md) — West Saxon ruler whose defense, fortified towns, trade policy, and political identity underpin later English unification.
-- [Guthrum](entities/Guthrum.md) — Danish ruler whose defeat, baptism, and negotiated settlement connect Viking warfare to Christian territorial kingship.
+- [Alfred the Great](entities/AlfredTheGreat.md) — Christian West Saxon ruler whose education, early wars, 878 recovery, fortified reform, and political identity underpin later English unification.
+- [Guthrum](entities/Guthrum.md) — Danish ruler whose Chippenham surprise, defeat, baptism, and negotiated settlement connect Viking warfare to Christian territorial kingship.
+- [Great Heathen Army](entities/GreatHeathenArmy.md) — Viking coalition whose mobility, winter campaigning, large camps, conquest, and settlement transformed ninth-century England.
 - [Athelstan](entities/Athelstan.md) — West Saxon king presented as completing the political unification of England.
 - [Edgar the Peaceful](entities/EdgarThePeaceful.md) — English king whose sacred ceremony and punitive enforcement reveal the coercive basis of royal peace.
 - [Rollo](entities/Rollo.md) — Viking warlord and baptized lower-Seine ruler whose settlement begins Normandy's hybrid political tradition.
@@ -15809,7 +15811,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Political Execution Memory Contest](concepts/PoliticalExecutionMemoryContest.md) — Rival construction of an executed political figure as criminal, tyrant, victim, martyr, or sacrifice.
 - [Obstructive Sleep Apnea Recognition](concepts/ObstructiveSleepApneaRecognition.md) — Symptom, risk, screening, diagnostic, and escalation pathway that keeps consumer-device claims distinct from regulated sleep-medicine care.
 - [Positive Airway Pressure Therapy](concepts/PositiveAirwayPressureTherapy.md) — Noninvasive airway-support framework joining indication, titration, device fit, comfort, data, and adherence.
-- [Anglo-Saxon State Formation](concepts/AngloSaxonStateFormation.md) — Multigenerational development of English defense, towns, church, coinage, political unity, and coercive royal capacity.
+- [Anglo-Saxon State Formation](concepts/AngloSaxonStateFormation.md) — Multigenerational development from divided kingdoms and Viking disruption through defense, towns, church, coinage, political unity, and coercive royal capacity.
 - [Battle of Edington](concepts/BattleOfEdington.md) — Alfred's 878 victory treated as a bridge from military recovery to negotiated settlement and institutional rebuilding.
 - [Danelaw Settlement](concepts/DanelawSettlement.md) — Anglo-Danish legal-territorial accommodation that preserved Danish power while giving Wessex rebuilding space.
 - [Norman Hybrid Identity](concepts/NormanHybridIdentity.md) — Evolving synthesis of Scandinavian ancestry with Frankish, Christian, linguistic, and monastic adaptation in Normandy.

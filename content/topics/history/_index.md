@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2234
+topic_total_pages: 2235
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4761,6 +4761,9 @@ topic_sources:
   - key: "171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962"
     title: "171.闲聊十二生肖之马：观音大士的兴趣爱好,及老头环角色的灵感"
     url: "/wiki/sources/171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962/"
+  - key: "250-alfred-the-great-fury-of-the-vikings-part-1-glt7924523463"
+    title: "250. Alfred the Great: Fury of the Vikings (Part 1)"
+    url: "/wiki/sources/250-alfred-the-great-fury-of-the-vikings-part-1-glt7924523463/"
   - key: "251-alfred-the-great-return-of-the-king-part-2-glt9621369023"
     title: "251. Alfred the Great: Return of the King (Part 2)"
     url: "/wiki/sources/251-alfred-the-great-return-of-the-king-part-2-glt9621369023/"

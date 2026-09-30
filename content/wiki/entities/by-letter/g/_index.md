@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 11549
+wiki_total_pages: 11550
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -743,6 +743,9 @@ wiki_pages:
   - key: "GreatHarvestBread"
     title: "Great Harvest Bread"
     url: "/wiki/entities/greatharvestbread/"
+  - key: "GreatHeathenArmy"
+    title: "Great Heathen Army"
+    url: "/wiki/entities/greatheathenarmy/"
   - key: "GreatIrishFamine"
     title: "Great Irish Famine"
     url: "/wiki/entities/greatirishfamine/"

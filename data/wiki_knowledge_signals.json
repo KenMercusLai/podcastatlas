@@ -8344,9 +8344,9 @@
       "url": "/wiki/entities/alfredterry/"
     },
     "AlfredTheGreat": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT9632339286 [GLT9632339286].md",
@@ -8361,6 +8361,13 @@
           "show": "The Rest Is History",
           "title": "251. Alfred the Great: Return of the King (Part 2)",
           "url": "/wiki/sources/251-alfred-the-great-return-of-the-king-part-2-glt9621369023/"
+        },
+        {
+          "episode_file": "GLT7924523463 [GLT7924523463].md",
+          "key": "250-alfred-the-great-fury-of-the-vikings-part-1-glt7924523463",
+          "show": "The Rest Is History",
+          "title": "250. Alfred the Great: Fury of the Vikings (Part 1)",
+          "url": "/wiki/sources/250-alfred-the-great-fury-of-the-vikings-part-1-glt7924523463/"
         }
       ],
       "updated": "2026-09-30",
@@ -11358,9 +11365,9 @@
       "url": "/wiki/concepts/anglonormansuccessionlegitimacy/"
     },
     "AngloSaxonStateFormation": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT9632339286 [GLT9632339286].md",
@@ -11375,6 +11382,13 @@
           "show": "The Rest Is History",
           "title": "251. Alfred the Great: Return of the King (Part 2)",
           "url": "/wiki/sources/251-alfred-the-great-return-of-the-king-part-2-glt9621369023/"
+        },
+        {
+          "episode_file": "GLT7924523463 [GLT7924523463].md",
+          "key": "250-alfred-the-great-fury-of-the-vikings-part-1-glt7924523463",
+          "show": "The Rest Is History",
+          "title": "250. Alfred the Great: Fury of the Vikings (Part 1)",
+          "url": "/wiki/sources/250-alfred-the-great-fury-of-the-vikings-part-1-glt7924523463/"
         }
       ],
       "updated": "2026-09-30",
@@ -74270,6 +74284,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/entities/greatfear1789/"
     },
+    "GreatHeathenArmy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7924523463 [GLT7924523463].md",
+          "key": "250-alfred-the-great-fury-of-the-vikings-part-1-glt7924523463",
+          "show": "The Rest Is History",
+          "title": "250. Alfred the Great: Fury of the Vikings (Part 1)",
+          "url": "/wiki/sources/250-alfred-the-great-fury-of-the-vikings-part-1-glt7924523463/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/greatheathenarmy/"
+    },
     "GreatIrishFamine": {
       "episode_count": 1,
       "show_count": 1,
@@ -76141,9 +76171,9 @@
       "url": "/wiki/concepts/gutsensoryneuralsignaling/"
     },
     "Guthrum": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9621369023 [GLT9621369023].md",
@@ -76151,6 +76181,13 @@
           "show": "The Rest Is History",
           "title": "251. Alfred the Great: Return of the King (Part 2)",
           "url": "/wiki/sources/251-alfred-the-great-return-of-the-king-part-2-glt9621369023/"
+        },
+        {
+          "episode_file": "GLT7924523463 [GLT7924523463].md",
+          "key": "250-alfred-the-great-fury-of-the-vikings-part-1-glt7924523463",
+          "show": "The Rest Is History",
+          "title": "250. Alfred the Great: Fury of the Vikings (Part 1)",
+          "url": "/wiki/sources/250-alfred-the-great-fury-of-the-vikings-part-1-glt7924523463/"
         }
       ],
       "updated": "2026-09-30",
