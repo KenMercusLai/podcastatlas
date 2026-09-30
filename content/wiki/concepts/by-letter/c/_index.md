@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8972
+wiki_total_pages: 8975
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2690,6 +2690,9 @@ wiki_pages:
   - key: "CustomerValueBasedPricing"
     title: "Customer Value-Based Pricing / 消费者价值定价"
     url: "/wiki/concepts/customervaluebasedpricing/"
+  - key: "CuteCharacterAnxietyResonance"
+    title: "Cute-Character Anxiety Resonance"
+    url: "/wiki/concepts/cutecharacteranxietyresonance/"
   - key: "CXLMemoryPooling"
     title: "CXL Memory Pooling"
     url: "/wiki/concepts/cxlmemorypooling/"

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2870
+topic_total_pages: 2873
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1474,6 +1474,9 @@ topic_concepts:
   - key: "FootballClubControlRisk"
     title: "Football Club Control Risk"
     url: "/wiki/concepts/footballclubcontrolrisk/"
+  - key: "FootballFinancialFairPlay"
+    title: "Football Financial Fair Play"
+    url: "/wiki/concepts/footballfinancialfairplay/"
   - key: "ForCauseRemovalStandard"
     title: "For-Cause Removal Standard"
     url: "/wiki/concepts/forcauseremovalstandard/"
@@ -6059,6 +6062,9 @@ topic_entities:
   - key: "Manchester"
     title: "Manchester"
     url: "/wiki/entities/manchester/"
+  - key: "ManchesterCity"
+    title: "Manchester City"
+    url: "/wiki/entities/manchestercity/"
   - key: "MandateForLeadership2025"
     title: "Mandate for Leadership 2025"
     url: "/wiki/entities/mandateforleadership2025/"
@@ -7860,6 +7866,9 @@ topic_sources:
   - key: "caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822"
     title: "Caracas under pressure: democracy in Venezuela"
     url: "/wiki/sources/caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822/"
+  - key: "cheques-and-the-city-premier-league-disgrace-6abcdaab4e059d44b566ca74"
+    title: "Cheques and the City: Premier League disgrace"
+    url: "/wiki/sources/cheques-and-the-city-premier-league-disgrace-6abcdaab4e059d44b566ca74/"
   - key: "tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128"
     title: "China's soft power play in the global AI arms race"
     url: "/wiki/sources/tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128/"

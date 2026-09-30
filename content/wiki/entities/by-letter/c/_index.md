@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 11578
+wiki_total_pages: 11582
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -776,6 +776,9 @@ wiki_pages:
   - key: "ChiefGibby"
     title: "Chief Gibby"
     url: "/wiki/entities/chiefgibby/"
+  - key: "Chiikawa"
+    title: "Chiikawa"
+    url: "/wiki/entities/chiikawa/"
   - key: "ChildeHaroldsPilgrimage"
     title: "Childe Harold's Pilgrimage"
     url: "/wiki/entities/childeharoldspilgrimage/"

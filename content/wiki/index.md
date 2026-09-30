@@ -3308,6 +3308,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Fitness Toolkit: Protocol & Tools to Optimize Physical Health](sources/fitness-toolkit-protocol-tools-to-optimize-physical-health-scim2940233129.md) — Huberman Lab solo episode presenting an adaptable weekly mix of endurance, resistance work, intervals, recovery, mobility, and return-to-training constraints.
 
+- [Cheques and the City: Premier League disgrace](sources/cheques-and-the-city-premier-league-disgrace-6abcdaab4e059d44b566ca74.md) — The Intelligence episode on Manchester City's disputed finances, Russian grey-zone operations, and Chiikawa's anxious world beneath cute design.
+
 ## Entities
 - [La Chinoise](entities/LaChinoiseFilm.md) — Godard's 1967 Maoist student film, read as a self-critical cinematic anticipation of May 1968.
 - [Le Corbeau](entities/LeCorbeauFilm.md) — Clouzot's poison-pen drama, interpreted as an Occupation allegory of informing and social mistrust.
@@ -14917,6 +14919,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Trafalgar Campaign](entities/TrafalgarCampaign.md) — 1805 sequence of Atlantic feint, pursuit, failed concentration, blockade, and coalition pressure culminating at Trafalgar.
 - [Royal Navy](entities/RoyalNavy.md) — British maritime institution synthesized through finance, administration, training, logistics, health, dockyards, gunnery, and command culture.
 
+- [Manchester City](entities/ManchesterCity.md) — English football club whose post-2008 dominance is now tied to a disputed financial-rule finding, appeal, sanctions, and supporter identity.
+- [Abu Dhabi United Group](entities/AbuDhabiUnitedGroup.md) — Manchester City ownership group at the center of the source's foreign investment and disputed sponsorship-finance case.
+- [Chiikawa](entities/Chiikawa.md) — Japanese character franchise combining cute design, commercial reach, precarious work, anxiety, and friendship.
+- [Nagano (Chiikawa creator)](entities/NaganoChiikawa.md) — Pseudonymous Japanese artist who began the Chiikawa online comic in 2020.
+
 ## Concepts
 - [Cinema as National Memory](concepts/CinemaAsNationalMemory.md) — How film confirms, revises, domesticates, or avoids inherited national histories.
 - [Historical Worldview Reconstruction](concepts/HistoricalWorldviewReconstruction.md) — Making past beliefs, incentives, and status codes causally govern historical drama.
@@ -23928,5 +23935,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sea Control as State Capacity](concepts/SeaControlStateCapacity.md) — Framework connecting fiscal, administrative, logistical, medical, industrial, and human systems to sustained maritime power.
 - [Fiscal-Military Naval State](concepts/FiscalMilitaryNavalState.md) — Framework for converting public credit, administration, logistics, and industry into sustained naval force.
 - [Maritime Coalition Coordination](concepts/MaritimeCoalitionCoordination.md) — Framework for aligning distant allied fleets across communication limits, political divergence, logistics, and operational risk.
+
+- [Football Financial Fair Play](concepts/FootballFinancialFairPlay.md) — Revenue-linked football regulation balancing sustainability, competition, enforcement legitimacy, and retrospective remedy.
+- [Grey-Zone Deterrence Dilemma](concepts/GreyZoneDeterrenceDilemma.md) — Response problem balancing defensive resilience, proportionate costs, uncertain attribution, and escalation risk.
+- [Cute-Character Anxiety Resonance](concepts/CuteCharacterAnxietyResonance.md) — Emotional pattern in which cute design makes insecurity recognizable while friendship preserves comfort and endurance.
 
 ## Syntheses

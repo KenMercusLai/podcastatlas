@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 8972
+wiki_total_pages: 8975
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -785,6 +785,9 @@ wiki_pages:
   - key: "FootballEventTrackingData"
     title: "Football Event and Tracking Data"
     url: "/wiki/concepts/footballeventtrackingdata/"
+  - key: "FootballFinancialFairPlay"
+    title: "Football Financial Fair Play"
+    url: "/wiki/concepts/footballfinancialfairplay/"
   - key: "FootballFootwearMarketEntry"
     title: "Football Footwear Market Entry"
     url: "/wiki/concepts/footballfootwearmarketentry/"

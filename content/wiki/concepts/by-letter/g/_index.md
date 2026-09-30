@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 8972
+wiki_total_pages: 8975
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -524,6 +524,9 @@ wiki_pages:
   - key: "GreshamsLaw"
     title: "Gresham's Law / 劣币驱逐良币"
     url: "/wiki/concepts/greshamslaw/"
+  - key: "GreyZoneDeterrenceDilemma"
+    title: "Grey-Zone Deterrence Dilemma"
+    url: "/wiki/concepts/greyzonedeterrencedilemma/"
   - key: "GriefAttachmentRemapping"
     title: "Grief Attachment Remapping"
     url: "/wiki/concepts/griefattachmentremapping/"

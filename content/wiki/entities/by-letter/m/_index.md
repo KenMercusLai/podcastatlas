@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 11578
+wiki_total_pages: 11582
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -182,6 +182,9 @@ wiki_pages:
   - key: "Manchester"
     title: "Manchester"
     url: "/wiki/entities/manchester/"
+  - key: "ManchesterCity"
+    title: "Manchester City"
+    url: "/wiki/entities/manchestercity/"
   - key: "ManchesterUnited"
     title: "Manchester United"
     url: "/wiki/entities/manchesterunited/"

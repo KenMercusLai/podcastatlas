@@ -26051,3 +26051,11 @@ Added source `242-french-history-on-film-glt2672520929`; created `CinemaAsNation
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-30] ingest | Cheques and the City: Premier League disgrace
+
+Added source `cheques-and-the-city-premier-league-disgrace-6abcdaab4e059d44b566ca74`; created `ManchesterCity`, `AbuDhabiUnitedGroup`, `Chiikawa`, `NaganoChiikawa`, `FootballFinancialFairPlay`, `GreyZoneDeterrenceDilemma`, and `CuteCharacterAnxietyResonance`; migrated `PremierLeague` and `RussianHybridPressure` to `synthesis-v1`; and resynthesized `HybridWarfareAttributionThreshold` from its complete preserved evidence inventory. Core synthesis: financial rules can protect sustainability while entrenching incumbent revenue, ambiguous hostile acts can impose costs without proving authorship, deterrence must balance resilience and calibrated response against escalation, and Chiikawa turns precarious work and anxiety into comfort through vulnerable design and friendship. No settled contradiction was adopted. Manchester City's appeal, sanctions, compensation, incident attribution, retaliation effects, audience psychology, and commercial totals remain unresolved or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,258-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

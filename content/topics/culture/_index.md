@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2955
+topic_total_pages: 2956
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -8361,6 +8361,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-charles-chase-koch-on-how-they-quietly-built-a-150b-empire-41270895"
     title: "Charles & Chase Koch on How They Quietly Built a $150B Empire"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-charles-chase-koch-on-how-they-quietly-built-a-150b-empire-41270895/"
+  - key: "cheques-and-the-city-premier-league-disgrace-6abcdaab4e059d44b566ca74"
+    title: "Cheques and the City: Premier League disgrace"
+    url: "/wiki/sources/cheques-and-the-city-premier-league-disgrace-6abcdaab4e059d44b566ca74/"
   - key: "coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b"
     title: "Coming in Andy: Britain's prime minister-in-waiting"
     url: "/wiki/sources/coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b/"

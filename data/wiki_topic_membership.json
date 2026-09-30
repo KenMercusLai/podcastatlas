@@ -31794,6 +31794,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "FootballFinancialFairPlay": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "FootballImperialNetworkDiffusion": [
     {
       "key": "technology",
@@ -49888,6 +49900,13 @@
     }
   ],
   "Manchester": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "ManchesterCity": [
     {
       "key": "politics",
       "label": "Politics",
@@ -89010,6 +89029,18 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "cheques-and-the-city-premier-league-disgrace-6abcdaab4e059d44b566ca74": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun": [
