@@ -17482,6 +17482,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/entities/barrygoldwater/"
     },
+    "BartVanLoo": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1331750756 [GLT1331750756].md",
+          "key": "271-belgium-historys-greatest-artist-glt1331750756",
+          "show": "The Rest Is History",
+          "title": "271: Belgium: History's Greatest Artist",
+          "url": "/wiki/sources/271-belgium-historys-greatest-artist-glt1331750756/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/bartvanloo/"
+    },
     "BartolomeDeLasCasas": {
       "episode_count": 2,
       "show_count": 1,
@@ -22901,6 +22917,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/bureaucraticimpeachmentreview/"
+    },
+    "BurgundianCourtArt": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1331750756 [GLT1331750756].md",
+          "key": "271-belgium-historys-greatest-artist-glt1331750756",
+          "show": "The Rest Is History",
+          "title": "271: Belgium: History's Greatest Artist",
+          "url": "/wiki/sources/271-belgium-historys-greatest-artist-glt1331750756/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/burgundiancourtart/"
     },
     "BuridanIndecisionEffect": {
       "episode_count": 1,
@@ -63106,9 +63138,9 @@
       "url": "/wiki/concepts/fixedcampsiegeengineering/"
     },
     "Flanders": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3100937638 [GLT3100937638].md",
@@ -63116,9 +63148,16 @@
           "show": "The Rest Is History",
           "title": "319: Hundred Years' War: Triumph of the Longbow (Part 2)",
           "url": "/wiki/sources/319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638/"
+        },
+        {
+          "episode_file": "GLT1331750756 [GLT1331750756].md",
+          "key": "271-belgium-historys-greatest-artist-glt1331750756",
+          "show": "The Rest Is History",
+          "title": "271: Belgium: History's Greatest Artist",
+          "url": "/wiki/sources/271-belgium-historys-greatest-artist-glt1331750756/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-09-30",
       "url": "/wiki/entities/flanders/"
     },
     "FlashmanOnTheMarch": {
@@ -70988,6 +71027,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/gheelish/"
+    },
+    "GhentAltarpiece": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1331750756 [GLT1331750756].md",
+          "key": "271-belgium-historys-greatest-artist-glt1331750756",
+          "show": "The Rest Is History",
+          "title": "271: Belgium: History's Greatest Artist",
+          "url": "/wiki/sources/271-belgium-historys-greatest-artist-glt1331750756/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/ghentaltarpiece/"
     },
     "Ghezo": {
       "episode_count": 1,
@@ -92788,6 +92843,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/entities/janhus/"
+    },
+    "JanVanEyck": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1331750756 [GLT1331750756].md",
+          "key": "271-belgium-historys-greatest-artist-glt1331750756",
+          "show": "The Rest Is History",
+          "title": "271: Belgium: History's Greatest Artist",
+          "url": "/wiki/sources/271-belgium-historys-greatest-artist-glt1331750756/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/janvaneyck/"
     },
     "JaneFonda": {
       "episode_count": 1,
@@ -135457,9 +135528,9 @@
       "url": "/wiki/entities/philipsheridan/"
     },
     "PhilipTheGood": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2692942762 [GLT2692942762].md",
@@ -135467,9 +135538,16 @@
           "show": "The Rest Is History",
           "title": "490. Hundred Years' War: England Triumphant (Part 4)",
           "url": "/wiki/sources/490-hundred-years-war-england-triumphant-part-4-glt2692942762/"
+        },
+        {
+          "episode_file": "GLT1331750756 [GLT1331750756].md",
+          "key": "271-belgium-historys-greatest-artist-glt1331750756",
+          "show": "The Rest Is History",
+          "title": "271: Belgium: History's Greatest Artist",
+          "url": "/wiki/sources/271-belgium-historys-greatest-artist-glt1331750756/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-30",
       "url": "/wiki/entities/philipthegood/"
     },
     "PhilipVIOfFrance": {
@@ -177914,6 +177992,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/vancleefarpels/"
+    },
+    "VanEyckOilLayering": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1331750756 [GLT1331750756].md",
+          "key": "271-belgium-historys-greatest-artist-glt1331750756",
+          "show": "The Rest Is History",
+          "title": "271: Belgium: History's Greatest Artist",
+          "url": "/wiki/sources/271-belgium-historys-greatest-artist-glt1331750756/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/vaneyckoillayering/"
     },
     "VandalKingdom": {
       "episode_count": 1,

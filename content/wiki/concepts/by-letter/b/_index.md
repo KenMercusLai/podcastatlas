@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 8888
+wiki_total_pages: 8890
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -845,6 +845,9 @@ wiki_pages:
   - key: "BureaucraticWorkloadControl"
     title: "Bureaucratic Workload Control"
     url: "/wiki/concepts/bureaucraticworkloadcontrol/"
+  - key: "BurgundianCourtArt"
+    title: "Burgundian Court Art"
+    url: "/wiki/concepts/burgundiancourtart/"
   - key: "BuridanIndecisionEffect"
     title: "Buridan Indecision Effect / 布利丹效应"
     url: "/wiki/concepts/buridanindecisioneffect/"

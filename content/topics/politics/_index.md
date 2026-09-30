@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2834
+topic_total_pages: 2835
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -517,6 +517,9 @@ topic_concepts:
   - key: "BuildBuildRegulate"
     title: "Build, Build, Regulate"
     url: "/wiki/concepts/buildbuildregulate/"
+  - key: "BurgundianCourtArt"
+    title: "Burgundian Court Art"
+    url: "/wiki/concepts/burgundiancourtart/"
   - key: "BusinessEliteRuleHongKong"
     title: "Business-Elite Rule in Hong Kong / 商界治港"
     url: "/wiki/concepts/businesseliterulehongkong/"

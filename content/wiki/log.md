@@ -25729,3 +25729,11 @@ Added source `suodao-zhuanqian-nengli-kanbi-maotai-shanyue-jingqu-weihe-hai-zai-
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-30] ingest | 271: Belgium: History's Greatest Artist
+
+Added source `271-belgium-historys-greatest-artist-glt1331750756`; created `JanVanEyck`, `BartVanLoo`, `GhentAltarpiece`, `BurgundianCourtArt`, and `VanEyckOilLayering`; and resynthesized `PhilipTheGood` and `Flanders` from their preserved evidence inventories. Core synthesis: Van Eyck's importance lies not in inventing oil paint but in mastering translucent layers within a Burgundian court and Flemish urban economy that joined painting to diplomacy, spectacle, devotion, patron memory, and increasingly visible artistic identity. No settled contradiction was adopted. Birthplace inference, Liège training, Jerusalem travel, self-portrait priority, medical diagnosis from painted likeness, population figures, and several symbolic readings remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten because this 2022 episode backfills a bounded Northern Renaissance branch without changing the wiki-wide synthesis.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

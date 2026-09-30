@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "v"
-wiki_total_pages: 8888
+wiki_total_pages: 8890
 wiki_pages:
   - key: "VacationShame"
     title: "Vacation Shame / 休假羞耻感"
@@ -41,6 +41,9 @@ wiki_pages:
   - key: "ValuesFirstTalent"
     title: "Values-First Talent"
     url: "/wiki/concepts/valuesfirsttalent/"
+  - key: "VanEyckOilLayering"
+    title: "Van Eyck Oil Layering"
+    url: "/wiki/concepts/vaneyckoillayering/"
   - key: "VanquishedRulerReputationConstruction"
     title: "Vanquished Ruler Reputation Construction / 亡国君污名建构"
     url: "/wiki/concepts/vanquishedrulerreputationconstruction/"

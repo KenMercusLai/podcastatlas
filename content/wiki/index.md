@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [索道赚钱能力堪比茅台，山岳景区为何还在为增长发愁？](sources/suodao-zhuanqian-nengli-kanbi-maotai-shanyue-jingqu-weihe-hai-zai-wei-zengzhang-fachou-1020019950.md) — 声动早咖啡 episode on high-margin cableway economics, weak destination-level conversion, hotel tradeoffs, capacity, and the shift from fixed-route sightseeing toward deeper outdoor experiences.
+- [271: Belgium: History's Greatest Artist](sources/271-belgium-historys-greatest-artist-glt1331750756.md) — The Rest Is History episode on Jan van Eyck, Burgundian court service, layered oil technique, artistic individualism, Flemish wealth, and the Ghent Altarpiece.
 - [272: Senegal: The Door of No Return](sources/272-senegal-the-door-of-no-return-glt8611353465.md) — The Rest Is History episode on Gorée, the disputed House of Slaves embarkation narrative, African American pilgrimage, and the boundary between historical evidence and symbolic memory.
 - [273: Portugal: The Carnation Revolution](sources/273-portugal-the-carnation-revolution-glt3297148398.md) — The Rest Is History episode on Estado Novo collapse, colonial-war and officer pressures, the April 1974 coup, revolutionary instability, and democratic consolidation.
 - [274: Switzerland: Calvin's Cancel Culture](sources/274-switzerland-calvins-cancel-culture-glt2874543265.md) — The Rest Is History episode on Calvin's Geneva, Michael Servetus's execution, confessional discipline, and the Reformation boundary between refuge and liberty of conscience.
@@ -3990,7 +3991,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Charles VII of France](entities/CharlesVIIOfFrance.md) — Dauphin disinherited at Troyes whose survival and resistance kept French legitimacy contested.
 - [Catherine of Valois](entities/CatherineOfValois.md) — French princess whose marriage and son supplied the dynastic bridge for Henry V's dual-monarchy project.
 - [John the Fearless](entities/JohnTheFearless.md) — Burgundian duke whose pressure aided Henry and whose murder drove a decisive alliance realignment.
-- [Philip the Good](entities/PhilipTheGood.md) — Burgundian duke whose response to his father's murder helped enable the Treaty of Troyes.
+- [Philip the Good](entities/PhilipTheGood.md) — Burgundian duke whose political alliances and Van Eyck patronage joined dynastic strategy to court art and diplomacy.
 - [Normandy](entities/Normandy.md) — Duchy conquered by Henry V as a territorial base and Seine corridor toward Paris.
 - [Battle of Agincourt](entities/BattleOfAgincourt.md) — 1415 victory combining French elite destruction, English legitimacy, human catastrophe, and national myth.
 - [Treaty of Troyes](entities/TreatyOfTroyes.md) — 1420 agreement making Henry V regent and heir to France while disinheriting the Dauphin.
@@ -5423,7 +5424,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hundred Years' War](entities/HundredYearsWar.md) — Anglo-French conflict branch spanning structural origins, Poitiers-era zenith and reversal, and Henry V's later high point.
 - [Edward III of England](entities/EdwardIIIOfEngland.md) — English king whose chivalric statecraft, mobilization, raids, and victories produce large but unstable French gains.
 - [Philip VI of France](entities/PhilipVIOfFrance.md) — Valois king chosen over Edward III's claim and tied to the 1337 confiscation of Aquitaine.
-- [Flanders](entities/Flanders.md) — Cloth-producing region whose dependence on English wool and intervention at Sluys made it a strategic hinge in Edward III's opening war.
+- [Flanders](entities/Flanders.md) — Cloth-producing urban region whose English wool dependence shaped war strategy and whose wealth supported Van Eyck's artistic world.
 - [Battle of Sluys](entities/BattleOfSluys.md) — 1340 English naval victory combining archery, boarding, and Flemish intervention to improve Channel security.
 - [Battle of Crécy](entities/BattleOfCrecy.md) — 1346 English victory produced by selected ground, prepared defenses, projectile fire, and French coordination failure.
 - [Calais](entities/Calais.md) — Fortified Channel port converted through siege, expulsion, settlement, and garrisoning into an English bridgehead.
@@ -14767,6 +14768,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Michael Servetus](entities/MichaelServetus.md) — Spanish physician and anti-Trinitarian dissenter whose 1553 execution exposed Protestant limits on liberty of conscience.
 - [Sebastian Castellio](entities/SebastianCastellio.md) — Reformation scholar who used Servetus's death to argue against persecuting alleged heretics.
 - [Geneva](entities/Geneva.md) — Protestant refuge and city-state whose consistory discipline and Servetus trial joined sanctuary to coercive confessional rule.
+- [Jan van Eyck](entities/JanVanEyck.md) — Burgundian court painter whose layered oil technique, portrait presence, and Ghent Altarpiece define the episode's Northern Renaissance case.
+- [Bart van Loo](entities/BartVanLoo.md) — Historian linking Van Eyck's art to Burgundian politics, Flemish wealth, and a qualified Belgian frame.
+- [Ghent Altarpiece](entities/GhentAltarpiece.md) — Monumental polyptych joining Christian sacrifice, lay commemoration, Flemish cloth wealth, and Van Eyck's realism.
 
 ## Concepts
 - [Cableway Asset Economics / 景区索道资产经济](concepts/CablewayAssetEconomics.md) — How constrained supply, visitor utility, flexible charging, and mature fixed costs can produce high cableway margins without assuring destination growth.
@@ -23690,6 +23694,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Confessional Commonwealth](concepts/ConfessionalCommonwealth.md) — Polity integrating doctrine, worship, education, welfare, moral oversight, and civic order within one religious community.
 - [Reformation Toleration Boundary](concepts/ReformationTolerationBoundary.md) — Distinction between liberty for a persecuted confession and liberty of conscience for dissenters within or beyond it.
+- [Burgundian Court Art](concepts/BurgundianCourtArt.md) — Patronage system joining painting to diplomacy, mapping, dynastic marriage, spectacle, devotion, and elite self-representation.
+- [Van Eyck Oil Layering](concepts/VanEyckOilLayering.md) — Technical mastery of translucent oil layers for luminous color, depth, texture, and material realism without an invention claim.
 
 - [Caffeine Behavioral Reinforcement](concepts/CaffeineBehavioralReinforcement.md) — Learned-preference model in which caffeine reinforces repeatedly paired tastes, products, contexts, people, and activities.
 

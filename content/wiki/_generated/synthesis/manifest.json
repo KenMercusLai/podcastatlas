@@ -1,8 +1,8 @@
 {
   "content_date": "2026-09-30",
   "corpus": {
-    "episode_count": 3216,
-    "source_count": 3216
+    "episode_count": 3217,
+    "source_count": 3217
   },
   "generated": true,
   "global": {
@@ -19,7 +19,7 @@
     "pending_ingests": 0,
     "pending_topics": []
   },
-  "overview_commit": "290789c9316f7d3d44043ccc2f89ea91a0780243",
+  "overview_commit": "2d78df3d34079fad00d580a820e6fbcfd3e37c65",
   "overview_digest": "72bcc54e0731536012a4ef3970db5b27f9defb2d0c866611784240b9b2f2deb6",
   "paragraph_count": 774,
   "schema_version": 1,
