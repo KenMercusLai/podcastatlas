@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [254. The World Cup: The Falklands, despots, and corruption (Part 3)](sources/254-the-world-cup-the-falklands-despots-and-corruption-part-3-glt5891154284.md) — The Rest Is History episode using Gary Lineker's World Cup memories to connect player experience, national identity, corruption, host politics, and sportwashing.
 - [255. Qatar: A History](sources/255-qatar-a-history-glt4853394229.md) — The Rest Is History episode on Qatar's pearling and imperial past, British protection, hydrocarbons, small-state security strategy, and World Cup scrutiny.
 - [256. Germany: The White Rose](sources/256-germany-the-white-rose-glt6296738472.md) — The Rest Is History episode on Hans and Sophie Scholl, the White Rose leaflets, conscience formation, execution, and postwar symbolic legacy.
 - [257. Australia: The Mystery of the Somerton Man](sources/257-australia-the-mystery-of-the-somerton-man-glt2531949703.md) — The Rest Is History episode on the 1948 Somerton Man case, its literary and Cold War clues, Carl Webb's reported DNA identification, and the death's unresolved cause.
@@ -3283,6 +3284,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [作者对谈：朋友是否比真理更加重要？（Roger Berkowitz）](sources/zuozhe-duitan-pengyou-shifou-bi-zhenli-gengjia-zhongyao-roger-berkowitz-ln7i59hzhpigtixkj-dvwmkqrrsf.md) — 独树不成林 conversation on Hannah Arendt, friendship across disagreement, political plurality, public denunciation, and persuasion as mutual transformation.
 
 ## Entities
+- [Gary Lineker](entities/GaryLineker.md) — England footballer and broadcaster linking World Cup playing memory to governance and human-rights criticism.
+- [Diego Maradona](entities/DiegoMaradona.md) — Argentine football icon whose 1986 performance joined extraordinary skill, controversy, and national symbolism.
 - [Hamad bin Khalifa Al Thani](entities/HamadBinKhalifaAlThani.md) — Qatari ruler associated with converting gas wealth into media, investment, infrastructure, diplomacy, and external security ties.
 - [Al Jazeera](entities/AlJazeera.md) — Qatar-based news network whose regional reach creates both strategic influence and political backlash.
 - [Hans Scholl](entities/HansScholl.md) — Medical student and White Rose organizer who moved from Nazi youth leadership to anti-Nazi resistance.
@@ -14854,6 +14857,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Roger Berkowitz](entities/RogerBerkowitz.md) — Political theorist reconstructing Hannah Arendt's account of friendship, plurality, truth, and reciprocal persuasion.
 
 ## Concepts
+- [Sportwashing](concepts/Sportwashing.md) — Use of sporting attention to improve reputation by displacing scrutiny, qualified by the possibility that visibility can also intensify criticism.
 - [Qatari Small-State Security Strategy](concepts/QatariSmallStateSecurityStrategy.md) — Portfolio using energy, military presence, investment, infrastructure, media, and diplomacy to protect a vulnerable state.
 - [Strategic Visibility-Scrutiny Tradeoff](concepts/StrategicVisibilityScrutinyTradeoff.md) — Pattern where global attention produces influence and protective relevance while widening scrutiny of hidden costs and contradictions.
 - [Conscience Formation Under Dictatorship](concepts/ConscienceFormationUnderDictatorship.md) — Gradual development of independent judgment through family, belief, reading, friendship, work, and experience under enforced conformity.

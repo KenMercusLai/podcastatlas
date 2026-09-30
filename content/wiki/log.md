@@ -25894,3 +25894,11 @@ Added source `255-qatar-a-history-glt4853394229`; created `HamadBinKhalifaAlThan
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-30] ingest | 254. The World Cup: The Falklands, despots, and corruption (Part 3)
+
+Added source `254-the-world-cup-the-falklands-despots-and-corruption-part-3-glt5891154284`; created `GaryLineker`, `DiegoMaradona`, and `Sportwashing`; and resynthesized `FIFAWorldCup` from its complete preserved evidence inventory. Core synthesis: Lineker's memories connect the World Cup's career-changing sporting power to Falklands and Second World War memory, Maradona's national symbolism, English football's 1990 revival, distrust of the 2010 host-selection process, and the claim that sportwashing gains force when coverage stops discussing governance and human-rights concerns. No settled contradiction was adopted. Lineker's bidding, security, corruption, labor, host-country, and geopolitical judgments remain source-scoped recollections or interpretations, while tournament expansion remains contested rather than uniformly harmful. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -14,7 +14,8 @@ sources:
   - 22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427
   - e237-yangshi-he-fifa-tanpan-fenzheng-beihou-tiyu-saishi-zhuanboquan-de-boyi-yu-shengyi-c3607c08-6eb6-48bd-8250-b41b5b8272e6
   - the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007
-last_updated: 2026-09-01
+  - 254-the-world-cup-the-falklands-despots-and-corruption-part-3-glt5891154284
+last_updated: 2026-09-30
 knowledge_schema: synthesis-v1
 ---
 
@@ -26,7 +27,7 @@ The FIFA World Cup is represented in the wiki as a global football tournament wh
 
 ## Current Profile
 
-The current evidence is strongest around two clusters. The 2026 sources treat the World Cup as [[FIFA]]'s central commercial and governance asset: expansion increases matches, sponsorship surfaces, ticketing, resale, media rights, platform value, and host-market leverage while shifting some costs to cities and fans. The historical Mussolini source adds that the tournament's political power predates modern platform economics: [[FIFAWorldCup1934|1934]] and [[FIFAWorldCup1938|1938]] show how a regime could convert football success, stadiums, radio, newspapers, language, and international attention into [[AuthoritarianSportsPropaganda]].
+The current evidence spans three connected clusters. The 2026 sources treat the World Cup as [[FIFA]]'s central commercial and governance asset: expansion increases matches, sponsorship surfaces, ticketing, resale, media rights, platform value, and host-market leverage while shifting some costs to cities and fans. The historical Mussolini source shows that the tournament's political power predates modern platform economics: [[FIFAWorldCup1934|1934]] and [[FIFAWorldCup1938|1938]] converted football success, stadiums, radio, newspapers, language, and international attention into [[AuthoritarianSportsPropaganda]]. [[GaryLineker]]'s retrospective account connects those institutional frames to lived tournament memory, showing how childhood wonder, player ambition, war memory, national revival, host-selection distrust, and [[Sportwashing]] can coexist inside the same event.
 
 ## Key Characteristics
 
@@ -36,7 +37,7 @@ The current evidence is strongest around two clusters. The 2026 sources treat th
 - Host-city and fan-cost system where central revenue capture can coexist with local operating burdens and high live-attendance prices.
 - Sporting drama system where knockout formats, penalty shootouts, national-team identity, and underdog participation shape memory.
 - Public-welfare event that may create happiness, rhythm, and shared attention even when GDP-style hosting claims are weak or uneven.
-- Political stage where direct interference, entry restrictions, propaganda, or postwar memory can affect legitimacy as much as play.
+- Political stage where war memory, direct interference, entry restrictions, propaganda, disputed host selection, or sportwashing can affect legitimacy without eliminating sporting attachment.
 
 ## Evidence
 
@@ -47,14 +48,15 @@ The current evidence is strongest around two clusters. The 2026 sources treat th
 - Welfare and legitimacy: [[22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427]] distinguishes GDP claims from happiness, public rhythm, and uneven distribution; [[youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410]] adds atmosphere, underdog participation, [[SportsPoliticalInterference]], ticket prices, travel friction, and entry restrictions.
 - Spillover and monetization caveats: [[kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054]] says Chinese beer demand did not obviously rise when match timing and weather did not fit outdoor consumption; [[zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805]] shows that even rule-like breaks can be read as broadcaster inventory.
 - Authoritarian historical branch: [[the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007]] uses [[BenitoMussolini]], [[ItalianFascism]], the 1934 and 1938 tournaments, radio, newspapers, stadiums, fascist symbols, and [[ItalyNationalFootballTeam|Italy's national team]] to show the World Cup as political spectacle before the modern rights era.
+- Player memory and modern host politics: [[254-the-world-cup-the-falklands-despots-and-corruption-part-3-glt5891154284]] uses Lineker's 1970-1990 memories, the Falklands framing of England-Argentina, Italia 1990's cultural effect, the 2010 bidding finale, Russia, and Qatar to connect sporting attachment with corruption and human-rights criticism.
 
 ## Qualifications
 
-This page is not a complete history of every World Cup. Current financial, media-rights, platform, sponsorship, and host-city details are source-scoped to the 2026-related episodes. The Mussolini branch adds a strong historical warning about propaganda, but it does not prove that tournament audiences were simply brainwashed or that later corruption legends are settled facts.
+This page is not a complete history of every World Cup. Current financial, media-rights, platform, sponsorship, and host-city details are source-scoped to the 2026-related episodes. The Mussolini branch adds a strong historical warning about propaganda, but it does not prove that audiences were simply brainwashed or that corruption legends are settled facts. Lineker's bidding, host-country, security, and human-rights judgments are first-person recollections and interpretations rather than independent adjudications.
 
 ## What Changed
 
-- Migrated the page to the synthesis schema and added the 1934/1938 Mussolini-era political showcase branch.
+- Added Lineker's first-person bridge between player memory, war-linked national identity, host-selection distrust, and sportwashing.
 
 ## Relationships
 
@@ -70,3 +72,6 @@ This page is not a complete history of every World Cup. Current financial, media
 - [[FIFAWorldCup1934]] - historical event page for the Italian-hosted fascist showcase.
 - [[FIFAWorldCup1938]] - historical event page for Italy's repeat victory in France.
 - [[ItalyNationalFootballTeam]] - national team whose 1930s victories carry the new political-history branch.
+- [[GaryLineker]] - player and broadcaster whose memories supply the modern first-person branch.
+- [[DiegoMaradona]] - 1986 icon joining sporting genius, controversy, and national symbolism.
+- [[Sportwashing]] - reputational-attention mechanism raised through the Qatar discussion.

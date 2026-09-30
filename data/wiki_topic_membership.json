@@ -1381,6 +1381,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "254-the-world-cup-the-falklands-despots-and-corruption-part-3-glt5891154284": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "255-qatar-a-history-glt4853394229": [
     {
       "key": "history",
@@ -71618,6 +71630,18 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "Sportwashing": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "SpotRobot": [

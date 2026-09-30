@@ -45780,6 +45780,22 @@
       "updated": "2026-09-25",
       "url": "/wiki/entities/diegobohorquez/"
     },
+    "DiegoMaradona": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5891154284 [GLT5891154284].md",
+          "key": "254-the-world-cup-the-falklands-despots-and-corruption-part-3-glt5891154284",
+          "show": "The Rest Is History",
+          "title": "254. The World Cup: The Falklands, despots, and corruption (Part 3)",
+          "url": "/wiki/sources/254-the-world-cup-the-falklands-despots-and-corruption-part-3-glt5891154284/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/diegomaradona/"
+    },
     "DiegoRivera": {
       "episode_count": 1,
       "show_count": 1,
@@ -59328,9 +59344,9 @@
       "url": "/wiki/entities/fifawomensworldcup/"
     },
     "FIFAWorldCup": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 7,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "中国消费者带动拉夫劳伦增长，东航优化机票退改签政策 [1005631805].md",
@@ -59408,9 +59424,16 @@
           "show": "The Rest Is History",
           "title": "The Fascist World Cup: Mussolini's Football Dictatorship | History of the World Cup",
           "url": "/wiki/sources/the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007/"
+        },
+        {
+          "episode_file": "GLT5891154284 [GLT5891154284].md",
+          "key": "254-the-world-cup-the-falklands-despots-and-corruption-part-3-glt5891154284",
+          "show": "The Rest Is History",
+          "title": "254. The World Cup: The Falklands, despots, and corruption (Part 3)",
+          "url": "/wiki/sources/254-the-world-cup-the-falklands-despots-and-corruption-part-3-glt5891154284/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-30",
       "url": "/wiki/entities/fifaworldcup/"
     },
     "FIFAWorldCup1934": {
@@ -69745,6 +69768,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/garyhirschberg/"
+    },
+    "GaryLineker": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5891154284 [GLT5891154284].md",
+          "key": "254-the-world-cup-the-falklands-despots-and-corruption-part-3-glt5891154284",
+          "show": "The Rest Is History",
+          "title": "254. The World Cup: The Falklands, despots, and corruption (Part 3)",
+          "url": "/wiki/sources/254-the-world-cup-the-falklands-despots-and-corruption-part-3-glt5891154284/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/garylineker/"
     },
     "GarySteinberg": {
       "episode_count": 1,
@@ -164955,6 +164994,22 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/concepts/sportswearmultibrandportfolio/"
+    },
+    "Sportwashing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5891154284 [GLT5891154284].md",
+          "key": "254-the-world-cup-the-falklands-despots-and-corruption-part-3-glt5891154284",
+          "show": "The Rest Is History",
+          "title": "254. The World Cup: The Falklands, despots, and corruption (Part 3)",
+          "url": "/wiki/sources/254-the-world-cup-the-falklands-despots-and-corruption-part-3-glt5891154284/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/sportwashing/"
     },
     "SpotRobot": {
       "episode_count": 1,

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 11541
+wiki_total_pages: 11543
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -596,6 +596,9 @@ wiki_pages:
   - key: "DiegoBohorquez"
     title: "Diego Bohórquez"
     url: "/wiki/entities/diegobohorquez/"
+  - key: "DiegoMaradona"
+    title: "Diego Maradona"
+    url: "/wiki/entities/diegomaradona/"
   - key: "DiegoRivera"
     title: "Diego Rivera"
     url: "/wiki/entities/diegorivera/"

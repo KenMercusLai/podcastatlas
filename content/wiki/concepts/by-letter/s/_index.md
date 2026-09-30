@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 8938
+wiki_total_pages: 8939
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1538,6 +1538,9 @@ wiki_pages:
   - key: "SportswearMultiBrandPortfolio"
     title: "Sportswear Multi-Brand Portfolio / 运动品牌集团化组合"
     url: "/wiki/concepts/sportswearmultibrandportfolio/"
+  - key: "Sportwashing"
+    title: "Sportwashing"
+    url: "/wiki/concepts/sportwashing/"
   - key: "SpouseCoFounderDynamics"
     title: "Spouse Co-Founder Dynamics"
     url: "/wiki/concepts/spousecofounderdynamics/"

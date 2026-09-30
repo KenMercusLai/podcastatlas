@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2945
+topic_total_pages: 2946
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2656,6 +2656,9 @@ topic_concepts:
   - key: "SportsTanking"
     title: "Sports Tanking"
     url: "/wiki/concepts/sportstanking/"
+  - key: "Sportwashing"
+    title: "Sportwashing"
+    url: "/wiki/concepts/sportwashing/"
   - key: "StadiumRealEstateEconomics"
     title: "Stadium Real Estate Economics"
     url: "/wiki/concepts/stadiumrealestateeconomics/"

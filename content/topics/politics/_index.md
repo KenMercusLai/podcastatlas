@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2857
+topic_total_pages: 2859
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3547,6 +3547,9 @@ topic_concepts:
   - key: "SportsbookIntegrityMonitoring"
     title: "Sportsbook Integrity Monitoring"
     url: "/wiki/concepts/sportsbookintegritymonitoring/"
+  - key: "Sportwashing"
+    title: "Sportwashing"
+    url: "/wiki/concepts/sportwashing/"
   - key: "SpreadsheetToAPIGovernance"
     title: "Spreadsheet to API Governance"
     url: "/wiki/concepts/spreadsheettoapigovernance/"
@@ -7572,6 +7575,9 @@ topic_sources:
   - key: "2026-qiuji-pian-e03-zunyan-si-riben-yisheng-beipan-sharen-shijian-flop0zzkutdjvbj11zpa-cz62ijj4"
     title: "2026秋季篇E03 尊严死？！日本医生被判杀人事件"
     url: "/wiki/sources/2026-qiuji-pian-e03-zunyan-si-riben-yisheng-beipan-sharen-shijian-flop0zzkutdjvbj11zpa-cz62ijj4/"
+  - key: "254-the-world-cup-the-falklands-despots-and-corruption-part-3-glt5891154284"
+    title: "254. The World Cup: The Falklands, despots, and corruption (Part 3)"
+    url: "/wiki/sources/254-the-world-cup-the-falklands-despots-and-corruption-part-3-glt5891154284/"
   - key: "255-qatar-a-history-glt4853394229"
     title: "255. Qatar: A History"
     url: "/wiki/sources/255-qatar-a-history-glt4853394229/"
