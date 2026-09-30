@@ -7,7 +7,8 @@ sources:
   - 669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260
   - 668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182
   - 334-athens-and-the-birth-of-democracy-glt2496707123
-last_updated: 2026-09-28
+  - 224-roman-holidays-glt9939678940
+last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
 
@@ -15,7 +16,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Athens / 雅典 is represented through the creation and testing of its civic order: Solonian reform, Peisistratid tyranny, Cleisthenic democracy, the 490 BC [[BattleOfMarathon|Battle of Marathon]], and the 86 BC Mithridatic revolt in which [[LuciusCorneliusSulla]] breaks the city's remaining independence.
+Athens / 雅典 is represented through the creation, testing, defeat, and Roman cultural afterlife of its civic order: Solonian reform, Peisistratid tyranny, Cleisthenic democracy, the 490 BC [[BattleOfMarathon|Battle of Marathon]], the 86 BC sack by [[LuciusCorneliusSulla]], and later elite travel and rebuilding under [[Hadrian]].
 
 ## Current Profile
 
@@ -31,15 +32,17 @@ The Marathon pair makes Athens central to later self-understanding but keeps the
 
 The later Roman source presents Athens as formally outside direct Roman provincial rule but already inside Rome's sphere of influence. Pro-Roman oligarchs benefit from Roman favor, while broader Athenian resentment is stirred by [[MithridatesVI]]'s successes in Asia and his claim to punish Roman greed. Aristion's revolution massacres or expels plutocrats and brings in Mithridatic support, but Sulla's arrival traps the city. Athens starves, diplomatic appeals to ancient glory fail, and Roman troops sack the city in March 86 BC. Sulla spares the city itself out of respect for its dead, yet Piraeus is flattened, democracy effectively ends, pro-Roman businessmen return, and later humiliation includes the removal of temple columns and libraries.
 
+Athens's Roman afterlife turned the city into a destination. Historical associations, famous tombs, philosophy, architecture, and the atmosphere of the Greek past made it a cultural finishing school for Roman elites. That admiration coexisted with earlier plunder and later intervention: Sulla removed books and temple columns, while Hadrian completed the temple of Zeus, enlarged the city, and placed it at the head of a Greek confederation in an effort to evoke classical glory.
+
 ## Key Characteristics
 
-- Athens's democratic origin combines legal compromise, popularized tyranny, aristocratic rivalry, Spartan intervention, popular resistance, and Cleisthenic institutional design.
-- Demes and tribes turn Attic territory into civic structure, while autochthony, cult, women's ritual and descent roles, and the exclusion of metics and enslaved people define a sacred but bounded demos.
-- Its earlier offer of earth and water creates a compromised Persian relationship that later Athenians regret.
-- The Ionian intervention turns Athens from a nervous peripheral city into a direct target of Darius's retaliation.
+- Athens's democratic origin combines legal compromise, popularized tyranny, aristocratic rivalry, Spartan intervention, popular resistance, and Cleisthenic design through demes and tribes.
+- Autochthony, cult, women's ritual and descent roles, and the exclusion of metics and enslaved people define a sacred but bounded demos.
+- Its earlier offer of earth and water and later Ionian intervention turn Athens from a compromised Persian client into a direct target of Darius's retaliation.
 - The 490 BC threat is both external invasion and internal political fracture through Hippias and possible betrayal.
 - Marathon becomes a civic foundation story, but the sources qualify later claims that it was simply freedom defeating despotism.
 - In the Sullan source, culturally prestigious but politically weakened Athens loses meaningful independent power in 86 BC.
+- Under Roman rule, Athens converts political and historical prestige into an elite destination shaped by memory, plunder, restoration, and staged revival.
 
 ## Evidence
 
@@ -51,15 +54,16 @@ The later Roman source presents Athens as formally outside direct Roman provinci
 - Democratic and memory meaning: [[669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260]] connects Marathon to Athens's later democracy and cultural influence while qualifying the freedom-versus-despotism story through Persian perspective and later Athenian imperialism.
 - Roman shadow: [[703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511]] says Greece is not formally part of Rome's empire, but Athens is under Roman influence.
 - Revolt, siege, and aftermath: [[703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511]] describes Aristion's Mithridatic alliance, starvation, Sulla's rejection of antiquarian appeals, the March 86 BC sack, flattened Piraeus, lost independence, and restored pro-Roman businessmen.
+- Roman cultural destination: [[224-roman-holidays-glt9939678940]] presents Athens as a place where elite visitors encountered philosophy, tombs, monuments, history, and a finishing-school atmosphere.
+- Plunder and rebuilding: [[224-roman-holidays-glt9939678940]] links Sulla's removals to Hadrian's later temple completion, urban development, and Greek-city confederation.
 
 ## Qualifications
 
-The current page remains source-scoped to an origin reconstruction and two crisis clusters. Early chronology, Cleisthenes' motives, the age of autochthony, and the views of excluded people are difficult to recover from scarce or mythic evidence. The page does not synthesize all classical Athens, philosophy, drama, architecture, empire, or later Roman cultural life. The Marathon counterfactual, earlier Persian submission, and the 86 BC "end of independence" claim remain the respective episodes' interpretations.
+The current page remains source-scoped to an origin reconstruction, two crisis clusters, and a Roman cultural afterlife. Early chronology, Cleisthenes' motives, the age of autochthony, and the views of excluded people are difficult to recover from scarce or mythic evidence. The page does not synthesize all classical Athens, philosophy, drama, architecture, empire, or later urban life. The Marathon counterfactual, earlier Persian submission, the 86 BC "end of independence" claim, and the analogy between Athens and a later finishing school remain the respective episodes' interpretations.
 
 ## What Changed
 
-- Added the full pre-507 sequence from Solonian law and Peisistratid tyranny through Cleisthenic reform and popular resistance.
-- Added territorial institutions, sacred identity, gendered civic continuity, and exclusion boundaries without replacing the Marathon or Sullan crisis profiles.
+- Added Athens's Roman afterlife as a prestigious destination where cultural admiration coexisted with plunder and imperial reconstruction.
 
 ## Relationships
 
@@ -80,3 +84,5 @@ The current page remains source-scoped to an origin reconstruction and two crisi
 - [[MithridatesVI]] - eastern king whose campaign makes Athens's revolt possible.
 - [[LuciusCorneliusSulla]] - Roman commander who besieges, sacks, spares, and humiliates Athens.
 - [[RomanRepublic]] - state whose commander breaks Athens while Rome itself is in civil crisis.
+- [[Hadrian]] - Roman emperor whose building and confederal patronage sought to revive selected forms of Greek glory.
+- [[AncientRomanTourism]] - framework for Athens as historical atmosphere, educational destination, and reconstructed past.

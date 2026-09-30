@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [224. Roman Holidays](sources/224-roman-holidays-glt9939678940.md) — The Rest Is History episode on Roman elite leisure, Campanian resorts, culturally prestigious travel, plunder, heritage staging, and pilgrimage.
 - [225. J.R.R. Tolkien](sources/225-j-r-r-tolkien-glt9725776786.md) — The Rest Is History episode on Tolkien's formative losses, Catholicism, philology, friendships, the Somme, Edith, and the early legendarium.
 - [227. Portugal: On the Edge of the World (Part 1)](sources/227-portugal-on-the-edge-of-the-world-part-1-glt1834337589.md) — The Rest Is History episode on Portuguese kingdom formation, the Anglo-Portuguese alliance, Ceuta, Henry the Navigator, maritime knowledge, and early Atlantic plantation slavery.
 - [Focus Toolkit: Tools to Improve Your Focus & Concentration](sources/focus-toolkit-tools-to-improve-your-focus-concentration-scim5273827033.md) — Huberman Lab solo episode on behavior-first focus training, bounded work bouts, refocusing, deliberate recovery, sensory cues, supplements, and medication boundaries.
@@ -3343,6 +3344,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [226. The Lord of the Rings](sources/226-the-lord-of-the-rings-glt1788342017.md) — The Rest Is History episode on Tolkien's ring ethics, hidden Catholic structure, wartime power, damaged homecoming, anti-industrial environmentalism, politics, and race.
 
 ## Entities
+- [Tiberius](entities/Tiberius.md) — Roman emperor whose withdrawal to Capri turned cultivated retreat into a crisis of privacy, reputation, and political absence.
 - [Edith Tolkien](entities/EdithTolkien.md) — Tolkien's wife and wartime companion whose 1917 dance became the biographical seed for Beren and Luthien.
 - [Tea Club Barrovian Society](entities/TeaClubBarrovianSociety.md) — Tolkien's school literary circle joining Edwardian fellowship, medieval interests, and First World War loss.
 - [The Fall of Gondolin](entities/TheFallOfGondolin.md) — Early Tolkien legendarium story joining a doomed city, mechanical dragons, and wartime formation.
@@ -3708,8 +3710,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Pompeii](entities/Pompeii.md) — Roman city exposed to prolonged darkness and pumice before a final fatal flow, preserved through archaeological traces.
 - [Herculaneum](entities/Herculaneum.md) — Roman coastal city initially spared heavy pumice but destroyed earlier by a pyroclastic surge.
 - [Pliny the Elder](entities/PlinyTheElder.md) — Roman author and fleet commander whose attempted rescue during the Vesuvius eruption ended at Stabiae.
-- [Pliny the Younger](entities/PlinyTheYounger.md) — Eyewitness and letter writer whose testimony anchors the literary reconstruction of the eruption.
-- [Bay of Naples](entities/BayOfNaples.md) — Volcanic maritime region joining Roman cities, ports, villas, agriculture, and unequal disaster exposure.
+- [Pliny the Younger](entities/PlinyTheYounger.md) — Roman letter writer represented through eruption testimony and the cultivated self-presentation of villa retreat.
+- [Bay of Naples](entities/BayOfNaples.md) — Roman maritime region joining ports, villas, resort consumption, volcanic prosperity, and unequal disaster exposure.
 - [Eruption of Vesuvius (79 CE)](entities/EruptionOfVesuvius79.md) — Multi-stage ancient disaster reconstructed across pumice fall, surges, flows, testimony, archaeology, and scientific interpretation.
 - [Raymond of Capua](entities/RaymondOfCapua.md) — Catherine of Siena's confessor and hagiographic biographer, central to the transmission and interpretation of her visions and miracles.
 - [Caroline Walker Bynum](entities/CarolineWalkerBynum.md) — Historian whose work frames medieval women's food practices, embodiment, and religious meaning.
@@ -3751,7 +3753,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Colosseum](entities/Colosseum.md) — Flavian amphitheater synthesizing public provision, ranked hierarchy, conquest, spectacle, and Rome's violent afterlife.
 - [Vespasian](entities/Vespasian.md) — Flavian founder who converted Nero's private lake into the site of a public dynastic monument.
 - [Titus](entities/Titus.md) — Flavian emperor who inaugurated the Colosseum amid conquest memory, disaster, and reputational repair.
-- [Nero](entities/Nero.md) — Roman emperor whose private pleasure landscape became the politically charged site of the Colosseum.
+- [Nero](entities/Nero.md) — Roman emperor whose central-Roman pleasure landscape became a conflict over imperial luxury, public access, and Flavian reversal.
 - [Marconi Union](entities/MarconiUnion.md) — Musical group behind “Weightless,” retained as a source-scoped anxiety-reduction example rather than a validated treatment.
 - [René Schneider](entities/ReneSchneider.md) — Constitutionalist Chilean army commander whose resistance to military intervention protected Allende's 1970 accession.
 - [Augusto Pinochet](entities/AugustoPinochet.md) — Chilean army commander who converted the 1973 coup and junta leadership into personal dictatorship.
@@ -4197,7 +4199,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Normandy](entities/Normandy.md) — Duchy conquered by Henry V as a territorial base and Seine corridor toward Paris.
 - [Battle of Agincourt](entities/BattleOfAgincourt.md) — 1415 victory combining French elite destruction, English legitimacy, human catastrophe, and national myth.
 - [Treaty of Troyes](entities/TreatyOfTroyes.md) — 1420 agreement making Henry V regent and heir to France while disinheriting the Dauphin.
-- [Hadrian](entities/Hadrian.md) — Philhellenic Roman emperor whose beard, bond with Antinous, and cult sponsorship joined public image, grief, and imperial authority.
+- [Hadrian](entities/Hadrian.md) — Philhellenic Roman emperor whose image, travel, rebuilding, bond with Antinous, and cult sponsorship joined culture to imperial authority.
 - [Constantine the Great](entities/ConstantineTheGreat.md) — Excluded tetrarchic heir whose later claim and clean-shaven image joined dynastic return to post-crisis civilian order.
 - [Hatshepsut](entities/Hatshepsut.md) — New Kingdom ruler who moved from regency to full pharaonic kingship through divine, dynastic, ritual, military, commercial, and monumental claims.
 - [Gregory VII](entities/GregoryVII.md) — Reforming pope linking clerical purification, institutional independence, radical pressure, and stronger papal governance.
@@ -15021,6 +15023,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Steve Goss](entities/SteveGoss.md) — Former Social Security chief actuary assessing the scale, feasibility, and timing of reform options.
 
 ## Concepts
+- [Roman Elite Leisure](concepts/RomanEliteLeisure.md) — Privileged rest made legitimate through cultivation, status discipline, and continuing public responsibility.
+- [Ancient Roman Tourism](concepts/AncientRomanTourism.md) — Elite travel joining education, myth, ruins, cultural prestige, plunder, heritage staging, and pilgrimage.
 - [Philological Worldbuilding](concepts/PhilologicalWorldbuilding.md) — Language-first method in which words, names, registers, and textual fragments generate imagined peoples, histories, and worlds.
 - [Mythology for England](concepts/MythologyForEngland.md) — Tolkien's project of answering perceived English mythic loss through philological reconstruction and literary invention.
 - [Anglo-Portuguese Alliance](concepts/AngloPortugueseAlliance.md) — Durable relationship built cumulatively through crusading contact, commerce, treaties, and dynastic marriage.

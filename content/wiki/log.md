@@ -26304,3 +26304,11 @@ Added source `225-j-r-r-tolkien-glt9725776786`; created `EdithTolkien`, `TeaClub
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | 224. Roman Holidays
+
+Added source `224-roman-holidays-glt9939678940`; created `Tiberius`, `RomanEliteLeisure`, and `AncientRomanTourism`; and resynthesized `PlinyTheYounger`, `BayOfNaples`, `Hadrian`, `Nero`, and `Athens` from their complete preserved evidence inventories. Core synthesis: Roman elites pursued recognisable pleasures of sea, privacy, food, bathing, views, ruins, and cultural travel, but leisure required moral and political legitimation; travel also joined education and historical atmosphere to conquest, plunder, restoration, staged tradition, inscriptions, and pilgrimage. No settled contradiction was adopted. Tiberius's Capri reputation, Nero's degree of public access, ordinary Roman experience, engineering attribution, visitor motives, and claims of continuity with modern tourism remain contested or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

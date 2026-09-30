@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9030
+wiki_total_pages: 9032
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1919,6 +1919,9 @@ wiki_pages:
   - key: "AncientRomanSexualStatusHierarchy"
     title: "Ancient Roman Sexual Status Hierarchy"
     url: "/wiki/concepts/ancientromansexualstatushierarchy/"
+  - key: "AncientRomanTourism"
+    title: "Ancient Roman Tourism"
+    url: "/wiki/concepts/ancientromantourism/"
   - key: "AndrogenInterventionClinicalBoundary"
     title: "Androgen Intervention Clinical Boundary"
     url: "/wiki/concepts/androgeninterventionclinicalboundary/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 11644
+wiki_total_pages: 11645
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -728,6 +728,9 @@ wiki_pages:
   - key: "TiantianKuaibao"
     title: "Tiantian Kuaibao"
     url: "/wiki/entities/tiantiankuaibao/"
+  - key: "Tiberius"
+    title: "Tiberius"
+    url: "/wiki/entities/tiberius/"
   - key: "TiborKalman"
     title: "Tibor Kalman"
     url: "/wiki/entities/tiborkalman/"

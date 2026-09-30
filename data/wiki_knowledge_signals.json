@@ -10251,6 +10251,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/ancientromansexualstatushierarchy/"
     },
+    "AncientRomanTourism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9939678940 [GLT9939678940].md",
+          "key": "224-roman-holidays-glt9939678940",
+          "show": "The Rest Is History",
+          "title": "224. Roman Holidays",
+          "url": "/wiki/sources/224-roman-holidays-glt9939678940/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/ancientromantourism/"
+    },
     "AncientSilkRoad": {
       "episode_count": 1,
       "show_count": 1,
@@ -14888,9 +14904,9 @@
       "url": "/wiki/concepts/atheniandemocracy/"
     },
     "Athens": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT3125075511 [GLT3125075511].md",
@@ -14919,9 +14935,16 @@
           "show": "The Rest Is History",
           "title": "334: Athens and the Birth of Democracy",
           "url": "/wiki/sources/334-athens-and-the-birth-of-democracy-glt2496707123/"
+        },
+        {
+          "episode_file": "GLT9939678940 [GLT9939678940].md",
+          "key": "224-roman-holidays-glt9939678940",
+          "show": "The Rest Is History",
+          "title": "224. Roman Holidays",
+          "url": "/wiki/sources/224-roman-holidays-glt9939678940/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/athens/"
     },
     "AtherosclerosisPreventionTargets": {
@@ -18991,9 +19014,9 @@
       "url": "/wiki/entities/baturin/"
     },
     "BayOfNaples": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6664993493 [GLT6664993493].md",
@@ -19001,9 +19024,16 @@
           "show": "The Rest Is History",
           "title": "355: Roman Apocalypse: Pompeii 79 AD",
           "url": "/wiki/sources/355-roman-apocalypse-pompeii-79-ad-glt6664993493/"
+        },
+        {
+          "episode_file": "GLT9939678940 [GLT9939678940].md",
+          "key": "224-roman-holidays-glt9939678940",
+          "show": "The Rest Is History",
+          "title": "224. Roman Holidays",
+          "url": "/wiki/sources/224-roman-holidays-glt9939678940/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/bayofnaples/"
     },
     "BayOfPigsInvasion": {
@@ -78467,9 +78497,9 @@
       "url": "/wiki/concepts/hadithauthentication/"
     },
     "Hadrian": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6058938613 [GLT6058938613].md",
@@ -78484,9 +78514,16 @@
           "show": "The Rest Is History",
           "title": "340: Hadrian and Antinous",
           "url": "/wiki/sources/340-hadrian-and-antinous-glt4184410900/"
+        },
+        {
+          "episode_file": "GLT9939678940 [GLT9939678940].md",
+          "key": "224-roman-holidays-glt9939678940",
+          "show": "The Rest Is History",
+          "title": "224. Roman Holidays",
+          "url": "/wiki/sources/224-roman-holidays-glt9939678940/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/hadrian/"
     },
     "Haidilao": {
@@ -129625,9 +129662,9 @@
       "url": "/wiki/entities/nepal/"
     },
     "Nero": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7808118779 [GLT7808118779].md",
@@ -129635,9 +129672,16 @@
           "show": "The Rest Is History",
           "title": "369. The Colosseum: Rome's Arena of Death",
           "url": "/wiki/sources/369-the-colosseum-romes-arena-of-death-glt7808118779/"
+        },
+        {
+          "episode_file": "GLT9939678940 [GLT9939678940].md",
+          "key": "224-roman-holidays-glt9939678940",
+          "show": "The Rest Is History",
+          "title": "224. Roman Holidays",
+          "url": "/wiki/sources/224-roman-holidays-glt9939678940/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/nero/"
     },
     "Netherlands": {
@@ -141823,9 +141867,9 @@
       "url": "/wiki/entities/plinytheelder/"
     },
     "PlinyTheYounger": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6664993493 [GLT6664993493].md",
@@ -141833,9 +141877,16 @@
           "show": "The Rest Is History",
           "title": "355: Roman Apocalypse: Pompeii 79 AD",
           "url": "/wiki/sources/355-roman-apocalypse-pompeii-79-ad-glt6664993493/"
+        },
+        {
+          "episode_file": "GLT9939678940 [GLT9939678940].md",
+          "key": "224-roman-holidays-glt9939678940",
+          "show": "The Rest Is History",
+          "title": "224. Roman Holidays",
+          "url": "/wiki/sources/224-roman-holidays-glt9939678940/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/plinytheyounger/"
     },
     "PlutarcoEliasCalles": {
@@ -156297,6 +156348,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/concepts/romanconquestofbritain/"
+    },
+    "RomanEliteLeisure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9939678940 [GLT9939678940].md",
+          "key": "224-roman-holidays-glt9939678940",
+          "show": "The Rest Is History",
+          "title": "224. Roman Holidays",
+          "url": "/wiki/sources/224-roman-holidays-glt9939678940/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/romaneliteleisure/"
     },
     "RomanEmpire": {
       "episode_count": 6,
@@ -179491,6 +179558,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/tiaozhikingdom/"
+    },
+    "Tiberius": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9939678940 [GLT9939678940].md",
+          "key": "224-roman-holidays-glt9939678940",
+          "show": "The Rest Is History",
+          "title": "224. Roman Holidays",
+          "url": "/wiki/sources/224-roman-holidays-glt9939678940/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/tiberius/"
     },
     "TichborneClaimant": {
       "episode_count": 1,
