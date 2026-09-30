@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [218. Theodora: Empress of Byzantium (Part 1)](sources/218-theodora-empress-of-byzantium-part-1-glt5957583440.md) — The Rest Is History episode on Constantinople's Roman identity, Theodora's rise, Miaphysite faith, and imperial partnership with Justinian.
 - [Jake Paul & The Chainsmokers: Turning Fame into Funds, Jake Enters Politics? & Venture Bubble Signs](sources/all-in-with-chamath-jason-sacks-friedberg-jake-paul-the-chainsmokers-turning-fame-into-funds-jake-enters-polit.md) — All-In episode on creator-business flywheels, celebrity operational capital, boxing and music economics, venture liquidity, and valuation discipline.
 - [Sleep Toolkit: Tools for Optimizing Sleep & Sleep-Wake Timing](sources/sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836.md) — Full Huberman Lab sleep toolkit on light, temperature, caffeine, daily timing, deep rest, substances, supplements, clock shifting, and clinical sleep boundaries.
 - [219. Justinian: Making Rome Great Again (Part 2)](sources/219-justinian-making-rome-great-again-part-2-glt2369595847.md) — The Rest Is History episode on Justinianic centralization, Persian strategy, the Nika revolt, Theodora's resolve, mass repression, and Hagia Sophia.
@@ -3354,6 +3355,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [226. The Lord of the Rings](sources/226-the-lord-of-the-rings-glt1788342017.md) — The Rest Is History episode on Tolkien's ring ethics, hidden Catholic structure, wartime power, damaged homecoming, anti-industrial environmentalism, politics, and race.
 
 ## Entities
+- [Constantinople](entities/Constantinople.md) — Eastern Roman capital whose geography, infrastructure, institutions, Christianity, and Hippodrome politics sustained imperial power.
 - [Jake Paul](entities/JakePaul.md) — Creator, boxer, promoter, investor, and philanthropist connecting audience reach to a cross-domain business flywheel.
 - [The Chainsmokers](entities/TheChainsmokers.md) — Music partnership extending internet-native distribution and brand experience into venture capital.
 - [Drew Taggart](entities/DrewTaggart.md) — Chainsmokers member and Mantis co-founder whose music and investment roles are presented jointly with Alex Pall.
@@ -15054,6 +15056,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Steve Goss](entities/SteveGoss.md) — Former Social Security chief actuary assessing the scale, feasibility, and timing of reform options.
 
 ## Concepts
+- [Miaphysite Christianity](concepts/MiaphysiteChristianity.md) — Christological tradition connecting Theodora's Alexandrian conversion to provincial and imperial religious politics.
 - [Creator Business Flywheel](concepts/CreatorBusinessFlywheel.md) — Model in which audience, creative work, operating businesses, talent development, investing, and public-purpose activity reinforce one another.
 - [Celebrity Operational Capital](concepts/CelebrityOperationalCapital.md) — Public reach, relationships, brand skill, and direct distribution treated as company-building resources subject to performance proof.
 - [Justinianic Plague](concepts/JustinianicPlague.md) — Sixth-century pandemic understood through its fiscal, military, urban, and geopolitical effects.

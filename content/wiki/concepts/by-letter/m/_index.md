@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9050
+wiki_total_pages: 9051
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -752,6 +752,9 @@ wiki_pages:
   - key: "MexicanPostRevolutionaryCulturalNationalism"
     title: "Mexican Post-Revolutionary Cultural Nationalism"
     url: "/wiki/concepts/mexicanpostrevolutionaryculturalnationalism/"
+  - key: "MiaphysiteChristianity"
+    title: "Miaphysite Christianity"
+    url: "/wiki/concepts/miaphysitechristianity/"
   - key: "MicroHappiness"
     title: "Micro-Happiness"
     url: "/wiki/concepts/microhappiness/"

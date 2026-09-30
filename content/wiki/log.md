@@ -26387,3 +26387,11 @@ Added source `all-in-with-chamath-jason-sacks-friedberg-jake-paul-the-chainsmoke
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | 218. Theodora: Empress of Byzantium (Part 1)
+
+Added source `218-theodora-empress-of-byzantium-part-1-glt5957583440`; created `Constantinople` and `MiaphysiteChristianity`; and resynthesized `Theodora`, `JustinianI`, `Procopius`, and `ByzantineEmpire` from their complete preserved evidence inventories. Core synthesis: Constantinople's geography, fortifications, water infrastructure, Roman institutions, Christianity, commerce, and Hippodrome politics supported a strong eastern Roman state, while Theodora's ascent joined social stigma, factional networks, Alexandrian conversion, legal change, marriage, and formal imperial partnership. No settled contradiction was adopted. “Byzantine” is qualified as a modern rather than native identity, “Monophysite” is retained as episode terminology but bounded by the less polemical Miaphysite label, and Procopius's sexual allegations, accession stories, motives, conversion details, population estimates, and private biographies remain hostile, uncertain, or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,299-source coverage; no topic claim set was dirty and global compaction was not due. Publish validation passed.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

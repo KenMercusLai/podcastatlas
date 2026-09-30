@@ -24191,9 +24191,9 @@
       "url": "/wiki/concepts/byzantinecourtculturetransfer/"
     },
     "ByzantineEmpire": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "lu8PaWNKiSeLmmrgubrEy4pq-4fw [lu8PaWNKiSeLmmrgubrEy4pq-4fw].md",
@@ -24229,6 +24229,13 @@
           "show": "The Rest Is History",
           "title": "219. Justinian: Making Rome Great Again (Part 2)",
           "url": "/wiki/sources/219-justinian-making-rome-great-again-part-2-glt2369595847/"
+        },
+        {
+          "episode_file": "GLT5957583440 [GLT5957583440].md",
+          "key": "218-theodora-empress-of-byzantium-part-1-glt5957583440",
+          "show": "The Rest Is History",
+          "title": "218. Theodora: Empress of Byzantium (Part 1)",
+          "url": "/wiki/sources/218-theodora-empress-of-byzantium-part-1-glt5957583440/"
         }
       ],
       "updated": "2026-10-01",
@@ -38253,6 +38260,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/constantinethegreat/"
+    },
+    "Constantinople": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5957583440 [GLT5957583440].md",
+          "key": "218-theodora-empress-of-byzantium-part-1-glt5957583440",
+          "show": "The Rest Is History",
+          "title": "218. Theodora: Empress of Byzantium (Part 1)",
+          "url": "/wiki/sources/218-theodora-empress-of-byzantium-part-1-glt5957583440/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/constantinople/"
     },
     "ConstantiusChlorus": {
       "episode_count": 1,
@@ -101295,9 +101318,9 @@
       "url": "/wiki/concepts/jungianselfandego/"
     },
     "JustinianI": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6795699757 [GLT6795699757].md",
@@ -101312,6 +101335,13 @@
           "show": "The Rest Is History",
           "title": "219. Justinian: Making Rome Great Again (Part 2)",
           "url": "/wiki/sources/219-justinian-making-rome-great-again-part-2-glt2369595847/"
+        },
+        {
+          "episode_file": "GLT5957583440 [GLT5957583440].md",
+          "key": "218-theodora-empress-of-byzantium-part-1-glt5957583440",
+          "show": "The Rest Is History",
+          "title": "218. Theodora: Empress of Byzantium (Part 1)",
+          "url": "/wiki/sources/218-theodora-empress-of-byzantium-part-1-glt5957583440/"
         }
       ],
       "updated": "2026-10-01",
@@ -124066,6 +124096,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/miaoweisanlian/"
+    },
+    "MiaphysiteChristianity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5957583440 [GLT5957583440].md",
+          "key": "218-theodora-empress-of-byzantium-part-1-glt5957583440",
+          "show": "The Rest Is History",
+          "title": "218. Theodora: Empress of Byzantium (Part 1)",
+          "url": "/wiki/sources/218-theodora-empress-of-byzantium-part-1-glt5957583440/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/miaphysitechristianity/"
     },
     "MichaelCollins": {
       "episode_count": 1,
@@ -147158,9 +147204,9 @@
       "url": "/wiki/entities/proclamationline1763/"
     },
     "Procopius": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6795699757 [GLT6795699757].md",
@@ -147175,6 +147221,13 @@
           "show": "The Rest Is History",
           "title": "219. Justinian: Making Rome Great Again (Part 2)",
           "url": "/wiki/sources/219-justinian-making-rome-great-again-part-2-glt2369595847/"
+        },
+        {
+          "episode_file": "GLT5957583440 [GLT5957583440].md",
+          "key": "218-theodora-empress-of-byzantium-part-1-glt5957583440",
+          "show": "The Rest Is History",
+          "title": "218. Theodora: Empress of Byzantium (Part 1)",
+          "url": "/wiki/sources/218-theodora-empress-of-byzantium-part-1-glt5957583440/"
         }
       ],
       "updated": "2026-10-01",
@@ -179116,9 +179169,9 @@
       "url": "/wiki/entities/theodorheuss/"
     },
     "Theodora": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6795699757 [GLT6795699757].md",
@@ -179133,6 +179186,13 @@
           "show": "The Rest Is History",
           "title": "219. Justinian: Making Rome Great Again (Part 2)",
           "url": "/wiki/sources/219-justinian-making-rome-great-again-part-2-glt2369595847/"
+        },
+        {
+          "episode_file": "GLT5957583440 [GLT5957583440].md",
+          "key": "218-theodora-empress-of-byzantium-part-1-glt5957583440",
+          "show": "The Rest Is History",
+          "title": "218. Theodora: Empress of Byzantium (Part 1)",
+          "url": "/wiki/sources/218-theodora-empress-of-byzantium-part-1-glt5957583440/"
         }
       ],
       "updated": "2026-10-01",
