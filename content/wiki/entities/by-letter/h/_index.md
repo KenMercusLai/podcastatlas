@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 11656
+wiki_total_pages: 11657
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -80,6 +80,9 @@ wiki_pages:
   - key: "Hadrian"
     title: "Hadrian"
     url: "/wiki/entities/hadrian/"
+  - key: "HagiaSophia"
+    title: "Hagia Sophia"
+    url: "/wiki/entities/hagiasophia/"
   - key: "Haidilao"
     title: "Haidilao / 海底捞"
     url: "/wiki/entities/haidilao/"

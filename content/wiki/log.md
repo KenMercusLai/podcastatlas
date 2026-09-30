@@ -26363,3 +26363,11 @@ Added source `220-justinian-theodora-the-secret-history-part-3-glt6795699757`; c
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | 219. Justinian: Making Rome Great Again (Part 2)
+
+Added source `219-justinian-making-rome-great-again-part-2-glt2369595847`; created `HagiaSophia` and `NikaRiots`; and resynthesized `JustinianI`, `Theodora`, `Procopius`, `Belisarius`, `ByzantineEmpire`, `ImperialRestorationParadox`, and `ImperialRitualDistance` from their complete preserved evidence inventories. Core synthesis: Justinian's legal, fiscal, religious, ceremonial, and territorial restoration generated both administrative capacity and concentrated resentment; the Nika crisis nearly displaced him, but court resolve, bribery, military massacre, senatorial punishment, and monumental rebuilding converted near-collapse into stronger sacred monarchy. No settled contradiction was adopted. Procopius's supernatural stories, casualty estimate, speeches, motives, and claims of preplanned reconstruction remain hostile, interpretive, or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,296-source coverage; no topic claim set was dirty and global compaction was not due. Publish validation passed.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

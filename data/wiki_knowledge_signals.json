@@ -19714,9 +19714,9 @@
       "url": "/wiki/entities/belgium/"
     },
     "Belisarius": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6795699757 [GLT6795699757].md",
@@ -19724,6 +19724,13 @@
           "show": "The Rest Is History",
           "title": "220. Justinian & Theodora: The Secret History (Part 3)",
           "url": "/wiki/sources/220-justinian-theodora-the-secret-history-part-3-glt6795699757/"
+        },
+        {
+          "episode_file": "GLT2369595847 [GLT2369595847].md",
+          "key": "219-justinian-making-rome-great-again-part-2-glt2369595847",
+          "show": "The Rest Is History",
+          "title": "219. Justinian: Making Rome Great Again (Part 2)",
+          "url": "/wiki/sources/219-justinian-making-rome-great-again-part-2-glt2369595847/"
         }
       ],
       "updated": "2026-10-01",
@@ -24152,9 +24159,9 @@
       "url": "/wiki/concepts/byzantinecourtculturetransfer/"
     },
     "ByzantineEmpire": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "lu8PaWNKiSeLmmrgubrEy4pq-4fw [lu8PaWNKiSeLmmrgubrEy4pq-4fw].md",
@@ -24183,6 +24190,13 @@
           "show": "The Rest Is History",
           "title": "220. Justinian & Theodora: The Secret History (Part 3)",
           "url": "/wiki/sources/220-justinian-theodora-the-secret-history-part-3-glt6795699757/"
+        },
+        {
+          "episode_file": "GLT2369595847 [GLT2369595847].md",
+          "key": "219-justinian-making-rome-great-again-part-2-glt2369595847",
+          "show": "The Rest Is History",
+          "title": "219. Justinian: Making Rome Great Again (Part 2)",
+          "url": "/wiki/sources/219-justinian-making-rome-great-again-part-2-glt2369595847/"
         }
       ],
       "updated": "2026-10-01",
@@ -78772,6 +78786,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/hadrian/"
     },
+    "HagiaSophia": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2369595847 [GLT2369595847].md",
+          "key": "219-justinian-making-rome-great-again-part-2-glt2369595847",
+          "show": "The Rest Is History",
+          "title": "219. Justinian: Making Rome Great Again (Part 2)",
+          "url": "/wiki/sources/219-justinian-making-rome-great-again-part-2-glt2369595847/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/hagiasophia/"
+    },
     "Haidilao": {
       "episode_count": 3,
       "show_count": 2,
@@ -91220,9 +91250,9 @@
       "url": "/wiki/concepts/imperialprivatedesiregovernancerisk/"
     },
     "ImperialRestorationParadox": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6795699757 [GLT6795699757].md",
@@ -91230,6 +91260,13 @@
           "show": "The Rest Is History",
           "title": "220. Justinian & Theodora: The Secret History (Part 3)",
           "url": "/wiki/sources/220-justinian-theodora-the-secret-history-part-3-glt6795699757/"
+        },
+        {
+          "episode_file": "GLT2369595847 [GLT2369595847].md",
+          "key": "219-justinian-making-rome-great-again-part-2-glt2369595847",
+          "show": "The Rest Is History",
+          "title": "219. Justinian: Making Rome Great Again (Part 2)",
+          "url": "/wiki/sources/219-justinian-making-rome-great-again-part-2-glt2369595847/"
         }
       ],
       "updated": "2026-10-01",
@@ -91266,6 +91303,36 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/imperialrisedeclinecycle/"
+    },
+    "ImperialRitualDistance": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》899丨好清斗贪官 [ljHIC1PlzmV8k6LU73J5tErihanx].md",
+          "key": "zizhi-tongjian-hanji-899-hao-qing-dou-tanguan-ljhic1plzmv8k6lu73j5terihanx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》899丨好清斗贪官",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-899-hao-qing-dou-tanguan-ljhic1plzmv8k6lu73j5terihanx/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》176｜叔孙通如何为大汉制定礼仪制度 [loeoQCcRfWbMtR634ukYAU9xYkqy].md",
+          "key": "zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》176｜叔孙通如何为大汉制定礼仪制度",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy/"
+        },
+        {
+          "episode_file": "GLT2369595847 [GLT2369595847].md",
+          "key": "219-justinian-making-rome-great-again-part-2-glt2369595847",
+          "show": "The Rest Is History",
+          "title": "219. Justinian: Making Rome Great Again (Part 2)",
+          "url": "/wiki/sources/219-justinian-making-rome-great-again-part-2-glt2369595847/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/imperialritualdistance/"
     },
     "ImperialSelfCriticismEdict": {
       "episode_count": 4,
@@ -101118,9 +101185,9 @@
       "url": "/wiki/concepts/jungianselfandego/"
     },
     "JustinianI": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6795699757 [GLT6795699757].md",
@@ -101128,6 +101195,13 @@
           "show": "The Rest Is History",
           "title": "220. Justinian & Theodora: The Secret History (Part 3)",
           "url": "/wiki/sources/220-justinian-theodora-the-secret-history-part-3-glt6795699757/"
+        },
+        {
+          "episode_file": "GLT2369595847 [GLT2369595847].md",
+          "key": "219-justinian-making-rome-great-again-part-2-glt2369595847",
+          "show": "The Rest Is History",
+          "title": "219. Justinian: Making Rome Great Again (Part 2)",
+          "url": "/wiki/sources/219-justinian-making-rome-great-again-part-2-glt2369595847/"
         }
       ],
       "updated": "2026-10-01",
@@ -131152,6 +131226,22 @@
       "updated": "2026-09-17",
       "url": "/wiki/entities/nihonkotsu/"
     },
+    "NikaRiots": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2369595847 [GLT2369595847].md",
+          "key": "219-justinian-making-rome-great-again-part-2-glt2369595847",
+          "show": "The Rest Is History",
+          "title": "219. Justinian: Making Rome Great Again (Part 2)",
+          "url": "/wiki/sources/219-justinian-making-rome-great-again-part-2-glt2369595847/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/nikariots/"
+    },
     "Nike": {
       "episode_count": 7,
       "show_count": 6,
@@ -146854,9 +146944,9 @@
       "url": "/wiki/entities/proclamationline1763/"
     },
     "Procopius": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6795699757 [GLT6795699757].md",
@@ -146864,6 +146954,13 @@
           "show": "The Rest Is History",
           "title": "220. Justinian & Theodora: The Secret History (Part 3)",
           "url": "/wiki/sources/220-justinian-theodora-the-secret-history-part-3-glt6795699757/"
+        },
+        {
+          "episode_file": "GLT2369595847 [GLT2369595847].md",
+          "key": "219-justinian-making-rome-great-again-part-2-glt2369595847",
+          "show": "The Rest Is History",
+          "title": "219. Justinian: Making Rome Great Again (Part 2)",
+          "url": "/wiki/sources/219-justinian-making-rome-great-again-part-2-glt2369595847/"
         }
       ],
       "updated": "2026-10-01",
@@ -178715,9 +178812,9 @@
       "url": "/wiki/entities/theodorheuss/"
     },
     "Theodora": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6795699757 [GLT6795699757].md",
@@ -178725,6 +178822,13 @@
           "show": "The Rest Is History",
           "title": "220. Justinian & Theodora: The Secret History (Part 3)",
           "url": "/wiki/sources/220-justinian-theodora-the-secret-history-part-3-glt6795699757/"
+        },
+        {
+          "episode_file": "GLT2369595847 [GLT2369595847].md",
+          "key": "219-justinian-making-rome-great-again-part-2-glt2369595847",
+          "show": "The Rest Is History",
+          "title": "219. Justinian: Making Rome Great Again (Part 2)",
+          "url": "/wiki/sources/219-justinian-making-rome-great-again-part-2-glt2369595847/"
         }
       ],
       "updated": "2026-10-01",

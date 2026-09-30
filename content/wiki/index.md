@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [219. Justinian: Making Rome Great Again (Part 2)](sources/219-justinian-making-rome-great-again-part-2-glt2369595847.md) — The Rest Is History episode on Justinianic centralization, Persian strategy, the Nika revolt, Theodora's resolve, mass repression, and Hagia Sophia.
 - [220. Justinian & Theodora: The Secret History (Part 3)](sources/220-justinian-theodora-the-secret-history-part-3-glt6795699757.md) — The Rest Is History episode on Justinianic reconquest, Italian devastation, plague-driven state weakness, Theodora's reforms, Procopius, and the limits of imperial restoration.
 - [221. Holidays: Byron's Grand Tour](sources/221-holidays-byrons-grand-tour-glt3921798295.md) — The Rest Is History episode on the Grand Tour, Bath, Brighton, Boswell, Byron, elite self-improvement, health resorts, and tourism's pre-mass foundations.
 - [Exercise, Nutrition, Hormones for Vitality & Longevity | Dr. Peter Attia](sources/exercise-nutrition-hormones-for-vitality-longevity-dr-peter-attia-scim2767035219.md) — Huberman Lab conversation on marginal-decade backcasting, functional testing, exercise and bone reserve, ApoB prevention, hormone context, experimental therapies, and GLP-1 limits.
@@ -3351,6 +3352,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [226. The Lord of the Rings](sources/226-the-lord-of-the-rings-glt1788342017.md) — The Rest Is History episode on Tolkien's ring ethics, hidden Catholic structure, wartime power, damaged homecoming, anti-industrial environmentalism, politics, and race.
 
 ## Entities
+- [Hagia Sophia](entities/HagiaSophia.md) — Justinianic church joining Roman engineering, Christian sacred authority, and post-Nika monumental reconstruction.
 - [Justinian I](entities/JustinianI.md) — Eastern Roman emperor whose law, building, and reconquest achievements were shadowed by destructive war, plague, and overextension.
 - [Theodora](entities/Theodora.md) — Eastern Roman empress remembered through political partnership, religious patronage, women's reform traditions, and hostile testimony.
 - [Belisarius](entities/Belisarius.md) — Justinian's leading general, victor over the Vandals and politically exposed commander of the Italian campaign.
@@ -15042,6 +15044,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Concepts
 - [Justinianic Plague](concepts/JustinianicPlague.md) — Sixth-century pandemic understood through its fiscal, military, urban, and geopolitical effects.
+- [Nika Riots](concepts/NikaRiots.md) — Constantinopolitan coalition revolt transformed by massacre, elite punishment, and rebuilding into stronger Justinianic rule.
 - [Imperial Restoration Paradox](concepts/ImperialRestorationParadox.md) — Pattern in which recovering a former order damages the institutions and capacity needed to sustain it.
 - [Grand Tour Culture](concepts/GrandTourCulture.md) — Elite travel system joining education, classical encounter, collecting, social polish, pleasure, and status display.
 - [Georgian Health Resort Formation](concepts/GeorgianHealthResortFormation.md) — Conversion of spa and seaside places into destinations through medical claims, architecture, sociability, patronage, and visitor services.

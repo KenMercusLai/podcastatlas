@@ -4,6 +4,7 @@ type: entity
 tags: [person, empress, late-antiquity, byzantium]
 sources:
   - 220-justinian-theodora-the-secret-history-part-3-glt6795699757
+  - 219-justinian-making-rome-great-again-part-2-glt2369595847
 last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
@@ -16,13 +17,15 @@ Theodora was the sixth-century eastern Roman empress and partner of [[JustinianI
 
 ## Current Profile
 
-The episode treats Theodora as a politically consequential partner rather than an ornamental consort. It associates her with support for women and former prostitutes, legislation improving some women's legal position, and protection of bishops and missionaries aligned with her theology.
+The sources treat Theodora as a politically consequential partner rather than an ornamental consort. Her elevation from an exploited performance and sexual economy made the court itself a signal that established social barriers could be overturned. Her Miaphysite commitments also supplied a channel of conciliation toward religious constituencies pressured by Justinian's unifying program.
 
-Its most important interpretive move is to reread Procopius's allegations. Material once used to prove her degeneracy can instead describe childhood exploitation, sexual abuse, and victimization within Roman systems that blamed enslaved or prostituted people. That reversal does not prove her private motives or direct authorship of reforms, but it changes the evidentiary and moral frame.
+During the [[NikaRiots|Nika riots]], her reported argument against flight supplies the clearest narrative of direct political intervention: resolve at the point of imperial collapse precedes the decision to fight. Part 3 then associates her with support for women and former prostitutes, legislation improving some women's legal position, and protection of bishops and missionaries aligned with her theology.
+
+The key source-critical move is to reread [[Procopius]]'s allegations. Material used to prove degeneracy can instead describe childhood exploitation, sexual abuse, and victimization within systems that blamed enslaved or prostituted people. That reversal does not authenticate her famous speech, prove her private motives, or establish direct authorship of reforms, but it changes the evidentiary and moral frame.
 
 ## Key Characteristics
 
-- Imperial partner credited with political resolve and influence on Justinian's government.
+- Imperial partner credited with decisive political resolve during the Nika crisis.
 - Religious patron whose commitments differed from later orthodox simplifications.
 - Advocate associated with former prostitutes and legal protections for women.
 - Survivor whose early life is recoverable mainly through hostile and uneven testimony.
@@ -31,6 +34,8 @@ Its most important interpretive move is to reread Procopius's allegations. Mater
 
 ## Evidence
 
+- Crisis leadership - [[219-justinian-making-rome-great-again-part-2-glt2369595847]] presents her refusal to flee as the intervention that kept Justinian in Constantinople.
+- Religious and social signal - [[219-justinian-making-rome-great-again-part-2-glt2369595847]] links her Miaphysite commitment and rise to the politics of imperial conciliation and social reversal.
 - Reform and protection - [[220-justinian-theodora-the-secret-history-part-3-glt6795699757]] links Theodora to a refuge for former prostitutes and to reforms concerning divorce, custody, adultery, rape, and women's vulnerability.
 - Religious agency - [[220-justinian-theodora-the-secret-history-part-3-glt6795699757]] describes her support for bishops and missionaries associated with her theology.
 - Hostile testimony - [[220-justinian-theodora-the-secret-history-part-3-glt6795699757]] reads [[Procopius]]'s salacious allegations as morally and generically loaded evidence that may preserve exploitation while distorting responsibility.
@@ -38,11 +43,11 @@ Its most important interpretive move is to reread Procopius's allegations. Mater
 
 ## Qualifications
 
-The source does not establish Theodora's authorship of individual laws or prove that personal trauma caused her later priorities. Procopius is indispensable but hostile, and later saintly memory is also shaped by confessional needs. Details of her childhood, sexual history, illness, motives, and private relationship with Justinian remain uncertain or source-scoped.
+The sources are adjacent episodes from one popular-history series, not independent confirmation. They do not establish Theodora's exact Nika speech, authorship of individual laws, or that personal trauma caused later priorities. Procopius is indispensable but hostile, and later saintly memory is shaped by confessional needs. Details of childhood, sexual history, illness, motives, and her private relationship with Justinian remain uncertain or source-scoped.
 
 ## What Changed
 
-- Initial profile created with exploitation, reform, religion, partnership, and source criticism held together.
+- Added the Nika-crisis account of resolve, religious signaling, and partnership under immediate regime threat.
 
 ## Relationships
 
@@ -51,3 +56,4 @@ The source does not establish Theodora's authorship of individual laws or prove 
 - [[ByzantineEmpire]] - imperial and religious order in which she exercised power.
 - [[ImperialRestorationParadox]] - political project whose Christian reform and coercive ambition she shared.
 - [[RomanImperialLegitimacy]] - court authority expressed through partnership, religion, law, and visual representation.
+- [[NikaRiots]] - crisis in which her reported refusal to flee became politically decisive.

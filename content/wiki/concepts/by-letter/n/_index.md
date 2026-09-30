@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 9047
+wiki_total_pages: 9048
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -308,6 +308,9 @@ wiki_pages:
   - key: "NighttimePainAmplification"
     title: "Nighttime Pain Amplification / 夜间疼痛放大"
     url: "/wiki/concepts/nighttimepainamplification/"
+  - key: "NikaRiots"
+    title: "Nika Riots"
+    url: "/wiki/concepts/nikariots/"
   - key: "NikeBrandDrift"
     title: "Nike Brand Drift"
     url: "/wiki/concepts/nikebranddrift/"

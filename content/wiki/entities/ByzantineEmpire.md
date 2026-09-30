@@ -7,6 +7,7 @@ sources:
   - 553-the-last-viking-warrior-of-the-new-rome-part-2-glt5802152245
   - 460-the-empress-of-the-apocalypse-glt9103397168
   - 220-justinian-theodora-the-secret-history-part-3-glt6795699757
+  - 219-justinian-making-rome-great-again-part-2-glt2369595847
 last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
@@ -19,7 +20,7 @@ The Byzantine Empire appears in the wiki as the continuing eastern Roman state: 
 
 ## Current Profile
 
-Under [[JustinianI]], the empire recovered the [[VandalKingdom]]'s North African territories and parts of Italy, rebuilt Constantinople, and projected Christian Roman legitimacy through law, architecture, and art. The same program exposed a structural limit: Italy's destructive war, Persian pressure, and the [[JustinianicPlague]] turned territorial restoration into a crisis of taxpayers, soldiers, infrastructure, and frontier defense.
+Under [[JustinianI]], the empire joined law, taxation, doctrine, court ritual, and war in a project of Christian Roman restoration. The [[NikaRiots|Nika riots]] exposed the danger of concentrated grievance across factions, residents, and senators, but massacre and elite punishment converted near-collapse into stronger monarchy. Rebuilding [[HagiaSophia|Hagia Sophia]] expressed that settlement through Roman engineering and Christian sacred space. The empire then recovered the [[VandalKingdom]]'s North African territories and parts of Italy, while destructive war, Persian pressure, and the [[JustinianicPlague]] turned territorial restoration into a crisis of taxpayers, soldiers, infrastructure, and frontier defense.
 
 Later evidence shows adaptation rather than simple disappearance. The court's Roman self-identification made titles and marriage matters of sovereignty; [[Theophano]] carried Byzantine prestige into the Saxon court; and the [[VarangianGuard]] converted foreign military service into rank, wealth, and portable political capital. Dynastic legitimacy, urban action, military allegiance, monasteries, ritual, and court hierarchy remained central to succession.
 
@@ -29,11 +30,13 @@ Later evidence shows adaptation rather than simple disappearance. The court's Ro
 - Reconquering power whose reach repeatedly tested the relationship between ambition and sustainable capacity.
 - Multi-front military system able to operate from North Africa to the eastern Mediterranean and incorporate foreign specialists.
 - Christian imperial court that joined law, building, ritual, marriage, rank, and visual culture to sovereignty.
-- Dynastic and urban political order in which popular legitimacy, military allegiance, monasteries, and palace rivalry could decide succession.
+- Urban and dynastic political order in which factions, popular legitimacy, military allegiance, monasteries, and palace rivalry could decide succession.
 - Cultural and diplomatic center whose Roman claims influenced and competed with western courts.
 
 ## Evidence
 
+- Justinianic centralization - [[219-justinian-making-rome-great-again-part-2-glt2369595847]] connects legal, fiscal, religious, and ceremonial authority to both Nika-era resentment and post-revolt consolidation.
+- Monumental rebuilding - [[219-justinian-making-rome-great-again-part-2-glt2369595847]] treats Hagia Sophia as Roman engineering redirected toward Christian imperial order.
 - Justinianic restoration and limits - [[220-justinian-theodora-the-secret-history-part-3-glt6795699757]] joins rapid Vandal defeat and durable legal-cultural achievements to Italian devastation, Persian pressure, plague, and frontier weakness.
 - North African reach - [[496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw]] presents [[Ceuta]] as a far-western Byzantine outpost after Justinian's reconquest.
 - Roman identity and marriage - [[460-the-empress-of-the-apocalypse-glt9103397168]] describes offense at “emperor of the Greeks,” renewed diplomacy, and Theophano's transfer of court prestige into the Ottonian world.
@@ -42,13 +45,12 @@ Later evidence shows adaptation rather than simple disappearance. The court's Ro
 
 ## Qualifications
 
-The profile is episodic rather than comprehensive. The sources cover Justinian's reign, Ceuta's long border history, tenth-century Ottonian diplomacy, and Harald's eleventh-century service. Procopius's allegations, plague mortality, Theodora's influence, Theophano's personal role, and Harald's itinerary and court adventures all require source criticism; later Byzantine recovery also prevents a straight-line collapse narrative from Justinian onward.
+The profile is episodic rather than comprehensive. The sources cover Justinian's reign, Ceuta's long border history, tenth-century Ottonian diplomacy, and Harald's eleventh-century service. The two Justinian episodes are adjacent parts of one series rather than independent corroboration. Procopius's speeches, allegations, and casualty figures; plague mortality; Theodora's influence; Theophano's personal role; and Harald's itinerary and court adventures all require source criticism. Later recovery also prevents a straight-line collapse narrative from Justinian onward.
 
 ## What Changed
 
-- Added Justinian's restoration as a genuine achievement whose territorial costs were magnified by plague.
-- Added Theodora, Procopius, and the tension between Christian reform, autocracy, and historical memory.
-- Reframed imperial continuity as repeated adaptation across late-antique crisis, diplomatic projection, and foreign military incorporation.
+- Added the Nika revolt as a case of urban coalition, regime vulnerability, mass repression, and autocratic consolidation.
+- Integrated Hagia Sophia as Roman technical continuity redirected into Christian imperial authority.
 
 ## Relationships
 
@@ -61,3 +63,5 @@ The profile is episodic rather than comprehensive. The sources cover Justinian's
 - [[Theophano]] - princess who carried dynastic and cultural prestige westward.
 - [[VarangianGuard]] - institution connecting foreign service to imperial rank and wealth.
 - [[RomanImperialLegitimacy]] - contested continuity expressed through conquest, titles, marriage, law, and ritual.
+- [[NikaRiots]] - urban crisis that reordered factional, senatorial, and imperial power.
+- [[HagiaSophia]] - defining monument of post-riot Christian Roman reconstruction.
