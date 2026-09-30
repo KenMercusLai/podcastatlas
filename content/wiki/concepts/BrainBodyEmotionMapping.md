@@ -7,8 +7,9 @@ sources:
   - essentials-the-biology-of-aggression-mating-arousal-dr-david-anderson-scim8499505944
   - how-to-understand-emotions-dr-lisa-feldman-barrett-scim3919749252
   - how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002
+  - the-biology-of-aggression-mating-arousal-dr-david-anderson-scim2527130481
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-27
+last_updated: 2026-10-01
 ---
 
 # Brain-Body Emotion Mapping
@@ -19,7 +20,7 @@ Brain-body emotion mapping is the attempt to connect emotional states to distrib
 ## Current Synthesis
 The emotion sources treat emotion as embodied but warn that current measurement is still limited. Body-map studies often capture where people think an emotion would be felt, not direct body physiology. The insula is relevant because it receives extensive bodily input and is often discussed in conscious feeling and pain, while brain imaging suggests distributed emotion signatures rather than single centers.
 
-The Anderson episode adds a brain-body communication layer through [[AntonioDamasio]]'s somatic-marker hypothesis, sympathetic and parasympathetic pathways, and the vagus nerve. This does not prove that subjective body maps are already physiological maps, but it makes a plausible mechanism more concrete: bodily feedback from gut, heart, lungs, and other visceral organs can help shape felt emotional state while brain outputs can also change peripheral organs.
+The Anderson episodes add a brain-body communication layer through [[AntonioDamasio]]'s somatic-marker hypothesis, sympathetic and parasympathetic pathways, and the vagus nerve. This does not prove that subjective body maps are already physiological maps, but it makes a plausible mechanism more concrete: bodily feedback from gut, heart, lungs, and other visceral organs can help shape felt emotional state while brain outputs can also change peripheral organs. The full interview further separates this general bidirectionality from the still-developing task of identifying which vagal fiber populations connect particular organs, signals, and functions.
 
 The Barrett episode adds [[AllostaticBodyBudget]] and a predictive action layer. The brain does not only read a finished body state; it forecasts needs, adjusts internal resources before action, and interprets coarse affect through context and learned concepts. This strengthens the bidirectional model while further weakening any expectation that one reported feeling, face, heart rate, or brain region will identify an emotion by itself.
 
@@ -42,6 +43,7 @@ Across development, primitive regulatory states do not remain raw physiology: th
 - Somatic-marker bridge - [[essentials-the-biology-of-aggression-mating-arousal-dr-david-anderson-scim8499505944]] connects body-map discussion to [[AntonioDamasio]]'s somatic-marker hypothesis.
 - Vagus and autonomic evidence - [[essentials-the-biology-of-aggression-mating-arousal-dr-david-anderson-scim8499505944]] describes bidirectional brain-body communication through sympathetic, parasympathetic, and vagus pathways.
 - Decoding frontier - [[essentials-the-biology-of-aggression-mating-arousal-dr-david-anderson-scim8499505944]] says recent work is beginning to decode specific vagus fibers, while leaving selective control as a developing research frontier.
+- Organ-specific vagal boundary - [[the-biology-of-aggression-mating-arousal-dr-david-anderson-scim2527130481]] distinguishes broad vagal bidirectionality from the unresolved mapping and selective control of fiber subsets for particular organs and functions.
 - Predictive allostasis - [[how-to-understand-emotions-dr-lisa-feldman-barrett-scim3919749252]] describes the brain as preparing bodily regulation before movement and affect as a coarse summary that emotion categories interpret in context.
 - Developmental abstraction - [[how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002]] uses a child's changing expressions of love to show how bodily attachment feelings can acquire richer concepts and narratives over time.
 - Learning bridge - [[how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002]] connects physiology, hormones, stress, immunity, digestion, microbiome, culture, and social interaction to conscious meaning and learning.
@@ -53,6 +55,7 @@ The concept remains partly prospective. The sources expect richer body signature
 - Added predictive allostasis, action preparation, and affect as a coarse body-state summary.
 - Clarified that brain-body mapping includes forecast and control, not only readout.
 - Added the developmental pathway from bodily regulation through concepts and stories to belief, value, identity, and learning.
+- Clarified that general vagal bidirectionality is better established in the source account than organ- and fiber-specific emotional control.
 
 ## Related Concepts
 - [[EmotionsAsFunctionalControlStates]] - broader emotion framework that body mapping may refine.

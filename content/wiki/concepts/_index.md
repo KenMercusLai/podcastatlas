@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9005
+wiki_total_pages: 9006
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2273,6 +2273,9 @@ wiki_pages:
   - key: "ArmyParliamentDualSovereignty"
     title: "Army-Parliament Dual Sovereignty"
     url: "/wiki/concepts/armyparliamentdualsovereignty/"
+  - key: "ArousalCircuitSpecificity"
+    title: "Arousal Circuit Specificity"
+    url: "/wiki/concepts/arousalcircuitspecificity/"
   - key: "ArtAfterViolenceMemory"
     title: "Art After Violence Memory"
     url: "/wiki/concepts/artafterviolencememory/"

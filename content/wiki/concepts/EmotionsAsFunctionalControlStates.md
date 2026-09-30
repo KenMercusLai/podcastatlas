@@ -7,8 +7,9 @@ sources:
   - essentials-the-biology-of-aggression-mating-arousal-dr-david-anderson-scim8499505944
   - cultivating-awe-emotional-connection-in-daily-life-dr-dacher-keltner-scim6985403733
   - how-to-understand-emotions-dr-lisa-feldman-barrett-scim3919749252
+  - the-biology-of-aggression-mating-arousal-dr-david-anderson-scim2527130481
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-27
+last_updated: 2026-10-01
 ---
 
 # Emotions as Functional Control States
@@ -17,7 +18,7 @@ last_updated: 2026-09-27
 Emotions as functional control states is the Huberman Lab emotion-neuroscience frame for defining emotions by what they do for an organism rather than by one brain region, one facial display, or only a conscious feeling.
 
 ## Current Synthesis
-The concept places emotions between reflexes and flexible planning. In the Adolphs source, emotions help organisms handle recurring challenges by taking priority, scaling in intensity, persisting beyond the trigger, and organizing many possible behaviors from many possible inputs. In the Anderson source, emotions are internal states alongside arousal, motivation, and sleep: they change how the brain transforms inputs into outputs, and they can persist and generalize beyond the immediate trigger.
+The concept places emotions between reflexes and flexible planning. In the Adolphs source, emotions help organisms handle recurring challenges by taking priority, scaling in intensity, persisting beyond the trigger, and organizing many possible behaviors from many possible inputs. In the Anderson sources, emotions are internal states alongside arousal, motivation, and sleep: they change how the brain transforms inputs into outputs, can persist and generalize beyond the immediate trigger, and should not be reduced to one global arousal mechanism.
 
 Together, the sources make emotion a scientific target without requiring that every species, machine, animal model, or human state share the same mechanism or subjective feeling. The Keltner source extends the frame from regulation and aggression into [[AweEmotion]]: awe can be studied through expression, voice, goosebumps, vagal tone, attention, time perception, self-focus, and shared embodied settings. Barrett's [[TheoryOfConstructedEmotion]] adds a compatible but important qualification: a recurring function or useful category does not require one universal face, body pattern, or neural signature. The same broad function can be implemented through variable predictions, bodily states, learned concepts, and contexts.
 
@@ -40,6 +41,7 @@ The sources also keep the translation boundary visible: causal animal-circuit co
 - Internal-state definition - [[essentials-the-biology-of-aggression-mating-arousal-dr-david-anderson-scim8499505944]] has [[DavidAnderson]] define emotions as internal states that change input-output transformation.
 - Persistence and generalization evidence - [[essentials-the-biology-of-aggression-mating-arousal-dr-david-anderson-scim8499505944]] emphasizes that emotion states can outlast a trigger and alter behavior in later contexts.
 - Circuit translation boundary - [[essentials-the-biology-of-aggression-mating-arousal-dr-david-anderson-scim8499505944]] connects animal-circuit mechanisms to mental-health relevance while preserving uncertainty about human treatment.
+- Circuit-specific state evidence - [[the-biology-of-aggression-mating-arousal-dr-david-anderson-scim2527130481]] distinguishes shared dimensions such as arousal intensity from the behavior-specific circuits that implement a state.
 - Awe as measurable social emotion - [[cultivating-awe-emotional-connection-in-daily-life-dr-dacher-keltner-scim6985403733]] presents [[AweEmotion]] through expression, vocalization, goosebumps, vagal tone, attention, time perception, quieted self-focus, and shared embodied practices.
 - Variable implementation - [[how-to-understand-emotions-dr-lisa-feldman-barrett-scim3919749252]] argues that useful emotion categories need not correspond to universal facial, physiological, or neural packages.
 
@@ -49,6 +51,7 @@ The sources do not claim that every emotion has all criteria equally or that val
 ## What Changed
 - Added the constructed-emotion qualification that recurring functions need not have invariant facial, physiological, or neural implementations.
 - Made the open boundary between functional and constructionist theories explicit.
+- Clarified that a shared arousal dimension does not imply one common circuit or neurochemical switch across emotion-related states.
 
 ## Related Concepts
 - [[EmotionRegulationToolkit]] - practical regulation branch that assumes emotions are useful states to work with.
@@ -63,3 +66,4 @@ The sources do not claim that every emotion has all criteria equally or that val
 - [[EmbodiedCollectiveAwe]] - group-synchrony branch showing emotions through shared bodily settings.
 - [[TheoryOfConstructedEmotion]] - adjacent theory emphasizing prediction, learned categories, and variable implementation.
 - [[AllostaticBodyBudget]] - predictive bodily-regulation layer that shapes affect and action readiness.
+- [[ArousalCircuitSpecificity]] - implementation-level qualification against treating all high-arousal states as one mechanism.

@@ -6,7 +6,8 @@ sources:
   - essentials-understanding-controlling-aggression-scim4757138073
   - essentials-the-biology-of-aggression-mating-arousal-dr-david-anderson-scim8499505944
   - essentials-how-to-control-hunger-eating-satiety-scim9260736648
-last_updated: 2026-09-22
+  - the-biology-of-aggression-mating-arousal-dr-david-anderson-scim2527130481
+last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,7 +19,7 @@ The ventromedial hypothalamus, or VMH, is a behaviorally powerful hypothalamic r
 ## Current Profile
 The sources present the VMH as a hypothalamic region where selected neuron populations can trigger aggressive action patterns. The solo aggression source emphasizes scale: roughly 1,500 neurons on each side of the brain are described as sufficient to generate aggressive behavior in the experimental context. The Anderson interview adds that VMH drive can lower the threshold for attack, while nearby fear-related VMH neurons can stop offensive fighting and produce freezing.
 
-The VMH profile is mechanistic but bounded. Estrogen-receptor populations link the region to hormone-context aggression, female VMH contains separable fighting and mating populations in the source account, and the region connects to medial preoptic mating circuits plus downstream routing structures such as [[PeriaqueductalGray]]. None of this means VMH activity alone explains all human violence, moral responsibility, psychiatric risk, or social aggression.
+The VMH profile is mechanistic but bounded. Estrogen-receptor populations link the region to hormone-context aggression, female VMH contains separable fighting and mating populations whose balance changes with reproductive or maternal state in the source account, and the region connects to medial preoptic mating circuits plus downstream routing structures such as [[PeriaqueductalGray]]. Stronger stimulation can lower attack threshold, but overt attack still requires an external target. None of this means VMH activity alone explains all human violence, moral responsibility, psychiatric risk, or social aggression.
 
 An older lesion and parabiosis branch says VMH disruption can increase or decrease eating depending on which neuron populations are affected and uses linked circulation between rats to argue that blood-borne signals participate in feeding. The safest synthesis is that VMH is not one appetite switch: distinct local and network populations can support different behaviors, and the condensed account does not identify the exact cells or settle how animal findings translate to human appetite.
 
@@ -39,6 +40,7 @@ An older lesion and parabiosis branch says VMH disruption can increase or decrea
 - Threshold and fear hierarchy - [[essentials-the-biology-of-aggression-mating-arousal-dr-david-anderson-scim8499505944]] says stronger VMH drive lowers attack threshold, while fear-related VMH stimulation can stop fighting and cause freezing.
 - Sex-specific populations - [[essentials-the-biology-of-aggression-mating-arousal-dr-david-anderson-scim8499505944]] describes female VMH populations that separately control fighting and mating.
 - Network routing - [[essentials-the-biology-of-aggression-mating-arousal-dr-david-anderson-scim8499505944]] links VMH to medial preoptic mating neurons and downstream [[PeriaqueductalGray]] routing.
+- Threshold, target, and maternal-state detail - [[the-biology-of-aggression-mating-arousal-dr-david-anderson-scim2527130481]] says VMH drive lowers attack threshold without producing attack at nothing and describes female fighting-versus-mating population balance changing in nursing mothers.
 - Feeding-control branch - [[essentials-how-to-control-hunger-eating-satiety-scim9260736648]] uses VMH lesion and parabiosis examples to connect mixed feeding effects with blood-borne appetite signals.
 
 ## Qualifications
@@ -47,6 +49,7 @@ The page records the podcasts' explanation of VMH aggression, fear, hormone, mat
 ## What Changed
 - Extended the VMH profile from aggression, fear, and mating into mixed feeding-control populations.
 - Kept the lesion and parabiosis interpretation bounded to the episode's compressed animal evidence.
+- Clarified that VMH drive changes attack threshold rather than generating target-free behavior and that female circuit balance is state-dependent.
 
 ## Relationships
 - [[AggressionCircuitBiology]] - concept in which VMH is the central circuit node.

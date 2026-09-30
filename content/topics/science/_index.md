@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1352
+topic_total_pages: 1354
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -154,6 +154,9 @@ topic_concepts:
   - key: "AppliedAstrobiology"
     title: "Applied Astrobiology"
     url: "/wiki/concepts/appliedastrobiology/"
+  - key: "ArousalCircuitSpecificity"
+    title: "Arousal Circuit Specificity"
+    url: "/wiki/concepts/arousalcircuitspecificity/"
   - key: "ArtificialHeartBridgeTherapy"
     title: "Artificial Heart Bridge Therapy"
     url: "/wiki/concepts/artificialheartbridgetherapy/"
@@ -3915,6 +3918,9 @@ topic_sources:
   - key: "the-art-of-true-happiness-dr-arthur-brooks-scim2290485637"
     title: "The Art of True Happiness | Dr. Arthur Brooks"
     url: "/wiki/sources/the-art-of-true-happiness-dr-arthur-brooks-scim2290485637/"
+  - key: "the-biology-of-aggression-mating-arousal-dr-david-anderson-scim2527130481"
+    title: "The Biology of Aggression, Mating, & Arousal | Dr. David Anderson"
+    url: "/wiki/sources/the-biology-of-aggression-mating-arousal-dr-david-anderson-scim2527130481/"
   - key: "the-biology-of-social-interactions-and-emotions-dr-kay-tye-scim4105255786"
     title: "The Biology of Social Interactions and Emotions | Dr. Kay Tye"
     url: "/wiki/sources/the-biology-of-social-interactions-and-emotions-dr-kay-tye-scim4105255786/"

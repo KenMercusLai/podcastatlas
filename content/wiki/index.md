@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Biology of Aggression, Mating, & Arousal | Dr. David Anderson](sources/the-biology-of-aggression-mating-arousal-dr-david-anderson-scim2527130481.md) — Full Huberman Lab interview on circuit-specific arousal, VMH aggression and fear hierarchy, mating-circuit competition, hormone context, PAG routing, isolation-linked tachykinins, and bidirectional brain-body emotion signaling.
 - [234. Germans Behaving Badly](sources/234-germans-behaving-badly-glt7143029609.md) — The Rest Is History conversation with Andrea Wulf on Jena Romanticism, responsible selfhood, nature, hidden intellectual labor, personal conflict, and the movement's Napoleonic ending.
 - [Nicotine’s Effects on the Brain & Body & How to Quit Smoking or Vaping](sources/nicotines-effects-on-the-brain-body-how-to-quit-smoking-or-vaping-scim2598262635.md) — Huberman Lab solo episode on nicotine receptors, attention, reward, delivery speed, vaping risk, withdrawal, and clinically bounded cessation support.
 - [Biology & Treatments for Compulsive Behaviors & Binge Eating | Dr. Casey Halpern](sources/biology-treatments-for-compulsive-behaviors-binge-eating-dr-casey-halpern-scim4911670131.md) — Full Huberman Lab interview on loss-of-control eating, responsive DBS, craving-signal mapping, OCD, focused ultrasound, and the invasive-to-non-invasive treatment pathway.
@@ -14977,6 +14978,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Steve Goss](entities/SteveGoss.md) — Former Social Security chief actuary assessing the scale, feasibility, and timing of reform options.
 
 ## Concepts
+- [Arousal Circuit Specificity](concepts/ArousalCircuitSpecificity.md) — View that arousal is implemented by behavior-specific circuits rather than one global intensity or neurochemical switch.
 - [Jena Romanticism](concepts/JenaRomanticism.md) — Late-18th-century movement joining active selfhood, responsible freedom, nature, art, science, imagination, and dense collaborative life.
 - [Freedom, Duty, and Selfhood](concepts/FreedomDutyAndSelfhood.md) — Ethical distinction between self-determination as responsible agency and self-centeredness as exemption from obligation.
 - [Romantic Nature Unity](concepts/RomanticNatureUnity.md) — Organismic view of self and nature that retains reason while adding imagination, wonder, and participatory knowledge.

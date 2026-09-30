@@ -12127,6 +12127,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "ArousalCircuitSpecificity": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "ArrivalFilm": [
     {
       "key": "culture",
@@ -94152,6 +94159,13 @@
     }
   ],
   "the-art-of-true-happiness-dr-arthur-brooks-scim2290485637": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "the-biology-of-aggression-mating-arousal-dr-david-anderson-scim2527130481": [
     {
       "key": "science",
       "label": "Science",
