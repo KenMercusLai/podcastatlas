@@ -12,7 +12,8 @@ sources:
   - guest-series-dr-matt-walker-how-to-structure-your-sleep-use-naps-time-caffeine-scim8589399999
   - guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663
   - ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965
-last_updated: 2026-09-26
+  - sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836
+last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
 
@@ -40,6 +41,8 @@ The protocols episode adds recovery discipline around one bad night. It recommen
 
 The AMA adds a travel application. A three-hour eastward shift can be approached by moving wake time earlier before departure or, more simply, by adopting local wake time and coordinating light, movement, caffeine, meals, social activity, and evening dimness after arrival. This becomes [[CircadianTravelAdaptation]]: a flexible use of the same timing cues rather than a separate set of travel hacks.
 
+The full-length sleep-toolkit episode confirms that system and adds practical nighttime boundaries: NSDR or hypnosis may help after waking, but persistent insomnia and suspected sleep apnea are not routine-optimization problems. Its bed-angle, mouth-taping, red-light, and detailed supplement suggestions remain lower-confidence, source-scoped options rather than foundations.
+
 ## Key Claims
 - Sleep is framed as the output of a full-day timing system rather than a bedtime-only behavior, with work, exercise, meals, and post-meal movement included alongside light, caffeine, temperature, and darkness.
 - Morning outdoor light, especially within 30-60 minutes after waking, is the strongest external anchor in the sleep-toolkit source.
@@ -64,13 +67,15 @@ The AMA adds a travel application. A three-hour eastward shift can be approached
 - Nap timing and sleep pressure - [[guest-series-dr-matt-walker-how-to-structure-your-sleep-use-naps-time-caffeine-scim8589399999]] distinguishes early short naps for some good sleepers from late naps or insomnia contexts where nighttime sleep pressure has priority.
 - Recovery and learned cues - [[guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663]] joins schedule regularity, wind-down, dim light, stimulus control, and restraint after a poor night.
 - Travel adaptation - [[ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965]] coordinates gradual pre-travel wake shifts or after-arrival local light, movement, caffeine, meals, social activity, and nighttime dimness.
+- Full-length toolkit and clinical boundary - [[sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836]] confirms the three-period daily structure, adds nighttime-waking options, and separates suspected apnea from ordinary sleep optimization.
 
 ## Counterevidence & Qualifications
-The sources are public sleep education, not clinical sleep-medicine protocols. They do not settle individual treatment for insomnia, sleep apnea, psychiatric illness, medication effects, pregnancy, pediatric sleep, shift-work safety, trauma-related nightmares, gastrointestinal disease, adolescent school policy, or serious circadian disorders. Bedtime rescheduling can create hazardous sleepiness and requires more caution than ordinary sleep hygiene. The supplement, red-light, THC, alcohol, sauna, cold-exposure, tracker, growth-hormone, REM, nap-duration, nap-effect, social-jetlag, meal-timing, optic-flow, light-intensity, and travel claims remain source-scoped.
+The sources are public sleep education, not clinical sleep-medicine protocols. They do not settle individual treatment for insomnia, sleep apnea, psychiatric illness, medication effects, pregnancy, pediatric sleep, shift-work safety, trauma-related nightmares, gastrointestinal disease, adolescent school policy, or serious circadian disorders. Bedtime rescheduling can create hazardous sleepiness and requires more caution than ordinary sleep hygiene. Mouth taping can introduce breathing or aspiration risk and is not a substitute for apnea assessment. The supplement, red-light, THC, alcohol, sauna, cold-exposure, bed-angle, tracker, growth-hormone, REM, nap-duration, nap-effect, social-jetlag, meal-timing, optic-flow, light-intensity, and travel claims remain source-scoped.
 
 ## What Changed
-- Added a flexible travel branch that reuses the toolkit's light, activity, food, caffeine, and darkness cues.
-- Separated gradual pre-adjustment from direct adoption of destination time after arrival.
+- Added nighttime-waking tools while preserving the distinction between guided rest and clinical insomnia care.
+- Made suspected sleep apnea an explicit escalation boundary inside the full-day toolkit.
+- Kept bed angle, mouth taping, red light, and detailed supplement protocols below the behavioral foundations.
 
 ## Related Concepts
 - [[SleepAsDailyHealthAccount]] - broader sleep-health account that this toolkit operationalizes.

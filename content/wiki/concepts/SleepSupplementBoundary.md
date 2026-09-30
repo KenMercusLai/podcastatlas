@@ -9,7 +9,8 @@ sources:
   - guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951
   - vol-46-shipin-yu-yingyang-zhe-5-da-jiankang-kunrao-ni-zhanle-jige-qishi-jiejue-banfa-jiu-zai-ni-shenbian-ls3h7eocliv0b72bz2wxdhbealp5
   - developing-a-rational-approach-to-supplementation-for-health-performance-scim5857890354
-last_updated: 2026-09-28
+  - sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836
+last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
 
@@ -33,6 +34,8 @@ VOL.46 adds problem matching: melatonin is more plausibly relevant when sleep ti
 
 The dedicated supplementation episode adds explicit variable isolation. It asks users to check late caffeine and food timing before adding an aid, then test one ingredient for roughly a week before considering combinations. Myo-inositol is discussed for night waking, while theanine is again qualified by vivid-dream sensitivity; melatonin is questioned for routine use, sleep maintenance, label accuracy, and childhood exposure.
 
+The full-length sleep toolkit supplies the longer context behind the Essentials edit. It adds first-person intermittent use of glycine, GABA, and 900 milligrams of myo-inositol, including a reported return-to-sleep benefit. Those details remain personal experience rather than comparative efficacy evidence and do not weaken the one-variable, minimum-effective-dose, product-quality, or clinician-guidance boundaries.
+
 ## Key Claims
 - Behavioral tools come first, nutrition second, supplements third, and prescription drugs require physician involvement.
 - Magnesium forms, apigenin, theanine, and occasional inositol are presented as possible sleep supports; evidence may depend on deficiency, formulation, and individual response.
@@ -53,14 +56,16 @@ The dedicated supplementation episode adds explicit variable isolation. It asks 
 - Regimen boundary - [[guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951]] places behavioral foundations before supplements and directs changes through clinician discussion.
 - Problem-fit and dose boundary - [[vol-46-shipin-yu-yingyang-zhe-5-da-jiankang-kunrao-ni-zhanle-jige-qishi-jiejue-banfa-jiu-zai-ni-shenbian-ls3h7eocliv0b72bz2wxdhbealp5|VOL.46]] distinguishes circadian disruption from stress or stimulation-related insomnia and warns that higher-dose melatonin can produce daytime sleepiness, headache, or unease.
 - Variable isolation and melatonin boundary - [[developing-a-rational-approach-to-supplementation-for-health-performance-scim5857890354]] checks caffeine and meal timing first, discusses myo-inositol for night waking, recommends isolated trials, and raises routine-use, maintenance, label, and pediatric concerns about melatonin.
+- Personal regimen boundary - [[sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836]] reports intermittent glycine, GABA, and myo-inositol use for sleep or nighttime waking without supplying controlled comparative evidence.
 
 ## Counterevidence & Qualifications
 The sources do not determine whether any person should use, taper, or avoid a supplement, hormone, serotonin precursor, or prescription sleep medication. They do not establish comparative efficacy for valerian, glycine, phosphatidylserine, GABA, theanine, myo-inositol, magnesium forms, or deficiency testing; certify product quality; validate doses, label-variance estimates, or long-term dependence claims; or replace clinical care for insomnia, pediatric sleep, pregnancy, psychiatric illness, breathing disorders, drug interactions, or persistent impairment.
 
 ## What Changed
-- Added late-caffeine and meal-timing checks before supplement trials.
-- Added one-at-a-time testing and night-waking problem matching.
-- Expanded melatonin caution to sleep maintenance and label accuracy.
+- Added glycine, GABA, and myo-inositol only as a first-person, source-scoped regimen.
+- Preserved late-caffeine and meal-timing checks before supplement trials.
+- Retained one-at-a-time testing and night-waking problem matching.
+- Kept melatonin caution around sleep maintenance, labeling, hormones, and pediatric use.
 
 ## Related Concepts
 - [[SleepWakeTimingToolkit]] - parent timing toolkit that places supplements after behavior and nutrition.

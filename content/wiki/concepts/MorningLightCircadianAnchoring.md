@@ -12,7 +12,8 @@ sources:
   - journal-club-with-dr-peter-attia-effects-of-light-dark-on-mental-health-treatments-for-cancer-scim9183043757
   - ama-14-2023-philanthropy-evening-routine-light-therapy-health-metrics-more-scim2172700344
   - ama-1-leveraging-ultradian-cycles-how-to-protect-your-brain-seed-oils-examined-and-more-scim2378383211
-last_updated: 2026-09-30
+  - sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836
+last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
 
@@ -42,6 +43,8 @@ AMA #14 adds a dark-region fallback and an evening environment layer. When sunli
 
 AMA #1 reinforces the hierarchy without adding a universal dose: early outdoor light is the most strongly supported part of a wider nature-exposure discussion, seasonal-affective-disorder lamps are secondary fallbacks, and light through windows, windshields, screens, or images is not treated as equivalent. Its broader metabolism claim remains source-scoped, and the episode's grounding and negative-ion discussion belongs under [[NatureExposureHealthEvidence]] rather than the circadian-light mechanism itself.
 
+The full-length sleep toolkit confirms that hierarchy and makes the two-anchor pattern explicit: outdoor light soon after waking sets the strongest daily timing cue, while low-angle late-day light can help mark evening without authorizing bright artificial light at night. Because this is the longer source behind the later Essentials edit, it strengthens provenance but is not independent replication.
+
 ## Key Claims
 - Outdoor ambient daylight in the first hour after waking is presented as beneficial even when the person cannot see the eastern horizon.
 - Outdoor light within 30-60 minutes after waking is presented as a strong anchor for early cortisol timing, melatonin suppression, alertness, and later sleep.
@@ -68,16 +71,17 @@ AMA #1 reinforces the hierarchy without adding a universal dose: early outdoor l
 - Phase and daytime-dose distinction - [[journal-club-with-dr-peter-attia-effects-of-light-dark-on-mental-health-treatments-for-cancer-scim9183043757]] distinguishes morning phase advance, evening phase delay, and midday brightness that may support alertness or mood without the same clock shift.
 - Dark-region and evening routine - [[ama-14-2023-philanthropy-evening-routine-light-therapy-health-metrics-more-scim2172700344]] prioritizes sunlight, offers bright overhead or 10,000-lux artificial light before sunrise, and pairs late-day daylight with dim, low evening lighting.
 - Nature-evidence hierarchy - [[ama-1-leveraging-ultradian-cycles-how-to-protect-your-brain-seed-oils-examined-and-more-scim2378383211]] treats morning outdoor light as the strongest-supported element of nature contact, distinguishes bright-lamp fallback from outdoor exposure, and rejects windows, screens, or images as equivalent substitutes.
+- Full-length two-anchor account - [[sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836]] pairs outdoor light soon after waking with late-day low-angle light and keeps nighttime brightness reduction as the complementary boundary.
 
 ## Counterevidence & Qualifications
 The sources do not establish one universal lux threshold, exposure duration, latitude adjustment, artificial-light device standard, optic-flow effect, cortisol target, or clinical treatment protocol. Their clear-day and overcast minute ranges differ, so weather-based timings should be read as rough source examples rather than precise prescriptions. The vision episode's two-to-ten-minute example and its dopamine, glucose, pain, metabolism, and appetite claims lack enough methodological detail here to generalize; AMA #1's metabolism claim has the same boundary. The Journal Club psychiatric study is observational and measured light at the wrist rather than at the eye. AMA #14's roughly 50% melatonin-protection claim and red-light vision or mitochondrial claims also lack enough methods here for universal use. The sources do not claim light exposure alone can solve insomnia, mood disorders, shift-work safety problems, jet lag, pediatric sleep disruption, school-schedule mismatch, hospital-lighting problems, or circadian disorders without other context.
 
 ## What Changed
-- Integrated the dark-region artificial-light fallback without displacing outdoor daylight as the preferred anchor.
-- Added late-day daylight and dim, low-positioned evening lighting to the full-day contrast model.
-- Kept red evening bulbs distinct from red or near-infrared therapy panels.
+- Added the full-length episode as the underlying provenance for the morning and late-day two-anchor pattern.
+- Preserved outdoor daylight as preferred while retaining artificial light as a dark-region fallback.
+- Kept red evening illumination distinct from red or near-infrared therapy.
 - Preserved differing duration, observational psychiatric, and source-scoped physiological-effect boundaries.
-- Reinforced the evidence hierarchy separating morning light from weaker grounding and negative-ion mechanisms.
+- Explicitly treated the full and Essentials edits as overlapping, not independent replication.
 
 ## Related Concepts
 - [[SleepAsDailyHealthAccount]] - broader sleep-health account supported by light timing.

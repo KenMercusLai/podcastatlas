@@ -9,6 +9,7 @@ sources:
   - guest-series-dr-matt-walker-improve-sleep-to-boost-mood-emotional-regulation-scim1989437288
   - guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663
   - what-alcohol-does-to-your-body-brain-health-scim8915337113
+  - sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836
 last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
@@ -30,6 +31,8 @@ Walker extends the mental-health stakes. He describes alcohol and THC as potent 
 The protocols episode makes the substance distinctions more explicit. Alcohol is framed as sedation rather than natural sleep and is linked with fragmentation, altered deep-sleep electrical quality, and REM suppression even when use occurs earlier in the day. THC can shorten sleep onset but tolerance may drive dose escalation, while cessation can produce vivid-dream REM rebound and insomnia. CBD is kept separate: possible anxiety, temperature, or direct sleep effects are discussed, but mixed evidence, dose uncertainty, regulation, and label reliability prevent treating retail CBD as a dependable sleep aid.
 
 The alcohol-focused episode independently reinforces the practical boundary within the same show: even one drink is presented as capable of degrading sleep quality, and hangover is treated partly as a consequence of disrupted slow-wave and REM architecture rather than dehydration alone. The exact dose-response claim remains source-scoped, but sedation should not be counted as restorative sleep.
+
+The full-length sleep toolkit supplies the longer context behind the Essentials edit and keeps CBD separate from THC: anxiety relief is discussed as one possible route to easier sleep, but product, dose, efficacy, and architecture effects are not established. This adds scope without making the full and condensed edits independent corroboration.
 
 ## Key Claims
 - Alcohol and THC may help some people fall asleep or stay asleep in the short term.
@@ -53,13 +56,15 @@ The alcohol-focused episode independently reinforces the practical boundary with
 - Alcohol sedation and timing - [[guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663]] separates sedation from sleep and reports deep-sleep and REM effects even from earlier alcohol exposure.
 - THC tolerance and CBD uncertainty - [[guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663]] distinguishes THC sleep onset, tolerance, withdrawal, and REM rebound from mixed and poorly regulated CBD evidence.
 - Alcohol-specific reinforcement - [[what-alcohol-does-to-your-body-brain-health-scim8915337113]] connects post-drink impairment and hangover with disrupted slow-wave and REM architecture rather than treating alcohol sleep as restorative.
+- Full-length alcohol, THC, and CBD context - [[sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836]] separates short-term sleep onset from architecture and discusses CBD-related anxiety relief without establishing a dependable sleep aid.
 
 ## Counterevidence & Qualifications
 The sources do not provide individualized guidance for caffeine dependence, cannabis use, alcohol use disorder, withdrawal, pain, PTSD, anxiety, insomnia, medication interactions, pregnancy, or psychiatric conditions. They also do not fully quantify dose-response effects, compare all cannabinoid preparations, validate aldehyde mechanisms, or establish that every person has the same REM or deep-sleep disruption. Single-drink and single-afternoon-drink claims and CBD mechanisms lack full study context here. REM rebound should not be used to guide unsupervised withdrawal. Substance dependence, withdrawal risk, or persistent insomnia requires qualified care.
 
 ## What Changed
-- Strengthened the distinction between alcohol sedation and natural sleep across deep non-REM and REM measures.
-- Added an alcohol-specific link between disrupted architecture, hangover, and next-day recovery while keeping single-drink effects qualified.
+- Added the full-length episode's CBD-versus-THC distinction while keeping CBD effects uncertain.
+- Explicitly treated the full and Essentials edits as overlapping provenance.
+- Preserved alcohol sedation, architecture, hangover, and single-drink claims as qualified.
 
 ## Related Concepts
 - [[SleepWakeTimingToolkit]] - parent sleep timing toolkit.

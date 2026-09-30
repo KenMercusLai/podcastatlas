@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1363
+topic_total_pages: 1364
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -3924,6 +3924,9 @@ topic_sources:
   - key: "science-based-tools-for-increasing-happiness-scim9472441223"
     title: "Science-Based Tools for Increasing Happiness"
     url: "/wiki/sources/science-based-tools-for-increasing-happiness-scim9472441223/"
+  - key: "sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836"
+    title: "Sleep Toolkit: Tools for Optimizing Sleep & Sleep-Wake Timing"
+    url: "/wiki/sources/sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836/"
   - key: "sp-01-yuzhou-kaer-sagen-de-xingchen-dahai-he-renlei-mengxiang-543901074"
     title: "sp.01 宇宙：卡尔·萨根的星辰大海和人类梦想"
     url: "/wiki/sources/sp-01-yuzhou-kaer-sagen-de-xingchen-dahai-he-renlei-mengxiang-543901074/"

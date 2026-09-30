@@ -24552,9 +24552,9 @@
       "url": "/wiki/concepts/caesarsbritishexpeditions/"
     },
     "CaffeineAdenosineSleepTiming": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 3,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "SCIM6408620468 [SCIM6408620468].md",
@@ -24604,9 +24604,16 @@
           "show": "Huberman Lab",
           "title": "Using Caffeine to Optimize Mental & Physical Performance",
           "url": "/wiki/sources/using-caffeine-to-optimize-mental-physical-performance-scim1210768101/"
+        },
+        {
+          "episode_file": "SCIM5775234836 [SCIM5775234836].md",
+          "key": "sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836",
+          "show": "Huberman Lab",
+          "title": "Sleep Toolkit: Tools for Optimizing Sleep & Sleep-Wake Timing",
+          "url": "/wiki/sources/sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/caffeineadenosinesleeptiming/"
     },
     "CaffeineBehavioralReinforcement": {
@@ -33725,9 +33732,9 @@
       "url": "/wiki/concepts/circadianeatingwindowalignment/"
     },
     "CircadianTravelAdaptation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM8512997965 [SCIM8512997965].md",
@@ -33735,9 +33742,16 @@
           "show": "Huberman Lab",
           "title": "AMA #16: Sleep, Vertigo, TBI, OCD, Tips for Travelers, Gut-Brain Axis & More",
           "url": "/wiki/sources/ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965/"
+        },
+        {
+          "episode_file": "SCIM5775234836 [SCIM5775234836].md",
+          "key": "sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836",
+          "show": "Huberman Lab",
+          "title": "Sleep Toolkit: Tools for Optimizing Sleep & Sleep-Wake Timing",
+          "url": "/wiki/sources/sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/circadiantraveladaptation/"
     },
     "Circe": {
@@ -126993,9 +127007,9 @@
       "url": "/wiki/concepts/morganaticmarriage/"
     },
     "MorningLightCircadianAnchoring": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 2,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "SCIM2882548864 [SCIM2882548864].md",
@@ -127059,9 +127073,16 @@
           "show": "Huberman Lab",
           "title": "AMA #1: Leveraging Ultradian Cycles, How to Protect Your Brain, Seed Oils Examined and More",
           "url": "/wiki/sources/ama-1-leveraging-ultradian-cycles-how-to-protect-your-brain-seed-oils-examined-and-more-scim2378383211/"
+        },
+        {
+          "episode_file": "SCIM5775234836 [SCIM5775234836].md",
+          "key": "sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836",
+          "show": "Huberman Lab",
+          "title": "Sleep Toolkit: Tools for Optimizing Sleep & Sleep-Wake Timing",
+          "url": "/wiki/sources/sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/morninglightcircadiananchoring/"
     },
     "Morocco": {
@@ -132091,9 +132112,9 @@
       "url": "/wiki/concepts/nonmoralpoliticalanalysis/"
     },
     "NonSleepDeepRestRecovery": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "SCIM8512997965 [SCIM8512997965].md",
@@ -132136,6 +132157,13 @@
           "show": "Huberman Lab",
           "title": "Focus Toolkit: Tools to Improve Your Focus & Concentration",
           "url": "/wiki/sources/focus-toolkit-tools-to-improve-your-focus-concentration-scim5273827033/"
+        },
+        {
+          "episode_file": "SCIM5775234836 [SCIM5775234836].md",
+          "key": "sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836",
+          "show": "Huberman Lab",
+          "title": "Sleep Toolkit: Tools for Optimizing Sleep & Sleep-Wake Timing",
+          "url": "/wiki/sources/sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836/"
         }
       ],
       "updated": "2026-10-01",
@@ -133195,9 +133223,9 @@
       "url": "/wiki/concepts/obstetricanesthesiadecisionboundary/"
     },
     "ObstructiveSleepApneaRecognition": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 3,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "luct7ka8jRMTLsmBwlK9MwOW3sxv [luct7ka8jRMTLsmBwlK9MwOW3sxv].md",
@@ -133233,9 +133261,16 @@
           "show": "Huberman Lab",
           "title": "How to Breathe Correctly for Optimal Health, Mood, Learning & Performance",
           "url": "/wiki/sources/how-to-breathe-correctly-for-optimal-health-mood-learning-performance-scim7880960950/"
+        },
+        {
+          "episode_file": "SCIM5775234836 [SCIM5775234836].md",
+          "key": "sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836",
+          "show": "Huberman Lab",
+          "title": "Sleep Toolkit: Tools for Optimizing Sleep & Sleep-Wake Timing",
+          "url": "/wiki/sources/sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/obstructivesleepapnearecognition/"
     },
     "OccamsRazor": {
@@ -166381,9 +166416,9 @@
       "url": "/wiki/concepts/sleepstagefunctionalarchitecture/"
     },
     "SleepSupplementBoundary": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 2,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "SCIM6408620468 [SCIM6408620468].md",
@@ -166426,15 +166461,22 @@
           "show": "Huberman Lab",
           "title": "Developing a Rational Approach to Supplementation for Health & Performance",
           "url": "/wiki/sources/developing-a-rational-approach-to-supplementation-for-health-performance-scim5857890354/"
+        },
+        {
+          "episode_file": "SCIM5775234836 [SCIM5775234836].md",
+          "key": "sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836",
+          "show": "Huberman Lab",
+          "title": "Sleep Toolkit: Tools for Optimizing Sleep & Sleep-Wake Timing",
+          "url": "/wiki/sources/sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/sleepsupplementboundary/"
     },
     "SleepTemperatureToolkit": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 3,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM6408620468 [SCIM6408620468].md",
@@ -166470,15 +166512,22 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Matt Walker: Protocols to Improve Your Sleep",
           "url": "/wiki/sources/guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663/"
+        },
+        {
+          "episode_file": "SCIM5775234836 [SCIM5775234836].md",
+          "key": "sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836",
+          "show": "Huberman Lab",
+          "title": "Sleep Toolkit: Tools for Optimizing Sleep & Sleep-Wake Timing",
+          "url": "/wiki/sources/sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/sleeptemperaturetoolkit/"
     },
     "SleepWakeTimingToolkit": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 4,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "SCIM6408620468 [SCIM6408620468].md",
@@ -166542,9 +166591,16 @@
           "show": "Huberman Lab",
           "title": "AMA #16: Sleep, Vertigo, TBI, OCD, Tips for Travelers, Gut-Brain Axis & More",
           "url": "/wiki/sources/ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965/"
+        },
+        {
+          "episode_file": "SCIM5775234836 [SCIM5775234836].md",
+          "key": "sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836",
+          "show": "Huberman Lab",
+          "title": "Sleep Toolkit: Tools for Optimizing Sleep & Sleep-Wake Timing",
+          "url": "/wiki/sources/sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/sleepwaketimingtoolkit/"
     },
     "Slicy": {
@@ -172567,9 +172623,9 @@
       "url": "/wiki/concepts/subscriptionvsalgorithmpodcastdistribution/"
     },
     "SubstanceSleepArchitectureBoundary": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 2,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "SCIM6408620468 [SCIM6408620468].md",
@@ -172612,6 +172668,13 @@
           "show": "Huberman Lab",
           "title": "What Alcohol Does to Your Body, Brain & Health",
           "url": "/wiki/sources/what-alcohol-does-to-your-body-brain-health-scim8915337113/"
+        },
+        {
+          "episode_file": "SCIM5775234836 [SCIM5775234836].md",
+          "key": "sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836",
+          "show": "Huberman Lab",
+          "title": "Sleep Toolkit: Tools for Optimizing Sleep & Sleep-Wake Timing",
+          "url": "/wiki/sources/sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836/"
         }
       ],
       "updated": "2026-10-01",
@@ -177064,9 +177127,9 @@
       "url": "/wiki/entities/televisionbroadcastslimited/"
     },
     "TemperatureMinimumClockShifting": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM6408620468 [SCIM6408620468].md",
@@ -177081,9 +177144,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Maximize Productivity, Physical & Mental Health With Daily Tools",
           "url": "/wiki/sources/essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382/"
+        },
+        {
+          "episode_file": "SCIM5775234836 [SCIM5775234836].md",
+          "key": "sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836",
+          "show": "Huberman Lab",
+          "title": "Sleep Toolkit: Tools for Optimizing Sleep & Sleep-Wake Timing",
+          "url": "/wiki/sources/sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/temperatureminimumclockshifting/"
     },
     "TemporaryFamilyHealing": {

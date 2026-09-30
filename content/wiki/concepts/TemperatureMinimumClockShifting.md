@@ -5,7 +5,8 @@ tags: [sleep, circadian-rhythm, jet-lag, shift-work, health]
 sources:
   - essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468
   - essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382
-last_updated: 2026-09-21
+  - sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836
+last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
 
@@ -20,6 +21,8 @@ The episode defines temperature minimum as roughly two hours before a person's t
 This concept matters because the same tool can have opposite effects depending on timing. Morning light after the minimum can help people wake and sleep earlier; similar stimulation before the minimum can push the rhythm later. The source applies this to jet lag, shift work, children, and unusually early wake-ups, while keeping red-light and middle-of-night wakefulness claims source-scoped.
 
 The daily-tools episode uses the same estimate for performance rather than clock shifting alone. Huberman records wake time, treats the minimum as about two hours earlier, and proposes four to six hours after that point as a possible high-focus window. The stronger bounded conclusion is to use the estimate as a planning hypothesis and retain an earlier work time when direct experience shows it works better.
+
+The full-length toolkit adds a schedule-stability boundary for shift work: when possible, remaining on the same shift for roughly two weeks is presented as less disruptive than frequent rotation. That occupational suggestion is not a safety plan and does not establish that workers can accurately infer circadian phase from wake time alone.
 
 ## Key Claims
 - Temperature minimum is defined in the source as roughly two hours before typical wake-up time.
@@ -36,13 +39,15 @@ The daily-tools episode uses the same estimate for performance rather than clock
 - Advance rule - [[essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468]] says light, exercise, food, socializing, or movement after the temperature minimum advances the clock.
 - Applied use - [[essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468]] applies the rule to travel, early wake-ups, shift work, and night-cycle wakefulness.
 - Performance use - [[essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382]] uses the estimated minimum to propose a work window while explicitly preserving effective immediate-post-waking work.
+- Shift-work application - [[sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836]] suggests avoiding rapid shift rotation and keeping one schedule for roughly two weeks when feasible.
 
 ## Counterevidence & Qualifications
 The sources do not provide a validated individual circadian assessment, occupational safety plan, sleep-disorder treatment, pediatric sleep protocol, productivity trial, or travel medicine guide. The red-light claim, exact timing windows, focus window, and clock-shifting advice remain source-scoped and may not fit people with insomnia, bipolar disorder, medication effects, pregnancy, caregiving constraints, or safety-critical shift work.
 
 ## What Changed
-- Created a source-backed concept for the episode's temperature-minimum phase-shifting rule.
-- Added the daily-tools episode's bounded use of the estimate for scheduling focused work.
+- Added schedule stability as a qualified shift-work application.
+- Preserved the temperature minimum as an estimate rather than an individual circadian measurement.
+- Retained the bounded focus-scheduling use as a planning hypothesis.
 
 ## Related Concepts
 - [[SleepWakeTimingToolkit]] - parent daily timing toolkit.

@@ -26371,3 +26371,11 @@ Added source `219-justinian-making-rome-great-again-part-2-glt2369595847`; creat
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | Sleep Toolkit: Tools for Optimizing Sleep & Sleep-Wake Timing
+
+Added source `sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836`; resynthesized `SleepWakeTimingToolkit`, `MorningLightCircadianAnchoring`, `CaffeineAdenosineSleepTiming`, `SleepTemperatureToolkit`, `SleepSupplementBoundary`, `TemperatureMinimumClockShifting`, `NonSleepDeepRestRecovery`, `SubstanceSleepArchitectureBoundary`, `CircadianTravelAdaptation`, and `ObstructiveSleepApneaRecognition` from their complete preserved evidence inventories. Core synthesis: sleep is a full-day coordination problem in which outdoor morning light, stable wake timing, movement, caffeine timing, late-day light, evening dimness, cooling, and schedule consistency are the behavioral foundation; guided rest, substances, supplements, and phase-shifting tactics remain secondary and context-dependent. No settled contradiction was adopted. The full episode substantially overlaps its later Essentials edit and is not independent corroboration; exact light durations, caffeine cutoffs, temperature protocols, supplement doses, bed angle, red light, mouth taping, and shift-work claims remain source-scoped, with suspected apnea and persistent impairment routed to qualified care. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,297-source coverage; no topic claim set was dirty and global compaction was not due. Publish validation passed.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Sleep Toolkit: Tools for Optimizing Sleep & Sleep-Wake Timing](sources/sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836.md) — Full Huberman Lab sleep toolkit on light, temperature, caffeine, daily timing, deep rest, substances, supplements, clock shifting, and clinical sleep boundaries.
 - [219. Justinian: Making Rome Great Again (Part 2)](sources/219-justinian-making-rome-great-again-part-2-glt2369595847.md) — The Rest Is History episode on Justinianic centralization, Persian strategy, the Nika revolt, Theodora's resolve, mass repression, and Hagia Sophia.
 - [220. Justinian & Theodora: The Secret History (Part 3)](sources/220-justinian-theodora-the-secret-history-part-3-glt6795699757.md) — The Rest Is History episode on Justinianic reconquest, Italian devastation, plague-driven state weakness, Theodora's reforms, Procopius, and the limits of imperial restoration.
 - [221. Holidays: Byron's Grand Tour](sources/221-holidays-byrons-grand-tour-glt3921798295.md) — The Rest Is History episode on the Grand Tour, Bath, Brighton, Boswell, Byron, elite self-improvement, health resorts, and tourism's pre-mass foundations.

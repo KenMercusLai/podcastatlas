@@ -8,7 +8,8 @@ sources:
   - essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382
   - e252-guigu-shuimian-waigua-furende-wanju-haishi-yufang-yiliao-de-rukou-duihua-eight-sleep-chuangshiren-833a6b89-e6a1-4d61-a3b3-46f4d664894e
   - guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663
-last_updated: 2026-09-26
+  - sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836
+last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
 
@@ -23,6 +24,8 @@ The current evidence treats temperature as a control system parallel to light. M
 The [[EightSleep|Eight Sleep]] sources add a product-mediated layer. Instead of holding one thermostat setting, a bed can cool around sleep onset and early deep sleep, avoid excessive cooling later, and warm toward waking. Independent sides address partner differences, while personalization may incorporate physiology, activity, preference, pregnancy stage, and learned history. This makes temperature a time-varying and person-specific intervention, but company-reported performance is not equivalent to independent clinical evidence.
 
 The Walker protocols episode clarifies the peripheral mechanism: warming hands and feet can promote vasodilation and heat loss, while a warm bath or shower helps because cooling follows the heat exposure. It also adds an architecture constraint—REM appears sensitive to both excessive cold and excessive heat—so “cooler” is not a command to maximize cold. Controlled thermal-suit findings suggest that precisely timed skin warming can improve sleep maintenance in some older adults, but do not establish a household protocol.
+
+The full-length toolkit adds a practical comfort distinction: exposed hands, feet, and upper face can support heat release, while socks may help a person who becomes uncomfortably cold but worsen sleep for someone already waking hot. This reinforces individualized thermal neutrality rather than one fixed room or clothing rule.
 
 ## Key Claims
 - Morning temperature increase is part of alertness, and movement or carefully used cold exposure can support it.
@@ -41,14 +44,16 @@ The Walker protocols episode clarifies the peripheral mechanism: warming hands a
 - Changing health context - [[e252-guigu-shuimian-waigua-furende-wanju-haishi-yufang-yiliao-de-rukou-duihua-eight-sleep-chuangshiren-833a6b89-e6a1-4d61-a3b3-46f4d664894e]] describes pregnancy-stage adaptation and temperature use by some chemotherapy patients, without establishing clinical efficacy.
 - Peripheral heat loss - [[guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663]] links hand and foot warming, vasodilation, bathing, and subsequent cooling with sleep onset.
 - Thermal neutrality and controlled warming - [[guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663]] connects REM with avoiding temperature extremes and reports laboratory thermal-suit effects in older adults.
+- Individual comfort and heat release - [[sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836]] highlights hands, feet, and upper-face heat release and treats socks as conditional on whether the sleeper is too cold or too warm.
 
 ## Counterevidence & Qualifications
 The sources do not establish one ideal room or bed temperature, universal stage-specific curves, or clinical benefit for pregnancy, chemotherapy symptoms, shift work, or sleep disorders. The roughly 67°F room target and large older-adult thermal-suit effect reported by Walker remain source-scoped rather than universal thresholds. Exact physiological mechanisms and product improvement percentages remain source-scoped. Hot or cold exposure can be unsafe in some medical contexts, and a temperature intervention cannot compensate for insufficient sleep opportunity or replace evaluation of serious symptoms.
 
 ## What Changed
-- Added peripheral warming and subsequent core heat loss as the bath, shower, sock, and hand-foot mechanism.
-- Added thermal neutrality as a REM-related limit on maximizing cold.
-- Added controlled skin warming as promising laboratory evidence without converting it into a universal home protocol.
+- Added socks and exposed extremities as conditional comfort tools rather than universal instructions.
+- Preserved peripheral warming and subsequent core heat loss as the bath, shower, and hand-foot mechanism.
+- Retained thermal neutrality as a limit on maximizing cold.
+- Kept controlled skin warming as promising laboratory evidence rather than a universal home protocol.
 
 ## Related Concepts
 - [[SleepWakeTimingToolkit]] - broader 24-hour timing system containing temperature cues.
