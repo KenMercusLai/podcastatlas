@@ -12665,6 +12665,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "AuditoryExperienceDependentCriticalPeriods": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "AugmentedIntelligence": [
     {
       "key": "technology",
@@ -13120,6 +13127,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "AwakeCorticalMapping": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "AweEmotion": [
@@ -25657,6 +25671,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "DistributedSpeechLanguageCircuits": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "DistributionBeforeMonetization": [
@@ -70532,6 +70553,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "SocialImmersionLanguageLearning": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "SocialIsolationTachykinin": [
     {
       "key": "science",
@@ -93881,6 +93909,13 @@
     }
   ],
   "the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "the-science-of-learning-speaking-languages-dr-eddie-chang-scim2227065926": [
     {
       "key": "science",
       "label": "Science",

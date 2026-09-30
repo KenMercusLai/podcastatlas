@@ -3296,6 +3296,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton](sources/the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim1870631763.md) — Full Huberman Lab interview on dynamic energy balance, appetite, adherence, protein, food processing, evidence hierarchy, supplements, and durable weight-management behavior.
 - [当科技让战争触屏可见，记者为何仍要抵达冲突现场？](sources/lkuvt7driaody6cy5pq-bj517ord-lkuvt7driaody6cy5pq-bj517ord.md) — 不合时宜 roundtable on field presence, language and fixer bias, independent-reporter risk, conflict verification, and unequal global attention.
 
+- [The Science of Learning & Speaking Languages | Dr. Eddie Chang](sources/the-science-of-learning-speaking-languages-dr-eddie-chang-scim2227065926.md) — Full Huberman Lab interview on auditory critical periods, awake cortical mapping, epilepsy, distributed speech-language circuits, bilingual learning, and BRAVO speech neuroprosthetics.
+
 ## Entities
 - [Al Murray](entities/AlMurray.md) — Author and broadcaster presenting a systems-centered account of Allied Second World War command.
 - [Bernard Montgomery](entities/BernardMontgomery.md) — British commander framed through morale, discipline, welfare, and institutional effectiveness.
@@ -23888,5 +23890,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Synthetic Happiness](concepts/SyntheticHappiness.md) — Genuine happiness cultivated through deliberate attention, behavior, social connection, environment, and post-outcome framing.
 - [Attention, Presence, and Happiness](concepts/AttentionPresenceAndHappiness.md) — Attentional pathway connecting focus, mind wandering, meditation, social presence, and access to valued experience.
 - [Choice Closure and Satisfaction](concepts/ChoiceClosureSatisfaction.md) — Distinction between valuable options before deciding and satisfaction-reducing comparison after choosing.
+
+- [Auditory Experience-Dependent Critical Periods](concepts/AuditoryExperienceDependentCriticalPeriods.md) — Developmental model in which structured sensory input helps organize auditory cortex and regulate plasticity timing, with an explicit animal-to-human boundary.
+- [Awake Cortical Mapping](concepts/AwakeCorticalMapping.md) — Function-preserving neurosurgical method using patient tasks and localized stimulation to identify critical tissue.
+- [Distributed Speech-Language Circuits](concepts/DistributedSpeechLanguageCircuits.md) — Network account replacing a single speech-center model with specialized auditory, motor, feedback, lexical, and semantic contributions.
+- [Social Immersion in Language Learning](concepts/SocialImmersionLanguageLearning.md) — Language-learning frame joining sustained exposure, live interaction, bilingual circuit overlap, and lifespan plasticity.
 
 ## Syntheses

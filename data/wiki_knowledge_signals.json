@@ -15183,6 +15183,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/concepts/audiencebeforeproductmarketing/"
     },
+    "AuditoryExperienceDependentCriticalPeriods": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2227065926 [SCIM2227065926].md",
+          "key": "the-science-of-learning-speaking-languages-dr-eddie-chang-scim2227065926",
+          "show": "Huberman Lab",
+          "title": "The Science of Learning & Speaking Languages | Dr. Eddie Chang",
+          "url": "/wiki/sources/the-science-of-learning-speaking-languages-dr-eddie-chang-scim2227065926/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/auditoryexperiencedependentcriticalperiods/"
+    },
     "AuferstandenAusRuinen": {
       "episode_count": 1,
       "show_count": 1,
@@ -16320,6 +16336,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/awaitingpunishmentperformance/"
     },
+    "AwakeCorticalMapping": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2227065926 [SCIM2227065926].md",
+          "key": "the-science-of-learning-speaking-languages-dr-eddie-chang-scim2227065926",
+          "show": "Huberman Lab",
+          "title": "The Science of Learning & Speaking Languages | Dr. Eddie Chang",
+          "url": "/wiki/sources/the-science-of-learning-speaking-languages-dr-eddie-chang-scim2227065926/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/awakecorticalmapping/"
+    },
     "AwarenessMeditationStoryDropping": {
       "episode_count": 3,
       "show_count": 1,
@@ -16574,9 +16606,9 @@
       "url": "/wiki/concepts/bpc157experimentalrepairpeptide/"
     },
     "BRAVOTrial": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7185728420 [SCIM7185728420].md",
@@ -16584,9 +16616,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: The Science of Learning & Speaking Languages | Dr. Eddie Chang",
           "url": "/wiki/sources/essentials-the-science-of-learning-speaking-languages-dr-eddie-chang-scim7185728420/"
+        },
+        {
+          "episode_file": "SCIM2227065926 [SCIM2227065926].md",
+          "key": "the-science-of-learning-speaking-languages-dr-eddie-chang-scim2227065926",
+          "show": "Huberman Lab",
+          "title": "The Science of Learning & Speaking Languages | Dr. Eddie Chang",
+          "url": "/wiki/sources/the-science-of-learning-speaking-languages-dr-eddie-chang-scim2227065926/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-09-30",
       "url": "/wiki/entities/bravotrial/"
     },
     "BaCommanderyLateHan": {
@@ -47278,6 +47317,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/concepts/distributedlocalresilience/"
     },
+    "DistributedSpeechLanguageCircuits": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2227065926 [SCIM2227065926].md",
+          "key": "the-science-of-learning-speaking-languages-dr-eddie-chang-scim2227065926",
+          "show": "Huberman Lab",
+          "title": "The Science of Learning & Speaking Languages | Dr. Eddie Chang",
+          "url": "/wiki/sources/the-science-of-learning-speaking-languages-dr-eddie-chang-scim2227065926/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/distributedspeechlanguagecircuits/"
+    },
     "DiversifiedHappinessPortfolio": {
       "episode_count": 1,
       "show_count": 1,
@@ -51039,9 +51094,9 @@
       "url": "/wiki/entities/edkoch/"
     },
     "EddieChang": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7185728420 [SCIM7185728420].md",
@@ -51049,9 +51104,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: The Science of Learning & Speaking Languages | Dr. Eddie Chang",
           "url": "/wiki/sources/essentials-the-science-of-learning-speaking-languages-dr-eddie-chang-scim7185728420/"
+        },
+        {
+          "episode_file": "SCIM2227065926 [SCIM2227065926].md",
+          "key": "the-science-of-learning-speaking-languages-dr-eddie-chang-scim2227065926",
+          "show": "Huberman Lab",
+          "title": "The Science of Learning & Speaking Languages | Dr. Eddie Chang",
+          "url": "/wiki/sources/the-science-of-learning-speaking-languages-dr-eddie-chang-scim2227065926/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-09-30",
       "url": "/wiki/entities/eddiechang/"
     },
     "EddieWu": {
@@ -163322,6 +163384,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/concepts/socialimitationmarketbubbles/"
     },
+    "SocialImmersionLanguageLearning": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2227065926 [SCIM2227065926].md",
+          "key": "the-science-of-learning-speaking-languages-dr-eddie-chang-scim2227065926",
+          "show": "Huberman Lab",
+          "title": "The Science of Learning & Speaking Languages | Dr. Eddie Chang",
+          "url": "/wiki/sources/the-science-of-learning-speaking-languages-dr-eddie-chang-scim2227065926/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/socialimmersionlanguagelearning/"
+    },
     "SocialIsolationTachykinin": {
       "episode_count": 1,
       "show_count": 1,
@@ -165276,9 +165354,9 @@
       "url": "/wiki/concepts/speechmotorcircuitevolution/"
     },
     "SpeechNeuroprosthetics": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7185728420 [SCIM7185728420].md",
@@ -165286,9 +165364,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: The Science of Learning & Speaking Languages | Dr. Eddie Chang",
           "url": "/wiki/sources/essentials-the-science-of-learning-speaking-languages-dr-eddie-chang-scim7185728420/"
+        },
+        {
+          "episode_file": "SCIM2227065926 [SCIM2227065926].md",
+          "key": "the-science-of-learning-speaking-languages-dr-eddie-chang-scim2227065926",
+          "show": "Huberman Lab",
+          "title": "The Science of Learning & Speaking Languages | Dr. Eddie Chang",
+          "url": "/wiki/sources/the-science-of-learning-speaking-languages-dr-eddie-chang-scim2227065926/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-09-30",
       "url": "/wiki/concepts/speechneuroprosthetics/"
     },
     "SpencerPratt": {

@@ -25996,3 +25996,11 @@ Added source `247-monty-patton-vs-the-nazis-glt2932235302`; created `AlMurray`, 
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-30] ingest | The Science of Learning & Speaking Languages | Dr. Eddie Chang
+
+Added source `the-science-of-learning-speaking-languages-dr-eddie-chang-scim2227065926`; created `AuditoryExperienceDependentCriticalPeriods`, `AwakeCorticalMapping`, `DistributedSpeechLanguageCircuits`, and `SocialImmersionLanguageLearning`; and resynthesized `EddieChang`, `BRAVOTrial`, and `SpeechNeuroprosthetics` from their complete preserved evidence inventories. Core synthesis: speech and language emerge from specialized but distributed auditory, motor, feedback, lexical, semantic, memory, and social-learning systems, while awake mapping and attempted-speech decoding translate that account into function-preserving care and bounded communication restoration. No settled contradiction was adopted beyond the source's explicit revision of a simplistic Broca-centered speaking model. Infant white-noise effects, seizure-like emotional episodes, ketogenic mechanisms, dyslexia, language lateralization, neuroprosthetic performance, and augmentation remain source-scoped public education. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,251-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

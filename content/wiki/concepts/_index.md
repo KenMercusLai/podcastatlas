@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 8960
+wiki_total_pages: 8964
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2495,6 +2495,9 @@ wiki_pages:
   - key: "AuditOpinionRisk"
     title: "Audit Opinion Risk"
     url: "/wiki/concepts/auditopinionrisk/"
+  - key: "AuditoryExperienceDependentCriticalPeriods"
+    title: "Auditory Experience-Dependent Critical Periods"
+    url: "/wiki/concepts/auditoryexperiencedependentcriticalperiods/"
   - key: "AugmentedIntelligence"
     title: "Augmented Intelligence"
     url: "/wiki/concepts/augmentedintelligence/"
@@ -2690,6 +2693,9 @@ wiki_pages:
   - key: "AviationSafetyRules"
     title: "Aviation Safety Rules"
     url: "/wiki/concepts/aviationsafetyrules/"
+  - key: "AwakeCorticalMapping"
+    title: "Awake Cortical Mapping"
+    url: "/wiki/concepts/awakecorticalmapping/"
   - key: "AwarenessMeditationStoryDropping"
     title: "Awareness Meditation Story Dropping"
     url: "/wiki/concepts/awarenessmeditationstorydropping/"

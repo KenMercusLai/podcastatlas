@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 8960
+wiki_total_pages: 8964
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -890,6 +890,9 @@ wiki_pages:
   - key: "DistributedComplicityUnderAuthoritarianism"
     title: "Distributed Complicity Under Authoritarianism"
     url: "/wiki/concepts/distributedcomplicityunderauthoritarianism/"
+  - key: "DistributedSpeechLanguageCircuits"
+    title: "Distributed Speech-Language Circuits"
+    url: "/wiki/concepts/distributedspeechlanguagecircuits/"
   - key: "DistributionBeforeMonetization"
     title: "Distribution Before Monetization"
     url: "/wiki/concepts/distributionbeforemonetization/"

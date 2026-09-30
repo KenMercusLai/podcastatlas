@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1342
+topic_total_pages: 1347
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -169,6 +169,9 @@ topic_concepts:
   - key: "AssistedReproductionDecisionLiteracy"
     title: "Assisted Reproduction Decision Literacy"
     url: "/wiki/concepts/assistedreproductiondecisionliteracy/"
+  - key: "AuditoryExperienceDependentCriticalPeriods"
+    title: "Auditory Experience-Dependent Critical Periods"
+    url: "/wiki/concepts/auditoryexperiencedependentcriticalperiods/"
   - key: "AustralianNonTraditionalMedicineTradition"
     title: "Australian Non-Traditional Medicine Tradition / 澳洲非传统医疗传统"
     url: "/wiki/concepts/australiannontraditionalmedicinetradition/"
@@ -178,6 +181,9 @@ topic_concepts:
   - key: "AvailabilityHeuristic"
     title: "Availability Heuristic"
     url: "/wiki/concepts/availabilityheuristic/"
+  - key: "AwakeCorticalMapping"
+    title: "Awake Cortical Mapping"
+    url: "/wiki/concepts/awakecorticalmapping/"
   - key: "AweEmotion"
     title: "Awe Emotion"
     url: "/wiki/concepts/aweemotion/"
@@ -562,6 +568,9 @@ topic_concepts:
   - key: "DiscoveryModel"
     title: "Discovery Model"
     url: "/wiki/concepts/discoverymodel/"
+  - key: "DistributedSpeechLanguageCircuits"
+    title: "Distributed Speech-Language Circuits"
+    url: "/wiki/concepts/distributedspeechlanguagecircuits/"
   - key: "DomainSpecificSuperintelligence"
     title: "Domain-Specific Superintelligence"
     url: "/wiki/concepts/domainspecificsuperintelligence/"
@@ -1954,6 +1963,9 @@ topic_concepts:
   - key: "SocialHomeostasis"
     title: "Social Homeostasis"
     url: "/wiki/concepts/socialhomeostasis/"
+  - key: "SocialImmersionLanguageLearning"
+    title: "Social Immersion in Language Learning"
+    url: "/wiki/concepts/socialimmersionlanguagelearning/"
   - key: "SocialIsolationTachykinin"
     title: "Social Isolation Tachykinin"
     url: "/wiki/concepts/socialisolationtachykinin/"
@@ -3918,6 +3930,9 @@ topic_sources:
   - key: "the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890"
     title: "The Science of Hunger & Medications to Combat Obesity | Dr. Zachary Knight"
     url: "/wiki/sources/the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890/"
+  - key: "the-science-of-learning-speaking-languages-dr-eddie-chang-scim2227065926"
+    title: "The Science of Learning & Speaking Languages | Dr. Eddie Chang"
+    url: "/wiki/sources/the-science-of-learning-speaking-languages-dr-eddie-chang-scim2227065926/"
   - key: "the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449"
     title: "The Science of MDMA & Its Therapeutic Uses: Benefits & Risks"
     url: "/wiki/sources/the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449/"
