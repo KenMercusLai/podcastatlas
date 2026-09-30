@@ -26224,3 +26224,11 @@ Added source `233-the-loch-ness-monster-glt3620889030`; created `LochNessMonster
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | 232. Queen Elizabeth II (Part 2)
+
+Added source `232-queen-elizabeth-ii-part-2-glt5667149245`; created `DianaPrincessOfWales`, `KwameNkrumah`, `HaroldMacmillan`, `PostImperialCommonwealthMonarchy`, `RoyalFamilyMediaVulnerability`, and `MonarchicalAdaptiveContinuity`; and resynthesized `ElizabethII`, `MargaretThatcher`, and `HaroldWilson` from their complete preserved evidence inventories. Core synthesis: Elizabeth II's authority rested on accepting post-imperial political change while preserving a duty-centered office, but modernization through the model-family image increased exposure to tabloid scrutiny, divorce, and new expectations of emotional display; longevity and repeated service later turned restraint into a source of affection and historical continuity. No settled contradiction was adopted. Royal motives, private audiences, influence over decolonisation, Commonwealth reception, public mood, and the claim that the Harry-Meghan conflict was fundamentally American rather than racial remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

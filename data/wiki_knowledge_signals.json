@@ -46621,6 +46621,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/dianamitford/"
     },
+    "DianaPrincessOfWales": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5667149245 [GLT5667149245].md",
+          "key": "232-queen-elizabeth-ii-part-2-glt5667149245",
+          "show": "The Rest Is History",
+          "title": "232. Queen Elizabeth II (Part 2)",
+          "url": "/wiki/sources/232-queen-elizabeth-ii-part-2-glt5667149245/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/dianaprincessofwales/"
+    },
     "DianlingQiang": {
       "episode_count": 3,
       "show_count": 1,
@@ -53366,9 +53382,9 @@
       "url": "/wiki/entities/elizabethi/"
     },
     "ElizabethII": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT8755026279 [GLT8755026279].md",
@@ -53390,9 +53406,16 @@
           "show": "The Rest Is History",
           "title": "290: 2022: A History",
           "url": "/wiki/sources/290-2022-a-history-glt4625765030/"
+        },
+        {
+          "episode_file": "GLT5667149245 [GLT5667149245].md",
+          "key": "232-queen-elizabeth-ii-part-2-glt5667149245",
+          "show": "The Rest Is History",
+          "title": "232. Queen Elizabeth II (Part 2)",
+          "url": "/wiki/sources/232-queen-elizabeth-ii-part-2-glt5667149245/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/elizabethii/"
     },
     "ElizabethanRecusancySecurityState": {
@@ -80365,10 +80388,26 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/haroldgodwinson/"
     },
-    "HaroldWilson": {
-      "episode_count": 6,
+    "HaroldMacmillan": {
+      "episode_count": 1,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5667149245 [GLT5667149245].md",
+          "key": "232-queen-elizabeth-ii-part-2-glt5667149245",
+          "show": "The Rest Is History",
+          "title": "232. Queen Elizabeth II (Part 2)",
+          "url": "/wiki/sources/232-queen-elizabeth-ii-part-2-glt5667149245/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/haroldmacmillan/"
+    },
+    "HaroldWilson": {
+      "episode_count": 7,
+      "show_count": 1,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "GLT2308408988 [GLT2308408988].md",
@@ -80411,9 +80450,16 @@
           "show": "The Rest Is History",
           "title": "418. Britain in 1974: The Crisis Election (Part 2)",
           "url": "/wiki/sources/418-britain-in-1974-the-crisis-election-part-2-glt9690615062/"
+        },
+        {
+          "episode_file": "GLT5667149245 [GLT5667149245].md",
+          "key": "232-queen-elizabeth-ii-part-2-glt5667149245",
+          "show": "The Rest Is History",
+          "title": "232. Queen Elizabeth II (Part 2)",
+          "url": "/wiki/sources/232-queen-elizabeth-ii-part-2-glt5667149245/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/haroldwilson/"
     },
     "HarryingOfTheNorth": {
@@ -102721,6 +102767,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/kush/"
     },
+    "KwameNkrumah": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5667149245 [GLT5667149245].md",
+          "key": "232-queen-elizabeth-ii-part-2-glt5667149245",
+          "show": "The Rest Is History",
+          "title": "232. Queen Elizabeth II (Part 2)",
+          "url": "/wiki/sources/232-queen-elizabeth-ii-part-2-glt5667149245/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/kwamenkrumah/"
+    },
     "KwasiKwarteng": {
       "episode_count": 1,
       "show_count": 1,
@@ -118327,9 +118389,9 @@
       "url": "/wiki/entities/marcusreno/"
     },
     "MargaretThatcher": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "81.间谍与叛徒：恕我直言，007的故事弱爆了 (下) [693711209].md",
@@ -118358,9 +118420,16 @@
           "show": "The Rest Is History",
           "title": "371. The 1973 Chilean Coup: General Pinochet Seizes Power (Part 2)",
           "url": "/wiki/sources/371-the-1973-chilean-coup-general-pinochet-seizes-power-part-2-glt3740766328/"
+        },
+        {
+          "episode_file": "GLT5667149245 [GLT5667149245].md",
+          "key": "232-queen-elizabeth-ii-part-2-glt5667149245",
+          "show": "The Rest Is History",
+          "title": "232. Queen Elizabeth II (Part 2)",
+          "url": "/wiki/sources/232-queen-elizabeth-ii-part-2-glt5667149245/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/margaretthatcher/"
     },
     "MarginTradingForcedSelling": {
@@ -125432,6 +125501,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/monalisafameformation/"
+    },
+    "MonarchicalAdaptiveContinuity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5667149245 [GLT5667149245].md",
+          "key": "232-queen-elizabeth-ii-part-2-glt5667149245",
+          "show": "The Rest Is History",
+          "title": "232. Queen Elizabeth II (Part 2)",
+          "url": "/wiki/sources/232-queen-elizabeth-ii-part-2-glt5667149245/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/monarchicaladaptivecontinuity/"
     },
     "MonarchicalRecognitionLegitimacy": {
       "episode_count": 2,
@@ -142824,6 +142909,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/concepts/posthandoverhongkonggovernance/"
     },
+    "PostImperialCommonwealthMonarchy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5667149245 [GLT5667149245].md",
+          "key": "232-queen-elizabeth-ii-part-2-glt5667149245",
+          "show": "The Rest Is History",
+          "title": "232. Queen Elizabeth II (Part 2)",
+          "url": "/wiki/sources/232-queen-elizabeth-ii-part-2-glt5667149245/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/postimperialcommonwealthmonarchy/"
+    },
     "PostImperialIdentityGap": {
       "episode_count": 1,
       "show_count": 1,
@@ -156015,6 +156116,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/royalexecutionlegitimacy/"
+    },
+    "RoyalFamilyMediaVulnerability": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5667149245 [GLT5667149245].md",
+          "key": "232-queen-elizabeth-ii-part-2-glt5667149245",
+          "show": "The Rest Is History",
+          "title": "232. Queen Elizabeth II (Part 2)",
+          "url": "/wiki/sources/232-queen-elizabeth-ii-part-2-glt5667149245/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/royalfamilymediavulnerability/"
     },
     "RoyalFiefDiscipline": {
       "episode_count": 1,

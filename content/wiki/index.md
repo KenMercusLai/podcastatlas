@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [232. Queen Elizabeth II (Part 2)](sources/232-queen-elizabeth-ii-part-2-glt5667149245.md) — The Rest Is History episode on Elizabeth II's Commonwealth role, media-era family crisis, emotional expectations, late-reign duty, and adaptive continuity.
 - [233. The Loch Ness Monster](sources/233-the-loch-ness-monster-glt3620889030.md) — The Rest Is History episode on Nessie as a media-formed Highland legend shaped by saintly narrative, access, hoaxes, tourism, exploration nostalgia, and conservation longing.
 - [The Biology of Aggression, Mating, & Arousal | Dr. David Anderson](sources/the-biology-of-aggression-mating-arousal-dr-david-anderson-scim2527130481.md) — Full Huberman Lab interview on circuit-specific arousal, VMH aggression and fear hierarchy, mating-circuit competition, hormone context, PAG routing, isolation-linked tachykinins, and bidirectional brain-body emotion signaling.
 - [234. Germans Behaving Badly](sources/234-germans-behaving-badly-glt7143029609.md) — The Rest Is History conversation with Andrea Wulf on Jena Romanticism, responsible selfhood, nature, hidden intellectual labor, personal conflict, and the movement's Napoleonic ending.
@@ -3332,6 +3333,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Who's Gonna Pay for Your Social Security?](sources/default-mp3-ywr3ahjkcgo-fa7b2a90f9b1f7efc01397a3ed4ae0bf-30494375-default-mp3-ywr3ahjkcgo-fa7b2a90f9b1f7efc01397a3ed4ae0bf-30494375.md) — Planet Money episode comparing the financing scale and distributional costs of Social Security reform options.
 
 ## Entities
+- [Diana, Princess of Wales](entities/DianaPrincessOfWales.md) — Royal figure whose marriage crisis, emotional public style, and death exposed the monarchy's model-family vulnerability.
+- [Kwame Nkrumah](entities/KwameNkrumah.md) — Ghanaian leader whose 1961 dance with Elizabeth II became a symbol of post-imperial accommodation.
+- [Harold Macmillan](entities/HaroldMacmillan.md) — British prime minister whose “winds of change” position represented governmental acceptance of African decolonisation.
 - [Loch Ness Monster](entities/LochNessMonster.md) — Legendary Scottish cryptid whose modern long-necked form emerged through 1933-34 sightings, media circulation, and hoax evidence.
 - [Loch Ness](entities/LochNess.md) — Deep Highland loch whose geography, changing access, and tourism made it a persuasive stage for hidden-creature stories.
 - [Saint Columba](entities/SaintColumba.md) — Sixth-century missionary whose later saint's life contains the River Ness water-beast precedent recruited into Nessie history.
@@ -14879,7 +14883,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dunstan](entities/Dunstan.md) — Archbishop who likely shaped Edgar's 973 coronation and the later Canterbury crowning precedent.
 - [Stone of Scone](entities/StoneOfScone.md) — Contested Scottish coronation object whose authority joins territorial kingship, legend, conquest, and Westminster.
 - [George IV](entities/GeorgeIV.md) — British monarch whose extravagant coronation joined antiquarian theatre, marital exclusion, grandeur, and farce.
-- [Elizabeth II](entities/ElizabethII.md) — British monarch whose sacramental television-era coronation and 2022 public mourning joined old ritual to mass participation.
+- [Elizabeth II](entities/ElizabethII.md) — British and Commonwealth monarch whose sacred duty, selective adaptation, longevity, and public service sustained continuity through decolonisation and media-era crisis.
 - [Charles III](entities/CharlesIII.md) — British monarch whose planned 2023 coronation renewed the question of sacral meaning in a more sceptical public culture.
 - [William III](entities/WilliamIII.md) — Dutch Protestant ruler whose joint coronation with Mary II helped publicize the post-Glorious Revolution settlement.
 - [Mary II](entities/MaryII.md) — Daughter of James II and joint monarch whose 1689 coronation made an unusual Protestant succession publicly legible.
@@ -14984,6 +14988,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Steve Goss](entities/SteveGoss.md) — Former Social Security chief actuary assessing the scale, feasibility, and timing of reform options.
 
 ## Concepts
+- [Post-Imperial Commonwealth Monarchy](concepts/PostImperialCommonwealthMonarchy.md) — Adaptation of the Crown from imperial apex to plural symbolic and constitutional relationships with independent states and realms.
+- [Royal Family Media Vulnerability](concepts/RoyalFamilyMediaVulnerability.md) — Exposure created when monarchy seeks legitimacy through intimate presentation as an exemplary family.
+- [Monarchical Adaptive Continuity](concepts/MonarchicalAdaptiveContinuity.md) — Preservation of symbolic continuity through selective change anchored by a stable ethic of office.
 - [Cryptid Legend Formation](concepts/CryptidLegendFormation.md) — Process by which sparse precedents, ambiguous sightings, place, access, media templates, and tourism form a standardized modern creature.
 - [Media–Evidence Feedback Loop](concepts/MediaEvidenceFeedbackLoop.md) — Cycle in which publicity shapes expected evidence and later matching reports are mistaken for independent confirmation.
 - [Wilderness Mystery Longing](concepts/WildernessMysteryLonging.md) — Desire for remote landscapes and threatened nature to retain unknown creatures despite expanding knowledge and control.

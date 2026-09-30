@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2961
+topic_total_pages: 2964
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2383,6 +2383,9 @@ topic_concepts:
   - key: "Route66NostalgiaTourism"
     title: "Route 66 Nostalgia Tourism"
     url: "/wiki/concepts/route66nostalgiatourism/"
+  - key: "RoyalFamilyMediaVulnerability"
+    title: "Royal Family Media Vulnerability"
+    url: "/wiki/concepts/royalfamilymediavulnerability/"
   - key: "RuleShiftingMathematics"
     title: "Rule-Shifting Mathematics"
     url: "/wiki/concepts/ruleshiftingmathematics/"
@@ -3833,6 +3836,9 @@ topic_entities:
   - key: "DharmendraPradhan"
     title: "Dharmendra Pradhan"
     url: "/wiki/entities/dharmendrapradhan/"
+  - key: "DianaPrincessOfWales"
+    title: "Diana, Princess of Wales"
+    url: "/wiki/entities/dianaprincessofwales/"
   - key: "DiegoRivera"
     title: "Diego Rivera"
     url: "/wiki/entities/diegorivera/"
@@ -8106,6 +8112,9 @@ topic_sources:
   - key: "22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427"
     title: "22.足球经济学：读者不必是球迷"
     url: "/wiki/sources/22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427/"
+  - key: "232-queen-elizabeth-ii-part-2-glt5667149245"
+    title: "232. Queen Elizabeth II (Part 2)"
+    url: "/wiki/sources/232-queen-elizabeth-ii-part-2-glt5667149245/"
   - key: "242-french-history-on-film-glt2672520929"
     title: "242. French History on Film"
     url: "/wiki/sources/242-french-history-on-film-glt2672520929/"

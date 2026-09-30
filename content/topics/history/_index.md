@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2254
+topic_total_pages: 2255
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4770,6 +4770,9 @@ topic_sources:
   - key: "171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962"
     title: "171.闲聊十二生肖之马：观音大士的兴趣爱好,及老头环角色的灵感"
     url: "/wiki/sources/171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962/"
+  - key: "232-queen-elizabeth-ii-part-2-glt5667149245"
+    title: "232. Queen Elizabeth II (Part 2)"
+    url: "/wiki/sources/232-queen-elizabeth-ii-part-2-glt5667149245/"
   - key: "233-the-loch-ness-monster-glt3620889030"
     title: "233. The Loch Ness Monster"
     url: "/wiki/sources/233-the-loch-ness-monster-glt3620889030/"

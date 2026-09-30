@@ -1374,6 +1374,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "232-queen-elizabeth-ii-part-2-glt5667149245": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "233-the-loch-ness-monster-glt3620889030": [
     {
       "key": "history",
@@ -25187,6 +25199,13 @@
       "url": "/topics/science/"
     }
   ],
+  "DianaPrincessOfWales": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "DianeKPMGChiefEconomist": [
     {
       "key": "economics",
@@ -37306,6 +37325,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "HaroldMacmillan": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "HaroldWilson": [
@@ -66733,6 +66759,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "RoyalFamilyMediaVulnerability": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "RoyalFiefDiscipline": [

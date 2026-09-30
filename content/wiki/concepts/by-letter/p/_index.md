@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9009
+wiki_total_pages: 9012
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1274,6 +1274,9 @@ wiki_pages:
   - key: "PostHarmFoodRegulation"
     title: "Post-Harm Food Regulation"
     url: "/wiki/concepts/postharmfoodregulation/"
+  - key: "PostImperialCommonwealthMonarchy"
+    title: "Post-Imperial Commonwealth Monarchy"
+    url: "/wiki/concepts/postimperialcommonwealthmonarchy/"
   - key: "PostImperialIdentityGap"
     title: "Post-Imperial Identity Gap / 后帝国身份落差"
     url: "/wiki/concepts/postimperialidentitygap/"

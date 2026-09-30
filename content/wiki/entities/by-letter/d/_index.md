@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 11618
+wiki_total_pages: 11621
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -578,6 +578,9 @@ wiki_pages:
   - key: "DianaMitford"
     title: "Diana Mitford"
     url: "/wiki/entities/dianamitford/"
+  - key: "DianaPrincessOfWales"
+    title: "Diana, Princess of Wales"
+    url: "/wiki/entities/dianaprincessofwales/"
   - key: "DianeKPMGChiefEconomist"
     title: "Diane (KPMG Chief Economist)"
     url: "/wiki/entities/dianekpmgchiefeconomist/"

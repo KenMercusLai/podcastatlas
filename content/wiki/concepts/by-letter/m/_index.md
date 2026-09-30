@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9009
+wiki_total_pages: 9012
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1151,6 +1151,9 @@ wiki_pages:
   - key: "MonaLisaFameFormation"
     title: "Mona Lisa Fame Formation"
     url: "/wiki/concepts/monalisafameformation/"
+  - key: "MonarchicalAdaptiveContinuity"
+    title: "Monarchical Adaptive Continuity"
+    url: "/wiki/concepts/monarchicaladaptivecontinuity/"
   - key: "MonarchicalRecognitionLegitimacy"
     title: "Monarchical Recognition Legitimacy"
     url: "/wiki/concepts/monarchicalrecognitionlegitimacy/"
