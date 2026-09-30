@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3236
+topic_total_pages: 3237
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1321,6 +1321,9 @@ topic_concepts:
   - key: "CableNetworkResilience"
     title: "Cable Network Resilience"
     url: "/wiki/concepts/cablenetworkresilience/"
+  - key: "CablewayAssetEconomics"
+    title: "Cableway Asset Economics / 景区索道资产经济"
+    url: "/wiki/concepts/cablewayasseteconomics/"
   - key: "CalculationIntegrityAttack"
     title: "Calculation Integrity Attack"
     url: "/wiki/concepts/calculationintegrityattack/"

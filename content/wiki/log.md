@@ -25721,3 +25721,11 @@ Added source `272-senegal-the-door-of-no-return-glt8611353465`; created `Goree`,
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-30] ingest | 索道赚钱能力堪比茅台，山岳景区为何还在为增长发愁？
+
+Added source `suodao-zhuanqian-nengli-kanbi-maotai-shanyue-jingqu-weihe-hai-zai-wei-zengzhang-fachou-1020019950`; created `CablewayAssetEconomics` and `MountainScenicAreaGrowthConstraint`. Core synthesis: constrained approvals, strong visitor utility, pricing flexibility, and relatively fixed mature costs can make scenic cableways exceptionally profitable, but an access asset cannot by itself create dwell time, ancillary spending, repeat visitation, or fit with demand for deeper outdoor experience. No settled contradiction was adopted. Company news, cableway counts and margins, visitor and revenue growth, queue reports, and audience-demand trends remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

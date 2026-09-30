@@ -12335,6 +12335,10 @@
     "title": "Cable Network Resilience",
     "url": "/wiki/concepts/cablenetworkresilience/"
   },
+  "CablewayAssetEconomics": {
+    "title": "Cableway Asset Economics / 景区索道资产经济",
+    "url": "/wiki/concepts/cablewayasseteconomics/"
+  },
   "CactusFlowerStory": {
     "title": "《仙人掌之花》",
     "url": "/wiki/entities/cactusflowerstory/"
@@ -50535,6 +50539,10 @@
     "title": "Mountain Pass Rare Earth Mine",
     "url": "/wiki/entities/mountainpassrareearthmine/"
   },
+  "MountainScenicAreaGrowthConstraint": {
+    "title": "Mountain Scenic-Area Growth Constraint / 山岳景区增长约束",
+    "url": "/wiki/concepts/mountainscenicareagrowthconstraint/"
+  },
   "MourningDiplomaticRestraint": {
     "title": "趁丧不伐 / Mourning Diplomatic Restraint",
     "url": "/wiki/concepts/mourningdiplomaticrestraint/"
@@ -87542,6 +87550,10 @@
   "sun-bum-tom-rinks-the-secrets-of-a-master-brand-builder-2023-77ab41eb-99a8-4dd2-ae39-d066818afc21": {
     "title": "Sun Bum: Tom Rinks. The Secrets of a Master Brand Builder (2023)",
     "url": "/wiki/sources/sun-bum-tom-rinks-the-secrets-of-a-master-brand-builder-2023-77ab41eb-99a8-4dd2-ae39-d066818afc21/"
+  },
+  "suodao-zhuanqian-nengli-kanbi-maotai-shanyue-jingqu-weihe-hai-zai-wei-zengzhang-fachou-1020019950": {
+    "title": "索道赚钱能力堪比茅台，山岳景区为何还在为增长发愁？",
+    "url": "/wiki/sources/suodao-zhuanqian-nengli-kanbi-maotai-shanyue-jingqu-weihe-hai-zai-wei-zengzhang-fachou-1020019950/"
   },
   "suoyou-jingzhi-quxian-beihou-doushi-ren-zhengtai-fenbu-de-putongren-lsnrkqhtktjlmrscow2-mt2df0yq": {
     "title": "所有净值曲线背后都是人，正态分布的普通人",

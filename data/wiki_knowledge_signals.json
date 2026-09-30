@@ -23340,6 +23340,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/cabinetexhaustionmanagement/"
     },
+    "CablewayAssetEconomics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "索道赚钱能力堪比茅台，山岳景区为何还在为增长发愁？ [1020019950].md",
+          "key": "suodao-zhuanqian-nengli-kanbi-maotai-shanyue-jingqu-weihe-hai-zai-wei-zengzhang-fachou-1020019950",
+          "show": "声动早咖啡",
+          "title": "索道赚钱能力堪比茅台，山岳景区为何还在为增长发愁？",
+          "url": "/wiki/sources/suodao-zhuanqian-nengli-kanbi-maotai-shanyue-jingqu-weihe-hai-zai-wei-zengzhang-fachou-1020019950/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/cablewayasseteconomics/"
+    },
     "Cadbury": {
       "episode_count": 1,
       "show_count": 1,
@@ -122319,6 +122335,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/concepts/mountainbasestrategicoptionality/"
+    },
+    "MountainScenicAreaGrowthConstraint": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "索道赚钱能力堪比茅台，山岳景区为何还在为增长发愁？ [1020019950].md",
+          "key": "suodao-zhuanqian-nengli-kanbi-maotai-shanyue-jingqu-weihe-hai-zai-wei-zengzhang-fachou-1020019950",
+          "show": "声动早咖啡",
+          "title": "索道赚钱能力堪比茅台，山岳景区为何还在为增长发愁？",
+          "url": "/wiki/sources/suodao-zhuanqian-nengli-kanbi-maotai-shanyue-jingqu-weihe-hai-zai-wei-zengzhang-fachou-1020019950/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/mountainscenicareagrowthconstraint/"
     },
     "MourningDiplomaticRestraint": {
       "episode_count": 1,

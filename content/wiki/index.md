@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [索道赚钱能力堪比茅台，山岳景区为何还在为增长发愁？](sources/suodao-zhuanqian-nengli-kanbi-maotai-shanyue-jingqu-weihe-hai-zai-wei-zengzhang-fachou-1020019950.md) — 声动早咖啡 episode on high-margin cableway economics, weak destination-level conversion, hotel tradeoffs, capacity, and the shift from fixed-route sightseeing toward deeper outdoor experiences.
 - [272: Senegal: The Door of No Return](sources/272-senegal-the-door-of-no-return-glt8611353465.md) — The Rest Is History episode on Gorée, the disputed House of Slaves embarkation narrative, African American pilgrimage, and the boundary between historical evidence and symbolic memory.
 - [273: Portugal: The Carnation Revolution](sources/273-portugal-the-carnation-revolution-glt3297148398.md) — The Rest Is History episode on Estado Novo collapse, colonial-war and officer pressures, the April 1974 coup, revolutionary instability, and democratic consolidation.
 - [274: Switzerland: Calvin's Cancel Culture](sources/274-switzerland-calvins-cancel-culture-glt2874543265.md) — The Rest Is History episode on Calvin's Geneva, Michael Servetus's execution, confessional discipline, and the Reformation boundary between refuge and liberty of conscience.
@@ -14768,6 +14769,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Geneva](entities/Geneva.md) — Protestant refuge and city-state whose consistory discipline and Servetus trial joined sanctuary to coercive confessional rule.
 
 ## Concepts
+- [Cableway Asset Economics / 景区索道资产经济](concepts/CablewayAssetEconomics.md) — How constrained supply, visitor utility, flexible charging, and mature fixed costs can produce high cableway margins without assuring destination growth.
+- [Mountain Scenic-Area Growth Constraint / 山岳景区增长约束](concepts/MountainScenicAreaGrowthConstraint.md) — Gap between transporting visitors efficiently and building dwell time, spending, repeat demand, and safe deeper outdoor experience within capacity limits.
 - [Contested Heritage Pilgrimage](concepts/ContestedHeritagePilgrimage.md) — Framework separating a disputed site's material history from its real commemorative, ancestral, and ritual power.
 - [Memorial Audience Framing](concepts/MemorialAudienceFraming.md) — Process by which visitor identity, access, and tourism shape which parts of a transnational history a memorial foregrounds.
 - [Estado Novo (Portugal)](concepts/EstadoNovoPortugal.md) — Portuguese authoritarian order whose colonial, fiscal, reform, and military pressures converged in its 1974 collapse.
