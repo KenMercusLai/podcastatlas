@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [239. Young Churchill: Born to Lead (Part 1)](sources/239-young-churchill-born-to-lead-part-1-glt1969009161.md) — The Rest Is History episode on Churchill's aristocratic childhood, emotional neglect, destiny belief, schooling, risk-taking, and entry to Sandhurst.
 - [The Effects of Cannabis (Marijuana) on the Brain & Body](sources/the-effects-of-cannabis-marijuana-on-the-brain-body-scim1203833427.md) — Huberman Lab solo episode on endocannabinoid mechanisms, acute and chronic cannabis effects, developmental risk, and strain, psychosis, CBD, and medical-use claims later bounded by corrective evidence.
 - [240. Young Churchill: Soldier of Empire (Part 2)](sources/240-young-churchill-soldier-of-empire-part-2-glt4710302249.md) — The Rest Is History episode on Churchill's Cuba, India, Malakand, and Omdurman apprenticeship, joining war reporting and self-education to imperial confidence and moral unease.
 - [Can data centers ever be good neighbors?](sources/tech-20260930-mp-tech-pod-128-tech-20260930-mp-tech-pod-128.md) — Marketplace Tech interview with Scott Brennan on concentrated local data-center costs, community benefit agreements, onsite-power tradeoffs, and why weak delivery histories turn incentives into a trust problem.
@@ -3320,6 +3321,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [当眼镜、耳机、手机都有 AI，谁来统一你的「第二大脑」｜ 2026 高通骁龙峰会 S10E31](sources/dang-yanjing-erji-shouji-dou-you-ai-shui-lai-tongyi-ni-de-di-er-danao-2026-gaotong-xiaolong-fenghui-s10e31-2d6bfcec-31c3-4ef2-981f-6dc2864cf92d.md) — What's Next｜科技早知道 episode on distributed AI devices, the phone as coordination hub, local-first multimodal memory, cross-device interoperability, and Qualcomm's platform ambitions.
 
 ## Entities
+- [Jennie Jerome](entities/JennieJerome.md) — Winston Churchill's admired but emotionally distant American mother and Lord Randolph Churchill's wife.
+- [Elizabeth Everest](entities/ElizabethEverest.md) — Churchill's nanny and the most dependable source of affection in the episode's childhood account.
 - [Lord Randolph Churchill](entities/LordRandolphChurchill.md) — Winston Churchill's admired but critical father, whose death intensified the episode's account of Winston's drive for achievement.
 - [Burke Cochran](entities/BurkeCochran.md) — American congressman and orator presented as an important model for Churchill's public speaking.
 - [Herbert Kitchener](entities/HerbertKitchener.md) — Sudan commander whose military victory and treatment of the defeated drew Churchill's criticism.
@@ -14951,6 +14954,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Modular](entities/ModularAI.md) — AI software-infrastructure company whose Mojo and MAX stack is presented as supporting cross-hardware model deployment.
 
 ## Concepts
+- [Destiny-Driven Self-Construction](concepts/DestinyDrivenSelfConstruction.md) — Process joining inherited narrative, family longing, cultural scripts, urgency, action, and retrospective memory into a durable sense of historical purpose.
 - [Romanticized War Moral Ambivalence](concepts/RomanticizedWarMoralAmbivalence.md) — Coexistence of attraction to danger and martial glory with admiration for enemies, awareness of suffering, and revulsion at cruelty.
 - [Imperial Adventure Public Mythmaking](concepts/ImperialAdventurePublicMythmaking.md) — Process by which real danger, narrative control, press timing, and national morale convert colonial adventure into political celebrity.
 - [Imperial War Resource Motive](concepts/ImperialWarResourceMotive.md) — Framework separating formal war sequence and public grievance from overlapping commodity and strategic incentives.

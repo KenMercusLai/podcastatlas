@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 8987
+wiki_total_pages: 8988
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -545,6 +545,9 @@ wiki_pages:
   - key: "Desktop3DPrintingEconomy"
     title: "Desktop 3D Printing Economy"
     url: "/wiki/concepts/desktop3dprintingeconomy/"
+  - key: "DestinyDrivenSelfConstruction"
+    title: "Destiny-Driven Self-Construction"
+    url: "/wiki/concepts/destinydrivenselfconstruction/"
   - key: "DetailBasedCrisisDetection"
     title: "Detail-Based Crisis Detection / 细节式危机识别"
     url: "/wiki/concepts/detailbasedcrisisdetection/"

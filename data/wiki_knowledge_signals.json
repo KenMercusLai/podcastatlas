@@ -46093,6 +46093,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/desktop3dprintingeconomy/"
     },
+    "DestinyDrivenSelfConstruction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1969009161 [GLT1969009161].md",
+          "key": "239-young-churchill-born-to-lead-part-1-glt1969009161",
+          "show": "The Rest Is History",
+          "title": "239. Young Churchill: Born to Lead (Part 1)",
+          "url": "/wiki/sources/239-young-churchill-born-to-lead-part-1-glt1969009161/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/destinydrivenselfconstruction/"
+    },
     "DeterministicDataAgentValidation": {
       "episode_count": 1,
       "show_count": 1,
@@ -53002,6 +53018,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/elizahamilton/"
+    },
+    "ElizabethEverest": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1969009161 [GLT1969009161].md",
+          "key": "239-young-churchill-born-to-lead-part-1-glt1969009161",
+          "show": "The Rest Is History",
+          "title": "239. Young Churchill: Born to Lead (Part 1)",
+          "url": "/wiki/sources/239-young-churchill-born-to-lead-part-1-glt1969009161/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/elizabetheverest/"
     },
     "ElizabethI": {
       "episode_count": 7,
@@ -95917,6 +95949,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/jeffreyhollender/"
     },
+    "JennieJerome": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1969009161 [GLT1969009161].md",
+          "key": "239-young-churchill-born-to-lead-part-1-glt1969009161",
+          "show": "The Rest Is History",
+          "title": "239. Young Churchill: Born to Lead (Part 1)",
+          "url": "/wiki/sources/239-young-churchill-born-to-lead-part-1-glt1969009161/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/jenniejerome/"
+    },
     "JenniferKing": {
       "episode_count": 1,
       "show_count": 1,
@@ -112344,9 +112392,9 @@
       "url": "/wiki/entities/lordoftheflies/"
     },
     "LordRandolphChurchill": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4710302249 [GLT4710302249].md",
@@ -112354,9 +112402,16 @@
           "show": "The Rest Is History",
           "title": "240. Young Churchill: Soldier of Empire (Part 2)",
           "url": "/wiki/sources/240-young-churchill-soldier-of-empire-part-2-glt4710302249/"
+        },
+        {
+          "episode_file": "GLT1969009161 [GLT1969009161].md",
+          "key": "239-young-churchill-born-to-lead-part-1-glt1969009161",
+          "show": "The Rest Is History",
+          "title": "239. Young Churchill: Born to Lead (Part 1)",
+          "url": "/wiki/sources/239-young-churchill-born-to-lead-part-1-glt1969009161/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/lordrandolphchurchill/"
     },
     "LordsAppellant": {
@@ -189943,9 +189998,9 @@
       "url": "/wiki/entities/winsentertainment/"
     },
     "WinstonChurchill": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT1275431911 [GLT1275431911].md",
@@ -189981,9 +190036,16 @@
           "show": "The Rest Is History",
           "title": "240. Young Churchill: Soldier of Empire (Part 2)",
           "url": "/wiki/sources/240-young-churchill-soldier-of-empire-part-2-glt4710302249/"
+        },
+        {
+          "episode_file": "GLT1969009161 [GLT1969009161].md",
+          "key": "239-young-churchill-born-to-lead-part-1-glt1969009161",
+          "show": "The Rest Is History",
+          "title": "239. Young Churchill: Born to Lead (Part 1)",
+          "url": "/wiki/sources/239-young-churchill-born-to-lead-part-1-glt1969009161/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/winstonchurchill/"
     },
     "WinterRespiratoryInfectionRisk": {
