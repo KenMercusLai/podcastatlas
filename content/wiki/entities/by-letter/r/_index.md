@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 11574
+wiki_total_pages: 11578
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -458,6 +458,9 @@ wiki_pages:
   - key: "RickyAlam"
     title: "Ricky Alam"
     url: "/wiki/entities/rickyalam/"
+  - key: "RidiculeFilm"
+    title: "Ridicule (film)"
+    url: "/wiki/entities/ridiculefilm/"
   - key: "RidolfiPlot"
     title: "Ridolfi Plot"
     url: "/wiki/entities/ridolfiplot/"

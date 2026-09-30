@@ -1374,6 +1374,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "242-french-history-on-film-glt2672520929": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "243-trafalgar-a-world-at-war-part-1-glt3542298238": [
     {
       "key": "history",
@@ -19530,6 +19542,18 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "CinemaAsNationalMemory": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "CircadianRhythmExperimentation": [
@@ -38196,6 +38220,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "HistoricalWorldviewReconstruction": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "HistoriographicalPresentism": [
     {
       "key": "history",
@@ -45682,6 +45718,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "LaChinoiseFilm": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "LaborMarketCounterforces": [
     {
       "key": "politics",
@@ -46220,6 +46263,13 @@
       "url": "/topics/history/"
     }
   ],
+  "LeCorbeauFilm": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "LeEco": [
     {
       "key": "technology",
@@ -46705,6 +46755,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "LesEnfantsDuParadisFilm": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "LeslieGroves": [
@@ -65487,6 +65544,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "RidiculeFilm": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "RifWar": [

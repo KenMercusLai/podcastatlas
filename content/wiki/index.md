@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [242. French History on Film](sources/242-french-history-on-film-glt2672520929.md) — The Rest Is History episode on historical worldview, French cinema, national memory, Occupation allegory, May 1968, and the cultural significance of omission and changing reception.
 - [246. The Fall of Liz Truss](sources/246-the-fall-of-liz-truss-glt3484252092.md) — The Rest Is History episode on Truss's 45-day premiership, activist leader selection, cascading authority loss, competing Brexit programmes, and energy-driven industrial risk.
 - [247. Monty & Patton vs. the Nazis](sources/247-monty-patton-vs-the-nazis-glt2932235302.md) — The Rest Is History episode with Al Murray on morale, logistics, staff work, public image, institutional learning, and the continuing role of commanders in industrial war.
 - [248. Medieval Treason (Part 1)](sources/248-medieval-treason-part-1-glt9532907553.md) — The Rest Is History episode on the Treason Act 1351/1352, medieval royal allegiance, attainder, exemplary punishment, Tudor legal expansion, and the shift toward institutional treason.
@@ -3308,6 +3309,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Fitness Toolkit: Protocol & Tools to Optimize Physical Health](sources/fitness-toolkit-protocol-tools-to-optimize-physical-health-scim2940233129.md) — Huberman Lab solo episode presenting an adaptable weekly mix of endurance, resistance work, intervals, recovery, mobility, and return-to-training constraints.
 
 ## Entities
+- [La Chinoise](entities/LaChinoiseFilm.md) — Godard's 1967 Maoist student film, read as a self-critical cinematic anticipation of May 1968.
+- [Le Corbeau](entities/LeCorbeauFilm.md) — Clouzot's poison-pen drama, interpreted as an Occupation allegory of informing and social mistrust.
+- [Les Enfants du Paradis](entities/LesEnfantsDuParadisFilm.md) — Occupation-made reconstruction of nineteenth-century theatrical Paris and cultural survival.
+- [Ridicule (film)](entities/RidiculeFilm.md) — Versailles drama about wit, access, exclusion, and historically reconstructed social rules.
 - [Liz Truss](entities/LizTruss.md) — British prime minister whose 45-day tenure became a case of rapid policy and political-authority collapse.
 - [Kwasi Kwarteng](entities/KwasiKwarteng.md) — Truss's chancellor, associated with the mini-budget and the failed attempt to restore authority by dismissing a close ally.
 - [Rishi Sunak](entities/RishiSunak.md) — Conservative leadership rival used to examine activist preference, competence, authenticity, and succession resentment.
@@ -14913,6 +14918,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Royal Navy](entities/RoyalNavy.md) — British maritime institution synthesized through finance, administration, training, logistics, health, dockyards, gunnery, and command culture.
 
 ## Concepts
+- [Cinema as National Memory](concepts/CinemaAsNationalMemory.md) — How film confirms, revises, domesticates, or avoids inherited national histories.
+- [Historical Worldview Reconstruction](concepts/HistoricalWorldviewReconstruction.md) — Making past beliefs, incentives, and status codes causally govern historical drama.
 - [Party-Membership Leadership Selection](concepts/PartyMembershipLeadershipSelection.md) — Tradeoff between wider internal participation and the representativeness, parliamentary support, and governing viability of party leaders.
 - [Political Authority Collapse Cascade](concepts/PoliticalAuthorityCollapseCascade.md) — Sequence in which policy failure, forced reversal, ally sacrifice, and elite defection reveal and accelerate a leader's loss of control.
 - [Systems-Era Generalship](concepts/SystemsEraGeneralship.md) — Command in industrial mass warfare as the integration of institutions, logistics, staff work, morale, communication, and judgment.

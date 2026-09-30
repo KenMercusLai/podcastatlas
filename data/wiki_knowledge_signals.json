@@ -32907,6 +32907,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/entities/cicero/"
     },
+    "CinemaAsNationalMemory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2672520929 [GLT2672520929].md",
+          "key": "242-french-history-on-film-glt2672520929",
+          "show": "The Rest Is History",
+          "title": "242. French History on Film",
+          "url": "/wiki/sources/242-french-history-on-film-glt2672520929/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/cinemaasnationalmemory/"
+    },
     "CircadianEatingWindowAlignment": {
       "episode_count": 2,
       "show_count": 1,
@@ -67308,6 +67324,29 @@
       "updated": "2026-09-23",
       "url": "/wiki/entities/frenchnationalguard/"
     },
+    "FrenchNewWave": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "108.祖与占：爱与不爱，巴黎就在那里（耸肩） [745812905].md",
+          "key": "108-zu-yu-zhan-ai-yu-bu-ai-bali-jiu-zai-nali-songjian-745812905",
+          "show": "蜜獾吃书",
+          "title": "108.祖与占：爱与不爱，巴黎就在那里（耸肩）",
+          "url": "/wiki/sources/108-zu-yu-zhan-ai-yu-bu-ai-bali-jiu-zai-nali-songjian-745812905/"
+        },
+        {
+          "episode_file": "GLT2672520929 [GLT2672520929].md",
+          "key": "242-french-history-on-film-glt2672520929",
+          "show": "The Rest Is History",
+          "title": "242. French History on Film",
+          "url": "/wiki/sources/242-french-history-on-film-glt2672520929/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/frenchnewwave/"
+    },
     "FrenchRevolution": {
       "episode_count": 20,
       "show_count": 2,
@@ -82724,6 +82763,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/historicalreadingassurvivalwisdom/"
+    },
+    "HistoricalWorldviewReconstruction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2672520929 [GLT2672520929].md",
+          "key": "242-french-history-on-film-glt2672520929",
+          "show": "The Rest Is History",
+          "title": "242. French History on Film",
+          "url": "/wiki/sources/242-french-history-on-film-glt2672520929/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/historicalworldviewreconstruction/"
     },
     "HistoryAsLifeResource": {
       "episode_count": 1,
@@ -101871,6 +101926,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/lacatrina/"
     },
+    "LaChinoiseFilm": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2672520929 [GLT2672520929].md",
+          "key": "242-french-history-on-film-glt2672520929",
+          "show": "The Rest Is History",
+          "title": "242. French History on Film",
+          "url": "/wiki/sources/242-french-history-on-film-glt2672520929/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/lachinoisefilm/"
+    },
     "LaIsabela": {
       "episode_count": 1,
       "show_count": 1,
@@ -103196,6 +103267,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/lazarocardenas/"
     },
+    "LeCorbeauFilm": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2672520929 [GLT2672520929].md",
+          "key": "242-french-history-on-film-glt2672520929",
+          "show": "The Rest Is History",
+          "title": "242. French History on Film",
+          "url": "/wiki/sources/242-french-history-on-film-glt2672520929/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/lecorbeaufilm/"
+    },
     "LeCorbusier": {
       "episode_count": 1,
       "show_count": 1,
@@ -104133,6 +104220,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/entities/leopoldii/"
+    },
+    "LesEnfantsDuParadisFilm": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2672520929 [GLT2672520929].md",
+          "key": "242-french-history-on-film-glt2672520929",
+          "show": "The Rest Is History",
+          "title": "242. French History on Film",
+          "url": "/wiki/sources/242-french-history-on-film-glt2672520929/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/lesenfantsduparadisfilm/"
     },
     "LeslieGroves": {
       "episode_count": 1,
@@ -118808,9 +118911,9 @@
       "url": "/wiki/entities/maximilienrobespierre/"
     },
     "May1968France": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6246374874 [GLT6246374874].md",
@@ -118825,6 +118928,13 @@
           "show": "The Rest Is History",
           "title": "353: Paris 1968: The Students' Revolt (Part 1)",
           "url": "/wiki/sources/353-paris-1968-the-students-revolt-part-1-glt6124707164/"
+        },
+        {
+          "episode_file": "GLT2672520929 [GLT2672520929].md",
+          "key": "242-french-history-on-film-glt2672520929",
+          "show": "The Rest Is History",
+          "title": "242. French History on Film",
+          "url": "/wiki/sources/242-french-history-on-film-glt2672520929/"
         }
       ],
       "updated": "2026-09-28",
@@ -152165,6 +152275,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/ridehailingsafetyoperations/"
+    },
+    "RidiculeFilm": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2672520929 [GLT2672520929].md",
+          "key": "242-french-history-on-film-glt2672520929",
+          "show": "The Rest Is History",
+          "title": "242. French History on Film",
+          "url": "/wiki/sources/242-french-history-on-film-glt2672520929/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/ridiculefilm/"
     },
     "RidolfiPlot": {
       "episode_count": 1,

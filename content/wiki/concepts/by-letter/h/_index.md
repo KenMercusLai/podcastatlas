@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 8970
+wiki_total_pages: 8972
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -479,6 +479,9 @@ wiki_pages:
   - key: "HistoricalRhymePoliticalReading"
     title: "Historical Rhyme Political Reading / 历史押韵式政治阅读"
     url: "/wiki/concepts/historicalrhymepoliticalreading/"
+  - key: "HistoricalWorldviewReconstruction"
+    title: "Historical Worldview Reconstruction"
+    url: "/wiki/concepts/historicalworldviewreconstruction/"
   - key: "HistoriographicalPresentism"
     title: "Historiographical Presentism / 史评当代性"
     url: "/wiki/concepts/historiographicalpresentism/"

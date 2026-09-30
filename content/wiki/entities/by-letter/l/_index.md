@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 11574
+wiki_total_pages: 11578
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -26,6 +26,9 @@ wiki_pages:
   - key: "LaCatrina"
     title: "La Catrina"
     url: "/wiki/entities/lacatrina/"
+  - key: "LaChinoiseFilm"
+    title: "La Chinoise"
+    url: "/wiki/entities/lachinoisefilm/"
   - key: "LaIsabela"
     title: "La Isabela"
     url: "/wiki/entities/laisabela/"
@@ -206,6 +209,9 @@ wiki_pages:
   - key: "LazaroCardenas"
     title: "Lazaro Cardenas"
     url: "/wiki/entities/lazarocardenas/"
+  - key: "LeCorbeauFilm"
+    title: "Le Corbeau"
+    url: "/wiki/entities/lecorbeaufilm/"
   - key: "LeVanElgindi"
     title: "Le Van Elgindi"
     url: "/wiki/entities/levanelgindi/"
@@ -347,6 +353,9 @@ wiki_pages:
   - key: "LeptonAI"
     title: "Lepton AI"
     url: "/wiki/entities/leptonai/"
+  - key: "LesEnfantsDuParadisFilm"
+    title: "Les Enfants du Paradis"
+    url: "/wiki/entities/lesenfantsduparadisfilm/"
   - key: "LeslieGroves"
     title: "Leslie Groves"
     url: "/wiki/entities/lesliegroves/"

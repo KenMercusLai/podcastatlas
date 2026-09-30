@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2242
+topic_total_pages: 2245
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -187,6 +187,9 @@ topic_concepts:
   - key: "ChuHanWarDemythologizing"
     title: "Chu-Han War Demythologizing / 楚汉战争去神话化"
     url: "/wiki/concepts/chuhanwardemythologizing/"
+  - key: "CinemaAsNationalMemory"
+    title: "Cinema as National Memory"
+    url: "/wiki/concepts/cinemaasnationalmemory/"
   - key: "CivilizationBarbarismFrame"
     title: "Civilization-Barbarism Frame / 文明-野蛮框架"
     url: "/wiki/concepts/civilizationbarbarismframe/"
@@ -574,6 +577,9 @@ topic_concepts:
   - key: "HistoricalRhymePoliticalReading"
     title: "Historical Rhyme Political Reading / 历史押韵式政治阅读"
     url: "/wiki/concepts/historicalrhymepoliticalreading/"
+  - key: "HistoricalWorldviewReconstruction"
+    title: "Historical Worldview Reconstruction"
+    url: "/wiki/concepts/historicalworldviewreconstruction/"
   - key: "HistoriographicalPresentism"
     title: "Historiographical Presentism / 史评当代性"
     url: "/wiki/concepts/historiographicalpresentism/"
@@ -4761,6 +4767,9 @@ topic_sources:
   - key: "171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962"
     title: "171.闲聊十二生肖之马：观音大士的兴趣爱好,及老头环角色的灵感"
     url: "/wiki/sources/171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962/"
+  - key: "242-french-history-on-film-glt2672520929"
+    title: "242. French History on Film"
+    url: "/wiki/sources/242-french-history-on-film-glt2672520929/"
   - key: "243-trafalgar-a-world-at-war-part-1-glt3542298238"
     title: "243. Trafalgar: A World at War (Part 1)"
     url: "/wiki/sources/243-trafalgar-a-world-at-war-part-1-glt3542298238/"

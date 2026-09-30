@@ -26044,3 +26044,10 @@ Added source `243-trafalgar-a-world-at-war-part-1-glt3542298238`; created `Royal
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-09-30] ingest | 242. French History on Film
+
+Added source `242-french-history-on-film-glt2672520929`; created `CinemaAsNationalMemory`, `HistoricalWorldviewReconstruction`, `RidiculeFilm`, `LesEnfantsDuParadisFilm`, `LeCorbeauFilm`, and `LaChinoiseFilm`; and resynthesized `FrenchNewWave` and `May1968France` from their complete preserved evidence inventories. Core synthesis: historical cinema is most revealing when past social rules govern the drama, and films participate in national memory through political reuse, allegory, comedy, changed reception, and selective omission. No settled contradiction was adopted; film rankings, audience reception, national-character claims, Polanski parallels, and the scale of French cinema's Algerian-War gap remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,257-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
