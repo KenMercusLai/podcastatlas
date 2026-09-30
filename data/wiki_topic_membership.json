@@ -1381,6 +1381,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "258-costa-rica-civil-war-glt4854467564": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "259-iran-england-the-little-satan-glt8347276204": [
     {
       "key": "history",
@@ -11915,6 +11922,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "ArmyAbolitionDemocraticSafeguard": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "ArrivalFilm": [
     {
       "key": "culture",
@@ -21862,6 +21876,20 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "CostaRica": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "CostaRicanCivilWar1948": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "Costco": [
@@ -43786,6 +43814,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "JoseFigueresFerrer": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "JoseGuadalupePosada": [
     {
       "key": "culture",
@@ -60404,6 +60439,13 @@
     }
   ],
   "PostVictoryOppressionRisk": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "PostVictoryPowerSurrender": [
     {
       "key": "politics",
       "label": "Politics",

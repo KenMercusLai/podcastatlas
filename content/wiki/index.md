@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [258. Costa Rica: Civil War](sources/258-costa-rica-civil-war-glt4854467564.md) — The Rest Is History episode on the disputed 1948 election, Figueres's uprising, democratic reconstruction, army abolition, and voluntary transfer of power.
 - [259: Iran: England - 'The Little Satan'](sources/259-iran-england-the-little-satan-glt8347276204.md) — The Rest Is History episode on Iranian admiration for British institutions, constitutional disappointment, oil, nationalization, the 1953 coup, and persistent cultural attraction.
 - [260: Croatia: The Man Who Saved The Roman Empire](sources/260-croatia-the-man-who-saved-the-roman-empire-glt9631298578.md) — The Rest Is History episode on Diocletian, the third-century crisis, the Tetrarchy, military-fiscal reconstruction, Christian persecution, abdication, and the succession system's collapse.
 - [261: Uruguay: The Tupamaros](sources/261-uruguay-the-tupamaros-glt1539968794.md) — The Rest Is History episode on Uruguay's postwar decline, Tupamaro urban guerrillas, authoritarian counterinsurgency, dictatorship, and Jose Mujica's later democratic presidency.
@@ -3277,6 +3278,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Using Caffeine to Optimize Mental & Physical Performance](sources/using-caffeine-to-optimize-mental-physical-performance-scim1210768101.md) — Huberman Lab solo episode on adenosine blockade, caffeine timing and dose, performance, memory, learned reinforcement, tolerance, sleep, and stacking risks.
 
 ## Entities
+- [Costa Rica](entities/CostaRica.md) — Central American republic whose post-1948 settlement joined expanded citizenship, civilian rule, and army abolition.
+- [Jose Figueres Ferrer](entities/JoseFigueresFerrer.md) — Costa Rican rebel leader, temporary junta head, institutional reformer, and later elected president.
+- [Rafael Angel Calderon](entities/RafaelAngelCalderon.md) — Costa Rican welfare populist and defeated 1948 candidate central to the election crisis preceding civil war.
 - [Ali Ansari](entities/AliAnsari.md) — Historian who interprets Anglo-Iranian relations through institutional attraction, imperial power, and disappointed political trust.
 - [Anglo-Iranian Oil Company](entities/AngloIranianOilCompany.md) — British-linked oil enterprise that built strategic industrial capacity while becoming a focus of Iranian sovereignty and revenue conflict.
 - [Mohammad Mossadegh](entities/MohammadMossadegh.md) — Iranian prime minister associated with oil nationalization and overthrown in the 1953 coup.
@@ -14834,6 +14838,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Wieliczka Salt Mine](entities/WieliczkaSaltMine.md) — Royal salt industry transformed into an underground religious-art, tourism, and national-memory complex.
 
 ## Concepts
+- [Army Abolition as a Democratic Safeguard](concepts/ArmyAbolitionDemocraticSafeguard.md) — Removal of a standing military power center to reduce coup risk and reinforce civilian institutions.
+- [Costa Rican Civil War of 1948](concepts/CostaRicanCivilWar1948.md) — Disputed-election conflict whose significance rests heavily on the victors' later institutional settlement.
+- [Post-Victory Power Surrender](concepts/PostVictoryPowerSurrender.md) — Fulfillment of a bounded revolutionary mandate through transfer rather than indefinite personal rule.
 - [Anglo-Iranian Relations](concepts/AngloIranianRelations.md) — Bilateral history in which admiration for British institutions became disappointment through imperial strategy, oil conflict, and intervention without erasing cultural ties.
 - [Iranian Constitutional Revolution](concepts/IranianConstitutionalRevolution.md) — Iranian constitutional reform shaped partly by British parliamentary models and qualified by Britain's accommodation with Russia.
 - [1953 Iranian Coup](concepts/IranianCoup1953.md) — Overthrow of Mohammad Mossadegh whose Anglo-American structure became a lasting template for Iranian intervention fears.

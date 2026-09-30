@@ -875,6 +875,10 @@
     "title": "246. 杭州博物馆「一苇杭之」，好久没看过这么推荐的展览了",
     "url": "/wiki/sources/246-hangzhou-bowuguan-yiwei-hangzhi-haojiu-mei-kan-guo-zheme-tuijian-de-zhanlan-le-8217911423-973793/"
   },
+  "258-costa-rica-civil-war-glt4854467564": {
+    "title": "258. Costa Rica: Civil War",
+    "url": "/wiki/sources/258-costa-rica-civil-war-glt4854467564/"
+  },
   "259-iran-england-the-little-satan-glt8347276204": {
     "title": "259: Iran: England - 'The Little Satan'",
     "url": "/wiki/sources/259-iran-england-the-little-satan-glt8347276204/"
@@ -8082,6 +8086,10 @@
   "ArmoredCombat": {
     "title": "Armored Combat / 盔甲格斗",
     "url": "/wiki/concepts/armoredcombat/"
+  },
+  "ArmyAbolitionDemocraticSafeguard": {
+    "title": "Army Abolition as a Democratic Safeguard",
+    "url": "/wiki/concepts/armyabolitiondemocraticsafeguard/"
   },
   "ArmyOfAfrica": {
     "title": "Army of Africa",
@@ -18306,6 +18314,14 @@
   "CostMattersHypothesis": {
     "title": "Cost Matters Hypothesis",
     "url": "/wiki/concepts/costmattershypothesis/"
+  },
+  "CostaRica": {
+    "title": "Costa Rica",
+    "url": "/wiki/entities/costarica/"
+  },
+  "CostaRicanCivilWar1948": {
+    "title": "Costa Rican Civil War of 1948",
+    "url": "/wiki/concepts/costaricancivilwar1948/"
   },
   "Costco": {
     "title": "Costco",
@@ -40231,6 +40247,10 @@
     "title": "Jose Armas",
     "url": "/wiki/entities/josearmas/"
   },
+  "JoseFigueresFerrer": {
+    "title": "Jose Figueres Ferrer",
+    "url": "/wiki/entities/josefigueresferrer/"
+  },
   "JoseGuadalupePosada": {
     "title": "Jose Guadalupe Posada",
     "url": "/wiki/entities/joseguadalupeposada/"
@@ -57795,6 +57815,10 @@
     "title": "Post-Victory Oppression Risk / 胜利后的压迫风险",
     "url": "/wiki/concepts/postvictoryoppressionrisk/"
   },
+  "PostVictoryPowerSurrender": {
+    "title": "Post-Victory Power Surrender",
+    "url": "/wiki/concepts/postvictorypowersurrender/"
+  },
   "PostVictoryThreatSequencing": {
     "title": "Post-Victory Threat Sequencing / 胜后威胁排序",
     "url": "/wiki/concepts/postvictorythreatsequencing/"
@@ -60618,6 +60642,10 @@
   "RadixAttention": {
     "title": "Radix Attention",
     "url": "/wiki/concepts/radixattention/"
+  },
+  "RafaelAngelCalderon": {
+    "title": "Rafael Angel Calderon",
+    "url": "/wiki/entities/rafaelangelcalderon/"
   },
   "RafaelParker": {
     "title": "Rafael Parker",

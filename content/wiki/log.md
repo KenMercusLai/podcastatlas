@@ -25855,3 +25855,11 @@ Added source `259-iran-england-the-little-satan-glt8347276204`; created `AliAnsa
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-30] ingest | 258. Costa Rica: Civil War
+
+Added source `258-costa-rica-civil-war-glt4854467564`; created `CostaRica`, `JoseFigueresFerrer`, `RafaelAngelCalderon`, `CostaRicanCivilWar1948`, `ArmyAbolitionDemocraticSafeguard`, and `PostVictoryPowerSurrender`. Core synthesis: Costa Rica's later democratic outlier status is presented as contingent on background conditions and postwar choices, especially widening political membership, preserving social reform, constraining armed power, and transferring authority after rebel victory. No settled contradiction was adopted. Casualty and election figures, comparative rankings, US pressure, CIA/KGB payments, Caribbean Legion details, and the exact causal weight of demilitarization remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

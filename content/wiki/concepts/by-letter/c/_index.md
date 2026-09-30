@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8927
+wiki_total_pages: 8930
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2177,6 +2177,9 @@ wiki_pages:
   - key: "CostBenefitThinking"
     title: "Cost-Benefit Thinking"
     url: "/wiki/concepts/costbenefitthinking/"
+  - key: "CostaRicanCivilWar1948"
+    title: "Costa Rican Civil War of 1948"
+    url: "/wiki/concepts/costaricancivilwar1948/"
   - key: "CounterDroneLayeredDefense"
     title: "Counter-Drone Layered Defense"
     url: "/wiki/concepts/counterdronelayereddefense/"

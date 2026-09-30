@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 11528
+wiki_total_pages: 11531
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -1409,6 +1409,9 @@ wiki_pages:
   - key: "CossackHetmanate"
     title: "Cossack Hetmanate / 哥萨克酋长国"
     url: "/wiki/entities/cossackhetmanate/"
+  - key: "CostaRica"
+    title: "Costa Rica"
+    url: "/wiki/entities/costarica/"
   - key: "Costco"
     title: "Costco"
     url: "/wiki/entities/costco/"

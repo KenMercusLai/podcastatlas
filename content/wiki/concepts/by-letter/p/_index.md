@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8927
+wiki_total_pages: 8930
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1304,6 +1304,9 @@ wiki_pages:
   - key: "PostVictoryOppressionRisk"
     title: "Post-Victory Oppression Risk / 胜利后的压迫风险"
     url: "/wiki/concepts/postvictoryoppressionrisk/"
+  - key: "PostVictoryPowerSurrender"
+    title: "Post-Victory Power Surrender"
+    url: "/wiki/concepts/postvictorypowersurrender/"
   - key: "PostVictoryThreatSequencing"
     title: "Post-Victory Threat Sequencing / 胜后威胁排序"
     url: "/wiki/concepts/postvictorythreatsequencing/"

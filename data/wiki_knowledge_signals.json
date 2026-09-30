@@ -13711,6 +13711,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/armedforcesmovementportugal/"
     },
+    "ArmyAbolitionDemocraticSafeguard": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4854467564 [GLT4854467564].md",
+          "key": "258-costa-rica-civil-war-glt4854467564",
+          "show": "The Rest Is History",
+          "title": "258. Costa Rica: Civil War",
+          "url": "/wiki/sources/258-costa-rica-civil-war-glt4854467564/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/armyabolitiondemocraticsafeguard/"
+    },
     "ArmyOfAfrica": {
       "episode_count": 1,
       "show_count": 1,
@@ -38341,6 +38357,38 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/cossackhetmanate/"
+    },
+    "CostaRica": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4854467564 [GLT4854467564].md",
+          "key": "258-costa-rica-civil-war-glt4854467564",
+          "show": "The Rest Is History",
+          "title": "258. Costa Rica: Civil War",
+          "url": "/wiki/sources/258-costa-rica-civil-war-glt4854467564/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/costarica/"
+    },
+    "CostaRicanCivilWar1948": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4854467564 [GLT4854467564].md",
+          "key": "258-costa-rica-civil-war-glt4854467564",
+          "show": "The Rest Is History",
+          "title": "258. Costa Rica: Civil War",
+          "url": "/wiki/sources/258-costa-rica-civil-war-glt4854467564/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/costaricancivilwar1948/"
     },
     "CostelloDog": {
       "episode_count": 1,
@@ -97187,6 +97235,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/entities/joseangelpereira/"
     },
+    "JoseFigueresFerrer": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4854467564 [GLT4854467564].md",
+          "key": "258-costa-rica-civil-war-glt4854467564",
+          "show": "The Rest Is History",
+          "title": "258. Costa Rica: Civil War",
+          "url": "/wiki/sources/258-costa-rica-civil-war-glt4854467564/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/josefigueresferrer/"
+    },
     "JoseGuadalupePosada": {
       "episode_count": 1,
       "show_count": 1,
@@ -140063,6 +140127,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/postvictoryamnestysignal/"
     },
+    "PostVictoryPowerSurrender": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4854467564 [GLT4854467564].md",
+          "key": "258-costa-rica-civil-war-glt4854467564",
+          "show": "The Rest Is History",
+          "title": "258. Costa Rica: Civil War",
+          "url": "/wiki/sources/258-costa-rica-civil-war-glt4854467564/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/postvictorypowersurrender/"
+    },
     "PostVictoryThreatSequencing": {
       "episode_count": 3,
       "show_count": 1,
@@ -145901,6 +145981,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/radiopharmaceuticaldrugconjugates/"
+    },
+    "RafaelAngelCalderon": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4854467564 [GLT4854467564].md",
+          "key": "258-costa-rica-civil-war-glt4854467564",
+          "show": "The Rest Is History",
+          "title": "258. Costa Rica: Civil War",
+          "url": "/wiki/sources/258-costa-rica-civil-war-glt4854467564/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/rafaelangelcalderon/"
     },
     "RaidersOfTheLostArk": {
       "episode_count": 2,
