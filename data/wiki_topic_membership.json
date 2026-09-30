@@ -1374,6 +1374,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "229-portugal-gold-earthquakes-and-brazil-part-3-glt8317395817": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "230-portugal-football-fado-and-fascism-part-4-glt9147423732": [
     {
       "key": "history",
@@ -20712,6 +20719,13 @@
     }
   ],
   "ColonialChocolateCommodityChain": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
+  "ColonialCommodityDependency": [
     {
       "key": "economics",
       "label": "Economics",

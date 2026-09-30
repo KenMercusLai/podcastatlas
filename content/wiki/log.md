@@ -26248,3 +26248,11 @@ Added source `230-portugal-football-fado-and-fascism-part-4-glt9147423732`; crea
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | 229. Portugal: Gold, Earthquakes, and Brazil (Part 3)
+
+Added source `229-portugal-gold-earthquakes-and-brazil-part-3-glt8317395817`; created `MarquisDePombal`, `LisbonEarthquake1755`, `ColonialCommodityDependency`, and `ImperialCenterRelocation`; and resynthesized `DomJoaoVI`, `DomPedroI`, and `BrazilianIndependence` from their complete preserved evidence inventories. Core synthesis: Brazilian commodities and enslaved labor revived Portugal while reinforcing economic and British commercial dependence; Pombal's earthquake response joined reform and planned reconstruction to coercive centralization; and the 1807 transfer of court and governing capacity to Rio elevated Brazil in ways Lisbon could not easily reverse, helping produce a dynastic path to independence. No settled contradiction was adopted. Population, casualty, destruction, slave-trade, treaty, motive, speech, and economic-causation claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,281-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

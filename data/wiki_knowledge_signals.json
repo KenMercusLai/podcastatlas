@@ -22487,9 +22487,9 @@
       "url": "/wiki/entities/brazilianflag/"
     },
     "BrazilianIndependence": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5596929385 [GLT5596929385].md",
@@ -22497,6 +22497,13 @@
           "show": "The Rest Is History",
           "title": "681. Brazil: The Emperor's Anthem (Part 5)",
           "url": "/wiki/sources/681-brazil-the-emperors-anthem-part-5-glt5596929385/"
+        },
+        {
+          "episode_file": "GLT8317395817 [GLT8317395817].md",
+          "key": "229-portugal-gold-earthquakes-and-brazil-part-3-glt8317395817",
+          "show": "The Rest Is History",
+          "title": "229. Portugal: Gold, Earthquakes, and Brazil (Part 3)",
+          "url": "/wiki/sources/229-portugal-gold-earthquakes-and-brazil-part-3-glt8317395817/"
         }
       ],
       "updated": "2026-09-01",
@@ -35664,6 +35671,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/concepts/colonialchocolatecommoditychain/"
     },
+    "ColonialCommodityDependency": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8317395817 [GLT8317395817].md",
+          "key": "229-portugal-gold-earthquakes-and-brazil-part-3-glt8317395817",
+          "show": "The Rest Is History",
+          "title": "229. Portugal: Gold, Earthquakes, and Brazil (Part 3)",
+          "url": "/wiki/sources/229-portugal-gold-earthquakes-and-brazil-part-3-glt8317395817/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/colonialcommoditydependency/"
+    },
     "ColonialConversionEnslavementContradiction": {
       "episode_count": 2,
       "show_count": 1,
@@ -48364,9 +48387,9 @@
       "url": "/wiki/entities/dollyparton/"
     },
     "DomJoaoVI": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5596929385 [GLT5596929385].md",
@@ -48374,15 +48397,22 @@
           "show": "The Rest Is History",
           "title": "681. Brazil: The Emperor's Anthem (Part 5)",
           "url": "/wiki/sources/681-brazil-the-emperors-anthem-part-5-glt5596929385/"
+        },
+        {
+          "episode_file": "GLT8317395817 [GLT8317395817].md",
+          "key": "229-portugal-gold-earthquakes-and-brazil-part-3-glt8317395817",
+          "show": "The Rest Is History",
+          "title": "229. Portugal: Gold, Earthquakes, and Brazil (Part 3)",
+          "url": "/wiki/sources/229-portugal-gold-earthquakes-and-brazil-part-3-glt8317395817/"
         }
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/domjoaovi/"
     },
     "DomPedroI": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5596929385 [GLT5596929385].md",
@@ -48397,6 +48427,13 @@
           "show": "The Rest Is History",
           "title": "268: Brazil: The Last Emperor",
           "url": "/wiki/sources/268-brazil-the-last-emperor-glt5634696575/"
+        },
+        {
+          "episode_file": "GLT8317395817 [GLT8317395817].md",
+          "key": "229-portugal-gold-earthquakes-and-brazil-part-3-glt8317395817",
+          "show": "The Rest Is History",
+          "title": "229. Portugal: Gold, Earthquakes, and Brazil (Part 3)",
+          "url": "/wiki/sources/229-portugal-gold-earthquakes-and-brazil-part-3-glt8317395817/"
         }
       ],
       "updated": "2026-09-30",
@@ -90113,6 +90150,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/concepts/imperialcartographicmythmaking/"
     },
+    "ImperialCenterRelocation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8317395817 [GLT8317395817].md",
+          "key": "229-portugal-gold-earthquakes-and-brazil-part-3-glt8317395817",
+          "show": "The Rest Is History",
+          "title": "229. Portugal: Gold, Earthquakes, and Brazil (Part 3)",
+          "url": "/wiki/sources/229-portugal-gold-earthquakes-and-brazil-part-3-glt8317395817/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/imperialcenterrelocation/"
+    },
     "ImperialCivilisingMissionContradiction": {
       "episode_count": 2,
       "show_count": 1,
@@ -108599,6 +108652,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/entities/lisamosconi/"
     },
+    "LisbonEarthquake1755": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8317395817 [GLT8317395817].md",
+          "key": "229-portugal-gold-earthquakes-and-brazil-part-3-glt8317395817",
+          "show": "The Rest Is History",
+          "title": "229. Portugal: Gold, Earthquakes, and Brazil (Part 3)",
+          "url": "/wiki/sources/229-portugal-gold-earthquakes-and-brazil-part-3-glt8317395817/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/lisbonearthquake1755/"
+    },
     "ListeningBarCulturalExport": {
       "episode_count": 1,
       "show_count": 1,
@@ -119374,6 +119443,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/marquisdelafayette/"
+    },
+    "MarquisDePombal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8317395817 [GLT8317395817].md",
+          "key": "229-portugal-gold-earthquakes-and-brazil-part-3-glt8317395817",
+          "show": "The Rest Is History",
+          "title": "229. Portugal: Gold, Earthquakes, and Brazil (Part 3)",
+          "url": "/wiki/sources/229-portugal-gold-earthquakes-and-brazil-part-3-glt8317395817/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/marquisdepombal/"
     },
     "MarquisDeSade": {
       "episode_count": 1,

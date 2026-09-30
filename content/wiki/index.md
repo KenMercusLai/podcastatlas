@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [229. Portugal: Gold, Earthquakes, and Brazil (Part 3)](sources/229-portugal-gold-earthquakes-and-brazil-part-3-glt8317395817.md) — The Rest Is History episode on Portuguese restoration, Brazilian commodity wealth and slavery, Pombal, the Lisbon earthquake, court relocation, and Brazilian independence.
 - [230. Portugal: Football, Fado, and Fascism? (Part 4)](sources/230-portugal-football-fado-and-fascism-part-4-glt9147423732.md) — The Rest Is History episode on Salazar's rise, Estado Novo repression and stability, the fascism boundary, wartime neutrality, cultural symbols, football, and colonial crisis.
 - [231. Queen Elizabeth II (Part 1)](sources/231-queen-elizabeth-ii-part-1-glt2826379729.md) — The Rest Is History episode on Elizabeth II's early life, wartime duty, the monarch's two bodies, accession, and the sacred-media tension of her coronation.
 - [232. Queen Elizabeth II (Part 2)](sources/232-queen-elizabeth-ii-part-2-glt5667149245.md) — The Rest Is History episode on Elizabeth II's Commonwealth role, media-era family crisis, emotional expectations, late-reign duty, and adaptive continuity.
@@ -3335,6 +3336,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Who's Gonna Pay for Your Social Security?](sources/default-mp3-ywr3ahjkcgo-fa7b2a90f9b1f7efc01397a3ed4ae0bf-30494375-default-mp3-ywr3ahjkcgo-fa7b2a90f9b1f7efc01397a3ed4ae0bf-30494375.md) — Planet Money episode comparing the financing scale and distributional costs of Social Security reform options.
 
 ## Entities
+- [Marquis de Pombal](entities/MarquisDePombal.md) — Enlightenment-influenced Portuguese first minister who joined institutional reform and Lisbon reconstruction to coercive centralization.
 - [George V](entities/GeorgeV.md) — Elizabeth II's grandfather and an early model of restrained, service-centered public monarchy.
 - [George VI](entities/GeorgeVI.md) — Reluctant wartime king whose accession and duty directly shaped Elizabeth II's formation and succession.
 - [Edward VIII](entities/EdwardVIII.md) — King whose abdication made George VI sovereign and redirected Elizabeth II toward the throne.
@@ -5782,10 +5784,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [闵堪 / Min Kan (Eastern Han)](entities/MinKanEasternHan.md) — Northern frontier actor who survives an earlier Han attack through Xiongnu rescue before later surrendering and becoming Dai Chancellor in Lu Fang's settlement.
 - [Brazilian National Anthem](entities/BrazilianNationalAnthem.md) — Anthem whose tune, lyrics, and performance history carry Brazil's monarchy, republic, slavery-shadowed identity, and protest memory.
 - [Brazilian Flag](entities/BrazilianFlag.md) — National symbol whose colors, stars, Southern Cross reference, and positivist motto connect dynastic inheritance to republican symbolism.
-- [Brazilian Independence](entities/BrazilianIndependence.md) — 1822 break with Portuguese authority led by Dom Pedro I and later remembered through the anthem's Ipiranga reference.
+- [Brazilian Independence](entities/BrazilianIndependence.md) — 1822 dynastic break enabled by the court's move to Rio, failed Portuguese recentralization, and Dom Pedro I's leadership.
 - [Brazilian Empire](entities/BrazilianEmpire.md) — Slavery-dependent constitutional monarchy whose national-symbol continuity outlasted abolition-era coalition collapse.
-- [Dom Joao VI](entities/DomJoaoVI.md) — Portuguese monarch whose court's 1807 move to Rio made Brazil central before independence.
-- [Dom Pedro I](entities/DomPedroI.md) — First emperor whose independence role, abdication, personalist anthem, and late anti-slavery letter expose the empire's contradictions.
+- [Dom Joao VI](entities/DomJoaoVI.md) — Portuguese monarch whose 1807 transfer of court and government to Rio made Brazil an imperial center before independence.
+- [Dom Pedro I](entities/DomPedroI.md) — Regent and first emperor whose independence role, abdication, personalist anthem, and late anti-slavery letter expose the empire's contradictions.
 - [Dom Pedro II](entities/DomPedroII.md) — Scholarly long-reigning emperor whose anti-slavery views, elite dependence, and refusal to resist shaped abolition-era memory and regime collapse.
 - [Maria Leopoldina](entities/MariaLeopoldina.md) — Habsburg wife of Pedro I whose dynastic background informs Brazil's color-symbol story.
 - [Francisco Manuel da Silva](entities/FranciscoManuelDaSilva.md) — Composer of the durable 1831 tune that became the Brazilian national anthem melody.
@@ -14998,6 +15000,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Steve Goss](entities/SteveGoss.md) — Former Social Security chief actuary assessing the scale, feasibility, and timing of reform options.
 
 ## Concepts
+- [1755 Lisbon Earthquake](concepts/LisbonEarthquake1755.md) — Compound earthquake, tsunami, and fire that challenged European optimism and tested Portuguese crisis administration and urban reconstruction.
+- [Colonial Commodity Dependency](concepts/ColonialCommodityDependency.md) — Pattern in which extractive imperial wealth can weaken diversification while increasing labor coercion and alliance dependence.
+- [Imperial Center Relocation](concepts/ImperialCenterRelocation.md) — Transfer of court and governing capacity from metropole to colony that reverses imperial hierarchy and raises the cost of later recentralization.
 - [The Monarch's Two Bodies](concepts/MonarchsTwoBodies.md) — Distinction between the sovereign's mortal private person and the Crown's enduring public and symbolic body.
 - [Wartime Royal Duty Formation](concepts/WartimeRoyalDutyFormation.md) — Formation of Elizabeth II's duty ethic through dynasty, wartime constraint, broadcasting, and practical service.
 - [Post-Imperial Commonwealth Monarchy](concepts/PostImperialCommonwealthMonarchy.md) — Adaptation of the Crown from imperial apex to plural symbolic and constitutional relationships with independent states and realms.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9016
+wiki_total_pages: 9019
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1430,6 +1430,9 @@ wiki_pages:
   - key: "ColonialChocolateCommodityChain"
     title: "Colonial Chocolate Commodity Chain"
     url: "/wiki/concepts/colonialchocolatecommoditychain/"
+  - key: "ColonialCommodityDependency"
+    title: "Colonial Commodity Dependency"
+    url: "/wiki/concepts/colonialcommoditydependency/"
   - key: "ColonialConversionEnslavementContradiction"
     title: "Colonial Conversion-Enslavement Contradiction"
     url: "/wiki/concepts/colonialconversionenslavementcontradiction/"

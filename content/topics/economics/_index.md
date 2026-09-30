@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2147
+topic_total_pages: 2148
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -646,6 +646,9 @@ topic_concepts:
   - key: "ColonialChocolateCommodityChain"
     title: "Colonial Chocolate Commodity Chain"
     url: "/wiki/concepts/colonialchocolatecommoditychain/"
+  - key: "ColonialCommodityDependency"
+    title: "Colonial Commodity Dependency"
+    url: "/wiki/concepts/colonialcommoditydependency/"
   - key: "CommercialFilmAudienceLogic"
     title: "Commercial Film Audience Logic / 商业片观众逻辑"
     url: "/wiki/concepts/commercialfilmaudiencelogic/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 9016
+wiki_total_pages: 9019
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -137,6 +137,9 @@ wiki_pages:
   - key: "ImperialCartographicMythmaking"
     title: "Imperial Cartographic Mythmaking"
     url: "/wiki/concepts/imperialcartographicmythmaking/"
+  - key: "ImperialCenterRelocation"
+    title: "Imperial Center Relocation"
+    url: "/wiki/concepts/imperialcenterrelocation/"
   - key: "ImperialCivilisingMissionContradiction"
     title: "Imperial Civilising-Mission Contradiction"
     url: "/wiki/concepts/imperialcivilisingmissioncontradiction/"
