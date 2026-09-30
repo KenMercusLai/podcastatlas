@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [225. J.R.R. Tolkien](sources/225-j-r-r-tolkien-glt9725776786.md) — The Rest Is History episode on Tolkien's formative losses, Catholicism, philology, friendships, the Somme, Edith, and the early legendarium.
 - [227. Portugal: On the Edge of the World (Part 1)](sources/227-portugal-on-the-edge-of-the-world-part-1-glt1834337589.md) — The Rest Is History episode on Portuguese kingdom formation, the Anglo-Portuguese alliance, Ceuta, Henry the Navigator, maritime knowledge, and early Atlantic plantation slavery.
 - [Focus Toolkit: Tools to Improve Your Focus & Concentration](sources/focus-toolkit-tools-to-improve-your-focus-concentration-scim5273827033.md) — Huberman Lab solo episode on behavior-first focus training, bounded work bouts, refocusing, deliberate recovery, sensory cues, supplements, and medication boundaries.
 - [228. Portugal: The Golden Age of Discovery (Part 2)](sources/228-portugal-the-golden-age-of-discovery-part-2-glt7949934800.md) — The Rest Is History episode on Portugal's Cape route, Indian Ocean network, crusading-commercial ambition, organized violence, and Sebastian's succession crisis.
@@ -3342,6 +3343,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [226. The Lord of the Rings](sources/226-the-lord-of-the-rings-glt1788342017.md) — The Rest Is History episode on Tolkien's ring ethics, hidden Catholic structure, wartime power, damaged homecoming, anti-industrial environmentalism, politics, and race.
 
 ## Entities
+- [Edith Tolkien](entities/EdithTolkien.md) — Tolkien's wife and wartime companion whose 1917 dance became the biographical seed for Beren and Luthien.
+- [Tea Club Barrovian Society](entities/TeaClubBarrovianSociety.md) — Tolkien's school literary circle joining Edwardian fellowship, medieval interests, and First World War loss.
+- [The Fall of Gondolin](entities/TheFallOfGondolin.md) — Early Tolkien legendarium story joining a doomed city, mechanical dragons, and wartime formation.
 - [Afonso Henriques](entities/AfonsoHenriques.md) — Founder-king connecting Portuguese independence, the Reconquista, and the 1147 capture of Lisbon.
 - [Philippa of Lancaster](entities/PhilippaOfLancaster.md) — English queen consort whose marriage to João I gave the Anglo-Portuguese alliance a dynastic foundation.
 - [Marquis de Pombal](entities/MarquisDePombal.md) — Enlightenment-influenced Portuguese first minister who joined institutional reform and Lisbon reconstruction to coercive centralization.
@@ -15017,6 +15021,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Steve Goss](entities/SteveGoss.md) — Former Social Security chief actuary assessing the scale, feasibility, and timing of reform options.
 
 ## Concepts
+- [Philological Worldbuilding](concepts/PhilologicalWorldbuilding.md) — Language-first method in which words, names, registers, and textual fragments generate imagined peoples, histories, and worlds.
+- [Mythology for England](concepts/MythologyForEngland.md) — Tolkien's project of answering perceived English mythic loss through philological reconstruction and literary invention.
 - [Anglo-Portuguese Alliance](concepts/AngloPortugueseAlliance.md) — Durable relationship built cumulatively through crusading contact, commerce, treaties, and dynastic marriage.
 - [Early Portuguese Atlantic Plantation Slavery](concepts/EarlyPortugueseAtlanticPlantationSlavery.md) — Pre-1492 system linking Atlantic islands, sugar, African captive trading, and coerced plantation labor.
 - [Focus Training Toolkit](concepts/FocusTrainingToolkit.md) — Behavior-first focus cycle joining readiness, task entry, repeated return, bounded effort, and deliberate decompression.

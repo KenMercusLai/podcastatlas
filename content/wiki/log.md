@@ -26296,3 +26296,11 @@ Added source `the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim2182
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | 225. J.R.R. Tolkien
+
+Added source `225-j-r-r-tolkien-glt9725776786`; created `EdithTolkien`, `TeaClubBarrovianSociety`, `TheFallOfGondolin`, `PhilologicalWorldbuilding`, and `MythologyForEngland`; and resynthesized `JRRTolkien`, `CSLewis`, `TheHobbit`, `AntiIndustrialPastoralism`, and `ArtisticCreationBeyondBiography` from their complete preserved evidence inventories. Core synthesis: Tolkien's formative losses, Catholicism, rural memory, friendships, romance, philology, and First World War experience supplied pressures and materials for a language-first invented mythology, but biography illuminates rather than exhaustively decodes the Shire, Luthien, Mordor, or Gondolin. No settled contradiction was adopted. Biographical-to-fiction links, scholarly primacy, sales, modernist placement, national-myth claims, motives, and reported dialogue remain interpretive or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,287-source coverage; no topic claim set was dirty and global compaction was not due. Publish validation passed.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

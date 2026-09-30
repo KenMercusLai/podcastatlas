@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 11641
+wiki_total_pages: 11644
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -194,6 +194,9 @@ wiki_pages:
   - key: "TDK"
     title: "TDK"
     url: "/wiki/entities/tdk/"
+  - key: "TeaClubBarrovianSociety"
+    title: "Tea Club Barrovian Society"
+    url: "/wiki/entities/teaclubbarroviansociety/"
   - key: "TeaHorseRoad"
     title: "Tea Horse Road / 茶马古道"
     url: "/wiki/entities/teahorseroad/"
@@ -416,6 +419,9 @@ wiki_pages:
   - key: "TheEpicOfGilgamesh"
     title: "The Epic of Gilgamesh / 吉尔伽美什史诗"
     url: "/wiki/entities/theepicofgilgamesh/"
+  - key: "TheFallOfGondolin"
+    title: "The Fall of Gondolin"
+    url: "/wiki/entities/thefallofgondolin/"
   - key: "TheFountainhead"
     title: "The Fountainhead / 《源泉》"
     url: "/wiki/entities/thefountainhead/"

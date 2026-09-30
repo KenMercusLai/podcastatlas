@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9028
+wiki_total_pages: 9030
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -665,6 +665,9 @@ wiki_pages:
   - key: "PhenomenalAccessConsciousness"
     title: "Phenomenal and Access Consciousness"
     url: "/wiki/concepts/phenomenalaccessconsciousness/"
+  - key: "PhilologicalWorldbuilding"
+    title: "Philological Worldbuilding"
+    url: "/wiki/concepts/philologicalworldbuilding/"
   - key: "PhilosophyWorkplaceSatire"
     title: "Philosophy Workplace Satire"
     url: "/wiki/concepts/philosophyworkplacesatire/"

@@ -939,8 +939,8 @@
       "earliest_episode_date": "2020-11-02",
       "latest_episode_date": "2026-09-27",
       "latest_episode_file": "GLT8774364224 [GLT8774364224].md",
-      "source_note_count": 370,
-      "topic_matched_source_note_count": 349,
+      "source_note_count": 371,
+      "topic_matched_source_note_count": 350,
       "topics": [
         {
           "key": "history",
@@ -958,7 +958,7 @@
           "key": "culture",
           "label": "Culture",
           "url": "/topics/culture/",
-          "source_note_count": 34
+          "source_note_count": 35
         },
         {
           "key": "economics",

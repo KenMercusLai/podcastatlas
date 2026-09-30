@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2971
+topic_total_pages: 2976
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1903,6 +1903,9 @@ topic_concepts:
   - key: "MythicSourceLayering"
     title: "Mythic Source Layering"
     url: "/wiki/concepts/mythicsourcelayering/"
+  - key: "MythologyForEngland"
+    title: "Mythology for England"
+    url: "/wiki/concepts/mythologyforengland/"
   - key: "NamingPowerSocialChange"
     title: "Naming Power In Social Change / 社会变革中的命名权"
     url: "/wiki/concepts/namingpowersocialchange/"
@@ -3905,6 +3908,9 @@ topic_entities:
   - key: "EdSabol"
     title: "Ed Sabol"
     url: "/wiki/entities/edsabol/"
+  - key: "EdithTolkien"
+    title: "Edith Tolkien"
+    url: "/wiki/entities/edithtolkien/"
   - key: "EdwardKeneally"
     title: "Edward Keneally"
     url: "/wiki/entities/edwardkeneally/"
@@ -5432,6 +5438,9 @@ topic_entities:
   - key: "TBPN"
     title: "TBPN"
     url: "/wiki/entities/tbpn/"
+  - key: "TeaClubBarrovianSociety"
+    title: "Tea Club Barrovian Society"
+    url: "/wiki/entities/teaclubbarroviansociety/"
   - key: "TeamMarketing"
     title: "Team Marketing"
     url: "/wiki/entities/teammarketing/"
@@ -5504,6 +5513,9 @@ topic_entities:
   - key: "TheEpicOfGilgamesh"
     title: "The Epic of Gilgamesh / 吉尔伽美什史诗"
     url: "/wiki/entities/theepicofgilgamesh/"
+  - key: "TheFallOfGondolin"
+    title: "The Fall of Gondolin"
+    url: "/wiki/entities/thefallofgondolin/"
   - key: "FifthDimension"
     title: "The Fifth Dimension / 第五维度"
     url: "/wiki/entities/fifthdimension/"
@@ -8127,6 +8139,9 @@ topic_sources:
   - key: "22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427"
     title: "22.足球经济学：读者不必是球迷"
     url: "/wiki/sources/22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427/"
+  - key: "225-j-r-r-tolkien-glt9725776786"
+    title: "225. J.R.R. Tolkien"
+    url: "/wiki/sources/225-j-r-r-tolkien-glt9725776786/"
   - key: "226-the-lord-of-the-rings-glt1788342017"
     title: "226. The Lord of the Rings"
     url: "/wiki/sources/226-the-lord-of-the-rings-glt1788342017/"

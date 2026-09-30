@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9028
+wiki_total_pages: 9030
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1511,6 +1511,9 @@ wiki_pages:
   - key: "MythicSourceLayering"
     title: "Mythic Source Layering"
     url: "/wiki/concepts/mythicsourcelayering/"
+  - key: "MythologyForEngland"
+    title: "Mythology for England"
+    url: "/wiki/concepts/mythologyforengland/"
   - key: "MarketForLemons"
     title: "The Market For Lemons"
     url: "/wiki/concepts/marketforlemons/"

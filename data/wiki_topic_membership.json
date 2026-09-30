@@ -1374,6 +1374,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "225-j-r-r-tolkien-glt9725776786": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "226-the-lord-of-the-rings-glt1788342017": [
     {
       "key": "culture",
@@ -27467,6 +27474,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "EdithTolkien": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "EditorAsCulturalProjectManager": [
@@ -54260,6 +54274,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "MythologyForEngland": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "MythosAISecurityTest": [
     {
       "key": "technology",
@@ -75735,6 +75756,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "TeaClubBarrovianSociety": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "TeaHorseRoad": [
     {
       "key": "history",
@@ -76647,6 +76675,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "TheFallOfGondolin": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "TheFountainhead": [

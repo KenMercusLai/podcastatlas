@@ -12363,9 +12363,9 @@
       "url": "/wiki/concepts/antihouthicoalitionfragmentation/"
     },
     "AntiIndustrialPastoralism": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1788342017 [GLT1788342017].md",
@@ -12373,6 +12373,13 @@
           "show": "The Rest Is History",
           "title": "226. The Lord of the Rings",
           "url": "/wiki/sources/226-the-lord-of-the-rings-glt1788342017/"
+        },
+        {
+          "episode_file": "GLT9725776786 [GLT9725776786].md",
+          "key": "225-j-r-r-tolkien-glt9725776786",
+          "show": "The Rest Is History",
+          "title": "225. J.R.R. Tolkien",
+          "url": "/wiki/sources/225-j-r-r-tolkien-glt9725776786/"
         }
       ],
       "updated": "2026-10-01",
@@ -14274,9 +14281,9 @@
       "url": "/wiki/concepts/artistrightscontrol/"
     },
     "ArtisticCreationBeyondBiography": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "EP284 与苗师傅漫谈里尔克：那些“灵性觉醒”的时刻 [lkKydMjftqA-FJhG2UAYm_8TEINQ].md",
@@ -14284,6 +14291,13 @@
           "show": "Talk三联",
           "title": "EP284 与苗师傅漫谈里尔克：那些“灵性觉醒”的时刻",
           "url": "/wiki/sources/ep284-yu-miao-shifu-mantan-li-er-ke-naxie-lingxing-juexing-de-shike-lkkydmjftqa-fjhg2uaym_8teinq/"
+        },
+        {
+          "episode_file": "GLT9725776786 [GLT9725776786].md",
+          "key": "225-j-r-r-tolkien-glt9725776786",
+          "show": "The Rest Is History",
+          "title": "225. J.R.R. Tolkien",
+          "url": "/wiki/sources/225-j-r-r-tolkien-glt9725776786/"
         }
       ],
       "updated": "2026-09-21",
@@ -24177,9 +24191,9 @@
       "url": "/wiki/concepts/cpraedresponseboundary/"
     },
     "CSLewis": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "60.闲聊伟大作家们的八卦（第一弹） [648693204].md",
@@ -24194,6 +24208,13 @@
           "show": "The Rest Is History",
           "title": "226. The Lord of the Rings",
           "url": "/wiki/sources/226-the-lord-of-the-rings-glt1788342017/"
+        },
+        {
+          "episode_file": "GLT9725776786 [GLT9725776786].md",
+          "key": "225-j-r-r-tolkien-glt9725776786",
+          "show": "The Rest Is History",
+          "title": "225. J.R.R. Tolkien",
+          "url": "/wiki/sources/225-j-r-r-tolkien-glt9725776786/"
         }
       ],
       "updated": "2026-10-01",
@@ -52291,6 +52312,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/edithofwessex/"
+    },
+    "EdithTolkien": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9725776786 [GLT9725776786].md",
+          "key": "225-j-r-r-tolkien-glt9725776786",
+          "show": "The Rest Is History",
+          "title": "225. J.R.R. Tolkien",
+          "url": "/wiki/sources/225-j-r-r-tolkien-glt9725776786/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/edithtolkien/"
     },
     "EdmundDeneMorel": {
       "episode_count": 1,
@@ -95530,9 +95567,9 @@
       "url": "/wiki/entities/jpmorgan/"
     },
     "JRRTolkien": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 3,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "36.黑暗的左手：流放与爱的未来往事 [605254522].md",
@@ -95589,6 +95626,13 @@
           "show": "The Rest Is History",
           "title": "226. The Lord of the Rings",
           "url": "/wiki/sources/226-the-lord-of-the-rings-glt1788342017/"
+        },
+        {
+          "episode_file": "GLT9725776786 [GLT9725776786].md",
+          "key": "225-j-r-r-tolkien-glt9725776786",
+          "show": "The Rest Is History",
+          "title": "225. J.R.R. Tolkien",
+          "url": "/wiki/sources/225-j-r-r-tolkien-glt9725776786/"
         }
       ],
       "updated": "2026-10-01",
@@ -127890,6 +127934,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/concepts/mythicbiographysourcecaution/"
     },
+    "MythologyForEngland": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9725776786 [GLT9725776786].md",
+          "key": "225-j-r-r-tolkien-glt9725776786",
+          "show": "The Rest Is History",
+          "title": "225. J.R.R. Tolkien",
+          "url": "/wiki/sources/225-j-r-r-tolkien-glt9725776786/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/mythologyforengland/"
+    },
     "NADTherapyEvidenceBoundary": {
       "episode_count": 3,
       "show_count": 1,
@@ -140603,6 +140663,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/philippines/"
+    },
+    "PhilologicalWorldbuilding": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9725776786 [GLT9725776786].md",
+          "key": "225-j-r-r-tolkien-glt9725776786",
+          "show": "The Rest Is History",
+          "title": "225. J.R.R. Tolkien",
+          "url": "/wiki/sources/225-j-r-r-tolkien-glt9725776786/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/philologicalworldbuilding/"
     },
     "PhoebeBridgers": {
       "episode_count": 1,
@@ -175923,6 +175999,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/taxidriver/"
     },
+    "TeaClubBarrovianSociety": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9725776786 [GLT9725776786].md",
+          "key": "225-j-r-r-tolkien-glt9725776786",
+          "show": "The Rest Is History",
+          "title": "225. J.R.R. Tolkien",
+          "url": "/wiki/sources/225-j-r-r-tolkien-glt9725776786/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/teaclubbarroviansociety/"
+    },
     "TeacherAIAugmentation": {
       "episode_count": 2,
       "show_count": 2,
@@ -177106,6 +177198,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/theendofreadingishere/"
     },
+    "TheFallOfGondolin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9725776786 [GLT9725776786].md",
+          "key": "225-j-r-r-tolkien-glt9725776786",
+          "show": "The Rest Is History",
+          "title": "225. J.R.R. Tolkien",
+          "url": "/wiki/sources/225-j-r-r-tolkien-glt9725776786/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/thefallofgondolin/"
+    },
     "TheFraudZadieSmith": {
       "episode_count": 1,
       "show_count": 1,
@@ -177139,9 +177247,9 @@
       "url": "/wiki/entities/thehistories/"
     },
     "TheHobbit": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1788342017 [GLT1788342017].md",
@@ -177149,6 +177257,13 @@
           "show": "The Rest Is History",
           "title": "226. The Lord of the Rings",
           "url": "/wiki/sources/226-the-lord-of-the-rings-glt1788342017/"
+        },
+        {
+          "episode_file": "GLT9725776786 [GLT9725776786].md",
+          "key": "225-j-r-r-tolkien-glt9725776786",
+          "show": "The Rest Is History",
+          "title": "225. J.R.R. Tolkien",
+          "url": "/wiki/sources/225-j-r-r-tolkien-glt9725776786/"
         }
       ],
       "updated": "2026-10-01",
