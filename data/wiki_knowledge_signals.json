@@ -30864,6 +30864,29 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/chizhaopingxinrebel/"
     },
+    "ChiangKaiShek": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "41.施剑翘复仇案：超越哈贝马斯的情与法 [614550038].md",
+          "key": "41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038",
+          "show": "蜜獾吃书",
+          "title": "41.施剑翘复仇案：超越哈贝马斯的情与法",
+          "url": "/wiki/sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038/"
+        },
+        {
+          "episode_file": "GLT5290070743 [GLT5290070743].md",
+          "key": "236-china-and-world-war-ii-part-2-glt5290070743",
+          "show": "The Rest Is History",
+          "title": "236. China and World War II (Part 2)",
+          "url": "/wiki/sources/236-china-and-world-war-ii-part-2-glt5290070743/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/chiangkaishek/"
+    },
     "Chicago1968DemocraticConvention": {
       "episode_count": 2,
       "show_count": 1,
@@ -31566,6 +31589,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/entities/chinaunitedstatesexchangefoundation/"
     },
+    "ChinaWartimeResistanceAndPoliticalRealignment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5290070743 [GLT5290070743].md",
+          "key": "236-china-and-world-war-ii-part-2-glt5290070743",
+          "show": "The Rest Is History",
+          "title": "236. China and World War II (Part 2)",
+          "url": "/wiki/sources/236-china-and-world-war-ii-part-2-glt5290070743/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/chinawartimeresistanceandpoliticalrealignment/"
+    },
     "ChinaWomensNationalFootballTeam": {
       "episode_count": 1,
       "show_count": 1,
@@ -31691,9 +31730,9 @@
       "url": "/wiki/entities/chinesechampionsleague/"
     },
     "ChineseCommunistParty": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1902993082 [GLT1902993082].md",
@@ -31701,9 +31740,16 @@
           "show": "The Rest Is History",
           "title": "366. The Architect of Modern China",
           "url": "/wiki/sources/366-the-architect-of-modern-china-glt1902993082/"
+        },
+        {
+          "episode_file": "GLT5290070743 [GLT5290070743].md",
+          "key": "236-china-and-world-war-ii-part-2-glt5290070743",
+          "show": "The Rest Is History",
+          "title": "236. China and World War II (Part 2)",
+          "url": "/wiki/sources/236-china-and-world-war-ii-part-2-glt5290070743/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/chinesecommunistparty/"
     },
     "ChineseFamilyBusinessSuccession": {
@@ -32183,6 +32229,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/chinesesuperleague/"
+    },
+    "ChineseWarMemoryReconciliation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5290070743 [GLT5290070743].md",
+          "key": "236-china-and-world-war-ii-part-2-glt5290070743",
+          "show": "The Rest Is History",
+          "title": "236. China and World War II (Part 2)",
+          "url": "/wiki/sources/236-china-and-world-war-ii-part-2-glt5290070743/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/chinesewarmemoryreconciliation/"
     },
     "ChineseWesternMedicineCollaborationBoundary": {
       "episode_count": 1,
@@ -117552,9 +117614,9 @@
       "url": "/wiki/entities/maoyisheng/"
     },
     "MaoZedong": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1902993082 [GLT1902993082].md",
@@ -117562,9 +117624,16 @@
           "show": "The Rest Is History",
           "title": "366. The Architect of Modern China",
           "url": "/wiki/sources/366-the-architect-of-modern-china-glt1902993082/"
+        },
+        {
+          "episode_file": "GLT5290070743 [GLT5290070743].md",
+          "key": "236-china-and-world-war-ii-part-2-glt5290070743",
+          "show": "The Rest Is History",
+          "title": "236. China and World War II (Part 2)",
+          "url": "/wiki/sources/236-china-and-world-war-ii-part-2-glt5290070743/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/maozedong/"
     },
     "MaoZheTCMDoctor": {
@@ -127172,6 +127241,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/nandos/"
     },
+    "NanjingMassacre": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5290070743 [GLT5290070743].md",
+          "key": "236-china-and-world-war-ii-part-2-glt5290070743",
+          "show": "The Rest Is History",
+          "title": "236. China and World War II (Part 2)",
+          "url": "/wiki/sources/236-china-and-world-war-ii-part-2-glt5290070743/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/nanjingmassacre/"
+    },
     "NanjingWildBoars": {
       "episode_count": 1,
       "show_count": 1,
@@ -127837,6 +127922,36 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/concepts/nationalistatlantismythmaking/"
+    },
+    "NationalistGovernment": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "65.龙王之怒：1931年的长江洪水 [658100922].md",
+          "key": "65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922",
+          "show": "蜜獾吃书",
+          "title": "65.龙王之怒：1931年的长江洪水",
+          "url": "/wiki/sources/65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922/"
+        },
+        {
+          "episode_file": "41.施剑翘复仇案：超越哈贝马斯的情与法 [614550038].md",
+          "key": "41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038",
+          "show": "蜜獾吃书",
+          "title": "41.施剑翘复仇案：超越哈贝马斯的情与法",
+          "url": "/wiki/sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038/"
+        },
+        {
+          "episode_file": "GLT5290070743 [GLT5290070743].md",
+          "key": "236-china-and-world-war-ii-part-2-glt5290070743",
+          "show": "The Rest Is History",
+          "title": "236. China and World War II (Part 2)",
+          "url": "/wiki/sources/236-china-and-world-war-ii-part-2-glt5290070743/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/nationalistgovernment/"
     },
     "NationalistStreetMobilization": {
       "episode_count": 1,
@@ -148701,9 +148816,9 @@
       "url": "/wiki/entities/ralphlordoftheflies/"
     },
     "RanaMitter": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1902993082 [GLT1902993082].md",
@@ -148711,9 +148826,16 @@
           "show": "The Rest Is History",
           "title": "366. The Architect of Modern China",
           "url": "/wiki/sources/366-the-architect-of-modern-china-glt1902993082/"
+        },
+        {
+          "episode_file": "GLT5290070743 [GLT5290070743].md",
+          "key": "236-china-and-world-war-ii-part-2-glt5290070743",
+          "show": "The Rest Is History",
+          "title": "236. China and World War II (Part 2)",
+          "url": "/wiki/sources/236-china-and-world-war-ii-part-2-glt5290070743/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/ranamitter/"
     },
     "RanavalonaI": {
@@ -185852,6 +185974,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/wangjingxiyulatehan/"
     },
+    "WangJingwei": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5290070743 [GLT5290070743].md",
+          "key": "236-china-and-world-war-ii-part-2-glt5290070743",
+          "show": "The Rest Is History",
+          "title": "236. China and World War II (Part 2)",
+          "url": "/wiki/sources/236-china-and-world-war-ii-part-2-glt5290070743/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/wangjingwei/"
+    },
     "WangJiye": {
       "episode_count": 3,
       "show_count": 1,
@@ -187608,6 +187746,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/wartimecoalitionaccountability/"
+    },
+    "WartimeCollaborationUnderOccupation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5290070743 [GLT5290070743].md",
+          "key": "236-china-and-world-war-ii-part-2-glt5290070743",
+          "show": "The Rest Is History",
+          "title": "236. China and World War II (Part 2)",
+          "url": "/wiki/sources/236-china-and-world-war-ii-part-2-glt5290070743/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/wartimecollaborationunderoccupation/"
     },
     "WartimeCommandDecapitation": {
       "episode_count": 3,
@@ -197219,6 +197373,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/yellowriver/"
+    },
+    "YellowRiverFlood1938": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5290070743 [GLT5290070743].md",
+          "key": "236-china-and-world-war-ii-part-2-glt5290070743",
+          "show": "The Rest Is History",
+          "title": "236. China and World War II (Part 2)",
+          "url": "/wiki/sources/236-china-and-world-war-ii-part-2-glt5290070743/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/yellowriverflood1938/"
     },
     "YiMeiZhiMingDrama": {
       "episode_count": 1,

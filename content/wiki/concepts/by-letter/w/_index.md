@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 8993
+wiki_total_pages: 8997
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -95,6 +95,9 @@ wiki_pages:
   - key: "WartimeCoalitionAccountability"
     title: "Wartime Coalition Accountability"
     url: "/wiki/concepts/wartimecoalitionaccountability/"
+  - key: "WartimeCollaborationUnderOccupation"
+    title: "Wartime Collaboration under Occupation"
+    url: "/wiki/concepts/wartimecollaborationunderoccupation/"
   - key: "WartimeCommandDecapitation"
     title: "Wartime Command Decapitation / 战时统帅斩首"
     url: "/wiki/concepts/wartimecommanddecapitation/"

@@ -26160,3 +26160,11 @@ Added source `237-marilyn-monroe-glt5351991903`; created `MarilynMonroe`, `Sarah
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | 236. China and World War II (Part 2)
+
+Added source `236-china-and-world-war-ii-part-2-glt5290070743`; created `NanjingMassacre`, `WangJingwei`, `ChinaWartimeResistanceAndPoliticalRealignment`, `YellowRiverFlood1938`, `WartimeCollaborationUnderOccupation`, and `ChineseWarMemoryReconciliation`; and resynthesized `ChiangKaiShek`, `RanaMitter`, `MaoZedong`, `ChineseCommunistParty`, and `NationalistGovernment` from their complete preserved evidence inventories. Core synthesis: China's continued resistance denied Japan a stable client settlement, but mass violence, famine, coercion, displacement, and military exhaustion weakened the Nationalists and transformed the later civil-war field without making communist victory inevitable in 1945. No settled contradiction was adopted. Casualty estimates, flood effectiveness, collaboration motives, the American “lost chance,” and postwar counterfactuals remain disputed or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,271-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

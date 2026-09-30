@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8993
+wiki_total_pages: 8997
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -767,6 +767,9 @@ wiki_pages:
   - key: "ChinaYouthUnemployment"
     title: "China Youth Unemployment"
     url: "/wiki/concepts/chinayouthunemployment/"
+  - key: "ChinaWartimeResistanceAndPoliticalRealignment"
+    title: "China's Wartime Resistance and Political Realignment"
+    url: "/wiki/concepts/chinawartimeresistanceandpoliticalrealignment/"
   - key: "ChinaChannanEtymologyMyth"
     title: "China-Changnan Etymology Myth / China源于昌南说"
     url: "/wiki/concepts/chinachannanetymologymyth/"
@@ -893,6 +896,9 @@ wiki_pages:
   - key: "ChineseStructuredFund"
     title: "Chinese Structured Fund / 中国分级基金"
     url: "/wiki/concepts/chinesestructuredfund/"
+  - key: "ChineseWarMemoryReconciliation"
+    title: "Chinese War Memory and Reconciliation"
+    url: "/wiki/concepts/chinesewarmemoryreconciliation/"
   - key: "ChineseWebFictionMethodology"
     title: "Chinese Web Fiction Methodology / 中国网文方法论"
     url: "/wiki/concepts/chinesewebfictionmethodology/"

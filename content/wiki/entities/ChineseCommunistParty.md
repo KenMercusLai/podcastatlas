@@ -4,7 +4,8 @@ type: entity
 tags: [organization, china, politics, communism]
 sources:
   - 366-the-architect-of-modern-china-glt1902993082
-last_updated: 2026-09-28
+  - 236-china-and-world-war-ii-part-2-glt5290070743
+last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
 
@@ -12,42 +13,45 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-The Chinese Communist Party appears in this wiki branch as the institution that absorbed major changes in economic method while retaining its monopoly of political authority.
+The Chinese Communist Party appears as a revolutionary organization that expanded during the war, won the later civil conflict, and subsequently adapted economic method while retaining ideological discipline and a coercive monopoly of political authority.
 
 ## Current Profile
 
-After Mao's death, the party could condemn the Cultural Revolution, remove the Gang of Four, marginalize Hua Guofeng, restore [[DengXiaoping]], and invite foreign economic expertise without renouncing its revolutionary identity. Reform was narrated as renewed learning and socialist modernization rather than surrender to liberal capitalism.
+During the war against Japan, [[236-china-and-world-war-ii-part-2-glt5290070743]] presents the party as growing in the countryside while the [[NationalistGovernment]] absorbed military attrition and legitimacy loss. Its Yan'an leadership used rectification to enforce ideological discipline and presented an attractive face to the American Dixie Mission while concealing harsher security practices. The source rejects both a social-democratic reading of the movement and communist victory as inevitable in 1945.
 
-The party's capacity for adaptation had a hard boundary. Officials and localities could experiment with markets, private firms, incentives, and special zones, but organized political pluralism remained unacceptable. In 1989 the leadership split over protest, Deng backed coercion, [[ZhaoZiyang]] was removed, and political opening froze while economic reform later resumed.
+After Mao's death, [[366-the-architect-of-modern-china-glt1902993082]] shows an institution capable of condemning the Cultural Revolution, restoring [[DengXiaoping]], inviting foreign expertise, and authorizing bounded market experiment without renouncing revolutionary identity. That adaptability ended at organized political pluralism: in 1989 the party used military force, removed [[ZhaoZiyang]], and later resumed economic reform without political liberalization.
 
 ## Key Characteristics
 
-- It preserved institutional continuity while changing economic policy and leadership arrangements.
-- It kept Mao as a legitimacy source while officially condemning the Cultural Revolution.
-- It authorized bounded experimentation, foreign learning, and market participation.
-- Its internal leadership contained meaningful reformist and hard-line alternatives.
-- It retained a coercive veto over movements perceived to threaten one-party rule.
-- After 1989 it separated continued economic opening from political liberalization.
+- It combined wartime rural expansion with strong ideological and security discipline.
+- It courted possible American support without abandoning revolutionary land politics.
+- Its eventual victory was enabled by wartime change but was not inevitable at Japan's surrender.
+- It preserved institutional continuity while changing leaders and economic instruments.
+- It kept Mao as a legitimacy source while condemning selected Mao-era disasters.
+- It authorized bounded experimentation while retaining a coercive veto over political pluralism.
 
 ## Evidence
 
-- Post-Mao adaptation: [[366-the-architect-of-modern-china-glt1902993082]] follows the removal of the Gang of Four, Hua's displacement, Deng's restoration, and the 1981 condemnation of the Cultural Revolution.
-- Reform authorization: [[366-the-architect-of-modern-china-glt1902993082]] describes foreign advisers, local experimentation, special zones, new incentives, and private activity under continued party rule.
-- Coercive boundary: [[366-the-architect-of-modern-china-glt1902993082]] describes the 1989 leadership conflict, military crackdown, Zhao's removal, and the later revival of economic reform.
+- Wartime organization: [[236-china-and-world-war-ii-part-2-glt5290070743]] describes rural growth, Yan'an rectification, the Dixie Mission, and concealed security practices.
+- Revolutionary program and contingency: [[236-china-and-world-war-ii-part-2-glt5290070743]] emphasizes land redistribution and violence while denying that victory was predetermined in 1945.
+- Post-Mao adaptation: [[366-the-architect-of-modern-china-glt1902993082]] follows leadership change, foreign learning, local experimentation, special zones, and market participation under continued party rule.
+- Coercive boundary: [[366-the-architect-of-modern-china-glt1902993082]] describes the 1989 leadership conflict, crackdown, Zhao's removal, and later revival of economic reform.
 
 ## Qualifications
 
-This page describes the party through one episode centered on the transition from Mao to Deng. It does not cover the party's complete institutional history, present organization, regional variation, membership, or every current policy. The episode's use of “communist” and “capitalist” is interpretive shorthand for a mixed and changing political economy.
+The page synthesizes one wartime narrative and one reform-era narrative, not the party's complete institutional history. The wartime account gives limited detail about regional governance, Japanese-facing operations, rectification victims, or the later civil war. The reform episode's economic labels are interpretive shorthand for a mixed and changing political economy.
 
 ## What Changed
 
-- Established an institutional profile connecting ideological continuity, policy adaptation, internal conflict, and coercive supremacy.
-- Distinguished bounded economic experimentation from political pluralism.
+- Extended the profile backward from post-Mao adaptation to wartime growth and Yan'an discipline.
+- Added the distinction between wartime opportunity and inevitable communist victory.
+- Connected external courtship to continued revolutionary commitment rather than presumed moderation.
 
 ## Relationships
 
-- [[MaoZedong]] - foundational leader whose authority the party preserved despite condemning the Cultural Revolution.
+- [[MaoZedong]] - wartime and foundational leader whose authority remained central after his death.
+- [[NationalistGovernment]] - wartime partner-rival and later civil-war opponent.
+- [[ChinaWartimeResistanceAndPoliticalRealignment]] - framework explaining the changed balance before renewed civil war.
 - [[DengXiaoping]] - paramount leader who redirected policy while defending party monopoly.
-- [[ZhaoZiyang]] - internal reform leader removed after the 1989 crisis.
-- [[ChineseAuthoritarianMarketReform]] - adaptive settlement maintained by the party.
+- [[ChineseAuthoritarianMarketReform]] - adaptive post-Mao settlement maintained by the party.
 - [[TiananmenCrackdown1989]] - event demonstrating the party's coercive political boundary.

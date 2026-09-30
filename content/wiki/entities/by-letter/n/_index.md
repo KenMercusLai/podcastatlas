@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 11605
+wiki_total_pages: 11607
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -56,6 +56,9 @@ wiki_pages:
   - key: "Nanit"
     title: "Nanit"
     url: "/wiki/entities/nanit/"
+  - key: "NanjingMassacre"
+    title: "Nanjing Massacre / 南京大屠杀"
+    url: "/wiki/entities/nanjingmassacre/"
   - key: "NanjingWildBoars"
     title: "Nanjing Wild Boars / 南京野猪"
     url: "/wiki/entities/nanjingwildboars/"

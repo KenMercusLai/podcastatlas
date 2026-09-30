@@ -3323,6 +3323,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [No.221 中国辣条江湖](sources/no-221-zhongguo-latiao-jianghu-1020016798.md) — 半拿铁 episode on Pingjiang's辣条 origin cluster, Weilong and Malawangzi's competing routes, food-safety standardization, and second-generation brand visibility.
 - [当眼镜、耳机、手机都有 AI，谁来统一你的「第二大脑」｜ 2026 高通骁龙峰会 S10E31](sources/dang-yanjing-erji-shouji-dou-you-ai-shui-lai-tongyi-ni-de-di-er-danao-2026-gaotong-xiaolong-fenghui-s10e31-2d6bfcec-31c3-4ef2-981f-6dc2864cf92d.md) — What's Next｜科技早知道 episode on distributed AI devices, the phone as coordination hub, local-first multimodal memory, cross-device interoperability, and Qualcomm's platform ambitions.
 
+- [236. China and World War II (Part 2)](sources/236-china-and-world-war-ii-part-2-glt5290070743.md) — The Rest Is History episode with Rana Mitter on Nanjing, the 1938 Yellow River flood, resistance and collaboration, alliance friction, communist growth, civil-war contingency, and war memory.
+
 ## Entities
 - [Marilyn Monroe](entities/MarilynMonroe.md) — American actor and model whose disciplined screen persona became a durable symbol of Hollywood, consumer culture, and biographical uncertainty.
 - [Sarah Churchwell](entities/SarahChurchwell.md) — Scholar whose Monroe work supplies an evidence-conscious method for separating repeated celebrity stories from verified biography.
@@ -14961,6 +14963,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Qualcomm / 高通](entities/Qualcomm.md) — Semiconductor and platform company presented as linking edge-AI hardware, model deployment, and prospective device interoperability.
 - [Modular](entities/ModularAI.md) — AI software-infrastructure company whose Mojo and MAX stack is presented as supporting cross-hardware model deployment.
 
+- [Nanjing Massacre / 南京大屠杀](entities/NanjingMassacre.md) — Japanese mass murder, sexual violence, plunder, and terror after the December 1937 occupation of Nanjing.
+- [Wang Jingwei / 汪精卫](entities/WangJingwei.md) — Former Nationalist leader who headed the Japanese-backed Nanjing regime while claiming Republican continuity and harm reduction.
+
 ## Concepts
 - [Celebrity Image Afterlife](concepts/CelebrityImageAfterlife.md) — Process by which detachable images and later events preserve a public figure as a reusable symbol while obscuring the historical person.
 - [Responsive Deep Brain Stimulation](concepts/ResponsiveDeepBrainStimulation.md) — Closed-loop neuromodulation that detects a selected neural state and delivers brief stimulation rather than stimulating continuously.
@@ -23995,5 +24000,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [县域产业危机升级 / County-Industry Crisis Upgrade](concepts/CountyIndustryCrisisUpgrade.md) — Local-cluster adaptation that recombines inherited capabilities after shocks and later institutionalizes production through standards, training, and brand trust.
 - [Cross-Device Personal Memory / 跨设备个人记忆](concepts/CrossDevicePersonalMemory.md) — User-governed continuity layer for multimodal context, permissions, and task state across AI devices and platforms.
 - [Remember-Understand-Act Loop / 记忆—理解—行动闭环](concepts/RememberUnderstandActLoop.md) — Three-stage personal-AI model separating retained context, contextual judgment, and permissioned action.
+
+- [China's Wartime Resistance and Political Realignment](concepts/ChinaWartimeResistanceAndPoliticalRealignment.md) — Continued resistance constrained Japan while mass violence and exhaustion weakened the Nationalists and changed the later civil-war balance.
+- [1938 Yellow River Flood](concepts/YellowRiverFlood1938.md) — Deliberate Nationalist dike breach whose mass civilian cost and disputed military value define a severe military-necessity dilemma.
+- [Wartime Collaboration under Occupation](concepts/WartimeCollaborationUnderOccupation.md) — Framework distinguishing elite client rule from coerced, pragmatic, and survival-based accommodation under occupation.
+- [Chinese War Memory and Reconciliation](concepts/ChineseWarMemoryReconciliation.md) — Selective widening of war memory to recognize Nationalist as well as communist resistance without resolving rival narratives.
 
 ## Syntheses

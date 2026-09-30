@@ -4,7 +4,8 @@ type: entity
 tags: [person, china, communism, revolution]
 sources:
   - 366-the-architect-of-modern-china-glt1902993082
-last_updated: 2026-09-28
+  - 236-china-and-world-war-ii-part-2-glt5290070743
+last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
 
@@ -12,40 +13,43 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Mao Zedong appears in this wiki branch as the revolutionary founder whose authority remained indispensable after his economic and political campaigns were partially repudiated.
+Mao Zedong appears as the revolutionary leader whose wartime communist movement expanded under ideological discipline and whose later authority remained indispensable even after destructive governing campaigns were partly repudiated.
 
 ## Current Profile
 
-The episode presents Mao's legacy as a constraint on post-1976 reform. The [[ChineseCommunistParty]] condemned the Cultural Revolution as a disaster in 1981 but did not condemn Mao outright because he remained central to revolutionary legitimacy. Hua Guofeng initially claimed continuity with Mao, while [[DengXiaoping]] learned to use Maoist phrases such as opposition to “book worship” to authorize practical learning and economic change.
+[[236-china-and-world-war-ii-part-2-glt5290070743]] places Mao at Yan'an while Nationalist power was being exhausted by war. The communists cultivated American interest during the Dixie Mission, but the episode rejects the strong “lost chance” thesis: Mao and his movement were committed revolutionaries pursuing land seizure, redistribution, and violence against landlords, not disguised social democrats awaiting US partnership.
 
-Mao's era supplies both the system Deng inherited and the trauma reform leaders remembered: command economy, the Great Leap Forward famine, Cultural Revolution persecution, inwardness, and violent political campaigns. Yet Deng's own revolutionary violence and initial support for the Cultural Revolution prevent a simple moral division between the two leaders.
+[[366-the-architect-of-modern-china-glt1902993082]] shows the later paradox of Mao's legacy. The [[ChineseCommunistParty]] condemned the Cultural Revolution as a disaster without repudiating Mao as a foundation of revolutionary legitimacy. [[DengXiaoping]] could therefore use Maoist language to authorize practical learning and economic change while preserving one-party rule.
 
 ## Key Characteristics
 
-- Mao remained the symbolic foundation of party legitimacy after his death.
+- He led an ideologically committed revolutionary movement rather than a moderate reform party.
+- His wartime base combined organizational growth, external courtship, and internal rectification.
+- Land revolution and violence against landlords formed part of the movement's program.
 - His later campaigns are presented as economically destructive and politically traumatic.
-- Successors criticized particular disasters without fully repudiating his revolutionary authority.
-- Maoist language remained usable for policy directions that departed from Mao-era economic practice.
-- The episode treats Mao-to-Deng change as partial institutional adaptation rather than clean regime replacement.
+- His symbolic authority remained central to party legitimacy after his death.
+- Successors reused Maoist language for policies that departed from Mao-era economic practice.
 
 ## Evidence
 
-- Protected legacy: [[366-the-architect-of-modern-china-glt1902993082]] says the party condemned the Cultural Revolution but could not remove Mao from its revolutionary pantheon.
-- Policy inheritance: [[366-the-architect-of-modern-china-glt1902993082]] describes the Soviet-style command economy, Great Leap Forward famine, inward turn, and Cultural Revolution turmoil preceding reform.
-- Rhetorical reuse: [[366-the-architect-of-modern-china-glt1902993082]] shows Deng redirecting Mao's attack on “book worship” toward science, technology, languages, economics, and practical learning.
+- Wartime growth and discipline: [[236-china-and-world-war-ii-part-2-glt5290070743]] describes communist rural expansion, Yan'an rectification, and the Dixie Mission.
+- Revolutionary boundary: [[236-china-and-world-war-ii-part-2-glt5290070743]] rejects the idea that Mao's communists were social democrats and points to land seizure and landlord killing.
+- Protected legacy: [[366-the-architect-of-modern-china-glt1902993082]] says the party condemned the Cultural Revolution while retaining Mao in its revolutionary pantheon.
+- Policy inheritance and rhetorical reuse: [[366-the-architect-of-modern-china-glt1902993082]] connects command economy and political trauma to Deng's redirection of Maoist language toward practical learning.
 
 ## Qualifications
 
-This is a deliberately bounded profile based on one Deng-centered episode, not a comprehensive biography or assessment of Mao's revolution, wartime leadership, state building, ideology, or mass campaigns. Death estimates, responsibility across institutions, and the extent of Deng's continuity with Mao require broader evidence.
+The wartime episode does not provide a full account of communist military operations, social policy, rectification violence, or relations with local populations. The reform episode is Deng-centered rather than a comprehensive Mao biography. Claims about landlord deaths, American alternatives, campaign responsibility, and institutional continuity remain bounded to these sources.
 
 ## What Changed
 
-- Established Mao as both protected source of regime legitimacy and negative policy inheritance for the reform era.
-- Added the distinction between criticizing Mao-era disasters and repudiating Mao's foundational status.
+- Added Mao's wartime Yan'an position, the Dixie Mission, and the rejected American “lost chance” thesis.
+- Connected wartime revolutionary commitment to the protected but contested legacy inherited by post-Mao reformers.
 
 ## Relationships
 
-- [[DengXiaoping]] - revolutionary subordinate and successor who reused Maoist authority while changing economic direction.
-- [[ChineseCommunistParty]] - institution whose legitimacy remained tied to Mao after his death.
-- [[CulturalRevolutionGovernanceMemory]] - traumatic political inheritance associated with Mao's later rule.
-- [[ChineseAuthoritarianMarketReform]] - post-Mao settlement that changed economic instruments while preserving party monopoly.
+- [[ChineseCommunistParty]] - revolutionary organization he led and enduring institution built around his authority.
+- [[ChiangKaiShek]] - wartime rival whose government bore the main conventional-war burden in the episode's account.
+- [[ChinaWartimeResistanceAndPoliticalRealignment]] - framework for communist growth amid Nationalist attrition.
+- [[DengXiaoping]] - successor who reused Maoist legitimacy while redirecting economic policy.
+- [[CulturalRevolutionGovernanceMemory]] - traumatic later inheritance attached to Mao's rule.
