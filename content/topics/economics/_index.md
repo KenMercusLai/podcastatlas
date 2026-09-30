@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2146
+topic_total_pages: 2147
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3187,6 +3187,9 @@ topic_concepts:
   - key: "WuzhuCoinRestoration"
     title: "五铢钱恢复 / Wuzhu Coin Restoration"
     url: "/wiki/concepts/wuzhucoinrestoration/"
+  - key: "CountyIndustryCrisisUpgrade"
+    title: "县域产业危机升级 / County-Industry Crisis Upgrade"
+    url: "/wiki/concepts/countyindustrycrisisupgrade/"
   - key: "MerchantComposureDiscipline"
     title: "商人定气功夫 / Merchant Composure Discipline"
     url: "/wiki/concepts/merchantcomposurediscipline/"

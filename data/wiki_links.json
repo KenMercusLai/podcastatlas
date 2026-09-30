@@ -18555,6 +18555,10 @@
     "title": "Countess Marie Festetics",
     "url": "/wiki/entities/countessmariefestetics/"
   },
+  "CountyIndustryCrisisUpgrade": {
+    "title": "县域产业危机升级 / County-Industry Crisis Upgrade",
+    "url": "/wiki/concepts/countyindustrycrisisupgrade/"
+  },
   "CountyLinesDrugTrafficking": {
     "title": "County Lines Drug Trafficking",
     "url": "/wiki/concepts/countylinesdrugtrafficking/"
@@ -28086,6 +28090,10 @@
   "FoodAsMultiSystemIntervention": {
     "title": "Food As Multi-System Intervention",
     "url": "/wiki/concepts/foodasmultisystemintervention/"
+  },
+  "FoodClassificationRegulatoryConflict": {
+    "title": "食品分类监管冲突 / Food Classification Regulatory Conflict",
+    "url": "/wiki/concepts/foodclassificationregulatoryconflict/"
   },
   "FoodCourtBrandIncubation": {
     "title": "Food-Court Brand Incubation / 美食广场品牌孵化",
@@ -42863,6 +42871,10 @@
     "title": "后周 / Later Zhou",
     "url": "/wiki/entities/laterzhou/"
   },
+  "LatiaoIndustryStandardization": {
+    "title": "辣条产业标准化 / Latiao Industry Standardization",
+    "url": "/wiki/concepts/latiaoindustrystandardization/"
+  },
   "LatinAmerica": {
     "title": "Latin America",
     "url": "/wiki/entities/latinamerica/"
@@ -57178,6 +57190,10 @@
   "PingGe": {
     "title": "品哥",
     "url": "/wiki/entities/pingge/"
+  },
+  "Pingjiang": {
+    "title": "平江 / Pingjiang",
+    "url": "/wiki/entities/pingjiang/"
   },
   "Pingtouge": {
     "title": "Pingtouge",
@@ -78167,6 +78183,10 @@
     "title": "Weilai Buyuan",
     "url": "/wiki/entities/weilaibuyuan/"
   },
+  "Weilong": {
+    "title": "卫龙 / Weilong",
+    "url": "/wiki/entities/weilong/"
+  },
   "WeimarRepublic": {
     "title": "Weimar Republic",
     "url": "/wiki/entities/weimarrepublic/"
@@ -83475,6 +83495,10 @@
     "title": "张子 / Zhang Zi (Qi general)",
     "url": "/wiki/entities/zhangziqigeneral/"
   },
+  "ZhangZilong": {
+    "title": "张子龙 / Zhang Zilong",
+    "url": "/wiki/entities/zhangzilong/"
+  },
   "ZhangZiqiang": {
     "title": "Zhang Ziqiang / 张子强",
     "url": "/wiki/entities/zhangziqiang/"
@@ -88010,6 +88034,10 @@
   "no-221-leiniao-ceo-xinjishu-yuelaiyueduo-women-weishenme-hai-xuyao-yifu-zhineng-yanjing-gkwridon6uwmaoosszqset9vd": {
     "title": "No.221 雷鸟 CEO：新技术越来越多，我们为什么还需要一副智能眼镜？",
     "url": "/wiki/sources/no-221-leiniao-ceo-xinjishu-yuelaiyueduo-women-weishenme-hai-xuyao-yifu-zhineng-yanjing-gkwridon6uwmaoosszqset9vd/"
+  },
+  "no-221-zhongguo-latiao-jianghu-1020016798": {
+    "title": "No.221 中国辣条江湖",
+    "url": "/wiki/sources/no-221-zhongguo-latiao-jianghu-1020016798/"
   },
   "no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht": {
     "title": "No.222 程泓宁：从庙堂之上的投资人，到在真实的泥地里打滚",

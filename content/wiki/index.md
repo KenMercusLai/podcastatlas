@@ -3315,6 +3315,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Cheques and the City: Premier League disgrace](sources/cheques-and-the-city-premier-league-disgrace-6abcdaab4e059d44b566ca74.md) — The Intelligence episode on Manchester City's disputed finances, Russian grey-zone operations, and Chiikawa's anxious world beneath cute design.
 
 - [AI講台語，長輩為何有聽沒有懂？](sources/ai-jiang-taiyu-zhangbei-weihe-you-ting-meiyou-dong-8f2ef858c5c159ba4b0becd4f1676e8b.md) — 端聞 episode on Taiwanese-language clinical communication, elder comprehension, AI patient education, low-resource speech data, and user-centered validation.
+- [No.221 中国辣条江湖](sources/no-221-zhongguo-latiao-jianghu-1020016798.md) — 半拿铁 episode on Pingjiang's辣条 origin cluster, Weilong and Malawangzi's competing routes, food-safety standardization, and second-generation brand visibility.
 
 ## Entities
 - [Lord Randolph Churchill](entities/LordRandolphChurchill.md) — Winston Churchill's admired but critical father, whose death intensified the episode's account of Winston's drive for achievement.
@@ -14941,6 +14942,9 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [花蓮慈濟醫院 / Hualien Tzu Chi Hospital](entities/HualienTzuChiHospital.md) — Eastern Taiwan referral hospital testing reusable AI-generated Taiwanese patient-education videos.
 - [台灣人工智慧實驗室 / Taiwan AI Labs](entities/TaiwanAILabs.md) — AI organization adapting Taiwanese speech generation through better alignment and Romanized pronunciation targets.
+- [卫龙 / Weilong](entities/Weilong.md) — Luohe snack company that scaled辣条 through packaging, brand marketing, capital, and later vegetable-snack diversification.
+- [平江 / Pingjiang](entities/Pingjiang.md) — Hunan county presented as modern辣条's origin cluster and a case of crisis-driven food-industry upgrading.
+- [张子龙 / Zhang Zilong](entities/ZhangZilong.md) — Malawangzi second-generation employee whose public account connects brand visibility to unresolved operating apprenticeship.
 
 ## Concepts
 - [Romanticized War Moral Ambivalence](concepts/RomanticizedWarMoralAmbivalence.md) — Coexistence of attraction to danger and martial glory with admiration for enemies, awareness of suffering, and revulsion at cruelty.
@@ -23965,5 +23969,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mother-Tongue Clinical Communication / 母語醫療溝通](concepts/MotherTongueClinicalCommunication.md) — Clinical language-access frame joining trust, symptom disclosure, intelligible education, and home-care continuity.
 - [Low-Resource Speech AI Development / 低資源語音 AI 開發](concepts/LowResourceSpeechAIDevelopment.md) — Data-quality framework for aligned audio and text, contextual pronunciation, orthographic choice, transfer learning, and user comprehension.
 - [Clinical Language Comprehension Validation / 臨床語言理解驗證](concepts/ClinicalLanguageComprehensionValidation.md) — Functional testing of whether intended patients and caregivers understand and can act on health information.
+- [辣条产业标准化 / Latiao Industry Standardization](concepts/LatiaoIndustryStandardization.md) — Transition from low-price workshops toward cleaner facilities, testing, national classification, and higher-cost category legitimacy.
+- [食品分类监管冲突 / Food Classification Regulatory Conflict](concepts/FoodClassificationRegulatoryConflict.md) — Conflict in which different legal food categories make the same ingredients or additives compliant in one jurisdiction and noncompliant in another.
+- [县域产业危机升级 / County-Industry Crisis Upgrade](concepts/CountyIndustryCrisisUpgrade.md) — Local-cluster adaptation that recombines inherited capabilities after shocks and later institutionalizes production through standards, training, and brand trust.
 
 ## Syntheses

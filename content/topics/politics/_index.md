@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2877
+topic_total_pages: 2880
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4663,6 +4663,9 @@ topic_concepts:
   - key: "MourningDiplomaticRestraint"
     title: "趁丧不伐 / Mourning Diplomatic Restraint"
     url: "/wiki/concepts/mourningdiplomaticrestraint/"
+  - key: "LatiaoIndustryStandardization"
+    title: "辣条产业标准化 / Latiao Industry Standardization"
+    url: "/wiki/concepts/latiaoindustrystandardization/"
   - key: "FrontierProxyCommitmentBinding"
     title: "边疆代理承诺绑定 / Frontier Proxy Commitment Binding"
     url: "/wiki/concepts/frontierproxycommitmentbinding/"
@@ -4711,6 +4714,9 @@ topic_concepts:
   - key: "PreventiveFloodGovernance"
     title: "预防性水患治理 / Preventive Flood Governance"
     url: "/wiki/concepts/preventivefloodgovernance/"
+  - key: "FoodClassificationRegulatoryConflict"
+    title: "食品分类监管冲突 / Food Classification Regulatory Conflict"
+    url: "/wiki/concepts/foodclassificationregulatoryconflict/"
   - key: "HongKongFootballCommercialClubGovernance"
     title: "香港商业球队治理 / Hong Kong Commercial Football Club Governance"
     url: "/wiki/concepts/hongkongfootballcommercialclubgovernance/"
@@ -8025,6 +8031,9 @@ topic_sources:
   - key: "no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500"
     title: "No.206 检索、送药、看病：互联网医疗这些年 | 中国互联网故事22"
     url: "/wiki/sources/no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500/"
+  - key: "no-221-zhongguo-latiao-jianghu-1020016798"
+    title: "No.221 中国辣条江湖"
+    url: "/wiki/sources/no-221-zhongguo-latiao-jianghu-1020016798/"
   - key: "omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb"
     title: "Omission accomplished: why the Iran-war cycle spins on"
     url: "/wiki/sources/omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb/"

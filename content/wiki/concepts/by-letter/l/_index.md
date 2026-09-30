@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 8982
+wiki_total_pages: 8985
 wiki_pages:
   - key: "LaborIllusion"
     title: "Labor Illusion"
@@ -1004,6 +1004,9 @@ wiki_pages:
   - key: "LuntaiSelfCriticismPolicyTurn"
     title: "轮台罪己诏政策转向 / Luntai Self-Criticism Policy Turn"
     url: "/wiki/concepts/luntaiselfcriticismpolicyturn/"
+  - key: "LatiaoIndustryStandardization"
+    title: "辣条产业标准化 / Latiao Industry Standardization"
+    url: "/wiki/concepts/latiaoindustrystandardization/"
   - key: "LianhengStrategy"
     title: "连横 / Lianheng Strategy"
     url: "/wiki/concepts/lianhengstrategy/"

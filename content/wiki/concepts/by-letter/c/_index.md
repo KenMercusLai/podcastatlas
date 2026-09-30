@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8982
+wiki_total_pages: 8985
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2813,6 +2813,9 @@ wiki_pages:
   - key: "CrisisRumorDeamplification"
     title: "危机谣言降幅治理 / Crisis Rumor De-amplification"
     url: "/wiki/concepts/crisisrumordeamplification/"
+  - key: "CountyIndustryCrisisUpgrade"
+    title: "县域产业危机升级 / County-Industry Crisis Upgrade"
+    url: "/wiki/concepts/countyindustrycrisisupgrade/"
   - key: "ChronicleBiographicalHistoryForms"
     title: "史书体例意识 / Chronicle and Biographical History Forms"
     url: "/wiki/concepts/chroniclebiographicalhistoryforms/"

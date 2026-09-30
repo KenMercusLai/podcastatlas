@@ -31635,9 +31635,9 @@
       "url": "/wiki/entities/chinesecommunistparty/"
     },
     "ChineseFamilyBusinessSuccession": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "EP255 厂二代的“继承之战”：年轻人接班会重塑企业吗？ [likvzmPGwXneTPaeZxCLsX4s_HkW].md",
@@ -31652,9 +31652,16 @@
           "show": "半拿铁 | 商业沉浮录",
           "title": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头",
           "url": "/wiki/sources/no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666/"
+        },
+        {
+          "episode_file": "No.221 中国辣条江湖 [1020016798].md",
+          "key": "no-221-zhongguo-latiao-jianghu-1020016798",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.221 中国辣条江湖",
+          "url": "/wiki/sources/no-221-zhongguo-latiao-jianghu-1020016798/"
         }
       ],
-      "updated": "2026-09-06",
+      "updated": "2026-09-30",
       "url": "/wiki/concepts/chinesefamilybusinesssuccession/"
     },
     "ChineseFootballAsianCompetitionPriority": {
@@ -39048,6 +39055,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/countessmariefestetics/"
+    },
+    "CountyIndustryCrisisUpgrade": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "No.221 中国辣条江湖 [1020016798].md",
+          "key": "no-221-zhongguo-latiao-jianghu-1020016798",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.221 中国辣条江湖",
+          "url": "/wiki/sources/no-221-zhongguo-latiao-jianghu-1020016798/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/countyindustrycrisisupgrade/"
     },
     "CountyLinesDrugTrafficking": {
       "episode_count": 1,
@@ -60628,6 +60651,29 @@
       "updated": "2026-09-14",
       "url": "/wiki/concepts/factorybaseddeterrence/"
     },
+    "FactorySecondGenerationPersonalIP": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "EP255 厂二代的“继承之战”：年轻人接班会重塑企业吗？ [likvzmPGwXneTPaeZxCLsX4s_HkW].md",
+          "key": "ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw",
+          "show": "Talk三联",
+          "title": "EP255 厂二代的“继承之战”：年轻人接班会重塑企业吗？",
+          "url": "/wiki/sources/ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw/"
+        },
+        {
+          "episode_file": "No.221 中国辣条江湖 [1020016798].md",
+          "key": "no-221-zhongguo-latiao-jianghu-1020016798",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.221 中国辣条江湖",
+          "url": "/wiki/sources/no-221-zhongguo-latiao-jianghu-1020016798/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/factorysecondgenerationpersonalip/"
+    },
     "FafaDeBelem": {
       "episode_count": 1,
       "show_count": 1,
@@ -65359,6 +65405,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/concepts/foodasmultisystemintervention/"
+    },
+    "FoodClassificationRegulatoryConflict": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "No.221 中国辣条江湖 [1020016798].md",
+          "key": "no-221-zhongguo-latiao-jianghu-1020016798",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.221 中国辣条江湖",
+          "url": "/wiki/sources/no-221-zhongguo-latiao-jianghu-1020016798/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/foodclassificationregulatoryconflict/"
     },
     "FoodPleasureEngineering": {
       "episode_count": 2,
@@ -103451,6 +103513,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/latentrivalrecognition/"
     },
+    "LatiaoIndustryStandardization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "No.221 中国辣条江湖 [1020016798].md",
+          "key": "no-221-zhongguo-latiao-jianghu-1020016798",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.221 中国辣条江湖",
+          "url": "/wiki/sources/no-221-zhongguo-latiao-jianghu-1020016798/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/latiaoindustrystandardization/"
+    },
     "LaughterTriggeredHealthRisk": {
       "episode_count": 1,
       "show_count": 1,
@@ -116460,6 +116538,29 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/malakandcampaign/"
+    },
+    "Malawangzi": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "EP255 厂二代的“继承之战”：年轻人接班会重塑企业吗？ [likvzmPGwXneTPaeZxCLsX4s_HkW].md",
+          "key": "ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw",
+          "show": "Talk三联",
+          "title": "EP255 厂二代的“继承之战”：年轻人接班会重塑企业吗？",
+          "url": "/wiki/sources/ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw/"
+        },
+        {
+          "episode_file": "No.221 中国辣条江湖 [1020016798].md",
+          "key": "no-221-zhongguo-latiao-jianghu-1020016798",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.221 中国辣条江湖",
+          "url": "/wiki/sources/no-221-zhongguo-latiao-jianghu-1020016798/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/malawangzi/"
     },
     "MalborkCastle": {
       "episode_count": 1,
@@ -139471,6 +139572,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/pingdangwesternhan/"
+    },
+    "Pingjiang": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "No.221 中国辣条江湖 [1020016798].md",
+          "key": "no-221-zhongguo-latiao-jianghu-1020016798",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.221 中国辣条江湖",
+          "url": "/wiki/sources/no-221-zhongguo-latiao-jianghu-1020016798/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/pingjiang/"
     },
     "Pingtouge": {
       "episode_count": 3,
@@ -188113,6 +188230,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/entities/weizilatehan/"
     },
+    "Weilong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "No.221 中国辣条江湖 [1020016798].md",
+          "key": "no-221-zhongguo-latiao-jianghu-1020016798",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.221 中国辣条江湖",
+          "url": "/wiki/sources/no-221-zhongguo-latiao-jianghu-1020016798/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/weilong/"
+    },
     "WeimarRepublic": {
       "episode_count": 4,
       "show_count": 1,
@@ -200888,6 +201021,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/zhangzhongwesternhan/"
+    },
+    "ZhangZilong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "No.221 中国辣条江湖 [1020016798].md",
+          "key": "no-221-zhongguo-latiao-jianghu-1020016798",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.221 中国辣条江湖",
+          "url": "/wiki/sources/no-221-zhongguo-latiao-jianghu-1020016798/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/zhangzilong/"
     },
     "ZhangZiqiang": {
       "episode_count": 1,
