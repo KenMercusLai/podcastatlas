@@ -8030,9 +8030,9 @@
       "url": "/wiki/concepts/alcoholdemandreset/"
     },
     "AlcoholLiverHarmBoundary": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lpI_Sy3oLuVWT46bgdGG81DZS2QB [lpI_Sy3oLuVWT46bgdGG81DZS2QB].md",
@@ -8040,10 +8040,49 @@
           "show": "这病说来话长",
           "title": "VOL.156爱肝护肝第一步你就走错了 沉默的“人体化工厂”自救指南",
           "url": "/wiki/sources/vol-156-aigan-hugan-diyibu-ni-jiu-zoucuo-le-chenmo-de-renti-huagongchang-zijiu-zhinan-lpi_sy3oluvwt46bgdgg81dzs2qb/"
+        },
+        {
+          "episode_file": "SCIM8915337113 [SCIM8915337113].md",
+          "key": "what-alcohol-does-to-your-body-brain-health-scim8915337113",
+          "show": "Huberman Lab",
+          "title": "What Alcohol Does to Your Body, Brain & Health",
+          "url": "/wiki/sources/what-alcohol-does-to-your-body-brain-health-scim8915337113/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/alcoholliverharmboundary/"
+    },
+    "AlcoholRewardStressAdaptation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8915337113 [SCIM8915337113].md",
+          "key": "what-alcohol-does-to-your-body-brain-health-scim8915337113",
+          "show": "Huberman Lab",
+          "title": "What Alcohol Does to Your Body, Brain & Health",
+          "url": "/wiki/sources/what-alcohol-does-to-your-body-brain-health-scim8915337113/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/alcoholrewardstressadaptation/"
+    },
+    "AlcoholSystemicDoseRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8915337113 [SCIM8915337113].md",
+          "key": "what-alcohol-does-to-your-body-brain-health-scim8915337113",
+          "show": "Huberman Lab",
+          "title": "What Alcohol Does to Your Body, Brain & Health",
+          "url": "/wiki/sources/what-alcohol-does-to-your-body-brain-health-scim8915337113/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/alcoholsystemicdoserisk/"
     },
     "AlexDomash": {
       "episode_count": 1,
@@ -171964,9 +172003,9 @@
       "url": "/wiki/concepts/subscriptionvsalgorithmpodcastdistribution/"
     },
     "SubstanceSleepArchitectureBoundary": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM6408620468 [SCIM6408620468].md",
@@ -172002,9 +172041,16 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Matt Walker: Protocols to Improve Your Sleep",
           "url": "/wiki/sources/guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663/"
+        },
+        {
+          "episode_file": "SCIM8915337113 [SCIM8915337113].md",
+          "key": "what-alcohol-does-to-your-body-brain-health-scim8915337113",
+          "show": "Huberman Lab",
+          "title": "What Alcohol Does to Your Body, Brain & Health",
+          "url": "/wiki/sources/what-alcohol-does-to-your-body-brain-health-scim8915337113/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/substancesleeparchitectureboundary/"
     },
     "SuccessfulAging": {

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9032
+wiki_total_pages: 9034
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1682,6 +1682,12 @@ wiki_pages:
   - key: "AlcoholLiverHarmBoundary"
     title: "Alcohol Liver Harm Boundary"
     url: "/wiki/concepts/alcoholliverharmboundary/"
+  - key: "AlcoholRewardStressAdaptation"
+    title: "Alcohol Reward-Stress Adaptation"
+    url: "/wiki/concepts/alcoholrewardstressadaptation/"
+  - key: "AlcoholSystemicDoseRisk"
+    title: "Alcohol Systemic Dose Risk"
+    url: "/wiki/concepts/alcoholsystemicdoserisk/"
   - key: "AlexandrianLibraryMyth"
     title: "Alexandrian Library Myth"
     url: "/wiki/concepts/alexandrianlibrarymyth/"

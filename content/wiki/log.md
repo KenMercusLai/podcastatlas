@@ -26312,3 +26312,7 @@ Added source `224-roman-holidays-glt9939678940`; created `Tiberius`, `RomanElite
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | What Alcohol Does to Your Body, Brain & Health
+
+Added source `what-alcohol-does-to-your-body-brain-health-scim8915337113`; created `AlcoholSystemicDoseRisk` and `AlcoholRewardStressAdaptation`; and resynthesized `AlcoholLiverHarmBoundary` and `SubstanceSleepArchitectureBoundary` from their complete preserved evidence inventories. Core synthesis: alcohol risk is graded and multi-system, while brief reward, relief, or sedation can coexist with negative mood rebound, higher baseline stress, tolerance, impaired control, and disrupted sleep architecture. Food, water, electrolytes, fermented foods, vitamins, and other tactics may alter absorption or symptoms but do not neutralize ethanol or acetaldehyde exposure. No settled contradiction was adopted. Low-to-moderate brain associations, recovery timelines, neurochemical and microbiome mechanisms, hangover interventions, cancer estimates, vitamin mitigation, hormone effects, and exact risk thresholds remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,289-source coverage; no topic claim set was dirty and global compaction was not due.

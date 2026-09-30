@@ -10,6 +10,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [225. J.R.R. Tolkien](sources/225-j-r-r-tolkien-glt9725776786.md) — The Rest Is History episode on Tolkien's formative losses, Catholicism, philology, friendships, the Somme, Edith, and the early legendarium.
 - [227. Portugal: On the Edge of the World (Part 1)](sources/227-portugal-on-the-edge-of-the-world-part-1-glt1834337589.md) — The Rest Is History episode on Portuguese kingdom formation, the Anglo-Portuguese alliance, Ceuta, Henry the Navigator, maritime knowledge, and early Atlantic plantation slavery.
 - [Focus Toolkit: Tools to Improve Your Focus & Concentration](sources/focus-toolkit-tools-to-improve-your-focus-concentration-scim5273827033.md) — Huberman Lab solo episode on behavior-first focus training, bounded work bouts, refocusing, deliberate recovery, sensory cues, supplements, and medication boundaries.
+- [What Alcohol Does to Your Body, Brain & Health](sources/what-alcohol-does-to-your-body-brain-health-scim8915337113.md) — Huberman Lab solo episode on alcohol metabolism, acute impairment, reward-stress adaptation, sleep disruption, systemic dose risk, and harm-reduction limits.
 - [228. Portugal: The Golden Age of Discovery (Part 2)](sources/228-portugal-the-golden-age-of-discovery-part-2-glt7949934800.md) — The Rest Is History episode on Portugal's Cape route, Indian Ocean network, crusading-commercial ambition, organized violence, and Sebastian's succession crisis.
 - [229. Portugal: Gold, Earthquakes, and Brazil (Part 3)](sources/229-portugal-gold-earthquakes-and-brazil-part-3-glt8317395817.md) — The Rest Is History episode on Portuguese restoration, Brazilian commodity wealth and slavery, Pombal, the Lisbon earthquake, court relocation, and Brazilian independence.
 - [230. Portugal: Football, Fado, and Fascism? (Part 4)](sources/230-portugal-football-fado-and-fascism-part-4-glt9147423732.md) — The Rest Is History episode on Salazar's rise, Estado Novo repression and stability, the fascism boundary, wartime neutrality, cultural symbols, football, and colonial crisis.
@@ -24097,5 +24098,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Corrupting Power and Renunciation](concepts/CorruptingPowerRenunciation.md) — Moral pattern in which defeating domination requires relinquishing rather than wielding its corrupting instruments.
 - [Anti-Industrial Pastoralism](concepts/AntiIndustrialPastoralism.md) — Literary-political critique joining ecological destruction, machinery, bureaucracy, surveillance, and damaged homecoming.
+- [Alcohol Systemic Dose Risk](concepts/AlcoholSystemicDoseRisk.md) — Graded framework connecting alcohol exposure with acute impairment and brain, sleep, gut-liver, endocrine, and cancer risks.
+- [Alcohol Reward-Stress Adaptation](concepts/AlcoholRewardStressAdaptation.md) — Feedback loop joining short-lived reward, negative rebound, baseline stress, tolerance, habit, and repeated use.
 
 ## Syntheses
