@@ -26331,3 +26331,11 @@ Added source `222-victorian-holidays-glt9970456316`; created `Blackpool`, `Victo
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | LIVE EVENT Q&A: Dr. Andrew Huberman at the Moore Theatre in Seattle
+
+Added source `live-event-q-a-dr-andrew-huberman-at-the-moore-theatre-in-seattle-scim4148265964` and created `NervousSystemStateFlexibility` from its complete bounded source set. Core synthesis: health and performance depend partly on moving deliberately among alertness, focus, stress, calm, and rest; behavioral tools and multi-marker recovery signals can support those transitions, but no breath test, sleep symptom, or physiological score should become a diagnosis or a verdict on life direction. No settled contradiction was adopted. The source's Moore Theatre/Seattle metadata conflicts with its Beacon Theater/New York body and remains unresolved; stress thresholds, hypnosis, microbiome, oxytocin, chronotype, breathwork, nasal-breathing, neural-interface, and career-meaning claims remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,292-source coverage; no topic claim set was dirty and global compaction was not due. Publish validation passed.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

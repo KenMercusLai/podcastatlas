@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 9040
+wiki_total_pages: 9041
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -191,6 +191,9 @@ wiki_pages:
   - key: "NeoantigenSelectionTradeoff"
     title: "Neoantigen Selection Tradeoff"
     url: "/wiki/concepts/neoantigenselectiontradeoff/"
+  - key: "NervousSystemStateFlexibility"
+    title: "Nervous-System State Flexibility"
+    url: "/wiki/concepts/nervoussystemstateflexibility/"
   - key: "NetscapePlatformEcosystem"
     title: "Netscape Platform Ecosystem"
     url: "/wiki/concepts/netscapeplatformecosystem/"

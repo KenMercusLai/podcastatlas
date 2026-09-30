@@ -129838,6 +129838,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/nero/"
     },
+    "NervousSystemStateFlexibility": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4148265964 [SCIM4148265964].md",
+          "key": "live-event-q-a-dr-andrew-huberman-at-the-moore-theatre-in-seattle-scim4148265964",
+          "show": "Huberman Lab",
+          "title": "LIVE EVENT Q&A: Dr. Andrew Huberman at the Moore Theatre in Seattle",
+          "url": "/wiki/sources/live-event-q-a-dr-andrew-huberman-at-the-moore-theatre-in-seattle-scim4148265964/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/nervoussystemstateflexibility/"
+    },
     "Netherlands": {
       "episode_count": 7,
       "show_count": 2,

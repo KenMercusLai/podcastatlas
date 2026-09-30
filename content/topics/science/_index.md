@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1361
+topic_total_pages: 1362
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -3876,6 +3876,9 @@ topic_sources:
   - key: "live-event-q-a-dr-andrew-huberman-at-meridian-hall-in-toronto-scim7370892669"
     title: "LIVE EVENT Q&A: Dr. Andrew Huberman at Meridian Hall in Toronto"
     url: "/wiki/sources/live-event-q-a-dr-andrew-huberman-at-meridian-hall-in-toronto-scim7370892669/"
+  - key: "live-event-q-a-dr-andrew-huberman-at-the-moore-theatre-in-seattle-scim4148265964"
+    title: "LIVE EVENT Q&A: Dr. Andrew Huberman at the Moore Theatre in Seattle"
+    url: "/wiki/sources/live-event-q-a-dr-andrew-huberman-at-the-moore-theatre-in-seattle-scim4148265964/"
   - key: "master-self-control-overcome-procrastination-dr-kentaro-fujita-scim8156556751"
     title: "Master Self Control & Overcome Procrastination | Dr. Kentaro Fujita"
     url: "/wiki/sources/master-self-control-overcome-procrastination-dr-kentaro-fujita-scim8156556751/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [LIVE EVENT Q&A: Dr. Andrew Huberman at the Moore Theatre in Seattle](sources/live-event-q-a-dr-andrew-huberman-at-the-moore-theatre-in-seattle-scim4148265964.md) — Huberman Lab live Q&A on state flexibility, stress recovery, breathwork, sleep timing, microbiome support, social reward, neural interfaces, and meaningful work.
 - [222. Victorian Holidays](sources/222-victorian-holidays-glt9970456316.md) — The Rest Is History episode on railways, Thomas Cook, guidebooks, spas, battlefield travel, staged authenticity, wakes weeks, and Blackpool's mass-resort growth.
 - [223. Sun, Sea, and Sex](sources/223-sun-sea-and-sex-glt5217352210.md) — The Rest Is History episode on paid holidays, holiday camps, charter packages, Mediterranean mass tourism, class, improvement, and travel intermediation.
 - [224. Roman Holidays](sources/224-roman-holidays-glt9939678940.md) — The Rest Is History episode on Roman elite leisure, Campanian resorts, culturally prestigious travel, plunder, heritage staging, and pilgrimage.
@@ -15030,6 +15031,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Steve Goss](entities/SteveGoss.md) — Former Social Security chief actuary assessing the scale, feasibility, and timing of reform options.
 
 ## Concepts
+- [Nervous-System State Flexibility](concepts/NervousSystemStateFlexibility.md) — Capacity to move deliberately among alertness, focus, stress, calm, and rest while using multiple recovery signals rather than one diagnostic score.
 - [Victorian Tourism Formation](concepts/VictorianTourismFormation.md) — Nineteenth-century assembly of railways, usable leisure time, coordination, cultural permission, and resort capacity.
 - [Battlefield Tourism](concepts/BattlefieldTourism.md) — Travel to sites of organized violence where mourning, memory, curiosity, spectacle, collecting, and commerce overlap.
 - [Tourist Authenticity Performance](concepts/TouristAuthenticityPerformance.md) — Staging, revival, relabeling, or continuation of tradition so visitors can encounter a legible past or local culture.
