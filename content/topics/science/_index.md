@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1347
+topic_total_pages: 1348
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -3912,6 +3912,9 @@ topic_sources:
   - key: "the-continent-nobody-owns-everyone-benefits-from-summer-school"
     title: "The continent nobody owns & everyone benefits from (Summer School)"
     url: "/wiki/sources/the-continent-nobody-owns-everyone-benefits-from-summer-school/"
+  - key: "the-effects-of-cannabis-marijuana-on-the-brain-body-scim1203833427"
+    title: "The Effects of Cannabis (Marijuana) on the Brain & Body"
+    url: "/wiki/sources/the-effects-of-cannabis-marijuana-on-the-brain-body-scim1203833427/"
   - key: "tech-20260713-tech-pod-128-tech-20260713-tech-pod-128"
     title: "The high cost of vacuuming carbon from the sky"
     url: "/wiki/sources/tech-20260713-tech-pod-128-tech-20260713-tech-pod-128/"

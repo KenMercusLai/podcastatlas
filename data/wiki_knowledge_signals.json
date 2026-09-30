@@ -10360,9 +10360,9 @@
       "url": "/wiki/entities/andrewcarnegie/"
     },
     "AndrewHuberman": {
-      "episode_count": 54,
+      "episode_count": 55,
       "show_count": 1,
-      "source_note_count": 54,
+      "source_note_count": 55,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -10741,9 +10741,16 @@
           "show": "Huberman Lab",
           "title": "How to Optimize Your Water Quality & Intake for Health",
           "url": "/wiki/sources/how-to-optimize-your-water-quality-intake-for-health-scim6169879512/"
+        },
+        {
+          "episode_file": "SCIM1203833427 [SCIM1203833427].md",
+          "key": "the-effects-of-cannabis-marijuana-on-the-brain-body-scim1203833427",
+          "show": "Huberman Lab",
+          "title": "The Effects of Cannabis (Marijuana) on the Brain & Body",
+          "url": "/wiki/sources/the-effects-of-cannabis-marijuana-on-the-brain-body-scim1203833427/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/andrewhuberman/"
     },
     "AndrewLoogOldham": {
@@ -23768,9 +23775,9 @@
       "url": "/wiki/concepts/capacorrectivepreventiveaction/"
     },
     "CBDEvidenceDoseBoundary": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM3230094101 [SCIM3230094101].md",
@@ -23778,9 +23785,16 @@
           "show": "Huberman Lab",
           "title": "How Cannabis Impacts Health & the Potential Risks | Dr. Matthew Hill",
           "url": "/wiki/sources/how-cannabis-impacts-health-the-potential-risks-dr-matthew-hill-scim3230094101/"
+        },
+        {
+          "episode_file": "SCIM1203833427 [SCIM1203833427].md",
+          "key": "the-effects-of-cannabis-marijuana-on-the-brain-body-scim1203833427",
+          "show": "Huberman Lab",
+          "title": "The Effects of Cannabis (Marijuana) on the Brain & Body",
+          "url": "/wiki/sources/the-effects-of-cannabis-marijuana-on-the-brain-body-scim1203833427/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/cbdevidencedoseboundary/"
     },
     "CCCFIBDFoundation": {
@@ -25206,9 +25220,9 @@
       "url": "/wiki/entities/cangtingbattlelatehan/"
     },
     "CannabisDoseRouteVulnerability": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM3230094101 [SCIM3230094101].md",
@@ -25216,15 +25230,22 @@
           "show": "Huberman Lab",
           "title": "How Cannabis Impacts Health & the Potential Risks | Dr. Matthew Hill",
           "url": "/wiki/sources/how-cannabis-impacts-health-the-potential-risks-dr-matthew-hill-scim3230094101/"
+        },
+        {
+          "episode_file": "SCIM1203833427 [SCIM1203833427].md",
+          "key": "the-effects-of-cannabis-marijuana-on-the-brain-body-scim1203833427",
+          "show": "Huberman Lab",
+          "title": "The Effects of Cannabis (Marijuana) on the Brain & Body",
+          "url": "/wiki/sources/the-effects-of-cannabis-marijuana-on-the-brain-body-scim1203833427/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/cannabisdoseroutevulnerability/"
     },
     "CannabisMedicalUseEvidenceBoundary": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM3230094101 [SCIM3230094101].md",
@@ -25246,15 +25267,22 @@
           "show": "Huberman Lab",
           "title": "How to Improve Your Eye Health & Offset Vision Loss | Dr. Jeffrey Goldberg",
           "url": "/wiki/sources/how-to-improve-your-eye-health-offset-vision-loss-dr-jeffrey-goldberg-scim5633963628/"
+        },
+        {
+          "episode_file": "SCIM1203833427 [SCIM1203833427].md",
+          "key": "the-effects-of-cannabis-marijuana-on-the-brain-body-scim1203833427",
+          "show": "Huberman Lab",
+          "title": "The Effects of Cannabis (Marijuana) on the Brain & Body",
+          "url": "/wiki/sources/the-effects-of-cannabis-marijuana-on-the-brain-body-scim1203833427/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/cannabismedicaluseevidenceboundary/"
     },
     "CannabisPsychosisCausalityBoundary": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM3230094101 [SCIM3230094101].md",
@@ -25269,15 +25297,22 @@
           "show": "Huberman Lab",
           "title": "Vaping, Alcohol Use & Other Risky Youth Behaviors | Dr. Bonnie Halpern-Felsher",
           "url": "/wiki/sources/vaping-alcohol-use-other-risky-youth-behaviors-dr-bonnie-halpern-felsher-scim9155116429/"
+        },
+        {
+          "episode_file": "SCIM1203833427 [SCIM1203833427].md",
+          "key": "the-effects-of-cannabis-marijuana-on-the-brain-body-scim1203833427",
+          "show": "Huberman Lab",
+          "title": "The Effects of Cannabis (Marijuana) on the Brain & Body",
+          "url": "/wiki/sources/the-effects-of-cannabis-marijuana-on-the-brain-body-scim1203833427/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/cannabispsychosiscausalityboundary/"
     },
     "CannabisStrainLabelEvidenceBoundary": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM3230094101 [SCIM3230094101].md",
@@ -25285,9 +25320,16 @@
           "show": "Huberman Lab",
           "title": "How Cannabis Impacts Health & the Potential Risks | Dr. Matthew Hill",
           "url": "/wiki/sources/how-cannabis-impacts-health-the-potential-risks-dr-matthew-hill-scim3230094101/"
+        },
+        {
+          "episode_file": "SCIM1203833427 [SCIM1203833427].md",
+          "key": "the-effects-of-cannabis-marijuana-on-the-brain-body-scim1203833427",
+          "show": "Huberman Lab",
+          "title": "The Effects of Cannabis (Marijuana) on the Brain & Body",
+          "url": "/wiki/sources/the-effects-of-cannabis-marijuana-on-the-brain-body-scim1203833427/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/cannabisstrainlabelevidenceboundary/"
     },
     "CannibalismColonialJustification": {
@@ -56321,9 +56363,9 @@
       "url": "/wiki/entities/endeavour/"
     },
     "EndocannabinoidHomeostaticSignaling": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM3230094101 [SCIM3230094101].md",
@@ -56331,9 +56373,16 @@
           "show": "Huberman Lab",
           "title": "How Cannabis Impacts Health & the Potential Risks | Dr. Matthew Hill",
           "url": "/wiki/sources/how-cannabis-impacts-health-the-potential-risks-dr-matthew-hill-scim3230094101/"
+        },
+        {
+          "episode_file": "SCIM1203833427 [SCIM1203833427].md",
+          "key": "the-effects-of-cannabis-marijuana-on-the-brain-body-scim1203833427",
+          "show": "Huberman Lab",
+          "title": "The Effects of Cannabis (Marijuana) on the Brain & Body",
+          "url": "/wiki/sources/the-effects-of-cannabis-marijuana-on-the-brain-body-scim1203833427/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/endocannabinoidhomeostaticsignaling/"
     },
     "EndocrineDisruptorExposureReduction": {
@@ -86195,9 +86244,9 @@
       "url": "/wiki/entities/hubeihumanoidinnovationcenter/"
     },
     "HubermanLab": {
-      "episode_count": 54,
+      "episode_count": 55,
       "show_count": 1,
-      "source_note_count": 54,
+      "source_note_count": 55,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -86576,9 +86625,16 @@
           "show": "Huberman Lab",
           "title": "How to Optimize Your Water Quality & Intake for Health",
           "url": "/wiki/sources/how-to-optimize-your-water-quality-intake-for-health-scim6169879512/"
+        },
+        {
+          "episode_file": "SCIM1203833427 [SCIM1203833427].md",
+          "key": "the-effects-of-cannabis-marijuana-on-the-brain-body-scim1203833427",
+          "show": "Huberman Lab",
+          "title": "The Effects of Cannabis (Marijuana) on the Brain & Body",
+          "url": "/wiki/sources/the-effects-of-cannabis-marijuana-on-the-brain-body-scim1203833427/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/hubermanlab/"
     },
     "HubertHumphrey": {

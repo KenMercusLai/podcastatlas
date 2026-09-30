@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Effects of Cannabis (Marijuana) on the Brain & Body](sources/the-effects-of-cannabis-marijuana-on-the-brain-body-scim1203833427.md) — Huberman Lab solo episode on endocannabinoid mechanisms, acute and chronic cannabis effects, developmental risk, and strain, psychosis, CBD, and medical-use claims later bounded by corrective evidence.
 - [240. Young Churchill: Soldier of Empire (Part 2)](sources/240-young-churchill-soldier-of-empire-part-2-glt4710302249.md) — The Rest Is History episode on Churchill's Cuba, India, Malakand, and Omdurman apprenticeship, joining war reporting and self-education to imperial confidence and moral unease.
 - [Can data centers ever be good neighbors?](sources/tech-20260930-mp-tech-pod-128-tech-20260930-mp-tech-pod-128.md) — Marketplace Tech interview with Scott Brennan on concentrated local data-center costs, community benefit agreements, onsite-power tradeoffs, and why weak delivery histories turn incentives into a trust problem.
 - [241. Young Churchill: Prisoner and Fugitive (Part 3)](sources/241-young-churchill-prisoner-and-fugitive-part-3-glt9087091726.md) — The Rest Is History episode on the Boer War, Churchill's armored-train capture and Pretoria escape, imperial mineral politics, military adaptation, and adventure-driven public celebrity.

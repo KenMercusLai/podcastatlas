@@ -57,7 +57,8 @@ sources:
   - goals-toolkit-how-to-set-achieve-your-goals-scim1532399364
   - ketamine-benefits-risks-for-depression-ptsd-neuroplasticity-scim3757014952
   - how-to-optimize-your-water-quality-intake-for-health-scim6169879512
-last_updated: 2026-09-29
+  - the-effects-of-cannabis-marijuana-on-the-brain-body-scim1203833427
+last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
 
@@ -137,6 +138,8 @@ The ketamine episode adds a dedicated dissociative-psychiatry branch. [[Ketamine
 
 The water-quality episode adds a hydration and household-exposure branch. [[DailyHydrationTiming]] and [[ExerciseHydrationPerformanceBoundary]] keep intake formulas adaptable; [[HouseholdWaterQualityFiltration]] connects municipal reports, plumbing, maintenance, contaminants, and mineral tradeoffs; and [[SpecialtyWaterEvidenceBoundary]] separates alkaline, hydrogen-rich, deuterium-depleted, and structured-water mechanisms from demonstrated outcomes. Fluoride thresholds and specialized-water claims remain explicitly unresolved or source-scoped.
 
+The cannabis solo episode adds an endocannabinoid and substance-risk branch spanning anandamide, 2-AG, CB1 and CB2 receptors, acute intoxication, repeated use, development, mental health, fertility, and selected medical uses. [[EndocannabinoidHomeostaticSignaling]] and [[CannabisDoseRouteVulnerability]] preserve its useful mechanism and conditional-risk structure, while [[CannabisStrainLabelEvidenceBoundary]] and [[CannabisPsychosisCausalityBoundary]] record later corrections to its categorical strain and simple causality claims.
+
 ## Key Characteristics
 - Uses long-form guest interviews to connect science, health, behavior, relationships, technology, and practical decision-making.
 - Translates everyday concerns into mechanism-oriented questions while preserving clinical or evidentiary boundaries.
@@ -147,6 +150,7 @@ The water-quality episode adds a hydration and household-exposure branch. [[Dail
 - Uses solo Essentials, Q&A, and long-form guest framing to turn core mechanisms, sleep-wake timing, dopamine baseline and effort tools, discipline practices, movement practice, flexibility protocols, leadership frames, everyday health questions, meditation claims, learning-performance questions, nutrition hierarchies, relationship-science claims, stress appraisal and recovery, preventive-longevity tradeoffs, risk and agency tools, sugar-craving mechanisms, nine-adaptation fitness self-assessment, and serious psychiatric topics into cautiously bounded self-regulation or treatment-literacy toolkits.
 
 ## Evidence
+- Cannabis mechanism and evidence boundaries: [[the-effects-of-cannabis-marijuana-on-the-brain-body-scim1203833427]] connects endocannabinoid signaling to acute effects, developmental exposure, chronic use, psychiatric risk, fertility, and selected medical uses while later wiki evidence qualifies its strain and psychosis claims.
 - Hydration and water quality: [[how-to-optimize-your-water-quality-intake-for-health-scim6169879512]] connects timed intake, exertion and heat, local water reports, household delivery, filtration, minerals, and specialty-water evidence boundaries.
 - Ketamine treatment and mechanism: [[ketamine-benefits-risks-for-depression-ptsd-neuroplasticity-scim3757014952]] separates rapid but often time-limited psychiatric benefit from acute dissociation, route-dependent exposure, multi-process mechanisms, and substantial unsupervised-use risk.
 - Goal-pursuit toolkit: [[goals-toolkit-how-to-set-achieve-your-goals-scim1532399364]] organizes one-priority selection, action verbs, measurement, 12-week planning, motivation-state checks, visual focus, intermittent acknowledgment, and middle-stage chunking.
@@ -243,13 +247,20 @@ The ketamine episode's efficacy, dose, route bioavailability, stereoisomer ranki
 
 The water-quality episode's hourly intake, dehydration threshold, exercise and sauna formulas, caffeine ratio, aquaporin and pH mechanisms, disinfection-byproduct and fluoride risks, settling and boiling advice, hard-water association, hydrogen-water biomarkers, and structured-water discussion remain source-scoped public education. The 0.5 mg/L fluoride concern is not treated as a settled harm threshold against the 0.7 mg/L community target reported elsewhere. This addition brings the bounded profile to fifty-four episode notes.
 
+The cannabis episode's strain effects, chronic-use threshold, pharmacokinetics, cortical-thinning, depression and psychosis risk ratios, hormone effects, pregnancy prevalence, vascular claims, and medical benefits remain source-scoped. A later corrective expert interview rejects reliable indica/sativa prediction and simple one-way schizophrenia causation. This addition brings the bounded profile to fifty-five episode notes.
+
 ## What Changed
-- Added a hydration-timing and exercise-loss branch.
-- Added a household water-quality and filtration decision frame.
-- Separated specialty-water mechanisms and biomarkers from demonstrated outcomes.
-- Preserved the fluoride threshold tension and all numerical guidance as source-scoped.
+- Added an endocannabinoid mechanism and cannabis dose-route-vulnerability branch.
+- Added developmental, repeated-use, psychiatric, reproductive, vascular, and medical-use cautions.
+- Recorded later corrections to categorical strain effects and simple psychosis causation.
+- Kept numerical risks, thresholds, timings, and treatment claims source-scoped.
 
 ## Relationships
+- [[EndocannabinoidHomeostaticSignaling]] - endogenous feedback and broad THC-activation distinction.
+- [[CannabisDoseRouteVulnerability]] - product, route, frequency, developmental stage, and susceptibility framework.
+- [[CannabisStrainLabelEvidenceBoundary]] - later correction to categorical indica/sativa claims.
+- [[CannabisPsychosisCausalityBoundary]] - association, vulnerability, directionality, and practical avoidance boundary.
+- [[CannabisMedicalUseEvidenceBoundary]] - indication-specific limit on pain, nausea, and glaucoma claims.
 - [[DailyHydrationTiming]] - waking-day fluid-distribution and nighttime-urination boundary.
 - [[HouseholdWaterQualityFiltration]] - local-report, plumbing, contaminant, maintenance, and filter-choice framework.
 - [[SpecialtyWaterEvidenceBoundary]] - evidence hierarchy for alkaline, hydrogen-rich, deuterium-depleted, and structured water.

@@ -5,7 +5,8 @@ tags: [cannabis, psychosis, schizophrenia, causality, mental-health]
 sources:
   - how-cannabis-impacts-health-the-potential-risks-dr-matthew-hill-scim3230094101
   - vaping-alcohol-use-other-risky-youth-behaviors-dr-bonnie-halpern-felsher-scim9155116429
-last_updated: 2026-09-26
+  - the-effects-of-cannabis-marijuana-on-the-brain-body-scim1203833427
+last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,6 +19,8 @@ The cannabis-psychosis causality boundary separates acute cannabis-induced psych
 [[MatthewHill]] accepts several risk signals: people with schizophrenia use cannabis at higher rates, adolescent use is associated with later schizophrenia, high-dose THC can produce paranoia or rare acute psychotic episodes, and cannabis may accelerate or worsen disease expression. He nevertheless rejects a simple one-way causal story. Shared predisposition, self-medication, reverse direction, dose, age, product, and genetic liability can all contribute to the observed association.
 
 A youth public-health reading adds that rising potency, concentrates, vaping, young age, and predisposition may increase concern; [[BonnieHalpernFelsher]] reports that some researchers now interpret cannabis as a causal trigger rather than only a correlate in vulnerable people. This does not erase Hill's boundary. It narrows the disputed proposition from “cannabis causes schizophrenia in anyone” to whether exposure contributes causally to onset or expression within susceptible developmental and psychiatric contexts.
+
+The earlier solo episode states the risk more strongly, linking adolescent or heavy use, higher THC potency, accelerated prefrontal cortical thinning, and roughly fourfold later psychosis risk. Because the supplied note lacks absolute risks, study methods, confounder handling, and product detail, those claims strengthen precaution but do not settle universal causation. The later corrective interview therefore changes the current judgment from a simple causal story to a contested, vulnerability-dependent one.
 
 The practical conclusion is more cautious than the causal conclusion. Uncertain causality is not evidence of harmlessness. The episode advises people with schizophrenia, bipolar disorder, or a first-degree family history of either condition to avoid cannabis. Hill's “fuel on a fire” analogy treats THC as a possible amplifier or trigger in an already vulnerable system without claiming that the same pathway explains every case.
 
@@ -36,13 +39,15 @@ The practical conclusion is more cautious than the causal conclusion. Uncertain 
 - Directionality qualification: [[how-cannabis-impacts-health-the-potential-risks-dr-matthew-hill-scim3230094101]] cites genetic work as more consistent with schizophrenia liability predicting cannabis use than the reverse.
 - Vulnerable-youth causal concern: [[vaping-alcohol-use-other-risky-youth-behaviors-dr-bonnie-halpern-felsher-scim9155116429]] reports that some scientists now regard cannabis as a causal trigger in predisposed youth while acknowledging unresolved mechanism and reversibility.
 - Clinical caution: [[how-cannabis-impacts-health-the-potential-risks-dr-matthew-hill-scim3230094101]] advises avoidance for schizophrenia, bipolar disorder, and first-degree family history; [[vaping-alcohol-use-other-risky-youth-behaviors-dr-bonnie-halpern-felsher-scim9155116429]] adds stronger concern around adolescent use and higher-potency routes.
+- Stronger earlier claim: [[the-effects-of-cannabis-marijuana-on-the-brain-body-scim1203833427]] links adolescent exposure, heavy use, higher potency, cortical thinning, and later psychosis while emphasizing predisposition.
 
 ## Counterevidence & Qualifications
-The episode notes do not provide study identifiers, absolute risks, dose-response estimates, age windows, product composition, confounder adjustment, diagnostic methods, or evidence about reversibility. Genetic directionality evidence does not prove that cannabis has no causal contribution, while a plausible trigger pathway in vulnerable youth does not prove universal causation. This boundary should prevent causal overstatement without minimizing clinically important acute episodes or encouraging self-experimentation.
+The episode notes do not provide complete study identifiers, absolute risks, dose-response estimates, age windows, product composition, confounder adjustment, diagnostic methods, or evidence about reversibility. The earlier episode's stronger causal language and the later corrective interview's directionality caution are a real evidence-interpretation tension. Genetic directionality evidence does not prove that cannabis has no causal contribution, while a plausible trigger pathway in vulnerable youth does not prove universal causation. This boundary should prevent causal overstatement without minimizing clinically important acute episodes or encouraging self-experimentation.
 
 ## What Changed
-- Added vulnerable-youth, potency, route, and possible causal-trigger concerns without converting them into universal one-way causation.
-- Preserved the practical avoidance boundary despite disagreement about mechanism and directionality.
+- Added the earlier episode's cortical-thinning, potency, heavy-use, and stronger psychosis-risk claims.
+- Recorded the later expert interview as a substantive correction from simple causation toward vulnerability, directionality, and confounding.
+- Preserved the practical avoidance boundary despite disagreement about mechanism and causal magnitude.
 
 ## Related Concepts
 - [[CannabisDoseRouteVulnerability]] - broader framework in which psychiatric history changes the risk profile.

@@ -4,7 +4,8 @@ type: concept
 tags: [neuroscience, endocannabinoids, cb1, cb2, homeostasis]
 sources:
   - how-cannabis-impacts-health-the-potential-risks-dr-matthew-hill-scim3230094101
-last_updated: 2026-09-24
+  - the-effects-of-cannabis-marijuana-on-the-brain-body-scim1203833427
+last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
 
@@ -14,7 +15,7 @@ knowledge_schema: synthesis-v1
 Endocannabinoid homeostatic signaling is the spatially and temporally regulated use of endogenous cannabinoids, especially anandamide and 2-AG, to act retrogradely at cannabinoid receptors and adjust presynaptic neurotransmitter release.
 
 ## Current Synthesis
-[[MatthewHill]] presents the endocannabinoid system as a local feedback regulator rather than a generalized pleasure or intoxication system. Postsynaptic activity can trigger anandamide or 2-AG signaling back toward presynaptic CB1 receptors, changing transmitter release in the circuits active at that moment. Anandamide is described as a higher-affinity, lower-efficacy signal with a more tonic role, while 2-AG may support stronger, more phasic responses during high activity or plasticity demands.
+Both the earlier solo explanation and [[MatthewHill]] present the endocannabinoid system as a local feedback regulator rather than a generalized pleasure or intoxication system. Postsynaptic activity can trigger anandamide or 2-AG signaling back toward presynaptic CB1 receptors, changing transmitter release in the circuits active at that moment. Hill adds the more precise distinction between anandamide as a higher-affinity, lower-efficacy signal with a proposed tonic role and 2-AG as a stronger, more phasic signal during high activity or plasticity demands.
 
 This precision explains why THC is not simply “more endocannabinoid.” THC is a partial CB1 agonist but reaches many CB1-expressing networks at once, overriding the normal timing and location of endogenous feedback. The source uses that distribution to connect intoxication with altered perception, appetite, memory, anxiety, and reward, while the relative lack of CB1 in breathing-control brainstem regions helps distinguish cannabis from opioid respiratory-overdose mechanisms.
 
@@ -28,15 +29,17 @@ This precision explains why THC is not simply “more endocannabinoid.” THC is
 
 ## Evidence
 - Retrograde homeostasis: [[how-cannabis-impacts-health-the-potential-risks-dr-matthew-hill-scim3230094101]] describes postsynaptic-to-presynaptic feedback through CB1.
+- Earlier mechanism account: [[the-effects-of-cannabis-marijuana-on-the-brain-body-scim1203833427]] describes anandamide, 2-AG, CB1, CB2, and retrograde signaling while connecting receptor distribution to memory, appetite, movement, pain, and anxiety.
 - Ligand distinction: [[how-cannabis-impacts-health-the-potential-risks-dr-matthew-hill-scim3230094101]] contrasts anandamide and 2-AG in affinity, efficacy, and possible tonic or phasic function.
 - THC comparison: [[how-cannabis-impacts-health-the-potential-risks-dr-matthew-hill-scim3230094101]] distinguishes broad THC activation from precisely generated endogenous signals.
 - Systems consequences: [[how-cannabis-impacts-health-the-potential-risks-dr-matthew-hill-scim3230094101]] connects CB1 distribution to feeding, reward, perception, memory, anxiety, and the respiratory-risk contrast with opioids.
 
 ## Counterevidence & Qualifications
-The tonic-versus-phasic description is presented as Hill's proposed organizing model, not a settled exhaustive map. The episode is a high-level public explanation and does not provide receptor-distribution datasets, pathway-specific effect sizes, or a complete account of minor cannabinoids, CB2 signaling, FAAH inhibition, or interactions among neural systems. Mechanistic plausibility alone does not establish a treatment indication.
+The tonic-versus-phasic description is presented as Hill's proposed organizing model, not a settled exhaustive map. Both episodes are high-level public explanations and do not provide receptor-distribution datasets, pathway-specific effect sizes, or a complete account of minor cannabinoids, CB2 signaling, FAAH inhibition, or interactions among neural systems. The earlier source's description of THC and CBD as strongly binding or outcompeting endogenous signaling should not erase the later source's more differentiated THC-versus-CBD mechanism boundary. Mechanistic plausibility alone does not establish a treatment indication.
 
 ## What Changed
-- Created the concept to distinguish endogenous cannabinoid homeostasis from broad THC-driven CB1 activation.
+- Added the earlier solo account as convergent evidence for retrograde signaling and broad plant-cannabinoid disruption.
+- Preserved the later expert account as the more differentiated source for ligand roles and THC-versus-CBD mechanism claims.
 
 ## Related Concepts
 - [[CannabisDoseRouteVulnerability]] - translates receptor-level effects into conditional product and user risk.

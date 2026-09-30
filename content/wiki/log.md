@@ -26120,3 +26120,11 @@ Added source `dang-yanjing-erji-shouji-dou-you-ai-shui-lai-tongyi-ni-de-di-er-da
 ## [2026-10-01] lint | Wiki health check
 
 Ran deterministic and graph-aware lint interactively. Semantic checks were unavailable because the LiteLLM model lacked a provider-qualified configuration; no lint report was saved.
+
+## [2026-10-01] ingest | The Effects of Cannabis (Marijuana) on the Brain & Body
+
+Added source `the-effects-of-cannabis-marijuana-on-the-brain-body-scim1203833427`; extended `AndrewHuberman`, `HubermanLab`, `EndocannabinoidHomeostaticSignaling`, `CannabisDoseRouteVulnerability`, `CannabisPsychosisCausalityBoundary`, `CannabisStrainLabelEvidenceBoundary`, `CBDEvidenceDoseBoundary`, and `CannabisMedicalUseEvidenceBoundary`. Core synthesis: endocannabinoid mechanisms and developmental caution remain useful, while the episode's categorical strain predictions and simple psychosis-causation language are explicitly qualified by the later corrective Matthew Hill interview. Numerical risks, chronic-use thresholds, pharmacokinetics, hormone and vascular effects, pregnancy prevalence, and treatment claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,266-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page validation found no broken links or unindexed pages; the all-page validator separately reported 15 pre-existing broken links outside this ingest's changed pages.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
