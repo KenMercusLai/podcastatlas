@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3239
+topic_total_pages: 3244
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1435,6 +1435,9 @@ topic_concepts:
   - key: "CivilianInfrastructureAirCampaign"
     title: "Civilian Infrastructure Air Campaign"
     url: "/wiki/concepts/civilianinfrastructureaircampaign/"
+  - key: "ClinicalLanguageComprehensionValidation"
+    title: "Clinical Language Comprehension Validation / 臨床語言理解驗證"
+    url: "/wiki/concepts/clinicallanguagecomprehensionvalidation/"
   - key: "ClinicalTrialContinuity"
     title: "Clinical Trial Continuity"
     url: "/wiki/concepts/clinicaltrialcontinuity/"
@@ -2848,6 +2851,9 @@ topic_concepts:
   - key: "LowLatencyInferenceChip"
     title: "Low-Latency Inference Chip"
     url: "/wiki/concepts/lowlatencyinferencechip/"
+  - key: "LowResourceSpeechAIDevelopment"
+    title: "Low-Resource Speech AI Development / 低資源語音 AI 開發"
+    url: "/wiki/concepts/lowresourcespeechaidevelopment/"
   - key: "LPDDR6"
     title: "LPDDR6"
     url: "/wiki/concepts/lpddr6/"
@@ -7901,6 +7907,9 @@ topic_entities:
   - key: "GuYongqiang"
     title: "古永锵 / Gu Yongqiang"
     url: "/wiki/entities/guyongqiang/"
+  - key: "TaiwanAILabs"
+    title: "台灣人工智慧實驗室 / Taiwan AI Labs"
+    url: "/wiki/entities/taiwanailabs/"
   - key: "YeLuMureka"
     title: "叶律 / Ye Lu"
     url: "/wiki/entities/yelumureka/"
@@ -8096,6 +8105,9 @@ topic_entities:
   - key: "LusunTeleprompter"
     title: "芦笋提词器"
     url: "/wiki/entities/lusunteleprompter/"
+  - key: "HualienTzuChiHospital"
+    title: "花蓮慈濟醫院 / Hualien Tzu Chi Hospital"
+    url: "/wiki/entities/hualientzuchihospital/"
   - key: "MoZihao"
     title: "莫子浩 / Mo Zihao"
     url: "/wiki/entities/mozihao/"
@@ -8511,6 +8523,9 @@ topic_sources:
   - key: "tech-20260317-0317-mp-tech-pod-128-tech-20260317-0317-mp-tech-pod-128"
     title: "AI-powered workplace tools keep tabs on employees"
     url: "/wiki/sources/tech-20260317-0317-mp-tech-pod-128-tech-20260317-0317-mp-tech-pod-128/"
+  - key: "ai-jiang-taiyu-zhangbei-weihe-you-ting-meiyou-dong-8f2ef858c5c159ba4b0becd4f1676e8b"
+    title: "AI講台語，長輩為何有聽沒有懂？"
+    url: "/wiki/sources/ai-jiang-taiyu-zhangbei-weihe-you-ting-meiyou-dong-8f2ef858c5c159ba4b0becd4f1676e8b/"
   - key: "tsr-s4-alexandrwang-v3-tsr-s4-alexandrwang-v3"
     title: "Alexandr Wang on Scale and AI Data Infrastructure"
     url: "/wiki/sources/tsr-s4-alexandrwang-v3-tsr-s4-alexandrwang-v3/"

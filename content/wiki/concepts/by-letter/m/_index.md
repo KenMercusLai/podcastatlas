@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 8975
+wiki_total_pages: 8978
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1292,6 +1292,9 @@ wiki_pages:
   - key: "MotherDaughterReconciliation"
     title: "Mother-Daughter Reconciliation"
     url: "/wiki/concepts/motherdaughterreconciliation/"
+  - key: "MotherTongueClinicalCommunication"
+    title: "Mother-Tongue Clinical Communication / 母語醫療溝通"
+    url: "/wiki/concepts/mothertongueclinicalcommunication/"
   - key: "MotionSmoothing"
     title: "Motion Smoothing"
     url: "/wiki/concepts/motionsmoothing/"

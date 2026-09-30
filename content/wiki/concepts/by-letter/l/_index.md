@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 8975
+wiki_total_pages: 8978
 wiki_pages:
   - key: "LaborIllusion"
     title: "Labor Illusion"
@@ -854,6 +854,9 @@ wiki_pages:
   - key: "LowRepetitionStrengthBlocks"
     title: "Low-Repetition Strength Blocks"
     url: "/wiki/concepts/lowrepetitionstrengthblocks/"
+  - key: "LowResourceSpeechAIDevelopment"
+    title: "Low-Resource Speech AI Development / 低資源語音 AI 開發"
+    url: "/wiki/concepts/lowresourcespeechaidevelopment/"
   - key: "LowStatusStrategicPersuasion"
     title: "Low-Status Strategic Persuasion / 低位者战略说服"
     url: "/wiki/concepts/lowstatusstrategicpersuasion/"

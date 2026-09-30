@@ -3310,6 +3310,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Cheques and the City: Premier League disgrace](sources/cheques-and-the-city-premier-league-disgrace-6abcdaab4e059d44b566ca74.md) — The Intelligence episode on Manchester City's disputed finances, Russian grey-zone operations, and Chiikawa's anxious world beneath cute design.
 
+- [AI講台語，長輩為何有聽沒有懂？](sources/ai-jiang-taiyu-zhangbei-weihe-you-ting-meiyou-dong-8f2ef858c5c159ba4b0becd4f1676e8b.md) — 端聞 episode on Taiwanese-language clinical communication, elder comprehension, AI patient education, low-resource speech data, and user-centered validation.
+
 ## Entities
 - [La Chinoise](entities/LaChinoiseFilm.md) — Godard's 1967 Maoist student film, read as a self-critical cinematic anticipation of May 1968.
 - [Le Corbeau](entities/LeCorbeauFilm.md) — Clouzot's poison-pen drama, interpreted as an Occupation allegory of informing and social mistrust.
@@ -14924,6 +14926,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Chiikawa](entities/Chiikawa.md) — Japanese character franchise combining cute design, commercial reach, precarious work, anxiety, and friendship.
 - [Nagano (Chiikawa creator)](entities/NaganoChiikawa.md) — Pseudonymous Japanese artist who began the Chiikawa online comic in 2020.
 
+- [花蓮慈濟醫院 / Hualien Tzu Chi Hospital](entities/HualienTzuChiHospital.md) — Eastern Taiwan referral hospital testing reusable AI-generated Taiwanese patient-education videos.
+- [台灣人工智慧實驗室 / Taiwan AI Labs](entities/TaiwanAILabs.md) — AI organization adapting Taiwanese speech generation through better alignment and Romanized pronunciation targets.
+
 ## Concepts
 - [Cinema as National Memory](concepts/CinemaAsNationalMemory.md) — How film confirms, revises, domesticates, or avoids inherited national histories.
 - [Historical Worldview Reconstruction](concepts/HistoricalWorldviewReconstruction.md) — Making past beliefs, incentives, and status codes causally govern historical drama.
@@ -23939,5 +23944,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Football Financial Fair Play](concepts/FootballFinancialFairPlay.md) — Revenue-linked football regulation balancing sustainability, competition, enforcement legitimacy, and retrospective remedy.
 - [Grey-Zone Deterrence Dilemma](concepts/GreyZoneDeterrenceDilemma.md) — Response problem balancing defensive resilience, proportionate costs, uncertain attribution, and escalation risk.
 - [Cute-Character Anxiety Resonance](concepts/CuteCharacterAnxietyResonance.md) — Emotional pattern in which cute design makes insecurity recognizable while friendship preserves comfort and endurance.
+
+- [Mother-Tongue Clinical Communication / 母語醫療溝通](concepts/MotherTongueClinicalCommunication.md) — Clinical language-access frame joining trust, symptom disclosure, intelligible education, and home-care continuity.
+- [Low-Resource Speech AI Development / 低資源語音 AI 開發](concepts/LowResourceSpeechAIDevelopment.md) — Data-quality framework for aligned audio and text, contextual pronunciation, orthographic choice, transfer learning, and user comprehension.
+- [Clinical Language Comprehension Validation / 臨床語言理解驗證](concepts/ClinicalLanguageComprehensionValidation.md) — Functional testing of whether intended patients and caregivers understand and can act on health information.
 
 ## Syntheses

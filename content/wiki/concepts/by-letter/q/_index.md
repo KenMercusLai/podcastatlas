@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "q"
-wiki_total_pages: 8975
+wiki_total_pages: 8978
 wiki_pages:
   - key: "QatariSmallStateSecurityStrategy"
     title: "Qatari Small-State Security Strategy"

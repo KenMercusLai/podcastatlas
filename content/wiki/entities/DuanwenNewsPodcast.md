@@ -10,13 +10,14 @@ sources:
   - niboer-teda-hongzai-xianchang-yichang-meiyou-yiti-de-zangli-cd38365e015f056efaa8b0506c123504
   - niboer-teda-hongzai-weihe-jiang-kouan-jian-zai-zaihai-pinfa-de-shangu-fe064a422e32872349638d39a97d8c19
   - google-touzi-a24-ai-jiang-chengwei-haolaiwu-de-weilai-faaf14098cca4b99e1dcf1e6f71c3594
-last_updated: 2026-09-26
+  - ai-jiang-taiyu-zhangbei-weihe-you-ting-meiyou-dong-8f2ef858c5c159ba4b0becd4f1676e8b
+last_updated: 2026-09-30
 knowledge_schema: synthesis-v1
 ---
 # 端闻 / 端传媒新闻播客
 
 ## Overview
-[[DuanwenNewsPodcast]] is the news podcast credited in source metadata for episodes on the 旺旺 cross-border animal-protection response, a reporter's [[Polymarket]] simulation, Taiwan's introduced-myna controversy, the Chongqing [[ShidaiFengjun|时代峰峻]] confrontation, the human, infrastructural, and geopolitical dimensions of Nepal's August 2026 flood, and the Google DeepMind–A24 AI-film partnership.
+[[DuanwenNewsPodcast]] is the news podcast credited in source metadata for episodes on the 旺旺 cross-border animal-protection response, a reporter's [[Polymarket]] simulation, Taiwan's introduced-myna controversy, the Chongqing [[ShidaiFengjun|时代峰峻]] confrontation, the human, infrastructural, and geopolitical dimensions of Nepal's August 2026 flood, the Google DeepMind–A24 AI-film partnership, and Taiwanese-language AI in elder healthcare.
 
 ## Current Profile
 Across the current evidence, the show works as reported explanatory journalism rather than commentary-only audio. The 旺旺 episode combines mainland volunteer testimony, animal-law expertise, Hong Kong street interviews, and institutional controversy to connect one cruelty case to [[ChinaAnimalProtectionLawGap]], [[AnimalProtectionCodedExpression]], [[HongKongAnimalSolidarity]], and [[LowClaimCivicAction]].
@@ -33,6 +34,8 @@ The Gyirong follow-up shifts from aftermath to historical and system-level expla
 
 The A24 episode adds a culture-and-technology industry explainer. With [[ChenZiFilmCultureCommentator|陳子]], it separates disclosed partnership boundaries from inference, distinguishes short-form AI uptake from feature-film readiness, and connects creator resistance to [[AICreativeProcessDatafication]] and [[FearDrivenAIAdoption]].
 
+The Taiwanese AI episode adds a healthcare, aging, and language-access branch. It moves from eastern Taiwan's generational clinical language gap through [[HualienTzuChiHospital|花蓮慈濟醫院]]'s reusable education-video experiment to listener testing, training-data alignment, writing-system choice, and [[ClinicalLanguageComprehensionValidation]]. Its governing distinction is that generating recognizable Taiwanese speech does not establish that older patients understand or can safely act on it.
+
 ## Key Characteristics
 - The episode is structured as reported journalism with named correspondents and interviewees.
 - Its core method is cross-border comparison between mainland expression constraints and Hong Kong's still-possible but cautious public action.
@@ -40,7 +43,7 @@ The A24 episode adds a culture-and-technology industry explainer. With [[ChenZiF
 - It can use a first-person reporter experiment to examine how platforms change news attention and ethical judgment.
 - It can turn a viral animal or environmental controversy into a slower explainer about evidence, classification, and ethical responsibility.
 - It can reconstruct a contested street event while distinguishing visible acts from unproven chronology, organization, and motive.
-- It can connect intimate cases to larger systems, including disaster infrastructure and climate justice as well as film craft, technology capital, cultural branding, and competitive adoption pressure.
+- It can connect intimate cases to larger systems, including disaster infrastructure, climate justice, film craft, technology capital, clinical language access, and low-resource AI development.
 
 ## Evidence
 - Reported-source profile: [[liulangquan-wangwang-zhisi-he-yichang-kuajing-dongbao-shengyuan]] names the show in front matter and follows mainland and Hong Kong reporting threads.
@@ -52,14 +55,15 @@ The A24 episode adds a culture-and-technology industry explainer. With [[ChenZiF
 - Disaster-reporting method: [[niboer-teda-hongzai-xianchang-yichang-meiyou-yiti-de-zangli-cd38365e015f056efaa8b0506c123504]] uses named family cases, forensic procedure, infrastructure loss, warning delay, and climate finance to connect individual grief with institutional failure.
 - Historical-system method: [[niboer-teda-hongzai-weihe-jiang-kouan-jian-zai-zaihai-pinfa-de-shangu-fe064a422e32872349638d39a97d8c19]] moves from a millennial trade route through modern port policy and bilateral interests to cumulative environmental risk and warning limits.
 - Culture-and-technology method: [[google-touzi-a24-ai-jiang-chengwei-haolaiwu-de-weilai-faaf14098cca4b99e1dcf1e6f71c3594]] moves from a reported investment and research partnership to feature-film constraints, creator-process value, brand conflict, process-data governance, and competitive anxiety while marking strategic motive as inference.
+- Healthcare-and-language method: [[ai-jiang-taiyu-zhangbei-weihe-you-ting-meiyou-dong-8f2ef858c5c159ba4b0becd4f1676e8b]] combines hospital workflow, older-listener testing, linguistic explanation, and model-development constraints to separate speech generation from clinical comprehension.
 
 ## Qualifications
-The wiki has only seven sources on the podcast. Broader claims about the show's ownership, editorial line, audience, or long-term reporting pattern remain outside this page's evidence. The Shidai Fengjun episode lacks enough primary footage and testimony to establish a complete event chronology or coordinated male organization; the Nepal episodes contain unstable figures, incomplete Chinese-side evidence, local perceptions that are not full institutional records, and no technical basis for claiming that bilateral data sharing would have predicted the collapse. The A24 episode does not independently verify confidential deal terms, product plans, or Google's strategic motive.
+The wiki has only eight sources on the podcast. Broader claims about the show's ownership, editorial line, audience, or long-term reporting pattern remain outside this page's evidence. The Shidai Fengjun episode lacks enough primary footage and testimony to establish a complete event chronology or coordinated male organization; the Nepal episodes contain unstable figures, incomplete Chinese-side evidence, local perceptions that are not full institutional records, and no technical basis for claiming that bilateral data sharing would have predicted the collapse. The A24 episode does not independently verify confidential deal terms, product plans, or Google's strategic motive. The Taiwanese AI episode uses only two older-listener tests and provides no controlled clinical outcome or post-improvement model evaluation.
 
 ## What Changed
-- Added culture-and-technology reporting that separates disclosed deal boundaries from interpretation.
-- Extended the show's systems profile into film craft, AI capital, cultural branding, and competitive adoption pressure.
-- Added explicit qualification around confidential partnership terms and inferred strategic motive.
+- Added healthcare and language-access reporting centered on older patients' actual comprehension.
+- Extended the show's technology coverage from creative-industry adoption into low-resource speech data, orthography, and clinical workflow.
+- Added explicit qualification around tiny listener samples and absent clinical outcome evidence.
 
 ## Relationships
 - [[MavisDuanReporter]] - reporting relationship through the Hong Kong segment.
@@ -88,3 +92,7 @@ The wiki has only seven sources on the podcast. Broader claims about the show's 
 - [[GenerativeAIHollywoodProduction]] - film-industry transition examined in the newest source.
 - [[AICreativeProcessDatafication]] - creative-process governance topic relationship.
 - [[FearDrivenAIAdoption]] - competitive-coordination topic relationship.
+- [[HualienTzuChiHospital]] - hospital subject in the Taiwanese patient-education episode.
+- [[TaiwanAILabs]] - technical collaborator examined in the Taiwanese speech-AI episode.
+- [[MotherTongueClinicalCommunication]] - healthcare language-access topic relationship.
+- [[ClinicalLanguageComprehensionValidation]] - user-testing and patient-safety topic relationship.

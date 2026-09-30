@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 11582
+wiki_total_pages: 11584
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1415,6 +1415,9 @@ wiki_pages:
   - key: "Taitai"
     title: "台台 / Taitai"
     url: "/wiki/entities/taitai/"
+  - key: "TaiwanAILabs"
+    title: "台灣人工智慧實驗室 / Taiwan AI Labs"
+    url: "/wiki/entities/taiwanailabs/"
   - key: "TongWarringStates"
     title: "同地 / Tong"
     url: "/wiki/entities/tongwarringstates/"

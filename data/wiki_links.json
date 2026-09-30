@@ -16635,6 +16635,10 @@
     "title": "Clinical History Disclosure / 临床病史如实告知",
     "url": "/wiki/concepts/clinicalhistorydisclosure/"
   },
+  "ClinicalLanguageComprehensionValidation": {
+    "title": "Clinical Language Comprehension Validation / 臨床語言理解驗證",
+    "url": "/wiki/concepts/clinicallanguagecomprehensionvalidation/"
+  },
   "ClinicalMusicTherapy": {
     "title": "Clinical Music Therapy",
     "url": "/wiki/concepts/clinicalmusictherapy/"
@@ -35571,6 +35575,10 @@
     "title": "《话剧观众须知二十则》",
     "url": "/wiki/entities/huajuguanzhongxuzhiershize/"
   },
+  "HualienTzuChiHospital": {
+    "title": "花蓮慈濟醫院 / Hualien Tzu Chi Hospital",
+    "url": "/wiki/entities/hualientzuchihospital/"
+  },
   "HuanAnEasternHan": {
     "title": "环安 / Huan An (Eastern Han)",
     "url": "/wiki/entities/huananeasternhan/"
@@ -46135,6 +46143,10 @@
     "title": "Low-Repetition Strength Blocks",
     "url": "/wiki/concepts/lowrepetitionstrengthblocks/"
   },
+  "LowResourceSpeechAIDevelopment": {
+    "title": "Low-Resource Speech AI Development / 低資源語音 AI 開發",
+    "url": "/wiki/concepts/lowresourcespeechaidevelopment/"
+  },
   "LowStatusRegistry": {
     "title": "贱籍身份 / Low-Status Registry",
     "url": "/wiki/concepts/lowstatusregistry/"
@@ -51062,6 +51074,10 @@
   "MotherTongueAwareness": {
     "title": "Mother Tongue Awareness",
     "url": "/wiki/concepts/mothertongueawareness/"
+  },
+  "MotherTongueClinicalCommunication": {
+    "title": "Mother-Tongue Clinical Communication / 母語醫療溝通",
+    "url": "/wiki/concepts/mothertongueclinicalcommunication/"
   },
   "MotherhoodBeyondChildbirth": {
     "title": "抚育胜于生育的母德评价 / Motherhood Beyond Childbirth",
@@ -71303,6 +71319,10 @@
     "title": "Taiwan",
     "url": "/wiki/entities/taiwan/"
   },
+  "TaiwanAILabs": {
+    "title": "台灣人工智慧實驗室 / Taiwan AI Labs",
+    "url": "/wiki/entities/taiwanailabs/"
+  },
   "TaiwanMarketHongKongCinema": {
     "title": "Taiwan Market For Hong Kong Cinema / 港片台湾市场基本盘",
     "url": "/wiki/concepts/taiwanmarkethongkongcinema/"
@@ -85118,6 +85138,10 @@
   "ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1": {
     "title": "AI 会写代码了，为什么你还是做不出产品？",
     "url": "/wiki/sources/ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1/"
+  },
+  "ai-jiang-taiyu-zhangbei-weihe-you-ting-meiyou-dong-8f2ef858c5c159ba4b0becd4f1676e8b": {
+    "title": "AI講台語，長輩為何有聽沒有懂？",
+    "url": "/wiki/sources/ai-jiang-taiyu-zhangbei-weihe-you-ting-meiyou-dong-8f2ef858c5c159ba4b0becd4f1676e8b/"
   },
   "ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1": {
     "title": "171: 【AI季报 26Q2】从 coding 到 RSI，强者愈强的未来？",

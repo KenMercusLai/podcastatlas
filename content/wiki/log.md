@@ -26059,3 +26059,11 @@ Added source `cheques-and-the-city-premier-league-disgrace-6abcdaab4e059d44b566c
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-30] ingest | AI講台語，長輩為何有聽沒有懂？
+
+Added source `ai-jiang-taiyu-zhangbei-weihe-you-ting-meiyou-dong-8f2ef858c5c159ba4b0becd4f1676e8b`; created `HualienTzuChiHospital`, `TaiwanAILabs`, `MotherTongueClinicalCommunication`, `LowResourceSpeechAIDevelopment`, and `ClinicalLanguageComprehensionValidation`; and resynthesized `DuanwenNewsPodcast` from its complete preserved eight-source evidence inventory. Core synthesis: Taiwanese-language clinical AI must connect professional terms to older patients' everyday symptom language and be validated through understanding and safe action, because plausible speech, literal translation, or better pronunciation alone does not establish communication. No settled contradiction was adopted. Two-person listener testing, language-use percentages, training-hour comparisons, model progress, and clinical effectiveness remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,259-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

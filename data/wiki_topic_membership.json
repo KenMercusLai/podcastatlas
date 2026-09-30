@@ -20104,6 +20104,13 @@
       "url": "/topics/science/"
     }
   ],
+  "ClinicalLanguageComprehensionValidation": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "ClinicalTrialContinuity": [
     {
       "key": "technology",
@@ -39261,6 +39268,13 @@
       "url": "/topics/history/"
     }
   ],
+  "HualienTzuChiHospital": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "HuanYiQin": [
     {
       "key": "history",
@@ -48773,6 +48787,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "LowResourceSpeechAIDevelopment": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "LowStatusRegistry": [
@@ -74703,6 +74724,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "TaiwanAILabs": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "TaiwanMarketHongKongCinema": [
     {
       "key": "culture",
@@ -87913,6 +87941,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "ai-jiang-taiyu-zhangbei-weihe-you-ting-meiyou-dong-8f2ef858c5c159ba4b0becd4f1676e8b": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1": [
