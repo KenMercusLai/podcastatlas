@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2957
+topic_total_pages: 2958
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -577,6 +577,9 @@ topic_concepts:
   - key: "CelebrityFolkDevilMoralPanic"
     title: "Celebrity Folk-Devil Moral Panic"
     url: "/wiki/concepts/celebrityfolkdevilmoralpanic/"
+  - key: "CelebrityImageAfterlife"
+    title: "Celebrity Image Afterlife"
+    url: "/wiki/concepts/celebrityimageafterlife/"
   - key: "CeramicIndustrializationTransition"
     title: "Ceramic Industrialization Transition / 陶瓷工业化转型"
     url: "/wiki/concepts/ceramicindustrializationtransition/"

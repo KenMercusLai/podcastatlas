@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 11603
+wiki_total_pages: 11605
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -344,6 +344,9 @@ wiki_pages:
   - key: "MarijaGimbutas"
     title: "Marija Gimbutas"
     url: "/wiki/entities/marijagimbutas/"
+  - key: "MarilynMonroe"
+    title: "Marilyn Monroe"
+    url: "/wiki/entities/marilynmonroe/"
   - key: "MarinaDataScienceWithSam"
     title: "Marina (Data Science With Sam)"
     url: "/wiki/entities/marinadatasciencewithsam/"

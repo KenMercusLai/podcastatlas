@@ -27729,6 +27729,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/celebrityfolkdevilmoralpanic/"
     },
+    "CelebrityImageAfterlife": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5351991903 [GLT5351991903].md",
+          "key": "237-marilyn-monroe-glt5351991903",
+          "show": "The Rest Is History",
+          "title": "237. Marilyn Monroe",
+          "url": "/wiki/sources/237-marilyn-monroe-glt5351991903/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/celebrityimageafterlife/"
+    },
     "CelebrityLedMarketEntry": {
       "episode_count": 1,
       "show_count": 1,
@@ -64214,6 +64230,29 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/concepts/filibusterminorityrights/"
+    },
+    "FilmGossipAsContext": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "107.闲聊伟大导演们的八卦（第一弹） [744150818].md",
+          "key": "107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818",
+          "show": "蜜獾吃书",
+          "title": "107.闲聊伟大导演们的八卦（第一弹）",
+          "url": "/wiki/sources/107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818/"
+        },
+        {
+          "episode_file": "GLT5351991903 [GLT5351991903].md",
+          "key": "237-marilyn-monroe-glt5351991903",
+          "show": "The Rest Is History",
+          "title": "237. Marilyn Monroe",
+          "url": "/wiki/sources/237-marilyn-monroe-glt5351991903/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/filmgossipascontext/"
     },
     "FilmToFestivalFeedback": {
       "episode_count": 1,
@@ -118175,6 +118214,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/marijagimbutas/"
     },
+    "MarilynMonroe": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5351991903 [GLT5351991903].md",
+          "key": "237-marilyn-monroe-glt5351991903",
+          "show": "The Rest Is History",
+          "title": "237. Marilyn Monroe",
+          "url": "/wiki/sources/237-marilyn-monroe-glt5351991903/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/marilynmonroe/"
+    },
     "MarineLePen": {
       "episode_count": 2,
       "show_count": 1,
@@ -157354,6 +157409,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/entities/saragottfried/"
+    },
+    "SarahChurchwell": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5351991903 [GLT5351991903].md",
+          "key": "237-marilyn-monroe-glt5351991903",
+          "show": "The Rest Is History",
+          "title": "237. Marilyn Monroe",
+          "url": "/wiki/sources/237-marilyn-monroe-glt5351991903/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/sarahchurchwell/"
     },
     "SarahFriar": {
       "episode_count": 1,

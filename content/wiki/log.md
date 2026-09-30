@@ -26152,3 +26152,11 @@ Added source `biology-treatments-for-compulsive-behaviors-binge-eating-dr-casey-
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | 237. Marilyn Monroe
+
+Added source `237-marilyn-monroe-glt5351991903`; created `MarilynMonroe`, `SarahChurchwell`, and `CelebrityImageAfterlife`; and resynthesized `FilmGossipAsContext` from its complete preserved evidence inventory. Core synthesis: Monroe's lasting historical force lies in the interaction of professional camera skill, studio exploitation and resistance, detachable commercial images, early death, and later political myth, while repeated anecdotes and symbolic plausibility do not establish private biography. No settled contradiction was adopted. Childhood-abuse claims, relationships, psychological explanations, exact death mechanism, and later-career counterfactuals remain uncertain or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,270-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -1374,6 +1374,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "237-marilyn-monroe-glt5351991903": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "238-the-regency-revolution-glt7671750288": [
     {
       "key": "history",
@@ -17573,6 +17580,13 @@
     }
   ],
   "CelebrityFolkDevilMoralPanic": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "CelebrityImageAfterlife": [
     {
       "key": "culture",
       "label": "Culture",

@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [Biology & Treatments for Compulsive Behaviors & Binge Eating | Dr. Casey Halpern](sources/biology-treatments-for-compulsive-behaviors-binge-eating-dr-casey-halpern-scim4911670131.md) — Full Huberman Lab interview on loss-of-control eating, responsive DBS, craving-signal mapping, OCD, focused ultrasound, and the invasive-to-non-invasive treatment pathway.
+- [237. Marilyn Monroe](sources/237-marilyn-monroe-glt5351991903.md) — The Rest Is History episode on Monroe's professional image-making, studio power, uncertain biography, consumer celebrity, death, and mythic afterlife.
 - [238. The Regency Revolution](sources/238-the-regency-revolution-glt7671750288.md) — The Rest Is History conversation with Hilary Davidson on rapid Regency changes in women's dress, menswear, bodies, retail networks, mobility, and political meaning.
 - [239. Young Churchill: Born to Lead (Part 1)](sources/239-young-churchill-born-to-lead-part-1-glt1969009161.md) — The Rest Is History episode on Churchill's aristocratic childhood, emotional neglect, destiny belief, schooling, risk-taking, and entry to Sandhurst.
 - [The Effects of Cannabis (Marijuana) on the Brain & Body](sources/the-effects-of-cannabis-marijuana-on-the-brain-body-scim1203833427.md) — Huberman Lab solo episode on endocannabinoid mechanisms, acute and chronic cannabis effects, developmental risk, and strain, psychosis, CBD, and medical-use claims later bounded by corrective evidence.
@@ -3323,6 +3324,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [当眼镜、耳机、手机都有 AI，谁来统一你的「第二大脑」｜ 2026 高通骁龙峰会 S10E31](sources/dang-yanjing-erji-shouji-dou-you-ai-shui-lai-tongyi-ni-de-di-er-danao-2026-gaotong-xiaolong-fenghui-s10e31-2d6bfcec-31c3-4ef2-981f-6dc2864cf92d.md) — What's Next｜科技早知道 episode on distributed AI devices, the phone as coordination hub, local-first multimodal memory, cross-device interoperability, and Qualcomm's platform ambitions.
 
 ## Entities
+- [Marilyn Monroe](entities/MarilynMonroe.md) — American actor and model whose disciplined screen persona became a durable symbol of Hollywood, consumer culture, and biographical uncertainty.
+- [Sarah Churchwell](entities/SarahChurchwell.md) — Scholar whose Monroe work supplies an evidence-conscious method for separating repeated celebrity stories from verified biography.
 - [Hilary Davidson](entities/HilaryDavidson.md) — Fashion historian and curator interpreting Regency dress through garments, bodies, commerce, infrastructure, and multi-causal change.
 - [Jane Austen](entities/JaneAusten.md) — Novelist whose letters and social world illuminate fashion circulation and the balance between novelty and respectability.
 - [Emma Hamilton](entities/EmmaHamilton.md) — Celebrity performer whose classically draped attitudes made Romantic antiquity embodied and imitable.
@@ -14959,6 +14962,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Modular](entities/ModularAI.md) — AI software-infrastructure company whose Mojo and MAX stack is presented as supporting cross-hardware model deployment.
 
 ## Concepts
+- [Celebrity Image Afterlife](concepts/CelebrityImageAfterlife.md) — Process by which detachable images and later events preserve a public figure as a reusable symbol while obscuring the historical person.
 - [Responsive Deep Brain Stimulation](concepts/ResponsiveDeepBrainStimulation.md) — Closed-loop neuromodulation that detects a selected neural state and delivers brief stimulation rather than stimulating continuously.
 - [Loss of Control Eating](concepts/LossOfControlEating.md) — Eating-behavior construct distinguished from obesity and from formal binges that also require unusually large intake.
 - [Regency Fashion Transition](concepts/RegencyFashionTransition.md) — Rapid shift in silhouettes, textiles, body ideals, mobility, tailoring, and gendered social meaning from the 1790s to about 1820.

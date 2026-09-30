@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8992
+wiki_total_pages: 8993
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -425,6 +425,9 @@ wiki_pages:
   - key: "CelebrityFolkDevilMoralPanic"
     title: "Celebrity Folk-Devil Moral Panic"
     url: "/wiki/concepts/celebrityfolkdevilmoralpanic/"
+  - key: "CelebrityImageAfterlife"
+    title: "Celebrity Image Afterlife"
+    url: "/wiki/concepts/celebrityimageafterlife/"
   - key: "CelebrityLedMarketEntry"
     title: "Celebrity-Led Market Entry / 明星带动市场进入"
     url: "/wiki/concepts/celebrityledmarketentry/"
