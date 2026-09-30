@@ -4,8 +4,9 @@ type: concept
 tags: [ketogenic-diet, epilepsy, neurology, nutrition]
 sources:
   - essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786
+  - diet-nutrition-for-mental-health-dr-chris-palmer-scim6818542478
 knowledge_schema: synthesis-v1
-last_updated: 2026-08-27
+last_updated: 2026-09-30
 ---
 
 # Ketogenic Diet Epilepsy Evidence
@@ -14,7 +15,7 @@ last_updated: 2026-08-27
 Ketogenic diet epilepsy evidence is the source's historical and clinical anchor for treating ketogenic diet as a brain intervention: the diet was developed to mimic fasting for seizure control.
 
 ## Current Synthesis
-The source uses epilepsy as the strongest established precedent for ketogenic diet affecting the brain. Palmer says the diet was developed in 1921 by [[RussellWilder]] at [[MayoClinic]] after observations that fasting could stop seizures, and he reports substantial seizure-response rates in early and treatment-resistant epilepsy contexts. This evidence supports biological plausibility for psychiatric investigation, but it does not by itself prove psychiatric efficacy.
+The Palmer sources use epilepsy as the strongest established precedent for ketogenic diet affecting the brain. They say the diet was developed in 1921 by [[RussellWilder]] at [[MayoClinic]] after observations that fasting could stop seizures and report substantial response in early and treatment-resistant epilepsy contexts. This evidence supports biological plausibility for psychiatric investigation, but it does not by itself prove psychiatric efficacy.
 
 ## Key Claims
 - The ketogenic diet was developed for epilepsy rather than weight loss or universal healthy eating.
@@ -29,12 +30,13 @@ The source uses epilepsy as the strongest established precedent for ketogenic di
 - Fasting mimicry - [[essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786]] says fasting observations led [[RussellWilder]] at [[MayoClinic]] to design a longer-term dietary substitute.
 - Response rates - [[essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786]] reports early results of 50% seizure-free and another 35% with at least 50% seizure reduction, plus meaningful effects in some treatment-resistant epilepsy patients.
 - Mechanism breadth - [[essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786]] lists ketogenic effects across neurotransmitters, calcium regulation, gene expression, inflammation, microbiome, glucose, insulin, and insulin signaling.
+- Full-episode corroboration - [[diet-nutrition-for-mental-health-dr-chris-palmer-scim6818542478]] repeats the fasting-to-ketogenic history while keeping epilepsy treatment distinct from psychiatric trial evidence.
 
 ## Counterevidence & Qualifications
 Epilepsy evidence is stronger than the source's psychiatric evidence. The page should not collapse seizure-control data into proof that ketogenic diet treats depression, psychosis, or bipolar disorder without disorder-specific trials.
 
 ## What Changed
-- Added the epilepsy evidence base that Palmer uses as the historical foundation for ketogenic diet as a brain treatment.
+- Added corroboration from the full-length Palmer episode without generalizing epilepsy efficacy to psychiatric disorders.
 
 ## Related Concepts
 - [[KetogenicDietMentalHealth]] - psychiatric branch whose plausibility partly draws on this evidence.

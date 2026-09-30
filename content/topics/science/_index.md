@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1335
+topic_total_pages: 1336
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -3522,6 +3522,9 @@ topic_sources:
   - key: "dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d"
     title: "Dhaka matters: an election for Bangladesh"
     url: "/wiki/sources/dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d/"
+  - key: "diet-nutrition-for-mental-health-dr-chris-palmer-scim6818542478"
+    title: "Diet & Nutrition for Mental Health | Dr. Chris Palmer"
+    url: "/wiki/sources/diet-nutrition-for-mental-health-dr-chris-palmer-scim6818542478/"
   - key: "e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e"
     title: "E145.上钟了！4000点之上的心理按摩"
     url: "/wiki/sources/e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e/"

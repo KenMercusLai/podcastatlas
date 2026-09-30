@@ -4,8 +4,9 @@ type: concept
 tags: [nutrition, mental-health, metabolism, glucose]
 sources:
   - essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786
+  - diet-nutrition-for-mental-health-dr-chris-palmer-scim6818542478
 knowledge_schema: synthesis-v1
-last_updated: 2026-08-27
+last_updated: 2026-09-30
 ---
 
 # Carbohydrate Restriction and Mental Health
@@ -14,7 +15,7 @@ last_updated: 2026-08-27
 Carbohydrate restriction and mental health is the lower-intensity dietary branch in the source: reducing carbohydrate load, sweets, highly processed foods, glucose, and insulin without necessarily pursuing full therapeutic ketosis.
 
 ## Current Synthesis
-The source separates carbohydrate restriction from ketogenic treatment. Palmer says not every patient needs a ketogenic diet; some mood-disorder cases may improve by removing junk food or sweets, and a vegetarian anxiety example improved after reducing carbohydrates without going ketogenic. This makes carbohydrate restriction a plausible but still source-scoped mental-health intervention, especially for less severe or subclinical cases, while serious disorders remain professionally supervised.
+The Palmer sources separate carbohydrate restriction from ketogenic treatment. Palmer says not every patient needs a ketogenic diet; some cases may warrant only junk-food or sugar reduction. This makes carbohydrate restriction a plausible but still source-scoped mental-health intervention, especially for less severe or subclinical cases, while serious disorders remain professionally supervised and treatment response does not prove carbohydrate causation.
 
 ## Key Claims
 - The source treats highly processed foods high in both sugar or carbohydrates and fats as especially problematic.
@@ -28,12 +29,13 @@ The source separates carbohydrate restriction from ketogenic treatment. Palmer s
 - Lower-intensity intervention - [[essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786]] says some patients may only need sweets removal or lower glucose and insulin rather than ketogenic diet.
 - Practical example - [[essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786]] describes a vegetarian reader with chronic anxiety who restricted carbohydrates without going ketogenic and felt better within three weeks.
 - Supervision contrast - [[essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786]] reserves serious-disorder and medication-complexity cases for medical professionals.
+- Full-episode qualification - [[diet-nutrition-for-mental-health-dr-chris-palmer-scim6818542478]] repeats the intervention gradient while explicitly separating useful treatment from proof that carbohydrates caused illness.
 
 ## Counterevidence & Qualifications
 The source gives examples and clinical reasoning, not a completed trial base for carbohydrate restriction as a mental-health treatment. It should remain distinct from ketogenic diet and from ordinary nutrition advice until more sources accumulate.
 
 ## What Changed
-- Added a lower-intensity nutrition concept that keeps carbohydrate restriction separate from therapeutic ketogenic diet.
+- Added corroboration from the full episode and the treatment-versus-cause qualification.
 
 ## Related Concepts
 - [[NutritionMentalHealth]] - broader diet-and-mental-health frame.

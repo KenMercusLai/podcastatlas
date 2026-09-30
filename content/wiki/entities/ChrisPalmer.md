@@ -5,25 +5,27 @@ tags: [person, psychiatry, nutrition, metabolism]
 sources:
   - essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786
   - transform-your-mental-health-with-diet-lifestyle-dr-chris-palmer-scim2561346508
+  - diet-nutrition-for-mental-health-dr-chris-palmer-scim6818542478
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-21
+last_updated: 2026-09-30
 ---
 
 # Chris Palmer
 
 ## Overview
-Chris Palmer is a psychiatrist whose two [[HubermanLab]] appearances in this wiki develop a metabolic and mitochondrial approach to mental illness, nutrition, lifestyle, and emerging biological measurement.
+Chris Palmer is a psychiatrist whose [[HubermanLab]] appearances in this wiki develop a metabolic and mitochondrial approach to mental illness, nutrition, lifestyle, and emerging biological measurement.
 
 ## Current Profile
 Palmer's profile combines personal metabolic experience, treatment-resistant psychiatric cases, epilepsy precedent, lifestyle medicine, and a broad mitochondrial mechanism. He argues that neurotransmitters, plasticity, inflammation, hormones, stress, nutrition, aging, and social experience can be connected through cellular energy regulation rather than treated as mutually exclusive explanations.
 
-The combined evidence does not support a profile of "diet cures mental illness." Palmer reports mixed response, distinguishes prevention or mild-to-moderate support from severe illness, and treats ketogenic therapy, fasting, supplements, neurostimulation, nutrient correction, and biomarker panels as interventions or research branches with different evidence and safety requirements.
+The combined evidence does not support a profile of "diet cures mental illness." Palmer reports mixed response, distinguishes prevention or mild-to-moderate support from severe illness, and treats ketogenic therapy, fasting, supplements, neurostimulation, nutrient correction, and biomarker panels as interventions or research branches with different evidence and safety requirements. The full 2022 interview makes care delivery part of the intervention: ketone and glucose monitoring, sleep protection, medication supervision, coaching, and adherence support can be as important as the diet label.
 
 ## Key Characteristics
 - Uses metabolism and mitochondrial function as an integrating psychiatric framework rather than a single-molecule deficiency theory.
 - Grounds the framework in personal experience, clinical cases, epilepsy precedent, and mechanistic research while acknowledging evidence gaps.
 - Treats diet, exercise, sleep, substances, stress, relationships, and purpose as interacting lifestyle inputs.
 - Presents ketogenic therapy as an intensive medical intervention rather than a universal diet.
+- Treats hypomanic activation, sleep loss, medication changes, and alcohol exposure as intervention-specific safety problems.
 - Distinguishes diagnostic symptom clusters from final causal explanations.
 - Emphasizes variable response, dose, deficiency status, supervision, and the absence of a universal mitochondrial test or cure.
 
@@ -33,17 +35,18 @@ The combined evidence does not support a profile of "diet cures mental illness."
 - Lifestyle and intervention range: [[transform-your-mental-health-with-diet-lifestyle-dr-chris-palmer-scim2561346508]] extends the profile into exercise, sleep, substances, relationships, fasting, supplements, nutrient deficiencies, and neurostimulation.
 - Diagnostic and measurement stance: [[transform-your-mental-health-with-diet-lifestyle-dr-chris-palmer-scim2561346508]] separates symptom labels from causes and describes emerging biomarker panels while saying no single mitochondrial blood test is available.
 - Safety and evidence limits: [[essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786]] and [[transform-your-mental-health-with-diet-lifestyle-dr-chris-palmer-scim2561346508]] keep severe illness and medication changes under qualified care and distinguish epilepsy evidence from still-developing psychiatric trials.
+- Delivery and adverse-state detail: [[diet-nutrition-for-mental-health-dr-chris-palmer-scim6818542478]] adds monitoring, adherence support, possible hypomanic activation, sleep protection, and a relapse-drinking warning.
 
 ## Qualifications
-The profile is bounded to the two episode notes. Clinical cases, mechanistic explanations, risk ratios, biomarker performance, supplement effects, and public-health claims are Palmer's source-scoped account and are not independently validated here. The vaccine and autism discussion is preserved as a qualified inflammation hypothesis, not as proof of categorical causation.
+The profile is bounded to the three episode notes. Clinical cases, mechanistic explanations, ketone targets, pilot results, risk ratios, biomarker performance, supplement effects, and public-health claims are Palmer's source-scoped account and are not independently validated here. The vaccine and autism discussion is preserved as a qualified inflammation hypothesis, not as proof of categorical causation.
 
 ## What Changed
-- Expanded Palmer's profile from nutrition and ketogenic psychiatry into lifestyle medicine, aging, nutrient deficiencies, neurostimulation, public health, and biomarker research.
-- Clarified that his mitochondrial framework integrates multiple contributors without making every psychiatric condition metabolically identical.
-- Added the explicit diagnosis-versus-mechanism and no-universal-test boundaries.
+- Added the full 2022 interview's adherence, monitoring, hypomania, sleep, and alcohol-exposure safety detail.
+- Clarified that Palmer separates treatment response from proof of root cause.
+- Preserved psychiatric pilot findings and ketone targets as source-scoped rather than prescriptive.
 
 ## Relationships
-- [[HubermanLab]] - podcast setting for both source discussions.
+- [[HubermanLab]] - podcast setting for the source discussions.
 - [[AndrewHuberman]] - host who elicits Palmer's clinical, mechanistic, and public-health claims.
 - [[MetabolicPsychiatry]] - central clinical framework Palmer advances.
 - [[MitochondrialMentalHealthModel]] - integrating biological model behind the framework.

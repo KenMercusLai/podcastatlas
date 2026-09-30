@@ -25839,3 +25839,11 @@ Added source `260-croatia-the-man-who-saved-the-roman-empire-glt9631298578`; cre
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-30] ingest | Diet & Nutrition for Mental Health | Dr. Chris Palmer
+
+Added source `diet-nutrition-for-mental-health-dr-chris-palmer-scim6818542478`; resynthesized `ChrisPalmer`, `NutritionMentalHealth`, `MetabolicPsychiatry`, `KetogenicDietMentalHealth`, `MitochondrialMentalHealthModel`, `CarbohydrateRestrictionMentalHealth`, and `KetogenicDietEpilepsyEvidence` from their complete bounded source sets; and added corroborating provenance to `RussellWilder` and `MayoClinic`. Core synthesis: ketogenic and lower-carbohydrate interventions may be clinically meaningful for selected patients, but treatment response does not prove dietary or mitochondrial root cause, epilepsy evidence does not prove psychiatric efficacy, and delivery depends on monitoring, adherence support, medication supervision, and sleep protection. No settled contradiction was adopted. Ketone targets, psychiatric cases, the French hospital pilot, alcohol-detox findings, blood-alcohol warning, Alzheimer’s results, hormone and fertility observations, THC mechanisms, and GLP-1 concerns remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten because this full episode corroborates and qualifies an existing Palmer branch rather than changing the wiki-wide synthesis.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
