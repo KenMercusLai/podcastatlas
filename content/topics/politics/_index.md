@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2861
+topic_total_pages: 2862
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3817,6 +3817,9 @@ topic_concepts:
   - key: "TreasonAccusationTrap"
     title: "Treason Accusation Trap / 谋反指控陷阱"
     url: "/wiki/concepts/treasonaccusationtrap/"
+  - key: "TreasonAsSovereigntyContest"
+    title: "Treason as Sovereignty Contest"
+    url: "/wiki/concepts/treasonassovereigntycontest/"
   - key: "TreasuryBondSpeculation"
     title: "Treasury Bond Speculation"
     url: "/wiki/concepts/treasurybondspeculation/"

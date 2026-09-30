@@ -6,11 +6,14 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 11550
+wiki_total_pages: 11553
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
     url: "/wiki/entities/waroftheworlds/"
+  - key: "WolfeTone"
+    title: "Theobald Wolfe Tone"
+    url: "/wiki/entities/wolfetone/"
   - key: "WBYeats"
     title: "W. B. Yeats / 叶芝"
     url: "/wiki/entities/wbyeats/"

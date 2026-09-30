@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 11550
+wiki_total_pages: 11553
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -260,6 +260,9 @@ wiki_pages:
   - key: "NeilHughes"
     title: "Neil Hughes"
     url: "/wiki/entities/neilhughes/"
+  - key: "NeilJohnston"
+    title: "Neil Johnston"
+    url: "/wiki/entities/neiljohnston/"
   - key: "NeilMohan"
     title: "Neil Mohan"
     url: "/wiki/entities/neilmohan/"
@@ -740,6 +743,9 @@ wiki_pages:
   - key: "NYUCenterOnTechnologyPolicy"
     title: "NYU Center on Technology Policy"
     url: "/wiki/entities/nyucenterontechnologypolicy/"
+  - key: "NationalArchivesUK"
+    title: "The National Archives (United Kingdom)"
+    url: "/wiki/entities/nationalarchivesuk/"
   - key: "NoLongerHuman"
     title: "《人间失格》 / No Longer Human"
     url: "/wiki/entities/nolongerhuman/"

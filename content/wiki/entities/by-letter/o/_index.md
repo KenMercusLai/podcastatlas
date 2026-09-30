@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "o"
-wiki_total_pages: 11550
+wiki_total_pages: 11553
 wiki_pages:
   - key: "OneX"
     title: "1X"

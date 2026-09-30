@@ -28564,9 +28564,9 @@
       "url": "/wiki/entities/charlesiii/"
     },
     "CharlesIIOfEngland": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT8912379704 [GLT8912379704].md",
@@ -28588,15 +28588,22 @@
           "show": "The Rest Is History",
           "title": "333: The Republic of Britain: Life under Cromwell",
           "url": "/wiki/sources/333-the-republic-of-britain-life-under-cromwell-glt3360112790/"
+        },
+        {
+          "episode_file": "GLT2159531504 [GLT2159531504].md",
+          "key": "249-treason-in-modern-britain-part-2-glt2159531504",
+          "show": "The Rest Is History",
+          "title": "249. Treason in Modern Britain (Part 2)",
+          "url": "/wiki/sources/249-treason-in-modern-britain-part-2-glt2159531504/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-09-30",
       "url": "/wiki/entities/charlesiiofengland/"
     },
     "CharlesIOfEngland": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3360112790 [GLT3360112790].md",
@@ -28604,9 +28611,16 @@
           "show": "The Rest Is History",
           "title": "333: The Republic of Britain: Life under Cromwell",
           "url": "/wiki/sources/333-the-republic-of-britain-life-under-cromwell-glt3360112790/"
+        },
+        {
+          "episode_file": "GLT2159531504 [GLT2159531504].md",
+          "key": "249-treason-in-modern-britain-part-2-glt2159531504",
+          "show": "The Rest Is History",
+          "title": "249. Treason in Modern Britain (Part 2)",
+          "url": "/wiki/sources/249-treason-in-modern-britain-part-2-glt2159531504/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-09-30",
       "url": "/wiki/entities/charlesiofengland/"
     },
     "CharlesLightoller": {
@@ -43668,9 +43682,9 @@
       "url": "/wiki/concepts/decisiveterrainpreemption/"
     },
     "DeclarationOfIndependence": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT6535571769 [GLT6535571769].md",
@@ -43692,9 +43706,16 @@
           "show": "The Rest Is History",
           "title": "349: The Birth of the United States (Part 3)",
           "url": "/wiki/sources/349-the-birth-of-the-united-states-part-3-glt9804967639/"
+        },
+        {
+          "episode_file": "GLT2159531504 [GLT2159531504].md",
+          "key": "249-treason-in-modern-britain-part-2-glt2159531504",
+          "show": "The Rest Is History",
+          "title": "249. Treason in Modern Britain (Part 2)",
+          "url": "/wiki/sources/249-treason-in-modern-britain-part-2-glt2159531504/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-09-30",
       "url": "/wiki/entities/declarationofindependence/"
     },
     "DeclarationOfRightsOfManAndCitizen": {
@@ -50711,9 +50732,9 @@
       "url": "/wiki/entities/eastgermany/"
     },
     "EasterRising": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7095481415 [GLT7095481415].md",
@@ -50721,9 +50742,16 @@
           "show": "The Rest Is History",
           "title": "339: Ireland: The Easter Rising, 1916 (Part 4)",
           "url": "/wiki/sources/339-ireland-the-easter-rising-1916-part-4-glt7095481415/"
+        },
+        {
+          "episode_file": "GLT2159531504 [GLT2159531504].md",
+          "key": "249-treason-in-modern-britain-part-2-glt2159531504",
+          "show": "The Rest Is History",
+          "title": "249. Treason in Modern Britain (Part 2)",
+          "url": "/wiki/sources/249-treason-in-modern-britain-part-2-glt2159531504/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-09-30",
       "url": "/wiki/entities/easterrising/"
     },
     "EccentricSprintCapacity": {
@@ -71634,9 +71662,9 @@
       "url": "/wiki/entities/georgelucas/"
     },
     "GeorgeMonck": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3360112790 [GLT3360112790].md",
@@ -71644,9 +71672,16 @@
           "show": "The Rest Is History",
           "title": "333: The Republic of Britain: Life under Cromwell",
           "url": "/wiki/sources/333-the-republic-of-britain-life-under-cromwell-glt3360112790/"
+        },
+        {
+          "episode_file": "GLT2159531504 [GLT2159531504].md",
+          "key": "249-treason-in-modern-britain-part-2-glt2159531504",
+          "show": "The Rest Is History",
+          "title": "249. Treason in Modern Britain (Part 2)",
+          "url": "/wiki/sources/249-treason-in-modern-britain-part-2-glt2159531504/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-09-30",
       "url": "/wiki/entities/georgemonck/"
     },
     "GeorgeRRMartin": {
@@ -125903,6 +125938,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/nationalanthempoliticalplasticity/"
     },
+    "NationalArchivesUK": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2159531504 [GLT2159531504].md",
+          "key": "249-treason-in-modern-britain-part-2-glt2159531504",
+          "show": "The Rest Is History",
+          "title": "249. Treason in Modern Britain (Part 2)",
+          "url": "/wiki/sources/249-treason-in-modern-britain-part-2-glt2159531504/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/nationalarchivesuk/"
+    },
     "NationalAssembly1789": {
       "episode_count": 1,
       "show_count": 1,
@@ -126545,6 +126596,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/entities/neilarmstrong/"
+    },
+    "NeilJohnston": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2159531504 [GLT2159531504].md",
+          "key": "249-treason-in-modern-britain-part-2-glt2159531504",
+          "show": "The Rest Is History",
+          "title": "249. Treason in Modern Britain (Part 2)",
+          "url": "/wiki/sources/249-treason-in-modern-britain-part-2-glt2159531504/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/neiljohnston/"
     },
     "NeilPrice": {
       "episode_count": 1,
@@ -148217,9 +148284,9 @@
       "url": "/wiki/concepts/regentshadowaccessionsurvival/"
     },
     "RegicideAsRepublicanFounding": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT2184509954 [GLT2184509954].md",
@@ -148241,9 +148308,16 @@
           "show": "The Rest Is History",
           "title": "333: The Republic of Britain: Life under Cromwell",
           "url": "/wiki/sources/333-the-republic-of-britain-life-under-cromwell-glt3360112790/"
+        },
+        {
+          "episode_file": "GLT2159531504 [GLT2159531504].md",
+          "key": "249-treason-in-modern-britain-part-2-glt2159531504",
+          "show": "The Rest Is History",
+          "title": "249. Treason in Modern Britain (Part 2)",
+          "url": "/wiki/sources/249-treason-in-modern-britain-part-2-glt2159531504/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-09-30",
       "url": "/wiki/concepts/regicideasrepublicanfounding/"
     },
     "RegimeSymbolContinuity": {
@@ -177347,6 +177421,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/traviskalanick/"
     },
+    "TreasonAsSovereigntyContest": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2159531504 [GLT2159531504].md",
+          "key": "249-treason-in-modern-britain-part-2-glt2159531504",
+          "show": "The Rest Is History",
+          "title": "249. Treason in Modern Britain (Part 2)",
+          "url": "/wiki/sources/249-treason-in-modern-britain-part-2-glt2159531504/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/treasonassovereigntycontest/"
+    },
     "TreasuryBuybackPolicy": {
       "episode_count": 3,
       "show_count": 3,
@@ -179379,9 +179469,9 @@
       "url": "/wiki/entities/unitedarabemirates/"
     },
     "UnitedIrishmen": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6280042699 [GLT6280042699].md",
@@ -179389,9 +179479,16 @@
           "show": "The Rest Is History",
           "title": "336: Ireland: Celts, Conquest and Cromwell (Part 1)",
           "url": "/wiki/sources/336-ireland-celts-conquest-and-cromwell-part-1-glt6280042699/"
+        },
+        {
+          "episode_file": "GLT2159531504 [GLT2159531504].md",
+          "key": "249-treason-in-modern-britain-part-2-glt2159531504",
+          "show": "The Rest Is History",
+          "title": "249. Treason in Modern Britain (Part 2)",
+          "url": "/wiki/sources/249-treason-in-modern-britain-part-2-glt2159531504/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-09-30",
       "url": "/wiki/entities/unitedirishmen/"
     },
     "UnitedNationsChildrenFund": {
@@ -187380,9 +187477,9 @@
       "url": "/wiki/entities/williamiii/"
     },
     "WilliamJoyce": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT3021730207 [GLT3021730207].md",
@@ -187397,9 +187494,16 @@
           "show": "The Rest Is History",
           "title": "372. The Birth of British Fascism",
           "url": "/wiki/sources/372-the-birth-of-british-fascism-glt4747738645/"
+        },
+        {
+          "episode_file": "GLT2159531504 [GLT2159531504].md",
+          "key": "249-treason-in-modern-britain-part-2-glt2159531504",
+          "show": "The Rest Is History",
+          "title": "249. Treason in Modern Britain (Part 2)",
+          "url": "/wiki/sources/249-treason-in-modern-britain-part-2-glt2159531504/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-30",
       "url": "/wiki/entities/williamjoyce/"
     },
     "WilliamMurdoch": {
@@ -188010,6 +188114,29 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/wolfwarrior2/"
+    },
+    "WolfeTone": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "GLT6280042699 [GLT6280042699].md",
+          "key": "336-ireland-celts-conquest-and-cromwell-part-1-glt6280042699",
+          "show": "The Rest Is History",
+          "title": "336: Ireland: Celts, Conquest and Cromwell (Part 1)",
+          "url": "/wiki/sources/336-ireland-celts-conquest-and-cromwell-part-1-glt6280042699/"
+        },
+        {
+          "episode_file": "GLT2159531504 [GLT2159531504].md",
+          "key": "249-treason-in-modern-britain-part-2-glt2159531504",
+          "show": "The Rest Is History",
+          "title": "249. Treason in Modern Britain (Part 2)",
+          "url": "/wiki/sources/249-treason-in-modern-britain-part-2-glt2159531504/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/wolfetone/"
     },
     "WomenBlamedForDynasticCollapse": {
       "episode_count": 2,

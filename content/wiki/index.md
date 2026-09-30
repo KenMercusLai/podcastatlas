@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [249. Treason in Modern Britain (Part 2)](sources/249-treason-in-modern-britain-part-2-glt2159531504.md) — The Rest Is History episode on treason as a changing contest over monarchy, Parliament, state, nation, republic, evidence, and political legitimacy.
 - [250. Alfred the Great: Fury of the Vikings (Part 1)](sources/250-alfred-the-great-fury-of-the-vikings-part-1-glt7924523463.md) — The Rest Is History episode on Alfred's formation, the Great Heathen Army, Viking operational mobility, divided Anglo-Saxon kingdoms, source bias, and the Chippenham crisis of 878.
 - [251. Alfred the Great: Return of the King (Part 2)](sources/251-alfred-the-great-return-of-the-king-part-2-glt9621369023.md) — The Rest Is History episode on Alfred's 878 recovery, Edington, Guthrum's baptism, Danelaw accommodation, fortified reform, learning, and wider English identity.
 - [252. The World Cup: British Imperialism, South American rivalries, and Mussolini (Part 1)](sources/252-the-world-cup-british-imperialism-south-american-rivalries-and-mussolini-part-1-glt2171290588.md) — The Rest Is History episode on football's British-network diffusion, Uruguay's rise, fascist World Cups, and the Maracanazo's racialized national memory.
@@ -3291,6 +3292,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton](sources/the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim1870631763.md) — Full Huberman Lab interview on dynamic energy balance, appetite, adherence, protein, food processing, evidence hierarchy, supplements, and durable weight-management behavior.
 
 ## Entities
+- [Neil Johnston](entities/NeilJohnston.md) — National Archives guide and co-author interpreting British treason through legal records, political theatre, and disputed sovereignty.
+- [The National Archives (United Kingdom)](entities/NationalArchivesUK.md) — Archival institution represented through its Treason: People, Power and Plot exhibition and document-based public history.
+- [Theobald Wolfe Tone](entities/WolfeTone.md) — United Irishmen founder who moved from cross-confessional reform toward French-backed republican revolution.
 - [Jules Rimet](entities/JulesRimet.md) — French football administrator whose interwar internationalism and organizing helped establish the World Cup.
 - [1930 FIFA World Cup](entities/FIFAWorldCup1930.md) — First official World Cup, hosted and won by Uruguay as a claim to small-state and South American football prestige.
 - [Moacir Barbosa](entities/MoacirBarbosa.md) — Brazil goalkeeper subjected to decades of racialized scapegoating after the 1950 Maracanazo.
@@ -14871,6 +14875,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Roger Berkowitz](entities/RogerBerkowitz.md) — Political theorist reconstructing Hannah Arendt's account of friendship, plurality, truth, and reciprocal persuasion.
 
 ## Concepts
+- [Treason as Sovereignty Contest](concepts/TreasonAsSovereigntyContest.md) — Framework linking treason charges to the authority entitled to demand allegiance, judge disloyalty, and define rebellion.
 - [Maracanazo](concepts/Maracanazo.md) — Uruguay's 1950 victory over Brazil understood as national trauma, racialized scapegoating, and intergenerational football memory.
 - [Football Imperial Network Diffusion](concepts/FootballImperialNetworkDiffusion.md) — Spread of football through British-linked transport, commerce, work, migration, and clubs followed by local transformation.
 - [World Cup National Memory](concepts/WorldCupNationalMemory.md) — Process by which tournament moments become selective national stories about recovery, unity, grievance, or modernity.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 8947
+wiki_total_pages: 8948
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -812,6 +812,9 @@ wiki_pages:
   - key: "TreasonAccusationTrap"
     title: "Treason Accusation Trap / 谋反指控陷阱"
     url: "/wiki/concepts/treasonaccusationtrap/"
+  - key: "TreasonAsSovereigntyContest"
+    title: "Treason as Sovereignty Contest"
+    url: "/wiki/concepts/treasonassovereigntycontest/"
   - key: "TreasureHuntRetail"
     title: "Treasure Hunt Retail"
     url: "/wiki/concepts/treasurehuntretail/"

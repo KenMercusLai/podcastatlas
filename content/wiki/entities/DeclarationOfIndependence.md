@@ -6,7 +6,8 @@ sources:
   - 686-jefferson-the-betrayal-of-liberty-part-4-glt6535571769
   - 684-franklin-revenge-of-the-american-genius-part-2-glt6013835340
   - 349-the-birth-of-the-united-states-part-3-glt9804967639
-last_updated: 2026-09-28
+  - 249-treason-in-modern-britain-part-2-glt2159531504
+last_updated: 2026-09-30
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,7 +19,7 @@ The Declaration of Independence is the founding document through which American 
 
 ## Current Profile
 
-The current synthesis holds political purpose, authorship, collaboration, and contradiction together. Congress voted for independence on 2 July 1776, while the 4 July Declaration became the public text that unified the states, justified separation, and aided diplomacy. [[ThomasJefferson|Thomas Jefferson]] supplied the principal draft, [[BenjaminFranklin|Benjamin Franklin]] sharpened its rational-universal register with the "self-evident" edit, and the indictment of George III converted former loyalty into a case against tyranny. Its equality language became a standard later used by Lincoln and Martin Luther King Jr., but Jefferson's slaveholding and Congress's removal of his anti-slavery grievance place unequal founding practice inside the document's history.
+The current synthesis holds political purpose, authorship, collaboration, contradiction, and allegiance together. Congress voted for independence on 2 July 1776, while the 4 July Declaration became the public text that unified the states, justified separation, and aided diplomacy. [[ThomasJefferson|Thomas Jefferson]] supplied the principal draft, [[BenjaminFranklin|Benjamin Franklin]] sharpened its rational-universal register with the "self-evident" edit, and the indictment of George III converted former loyalty into a case against tyranny. From the British perspective the document declared treason; from the American side it transferred legitimate allegiance to a republic that could itself define loyalists as traitors. Its equality language became a standard later used by Lincoln and Martin Luther King Jr., but Jefferson's slaveholding and Congress's removal of his anti-slavery grievance place unequal founding practice inside the document's history.
 
 ## Key Characteristics
 
@@ -27,7 +28,7 @@ The current synthesis holds political purpose, authorship, collaboration, and co
 - Shaped by committee participation and [[BenjaminFranklin|Benjamin Franklin]]'s rational-universal "self-evident" edit.
 - Carried universal language that later judged Jefferson and the nation despite support from slaveholding revolutionaries.
 - Originally included anti-slavery language that Congress removed.
-- Public justification for separation after the formal 2 July vote.
+- Public justification for separation after the formal 2 July vote and a transfer of allegiance from Crown to republic.
 - Diplomatic instrument intended to make foreign support, especially French support, more plausible.
 
 ## Evidence
@@ -39,16 +40,18 @@ The current synthesis holds political purpose, authorship, collaboration, and co
 - Political purpose: [[349-the-birth-of-the-united-states-part-3-glt9804967639]] distinguishes the 2 July vote from the 4 July public document and says the Declaration served unity, internal justification, and diplomacy.
 - Tyranny and ideological range: [[349-the-birth-of-the-united-states-part-3-glt9804967639]] says the break required recasting George III as a tyrant and drew on Roman, Enlightenment, biblical, and Lockean vocabularies.
 - Later claimants: [[349-the-birth-of-the-united-states-part-3-glt9804967639]] connects the equality promise to later uses by Abraham Lincoln and Martin Luther King Jr.
+- Treason and allegiance: [[249-treason-in-modern-britain-part-2-glt2159531504]] reads the Declaration as treason from the British side and as part of the new republic's authority to define loyalty for itself.
 
 ## Qualifications
 
-None of the sources denies the Declaration's democratic force. The qualification is that its moral power was produced by a founding coalition that included slaveholders, that the final form was collaborative rather than only Jefferson's solitary expression, and that its later universal status exceeded the founders' unequal practice.
+None of the sources denies the Declaration's democratic force. The qualification is that its moral power was produced by a founding coalition that included slaveholders, that the final form was collaborative rather than only Jefferson's solitary expression, and that its later universal status exceeded the founders' unequal practice. The British-treason frame explains the imperial legal position without resolving the moral legitimacy of independence or the new republic's treatment of loyalists.
 
 ## What Changed
 
 - Added the distinction between the 2 July independence vote and the 4 July public justification.
 - Added unity, anti-monarchical legitimation, and diplomacy as immediate functions.
 - Extended the equality promise into its later Lincoln and King afterlife without softening the slavery contradiction.
+- Added the reversible treason logic created when allegiance moved from Crown to republic.
 
 ## Relationships
 - [[ThomasJefferson]] - principal author in the episode's account.
@@ -60,3 +63,4 @@ None of the sources denies the Declaration's democratic force. The qualification
 - [[AmericanDemocraticResilience]] - democratic-identity branch shaped by whether founding ideals can absorb their exclusions.
 - [[AmericanRevolutionaryUniversalism]] - framework explaining how the document's local break became a general political promise.
 - [[CommonSensePamphlet]] - popular argument that prepared the turn to explicit independence and republicanism.
+- [[TreasonAsSovereigntyContest]] - framework for the document's rival British and American allegiance claims.
