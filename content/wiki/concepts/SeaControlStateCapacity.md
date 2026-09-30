@@ -4,6 +4,7 @@ type: concept
 tags: [naval-warfare, state-capacity, political-economy, empire]
 sources:
   - 245-trafalgar-victory-part-3-glt4217731619
+  - 244-trafalgar-countdown-to-annihilation-part-2-glt5489746159
 knowledge_schema: synthesis-v1
 last_updated: 2026-09-30
 ---
@@ -12,46 +13,51 @@ last_updated: 2026-09-30
 
 ## Definition
 
-Sea control as state capacity is the ability to convert finance, taxation, borrowing, administration, industrial supply, trained crews, and naval operations into sustained command of maritime routes and strategic leverage.
+Sea control as state capacity is the ability to convert finance, administration, industrial supply, trained crews, intelligence, logistics, and sustained naval operations into command of maritime routes and strategic leverage.
 
 ## Current Synthesis
 
-The Trafalgar episode resists explaining British victory through individual heroism alone. [[HoratioNelson]] and [[CuthbertCollingwood]] mattered, but their crews, firing systems, preparation, bureaucracy, fiscal resources, and wider maritime society made [[NavalBreakthroughTactics|risk-heavy tactics]] executable. The episode then extends the same institutional account beyond the [[BattleOfTrafalgar|battle]]: command of sea lanes supported blockade, commerce, imperial reach, and pressure on [[NapoleonBonaparte|Napoleon]] even though one victory did not end French shipbuilding or continental war.
+The Trafalgar sources resist explaining British maritime power through individual heroism alone. [[HoratioNelson]] and [[CuthbertCollingwood]] mattered, but blockades, maintenance, food, health, practiced gunnery, delegated command, bureaucracy, fiscal resources, and a worldwide network made both the [[TrafalgarCampaign|campaign]] and [[NavalBreakthroughTactics|risk-heavy battle plan]] possible. The same capacity protected Caribbean commerce, pursued fleets across the Atlantic, threatened enemy concentration, and made temporary Channel control difficult. The contrast with revolutionary damage to the French Navy and Spanish manpower and disease problems shows state capacity comparatively: ships and admirals operate inside institutions that determine readiness, endurance, and confidence.
 
 ## Key Claims
 
-- Durable sea control depends on fiscal, administrative, industrial, and human systems as well as ships and commanders.
-- Tactical excellence becomes strategically meaningful when a state can sustain fleets, blockade routes, and protect commerce.
-- Maritime dominance can constrain a continental rival without immediately defeating it on land.
-- The same capacity can support commerce, empire, coercion, rescue, and later humanitarian enforcement, so strategic effectiveness is not a single moral category.
-- National hero stories make institutional power legible but can overconcentrate credit in one commander or battle.
+- Durable sea control depends on fiscal, administrative, industrial, medical, informational, and human systems.
+- Blockade and global pursuit turn institutional endurance into pressure before a fleet battle begins.
+- Tactical excellence becomes strategically meaningful when a state can prepare crews, sustain fleets, protect commerce, and exploit victory.
+- Maritime dominance can constrain invasion and a continental rival without immediately defeating that rival on land.
+- Coalition fleet totals can conceal unequal readiness, institutional damage, and divergent political direction.
+- National hero stories make system capacity legible but can overconcentrate credit in one commander or battle.
 
 ## Evidence
 
+### Campaign endurance and comparative capacity
+
+- [[244-trafalgar-countdown-to-annihilation-part-2-glt5489746159]] connects blockade, Atlantic pursuit, Caribbean commerce, sailor care, French revolutionary naval damage, Spanish manpower loss, disease, and supply to the 1805 balance.
+
 ### Institutional foundations of combat power
 
-- [[245-trafalgar-victory-part-3-glt4217731619]] links British gunnery and crew performance to bureaucracy, finance, taxation, borrowing, and an industrializing society.
+- [[245-trafalgar-victory-part-3-glt4217731619]] links British gunnery and crew performance to preparation, bureaucracy, finance, taxation, borrowing, and industrializing society.
 
 ### Strategic conversion after battle
 
 - [[245-trafalgar-victory-part-3-glt4217731619]] argues that maritime command enabled blockade, sea-lane dominance, commerce, and longer pressure on Napoleon's continental system.
-
-### Moral plurality of maritime capacity
-
-- [[245-trafalgar-victory-part-3-glt4217731619]] places imperial expansion beside prisoner rescue and the later naval enforcement of slave-trade abolition, without treating those outcomes as morally equivalent.
+- [[244-trafalgar-countdown-to-annihilation-part-2-glt5489746159]] frames temporary Channel control and attacks on naval bases as the stakes of the failed invasion design.
 
 ## Counterevidence & Qualifications
 
-The episode acknowledges an interpretation that Trafalgar changed less than national mythology suggests because Napoleon kept building ships. Its stronger causal claims about continental policy, empire, industrial modernity, and abolition are broad and source-scoped. Sea control is therefore best treated here as an enabling capacity rather than a sufficient cause of every later British success.
+The sources are British-centered and acknowledge that Trafalgar did not end French shipbuilding or continental war. Claims about invasion feasibility, Caribbean stakes, institutional superiority, industrial modernity, empire, and later abolition enforcement are broad and source-scoped. Sea control is best treated as an enabling and constraining capacity, not a sufficient cause of every later British success.
 
 ## What Changed
 
-- Established a state-capacity account that distributes credit across fiscal, administrative, technical, and human systems.
-- Qualified the move from Trafalgar to later geopolitical outcomes as enabling rather than mechanically determining them.
+- Extended state capacity backward from battle performance to blockade, global pursuit, logistics, health, and commerce protection.
+- Made French institutional disruption and Spanish manpower constraints part of the comparative explanation.
+- Clarified that sea control constrained invasion and coalition concentration before it produced post-battle leverage.
 
 ## Related Concepts
 
-- [[BattleOfTrafalgar]] - battle through which the institutional argument is developed.
-- [[NavalBreakthroughTactics]] - tactical layer enabled by trained crews and sustained naval infrastructure.
-- [[HoratioNelson]] - heroic commander whose myth can both symbolize and obscure system capacity.
-- [[NapoleonBonaparte|Napoleon Bonaparte]] - continental rival whose options were constrained but not ended by British sea control.
+- [[TrafalgarCampaign]] - campaign showing state capacity through endurance, pursuit, blockade, and failed enemy concentration.
+- [[BattleOfTrafalgar]] - battle through which institutional capability became a decisive tactical outcome.
+- [[NavalBreakthroughTactics]] - tactical layer enabled by trained crews and sustained infrastructure.
+- [[MaritimeCoalitionCoordination]] - contrasting framework for converting nominal allied strength into usable power.
+- [[HoratioNelson]] - heroic commander whose profile both symbolizes and can obscure system capacity.
+- [[NapoleonBonaparte|Napoleon Bonaparte]] - continental rival whose invasion design and later options were constrained by British sea control.

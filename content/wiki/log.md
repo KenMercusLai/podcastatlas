@@ -26020,3 +26020,11 @@ Added source `245-trafalgar-victory-part-3-glt4217731619`; created `BattleOfTraf
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-30] ingest | 244. Trafalgar: Countdown to Annihilation (Part 2)
+
+Added source `244-trafalgar-countdown-to-annihilation-part-2-glt5489746159`; created `FedericoGravina`, `TrafalgarCampaign`, and `MaritimeCoalitionCoordination`; and resynthesized `HoratioNelson`, `BattleOfTrafalgar`, `CuthbertCollingwood`, `PierreCharlesVilleneuve`, `NapoleonBonaparte`, `NavalBreakthroughTactics`, and `SeaControlStateCapacity` from their complete preserved evidence inventories. Core synthesis: Napoleon's Atlantic-scale plan failed through accumulated weather, rendezvous, information, blockade, coalition, supply, disease, and command pressures; Nelson converted preparation, sailor care, emotional mission, deception, and delegated close-action intent into a battle design, while his anti-abolitionism, imperial setting, fame-consciousness, and annihilation goal complicate heroic memory. No settled contradiction was adopted. Fleet and manpower totals, private motives, reported dialogue, invasion counterfactuals, and judgments about Napoleon's naval understanding remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,254-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

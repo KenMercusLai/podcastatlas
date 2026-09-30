@@ -4,6 +4,7 @@ type: entity
 tags: [person, british-navy, naval-warfare, napoleonic-wars]
 sources:
   - 245-trafalgar-victory-part-3-glt4217731619
+  - 244-trafalgar-countdown-to-annihilation-part-2-glt5489746159
 knowledge_schema: synthesis-v1
 last_updated: 2026-09-30
 ---
@@ -12,21 +13,25 @@ last_updated: 2026-09-30
 
 ## Overview
 
-Cuthbert Collingwood is presented as the British admiral who led the leeward column at the [[BattleOfTrafalgar|Battle of Trafalgar]] and entered the combined French-Spanish line first aboard Royal Sovereign.
+Cuthbert Collingwood is presented as the British admiral who sustained a deceptive blockade of Cadiz during the [[TrafalgarCampaign|Trafalgar campaign]] and then led the leeward column into the combined French-Spanish line at the [[BattleOfTrafalgar|Battle of Trafalgar]].
 
 ## Current Profile
 
-Collingwood's role demonstrates that Nelson's plan depended on trusted subordinate command rather than continuous central control. Royal Sovereign's speed put him ahead of supporting ships, exposing him to concentrated fire before he passed Santa Anna's stern and delivered a devastating close-range broadside. His initial impatience with signaling also sharpens the episode's distinction between preparatory communication and delegated action once battle began.
+Collingwood's role connects operational containment to delegated battle command. Before Nelson arrived, he blockaded a far larger fleet with only a small force and concealed his weakness. At Trafalgar, Royal Sovereign's speed put him ahead of supporting ships, exposing him to concentrated fire before he passed Santa Anna's stern and delivered a close-range broadside. Together, these episodes show a commander trusted to act under uncertainty: bluff and vigilance kept the coalition under pressure, while initiative and risk turned Nelson's general intent into first contact.
 
 ## Key Characteristics
 
-- Senior British commander entrusted with one of Nelson's two attack columns.
-- Led the fleet into action aboard the fast Royal Sovereign.
+- Blockade commander who concealed a small force while containing the allied fleet at Cadiz.
+- Trusted subordinate connecting Nelson's campaign design to local execution.
+- Led the leeward column aboard the fast Royal Sovereign.
 - Accepted isolation and concentrated fire while closing with the allied line.
-- Used stern-raking fire to turn line penetration into immediate destructive effect.
-- Embodies the subordinate trust required by Nelson's battle design.
+- Used stern-raking fire to convert penetration into immediate destructive effect.
 
 ## Evidence
+
+### Cadiz blockade and concealment
+
+- [[244-trafalgar-countdown-to-annihilation-part-2-glt5489746159]] describes Collingwood maintaining the Cadiz blockade with a small force while trying to hide its weakness.
 
 ### Column command and first contact
 
@@ -34,19 +39,22 @@ Collingwood's role demonstrates that Nelson's plan depended on trusted subordina
 
 ### Trust and signaling
 
-- [[245-trafalgar-victory-part-3-glt4217731619]] presents Collingwood as initially skeptical of excessive signaling but receptive to Nelson's famous duty signal, within a plan that relied on prior communication and local execution.
+- [[245-trafalgar-victory-part-3-glt4217731619]] presents Collingwood within a plan that relied on prior communication and local execution after battle began.
 
 ## Qualifications
 
-This source covers Collingwood only during the approach and opening action at Trafalgar. The reported scale and speed of casualties aboard Santa Anna, Collingwood's exact reactions, Royal Sovereign's performance advantage, and his wider career are not independently established here.
+The sources focus on a narrow period around Cadiz and Trafalgar. The effectiveness of the blockade bluff, Collingwood's exact views, reported reactions, Royal Sovereign's performance advantage, casualty claims, and his wider career are not independently established here.
 
 ## What Changed
 
-- Created a source-bounded profile of Collingwood as column commander and delegated executor of Nelson's plan.
+- Expanded Collingwood from battle-column executor to campaign commander whose blockade and concealment helped shape the allied decision environment.
+- Connected his pre-battle independence to the delegated initiative required by Nelson's tactical plan.
 
 ## Relationships
 
-- [[HoratioNelson]] - commander who entrusted Collingwood with the second attack column.
+- [[HoratioNelson]] - commander who reinforced the blockade and entrusted Collingwood with the second attack column.
+- [[TrafalgarCampaign]] - campaign in which Collingwood contained the allied fleet at Cadiz.
 - [[BattleOfTrafalgar]] - battle in which Collingwood led the British fleet into contact.
+- [[PierreCharlesVilleneuve]] - opposing commander whose fleet Collingwood helped contain.
 - [[NavalBreakthroughTactics]] - tactical design his isolated line penetration helped realize.
-- [[SeaControlStateCapacity]] - wider institutional system within which his seamanship and crew operated.
+- [[SeaControlStateCapacity]] - wider institutional system supporting his blockade, seamanship, and crew.

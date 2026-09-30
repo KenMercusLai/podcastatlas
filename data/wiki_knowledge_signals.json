@@ -18359,9 +18359,9 @@
       "url": "/wiki/concepts/battleofstiklestad/"
     },
     "BattleOfTrafalgar": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4217731619 [GLT4217731619].md",
@@ -18369,6 +18369,13 @@
           "show": "The Rest Is History",
           "title": "245. Trafalgar: Victory (Part 3)",
           "url": "/wiki/sources/245-trafalgar-victory-part-3-glt4217731619/"
+        },
+        {
+          "episode_file": "GLT5489746159 [GLT5489746159].md",
+          "key": "244-trafalgar-countdown-to-annihilation-part-2-glt5489746159",
+          "show": "The Rest Is History",
+          "title": "244. Trafalgar: Countdown to Annihilation (Part 2)",
+          "url": "/wiki/sources/244-trafalgar-countdown-to-annihilation-part-2-glt5489746159/"
         }
       ],
       "updated": "2026-09-30",
@@ -41005,9 +41012,9 @@
       "url": "/wiki/concepts/customervaluebasedpricing/"
     },
     "CuthbertCollingwood": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4217731619 [GLT4217731619].md",
@@ -41015,6 +41022,13 @@
           "show": "The Rest Is History",
           "title": "245. Trafalgar: Victory (Part 3)",
           "url": "/wiki/sources/245-trafalgar-victory-part-3-glt4217731619/"
+        },
+        {
+          "episode_file": "GLT5489746159 [GLT5489746159].md",
+          "key": "244-trafalgar-countdown-to-annihilation-part-2-glt5489746159",
+          "show": "The Rest Is History",
+          "title": "244. Trafalgar: Countdown to Annihilation (Part 2)",
+          "url": "/wiki/sources/244-trafalgar-countdown-to-annihilation-part-2-glt5489746159/"
         }
       ],
       "updated": "2026-09-30",
@@ -61887,6 +61901,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/federalistparty/"
+    },
+    "FedericoGravina": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5489746159 [GLT5489746159].md",
+          "key": "244-trafalgar-countdown-to-annihilation-part-2-glt5489746159",
+          "show": "The Rest Is History",
+          "title": "244. Trafalgar: Countdown to Annihilation (Part 2)",
+          "url": "/wiki/sources/244-trafalgar-countdown-to-annihilation-part-2-glt5489746159/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/federicogravina/"
     },
     "FeedCuration": {
       "episode_count": 5,
@@ -83740,9 +83770,9 @@
       "url": "/wiki/entities/horatiogates/"
     },
     "HoratioNelson": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT7719682575 [GLT7719682575].md",
@@ -83757,6 +83787,13 @@
           "show": "The Rest Is History",
           "title": "245. Trafalgar: Victory (Part 3)",
           "url": "/wiki/sources/245-trafalgar-victory-part-3-glt4217731619/"
+        },
+        {
+          "episode_file": "GLT5489746159 [GLT5489746159].md",
+          "key": "244-trafalgar-countdown-to-annihilation-part-2-glt5489746159",
+          "show": "The Rest Is History",
+          "title": "244. Trafalgar: Countdown to Annihilation (Part 2)",
+          "url": "/wiki/sources/244-trafalgar-countdown-to-annihilation-part-2-glt5489746159/"
         }
       ],
       "updated": "2026-09-30",
@@ -117165,6 +117202,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/entities/marinusvanderlubbe/"
     },
+    "MaritimeCoalitionCoordination": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5489746159 [GLT5489746159].md",
+          "key": "244-trafalgar-countdown-to-annihilation-part-2-glt5489746159",
+          "show": "The Rest Is History",
+          "title": "244. Trafalgar: Countdown to Annihilation (Part 2)",
+          "url": "/wiki/sources/244-trafalgar-countdown-to-annihilation-part-2-glt5489746159/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/maritimecoalitioncoordination/"
+    },
     "MaritimeDisasterSafetyReform": {
       "episode_count": 2,
       "show_count": 1,
@@ -126069,9 +126122,9 @@
       "url": "/wiki/entities/nansunshi/"
     },
     "NapoleonBonaparte": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "21.红与黑：他死于真诚 [569042001].md",
@@ -126100,9 +126153,16 @@
           "show": "The Rest Is History",
           "title": "382. Young Napoleon: Teenage Revolutionary (Part 1)",
           "url": "/wiki/sources/382-young-napoleon-teenage-revolutionary-part-1-glt6500252244/"
+        },
+        {
+          "episode_file": "GLT5489746159 [GLT5489746159].md",
+          "key": "244-trafalgar-countdown-to-annihilation-part-2-glt5489746159",
+          "show": "The Rest Is History",
+          "title": "244. Trafalgar: Countdown to Annihilation (Part 2)",
+          "url": "/wiki/sources/244-trafalgar-countdown-to-annihilation-part-2-glt5489746159/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-30",
       "url": "/wiki/entities/napoleonbonaparte/"
     },
     "NaramSin": {
@@ -126769,9 +126829,9 @@
       "url": "/wiki/concepts/naturelawlegaljustice/"
     },
     "NavalBreakthroughTactics": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4217731619 [GLT4217731619].md",
@@ -126779,6 +126839,13 @@
           "show": "The Rest Is History",
           "title": "245. Trafalgar: Victory (Part 3)",
           "url": "/wiki/sources/245-trafalgar-victory-part-3-glt4217731619/"
+        },
+        {
+          "episode_file": "GLT5489746159 [GLT5489746159].md",
+          "key": "244-trafalgar-countdown-to-annihilation-part-2-glt5489746159",
+          "show": "The Rest Is History",
+          "title": "244. Trafalgar: Countdown to Annihilation (Part 2)",
+          "url": "/wiki/sources/244-trafalgar-countdown-to-annihilation-part-2-glt5489746159/"
         }
       ],
       "updated": "2026-09-30",
@@ -138449,9 +138516,9 @@
       "url": "/wiki/entities/picloram/"
     },
     "PierreCharlesVilleneuve": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4217731619 [GLT4217731619].md",
@@ -138459,6 +138526,13 @@
           "show": "The Rest Is History",
           "title": "245. Trafalgar: Victory (Part 3)",
           "url": "/wiki/sources/245-trafalgar-victory-part-3-glt4217731619/"
+        },
+        {
+          "episode_file": "GLT5489746159 [GLT5489746159].md",
+          "key": "244-trafalgar-countdown-to-annihilation-part-2-glt5489746159",
+          "show": "The Rest Is History",
+          "title": "244. Trafalgar: Countdown to Annihilation (Part 2)",
+          "url": "/wiki/sources/244-trafalgar-countdown-to-annihilation-part-2-glt5489746159/"
         }
       ],
       "updated": "2026-09-30",
@@ -157035,9 +157109,9 @@
       "url": "/wiki/entities/seabeggars/"
     },
     "SeaControlStateCapacity": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4217731619 [GLT4217731619].md",
@@ -157045,6 +157119,13 @@
           "show": "The Rest Is History",
           "title": "245. Trafalgar: Victory (Part 3)",
           "url": "/wiki/sources/245-trafalgar-victory-part-3-glt4217731619/"
+        },
+        {
+          "episode_file": "GLT5489746159 [GLT5489746159].md",
+          "key": "244-trafalgar-countdown-to-annihilation-part-2-glt5489746159",
+          "show": "The Rest Is History",
+          "title": "244. Trafalgar: Countdown to Annihilation (Part 2)",
+          "url": "/wiki/sources/244-trafalgar-countdown-to-annihilation-part-2-glt5489746159/"
         }
       ],
       "updated": "2026-09-30",
@@ -177653,6 +177734,22 @@
       ],
       "updated": "2026-09-03",
       "url": "/wiki/entities/trae/"
+    },
+    "TrafalgarCampaign": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5489746159 [GLT5489746159].md",
+          "key": "244-trafalgar-countdown-to-annihilation-part-2-glt5489746159",
+          "show": "The Rest Is History",
+          "title": "244. Trafalgar: Countdown to Annihilation (Part 2)",
+          "url": "/wiki/sources/244-trafalgar-countdown-to-annihilation-part-2-glt5489746159/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/trafalgarcampaign/"
     },
     "TrafficArbitrageToBrandBuilding": {
       "episode_count": 1,

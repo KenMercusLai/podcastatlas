@@ -3301,6 +3301,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [245. Trafalgar: Victory (Part 3)](sources/245-trafalgar-victory-part-3-glt4217731619.md) — The Rest Is History reconstruction of Trafalgar's two-column attack, close-range destruction, Nelson's death, storm aftermath, strategic meaning, and heroic myth.
 
+- [244. Trafalgar: Countdown to Annihilation (Part 2)](sources/244-trafalgar-countdown-to-annihilation-part-2-glt5489746159.md) — The Rest Is History account of Nelson, Villeneuve, Napoleon's Atlantic-scale invasion plan, coalition friction, blockade, and the eve of Trafalgar.
+
 ## Entities
 - [Liz Truss](entities/LizTruss.md) — British prime minister whose 45-day tenure became a case of rapid policy and political-authority collapse.
 - [Kwasi Kwarteng](entities/KwasiKwarteng.md) — Truss's chancellor, associated with the mini-budget and the failed attempt to restore authority by dismissing a close ally.
@@ -10673,7 +10675,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Madame de Renal / 雷奈尔夫人](entities/MadameDeRenal.md) — 《红与黑》 character read as sincere, conflicted, and psychologically active rather than only saint or victim.
 - [Mathilde de La Mole / 马蒂尔德·德·拉莫尔](entities/MathildeDeLaMole.md) — 《红与黑》 aristocratic character read through pride, romantic theatricality, agency, and constraint.
 - [French Restoration / 法国王政复辟](entities/FrenchRestoration.md) — Historical setting used by the episode to explain Julien's blocked military dream, clerical strategy, and class performance.
-- [Napoleon Bonaparte / 拿破仑](entities/NapoleonBonaparte.md) — Corsican-born artillery officer whose Toulon and Vendémiaire victories drove his French revolutionary ascent and later mobility myth.
+- [Napoleon Bonaparte / 拿破仑](entities/NapoleonBonaparte.md) — Corsican-born artillery officer and French ruler whose ascent, authority, mobility myth, strategic scale, and maritime limits span the current sources.
 - [William Somerset Maugham / 毛姆](entities/WilliamSomersetMaugham.md) — Critic used as a foil for the episode's argument about self-control, passion, and the second half of 《红与黑》.
 - [Hermann Hesse / 赫尔曼·黑塞](entities/HermannHesse.md) — German-Swiss writer read by 蜜獾吃书 through spiritual crisis, antiwar self-seeking, Jungian analysis, and the reception gap around his countercultural fame.
 - [《德米安》 / Demian](entities/DemianNovel.md) — Hesse novel read as Emil Sinclair's symbolic coming-of-age through Cain's mark, Abraxas, mentors, projection, and war.
@@ -14796,7 +14798,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Empress Zoe](entities/EmpressZoe.md) — Byzantine ruler whose repeated exclusion, popular legitimacy, and restoration support a survivor profile.
 - [Poppaea Sabina](entities/PoppaeaSabina.md) — Nero's wife portrayed through glamour, commercial influence, powerful relationships, and qualified claims of ruthless ambition.
 - [Mary Fisher](entities/MaryFisher.md) — Seventeenth-century Quaker missionary joining religious conviction, persecution, transatlantic travel, and later marriage.
-- [Horatio Nelson](entities/HoratioNelson.md) — British naval celebrity presented narrowly through Emma Hamilton, romantic scandal, and reality-show disruption.
+- [Horatio Nelson](entities/HoratioNelson.md) — British admiral joining preparation, sailor care, charismatic mission, tactical aggression, celebrity, moral contradiction, and heroic memory.
 - [Catherine of Siena](entities/CatherineOfSiena.md) — Medieval mystic whose ascetic sanctity, charity, diplomacy, and papal advocacy converted bodily renunciation into public authority.
 - [小胖丫 / 小胖鸭 (Podcast Guest)](entities/XiaopangyaPodcastGuest.md) — Source-scoped cancer-survivor guest connecting treatment and recovery with work, family communication, social life, and future plans.
 - [Tony Hawk](entities/TonyHawk.md) — Professional skateboarder, entrepreneur, and skatepark advocate whose career joins technical mastery, adaptation, and community.
@@ -14899,9 +14901,11 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Roger Berkowitz](entities/RogerBerkowitz.md) — Political theorist reconstructing Hannah Arendt's account of friendship, plurality, truth, and reciprocal persuasion.
 
-- [Battle of Trafalgar](entities/BattleOfTrafalgar.md) — 1805 naval victory synthesized through tactical risk, close-action destruction, Nelson's death, sea control, and contested national memory.
-- [Cuthbert Collingwood](entities/CuthbertCollingwood.md) — British column commander whose Royal Sovereign first penetrated the allied line at Trafalgar.
-- [Pierre-Charles Villeneuve](entities/PierreCharlesVilleneuve.md) — French allied-fleet commander whose reversal maneuver contributed to disorder before defeat at Trafalgar.
+- [Battle of Trafalgar](entities/BattleOfTrafalgar.md) — 1805 naval victory synthesized through failed campaign, coalition strain, tactical risk, close-action destruction, Nelson's death, and contested memory.
+- [Cuthbert Collingwood](entities/CuthbertCollingwood.md) — British admiral whose concealed Cadiz blockade and first line penetration connect campaign pressure to delegated battle command.
+- [Pierre-Charles Villeneuve](entities/PierreCharlesVilleneuve.md) — French admiral whose learned caution, Atlantic campaign, coalition constraints, and reversal maneuver preceded defeat at Trafalgar.
+- [Federico Gravina](entities/FedericoGravina.md) — Spanish admiral navigating coalition pressure, distinct government instructions, capacity limits, and honor before Trafalgar.
+- [Trafalgar Campaign](entities/TrafalgarCampaign.md) — 1805 sequence of Atlantic feint, pursuit, failed concentration, blockade, and coalition pressure culminating at Trafalgar.
 
 ## Concepts
 - [Party-Membership Leadership Selection](concepts/PartyMembershipLeadershipSelection.md) — Tradeoff between wider internal participation and the representativeness, parliamentary support, and governing viability of party leaders.
@@ -23908,7 +23912,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Distributed Speech-Language Circuits](concepts/DistributedSpeechLanguageCircuits.md) — Network account replacing a single speech-center model with specialized auditory, motor, feedback, lexical, and semantic contributions.
 - [Social Immersion in Language Learning](concepts/SocialImmersionLanguageLearning.md) — Language-learning frame joining sustained exposure, live interaction, bilingual circuit overlap, and lifespan plasticity.
 
-- [Naval Breakthrough Tactics](concepts/NavalBreakthroughTactics.md) — Tactical pattern that exchanges approach exposure for line penetration, local advantage, and delegated close-action execution.
-- [Sea Control as State Capacity](concepts/SeaControlStateCapacity.md) — Framework connecting fiscal, administrative, industrial, and human systems to sustained maritime power.
+- [Naval Breakthrough Tactics](concepts/NavalBreakthroughTactics.md) — Tactical pattern joining pre-battle intent, approach exposure, line penetration, local advantage, and delegated close-action execution.
+- [Sea Control as State Capacity](concepts/SeaControlStateCapacity.md) — Framework connecting fiscal, administrative, logistical, medical, industrial, and human systems to sustained maritime power.
+- [Maritime Coalition Coordination](concepts/MaritimeCoalitionCoordination.md) — Framework for aligning distant allied fleets across communication limits, political divergence, logistics, and operational risk.
 
 ## Syntheses

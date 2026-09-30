@@ -4,6 +4,7 @@ type: entity
 tags: [person, french-navy, naval-warfare, napoleonic-wars]
 sources:
   - 245-trafalgar-victory-part-3-glt4217731619
+  - 244-trafalgar-countdown-to-annihilation-part-2-glt5489746159
 knowledge_schema: synthesis-v1
 last_updated: 2026-09-30
 ---
@@ -12,42 +13,52 @@ last_updated: 2026-09-30
 
 ## Overview
 
-Pierre-Charles Villeneuve is presented as the French admiral commanding the combined French-Spanish fleet at the [[BattleOfTrafalgar|Battle of Trafalgar]] from his flagship Bucentaure.
+Pierre-Charles Villeneuve is presented as the French admiral who led Napoleon's principal Atlantic maneuver in the [[TrafalgarCampaign|Trafalgar campaign]] and commanded the combined French-Spanish fleet at the [[BattleOfTrafalgar|Battle of Trafalgar]].
 
 ## Current Profile
 
-The episode portrays Villeneuve as trapped between military danger and the dishonor of withdrawal. After sighting the British force, he ordered the fleet to reverse direction toward Cadiz, but the maneuver was executed poorly: the line developed gaps and the intended reserve became mixed into the main formation. Nelson then exploited that disorder. Villeneuve remained in the fighting until Bucentaure was battered and surrendered, making him a defeated commander whose decisions must be read within a fragile coalition fleet rather than as personal failure alone.
+Villeneuve appears as a capable but anxious commander operating under structural and psychological constraints. The Revolution had damaged the French Navy's aristocratic command system, he had survived Nelson's destruction of the fleet at the Nile, and he believed the British could win even against superior numbers. In 1805 he escaped Toulon, crossed to the Caribbean, abandoned the feint when Nelson approached, fought Calder, and entered Cadiz rather than complete Napoleon's concentration plan. Disease, supply shortages, coalition reluctance, new orders, and fear of dismissal then narrowed his choices. At Trafalgar, his turn toward Cadiz disordered the allied line and dissolved the reserve before Nelson's columns struck; he remained until Bucentaure was overwhelmed and surrendered.
 
 ## Key Characteristics
 
-- Commander of a numerically larger but uneven combined French-Spanish fleet.
-- Faced a conflict between withdrawal, honor, and engagement with Nelson's force.
-- Ordered a reversal maneuver that the episode says increased allied disorder.
-- Lost the separation and flexibility of the intended reserve before battle developed.
-- Surrendered after Bucentaure suffered concentrated British fire.
+- Experienced French admiral formed by revolutionary institutional damage and survival at the Nile.
+- Cautious evaluator of British naval superiority rather than a simple personal coward.
+- Commander of a transatlantic maneuver dependent on uncertain rendezvous and coalition cooperation.
+- Subject to Napoleon's pressure, replacement threat, Cadiz shortages, disease, and allied divergence.
+- Ordered a reversal before Trafalgar that increased formation disorder and reduced reserve flexibility.
+- Remained in the battle until his flagship was battered into surrender.
 
 ## Evidence
 
-### Pre-battle decision and fleet disorder
+### Institutional inheritance and learned caution
 
-- [[245-trafalgar-victory-part-3-glt4217731619]] attributes the turn northward to Villeneuve and connects its poor execution to gaps, compression, and reserve disorganization.
+- [[244-trafalgar-countdown-to-annihilation-part-2-glt5489746159]] connects the revolutionary disruption of French naval leadership, Villeneuve's experience at the Nile, and his pessimistic assessment of parity with Britain.
 
-### Defeat and surrender
+### Atlantic campaign and Cadiz constraints
 
-- [[245-trafalgar-victory-part-3-glt4217731619]] describes Victory raking Bucentaure and Villeneuve surrendering after the flagship was overwhelmed.
+- [[244-trafalgar-countdown-to-annihilation-part-2-glt5489746159]] traces the Toulon escape, Caribbean retreat, Calder encounter, move to Cadiz, coalition friction, shortage, disease, new orders, and threat of replacement.
+
+### Formation disorder and surrender
+
+- [[245-trafalgar-victory-part-3-glt4217731619]] attributes the turn northward to Villeneuve, connects its execution to gaps and reserve disorganization, and describes Bucentaure's defeat and surrender.
 
 ## Qualifications
 
-The episode is centered on Nelson and British experience, so Villeneuve's motives, constraints, coalition command problems, and later assessment receive limited treatment. Reported thoughts, dialogue, timing, casualty totals aboard Bucentaure, and the story that Napoleon's eagle was thrown overboard remain source-scoped.
+Both sources center Nelson and British experience. Villeneuve's own documents, French institutional recovery, Spanish perspectives, and the full logic of his decisions are only selectively represented. His fear, panic, motives, reported statements, the alternatives available at each stage, and the relative importance of coalition versus personal command failure remain source-scoped.
 
 ## What Changed
 
-- Created a qualified profile that links Villeneuve's defeat to coalition maneuver disorder as well as command choice.
+- Replaced a battle-only defeated-commander profile with one grounded in the full Atlantic campaign.
+- Reframed caution through prior defeat, French institutional damage, British capability, and coalition constraints.
+- Kept Villeneuve responsible for consequential choices without reducing campaign failure to cowardice.
 
 ## Relationships
 
+- [[NapoleonBonaparte|Napoleon Bonaparte]] - ruler whose complex naval plan, criticism, orders, and replacement threat constrained Villeneuve.
+- [[TrafalgarCampaign]] - campaign in which Villeneuve made the Caribbean crossing and failed to reach the Channel.
 - [[BattleOfTrafalgar]] - battle where Villeneuve commanded and surrendered the allied flagship.
-- [[HoratioNelson]] - opposing commander whose columns exploited gaps in Villeneuve's line.
-- [[CuthbertCollingwood]] - opposing column commander who first penetrated the allied formation.
+- [[HoratioNelson]] - opponent whose Nile victory and 1805 pursuit shaped Villeneuve's risk assessment.
+- [[CuthbertCollingwood]] - blockade commander who helped contain Villeneuve at Cadiz.
+- [[FedericoGravina]] - Spanish allied commander with distinct governmental and honor pressures.
+- [[MaritimeCoalitionCoordination]] - framework for the operational and political constraints on his command.
 - [[NavalBreakthroughTactics]] - tactical pressure that converted formation disorder into close defeat.
-- [[NapoleonBonaparte|Napoleon Bonaparte]] - imperial ruler whose naval strategy framed Villeneuve's command.

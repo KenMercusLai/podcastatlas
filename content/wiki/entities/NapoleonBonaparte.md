@@ -7,8 +7,9 @@ sources:
   - 78-xifang-juedou-shi-chujian-ba-weile-rongyu-687731000
   - 383-young-napoleon-the-shadow-of-the-guillotine-part-2-glt2658259929
   - 382-young-napoleon-teenage-revolutionary-part-1-glt6500252244
+  - 244-trafalgar-countdown-to-annihilation-part-2-glt5489746159
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-27
+last_updated: 2026-09-30
 ---
 
 # Napoleon Bonaparte / 拿破仑
@@ -25,6 +26,8 @@ Part 2 follows that tension into rupture. Defeat in Corsican politics and family
 
 Later cultural sources show the ascent's afterlife. For [[JulienSorel|Julien Sorel]], Napoleon represents a lost route by which talent might defeat birth hierarchy. The dueling source presents him as opposing private duels while ruling within a Europe where martial honor remained prestigious.
 
+The [[TrafalgarCampaign|Trafalgar campaign]] adds the mature ruler's strategic reach and maritime limits. Napoleon attempted to turn blockade escapes, a Caribbean feint, coalition concentration, and temporary Channel control into an invasion opportunity, but the plan accumulated failure points across weather, distance, communications, British interception, Spanish reluctance, and Villeneuve's caution. His shift toward Central Europe and Austerlitz shows strategic adaptability, while the failed naval design qualifies any transfer of his land-war mastery to operations at sea.
+
 ## Key Characteristics
 
 - French conquest, family adaptation, schooling abroad, accent, bullying, and reading formed a self-conscious Corsican outsider.
@@ -33,7 +36,7 @@ Later cultural sources show the ascent's afterlife. For [[JulienSorel|Julien Sor
 - Republican radicalism coexisted with contempt for weak authority, crowd disorder, and unorganized violence.
 - Political writing and Jacobin reliability made ambition legible to successive revolutionary patrons.
 - Barras's patronage converted battlefield reputation and domestic repression into command and political power.
-- His later memory became a symbol of meritocratic mobility even as his state opposed private honor violence.
+- His later career joined strategic scale and adaptability to maritime limits, while cultural memory made him a symbol of meritocratic mobility despite his state's opposition to private honor violence.
 
 ## Evidence
 
@@ -61,9 +64,13 @@ Later cultural sources show the ascent's afterlife. For [[JulienSorel|Julien Sor
 
 - [[78-xifang-juedou-shi-chujian-ba-weile-rongyu-687731000]] presents Napoleon as an opponent of dueling who still had to govern within a martial honor culture.
 
+### Maritime strategy and operational limits
+
+- [[244-trafalgar-countdown-to-annihilation-part-2-glt5489746159]] reconstructs Napoleon's Atlantic-scale invasion design, pressure on Villeneuve, abandonment of the immediate Channel opportunity, and turn toward Central Europe.
+
 ## Qualifications
 
-The direct biography is a conversational narrative centered on formation rather than a complete life. Childhood aggression, the snowball fight, physical descriptions, sexual episodes, reported dialogue, private motives, and several revolutionary scenes are uncertain, mythologized, or interpretive. His simultaneous Corsican and French commitments caution against reading nationality as a clean conversion, while later identity markers do not transparently reveal inner allegiance. The claim that disorder troubled him more than violence anticipates later conduct but does not prove a fully formed doctrine in 1792. Toulon atrocities, Vendémiaire casualties, Barras's account, and Josephine anecdotes remain source-scoped. Later literary admiration describes symbolic afterlife, not moral endorsement.
+The direct biography is conversational and remains incomplete. Childhood aggression, reported dialogue, private motives, and several revolutionary scenes are uncertain, mythologized, or interpretive. His simultaneous Corsican and French commitments caution against reading nationality as a clean conversion. The claim that disorder troubled him more than violence anticipates later conduct but does not prove a fully formed doctrine in 1792. Toulon atrocities, Vendémiaire casualties, Barras's account, and Josephine anecdotes remain source-scoped. The feasibility of the 1805 invasion plan, Napoleon's understanding of naval operations, and counterfactual consequences of temporary Channel control also require wider evidence. Later literary admiration describes symbolic afterlife, not moral endorsement.
 
 ## What Changed
 
@@ -71,6 +78,7 @@ The direct biography is a conversational narrative centered on formation rather 
 - Replaced a sharp exile-to-France switch with a longer period of simultaneous Corsican nationalism, French service, and revolutionary commitment.
 - Added the 1792 distinction between republican radicalism, contempt for royal weakness, and hostility to mob disorder.
 - Connected the early preference for organized authority to the later Toulon and Vendémiaire trajectory without treating it as predetermined.
+- Added the 1805 naval campaign as evidence of strategic ambition, adaptability, coalition dependence, and maritime limitation.
 
 ## Relationships
 
@@ -86,3 +94,6 @@ The direct biography is a conversational narrative centered on formation rather 
 - [[RevolutionaryUniversalismIdentity]] - ideological frame for his gradual transition from Corsican allegiance to French mission.
 - [[JulienSorel]] - fictional admirer who turns Napoleon into a lost model of mobility.
 - [[HonorDuelCulture]] - private violence his state opposed without erasing martial prestige.
+- [[TrafalgarCampaign]] - failed maritime design intended to create a temporary Channel invasion opportunity.
+- [[PierreCharlesVilleneuve]] - admiral pressured to execute the Atlantic maneuver and later threatened with replacement.
+- [[MaritimeCoalitionCoordination]] - framework exposing the rendezvous, incentive, and communication demands of Napoleon's plan.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 11571
+wiki_total_pages: 11573
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1010,6 +1010,9 @@ wiki_pages:
   - key: "Trae"
     title: "Trae"
     url: "/wiki/entities/trae/"
+  - key: "TrafalgarCampaign"
+    title: "Trafalgar Campaign"
+    url: "/wiki/entities/trafalgarcampaign/"
   - key: "TransMountainExpansion"
     title: "Trans Mountain Expansion"
     url: "/wiki/entities/transmountainexpansion/"
