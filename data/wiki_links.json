@@ -875,6 +875,10 @@
     "title": "246. 杭州博物馆「一苇杭之」，好久没看过这么推荐的展览了",
     "url": "/wiki/sources/246-hangzhou-bowuguan-yiwei-hangzhi-haojiu-mei-kan-guo-zheme-tuijian-de-zhanlan-le-8217911423-973793/"
   },
+  "247-monty-patton-vs-the-nazis-glt2932235302": {
+    "title": "247. Monty & Patton vs. the Nazis",
+    "url": "/wiki/sources/247-monty-patton-vs-the-nazis-glt2932235302/"
+  },
   "248-medieval-treason-part-1-glt9532907553": {
     "title": "248. Medieval Treason (Part 1)",
     "url": "/wiki/sources/248-medieval-treason-part-1-glt9532907553/"
@@ -5851,6 +5855,10 @@
     "title": "Al-Mansur / Almanzor (Cordoba)",
     "url": "/wiki/entities/almansurcordoba/"
   },
+  "AlMurray": {
+    "title": "Al Murray",
+    "url": "/wiki/entities/almurray/"
+  },
   "Alabama": {
     "title": "Alabama",
     "url": "/wiki/entities/alabama/"
@@ -10399,6 +10407,10 @@
     "title": "Bernadette Devlin",
     "url": "/wiki/entities/bernadettedevlin/"
   },
+  "BernardFreyberg": {
+    "title": "Bernard Freyberg",
+    "url": "/wiki/entities/bernardfreyberg/"
+  },
   "BernardGui": {
     "title": "贝尔纳 / Bernard Gui",
     "url": "/wiki/entities/bernardgui/"
@@ -10410,6 +10422,10 @@
   "BernardMandeville": {
     "title": "Bernard Mandeville",
     "url": "/wiki/entities/bernardmandeville/"
+  },
+  "BernardMontgomery": {
+    "title": "Bernard Montgomery",
+    "url": "/wiki/entities/bernardmontgomery/"
   },
   "BernardReneDeLaunay": {
     "title": "Bernard-Rene de Launay",
@@ -25227,6 +25243,10 @@
     "title": "Eruption of Vesuvius (79 CE)",
     "url": "/wiki/entities/eruptionofvesuvius79/"
   },
+  "ErwinRommel": {
+    "title": "Erwin Rommel",
+    "url": "/wiki/entities/erwinrommel/"
+  },
   "EscalationOfCommitment": {
     "title": "Escalation Of Commitment / 非理性投入升级",
     "url": "/wiki/concepts/escalationofcommitment/"
@@ -30570,6 +30590,10 @@
   "GeorgeRRMartin": {
     "title": "George R. R. Martin / 乔治·R·R·马丁",
     "url": "/wiki/entities/georgerrmartin/"
+  },
+  "GeorgeSPatton": {
+    "title": "George S. Patton",
+    "url": "/wiki/entities/georgespatton/"
   },
   "GeorgeShultz": {
     "title": "George Shultz",
@@ -49883,6 +49907,10 @@
     "title": "Military Merit Rank System / 军功爵制",
     "url": "/wiki/concepts/militarymeritranksystem/"
   },
+  "MilitaryMoraleAsCombatCapacity": {
+    "title": "Military Morale as Combat Capacity",
+    "url": "/wiki/concepts/militarymoraleascombatcapacity/"
+  },
   "MilitaryMoraleThroughSharedHardship": {
     "title": "Military Morale Through Shared Hardship / 同甘共苦式士气",
     "url": "/wiki/concepts/militarymoralethroughsharedhardship/"
@@ -53903,6 +53931,10 @@
     "title": "Oman",
     "url": "/wiki/entities/oman/"
   },
+  "OmarBradley": {
+    "title": "Omar Bradley",
+    "url": "/wiki/entities/omarbradley/"
+  },
   "Omega": {
     "title": "Omega",
     "url": "/wiki/entities/omega/"
@@ -54146,6 +54178,10 @@
   "OpenCrawl": {
     "title": "OpenCrawl",
     "url": "/wiki/entities/opencrawl/"
+  },
+  "OpenCultureMilitaryLearning": {
+    "title": "Open-Culture Military Learning",
+    "url": "/wiki/concepts/openculturemilitarylearning/"
   },
   "OpenDataTransparency": {
     "title": "Open Data And Transparency",
@@ -70867,6 +70903,10 @@
     "title": "Systemic Sleep-Loss Effects",
     "url": "/wiki/concepts/systemicsleeplosseffects/"
   },
+  "SystemsEraGeneralship": {
+    "title": "Systems-Era Generalship",
+    "url": "/wiki/concepts/systemserageneralship/"
+  },
   "T0Finance": {
     "title": "T0 Finance",
     "url": "/wiki/entities/t0finance/"
@@ -78574,6 +78614,10 @@
   "WilliamShakespeare": {
     "title": "William Shakespeare / 威廉·莎士比亚",
     "url": "/wiki/entities/williamshakespeare/"
+  },
+  "WilliamSlim": {
+    "title": "William Slim",
+    "url": "/wiki/entities/williamslim/"
   },
   "WilliamSomersetMaugham": {
     "title": "William Somerset Maugham / 毛姆",

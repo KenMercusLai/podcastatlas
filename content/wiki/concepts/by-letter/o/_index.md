@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 8957
+wiki_total_pages: 8960
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -368,6 +368,9 @@ wiki_pages:
   - key: "OpenClosedAIMarketStructure"
     title: "Open-Closed AI Market Structure"
     url: "/wiki/concepts/openclosedaimarketstructure/"
+  - key: "OpenCultureMilitaryLearning"
+    title: "Open-Culture Military Learning"
+    url: "/wiki/concepts/openculturemilitarylearning/"
   - key: "OpenSourceAIDemocratization"
     title: "Open-Source AI Democratization"
     url: "/wiki/concepts/opensourceaidemocratization/"

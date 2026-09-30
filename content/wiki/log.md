@@ -25988,3 +25988,11 @@ Added source `248-medieval-treason-part-1-glt9532907553`; created `EuanRoger`, `
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-30] ingest | 247. Monty & Patton vs. the Nazis
+
+Added source `247-monty-patton-vs-the-nazis-glt2932235302`; created `AlMurray`, `BernardMontgomery`, `WilliamSlim`, `GeorgeSPatton`, `OmarBradley`, `BernardFreyberg`, `ErwinRommel`, `SystemsEraGeneralship`, `MilitaryMoraleAsCombatCapacity`, and `OpenCultureMilitaryLearning`; and updated the canonical index. Core synthesis: commanders still mattered in industrial mass warfare because they converted resources into functioning organizations through staff work, logistics, morale, learning, cultural fit, and communication, but no personality substituted for air and sea power, production, or institutions. No settled contradiction was adopted. Individual commander rankings, counterfactual replacement effects, Freyberg's intelligence handling, open-versus-closed culture claims, and the 2022 Ukraine-Russia analogy remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,250-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

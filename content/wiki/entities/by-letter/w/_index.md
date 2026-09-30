@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 11558
+wiki_total_pages: 11565
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -590,6 +590,9 @@ wiki_pages:
   - key: "WilliamShakespeare"
     title: "William Shakespeare / 威廉·莎士比亚"
     url: "/wiki/entities/williamshakespeare/"
+  - key: "WilliamSlim"
+    title: "William Slim"
+    url: "/wiki/entities/williamslim/"
   - key: "WilliamSomersetMaugham"
     title: "William Somerset Maugham / 毛姆"
     url: "/wiki/entities/williamsomersetmaugham/"

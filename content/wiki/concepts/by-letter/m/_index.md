@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 8957
+wiki_total_pages: 8960
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -848,6 +848,9 @@ wiki_pages:
   - key: "MilitaryMeritRankSystem"
     title: "Military Merit Rank System / 军功爵制"
     url: "/wiki/concepts/militarymeritranksystem/"
+  - key: "MilitaryMoraleAsCombatCapacity"
+    title: "Military Morale as Combat Capacity"
+    url: "/wiki/concepts/militarymoraleascombatcapacity/"
   - key: "MilitaryMoraleThroughSharedHardship"
     title: "Military Morale Through Shared Hardship / 同甘共苦式士气"
     url: "/wiki/concepts/militarymoralethroughsharedhardship/"

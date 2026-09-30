@@ -7818,6 +7818,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/almansurcordoba/"
     },
+    "AlMurray": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2932235302 [GLT2932235302].md",
+          "key": "247-monty-patton-vs-the-nazis-glt2932235302",
+          "show": "The Rest Is History",
+          "title": "247. Monty & Patton vs. the Nazis",
+          "url": "/wiki/sources/247-monty-patton-vs-the-nazis-glt2932235302/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/almurray/"
+    },
     "AlanCastel": {
       "episode_count": 1,
       "show_count": 1,
@@ -19560,6 +19576,38 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/entities/berlinwall/"
+    },
+    "BernardFreyberg": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2932235302 [GLT2932235302].md",
+          "key": "247-monty-patton-vs-the-nazis-glt2932235302",
+          "show": "The Rest Is History",
+          "title": "247. Monty & Patton vs. the Nazis",
+          "url": "/wiki/sources/247-monty-patton-vs-the-nazis-glt2932235302/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/bernardfreyberg/"
+    },
+    "BernardMontgomery": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2932235302 [GLT2932235302].md",
+          "key": "247-monty-patton-vs-the-nazis-glt2932235302",
+          "show": "The Rest Is History",
+          "title": "247. Monty & Patton vs. the Nazis",
+          "url": "/wiki/sources/247-monty-patton-vs-the-nazis-glt2932235302/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/bernardmontgomery/"
     },
     "BernardReneDeLaunay": {
       "episode_count": 1,
@@ -57542,6 +57590,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/eruptionofvesuvius79/"
     },
+    "ErwinRommel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2932235302 [GLT2932235302].md",
+          "key": "247-monty-patton-vs-the-nazis-glt2932235302",
+          "show": "The Rest Is History",
+          "title": "247. Monty & Patton vs. the Nazis",
+          "url": "/wiki/sources/247-monty-patton-vs-the-nazis-glt2932235302/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/erwinrommel/"
+    },
     "EspressoCodeEditor": {
       "episode_count": 1,
       "show_count": 1,
@@ -71805,6 +71869,22 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/entities/georgerrmartin/"
+    },
+    "GeorgeSPatton": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2932235302 [GLT2932235302].md",
+          "key": "247-monty-patton-vs-the-nazis-glt2932235302",
+          "show": "The Rest Is History",
+          "title": "247. Monty & Patton vs. the Nazis",
+          "url": "/wiki/sources/247-monty-patton-vs-the-nazis-glt2932235302/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/georgespatton/"
     },
     "GeorgeWallace": {
       "episode_count": 2,
@@ -121920,6 +122000,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/concepts/militaryjustificationtypology/"
     },
+    "MilitaryMoraleAsCombatCapacity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2932235302 [GLT2932235302].md",
+          "key": "247-monty-patton-vs-the-nazis-glt2932235302",
+          "show": "The Rest Is History",
+          "title": "247. Monty & Patton vs. the Nazis",
+          "url": "/wiki/sources/247-monty-patton-vs-the-nazis-glt2932235302/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/militarymoraleascombatcapacity/"
+    },
     "MilitaryPersonalization": {
       "episode_count": 8,
       "show_count": 3,
@@ -131119,6 +131215,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/entities/olympedegouges/"
     },
+    "OmarBradley": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2932235302 [GLT2932235302].md",
+          "key": "247-monty-patton-vs-the-nazis-glt2932235302",
+          "show": "The Rest Is History",
+          "title": "247. Monty & Patton vs. the Nazis",
+          "url": "/wiki/sources/247-monty-patton-vs-the-nazis-glt2932235302/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/omarbradley/"
+    },
     "OmenCodedRemonstrance": {
       "episode_count": 9,
       "show_count": 1,
@@ -131595,6 +131707,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/opencrawl/"
+    },
+    "OpenCultureMilitaryLearning": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2932235302 [GLT2932235302].md",
+          "key": "247-monty-patton-vs-the-nazis-glt2932235302",
+          "show": "The Rest Is History",
+          "title": "247. Monty & Patton vs. the Nazis",
+          "url": "/wiki/sources/247-monty-patton-vs-the-nazis-glt2932235302/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/openculturemilitarylearning/"
     },
     "OpenDataTransparency": {
       "episode_count": 1,
@@ -170917,6 +171045,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/concepts/systemicsleeplosseffects/"
     },
+    "SystemsEraGeneralship": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2932235302 [GLT2932235302].md",
+          "key": "247-monty-patton-vs-the-nazis-glt2932235302",
+          "show": "The Rest Is History",
+          "title": "247. Monty & Patton vs. the Nazis",
+          "url": "/wiki/sources/247-monty-patton-vs-the-nazis-glt2932235302/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/systemserageneralship/"
+    },
     "TCMAutumnSelfCareBoundary": {
       "episode_count": 1,
       "show_count": 1,
@@ -187932,6 +188076,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/williamshakespeare/"
+    },
+    "WilliamSlim": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2932235302 [GLT2932235302].md",
+          "key": "247-monty-patton-vs-the-nazis-glt2932235302",
+          "show": "The Rest Is History",
+          "title": "247. Monty & Patton vs. the Nazis",
+          "url": "/wiki/sources/247-monty-patton-vs-the-nazis-glt2932235302/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/williamslim/"
     },
     "WilliamTheConqueror": {
       "episode_count": 6,

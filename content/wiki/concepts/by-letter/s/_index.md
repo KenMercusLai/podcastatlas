@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 8957
+wiki_total_pages: 8960
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2372,6 +2372,9 @@ wiki_pages:
   - key: "SystemicSleepLossEffects"
     title: "Systemic Sleep-Loss Effects"
     url: "/wiki/concepts/systemicsleeplosseffects/"
+  - key: "SystemsEraGeneralship"
+    title: "Systems-Era Generalship"
+    url: "/wiki/concepts/systemserageneralship/"
   - key: "SocialContractUK1970s"
     title: "UK Social Contract in the 1970s"
     url: "/wiki/concepts/socialcontractuk1970s/"
