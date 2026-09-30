@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [256. Germany: The White Rose](sources/256-germany-the-white-rose-glt6296738472.md) — The Rest Is History episode on Hans and Sophie Scholl, the White Rose leaflets, conscience formation, execution, and postwar symbolic legacy.
 - [257. Australia: The Mystery of the Somerton Man](sources/257-australia-the-mystery-of-the-somerton-man-glt2531949703.md) — The Rest Is History episode on the 1948 Somerton Man case, its literary and Cold War clues, Carl Webb's reported DNA identification, and the death's unresolved cause.
 - [258. Costa Rica: Civil War](sources/258-costa-rica-civil-war-glt4854467564.md) — The Rest Is History episode on the disputed 1948 election, Figueres's uprising, democratic reconstruction, army abolition, and voluntary transfer of power.
 - [259: Iran: England - 'The Little Satan'](sources/259-iran-england-the-little-satan-glt8347276204.md) — The Rest Is History episode on Iranian admiration for British institutions, constitutional disappointment, oil, nationalization, the 1953 coup, and persistent cultural attraction.
@@ -3281,6 +3282,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [作者对谈：朋友是否比真理更加重要？（Roger Berkowitz）](sources/zuozhe-duitan-pengyou-shifou-bi-zhenli-gengjia-zhongyao-roger-berkowitz-ln7i59hzhpigtixkj-dvwmkqrrsf.md) — 独树不成林 conversation on Hannah Arendt, friendship across disagreement, political plurality, public denunciation, and persuasion as mutual transformation.
 
 ## Entities
+- [Hans Scholl](entities/HansScholl.md) — Medical student and White Rose organizer who moved from Nazi youth leadership to anti-Nazi resistance.
+- [Sophie Scholl](entities/SophieScholl.md) — Student and White Rose member remembered for chosen participation, responsibility under interrogation, and execution.
+- [White Rose](entities/WhiteRose.md) — Munich-centered student resistance network whose anti-Nazi leaflets gained a powerful postwar afterlife.
 - [Somerton Man Case](entities/SomertonManCase.md) — 1948 Adelaide unidentified-death mystery reportedly resolved as to identity but not cause or circumstances.
 - [Carl Webb](entities/CarlWebb.md) — Australian man reportedly identified through DNA and genealogy as the Somerton Man.
 - [Jessica Thompson](entities/JessicaThompson.md) — Nurse whose proximity and phone number became central but inconclusive clues in the Somerton Man case.
@@ -14847,6 +14851,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Roger Berkowitz](entities/RogerBerkowitz.md) — Political theorist reconstructing Hannah Arendt's account of friendship, plurality, truth, and reciprocal persuasion.
 
 ## Concepts
+- [Conscience Formation Under Dictatorship](concepts/ConscienceFormationUnderDictatorship.md) — Gradual development of independent judgment through family, belief, reading, friendship, work, and experience under enforced conformity.
 - [Forensic Identification-Explanation Gap](concepts/ForensicIdentificationExplanationGap.md) — Boundary between establishing who a deceased person was and explaining mechanism, motive, or responsibility for the death.
 - [Mystery Narrative Overfitting](concepts/MysteryNarrativeOverfitting.md) — Construction of one dramatic story from ambiguous clues whose causal relationships have not been independently shown.
 - [Army Abolition as a Democratic Safeguard](concepts/ArmyAbolitionDemocraticSafeguard.md) — Removal of a standing military power center to reduce coup risk and reinforce civilian institutions.

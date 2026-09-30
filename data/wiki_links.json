@@ -875,6 +875,10 @@
     "title": "246. 杭州博物馆「一苇杭之」，好久没看过这么推荐的展览了",
     "url": "/wiki/sources/246-hangzhou-bowuguan-yiwei-hangzhi-haojiu-mei-kan-guo-zheme-tuijian-de-zhanlan-le-8217911423-973793/"
   },
+  "256-germany-the-white-rose-glt6296738472": {
+    "title": "256. Germany: The White Rose",
+    "url": "/wiki/sources/256-germany-the-white-rose-glt6296738472/"
+  },
   "257-australia-the-mystery-of-the-somerton-man-glt2531949703": {
     "title": "257. Australia: The Mystery of the Somerton Man",
     "url": "/wiki/sources/257-australia-the-mystery-of-the-somerton-man-glt2531949703/"
@@ -17655,6 +17659,10 @@
     "title": "Conquest Self-Defense Narrative / 兼并自卫叙事",
     "url": "/wiki/concepts/conquestselfdefensenarrative/"
   },
+  "ConscienceFormationUnderDictatorship": {
+    "title": "Conscience Formation Under Dictatorship",
+    "url": "/wiki/concepts/conscienceformationunderdictatorship/"
+  },
   "ConscienceOverFaction": {
     "title": "Conscience Over Faction / 良知高于党派",
     "url": "/wiki/concepts/conscienceoverfaction/"
@@ -32998,6 +33006,10 @@
   "HansJonas": {
     "title": "Hans Jonas / 汉斯·约纳斯",
     "url": "/wiki/entities/hansjonas/"
+  },
+  "HansScholl": {
+    "title": "Hans Scholl",
+    "url": "/wiki/entities/hansscholl/"
   },
   "HansWilsdorf": {
     "title": "Hans Wilsdorf",
@@ -67899,6 +67911,10 @@
     "title": "Sophie Pedder",
     "url": "/wiki/entities/sophiepedder/"
   },
+  "SophieScholl": {
+    "title": "Sophie Scholl",
+    "url": "/wiki/entities/sophiescholl/"
+  },
   "SophieZhang": {
     "title": "Sophie Zhang",
     "url": "/wiki/entities/sophiezhang/"
@@ -78074,6 +78090,10 @@
   "WhiteRabbit": {
     "title": "White Rabbit / 白兔",
     "url": "/wiki/entities/whiterabbit/"
+  },
+  "WhiteRose": {
+    "title": "White Rose",
+    "url": "/wiki/entities/whiterose/"
   },
   "WhiteShipDisaster": {
     "title": "White Ship Disaster",

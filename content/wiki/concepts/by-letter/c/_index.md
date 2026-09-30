@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8935
+wiki_total_pages: 8936
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1793,6 +1793,9 @@ wiki_pages:
   - key: "ConquestSelfDefenseNarrative"
     title: "Conquest Self-Defense Narrative / 兼并自卫叙事"
     url: "/wiki/concepts/conquestselfdefensenarrative/"
+  - key: "ConscienceFormationUnderDictatorship"
+    title: "Conscience Formation Under Dictatorship"
+    url: "/wiki/concepts/conscienceformationunderdictatorship/"
   - key: "ConscienceOverFaction"
     title: "Conscience Over Faction / 良知高于党派"
     url: "/wiki/concepts/conscienceoverfaction/"

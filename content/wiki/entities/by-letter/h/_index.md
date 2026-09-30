@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 11536
+wiki_total_pages: 11539
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -191,6 +191,9 @@ wiki_pages:
   - key: "HansJonas"
     title: "Hans Jonas / 汉斯·约纳斯"
     url: "/wiki/entities/hansjonas/"
+  - key: "HansScholl"
+    title: "Hans Scholl"
+    url: "/wiki/entities/hansscholl/"
   - key: "HansWilsdorf"
     title: "Hans Wilsdorf"
     url: "/wiki/entities/hanswilsdorf/"

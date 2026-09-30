@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 11536
+wiki_total_pages: 11539
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -428,6 +428,9 @@ wiki_pages:
   - key: "WhiteRabbit"
     title: "White Rabbit / 白兔"
     url: "/wiki/entities/whiterabbit/"
+  - key: "WhiteRose"
+    title: "White Rose"
+    url: "/wiki/entities/whiterose/"
   - key: "WhiteShipDisaster"
     title: "White Ship Disaster"
     url: "/wiki/entities/whiteshipdisaster/"

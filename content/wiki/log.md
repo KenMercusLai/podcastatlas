@@ -25879,3 +25879,11 @@ Added source `257-australia-the-mystery-of-the-somerton-man-glt2531949703`; crea
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-30] ingest | 256. Germany: The White Rose
+
+Added source `256-germany-the-white-rose-glt6296738472`; created `HansScholl`, `SophieScholl`, `WhiteRose`, and `ConscienceFormationUnderDictatorship`; updated `RepressionMartyrdomBackfire` from its complete bounded source set; and updated the canonical index. Core synthesis: the Scholls' resistance developed gradually through family opposition, reading, Christian accounts of dignity, friendship, work, and war rather than innate heroism, while the White Rose converted private judgment into the practical labor and risk of leaflet resistance. The movement had little immediate mass effect, but execution, surviving texts, wider circulation, and postwar institutions made its moral afterlife much larger than its wartime organization. No settled contradiction was adopted. The movement's name, exact causal weights in individual transformation, martyrdom motives, dialogue, leaflet totals, and legacy claims remain uncertain or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten because the episode deepens established Nazi Germany, resistance, and political-memory branches without changing the wiki-wide synthesis; downstream synthesis refresh only reads it.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

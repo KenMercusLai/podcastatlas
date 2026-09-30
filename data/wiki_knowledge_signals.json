@@ -36708,6 +36708,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/conquestrupturecontinuity/"
     },
+    "ConscienceFormationUnderDictatorship": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6296738472 [GLT6296738472].md",
+          "key": "256-germany-the-white-rose-glt6296738472",
+          "show": "The Rest Is History",
+          "title": "256. Germany: The White Rose",
+          "url": "/wiki/sources/256-germany-the-white-rose-glt6296738472/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/conscienceformationunderdictatorship/"
+    },
     "ConscienceThroughDuty": {
       "episode_count": 1,
       "show_count": 1,
@@ -78238,6 +78254,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/hansjonas/"
+    },
+    "HansScholl": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6296738472 [GLT6296738472].md",
+          "key": "256-germany-the-white-rose-glt6296738472",
+          "show": "The Rest Is History",
+          "title": "256. Germany: The White Rose",
+          "url": "/wiki/sources/256-germany-the-white-rose-glt6296738472/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/hansscholl/"
     },
     "HantavirusPublicRiskTriage": {
       "episode_count": 1,
@@ -148800,9 +148832,9 @@
       "url": "/wiki/concepts/repeatedcontactdating/"
     },
     "RepressionMartyrdomBackfire": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7095481415 [GLT7095481415].md",
@@ -148810,9 +148842,16 @@
           "show": "The Rest Is History",
           "title": "339: Ireland: The Easter Rising, 1916 (Part 4)",
           "url": "/wiki/sources/339-ireland-the-easter-rising-1916-part-4-glt7095481415/"
+        },
+        {
+          "episode_file": "GLT6296738472 [GLT6296738472].md",
+          "key": "256-germany-the-white-rose-glt6296738472",
+          "show": "The Rest Is History",
+          "title": "256. Germany: The White Rose",
+          "url": "/wiki/sources/256-germany-the-white-rose-glt6296738472/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-09-30",
       "url": "/wiki/concepts/repressionmartyrdombackfire/"
     },
     "ReproductiveAttritionStrategy": {
@@ -163407,6 +163446,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/entities/sophiedegrouchy/"
+    },
+    "SophieScholl": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6296738472 [GLT6296738472].md",
+          "key": "256-germany-the-white-rose-glt6296738472",
+          "show": "The Rest Is History",
+          "title": "256. Germany: The White Rose",
+          "url": "/wiki/sources/256-germany-the-white-rose-glt6296738472/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/sophiescholl/"
     },
     "SophieZhang": {
       "episode_count": 1,
@@ -186322,6 +186377,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/whitehorsetemple/"
+    },
+    "WhiteRose": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6296738472 [GLT6296738472].md",
+          "key": "256-germany-the-white-rose-glt6296738472",
+          "show": "The Rest Is History",
+          "title": "256. Germany: The White Rose",
+          "url": "/wiki/sources/256-germany-the-white-rose-glt6296738472/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/whiterose/"
     },
     "WhiteShipDisaster": {
       "episode_count": 1,

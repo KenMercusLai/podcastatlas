@@ -1381,6 +1381,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "256-germany-the-white-rose-glt6296738472": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "257-australia-the-mystery-of-the-somerton-man-glt2531949703": [
     {
       "key": "history",
@@ -21114,6 +21121,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "ConscienceFormationUnderDictatorship": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "ConscienceOverFaction": [
