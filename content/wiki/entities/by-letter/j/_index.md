@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 11652
+wiki_total_pages: 11656
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -1220,6 +1220,9 @@ wiki_pages:
   - key: "JustinTV"
     title: "Justin.tv"
     url: "/wiki/entities/justintv/"
+  - key: "JustinianI"
+    title: "Justinian I"
+    url: "/wiki/entities/justiniani/"
   - key: "JurgenHabermas"
     title: "Jürgen Habermas / 哈贝马斯"
     url: "/wiki/entities/jurgenhabermas/"

@@ -1374,6 +1374,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "220-justinian-theodora-the-secret-history-part-3-glt6795699757": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "221-holidays-byrons-grand-tour-glt3921798295": [
     {
       "key": "history",
@@ -44792,6 +44799,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "JustinianicPlague": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "Juxian": [

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 9045
+wiki_total_pages: 9047
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -200,6 +200,9 @@ wiki_pages:
   - key: "ImperialPublicRebuttal"
     title: "Imperial Public Rebuttal / 皇帝公开辩驳"
     url: "/wiki/concepts/imperialpublicrebuttal/"
+  - key: "ImperialRestorationParadox"
+    title: "Imperial Restoration Paradox"
+    url: "/wiki/concepts/imperialrestorationparadox/"
   - key: "ImperialRiseDeclineCycle"
     title: "Imperial Rise and Decline Cycle"
     url: "/wiki/concepts/imperialrisedeclinecycle/"

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2884
+topic_total_pages: 2885
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2071,6 +2071,9 @@ topic_concepts:
   - key: "JulyCrisis"
     title: "July Crisis"
     url: "/wiki/concepts/julycrisis/"
+  - key: "JustinianicPlague"
+    title: "Justinianic Plague"
+    url: "/wiki/concepts/justinianicplague/"
   - key: "KennedyFamilyPoliticalFormation"
     title: "Kennedy Family Political Formation"
     url: "/wiki/concepts/kennedyfamilypoliticalformation/"

@@ -26355,3 +26355,11 @@ Added source `221-holidays-byrons-grand-tour-glt3921798295`; created `Bath`, `Br
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | 220. Justinian & Theodora: The Secret History (Part 3)
+
+Added source `220-justinian-theodora-the-secret-history-part-3-glt6795699757`; created `JustinianI`, `Theodora`, `Belisarius`, `Procopius`, `JustinianicPlague`, and `ImperialRestorationParadox`; and resynthesized `ByzantineEmpire` and `PandemicAsHistoricalForce` from their complete preserved evidence inventories. Core synthesis: Justinian's legal, architectural, and territorial restoration was real, but Italian devastation and multi-front pressure made it fragile, while plague converted demographic loss into fiscal, military, urban, and frontier weakness. Theodora's hostile source tradition is reread through exploitation and victim-blaming without treating her reform influence as proven, and Procopius's incompatible public and secret portraits remain a source-critical problem. No settled contradiction was adopted. Mortality totals, private motives, sexual allegations, legislative authorship, and no-plague counterfactuals remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,295-source coverage; no topic claim set was dirty and global compaction was not due. Publish validation passed.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

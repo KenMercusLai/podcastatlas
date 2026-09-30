@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "j"
-wiki_total_pages: 9045
+wiki_total_pages: 9047
 wiki_pages:
   - key: "JankyMVP"
     title: "Janky MVP"
@@ -236,6 +236,9 @@ wiki_pages:
   - key: "JungianSelfAndEgo"
     title: "Jungian Self and Ego"
     url: "/wiki/concepts/jungianselfandego/"
+  - key: "JustinianicPlague"
+    title: "Justinianic Plague"
+    url: "/wiki/concepts/justinianicplague/"
   - key: "JiuXiRitualPromotion"
     title: "九锡礼遇 / Nine Bestowments Ritual Promotion"
     url: "/wiki/concepts/jiuxiritualpromotion/"

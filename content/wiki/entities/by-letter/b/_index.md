@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 11652
+wiki_total_pages: 11656
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -371,6 +371,9 @@ wiki_pages:
   - key: "Belgium"
     title: "Belgium"
     url: "/wiki/entities/belgium/"
+  - key: "Belisarius"
+    title: "Belisarius"
+    url: "/wiki/entities/belisarius/"
   - key: "BellLabs"
     title: "Bell Labs"
     url: "/wiki/entities/belllabs/"
