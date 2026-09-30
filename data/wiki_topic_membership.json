@@ -1374,6 +1374,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "227-portugal-on-the-edge-of-the-world-part-1-glt1834337589": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "228-portugal-the-golden-age-of-discovery-part-2-glt7949934800": [
     {
       "key": "history",
@@ -11226,6 +11233,18 @@
     }
   ],
   "AngloIranianRelations": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "AngloPortugueseAlliance": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
     {
       "key": "politics",
       "label": "Politics",
@@ -59538,6 +59557,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "PhilippaOfLancaster": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "Philippines": [

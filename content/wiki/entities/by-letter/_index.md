@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 11635
+wiki_total_pages: 11637
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -368,6 +368,9 @@ wiki_pages:
   - key: "AfonsoDeAlbuquerque"
     title: "Afonso de Albuquerque"
     url: "/wiki/entities/afonsodealbuquerque/"
+  - key: "AfonsoHenriques"
+    title: "Afonso Henriques"
+    url: "/wiki/entities/afonsohenriques/"
   - key: "AfricanNationalCongress"
     title: "African National Congress"
     url: "/wiki/entities/africannationalcongress/"

@@ -6753,6 +6753,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/afonsodealbuquerque/"
     },
+    "AfonsoHenriques": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1834337589 [GLT1834337589].md",
+          "key": "227-portugal-on-the-edge-of-the-world-part-1-glt1834337589",
+          "show": "The Rest Is History",
+          "title": "227. Portugal: On the Edge of the World (Part 1)",
+          "url": "/wiki/sources/227-portugal-on-the-edge-of-the-world-part-1-glt1834337589/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/afonsohenriques/"
+    },
     "AfricanFemaleAuthorityInstitutions": {
       "episode_count": 1,
       "show_count": 1,
@@ -11471,6 +11487,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/concepts/anglonormansuccessionlegitimacy/"
+    },
+    "AngloPortugueseAlliance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1834337589 [GLT1834337589].md",
+          "key": "227-portugal-on-the-edge-of-the-world-part-1-glt1834337589",
+          "show": "The Rest Is History",
+          "title": "227. Portugal: On the Edge of the World (Part 1)",
+          "url": "/wiki/sources/227-portugal-on-the-edge-of-the-world-part-1-glt1834337589/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/angloportuguesealliance/"
     },
     "AngloSaxonStateFormation": {
       "episode_count": 3,
@@ -28381,9 +28413,9 @@
       "url": "/wiki/entities/cestbon/"
     },
     "Ceuta": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Taken littorally： Spain’s sudden crisis in Ceuta [6a70712c034f16a52ebfaed7].md",
@@ -28398,9 +28430,16 @@
           "show": "忽左忽右",
           "title": "496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海",
           "url": "/wiki/sources/496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw/"
+        },
+        {
+          "episode_file": "GLT1834337589 [GLT1834337589].md",
+          "key": "227-portugal-on-the-edge-of-the-world-part-1-glt1834337589",
+          "show": "The Rest Is History",
+          "title": "227. Portugal: On the Edge of the World (Part 1)",
+          "url": "/wiki/sources/227-portugal-on-the-edge-of-the-world-part-1-glt1834337589/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/ceuta/"
     },
     "CeutaImperialBorderland": {
@@ -51693,6 +51732,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/concepts/earlymodernknowledgecontinuum/"
+    },
+    "EarlyPortugueseAtlanticPlantationSlavery": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1834337589 [GLT1834337589].md",
+          "key": "227-portugal-on-the-edge-of-the-world-part-1-glt1834337589",
+          "show": "The Rest Is History",
+          "title": "227. Portugal: On the Edge of the World (Part 1)",
+          "url": "/wiki/sources/227-portugal-on-the-edge-of-the-world-part-1-glt1834337589/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/earlyportugueseatlanticplantationslavery/"
     },
     "EarlyRestorationCoalitionIntegration": {
       "episode_count": 2,
@@ -82320,9 +82375,9 @@
       "url": "/wiki/entities/henrypercyhotspur/"
     },
     "HenryTheNavigator": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lu8PaWNKiSeLmmrgubrEy4pq-4fw [lu8PaWNKiSeLmmrgubrEy4pq-4fw].md",
@@ -82330,9 +82385,16 @@
           "show": "忽左忽右",
           "title": "496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海",
           "url": "/wiki/sources/496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw/"
+        },
+        {
+          "episode_file": "GLT1834337589 [GLT1834337589].md",
+          "key": "227-portugal-on-the-edge-of-the-world-part-1-glt1834337589",
+          "show": "The Rest Is History",
+          "title": "227. Portugal: On the Edge of the World (Part 1)",
+          "url": "/wiki/sources/227-portugal-on-the-edge-of-the-world-part-1-glt1834337589/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/henrythenavigator/"
     },
     "HenryTheQuarrelsome": {
@@ -89516,9 +89578,9 @@
       "url": "/wiki/entities/iberianpeninsula/"
     },
     "IberianReconquista": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lu8PaWNKiSeLmmrgubrEy4pq-4fw [lu8PaWNKiSeLmmrgubrEy4pq-4fw].md",
@@ -89540,9 +89602,16 @@
           "show": "The Rest Is History",
           "title": "281: Spain: The Caliphate of Córdoba",
           "url": "/wiki/sources/281-spain-the-caliphate-of-cordoba-glt2203638069/"
+        },
+        {
+          "episode_file": "GLT1834337589 [GLT1834337589].md",
+          "key": "227-portugal-on-the-edge-of-the-world-part-1-glt1834337589",
+          "show": "The Rest Is History",
+          "title": "227. Portugal: On the Edge of the World (Part 1)",
+          "url": "/wiki/sources/227-portugal-on-the-edge-of-the-world-part-1-glt1834337589/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/iberianreconquista/"
     },
     "Iceni": {
@@ -99116,9 +99185,9 @@
       "url": "/wiki/entities/johniioffrance/"
     },
     "JohnIOfPortugal": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lu8PaWNKiSeLmmrgubrEy4pq-4fw [lu8PaWNKiSeLmmrgubrEy4pq-4fw].md",
@@ -99126,9 +99195,16 @@
           "show": "忽左忽右",
           "title": "496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海",
           "url": "/wiki/sources/496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw/"
+        },
+        {
+          "episode_file": "GLT1834337589 [GLT1834337589].md",
+          "key": "227-portugal-on-the-edge-of-the-world-part-1-glt1834337589",
+          "show": "The Rest Is History",
+          "title": "227. Portugal: On the Edge of the World (Part 1)",
+          "url": "/wiki/sources/227-portugal-on-the-edge-of-the-world-part-1-glt1834337589/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/johniofportugal/"
     },
     "JohnITzimiskes": {
@@ -140328,6 +140404,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/entities/philipvioffrance/"
     },
+    "PhilippaOfLancaster": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1834337589 [GLT1834337589].md",
+          "key": "227-portugal-on-the-edge-of-the-world-part-1-glt1834337589",
+          "show": "The Rest Is History",
+          "title": "227. Portugal: On the Edge of the World (Part 1)",
+          "url": "/wiki/sources/227-portugal-on-the-edge-of-the-world-part-1-glt1834337589/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/philippaoflancaster/"
+    },
     "Philippines": {
       "episode_count": 3,
       "show_count": 1,
@@ -142808,9 +142900,9 @@
       "url": "/wiki/concepts/portablepoliticalcapital/"
     },
     "Portugal": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 3,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "GLT1627515087 [GLT1627515087].md",
@@ -142853,6 +142945,13 @@
           "show": "The Rest Is History",
           "title": "228. Portugal: The Golden Age of Discovery (Part 2)",
           "url": "/wiki/sources/228-portugal-the-golden-age-of-discovery-part-2-glt7949934800/"
+        },
+        {
+          "episode_file": "GLT1834337589 [GLT1834337589].md",
+          "key": "227-portugal-on-the-edge-of-the-world-part-1-glt1834337589",
+          "show": "The Rest Is History",
+          "title": "227. Portugal: On the Edge of the World (Part 1)",
+          "url": "/wiki/sources/227-portugal-on-the-edge-of-the-world-part-1-glt1834337589/"
         }
       ],
       "updated": "2026-10-01",
@@ -142882,9 +142981,9 @@
       "url": "/wiki/concepts/portuguesecolonialwars/"
     },
     "PortugueseCrusadingCommercialExpansion": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7949934800 [GLT7949934800].md",
@@ -142892,6 +142991,13 @@
           "show": "The Rest Is History",
           "title": "228. Portugal: The Golden Age of Discovery (Part 2)",
           "url": "/wiki/sources/228-portugal-the-golden-age-of-discovery-part-2-glt7949934800/"
+        },
+        {
+          "episode_file": "GLT1834337589 [GLT1834337589].md",
+          "key": "227-portugal-on-the-edge-of-the-world-part-1-glt1834337589",
+          "show": "The Rest Is History",
+          "title": "227. Portugal: On the Edge of the World (Part 1)",
+          "url": "/wiki/sources/227-portugal-on-the-edge-of-the-world-part-1-glt1834337589/"
         }
       ],
       "updated": "2026-10-01",
@@ -142930,9 +143036,9 @@
       "url": "/wiki/concepts/portuguesefortifiedmaritimenetwork/"
     },
     "PortugueseMaritimeExpansion": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lu8PaWNKiSeLmmrgubrEy4pq-4fw [lu8PaWNKiSeLmmrgubrEy4pq-4fw].md",
@@ -142954,6 +143060,13 @@
           "show": "The Rest Is History",
           "title": "228. Portugal: The Golden Age of Discovery (Part 2)",
           "url": "/wiki/sources/228-portugal-the-golden-age-of-discovery-part-2-glt7949934800/"
+        },
+        {
+          "episode_file": "GLT1834337589 [GLT1834337589].md",
+          "key": "227-portugal-on-the-edge-of-the-world-part-1-glt1834337589",
+          "show": "The Rest Is History",
+          "title": "227. Portugal: On the Edge of the World (Part 1)",
+          "url": "/wiki/sources/227-portugal-on-the-edge-of-the-world-part-1-glt1834337589/"
         }
       ],
       "updated": "2026-10-01",

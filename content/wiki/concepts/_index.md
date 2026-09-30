@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9022
+wiki_total_pages: 9024
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1961,6 +1961,9 @@ wiki_pages:
   - key: "AngloNormanSuccessionLegitimacy"
     title: "Anglo-Norman Succession Legitimacy"
     url: "/wiki/concepts/anglonormansuccessionlegitimacy/"
+  - key: "AngloPortugueseAlliance"
+    title: "Anglo-Portuguese Alliance"
+    url: "/wiki/concepts/angloportuguesealliance/"
   - key: "AngloSaxonStateFormation"
     title: "Anglo-Saxon State Formation"
     url: "/wiki/concepts/anglosaxonstateformation/"

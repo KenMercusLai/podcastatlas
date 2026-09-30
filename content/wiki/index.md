@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [227. Portugal: On the Edge of the World (Part 1)](sources/227-portugal-on-the-edge-of-the-world-part-1-glt1834337589.md) — The Rest Is History episode on Portuguese kingdom formation, the Anglo-Portuguese alliance, Ceuta, Henry the Navigator, maritime knowledge, and early Atlantic plantation slavery.
 - [Focus Toolkit: Tools to Improve Your Focus & Concentration](sources/focus-toolkit-tools-to-improve-your-focus-concentration-scim5273827033.md) — Huberman Lab solo episode on behavior-first focus training, bounded work bouts, refocusing, deliberate recovery, sensory cues, supplements, and medication boundaries.
 - [228. Portugal: The Golden Age of Discovery (Part 2)](sources/228-portugal-the-golden-age-of-discovery-part-2-glt7949934800.md) — The Rest Is History episode on Portugal's Cape route, Indian Ocean network, crusading-commercial ambition, organized violence, and Sebastian's succession crisis.
 - [229. Portugal: Gold, Earthquakes, and Brazil (Part 3)](sources/229-portugal-gold-earthquakes-and-brazil-part-3-glt8317395817.md) — The Rest Is History episode on Portuguese restoration, Brazilian commodity wealth and slavery, Pombal, the Lisbon earthquake, court relocation, and Brazilian independence.
@@ -3338,6 +3339,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Who's Gonna Pay for Your Social Security?](sources/default-mp3-ywr3ahjkcgo-fa7b2a90f9b1f7efc01397a3ed4ae0bf-30494375-default-mp3-ywr3ahjkcgo-fa7b2a90f9b1f7efc01397a3ed4ae0bf-30494375.md) — Planet Money episode comparing the financing scale and distributional costs of Social Security reform options.
 
 ## Entities
+- [Afonso Henriques](entities/AfonsoHenriques.md) — Founder-king connecting Portuguese independence, the Reconquista, and the 1147 capture of Lisbon.
+- [Philippa of Lancaster](entities/PhilippaOfLancaster.md) — English queen consort whose marriage to João I gave the Anglo-Portuguese alliance a dynastic foundation.
 - [Marquis de Pombal](entities/MarquisDePombal.md) — Enlightenment-influenced Portuguese first minister who joined institutional reform and Lisbon reconstruction to coercive centralization.
 - [George V](entities/GeorgeV.md) — Elizabeth II's grandfather and an early model of restrained, service-centered public monarchy.
 - [George VI](entities/GeorgeVI.md) — Reluctant wartime king whose accession and duty directly shaped Elizabeth II's formation and succession.
@@ -15007,6 +15010,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Steve Goss](entities/SteveGoss.md) — Former Social Security chief actuary assessing the scale, feasibility, and timing of reform options.
 
 ## Concepts
+- [Anglo-Portuguese Alliance](concepts/AngloPortugueseAlliance.md) — Durable relationship built cumulatively through crusading contact, commerce, treaties, and dynastic marriage.
+- [Early Portuguese Atlantic Plantation Slavery](concepts/EarlyPortugueseAtlanticPlantationSlavery.md) — Pre-1492 system linking Atlantic islands, sugar, African captive trading, and coerced plantation labor.
 - [Focus Training Toolkit](concepts/FocusTrainingToolkit.md) — Behavior-first focus cycle joining readiness, task entry, repeated return, bounded effort, and deliberate decompression.
 - [1755 Lisbon Earthquake](concepts/LisbonEarthquake1755.md) — Compound earthquake, tsunami, and fire that challenged European optimism and tested Portuguese crisis administration and urban reconstruction.
 - [Colonial Commodity Dependency](concepts/ColonialCommodityDependency.md) — Pattern in which extractive imperial wealth can weaken diversification while increasing labor coercion and alliance dependence.

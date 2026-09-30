@@ -26272,3 +26272,11 @@ Added source `focus-toolkit-tools-to-improve-your-focus-concentration-scim527382
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | 227. Portugal: On the Edge of the World (Part 1)
+
+Added source `227-portugal-on-the-edge-of-the-world-part-1-glt1834337589`; created `AfonsoHenriques`, `PhilippaOfLancaster`, `AngloPortugueseAlliance`, and `EarlyPortugueseAtlanticPlantationSlavery`; and resynthesized `Portugal`, `HenryTheNavigator`, `JohnIOfPortugal`, `Ceuta`, `IberianReconquista`, `PortugueseMaritimeExpansion`, and `PortugueseCrusadingCommercialExpansion` from their complete preserved evidence inventories. Core synthesis: Portuguese expansion grew from medieval kingdom formation, a layered English alliance, crusading-commercial ambition, and accumulated maritime knowledge, while African captive trading, sugar, and island plantation labor made coercion foundational before the Cape route. No settled contradiction was adopted. Siege comparisons, legends, the Sagres institutional picture, motive claims, captive totals, papal meaning, and limited Moorish and enslaved African perspectives remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,284-source coverage; no topic claim set was dirty and global compaction was not due. Publish validation passed.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

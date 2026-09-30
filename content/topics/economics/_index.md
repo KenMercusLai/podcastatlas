@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2150
+topic_total_pages: 2151
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -247,6 +247,9 @@ topic_concepts:
   - key: "AmericanSportsCapitalInEuropeanFootball"
     title: "American Sports Capital In European Football"
     url: "/wiki/concepts/americansportscapitalineuropeanfootball/"
+  - key: "AngloPortugueseAlliance"
+    title: "Anglo-Portuguese Alliance"
+    url: "/wiki/concepts/angloportuguesealliance/"
   - key: "AnnualReportMacroReading"
     title: "Annual Report Macro Reading"
     url: "/wiki/concepts/annualreportmacroreading/"

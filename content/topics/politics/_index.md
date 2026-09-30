@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2881
+topic_total_pages: 2883
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -274,6 +274,9 @@ topic_concepts:
   - key: "AngloIranianRelations"
     title: "Anglo-Iranian Relations"
     url: "/wiki/concepts/angloiranianrelations/"
+  - key: "AngloPortugueseAlliance"
+    title: "Anglo-Portuguese Alliance"
+    url: "/wiki/concepts/angloportuguesealliance/"
   - key: "AnimalPainLegalRecognition"
     title: "Animal Pain Legal Recognition / 动物痛苦的法律承认"
     url: "/wiki/concepts/animalpainlegalrecognition/"
@@ -6419,6 +6422,9 @@ topic_entities:
   - key: "PeterThiel"
     title: "Peter Thiel"
     url: "/wiki/entities/peterthiel/"
+  - key: "PhilippaOfLancaster"
+    title: "Philippa of Lancaster"
+    url: "/wiki/entities/philippaoflancaster/"
   - key: "Philippines"
     title: "Philippines"
     url: "/wiki/entities/philippines/"

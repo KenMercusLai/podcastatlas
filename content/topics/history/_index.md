@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2259
+topic_total_pages: 2260
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4770,6 +4770,9 @@ topic_sources:
   - key: "171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962"
     title: "171.闲聊十二生肖之马：观音大士的兴趣爱好,及老头环角色的灵感"
     url: "/wiki/sources/171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962/"
+  - key: "227-portugal-on-the-edge-of-the-world-part-1-glt1834337589"
+    title: "227. Portugal: On the Edge of the World (Part 1)"
+    url: "/wiki/sources/227-portugal-on-the-edge-of-the-world-part-1-glt1834337589/"
   - key: "228-portugal-the-golden-age-of-discovery-part-2-glt7949934800"
     title: "228. Portugal: The Golden Age of Discovery (Part 2)"
     url: "/wiki/sources/228-portugal-the-golden-age-of-discovery-part-2-glt7949934800/"
