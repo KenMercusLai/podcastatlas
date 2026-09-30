@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 11584
+wiki_total_pages: 11588
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -407,6 +407,9 @@ wiki_pages:
   - key: "CCCFIBDFoundation"
     title: "CCCF IBD Foundation / CCCF 爱在延长炎症性肠病基金会"
     url: "/wiki/entities/cccfibdfoundation/"
+  - key: "CecilRhodes"
+    title: "Cecil Rhodes"
+    url: "/wiki/entities/cecilrhodes/"
   - key: "CecilyFarr"
     title: "Cecily Farr / 西西莉·法尔"
     url: "/wiki/entities/cecilyfarr/"

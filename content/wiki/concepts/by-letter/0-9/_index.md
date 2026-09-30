@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "0-9"
-wiki_total_pages: 8979
+wiki_total_pages: 8981
 wiki_pages:
   - key: "401KPlan"
     title: "401(k) Plan"

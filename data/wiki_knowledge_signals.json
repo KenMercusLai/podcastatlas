@@ -21184,6 +21184,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/bodybasedselftrust/"
     },
+    "BoerWar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9087091726 [GLT9087091726].md",
+          "key": "241-young-churchill-prisoner-and-fugitive-part-3-glt9087091726",
+          "show": "The Rest Is History",
+          "title": "241. Young Churchill: Prisoner and Fugitive (Part 3)",
+          "url": "/wiki/sources/241-young-churchill-prisoner-and-fugitive-part-3-glt9087091726/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/boerwar/"
+    },
     "BogdanZerajic": {
       "episode_count": 1,
       "show_count": 1,
@@ -27562,6 +27578,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/entities/catotheyounger/"
+    },
+    "CecilRhodes": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9087091726 [GLT9087091726].md",
+          "key": "241-young-churchill-prisoner-and-fugitive-part-3-glt9087091726",
+          "show": "The Rest Is History",
+          "title": "241. Young Churchill: Prisoner and Fugitive (Part 3)",
+          "url": "/wiki/sources/241-young-churchill-prisoner-and-fugitive-part-3-glt9087091726/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/cecilrhodes/"
     },
     "CelebrityCostumePortraiture": {
       "episode_count": 1,
@@ -89033,6 +89065,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/imperialadventurefiction/"
     },
+    "ImperialAdventurePublicMythmaking": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9087091726 [GLT9087091726].md",
+          "key": "241-young-churchill-prisoner-and-fugitive-part-3-glt9087091726",
+          "show": "The Rest Is History",
+          "title": "241. Young Churchill: Prisoner and Fugitive (Part 3)",
+          "url": "/wiki/sources/241-young-churchill-prisoner-and-fugitive-part-3-glt9087091726/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/imperialadventurepublicmythmaking/"
+    },
     "ImperialBirthMotherRecognition": {
       "episode_count": 1,
       "show_count": 1,
@@ -89775,6 +89823,22 @@
       ],
       "updated": "2026-08-23",
       "url": "/wiki/concepts/imperialtourpoliticaltheater/"
+    },
+    "ImperialWarResourceMotive": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9087091726 [GLT9087091726].md",
+          "key": "241-young-churchill-prisoner-and-fugitive-part-3-glt9087091726",
+          "show": "The Rest Is History",
+          "title": "241. Young Churchill: Prisoner and Fugitive (Part 3)",
+          "url": "/wiki/sources/241-young-churchill-prisoner-and-fugitive-part-3-glt9087091726/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/imperialwarresourcemotive/"
     },
     "ImpermanenceAndNoSelf": {
       "episode_count": 3,
@@ -98520,6 +98584,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/josephbanks/"
+    },
+    "JosephChamberlain": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9087091726 [GLT9087091726].md",
+          "key": "241-young-churchill-prisoner-and-fugitive-part-3-glt9087091726",
+          "show": "The Rest Is History",
+          "title": "241. Young Churchill: Prisoner and Fugitive (Part 3)",
+          "url": "/wiki/sources/241-young-churchill-prisoner-and-fugitive-part-3-glt9087091726/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/josephchamberlain/"
     },
     "JosephConrad": {
       "episode_count": 1,
@@ -136115,6 +136195,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/paulekman/"
     },
+    "PaulKruger": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9087091726 [GLT9087091726].md",
+          "key": "241-young-churchill-prisoner-and-fugitive-part-3-glt9087091726",
+          "show": "The Rest Is History",
+          "title": "241. Young Churchill: Prisoner and Fugitive (Part 3)",
+          "url": "/wiki/sources/241-young-churchill-prisoner-and-fugitive-part-3-glt9087091726/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/paulkruger/"
+    },
     "PaulRouse": {
       "episode_count": 3,
       "show_count": 1,
@@ -165334,9 +165430,9 @@
       "url": "/wiki/entities/soundsliketitanicbook/"
     },
     "SouthAfrica": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 4,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT6535658080 [GLT6535658080].md",
@@ -165365,9 +165461,16 @@
           "show": "声东击西",
           "title": "#398 一场美国观察漫谈：世界杯红牌、南非白人劳工",
           "url": "/wiki/sources/398-yi-chang-meiguo-guancha-mantan-shijiebei-hongpai-nanfei-bairen-laogong-b28f7eaa-c801-4d5f-a6e5-35326d335df7/"
+        },
+        {
+          "episode_file": "GLT9087091726 [GLT9087091726].md",
+          "key": "241-young-churchill-prisoner-and-fugitive-part-3-glt9087091726",
+          "show": "The Rest Is History",
+          "title": "241. Young Churchill: Prisoner and Fugitive (Part 3)",
+          "url": "/wiki/sources/241-young-churchill-prisoner-and-fugitive-part-3-glt9087091726/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-09-30",
       "url": "/wiki/entities/southafrica/"
     },
     "SouthAfricanWhiteMigrantLabor": {
@@ -189317,9 +189420,9 @@
       "url": "/wiki/entities/winsentertainment/"
     },
     "WinstonChurchill": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT1275431911 [GLT1275431911].md",
@@ -189341,9 +189444,16 @@
           "show": "The Rest Is History",
           "title": "399. The Savage Storm: World War II and The Battle for Italy",
           "url": "/wiki/sources/399-the-savage-storm-world-war-ii-and-the-battle-for-italy-glt8130436942/"
+        },
+        {
+          "episode_file": "GLT9087091726 [GLT9087091726].md",
+          "key": "241-young-churchill-prisoner-and-fugitive-part-3-glt9087091726",
+          "show": "The Rest Is History",
+          "title": "241. Young Churchill: Prisoner and Fugitive (Part 3)",
+          "url": "/wiki/sources/241-young-churchill-prisoner-and-fugitive-part-3-glt9087091726/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-09-30",
       "url": "/wiki/entities/winstonchurchill/"
     },
     "WinterRespiratoryInfectionRisk": {

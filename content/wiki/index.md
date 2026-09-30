@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [241. Young Churchill: Prisoner and Fugitive (Part 3)](sources/241-young-churchill-prisoner-and-fugitive-part-3-glt9087091726.md) — The Rest Is History episode on the Boer War, Churchill's armored-train capture and Pretoria escape, imperial mineral politics, military adaptation, and adventure-driven public celebrity.
 - [Psychedelics & Neurostimulation for Brain Rewiring | Dr. Nolan Williams](sources/psychedelics-neurostimulation-for-brain-rewiring-dr-nolan-williams-scim3664218578.md) — Full Huberman Lab interview on depression circuits, TMS/SNT, psychedelics, ketamine, supervised chronotherapy, cannabis risk, and clinical evidence boundaries.
 - [242. French History on Film](sources/242-french-history-on-film-glt2672520929.md) — The Rest Is History episode on historical worldview, French cinema, national memory, Occupation allegory, May 1968, and the cultural significance of omission and changing reception.
 - [246. The Fall of Liz Truss](sources/246-the-fall-of-liz-truss-glt3484252092.md) — The Rest Is History episode on Truss's 45-day premiership, activist leader selection, cascading authority loss, competing Brexit programmes, and energy-driven industrial risk.
@@ -3314,6 +3315,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI講台語，長輩為何有聽沒有懂？](sources/ai-jiang-taiyu-zhangbei-weihe-you-ting-meiyou-dong-8f2ef858c5c159ba4b0becd4f1676e8b.md) — 端聞 episode on Taiwanese-language clinical communication, elder comprehension, AI patient education, low-resource speech data, and user-centered validation.
 
 ## Entities
+- [Boer War](entities/BoerWar.md) — South African imperial conflict joining Boer independence, British expansion, mineral interests, military adaptation, and Churchill's early celebrity.
+- [Cecil Rhodes](entities/CecilRhodes.md) — Mining magnate and expansionist whose Cape-to-Cairo vision and Jameson Raid role frame the Boer War's imperial prehistory.
+- [Joseph Chamberlain](entities/JosephChamberlain.md) — British colonial secretary admired by young Churchill and associated with the episode's assertive imperial politics.
+- [Paul Kruger](entities/PaulKruger.md) — Boer president whose government declared war after escalating British pressure on the Transvaal.
 - [La Chinoise](entities/LaChinoiseFilm.md) — Godard's 1967 Maoist student film, read as a self-critical cinematic anticipation of May 1968.
 - [Le Corbeau](entities/LeCorbeauFilm.md) — Clouzot's poison-pen drama, interpreted as an Occupation allegory of informing and social mistrust.
 - [Les Enfants du Paradis](entities/LesEnfantsDuParadisFilm.md) — Occupation-made reconstruction of nineteenth-century theatrical Paris and cultural survival.
@@ -14931,6 +14936,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [台灣人工智慧實驗室 / Taiwan AI Labs](entities/TaiwanAILabs.md) — AI organization adapting Taiwanese speech generation through better alignment and Romanized pronunciation targets.
 
 ## Concepts
+- [Imperial Adventure Public Mythmaking](concepts/ImperialAdventurePublicMythmaking.md) — Process by which real danger, narrative control, press timing, and national morale convert colonial adventure into political celebrity.
+- [Imperial War Resource Motive](concepts/ImperialWarResourceMotive.md) — Framework separating formal war sequence and public grievance from overlapping commodity and strategic incentives.
 - [Depression Chronotherapy](concepts/DepressionChronotherapy.md) — Clinically supervised combination of wake therapy, circadian phase shifting, and bright light for depression, kept distinct from self-directed sleep deprivation.
 - [Cinema as National Memory](concepts/CinemaAsNationalMemory.md) — How film confirms, revises, domesticates, or avoids inherited national histories.
 - [Historical Worldview Reconstruction](concepts/HistoricalWorldviewReconstruction.md) — Making past beliefs, incentives, and status codes causally govern historical drama.

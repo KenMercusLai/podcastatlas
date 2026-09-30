@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2873
+topic_total_pages: 2875
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5852,6 +5852,9 @@ topic_entities:
   - key: "JosephAoun"
     title: "Joseph Aoun"
     url: "/wiki/entities/josephaoun/"
+  - key: "JosephChamberlain"
+    title: "Joseph Chamberlain"
+    url: "/wiki/entities/josephchamberlain/"
   - key: "JosephPKennedySr"
     title: "Joseph P. Kennedy Sr."
     url: "/wiki/entities/josephpkennedysr/"
@@ -6383,6 +6386,9 @@ topic_entities:
   - key: "Patagonia"
     title: "Patagonia"
     url: "/wiki/entities/patagonia/"
+  - key: "PaulKruger"
+    title: "Paul Kruger"
+    url: "/wiki/entities/paulkruger/"
   - key: "PedroSanchez"
     title: "Pedro Sanchez"
     url: "/wiki/entities/pedrosanchez/"

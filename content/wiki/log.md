@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-30] ingest | 241. Young Churchill: Prisoner and Fugitive (Part 3)
+
+Added source `241-young-churchill-prisoner-and-fugitive-part-3-glt9087091726`; created `BoerWar`, `CecilRhodes`, `JosephChamberlain`, `PaulKruger`, `ImperialAdventurePublicMythmaking`, and `ImperialWarResourceMotive`; and resynthesized `WinstonChurchill` and `SouthAfrica` from their complete preserved evidence inventories. Core synthesis: gold, diamonds, outlander politics, imperial geography, and Boer independence formed the structural conflict, while real danger, press circulation, Black Week, and Churchill's deliberate self-presentation converted capture and escape into political celebrity. No settled contradiction was adopted. The episode extends rather than overturns Churchill's later profile: courage and relative magnanimity coexist with imperial ambition and a recurring attraction to bold action. Boer, African, civilian, motive, dialogue, and escape-detail claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten because the episode backfills Churchill's early formation and opens a bounded Boer War branch; downstream synthesis refresh only reads it.
+
 ## [2026-09-30] ingest | AMA #1: Leveraging Ultradian Cycles, How to Protect Your Brain, Seed Oils Examined and More
 
 Added source `ama-1-leveraging-ultradian-cycles-how-to-protect-your-brain-seed-oils-examined-and-more-scim2378383211`; created `NatureExposureHealthEvidence`; and resynthesized `MorningLightCircadianAnchoring` from its complete preserved evidence inventory. Core synthesis: outdoor nature is a multi-variable exposure whose practical value does not prove any one mechanism; morning outdoor light has the episode's strongest support, while broad nature outcomes, grounding, negative ionization, forest bathing, indoor plants, exact doses, and named mechanisms remain source-scoped or qualified. No settled contradiction was adopted. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -26071,6 +26075,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-30] ingest | Psychedelics & Neurostimulation for Brain Rewiring | Dr. Nolan Williams
 
 Added source `psychedelics-neurostimulation-for-brain-rewiring-dr-nolan-williams-scim3664218578`; created `DepressionChronotherapy`; and resynthesized `NolanWilliams`, `TranscranialMagneticStimulationForDepression`, `StanfordNeuromodulationTherapy`, and `CircuitBasedPsychiatry` from their complete preserved evidence inventories. Core synthesis: depression interventions are better distinguished by circuit, timing, individualized target, dose, patient state, and clinical supervision than by a simple chemical-imbalance story; the full interview also separates supervised sleep-light chronotherapy from unsafe self-directed sleep deprivation. No settled contradiction was adopted. SNT remission and durability, psychedelic response rates, ketamine-opioid interpretation, ibogaine and ayahuasca results, MDMA safety, and cannabinoid claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,260-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-30] lint | Wiki health check
 

@@ -1374,6 +1374,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "241-young-churchill-prisoner-and-fugitive-part-3-glt9087091726": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "242-french-history-on-film-glt2672520929": [
     {
       "key": "history",
@@ -40353,6 +40360,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "ImperialAdventurePublicMythmaking": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "ImperialBondservantGovernance": [
     {
       "key": "politics",
@@ -44116,6 +44130,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "JosephChamberlain": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "JosephPKennedySr": [
@@ -58456,6 +58477,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "PaulKruger": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "PaulSlovic": [

@@ -7,7 +7,8 @@ sources:
   - zai-feizhou-mai-kuaican-weishenme-kendeji-bi-maidanglao-geng-chidekai-1010601062
   - ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk
   - 398-yi-chang-meiguo-guancha-mantan-shijiebei-hongpai-nanfei-bairen-laogong-b28f7eaa-c801-4d5f-a6e5-35326d335df7
-last_updated: 2026-09-08
+  - 241-young-churchill-prisoner-and-fugitive-part-3-glt9087091726
+last_updated: 2026-09-30
 knowledge_schema: synthesis-v1
 ---
 
@@ -15,11 +16,13 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-South Africa appears in the wiki as a post-apartheid national setting, a commercial gateway into sub-Saharan fast food, a complex travel destination, and the origin country in a U.S. white-migrant-labor controversy.
+South Africa appears in the wiki as the historical setting of Boer-British imperial conflict, a post-apartheid national project, a commercial gateway into sub-Saharan fast food, a complex travel destination, and the origin country in a U.S. white-migrant-labor controversy.
 
 ## Current Profile
 
-One layer defines South Africa through the transition from [[Apartheid|apartheid]] rule toward a negotiated multiracial democracy. Rugby, the [[Springboks]], and the national anthem become public instruments through which the state tries to make reconciliation visible to black South Africans, [[Afrikaners]], and global audiences at the [[RugbyWorldCup1995|1995 Rugby World Cup]].
+The earliest historical layer enters through the [[BoerWar]]. [[241-young-churchill-prisoner-and-fugitive-part-3-glt9087091726]] presents southern Africa as a field where settler republics, British expansion, outlander politics, gold, diamonds, and imperial geography interacted. It also shows British conventional power struggling against mobile Boer commandos and turns [[WinstonChurchill]]'s captivity and escape into an imperial celebrity story.
+
+A later layer defines South Africa through the transition from [[Apartheid|apartheid]] rule toward a negotiated multiracial democracy. Rugby, the [[Springboks]], and the national anthem become public instruments through which the state tries to make reconciliation visible to black South Africans, [[Afrikaners]], and global audiences at the [[RugbyWorldCup1995|1995 Rugby World Cup]].
 
 A commercial-infrastructure layer now sits alongside the political-symbol layer. South Africa is treated as one of Africa's largest economies and as the practical base for multinational restaurant expansion: KFC opened there early, most of its sub-Saharan African stores are there, and its local poultry producers and operating talent support wider regional growth.
 
@@ -29,16 +32,18 @@ A U.S.-migration and identity-politics layer now shows white South Africans work
 
 ## Key Characteristics
 
-- Post-apartheid state trying to turn political transition into shared national symbolism.
+- Historical region where Boer republics, British expansion, mineral wealth, and commando warfare exposed both imperial motives and the limits of conventional power, while African populations remain marginalized in the current war source.
 - Society marked by the legacy of [[Apartheid|apartheid]] as a total system of racial ordering.
-- Site of [[NelsonMandela]]'s strategy of retaining and reframing former enemy symbols rather than abolishing all of them.
-- National anthem settlement built by fusing [[NkosiSikelelIAfrika|Nkosi Sikelel' iAfrika]] with [[DieStemVanSuidAfrika|Die Stem]] across five languages.
+- Site of [[NelsonMandela]]'s strategy of retaining and reframing former enemy symbols, including an anthem that fused [[NkosiSikelelIAfrika|Nkosi Sikelel' iAfrika]] with [[DieStemVanSuidAfrika|Die Stem]] across five languages.
 - Fast-food expansion base where KFC's chicken menu, poultry supply, and early store network outpace McDonald's.
 - Complex destination where travel reward depends on safety preparation and historical attention.
 - Origin country in a U.S. debate where white South African workers become both migrant laborers and symbols in right-wing grievance politics.
 
 ## Evidence
 
+- Imperial conflict: [[241-young-churchill-prisoner-and-fugitive-part-3-glt9087091726]] connects gold, diamonds, outlander grievances, the Jameson Raid, Rhodes's territorial ambition, British troop pressure, and Kruger's declaration of war.
+- Military adaptation: [[241-young-churchill-prisoner-and-fugitive-part-3-glt9087091726]] contrasts mobile, well-armed Boer commandos with a ponderous British army.
+- Public mythology: [[241-young-churchill-prisoner-and-fugitive-part-3-glt9087091726]] uses Churchill's Pretoria escape and Durban reception to show the region becoming a stage for British imperial celebrity.
 - Political transition: [[682-south-africa-mandela-and-the-death-of-apartheid-part-6-glt6535658080]] places the episode after the 1994 multiracial election that made [[NelsonMandela]] president.
 - Apartheid legacy: [[682-south-africa-mandela-and-the-death-of-apartheid-part-6-glt6535658080]] describes apartheid as racial segregation across housing, love, public space, education, and opportunity.
 - Rugby symbolism: [[682-south-africa-mandela-and-the-death-of-apartheid-part-6-glt6535658080]] says the [[Springboks]] had become an emblem of apartheid to many black South Africans.
@@ -53,16 +58,20 @@ A U.S.-migration and identity-politics layer now shows white South Africans work
 
 ## Qualifications
 
-The page is still source-bounded. Travel observations about crime, education gaps, corruption, migration, work habits, and racialized labor patterns are not a full national diagnosis. U.S.-based reporting on white South African workers and political narratives should not be treated as a legal or statistical account of South African refugee eligibility.
+The page is still source-bounded. The Boer War episode is Churchill-centered and gives limited African, Boer civilian, and longer-war perspectives; its account of mineral and strategic motives is interpretive rather than a complete diplomatic-economic history. Travel observations about crime, education gaps, corruption, migration, work habits, and racialized labor patterns are not a full national diagnosis. U.S.-based reporting on white South African workers and political narratives should not be treated as a legal or statistical account of South African refugee eligibility.
 
 ## What Changed
 
-- Added South Africa as a complex travel destination where scenery, wildlife, safety routines, museum memory, and post-apartheid inequality are experienced together.
-- Added the U.S.-migration layer where white South Africans become seasonal farm workers and symbols in a white-victimhood narrative.
+- Extended the profile backward through the Boer War, adding imperial mineral politics, settler-republic conflict, military adaptation, and Churchill's celebrity formation.
 
 ## Relationships
 
 - [[NelsonMandela]] - president whose reconciliation strategy defines the current page.
+- [[BoerWar]] - imperial and settler conflict opening the page's current historical evidence.
+- [[WinstonChurchill]] - British captive and fugitive whose escape became an imperial public story.
+- [[CecilRhodes]] - mining and expansion figure connecting resources to territorial ambition.
+- [[PaulKruger]] - Boer president confronting British pressure in the Transvaal.
+- [[ImperialWarResourceMotive]] - framework for distinguishing stated grievance from resource and strategic stakes.
 - [[Apartheid]] - racial system whose collapse creates the post-apartheid settlement problem.
 - [[Afrikaners]] - white South African community whose rugby symbolism Mandela tries to include.
 - [[AfricanNationalCongress]] - liberation movement and governing party in the episode's transition frame.

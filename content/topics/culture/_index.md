@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2956
+topic_total_pages: 2957
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1492,6 +1492,9 @@ topic_concepts:
   - key: "ImperialAdventureFiction"
     title: "Imperial Adventure Fiction"
     url: "/wiki/concepts/imperialadventurefiction/"
+  - key: "ImperialAdventurePublicMythmaking"
+    title: "Imperial Adventure Public Mythmaking"
+    url: "/wiki/concepts/imperialadventurepublicmythmaking/"
   - key: "ImperialDestinyHumanCost"
     title: "Imperial Destiny and Human Cost"
     url: "/wiki/concepts/imperialdestinyhumancost/"

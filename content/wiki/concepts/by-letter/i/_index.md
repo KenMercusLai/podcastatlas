@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 8979
+wiki_total_pages: 8981
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -128,6 +128,9 @@ wiki_pages:
   - key: "ImperialAdventureFiction"
     title: "Imperial Adventure Fiction"
     url: "/wiki/concepts/imperialadventurefiction/"
+  - key: "ImperialAdventurePublicMythmaking"
+    title: "Imperial Adventure Public Mythmaking"
+    url: "/wiki/concepts/imperialadventurepublicmythmaking/"
   - key: "ImperialBurialLegitimacy"
     title: "Imperial Burial Legitimacy / 帝后合葬名分"
     url: "/wiki/concepts/imperialburiallegitimacy/"
@@ -209,6 +212,9 @@ wiki_pages:
   - key: "ImperialTourPoliticalTheater"
     title: "Imperial Tour Political Theater / 帝国巡游政治剧场"
     url: "/wiki/concepts/imperialtourpoliticaltheater/"
+  - key: "ImperialWarResourceMotive"
+    title: "Imperial War Resource Motive"
+    url: "/wiki/concepts/imperialwarresourcemotive/"
   - key: "ImpermanenceAndNoSelf"
     title: "Impermanence And No-Self"
     url: "/wiki/concepts/impermanenceandnoself/"
