@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 8910
+wiki_total_pages: 8915
 wiki_pages:
   - key: "IBDPatientEducationAndPeerSupport"
     title: "IBD Patient Education and Peer Support / IBD患者教育与同伴支持"
@@ -821,6 +821,9 @@ wiki_pages:
   - key: "InvasiveSpeciesMoralization"
     title: "Invasive Species Moralization / 外來種道德化"
     url: "/wiki/concepts/invasivespeciesmoralization/"
+  - key: "InventedTradition"
+    title: "Invented Tradition"
+    url: "/wiki/concepts/inventedtradition/"
   - key: "InventoryCycle"
     title: "Inventory Cycle / 库存周期"
     url: "/wiki/concepts/inventorycycle/"

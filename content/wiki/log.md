@@ -25800,3 +25800,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-30] ingest | 264: Mexico: Day of the Dead
+
+Added source `264-mexico-day-of-the-dead-glt9022174156`; created `PlutarcoEliasCalles`, `LazaroCardenas`, `JoseGuadalupePosada`, `DiegoRivera`, `LaCatrina`, `DayOfTheDead`, `InventedTradition`, `MexicanPostRevolutionaryCulturalNationalism`, `FilmToFestivalFeedback`, and `CristeroWar`; and resynthesized `Mexico` from its preserved evidence inventory. Core synthesis: Dia de Muertos is best treated here as a layered tradition joining Catholic-Iberian ritual and colonial foodways to Indigenous materials, political skeleton art, post-revolutionary anti-clerical nationalism, and modern media, while the specific Mexico City parade shown in *Spectre* became real only after the film. No settled contradiction was adopted. Pre-Hispanic continuity, 1930s invention, Cristero death and priest figures, food-origin dating, and parade attendance remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

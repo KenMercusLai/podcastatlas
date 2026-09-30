@@ -39319,6 +39319,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/crispusattucks/"
     },
+    "CristeroWar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9022174156 [GLT9022174156].md",
+          "key": "264-mexico-day-of-the-dead-glt9022174156",
+          "show": "The Rest Is History",
+          "title": "264: Mexico: Day of the Dead",
+          "url": "/wiki/sources/264-mexico-day-of-the-dead-glt9022174156/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/cristerowar/"
+    },
     "CriticalPathMethodPersonalPlanning": {
       "episode_count": 1,
       "show_count": 1,
@@ -42752,6 +42768,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/daynightlightmentalhealth/"
     },
+    "DayOfTheDead": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9022174156 [GLT9022174156].md",
+          "key": "264-mexico-day-of-the-dead-glt9022174156",
+          "show": "The Rest Is History",
+          "title": "264: Mexico: Day of the Dead",
+          "url": "/wiki/sources/264-mexico-day-of-the-dead-glt9022174156/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/dayofthedead/"
+    },
     "DayOfTheTiles": {
       "episode_count": 1,
       "show_count": 1,
@@ -45392,6 +45424,22 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/entities/diegobohorquez/"
+    },
+    "DiegoRivera": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9022174156 [GLT9022174156].md",
+          "key": "264-mexico-day-of-the-dead-glt9022174156",
+          "show": "The Rest Is History",
+          "title": "264: Mexico: Day of the Dead",
+          "url": "/wiki/sources/264-mexico-day-of-the-dead-glt9022174156/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/diegorivera/"
     },
     "DiegoVelazquezDeCuellar": {
       "episode_count": 2,
@@ -62710,6 +62758,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/concepts/filibusterminorityrights/"
+    },
+    "FilmToFestivalFeedback": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9022174156 [GLT9022174156].md",
+          "key": "264-mexico-day-of-the-dead-glt9022174156",
+          "show": "The Rest Is History",
+          "title": "264: Mexico: Day of the Dead",
+          "url": "/wiki/sources/264-mexico-day-of-the-dead-glt9022174156/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/filmtofestivalfeedback/"
     },
     "FinDeSiecleViennaCrisisReading": {
       "episode_count": 2,
@@ -91016,6 +91080,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/invasivespeciesmoralization/"
     },
+    "InventedTradition": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9022174156 [GLT9022174156].md",
+          "key": "264-mexico-day-of-the-dead-glt9022174156",
+          "show": "The Rest Is History",
+          "title": "264: Mexico: Day of the Dead",
+          "url": "/wiki/sources/264-mexico-day-of-the-dead-glt9022174156/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/inventedtradition/"
+    },
     "InventoryCycle": {
       "episode_count": 1,
       "show_count": 1,
@@ -96777,6 +96857,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/entities/joseangelpereira/"
     },
+    "JoseGuadalupePosada": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9022174156 [GLT9022174156].md",
+          "key": "264-mexico-day-of-the-dead-glt9022174156",
+          "show": "The Rest Is History",
+          "title": "264: Mexico: Day of the Dead",
+          "url": "/wiki/sources/264-mexico-day-of-the-dead-glt9022174156/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/joseguadalupeposada/"
+    },
     "JoseLopezRega": {
       "episode_count": 1,
       "show_count": 1,
@@ -100372,6 +100468,22 @@
       "updated": "2026-09-15",
       "url": "/wiki/entities/lvmh/"
     },
+    "LaCatrina": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9022174156 [GLT9022174156].md",
+          "key": "264-mexico-day-of-the-dead-glt9022174156",
+          "show": "The Rest Is History",
+          "title": "264: Mexico: Day of the Dead",
+          "url": "/wiki/sources/264-mexico-day-of-the-dead-glt9022174156/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/lacatrina/"
+    },
     "LaIsabela": {
       "episode_count": 1,
       "show_count": 1,
@@ -101673,6 +101785,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/laynenorton/"
+    },
+    "LazaroCardenas": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9022174156 [GLT9022174156].md",
+          "key": "264-mexico-day-of-the-dead-glt9022174156",
+          "show": "The Rest Is History",
+          "title": "264: Mexico: Day of the Dead",
+          "url": "/wiki/sources/264-mexico-day-of-the-dead-glt9022174156/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/lazarocardenas/"
     },
     "LeCorbusier": {
       "episode_count": 1,
@@ -119369,6 +119497,52 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/mexicaempire/"
+    },
+    "MexicanPostRevolutionaryCulturalNationalism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9022174156 [GLT9022174156].md",
+          "key": "264-mexico-day-of-the-dead-glt9022174156",
+          "show": "The Rest Is History",
+          "title": "264: Mexico: Day of the Dead",
+          "url": "/wiki/sources/264-mexico-day-of-the-dead-glt9022174156/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/mexicanpostrevolutionaryculturalnationalism/"
+    },
+    "Mexico": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_703b184afdfd58f0b2a7bbfd6feeaec2_27253518 [default.mp3_ywr3ahjkcgo_703b184afdfd58f0b2a7bbfd6feeaec2_27253518].md",
+          "key": "big-lettuce-meets-small-intestine",
+          "show": "Planet Money",
+          "title": "Big Lettuce meets Small Intestine",
+          "url": "/wiki/sources/big-lettuce-meets-small-intestine/"
+        },
+        {
+          "episode_file": "vol.128.关税战下一步走向何方？美国人民如何看待特朗普“百日新政”？｜ 狂喜播客节·对话仲树&Talich [ltIVoQHuE1t_Q2EJjLZLEnorMkhb].md",
+          "key": "vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb",
+          "show": "起朱楼宴宾客",
+          "title": "vol.128.关税战下一步走向何方？美国人民如何看待特朗普“百日新政”？| 狂喜播客节·对话仲树&Talich",
+          "url": "/wiki/sources/vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb/"
+        },
+        {
+          "episode_file": "GLT9022174156 [GLT9022174156].md",
+          "key": "264-mexico-day-of-the-dead-glt9022174156",
+          "show": "The Rest Is History",
+          "title": "264: Mexico: Day of the Dead",
+          "url": "/wiki/sources/264-mexico-day-of-the-dead-glt9022174156/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/mexico/"
     },
     "MiTangQiangLeader": {
       "episode_count": 7,
@@ -137389,6 +137563,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/plinytheyounger/"
+    },
+    "PlutarcoEliasCalles": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9022174156 [GLT9022174156].md",
+          "key": "264-mexico-day-of-the-dead-glt9022174156",
+          "show": "The Rest Is History",
+          "title": "264: Mexico: Day of the Dead",
+          "url": "/wiki/sources/264-mexico-day-of-the-dead-glt9022174156/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/plutarcoeliascalles/"
     },
     "PodcastAuthenticityBoundary": {
       "episode_count": 4,

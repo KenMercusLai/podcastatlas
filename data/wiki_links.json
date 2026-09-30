@@ -891,6 +891,10 @@
     "title": "264.库克的道德锚点｜过去15年，库克给苹果留下了什么？",
     "url": "/wiki/sources/264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0/"
   },
+  "264-mexico-day-of-the-dead-glt9022174156": {
+    "title": "264: Mexico: Day of the Dead",
+    "url": "/wiki/sources/264-mexico-day-of-the-dead-glt9022174156/"
+  },
   "265-saudi-arabia-the-mystery-of-the-kaaba-glt1528147434": {
     "title": "265: Saudi Arabia: The Mystery of the Kaaba",
     "url": "/wiki/sources/265-saudi-arabia-the-mystery-of-the-kaaba-glt1528147434/"
@@ -18707,6 +18711,10 @@
     "title": "Crispus Attucks",
     "url": "/wiki/entities/crispusattucks/"
   },
+  "CristeroWar": {
+    "title": "Cristero War",
+    "url": "/wiki/concepts/cristerowar/"
+  },
   "CristianoRonaldo": {
     "title": "Cristiano Ronaldo",
     "url": "/wiki/entities/cristianoronaldo/"
@@ -20287,6 +20295,10 @@
     "title": "Day-Night Light and Mental Health",
     "url": "/wiki/concepts/daynightlightmentalhealth/"
   },
+  "DayOfTheDead": {
+    "title": "Day of the Dead",
+    "url": "/wiki/concepts/dayofthedead/"
+  },
   "DayOfTheTiles": {
     "title": "Day of the Tiles",
     "url": "/wiki/entities/dayofthetiles/"
@@ -21226,6 +21238,10 @@
   "DiegoDrakeAlly": {
     "title": "Diego (Drake Ally)",
     "url": "/wiki/entities/diegodrakeally/"
+  },
+  "DiegoRivera": {
+    "title": "Diego Rivera",
+    "url": "/wiki/entities/diegorivera/"
   },
   "DiegoVelazquezDeCuellar": {
     "title": "Diego Velazquez de Cuellar",
@@ -27142,6 +27158,10 @@
   "FilmSetPowerAndAbuse": {
     "title": "Film Set Power And Abuse",
     "url": "/wiki/concepts/filmsetpowerandabuse/"
+  },
+  "FilmToFestivalFeedback": {
+    "title": "Film-to-Festival Feedback",
+    "url": "/wiki/concepts/filmtofestivalfeedback/"
   },
   "FilterBubble": {
     "title": "Filter Bubble / 过滤气泡",
@@ -37543,6 +37563,10 @@
     "title": "Invasive Species Moralization / 外來種道德化",
     "url": "/wiki/concepts/invasivespeciesmoralization/"
   },
+  "InventedTradition": {
+    "title": "Invented Tradition",
+    "url": "/wiki/concepts/inventedtradition/"
+  },
   "InventoryCycle": {
     "title": "Inventory Cycle / 库存周期",
     "url": "/wiki/concepts/inventorycycle/"
@@ -40115,6 +40139,10 @@
     "title": "Jose Armas",
     "url": "/wiki/entities/josearmas/"
   },
+  "JoseGuadalupePosada": {
+    "title": "Jose Guadalupe Posada",
+    "url": "/wiki/entities/joseguadalupeposada/"
+  },
   "JoseLopezRega": {
     "title": "José López Rega",
     "url": "/wiki/entities/joselopezrega/"
@@ -41891,6 +41919,10 @@
     "title": "LVMH",
     "url": "/wiki/entities/lvmh/"
   },
+  "LaCatrina": {
+    "title": "La Catrina",
+    "url": "/wiki/entities/lacatrina/"
+  },
   "LaIsabela": {
     "title": "La Isabela",
     "url": "/wiki/entities/laisabela/"
@@ -42542,6 +42574,10 @@
   "Lazada": {
     "title": "Lazada",
     "url": "/wiki/entities/lazada/"
+  },
+  "LazaroCardenas": {
+    "title": "Lazaro Cardenas",
+    "url": "/wiki/entities/lazarocardenas/"
   },
   "LazyBearSports": {
     "title": "懒熊体育 / LazyBear Sports",
@@ -49038,6 +49074,10 @@
   "MexicaEmpire": {
     "title": "Mexica (Aztec) Empire",
     "url": "/wiki/entities/mexicaempire/"
+  },
+  "MexicanPostRevolutionaryCulturalNationalism": {
+    "title": "Mexican Post-Revolutionary Cultural Nationalism",
+    "url": "/wiki/concepts/mexicanpostrevolutionaryculturalnationalism/"
   },
   "Mexico": {
     "title": "Mexico",
@@ -56926,6 +56966,10 @@
   "Pluralsight": {
     "title": "Pluralsight",
     "url": "/wiki/entities/pluralsight/"
+  },
+  "PlutarcoEliasCalles": {
+    "title": "Plutarco Elias Calles",
+    "url": "/wiki/entities/plutarcoeliascalles/"
   },
   "PodcastAsAsynchronousMedia": {
     "title": "Podcast As Asynchronous Media",

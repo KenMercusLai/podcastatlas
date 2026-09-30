@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [264: Mexico: Day of the Dead](sources/264-mexico-day-of-the-dead-glt9022174156.md) — The Rest Is History episode on Dia de Muertos's Catholic-Iberian genealogy, Indigenous and Mexican layering, post-revolutionary national recoding, political skeleton art, and a film-created parade becoming civic ritual.
 - [265: Saudi Arabia: The Mystery of the Kaaba](sources/265-saudi-arabia-the-mystery-of-the-kaaba-glt1528147434.md) — The Rest Is History episode on the Kaaba's Muslim sacred history, sparse early external evidence, late-seventh-century reconstruction, and the limits of secular historical interpretation.
 - [E254｜超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？](sources/e254-chaoji-eerninuo-laile-womende-richang-suoxu-zhenhui-yin-ta-zhangjia-ma-0b644f51-461c-4ddb-b707-d2a39b9a7d80.md) — 硅谷101 episode on conditional El Niño commodity shocks, crop-stage and inventory exposure, retail pass-through, fishmeal, producer risk controls, and Panama Canal drought disruption.
 - [266: South Korea: The Riddle of Hwang Jini](sources/266-south-korea-the-riddle-of-hwang-jini-glt1910695360.md) — The Rest Is History episode on Hwang Jini, gisaeng status and training, sijo poetry, legend-heavy biography, and divided modern Korean memory.
@@ -3270,6 +3271,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Using Caffeine to Optimize Mental & Physical Performance](sources/using-caffeine-to-optimize-mental-physical-performance-scim1210768101.md) — Huberman Lab solo episode on adenosine blockade, caffeine timing and dose, performance, memory, learned reinforcement, tolerance, sleep, and stacking risks.
 
 ## Entities
+- [Plutarco Elias Calles](entities/PlutarcoEliasCalles.md) — Post-revolutionary president whose anti-clerical state-building forms the political background to the episode's festival-reinvention argument.
+- [Lazaro Cardenas](entities/LazaroCardenas.md) — President associated by the episode with strong 1930s state promotion of Dia de Muertos as national tradition.
+- [Jose Guadalupe Posada](entities/JoseGuadalupePosada.md) — Printmaker whose satirical calaveras supply the modern political-art genealogy of La Catrina.
+- [Diego Rivera](entities/DiegoRivera.md) — Muralist who recontextualized Posada's skeleton figure within post-revolutionary Mexican national art.
+- [La Catrina](entities/LaCatrina.md) — Elegant female skeleton whose meaning layers class satire, muralism, nationalism, and modern festival iconography.
 - [Kaaba](entities/Kaaba.md) — Islam's holiest sanctuary, examined through ritual centrality, sacred tradition, sparse early evidence, and contested reconstruction.
 - [Mecca](entities/Mecca.md) — Islamic pilgrimage city whose sanctuary, contested early attestation, and political custody anchor the episode.
 - [Muhammad](entities/Muhammad.md) — Source-bounded profile of the prophet's revelation, migration, return to Mecca, and reconsecration of the Kaaba.
@@ -9885,7 +9891,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Talich](entities/Talich.md) — Live vol.128 participant explaining Trump victory-narrative bargaining, consumer tariff pressure, TikTok leverage, DOGE/OMB agency control, and Fed succession risk.
 - [关亚迪 / Guan Yadi](entities/GuanYadiQizhulou.md) — Live-session moderator for the vol.128 狂喜播客节 discussion on tariff war and Trump first-hundred-days politics.
 - [Office of Management and Budget / OMB](entities/OfficeOfManagementAndBudget.md) — U.S. executive-office institution used by vol.128 to explain regulatory review and independent-agency control pressure.
-- [Mexico](entities/Mexico.md) — North American tariff counterparty and possible rerouting node in vol.128's tariff-war and gray-chain discussion.
+- [Mexico](entities/Mexico.md) — Country represented through tariff and produce-supply exposure plus the layered political, religious, artistic, and media history of Dia de Muertos.
 - [Fufeng Group / 富丰集团](entities/FufengGroup.md) — Chinese biochemical company used as the central case for compressed private-enterprise evolution.
 - [Inovance Technology / 汇川技术](entities/InovanceTechnology.md) — Chinese automation, EV, and robotics company showing domestic substitution, cluster scale, and infrastructure-demand exposure.
 - [Mindray Medical / 迈瑞医疗](entities/MindrayMedical.md) — Chinese medical-device and digital-health company linking procurement pressure to integrated device, IT, and AI platform evolution.
@@ -14806,6 +14812,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Wieliczka Salt Mine](entities/WieliczkaSaltMine.md) — Royal salt industry transformed into an underground religious-art, tourism, and national-memory complex.
 
 ## Concepts
+- [Day of the Dead](concepts/DayOfTheDead.md) — Layered Mexican commemorative festival joining Catholic-Iberian ritual, Indigenous materials, colonial foodways, national recoding, political art, and media spectacle.
+- [Invented Tradition](concepts/InventedTradition.md) — Selective assembly or formalization of practices presented through continuity with an older past, without implying that their social meaning is unreal.
+- [Mexican Post-Revolutionary Cultural Nationalism](concepts/MexicanPostRevolutionaryCulturalNationalism.md) — State-supported recoding of Indigenous symbols, art, ritual, and anti-clerical identity into a modern national culture.
+- [Film-to-Festival Feedback](concepts/FilmToFestivalFeedback.md) — Process by which stylized screen spectacle becomes a model for later real-world public ritual.
+- [Cristero War](concepts/CristeroWar.md) — Armed Catholic resistance to post-revolutionary anti-clerical policy and political context for later cultural recoding.
 - [Sacred History Source Criticism](concepts/SacredHistorySourceCriticism.md) — Method separating religious meaning, textual layers, external attestation, political context, and secular historical limits.
 - [Sacred Site Political Legitimacy](concepts/SacredSitePoliticalLegitimacy.md) — Authority and liability created through custody, protection, rebuilding, and administration of a revered sanctuary.
 - [Gisaeng Social Institution](concepts/Gisaeng.md) — Korean institution joining low hereditary status and coercive service to artistic education, elite access, and bounded cultural agency.

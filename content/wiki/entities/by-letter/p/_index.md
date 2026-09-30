@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 11507
+wiki_total_pages: 11512
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -650,6 +650,9 @@ wiki_pages:
   - key: "Pluralsight"
     title: "Pluralsight"
     url: "/wiki/entities/pluralsight/"
+  - key: "PlutarcoEliasCalles"
+    title: "Plutarco Elias Calles"
+    url: "/wiki/entities/plutarcoeliascalles/"
   - key: "Podwise"
     title: "Podwise"
     url: "/wiki/entities/podwise/"

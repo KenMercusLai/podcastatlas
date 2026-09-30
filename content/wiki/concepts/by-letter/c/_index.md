@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8910
+wiki_total_pages: 8915
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2408,6 +2408,9 @@ wiki_pages:
   - key: "CrisisValidatedConspiracyPolitics"
     title: "Crisis-Validated Conspiracy Politics"
     url: "/wiki/concepts/crisisvalidatedconspiracypolitics/"
+  - key: "CristeroWar"
+    title: "Cristero War"
+    url: "/wiki/concepts/cristerowar/"
   - key: "CriticalMineralOfftakeIndustrialPolicy"
     title: "Critical Mineral Offtake Industrial Policy"
     url: "/wiki/concepts/criticalmineralofftakeindustrialpolicy/"

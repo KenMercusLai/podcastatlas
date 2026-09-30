@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 11507
+wiki_total_pages: 11512
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -23,6 +23,9 @@ wiki_pages:
   - key: "LDesign"
     title: "L-Design"
     url: "/wiki/entities/ldesign/"
+  - key: "LaCatrina"
+    title: "La Catrina"
+    url: "/wiki/entities/lacatrina/"
   - key: "LaIsabela"
     title: "La Isabela"
     url: "/wiki/entities/laisabela/"
@@ -200,6 +203,9 @@ wiki_pages:
   - key: "Lazada"
     title: "Lazada"
     url: "/wiki/entities/lazada/"
+  - key: "LazaroCardenas"
+    title: "Lazaro Cardenas"
+    url: "/wiki/entities/lazarocardenas/"
   - key: "LeVanElgindi"
     title: "Le Van Elgindi"
     url: "/wiki/entities/levanelgindi/"

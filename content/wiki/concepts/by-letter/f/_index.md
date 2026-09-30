@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 8910
+wiki_total_pages: 8915
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -446,6 +446,9 @@ wiki_pages:
   - key: "FilmSetPowerAndAbuse"
     title: "Film Set Power And Abuse"
     url: "/wiki/concepts/filmsetpowerandabuse/"
+  - key: "FilmToFestivalFeedback"
+    title: "Film-to-Festival Feedback"
+    url: "/wiki/concepts/filmtofestivalfeedback/"
   - key: "FilterBubble"
     title: "Filter Bubble / 过滤气泡"
     url: "/wiki/concepts/filterbubble/"

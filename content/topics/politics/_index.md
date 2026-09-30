@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2836
+topic_total_pages: 2838
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5900,6 +5900,9 @@ topic_entities:
   - key: "LawOfSuspects"
     title: "Law of Suspects"
     url: "/wiki/entities/lawofsuspects/"
+  - key: "LazaroCardenas"
+    title: "Lazaro Cardenas"
+    url: "/wiki/entities/lazarocardenas/"
   - key: "Lebanon"
     title: "Lebanon"
     url: "/wiki/entities/lebanon/"
@@ -6326,6 +6329,9 @@ topic_entities:
   - key: "PirateWires"
     title: "Pirate Wires"
     url: "/wiki/entities/piratewires/"
+  - key: "PlutarcoEliasCalles"
+    title: "Plutarco Elias Calles"
+    url: "/wiki/entities/plutarcoeliascalles/"
   - key: "PolisarioFront"
     title: "Polisario Front"
     url: "/wiki/entities/polisariofront/"
