@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 11568
+wiki_total_pages: 11571
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -554,6 +554,9 @@ wiki_pages:
   - key: "PierrePlantard"
     title: "Pierre Plantard"
     url: "/wiki/entities/pierreplantard/"
+  - key: "PierreCharlesVilleneuve"
+    title: "Pierre-Charles Villeneuve"
+    url: "/wiki/entities/pierrecharlesvilleneuve/"
   - key: "PierreSimonLaplace"
     title: "Pierre-Simon Laplace / 拉普拉斯"
     url: "/wiki/entities/pierresimonlaplace/"

@@ -871,6 +871,10 @@
     "title": "245. 怒江春日，秘境初探",
     "url": "/wiki/sources/245-nujiang-chunri-mijing-chutan-8221838951-646453/"
   },
+  "245-trafalgar-victory-part-3-glt4217731619": {
+    "title": "245. Trafalgar: Victory (Part 3)",
+    "url": "/wiki/sources/245-trafalgar-victory-part-3-glt4217731619/"
+  },
   "246-hangzhou-bowuguan-yiwei-hangzhi-haojiu-mei-kan-guo-zheme-tuijian-de-zhanlan-le-8217911423-973793": {
     "title": "246. 杭州博物馆「一苇杭之」，好久没看过这么推荐的展览了",
     "url": "/wiki/sources/246-hangzhou-bowuguan-yiwei-hangzhi-haojiu-mei-kan-guo-zheme-tuijian-de-zhanlan-le-8217911423-973793/"
@@ -9918,6 +9922,10 @@
   "BattleOfTheBogside": {
     "title": "Battle of the Bogside",
     "url": "/wiki/entities/battleofthebogside/"
+  },
+  "BattleOfTrafalgar": {
+    "title": "Battle of Trafalgar",
+    "url": "/wiki/entities/battleoftrafalgar/"
   },
   "BattleOfTrebia": {
     "title": "Battle of Trebia / 特雷比亚河战役",
@@ -19402,6 +19410,10 @@
   "CustomerValueBasedPricing": {
     "title": "Customer Value-Based Pricing / 消费者价值定价",
     "url": "/wiki/concepts/customervaluebasedpricing/"
+  },
+  "CuthbertCollingwood": {
+    "title": "Cuthbert Collingwood",
+    "url": "/wiki/entities/cuthbertcollingwood/"
   },
   "CyberAvatars": {
     "title": "Cyber Avatars",
@@ -52055,6 +52067,10 @@
     "title": "《风之谷》 / Nausicaa of the Valley of the Wind",
     "url": "/wiki/entities/nausicaaofthevalleyofthewind/"
   },
+  "NavalBreakthroughTactics": {
+    "title": "Naval Breakthrough Tactics",
+    "url": "/wiki/concepts/navalbreakthroughtactics/"
+  },
   "NavalShipbuildingThroughput": {
     "title": "Naval Shipbuilding Throughput",
     "url": "/wiki/concepts/navalshipbuildingthroughput/"
@@ -56950,6 +56966,10 @@
   "PierreBourdieu": {
     "title": "Pierre Bourdieu / 皮埃尔·布迪厄",
     "url": "/wiki/entities/pierrebourdieu/"
+  },
+  "PierreCharlesVilleneuve": {
+    "title": "Pierre-Charles Villeneuve",
+    "url": "/wiki/entities/pierrecharlesvilleneuve/"
   },
   "PierreLallement": {
     "title": "Pierre Lallement / 皮埃尔·拉勒芒",
@@ -65038,6 +65058,10 @@
   "SeaBeggars": {
     "title": "Sea Beggars",
     "url": "/wiki/entities/seabeggars/"
+  },
+  "SeaControlStateCapacity": {
+    "title": "Sea Control as State Capacity",
+    "url": "/wiki/concepts/seacontrolstatecapacity/"
   },
   "SeaLifeTrust": {
     "title": "Sea Life Trust",

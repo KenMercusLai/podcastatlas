@@ -4,45 +4,60 @@ type: entity
 tags: [person, british-navy, napoleonic-wars, relationships]
 sources:
   - 357-historical-love-island-the-sequel-glt7719682575
+  - 245-trafalgar-victory-part-3-glt4217731619
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-28
+last_updated: 2026-09-30
 ---
 
 # Horatio Nelson
 
 ## Overview
 
-Horatio Nelson is presented as a famous naval commander whose affair with Emma Hamilton makes him the episode's disruptive male “bombshell.”
+Horatio Nelson is presented across the current sources as a British naval commander whose tactical daring, public charisma, death at the [[BattleOfTrafalgar|Battle of Trafalgar]], and relationship with Emma Hamilton made him both a national hero and a durable celebrity figure.
 
 ## Current Profile
 
-[[357-historical-love-island-the-sequel-glt7719682575]] does not offer a full naval biography. It uses Nelson's celebrity, charisma, and history with Emma Hamilton to disrupt [[SirWilliamHamilton]]'s assigned relationship. Within the game, Nelson attracts broad interest but turns toward [[CatherineHoward]] because competitive desire and the wish to take what Hamilton has matter more than historical compatibility.
+The Trafalgar source supplies the military and memorial profile missing from the earlier comic treatment. Nelson communicated a two-column plan, placed himself visibly at the front of the attack, trusted captains to act once smoke and collision made detailed control impossible, and accepted severe approach risk to break the allied line. His fatal wound during victory joined duty, sacrifice, mourning, funeral ritual, and national myth. [[357-historical-love-island-the-sequel-glt7719682575]] shows the afterlife of that celebrity in miniature: it uses his charisma and affair with Emma Hamilton to make him a disruptive reality-show “bombshell” rather than offering serious naval biography.
 
 ## Key Characteristics
 
-- British naval hero whose fame supplies immediate contestant status.
-- Lover of Emma Hamilton despite her marriage to Sir William Hamilton.
-- Public figure associated with scandal as well as military reputation.
-- Cast as a disruptive late arrival rather than a fully developed biographical subject.
-- Assigned motives of rivalry and competitive desire within the episode's comic game.
+- Naval commander associated with a risk-heavy, intent-led two-column attack at Trafalgar.
+- Visible front-line leader whose conduct joined personal courage to extreme exposure.
+- Relied on preparation, morale, and trusted subordinate execution rather than continuous control.
+- Death during victory fused military reputation with duty, sacrifice, mourning, and national myth.
+- Celebrity also carried romantic scandal through his affair with Emma Hamilton and later comic retellings.
 
 ## Evidence
 
-- Celebrity role: [[357-historical-love-island-the-sequel-glt7719682575]] introduces Nelson as the male “bombshell” likely to attract all the women.
-- Hamilton triangle: [[357-historical-love-island-the-sequel-glt7719682575]] makes his history with Emma central to his power to destabilize the villa.
-- Final pairing: [[357-historical-love-island-the-sequel-glt7719682575]] pairs him with Catherine Howard after imagining attraction shaped by rivalry with Hamilton.
+### Command, tactical risk, and delegated intent
+
+- [[245-trafalgar-victory-part-3-glt4217731619]] describes Nelson's two-column plan, exposed approach, visible uniform, pre-battle signals, and reliance on captains once close action began.
+
+### Death, duty, and heroic memory
+
+- [[245-trafalgar-victory-part-3-glt4217731619]] follows Nelson's mortal wound, concern for the battle and his family, disputed last words, national mourning, and state funeral.
+
+### Romantic celebrity and comic afterlife
+
+- [[357-historical-love-island-the-sequel-glt7719682575]] uses Nelson's fame, charisma, and history with Emma Hamilton to introduce him as a male “bombshell” who disrupts [[SirWilliamHamilton]] and is paired with [[CatherineHoward]].
 
 ## Qualifications
 
-This page covers only the episode's relationship-based caricature, not Nelson's naval career, leadership, war record, marriage, politics, or wider historical legacy. Attributed romantic motives are part of the comic premise and are not settled biography.
+The current evidence remains selective: one source is a British-centered narrative of Trafalgar and the other is an intentionally anachronistic comedy. Exact dialogue, casualty totals, last words, Nelson's inner attitude toward death, technical comparisons, causal claims about Trafalgar, and romantic motives assigned by the game remain source-scoped. The admiration of courage and leadership must also remain beside the battle's brutality, imperial consequences, and the episode's acknowledgment of contemporary revulsion at Nelson's ferocity.
 
 ## What Changed
 
-- Created a narrowly source-bounded profile of Nelson as celebrity, lover, and disruptive reality-show entrant.
+- Replaced a narrowly romantic caricature with a profile centered on Trafalgar command, tactical risk, death, and memorial afterlife.
+- Reframed celebrity as the junction between naval achievement, heroic myth, charisma, and scandal.
+- Added moral and evidentiary qualifications around battle cost, empire, reported last words, and personal motives.
 
 ## Relationships
 
 - [[SirWilliamHamilton]] - husband of Emma Hamilton and the rival displaced by Nelson's affair.
 - [[CatherineHoward]] - final partner assigned to Nelson in the episode.
 - [[HistoricalFiguresAsRealityTVArchetypes]] - device that reduces Nelson's broader career to celebrity and romantic disruption.
-- [[CharlesIIOfEngland]] - fellow charismatic English figure cast through romantic unreliability.
+- [[BattleOfTrafalgar]] - victory where Nelson's command and death became inseparable from his public memory.
+- [[CuthbertCollingwood]] - trusted column commander who first broke the allied line.
+- [[PierreCharlesVilleneuve]] - opposing commander whose disordered formation Nelson's plan exploited.
+- [[NavalBreakthroughTactics]] - tactical pattern joining accepted exposure, line penetration, and local initiative.
+- [[SeaControlStateCapacity]] - institutional explanation that places Nelson's achievement within wider British capability.

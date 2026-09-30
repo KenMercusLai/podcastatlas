@@ -18358,6 +18358,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/battleofstiklestad/"
     },
+    "BattleOfTrafalgar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4217731619 [GLT4217731619].md",
+          "key": "245-trafalgar-victory-part-3-glt4217731619",
+          "show": "The Rest Is History",
+          "title": "245. Trafalgar: Victory (Part 3)",
+          "url": "/wiki/sources/245-trafalgar-victory-part-3-glt4217731619/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/battleoftrafalgar/"
+    },
     "BattleOfTrebia": {
       "episode_count": 1,
       "show_count": 1,
@@ -40987,6 +41003,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/concepts/customervaluebasedpricing/"
+    },
+    "CuthbertCollingwood": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4217731619 [GLT4217731619].md",
+          "key": "245-trafalgar-victory-part-3-glt4217731619",
+          "show": "The Rest Is History",
+          "title": "245. Trafalgar: Victory (Part 3)",
+          "url": "/wiki/sources/245-trafalgar-victory-part-3-glt4217731619/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/cuthbertcollingwood/"
     },
     "CyberCapableModelControls": {
       "episode_count": 2,
@@ -83708,9 +83740,9 @@
       "url": "/wiki/entities/horatiogates/"
     },
     "HoratioNelson": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7719682575 [GLT7719682575].md",
@@ -83718,9 +83750,16 @@
           "show": "The Rest Is History",
           "title": "357: Historical Love Island: The Sequel",
           "url": "/wiki/sources/357-historical-love-island-the-sequel-glt7719682575/"
+        },
+        {
+          "episode_file": "GLT4217731619 [GLT4217731619].md",
+          "key": "245-trafalgar-victory-part-3-glt4217731619",
+          "show": "The Rest Is History",
+          "title": "245. Trafalgar: Victory (Part 3)",
+          "url": "/wiki/sources/245-trafalgar-victory-part-3-glt4217731619/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-09-30",
       "url": "/wiki/entities/horationelson/"
     },
     "HormoneContextAggression": {
@@ -126729,6 +126768,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/naturelawlegaljustice/"
     },
+    "NavalBreakthroughTactics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4217731619 [GLT4217731619].md",
+          "key": "245-trafalgar-victory-part-3-glt4217731619",
+          "show": "The Rest Is History",
+          "title": "245. Trafalgar: Victory (Part 3)",
+          "url": "/wiki/sources/245-trafalgar-victory-part-3-glt4217731619/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/navalbreakthroughtactics/"
+    },
     "NavierStokesEquations": {
       "episode_count": 2,
       "show_count": 2,
@@ -138392,6 +138447,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/entities/picloram/"
+    },
+    "PierreCharlesVilleneuve": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4217731619 [GLT4217731619].md",
+          "key": "245-trafalgar-victory-part-3-glt4217731619",
+          "show": "The Rest Is History",
+          "title": "245. Trafalgar: Victory (Part 3)",
+          "url": "/wiki/sources/245-trafalgar-victory-part-3-glt4217731619/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/pierrecharlesvilleneuve/"
     },
     "PierrePlantard": {
       "episode_count": 1,
@@ -156962,6 +157033,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/seabeggars/"
+    },
+    "SeaControlStateCapacity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4217731619 [GLT4217731619].md",
+          "key": "245-trafalgar-victory-part-3-glt4217731619",
+          "show": "The Rest Is History",
+          "title": "245. Trafalgar: Victory (Part 3)",
+          "url": "/wiki/sources/245-trafalgar-victory-part-3-glt4217731619/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/seacontrolstatecapacity/"
     },
     "SeanMackey": {
       "episode_count": 1,

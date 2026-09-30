@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 11568
+wiki_total_pages: 11571
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -1589,6 +1589,9 @@ wiki_pages:
   - key: "CurtisLiu"
     title: "Curtis Liu"
     url: "/wiki/entities/curtisliu/"
+  - key: "CuthbertCollingwood"
+    title: "Cuthbert Collingwood"
+    url: "/wiki/entities/cuthbertcollingwood/"
   - key: "CVCCapitalPartners"
     title: "CVC Capital Partners"
     url: "/wiki/entities/cvccapitalpartners/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 8966
+wiki_total_pages: 8968
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -338,6 +338,9 @@ wiki_pages:
   - key: "ScurvyNutritionInsight"
     title: "Scurvy Nutrition Insight"
     url: "/wiki/concepts/scurvynutritioninsight/"
+  - key: "SeaControlStateCapacity"
+    title: "Sea Control as State Capacity"
+    url: "/wiki/concepts/seacontrolstatecapacity/"
   - key: "SeaNetRocketRecovery"
     title: "Sea-Net Rocket Recovery"
     url: "/wiki/concepts/seanetrocketrecovery/"

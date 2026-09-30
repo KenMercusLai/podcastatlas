@@ -3299,6 +3299,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [The Science of Learning & Speaking Languages | Dr. Eddie Chang](sources/the-science-of-learning-speaking-languages-dr-eddie-chang-scim2227065926.md) — Full Huberman Lab interview on auditory critical periods, awake cortical mapping, epilepsy, distributed speech-language circuits, bilingual learning, and BRAVO speech neuroprosthetics.
 
+- [245. Trafalgar: Victory (Part 3)](sources/245-trafalgar-victory-part-3-glt4217731619.md) — The Rest Is History reconstruction of Trafalgar's two-column attack, close-range destruction, Nelson's death, storm aftermath, strategic meaning, and heroic myth.
+
 ## Entities
 - [Liz Truss](entities/LizTruss.md) — British prime minister whose 45-day tenure became a case of rapid policy and political-authority collapse.
 - [Kwasi Kwarteng](entities/KwasiKwarteng.md) — Truss's chancellor, associated with the mini-budget and the failed attempt to restore authority by dismissing a close ally.
@@ -14897,6 +14899,10 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Roger Berkowitz](entities/RogerBerkowitz.md) — Political theorist reconstructing Hannah Arendt's account of friendship, plurality, truth, and reciprocal persuasion.
 
+- [Battle of Trafalgar](entities/BattleOfTrafalgar.md) — 1805 naval victory synthesized through tactical risk, close-action destruction, Nelson's death, sea control, and contested national memory.
+- [Cuthbert Collingwood](entities/CuthbertCollingwood.md) — British column commander whose Royal Sovereign first penetrated the allied line at Trafalgar.
+- [Pierre-Charles Villeneuve](entities/PierreCharlesVilleneuve.md) — French allied-fleet commander whose reversal maneuver contributed to disorder before defeat at Trafalgar.
+
 ## Concepts
 - [Party-Membership Leadership Selection](concepts/PartyMembershipLeadershipSelection.md) — Tradeoff between wider internal participation and the representativeness, parliamentary support, and governing viability of party leaders.
 - [Political Authority Collapse Cascade](concepts/PoliticalAuthorityCollapseCascade.md) — Sequence in which policy failure, forced reversal, ally sacrifice, and elite defection reveal and accelerate a leader's loss of control.
@@ -23901,5 +23907,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Awake Cortical Mapping](concepts/AwakeCorticalMapping.md) — Function-preserving neurosurgical method using patient tasks and localized stimulation to identify critical tissue.
 - [Distributed Speech-Language Circuits](concepts/DistributedSpeechLanguageCircuits.md) — Network account replacing a single speech-center model with specialized auditory, motor, feedback, lexical, and semantic contributions.
 - [Social Immersion in Language Learning](concepts/SocialImmersionLanguageLearning.md) — Language-learning frame joining sustained exposure, live interaction, bilingual circuit overlap, and lifespan plasticity.
+
+- [Naval Breakthrough Tactics](concepts/NavalBreakthroughTactics.md) — Tactical pattern that exchanges approach exposure for line penetration, local advantage, and delegated close-action execution.
+- [Sea Control as State Capacity](concepts/SeaControlStateCapacity.md) — Framework connecting fiscal, administrative, industrial, and human systems to sustained maritime power.
 
 ## Syntheses

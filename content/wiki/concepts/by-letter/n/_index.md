@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 8966
+wiki_total_pages: 8968
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -122,6 +122,9 @@ wiki_pages:
   - key: "NatureLawLegalJustice"
     title: "Nature-Law / Legal-Justice Conflict / 自然法则与法律正义冲突"
     url: "/wiki/concepts/naturelawlegaljustice/"
+  - key: "NavalBreakthroughTactics"
+    title: "Naval Breakthrough Tactics"
+    url: "/wiki/concepts/navalbreakthroughtactics/"
   - key: "NavalShipbuildingThroughput"
     title: "Naval Shipbuilding Throughput"
     url: "/wiki/concepts/navalshipbuildingthroughput/"

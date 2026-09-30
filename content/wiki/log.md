@@ -26012,3 +26012,11 @@ Added source `246-the-fall-of-liz-truss-glt3484252092`; created `LizTruss`, `Kwa
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-30] ingest | 245. Trafalgar: Victory (Part 3)
+
+Added source `245-trafalgar-victory-part-3-glt4217731619`; created `BattleOfTrafalgar`, `CuthbertCollingwood`, `PierreCharlesVilleneuve`, `NavalBreakthroughTactics`, and `SeaControlStateCapacity`; and resynthesized `HoratioNelson` from its complete preserved two-source evidence inventory. Core synthesis: Trafalgar joined a deliberately exposed two-column approach to line penetration, close-range gunnery, trusted subordinate execution, and wider fiscal-administrative maritime capacity; Nelson's death fused victory with sacrifice and national myth, while casualties, storm loss, enemy courage, empire, and causal uncertainty qualify triumphalism. No settled contradiction was adopted. Casualty figures, last words, commander motives, technical comparisons, and the scale of Trafalgar's later geopolitical effects remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,253-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
