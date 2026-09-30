@@ -38852,9 +38852,9 @@
       "url": "/wiki/concepts/coronaryarterycalciummidlifescreening/"
     },
     "CoronationMassMediaTransformation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8755026279 [GLT8755026279].md",
@@ -38862,6 +38862,13 @@
           "show": "The Rest Is History",
           "title": "329: Coronations: Chaos, Ceremony and Empire (Part 3)",
           "url": "/wiki/sources/329-coronations-chaos-ceremony-and-empire-part-3-glt8755026279/"
+        },
+        {
+          "episode_file": "GLT2826379729 [GLT2826379729].md",
+          "key": "231-queen-elizabeth-ii-part-1-glt2826379729",
+          "show": "The Rest Is History",
+          "title": "231. Queen Elizabeth II (Part 1)",
+          "url": "/wiki/sources/231-queen-elizabeth-ii-part-1-glt2826379729/"
         }
       ],
       "updated": "2026-09-28",
@@ -52470,6 +52477,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/entities/edwardvi/"
     },
+    "EdwardVIII": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2826379729 [GLT2826379729].md",
+          "key": "231-queen-elizabeth-ii-part-1-glt2826379729",
+          "show": "The Rest Is History",
+          "title": "231. Queen Elizabeth II (Part 1)",
+          "url": "/wiki/sources/231-queen-elizabeth-ii-part-1-glt2826379729/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/edwardviii/"
+    },
     "EffectMeasuredPersonnelSelection": {
       "episode_count": 1,
       "show_count": 1,
@@ -53382,9 +53405,9 @@
       "url": "/wiki/entities/elizabethi/"
     },
     "ElizabethII": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT8755026279 [GLT8755026279].md",
@@ -53413,6 +53436,13 @@
           "show": "The Rest Is History",
           "title": "232. Queen Elizabeth II (Part 2)",
           "url": "/wiki/sources/232-queen-elizabeth-ii-part-2-glt5667149245/"
+        },
+        {
+          "episode_file": "GLT2826379729 [GLT2826379729].md",
+          "key": "231-queen-elizabeth-ii-part-1-glt2826379729",
+          "show": "The Rest Is History",
+          "title": "231. Queen Elizabeth II (Part 1)",
+          "url": "/wiki/sources/231-queen-elizabeth-ii-part-1-glt2826379729/"
         }
       ],
       "updated": "2026-10-01",
@@ -73025,6 +73055,38 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/georgespatton/"
+    },
+    "GeorgeV": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2826379729 [GLT2826379729].md",
+          "key": "231-queen-elizabeth-ii-part-1-glt2826379729",
+          "show": "The Rest Is History",
+          "title": "231. Queen Elizabeth II (Part 1)",
+          "url": "/wiki/sources/231-queen-elizabeth-ii-part-1-glt2826379729/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/georgev/"
+    },
+    "GeorgeVI": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2826379729 [GLT2826379729].md",
+          "key": "231-queen-elizabeth-ii-part-1-glt2826379729",
+          "show": "The Rest Is History",
+          "title": "231. Queen Elizabeth II (Part 1)",
+          "url": "/wiki/sources/231-queen-elizabeth-ii-part-1-glt2826379729/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/georgevi/"
     },
     "GeorgeWallace": {
       "episode_count": 2,
@@ -102768,9 +102830,9 @@
       "url": "/wiki/entities/kush/"
     },
     "KwameNkrumah": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5667149245 [GLT5667149245].md",
@@ -102778,6 +102840,13 @@
           "show": "The Rest Is History",
           "title": "232. Queen Elizabeth II (Part 2)",
           "url": "/wiki/sources/232-queen-elizabeth-ii-part-2-glt5667149245/"
+        },
+        {
+          "episode_file": "GLT2826379729 [GLT2826379729].md",
+          "key": "231-queen-elizabeth-ii-part-1-glt2826379729",
+          "show": "The Rest Is History",
+          "title": "231. Queen Elizabeth II (Part 1)",
+          "url": "/wiki/sources/231-queen-elizabeth-ii-part-1-glt2826379729/"
         }
       ],
       "updated": "2026-10-01",
@@ -125503,9 +125572,9 @@
       "url": "/wiki/concepts/monalisafameformation/"
     },
     "MonarchicalAdaptiveContinuity": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5667149245 [GLT5667149245].md",
@@ -125513,6 +125582,13 @@
           "show": "The Rest Is History",
           "title": "232. Queen Elizabeth II (Part 2)",
           "url": "/wiki/sources/232-queen-elizabeth-ii-part-2-glt5667149245/"
+        },
+        {
+          "episode_file": "GLT2826379729 [GLT2826379729].md",
+          "key": "231-queen-elizabeth-ii-part-1-glt2826379729",
+          "show": "The Rest Is History",
+          "title": "231. Queen Elizabeth II (Part 1)",
+          "url": "/wiki/sources/231-queen-elizabeth-ii-part-1-glt2826379729/"
         }
       ],
       "updated": "2026-10-01",
@@ -125540,6 +125616,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/monarchicalrecognitionlegitimacy/"
+    },
+    "MonarchsTwoBodies": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2826379729 [GLT2826379729].md",
+          "key": "231-queen-elizabeth-ii-part-1-glt2826379729",
+          "show": "The Rest Is History",
+          "title": "231. Queen Elizabeth II (Part 1)",
+          "url": "/wiki/sources/231-queen-elizabeth-ii-part-1-glt2826379729/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/monarchstwobodies/"
     },
     "Monsanto": {
       "episode_count": 1,
@@ -142910,9 +143002,9 @@
       "url": "/wiki/concepts/posthandoverhongkonggovernance/"
     },
     "PostImperialCommonwealthMonarchy": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5667149245 [GLT5667149245].md",
@@ -142920,6 +143012,13 @@
           "show": "The Rest Is History",
           "title": "232. Queen Elizabeth II (Part 2)",
           "url": "/wiki/sources/232-queen-elizabeth-ii-part-2-glt5667149245/"
+        },
+        {
+          "episode_file": "GLT2826379729 [GLT2826379729].md",
+          "key": "231-queen-elizabeth-ii-part-1-glt2826379729",
+          "show": "The Rest Is History",
+          "title": "231. Queen Elizabeth II (Part 1)",
+          "url": "/wiki/sources/231-queen-elizabeth-ii-part-1-glt2826379729/"
         }
       ],
       "updated": "2026-10-01",
@@ -144862,6 +144961,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/entities/princemochihito/"
+    },
+    "PrincePhilip": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2826379729 [GLT2826379729].md",
+          "key": "231-queen-elizabeth-ii-part-1-glt2826379729",
+          "show": "The Rest Is History",
+          "title": "231. Queen Elizabeth II (Part 1)",
+          "url": "/wiki/sources/231-queen-elizabeth-ii-part-1-glt2826379729/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/princephilip/"
     },
     "PrincelyConsortDependency": {
       "episode_count": 1,
@@ -188491,6 +188606,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/concepts/wartimeconstitutionalmonarchycollapse/"
+    },
+    "WartimeRoyalDutyFormation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2826379729 [GLT2826379729].md",
+          "key": "231-queen-elizabeth-ii-part-1-glt2826379729",
+          "show": "The Rest Is History",
+          "title": "231. Queen Elizabeth II (Part 1)",
+          "url": "/wiki/sources/231-queen-elizabeth-ii-part-1-glt2826379729/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/wartimeroyaldutyformation/"
     },
     "WartimeScientificMobilization": {
       "episode_count": 1,

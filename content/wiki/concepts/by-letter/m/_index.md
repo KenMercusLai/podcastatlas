@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9012
+wiki_total_pages: 9014
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1514,6 +1514,9 @@ wiki_pages:
   - key: "MarketForLemons"
     title: "The Market For Lemons"
     url: "/wiki/concepts/marketforlemons/"
+  - key: "MonarchsTwoBodies"
+    title: "The Monarch's Two Bodies"
+    url: "/wiki/concepts/monarchstwobodies/"
   - key: "MutualExhaustionThirdPartyGain"
     title: "两败俱伤、旁人得利 / Mutual Exhaustion Third-Party Gain"
     url: "/wiki/concepts/mutualexhaustionthirdpartygain/"

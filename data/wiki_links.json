@@ -863,6 +863,10 @@
     "title": "23.飞马牌汽车：安全是第一位的！",
     "url": "/wiki/sources/23-feima-pai-qiche-anquan-shi-di-yi-wei-de-572699943/"
   },
+  "231-queen-elizabeth-ii-part-1-glt2826379729": {
+    "title": "231. Queen Elizabeth II (Part 1)",
+    "url": "/wiki/sources/231-queen-elizabeth-ii-part-1-glt2826379729/"
+  },
   "232-queen-elizabeth-ii-part-2-glt5667149245": {
     "title": "232. Queen Elizabeth II (Part 2)",
     "url": "/wiki/sources/232-queen-elizabeth-ii-part-2-glt5667149245/"
@@ -23963,6 +23967,10 @@
     "title": "Edward VI",
     "url": "/wiki/entities/edwardvi/"
   },
+  "EdwardVIII": {
+    "title": "Edward VIII",
+    "url": "/wiki/entities/edwardviii/"
+  },
   "EdwinAbbott": {
     "title": "Edwin A. Abbott / 爱德温·爱伯特",
     "url": "/wiki/entities/edwinabbott/"
@@ -30802,6 +30810,14 @@
   "GeorgeSoros": {
     "title": "George Soros",
     "url": "/wiki/entities/georgesoros/"
+  },
+  "GeorgeV": {
+    "title": "George V",
+    "url": "/wiki/entities/georgev/"
+  },
+  "GeorgeVI": {
+    "title": "George VI",
+    "url": "/wiki/entities/georgevi/"
   },
   "GeorgeWBush": {
     "title": "George W. Bush",
@@ -51011,6 +51027,10 @@
     "title": "Monarchical Recognition Legitimacy",
     "url": "/wiki/concepts/monarchicalrecognitionlegitimacy/"
   },
+  "MonarchsTwoBodies": {
+    "title": "The Monarch's Two Bodies",
+    "url": "/wiki/concepts/monarchstwobodies/"
+  },
   "MondayCom": {
     "title": "monday.com",
     "url": "/wiki/entities/mondaycom/"
@@ -59014,6 +59034,10 @@
   "PrinceMochihito": {
     "title": "Prince Mochihito",
     "url": "/wiki/entities/princemochihito/"
+  },
+  "PrincePhilip": {
+    "title": "Prince Philip",
+    "url": "/wiki/entities/princephilip/"
   },
   "PrinceShenWei": {
     "title": "太子申 / Prince Shen of Wei",
@@ -77954,6 +77978,10 @@
   "WartimeLeadershipAccountability": {
     "title": "Wartime Leadership Accountability",
     "url": "/wiki/concepts/wartimeleadershipaccountability/"
+  },
+  "WartimeRoyalDutyFormation": {
+    "title": "Wartime Royal Duty Formation",
+    "url": "/wiki/concepts/wartimeroyaldutyformation/"
   },
   "WartimeScientificMobilization": {
     "title": "Wartime Scientific Mobilization",

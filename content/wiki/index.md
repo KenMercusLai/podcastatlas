@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [231. Queen Elizabeth II (Part 1)](sources/231-queen-elizabeth-ii-part-1-glt2826379729.md) — The Rest Is History episode on Elizabeth II's early life, wartime duty, the monarch's two bodies, accession, and the sacred-media tension of her coronation.
 - [232. Queen Elizabeth II (Part 2)](sources/232-queen-elizabeth-ii-part-2-glt5667149245.md) — The Rest Is History episode on Elizabeth II's Commonwealth role, media-era family crisis, emotional expectations, late-reign duty, and adaptive continuity.
 - [233. The Loch Ness Monster](sources/233-the-loch-ness-monster-glt3620889030.md) — The Rest Is History episode on Nessie as a media-formed Highland legend shaped by saintly narrative, access, hoaxes, tourism, exploration nostalgia, and conservation longing.
 - [The Biology of Aggression, Mating, & Arousal | Dr. David Anderson](sources/the-biology-of-aggression-mating-arousal-dr-david-anderson-scim2527130481.md) — Full Huberman Lab interview on circuit-specific arousal, VMH aggression and fear hierarchy, mating-circuit competition, hormone context, PAG routing, isolation-linked tachykinins, and bidirectional brain-body emotion signaling.
@@ -3333,6 +3334,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Who's Gonna Pay for Your Social Security?](sources/default-mp3-ywr3ahjkcgo-fa7b2a90f9b1f7efc01397a3ed4ae0bf-30494375-default-mp3-ywr3ahjkcgo-fa7b2a90f9b1f7efc01397a3ed4ae0bf-30494375.md) — Planet Money episode comparing the financing scale and distributional costs of Social Security reform options.
 
 ## Entities
+- [George V](entities/GeorgeV.md) — Elizabeth II's grandfather and an early model of restrained, service-centered public monarchy.
+- [George VI](entities/GeorgeVI.md) — Reluctant wartime king whose accession and duty directly shaped Elizabeth II's formation and succession.
+- [Edward VIII](entities/EdwardVIII.md) — King whose abdication made George VI sovereign and redirected Elizabeth II toward the throne.
+- [Prince Philip](entities/PrincePhilip.md) — Elizabeth II's husband, naval officer, Malta companion, and later focus of publicly symbolic pandemic grief.
 - [Diana, Princess of Wales](entities/DianaPrincessOfWales.md) — Royal figure whose marriage crisis, emotional public style, and death exposed the monarchy's model-family vulnerability.
 - [Kwame Nkrumah](entities/KwameNkrumah.md) — Ghanaian leader whose 1961 dance with Elizabeth II became a symbol of post-imperial accommodation.
 - [Harold Macmillan](entities/HaroldMacmillan.md) — British prime minister whose “winds of change” position represented governmental acceptance of African decolonisation.
@@ -14883,7 +14888,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dunstan](entities/Dunstan.md) — Archbishop who likely shaped Edgar's 973 coronation and the later Canterbury crowning precedent.
 - [Stone of Scone](entities/StoneOfScone.md) — Contested Scottish coronation object whose authority joins territorial kingship, legend, conquest, and Westminster.
 - [George IV](entities/GeorgeIV.md) — British monarch whose extravagant coronation joined antiquarian theatre, marital exclusion, grandeur, and farce.
-- [Elizabeth II](entities/ElizabethII.md) — British and Commonwealth monarch whose sacred duty, selective adaptation, longevity, and public service sustained continuity through decolonisation and media-era crisis.
+- [Elizabeth II](entities/ElizabethII.md) — British and Commonwealth monarch whose wartime formation, guarded privacy, sacred duty, selective adaptation, and longevity sustained symbolic continuity.
 - [Charles III](entities/CharlesIII.md) — British monarch whose planned 2023 coronation renewed the question of sacral meaning in a more sceptical public culture.
 - [William III](entities/WilliamIII.md) — Dutch Protestant ruler whose joint coronation with Mary II helped publicize the post-Glorious Revolution settlement.
 - [Mary II](entities/MaryII.md) — Daughter of James II and joint monarch whose 1689 coronation made an unusual Protestant succession publicly legible.
@@ -14988,6 +14993,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Steve Goss](entities/SteveGoss.md) — Former Social Security chief actuary assessing the scale, feasibility, and timing of reform options.
 
 ## Concepts
+- [The Monarch's Two Bodies](concepts/MonarchsTwoBodies.md) — Distinction between the sovereign's mortal private person and the Crown's enduring public and symbolic body.
+- [Wartime Royal Duty Formation](concepts/WartimeRoyalDutyFormation.md) — Formation of Elizabeth II's duty ethic through dynasty, wartime constraint, broadcasting, and practical service.
 - [Post-Imperial Commonwealth Monarchy](concepts/PostImperialCommonwealthMonarchy.md) — Adaptation of the Crown from imperial apex to plural symbolic and constitutional relationships with independent states and realms.
 - [Royal Family Media Vulnerability](concepts/RoyalFamilyMediaVulnerability.md) — Exposure created when monarchy seeks legitimacy through intimate presentation as an exemplary family.
 - [Monarchical Adaptive Continuity](concepts/MonarchicalAdaptiveContinuity.md) — Preservation of symbolic continuity through selective change anchored by a stable ethic of office.

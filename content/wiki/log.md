@@ -26232,3 +26232,11 @@ Added source `232-queen-elizabeth-ii-part-2-glt5667149245`; created `DianaPrince
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | 231. Queen Elizabeth II (Part 1)
+
+Added source `231-queen-elizabeth-ii-part-1-glt2826379729`; created `GeorgeV`, `GeorgeVI`, `EdwardVIII`, `PrincePhilip`, `MonarchsTwoBodies`, and `WartimeRoyalDutyFormation`; and resynthesized `ElizabethII`, `KwameNkrumah`, `MonarchicalAdaptiveContinuity`, `PostImperialCommonwealthMonarchy`, and `CoronationMassMediaTransformation` from their complete preserved evidence inventories. Core synthesis: Elizabeth II's symbolic continuity rested on a guarded distinction between private person and public Crown, a duty ethic formed through dynasty, abdication, war, faith, and constrained choice, and an ability to join sacred office to television-era visibility and post-imperial adaptation. No settled contradiction was adopted. Psychological motives, public unanimity, colonial and Commonwealth reception, audience figures, educational judgments, and causal claims about monarchy's survival remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,279-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
