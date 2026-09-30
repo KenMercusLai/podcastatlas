@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 8898
+wiki_total_pages: 8903
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -326,6 +326,9 @@ wiki_pages:
   - key: "OpenModelSafetyGovernance"
     title: "Open Model Safety Governance"
     url: "/wiki/concepts/openmodelsafetygovernance/"
+  - key: "OpenScientificCriticism"
+    title: "Open Scientific Criticism"
+    url: "/wiki/concepts/openscientificcriticism/"
   - key: "OpenSharedMythos"
     title: "Open Shared Mythos"
     url: "/wiki/concepts/opensharedmythos/"

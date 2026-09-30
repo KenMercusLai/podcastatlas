@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 8898
+wiki_total_pages: 8903
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -503,6 +503,9 @@ wiki_pages:
   - key: "EmotionsAsFunctionalControlStates"
     title: "Emotions as Functional Control States"
     url: "/wiki/concepts/emotionsasfunctionalcontrolstates/"
+  - key: "EmpathicAdversarialInterviewing"
+    title: "Empathic Adversarial Interviewing"
+    url: "/wiki/concepts/empathicadversarialinterviewing/"
   - key: "EmpathyAgainstComparison"
     title: "Empathy Against Comparison / 对抗比较的同理心"
     url: "/wiki/concepts/empathyagainstcomparison/"

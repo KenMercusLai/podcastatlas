@@ -25768,3 +25768,11 @@ Added source `267-wales-the-roar-of-the-red-dragon-glt2657098007`; created `Wale
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-30] ingest | Navigating Conflict, Finding Purpose & Maintaining Drive | Dr. Lex Fridman
+
+Added source `navigating-conflict-finding-purpose-maintaining-drive-dr-lex-fridman-scim7125421200`; created `ConflictDrivenIntergroupHatred`, `ConflictDangerNormalization`, `EmpathicAdversarialInterviewing`, `CallingCommitmentTradeoff`, and `OpenScientificCriticism`; and resynthesized `LexFridman` from its preserved evidence inventory. Core synthesis: the conversation joins war's destruction of continuity and widening hatred to danger normalization, propaganda resistance, empathy joined with interview scrutiny, faster but bounded scientific criticism, and the real opportunity costs of treating a social-robotics company as a calling. No settled contradiction was adopted. Wartime crime, soldiers' beliefs, national attitudes, review reform, extreme-work advice, and robot-company forecasts remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

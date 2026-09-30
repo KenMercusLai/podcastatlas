@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1329
+topic_total_pages: 1331
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1441,6 +1441,9 @@ topic_concepts:
   - key: "OmnipotentSelfBlame"
     title: "Omnipotent Self-Blame / 全能自恋式归因"
     url: "/wiki/concepts/omnipotentselfblame/"
+  - key: "OpenScientificCriticism"
+    title: "Open Scientific Criticism"
+    url: "/wiki/concepts/openscientificcriticism/"
   - key: "OperationalCarbon"
     title: "Operational Carbon"
     url: "/wiki/concepts/operationalcarbon/"
@@ -3813,6 +3816,9 @@ topic_sources:
   - key: "tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128"
     title: "Mushrooms could help curb plastic waste"
     url: "/wiki/sources/tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128/"
+  - key: "navigating-conflict-finding-purpose-maintaining-drive-dr-lex-fridman-scim7125421200"
+    title: "Navigating Conflict, Finding Purpose & Maintaining Drive | Dr. Lex Fridman"
+    url: "/wiki/sources/navigating-conflict-finding-purpose-maintaining-drive-dr-lex-fridman-scim7125421200/"
   - key: "neuralink-technologies-to-enhance-human-brains-dr-matthew-macdougall-scim4147376395"
     title: "Neuralink & Technologies to Enhance Human Brains | Dr. Matthew MacDougall"
     url: "/wiki/sources/neuralink-technologies-to-enhance-human-brains-dr-matthew-macdougall-scim4147376395/"

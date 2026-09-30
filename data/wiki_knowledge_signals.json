@@ -24029,6 +24029,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/californiaprivacyprotectionagency/"
     },
+    "CallingCommitmentTradeoff": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7125421200 [SCIM7125421200].md",
+          "key": "navigating-conflict-finding-purpose-maintaining-drive-dr-lex-fridman-scim7125421200",
+          "show": "Huberman Lab",
+          "title": "Navigating Conflict, Finding Purpose & Maintaining Drive | Dr. Lex Fridman",
+          "url": "/wiki/sources/navigating-conflict-finding-purpose-maintaining-drive-dr-lex-fridman-scim7125421200/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/callingcommitmenttradeoff/"
+    },
     "CalmAssertiveEnergy": {
       "episode_count": 1,
       "show_count": 1,
@@ -36068,6 +36084,38 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/concepts/confidentialremonstranceleakage/"
+    },
+    "ConflictDangerNormalization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7125421200 [SCIM7125421200].md",
+          "key": "navigating-conflict-finding-purpose-maintaining-drive-dr-lex-fridman-scim7125421200",
+          "show": "Huberman Lab",
+          "title": "Navigating Conflict, Finding Purpose & Maintaining Drive | Dr. Lex Fridman",
+          "url": "/wiki/sources/navigating-conflict-finding-purpose-maintaining-drive-dr-lex-fridman-scim7125421200/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/conflictdangernormalization/"
+    },
+    "ConflictDrivenIntergroupHatred": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7125421200 [SCIM7125421200].md",
+          "key": "navigating-conflict-finding-purpose-maintaining-drive-dr-lex-fridman-scim7125421200",
+          "show": "Huberman Lab",
+          "title": "Navigating Conflict, Finding Purpose & Maintaining Drive | Dr. Lex Fridman",
+          "url": "/wiki/sources/navigating-conflict-finding-purpose-maintaining-drive-dr-lex-fridman-scim7125421200/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/conflictdrivenintergrouphatred/"
     },
     "ConflictOilWindfallInvestmentCycle": {
       "episode_count": 1,
@@ -52648,6 +52696,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/emotionsasfunctionalcontrolstates/"
+    },
+    "EmpathicAdversarialInterviewing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7125421200 [SCIM7125421200].md",
+          "key": "navigating-conflict-finding-purpose-maintaining-drive-dr-lex-fridman-scim7125421200",
+          "show": "Huberman Lab",
+          "title": "Navigating Conflict, Finding Purpose & Maintaining Drive | Dr. Lex Fridman",
+          "url": "/wiki/sources/navigating-conflict-finding-purpose-maintaining-drive-dr-lex-fridman-scim7125421200/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/empathicadversarialinterviewing/"
     },
     "EmpathyCircleExpansion": {
       "episode_count": 9,
@@ -102480,9 +102544,9 @@
       "url": "/wiki/entities/lewisstrauss/"
     },
     "LexFridman": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "汉洋：挖坑、媒介枷锁、好内容、对谈、为什么做蜉蝣天地 [59b766f5-ee1d-4040-a650-a96b7b4b70d5].md",
@@ -102497,9 +102561,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Machines, Creativity & Love | Dr. Lex Fridman",
           "url": "/wiki/sources/essentials-machines-creativity-love-dr-lex-fridman-scim3392253065/"
+        },
+        {
+          "episode_file": "SCIM7125421200 [SCIM7125421200].md",
+          "key": "navigating-conflict-finding-purpose-maintaining-drive-dr-lex-fridman-scim7125421200",
+          "show": "Huberman Lab",
+          "title": "Navigating Conflict, Finding Purpose & Maintaining Drive | Dr. Lex Fridman",
+          "url": "/wiki/sources/navigating-conflict-finding-purpose-maintaining-drive-dr-lex-fridman-scim7125421200/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-30",
       "url": "/wiki/entities/lexfridman/"
     },
     "LexingtonAndConcord": {
@@ -129745,6 +129816,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/concepts/opendatatransparency/"
+    },
+    "OpenScientificCriticism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7125421200 [SCIM7125421200].md",
+          "key": "navigating-conflict-finding-purpose-maintaining-drive-dr-lex-fridman-scim7125421200",
+          "show": "Huberman Lab",
+          "title": "Navigating Conflict, Finding Purpose & Maintaining Drive | Dr. Lex Fridman",
+          "url": "/wiki/sources/navigating-conflict-finding-purpose-maintaining-drive-dr-lex-fridman-scim7125421200/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/openscientificcriticism/"
     },
     "OpenSourceAIBanRisk": {
       "episode_count": 2,

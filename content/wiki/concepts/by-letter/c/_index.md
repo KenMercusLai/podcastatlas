@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8898
+wiki_total_pages: 8903
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -86,6 +86,9 @@ wiki_pages:
   - key: "CaliforniaWealthTaxCapitalFlight"
     title: "California Wealth-Tax Capital Flight"
     url: "/wiki/concepts/californiawealthtaxcapitalflight/"
+  - key: "CallingCommitmentTradeoff"
+    title: "Calling Commitment Tradeoff"
+    url: "/wiki/concepts/callingcommitmenttradeoff/"
   - key: "CalmAssertiveEnergy"
     title: "Calm Assertive Energy"
     url: "/wiki/concepts/calmassertiveenergy/"
@@ -1742,9 +1745,15 @@ wiki_pages:
   - key: "ConfidentialRemonstranceLeakage"
     title: "Confidential Remonstrance Leakage / 密奏泄露风险"
     url: "/wiki/concepts/confidentialremonstranceleakage/"
+  - key: "ConflictDangerNormalization"
+    title: "Conflict Danger Normalization"
+    url: "/wiki/concepts/conflictdangernormalization/"
   - key: "ConflictOilWindfallInvestmentCycle"
     title: "Conflict Oil Windfall Investment Cycle"
     url: "/wiki/concepts/conflictoilwindfallinvestmentcycle/"
+  - key: "ConflictDrivenIntergroupHatred"
+    title: "Conflict-Driven Intergroup Hatred"
+    url: "/wiki/concepts/conflictdrivenintergrouphatred/"
   - key: "ConfucianForeignPolicyMoralism"
     title: "Confucian Foreign Policy Moralism / 儒家外交道德主义"
     url: "/wiki/concepts/confucianforeignpolicymoralism/"

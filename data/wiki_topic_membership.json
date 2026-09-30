@@ -27874,6 +27874,13 @@
       "url": "/topics/science/"
     }
   ],
+  "EmpathicAdversarialInterviewing": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "EmpathyAgainstComparison": [
     {
       "key": "science",
@@ -56240,6 +56247,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "OpenScientificCriticism": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "OpenSharedMythos": [
@@ -91137,6 +91151,18 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "navigating-conflict-finding-purpose-maintaining-drive-dr-lex-fridman-scim7125421200": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "neuralink-technologies-to-enhance-human-brains-dr-matthew-macdougall-scim4147376395": [

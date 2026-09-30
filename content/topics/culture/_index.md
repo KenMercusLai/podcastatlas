@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2928
+topic_total_pages: 2929
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1054,6 +1054,9 @@ topic_concepts:
   - key: "EmotionalContagion"
     title: "Emotional Contagion / 情绪感染"
     url: "/wiki/concepts/emotionalcontagion/"
+  - key: "EmpathicAdversarialInterviewing"
+    title: "Empathic Adversarial Interviewing"
+    url: "/wiki/concepts/empathicadversarialinterviewing/"
   - key: "EngineeringCompetition"
     title: "Engineering Competition"
     url: "/wiki/concepts/engineeringcompetition/"

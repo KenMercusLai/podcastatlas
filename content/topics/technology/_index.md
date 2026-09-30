@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3237
+topic_total_pages: 3238
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -9105,6 +9105,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390"
     title: "More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source?, Trump Accounts"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390/"
+  - key: "navigating-conflict-finding-purpose-maintaining-drive-dr-lex-fridman-scim7125421200"
+    title: "Navigating Conflict, Finding Purpose & Maintaining Drive | Dr. Lex Fridman"
+    url: "/wiki/sources/navigating-conflict-finding-purpose-maintaining-drive-dr-lex-fridman-scim7125421200/"
   - key: "tech-20260421-0421-mp-tech-pod-128-tech-20260421-0421-mp-tech-pod-128"
     title: "News sites are blocking access to Internet Archive's Wayback Machine"
     url: "/wiki/sources/tech-20260421-0421-mp-tech-pod-128-tech-20260421-0421-mp-tech-pod-128/"

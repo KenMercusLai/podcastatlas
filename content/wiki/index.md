@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Navigating Conflict, Finding Purpose & Maintaining Drive | Dr. Lex Fridman](sources/navigating-conflict-finding-purpose-maintaining-drive-dr-lex-fridman-scim7125421200.md) — Huberman Lab episode on Ukraine, conflict psychology, difficult interviews, scientific criticism, social robotics, and the costs of pursuing a calling.
 - [267: Wales: The Roar of the Red Dragon](sources/267-wales-the-roar-of-the-red-dragon-glt2657098007.md) — The Rest Is History episode on Welsh identity, medieval conquest, language shift, industrialisation, sport, nationalism, and constitutional interdependence.
 - [268: Brazil: The Last Emperor](sources/268-brazil-the-last-emperor-glt5634696575.md) — The Rest Is History episode on Pedro II, slavery-dependent imperial stability, science and national culture, abolition, and the elite-led republican coup.
 - [269: Ghana: The Ashanti Empire](sources/269-ghana-the-ashanti-empire-glt3638102749.md) — The Rest Is History episode on Asante state formation, the Golden Stool, Kumasi, military-commercial power, Anglo-Asante conflict, and symbolic continuity.
@@ -14794,6 +14795,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Wieliczka Salt Mine](entities/WieliczkaSaltMine.md) — Royal salt industry transformed into an underground religious-art, tourism, and national-memory complex.
 
 ## Concepts
+- [Open Scientific Criticism](concepts/OpenScientificCriticism.md) — Faster, broader scrutiny of scientific claims and artifacts bounded by inspectability, expert review, replication, and field-specific safeguards.
+- [Calling Commitment Tradeoff](concepts/CallingCommitmentTradeoff.md) — Decision frame for when a meaningful uncertain project demands sacrifices across work, relationships, security, and reliable reward.
+- [Empathic Adversarial Interviewing](concepts/EmpathicAdversarialInterviewing.md) — Interview posture that uses worldview understanding to sharpen scrutiny without confusing empathy with endorsement.
+- [Conflict Danger Normalization](concepts/ConflictDangerNormalization.md) — Adaptive recalibration that allows life under repeated threat while separating felt safety from objective danger.
+- [Conflict-Driven Intergroup Hatred](concepts/ConflictDrivenIntergroupHatred.md) — Wartime widening of blame from responsible actors to whole populations and later generations.
 - [Welsh National Identity](concepts/WelshNationalIdentity.md) — Multi-carrier national identity sustained through language, history, sport, political memory, and narratives of survival.
 - [Welsh Language Shift](concepts/WelshLanguageShift.md) — Multi-causal decline shaped by unequal power, schooling, opportunity, stigma, industrial migration, and local adaptation.
 - [Medieval Welsh Colonial Rule](concepts/MedievalWelshColonialRule.md) — Bounded framework treating English conquest plus ethnic legal inequality as colonial while rejecting direct projection onto modern Wales.
