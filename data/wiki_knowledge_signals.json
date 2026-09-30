@@ -55800,9 +55800,9 @@
       "url": "/wiki/concepts/energyabundanceclimatestrategy/"
     },
     "EnergyBalanceAccounting": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM7693897484 [SCIM7693897484].md",
@@ -55824,9 +55824,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Lose Fat With Science-Based Tools",
           "url": "/wiki/sources/essentials-lose-fat-with-science-based-tools-scim9321862300/"
+        },
+        {
+          "episode_file": "SCIM1870631763 [SCIM1870631763].md",
+          "key": "the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim1870631763",
+          "show": "Huberman Lab",
+          "title": "The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton",
+          "url": "/wiki/sources/the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim1870631763/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-30",
       "url": "/wiki/concepts/energybalanceaccounting/"
     },
     "EnforcementAgencyDataSharing": {
@@ -102594,9 +102601,9 @@
       "url": "/wiki/concepts/layeredrespiratoryinfectionprevention/"
     },
     "LayneNorton": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM7693897484 [SCIM7693897484].md",
@@ -102611,9 +102618,16 @@
           "show": "Huberman Lab",
           "title": "Tools for Nutrition & Fitness | Dr. Layne Norton",
           "url": "/wiki/sources/tools-for-nutrition-fitness-dr-layne-norton-scim5519161031/"
+        },
+        {
+          "episode_file": "SCIM1870631763 [SCIM1870631763].md",
+          "key": "the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim1870631763",
+          "show": "Huberman Lab",
+          "title": "The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton",
+          "url": "/wiki/sources/the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim1870631763/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-30",
       "url": "/wiki/entities/laynenorton/"
     },
     "LazaroCardenas": {
@@ -105890,9 +105904,9 @@
       "url": "/wiki/concepts/lifelongskillprogression/"
     },
     "LifestyleWeightManagement": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 3,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "llat_ySKrqmRO0KdJWUOegDCAlU5 [llat_ySKrqmRO0KdJWUOegDCAlU5].md",
@@ -105949,9 +105963,16 @@
           "show": "这病说来话长",
           "title": "VOL.117歌手辛晓琪：不去健身房就在家「超慢跑」 ，千万别节食",
           "url": "/wiki/sources/vol-117-geshou-xinxiaoqi-bu-qu-jianshenfang-jiu-zai-jia-chaomanpao-qianwan-bie-jieshi-lvzc4-syubatlt-nmkxggpdymdb3/"
+        },
+        {
+          "episode_file": "SCIM1870631763 [SCIM1870631763].md",
+          "key": "the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim1870631763",
+          "show": "Huberman Lab",
+          "title": "The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton",
+          "url": "/wiki/sources/the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim1870631763/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-30",
       "url": "/wiki/concepts/lifestyleweightmanagement/"
     },
     "Light9M": {
@@ -118518,9 +118539,9 @@
       "url": "/wiki/concepts/mechanismbasedbackpainassessment/"
     },
     "MechanismOutcomeEvidenceHierarchy": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM5519161031 [SCIM5519161031].md",
@@ -118549,9 +118570,16 @@
           "show": "Huberman Lab",
           "title": "Journal Club With Dr. Peter Attia | Metformin for Longevity & the Power of Belief Effects",
           "url": "/wiki/sources/journal-club-with-dr-peter-attia-metformin-for-longevity-the-power-of-belief-effects-scim5394566255/"
+        },
+        {
+          "episode_file": "SCIM1870631763 [SCIM1870631763].md",
+          "key": "the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim1870631763",
+          "show": "Huberman Lab",
+          "title": "The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton",
+          "url": "/wiki/sources/the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim1870631763/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-09-30",
       "url": "/wiki/concepts/mechanismoutcomeevidencehierarchy/"
     },
     "Medallia": {
@@ -143330,9 +143358,9 @@
       "url": "/wiki/concepts/prostatescreeninginterpretation/"
     },
     "ProteinBodyCompositionLever": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM7693897484 [SCIM7693897484].md",
@@ -143368,9 +143396,16 @@
           "show": "Huberman Lab",
           "title": "How to Exercise & Eat for Optimal Health & Longevity | Dr. Gabrielle Lyon",
           "url": "/wiki/sources/how-to-exercise-eat-for-optimal-health-longevity-dr-gabrielle-lyon-scim2049739871/"
+        },
+        {
+          "episode_file": "SCIM1870631763 [SCIM1870631763].md",
+          "key": "the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim1870631763",
+          "show": "Huberman Lab",
+          "title": "The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton",
+          "url": "/wiki/sources/the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim1870631763/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-09-30",
       "url": "/wiki/concepts/proteinbodycompositionlever/"
     },
     "ProteinLanguageModels": {

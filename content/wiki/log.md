@@ -25934,3 +25934,11 @@ Added source `251-alfred-the-great-return-of-the-king-part-2-glt9621369023`; cre
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-30] ingest | The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton
+
+Added source `the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim1870631763`; resynthesized `LayneNorton`, `EnergyBalanceAccounting`, `LifestyleWeightManagement`, `ProteinBodyCompositionLever`, and `MechanismOutcomeEvidenceHierarchy` from their complete preserved evidence inventories. Core synthesis: energy balance remains fundamental but adapts through NEAT, appetite, food form, behavior, and tracking noise; sustainable diets use the least restrictive workable constraint, plan maintenance and identity change, preserve protein and resistance training, and judge mechanisms against measured outcomes. No settled contradiction was adopted. Numeric nutrition, lipid, fasting, microbiome, supplement, and exercise claims remain source-scoped public education. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

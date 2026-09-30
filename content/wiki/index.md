@@ -3287,6 +3287,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [作者对谈：朋友是否比真理更加重要？（Roger Berkowitz）](sources/zuozhe-duitan-pengyou-shifou-bi-zhenli-gengjia-zhongyao-roger-berkowitz-ln7i59hzhpigtixkj-dvwmkqrrsf.md) — 独树不成林 conversation on Hannah Arendt, friendship across disagreement, political plurality, public denunciation, and persuasion as mutual transformation.
 - [Science-Based Tools for Increasing Happiness](sources/science-based-tools-for-increasing-happiness-scim9472441223.md) — Huberman Lab solo episode on natural and synthetic happiness, attention, generosity, everyday social connection, material limits, and post-choice commitment.
 
+- [The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton](sources/the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim1870631763.md) — Full Huberman Lab interview on dynamic energy balance, appetite, adherence, protein, food processing, evidence hierarchy, supplements, and durable weight-management behavior.
+
 ## Entities
 - [Jules Rimet](entities/JulesRimet.md) — French football administrator whose interwar internationalism and organizing helped establish the World Cup.
 - [1930 FIFA World Cup](entities/FIFAWorldCup1930.md) — First official World Cup, hosted and won by Uruguay as a claim to small-state and South American football prestige.

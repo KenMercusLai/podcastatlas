@@ -7,7 +7,8 @@ sources:
   - supplements-for-longevity-their-efficacy-dr-peter-attia-scim7110594668
   - ama-12-thoughts-on-longevity-supplements-resveratrol-nr-nmn-etc-how-to-improve-memory-scim5764692205
   - journal-club-with-dr-peter-attia-metformin-for-longevity-the-power-of-belief-effects-scim5394566255
-last_updated: 2026-09-28
+  - the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim1870631763
+last_updated: 2026-09-30
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,6 +19,8 @@ Mechanism-to-outcome evidence hierarchy is a method for treating biological plau
 
 ## Current Synthesis
 The Norton episode's core methodological claim is that mechanisms explain how an effect might occur, while outcome studies test what happens after many interacting mechanisms operate together. A plausible pathway can therefore generate a hypothesis without establishing the size, direction, or clinical importance of the net effect. Personal experience and observational data can also surface useful signals, but confounding, expectation, selection, and measurement limit causal interpretation.
+
+The earlier full interview provides a compact worked example from Norton's own research: blood leucine could remain elevated after muscle protein synthesis had already returned toward baseline, so a plausible circulating signal did not map continuously onto the desired outcome. The same source presents his changed view of LDL after repeated Mendelian-randomization evidence as a model of cumulative updating rather than allegiance to an earlier mechanism or position.
 
 Randomized human trials receive special weight when the question is causal, yet the source does not treat them as infallible. Comparator choice, calorie and protein matching, adherence, duration, population, endpoints, and statistical power determine what a trial can answer. Meta-analysis can clarify an overall pattern only when its inclusion criteria join sufficiently comparable and credible studies. The practical rule is to match the strength of a conclusion to the design, methods, measured outcome, and total evidence rather than to a headline, isolated pathway, or author conclusion.
 
@@ -39,6 +42,8 @@ The metformin Journal Club adds a sharper observational-design case. A mechanism
 - Design hierarchy: [[tools-for-nutrition-fitness-dr-layne-norton-scim5519161031]] places controlled human trials above anecdotes or mechanism-only arguments for many causal nutrition questions while retaining the limitations of every design.
 - Comparator and synthesis quality: [[tools-for-nutrition-fitness-dr-layne-norton-scim5519161031]] highlights calorie- and protein-matched feeding comparisons and describes meta-analysis as dependent on study quality and inclusion criteria.
 - Cumulative updating: [[tools-for-nutrition-fitness-dr-layne-norton-scim5519161031]] presents a large post-exercise protein study as evidence that shifted Norton's view somewhat without justifying a major conclusion from one result.
+- Signal-outcome mismatch: [[the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim1870631763]] reports that elevated plasma leucine persisted after muscle protein synthesis returned toward baseline, illustrating why a mechanism marker need not track the whole outcome.
+- Belief revision: [[the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim1870631763]] presents repeated Mendelian-randomization evidence on LDL exposure as the reason Norton changed his prior view.
 - Longevity translation: [[supplements-for-longevity-their-efficacy-dr-peter-attia-scim7110594668]] contrasts sirtuin and NAD mechanisms, resveratrol's unusual high-fat-diet model, negative NR and resveratrol lifespan results, positive mouse results for other interventions, and weak or endpoint-limited human NR/NMN findings.
 - Personal-response boundary: [[ama-12-thoughts-on-longevity-supplements-resveratrol-nr-nmn-etc-how-to-improve-memory-scim5764692205]] separates subjective NR, NMN, and post-infusion effects from evidence that the interventions extend human life.
 - Tissue and endpoint fit: [[supplements-for-longevity-their-efficacy-dr-peter-attia-scim7110594668]] argues that higher NAD in blood or liver does not establish a skeletal-muscle effect, and that biomarkers or biological-age scores do not substitute for meaningful healthspan or lifespan outcomes.
@@ -50,6 +55,7 @@ This is not a rigid universal ranking. Randomization may be infeasible, unethica
 ## What Changed
 - Added comparator fit and informative censoring as explicit checks for observational treatment claims.
 - Added metformin as a worked example separating diabetes-associated mortality from the drug's causal effect.
+- Added Norton's leucine experiment and LDL belief revision as examples of outcome mismatch and cumulative updating.
 
 ## Related Concepts
 - [[DietTrialEquipoise]] - fair-comparison principle for designing and interpreting competing diet trials.

@@ -8,7 +8,8 @@ sources:
   - ama-19-collagen-vs-whey-protein-creatine-smelling-salts-stimulants-more-scim5207600786
   - tools-for-nutrition-fitness-dr-layne-norton-scim5519161031
   - how-to-exercise-eat-for-optimal-health-longevity-dr-gabrielle-lyon-scim2049739871
-last_updated: 2026-09-25
+  - the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim1870631763
+last_updated: 2026-09-30
 knowledge_schema: synthesis-v1
 ---
 
@@ -27,6 +28,8 @@ The plant-based branch now contains a productive tension. Norton emphasizes plan
 The AMA excerpt adds [[ProteinSourceGoalMatching]] beneath this hierarchy. It distinguishes total protein accounting from task-specific value: whey is framed as stronger than collagen for muscle protein synthesis because of amino-acid quality and leucine, while collagen or bone broth may have a narrower skin-related use. This does not displace the Norton-Gardner synthesis about total intake and adequacy; it makes protein source and intended outcome explicit while keeping supplement doses, acne response, and unusually high intake targets source-scoped.
 
 The full Norton interview sharpens the hierarchy without resolving the target debate. Total daily protein remains more important than perfect distribution, and protein-source quality matters most near minimum intake; at sufficiently high intake, differences between sources may narrow. A shorter eating window can still support muscle for many people, but spreading protein across more meals may offer a small advantage when maximal strength or muscularity is the explicit goal. Collagen remains a poor muscle-building protein because of its amino-acid profile even if connective-tissue or skin uses remain plausible but uncertain.
+
+The earlier full-length interview independently supports the same hierarchy. It rejects a strict 30-gram absorption ceiling, treats roughly 1.6 g/kg/day as an approximate plateau rather than a universal prescription, and says 16:8 eating with training and several protein-containing meals can preserve lean mass in available studies. More extreme fasting patterns remain more uncertain, and resistance training is still the larger lever.
 
 Lyon independently uses the hierarchy of total protein, quality, then distribution, but pushes the optimization end harder: she favors roughly one gram per pound of ideal body weight, leucine-rich meals, and larger first-meal doses, especially in older adults. That reinforces the importance of age, source quality, and training context while widening rather than resolving the target debate. Her 30-to-50-gram meal range and higher daily target remain source-scoped alongside Norton's approximate 1.6 g/kg plateau and Gardner's population-adequacy account.
 
@@ -51,6 +54,7 @@ Lyon independently uses the hierarchy of total protein, quality, then distributi
 - Plant-protein correction: [[how-different-diets-impact-your-health-dr-christopher-gardner-scim3206044616]] says all plants contain all essential amino acids, describes legumes and soy as strong sources, and places typical plant macronutrient digestibility around 80-90%.
 - Source-goal matching: [[ama-19-collagen-vs-whey-protein-creatine-smelling-salts-stimulants-more-scim5207600786]] favors whey over collagen for muscle protein synthesis while assigning collagen or bone broth a narrower, qualified skin-health role.
 - Distribution and fasting: [[tools-for-nutrition-fitness-dr-layne-norton-scim5519161031]] places total intake above perfect distribution and treats intermittent fasting as compatible with muscle gain for many people but potentially suboptimal for maximizing muscularity or strength.
+- Absorption and fasting boundary: [[the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim1870631763]] rejects a strict 30-gram-per-meal absorption limit, supports total daily intake over perfect timing, and distinguishes studied 16:8 patterns from more extreme fasting windows.
 - Quality threshold: [[tools-for-nutrition-fitness-dr-layne-norton-scim5519161031]] says source quality matters more near minimum protein intake and may matter less around sufficiently high total intake.
 - Collagen boundary: [[tools-for-nutrition-fitness-dr-layne-norton-scim5519161031]] treats collagen as low quality for muscle protein synthesis while leaving skin and connective-tissue benefit plausible but unsettled.
 - Lyon hierarchy: [[how-to-exercise-eat-for-optimal-health-longevity-dr-gabrielle-lyon-scim2049739871]] ranks total protein above quality and distribution, favors leucine-rich sources, and raises the importance of meal distribution for older adults or people eating less protein.
@@ -63,6 +67,7 @@ This concept is not a protein prescription. Kidney disease, liver disease, pregn
 - Strengthened the hierarchy of total protein, source quality, and distribution while keeping age and training context visible.
 - Widened the explicit tension between population adequacy, the approximate muscle-building plateau, and higher guest optimization targets.
 - Added the qualification that protein intake and muscle contraction work as a system rather than interchangeable levers.
+- Added independent full-interview support for the approximate plateau, no-strict-absorption-cap boundary, and fasting-window qualification.
 
 ## Related Concepts
 - [[EnergyBalanceAccounting]] - calorie and expenditure frame that protein modifies through satiety and thermic effect.
