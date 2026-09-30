@@ -26200,3 +26200,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | Who's Gonna Pay for Your Social Security?
+
+Added source `default-mp3-ywr3ahjkcgo-fa7b2a90f9b1f7efc01397a3ed4ae0bf-30494375-default-mp3-ywr3ahjkcgo-fa7b2a90f9b1f7efc01397a3ed4ae0bf-30494375`; created `SteveGoss`, `SocialSecurityPayAsYouGoFinancing`, `SocialSecurityReformPortfolio`, and `SocialSecurityTaxableMaximumErosion`; and resynthesized `SocialSecurity` from its complete preserved evidence inventory. Core synthesis: Social Security's pay-as-you-go structure makes demographics, taxable payroll, and benefit obligations inseparable; a full payroll-tax increase could close the modeled gap alone, but otherwise a credible solution requires a distribution-aware package and timely action. No settled contradiction was adopted. The 2032 date, 22% reduction, option shares, demographic figures, poverty counts, wealth comparisons, and Canadian investment example remain source-scoped estimates. The automatic `wiki/overview.md` was read for context and not manually rewritten; downstream synthesis refresh found no dirty topic and the global gate was not due. Publish validation passed.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

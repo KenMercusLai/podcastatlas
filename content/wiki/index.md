@@ -3327,6 +3327,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [236. China and World War II (Part 2)](sources/236-china-and-world-war-ii-part-2-glt5290070743.md) — The Rest Is History episode with Rana Mitter on Nanjing, the 1938 Yellow River flood, resistance and collaboration, alliance friction, communist growth, civil-war contingency, and war memory.
 - [235. China and World War II (Part 1)](sources/235-china-and-world-war-ii-part-1-glt2114682484.md) — The Rest Is History episode with Rana Mitter on rival global-war start dates, Chinese fragmentation, Japanese imperial expansion, the 1937 escalation, and the Battle of Shanghai.
+- [Who's Gonna Pay for Your Social Security?](sources/default-mp3-ywr3ahjkcgo-fa7b2a90f9b1f7efc01397a3ed4ae0bf-30494375-default-mp3-ywr3ahjkcgo-fa7b2a90f9b1f7efc01397a3ed4ae0bf-30494375.md) — Planet Money episode comparing the financing scale and distributional costs of Social Security reform options.
 
 ## Entities
 - [Andrea Wulf](entities/AndreaWulf.md) — Historian interpreting the Jena circle as a social and intellectual experiment in responsible selfhood, interdisciplinary synthesis, and conflict.
@@ -5652,7 +5653,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [强华 / Qiang Hua (Eastern Han)](entities/QiangHuaEasternHan.md) — Guanzhong scholar whose 赤伏符 becomes the symbolic-evidence layer in Liu Xiu's accession sequence.
 - [Zhuo Mao / 卓茂 (Eastern Han)](entities/ZhuoMaoEasternHan.md) — Elder virtue-official whom Liu Xiu elevates as a founding-order moral exemplar.
 - [Liu Gong / 刘公 (Eastern Han)](entities/LiuGongEasternHan.md) — Liu Penzi's kinsman and Gengshi loyalist who protects Liu Xuan through surrender, body concealment, and later revenge memory.
-- [Social Security](entities/SocialSecurity.md) — U.S. retirement program used by the All-In source as a non-confiscatory vehicle for broad citizen equity ownership.
+- [Social Security](entities/SocialSecurity.md) — U.S. retirement and social-insurance program synthesized through pay-as-you-go financing, reform trade-offs, and a separate citizen-equity proposal.
 - [KFC](entities/KFC.md) — Global fast-food chain linking African protein and supplier fit with China-side infrastructure reuse for K Pro light food.
 - [K Pro / 肯律轻食](entities/KPro.md) — Yum China light-food sub-brand using adjacent KFC sites, shared infrastructure, and localized filling meals.
 - [Sub-Saharan Africa](entities/SubSaharanAfrica.md) — Regional fast-food comparison frame for KFC's broad footprint and McDonald's narrower presence.
@@ -14973,6 +14974,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Wang Jingwei / 汪精卫](entities/WangJingwei.md) — Former Nationalist leader who headed the Japanese-backed Nanjing regime while claiming Republican continuity and harm reduction.
 - [Marco Polo Bridge Incident](entities/MarcoPoloBridgeIncident.md) — July 1937 local confrontation near Wanping that escalated into sustained war between China and Japan.
 - [Battle of Shanghai (1937)](entities/BattleOfShanghai1937.md) — Costly three-month Nationalist stand chosen for military concentration and international visibility.
+- [Steve Goss](entities/SteveGoss.md) — Former Social Security chief actuary assessing the scale, feasibility, and timing of reform options.
 
 ## Concepts
 - [Jena Romanticism](concepts/JenaRomanticism.md) — Late-18th-century movement joining active selfhood, responsible freedom, nature, art, science, imagination, and dense collaborative life.
@@ -24018,5 +24020,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [1938 Yellow River Flood](concepts/YellowRiverFlood1938.md) — Deliberate Nationalist dike breach whose mass civilian cost and disputed military value define a severe military-necessity dilemma.
 - [Wartime Collaboration under Occupation](concepts/WartimeCollaborationUnderOccupation.md) — Framework distinguishing elite client rule from coerced, pragmatic, and survival-based accommodation under occupation.
 - [Chinese War Memory and Reconciliation](concepts/ChineseWarMemoryReconciliation.md) — Selective widening of war memory to recognize Nationalist as well as communist resistance without resolving rival narratives.
+- [Social Security Pay-As-You-Go Financing](concepts/SocialSecurityPayAsYouGoFinancing.md) — Financing structure linking current benefits to payroll taxes, demographics, employment, wages, and immigration.
+- [Social Security Reform Portfolio](concepts/SocialSecurityReformPortfolio.md) — Mixed tax, benefit, eligibility, and workforce package for closing the projected financing gap.
+- [Social Security Taxable Maximum Erosion](concepts/SocialSecurityTaxableMaximumErosion.md) — Decline in covered earnings when wage growth becomes concentrated above the payroll-tax cap.
 
 ## Syntheses

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 9002
+wiki_total_pages: 9005
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1199,6 +1199,15 @@ wiki_pages:
   - key: "SocialRoboticsElderCare"
     title: "Social Robotics in Elder Care"
     url: "/wiki/concepts/socialroboticseldercare/"
+  - key: "SocialSecurityPayAsYouGoFinancing"
+    title: "Social Security Pay-As-You-Go Financing"
+    url: "/wiki/concepts/socialsecuritypayasyougofinancing/"
+  - key: "SocialSecurityReformPortfolio"
+    title: "Social Security Reform Portfolio"
+    url: "/wiki/concepts/socialsecurityreformportfolio/"
+  - key: "SocialSecurityTaxableMaximumErosion"
+    title: "Social Security Taxable Maximum Erosion"
+    url: "/wiki/concepts/socialsecuritytaxablemaximumerosion/"
   - key: "SocialSignalInterpretation"
     title: "Social Signal Interpretation"
     url: "/wiki/concepts/socialsignalinterpretation/"

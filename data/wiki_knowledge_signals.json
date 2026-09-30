@@ -165877,9 +165877,9 @@
       "url": "/wiki/concepts/socialroboticseldercare/"
     },
     "SocialSecurity": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's Fable Backlash, Nationalizing AI, Inflation Heats Up & California’s Broken Elections [41630275].md",
@@ -165887,10 +165887,65 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Anthropic's Fable Backlash, Nationalizing AI, Inflation Heats Up & California's Broken Elections",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections-41630275/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_fa7b2a90f9b1f7efc01397a3ed4ae0bf_30494375 [default.mp3_ywr3ahjkcgo_fa7b2a90f9b1f7efc01397a3ed4ae0bf_30494375].md",
+          "key": "default-mp3-ywr3ahjkcgo-fa7b2a90f9b1f7efc01397a3ed4ae0bf-30494375-default-mp3-ywr3ahjkcgo-fa7b2a90f9b1f7efc01397a3ed4ae0bf-30494375",
+          "show": "Planet Money",
+          "title": "Who's Gonna Pay for Your Social Security?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-fa7b2a90f9b1f7efc01397a3ed4ae0bf-30494375-default-mp3-ywr3ahjkcgo-fa7b2a90f9b1f7efc01397a3ed4ae0bf-30494375/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/socialsecurity/"
+    },
+    "SocialSecurityPayAsYouGoFinancing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_fa7b2a90f9b1f7efc01397a3ed4ae0bf_30494375 [default.mp3_ywr3ahjkcgo_fa7b2a90f9b1f7efc01397a3ed4ae0bf_30494375].md",
+          "key": "default-mp3-ywr3ahjkcgo-fa7b2a90f9b1f7efc01397a3ed4ae0bf-30494375-default-mp3-ywr3ahjkcgo-fa7b2a90f9b1f7efc01397a3ed4ae0bf-30494375",
+          "show": "Planet Money",
+          "title": "Who's Gonna Pay for Your Social Security?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-fa7b2a90f9b1f7efc01397a3ed4ae0bf-30494375-default-mp3-ywr3ahjkcgo-fa7b2a90f9b1f7efc01397a3ed4ae0bf-30494375/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/socialsecuritypayasyougofinancing/"
+    },
+    "SocialSecurityReformPortfolio": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_fa7b2a90f9b1f7efc01397a3ed4ae0bf_30494375 [default.mp3_ywr3ahjkcgo_fa7b2a90f9b1f7efc01397a3ed4ae0bf_30494375].md",
+          "key": "default-mp3-ywr3ahjkcgo-fa7b2a90f9b1f7efc01397a3ed4ae0bf-30494375-default-mp3-ywr3ahjkcgo-fa7b2a90f9b1f7efc01397a3ed4ae0bf-30494375",
+          "show": "Planet Money",
+          "title": "Who's Gonna Pay for Your Social Security?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-fa7b2a90f9b1f7efc01397a3ed4ae0bf-30494375-default-mp3-ywr3ahjkcgo-fa7b2a90f9b1f7efc01397a3ed4ae0bf-30494375/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/socialsecurityreformportfolio/"
+    },
+    "SocialSecurityTaxableMaximumErosion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_fa7b2a90f9b1f7efc01397a3ed4ae0bf_30494375 [default.mp3_ywr3ahjkcgo_fa7b2a90f9b1f7efc01397a3ed4ae0bf_30494375].md",
+          "key": "default-mp3-ywr3ahjkcgo-fa7b2a90f9b1f7efc01397a3ed4ae0bf-30494375-default-mp3-ywr3ahjkcgo-fa7b2a90f9b1f7efc01397a3ed4ae0bf-30494375",
+          "show": "Planet Money",
+          "title": "Who's Gonna Pay for Your Social Security?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-fa7b2a90f9b1f7efc01397a3ed4ae0bf-30494375-default-mp3-ywr3ahjkcgo-fa7b2a90f9b1f7efc01397a3ed4ae0bf-30494375/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/socialsecuritytaxablemaximumerosion/"
     },
     "SocialValueAccounting": {
       "episode_count": 1,
@@ -168977,6 +169032,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/entities/stevedahl/"
+    },
+    "SteveGoss": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_fa7b2a90f9b1f7efc01397a3ed4ae0bf_30494375 [default.mp3_ywr3ahjkcgo_fa7b2a90f9b1f7efc01397a3ed4ae0bf_30494375].md",
+          "key": "default-mp3-ywr3ahjkcgo-fa7b2a90f9b1f7efc01397a3ed4ae0bf-30494375-default-mp3-ywr3ahjkcgo-fa7b2a90f9b1f7efc01397a3ed4ae0bf-30494375",
+          "show": "Planet Money",
+          "title": "Who's Gonna Pay for Your Social Security?",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-fa7b2a90f9b1f7efc01397a3ed4ae0bf-30494375-default-mp3-ywr3ahjkcgo-fa7b2a90f9b1f7efc01397a3ed4ae0bf-30494375/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/stevegoss/"
     },
     "SteveHilton": {
       "episode_count": 3,
