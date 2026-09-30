@@ -25808,3 +25808,10 @@ Added source `264-mexico-day-of-the-dead-glt9022174156`; created `PlutarcoEliasC
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-09-30] ingest | 263: USA vs England: The 200-Year Rivalry
+
+Added source `263-usa-vs-england-the-200-year-rivalry-glt7546211559`; created `CharlesDickens`, `AndrewCarnegie`, `AngloAmericanPowerReversal`, and `BlackAmericanGIsWartimeBritain`; and resynthesized `WarOf1812`, `TheBeatles`, and `AmericanCulturalExports` from their complete bounded source sets. Core synthesis: the Anglo-American relationship is a domain-specific power reversal rather than a simple succession, with military dependence, capital, cultural prestige, racial institutions, and media moving at different speeds; cultural influence remains recursive because American forms can be transformed abroad and returned through American markets. No settled contradiction was adopted. Troop and casualty figures, reported dialogue and signs, chart and audience statistics, promotional anecdotes, and broad national-character or Americanization claims remain source-scoped. The canonical `wiki/overview.md` input was updated during ingest; the downstream synthesis-refresh workflow read it without rewriting it.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

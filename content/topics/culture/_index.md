@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2938
+topic_total_pages: 2939
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -286,6 +286,9 @@ topic_concepts:
   - key: "AncientChineseBookMateriality"
     title: "Ancient Chinese Book Materiality / 中国古籍物质性"
     url: "/wiki/concepts/ancientchinesebookmateriality/"
+  - key: "AngloAmericanPowerReversal"
+    title: "Anglo-American Power Reversal"
+    url: "/wiki/concepts/angloamericanpowerreversal/"
   - key: "AnimalMoralProjection"
     title: "Animal Moral Projection"
     url: "/wiki/concepts/animalmoralprojection/"

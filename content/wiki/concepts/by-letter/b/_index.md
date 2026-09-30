@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 8915
+wiki_total_pages: 8917
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -461,6 +461,9 @@ wiki_pages:
   - key: "BJDDollMakeupCommission"
     title: "BJD Doll Makeup Commission / BJD妆面约稿"
     url: "/wiki/concepts/bjddollmakeupcommission/"
+  - key: "BlackAmericanGIsWartimeBritain"
+    title: "Black American GIs in Wartime Britain"
+    url: "/wiki/concepts/blackamericangiswartimebritain/"
   - key: "BlackComicMoralInversion"
     title: "Black Comic Moral Inversion"
     url: "/wiki/concepts/blackcomicmoralinversion/"

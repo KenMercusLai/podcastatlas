@@ -9279,9 +9279,9 @@
       "url": "/wiki/concepts/ambientvoiceagentinterface/"
     },
     "AmericanCulturalExports": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "The 250-year experiment： America’s birthday [6a477d9aecd123914320b4ad].md",
@@ -9296,9 +9296,16 @@
           "show": "Economist Podcasts",
           "title": "Big shot: does a cancer vaccine work?",
           "url": "/wiki/sources/big-shot-does-a-cancer-vaccine-work-6a9001f40c15e359f9cb103c/"
+        },
+        {
+          "episode_file": "GLT7546211559 [GLT7546211559].md",
+          "key": "263-usa-vs-england-the-200-year-rivalry-glt7546211559",
+          "show": "The Rest Is History",
+          "title": "263: USA vs England: The 200-Year Rivalry",
+          "url": "/wiki/sources/263-usa-vs-england-the-200-year-rivalry-glt7546211559/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-09-30",
       "url": "/wiki/concepts/americanculturalexports/"
     },
     "AmericanDemocraticResilience": {
@@ -10225,6 +10232,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/andrewbogle/"
+    },
+    "AndrewCarnegie": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7546211559 [GLT7546211559].md",
+          "key": "263-usa-vs-england-the-200-year-rivalry-glt7546211559",
+          "show": "The Rest Is History",
+          "title": "263: USA vs England: The 200-Year Rivalry",
+          "url": "/wiki/sources/263-usa-vs-england-the-200-year-rivalry-glt7546211559/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/andrewcarnegie/"
     },
     "AndrewHuberman": {
       "episode_count": 54,
@@ -11161,6 +11184,22 @@
       ],
       "updated": "2026-08-23",
       "url": "/wiki/concepts/angerdrivenwardecision/"
+    },
+    "AngloAmericanPowerReversal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7546211559 [GLT7546211559].md",
+          "key": "263-usa-vs-england-the-200-year-rivalry-glt7546211559",
+          "show": "The Rest Is History",
+          "title": "263: USA vs England: The 200-Year Rivalry",
+          "url": "/wiki/sources/263-usa-vs-england-the-200-year-rivalry-glt7546211559/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/angloamericanpowerreversal/"
     },
     "AngloFrenchDualMonarchy": {
       "episode_count": 1,
@@ -20285,6 +20324,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/birthrightcitizenshipdebate/"
     },
+    "BlackAmericanGIsWartimeBritain": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7546211559 [GLT7546211559].md",
+          "key": "263-usa-vs-england-the-200-year-rivalry-glt7546211559",
+          "show": "The Rest Is History",
+          "title": "263: USA vs England: The 200-Year Rivalry",
+          "url": "/wiki/sources/263-usa-vs-england-the-200-year-rivalry-glt7546211559/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/blackamericangiswartimebritain/"
+    },
     "BlackCatDetectiveAgency": {
       "episode_count": 1,
       "show_count": 1,
@@ -28172,6 +28227,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/charlesdegaulle/"
+    },
+    "CharlesDickens": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7546211559 [GLT7546211559].md",
+          "key": "263-usa-vs-england-the-200-year-rivalry-glt7546211559",
+          "show": "The Rest Is History",
+          "title": "263: USA vs England: The 200-Year Rivalry",
+          "url": "/wiki/sources/263-usa-vs-england-the-200-year-rivalry-glt7546211559/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/charlesdickens/"
     },
     "CharlesDuncanCameron": {
       "episode_count": 2,
@@ -171716,9 +171787,9 @@
       "url": "/wiki/entities/theanxiousgeneration/"
     },
     "TheBeatles": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "8211241331_711602 [8211241331_711602].md",
@@ -171747,9 +171818,16 @@
           "show": "The Rest Is History",
           "title": "364. Sixties Fashion: Swinging London (Part 2)",
           "url": "/wiki/sources/364-sixties-fashion-swinging-london-part-2-glt8438824218/"
+        },
+        {
+          "episode_file": "GLT7546211559 [GLT7546211559].md",
+          "key": "263-usa-vs-england-the-200-year-rivalry-glt7546211559",
+          "show": "The Rest Is History",
+          "title": "263: USA vs England: The 200-Year Rivalry",
+          "url": "/wiki/sources/263-usa-vs-england-the-200-year-rivalry-glt7546211559/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-09-30",
       "url": "/wiki/entities/thebeatles/"
     },
     "TheCanterburyTales": {
@@ -183663,9 +183741,9 @@
       "url": "/wiki/concepts/wardefeatradicalization/"
     },
     "WarOf1812": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7890467734 [GLT7890467734].md",
@@ -183673,9 +183751,16 @@
           "show": "The Rest Is History",
           "title": "677. USA: The Star-Spangled Banner (Part 1)",
           "url": "/wiki/sources/677-usa-the-star-spangled-banner-part-1-glt7890467734/"
+        },
+        {
+          "episode_file": "GLT7546211559 [GLT7546211559].md",
+          "key": "263-usa-vs-england-the-200-year-rivalry-glt7546211559",
+          "show": "The Rest Is History",
+          "title": "263: USA vs England: The 200-Year Rivalry",
+          "url": "/wiki/sources/263-usa-vs-england-the-200-year-rivalry-glt7546211559/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-09-30",
       "url": "/wiki/entities/warof1812/"
     },
     "WarOfTheGoldenStool": {

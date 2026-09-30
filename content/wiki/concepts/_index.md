@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 8915
+wiki_total_pages: 8917
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1949,6 +1949,9 @@ wiki_pages:
   - key: "AngkorHydraulicEmpire"
     title: "Angkor Hydraulic Empire / 吴哥水利帝国"
     url: "/wiki/concepts/angkorhydraulicempire/"
+  - key: "AngloAmericanPowerReversal"
+    title: "Anglo-American Power Reversal"
+    url: "/wiki/concepts/angloamericanpowerreversal/"
   - key: "AngloFrenchDualMonarchy"
     title: "Anglo-French Dual Monarchy"
     url: "/wiki/concepts/anglofrenchdualmonarchy/"

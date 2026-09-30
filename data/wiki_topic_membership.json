@@ -1388,6 +1388,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "263-usa-vs-england-the-200-year-rivalry-glt7546211559": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0": [
     {
       "key": "politics",
@@ -10917,6 +10924,18 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "AngloAmericanPowerReversal": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "Anhui": [

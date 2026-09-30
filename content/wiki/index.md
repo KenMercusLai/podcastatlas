@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [263: USA vs England: The 200-Year Rivalry](sources/263-usa-vs-england-the-200-year-rivalry-glt7546211559.md) — The Rest Is History episode on Anglo-American power reversal through the War of 1812, Dickens, Carnegie, Black GIs, the Beatles, British decline, and modern Americanization.
 - [264: Mexico: Day of the Dead](sources/264-mexico-day-of-the-dead-glt9022174156.md) — The Rest Is History episode on Dia de Muertos's Catholic-Iberian genealogy, Indigenous and Mexican layering, post-revolutionary national recoding, political skeleton art, and a film-created parade becoming civic ritual.
 - [265: Saudi Arabia: The Mystery of the Kaaba](sources/265-saudi-arabia-the-mystery-of-the-kaaba-glt1528147434.md) — The Rest Is History episode on the Kaaba's Muslim sacred history, sparse early external evidence, late-seventh-century reconstruction, and the limits of secular historical interpretation.
 - [E254｜超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？](sources/e254-chaoji-eerninuo-laile-womende-richang-suoxu-zhenhui-yin-ta-zhangjia-ma-0b644f51-461c-4ddb-b707-d2a39b9a7d80.md) — 硅谷101 episode on conditional El Niño commodity shocks, crop-stage and inventory exposure, retail pass-through, fishmeal, producer risk controls, and Panama Canal drought disruption.
@@ -3271,6 +3272,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Using Caffeine to Optimize Mental & Physical Performance](sources/using-caffeine-to-optimize-mental-physical-performance-scim1210768101.md) — Huberman Lab solo episode on adenosine blockade, caffeine timing and dose, performance, memory, learned reinforcement, tolerance, sleep, and stacking risks.
 
 ## Entities
+- [Charles Dickens](entities/CharlesDickens.md) — British novelist whose 1842 U.S. tour turned literary celebrity into conflict over slavery, copyright, public intrusion, and national stereotype.
+- [Andrew Carnegie](entities/AndrewCarnegie.md) — Scottish-born U.S. industrialist whose fortune and transatlantic philanthropy symbolize shifting Anglo-American economic power.
 - [Plutarco Elias Calles](entities/PlutarcoEliasCalles.md) — Post-revolutionary president whose anti-clerical state-building forms the political background to the episode's festival-reinvention argument.
 - [Lazaro Cardenas](entities/LazaroCardenas.md) — President associated by the episode with strong 1930s state promotion of Dia de Muertos as national tradition.
 - [Jose Guadalupe Posada](entities/JoseGuadalupePosada.md) — Printmaker whose satirical calaveras supply the modern political-art genealogy of La Catrina.
@@ -14812,6 +14815,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Wieliczka Salt Mine](entities/WieliczkaSaltMine.md) — Royal salt industry transformed into an underground religious-art, tourism, and national-memory complex.
 
 ## Concepts
+- [Anglo-American Power Reversal](concepts/AngloAmericanPowerReversal.md) — Shift in attention, capital, strategic hierarchy, and cultural judgment between Britain and the United States across distinct domains.
+- [Black American GIs in Wartime Britain](concepts/BlackAmericanGIsWartimeBritain.md) — Allied wartime case where U.S. military segregation met British civilian resistance, racial conflict, and local solidarity.
 - [Day of the Dead](concepts/DayOfTheDead.md) — Layered Mexican commemorative festival joining Catholic-Iberian ritual, Indigenous materials, colonial foodways, national recoding, political art, and media spectacle.
 - [Invented Tradition](concepts/InventedTradition.md) — Selective assembly or formalization of practices presented through continuity with an older past, without implying that their social meaning is unreal.
 - [Mexican Post-Revolutionary Cultural Nationalism](concepts/MexicanPostRevolutionaryCulturalNationalism.md) — State-supported recoding of Indigenous symbols, art, ritual, and anti-clerical identity into a modern national culture.
