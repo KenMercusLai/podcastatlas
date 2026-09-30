@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 11482
+wiki_total_pages: 11491
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -656,6 +656,9 @@ wiki_pages:
   - key: "PokeRobotics"
     title: "Poke Robotics"
     url: "/wiki/entities/pokerobotics/"
+  - key: "Poland"
+    title: "Poland"
+    url: "/wiki/entities/poland/"
   - key: "PolisarioFront"
     title: "Polisario Front"
     url: "/wiki/entities/polisariofront/"

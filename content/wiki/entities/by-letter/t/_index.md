@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 11482
+wiki_total_pages: 11491
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -953,6 +953,9 @@ wiki_pages:
   - key: "TorigoeAtsushi"
     title: "Torigoe Atsushi"
     url: "/wiki/entities/torigoeatsushi/"
+  - key: "Torun"
+    title: "Torun"
+    url: "/wiki/entities/torun/"
   - key: "Toshiba"
     title: "Toshiba"
     url: "/wiki/entities/toshiba/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [270: Poland: Copernicus, the Dragon and the Salt Mine](sources/270-poland-copernicus-the-dragon-and-the-salt-mine-glt2590789810.md) — The Rest Is History tour of seven Polish wonders linking European trade and exchange, layered national memory, Jewish destruction, occupation, conservation, and tourism.
 - [索道赚钱能力堪比茅台，山岳景区为何还在为增长发愁？](sources/suodao-zhuanqian-nengli-kanbi-maotai-shanyue-jingqu-weihe-hai-zai-wei-zengzhang-fachou-1020019950.md) — 声动早咖啡 episode on high-margin cableway economics, weak destination-level conversion, hotel tradeoffs, capacity, and the shift from fixed-route sightseeing toward deeper outdoor experiences.
 - [271: Belgium: History's Greatest Artist](sources/271-belgium-historys-greatest-artist-glt1331750756.md) — The Rest Is History episode on Jan van Eyck, Burgundian court service, layered oil technique, artistic individualism, Flemish wealth, and the Ghent Altarpiece.
 - [272: Senegal: The Door of No Return](sources/272-senegal-the-door-of-no-return-glt8611353465.md) — The Rest Is History episode on Gorée, the disputed House of Slaves embarkation narrative, African American pilgrimage, and the boundary between historical evidence and symbolic memory.
@@ -14771,8 +14772,20 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jan van Eyck](entities/JanVanEyck.md) — Burgundian court painter whose layered oil technique, portrait presence, and Ghent Altarpiece define the episode's Northern Renaissance case.
 - [Bart van Loo](entities/BartVanLoo.md) — Historian linking Van Eyck's art to Burgundian politics, Flemish wealth, and a qualified Belgian frame.
 - [Ghent Altarpiece](entities/GhentAltarpiece.md) — Monumental polyptych joining Christian sacrifice, lay commemoration, Flemish cloth wealth, and Van Eyck's realism.
+- [Poland](entities/Poland.md) — Central European country read through trade, border change, occupation, reconstructed and surviving landmarks, and layered national memory.
+- [Krakow](entities/Krakow.md) — Former capital joining medieval commerce, Wawel's royal and Catholic memory, Jewish history, Nazi occupation, and tourism.
+- [Zamosc](entities/Zamosc.md) — Planned Renaissance city whose preserved fabric coexists with the destruction of its Jewish community.
+- [Elblag Canal](entities/ElblagCanal.md) — Prussian-built canal in present-day Poland whose inclined planes join engineering heritage to partition history.
+- [Wawel Hill](entities/WawelHill.md) — Krakow castle-and-cathedral complex connecting monarchy, Catholicism, national commemoration, Nazi appropriation, and survival.
+- [Malbork Castle](entities/MalborkCastle.md) — Teutonic fortress carrying Baltic, German, Polish, crusading, and imperial-nationalist meanings.
+- [Torun](entities/Torun.md) — Vistula trading city associated with Gothic brick, gingerbread, wartime survival, and Copernicus.
+- [Nicolaus Copernicus](entities/NicolausCopernicus.md) — Renaissance canon and astronomer whose Polish-German national classification remains necessarily qualified.
+- [Wieliczka Salt Mine](entities/WieliczkaSaltMine.md) — Royal salt industry transformed into an underground religious-art, tourism, and national-memory complex.
 
 ## Concepts
+- [Polish Built-Heritage Palimpsest](concepts/PolishBuiltHeritagePalimpsest.md) — Framework reading Polish landmarks as layered products of trade, dynasty, religion, border change, occupation, conservation, and tourism.
+- [Heritage Survival and Reconstruction](concepts/HeritageSurvivalAndReconstruction.md) — Distinction among continuous fabric, rebuilding, adaptive reuse, and continuity of the communities that gave places meaning.
+- [Premodern Identity and Modern Nationality](concepts/PremodernIdentityModernNationality.md) — Method separating historically situated affiliations from exclusive national labels projected backward.
 - [Cableway Asset Economics / 景区索道资产经济](concepts/CablewayAssetEconomics.md) — How constrained supply, visitor utility, flexible charging, and mature fixed costs can produce high cableway margins without assuring destination growth.
 - [Mountain Scenic-Area Growth Constraint / 山岳景区增长约束](concepts/MountainScenicAreaGrowthConstraint.md) — Gap between transporting visitors efficiently and building dwell time, spending, repeat demand, and safe deeper outdoor experience within capacity limits.
 - [Contested Heritage Pilgrimage](concepts/ContestedHeritagePilgrimage.md) — Framework separating a disputed site's material history from its real commemorative, ancestral, and ritual power.

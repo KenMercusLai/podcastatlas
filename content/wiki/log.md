@@ -25737,3 +25737,10 @@ Added source `271-belgium-historys-greatest-artist-glt1331750756`; created `JanV
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-09-30] ingest | 270: Poland: Copernicus, the Dragon and the Salt Mine
+
+Added source `270-poland-copernicus-the-dragon-and-the-salt-mine-glt2590789810`; created `Poland`, `Krakow`, `Zamosc`, `ElblagCanal`, `WawelHill`, `MalborkCastle`, `Torun`, `NicolausCopernicus`, `WieliczkaSaltMine`, `PolishBuiltHeritagePalimpsest`, `HeritageSurvivalAndReconstruction`, and `PremodernIdentityModernNationality`. Core synthesis: the seven-wonders route challenges a simple East-West map by showing Polish landmarks as products of trade, artistic transfer, composite rule, shifting borders, occupation, conservation, and tourism; material survival or reconstruction must be separated from continuity of the communities that gave places meaning, and premodern people such as Copernicus do not fit exclusive modern national labels. No settled contradiction was adopted. Rankings, dimensions, population and production figures, demolition plans, language claims, and causal interpretations remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten because this episode opens a bounded Polish-history branch without changing the wiki-wide synthesis.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

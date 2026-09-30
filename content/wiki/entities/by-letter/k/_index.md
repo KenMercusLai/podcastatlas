@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 11482
+wiki_total_pages: 11491
 wiki_pages:
   - key: "KennedyAssassination"
     title: "Assassination of John F. Kennedy"
@@ -527,6 +527,9 @@ wiki_pages:
   - key: "KPMG"
     title: "KPMG"
     url: "/wiki/entities/kpmg/"
+  - key: "Krakow"
+    title: "Krakow"
+    url: "/wiki/entities/krakow/"
   - key: "KrebsOnSecurity"
     title: "Krebs on Security"
     url: "/wiki/entities/krebsonsecurity/"

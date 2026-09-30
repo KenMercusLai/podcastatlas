@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 11482
+wiki_total_pages: 11491
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -149,6 +149,9 @@ wiki_pages:
   - key: "Malaysia"
     title: "Malaysia"
     url: "/wiki/entities/malaysia/"
+  - key: "MalborkCastle"
+    title: "Malbork Castle"
+    url: "/wiki/entities/malborkcastle/"
   - key: "MalcolmGaskell"
     title: "Malcolm Gaskell"
     url: "/wiki/entities/malcolmgaskell/"

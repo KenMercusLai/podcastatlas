@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 11482
+wiki_total_pages: 11491
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -29,6 +29,9 @@ wiki_pages:
   - key: "Zalando"
     title: "Zalando"
     url: "/wiki/entities/zalando/"
+  - key: "Zamosc"
+    title: "Zamosc"
+    url: "/wiki/entities/zamosc/"
   - key: "Zangshu"
     title: "Zangshu / 《葬书》"
     url: "/wiki/entities/zangshu/"

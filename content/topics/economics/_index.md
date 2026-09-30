@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2143
+topic_total_pages: 2144
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -4319,6 +4319,9 @@ topic_entities:
   - key: "KPMG"
     title: "KPMG"
     url: "/wiki/entities/kpmg/"
+  - key: "Krakow"
+    title: "Krakow"
+    url: "/wiki/entities/krakow/"
   - key: "KulvirTaggar"
     title: "Kulvir Taggar"
     url: "/wiki/entities/kulvirtaggar/"

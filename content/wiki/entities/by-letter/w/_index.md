@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 11482
+wiki_total_pages: 11491
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -227,6 +227,9 @@ wiki_pages:
   - key: "WattsTowers"
     title: "Watts Towers"
     url: "/wiki/entities/wattstowers/"
+  - key: "WawelHill"
+    title: "Wawel Hill"
+    url: "/wiki/entities/wawelhill/"
   - key: "WaybackMachine"
     title: "Wayback Machine"
     url: "/wiki/entities/waybackmachine/"
@@ -458,6 +461,9 @@ wiki_pages:
   - key: "WidgeryInquiry"
     title: "Widgery Inquiry"
     url: "/wiki/entities/widgeryinquiry/"
+  - key: "WieliczkaSaltMine"
+    title: "Wieliczka Salt Mine"
+    url: "/wiki/entities/wieliczkasaltmine/"
   - key: "WifeOfBath"
     title: "Wife of Bath"
     url: "/wiki/entities/wifeofbath/"

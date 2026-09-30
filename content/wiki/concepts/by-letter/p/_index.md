@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8890
+wiki_total_pages: 8893
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -977,6 +977,9 @@ wiki_pages:
   - key: "PolicyDrivenMarketRally"
     title: "Policy-Driven Market Rally"
     url: "/wiki/concepts/policydrivenmarketrally/"
+  - key: "PolishBuiltHeritagePalimpsest"
+    title: "Polish Built-Heritage Palimpsest"
+    url: "/wiki/concepts/polishbuiltheritagepalimpsest/"
   - key: "PoliticalAccentPrestige"
     title: "Political Accent Prestige"
     url: "/wiki/concepts/politicalaccentprestige/"
@@ -1535,6 +1538,9 @@ wiki_pages:
   - key: "PremiumEverydayBrandTension"
     title: "Premium-Everyday Brand Tension"
     url: "/wiki/concepts/premiumeverydaybrandtension/"
+  - key: "PremodernIdentityModernNationality"
+    title: "Premodern Identity and Modern Nationality"
+    url: "/wiki/concepts/premodernidentitymodernnationality/"
   - key: "PrenatalScreeningAndPregnancyCareLimits"
     title: "Prenatal Screening and Pregnancy-Care Limits / 产前筛查与孕期照护边界"
     url: "/wiki/concepts/prenatalscreeningandpregnancycarelimits/"
