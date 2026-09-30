@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2964
+topic_total_pages: 2965
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2173,6 +2173,9 @@ topic_concepts:
   - key: "PopToAlbumRockTransition"
     title: "Pop-to-Album-Rock Transition"
     url: "/wiki/concepts/poptoalbumrocktransition/"
+  - key: "PortugueseCulturalSymbolPolitics"
+    title: "Portuguese Cultural Symbol Politics"
+    url: "/wiki/concepts/portugueseculturalsymbolpolitics/"
   - key: "PositiveJournalism"
     title: "Positive Journalism"
     url: "/wiki/concepts/positivejournalism/"

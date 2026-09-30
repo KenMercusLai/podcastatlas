@@ -1374,6 +1374,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "230-portugal-football-fado-and-fascism-part-4-glt9147423732": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "231-queen-elizabeth-ii-part-1-glt2826379729": [
     {
       "key": "history",
@@ -60800,6 +60807,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "PortugueseCulturalSymbolPolitics": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "PositionSizing": [

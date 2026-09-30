@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 11625
+wiki_total_pages: 11629
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1004,6 +1004,9 @@ wiki_pages:
   - key: "AmyWebb"
     title: "Amy Webb"
     url: "/wiki/entities/amywebb/"
+  - key: "AmaliaRodrigues"
+    title: "Amália Rodrigues"
+    url: "/wiki/entities/amaliarodrigues/"
   - key: "AnConghui"
     title: "An Conghui / 安聪慧"
     url: "/wiki/entities/anconghui/"
@@ -1454,6 +1457,9 @@ wiki_pages:
   - key: "Aristagoras"
     title: "Aristagoras"
     url: "/wiki/entities/aristagoras/"
+  - key: "AristidesDeSousaMendes"
+    title: "Aristides de Sousa Mendes"
+    url: "/wiki/entities/aristidesdesousamendes/"
   - key: "AristionAthens"
     title: "Aristion of Athens / 雅典的阿里斯提昂"
     url: "/wiki/entities/aristionathens/"

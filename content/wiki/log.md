@@ -26240,3 +26240,11 @@ Added source `231-queen-elizabeth-ii-part-1-glt2826379729`; created `GeorgeV`, `
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | 230. Portugal: Football, Fado, and Fascism? (Part 4)
+
+Added source `230-portugal-football-fado-and-fascism-part-4-glt9147423732`; created `HumbertoDelgado`, `AristidesDeSousaMendes`, `AmaliaRodrigues`, `Eusebio`, `AuthoritarianFascismBoundary`, and `PortugueseCulturalSymbolPolitics`; and resynthesized `AntonioDeOliveiraSalazar`, `Portugal`, `EstadoNovoPortugal`, `PortugueseColonialWars`, and `AuthoritarianSportsPropaganda` from their complete preserved evidence inventories. Core synthesis: Salazar's Estado Novo combined fiscal competence, personal austerity, Catholic conservatism, censorship, secret policing, and imperial preservation; its borrowed corporatist and fascist forms did not erase distinctions from revolutionary mass mobilization, while Fátima, fado, football, and genuine cultural achievement remained politically appropriable without making every participant a regime adherent. No settled contradiction was adopted. Repression totals, comparative regime judgments, wartime anecdotes, popularity evidence, and some cultural-causation claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,280-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

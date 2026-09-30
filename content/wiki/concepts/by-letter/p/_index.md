@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9014
+wiki_total_pages: 9016
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1187,6 +1187,9 @@ wiki_pages:
   - key: "PortugueseColonialWars"
     title: "Portuguese Colonial Wars"
     url: "/wiki/concepts/portuguesecolonialwars/"
+  - key: "PortugueseCulturalSymbolPolitics"
+    title: "Portuguese Cultural Symbol Politics"
+    url: "/wiki/concepts/portugueseculturalsymbolpolitics/"
   - key: "PortugueseMaritimeExpansion"
     title: "Portuguese Maritime Expansion / 葡萄牙海上扩张"
     url: "/wiki/concepts/portuguesemaritimeexpansion/"

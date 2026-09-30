@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [230. Portugal: Football, Fado, and Fascism? (Part 4)](sources/230-portugal-football-fado-and-fascism-part-4-glt9147423732.md) — The Rest Is History episode on Salazar's rise, Estado Novo repression and stability, the fascism boundary, wartime neutrality, cultural symbols, football, and colonial crisis.
 - [231. Queen Elizabeth II (Part 1)](sources/231-queen-elizabeth-ii-part-1-glt2826379729.md) — The Rest Is History episode on Elizabeth II's early life, wartime duty, the monarch's two bodies, accession, and the sacred-media tension of her coronation.
 - [232. Queen Elizabeth II (Part 2)](sources/232-queen-elizabeth-ii-part-2-glt5667149245.md) — The Rest Is History episode on Elizabeth II's Commonwealth role, media-era family crisis, emotional expectations, late-reign duty, and adaptive continuity.
 - [233. The Loch Ness Monster](sources/233-the-loch-ness-monster-glt3620889030.md) — The Rest Is History episode on Nessie as a media-formed Highland legend shaped by saintly narrative, access, hoaxes, tourism, exploration nostalgia, and conservation longing.
@@ -3441,6 +3442,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [House of Slaves (Goree)](entities/HouseOfSlavesGoree.md) — Gorée museum whose “Door of No Return” is a powerful pilgrimage symbol despite disputed mass-embarkation claims.
 - [Boubacar Joseph Ndiaye](entities/BoubacarJosephNdiaye.md) — Curator whose storytelling helped turn the House of Slaves into an international memory site.
 - [Philip D. Curtin](entities/PhilipDCurtin.md) — Atlantic slave-trade historian associated with the documentary challenge to Gorée's museum narrative.
+- [Humberto Delgado](entities/HumbertoDelgado.md) — Portuguese opposition general whose 1958 presidential challenge ended in exile and secret-police murder.
+- [Aristides de Sousa Mendes](entities/AristidesDeSousaMendes.md) — Portuguese consul whose Bordeaux visas enabled refugees to escape Nazi-controlled Europe.
+- [Amália Rodrigues](entities/AmaliaRodrigues.md) — Fado singer whose nostalgic national image was politically usable without implying Salazarist allegiance.
+- [Eusébio](entities/Eusebio.md) — Mozambique-born football star whose Portuguese prestige exposed late-colonial identity tensions.
 - [Antonio de Oliveira Salazar](entities/AntonioDeOliveiraSalazar.md) — Estado Novo ruler whose authoritarian and imperial system outlasted his incapacitation but constrained his successor.
 - [Marcelo Caetano](entities/MarceloCaetano.md) — Salazar's successor, whose bounded reforms and officer-promotion mistake preceded the 1974 coup.
 - [Armed Forces Movement (Portugal)](entities/ArmedForcesMovementPortugal.md) — Junior-officer organization that converted colonial-war and career grievances into the Carnation Revolution.
@@ -15082,6 +15087,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mountain Scenic-Area Growth Constraint / 山岳景区增长约束](concepts/MountainScenicAreaGrowthConstraint.md) — Gap between transporting visitors efficiently and building dwell time, spending, repeat demand, and safe deeper outdoor experience within capacity limits.
 - [Contested Heritage Pilgrimage](concepts/ContestedHeritagePilgrimage.md) — Framework separating a disputed site's material history from its real commemorative, ancestral, and ritual power.
 - [Memorial Audience Framing](concepts/MemorialAudienceFraming.md) — Process by which visitor identity, access, and tourism shape which parts of a transnational history a memorial foregrounds.
+- [Authoritarian-Fascism Boundary](concepts/AuthoritarianFascismBoundary.md) — Framework distinguishing conservative authoritarian preservation from fascist revolutionary mobilization without minimizing coercion.
+- [Portuguese Cultural Symbol Politics](concepts/PortugueseCulturalSymbolPolitics.md) — How saudade, Fátima, fado, and football expressed national identity while remaining available to Estado Novo appropriation.
 - [Estado Novo (Portugal)](concepts/EstadoNovoPortugal.md) — Portuguese authoritarian order whose colonial, fiscal, reform, and military pressures converged in its 1974 collapse.
 - [Portuguese Colonial Wars](concepts/PortugueseColonialWars.md) — African imperial conflicts that strained the dictatorship and politicized the officers who overthrew it.
 - [Carnation Revolution](concepts/CarnationRevolution.md) — Comparatively bloodless April 1974 coup whose peaceful symbolism must be distinguished from its contested aftermath.

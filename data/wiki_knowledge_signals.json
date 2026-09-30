@@ -9241,6 +9241,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/alzheimerearlydetectiondiagnosis/"
     },
+    "AmaliaRodrigues": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9147423732 [GLT9147423732].md",
+          "key": "230-portugal-football-fado-and-fascism-part-4-glt9147423732",
+          "show": "The Rest Is History",
+          "title": "230. Portugal: Football, Fado, and Fascism? (Part 4)",
+          "url": "/wiki/sources/230-portugal-football-fado-and-fascism-part-4-glt9147423732/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/amaliarodrigues/"
+    },
     "AmandaMcMaster": {
       "episode_count": 1,
       "show_count": 1,
@@ -12714,9 +12730,9 @@
       "url": "/wiki/entities/antoniodamasio/"
     },
     "AntonioDeOliveiraSalazar": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3297148398 [GLT3297148398].md",
@@ -12724,9 +12740,16 @@
           "show": "The Rest Is History",
           "title": "273: Portugal: The Carnation Revolution",
           "url": "/wiki/sources/273-portugal-the-carnation-revolution-glt3297148398/"
+        },
+        {
+          "episode_file": "GLT9147423732 [GLT9147423732].md",
+          "key": "230-portugal-football-fado-and-fascism-part-4-glt9147423732",
+          "show": "The Rest Is History",
+          "title": "230. Portugal: Football, Fado, and Fascism? (Part 4)",
+          "url": "/wiki/sources/230-portugal-football-fado-and-fascism-part-4-glt9147423732/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/antoniodeoliveirasalazar/"
     },
     "AntonioDeSpinola": {
@@ -13672,6 +13695,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/aristagoras/"
+    },
+    "AristidesDeSousaMendes": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9147423732 [GLT9147423732].md",
+          "key": "230-portugal-football-fado-and-fascism-part-4-glt9147423732",
+          "show": "The Rest Is History",
+          "title": "230. Portugal: Football, Fado, and Fascism? (Part 4)",
+          "url": "/wiki/sources/230-portugal-football-fado-and-fascism-part-4-glt9147423732/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/aristidesdesousamendes/"
     },
     "AristionAthens": {
       "episode_count": 1,
@@ -15858,10 +15897,26 @@
       "updated": "2026-09-11",
       "url": "/wiki/concepts/authorcommercialfilmbalance/"
     },
-    "AuthoritarianSportsPropaganda": {
-      "episode_count": 3,
+    "AuthoritarianFascismBoundary": {
+      "episode_count": 1,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9147423732 [GLT9147423732].md",
+          "key": "230-portugal-football-fado-and-fascism-part-4-glt9147423732",
+          "show": "The Rest Is History",
+          "title": "230. Portugal: Football, Fado, and Fascism? (Part 4)",
+          "url": "/wiki/sources/230-portugal-football-fado-and-fascism-part-4-glt9147423732/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/authoritarianfascismboundary/"
+    },
+    "AuthoritarianSportsPropaganda": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT5810592007 [GLT5810592007].md",
@@ -15883,9 +15938,16 @@
           "show": "The Rest Is History",
           "title": "253. The World Cup: Post-war reconciliation, Brazilian dictatorship, and North Koreans in Middlesbrough (Part 2)",
           "url": "/wiki/sources/253-the-world-cup-post-war-reconciliation-brazilian-dictatorship-and-north-koreans-in-middlesbrough-part-2-glt3874165711/"
+        },
+        {
+          "episode_file": "GLT9147423732 [GLT9147423732].md",
+          "key": "230-portugal-football-fado-and-fascism-part-4-glt9147423732",
+          "show": "The Rest Is History",
+          "title": "230. Portugal: Football, Fado, and Fascism? (Part 4)",
+          "url": "/wiki/sources/230-portugal-football-fado-and-fascism-part-4-glt9147423732/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/authoritariansportspropaganda/"
     },
     "AuthorityDisguiseInfiltration": {
@@ -58600,9 +58662,9 @@
       "url": "/wiki/concepts/establishedheirreplacementrisk/"
     },
     "EstadoNovoPortugal": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3297148398 [GLT3297148398].md",
@@ -58610,9 +58672,16 @@
           "show": "The Rest Is History",
           "title": "273: Portugal: The Carnation Revolution",
           "url": "/wiki/sources/273-portugal-the-carnation-revolution-glt3297148398/"
+        },
+        {
+          "episode_file": "GLT9147423732 [GLT9147423732].md",
+          "key": "230-portugal-football-fado-and-fascism-part-4-glt9147423732",
+          "show": "The Rest Is History",
+          "title": "230. Portugal: Football, Fado, and Fascism? (Part 4)",
+          "url": "/wiki/sources/230-portugal-football-fado-and-fascism-part-4-glt9147423732/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/estadonovoportugal/"
     },
     "EstatesGeneral1789": {
@@ -59000,6 +59069,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/europeanintegrationwarprevention/"
+    },
+    "Eusebio": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9147423732 [GLT9147423732].md",
+          "key": "230-portugal-football-fado-and-fascism-part-4-glt9147423732",
+          "show": "The Rest Is History",
+          "title": "230. Portugal: Football, Fado, and Fascism? (Part 4)",
+          "url": "/wiki/sources/230-portugal-football-fado-and-fascism-part-4-glt9147423732/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/eusebio/"
     },
     "EustacheDege": {
       "episode_count": 1,
@@ -88182,6 +88267,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/humanoidrobotcommercialization/"
+    },
+    "HumbertoDelgado": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9147423732 [GLT9147423732].md",
+          "key": "230-portugal-football-fado-and-fascism-part-4-glt9147423732",
+          "show": "The Rest Is History",
+          "title": "230. Portugal: Football, Fado, and Fascism? (Part 4)",
+          "url": "/wiki/sources/230-portugal-football-fado-and-fascism-part-4-glt9147423732/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/humbertodelgado/"
     },
     "HumorousRemonstrance": {
       "episode_count": 1,
@@ -142530,9 +142631,9 @@
       "url": "/wiki/concepts/portablepoliticalcapital/"
     },
     "Portugal": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 3,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT1627515087 [GLT1627515087].md",
@@ -142561,15 +142662,22 @@
           "show": "The Rest Is History",
           "title": "273: Portugal: The Carnation Revolution",
           "url": "/wiki/sources/273-portugal-the-carnation-revolution-glt3297148398/"
+        },
+        {
+          "episode_file": "GLT9147423732 [GLT9147423732].md",
+          "key": "230-portugal-football-fado-and-fascism-part-4-glt9147423732",
+          "show": "The Rest Is History",
+          "title": "230. Portugal: Football, Fado, and Fascism? (Part 4)",
+          "url": "/wiki/sources/230-portugal-football-fado-and-fascism-part-4-glt9147423732/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/portugal/"
     },
     "PortugueseColonialWars": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3297148398 [GLT3297148398].md",
@@ -142577,10 +142685,33 @@
           "show": "The Rest Is History",
           "title": "273: Portugal: The Carnation Revolution",
           "url": "/wiki/sources/273-portugal-the-carnation-revolution-glt3297148398/"
+        },
+        {
+          "episode_file": "GLT9147423732 [GLT9147423732].md",
+          "key": "230-portugal-football-fado-and-fascism-part-4-glt9147423732",
+          "show": "The Rest Is History",
+          "title": "230. Portugal: Football, Fado, and Fascism? (Part 4)",
+          "url": "/wiki/sources/230-portugal-football-fado-and-fascism-part-4-glt9147423732/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/portuguesecolonialwars/"
+    },
+    "PortugueseCulturalSymbolPolitics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9147423732 [GLT9147423732].md",
+          "key": "230-portugal-football-fado-and-fascism-part-4-glt9147423732",
+          "show": "The Rest Is History",
+          "title": "230. Portugal: Football, Fado, and Fascism? (Part 4)",
+          "url": "/wiki/sources/230-portugal-football-fado-and-fascism-part-4-glt9147423732/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/portugueseculturalsymbolpolitics/"
     },
     "PortugueseMaritimeExpansion": {
       "episode_count": 2,

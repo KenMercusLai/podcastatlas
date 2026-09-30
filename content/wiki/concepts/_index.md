@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9014
+wiki_total_pages: 9016
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2564,6 +2564,9 @@ wiki_pages:
   - key: "AuthoritarianWarExitDilemma"
     title: "Authoritarian War Exit Dilemma"
     url: "/wiki/concepts/authoritarianwarexitdilemma/"
+  - key: "AuthoritarianFascismBoundary"
+    title: "Authoritarian-Fascism Boundary"
+    url: "/wiki/concepts/authoritarianfascismboundary/"
   - key: "AuthorizedFitnessTrainingNetwork"
     title: "Authorized Fitness Training Network"
     url: "/wiki/concepts/authorizedfitnesstrainingnetwork/"
