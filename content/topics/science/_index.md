@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1331
+topic_total_pages: 1335
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -58,6 +58,9 @@ topic_concepts:
   - key: "AggressionCircuitBiology"
     title: "Aggression Circuit Biology"
     url: "/wiki/concepts/aggressioncircuitbiology/"
+  - key: "AgriculturalWeatherRiskManagement"
+    title: "Agricultural Weather-Risk Management"
+    url: "/wiki/concepts/agriculturalweatherriskmanagement/"
   - key: "AIComputeBruteForceScience"
     title: "AI Compute Brute-Force Science"
     url: "/wiki/concepts/aicomputebruteforcescience/"
@@ -1489,6 +1492,9 @@ topic_concepts:
   - key: "PalynologyAsEvidence"
     title: "Palynology As Evidence"
     url: "/wiki/concepts/palynologyasevidence/"
+  - key: "PanamaCanalDroughtDisruption"
+    title: "Panama Canal Drought Disruption"
+    url: "/wiki/concepts/panamacanaldroughtdisruption/"
   - key: "ParentalProjectionControl"
     title: "Parental Projection Control / 父母投射式控制"
     url: "/wiki/concepts/parentalprojectioncontrol/"
@@ -3272,6 +3278,9 @@ topic_entities:
   - key: "CuiJiabin"
     title: "崔嘉宾 / Cui Jiabin"
     url: "/wiki/entities/cuijiabin/"
+  - key: "ZhangSiqi"
+    title: "张司祺 / Zhang Siqi"
+    url: "/wiki/entities/zhangsiqi/"
   - key: "ZhangHongliang"
     title: "张弘亮 / 玉米"
     url: "/wiki/entities/zhanghongliang/"
@@ -3519,6 +3528,9 @@ topic_sources:
   - key: "e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793"
     title: "E239｜SpaceX要让太空算力从科幻走向现实，但它划算吗？"
     url: "/wiki/sources/e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793/"
+  - key: "e254-chaoji-eerninuo-laile-womende-richang-suoxu-zhenhui-yin-ta-zhangjia-ma-0b644f51-461c-4ddb-b707-d2a39b9a7d80"
+    title: "E254｜超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？"
+    url: "/wiki/sources/e254-chaoji-eerninuo-laile-womende-richang-suoxu-zhenhui-yin-ta-zhangjia-ma-0b644f51-461c-4ddb-b707-d2a39b9a7d80/"
   - key: "e46-women-congwei-kanjian-bici-lmliksaiwxakmjbn-p2voaaoenxh"
     title: "E46 我们从未看见彼此"
     url: "/wiki/sources/e46-women-congwei-kanjian-bici-lmliksaiwxakmjbn-p2voaaoenxh/"

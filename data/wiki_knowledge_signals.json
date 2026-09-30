@@ -7247,6 +7247,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/agriculturalpracticeastextualentry/"
     },
+    "AgriculturalWeatherRiskManagement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "E254｜超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？ [0b644f51-461c-4ddb-b707-d2a39b9a7d80].md",
+          "key": "e254-chaoji-eerninuo-laile-womende-richang-suoxu-zhenhui-yin-ta-zhangjia-ma-0b644f51-461c-4ddb-b707-d2a39b9a7d80",
+          "show": "硅谷101",
+          "title": "E254｜超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？",
+          "url": "/wiki/sources/e254-chaoji-eerninuo-laile-womende-richang-suoxu-zhenhui-yin-ta-zhangjia-ma-0b644f51-461c-4ddb-b707-d2a39b9a7d80/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/agriculturalweatherriskmanagement/"
+    },
     "AguirreExpedition": {
       "episode_count": 1,
       "show_count": 1,
@@ -33138,6 +33154,36 @@
       "updated": "2026-09-29",
       "url": "/wiki/concepts/climateexternalizationjustice/"
     },
+    "ClimateFoodPriceTransmission": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_e4f8f58c52bb2705505e91bc5a09045b_34937699 [default.mp3_ywr3ahjkcgo_e4f8f58c52bb2705505e91bc5a09045b_34937699].md",
+          "key": "reeses-heir-vs-chocolate-skimpflation",
+          "show": "Planet Money",
+          "title": "Reese's heir vs. chocolate skimpflation",
+          "url": "/wiki/sources/reeses-heir-vs-chocolate-skimpflation/"
+        },
+        {
+          "episode_file": "商业小样45 ｜ 厄尔尼诺越大，鱼越贵 [1000164352].md",
+          "key": "shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352",
+          "show": "商业就是这样",
+          "title": "商业小样45 | 厄尔尼诺越大，鱼越贵",
+          "url": "/wiki/sources/shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352/"
+        },
+        {
+          "episode_file": "E254｜超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？ [0b644f51-461c-4ddb-b707-d2a39b9a7d80].md",
+          "key": "e254-chaoji-eerninuo-laile-womende-richang-suoxu-zhenhui-yin-ta-zhangjia-ma-0b644f51-461c-4ddb-b707-d2a39b9a7d80",
+          "show": "硅谷101",
+          "title": "E254｜超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？",
+          "url": "/wiki/sources/e254-chaoji-eerninuo-laile-womende-richang-suoxu-zhenhui-yin-ta-zhangjia-ma-0b644f51-461c-4ddb-b707-d2a39b9a7d80/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/climatefoodpricetransmission/"
+    },
     "ClimateHistoryCausalPluralism": {
       "episode_count": 1,
       "show_count": 1,
@@ -35278,6 +35324,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/commius/"
+    },
+    "CommodityConsumerPricePassThrough": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "E254｜超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？ [0b644f51-461c-4ddb-b707-d2a39b9a7d80].md",
+          "key": "e254-chaoji-eerninuo-laile-womende-richang-suoxu-zhenhui-yin-ta-zhangjia-ma-0b644f51-461c-4ddb-b707-d2a39b9a7d80",
+          "show": "硅谷101",
+          "title": "E254｜超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？",
+          "url": "/wiki/sources/e254-chaoji-eerninuo-laile-womende-richang-suoxu-zhenhui-yin-ta-zhangjia-ma-0b644f51-461c-4ddb-b707-d2a39b9a7d80/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/commodityconsumerpricepassthrough/"
     },
     "CommodityTrapEscape": {
       "episode_count": 1,
@@ -51083,6 +51145,66 @@
       "updated": "2026-09-22",
       "url": "/wiki/concepts/eldorado/"
     },
+    "ElNino": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "Missing peace： will Israel imperil Iran deal？ [6a3bae9fe1238e54b0e886c3].md",
+          "key": "missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3",
+          "show": "Economist Podcasts",
+          "title": "Missing Peace: Will Israel Imperil Iran Deal?",
+          "url": "/wiki/sources/missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3/"
+        },
+        {
+          "episode_file": "商业小样45 ｜ 厄尔尼诺越大，鱼越贵 [1000164352].md",
+          "key": "shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352",
+          "show": "商业就是这样",
+          "title": "商业小样45 | 厄尔尼诺越大，鱼越贵",
+          "url": "/wiki/sources/shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352/"
+        },
+        {
+          "episode_file": "E254｜超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？ [0b644f51-461c-4ddb-b707-d2a39b9a7d80].md",
+          "key": "e254-chaoji-eerninuo-laile-womende-richang-suoxu-zhenhui-yin-ta-zhangjia-ma-0b644f51-461c-4ddb-b707-d2a39b9a7d80",
+          "show": "硅谷101",
+          "title": "E254｜超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？",
+          "url": "/wiki/sources/e254-chaoji-eerninuo-laile-womende-richang-suoxu-zhenhui-yin-ta-zhangjia-ma-0b644f51-461c-4ddb-b707-d2a39b9a7d80/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/elnino/"
+    },
+    "ElNinoClimateRisk": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "Missing peace： will Israel imperil Iran deal？ [6a3bae9fe1238e54b0e886c3].md",
+          "key": "missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3",
+          "show": "Economist Podcasts",
+          "title": "Missing Peace: Will Israel Imperil Iran Deal?",
+          "url": "/wiki/sources/missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3/"
+        },
+        {
+          "episode_file": "商业小样45 ｜ 厄尔尼诺越大，鱼越贵 [1000164352].md",
+          "key": "shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352",
+          "show": "商业就是这样",
+          "title": "商业小样45 | 厄尔尼诺越大，鱼越贵",
+          "url": "/wiki/sources/shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352/"
+        },
+        {
+          "episode_file": "E254｜超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？ [0b644f51-461c-4ddb-b707-d2a39b9a7d80].md",
+          "key": "e254-chaoji-eerninuo-laile-womende-richang-suoxu-zhenhui-yin-ta-zhangjia-ma-0b644f51-461c-4ddb-b707-d2a39b9a7d80",
+          "show": "硅谷101",
+          "title": "E254｜超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？",
+          "url": "/wiki/sources/e254-chaoji-eerninuo-laile-womende-richang-suoxu-zhenhui-yin-ta-zhangjia-ma-0b644f51-461c-4ddb-b707-d2a39b9a7d80/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/elninoclimaterisk/"
+    },
     "ElanParadoxMachines": {
       "episode_count": 1,
       "show_count": 1,
@@ -63120,6 +63242,29 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/concepts/fishoilnaturalstatinboundary/"
+    },
+    "FishmealSupplyChain": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "商业小样45 ｜ 厄尔尼诺越大，鱼越贵 [1000164352].md",
+          "key": "shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352",
+          "show": "商业就是这样",
+          "title": "商业小样45 | 厄尔尼诺越大，鱼越贵",
+          "url": "/wiki/sources/shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352/"
+        },
+        {
+          "episode_file": "E254｜超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？ [0b644f51-461c-4ddb-b707-d2a39b9a7d80].md",
+          "key": "e254-chaoji-eerninuo-laile-womende-richang-suoxu-zhenhui-yin-ta-zhangjia-ma-0b644f51-461c-4ddb-b707-d2a39b9a7d80",
+          "show": "硅谷101",
+          "title": "E254｜超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？",
+          "url": "/wiki/sources/e254-chaoji-eerninuo-laile-womende-richang-suoxu-zhenhui-yin-ta-zhangjia-ma-0b644f51-461c-4ddb-b707-d2a39b9a7d80/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/fishmealsupplychain/"
     },
     "FitnessAssessmentTestingWeek": {
       "episode_count": 1,
@@ -132275,6 +132420,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/panweili/"
     },
+    "PanamaCanalDroughtDisruption": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "E254｜超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？ [0b644f51-461c-4ddb-b707-d2a39b9a7d80].md",
+          "key": "e254-chaoji-eerninuo-laile-womende-richang-suoxu-zhenhui-yin-ta-zhangjia-ma-0b644f51-461c-4ddb-b707-d2a39b9a7d80",
+          "show": "硅谷101",
+          "title": "E254｜超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？",
+          "url": "/wiki/sources/e254-chaoji-eerninuo-laile-womende-richang-suoxu-zhenhui-yin-ta-zhangjia-ma-0b644f51-461c-4ddb-b707-d2a39b9a7d80/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/panamacanaldroughtdisruption/"
+    },
     "PancreaticImagingFindingTriage": {
       "episode_count": 1,
       "show_count": 1,
@@ -196381,6 +196542,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/zhangshuolatehan/"
+    },
+    "ZhangSiqi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "E254｜超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？ [0b644f51-461c-4ddb-b707-d2a39b9a7d80].md",
+          "key": "e254-chaoji-eerninuo-laile-womende-richang-suoxu-zhenhui-yin-ta-zhangjia-ma-0b644f51-461c-4ddb-b707-d2a39b9a7d80",
+          "show": "硅谷101",
+          "title": "E254｜超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？",
+          "url": "/wiki/sources/e254-chaoji-eerninuo-laile-womende-richang-suoxu-zhenhui-yin-ta-zhangjia-ma-0b644f51-461c-4ddb-b707-d2a39b9a7d80/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/zhangsiqi/"
     },
     "ZhangSongLateHan": {
       "episode_count": 1,

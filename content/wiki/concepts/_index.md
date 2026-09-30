@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 8903
+wiki_total_pages: 8906
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -581,6 +581,9 @@ wiki_pages:
   - key: "AgriculturalSystemsReality"
     title: "Agricultural Systems Reality"
     url: "/wiki/concepts/agriculturalsystemsreality/"
+  - key: "AgriculturalWeatherRiskManagement"
+    title: "Agricultural Weather-Risk Management"
+    url: "/wiki/concepts/agriculturalweatherriskmanagement/"
   - key: "AHShareDiscountRepricing"
     title: "AH Share Discount Repricing"
     url: "/wiki/concepts/ahsharediscountrepricing/"

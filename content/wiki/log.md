@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-30] ingest | E254｜超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？
+
+Added source `e254-chaoji-eerninuo-laile-womende-richang-suoxu-zhenhui-yin-ta-zhangjia-ma-0b644f51-461c-4ddb-b707-d2a39b9a7d80`; created `ZhangSiqi`, `CommodityConsumerPricePassThrough`, `AgriculturalWeatherRiskManagement`, and `PanamaCanalDroughtDisruption`; updated `ElNino`, `ElNinoClimateRisk`, `ClimateFoodPriceTransmission`, and `FishmealSupplyChain` from their complete bounded source sets; and updated the canonical index. Core synthesis: El Niño is not a universal price switch—material effects require exposure of important production or trade at a sensitive stage plus weak inventory, substitution, logistics, or policy buffers, and upstream moves are further filtered before reaching consumers. No settled contradiction was adopted. Regional forecasts, climate thresholds, market shares, historical price moves, copper figures, and current market outlooks remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-30] ingest | 269: Ghana: The Ashanti Empire
 
 Added source `269-ghana-the-ashanti-empire-glt3638102749`; created `Denkyira`, `OseiTutu`, `OkomfoAnokye`, `GoldenStool`, `Kumasi`, and `SacredSymbolicStateFormation`; updated `Ghana`, `Asante`, `WarOfTheGoldenStool`, `HeroicResistanceViolenceAmbiguity`, and the canonical index from their complete bounded source sets. Core synthesis: Asante state capacity joined sacred collective identity, military organization, trade, visible rank, and a capital at Kumasi, while neither Asante participation in conquest and slavery nor British invasion, destruction, deposition, and colonial self-justification supports a simple hero-villain story. No settled contradiction was adopted. Origin traditions, alleged human sacrifice, observer accounts, casualty totals, etymology, speeches, motives, and modern institutional details remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -25772,6 +25776,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-30] ingest | Navigating Conflict, Finding Purpose & Maintaining Drive | Dr. Lex Fridman
 
 Added source `navigating-conflict-finding-purpose-maintaining-drive-dr-lex-fridman-scim7125421200`; created `ConflictDrivenIntergroupHatred`, `ConflictDangerNormalization`, `EmpathicAdversarialInterviewing`, `CallingCommitmentTradeoff`, and `OpenScientificCriticism`; and resynthesized `LexFridman` from its preserved evidence inventory. Core synthesis: the conversation joins war's destruction of continuity and widening hatred to danger normalization, propaganda resistance, empathy joined with interview scrutiny, faster but bounded scientific criticism, and the real opportunity costs of treating a social-robotics company as a calling. No settled contradiction was adopted. Wartime crime, soldiers' beliefs, national attitudes, review reform, extreme-work advice, and robot-company forecasts remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-30] lint | Wiki health check
 

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8903
+wiki_total_pages: 8906
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -107,6 +107,9 @@ wiki_pages:
   - key: "PalynologyAsEvidence"
     title: "Palynology As Evidence"
     url: "/wiki/concepts/palynologyasevidence/"
+  - key: "PanamaCanalDroughtDisruption"
+    title: "Panama Canal Drought Disruption"
+    url: "/wiki/concepts/panamacanaldroughtdisruption/"
   - key: "PancreaticImagingFindingTriage"
     title: "Pancreatic Imaging Finding Triage / 胰腺影像异常分诊"
     url: "/wiki/concepts/pancreaticimagingfindingtriage/"

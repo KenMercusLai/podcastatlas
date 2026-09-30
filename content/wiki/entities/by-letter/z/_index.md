@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 11499
+wiki_total_pages: 11500
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -689,6 +689,9 @@ wiki_pages:
   - key: "ZhangChangShanyangWesternHan"
     title: "张厂 / Zhang Chang (Shanyang governor)"
     url: "/wiki/entities/zhangchangshanyangwesternhan/"
+  - key: "ZhangSiqi"
+    title: "张司祺 / Zhang Siqi"
+    url: "/wiki/entities/zhangsiqi/"
   - key: "ZhangZiLateHan"
     title: "张咨 / Zhang Zi (late Han)"
     url: "/wiki/entities/zhangzilatehan/"

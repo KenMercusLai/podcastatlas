@@ -5563,6 +5563,10 @@
     "title": "Agricultural Systems Reality",
     "url": "/wiki/concepts/agriculturalsystemsreality/"
   },
+  "AgriculturalWeatherRiskManagement": {
+    "title": "Agricultural Weather-Risk Management",
+    "url": "/wiki/concepts/agriculturalweatherriskmanagement/"
+  },
   "AguirreExpedition": {
     "title": "Ursúa-Aguirre Expedition",
     "url": "/wiki/entities/aguirreexpedition/"
@@ -17146,6 +17150,10 @@
   "Commius": {
     "title": "Commius",
     "url": "/wiki/entities/commius/"
+  },
+  "CommodityConsumerPricePassThrough": {
+    "title": "Commodity-to-Consumer Price Pass-Through",
+    "url": "/wiki/concepts/commodityconsumerpricepassthrough/"
   },
   "CommodityFuturesTradingCommission": {
     "title": "Commodity Futures Trading Commission",
@@ -54799,6 +54807,10 @@
     "title": "潘隐 / Pan Yin (late Han)",
     "url": "/wiki/entities/panyinlatehan/"
   },
+  "PanamaCanalDroughtDisruption": {
+    "title": "Panama Canal Drought Disruption",
+    "url": "/wiki/concepts/panamacanaldroughtdisruption/"
+  },
   "Panasonic": {
     "title": "Panasonic",
     "url": "/wiki/entities/panasonic/"
@@ -82467,6 +82479,10 @@
     "title": "张硕 / Zhang Shuo (late Han)",
     "url": "/wiki/entities/zhangshuolatehan/"
   },
+  "ZhangSiqi": {
+    "title": "张司祺 / Zhang Siqi",
+    "url": "/wiki/entities/zhangsiqi/"
+  },
   "ZhangSongLateHan": {
     "title": "张松 / Zhang Song (Late Han)",
     "url": "/wiki/entities/zhangsonglatehan/"
@@ -85390,6 +85406,10 @@
   "e253-shui-zai-gei-damoxing-chuti-maiti-panjuan-liaoliao-ai-shuju-hangye-de-yemanshengzhang-0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d": {
     "title": "E253｜谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长",
     "url": "/wiki/sources/e253-shui-zai-gei-damoxing-chuti-maiti-panjuan-liaoliao-ai-shuju-hangye-de-yemanshengzhang-0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d/"
+  },
+  "e254-chaoji-eerninuo-laile-womende-richang-suoxu-zhenhui-yin-ta-zhangjia-ma-0b644f51-461c-4ddb-b707-d2a39b9a7d80": {
+    "title": "E254｜超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？",
+    "url": "/wiki/sources/e254-chaoji-eerninuo-laile-womende-richang-suoxu-zhenhui-yin-ta-zhangjia-ma-0b644f51-461c-4ddb-b707-d2a39b9a7d80/"
   },
   "e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0": {
     "title": "E42 孟岩对话韦青：沉默的主角",
