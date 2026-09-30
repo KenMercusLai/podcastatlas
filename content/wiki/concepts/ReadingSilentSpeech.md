@@ -4,7 +4,8 @@ type: concept
 tags: [neuroscience, reading, speech, language]
 sources:
   - essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193
-last_updated: 2026-09-13
+  - the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim2182961996
+last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
 
@@ -26,15 +27,15 @@ The concept matters because it links literacy to the speech-motor and auditory s
 - Literacy therefore sits between visual cognition, speech circuits, auditory knowledge, and motor control.
 
 ## Evidence
-- Visual-to-speech route: [[essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193]] has Jarvis describe visual signals going from page to eyes to visual cortical regions and then engaging speech pathways.
-- Silent-speech evidence: [[essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193]] says EMG electrodes can detect laryngeal muscle activity during reading or silent speech attempts.
-- Writing circuits: [[essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193]] says writing uses visual, speech-production, speech-perception, and hand-motor pathways.
+- Visual-to-speech route: [[essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193]] and [[the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim2182961996]] describe visual signals engaging speech pathways.
+- Silent-speech evidence: [[the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim2182961996]] says laryngeal EMG can detect activity during reading or silent speech attempts, as does the Essentials edit.
+- Writing circuits: [[the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim2182961996]] says writing uses visual, speech-production, speech-perception, and hand-motor pathways, as does the Essentials edit.
 
 ## Counterevidence & Qualifications
-The source does not provide a full reading-science account, dyslexia theory, literacy pedagogy, sign-language reading comparison, or evidence that every reader subvocalizes in the same way. Silent speech is one pathway in a broader reading system.
+The full interview and Essentials edit are overlapping evidence. They do not provide a full reading-science account, dyslexia theory, literacy pedagogy, sign-language reading comparison, or evidence that every reader subvocalizes in the same way. The proposed matching of internal-speech and writing speed is source-scoped. Silent speech is one pathway in a broader reading system.
 
 ## What Changed
-- Created a reading concept for Jarvis's account of visual text recruiting speech and motor systems.
+- Added the full interview while keeping universal subvocalization and writing-speed claims qualified.
 
 ## Related Concepts
 - [[SpeechLanguageDistinction]] - reading is language even when no overt speech occurs.

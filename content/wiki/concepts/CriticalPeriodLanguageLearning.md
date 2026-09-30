@@ -4,7 +4,8 @@ type: concept
 tags: [neuroscience, language, learning, development]
 sources:
   - essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193
-last_updated: 2026-09-13
+  - the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim2182961996
+last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
 
@@ -26,16 +27,16 @@ The source also links individual development to cultural evolution. Children exp
 - Birdsong learning provides a comparison case for innate predisposition plus cultural tutoring.
 
 ## Evidence
-- Whole-brain window: [[essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193]] has Jarvis say the entire brain undergoes critical-period development and compares language, piano, and bike riding.
-- Phoneme narrowing: [[essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193]] says childhood language learning narrows the phoneme set a person uses.
-- Multilingual flexibility: [[essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193]] says childhood multilingual exposure can make later language learning easier by retaining broader sound ability.
-- Species-biased learning: [[essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193]] describes zebra finches raised with canaries, species song preference, and hybrid-like songs.
+- Whole-brain window: [[essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193]] and [[the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim2182961996]] describe critical-period development beyond speech alone.
+- Phoneme narrowing: [[the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim2182961996]] says childhood language learning narrows the phoneme set a person most readily uses, as does the Essentials edit.
+- Multilingual flexibility: [[the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim2182961996]] suggests early multilingual exposure may preserve broader sound ability for later learning, as does the Essentials edit.
+- Species-biased learning: [[the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim2182961996]] describes zebra finches raised with canaries, species song preference, and hybrid-like songs, as does the Essentials edit.
 
 ## Counterevidence & Qualifications
-The source does not provide age cutoffs, teaching protocols, effect sizes, or a complete second-language acquisition theory. Adult language learning remains possible, and social motivation, practice quality, literacy, exposure, identity, and teaching context are not resolved by the critical-period frame alone.
+The full interview and Essentials edit are overlapping evidence and do not provide age cutoffs, teaching protocols, effect sizes, or a complete second-language acquisition theory. The SRGAP2 explanation and hybrid-language implications remain source-scoped. Adult language learning remains possible, and social motivation, practice quality, literacy, exposure, identity, and teaching context are not resolved by the critical-period frame alone.
 
 ## What Changed
-- Created a concept for Jarvis's critical-period, phoneme, multilingual, and birdsong-learning claims.
+- Added the full interview while preserving adult-learning possibility and narrowing gene and hybrid-language claims.
 
 ## Related Concepts
 - [[VocalLearningEvolution]] - evolutionary capacity shaped by developmental windows.

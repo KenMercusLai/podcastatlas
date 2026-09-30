@@ -4,7 +4,8 @@ type: concept
 tags: [music, neuroscience, emotion, communication]
 sources:
   - essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193
-last_updated: 2026-09-13
+  - the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim2182961996
+last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
 
@@ -26,16 +27,16 @@ The episode places music near speech without making them identical. Singing and 
 - Music and emotional vocal sound may have preceded or accompanied more abstract spoken communication.
 
 ## Evidence
-- Semantic-affective boundary: [[essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193]] has Jarvis distinguish semantic communication from affective communication.
-- Circuit reuse: [[essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193]] says the same speech-like or song circuits can be used differently for meaning and feeling.
-- Lateralization: [[essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193]] says human speech is more left-dominant, while singing and musical processing are more balanced.
-- Evolutionary possibility: [[essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193]] presents singing or emotional sound as a possible precursor to abstract spoken communication.
+- Semantic-affective boundary: [[essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193]] and [[the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim2182961996]] distinguish semantic from affective communication.
+- Circuit reuse: [[the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim2182961996]] says speech-like or song circuits can be used differently for meaning and feeling, as does the Essentials edit.
+- Lateralization: [[the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim2182961996]] describes speech as more left-dominant and singing or musical processing as more balanced, as does the Essentials edit.
+- Evolutionary possibility: [[the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim2182961996]] presents singing or emotional sound as a possible precursor to abstract spoken communication, as does the Essentials edit.
 
 ## Counterevidence & Qualifications
-The source does not establish a full theory of music cognition, emotion science, language lateralization, or therapy. It should not be read as saying music is merely proto-language, that all emotion is right-brained, or that musical experience has uniform effects across listeners.
+The full interview and Essentials edit are overlapping evidence and do not establish a full theory of music cognition, emotion science, language lateralization, dance, audience-performer neural resonance, or therapy. The synthesis should not be read as saying music is merely proto-language, all emotion is right-brained, or musical experience has uniform effects.
 
 ## What Changed
-- Created a concept for Jarvis's semantic-versus-affective account of speech, song, and music.
+- Added the full interview while keeping singing-origin, lateralization, dance, and neural-resonance claims qualified.
 
 ## Related Concepts
 - [[MusicBasedEmotionRegulation]] - ordinary self-regulation use of music that builds on affective force.

@@ -5,7 +5,8 @@ tags: [speech, neuroscience, rehabilitation, communication]
 sources:
   - essentials-the-science-of-learning-speaking-languages-dr-eddie-chang-scim7185728420
   - essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193
-last_updated: 2026-09-13
+  - the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim2182961996
+last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
 
@@ -33,15 +34,15 @@ The synthesis keeps a causality boundary. Anxiety can trigger or worsen stutteri
 - Coordination mechanism: [[essentials-the-science-of-learning-speaking-languages-dr-eddie-chang-scim7185728420]] links fluent speech to precise coordination of the larynx, lips, jaw, and other vocal-tract structures.
 - Trigger boundary: [[essentials-the-science-of-learning-speaking-languages-dr-eddie-chang-scim7185728420]] says anxiety can trigger or worsen stuttering but is not the cause per se.
 - Feedback and therapy: [[essentials-the-science-of-learning-speaking-languages-dr-eddie-chang-scim7185728420]] says auditory feedback can affect stuttering and speech therapy can help create conditions or strategies for speech.
-- Basal-ganglia comparison: [[essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193]] links stuttering in songbirds and humans to disruption in speech-like basal-ganglia circuitry.
-- Sensory-motor integration: [[essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193]] says behavioral tools likely involve integration between hearing and output.
-- Recovery qualification: [[essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193]] says birds recovered after months in a way tied to bird neurogenesis, which humans and mammals generally do not share.
+- Basal-ganglia comparison: [[essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193]] and [[the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim2182961996]] link songbird disruption and human stuttering to basal-ganglia-related circuitry.
+- Sensory-motor integration: [[the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim2182961996]] says behavioral tools likely involve integration between hearing and output, as does the Essentials edit.
+- Recovery qualification: [[the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim2182961996]] ties bird recovery to neurogenesis that humans and other mammals do not generally share, as does the Essentials edit.
 
 ## Counterevidence & Qualifications
-The sources say the cause of stuttering is still not clear. They are public neuroscience education, not individualized diagnosis, speech therapy, psychological treatment, or a comprehensive review of stuttering subtypes and interventions. Birdsong results are comparative model evidence rather than direct human clinical evidence.
+The sources say the cause of stuttering is still not clear, and the two Jarvis notes are overlapping edits rather than independent evidence. They are public neuroscience education, not individualized diagnosis, speech therapy, psychological treatment, or a comprehensive review of subtypes and interventions. Birdsong results are comparative model evidence, and slow speech or rhythmic tapping are examples rather than universal treatment prescriptions.
 
 ## What Changed
-- Added Jarvis's basal-ganglia, birdsong, and sensory-motor integration evidence while preserving the clinical uncertainty boundary.
+- Added the full interview while preserving the clinical boundary around basal-ganglia mechanisms, bird neurogenesis, rhythm, and slow-speech strategies.
 
 ## Related Concepts
 - [[SpeechLanguageDistinction]] - core boundary separating dysfluent speech from impaired meaning or grammar.

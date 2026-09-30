@@ -5,7 +5,8 @@ tags: [neuroscience, language, speech, communication]
 sources:
   - essentials-the-science-of-learning-speaking-languages-dr-eddie-chang-scim7185728420
   - essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193
-last_updated: 2026-09-13
+  - the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim2182961996
+last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
 
@@ -33,15 +34,15 @@ The combined synthesis is that speech is a crucial but partial route into langua
 - Multiple modalities: [[essentials-the-science-of-learning-speaking-languages-dr-eddie-chang-scim7185728420]] names sign language and reading as language modalities beyond spoken output.
 - Vocalization contrast: [[essentials-the-science-of-learning-speaking-languages-dr-eddie-chang-scim7185728420]] says people with speech-language injuries may still moan or vocalize through different systems.
 - Stuttering boundary: [[essentials-the-science-of-learning-speaking-languages-dr-eddie-chang-scim7185728420]] frames stuttering as speech coordination difficulty, not lost ideas, meaning, or grammar.
-- Language-module caution: [[essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193]] has Jarvis reject a separate language module and place spoken language in speech-production and auditory pathways.
-- Learned vocal boundary: [[essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193]] distinguishes learned vocal imitation from innate emotional vocalizations and from gesture or comprehension alone.
-- Literacy circuits: [[essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193]] says reading recruits speech pathways and writing combines visual, speech-production, speech-perception, and hand-motor circuits.
+- Language-module caution: [[essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193]] and [[the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim2182961996]] reject a separate language module and place spoken language in interacting speech-production and auditory pathways.
+- Learned vocal boundary: [[the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim2182961996]] distinguishes learned vocal imitation from innate emotional vocalizations and from gesture or comprehension alone, as does the Essentials edit.
+- Literacy circuits: [[the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim2182961996]] says reading recruits speech pathways and writing combines visual, speech-production, speech-perception, and hand-motor circuits, as does the Essentials edit.
 
 ## Counterevidence & Qualifications
-The sources give compact public-neuroscience distinctions rather than a full theory of linguistics, sign-language science, reading disorders, aphasia, language evolution, animal communication, or speech pathology. Real clinical cases can involve overlapping speech, language, motor, cognitive, auditory, and emotional factors.
+The sources give public-neuroscience distinctions rather than a full theory of linguistics, sign-language science, reading disorders, aphasia, language evolution, animal communication, or speech pathology. The full Jarvis interview and Essentials edit are overlapping evidence. Real clinical cases can involve overlapping speech, language, motor, cognitive, auditory, and emotional factors.
 
 ## What Changed
-- Added Jarvis's circuit and vocal-learning account, broadening the concept beyond clinical speech/neuroprosthetics into evolution, literacy, gesture, and music-adjacent systems.
+- Added the full Jarvis interview as overlapping support without changing the boundary between speech modality and broader language.
 
 ## Related Concepts
 - [[VocalTractSpeechProduction]] - physical speech-production mechanism distinguished from broader language.

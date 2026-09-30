@@ -17631,6 +17631,10 @@
     "title": "Comparative Advantage",
     "url": "/wiki/concepts/comparativeadvantage/"
   },
+  "ComparativeGenomicsTraitInference": {
+    "title": "Comparative Genomics Trait Inference",
+    "url": "/wiki/concepts/comparativegenomicstraitinference/"
+  },
   "ComparativeMedicine": {
     "title": "Comparative Medicine / 比较医学",
     "url": "/wiki/concepts/comparativemedicine/"
@@ -30719,6 +30723,10 @@
     "title": "Genmab",
     "url": "/wiki/entities/genmab/"
   },
+  "GenomeArk": {
+    "title": "Genome Ark",
+    "url": "/wiki/entities/genomeark/"
+  },
   "GenomeLanguageModels": {
     "title": "Genome Language Models",
     "url": "/wiki/concepts/genomelanguagemodels/"
@@ -34602,6 +34610,10 @@
   "HighOfficeRefusalAsRiskAvoidance": {
     "title": "高位拒受式避险 / High-Office Refusal as Risk Avoidance",
     "url": "/wiki/concepts/highofficerefusalasriskavoidance/"
+  },
+  "HighQualityGenomeInfrastructure": {
+    "title": "High-Quality Genome Infrastructure",
+    "url": "/wiki/concepts/highqualitygenomeinfrastructure/"
   },
   "HighRecallSafetyIntervention": {
     "title": "High-Recall Safety Intervention / 高召回安全干预",
@@ -76547,6 +76559,10 @@
     "title": "Versailles",
     "url": "/wiki/entities/versailles/"
   },
+  "VertebrateGenomesProject": {
+    "title": "Vertebrate Genomes Project",
+    "url": "/wiki/entities/vertebrategenomesproject/"
+  },
   "VerticalAIDataProcurement": {
     "title": "Vertical AI Data Procurement / 垂直 AI 数据采购",
     "url": "/wiki/concepts/verticalaidataprocurement/"
@@ -89746,6 +89762,10 @@
   "the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7": {
     "title": "The Mourning Show: The Politics of Khamenei's Funeral",
     "url": "/wiki/sources/the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7/"
+  },
+  "the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim2182961996": {
+    "title": "The Neuroscience of Speech, Language & Music | Dr. Erich Jarvis",
+    "url": "/wiki/sources/the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim2182961996/"
   },
   "the-nfl-1": {
     "title": "The NFL",

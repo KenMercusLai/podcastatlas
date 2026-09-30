@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1359
+topic_total_pages: 1360
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -3954,6 +3954,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-the-ipo-comeback-why-tech-giants-are-finally-going-public-all-in-liquidity-ipo-panel-41557065"
     title: "The IPO Comeback: Why Tech Giants Are Finally Going Public | All-In Liquidity IPO Panel"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-ipo-comeback-why-tech-giants-are-finally-going-public-all-in-liquidity-ipo-panel-41557065/"
+  - key: "the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim2182961996"
+    title: "The Neuroscience of Speech, Language & Music | Dr. Erich Jarvis"
+    url: "/wiki/sources/the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim2182961996/"
   - key: "the-science-art-of-comedy-creativity-tom-segura-scim7538555033"
     title: "The Science & Art of Comedy & Creativity | Tom Segura"
     url: "/wiki/sources/the-science-art-of-comedy-creativity-tom-segura-scim7538555033/"

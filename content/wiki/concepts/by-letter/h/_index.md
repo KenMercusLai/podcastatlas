@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 9026
+wiki_total_pages: 9028
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -377,6 +377,9 @@ wiki_pages:
   - key: "HighGroundTimingAdvantage"
     title: "High-Ground Timing Advantage / 制高点时机优势"
     url: "/wiki/concepts/highgroundtimingadvantage/"
+  - key: "HighQualityGenomeInfrastructure"
+    title: "High-Quality Genome Infrastructure"
+    url: "/wiki/concepts/highqualitygenomeinfrastructure/"
   - key: "HighRecallSafetyIntervention"
     title: "High-Recall Safety Intervention / 高召回安全干预"
     url: "/wiki/concepts/highrecallsafetyintervention/"

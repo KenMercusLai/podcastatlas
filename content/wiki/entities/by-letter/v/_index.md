@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "v"
-wiki_total_pages: 11639
+wiki_total_pages: 11641
 wiki_pages:
   - key: "VacheronConstantin"
     title: "Vacheron Constantin"
@@ -119,6 +119,9 @@ wiki_pages:
   - key: "Versailles"
     title: "Versailles"
     url: "/wiki/entities/versailles/"
+  - key: "VertebrateGenomesProject"
+    title: "Vertebrate Genomes Project"
+    url: "/wiki/entities/vertebrategenomesproject/"
   - key: "VerticalGroup"
     title: "Vertical Group"
     url: "/wiki/entities/verticalgroup/"

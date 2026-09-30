@@ -4,7 +4,8 @@ type: concept
 tags: [neuroscience, speech, motor-control, evolution]
 sources:
   - essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193
-last_updated: 2026-09-13
+  - the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim2182961996
+last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
 
@@ -26,16 +27,16 @@ The circuit account also explains why practice matters. If speech, singing, orat
 - Movement, dance, speech practice, and singing are framed as ways to engage broad brain circuitry.
 
 ## Evidence
-- Motor adjacency: [[essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193]] has Jarvis say hand-gesture regions sit next to spoken-language control regions and that people gesture even when unseen.
-- Vocal-control specialization: [[essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193]] describes direct connections from cortical vocal-control areas to motor neurons controlling the larynx or syrinx.
-- Facial expression continuity: [[essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193]] says nonhuman primates have diverse facial expression and humans add voice on top of that system.
-- Practice frame: [[essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193]] has Jarvis recommend movement, dance, speech, oratory, and singing as circuit-engaging practices.
+- Motor adjacency: [[essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193]] and [[the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim2182961996]] place hand-gesture regions beside spoken-language control regions and note gesture during speech.
+- Vocal-control specialization: [[the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim2182961996]] describes specialized connections from cortical vocal-control areas toward motor neurons controlling the larynx or syrinx, as does the Essentials edit.
+- Facial expression continuity: [[the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim2182961996]] says nonhuman primates have diverse facial expression and humans add learned voice onto older systems, as does the Essentials edit.
+- Practice frame: [[the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim2182961996]] recommends movement, dance, speech, oratory, and singing as circuit-engaging practices, as does the Essentials edit.
 
 ## Counterevidence & Qualifications
-The episode does not quantify how much movement or speech practice preserves cognition, nor does it establish clinical protocols for aging, stuttering, dementia prevention, or rehabilitation. The motor-evolution account complements but does not replace linguistic, symbolic, social, and cultural accounts of language.
+The full interview and Essentials edit are overlapping evidence. They do not establish the claim that only vocal learners can learn dance, quantify how much movement or speech practice preserves cognition, or provide clinical protocols for aging, stuttering, dementia prevention, or rehabilitation. The motor-evolution account complements but does not replace linguistic, symbolic, social, and cultural accounts of language.
 
 ## What Changed
-- Created a concept for Jarvis's motor-circuit account of speech evolution and practice.
+- Added the full interview while narrowing dance-learning and cognition-preservation claims to source-scoped hypotheses.
 
 ## Related Concepts
 - [[VocalLearningEvolution]] - evolutionary frame that explains why learned vocal motor control matters.

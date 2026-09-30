@@ -4,19 +4,20 @@ type: entity
 tags: [person, neuroscience, speech, language, music]
 sources:
   - essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193
-last_updated: 2026-09-13
+  - the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim2182961996
+last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
 
 # Erich Jarvis
 
 ## Overview
-Erich Jarvis is the neuroscientist guest in the [[HubermanLab]] Essentials episode on speech, language, music, and vocal learning.
+Erich Jarvis is a comparative neuroscientist presented in [[HubermanLab]] interviews on speech, language, music, vocal learning, genomics, and conservation.
 
 ## Current Profile
 The source presents Jarvis as a comparative neuroscience researcher who uses humans, songbirds, parrots, hummingbirds, dolphins, and nonhuman primates to explain why learned vocal imitation is rare. His central role is to move speech and language away from a simple language-module account and into a circuit view: spoken language depends on speech-production pathways, auditory perception, adjacent motor systems, genetic connectivity, critical-period learning, and culturally learned sound patterns.
 
-Jarvis also gives the episode its practical boundaries. He connects singing, oratory, movement, dance, reading, writing, texting, facial expression, and stuttering to broader sensory-motor coordination, but he keeps many claims interpretive or source-scoped rather than turning them into clinical protocols.
+Jarvis also connects circuit research to [[ComparativeGenomicsTraitInference]]. He argues that repeated evolution, accurate phylogeny, and high-quality assemblies can narrow trait-associated genomic changes, and he describes [[VertebrateGenomesProject]] and [[GenomeArk]] as infrastructure serving evolutionary research and conservation. He connects singing, oratory, movement, dance, reading, writing, texting, facial expression, and stuttering to broader sensory-motor coordination, but many practical and evolutionary claims remain interpretive or source-scoped rather than clinical protocols or settled causal conclusions.
 
 ## Key Characteristics
 - Explains spoken language through learned vocal production, auditory perception, and motor circuitry rather than a separate language module.
@@ -24,18 +25,21 @@ Jarvis also gives the episode its practical boundaries. He connects singing, ora
 - Distinguishes innate emotional vocalizations from learned imitation of vocal sounds.
 - Connects critical periods, multilingual exposure, phoneme retention, and cultural learning.
 - Links speech, singing, facial expression, reading, writing, and stuttering through coordinated sensory-motor systems.
+- Builds high-quality comparative genome resources for trait inference and conservation research.
 
 ## Evidence
-- Vocal-learning frame: [[essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193]] has Jarvis distinguish innate vocalizations from learned vocal imitation and name humans, songbirds, parrots, hummingbirds, and dolphins as key comparative cases.
-- Circuit framing: [[essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193]] has Jarvis reject a separate language module and connect speech production to larynx, jaw, auditory pathways, gestures, and body movement.
-- Development and genetics: [[essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193]] has Jarvis discuss critical periods, species song preference, hybrid bird songs, childhood multilingual exposure, axon-guidance genes, and speech-circuit specialization.
-- Practical boundaries: [[essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193]] has Jarvis discuss speech practice, singing, dancing, texting, and stuttering as public neuroscience themes rather than individualized therapy.
+- Vocal-learning frame: [[essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193]] and [[the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim2182961996]] distinguish innate vocalizations from learned vocal imitation and use humans, songbirds, parrots, hummingbirds, and dolphins as comparative cases.
+- Circuit framing: [[the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim2182961996]] rejects a separate language module and connects speech production to larynx, jaw, auditory pathways, gestures, and body movement, as does the Essentials edit.
+- Development and genetics: [[the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim2182961996]] discusses critical periods, species song preference, hybrid bird songs, multilingual exposure, axon-guidance genes, and circuit specialization, as does the Essentials edit.
+- Genome infrastructure: [[the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim2182961996]] adds phylogenetic comparison, assembly errors, near-complete genomes, the Vertebrate Genomes Project, Genome Ark, and conservation applications.
+- Practical boundaries: [[the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim2182961996]] discusses speech practice, singing, dancing, texting, and stuttering as public neuroscience themes rather than individualized therapy, as does the Essentials edit.
 
 ## Qualifications
-This page reflects one Huberman Lab Essentials episode. It does not provide a complete biography, institutional profile, publication record, or clinical guide to speech, stuttering, language learning, music therapy, or cognitive health.
+This page reflects a full 2022 interview and its later Essentials edit, not independent sources or a complete biography, institutional profile, publication record, genomics methods review, conservation assessment, or clinical guide.
 
 ## What Changed
-- Created Jarvis's entity page from the Huberman Lab speech, language, and music episode.
+- Expanded Jarvis's profile from vocal-learning neuroscience into comparative genomics and conservation infrastructure.
+- Treated the full interview and Essentials edit as overlapping evidence rather than independent corroboration.
 
 ## Relationships
 - [[HubermanLab]] - show where Jarvis appears as guest.
@@ -45,3 +49,5 @@ This page reflects one Huberman Lab Essentials episode. It does not provide a co
 - [[CriticalPeriodLanguageLearning]] - developmental learning frame Jarvis applies to phonemes and multilingual exposure.
 - [[MusicAffectiveCommunication]] - music and emotion branch developed through Jarvis's semantic-versus-affective distinction.
 - [[ReadingSilentSpeech]] - reading and writing branch grounded in Jarvis's account of visual signals recruiting speech pathways.
+- [[ComparativeGenomicsTraitInference]] - repeated-evolution method Jarvis uses to study vocal learning and other traits.
+- [[HighQualityGenomeInfrastructure]] - assembly and repository foundation for Jarvis's comparative work.

@@ -26288,3 +26288,11 @@ Added source `226-the-lord-of-the-rings-glt1788342017`; created `TheHobbit`, `Th
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | The Neuroscience of Speech, Language & Music | Dr. Erich Jarvis
+
+Added source `the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim2182961996`; created `VertebrateGenomesProject`, `GenomeArk`, `ComparativeGenomicsTraitInference`, and `HighQualityGenomeInfrastructure`; and resynthesized `ErichJarvis`, `VocalLearningEvolution`, `SpeechMotorCircuitEvolution`, `CriticalPeriodLanguageLearning`, `ReadingSilentSpeech`, `MusicAffectiveCommunication`, `StutteringSpeechCoordination`, and `SpeechLanguageDistinction` from their complete preserved evidence inventories. Core synthesis: spoken language is treated as a learned motor-auditory capacity embedded in broader movement and communication systems, while repeated evolution and accurate reference assemblies can narrow candidate trait-associated genomic changes and support conservation research. No settled contradiction was adopted. The full interview overlaps the later Essentials edit and is not independent corroboration; hominin speech, dance-learning exclusivity, SRGAP2, neural resonance, texting, cognitive-health, stuttering-treatment, convergence, and de-extinction claims remain source-scoped or qualified. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,286-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

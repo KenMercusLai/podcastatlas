@@ -38110,6 +38110,13 @@
       "url": "/topics/history/"
     }
   ],
+  "HighQualityGenomeInfrastructure": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "HighRecallSafetyIntervention": [
     {
       "key": "technology",
@@ -94498,6 +94505,18 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim2182961996": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "the-nfl-1": [
