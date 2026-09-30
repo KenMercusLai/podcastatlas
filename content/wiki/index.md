@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Biology & Treatments for Compulsive Behaviors & Binge Eating | Dr. Casey Halpern](sources/biology-treatments-for-compulsive-behaviors-binge-eating-dr-casey-halpern-scim4911670131.md) — Full Huberman Lab interview on loss-of-control eating, responsive DBS, craving-signal mapping, OCD, focused ultrasound, and the invasive-to-non-invasive treatment pathway.
 - [238. The Regency Revolution](sources/238-the-regency-revolution-glt7671750288.md) — The Rest Is History conversation with Hilary Davidson on rapid Regency changes in women's dress, menswear, bodies, retail networks, mobility, and political meaning.
 - [239. Young Churchill: Born to Lead (Part 1)](sources/239-young-churchill-born-to-lead-part-1-glt1969009161.md) — The Rest Is History episode on Churchill's aristocratic childhood, emotional neglect, destiny belief, schooling, risk-taking, and entry to Sandhurst.
 - [The Effects of Cannabis (Marijuana) on the Brain & Body](sources/the-effects-of-cannabis-marijuana-on-the-brain-body-scim1203833427.md) — Huberman Lab solo episode on endocannabinoid mechanisms, acute and chronic cannabis effects, developmental risk, and strain, psychosis, CBD, and medical-use claims later bounded by corrective evidence.
@@ -14958,6 +14959,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Modular](entities/ModularAI.md) — AI software-infrastructure company whose Mojo and MAX stack is presented as supporting cross-hardware model deployment.
 
 ## Concepts
+- [Responsive Deep Brain Stimulation](concepts/ResponsiveDeepBrainStimulation.md) — Closed-loop neuromodulation that detects a selected neural state and delivers brief stimulation rather than stimulating continuously.
+- [Loss of Control Eating](concepts/LossOfControlEating.md) — Eating-behavior construct distinguished from obesity and from formal binges that also require unusually large intake.
 - [Regency Fashion Transition](concepts/RegencyFashionTransition.md) — Rapid shift in silhouettes, textiles, body ideals, mobility, tailoring, and gendered social meaning from the 1790s to about 1820.
 - [Fashion Circulation Infrastructure](concepts/FashionCirculationInfrastructure.md) — Social, commercial, craft, communication, and transport network turning observed appearance into distributed styles and goods.
 - [Destiny-Driven Self-Construction](concepts/DestinyDrivenSelfConstruction.md) — Process joining inherited narrative, family longing, cultural scripts, urgency, action, and retrospective memory into a durable sense of historical purpose.

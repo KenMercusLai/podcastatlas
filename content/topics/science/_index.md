@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1348
+topic_total_pages: 1351
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1186,6 +1186,9 @@ topic_concepts:
   - key: "LossAversion"
     title: "Loss Aversion / 损失厌恶"
     url: "/wiki/concepts/lossaversion/"
+  - key: "LossOfControlEating"
+    title: "Loss of Control Eating"
+    url: "/wiki/concepts/lossofcontroleating/"
   - key: "LowCarbonConstructionMaterials"
     title: "Low-Carbon Construction Materials"
     url: "/wiki/concepts/lowcarbonconstructionmaterials/"
@@ -1723,6 +1726,9 @@ topic_concepts:
   - key: "ResponsibilityAgainstRomanticEscape"
     title: "Responsibility Against Romantic Escape / 以责任抵抗浪漫逃避"
     url: "/wiki/concepts/responsibilityagainstromanticescape/"
+  - key: "ResponsiveDeepBrainStimulation"
+    title: "Responsive Deep Brain Stimulation"
+    url: "/wiki/concepts/responsivedeepbrainstimulation/"
   - key: "ResumeGapStigma"
     title: "Resume Gap Stigma / 简历空白污名"
     url: "/wiki/concepts/resumegapstigma/"
@@ -3504,6 +3510,9 @@ topic_sources:
   - key: "socialradarss2-billclerico-final"
     title: "Bill Clerico on WePay, YC, and Fire Tech"
     url: "/wiki/sources/socialradarss2-billclerico-final/"
+  - key: "biology-treatments-for-compulsive-behaviors-binge-eating-dr-casey-halpern-scim4911670131"
+    title: "Biology & Treatments for Compulsive Behaviors & Binge Eating | Dr. Casey Halpern"
+    url: "/wiki/sources/biology-treatments-for-compulsive-behaviors-binge-eating-dr-casey-halpern-scim4911670131/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-bryan-johnson-i-just-took-the-most-powerful-dose-of-dmt-in-the-world-heres-what-it-was-like-40626165"
     title: "Bryan Johnson: I Just Took the Most Powerful Dose of DMT in the World... Here's What It Was Like"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-bryan-johnson-i-just-took-the-most-powerful-dose-of-dmt-in-the-world-heres-what-it-was-like-40626165/"

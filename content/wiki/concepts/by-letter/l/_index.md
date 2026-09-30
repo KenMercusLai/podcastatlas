@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 8990
+wiki_total_pages: 8992
 wiki_pages:
   - key: "LaborIllusion"
     title: "Labor Illusion"
@@ -773,6 +773,9 @@ wiki_pages:
   - key: "LossAversion"
     title: "Loss Aversion / 损失厌恶"
     url: "/wiki/concepts/lossaversion/"
+  - key: "LossOfControlEating"
+    title: "Loss of Control Eating"
+    url: "/wiki/concepts/lossofcontroleating/"
   - key: "LostCivilizationPseudohistory"
     title: "Lost Civilization Pseudohistory"
     url: "/wiki/concepts/lostcivilizationpseudohistory/"

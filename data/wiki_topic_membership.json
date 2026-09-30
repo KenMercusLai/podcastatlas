@@ -48664,6 +48664,13 @@
       "url": "/topics/science/"
     }
   ],
+  "LossOfControlEating": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "LostCivilizationPseudohistory": [
     {
       "key": "history",
@@ -65260,6 +65267,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "ResponsiveDeepBrainStimulation": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "RestaurantAutomation": [
@@ -89025,6 +89039,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "biology-treatments-for-compulsive-behaviors-binge-eating-dr-casey-halpern-scim4911670131": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "bombs-and-bombshells-zelensky-under-pressure-6a86d3561ad8716bb64646f0": [

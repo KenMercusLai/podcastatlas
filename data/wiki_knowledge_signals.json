@@ -27393,9 +27393,9 @@
       "url": "/wiki/entities/casereadyintakeai/"
     },
     "CaseyHalpern": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM9347675622 [SCIM9347675622].md",
@@ -27403,9 +27403,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Compulsive Behaviors & Deep Brain Stimulation | Dr. Casey Halpern",
           "url": "/wiki/sources/essentials-compulsive-behaviors-deep-brain-stimulation-dr-casey-halpern-scim9347675622/"
+        },
+        {
+          "episode_file": "SCIM4911670131 [SCIM4911670131].md",
+          "key": "biology-treatments-for-compulsive-behaviors-binge-eating-dr-casey-halpern-scim4911670131",
+          "show": "Huberman Lab",
+          "title": "Biology & Treatments for Compulsive Behaviors & Binge Eating | Dr. Casey Halpern",
+          "url": "/wiki/sources/biology-treatments-for-compulsive-behaviors-binge-eating-dr-casey-halpern-scim4911670131/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/caseyhalpern/"
     },
     "CaseyMeans": {
@@ -44357,9 +44364,9 @@
       "url": "/wiki/entities/declarationoftherightsofwoman/"
     },
     "DeepBrainStimulationPsychiatry": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM9347675622 [SCIM9347675622].md",
@@ -44374,9 +44381,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Understanding & Healing the Mind | Dr. Karl Deisseroth",
           "url": "/wiki/sources/essentials-understanding-healing-the-mind-dr-karl-deisseroth-scim2644851631/"
+        },
+        {
+          "episode_file": "SCIM4911670131 [SCIM4911670131].md",
+          "key": "biology-treatments-for-compulsive-behaviors-binge-eating-dr-casey-halpern-scim4911670131",
+          "show": "Huberman Lab",
+          "title": "Biology & Treatments for Compulsive Behaviors & Binge Eating | Dr. Casey Halpern",
+          "url": "/wiki/sources/biology-treatments-for-compulsive-behaviors-binge-eating-dr-casey-halpern-scim4911670131/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/deepbrainstimulationpsychiatry/"
     },
     "DeepChat": {
@@ -65391,9 +65405,9 @@
       "url": "/wiki/entities/flywheelwordpresshosting/"
     },
     "FocusedUltrasoundNeuromodulation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM9347675622 [SCIM9347675622].md",
@@ -65401,9 +65415,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Compulsive Behaviors & Deep Brain Stimulation | Dr. Casey Halpern",
           "url": "/wiki/sources/essentials-compulsive-behaviors-deep-brain-stimulation-dr-casey-halpern-scim9347675622/"
+        },
+        {
+          "episode_file": "SCIM4911670131 [SCIM4911670131].md",
+          "key": "biology-treatments-for-compulsive-behaviors-binge-eating-dr-casey-halpern-scim4911670131",
+          "show": "Huberman Lab",
+          "title": "Biology & Treatments for Compulsive Behaviors & Binge Eating | Dr. Casey Halpern",
+          "url": "/wiki/sources/biology-treatments-for-compulsive-behaviors-binge-eating-dr-casey-halpern-scim4911670131/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/focusedultrasoundneuromodulation/"
     },
     "FoldableAppAdaptation": {
@@ -92906,9 +92927,9 @@
       "url": "/wiki/entities/interventionstestingprogram/"
     },
     "IntracranialCircuitMapping": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM9347675622 [SCIM9347675622].md",
@@ -92916,9 +92937,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Compulsive Behaviors & Deep Brain Stimulation | Dr. Casey Halpern",
           "url": "/wiki/sources/essentials-compulsive-behaviors-deep-brain-stimulation-dr-casey-halpern-scim9347675622/"
+        },
+        {
+          "episode_file": "SCIM4911670131 [SCIM4911670131].md",
+          "key": "biology-treatments-for-compulsive-behaviors-binge-eating-dr-casey-halpern-scim4911670131",
+          "show": "Huberman Lab",
+          "title": "Biology & Treatments for Compulsive Behaviors & Binge Eating | Dr. Casey Halpern",
+          "url": "/wiki/sources/biology-treatments-for-compulsive-behaviors-binge-eating-dr-casey-halpern-scim4911670131/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/intracranialcircuitmapping/"
     },
     "IntracranialInfectionExposureBoundary": {
@@ -112562,6 +112590,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/concepts/lossaversion/"
+    },
+    "LossOfControlEating": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4911670131 [SCIM4911670131].md",
+          "key": "biology-treatments-for-compulsive-behaviors-binge-eating-dr-casey-halpern-scim4911670131",
+          "show": "Huberman Lab",
+          "title": "Biology & Treatments for Compulsive Behaviors & Binge Eating | Dr. Casey Halpern",
+          "url": "/wiki/sources/biology-treatments-for-compulsive-behaviors-binge-eating-dr-casey-halpern-scim4911670131/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/lossofcontroleating/"
     },
     "LostCivilizationPseudohistory": {
       "episode_count": 2,
@@ -151739,6 +151783,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/responsibilityboundriskavoidance/"
     },
+    "ResponsiveDeepBrainStimulation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4911670131 [SCIM4911670131].md",
+          "key": "biology-treatments-for-compulsive-behaviors-binge-eating-dr-casey-halpern-scim4911670131",
+          "show": "Huberman Lab",
+          "title": "Biology & Treatments for Compulsive Behaviors & Binge Eating | Dr. Casey Halpern",
+          "url": "/wiki/sources/biology-treatments-for-compulsive-behaviors-binge-eating-dr-casey-halpern-scim4911670131/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/responsivedeepbrainstimulation/"
+    },
     "RestaurantDeliveryExtension": {
       "episode_count": 1,
       "show_count": 1,
@@ -182284,9 +182344,9 @@
       "url": "/wiki/entities/ureyvirtualidol/"
     },
     "UrgeDespiteRiskCircuit": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM9347675622 [SCIM9347675622].md",
@@ -182294,9 +182354,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Compulsive Behaviors & Deep Brain Stimulation | Dr. Casey Halpern",
           "url": "/wiki/sources/essentials-compulsive-behaviors-deep-brain-stimulation-dr-casey-halpern-scim9347675622/"
+        },
+        {
+          "episode_file": "SCIM4911670131 [SCIM4911670131].md",
+          "key": "biology-treatments-for-compulsive-behaviors-binge-eating-dr-casey-halpern-scim4911670131",
+          "show": "Huberman Lab",
+          "title": "Biology & Treatments for Compulsive Behaviors & Binge Eating | Dr. Casey Halpern",
+          "url": "/wiki/sources/biology-treatments-for-compulsive-behaviors-binge-eating-dr-casey-halpern-scim4911670131/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/urgedespiteriskcircuit/"
     },
     "UrienTimmer": {

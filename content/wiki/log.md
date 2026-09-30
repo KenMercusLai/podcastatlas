@@ -26144,3 +26144,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | Biology & Treatments for Compulsive Behaviors & Binge Eating | Dr. Casey Halpern
+
+Added source `biology-treatments-for-compulsive-behaviors-binge-eating-dr-casey-halpern-scim4911670131`; created `ResponsiveDeepBrainStimulation` and `LossOfControlEating`; and resynthesized `CaseyHalpern`, `DeepBrainStimulationPsychiatry`, `IntracranialCircuitMapping`, `UrgeDespiteRiskCircuit`, and `FocusedUltrasoundNeuromodulation` from their complete preserved evidence inventories. Core synthesis: severe conditions may share urge-pursuit features without becoming one diagnosis; loss-of-control eating is distinct from obesity and formal binge criteria; and responsive DBS adds state timing to anatomical targeting by stimulating briefly when a candidate neural signal appears. No settled contradiction was adopted. Mouse-to-human translation, the two-patient trial, prevalence and responder estimates, and future TMS, ultrasound, wearable, and AI-assisted interventions remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,269-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

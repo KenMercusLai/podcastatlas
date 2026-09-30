@@ -5,7 +5,8 @@ tags: [psychiatry, neuroscience, neuromodulation, neurosurgery]
 sources:
   - essentials-compulsive-behaviors-deep-brain-stimulation-dr-casey-halpern-scim9347675622
   - essentials-understanding-healing-the-mind-dr-karl-deisseroth-scim2644851631
-last_updated: 2026-09-12
+  - biology-treatments-for-compulsive-behaviors-binge-eating-dr-casey-halpern-scim4911670131
+last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,6 +22,8 @@ The psychiatric synthesis is cautious. DBS and capsulotomy may be considered for
 
 [[essentials-understanding-healing-the-mind-dr-karl-deisseroth-scim2644851631]] reinforces both the promise and the limit. Deisseroth says even a single implanted electrode can powerfully help some people with OCD, while large-scale neural recording may improve understanding of psychiatric and neurological disease. Yet electrical stimulation remains comparatively broad, so better results depend on identifying the correct cells, projections, and activity patterns rather than merely adding more power.
 
+The full [[biology-treatments-for-compulsive-behaviors-binge-eating-dr-casey-halpern-scim4911670131]] interview adds timing as another precision dimension. [[ResponsiveDeepBrainStimulation]] tries to detect an episodic pathological signal and stimulate for seconds, rather than applying continuous stimulation that may lose effectiveness. The mouse findings and two-patient human trial are early translational evidence, not proof that a validated craving biomarker or durable treatment already exists.
+
 ## Key Claims
 - DBS delivers electrical stimulation through implanted contacts in a selected brain region.
 - Therapeutic targeting can reveal emotional or behavioral effects when nearby circuits are engaged.
@@ -28,6 +31,7 @@ The psychiatric synthesis is cautious. DBS and capsulotomy may be considered for
 - Movement-disorder experience and intracranial recording provide templates for discovering craving, obsession, or mood signals.
 - Responder rates, residual symptoms, invasiveness, and electrical spread keep DBS bounded rather than curative.
 - Better devices still depend on knowing which cells, projections, and activity patterns should be modulated.
+- Responsive DBS adds state detection and stimulation timing to anatomical target precision.
 
 ## Evidence
 - Device mechanism - [[essentials-compulsive-behaviors-deep-brain-stimulation-dr-casey-halpern-scim9347675622]] describes DBS as an implanted insulated wire with small contacts delivering electricity to a targeted region.
@@ -36,12 +40,14 @@ The psychiatric synthesis is cautious. DBS and capsulotomy may be considered for
 - Discovery role - [[essentials-compulsive-behaviors-deep-brain-stimulation-dr-casey-halpern-scim9347675622]] compares audible tremor-related cell activity to the search for craving-related cells.
 - OCD benefit - [[essentials-understanding-healing-the-mind-dr-karl-deisseroth-scim2644851631]] says a single DBS electrode can powerfully help some people with OCD.
 - Precision requirement - [[essentials-understanding-healing-the-mind-dr-karl-deisseroth-scim2644851631]] says future intervention depends on mapping specific cells, regions, projections, and normal activity patterns.
+- Responsive extension - [[biology-treatments-for-compulsive-behaviors-binge-eating-dr-casey-halpern-scim4911670131]] contrasts brief signal-triggered stimulation with continuous stimulation in an early binge-eating study.
 
 ## Counterevidence & Qualifications
-The sources do not claim DBS is appropriate for ordinary cravings, mild compulsions, or self-directed treatment. Surgical risk, patient selection, target uncertainty, broad electrical effects, psychiatric diagnosis, and residual symptoms keep the intervention inside specialist clinical care.
+The sources do not claim DBS is appropriate for ordinary cravings, mild compulsions, or self-directed treatment. Surgical risk, patient selection, target and biomarker uncertainty, broad electrical effects, psychiatric diagnosis, residual symptoms, and a tiny early responsive-DBS sample keep the intervention inside specialist clinical care.
 
 ## What Changed
-- Added Deisseroth's OCD-benefit observation and cell/projection-level precision requirement.
+- Added responsive stimulation as a timing-and-state refinement beyond anatomical targeting.
+- Preserved the mouse-to-human and two-patient evidence limits.
 
 ## Related Concepts
 - [[CircuitBasedPsychiatry]] - broader model that makes symptom circuits clinically meaningful.
@@ -50,4 +56,6 @@ The sources do not claim DBS is appropriate for ordinary cravings, mild compulsi
 - [[IntracranialCircuitMapping]] - recording and provocation branch that complements DBS targeting.
 - [[SelectiveNeuralStimulationPrecision]] - explains why electrical spread and incomplete target knowledge limit DBS precision.
 - [[FocusedUltrasoundNeuromodulation]] - adjacent neurosurgical tool with different invasiveness and reversibility tradeoffs.
+- [[ResponsiveDeepBrainStimulation]] - closed-loop branch that links detected states to brief stimulation.
+- [[LossOfControlEating]] - episodic target state in the early responsive-DBS research.
 - [[PsychiatricMedicationSupervisionBoundary]] - clinical safety boundary for serious psychiatric treatment.
