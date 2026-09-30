@@ -18253,6 +18253,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/battleofnarva/"
     },
+    "BattleOfOmdurman": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4710302249 [GLT4710302249].md",
+          "key": "240-young-churchill-soldier-of-empire-part-2-glt4710302249",
+          "show": "The Rest Is History",
+          "title": "240. Young Churchill: Soldier of Empire (Part 2)",
+          "url": "/wiki/sources/240-young-churchill-soldier-of-empire-part-2-glt4710302249/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/battleofomdurman/"
+    },
     "BattleOfPhilippi": {
       "episode_count": 1,
       "show_count": 1,
@@ -23507,6 +23523,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/buridanindecisioneffect/"
+    },
+    "BurkeCochran": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4710302249 [GLT4710302249].md",
+          "key": "240-young-churchill-soldier-of-empire-part-2-glt4710302249",
+          "show": "The Rest Is History",
+          "title": "240. Young Churchill: Soldier of Empire (Part 2)",
+          "url": "/wiki/sources/240-young-churchill-soldier-of-empire-part-2-glt4710302249/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/burkecochran/"
     },
     "BurningGlassInstitute": {
       "episode_count": 1,
@@ -81698,6 +81730,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/concepts/herbalsupplementlivertoxicity/"
     },
+    "HerbertKitchener": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4710302249 [GLT4710302249].md",
+          "key": "240-young-churchill-soldier-of-empire-part-2-glt4710302249",
+          "show": "The Rest Is History",
+          "title": "240. Young Churchill: Soldier of Empire (Part 2)",
+          "url": "/wiki/sources/240-young-churchill-soldier-of-empire-part-2-glt4710302249/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/herbertkitchener/"
+    },
     "HerbertSimon": {
       "episode_count": 1,
       "show_count": 1,
@@ -89187,9 +89235,9 @@
       "url": "/wiki/concepts/imperialachievementcostaccounting/"
     },
     "ImperialAdventureFiction": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4960691587 [GLT4960691587].md",
@@ -89197,15 +89245,22 @@
           "show": "The Rest Is History",
           "title": "332: King Solomon's Mines",
           "url": "/wiki/sources/332-king-solomons-mines-glt4960691587/"
+        },
+        {
+          "episode_file": "GLT4710302249 [GLT4710302249].md",
+          "key": "240-young-churchill-soldier-of-empire-part-2-glt4710302249",
+          "show": "The Rest Is History",
+          "title": "240. Young Churchill: Soldier of Empire (Part 2)",
+          "url": "/wiki/sources/240-young-churchill-soldier-of-empire-part-2-glt4710302249/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-09-30",
       "url": "/wiki/concepts/imperialadventurefiction/"
     },
     "ImperialAdventurePublicMythmaking": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9087091726 [GLT9087091726].md",
@@ -89213,6 +89268,13 @@
           "show": "The Rest Is History",
           "title": "241. Young Churchill: Prisoner and Fugitive (Part 3)",
           "url": "/wiki/sources/241-young-churchill-prisoner-and-fugitive-part-3-glt9087091726/"
+        },
+        {
+          "episode_file": "GLT4710302249 [GLT4710302249].md",
+          "key": "240-young-churchill-soldier-of-empire-part-2-glt4710302249",
+          "show": "The Rest Is History",
+          "title": "240. Young Churchill: Soldier of Empire (Part 2)",
+          "url": "/wiki/sources/240-young-churchill-soldier-of-empire-part-2-glt4710302249/"
         }
       ],
       "updated": "2026-09-30",
@@ -112131,6 +112193,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/lordoftheflies/"
     },
+    "LordRandolphChurchill": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4710302249 [GLT4710302249].md",
+          "key": "240-young-churchill-soldier-of-empire-part-2-glt4710302249",
+          "show": "The Rest Is History",
+          "title": "240. Young Churchill: Soldier of Empire (Part 2)",
+          "url": "/wiki/sources/240-young-churchill-soldier-of-empire-part-2-glt4710302249/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/lordrandolphchurchill/"
+    },
     "LordsAppellant": {
       "episode_count": 1,
       "show_count": 1,
@@ -116366,6 +116444,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/concepts/makeroperatingsystem/"
+    },
+    "MalakandCampaign": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4710302249 [GLT4710302249].md",
+          "key": "240-young-churchill-soldier-of-empire-part-2-glt4710302249",
+          "show": "The Rest Is History",
+          "title": "240. Young Churchill: Soldier of Empire (Part 2)",
+          "url": "/wiki/sources/240-young-churchill-soldier-of-empire-part-2-glt4710302249/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/entities/malakandcampaign/"
     },
     "MalborkCastle": {
       "episode_count": 1,
@@ -154501,6 +154595,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/romanceofthethreekingdoms/"
     },
+    "RomanticizedWarMoralAmbivalence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4710302249 [GLT4710302249].md",
+          "key": "240-young-churchill-soldier-of-empire-part-2-glt4710302249",
+          "show": "The Rest Is History",
+          "title": "240. Young Churchill: Soldier of Empire (Part 2)",
+          "url": "/wiki/sources/240-young-churchill-soldier-of-empire-part-2-glt4710302249/"
+        }
+      ],
+      "updated": "2026-09-30",
+      "url": "/wiki/concepts/romanticizedwarmoralambivalence/"
+    },
     "RonaldReagan": {
       "episode_count": 4,
       "show_count": 2,
@@ -189580,9 +189690,9 @@
       "url": "/wiki/entities/winsentertainment/"
     },
     "WinstonChurchill": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT1275431911 [GLT1275431911].md",
@@ -189611,6 +189721,13 @@
           "show": "The Rest Is History",
           "title": "241. Young Churchill: Prisoner and Fugitive (Part 3)",
           "url": "/wiki/sources/241-young-churchill-prisoner-and-fugitive-part-3-glt9087091726/"
+        },
+        {
+          "episode_file": "GLT4710302249 [GLT4710302249].md",
+          "key": "240-young-churchill-soldier-of-empire-part-2-glt4710302249",
+          "show": "The Rest Is History",
+          "title": "240. Young Churchill: Soldier of Empire (Part 2)",
+          "url": "/wiki/sources/240-young-churchill-soldier-of-empire-part-2-glt4710302249/"
         }
       ],
       "updated": "2026-09-30",

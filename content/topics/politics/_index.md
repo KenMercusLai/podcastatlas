@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2875
+topic_total_pages: 2877
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5048,6 +5048,9 @@ topic_entities:
   - key: "BrunoRetailleau"
     title: "Bruno Retailleau"
     url: "/wiki/entities/brunoretailleau/"
+  - key: "BurkeCochran"
+    title: "Burke Cochran"
+    url: "/wiki/entities/burkecochran/"
   - key: "BusinessRoundtable"
     title: "Business Roundtable"
     url: "/wiki/entities/businessroundtable/"
@@ -6026,6 +6029,9 @@ topic_entities:
   - key: "LongTermStockExchange"
     title: "Long-Term Stock Exchange"
     url: "/wiki/entities/longtermstockexchange/"
+  - key: "LordRandolphChurchill"
+    title: "Lord Randolph Churchill"
+    url: "/wiki/entities/lordrandolphchurchill/"
   - key: "LosAngeles"
     title: "Los Angeles"
     url: "/wiki/entities/losangeles/"

@@ -1374,6 +1374,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "240-young-churchill-soldier-of-empire-part-2-glt4710302249": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "241-young-churchill-prisoner-and-fugitive-part-3-glt9087091726": [
     {
       "key": "history",
@@ -16221,6 +16228,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "BurkeCochran": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "BurningGalleryRoads": [
@@ -48540,6 +48554,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "LordRandolphChurchill": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "LoriGottlieb": [

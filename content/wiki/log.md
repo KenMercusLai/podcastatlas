@@ -25829,6 +25829,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-30] ingest | 240. Young Churchill: Soldier of Empire (Part 2)
+
+Added source `240-young-churchill-soldier-of-empire-part-2-glt4710302249`; created `LordRandolphChurchill`, `BurkeCochran`, `HerbertKitchener`, `BattleOfOmdurman`, `MalakandCampaign`, and `RomanticizedWarMoralAmbivalence`; and resynthesized `WinstonChurchill`, `ImperialAdventurePublicMythmaking`, and `ImperialAdventureFiction` from their complete preserved evidence inventories. Core synthesis: Churchill's early public identity joined paternal pressure, self-education, family access, genuine courage, journalism, and deliberate self-advertisement, while his admiration for brave enemies and revulsion at punitive or industrial violence complicated but did not overturn his belief in British imperial hierarchy. No settled contradiction was adopted. Cuban, Pashtun, Sudanese, Egyptian, and civilian perspectives, causal claims about paternal influence, recalled wording, and the hosts' distinction between paternalism and racial hatred remain limited or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,263-source coverage; no topic claim set was dirty and global compaction was not due.
+
 ## [2026-09-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -26079,6 +26083,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-30] ingest | Psychedelics & Neurostimulation for Brain Rewiring | Dr. Nolan Williams
 
 Added source `psychedelics-neurostimulation-for-brain-rewiring-dr-nolan-williams-scim3664218578`; created `DepressionChronotherapy`; and resynthesized `NolanWilliams`, `TranscranialMagneticStimulationForDepression`, `StanfordNeuromodulationTherapy`, and `CircuitBasedPsychiatry` from their complete preserved evidence inventories. Core synthesis: depression interventions are better distinguished by circuit, timing, individualized target, dose, patient state, and clinical supervision than by a simple chemical-imbalance story; the full interview also separates supervised sleep-light chronotherapy from unsafe self-directed sleep deprivation. No settled contradiction was adopted. SNT remission and durability, psychedelic response rates, ketamine-opioid interpretation, ibogaine and ayahuasca results, MDMA safety, and cannabinoid claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,260-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-30] lint | Wiki health check
 

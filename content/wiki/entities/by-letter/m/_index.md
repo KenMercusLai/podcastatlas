@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 11588
+wiki_total_pages: 11593
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -146,6 +146,9 @@ wiki_pages:
   - key: "MakeMyTrip"
     title: "MakeMyTrip"
     url: "/wiki/entities/makemytrip/"
+  - key: "MalakandCampaign"
+    title: "Malakand Campaign"
+    url: "/wiki/entities/malakandcampaign/"
   - key: "Malaysia"
     title: "Malaysia"
     url: "/wiki/entities/malaysia/"

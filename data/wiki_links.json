@@ -867,6 +867,10 @@
     "title": "24.捍卫雅各布：相信你是我唯一的执念",
     "url": "/wiki/sources/24-hanwei-yagebu-xiangxin-ni-shi-wo-weiyi-de-zhinian-576218441/"
   },
+  "240-young-churchill-soldier-of-empire-part-2-glt4710302249": {
+    "title": "240. Young Churchill: Soldier of Empire (Part 2)",
+    "url": "/wiki/sources/240-young-churchill-soldier-of-empire-part-2-glt4710302249/"
+  },
   "241-young-churchill-prisoner-and-fugitive-part-3-glt9087091726": {
     "title": "241. Young Churchill: Prisoner and Fugitive (Part 3)",
     "url": "/wiki/sources/241-young-churchill-prisoner-and-fugitive-part-3-glt9087091726/"
@@ -9903,6 +9907,10 @@
     "title": "Battle of Narva / 纳尔瓦战役",
     "url": "/wiki/entities/battleofnarva/"
   },
+  "BattleOfOmdurman": {
+    "title": "Battle of Omdurman",
+    "url": "/wiki/entities/battleofomdurman/"
+  },
   "BattleOfPhilippi": {
     "title": "Battle of Philippi / 腓立比战役",
     "url": "/wiki/entities/battleofphilippi/"
@@ -12234,6 +12242,10 @@
   "BurkeAndHare": {
     "title": "Burke and Hare / 伯克与黑尔",
     "url": "/wiki/entities/burkeandhare/"
+  },
+  "BurkeCochran": {
+    "title": "Burke Cochran",
+    "url": "/wiki/entities/burkecochran/"
   },
   "BurningGalleryRoads": {
     "title": "Burning Gallery Roads / 烧栈道",
@@ -34159,6 +34171,10 @@
     "title": "Herbal Supplement Liver Toxicity",
     "url": "/wiki/concepts/herbalsupplementlivertoxicity/"
   },
+  "HerbertKitchener": {
+    "title": "Herbert Kitchener",
+    "url": "/wiki/entities/herbertkitchener/"
+  },
   "HerbertSimon": {
     "title": "Herbert Simon / 赫伯特·西蒙",
     "url": "/wiki/entities/herbertsimon/"
@@ -45891,6 +45907,10 @@
     "title": "Lord of the Flies / 《蝇王》",
     "url": "/wiki/entities/lordoftheflies/"
   },
+  "LordRandolphChurchill": {
+    "title": "Lord Randolph Churchill",
+    "url": "/wiki/entities/lordrandolphchurchill/"
+  },
   "LordsAppellant": {
     "title": "Lords Appellant",
     "url": "/wiki/entities/lordsappellant/"
@@ -47290,6 +47310,10 @@
   "MakingFrankensteinBook": {
     "title": "《制造弗兰肯斯坦：玛丽·雪莱背后的科学》",
     "url": "/wiki/entities/makingfrankensteinbook/"
+  },
+  "MalakandCampaign": {
+    "title": "Malakand Campaign",
+    "url": "/wiki/entities/malakandcampaign/"
   },
   "Malawangzi": {
     "title": "麻辣王子 / Malawangzi",
@@ -63670,6 +63694,10 @@
   "RomanticScienceCulture": {
     "title": "Romantic Science Culture / 浪漫主义科学文化",
     "url": "/wiki/concepts/romanticscienceculture/"
+  },
+  "RomanticizedWarMoralAmbivalence": {
+    "title": "Romanticized War Moral Ambivalence",
+    "url": "/wiki/concepts/romanticizedwarmoralambivalence/"
   },
   "RonBenaghi": {
     "title": "Ron Benaghi",

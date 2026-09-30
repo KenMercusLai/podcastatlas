@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [240. Young Churchill: Soldier of Empire (Part 2)](sources/240-young-churchill-soldier-of-empire-part-2-glt4710302249.md) — The Rest Is History episode on Churchill's Cuba, India, Malakand, and Omdurman apprenticeship, joining war reporting and self-education to imperial confidence and moral unease.
 - [Can data centers ever be good neighbors?](sources/tech-20260930-mp-tech-pod-128-tech-20260930-mp-tech-pod-128.md) — Marketplace Tech interview with Scott Brennan on concentrated local data-center costs, community benefit agreements, onsite-power tradeoffs, and why weak delivery histories turn incentives into a trust problem.
 - [241. Young Churchill: Prisoner and Fugitive (Part 3)](sources/241-young-churchill-prisoner-and-fugitive-part-3-glt9087091726.md) — The Rest Is History episode on the Boer War, Churchill's armored-train capture and Pretoria escape, imperial mineral politics, military adaptation, and adventure-driven public celebrity.
 - [Psychedelics & Neurostimulation for Brain Rewiring | Dr. Nolan Williams](sources/psychedelics-neurostimulation-for-brain-rewiring-dr-nolan-williams-scim3664218578.md) — Full Huberman Lab interview on depression circuits, TMS/SNT, psychedelics, ketamine, supervised chronotherapy, cannabis risk, and clinical evidence boundaries.
@@ -3316,6 +3317,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI講台語，長輩為何有聽沒有懂？](sources/ai-jiang-taiyu-zhangbei-weihe-you-ting-meiyou-dong-8f2ef858c5c159ba4b0becd4f1676e8b.md) — 端聞 episode on Taiwanese-language clinical communication, elder comprehension, AI patient education, low-resource speech data, and user-centered validation.
 
 ## Entities
+- [Lord Randolph Churchill](entities/LordRandolphChurchill.md) — Winston Churchill's admired but critical father, whose death intensified the episode's account of Winston's drive for achievement.
+- [Burke Cochran](entities/BurkeCochran.md) — American congressman and orator presented as an important model for Churchill's public speaking.
+- [Herbert Kitchener](entities/HerbertKitchener.md) — Sudan commander whose military victory and treatment of the defeated drew Churchill's criticism.
+- [Battle of Omdurman](entities/BattleOfOmdurman.md) — 1898 battle where cavalry spectacle and industrial imperial firepower produced victory, slaughter, and moral revulsion.
+- [Malakand Campaign](entities/MalakandCampaign.md) — 1897 frontier campaign joining Churchill's soldier-correspondent opportunity to admiration for opponents and doubt about punitive war.
 - [Boer War](entities/BoerWar.md) — South African imperial conflict joining Boer independence, British expansion, mineral interests, military adaptation, and Churchill's early celebrity.
 - [Cecil Rhodes](entities/CecilRhodes.md) — Mining magnate and expansionist whose Cape-to-Cairo vision and Jameson Raid role frame the Boer War's imperial prehistory.
 - [Joseph Chamberlain](entities/JosephChamberlain.md) — British colonial secretary admired by young Churchill and associated with the episode's assertive imperial politics.
@@ -5063,7 +5069,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jackie Fisher / Admiral Lord Fisher](entities/JackieFisher.md) — First Sea Lord whose Dardanelles warnings make Gallipoli an ignored institutional-objection case.
 - [Enver Pasha](entities/EnverPasha.md) — Ottoman leader whose German orientation and Sarikamish disaster form part of Gallipoli's prehistory.
 - [Mustafa Kemal / Ataturk](entities/MustafaKemalAtaturk.md) — Ottoman commander whose Gallipoli role made his reputation and is treated as a step toward later Turkish national authority.
-- [Winston Churchill](entities/WinstonChurchill.md) — British leader whose bold peripheral strategy links Gallipoli's failed shortcut with the constrained but partly successful 1943 Italian campaign.
+- [Winston Churchill](entities/WinstonChurchill.md) — British soldier-writer and leader whose early imperial adventures, moral tensions, and publicity methods precede later bold peripheral strategy.
 - [Lindsay Cole](entities/LindsayCole.md) — Forensic psychology professor and parent used by Planet Money to show professional-household strain under inflation.
 - [Rick Schultz](entities/RickSchultz.md) — Retired Planet Money listener whose pensions, investments, homeownership, and timing make the comfortable-retiree side of the economy visible.
 - [Leo Vamaka](entities/LeoVamaka.md) — Teen Planet Money listener whose coupon use, food budgeting, and gasoline sensitivity illustrate inflation-shaped consumer habits.
@@ -14937,6 +14943,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [台灣人工智慧實驗室 / Taiwan AI Labs](entities/TaiwanAILabs.md) — AI organization adapting Taiwanese speech generation through better alignment and Romanized pronunciation targets.
 
 ## Concepts
+- [Romanticized War Moral Ambivalence](concepts/RomanticizedWarMoralAmbivalence.md) — Coexistence of attraction to danger and martial glory with admiration for enemies, awareness of suffering, and revulsion at cruelty.
 - [Imperial Adventure Public Mythmaking](concepts/ImperialAdventurePublicMythmaking.md) — Process by which real danger, narrative control, press timing, and national morale convert colonial adventure into political celebrity.
 - [Imperial War Resource Motive](concepts/ImperialWarResourceMotive.md) — Framework separating formal war sequence and public grievance from overlapping commodity and strategic incentives.
 - [Depression Chronotherapy](concepts/DepressionChronotherapy.md) — Clinically supervised combination of wake therapy, circadian phase shifting, and bright light for depression, kept distinct from self-directed sleep deprivation.

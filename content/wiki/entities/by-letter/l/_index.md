@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 11588
+wiki_total_pages: 11593
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -728,6 +728,9 @@ wiki_pages:
   - key: "LordOfTheFlies"
     title: "Lord of the Flies / 《蝇王》"
     url: "/wiki/entities/lordoftheflies/"
+  - key: "LordRandolphChurchill"
+    title: "Lord Randolph Churchill"
+    url: "/wiki/entities/lordrandolphchurchill/"
   - key: "LordsAppellant"
     title: "Lords Appellant"
     url: "/wiki/entities/lordsappellant/"
