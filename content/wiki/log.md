@@ -26280,3 +26280,11 @@ Added source `227-portugal-on-the-edge-of-the-world-part-1-glt1834337589`; creat
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | 226. The Lord of the Rings
+
+Added source `226-the-lord-of-the-rings-glt1788342017`; created `TheHobbit`, `TheLordOfTheRings`, `CorruptingPowerRenunciation`, and `AntiIndustrialPastoralism`; and resynthesized `JRRTolkien`, `CSLewis`, and `NorthernCourage` from their complete preserved evidence inventories. Core synthesis: Tolkien's epic treats corrupting mastery as something that cannot be safely turned toward good ends, joins Catholic hope and sacrifice to northern courage under loss, and makes the Scouring's industrial, bureaucratic, and ecological damage essential to its account of postwar homecoming. No settled contradiction was adopted. Allegorical, wartime, political, racial, and adaptation readings remain source-scoped, and medieval context does not erase the contemporary effects of troubling imagery. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,285-source coverage; no topic claim set was dirty and global compaction was not due. Publish validation passed.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

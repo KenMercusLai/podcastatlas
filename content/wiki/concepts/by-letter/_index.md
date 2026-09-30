@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9024
+wiki_total_pages: 9026
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2075,6 +2075,9 @@ wiki_pages:
   - key: "AntiHouthiCoalitionFragmentation"
     title: "Anti-Houthi Coalition Fragmentation"
     url: "/wiki/concepts/antihouthicoalitionfragmentation/"
+  - key: "AntiIndustrialPastoralism"
+    title: "Anti-Industrial Pastoralism"
+    url: "/wiki/concepts/antiindustrialpastoralism/"
   - key: "AntiLyricism"
     title: "Anti-Lyricism / 反抒情"
     url: "/wiki/concepts/antilyricism/"

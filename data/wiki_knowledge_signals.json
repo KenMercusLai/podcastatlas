@@ -12362,6 +12362,22 @@
       "updated": "2026-09-15",
       "url": "/wiki/concepts/antihouthicoalitionfragmentation/"
     },
+    "AntiIndustrialPastoralism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1788342017 [GLT1788342017].md",
+          "key": "226-the-lord-of-the-rings-glt1788342017",
+          "show": "The Rest Is History",
+          "title": "226. The Lord of the Rings",
+          "url": "/wiki/sources/226-the-lord-of-the-rings-glt1788342017/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/antiindustrialpastoralism/"
+    },
     "AntiMoneyLaundering": {
       "episode_count": 5,
       "show_count": 3,
@@ -24159,6 +24175,29 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/cpraedresponseboundary/"
+    },
+    "CSLewis": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "60.闲聊伟大作家们的八卦（第一弹） [648693204].md",
+          "key": "60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204",
+          "show": "蜜獾吃书",
+          "title": "60.闲聊伟大作家们的八卦（第一弹）",
+          "url": "/wiki/sources/60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204/"
+        },
+        {
+          "episode_file": "GLT1788342017 [GLT1788342017].md",
+          "key": "226-the-lord-of-the-rings-glt1788342017",
+          "show": "The Rest Is History",
+          "title": "226. The Lord of the Rings",
+          "url": "/wiki/sources/226-the-lord-of-the-rings-glt1788342017/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/cslewis/"
     },
     "CSSEdit": {
       "episode_count": 1,
@@ -39137,6 +39176,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/concepts/correctiveweaklinktraining/"
+    },
+    "CorruptingPowerRenunciation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1788342017 [GLT1788342017].md",
+          "key": "226-the-lord-of-the-rings-glt1788342017",
+          "show": "The Rest Is History",
+          "title": "226. The Lord of the Rings",
+          "url": "/wiki/sources/226-the-lord-of-the-rings-glt1788342017/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/corruptingpowerrenunciation/"
     },
     "Corsica": {
       "episode_count": 2,
@@ -95413,9 +95468,9 @@
       "url": "/wiki/entities/jpmorgan/"
     },
     "JRRTolkien": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 3,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "36.黑暗的左手：流放与爱的未来往事 [605254522].md",
@@ -95465,9 +95520,16 @@
           "show": "The Rest Is History",
           "title": "461. Dragons",
           "url": "/wiki/sources/461-dragons-glt6416738853/"
+        },
+        {
+          "episode_file": "GLT1788342017 [GLT1788342017].md",
+          "key": "226-the-lord-of-the-rings-glt1788342017",
+          "show": "The Rest Is History",
+          "title": "226. The Lord of the Rings",
+          "url": "/wiki/sources/226-the-lord-of-the-rings-glt1788342017/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/jrrtolkien/"
     },
     "JRobertOppenheimer": {
@@ -131716,6 +131778,29 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/concepts/northeastmodernitytestsite/"
+    },
+    "NorthernCourage": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "EP269 从“漫威宇宙”到《奥德赛》：为何总要翻拍英雄史诗？ [ltKLOTheqpuP6oaMYflFzpXTIPsW].md",
+          "key": "ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw",
+          "show": "Talk三联",
+          "title": "EP269 从“漫威宇宙”到《奥德赛》：为何总要翻拍英雄史诗？",
+          "url": "/wiki/sources/ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw/"
+        },
+        {
+          "episode_file": "GLT1788342017 [GLT1788342017].md",
+          "key": "226-the-lord-of-the-rings-glt1788342017",
+          "show": "The Rest Is History",
+          "title": "226. The Lord of the Rings",
+          "url": "/wiki/sources/226-the-lord-of-the-rings-glt1788342017/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/northerncourage/"
     },
     "NorthernIreland": {
       "episode_count": 4,
@@ -176956,6 +177041,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/thehistories/"
     },
+    "TheHobbit": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1788342017 [GLT1788342017].md",
+          "key": "226-the-lord-of-the-rings-glt1788342017",
+          "show": "The Rest Is History",
+          "title": "226. The Lord of the Rings",
+          "url": "/wiki/sources/226-the-lord-of-the-rings-glt1788342017/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/thehobbit/"
+    },
     "TheHolocaust": {
       "episode_count": 7,
       "show_count": 2,
@@ -177068,6 +177169,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/thekeralastory/"
+    },
+    "TheLordOfTheRings": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1788342017 [GLT1788342017].md",
+          "key": "226-the-lord-of-the-rings-glt1788342017",
+          "show": "The Rest Is History",
+          "title": "226. The Lord of the Rings",
+          "url": "/wiki/sources/226-the-lord-of-the-rings-glt1788342017/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/thelordoftherings/"
     },
     "TheNewDarkAges": {
       "episode_count": 1,

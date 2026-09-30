@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2965
+topic_total_pages: 2970
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -304,6 +304,9 @@ topic_concepts:
   - key: "AntiDetectiveFiction"
     title: "Anti-Detective Fiction"
     url: "/wiki/concepts/antidetectivefiction/"
+  - key: "AntiIndustrialPastoralism"
+    title: "Anti-Industrial Pastoralism"
+    url: "/wiki/concepts/antiindustrialpastoralism/"
   - key: "AntiLyricism"
     title: "Anti-Lyricism / 反抒情"
     url: "/wiki/concepts/antilyricism/"
@@ -784,6 +787,9 @@ topic_concepts:
   - key: "CorporateHospitalityPlatform"
     title: "Corporate Hospitality Platform"
     url: "/wiki/concepts/corporatehospitalityplatform/"
+  - key: "CorruptingPowerRenunciation"
+    title: "Corrupting Power and Renunciation"
+    url: "/wiki/concepts/corruptingpowerrenunciation/"
   - key: "CosmicHorror"
     title: "Cosmic Horror"
     url: "/wiki/concepts/cosmichorror/"
@@ -5510,6 +5516,9 @@ topic_entities:
   - key: "TheGreatCrash1929"
     title: "The Great Crash 1929 / 《1929年大崩盘》"
     url: "/wiki/entities/thegreatcrash1929/"
+  - key: "TheHobbit"
+    title: "The Hobbit"
+    url: "/wiki/entities/thehobbit/"
   - key: "TheHoundOfTheBaskervilles"
     title: "The Hound of the Baskervilles / 《巴斯克维尔的猎犬》"
     url: "/wiki/entities/thehoundofthebaskervilles/"
@@ -5531,6 +5540,9 @@ topic_entities:
   - key: "TheKeralaStory"
     title: "The Kerala Story"
     url: "/wiki/entities/thekeralastory/"
+  - key: "TheLordOfTheRings"
+    title: "The Lord of the Rings"
+    url: "/wiki/entities/thelordoftherings/"
   - key: "ManInTheIronMask"
     title: "The Man in the Iron Mask"
     url: "/wiki/entities/manintheironmask/"
@@ -8115,6 +8127,9 @@ topic_sources:
   - key: "22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427"
     title: "22.足球经济学：读者不必是球迷"
     url: "/wiki/sources/22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427/"
+  - key: "226-the-lord-of-the-rings-glt1788342017"
+    title: "226. The Lord of the Rings"
+    url: "/wiki/sources/226-the-lord-of-the-rings-glt1788342017/"
   - key: "232-queen-elizabeth-ii-part-2-glt5667149245"
     title: "232. Queen Elizabeth II (Part 2)"
     url: "/wiki/sources/232-queen-elizabeth-ii-part-2-glt5667149245/"

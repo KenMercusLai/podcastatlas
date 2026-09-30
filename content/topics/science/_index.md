@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1356
+topic_total_pages: 1359
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -139,6 +139,9 @@ topic_concepts:
   - key: "AnteriorMidCingulateWillpower"
     title: "Anterior Mid-Cingulate Willpower"
     url: "/wiki/concepts/anteriormidcingulatewillpower/"
+  - key: "AntiIndustrialPastoralism"
+    title: "Anti-Industrial Pastoralism"
+    url: "/wiki/concepts/antiindustrialpastoralism/"
   - key: "AntimicrobialResistance"
     title: "Antimicrobial Resistance"
     url: "/wiki/concepts/antimicrobialresistance/"
@@ -3098,6 +3101,9 @@ topic_entities:
   - key: "TheArtOfInsubordination"
     title: "The Art of Insubordination / 不服从的艺术"
     url: "/wiki/entities/theartofinsubordination/"
+  - key: "TheLordOfTheRings"
+    title: "The Lord of the Rings"
+    url: "/wiki/entities/thelordoftherings/"
   - key: "TheodoreSimon"
     title: "Theodore Simon / 西奥多·西蒙"
     url: "/wiki/entities/theodoresimon/"
@@ -3438,6 +3444,9 @@ topic_sources:
   - key: "21-hong-yu-hei-ta-si-yu-zhencheng-569042001"
     title: "21.红与黑：他死于真诚"
     url: "/wiki/sources/21-hong-yu-hei-ta-si-yu-zhencheng-569042001/"
+  - key: "226-the-lord-of-the-rings-glt1788342017"
+    title: "226. The Lord of the Rings"
+    url: "/wiki/sources/226-the-lord-of-the-rings-glt1788342017/"
   - key: "313-climate-apocalypse-glt8815959934"
     title: "313: Climate Apocalypse"
     url: "/wiki/sources/313-climate-apocalypse-glt8815959934/"

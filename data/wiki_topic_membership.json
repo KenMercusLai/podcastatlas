@@ -1374,6 +1374,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "226-the-lord-of-the-rings-glt1788342017": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "227-portugal-on-the-edge-of-the-world-part-1-glt1834337589": [
     {
       "key": "history",
@@ -11582,6 +11594,23 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "AntiIndustrialPastoralism": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "AntiLyricism": [
@@ -22121,6 +22150,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "CorruptingPowerRenunciation": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "CortecGroup": [
@@ -76677,6 +76713,13 @@
       "url": "/topics/history/"
     }
   ],
+  "TheHobbit": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "TheHoundOfTheBaskervilles": [
     {
       "key": "culture",
@@ -76781,6 +76824,18 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "TheLordOfTheRings": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "TheLureOfLuck": [

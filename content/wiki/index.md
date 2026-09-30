@@ -3338,6 +3338,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [235. China and World War II (Part 1)](sources/235-china-and-world-war-ii-part-1-glt2114682484.md) — The Rest Is History episode with Rana Mitter on rival global-war start dates, Chinese fragmentation, Japanese imperial expansion, the 1937 escalation, and the Battle of Shanghai.
 - [Who's Gonna Pay for Your Social Security?](sources/default-mp3-ywr3ahjkcgo-fa7b2a90f9b1f7efc01397a3ed4ae0bf-30494375-default-mp3-ywr3ahjkcgo-fa7b2a90f9b1f7efc01397a3ed4ae0bf-30494375.md) — Planet Money episode comparing the financing scale and distributional costs of Social Security reform options.
 
+- [226. The Lord of the Rings](sources/226-the-lord-of-the-rings-glt1788342017.md) — The Rest Is History episode on Tolkien's ring ethics, hidden Catholic structure, wartime power, damaged homecoming, anti-industrial environmentalism, politics, and race.
+
 ## Entities
 - [Afonso Henriques](entities/AfonsoHenriques.md) — Founder-king connecting Portuguese independence, the Reconquista, and the 1147 capture of Lisbon.
 - [Philippa of Lancaster](entities/PhilippaOfLancaster.md) — English queen consort whose marriage to João I gave the Anglo-Portuguese alliance a dynastic foundation.
@@ -12687,8 +12689,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [W. B. Yeats / 叶芝](entities/WBYeats.md) — Poet used by episode 60 to connect romantic image, occult practice, Golden Dawn, bad politics, automatic writing, and late-life desire.
 - [Golden Dawn / 金色黎明](entities/GoldenDawn.md) — Occult organization connecting Yeats, Crowley, ritual practice, and the literary-occult branch of episode 60.
 - [Aleister Crowley / 阿莱斯特·克劳利](entities/AleisterCrowley.md) — Occult figure whose rivalry with Yeats makes episode 60's Golden Dawn segment a literary-biographical case.
-- [J.R.R. Tolkien / 托尔金](entities/JRRTolkien.md) — Fantasy writer framed through biography, English myth-making, Norse/Celtic afterlives, and episode 31's comparison with Martin's historical worldbuilding.
-- [C. S. Lewis / C.S. 刘易斯](entities/CSLewis.md) — Tolkien's friend and literary counterpart, used by episode 60 to show admiration and artistic criticism coexisting.
+- [J.R.R. Tolkien / 托尔金](entities/JRRTolkien.md) — Fantasy writer and philologist joining English myth-making, northern inheritance, Catholic moral structure, twentieth-century war, and anti-industrial environmental imagination.
+- [C. S. Lewis / C.S. 刘易斯](entities/CSLewis.md) — Tolkien's friend, candid literary critic, and Christian counterpart clarifying the contrast between direct allegory and embedded theology.
+- [The Hobbit](entities/TheHobbit.md) — Tolkien children's quest whose modern hobbit enters an archaic mythic world and returns permanently changed.
+- [The Lord of the Rings](entities/TheLordOfTheRings.md) — Tolkien epic joining corrupting power, renunciation, war, hidden Catholic structure, loss, and damaged homecoming.
 - [Crete](entities/Crete.md) — Mediterranean island used by episode 59 as a layered setting for mythology, Minoan archaeology, World War II memory, sea-turtle observation, and island extinction.
 - [Minoan Civilization](entities/MinoanCivilization.md) — Bronze Age Cretan civilization discussed through Knossos, bull imagery, palace systems, art, Linear A, and cautious archaeological interpretation.
 - [Knossos Palace](entities/KnossosPalace.md) — Major Minoan site near Heraklion whose palace layout, infrastructure, frescoes, and museum context anchor the episode's archaeology layer.
@@ -21081,7 +21085,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Homeric Hospitality Test](concepts/HomericHospitalityTest.md) — Odyssey guest-host pattern spanning Polyphemus' anti-hospitality, Aeolus' failed aid, Phaeacian welcome, Eumaeus' loyalty, and suitor violation.
 - [Homeric Fantasy Geography](concepts/HomericFantasyGeography.md) — Odyssey reading frame for mythic islands and sea hazards as seafaring, colonial, and cultural-boundary anxieties.
 - [Odyssean Leadership Trust Failure](concepts/OdysseanLeadershipTrustFailure.md) — Pattern where Odysseus sees or solves danger but cannot consistently secure crew trust, restraint, or discipline.
-- [Northern Courage / 北方的勇气](concepts/NorthernCourage.md) — Tolkien-linked EP269 concept for acting fully even when fate or defeat is already known.
+- [Northern Courage / 北方的勇气](concepts/NorthernCourage.md) — Doom-facing ethic that Tolkien joins to Catholic hope, sacrifice, incomplete victory, and history's long defeat.
 - [Mythic Environmental Imagination](concepts/MythicEnvironmentalImagination.md) — EP269 frame for reading myth through natural force, scarcity, ecology, human limits, and renewal after collapse.
 - [Dinosaur As Living Animal / 恐龙作为活着的动物](concepts/DinosaurAsLivingAnimal.md) — Frame for treating dinosaurs as animals with fear, illness, attachment, aging, and individual differences rather than only monster spectacle.
 - [Evidence-Bound Paleontological Reconstruction / 证据约束的古生物复原](concepts/EvidenceBoundPaleontologicalReconstruction.md) — Method for imagining extinct animals through fossils, biomechanics, living relatives, and explicit uncertainty rather than arbitrary design.
@@ -24075,5 +24079,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Social Security Pay-As-You-Go Financing](concepts/SocialSecurityPayAsYouGoFinancing.md) — Financing structure linking current benefits to payroll taxes, demographics, employment, wages, and immigration.
 - [Social Security Reform Portfolio](concepts/SocialSecurityReformPortfolio.md) — Mixed tax, benefit, eligibility, and workforce package for closing the projected financing gap.
 - [Social Security Taxable Maximum Erosion](concepts/SocialSecurityTaxableMaximumErosion.md) — Decline in covered earnings when wage growth becomes concentrated above the payroll-tax cap.
+
+- [Corrupting Power and Renunciation](concepts/CorruptingPowerRenunciation.md) — Moral pattern in which defeating domination requires relinquishing rather than wielding its corrupting instruments.
+- [Anti-Industrial Pastoralism](concepts/AntiIndustrialPastoralism.md) — Literary-political critique joining ecological destruction, machinery, bureaucracy, surveillance, and damaged homecoming.
 
 ## Syntheses

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2883
+topic_total_pages: 2884
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -292,6 +292,9 @@ topic_concepts:
   - key: "AntiHouthiCoalitionFragmentation"
     title: "Anti-Houthi Coalition Fragmentation"
     url: "/wiki/concepts/antihouthicoalitionfragmentation/"
+  - key: "AntiIndustrialPastoralism"
+    title: "Anti-Industrial Pastoralism"
+    url: "/wiki/concepts/antiindustrialpastoralism/"
   - key: "AntitrustChill"
     title: "Antitrust Chill"
     url: "/wiki/concepts/antitrustchill/"

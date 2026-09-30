@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 11637
+wiki_total_pages: 11639
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -431,6 +431,9 @@ wiki_pages:
   - key: "TheHistories"
     title: "The Histories"
     url: "/wiki/entities/thehistories/"
+  - key: "TheHobbit"
+    title: "The Hobbit"
+    url: "/wiki/entities/thehobbit/"
   - key: "TheHolocaust"
     title: "The Holocaust / 犹太人大屠杀"
     url: "/wiki/entities/theholocaust/"
@@ -461,6 +464,9 @@ wiki_pages:
   - key: "TheLiberationOfAuntJemima"
     title: "The Liberation of Aunt Jemima"
     url: "/wiki/entities/theliberationofauntjemima/"
+  - key: "TheLordOfTheRings"
+    title: "The Lord of the Rings"
+    url: "/wiki/entities/thelordoftherings/"
   - key: "TheMetamorphosisKafka"
     title: "The Metamorphosis / Kafka's 《变形记》"
     url: "/wiki/entities/themetamorphosiskafka/"
