@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "v"
-wiki_total_pages: 11630
+wiki_total_pages: 11635
 wiki_pages:
   - key: "VacheronConstantin"
     title: "Vacheron Constantin"
@@ -65,6 +65,9 @@ wiki_pages:
   - key: "Vanta"
     title: "Vanta"
     url: "/wiki/entities/vanta/"
+  - key: "VascoDaGama"
+    title: "Vasco da Gama"
+    url: "/wiki/entities/vascodagama/"
   - key: "VascoGoncalves"
     title: "Vasco Goncalves"
     url: "/wiki/entities/vascogoncalves/"

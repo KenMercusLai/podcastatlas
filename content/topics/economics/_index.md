@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2148
+topic_total_pages: 2150
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2311,6 +2311,12 @@ topic_concepts:
   - key: "PortfolioSuitability"
     title: "Portfolio Suitability"
     url: "/wiki/concepts/portfoliosuitability/"
+  - key: "PortugueseCrusadingCommercialExpansion"
+    title: "Portuguese Crusading-Commercial Expansion"
+    url: "/wiki/concepts/portuguesecrusadingcommercialexpansion/"
+  - key: "PortugueseFortifiedMaritimeNetwork"
+    title: "Portuguese Fortified Maritime Network"
+    url: "/wiki/concepts/portuguesefortifiedmaritimenetwork/"
   - key: "PositionSizing"
     title: "Position Sizing"
     url: "/wiki/concepts/positionsizing/"

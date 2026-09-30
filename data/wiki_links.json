@@ -859,6 +859,10 @@
     "title": "22.足球经济学：读者不必是球迷",
     "url": "/wiki/sources/22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427/"
   },
+  "228-portugal-the-golden-age-of-discovery-part-2-glt7949934800": {
+    "title": "228. Portugal: The Golden Age of Discovery (Part 2)",
+    "url": "/wiki/sources/228-portugal-the-golden-age-of-discovery-part-2-glt7949934800/"
+  },
   "229-portugal-gold-earthquakes-and-brazil-part-3-glt8317395817": {
     "title": "229. Portugal: Gold, Earthquakes, and Brazil (Part 3)",
     "url": "/wiki/sources/229-portugal-gold-earthquakes-and-brazil-part-3-glt8317395817/"
@@ -5411,6 +5415,10 @@
     "title": "Afghanistan",
     "url": "/wiki/entities/afghanistan/"
   },
+  "AfonsoDeAlbuquerque": {
+    "title": "Afonso de Albuquerque",
+    "url": "/wiki/entities/afonsodealbuquerque/"
+  },
   "AfricaConnectivityInfrastructure": {
     "title": "Africa Connectivity Infrastructure",
     "url": "/wiki/concepts/africaconnectivityinfrastructure/"
@@ -9838,6 +9846,10 @@
   "BartolomeDeLasCasas": {
     "title": "Bartolomé de las Casas",
     "url": "/wiki/entities/bartolomedelascasas/"
+  },
+  "BartolomeuDias": {
+    "title": "Bartolomeu Dias",
+    "url": "/wiki/entities/bartolomeudias/"
   },
   "BaruchSpinoza": {
     "title": "Baruch Spinoza / 斯宾诺莎",
@@ -47759,6 +47771,10 @@
     "title": "Manual Operations Debt",
     "url": "/wiki/concepts/manualoperationsdebt/"
   },
+  "ManuelIOfPortugal": {
+    "title": "Manuel I of Portugal",
+    "url": "/wiki/entities/manueliofportugal/"
+  },
   "ManufacturedAccessBrokerage": {
     "title": "Manufactured Access Brokerage / 假势通道套利",
     "url": "/wiki/concepts/manufacturedaccessbrokerage/"
@@ -58303,9 +58319,17 @@
     "title": "Portuguese Colonial Wars",
     "url": "/wiki/concepts/portuguesecolonialwars/"
   },
+  "PortugueseCrusadingCommercialExpansion": {
+    "title": "Portuguese Crusading-Commercial Expansion",
+    "url": "/wiki/concepts/portuguesecrusadingcommercialexpansion/"
+  },
   "PortugueseCulturalSymbolPolitics": {
     "title": "Portuguese Cultural Symbol Politics",
     "url": "/wiki/concepts/portugueseculturalsymbolpolitics/"
+  },
+  "PortugueseFortifiedMaritimeNetwork": {
+    "title": "Portuguese Fortified Maritime Network",
+    "url": "/wiki/concepts/portuguesefortifiedmaritimenetwork/"
   },
   "PortugueseMaritimeExpansion": {
     "title": "Portuguese Maritime Expansion / 葡萄牙海上扩张",
@@ -65614,6 +65638,10 @@
   "SebastianMallaby": {
     "title": "Sebastian Mallaby",
     "url": "/wiki/entities/sebastianmallaby/"
+  },
+  "SebastianOfPortugal": {
+    "title": "Sebastian of Portugal",
+    "url": "/wiki/entities/sebastianofportugal/"
   },
   "SebastianTheResidency": {
     "title": "Sebastian (The Residency)",
@@ -76302,6 +76330,10 @@
   "VaricellaZosterLatencyReactivation": {
     "title": "Varicella-Zoster Latency and Reactivation / 水痘-带状疱疹病毒潜伏与再激活",
     "url": "/wiki/concepts/varicellazosterlatencyreactivation/"
+  },
+  "VascoDaGama": {
+    "title": "Vasco da Gama",
+    "url": "/wiki/entities/vascodagama/"
   },
   "VascoGoncalves": {
     "title": "Vasco Goncalves",

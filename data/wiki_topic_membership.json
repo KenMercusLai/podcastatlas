@@ -1374,6 +1374,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "228-portugal-the-golden-age-of-discovery-part-2-glt7949934800": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "229-portugal-gold-earthquakes-and-brazil-part-3-glt8317395817": [
     {
       "key": "history",
@@ -60823,11 +60830,25 @@
       "url": "/topics/economics/"
     }
   ],
+  "PortugueseCrusadingCommercialExpansion": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "PortugueseCulturalSymbolPolitics": [
     {
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "PortugueseFortifiedMaritimeNetwork": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "PositionSizing": [

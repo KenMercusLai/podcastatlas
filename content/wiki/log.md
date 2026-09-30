@@ -26256,3 +26256,11 @@ Added source `229-portugal-gold-earthquakes-and-brazil-part-3-glt8317395817`; cr
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | 228. Portugal: The Golden Age of Discovery (Part 2)
+
+Added source `228-portugal-the-golden-age-of-discovery-part-2-glt7949934800`; created `BartolomeuDias`, `VascoDaGama`, `AfonsoDeAlbuquerque`, `ManuelIOfPortugal`, `SebastianOfPortugal`, `PortugueseCrusadingCommercialExpansion`, and `PortugueseFortifiedMaritimeNetwork`; and resynthesized `Portugal`, `JoaoIIOfPortugal`, and `PortugueseMaritimeExpansion` from their complete preserved evidence inventories. Core synthesis: Portugal's demonstrated Cape route developed into a fortified Indian Ocean network in which navigation, spice commerce, royal ambition, Christian mission, and anti-Muslim warfare reinforced one another; Sebastian's failed Moroccan crusade then turned that militant inheritance into a succession crisis and Spanish rule. No settled contradiction was adopted. Casualty totals, motive attributions, royal boasts, pre-Tordesillas western knowledge, Sebastian's final moments, and claims of direct Dutch or British imitation remain source-scoped, while African and Asian perspectives are limited. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,282-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page validation found no broken wikilinks or unindexed pages.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

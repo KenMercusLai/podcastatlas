@@ -6737,6 +6737,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/affectivepolarization/"
     },
+    "AfonsoDeAlbuquerque": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7949934800 [GLT7949934800].md",
+          "key": "228-portugal-the-golden-age-of-discovery-part-2-glt7949934800",
+          "show": "The Rest Is History",
+          "title": "228. Portugal: The Golden Age of Discovery (Part 2)",
+          "url": "/wiki/sources/228-portugal-the-golden-age-of-discovery-part-2-glt7949934800/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/afonsodealbuquerque/"
+    },
     "AfricanFemaleAuthorityInstitutions": {
       "episode_count": 1,
       "show_count": 1,
@@ -18046,6 +18062,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/entities/bartolomedelascasas/"
+    },
+    "BartolomeuDias": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7949934800 [GLT7949934800].md",
+          "key": "228-portugal-the-golden-age-of-discovery-part-2-glt7949934800",
+          "show": "The Rest Is History",
+          "title": "228. Portugal: The Golden Age of Discovery (Part 2)",
+          "url": "/wiki/sources/228-portugal-the-golden-age-of-discovery-part-2-glt7949934800/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/bartolomeudias/"
     },
     "BaselineAwareRespiratoryMonitoring": {
       "episode_count": 1,
@@ -98394,9 +98426,9 @@
       "url": "/wiki/entities/joannastern/"
     },
     "JoaoIIOfPortugal": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6089901915 [GLT6089901915].md",
@@ -98404,9 +98436,16 @@
           "show": "The Rest Is History",
           "title": "306: Columbus: The Adventure Begins (Part 1)",
           "url": "/wiki/sources/306-columbus-the-adventure-begins-part-1-glt6089901915/"
+        },
+        {
+          "episode_file": "GLT7949934800 [GLT7949934800].md",
+          "key": "228-portugal-the-golden-age-of-discovery-part-2-glt7949934800",
+          "show": "The Rest Is History",
+          "title": "228. Portugal: The Golden Age of Discovery (Part 2)",
+          "url": "/wiki/sources/228-portugal-the-golden-age-of-discovery-part-2-glt7949934800/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/joaoiiofportugal/"
     },
     "JocelynJiang": {
@@ -117962,6 +118001,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/entities/mannymorota/"
+    },
+    "ManuelIOfPortugal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7949934800 [GLT7949934800].md",
+          "key": "228-portugal-the-golden-age-of-discovery-part-2-glt7949934800",
+          "show": "The Rest Is History",
+          "title": "228. Portugal: The Golden Age of Discovery (Part 2)",
+          "url": "/wiki/sources/228-portugal-the-golden-age-of-discovery-part-2-glt7949934800/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/manueliofportugal/"
     },
     "ManufacturedHistoricalConspiracy": {
       "episode_count": 1,
@@ -142716,9 +142771,9 @@
       "url": "/wiki/concepts/portablepoliticalcapital/"
     },
     "Portugal": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 3,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT1627515087 [GLT1627515087].md",
@@ -142754,6 +142809,13 @@
           "show": "The Rest Is History",
           "title": "230. Portugal: Football, Fado, and Fascism? (Part 4)",
           "url": "/wiki/sources/230-portugal-football-fado-and-fascism-part-4-glt9147423732/"
+        },
+        {
+          "episode_file": "GLT7949934800 [GLT7949934800].md",
+          "key": "228-portugal-the-golden-age-of-discovery-part-2-glt7949934800",
+          "show": "The Rest Is History",
+          "title": "228. Portugal: The Golden Age of Discovery (Part 2)",
+          "url": "/wiki/sources/228-portugal-the-golden-age-of-discovery-part-2-glt7949934800/"
         }
       ],
       "updated": "2026-10-01",
@@ -142782,6 +142844,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/concepts/portuguesecolonialwars/"
     },
+    "PortugueseCrusadingCommercialExpansion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7949934800 [GLT7949934800].md",
+          "key": "228-portugal-the-golden-age-of-discovery-part-2-glt7949934800",
+          "show": "The Rest Is History",
+          "title": "228. Portugal: The Golden Age of Discovery (Part 2)",
+          "url": "/wiki/sources/228-portugal-the-golden-age-of-discovery-part-2-glt7949934800/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/portuguesecrusadingcommercialexpansion/"
+    },
     "PortugueseCulturalSymbolPolitics": {
       "episode_count": 1,
       "show_count": 1,
@@ -142798,10 +142876,26 @@
       "updated": "2026-10-01",
       "url": "/wiki/concepts/portugueseculturalsymbolpolitics/"
     },
+    "PortugueseFortifiedMaritimeNetwork": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7949934800 [GLT7949934800].md",
+          "key": "228-portugal-the-golden-age-of-discovery-part-2-glt7949934800",
+          "show": "The Rest Is History",
+          "title": "228. Portugal: The Golden Age of Discovery (Part 2)",
+          "url": "/wiki/sources/228-portugal-the-golden-age-of-discovery-part-2-glt7949934800/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/portuguesefortifiedmaritimenetwork/"
+    },
     "PortugueseMaritimeExpansion": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lu8PaWNKiSeLmmrgubrEy4pq-4fw [lu8PaWNKiSeLmmrgubrEy4pq-4fw].md",
@@ -142816,9 +142910,16 @@
           "show": "The Rest Is History",
           "title": "306: Columbus: The Adventure Begins (Part 1)",
           "url": "/wiki/sources/306-columbus-the-adventure-begins-part-1-glt6089901915/"
+        },
+        {
+          "episode_file": "GLT7949934800 [GLT7949934800].md",
+          "key": "228-portugal-the-golden-age-of-discovery-part-2-glt7949934800",
+          "show": "The Rest Is History",
+          "title": "228. Portugal: The Golden Age of Discovery (Part 2)",
+          "url": "/wiki/sources/228-portugal-the-golden-age-of-discovery-part-2-glt7949934800/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/portuguesemaritimeexpansion/"
     },
     "PortugueseRevolutionaryProcess": {
@@ -159679,6 +159780,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/sebastiancastellio/"
+    },
+    "SebastianOfPortugal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7949934800 [GLT7949934800].md",
+          "key": "228-portugal-the-golden-age-of-discovery-part-2-glt7949934800",
+          "show": "The Rest Is History",
+          "title": "228. Portugal: The Golden Age of Discovery (Part 2)",
+          "url": "/wiki/sources/228-portugal-the-golden-age-of-discovery-part-2-glt7949934800/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/sebastianofportugal/"
     },
     "SecondDayMoneyEvolution": {
       "episode_count": 1,
@@ -184049,6 +184166,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/concepts/varicellazosterlatencyreactivation/"
+    },
+    "VascoDaGama": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7949934800 [GLT7949934800].md",
+          "key": "228-portugal-the-golden-age-of-discovery-part-2-glt7949934800",
+          "show": "The Rest Is History",
+          "title": "228. Portugal: The Golden Age of Discovery (Part 2)",
+          "url": "/wiki/sources/228-portugal-the-golden-age-of-discovery-part-2-glt7949934800/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/vascodagama/"
     },
     "VascoGoncalves": {
       "episode_count": 1,

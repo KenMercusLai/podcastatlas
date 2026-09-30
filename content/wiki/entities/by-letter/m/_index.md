@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 11630
+wiki_total_pages: 11635
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -224,6 +224,9 @@ wiki_pages:
   - key: "MansurYavas"
     title: "Mansur Yavas"
     url: "/wiki/entities/mansuryavas/"
+  - key: "ManuelIOfPortugal"
+    title: "Manuel I of Portugal"
+    url: "/wiki/entities/manueliofportugal/"
   - key: "ManufacturingInstitute"
     title: "Manufacturing Institute"
     url: "/wiki/entities/manufacturinginstitute/"

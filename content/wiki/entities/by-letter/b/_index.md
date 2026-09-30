@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 11630
+wiki_total_pages: 11635
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -173,6 +173,9 @@ wiki_pages:
   - key: "BartlebyColumn"
     title: "Bartleby Column"
     url: "/wiki/entities/bartlebycolumn/"
+  - key: "BartolomeuDias"
+    title: "Bartolomeu Dias"
+    url: "/wiki/entities/bartolomeudias/"
   - key: "BartolomeDeLasCasas"
     title: "Bartolomé de las Casas"
     url: "/wiki/entities/bartolomedelascasas/"

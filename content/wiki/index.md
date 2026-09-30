@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [228. Portugal: The Golden Age of Discovery (Part 2)](sources/228-portugal-the-golden-age-of-discovery-part-2-glt7949934800.md) — The Rest Is History episode on Portugal's Cape route, Indian Ocean network, crusading-commercial ambition, organized violence, and Sebastian's succession crisis.
 - [229. Portugal: Gold, Earthquakes, and Brazil (Part 3)](sources/229-portugal-gold-earthquakes-and-brazil-part-3-glt8317395817.md) — The Rest Is History episode on Portuguese restoration, Brazilian commodity wealth and slavery, Pombal, the Lisbon earthquake, court relocation, and Brazilian independence.
 - [230. Portugal: Football, Fado, and Fascism? (Part 4)](sources/230-portugal-football-fado-and-fascism-part-4-glt9147423732.md) — The Rest Is History episode on Salazar's rise, Estado Novo repression and stability, the fascism boundary, wartime neutrality, cultural symbols, football, and colonial crisis.
 - [231. Queen Elizabeth II (Part 1)](sources/231-queen-elizabeth-ii-part-1-glt2826379729.md) — The Rest Is History episode on Elizabeth II's early life, wartime duty, the monarch's two bodies, accession, and the sacred-media tension of her coronation.
@@ -3546,6 +3547,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Taíno](entities/TainoPeople.md) — Indigenous Caribbean peoples whose exchange, political agency, captivity, resistance, and catastrophe are preserved through an asymmetric colonial archive.
 - [Martín Pinzón](entities/MartinPinzon.md) — Palos mariner whose recruitment, course judgment, local authority, and rivalry made Columbus's first voyage possible and command unstable.
 - [João II of Portugal](entities/JoaoIIOfPortugal.md) — Portuguese monarch whose experts rejected Columbus's underestimated westward route while the African route advanced.
+- [Bartolomeu Dias](entities/BartolomeuDias.md) — Portuguese navigator who rounded southern Africa and validated the Cape route while foreshadowing its violent encounters.
+- [Vasco da Gama](entities/VascoDaGama.md) — Portuguese commander who reached India by sea and later used organized terror against pilgrims and coastal communities.
+- [Afonso de Albuquerque](entities/AfonsoDeAlbuquerque.md) — Portuguese viceroy who consolidated the violent fortified-port network through Goa, Malacca, and Asian diplomacy.
+- [Manuel I of Portugal](entities/ManuelIOfPortugal.md) — Monarch who joined the India route and spice trade to Christian mission, anti-Muslim war, and imperial spectacle.
+- [Sebastian of Portugal](entities/SebastianOfPortugal.md) — King whose failed Moroccan crusade caused the succession crisis preceding Spanish rule.
 - [Luis de Santángel](entities/LuisDeSantangel.md) — Aragonese treasury official whose low-cost competitive argument helped secure Columbus's 1492 sponsorship.
 - [Isabella I of Castile](entities/IsabellaIOfCastile.md) — Spanish monarch who sponsored colonization while objecting to the enslavement of Indigenous subjects and potential converts.
 - [Ferdinand II of Aragon](entities/FerdinandIIOfAragon.md) — Spanish monarch linking Portuguese rivalry, papal diplomacy, colonial sponsorship, and later royal investigation.
@@ -17044,6 +17050,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ceuta Imperial Borderland / 休达帝国边地](concepts/CeutaImperialBorderland.md) — Pattern where Ceuta's geography lets imperial, commercial, scholarly, military, and migration layers accumulate.
 - [Iberian Reconquista / 伊比利亚收复失地运动](concepts/IberianReconquista.md) — Iberian Christian expansion frame used to explain Portugal's post-1249 turn toward North Africa and the Atlantic.
 - [Portuguese Maritime Expansion / 葡萄牙海上扩张](concepts/PortugueseMaritimeExpansion.md) — Qualified expansion narrative in which the 1415 conquest of Ceuta becomes the conventional first station.
+- [Portuguese Crusading-Commercial Expansion](concepts/PortugueseCrusadingCommercialExpansion.md) — Framework joining spice commerce, royal prestige, Christian mission, and anti-Muslim violence in Portuguese expansion.
+- [Portuguese Fortified Maritime Network](concepts/PortugueseFortifiedMaritimeNetwork.md) — Coastal-node imperial model using ports, forts, naval routes, and diplomacy to project power with limited manpower.
 - [Anxiety Decomposition / 焦虑拆解](concepts/AnxietyDecomposition.md) — method for turning diffuse anxiety into smaller body, situation, expectation, history, and support components.
 - [Gentle Anxiety Support / 温柔靠近焦虑](concepts/GentleAnxietySupport.md) — relationship posture for approaching anxiety without adding urgency or stimulation.
 - [Omnipotent Self-Blame / 全能自恋式归因](concepts/OmnipotentSelfBlame.md) — attribution pattern where hardship, system pressure, or relational ambiguity becomes total self-causation.
