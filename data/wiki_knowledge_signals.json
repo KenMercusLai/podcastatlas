@@ -88008,6 +88008,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/concepts/historicalmemorycontest/"
     },
+    "HistoricalNarrativeTerritorialLegitimation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2859413707 [GLT2859413707].md",
+          "key": "155-ukraine-and-russia-glt2859413707",
+          "show": "The Rest Is History",
+          "title": "155. Ukraine and Russia",
+          "url": "/wiki/sources/155-ukraine-and-russia-glt2859413707/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/historicalnarrativeterritoriallegitimation/"
+    },
     "HistoricalPopulationRegistrationCaution": {
       "episode_count": 1,
       "show_count": 1,
@@ -106796,9 +106812,9 @@
       "url": "/wiki/entities/khwarazmianempire/"
     },
     "KievanRus": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8286135160 [GLT8286135160].md",
@@ -106806,9 +106822,16 @@
           "show": "The Rest Is History",
           "title": "552. The Last Viking: The Saga of Harald Hardrada (Part 1)",
           "url": "/wiki/sources/552-the-last-viking-the-saga-of-harald-hardrada-part-1-glt8286135160/"
+        },
+        {
+          "episode_file": "GLT2859413707 [GLT2859413707].md",
+          "key": "155-ukraine-and-russia-glt2859413707",
+          "show": "The Rest Is History",
+          "title": "155. Ukraine and Russia",
+          "url": "/wiki/sources/155-ukraine-and-russia-glt2859413707/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/kievanrus/"
     },
     "KimKardashian": {
@@ -192006,6 +192029,92 @@
       "updated": "2026-09-14",
       "url": "/wiki/concepts/ujibridgebattle/"
     },
+    "Ukraine": {
+      "episode_count": 11,
+      "show_count": 5,
+      "source_note_count": 11,
+      "sources": [
+        {
+          "episode_file": "139.从《昨日的世界》到如今的欧洲：美好年代Belle époque，它还能回来吗？ [ltvSGOV8hT9_-l7YP9QaMdgJMYrf].md",
+          "key": "139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf",
+          "show": "起朱楼宴宾客",
+          "title": "139.从《昨日的世界》到如今的欧洲：美好年代Belle époque，它还能回来吗？",
+          "url": "/wiki/sources/139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf/"
+        },
+        {
+          "episode_file": "A hawk who flew on political winds： Lindsey Graham [6a54b56575790d5f01515d55].md",
+          "key": "a-hawk-who-flew-on-political-winds-lindsey-graham-6a54b56575790d5f01515d55",
+          "show": "Economist Podcasts",
+          "title": "A hawk who flew on political winds: Lindsey Graham",
+          "url": "/wiki/sources/a-hawk-who-flew-on-political-winds-lindsey-graham-6a54b56575790d5f01515d55/"
+        },
+        {
+          "episode_file": "tech_20260319_0319_MP_TECH_pod_128 [tech_20260319_0319_MP_TECH_pod_128].md",
+          "key": "tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "How low-cost drones are used in modern military strikes",
+          "url": "/wiki/sources/tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "Keep qualms and carry on： a decade after Brexit [6a3a53028a3c8822ab345d4b].md",
+          "key": "keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b",
+          "show": "Economist Podcasts",
+          "title": "Keep qualms and carry on: a decade after Brexit",
+          "url": "/wiki/sources/keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b/"
+        },
+        {
+          "episode_file": "Continental rift： NATO’s tense summit [6a4cc6b0c4772b27e88e898e].md",
+          "key": "continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e",
+          "show": "Economist Podcasts",
+          "title": "Continental Rift: NATO's Tense Summit",
+          "url": "/wiki/sources/continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e/"
+        },
+        {
+          "episode_file": "Far Crimea： war comes to Russia’s door [6a3e560c26d5a6687a90c658].md",
+          "key": "far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658",
+          "show": "Economist Podcasts",
+          "title": "Far Crimea: war comes to Russia's door",
+          "url": "/wiki/sources/far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658/"
+        },
+        {
+          "episode_file": "Putin’s options： an oligarch speaks out [6a50c5ebbafe2fa6a7f38210].md",
+          "key": "putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210",
+          "show": "Economist Podcasts",
+          "title": "Putin's options: an oligarch speaks out",
+          "url": "/wiki/sources/putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210/"
+        },
+        {
+          "episode_file": "Kyiv brawl： Ukraine’s top general fired [6a609aec4fac21e67f1be165].md",
+          "key": "kyiv-brawl-ukraines-top-general-fired-6a609aec4fac21e67f1be165",
+          "show": "Economist Podcasts",
+          "title": "Kyiv brawl: Ukraine's top general fired",
+          "url": "/wiki/sources/kyiv-brawl-ukraines-top-general-fired-6a609aec4fac21e67f1be165/"
+        },
+        {
+          "episode_file": "05.她来自马里乌波尔：“如果你看见过我曾见到的。” [533375925].md",
+          "key": "05-ta-laizi-maliwuboer-ruguo-ni-kanjian-guo-wo-ceng-jiandao-de-533375925",
+          "show": "蜜獾吃书",
+          "title": "05.她来自马里乌波尔：“如果你看见过我曾见到的。”",
+          "url": "/wiki/sources/05-ta-laizi-maliwuboer-ruguo-ni-kanjian-guo-wo-ceng-jiandao-de-533375925/"
+        },
+        {
+          "episode_file": "Bombs and bombshells： Zelensky under pressure [6a86d3561ad8716bb64646f0].md",
+          "key": "bombs-and-bombshells-zelensky-under-pressure-6a86d3561ad8716bb64646f0",
+          "show": "Economist Podcasts",
+          "title": "Bombs and bombshells: Zelensky under pressure",
+          "url": "/wiki/sources/bombs-and-bombshells-zelensky-under-pressure-6a86d3561ad8716bb64646f0/"
+        },
+        {
+          "episode_file": "GLT2859413707 [GLT2859413707].md",
+          "key": "155-ukraine-and-russia-glt2859413707",
+          "show": "The Rest Is History",
+          "title": "155. Ukraine and Russia",
+          "url": "/wiki/sources/155-ukraine-and-russia-glt2859413707/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/ukraine/"
+    },
     "UkrainianDefenseIndustrialScaling": {
       "episode_count": 1,
       "show_count": 1,
@@ -192021,6 +192130,22 @@
       ],
       "updated": "2026-09-19",
       "url": "/wiki/concepts/ukrainiandefenseindustrialscaling/"
+    },
+    "UkrainianNationalIdentity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2859413707 [GLT2859413707].md",
+          "key": "155-ukraine-and-russia-glt2859413707",
+          "show": "The Rest Is History",
+          "title": "155. Ukraine and Russia",
+          "url": "/wiki/sources/155-ukraine-and-russia-glt2859413707/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/ukrainiannationalidentity/"
     },
     "UlrichBeck": {
       "episode_count": 1,
@@ -195339,9 +195464,9 @@
       "url": "/wiki/entities/vivekmurthy/"
     },
     "VladimirPutin": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 2,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "Far Crimea： war comes to Russia’s door [6a3e560c26d5a6687a90c658].md",
@@ -195384,6 +195509,13 @@
           "show": "The Rest Is History",
           "title": "159. Young Putin, the KGB and the Soviet Union",
           "url": "/wiki/sources/159-young-putin-the-kgb-and-the-soviet-union-glt7336670203/"
+        },
+        {
+          "episode_file": "GLT2859413707 [GLT2859413707].md",
+          "key": "155-ukraine-and-russia-glt2859413707",
+          "show": "The Rest Is History",
+          "title": "155. Ukraine and Russia",
+          "url": "/wiki/sources/155-ukraine-and-russia-glt2859413707/"
         }
       ],
       "updated": "2026-10-02",

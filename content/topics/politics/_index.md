@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2964
+topic_total_pages: 2966
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1795,6 +1795,9 @@ topic_concepts:
   - key: "HistoricalMemoryContest"
     title: "Historical Memory Contest"
     url: "/wiki/concepts/historicalmemorycontest/"
+  - key: "HistoricalNarrativeTerritorialLegitimation"
+    title: "Historical Narrative as Territorial Legitimation"
+    url: "/wiki/concepts/historicalnarrativeterritoriallegitimation/"
   - key: "HistoricalRhymePoliticalReading"
     title: "Historical Rhyme Political Reading / 历史押韵式政治阅读"
     url: "/wiki/concepts/historicalrhymepoliticalreading/"
@@ -7830,6 +7833,9 @@ topic_sources:
   - key: "146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu"
     title: "146.美国经济这么差，美股还能继续涨吗 | 串台《美轮美换》"
     url: "/wiki/sources/146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu/"
+  - key: "155-ukraine-and-russia-glt2859413707"
+    title: "155. Ukraine and Russia"
+    url: "/wiki/sources/155-ukraine-and-russia-glt2859413707/"
   - key: "160-ruhe-yingdui-zhongguo-zichan-niushi-de-tiaozhengqi-xinshu-fenxianghui-chengdu-chang-shilu-lm8degdbgmgi6nnwspjy-gdzwqfz"
     title: "160.如何应对中国资产牛市的“调整期”｜新书分享会成都场实录"
     url: "/wiki/sources/160-ruhe-yingdui-zhongguo-zichan-niushi-de-tiaozhengqi-xinshu-fenxianghui-chengdu-chang-shilu-lm8degdbgmgi6nnwspjy-gdzwqfz/"

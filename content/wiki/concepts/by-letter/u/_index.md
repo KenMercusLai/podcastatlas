@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "u"
-wiki_total_pages: 9191
+wiki_total_pages: 9193
 wiki_pages:
   - key: "US2025ExpectationGaps"
     title: "U.S. 2025 Expectation Gaps"
@@ -80,6 +80,9 @@ wiki_pages:
   - key: "UkrainianDefenseIndustrialScaling"
     title: "Ukrainian Defense-Industrial Scaling"
     url: "/wiki/concepts/ukrainiandefenseindustrialscaling/"
+  - key: "UkrainianNationalIdentity"
+    title: "Ukrainian National Identity"
+    url: "/wiki/concepts/ukrainiannationalidentity/"
   - key: "UltraFastDeliveryEconomics"
     title: "Ultra-Fast Delivery Economics"
     url: "/wiki/concepts/ultrafastdeliveryeconomics/"

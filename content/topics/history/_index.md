@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2340
+topic_total_pages: 2343
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -577,6 +577,9 @@ topic_concepts:
   - key: "HistoricalMemoryContest"
     title: "Historical Memory Contest"
     url: "/wiki/concepts/historicalmemorycontest/"
+  - key: "HistoricalNarrativeTerritorialLegitimation"
+    title: "Historical Narrative as Territorial Legitimation"
+    url: "/wiki/concepts/historicalnarrativeterritoriallegitimation/"
   - key: "HistoricalPrecedentWeaponization"
     title: "Historical Precedent Weaponization / 历史先例武器化"
     url: "/wiki/concepts/historicalprecedentweaponization/"
@@ -1357,6 +1360,9 @@ topic_concepts:
   - key: "TwoRatsCourageMaxim"
     title: "Two Rats Courage Maxim / 两鼠斗穴勇者胜"
     url: "/wiki/concepts/tworatscouragemaxim/"
+  - key: "UkrainianNationalIdentity"
+    title: "Ukrainian National Identity"
+    url: "/wiki/concepts/ukrainiannationalidentity/"
   - key: "UnverifiedTerritorialPromiseTrap"
     title: "Unverified Territorial Promise Trap / 未验地先断交陷阱"
     url: "/wiki/concepts/unverifiedterritorialpromisetrap/"
@@ -4794,6 +4800,9 @@ topic_sources:
   - key: "14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285"
     title: "14.武士威廉：大航海时代的日本和西方"
     url: "/wiki/sources/14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285/"
+  - key: "155-ukraine-and-russia-glt2859413707"
+    title: "155. Ukraine and Russia"
+    url: "/wiki/sources/155-ukraine-and-russia-glt2859413707/"
   - key: "156-when-did-the-roman-empire-fall-glt4933356600"
     title: "156. When Did the Roman Empire Fall?"
     url: "/wiki/sources/156-when-did-the-roman-empire-fall-glt4933356600/"

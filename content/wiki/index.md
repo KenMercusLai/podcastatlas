@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [155. Ukraine and Russia](sources/155-ukraine-and-russia-glt2859413707.md) — The Rest Is History on Ukrainian identity before Bolshevism, Kievan Rus, Cossack autonomy, imperial and Soviet rule, 1991 independence, and the political use of historical claims.
 - [How to Enhance Your Gut Microbiome for Brain & Overall Health](sources/how-to-enhance-your-gut-microbiome-for-brain-overall-health-scim1762541394.md) — Huberman Lab solo episode on gut-brain neural and hormonal signaling, microbiome ecology, fermented-food evidence, and intervention limits.
 - [156. When Did the Roman Empire Fall?](sources/156-when-did-the-roman-empire-fall-glt4933356600.md) — The Rest Is History on layered Roman endings, the qualified 476 endpoint, eastern continuity, and Justinianic restoration as destruction.
 - [157. Byzantium and the Ghosts of Rome](sources/157-byzantium-and-the-ghosts-of-rome-glt1014708592.md) — The Rest Is History on seventh-century Byzantine transformation, Roman self-identity, layered imperial endings, western and Moscow succession, and apocalyptic afterlives.
@@ -15347,6 +15348,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Justin Sonnenburg](entities/JustinSonnenburg.md) — Stanford microbiologist framing the gut microbiome through ecology, diet, resilience, and evidence-bounded intervention research.
 
 ## Concepts
+- [Ukrainian National Identity](concepts/UkrainianNationalIdentity.md) — Historically changing identity formed through cultural practice, regional diversity, political organization, trauma, and democratic sovereignty rather than Soviet invention.
+- [Historical Narrative as Territorial Legitimation](concepts/HistoricalNarrativeTerritorialLegitimation.md) — Use of selected origins, treaties, imperial labels, and transfers to turn historical connection into a present claim of territorial entitlement.
 - [Third Rome Claim](concepts/ThirdRomeClaim.md) — Orthodox and dynastic doctrine translating Roman imperial authority from Rome through Constantinople to Moscow.
 - [Russian Exceptionalism](concepts/RussianExceptionalism.md) — Flexible religious, imperial, Soviet, and geopolitical frame of distinctive Russian destiny, bounded against deterministic national-character claims.
 - [Partial Reform Destabilization](concepts/PartialReformDestabilization.md) — Risk that reform weakens old coordination and legitimacy before capable replacement institutions stabilize.
