@@ -3444,6 +3444,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [176. The Jews Against Rome (Part 2)](sources/176-the-jews-against-rome-part-2-glt3414103581.md) — The Rest Is History episode on Judean identity, Roman governance, revolt escalation, Beth-Horon, Jotapata, Josephus, and Vespasian's rise.
 - [Founder-Led Sales: He Learned to Sell and Closed 50 Customers](sources/d5efc401.md) — The SaaS Podcast episode with Shahar Azulay on Groundcover's eBPF and bring-your-own-cloud architecture, founder-led sales, infrastructure-based pricing, and incumbent replacement migration.
 
+- [How to Build, Maintain & Repair Gut Health | Dr. Justin Sonnenburg](sources/how-to-build-maintain-repair-gut-health-dr-justin-sonnenburg-scim9214130216.md) — Huberman Lab interview on microbiome ecology, dietary fiber, fermented foods, systemic signaling, and intervention limits.
+
 ## Entities
 - [Leonid Kravchuk](entities/LeonidKravchuk.md) — Ukrainian leader linking the failed August coup, sovereignty referendum, and Belavezha dissolution of the Soviet Union.
 - [Anatoly Sobchak](entities/AnatolySobchak.md) — St. Petersburg mayor and constitutional contributor who served as Vladimir Putin's professor, patron, and political superior.
@@ -15331,6 +15333,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jason Cowley](entities/JasonCowley.md) — New Statesman editor and author interpreting modern English identity through paradox, place, politics, and football.
 - [Gareth Southgate](entities/GarethSouthgate.md) — England manager presented as joining inherited patriotic symbols to progressive and multiracial belonging.
 
+- [Justin Sonnenburg](entities/JustinSonnenburg.md) — Stanford microbiologist framing the gut microbiome through ecology, diet, resilience, and evidence-bounded intervention research.
+
 ## Concepts
 - [Dual Sovereignty State Dissolution](concepts/DualSovereigntyStateDissolution.md) — How a constituent government's rival legitimacy and administrative authority can hollow out and dissolve a larger state.
 - [Failed Coup Authority Transfer](concepts/FailedCoupAuthorityTransfer.md) — How an unsuccessful seizure of central power can discredit its sponsors and transfer practical authority to a rival.
@@ -24567,5 +24571,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Sodium-Water Homeostasis](concepts/SodiumWaterHomeostasis.md) — Brain-hormone-kidney model linking osmotic and volume sensing, thirst, salt appetite, vasopressin, fluid handling, and neural sodium use.
 - [Contextual Sodium Intake](concepts/ContextualSodiumIntake.md) — Context-first boundary for sodium decisions across blood pressure, disease, diet, fluid balance, sweat loss, climate, and other electrolytes.
+
+- [Microbiome Ecological Resilience](concepts/MicrobiomeEcologicalResilience.md) — Capacity of gut microbial communities to persist or recover through interactions among organisms, substrates, host niches, and disturbance history.
 
 ## Syntheses

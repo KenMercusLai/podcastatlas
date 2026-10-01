@@ -67078,9 +67078,9 @@
       "url": "/wiki/entities/ferdinandmaximilian/"
     },
     "FermentedFoodResponsePersonalization": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM3206044616 [SCIM3206044616].md",
@@ -67088,9 +67088,16 @@
           "show": "Huberman Lab",
           "title": "How Different Diets Impact Your Health | Dr. Christopher Gardner",
           "url": "/wiki/sources/how-different-diets-impact-your-health-dr-christopher-gardner-scim3206044616/"
+        },
+        {
+          "episode_file": "SCIM9214130216 [SCIM9214130216].md",
+          "key": "how-to-build-maintain-repair-gut-health-dr-justin-sonnenburg-scim9214130216",
+          "show": "Huberman Lab",
+          "title": "How to Build, Maintain & Repair Gut Health | Dr. Justin Sonnenburg",
+          "url": "/wiki/sources/how-to-build-maintain-repair-gut-health-dr-justin-sonnenburg-scim9214130216/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/fermentedfoodresponsepersonalization/"
     },
     "Ferrero": {
@@ -105338,6 +105345,22 @@
       "updated": "2026-09-25",
       "url": "/wiki/concepts/jungianselfandego/"
     },
+    "JustinSonnenburg": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9214130216 [SCIM9214130216].md",
+          "key": "how-to-build-maintain-repair-gut-health-dr-justin-sonnenburg-scim9214130216",
+          "show": "Huberman Lab",
+          "title": "How to Build, Maintain & Repair Gut Health | Dr. Justin Sonnenburg",
+          "url": "/wiki/sources/how-to-build-maintain-repair-gut-health-dr-justin-sonnenburg-scim9214130216/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/justinsonnenburg/"
+    },
     "JustinianI": {
       "episode_count": 3,
       "show_count": 1,
@@ -129117,6 +129140,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/mickjagger/"
+    },
+    "MicrobiomeEcologicalResilience": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9214130216 [SCIM9214130216].md",
+          "key": "how-to-build-maintain-repair-gut-health-dr-justin-sonnenburg-scim9214130216",
+          "show": "Huberman Lab",
+          "title": "How to Build, Maintain & Repair Gut Health | Dr. Justin Sonnenburg",
+          "url": "/wiki/sources/how-to-build-maintain-repair-gut-health-dr-justin-sonnenburg-scim9214130216/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/microbiomeecologicalresilience/"
     },
     "MicronTechnology": {
       "episode_count": 7,

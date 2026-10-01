@@ -27095,3 +27095,15 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | How to Build, Maintain & Repair Gut Health | Dr. Justin Sonnenburg
+
+Added source `how-to-build-maintain-repair-gut-health-dr-justin-sonnenburg-scim9214130216`; created `JustinSonnenburg` and `MicrobiomeEcologicalResilience`; and resynthesized `FermentedFoodResponsePersonalization` from its complete preserved evidence inventory. Core synthesis: gut microbial communities occupy distinct niches and can resist or recover from disturbance according to both organism availability and habitat support; diverse whole-plant fiber and live fermented foods act through different ecological routes; and the small Stanford intervention supports a fermented-food diversity and inflammatory-marker signal without establishing a universal dose or long-term clinical benefit. No settled contradiction was adopted. The primary cytokine endpoint, exploratory fiber subgroup, animal recovery experiment, diversity and biomarker interpretation, metabolite mechanisms, and probiotic, prebiotic, fasting, cleanse, sanitation, and brain-effect claims remain qualified or source-scoped public education rather than individualized medical or nutrition guidance. The automatic `wiki/overview.md` was read for context and not manually rewritten because this source deepens an established science-and-health branch rather than changing the wiki-wide synthesis. The downstream manifest and paragraph ledger were refreshed to 3,386-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
