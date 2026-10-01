@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 11867
+wiki_total_pages: 11868
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -71,6 +71,9 @@ wiki_pages:
   - key: "SaintPetersburg"
     title: "Saint Petersburg / 圣彼得堡"
     url: "/wiki/entities/saintpetersburg/"
+  - key: "SaintValentine"
+    title: "Saint Valentine"
+    url: "/wiki/entities/saintvalentine/"
   - key: "SainteBeuve"
     title: "Sainte-Beuve / 圣伯夫"
     url: "/wiki/entities/saintebeuve/"

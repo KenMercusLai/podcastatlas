@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [151. Valentine's Day](sources/151-valentines-day-glt1795443565.md) — The Rest Is History on uncertain saints, weak Lupercalia continuity, Chaucer's bird-mating poetry, Valentine customs, cards, postal reform, and vinegar valentines.
 - [152. American Crusades](sources/152-american-crusades-glt4400059090.md) — The Rest Is History with Andrew Preston on religiously framed expansion, reform, Civil War emancipation, Philippine empire, and American imperial self-denial.
 - [153. God and the American Empire](sources/153-god-and-the-american-empire-glt8752091834.md) — The Rest Is History with Andrew Preston on American religious persistence, Judeo-Christian national identity, and moral-religious framing from World War II through Trump.
 - [Using Hypnosis to Enhance Mental & Physical Health & Performance | Dr. David Spiegel](sources/using-hypnosis-to-enhance-mental-physical-health-performance-dr-david-spiegel-scim9896599213.md) — Huberman Lab interview on clinical hypnosis, hypnotizability, mind-body control, pain, trauma, sleep, and evidence and safety boundaries.
@@ -3458,6 +3459,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Science of Love, Desire and Attachment](sources/the-science-of-love-desire-and-attachment-scim1112390541.md) — Huberman Lab solo episode on attachment plasticity, autonomic co-regulation, partner idealization, self-expansion, chemical cues, relationship conflict, and multisystem libido.
 
 ## Entities
+- [Saint Valentine](entities/SaintValentine.md) — Uncertain martyr figure or cluster of figures whose feast supplied the name later attached to the romantic holiday.
 - [Andrew Preston](entities/AndrewPreston.md) — Historian interpreting American religion through institutional persistence, expansion, reform, pluralism, and competing foreign-policy impulses.
 - [Harry S. Truman](entities/HarrySTruman.md) — U.S. president whose early Cold War profile joins religious mobilization, biblical imagination, and recognition of Israel.
 - [David Spiegel](entities/DavidSpiegel.md) — Stanford psychiatrist and hypnosis researcher framing focused attention as a voluntary, clinically bounded route to mind-body control.
@@ -15365,6 +15367,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Julie Gottman](entities/JulieGottman.md) — Relationship researcher linked with John Gottman to couple outcomes and destructive conflict patterns.
 
 ## Concepts
+- [Valentine's Day Historical Formation](concepts/ValentinesDayHistoricalFormation.md) — Layered development from an uncertain saint's feast through medieval literature, social custom, print, post, and commerce.
+- [Valentine Card Commercialization](concepts/ValentineCardCommercialization.md) — Scaling of Valentine exchange through prepared verse, manufactured cards, cheaper post, anonymity, and transatlantic business.
+- [Vinegar Valentines](concepts/VinegarValentines.md) — Commercially printed insulting cards that used Valentine exchange for ridicule and anonymous social sanction.
 - [Manifest Destiny](concepts/ManifestDestiny.md) — Nineteenth-century ideology moralizing territorial expansion as both American right and civilizing responsibility.
 - [American Imperial Self-Denial](concepts/AmericanImperialSelfDenial.md) — Gap between American conquest and overseas rule and a recurring national self-image opposed to empire.
 - [American Religious Persistence](concepts/AmericanReligiousPersistence.md) — Institutional account of how disestablishment and religious competition helped public faith persist alongside modernization.

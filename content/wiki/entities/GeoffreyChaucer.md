@@ -4,7 +4,8 @@ type: entity
 tags: [writer, poet, medieval-england, literature]
 sources:
   - 416-the-canterbury-tales-part-4-glt1956280616
-last_updated: 2026-09-27
+  - 151-valentines-day-glt1795443565
+last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
 
@@ -20,6 +21,8 @@ The episode places Chaucer between commercial London and royal government. Born 
 
 His literary importance is presented as both English and cosmopolitan. Exposure to French, Latin, Italian writers, merchants, and diplomacy helped him make English a serious literary medium, while his pilgrims represent a society more varied and unstable than the traditional tripartite hierarchy suggests.
 
+The Valentine episode adds *Parliament of Fowls* as a second route into Chaucer's cultural importance. Its birds assemble on St Valentine's Day to choose mates, making the poem a major early English literary bridge between a saint's feast, spring, courtly choice, and the later romantic custom. The proposed connection to Richard II and Anne of Bohemia's marriage negotiations remains uncertain, as does whether Chaucer intended 14 February or another Valentine feast.
+
 ## Key Characteristics
 
 - London wine-trade family background followed by access to royal households and administration.
@@ -28,6 +31,7 @@ His literary importance is presented as both English and cosmopolitan. Exposure 
 - Comic and self-parodic writer willing to place a failed version of himself inside his own work.
 - Observer of hierarchy who gives distinctive speech and agency to people across social ranks.
 - Foundational figure in the long legitimation of English as a literary language.
+- Poet whose bird-mating imagery helped attach St Valentine's Day to romantic choice in English literary culture.
 
 ## Evidence
 
@@ -35,14 +39,16 @@ His literary importance is presented as both English and cosmopolitan. Exposure 
 - **Historical witness:** [[416-the-canterbury-tales-part-4-glt1956280616]] situates him amid plague, war, London politics, and the Peasants' Revolt.
 - **Cosmopolitan authorship:** [[416-the-canterbury-tales-part-4-glt1956280616]] connects his English writing to French, Latin, Italian, and multilingual London influences.
 - **Social range and comedy:** [[416-the-canterbury-tales-part-4-glt1956280616]] emphasizes his many-voiced pilgrims, hierarchy-breaking tale order, and comic self-portrait.
+- **Valentine literary bridge:** [[151-valentines-day-glt1795443565]] presents *Parliament of Fowls* as an early English connection among St Valentine's Day, birds choosing mates, spring, and courtly love.
 
 ## Qualifications
 
-This profile is grounded in one popular-history episode rather than a complete Chaucer biography or textual study. The family-survival explanation, April plague season, political motives, Cecily Champagne litigation, exact linguistic influence, and claims about how much Chaucer personally believed his characters' positions remain source-scoped.
+This profile is grounded in two popular-history episodes rather than a complete Chaucer biography or textual study. The family-survival explanation, April plague season, political motives, Cecily Champagne litigation, exact linguistic influence, and claims about how much Chaucer personally believed his characters' positions remain source-scoped. The dating, intended feast, marriage-negotiation context, and priority claimed for *Parliament of Fowls* also remain qualified.
 
 ## What Changed
 
 - Established Chaucer as a joined literary, commercial, diplomatic, and social-history figure.
+- Added *Parliament of Fowls* as a qualified literary bridge in [[ValentinesDayHistoricalFormation|Valentine's Day's romantic formation]].
 
 ## Relationships
 
@@ -52,3 +58,4 @@ This profile is grounded in one popular-history episode rather than a complete C
 - [[PostPlagueSocialMobility]] - historical setting reflected in Chaucer's family and career.
 - [[VernacularLiteraryLegitimacy]] - language shift Chaucer advanced through cosmopolitan English writing.
 - [[HundredYearsWar]] - conflict in which Chaucer served and was captured.
+- [[ValentinesDayHistoricalFormation]] - later custom whose medieval English literary bridge includes *Parliament of Fowls*.

@@ -76484,9 +76484,9 @@
       "url": "/wiki/entities/geonet/"
     },
     "GeoffreyChaucer": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1956280616 [GLT1956280616].md",
@@ -76494,9 +76494,16 @@
           "show": "The Rest Is History",
           "title": "416. The Canterbury Tales (Part 4)",
           "url": "/wiki/sources/416-the-canterbury-tales-part-4-glt1956280616/"
+        },
+        {
+          "episode_file": "GLT1795443565 [GLT1795443565].md",
+          "key": "151-valentines-day-glt1795443565",
+          "show": "The Rest Is History",
+          "title": "151. Valentine's Day",
+          "url": "/wiki/sources/151-valentines-day-glt1795443565/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/geoffreychaucer/"
     },
     "GeoffreyDeCharny": {
@@ -166548,6 +166555,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/saintpetersburg/"
     },
+    "SaintValentine": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1795443565 [GLT1795443565].md",
+          "key": "151-valentines-day-glt1795443565",
+          "show": "The Rest Is History",
+          "title": "151. Valentine's Day",
+          "url": "/wiki/sources/151-valentines-day-glt1795443565/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/saintvalentine/"
+    },
     "SajitChanna": {
       "episode_count": 1,
       "show_count": 1,
@@ -194303,6 +194326,38 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/vaccinescheduletrustrebuilding/"
     },
+    "ValentineCardCommercialization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1795443565 [GLT1795443565].md",
+          "key": "151-valentines-day-glt1795443565",
+          "show": "The Rest Is History",
+          "title": "151. Valentine's Day",
+          "url": "/wiki/sources/151-valentines-day-glt1795443565/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/valentinecardcommercialization/"
+    },
+    "ValentinesDayHistoricalFormation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1795443565 [GLT1795443565].md",
+          "key": "151-valentines-day-glt1795443565",
+          "show": "The Rest Is History",
+          "title": "151. Valentine's Day",
+          "url": "/wiki/sources/151-valentines-day-glt1795443565/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/valentinesdayhistoricalformation/"
+    },
     "ValeryGiscardDEstaing": {
       "episode_count": 1,
       "show_count": 1,
@@ -195770,6 +195825,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/vincenzoperugia/"
+    },
+    "VinegarValentines": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1795443565 [GLT1795443565].md",
+          "key": "151-valentines-day-glt1795443565",
+          "show": "The Rest Is History",
+          "title": "151. Valentine's Day",
+          "url": "/wiki/sources/151-valentines-day-glt1795443565/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/vinegarvalentines/"
     },
     "ViolenceReductionPublicHealthModel": {
       "episode_count": 1,

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "v"
-wiki_total_pages: 9205
+wiki_total_pages: 9208
 wiki_pages:
   - key: "VacationShame"
     title: "Vacation Shame / 休假羞耻感"
@@ -14,6 +14,12 @@ wiki_pages:
   - key: "VaccineScheduleTrustRebuilding"
     title: "Vaccine Schedule Trust Rebuilding"
     url: "/wiki/concepts/vaccinescheduletrustrebuilding/"
+  - key: "ValentineCardCommercialization"
+    title: "Valentine Card Commercialization"
+    url: "/wiki/concepts/valentinecardcommercialization/"
+  - key: "ValentinesDayHistoricalFormation"
+    title: "Valentine's Day Historical Formation"
+    url: "/wiki/concepts/valentinesdayhistoricalformation/"
   - key: "ValidatedLearning"
     title: "Validated Learning"
     url: "/wiki/concepts/validatedlearning/"
@@ -257,6 +263,9 @@ wiki_pages:
   - key: "VillageSelfGovernance"
     title: "Village Self-Governance / 村庄自主治理"
     url: "/wiki/concepts/villageselfgovernance/"
+  - key: "VinegarValentines"
+    title: "Vinegar Valentines"
+    url: "/wiki/concepts/vinegarvalentines/"
   - key: "VincaSymbolsProtoWriting"
     title: "Vinča Symbols and Proto-Writing"
     url: "/wiki/concepts/vincasymbolsprotowriting/"
