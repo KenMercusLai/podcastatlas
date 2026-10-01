@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 9131
+wiki_total_pages: 9135
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -230,6 +230,9 @@ wiki_pages:
   - key: "HeartFieldEthics"
     title: "Heart-Field Ethics / 心田处世伦理"
     url: "/wiki/concepts/heartfieldethics/"
+  - key: "HeatExposureDoseAndSafety"
+    title: "Heat Exposure Dose and Safety"
+    url: "/wiki/concepts/heatexposuredoseandsafety/"
   - key: "HeathIncomesPolicy"
     title: "Heath Government Incomes Policy"
     url: "/wiki/concepts/heathincomespolicy/"

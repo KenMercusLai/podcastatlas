@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 11791
+wiki_total_pages: 11792
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -353,6 +353,9 @@ wiki_pages:
   - key: "RhondaConger"
     title: "Rhonda Conger"
     url: "/wiki/entities/rhondaconger/"
+  - key: "RhondaPatrick"
+    title: "Rhonda Patrick"
+    url: "/wiki/entities/rhondapatrick/"
   - key: "RIAA"
     title: "RIAA"
     url: "/wiki/entities/riaa/"

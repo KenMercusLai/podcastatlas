@@ -36800,9 +36800,9 @@
       "url": "/wiki/concepts/cognitivetrustallocation/"
     },
     "ColdExposureDoseAndSafety": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM1100391235 [SCIM1100391235].md",
@@ -36824,9 +36824,16 @@
           "show": "Huberman Lab",
           "title": "How to Use Cold & Heat Exposure to Improve Your Health | Dr. Susanna Søberg",
           "url": "/wiki/sources/how-to-use-cold-heat-exposure-to-improve-your-health-dr-susanna-soberg-scim2723639227/"
+        },
+        {
+          "episode_file": "SCIM7949990176 [SCIM7949990176].md",
+          "key": "micronutrients-for-health-longevity-dr-rhonda-patrick-scim7949990176",
+          "show": "Huberman Lab",
+          "title": "Micronutrients for Health & Longevity | Dr. Rhonda Patrick",
+          "url": "/wiki/sources/micronutrients-for-health-longevity-dr-rhonda-patrick-scim7949990176/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/coldexposuredoseandsafety/"
     },
     "ColdFluSupplementEvidenceBoundary": {
@@ -83913,6 +83920,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/heartvalverepairreplacementdecision/"
     },
+    "HeatExposureDoseAndSafety": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7949990176 [SCIM7949990176].md",
+          "key": "micronutrients-for-health-longevity-dr-rhonda-patrick-scim7949990176",
+          "show": "Huberman Lab",
+          "title": "Micronutrients for Health & Longevity | Dr. Rhonda Patrick",
+          "url": "/wiki/sources/micronutrients-for-health-longevity-dr-rhonda-patrick-scim7949990176/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/heatexposuredoseandsafety/"
+    },
     "HeathIncomesPolicy": {
       "episode_count": 1,
       "show_count": 1,
@@ -95902,6 +95925,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/intermediaryroutegatekeeping/"
+    },
+    "IntermittentChallengeHormesis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7949990176 [SCIM7949990176].md",
+          "key": "micronutrients-for-health-longevity-dr-rhonda-patrick-scim7949990176",
+          "show": "Huberman Lab",
+          "title": "Micronutrients for Health & Longevity | Dr. Rhonda Patrick",
+          "url": "/wiki/sources/micronutrients-for-health-longevity-dr-rhonda-patrick-scim7949990176/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/intermittentchallengehormesis/"
     },
     "IntermittentReinforcement": {
       "episode_count": 6,
@@ -127403,6 +127442,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/microntechnology/"
     },
+    "MicronutrientStatusMeasurement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7949990176 [SCIM7949990176].md",
+          "key": "micronutrients-for-health-longevity-dr-rhonda-patrick-scim7949990176",
+          "show": "Huberman Lab",
+          "title": "Micronutrients for Health & Longevity | Dr. Rhonda Patrick",
+          "url": "/wiki/sources/micronutrients-for-health-longevity-dr-rhonda-patrick-scim7949990176/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/micronutrientstatusmeasurement/"
+    },
     "MicroplasticExposureReduction": {
       "episode_count": 1,
       "show_count": 1,
@@ -137920,6 +137975,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/omarbradley/"
+    },
+    "Omega3StatusAndFormBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7949990176 [SCIM7949990176].md",
+          "key": "micronutrients-for-health-longevity-dr-rhonda-patrick-scim7949990176",
+          "show": "Huberman Lab",
+          "title": "Micronutrients for Health & Longevity | Dr. Rhonda Patrick",
+          "url": "/wiki/sources/micronutrients-for-health-longevity-dr-rhonda-patrick-scim7949990176/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/omega3statusandformboundary/"
     },
     "OmenCodedRemonstrance": {
       "episode_count": 9,
@@ -159364,6 +159435,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/rhodebeauty/"
+    },
+    "RhondaPatrick": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7949990176 [SCIM7949990176].md",
+          "key": "micronutrients-for-health-longevity-dr-rhonda-patrick-scim7949990176",
+          "show": "Huberman Lab",
+          "title": "Micronutrients for Health & Longevity | Dr. Rhonda Patrick",
+          "url": "/wiki/sources/micronutrients-for-health-longevity-dr-rhonda-patrick-scim7949990176/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/rhondapatrick/"
     },
     "RichardCromwell": {
       "episode_count": 1,

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 9131
+wiki_total_pages: 9135
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -218,6 +218,9 @@ wiki_pages:
   - key: "OlivineCarbonRemoval"
     title: "Olivine Carbon Removal"
     url: "/wiki/concepts/olivinecarbonremoval/"
+  - key: "Omega3StatusAndFormBoundary"
+    title: "Omega-3 Status and Form Boundary"
+    url: "/wiki/concepts/omega3statusandformboundary/"
   - key: "OmenCountermeasureMobility"
     title: "Omen Countermeasure Mobility / 游徙避命"
     url: "/wiki/concepts/omencountermeasuremobility/"

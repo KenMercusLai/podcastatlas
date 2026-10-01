@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 9131
+wiki_total_pages: 9135
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -728,6 +728,9 @@ wiki_pages:
   - key: "IntermediarySpeechPressure"
     title: "Intermediary Speech Pressure"
     url: "/wiki/concepts/intermediaryspeechpressure/"
+  - key: "IntermittentChallengeHormesis"
+    title: "Intermittent Challenge Hormesis"
+    url: "/wiki/concepts/intermittentchallengehormesis/"
   - key: "IntermittentReinforcement"
     title: "Intermittent Reinforcement"
     url: "/wiki/concepts/intermittentreinforcement/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Micronutrients for Health & Longevity | Dr. Rhonda Patrick](sources/micronutrients-for-health-longevity-dr-rhonda-patrick-scim7949990176.md) — Huberman Lab interview on micronutrient status, omega-3 forms, hormesis, cold and heat exposure, and measurement-led safety boundaries.
 - [182. Operation Barbarossa](sources/182-operation-barbarossa-glt3299389649.md) — The Rest Is History episode with James Holland on the invasion's resource gamble, early logistical culmination, Soviet resilience, ideological occupation, and genocidal escalation.
 - [183. History's Biggest Questions with Dan Carlin (Part 1)](sources/183-historys-biggest-questions-with-dan-carlin-part-1-glt3395544177.md) — The Rest Is History crossover on counterfactual method, siege survival, the First World War's causal reach, lost ancient perspectives, nuclear choices, and a surviving Confederacy.
 - [Understanding & Controlling Aggression](sources/understanding-controlling-aggression-scim4257261370.md) — Full Huberman Lab episode on aggression categories, VMH circuitry, hormone and photoperiod context, alcohol and caffeine disinhibition, and cumulative pressure-reduction tools.
@@ -3410,6 +3411,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Tools to Improve Your Focus & Concentration](sources/essentials-tools-to-improve-your-focus-concentration-scim2328129388.md) — Huberman Lab Essentials episode on behavior-first focus training, 90-minute work bouts, repeated refocusing, deliberate recovery, optional state tools, supplement caution, and medication boundaries.
 
 ## Entities
+- [Rhonda Patrick](entities/RhondaPatrick.md) — Health educator and researcher connecting micronutrients, metabolism, adaptive stress, testing, and thermal exposure.
 - [Operation Barbarossa](entities/OperationBarbarossa.md) — Nazi Germany's under-resourced 1941 invasion of the Soviet Union, combining rapid victories with early culmination and annihilatory occupation.
 - [Dan Carlin](entities/DanCarlin.md) — Hardcore History host using long-form research, comparison, counterfactuals, and qualified realism about the past.
 - [Hardcore History](entities/HardcoreHistory.md) — Dan Carlin's long-form history podcast, represented through research-led big-question crossovers with The Rest Is History.
@@ -15239,6 +15241,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Nocs Provisions](entities/NocsProvisions.md) — Colorful compact-optics brand weighing connected sharing against analog presence.
 
 ## Concepts
+- [Intermittent Challenge Hormesis](concepts/IntermittentChallengeHormesis.md) — Dose-bounded adaptive-stress frame spanning exercise, fasting, heat, cold, and selected plant compounds.
+- [Micronutrient Status Measurement](concepts/MicronutrientStatusMeasurement.md) — Testing-led framework separating intake, formulation, metabolism, status, and individualized response.
+- [Omega-3 Status and Form Boundary](concepts/Omega3StatusAndFormBoundary.md) — Distinction among ALA, EPA, DHA, source, chemical form, quality, biomarker status, and outcome evidence.
+- [Heat Exposure Dose and Safety](concepts/HeatExposureDoseAndSafety.md) — Sauna and hot-bath framework organized by dose, modality, evidence tier, and medical risk.
 - [Campaign Culmination Through Logistics](concepts/CampaignCulminationThroughLogistics.md) — Loss of operational capacity when distance, attrition, transport, repair, fuel, and replacement burdens outrun an advancing force.
 - [Ideological Occupation Self-Sabotage](concepts/IdeologicalOccupationSelfSabotage.md) — Pattern in which an invader's coercive or exterminatory ideology destroys collaboration and productive capacity its strategy needs.
 - [Historical Counterfactual Reasoning](concepts/HistoricalCounterfactualReasoning.md) — Method for testing causal claims through specified alternatives while retaining structural constraints and uncertainty.

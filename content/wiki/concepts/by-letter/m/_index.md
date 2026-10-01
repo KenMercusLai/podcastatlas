@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9131
+wiki_total_pages: 9135
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -767,6 +767,9 @@ wiki_pages:
   - key: "MicrohistoryFromHostileArchives"
     title: "Microhistory From Hostile Archives"
     url: "/wiki/concepts/microhistoryfromhostilearchives/"
+  - key: "MicronutrientStatusMeasurement"
+    title: "Micronutrient Status Measurement"
+    url: "/wiki/concepts/micronutrientstatusmeasurement/"
   - key: "MicroplasticExposureReduction"
     title: "Microplastic Exposure Reduction"
     url: "/wiki/concepts/microplasticexposurereduction/"
