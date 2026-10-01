@@ -26530,3 +26530,11 @@ Added source `206-historical-love-island-glt8073929093`; created `JimmyCarter`, 
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | 205. The Last Days of Boris Johnson
+
+Added source `205-the-last-days-of-boris-johnson-glt2329301983`; created `MichaelGove`, `BritishConstitutionalConventions`, and `PoliticalRoleAdaptability`; resynthesized `BorisJohnson` and `PoliticalPerformanceSincerity` from their complete preserved evidence inventories; and migrated `ParliamentarySystem` to the synthesis-first schema from its complete preserved evidence inventory. Core synthesis: Johnson's optimism, humor, sociability, and campaign skill were genuine political assets, but a narrow public repertoire became a liability when COVID-19 and government crisis demanded grief, detail, discipline, administrative continuity, and constitutional restraint. His appeal to a personal electoral mandate did not override parliamentary dependence, and ministerial withdrawal ultimately gave Britain's unwritten conventions practical force. No settled contradiction was adopted. Classical analogies, motive claims, character judgments, the one-role interpretation, constitutional resilience, and succession forecasts remain source-scoped, especially because the episode was recorded while the July 2022 transition was unresolved. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,317-source coverage; no topic claim set was dirty and global compaction was not due. Publish validation passed.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

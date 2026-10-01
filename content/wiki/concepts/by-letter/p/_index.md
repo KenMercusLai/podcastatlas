@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9068
+wiki_total_pages: 9070
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1097,6 +1097,9 @@ wiki_pages:
   - key: "PoliticalResourceCurse"
     title: "Political Resource Curse"
     url: "/wiki/concepts/politicalresourcecurse/"
+  - key: "PoliticalRoleAdaptability"
+    title: "Political Role Adaptability"
+    url: "/wiki/concepts/politicalroleadaptability/"
   - key: "PoliticalShowTrial"
     title: "Political Show Trial"
     url: "/wiki/concepts/politicalshowtrial/"

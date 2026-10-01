@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [205. The Last Days of Boris Johnson](sources/205-the-last-days-of-boris-johnson-glt2329301983.md) — The Rest Is History episode on Johnson's July 2022 fall, political role limits, personal-mandate claims, constitutional conventions, and government breakdown.
 - [206. Historical Love Island](sources/206-historical-love-island-glt8073929093.md) — The Rest Is History episode casting historical figures as dating-show archetypes to compare celebrity, sincerity, betrayal, disruption, authority, and public appeal.
 - [207. Historical Love Island: THE WINNER](sources/207-historical-love-island-the-winner-glt4172810067.md) — The Rest Is History results episode on Baldwin and Theodora's audience-voted win, the contest's comic logic, and a preview of Justinianic history.
 - [208. George Orwell](sources/208-george-orwell-glt5823999588.md) — The Rest Is History episode on Orwell's imperial formation, class politics, democratic socialism, anti-Stalinism, Englishness, Animal Farm, and Nineteen Eighty-Four.
@@ -3374,6 +3375,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Optimize & Control Your Brain Chemistry to Improve Health & Performance](sources/optimize-control-your-brain-chemistry-to-improve-health-performance-scim8855428946.md) — Huberman Lab solo episode on dopamine, epinephrine, acetylcholine, serotonin, daily-state timing, behavioral foundations, and medical boundaries.
 
 ## Entities
+- [Michael Gove](entities/MichaelGove.md) — Conservative politician whose dismissal during Johnson's July 2022 collapse is presented as evidence of grievance overriding administrative continuity.
 - [Jimmy Carter](entities/JimmyCarter.md) — United States president whose faith, farming background, marriage, and public sincerity are recast as a comic “sweet one” persona.
 - [Frances Stewart](entities/FrancesStewart.md) — Restoration court beauty associated with Charles II, the Duchess of Richmond title, and Britannia imagery.
 - [Judas Iscariot](entities/JudasIscariot.md) — New Testament disciple whose betrayal memory is used as a tightly bounded reality-show archetype.
@@ -15122,6 +15124,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lucile Desmoulins](entities/LucileDesmoulins.md) — Camille Desmoulins's wife, falsely implicated in a prison plot and executed after the Dantonist trial.
 
 ## Concepts
+- [British Constitutional Conventions](concepts/BritishConstitutionalConventions.md) — Unwritten but politically enforceable expectations governing confidence, restraint, and transfer of power in Britain's parliamentary system.
+- [Political Role Adaptability](concepts/PoliticalRoleAdaptability.md) — Capacity to shift credibly among campaign, communication, administrative, crisis, and constitutional leadership roles.
 - [Revolutionary Elite Replacement](concepts/RevolutionaryEliteReplacement.md) — Risk that revolution changes the ruling group without ending hierarchy or concentrated power.
 - [Totalitarian Reality Control](concepts/TotalitarianRealityControl.md) — Political domination through altered records, narrowed language, destroyed history, and broken trust.
 - [Taste Identity and Valence Circuit](concepts/TasteIdentityValenceCircuit.md) — Circuit model separating chemical detection, perceptual quality, positive or negative value, action, and post-ingestive reinforcement.

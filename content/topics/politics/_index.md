@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2889
+topic_total_pages: 2892
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -505,6 +505,9 @@ topic_concepts:
   - key: "Britain1976IMFCrisis"
     title: "Britain 1976 IMF Crisis"
     url: "/wiki/concepts/britain1976imfcrisis/"
+  - key: "BritishConstitutionalConventions"
+    title: "British Constitutional Conventions"
+    url: "/wiki/concepts/britishconstitutionalconventions/"
   - key: "BritishCoupParanoia1974"
     title: "British Coup Paranoia in 1974"
     url: "/wiki/concepts/britishcoupparanoia1974/"
@@ -2857,6 +2860,9 @@ topic_concepts:
   - key: "PoliticalResourceCurse"
     title: "Political Resource Curse"
     url: "/wiki/concepts/politicalresourcecurse/"
+  - key: "PoliticalRoleAdaptability"
+    title: "Political Role Adaptability"
+    url: "/wiki/concepts/politicalroleadaptability/"
   - key: "PoliticalShowTrial"
     title: "Political Show Trial"
     url: "/wiki/concepts/politicalshowtrial/"
@@ -6179,6 +6185,9 @@ topic_entities:
   - key: "MichaelFoot"
     title: "Michael Foot / 迈克尔·富特"
     url: "/wiki/entities/michaelfoot/"
+  - key: "MichaelGove"
+    title: "Michael Gove"
+    url: "/wiki/entities/michaelgove/"
   - key: "MichaelMattioli"
     title: "Michael Mattioli"
     url: "/wiki/entities/michaelmattioli/"

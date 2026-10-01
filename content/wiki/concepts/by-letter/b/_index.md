@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 9068
+wiki_total_pages: 9070
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -728,6 +728,9 @@ wiki_pages:
   - key: "Britain1976IMFCrisis"
     title: "Britain 1976 IMF Crisis"
     url: "/wiki/concepts/britain1976imfcrisis/"
+  - key: "BritishConstitutionalConventions"
+    title: "British Constitutional Conventions"
+    url: "/wiki/concepts/britishconstitutionalconventions/"
   - key: "BritishCoronationRitual"
     title: "British Coronation Ritual"
     url: "/wiki/concepts/britishcoronationritual/"

@@ -22010,9 +22010,9 @@
       "url": "/wiki/concepts/borderlegalsignal/"
     },
     "BorisJohnson": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Keep qualms and carry on： a decade after Brexit [6a3a53028a3c8822ab345d4b].md",
@@ -22027,9 +22027,16 @@
           "show": "The Rest Is History",
           "title": "246. The Fall of Liz Truss",
           "url": "/wiki/sources/246-the-fall-of-liz-truss-glt3484252092/"
+        },
+        {
+          "episode_file": "GLT2329301983 [GLT2329301983].md",
+          "key": "205-the-last-days-of-boris-johnson-glt2329301983",
+          "show": "The Rest Is History",
+          "title": "205. The Last Days of Boris Johnson",
+          "url": "/wiki/sources/205-the-last-days-of-boris-johnson-glt2329301983/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/borisjohnson/"
     },
     "BorrowedKnifeKilling": {
@@ -23365,6 +23372,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/britisharmy/"
+    },
+    "BritishConstitutionalConventions": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2329301983 [GLT2329301983].md",
+          "key": "205-the-last-days-of-boris-johnson-glt2329301983",
+          "show": "The Rest Is History",
+          "title": "205. The Last Days of Boris Johnson",
+          "url": "/wiki/sources/205-the-last-days-of-boris-johnson-glt2329301983/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/britishconstitutionalconventions/"
     },
     "BritishCoronationRitual": {
       "episode_count": 3,
@@ -125024,6 +125047,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/michaeleisenberg/"
     },
+    "MichaelGove": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2329301983 [GLT2329301983].md",
+          "key": "205-the-last-days-of-boris-johnson-glt2329301983",
+          "show": "The Rest Is History",
+          "title": "205. The Last Days of Boris Johnson",
+          "url": "/wiki/sources/205-the-last-days-of-boris-johnson-glt2329301983/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/michaelgove/"
+    },
     "MichaelKratsios": {
       "episode_count": 3,
       "show_count": 1,
@@ -139172,6 +139211,29 @@
       "updated": "2026-09-30",
       "url": "/wiki/concepts/parliamentaryattainder/"
     },
+    "ParliamentarySystem": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "173.弹劾：如何罢免一位总统 [963141809].md",
+          "key": "173-tanhe-ruhe-bamian-yiwei-zongtong-963141809",
+          "show": "蜜獾吃书",
+          "title": "173.弹劾：如何罢免一位总统",
+          "url": "/wiki/sources/173-tanhe-ruhe-bamian-yiwei-zongtong-963141809/"
+        },
+        {
+          "episode_file": "GLT2329301983 [GLT2329301983].md",
+          "key": "205-the-last-days-of-boris-johnson-glt2329301983",
+          "show": "The Rest Is History",
+          "title": "205. The Last Days of Boris Johnson",
+          "url": "/wiki/sources/205-the-last-days-of-boris-johnson-glt2329301983/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/parliamentarysystem/"
+    },
     "ParthianEmpire": {
       "episode_count": 1,
       "show_count": 1,
@@ -144323,9 +144385,9 @@
       "url": "/wiki/concepts/politicalmartyremulation/"
     },
     "PoliticalPerformanceSincerity": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3254036306 [GLT3254036306].md",
@@ -144333,9 +144395,16 @@
           "show": "The Rest Is History",
           "title": "310: Ronald Reagan and the American Dream (Part 1)",
           "url": "/wiki/sources/310-ronald-reagan-and-the-american-dream-part-1-glt3254036306/"
+        },
+        {
+          "episode_file": "GLT2329301983 [GLT2329301983].md",
+          "key": "205-the-last-days-of-boris-johnson-glt2329301983",
+          "show": "The Rest Is History",
+          "title": "205. The Last Days of Boris Johnson",
+          "url": "/wiki/sources/205-the-last-days-of-boris-johnson-glt2329301983/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/politicalperformancesincerity/"
     },
     "PoliticalPluralitySharedWorld": {
@@ -144422,6 +144491,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/politicalriskprevention/"
+    },
+    "PoliticalRoleAdaptability": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2329301983 [GLT2329301983].md",
+          "key": "205-the-last-days-of-boris-johnson-glt2329301983",
+          "show": "The Rest Is History",
+          "title": "205. The Last Days of Boris Johnson",
+          "url": "/wiki/sources/205-the-last-days-of-boris-johnson-glt2329301983/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/politicalroleadaptability/"
     },
     "PollTax": {
       "episode_count": 2,

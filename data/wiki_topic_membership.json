@@ -1343,6 +1343,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "205-the-last-days-of-boris-johnson-glt2329301983": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "206-historical-love-island-glt8073929093": [
     {
       "key": "history",
@@ -16125,6 +16132,13 @@
       "label": "Economics",
       "url": "/topics/economics/"
     },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "BritishConstitutionalConventions": [
     {
       "key": "politics",
       "label": "Politics",
@@ -52537,6 +52551,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "MichaelGove": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "MichaelGrandner": [
     {
       "key": "science",
@@ -61004,6 +61025,13 @@
     }
   ],
   "PoliticalResourceCurse": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "PoliticalRoleAdaptability": [
     {
       "key": "politics",
       "label": "Politics",
