@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [198. Cleopatra's Downfall (Part 4)](sources/198-cleopatras-downfall-part-4-glt1186341405.md) — The Rest Is History episode on Octavian's anti-Cleopatra framing, Actium, the fall of Alexandria, the end of Ptolemaic Egypt, and Cleopatra's contested afterlife.
 - [The Science & Practice of Movement | Ido Portal](sources/the-science-practice-of-movement-ido-portal-scim2315861899.md) — Huberman Lab interview on movement as open-ended whole-life inquiry, calibrated discomfort, sensory and partner feedback, adaptable variation, and experience-grounded mental rehearsal.
 - [The Science & Treatment of Obsessive-Compulsive Disorder (OCD)](sources/the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8049781967.md) — Full Huberman Lab episode on OCD mechanisms, Y-BOCS assessment, exposure-response prevention, SSRIs and emerging treatments, and the OCD/OCPD distinction.
 - [Optimize Your Exercise Program with Science-Based Tools | Jeff Cavaliere](sources/optimize-your-exercise-program-with-science-based-tools-jeff-cavaliere-scim5122820076.md) — Huberman Lab interview on sustainable strength and conditioning, mind-muscle control, recovery signals, mobility, pain-aware mechanics, and practical nutrition.
@@ -3384,6 +3385,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [199. Stonehenge](sources/199-stonehenge-glt3612348466.md) — The Rest Is History conversation with Mike Pitts on Stonehenge's changing phases, stone transport, burials, solstice alignment, collective construction, and archaeological uncertainty.
 
 ## Entities
+- [Battle of Actium](entities/BattleOfActium.md) — Decisive blockade-and-breakout campaign whose Augustan afterlife complicates reconstruction of Antony and Cleopatra's strategy.
+- [Marcus Vipsanius Agrippa](entities/MarcusVipsaniusAgrippa.md) — Octavian's naval commander whose port seizures and blockade shaped the Actium campaign.
+- [Caesarion](entities/Caesarion.md) — Cleopatra's son and co-ruler whose claimed Julian descent threatened Octavian's succession position.
+- [Ptolemaic Egypt](entities/PtolemaicEgypt.md) — Final Hellenistic Egyptian kingdom whose concentrated resources passed to Octavian after Actium.
 - [Stonehenge](entities/Stonehenge.md) — Changing Neolithic monument and ritual landscape joining Welsh bluestones, local sarsens, cremation burial, solar alignment, and collective building.
 - [Mike Pitts](entities/MikePitts.md) — Archaeologist and writer interpreting Stonehenge through material evidence, social construction, and explicit uncertainty.
 - [Durrington Walls](entities/DurringtonWalls.md) — Neolithic settlement and feasting site that places Stonehenge within a broader lived landscape.
@@ -15157,6 +15162,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lucile Desmoulins](entities/LucileDesmoulins.md) — Camille Desmoulins's wife, falsely implicated in a prison plot and executed after the Dantonist trial.
 
 ## Concepts
+- [Augustan Enemy Framing](concepts/AugustanEnemyFraming.md) — Strategy that externalized Roman civil war by making Cleopatra a foreign, royal, female enemy and Antony her corrupted dependent.
+- [Cleopatra Reception History](concepts/CleopatraReceptionHistory.md) — Contested afterlife joining hostile Roman propaganda, literary glamour, tragic dignity, Egyptian memory, and source uncertainty.
 - [Stonehenge Ritual Landscape](concepts/StonehengeRitualLandscape.md) — Multi-phase model joining monument, settlement, burial, feasting, mobility, gathering, and solar alignment.
 - [Monument Building as Social Coordination](concepts/MonumentBuildingAsSocialCoordination.md) — View of large construction as organized labor that also produces gathering, shared experience, prestige, and authority.
 - [Civil War Slavery Causation](concepts/CivilWarSlaveryCausation.md) — Mechanism-level account linking slavery to constitutional compromise, expansion, enforcement, party breakdown, secession, and war.

@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-10-01] ingest | 198. Cleopatra's Downfall (Part 4)
+
+Added source `198-cleopatras-downfall-part-4-glt1186341405`; created `BattleOfActium`, `MarcusVipsaniusAgrippa`, `Caesarion`, `PtolemaicEgypt`, `AugustanEnemyFraming`, and `CleopatraReceptionHistory`; and resynthesized `CleopatraVII`, `MarkAntony`, `OctavianAugustus`, `Virgil`, and `ImperialDestinyHumanCost` from their complete preserved evidence inventories. Core synthesis: Octavian externalized a Roman commander conflict by presenting Cleopatra as a foreign, royal, female enemy; Agrippa's blockade made Actium a constrained breakout problem; and the literature that transmitted Augustan hostility also helped preserve Cleopatra's tragic dignity and cultural power. No settled contradiction was adopted. Antony's will, Actium intentions, final negotiations, suicides, administrative language for Egypt, and later memory traditions remain contested or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,327-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge-schema, whitespace, health, synthesis, and publish validation passed.
+
 ## [2026-10-01] ingest | Optimize Your Exercise Program with Science-Based Tools | Jeff Cavaliere
 
 Added source `optimize-your-exercise-program-with-science-based-tools-jeff-cavaliere-scim5122820076`; created `MindMuscleConnection`; and resynthesized `JeffCavaliere`, `FunctionalLongevityTraining`, `GluteMediusPelvicControl`, `RotatorCuffExternalRotation`, and `StaticStretchingDoseProtocol` from their complete preserved evidence inventories. Core synthesis: sustainable training combines a recoverable weekly structure with goal-specific execution, engaging conditioning, weak-link work, symptom-aware exercise selection, and repeatable nutrition; mind-muscle connection is a useful hypertrophy cue but not a stand-alone measure of activation or growth. No settled contradiction was adopted. Passive-stretch timing is kept goal-dependent, pseudo-sciatica and upright-row mechanisms remain source-scoped, and the full episode's overlap with later Cavaliere and Essentials material is not treated as independent replication. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,319-source coverage; no topic claim set was dirty and global compaction was not due. Identity, knowledge-schema, whitespace, synthesis, and publish validation passed.
@@ -26606,6 +26610,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-01] ingest | The Science & Practice of Movement | Ido Portal
 
 Added source `the-science-practice-of-movement-ido-portal-scim2315861899`; resynthesized `IdoPortal`, `MovementPracticeAsAwareness`, `MindBodyUnion`, and `MentalPracticeAndVisualization` from their complete preserved evidence inventories. Core synthesis: movement can function as an open-ended whole-life inquiry in which drills are temporary containers and sensory, environmental, cultural, and partner feedback support adaptable variation; discomfort and failure are useful only when calibrated; and internal rehearsal is strongest when grounded in prior tangible experience and real feedback. No settled contradiction was adopted. Squat, spinal, vision, injury, emotional-release, trauma-re-exposure, and other health claims remain experiential or source-scoped rather than individualized medical, psychological, or rehabilitation guidance. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,326-source coverage; no topic claim set was dirty and global compaction was not due. Identity, knowledge-schema, whitespace, health, changed-page link, index coverage, synthesis, and publish validation passed.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-10-01] lint | Wiki health check
 

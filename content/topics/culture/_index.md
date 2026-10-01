@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2989
+topic_total_pages: 2990
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -676,6 +676,9 @@ topic_concepts:
   - key: "CleanEditionClassicReading"
     title: "Clean Edition Classic Reading"
     url: "/wiki/concepts/cleaneditionclassicreading/"
+  - key: "CleopatraReceptionHistory"
+    title: "Cleopatra Reception History"
+    url: "/wiki/concepts/cleopatrareceptionhistory/"
   - key: "ClimateAlteredSummer"
     title: "Climate-Altered Summer"
     url: "/wiki/concepts/climatealteredsummer/"

@@ -15760,6 +15760,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/entities/augustaleigh/"
     },
+    "AugustanEnemyFraming": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1186341405 [GLT1186341405].md",
+          "key": "198-cleopatras-downfall-part-4-glt1186341405",
+          "show": "The Rest Is History",
+          "title": "198. Cleopatra's Downfall (Part 4)",
+          "url": "/wiki/sources/198-cleopatras-downfall-part-4-glt1186341405/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/augustanenemyframing/"
+    },
     "AugustoPinochet": {
       "episode_count": 1,
       "show_count": 1,
@@ -18577,6 +18593,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/batteryswapinfrastructure/"
+    },
+    "BattleOfActium": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1186341405 [GLT1186341405].md",
+          "key": "198-cleopatras-downfall-part-4-glt1186341405",
+          "show": "The Rest Is History",
+          "title": "198. Cleopatra's Downfall (Part 4)",
+          "url": "/wiki/sources/198-cleopatras-downfall-part-4-glt1186341405/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/battleofactium/"
     },
     "BattleOfAgincourt": {
       "episode_count": 3,
@@ -24962,6 +24994,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/entities/caesarassassination/"
+    },
+    "Caesarion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1186341405 [GLT1186341405].md",
+          "key": "198-cleopatras-downfall-part-4-glt1186341405",
+          "show": "The Rest Is History",
+          "title": "198. Cleopatra's Downfall (Part 4)",
+          "url": "/wiki/sources/198-cleopatras-downfall-part-4-glt1186341405/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/caesarion/"
     },
     "CaesarsBritishExpeditions": {
       "episode_count": 1,
@@ -35007,6 +35055,45 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/cleisthenes/"
+    },
+    "CleopatraReceptionHistory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1186341405 [GLT1186341405].md",
+          "key": "198-cleopatras-downfall-part-4-glt1186341405",
+          "show": "The Rest Is History",
+          "title": "198. Cleopatra's Downfall (Part 4)",
+          "url": "/wiki/sources/198-cleopatras-downfall-part-4-glt1186341405/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/cleopatrareceptionhistory/"
+    },
+    "CleopatraVII": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
+          "key": "124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361",
+          "show": "蜜獾吃书",
+          "title": "124. 恺撒之死：历史的韵脚，是否已失效？",
+          "url": "/wiki/sources/124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361/"
+        },
+        {
+          "episode_file": "GLT1186341405 [GLT1186341405].md",
+          "key": "198-cleopatras-downfall-part-4-glt1186341405",
+          "show": "The Rest Is History",
+          "title": "198. Cleopatra's Downfall (Part 4)",
+          "url": "/wiki/sources/198-cleopatras-downfall-part-4-glt1186341405/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/cleopatravii/"
     },
     "ClimateAidRetrenchment": {
       "episode_count": 2,
@@ -92170,9 +92257,9 @@
       "url": "/wiki/concepts/imperialdeathconcealment/"
     },
     "ImperialDestinyHumanCost": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5520362156 [GLT5520362156].md",
@@ -92180,9 +92267,16 @@
           "show": "The Rest Is History",
           "title": "262: Tunisia: Dido of Carthage",
           "url": "/wiki/sources/262-tunisia-dido-of-carthage-glt5520362156/"
+        },
+        {
+          "episode_file": "GLT1186341405 [GLT1186341405].md",
+          "key": "198-cleopatras-downfall-part-4-glt1186341405",
+          "show": "The Rest Is History",
+          "title": "198. Cleopatra's Downfall (Part 4)",
+          "url": "/wiki/sources/198-cleopatras-downfall-part-4-glt1186341405/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/imperialdestinyhumancost/"
     },
     "ImperialEdictImplementationResistance": {
@@ -120987,6 +121081,22 @@
       "updated": "2026-09-25",
       "url": "/wiki/entities/marcusreno/"
     },
+    "MarcusVipsaniusAgrippa": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1186341405 [GLT1186341405].md",
+          "key": "198-cleopatras-downfall-part-4-glt1186341405",
+          "show": "The Rest Is History",
+          "title": "198. Cleopatra's Downfall (Part 4)",
+          "url": "/wiki/sources/198-cleopatras-downfall-part-4-glt1186341405/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/marcusvipsaniusagrippa/"
+    },
     "MargaretMitchell": {
       "episode_count": 1,
       "show_count": 1,
@@ -121469,9 +121579,9 @@
       "url": "/wiki/entities/markandreessen/"
     },
     "MarkAntony": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
@@ -121486,9 +121596,16 @@
           "show": "The Rest Is History",
           "title": "305: The Fall of the Roman Republic",
           "url": "/wiki/sources/305-the-fall-of-the-roman-republic-glt6995332578/"
+        },
+        {
+          "episode_file": "GLT1186341405 [GLT1186341405].md",
+          "key": "198-cleopatras-downfall-part-4-glt1186341405",
+          "show": "The Rest Is History",
+          "title": "198. Cleopatra's Downfall (Part 4)",
+          "url": "/wiki/sources/198-cleopatras-downfall-part-4-glt1186341405/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/markantony/"
     },
     "MarkCarney": {
@@ -135166,9 +135283,9 @@
       "url": "/wiki/entities/oceanbase/"
     },
     "OctavianAugustus": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
@@ -135183,9 +135300,16 @@
           "show": "The Rest Is History",
           "title": "305: The Fall of the Roman Republic",
           "url": "/wiki/sources/305-the-fall-of-the-roman-republic-glt6995332578/"
+        },
+        {
+          "episode_file": "GLT1186341405 [GLT1186341405].md",
+          "key": "198-cleopatras-downfall-part-4-glt1186341405",
+          "show": "The Rest Is History",
+          "title": "198. Cleopatra's Downfall (Part 4)",
+          "url": "/wiki/sources/198-cleopatras-downfall-part-4-glt1186341405/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/octavianaugustus/"
     },
     "October1974UKGeneralElection": {
@@ -150368,6 +150492,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/psychologyconceptselfpunishment/"
+    },
+    "PtolemaicEgypt": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1186341405 [GLT1186341405].md",
+          "key": "198-cleopatras-downfall-part-4-glt1186341405",
+          "show": "The Rest Is History",
+          "title": "198. Cleopatra's Downfall (Part 4)",
+          "url": "/wiki/sources/198-cleopatras-downfall-part-4-glt1186341405/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/ptolemaicegypt/"
     },
     "PtolemaicKnowledgePatronage": {
       "episode_count": 1,
@@ -189601,9 +189741,9 @@
       "url": "/wiki/concepts/viralproducttobrandtransition/"
     },
     "Virgil": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5520362156 [GLT5520362156].md",
@@ -189611,9 +189751,16 @@
           "show": "The Rest Is History",
           "title": "262: Tunisia: Dido of Carthage",
           "url": "/wiki/sources/262-tunisia-dido-of-carthage-glt5520362156/"
+        },
+        {
+          "episode_file": "GLT1186341405 [GLT1186341405].md",
+          "key": "198-cleopatras-downfall-part-4-glt1186341405",
+          "show": "The Rest Is History",
+          "title": "198. Cleopatra's Downfall (Part 4)",
+          "url": "/wiki/sources/198-cleopatras-downfall-part-4-glt1186341405/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/virgil/"
     },
     "VirtualCellWorldModel": {

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9088
+wiki_total_pages: 9090
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2528,6 +2528,9 @@ wiki_pages:
   - key: "AugmentedReality"
     title: "Augmented Reality / 增强现实"
     url: "/wiki/concepts/augmentedreality/"
+  - key: "AugustanEnemyFraming"
+    title: "Augustan Enemy Framing"
+    url: "/wiki/concepts/augustanenemyframing/"
   - key: "AuspiciousOmenPolitics"
     title: "Auspicious Omen Politics / 祥瑞政治"
     url: "/wiki/concepts/auspiciousomenpolitics/"
