@@ -67170,9 +67170,9 @@
       "url": "/wiki/entities/ferdinandmaximilian/"
     },
     "FermentedFoodResponsePersonalization": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM3206044616 [SCIM3206044616].md",
@@ -67187,6 +67187,13 @@
           "show": "Huberman Lab",
           "title": "How to Build, Maintain & Repair Gut Health | Dr. Justin Sonnenburg",
           "url": "/wiki/sources/how-to-build-maintain-repair-gut-health-dr-justin-sonnenburg-scim9214130216/"
+        },
+        {
+          "episode_file": "SCIM1762541394 [SCIM1762541394].md",
+          "key": "how-to-enhance-your-gut-microbiome-for-brain-overall-health-scim1762541394",
+          "show": "Huberman Lab",
+          "title": "How to Enhance Your Gut Microbiome for Brain & Overall Health",
+          "url": "/wiki/sources/how-to-enhance-your-gut-microbiome-for-brain-overall-health-scim1762541394/"
         }
       ],
       "updated": "2026-10-02",
@@ -81329,9 +81336,9 @@
       "url": "/wiki/entities/gustavstresemann/"
     },
     "GutSensoryNeuralSignaling": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM8970398714 [SCIM8970398714].md",
@@ -81346,9 +81353,16 @@
           "show": "Huberman Lab",
           "title": "The Biology of Taste Perception & Sugar Craving | Dr. Charles Zuker",
           "url": "/wiki/sources/the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim7979038386/"
+        },
+        {
+          "episode_file": "SCIM1762541394 [SCIM1762541394].md",
+          "key": "how-to-enhance-your-gut-microbiome-for-brain-overall-health-scim1762541394",
+          "show": "Huberman Lab",
+          "title": "How to Enhance Your Gut Microbiome for Brain & Overall Health",
+          "url": "/wiki/sources/how-to-enhance-your-gut-microbiome-for-brain-overall-health-scim1762541394/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/gutsensoryneuralsignaling/"
     },
     "Guthrum": {
@@ -129296,9 +129310,9 @@
       "url": "/wiki/entities/mickjagger/"
     },
     "MicrobiomeEcologicalResilience": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM9214130216 [SCIM9214130216].md",
@@ -129306,6 +129320,13 @@
           "show": "Huberman Lab",
           "title": "How to Build, Maintain & Repair Gut Health | Dr. Justin Sonnenburg",
           "url": "/wiki/sources/how-to-build-maintain-repair-gut-health-dr-justin-sonnenburg-scim9214130216/"
+        },
+        {
+          "episode_file": "SCIM1762541394 [SCIM1762541394].md",
+          "key": "how-to-enhance-your-gut-microbiome-for-brain-overall-health-scim1762541394",
+          "show": "Huberman Lab",
+          "title": "How to Enhance Your Gut Microbiome for Brain & Overall Health",
+          "url": "/wiki/sources/how-to-enhance-your-gut-microbiome-for-brain-overall-health-scim1762541394/"
         }
       ],
       "updated": "2026-10-02",

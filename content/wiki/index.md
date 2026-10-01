@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Enhance Your Gut Microbiome for Brain & Overall Health](sources/how-to-enhance-your-gut-microbiome-for-brain-overall-health-scim1762541394.md) — Huberman Lab solo episode on gut-brain neural and hormonal signaling, microbiome ecology, fermented-food evidence, and intervention limits.
 - [157. Byzantium and the Ghosts of Rome](sources/157-byzantium-and-the-ghosts-of-rome-glt1014708592.md) — The Rest Is History on seventh-century Byzantine transformation, Roman self-identity, layered imperial endings, western and Moscow succession, and apocalyptic afterlives.
 - [158. Killer Fashion](sources/158-killer-fashion-glt5960489800.md) — The Rest Is History with Alison Matthews David on flammable and restrictive dress, toxic fashion materials, worker exposure, uneven regulation, and the limits of blaming wearers.
 - [159. Young Putin, the KGB and the Soviet Union](sources/159-young-putin-the-kgb-and-the-soviet-union-glt7336670203.md) — The Rest Is History on Putin's Soviet and KGB formation, Russian exceptionalism, late-Soviet stagnation, Gorbachev's reforms, and the destabilizing risks of partial opening.

@@ -27135,3 +27135,11 @@ Added source `157-byzantium-and-the-ghosts-of-rome-glt1014708592`; created `Hera
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | How to Enhance Your Gut Microbiome for Brain & Overall Health
+
+Added source `how-to-enhance-your-gut-microbiome-for-brain-overall-health-scim1762541394` and resynthesized `GutSensoryNeuralSignaling`, `MicrobiomeEcologicalResilience`, and `FermentedFoodResponsePersonalization` from their complete preserved evidence inventories. Core synthesis: gut-brain communication combines fast neural signaling with endocrine, mechanical, immune, and microbial routes; microbiome support depends on ecological state and disturbance history rather than a universal repair protocol; and the small Stanford intervention supports a fermented-food diversity and inflammatory-marker signal without establishing a universal dose, durable clinical benefit, or the inferiority of fiber. No settled contradiction was adopted. Microbiome terminology and mass estimates, autism-model, mood, fasting, probiotic, fecal-transplant, artificial-sweetener, neurotransmitter, and serving-count claims remain qualified or source-scoped public education rather than individualized medical guidance. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,390-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
