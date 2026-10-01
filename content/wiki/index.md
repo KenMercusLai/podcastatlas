@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [158. Killer Fashion](sources/158-killer-fashion-glt5960489800.md) — The Rest Is History with Alison Matthews David on flammable and restrictive dress, toxic fashion materials, worker exposure, uneven regulation, and the limits of blaming wearers.
 - [159. Young Putin, the KGB and the Soviet Union](sources/159-young-putin-the-kgb-and-the-soviet-union-glt7336670203.md) — The Rest Is History on Putin's Soviet and KGB formation, Russian exceptionalism, late-Soviet stagnation, Gorbachev's reforms, and the destabilizing risks of partial opening.
 - [160. The Fall of the Soviet Union](sources/160-the-fall-of-the-soviet-union-glt9472343994.md) — The Rest Is History on partial reform, scarcity, Russian dual sovereignty, the August coup, elite-led dissolution, and Gorbachev's fall.
 - [161. Yeltsin, Economic Chaos and President Putin](sources/161-yeltsin-economic-chaos-and-president-putin-glt3048619920.md) — The Rest Is History on post-Soviet shock therapy, oligarchic privatization, executive concentration, NATO enlargement, Chechnya, and Putin's succession.
@@ -10730,7 +10731,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《河童》 / Kappa](entities/KappaAkutagawa.md) — Akutagawa social satire used by the episode to extend his darkness into absurd institutions, labor, and birth.
 - [《鼻子》 / The Nose](entities/TheNoseAkutagawa.md) — Akutagawa story translated by 鲁迅 and used by the episode to read mockery, pity, envy, and bodily social pressure.
 - [《小白》 / Shiro](entities/ShiroAkutagawa.md) — Akutagawa story used by the episode to connect guilt, failed rescue, self-punishment, and repair.
-- [《时尚受害者》 / Fashion Victims](entities/FashionVictimsBook.md) — Fashion-history book used by 蜜獾吃书 to connect clothing, cosmetics, dyes, accessories, fire, labor exposure, and ecological harm.
+- [Alison Matthews David](entities/AlisonMatthewsDavid.md) — Fashion historian connecting dress and textiles to technology, labor, public health, gender, class, and regulation.
+- [《时尚受害者》 / Fashion Victims](entities/FashionVictimsBook.md) — Fashion-history book connecting clothing, cosmetics, dyes, accessories, fire, labor exposure, and ecological harm across two podcast discussions.
 - [Coco Chanel / 香奈儿女士](entities/CocoChanel.md) — Designer figure used by the episode to connect simplicity, trousers, color avoidance, and women's practical clothing freedom.
 - [Charles Nicolle / 尼科勒](entities/CharlesNicolle.md) — Bacteriologist used by the episode to connect clothing, lice, soap, and infectious-disease prevention.
 - [Bill Bowerman / 鲍尔曼](entities/BillBowerman.md) — Nike founder figure used by the episode to show modern footwear innovation can hide glue and solvent exposure.

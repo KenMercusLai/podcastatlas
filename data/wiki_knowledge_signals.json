@@ -9096,6 +9096,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/entities/alipaytapnetwork/"
     },
+    "AlisonMatthewsDavid": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5960489800 [GLT5960489800].md",
+          "key": "158-killer-fashion-glt5960489800",
+          "show": "The Rest Is History",
+          "title": "158. Killer Fashion",
+          "url": "/wiki/sources/158-killer-fashion-glt5960489800/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/alisonmatthewsdavid/"
+    },
     "AllanQuatermain": {
       "episode_count": 1,
       "show_count": 1,
@@ -65262,6 +65278,52 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/fashionliberationexploitationparadox/"
     },
+    "FashionSupplyChainExternality": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "16.时尚受害者：惊！绿色或为最毒颜色 [559889282].md",
+          "key": "16-shishang-shouhaizhe-jing-luse-huo-wei-zui-du-yanse-559889282",
+          "show": "蜜獾吃书",
+          "title": "16.时尚受害者：惊！绿色或为最毒颜色",
+          "url": "/wiki/sources/16-shishang-shouhaizhe-jing-luse-huo-wei-zui-du-yanse-559889282/"
+        },
+        {
+          "episode_file": "GLT5960489800 [GLT5960489800].md",
+          "key": "158-killer-fashion-glt5960489800",
+          "show": "The Rest Is History",
+          "title": "158. Killer Fashion",
+          "url": "/wiki/sources/158-killer-fashion-glt5960489800/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/fashionsupplychainexternality/"
+    },
+    "FashionVictimsBook": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "16.时尚受害者：惊！绿色或为最毒颜色 [559889282].md",
+          "key": "16-shishang-shouhaizhe-jing-luse-huo-wei-zui-du-yanse-559889282",
+          "show": "蜜獾吃书",
+          "title": "16.时尚受害者：惊！绿色或为最毒颜色",
+          "url": "/wiki/sources/16-shishang-shouhaizhe-jing-luse-huo-wei-zui-du-yanse-559889282/"
+        },
+        {
+          "episode_file": "GLT5960489800 [GLT5960489800].md",
+          "key": "158-killer-fashion-glt5960489800",
+          "show": "The Rest Is History",
+          "title": "158. Killer Fashion",
+          "url": "/wiki/sources/158-killer-fashion-glt5960489800/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/fashionvictimsbook/"
+    },
     "FatFreeMassIndex": {
       "episode_count": 1,
       "show_count": 1,
@@ -75013,6 +75075,29 @@
       ],
       "updated": "2026-09-19",
       "url": "/wiki/concepts/genderedfandomdelegitimation/"
+    },
+    "GenderedFashionSafetyBlame": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "16.时尚受害者：惊！绿色或为最毒颜色 [559889282].md",
+          "key": "16-shishang-shouhaizhe-jing-luse-huo-wei-zui-du-yanse-559889282",
+          "show": "蜜獾吃书",
+          "title": "16.时尚受害者：惊！绿色或为最毒颜色",
+          "url": "/wiki/sources/16-shishang-shouhaizhe-jing-luse-huo-wei-zui-du-yanse-559889282/"
+        },
+        {
+          "episode_file": "GLT5960489800 [GLT5960489800].md",
+          "key": "158-killer-fashion-glt5960489800",
+          "show": "The Rest Is History",
+          "title": "158. Killer Fashion",
+          "url": "/wiki/sources/158-killer-fashion-glt5960489800/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/genderedfashionsafetyblame/"
     },
     "GenderedLaborVisibility": {
       "episode_count": 1,
@@ -189468,6 +189553,29 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/toxcatlmassacre/"
+    },
+    "ToxicFashionMaterialRisk": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "16.时尚受害者：惊！绿色或为最毒颜色 [559889282].md",
+          "key": "16-shishang-shouhaizhe-jing-luse-huo-wei-zui-du-yanse-559889282",
+          "show": "蜜獾吃书",
+          "title": "16.时尚受害者：惊！绿色或为最毒颜色",
+          "url": "/wiki/sources/16-shishang-shouhaizhe-jing-luse-huo-wei-zui-du-yanse-559889282/"
+        },
+        {
+          "episode_file": "GLT5960489800 [GLT5960489800].md",
+          "key": "158-killer-fashion-glt5960489800",
+          "show": "The Rest Is History",
+          "title": "158. Killer Fashion",
+          "url": "/wiki/sources/158-killer-fashion-glt5960489800/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/toxicfashionmaterialrisk/"
     },
     "ToyDesignHumanCreativityBoundary": {
       "episode_count": 1,
