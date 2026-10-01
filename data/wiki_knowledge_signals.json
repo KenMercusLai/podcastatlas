@@ -15853,9 +15853,9 @@
       "url": "/wiki/concepts/atrocitynarrativereframing/"
     },
     "AttachmentAffectRegulation": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM1947263719 [SCIM1947263719].md",
@@ -15870,9 +15870,16 @@
           "show": "Huberman Lab",
           "title": "How to Find, Build & Maintain Healthy Romantic Relationships | Esther Perel",
           "url": "/wiki/sources/how-to-find-build-maintain-healthy-romantic-relationships-esther-perel-scim1527866809/"
+        },
+        {
+          "episode_file": "SCIM1112390541 [SCIM1112390541].md",
+          "key": "the-science-of-love-desire-and-attachment-scim1112390541",
+          "show": "Huberman Lab",
+          "title": "The Science of Love, Desire and Attachment",
+          "url": "/wiki/sources/the-science-of-love-desire-and-attachment-scim1112390541/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/attachmentaffectregulation/"
     },
     "AttentionCapacitySelection": {
@@ -17093,6 +17100,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/automotiveovercapacityrestructuring/"
+    },
+    "AutonomicRomanticCoordination": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1112390541 [SCIM1112390541].md",
+          "key": "the-science-of-love-desire-and-attachment-scim1112390541",
+          "show": "Huberman Lab",
+          "title": "The Science of Love, Desire and Attachment",
+          "url": "/wiki/sources/the-science-of-love-desire-and-attachment-scim1112390541/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/autonomicromanticcoordination/"
     },
     "AutonomicStressTraining": {
       "episode_count": 5,
@@ -56939,9 +56962,9 @@
       "url": "/wiki/concepts/emotionregulationtoolkit/"
     },
     "EmotionalCoRegulationFit": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "串台.「你吃香菜吗」女生版：你愿意和性转之后的自己在一起吗？ [555771723].md",
@@ -56963,9 +56986,16 @@
           "show": "Huberman Lab",
           "title": "How Relationships Shape Your Brain | Dr. Allan Schore",
           "url": "/wiki/sources/how-relationships-shape-your-brain-dr-allan-schore-scim1947263719/"
+        },
+        {
+          "episode_file": "SCIM1112390541 [SCIM1112390541].md",
+          "key": "the-science-of-love-desire-and-attachment-scim1112390541",
+          "show": "Huberman Lab",
+          "title": "The Science of Love, Desire and Attachment",
+          "url": "/wiki/sources/the-science-of-love-desire-and-attachment-scim1112390541/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/emotionalcoregulationfit/"
     },
     "EmotionalContagion": {
@@ -85957,6 +85987,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/helenduncan/"
     },
+    "HelenFisher": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1112390541 [SCIM1112390541].md",
+          "key": "the-science-of-love-desire-and-attachment-scim1112390541",
+          "show": "Huberman Lab",
+          "title": "The Science of Love, Desire and Attachment",
+          "url": "/wiki/sources/the-science-of-love-desire-and-attachment-scim1112390541/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/helenfisher/"
+    },
     "HelenOfTroy": {
       "episode_count": 3,
       "show_count": 2,
@@ -92336,9 +92382,9 @@
       "url": "/wiki/concepts/humancenteredaieducation/"
     },
     "HumanChemicalSignaling": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM3853502826 [SCIM3853502826].md",
@@ -92353,9 +92399,16 @@
           "show": "Huberman Lab",
           "title": "How Smells Influence Our Hormones, Health & Behavior | Dr. Noam Sobel",
           "url": "/wiki/sources/how-smells-influence-our-hormones-health-behavior-dr-noam-sobel-scim2074118783/"
+        },
+        {
+          "episode_file": "SCIM1112390541 [SCIM1112390541].md",
+          "key": "the-science-of-love-desire-and-attachment-scim1112390541",
+          "show": "Huberman Lab",
+          "title": "The Science of Love, Desire and Attachment",
+          "url": "/wiki/sources/the-science-of-love-desire-and-attachment-scim1112390541/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/humanchemicalsignaling/"
     },
     "HumanCommunityDataLicensing": {
@@ -104155,9 +104208,9 @@
       "url": "/wiki/entities/johngorton/"
     },
     "JohnGottman": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GKwRIMAOYWPmAycMmATLdgrV [GKwRIMAOYWPmAycMmATLdgrV].md",
@@ -104165,9 +104218,16 @@
           "show": "文化有限",
           "title": "Vol.349 也许你该找个人聊聊：说出痛苦，获得勇气",
           "url": "/wiki/sources/vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv/"
+        },
+        {
+          "episode_file": "SCIM1112390541 [SCIM1112390541].md",
+          "key": "the-science-of-love-desire-and-attachment-scim1112390541",
+          "show": "Huberman Lab",
+          "title": "The Science of Love, Desire and Attachment",
+          "url": "/wiki/sources/the-science-of-love-desire-and-attachment-scim1112390541/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/johngottman/"
     },
     "JohnGould": {
@@ -105613,6 +105673,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/juliagillard/"
+    },
+    "JulieGottman": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1112390541 [SCIM1112390541].md",
+          "key": "the-science-of-love-desire-and-attachment-scim1112390541",
+          "show": "Huberman Lab",
+          "title": "The Science of Love, Desire and Attachment",
+          "url": "/wiki/sources/the-science-of-love-desire-and-attachment-scim1112390541/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/juliegottman/"
     },
     "JulietteBruce": {
       "episode_count": 1,
@@ -113360,6 +113436,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/libertinefreedomdominationparadox/"
+    },
+    "LibidoMultisystemRegulation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1112390541 [SCIM1112390541].md",
+          "key": "the-science-of-love-desire-and-attachment-scim1112390541",
+          "show": "Huberman Lab",
+          "title": "The Science of Love, Desire and Attachment",
+          "url": "/wiki/sources/the-science-of-love-desire-and-attachment-scim1112390541/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/libidomultisystemregulation/"
     },
     "LibraryOfAlexandria": {
       "episode_count": 1,
@@ -125840,6 +125932,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/concepts/martyrdomstaging/"
+    },
+    "MaryAinsworth": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1112390541 [SCIM1112390541].md",
+          "key": "the-science-of-love-desire-and-attachment-scim1112390541",
+          "show": "Huberman Lab",
+          "title": "The Science of Love, Desire and Attachment",
+          "url": "/wiki/sources/the-science-of-love-desire-and-attachment-scim1112390541/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/maryainsworth/"
     },
     "MaryClaireHaver": {
       "episode_count": 1,
@@ -150687,6 +150795,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/concepts/positivemasculinitycode/"
     },
+    "PositivePartnerIdealization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1112390541 [SCIM1112390541].md",
+          "key": "the-science-of-love-desire-and-attachment-scim1112390541",
+          "show": "Huberman Lab",
+          "title": "The Science of Love, Desire and Attachment",
+          "url": "/wiki/sources/the-science-of-love-desire-and-attachment-scim1112390541/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/positivepartneridealization/"
+    },
     "PositiveStressBreathwork": {
       "episode_count": 4,
       "show_count": 1,
@@ -159821,9 +159945,9 @@
       "url": "/wiki/concepts/relationshipfeedbackloop/"
     },
     "RelationshipFourHorsemen": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GKwRIMAOYWPmAycMmATLdgrV [GKwRIMAOYWPmAycMmATLdgrV].md",
@@ -159831,9 +159955,16 @@
           "show": "文化有限",
           "title": "Vol.349 也许你该找个人聊聊：说出痛苦，获得勇气",
           "url": "/wiki/sources/vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv/"
+        },
+        {
+          "episode_file": "SCIM1112390541 [SCIM1112390541].md",
+          "key": "the-science-of-love-desire-and-attachment-scim1112390541",
+          "show": "Huberman Lab",
+          "title": "The Science of Love, Desire and Attachment",
+          "url": "/wiki/sources/the-science-of-love-desire-and-attachment-scim1112390541/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/relationshipfourhorsemen/"
     },
     "RelationshipNeedDiversification": {
@@ -159927,6 +160058,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/relationshipselectionagency/"
+    },
+    "RelationshipSelfExpansion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1112390541 [SCIM1112390541].md",
+          "key": "the-science-of-love-desire-and-attachment-scim1112390541",
+          "show": "Huberman Lab",
+          "title": "The Science of Love, Desire and Attachment",
+          "url": "/wiki/sources/the-science-of-love-desire-and-attachment-scim1112390541/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/relationshipselfexpansion/"
     },
     "RelationshipTechnologyEthics": {
       "episode_count": 2,

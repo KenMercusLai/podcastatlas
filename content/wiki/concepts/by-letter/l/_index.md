@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 9201
+wiki_total_pages: 9205
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -341,6 +341,9 @@ wiki_pages:
   - key: "LibetExperimentInterpretation"
     title: "Libet Experiment Interpretation / 利比特实验解释"
     url: "/wiki/concepts/libetexperimentinterpretation/"
+  - key: "LibidoMultisystemRegulation"
+    title: "Libido as Multisystem Regulation"
+    url: "/wiki/concepts/libidomultisystemregulation/"
   - key: "LicensedProductRiskAllocation"
     title: "Licensed Product Risk Allocation"
     url: "/wiki/concepts/licensedproductriskallocation/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 9201
+wiki_total_pages: 9205
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -422,6 +422,9 @@ wiki_pages:
   - key: "RelationshipSelectionAgency"
     title: "Relationship Selection Agency / 择人与环境选择"
     url: "/wiki/concepts/relationshipselectionagency/"
+  - key: "RelationshipSelfExpansion"
+    title: "Relationship Self-Expansion"
+    url: "/wiki/concepts/relationshipselfexpansion/"
   - key: "RelationshipTechnologyEthics"
     title: "Relationship Technology Ethics / 亲密关系技术伦理"
     url: "/wiki/concepts/relationshiptechnologyethics/"

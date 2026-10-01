@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 11864
+wiki_total_pages: 11867
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -563,6 +563,9 @@ wiki_pages:
   - key: "MarvelEntertainment"
     title: "Marvel Entertainment / Marvel Studios"
     url: "/wiki/entities/marvelentertainment/"
+  - key: "MaryAinsworth"
+    title: "Mary Ainsworth"
+    url: "/wiki/entities/maryainsworth/"
   - key: "MaryAnnNichols"
     title: "Mary Ann Nichols"
     url: "/wiki/entities/maryannnichols/"

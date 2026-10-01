@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9201
+wiki_total_pages: 9205
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2693,6 +2693,9 @@ wiki_pages:
   - key: "AutomotiveOvercapacityRestructuring"
     title: "Automotive Overcapacity Restructuring"
     url: "/wiki/concepts/automotiveovercapacityrestructuring/"
+  - key: "AutonomicRomanticCoordination"
+    title: "Autonomic Romantic Coordination"
+    url: "/wiki/concepts/autonomicromanticcoordination/"
   - key: "AutonomicStressTraining"
     title: "Autonomic Stress Training"
     url: "/wiki/concepts/autonomicstresstraining/"

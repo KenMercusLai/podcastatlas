@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 11864
+wiki_total_pages: 11867
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -386,6 +386,9 @@ wiki_pages:
   - key: "HelenDuncan"
     title: "Helen Duncan"
     url: "/wiki/entities/helenduncan/"
+  - key: "HelenFisher"
+    title: "Helen Fisher"
+    url: "/wiki/entities/helenfisher/"
   - key: "HelenOfTroy"
     title: "Helen of Troy"
     url: "/wiki/entities/helenoftroy/"

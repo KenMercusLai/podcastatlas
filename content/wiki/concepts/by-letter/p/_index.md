@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9201
+wiki_total_pages: 9205
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1235,6 +1235,9 @@ wiki_pages:
   - key: "PositiveMasculinityCode"
     title: "Positive Masculinity Code"
     url: "/wiki/concepts/positivemasculinitycode/"
+  - key: "PositivePartnerIdealization"
+    title: "Positive Partner Idealization"
+    url: "/wiki/concepts/positivepartneridealization/"
   - key: "PositiveStressBreathwork"
     title: "Positive Stress Breathwork"
     url: "/wiki/concepts/positivestressbreathwork/"

@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1382
+topic_total_pages: 1383
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -4029,6 +4029,9 @@ topic_sources:
   - key: "the-science-of-learning-speaking-languages-dr-eddie-chang-scim2227065926"
     title: "The Science of Learning & Speaking Languages | Dr. Eddie Chang"
     url: "/wiki/sources/the-science-of-learning-speaking-languages-dr-eddie-chang-scim2227065926/"
+  - key: "the-science-of-love-desire-and-attachment-scim1112390541"
+    title: "The Science of Love, Desire and Attachment"
+    url: "/wiki/sources/the-science-of-love-desire-and-attachment-scim1112390541/"
   - key: "the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449"
     title: "The Science of MDMA & Its Therapeutic Uses: Benefits & Risks"
     url: "/wiki/sources/the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449/"

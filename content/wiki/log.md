@@ -27191,3 +27191,11 @@ Added source `152-american-crusades-glt4400059090`; created `ManifestDestiny` an
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | The Science of Love, Desire and Attachment
+
+Added source `the-science-of-love-desire-and-attachment-scim1112390541`; created `MaryAinsworth`, `HelenFisher`, `JulieGottman`, `AutonomicRomanticCoordination`, `PositivePartnerIdealization`, `RelationshipSelfExpansion`, and `LibidoMultisystemRegulation`; and resynthesized `JohnGottman`, `AttachmentAffectRegulation`, `EmotionalCoRegulationFit`, `RelationshipFourHorsemen`, and `HumanChemicalSignaling` from their complete preserved evidence inventories. Core synthesis: early attachment can influence adult intimacy without fixing it, while romantic bonding and sexual desire emerge from interacting developmental, autonomic, interpersonal, chemical, hormonal, and motivational systems rather than one label, brain region, hormone, or compatibility rule. No settled contradiction was adopted. Attachment types, mate-selection types, positive-delusion and self-expansion findings, Gottman prediction claims, resting-EEG and odor-attraction results, animal extrapolations, and maca, Tongkat Ali, and tribulus evidence remain qualified or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,397-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

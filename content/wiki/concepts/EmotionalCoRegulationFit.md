@@ -6,7 +6,8 @@ sources:
   - chuantai-ni-chi-xiangcai-ma-nvshengban-ni-yuanyi-he-xingzhuan-zhihou-de-ziji-zai-yiqi-ma-555771723
   - how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639
   - how-relationships-shape-your-brain-dr-allan-schore-scim1947263719
-last_updated: 2026-09-22
+  - the-science-of-love-desire-and-attachment-scim1112390541
+last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
 
@@ -22,14 +23,16 @@ Gottlieb adds a sequence boundary: co-regulation does not remove responsibility 
 
 Schore adds a developmental frame: secure functioning depends on access to both self-regulation and interactive regulation. Co-regulation is therefore neither weakness nor unlimited dependence; it is one capacity in a flexible system that can also tolerate solitude, mismatch, and repair.
 
+The solo Huberman episode adds an autonomic mechanism: partners may perceive, match, or shift one another's arousal through attention, voice, touch, empathy, and learned association. It also sharpens the interdependence boundary by requiring some ability to self-soothe when apart rather than making one partner the sole regulator.
+
 ## Key Claims
 - Emotional support is situation-specific; calmness is not always the right response.
 - Matching another person's emotion can validate them, but shared collapse can also remove the stabilizing function of the relationship.
 - The useful question is not only whether partners are similar or different, but whether their reactions combine well under stress.
 - Misfitting support can feel like disregard even when the supporter intends care.
 - Co-regulation works best when each person retains responsibility for their own state and can pause mutual escalation.
-- Partner-specific operating instructions can make preferred support more explicit before a crisis.
 - Secure functioning requires flexible movement between self-regulation and interactive regulation rather than chronic over-reliance on either one.
+- Touch, attention, empathy, and autonomic state can contribute to co-regulation without making physiological matching a universal compatibility test.
 
 ## Evidence
 - Response-fit claim: [[chuantai-ni-chi-xiangcai-ma-nvshengban-ni-yuanyi-he-xingzhuan-zhihou-de-ziji-zai-yiqi-ma-555771723]] shows that reassurance, shared anger, recognition, and practical solidarity can each fit different moments.
@@ -38,14 +41,14 @@ Schore adds a developmental frame: secure functioning depends on access to both 
 - Pause boundary: [[how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639]] recommends stopping and returning later when both partners are dysregulated.
 - Operating instructions: [[how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639]] asks partners to learn what helps, hurts, calms, or overwhelms each other.
 - Regulation balance: [[how-relationships-shape-your-brain-dr-allan-schore-scim1947263719]] distinguishes self-regulation from interactive regulation and uses their imbalance to explain different attachment patterns.
+- Autonomic mechanism and interdependence: [[the-science-of-love-desire-and-attachment-scim1112390541]] links empathy and touch with another person's arousal while preserving the need to regulate when apart.
 
 ## Counterevidence & Qualifications
-Co-regulation is not a duty to absorb abuse, manage another adult's chronic volatility, or remain available during unsafe conflict. Preferred support varies by person and moment, and explicit requests can still be misunderstood. The sources provide applied relationship frameworks rather than clinical measurement of compatibility, and attachment labels should not become amateur diagnoses.
+Co-regulation is not a duty to absorb abuse, manage another adult's chronic volatility, or remain available during unsafe conflict. Preferred support varies by person and moment, and explicit requests can still be misunderstood. The sources provide applied relationship frameworks rather than clinical measurement of compatibility; autonomic matching is not a lie detector or mate-selection test, and attachment labels should not become amateur diagnoses.
 
 ## What Changed
-- Added the distinction between self-regulation and partner-supported co-regulation.
-- Added mutual-dysregulation pauses and operating instructions as boundaries on response matching.
-- Added Schore's developmental account of flexible self- and interactive regulation.
+- Added autonomic matching, empathy, and touch as possible co-regulation mechanisms.
+- Strengthened the boundary between healthy interdependence and sole-source regulation.
 
 ## Related Concepts
 - [[ComplementaryRelationshipSupport]] - relationship structure that can supply stabilizing difference.
@@ -55,3 +58,4 @@ Co-regulation is not a duty to absorb abuse, manage another adult's chronic vola
 - [[EmpathyBoundaries]] - limit on making one person responsible for another's entire state.
 - [[CommunicationBoundarySetting]] - choosing the right form and timing for support or refusal.
 - [[AttachmentAffectRegulation]] - early-development model for how self- and interactive regulation become coordinated.
+- [[AutonomicRomanticCoordination]] - relationship-specific physiological sequence and coordination model.

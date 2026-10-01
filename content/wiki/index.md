@@ -3455,6 +3455,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [How to Build, Maintain & Repair Gut Health | Dr. Justin Sonnenburg](sources/how-to-build-maintain-repair-gut-health-dr-justin-sonnenburg-scim9214130216.md) — Huberman Lab interview on microbiome ecology, dietary fiber, fermented foods, systemic signaling, and intervention limits.
 - [154. The Most Disastrous Party in History](sources/154-the-most-disastrous-party-in-history-glt6506112996.md) — The Rest Is History countdown using Partygate, failed festivals, treacherous feasts, court fire, crowd catastrophe, and Persepolis to examine how gatherings become political symbols.
+- [The Science of Love, Desire and Attachment](sources/the-science-of-love-desire-and-attachment-scim1112390541.md) — Huberman Lab solo episode on attachment plasticity, autonomic co-regulation, partner idealization, self-expansion, chemical cues, relationship conflict, and multisystem libido.
 
 ## Entities
 - [Andrew Preston](entities/AndrewPreston.md) — Historian interpreting American religion through institutional persistence, expansion, reform, pluralism, and competing foreign-policy impulses.
@@ -15359,6 +15360,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Bal des Ardents](entities/BalDesArdents.md) — 1393 court masquerade whose lethal fire amplified anxiety around Charles VI's instability.
 - [Khodynka Tragedy](entities/KhodynkaTragedy.md) — 1896 coronation crowd disaster whose mass death and royal response damaged Nicholas II's political memory.
 - [Persepolis](entities/Persepolis.md) — Achaemenid ceremonial capital linking Alexander's destructive conquest memory to the shah's 1971 imperial spectacle.
+- [Mary Ainsworth](entities/MaryAinsworth.md) — Developmental psychologist whose Strange Situation anchors the episode's plasticity-qualified attachment account.
+- [Helen Fisher](entities/HelenFisher.md) — Relationship researcher associated with desire-love-attachment phases and broad mate-selection types.
+- [Julie Gottman](entities/JulieGottman.md) — Relationship researcher linked with John Gottman to couple outcomes and destructive conflict patterns.
 
 ## Concepts
 - [Manifest Destiny](concepts/ManifestDestiny.md) — Nineteenth-century ideology moralizing territorial expansion as both American right and civilizing responsibility.
@@ -24612,5 +24616,9 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Microbiome Ecological Resilience](concepts/MicrobiomeEcologicalResilience.md) — Capacity of gut microbial communities to persist or recover through interactions among organisms, substrates, host niches, and disturbance history.
 - [Disastrous Party as Political Symbol](concepts/DisastrousPartyPoliticalSymbol.md) — Framework for gatherings that condense prior hypocrisy, insecurity, coercion, incompetence, or elite distance into durable public stories.
+- [Autonomic Romantic Coordination](concepts/AutonomicRomanticCoordination.md) — Model of attraction, empathy, touch, sexual response, and attachment as changing self- and interpersonal autonomic states.
+- [Positive Partner Idealization](concepts/PositivePartnerIdealization.md) — Bounded account of positive partner bias as bond maintenance rather than denial of harm or incompatibility.
+- [Relationship Self-Expansion](concepts/RelationshipSelfExpansion.md) — How a close relationship can enlarge identity, capability, perspective, and efficacy without becoming the sole source of self-worth.
+- [Libido as Multisystem Regulation](concepts/LibidoMultisystemRegulation.md) — Desire model integrating sex steroids, dopamine, autonomic state, context, and qualified supplement evidence.
 
 ## Syntheses
