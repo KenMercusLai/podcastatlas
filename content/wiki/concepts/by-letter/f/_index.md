@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 9184
+wiki_total_pages: 9186
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -44,6 +44,9 @@ wiki_pages:
   - key: "FactorySecondGenerationPersonalIP"
     title: "Factory-Second-Generation Personal IP / 厂二代个人IP"
     url: "/wiki/concepts/factorysecondgenerationpersonalip/"
+  - key: "FailedCoupAuthorityTransfer"
+    title: "Failed Coup Authority Transfer"
+    url: "/wiki/concepts/failedcoupauthoritytransfer/"
   - key: "FailedStrategicShortcutAttritionTrap"
     title: "Failed Strategic Shortcut Attrition Trap"
     url: "/wiki/concepts/failedstrategicshortcutattritiontrap/"

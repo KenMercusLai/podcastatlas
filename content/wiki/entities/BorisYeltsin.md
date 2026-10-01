@@ -4,6 +4,7 @@ type: entity
 tags: [person, russia, politics, post-soviet]
 sources:
   - 161-yeltsin-economic-chaos-and-president-putin-glt3048619920
+  - 160-the-fall-of-the-soviet-union-glt9472343994
 last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
@@ -12,44 +13,55 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Boris Yeltsin is represented as Russia's first post-Soviet president, whose market transition, constitutional confrontation, privatization program, wars in Chechnya, and managed succession made him both a destroyer of the old order and an architect of conditions that favored [[VladimirPutin]].
+Boris Yeltsin is represented as the populist Russian leader who displaced [[MikhailGorbachev]] during the Soviet collapse, then governed the resulting state through market shock, constitutional violence, oligarchic capture, Chechen war, and a managed succession to [[VladimirPutin]].
 
 ## Current Profile
 
-[[161-yeltsin-economic-chaos-and-president-putin-glt3048619920]] presents Yeltsin as governing without a settled route from Soviet planning to markets. He backed [[YegorGaidar]]'s rapid price liberalization and privatization, but inflation, enterprise collapse, poverty, and [[OligarchicPrivatizationCapture]] made reform appear inseparable from dispossession and lawlessness.
+[[160-the-fall-of-the-soviet-union-glt9472343994]] supplies the prehistory to the 1990s presidency. After humiliation within the Soviet party system, Yeltsin used popular politics and election as Russia's leader to create a rival authority inside the union. His opposition to the August coup gave him a defining public role; afterward he banned the Russian Communist Party, dominated Gorbachev, and joined Ukrainian and Belarusian leaders in dissolving the union.
 
-The political response also concentrated power. During the 1993 constitutional crisis Yeltsin dissolved parliament, survived its attempted removal, used military force against the parliament building, and secured a constitution with a stronger presidency. His reelection and December 1999 transfer to Putin are portrayed as dependent on oligarchic support and elite protection, though the source does not independently establish every electoral or succession claim.
+[[161-yeltsin-economic-chaos-and-president-putin-glt3048619920]] follows the costs of governing the successor state without a settled route from planning to markets. Yeltsin backed [[YegorGaidar]]'s rapid liberalization and privatization, while inflation, enterprise collapse, poverty, and [[OligarchicPrivatizationCapture]] made reform appear inseparable from dispossession. In 1993 he used military force against parliament and secured a stronger presidency. His 1999 transfer to Putin is portrayed as dependent on oligarchic support and elite protection, though the source does not independently establish every claim.
+
+Across both sources, Yeltsin's strength is tactical and performative: he recognized moments when electoral legitimacy, public confrontation, or elite bargaining could shift power. The same profile is weaker on long-term institutional design, border settlement, social protection, and restraint of executive power.
 
 ## Key Characteristics
 
-- Led Russia through the institutional break from the [[SovietUnion]] without a settled economic transition plan.
-- Backed rapid liberalization despite severe distributional costs for fixed-income households.
-- Presided over privatization that dispersed formal ownership but concentrated valuable assets among managers and connected financiers.
-- Defeated parliamentary opposition through coercion and strengthened presidential executive power after the 1993 crisis.
-- Used war in Chechnya amid weak state and military capacity, deepening the decade's association with disorder.
-- Selected [[VladimirPutin]] as successor at the end of 1999 in a transfer the episode interprets as protective of the outgoing elite.
+- Converted outsider populism and election into a Russian sovereignty claim against the Soviet center.
+- Became the visible defender against the August coup and used its failure to acquire practical authority.
+- Joined republican leaders in dissolving the union without resolving many border, minority, and successor-state questions.
+- Backed rapid market transition despite severe distributional costs and institutional dislocation.
+- Presided over privatization that concentrated valuable assets among managers and connected financiers.
+- Defeated parliamentary opposition through coercion and strengthened presidential power after the 1993 crisis.
+- Selected Putin as successor in a transfer interpreted by the episode as protective of the outgoing elite.
 
 ## Evidence
 
-- Economic transition and social cost: [[161-yeltsin-economic-chaos-and-president-putin-glt3048619920]] links price liberalization, inflation, enterprise collapse, poverty, and the loss of workplace-based social provision.
-- Privatization and reelection: [[161-yeltsin-economic-chaos-and-president-putin-glt3048619920]] connects vouchers and loans-for-shares to concentrated ownership and oligarchic backing for the 1996 campaign.
-- Constitutional power: [[161-yeltsin-economic-chaos-and-president-putin-glt3048619920]] describes the armed 1993 confrontation and the subsequent strengthening of the presidency.
-- War and succession: [[161-yeltsin-economic-chaos-and-president-putin-glt3048619920]] joins the Chechen wars, the 1998 crisis, Putin's appointment, and Yeltsin's resignation.
+### Soviet endgame
+- [[160-the-fall-of-the-soviet-union-glt9472343994]] connects Yeltsin's party break, Russian election, sovereignty challenge, coup resistance, post-coup dominance, and Belavezha agreement.
+
+### Economic transition and ownership
+- [[161-yeltsin-economic-chaos-and-president-putin-glt3048619920]] links price liberalization, inflation, enterprise collapse, poverty, vouchers, loans-for-shares, and oligarchic backing.
+
+### Executive power, war, and succession
+- [[161-yeltsin-economic-chaos-and-president-putin-glt3048619920]] describes the armed 1993 confrontation, stronger presidency, Chechen wars, 1998 crisis, Putin's appointment, and Yeltsin's resignation.
 
 ## Qualifications
 
-The profile comes from one narrative podcast rather than a comprehensive political or economic history. It does not separate reform design from inherited shortages, administrative collapse, regional variation, external advice, or later retrospective framing. Claims that the 1996 election was rigged, that the succession rested on a specific protection bargain, and that precise social and economic figures measure the whole decade remain source-scoped.
+The profile comes from two narrative podcasts rather than a comprehensive political or economic history. The collapse episode's revenge interpretation risks reducing institutional conflict to personality, while the 1990s episode does not fully separate reform design from inherited scarcity, regional variation, state breakdown, or external advice. The suicide-attempt account, drinking anecdotes, unresolved-territory discussions, public-preference figure, 1996 election claims, and succession bargain remain source-scoped or disputed.
 
 ## What Changed
 
-- Established Yeltsin's profile as a link between post-Soviet economic rupture, executive concentration, oligarchic power, Chechen war, and Putin's succession.
+- Added Yeltsin's rise inside the Soviet system, creation of rival Russian authority, and role in the union's dissolution.
+- Connected his coup-era symbolic leadership to later executive concentration.
+- Qualified motive, public-preference, territorial, and biographical claims as source-scoped.
 
 ## Relationships
 
+- [[MikhailGorbachev]] - Soviet leader and rival whom Yeltsin displaced during the collapse.
+- [[LeonidKravchuk]] - Ukrainian counterpart in the Belavezha dissolution agreement.
 - [[VladimirPutin]] - chosen successor whose legitimacy was built partly against memories of the Yeltsin era.
-- [[YegorGaidar]] - reformer associated with rapid price liberalization and market transition.
+- [[DualSovereigntyStateDissolution]] - mechanism through which Yeltsin made Russia a rival to the union.
+- [[FailedCoupAuthorityTransfer]] - process that turned resistance to the August coup into governing authority.
 - [[PostSovietShockTherapy]] - transition strategy and social shock central to Yeltsin's record.
 - [[OligarchicPrivatizationCapture]] - ownership-concentration process associated with vouchers and loans-for-shares.
-- [[SovietUnion]] - state and institutional order whose dissolution created Yeltsin's transition problem.
+- [[SovietUnion]] - state whose dissolution made Yeltsin leader of the principal successor state.
 - [[Russia]] - country governed through the decade's economic, constitutional, and military crises.
-- [[AnatolySobchak]] - constitutional contributor and political patron of Yeltsin's eventual successor.

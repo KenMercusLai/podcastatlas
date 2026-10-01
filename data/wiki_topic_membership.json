@@ -890,6 +890,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "160-the-fall-of-the-soviet-union-glt9472343994": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014": [
     {
       "key": "culture",
@@ -27391,6 +27398,13 @@
       "url": "/topics/science/"
     }
   ],
+  "DualSovereigntyStateDissolution": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "DualUseDefenseTechnology": [
     {
       "key": "technology",
@@ -30948,6 +30962,13 @@
     }
   ],
   "FactionalAlignmentExitCapital": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "FailedCoupAuthorityTransfer": [
     {
       "key": "politics",
       "label": "Politics",
@@ -48006,6 +48027,13 @@
     }
   ],
   "LeonardoLins": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "LeonidKravchuk": [
     {
       "key": "politics",
       "label": "Politics",

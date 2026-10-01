@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [160. The Fall of the Soviet Union](sources/160-the-fall-of-the-soviet-union-glt9472343994.md) — The Rest Is History on partial reform, scarcity, Russian dual sovereignty, the August coup, elite-led dissolution, and Gorbachev's fall.
 - [161. Yeltsin, Economic Chaos and President Putin](sources/161-yeltsin-economic-chaos-and-president-putin-glt3048619920.md) — The Rest Is History on post-Soviet shock therapy, oligarchic privatization, executive concentration, NATO enlargement, Chechnya, and Putin's succession.
 - [162. Putin's Russia](sources/162-putins-russia-glt4575290976.md) — The Rest Is History on Putin's rise through war, stability, security-service power, managed reality, hybrid ambiguity, and the Ukraine-war exit dilemma.
 - [163. The Last Emperor of Mexico](sources/163-the-last-emperor-of-mexico-glt3817272823.md) — The Rest Is History with Edward Shawcross on Maximilian, Juarez, Napoleon III, French intervention, coalition mismatch, patron dependency, and the fall of the Second Mexican Empire.
@@ -3444,6 +3445,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Founder-Led Sales: He Learned to Sell and Closed 50 Customers](sources/d5efc401.md) — The SaaS Podcast episode with Shahar Azulay on Groundcover's eBPF and bring-your-own-cloud architecture, founder-led sales, infrastructure-based pricing, and incumbent replacement migration.
 
 ## Entities
+- [Leonid Kravchuk](entities/LeonidKravchuk.md) — Ukrainian leader linking the failed August coup, sovereignty referendum, and Belavezha dissolution of the Soviet Union.
 - [Anatoly Sobchak](entities/AnatolySobchak.md) — St. Petersburg mayor and constitutional contributor who served as Vladimir Putin's professor, patron, and political superior.
 - [Boris Yeltsin](entities/BorisYeltsin.md) — Post-Soviet Russian president linking rapid market transition, executive concentration, oligarchic power, Chechen war, and Putin's succession.
 - [Yegor Gaidar](entities/YegorGaidar.md) — Russian reformer associated with rapid price liberalization and the social and political backlash to shock therapy.
@@ -15330,6 +15332,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gareth Southgate](entities/GarethSouthgate.md) — England manager presented as joining inherited patriotic symbols to progressive and multiracial belonging.
 
 ## Concepts
+- [Dual Sovereignty State Dissolution](concepts/DualSovereigntyStateDissolution.md) — How a constituent government's rival legitimacy and administrative authority can hollow out and dissolve a larger state.
+- [Failed Coup Authority Transfer](concepts/FailedCoupAuthorityTransfer.md) — How an unsuccessful seizure of central power can discredit its sponsors and transfer practical authority to a rival.
 - [Post-Soviet Shock Therapy](concepts/PostSovietShockTherapy.md) — Rapid market transition joining price liberalization to fixed-income losses, enterprise-welfare collapse, political backlash, and later demand for order.
 - [Oligarchic Privatization Capture](concepts/OligarchicPrivatizationCapture.md) — Concentration of nominally broad public assets through distress sales, insider access, weak enforcement, and political exchange.
 - [Managed Reality Authoritarianism](concepts/ManagedRealityAuthoritarianism.md) — Authoritarian control through television, staged pluralism, and proliferating narratives that destabilize shared truth.

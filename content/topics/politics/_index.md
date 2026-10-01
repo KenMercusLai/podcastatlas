@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2960
+topic_total_pages: 2963
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1171,6 +1171,9 @@ topic_concepts:
   - key: "DualExecutivePowerRisk"
     title: "Dual Executive Power Risk / 双首长权力风险"
     url: "/wiki/concepts/dualexecutivepowerrisk/"
+  - key: "DualSovereigntyStateDissolution"
+    title: "Dual Sovereignty State Dissolution"
+    url: "/wiki/concepts/dualsovereigntystatedissolution/"
   - key: "DualUseDefenseTechnology"
     title: "Dual-Use Defense Technology"
     url: "/wiki/concepts/dualusedefensetechnology/"
@@ -1384,6 +1387,9 @@ topic_concepts:
   - key: "FaceProjectGovernance"
     title: "Face-Project Governance / 面子工程式治理"
     url: "/wiki/concepts/faceprojectgovernance/"
+  - key: "FailedCoupAuthorityTransfer"
+    title: "Failed Coup Authority Transfer"
+    url: "/wiki/concepts/failedcoupauthoritytransfer/"
   - key: "FairAllocationPoliticalSkill"
     title: "Fair Allocation As Political Skill / 公平分配式政治能力"
     url: "/wiki/concepts/fairallocationpoliticalskill/"
@@ -6155,6 +6161,9 @@ topic_entities:
   - key: "LeonardoLins"
     title: "Leonardo Lins"
     url: "/wiki/entities/leonardolins/"
+  - key: "LeonidKravchuk"
+    title: "Leonid Kravchuk"
+    url: "/wiki/entities/leonidkravchuk/"
   - key: "LeopoldBerchtold"
     title: "Leopold Berchtold"
     url: "/wiki/entities/leopoldberchtold/"
