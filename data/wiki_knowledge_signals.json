@@ -84875,9 +84875,9 @@
       "url": "/wiki/concepts/historicalfictionfactualconstraint/"
     },
     "HistoricalFiguresAsRealityTVArchetypes": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7719682575 [GLT7719682575].md",
@@ -84885,9 +84885,16 @@
           "show": "The Rest Is History",
           "title": "357: Historical Love Island: The Sequel",
           "url": "/wiki/sources/357-historical-love-island-the-sequel-glt7719682575/"
+        },
+        {
+          "episode_file": "GLT4172810067 [GLT4172810067].md",
+          "key": "207-historical-love-island-the-winner-glt4172810067",
+          "show": "The Rest Is History",
+          "title": "207. Historical Love Island: THE WINNER",
+          "url": "/wiki/sources/207-historical-love-island-the-winner-glt4172810067/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/historicalfiguresasrealitytvarchetypes/"
     },
     "HistoricalInquirySourceCriticism": {
@@ -171787,6 +171794,36 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/entities/stanislasmaillard/"
+    },
+    "StanleyBaldwin": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "GLT4986306476 [GLT4986306476].md",
+          "key": "213-london-moments-part-5-glt4986306476",
+          "show": "The Rest Is History",
+          "title": "213. London: Moments (Part 5)",
+          "url": "/wiki/sources/213-london-moments-part-5-glt4986306476/"
+        },
+        {
+          "episode_file": "GLT4747738645 [GLT4747738645].md",
+          "key": "372-the-birth-of-british-fascism-glt4747738645",
+          "show": "The Rest Is History",
+          "title": "372. The Birth of British Fascism",
+          "url": "/wiki/sources/372-the-birth-of-british-fascism-glt4747738645/"
+        },
+        {
+          "episode_file": "GLT4172810067 [GLT4172810067].md",
+          "key": "207-historical-love-island-the-winner-glt4172810067",
+          "show": "The Rest Is History",
+          "title": "207. Historical Love Island: THE WINNER",
+          "url": "/wiki/sources/207-historical-love-island-the-winner-glt4172810067/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/stanleybaldwin/"
     },
     "StanleyDruckenmiller": {
       "episode_count": 3,

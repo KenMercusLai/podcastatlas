@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [207. Historical Love Island: THE WINNER](sources/207-historical-love-island-the-winner-glt4172810067.md) — The Rest Is History results episode on Baldwin and Theodora's audience-voted win, the contest's comic logic, and a preview of Justinianic history.
 - [208. George Orwell](sources/208-george-orwell-glt5823999588.md) — The Rest Is History episode on Orwell's imperial formation, class politics, democratic socialism, anti-Stalinism, Englishness, Animal Farm, and Nineteen Eighty-Four.
 - [The Biology of Taste Perception & Sugar Craving | Dr. Charles Zuker](sources/the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim7979038386.md) — Huberman Lab interview on taste detection, identity, valence, plasticity, and the separation of oral sweet liking from gut-driven sugar wanting.
 - [217. Plague and the Decline of the Roman Empire](sources/217-plague-and-the-decline-of-the-roman-empire-glt2583859060.md) — The Rest Is History interview with Kyle Harper on Roman connectivity, urban disease burdens, three pandemics, and multi-causal imperial decline.
@@ -3370,6 +3371,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [209. Londinium (Part 1)](sources/209-londinium-part-1-glt8659020002.md) — The Rest Is History walking tour of Roman London's geographic rise, Boudiccan destruction, civic and religious archaeology, fragmentary survival, and late decline.
 
 ## Entities
+- [Stanley Baldwin](entities/StanleyBaldwin.md) — British prime minister associated with interwar parliamentary stability, rural-suburban imagery, and a later comic family portrait.
 - [Robert Colls](entities/RobertColls.md) — Historian and author interpreting Orwell through empire, class, Englishness, socialism, anti-communism, and literary politics.
 - [Animal Farm](entities/AnimalFarm.md) — Orwell fable read as both Soviet allegory and a broader warning about revolutionary elite replacement.
 - [Nineteen Eighty-Four](entities/NineteenEightyFour.md) — Orwell dystopia about control of records, language, memory, moral judgment, and trust.

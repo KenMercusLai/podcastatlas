@@ -26506,3 +26506,11 @@ Added source `208-george-orwell-glt5823999588`; created `RobertColls`, `AnimalFa
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | 207. Historical Love Island: THE WINNER
+
+Added source `207-historical-love-island-the-winner-glt4172810067`; created `StanleyBaldwin`; and resynthesized `HistoricalFiguresAsRealityTVArchetypes` from its complete preserved evidence inventory. Core synthesis: reality-TV archetypes and audience voting make cross-period character contrasts memorable, but the result measures response to comic framing rather than historical merit, while the episode's pivot from Theodora's victory to Justinianic history shows how entertainment can open a serious question without resolving it. No settled contradiction was adopted. Pairing logic, private motives, family anecdotes, popularity explanations, and long-range geopolitical suggestions remain comic, uncertain, or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,314-source coverage; no topic claim set was dirty, and the max-age gate compacted and validated the global artifact.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

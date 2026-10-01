@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2280
+topic_total_pages: 2281
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4776,6 +4776,9 @@ topic_sources:
   - key: "171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962"
     title: "171.闲聊十二生肖之马：观音大士的兴趣爱好,及老头环角色的灵感"
     url: "/wiki/sources/171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962/"
+  - key: "207-historical-love-island-the-winner-glt4172810067"
+    title: "207. Historical Love Island: THE WINNER"
+    url: "/wiki/sources/207-historical-love-island-the-winner-glt4172810067/"
   - key: "208-george-orwell-glt5823999588"
     title: "208. George Orwell"
     url: "/wiki/sources/208-george-orwell-glt5823999588/"
