@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2336
+topic_total_pages: 2337
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4791,6 +4791,9 @@ topic_sources:
   - key: "14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285"
     title: "14.武士威廉：大航海时代的日本和西方"
     url: "/wiki/sources/14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285/"
+  - key: "159-young-putin-the-kgb-and-the-soviet-union-glt7336670203"
+    title: "159. Young Putin, the KGB and the Soviet Union"
+    url: "/wiki/sources/159-young-putin-the-kgb-and-the-soviet-union-glt7336670203/"
   - key: "160-the-fall-of-the-soviet-union-glt9472343994"
     title: "160. The Fall of the Soviet Union"
     url: "/wiki/sources/160-the-fall-of-the-soviet-union-glt9472343994/"

@@ -27107,3 +27107,15 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | 159. Young Putin, the KGB and the Soviet Union
+
+Added source `159-young-putin-the-kgb-and-the-soviet-union-glt7336670203`; created `RussianExceptionalism` and `PartialReformDestabilization`; and resynthesized `VladimirPutin`, `MikhailGorbachev`, `YuriAndropov`, and `SovietUnion` from their complete preserved evidence inventories. Core synthesis: Putin's institutional formation joined KGB service and great-power status to a late-Soviet world whose visible stability concealed accumulating weakness; Andropov sought disciplined preservation, while Gorbachev's Leninist renewal weakened old coordination before stable economic, political, and federal replacements existed. No settled contradiction was adopted, and Soviet inheritance is treated as a constraint rather than an inevitable route to Putinism. Putin's private beliefs and Dresden duties, defense-spending and oil estimates, reform counterfactuals, and leader motives remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,387-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge-schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

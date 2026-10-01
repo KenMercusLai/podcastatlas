@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [159. Young Putin, the KGB and the Soviet Union](sources/159-young-putin-the-kgb-and-the-soviet-union-glt7336670203.md) — The Rest Is History on Putin's Soviet and KGB formation, Russian exceptionalism, late-Soviet stagnation, Gorbachev's reforms, and the destabilizing risks of partial opening.
 - [160. The Fall of the Soviet Union](sources/160-the-fall-of-the-soviet-union-glt9472343994.md) — The Rest Is History on partial reform, scarcity, Russian dual sovereignty, the August coup, elite-led dissolution, and Gorbachev's fall.
 - [161. Yeltsin, Economic Chaos and President Putin](sources/161-yeltsin-economic-chaos-and-president-putin-glt3048619920.md) — The Rest Is History on post-Soviet shock therapy, oligarchic privatization, executive concentration, NATO enlargement, Chechnya, and Putin's succession.
 - [162. Putin's Russia](sources/162-putins-russia-glt4575290976.md) — The Rest Is History on Putin's rise through war, stability, security-service power, managed reality, hybrid ambiguity, and the Ukraine-war exit dilemma.
@@ -10427,8 +10428,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Operation RYAN / 莱恩行动](entities/OperationRYAN.md) — KGB nuclear-war warning operation used by episode 81 to show Soviet fear becoming an intelligence feedback loop.
 - [Margaret Thatcher / 玛格丽特·撒切尔](entities/MargaretThatcher.md) — Prominent 1974 Conservative campaigner, 1975 party leader, and later prime minister who approved Operation Pimlico.
 - [Ronald Reagan / 罗纳德·里根](entities/RonaldReagan.md) — U.S. president represented through symbolic leadership, contested domestic policy, Iran-Contra, Soviet threat perception, and nuclear diplomacy.
-- [Mikhail Gorbachev / 米哈伊尔·戈尔巴乔夫](entities/MikhailGorbachev.md) — Soviet leader represented through intelligence-mediated Western interpretation and arms-control diplomacy with Reagan.
-- [Yuri Andropov / 尤里·安德罗波夫](entities/YuriAndropov.md) — Soviet leader tied to Operation RYAN and the conversion of nuclear fear into a KGB collection task.
+- [Mikhail Gorbachev / 米哈伊尔·戈尔巴乔夫](entities/MikhailGorbachev.md) — Final Soviet leader whose Leninist renewal, political opening, arms control, and loss of authority joined idealism to partial-reform risk.
+- [Yuri Andropov / 尤里·安德罗波夫](entities/YuriAndropov.md) — Soviet leader joining preservationist reform, coercive discipline, and Operation RYAN's prior-confirming nuclear fear.
 - [Finland](entities/Finland.md) — Cold War border route and diplomatic-ambiguity setting for Operation Pimlico's extraction of Gordievsky.
 - [Veronica Price / 维罗尼卡·普莱斯](entities/VeronicaPrice.md) — MI6 figure who kept Operation Pimlico actionable and coordinated the Finnish-side rescue in episode 81.
 - [Michael Foot / 迈克尔·富特](entities/MichaelFoot.md) — British politician appearing as a contested source-scoped KGB-money allegation in Gordievsky's London intelligence.
@@ -11963,7 +11964,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ricardo Torres](entities/RicardoTorres.md) — Cuban economist who explains Cuba's long movement between external patron dependence and constrained market reform.
 - [Fidel Castro](entities/FidelCastro.md) — Cuban revolutionary leader whose post-1959 state-led system begins the episode's account of Cuba's economic experiment.
 - [Raul Castro](entities/RaulCastro.md) — Cuban leader associated in the episode with broader but still constrained private-sector reforms.
-- [Soviet Union](entities/SovietUnion.md) — Revolutionary state joining wartime depth and coercion, technological capacity and secrecy, Cold War fear, and external patronage.
+- [Soviet Union](entities/SovietUnion.md) — Revolutionary multinational state joining wartime depth, coercion, technical capacity, Cold War fear, stagnation, partial reform, and dissolution.
 - [Casey Newton](entities/CaseyNewton.md) — Platformer journalist whose Marketplace Tech account grounds AI-generated hoax evidence and newsroom verification costs.
 - [Platformer](entities/Platformer.md) — Technology publication context for Casey Newton's investigation of a viral AI-generated evidence hoax.
 - [SynthID](entities/SynthID.md) — Google watermarking/provenance signal that helped identify a suspect badge as Gemini-generated in the Marketplace Tech hoax episode.
@@ -13870,7 +13871,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Harry Styles](entities/HarryStyles.md) — Megastar example for long-run, few-city concert touring and residency economics.
 - [Crimea](entities/Crimea.md) — Peninsula framed as both Black Sea military base and symbolic target in Ukraine's war visibility strategy.
 - [Volodymyr Zelensky](entities/VolodymyrZelensky.md) — Ukrainian wartime leader framed through 2022 resolve, deep-strike visibility strategy, military reform, and mounting domestic constraints.
-- [Vladimir Putin](entities/VladimirPutin.md) — Russian leader whose Ukraine-war profile joins propaganda-fed miscalculation, Crimea-linked legitimacy, continuing capacity, and an authoritarian exit dilemma.
+- [Vladimir Putin](entities/VladimirPutin.md) — Russian leader whose profile joins Soviet-KGB formation, managed succession, restoration legitimacy, propaganda-fed war miscalculation, and an authoritarian exit dilemma.
 - [Andrey Melnichenko](entities/AndreyMelnichenko.md) — Russian industrial oligarch whose sanctions exposure, attacked factories, and survival logic ground the wiki's Russian elite discontent branch.
 - [Arkady Ostrovsky](entities/ArkadyOstrovsky.md) — Economist journalist whose long conversations with Melnichenko frame the source's insider-pressure account of Russia's war dilemma.
 - [Oliver Carroll](entities/OliverCarroll.md) — Reporter describing Kyiv under intensified Russian drone and missile attacks, grounding the air-defense saturation branch.
@@ -15336,6 +15337,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Justin Sonnenburg](entities/JustinSonnenburg.md) — Stanford microbiologist framing the gut microbiome through ecology, diet, resilience, and evidence-bounded intervention research.
 
 ## Concepts
+- [Russian Exceptionalism](concepts/RussianExceptionalism.md) — Flexible religious, imperial, Soviet, and geopolitical frame of distinctive Russian destiny, bounded against deterministic national-character claims.
+- [Partial Reform Destabilization](concepts/PartialReformDestabilization.md) — Risk that reform weakens old coordination and legitimacy before capable replacement institutions stabilize.
 - [Dual Sovereignty State Dissolution](concepts/DualSovereigntyStateDissolution.md) — How a constituent government's rival legitimacy and administrative authority can hollow out and dissolve a larger state.
 - [Failed Coup Authority Transfer](concepts/FailedCoupAuthorityTransfer.md) — How an unsuccessful seizure of central power can discredit its sponsors and transfer practical authority to a rival.
 - [Post-Soviet Shock Therapy](concepts/PostSovietShockTherapy.md) — Rapid market transition joining price liberalization to fixed-income losses, enterprise-welfare collapse, political backlash, and later demand for order.

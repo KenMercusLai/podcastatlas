@@ -129741,9 +129741,9 @@
       "url": "/wiki/entities/mikesteinberger/"
     },
     "MikhailGorbachev": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "81.间谍与叛徒：恕我直言，007的故事弱爆了 (下) [693711209].md",
@@ -129765,6 +129765,13 @@
           "show": "The Rest Is History",
           "title": "160. The Fall of the Soviet Union",
           "url": "/wiki/sources/160-the-fall-of-the-soviet-union-glt9472343994/"
+        },
+        {
+          "episode_file": "GLT7336670203 [GLT7336670203].md",
+          "key": "159-young-putin-the-kgb-and-the-soviet-union-glt7336670203",
+          "show": "The Rest Is History",
+          "title": "159. Young Putin, the KGB and the Soviet Union",
+          "url": "/wiki/sources/159-young-putin-the-kgb-and-the-soviet-union-glt7336670203/"
         }
       ],
       "updated": "2026-10-02",
@@ -143746,6 +143753,29 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/parthianempire/"
+    },
+    "PartialReformDestabilization": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "GLT9472343994 [GLT9472343994].md",
+          "key": "160-the-fall-of-the-soviet-union-glt9472343994",
+          "show": "The Rest Is History",
+          "title": "160. The Fall of the Soviet Union",
+          "url": "/wiki/sources/160-the-fall-of-the-soviet-union-glt9472343994/"
+        },
+        {
+          "episode_file": "GLT7336670203 [GLT7336670203].md",
+          "key": "159-young-putin-the-kgb-and-the-soviet-union-glt7336670203",
+          "show": "The Rest Is History",
+          "title": "159. Young Putin, the KGB and the Soviet Union",
+          "url": "/wiki/sources/159-young-putin-the-kgb-and-the-soviet-union-glt7336670203/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/partialreformdestabilization/"
     },
     "ParticipatoryHistoricalReading": {
       "episode_count": 1,
@@ -165016,6 +165046,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/russianempire/"
     },
+    "RussianExceptionalism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7336670203 [GLT7336670203].md",
+          "key": "159-young-putin-the-kgb-and-the-soviet-union-glt7336670203",
+          "show": "The Rest Is History",
+          "title": "159. Young Putin, the KGB and the Soviet Union",
+          "url": "/wiki/sources/159-young-putin-the-kgb-and-the-soviet-union-glt7336670203/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/russianexceptionalism/"
+    },
     "RussianHybridPressure": {
       "episode_count": 3,
       "show_count": 2,
@@ -176068,9 +176114,9 @@
       "url": "/wiki/concepts/sovereigninfrastructureinterdependence/"
     },
     "SovietUnion": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 3,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "81.间谍与叛徒：恕我直言，007的故事弱爆了 (下) [693711209].md",
@@ -176127,6 +176173,13 @@
           "show": "The Rest Is History",
           "title": "160. The Fall of the Soviet Union",
           "url": "/wiki/sources/160-the-fall-of-the-soviet-union-glt9472343994/"
+        },
+        {
+          "episode_file": "GLT7336670203 [GLT7336670203].md",
+          "key": "159-young-putin-the-kgb-and-the-soviet-union-glt7336670203",
+          "show": "The Rest Is History",
+          "title": "159. Young Putin, the KGB and the Soviet Union",
+          "url": "/wiki/sources/159-young-putin-the-kgb-and-the-soviet-union-glt7336670203/"
         }
       ],
       "updated": "2026-10-02",
@@ -194961,9 +195014,9 @@
       "url": "/wiki/entities/vivekmurthy/"
     },
     "VladimirPutin": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "Far Crimea： war comes to Russia’s door [6a3e560c26d5a6687a90c658].md",
@@ -194999,6 +195052,13 @@
           "show": "The Rest Is History",
           "title": "161. Yeltsin, Economic Chaos and President Putin",
           "url": "/wiki/sources/161-yeltsin-economic-chaos-and-president-putin-glt3048619920/"
+        },
+        {
+          "episode_file": "GLT7336670203 [GLT7336670203].md",
+          "key": "159-young-putin-the-kgb-and-the-soviet-union-glt7336670203",
+          "show": "The Rest Is History",
+          "title": "159. Young Putin, the KGB and the Soviet Union",
+          "url": "/wiki/sources/159-young-putin-the-kgb-and-the-soviet-union-glt7336670203/"
         }
       ],
       "updated": "2026-10-02",
@@ -210045,6 +210105,29 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/yunnancoffeeorigindevelopment/"
+    },
+    "YuriAndropov": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "81.间谍与叛徒：恕我直言，007的故事弱爆了 (下) [693711209].md",
+          "key": "81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209",
+          "show": "蜜獾吃书",
+          "title": "81.间谍与叛徒：恕我直言，007的故事弱爆了（下）",
+          "url": "/wiki/sources/81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209/"
+        },
+        {
+          "episode_file": "GLT7336670203 [GLT7336670203].md",
+          "key": "159-young-putin-the-kgb-and-the-soviet-union-glt7336670203",
+          "show": "The Rest Is History",
+          "title": "159. Young Putin, the KGB and the Soviet Union",
+          "url": "/wiki/sources/159-young-putin-the-kgb-and-the-soviet-union-glt7336670203/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/yuriandropov/"
     },
     "YuvalNoahHarari": {
       "episode_count": 1,

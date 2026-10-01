@@ -873,6 +873,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "159-young-putin-the-kgb-and-the-soviet-union-glt7336670203": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "160-ruhe-yingdui-zhongguo-zichan-niushi-de-tiaozhengqi-xinshu-fenxianghui-chengdu-chang-shilu-lm8degdbgmgi6nnwspjy-gdzwqfz": [
     {
       "key": "technology",
@@ -68425,6 +68432,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "RussianExceptionalism": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "RussianHybridPressure": [

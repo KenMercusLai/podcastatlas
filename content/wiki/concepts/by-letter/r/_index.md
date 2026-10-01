@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 9187
+wiki_total_pages: 9189
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -1304,6 +1304,9 @@ wiki_pages:
   - key: "RussianEliteDiscontent"
     title: "Russian Elite Discontent"
     url: "/wiki/concepts/russianelitediscontent/"
+  - key: "RussianExceptionalism"
+    title: "Russian Exceptionalism"
+    url: "/wiki/concepts/russianexceptionalism/"
   - key: "RussianHybridPressure"
     title: "Russian Hybrid Pressure"
     url: "/wiki/concepts/russianhybridpressure/"
