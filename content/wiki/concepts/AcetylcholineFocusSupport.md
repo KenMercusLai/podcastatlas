@@ -6,6 +6,7 @@ sources:
   - essentials-control-your-brain-chemistry-for-focus-motivation-well-being-scim6495209379
   - your-top-health-questions-answered-scim2882548864
   - nicotines-effects-on-the-brain-body-how-to-quit-smoking-or-vaping-scim2598262635
+  - optimize-control-your-brain-chemistry-to-improve-health-performance-scim8855428946
 last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
@@ -16,7 +17,7 @@ knowledge_schema: synthesis-v1
 Acetylcholine focus support is the episode's frame for sustaining focus, learning, and encoding by combining activity-dependent attention with sufficient choline intake and cautious discussion of cholinergic drugs or supplements.
 
 ## Current Synthesis
-Across the current evidence, acetylcholine differs from the other neuromodulators because its functional level depends more directly on what the person is doing. It supports focus and learning in the brain while also operating at the nerve-to-muscle synapse. The practical branch emphasizes choline-containing foods as baseline support and keeps nicotine, alpha GPC, and huperzine in a caution zone where receptor activation, synthesis support, breakdown inhibition, timing, and individual tolerance matter.
+Across the current evidence, acetylcholine differs from the other neuromodulators because its functional level depends more directly on what the person is doing. [[optimize-control-your-brain-chemistry-to-improve-health-performance-scim8855428946]] supplies the full-length account later condensed in [[essentials-control-your-brain-chemistry-for-focus-motivation-well-being-scim6495209379]]; these are overlapping edits rather than independent evidence. Acetylcholine supports focus and learning in the brain while also operating at the nerve-to-muscle synapse. The practical branch emphasizes choline-containing foods as baseline support and keeps nicotine, alpha GPC, and huperzine in a caution zone where receptor activation, synthesis support, breakdown inhibition, timing, and individual tolerance matter.
 
 The Q&A episode narrows alpha GPC further. It is presented as an occasional late-night training focus aid that is less likely than caffeine to impair sleep, but frequent high-dose use is cautioned because of TMAO-related cardiovascular concerns and possible diminishing effect. The nicotine episode adds receptor-level and time-course context: nicotine can transiently sharpen attention through nicotinic receptor activation, but the same molecule also recruits reward, arousal, cardiovascular, tolerance, and dependence pathways. That makes this page a focus-support concept, not a general supplement or nicotine recommendation.
 
@@ -37,13 +38,15 @@ The Q&A episode narrows alpha GPC further. It is presented as an occasional late
 - Evening-training use case: [[your-top-health-questions-answered-scim2882548864]] presents 600-900 mg Alpha GPC as an occasional focus-support option for late-night strength training when caffeine would threaten sleep.
 - TMAO and frequency caution: [[your-top-health-questions-answered-scim2882548864]] warns that frequent high-dose Alpha GPC can raise TMAO-related cardiovascular concerns and suggests limiting use because frequent exposure may diminish the effect.
 - Nicotine receptor and dependence boundary: [[nicotines-effects-on-the-brain-body-how-to-quit-smoking-or-vaping-scim2598262635]] links short-lived attention effects to nicotinic receptors while also connecting nicotine to dopamine reinforcement, norepinephrine arousal, vasoconstriction, tolerance, withdrawal, and route-dependent risk.
+- Full-length provenance: [[optimize-control-your-brain-chemistry-to-improve-health-performance-scim8855428946]] supplies the original activity-dependent, nutrition, nicotine, alpha-GPC, and huperzine account later compressed by the Essentials edit.
 
 ## Counterevidence & Qualifications
 This page is not a recommendation to use nicotine, alpha GPC, huperzine, or any cholinergic product. The sources discourage smoking and vaping, note variable responses to cholinergic tools, and keep use tied to timing, dose, delivery kinetics, age, pregnancy, addiction vulnerability, cardiovascular risk, sleep goals, medical history, and individual tolerance rather than a universal focus protocol.
 
 ## What Changed
-- Added nicotinic-receptor and transient-focus context.
-- Made dependence, delivery speed, developmental stage, and cardiovascular effects part of the nicotine boundary.
+- Added the full-length episode as provenance for the later Essentials account.
+- Clarified that the two edits are not independent replication.
+- Preserved nicotine dependence, delivery-speed, cardiovascular, timing, and tolerance boundaries.
 
 ## Related Concepts
 - [[NeuromodulatorStateToolkit]] - broader chemical-state framework that contains this focus branch.

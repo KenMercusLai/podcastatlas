@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1366
+topic_total_pages: 1367
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -3912,6 +3912,9 @@ topic_sources:
   - key: "optimal-protocols-for-studying-learning-scim3722040660"
     title: "Optimal Protocols for Studying & Learning"
     url: "/wiki/sources/optimal-protocols-for-studying-learning-scim3722040660/"
+  - key: "optimize-control-your-brain-chemistry-to-improve-health-performance-scim8855428946"
+    title: "Optimize & Control Your Brain Chemistry to Improve Health & Performance"
+    url: "/wiki/sources/optimize-control-your-brain-chemistry-to-improve-health-performance-scim8855428946/"
   - key: "peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046"
     title: "Peptides: The Science, Uses & Safety | Dr. Abud Bakri"
     url: "/wiki/sources/peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046/"

@@ -5088,9 +5088,9 @@
       "url": "/wiki/concepts/accusationquotarefusal/"
     },
     "AcetylcholineFocusSupport": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM6495209379 [SCIM6495209379].md",
@@ -5112,6 +5112,13 @@
           "show": "Huberman Lab",
           "title": "Nicotine’s Effects on the Brain & Body & How to Quit Smoking or Vaping",
           "url": "/wiki/sources/nicotines-effects-on-the-brain-body-how-to-quit-smoking-or-vaping-scim2598262635/"
+        },
+        {
+          "episode_file": "SCIM8855428946 [SCIM8855428946].md",
+          "key": "optimize-control-your-brain-chemistry-to-improve-health-performance-scim8855428946",
+          "show": "Huberman Lab",
+          "title": "Optimize & Control Your Brain Chemistry to Improve Health & Performance",
+          "url": "/wiki/sources/optimize-control-your-brain-chemistry-to-improve-health-performance-scim8855428946/"
         }
       ],
       "updated": "2026-10-01",
@@ -49995,9 +50002,9 @@
       "url": "/wiki/concepts/dopaminepeaktroughbaseline/"
     },
     "DopamineToolTiming": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM6495209379 [SCIM6495209379].md",
@@ -50026,9 +50033,16 @@
           "show": "Huberman Lab",
           "title": "Using Caffeine to Optimize Mental & Physical Performance",
           "url": "/wiki/sources/using-caffeine-to-optimize-mental-physical-performance-scim1210768101/"
+        },
+        {
+          "episode_file": "SCIM8855428946 [SCIM8855428946].md",
+          "key": "optimize-control-your-brain-chemistry-to-improve-health-performance-scim8855428946",
+          "show": "Huberman Lab",
+          "title": "Optimize & Control Your Brain Chemistry to Improve Health & Performance",
+          "url": "/wiki/sources/optimize-control-your-brain-chemistry-to-improve-health-performance-scim8855428946/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/dopaminetooltiming/"
     },
     "DopamineWantingLoop": {
@@ -59063,9 +59077,9 @@
       "url": "/wiki/concepts/epigeneticreprogrammingboundary/"
     },
     "EpinephrineAlertnessToolkit": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM6495209379 [SCIM6495209379].md",
@@ -59087,9 +59101,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Boost Your Energy & Immune System with Cortisol & Adrenaline",
           "url": "/wiki/sources/essentials-boost-your-energy-immune-system-with-cortisol-adrenaline-scim1515778634/"
+        },
+        {
+          "episode_file": "SCIM8855428946 [SCIM8855428946].md",
+          "key": "optimize-control-your-brain-chemistry-to-improve-health-performance-scim8855428946",
+          "show": "Huberman Lab",
+          "title": "Optimize & Control Your Brain Chemistry to Improve Health & Performance",
+          "url": "/wiki/sources/optimize-control-your-brain-chemistry-to-improve-health-performance-scim8855428946/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/epinephrinealertnesstoolkit/"
     },
     "EpistemicInjusticeExperienceSilencing": {
@@ -131279,9 +131300,9 @@
       "url": "/wiki/concepts/neurodivergentaiaugmentation/"
     },
     "NeuromodulatorStateToolkit": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM6495209379 [SCIM6495209379].md",
@@ -131303,6 +131324,13 @@
           "show": "Huberman Lab",
           "title": "Focus Toolkit: Tools to Improve Your Focus & Concentration",
           "url": "/wiki/sources/focus-toolkit-tools-to-improve-your-focus-concentration-scim5273827033/"
+        },
+        {
+          "episode_file": "SCIM8855428946 [SCIM8855428946].md",
+          "key": "optimize-control-your-brain-chemistry-to-improve-health-performance-scim8855428946",
+          "show": "Huberman Lab",
+          "title": "Optimize & Control Your Brain Chemistry to Improve Health & Performance",
+          "url": "/wiki/sources/optimize-control-your-brain-chemistry-to-improve-health-performance-scim8855428946/"
         }
       ],
       "updated": "2026-10-01",
@@ -163381,9 +163409,9 @@
       "url": "/wiki/concepts/seriousmentalillnessfamilycareboundary/"
     },
     "SerotoninSocialWellbeingTools": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM6495209379 [SCIM6495209379].md",
@@ -163391,9 +163419,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Control Your Brain Chemistry for Focus, Motivation & Well-Being",
           "url": "/wiki/sources/essentials-control-your-brain-chemistry-for-focus-motivation-well-being-scim6495209379/"
+        },
+        {
+          "episode_file": "SCIM8855428946 [SCIM8855428946].md",
+          "key": "optimize-control-your-brain-chemistry-to-improve-health-performance-scim8855428946",
+          "show": "Huberman Lab",
+          "title": "Optimize & Control Your Brain Chemistry to Improve Health & Performance",
+          "url": "/wiki/sources/optimize-control-your-brain-chemistry-to-improve-health-performance-scim8855428946/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/serotoninsocialwellbeingtools/"
     },
     "ServiceDeliveryDemocraticTrust": {

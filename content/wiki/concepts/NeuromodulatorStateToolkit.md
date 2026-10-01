@@ -6,6 +6,7 @@ sources:
   - essentials-control-your-brain-chemistry-for-focus-motivation-well-being-scim6495209379
   - leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288
   - focus-toolkit-tools-to-improve-your-focus-concentration-scim5273827033
+  - optimize-control-your-brain-chemistry-to-improve-health-performance-scim8855428946
 last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
@@ -16,7 +17,7 @@ knowledge_schema: synthesis-v1
 Neuromodulator state toolkit is the episode's framework for adjusting motivation, energy, focus, relaxation, wellbeing, and learning by considering dopamine, epinephrine, serotonin, and acetylcholine together with baseline state, time of day, behavior, nutrition, supplements, hormones, and medical boundaries.
 
 ## Current Synthesis
-In [[essentials-control-your-brain-chemistry-for-focus-motivation-well-being-scim6495209379]], [[AndrewHuberman]] presents brain chemistry as a state-control problem rather than a single-chemical target. Dopamine, epinephrine, serotonin, and acetylcholine have different dominant associations, but their effects depend on baseline levels, daily phase, hormonal context, current activity, and whether an intervention is behavioral, nutritional, supplemental, or prescription-based.
+In [[optimize-control-your-brain-chemistry-to-improve-health-performance-scim8855428946]], [[AndrewHuberman]] presents brain chemistry as a state-control problem rather than a single-chemical target. Dopamine, epinephrine, serotonin, and acetylcholine have different dominant associations, but their effects depend on baseline levels, daily phase, hormonal context, current activity, and whether an intervention is behavioral, nutritional, supplemental, or prescription-based. [[essentials-control-your-brain-chemistry-for-focus-motivation-well-being-scim6495209379]] is a later condensed edit of this account, so their overlap supplies provenance and editorial continuity rather than independent replication.
 
 [[leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288]] deepens the dopamine branch by showing why state tools must account for baseline, peaks, troughs, learned cues, addiction risk, and intrinsic motivation. The practical judgment is to maintain baselines first, then use specific tools conservatively and individually rather than stacking every possible lever. Dopamine tools are especially sensitive to whether the user is trying to recover from a trough, support ordinary motivation, or amplify an activity that was already rewarding.
 
@@ -38,13 +39,15 @@ In [[essentials-control-your-brain-chemistry-for-focus-motivation-well-being-sci
 - Dopamine dynamics: [[leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288]] adds baseline, peak, trough, anticipation, reward-prediction, and effort-process mechanisms to the dopamine branch.
 - Safety and individualization: [[essentials-control-your-brain-chemistry-for-focus-motivation-well-being-scim6495209379]] warns about manipulating dopamine, serotonin, breathing, cold exposure, nicotine, and prescription-relevant pathways without context, while [[leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288]] adds warnings about stacking, addiction recovery, supplements, and cold-exposure timing.
 - Focus-specific mapping: [[focus-toolkit-tools-to-improve-your-focus-concentration-scim5273827033]] uses epinephrine, acetylcholine, and dopamine to distinguish alertness, target selection, and persistence, then orders behavior and nutrition before supplements and clinician-supervised drugs.
+- Full-length provenance: [[optimize-control-your-brain-chemistry-to-improve-health-performance-scim8855428946]] supplies the original phase model, four-chemical framework, behavioral-first ordering, and individualized-experiment boundary later compressed by the Essentials edit.
 
 ## Counterevidence & Qualifications
 This page summarizes practical neuroscience episodes, not a complete clinical neuroscience model. The arrow metaphor simplifies interacting systems and does not show that any one transmitter maps exclusively onto one mental function. The sources do not establish universal dosing, medication decisions, supplement safety, addiction treatment, cold-exposure suitability, or a guarantee that a given behavioral tool will move a person's state in the intended direction.
 
 ## What Changed
-- Added the focus-specific distinction among alertness, target selection, and persistence.
-- Added the behavior-first ordering while qualifying the arrow metaphor as pedagogical.
+- Added the full-length episode as the underlying provenance for the later Essentials edit.
+- Clarified that the full and condensed versions are overlapping presentations, not independent replication.
+- Preserved the behavior-first, baseline-sensitive judgment and the focus-specific alertness-selection-persistence distinction.
 
 ## Related Concepts
 - [[DopamineToolTiming]] - dopamine-specific branch for motivation tools and timing.

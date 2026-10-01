@@ -3370,6 +3370,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [210. London: Places (Part 2)](sources/210-london-places-part-2-glt8561271853.md) — The Rest Is History pairing of Barking Abbey's female scholarly history with the 2i's Coffee Bar's role in skiffle and early British pop.
 - [209. Londinium (Part 1)](sources/209-londinium-part-1-glt8659020002.md) — The Rest Is History walking tour of Roman London's geographic rise, Boudiccan destruction, civic and religious archaeology, fragmentary survival, and late decline.
 
+- [Optimize & Control Your Brain Chemistry to Improve Health & Performance](sources/optimize-control-your-brain-chemistry-to-improve-health-performance-scim8855428946.md) — Huberman Lab solo episode on dopamine, epinephrine, acetylcholine, serotonin, daily-state timing, behavioral foundations, and medical boundaries.
+
 ## Entities
 - [Stanley Baldwin](entities/StanleyBaldwin.md) — British prime minister associated with interwar parliamentary stability, rural-suburban imagery, and a later comic family portrait.
 - [Robert Colls](entities/RobertColls.md) — Historian and author interpreting Orwell through empire, class, Englishness, socialism, anti-communism, and literary politics.

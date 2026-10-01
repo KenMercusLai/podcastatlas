@@ -26514,3 +26514,11 @@ Added source `207-historical-love-island-the-winner-glt4172810067`; created `Sta
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | Optimize & Control Your Brain Chemistry to Improve Health & Performance
+
+Added source `optimize-control-your-brain-chemistry-to-improve-health-performance-scim8855428946`; and resynthesized `NeuromodulatorStateToolkit`, `DopamineToolTiming`, `EpinephrineAlertnessToolkit`, `AcetylcholineFocusSupport`, and `SerotoninSocialWellbeingTools` from their complete preserved evidence inventories. Core synthesis: dopamine, epinephrine, acetylcholine, and serotonin are best treated as interacting, baseline- and timing-sensitive state systems, with behavioral foundations preceding stronger nutritional, supplement, or prescription levers. No settled contradiction was adopted. The full episode is the underlying provenance for a later Essentials edit rather than independent replication, and its transmitter mappings, study interpretations, protocols, doses, and host self-experiments remain source-scoped public education rather than individualized guidance. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,315-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
