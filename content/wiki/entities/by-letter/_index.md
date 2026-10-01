@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 11721
+wiki_total_pages: 11725
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -935,6 +935,9 @@ wiki_pages:
   - key: "AmericanBitcoin"
     title: "American Bitcoin"
     url: "/wiki/entities/americanbitcoin/"
+  - key: "AmericanCivilWar"
+    title: "American Civil War"
+    url: "/wiki/entities/americancivilwar/"
   - key: "AmericanEconomicAssociation"
     title: "American Economic Association"
     url: "/wiki/entities/americaneconomicassociation/"

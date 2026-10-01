@@ -1329,6 +1329,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "202-american-civil-war-gettysburg-part-3-glt5256515778": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "2026-ai-youxi-quanjing-saomiao-si-ceng-tujing-san-da-wuqu-yi-ge-gongshi-quekou-duitan-405-youju-xiaoning-lgk71gytqtsvkc-wipz0hkzkemne": [
     {
       "key": "technology",
@@ -21560,6 +21567,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "ConfederateCostImpositionStrategy": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "ConfessionalCommonwealth": [

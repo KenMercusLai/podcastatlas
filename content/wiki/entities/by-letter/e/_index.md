@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 11721
+wiki_total_pages: 11725
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -320,6 +320,9 @@ wiki_pages:
   - key: "Elys"
     title: "Elys"
     url: "/wiki/entities/elys/"
+  - key: "EmancipationProclamation"
+    title: "Emancipation Proclamation"
+    url: "/wiki/entities/emancipationproclamation/"
   - key: "EmbeddedPodcast"
     title: "Embedded podcast"
     url: "/wiki/entities/embeddedpodcast/"

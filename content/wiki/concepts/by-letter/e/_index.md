@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 9076
+wiki_total_pages: 9079
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -623,6 +623,9 @@ wiki_pages:
   - key: "EnjoymentVsPleasure"
     title: "Enjoyment Vs Pleasure"
     url: "/wiki/concepts/enjoymentvspleasure/"
+  - key: "EnslavedSelfEmancipation"
+    title: "Enslaved Self-Emancipation"
+    url: "/wiki/concepts/enslavedselfemancipation/"
   - key: "EnterpriseAgentControlLayer"
     title: "Enterprise Agent Control Layer"
     url: "/wiki/concepts/enterpriseagentcontrollayer/"

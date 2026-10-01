@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 11721
+wiki_total_pages: 11725
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -797,6 +797,9 @@ wiki_pages:
   - key: "SichuanChanghong"
     title: "Sichuan Changhong"
     url: "/wiki/entities/sichuanchanghong/"
+  - key: "SiegeOfVicksburg"
+    title: "Siege of Vicksburg"
+    url: "/wiki/entities/siegeofvicksburg/"
   - key: "Siemens"
     title: "Siemens / 西门子"
     url: "/wiki/entities/siemens/"

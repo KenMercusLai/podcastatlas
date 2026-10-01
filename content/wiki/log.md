@@ -26562,3 +26562,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | 202. American Civil War: Gettysburg (Part 3)
+
+Added source `202-american-civil-war-gettysburg-part-3-glt5256515778`; created `AmericanCivilWar`, `BattleOfGettysburg`, `SiegeOfVicksburg`, `EmancipationProclamation`, `BlackUnionMilitaryServiceCitizenship`, `EnslavedSelfEmancipation`, and `ConfederateCostImpositionStrategy`; and resynthesized `AdamIPSmith`, `AbrahamLincoln`, `RobertELee`, and `UlyssesSGrant` from their complete preserved evidence inventories. Core synthesis: Gettysburg and Vicksburg sharply narrowed Confederate prospects without making victory automatic; Confederate strategy still depended on exhausting Northern political will, while emancipation emerged through federal policy, Black military service, and enslaved people's own action. No settled contradiction was adopted. Turning-point language, Pickett's Charge counterfactuals, Lee's objectives, troop and enlistment totals, battlefield dialogue, the 1864 electoral counterfactual, and the causal weight of Atlanta remain interpretive, approximate, or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,321-source coverage; no topic claim set was dirty and global compaction was not due. Identity, knowledge-schema, whitespace, health, synthesis, index coverage, and publish validation passed; the repository-wide scanner still reports 14 unrelated pre-existing broken wikilinks.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -3376,8 +3376,13 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Optimize & Control Your Brain Chemistry to Improve Health & Performance](sources/optimize-control-your-brain-chemistry-to-improve-health-performance-scim8855428946.md) — Huberman Lab solo episode on dopamine, epinephrine, acetylcholine, serotonin, daily-state timing, behavioral foundations, and medical boundaries.
 - [203. American Civil War: Aftermath & Legacy (Part 4)](sources/203-american-civil-war-aftermath-legacy-part-4-glt3990109453.md) — The Rest Is History episode on Appomattox, Lincoln's assassination, Reconstruction, the Fourteenth Amendment, Lost Cause memory, and modern polarization.
+- [202. American Civil War: Gettysburg (Part 3)](sources/202-american-civil-war-gettysburg-part-3-glt5256515778.md) — The Rest Is History episode on Gettysburg, Vicksburg, the Gettysburg Address, Black military service, self-emancipation, the 1864 election, and Appomattox.
 
 ## Entities
+- [American Civil War](entities/AmericanCivilWar.md) — Union-Confederate conflict interpreted through political endurance, paired 1863 turning points, emancipation, Black agency, and unresolved postwar meaning.
+- [Battle of Gettysburg](entities/BattleOfGettysburg.md) — Three-day 1863 battle shaped by encounter, intelligence, terrain, failed central assault, strategic reversal, and later national memory.
+- [Siege of Vicksburg](entities/SiegeOfVicksburg.md) — Grant's Mississippi victory that divided Confederate territory and formed the geographic half of the paired July 1863 turning point.
+- [Emancipation Proclamation](entities/EmancipationProclamation.md) — Lincoln's wartime policy hinge connecting Union victory, slavery's destruction, Black enlistment, and military enforcement.
 - [Abraham Lincoln](entities/AbrahamLincoln.md) — Union president whose assassination removed a skilled postwar leader and fixed his memory as a national martyr.
 - [Robert E. Lee](entities/RobertELee.md) — Confederate commander whose Appomattox surrender and resources explanation shaped contested Lost Cause memory.
 - [Ulysses S. Grant](entities/UlyssesSGrant.md) — Union commander whose lenient Appomattox terms ended fighting without settling postwar racial politics.
@@ -15135,6 +15140,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lucile Desmoulins](entities/LucileDesmoulins.md) — Camille Desmoulins's wife, falsely implicated in a prison plot and executed after the Dantonist trial.
 
 ## Concepts
+- [Black Union Military Service and Citizenship](concepts/BlackUnionMilitaryServiceCitizenship.md) — Link among African American enlistment, military capacity, unequal treatment, racial violence, sacrifice, and claims to political membership.
+- [Enslaved Self-Emancipation](concepts/EnslavedSelfEmancipation.md) — Enslaved people's flight, labor withdrawal, resistance, and pressure on Union policy during slavery's wartime collapse.
+- [Confederate Cost-Imposition Strategy](concepts/ConfederateCostImpositionStrategy.md) — Route to independence through casualties, morale, invasion, and elections making continued Union war politically intolerable.
 - [Reconstruction Constitutional Afterlife](concepts/ReconstructionConstitutionalAfterlife.md) — Survival of citizenship and equality principles after Reconstruction's political coalition and protective capacity collapsed.
 - [Civil War Memory and Political Afterlife](concepts/CivilWarMemoryPoliticalAfterlife.md) — Persistence of Civil War conflicts through commemoration, popular culture, party alignment, and disputes over race, citizenship, and authority.
 - [Lost Cause Myth](concepts/LostCauseMyth.md) — Confederate memory that replaces slavery and rebellion with honor, states' rights, resource imbalance, and white victimhood.

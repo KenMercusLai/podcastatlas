@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 9076
+wiki_total_pages: 9079
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -485,6 +485,9 @@ wiki_pages:
   - key: "BlackTruffleMassMarketization"
     title: "Black Truffle Mass-Marketization / 黑松露大众化"
     url: "/wiki/concepts/blacktrufflemassmarketization/"
+  - key: "BlackUnionMilitaryServiceCitizenship"
+    title: "Black Union Military Service and Citizenship"
+    url: "/wiki/concepts/blackunionmilitaryservicecitizenship/"
   - key: "BlankChequeAllianceEscalation"
     title: "Blank-Cheque Alliance Escalation"
     url: "/wiki/concepts/blankchequeallianceescalation/"

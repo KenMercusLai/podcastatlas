@@ -4836,9 +4836,9 @@
       "url": "/wiki/entities/abrahambeame/"
     },
     "AbrahamLincoln": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3990109453 [GLT3990109453].md",
@@ -4846,6 +4846,13 @@
           "show": "The Rest Is History",
           "title": "203. American Civil War: Aftermath & Legacy (Part 4)",
           "url": "/wiki/sources/203-american-civil-war-aftermath-legacy-part-4-glt3990109453/"
+        },
+        {
+          "episode_file": "GLT5256515778 [GLT5256515778].md",
+          "key": "202-american-civil-war-gettysburg-part-3-glt5256515778",
+          "show": "The Rest Is History",
+          "title": "202. American Civil War: Gettysburg (Part 3)",
+          "url": "/wiki/sources/202-american-civil-war-gettysburg-part-3-glt5256515778/"
         }
       ],
       "updated": "2026-10-01",
@@ -5667,9 +5674,9 @@
       "url": "/wiki/entities/adamgrant/"
     },
     "AdamIPSmith": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT1619660676 [GLT1619660676].md",
@@ -5698,6 +5705,13 @@
           "show": "The Rest Is History",
           "title": "203. American Civil War: Aftermath & Legacy (Part 4)",
           "url": "/wiki/sources/203-american-civil-war-aftermath-legacy-part-4-glt3990109453/"
+        },
+        {
+          "episode_file": "GLT5256515778 [GLT5256515778].md",
+          "key": "202-american-civil-war-gettysburg-part-3-glt5256515778",
+          "show": "The Rest Is History",
+          "title": "202. American Civil War: Gettysburg (Part 3)",
+          "url": "/wiki/sources/202-american-civil-war-gettysburg-part-3-glt5256515778/"
         }
       ],
       "updated": "2026-10-01",
@@ -9557,6 +9571,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/ambientvoiceagentinterface/"
+    },
+    "AmericanCivilWar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5256515778 [GLT5256515778].md",
+          "key": "202-american-civil-war-gettysburg-part-3-glt5256515778",
+          "show": "The Rest Is History",
+          "title": "202. American Civil War: Gettysburg (Part 3)",
+          "url": "/wiki/sources/202-american-civil-war-gettysburg-part-3-glt5256515778/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/americancivilwar/"
     },
     "AmericanCulturalExports": {
       "episode_count": 3,
@@ -18577,6 +18607,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/concepts/battleofedington/"
     },
+    "BattleOfGettysburg": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5256515778 [GLT5256515778].md",
+          "key": "202-american-civil-war-gettysburg-part-3-glt5256515778",
+          "show": "The Rest Is History",
+          "title": "202. American Civil War: Gettysburg (Part 3)",
+          "url": "/wiki/sources/202-american-civil-war-gettysburg-part-3-glt5256515778/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/battleofgettysburg/"
+    },
     "BattleOfHastings": {
       "episode_count": 1,
       "show_count": 1,
@@ -21407,6 +21453,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/concepts/blacktrufflemassmarketization/"
+    },
+    "BlackUnionMilitaryServiceCitizenship": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5256515778 [GLT5256515778].md",
+          "key": "202-american-civil-war-gettysburg-part-3-glt5256515778",
+          "show": "The Rest Is History",
+          "title": "202. American Civil War: Gettysburg (Part 3)",
+          "url": "/wiki/sources/202-american-civil-war-gettysburg-part-3-glt5256515778/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/blackunionmilitaryservicecitizenship/"
     },
     "Blackmores": {
       "episode_count": 1,
@@ -37854,6 +37916,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/concepts/conditionedphysiologicalresponses/"
+    },
+    "ConfederateCostImpositionStrategy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5256515778 [GLT5256515778].md",
+          "key": "202-american-civil-war-gettysburg-part-3-glt5256515778",
+          "show": "The Rest Is History",
+          "title": "202. American Civil War: Gettysburg (Part 3)",
+          "url": "/wiki/sources/202-american-civil-war-gettysburg-part-3-glt5256515778/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/confederatecostimpositionstrategy/"
     },
     "ConfessionalCommonwealth": {
       "episode_count": 1,
@@ -54549,6 +54627,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/eloncomputeplatform/"
     },
+    "EmancipationProclamation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5256515778 [GLT5256515778].md",
+          "key": "202-american-civil-war-gettysburg-part-3-glt5256515778",
+          "show": "The Rest Is History",
+          "title": "202. American Civil War: Gettysburg (Part 3)",
+          "url": "/wiki/sources/202-american-civil-war-gettysburg-part-3-glt5256515778/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/emancipationproclamation/"
+    },
     "EmbarrassmentTrustSignal": {
       "episode_count": 1,
       "show_count": 1,
@@ -58236,6 +58330,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/enochsontonga/"
+    },
+    "EnslavedSelfEmancipation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5256515778 [GLT5256515778].md",
+          "key": "202-american-civil-war-gettysburg-part-3-glt5256515778",
+          "show": "The Rest Is History",
+          "title": "202. American Civil War: Gettysburg (Part 3)",
+          "url": "/wiki/sources/202-american-civil-war-gettysburg-part-3-glt5256515778/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/enslavedselfemancipation/"
     },
     "EnterpriseAIPilotPurgatory": {
       "episode_count": 6,
@@ -157871,9 +157981,9 @@
       "url": "/wiki/entities/robertcolls/"
     },
     "RobertELee": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3990109453 [GLT3990109453].md",
@@ -157881,6 +157991,13 @@
           "show": "The Rest Is History",
           "title": "203. American Civil War: Aftermath & Legacy (Part 4)",
           "url": "/wiki/sources/203-american-civil-war-aftermath-legacy-part-4-glt3990109453/"
+        },
+        {
+          "episode_file": "GLT5256515778 [GLT5256515778].md",
+          "key": "202-american-civil-war-gettysburg-part-3-glt5256515778",
+          "show": "The Rest Is History",
+          "title": "202. American Civil War: Gettysburg (Part 3)",
+          "url": "/wiki/sources/202-american-civil-war-gettysburg-part-3-glt5256515778/"
         }
       ],
       "updated": "2026-10-01",
@@ -167097,6 +167214,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/siegeoftoulon/"
+    },
+    "SiegeOfVicksburg": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5256515778 [GLT5256515778].md",
+          "key": "202-american-civil-war-gettysburg-part-3-glt5256515778",
+          "show": "The Rest Is History",
+          "title": "202. American Civil War: Gettysburg (Part 3)",
+          "url": "/wiki/sources/202-american-civil-war-gettysburg-part-3-glt5256515778/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/siegeofvicksburg/"
     },
     "SigmundFreud": {
       "episode_count": 2,
@@ -186074,9 +186207,9 @@
       "url": "/wiki/concepts/ultrasoundexampreparationandsafety/"
     },
     "UlyssesSGrant": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3990109453 [GLT3990109453].md",
@@ -186084,6 +186217,13 @@
           "show": "The Rest Is History",
           "title": "203. American Civil War: Aftermath & Legacy (Part 4)",
           "url": "/wiki/sources/203-american-civil-war-aftermath-legacy-part-4-glt3990109453/"
+        },
+        {
+          "episode_file": "GLT5256515778 [GLT5256515778].md",
+          "key": "202-american-civil-war-gettysburg-part-3-glt5256515778",
+          "show": "The Rest Is History",
+          "title": "202. American Civil War: Gettysburg (Part 3)",
+          "url": "/wiki/sources/202-american-civil-war-gettysburg-part-3-glt5256515778/"
         }
       ],
       "updated": "2026-10-01",
