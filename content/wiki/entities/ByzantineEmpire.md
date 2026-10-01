@@ -10,7 +10,8 @@ sources:
   - 219-justinian-making-rome-great-again-part-2-glt2369595847
   - 218-theodora-empress-of-byzantium-part-1-glt5957583440
   - 157-byzantium-and-the-ghosts-of-rome-glt1014708592
-last_updated: 2026-10-01
+  - 156-when-did-the-roman-empire-fall-glt4933356600
+last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
 
@@ -22,7 +23,7 @@ The Byzantine Empire appears in the wiki as the continuing eastern Roman state: 
 
 ## Current Profile
 
-The modern label “Byzantine” should not obscure the polity's own Roman identity. [[Constantinople]] was designed as a new Rome and combined strategic geography, fortification, water infrastructure, court, Senate, people, Christianity, commerce, and Hippodrome politics. Anastasius's treasury and stable gold currency also make the state inherited by Justin and [[JustinianI]] look capable rather than terminally decadent.
+The modern label “Byzantine” should not obscure the polity's own Roman identity. [[Constantinople]] was founded in 330 as a new Rome and combined strategic geography, fortification, water infrastructure, court, Senate, people, Christianity, commerce, and Hippodrome politics. After the permanent eastern-western division from 395, the richer eastern half retained state capacity; after 476, [[Odoacer]] still sought its emperor's recognition. Anastasius's treasury and stable gold currency later make the state inherited by Justin and [[JustinianI]] look capable rather than terminally decadent.
 
 Under Justinian, the empire joined law, taxation, doctrine, court ritual, and war in a project of Christian Roman restoration. The [[NikaRiots|Nika riots]] exposed the danger of concentrated grievance across factions, residents, and senators, but massacre and elite punishment converted near-collapse into stronger monarchy. Rebuilding [[HagiaSophia|Hagia Sophia]] expressed that settlement through Roman engineering and Christian sacred space. The empire then recovered the [[VandalKingdom]]'s North African territories and parts of Italy, while destructive war, Persian pressure, and the [[JustinianicPlague]] turned territorial restoration into a crisis of taxpayers, soldiers, infrastructure, and frontier defense.
 
@@ -54,16 +55,18 @@ The court's Roman self-identification made titles and marriage matters of sovere
 - Seventh-century transformation - [[157-byzantium-and-the-ghosts-of-rome-glt1014708592]] joins Heraclius's Persian victory to Yarmouk, Arab conquest, economic and demographic strain, and a smaller Greek-speaking Christian empire.
 - Roman continuity and rival claims - [[157-byzantium-and-the-ghosts-of-rome-glt1014708592]] emphasizes continuing Roman self-identification and anger at Charlemagne's western imperial claim.
 - Layered endings - [[157-byzantium-and-the-ghosts-of-rome-glt1014708592]] distinguishes the 1204 sack, the 1453 loss of Constantinople, and Trebizond's fall in 1461.
+- Pre-476 continuity - [[156-when-did-the-roman-empire-fall-glt4933356600]] connects the 395 division, the east's greater resources, and Constantinople's strategic role to a durable eastern state.
+- Western recognition - [[156-when-did-the-roman-empire-fall-glt4933356600]] says Odoacer returned the western insignia and acknowledged Constantinopolitan imperial authority.
 
 ## Qualifications
 
-The profile is episodic rather than comprehensive. The sources cover Constantinople and Justinian's reign, Ceuta's long border history, tenth-century Ottonian diplomacy, Harald's eleventh-century service, and one fast survey of seventh-century transformation and later afterlives. The three Justinian episodes are adjacent parts of one series rather than independent corroboration. Population and world-city rankings, Procopius's speeches, allegations, and casualty figures; plague mortality; Theodora's influence; Theophano's personal role; Harald's itinerary; the scale of seventh-century economic collapse; the “nation state” analogy; and Ottoman succession claims all require source criticism. Multiple rupture and ending dates prevent both an unchanged-continuity story and a straight-line collapse narrative.
+The profile is episodic rather than comprehensive. The sources cover western collapse, Constantinople and Justinian's reign, Ceuta's long border history, tenth-century Ottonian diplomacy, Harald's eleventh-century service, and one fast survey of seventh-century transformation and later afterlives. The three Justinian episodes are adjacent parts of one series rather than independent corroboration. Population and world-city rankings, Procopius's speeches, allegations, and casualty figures; plague mortality; Theodora's influence; Theophano's personal role; Harald's itinerary; the scale of seventh-century economic collapse; the “nation state” analogy; and Ottoman succession claims all require source criticism. Roman self-identification supports continuity without implying an unchanged state, while multiple rupture and ending dates prevent a straight-line collapse narrative.
 
 ## What Changed
 
-- Made Roman self-identification, Constantinople's strategic-infrastructural base, and the strong pre-Justinian state explicit.
-- Added the seventh-century contraction as transformation without loss of Roman self-identification.
-- Distinguished 1204, 1453, and 1461 as interruption, symbolic ending, and strict territorial endpoint.
+- Extended the profile backward through the 395 division and western deposition in 476.
+- Added Odoacer's recognition of Constantinopolitan authority as evidence of eastern Roman continuity.
+- Clarified that Roman self-identification and institutional continuity do not require an unchanged empire.
 
 ## Relationships
 
@@ -83,3 +86,5 @@ The profile is episodic rather than comprehensive. The sources cover Constantino
 - [[Heraclius]] - emperor whose victories and losses expose the seventh-century transformation.
 - [[Charlemagne]] - western emperor whose coronation challenged exclusive Byzantine Roman legitimacy.
 - [[MehmedII]] - conqueror of Constantinople in 1453 and qualified Roman successor claimant.
+- [[Odoacer]] - western successor ruler whose eastern recognition confirms continuing Constantinopolitan authority.
+- [[RomanImperialFallPeriodization]] - framework separating western deposition from later eastern transformations and endings.

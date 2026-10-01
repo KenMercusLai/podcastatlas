@@ -27143,3 +27143,11 @@ Added source `how-to-enhance-your-gut-microbiome-for-brain-overall-health-scim17
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | 156. When Did the Roman Empire Fall?
+
+Added source `156-when-did-the-roman-empire-fall-glt4933356600`; created `RomulusAugustulus`, `Odoacer`, and `RomanImperialFallPeriodization`; and resynthesized `RomanEmpire`, `Constantinople`, `ByzantineEmpire`, `JustinianI`, `ThirdCenturyCrisis`, `ImperialRestorationParadox`, and `RomanImperialLegitimacy` from their complete preserved evidence inventories. Core synthesis: Rome's fall depends on the institution being measured—395, 410, 476/480, Justinianic reconquest, and later eastern endings mark different ruptures—while Odoacer's Constantinopolitan recognition and continuing Roman institutions qualify 476 without making it meaningless. No settled contradiction was adopted. Ancient reactions, ordinary inhabitants' awareness, precise causal weights, and the claim that reconquest marks the true end of Roman Italy remain interpretive or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,391-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed; the corpus-wide link scan retained 14 pre-existing broken links outside this ingest's changed pages.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

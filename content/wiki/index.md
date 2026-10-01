@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [How to Enhance Your Gut Microbiome for Brain & Overall Health](sources/how-to-enhance-your-gut-microbiome-for-brain-overall-health-scim1762541394.md) — Huberman Lab solo episode on gut-brain neural and hormonal signaling, microbiome ecology, fermented-food evidence, and intervention limits.
+- [156. When Did the Roman Empire Fall?](sources/156-when-did-the-roman-empire-fall-glt4933356600.md) — The Rest Is History on layered Roman endings, the qualified 476 endpoint, eastern continuity, and Justinianic restoration as destruction.
 - [157. Byzantium and the Ghosts of Rome](sources/157-byzantium-and-the-ghosts-of-rome-glt1014708592.md) — The Rest Is History on seventh-century Byzantine transformation, Roman self-identity, layered imperial endings, western and Moscow succession, and apocalyptic afterlives.
 - [158. Killer Fashion](sources/158-killer-fashion-glt5960489800.md) — The Rest Is History with Alison Matthews David on flammable and restrictive dress, toxic fashion materials, worker exposure, uneven regulation, and the limits of blaming wearers.
 - [159. Young Putin, the KGB and the Soviet Union](sources/159-young-putin-the-kgb-and-the-soviet-union-glt7336670203.md) — The Rest Is History on Putin's Soviet and KGB formation, Russian exceptionalism, late-Soviet stagnation, Gorbachev's reforms, and the destabilizing risks of partial opening.
@@ -3577,7 +3578,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Metropolitan Railway](entities/MetropolitanRailway.md) — Early underground railway that integrated route expansion, surplus-land development, publicity, and suburban demand.
 - [Metroland](entities/Metroland.md) — Railway-branded northwest London corridor that became shorthand for commuter aspiration, nostalgia, and class anxiety.
 - [Kyle Harper](entities/KyleHarper.md) — Historian connecting Roman decline to climate, disease ecology, demography, connectivity, and state capacity within a multi-causal model.
-- [Constantinople](entities/Constantinople.md) — Eastern Roman capital whose geography, infrastructure, institutions, Christianity, and Hippodrome politics sustained imperial power.
+- [Constantinople](entities/Constantinople.md) — Eastern Roman capital whose strategic geography, infrastructure, institutions, and post-476 authority sustained Roman continuity.
 - [Jake Paul](entities/JakePaul.md) — Creator, boxer, promoter, investor, and philanthropist connecting audience reach to a cross-domain business flywheel.
 - [The Chainsmokers](entities/TheChainsmokers.md) — Music partnership extending internet-native distribution and brand experience into venture capital.
 - [Drew Taggart](entities/DrewTaggart.md) — Chainsmokers member and Mantis co-founder whose music and investment roles are presented jointly with Alex Pall.
@@ -3588,7 +3589,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Most Valuable Promotions](entities/MostValuablePromotions.md) — Jake Paul combat-sports promotion and representation company built around distribution and fighter economics.
 - [Professional Fighters League](entities/ProfessionalFightersLeague.md) — MMA organization linked to MVP and positioned in the source as a challenger to UFC economics.
 - [Hagia Sophia](entities/HagiaSophia.md) — Justinianic church joining Roman engineering, Christian sacred authority, and post-Nika monumental reconstruction.
-- [Justinian I](entities/JustinianI.md) — Eastern Roman emperor whose law, building, and reconquest achievements were shadowed by destructive war, plague, and overextension.
+- [Justinian I](entities/JustinianI.md) — Eastern Roman emperor whose restoration joined law and building to destructive war, plague, and the civic ending of Roman Italy.
 - [Theodora](entities/Theodora.md) — Eastern Roman empress remembered through political partnership, religious patronage, women's reform traditions, and hostile testimony.
 - [Belisarius](entities/Belisarius.md) — Justinian's leading general, victor over the Vandals and politically exposed commander of the Italian campaign.
 - [Procopius](entities/Procopius.md) — Historian whose public praise and secret invective create a central source-critical problem for Justinian's reign.
@@ -5695,7 +5696,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gibraltar / 直布罗陀](entities/Gibraltar.md) — European-side strait counterpart to Ceuta, tied to Islamic-conquest naming and later British control in the source.
 - [Iberian Peninsula / 伊比利亚半岛](entities/IberianPeninsula.md) — Regional setting connecting Spain, Portugal, al-Andalus, Reconquista, and Ceuta's North African crossing field.
 - [Vandal Kingdom / 汪达尔王国](entities/VandalKingdom.md) — Late-antique North African polity that disrupted Roman networks and forms one Ceuta control layer.
-- [Byzantine Empire / 拜占庭帝国](entities/ByzantineEmpire.md) — Eastern Roman power that reconquered North Africa and held Ceuta as a far-western frontier.
+- [Byzantine Empire / 拜占庭帝国](entities/ByzantineEmpire.md) — Continuing eastern Roman state whose identity and authority survived western deposition and later territorial contractions.
 - [al-Andalus / 安达卢斯](entities/AlAndalus.md) — Islamic Iberian world connected to Ceuta, North Africa, Cordoba, and the later Reconquista frame.
 - [Cordoba Caliphate / 科尔多瓦哈里发国](entities/CordobaCaliphate.md) — Iberian Islamic polity and cultural center that extended influence to Ceuta and Melilla.
 - [al-Idrisi / 伊德里希](entities/AlIdrisi.md) — Ceuta-born medieval geographer used to show the city's role in Mediterranean knowledge circulation.
@@ -11713,7 +11714,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Thomas Paine / 托马斯·潘恩](entities/ThomasPaine.md) — Transatlantic republican whose mass persuasion for American independence coexisted with opposition to revolutionary execution in France.
 - [Julius Caesar / 尤利乌斯·恺撒](entities/JuliusCaesar.md) — Roman commander, reformer, and dictator whose military prestige, clemency, monarchy signals, assassination, and disputed Alexandrian-library role shaped competing legacies.
 - [Roman Republic / 罗马共和国](entities/RomanRepublic.md) — Expansionary polity whose civic-military capacity, command crisis, failed post-Caesar settlement, and triumviral defeat expose both republican strength and collapse.
-- [Roman Empire / 罗马帝国](entities/RomanEmpire.md) — Imperial order traced from republican collapse and provincial conquest through Eastern Han contact and Diocletianic crisis reconstruction.
+- [Roman Empire / 罗马帝国](entities/RomanEmpire.md) — Imperial order whose western office, civic institutions, legitimacy, and eastern state transformed or ended at different times.
+- [Romulus Augustulus](entities/RomulusAugustulus.md) — Young western emperor whose deposition in 476 is a real but qualified endpoint for Roman rule.
+- [Odoacer](entities/Odoacer.md) — Italian ruler who ended western emperorship while seeking recognition from Constantinople and retaining Roman institutions.
 - [阿提拉 / Attila the Hun](entities/AttilaTheHun.md) — Hunnic leader used in Hanji 764 as the remembered late figure in the qualified migration-pressure chain from steppe displacement to Roman crisis.
 - [Assassination of Julius Caesar / 恺撒遇刺](entities/CaesarAssassination.md) — Public Ides of March tyrannicide planned without a political settlement and followed by funeral backlash, triumviral rule, and Philippi.
 - [Marcus Brutus / 马库斯·布鲁图斯](entities/MarcusBrutus.md) — Pardoned republican conspirator whose ancestry, Cato connection, symbolic authority, failed city control, eastern coercion, and death at Philippi complicate the liberator memory.
@@ -15463,7 +15466,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Celebrity Operational Capital](concepts/CelebrityOperationalCapital.md) — Public reach, relationships, brand skill, and direct distribution treated as company-building resources subject to performance proof.
 - [Justinianic Plague](concepts/JustinianicPlague.md) — Sixth-century pandemic understood through its fiscal, military, urban, and geopolitical effects.
 - [Nika Riots](concepts/NikaRiots.md) — Constantinopolitan coalition revolt transformed by massacre, elite punishment, and rebuilding into stronger Justinianic rule.
-- [Imperial Restoration Paradox](concepts/ImperialRestorationParadox.md) — Pattern in which recovering a former order damages the institutions and capacity needed to sustain it.
+- [Imperial Restoration Paradox](concepts/ImperialRestorationParadox.md) — Pattern in which recovering a former order damages or ends the institutions and capacity being restored.
 - [Grand Tour Culture](concepts/GrandTourCulture.md) — Elite travel system joining education, classical encounter, collecting, social polish, pleasure, and status display.
 - [Georgian Health Resort Formation](concepts/GeorgianHealthResortFormation.md) — Conversion of spa and seaside places into destinations through medical claims, architecture, sociability, patronage, and visitor services.
 - [Marginal Decade Backcasting](concepts/MarginalDecadeBackcasting.md) — Longevity-planning method that derives present capacity and reserve targets from desired late-life function.
@@ -16228,7 +16231,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Super-Slow Jogging / 超慢跑](concepts/SuperSlowJogging.md) — Low-intensity, conversational-effort jogging built around short steps, relatively high cadence, gradual progression, and low-friction repetition.
 - [Sacral Queenship and Regency](concepts/SacralQueenshipAndRegency.md) — Consecration, intercession, dynastic motherhood, and regency as institutional bases for medieval female political authority.
 - [Byzantine Court Culture Transfer](concepts/ByzantineCourtCultureTransfer.md) — Movement of ceremony, material display, habits, and political style from Constantinople into the Saxon court through Theophano.
-- [Roman Imperial Legitimacy](concepts/RomanImperialLegitimacy.md) — Contested post-Roman claims built through titles, military power, papal recognition, marriage, ritual, and control of Rome.
+- [Roman Imperial Legitimacy](concepts/RomanImperialLegitimacy.md) — Contested Roman continuity built through recognition, titles, military power, marriage, ritual, religion, and capitals.
+- [Roman Imperial Fall Periodization](concepts/RomanImperialFallPeriodization.md) — Framework separating western office, territorial, civic, religious, identity, and eastern-state endings.
 - [Millennial Roman Imperial Eschatology](concepts/MillennialRomanImperialEschatology.md) — Fusion of renewed universal Roman empire with last-emperor, Jerusalem, and Antichrist expectations.
 - [Western Dragon Cultural Synthesis](concepts/WesternDragonCulturalSynthesis.md) — Accretion of northern wyrm, classical drakon, Christian demon, medieval artistic, heraldic, and print traditions into the familiar Western dragon.
 - [Dragon as Dangerous Power](concepts/DragonAsDangerousPower.md) — Pattern linking dragons to corrupting hoards, political domination, catastrophic force, and anxiety about power's abuse.
@@ -24507,7 +24511,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Van Eyck Oil Layering](concepts/VanEyckOilLayering.md) — Technical mastery of translucent oil layers for luminous color, depth, texture, and material realism without an invention claim.
 
 - [Caffeine Behavioral Reinforcement](concepts/CaffeineBehavioralReinforcement.md) — Learned-preference model in which caffeine reinforces repeatedly paired tastes, products, contexts, people, and activities.
-- [Third-Century Crisis](concepts/ThirdCenturyCrisis.md) — Interacting Roman crisis of civil war, frontier pressure, disease, monetary disruption, and fiscal contraction that elevated military command.
+- [Third-Century Crisis](concepts/ThirdCenturyCrisis.md) — Interacting Roman crisis whose distance, frontier, disease, fiscal, and military pressures transformed rather than ended the empire.
 - [Tetrarchy](concepts/Tetrarchy.md) — Diocletian's four-ruler system, effective at distributed command but unstable as a non-dynastic succession settlement.
 - [Diocletianic Military-Fiscal Reconstruction](concepts/DiocletianicMilitaryFiscalReconstruction.md) — Late Roman package joining defense, taxation, administration, money, mobile court geography, and sacral monarchy.
 

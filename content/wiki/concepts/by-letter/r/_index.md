@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 9190
+wiki_total_pages: 9191
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -1166,6 +1166,9 @@ wiki_pages:
   - key: "RomanExpansionMoralAnxiety"
     title: "Roman Expansion Moral Anxiety / 罗马扩张的道德焦虑"
     url: "/wiki/concepts/romanexpansionmoralanxiety/"
+  - key: "RomanImperialFallPeriodization"
+    title: "Roman Imperial Fall Periodization"
+    url: "/wiki/concepts/romanimperialfallperiodization/"
   - key: "RomanImperialLegitimacy"
     title: "Roman Imperial Legitimacy"
     url: "/wiki/concepts/romanimperiallegitimacy/"

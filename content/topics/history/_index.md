@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2338
+topic_total_pages: 2340
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1126,6 +1126,9 @@ topic_concepts:
   - key: "RoleAttachmentPowerExit"
     title: "Role Attachment and Power Exit / 权力角色依附与退场"
     url: "/wiki/concepts/roleattachmentpowerexit/"
+  - key: "RomanImperialFallPeriodization"
+    title: "Roman Imperial Fall Periodization"
+    url: "/wiki/concepts/romanimperialfallperiodization/"
   - key: "RuleBreakingAbdication"
     title: "Rule-Breaking Abdication / 破坏规则式禅让"
     url: "/wiki/concepts/rulebreakingabdication/"
@@ -4791,6 +4794,9 @@ topic_sources:
   - key: "14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285"
     title: "14.武士威廉：大航海时代的日本和西方"
     url: "/wiki/sources/14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285/"
+  - key: "156-when-did-the-roman-empire-fall-glt4933356600"
+    title: "156. When Did the Roman Empire Fall?"
+    url: "/wiki/sources/156-when-did-the-roman-empire-fall-glt4933356600/"
   - key: "157-byzantium-and-the-ghosts-of-rome-glt1014708592"
     title: "157. Byzantium and the Ghosts of Rome"
     url: "/wiki/sources/157-byzantium-and-the-ghosts-of-rome-glt1014708592/"

@@ -11,12 +11,13 @@ sources:
   - 500-the-roman-conquest-of-britain-the-empire-strikes-back-part-2-glt3137178317
   - 260-croatia-the-man-who-saved-the-roman-empire-glt9631298578
   - 217-plague-and-the-decline-of-the-roman-empire-glt2583859060
-last_updated: 2026-10-01
+  - 156-when-did-the-roman-empire-fall-glt4933356600
+last_updated: 2026-10-02
 ---
 
 ## Overview
 
-The Roman Empire / 罗马帝国 appears in the wiki as the imperial order emerging after the [[RomanRepublic|Roman Republic]] crisis, the far-western [[DaQin|Da Qin]] sought by [[GanYingEasternHan|Gan Ying]], the system that conquered and consolidated [[RomanBritain]], and the polity remade by [[Diocletian]] after the [[ThirdCenturyCrisis]]. Its cities, armies, roads, shipping, grain supply, and trade also made imperial capacity a form of [[ImperialConnectivityDiseaseRisk|biological exposure]].
+The Roman Empire / 罗马帝国 appears in the wiki as the imperial order emerging after the [[RomanRepublic|Roman Republic]] crisis, the far-western [[DaQin|Da Qin]] sought by [[GanYingEasternHan|Gan Ying]], the system that conquered and consolidated [[RomanBritain]], and the polity repeatedly remade by crisis, divided government, Christianity, and the rise of [[Constantinople]]. Its western emperorship ended without every Roman institution or the eastern Roman state ending at the same moment.
 
 ## Current Profile
 
@@ -34,6 +35,8 @@ The Diocletian episode adds the survival-and-reconstruction layer. Third-century
 
 Episode 217 adds the biological-connectivity layer. Roman success concentrated population and joined regions through roads, ships, armies, grain movement, trade, and migration, but those systems also circulated ordinary infections and major pandemics. The [[AntoninePlague]] was a severe shock without immediate structural replacement; the [[PlagueOfCyprian]] compounded civil war, monetary disruption, food insecurity, and stronger enemies during the third-century transformation; and the [[JustinianicPlague]] weakened the later eastern empire's tax base, manpower, frontiers, and western momentum. Disease altered the conditions under which human institutions operated rather than replacing politics, war, class, and strategy as causes.
 
+Episode 156 reframes the empire's ending through [[RomanImperialFallPeriodization]]. The third-century crisis, Constantinople's foundation, Christianization, the fixed eastern-western division after 395, the sack of Rome in 410, and [[RomulusAugustulus|Romulus Augustulus]]'s deposition in 476 mark different failures or transformations. The western fiscal-military system lost force, grain, tax capacity, and territory, but [[Odoacer]] still acknowledged Constantinopolitan authority and Roman offices persisted in Italy. The [[ByzantineEmpire|eastern Roman state]] continued, while Justinianic reconquest later destroyed some of the civic infrastructure and institutions it claimed to restore.
+
 ## Key Characteristics
 
 - Imperial order emerging from the late Republic's institutional crisis, where tyrannicide removed Caesar without restoring the constraints on one-person rule.
@@ -42,7 +45,7 @@ Episode 217 adds the biological-connectivity layer. Roman success concentrated p
 - Provincial system that combines military infrastructure, fiscal administration, urbanization, and local-elite incorporation.
 - Legitimacy system in which commanders' victories can be converted into imperial triumph, public imagery, and ruler prestige.
 - Strategic but biologically exposed order whose cities and interregional logistics increased both imperial capacity and pathogen circulation.
-- Institutionally continuous polity in which the Tetrarchy failed as succession management while Diocletianic administrative reforms endured.
+- Layered political tradition whose western imperial office, Italian civic institutions, and eastern Roman state ended or transformed at different times.
 
 ## Evidence
 
@@ -62,16 +65,19 @@ Episode 217 adds the biological-connectivity layer. Roman success concentrated p
 - Connectivity and endemic burden: [[217-plague-and-the-decline-of-the-roman-empire-glt2583859060]] links dense cities, weak sanitation, animals, migration, roads, shipping, trade, grain, and armies to persistent disease exposure.
 - Pandemic differentiation: [[217-plague-and-the-decline-of-the-roman-empire-glt2583859060]] distinguishes the Antonine shock, the Cyprian crisis feedback, and the recurrent Justinianic pandemic rather than treating plague as one event.
 - State-capacity pathway: [[217-plague-and-the-decline-of-the-roman-empire-glt2583859060]] connects mortality to tax, recruitment, food, infrastructure, frontier, and legitimacy pressures while retaining war and political decisions as independent causes.
+- Layered endings: [[156-when-did-the-roman-empire-fall-glt4933356600]] distinguishes republican, administrative, religious, military, western dynastic, civic, and eastern Roman rupture points.
+- Qualified 476 endpoint: [[156-when-did-the-roman-empire-fall-glt4933356600]] connects Romulus's deposition to Julius Nepos's survival, Odoacer's eastern recognition, and continued Roman institutions in Italy.
+- Eastern continuity and restoration cost: [[156-when-did-the-roman-empire-fall-glt4933356600]] joins Constantinopolitan Roman identity to Justinianic reconquest and the destruction of surviving Italian structures.
 
 ## Qualifications
 
-This page is not a complete Roman Empire history. Each source covers a bounded transition, contact, frontier, conquest, reconstruction, or disease problem. The page treats Da Qin as the source's Roman Empire identification without settling every route debate, keeps the Northern-Xiongnu-to-Rome chain qualified, and does not treat temporary Roman penetration into Caledonia as permanent conquest. The Diocletian source's dating, anecdotes, price-policy assessment, and claims about Persian ceremonial influence remain source-scoped. Roman population and life-expectancy estimates, earlier-plague pathogens and mortality, migrant transmission, and the countryside reach of the Justinianic plague also remain uncertain; disease is treated as a compounding force, not a sufficient cause of imperial decline.
+This page is not a complete Roman Empire history. Each source covers a bounded transition, contact, frontier, conquest, reconstruction, disease, or periodization problem. The page treats Da Qin as the source's Roman Empire identification without settling every route debate, keeps the Northern-Xiongnu-to-Rome chain qualified, and does not treat temporary Roman penetration into Caledonia as permanent conquest. The Diocletian source's dating, anecdotes, price-policy assessment, and claims about Persian ceremonial influence remain source-scoped. Roman population and life-expectancy estimates, earlier-plague pathogens and mortality, migrant transmission, and the countryside reach of the Justinianic plague also remain uncertain. The new source supports 476 as a meaningful western-office marker, not as a sufficient date for every Roman ending.
 
 ## What Changed
 
-- Added connectivity as a dual-use imperial system: logistical capacity also increased biological exposure.
-- Distinguished the Antonine shock, Cyprian crisis feedback, and recurrent Justinianic pandemic.
-- Reframed disease as a pressure on state capacity that compounded rather than replaced political and military causes.
+- Added the distinction between the end of western emperorship and continued Roman institutions, legitimacy, and eastern state identity.
+- Integrated 395, 410, 476/480, and Justinianic reconquest as separate rupture points rather than one fall event.
+- Connected Constantinople's strategic rise to the empire's long institutional survival.
 
 ## Relationships
 
@@ -100,3 +106,8 @@ This page is not a complete Roman Empire history. Each source covers a bounded t
 - [[AntoninePlague]] - second-century pandemic shock that did not immediately replace the Augustan order.
 - [[PlagueOfCyprian]] - epidemic entangled with third-century political, monetary, military, and food crisis.
 - [[JustinianicPlague]] - recurrent sixth-century pandemic that weakened later imperial capacity.
+- [[RomanImperialFallPeriodization]] - framework separating western office, civic, territorial, identity, and eastern-state endings.
+- [[Constantinople]] - new capital through which strategic government and Roman identity continued.
+- [[RomulusAugustulus]] - deposed western emperor associated with the conventional 476 endpoint.
+- [[Odoacer]] - successor ruler who ended western emperorship while seeking eastern Roman recognition.
+- [[ByzantineEmpire]] - continuing eastern Roman state that prevents 476 from serving as a total imperial endpoint.

@@ -25153,9 +25153,9 @@
       "url": "/wiki/concepts/byzantinecourtculturetransfer/"
     },
     "ByzantineEmpire": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 2,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "lu8PaWNKiSeLmmrgubrEy4pq-4fw [lu8PaWNKiSeLmmrgubrEy4pq-4fw].md",
@@ -25205,9 +25205,16 @@
           "show": "The Rest Is History",
           "title": "157. Byzantium and the Ghosts of Rome",
           "url": "/wiki/sources/157-byzantium-and-the-ghosts-of-rome-glt1014708592/"
+        },
+        {
+          "episode_file": "GLT4933356600 [GLT4933356600].md",
+          "key": "156-when-did-the-roman-empire-fall-glt4933356600",
+          "show": "The Rest Is History",
+          "title": "156. When Did the Roman Empire Fall?",
+          "url": "/wiki/sources/156-when-did-the-roman-empire-fall-glt4933356600/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/byzantineempire/"
     },
     "CALB": {
@@ -39691,9 +39698,9 @@
       "url": "/wiki/entities/constantinethegreat/"
     },
     "Constantinople": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5957583440 [GLT5957583440].md",
@@ -39708,9 +39715,16 @@
           "show": "The Rest Is History",
           "title": "157. Byzantium and the Ghosts of Rome",
           "url": "/wiki/sources/157-byzantium-and-the-ghosts-of-rome-glt1014708592/"
+        },
+        {
+          "episode_file": "GLT4933356600 [GLT4933356600].md",
+          "key": "156-when-did-the-roman-empire-fall-glt4933356600",
+          "show": "The Rest Is History",
+          "title": "156. When Did the Roman Empire Fall?",
+          "url": "/wiki/sources/156-when-did-the-roman-empire-fall-glt4933356600/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/constantinople/"
     },
     "ConstantiusChlorus": {
@@ -94984,9 +94998,9 @@
       "url": "/wiki/concepts/imperialprivatedesiregovernancerisk/"
     },
     "ImperialRestorationParadox": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6795699757 [GLT6795699757].md",
@@ -95001,9 +95015,16 @@
           "show": "The Rest Is History",
           "title": "219. Justinian: Making Rome Great Again (Part 2)",
           "url": "/wiki/sources/219-justinian-making-rome-great-again-part-2-glt2369595847/"
+        },
+        {
+          "episode_file": "GLT4933356600 [GLT4933356600].md",
+          "key": "156-when-did-the-roman-empire-fall-glt4933356600",
+          "show": "The Rest Is History",
+          "title": "156. When Did the Roman Empire Fall?",
+          "url": "/wiki/sources/156-when-did-the-roman-empire-fall-glt4933356600/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/imperialrestorationparadox/"
     },
     "ImperialRetinueDiscipline": {
@@ -105514,9 +105535,9 @@
       "url": "/wiki/entities/justinsonnenburg/"
     },
     "JustinianI": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT6795699757 [GLT6795699757].md",
@@ -105538,9 +105559,16 @@
           "show": "The Rest Is History",
           "title": "218. Theodora: Empress of Byzantium (Part 1)",
           "url": "/wiki/sources/218-theodora-empress-of-byzantium-part-1-glt5957583440/"
+        },
+        {
+          "episode_file": "GLT4933356600 [GLT4933356600].md",
+          "key": "156-when-did-the-roman-empire-fall-glt4933356600",
+          "show": "The Rest Is History",
+          "title": "156. When Did the Roman Empire Fall?",
+          "url": "/wiki/sources/156-when-did-the-roman-empire-fall-glt4933356600/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/justiniani/"
     },
     "JustinianicPlague": {
@@ -139143,6 +139171,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/odin/"
     },
+    "Odoacer": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4933356600 [GLT4933356600].md",
+          "key": "156-when-did-the-roman-empire-fall-glt4933356600",
+          "show": "The Rest Is History",
+          "title": "156. When Did the Roman Empire Fall?",
+          "url": "/wiki/sources/156-when-did-the-roman-empire-fall-glt4933356600/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/odoacer/"
+    },
     "OdysseanLeadershipTrustFailure": {
       "episode_count": 1,
       "show_count": 1,
@@ -163923,9 +163967,9 @@
       "url": "/wiki/concepts/romaneliteleisure/"
     },
     "RomanEmpire": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 3,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
@@ -163975,9 +164019,16 @@
           "show": "The Rest Is History",
           "title": "217. Plague and the Decline of the Roman Empire",
           "url": "/wiki/sources/217-plague-and-the-decline-of-the-roman-empire-glt2583859060/"
+        },
+        {
+          "episode_file": "GLT4933356600 [GLT4933356600].md",
+          "key": "156-when-did-the-roman-empire-fall-glt4933356600",
+          "show": "The Rest Is History",
+          "title": "156. When Did the Roman Empire Fall?",
+          "url": "/wiki/sources/156-when-did-the-roman-empire-fall-glt4933356600/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/romanempire/"
     },
     "RomanExpansionMoralAnxiety": {
@@ -164026,10 +164077,26 @@
       "updated": "2026-10-01",
       "url": "/wiki/concepts/romanhellenisticimperialsynthesis/"
     },
-    "RomanImperialLegitimacy": {
-      "episode_count": 2,
+    "RomanImperialFallPeriodization": {
+      "episode_count": 1,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4933356600 [GLT4933356600].md",
+          "key": "156-when-did-the-roman-empire-fall-glt4933356600",
+          "show": "The Rest Is History",
+          "title": "156. When Did the Roman Empire Fall?",
+          "url": "/wiki/sources/156-when-did-the-roman-empire-fall-glt4933356600/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/romanimperialfallperiodization/"
+    },
+    "RomanImperialLegitimacy": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT9103397168 [GLT9103397168].md",
@@ -164044,6 +164111,13 @@
           "show": "The Rest Is History",
           "title": "157. Byzantium and the Ghosts of Rome",
           "url": "/wiki/sources/157-byzantium-and-the-ghosts-of-rome-glt1014708592/"
+        },
+        {
+          "episode_file": "GLT4933356600 [GLT4933356600].md",
+          "key": "156-when-did-the-roman-empire-fall-glt4933356600",
+          "show": "The Rest Is History",
+          "title": "156. When Did the Roman Empire Fall?",
+          "url": "/wiki/sources/156-when-did-the-roman-empire-fall-glt4933356600/"
         }
       ],
       "updated": "2026-10-02",
@@ -164283,6 +164357,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/concepts/romanticizedwarmoralambivalence/"
+    },
+    "RomulusAugustulus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4933356600 [GLT4933356600].md",
+          "key": "156-when-did-the-roman-empire-fall-glt4933356600",
+          "show": "The Rest Is History",
+          "title": "156. When Did the Roman Empire Fall?",
+          "url": "/wiki/sources/156-when-did-the-roman-empire-fall-glt4933356600/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/romulusaugustulus/"
     },
     "RonaldReagan": {
       "episode_count": 5,
@@ -187091,9 +187181,9 @@
       "url": "/wiki/concepts/thinsolesneakerrevival/"
     },
     "ThirdCenturyCrisis": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT9631298578 [GLT9631298578].md",
@@ -187108,9 +187198,16 @@
           "show": "The Rest Is History",
           "title": "217. Plague and the Decline of the Roman Empire",
           "url": "/wiki/sources/217-plague-and-the-decline-of-the-roman-empire-glt2583859060/"
+        },
+        {
+          "episode_file": "GLT4933356600 [GLT4933356600].md",
+          "key": "156-when-did-the-roman-empire-fall-glt4933356600",
+          "show": "The Rest Is History",
+          "title": "156. When Did the Roman Empire Fall?",
+          "url": "/wiki/sources/156-when-did-the-roman-empire-fall-glt4933356600/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/thirdcenturycrisis/"
     },
     "ThirdPartyAIVendorOversight": {

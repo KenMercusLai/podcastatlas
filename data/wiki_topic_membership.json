@@ -826,6 +826,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "156-when-did-the-roman-empire-fall-glt4933356600": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198": [
     {
       "key": "culture",
@@ -67931,6 +67938,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "RomanImperialFallPeriodization": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "RomanInformalImperialControl": [
