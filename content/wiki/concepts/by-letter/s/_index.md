@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 9241
+wiki_total_pages: 9244
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -938,6 +938,9 @@ wiki_pages:
   - key: "SlaughterWelfare"
     title: "Slaughter Welfare"
     url: "/wiki/concepts/slaughterwelfare/"
+  - key: "SlaveNarrativeMoralIdentification"
+    title: "Slave-Narrative Moral Identification"
+    url: "/wiki/concepts/slavenarrativemoralidentification/"
   - key: "SlaveProducedGoodsBoycott"
     title: "Slave-Produced Goods Boycott"
     url: "/wiki/concepts/slaveproducedgoodsboycott/"

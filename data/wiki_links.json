@@ -147,6 +147,10 @@
     "title": "12 Days: Death of Edward the Confessor and the Dreyfus Affair",
     "url": "/wiki/sources/12-days-death-of-edward-the-confessor-and-the-dreyfus-affair-glt1738062149/"
   },
+  "12-days-solomon-northup-and-albert-camus-glt6039583450": {
+    "title": "12 Days: Solomon Northup and Albert Camus",
+    "url": "/wiki/sources/12-days-solomon-northup-and-albert-camus-glt6039583450/"
+  },
   "12-man-dang-milan-kundela-yi-ju-zhengjing-meiyou-549335675": {
     "title": "12.慢：当米兰·昆德拉一句正经没有",
     "url": "/wiki/sources/12-man-dang-milan-kundela-yi-ju-zhengjing-meiyou-549335675/"
@@ -6390,6 +6394,10 @@
   "Albert": {
     "title": "Albert",
     "url": "/wiki/entities/albert/"
+  },
+  "AlbertCamus": {
+    "title": "Albert Camus",
+    "url": "/wiki/entities/albertcamus/"
   },
   "AlbertEinstein": {
     "title": "Albert Einstein / 阿尔伯特·爱因斯坦",
@@ -13654,6 +13662,10 @@
   "CampusSpeechRegulation": {
     "title": "Campus Speech Regulation",
     "url": "/wiki/concepts/campusspeechregulation/"
+  },
+  "CamusianAbsurdism": {
+    "title": "Camusian Absurdism",
+    "url": "/wiki/concepts/camusianabsurdism/"
   },
   "Canada": {
     "title": "Canada",
@@ -30118,6 +30130,10 @@
   "FreeCashFlowIndexing": {
     "title": "Free Cash Flow Indexing",
     "url": "/wiki/concepts/freecashflowindexing/"
+  },
+  "FreeCitizenKidnappingIntoSlavery": {
+    "title": "Free-Citizen Kidnapping into Slavery",
+    "url": "/wiki/concepts/freecitizenkidnappingintoslavery/"
   },
   "FreeCompaniesHundredYearsWar": {
     "title": "Free Companies in the Hundred Years' War",
@@ -69919,6 +69935,10 @@
     "title": "Slaughter Welfare",
     "url": "/wiki/concepts/slaughterwelfare/"
   },
+  "SlaveNarrativeMoralIdentification": {
+    "title": "Slave-Narrative Moral Identification",
+    "url": "/wiki/concepts/slavenarrativemoralidentification/"
+  },
   "SlaveProducedGoodsBoycott": {
     "title": "Slave-Produced Goods Boycott",
     "url": "/wiki/concepts/slaveproducedgoodsboycott/"
@@ -70558,6 +70578,10 @@
   "SolomonAsch": {
     "title": "Solomon Asch / 所罗门·阿希",
     "url": "/wiki/entities/solomonasch/"
+  },
+  "SolomonNorthup": {
+    "title": "Solomon Northup",
+    "url": "/wiki/entities/solomonnorthup/"
   },
   "Solon": {
     "title": "Solon",

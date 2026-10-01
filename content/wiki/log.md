@@ -27395,3 +27395,11 @@ Added source `12-days-death-of-edward-the-confessor-and-the-dreyfus-affair-glt17
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | 12 Days: Solomon Northup and Albert Camus
+
+Added source `12-days-solomon-northup-and-albert-camus-glt6039583450`; created `SolomonNorthup`, `AlbertCamus`, `FreeCitizenKidnappingIntoSlavery`, `SlaveNarrativeMoralIdentification`, and `CamusianAbsurdism`; and resynthesized `Algeria` and `Existentialism` from their complete preserved evidence inventories. Core synthesis: Northup's case shows how kidnapping, racialized proof asymmetry, interstate sale, and coercion could override unambiguous free status until abolitionist communication and New York state capacity enabled rescue, while his memoir made slavery emotionally immediate to some Northern readers without making familiar-audience identification the measure of testimonial truth. Camus is treated more precisely as an absurdist than an existentialist: Resistance credibility, anti-Stalinism, criticism of revolutionary violence, Algerian family loyalty, and the unfinished *The First Man* form an unresolved moral and literary profile. No settled contradiction was adopted. Individual motives, audience effects, Camus's political trajectory, Nobel motives, and the KGB theory remain interpretive or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,423-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

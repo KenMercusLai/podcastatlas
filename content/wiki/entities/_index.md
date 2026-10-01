@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 11911
+wiki_total_pages: 11913
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -530,6 +530,9 @@ wiki_pages:
   - key: "AlbertPattySimon"
     title: "Albert \"Patty\" Simon"
     url: "/wiki/entities/albertpattysimon/"
+  - key: "AlbertCamus"
+    title: "Albert Camus"
+    url: "/wiki/entities/albertcamus/"
   - key: "AlbertEinstein"
     title: "Albert Einstein / 阿尔伯特·爱因斯坦"
     url: "/wiki/entities/alberteinstein/"

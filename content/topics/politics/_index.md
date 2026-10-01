@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2974
+topic_total_pages: 2975
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1585,6 +1585,9 @@ topic_concepts:
   - key: "FreeSpeechCoalitionVPaxton"
     title: "Free Speech Coalition v. Paxton"
     url: "/wiki/concepts/freespeechcoalitionvpaxton/"
+  - key: "FreeCitizenKidnappingIntoSlavery"
+    title: "Free-Citizen Kidnapping into Slavery"
+    url: "/wiki/concepts/freecitizenkidnappingintoslavery/"
   - key: "FreedomAsDignity"
     title: "Freedom As Dignity / 自由作为尊严"
     url: "/wiki/concepts/freedomasdignity/"

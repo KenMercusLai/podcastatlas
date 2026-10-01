@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [12 Days: Solomon Northup and Albert Camus](sources/12-days-solomon-northup-and-albert-camus-glt6039583450.md) — The Rest Is History on Northup's kidnapping, enslavement, rescue, and abolitionist memoir, paired with Camus's absurdism, Algeria, anti-Stalinism, and unfinished legacy.
 - [12 Days: Death of Edward the Confessor and the Dreyfus Affair](sources/12-days-death-of-edward-the-confessor-and-the-dreyfus-affair-glt1738062149.md) — The Rest Is History episode pairing the disputed 1066 succession with Dreyfus's wrongful conviction, military cover-up, antisemitism, and French political polarization.
 - [12 Days: Alfred the Great and Pepys' 'Fanatiques'](sources/12-days-alfred-the-great-and-pepys-fanatiques-glt3956381618.md) — The Rest Is History on Alfred's 878 recovery and Fifth Monarchist insurrection in Restoration London.
 - [134. Crossing the Rubicon: The rise of Julius Caesar](sources/134-crossing-the-rubicon-the-rise-of-julius-caesar-glt1501343977.md) — The Rest Is History on republican anti-monarchical structure, Marius and Sulla's precedents, Pompey and Crassus's rise, and Caesar's popular politics and Gallic command.
@@ -3483,6 +3484,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [139. The Princes in the Tower Part 2](sources/139-the-princes-in-the-tower-part-2-glt4685691538.md) — The Rest Is History episode on Edward V's seizure, Richard III's escalating usurpation, the princes' disappearance, probable murder, alternative suspects, remains, and survival theories.
 
 ## Entities
+- [Solomon Northup](entities/SolomonNorthup.md) — Freeborn Black New Yorker kidnapped into twelve years of slavery whose rescue and memoir exposed the fragility of enforceable freedom.
+- [Albert Camus](entities/AlbertCamus.md) — Algerian-born French writer, Resistance journalist, anti-Stalinist, and thinker of the absurd whose final manuscript returned to Algeria.
 - [Alfred Dreyfus](entities/AlfredDreyfus.md) — Jewish French artillery officer whose wrongful conviction, degradation, imprisonment, pardon, and exoneration became a national political crisis.
 - [Thomas Venner](entities/ThomasVenner.md) — Fifth Monarchist artisan and leader of the January 1661 London rising.
 - [Jack Feldman](entities/JackFeldman.md) — Respiratory neuroscientist associated with the pre-Botzinger complex, sigh circuitry, and mechanistic breath-brain research.
@@ -15435,6 +15438,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Siege of Khartoum](entities/SiegeOfKhartoum.md) — 1884-1885 siege where an ambiguous mission ended in Mahdist victory, Gordon's death, and a powerful betrayal narrative.
 
 ## Concepts
+- [Free-Citizen Kidnapping into Slavery](concepts/FreeCitizenKidnappingIntoSlavery.md) — Mechanism by which violence, isolation, evidence asymmetry, and interstate sale could override a free Black person's lawful status.
+- [Slave-Narrative Moral Identification](concepts/SlaveNarrativeMoralIdentification.md) — Audience mechanism through which a familiar life story makes structural racial injustice emotionally immediate while exposing credibility inequality.
+- [Camusian Absurdism](concepts/CamusianAbsurdism.md) — Camus-centered account of meaning without guarantees, revolt without nihilism, and limits on ideologically justified violence.
 - [Dreyfus Affair](concepts/DreyfusAffair.md) — Wrongful-conviction crisis in which antisemitism, military honor, forged evidence, and competing ideas of patriotism polarized France.
 - [Fifth Monarchism](concepts/FifthMonarchism.md) — Apocalyptic movement carrying Civil War-era prophecy and insurrection into the Restoration.
 - [Respiratory Rhythm Generation](concepts/RespiratoryRhythmGeneration.md) — Brainstem coordination of inspiratory rhythm, recruited active expiration, respiratory muscles, and state-linked ascending signals.

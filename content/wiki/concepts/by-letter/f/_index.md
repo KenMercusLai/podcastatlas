@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 9241
+wiki_total_pages: 9244
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1196,6 +1196,9 @@ wiki_pages:
   - key: "FreeWill"
     title: "Free Will / 自由意志"
     url: "/wiki/concepts/freewill/"
+  - key: "FreeCitizenKidnappingIntoSlavery"
+    title: "Free-Citizen Kidnapping into Slavery"
+    url: "/wiki/concepts/freecitizenkidnappingintoslavery/"
   - key: "FreeMarketScientificLoop"
     title: "Free-Market Scientific Loop / 自由市场与现代科学闭环"
     url: "/wiki/concepts/freemarketscientificloop/"

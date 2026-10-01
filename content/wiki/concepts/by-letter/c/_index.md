@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9241
+wiki_total_pages: 9244
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -128,6 +128,9 @@ wiki_pages:
   - key: "CampusSpeechRegulation"
     title: "Campus Speech Regulation"
     url: "/wiki/concepts/campusspeechregulation/"
+  - key: "CamusianAbsurdism"
+    title: "Camusian Absurdism"
+    url: "/wiki/concepts/camusianabsurdism/"
   - key: "CanadianOilSandsBoom"
     title: "Canadian Oil Sands Boom"
     url: "/wiki/concepts/canadianoilsandsboom/"

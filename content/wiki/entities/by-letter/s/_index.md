@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 11911
+wiki_total_pages: 11913
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1061,6 +1061,9 @@ wiki_pages:
   - key: "SolomonAsch"
     title: "Solomon Asch / 所罗门·阿希"
     url: "/wiki/entities/solomonasch/"
+  - key: "SolomonNorthup"
+    title: "Solomon Northup"
+    url: "/wiki/entities/solomonnorthup/"
   - key: "Solon"
     title: "Solon"
     url: "/wiki/entities/solon/"

@@ -8180,6 +8180,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/alannewman/"
     },
+    "AlbertCamus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6039583450 [GLT6039583450].md",
+          "key": "12-days-solomon-northup-and-albert-camus-glt6039583450",
+          "show": "The Rest Is History",
+          "title": "12 Days: Solomon Northup and Albert Camus",
+          "url": "/wiki/sources/12-days-solomon-northup-and-albert-camus-glt6039583450/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/albertcamus/"
+    },
     "AlbertKesselring": {
       "episode_count": 1,
       "show_count": 1,
@@ -8849,6 +8865,29 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/entities/alfredwetzler/"
+    },
+    "Algeria": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Taken littorally： Spain’s sudden crisis in Ceuta [6a70712c034f16a52ebfaed7].md",
+          "key": "taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7",
+          "show": "Economist Podcasts",
+          "title": "Taken littorally: Spain’s sudden crisis in Ceuta",
+          "url": "/wiki/sources/taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7/"
+        },
+        {
+          "episode_file": "GLT6039583450 [GLT6039583450].md",
+          "key": "12-days-solomon-northup-and-albert-camus-glt6039583450",
+          "show": "The Rest Is History",
+          "title": "12 Days: Solomon Northup and Albert Camus",
+          "url": "/wiki/sources/12-days-solomon-northup-and-albert-camus-glt6039583450/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/algeria/"
     },
     "AlgorithmicCreatorSelfDiscipline": {
       "episode_count": 1,
@@ -26860,6 +26899,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/concepts/campusculturalcreativecommercialization/"
+    },
+    "CamusianAbsurdism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6039583450 [GLT6039583450].md",
+          "key": "12-days-solomon-northup-and-albert-camus-glt6039583450",
+          "show": "The Rest Is History",
+          "title": "12 Days: Solomon Northup and Albert Camus",
+          "url": "/wiki/sources/12-days-solomon-northup-and-albert-camus-glt6039583450/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/camusianabsurdism/"
     },
     "Canada": {
       "episode_count": 7,
@@ -63436,9 +63491,9 @@
       "url": "/wiki/concepts/exileloyaltythroughritualtoken/"
     },
     "Existentialism": {
-      "episode_count": 3,
-      "show_count": 2,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "20.德米安：该隐的额头上，那神秘的印记 [567302734].md",
@@ -63460,9 +63515,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》395-2｜三人背后的人性故事",
           "url": "/wiki/sources/zizhi-tongjian-hanji-395-2-sanren-beihou-de-renxing-gushi-lnxghfd6esj7jbir-m6qflth2ckp/"
+        },
+        {
+          "episode_file": "GLT6039583450 [GLT6039583450].md",
+          "key": "12-days-solomon-northup-and-albert-camus-glt6039583450",
+          "show": "The Rest Is History",
+          "title": "12 Days: Solomon Northup and Albert Camus",
+          "url": "/wiki/sources/12-days-solomon-northup-and-albert-camus-glt6039583450/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/existentialism/"
     },
     "ExpansionaryVsAnxietyMarketing": {
@@ -72061,6 +72123,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/entities/frederickthewise/"
+    },
+    "FreeCitizenKidnappingIntoSlavery": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6039583450 [GLT6039583450].md",
+          "key": "12-days-solomon-northup-and-albert-camus-glt6039583450",
+          "show": "The Rest Is History",
+          "title": "12 Days: Solomon Northup and Albert Camus",
+          "url": "/wiki/sources/12-days-solomon-northup-and-albert-camus-glt6039583450/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/freecitizenkidnappingintoslavery/"
     },
     "FreeCompaniesHundredYearsWar": {
       "episode_count": 1,
@@ -175706,6 +175784,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/concepts/slandersuspicionfeedbackcollapse/"
     },
+    "SlaveNarrativeMoralIdentification": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6039583450 [GLT6039583450].md",
+          "key": "12-days-solomon-northup-and-albert-camus-glt6039583450",
+          "show": "The Rest Is History",
+          "title": "12 Days: Solomon Northup and Albert Camus",
+          "url": "/wiki/sources/12-days-solomon-northup-and-albert-camus-glt6039583450/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/slavenarrativemoralidentification/"
+    },
     "SlaveProducedGoodsBoycott": {
       "episode_count": 1,
       "show_count": 1,
@@ -177822,6 +177916,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/soloairpgs/"
+    },
+    "SolomonNorthup": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6039583450 [GLT6039583450].md",
+          "key": "12-days-solomon-northup-and-albert-camus-glt6039583450",
+          "show": "The Rest Is History",
+          "title": "12 Days: Solomon Northup and Albert Camus",
+          "url": "/wiki/sources/12-days-solomon-northup-and-albert-camus-glt6039583450/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/solomonnorthup/"
     },
     "Solon": {
       "episode_count": 1,
