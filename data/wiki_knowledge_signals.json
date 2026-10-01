@@ -44714,9 +44714,9 @@
       "url": "/wiki/concepts/daigouchannel/"
     },
     "DailyCircadianPerformanceRoutine": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM5427393382 [SCIM5427393382].md",
@@ -44731,6 +44731,13 @@
           "show": "Huberman Lab",
           "title": "Optimizing Workspace for Productivity, Focus, & Creativity",
           "url": "/wiki/sources/optimizing-workspace-for-productivity-focus-creativity-scim5202577757/"
+        },
+        {
+          "episode_file": "SCIM6848516659 [SCIM6848516659].md",
+          "key": "the-science-of-making-breaking-habits-scim6848516659",
+          "show": "Huberman Lab",
+          "title": "The Science of Making & Breaking Habits",
+          "url": "/wiki/sources/the-science-of-making-breaking-habits-scim6848516659/"
         }
       ],
       "updated": "2026-10-02",
@@ -82721,6 +82728,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/habibaystartupembassyresident/"
+    },
+    "HabitAutomaticityAndTaskBracketing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6848516659 [SCIM6848516659].md",
+          "key": "the-science-of-making-breaking-habits-scim6848516659",
+          "show": "Huberman Lab",
+          "title": "The Science of Making & Breaking Habits",
+          "url": "/wiki/sources/the-science-of-making-breaking-habits-scim6848516659/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/habitautomaticityandtaskbracketing/"
     },
     "HabitualUrineRetentionRisk": {
       "episode_count": 1,
@@ -152484,6 +152507,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/concepts/postdisastertruthandresponsibility/"
     },
+    "PostHabitReplacement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6848516659 [SCIM6848516659].md",
+          "key": "the-science-of-making-breaking-habits-scim6848516659",
+          "show": "Huberman Lab",
+          "title": "The Science of Making & Breaking Habits",
+          "url": "/wiki/sources/the-science-of-making-breaking-habits-scim6848516659/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/posthabitreplacement/"
+    },
     "PostHandoverHongKongGovernance": {
       "episode_count": 1,
       "show_count": 1,
@@ -164024,9 +164063,9 @@
       "url": "/wiki/concepts/rewardfitnessrisk/"
     },
     "RewardPredictionErrorLearning": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM2602950288 [SCIM2602950288].md",
@@ -164041,6 +164080,13 @@
           "show": "Huberman Lab",
           "title": "The Science of Setting & Achieving Goals",
           "url": "/wiki/sources/the-science-of-setting-achieving-goals-scim1292734289/"
+        },
+        {
+          "episode_file": "SCIM6848516659 [SCIM6848516659].md",
+          "key": "the-science-of-making-breaking-habits-scim6848516659",
+          "show": "Huberman Lab",
+          "title": "The Science of Making & Breaking Habits",
+          "url": "/wiki/sources/the-science-of-making-breaking-habits-scim6848516659/"
         }
       ],
       "updated": "2026-10-02",

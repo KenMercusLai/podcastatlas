@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1389
+topic_total_pages: 1391
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -970,6 +970,9 @@ topic_concepts:
   - key: "GynecologicalExamDignity"
     title: "Gynecological Exam Dignity / 妇科检查尊严"
     url: "/wiki/concepts/gynecologicalexamdignity/"
+  - key: "HabitAutomaticityAndTaskBracketing"
+    title: "Habit Automaticity and Task Bracketing"
+    url: "/wiki/concepts/habitautomaticityandtaskbracketing/"
   - key: "HabitPositiveFeedback"
     title: "Habit Positive Feedback / 习惯正反馈"
     url: "/wiki/concepts/habitpositivefeedback/"
@@ -4050,6 +4053,9 @@ topic_sources:
   - key: "the-science-of-love-desire-and-attachment-scim1112390541"
     title: "The Science of Love, Desire and Attachment"
     url: "/wiki/sources/the-science-of-love-desire-and-attachment-scim1112390541/"
+  - key: "the-science-of-making-breaking-habits-scim6848516659"
+    title: "The Science of Making & Breaking Habits"
+    url: "/wiki/sources/the-science-of-making-breaking-habits-scim6848516659/"
   - key: "the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449"
     title: "The Science of MDMA & Its Therapeutic Uses: Benefits & Risks"
     url: "/wiki/sources/the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449/"

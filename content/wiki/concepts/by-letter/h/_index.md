@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 9244
+wiki_total_pages: 9246
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -14,6 +14,9 @@ wiki_pages:
   - key: "H1BVisaCoalitionFaultLine"
     title: "H-1B Visa Coalition Fault Line"
     url: "/wiki/concepts/h1bvisacoalitionfaultline/"
+  - key: "HabitAutomaticityAndTaskBracketing"
+    title: "Habit Automaticity and Task Bracketing"
+    url: "/wiki/concepts/habitautomaticityandtaskbracketing/"
   - key: "HabitPositiveFeedback"
     title: "Habit Positive Feedback / 习惯正反馈"
     url: "/wiki/concepts/habitpositivefeedback/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Science of Making & Breaking Habits](sources/the-science-of-making-breaking-habits-scim6848516659.md) — Huberman Lab solo episode on habit automaticity, task bracketing, state-matched timing, reward learning, sleep consolidation, and post-habit replacement.
 - [12 Days: Solomon Northup and Albert Camus](sources/12-days-solomon-northup-and-albert-camus-glt6039583450.md) — The Rest Is History on Northup's kidnapping, enslavement, rescue, and abolitionist memoir, paired with Camus's absurdism, Algeria, anti-Stalinism, and unfinished legacy.
 - [12 Days: Death of Edward the Confessor and the Dreyfus Affair](sources/12-days-death-of-edward-the-confessor-and-the-dreyfus-affair-glt1738062149.md) — The Rest Is History episode pairing the disputed 1066 succession with Dreyfus's wrongful conviction, military cover-up, antisemitism, and French political polarization.
 - [12 Days: Alfred the Great and Pepys' 'Fanatiques'](sources/12-days-alfred-the-great-and-pepys-fanatiques-glt3956381618.md) — The Rest Is History on Alfred's 878 recovery and Fifth Monarchist insurrection in Restoration London.
@@ -15438,6 +15439,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Siege of Khartoum](entities/SiegeOfKhartoum.md) — 1884-1885 siege where an ambiguous mission ended in Mahdist victory, Gordon's death, and a powerful betrayal narrative.
 
 ## Concepts
+- [Habit Automaticity and Task Bracketing](concepts/HabitAutomaticityAndTaskBracketing.md) — Framework joining initiation friction, procedural rehearsal, sequence boundaries, and context independence.
+- [Post-Habit Replacement](concepts/PostHabitReplacement.md) — Source-scoped practice of using an unwanted habit as the cue for an easy constructive next action.
 - [Free-Citizen Kidnapping into Slavery](concepts/FreeCitizenKidnappingIntoSlavery.md) — Mechanism by which violence, isolation, evidence asymmetry, and interstate sale could override a free Black person's lawful status.
 - [Slave-Narrative Moral Identification](concepts/SlaveNarrativeMoralIdentification.md) — Audience mechanism through which a familiar life story makes structural racial injustice emotionally immediate while exposing credibility inequality.
 - [Camusian Absurdism](concepts/CamusianAbsurdism.md) — Camus-centered account of meaning without guarantees, revolt without nihilism, and limits on ideologically justified violence.

@@ -37787,6 +37787,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "HabitAutomaticityAndTaskBracketing": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "HabitPositiveFeedback": [
     {
       "key": "science",
@@ -96470,6 +96477,13 @@
     }
   ],
   "the-science-of-love-desire-and-attachment-scim1112390541": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "the-science-of-making-breaking-habits-scim6848516659": [
     {
       "key": "science",
       "label": "Science",
