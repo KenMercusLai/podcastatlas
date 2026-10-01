@@ -5,7 +5,8 @@ tags: [addiction, trauma, stress, recovery]
 sources:
   - tools-for-overcoming-substance-behavioral-addictions-ryan-soave-scim5476071523
   - ama-18-cold-therapy-advice-skin-health-tips-motivation-learning-strategies-more-scim1100391235
-last_updated: 2026-09-24
+  - therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim9741490707
+last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,6 +22,8 @@ This frame applies across alcohol and drugs as well as gambling, gaming, pornogr
 
 The AMA adds a complementary narrowing frame: addiction progressively reduces the range of activities that can produce pleasure and can disrupt life across both substances and processes. It also reinforces the non-moralizing boundary by locating addiction in altered brain and neurochemical regulation rather than in willpower alone. That mechanism language does not erase responsibility or the need for action; it explains why support and structured recovery can be necessary.
 
+Conti adds a trauma-linked qualification. Alcohol, cannabis, anger, negative fantasies, overwork, or other rapid state changes can soothe shame, guilt, vigilance, or pain in the short term, but relief does not show that the strategy is safe or that trauma is the only cause. Durable recovery requires examining the underlying problem while preserving stabilization, diagnosis, and crisis boundaries.
+
 ## Key Claims
 - Addictive behavior can begin as a workable short-term solution to an underlying difficult state.
 - Rapid relief can become organizing power, reversing the relationship between the person and the behavior.
@@ -28,7 +31,7 @@ The AMA adds a complementary narrowing frame: addiction progressively reduces th
 - Assessment should examine control, preoccupation, abstinence difficulty, relationships, motivation, loneliness, and daily functioning.
 - Recovery has to replace the function of the addictive strategy as well as interrupt its use.
 - Intensity or enthusiasm alone does not establish addiction; impairment and loss of choice are central qualifications.
-- Progressive narrowing of pleasure and life participation is a useful warning pattern across substance and behavioral addictions.
+- Progressive narrowing of pleasure and life participation is a useful warning pattern, while short-term soothing can explain persistence without establishing safety, diagnosis, or durable resolution.
 
 ## Evidence
 - Relief function - [[tools-for-overcoming-substance-behavioral-addictions-ryan-soave-scim5476071523]] describes alcohol, drugs, gambling, gaming, pornography, food, and other behaviors as ways people may seek connection, wholeness, escape, or state change.
@@ -36,13 +39,14 @@ The AMA adds a complementary narrowing frame: addiction progressively reduces th
 - Self-reinforcing loop - [[tools-for-overcoming-substance-behavioral-addictions-ryan-soave-scim5476071523]] links wound, stress, relief-seeking, and new addiction-produced harm.
 - Positive replacement - [[tools-for-overcoming-substance-behavioral-addictions-ryan-soave-scim5476071523]] says recovery must move beyond removal toward purpose, connection, pleasure, and a sustainable life.
 - Narrowing and agency boundary - [[ama-18-cold-therapy-advice-skin-health-tips-motivation-learning-strategies-more-scim1100391235]] defines addiction through progressive narrowing and rejects simple lack-of-willpower explanations.
+- Trauma-linked soothing - [[therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim9741490707]] connects hidden guilt, shame, and trauma with substance use while distinguishing immediate state change from work on the underlying problem.
 
 ## Counterevidence & Qualifications
-This is a functional treatment frame, not a substitute for formal diagnostic criteria or evidence that all substance use, gaming, work, exercise, sugar intake, caffeine use, or pornography consumption is addiction. Brain-mechanism language should not become fatalism or remove accountability for harm. Acute withdrawal, psychiatric crisis, and severe functional impairment require professional assessment; abrupt alcohol withdrawal can be dangerous.
+This is a functional treatment frame, not a substitute for formal diagnostic criteria or evidence that all substance use, gaming, work, exercise, sugar intake, caffeine use, anger, or pornography consumption is addiction or trauma-driven. Brain-mechanism language should not become fatalism or remove accountability for harm. Acute withdrawal, psychiatric crisis, and severe functional impairment require professional assessment; abrupt alcohol withdrawal can be dangerous.
 
 ## What Changed
-- Added progressive narrowing as a cross-addiction warning pattern.
-- Reinforced that impaired regulation is not reducible to weak willpower.
+- Added trauma-linked soothing while preserving multiple-cause and diagnosis boundaries.
+- Clarified that rapid state change can explain use without making it safe or curative.
 
 ## Related Concepts
 - [[RecoveryDistressTolerance]] - replacement capacity for experiencing the states addiction previously relieved.

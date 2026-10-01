@@ -5769,9 +5769,9 @@
       "url": "/wiki/concepts/addedfreesugardistinction/"
     },
     "AddictionAsAttemptedRelief": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM5476071523 [SCIM5476071523].md",
@@ -5786,9 +5786,16 @@
           "show": "Huberman Lab",
           "title": "AMA #18: Cold Therapy Advice, Skin Health Tips, Motivation, Learning Strategies & More",
           "url": "/wiki/sources/ama-18-cold-therapy-advice-skin-health-tips-motivation-learning-strategies-more-scim1100391235/"
+        },
+        {
+          "episode_file": "SCIM9741490707 [SCIM9741490707].md",
+          "key": "therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim9741490707",
+          "show": "Huberman Lab",
+          "title": "Therapy, Treating Trauma & Other Life Challenges | Dr. Paul Conti",
+          "url": "/wiki/sources/therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim9741490707/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/addictionasattemptedrelief/"
     },
     "AddictionRelatedRewardPlasticity": {
@@ -135441,9 +135448,9 @@
       "url": "/wiki/concepts/obliqueremonstranceselfprotection/"
     },
     "ObservingSelfContinuity": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM9301011958 [SCIM9301011958].md",
@@ -135451,9 +135458,16 @@
           "show": "Huberman Lab",
           "title": "Tools to Bolster Your Mental Health & Confidence | Dr. Paul Conti",
           "url": "/wiki/sources/tools-to-bolster-your-mental-health-confidence-dr-paul-conti-scim9301011958/"
+        },
+        {
+          "episode_file": "SCIM9741490707 [SCIM9741490707].md",
+          "key": "therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim9741490707",
+          "show": "Huberman Lab",
+          "title": "Therapy, Treating Trauma & Other Life Challenges | Dr. Paul Conti",
+          "url": "/wiki/sources/therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim9741490707/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/observingselfcontinuity/"
     },
     "ObsessiveCompulsiveDisorder": {
@@ -141056,9 +141070,9 @@
       "url": "/wiki/entities/paulbarras/"
     },
     "PaulConti": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "SCIM9301011958 [SCIM9301011958].md",
@@ -141101,9 +141115,16 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Paul Conti: How to Understand & Assess Your Mental Health",
           "url": "/wiki/sources/guest-series-dr-paul-conti-how-to-understand-assess-your-mental-health-scim8819389908/"
+        },
+        {
+          "episode_file": "SCIM9741490707 [SCIM9741490707].md",
+          "key": "therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim9741490707",
+          "show": "Huberman Lab",
+          "title": "Therapy, Treating Trauma & Other Life Challenges | Dr. Paul Conti",
+          "url": "/wiki/sources/therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim9741490707/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/paulconti/"
     },
     "PaulEastwick": {
@@ -150678,6 +150699,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/concepts/psychiatricfunctionaldiagnosis/"
+    },
+    "PsychiatricMedicationAsSupport": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9741490707 [SCIM9741490707].md",
+          "key": "therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim9741490707",
+          "show": "Huberman Lab",
+          "title": "Therapy, Treating Trauma & Other Life Challenges | Dr. Paul Conti",
+          "url": "/wiki/sources/therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim9741490707/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/psychiatricmedicationassupport/"
     },
     "PsychiatricMedicationSupervisionBoundary": {
       "episode_count": 6,
@@ -182462,6 +182499,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/therapeuticstatelearning/"
     },
+    "TherapyFitAndIntensity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9741490707 [SCIM9741490707].md",
+          "key": "therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim9741490707",
+          "show": "Huberman Lab",
+          "title": "Therapy, Treating Trauma & Other Life Challenges | Dr. Paul Conti",
+          "url": "/wiki/sources/therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim9741490707/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/therapyfitandintensity/"
+    },
     "TherapyInsightActionGap": {
       "episode_count": 2,
       "show_count": 2,
@@ -185613,6 +185666,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/traumacueresponse/"
     },
+    "TraumaFunctionalRecognition": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9741490707 [SCIM9741490707].md",
+          "key": "therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim9741490707",
+          "show": "Huberman Lab",
+          "title": "Therapy, Treating Trauma & Other Life Challenges | Dr. Paul Conti",
+          "url": "/wiki/sources/therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim9741490707/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/traumafunctionalrecognition/"
+    },
     "TraumaNarrativeIntegration": {
       "episode_count": 7,
       "show_count": 4,
@@ -185670,6 +185739,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/traumanarrativeintegration/"
+    },
+    "TraumaWitnessingAndLanguage": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9741490707 [SCIM9741490707].md",
+          "key": "therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim9741490707",
+          "show": "Huberman Lab",
+          "title": "Therapy, Treating Trauma & Other Life Challenges | Dr. Paul Conti",
+          "url": "/wiki/sources/therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim9741490707/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/traumawitnessingandlanguage/"
     },
     "TravelAgencyItineraryOperations": {
       "episode_count": 2,

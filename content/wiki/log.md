@@ -26678,3 +26678,11 @@ Added source `193-how-prime-ministers-fall-glt7608869237`; created `RobertWalpol
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | Therapy, Treating Trauma & Other Life Challenges | Dr. Paul Conti
+
+Added source `therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim9741490707`; created `TraumaFunctionalRecognition`, `TraumaWitnessingAndLanguage`, `TherapyFitAndIntensity`, and `PsychiatricMedicationAsSupport`; and resynthesized `PaulConti`, `ObservingSelfContinuity`, and `AddictionAsAttemptedRelief` from their complete preserved evidence inventories. Core synthesis: trauma is recognized through overwhelmed coping and changed function rather than event labels alone; receptive language and observing ego can make shame-bound patterns inspectable; therapy depends on rapport, ownership, pacing, and level of care; and medication may support distress tolerance without replacing diagnosis, understanding, or human care. No settled contradiction was adopted. Evolutionary, limbic, medication, stimulant, cannabis, psychedelic, MDMA, and treatment-intensity claims remain source-scoped public education rather than individualized clinical guidance. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,335-source coverage; no topic claim set was dirty and global compaction was not due. Identity, knowledge-schema, whitespace, health, changed-page link, index coverage, synthesis, and publish validation passed.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

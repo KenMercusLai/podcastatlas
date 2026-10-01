@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Therapy, Treating Trauma & Other Life Challenges | Dr. Paul Conti](sources/therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim9741490707.md) — Huberman Lab interview on functional trauma recognition, witnessing and language, observing ego, therapy fit and intensity, medication support, and clinical boundaries.
 - [193. How Prime Ministers Fall](sources/193-how-prime-ministers-fall-glt7608869237.md) — The Rest Is History episode on Boris Johnson's June 2022 confidence vote and the historical mechanisms by which British prime ministers lose usable authority.
 - [194. The First Fascist](sources/194-the-first-fascist-glt5479566212.md) — The Rest Is History episode on D'Annunzio's literary celebrity, war nationalism, Fiume occupation, fascist political theatre, and the boundary between performative precursor and governing dictator.
 - [史蒂夫说475期 - 佟晨洁&梵一如 - 个人成功和关系港湾，愿你二者兼得](sources/shi-di-fu-shuo-475-tongchenjie-fanyiru-geren-chenggong-he-guanxi-gangwan-yuan-ni-erzhe-jiande-llOihxUTWgcZk-xLyVEK5wwRuaP4.md) — Reunion on marriage, family as a harbor for vulnerability, male distress, preverbal infant attunement, parent-child connection, divorce, aging, and care.
@@ -4929,7 +4930,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [GPT 5.5 Cyber](entities/GPT55Cyber.md) — OpenAI cyber model discussed as a specialist vulnerability-discovery and simulation capability.
 - [Monsanto](entities/Monsanto.md) — Legacy agricultural company connected to Roundup and pesticide-label preemption litigation.
 - [Roundup](entities/Roundup.md) — Pesticide product at the center of Monsanto/Bayer failure-to-warn litigation.
-- [Paul Conti](entities/PaulConti.md) — Psychiatrist framing mental and relationship health through strength-first inquiry, agency, gratitude, mentalization, boundaries, and generativity.
+- [Paul Conti](entities/PaulConti.md) — Psychiatrist framing mental and relationship health through strength-first inquiry, agency, functional trauma recognition, clinically bounded treatment, and generativity.
 - [What's Going Right?](entities/WhatsGoingRight.md) — Paul Conti book used as the strength-first organizing frame for a Huberman Lab mental-health conversation.
 - [Mona Lisa](entities/MonaLisa.md) — Leonardo portrait of Lisa Gherardini whose fame accumulated through ambiguity, reproduction, theft, parody, and Louvre tourism.
 - [Leonardo da Vinci](entities/LeonardoDaVinci.md) — Renaissance artist-engineer whose technique, reputation, and custody of the Mona Lisa anchor the episode's art-history branch.
@@ -24327,5 +24328,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Alexandrian War](concepts/AlexandrianWar.md) — Palace and urban war joining Roman civil conflict to the Ptolemaic succession and Cleopatra's restoration.
 
 - [Stretching Systemic Effects Evidence Boundary](concepts/StretchingSystemicEffectsEvidenceBoundary.md) — Separates autonomic, connective-tissue, inflammation, fibrosis, and mouse-tumor findings from demonstrated human treatment claims.
+
+- [Trauma Functional Recognition](concepts/TraumaFunctionalRecognition.md) — Functional distinction between painful events and trauma that overwhelms coping and changes later functioning.
+- [Trauma Witnessing and Language](concepts/TraumaWitnessingAndLanguage.md) — Process of bringing hidden trauma into paced language before a receptive self or other while preserving crisis boundaries.
+- [Therapy Fit and Intensity](concepts/TherapyFitAndIntensity.md) — Framework matching rapport, method flexibility, client ownership, frequency, and level of care to goals and safety.
+- [Psychiatric Medication as Support](concepts/PsychiatricMedicationAsSupport.md) — Diagnosis- and purpose-matched use of medication to support function or therapy without treating it as a complete explanation or cure.
 
 ## Syntheses

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 9099
+wiki_total_pages: 9103
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -428,6 +428,9 @@ wiki_pages:
   - key: "TherapeuticStateLearning"
     title: "Therapeutic State Learning"
     url: "/wiki/concepts/therapeuticstatelearning/"
+  - key: "TherapyFitAndIntensity"
+    title: "Therapy Fit and Intensity"
+    url: "/wiki/concepts/therapyfitandintensity/"
   - key: "TherapyInsightActionGap"
     title: "Therapy Insight-Action Gap / 治疗中的洞察行动落差"
     url: "/wiki/concepts/therapyinsightactiongap/"
@@ -785,12 +788,18 @@ wiki_pages:
   - key: "TraumaCueResponse"
     title: "Trauma Cue Response"
     url: "/wiki/concepts/traumacueresponse/"
+  - key: "TraumaFunctionalRecognition"
+    title: "Trauma Functional Recognition"
+    url: "/wiki/concepts/traumafunctionalrecognition/"
   - key: "TraumaNarrativeIntegration"
     title: "Trauma Narrative Integration / 创伤叙事整合"
     url: "/wiki/concepts/traumanarrativeintegration/"
   - key: "TraumaNumbing"
     title: "Trauma Numbing"
     url: "/wiki/concepts/traumanumbing/"
+  - key: "TraumaWitnessingAndLanguage"
+    title: "Trauma Witnessing and Language"
+    url: "/wiki/concepts/traumawitnessingandlanguage/"
   - key: "TraumaticAttachment"
     title: "Traumatic Attachment"
     url: "/wiki/concepts/traumaticattachment/"
