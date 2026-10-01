@@ -70020,6 +70020,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/franciswalsingham/"
     },
+    "FrancisYoung": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5141910845 [GLT5141910845].md",
+          "key": "174-merlin-magic-and-the-british-glt5141910845",
+          "show": "The Rest Is History",
+          "title": "174. Merlin, Magic and the British",
+          "url": "/wiki/sources/174-merlin-magic-and-the-british-glt5141910845/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/francisyoung/"
+    },
     "FranciscoFranco": {
       "episode_count": 1,
       "show_count": 1,
@@ -84809,6 +84825,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/helenblairsimpson/"
     },
+    "HelenDuncan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5141910845 [GLT5141910845].md",
+          "key": "174-merlin-magic-and-the-british-glt5141910845",
+          "show": "The Rest Is History",
+          "title": "174. Merlin, Magic and the British",
+          "url": "/wiki/sources/174-merlin-magic-and-the-british-glt5141910845/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/helenduncan/"
+    },
     "HelenOfTroy": {
       "episode_count": 3,
       "show_count": 2,
@@ -93501,9 +93533,9 @@
       "url": "/wiki/concepts/imperialbridepriceritualpolitics/"
     },
     "ImperialCartographicMythmaking": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4512754016 [GLT4512754016].md",
@@ -93511,9 +93543,16 @@
           "show": "The Rest Is History",
           "title": "542. Elizabeth I’s Sorcerer: Angels and Demons in Renaissance Europe",
           "url": "/wiki/sources/542-elizabeth-is-sorcerer-angels-and-demons-in-renaissance-europe-glt4512754016/"
+        },
+        {
+          "episode_file": "GLT5141910845 [GLT5141910845].md",
+          "key": "174-merlin-magic-and-the-british-glt5141910845",
+          "show": "The Rest Is History",
+          "title": "174. Merlin, Magic and the British",
+          "url": "/wiki/sources/174-merlin-magic-and-the-british-glt5141910845/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/imperialcartographicmythmaking/"
     },
     "ImperialCenterRelocation": {
@@ -102619,9 +102658,9 @@
       "url": "/wiki/entities/johncurtin/"
     },
     "JohnDee": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4512754016 [GLT4512754016].md",
@@ -102629,9 +102668,16 @@
           "show": "The Rest Is History",
           "title": "542. Elizabeth I’s Sorcerer: Angels and Demons in Renaissance Europe",
           "url": "/wiki/sources/542-elizabeth-is-sorcerer-angels-and-demons-in-renaissance-europe-glt4512754016/"
+        },
+        {
+          "episode_file": "GLT5141910845 [GLT5141910845].md",
+          "key": "174-merlin-magic-and-the-british-glt5141910845",
+          "show": "The Rest Is History",
+          "title": "174. Merlin, Magic and the British",
+          "url": "/wiki/sources/174-merlin-magic-and-the-british-glt5141910845/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/johndee/"
     },
     "JohnDickey": {
@@ -127116,6 +127162,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/meritshieldedaccountability/"
     },
+    "Merlin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5141910845 [GLT5141910845].md",
+          "key": "174-merlin-magic-and-the-british-glt5141910845",
+          "show": "The Rest Is History",
+          "title": "174. Merlin, Magic and the British",
+          "url": "/wiki/sources/174-merlin-magic-and-the-british-glt5141910845/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/merlin/"
+    },
     "MessageRelayPoliticalPower": {
       "episode_count": 3,
       "show_count": 1,
@@ -137484,9 +137546,9 @@
       "url": "/wiki/concepts/occamsrazor/"
     },
     "OccultDecisionCapture": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！ [lpbMs8pebZDo2LdiWHo1Cba81njk].md",
@@ -137494,10 +137556,33 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》690丨交友不慎有多可怕？看看田戎的经历！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk/"
+        },
+        {
+          "episode_file": "GLT5141910845 [GLT5141910845].md",
+          "key": "174-merlin-magic-and-the-british-glt5141910845",
+          "show": "The Rest Is History",
+          "title": "174. Merlin, Magic and the British",
+          "url": "/wiki/sources/174-merlin-magic-and-the-british-glt5141910845/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/occultdecisioncapture/"
+    },
+    "OccultPolitics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5141910845 [GLT5141910845].md",
+          "key": "174-merlin-magic-and-the-british-glt5141910845",
+          "show": "The Rest Is History",
+          "title": "174. Merlin, Magic and the British",
+          "url": "/wiki/sources/174-merlin-magic-and-the-british-glt5141910845/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/occultpolitics/"
     },
     "OceanBase": {
       "episode_count": 1,
@@ -147561,6 +147646,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/concepts/politicalmartyremulation/"
+    },
+    "PoliticalOccultAccusation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5141910845 [GLT5141910845].md",
+          "key": "174-merlin-magic-and-the-british-glt5141910845",
+          "show": "The Rest Is History",
+          "title": "174. Merlin, Magic and the British",
+          "url": "/wiki/sources/174-merlin-magic-and-the-british-glt5141910845/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/politicaloccultaccusation/"
     },
     "PoliticalPerformanceSincerity": {
       "episode_count": 2,

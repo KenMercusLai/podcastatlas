@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-10-01] ingest | 174. Merlin, Magic and the British
+
+Added source `174-merlin-magic-and-the-british-glt5141910845`; created `FrancisYoung`, `Merlin`, `HelenDuncan`, `OccultPolitics`, and `PoliticalOccultAccusation`; and resynthesized `JohnDee`, `OccultDecisionCapture`, and `ImperialCartographicMythmaking` from their complete preserved evidence inventories. Core synthesis: occult claims can legitimate rulers, supply counsel, capture judgment, stigmatize enemies, or become information-security concerns, and these mechanisms do not require rulers, propagandists, audiences, and officials to share one literal belief. No settled contradiction was adopted. Merlin's historicity, royal belief, ritual function, Richard II's psychology, confessional sincerity, Dee's influence, Arthurian Atlantic claims, Duncan's information source, and prosecutorial motives remain episode-attributed or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten because this episode backfills and connects established British political-history branches; downstream synthesis refresh only reads it. The downstream manifest and paragraph ledger were refreshed to 3,366-source coverage; no topic claim set was dirty and global compaction was not due. Changed pages introduced no broken wikilinks; the repository-wide scanner still reports 14 unrelated pre-existing broken links, and its optional semantic pass remains unavailable without a provider-qualified model. Health, identity, knowledge-schema, whitespace, synthesis, and publish validation passed.
+
 ## [2026-10-01] ingest | 175. Crucifixion (Part 1)
 
 Added source `175-crucifixion-part-1-glt5186420966`; created `TomHolland`, `RomanCrucifixionAsPublicHumiliation`, and `CrossSymbolicInversion`; and resynthesized `Jesus`, `PontiusPilate`, `HistoricalJesusReconstruction`, and `EarlyChristianExaltation` from their complete preserved evidence inventories. Core synthesis: Roman crucifixion was variable public status destruction aimed especially at slaves and challengers; Jesus's execution on a kingly charge is strongly attested even though individual Passion details carry different confidence; and Christianity converted the cross from imperial shame into a continuing tension among victimhood, victory, suffering, and power. No settled contradiction was adopted. Exact mechanics, medical cause of death, burial norms, Gospel framing, artistic firsts, Constantine's role, and the exclusive scope of Holland's Christian moral genealogy remain source-scoped or contested. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,364-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge-schema, whitespace, synthesis, health, and publish validation passed.
@@ -26921,6 +26925,18 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-01] ingest | How to Optimize Your Hormones for Health & Vitality | Dr. Kyle Gillett
 
 Added source `how-to-optimize-your-hormones-for-health-vitality-dr-kyle-gillett-scim6818581014`; created `ProlactinDopaminePituitaryInterpretation`; and resynthesized `KyleGillett`, `MaleHormoneHealthPhenotyping`, `AndrogenInterventionClinicalBoundary`, `SexSteroidFeedbackRegulation`, and `PeptideEvidenceHierarchy` from their complete preserved evidence inventories. Core synthesis: hormone optimization is a context-and-measurement problem in which lifestyle foundations, symptoms, ratios, feedback pathways, fertility goals, and clinician-guided testing precede supplements or direct manipulation; prolactin requires reproductive, medication, pituitary, and symptom context; and peptide claims must be separated by indication, evidence, sourcing, dose, duration, and patient risk. No settled contradiction was adopted. Creatine-DHT, curcumin-5-alpha-reductase, cannabis-aromatase, food-prolactin, supplement-dose, fasting-growth-hormone, post-finasteride, fertility-recovery, prostate-cancer, and peptide claims remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten. The downstream manifest and paragraph ledger were refreshed to 3,365-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-10-01] lint | Wiki health check
 

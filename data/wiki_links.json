@@ -711,6 +711,10 @@
     "title": "174.读笛卡尔，是件大事",
     "url": "/wiki/sources/174-du-dikaer-shi-jian-dashi-966856702/"
   },
+  "174-merlin-magic-and-the-british-glt5141910845": {
+    "title": "174. Merlin, Magic and the British",
+    "url": "/wiki/sources/174-merlin-magic-and-the-british-glt5141910845/"
+  },
   "174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza": {
     "title": "174. 我们还能给算法当多久的品味老师？｜对谈亚马逊AGI查晟",
     "url": "/wiki/sources/174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza/"
@@ -29535,6 +29539,10 @@
     "title": "Francis Walsingham",
     "url": "/wiki/entities/franciswalsingham/"
   },
+  "FrancisYoung": {
+    "title": "Francis Young",
+    "url": "/wiki/entities/francisyoung/"
+  },
   "FranciscoFranco": {
     "title": "Francisco Franco",
     "url": "/wiki/entities/franciscofranco/"
@@ -34726,6 +34734,10 @@
   "HelenBlairSimpson": {
     "title": "Helen Blair Simpson",
     "url": "/wiki/entities/helenblairsimpson/"
+  },
+  "HelenDuncan": {
+    "title": "Helen Duncan",
+    "url": "/wiki/entities/helenduncan/"
   },
   "HelenOfTroy": {
     "title": "Helen of Troy",
@@ -50643,6 +50655,10 @@
     "title": "Meritocratic Arrogance / 绩优主义傲慢",
     "url": "/wiki/concepts/meritocraticarrogance/"
   },
+  "Merlin": {
+    "title": "Merlin",
+    "url": "/wiki/entities/merlin/"
+  },
   "MermaidFreediving": {
     "title": "Mermaid Freediving / 美人鱼潜水",
     "url": "/wiki/concepts/mermaidfreediving/"
@@ -54951,6 +54967,10 @@
     "title": "术数俘获式决策失控 / Occult Decision Capture",
     "url": "/wiki/concepts/occultdecisioncapture/"
   },
+  "OccultPolitics": {
+    "title": "Occult Politics",
+    "url": "/wiki/concepts/occultpolitics/"
+  },
   "OccultPseudoscienceLiteraryModernity": {
     "title": "Occult And Pseudoscience In Literary Modernity",
     "url": "/wiki/concepts/occultpseudoscienceliterarymodernity/"
@@ -59126,6 +59146,10 @@
   "PoliticalMemeStock": {
     "title": "Political Meme Stock",
     "url": "/wiki/concepts/politicalmemestock/"
+  },
+  "PoliticalOccultAccusation": {
+    "title": "Political Occult Accusation",
+    "url": "/wiki/concepts/politicaloccultaccusation/"
   },
   "PoliticalParableWeaponization": {
     "title": "Political Parable Weaponization / 寓言式政治挑拨",

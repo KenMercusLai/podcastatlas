@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [174. Merlin, Magic and the British](sources/174-merlin-magic-and-the-british-glt5141910845.md) — The Rest Is History with Francis Young on Merlin, royal occult counsel, magical decision capture, sorcery propaganda, John Dee, and wartime spiritualism.
 - [How to Optimize Your Hormones for Health & Vitality | Dr. Kyle Gillett](sources/how-to-optimize-your-hormones-for-health-vitality-dr-kyle-gillett-scim6818581014.md) — Huberman Lab interview on lifestyle-first hormone assessment, sex-steroid feedback, fertility, prolactin, TRT, hair loss, PCOS, and peptide safety.
 - [175. Crucifixion (Part 1)](sources/175-crucifixion-part-1-glt5186420966.md) — The Rest Is History on crucifixion as Roman public humiliation, the historical evidence for Jesus's execution, and Christianity's inversion of the cross.
 - [Trial and terror: Russia escalates Kyiv campaign](sources/trial-and-terror-russia-escalates-kyiv-campaign-6abe39c382177b9ab8a8904c.md) — The Intelligence on coordinated Russian pressure against Kyiv, smart-glasses privacy and AI-interface ambitions, and the material history of the pen.
@@ -3425,6 +3426,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [176. The Jews Against Rome (Part 2)](sources/176-the-jews-against-rome-part-2-glt3414103581.md) — The Rest Is History episode on Judean identity, Roman governance, revolt escalation, Beth-Horon, Jotapata, Josephus, and Vespasian's rise.
 
 ## Entities
+- [Francis Young](entities/FrancisYoung.md) — Historian distinguishing occult legitimation, advice, propaganda, decision failure, and security response in British politics.
+- [Merlin](entities/Merlin.md) — Legendary British prophet and royal adviser whose political afterlife shaped rebellion, kingship, and later learned self-fashioning.
+- [Helen Duncan](entities/HelenDuncan.md) — Wartime medium whose seances became a possible information-leakage and public-order concern.
 - [Tom Holland](entities/TomHolland.md) — Historian and podcast host interpreting Roman crucifixion, historical-Jesus evidence, and Christianity's moral inversion of the cross.
 - [Henry Tricks](entities/HenryTricks.md) — Technology editor framing smart glasses through bystander suspicion, misuse, phone dependence, and their possible role as AI-agent interfaces.
 - [Simon Garfield](entities/SimonGarfield.md) — Author of The Pen, used by the episode to connect writing instruments, material constraints, mass production, and cultural status.
@@ -15273,6 +15277,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gareth Southgate](entities/GarethSouthgate.md) — England manager presented as joining inherited patriotic symbols to progressive and multiracial belonging.
 
 ## Concepts
+- [Occult Politics](concepts/OccultPolitics.md) — Political use and management of prophecy, magic, astrology, ritual, accusation, and occult reputation.
+- [Political Occult Accusation](concepts/PoliticalOccultAccusation.md) — Use of sorcery or demonic association to explain success and stigmatize political or religious opponents.
 - [Prolactin-Dopamine-Pituitary Interpretation](concepts/ProlactinDopaminePituitaryInterpretation.md) — Context-first framework joining prolactin, dopamine, estrogen, reproductive physiology, gonadal feedback, and pituitary escalation.
 - [Roman Crucifixion as Public Humiliation](concepts/RomanCrucifixionAsPublicHumiliation.md) — Variable Roman status punishment joining pain, exposure, ridicule, deterrence, and imperial mastery.
 - [Cross Symbolic Inversion](concepts/CrossSymbolicInversion.md) — Christianity's transformation of an emblem of servile shame and torture into a contested sign of victim-centered victory and power.

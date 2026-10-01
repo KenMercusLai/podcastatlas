@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9154
+wiki_total_pages: 9156
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1076,6 +1076,9 @@ wiki_pages:
   - key: "PoliticalMemeStock"
     title: "Political Meme Stock"
     url: "/wiki/concepts/politicalmemestock/"
+  - key: "PoliticalOccultAccusation"
+    title: "Political Occult Accusation"
+    url: "/wiki/concepts/politicaloccultaccusation/"
   - key: "PoliticalParableWeaponization"
     title: "Political Parable Weaponization / 寓言式政治挑拨"
     url: "/wiki/concepts/politicalparableweaponization/"

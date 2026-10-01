@@ -1,0 +1,53 @@
+---
+title: "Merlin"
+type: entity
+tags: [legend, prophecy, britain, arthurian, occultism]
+sources:
+  - 174-merlin-magic-and-the-british-glt5141910845
+last_updated: 2026-10-01
+knowledge_schema: synthesis-v1
+---
+
+# Merlin
+
+## Overview
+
+Merlin is the legendary British prophet, artificer, and royal adviser whose medieval political importance rested more on prophecy and secret wisdom than on the modern image of a spell-casting wizard.
+
+## Current Profile
+
+The source attributes Merlin's dominant literary form to Geoffrey of Monmouth's twelfth-century combination of earlier traditions, including the wild man Myrddin Wyllt and Merlin Ambrosius of the Vortigern dragon story. Merlin advises Arthur, moves Stonehenge in legend, predicts political futures, and gives disruptive imported knowledge a British genealogy.
+
+Merlin's political durability comes from being both national ancestor and counsel model. Medieval rulers could place occult wisdom within Solomonic sacred kingship, rebels and courts could invoke Merlinic prophecy, and later figures such as [[JohnDee]] could present themselves as Merlin-like advisers. The source treats this as evidence about political culture, not proof of Merlin's historicity or supernatural powers.
+
+## Key Characteristics
+
+- Composite legendary figure shaped especially by Geoffrey of Monmouth.
+- Prophet and royal adviser more than a modern fantasy wizard.
+- British frame for astrology, alchemy, divination, and secret wisdom.
+- Arthurian source of national and imperial legitimation.
+- Model later learned advisers could consciously or retrospectively inhabit.
+
+## Evidence
+
+- Formation: [[174-merlin-magic-and-the-british-glt5141910845]] connects Geoffrey's Merlin to Myrddin Wyllt, Merlin Ambrosius, Vortigern's dragons, Arthur, and Stonehenge.
+- Political role: [[174-merlin-magic-and-the-british-glt5141910845]] emphasizes prophecy used by rulers and popular rebellions and says Merlin's historical existence was not seriously challenged until the seventeenth century.
+- Knowledge localization: [[174-merlin-magic-and-the-british-glt5141910845]] presents Merlin as a British frame for translated astrological, alchemical, and divinatory learning.
+- Later model: [[174-merlin-magic-and-the-british-glt5141910845]] compares Roger Bacon and especially John Dee to Merlin-like royal advisers.
+
+## Qualifications
+
+The source compresses a large and changing corpus into one political interpretation. Geoffrey's synthesis, medieval reception, rebellion traditions, Islamic-world transmission, and the chronology of skepticism require fuller textual evidence. Legendary deeds are evidence of cultural memory and legitimation, not verified biography.
+
+## What Changed
+
+- Created a profile separating Merlin's medieval prophetic-political role from the modern generic wizard image.
+
+## Relationships
+
+- [[FrancisYoung]] - historian interpreting Merlin as the central figure in British occult politics.
+- [[JohnDee]] - Elizabethan scholar presented as a self-conscious Merlin-like adviser.
+- [[Stonehenge]] - monument Merlin is said in legend to have transported from Ireland.
+- [[OccultPolitics]] - framework explaining Merlin's use in counsel, prophecy, and legitimacy.
+- [[ImperialCartographicMythmaking]] - later Arthurian-imperial use of Merlin and legendary precedent.
+- [[LastDefenderOfCamelot|The Last Defender of Camelot]] - modern literary afterlife that reworks Merlin's power and loneliness.

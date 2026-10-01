@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2944
+topic_total_pages: 2946
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2521,6 +2521,9 @@ topic_concepts:
   - key: "ObamacareSubsidyCliff"
     title: "Obamacare Subsidy Cliff"
     url: "/wiki/concepts/obamacaresubsidycliff/"
+  - key: "OccultPolitics"
+    title: "Occult Politics"
+    url: "/wiki/concepts/occultpolitics/"
   - key: "October1974UKGeneralElection"
     title: "October 1974 UK General Election"
     url: "/wiki/concepts/october1974ukgeneralelection/"
@@ -7794,6 +7797,9 @@ topic_sources:
   - key: "173-tanhe-ruhe-bamian-yiwei-zongtong-963141809"
     title: "173.弹劾：如何罢免一位总统"
     url: "/wiki/sources/173-tanhe-ruhe-bamian-yiwei-zongtong-963141809/"
+  - key: "174-merlin-magic-and-the-british-glt5141910845"
+    title: "174. Merlin, Magic and the British"
+    url: "/wiki/sources/174-merlin-magic-and-the-british-glt5141910845/"
   - key: "178-french-presidents-1958-1981-part-1-glt1396593896"
     title: "178. French Presidents: 1958-1981 (Part 1)"
     url: "/wiki/sources/178-french-presidents-1958-1981-part-1-glt1396593896/"
