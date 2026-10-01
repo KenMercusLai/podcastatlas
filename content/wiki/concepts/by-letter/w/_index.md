@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 9109
+wiki_total_pages: 9111
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -257,6 +257,9 @@ wiki_pages:
   - key: "WhiteVictimhoodNarrative"
     title: "White Victimhood Narrative"
     url: "/wiki/concepts/whitevictimhoodnarrative/"
+  - key: "WhitlamReformProgram"
+    title: "Whitlam Reform Program"
+    url: "/wiki/concepts/whitlamreformprogram/"
   - key: "WholeCompanyBranding"
     title: "Whole-Company Branding"
     url: "/wiki/concepts/wholecompanybranding/"

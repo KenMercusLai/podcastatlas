@@ -26726,3 +26726,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | 188. Australian Prime Ministers: Harold Holt - Malcolm Fraser (Part 2)
+
+Added source `188-australian-prime-ministers-harold-holt-malcolm-fraser-part-2-glt4635125602`; created `HaroldHolt`, `JohnGorton`, `JohnMcEwen`, `WilliamMcMahon`, `GoughWhitlam`, `MalcolmFraser`, `JohnKerr`, `WhitlamReformProgram`, and `AustralianConstitutionalCrisis1975`; and resynthesized `PrimeMinisterialRegicide` from its complete preserved evidence inventory. Core synthesis: the period joins Holt's Vietnam alignment and disappearance, Gorton's party-room fall, Whitlam's broad modernization program, and a 1975 crisis in which blocked supply and reserve powers converted parliamentary deadlock into dismissal before Fraser secured a landslide election. No settled contradiction was adopted. The coup label, CIA and Holt conspiracy theories, claims about sexuality or misconduct, private motives, and many comic anecdotes remain contested, attributed, or source-scoped; the episode is intentionally light on systematic policy detail. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,341-source coverage; no topic claim set was dirty and global compaction was not due. Identity, knowledge-schema, whitespace, health, changed-page link, index coverage, synthesis, and publish validation passed.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

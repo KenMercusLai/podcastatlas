@@ -5,6 +5,7 @@ tags: [politics, leadership, parliament, westminster-systems]
 sources:
   - 193-how-prime-ministers-fall-glt7608869237
   - 189-australian-prime-ministers-bob-hawke-scott-morrison-part-3-glt2222829202
+  - 188-australian-prime-ministers-harold-holt-malcolm-fraser-part-2-glt4635125602
 last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
@@ -21,6 +22,8 @@ Prime ministerial regicide is a metaphor for removing or fatally weakening a pri
 
 [[189-australian-prime-ministers-bob-hawke-scott-morrison-part-3-glt2222829202]] broadens the pattern beyond Britain. [[BobHawke|Hawke]] fell to [[PaulKeating|Keating]], [[KevinRudd|Rudd]] and [[JuliaGillard|Gillard]] displaced one another, [[TonyAbbott|Abbott]] fell to [[MalcolmTurnbull|Turnbull]], and Turnbull was then removed before [[ScottMorrison|Morrison]] took office. These party-room changes show that internal succession can become recurrent even without national crisis or parliamentary defeat, but the episode leaves open whether frequent spills themselves caused poorer government.
 
+Two earlier Australian routes clarify the comparison. [[JohnGorton|John Gorton]] lost office through erosion inside his own party, while [[GoughWhitlam|Gough Whitlam]] was dismissed by Governor-General [[JohnKerr|John Kerr]] after the Senate blocked supply. The first fits party-room regicide closely; the second extends the comparison only with care because reserve powers, bicameral deadlock, and an immediate election differ from an internal leadership spill. [[188-australian-prime-ministers-harold-holt-malcolm-fraser-part-2-glt4635125602]] supplies both cases.
+
 ## Key Claims
 
 - Formal victory and effective authority can diverge when a ballot reveals a large internal rebellion.
@@ -29,6 +32,7 @@ Prime ministerial regicide is a metaphor for removing or fatally weakening a pri
 - Cabinet withdrawal and coordination around a plausible successor can convert weakness into removal.
 - Political collapse may be immediate, delayed, or averted when rivals cannot coordinate.
 - In party-room systems, a sitting prime minister can be replaced without a general election or a formal parliamentary-confidence defeat.
+- Constitutional reserve powers can remove a prime minister through a mechanism distinct from party revolt and should not be collapsed into the same category.
 
 ## Evidence
 
@@ -37,10 +41,11 @@ Prime ministerial regicide is a metaphor for removing or fatally weakening a pri
 - Party and cabinet mechanisms: [[193-how-prime-ministers-fall-glt7608869237]] uses Peel's Corn Law split, Lloyd George's pressure on Asquith, Howe's resignation, and Thatcher's cabinet consultations as distinct routes from division to exit.
 - Timing and counterexample: [[193-how-prime-ministers-fall-glt7608869237]] contrasts May's prolonged decline with Wilson's ability to survive divided rivals.
 - Australian recurrence: [[189-australian-prime-ministers-bob-hawke-scott-morrison-part-3-glt2222829202]] traces Hawke-Keating, Rudd-Gillard-Rudd, Abbott-Turnbull, and Turnbull-Morrison as a sequence of internal leadership replacement.
+- Earlier Australian variants: [[188-australian-prime-ministers-harold-holt-malcolm-fraser-part-2-glt4635125602]] contrasts Gorton's party-driven fall with Whitlam's removal through blocked supply and the governor-general's reserve powers.
 
 ## Counterevidence & Qualifications
 
-"Regicide" is a vivid analogy, not a constitutional term, and it should not flatten assassination, illness, parliamentary defeat, cabinet revolt, party-room challenge, and election loss into one mechanism. The British and Australian cases share Westminster features but differ in party rules, political context, and triggers. The Komodo-dragon metaphor captures delayed deterioration but cannot establish that any confidence-vote survivor is doomed, while recurrence in Australia does not by itself prove declining government quality.
+"Regicide" is a vivid analogy, not a constitutional term, and it should not flatten assassination, illness, parliamentary defeat, cabinet revolt, party-room challenge, reserve-power dismissal, and election loss into one mechanism. The British and Australian cases share Westminster features but differ in party rules, political context, and triggers. The Komodo-dragon metaphor captures delayed deterioration but cannot establish that any confidence-vote survivor is doomed, while recurrence in Australia does not by itself prove declining government quality. Fraser's later electoral victory likewise did not erase the constitutional dispute over Whitlam's dismissal.
 
 ## What Changed
 
@@ -48,6 +53,7 @@ Prime ministerial regicide is a metaphor for removing or fatally weakening a pri
 - Added rival coordination as the condition distinguishing some successful internal coups from survivable weakness.
 - Separated nominal confidence-vote victory from restored governing capacity.
 - Extended the framework from British collapses to Australian party-room replacement while preserving institutional differences.
+- Distinguished Gorton's internal fall from Whitlam's reserve-power dismissal during a supply crisis.
 
 ## Related Concepts
 
@@ -58,3 +64,4 @@ Prime ministerial regicide is a metaphor for removing or fatally weakening a pri
 - [[ConservativePartyUK]] - party setting for the Johnson, Thatcher, and May confidence-vote comparisons.
 - [[Australia]] - comparative Westminster setting for repeated party-room leadership changes.
 - [[HawkeKeatingReformSettlement]] - policy partnership whose succession conflict ended in an internal challenge.
+- [[AustralianConstitutionalCrisis1975]] - exceptional reserve-powers case that tests the limits of the regicide analogy.

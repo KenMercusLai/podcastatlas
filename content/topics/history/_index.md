@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2305
+topic_total_pages: 2306
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4794,6 +4794,9 @@ topic_sources:
   - key: "171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962"
     title: "171.闲聊十二生肖之马：观音大士的兴趣爱好,及老头环角色的灵感"
     url: "/wiki/sources/171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962/"
+  - key: "188-australian-prime-ministers-harold-holt-malcolm-fraser-part-2-glt4635125602"
+    title: "188. Australian Prime Ministers: Harold Holt - Malcolm Fraser (Part 2)"
+    url: "/wiki/sources/188-australian-prime-ministers-harold-holt-malcolm-fraser-part-2-glt4635125602/"
   - key: "189-australian-prime-ministers-bob-hawke-scott-morrison-part-3-glt2222829202"
     title: "189. Australian Prime Ministers: Bob Hawke - Scott Morrison (Part 3)"
     url: "/wiki/sources/189-australian-prime-ministers-bob-hawke-scott-morrison-part-3-glt2222829202/"

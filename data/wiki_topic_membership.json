@@ -1308,6 +1308,13 @@
       "url": "/topics/science/"
     }
   ],
+  "188-australian-prime-ministers-harold-holt-malcolm-fraser-part-2-glt4635125602": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "189-australian-prime-ministers-bob-hawke-scott-morrison-part-3-glt2222829202": [
     {
       "key": "history",
@@ -13231,6 +13238,13 @@
       "label": "Economics",
       "url": "/topics/economics/"
     },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "AustralianConstitutionalCrisis1975": [
     {
       "key": "politics",
       "label": "Politics",
@@ -36033,6 +36047,13 @@
       "url": "/topics/history/"
     }
   ],
+  "GoughWhitlam": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "GovernanceFirstLegalAI": [
     {
       "key": "technology",
@@ -37875,6 +37896,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "HaroldHolt": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "HaroldMacmillan": [
@@ -44557,6 +44585,13 @@
       "url": "/topics/science/"
     }
   ],
+  "JohnGorton": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "JohnGottman": [
     {
       "key": "science",
@@ -44642,6 +44677,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "JohnKerr": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "JohnKipling": [
     {
       "key": "history",
@@ -44654,6 +44696,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "JohnMcEwen": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "JohnPhillips": [
@@ -50595,6 +50644,13 @@
     }
   ],
   "Malaysia": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "MalcolmFraser": [
     {
       "key": "politics",
       "label": "Politics",
@@ -83680,6 +83736,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "WhitlamReformProgram": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "WholeCompanyBranding": [
     {
       "key": "culture",
@@ -83892,6 +83955,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "WilliamMcMahon": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "WilliamOfBaskerville": [

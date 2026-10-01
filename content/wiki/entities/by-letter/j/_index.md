@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 11764
+wiki_total_pages: 11771
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -812,6 +812,9 @@ wiki_pages:
   - key: "JohnGodfrey"
     title: "John Godfrey"
     url: "/wiki/entities/johngodfrey/"
+  - key: "JohnGorton"
+    title: "John Gorton"
+    url: "/wiki/entities/johngorton/"
   - key: "JohnGottman"
     title: "John Gottman / 约翰·哥特曼"
     url: "/wiki/entities/johngottman/"
@@ -875,6 +878,9 @@ wiki_pages:
   - key: "JohnKennethGalbraith"
     title: "John Kenneth Galbraith"
     url: "/wiki/entities/johnkennethgalbraith/"
+  - key: "JohnKerr"
+    title: "John Kerr"
+    url: "/wiki/entities/johnkerr/"
   - key: "JohnKipling"
     title: "John Kipling"
     url: "/wiki/entities/johnkipling/"
@@ -893,6 +899,9 @@ wiki_pages:
   - key: "JohnMcCarthy"
     title: "John McCarthy / 约翰·麦卡锡"
     url: "/wiki/entities/johnmccarthy/"
+  - key: "JohnMcEwen"
+    title: "John McEwen"
+    url: "/wiki/entities/johnmcewen/"
   - key: "JohnMussington"
     title: "John Mussington"
     url: "/wiki/entities/johnmussington/"

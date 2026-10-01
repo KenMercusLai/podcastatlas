@@ -3396,6 +3396,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [199. Stonehenge](sources/199-stonehenge-glt3612348466.md) — The Rest Is History conversation with Mike Pitts on Stonehenge's changing phases, stone transport, burials, solstice alignment, collective construction, and archaeological uncertainty.
 - [191. Childbirth](sources/191-childbirth-glt5119375504.md) — The Rest Is History conversation with Sara Read on female birth communities, early-modern midwifery, religious and parish duties, medicalisation, popular myths, and continuity across changing childbirth cultures.
 - [189. Australian Prime Ministers: Bob Hawke - Scott Morrison (Part 3)](sources/189-australian-prime-ministers-bob-hawke-scott-morrison-part-3-glt2222829202.md) — The Rest Is History survey of Hawke-Keating reform, Howard's conservative era, repeated leadership spills, and Australia's contested international orientation.
+- [188. Australian Prime Ministers: Harold Holt - Malcolm Fraser (Part 2)](sources/188-australian-prime-ministers-harold-holt-malcolm-fraser-part-2-glt4635125602.md) — The Rest Is History survey of Holt through Fraser, Whitlam's reform agenda, the Loans Affair, blocked supply, and the 1975 dismissal.
 
 ## Entities
 - [Sara Read](entities/SaraRead.md) — Literary historian connecting early-modern reproductive experience, medical texts, female practical knowledge, and changing birth institutions.
@@ -15198,6 +15199,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tony Abbott](entities/TonyAbbott.md) — British-born Catholic conservative linked to monarchism, climate skepticism, hard-line borders, and internal removal.
 - [Malcolm Turnbull](entities/MalcolmTurnbull.md) — Lawyer, republican campaigner, and liberal conservative who both gained and lost the premiership through party-room challenge.
 - [Scott Morrison](entities/ScottMorrison.md) — Pentecostal conservative prime minister profiled through bushfires, COVID-19, AUKUS, and the Djokovic dispute.
+- [Harold Holt](entities/HaroldHolt.md) — Liberal prime minister remembered for Vietnam alignment, disappearance at Cheviot Beach, and a conspiracy-heavy afterlife.
+- [John Gorton](entities/JohnGorton.md) — War veteran, larrikin Liberal prime minister, film-policy supporter, and early case of party-room removal.
+- [John McEwen](entities/JohnMcEwen.md) — Country Party leader and short-term caretaker prime minister after Holt's disappearance.
+- [William McMahon](entities/WilliamMcMahon.md) — Liberal prime minister whose episode profile is dominated by hostile judgments about character and trust.
+- [Gough Whitlam](entities/GoughWhitlam.md) — Labor modernizer whose reform government ended in the 1975 supply crisis and dismissal.
+- [Malcolm Fraser](entities/MalcolmFraser.md) — Liberal leader appointed after Whitlam's dismissal, later elected in a landslide and profiled as a pragmatic conservative.
+- [John Kerr](entities/JohnKerr.md) — Governor-general who dismissed Whitlam and commissioned Fraser during the 1975 constitutional crisis.
 
 ## Concepts
 - [Childbirth History](concepts/ChildbirthHistory.md) — Continuity-with-change framework joining birth physiology to changing caregivers, settings, rituals, institutions, risks, and meanings.
@@ -15205,6 +15213,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Medicalisation of Childbirth](concepts/MedicalizationOfChildbirth.md) — Shift toward physician, instrument, hospital, and clinical authority whose interventions and safety systems developed unevenly.
 - [Robin Hood Legend Accretion](concepts/RobinHoodLegendAccretion.md) — Process by which medieval ballad, ritual, Romantic, children's, screen, and political layers formed the familiar modern outlaw hero.
 - [Prime Ministerial Regicide](concepts/PrimeMinisterialRegicide.md) — Framework for party rebellion, parliamentary loss, cabinet withdrawal, and crisis-driven erosion that can make formal survival politically hollow.
+- [Whitlam Reform Program](concepts/WhitlamReformProgram.md) — Australian modernization agenda joining Vietnam withdrawal, social provision, equal pay, Indigenous affairs, anti-apartheid policy, and China diplomacy.
+- [Australian Constitutional Crisis of 1975](concepts/AustralianConstitutionalCrisis1975.md) — Conflict joining blocked supply, Senate power, reserve powers, dismissal, caretaker government, and electoral aftermath.
 - [Fascist Political Theatre](concepts/FascistPoliticalTheatre.md) — Leader-centered ritual using crowd dialogue, uniforms, gesture, song, procession, and sacrifice to turn spectacle into emotional authority.
 - [Ptolemaic Bicultural Kingship](concepts/PtolemaicBiculturalKingship.md) — Combined Macedonian Greek dynastic identity and Egyptian pharaonic legitimacy inherited and intensified by Cleopatra.
 - [Roman Informal Imperial Control](concepts/RomanInformalImperialControl.md) — Military-financial domination of a formally independent kingdom without immediate annexation.
