@@ -26817,3 +26817,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | 182. Operation Barbarossa
+
+Added source `182-operation-barbarossa-glt3299389649`; created `OperationBarbarossa`, `CampaignCulminationThroughLogistics`, and `IdeologicalOccupationSelfSabotage`; and resynthesized `JamesHolland`, `AdolfHitler`, `JosephStalin`, `NaziGermany`, `SovietUnion`, `TheHolocaust`, and `NaziRearmamentWarEconomy` from their complete preserved evidence inventories. Core synthesis: Barbarossa's opening victories concealed an early loss of sustainable mobile capacity, while German resource pressure, dispersed objectives, Soviet reserve generation, and racial occupation made rapid decision increasingly impossible; genocide was constitutive of the eastern campaign, not a detachable side effect. No settled contradiction was adopted. The episode's force totals, equipment losses, Ukrainian attitudes, Stalin's reasoning, operational counterfactuals, and relative causal weights remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,352-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge-schema, whitespace, health, synthesis, and publish validation passed.

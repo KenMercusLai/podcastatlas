@@ -775,6 +775,10 @@
     "title": "181.这轮规模空前的中国制造业出海背后｜线下活动实录",
     "url": "/wiki/sources/181-zhe-lun-guimo-kongqian-de-zhongguo-zhizaoye-chuhai-beihou-xianxia-huodong-shilu-lmkuwy-rlsjtpsjelotovauwyr0/"
   },
+  "182-operation-barbarossa-glt3299389649": {
+    "title": "182. Operation Barbarossa",
+    "url": "/wiki/sources/182-operation-barbarossa-glt3299389649/"
+  },
   "182-quanqiu-hongguan-he-ziben-shichang-2026-sanjidu-fupan-yu-zhanwang-duochong-qiutu-kunjing-lllsfo2sf5jdqirx5o9dn55uqhd8": {
     "title": "182.全球宏观和资本市场2026三季度复盘与展望：多重囚徒困境",
     "url": "/wiki/sources/182-quanqiu-hongguan-he-ziben-shichang-2026-sanjidu-fupan-yu-zhanwang-duochong-qiutu-kunjing-lllsfo2sf5jdqirx5o9dn55uqhd8/"
@@ -13290,6 +13294,10 @@
   "CampaignCoordinationWithoutCommunication": {
     "title": "Campaign Coordination Without Communication",
     "url": "/wiki/concepts/campaigncoordinationwithoutcommunication/"
+  },
+  "CampaignCulminationThroughLogistics": {
+    "title": "Campaign Culmination Through Logistics",
+    "url": "/wiki/concepts/campaignculminationthroughlogistics/"
   },
   "CampaignFinanceAccessIncentive": {
     "title": "军费通道利益驱动 / Campaign Finance Access Incentive",
@@ -37295,6 +37303,10 @@
     "title": "Ideological Defection / 意识形态叛逃",
     "url": "/wiki/concepts/ideologicaldefection/"
   },
+  "IdeologicalOccupationSelfSabotage": {
+    "title": "Ideological Occupation Self-Sabotage",
+    "url": "/wiki/concepts/ideologicaloccupationselfsabotage/"
+  },
   "IdeologicalOvercontrol": {
     "title": "Ideological Overcontrol / 意识形态过度控制",
     "url": "/wiki/concepts/ideologicalovercontrol/"
@@ -55598,6 +55610,10 @@
   "OperationBabylift": {
     "title": "Operation Babylift",
     "url": "/wiki/entities/operationbabylift/"
+  },
+  "OperationBarbarossa": {
+    "title": "Operation Barbarossa",
+    "url": "/wiki/entities/operationbarbarossa/"
   },
   "OperationBlueSkies": {
     "title": "Operation Blue Skies",

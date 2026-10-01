@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [182. Operation Barbarossa](sources/182-operation-barbarossa-glt3299389649.md) — The Rest Is History episode with James Holland on the invasion's resource gamble, early logistical culmination, Soviet resilience, ideological occupation, and genocidal escalation.
 - [183. History's Biggest Questions with Dan Carlin (Part 1)](sources/183-historys-biggest-questions-with-dan-carlin-part-1-glt3395544177.md) — The Rest Is History crossover on counterfactual method, siege survival, the First World War's causal reach, lost ancient perspectives, nuclear choices, and a surviving Confederacy.
 - [Understanding & Controlling Aggression](sources/understanding-controlling-aggression-scim4257261370.md) — Full Huberman Lab episode on aggression categories, VMH circuitry, hormone and photoperiod context, alcohol and caffeine disinhibition, and cumulative pressure-reduction tools.
 - [184. History's Biggest Questions with Dan Carlin (Part 2)](sources/184-historys-biggest-questions-with-dan-carlin-part-2-glt1976082798.md) — The Rest Is History crossover on historical memory, contextual judgment, Cold War contingency, Putin's miscalculation, and whether the past remains knowable.
@@ -3409,6 +3410,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Tools to Improve Your Focus & Concentration](sources/essentials-tools-to-improve-your-focus-concentration-scim2328129388.md) — Huberman Lab Essentials episode on behavior-first focus training, 90-minute work bouts, repeated refocusing, deliberate recovery, optional state tools, supplement caution, and medication boundaries.
 
 ## Entities
+- [Operation Barbarossa](entities/OperationBarbarossa.md) — Nazi Germany's under-resourced 1941 invasion of the Soviet Union, combining rapid victories with early culmination and annihilatory occupation.
 - [Dan Carlin](entities/DanCarlin.md) — Hardcore History host using long-form research, comparison, counterfactuals, and qualified realism about the past.
 - [Hardcore History](entities/HardcoreHistory.md) — Dan Carlin's long-form history podcast, represented through research-led big-question crossovers with The Rest Is History.
 - [Hercule Poirot](entities/HerculePoirot.md) — Christie's Belgian outsider detective, whose modern unheroic persona exposes prejudice and hidden guilt.
@@ -3989,7 +3991,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [J. D. Tippit](entities/JDTippit.md) — Dallas police officer whose killing created the suspect trail from Oak Cliff to Oswald's arrest at the Texas Theatre.
 - [House Select Committee on Assassinations](entities/HouseSelectCommitteeOnAssassinations.md) — Later congressional inquiry whose disputed acoustic finding gave qualified official standing to a possible JFK conspiracy.
 - [Karen Parker](entities/KarenParker.md) — Social neuroscientist connecting comparative models, autism-relevant biomarkers, neuropeptides, and cautiously bounded clinical translation.
-- [James Holland](entities/JamesHolland.md) — Historian joining strategy, logistics, diaries, letters, and civilian experience in his account of the 1943 Italian campaign.
+- [James Holland](entities/JamesHolland.md) — Military historian joining strategy, logistics, operational capacity, ideology, and lived experience across Barbarossa and the Italian campaign.
 - [Italian Campaign of 1943](entities/ItalianCampaign1943.md) — Allied mainland campaign that achieved Italian exit, German diversion, ports, and Foggia but became a constrained attritional advance.
 - [Albert Kesselring](entities/AlbertKesselring.md) — German commander whose Salerno concentration and forward defense of southern Italy receive a source-bounded critical reassessment.
 - [王靖 / Wang Jing (production designer)](entities/WangJingProductionDesigner.md) — Production designer using architectural accumulation, operational detail, and domestic space to create institutional and character realism.
@@ -11813,8 +11815,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Adolf Eichmann / 阿道夫·艾希曼](entities/AdolfEichmann.md) — SS functionary whose early and post-Anschluss coerced-emigration work led into later genocidal administration.
 - [《艾希曼在耶路撒冷》 / Eichmann in Jerusalem](entities/EichmannInJerusalem.md) — Arendt's controversial report/book on Eichmann, the Holocaust, Jewish Councils, and responsibility versus guilt.
 - [Jewish Councils / 犹太委员会](entities/JewishCouncils.md) — Holocaust-era councils discussed through Arendt's disputed responsibility claims under coercive Nazi rule.
-- [Nazi Germany / 纳粹德国](entities/NaziGermany.md) — Racial dictatorship joining territorial annexation and plunder to leader direction, law, bureaucracy, distributed persecution, war, and genocide.
-- [The Holocaust / 犹太人大屠杀](entities/TheHolocaust.md) — Genocide traced through developing persecution, administration, deception, warning failures, and the exceptional Danish rescue case.
+- [Nazi Germany / 纳粹德国](entities/NaziGermany.md) — Racial dictatorship joining rearmament and conquest to legal persecution, logistical overreach, annihilatory occupation, and genocide.
+- [The Holocaust / 犹太人大屠杀](entities/TheHolocaust.md) — Genocide traced through exclusion, eastern mass shooting, administration, camps, warning failures, and rescue.
 - [连阔如 / Lian Kuoru](entities/LianKuoru.md) — Storyteller and author whose 《江湖丛谈》 exposes old Jianghu argot, street trades, scams, quyi worlds, and informal order.
 - [《江湖丛谈》 / Jianghu Congtan](entities/JiangHuCongTan.md) — Lian Kuoru book used by 蜜獾吃书 as a guide to old Jianghu language, livelihood, deception, and mutual-aid rules.
 - [罗翔 / Luo Xiang](entities/LuoXiang.md) — Legal scholar and public intellectual whose 《法律的悖论》 is used by 蜜獾吃书 to examine criminal law, moral judgment, punishment, freedom, and rational humility.
@@ -11869,7 +11871,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ricardo Torres](entities/RicardoTorres.md) — Cuban economist who explains Cuba's long movement between external patron dependence and constrained market reform.
 - [Fidel Castro](entities/FidelCastro.md) — Cuban revolutionary leader whose post-1959 state-led system begins the episode's account of Cuba's economic experiment.
 - [Raul Castro](entities/RaulCastro.md) — Cuban leader associated in the episode with broader but still constrained private-sector reforms.
-- [Soviet Union](entities/SovietUnion.md) — Historical external patron whose cheap oil and favorable trade terms helped sustain Cuba before the Special Period.
+- [Soviet Union](entities/SovietUnion.md) — Revolutionary state joining wartime depth and coercion, technological capacity and secrecy, Cold War fear, and external patronage.
 - [Casey Newton](entities/CaseyNewton.md) — Platformer journalist whose Marketplace Tech account grounds AI-generated hoax evidence and newsroom verification costs.
 - [Platformer](entities/Platformer.md) — Technology publication context for Casey Newton's investigation of a viral AI-generated evidence hoax.
 - [SynthID](entities/SynthID.md) — Google watermarking/provenance signal that helped identify a suspect badge as Gemini-generated in the Marketplace Tech hoax episode.
@@ -15187,7 +15189,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Friedrich Paulus](entities/FriedrichPaulus.md) — German Sixth Army commander who remained in the Stalingrad pocket under Hitler's hold order and ultimately surrendered.
 - [Case Blue](entities/CaseBlue.md) — Germany's 1942 southern offensive whose oil objective was undermined by divided effort, overconfidence, and logistical overreach.
 - [Vasily Chuikov](entities/VasilyChuikov.md) — Soviet 62nd Army commander linking close-range urban defence, Volga sustainment, and attritional endurance.
-- [Joseph Stalin](entities/JosephStalin.md) — Soviet leader whose city symbolism, industrial policy, strategic redeployment, and Order 227 shaped the Stalingrad setting.
+- [Joseph Stalin](entities/JosephStalin.md) — Soviet dictator whose prewar misjudgment, reserve-generating state, Kiev decision, industrial policy, and coercion shaped the eastern war.
 - [Newgate Prison](entities/NewgatePrison.md) — London prison and execution landscape joining confinement, trial, punishment, religion, and urban memory.
 - [Smithfield](entities/Smithfield.md) — London market and open space layered with commerce, religion, punishment, revolt, and commemoration.
 - [St Bartholomew the Great](entities/StBartholomewTheGreat.md) — Surviving medieval priory church shaped by institutional continuity, Reformation reuse, folklore, and cultural afterlife.
@@ -15237,6 +15239,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Nocs Provisions](entities/NocsProvisions.md) — Colorful compact-optics brand weighing connected sharing against analog presence.
 
 ## Concepts
+- [Campaign Culmination Through Logistics](concepts/CampaignCulminationThroughLogistics.md) — Loss of operational capacity when distance, attrition, transport, repair, fuel, and replacement burdens outrun an advancing force.
+- [Ideological Occupation Self-Sabotage](concepts/IdeologicalOccupationSelfSabotage.md) — Pattern in which an invader's coercive or exterminatory ideology destroys collaboration and productive capacity its strategy needs.
 - [Historical Counterfactual Reasoning](concepts/HistoricalCounterfactualReasoning.md) — Method for testing causal claims through specified alternatives while retaining structural constraints and uncertainty.
 - [Propaganda Feedback and Strategic Miscalculation](concepts/PropagandaFeedbackStrategicMiscalculation.md) — Risk that mobilizing narratives, ideological contempt, and incentive-distorted intelligence become inputs to strategic planning.
 - [Social Stereotype Misdirection](concepts/SocialStereotypeMisdirection.md) — Detective-fiction technique that turns assumptions about social identity and role into mechanisms of concealment.
@@ -15851,7 +15855,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Media Saturation and Everyday Conformity](concepts/MediaSaturationAndEverydayConformity.md) — Distribution and behavioral-pressure system joining film, radio, entertainment, symbols, greetings, and visible gestures.
 - [Nazi Domestic and Youth Socialization](concepts/NaziDomesticAndYouthSocialization.md) — Regime reproduction through gender roles, motherhood policy, youth organizations, schools, discipline, curriculum, and bodily training.
 - [Deterrence Failure Against Expansion](concepts/DeterrenceFailureAgainstExpansion.md) — How an unopposed reversible probe can strengthen an aggressor’s position, prestige, and confidence in further escalation.
-- [Nazi Rearmament War Economy](concepts/NaziRearmamentWarEconomy.md) — System linking military recovery and domestic legitimacy to import pressure, consumer sacrifice, autarky, and anticipated conquest.
+- [Nazi Rearmament War Economy](concepts/NaziRearmamentWarEconomy.md) — System linking military recovery and legitimacy to scarcity, conquest, occupation extraction, and failed conversion of territory into usable capacity.
 - [援外医疗实践 / Foreign-Aid Medical Practice](concepts/ForeignAidMedicalPractice.md) — Context-sensitive clinical collaboration under resource, language, infrastructure, team, and cross-cultural constraints.
 - [跨文化公益题材叙事 / Cross-Cultural Public-Interest Storytelling](concepts/CrossCulturalPublicInterestStorytelling.md) — Framework for balancing researched detail, composite adaptation, entertainment, institutional purpose, and fair representation across cultures.
 - [Austrian First Victim Narrative](concepts/AustrianFirstVictimNarrative.md) — Qualified memory frame preserving Austria's coercion and state victimization without erasing enthusiasm, collaboration, and local persecution.

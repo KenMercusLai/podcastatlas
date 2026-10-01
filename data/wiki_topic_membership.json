@@ -1244,6 +1244,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "182-operation-barbarossa-glt3299389649": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "182-quanqiu-hongguan-he-ziben-shichang-2026-sanjidu-fupan-yu-zhanwang-duochong-qiutu-kunjing-lllsfo2sf5jdqirx5o9dn55uqhd8": [
     {
       "key": "technology",
@@ -72536,18 +72543,6 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
-    }
-  ],
-  "SovietUnion": [
-    {
-      "key": "economics",
-      "label": "Economics",
-      "url": "/topics/economics/"
-    },
-    {
-      "key": "history",
-      "label": "History",
-      "url": "/topics/history/"
     }
   ],
   "Soylent": [

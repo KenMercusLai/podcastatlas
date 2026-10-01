@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 9129
+wiki_total_pages: 9131
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -38,6 +38,9 @@ wiki_pages:
   - key: "IdeologicalDefection"
     title: "Ideological Defection / 意识形态叛逃"
     url: "/wiki/concepts/ideologicaldefection/"
+  - key: "IdeologicalOccupationSelfSabotage"
+    title: "Ideological Occupation Self-Sabotage"
+    url: "/wiki/concepts/ideologicaloccupationselfsabotage/"
   - key: "IdeologicalOvercontrol"
     title: "Ideological Overcontrol / 意识形态过度控制"
     url: "/wiki/concepts/ideologicalovercontrol/"

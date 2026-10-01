@@ -6082,9 +6082,9 @@
       "url": "/wiki/entities/adolfeichmann/"
     },
     "AdolfHitler": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 1,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "GLT5771265943 [GLT5771265943].md",
@@ -6169,9 +6169,16 @@
           "show": "The Rest Is History",
           "title": "295: The Rise of the Nazis (Part 1)",
           "url": "/wiki/sources/295-the-rise-of-the-nazis-part-1-glt8045984312/"
+        },
+        {
+          "episode_file": "GLT3299389649 [GLT3299389649].md",
+          "key": "182-operation-barbarossa-glt3299389649",
+          "show": "The Rest Is History",
+          "title": "182. Operation Barbarossa",
+          "url": "/wiki/sources/182-operation-barbarossa-glt3299389649/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/adolfhitler/"
     },
     "AdoptedLondonIdentity": {
@@ -26067,6 +26074,22 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/concepts/campaigncoordinationwithoutcommunication/"
+    },
+    "CampaignCulminationThroughLogistics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3299389649 [GLT3299389649].md",
+          "key": "182-operation-barbarossa-glt3299389649",
+          "show": "The Rest Is History",
+          "title": "182. Operation Barbarossa",
+          "url": "/wiki/sources/182-operation-barbarossa-glt3299389649/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/campaignculminationthroughlogistics/"
     },
     "CampaignFinanceAccessIncentive": {
       "episode_count": 1,
@@ -92469,6 +92492,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/identityresolutionerror/"
     },
+    "IdeologicalOccupationSelfSabotage": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3299389649 [GLT3299389649].md",
+          "key": "182-operation-barbarossa-glt3299389649",
+          "show": "The Rest Is History",
+          "title": "182. Operation Barbarossa",
+          "url": "/wiki/sources/182-operation-barbarossa-glt3299389649/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/ideologicaloccupationselfsabotage/"
+    },
     "IdeologicalTotalizationRisk": {
       "episode_count": 4,
       "show_count": 1,
@@ -98883,9 +98922,9 @@
       "url": "/wiki/entities/jamesearlray/"
     },
     "JamesHolland": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8130436942 [GLT8130436942].md",
@@ -98893,9 +98932,16 @@
           "show": "The Rest Is History",
           "title": "399. The Savage Storm: World War II and The Battle for Italy",
           "url": "/wiki/sources/399-the-savage-storm-world-war-ii-and-the-battle-for-italy-glt8130436942/"
+        },
+        {
+          "episode_file": "GLT3299389649 [GLT3299389649].md",
+          "key": "182-operation-barbarossa-glt3299389649",
+          "show": "The Rest Is History",
+          "title": "182. Operation Barbarossa",
+          "url": "/wiki/sources/182-operation-barbarossa-glt3299389649/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/jamesholland/"
     },
     "JamesHollis": {
@@ -103138,9 +103184,9 @@
       "url": "/wiki/entities/josephpkennedysr/"
     },
     "JosephStalin": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4564292022 [GLT4564292022].md",
@@ -103148,6 +103194,13 @@
           "show": "The Rest Is History",
           "title": "214. The Battle of Stalingrad (Part 1)",
           "url": "/wiki/sources/214-the-battle-of-stalingrad-part-1-glt4564292022/"
+        },
+        {
+          "episode_file": "GLT3299389649 [GLT3299389649].md",
+          "key": "182-operation-barbarossa-glt3299389649",
+          "show": "The Rest Is History",
+          "title": "182. Operation Barbarossa",
+          "url": "/wiki/sources/182-operation-barbarossa-glt3299389649/"
         }
       ],
       "updated": "2026-10-01",
@@ -132996,9 +133049,9 @@
       "url": "/wiki/concepts/nazidomesticandyouthsocialization/"
     },
     "NaziGermany": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 2,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "37.智商测试：请问你是智力婆罗门吗？ [608020679].md",
@@ -133076,9 +133129,16 @@
           "show": "The Rest Is History",
           "title": "404. The Nazis in Power: The Night of the Long Knives (Part 1)",
           "url": "/wiki/sources/404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861584466/"
+        },
+        {
+          "episode_file": "GLT3299389649 [GLT3299389649].md",
+          "key": "182-operation-barbarossa-glt3299389649",
+          "show": "The Rest Is History",
+          "title": "182. Operation Barbarossa",
+          "url": "/wiki/sources/182-operation-barbarossa-glt3299389649/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/nazigermany/"
     },
     "NaziInvoluntaryEuthanasiaProgram": {
@@ -133137,9 +133197,9 @@
       "url": "/wiki/concepts/naziracialmorality/"
     },
     "NaziRearmamentWarEconomy": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6776521114 [GLT6776521114].md",
@@ -133147,9 +133207,16 @@
           "show": "The Rest Is History",
           "title": "406. The Nazis in Power: Hitler’s Road to War (Part 3)",
           "url": "/wiki/sources/406-the-nazis-in-power-hitlers-road-to-war-part-3-glt6776521114/"
+        },
+        {
+          "episode_file": "GLT3299389649 [GLT3299389649].md",
+          "key": "182-operation-barbarossa-glt3299389649",
+          "show": "The Rest Is History",
+          "title": "182. Operation Barbarossa",
+          "url": "/wiki/sources/182-operation-barbarossa-glt3299389649/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/nazirearmamentwareconomy/"
     },
     "Ndongo": {
@@ -138574,6 +138641,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/operationbabylift/"
+    },
+    "OperationBarbarossa": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3299389649 [GLT3299389649].md",
+          "key": "182-operation-barbarossa-glt3299389649",
+          "show": "The Rest Is History",
+          "title": "182. Operation Barbarossa",
+          "url": "/wiki/sources/182-operation-barbarossa-glt3299389649/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/operationbarbarossa/"
     },
     "OperationBlueSkies": {
       "episode_count": 1,
@@ -173430,6 +173513,64 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/sovereigninfrastructureinterdependence/"
     },
+    "SovietUnion": {
+      "episode_count": 7,
+      "show_count": 3,
+      "source_note_count": 7,
+      "sources": [
+        {
+          "episode_file": "81.间谍与叛徒：恕我直言，007的故事弱爆了 (下) [693711209].md",
+          "key": "81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209",
+          "show": "蜜獾吃书",
+          "title": "81.间谍与叛徒：恕我直言，007的故事弱爆了（下）",
+          "url": "/wiki/sources/81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209/"
+        },
+        {
+          "episode_file": "80.间谍与叛徒：恕我直言，007的故事弱爆了 (上) [691866649].md",
+          "key": "80-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-shang-691866649",
+          "show": "蜜獾吃书",
+          "title": "80.间谍与叛徒：恕我直言，007的故事弱爆了（上）",
+          "url": "/wiki/sources/80-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-shang-691866649/"
+        },
+        {
+          "episode_file": "04.切尔诺贝利的午夜： “我要进监狱了。” [530594843].md",
+          "key": "04-qieernuobeili-de-wuye-woyao-jin-jianyu-le-530594843",
+          "show": "蜜獾吃书",
+          "title": "04.切尔诺贝利的午夜： “我要进监狱了。”",
+          "url": "/wiki/sources/04-qieernuobeili-de-wuye-woyao-jin-jianyu-le-530594843/"
+        },
+        {
+          "episode_file": "135.闲聊伟大作家们的八卦（第三弹） [823746670].md",
+          "key": "135-xianliao-weida-zuojiamen-de-bagua-di-san-dan-823746670",
+          "show": "蜜獾吃书",
+          "title": "135.闲聊伟大作家们的八卦（第三弹）",
+          "url": "/wiki/sources/135-xianliao-weida-zuojiamen-de-bagua-di-san-dan-823746670/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_994393ee1ed8674343c10f953b381597_29731599 [default.mp3_ywr3ahjkcgo_994393ee1ed8674343c10f953b381597_29731599].md",
+          "key": "dark-times-for-cubas-economic-experiment",
+          "show": "Planet Money",
+          "title": "Dark times for Cuba's economic experiment",
+          "url": "/wiki/sources/dark-times-for-cubas-economic-experiment/"
+        },
+        {
+          "episode_file": "05.她来自马里乌波尔：“如果你看见过我曾见到的。” [533375925].md",
+          "key": "05-ta-laizi-maliwuboer-ruguo-ni-kanjian-guo-wo-ceng-jiandao-de-533375925",
+          "show": "蜜獾吃书",
+          "title": "05.她来自马里乌波尔：“如果你看见过我曾见到的。”",
+          "url": "/wiki/sources/05-ta-laizi-maliwuboer-ruguo-ni-kanjian-guo-wo-ceng-jiandao-de-533375925/"
+        },
+        {
+          "episode_file": "GLT3299389649 [GLT3299389649].md",
+          "key": "182-operation-barbarossa-glt3299389649",
+          "show": "The Rest Is History",
+          "title": "182. Operation Barbarossa",
+          "url": "/wiki/sources/182-operation-barbarossa-glt3299389649/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/sovietunion/"
+    },
     "SovietUrbanActiveDefense": {
       "episode_count": 2,
       "show_count": 1,
@@ -182868,9 +183009,9 @@
       "url": "/wiki/entities/thehobbit/"
     },
     "TheHolocaust": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 2,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "133. IBM与纳粹：为什么普通人不应赞美鸡贼主义 [815684110].md",
@@ -182920,9 +183061,16 @@
           "show": "The Rest Is History",
           "title": "284: Denmark: The Great Escape",
           "url": "/wiki/sources/284-denmark-the-great-escape-glt4809968647/"
+        },
+        {
+          "episode_file": "GLT3299389649 [GLT3299389649].md",
+          "key": "182-operation-barbarossa-glt3299389649",
+          "show": "The Rest Is History",
+          "title": "182. Operation Barbarossa",
+          "url": "/wiki/sources/182-operation-barbarossa-glt3299389649/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/theholocaust/"
     },
     "TheHungerGames": {
