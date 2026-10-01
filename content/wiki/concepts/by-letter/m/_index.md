@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9173
+wiki_total_pages: 9175
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -947,6 +947,9 @@ wiki_pages:
   - key: "MissingMiddle"
     title: "Missing Middle"
     url: "/wiki/concepts/missingmiddle/"
+  - key: "MissionBeyondRomanFrontier"
+    title: "Mission Beyond the Roman Frontier"
+    url: "/wiki/concepts/missionbeyondromanfrontier/"
   - key: "MissionConstrainedProductDevelopment"
     title: "Mission Constrained Product Development"
     url: "/wiki/concepts/missionconstrainedproductdevelopment/"

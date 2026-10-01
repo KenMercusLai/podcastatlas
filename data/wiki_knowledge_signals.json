@@ -98463,9 +98463,9 @@
       "url": "/wiki/entities/iraqwar/"
     },
     "Ireland": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 2,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "GLT9519811642 [GLT9519811642].md",
@@ -98515,9 +98515,16 @@
           "show": "The Rest Is History",
           "title": "336: Ireland: Celts, Conquest and Cromwell (Part 1)",
           "url": "/wiki/sources/336-ireland-celts-conquest-and-cromwell-part-1-glt6280042699/"
+        },
+        {
+          "episode_file": "GLT2665917893 [GLT2665917893].md",
+          "key": "164-saint-patrick-glt2665917893",
+          "show": "The Rest Is History",
+          "title": "164. Saint Patrick",
+          "url": "/wiki/sources/164-saint-patrick-glt2665917893/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/ireland/"
     },
     "IrishCitizenArmy": {
@@ -108903,6 +108910,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/lastmilerobotdelivery/"
+    },
+    "LateAntiqueFirstPersonEvidence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2665917893 [GLT2665917893].md",
+          "key": "164-saint-patrick-glt2665917893",
+          "show": "The Rest Is History",
+          "title": "164. Saint Patrick",
+          "url": "/wiki/sources/164-saint-patrick-glt2665917893/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/lateantiquefirstpersonevidence/"
     },
     "LateCivilRightsEconomicJustice": {
       "episode_count": 1,
@@ -130170,6 +130193,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/missionalignedvendorswitching/"
     },
+    "MissionBeyondRomanFrontier": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2665917893 [GLT2665917893].md",
+          "key": "164-saint-patrick-glt2665917893",
+          "show": "The Rest Is History",
+          "title": "164. Saint Patrick",
+          "url": "/wiki/sources/164-saint-patrick-glt2665917893/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/missionbeyondromanfrontier/"
+    },
     "MissionConstrainedProductDevelopment": {
       "episode_count": 1,
       "show_count": 1,
@@ -142570,6 +142609,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/palantirdatingevent/"
     },
+    "Palladius": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2665917893 [GLT2665917893].md",
+          "key": "164-saint-patrick-glt2665917893",
+          "show": "The Rest Is History",
+          "title": "164. Saint Patrick",
+          "url": "/wiki/sources/164-saint-patrick-glt2665917893/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/palladius/"
+    },
     "Palm": {
       "episode_count": 1,
       "show_count": 1,
@@ -143856,9 +143911,9 @@
       "url": "/wiki/concepts/patrioticpropheticrhetoric/"
     },
     "PatronSaintSymbolicPlasticity": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5334319363 [GLT5334319363].md",
@@ -143866,9 +143921,16 @@
           "show": "The Rest Is History",
           "title": "462. St George: Dragon-Slayer",
           "url": "/wiki/sources/462-st-george-dragon-slayer-glt5334319363/"
+        },
+        {
+          "episode_file": "GLT2665917893 [GLT2665917893].md",
+          "key": "164-saint-patrick-glt2665917893",
+          "show": "The Rest Is History",
+          "title": "164. Saint Patrick",
+          "url": "/wiki/sources/164-saint-patrick-glt2665917893/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/patronsaintsymbolicplasticity/"
     },
     "PatronageLossSelfProtection": {
@@ -165037,9 +165099,9 @@
       "url": "/wiki/entities/saintcolumba/"
     },
     "SaintLegendAccretion": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5334319363 [GLT5334319363].md",
@@ -165047,9 +165109,16 @@
           "show": "The Rest Is History",
           "title": "462. St George: Dragon-Slayer",
           "url": "/wiki/sources/462-st-george-dragon-slayer-glt5334319363/"
+        },
+        {
+          "episode_file": "GLT2665917893 [GLT2665917893].md",
+          "key": "164-saint-patrick-glt2665917893",
+          "show": "The Rest Is History",
+          "title": "164. Saint Patrick",
+          "url": "/wiki/sources/164-saint-patrick-glt2665917893/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/saintlegendaccretion/"
     },
     "SaintMars": {
@@ -165067,6 +165136,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/saintmars/"
+    },
+    "SaintPatrick": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2665917893 [GLT2665917893].md",
+          "key": "164-saint-patrick-glt2665917893",
+          "show": "The Rest Is History",
+          "title": "164. Saint Patrick",
+          "url": "/wiki/sources/164-saint-patrick-glt2665917893/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/saintpatrick/"
     },
     "SaintPetersburg": {
       "episode_count": 1,

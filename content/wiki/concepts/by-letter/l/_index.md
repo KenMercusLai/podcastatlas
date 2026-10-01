@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 9173
+wiki_total_pages: 9175
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -101,6 +101,9 @@ wiki_pages:
   - key: "LastMileRobotDelivery"
     title: "Last-Mile Robot Delivery"
     url: "/wiki/concepts/lastmilerobotdelivery/"
+  - key: "LateAntiqueFirstPersonEvidence"
+    title: "Late Antique First-Person Evidence"
+    url: "/wiki/concepts/lateantiquefirstpersonevidence/"
   - key: "LateBullMarketLossRisk"
     title: "Late Bull Market Loss Risk / 牛市后期亏钱风险"
     url: "/wiki/concepts/latebullmarketlossrisk/"

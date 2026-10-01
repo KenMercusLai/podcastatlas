@@ -10,17 +10,20 @@ sources:
   - 339-ireland-the-easter-rising-1916-part-4-glt7095481415
   - 337-ireland-union-famine-and-parnell-part-2-glt4375415331
   - 336-ireland-celts-conquest-and-cromwell-part-1-glt6280042699
+  - 164-saint-patrick-glt2665917893
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-28
+last_updated: 2026-10-02
 ---
 
 # Ireland
 
 ## Overview
 
-Ireland appears across the wiki as a polity shaped by incomplete conquest, cultural exchange, plantation, confessional land power, Union, famine, constitutional nationalism, revolution, partition, and later republican conflict. Separate modern sources also treat the Irish state as an actor during [[TheTroubles]] and as a tax jurisdiction within multinational globalization.
+Ireland appears across the wiki as an island, historical mission field, and polity shaped by early Christianity, incomplete conquest, cultural exchange, plantation, confessional land power, Union, famine, constitutional nationalism, revolution, partition, and later republican conflict. Separate modern sources also treat the Irish state as an actor during [[TheTroubles]] and as a tax jurisdiction within multinational globalization.
 
 ## Current Profile
+
+The earliest source layer uses [[SaintPatrick|Saint Patrick]] and [[Palladius]] to complicate a single-founder story of Irish Christianity. Christians were present before Patrick's mission, while Patrick's two writings make Ireland visible through enslavement, conversion, royal households, episcopal authority, and [[MissionBeyondRomanFrontier|mission beyond the Roman frontier]]. Later Irish missionary activity and Patrick's patronal afterlife joined religious history to island and national identity without making every medieval legend contemporary evidence.
 
 The long-history source begins with the incomplete Anglo-Norman intervention under [[HenryIIOfEngland|Henry II]]. Medieval settlement produced extraction and conflict but also bilingualism, trade, and cultural intermingling across the Pale. Under the Tudors and Stuarts, failed reformation, foreign-intervention fears, [[IrishPlantation|plantation]], 1641 violence, [[OliverCromwell|Cromwellian conquest]], Williamite victory, penal laws, and Protestant ascendancy progressively tied religion to land and political identity.
 
@@ -32,16 +35,17 @@ The Troubles sources move to the later relationship between the Republic of Irel
 
 ## Key Characteristics
 
-- Island and political setting whose relationship with English and British power moved through incomplete conquest, plantation, Union, empire, constitutional reform, revolution, and partition.
+- Island whose early Christian record includes existing believers, enslavement across the Irish Sea, mission beyond Roman rule, and later outward missionary traditions.
+- Political setting whose relationship with English and British power moved through incomplete conquest, plantation, Union, empire, constitutional reform, revolution, and partition.
 - Society in which land transfer, penal law, and Protestant ascendancy made confessional identity materially consequential without eliminating cross-confessional coalitions or cultural exchange.
 - Society joined to Britain through migration, commerce, military service, and institutions without achieving an accepted political settlement, then transformed demographically and politically by the Great Famine.
 - Setting where emancipation, land reform, Home Rule, volunteer militarization, cultural nationalism, and wartime rebellion formed one contested political sequence.
-- State actor whose rhetoric, relief funding, border position, and politicians affected the early Troubles.
-- Recurrent strategic pressure point in English fears of Spanish, French, or other foreign intervention.
+- State actor and strategic border setting whose rhetoric, relief funding, politicians, and exposure to outside intervention affected the early Troubles and earlier English security fears.
 - Low-tax jurisdiction used to explain multinational profit booking and fiscal competition.
 
 ## Evidence
 
+- Early Christianity and patronal memory: [[164-saint-patrick-glt2665917893]] distinguishes Patrick's writings and extra-Roman mission from Palladius's earlier appointment to Irish believers, then traces medieval legend and modern symbolic reuse.
 - Conquest, plantation, and Union: [[336-ireland-celts-conquest-and-cromwell-part-1-glt6280042699]] connects medieval intermingling, Reformation failure, land confiscation, Cromwellian violence, Protestant ascendancy, the United Irishmen, 1798, and the Union settlement.
 - Elizabethan strategy: [[694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087]] places Spanish activity in Ireland within Elizabeth I's defensive argument and the wider confessional crisis.
 - Union, famine, and constitutional nationalism: [[337-ireland-union-famine-and-parnell-part-2-glt4375415331]] connects emancipation, imperial integration, famine policy, land reform, Parnell, Redmond, Home Rule, and Ulster resistance.
@@ -52,13 +56,13 @@ The Troubles sources move to the later relationship between the Republic of Irel
 
 ## Qualifications
 
-These sources cover selected crises and mechanisms rather than a continuous history or general country profile. “Ireland” can mean the island, a pre-partition polity, or the later Republic depending on period; the long-history, nineteenth-century, and 1916 sources precede partition, whereas the Troubles and tax episodes distinguish the Irish state from Northern Ireland. Medieval unity, plantation and land-transfer estimates, atrocity totals, Union motives, famine quantities and culpability, imperial allegiance, Home Rule prospects, public support for the Rising, arms diversion, Spanish intentions, and multinational tax effects remain bounded by their source episodes.
+These sources cover selected crises and mechanisms rather than a continuous history or general country profile. “Ireland” can mean the island, a pre-partition polity, or the later Republic depending on period; the Patrick, long-history, nineteenth-century, and 1916 sources precede partition, whereas the Troubles and tax episodes distinguish the Irish state from Northern Ireland. Patrick's dates, mission scale, and relation to Palladius; medieval unity; plantation and land-transfer estimates; atrocity totals; Union motives; famine quantities and culpability; imperial allegiance; Home Rule prospects; public support for the Rising; arms diversion; Spanish intentions; and multinational tax effects remain bounded by their source episodes.
 
 ## What Changed
 
-- Extended the profile backward through medieval intervention, cultural intermingling, Reformation failure, plantation, Cromwellian conquest, Protestant ascendancy, 1798, and Union.
-- Reframed the 1801 Union as a security settlement whose delayed emancipation created an immediate legitimacy deficit.
-- Added the source's caution that neither an unbroken “800 years” oppression story nor a security-only explanation captures the historical sequence.
+- Extended the profile into late antiquity through existing Irish Christians, Patrick's writings, enslavement, and outward mission.
+- Separated Patrick's historical mission from the later claim that he alone introduced Christianity or performed the island's famous miracles.
+- Added patron-saint memory as an early religious layer later usable in national, migrant, diplomatic, and secular identity.
 
 ## Relationships
 
@@ -72,5 +76,7 @@ These sources cover selected crises and mechanisms rather than a continuous hist
 - [[NorthernIreland]] - post-partition region whose crisis repeatedly involved the Irish state.
 - [[SinnFein]] - political organization that inherited the Rising's separatist momentum and later divided with republican armed strategy.
 - [[HistoricalMemoryContest]] - process through which 1916 remained active in later political identity.
+- [[SaintPatrick]] - late-antique missionary and later patronal symbol central to Irish Christian and national memory.
+- [[MissionBeyondRomanFrontier]] - early Christian outward-mission frame associated with Patrick and later Irish missionaries.
 - [[GlobalizationTaxOptimization]] - modern fiscal mechanism for which Ireland serves as a key example.
 - [[Spain]] - early-modern power whose activity in Ireland heightened Elizabethan security fears.

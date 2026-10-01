@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [164. Saint Patrick](sources/164-saint-patrick-glt2665917893.md) — The Rest Is History episode separating Patrick's first-person late-antique evidence from later legend, while tracing mission beyond Rome and patronal reuse.
 - [165. The Rise of Genghis Khan](sources/165-the-rise-of-genghis-khan-glt3370086758.md) — The Rest Is History conversation with Ali Ansari on Temujin's early ordeals, alliances, loyalty network, military reorganization, and 1206 unification.
 - [166. Genghis Khan: Lord of the Mongols](sources/166-genghis-khan-lord-of-the-mongols-glt4398796320.md) — The Rest Is History conversation with Ali Ansari on Genghis Khan's widening ambitions, conditional terror, Central Asian destruction, and the Mongol realm as an empire in formation.
 - [167. Oil: The Making of the Modern World](sources/167-oil-the-making-of-the-modern-world-glt7483911964.md) — The Rest Is History conversation with Helen Thompson on oil's role in imperial competition, world-war logistics, postwar security, OPEC, and Soviet fiscal pressure.
@@ -3439,6 +3440,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Founder-Led Sales: He Learned to Sell and Closed 50 Customers](sources/d5efc401.md) — The SaaS Podcast episode with Shahar Azulay on Groundcover's eBPF and bring-your-own-cloud architecture, founder-led sales, infrastructure-based pricing, and incumbent replacement migration.
 
 ## Entities
+- [Saint Patrick](entities/SaintPatrick.md) — Roman-British missionary bishop known through two first-person texts and a much larger later legendary and national afterlife.
+- [Palladius](entities/Palladius.md) — Bishop sent in 431 to existing Irish Christians whose mission qualifies a single-founder account of Irish Christianity.
 - [Borte](entities/Borte.md) — Temujin's wife, whose abduction and recovery exposed the role of marriage, humiliation, and alliance mobilization in steppe politics.
 - [Jamukha](entities/Jamukha.md) — Temujin's blood brother, early ally, and eventual rival during the struggle to unify the Mongol steppe.
 - [The Secret History of the Mongols](entities/SecretHistoryOfTheMongols.md) — Central but partly legendary narrative source for Temujin's ancestry, childhood, alliances, ordeals, and rise.
@@ -15312,6 +15315,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gareth Southgate](entities/GarethSouthgate.md) — England manager presented as joining inherited patriotic symbols to progressive and multiracial belonging.
 
 ## Concepts
+- [Mission Beyond the Roman Frontier](concepts/MissionBeyondRomanFrontier.md) — Christian missionary vision directed deliberately toward non-Roman peoples rather than only established Christian communities.
+- [Late Antique First-Person Evidence](concepts/LateAntiqueFirstPersonEvidence.md) — Rare participant testimony whose proximity is historically valuable but bounded by genre, memory, purpose, and self-presentation.
 - [Cross-Kinship Steppe Organization](concepts/CrossKinshipSteppeOrganization.md) — Political and military loyalty built across inherited clan divisions through chosen bonds, ability, discipline, and mixed decimal units.
 - [Mongol Strategic Terror](concepts/MongolStrategicTerror.md) — Conditional surrender-and-punishment system using exemplary destruction to deter resistance without making the violence random or moderate.
 - [Nomadic Imperial Formation](concepts/NomadicImperialFormation.md) — Staged transition from cross-kinship unification through composite conquest toward territorial rule and borrowed administration.

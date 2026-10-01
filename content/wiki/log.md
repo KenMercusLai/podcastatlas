@@ -27043,3 +27043,11 @@ Added source `165-the-rise-of-genghis-khan-glt3370086758`; created `Borte`, `Jam
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | 164. Saint Patrick
+
+Added source `164-saint-patrick-glt2665917893`; created `SaintPatrick`, `Palladius`, `MissionBeyondRomanFrontier`, and `LateAntiqueFirstPersonEvidence`; and resynthesized `Ireland`, `SaintLegendAccretion`, and `PatronSaintSymbolicPlasticity` from their complete preserved evidence inventories. Core synthesis: Patrick's two writings are exceptional but purpose-shaped evidence for Roman Britain, enslavement, Irish Christianity, and mission beyond the Roman frontier; Palladius prevents a single-founder account; and later churches, confessional rivals, nationalists, migrants, diplomats, commercial culture, and secular celebration layered new meanings onto Patrick. No settled contradiction was adopted. Patrick's birthplace, chronology, kidnapping, relationship to Palladius, conversion scale, later miracle traditions, and the causes of modern Saint Patrick's Day remain uncertain, debated, or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten because the source deepens a focused early-Christian and Irish-memory branch rather than changing the wiki-wide synthesis. The downstream manifest and paragraph ledger were refreshed to 3,380-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge-schema, whitespace, synthesis, health, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
