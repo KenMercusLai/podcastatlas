@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [184. History's Biggest Questions with Dan Carlin (Part 2)](sources/184-historys-biggest-questions-with-dan-carlin-part-2-glt1976082798.md) — The Rest Is History crossover on historical memory, contextual judgment, Cold War contingency, Putin's miscalculation, and whether the past remains knowable.
 - [185. Agatha Christie](sources/185-agatha-christie-glt9092045420.md) — The Rest Is History episode on Christie's life, middle-class social anxieties, stereotype-based misdirection, moral judgment, and rule-bound formal innovation.
 - [Understand & Improve Memory Using Science-Based Tools](sources/understand-improve-memory-using-science-based-tools-scim9087472978.md) — Full Huberman Lab episode on repetition, post-learning arousal, hippocampal memory, visual snapshots, meditation timing, and safety boundaries.
 - [186. The New Elizabethan Age](sources/186-the-new-elizabethan-age-glt7640926802.md) — The Rest Is History episode on Elizabeth II's image, sacred office, punk critique, popular-culture adaptation, and post-imperial British soft power.
@@ -3405,6 +3406,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [188. Australian Prime Ministers: Harold Holt - Malcolm Fraser (Part 2)](sources/188-australian-prime-ministers-harold-holt-malcolm-fraser-part-2-glt4635125602.md) — The Rest Is History survey of Holt through Fraser, Whitlam's reform agenda, the Loans Affair, blocked supply, and the 1975 dismissal.
 
 ## Entities
+- [Dan Carlin](entities/DanCarlin.md) — Hardcore History host represented through qualified realism about memory, moral judgment, contingency, and knowledge of the past.
+- [Hardcore History](entities/HardcoreHistory.md) — Dan Carlin's history podcast, represented through a big-questions crossover with The Rest Is History.
 - [Hercule Poirot](entities/HerculePoirot.md) — Christie's Belgian outsider detective, whose modern unheroic persona exposes prejudice and hidden guilt.
 - [Miss Marple](entities/MissMarple.md) — Christie's underestimated village detective, whose social knowledge reveals ordinary respectable evil.
 - [Frances Christie](entities/FrancesChristie.md) — Sotheby's curator whose Jubilee exhibition interprets Elizabeth II's reign through portraits, ritual objects, protest graphics, art, and jewelry.
@@ -13770,7 +13773,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Harry Styles](entities/HarryStyles.md) — Megastar example for long-run, few-city concert touring and residency economics.
 - [Crimea](entities/Crimea.md) — Peninsula framed as both Black Sea military base and symbolic target in Ukraine's war visibility strategy.
 - [Volodymyr Zelensky](entities/VolodymyrZelensky.md) — Ukrainian wartime leader framed through 2022 resolve, deep-strike visibility strategy, military reform, and mounting domestic constraints.
-- [Vladimir Putin](entities/VladimirPutin.md) — Russian leader whose Crimea-linked war narrative and exit problem are central to the episode's Russia segment.
+- [Vladimir Putin](entities/VladimirPutin.md) — Russian leader whose Ukraine-war profile joins propaganda-fed miscalculation, Crimea-linked legitimacy, continuing capacity, and an authoritarian exit dilemma.
 - [Andrey Melnichenko](entities/AndreyMelnichenko.md) — Russian industrial oligarch whose sanctions exposure, attacked factories, and survival logic ground the wiki's Russian elite discontent branch.
 - [Arkady Ostrovsky](entities/ArkadyOstrovsky.md) — Economist journalist whose long conversations with Melnichenko frame the source's insider-pressure account of Russia's war dilemma.
 - [Oliver Carroll](entities/OliverCarroll.md) — Reporter describing Kyiv under intensified Russian drone and missile attacks, grounding the air-defense saturation branch.
@@ -15231,6 +15234,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Nocs Provisions](entities/NocsProvisions.md) — Colorful compact-optics brand weighing connected sharing against analog presence.
 
 ## Concepts
+- [Propaganda Feedback and Strategic Miscalculation](concepts/PropagandaFeedbackStrategicMiscalculation.md) — Risk that mobilizing narratives, ideological contempt, and incentive-distorted intelligence become inputs to strategic planning.
 - [Social Stereotype Misdirection](concepts/SocialStereotypeMisdirection.md) — Detective-fiction technique that turns assumptions about social identity and role into mechanisms of concealment.
 - [Detective Fiction Moral Order](concepts/DetectiveFictionMoralOrder.md) — Structure joining causal explanation to moral disclosure, accountability, and bounded restoration.
 - [Rule-Bound Detective Plot Innovation](concepts/RuleBoundDetectivePlotInnovation.md) — Formal practice of producing extreme solutions while preserving enough genre constraint for retrospective intelligibility.
@@ -15583,7 +15587,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [ETF Consensus Feedback / ETF 共识反馈](concepts/ETFConsensusFeedback.md) — Feedback loop joining index rules, theme labels, distribution, flows, benchmark inclusion, liquidity, and attention.
 - [Incremental Capital Market Engine / 增量资金引擎](concepts/IncrementalCapitalMarketEngine.md) — Recurring equity-demand mechanism combining ETF inflows, corporate buybacks, and dividend reinvestment.
 - [ETF Holding-Horizon Classification / ETF 持有期限分类](concepts/ETFHoldingHorizonClassification.md) — Classification of ETF exposure by underlying economics, cyclicality, product mechanics, and intended holding process.
-- [Historical Inquiry and Source Criticism](concepts/HistoricalInquirySourceCriticism.md) — Method for attributing testimony, comparing accounts, preserving uncertainty, and recovering information from mediated reports.
+- [Historical Inquiry and Source Criticism](concepts/HistoricalInquirySourceCriticism.md) — Method for tracing testimony, archive survival, genre, belief, and uncertainty while preserving bounded knowledge of the past.
 - [Cross-Cultural Historical Perspective](concepts/CrossCulturalHistoricalPerspective.md) — Historical comparison that interprets customs and enemies within their own worlds while exposing the contingency of the observer's norms.
 - [Imperial Rise and Decline Cycle](concepts/ImperialRiseDeclineCycle.md) — Herodotean pattern linking imperial success, wealth, hubris, overextension, decline, and repetition by former opponents.
 - [Do-Not-Resuscitate Decision / 拒绝心肺复苏决定](concepts/DoNotResuscitateDecision.md) — Resuscitation-limit choice kept distinct from withdrawal of all treatment, hospice as a whole, and intentional life-ending acts.
@@ -18217,7 +18221,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [女性宗教生活空间 / Female Religious Life Space](concepts/FemaleReligiousLifeSpace.md) — Ambivalent room created by religious roles such as 守贞女: agency outside marriage, but under hierarchy and discipline.
 - [口述记忆分析 / Oral History Memory Analysis](concepts/OralHistoryMemoryAnalysis.md) — Treating interviews as both event evidence and evidence of how memory is organized, revised, and narrated.
 - [历史问题意识 / Historical Question Consciousness](concepts/HistoricalQuestionConsciousness.md) — Historian's discipline for choosing questions that organize abundant sources and AI-era fact access.
-- [拒绝历史人物标签 / Historical Complexity Against Labels](concepts/HistoricalComplexityAgainstLabels.md) — Interpretive ethic of holding structure, agency, contradiction, and change without flattening actors into one-line labels.
+- [拒绝历史人物标签 / Historical Complexity Against Labels](concepts/HistoricalComplexityAgainstLabels.md) — Interpretive ethic for judging structure, achievement, harm, contradiction, and change without one-line moral flattening.
 - [Non-Market Environmental Valuation](concepts/NonMarketEnvironmentalValuation.md) — Method for pricing environmental services that ordinary markets ignore, used here to make Antarctica's climate value visible.
 - [Antarctic Climate Services](concepts/AntarcticClimateServices.md) — Reflective ice, Southern Ocean carbon absorption, and stored land ice treated as Antarctica's largest economic contribution.
 - [Trust-Based Commons Governance](concepts/TrustBasedCommonsGovernance.md) — Shared-resource governance through rules, cooperation, trust, and sanctions rather than ordinary ownership.
@@ -20462,7 +20466,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Belle Epoque / 美好年代](concepts/BelleEpoque.md) — Remembered prewar European golden age read by the source as real cultural abundance but unevenly classed access.
 - [Elite Cosmopolitan Mobility](concepts/EliteCosmopolitanMobility.md) — Class, language, passport, and network conditions that make world-citizen travel available to some people more than others.
 - [European Integration As War Prevention](concepts/EuropeanIntegrationWarPrevention.md) — Bounded claim that shared institutions and industrial chains can lower internal war risk while commerce alone cannot prevent external coercion.
-- [Post-Cold War Order Rupture](concepts/PostColdWarOrderRupture.md) — Interpretation of Russia's 2022 invasion as exposing or ending the immediate post-1990 European security order.
+- [Post-Cold War Order Rupture](concepts/PostColdWarOrderRupture.md) — Interpretation of the 2022 invasion as a contingent rupture in a post-1990 order that was itself not inevitable.
 - [European Energy Security Dependence](concepts/EuropeanEnergySecurityDependence.md) — Strategic exposure through which imported energy constrains sanctions, households, industry, and alliance action during conflict.
 - [Passport Mobility Inequality](concepts/PassportMobilityInequality.md) — Difference between borderless travel for strong passport holders and permit-heavy travel for others.
 - [European Language Friction](concepts/EuropeanLanguageFriction.md) — European language diversity as both cultural asset and practical barrier to social and political integration.
@@ -23238,7 +23242,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [High Crimes And Misdemeanors](concepts/HighCrimesAndMisdemeanors.md) — Ambiguous impeachment standard centered on high office, public trust, abuse of power, and constitutional stakes.
 - [Twenty-Fifth Amendment](concepts/TwentyFifthAmendment.md) — Incapacity mechanism distinct from impeachment, allowing temporary or contested transfer of presidential power.
 - [Constitutional Robustness](concepts/ConstitutionalRobustness.md) — Idea that mature constitutional systems matter because they can correct, restart, and survive failure without routine collapse.
-- [Historical Memory Contest](concepts/HistoricalMemoryContest.md) — Struggle over whether slavery, racial terror, and other painful history are confronted or sanitized through schools, museums, and official narrative.
+- [Historical Memory Contest](concepts/HistoricalMemoryContest.md) — Institutional struggle over how evidence, heroes, injuries, symbols, and grievance are preserved, revised, suppressed, or mobilized.
 - [Immigration Backlash Cycle](concepts/ImmigrationBacklashCycle.md) — Recurring immigration-politics pattern of openness, anxiety, restriction, and reopening, with U.S. history and a British post-Brexit variant.
 - [Assimilation Capacity](concepts/AssimilationCapacity.md) — Society's ability to integrate newcomers through work, culture, community, and national belonging.
 - [American Cultural Exports](concepts/AmericanCulturalExports.md) — U.S. cultural power through absorption, marketing, media distribution, artist rights, and public figures such as Dolly Parton.

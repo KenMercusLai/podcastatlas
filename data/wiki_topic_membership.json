@@ -1270,6 +1270,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "184-historys-biggest-questions-with-dan-carlin-part-2-glt1976082798": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "184-weile-zai-suanfa-shidai-bei-tingjian-women-gaibian-le-duoshao-ziji-duitan-shengdongjixi-zhangjing-lpotw0uqivlj8m6otnoxh0kahee5": [
     {
       "key": "technology",
@@ -24059,6 +24066,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "DanCarlin": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "DanDavies": [
     {
       "key": "politics",
@@ -37903,6 +37917,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "HardcoreHistory": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "HardshipCultureAsEducation": [

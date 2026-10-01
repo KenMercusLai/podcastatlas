@@ -26781,3 +26781,11 @@ Added source `185-agatha-christie-glt9092045420`; created `HerculePoirot`, `Miss
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | 184. History's Biggest Questions with Dan Carlin (Part 2)
+
+Added source `184-historys-biggest-questions-with-dan-carlin-part-2-glt1976082798`; created `DanCarlin`, `HardcoreHistory`, and `PropagandaFeedbackStrategicMiscalculation`; resynthesized `VladimirPutin`, `HistoricalMemoryContest`, `HistoricalComplexityAgainstLabels`, `HistoricalInquirySourceCriticism`, and `PostColdWarOrderRupture` from their complete preserved evidence inventories; and migrated the touched legacy Putin and historical-memory pages to the synthesis-first schema. Core synthesis: history can provide perspective while also sustaining mobilizable grievance; contextual judgment can recognize achievement without moral absolution; mediated and winner-shaped evidence still permits bounded knowledge of the past; and propaganda, intelligence incentives, and contempt can reinforce strategic miscalculation. No settled contradiction was adopted. Putin's beliefs, Soviet technological constraints, Cold War counterfactuals, intelligence-disclosure effects, ancient-source interpretations, and causal claims about collective memory remain attributed, interpretive, or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,348-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge-schema, whitespace, synthesis, and publish validation passed; the repository-wide scanner still reports 14 unrelated pre-existing broken wikilinks.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

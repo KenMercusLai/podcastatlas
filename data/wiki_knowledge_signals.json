@@ -43808,6 +43808,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/dallaspolicedepartment/"
     },
+    "DanCarlin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1976082798 [GLT1976082798].md",
+          "key": "184-historys-biggest-questions-with-dan-carlin-part-2-glt1976082798",
+          "show": "The Rest Is History",
+          "title": "184. History's Biggest Questions with Dan Carlin (Part 2)",
+          "url": "/wiki/sources/184-historys-biggest-questions-with-dan-carlin-part-2-glt1976082798/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/dancarlin/"
+    },
     "DanDriver": {
       "episode_count": 1,
       "show_count": 1,
@@ -82792,6 +82808,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/hardtechfinancingdiscipline/"
     },
+    "HardcoreHistory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1976082798 [GLT1976082798].md",
+          "key": "184-historys-biggest-questions-with-dan-carlin-part-2-glt1976082798",
+          "show": "The Rest Is History",
+          "title": "184. History's Biggest Questions with Dan Carlin (Part 2)",
+          "url": "/wiki/sources/184-historys-biggest-questions-with-dan-carlin-part-2-glt1976082798/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/hardcorehistory/"
+    },
     "HardwareInventoryRisk": {
       "episode_count": 4,
       "show_count": 4,
@@ -86213,9 +86245,9 @@
       "url": "/wiki/concepts/historicalcatastrophenarrativeethics/"
     },
     "HistoricalComplexityAgainstLabels": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "100 年前东北女孩写给巴黎的信｜对谈历史学者李纪：普通人如何穿过大历史？ [3d36f181-94ad-4883-8db3-5f040b5ed45b].md",
@@ -86223,9 +86255,16 @@
           "show": "蜉蝣天地 Meanders",
           "title": "Episode 20: 100 年前东北女孩写给巴黎的信｜对谈历史学者李纪：普通人如何穿过大历史？",
           "url": "/wiki/sources/100-nian-qian-dongbei-nvhai-xie-gei-bali-de-xin-duitan-lishixuezhe-liji-putongren-ruhe-chuanguo-da-lishi-3d36f181-94ad-4883-8db3-5f040b5ed45b/"
+        },
+        {
+          "episode_file": "GLT1976082798 [GLT1976082798].md",
+          "key": "184-historys-biggest-questions-with-dan-carlin-part-2-glt1976082798",
+          "show": "The Rest Is History",
+          "title": "184. History's Biggest Questions with Dan Carlin (Part 2)",
+          "url": "/wiki/sources/184-historys-biggest-questions-with-dan-carlin-part-2-glt1976082798/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/historicalcomplexityagainstlabels/"
     },
     "HistoricalCompositeAllegory": {
@@ -86330,9 +86369,9 @@
       "url": "/wiki/concepts/historicalfiguresasrealitytvarchetypes/"
     },
     "HistoricalInquirySourceCriticism": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7158094581 [GLT7158094581].md",
@@ -86340,9 +86379,16 @@
           "show": "The Rest Is History",
           "title": "330: Herodotus: The Birth of History",
           "url": "/wiki/sources/330-herodotus-the-birth-of-history-glt7158094581/"
+        },
+        {
+          "episode_file": "GLT1976082798 [GLT1976082798].md",
+          "key": "184-historys-biggest-questions-with-dan-carlin-part-2-glt1976082798",
+          "show": "The Rest Is History",
+          "title": "184. History's Biggest Questions with Dan Carlin (Part 2)",
+          "url": "/wiki/sources/184-historys-biggest-questions-with-dan-carlin-part-2-glt1976082798/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/historicalinquirysourcecriticism/"
     },
     "HistoricalInternationalLaw": {
@@ -86413,6 +86459,113 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/historicaljianghuspace/"
+    },
+    "HistoricalMemoryContest": {
+      "episode_count": 14,
+      "show_count": 4,
+      "source_note_count": 14,
+      "sources": [
+        {
+          "episode_file": "GLT5069845329 [GLT5069845329].md",
+          "key": "693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329",
+          "show": "The Rest Is History",
+          "title": "693. Elizabeth I vs The Catholics: England's Greatest Hero (Part 3)",
+          "url": "/wiki/sources/693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329/"
+        },
+        {
+          "episode_file": "EP252 《太平年》之外的五代十国，什么样？ [lnxM7tfS3zmVE3erm9qlBehLeFKh].md",
+          "key": "ep252-taipingnian-zhiwai-de-wudai-shiguo-shenme-yang-lnxm7tfs3zmve3erm9qlbehlefkh",
+          "show": "Talk三联",
+          "title": "EP252 《太平年》之外的五代十国，什么样？",
+          "url": "/wiki/sources/ep252-taipingnian-zhiwai-de-wudai-shiguo-shenme-yang-lnxm7tfs3zmve3erm9qlbehlefkh/"
+        },
+        {
+          "episode_file": "170.宋太祖之死：烛影斧声，阴谋论中的人性谜团（下） [958158115].md",
+          "key": "170-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-xia-958158115",
+          "show": "蜜獾吃书",
+          "title": "170.宋太祖之死：烛影斧声，阴谋论中的人性谜团（下）",
+          "url": "/wiki/sources/170-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-xia-958158115/"
+        },
+        {
+          "episode_file": "169.宋太祖之死：烛影斧声，阴谋论中的人性谜团（上） [957052909].md",
+          "key": "169-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-shang-957052909",
+          "show": "蜜獾吃书",
+          "title": "169.宋太祖之死：烛影斧声，阴谋论中的人性谜团（上）",
+          "url": "/wiki/sources/169-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-shang-957052909/"
+        },
+        {
+          "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
+          "key": "126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780",
+          "show": "蜜獾吃书",
+          "title": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖",
+          "url": "/wiki/sources/126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780/"
+        },
+        {
+          "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
+          "key": "124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361",
+          "show": "蜜獾吃书",
+          "title": "124. 恺撒之死：历史的韵脚，是否已失效？",
+          "url": "/wiki/sources/124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361/"
+        },
+        {
+          "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
+          "key": "125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516",
+          "show": "蜜獾吃书",
+          "title": "125. 马拉之死：卑鄙的暗杀，或正义的处决？",
+          "url": "/wiki/sources/125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516/"
+        },
+        {
+          "episode_file": "Coming in Andy： Britain's prime minister-in-waiting [6a3512974a2a3be0f419384b].md",
+          "key": "coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b",
+          "show": "Economist Podcasts",
+          "title": "Coming in Andy: Britain's prime minister-in-waiting",
+          "url": "/wiki/sources/coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b/"
+        },
+        {
+          "episode_file": "The 250-year experiment： America’s birthday [6a477d9aecd123914320b4ad].md",
+          "key": "the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad",
+          "show": "Economist Podcasts",
+          "title": "The 250-year experiment: America's birthday",
+          "url": "/wiki/sources/the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad/"
+        },
+        {
+          "episode_file": "69.闲聊推理文学：历史学者可不就是侦探吗！ [666244465].md",
+          "key": "69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465",
+          "show": "蜜獾吃书",
+          "title": "69.闲聊推理文学：历史学者可不就是侦探吗！",
+          "url": "/wiki/sources/69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465/"
+        },
+        {
+          "episode_file": "127. 闲聊十二生肖之龙：神奇动物在哪里 [788239655].md",
+          "key": "127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655",
+          "show": "蜜獾吃书",
+          "title": "127. 闲聊十二生肖之龙：神奇动物在哪里",
+          "url": "/wiki/sources/127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655/"
+        },
+        {
+          "episode_file": "11.雍正王朝之大义觉迷：史景迁笔下的千古奇案 [547265513].md",
+          "key": "11-yongzheng-wangchao-zhi-dayi-juemi-shijingqian-bi-xia-de-qiangu-qi-an-547265513",
+          "show": "蜜獾吃书",
+          "title": "11.雍正王朝之大义觉迷：史景迁笔下的千古奇案",
+          "url": "/wiki/sources/11-yongzheng-wangchao-zhi-dayi-juemi-shijingqian-bi-xia-de-qiangu-qi-an-547265513/"
+        },
+        {
+          "episode_file": "GLT4877520736 [GLT4877520736].md",
+          "key": "697-the-troubles-murder-in-belfast-part-1-glt4877520736",
+          "show": "The Rest Is History",
+          "title": "697. The Troubles: Murder in Belfast (Part 1)",
+          "url": "/wiki/sources/697-the-troubles-murder-in-belfast-part-1-glt4877520736/"
+        },
+        {
+          "episode_file": "GLT1976082798 [GLT1976082798].md",
+          "key": "184-historys-biggest-questions-with-dan-carlin-part-2-glt1976082798",
+          "show": "The Rest Is History",
+          "title": "184. History's Biggest Questions with Dan Carlin (Part 2)",
+          "url": "/wiki/sources/184-historys-biggest-questions-with-dan-carlin-part-2-glt1976082798/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/historicalmemorycontest/"
     },
     "HistoricalPopulationRegistrationCaution": {
       "episode_count": 1,
@@ -147634,9 +147787,9 @@
       "url": "/wiki/concepts/postcnutenglishsuccessioncrisis/"
     },
     "PostColdWarOrderRupture": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4625765030 [GLT4625765030].md",
@@ -147644,9 +147797,16 @@
           "show": "The Rest Is History",
           "title": "290: 2022: A History",
           "url": "/wiki/sources/290-2022-a-history-glt4625765030/"
+        },
+        {
+          "episode_file": "GLT1976082798 [GLT1976082798].md",
+          "key": "184-historys-biggest-questions-with-dan-carlin-part-2-glt1976082798",
+          "show": "The Rest Is History",
+          "title": "184. History's Biggest Questions with Dan Carlin (Part 2)",
+          "url": "/wiki/sources/184-historys-biggest-questions-with-dan-carlin-part-2-glt1976082798/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/postcoldwarorderrupture/"
     },
     "PostDefeatForceReconstitution": {
@@ -150908,6 +151068,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/propagandadue/"
+    },
+    "PropagandaFeedbackStrategicMiscalculation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1976082798 [GLT1976082798].md",
+          "key": "184-historys-biggest-questions-with-dan-carlin-part-2-glt1976082798",
+          "show": "The Rest Is History",
+          "title": "184. History's Biggest Questions with Dan Carlin (Part 2)",
+          "url": "/wiki/sources/184-historys-biggest-questions-with-dan-carlin-part-2-glt1976082798/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/propagandafeedbackstrategicmiscalculation/"
     },
     "ProphecyTriggeredPolicy": {
       "episode_count": 6,
@@ -191734,6 +191910,36 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/vivekmurthy/"
+    },
+    "VladimirPutin": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "Far Crimea： war comes to Russia’s door [6a3e560c26d5a6687a90c658].md",
+          "key": "far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658",
+          "show": "Economist Podcasts",
+          "title": "Far Crimea: war comes to Russia's door",
+          "url": "/wiki/sources/far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658/"
+        },
+        {
+          "episode_file": "Putin’s options： an oligarch speaks out [6a50c5ebbafe2fa6a7f38210].md",
+          "key": "putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210",
+          "show": "Economist Podcasts",
+          "title": "Putin's options: an oligarch speaks out",
+          "url": "/wiki/sources/putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210/"
+        },
+        {
+          "episode_file": "GLT1976082798 [GLT1976082798].md",
+          "key": "184-historys-biggest-questions-with-dan-carlin-part-2-glt1976082798",
+          "show": "The Rest Is History",
+          "title": "184. History's Biggest Questions with Dan Carlin (Part 2)",
+          "url": "/wiki/sources/184-historys-biggest-questions-with-dan-carlin-part-2-glt1976082798/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/vladimirputin/"
     },
     "VladimirRaitz": {
       "episode_count": 1,

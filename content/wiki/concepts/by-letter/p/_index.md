@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9127
+wiki_total_pages: 9128
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1985,6 +1985,9 @@ wiki_pages:
   - key: "PropagandaAesthetics"
     title: "Propaganda Aesthetics"
     url: "/wiki/concepts/propagandaaesthetics/"
+  - key: "PropagandaFeedbackStrategicMiscalculation"
+    title: "Propaganda Feedback and Strategic Miscalculation"
+    url: "/wiki/concepts/propagandafeedbackstrategicmiscalculation/"
   - key: "PropertyRightsCommunityObligations"
     title: "Property Rights And Community Obligations"
     url: "/wiki/concepts/propertyrightscommunityobligations/"
