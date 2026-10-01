@@ -7,8 +7,9 @@ sources:
   - tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128
   - tech-20260826-0826-mp-tech-pod-128-tech-20260826-0826-mp-tech-pod-128
   - tulasi-pingguo-cheng-jinnian-aimeijiang-de-zuida-yingjia-xiecheng-erjidu-youying-zhuankui-1015756412
+  - trial-and-terror-russia-escalates-kyiv-campaign-6abe39c382177b9ab8a8904c
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-17
+last_updated: 2026-10-01
 ---
 
 # Smart Glasses Bystander Privacy
@@ -25,10 +26,12 @@ The newest smart-glasses source makes the issue more social and less abstract. A
 
 The opposite response now comes from inside the same company. [[tulasi-pingguo-cheng-jinnian-aimeijiang-de-zuida-yingjia-xiecheng-erjidu-youying-zhuankui-1015756412]] reports that [[Meta]] plans an autumn launch of glasses with six microphones and no camera at all, aimed at voice interaction with [[MetaAI]] and the [[MetaMuseModels|Muse]] agent. Read against the indicator problem, the camera-free design treats bystander capture as something to remove rather than to warn about, though it leaves microphone capture and platform data practices untouched.
 
+Adversarial use and false suspicion add a two-sided social problem. Reports of men covertly recording and harassing women show how ordinary-looking eyewear can hide abuse when users defeat indicator lights. Yet [[HenryTricks]]'s experience of being accused while his recording function was inactive shows that the social cost also reaches non-recording wearers. Device-detection tools may warn about nearby hardware, but proximity does not prove recording or consent.
+
 ## Key Claims
 
 - Bystander privacy is created by the split between wearer benefit and surrounding-person exposure.
-- Recording indicators can help notice but do not guarantee consent, understanding, or social comfort.
+- Recording indicators and device detectors can help notice but do not guarantee active recording, consent, understanding, or social comfort.
 - Face-level cameras make capture harder to avoid in crowded or shared activities.
 - Smart glasses become more privacy-sensitive as they become more fashionable and less visibly gadget-like.
 - The platform's data practices matter separately from whether a bystander notices a recording cue.
@@ -43,6 +46,7 @@ The opposite response now comes from inside the same company. [[tulasi-pingguo-c
 - **Privacy as commercial constraint:** [[tech-20260826-0826-mp-tech-pod-128-tech-20260826-0826-mp-tech-pod-128]] says the "creep glasses" association can hurt appeal, especially when users have to reassure others that they are not invading privacy.
 - **Platform data boundary:** [[tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128]] keeps [[Meta]] data collection separate from recording-light notice.
 - **Camera-free variant:** [[tulasi-pingguo-cheng-jinnian-aimeijiang-de-zuida-yingjia-xiecheng-erjidu-youying-zhuankui-1015756412]] reports a planned camera-free Meta model with six microphones, voice interaction through Meta AI and Muse, and a prior software update that disables the camera when the recording indicator is tampered with.
+- **Adversarial use and false suspicion:** [[trial-and-terror-russia-escalates-kyiv-campaign-6abe39c382177b9ab8a8904c]] reports covert harassment, disabled recording lights, a Bluetooth detector, and a non-recording wearer accused of filming.
 
 ## Counterevidence & Qualifications
 
@@ -51,6 +55,8 @@ The opposite response now comes from inside the same company. [[tulasi-pingguo-c
 - Consent law varies by location, but the wiki treats legal permission and social comfort as distinct thresholds.
 - Avoiding cameras entirely can reduce one privacy risk while weakening the visual context that makes glasses useful.
 - The camera-free model is reported as a plan, and microphone capture, always-on assistance, and platform data practices remain outside what removing a camera resolves.
+- Nearby-device detection can signal possible exposure but cannot prove whether a camera is active, what it captures, or whether the wearer has obtained consent.
+- Shipment growth shows adoption, not resolution of abuse, notice, consent, or social-trust problems.
 
 ## What Changed
 
@@ -58,6 +64,7 @@ The opposite response now comes from inside the same company. [[tulasi-pingguo-c
 - A concrete cooking-class example was added to show how warning people can still fail in shared space.
 - The concept now treats privacy stigma as a product-fit constraint, not only an ethics issue.
 - Added a camera-free design variant that reduces bystander capture rather than mitigating it with indicators.
+- Added the two-sided social cost of covert misuse and false suspicion, plus the limits of device detection.
 
 ## Related Concepts
 

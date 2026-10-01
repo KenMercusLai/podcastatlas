@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Trial and terror: Russia escalates Kyiv campaign](sources/trial-and-terror-russia-escalates-kyiv-campaign-6abe39c382177b9ab8a8904c.md) — The Intelligence on coordinated Russian pressure against Kyiv, smart-glasses privacy and AI-interface ambitions, and the material history of the pen.
 - [Using Light (Sunlight, Blue Light & Red Light) to Optimize Health](sources/using-light-sunlight-blue-light-red-light-to-optimize-health-scim9179977381.md) — Huberman Lab episode separating circadian light, systemic UVB signaling, red and near-infrared photobiomodulation, nighttime-light risk, and experimental gamma entrainment.
 - [178. French Presidents: 1958-1981 (Part 1)](sources/178-french-presidents-1958-1981-part-1-glt1396593896.md) — The Rest Is History on de Gaulle's strong and quasi-monarchical presidency, Pompidou's pragmatic modernization, and Giscard's reforming but scandal-weakened rule.
 - [The Science & Health Benefits of Deliberate Heat Exposure](sources/scim5583107634-scim5583107634.md) — Huberman Lab episode on thermoregulation, sauna dose and adaptation, acute hormone responses, sleep, safety, and experimental adipose browning.
@@ -3421,6 +3422,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [177. The Jewish Revolt (Part 3)](sources/177-the-jewish-revolt-part-3-glt1109135413.md) — The Rest Is History episode on Jerusalem's siege, Josephus, Flavian victory propaganda, post-Temple religious authority, and the memory of Masada.
 
 ## Entities
+- [Henry Tricks](entities/HenryTricks.md) — Technology editor framing smart glasses through bystander suspicion, misuse, phone dependence, and their possible role as AI-agent interfaces.
+- [Simon Garfield](entities/SimonGarfield.md) — Author of The Pen, used by the episode to connect writing instruments, material constraints, mass production, and cultural status.
 - [Judean Revolt, 66-73 CE](entities/JudeanRevolt66To73.md) — Divided provincial rebellion whose defeat destroyed Jerusalem's Temple and acquired an exceptional religious and political afterlife.
 - [Masada](entities/Masada.md) — Herodian fortress, late revolt holdout, contested archaeological site, and modern Israeli memory symbol.
 - [Valéry Giscard d'Estaing](entities/ValeryGiscardDEstaing.md) — Technocratic and social modernizer whose aristocratic persona, scandals, and rivalry with Chirac weakened his presidency.
@@ -15265,6 +15268,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gareth Southgate](entities/GarethSouthgate.md) — England manager presented as joining inherited patriotic symbols to progressive and multiracial belonging.
 
 ## Concepts
+- [Writing Instrument Evolution](concepts/WritingInstrumentEvolution.md) — Shift among reeds, styli, brushes, quills, reservoir pens, and ballpoints as material friction, ink systems, manufacturing, use, and status changed.
 - [Light Therapy Parameter Matching](concepts/LightTherapyParameterMatching.md) — Framework matching wavelength, intensity, timing, duration, exposure area, target tissue, and temporal pattern to a specific light intervention.
 - [UVB Systemic Light Signaling](concepts/UVBSystemicLightSignaling.md) — Qualified skin- and eye-initiated UVB pathways affecting endocrine, pain, immune, mood, and tissue-turnover signals.
 - [Red and Near-Infrared Photobiomodulation](concepts/RedNearInfraredPhotobiomodulation.md) — Target-specific longer-wavelength therapy framework with explicit device, dose, eye-safety, and generalization limits.

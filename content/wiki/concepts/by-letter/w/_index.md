@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 9149
+wiki_total_pages: 9150
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -509,6 +509,9 @@ wiki_pages:
   - key: "WoundCoverageReconstructionSelection"
     title: "Wound Coverage and Reconstruction Selection / 创面覆盖与修复选择"
     url: "/wiki/concepts/woundcoveragereconstructionselection/"
+  - key: "WritingInstrumentEvolution"
+    title: "Writing Instrument Evolution"
+    url: "/wiki/concepts/writinginstrumentevolution/"
   - key: "WrittenSuccessionCredential"
     title: "Written Succession Credential / 书面继承凭证"
     url: "/wiki/concepts/writtensuccessioncredential/"

@@ -323,14 +323,14 @@
       "earliest_episode_date": "2026-02-09",
       "latest_episode_date": "2026-10-01",
       "latest_episode_file": "Trial and terror： Russia escalates Kyiv campaign [6abe39c382177b9ab8a8904c].md",
-      "source_note_count": 84,
-      "topic_matched_source_note_count": 76,
+      "source_note_count": 85,
+      "topic_matched_source_note_count": 77,
       "topics": [
         {
           "key": "politics",
           "label": "Politics",
           "url": "/topics/politics/",
-          "source_note_count": 56
+          "source_note_count": 57
         },
         {
           "key": "technology",
@@ -410,10 +410,10 @@
         }
       ],
       "start_here_episode_files": [
-        "Cheques and the City： Premier League disgrace [6abcdaab4e059d44b566ca74].md",
+        "Trial and terror： Russia escalates Kyiv campaign [6abe39c382177b9ab8a8904c].md",
         "Out-numbered： AI’s contentious maths milestone [6aa3ce622e8bb8424c920cfb].md",
-        "Big meet, little meat： the Trump-Xi summit [6ab6401bbd67ce4b534215db].md",
-        "Trial and terror： Russia escalates Kyiv campaign [6abe39c382177b9ab8a8904c].md"
+        "Cheques and the City： Premier League disgrace [6abcdaab4e059d44b566ca74].md",
+        "Big meet, little meat： the Trump-Xi summit [6ab6401bbd67ce4b534215db].md"
       ]
     },
     "How I Built This with Guy Raz": {

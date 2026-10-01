@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3257
+topic_total_pages: 3259
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -4486,6 +4486,9 @@ topic_concepts:
   - key: "WorldModels"
     title: "World Models"
     url: "/wiki/concepts/worldmodels/"
+  - key: "WritingInstrumentEvolution"
+    title: "Writing Instrument Evolution"
+    url: "/wiki/concepts/writinginstrumentevolution/"
   - key: "XLACompiler"
     title: "XLA Compiler"
     url: "/wiki/concepts/xlacompiler/"
@@ -5792,6 +5795,9 @@ topic_entities:
   - key: "HenryLaufer"
     title: "Henry Laufer"
     url: "/wiki/entities/henrylaufer/"
+  - key: "HenryTricks"
+    title: "Henry Tricks"
+    url: "/wiki/entities/henrytricks/"
   - key: "HenryYin"
     title: "Henry Yin"
     url: "/wiki/entities/henryyin/"

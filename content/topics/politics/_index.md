@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2943
+topic_total_pages: 2944
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -8367,6 +8367,9 @@ topic_sources:
   - key: "trailer-tocqueville-road-trip-6a31598d780d0f7579b04fb7"
     title: "Trailer: Tocqueville Road Trip"
     url: "/wiki/sources/trailer-tocqueville-road-trip-6a31598d780d0f7579b04fb7/"
+  - key: "trial-and-terror-russia-escalates-kyiv-campaign-6abe39c382177b9ab8a8904c"
+    title: "Trial and terror: Russia escalates Kyiv campaign"
+    url: "/wiki/sources/trial-and-terror-russia-escalates-kyiv-campaign-6abe39c382177b9ab8a8904c/"
   - key: "tech-20260918-mp-tech-pod-128-tech-20260918-mp-tech-pod-128"
     title: "Trump rejects AI's \"effective altruism\" movement"
     url: "/wiki/sources/tech-20260918-mp-tech-pod-128-tech-20260918-mp-tech-pod-128/"
