@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [135. Crossing the Rubicon: The die is cast](sources/135-crossing-the-rubicon-the-die-is-cast-glt1750785311.md) — The Rest Is History on Caesar's Gallic command, legal vulnerability, the collapse of the First Triumvirate, Pompeian-senatorial alignment, and the Rubicon as civil-war threshold and enduring metaphor.
 - [136. 1922: The Birth of the Modern World Part 1](sources/136-1922-the-birth-of-the-modern-world-part-1-glt1607440485.md) — The Rest Is History on literary modernism, Weimar crisis, Mussolini's appointment, Soviet formation, and the fearful postwar order of 1922.
 - [137. 1922: The Birth of the Modern World Part 2](sources/137-1922-the-birth-of-the-modern-world-part-2-glt5281126494.md) — The Rest Is History on radio and the BBC, American cultural power, Irish civil war, Ottoman collapse, imperial retreat, and Britain's 1922 party realignment.
 - [The Science of Setting & Achieving Goals](sources/the-science-of-setting-achieving-goals-scim1292734289.md) — Huberman Lab episode on goal difficulty, action planning, visual focus, dopamine-based progress signals, and qualified visualization tools.
@@ -11772,6 +11773,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Stanislas Maillard](entities/StanislasMaillard.md) — Identifiable local organizer associated with September Massacres killing teams and improvised tribunals.
 - [Thomas Paine / 托马斯·潘恩](entities/ThomasPaine.md) — Transatlantic republican whose mass persuasion for American independence coexisted with opposition to revolutionary execution in France.
 - [Julius Caesar / 尤利乌斯·恺撒](entities/JuliusCaesar.md) — Roman commander, reformer, and dictator whose military prestige, clemency, monarchy signals, assassination, and disputed Alexandrian-library role shaped competing legacies.
+- [First Triumvirate](entities/FirstTriumvirate.md) — Informal Caesar-Pompey-Crassus alliance that distributed commands and temporarily contained rivalry before its personal bonds collapsed.
+- [Crossing of the Rubicon](entities/CrossingOfTheRubicon.md) — Caesar's army-backed passage into Italy in 49 BC and its later meaning as an irreversible political threshold.
 - [Roman Republic / 罗马共和国](entities/RomanRepublic.md) — Expansionary polity whose civic-military capacity, command crisis, failed post-Caesar settlement, and triumviral defeat expose both republican strength and collapse.
 - [Roman Empire / 罗马帝国](entities/RomanEmpire.md) — Imperial order whose western office, civic institutions, legitimacy, and eastern state transformed or ended at different times.
 - [Romulus Augustulus](entities/RomulusAugustulus.md) — Young western emperor whose deposition in 476 is a real but qualified endpoint for Roman rule.

@@ -11,7 +11,8 @@ sources:
   - 702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089
   - 703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511
   - 704-roman-civil-war-master-of-the-republic-part-4-glt9669112656
-last_updated: 2026-09-10
+  - 135-crossing-the-rubicon-the-die-is-cast-glt1750785311
+last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
 
@@ -23,7 +24,7 @@ Military personalization / 军队私人化 is the mechanism by which armies, arm
 
 ## Current Synthesis
 
-The Roman, Qin, Chu-Han, and Song evidence now shows four versions of the same danger. In the Roman branch, [[GaiusMarius]]'s reforms, African command, repeated consulships, northern victories, and command rivalry with [[LuciusCorneliusSulla]] show how soldiers, victory, command credit, and public office could fuse inside a republic. Episode 702 sharpens the threshold: Sulla is legally assigned the Mithridatic command, but Marius and [[PubliusSulpiciusRufus]] use street-backed procedure to transfer it, and an officer then arrives to take over Sulla's six legions. Episode 703 resolves the threshold: Sulla's soldiers follow him against Rome, most senior officers desert, and [[GnaeusPompeiusStrabo]] soon shows the same personalization risk by keeping his legions after they kill a replacement commander. Episode 704 shows the pattern spreading: [[Pompey]] and [[MarcusLiciniusCrassus]] raise or command forces through family, clients, youth, and civil-war opportunity, while Sulla uses victory, veterans, confiscated property, and extraordinary office to remake the republic.
+The Roman, Qin, Chu-Han, and Song evidence now shows four versions of the same danger. In the Roman branch, [[GaiusMarius]]'s reforms, African command, repeated consulships, northern victories, and command rivalry with [[LuciusCorneliusSulla]] show how soldiers, victory, command credit, and public office could fuse inside a republic. Episode 702 sharpens the threshold: Sulla is legally assigned the Mithridatic command, but Marius and [[PubliusSulpiciusRufus]] use street-backed procedure to transfer it, and an officer then arrives to take over Sulla's six legions. Episode 703 resolves the threshold: Sulla's soldiers follow him against Rome, most senior officers desert, and [[GnaeusPompeiusStrabo]] soon shows the same personalization risk by keeping his legions after they kill a replacement commander. Episode 704 shows the pattern spreading: [[Pompey]] and [[MarcusLiciniusCrassus]] raise or command forces through family, clients, youth, and civil-war opportunity, while Sulla uses victory, veterans, confiscated property, and extraordinary office to remake the republic. Episode 135 carries the mechanism into Caesar's generation: Gallic conquest builds a close bond between [[JuliusCaesar]] and his legions, so the 13th follows him across the provincial boundary when legal bargaining fails.
 
 In the Qin branch, [[WangJianQin|王翦]] performs harmlessness because command over 600,000 troops is itself politically suspect. In the Julu branch, [[XiangYu|项羽]] turns battlefield victory after a violent command seizure into coalition authority. In the Song founding branch, [[ZhaoKuangyin|赵匡胤]] becomes emperor through禁军 support and then centralizes command to prevent imitation.
 
@@ -46,18 +47,19 @@ The shared pattern is not that every strong general immediately rebels. It is th
 - Roman march and brokerage: [[703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511]] shows Sulla's soldiers urging the march on Rome while senior officers desert, and then shows [[GnaeusPompeiusStrabo]] retaining his army after a failed reassignment.
 - Roman private-force escalation: [[704-roman-civil-war-master-of-the-republic-part-4-glt9669112656]] shows Pompey raising a private army in Picenum, Crassus recruiting through family clients, Sulla rewarding supporters through confiscations, and veterans protecting Sulla in retirement.
 - Roman victory-to-office escalation: [[704-roman-civil-war-master-of-the-republic-part-4-glt9669112656]] shows Sulla using military victory to obtain open-ended dictatorship and redesign republican offices.
+- Caesar's army-backed threshold: [[135-crossing-the-rubicon-the-die-is-cast-glt1750785311]] links Gallic wealth, recruitment, and personal legionary attachment to the 13th Legion's participation in the [[CrossingOfTheRubicon]].
 - Qin suspicion-management case: [[zizhi-tongjian-qinji-117-2-xuezhedian-qinchao-wujiang-jingran-ruci-gaoqingshang-lsyw3eitcnzfexl1l6vfh2gbtaoy]] frames [[WangJianQin|王翦]]'s estate requests as a harmlessness performance before leading nearly all of Qin's military capacity against Chu.
 - Julu battlefield-legitimation case: [[zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw]] shows [[XiangYu|项羽]]'s victory over [[WangLiQin|王离]] turning a prior command seizure into broad coalition submission.
 - Song founding case: [[169-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-shang-957052909]] treats [[ChenQiaoMutiny|陈桥兵变]] as a禁军, gate-control, soldier-expectation, and succession-crisis event, followed by [[SongMilitaryCentralization|宋初军事集权]] as a preventative redesign.
 
 ## Counterevidence & Qualifications
 
-The concept does not mean every military merit network is already private rebellion. Wang Jian avoids turning command scale into usurpation, Xiang Yu's authority remains coalition and battlefield-centered rather than institutionalized, and Zhao Kuangyin's later centralization partly repairs the danger that made his accession possible. The Roman sources also show unevenness: Sulla's soldiers follow him while most senior officers desert in episode 703, and Sulla still wants constitutional form even after episode 704 shows him using military victory to dominate the state.
+The concept does not mean every military merit network is already private rebellion. Wang Jian avoids turning command scale into usurpation, Xiang Yu's authority remains coalition and battlefield-centered rather than institutionalized, and Zhao Kuangyin's later centralization partly repairs the danger that made his accession possible. The Roman sources also show unevenness: Sulla's soldiers follow him while most senior officers desert in episode 703, and Sulla still wants constitutional form even after episode 704 shows him using military victory to dominate the state. Episode 135 treats Caesar's legionary support as highly reliable but does not make that loyalty alone sufficient to explain civil war; immunity, rival commands, senatorial action, and failed bargaining also matter.
 
 ## What Changed
 
-- Added Pompey, Crassus, Sulla's veterans, confiscations, and dictatorship as the next Roman stage after the first march on Rome.
-- Reframed the Roman branch from realized march precedent to a fuller victory-to-settlement mechanism.
+- Extended the Roman sequence from Sulla's settlement to Caesar's Gallic army and the 13th Legion at the Rubicon.
+- Clarified that personalized loyalty becomes decisive through interaction with legal vulnerability and failed command bargaining.
 
 ## Related Concepts
 
@@ -72,3 +74,4 @@ The concept does not mean every military merit network is already private rebell
 - [[SongMilitaryCentralization]] - institutional reaction to command-centered regime turnover.
 - [[AntiQinCoalitionFragmentation]] - coalition condition that Xiang Yu temporarily overcomes through personal battlefield authority.
 - [[PersonalRuleLegitimacyCrisis]] - late-stage problem when command success becomes one-person rule without accepted legitimacy.
+- [[CrossingOfTheRubicon]] - Caesar-era threshold where a provincial army enters domestic civil conflict.

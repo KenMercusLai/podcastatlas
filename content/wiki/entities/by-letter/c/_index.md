@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 11906
+wiki_total_pages: 11908
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -1553,6 +1553,9 @@ wiki_pages:
   - key: "CropWizard"
     title: "Crop Wizard"
     url: "/wiki/entities/cropwizard/"
+  - key: "CrossingOfTheRubicon"
+    title: "Crossing of the Rubicon"
+    url: "/wiki/entities/crossingoftherubicon/"
   - key: "CrowdStrike"
     title: "CrowdStrike"
     url: "/wiki/entities/crowdstrike/"

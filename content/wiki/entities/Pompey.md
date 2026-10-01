@@ -6,7 +6,8 @@ sources:
   - 124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361
   - 704-roman-civil-war-master-of-the-republic-part-4-glt9669112656
   - 196-julius-caesar-cleopatra-part-2-glt3216275988
-last_updated: 2026-09-10
+  - 135-crossing-the-rubicon-the-die-is-cast-glt1750785311
+last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,7 +19,7 @@ Pompey / 庞培 is the wiki's Roman example of a glamorous commander whose caree
 
 ## Current Profile
 
-The Caesar sources present Pompey as Caesar's ally turned civil-war rival. He is part of the First Triumvirate with Caesar and [[MarcusLiciniusCrassus]], and the alliance is stabilized partly by Caesar's daughter Julia. After Crassus and Julia die, Pompey aligns with the Senate side, Caesar crosses the Rubicon, and defeats him at Pharsalus. [[196-julius-caesar-cleopatra-part-2-glt3216275988]] follows his flight to Egypt, where advisers of [[PtolemyXIII|Ptolemy XIII]] murder him while trying to avoid choosing between Roman factions. His memory also shapes the [[CaesarAssassination|assassination scene]] because Caesar is killed at Pompey's Curia.
+The Caesar sources present Pompey as Caesar's ally turned civil-war rival. In the [[FirstTriumvirate]], the Lucca settlement gives him Spain while renewing Caesar's Gallic command and sending [[MarcusLiciniusCrassus]] to Syria. Julia's marriage to Pompey and Crassus's third position help contain rivalry; their deaths remove those restraints. Pompey wants to preserve Caesar's friendship but also the legitimacy of senatorial constitutionalists, and by 51-50 BC he demands that Caesar surrender command and accepts the role of defender of the republic. After failed reciprocal-disarmament bargaining, Caesar crosses the Rubicon and later defeats him at Pharsalus. [[196-julius-caesar-cleopatra-part-2-glt3216275988]] follows his flight to Egypt, where advisers of [[PtolemyXIII|Ptolemy XIII]] murder him while trying to avoid choosing between Roman factions. His memory also shapes the [[CaesarAssassination|assassination scene]] because Caesar is killed at Pompey's Curia.
 
 Episode 704 moves Pompey backward into the Sullan civil war. As the young son of [[GnaeusPompeiusStrabo]], he raises a private army in Picenum, defeats Marian armies, and joins [[LuciusCorneliusSulla]] before holding the offices normally expected of a Roman commander. Sulla accepts the illegal army because civil war rewards useful force. Pompey's later commands in Sicily and Africa, executions without due process, refusal to disband, and demand for a triumph show him learning the new Sullan lesson: charisma, troops, victory, and audacity can accelerate a career beyond republican seniority.
 
@@ -29,7 +30,7 @@ Episode 704 moves Pompey backward into the Sullan civil war. As the young son of
 - His youth and Alexander-style glamour turn military illegality into political theatre.
 - His Sicilian and African commands show ruthlessness as well as talent.
 - His demand for a triumph at 25 turns civil-war victory into public status before ordinary office eligibility.
-- His later Caesar rivalry grows from a political world that Sulla and Pompey had already helped normalize.
+- His later Caesar rivalry grows from a political world that Sulla and Pompey had already helped normalize, then sharpens as he seeks senatorial legitimacy.
 - His Egyptian murder shows weaker monarchies trying and failing to manage Roman commander politics.
 
 ## Evidence
@@ -42,15 +43,17 @@ Episode 704 moves Pompey backward into the Sullan civil war. As the young son of
 - Sullan indulgence: [[704-roman-civil-war-master-of-the-republic-part-4-glt9669112656]] says Sulla accepts Pompey's illegal army and later grants his triumph demand.
 - Ruthless command: [[704-roman-civil-war-master-of-the-republic-part-4-glt9669112656]] says Pompey executes a Marian commander without due process in Sicily and receives the hostile nickname "teenage butcher."
 - Status acceleration: [[704-roman-civil-war-master-of-the-republic-part-4-glt9669112656]] says Pompey refuses to disband and demands a triumph despite being only 25.
+- Lucca-to-Rubicon sequence: [[135-crossing-the-rubicon-the-die-is-cast-glt1750785311]] traces Pompey from renewed command-sharing through the loss of Julia and Crassus, senatorial alignment, disarmament demands, and the failed compromise before Caesar's crossing.
 
 ## Qualifications
 
-The current evidence still jumps from Pompey's Sullan youth to his Caesar-era rivalry. It does not yet provide a continuous biography through Sertorius, Spartacus, the pirates, eastern settlement, or the full 50s BC political sequence. The Egyptian council debate, Pompey's final demeanor, Caesar's grief, and Jewish interpretations of his death remain later or source-scoped traditions.
+The current evidence now supplies the final 50s BC political sequence but still lacks a continuous biography through Sertorius, Spartacus, the pirates, and the eastern settlement. Pompey's private motives, the sincerity and timing of his constitutional alignment, alternative compromise terms, the Egyptian council debate, his final demeanor, Caesar's grief, and Jewish interpretations of his death remain later or source-scoped traditions.
 
 ## What Changed
 
-- Added Pharsalus, flight to Egypt, and the Ptolemaic court's calculated murder.
-- Connected Pompey's death to the transmission of Roman civil war into Egyptian succession politics.
+- Added the Lucca command settlement and the deaths of Julia and Crassus as changes in Pompey's alliance structure.
+- Clarified his attempt to combine Caesar's friendship with senatorial constitutional legitimacy.
+- Connected his disarmament demand and defender-of-the-republic role to the failed compromise before the Rubicon.
 
 ## Relationships
 
@@ -58,6 +61,8 @@ The current evidence still jumps from Pompey's Sullan youth to his Caesar-era ri
 - [[LuciusCorneliusSulla]] - civil-war patron who accepts Pompey's illegal force and grants his triumph.
 - [[MarcusLiciniusCrassus]] - Sullan-side peer in episode 704 and later First Triumvirate partner.
 - [[JuliusCaesar]] - later ally, family-linked partner, and civil-war rival.
+- [[FirstTriumvirate]] - informal alliance that temporarily aligned his interests with Caesar and Crassus.
+- [[CrossingOfTheRubicon]] - civil-war threshold produced when the command settlement failed.
 - [[RomanRepublic]] - polity whose age, office, and command norms Pompey bypasses.
 - [[MilitaryPersonalization]] - mechanism visible in Pompey's private army and later commander-centered rivalry.
 - [[LateRomanRepublicCrisis]] - broader crisis that Pompey's accelerated career both reflects and deepens.

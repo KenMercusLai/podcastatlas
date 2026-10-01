@@ -8,7 +8,8 @@ sources:
   - 198-cleopatras-downfall-part-4-glt1186341405
   - 197-antony-cleopatra-part-3-glt1953107818
   - 195-young-cleopatra-part-1-glt1502910094
-last_updated: 2026-10-01
+  - 135-crossing-the-rubicon-the-die-is-cast-glt1750785311
+last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
 
@@ -22,6 +23,8 @@ Mark Antony / 马克·安东尼 is [[JuliusCaesar|Caesar]]'s general and politic
 
 [[195-young-cleopatra-part-1-glt1502910094]] supplies Antony's first Egyptian connection. As a young cavalry commander in Aulus Gabinius's expedition, he helped restore [[PtolemyXIIAuletes|Ptolemy XII Auletes]] after the king's expulsion. Cleopatra probably saw a senior commander in the force, but the episode's imagined first glimpse is literary foreshadowing rather than evidence of an early relationship.
 
+Antony's earlier constitutional role begins with his tribunate in January 49 BC. He reads Caesar's proposal that Caesar and [[Pompey]] surrender command together, vetoes the Senate's unilateral demand that Caesar disarm, and then flees Rome with other Caesarians after the emergency declaration. The flight becomes both a real political rupture and useful Caesarian theatre before the [[CrossingOfTheRubicon]].
+
 The earlier Caesar source places Antony beside Caesar at the contested Lupercalia crown offering and then makes [[MarcusBrutus]]'s refusal to kill him a decisive conspiratorial choice. [[305-the-fall-of-the-roman-republic-glt6995332578]] supplies the aftermath: Antony initially hides, then recovers quickly, convenes the Senate, accepts an amnesty settlement, and uses Caesar's public funeral, wounds, will, gardens, and cash gifts to turn emotion against the liberators.
 
 Antony then competes for troops and provincial command, besieges [[DecimusJuniusBrutus]] at Mutina, and retreats after defeat. The deaths of both consuls prevent a clean senatorial victory. Antony joins Lepidus, bargains with Octavian, and helps establish the triumvirate and its proscriptions. At [[BattleOfPhilippi|Philippi]] he is presented as the more active battlefield commander.
@@ -34,7 +37,7 @@ His attempt to conquer Parthia ends in siege failure and a damaging retreat. Cle
 
 ## Key Characteristics
 
-- Caesar's trusted military-political ally who survives the assassination and converts funeral ritual into popular advantage.
+- Caesar's trusted military-political ally whose tribunate, veto, and flight help frame the Rubicon crisis before he survives the assassination and converts funeral ritual into popular advantage.
 - Roman commander whose Egyptian career ran from cavalry service in Auletes's restoration to an alliance dependent on Cleopatra's resources.
 - Triumvir who recovers from Mutina, shares proscription and war finance, and appears as the stronger Philippi commander.
 - Failed Parthian conqueror whose military reversal increases his dependence on Cleopatra and eastern resources.
@@ -45,6 +48,7 @@ His attempt to conquer Parthia ends in siege failure and a damaging retreat. Cle
 ## Evidence
 
 - Caesar-era role: [[124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361]] links Antony to Caesar, the Lupercalia crown scene, Brutus's restraint, and the later imperial sequence.
+- Rubicon crisis: [[135-crossing-the-rubicon-the-die-is-cast-glt1750785311]] links Antony's reciprocal-disarmament proposal, veto, and flight to the Senate emergency and Caesar's public grievance.
 - Early Egyptian role: [[195-young-cleopatra-part-1-glt1502910094]] places Antony in Gabinius's expedition restoring Auletes and qualifies the dramatized childhood encounter with Cleopatra.
 - Funeral and recovery: [[305-the-fall-of-the-roman-republic-glt6995332578]] describes Antony's initial fear, Senate meeting, funeral speech, reading of the will, and popular backlash.
 - Military and triumviral ascent: [[305-the-fall-of-the-roman-republic-glt6995332578]] follows Mutina, retreat to Lepidus, agreement with Octavian, proscriptions, and Philippi.
@@ -57,16 +61,17 @@ His attempt to conquer Parthia ends in siege failure and a damaging retreat. Cle
 
 ## Qualifications
 
-The current evidence is podcast synthesis, not a complete biography. Any childhood sighting by Cleopatra, the exact funeral performance, motives in accepting amnesty, responsibility for proscriptions, emotional meaning of the Cleopatra alliance, causes of the Parthian failure, purpose of the territorial grants, coherence of an eastern imperial plan, authenticity of his will, Actium strategy, and suicide details remain source-scoped. Octavian's gendered and anti-eastern framing is evidence about political strategy, not direct proof of Antony's private identity or intentions.
+The current evidence is podcast synthesis, not a complete biography. The degree of theatre in Antony's flight, Caesar's use of tribunician grievance, any childhood sighting by Cleopatra, the exact funeral performance, motives in accepting amnesty, responsibility for proscriptions, emotional meaning of the Cleopatra alliance, causes of the Parthian failure, purpose of the territorial grants, coherence of an eastern imperial plan, authenticity of his will, Actium strategy, and suicide details remain source-scoped. Octavian's gendered and anti-eastern framing is evidence about political strategy, not direct proof of Antony's private identity or intentions.
 
 ## What Changed
 
-- Added Antony's role in Gabinius's restoration of Auletes as his first recoverable Egyptian connection.
-- Separated likely military contact with Cleopatra's court from the episode's imagined first-sight scene.
+- Added Antony's tribunate, reciprocal-disarmament proposal, veto, and flight during the January 49 BC crisis.
+- Clarified that his flight was both a constitutional rupture and part of Caesar's public justification.
 
 ## Relationships
 
 - [[JuliusCaesar]] - commander, ally, and posthumous source of Antony's legitimacy and vengeance claim.
+- [[CrossingOfTheRubicon]] - crisis whose tribunician prelude gives Antony his earliest developed role in the current evidence.
 - [[CaesarAssassination]] - event Antony survives and politically reverses.
 - [[OctavianAugustus]] - temporary triumviral ally and eventual civil-war rival.
 - [[Cicero]] - constitutional opponent whose death Antony demands during the proscriptions.
