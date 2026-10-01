@@ -847,6 +847,10 @@
     "title": "New NPR Series: \"We Keep Us Safe\" from the Embedded podcast",
     "url": "/wiki/sources/20260721-pmoney-new-npr-series-we-keep-us-safe-from-the-embedded-podcast-trailer-20260721-pmoney-new-npr-series-we-keep-us-safe-from-the-embedded-podcast-trailer/"
   },
+  "208-george-orwell-glt5823999588": {
+    "title": "208. George Orwell",
+    "url": "/wiki/sources/208-george-orwell-glt5823999588/"
+  },
   "209-londinium-part-1-glt8659020002": {
     "title": "209. Londinium (Part 1)",
     "url": "/wiki/sources/209-londinium-part-1-glt8659020002/"
@@ -7466,6 +7470,10 @@
   "AnimalExperimentEthics": {
     "title": "Animal Experiment Ethics",
     "url": "/wiki/concepts/animalexperimentethics/"
+  },
+  "AnimalFarm": {
+    "title": "Animal Farm",
+    "url": "/wiki/entities/animalfarm/"
   },
   "AnimalGasCommunication": {
     "title": "Animal Gas Communication / 动物气体交流",
@@ -53599,6 +53607,10 @@
     "title": "Ninebot / 九号",
     "url": "/wiki/entities/ninebot/"
   },
+  "NineteenEightyFour": {
+    "title": "Nineteen Eighty-Four",
+    "url": "/wiki/entities/nineteeneightyfour/"
+  },
   "NineteenTwentyNineSorkin": {
     "title": "1929 / 《1929》 (Andrew Ross Sorkin)",
     "url": "/wiki/entities/nineteentwentyninesorkin/"
@@ -63407,6 +63419,10 @@
     "title": "Revolutionary Economic Self-Reliance",
     "url": "/wiki/concepts/revolutionaryeconomicselfreliance/"
   },
+  "RevolutionaryEliteReplacement": {
+    "title": "Revolutionary Elite Replacement",
+    "url": "/wiki/concepts/revolutionaryelitereplacement/"
+  },
   "RevolutionaryFactionalOutflanking": {
     "title": "Revolutionary Factional Outflanking",
     "url": "/wiki/concepts/revolutionaryfactionaloutflanking/"
@@ -63918,6 +63934,10 @@
   "RobertBoyle": {
     "title": "Robert Boyle / 罗伯特·波义耳",
     "url": "/wiki/entities/robertboyle/"
+  },
+  "RobertColls": {
+    "title": "Robert Colls",
+    "url": "/wiki/entities/robertcolls/"
   },
   "RobertCurtis": {
     "title": "Robert Curtis",
@@ -74886,6 +74906,10 @@
   "TotalitarianDoubleLife": {
     "title": "Totalitarian Double Life / 极权双重生活",
     "url": "/wiki/concepts/totalitariandoublelife/"
+  },
+  "TotalitarianRealityControl": {
+    "title": "Totalitarian Reality Control",
+    "url": "/wiki/concepts/totalitarianrealitycontrol/"
   },
   "TotalitarianSpectacleAndRitual": {
     "title": "Totalitarian Spectacle and Ritual",

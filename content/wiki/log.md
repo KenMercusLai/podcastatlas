@@ -26499,3 +26499,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-01] ingest | 208. George Orwell
+
+Added source `208-george-orwell-glt5823999588`; created `RobertColls`, `AnimalFarm`, `NineteenEightyFour`, `RevolutionaryEliteReplacement`, and `TotalitarianRealityControl`; and resynthesized `GeorgeOrwell` from its complete preserved evidence inventory. Core synthesis: Orwell's imperial formation, class discomfort, democratic socialism, anti-Stalinism, cultural Englishness, and distrust of concentrated power remain productive tensions rather than a single partisan identity; *Animal Farm* generalizes the danger of replacement elites, while *Nineteen Eighty-Four* imagines control over records, language, memory, morality, law, and trust. No settled contradiction was adopted. The episode's guest surname was normalized to Robert Colls while preserving that the supplied summary renders it “Coles.” The elephant essay's factual status, private motives, 1949 list, ideological labels, and modern political counterfactuals remain uncertain, qualified, or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,313-source coverage; no topic claim set was dirty and global compaction was not due. Identity, knowledge-schema, whitespace, health, synthesis, index coverage, and publish validation passed; the repository-wide scanner still reports 14 unrelated pre-existing broken wikilinks.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

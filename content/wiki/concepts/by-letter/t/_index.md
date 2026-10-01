@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 9066
+wiki_total_pages: 9068
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -608,6 +608,9 @@ wiki_pages:
   - key: "TotalitarianDoubleLife"
     title: "Totalitarian Double Life / 极权双重生活"
     url: "/wiki/concepts/totalitariandoublelife/"
+  - key: "TotalitarianRealityControl"
+    title: "Totalitarian Reality Control"
+    url: "/wiki/concepts/totalitarianrealitycontrol/"
   - key: "TotalitarianSpectacleAndRitual"
     title: "Totalitarian Spectacle and Ritual"
     url: "/wiki/concepts/totalitarianspectacleandritual/"

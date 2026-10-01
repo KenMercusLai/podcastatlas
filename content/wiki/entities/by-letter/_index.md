@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 11702
+wiki_total_pages: 11705
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1178,6 +1178,9 @@ wiki_pages:
   - key: "AngloIranianOilCompany"
     title: "Anglo-Iranian Oil Company"
     url: "/wiki/entities/angloiranianoilcompany/"
+  - key: "AnimalFarm"
+    title: "Animal Farm"
+    url: "/wiki/entities/animalfarm/"
   - key: "AnitaRamaswamy"
     title: "Anita Ramaswamy"
     url: "/wiki/entities/anitaramaswamy/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [208. George Orwell](sources/208-george-orwell-glt5823999588.md) — The Rest Is History episode on Orwell's imperial formation, class politics, democratic socialism, anti-Stalinism, Englishness, Animal Farm, and Nineteen Eighty-Four.
 - [The Biology of Taste Perception & Sugar Craving | Dr. Charles Zuker](sources/the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim7979038386.md) — Huberman Lab interview on taste detection, identity, valence, plasticity, and the separation of oral sweet liking from gut-driven sugar wanting.
 - [217. Plague and the Decline of the Roman Empire](sources/217-plague-and-the-decline-of-the-roman-empire-glt2583859060.md) — The Rest Is History interview with Kyle Harper on Roman connectivity, urban disease burdens, three pandemics, and multi-causal imperial decline.
 - [218. Theodora: Empress of Byzantium (Part 1)](sources/218-theodora-empress-of-byzantium-part-1-glt5957583440.md) — The Rest Is History episode on Constantinople's Roman identity, Theodora's rise, Miaphysite faith, and imperial partnership with Justinian.
@@ -3369,6 +3370,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [209. Londinium (Part 1)](sources/209-londinium-part-1-glt8659020002.md) — The Rest Is History walking tour of Roman London's geographic rise, Boudiccan destruction, civic and religious archaeology, fragmentary survival, and late decline.
 
 ## Entities
+- [Robert Colls](entities/RobertColls.md) — Historian and author interpreting Orwell through empire, class, Englishness, socialism, anti-communism, and literary politics.
+- [Animal Farm](entities/AnimalFarm.md) — Orwell fable read as both Soviet allegory and a broader warning about revolutionary elite replacement.
+- [Nineteen Eighty-Four](entities/NineteenEightyFour.md) — Orwell dystopia about control of records, language, memory, moral judgment, and trust.
 - [Charles Zuker](entities/CharlesZuker.md) — Sensory neuroscientist connecting taste receptors and circuits to perceptual identity, valence, learning, and post-ingestive sugar reinforcement.
 - [Tower of London](entities/TowerOfLondon.md) — Royal fortress whose menagerie joined diplomatic animal gifts, public spectacle, care limits, reform, and folklore.
 - [Metropolitan Railway](entities/MetropolitanRailway.md) — Early underground railway that integrated route expansion, surplus-land development, publicity, and suburban demand.
@@ -15107,6 +15111,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lucile Desmoulins](entities/LucileDesmoulins.md) — Camille Desmoulins's wife, falsely implicated in a prison plot and executed after the Dantonist trial.
 
 ## Concepts
+- [Revolutionary Elite Replacement](concepts/RevolutionaryEliteReplacement.md) — Risk that revolution changes the ruling group without ending hierarchy or concentrated power.
+- [Totalitarian Reality Control](concepts/TotalitarianRealityControl.md) — Political domination through altered records, narrowed language, destroyed history, and broken trust.
 - [Taste Identity and Valence Circuit](concepts/TasteIdentityValenceCircuit.md) — Circuit model separating chemical detection, perceptual quality, positive or negative value, action, and post-ingestive reinforcement.
 - [Royal Animal Spectacle](concepts/RoyalAnimalSpectacle.md) — Diplomatic and dynastic animal display whose prestige creates care obligations that spectacle alone cannot satisfy.
 - [Rail-Integrated Suburban Development](concepts/RailIntegratedSuburbanDevelopment.md) — Model joining transport, property, amenities, and lifestyle marketing to create recurring suburban passenger demand.

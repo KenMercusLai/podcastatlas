@@ -11688,6 +11688,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/concepts/animalanecdotesourceuncertainty/"
     },
+    "AnimalFarm": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5823999588 [GLT5823999588].md",
+          "key": "208-george-orwell-glt5823999588",
+          "show": "The Rest Is History",
+          "title": "208. George Orwell",
+          "url": "/wiki/sources/208-george-orwell-glt5823999588/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/animalfarm/"
+    },
     "AnimalIntelligenceModes": {
       "episode_count": 3,
       "show_count": 2,
@@ -74086,6 +74102,36 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/georgemonck/"
     },
+    "GeorgeOrwell": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "Socialist mobility： a telling Michigan vote [6a74600ec3e1347e8b5bf216].md",
+          "key": "socialist-mobility-a-telling-michigan-vote-6a74600ec3e1347e8b5bf216",
+          "show": "Economist Podcasts",
+          "title": "Socialist mobility: a telling Michigan vote",
+          "url": "/wiki/sources/socialist-mobility-a-telling-michigan-vote-6a74600ec3e1347e8b5bf216/"
+        },
+        {
+          "episode_file": "51.厌世？反人类？童话故事？…格列佛游记可深了去了 [632315320].md",
+          "key": "51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320",
+          "show": "蜜獾吃书",
+          "title": "51.厌世？反人类？童话故事？…格列佛游记可深了去了",
+          "url": "/wiki/sources/51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320/"
+        },
+        {
+          "episode_file": "GLT5823999588 [GLT5823999588].md",
+          "key": "208-george-orwell-glt5823999588",
+          "show": "The Rest Is History",
+          "title": "208. George Orwell",
+          "url": "/wiki/sources/208-george-orwell-glt5823999588/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/georgeorwell/"
+    },
     "GeorgeRRMartin": {
       "episode_count": 4,
       "show_count": 2,
@@ -132424,6 +132470,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/entities/ninebot/"
     },
+    "NineteenEightyFour": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5823999588 [GLT5823999588].md",
+          "key": "208-george-orwell-glt5823999588",
+          "show": "The Rest Is History",
+          "title": "208. George Orwell",
+          "url": "/wiki/sources/208-george-orwell-glt5823999588/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/nineteeneightyfour/"
+    },
     "Ningbo": {
       "episode_count": 1,
       "show_count": 1,
@@ -155808,6 +155870,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/concepts/revolutionarydresspoliticalidentity/"
     },
+    "RevolutionaryEliteReplacement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5823999588 [GLT5823999588].md",
+          "key": "208-george-orwell-glt5823999588",
+          "show": "The Rest Is History",
+          "title": "208. George Orwell",
+          "url": "/wiki/sources/208-george-orwell-glt5823999588/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/revolutionaryelitereplacement/"
+    },
     "RevolutionaryFactionalOutflanking": {
       "episode_count": 2,
       "show_count": 1,
@@ -157290,6 +157368,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/robertblum/"
+    },
+    "RobertColls": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5823999588 [GLT5823999588].md",
+          "key": "208-george-orwell-glt5823999588",
+          "show": "The Rest Is History",
+          "title": "208. George Orwell",
+          "url": "/wiki/sources/208-george-orwell-glt5823999588/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/robertcolls/"
     },
     "RobertFKennedy": {
       "episode_count": 2,
@@ -182975,6 +183069,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/totalattentionpractice/"
+    },
+    "TotalitarianRealityControl": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5823999588 [GLT5823999588].md",
+          "key": "208-george-orwell-glt5823999588",
+          "show": "The Rest Is History",
+          "title": "208. George Orwell",
+          "url": "/wiki/sources/208-george-orwell-glt5823999588/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/totalitarianrealitycontrol/"
     },
     "TotalitarianSpectacleAndRitual": {
       "episode_count": 1,

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2886
+topic_total_pages: 2889
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3823,6 +3823,9 @@ topic_concepts:
   - key: "ToolAIHumanControl"
     title: "Tool AI Human Control"
     url: "/wiki/concepts/toolaihumancontrol/"
+  - key: "TotalitarianRealityControl"
+    title: "Totalitarian Reality Control"
+    url: "/wiki/concepts/totalitarianrealitycontrol/"
   - key: "TradeDiversificationStabilityParadox"
     title: "Trade Diversification Stability Paradox"
     url: "/wiki/concepts/tradediversificationstabilityparadox/"
@@ -6332,6 +6335,9 @@ topic_entities:
   - key: "NikitaShah"
     title: "Nikita Shah"
     url: "/wiki/entities/nikitashah/"
+  - key: "NineteenEightyFour"
+    title: "Nineteen Eighty-Four"
+    url: "/wiki/entities/nineteeneightyfour/"
   - key: "NithyaRaman"
     title: "Nithya Raman"
     url: "/wiki/entities/nithyaraman/"
@@ -7647,6 +7653,9 @@ topic_sources:
   - key: "2026-qiuji-pian-e03-zunyan-si-riben-yisheng-beipan-sharen-shijian-flop0zzkutdjvbj11zpa-cz62ijj4"
     title: "2026秋季篇E03 尊严死？！日本医生被判杀人事件"
     url: "/wiki/sources/2026-qiuji-pian-e03-zunyan-si-riben-yisheng-beipan-sharen-shijian-flop0zzkutdjvbj11zpa-cz62ijj4/"
+  - key: "208-george-orwell-glt5823999588"
+    title: "208. George Orwell"
+    url: "/wiki/sources/208-george-orwell-glt5823999588/"
   - key: "248-medieval-treason-part-1-glt9532907553"
     title: "248. Medieval Treason (Part 1)"
     url: "/wiki/sources/248-medieval-treason-part-1-glt9532907553/"

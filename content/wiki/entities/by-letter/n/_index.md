@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 11702
+wiki_total_pages: 11705
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -569,6 +569,9 @@ wiki_pages:
   - key: "Ninebot"
     title: "Ninebot / 九号"
     url: "/wiki/entities/ninebot/"
+  - key: "NineteenEightyFour"
+    title: "Nineteen Eighty-Four"
+    url: "/wiki/entities/nineteeneightyfour/"
   - key: "Ninety"
     title: "Ninety"
     url: "/wiki/entities/ninety/"
