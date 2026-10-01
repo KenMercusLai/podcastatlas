@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [197. Antony & Cleopatra (Part 3)](sources/197-antony-cleopatra-part-3-glt1953107818.md) — The Rest Is History episode on the Tarsus bargain, Antony's Parthian failure, a more equal Egyptian alliance, the Donations of Alexandria, and Roman-Hellenistic imperial legitimacy.
 - [198. Cleopatra's Downfall (Part 4)](sources/198-cleopatras-downfall-part-4-glt1186341405.md) — The Rest Is History episode on Octavian's anti-Cleopatra framing, Actium, the fall of Alexandria, the end of Ptolemaic Egypt, and Cleopatra's contested afterlife.
 - [The Science & Practice of Movement | Ido Portal](sources/the-science-practice-of-movement-ido-portal-scim2315861899.md) — Huberman Lab interview on movement as open-ended whole-life inquiry, calibrated discomfort, sensory and partner feedback, adaptable variation, and experience-grounded mental rehearsal.
 - [The Science & Treatment of Obsessive-Compulsive Disorder (OCD)](sources/the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8049781967.md) — Full Huberman Lab episode on OCD mechanisms, Y-BOCS assessment, exposure-response prevention, SSRIs and emerging treatments, and the OCD/OCPD distinction.
@@ -15162,6 +15163,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lucile Desmoulins](entities/LucileDesmoulins.md) — Camille Desmoulins's wife, falsely implicated in a prison plot and executed after the Dantonist trial.
 
 ## Concepts
+- [Donations of Alexandria](concepts/DonationsOfAlexandria.md) — Dynastic settlement and public spectacle joining territorial grants, succession, monarchy, and a legitimacy crisis at Rome.
+- [Roman-Hellenistic Imperial Synthesis](concepts/RomanHellenisticImperialSynthesis.md) — Attempt to combine Roman command with Ptolemaic resources, eastern monarchy, and family-centered imperial rule.
 - [Augustan Enemy Framing](concepts/AugustanEnemyFraming.md) — Strategy that externalized Roman civil war by making Cleopatra a foreign, royal, female enemy and Antony her corrupted dependent.
 - [Cleopatra Reception History](concepts/CleopatraReceptionHistory.md) — Contested afterlife joining hostile Roman propaganda, literary glamour, tragic dignity, Egyptian memory, and source uncertainty.
 - [Stonehenge Ritual Landscape](concepts/StonehengeRitualLandscape.md) — Multi-phase model joining monument, settlement, burial, feasting, mobility, gathering, and solar alignment.

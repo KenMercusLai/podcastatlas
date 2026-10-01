@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 9090
+wiki_total_pages: 9092
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -1160,6 +1160,9 @@ wiki_pages:
   - key: "RomanProvincialConsolidation"
     title: "Roman Provincial Consolidation"
     url: "/wiki/concepts/romanprovincialconsolidation/"
+  - key: "RomanHellenisticImperialSynthesis"
+    title: "Roman-Hellenistic Imperial Synthesis"
+    url: "/wiki/concepts/romanhellenisticimperialsynthesis/"
   - key: "RomanticDeathEscape"
     title: "Romantic Death Escape / 浪漫化死亡逃避"
     url: "/wiki/concepts/romanticdeathescape/"

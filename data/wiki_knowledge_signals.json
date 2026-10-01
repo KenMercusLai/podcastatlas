@@ -15761,9 +15761,9 @@
       "url": "/wiki/entities/augustaleigh/"
     },
     "AugustanEnemyFraming": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1186341405 [GLT1186341405].md",
@@ -15771,6 +15771,13 @@
           "show": "The Rest Is History",
           "title": "198. Cleopatra's Downfall (Part 4)",
           "url": "/wiki/sources/198-cleopatras-downfall-part-4-glt1186341405/"
+        },
+        {
+          "episode_file": "GLT1953107818 [GLT1953107818].md",
+          "key": "197-antony-cleopatra-part-3-glt1953107818",
+          "show": "The Rest Is History",
+          "title": "197. Antony & Cleopatra (Part 3)",
+          "url": "/wiki/sources/197-antony-cleopatra-part-3-glt1953107818/"
         }
       ],
       "updated": "2026-10-01",
@@ -24996,9 +25003,9 @@
       "url": "/wiki/entities/caesarassassination/"
     },
     "Caesarion": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1186341405 [GLT1186341405].md",
@@ -25006,6 +25013,13 @@
           "show": "The Rest Is History",
           "title": "198. Cleopatra's Downfall (Part 4)",
           "url": "/wiki/sources/198-cleopatras-downfall-part-4-glt1186341405/"
+        },
+        {
+          "episode_file": "GLT1953107818 [GLT1953107818].md",
+          "key": "197-antony-cleopatra-part-3-glt1953107818",
+          "show": "The Rest Is History",
+          "title": "197. Antony & Cleopatra (Part 3)",
+          "url": "/wiki/sources/197-antony-cleopatra-part-3-glt1953107818/"
         }
       ],
       "updated": "2026-10-01",
@@ -35057,9 +35071,9 @@
       "url": "/wiki/entities/cleisthenes/"
     },
     "CleopatraReceptionHistory": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1186341405 [GLT1186341405].md",
@@ -35067,15 +35081,22 @@
           "show": "The Rest Is History",
           "title": "198. Cleopatra's Downfall (Part 4)",
           "url": "/wiki/sources/198-cleopatras-downfall-part-4-glt1186341405/"
+        },
+        {
+          "episode_file": "GLT1953107818 [GLT1953107818].md",
+          "key": "197-antony-cleopatra-part-3-glt1953107818",
+          "show": "The Rest Is History",
+          "title": "197. Antony & Cleopatra (Part 3)",
+          "url": "/wiki/sources/197-antony-cleopatra-part-3-glt1953107818/"
         }
       ],
       "updated": "2026-10-01",
       "url": "/wiki/concepts/cleopatrareceptionhistory/"
     },
     "CleopatraVII": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
@@ -35090,6 +35111,13 @@
           "show": "The Rest Is History",
           "title": "198. Cleopatra's Downfall (Part 4)",
           "url": "/wiki/sources/198-cleopatras-downfall-part-4-glt1186341405/"
+        },
+        {
+          "episode_file": "GLT1953107818 [GLT1953107818].md",
+          "key": "197-antony-cleopatra-part-3-glt1953107818",
+          "show": "The Rest Is History",
+          "title": "197. Antony & Cleopatra (Part 3)",
+          "url": "/wiki/sources/197-antony-cleopatra-part-3-glt1953107818/"
         }
       ],
       "updated": "2026-10-01",
@@ -49849,6 +49877,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/donweinland/"
+    },
+    "DonationsOfAlexandria": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1953107818 [GLT1953107818].md",
+          "key": "197-antony-cleopatra-part-3-glt1953107818",
+          "show": "The Rest Is History",
+          "title": "197. Antony & Cleopatra (Part 3)",
+          "url": "/wiki/sources/197-antony-cleopatra-part-3-glt1953107818/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/donationsofalexandria/"
     },
     "DongBanNanyangLateHan": {
       "episode_count": 1,
@@ -121579,9 +121623,9 @@
       "url": "/wiki/entities/markandreessen/"
     },
     "MarkAntony": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
@@ -121603,6 +121647,13 @@
           "show": "The Rest Is History",
           "title": "198. Cleopatra's Downfall (Part 4)",
           "url": "/wiki/sources/198-cleopatras-downfall-part-4-glt1186341405/"
+        },
+        {
+          "episode_file": "GLT1953107818 [GLT1953107818].md",
+          "key": "197-antony-cleopatra-part-3-glt1953107818",
+          "show": "The Rest Is History",
+          "title": "197. Antony & Cleopatra (Part 3)",
+          "url": "/wiki/sources/197-antony-cleopatra-part-3-glt1953107818/"
         }
       ],
       "updated": "2026-10-01",
@@ -135283,9 +135334,9 @@
       "url": "/wiki/entities/oceanbase/"
     },
     "OctavianAugustus": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
@@ -135307,6 +135358,13 @@
           "show": "The Rest Is History",
           "title": "198. Cleopatra's Downfall (Part 4)",
           "url": "/wiki/sources/198-cleopatras-downfall-part-4-glt1186341405/"
+        },
+        {
+          "episode_file": "GLT1953107818 [GLT1953107818].md",
+          "key": "197-antony-cleopatra-part-3-glt1953107818",
+          "show": "The Rest Is History",
+          "title": "197. Antony & Cleopatra (Part 3)",
+          "url": "/wiki/sources/197-antony-cleopatra-part-3-glt1953107818/"
         }
       ],
       "updated": "2026-10-01",
@@ -140067,9 +140125,9 @@
       "url": "/wiki/concepts/parliamentarysystem/"
     },
     "ParthianEmpire": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》771丨寻找罗马！汉使甘英的世界旅行 [lnrjUbKEOAhAvfk55rPIwNW15njF].md",
@@ -140077,9 +140135,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》771丨寻找罗马！汉使甘英的世界旅行",
           "url": "/wiki/sources/zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf/"
+        },
+        {
+          "episode_file": "GLT1953107818 [GLT1953107818].md",
+          "key": "197-antony-cleopatra-part-3-glt1953107818",
+          "show": "The Rest Is History",
+          "title": "197. Antony & Cleopatra (Part 3)",
+          "url": "/wiki/sources/197-antony-cleopatra-part-3-glt1953107818/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/parthianempire/"
     },
     "ParticipatoryHistoricalReading": {
@@ -150494,9 +150559,9 @@
       "url": "/wiki/concepts/psychologyconceptselfpunishment/"
     },
     "PtolemaicEgypt": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1186341405 [GLT1186341405].md",
@@ -150504,6 +150569,13 @@
           "show": "The Rest Is History",
           "title": "198. Cleopatra's Downfall (Part 4)",
           "url": "/wiki/sources/198-cleopatras-downfall-part-4-glt1186341405/"
+        },
+        {
+          "episode_file": "GLT1953107818 [GLT1953107818].md",
+          "key": "197-antony-cleopatra-part-3-glt1953107818",
+          "show": "The Rest Is History",
+          "title": "197. Antony & Cleopatra (Part 3)",
+          "url": "/wiki/sources/197-antony-cleopatra-part-3-glt1953107818/"
         }
       ],
       "updated": "2026-10-01",
@@ -159566,6 +159638,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/romanexpansionmoralanxiety/"
+    },
+    "RomanHellenisticImperialSynthesis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1953107818 [GLT1953107818].md",
+          "key": "197-antony-cleopatra-part-3-glt1953107818",
+          "show": "The Rest Is History",
+          "title": "197. Antony & Cleopatra (Part 3)",
+          "url": "/wiki/sources/197-antony-cleopatra-part-3-glt1953107818/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/romanhellenisticimperialsynthesis/"
     },
     "RomanImperialLegitimacy": {
       "episode_count": 1,

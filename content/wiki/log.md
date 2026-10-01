@@ -26618,3 +26618,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | 197. Antony & Cleopatra (Part 3)
+
+Added source `197-antony-cleopatra-part-3-glt1953107818`; created `DonationsOfAlexandria` and `RomanHellenisticImperialSynthesis`; and resynthesized `CleopatraVII`, `MarkAntony`, `OctavianAugustus`, `PtolemaicEgypt`, `Caesarion`, `ParthianEmpire`, `AugustanEnemyFraming`, and `CleopatraReceptionHistory` from their complete preserved evidence inventories. Core synthesis: Antony and Cleopatra's alliance begins as unequal political bargaining over Egyptian resources, Roman protection, and dynastic security, then becomes more interdependent after the Parthian failure; the Donations publicly express a Roman-Hellenistic dynastic order while giving Octavian powerful material for a Roman anti-monarchical counter-frame. No settled contradiction was adopted. Private motives, Arsinoe's killing, Artavasdes's responsibility, territorial control, fleet intentions, the exact constitutional design, and the viability of the projected eastern order remain interpretive or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,328-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
