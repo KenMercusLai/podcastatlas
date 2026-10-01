@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 9217
+wiki_total_pages: 9220
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -158,6 +158,9 @@ wiki_pages:
   - key: "TaskBasedAINativeOrganization"
     title: "Task-Based AI-Native Organization"
     url: "/wiki/concepts/taskbasedainativeorganization/"
+  - key: "TaskSpecificWorkspaceDesign"
+    title: "Task-Specific Workspace Design"
+    url: "/wiki/concepts/taskspecificworkspacedesign/"
   - key: "TasteNutrientHazardDetection"
     title: "Taste as Nutrient and Hazard Detection"
     url: "/wiki/concepts/tastenutrienthazarddetection/"

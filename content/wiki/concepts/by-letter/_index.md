@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9217
+wiki_total_pages: 9220
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -164,6 +164,9 @@ wiki_pages:
   - key: "ActiveSoloLiving"
     title: "Active Solo Living / 主动独居"
     url: "/wiki/concepts/activesololiving/"
+  - key: "ActiveWorkstationTaskTradeoff"
+    title: "Active Workstation Task Tradeoff"
+    url: "/wiki/concepts/activeworkstationtasktradeoff/"
   - key: "ActivistInvestorPressure"
     title: "Activist Investor Pressure"
     url: "/wiki/concepts/activistinvestorpressure/"

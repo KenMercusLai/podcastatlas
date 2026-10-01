@@ -7,7 +7,8 @@ sources:
   - vol-123-yisheng-wo-zhe-bozi-teng-he-yaoteng-haiyou-jiu-ma-lpqft6dbvu0yyo90rc0c-1wyrgy2
   - vol-89-yundong-kangfu-huanjie-jiuzuo-pilao-jiaocheng-gen-kangfushi-daixin-jiankang-buzhi-3-fenzhong-ln2jtowe4hyntw1omun5q8_wjsh5
   - vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms
-last_updated: 2026-09-28
+  - optimizing-workspace-for-productivity-focus-creativity-scim5202577757
+last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
 
@@ -27,12 +28,14 @@ VOL.89 adds small workplace prompts and workstation fit. Using a smaller water c
 
 VOL.58 reinforces the simplest cadence for students and office workers: use class breaks or roughly hourly opportunities to get up and move. Screen elevation, cushions, standing desks, and foot supports can improve comfort or setup, but the episode again makes regular movement and active training the primary intervention rather than prescribing one perfect workstation.
 
+The productivity comparison in [[optimizing-workspace-for-productivity-focus-creativity-scim5202577757]] favors alternating sitting and standing and reports that treadmill or cycling work improved attention and cognitive control relative to sitting in one young-adult study, while verbal memory worsened. Movement can therefore be integrated into work, but the task and outcome matter; active work is not uniformly superior to seated work.
+
 ## Key Claims
 - Prolonged sitting is a multi-factor exposure that can affect several systems without being a sufficient diagnosis or single cause.
 - The most portable intervention is to interrupt fixed posture rather than search for one indefinitely maintainable “correct” posture.
 - Calf and ankle movement supports venous return when walking is temporarily impractical.
 - Neutral lumbar positioning can reduce some loading, but it does not cancel the pressure and inactivity of remaining seated.
-- Supports, stockings, standing desks, chairs, screens, and desk layouts are conditional aids whose fit, indication, duration, and tradeoffs matter; none converts fixed posture into a complete intervention.
+- Supports, stockings, standing desks, chairs, screens, desk layouts, and active workstations are conditional aids whose fit, indication, duration, task effects, and tradeoffs matter; none converts fixed posture into a complete intervention.
 - Hydration and toilet breaks can support routine self-care, but fluid advice changes with heart failure and other individual conditions.
 - Persistent or severe symptoms move the problem from prevention into qualified clinical assessment, while neck and back posture cues remain most useful when paired with repeated movement and gradual strength building.
 
@@ -44,12 +47,14 @@ VOL.58 reinforces the simplest cadence for students and office workers: use clas
 - Neck-and-back reinforcement: [[vol-123-yisheng-wo-zhe-bozi-teng-he-yaoteng-haiyou-jiu-ma-lpqft6dbvu0yyo90rc0c-1wyrgy2]] connects forward-head posture, prolonged sitting, muscular fatigue, neutral position, and periodic activity.
 - Workplace prompts and fit: [[vol-89-yundong-kangfu-huanjie-jiuzuo-pilao-jiaocheng-gen-kangfushi-daixin-jiankang-buzhi-3-fenzhong-ln2jtowe4hyntw1omun5q8_wjsh5]] combines water-break prompts, desk-based movement, screen and chair adjustment, lumbar support, and occupation-specific asymmetry with individualized rehabilitation.
 - Student and office cadence: [[vol-58-jizhuwai-ke-mazuike-yaojianpan-tuchu-shifou-xu-shoushu-deng-28-ge-zhichang-bailing-xuesheng-guanxin-de-jizhu-wenti-lixl6kzzfo1jmn25suhtzikmytms|VOL.58]] uses class breaks and roughly hourly movement opportunities while treating desks, cushions, chairs, and foot supports as secondary aids.
+- Active-work tradeoff: [[optimizing-workspace-for-productivity-focus-creativity-scim5202577757]] reports improved attention and cognitive control but worse verbal memory during treadmill or cycling work in one young-adult comparison.
 
 ## Counterevidence & Qualifications
-The episodes are public-education discussions, not clinical guidelines. Their mechanisms and examples do not show that sitting alone causes every named condition, and the sources do not provide a universal break interval, water target, chair design, screen position, exercise dose, stocking prescription, or fertility threshold. Standing continuously can also create vascular strain, so “stand instead” is not the complete synthesis.
+The episodes are public-education discussions, not clinical guidelines. Their mechanisms and examples do not show that sitting alone causes every named condition, and the sources do not provide a universal break interval, water target, chair design, screen position, exercise dose, sitting-standing ratio, stocking prescription, or fertility threshold. Standing continuously can also create vascular strain, and one short active-workstation study does not establish long-term health or productivity benefit, so “stand or walk instead” is not the complete synthesis.
 
 ## What Changed
-- Added a simple class-break or roughly hourly movement cadence as a practical prompt, not a universal medical prescription.
+- Added a task-specific active-workstation tradeoff: attention may improve while verbal memory worsens.
+- Preserved movement variability above any universal sitting-standing ratio.
 
 ## Related Concepts
 - [[TravelThrombosisPrevention]] - calf-pump, hydration, movement, and compression branch for prolonged immobility.
@@ -60,3 +65,4 @@ The episodes are public-education discussions, not clinical guidelines. Their me
 - [[MedicalRiskManagement]] - broader relationship between low-cost prevention, individual exceptions, and escalation.
 - [[CervicalCurvePostureManagement]] - neck-specific application of posture variability and capacity.
 - [[WorkstationPostureAdjustment]] - setup layer that can reduce avoidable sustained demand while preserving movement variability.
+- [[ActiveWorkstationTaskTradeoff]] - task-level distinction among seated, standing, walking, and cycling work.

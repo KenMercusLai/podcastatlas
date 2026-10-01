@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 9217
+wiki_total_pages: 9220
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -821,6 +821,9 @@ wiki_pages:
   - key: "InterrogationTortureConstraint"
     title: "Interrogation Torture Constraint / 审讯刑具约束"
     url: "/wiki/concepts/interrogationtortureconstraint/"
+  - key: "InterruptionBoundaryDesign"
+    title: "Interruption Boundary Design"
+    url: "/wiki/concepts/interruptionboundarydesign/"
   - key: "InterstateBypassEconomics"
     title: "Interstate Bypass Economics"
     url: "/wiki/concepts/interstatebypasseconomics/"

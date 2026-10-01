@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1384
+topic_total_pages: 1385
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -2179,6 +2179,9 @@ topic_concepts:
   - key: "TargetedMemoryReactivation"
     title: "Targeted Memory Reactivation"
     url: "/wiki/concepts/targetedmemoryreactivation/"
+  - key: "TaskSpecificWorkspaceDesign"
+    title: "Task-Specific Workspace Design"
+    url: "/wiki/concepts/taskspecificworkspacedesign/"
   - key: "TechCultureBiohacking"
     title: "Tech-Culture Biohacking"
     url: "/wiki/concepts/techculturebiohacking/"

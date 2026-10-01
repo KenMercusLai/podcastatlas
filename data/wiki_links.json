@@ -5223,6 +5223,10 @@
     "title": "Active Solo Living / 主动独居",
     "url": "/wiki/concepts/activesololiving/"
   },
+  "ActiveWorkstationTaskTradeoff": {
+    "title": "Active Workstation Task Tradeoff",
+    "url": "/wiki/concepts/activeworkstationtasktradeoff/"
+  },
   "ActivistInvestorPressure": {
     "title": "Activist Investor Pressure",
     "url": "/wiki/concepts/activistinvestorpressure/"
@@ -39170,6 +39174,10 @@
   "InterrogationTortureConstraint": {
     "title": "Interrogation Torture Constraint / 审讯刑具约束",
     "url": "/wiki/concepts/interrogationtortureconstraint/"
+  },
+  "InterruptionBoundaryDesign": {
+    "title": "Interruption Boundary Design",
+    "url": "/wiki/concepts/interruptionboundarydesign/"
   },
   "InterstateBypassEconomics": {
     "title": "Interstate Bypass Economics",
@@ -74083,6 +74091,10 @@
     "title": "Task-Based AI-Native Organization",
     "url": "/wiki/concepts/taskbasedainativeorganization/"
   },
+  "TaskSpecificWorkspaceDesign": {
+    "title": "Task-Specific Workspace Design",
+    "url": "/wiki/concepts/taskspecificworkspacedesign/"
+  },
   "TaskSwitchingResidue": {
     "title": "Task Switching Residue",
     "url": "/wiki/concepts/taskswitchingresidue/"
@@ -90630,6 +90642,10 @@
   "optimize-your-exercise-program-with-science-based-tools-jeff-cavaliere-scim5122820076": {
     "title": "Optimize Your Exercise Program with Science-Based Tools | Jeff Cavaliere",
     "url": "/wiki/sources/optimize-your-exercise-program-with-science-based-tools-jeff-cavaliere-scim5122820076/"
+  },
+  "optimizing-workspace-for-productivity-focus-creativity-scim5202577757": {
+    "title": "Optimizing Workspace for Productivity, Focus, & Creativity",
+    "url": "/wiki/sources/optimizing-workspace-for-productivity-focus-creativity-scim5202577757/"
   },
   "our-book-vs-the-global-supply-chain": {
     "title": "Our BOOK vs. the global supply chain",

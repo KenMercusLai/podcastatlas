@@ -3463,6 +3463,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [154. The Most Disastrous Party in History](sources/154-the-most-disastrous-party-in-history-glt6506112996.md) — The Rest Is History countdown using Partygate, failed festivals, treacherous feasts, court fire, crowd catastrophe, and Persepolis to examine how gatherings become political symbols.
 - [The Science of Love, Desire and Attachment](sources/the-science-of-love-desire-and-attachment-scim1112390541.md) — Huberman Lab solo episode on attachment plasticity, autonomic co-regulation, partner idealization, self-expansion, chemical cues, relationship conflict, and multisystem libido.
 - [Using Play to Rewire & Improve Your Brain](sources/using-play-to-rewire-improve-your-brain-scim9321743392.md) — Huberman Lab solo episode on low-stakes contingency testing, play signals, role and rule learning, dynamic movement, adult neuroplasticity, and evidence-bounded trauma claims.
+- [Optimizing Workspace for Productivity, Focus, & Creativity](sources/optimizing-workspace-for-productivity-focus-creativity-scim5202577757.md) — Huberman Lab solo episode on task-matched light, gaze, posture, sound, interruption boundaries, movement, and active-workstation tradeoffs.
 
 ## Entities
 - [Plagues Upon the Earth](entities/PlaguesUponTheEarth.md) — Kyle Harper's global history of disease from prehistory and agriculture through plague, public health, globalization, and the mortality transition.
@@ -24648,5 +24649,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Positive Partner Idealization](concepts/PositivePartnerIdealization.md) — Bounded account of positive partner bias as bond maintenance rather than denial of harm or incompatibility.
 - [Relationship Self-Expansion](concepts/RelationshipSelfExpansion.md) — How a close relationship can enlarge identity, capability, perspective, and efficacy without becoming the sole source of self-worth.
 - [Libido as Multisystem Regulation](concepts/LibidoMultisystemRegulation.md) — Desire model integrating sex steroids, dopamine, autonomic state, context, and qualified supplement evidence.
+- [Task-Specific Workspace Design](concepts/TaskSpecificWorkspaceDesign.md) — Portable framework for matching light, gaze, posture, visual space, sound, movement, and location to task and time of day.
+- [Interruption Boundary Design](concepts/InterruptionBoundaryDesign.md) — Layered use of layout, social signals, software controls, and device separation to protect focus and reduce re-entry cost.
+- [Active Workstation Task Tradeoff](concepts/ActiveWorkstationTaskTradeoff.md) — Task-specific distinction between attention benefits and verbal-memory costs during standing, treadmill, or cycling work.
 
 ## Syntheses

@@ -27005,6 +27005,7 @@ Added source `170-the-falklands-war-the-task-force-sails-part-2-glt1917394924`; 
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
 ## [2026-10-02] ingest | 153. God and the American Empire
 
 Added source `153-god-and-the-american-empire-glt8752091834`; created `AndrewPreston`, `HarrySTruman`, `AmericanReligiousPersistence`, `JudeoChristianNationalIdentity`, and `ReligiousMoralFramingOfUSForeignPolicy`; and resynthesized `AmericanExceptionalism`, `RonaldReagan`, `GeorgeWBush`, and `FrancisFukuyama` from their complete preserved evidence inventories. Core synthesis: American church-state separation and a competitive religious marketplace helped public faith remain politically available, while wartime and Cold War coalition-building turned religion into a flexible national language of mission, pluralism, good and evil, rights, intervention, and restraint. No settled contradiction was adopted. The Judeo-Christian dating, presidential motives, religion's causal weight in Israel recognition, the Siberian Seven's diplomatic significance, Fukuyama's providential inheritance, and evangelical support for Trump remain qualified or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,395-source coverage; no topic claim set was dirty and global compaction was not due.
@@ -27247,6 +27248,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-02] ingest | 146. Disease vs. the rise of civilisation
 
 Added source `146-disease-vs-the-rise-of-civilisation-glt4238916512`; created `MortalityTransition`, `AgriculturalSettlementDiseaseEcology`, and `BlackDeathHistoricalShock`; and resynthesized `KyleHarper`, `PlaguesUponTheEarth`, and `ImperialConnectivityDiseaseRisk` from their complete preserved evidence inventories. Core synthesis: human ecological flexibility enlarged pathogen opportunity across migration, technology, sedentary agriculture, waste concentration, cities, and long-distance connection, while the historically recent mortality transition changed childhood survival, family formation, educational horizons, women's lives, and expectations of infectious death. No settled contradiction was adopted. Hunter-gatherer and chimpanzee mortality comparisons, pathogen ages, malaria origins, urban skeletal and demographic interpretations, Black Death mortality, and plague's Chinese and Indian boundaries remain qualified, contested, or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,404-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | Optimizing Workspace for Productivity, Focus, & Creativity
+
+Added source `optimizing-workspace-for-productivity-focus-creativity-scim5202577757`; created `TaskSpecificWorkspaceDesign`, `InterruptionBoundaryDesign`, and `ActiveWorkstationTaskTradeoff`; and resynthesized `DailyCircadianPerformanceRoutine`, `VisualFocusEffortTool`, `SoundBasedStateRegulation`, `UltradianDeepWorkBlock`, `WorkstationPostureAdjustment`, and `SedentaryBehaviorInterruption` from their complete preserved evidence inventories. Core synthesis: workspace design is task- and time-dependent rather than one ideal desk, with light, gaze, posture, visual space, sound, interruption boundaries, movement, and location acting as adjustable inputs. No settled contradiction was adopted. The episode's 45-to-5 visual rhythm, ceiling-height effect, focus warm-up, binaural-beat mechanism, noise-duration limit, sitting-standing ratio, and active-workstation results remain qualified or source-scoped; later evidence weakens the claimed dopamine mechanism and preserves silence as a demanding-task default. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,405-source coverage; no topic claim set was dirty and global compaction was not due.
 
 ## [2026-10-02] lint | Wiki health check
 

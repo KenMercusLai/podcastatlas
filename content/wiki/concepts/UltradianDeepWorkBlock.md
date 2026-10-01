@@ -6,7 +6,8 @@ sources:
   - essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382
   - focus-toolkit-tools-to-improve-your-focus-concentration-scim5273827033
   - essentials-tools-to-improve-your-focus-concentration-scim2328129388
-last_updated: 2026-10-01
+  - optimizing-workspace-for-productivity-focus-creativity-scim5202577757
+last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
 
@@ -20,10 +21,12 @@ The practical value of the block is environmental and attentional: choose the ha
 
 Timing is treated as adjustable. The episode proposes four to six hours after estimated temperature minimum as a possible high-focus window, yet explicitly says that people who already focus well immediately after waking should keep that schedule. The concept is therefore a protected-work design, not proof that every person has one exact 90-minute cognitive maximum.
 
+Workspace setup and interruption control become explicit in [[optimizing-workspace-for-productivity-focus-creativity-scim5202577757]]. It normalizes a roughly six-minute focus warm-up, recommends a centered and elevated work target, and treats room orientation, phone separation, connectivity controls, and periodic panoramic viewing as supports for entry and re-entry rather than guarantees of uninterrupted concentration.
+
 ## Key Claims
 - One protected daily block can be reserved for the hardest or most important cognitive task.
 - A 90-minute timer bounds the effort while allowing focus to rise and fall within the session.
-- Turning the phone fully off is presented as a stronger distraction boundary than partial notification control.
+- Turning the phone fully off or physically separating it is presented as a stronger distraction boundary than partial notification control, reducing avoidable task switching and re-entry cost.
 - Eye-level or slightly elevated screen placement is presented as more alerting than a downward gaze.
 - Low-level white noise is offered as an optional learning and workflow aid.
 - Estimated circadian timing may help schedule the block, but observed personal performance takes precedence over the proposed window.
@@ -36,12 +39,13 @@ Timing is treated as adjustable. The episode proposes four to six hours after es
 - Personal-fit boundary - [[essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382]] says effective immediate-post-waking work should not be abandoned merely to match the suggested timing.
 - Entry and recovery - [[focus-toolkit-tools-to-improve-your-focus-concentration-scim5273827033]] frames five to ten minutes of transition and 10-30 minutes of deliberate defocus as expected neighbors of a focus bout.
 - Editorial continuity - [[essentials-tools-to-improve-your-focus-concentration-scim2328129388]] repeats the roughly 90-minute bout and five- to ten-minute transition in a condensed release.
+- Workspace and boundary design - [[optimizing-workspace-for-productivity-focus-creativity-scim5202577757]] adds elevated target placement, a focus warm-up, panoramic visual breaks, and stronger phone separation.
 
 ## Counterevidence & Qualifications
-The sources do not supply comparative trials for 90 versus other work-block lengths, establish white noise as universally beneficial, prove one optimal recovery interval, or show that screen height alone materially improves work. Attention disorders, pain, disability, shared workplaces, caregiving, job design, chronotype, and sleep debt can change the useful duration and setup. The ultradian label, precise focus window, and decompression duration remain source-scoped.
+The sources do not supply comparative trials for 90 versus other work-block lengths, establish white noise as universally beneficial, prove one optimal recovery interval, or show that screen height alone materially improves work. The six-minute and five-to-ten-minute warm-up descriptions are compatible heuristics, not a precise universal onset time. Attention disorders, pain, disability, shared workplaces, caregiving, job design, chronotype, and sleep debt can change the useful duration and setup. The ultradian label, precise focus window, and decompression duration remain source-scoped.
 
 ## What Changed
-- Added the Essentials cut as overlapping evidence while preserving the flexible-duration judgment.
+- Added workspace layout, visual recovery, and phone-separation support for focus entry and re-entry.
 
 ## Related Concepts
 - [[DailyCircadianPerformanceRoutine]] - whole-day routine in which the work block appears.
@@ -51,3 +55,5 @@ The sources do not supply comparative trials for 90 versus other work-block leng
 - [[TemperatureMinimumClockShifting]] - circadian estimate used by the source to suggest work timing.
 - [[SustainableHealthOptimization]] - fit principle that lets the block length and timing adapt to the person.
 - [[FocusTrainingToolkit]] - broader cycle that places the block between readiness and recovery.
+- [[InterruptionBoundaryDesign]] - layered protection against social and digital task switching.
+- [[TaskSpecificWorkspaceDesign]] - task-matched environmental setup around the work block.
