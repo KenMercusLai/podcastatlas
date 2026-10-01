@@ -1202,6 +1202,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "179-french-presidents-1981-2022-part-2-glt2206497694": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "179-xian-jiu-riyuan-zai-jiu-changzhai-jiuhuoduizhang-beisente-zai-zou-yi-tiao-zenyang-de-gangsi-lqjc6vz-1ungnkpdw9d5kbsa-ouo": [
     {
       "key": "politics",
@@ -33326,6 +33338,20 @@
       "url": "/topics/politics/"
     }
   ],
+  "FrancoisHollande": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "FrancoisMitterrand": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "FrancoisTruffaut": [
     {
       "key": "culture",
@@ -33562,6 +33588,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "FrenchFifthRepublic": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "FrenchLineDancingCulture": [
@@ -43411,6 +43444,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "JacquesChirac": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "JacquesLouisDavid": [
@@ -56380,6 +56420,13 @@
     }
   ],
   "NicolasMaduro": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "NicolasSarkozy": [
     {
       "key": "politics",
       "label": "Politics",

@@ -1,0 +1,48 @@
+---
+title: "Jacques Chirac"
+type: entity
+tags: [person, france, politics, presidency]
+sources:
+  - 179-french-presidents-1981-2022-part-2-glt2206497694
+last_updated: 2026-10-01
+knowledge_schema: synthesis-v1
+---
+
+# Jacques Chirac
+
+## Overview
+
+Jacques Chirac was a long-serving French political operator and president whom the source portrays as opportunistic and corrupt but capable of projecting the authority expected by the [[FrenchFifthRepublic]].
+
+## Current Profile
+
+[[179-french-presidents-1981-2022-part-2-glt2206497694]] presents Chirac as a product of elite institutions who served twice as prime minister, governed Paris, navigated cohabitation, and eventually won the presidency. His political flexibility and legal scandals coexist in the episode with recognizable presidential bearing, opposition to the Iraq War, and a 2002 runoff against [[JeanMarieLePen]].
+
+## Key Characteristics
+
+- Built unusual longevity through elite formation, local office, premierships, and tactical adaptation.
+- Operated across cohabitation and changing ideological positions with limited programmatic consistency.
+- Projected presidential authority despite extensive corruption allegations and a later conviction.
+- Shortened the presidential term from seven years to five.
+- Faced Jean-Marie Le Pen in the 2002 runoff after the far right's breakthrough.
+
+## Evidence
+
+- Career and adaptability: [[179-french-presidents-1981-2022-part-2-glt2206497694]] describes Chirac's ENA and Sciences Po formation, two premierships, Paris mayoralty, and cohabitation experience.
+- Corruption and survival: [[179-french-presidents-1981-2022-part-2-glt2206497694]] recounts fictional jobs, kickbacks, spending allegations, and the protective value of presidential office.
+- Presidential role and far-right context: [[179-french-presidents-1981-2022-part-2-glt2206497694]] contrasts his Iraq War position and presidential bearing with the 2002 runoff and the hosts' causal interpretation of his electoral tactics.
+
+## Qualifications
+
+This is a source-bounded character study, not a complete evaluation of Chirac's domestic policy, foreign policy, constitutional reforms, or judicial record. The claim that his maneuvers enabled the far right is an episode interpretation rather than an established single-cause explanation.
+
+## What Changed
+
+- Created the page around the tension between political survival, corruption, and presidential bearing.
+
+## Relationships
+
+- [[FrancoisMitterrand]] - president under whom Chirac served during cohabitation.
+- [[JeanMarieLePen]] - 2002 runoff opponent whose breakthrough transformed the election.
+- [[FrenchFifthRepublic]] - system through which Chirac accumulated executive and presidential authority.
+- [[FarRightNormalization]] - longer process to which the episode connects his electoral tactics.

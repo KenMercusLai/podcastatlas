@@ -7,7 +7,8 @@ sources:
   - marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c
   - right-in-front-afd-could-win-german-state-6a97f0a5a4a22c581728b85f
   - trailer-shire-folk-6aa271d1a6e9aef4cc74ef3b
-last_updated: 2026-09-10
+  - 179-french-presidents-1981-2022-part-2-glt2206497694
+last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
 
@@ -15,49 +16,59 @@ knowledge_schema: synthesis-v1
 
 ## Definition
 
-Far-right normalization is the process by which far-right parties, candidates, or ideas with extremist or toxic associations become more electorally acceptable, institutionally tolerated, or practically capable of exercising power.
+Far-right normalization is the process by which far-right parties, candidates, figures, or ideas with extremist associations become more electorally acceptable, institutionally tolerated, symbolically amplified, or practically capable of exercising power.
 
 ## Current Synthesis
 
-The wiki now treats normalization as more than rebranding. The French branch shows [[MarineLePen]] trying to distance [[NationalRally]] from [[JeanMarieLePen]]'s inherited reputation through candidate image, class appeal, social-protection politics, and legal legitimacy. The platform branch shows [[ElonMusk]] and [[Twitter|X]] as high-reach amplifiers of European anti-migration and Islam-focused politics. The German branch moves the concept from acceptability to capacity: [[AlternativeForGermany|AfD]] in [[SaxonyAnhalt]] could test whether a far-right party can convert polling strength into state executive control despite the [[BrandmauerCordonSanitaire|Brandmauer]]. The Robinson trailer adds a marginalization-to-symbolic-power pathway, where a figure largely excluded from British mainstream media can still gain rally visibility and become useful to some American actors as a warning about Britain and "the West."
+The French branch now distinguishes lineage from presentation. [[179-french-presidents-1981-2022-part-2-glt2206497694]] places [[NationalRally]] in an older anti-republican current and treats [[MarineLePen]]'s break with [[JeanMarieLePen]], party renaming, softer imagery, and protectionist social policy as reputational change rather than proof of historical discontinuity. [[marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c]] adds legal legitimacy, class appeal, and the [[TwoRoundPresidentialElection|second-round acceptability]] test.
+
+The other sources show normalization through different pathways. [[the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4]] and [[trailer-shire-folk-6aa271d1a6e9aef4cc74ef3b]] describe platform, rally, and foreign validation that can amplify excluded figures or themes without formal party ties. [[right-in-front-afd-could-win-german-state-6a97f0a5a4a22c581728b85f]] moves from acceptability to governing capacity by asking whether AfD could overcome the [[BrandmauerCordonSanitaire|Brandmauer]] and control a German state.
 
 ## Key Claims
 
-- Normalization can turn a party's extremist history from a hard ceiling into a campaign liability that must be managed.
-- Legal exclusion can be reframed by a candidate as a democratic legitimacy issue.
-- Working-class economic appeals and middle-class business reassurance can pull the same party in different strategic directions.
-- Platform amplification can normalize far-right themes without being formally tied to a party organization.
-- A coalition firewall can slow normalization, but a possible majority creates a different test: whether exclusion norms still matter when a party can govern alone.
-- State-level office forces normalized far-right parties to face budgets, personnel, institutions, protests, and social exit rather than only campaign rhetoric.
-- Media exclusion does not necessarily prevent normalization when online channels, rallies, and foreign validation give a figure symbolic reach.
+- Rebranding can lower a movement's reputational ceiling without severing its ideological or organizational inheritance.
+- Legal exclusion can be reframed by a candidate as a democratic-legitimacy issue.
+- Working-class social protection and business reassurance can broaden one party through different messengers.
+- Party-system weakening can normalize the far right by removing established alternatives, not only by changing far-right rhetoric.
+- Platforms, rallies, and foreign validation can give excluded figures symbolic reach outside mainstream media.
+- A coalition firewall can delay executive power, but an outright majority tests whether exclusion norms still matter.
+- Entering office exposes normalized movements to budgets, personnel, institutions, protests, and governing competence.
 
 ## Evidence
 
-- Party rebranding: [[marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c]] presents [[MarineLePen]] as trying to move [[NationalRally]] away from [[JeanMarieLePen]]'s National Front reputation.
-- Electoral-system pressure: [[marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c]] shows why a [[TwoRoundPresidentialElection]] makes second-round acceptability central to normalization.
-- Appeal broadening: [[marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c]] contrasts Le Pen's social-protection pitch with [[JordanBardella]]'s more business-friendly appeal.
-- Platform amplification: [[the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4]] has [[ZannyMintonBeddoes]] argue that [[ElonMusk]] encourages populist-right and far-right politics through commentary on Europe, migration, and Islam.
-- Executive-capacity test: [[right-in-front-afd-could-win-german-state-6a97f0a5a4a22c581728b85f]] presents AfD's possible Saxony-Anhalt majority as a test of whether far-right normalization can become state power.
-- Institutional friction: [[right-in-front-afd-could-win-german-state-6a97f0a5a4a22c581728b85f]] stresses fiscal limits, public-sector resistance, and possible protests or departures if AfD tries to govern.
-- Excluded-figure amplification: [[trailer-shire-folk-6aa271d1a6e9aef4cc74ef3b]] frames [[TommyRobinson]] as largely blacklisted by British media but visible through a large rally, online channels, [[ElonMusk]], and some American right-wing attention.
+### Historical lineage and image change
+
+- [[179-french-presidents-1981-2022-part-2-glt2206497694]] connects the Le Pen movement to older anti-republican traditions and distinguishes renaming and softer presentation from a clean historical break.
+
+### Electoral legitimacy and coalition broadening
+
+- [[marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c]] presents Le Pen's legal appeal, social-policy pitch, and Bardella's business-facing role as different parts of normalization.
+
+### Platform and excluded-figure amplification
+
+- [[the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4]] has [[ElonMusk]] amplify anti-migration and Islam-focused narratives to a very large audience.
+- [[trailer-shire-folk-6aa271d1a6e9aef4cc74ef3b]] shows [[TommyRobinson]] gaining rally, online, and American symbolic reach despite British mainstream-media exclusion.
+
+### Executive-capacity test
+
+- [[right-in-front-afd-could-win-german-state-6a97f0a5a4a22c581728b85f]] presents an AfD majority in Saxony-Anhalt as a possible transition from opposition pressure to state power under fiscal, administrative, and civil-society constraints.
 
 ## Counterevidence & Qualifications
 
-Normalization does not prove governing competence, majority acceptance, policy implementation, or accurate diagnosis of social conditions. The Saxony-Anhalt branch is pre-election and source-scoped; it frames a possible result and its likely constraints rather than a completed far-right governing record. The Robinson branch is trailer-scoped and does not yet prove the size, structure, or causality of American influence.
+Historical lineage does not establish identity between past movements and every present voter, official, or policy. Normalization does not prove majority acceptance, governing competence, policy implementation, or accurate diagnosis of social conditions. The German branch is pre-election, and the Robinson branch is trailer-scoped. Claims about Macron-era party collapse and Chirac-era electoral tactics as causes of far-right strength remain episode interpretations rather than single-cause explanations.
 
 ## What Changed
 
-- Migrated the concept into the synthesis schema.
-- Added the AfD/Saxony-Anhalt branch, shifting the concept from image management and platform amplification toward possible subnational executive power.
-- Added the Robinson trailer branch, shifting one strand of normalization from party rebranding toward excluded-figure amplification and transatlantic symbolic use.
+- Added historical lineage and the distinction between image change and ideological discontinuity.
+- Added party-system weakening as a pathway that can normalize the far right externally.
+- Integrated protectionist social policy with the existing class-broadening account.
 
 ## Related Concepts
 
-- [[TwoRoundPresidentialElection]] - electoral system that makes second-round acceptability central to French normalization.
+- [[TwoRoundPresidentialElection]] - electoral system making second-round acceptability central to French normalization.
 - [[ElectoralIneligibilityPenalty]] - legal sanction that can become part of a legitimacy narrative.
-- [[ImmigrationBacklashCycle]] - migration-politics mechanism that far-right actors use and amplify.
-- [[BrandmauerCordonSanitaire]] - German exclusion norm that limits far-right coalition access.
-- [[FarRightStateGovernanceTest]] - downstream test of whether normalized far-right support can become executive power.
-- [[RemigrationPolitics]] - removal-oriented immigration politics used in the AfD branch.
+- [[CentristFragmentationRunoffRisk]] - rival-party weakness that can convert a stable far-right base into runoff dominance.
+- [[BrandmauerCordonSanitaire]] - German exclusion norm limiting far-right coalition access.
+- [[FarRightStateGovernanceTest]] - downstream test of whether normalized support can become executive power.
 - [[BritishMediaExclusionOnlineAmplification]] - pathway where mainstream exclusion coexists with online and rally reach.
-- [[AmericanRightBritainWarningNarrative]] - transatlantic symbolic use of Britain in the Robinson trailer.
+- [[FrenchFifthRepublic]] - powerful presidency whose party-system concentration raises the stakes of normalization.

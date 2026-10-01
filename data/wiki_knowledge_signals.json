@@ -30170,9 +30170,9 @@
       "url": "/wiki/entities/charlesdawson/"
     },
     "CharlesDeGaulle": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6246374874 [GLT6246374874].md",
@@ -30187,9 +30187,16 @@
           "show": "The Rest Is History",
           "title": "353: Paris 1968: The Students' Revolt (Part 1)",
           "url": "/wiki/sources/353-paris-1968-the-students-revolt-part-1-glt6124707164/"
+        },
+        {
+          "episode_file": "GLT2206497694 [GLT2206497694].md",
+          "key": "179-french-presidents-1981-2022-part-2-glt2206497694",
+          "show": "The Rest Is History",
+          "title": "179. French Presidents: 1981-2022 (Part 2)",
+          "url": "/wiki/sources/179-french-presidents-1981-2022-part-2-glt2206497694/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/charlesdegaulle/"
     },
     "CharlesDickens": {
@@ -56070,6 +56077,36 @@
       "updated": "2026-09-24",
       "url": "/wiki/entities/emmanueljosephsieyes/"
     },
+    "EmmanuelMacron": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "Marine warfare： Le Pen runs for president [6a4e1f2781fe1f6460b7117c].md",
+          "key": "marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c",
+          "show": "Economist Podcasts",
+          "title": "Marine warfare: Le Pen runs for president",
+          "url": "/wiki/sources/marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c/"
+        },
+        {
+          "episode_file": "Burning questions： a more fire-prone world [6a687ea64207b2a60119df8b].md",
+          "key": "burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b",
+          "show": "Economist Podcasts",
+          "title": "Burning questions: a more fire-prone world",
+          "url": "/wiki/sources/burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b/"
+        },
+        {
+          "episode_file": "GLT2206497694 [GLT2206497694].md",
+          "key": "179-french-presidents-1981-2022-part-2-glt2206497694",
+          "show": "The Rest Is History",
+          "title": "179. French Presidents: 1981-2022 (Part 2)",
+          "url": "/wiki/sources/179-french-presidents-1981-2022-part-2-glt2206497694/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/emmanuelmacron/"
+    },
     "EmmyAwards": {
       "episode_count": 1,
       "show_count": 1,
@@ -64344,9 +64381,9 @@
       "url": "/wiki/entities/fanqiuwusun/"
     },
     "FarRightNormalization": {
-      "episode_count": 4,
-      "show_count": 1,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 2,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "The Elon game： Musk’s vision of the future [6a633594d19896314260e5c4].md",
@@ -64375,9 +64412,16 @@
           "show": "Economist Podcasts",
           "title": "TRAILER: Shire folk",
           "url": "/wiki/sources/trailer-shire-folk-6aa271d1a6e9aef4cc74ef3b/"
+        },
+        {
+          "episode_file": "GLT2206497694 [GLT2206497694].md",
+          "key": "179-french-presidents-1981-2022-part-2-glt2206497694",
+          "show": "The Rest Is History",
+          "title": "179. French Presidents: 1981-2022 (Part 2)",
+          "url": "/wiki/sources/179-french-presidents-1981-2022-part-2-glt2206497694/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/farrightnormalization/"
     },
     "FarRightStateGovernanceTest": {
@@ -69989,6 +70033,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/francoischabot/"
     },
+    "FrancoisHollande": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2206497694 [GLT2206497694].md",
+          "key": "179-french-presidents-1981-2022-part-2-glt2206497694",
+          "show": "The Rest Is History",
+          "title": "179. French Presidents: 1981-2022 (Part 2)",
+          "url": "/wiki/sources/179-french-presidents-1981-2022-part-2-glt2206497694/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/francoishollande/"
+    },
     "FrancoisJourgniacSaintMeard": {
       "episode_count": 1,
       "show_count": 1,
@@ -70004,6 +70064,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/entities/francoisjourgniacsaintmeard/"
+    },
+    "FrancoisMitterrand": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2206497694 [GLT2206497694].md",
+          "key": "179-french-presidents-1981-2022-part-2-glt2206497694",
+          "show": "The Rest Is History",
+          "title": "179. French Presidents: 1981-2022 (Part 2)",
+          "url": "/wiki/sources/179-french-presidents-1981-2022-part-2-glt2206497694/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/francoismitterrand/"
     },
     "FrancoisPienaar": {
       "episode_count": 1,
@@ -70562,6 +70638,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/fremontunifiedschooldistrict/"
+    },
+    "FrenchFifthRepublic": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2206497694 [GLT2206497694].md",
+          "key": "179-french-presidents-1981-2022-part-2-glt2206497694",
+          "show": "The Rest Is History",
+          "title": "179. French Presidents: 1981-2022 (Part 2)",
+          "url": "/wiki/sources/179-french-presidents-1981-2022-part-2-glt2206497694/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/frenchfifthrepublic/"
     },
     "FrenchLineDancingCulture": {
       "episode_count": 1,
@@ -98861,6 +98953,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/entities/jacquerie/"
     },
+    "JacquesChirac": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2206497694 [GLT2206497694].md",
+          "key": "179-french-presidents-1981-2022-part-2-glt2206497694",
+          "show": "The Rest Is History",
+          "title": "179. French Presidents: 1981-2022 (Part 2)",
+          "url": "/wiki/sources/179-french-presidents-1981-2022-part-2-glt2206497694/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/jacqueschirac/"
+    },
     "JacquesHebert": {
       "episode_count": 2,
       "show_count": 1,
@@ -99723,6 +99831,29 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/entities/jeanlucmelenchon/"
+    },
+    "JeanMarieLePen": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Marine warfare： Le Pen runs for president [6a4e1f2781fe1f6460b7117c].md",
+          "key": "marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c",
+          "show": "Economist Podcasts",
+          "title": "Marine warfare: Le Pen runs for president",
+          "url": "/wiki/sources/marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c/"
+        },
+        {
+          "episode_file": "GLT2206497694 [GLT2206497694].md",
+          "key": "179-french-presidents-1981-2022-part-2-glt2206497694",
+          "show": "The Rest Is History",
+          "title": "179. French Presidents: 1981-2022 (Part 2)",
+          "url": "/wiki/sources/179-french-presidents-1981-2022-part-2-glt2206497694/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/jeanmarielepen/"
     },
     "JeanPaulMarat": {
       "episode_count": 5,
@@ -122946,9 +123077,9 @@
       "url": "/wiki/entities/marilynmonroe/"
     },
     "MarineLePen": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Marine warfare： Le Pen runs for president [6a4e1f2781fe1f6460b7117c].md",
@@ -122963,9 +123094,16 @@
           "show": "Economist Podcasts",
           "title": "National front-runner: who can beat Le Pen?",
           "url": "/wiki/sources/national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60/"
+        },
+        {
+          "episode_file": "GLT2206497694 [GLT2206497694].md",
+          "key": "179-french-presidents-1981-2022-part-2-glt2206497694",
+          "show": "The Rest Is History",
+          "title": "179. French Presidents: 1981-2022 (Part 2)",
+          "url": "/wiki/sources/179-french-presidents-1981-2022-part-2-glt2206497694/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/marinelepen/"
     },
     "MarinusVanDerLubbe": {
@@ -132959,9 +133097,9 @@
       "url": "/wiki/entities/nationalorthopedicsportsrehabilitationclinicalresearchcenter/"
     },
     "NationalRally": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Marine warfare： Le Pen runs for president [6a4e1f2781fe1f6460b7117c].md",
@@ -132976,9 +133114,16 @@
           "show": "Economist Podcasts",
           "title": "National front-runner: who can beat Le Pen?",
           "url": "/wiki/sources/national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60/"
+        },
+        {
+          "episode_file": "GLT2206497694 [GLT2206497694].md",
+          "key": "179-french-presidents-1981-2022-part-2-glt2206497694",
+          "show": "The Rest Is History",
+          "title": "179. French Presidents: 1981-2022 (Part 2)",
+          "url": "/wiki/sources/179-french-presidents-1981-2022-part-2-glt2206497694/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/nationalrally/"
     },
     "NationalScienceFoundation": {
@@ -134653,6 +134798,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/nicolasmaduro/"
+    },
+    "NicolasSarkozy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2206497694 [GLT2206497694].md",
+          "key": "179-french-presidents-1981-2022-part-2-glt2206497694",
+          "show": "The Rest Is History",
+          "title": "179. French Presidents: 1981-2022 (Part 2)",
+          "url": "/wiki/sources/179-french-presidents-1981-2022-part-2-glt2206497694/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/nicolassarkozy/"
     },
     "NicolausCopernicus": {
       "episode_count": 1,
@@ -149914,9 +150075,9 @@
       "url": "/wiki/concepts/presidentialaccessibilitysecuritytradeoff/"
     },
     "PresidentialSymbolicLeadership": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT4042202229 [GLT4042202229].md",
@@ -149938,9 +150099,16 @@
           "show": "The Rest Is History",
           "title": "310: Ronald Reagan and the American Dream (Part 1)",
           "url": "/wiki/sources/310-ronald-reagan-and-the-american-dream-part-1-glt3254036306/"
+        },
+        {
+          "episode_file": "GLT2206497694 [GLT2206497694].md",
+          "key": "179-french-presidents-1981-2022-part-2-glt2206497694",
+          "show": "The Rest Is History",
+          "title": "179. French Presidents: 1981-2022 (Part 2)",
+          "url": "/wiki/sources/179-french-presidents-1981-2022-part-2-glt2206497694/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/presidentialsymbolicleadership/"
     },
     "PressureReleaseInfightingStrategy": {

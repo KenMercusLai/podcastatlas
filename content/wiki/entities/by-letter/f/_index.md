@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 11798
+wiki_total_pages: 11802
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -611,9 +611,15 @@ wiki_pages:
   - key: "FrancoisChabot"
     title: "François Chabot"
     url: "/wiki/entities/francoischabot/"
+  - key: "FrancoisHollande"
+    title: "François Hollande"
+    url: "/wiki/entities/francoishollande/"
   - key: "FrancoisJourgniacSaintMeard"
     title: "François Jourgniac Saint-Méard"
     url: "/wiki/entities/francoisjourgniacsaintmeard/"
+  - key: "FrancoisMitterrand"
+    title: "François Mitterrand"
+    url: "/wiki/entities/francoismitterrand/"
   - key: "FraserMcIlwraith"
     title: "Fraser McIlwraith"
     url: "/wiki/entities/frasermcilwraith/"

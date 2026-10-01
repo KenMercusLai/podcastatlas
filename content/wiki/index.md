@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [179. French Presidents: 1981-2022 (Part 2)](sources/179-french-presidents-1981-2022-part-2-glt2206497694.md) — The Rest Is History on presidential grandeur from Mitterrand to Macron, party-system erosion, scandal, and the Le Pen movement's older lineage.
 - [AI-powered surveillance costs lives at the southern border](sources/tech-20261001-mp-tech-pod-128-tech-20261001-mp-tech-pod-128.md) — Marketplace Tech on border surveillance towers, migrant deaths, terrain and AI failure modes, delayed response, and missing effectiveness data.
 - [181. The Birth of Babylon](sources/181-the-birth-of-babylon-glt1570061216.md) — The Rest Is History on Babylon's late foundation, Hammurabi, Marduk's cult statue, foreign conquest, sacred prestige, destruction, and rebuilding.
 - [Micronutrients for Health & Longevity | Dr. Rhonda Patrick](sources/micronutrients-for-health-longevity-dr-rhonda-patrick-scim7949990176.md) — Huberman Lab interview on micronutrient status, omega-3 forms, hormesis, cold and heat exposure, and measurement-led safety boundaries.
@@ -3415,6 +3416,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [180. England & Englishness](sources/180-england-englishness-glt7388885434.md) — The Rest Is History conversation with Jason Cowley on Orwell, devolution, empire, immigration, landscape, football, Brexit, and changing English identity.
 
 ## Entities
+- [François Mitterrand](entities/FrancoisMitterrand.md) — First left-wing Fifth Republic president, combining ideological adaptation, secrecy, and presidential grandeur.
+- [Jacques Chirac](entities/JacquesChirac.md) — Long-serving political operator whose corruption and tactical flexibility coexisted with recognizable presidential authority.
+- [Nicolas Sarkozy](entities/NicolasSarkozy.md) — Security-focused president whose hard-man politics and conspicuous style challenged Gaullist dignity.
+- [François Hollande](entities/FrancoisHollande.md) — “Mr Normal” president whose weak symbolic authority preceded Macron's displacement of the Socialist establishment.
 - [Eileen Guo](entities/EileenGuo.md) — Technology reporter investigating border-tower visibility, automated classification, response failures, and agency accountability.
 - [Babylon](entities/Babylon.md) — Mesopotamian city whose accumulated sacred and cultural authority repeatedly outlasted dynastic collapse, conquest, and physical destruction.
 - [Marduk](entities/Marduk.md) — Babylonian patron god whose cult statue functioned as divine presence, war trophy, and legitimacy resource.
@@ -15252,6 +15257,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gareth Southgate](entities/GarethSouthgate.md) — England manager presented as joining inherited patriotic symbols to progressive and multiracial belonging.
 
 ## Concepts
+- [French Fifth Republic](concepts/FrenchFifthRepublic.md) — Constitutional order joining a powerful presidency to an expectation of above-party national embodiment.
 - [Border Surveillance Rescue Failure](concepts/BorderSurveillanceRescueFailure.md) — Multi-stage breakdown between tower coverage, detection, classification, monitoring, response, and humanitarian outcome.
 - [Sacred Prestige Under Conquest](concepts/SacredPrestigeUnderConquest.md) — Pattern in which conquerors attack, seize, restore, or appropriate sacred centers whose authority survives military defeat.
 - [Intermittent Challenge Hormesis](concepts/IntermittentChallengeHormesis.md) — Dose-bounded adaptive-stress frame spanning exercise, fasting, heat, cold, and selected plant compounds.
