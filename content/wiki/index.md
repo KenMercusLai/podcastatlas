@@ -3365,6 +3365,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [212. Haunted London (Part 4)](sources/212-haunted-london-part-4-glt8938796735.md) — The Rest Is History walk through Newgate, Smithfield, St Bartholomew's, the buried Fleet, and Dickensian Saffron Hill as layered urban memory.
 - [211. London: People (Part 3)](sources/211-london-people-part-3-glt1562041230.md) — The Rest Is History pairing of Henry Fielding and C. L. R. James through adopted London identity, early policing, Brixton, Caribbean settlement, cricket, and post-colonial writing.
 - [210. London: Places (Part 2)](sources/210-london-places-part-2-glt8561271853.md) — The Rest Is History pairing of Barking Abbey's female scholarly history with the 2i's Coffee Bar's role in skiffle and early British pop.
+- [209. Londinium (Part 1)](sources/209-londinium-part-1-glt8659020002.md) — The Rest Is History walking tour of Roman London's geographic rise, Boudiccan destruction, civic and religious archaeology, fragmentary survival, and late decline.
 
 ## Entities
 - [Charles Zuker](entities/CharlesZuker.md) — Sensory neuroscientist connecting taste receptors and circuits to perceptual identity, valence, learning, and post-ingestive sugar reinforcement.
@@ -15094,6 +15095,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Brixton](entities/Brixton.md) — South London district connecting Caribbean settlement, Race Today, Black British activism, cricket memory, and C. L. R. James.
 - [Barking Abbey](entities/BarkingAbbey.md) — Anglo-Saxon and medieval women's religious house whose scholarly importance exceeds its sparse surviving fabric.
 - [The 2i's Coffee Bar](entities/The2isCoffeeBar.md) — Small Soho basement venue connecting coffee-bar culture, skiffle, media, and early British pop careers.
+- [Londinium](entities/Londinium.md) — Roman Thames crossing, port, road hub, commercial center, and provincial capital recovered through buried archaeology.
 
 ## Concepts
 - [Taste Identity and Valence Circuit](concepts/TasteIdentityValenceCircuit.md) — Circuit model separating chemical detection, perceptual quality, positive or negative value, action, and post-ingestive reinforcement.

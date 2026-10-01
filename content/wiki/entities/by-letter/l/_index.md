@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 11694
+wiki_total_pages: 11695
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -668,6 +668,9 @@ wiki_pages:
   - key: "Loki"
     title: "Loki / 洛基"
     url: "/wiki/entities/loki/"
+  - key: "Londinium"
+    title: "Londinium"
+    url: "/wiki/entities/londinium/"
   - key: "London"
     title: "London"
     url: "/wiki/entities/london/"

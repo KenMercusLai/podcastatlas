@@ -6,6 +6,7 @@ sources:
   - 498-xunzhao-laian-wei-jindai-shanghai-wutongqu-chuangzao-fengmao-de-faguo-jianzhushi-lskf8bdkhs71lbwjomt3gu1ko8be
   - 212-haunted-london-part-4-glt8938796735
   - 210-london-places-part-2-glt8561271853
+  - 209-londinium-part-1-glt8659020002
 last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
@@ -22,6 +23,8 @@ The London branch extends the concept beyond standing architecture. A walk from 
 
 [[BarkingAbbey]] and [[The2isCoffeeBar|the 2i's Coffee Bar]] widen the London branch again. Barking's surviving gateway and fragments cannot visually convey the scale of its female intellectual history, while the 2i's carries significance through remembered performances and career networks rather than distinguished fabric. Urban memory can therefore preserve both an institution lost through demolition and a brief cultural scene whose activity mattered more than its room.
 
+[[Londinium]] pushes the principle underground. Writing tablets preserved by the Walbrook, a reconstructed Mithraeum, a basilica pier in a barber shop, an amphitheatre below Guildhall, and Roman wall masonry inside a car park show that development, conservation rules, curation, and guided movement can make a city legible even when its street plan and monumental skyline have disappeared.
+
 ## Key Claims
 - Urban memory depends on interpretation, not only survival of physical buildings.
 - Books, plaques, archives, fiction, walking routes, street names, and topography make old environments legible to later publics.
@@ -29,7 +32,7 @@ The London branch extends the concept beyond standing architecture. A walk from 
 - Everyday leisure sites can hold memory value even when they are not visually old or conventionally monumental.
 - Small or vanished cultural interiors can remain historically important through activity, networks, media, and later narration.
 - Preservation judgments can be conflicted when old collective memory and new public architecture both have value.
-- Research and public interpretation require correction because folklore, commemoration, literary mapping, and archival evidence do not have identical status.
+- Research, development, and conservation can expose buried fabric, but correction, relocation, and reconstruction matter because archival evidence, folklore, commemoration, and curated display do not have identical status.
 
 ## Evidence
 - Writing evidence: [[498-xunzhao-laian-wei-jindai-shanghai-wutongqu-chuangzao-fengmao-de-faguo-jianzhushi-lskf8bdkhs71lbwjomt3gu1ko8be]] says some landmarks and recollections might disappear without people writing books about them.
@@ -41,15 +44,17 @@ The London branch extends the concept beyond standing architecture. A walk from 
 - Literary evidence: [[212-haunted-london-part-4-glt8938796735]] uses Dickens's Little Britain and Saffron Hill settings to interpret streets whose older social landscape is no longer readily visible.
 - Sparse-remains evidence: [[210-london-places-part-2-glt8561271853]] uses Barking's Curfew Tower, open ground, nearby church, and reported Anglo-Saxon fragment at All Hallows to recover a largely erased early religious landscape.
 - Activity-over-fabric evidence: [[210-london-places-part-2-glt8561271853]] treats the 2i's as historically important because of performances, encounters, media, and remembered careers rather than architecture.
+- Buried-city evidence: [[209-londinium-part-1-glt8659020002]] recovers Roman London through Walbrook deposits, writing tablets, masonry below later premises, the Mithraeum display, and wall fabric in a car park.
 
 ## Counterevidence & Qualifications
-The sources do not settle preservation policy or make all forms of memory equally reliable. The Shanghai case preserves a tension between conserving memory-bearing structures and allowing new public cultural buildings to improve urban space. The London cases show that ghosts, antiquarian tales, moral inscriptions, political memorials, novels, saintly visions, discovery stories, and venue mythology can reveal how a place was remembered without independently proving every event they describe. Importance also does not follow automatically from physical survival, demolition, or later fame.
+The sources do not settle preservation policy or make all forms of memory equally reliable. The Shanghai case preserves a tension between conserving memory-bearing structures and allowing new public cultural buildings to improve urban space. The London cases show that ghosts, antiquarian tales, moral inscriptions, political memorials, novels, saintly visions, discovery stories, venue mythology, reconstructed displays, and ambiguous archaeological finds can reveal how a place was remembered without independently proving every event they describe. Importance also does not follow automatically from physical survival, demolition, or later fame.
 
 ## What Changed
 - Extended the concept from standing buildings and preservation debates to buried infrastructure, demolished sites, street names, routes, and fiction.
 - Added an explicit evidence hierarchy separating historical traces from folklore and later commemoration.
 - Added sparse monastic remains and a modest music venue as contrasting cases where interpretation carries more history than the surviving fabric.
 - Added activity, career networks, and media mythology as forms of urban place memory requiring source qualification.
+- Added buried Roman fabric and development-linked conservation as a case where modern curation mediates access to an otherwise vanished city.
 
 ## Related Concepts
 - [[ArchitecturalArchiveResearch]] - research method that stabilizes memory claims.
@@ -63,3 +68,4 @@ The sources do not settle preservation policy or make all forms of memory equall
 - [[BarkingAbbey]] - lost institutional scale recovered from a gateway, fragments, archaeology, and historical narrative.
 - [[The2isCoffeeBar]] - culturally remembered interior whose performances and networks outweighed its architecture.
 - [[SmallVenueCulturalIncubation]] - process through which activity can give a modest room an outsized afterlife.
+- [[Londinium]] - buried Roman city reconstructed through archaeology, fragments, modern displays, and interpreted routes.

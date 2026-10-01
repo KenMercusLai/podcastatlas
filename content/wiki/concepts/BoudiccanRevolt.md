@@ -5,7 +5,8 @@ knowledge_schema: synthesis-v1
 tags: [rebellion, roman-britain, imperialism, alliances, military-history]
 sources:
   - 501-the-roman-conquest-of-britain-boudiccas-reign-of-blood-part-3-glt3128836892
-last_updated: 2026-09-23
+  - 209-londinium-part-1-glt8659020002
+last_updated: 2026-10-01
 ---
 
 # Boudiccan Revolt
@@ -19,6 +20,8 @@ The Boudiccan Revolt was the AD 60 uprising led by [[Boudicca]] and centered on 
 The episode explains the revolt as a convergence of immediate abuse and structural weakness. Rome converted a client kingdom into a field for confiscation, debt collection, enslavement, and bodily violation just as the governor and much of the army were away. Trinovantian resentment of veterans and Camulodunum then widened an Iceni dynastic crisis into a broader attack on Roman rule and its local beneficiaries.
 
 The rebels' victories revealed that [[RomanBritain]] depended on credible protection as well as coercion. Burning Verulamium threatened collaborators because Rome appeared unable to defend them, while older British rivalries meant the revolt was never simply Britons against Romans. [[SuetoniusPaulinus]] restored military credibility through concentration and disciplined battle, but the destructive reprisals that followed had to give way to more sustainable [[RomanProvincialConsolidation|provincial consolidation]].
+
+The Londinium walk adds the revolt's urban archaeological afterlife. Charred structures around AD 60 support a major destruction horizon at [[Londinium]], while skulls found at Number One Poultry dramatize but do not resolve the human cost: the episode keeps civilian victims and trophy-taking among possibilities rather than converting the remains into a settled narrative.
 
 ## Key Claims
 
@@ -36,16 +39,16 @@ The rebels' victories revealed that [[RomanBritain]] depended on credible protec
 - Coalition and targets: [[501-the-roman-conquest-of-britain-boudiccas-reign-of-blood-part-3-glt3128836892]] connects the Iceni and Trinovantes to Camulodunum's veteran colony and Claudian temple.
 - Provincial crisis: [[501-the-roman-conquest-of-britain-boudiccas-reign-of-blood-part-3-glt3128836892]] presents London and Verulamium as undefended losses that endangered commerce and Roman alliances.
 - Defeat and aftermath: [[501-the-roman-conquest-of-britain-boudiccas-reign-of-blood-part-3-glt3128836892]] contrasts Roman formation with the encumbered rebel host and follows victory into reprisals and administrative change.
+- Destruction layer: [[209-londinium-part-1-glt8659020002]] connects burnt buildings at Londinium to the revolt while leaving the Number One Poultry skulls' identity and treatment unresolved.
 
 ## Counterevidence & Qualifications
 
-The surviving narrative is dominated by Tacitus and Cassius Dio, whose speeches, gendered descriptions, atrocity stories, numbers, and dramatic omens are literary constructions as well as possible evidence. Archaeological destruction layers support major burning but do not settle intention, responsibility for every death, battle location, or exact chronology. Older intertribal conflicts also qualify any unified national-war interpretation.
+The surviving narrative is dominated by Tacitus and Cassius Dio, whose speeches, gendered descriptions, atrocity stories, numbers, and dramatic omens are literary constructions as well as possible evidence. Archaeological destruction layers support major burning but do not settle intention, responsibility for every death, the identity or treatment of recovered skulls, battle location, or exact chronology. Older intertribal conflicts also qualify any unified national-war interpretation.
 
 ## What Changed
 
-- Created a synthesis joining abusive annexation to the fragility of Rome's protection-and-collaboration system.
-- Added intertribal rivalry as a qualification to a unitary national-liberation account.
-- Added post-victory restraint as part of the revolt's governing aftermath.
+- Added Londinium's destruction layer as material corroboration of the revolt's urban impact.
+- Preserved the Number One Poultry skulls as ambiguous evidence rather than proof of a specific atrocity narrative.
 
 ## Related Concepts
 

@@ -26483,3 +26483,11 @@ Added source `the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-sci
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | 209. Londinium (Part 1)
+
+Added source `209-londinium-part-1-glt8659020002`; created `Londinium`; and resynthesized `RomanBritain`, `BoudiccanRevolt`, `Mithras`, and `UrbanArchitecturalMemory` from their complete preserved evidence inventories. Core synthesis: a Thames bridge-and-port location turned Londinium into a road, commercial, military, civic, and administrative center, while Boudiccan destruction, rebuilding, late contraction, stone reuse, and later urban development left Roman London legible mainly through buried fragments and archaeological interpretation. No settled contradiction was adopted. The Number One Poultry skulls, London Stone, Hadrianic fires, unknown girl's religion, structure dates, capital chronology, and late urban decline remain uncertain or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,311-source coverage; no topic claim set was dirty and global compaction was not due. Identity, knowledge-schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
