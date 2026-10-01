@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 9167
+wiki_total_pages: 9168
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -77,6 +77,9 @@ wiki_pages:
   - key: "FalklandsTaskForceMobilization"
     title: "Falklands Task Force Mobilization"
     url: "/wiki/concepts/falklandstaskforcemobilization/"
+  - key: "FalklandsWarOrigins"
+    title: "Falklands War Origins"
+    url: "/wiki/concepts/falklandswarorigins/"
   - key: "FalklandsWarPoliticalAfterlife"
     title: "Falklands War Political Afterlife"
     url: "/wiki/concepts/falklandswarpoliticalafterlife/"

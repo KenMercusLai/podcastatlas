@@ -63642,9 +63642,9 @@
       "url": "/wiki/concepts/fairallocationpoliticalskill/"
     },
     "FalklandIslands": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5779306068 [GLT5779306068].md",
@@ -63659,6 +63659,13 @@
           "show": "The Rest Is History",
           "title": "170. The Falklands War: The Task Force Sails (Part 2)",
           "url": "/wiki/sources/170-the-falklands-war-the-task-force-sails-part-2-glt1917394924/"
+        },
+        {
+          "episode_file": "GLT6828599585 [GLT6828599585].md",
+          "key": "169-the-falklands-war-countdown-to-invasion-part-1-glt6828599585",
+          "show": "The Rest Is History",
+          "title": "169. The Falklands War: Countdown to Invasion (Part 1)",
+          "url": "/wiki/sources/169-the-falklands-war-countdown-to-invasion-part-1-glt6828599585/"
         }
       ],
       "updated": "2026-10-02",
@@ -63697,9 +63704,9 @@
       "url": "/wiki/concepts/falklandstaskforcemobilization/"
     },
     "FalklandsWar": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT5779306068 [GLT5779306068].md",
@@ -63721,10 +63728,33 @@
           "show": "The Rest Is History",
           "title": "170. The Falklands War: The Task Force Sails (Part 2)",
           "url": "/wiki/sources/170-the-falklands-war-the-task-force-sails-part-2-glt1917394924/"
+        },
+        {
+          "episode_file": "GLT6828599585 [GLT6828599585].md",
+          "key": "169-the-falklands-war-countdown-to-invasion-part-1-glt6828599585",
+          "show": "The Rest Is History",
+          "title": "169. The Falklands War: Countdown to Invasion (Part 1)",
+          "url": "/wiki/sources/169-the-falklands-war-countdown-to-invasion-part-1-glt6828599585/"
         }
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/falklandswar/"
+    },
+    "FalklandsWarOrigins": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6828599585 [GLT6828599585].md",
+          "key": "169-the-falklands-war-countdown-to-invasion-part-1-glt6828599585",
+          "show": "The Rest Is History",
+          "title": "169. The Falklands War: Countdown to Invasion (Part 1)",
+          "url": "/wiki/sources/169-the-falklands-war-countdown-to-invasion-part-1-glt6828599585/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/falklandswarorigins/"
     },
     "FalklandsWarPoliticalAfterlife": {
       "episode_count": 2,
@@ -81100,6 +81130,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/hmsbeagle/"
+    },
+    "HMSEndurance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6828599585 [GLT6828599585].md",
+          "key": "169-the-falklands-war-countdown-to-invasion-part-1-glt6828599585",
+          "show": "The Rest Is History",
+          "title": "169. The Falklands War: Countdown to Invasion (Part 1)",
+          "url": "/wiki/sources/169-the-falklands-war-countdown-to-invasion-part-1-glt6828599585/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/hmsendurance/"
     },
     "HPVPreventionAndFollowup": {
       "episode_count": 3,
@@ -103794,6 +103840,22 @@
       "updated": "2026-09-15",
       "url": "/wiki/entities/jonathankeats/"
     },
+    "JorgeAnaya": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6828599585 [GLT6828599585].md",
+          "key": "169-the-falklands-war-countdown-to-invasion-part-1-glt6828599585",
+          "show": "The Rest Is History",
+          "title": "169. The Falklands War: Countdown to Invasion (Part 1)",
+          "url": "/wiki/sources/169-the-falklands-war-countdown-to-invasion-part-1-glt6828599585/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/jorgeanaya/"
+    },
     "JoseAngelPereira": {
       "episode_count": 1,
       "show_count": 1,
@@ -110126,9 +110188,9 @@
       "url": "/wiki/entities/leopoldii/"
     },
     "LeopoldoGaltieri": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT5779306068 [GLT5779306068].md",
@@ -110150,6 +110212,13 @@
           "show": "The Rest Is History",
           "title": "170. The Falklands War: The Task Force Sails (Part 2)",
           "url": "/wiki/sources/170-the-falklands-war-the-task-force-sails-part-2-glt1917394924/"
+        },
+        {
+          "episode_file": "GLT6828599585 [GLT6828599585].md",
+          "key": "169-the-falklands-war-countdown-to-invasion-part-1-glt6828599585",
+          "show": "The Rest Is History",
+          "title": "169. The Falklands War: Countdown to Invasion (Part 1)",
+          "url": "/wiki/sources/169-the-falklands-war-countdown-to-invasion-part-1-glt6828599585/"
         }
       ],
       "updated": "2026-10-02",
@@ -160800,9 +160869,9 @@
       "url": "/wiki/concepts/rewardeddenunciationfiscalenforcement/"
     },
     "RexHunt": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1917394924 [GLT1917394924].md",
@@ -160810,6 +160879,13 @@
           "show": "The Rest Is History",
           "title": "170. The Falklands War: The Task Force Sails (Part 2)",
           "url": "/wiki/sources/170-the-falklands-war-the-task-force-sails-part-2-glt1917394924/"
+        },
+        {
+          "episode_file": "GLT6828599585 [GLT6828599585].md",
+          "key": "169-the-falklands-war-countdown-to-invasion-part-1-glt6828599585",
+          "show": "The Rest Is History",
+          "title": "169. The Falklands War: Countdown to Invasion (Part 1)",
+          "url": "/wiki/sources/169-the-falklands-war-countdown-to-invasion-part-1-glt6828599585/"
         }
       ],
       "updated": "2026-10-02",

@@ -6,6 +6,7 @@ sources:
   - 172-the-falklands-war-afterlife-part-4-glt5779306068
   - 171-the-falklands-war-battle-for-the-islands-part-3-glt4679725480
   - 170-the-falklands-war-the-task-force-sails-part-2-glt1917394924
+  - 169-the-falklands-war-countdown-to-invasion-part-1-glt6828599585
 last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
@@ -14,11 +15,13 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-The Falklands War was the 1982 conflict between the [[UnitedKingdom]] and [[Argentina]] over the [[FalklandIslands]], represented here from invasion and task-force mobilization through diplomacy, combat, surrender, and political aftermath.
+The Falklands War was the 1982 conflict between the [[UnitedKingdom]] and [[Argentina]] over the [[FalklandIslands]], represented here from its historical and political origins through invasion, task-force mobilization, diplomacy, combat, surrender, and political aftermath.
 
 ## Current Profile
 
-The opening source presents the war as contingent rather than automatic. [[RexHunt|Rex Hunt]] ended hopeless local resistance without legitimizing occupation; [[MargaretThatcher|Margaret Thatcher]] favored recovery, but ministerial doubt persisted until [[HenryLeach|Henry Leach]] made a rapid [[FalklandsTaskForceMobilization|task-force mobilization]] credible. Parliamentary support, UN Security Council Resolution 502, and assistance from Chile, France, and the United States strengthened Britain's position while the voyage south preserved time for [[FalklandsCrisisDiplomacy|negotiation]]. Thatcher accepted Haig's mutual-withdrawal plan, but the junta rejected an off-ramp that threatened its nationalist legitimacy.
+The [[FalklandsWarOrigins|origins]] source presents the war as contingent rather than automatic. A long sovereignty dispute became militarized when the Islanders' British identity blocked London's leaseback effort, Argentina's junta sought nationalist legitimacy amid repression and economic crisis, and [[JorgeAnaya|Jorge Anaya]] and [[LeopoldoGaltieri|Leopoldo Galtieri]] read British weakness, defense cuts, negotiations, the planned withdrawal of [[HMSEndurance|HMS Endurance]], and presumed U.S. support as evidence that seizure would not be contested. The South Georgia incident then threatened surprise and brought forward a plan intended for later in 1982.
+
+After invasion, [[RexHunt|Rex Hunt]] ended hopeless local resistance without legitimizing occupation; [[MargaretThatcher|Margaret Thatcher]] favored recovery, but ministerial doubt persisted until [[HenryLeach|Henry Leach]] made a rapid [[FalklandsTaskForceMobilization|task-force mobilization]] credible. Parliamentary support, UN Security Council Resolution 502, and assistance from Chile, France, and the United States strengthened Britain's position while the voyage south preserved time for [[FalklandsCrisisDiplomacy|negotiation]]. Thatcher accepted Haig's mutual-withdrawal plan, but the junta rejected an off-ramp that threatened its nationalist legitimacy.
 
 The campaign then became a high-risk expedition whose sea, air, diplomatic, and ground phases remained interdependent. The sinking of the [[GeneralBelgrano|General Belgrano]] removed a surface threat but killed 323 people and transformed international perceptions. San Carlos achieved surprise, yet Argentine air attacks damaged or sank ships; Goose Green, Bluff Cove, and the night battles outside Stanley exposed British troops and poorly supplied Argentine conscripts to severe loss.
 
@@ -26,7 +29,7 @@ Victory ended Argentina's occupation, protected an island community represented 
 
 ## Key Characteristics
 
-- A short interstate war opened by invasion, rapid long-range mobilization, and simultaneous coercive diplomacy.
+- A short interstate war whose immediate origins joined a long sovereignty dispute to regime insecurity, failed settlement, deterrence failure, and a rushed invasion timetable.
 - A campaign in which operational necessity, casualties, diplomacy, and public legitimacy remained tightly linked.
 - A crisis in which British resolve coexisted with willingness to accept mutual withdrawal and interim administration.
 - A decisive blow to [[LeopoldoGaltieri|Galtieri]]'s military government.
@@ -36,6 +39,7 @@ Victory ended Argentina's occupation, protected an island community represented 
 
 ## Evidence
 
+- Origins and invasion decision: [[169-the-falklands-war-countdown-to-invasion-part-1-glt6828599585]] connects historical claims, Islander identity, junta weakness, British signaling, U.S. expectations, and the South Georgia acceleration.
 - Opening decision and mobilization: [[170-the-falklands-war-the-task-force-sails-part-2-glt1917394924]] connects Hunt's resistance, Thatcher's resolve, Leach's advice, the task force, parliamentary support, and the voyage south.
 - Diplomatic and alliance setting: [[170-the-falklands-war-the-task-force-sails-part-2-glt1917394924]] connects Resolution 502, Chilean and French help, U.S. division, Haig's compromise, British acceptance, and Argentine rejection.
 - Naval and diplomatic turning point: [[171-the-falklands-war-battle-for-the-islands-part-3-glt4679725480]] connects the Belgrano attack to the carrier threat, surface-fleet withdrawal, 323 deaths, and continuing peace efforts.
@@ -46,12 +50,13 @@ Victory ended Argentina's occupation, protected an island community represented 
 
 ## Qualifications
 
-The sources explicitly compress technical military history and are retrospective British podcast narratives rather than a full diplomatic, legal, Argentine, Islander, or veteran archive. Opening dialogue, public-opinion figures, the likely effect of Haig's plan, junta motives, the Belgrano's operational intentions, peace chronology, atrocity assessments, casualty details, electoral counterfactuals, sovereignty, and relationship to later politics remain disputed or source-scoped. Islanders, Argentine conscripts, and Argentine officials are discussed more than directly represented.
+The sources explicitly compress technical military and diplomatic history and are retrospective British podcast narratives rather than a full legal, Argentine, Islander, U.S., or veteran archive. Sovereignty, junta motives, the causal weight of Endurance and other British signals, U.S. expectations, opening dialogue, public-opinion figures, the likely effect of Haig's plan, the Belgrano's operational intentions, peace chronology, atrocity assessments, casualty details, electoral counterfactuals, and relationship to later politics remain disputed or source-scoped. Islanders, Argentine conscripts, and Argentine officials are discussed more than directly represented.
 
 ## What Changed
 
 - Extended the profile backward to invasion, Cabinet doubt, rapid task-force preparation, UN legitimacy, allied support, and South Georgia.
 - Replaced a simple resolve-versus-compromise frame with evidence that Britain mobilized while accepting a substantial withdrawal plan.
+- Extended causation before invasion to Islander consent, junta insecurity, cumulative deterrence signals, and an accelerated timetable.
 
 ## Relationships
 
@@ -68,3 +73,6 @@ The sources explicitly compress technical military history and are retrospective
 - [[HenryLeach]] - naval adviser who made an expeditionary response credible.
 - [[FalklandsTaskForceMobilization]] - conversion of political intent into a long-range force.
 - [[FalklandsCrisisDiplomacy]] - UN, alliance, mediation, and regime-legitimacy layer of the opening crisis.
+- [[FalklandsWarOrigins]] - multi-causal framework for the sovereignty dispute becoming a rushed military gamble.
+- [[JorgeAnaya]] - junta strategist and naval advocate of the invasion plan.
+- [[HMSEndurance]] - patrol ship whose planned withdrawal contributed to Argentine perceptions of disengagement.

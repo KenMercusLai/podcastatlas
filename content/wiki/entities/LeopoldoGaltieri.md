@@ -6,6 +6,7 @@ sources:
   - 172-the-falklands-war-afterlife-part-4-glt5779306068
   - 171-the-falklands-war-battle-for-the-islands-part-3-glt4679725480
   - 170-the-falklands-war-the-task-force-sails-part-2-glt1917394924
+  - 169-the-falklands-war-countdown-to-invasion-part-1-glt6828599585
 last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
@@ -18,13 +19,16 @@ Leopoldo Galtieri was the Argentine junta leader whose government invaded the [[
 
 ## Current Profile
 
-The sources present Galtieri as the leader of a dictatorship that converted a sovereignty claim into a regime-survival gamble. The junta expected Britain to accept the seizure and planned for occupation more effectively than for diplomatic isolation or military counterattack. Nationalist celebration then raised the domestic cost of retreat: Argentina rejected Haig's mutual-withdrawal and interim-administration proposal even after Britain accepted it. During the later campaign Galtieri also rejected withdrawal under a Peru-backed proposal, told commander Mario Benjamín Menéndez that no further support was coming, and demanded continued resistance while cold, hungry conscripts lost confidence in their officers.
+The sources present Galtieri as the leader of a dictatorship that converted a sovereignty claim into a regime-survival gamble. He took power around the turn of 1982 while the junta faced inflation, strikes, unrest, service rivalry, and the legitimacy burden of the Dirty War. His old military-college associate [[JorgeAnaya|Jorge Anaya]] advocated recovering the Malvinas before the 150th anniversary of Britain's 1833 return. They expected Britain to accept the seizure, assumed the United States would remain supportive, and planned for occupation more effectively than for diplomatic isolation or military counterattack.
+
+Nationalist celebration then raised the domestic cost of retreat: Argentina rejected Haig's mutual-withdrawal and interim-administration proposal even after Britain accepted it. During the later campaign Galtieri also rejected withdrawal under a Peru-backed proposal, told commander Mario Benjamín Menéndez that no further support was coming, and demanded continued resistance while cold, hungry conscripts lost confidence in their officers.
 
 Defeat therefore destroyed the junta's claim to competence and accelerated a democratic transition already developing within wider regional change. Galtieri resigned within days, was later prosecuted in Argentina, lost his military rank, and was pardoned by Carlos Menem. The episodes mention this trajectory without supplying a complete account of his role in the [[ArgentineDirtyWar]] or the invasion decision.
 
 ## Key Characteristics
 
 - Military ruler governing without democratic legitimacy.
+- Leader facing economic crisis, political unrest, and the consequences of domestic repression.
 - Leader who tied regime prestige to recovering the Falkland Islands.
 - Associated with diplomatic overconfidence and inadequate preparation for a British counterattack.
 - Rejected successive withdrawal paths while the political cost of retreat and the military cost of continued war both rose.
@@ -34,6 +38,7 @@ Defeat therefore destroyed the junta's claim to competence and accelerated a dem
 ## Evidence
 
 - Diplomatic overconfidence: [[170-the-falklands-war-the-task-force-sails-part-2-glt1917394924]] presents the junta as surprised by British resistance and unwilling to accept Haig's withdrawal plan.
+- Prewar incentive and planning: [[169-the-falklands-war-countdown-to-invasion-part-1-glt6828599585]] connects Galtieri's vulnerable regime, Anaya's advocacy, assumed U.S. support, British signals, and the rushed timetable.
 - Regime gamble: [[172-the-falklands-war-afterlife-part-4-glt5779306068]] says the junta focused on taking the islands without adequately planning to hold them against Britain.
 - Wartime decisions: [[171-the-falklands-war-battle-for-the-islands-part-3-glt4679725480]] links Galtieri to rejection of the Peru-backed withdrawal plan and refusal of further support to Menéndez.
 - Collapse: [[172-the-falklands-war-afterlife-part-4-glt5779306068]] connects surrender to Galtieri's resignation and the military government's loss of legitimacy.
@@ -41,11 +46,12 @@ Defeat therefore destroyed the junta's claim to competence and accelerated a dem
 
 ## Qualifications
 
-The page is based on three retrospective British podcast episodes. It does not provide a complete biography, command history, account of Dirty War responsibility, Argentine political perspective, or full chronology of the invasion decision and democratic transition. The junta's expectations, negotiating motives, precise relationship between Galtieri and collective decisions, and the Menéndez exchange remain source-scoped. The war accelerated the junta's fall but was not the only force moving South American military regimes toward democracy.
+The page is based on four retrospective British podcast episodes. It does not provide a complete biography, command history, account of Dirty War responsibility, Argentine political perspective, or full chronology of the invasion decision and democratic transition. The junta's expectations, negotiating motives, precise relationship among Galtieri, Anaya, and collective decisions, and the Menéndez exchange remain source-scoped. The war accelerated the junta's fall but was not the only force moving South American military regimes toward democracy.
 
 ## What Changed
 
 - Added the opening diplomatic miscalculation and linked successive rejected withdrawals to regime-legitimacy entrapment.
+- Added the domestic crisis, Anaya relationship, U.S. assumption, and British signals that preceded the invasion gamble.
 
 ## Relationships
 
@@ -56,3 +62,5 @@ The page is based on three retrospective British podcast episodes. It does not p
 - [[MargaretThatcher]] - opposing British prime minister whose authority rose as his collapsed.
 - [[AlexanderHaig]] - U.S. mediator whose mutual-withdrawal proposal the junta rejected.
 - [[FalklandsCrisisDiplomacy]] - crisis process constrained by the regime's inability to retreat from nationalist triumph.
+- [[JorgeAnaya]] - naval colleague and leading advocate of the invasion plan.
+- [[FalklandsWarOrigins]] - framework linking his regime's weakness to deterrence failure and accelerated action.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [169. The Falklands War: Countdown to Invasion (Part 1)](sources/169-the-falklands-war-countdown-to-invasion-part-1-glt6828599585.md) — The Rest Is History on sovereignty, Islander identity, junta weakness, British deterrence signals, leaseback, South Georgia, and the rushed invasion.
 - [How to Build Strength, Muscle Size & Endurance | Dr. Andy Galpin](sources/how-to-build-strength-muscle-size-endurance-dr-andy-galpin-scim9486759856.md) — Early Huberman Lab masterclass on nine trainable adaptations, goal-specific exercise variables, strength and hypertrophy, endurance, recovery, hydration, thermal exposure, and supplements.
 - [170. The Falklands War: The Task Force Sails (Part 2)](sources/170-the-falklands-war-the-task-force-sails-part-2-glt1917394924.md) — The Rest Is History on invasion, task-force mobilization, cross-party support, UN legitimacy, allied assistance, Haig's compromise, and South Georgia.
 - [171. The Falklands War: Battle for the Islands (Part 3)](sources/171-the-falklands-war-battle-for-the-islands-part-3-glt4679725480.md) — The Rest Is History on the Belgrano controversy, wartime media pressure, failed diplomacy, San Carlos, Goose Green, Bluff Cove, and the final advance on Stanley.
@@ -3433,6 +3434,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Founder-Led Sales: He Learned to Sell and Closed 50 Customers](sources/d5efc401.md) — The SaaS Podcast episode with Shahar Azulay on Groundcover's eBPF and bring-your-own-cloud architecture, founder-led sales, infrastructure-based pricing, and incumbent replacement migration.
 
 ## Entities
+- [Jorge Anaya](entities/JorgeAnaya.md) — Argentine admiral and junta strategist who advocated the Falklands seizure and misread British and U.S. responses.
+- [HMS Endurance](entities/HMSEndurance.md) — Royal Navy patrol ship whose planned withdrawal signaled declining British commitment before the invasion.
 - [Rex Hunt](entities/RexHunt.md) — Falkland Islands governor who ended hopeless resistance without accepting the legality of Argentine occupation.
 - [Henry Leach](entities/HenryLeach.md) — First Sea Lord whose feasibility advice converted political resolve into a credible task-force option.
 - [Alexander Haig](entities/AlexanderHaig.md) — U.S. secretary of state whose Falklands shuttle diplomacy proposed mutual withdrawal and interim administration.
@@ -15296,6 +15299,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gareth Southgate](entities/GarethSouthgate.md) — England manager presented as joining inherited patriotic symbols to progressive and multiracial belonging.
 
 ## Concepts
+- [Falklands War Origins](concepts/FalklandsWarOrigins.md) — Multi-causal interaction of sovereignty, Islander identity, junta insecurity, deterrence signaling, and operational acceleration.
 - [Falklands Task Force Mobilization](concepts/FalklandsTaskForceMobilization.md) — Rapid conversion of political resolve, naval advice, ships, troops, logistics, allied access, and public legitimacy into a long-range expedition.
 - [Falklands Crisis Diplomacy](concepts/FalklandsCrisisDiplomacy.md) — Interaction of UN legitimacy, allied assistance, military pressure, mediation, compromise, and junta regime survival.
 - [eBPF Observability](concepts/EBPFObservability.md) — Kernel-level telemetry collection across heterogeneous cloud applications and infrastructure with limited per-service instrumentation.
