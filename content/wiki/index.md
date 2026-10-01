@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [153. God and the American Empire](sources/153-god-and-the-american-empire-glt8752091834.md) — The Rest Is History with Andrew Preston on American religious persistence, Judeo-Christian national identity, and moral-religious framing from World War II through Trump.
 - [Using Hypnosis to Enhance Mental & Physical Health & Performance | Dr. David Spiegel](sources/using-hypnosis-to-enhance-mental-physical-health-performance-dr-david-spiegel-scim9896599213.md) — Huberman Lab interview on clinical hypnosis, hypnotizability, mind-body control, pain, trauma, sleep, and evidence and safety boundaries.
 - [155. Ukraine and Russia](sources/155-ukraine-and-russia-glt2859413707.md) — The Rest Is History on Ukrainian identity before Bolshevism, Kievan Rus, Cossack autonomy, imperial and Soviet rule, 1991 independence, and the political use of historical claims.
 - [How to Enhance Your Gut Microbiome for Brain & Overall Health](sources/how-to-enhance-your-gut-microbiome-for-brain-overall-health-scim1762541394.md) — Huberman Lab solo episode on gut-brain neural and hormonal signaling, microbiome ecology, fermented-food evidence, and intervention limits.
@@ -3455,6 +3456,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [154. The Most Disastrous Party in History](sources/154-the-most-disastrous-party-in-history-glt6506112996.md) — The Rest Is History countdown using Partygate, failed festivals, treacherous feasts, court fire, crowd catastrophe, and Persepolis to examine how gatherings become political symbols.
 
 ## Entities
+- [Andrew Preston](entities/AndrewPreston.md) — Historian interpreting modern American religion through disestablishment, competition, pluralism, and foreign-policy moral framing.
+- [Harry S. Truman](entities/HarrySTruman.md) — U.S. president whose early Cold War profile joins religious mobilization, biblical imagination, and recognition of Israel.
 - [David Spiegel](entities/DavidSpiegel.md) — Stanford psychiatrist and hypnosis researcher framing focused attention as a voluntary, clinically bounded route to mind-body control.
 - [Reveri](entities/Reveri.md) — Self-hypnosis app derived from David Spiegel's research framework, bounded from clinician-guided treatment.
 - [Heraclius](entities/Heraclius.md) — Eastern Roman emperor whose Persian recovery and losses after Yarmouk make his reign a hinge in Byzantium's seventh-century transformation.
@@ -10439,7 +10442,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Aldrich Ames / 奥德里奇·艾姆斯](entities/AldrichAmes.md) — CIA officer whose betrayal to the KGB exposed Oleg Gordievsky and made Operation Pimlico urgent.
 - [Operation RYAN / 莱恩行动](entities/OperationRYAN.md) — KGB nuclear-war warning operation used by episode 81 to show Soviet fear becoming an intelligence feedback loop.
 - [Margaret Thatcher / 玛格丽特·撒切尔](entities/MargaretThatcher.md) — Prominent 1974 Conservative campaigner, 1975 party leader, and later prime minister who approved Operation Pimlico.
-- [Ronald Reagan / 罗纳德·里根](entities/RonaldReagan.md) — U.S. president represented through symbolic leadership, contested domestic policy, Iran-Contra, Soviet threat perception, and nuclear diplomacy.
+- [Ronald Reagan / 罗纳德·里根](entities/RonaldReagan.md) — U.S. president represented through performance, religious-moral language, contested policy, Cold War risk, rights diplomacy, and arms control.
 - [Mikhail Gorbachev / 米哈伊尔·戈尔巴乔夫](entities/MikhailGorbachev.md) — Final Soviet leader whose Leninist renewal, political opening, arms control, and loss of authority joined idealism to partial-reform risk.
 - [Yuri Andropov / 尤里·安德罗波夫](entities/YuriAndropov.md) — Soviet leader joining preservationist reform, coercive discipline, and Operation RYAN's prior-confirming nuclear fear.
 - [Finland](entities/Finland.md) — Cold War border route and diplomatic-ambiguity setting for Operation Pimlico's extraction of Gordievsky.
@@ -12913,7 +12916,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《绿色星球》](entities/TheGreenPlanet.md) — BBC plant-world documentary/book topic previewed through Beimin's Chinese translation work and plant behavior examples.
 - [Roger Zelazny / 罗杰·泽拉兹尼](entities/RogerZelazny.md) — Science-fiction and fantasy writer read through New Wave experimentation, mythic style, robot-human personhood, embodied life, and digital transcendence.
 - [《光明王》 / Lord of Light](entities/LordOfLight.md) — Zelazny work recommended as mythic far-future science fiction about religious-political conflict, rebellion, and ornate speculative style.
-- [Francis Fukuyama / 福山](entities/FrancisFukuyama.md) — Political theorist previewed as a possible future source for identity-politics discussion.
+- [Francis Fukuyama / 福山](entities/FrancisFukuyama.md) — Political theorist represented through war-aim criticism, identity and demography reading signals, and a qualified providential genealogy of liberal universalism.
 - [《身份政治》](entities/IdentityPoliticsBook.md) — Fukuyama book previewed as a possible future political-theory topic tied to concrete human understanding.
 - [《龙王之怒：1931年长江水灾》](entities/LongwangZhinu1931ChangjiangShuizai.md) — Book discussed by episode 65 as a disaster-history account of the 1931 Yangtze flood.
 - [Yangtze River / 长江](entities/YangtzeRiver.md) — Main river system in episode 65's floodplain, Wuhan, wetland, and levee-risk account.
@@ -14585,7 +14588,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Bill Clinton](entities/BillClinton.md) — Post-presidency speech-income example used to explain political identity premium.
 - [Hillary Clinton](entities/HillaryClinton.md) — High-fee speech and campaign-controversy example in EP77's political identity premium comparison.
 - [Barack Obama](entities/BarackObama.md) — U.S. political figure used both as an America-at-250 hope/backlash marker and as a cleaner post-office political-identity-premium case.
-- [George W. Bush](entities/GeorgeWBush.md) — Political-family and energy-business comparison tied to Harken stock-sale and investigation context.
+- [George W. Bush](entities/GeorgeWBush.md) — U.S. president represented through political-family business, constitutional incapacity procedure, evangelical language, and post-9/11 pluralism.
 - [Shopify](entities/Shopify.md) — E-commerce platform that grew into merchant infrastructure and is later cited as an early AI-assistant commerce integration partner.
 - [Tobias Lütke](entities/TobiasLutke.md) — Shopify co-founder and CEO whose path runs from German software apprenticeship and Snowdevil's Ruby storefront to venture-scale leadership and IPO.
 - [Scott Lake](entities/ScottLake.md) — Snowdevil and early Shopify co-founder who handled business/vendor work, named Shopify, and held the early CEO role before leaving.
@@ -15357,6 +15360,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Persepolis](entities/Persepolis.md) — Achaemenid ceremonial capital linking Alexander's destructive conquest memory to the shah's 1971 imperial spectacle.
 
 ## Concepts
+- [American Religious Persistence](concepts/AmericanReligiousPersistence.md) — Institutional account of how disestablishment and religious competition helped public faith persist alongside modernization.
+- [Judeo-Christian National Identity](concepts/JudeoChristianNationalIdentity.md) — Wartime and Cold War coalition grouping Protestants, Catholics, and Jews inside a shared American religious story.
+- [Religious Moral Framing of U.S. Foreign Policy](concepts/ReligiousMoralFramingOfUSForeignPolicy.md) — Recurrent use of mission, good and evil, religious freedom, pluralism, and crusade in American international politics.
 - [Clinical Hypnosis](concepts/ClinicalHypnosis.md) — Voluntary focused-attention intervention using bodily regulation, imagery, and suggestion for defined clinical goals.
 - [Hypnotizability](concepts/Hypnotizability.md) — Graded individual capacity for hypnotic experience, distinguished from practice skill and treatment outcome.
 - [Ukrainian National Identity](concepts/UkrainianNationalIdentity.md) — Historically changing identity formed through cultural practice, regional diversity, political organization, trauma, and democratic sovereignty rather than Soviet invention.
@@ -21713,7 +21719,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [U.S. Constitutional Reform Constraint](concepts/USConstitutionalReformConstraint.md) — sp.05 explanation of how Article V thresholds, slavery-era compromises, federalism, and presidentialism make structural reform hard.
 - [MAGA Coalition Fracture](concepts/MAGACoalitionFracture.md) — sp.05 concept for the split between grassroots nativism, Silicon Valley labor demand, Trump politics, and narrow Republican governing margins.
 - [Identity Politics As Political Sorting](concepts/IdentityPoliticsAsPoliticalSorting.md) — Account of how welfare, race, immigration, refugee deservingness, MAGA, BLM, media, and party identities sort political judgment.
-- [American Exceptionalism](concepts/AmericanExceptionalism.md) — Source frame for U.S. rule-exception habits made visible through Trump's World Cup red-card pressure.
+- [American Exceptionalism](concepts/AmericanExceptionalism.md) — Belief in distinctive American purpose expressed through religious mission and, more narrowly, demands that international rules bend for U.S. cases.
 - [South African White Migrant Labor](concepts/SouthAfricanWhiteMigrantLabor.md) — Field-reporting concept for white South Africans working as seasonal, employer-dependent farm laborers in Mississippi.
 - [Selective White Refugee Exception](concepts/SelectiveWhiteRefugeeException.md) — Immigration-politics pattern where restrictionist policy opens favored pathways for white migrants who fit a persecution narrative.
 - [White Victimhood Narrative](concepts/WhiteVictimhoodNarrative.md) — Race-and-grievance story in which loss of historical advantage is recoded as discrimination or persecution.

@@ -26998,6 +26998,10 @@ Added source `170-the-falklands-war-the-task-force-sails-part-2-glt1917394924`; 
 
 Ran lint. See lint-report.md for details.
 
+## [2026-10-02] ingest | 153. God and the American Empire
+
+Added source `153-god-and-the-american-empire-glt8752091834`; created `AndrewPreston`, `HarrySTruman`, `AmericanReligiousPersistence`, `JudeoChristianNationalIdentity`, and `ReligiousMoralFramingOfUSForeignPolicy`; and resynthesized `AmericanExceptionalism`, `RonaldReagan`, `GeorgeWBush`, and `FrancisFukuyama` from their complete preserved evidence inventories. Core synthesis: American church-state separation and a competitive religious marketplace helped public faith remain politically available, while wartime and Cold War coalition-building turned religion into a flexible national language of mission, pluralism, good and evil, rights, intervention, and restraint. No settled contradiction was adopted. The Judeo-Christian dating, presidential motives, religion's causal weight in Israel recognition, the Siberian Seven's diplomatic significance, Fukuyama's providential inheritance, and evangelical support for Trump remain qualified or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,395-source coverage; no topic claim set was dirty and global compaction was not due.
+
 ## [2026-10-02] ingest | 155. Ukraine and Russia
 
 Added source `155-ukraine-and-russia-glt2859413707`; created `UkrainianNationalIdentity` and `HistoricalNarrativeTerritorialLegitimation`; and resynthesized `Ukraine`, `VladimirPutin`, and `KievanRus` from their complete preserved evidence inventories. Core synthesis: Ukrainian identity is presented as pre-Bolshevik, internally diverse, and politically expressed through cultural revival, autonomy claims, state projects, and the 1991 referendum, while shared medieval inheritance and shifting borders do not create exclusive modern ownership. No settled contradiction was adopted. Identity labels, treaty meanings, demographic and casualty totals, the Holodomor, wartime nationalism, NATO assurances, diplomatic commitments, and leader motives remain contested or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,392-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge-schema, whitespace, health, synthesis, and publish validation passed.
@@ -27171,6 +27175,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-02] ingest | 154. The Most Disastrous Party in History
 
 Added source `154-the-most-disastrous-party-in-history-glt6506112996`; created `FyreFestival`, `BlackDinner`, `BalDesArdents`, `KhodynkaTragedy`, `Persepolis`, and `DisastrousPartyPoliticalSymbol`; and resynthesized `BorisJohnson`, `AlexanderTheGreat`, `MohammadRezaPahlavi`, `NicholasII`, and `CharlesVIOfFrance` from their complete preserved evidence inventories. Core synthesis: gatherings become durable political symbols when they expose a prior legitimacy problem, but vivid afterlives can exceed the security of the underlying evidence. No settled contradiction was adopted. Elagabalus's rose-petal story, the Black Dinner ritual sequence, Alexander's motive at Persepolis, Khodynka casualty and nickname details, and the causal role of the shah's 1971 celebration remain qualified or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,394-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-10-02] lint | Wiki health check
 

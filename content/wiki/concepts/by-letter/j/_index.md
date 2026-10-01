@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "j"
-wiki_total_pages: 9196
+wiki_total_pages: 9199
 wiki_pages:
   - key: "JankyMVP"
     title: "Janky MVP"
@@ -215,6 +215,9 @@ wiki_pages:
   - key: "JudeanRevoltMemoryAfterlife"
     title: "Judean Revolt Memory Afterlife"
     url: "/wiki/concepts/judeanrevoltmemoryafterlife/"
+  - key: "JudeoChristianNationalIdentity"
+    title: "Judeo-Christian National Identity"
+    url: "/wiki/concepts/judeochristiannationalidentity/"
   - key: "JudgmentOfParisWine"
     title: "Judgment of Paris Wine"
     url: "/wiki/concepts/judgmentofpariswine/"

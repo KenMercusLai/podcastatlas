@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2344
+topic_total_pages: 2346
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -697,6 +697,9 @@ topic_concepts:
   - key: "JiangXiangHeInternalUnity"
     title: "Jiang-Xiang Harmony / 将相和式内部团结"
     url: "/wiki/concepts/jiangxiangheinternalunity/"
+  - key: "JudeoChristianNationalIdentity"
+    title: "Judeo-Christian National Identity"
+    url: "/wiki/concepts/judeochristiannationalidentity/"
   - key: "JudicialDuel"
     title: "Judicial Duel / 司法决斗"
     url: "/wiki/concepts/judicialduel/"
@@ -4800,6 +4803,9 @@ topic_sources:
   - key: "14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285"
     title: "14.武士威廉：大航海时代的日本和西方"
     url: "/wiki/sources/14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285/"
+  - key: "153-god-and-the-american-empire-glt8752091834"
+    title: "153. God and the American Empire"
+    url: "/wiki/sources/153-god-and-the-american-empire-glt8752091834/"
   - key: "154-the-most-disastrous-party-in-history-glt6506112996"
     title: "154. The Most Disastrous Party in History"
     url: "/wiki/sources/154-the-most-disastrous-party-in-history-glt6506112996/"

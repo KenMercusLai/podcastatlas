@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2966
+topic_total_pages: 2967
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5750,6 +5750,9 @@ topic_entities:
   - key: "HaroldWilson"
     title: "Harold Wilson"
     url: "/wiki/entities/haroldwilson/"
+  - key: "HarrySTruman"
+    title: "Harry S. Truman"
+    url: "/wiki/entities/harrystruman/"
   - key: "HasekuraTsunenaga"
     title: "Hasekura Tsunenaga / 支仓常长"
     url: "/wiki/entities/hasekuratsunenaga/"

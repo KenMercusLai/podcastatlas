@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9196
+wiki_total_pages: 9199
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1865,6 +1865,9 @@ wiki_pages:
   - key: "AmericanProtectionistTradition"
     title: "American Protectionist Tradition"
     url: "/wiki/concepts/americanprotectionisttradition/"
+  - key: "AmericanReligiousPersistence"
+    title: "American Religious Persistence"
+    url: "/wiki/concepts/americanreligiouspersistence/"
   - key: "AmericanRevolutionGlobalWar"
     title: "American Revolution as Global War"
     url: "/wiki/concepts/americanrevolutionglobalwar/"
