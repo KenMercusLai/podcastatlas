@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2299
+topic_total_pages: 2303
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -163,6 +163,9 @@ topic_concepts:
   - key: "ChenweiPolitics"
     title: "Chenwei Politics / 谶纬政治"
     url: "/wiki/concepts/chenweipolitics/"
+  - key: "ChildbirthHistory"
+    title: "Childbirth History"
+    url: "/wiki/concepts/childbirthhistory/"
   - key: "ChineseAstrologicalPolitics"
     title: "Chinese Astrological Politics / 中国星占政治"
     url: "/wiki/concepts/chineseastrologicalpolitics/"
@@ -358,6 +361,9 @@ topic_concepts:
   - key: "EarlyWarringStatesInterstateWar"
     title: "Early Warring States Interstate War / 战国早期诸侯混战"
     url: "/wiki/concepts/earlywarringstatesinterstatewar/"
+  - key: "EarlyModernMidwifery"
+    title: "Early-Modern Midwifery"
+    url: "/wiki/concepts/earlymodernmidwifery/"
   - key: "EastWestEmperorDiplomaticProbe"
     title: "East-West Emperor Diplomatic Probe / 东西二帝试探"
     url: "/wiki/concepts/eastwestemperordiplomaticprobe/"
@@ -781,6 +787,9 @@ topic_concepts:
   - key: "MedicalVisualHistory"
     title: "Medical Visual History"
     url: "/wiki/concepts/medicalvisualhistory/"
+  - key: "MedicalizationOfChildbirth"
+    title: "Medicalisation of Childbirth"
+    url: "/wiki/concepts/medicalizationofchildbirth/"
   - key: "MencianGreatManCriterion"
     title: "Mencian Great-Man Criterion / 孟子大丈夫标准"
     url: "/wiki/concepts/menciangreatmancriterion/"
@@ -4785,6 +4794,9 @@ topic_sources:
   - key: "171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962"
     title: "171.闲聊十二生肖之马：观音大士的兴趣爱好,及老头环角色的灵感"
     url: "/wiki/sources/171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962/"
+  - key: "191-childbirth-glt5119375504"
+    title: "191. Childbirth"
+    url: "/wiki/sources/191-childbirth-glt5119375504/"
   - key: "192-robin-hood-glt1296880830"
     title: "192. Robin Hood"
     url: "/wiki/sources/192-robin-hood-glt1296880830/"

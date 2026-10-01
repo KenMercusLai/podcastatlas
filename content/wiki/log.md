@@ -26694,3 +26694,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | 191. Childbirth
+
+Added source `191-childbirth-glt5119375504`; created `SaraRead`, `JaneSharp`, `NicholasCulpeper`, `ChildbirthHistory`, `EarlyModernMidwifery`, and `MedicalizationOfChildbirth`. Core synthesis: childbirth combines broadly continuous physiology with changing household, religious, parish, professional, and hospital arrangements; early-modern midwifery joined experiential skill to community and formal duties, while medicalisation redistributed authority and produced both new interventions and new hazards before supporting safety systems matured. No settled contradiction was adopted. Mortality figures, causal trend claims, practitioner representativeness, and generalization beyond the episode's mainly early-modern English and British scope remain source-scoped or qualified. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,337-source coverage; no topic claim set was dirty and global compaction was not due. Identity, knowledge-schema, whitespace, health, changed-page link, index coverage, synthesis, and publish validation passed.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

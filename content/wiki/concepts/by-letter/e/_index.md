@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 9104
+wiki_total_pages: 9107
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -56,6 +56,9 @@ wiki_pages:
   - key: "EarlyModernKnowledgeContinuum"
     title: "Early-Modern Knowledge Continuum"
     url: "/wiki/concepts/earlymodernknowledgecontinuum/"
+  - key: "EarlyModernMidwifery"
+    title: "Early-Modern Midwifery"
+    url: "/wiki/concepts/earlymodernmidwifery/"
   - key: "EarnedOptimism"
     title: "Earned Optimism / 走出来的乐天"
     url: "/wiki/concepts/earnedoptimism/"

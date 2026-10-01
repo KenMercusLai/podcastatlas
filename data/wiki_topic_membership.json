@@ -1308,6 +1308,13 @@
       "url": "/topics/science/"
     }
   ],
+  "191-childbirth-glt5119375504": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "192-robin-hood-glt1296880830": [
     {
       "key": "history",
@@ -18989,6 +18996,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "ChildbirthHistory": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "ChildeHaroldsPilgrimage": [
     {
       "key": "culture",
@@ -27507,6 +27526,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "EarlyModernMidwifery": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "EarlyTransplantationImaginary": [
@@ -51963,6 +51989,18 @@
       "url": "/topics/science/"
     }
   ],
+  "MedicalizationOfChildbirth": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "MedicationSelfCombinationRisk": [
     {
       "key": "science",
@@ -55966,6 +56004,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "NicholasCulpeper": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "NicholasMiller": [
@@ -68381,6 +68426,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "SaraRead": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "SarahBRogers": [

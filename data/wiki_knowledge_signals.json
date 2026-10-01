@@ -32196,6 +32196,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/childbearingirreversibility/"
     },
+    "ChildbirthHistory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5119375504 [GLT5119375504].md",
+          "key": "191-childbirth-glt5119375504",
+          "show": "The Rest Is History",
+          "title": "191. Childbirth",
+          "url": "/wiki/sources/191-childbirth-glt5119375504/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/childbirthhistory/"
+    },
     "ChildeHaroldsPilgrimage": {
       "episode_count": 2,
       "show_count": 1,
@@ -53062,6 +53078,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/concepts/earlymodernknowledgecontinuum/"
+    },
+    "EarlyModernMidwifery": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5119375504 [GLT5119375504].md",
+          "key": "191-childbirth-glt5119375504",
+          "show": "The Rest Is History",
+          "title": "191. Childbirth",
+          "url": "/wiki/sources/191-childbirth-glt5119375504/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/earlymodernmidwifery/"
     },
     "EarlyPortugueseAtlanticPlantationSlavery": {
       "episode_count": 1,
@@ -98372,6 +98404,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/janefonda/"
     },
+    "JaneSharp": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5119375504 [GLT5119375504].md",
+          "key": "191-childbirth-glt5119375504",
+          "show": "The Rest Is History",
+          "title": "191. Childbirth",
+          "url": "/wiki/sources/191-childbirth-glt5119375504/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/janesharp/"
+    },
     "JanelleShane": {
       "episode_count": 3,
       "show_count": 1,
@@ -123999,6 +124047,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/concepts/medicaltraineepsychosocialsafety/"
     },
+    "MedicalizationOfChildbirth": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5119375504 [GLT5119375504].md",
+          "key": "191-childbirth-glt5119375504",
+          "show": "The Rest Is History",
+          "title": "191. Childbirth",
+          "url": "/wiki/sources/191-childbirth-glt5119375504/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/medicalizationofchildbirth/"
+    },
     "MedicationSelfCombinationRisk": {
       "episode_count": 2,
       "show_count": 1,
@@ -133150,6 +133214,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/nicheoriginstoryexpansion/"
+    },
+    "NicholasCulpeper": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5119375504 [GLT5119375504].md",
+          "key": "191-childbirth-glt5119375504",
+          "show": "The Rest Is History",
+          "title": "191. Childbirth",
+          "url": "/wiki/sources/191-childbirth-glt5119375504/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/nicholasculpeper/"
     },
     "NicholasII": {
       "episode_count": 2,
@@ -162726,6 +162806,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/entities/saragottfried/"
+    },
+    "SaraRead": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5119375504 [GLT5119375504].md",
+          "key": "191-childbirth-glt5119375504",
+          "show": "The Rest Is History",
+          "title": "191. Childbirth",
+          "url": "/wiki/sources/191-childbirth-glt5119375504/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/sararead/"
     },
     "SarahChurchwell": {
       "episode_count": 2,

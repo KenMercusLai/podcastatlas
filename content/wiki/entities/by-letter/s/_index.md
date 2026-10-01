@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 11753
+wiki_total_pages: 11756
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -209,6 +209,9 @@ wiki_pages:
   - key: "SaraGottfried"
     title: "Sara Gottfried"
     url: "/wiki/entities/saragottfried/"
+  - key: "SaraRead"
+    title: "Sara Read"
+    url: "/wiki/entities/sararead/"
   - key: "SarahBRogers"
     title: "Sarah B. Rogers"
     url: "/wiki/entities/sarahbrogers/"

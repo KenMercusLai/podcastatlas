@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1370
+topic_total_pages: 1373
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -355,6 +355,9 @@ topic_concepts:
   - key: "ChildExperimentEthics"
     title: "Child Experiment Ethics"
     url: "/wiki/concepts/childexperimentethics/"
+  - key: "ChildbirthHistory"
+    title: "Childbirth History"
+    url: "/wiki/concepts/childbirthhistory/"
   - key: "ChildhoodScienceReading"
     title: "Childhood Science Reading"
     url: "/wiki/concepts/childhoodsciencereading/"
@@ -1279,6 +1282,9 @@ topic_concepts:
   - key: "MedicalVisualHistory"
     title: "Medical Visual History"
     url: "/wiki/concepts/medicalvisualhistory/"
+  - key: "MedicalizationOfChildbirth"
+    title: "Medicalisation of Childbirth"
+    url: "/wiki/concepts/medicalizationofchildbirth/"
   - key: "MedicationSelfCombinationRisk"
     title: "Medication Self-Combination Risk / 药物自行叠加风险"
     url: "/wiki/concepts/medicationselfcombinationrisk/"
@@ -2885,6 +2891,9 @@ topic_entities:
   - key: "NationalScienceFoundation"
     title: "National Science Foundation"
     url: "/wiki/entities/nationalsciencefoundation/"
+  - key: "NicholasCulpeper"
+    title: "Nicholas Culpeper"
+    url: "/wiki/entities/nicholasculpeper/"
   - key: "NickEpley"
     title: "Nick Epley"
     url: "/wiki/entities/nickepley/"

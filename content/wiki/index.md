@@ -3392,8 +3392,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [201. American Civil War: Outbreak (Part 2)](sources/201-american-civil-war-outbreak-part-2-glt4100428000.md) — The Rest Is History episode on democratic Unionism, Confederate confidence, slavery, industrial-war transition, Antietam, and preliminary emancipation.
 - [200: American Civil War: The Causes (Part 1)](sources/200-american-civil-war-the-causes-part-1-glt1124511401.md) — The Rest Is History episode on slavery's constitutional, economic, territorial, federal, partisan, judicial, and secession mechanisms before Fort Sumter.
 - [199. Stonehenge](sources/199-stonehenge-glt3612348466.md) — The Rest Is History conversation with Mike Pitts on Stonehenge's changing phases, stone transport, burials, solstice alignment, collective construction, and archaeological uncertainty.
+- [191. Childbirth](sources/191-childbirth-glt5119375504.md) — The Rest Is History conversation with Sara Read on female birth communities, early-modern midwifery, religious and parish duties, medicalisation, popular myths, and continuity across changing childbirth cultures.
 
 ## Entities
+- [Sara Read](entities/SaraRead.md) — Literary historian connecting early-modern reproductive experience, medical texts, female practical knowledge, and changing birth institutions.
+- [Jane Sharp](entities/JaneSharp.md) — Seventeenth-century English midwife-writer who joined theoretical learning, practical experience, and religious duty.
+- [Nicholas Culpeper](entities/NicholasCulpeper.md) — English medical author used to expose the gap between male printed authority and women's practical childbirth knowledge.
 - [Robin Hood (Legend)](entities/RobinHoodLegend.md) — English outlaw hero whose medieval violence, devotion, trickery, and uncertain origin were later remade into a noble philanthropic icon.
 - [Robert Walpole](entities/RobertWalpole.md) — Long-serving early British premier whose wartime reverses and one-vote Commons defeat exposed terminal political weakness.
 - [Theresa May](entities/TheresaMay.md) — British prime minister whose confidence-vote survival did not reverse the long erosion of authority after the 2017 election.
@@ -15185,6 +15189,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Helene Langevin](entities/HeleneLangevin.md) — Researcher cited for fascia, stretching, inflammation, fibrosis, and animal-tumor work whose clinical implications remain explicitly bounded.
 
 ## Concepts
+- [Childbirth History](concepts/ChildbirthHistory.md) — Continuity-with-change framework joining birth physiology to changing caregivers, settings, rituals, institutions, risks, and meanings.
+- [Early-Modern Midwifery](concepts/EarlyModernMidwifery.md) — Female-centered care system combining apprenticeship, household community, parish licensing, religion, and practical knowledge.
+- [Medicalisation of Childbirth](concepts/MedicalizationOfChildbirth.md) — Shift toward physician, instrument, hospital, and clinical authority whose interventions and safety systems developed unevenly.
 - [Robin Hood Legend Accretion](concepts/RobinHoodLegendAccretion.md) — Process by which medieval ballad, ritual, Romantic, children's, screen, and political layers formed the familiar modern outlaw hero.
 - [Prime Ministerial Regicide](concepts/PrimeMinisterialRegicide.md) — Framework for party rebellion, parliamentary loss, cabinet withdrawal, and crisis-driven erosion that can make formal survival politically hollow.
 - [Fascist Political Theatre](concepts/FascistPoliticalTheatre.md) — Leader-centered ritual using crowd dialogue, uniforms, gesture, song, procession, and sacrifice to turn spectacle into emotional authority.

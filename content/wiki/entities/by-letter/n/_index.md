@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 11753
+wiki_total_pages: 11756
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -443,6 +443,9 @@ wiki_pages:
   - key: "NiccoloMachiavelli"
     title: "Niccolo Machiavelli / 马基雅维利"
     url: "/wiki/entities/niccolomachiavelli/"
+  - key: "NicholasCulpeper"
+    title: "Nicholas Culpeper"
+    url: "/wiki/entities/nicholasculpeper/"
   - key: "NicholasEberstadt"
     title: "Nicholas Eberstadt"
     url: "/wiki/entities/nicholaseberstadt/"

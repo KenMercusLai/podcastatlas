@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9104
+wiki_total_pages: 9107
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -503,6 +503,9 @@ wiki_pages:
   - key: "MedicalAestheticProviderVerification"
     title: "Medical-Aesthetic Provider Verification / 医美机构与医生验真"
     url: "/wiki/concepts/medicalaestheticproviderverification/"
+  - key: "MedicalizationOfChildbirth"
+    title: "Medicalisation of Childbirth"
+    url: "/wiki/concepts/medicalizationofchildbirth/"
   - key: "MedicationInteractionRisk"
     title: "Medication Interaction Risk"
     url: "/wiki/concepts/medicationinteractionrisk/"

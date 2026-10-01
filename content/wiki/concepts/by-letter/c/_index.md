@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9104
+wiki_total_pages: 9107
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -620,6 +620,9 @@ wiki_pages:
   - key: "ChildbearingIrreversibility"
     title: "Childbearing Irreversibility / 生育不可逆性"
     url: "/wiki/concepts/childbearingirreversibility/"
+  - key: "ChildbirthHistory"
+    title: "Childbirth History"
+    url: "/wiki/concepts/childbirthhistory/"
   - key: "ChildcareInfrastructureConstraint"
     title: "Childcare Infrastructure Constraint"
     url: "/wiki/concepts/childcareinfrastructureconstraint/"
