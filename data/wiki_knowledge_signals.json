@@ -25153,9 +25153,9 @@
       "url": "/wiki/concepts/byzantinecourtculturetransfer/"
     },
     "ByzantineEmpire": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 2,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "lu8PaWNKiSeLmmrgubrEy4pq-4fw [lu8PaWNKiSeLmmrgubrEy4pq-4fw].md",
@@ -25198,6 +25198,13 @@
           "show": "The Rest Is History",
           "title": "218. Theodora: Empress of Byzantium (Part 1)",
           "url": "/wiki/sources/218-theodora-empress-of-byzantium-part-1-glt5957583440/"
+        },
+        {
+          "episode_file": "GLT1014708592 [GLT1014708592].md",
+          "key": "157-byzantium-and-the-ghosts-of-rome-glt1014708592",
+          "show": "The Rest Is History",
+          "title": "157. Byzantium and the Ghosts of Rome",
+          "url": "/wiki/sources/157-byzantium-and-the-ghosts-of-rome-glt1014708592/"
         }
       ],
       "updated": "2026-10-01",
@@ -30345,6 +30352,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/concepts/charismaticpoliticalmartyrdom/"
+    },
+    "Charlemagne": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1014708592 [GLT1014708592].md",
+          "key": "157-byzantium-and-the-ghosts-of-rome-glt1014708592",
+          "show": "The Rest Is History",
+          "title": "157. Byzantium and the Ghosts of Rome",
+          "url": "/wiki/sources/157-byzantium-and-the-ghosts-of-rome-glt1014708592/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/charlemagne/"
     },
     "CharlesAlexandreDeCalonne": {
       "episode_count": 1,
@@ -39668,9 +39691,9 @@
       "url": "/wiki/entities/constantinethegreat/"
     },
     "Constantinople": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5957583440 [GLT5957583440].md",
@@ -39678,6 +39701,13 @@
           "show": "The Rest Is History",
           "title": "218. Theodora: Empress of Byzantium (Part 1)",
           "url": "/wiki/sources/218-theodora-empress-of-byzantium-part-1-glt5957583440/"
+        },
+        {
+          "episode_file": "GLT1014708592 [GLT1014708592].md",
+          "key": "157-byzantium-and-the-ghosts-of-rome-glt1014708592",
+          "show": "The Rest Is History",
+          "title": "157. Byzantium and the Ghosts of Rome",
+          "url": "/wiki/sources/157-byzantium-and-the-ghosts-of-rome-glt1014708592/"
         }
       ],
       "updated": "2026-10-01",
@@ -86344,6 +86374,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/entities/herfilm/"
     },
+    "Heraclius": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1014708592 [GLT1014708592].md",
+          "key": "157-byzantium-and-the-ghosts-of-rome-glt1014708592",
+          "show": "The Rest Is History",
+          "title": "157. Byzantium and the Ghosts of Rome",
+          "url": "/wiki/sources/157-byzantium-and-the-ghosts-of-rome-glt1014708592/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/heraclius/"
+    },
     "HerbMorgan": {
       "episode_count": 1,
       "show_count": 1,
@@ -88203,9 +88249,9 @@
       "url": "/wiki/entities/holygrail/"
     },
     "HolyRomanEmpire": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9923460597 [GLT9923460597].md",
@@ -88213,9 +88259,16 @@
           "show": "The Rest Is History",
           "title": "445. The Habsburgs: Secrets of a Dynasty",
           "url": "/wiki/sources/445-the-habsburgs-secrets-of-a-dynasty-glt9923460597/"
+        },
+        {
+          "episode_file": "GLT1014708592 [GLT1014708592].md",
+          "key": "157-byzantium-and-the-ghosts-of-rome-glt1014708592",
+          "show": "The Rest Is History",
+          "title": "157. Byzantium and the Ghosts of Rome",
+          "url": "/wiki/sources/157-byzantium-and-the-ghosts-of-rome-glt1014708592/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/holyromanempire/"
     },
     "HomeBloodPressureMeasurement": {
@@ -127006,6 +127059,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/meghirschberg/"
     },
+    "MehmedII": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1014708592 [GLT1014708592].md",
+          "key": "157-byzantium-and-the-ghosts-of-rome-glt1014708592",
+          "show": "The Rest Is History",
+          "title": "157. Byzantium and the Ghosts of Rome",
+          "url": "/wiki/sources/157-byzantium-and-the-ghosts-of-rome-glt1014708592/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/mehmedii/"
+    },
     "MeiFuWesternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -130079,9 +130148,9 @@
       "url": "/wiki/concepts/militaryrewardeunuchgatekeeping/"
     },
     "MillennialRomanImperialEschatology": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9103397168 [GLT9103397168].md",
@@ -130089,9 +130158,16 @@
           "show": "The Rest Is History",
           "title": "460. The Empress of the Apocalypse",
           "url": "/wiki/sources/460-the-empress-of-the-apocalypse-glt9103397168/"
+        },
+        {
+          "episode_file": "GLT1014708592 [GLT1014708592].md",
+          "key": "157-byzantium-and-the-ghosts-of-rome-glt1014708592",
+          "show": "The Rest Is History",
+          "title": "157. Byzantium and the Ghosts of Rome",
+          "url": "/wiki/sources/157-byzantium-and-the-ghosts-of-rome-glt1014708592/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/millennialromanimperialeschatology/"
     },
     "MilojeVasic": {
@@ -163930,9 +164006,9 @@
       "url": "/wiki/concepts/romanhellenisticimperialsynthesis/"
     },
     "RomanImperialLegitimacy": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9103397168 [GLT9103397168].md",
@@ -163940,9 +164016,16 @@
           "show": "The Rest Is History",
           "title": "460. The Empress of the Apocalypse",
           "url": "/wiki/sources/460-the-empress-of-the-apocalypse-glt9103397168/"
+        },
+        {
+          "episode_file": "GLT1014708592 [GLT1014708592].md",
+          "key": "157-byzantium-and-the-ghosts-of-rome-glt1014708592",
+          "show": "The Rest Is History",
+          "title": "157. Byzantium and the Ghosts of Rome",
+          "url": "/wiki/sources/157-byzantium-and-the-ghosts-of-rome-glt1014708592/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/romanimperiallegitimacy/"
     },
     "RomanInformalImperialControl": {
@@ -187040,6 +187123,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/concepts/thirdpartyelectoralcollegeleverage/"
+    },
+    "ThirdRomeClaim": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1014708592 [GLT1014708592].md",
+          "key": "157-byzantium-and-the-ghosts-of-rome-glt1014708592",
+          "show": "The Rest Is History",
+          "title": "157. Byzantium and the Ghosts of Rome",
+          "url": "/wiki/sources/157-byzantium-and-the-ghosts-of-rome-glt1014708592/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/thirdromeclaim/"
     },
     "ThomaBravo": {
       "episode_count": 1,

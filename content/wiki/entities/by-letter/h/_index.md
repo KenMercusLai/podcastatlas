@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 11850
+wiki_total_pages: 11853
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -548,6 +548,9 @@ wiki_pages:
   - key: "Heraclitus"
     title: "Heraclitus / 赫拉克利特"
     url: "/wiki/entities/heraclitus/"
+  - key: "Heraclius"
+    title: "Heraclius"
+    url: "/wiki/entities/heraclius/"
   - key: "HerbMorgan"
     title: "Herb Morgan"
     url: "/wiki/entities/herbmorgan/"

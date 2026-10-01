@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [157. Byzantium and the Ghosts of Rome](sources/157-byzantium-and-the-ghosts-of-rome-glt1014708592.md) — The Rest Is History on seventh-century Byzantine transformation, Roman self-identity, layered imperial endings, western and Moscow succession, and apocalyptic afterlives.
 - [158. Killer Fashion](sources/158-killer-fashion-glt5960489800.md) — The Rest Is History with Alison Matthews David on flammable and restrictive dress, toxic fashion materials, worker exposure, uneven regulation, and the limits of blaming wearers.
 - [159. Young Putin, the KGB and the Soviet Union](sources/159-young-putin-the-kgb-and-the-soviet-union-glt7336670203.md) — The Rest Is History on Putin's Soviet and KGB formation, Russian exceptionalism, late-Soviet stagnation, Gorbachev's reforms, and the destabilizing risks of partial opening.
 - [160. The Fall of the Soviet Union](sources/160-the-fall-of-the-soviet-union-glt9472343994.md) — The Rest Is History on partial reform, scarcity, Russian dual sovereignty, the August coup, elite-led dissolution, and Gorbachev's fall.
@@ -3449,6 +3450,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Build, Maintain & Repair Gut Health | Dr. Justin Sonnenburg](sources/how-to-build-maintain-repair-gut-health-dr-justin-sonnenburg-scim9214130216.md) — Huberman Lab interview on microbiome ecology, dietary fiber, fermented foods, systemic signaling, and intervention limits.
 
 ## Entities
+- [Heraclius](entities/Heraclius.md) — Eastern Roman emperor whose Persian recovery and losses after Yarmouk make his reign a hinge in Byzantium's seventh-century transformation.
+- [Charlemagne](entities/Charlemagne.md) — Frankish ruler whose papal coronation anchored a competing western Roman imperial claim.
+- [Mehmed II](entities/MehmedII.md) — Ottoman conqueror of Constantinople whose 1453 victory supplies Byzantium's dominant symbolic endpoint and a qualified succession claim.
 - [Leonid Kravchuk](entities/LeonidKravchuk.md) — Ukrainian leader linking the failed August coup, sovereignty referendum, and Belavezha dissolution of the Soviet Union.
 - [Anatoly Sobchak](entities/AnatolySobchak.md) — St. Petersburg mayor and constitutional contributor who served as Vladimir Putin's professor, patron, and political superior.
 - [Boris Yeltsin](entities/BorisYeltsin.md) — Post-Soviet Russian president linking rapid market transition, executive concentration, oligarchic power, Chechen war, and Putin's succession.
@@ -15339,6 +15343,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Justin Sonnenburg](entities/JustinSonnenburg.md) — Stanford microbiologist framing the gut microbiome through ecology, diet, resilience, and evidence-bounded intervention research.
 
 ## Concepts
+- [Third Rome Claim](concepts/ThirdRomeClaim.md) — Orthodox and dynastic doctrine translating Roman imperial authority from Rome through Constantinople to Moscow.
 - [Russian Exceptionalism](concepts/RussianExceptionalism.md) — Flexible religious, imperial, Soviet, and geopolitical frame of distinctive Russian destiny, bounded against deterministic national-character claims.
 - [Partial Reform Destabilization](concepts/PartialReformDestabilization.md) — Risk that reform weakens old coordination and legitimacy before capable replacement institutions stabilize.
 - [Dual Sovereignty State Dissolution](concepts/DualSovereigntyStateDissolution.md) — How a constituent government's rival legitimacy and administrative authority can hollow out and dissolve a larger state.

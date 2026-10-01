@@ -27127,3 +27127,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | 157. Byzantium and the Ghosts of Rome
+
+Added source `157-byzantium-and-the-ghosts-of-rome-glt1014708592`; created `Heraclius`, `Charlemagne`, `MehmedII`, and `ThirdRomeClaim`; and resynthesized `ByzantineEmpire`, `Constantinople`, `HolyRomanEmpire`, `RomanImperialLegitimacy`, and `MillennialRomanImperialEschatology` from their complete preserved evidence inventories. Core synthesis: Rome's ending depends on the test being used—seventh-century structural transformation, the 1204 interruption, Constantinople's symbolic fall in 1453, or Trebizond's strict territorial end in 1461—while later inheritances worked through self-identification, papal recognition, conquest, Orthodoxy, dynasty, sacred geography, or adversarial apocalypse. No settled contradiction was adopted. The Byzantine “nation state” analogy, Ottoman succession, modern Russian Third Rome influence, Stalin's icon story, Islamic apocalyptic applications, and the Welsh succession joke remain qualified or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,389-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge-schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 11850
+wiki_total_pages: 11853
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -866,6 +866,9 @@ wiki_pages:
   - key: "Megvii"
     title: "Megvii"
     url: "/wiki/entities/megvii/"
+  - key: "MehmedII"
+    title: "Mehmed II"
+    url: "/wiki/entities/mehmedii/"
   - key: "MehmetSimsek"
     title: "Mehmet Simsek"
     url: "/wiki/entities/mehmetsimsek/"
