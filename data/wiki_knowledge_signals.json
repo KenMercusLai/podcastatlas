@@ -18760,6 +18760,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/entities/battleofsluys/"
     },
+    "BattleOfStalingrad": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4269997308 [GLT4269997308].md",
+          "key": "215-stalingrad-and-the-red-army-part-2-glt4269997308",
+          "show": "The Rest Is History",
+          "title": "215. Stalingrad and the Red Army (Part 2)",
+          "url": "/wiki/sources/215-stalingrad-and-the-red-army-part-2-glt4269997308/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/battleofstalingrad/"
+    },
     "BattleOfStamfordBridge": {
       "episode_count": 2,
       "show_count": 1,
@@ -69215,6 +69231,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/friedrichmerz/"
     },
+    "FriedrichPaulus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4269997308 [GLT4269997308].md",
+          "key": "215-stalingrad-and-the-red-army-part-2-glt4269997308",
+          "show": "The Rest Is History",
+          "title": "215. Stalingrad and the Red Army (Part 2)",
+          "url": "/wiki/sources/215-stalingrad-and-the-red-army-part-2-glt4269997308/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/friedrichpaulus/"
+    },
     "FriedrichWilhelmVonSteuben": {
       "episode_count": 1,
       "show_count": 1,
@@ -90252,6 +90284,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/ianhamiltongallipoli/"
+    },
+    "IanMacGregor": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4269997308 [GLT4269997308].md",
+          "key": "215-stalingrad-and-the-red-army-part-2-glt4269997308",
+          "show": "The Rest Is History",
+          "title": "215. Stalingrad and the Red Army (Part 2)",
+          "url": "/wiki/sources/215-stalingrad-and-the-red-army-part-2-glt4269997308/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/ianmacgregor/"
     },
     "IberianPeninsula": {
       "episode_count": 1,
@@ -135537,6 +135585,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/operationfrequentwind/"
     },
+    "OperationUranus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4269997308 [GLT4269997308].md",
+          "key": "215-stalingrad-and-the-red-army-part-2-glt4269997308",
+          "show": "The Rest Is History",
+          "title": "215. Stalingrad and the Red Army (Part 2)",
+          "url": "/wiki/sources/215-stalingrad-and-the-red-army-part-2-glt4269997308/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/operationuranus/"
+    },
     "OperationalDetachment": {
       "episode_count": 2,
       "show_count": 1,
@@ -139194,6 +139258,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/entities/paulineleon/"
+    },
+    "PavlovsHouse": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4269997308 [GLT4269997308].md",
+          "key": "215-stalingrad-and-the-red-army-part-2-glt4269997308",
+          "show": "The Rest Is History",
+          "title": "215. Stalingrad and the Red Army (Part 2)",
+          "url": "/wiki/sources/215-stalingrad-and-the-red-army-part-2-glt4269997308/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/pavlovshouse/"
     },
     "PayPal": {
       "episode_count": 3,
@@ -169390,6 +169470,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/sovereigninfrastructureinterdependence/"
     },
+    "SovietUrbanActiveDefense": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4269997308 [GLT4269997308].md",
+          "key": "215-stalingrad-and-the-red-army-part-2-glt4269997308",
+          "show": "The Rest Is History",
+          "title": "215. Stalingrad and the Red Army (Part 2)",
+          "url": "/wiki/sources/215-stalingrad-and-the-red-army-part-2-glt4269997308/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/sovieturbanactivedefense/"
+    },
     "Soweto": {
       "episode_count": 1,
       "show_count": 1,
@@ -170755,6 +170851,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/stagedvolcaniccatastrophe/"
+    },
+    "StalingradWarMemory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4269997308 [GLT4269997308].md",
+          "key": "215-stalingrad-and-the-red-army-part-2-glt4269997308",
+          "show": "The Rest Is History",
+          "title": "215. Stalingrad and the Red Army (Part 2)",
+          "url": "/wiki/sources/215-stalingrad-and-the-red-army-part-2-glt4269997308/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/stalingradwarmemory/"
     },
     "StandingGeneticVariation": {
       "episode_count": 1,

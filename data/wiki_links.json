@@ -851,6 +851,10 @@
     "title": "21.红与黑：他死于真诚",
     "url": "/wiki/sources/21-hong-yu-hei-ta-si-yu-zhencheng-569042001/"
   },
+  "215-stalingrad-and-the-red-army-part-2-glt4269997308": {
+    "title": "215. Stalingrad and the Red Army (Part 2)",
+    "url": "/wiki/sources/215-stalingrad-and-the-red-army-part-2-glt4269997308/"
+  },
   "216-pigeons-glt2770080110": {
     "title": "216. Pigeons",
     "url": "/wiki/sources/216-pigeons-glt2770080110/"
@@ -10106,6 +10110,10 @@
   "BattleOfSluys": {
     "title": "Battle of Sluys",
     "url": "/wiki/entities/battleofsluys/"
+  },
+  "BattleOfStalingrad": {
+    "title": "Battle of Stalingrad",
+    "url": "/wiki/entities/battleofstalingrad/"
   },
   "BattleOfStamfordBridge": {
     "title": "Battle of Stamford Bridge",
@@ -29399,6 +29407,10 @@
     "title": "Friedrich Nietzsche / 尼采",
     "url": "/wiki/entities/friedrichnietzsche/"
   },
+  "FriedrichPaulus": {
+    "title": "Friedrich Paulus",
+    "url": "/wiki/entities/friedrichpaulus/"
+  },
   "FriedrichWilhelmVonSteuben": {
     "title": "Friedrich Wilhelm von Steuben",
     "url": "/wiki/entities/friedrichwilhelmvonsteuben/"
@@ -36774,6 +36786,10 @@
   "IanHamiltonGallipoli": {
     "title": "Ian Hamilton",
     "url": "/wiki/entities/ianhamiltongallipoli/"
+  },
+  "IanMacGregor": {
+    "title": "Ian MacGregor",
+    "url": "/wiki/entities/ianmacgregor/"
   },
   "IanPaisley": {
     "title": "Ian Paisley",
@@ -55003,6 +55019,10 @@
     "title": "Operation Sunbeam / 阳光计划",
     "url": "/wiki/entities/operationsunbeam/"
   },
+  "OperationUranus": {
+    "title": "Operation Uranus",
+    "url": "/wiki/entities/operationuranus/"
+  },
   "OperationalCarbon": {
     "title": "Operational Carbon",
     "url": "/wiki/concepts/operationalcarbon/"
@@ -56550,6 +56570,10 @@
   "PauloSilva": {
     "title": "Paulo Silva",
     "url": "/wiki/entities/paulosilva/"
+  },
+  "PavlovsHouse": {
+    "title": "Pavlov's House",
+    "url": "/wiki/entities/pavlovshouse/"
   },
   "PayPal": {
     "title": "PayPal",
@@ -69095,6 +69119,10 @@
     "title": "Soviet Union",
     "url": "/wiki/entities/sovietunion/"
   },
+  "SovietUrbanActiveDefense": {
+    "title": "Soviet Urban Active Defence",
+    "url": "/wiki/concepts/sovieturbanactivedefense/"
+  },
   "Soweto": {
     "title": "Soweto",
     "url": "/wiki/entities/soweto/"
@@ -69650,6 +69678,10 @@
   "StakeholderFirstCompounding": {
     "title": "Stakeholder-First Compounding",
     "url": "/wiki/concepts/stakeholderfirstcompounding/"
+  },
+  "StalingradWarMemory": {
+    "title": "Stalingrad War Memory",
+    "url": "/wiki/concepts/stalingradwarmemory/"
   },
   "Stammy": {
     "title": "Stammy",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 11672
+wiki_total_pages: 11677
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -251,6 +251,9 @@ wiki_pages:
   - key: "PauloSilva"
     title: "Paulo Silva"
     url: "/wiki/entities/paulosilva/"
+  - key: "PavlovsHouse"
+    title: "Pavlov's House"
+    url: "/wiki/entities/pavlovshouse/"
   - key: "PAWPatrol"
     title: "PAW Patrol"
     url: "/wiki/entities/pawpatrol/"

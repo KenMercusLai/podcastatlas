@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-10-01] ingest | 215. Stalingrad and the Red Army (Part 2)
+
+Added source `215-stalingrad-and-the-red-army-part-2-glt4269997308`; created `IanMacGregor`, `BattleOfStalingrad`, `PavlovsHouse`, `OperationUranus`, `FriedrichPaulus`, `SovietUrbanActiveDefense`, and `StalingradWarMemory`. Core synthesis: Soviet small-team active defence and fortified observation helped sustain the Volga bridgehead; Operation Uranus exploited weaker Axis flanks and converted the German advance into an encirclement; Hitler's hold order, failed airlift and relief, Soviet pressure, hunger, cold, and psychological warfare then reduced the pocket. Pavlov's House retained real tactical value while wartime reporting simplified its changing garrison and command into a durable heroic legend. The official surrender-contact story conflicts with Roske's unpublished account, and the strongest Pavlov legend is qualified by German-record silence and Afanasyev's role. No broader settled contradiction was adopted. Numbers, motives, dialogue, operational impact, surrender terms, and modern memory claims remain episode-attributed or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,303-source coverage; no topic claim set was dirty and global compaction was not due. Publish validation passed.
+
 ## [2026-10-01] ingest | 217. Plague and the Decline of the Roman Empire
 
 Added source `217-plague-and-the-decline-of-the-roman-empire-glt2583859060`; created `KyleHarper`, `AntoninePlague`, `PlagueOfCyprian`, and `ImperialConnectivityDiseaseRisk`; and resynthesized `RomanEmpire`, `ThirdCenturyCrisis`, `JustinianicPlague`, and `PandemicAsHistoricalForce` from their complete preserved evidence inventories. Core synthesis: Roman cities, roads, shipping, grain systems, armies, trade, and migration created both imperial capacity and pathogen exposure; the Antonine pandemic was a severe shock, the Cyprian epidemic reinforced third-century crisis, and recurrent Justinianic plague weakened an already extended state. No settled contradiction was adopted, and disease remains a compounding force rather than a sufficient cause of decline. Earlier pathogen identities, origins, mortality totals, migrant transmission, rural reach, and political counterfactuals remain uncertain or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -26415,6 +26419,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-01] ingest | 216. Pigeons
 
 Added source `216-pigeons-glt2770080110`; created `GordonCorera`, `Pigeon`, `OperationColumba`, `PassengerPigeon`, `CarrierPigeonCommunication`, and `CommunicationResilience`; and resynthesized `SpanishCivilWar` from its complete preserved evidence inventory. Core synthesis: trained homing behavior became a fast but one-way communication network whose distinct failure mode made it useful across commercial gaps, battlefields, rescue, and occupied territory; Operation Columba joined donated birds and civilian observation to British intelligence, while the passenger pigeon's destruction shows that abundance does not guarantee resilience. No settled contradiction was adopted. Navigation mechanisms, ancient and wartime performance figures, Operation Columba's targeting impact, postwar programs, and the bonus clip's Civil War outline remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,302-source coverage; no topic claim set was dirty and global compaction was not due. Publish validation passed.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-10-01] lint | Wiki health check
 

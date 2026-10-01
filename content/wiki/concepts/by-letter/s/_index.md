@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 9056
+wiki_total_pages: 9058
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1322,6 +1322,9 @@ wiki_pages:
   - key: "SovereignOilFundGovernance"
     title: "Sovereign Oil Fund Governance"
     url: "/wiki/concepts/sovereignoilfundgovernance/"
+  - key: "SovietUrbanActiveDefense"
+    title: "Soviet Urban Active Defence"
+    url: "/wiki/concepts/sovieturbanactivedefense/"
   - key: "SpaceBasedAIInfrastructure"
     title: "Space Based AI Infrastructure"
     url: "/wiki/concepts/spacebasedaiinfrastructure/"
@@ -1613,6 +1616,9 @@ wiki_pages:
   - key: "StakeholderFirstCompounding"
     title: "Stakeholder-First Compounding"
     url: "/wiki/concepts/stakeholderfirstcompounding/"
+  - key: "StalingradWarMemory"
+    title: "Stalingrad War Memory"
+    url: "/wiki/concepts/stalingradwarmemory/"
   - key: "StandUpAsSelfNarration"
     title: "Stand-Up As Self-Narration"
     url: "/wiki/concepts/standupasselfnarration/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 11672
+wiki_total_pages: 11677
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -677,6 +677,9 @@ wiki_pages:
   - key: "FriedrichNietzsche"
     title: "Friedrich Nietzsche / 尼采"
     url: "/wiki/entities/friedrichnietzsche/"
+  - key: "FriedrichPaulus"
+    title: "Friedrich Paulus"
+    url: "/wiki/entities/friedrichpaulus/"
   - key: "FriedrichWilhelmVonSteuben"
     title: "Friedrich Wilhelm von Steuben"
     url: "/wiki/entities/friedrichwilhelmvonsteuben/"

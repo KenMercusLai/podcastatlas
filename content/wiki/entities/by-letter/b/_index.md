@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 11672
+wiki_total_pages: 11677
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -251,6 +251,9 @@ wiki_pages:
   - key: "BattleOfSluys"
     title: "Battle of Sluys"
     url: "/wiki/entities/battleofsluys/"
+  - key: "BattleOfStalingrad"
+    title: "Battle of Stalingrad"
+    url: "/wiki/entities/battleofstalingrad/"
   - key: "BattleOfTheBogside"
     title: "Battle of the Bogside"
     url: "/wiki/entities/battleofthebogside/"

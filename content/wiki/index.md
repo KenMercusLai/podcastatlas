@@ -3357,6 +3357,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tools for Setting & Achieving Goals | Dr. Emily Balcetis](sources/tools-for-setting-achieving-goals-dr-emily-balcetis-scim4890374571.md) — Huberman Lab interview on visual targeting, perceived effort, obstacle planning, positive-fantasy limits, and progress tracking.
 
 - [216. Pigeons](sources/216-pigeons-glt2770080110.md) — The Rest Is History episode on pigeon domestication, symbolism, communication, Operation Columba, wartime intelligence, fallback systems, and passenger-pigeon extinction.
+- [215. Stalingrad and the Red Army (Part 2)](sources/215-stalingrad-and-the-red-army-part-2-glt4269997308.md) — The Rest Is History episode on Soviet urban adaptation, Operation Uranus, the Sixth Army's collapse, Pavlov's House, and contested war memory.
 
 ## Entities
 - [Kyle Harper](entities/KyleHarper.md) — Historian connecting Roman decline to climate, disease ecology, demography, connectivity, and state capacity within a multi-causal model.
@@ -15064,6 +15065,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Pigeon](entities/Pigeon.md) — Long-domesticated bird connecting homing behavior, communication, sport, symbolism, war, intelligence, and changing urban reputation.
 - [Operation Columba](entities/OperationColumba.md) — British Second World War project using dropped homing pigeons to collect civilian intelligence from occupied Europe.
 - [Passenger Pigeon](entities/PassengerPigeon.md) — Formerly abundant North American pigeon used as a warning that visible abundance does not ensure resilience against mass killing.
+- [Ian MacGregor](entities/IanMacGregor.md) — Historian whose archival work separates Stalingrad battlefield evidence from simplified heroic and surrender narratives.
+- [Battle of Stalingrad](entities/BattleOfStalingrad.md) — Second World War battle joining Soviet urban defence, operational encirclement, German logistical collapse, surrender, and enduring memory.
+- [Pavlov's House](entities/PavlovsHouse.md) — Fortified Stalingrad observation position transformed into a durable but simplified Soviet heroic symbol.
+- [Operation Uranus](entities/OperationUranus.md) — November 1942 Soviet combined-arms offensive that broke the Axis flanks and encircled the German Sixth Army.
+- [Friedrich Paulus](entities/FriedrichPaulus.md) — German Sixth Army commander who remained in the Stalingrad pocket under Hitler's hold order and ultimately surrendered.
 
 ## Concepts
 - [Antonine Plague](concepts/AntoninePlague.md) — Second-century trans-imperial pandemic treated as a severe but bounded shock with unresolved pathogen and mortality.
@@ -24165,5 +24171,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Carrier Pigeon Communication](concepts/CarrierPigeonCommunication.md) — Fast but directionally constrained message system that turns trained homing behavior, lofts, and pre-positioning into communications infrastructure.
 - [Communication Resilience](concepts/CommunicationResilience.md) — Capacity to preserve high-value information flows through prepared channels with failure modes different from the primary system.
+- [Soviet Urban Active Defence](concepts/SovietUrbanActiveDefense.md) — Stalingrad method joining small storm teams, fortified positions, observation, reinforcement, and local counterattack.
+- [Stalingrad War Memory](concepts/StalingradWarMemory.md) — Wartime-created and institutionally sustained public narrative contested through archives, naming, education, and commemoration.
 
 ## Syntheses
