@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [170. The Falklands War: The Task Force Sails (Part 2)](sources/170-the-falklands-war-the-task-force-sails-part-2-glt1917394924.md) — The Rest Is History on invasion, task-force mobilization, cross-party support, UN legitimacy, allied assistance, Haig's compromise, and South Georgia.
 - [171. The Falklands War: Battle for the Islands (Part 3)](sources/171-the-falklands-war-battle-for-the-islands-part-3-glt4679725480.md) — The Rest Is History on the Belgrano controversy, wartime media pressure, failed diplomacy, San Carlos, Goose Green, Bluff Cove, and the final advance on Stanley.
 - [172. The Falklands War: Afterlife (Part 4)](sources/172-the-falklands-war-afterlife-part-4-glt5779306068.md) — The Rest Is History episode on Thatcher, Argentina's junta, Islander self-determination, the 1983 election, British decline, and the war's contested political memory.
 - [173. Chairman Mao & the Cultural Revolution](sources/173-chairman-mao-the-cultural-revolution-glt2886812821.md) — The Rest Is History episode with Rana Mitter on Mao's authority, Red Guard mobilization, revolutionary iconoclasm, political ritual, factional violence, and the post-Mao settlement.
@@ -3431,6 +3432,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Founder-Led Sales: He Learned to Sell and Closed 50 Customers](sources/d5efc401.md) — The SaaS Podcast episode with Shahar Azulay on Groundcover's eBPF and bring-your-own-cloud architecture, founder-led sales, infrastructure-based pricing, and incumbent replacement migration.
 
 ## Entities
+- [Rex Hunt](entities/RexHunt.md) — Falkland Islands governor who ended hopeless resistance without accepting the legality of Argentine occupation.
+- [Henry Leach](entities/HenryLeach.md) — First Sea Lord whose feasibility advice converted political resolve into a credible task-force option.
+- [Alexander Haig](entities/AlexanderHaig.md) — U.S. secretary of state whose Falklands shuttle diplomacy proposed mutual withdrawal and interim administration.
 - [Shahar Azulay](entities/ShaharAzulay.md) — Groundcover co-founder and CEO connecting eBPF observability architecture to founder-led enterprise sales and replacement execution.
 - [Groundcover](entities/Groundcover.md) — Observability company combining an eBPF sensor, customer-hosted data plane, infrastructure-based pricing, and incumbent replacement.
 - [General Belgrano](entities/GeneralBelgrano.md) — Argentine cruiser whose sinking changed the Falklands naval campaign and became a lasting military, moral, and media controversy.
@@ -15291,6 +15295,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gareth Southgate](entities/GarethSouthgate.md) — England manager presented as joining inherited patriotic symbols to progressive and multiracial belonging.
 
 ## Concepts
+- [Falklands Task Force Mobilization](concepts/FalklandsTaskForceMobilization.md) — Rapid conversion of political resolve, naval advice, ships, troops, logistics, allied access, and public legitimacy into a long-range expedition.
+- [Falklands Crisis Diplomacy](concepts/FalklandsCrisisDiplomacy.md) — Interaction of UN legitimacy, allied assistance, military pressure, mediation, compromise, and junta regime survival.
 - [eBPF Observability](concepts/EBPFObservability.md) — Kernel-level telemetry collection across heterogeneous cloud applications and infrastructure with limited per-service instrumentation.
 - [Observability Cost Architecture](concepts/ObservabilityCostArchitecture.md) — Joint design of telemetry collection, data location, storage responsibility, pricing units, and sustainable coverage.
 - [Incumbent Replacement Migration](concepts/IncumbentReplacementMigration.md) — Commercial and operational work required to move customers off a mission-critical incumbent and verify retirement.

@@ -1084,6 +1084,18 @@
       "url": "/topics/history/"
     }
   ],
+  "170-the-falklands-war-the-task-force-sails-part-2-glt1917394924": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "171-the-falklands-war-battle-for-the-islands-part-3-glt4679725480": [
     {
       "key": "history",
@@ -10335,6 +10347,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "AlexanderHaig": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "AlexanderHamilton": [
@@ -30902,6 +30921,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "FalklandsCrisisDiplomacy": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "FallingObjectPublicSafety": [

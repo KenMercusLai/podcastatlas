@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2949
+topic_total_pages: 2952
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1384,6 +1384,9 @@ topic_concepts:
   - key: "FairAllocationPoliticalSkill"
     title: "Fair Allocation As Political Skill / 公平分配式政治能力"
     url: "/wiki/concepts/fairallocationpoliticalskill/"
+  - key: "FalklandsCrisisDiplomacy"
+    title: "Falklands Crisis Diplomacy"
+    url: "/wiki/concepts/falklandscrisisdiplomacy/"
   - key: "FallingObjectPublicSafety"
     title: "Falling Object Public Safety"
     url: "/wiki/concepts/fallingobjectpublicsafety/"
@@ -4880,6 +4883,9 @@ topic_entities:
   - key: "Alberta"
     title: "Alberta"
     url: "/wiki/entities/alberta/"
+  - key: "AlexanderHaig"
+    title: "Alexander Haig"
+    url: "/wiki/entities/alexanderhaig/"
   - key: "AlexanderHamilton"
     title: "Alexander Hamilton"
     url: "/wiki/entities/alexanderhamilton/"
@@ -7800,6 +7806,9 @@ topic_sources:
   - key: "161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm"
     title: "161. 全球宏观和资本市场2026一季度复盘与展望"
     url: "/wiki/sources/161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm/"
+  - key: "170-the-falklands-war-the-task-force-sails-part-2-glt1917394924"
+    title: "170. The Falklands War: The Task Force Sails (Part 2)"
+    url: "/wiki/sources/170-the-falklands-war-the-task-force-sails-part-2-glt1917394924/"
   - key: "172-the-falklands-war-afterlife-part-4-glt5779306068"
     title: "172. The Falklands War: Afterlife (Part 4)"
     url: "/wiki/sources/172-the-falklands-war-afterlife-part-4-glt5779306068/"

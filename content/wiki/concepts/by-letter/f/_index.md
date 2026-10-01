@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 9165
+wiki_total_pages: 9167
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -71,6 +71,12 @@ wiki_pages:
   - key: "FakeRetailWebsiteImpersonation"
     title: "Fake Retail Website Impersonation"
     url: "/wiki/concepts/fakeretailwebsiteimpersonation/"
+  - key: "FalklandsCrisisDiplomacy"
+    title: "Falklands Crisis Diplomacy"
+    url: "/wiki/concepts/falklandscrisisdiplomacy/"
+  - key: "FalklandsTaskForceMobilization"
+    title: "Falklands Task Force Mobilization"
+    url: "/wiki/concepts/falklandstaskforcemobilization/"
   - key: "FalklandsWarPoliticalAfterlife"
     title: "Falklands War Political Afterlife"
     url: "/wiki/concepts/falklandswarpoliticalafterlife/"

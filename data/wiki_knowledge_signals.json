@@ -8386,6 +8386,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/alexaplus/"
     },
+    "AlexanderHaig": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1917394924 [GLT1917394924].md",
+          "key": "170-the-falklands-war-the-task-force-sails-part-2-glt1917394924",
+          "show": "The Rest Is History",
+          "title": "170. The Falklands War: The Task Force Sails (Part 2)",
+          "url": "/wiki/sources/170-the-falklands-war-the-task-force-sails-part-2-glt1917394924/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/alexanderhaig/"
+    },
     "AlexanderHamilton": {
       "episode_count": 3,
       "show_count": 2,
@@ -15946,9 +15962,9 @@
       "url": "/wiki/concepts/augustanenemyframing/"
     },
     "AugustoPinochet": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3740766328 [GLT3740766328].md",
@@ -15956,9 +15972,16 @@
           "show": "The Rest Is History",
           "title": "371. The 1973 Chilean Coup: General Pinochet Seizes Power (Part 2)",
           "url": "/wiki/sources/371-the-1973-chilean-coup-general-pinochet-seizes-power-part-2-glt3740766328/"
+        },
+        {
+          "episode_file": "GLT1917394924 [GLT1917394924].md",
+          "key": "170-the-falklands-war-the-task-force-sails-part-2-glt1917394924",
+          "show": "The Rest Is History",
+          "title": "170. The Falklands War: The Task Force Sails (Part 2)",
+          "url": "/wiki/sources/170-the-falklands-war-the-task-force-sails-part-2-glt1917394924/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/augustopinochet/"
     },
     "AugustusTheStrong": {
@@ -63612,9 +63635,9 @@
       "url": "/wiki/concepts/fairallocationpoliticalskill/"
     },
     "FalklandIslands": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5779306068 [GLT5779306068].md",
@@ -63622,15 +63645,54 @@
           "show": "The Rest Is History",
           "title": "172. The Falklands War: Afterlife (Part 4)",
           "url": "/wiki/sources/172-the-falklands-war-afterlife-part-4-glt5779306068/"
+        },
+        {
+          "episode_file": "GLT1917394924 [GLT1917394924].md",
+          "key": "170-the-falklands-war-the-task-force-sails-part-2-glt1917394924",
+          "show": "The Rest Is History",
+          "title": "170. The Falklands War: The Task Force Sails (Part 2)",
+          "url": "/wiki/sources/170-the-falklands-war-the-task-force-sails-part-2-glt1917394924/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/falklandislands/"
     },
-    "FalklandsWar": {
-      "episode_count": 2,
+    "FalklandsCrisisDiplomacy": {
+      "episode_count": 1,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1917394924 [GLT1917394924].md",
+          "key": "170-the-falklands-war-the-task-force-sails-part-2-glt1917394924",
+          "show": "The Rest Is History",
+          "title": "170. The Falklands War: The Task Force Sails (Part 2)",
+          "url": "/wiki/sources/170-the-falklands-war-the-task-force-sails-part-2-glt1917394924/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/falklandscrisisdiplomacy/"
+    },
+    "FalklandsTaskForceMobilization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1917394924 [GLT1917394924].md",
+          "key": "170-the-falklands-war-the-task-force-sails-part-2-glt1917394924",
+          "show": "The Rest Is History",
+          "title": "170. The Falklands War: The Task Force Sails (Part 2)",
+          "url": "/wiki/sources/170-the-falklands-war-the-task-force-sails-part-2-glt1917394924/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/falklandstaskforcemobilization/"
+    },
+    "FalklandsWar": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5779306068 [GLT5779306068].md",
@@ -63645,9 +63707,16 @@
           "show": "The Rest Is History",
           "title": "171. The Falklands War: Battle for the Islands (Part 3)",
           "url": "/wiki/sources/171-the-falklands-war-battle-for-the-islands-part-3-glt4679725480/"
+        },
+        {
+          "episode_file": "GLT1917394924 [GLT1917394924].md",
+          "key": "170-the-falklands-war-the-task-force-sails-part-2-glt1917394924",
+          "show": "The Rest Is History",
+          "title": "170. The Falklands War: The Task Force Sails (Part 2)",
+          "url": "/wiki/sources/170-the-falklands-war-the-task-force-sails-part-2-glt1917394924/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/falklandswar/"
     },
     "FalklandsWarPoliticalAfterlife": {
@@ -85460,6 +85529,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/henrykissinger/"
+    },
+    "HenryLeach": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1917394924 [GLT1917394924].md",
+          "key": "170-the-falklands-war-the-task-force-sails-part-2-glt1917394924",
+          "show": "The Rest Is History",
+          "title": "170. The Falklands War: The Task Force Sails (Part 2)",
+          "url": "/wiki/sources/170-the-falklands-war-the-task-force-sails-part-2-glt1917394924/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/henryleach/"
     },
     "HenryMintzberg": {
       "episode_count": 1,
@@ -110034,9 +110119,9 @@
       "url": "/wiki/entities/leopoldii/"
     },
     "LeopoldoGaltieri": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5779306068 [GLT5779306068].md",
@@ -110051,9 +110136,16 @@
           "show": "The Rest Is History",
           "title": "171. The Falklands War: Battle for the Islands (Part 3)",
           "url": "/wiki/sources/171-the-falklands-war-battle-for-the-islands-part-3-glt4679725480/"
+        },
+        {
+          "episode_file": "GLT1917394924 [GLT1917394924].md",
+          "key": "170-the-falklands-war-the-task-force-sails-part-2-glt1917394924",
+          "show": "The Rest Is History",
+          "title": "170. The Falklands War: The Task Force Sails (Part 2)",
+          "url": "/wiki/sources/170-the-falklands-war-the-task-force-sails-part-2-glt1917394924/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/leopoldogaltieri/"
     },
     "LesEnfantsDuParadisFilm": {
@@ -123427,9 +123519,9 @@
       "url": "/wiki/entities/margaretmitchell/"
     },
     "MargaretThatcher": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 2,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "81.间谍与叛徒：恕我直言，007的故事弱爆了 (下) [693711209].md",
@@ -123479,9 +123571,16 @@
           "show": "The Rest Is History",
           "title": "171. The Falklands War: Battle for the Islands (Part 3)",
           "url": "/wiki/sources/171-the-falklands-war-battle-for-the-islands-part-3-glt4679725480/"
+        },
+        {
+          "episode_file": "GLT1917394924 [GLT1917394924].md",
+          "key": "170-the-falklands-war-the-task-force-sails-part-2-glt1917394924",
+          "show": "The Rest Is History",
+          "title": "170. The Falklands War: The Task Force Sails (Part 2)",
+          "url": "/wiki/sources/170-the-falklands-war-the-task-force-sails-part-2-glt1917394924/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/margaretthatcher/"
     },
     "MarginTradingForcedSelling": {
@@ -128223,9 +128322,9 @@
       "url": "/wiki/entities/michaeleisenberg/"
     },
     "MichaelFoot": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "81.间谍与叛徒：恕我直言，007的故事弱爆了 (下) [693711209].md",
@@ -128240,9 +128339,16 @@
           "show": "The Rest Is History",
           "title": "172. The Falklands War: Afterlife (Part 4)",
           "url": "/wiki/sources/172-the-falklands-war-afterlife-part-4-glt5779306068/"
+        },
+        {
+          "episode_file": "GLT1917394924 [GLT1917394924].md",
+          "key": "170-the-falklands-war-the-task-force-sails-part-2-glt1917394924",
+          "show": "The Rest Is History",
+          "title": "170. The Falklands War: The Task Force Sails (Part 2)",
+          "url": "/wiki/sources/170-the-falklands-war-the-task-force-sails-part-2-glt1917394924/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/michaelfoot/"
     },
     "MichaelGove": {
@@ -160679,6 +160785,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/concepts/rewardeddenunciationfiscalenforcement/"
     },
+    "RexHunt": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1917394924 [GLT1917394924].md",
+          "key": "170-the-falklands-war-the-task-force-sails-part-2-glt1917394924",
+          "show": "The Rest Is History",
+          "title": "170. The Falklands War: The Task Force Sails (Part 2)",
+          "url": "/wiki/sources/170-the-falklands-war-the-task-force-sails-part-2-glt1917394924/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/rexhunt/"
+    },
     "RezsoKasztner": {
       "episode_count": 1,
       "show_count": 1,
@@ -163085,9 +163207,9 @@
       "url": "/wiki/concepts/romanticizedwarmoralambivalence/"
     },
     "RonaldReagan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "81.间谍与叛徒：恕我直言，007的故事弱爆了 (下) [693711209].md",
@@ -163116,9 +163238,16 @@
           "show": "The Rest Is History",
           "title": "310: Ronald Reagan and the American Dream (Part 1)",
           "url": "/wiki/sources/310-ronald-reagan-and-the-american-dream-part-1-glt3254036306/"
+        },
+        {
+          "episode_file": "GLT1917394924 [GLT1917394924].md",
+          "key": "170-the-falklands-war-the-task-force-sails-part-2-glt1917394924",
+          "show": "The Rest Is History",
+          "title": "170. The Falklands War: The Task Force Sails (Part 2)",
+          "url": "/wiki/sources/170-the-falklands-war-the-task-force-sails-part-2-glt1917394924/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/ronaldreagan/"
     },
     "RongJunchuan": {

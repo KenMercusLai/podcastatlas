@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 11821
+wiki_total_pages: 11824
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -341,6 +341,9 @@ wiki_pages:
   - key: "RewindAI"
     title: "Rewind AI"
     url: "/wiki/entities/rewindai/"
+  - key: "RexHunt"
+    title: "Rex Hunt"
+    url: "/wiki/entities/rexhunt/"
   - key: "RezaPahlavi"
     title: "Reza Pahlavi"
     url: "/wiki/entities/rezapahlavi/"

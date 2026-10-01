@@ -26229,7 +26229,6 @@ Added source `203-american-civil-war-aftermath-legacy-part-4-glt3990109453`; cre
 
 Ran lint. See lint-report.md for details.
 
-
 ## [2026-10-01] ingest | 177. The Jewish Revolt (Part 3)
 
 Added source `177-the-jewish-revolt-part-3-glt1109135413`; created `JudeanRevolt66To73`, `Masada`, `ImperialVictoryReframing`, `ReligiousAuthorityAfterTempleDestruction`, and `JudeanRevoltMemoryAfterlife`; and resynthesized `Josephus`, `Titus`, and `Vespasian` from their complete preserved evidence inventories. Core synthesis: a divided Roman provincial revolt became exceptionally consequential through Jerusalem's destruction, Flavian conversion of reconquest into foreign victory, the migration of Jewish authority away from Temple sacrifice, Christian and rabbinic interpretation, and modern Masada memory. No settled contradiction was adopted. Josephus's defense of Titus, the Temple fire, Masada's collective deaths, Yavne's reach, rabbinic legends, Luke's prophecy, casualty figures, and political motives remain contested, theological, legendary, or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten because this bounded ancient-history branch did not warrant changing its global synthesis. The downstream manifest and paragraph ledger were refreshed to 3,360-source coverage; no topic claim set was dirty and global compaction was not due. Identity, knowledge-schema, whitespace, synthesis, index coverage, health, and publish validation passed; the repository-wide scanner still reports 14 unrelated pre-existing broken wikilinks and none in the changed canonical pages.
@@ -26980,5 +26979,13 @@ Ran lint. See lint-report.md for details.
 Ran lint. See lint-report.md for details.
 
 ## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | 170. The Falklands War: The Task Force Sails (Part 2)
+
+Added source `170-the-falklands-war-the-task-force-sails-part-2-glt1917394924`; created `RexHunt`, `HenryLeach`, `AlexanderHaig`, `FalklandsTaskForceMobilization`, and `FalklandsCrisisDiplomacy`; and resynthesized `FalklandsWar`, `FalklandIslands`, `MargaretThatcher`, `MichaelFoot`, `LeopoldoGaltieri`, `AugustoPinochet`, and `RonaldReagan` from their complete preserved evidence inventories. Core synthesis: Britain converted political resolve into a credible expedition through naval advice, logistics, parliamentary legitimacy, and allied access while continuing to pursue compromise; Thatcher accepted Haig's mutual-withdrawal and interim-administration plan, but the Argentine junta rejected an off-ramp that threatened the nationalist legitimacy it had attached to occupation. No settled contradiction was adopted. Exact dialogue, polling, allied-support details, junta motives, Haig-plan counterfactuals, and leadership psychology remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten. The downstream manifest and paragraph ledger were refreshed to 3,372-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge-schema, whitespace, synthesis, health, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

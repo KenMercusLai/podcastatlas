@@ -7,7 +7,8 @@ sources:
   - 312-reagan-iran-contra-and-the-cold-war-part-3-glt4042202229
   - 311-reagan-the-road-to-the-white-house-part-2-glt9813084891
   - 310-ronald-reagan-and-the-american-dream-part-1-glt3254036306
-last_updated: 2026-09-29
+  - 170-the-falklands-war-the-task-force-sails-part-2-glt1917394924
+last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
 
@@ -25,6 +26,8 @@ His move rightward was gradual rather than inherited. Hollywood labor conflict, 
 
 [[312-reagan-iran-contra-and-the-cold-war-part-3-glt4042202229]] carries the learned persona into presidential ceremony, humor, reassurance, and national storytelling, but keeps policy and accountability separate from communication skill. [[ReaganomicsPoliticalEconomy|Reaganomics]], labor confrontation, silence during the AIDS crisis, and the [[IranContraAffair|Iran-Contra affair]] remain major qualifications. Part 3 and [[81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209]] also show his hard-line posture entering a Soviet war-scare system even as nuclear fear and work with [[MikhailGorbachev|Mikhail Gorbachev]] supported arms reduction.
 
+The opening Falklands episode adds an alliance-management case. Reagan was emotionally sympathetic to Britain but initially balanced a NATO ally against Argentina's Cold War role while his administration divided between pro-Argentine and pro-British officials. [[AlexanderHaig|Alexander Haig]]'s shuttle mission became the compromise mechanism, and U.S. cooperation over Ascension Island helped make the British expedition possible. This was not a simple immediate alignment; later ceasefire pressure and fuller U.S. support belong to the subsequent campaign sequence.
+
 ## Key Characteristics
 
 - A public performer whose small-town, religious, athletic, radio, screen, union, and corporate-speaking experiences made conviction and stagecraft mutually reinforcing.
@@ -33,6 +36,7 @@ His move rightward was gradual rather than inherited. Hollywood labor conflict, 
 - An ideological campaigner whose California record included substantial pragmatic compromise.
 - A president whose symbolic authority coexisted with contested economic distribution, labor confrontation, racial signaling, AIDS-response failure, and Iran-Contra.
 - A confrontational anti-communist whose posture could intensify [[ColdWarNuclearMisperception|adversary misperception]] but who also pursued nuclear reduction.
+- An alliance manager whose Falklands posture moved through internal division, mediation, practical support, and later pressure on both sides.
 
 ## Evidence
 
@@ -54,16 +58,17 @@ His move rightward was gradual rather than inherited. Hollywood labor conflict, 
 - [[81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209]] connects Reagan's posture to Operation RYAN and Soviet fear of a first strike.
 - [[312-reagan-iran-contra-and-the-cold-war-part-3-glt4042202229]] connects Able Archer and *The Day After* to nuclear fear, summit diplomacy, and the INF Treaty.
 
+### Falklands alliance management
+
+- [[170-the-falklands-war-the-task-force-sails-part-2-glt1917394924]] presents Reagan as personally pro-British but initially balancing divided advisers, Latin American Cold War ties, Haig's mediation, and Ascension Island cooperation.
+
 ## Qualifications
 
-These sources are interpretive podcast narratives rather than a complete biography or presidency. They cannot directly establish Reagan's private sincerity, and explanation through childhood, faith, marriage, taxes, Britain, or career disappointment should not become single-cause psychology. His public HUAC testimony did not name names, but he cooperated with anti-communist investigation and did not defend the Hollywood Ten. Effective symbolic leadership does not validate anecdotes, neutralize racially coded appeals, excuse policy harm, or settle economic causation. His exact knowledge of Iran-Contra operations remains less certain than support for the underlying objectives, and Soviet perception alone does not determine his intent.
+These sources are interpretive podcast narratives rather than a complete biography or presidency. They cannot directly establish Reagan's private sincerity, and explanation through childhood, faith, marriage, taxes, Britain, or career disappointment should not become single-cause psychology. His public HUAC testimony did not name names, but he cooperated with anti-communist investigation and did not defend the Hollywood Ten. Effective symbolic leadership does not validate anecdotes, neutralize racially coded appeals, excuse policy harm, or settle economic causation. His exact knowledge of Iran-Contra operations remains less certain than support for the underlying objectives, Soviet perception alone does not determine his intent, and the Falklands source does not reconstruct every U.S. deliberation or prove his private emotional position.
 
 ## What Changed
 
-- Extended the profile back through childhood, religion, sport, radio, Hollywood, wartime propaganda, and union leadership.
-- Reframed authenticity as a fusion of learned performance and genuine conviction while separating both from factual reliability.
-- Added the gradual, multi-causal movement from New Deal Democrat toward conservative anti-communism.
-- Added HUAC and Hollywood labor politics as qualified parts of Reagan's institutional formation.
+- Added the opening Falklands case as a progression from divided alliance interests through mediation and practical British support.
 
 ## Relationships
 
@@ -76,3 +81,5 @@ These sources are interpretive podcast narratives rather than a complete biograp
 - [[IranContraAffair]] - scandal exposing conflict among presidential objectives, law, Congress, and accountability.
 - [[ColdWarNuclearMisperception]] - risk created when military posture and rhetoric are read through adversary fear.
 - [[MikhailGorbachev]] - Soviet counterpart in summit diplomacy and arms reduction.
+- [[AlexanderHaig]] - secretary of state who carried the administration's Falklands mediation effort.
+- [[FalklandsCrisisDiplomacy]] - alliance crisis exposing tension between NATO loyalty and Latin American Cold War partnership.

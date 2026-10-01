@@ -5,7 +5,8 @@ tags: [war, united-kingdom, argentina, south-atlantic, political-memory]
 sources:
   - 172-the-falklands-war-afterlife-part-4-glt5779306068
   - 171-the-falklands-war-battle-for-the-islands-part-3-glt4679725480
-last_updated: 2026-10-01
+  - 170-the-falklands-war-the-task-force-sails-part-2-glt1917394924
+last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
 
@@ -13,26 +14,30 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-The Falklands War was the 1982 conflict between the [[UnitedKingdom]] and [[Argentina]] over the [[FalklandIslands]], represented here through the decisive naval and land campaign and its political aftermath.
+The Falklands War was the 1982 conflict between the [[UnitedKingdom]] and [[Argentina]] over the [[FalklandIslands]], represented here from invasion and task-force mobilization through diplomacy, combat, surrender, and political aftermath.
 
 ## Current Profile
 
-The campaign source presents British victory as the product of a high-risk expedition whose sea, air, diplomatic, and ground phases remained interdependent. The sinking of the [[GeneralBelgrano|General Belgrano]] removed a surface threat but killed 323 people and transformed international perceptions. San Carlos achieved surprise, yet Argentine air attacks damaged or sank ships; Goose Green, Bluff Cove, and the night battles outside Stanley then exposed British troops and poorly supplied Argentine conscripts to severe loss.
+The opening source presents the war as contingent rather than automatic. [[RexHunt|Rex Hunt]] ended hopeless local resistance without legitimizing occupation; [[MargaretThatcher|Margaret Thatcher]] favored recovery, but ministerial doubt persisted until [[HenryLeach|Henry Leach]] made a rapid [[FalklandsTaskForceMobilization|task-force mobilization]] credible. Parliamentary support, UN Security Council Resolution 502, and assistance from Chile, France, and the United States strengthened Britain's position while the voyage south preserved time for [[FalklandsCrisisDiplomacy|negotiation]]. Thatcher accepted Haig's mutual-withdrawal plan, but the junta rejected an off-ramp that threatened its nationalist legitimacy.
+
+The campaign then became a high-risk expedition whose sea, air, diplomatic, and ground phases remained interdependent. The sinking of the [[GeneralBelgrano|General Belgrano]] removed a surface threat but killed 323 people and transformed international perceptions. San Carlos achieved surprise, yet Argentine air attacks damaged or sank ships; Goose Green, Bluff Cove, and the night battles outside Stanley exposed British troops and poorly supplied Argentine conscripts to severe loss.
 
 Victory ended Argentina's occupation, protected an island community represented as rejecting Argentine military rule, and broke the junta's remaining claim to competence. In Britain it expanded [[MargaretThatcher|Margaret Thatcher]]'s public role, strengthened but did not originate the Conservative path to victory in 1983, and interrupted a post-Suez narrative of national decline. Its afterlife remains unsettled: [[WartimeMediaLoyaltyPressure|media loyalty pressure]], casualties, allied assistance, sovereignty arguments, later wars, and changing judgments about empire prevent a simple story of clean victory, Britain standing alone, or direct causation of [[Brexit]].
 
 ## Key Characteristics
 
-- A short interstate war fought through long-range naval logistics, air attack, amphibious landing, and infantry assault.
+- A short interstate war opened by invasion, rapid long-range mobilization, and simultaneous coercive diplomacy.
 - A campaign in which operational necessity, casualties, diplomacy, and public legitimacy remained tightly linked.
+- A crisis in which British resolve coexisted with willingness to accept mutual withdrawal and interim administration.
 - A decisive blow to [[LeopoldoGaltieri|Galtieri]]'s military government.
 - A self-determination case centered on the preferences of the [[FalklandIslands|Islanders]].
 - An amplifier of Thatcher's political recovery rather than the sole cause of her 1983 victory.
-- A challenge to Britain's post-Suez decline narrative.
-- A durable and contested symbol in arguments about patriotism, empire, and national identity.
+- A challenge to Britain's post-Suez decline narrative and a durable, contested symbol in arguments about patriotism, empire, and national identity.
 
 ## Evidence
 
+- Opening decision and mobilization: [[170-the-falklands-war-the-task-force-sails-part-2-glt1917394924]] connects Hunt's resistance, Thatcher's resolve, Leach's advice, the task force, parliamentary support, and the voyage south.
+- Diplomatic and alliance setting: [[170-the-falklands-war-the-task-force-sails-part-2-glt1917394924]] connects Resolution 502, Chilean and French help, U.S. division, Haig's compromise, British acceptance, and Argentine rejection.
 - Naval and diplomatic turning point: [[171-the-falklands-war-battle-for-the-islands-part-3-glt4679725480]] connects the Belgrano attack to the carrier threat, surface-fleet withdrawal, 323 deaths, and continuing peace efforts.
 - Amphibious and land campaign: [[171-the-falklands-war-battle-for-the-islands-part-3-glt4679725480]] follows San Carlos, Argentine air attacks, Goose Green, Bluff Cove, the final hill battles, morale collapse, and surrender.
 - Media and moral division: [[171-the-falklands-war-battle-for-the-islands-part-3-glt4679725480]] contrasts tabloid triumphalism, BBC skepticism, combat brutality, and the hosts' judgment that major atrocities were limited.
@@ -41,12 +46,12 @@ Victory ended Argentina's occupation, protected an island community represented 
 
 ## Qualifications
 
-The campaign source explicitly compresses technical military history, and both episodes are retrospective British podcast narratives rather than a full diplomatic, legal, Argentine, Islander, or veteran archive. The Belgrano's operational intentions, peace chronology, atrocity assessments, commanders' motives, casualty details, national psychology, electoral counterfactuals, sovereignty, and relationship to later politics remain disputed or source-scoped. Islanders, Argentine conscripts, and Argentine naval figures are discussed more than directly represented.
+The sources explicitly compress technical military history and are retrospective British podcast narratives rather than a full diplomatic, legal, Argentine, Islander, or veteran archive. Opening dialogue, public-opinion figures, the likely effect of Haig's plan, junta motives, the Belgrano's operational intentions, peace chronology, atrocity assessments, casualty details, electoral counterfactuals, sovereignty, and relationship to later politics remain disputed or source-scoped. Islanders, Argentine conscripts, and Argentine officials are discussed more than directly represented.
 
 ## What Changed
 
-- Added the Belgrano, San Carlos, Goose Green, Bluff Cove, Stanley, and surrender sequence to the previously aftermath-centered profile.
-- Separated the hosts' military-legitimacy judgment from casualty scale, media treatment, and continuing controversy.
+- Extended the profile backward to invasion, Cabinet doubt, rapid task-force preparation, UN legitimacy, allied support, and South Georgia.
+- Replaced a simple resolve-versus-compromise frame with evidence that Britain mobilized while accepting a substantial withdrawal plan.
 
 ## Relationships
 
@@ -59,3 +64,7 @@ The campaign source explicitly compresses technical military history, and both e
 - [[BritishGeneralElection1983]] - election whose outcome the war amplified but did not create alone.
 - [[FalklandsWarPoliticalAfterlife]] - contested legacy linking victory to decline, patriotism, empire, and later identity politics.
 - [[WartimeMediaLoyaltyPressure]] - pressure that polarized reporting and criticism during the campaign.
+- [[RexHunt]] - governor who ended local resistance without accepting Argentine legitimacy.
+- [[HenryLeach]] - naval adviser who made an expeditionary response credible.
+- [[FalklandsTaskForceMobilization]] - conversion of political intent into a long-range force.
+- [[FalklandsCrisisDiplomacy]] - UN, alliance, mediation, and regime-legitimacy layer of the opening crisis.
