@@ -566,6 +566,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "142-general-gordon-and-the-siege-of-khartoum-glt6227664313": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz": [
     {
       "key": "technology",
@@ -41780,6 +41787,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "ImperialMartyrdomMemory": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "ImperialMetropolisIntegration": [
     {
       "key": "technology",
@@ -52238,6 +52252,18 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "MassPressImperialPolicyPressure": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "MassProducedAIIntimacy": [
@@ -84707,6 +84733,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "WilliamEwartGladstone": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "WilliamGolding": [

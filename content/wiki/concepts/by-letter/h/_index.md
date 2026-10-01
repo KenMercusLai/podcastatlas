@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 9223
+wiki_total_pages: 9226
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -932,6 +932,9 @@ wiki_pages:
   - key: "HumanitarianAidFundingShortfall"
     title: "Humanitarian Aid Funding Shortfall / 人道援助资金缺口"
     url: "/wiki/concepts/humanitarianaidfundingshortfall/"
+  - key: "HumanitarianImperialIntervention"
+    title: "Humanitarian Imperial Intervention"
+    url: "/wiki/concepts/humanitarianimperialintervention/"
   - key: "HumanitarianIsolation"
     title: "Humanitarian Isolation"
     url: "/wiki/concepts/humanitarianisolation/"

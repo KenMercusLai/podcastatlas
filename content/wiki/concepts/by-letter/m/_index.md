@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9223
+wiki_total_pages: 9226
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -350,6 +350,9 @@ wiki_pages:
   - key: "MassPoliticalCampaigning"
     title: "Mass Political Campaigning"
     url: "/wiki/concepts/masspoliticalcampaigning/"
+  - key: "MassPressImperialPolicyPressure"
+    title: "Mass Press Imperial Policy Pressure"
+    url: "/wiki/concepts/masspressimperialpolicypressure/"
   - key: "MassRetailProductionDeadline"
     title: "Mass Retail Production Deadline"
     url: "/wiki/concepts/massretailproductiondeadline/"

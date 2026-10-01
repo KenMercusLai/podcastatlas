@@ -363,6 +363,10 @@
     "title": "142. 产品体验学日本、全球营销学韩国",
     "url": "/wiki/sources/142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1/"
   },
+  "142-general-gordon-and-the-siege-of-khartoum-glt6227664313": {
+    "title": "142. General Gordon and the Siege of Khartoum",
+    "url": "/wiki/sources/142-general-gordon-and-the-siege-of-khartoum-glt6227664313/"
+  },
   "142-kaierte-shenhua-gushi-diyidan-deluyi-hui-mengjian-bianxing-yang-ma-865479403": {
     "title": "142. 凯尔特神话故事（第一弹）：德鲁伊会梦见变形羊吗？",
     "url": "/wiki/sources/142-kaierte-shenhua-gushi-diyidan-deluyi-hui-mengjian-bianxing-yang-ma-865479403/"
@@ -15042,6 +15046,10 @@
   "CharlesFrancoisDumouriez": {
     "title": "Charles François Dumouriez",
     "url": "/wiki/entities/charlesfrancoisdumouriez/"
+  },
+  "CharlesGeorgeGordon": {
+    "title": "General Gordon",
+    "url": "/wiki/entities/charlesgeorgegordon/"
   },
   "CharlesGoodhart": {
     "title": "Charles Goodhart",
@@ -31159,6 +31167,10 @@
     "title": "Garmin",
     "url": "/wiki/entities/garmin/"
   },
+  "GarnetWolseley": {
+    "title": "Garnet Wolseley",
+    "url": "/wiki/entities/garnetwolseley/"
+  },
   "GarrettBoone": {
     "title": "Garrett Boone",
     "url": "/wiki/entities/garrettboone/"
@@ -37395,6 +37407,10 @@
     "title": "Humanitarian Aid Funding Shortfall / 人道援助资金缺口",
     "url": "/wiki/concepts/humanitarianaidfundingshortfall/"
   },
+  "HumanitarianImperialIntervention": {
+    "title": "Humanitarian Imperial Intervention",
+    "url": "/wiki/concepts/humanitarianimperialintervention/"
+  },
   "HumanitarianIsolation": {
     "title": "Humanitarian Isolation",
     "url": "/wiki/concepts/humanitarianisolation/"
@@ -38058,6 +38074,10 @@
   "ImperialMarriageInspection": {
     "title": "Imperial Marriage Inspection / 皇室婚前身体检视",
     "url": "/wiki/concepts/imperialmarriageinspection/"
+  },
+  "ImperialMartyrdomMemory": {
+    "title": "Imperial Martyrdom Memory",
+    "url": "/wiki/concepts/imperialmartyrdommemory/"
   },
   "ImperialMetropolisIntegration": {
     "title": "Imperial Metropolis Integration",
@@ -49983,6 +50003,10 @@
     "title": "Mass Political Campaigning",
     "url": "/wiki/concepts/masspoliticalcampaigning/"
   },
+  "MassPressImperialPolicyPressure": {
+    "title": "Mass Press Imperial Policy Pressure",
+    "url": "/wiki/concepts/masspressimperialpolicypressure/"
+  },
   "MassProducedAIIntimacy": {
     "title": "Mass-Produced AI Intimacy",
     "url": "/wiki/concepts/massproducedaiintimacy/"
@@ -52990,6 +53014,10 @@
   "Muhammad": {
     "title": "Muhammad",
     "url": "/wiki/entities/muhammad/"
+  },
+  "MuhammadAhmad": {
+    "title": "Muhammad Ahmad",
+    "url": "/wiki/entities/muhammadahmad/"
   },
   "MuhammadAtalla": {
     "title": "Muhammad Atalla",
@@ -69287,6 +69315,10 @@
     "title": "Siege Economy Strategy",
     "url": "/wiki/concepts/siegeeconomystrategy/"
   },
+  "SiegeOfKhartoum": {
+    "title": "Siege of Khartoum",
+    "url": "/wiki/entities/siegeofkhartoum/"
+  },
   "SiegeOfTenochtitlan": {
     "title": "Siege of Tenochtitlan",
     "url": "/wiki/concepts/siegeoftenochtitlan/"
@@ -81242,6 +81274,10 @@
   "WilliamDurant": {
     "title": "William Durant / 威廉·杜兰特",
     "url": "/wiki/entities/williamdurant/"
+  },
+  "WilliamEwartGladstone": {
+    "title": "William Ewart Gladstone",
+    "url": "/wiki/entities/williamewartgladstone/"
   },
   "WilliamFranklin": {
     "title": "William Franklin",

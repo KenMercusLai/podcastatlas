@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 9223
+wiki_total_pages: 9226
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -197,6 +197,9 @@ wiki_pages:
   - key: "ImperialMarriageInspection"
     title: "Imperial Marriage Inspection / 皇室婚前身体检视"
     url: "/wiki/concepts/imperialmarriageinspection/"
+  - key: "ImperialMartyrdomMemory"
+    title: "Imperial Martyrdom Memory"
+    url: "/wiki/concepts/imperialmartyrdommemory/"
   - key: "ImperialMetropolisIntegration"
     title: "Imperial Metropolis Integration"
     url: "/wiki/concepts/imperialmetropolisintegration/"

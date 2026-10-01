@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [142. General Gordon and the Siege of Khartoum](sources/142-general-gordon-and-the-siege-of-khartoum-glt6227664313.md) — The Rest Is History on Gordon's abolitionism, the Mahdist revolt, press-driven mission ambiguity, Khartoum, delayed relief, and imperial martyr memory.
 - [143. The Trial of Charles I Part 1](sources/143-the-trial-of-charles-i-part-1-glt4850801452.md) — The Rest Is History with Ted Vallance on Charles I's rule, renewed civil war, army radicalization, Pride's Purge, and the disputed popular sovereignty behind his trial.
 - [144. The Trial of Charles I Part 2](sources/144-the-trial-of-charles-i-part-2-glt2968292003.md) — The Rest Is History with Ted Vallance on Charles I's extraordinary court, disputed popular sovereignty, scaffold execution, royalist martyrdom, and republican afterlife.
 - [145. Babylon](sources/145-babylon-glt7141377161.md) — The Rest Is History on Neo-Babylonian monumental power, Judean exile, Persian conquest, urban decline, and Babylon's biblical and anti-imperial afterlives.
@@ -3662,8 +3663,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Elizabeth Everest](entities/ElizabethEverest.md) — Churchill's nanny and the most dependable source of affection in the episode's childhood account.
 - [Lord Randolph Churchill](entities/LordRandolphChurchill.md) — Winston Churchill's admired but critical father, whose death intensified the episode's account of Winston's drive for achievement.
 - [Burke Cochran](entities/BurkeCochran.md) — American congressman and orator presented as an important model for Churchill's public speaking.
-- [Herbert Kitchener](entities/HerbertKitchener.md) — Sudan commander whose military victory and treatment of the defeated drew Churchill's criticism.
-- [Battle of Omdurman](entities/BattleOfOmdurman.md) — 1898 battle where cavalry spectacle and industrial imperial firepower produced victory, slaughter, and moral revulsion.
+- [Herbert Kitchener](entities/HerbertKitchener.md) — Sudan commander whose anti-French reconquest wore a Gordon-revenge frame while industrial victory and post-battle conduct drew criticism.
+- [Battle of Omdurman](entities/BattleOfOmdurman.md) — 1898 battle joining cavalry spectacle, industrial slaughter, Gordon-revenge memory, anti-French strategy, and contested aftermath.
 - [Malakand Campaign](entities/MalakandCampaign.md) — 1897 frontier campaign joining Churchill's soldier-correspondent opportunity to admiration for opponents and doubt about punitive war.
 - [Boer War](entities/BoerWar.md) — South African imperial conflict joining Boer independence, British expansion, mineral interests, military adaptation, and Churchill's early celebrity.
 - [Cecil Rhodes](entities/CecilRhodes.md) — Mining magnate and expansionist whose Cape-to-Cairo vision and Jameson Raid role frame the Boer War's imperial prehistory.
@@ -4223,7 +4224,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Bubbles the Chimpanzee](entities/BubblesChimpanzee.md) — Celebrity chimpanzee whose path from infant pet to sanctuary exposes the limits of humanized private ownership.
 - [Cal Newport](entities/CalNewport.md) — computer science professor and author connecting attention design, deep work, digital minimalism, and sustainable knowledge-work systems.
 - [John Jacob Astor IV](entities/JohnJacobAstor.md) — Gilded Age millionaire connecting Titanic's first class to New York wealth and luxury hospitality.
-- [W. T. Stead](entities/WTStead.md) — Late-Victorian editor, campaigner, sensationalist, and spiritualist aboard Titanic.
+- [W. T. Stead](entities/WTStead.md) — Late-Victorian editor whose Gordon campaign demonstrated press-driven policy pressure before his later Titanic voyage.
 - [Joseph Laroche](entities/JosephLaroche.md) — Haitian engineer whose family widened Titanic's second-class and migration story.
 - [E.J. Chichilnisky](entities/EJChichilnisky.md) — retinal neuroscientist linking human retinal recording and cell-type identification to adaptive vision-restoring implants.
 - [Harland & Wolff](entities/HarlandAndWolff.md) — Belfast shipbuilder whose engineering system produced Titanic within contemporary safety rules and Home Rule politics.
@@ -4559,7 +4560,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Joseph Conrad](entities/JosephConrad.md) — Polish-born British sailor-writer whose 1890 Congo experience became the basis for Heart of Darkness.
 - [Heart of Darkness](entities/HeartOfDarkness.md) — Conrad's modernist novella exposing colonial violence while remaining contested for its representation of Africans.
 - [Congo Free State](entities/CongoFreeState.md) — Leopold II's personal colonial regime, exposed through literary witness, commercial records, testimony, official investigation, and international campaigning.
-- [Leopold II](entities/LeopoldII.md) — Belgian king whose coercive Congo regime and transnational counter-campaign ended in compensated annexation.
+- [Leopold II](entities/LeopoldII.md) — Belgian king who sought Gordon's humanitarian prestige before defending his coercive Congo regime through propaganda and lobbying.
 - [Roger Casement](entities/RogerCasement.md) — Consular investigator whose documentary report and alliance with Morel helped turn Congo abuse into an international reform campaign.
 - [Edmund Dene Morel](entities/EdmundDeneMorel.md) — Shipping clerk, journalist, and organizer who converted trade anomalies and testimony into sustained pressure against Leopold's Congo.
 - [Congo Reform Association](entities/CongoReformAssociation.md) — International organization that joined documentary evidence, public meetings, media, elite patrons, and lobbying against Congo abuses.
@@ -9416,8 +9417,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gerontocracy in America](entities/GerontocracyInAmerica.md) — Samuel Moyn book used by the source to frame older Americans' hold on jobs, wealth, housing, and authority.
 - [Edward Lazear](entities/EdwardLazear.md) — Economist whose deferred-compensation model explains the implicit-contract argument for mandatory retirement endpoints.
 - [Tom Gardner](entities/TomGardner.md) — The Intelligence correspondent grounding the Sudan segment in Khartoum reporting, foreign sponsorship, drone warfare, and ceasefire enforcement risk.
-- [Sudan](entities/Sudan.md) — Country case for a foreign-backed civil war whose capital recapture has not ended humanitarian crisis, drone attacks, or fragmented ceasefire obstacles.
-- [Khartoum](entities/Khartoum.md) — Sudanese capital described after the army's return as devastated, empty, looted, and not yet evidence of national recovery.
+- [Sudan](entities/Sudan.md) — Country represented through a 19th-century imperial-Mahdist crisis and a distinct contemporary foreign-backed civil war.
+- [Khartoum](entities/Khartoum.md) — Sudanese capital whose historical siege and contemporary devastation both qualify capital-centered victory narratives.
 - [Rapid Support Forces](entities/RapidSupportForces.md) — RSF armed camp controlling much of western Sudan, especially Darfur, and alleged in the source to receive UAE backing that the UAE denies.
 - [Sudanese Armed Forces](entities/SudaneseArmedForces.md) — SAF armed camp that retook Khartoum and is described as receiving support from Saudi Arabia, Egypt, and especially Turkey.
 - [Darfur](entities/Darfur.md) — Western Sudanese region central to the RSF's remaining territorial position in the source.
@@ -15388,6 +15389,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ted Vallance](entities/TedVallance.md) — Historian interpreting Charles I's trial through law, war, sovereignty, public performance, and contested memory.
 - [John Bradshaw](entities/JohnBradshaw.md) — Lawyer who presided over the extraordinary High Court that tried Charles I.
 
+- [General Gordon](entities/CharlesGeorgeGordon.md) — Evangelical abolitionist, imperial administrator, besieged commander, and Victorian martyr whose sincerity coexisted with strategic impracticality.
+- [Muhammad Ahmad](entities/MuhammadAhmad.md) — Sudanese Mahdi whose religious-political movement captured Khartoum and exceeded Gordon's slavery-centered interpretation.
+- [William Ewart Gladstone](entities/WilliamEwartGladstone.md) — Liberal prime minister caught between abolitionist pressure, imperial restraint, mission ambiguity, and blame for delayed relief.
+- [Garnet Wolseley](entities/GarnetWolseley.md) — Gordon ally and relief commander joining intervention advocacy, military interest, logistical failure, and heroic memory-making.
+- [Siege of Khartoum](entities/SiegeOfKhartoum.md) — 1884-1885 siege where an ambiguous mission ended in Mahdist victory, Gordon's death, and a powerful betrayal narrative.
+
 ## Concepts
 - [Babylonian Exile Identity Formation](concepts/BabylonianExileIdentityFormation.md) — How conquest, Temple loss, elite deportation, textual work, and religious boundary-making sharpened Judean identity.
 - [Babylon as Imperial Metaphor](concepts/BabylonAsImperialMetaphor.md) — Reuse of Babylon as a symbol of wealthy, coercive, idolatrous power destined for reversal.
@@ -16510,7 +16517,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sudden Cardiac Death Risk Stratification / 心脏性猝死风险分层](concepts/SuddenCardiacDeathRiskStratification.md) — Primary-versus-secondary prevention framework matching catastrophic arrhythmic risk to intervention burden.
 - [Cardiac Implantable Device Differentiation / 心脏植入装置功能区分](concepts/CardiacImplantableDeviceDifferentiation.md) — Physiology-to-device map separating pacing, defibrillation, resynchronization, monitoring, public rescue, and pump support.
 - [Remote Cardiac Monitoring and Warning / 远程心脏监测与预警](concepts/RemoteCardiacMonitoringAndWarning.md) — Longitudinal sensing and alert model whose value depends on validation and an accountable clinical response workflow.
-- [Imperial Civilising-Mission Contradiction](concepts/ImperialCivilisingMissionContradiction.md) — Gap between humanitarian colonial rhetoric and coercive extraction, including reforms that change sovereignty without dismantling the system.
+- [Imperial Civilising-Mission Contradiction](concepts/ImperialCivilisingMissionContradiction.md) — Gap between humanitarian colonial legitimacy and coercive extraction, including borrowed reformer prestige and incomplete systemic reform.
 - [Evidence-Driven Human Rights Campaign](concepts/EvidenceDrivenHumanRightsCampaign.md) — Reform model joining documentary proof, witness testimony, images, media, organization, and political access.
 - [Colonial Literary Ambivalence](concepts/ColonialLiteraryAmbivalence.md) — A work's capacity to indict empire while retaining racial hierarchy, silenced perspectives, or an imperial political horizon.
 - [Narrative Frame and Authorial Distance](concepts/NarrativeFrameAuthorDistance.md) — Interpretive distance between author and framed speaker that complicates attribution without erasing textual responsibility.
@@ -24662,5 +24669,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Interruption Boundary Design](concepts/InterruptionBoundaryDesign.md) — Layered use of layout, social signals, software controls, and device separation to protect focus and reduce re-entry cost.
 - [Active Workstation Task Tradeoff](concepts/ActiveWorkstationTaskTradeoff.md) — Task-specific distinction between attention benefits and verbal-memory costs during standing, treadmill, or cycling work.
 - [Political Trial as Sovereignty Performance](concepts/PoliticalTrialSovereigntyPerformance.md) — How jurisdiction, legal improvisation, hierarchy, audience, testimony, and security enact a disputed claim to judge a sovereign.
+
+- [Humanitarian Imperial Intervention](concepts/HumanitarianImperialIntervention.md) — Sincere moral purpose operating through imperial institutions whose strategic interests and coercive powers remain active.
+- [Mass Press Imperial Policy Pressure](concepts/MassPressImperialPolicyPressure.md) — Media personalization that makes action politically urgent before mission, authority, and means are coherent.
+- [Imperial Martyrdom Memory](concepts/ImperialMartyrdomMemory.md) — Conversion of defeat and a celebrated death into sanctity, betrayal, blame, and support for later force.
 
 ## Syntheses

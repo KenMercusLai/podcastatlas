@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3005
+topic_total_pages: 3007
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1531,6 +1531,9 @@ topic_concepts:
   - key: "ImperialExaminationOpportunityEquality"
     title: "Imperial Examination Opportunity Equality / 科举与机会平等"
     url: "/wiki/concepts/imperialexaminationopportunityequality/"
+  - key: "ImperialMartyrdomMemory"
+    title: "Imperial Martyrdom Memory"
+    url: "/wiki/concepts/imperialmartyrdommemory/"
   - key: "IncidentalExposure"
     title: "Incidental Exposure / 偶然暴露"
     url: "/wiki/concepts/incidentalexposure/"
@@ -1789,6 +1792,9 @@ topic_concepts:
   - key: "MassParticipationSportsEventMoat"
     title: "Mass Participation Sports Event Moat"
     url: "/wiki/concepts/massparticipationsportseventmoat/"
+  - key: "MassPressImperialPolicyPressure"
+    title: "Mass Press Imperial Policy Pressure"
+    url: "/wiki/concepts/masspressimperialpolicypressure/"
   - key: "MediaAIRescueStrategy"
     title: "Media AI Rescue Strategy"
     url: "/wiki/concepts/mediaairescuestrategy/"

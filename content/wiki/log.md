@@ -27283,3 +27283,11 @@ Added source `143-the-trial-of-charles-i-part-1-glt4850801452`; resynthesized `C
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | 142. General Gordon and the Siege of Khartoum
+
+Added source `142-general-gordon-and-the-siege-of-khartoum-glt6227664313`; created `CharlesGeorgeGordon`, `MuhammadAhmad`, `WilliamEwartGladstone`, `GarnetWolseley`, `SiegeOfKhartoum`, `HumanitarianImperialIntervention`, `MassPressImperialPolicyPressure`, and `ImperialMartyrdomMemory`; and resynthesized `WTStead`, `HerbertKitchener`, `BattleOfOmdurman`, `Sudan`, `Khartoum`, `LeopoldII`, and `ImperialCivilisingMissionContradiction` from their complete preserved evidence inventories. Core synthesis: Gordon's abolitionism and courage were genuine, but moral celebrity, mass-press pressure, an unstable inquiry-evacuation-government mandate, imperial interests, and delayed relief turned the Khartoum mission into disaster; his death then became a betrayal and revenge narrative later attached to Omdurman despite the reconquest's anti-French strategy. No settled contradiction was adopted. Sudanese and Mahdist perspectives, Gordon's mental state and private motives, exact instructions, casualty totals, relief alternatives, circumstances of death, and the causal weight of press pressure remain limited, disputed, or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,409-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2968
+topic_total_pages: 2970
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2344,6 +2344,9 @@ topic_concepts:
   - key: "MassPoliticalCampaigning"
     title: "Mass Political Campaigning"
     url: "/wiki/concepts/masspoliticalcampaigning/"
+  - key: "MassPressImperialPolicyPressure"
+    title: "Mass Press Imperial Policy Pressure"
+    url: "/wiki/concepts/masspressimperialpolicypressure/"
   - key: "MassProducedAIIntimacy"
     title: "Mass-Produced AI Intimacy"
     url: "/wiki/concepts/massproducedaiintimacy/"
@@ -7271,6 +7274,9 @@ topic_entities:
   - key: "WilliamCraig"
     title: "William Craig"
     url: "/wiki/entities/williamcraig/"
+  - key: "WilliamEwartGladstone"
+    title: "William Ewart Gladstone"
+    url: "/wiki/entities/williamewartgladstone/"
   - key: "WilliamLanday"
     title: "William Landay"
     url: "/wiki/entities/williamlanday/"

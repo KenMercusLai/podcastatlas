@@ -19455,9 +19455,9 @@
       "url": "/wiki/entities/battleofnarva/"
     },
     "BattleOfOmdurman": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4710302249 [GLT4710302249].md",
@@ -19465,9 +19465,16 @@
           "show": "The Rest Is History",
           "title": "240. Young Churchill: Soldier of Empire (Part 2)",
           "url": "/wiki/sources/240-young-churchill-soldier-of-empire-part-2-glt4710302249/"
+        },
+        {
+          "episode_file": "GLT6227664313 [GLT6227664313].md",
+          "key": "142-general-gordon-and-the-siege-of-khartoum-glt6227664313",
+          "show": "The Rest Is History",
+          "title": "142. General Gordon and the Siege of Khartoum",
+          "url": "/wiki/sources/142-general-gordon-and-the-siege-of-khartoum-glt6227664313/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/battleofomdurman/"
     },
     "BattleOfPhilippi": {
@@ -30865,6 +30872,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/entities/charlesfrancoisdumouriez/"
+    },
+    "CharlesGeorgeGordon": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6227664313 [GLT6227664313].md",
+          "key": "142-general-gordon-and-the-siege-of-khartoum-glt6227664313",
+          "show": "The Rest Is History",
+          "title": "142. General Gordon and the Siege of Khartoum",
+          "url": "/wiki/sources/142-general-gordon-and-the-siege-of-khartoum-glt6227664313/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/charlesgeorgegordon/"
     },
     "CharlesHenriSanson": {
       "episode_count": 1,
@@ -75139,6 +75162,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/garethsouthgate/"
     },
+    "GarnetWolseley": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6227664313 [GLT6227664313].md",
+          "key": "142-general-gordon-and-the-siege-of-khartoum-glt6227664313",
+          "show": "The Rest Is History",
+          "title": "142. General Gordon and the Siege of Khartoum",
+          "url": "/wiki/sources/142-general-gordon-and-the-siege-of-khartoum-glt6227664313/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/garnetwolseley/"
+    },
     "GarrettBoone": {
       "episode_count": 1,
       "show_count": 1,
@@ -86987,9 +87026,9 @@
       "url": "/wiki/concepts/herbalsupplementlivertoxicity/"
     },
     "HerbertKitchener": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4710302249 [GLT4710302249].md",
@@ -86997,9 +87036,16 @@
           "show": "The Rest Is History",
           "title": "240. Young Churchill: Soldier of Empire (Part 2)",
           "url": "/wiki/sources/240-young-churchill-soldier-of-empire-part-2-glt4710302249/"
+        },
+        {
+          "episode_file": "GLT6227664313 [GLT6227664313].md",
+          "key": "142-general-gordon-and-the-siege-of-khartoum-glt6227664313",
+          "show": "The Rest Is History",
+          "title": "142. General Gordon and the Siege of Khartoum",
+          "url": "/wiki/sources/142-general-gordon-and-the-siege-of-khartoum-glt6227664313/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/herbertkitchener/"
     },
     "HerbertSimon": {
@@ -93016,6 +93062,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/humanitarianaidfundingshortfall/"
     },
+    "HumanitarianImperialIntervention": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6227664313 [GLT6227664313].md",
+          "key": "142-general-gordon-and-the-siege-of-khartoum-glt6227664313",
+          "show": "The Rest Is History",
+          "title": "142. General Gordon and the Siege of Khartoum",
+          "url": "/wiki/sources/142-general-gordon-and-the-siege-of-khartoum-glt6227664313/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/humanitarianimperialintervention/"
+    },
     "HumanitarianWitnessingBoundary": {
       "episode_count": 1,
       "show_count": 1,
@@ -95074,9 +95136,9 @@
       "url": "/wiki/concepts/imperialcenterrelocation/"
     },
     "ImperialCivilisingMissionContradiction": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5482142786 [GLT5482142786].md",
@@ -95091,9 +95153,16 @@
           "show": "The Rest Is History",
           "title": "540. Horror in the Congo: A Conspiracy Unmasked (Part 3)",
           "url": "/wiki/sources/540-horror-in-the-congo-a-conspiracy-unmasked-part-3-glt5172130471/"
+        },
+        {
+          "episode_file": "GLT6227664313 [GLT6227664313].md",
+          "key": "142-general-gordon-and-the-siege-of-khartoum-glt6227664313",
+          "show": "The Rest Is History",
+          "title": "142. General Gordon and the Siege of Khartoum",
+          "url": "/wiki/sources/142-general-gordon-and-the-siege-of-khartoum-glt6227664313/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/imperialcivilisingmissioncontradiction/"
     },
     "ImperialClanFiscalBurden": {
@@ -95417,6 +95486,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/imperialmarriageinspection/"
+    },
+    "ImperialMartyrdomMemory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6227664313 [GLT6227664313].md",
+          "key": "142-general-gordon-and-the-siege-of-khartoum-glt6227664313",
+          "show": "The Rest Is History",
+          "title": "142. General Gordon and the Siege of Khartoum",
+          "url": "/wiki/sources/142-general-gordon-and-the-siege-of-khartoum-glt6227664313/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/imperialmartyrdommemory/"
     },
     "ImperialMetropolisIntegration": {
       "episode_count": 2,
@@ -107335,6 +107420,29 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/kharosthiniyadocuments/"
     },
+    "Khartoum": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Outsider chance： ending Sudan’s proxy war [6a75b3695d765781a2b1b132].md",
+          "key": "outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132",
+          "show": "Economist Podcasts",
+          "title": "Outsider chance: ending Sudan's proxy war",
+          "url": "/wiki/sources/outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132/"
+        },
+        {
+          "episode_file": "GLT6227664313 [GLT6227664313].md",
+          "key": "142-general-gordon-and-the-siege-of-khartoum-glt6227664313",
+          "show": "The Rest Is History",
+          "title": "142. General Gordon and the Siege of Khartoum",
+          "url": "/wiki/sources/142-general-gordon-and-the-siege-of-khartoum-glt6227664313/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/khartoum/"
+    },
     "KhmerRouge": {
       "episode_count": 1,
       "show_count": 1,
@@ -111586,9 +111694,9 @@
       "url": "/wiki/entities/leopoldberchtold/"
     },
     "LeopoldII": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5482142786 [GLT5482142786].md",
@@ -111603,9 +111711,16 @@
           "show": "The Rest Is History",
           "title": "540. Horror in the Congo: A Conspiracy Unmasked (Part 3)",
           "url": "/wiki/sources/540-horror-in-the-congo-a-conspiracy-unmasked-part-3-glt5172130471/"
+        },
+        {
+          "episode_file": "GLT6227664313 [GLT6227664313].md",
+          "key": "142-general-gordon-and-the-siege-of-khartoum-glt6227664313",
+          "show": "The Rest Is History",
+          "title": "142. General Gordon and the Siege of Khartoum",
+          "url": "/wiki/sources/142-general-gordon-and-the-siege-of-khartoum-glt6227664313/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/leopoldii/"
     },
     "LeopoldoGaltieri": {
@@ -126604,6 +126719,22 @@
       "updated": "2026-09-25",
       "url": "/wiki/concepts/masspoliticalcampaigning/"
     },
+    "MassPressImperialPolicyPressure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6227664313 [GLT6227664313].md",
+          "key": "142-general-gordon-and-the-siege-of-khartoum-glt6227664313",
+          "show": "The Rest Is History",
+          "title": "142. General Gordon and the Siege of Khartoum",
+          "url": "/wiki/sources/142-general-gordon-and-the-siege-of-khartoum-glt6227664313/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/masspressimperialpolicypressure/"
+    },
     "MassProducedAIIntimacy": {
       "episode_count": 1,
       "show_count": 1,
@@ -133841,6 +133972,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/muhammad/"
+    },
+    "MuhammadAhmad": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6227664313 [GLT6227664313].md",
+          "key": "142-general-gordon-and-the-siege-of-khartoum-glt6227664313",
+          "show": "The Rest Is History",
+          "title": "142. General Gordon and the Siege of Khartoum",
+          "url": "/wiki/sources/142-general-gordon-and-the-siege-of-khartoum-glt6227664313/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/muhammadahmad/"
     },
     "MultiAgentCollaboration": {
       "episode_count": 9,
@@ -173785,6 +173932,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/siegeeconomystrategy/"
     },
+    "SiegeOfKhartoum": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6227664313 [GLT6227664313].md",
+          "key": "142-general-gordon-and-the-siege-of-khartoum-glt6227664313",
+          "show": "The Rest Is History",
+          "title": "142. General Gordon and the Siege of Khartoum",
+          "url": "/wiki/sources/142-general-gordon-and-the-siege-of-khartoum-glt6227664313/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/siegeofkhartoum/"
+    },
     "SiegeOfTenochtitlan": {
       "episode_count": 2,
       "show_count": 1,
@@ -181874,6 +182037,29 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/successionnondesignationrisk/"
+    },
+    "Sudan": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Outsider chance： ending Sudan’s proxy war [6a75b3695d765781a2b1b132].md",
+          "key": "outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132",
+          "show": "Economist Podcasts",
+          "title": "Outsider chance: ending Sudan's proxy war",
+          "url": "/wiki/sources/outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132/"
+        },
+        {
+          "episode_file": "GLT6227664313 [GLT6227664313].md",
+          "key": "142-general-gordon-and-the-siege-of-khartoum-glt6227664313",
+          "show": "The Rest Is History",
+          "title": "142. General Gordon and the Siege of Khartoum",
+          "url": "/wiki/sources/142-general-gordon-and-the-siege-of-khartoum-glt6227664313/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/sudan/"
     },
     "SuddenCardiacDeathRiskStratification": {
       "episode_count": 1,
@@ -197248,9 +197434,9 @@
       "url": "/wiki/concepts/wiplimitpersonalproductivity/"
     },
     "WTStead": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1273657377 [GLT1273657377].md",
@@ -197258,9 +197444,16 @@
           "show": "The Rest Is History",
           "title": "429. Titanic: Countdown to Disaster (Part 3)",
           "url": "/wiki/sources/429-titanic-countdown-to-disaster-part-3-glt1273657377/"
+        },
+        {
+          "episode_file": "GLT6227664313 [GLT6227664313].md",
+          "key": "142-general-gordon-and-the-siege-of-khartoum-glt6227664313",
+          "show": "The Rest Is History",
+          "title": "142. General Gordon and the Siege of Khartoum",
+          "url": "/wiki/sources/142-general-gordon-and-the-siege-of-khartoum-glt6227664313/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/wtstead/"
     },
     "WahahaADCalciumMilk": {
@@ -202434,6 +202627,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/williamcecil/"
+    },
+    "WilliamEwartGladstone": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6227664313 [GLT6227664313].md",
+          "key": "142-general-gordon-and-the-siege-of-khartoum-glt6227664313",
+          "show": "The Rest Is History",
+          "title": "142. General Gordon and the Siege of Khartoum",
+          "url": "/wiki/sources/142-general-gordon-and-the-siege-of-khartoum-glt6227664313/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/williamewartgladstone/"
     },
     "WilliamFranklin": {
       "episode_count": 1,

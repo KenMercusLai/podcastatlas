@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 11880
+wiki_total_pages: 11885
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -1649,6 +1649,9 @@ wiki_pages:
   - key: "CzechRepublic"
     title: "Czech Republic / 捷克"
     url: "/wiki/entities/czechrepublic/"
+  - key: "CharlesGeorgeGordon"
+    title: "General Gordon"
+    url: "/wiki/entities/charlesgeorgegordon/"
   - key: "ChimeiRebellion"
     title: "Red Eyebrows / 赤眉"
     url: "/wiki/entities/chimeirebellion/"

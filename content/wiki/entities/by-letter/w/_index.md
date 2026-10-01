@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 11880
+wiki_total_pages: 11885
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -539,6 +539,9 @@ wiki_pages:
   - key: "WilliamDurant"
     title: "William Durant / 威廉·杜兰特"
     url: "/wiki/entities/williamdurant/"
+  - key: "WilliamEwartGladstone"
+    title: "William Ewart Gladstone"
+    url: "/wiki/entities/williamewartgladstone/"
   - key: "WilliamFranklin"
     title: "William Franklin"
     url: "/wiki/entities/williamfranklin/"
