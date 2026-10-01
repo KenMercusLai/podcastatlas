@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 11874
+wiki_total_pages: 11875
 wiki_pages:
   - key: "IHaveADreamSpeech"
     title: "I Have a Dream Speech"
@@ -32,6 +32,9 @@ wiki_pages:
   - key: "IBMDataStage"
     title: "IBM DataStage"
     url: "/wiki/entities/ibmdatastage/"
+  - key: "IbnFadlan"
+    title: "Ibn Fadlan"
+    url: "/wiki/entities/ibnfadlan/"
   - key: "IbrahimAlmohanna"
     title: "Ibrahim Almohanna"
     url: "/wiki/entities/ibrahimalmohanna/"

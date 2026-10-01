@@ -27231,3 +27231,11 @@ Added source `using-play-to-rewire-improve-your-brain-scim9321743392`; created `
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | 148. The Vikings Go East
+
+Added source `148-the-vikings-go-east-glt1476178706`; created `IbnFadlan`; and resynthesized `KievanRus`, `VikingEasternRoutes`, and `VikingRitualViolence` from their complete preserved evidence inventories. Core synthesis: the eastern Viking world was a seasonal river-and-portage system linking mixed Scandinavian-Slavic settlements to Byzantine and Abbasid markets through forts, furs, silver, slavery, and coercive labor, while Ibn Fadlan's vivid Volga funeral is powerful but culturally situated evidence for one elite rite rather than a universal Viking practice. No settled contradiction was adopted. Rus etymology and ethnicity, route priority, slave-trade scale, the post-965 westward shift, ritual representativeness, and modern nationalist ownership claims remain qualified or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,402-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

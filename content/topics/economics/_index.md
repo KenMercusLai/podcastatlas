@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2156
+topic_total_pages: 2157
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -5661,6 +5661,9 @@ topic_sources:
   - key: "146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu"
     title: "146.美国经济这么差，美股还能继续涨吗 | 串台《美轮美换》"
     url: "/wiki/sources/146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu/"
+  - key: "148-the-vikings-go-east-glt1476178706"
+    title: "148. The Vikings Go East"
+    url: "/wiki/sources/148-the-vikings-go-east-glt1476178706/"
   - key: "151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1"
     title: "151.私募信贷Private Credit：加速AI建设的“天使”，还是诱发金融危机的“恶魔”？"
     url: "/wiki/sources/151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [148. The Vikings Go East](sources/148-the-vikings-go-east-glt1476178706.md) — The Rest Is History on eastern Viking river trade, Rus formation, Abbasid silver, slavery, Ibn Fadlan, and the modern politics of Rus origins.
 - [149. The Birth of Russia](sources/149-the-birth-of-russia-glt2354182753.md) — The Rest Is History episode on Scandinavian-Rus trade and rule, Primary Chronicle uncertainty, Byzantine Christianization, and Harald Hardrada's eastern career.
 - [150. Smuggling](sources/150-smuggling-glt2228422151.md) — The Rest Is History with Alex Preston on British smuggling, taxation, Kent and Sussex gangs, the Hawkhurst gang, local resistance, literary myth, and modern people-smuggling comparisons.
 - [151. Valentine's Day](sources/151-valentines-day-glt1795443565.md) — The Rest Is History on uncertain saints, weak Lupercalia continuity, Chaucer's bird-mating poetry, Valentine customs, cards, postal reform, and vinegar valentines.
@@ -4603,6 +4604,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Olaf II of Norway](entities/OlafIIOfNorway.md) — Christian Norwegian king whose defeat and later martyr cult make Stiklestad both a dynastic rupture and the opening of Harald Hardrada's exile.
 - [Yaroslav the Wise](entities/YaroslavTheWise.md) — Kievan Rus ruler who receives Harald, employs him in the druzhina, and links marriage eligibility to wealth and reputation.
 - [Kievan Rus](entities/KievanRus.md) — Urban, commercial, Christian polity connecting Scandinavian mobility to river trade, military service, and Byzantium.
+- [Ibn Fadlan](entities/IbnFadlan.md) — Abbasid envoy whose Volga account describes Rus traders and a violent elite ship funeral.
 - [Magnus the Good](entities/MagnusTheGood.md) — Norwegian and Danish king whose wealth-backed accommodation with Harald Hardrada briefly creates shared rule before Harald's sole succession.
 - [吴浩天 / Wu Haotian (Anesthesiologist)](entities/WuHaotianAnesthesiologist.md) — Anesthesiologist and Luffy医学频道 founder explaining continuous monitoring, airway safety, and recovery during painless gastrointestinal endoscopy.
 - [蒋永亮 / Jiang Yongliang](entities/JiangYongliang.md) — Gastroenterologist explaining digestive symptoms, cancer warning signs, endoscopy, pathology, imaging context, and follow-up.

@@ -94213,6 +94213,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/concepts/iberianreconquista/"
     },
+    "IbnFadlan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1476178706 [GLT1476178706].md",
+          "key": "148-the-vikings-go-east-glt1476178706",
+          "show": "The Rest Is History",
+          "title": "148. The Vikings Go East",
+          "url": "/wiki/sources/148-the-vikings-go-east-glt1476178706/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/ibnfadlan/"
+    },
     "Iceni": {
       "episode_count": 1,
       "show_count": 1,
@@ -107306,9 +107322,9 @@
       "url": "/wiki/entities/khwarazmianempire/"
     },
     "KievanRus": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT8286135160 [GLT8286135160].md",
@@ -107330,6 +107346,13 @@
           "show": "The Rest Is History",
           "title": "149. The Birth of Russia",
           "url": "/wiki/sources/149-the-birth-of-russia-glt2354182753/"
+        },
+        {
+          "episode_file": "GLT1476178706 [GLT1476178706].md",
+          "key": "148-the-vikings-go-east-glt1476178706",
+          "show": "The Rest Is History",
+          "title": "148. The Vikings Go East",
+          "url": "/wiki/sources/148-the-vikings-go-east-glt1476178706/"
         }
       ],
       "updated": "2026-10-02",
@@ -195931,9 +195954,9 @@
       "url": "/wiki/concepts/vikingageworldview/"
     },
     "VikingEasternRoutes": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT8286135160 [GLT8286135160].md",
@@ -195948,15 +195971,22 @@
           "show": "The Rest Is History",
           "title": "149. The Birth of Russia",
           "url": "/wiki/sources/149-the-birth-of-russia-glt2354182753/"
+        },
+        {
+          "episode_file": "GLT1476178706 [GLT1476178706].md",
+          "key": "148-the-vikings-go-east-glt1476178706",
+          "show": "The Rest Is History",
+          "title": "148. The Vikings Go East",
+          "url": "/wiki/sources/148-the-vikings-go-east-glt1476178706/"
         }
       ],
       "updated": "2026-10-02",
       "url": "/wiki/concepts/vikingeasternroutes/"
     },
     "VikingRitualViolence": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1200485419 [GLT1200485419].md",
@@ -195964,6 +195994,13 @@
           "show": "The Rest Is History",
           "title": "358: Viking Sorcery",
           "url": "/wiki/sources/358-viking-sorcery-glt1200485419/"
+        },
+        {
+          "episode_file": "GLT1476178706 [GLT1476178706].md",
+          "key": "148-the-vikings-go-east-glt1476178706",
+          "show": "The Rest Is History",
+          "title": "148. The Vikings Go East",
+          "url": "/wiki/sources/148-the-vikings-go-east-glt1476178706/"
         }
       ],
       "updated": "2026-09-28",

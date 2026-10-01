@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2351
+topic_total_pages: 2352
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4806,6 +4806,9 @@ topic_sources:
   - key: "14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285"
     title: "14.武士威廉：大航海时代的日本和西方"
     url: "/wiki/sources/14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285/"
+  - key: "148-the-vikings-go-east-glt1476178706"
+    title: "148. The Vikings Go East"
+    url: "/wiki/sources/148-the-vikings-go-east-glt1476178706/"
   - key: "149-the-birth-of-russia-glt2354182753"
     title: "149. The Birth of Russia"
     url: "/wiki/sources/149-the-birth-of-russia-glt2354182753/"
