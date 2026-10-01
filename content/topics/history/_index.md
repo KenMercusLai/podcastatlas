@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2288
+topic_total_pages: 2292
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1213,6 +1213,9 @@ topic_concepts:
   - key: "StealingTigerTalliesToRescueZhao"
     title: "Stealing Tiger Tallies to Rescue Zhao / 窃符救赵"
     url: "/wiki/concepts/stealingtigertalliestorescuezhao/"
+  - key: "StonehengeRitualLandscape"
+    title: "Stonehenge Ritual Landscape"
+    url: "/wiki/concepts/stonehengerituallandscape/"
   - key: "StrategicCapitalRelocation"
     title: "Strategic Capital Relocation / 战略性迁都"
     url: "/wiki/concepts/strategiccapitalrelocation/"
@@ -1901,6 +1904,9 @@ topic_entities:
   - key: "DongZhongshu"
     title: "Dong Zhongshu / 董仲舒"
     url: "/wiki/entities/dongzhongshu/"
+  - key: "DurringtonWalls"
+    title: "Durrington Walls"
+    url: "/wiki/entities/durringtonwalls/"
   - key: "EdwardThreate"
     title: "Edward Threate"
     url: "/wiki/entities/edwardthreate/"
@@ -2183,6 +2189,9 @@ topic_entities:
   - key: "StacySchiff"
     title: "Stacy Schiff / 斯泰西·西夫"
     url: "/wiki/entities/stacyschiff/"
+  - key: "Stonehenge"
+    title: "Stonehenge"
+    url: "/wiki/entities/stonehenge/"
   - key: "SukhothaiKingdom"
     title: "Sukhothai Kingdom / 苏可泰王朝"
     url: "/wiki/entities/sukhothaikingdom/"
@@ -4776,6 +4785,9 @@ topic_sources:
   - key: "171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962"
     title: "171.闲聊十二生肖之马：观音大士的兴趣爱好,及老头环角色的灵感"
     url: "/wiki/sources/171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962/"
+  - key: "199-stonehenge-glt3612348466"
+    title: "199. Stonehenge"
+    url: "/wiki/sources/199-stonehenge-glt3612348466/"
   - key: "200-american-civil-war-the-causes-part-1-glt1124511401"
     title: "200: American Civil War: The Causes (Part 1)"
     url: "/wiki/sources/200-american-civil-war-the-causes-part-1-glt1124511401/"

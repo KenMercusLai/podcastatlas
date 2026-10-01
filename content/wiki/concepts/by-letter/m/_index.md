@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9086
+wiki_total_pages: 9088
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1199,6 +1199,9 @@ wiki_pages:
   - key: "MonsoonSeasonalSocialOrder"
     title: "Monsoon Seasonal Social Order / 季风季节性社会秩序"
     url: "/wiki/concepts/monsoonseasonalsocialorder/"
+  - key: "MonumentBuildingAsSocialCoordination"
+    title: "Monument Building as Social Coordination"
+    url: "/wiki/concepts/monumentbuildingassocialcoordination/"
   - key: "MonumentalDynasticLegitimation"
     title: "Monumental Dynastic Legitimation"
     url: "/wiki/concepts/monumentaldynasticlegitimation/"

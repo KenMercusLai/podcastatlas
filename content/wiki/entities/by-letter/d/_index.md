@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 11734
+wiki_total_pages: 11737
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -935,6 +935,9 @@ wiki_pages:
   - key: "Duoshan"
     title: "Duoshan"
     url: "/wiki/entities/duoshan/"
+  - key: "DurringtonWalls"
+    title: "Durrington Walls"
+    url: "/wiki/entities/durringtonwalls/"
   - key: "DutchEastIndiaCompany"
     title: "Dutch East India Company"
     url: "/wiki/entities/dutcheastindiacompany/"

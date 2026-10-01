@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 11734
+wiki_total_pages: 11737
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1184,6 +1184,9 @@ wiki_pages:
   - key: "MikePavelko"
     title: "Mike Pavelko"
     url: "/wiki/entities/mikepavelko/"
+  - key: "MikePitts"
+    title: "Mike Pitts"
+    url: "/wiki/entities/mikepitts/"
   - key: "MikeRogers"
     title: "Mike Rogers"
     url: "/wiki/entities/mikerogers/"

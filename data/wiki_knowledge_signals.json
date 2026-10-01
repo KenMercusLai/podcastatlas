@@ -13819,9 +13819,9 @@
       "url": "/wiki/entities/aracelisegarra/"
     },
     "ArchaeologicalInterpretationUnderSparseEvidence": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4941340070 [GLT4941340070].md",
@@ -13829,9 +13829,16 @@
           "show": "The Rest Is History",
           "title": "280: Serbia: The Birthplace of Civilisation",
           "url": "/wiki/sources/280-serbia-the-birthplace-of-civilisation-glt4941340070/"
+        },
+        {
+          "episode_file": "GLT3612348466 [GLT3612348466].md",
+          "key": "199-stonehenge-glt3612348466",
+          "show": "The Rest Is History",
+          "title": "199. Stonehenge",
+          "url": "/wiki/sources/199-stonehenge-glt3612348466/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/archaeologicalinterpretationundersparseevidence/"
     },
     "ArchieHall": {
@@ -52095,6 +52102,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/duongvanminh/"
+    },
+    "DurringtonWalls": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3612348466 [GLT3612348466].md",
+          "key": "199-stonehenge-glt3612348466",
+          "show": "The Rest Is History",
+          "title": "199. Stonehenge",
+          "url": "/wiki/sources/199-stonehenge-glt3612348466/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/durringtonwalls/"
     },
     "DushuBuchenglin": {
       "episode_count": 3,
@@ -126347,6 +126370,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/miguelgomez/"
     },
+    "MikePitts": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3612348466 [GLT3612348466].md",
+          "key": "199-stonehenge-glt3612348466",
+          "show": "The Rest Is History",
+          "title": "199. Stonehenge",
+          "url": "/wiki/sources/199-stonehenge-glt3612348466/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/mikepitts/"
+    },
     "MikeSteinberger": {
       "episode_count": 1,
       "show_count": 1,
@@ -128405,6 +128444,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/montoneros/"
+    },
+    "MonumentBuildingAsSocialCoordination": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3612348466 [GLT3612348466].md",
+          "key": "199-stonehenge-glt3612348466",
+          "show": "The Rest Is History",
+          "title": "199. Stonehenge",
+          "url": "/wiki/sources/199-stonehenge-glt3612348466/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/monumentbuildingassocialcoordination/"
     },
     "MonumentalDynasticLegitimation": {
       "episode_count": 2,
@@ -173649,6 +173704,38 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/stoneofscone/"
+    },
+    "Stonehenge": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3612348466 [GLT3612348466].md",
+          "key": "199-stonehenge-glt3612348466",
+          "show": "The Rest Is History",
+          "title": "199. Stonehenge",
+          "url": "/wiki/sources/199-stonehenge-glt3612348466/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/stonehenge/"
+    },
+    "StonehengeRitualLandscape": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3612348466 [GLT3612348466].md",
+          "key": "199-stonehenge-glt3612348466",
+          "show": "The Rest Is History",
+          "title": "199. Stonehenge",
+          "url": "/wiki/sources/199-stonehenge-glt3612348466/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/stonehengerituallandscape/"
     },
     "StonewallJackson": {
       "episode_count": 1,

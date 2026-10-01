@@ -3380,8 +3380,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [202. American Civil War: Gettysburg (Part 3)](sources/202-american-civil-war-gettysburg-part-3-glt5256515778.md) — The Rest Is History episode on Gettysburg, Vicksburg, the Gettysburg Address, Black military service, self-emancipation, the 1864 election, and Appomattox.
 - [201. American Civil War: Outbreak (Part 2)](sources/201-american-civil-war-outbreak-part-2-glt4100428000.md) — The Rest Is History episode on democratic Unionism, Confederate confidence, slavery, industrial-war transition, Antietam, and preliminary emancipation.
 - [200: American Civil War: The Causes (Part 1)](sources/200-american-civil-war-the-causes-part-1-glt1124511401.md) — The Rest Is History episode on slavery's constitutional, economic, territorial, federal, partisan, judicial, and secession mechanisms before Fort Sumter.
+- [199. Stonehenge](sources/199-stonehenge-glt3612348466.md) — The Rest Is History conversation with Mike Pitts on Stonehenge's changing phases, stone transport, burials, solstice alignment, collective construction, and archaeological uncertainty.
 
 ## Entities
+- [Stonehenge](entities/Stonehenge.md) — Changing Neolithic monument and ritual landscape joining Welsh bluestones, local sarsens, cremation burial, solar alignment, and collective building.
+- [Mike Pitts](entities/MikePitts.md) — Archaeologist and writer interpreting Stonehenge through material evidence, social construction, and explicit uncertainty.
+- [Durrington Walls](entities/DurringtonWalls.md) — Neolithic settlement and feasting site that places Stonehenge within a broader lived landscape.
 - [John Brown](entities/JohnBrown.md) — Militant abolitionist whose Kansas violence, Harpers Ferry raid, trial, and execution intensified sectional fear.
 - [Frederick Douglass](entities/FrederickDouglass.md) — Escaped enslaved writer and orator whose abolitionist witness challenged slavery and racist assumptions.
 - [Anthony Burns](entities/AnthonyBurns.md) — Fugitive from slavery whose forced rendition from Boston made federal slave-catching visible in a free state.
@@ -15152,6 +15156,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lucile Desmoulins](entities/LucileDesmoulins.md) — Camille Desmoulins's wife, falsely implicated in a prison plot and executed after the Dantonist trial.
 
 ## Concepts
+- [Stonehenge Ritual Landscape](concepts/StonehengeRitualLandscape.md) — Multi-phase model joining monument, settlement, burial, feasting, mobility, gathering, and solar alignment.
+- [Monument Building as Social Coordination](concepts/MonumentBuildingAsSocialCoordination.md) — View of large construction as organized labor that also produces gathering, shared experience, prestige, and authority.
 - [Civil War Slavery Causation](concepts/CivilWarSlaveryCausation.md) — Mechanism-level account linking slavery to constitutional compromise, expansion, enforcement, party breakdown, secession, and war.
 - [Territorial Slavery Expansion](concepts/TerritorialSlaveryExpansion.md) — Conflict over slavery's western reach that converted continental growth into sectional constitutional crisis.
 - [Fugitive Slave Act Federalism](concepts/FugitiveSlaveActFederalism.md) — Reversal in which slaveholding interests used federal power while Northern resistance invoked state authority.
