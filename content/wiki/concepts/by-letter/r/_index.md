@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 9229
+wiki_total_pages: 9231
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -1253,6 +1253,9 @@ wiki_pages:
   - key: "RoyalJubileeNationalSelfAssessment"
     title: "Royal Jubilee as National Self-Assessment"
     url: "/wiki/concepts/royaljubileenationalselfassessment/"
+  - key: "RoyalMinorityCustodyPolitics"
+    title: "Royal Minority Custody Politics"
+    url: "/wiki/concepts/royalminoritycustodypolitics/"
   - key: "RoyalUsurpationSpeechTaboo"
     title: "Royal Usurpation Speech Taboo / 宗室帝位言说禁忌"
     url: "/wiki/concepts/royalusurpationspeechtaboo/"

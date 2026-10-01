@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2361
+topic_total_pages: 2362
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4806,6 +4806,9 @@ topic_sources:
   - key: "133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110"
     title: "133. IBM与纳粹：为什么普通人不应赞美鸡贼主义"
     url: "/wiki/sources/133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110/"
+  - key: "139-the-princes-in-the-tower-part-2-glt4685691538"
+    title: "139. The Princes in the Tower Part 2"
+    url: "/wiki/sources/139-the-princes-in-the-tower-part-2-glt4685691538/"
   - key: "14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285"
     title: "14.武士威廉：大航海时代的日本和西方"
     url: "/wiki/sources/14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 11894
+wiki_total_pages: 11900
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -164,6 +164,9 @@ wiki_pages:
   - key: "EdwardIIIOfEngland"
     title: "Edward III of England"
     url: "/wiki/entities/edwardiiiofengland/"
+  - key: "EdwardIV"
+    title: "Edward IV"
+    url: "/wiki/entities/edwardiv/"
   - key: "EdwardJonesPsychologist"
     title: "Edward Jones / 爱德华·琼斯"
     url: "/wiki/entities/edwardjonespsychologist/"
@@ -200,6 +203,9 @@ wiki_pages:
   - key: "EdwardThreate"
     title: "Edward Threate"
     url: "/wiki/entities/edwardthreate/"
+  - key: "EdwardV"
+    title: "Edward V"
+    url: "/wiki/entities/edwardv/"
   - key: "EdwardVI"
     title: "Edward VI"
     url: "/wiki/entities/edwardvi/"
@@ -317,6 +323,9 @@ wiki_pages:
   - key: "ElizabethLaird"
     title: "Elizabeth Laird"
     url: "/wiki/entities/elizabethlaird/"
+  - key: "ElizabethWoodville"
+    title: "Elizabeth Woodville"
+    url: "/wiki/entities/elizabethwoodville/"
   - key: "EllisPark"
     title: "Ellis Park"
     url: "/wiki/entities/ellispark/"
