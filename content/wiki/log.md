@@ -26403,3 +26403,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | Tools for Setting & Achieving Goals | Dr. Emily Balcetis
+
+Added source `tools-for-setting-achieving-goals-dr-emily-balcetis-scim4890374571`; resynthesized `EmilyBalcetis`, `VisualFocusEffortTool`, `GoalPursuitBehaviorDesign`, and `MotivationalVisualizationByState`; and migrated `MentalContrastingImplementationIntentions` and `ProgressTrackingSelfAssessment` to the synthesis-first schema from their complete preserved evidence inventories. Core synthesis: specific visual targets can make physical goals feel nearer and effort more manageable, but the tactic is strategic rather than continuous and its exercise evidence does not automatically transfer to cognitive or clinical settings. Desired-future imagery can clarify direction, yet positive fantasy needs an immediate action and obstacle-planning bridge; external progress records can correct discouraging memory without turning every activity into a metric. No settled contradiction was adopted. The positive-imagery findings were treated as a use-case qualification, while effect sizes, mechanisms, glucose findings, mental-health applications, and cross-domain generalization remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,301-source coverage; no topic claim set was dirty and global compaction was not due. Publish validation passed.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

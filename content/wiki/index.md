@@ -3354,6 +3354,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Who's Gonna Pay for Your Social Security?](sources/default-mp3-ywr3ahjkcgo-fa7b2a90f9b1f7efc01397a3ed4ae0bf-30494375-default-mp3-ywr3ahjkcgo-fa7b2a90f9b1f7efc01397a3ed4ae0bf-30494375.md) — Planet Money episode comparing the financing scale and distributional costs of Social Security reform options.
 
 - [226. The Lord of the Rings](sources/226-the-lord-of-the-rings-glt1788342017.md) — The Rest Is History episode on Tolkien's ring ethics, hidden Catholic structure, wartime power, damaged homecoming, anti-industrial environmentalism, politics, and race.
+- [Tools for Setting & Achieving Goals | Dr. Emily Balcetis](sources/tools-for-setting-achieving-goals-dr-emily-balcetis-scim4890374571.md) — Huberman Lab interview on visual targeting, perceived effort, obstacle planning, positive-fantasy limits, and progress tracking.
 
 ## Entities
 - [Kyle Harper](entities/KyleHarper.md) — Historian connecting Roman decline to climate, disease ecology, demography, connectivity, and state capacity within a multi-causal model.
@@ -3767,7 +3768,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Aurangzeb](entities/Aurangzeb.md) — Mughal successor whose victory over his brothers led to Shah Jahan's confinement and final burial beside Mumtaz.
 - [Christian Dior](entities/ChristianDior.md) — French designer whose 1947 New Look restored postwar Parisian glamour against utility austerity.
 - [David Bailey](entities/DavidBailey.md) — London fashion photographer whose informal imagery and celebrity helped export the Swinging London look.
-- [Emily Balcetis](entities/EmilyBalcetis.md) — Researcher cited for work connecting visual targeting, perceived effort, and goal pursuit.
+- [Emily Balcetis](entities/EmilyBalcetis.md) — Psychology researcher connecting visual perception, bodily state, perceived effort, and goal pursuit.
 - [Maya Shankar](entities/MayaShankar.md) — Cognitive scientist connecting purpose-anchored identity, feedback, empathy, and the middle-stage motivation problem with practical goal design.
 - [Jean Shrimpton](entities/JeanShrimpton.md) — British model whose 1965 Melbourne appearance became a global youth-fashion scandal.
 - [Twiggy](entities/Twiggy.md) — Working-class London model who became “the face of 66” and embodied the era's waif-like ideal.

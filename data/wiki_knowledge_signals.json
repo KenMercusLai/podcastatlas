@@ -54604,9 +54604,9 @@
       "url": "/wiki/concepts/emergentinnovationstrategy/"
     },
     "EmilyBalcetis": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1532399364 [SCIM1532399364].md",
@@ -54614,9 +54614,16 @@
           "show": "Huberman Lab",
           "title": "Goals Toolkit: How to Set & Achieve Your Goals",
           "url": "/wiki/sources/goals-toolkit-how-to-set-achieve-your-goals-scim1532399364/"
+        },
+        {
+          "episode_file": "SCIM4890374571 [SCIM4890374571].md",
+          "key": "tools-for-setting-achieving-goals-dr-emily-balcetis-scim4890374571",
+          "show": "Huberman Lab",
+          "title": "Tools for Setting & Achieving Goals | Dr. Emily Balcetis",
+          "url": "/wiki/sources/tools-for-setting-achieving-goals-dr-emily-balcetis-scim4890374571/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/emilybalcetis/"
     },
     "EmmaHamilton": {
@@ -74952,9 +74959,9 @@
       "url": "/wiki/concepts/goalmanagementtraining/"
     },
     "GoalPursuitBehaviorDesign": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM1532399364 [SCIM1532399364].md",
@@ -74969,9 +74976,16 @@
           "show": "Huberman Lab",
           "title": "How to Shape Your Identity & Goals | Dr. Maya Shankar",
           "url": "/wiki/sources/how-to-shape-your-identity-goals-dr-maya-shankar-scim1420437673/"
+        },
+        {
+          "episode_file": "SCIM4890374571 [SCIM4890374571].md",
+          "key": "tools-for-setting-achieving-goals-dr-emily-balcetis-scim4890374571",
+          "show": "Huberman Lab",
+          "title": "Tools for Setting & Achieving Goals | Dr. Emily Balcetis",
+          "url": "/wiki/sources/tools-for-setting-achieving-goals-dr-emily-balcetis-scim4890374571/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/goalpursuitbehaviordesign/"
     },
     "GoalkeeperEmbodiedJudgment": {
@@ -123167,6 +123181,29 @@
       "updated": "2026-09-14",
       "url": "/wiki/concepts/mentalbandwidth/"
     },
+    "MentalContrastingImplementationIntentions": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Wake-up haul： an Ozempic moment for the brain [6a85798d1ad8716bb6078744].md",
+          "key": "wake-up-haul-an-ozempic-moment-for-the-brain-6a85798d1ad8716bb6078744",
+          "show": "Economist Podcasts",
+          "title": "Wake-up haul: an Ozempic moment for the brain",
+          "url": "/wiki/sources/wake-up-haul-an-ozempic-moment-for-the-brain-6a85798d1ad8716bb6078744/"
+        },
+        {
+          "episode_file": "SCIM4890374571 [SCIM4890374571].md",
+          "key": "tools-for-setting-achieving-goals-dr-emily-balcetis-scim4890374571",
+          "show": "Huberman Lab",
+          "title": "Tools for Setting & Achieving Goals | Dr. Emily Balcetis",
+          "url": "/wiki/sources/tools-for-setting-achieving-goals-dr-emily-balcetis-scim4890374571/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/mentalcontrastingimplementationintentions/"
+    },
     "MentalHealthBiologicalFoundations": {
       "episode_count": 1,
       "show_count": 1,
@@ -127541,9 +127578,9 @@
       "url": "/wiki/concepts/motivationrewardeffortcalculation/"
     },
     "MotivationalVisualizationByState": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1532399364 [SCIM1532399364].md",
@@ -127551,9 +127588,16 @@
           "show": "Huberman Lab",
           "title": "Goals Toolkit: How to Set & Achieve Your Goals",
           "url": "/wiki/sources/goals-toolkit-how-to-set-achieve-your-goals-scim1532399364/"
+        },
+        {
+          "episode_file": "SCIM4890374571 [SCIM4890374571].md",
+          "key": "tools-for-setting-achieving-goals-dr-emily-balcetis-scim4890374571",
+          "show": "Huberman Lab",
+          "title": "Tools for Setting & Achieving Goals | Dr. Emily Balcetis",
+          "url": "/wiki/sources/tools-for-setting-achieving-goals-dr-emily-balcetis-scim4890374571/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/motivationalvisualizationbystate/"
     },
     "MotiveBasedFalseAccusationDefense": {
@@ -147521,6 +147565,29 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/concepts/programmedloveauthenticity/"
+    },
+    "ProgressTrackingSelfAssessment": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "E056ED3B10B893CEF2B9B5E24BDF6B07~8584443_2026-08-10-210743-8787-0-0-10.128 [E056ED3B10B893CEF2B9B5E24BDF6B07~8584443_2026-08-10-210743-8787-0-0-10.128.mp3？cdn_id=99&uuid=d325d582-a05a-2ed9-abc9-3f4efbef3ddc&wuuid=6a83829c].md",
+          "key": "ep-3-demystifying-the-imposter-syndrome",
+          "show": "Data Science With Sam",
+          "title": "EP 3: Demystifying the Imposter Syndrome",
+          "url": "/wiki/sources/ep-3-demystifying-the-imposter-syndrome/"
+        },
+        {
+          "episode_file": "SCIM4890374571 [SCIM4890374571].md",
+          "key": "tools-for-setting-achieving-goals-dr-emily-balcetis-scim4890374571",
+          "show": "Huberman Lab",
+          "title": "Tools for Setting & Achieving Goals | Dr. Emily Balcetis",
+          "url": "/wiki/sources/tools-for-setting-achieving-goals-dr-emily-balcetis-scim4890374571/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/progresstrackingselfassessment/"
     },
     "ProgressVisibilityDesign": {
       "episode_count": 1,
@@ -187239,9 +187306,9 @@
       "url": "/wiki/concepts/visualfatiguecausebasedmanagement/"
     },
     "VisualFocusEffortTool": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM1532399364 [SCIM1532399364].md",
@@ -187256,6 +187323,13 @@
           "show": "Huberman Lab",
           "title": "Focus Toolkit: Tools to Improve Your Focus & Concentration",
           "url": "/wiki/sources/focus-toolkit-tools-to-improve-your-focus-concentration-scim5273827033/"
+        },
+        {
+          "episode_file": "SCIM4890374571 [SCIM4890374571].md",
+          "key": "tools-for-setting-achieving-goals-dr-emily-balcetis-scim4890374571",
+          "show": "Huberman Lab",
+          "title": "Tools for Setting & Achieving Goals | Dr. Emily Balcetis",
+          "url": "/wiki/sources/tools-for-setting-achieving-goals-dr-emily-balcetis-scim4890374571/"
         }
       ],
       "updated": "2026-10-01",

@@ -5,6 +5,7 @@ tags: [attention, vision, motivation, effort]
 sources:
   - goals-toolkit-how-to-set-achieve-your-goals-scim1532399364
   - focus-toolkit-tools-to-improve-your-focus-concentration-scim5273827033
+  - tools-for-setting-achieving-goals-dr-emily-balcetis-scim4890374571
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-01
 ---
@@ -12,17 +13,17 @@ last_updated: 2026-10-01
 # Visual Focus Effort Tool
 
 ## Definition
-The visual focus effort tool is the source's proposal that briefly narrowing gaze onto a task-relevant target can increase alertness and engagement and may reduce perceived effort during goal pursuit.
+The visual focus effort tool is the proposal that narrowing gaze onto a specific task-relevant target can change perceived proximity and effort and support engagement during goal pursuit.
 
 ## Current Synthesis
 [[goals-toolkit-how-to-set-achieve-your-goals-scim1532399364]] links visual aperture to task state: a narrow target is used for activation, while panoramic viewing is used periodically for relaxation and eye comfort. Its practical protocol proposes focusing at the relevant working distance for roughly 30-90 seconds while allowing blinking. [[focus-toolkit-tools-to-improve-your-focus-concentration-scim5273827033]] broadens the example to 30 seconds through three minutes and distinguishes overt focus on the target from covert attention directed away from where the eyes remain fixed.
 
-The reliable conceptual contribution is that attention can be shaped through the visual environment. Claims about blood pressure, brainstem neurochemistry, dopamine, perceived effort, and completion time remain source-scoped pending the underlying study details.
+[[tools-for-setting-achieving-goals-dr-emily-balcetis-scim4890374571]] supplies the direct research narrative and a moving-task protocol: choose a precise landmark, imagine a spotlight on it, reduce peripheral distraction, reach it, and recalibrate to the next target. It also introduces a dose boundary. Sprinters may narrow attention early, while endurance athletes reportedly deploy it more selectively as energy or motivation fades. The reliable conceptual contribution is that visual selection can be designed around a task; the exact mechanisms, effect sizes, and cross-domain reach remain source-scoped.
 
 ## Key Claims
 - Visual and cognitive focus are coupled closely enough that gaze can be treated as part of task setup.
-- Narrow gaze is proposed as an activation tool at the start of or during a work bout.
-- The target should be relevant to the task distance rather than an arbitrary permanent cue.
+- Narrow gaze is proposed as an activation tool at the start of a work bout or during a demanding phase of physical effort.
+- A moving task can be divided into successive concrete landmarks, with attention recalibrated after each target is reached.
 - Blinking remains allowed; the protocol is sustained attention, not unbroken staring.
 - Panoramic viewing can be interleaved to relax the visual system and reduce fatigue.
 - Overt gaze and covert attention are separable, so eye direction alone does not prove where cognitive attention is placed.
@@ -32,13 +33,16 @@ The reliable conceptual contribution is that attention can be shaped through the
 - Perceived-effort claim - [[goals-toolkit-how-to-set-achieve-your-goals-scim1532399364]] attributes target-focus findings to [[EmilyBalcetis]]'s laboratory.
 - Recovery branch - [[goals-toolkit-how-to-set-achieve-your-goals-scim1532399364]] recommends occasional panoramic viewing rather than continuous narrowing.
 - Attention-mode distinction - [[focus-toolkit-tools-to-improve-your-focus-concentration-scim5273827033]] distinguishes direct overt focus from covert attention and presents brief fixation as an entry or re-entry tool.
+- Sequential-target protocol - [[tools-for-setting-achieving-goals-dr-emily-balcetis-scim4890374571]] describes selecting, reaching, and replacing specific visual landmarks during exercise.
+- Physical-task findings - [[tools-for-setting-achieving-goals-dr-emily-balcetis-scim4890374571]] reports an ankle-weight walking experiment with faster movement and lower discomfort under narrowed attention.
 
 ## Counterevidence & Qualifications
-The source notes do not provide study populations, effect sizes, task types, replication status, or complete safety criteria, and their 30-90-second versus up-to-three-minute ranges do not establish an optimal duration. A brief gaze exercise is not treatment for attention disorders, visual problems, anxiety, fatigue, or cardiovascular disease. Discomfort, headache, dizziness, or eyestrain are reasons to stop rather than intensify the protocol.
+The source notes provide reported effect sizes for one walking task but not the full sample, methods, citation, or replication context, and their 30-90-second versus up-to-three-minute ranges do not establish an optimal duration. Continuous narrowing may itself become tiring during long efforts, and a physical target protocol does not automatically transfer to study, creative work, depression, or anxiety. A brief gaze exercise is not treatment for attention disorders, visual problems, anxiety, fatigue, or cardiovascular disease. Discomfort, headache, dizziness, or eyestrain are reasons to stop rather than intensify the protocol.
 
 ## What Changed
-- Added overt-versus-covert attention and the broader 30-second-to-three-minute source range.
-- Preserved the shorter prior protocol as an example rather than declaring a single optimum.
+- Added the sequential landmark protocol and direct interview account of the exercise findings.
+- Distinguished continuous sprint use from selective deployment during longer efforts.
+- Preserved the timing and cross-domain claims as source-scoped rather than declaring a universal dose.
 
 ## Related Concepts
 - [[GoalPursuitBehaviorDesign]] - broader toolkit that places gaze control inside a scheduled work session.
