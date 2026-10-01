@@ -26435,3 +26435,11 @@ Added source `the-science-treatment-of-bipolar-disorder-scim7309473526`; created
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | 214. The Battle of Stalingrad (Part 1)
+
+Added source `214-the-battle-of-stalingrad-part-1-glt4564292022`; created `CaseBlue`, `VasilyChuikov`, and `JosephStalin`; and resynthesized `BattleOfStalingrad`, `FriedrichPaulus`, `IanMacGregor`, and `SovietUrbanActiveDefense` from their complete preserved evidence inventories. Core synthesis: the Caucasus oil objective had strategic logic but no credible exploitation and transport plan, while divided objectives, unrealistic timing, Soviet resistance, ruined urban terrain, Volga sustainment, coercive discipline, attrition, and winter transformed the offensive into a costly city battle. No settled contradiction was adopted. Oil-strategy rationality is separated from operational adequacy, tactical use of rubble does not diminish civilian catastrophe, and casualty, population, distance, timing, command-character, and first-mass-urban-defence claims remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,305-source coverage; no topic claim set was dirty and global compaction was not due. Publish validation passed.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

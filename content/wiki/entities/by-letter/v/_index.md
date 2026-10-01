@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "v"
-wiki_total_pages: 11677
+wiki_total_pages: 11680
 wiki_pages:
   - key: "VacheronConstantin"
     title: "Vacheron Constantin"
@@ -74,6 +74,9 @@ wiki_pages:
   - key: "VashonIslandCoffeeDust"
     title: "Vashon Island Coffee Dust"
     url: "/wiki/entities/vashonislandcoffeedust/"
+  - key: "VasilyChuikov"
+    title: "Vasily Chuikov"
+    url: "/wiki/entities/vasilychuikov/"
   - key: "VasilyGolitsyn"
     title: "Vasily Golitsyn / 瓦西里·戈利岑"
     url: "/wiki/entities/vasilygolitsyn/"

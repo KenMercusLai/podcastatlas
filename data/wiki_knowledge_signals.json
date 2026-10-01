@@ -18761,9 +18761,9 @@
       "url": "/wiki/entities/battleofsluys/"
     },
     "BattleOfStalingrad": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4269997308 [GLT4269997308].md",
@@ -18771,6 +18771,13 @@
           "show": "The Rest Is History",
           "title": "215. Stalingrad and the Red Army (Part 2)",
           "url": "/wiki/sources/215-stalingrad-and-the-red-army-part-2-glt4269997308/"
+        },
+        {
+          "episode_file": "GLT4564292022 [GLT4564292022].md",
+          "key": "214-the-battle-of-stalingrad-part-1-glt4564292022",
+          "show": "The Rest Is History",
+          "title": "214. The Battle of Stalingrad (Part 1)",
+          "url": "/wiki/sources/214-the-battle-of-stalingrad-part-1-glt4564292022/"
         }
       ],
       "updated": "2026-10-01",
@@ -27966,6 +27973,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/carthaginianconstitution/"
+    },
+    "CaseBlue": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4564292022 [GLT4564292022].md",
+          "key": "214-the-battle-of-stalingrad-part-1-glt4564292022",
+          "show": "The Rest Is History",
+          "title": "214. The Battle of Stalingrad (Part 1)",
+          "url": "/wiki/sources/214-the-battle-of-stalingrad-part-1-glt4564292022/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/caseblue/"
     },
     "CaseExpansionPoliticalPurge": {
       "episode_count": 3,
@@ -69267,9 +69290,9 @@
       "url": "/wiki/entities/friedrichmerz/"
     },
     "FriedrichPaulus": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4269997308 [GLT4269997308].md",
@@ -69277,6 +69300,13 @@
           "show": "The Rest Is History",
           "title": "215. Stalingrad and the Red Army (Part 2)",
           "url": "/wiki/sources/215-stalingrad-and-the-red-army-part-2-glt4269997308/"
+        },
+        {
+          "episode_file": "GLT4564292022 [GLT4564292022].md",
+          "key": "214-the-battle-of-stalingrad-part-1-glt4564292022",
+          "show": "The Rest Is History",
+          "title": "214. The Battle of Stalingrad (Part 1)",
+          "url": "/wiki/sources/214-the-battle-of-stalingrad-part-1-glt4564292022/"
         }
       ],
       "updated": "2026-10-01",
@@ -90337,9 +90367,9 @@
       "url": "/wiki/entities/ianhamiltongallipoli/"
     },
     "IanMacGregor": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4269997308 [GLT4269997308].md",
@@ -90347,6 +90377,13 @@
           "show": "The Rest Is History",
           "title": "215. Stalingrad and the Red Army (Part 2)",
           "url": "/wiki/sources/215-stalingrad-and-the-red-army-part-2-glt4269997308/"
+        },
+        {
+          "episode_file": "GLT4564292022 [GLT4564292022].md",
+          "key": "214-the-battle-of-stalingrad-part-1-glt4564292022",
+          "show": "The Rest Is History",
+          "title": "214. The Battle of Stalingrad (Part 1)",
+          "url": "/wiki/sources/214-the-battle-of-stalingrad-part-1-glt4564292022/"
         }
       ],
       "updated": "2026-10-01",
@@ -100904,6 +100941,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/josephpkennedysr/"
+    },
+    "JosephStalin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4564292022 [GLT4564292022].md",
+          "key": "214-the-battle-of-stalingrad-part-1-glt4564292022",
+          "show": "The Rest Is History",
+          "title": "214. The Battle of Stalingrad (Part 1)",
+          "url": "/wiki/sources/214-the-battle-of-stalingrad-part-1-glt4564292022/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/josephstalin/"
     },
     "JosephStiglitz": {
       "episode_count": 1,
@@ -169543,9 +169596,9 @@
       "url": "/wiki/concepts/sovereigninfrastructureinterdependence/"
     },
     "SovietUrbanActiveDefense": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4269997308 [GLT4269997308].md",
@@ -169553,6 +169606,13 @@
           "show": "The Rest Is History",
           "title": "215. Stalingrad and the Red Army (Part 2)",
           "url": "/wiki/sources/215-stalingrad-and-the-red-army-part-2-glt4269997308/"
+        },
+        {
+          "episode_file": "GLT4564292022 [GLT4564292022].md",
+          "key": "214-the-battle-of-stalingrad-part-1-glt4564292022",
+          "show": "The Rest Is History",
+          "title": "214. The Battle of Stalingrad (Part 1)",
+          "url": "/wiki/sources/214-the-battle-of-stalingrad-part-1-glt4564292022/"
         }
       ],
       "updated": "2026-10-01",
@@ -186311,6 +186371,22 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/concepts/vascularsurgerysymptomrouting/"
+    },
+    "VasilyChuikov": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4564292022 [GLT4564292022].md",
+          "key": "214-the-battle-of-stalingrad-part-1-glt4564292022",
+          "show": "The Rest Is History",
+          "title": "214. The Battle of Stalingrad (Part 1)",
+          "url": "/wiki/sources/214-the-battle-of-stalingrad-part-1-glt4564292022/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/vasilychuikov/"
     },
     "VasilyGolitsyn": {
       "episode_count": 1,

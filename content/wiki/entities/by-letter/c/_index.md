@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 11677
+wiki_total_pages: 11680
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -320,6 +320,9 @@ wiki_pages:
   - key: "Cartier"
     title: "Cartier"
     url: "/wiki/entities/cartier/"
+  - key: "CaseBlue"
+    title: "Case Blue"
+    url: "/wiki/entities/caseblue/"
   - key: "CaseReadyIntakeAI"
     title: "Case Ready Intake AI"
     url: "/wiki/entities/casereadyintakeai/"

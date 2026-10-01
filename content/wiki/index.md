@@ -3359,6 +3359,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [216. Pigeons](sources/216-pigeons-glt2770080110.md) — The Rest Is History episode on pigeon domestication, symbolism, communication, Operation Columba, wartime intelligence, fallback systems, and passenger-pigeon extinction.
 - [215. Stalingrad and the Red Army (Part 2)](sources/215-stalingrad-and-the-red-army-part-2-glt4269997308.md) — The Rest Is History episode on Soviet urban adaptation, Operation Uranus, the Sixth Army's collapse, Pavlov's House, and contested war memory.
+- [214. The Battle of Stalingrad (Part 1)](sources/214-the-battle-of-stalingrad-part-1-glt4564292022.md) — The Rest Is History episode on Case Blue's oil logic and logistical overreach, the bombing of Stalingrad, Soviet coercive discipline, and close-range urban defence.
 
 ## Entities
 - [Kyle Harper](entities/KyleHarper.md) — Historian connecting Roman decline to climate, disease ecology, demography, connectivity, and state capacity within a multi-causal model.
@@ -15071,6 +15072,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Pavlov's House](entities/PavlovsHouse.md) — Fortified Stalingrad observation position transformed into a durable but simplified Soviet heroic symbol.
 - [Operation Uranus](entities/OperationUranus.md) — November 1942 Soviet combined-arms offensive that broke the Axis flanks and encircled the German Sixth Army.
 - [Friedrich Paulus](entities/FriedrichPaulus.md) — German Sixth Army commander who remained in the Stalingrad pocket under Hitler's hold order and ultimately surrendered.
+- [Case Blue](entities/CaseBlue.md) — Germany's 1942 southern offensive whose oil objective was undermined by divided effort, overconfidence, and logistical overreach.
+- [Vasily Chuikov](entities/VasilyChuikov.md) — Soviet 62nd Army commander linking close-range urban defence, Volga sustainment, and attritional endurance.
+- [Joseph Stalin](entities/JosephStalin.md) — Soviet leader whose city symbolism, industrial policy, strategic redeployment, and Order 227 shaped the Stalingrad setting.
 
 ## Concepts
 - [Antonine Plague](concepts/AntoninePlague.md) — Second-century trans-imperial pandemic treated as a severe but bounded shock with unresolved pathogen and mortality.
