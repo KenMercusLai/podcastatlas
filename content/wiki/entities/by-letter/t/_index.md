@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 11885
+wiki_total_pages: 11888
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -47,6 +47,9 @@ wiki_pages:
   - key: "Tahiti"
     title: "Tahiti"
     url: "/wiki/entities/tahiti/"
+  - key: "TaipingRebellion"
+    title: "Taiping Rebellion"
+    url: "/wiki/entities/taipingrebellion/"
   - key: "TairaClan"
     title: "Taira Clan"
     url: "/wiki/entities/tairaclan/"

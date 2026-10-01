@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [Science of Mindsets for Health & Performance | Dr. Alia Crum](sources/science-of-mindsets-for-health-performance-dr-alia-crum-scim9502231820.md) — Huberman Lab interview on mindset effects across food, exercise, stress, feedback, treatment, physiology, and their evidence boundaries.
+- [141. General Gordon: The Ultimate Victorian Hero](sources/141-general-gordon-the-ultimate-victorian-hero-glt2700696137.md) — The Rest Is History on Gordon's evangelical faith, Crimea, the Taiping Rebellion, Chinese command, Gravesend philanthropy, and contested reputation.
 - [142. General Gordon and the Siege of Khartoum](sources/142-general-gordon-and-the-siege-of-khartoum-glt6227664313.md) — The Rest Is History on Gordon's abolitionism, the Mahdist revolt, press-driven mission ambiguity, Khartoum, delayed relief, and imperial martyr memory.
 - [143. The Trial of Charles I Part 1](sources/143-the-trial-of-charles-i-part-1-glt4850801452.md) — The Rest Is History with Ted Vallance on Charles I's rule, renewed civil war, army radicalization, Pride's Purge, and the disputed popular sovereignty behind his trial.
 - [144. The Trial of Charles I Part 2](sources/144-the-trial-of-charles-i-part-2-glt2968292003.md) — The Rest Is History with Ted Vallance on Charles I's extraordinary court, disputed popular sovereignty, scaffold execution, royalist martyrdom, and republican afterlife.
@@ -15390,7 +15391,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ted Vallance](entities/TedVallance.md) — Historian interpreting Charles I's trial through law, war, sovereignty, public performance, and contested memory.
 - [John Bradshaw](entities/JohnBradshaw.md) — Lawyer who presided over the extraordinary High Court that tried Charles I.
 
-- [General Gordon](entities/CharlesGeorgeGordon.md) — Evangelical abolitionist, imperial administrator, besieged commander, and Victorian martyr whose sincerity coexisted with strategic impracticality.
+- [General Gordon](entities/CharlesGeorgeGordon.md) — Evangelical engineer, China commander, philanthropist, abolitionist administrator, and Victorian martyr whose sincerity coexisted with imperial power and institutional impracticality.
+- [Lytton Strachey](entities/LyttonStrachey.md) — Revisionist biographer whose skeptical Gordon portrait challenged Victorian hagiography but invites scrutiny of its own totalizing assumptions.
+- [Taiping Rebellion](entities/TaipingRebellion.md) — Vast religiously charged Chinese civil war that formed the setting for Gordon's first military fame.
+- [Ever Victorious Army](entities/EverVictoriousArmy.md) — Small merchant-backed Shanghai force whose success and legend grew under Gordon's command.
 - [Muhammad Ahmad](entities/MuhammadAhmad.md) — Sudanese Mahdi whose religious-political movement captured Khartoum and exceeded Gordon's slavery-centered interpretation.
 - [William Ewart Gladstone](entities/WilliamEwartGladstone.md) — Liberal prime minister caught between abolitionist pressure, imperial restraint, mission ambiguity, and blame for delayed relief.
 - [Garnet Wolseley](entities/GarnetWolseley.md) — Gordon ally and relief commander joining intervention advocacy, military interest, logistical failure, and heroic memory-making.

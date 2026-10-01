@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 11885
+wiki_total_pages: 11888
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -1013,6 +1013,9 @@ wiki_pages:
   - key: "Lynx"
     title: "Lynx / 猞猁"
     url: "/wiki/entities/lynx/"
+  - key: "LyttonStrachey"
+    title: "Lytton Strachey"
+    url: "/wiki/entities/lyttonstrachey/"
   - key: "LiTzarKai"
     title: "Richard Li Tzar-kai / 李澤楷"
     url: "/wiki/entities/litzarkai/"

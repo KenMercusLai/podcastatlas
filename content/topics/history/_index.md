@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2359
+topic_total_pages: 2360
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4809,6 +4809,9 @@ topic_sources:
   - key: "14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285"
     title: "14.武士威廉：大航海时代的日本和西方"
     url: "/wiki/sources/14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285/"
+  - key: "141-general-gordon-the-ultimate-victorian-hero-glt2700696137"
+    title: "141. General Gordon: The Ultimate Victorian Hero"
+    url: "/wiki/sources/141-general-gordon-the-ultimate-victorian-hero-glt2700696137/"
   - key: "142-general-gordon-and-the-siege-of-khartoum-glt6227664313"
     title: "142. General Gordon and the Siege of Khartoum"
     url: "/wiki/sources/142-general-gordon-and-the-siege-of-khartoum-glt6227664313/"

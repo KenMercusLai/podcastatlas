@@ -27299,3 +27299,11 @@ Added source `science-of-mindsets-for-health-performance-dr-alia-crum-scim950223
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | 141. General Gordon: The Ultimate Victorian Hero
+
+Added source `141-general-gordon-the-ultimate-victorian-hero-glt2700696137`; created `LyttonStrachey`, `TaipingRebellion`, and `EverVictoriousArmy`; and resynthesized `CharlesGeorgeGordon` and `HeroVillainHistoricalReduction` from their complete preserved evidence inventories. Core synthesis: Gordon's evangelical faith, self-denial, philanthropy, courage, and anti-slavery commitments are best treated as sincere without erasing his imperial role, eccentricity, danger-seeking, or institutional impracticality; the move from Victorian saint to suspicious counter-portrait can reverse rather than escape reductive biography. No settled contradiction was adopted. Sexuality, adolescent religious anxiety, desire for death, mental state, private motive, the Taiping-Mahdist analogy, and the Ever Victorious Army's share of victory remain interpretive, qualified, or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,411-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
