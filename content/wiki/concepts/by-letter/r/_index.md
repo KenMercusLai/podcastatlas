@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 9144
+wiki_total_pages: 9149
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -257,6 +257,9 @@ wiki_pages:
   - key: "RecursiveSelfImprovementRegulationParadox"
     title: "Recursive Self-Improvement Regulation Paradox"
     url: "/wiki/concepts/recursiveselfimprovementregulationparadox/"
+  - key: "RedNearInfraredPhotobiomodulation"
+    title: "Red and Near-Infrared Photobiomodulation"
+    url: "/wiki/concepts/rednearinfraredphotobiomodulation/"
   - key: "RedHeadShips"
     title: "Red Head Ships / 红头船"
     url: "/wiki/concepts/redheadships/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Using Light (Sunlight, Blue Light & Red Light) to Optimize Health](sources/using-light-sunlight-blue-light-red-light-to-optimize-health-scim9179977381.md) — Huberman Lab episode separating circadian light, systemic UVB signaling, red and near-infrared photobiomodulation, nighttime-light risk, and experimental gamma entrainment.
 - [178. French Presidents: 1958-1981 (Part 1)](sources/178-french-presidents-1958-1981-part-1-glt1396593896.md) — The Rest Is History on de Gaulle's strong and quasi-monarchical presidency, Pompidou's pragmatic modernization, and Giscard's reforming but scandal-weakened rule.
 - [The Science & Health Benefits of Deliberate Heat Exposure](sources/scim5583107634-scim5583107634.md) — Huberman Lab episode on thermoregulation, sauna dose and adaptation, acute hormone responses, sleep, safety, and experimental adipose browning.
 - [179. French Presidents: 1981-2022 (Part 2)](sources/179-french-presidents-1981-2022-part-2-glt2206497694.md) — The Rest Is History on presidential grandeur from Mitterrand to Macron, party-system erosion, scandal, and the Le Pen movement's older lineage.
@@ -15264,6 +15265,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gareth Southgate](entities/GarethSouthgate.md) — England manager presented as joining inherited patriotic symbols to progressive and multiracial belonging.
 
 ## Concepts
+- [Light Therapy Parameter Matching](concepts/LightTherapyParameterMatching.md) — Framework matching wavelength, intensity, timing, duration, exposure area, target tissue, and temporal pattern to a specific light intervention.
+- [UVB Systemic Light Signaling](concepts/UVBSystemicLightSignaling.md) — Qualified skin- and eye-initiated UVB pathways affecting endocrine, pain, immune, mood, and tissue-turnover signals.
+- [Red and Near-Infrared Photobiomodulation](concepts/RedNearInfraredPhotobiomodulation.md) — Target-specific longer-wavelength therapy framework with explicit device, dose, eye-safety, and generalization limits.
+- [Light During Sleep Cardiometabolic Risk](concepts/LightDuringSleepCardiometabolicRisk.md) — Acute autonomic and metabolic response to room light during sleep that is not reducible to melatonin suppression.
+- [Gamma Sensory Entrainment](concepts/GammaSensoryEntrainment.md) — Experimental 40 Hz sensory-stimulation approach to neurodegeneration research with biomarker and seizure-risk boundaries.
 - [Imperial Victory Reframing](concepts/ImperialVictoryReframing.md) — Conversion of internal or provincial conflict into foreign conquest theater for dynastic legitimacy.
 - [Religious Authority after Temple Destruction](concepts/ReligiousAuthorityAfterTempleDestruction.md) — Reconstitution of practice and leadership through portable text, teaching, prayer, and local institutions after sanctuary loss.
 - [Judean Revolt Memory Afterlife](concepts/JudeanRevoltMemoryAfterlife.md) — Layered Flavian, Christian, rabbinic, archaeological, and modern Israeli amplification of the revolt's significance.

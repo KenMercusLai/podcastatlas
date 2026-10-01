@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 9144
+wiki_total_pages: 9149
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -41,6 +41,9 @@ wiki_pages:
   - key: "GameTheory"
     title: "Game Theory"
     url: "/wiki/concepts/gametheory/"
+  - key: "GammaSensoryEntrainment"
+    title: "Gamma Sensory Entrainment"
+    url: "/wiki/concepts/gammasensoryentrainment/"
   - key: "GammaSqueeze"
     title: "Gamma Squeeze"
     url: "/wiki/concepts/gammasqueeze/"

@@ -73411,6 +73411,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/gamespiritorganization/"
     },
+    "GammaSensoryEntrainment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9179977381 [SCIM9179977381].md",
+          "key": "using-light-sunlight-blue-light-red-light-to-optimize-health-scim9179977381",
+          "show": "Huberman Lab",
+          "title": "Using Light (Sunlight, Blue Light & Red Light) to Optimize Health",
+          "url": "/wiki/sources/using-light-sunlight-blue-light-red-light-to-optimize-health-scim9179977381/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/gammasensoryentrainment/"
+    },
     "GanNing": {
       "episode_count": 7,
       "show_count": 1,
@@ -111995,6 +112011,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/light9m/"
     },
+    "LightDuringSleepCardiometabolicRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9179977381 [SCIM9179977381].md",
+          "key": "using-light-sunlight-blue-light-red-light-to-optimize-health-scim9179977381",
+          "show": "Huberman Lab",
+          "title": "Using Light (Sunlight, Blue Light & Red Light) to Optimize Health",
+          "url": "/wiki/sources/using-light-sunlight-blue-light-red-light-to-optimize-health-scim9179977381/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/lightduringsleepcardiometabolicrisk/"
+    },
     "LightFoodCategoryReframing": {
       "episode_count": 1,
       "show_count": 1,
@@ -112010,6 +112042,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/lightfoodcategoryreframing/"
+    },
+    "LightTherapyParameterMatching": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9179977381 [SCIM9179977381].md",
+          "key": "using-light-sunlight-blue-light-red-light-to-optimize-health-scim9179977381",
+          "show": "Huberman Lab",
+          "title": "Using Light (Sunlight, Blue Light & Red Light) to Optimize Health",
+          "url": "/wiki/sources/using-light-sunlight-blue-light-red-light-to-optimize-health-scim9179977381/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/lighttherapyparametermatching/"
     },
     "LightTouchFrontierGovernance": {
       "episode_count": 4,
@@ -156617,6 +156665,22 @@
       "updated": "2026-09-25",
       "url": "/wiki/entities/redcloud/"
     },
+    "RedNearInfraredPhotobiomodulation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9179977381 [SCIM9179977381].md",
+          "key": "using-light-sunlight-blue-light-red-light-to-optimize-health-scim9179977381",
+          "show": "Huberman Lab",
+          "title": "Using Light (Sunlight, Blue Light & Red Light) to Optimize Health",
+          "url": "/wiki/sources/using-light-sunlight-blue-light-red-light-to-optimize-health-scim9179977381/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/rednearinfraredphotobiomodulation/"
+    },
     "Reddit": {
       "episode_count": 8,
       "show_count": 4,
@@ -189428,6 +189492,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/usimmigrationandcustomsenforcement/"
+    },
+    "UVBSystemicLightSignaling": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9179977381 [SCIM9179977381].md",
+          "key": "using-light-sunlight-blue-light-red-light-to-optimize-health-scim9179977381",
+          "show": "Huberman Lab",
+          "title": "Using Light (Sunlight, Blue Light & Red Light) to Optimize Health",
+          "url": "/wiki/sources/using-light-sunlight-blue-light-red-light-to-optimize-health-scim9179977381/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/uvbsystemiclightsignaling/"
     },
     "UVExposureSkinProtection": {
       "episode_count": 5,

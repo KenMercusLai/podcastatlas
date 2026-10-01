@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1378
+topic_total_pages: 1380
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -892,6 +892,9 @@ topic_concepts:
   - key: "FutureSelfContinuity"
     title: "Future-Self Continuity"
     url: "/wiki/concepts/futureselfcontinuity/"
+  - key: "GammaSensoryEntrainment"
+    title: "Gamma Sensory Entrainment"
+    url: "/wiki/concepts/gammasensoryentrainment/"
   - key: "GarageDragonTest"
     title: "Garage Dragon Test"
     url: "/wiki/concepts/garagedragontest/"
@@ -1180,6 +1183,9 @@ topic_concepts:
   - key: "LightAndDarkWorldDuality"
     title: "Light And Dark World Duality / 光明与黑暗世界二分"
     url: "/wiki/concepts/lightanddarkworldduality/"
+  - key: "LightTherapyParameterMatching"
+    title: "Light Therapy Parameter Matching"
+    url: "/wiki/concepts/lighttherapyparametermatching/"
   - key: "LightFoodCategoryReframing"
     title: "Light-Food Category Reframing / 轻食品类重构"
     url: "/wiki/concepts/lightfoodcategoryreframing/"

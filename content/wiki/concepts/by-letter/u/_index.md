@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "u"
-wiki_total_pages: 9144
+wiki_total_pages: 9149
 wiki_pages:
   - key: "US2025ExpectationGaps"
     title: "U.S. 2025 Expectation Gaps"
@@ -308,6 +308,9 @@ wiki_pages:
   - key: "UVExposureSkinProtection"
     title: "UV Exposure and Skin Protection"
     url: "/wiki/concepts/uvexposureskinprotection/"
+  - key: "UVBSystemicLightSignaling"
+    title: "UVB Systemic Light Signaling"
+    url: "/wiki/concepts/uvbsystemiclightsignaling/"
   - key: "UnrighteousMeritReward"
     title: "不义之功封赏 / Unrighteous Merit Reward"
     url: "/wiki/concepts/unrighteousmeritreward/"

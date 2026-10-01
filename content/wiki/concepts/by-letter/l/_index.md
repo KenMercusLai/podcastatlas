@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 9144
+wiki_total_pages: 9149
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -410,6 +410,12 @@ wiki_pages:
   - key: "LightAndDarkWorldDuality"
     title: "Light And Dark World Duality / 光明与黑暗世界二分"
     url: "/wiki/concepts/lightanddarkworldduality/"
+  - key: "LightDuringSleepCardiometabolicRisk"
+    title: "Light During Sleep Cardiometabolic Risk"
+    url: "/wiki/concepts/lightduringsleepcardiometabolicrisk/"
+  - key: "LightTherapyParameterMatching"
+    title: "Light Therapy Parameter Matching"
+    url: "/wiki/concepts/lighttherapyparametermatching/"
   - key: "LightFoodCategoryReframing"
     title: "Light-Food Category Reframing / 轻食品类重构"
     url: "/wiki/concepts/lightfoodcategoryreframing/"
