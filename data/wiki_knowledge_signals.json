@@ -73321,9 +73321,9 @@
       "url": "/wiki/entities/galerius/"
     },
     "GalileanJudeanCulturalBoundary": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4572965796 [GLT4572965796].md",
@@ -73331,6 +73331,13 @@
           "show": "The Rest Is History",
           "title": "287: Jesus Christ: The Mystery (Part 1)",
           "url": "/wiki/sources/287-jesus-christ-the-mystery-part-1-glt4572965796/"
+        },
+        {
+          "episode_file": "GLT3414103581 [GLT3414103581].md",
+          "key": "176-the-jews-against-rome-part-2-glt3414103581",
+          "show": "The Rest Is History",
+          "title": "176. The Jews Against Rome (Part 2)",
+          "url": "/wiki/sources/176-the-jews-against-rome-part-2-glt3414103581/"
         }
       ],
       "updated": "2026-09-30",
@@ -85814,6 +85821,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/herovillainhistoricalreduction/"
+    },
+    "HerodTheGreat": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3414103581 [GLT3414103581].md",
+          "key": "176-the-jews-against-rome-part-2-glt3414103581",
+          "show": "The Rest Is History",
+          "title": "176. The Jews Against Rome (Part 2)",
+          "url": "/wiki/sources/176-the-jews-against-rome-part-2-glt3414103581/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/herodthegreat/"
     },
     "Herodotus": {
       "episode_count": 3,
@@ -103715,9 +103738,9 @@
       "url": "/wiki/entities/josephinedebeauharnais/"
     },
     "Josephus": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT4572965796 [GLT4572965796].md",
@@ -103732,6 +103755,13 @@
           "show": "The Rest Is History",
           "title": "177. The Jewish Revolt (Part 3)",
           "url": "/wiki/sources/177-the-jewish-revolt-part-3-glt1109135413/"
+        },
+        {
+          "episode_file": "GLT3414103581 [GLT3414103581].md",
+          "key": "176-the-jews-against-rome-part-2-glt3414103581",
+          "show": "The Rest Is History",
+          "title": "176. The Jews Against Rome (Part 2)",
+          "url": "/wiki/sources/176-the-jews-against-rome-part-2-glt3414103581/"
         }
       ],
       "updated": "2026-10-01",
@@ -104001,9 +104031,9 @@
       "url": "/wiki/entities/judasiscariot/"
     },
     "JudeanRevolt66To73": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1109135413 [GLT1109135413].md",
@@ -104011,6 +104041,13 @@
           "show": "The Rest Is History",
           "title": "177. The Jewish Revolt (Part 3)",
           "url": "/wiki/sources/177-the-jewish-revolt-part-3-glt1109135413/"
+        },
+        {
+          "episode_file": "GLT3414103581 [GLT3414103581].md",
+          "key": "176-the-jews-against-rome-part-2-glt3414103581",
+          "show": "The Rest Is History",
+          "title": "176. The Jews Against Rome (Part 2)",
+          "url": "/wiki/sources/176-the-jews-against-rome-part-2-glt3414103581/"
         }
       ],
       "updated": "2026-10-01",
@@ -134111,9 +134148,9 @@
       "url": "/wiki/entities/nepal/"
     },
     "Nero": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT7808118779 [GLT7808118779].md",
@@ -134128,6 +134165,13 @@
           "show": "The Rest Is History",
           "title": "224. Roman Holidays",
           "url": "/wiki/sources/224-roman-holidays-glt9939678940/"
+        },
+        {
+          "episode_file": "GLT3414103581 [GLT3414103581].md",
+          "key": "176-the-jews-against-rome-part-2-glt3414103581",
+          "show": "The Rest Is History",
+          "title": "176. The Jews Against Rome (Part 2)",
+          "url": "/wiki/sources/176-the-jews-against-rome-part-2-glt3414103581/"
         }
       ],
       "updated": "2026-10-01",
@@ -147767,9 +147811,9 @@
       "url": "/wiki/entities/pompey/"
     },
     "PontiusPilate": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT4776258433 [GLT4776258433].md",
@@ -147784,6 +147828,13 @@
           "show": "The Rest Is History",
           "title": "287: Jesus Christ: The Mystery (Part 1)",
           "url": "/wiki/sources/287-jesus-christ-the-mystery-part-1-glt4572965796/"
+        },
+        {
+          "episode_file": "GLT3414103581 [GLT3414103581].md",
+          "key": "176-the-jews-against-rome-part-2-glt3414103581",
+          "show": "The Rest Is History",
+          "title": "176. The Jews Against Rome (Part 2)",
+          "url": "/wiki/sources/176-the-jews-against-rome-part-2-glt3414103581/"
         }
       ],
       "updated": "2026-09-30",
@@ -162249,6 +162300,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/concepts/romanprovincialconsolidation/"
+    },
+    "RomanProvincialRevoltEscalation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3414103581 [GLT3414103581].md",
+          "key": "176-the-jews-against-rome-part-2-glt3414103581",
+          "show": "The Rest Is History",
+          "title": "176. The Jews Against Rome (Part 2)",
+          "url": "/wiki/sources/176-the-jews-against-rome-part-2-glt3414103581/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/romanprovincialrevoltescalation/"
     },
     "RomanRepublic": {
       "episode_count": 8,
@@ -192155,9 +192222,9 @@
       "url": "/wiki/concepts/vertigovisualanchoring/"
     },
     "Vespasian": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT7808118779 [GLT7808118779].md",
@@ -192172,6 +192239,13 @@
           "show": "The Rest Is History",
           "title": "177. The Jewish Revolt (Part 3)",
           "url": "/wiki/sources/177-the-jewish-revolt-part-3-glt1109135413/"
+        },
+        {
+          "episode_file": "GLT3414103581 [GLT3414103581].md",
+          "key": "176-the-jews-against-rome-part-2-glt3414103581",
+          "show": "The Rest Is History",
+          "title": "176. The Jews Against Rome (Part 2)",
+          "url": "/wiki/sources/176-the-jews-against-rome-part-2-glt3414103581/"
         }
       ],
       "updated": "2026-10-01",

@@ -26882,6 +26882,14 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-10-01] ingest | 176. The Jews Against Rome (Part 2)
+
+Added source `176-the-jews-against-rome-part-2-glt3414103581`; created `HerodTheGreat` and `RomanProvincialRevoltEscalation`; and resynthesized `JudeanRevolt66To73`, `Josephus`, `Vespasian`, `Nero`, `PontiusPilate`, and `GalileanJudeanCulturalBoundary` from their complete preserved evidence inventories. Core synthesis: the revolt arose through interacting fiscal, administrative, cultural, political, eschatological, strategic, and prestige pressures within a divided Judean society; Beth-Horon made suppression urgent, while Jotapata and Josephus's prophecy linked the campaign to Vespasian's accession and later Flavian legitimacy. No settled contradiction was adopted. The episode's favorable characterization of Pilate remains in tension with his coercive Passion role, while terminology, pottery, provincial status, motives, force totals, Gallus's withdrawal, Josephus's survival account, and prophecy remain source-scoped or contested. The automatic `wiki/overview.md` was read for context and not manually rewritten because this source deepens an established historical branch without changing the wiki-wide synthesis. The downstream manifest and paragraph ledger were refreshed to 3,363-source coverage; no topic claim set was dirty and global compaction was not due. Identity, knowledge-schema, whitespace, synthesis, index coverage, health, and publish validation passed.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

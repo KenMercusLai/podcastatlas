@@ -3420,11 +3420,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [180. England & Englishness](sources/180-england-englishness-glt7388885434.md) — The Rest Is History conversation with Jason Cowley on Orwell, devolution, empire, immigration, landscape, football, Brexit, and changing English identity.
 
 - [177. The Jewish Revolt (Part 3)](sources/177-the-jewish-revolt-part-3-glt1109135413.md) — The Rest Is History episode on Jerusalem's siege, Josephus, Flavian victory propaganda, post-Temple religious authority, and the memory of Masada.
+- [176. The Jews Against Rome (Part 2)](sources/176-the-jews-against-rome-part-2-glt3414103581.md) — The Rest Is History episode on Judean identity, Roman governance, revolt escalation, Beth-Horon, Jotapata, Josephus, and Vespasian's rise.
 
 ## Entities
 - [Henry Tricks](entities/HenryTricks.md) — Technology editor framing smart glasses through bystander suspicion, misuse, phone dependence, and their possible role as AI-agent interfaces.
 - [Simon Garfield](entities/SimonGarfield.md) — Author of The Pen, used by the episode to connect writing instruments, material constraints, mass production, and cultural status.
 - [Judean Revolt, 66-73 CE](entities/JudeanRevolt66To73.md) — Divided provincial rebellion whose defeat destroyed Jerusalem's Temple and acquired an exceptional religious and political afterlife.
+- [Herod the Great](entities/HerodTheGreat.md) — Roman client king joining Judean rule, political adaptability, coercion, monumental building, and a fragile succession settlement.
 - [Masada](entities/Masada.md) — Herodian fortress, late revolt holdout, contested archaeological site, and modern Israeli memory symbol.
 - [Valéry Giscard d'Estaing](entities/ValeryGiscardDEstaing.md) — Technocratic and social modernizer whose aristocratic persona, scandals, and rivalry with Chirac weakened his presidency.
 - [François Mitterrand](entities/FrancoisMitterrand.md) — First left-wing Fifth Republic president, combining ideological adaptation, secrecy, and presidential grandeur.
@@ -15277,6 +15279,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Imperial Victory Reframing](concepts/ImperialVictoryReframing.md) — Conversion of internal or provincial conflict into foreign conquest theater for dynastic legitimacy.
 - [Religious Authority after Temple Destruction](concepts/ReligiousAuthorityAfterTempleDestruction.md) — Reconstitution of practice and leadership through portable text, teaching, prayer, and local institutions after sanctuary loss.
 - [Judean Revolt Memory Afterlife](concepts/JudeanRevoltMemoryAfterlife.md) — Layered Flavian, Christian, rabbinic, archaeological, and modern Israeli amplification of the revolt's significance.
+- [Roman Provincial Revolt Escalation](concepts/RomanProvincialRevoltEscalation.md) — Multi-causal process joining extraction, cultural resistance, failed brokerage, violence, military humiliation, strategic geography, and prestige repair.
 - [Thermoregulation and Glabrous Heat Transfer](concepts/ThermoregulationAndGlabrousHeatTransfer.md) — Shell/core control model linking hypothalamic responses with rapid heat exchange through palms, soles, and upper face.
 - [Local Hyperthermia and Adipose Browning](concepts/LocalHyperthermiaAdiposeBrowning.md) — Experimental UCP1-linked adipose-identity signal bounded from spot-reduction and established obesity-treatment claims.
 - [French Fifth Republic](concepts/FrenchFifthRepublic.md) — Constitutional order joining a powerful presidency to an expectation of above-party national embodiment.
