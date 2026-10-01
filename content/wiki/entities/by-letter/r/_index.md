@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 11900
+wiki_total_pages: 11903
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -416,6 +416,9 @@ wiki_pages:
   - key: "RichardJewell"
     title: "Richard Jewell / 理查德·朱维尔"
     url: "/wiki/entities/richardjewell/"
+  - key: "RichardNevilleEarlOfWarwick"
+    title: "Richard Neville, Earl of Warwick"
+    url: "/wiki/entities/richardnevilleearlofwarwick/"
   - key: "RichardNisbett"
     title: "Richard Nisbett / 理查德·尼斯贝特"
     url: "/wiki/entities/richardnisbett/"

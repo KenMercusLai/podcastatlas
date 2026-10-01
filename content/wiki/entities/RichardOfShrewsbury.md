@@ -4,6 +4,7 @@ type: entity
 tags: [historical-figure, england, monarchy, child-heir, wars-of-the-roses]
 sources:
   - 139-the-princes-in-the-tower-part-2-glt4685691538
+  - 138-the-princes-in-the-tower-part-1-glt6274021473
 last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
@@ -16,11 +17,12 @@ Richard of Shrewsbury, Duke of York, is Edward IV's younger son and the second o
 
 ## Current Profile
 
-His political significance came from being both Edward V's companion and the next immediate Yorkist alternative. Elizabeth Woodville initially protected him in sanctuary, but transferred him under council and political pressure; once both boys were under Richard of Gloucester's control, the regime could marginalize them together.
+Created Duke of York in 1474, Richard entered a childhood marriage to the young Countess of Norfolk and was soon widowed. The first episode stresses how little is independently known about him: before 1483 he functioned chiefly as the younger dynastic reserve in an apparently secure Yorkist succession. Elizabeth Woodville later protected him in sanctuary but transferred him under council pressure, allowing Richard of Gloucester to marginalize both brothers together.
 
 ## Key Characteristics
 
 - Younger son of [[EdwardIV]] and [[ElizabethWoodville]].
+- Duke of York from early childhood and participant in a politically arranged child marriage.
 - Protected in Westminster sanctuary after Richard arrested members of the Woodville affinity.
 - Handed over to join [[EdwardV]] in the Tower.
 - Delegitimized alongside his brother before Richard III's coronation.
@@ -28,17 +30,18 @@ His political significance came from being both Edward V's companion and the nex
 
 ## Evidence
 
+- Early dynastic role: [[138-the-princes-in-the-tower-part-1-glt6274021473]] records Richard's title, child marriage, early widowhood, and the scarcity of personal evidence.
 - Sanctuary and transfer: [[139-the-princes-in-the-tower-part-2-glt4685691538]] describes Elizabeth's refuge and the political process that obtained the younger prince.
 - Joint exclusion: [[139-the-princes-in-the-tower-part-2-glt4685691538]] follows both boys from Tower confinement through illegitimacy and disappearance.
 - Later uncertainty: [[139-the-princes-in-the-tower-part-2-glt4685691538]] connects the unresolved identity problem to Perkin Warbeck and modern survival claims.
 
 ## Qualifications
 
-The source provides less independent detail about Richard than about Edward V. His death, burial, and identification with later bones remain unproved, and claims about survival are treated skeptically.
+Both sources provide less independent detail about Richard than about Edward V. His child marriage reflects dynastic practice more than personal agency. His death, burial, and identification with later bones remain unproved, and claims about survival are treated skeptically.
 
 ## What Changed
 
-- Created a profile centered on sanctuary, custody transfer, and joint dynastic exclusion.
+- Added his earlier title, child marriage, widowhood, and role as a dynastic reserve while preserving the evidence gap around his personality.
 
 ## Relationships
 

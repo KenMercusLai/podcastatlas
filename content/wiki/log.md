@@ -27331,3 +27331,11 @@ Added source `the-science-of-setting-achieving-goals-scim1292734289`; resynthesi
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | 138. The Princes in the Tower Part 1
+
+Added source `138-the-princes-in-the-tower-part-1-glt6274021473`; created `AnthonyWoodville`, `RichardNevilleEarlOfWarwick`, and `GeorgeDukeOfClarence`; and resynthesized `EdwardIV`, `EdwardV`, `RichardOfShrewsbury`, `ElizabethWoodville`, `RichardIII`, `PrincesInTheTower`, `WarsOfTheRoses`, and `RoyalMinorityCustodyPolitics` from their complete preserved evidence inventories. Core synthesis: Edward IV's unexpected Woodville marriage and patronage redistribution fractured an already contingent Yorkist coalition; exile, restoration, dynastic violence, regional power bases, and the placement of Edward V under Anthony Woodville produced an apparently secure but structurally fragile minority succession. No settled contradiction was adopted. Richard's pre-1483 loyalty, piety, military competence, and northern administration qualify Tudor-Shakespearean caricature without displacing Part 2's probability-ranked judgment about the princes; Henry VI's killers, Clarence's manner of death, Warwick's motives, and the causal weight of the marriage remain uncertain or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,415-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed; the repository-wide scanner retained 14 unrelated pre-existing broken wikilinks.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

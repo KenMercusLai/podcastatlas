@@ -3472,13 +3472,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Science of Love, Desire and Attachment](sources/the-science-of-love-desire-and-attachment-scim1112390541.md) — Huberman Lab solo episode on attachment plasticity, autonomic co-regulation, partner idealization, self-expansion, chemical cues, relationship conflict, and multisystem libido.
 - [Using Play to Rewire & Improve Your Brain](sources/using-play-to-rewire-improve-your-brain-scim9321743392.md) — Huberman Lab solo episode on low-stakes contingency testing, play signals, role and rule learning, dynamic movement, adult neuroplasticity, and evidence-bounded trauma claims.
 - [Optimizing Workspace for Productivity, Focus, & Creativity](sources/optimizing-workspace-for-productivity-focus-creativity-scim5202577757.md) — Huberman Lab solo episode on task-matched light, gaze, posture, sound, interruption boundaries, movement, and active-workstation tradeoffs.
+- [138. The Princes in the Tower Part 1](sources/138-the-princes-in-the-tower-part-1-glt6274021473.md) — The Rest Is History episode on Edward IV's Woodville marriage, Yorkist factional rupture, exile and restoration, the princes' upbringing, and the fragile 1483 succession.
 - [139. The Princes in the Tower Part 2](sources/139-the-princes-in-the-tower-part-2-glt4685691538.md) — The Rest Is History episode on Edward V's seizure, Richard III's escalating usurpation, the princes' disappearance, probable murder, alternative suspects, remains, and survival theories.
 
 ## Entities
-- [Edward IV](entities/EdwardIV.md) — Yorkist king whose death opened the 1483 child-succession and custody crisis.
-- [Edward V](entities/EdwardV.md) — Uncrowned child king seized, isolated, delegitimized, and disappeared under Richard III's control.
-- [Richard of Shrewsbury](entities/RichardOfShrewsbury.md) — Younger prince transferred from sanctuary to the Tower before disappearing with Edward V.
-- [Elizabeth Woodville](entities/ElizabethWoodville.md) — Queen dowager whose compromise, affinity, and sanctuary strategies failed to protect her sons' claims.
+- [Edward IV](entities/EdwardIV.md) — Yorkist warrior-king whose Woodville marriage, restoration, patronage, and sudden death shaped the fragile 1483 succession.
+- [Edward V](entities/EdwardV.md) — Sanctuary-born Ludlow heir whose preparation for rule ended in seizure, delegitimation, and disappearance.
+- [Richard of Shrewsbury](entities/RichardOfShrewsbury.md) — Younger dynastic reserve transferred from sanctuary to the Tower before disappearing with Edward V.
+- [Elizabeth Woodville](entities/ElizabethWoodville.md) — Unconventional royal bride and queen mother whose affinity and protective strategies became central to the Yorkist succession crisis.
+- [Anthony Woodville](entities/AnthonyWoodville.md) — Learned Woodville courtier and governor whose custody of Edward V joined education to factional power.
+- [Richard Neville, Earl of Warwick](entities/RichardNevilleEarlOfWarwick.md) — Yorkist magnate whose marriage-policy rupture with Edward IV led to rebellion, restoration, and defeat.
+- [George, Duke of Clarence](entities/GeorgeDukeOfClarence.md) — Yorkist royal brother whose defections and death narrowed the adult dynastic field before 1483.
 - [William Hastings](entities/WilliamHastings.md) — Edward IV loyalist whose summary execution marks the crisis's turn toward overt usurpation.
 - [Henry Stafford, Duke of Buckingham](entities/HenryStaffordDukeOfBuckingham.md) — Richard III ally, later rebel, and principal alternative suspect in the princes' deaths.
 - [Dan Jackson](entities/DanJackson.md) — Historian interpreting British railway origins through North East coal, cumulative invention, institutions, and social change.
@@ -15416,7 +15420,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Siege of Khartoum](entities/SiegeOfKhartoum.md) — 1884-1885 siege where an ambiguous mission ended in Mahdist victory, Gordon's death, and a powerful betrayal narrative.
 
 ## Concepts
-- [Royal Minority Custody Politics](concepts/RoyalMinorityCustodyPolitics.md) — How physical access to a child monarch becomes control over information, ceremony, force, and government.
+- [Royal Minority Custody Politics](concepts/RoyalMinorityCustodyPolitics.md) — How pre-accession households and physical access to a child monarch shape information, ceremony, force, and government.
 - [Usurpation Escalation Trap](concepts/UsurpationEscalationTrap.md) — How improvised coercion creates new risks that make further removal, delegitimation, and violence attractive.
 - [British Railway Revolution](concepts/BritishRailwayRevolution.md) — Cumulative alignment of tracks, steam, coal demand, engineering, finance, and permission behind Britain's railway system.
 - [Private Railway Expansion Governance](concepts/PrivateRailwayExpansionGovernance.md) — Company-led, parliamentary model that accelerated rail construction while producing speculation, fragmentation, and standardization problems.

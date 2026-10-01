@@ -12830,6 +12830,22 @@
       "updated": "2026-09-19",
       "url": "/wiki/entities/anthonyfauci/"
     },
+    "AnthonyWoodville": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6274021473 [GLT6274021473].md",
+          "key": "138-the-princes-in-the-tower-part-1-glt6274021473",
+          "show": "The Rest Is History",
+          "title": "138. The Princes in the Tower Part 1",
+          "url": "/wiki/sources/138-the-princes-in-the-tower-part-1-glt6274021473/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/anthonywoodville/"
+    },
     "AnthropicBiologicalResearchLab": {
       "episode_count": 1,
       "show_count": 1,
@@ -55185,9 +55201,9 @@
       "url": "/wiki/entities/edwardiiofengland/"
     },
     "EdwardIV": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4685691538 [GLT4685691538].md",
@@ -55195,6 +55211,13 @@
           "show": "The Rest Is History",
           "title": "139. The Princes in the Tower Part 2",
           "url": "/wiki/sources/139-the-princes-in-the-tower-part-2-glt4685691538/"
+        },
+        {
+          "episode_file": "GLT6274021473 [GLT6274021473].md",
+          "key": "138-the-princes-in-the-tower-part-1-glt6274021473",
+          "show": "The Rest Is History",
+          "title": "138. The Princes in the Tower Part 1",
+          "url": "/wiki/sources/138-the-princes-in-the-tower-part-1-glt6274021473/"
         }
       ],
       "updated": "2026-10-02",
@@ -55378,9 +55401,9 @@
       "url": "/wiki/entities/edwardtheconfessor/"
     },
     "EdwardV": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4685691538 [GLT4685691538].md",
@@ -55388,6 +55411,13 @@
           "show": "The Rest Is History",
           "title": "139. The Princes in the Tower Part 2",
           "url": "/wiki/sources/139-the-princes-in-the-tower-part-2-glt4685691538/"
+        },
+        {
+          "episode_file": "GLT6274021473 [GLT6274021473].md",
+          "key": "138-the-princes-in-the-tower-part-1-glt6274021473",
+          "show": "The Rest Is History",
+          "title": "138. The Princes in the Tower Part 1",
+          "url": "/wiki/sources/138-the-princes-in-the-tower-part-1-glt6274021473/"
         }
       ],
       "updated": "2026-10-02",
@@ -56448,9 +56478,9 @@
       "url": "/wiki/entities/elizabethii/"
     },
     "ElizabethWoodville": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4685691538 [GLT4685691538].md",
@@ -56458,6 +56488,13 @@
           "show": "The Rest Is History",
           "title": "139. The Princes in the Tower Part 2",
           "url": "/wiki/sources/139-the-princes-in-the-tower-part-2-glt4685691538/"
+        },
+        {
+          "episode_file": "GLT6274021473 [GLT6274021473].md",
+          "key": "138-the-princes-in-the-tower-part-1-glt6274021473",
+          "show": "The Rest Is History",
+          "title": "138. The Princes in the Tower Part 1",
+          "url": "/wiki/sources/138-the-princes-in-the-tower-part-1-glt6274021473/"
         }
       ],
       "updated": "2026-10-02",
@@ -77031,6 +77068,22 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/entities/georgecrook/"
+    },
+    "GeorgeDukeOfClarence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6274021473 [GLT6274021473].md",
+          "key": "138-the-princes-in-the-tower-part-1-glt6274021473",
+          "show": "The Rest Is History",
+          "title": "138. The Princes in the Tower Part 1",
+          "url": "/wiki/sources/138-the-princes-in-the-tower-part-1-glt6274021473/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/georgedukeofclarence/"
     },
     "GeorgeIII": {
       "episode_count": 4,
@@ -154098,9 +154151,9 @@
       "url": "/wiki/concepts/princelyconsortdependency/"
     },
     "PrincesInTheTower": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "69.闲聊推理文学：历史学者可不就是侦探吗！ [666244465].md",
@@ -154122,6 +154175,13 @@
           "show": "The Rest Is History",
           "title": "139. The Princes in the Tower Part 2",
           "url": "/wiki/sources/139-the-princes-in-the-tower-part-2-glt4685691538/"
+        },
+        {
+          "episode_file": "GLT6274021473 [GLT6274021473].md",
+          "key": "138-the-princes-in-the-tower-part-1-glt6274021473",
+          "show": "The Rest Is History",
+          "title": "138. The Princes in the Tower Part 1",
+          "url": "/wiki/sources/138-the-princes-in-the-tower-part-1-glt6274021473/"
         }
       ],
       "updated": "2026-10-02",
@@ -163636,9 +163696,9 @@
       "url": "/wiki/entities/richardfeynman/"
     },
     "RichardIII": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "69.闲聊推理文学：历史学者可不就是侦探吗！ [666244465].md",
@@ -163660,6 +163720,13 @@
           "show": "The Rest Is History",
           "title": "139. The Princes in the Tower Part 2",
           "url": "/wiki/sources/139-the-princes-in-the-tower-part-2-glt4685691538/"
+        },
+        {
+          "episode_file": "GLT6274021473 [GLT6274021473].md",
+          "key": "138-the-princes-in-the-tower-part-1-glt6274021473",
+          "show": "The Rest Is History",
+          "title": "138. The Princes in the Tower Part 1",
+          "url": "/wiki/sources/138-the-princes-in-the-tower-part-1-glt6274021473/"
         }
       ],
       "updated": "2026-10-02",
@@ -163734,6 +163801,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/entities/richardjdaley/"
     },
+    "RichardNevilleEarlOfWarwick": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6274021473 [GLT6274021473].md",
+          "key": "138-the-princes-in-the-tower-part-1-glt6274021473",
+          "show": "The Rest Is History",
+          "title": "138. The Princes in the Tower Part 1",
+          "url": "/wiki/sources/138-the-princes-in-the-tower-part-1-glt6274021473/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/richardnevilleearlofwarwick/"
+    },
     "RichardNixon": {
       "episode_count": 6,
       "show_count": 4,
@@ -163786,9 +163869,9 @@
       "url": "/wiki/entities/richardnixon/"
     },
     "RichardOfShrewsbury": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4685691538 [GLT4685691538].md",
@@ -163796,6 +163879,13 @@
           "show": "The Rest Is History",
           "title": "139. The Princes in the Tower Part 2",
           "url": "/wiki/sources/139-the-princes-in-the-tower-part-2-glt4685691538/"
+        },
+        {
+          "episode_file": "GLT6274021473 [GLT6274021473].md",
+          "key": "138-the-princes-in-the-tower-part-1-glt6274021473",
+          "show": "The Rest Is History",
+          "title": "138. The Princes in the Tower Part 1",
+          "url": "/wiki/sources/138-the-princes-in-the-tower-part-1-glt6274021473/"
         }
       ],
       "updated": "2026-10-02",
@@ -166529,9 +166619,9 @@
       "url": "/wiki/concepts/royalkinshipscandaladjudication/"
     },
     "RoyalMinorityCustodyPolitics": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4685691538 [GLT4685691538].md",
@@ -166539,6 +166629,13 @@
           "show": "The Rest Is History",
           "title": "139. The Princes in the Tower Part 2",
           "url": "/wiki/sources/139-the-princes-in-the-tower-part-2-glt4685691538/"
+        },
+        {
+          "episode_file": "GLT6274021473 [GLT6274021473].md",
+          "key": "138-the-princes-in-the-tower-part-1-glt6274021473",
+          "show": "The Rest Is History",
+          "title": "138. The Princes in the Tower Part 1",
+          "url": "/wiki/sources/138-the-princes-in-the-tower-part-1-glt6274021473/"
         }
       ],
       "updated": "2026-10-02",
@@ -200816,9 +200913,9 @@
       "url": "/wiki/entities/warrencommission/"
     },
     "WarsOfTheRoses": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "31.冰与火之歌：虽然从不自称历史 [594509848].md",
@@ -200833,6 +200930,13 @@
           "show": "The Rest Is History",
           "title": "139. The Princes in the Tower Part 2",
           "url": "/wiki/sources/139-the-princes-in-the-tower-part-2-glt4685691538/"
+        },
+        {
+          "episode_file": "GLT6274021473 [GLT6274021473].md",
+          "key": "138-the-princes-in-the-tower-part-1-glt6274021473",
+          "show": "The Rest Is History",
+          "title": "138. The Princes in the Tower Part 1",
+          "url": "/wiki/sources/138-the-princes-in-the-tower-part-1-glt6274021473/"
         }
       ],
       "updated": "2026-10-02",
