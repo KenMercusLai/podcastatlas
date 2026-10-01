@@ -1296,6 +1296,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "186-the-new-elizabethan-age-glt7640926802": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "187-australian-prime-ministers-edmund-barton-robert-menzies-part-1-glt3017584065": [
     {
       "key": "history",
@@ -33169,6 +33181,13 @@
       "label": "Politics",
       "url": "/topics/politics/"
     },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "FrancesChristie": [
     {
       "key": "culture",
       "label": "Culture",

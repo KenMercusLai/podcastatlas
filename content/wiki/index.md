@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [186. The New Elizabethan Age](sources/186-the-new-elizabethan-age-glt7640926802.md) — The Rest Is History episode on Elizabeth II's image, sacred office, punk critique, popular-culture adaptation, and post-imperial British soft power.
 - [187. Australian Prime Ministers: Edmund Barton - Robert Menzies (Part 1)](sources/187-australian-prime-ministers-edmund-barton-robert-menzies-part-1-glt3017584065.md) — The Rest Is History survey of federation, mateship and racial exclusion, Curtin's wartime U.S. turn, Chifley, and Menzies's suburban anti-communist coalition.
 - [Boost Attention & Memory with Science-Based Tools | Dr. Wendy Suzuki](sources/boost-attention-memory-with-science-based-tools-dr-wendy-suzuki-scim2980742096.md) — Huberman Lab interview on memory-encoding levers, hippocampal association, exercise-linked cognitive resilience, brief meditation, and explicit evidence boundaries.
 - [190. Jubilees](sources/190-jubilees-glt4093596173.md) — The Rest Is History episode on royal jubilees as snapshots of wartime morale, imperial confidence, economic anxiety, and media-age monarchical adaptation.
@@ -3401,6 +3402,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [188. Australian Prime Ministers: Harold Holt - Malcolm Fraser (Part 2)](sources/188-australian-prime-ministers-harold-holt-malcolm-fraser-part-2-glt4635125602.md) — The Rest Is History survey of Holt through Fraser, Whitlam's reform agenda, the Loans Affair, blocked supply, and the 1975 dismissal.
 
 ## Entities
+- [Frances Christie](entities/FrancesChristie.md) — Sotheby's curator whose Jubilee exhibition interprets Elizabeth II's reign through portraits, ritual objects, protest graphics, art, and jewelry.
 - [Edmund Barton](entities/EdmundBarton.md) — Australia's first prime minister and federation-era fair-play figure.
 - [Robert Menzies](entities/RobertMenzies.md) — Anglophile wartime and long postwar Liberal prime minister.
 - [John Curtin](entities/JohnCurtin.md) — Labor war leader associated with Australia's strategic turn toward the United States.
@@ -15216,6 +15218,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [John Kerr](entities/JohnKerr.md) — Governor-general who dismissed Whitlam and commissioned Fraser during the 1975 constitutional crisis.
 
 ## Concepts
+- [Royal Image Cultural Adaptation](concepts/RoyalImageCulturalAdaptation.md) — reuse of a recognizable monarch's image across sacred, celebrity, oppositional, and later institutionally incorporated cultural forms.
 - [Australian Mateship](concepts/AustralianMateship.md) — Egalitarian solidarity ideal qualified by masculine and racial exclusion.
 - [White Australia Policy](concepts/WhiteAustraliaPolicy.md) — Racially restrictive immigration regime embedded in early federation.
 - [Australian Strategic Realignment](concepts/AustralianStrategicRealignment.md) — Wartime shift from British imperial defense toward U.S.-centered security.

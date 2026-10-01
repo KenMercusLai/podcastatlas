@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2994
+topic_total_pages: 2996
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -4073,6 +4073,9 @@ topic_entities:
   - key: "France"
     title: "France"
     url: "/wiki/entities/france/"
+  - key: "FrancesChristie"
+    title: "Frances Christie"
+    url: "/wiki/entities/franceschristie/"
   - key: "FrancoisTruffaut"
     title: "Francois Truffaut / 特吕弗"
     url: "/wiki/entities/francoistruffaut/"
@@ -8157,6 +8160,9 @@ topic_sources:
   - key: "184-weile-zai-suanfa-shidai-bei-tingjian-women-gaibian-le-duoshao-ziji-duitan-shengdongjixi-zhangjing-lpotw0uqivlj8m6otnoxh0kahee5"
     title: "184.为了在算法时代被“听见”，我们改变了多少自己？｜对谈「声东击西」张晶"
     url: "/wiki/sources/184-weile-zai-suanfa-shidai-bei-tingjian-women-gaibian-le-duoshao-ziji-duitan-shengdongjixi-zhangjing-lpotw0uqivlj8m6otnoxh0kahee5/"
+  - key: "186-the-new-elizabethan-age-glt7640926802"
+    title: "186. The New Elizabethan Age"
+    url: "/wiki/sources/186-the-new-elizabethan-age-glt7640926802/"
   - key: "186-rang-ni-xiao-dao-tou-diao-reng-bu-wang-sikao-weida-de-xiaoshi-shijie-manyou-zhinan-998655210"
     title: "186.让你笑到头掉仍不忘思考，伟大的《消逝世界漫游指南》"
     url: "/wiki/sources/186-rang-ni-xiao-dao-tou-diao-reng-bu-wang-sikao-weida-de-xiaoshi-shijie-manyou-zhinan-998655210/"

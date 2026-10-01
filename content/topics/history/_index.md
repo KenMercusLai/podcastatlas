@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2307
+topic_total_pages: 2308
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4794,6 +4794,9 @@ topic_sources:
   - key: "171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962"
     title: "171.闲聊十二生肖之马：观音大士的兴趣爱好,及老头环角色的灵感"
     url: "/wiki/sources/171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962/"
+  - key: "186-the-new-elizabethan-age-glt7640926802"
+    title: "186. The New Elizabethan Age"
+    url: "/wiki/sources/186-the-new-elizabethan-age-glt7640926802/"
   - key: "187-australian-prime-ministers-edmund-barton-robert-menzies-part-1-glt3017584065"
     title: "187. Australian Prime Ministers: Edmund Barton - Robert Menzies (Part 1)"
     url: "/wiki/sources/187-australian-prime-ministers-edmund-barton-robert-menzies-part-1-glt3017584065/"

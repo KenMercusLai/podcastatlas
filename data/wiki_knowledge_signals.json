@@ -23804,9 +23804,9 @@
       "url": "/wiki/concepts/britishconstitutionalconventions/"
     },
     "BritishCoronationRitual": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT8755026279 [GLT8755026279].md",
@@ -23828,6 +23828,13 @@
           "show": "The Rest Is History",
           "title": "327: Coronations: The Deep History (Part 1)",
           "url": "/wiki/sources/327-coronations-the-deep-history-part-1-glt4746607803/"
+        },
+        {
+          "episode_file": "GLT7640926802 [GLT7640926802].md",
+          "key": "186-the-new-elizabethan-age-glt7640926802",
+          "show": "The Rest Is History",
+          "title": "186. The New Elizabethan Age",
+          "url": "/wiki/sources/186-the-new-elizabethan-age-glt7640926802/"
         }
       ],
       "updated": "2026-09-28",
@@ -48156,9 +48163,9 @@
       "url": "/wiki/entities/dianamitford/"
     },
     "DianaPrincessOfWales": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5667149245 [GLT5667149245].md",
@@ -48166,6 +48173,13 @@
           "show": "The Rest Is History",
           "title": "232. Queen Elizabeth II (Part 2)",
           "url": "/wiki/sources/232-queen-elizabeth-ii-part-2-glt5667149245/"
+        },
+        {
+          "episode_file": "GLT7640926802 [GLT7640926802].md",
+          "key": "186-the-new-elizabethan-age-glt7640926802",
+          "show": "The Rest Is History",
+          "title": "186. The New Elizabethan Age",
+          "url": "/wiki/sources/186-the-new-elizabethan-age-glt7640926802/"
         }
       ],
       "updated": "2026-10-01",
@@ -55120,9 +55134,9 @@
       "url": "/wiki/entities/elizabethi/"
     },
     "ElizabethII": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "GLT8755026279 [GLT8755026279].md",
@@ -55165,6 +55179,13 @@
           "show": "The Rest Is History",
           "title": "190. Jubilees",
           "url": "/wiki/sources/190-jubilees-glt4093596173/"
+        },
+        {
+          "episode_file": "GLT7640926802 [GLT7640926802].md",
+          "key": "186-the-new-elizabethan-age-glt7640926802",
+          "show": "The Rest Is History",
+          "title": "186. The New Elizabethan Age",
+          "url": "/wiki/sources/186-the-new-elizabethan-age-glt7640926802/"
         }
       ],
       "updated": "2026-10-01",
@@ -69363,6 +69384,22 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/entities/france/"
+    },
+    "FrancesChristie": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7640926802 [GLT7640926802].md",
+          "key": "186-the-new-elizabethan-age-glt7640926802",
+          "show": "The Rest Is History",
+          "title": "186. The New Elizabethan Age",
+          "url": "/wiki/sources/186-the-new-elizabethan-age-glt7640926802/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/franceschristie/"
     },
     "FrancesGrey": {
       "episode_count": 1,
@@ -129260,9 +129297,9 @@
       "url": "/wiki/concepts/monalisafameformation/"
     },
     "MonarchicalAdaptiveContinuity": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT5667149245 [GLT5667149245].md",
@@ -129284,6 +129321,13 @@
           "show": "The Rest Is History",
           "title": "190. Jubilees",
           "url": "/wiki/sources/190-jubilees-glt4093596173/"
+        },
+        {
+          "episode_file": "GLT7640926802 [GLT7640926802].md",
+          "key": "186-the-new-elizabethan-age-glt7640926802",
+          "show": "The Rest Is History",
+          "title": "186. The New Elizabethan Age",
+          "url": "/wiki/sources/186-the-new-elizabethan-age-glt7640926802/"
         }
       ],
       "updated": "2026-10-01",
@@ -147418,9 +147462,9 @@
       "url": "/wiki/concepts/posthandoverhongkonggovernance/"
     },
     "PostImperialCommonwealthMonarchy": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT5667149245 [GLT5667149245].md",
@@ -147442,6 +147486,13 @@
           "show": "The Rest Is History",
           "title": "190. Jubilees",
           "url": "/wiki/sources/190-jubilees-glt4093596173/"
+        },
+        {
+          "episode_file": "GLT7640926802 [GLT7640926802].md",
+          "key": "186-the-new-elizabethan-age-glt7640926802",
+          "show": "The Rest Is History",
+          "title": "186. The New Elizabethan Age",
+          "url": "/wiki/sources/186-the-new-elizabethan-age-glt7640926802/"
         }
       ],
       "updated": "2026-10-01",
@@ -161307,9 +161358,9 @@
       "url": "/wiki/concepts/royalexecutionlegitimacy/"
     },
     "RoyalFamilyMediaVulnerability": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5667149245 [GLT5667149245].md",
@@ -161317,6 +161368,13 @@
           "show": "The Rest Is History",
           "title": "232. Queen Elizabeth II (Part 2)",
           "url": "/wiki/sources/232-queen-elizabeth-ii-part-2-glt5667149245/"
+        },
+        {
+          "episode_file": "GLT7640926802 [GLT7640926802].md",
+          "key": "186-the-new-elizabethan-age-glt7640926802",
+          "show": "The Rest Is History",
+          "title": "186. The New Elizabethan Age",
+          "url": "/wiki/sources/186-the-new-elizabethan-age-glt7640926802/"
         }
       ],
       "updated": "2026-10-01",
@@ -161338,10 +161396,26 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/royalfiefdiscipline/"
     },
-    "RoyalJubileeNationalSelfAssessment": {
+    "RoyalImageCulturalAdaptation": {
       "episode_count": 1,
       "show_count": 1,
       "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7640926802 [GLT7640926802].md",
+          "key": "186-the-new-elizabethan-age-glt7640926802",
+          "show": "The Rest Is History",
+          "title": "186. The New Elizabethan Age",
+          "url": "/wiki/sources/186-the-new-elizabethan-age-glt7640926802/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/royalimageculturaladaptation/"
+    },
+    "RoyalJubileeNationalSelfAssessment": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4093596173 [GLT4093596173].md",
@@ -161349,6 +161423,13 @@
           "show": "The Rest Is History",
           "title": "190. Jubilees",
           "url": "/wiki/sources/190-jubilees-glt4093596173/"
+        },
+        {
+          "episode_file": "GLT7640926802 [GLT7640926802].md",
+          "key": "186-the-new-elizabethan-age-glt7640926802",
+          "show": "The Rest Is History",
+          "title": "186. The New Elizabethan Age",
+          "url": "/wiki/sources/186-the-new-elizabethan-age-glt7640926802/"
         }
       ],
       "updated": "2026-10-01",
@@ -165937,9 +166018,9 @@
       "url": "/wiki/concepts/sexcounselingnonjudgmentalboundary/"
     },
     "SexPistols": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9598017819 [GLT9598017819].md",
@@ -165947,6 +166028,13 @@
           "show": "The Rest Is History",
           "title": "665. Britain in the 70s: The Bailout from Hell (Part 4)",
           "url": "/wiki/sources/665-britain-in-the-70s-the-bailout-from-hell-part-4-glt9598017819/"
+        },
+        {
+          "episode_file": "GLT7640926802 [GLT7640926802].md",
+          "key": "186-the-new-elizabethan-age-glt7640926802",
+          "show": "The Rest Is History",
+          "title": "186. The New Elizabethan Age",
+          "url": "/wiki/sources/186-the-new-elizabethan-age-glt7640926802/"
         }
       ],
       "updated": "2026-09-12",

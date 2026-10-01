@@ -26749,3 +26749,11 @@ Added source `187-australian-prime-ministers-edmund-barton-robert-menzies-part-1
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | 186. The New Elizabethan Age
+
+Added source `186-the-new-elizabethan-age-glt7640926802`; created `FrancesChristie` and `RoyalImageCulturalAdaptation`; and resynthesized the Elizabeth II, Commonwealth, coronation, jubilee, media-family, Diana, Sex Pistols, and monarchical-adaptation pages from their complete preserved evidence inventories. Core synthesis: Elizabeth II's guarded personality and instantly recognizable image let sacred authority, celebrity, protest, cultural memory, and family vulnerability coexist, while the monarchy adapted partly by incorporating popular culture once positioned against it. No settled contradiction was adopted. The episode's sympathetic monarchy, Commonwealth, freedom-of-speech, and soft-power judgments remain source-scoped, and cultural visibility is not treated as proof of political influence or favorable postcolonial reception. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,344-source coverage; no topic claim set was dirty and global compaction was not due. Identity, knowledge-schema, whitespace, health, changed-page link, index coverage, synthesis, and publish validation passed.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

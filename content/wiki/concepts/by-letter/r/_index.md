@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 9119
+wiki_total_pages: 9120
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -1220,6 +1220,9 @@ wiki_pages:
   - key: "RoyalFamilyMediaVulnerability"
     title: "Royal Family Media Vulnerability"
     url: "/wiki/concepts/royalfamilymediavulnerability/"
+  - key: "RoyalImageCulturalAdaptation"
+    title: "Royal Image Cultural Adaptation"
+    url: "/wiki/concepts/royalimageculturaladaptation/"
   - key: "RoyalJubileeNationalSelfAssessment"
     title: "Royal Jubilee as National Self-Assessment"
     url: "/wiki/concepts/royaljubileenationalselfassessment/"
