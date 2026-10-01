@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 11878
+wiki_total_pages: 11880
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -230,6 +230,9 @@ wiki_pages:
   - key: "TedSarandos"
     title: "Ted Sarandos"
     url: "/wiki/entities/tedsarandos/"
+  - key: "TedVallance"
+    title: "Ted Vallance"
+    url: "/wiki/entities/tedvallance/"
   - key: "Teespring"
     title: "Teespring"
     url: "/wiki/entities/teespring/"

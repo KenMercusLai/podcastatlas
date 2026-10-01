@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9222
+wiki_total_pages: 9223
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1124,6 +1124,9 @@ wiki_pages:
   - key: "PoliticalTalentPipeline"
     title: "Political Talent Pipeline"
     url: "/wiki/concepts/politicaltalentpipeline/"
+  - key: "PoliticalTrialSovereigntyPerformance"
+    title: "Political Trial as Sovereignty Performance"
+    url: "/wiki/concepts/politicaltrialsovereigntyperformance/"
   - key: "PoliticalTrialTheatre"
     title: "Political Trial Theatre"
     url: "/wiki/concepts/politicaltrialtheatre/"

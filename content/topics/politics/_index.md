@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2967
+topic_total_pages: 2968
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2926,6 +2926,9 @@ topic_concepts:
   - key: "PoliticalTalentPipeline"
     title: "Political Talent Pipeline"
     url: "/wiki/concepts/politicaltalentpipeline/"
+  - key: "PoliticalTrialSovereigntyPerformance"
+    title: "Political Trial as Sovereignty Performance"
+    url: "/wiki/concepts/politicaltrialsovereigntyperformance/"
   - key: "PoliticalTrialTheatre"
     title: "Political Trial Theatre"
     url: "/wiki/concepts/politicaltrialtheatre/"

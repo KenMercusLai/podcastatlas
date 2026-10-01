@@ -30936,9 +30936,9 @@
       "url": "/wiki/entities/charlesiiofengland/"
     },
     "CharlesIOfEngland": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT3360112790 [GLT3360112790].md",
@@ -30953,9 +30953,16 @@
           "show": "The Rest Is History",
           "title": "249. Treason in Modern Britain (Part 2)",
           "url": "/wiki/sources/249-treason-in-modern-britain-part-2-glt2159531504/"
+        },
+        {
+          "episode_file": "GLT2968292003 [GLT2968292003].md",
+          "key": "144-the-trial-of-charles-i-part-2-glt2968292003",
+          "show": "The Rest Is History",
+          "title": "144. The Trial of Charles I Part 2",
+          "url": "/wiki/sources/144-the-trial-of-charles-i-part-2-glt2968292003/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/charlesiofengland/"
     },
     "CharlesLightoller": {
@@ -104097,6 +104104,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/johnball/"
     },
+    "JohnBradshaw": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2968292003 [GLT2968292003].md",
+          "key": "144-the-trial-of-charles-i-part-2-glt2968292003",
+          "show": "The Rest Is History",
+          "title": "144. The Trial of Charles I Part 2",
+          "url": "/wiki/sources/144-the-trial-of-charles-i-part-2-glt2968292003/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/johnbradshaw/"
+    },
     "JohnBrown": {
       "episode_count": 1,
       "show_count": 1,
@@ -150039,9 +150062,9 @@
       "url": "/wiki/concepts/politicaldefeatculturalafterlife/"
     },
     "PoliticalExecutionMemoryContest": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2184509954 [GLT2184509954].md",
@@ -150056,9 +150079,16 @@
           "show": "The Rest Is History",
           "title": "339: Ireland: The Easter Rising, 1916 (Part 4)",
           "url": "/wiki/sources/339-ireland-the-easter-rising-1916-part-4-glt7095481415/"
+        },
+        {
+          "episode_file": "GLT2968292003 [GLT2968292003].md",
+          "key": "144-the-trial-of-charles-i-part-2-glt2968292003",
+          "show": "The Rest Is History",
+          "title": "144. The Trial of Charles I Part 2",
+          "url": "/wiki/sources/144-the-trial-of-charles-i-part-2-glt2968292003/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/politicalexecutionmemorycontest/"
     },
     "PoliticalExecutionOverreach": {
@@ -150299,6 +150329,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/concepts/politicalroleadaptability/"
+    },
+    "PoliticalTrialSovereigntyPerformance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2968292003 [GLT2968292003].md",
+          "key": "144-the-trial-of-charles-i-part-2-glt2968292003",
+          "show": "The Rest Is History",
+          "title": "144. The Trial of Charles I Part 2",
+          "url": "/wiki/sources/144-the-trial-of-charles-i-part-2-glt2968292003/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/politicaltrialsovereigntyperformance/"
     },
     "PollTax": {
       "episode_count": 2,
@@ -159998,9 +160044,9 @@
       "url": "/wiki/concepts/regentshadowaccessionsurvival/"
     },
     "RegicideAsRepublicanFounding": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT2184509954 [GLT2184509954].md",
@@ -160029,9 +160075,16 @@
           "show": "The Rest Is History",
           "title": "249. Treason in Modern Britain (Part 2)",
           "url": "/wiki/sources/249-treason-in-modern-britain-part-2-glt2159531504/"
+        },
+        {
+          "episode_file": "GLT2968292003 [GLT2968292003].md",
+          "key": "144-the-trial-of-charles-i-part-2-glt2968292003",
+          "show": "The Rest Is History",
+          "title": "144. The Trial of Charles I Part 2",
+          "url": "/wiki/sources/144-the-trial-of-charles-i-part-2-glt2968292003/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/regicideasrepublicanfounding/"
     },
     "RegimeSymbolContinuity": {
@@ -186093,6 +186146,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/tedsarandos/"
+    },
+    "TedVallance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2968292003 [GLT2968292003].md",
+          "key": "144-the-trial-of-charles-i-part-2-glt2968292003",
+          "show": "The Rest Is History",
+          "title": "144. The Trial of Charles I Part 2",
+          "url": "/wiki/sources/144-the-trial-of-charles-i-part-2-glt2968292003/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/tedvallance/"
     },
     "Telemachus": {
       "episode_count": 1,

@@ -618,6 +618,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "144-the-trial-of-charles-i-part-2-glt2968292003": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "145-babylon-glt7141377161": [
     {
       "key": "history",
@@ -62066,6 +62073,13 @@
     }
   ],
   "PoliticalTalentPipeline": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "PoliticalTrialSovereigntyPerformance": [
     {
       "key": "politics",
       "label": "Politics",

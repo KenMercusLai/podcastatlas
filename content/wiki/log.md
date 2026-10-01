@@ -27037,6 +27037,7 @@ Added source `how-to-build-strength-muscle-size-endurance-dr-andy-galpin-scim948
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -27263,6 +27264,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-02] ingest | 145. Babylon
 
 Added source `145-babylon-glt7141377161`; created `NebuchadnezzarII`, `Nabonidus`, `BabylonianExileIdentityFormation`, and `BabylonAsImperialMetaphor`; and resynthesized `Babylon`, `Marduk`, and `CyrusTheGreat` from their complete preserved evidence inventories. Core synthesis: Babylon's authority joined sacred centrality, monumental capital, commerce, conquest, and textual afterlife; Judean exile turned imperial catastrophe into identity work, while Jeremiah, Daniel, Revelation, Protestant polemic, Rastafarianism, nationalism, and war made Babylon a portable critique of dominating power. No settled contradiction was adopted. Foundation dates, population and monument measurements, Herodotus's customs, the Hanging Gardens, Daniel's chronology, Nabonidus's motives, Cyrus's reception, and the causal weight of exile remain qualified or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,406-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | 144. The Trial of Charles I Part 2
+
+Added source `144-the-trial-of-charles-i-part-2-glt2968292003`; created `TedVallance`, `JohnBradshaw`, and `PoliticalTrialSovereigntyPerformance`; and resynthesized `CharlesIOfEngland`, `RegicideAsRepublicanFounding`, and `PoliticalExecutionMemoryContest` from their complete preserved evidence inventories. Core synthesis: Charles I's extraordinary public court used war law, command responsibility, hierarchy reversal, testimony, and staging to claim popular sovereignty, but his courtroom and scaffold self-presentation, *Eikon Basilike*, blood relics, and public shock helped regicide strengthen royalist martyrdom even as republicans treated 1649 as restored freedom. No settled contradiction was adopted. Anne Fairfax's interruptions, Charles's final words, Richard Brandon's identity, signer coercion, crowd response, alternative sentences, publication reception, and influence on later revolutions remain disputed or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,407-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
 
 ## [2026-10-02] lint | Wiki health check
 

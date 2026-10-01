@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [144. The Trial of Charles I Part 2](sources/144-the-trial-of-charles-i-part-2-glt2968292003.md) — The Rest Is History with Ted Vallance on Charles I's extraordinary court, disputed popular sovereignty, scaffold execution, royalist martyrdom, and republican afterlife.
 - [145. Babylon](sources/145-babylon-glt7141377161.md) — The Rest Is History on Neo-Babylonian monumental power, Judean exile, Persian conquest, urban decline, and Babylon's biblical and anti-imperial afterlives.
 - [146. Disease vs. the rise of civilisation](sources/146-disease-vs-the-rise-of-civilisation-glt4238916512.md) — The Rest Is History interview with Kyle Harper on human disease ecology, agricultural settlement, urban demographic sinks, the Black Death, and the mortality transition.
 - [147. Disease, the New World and modern pandemics](sources/147-disease-the-new-world-and-modern-pandemics-glt1023018457.md) — The Rest Is History interview with Kyle Harper on the Columbian Exchange, plantation disease ecology, sanitation, cholera, influenza, COVID-19, and globalization.
@@ -15383,6 +15384,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mary Ainsworth](entities/MaryAinsworth.md) — Developmental psychologist whose Strange Situation anchors the episode's plasticity-qualified attachment account.
 - [Helen Fisher](entities/HelenFisher.md) — Relationship researcher associated with desire-love-attachment phases and broad mate-selection types.
 - [Julie Gottman](entities/JulieGottman.md) — Relationship researcher linked with John Gottman to couple outcomes and destructive conflict patterns.
+- [Ted Vallance](entities/TedVallance.md) — Historian interpreting Charles I's trial through law, war, sovereignty, public performance, and contested memory.
+- [John Bradshaw](entities/JohnBradshaw.md) — Lawyer who presided over the extraordinary High Court that tried Charles I.
 
 ## Concepts
 - [Babylonian Exile Identity Formation](concepts/BabylonianExileIdentityFormation.md) — How conquest, Temple loss, elite deportation, textual work, and religious boundary-making sharpened Judean identity.
@@ -24657,5 +24660,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Task-Specific Workspace Design](concepts/TaskSpecificWorkspaceDesign.md) — Portable framework for matching light, gaze, posture, visual space, sound, movement, and location to task and time of day.
 - [Interruption Boundary Design](concepts/InterruptionBoundaryDesign.md) — Layered use of layout, social signals, software controls, and device separation to protect focus and reduce re-entry cost.
 - [Active Workstation Task Tradeoff](concepts/ActiveWorkstationTaskTradeoff.md) — Task-specific distinction between attention benefits and verbal-memory costs during standing, treadmill, or cycling work.
+- [Political Trial as Sovereignty Performance](concepts/PoliticalTrialSovereigntyPerformance.md) — How jurisdiction, legal improvisation, hierarchy, audience, testimony, and security enact a disputed claim to judge a sovereign.
 
 ## Syntheses
