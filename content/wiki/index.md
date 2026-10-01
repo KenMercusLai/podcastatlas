@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Science of Mindsets for Health & Performance | Dr. Alia Crum](sources/science-of-mindsets-for-health-performance-dr-alia-crum-scim9502231820.md) — Huberman Lab interview on mindset effects across food, exercise, stress, feedback, treatment, physiology, and their evidence boundaries.
 - [142. General Gordon and the Siege of Khartoum](sources/142-general-gordon-and-the-siege-of-khartoum-glt6227664313.md) — The Rest Is History on Gordon's abolitionism, the Mahdist revolt, press-driven mission ambiguity, Khartoum, delayed relief, and imperial martyr memory.
 - [143. The Trial of Charles I Part 1](sources/143-the-trial-of-charles-i-part-1-glt4850801452.md) — The Rest Is History with Ted Vallance on Charles I's rule, renewed civil war, army radicalization, Pride's Purge, and the disputed popular sovereignty behind his trial.
 - [144. The Trial of Charles I Part 2](sources/144-the-trial-of-charles-i-part-2-glt2968292003.md) — The Rest Is History with Ted Vallance on Charles I's extraordinary court, disputed popular sovereignty, scaffold execution, royalist martyrdom, and republican afterlife.
@@ -3984,7 +3985,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Adam I. P. Smith](entities/AdamIPSmith.md) — Historian framing the American Revolution as overlapping continental, civil, and global wars with uneven political consequences.
 - [Yorktown](entities/Yorktown.md) — 1781 coalition siege where American endurance and French land and naval power made British recovery politically untenable.
 - [Articles of Confederation](entities/ArticlesOfConfederation.md) — Weak first U.S. governing framework whose limited executive and taxing capacity motivated constitutional redesign.
-- [Ali Crum](entities/AliCrum.md) — Psychologist connecting mindset as an organizing lens to stress-enhancing appraisal and performance under demand.
+- [Alia Crum](entities/AliCrum.md) — Stanford psychologist connecting domain-specific mindsets to physiology, stress, performance, and treatment response.
 - [Claudia Mueller](entities/ClaudiaMueller.md) — Psychologist named for intelligence-versus-effort praise research on challenge choice, performance, and self-presentation.
 - [Dutch East India Company](entities/DutchEastIndiaCompany.md) — State-chartered VOC joining Asian monopoly trade, permanent company shares, and Amsterdam's financial market while carrying an underdeveloped colonial-coercion history.
 - [Amsterdam Stock Exchange](entities/AmsterdamStockExchange.md) — Organized VOC share market associated with resale, speculation, short selling, trading rules, and manipulation controls.
@@ -16162,7 +16163,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Conditioned Physiological Responses](concepts/ConditionedPhysiologicalResponses.md) — Learning mechanism through which drug, food, or treatment cues acquire specific hormonal or metabolic effects.
 - [Treatment Context and Dose Expectation](concepts/TreatmentContextDoseExpectation.md) — Framework for how branding, form, instructions, and believed dose shape treatment response.
 - [Symptom–Function Dissociation](concepts/SymptomFunctionDissociation.md) — Evidence boundary separating meaningful symptom relief from objective functional or disease modification.
-- [Mindset Effects on Physiology](concepts/MindsetPhysiologyEffects.md) — Bounded account of how food and activity framing can interact with hormonal and health-related outcomes.
+- [Mindset Effects on Physiology](concepts/MindsetPhysiologyEffects.md) — Bounded account of how framing can interact with food, activity, stress, feedback, treatment, and physiological outcomes.
 - [Metformin Longevity Evidence Boundary](concepts/MetforminLongevityEvidenceBoundary.md) — Separates metformin's metabolic indication from unproven general geroprotection in healthy people.
 - [Rapid Weight-Loss Safety Boundary / 快速减重安全边界](concepts/RapidWeightLossSafetyBoundary.md) — Cross-method safety frame for assessment, pacing, body composition, severe restriction, exercise overload, medication and procedure eligibility, escalation, and maintenance.
 - [TCM Weight-Management Boundary / 中医减重边界](concepts/TCMWeightManagementBoundary.md) — Separates health-first, gradual, individualized weight management from unvalidated TCM diagnostic and treatment claims.

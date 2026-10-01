@@ -27291,3 +27291,11 @@ Added source `142-general-gordon-and-the-siege-of-khartoum-glt6227664313`; creat
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | Science of Mindsets for Health & Performance | Dr. Alia Crum
+
+Added source `science-of-mindsets-for-health-performance-dr-alia-crum-scim9502231820`; resynthesized `AliCrum`, `MindsetPhysiologyEffects`, `PlaceboNoceboExpectationEffects`, and `ThreatChallengeStressReappraisal` from their complete preserved evidence inventories. Core synthesis: mindsets are domain-specific assumptions that can shape attention, behavior, symptoms, performance, and some physiological responses while interacting with objective food, activity, stress, treatment, and social context; useful reframing must remain credible and cannot replace material resources, safety, or active care. The prior `LeahCrum` identity is flagged as an apparent source-local misidentification of Alia Crum rather than silently merged. Study methods, effect sizes, replication, durability, causal interpretation, and clinical generalization remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,410-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed; the corpus-wide scan retained 14 unrelated pre-existing broken wikilinks.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

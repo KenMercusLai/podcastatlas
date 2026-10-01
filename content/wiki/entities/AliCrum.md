@@ -1,43 +1,55 @@
 ---
-title: "Ali Crum"
+title: "Alia Crum"
 type: entity
 tags: [person, psychologist, mindset, stress]
 sources:
   - how-to-enhance-performance-learning-by-applying-a-growth-mindset-scim1082295503
-last_updated: 2026-09-28
+  - science-of-mindsets-for-health-performance-dr-alia-crum-scim9502231820
+last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
 
-# Ali Crum
+# Alia Crum
 
 ## Overview
-Ali Crum is the psychologist whose work in the episode defines mindsets as organizing lenses and tests how stress-enhancing versus stress-diminishing information can change response to demanding tasks.
+Alia “Ali” Crum is a Stanford psychologist whose work defines mindsets as domain-specific assumptions that organize expectations, explanations, goals, behavior, and some physiological responses.
 
 ## Current Profile
-[[how-to-enhance-performance-learning-by-applying-a-growth-mindset-scim1082295503]] presents Crum as the main source for the stress-is-enhancing branch of the episode. Her framework does not claim that all stress is good; it proposes that interpretation helps determine whether manageable arousal is used as preparation or experienced only as impairment.
+Across the sources, Crum's research program extends beyond performance stress to food, exercise, health communication, symptoms, and active treatment. [[science-of-mindsets-for-health-performance-dr-alia-crum-scim9502231820]] presents milkshake and hotel-housekeeper studies as evidence that meaning can interact with biological and health outcomes, then connects stress mindset to workplace and Navy SEAL performance and side-effect framing to allergy treatment.
 
-The episode connects this work to [[GrowthMindset]] through [[ThreatChallengeStressReappraisal]]. Reframing ability makes errors more usable, while reframing stress can make the bodily state surrounding those errors less identity-threatening and more available for correction.
+Her framework does not claim that thought overrides material reality or that every stressor is beneficial. It instead asks how a belief changes attention, motivation, behavior, and physiological preparation. [[GrowthMindset]] and [[ThreatChallengeStressReappraisal]] are complementary applications: one changes the interpretation of ability and error, while the other can make manageable arousal more usable when resources and a viable goal are present.
 
 ## Key Characteristics
-- Defines mindset as a mental lens that selects, organizes, and encodes information.
-- Studies how stress expectations shape attention, physiology, and performance.
-- Distinguishes stress-enhancing interpretation from the claim that every stressor is beneficial.
-- Supplies the stress-appraisal half of the episode's combined mindset framework.
+- Defines mindsets as default, domain-specific beliefs that shape expectation, explanation, goals, and action.
+- Studies how informational framing interacts with food, exercise, stress, symptoms, treatment, and physiology.
+- Distinguishes stress-enhancing interpretation from the claim that adversity itself is good.
+- Treats behavior, context, objective inputs, and mindset as joint contributors rather than rivals.
+- Frames deliberate mindset change as noticing a belief, examining its effects, and adopting a more useful credible interpretation.
 
 ## Evidence
-- Mindset definition - [[how-to-enhance-performance-learning-by-applying-a-growth-mindset-scim1082295503]] attributes the organizing-lens account of mindset to Crum.
-- Stress intervention - [[how-to-enhance-performance-learning-by-applying-a-growth-mindset-scim1082295503]] describes groups receiving accurate stress-enhancing or stress-diminishing information and reports stronger hard-task performance in the enhancing condition.
-- Physiological interpretation - [[how-to-enhance-performance-learning-by-applying-a-growth-mindset-scim1082295503]] connects stress-enhancing appraisal to shorter cortisol response, cardiac output, peripheral blood flow, and clearer cognition.
+### Mindset definition and physiology
+- [[how-to-enhance-performance-learning-by-applying-a-growth-mindset-scim1082295503]] attributes the organizing-lens account of mindset to Crum.
+- [[science-of-mindsets-for-health-performance-dr-alia-crum-scim9502231820]] reports different ghrelin responses to an identical milkshake under different labels and health changes after hotel workers learned their labor met exercise guidelines.
+
+### Stress and performance
+- [[how-to-enhance-performance-learning-by-applying-a-growth-mindset-scim1082295503]] describes stronger hard-task performance after stress-enhancing rather than stress-diminishing information.
+- [[science-of-mindsets-for-health-performance-dr-alia-crum-scim9502231820]] reports workplace and Navy SEAL associations and presents acknowledging, welcoming, and utilizing stress as a goal-directed sequence.
+
+### Treatment framing
+- [[science-of-mindsets-for-health-performance-dr-alia-crum-scim9502231820]] describes an allergy-treatment intervention in which an adaptive interpretation of symptoms was associated with less anxiety, fewer high-dose symptoms, and improved tolerance-related immune markers.
 
 ## Qualifications
-This profile is bounded to one condensed podcast summary and does not reconstruct Crum's full research program or the complete methods, samples, effect sizes, and replication record of the named studies. The physiological and performance effects remain source-scoped, and reappraisal should not deny real danger, chronic overload, trauma, illness, or insufficient resources.
+This profile is bounded to two condensed podcast summaries and does not reconstruct Crum's full publication record or the methods, sample sizes, effect sizes, replication history, and durability of the named studies. Mindset interventions should not deny danger, chronic overload, trauma, illness, inadequate treatment, or insufficient resources. A prior wiki source and entity render her name as “Leah Crum”; the current source identifies Alia/Aliyah Crum, so that discrepancy is treated as a source-local identity error rather than a second researcher.
 
 ## What Changed
-- Created a bounded profile for Crum's mindset definition and stress-is-enhancing research.
-- Preserved the distinction between usable arousal and a categorical claim that stress is good.
+- Expanded the profile from stress and learning to food, exercise, treatment, and health communication.
+- Added the deliberate sequence of identifying a mindset, examining its effects, and cultivating a useful credible alternative.
+- Flagged the earlier “Leah Crum” identity discrepancy without merging evidence inventories.
 
 ## Relationships
 - [[ThreatChallengeStressReappraisal]] - core stress-appraisal concept informed by her work.
+- [[MindsetPhysiologyEffects]] - broader account of framing effects across food, exercise, feedback, and treatment.
+- [[PlaceboNoceboExpectationEffects]] - overlapping expectation framework that Crum distinguishes from a narrow inert-placebo model.
 - [[GrowthMindset]] - complementary ability-and-error interpretation frame.
 - [[DavidYeager]] - researcher presented as combining growth and stress mindsets in adolescent interventions.
 - [[AndrewHuberman]] - host synthesizing the research in the source episode.

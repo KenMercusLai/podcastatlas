@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1385
+topic_total_pages: 1386
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -3960,6 +3960,9 @@ topic_sources:
   - key: "science-of-attraction-compatibility-romance-dr-paul-eastwick-scim9984287085"
     title: "Science of Attraction, Compatibility & Romance | Dr. Paul Eastwick"
     url: "/wiki/sources/science-of-attraction-compatibility-romance-dr-paul-eastwick-scim9984287085/"
+  - key: "science-of-mindsets-for-health-performance-dr-alia-crum-scim9502231820"
+    title: "Science of Mindsets for Health & Performance | Dr. Alia Crum"
+    url: "/wiki/sources/science-of-mindsets-for-health-performance-dr-alia-crum-scim9502231820/"
   - key: "science-based-mental-training-visualization-for-improved-learning-scim9944841947"
     title: "Science-Based Mental Training & Visualization for Improved Learning"
     url: "/wiki/sources/science-based-mental-training-visualization-for-improved-learning-scim9944841947/"
