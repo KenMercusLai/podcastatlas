@@ -16616,6 +16616,45 @@
       "updated": "2026-10-01",
       "url": "/wiki/concepts/authoritariansportspropaganda/"
     },
+    "AuthoritarianStabilityLegitimation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4575290976 [GLT4575290976].md",
+          "key": "162-putins-russia-glt4575290976",
+          "show": "The Rest Is History",
+          "title": "162. Putin's Russia",
+          "url": "/wiki/sources/162-putins-russia-glt4575290976/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/authoritarianstabilitylegitimation/"
+    },
+    "AuthoritarianWarExitDilemma": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Putin’s options： an oligarch speaks out [6a50c5ebbafe2fa6a7f38210].md",
+          "key": "putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210",
+          "show": "Economist Podcasts",
+          "title": "Putin's options: an oligarch speaks out",
+          "url": "/wiki/sources/putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210/"
+        },
+        {
+          "episode_file": "GLT4575290976 [GLT4575290976].md",
+          "key": "162-putins-russia-glt4575290976",
+          "show": "The Rest Is History",
+          "title": "162. Putin's Russia",
+          "url": "/wiki/sources/162-putins-russia-glt4575290976/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/authoritarianwarexitdilemma/"
+    },
     "AuthorityDisguiseInfiltration": {
       "episode_count": 1,
       "show_count": 1,
@@ -50589,6 +50628,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/dominicmiarten/"
+    },
+    "DominicSandbrook": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4575290976 [GLT4575290976].md",
+          "key": "162-putins-russia-glt4575290976",
+          "show": "The Rest Is History",
+          "title": "162. Putin's Russia",
+          "url": "/wiki/sources/162-putins-russia-glt4575290976/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/dominicsandbrook/"
     },
     "DominosPizza": {
       "episode_count": 1,
@@ -123004,6 +123059,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/manintheironmask/"
     },
+    "ManagedRealityAuthoritarianism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4575290976 [GLT4575290976].md",
+          "key": "162-putins-russia-glt4575290976",
+          "show": "The Rest Is History",
+          "title": "162. Putin's Russia",
+          "url": "/wiki/sources/162-putins-russia-glt4575290976/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/managedrealityauthoritarianism/"
+    },
     "ManagedServiceAutomationLayer": {
       "episode_count": 1,
       "show_count": 1,
@@ -146448,6 +146519,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/entities/peterfrankopan/"
     },
+    "PeterPomerantsev": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4575290976 [GLT4575290976].md",
+          "key": "162-putins-russia-glt4575290976",
+          "show": "The Rest Is History",
+          "title": "162. Putin's Russia",
+          "url": "/wiki/sources/162-putins-russia-glt4575290976/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/peterpomerantsev/"
+    },
     "PeterScott": {
       "episode_count": 1,
       "show_count": 1,
@@ -153259,9 +153346,9 @@
       "url": "/wiki/entities/propagandadue/"
     },
     "PropagandaFeedbackStrategicMiscalculation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1976082798 [GLT1976082798].md",
@@ -153269,9 +153356,16 @@
           "show": "The Rest Is History",
           "title": "184. History's Biggest Questions with Dan Carlin (Part 2)",
           "url": "/wiki/sources/184-historys-biggest-questions-with-dan-carlin-part-2-glt1976082798/"
+        },
+        {
+          "episode_file": "GLT4575290976 [GLT4575290976].md",
+          "key": "162-putins-russia-glt4575290976",
+          "show": "The Rest Is History",
+          "title": "162. Putin's Russia",
+          "url": "/wiki/sources/162-putins-russia-glt4575290976/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/propagandafeedbackstrategicmiscalculation/"
     },
     "ProphecyTriggeredPolicy": {
@@ -164744,9 +164838,9 @@
       "url": "/wiki/entities/russianempire/"
     },
     "RussianHybridPressure": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Continental rift： NATO’s tense summit [6a4cc6b0c4772b27e88e898e].md",
@@ -164761,9 +164855,16 @@
           "show": "Economist Podcasts",
           "title": "Cheques and the City: Premier League disgrace",
           "url": "/wiki/sources/cheques-and-the-city-premier-league-disgrace-6abcdaab4e059d44b566ca74/"
+        },
+        {
+          "episode_file": "GLT4575290976 [GLT4575290976].md",
+          "key": "162-putins-russia-glt4575290976",
+          "show": "The Rest Is History",
+          "title": "162. Putin's Russia",
+          "url": "/wiki/sources/162-putins-russia-glt4575290976/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/russianhybridpressure/"
     },
     "RutgersUniversity": {
@@ -188363,9 +188464,9 @@
       "url": "/wiki/entities/tomhanks/"
     },
     "TomHolland": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5186420966 [GLT5186420966].md",
@@ -188373,9 +188474,16 @@
           "show": "The Rest Is History",
           "title": "175. Crucifixion (Part 1)",
           "url": "/wiki/sources/175-crucifixion-part-1-glt5186420966/"
+        },
+        {
+          "episode_file": "GLT4575290976 [GLT4575290976].md",
+          "key": "162-putins-russia-glt4575290976",
+          "show": "The Rest Is History",
+          "title": "162. Putin's Russia",
+          "url": "/wiki/sources/162-putins-russia-glt4575290976/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/tomholland/"
     },
     "TomNuttall": {
@@ -194667,9 +194775,9 @@
       "url": "/wiki/entities/vivekmurthy/"
     },
     "VladimirPutin": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "Far Crimea： war comes to Russia’s door [6a3e560c26d5a6687a90c658].md",
@@ -194691,9 +194799,16 @@
           "show": "The Rest Is History",
           "title": "184. History's Biggest Questions with Dan Carlin (Part 2)",
           "url": "/wiki/sources/184-historys-biggest-questions-with-dan-carlin-part-2-glt1976082798/"
+        },
+        {
+          "episode_file": "GLT4575290976 [GLT4575290976].md",
+          "key": "162-putins-russia-glt4575290976",
+          "show": "The Rest Is History",
+          "title": "162. Putin's Russia",
+          "url": "/wiki/sources/162-putins-russia-glt4575290976/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/vladimirputin/"
     },
     "VladimirRaitz": {

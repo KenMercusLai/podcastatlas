@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3001
+topic_total_pages: 3003
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1768,6 +1768,9 @@ topic_concepts:
   - key: "MajorEventAttentionConversion"
     title: "Major-Event Attention Conversion"
     url: "/wiki/concepts/majoreventattentionconversion/"
+  - key: "ManagedRealityAuthoritarianism"
+    title: "Managed Reality Authoritarianism"
+    url: "/wiki/concepts/managedrealityauthoritarianism/"
   - key: "ManufacturedRebellionBranding"
     title: "Manufactured Rebellion Branding"
     url: "/wiki/concepts/manufacturedrebellionbranding/"
@@ -5033,6 +5036,9 @@ topic_entities:
   - key: "PeterChernin"
     title: "Peter Chernin"
     url: "/wiki/entities/peterchernin/"
+  - key: "PeterPomerantsev"
+    title: "Peter Pomerantsev"
+    url: "/wiki/entities/peterpomerantsev/"
   - key: "PetrCech"
     title: "Petr Cech"
     url: "/wiki/entities/petrcech/"

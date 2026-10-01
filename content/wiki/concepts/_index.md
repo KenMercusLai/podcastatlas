@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9180
+wiki_total_pages: 9182
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2597,6 +2597,9 @@ wiki_pages:
   - key: "AuthoritarianSportsPropaganda"
     title: "Authoritarian Sports Propaganda"
     url: "/wiki/concepts/authoritariansportspropaganda/"
+  - key: "AuthoritarianStabilityLegitimation"
+    title: "Authoritarian Stability Legitimation"
+    url: "/wiki/concepts/authoritarianstabilitylegitimation/"
   - key: "AuthoritarianWarExitDilemma"
     title: "Authoritarian War Exit Dilemma"
     url: "/wiki/concepts/authoritarianwarexitdilemma/"

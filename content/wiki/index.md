@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [162. Putin's Russia](sources/162-putins-russia-glt4575290976.md) — The Rest Is History on Putin's rise through war, stability, security-service power, managed reality, hybrid ambiguity, and the Ukraine-war exit dilemma.
 - [163. The Last Emperor of Mexico](sources/163-the-last-emperor-of-mexico-glt3817272823.md) — The Rest Is History with Edward Shawcross on Maximilian, Juarez, Napoleon III, French intervention, coalition mismatch, patron dependency, and the fall of the Second Mexican Empire.
 - [Using Salt to Optimize Mental & Physical Performance](sources/using-salt-to-optimize-mental-physical-performance-scim4397006205.md) — Huberman Lab solo episode on sodium-water homeostasis, thirst, vasopressin, kidney handling, blood pressure, exercise losses, electrolyte context, and the limits of universal intake targets.
 - [164. Saint Patrick](sources/164-saint-patrick-glt2665917893.md) — The Rest Is History episode separating Patrick's first-person late-antique evidence from later legend, while tracing mission beyond Rome and patronal reuse.
@@ -3442,6 +3443,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Founder-Led Sales: He Learned to Sell and Closed 50 Customers](sources/d5efc401.md) — The SaaS Podcast episode with Shahar Azulay on Groundcover's eBPF and bring-your-own-cloud architecture, founder-led sales, infrastructure-based pricing, and incumbent replacement migration.
 
 ## Entities
+- [Dominic Sandbrook](entities/DominicSandbrook.md) — Historian and Rest Is History co-host interpreting Putin through post-Soviet instability, legitimacy, grievance, and war-exit constraints.
+- [Peter Pomerantsev](entities/PeterPomerantsev.md) — Author whose work supplies the episode's framework for managed media, staged opposition, and destabilized political reality.
 - [Ferdinand Maximilian](entities/FerdinandMaximilian.md) — Liberal Habsburg archduke whose foreign-backed Mexican throne ended at Queretaro in 1867.
 - [Benito Juarez](entities/BenitoJuarez.md) — Liberal Mexican president who preserved republican resistance and defeated the Second Mexican Empire.
 - [Napoleon III](entities/NapoleonIII.md) — French emperor who created and later abandoned the Mexican imperial project.
@@ -15323,6 +15326,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gareth Southgate](entities/GarethSouthgate.md) — England manager presented as joining inherited patriotic symbols to progressive and multiracial belonging.
 
 ## Concepts
+- [Managed Reality Authoritarianism](concepts/ManagedRealityAuthoritarianism.md) — Authoritarian control through television, staged pluralism, and proliferating narratives that destabilize shared truth.
+- [Authoritarian Stability Legitimation](concepts/AuthoritarianStabilityLegitimation.md) — Conversion of order, recovery, coercive competence, and restored status into support for concentrated power.
 - [Foreign-Backed Monarchy Legitimacy](concepts/ForeignBackedMonarchyLegitimacy.md) — Difficulty of converting an externally sponsored dynastic claim into accepted domestic authority.
 - [Ideological Coalition Mismatch](concepts/IdeologicalCoalitionMismatch.md) — Failure mode in which a leader's policies conflict with the expectations of the coalition that installed them.
 - [Imperial Patron Dependency](concepts/ImperialPatronDependency.md) — Client-regime reliance on an external power for military force, finance, and diplomatic protection.

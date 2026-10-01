@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9180
+wiki_total_pages: 9182
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -128,6 +128,9 @@ wiki_pages:
   - key: "MalthusianTrap"
     title: "Malthusian Trap / 马尔萨斯陷阱"
     url: "/wiki/concepts/malthusiantrap/"
+  - key: "ManagedRealityAuthoritarianism"
+    title: "Managed Reality Authoritarianism"
+    url: "/wiki/concepts/managedrealityauthoritarianism/"
   - key: "ManagedServiceAutomationLayer"
     title: "Managed-Service Automation Layer"
     url: "/wiki/concepts/managedserviceautomationlayer/"
