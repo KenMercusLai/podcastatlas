@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 11713
+wiki_total_pages: 11716
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -599,6 +599,9 @@ wiki_pages:
   - key: "GoldmanSachs"
     title: "Goldman Sachs"
     url: "/wiki/entities/goldmansachs/"
+  - key: "GoneWithTheWind"
+    title: "Gone with the Wind"
+    url: "/wiki/entities/gonewiththewind/"
   - key: "GongCha"
     title: "Gong Cha / 共茶"
     url: "/wiki/entities/gongcha/"

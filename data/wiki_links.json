@@ -847,6 +847,10 @@
     "title": "New NPR Series: \"We Keep Us Safe\" from the Embedded podcast",
     "url": "/wiki/sources/20260721-pmoney-new-npr-series-we-keep-us-safe-from-the-embedded-podcast-trailer-20260721-pmoney-new-npr-series-we-keep-us-safe-from-the-embedded-podcast-trailer/"
   },
+  "204-gone-with-the-wind-glt3666140136": {
+    "title": "204. Gone with the Wind",
+    "url": "/wiki/sources/204-gone-with-the-wind-glt3666140136/"
+  },
   "205-the-last-days-of-boris-johnson-glt2329301983": {
     "title": "205. The Last Days of Boris Johnson",
     "url": "/wiki/sources/205-the-last-days-of-boris-johnson-glt2329301983/"
@@ -31627,6 +31631,10 @@
     "title": "国美 / Gome",
     "url": "/wiki/entities/gome/"
   },
+  "GoneWithTheWind": {
+    "title": "Gone with the Wind",
+    "url": "/wiki/entities/gonewiththewind/"
+  },
   "GongAnFiction": {
     "title": "公案小说 / Gong'an Fiction",
     "url": "/wiki/concepts/gonganfiction/"
@@ -33962,6 +33970,10 @@
   "Hatshepsut": {
     "title": "Hatshepsut",
     "url": "/wiki/entities/hatshepsut/"
+  },
+  "HattieMcDaniel": {
+    "title": "Hattie McDaniel",
+    "url": "/wiki/entities/hattiemcdaniel/"
   },
   "Hatuey": {
     "title": "Hatuey",
@@ -46535,6 +46547,10 @@
     "title": "Loss of Control Eating",
     "url": "/wiki/concepts/lossofcontroleating/"
   },
+  "LostCauseMyth": {
+    "title": "Lost Cause Myth",
+    "url": "/wiki/concepts/lostcausemyth/"
+  },
   "LostCivilizationPseudohistory": {
     "title": "Lost Civilization Pseudohistory",
     "url": "/wiki/concepts/lostcivilizationpseudohistory/"
@@ -48406,6 +48422,10 @@
   "MargaretMead": {
     "title": "Margaret Mead / 米德",
     "url": "/wiki/entities/margaretmead/"
+  },
+  "MargaretMitchell": {
+    "title": "Margaret Mitchell",
+    "url": "/wiki/entities/margaretmitchell/"
   },
   "MargaretThatcher": {
     "title": "Margaret Thatcher / 玛格丽特·撒切尔",
@@ -59843,6 +59863,10 @@
     "title": "Problem-Led Interdisciplinarity / 真问题驱动的跨学科",
     "url": "/wiki/concepts/problemledinterdisciplinarity/"
   },
+  "ProblematicClassicContextualization": {
+    "title": "Problematic Classic Contextualization",
+    "url": "/wiki/concepts/problematicclassiccontextualization/"
+  },
   "ProceduralizedViolence": {
     "title": "Proceduralized Violence / 程序化暴力",
     "url": "/wiki/concepts/proceduralizedviolence/"
@@ -62298,6 +62322,10 @@
   "RecommendationSystemProductization": {
     "title": "Recommendation System Productization",
     "url": "/wiki/concepts/recommendationsystemproductization/"
+  },
+  "ReconstructionRollback": {
+    "title": "Reconstruction Rollback",
+    "url": "/wiki/concepts/reconstructionrollback/"
   },
   "ReconstructiveMemory": {
     "title": "Reconstructive Memory",

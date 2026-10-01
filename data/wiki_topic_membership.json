@@ -1343,6 +1343,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "204-gone-with-the-wind-glt3666140136": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "205-the-last-days-of-boris-johnson-glt2329301983": [
     {
       "key": "history",
@@ -35417,6 +35429,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "GoneWithTheWind": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "GongAnFiction": [
     {
       "key": "politics",
@@ -62419,6 +62438,13 @@
       "url": "/topics/history/"
     }
   ],
+  "ProblematicClassicContextualization": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "ProceduralizedViolence": [
     {
       "key": "politics",
@@ -65019,6 +65045,13 @@
     }
   ],
   "RecognitionBackedFrontierDiplomacy": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "ReconstructionRollback": [
     {
       "key": "politics",
       "label": "Politics",

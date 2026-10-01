@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 11713
+wiki_total_pages: 11716
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -284,6 +284,9 @@ wiki_pages:
   - key: "Hatshepsut"
     title: "Hatshepsut"
     url: "/wiki/entities/hatshepsut/"
+  - key: "HattieMcDaniel"
+    title: "Hattie McDaniel"
+    url: "/wiki/entities/hattiemcdaniel/"
   - key: "Hatuey"
     title: "Hatuey"
     url: "/wiki/entities/hatuey/"

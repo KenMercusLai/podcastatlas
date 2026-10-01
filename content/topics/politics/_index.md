@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2892
+topic_total_pages: 2893
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3241,6 +3241,9 @@ topic_concepts:
   - key: "RecognitionBackedFrontierDiplomacy"
     title: "Recognition-Backed Frontier Diplomacy / 册封威慑式边疆外交"
     url: "/wiki/concepts/recognitionbackedfrontierdiplomacy/"
+  - key: "ReconstructionRollback"
+    title: "Reconstruction Rollback"
+    url: "/wiki/concepts/reconstructionrollback/"
   - key: "RecordedMeetingAnalysis"
     title: "Recorded Meeting Analysis"
     url: "/wiki/concepts/recordedmeetinganalysis/"

@@ -75579,6 +75579,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/goldenstool/"
     },
+    "GoneWithTheWind": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3666140136 [GLT3666140136].md",
+          "key": "204-gone-with-the-wind-glt3666140136",
+          "show": "The Rest Is History",
+          "title": "204. Gone with the Wind",
+          "url": "/wiki/sources/204-gone-with-the-wind-glt3666140136/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/gonewiththewind/"
+    },
     "GongDuLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -81889,6 +81905,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/entities/hatshepsut/"
+    },
+    "HattieMcDaniel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3666140136 [GLT3666140136].md",
+          "key": "204-gone-with-the-wind-glt3666140136",
+          "show": "The Rest Is History",
+          "title": "204. Gone with the Wind",
+          "url": "/wiki/sources/204-gone-with-the-wind-glt3666140136/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/hattiemcdaniel/"
     },
     "Hatuey": {
       "episode_count": 1,
@@ -115011,6 +115043,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/concepts/lossofcontroleating/"
     },
+    "LostCauseMyth": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3666140136 [GLT3666140136].md",
+          "key": "204-gone-with-the-wind-glt3666140136",
+          "show": "The Rest Is History",
+          "title": "204. Gone with the Wind",
+          "url": "/wiki/sources/204-gone-with-the-wind-glt3666140136/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/lostcausemyth/"
+    },
     "LostCivilizationPseudohistory": {
       "episode_count": 2,
       "show_count": 1,
@@ -120393,6 +120441,22 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/entities/marcusreno/"
+    },
+    "MargaretMitchell": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3666140136 [GLT3666140136].md",
+          "key": "204-gone-with-the-wind-glt3666140136",
+          "show": "The Rest Is History",
+          "title": "204. Gone with the Wind",
+          "url": "/wiki/sources/204-gone-with-the-wind-glt3666140136/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/margaretmitchell/"
     },
     "MargaretThatcher": {
       "episode_count": 5,
@@ -148266,6 +148330,22 @@
       "updated": "2026-09-25",
       "url": "/wiki/concepts/problemledinterdisciplinarity/"
     },
+    "ProblematicClassicContextualization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3666140136 [GLT3666140136].md",
+          "key": "204-gone-with-the-wind-glt3666140136",
+          "show": "The Rest Is History",
+          "title": "204. Gone with the Wind",
+          "url": "/wiki/sources/204-gone-with-the-wind-glt3666140136/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/problematicclassiccontextualization/"
+    },
     "ProceduralizedViolence": {
       "episode_count": 2,
       "show_count": 2,
@@ -153197,6 +153277,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/recognitiondrivenworkplaceconformity/"
+    },
+    "ReconstructionRollback": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3666140136 [GLT3666140136].md",
+          "key": "204-gone-with-the-wind-glt3666140136",
+          "show": "The Rest Is History",
+          "title": "204. Gone with the Wind",
+          "url": "/wiki/sources/204-gone-with-the-wind-glt3666140136/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/reconstructionrollback/"
     },
     "ReconstructiveMemory": {
       "episode_count": 3,
@@ -161193,9 +161289,9 @@
       "url": "/wiki/entities/saragottfried/"
     },
     "SarahChurchwell": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5351991903 [GLT5351991903].md",
@@ -161203,6 +161299,13 @@
           "show": "The Rest Is History",
           "title": "237. Marilyn Monroe",
           "url": "/wiki/sources/237-marilyn-monroe-glt5351991903/"
+        },
+        {
+          "episode_file": "GLT3666140136 [GLT3666140136].md",
+          "key": "204-gone-with-the-wind-glt3666140136",
+          "show": "The Rest Is History",
+          "title": "204. Gone with the Wind",
+          "url": "/wiki/sources/204-gone-with-the-wind-glt3666140136/"
         }
       ],
       "updated": "2026-10-01",

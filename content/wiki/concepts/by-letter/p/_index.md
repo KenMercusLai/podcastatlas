@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9070
+wiki_total_pages: 9073
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1805,6 +1805,9 @@ wiki_pages:
   - key: "ProblemLedInterdisciplinarity"
     title: "Problem-Led Interdisciplinarity / 真问题驱动的跨学科"
     url: "/wiki/concepts/problemledinterdisciplinarity/"
+  - key: "ProblematicClassicContextualization"
+    title: "Problematic Classic Contextualization"
+    url: "/wiki/concepts/problematicclassiccontextualization/"
   - key: "ProceduralizedViolence"
     title: "Proceduralized Violence / 程序化暴力"
     url: "/wiki/concepts/proceduralizedviolence/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [204. Gone with the Wind](sources/204-gone-with-the-wind-glt3666140136.md) — The Rest Is History episode on Gone with the Wind, Lost Cause memory, Reconstruction's rollback, segregation, and contextualizing harmful classics.
 - [205. The Last Days of Boris Johnson](sources/205-the-last-days-of-boris-johnson-glt2329301983.md) — The Rest Is History episode on Johnson's July 2022 fall, political role limits, personal-mandate claims, constitutional conventions, and government breakdown.
 - [206. Historical Love Island](sources/206-historical-love-island-glt8073929093.md) — The Rest Is History episode casting historical figures as dating-show archetypes to compare celebrity, sincerity, betrayal, disruption, authority, and public appeal.
 - [207. Historical Love Island: THE WINNER](sources/207-historical-love-island-the-winner-glt4172810067.md) — The Rest Is History results episode on Baldwin and Theodora's audience-voted win, the contest's comic logic, and a preview of Justinianic history.
@@ -3375,6 +3376,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Optimize & Control Your Brain Chemistry to Improve Health & Performance](sources/optimize-control-your-brain-chemistry-to-improve-health-performance-scim8855428946.md) — Huberman Lab solo episode on dopamine, epinephrine, acetylcholine, serotonin, daily-state timing, behavioral foundations, and medical boundaries.
 
 ## Entities
+- [Gone with the Wind](entities/GoneWithTheWind.md) — Novel and film whose romance, survival story, and spectacle carried Lost Cause racial mythology into mass culture.
+- [Margaret Mitchell](entities/MargaretMitchell.md) — Author whose family inheritance informs the episode's account of plantation-loss memory in Gone with the Wind.
+- [Hattie McDaniel](entities/HattieMcDaniel.md) — Oscar-winning actor whose landmark recognition coexisted with exclusion under segregation.
 - [Michael Gove](entities/MichaelGove.md) — Conservative politician whose dismissal during Johnson's July 2022 collapse is presented as evidence of grievance overriding administrative continuity.
 - [Jimmy Carter](entities/JimmyCarter.md) — United States president whose faith, farming background, marriage, and public sincerity are recast as a comic “sweet one” persona.
 - [Frances Stewart](entities/FrancesStewart.md) — Restoration court beauty associated with Charles II, the Duchess of Richmond title, and Britannia imagery.
@@ -15124,6 +15128,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lucile Desmoulins](entities/LucileDesmoulins.md) — Camille Desmoulins's wife, falsely implicated in a prison plot and executed after the Dantonist trial.
 
 ## Concepts
+- [Lost Cause Myth](concepts/LostCauseMyth.md) — Nostalgic Confederate memory that turns slavery and defeat into gallantry, plantation loss, and white victimhood.
+- [Reconstruction Rollback](concepts/ReconstructionRollback.md) — Defeat of multiracial democracy through organized violence, institutional complicity, federal retreat, disenfranchisement, and segregation.
+- [Problematic Classic Contextualization](concepts/ProblematicClassicContextualization.md) — Practice of preserving access to an influential work while confronting its distortions, harms, exclusions, and effects.
 - [British Constitutional Conventions](concepts/BritishConstitutionalConventions.md) — Unwritten but politically enforceable expectations governing confidence, restraint, and transfer of power in Britain's parliamentary system.
 - [Political Role Adaptability](concepts/PoliticalRoleAdaptability.md) — Capacity to shift credibly among campaign, communication, administrative, crisis, and constitutional leadership roles.
 - [Revolutionary Elite Replacement](concepts/RevolutionaryEliteReplacement.md) — Risk that revolution changes the ruling group without ending hierarchy or concentrated power.

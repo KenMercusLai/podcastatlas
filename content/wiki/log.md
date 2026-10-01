@@ -26538,3 +26538,11 @@ Added source `205-the-last-days-of-boris-johnson-glt2329301983`; created `Michae
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | 204. Gone with the Wind
+
+Added source `204-gone-with-the-wind-glt3666140136`; created `GoneWithTheWind`, `MargaretMitchell`, `HattieMcDaniel`, `LostCauseMyth`, `ReconstructionRollback`, and `ProblematicClassicContextualization`; and resynthesized `SarahChurchwell` from its complete preserved evidence inventory. Core synthesis: *Gone with the Wind* made Lost Cause mythology durable by combining white Southern victimhood and plantation restoration with romance, female survival, and Hollywood spectacle; Reconstruction's defeat joined white-supremacist violence and institutional complicity to federal retreat, Jim Crow, disenfranchisement, and coercive labor after emancipation. McDaniel's landmark Oscar coexisted with segregation, showing that individual recognition did not dissolve racial institutions. No settled contradiction was adopted. Motive claims, audience effects, family influence, inevitability language, event details, and comparative judgments of cultural harm remain interpretive, qualified, or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,318-source coverage; no topic claim set was dirty and global compaction was not due. Publish validation passed.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

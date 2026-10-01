@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 9070
+wiki_total_pages: 9073
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -212,6 +212,9 @@ wiki_pages:
   - key: "RecommendationSystemProductization"
     title: "Recommendation System Productization"
     url: "/wiki/concepts/recommendationsystemproductization/"
+  - key: "ReconstructionRollback"
+    title: "Reconstruction Rollback"
+    url: "/wiki/concepts/reconstructionrollback/"
   - key: "ReconstructiveMemory"
     title: "Reconstructive Memory"
     url: "/wiki/concepts/reconstructivememory/"
