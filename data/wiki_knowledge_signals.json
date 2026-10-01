@@ -8851,9 +8851,9 @@
       "url": "/wiki/concepts/algorithmictrustmigration/"
     },
     "AliAnsari": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8347276204 [GLT8347276204].md",
@@ -8861,9 +8861,16 @@
           "show": "The Rest Is History",
           "title": "259: Iran: England - 'The Little Satan'",
           "url": "/wiki/sources/259-iran-england-the-little-satan-glt8347276204/"
+        },
+        {
+          "episode_file": "GLT4398796320 [GLT4398796320].md",
+          "key": "166-genghis-khan-lord-of-the-mongols-glt4398796320",
+          "show": "The Rest Is History",
+          "title": "166. Genghis Khan: Lord of the Mongols",
+          "url": "/wiki/sources/166-genghis-khan-lord-of-the-mongols-glt4398796320/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/aliansari/"
     },
     "AliCrum": {
@@ -75614,6 +75621,29 @@
       "updated": "2026-09-11",
       "url": "/wiki/entities/gengyuwesternhan/"
     },
+    "GenghisKhan": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·秦纪》131-3｜李清照中年夫妻离别 喝酒解相思 [lnzXHRj2iULaHCcY2-Pkm-WPhDEi].md",
+          "key": "zizhi-tongjian-qinji-131-3-liqingzhao-zhongnian-fuqi-libie-hejiu-jie-xiangsi-lnzxhrj2iulahccy2-pkm-wphdei",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》131-3｜李清照中年夫妻离别 喝酒解相思",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-131-3-liqingzhao-zhongnian-fuqi-libie-hejiu-jie-xiangsi-lnzxhrj2iulahccy2-pkm-wphdei/"
+        },
+        {
+          "episode_file": "GLT4398796320 [GLT4398796320].md",
+          "key": "166-genghis-khan-lord-of-the-mongols-glt4398796320",
+          "show": "The Rest Is History",
+          "title": "166. Genghis Khan: Lord of the Mongols",
+          "url": "/wiki/sources/166-genghis-khan-lord-of-the-mongols-glt4398796320/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/genghiskhan/"
+    },
     "GenitourinaryForeignBodyEscalation": {
       "episode_count": 3,
       "show_count": 1,
@@ -106188,6 +106218,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/khotankingdomlatehan/"
     },
+    "KhwarazmianEmpire": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4398796320 [GLT4398796320].md",
+          "key": "166-genghis-khan-lord-of-the-mongols-glt4398796320",
+          "show": "The Rest Is History",
+          "title": "166. Genghis Khan: Lord of the Mongols",
+          "url": "/wiki/sources/166-genghis-khan-lord-of-the-mongols-glt4398796320/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/khwarazmianempire/"
+    },
     "KievanRus": {
       "episode_count": 1,
       "show_count": 1,
@@ -131251,6 +131297,38 @@
       "updated": "2026-10-01",
       "url": "/wiki/concepts/monarchstwobodies/"
     },
+    "MongolEmpire": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4398796320 [GLT4398796320].md",
+          "key": "166-genghis-khan-lord-of-the-mongols-glt4398796320",
+          "show": "The Rest Is History",
+          "title": "166. Genghis Khan: Lord of the Mongols",
+          "url": "/wiki/sources/166-genghis-khan-lord-of-the-mongols-glt4398796320/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/mongolempire/"
+    },
+    "MongolStrategicTerror": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4398796320 [GLT4398796320].md",
+          "key": "166-genghis-khan-lord-of-the-mongols-glt4398796320",
+          "show": "The Rest Is History",
+          "title": "166. Genghis Khan: Lord of the Mongols",
+          "url": "/wiki/sources/166-genghis-khan-lord-of-the-mongols-glt4398796320/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/mongolstrategicterror/"
+    },
     "Monsanto": {
       "episode_count": 1,
       "show_count": 1,
@@ -136723,6 +136801,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/nomadiccavalryraidingasymmetry/"
+    },
+    "NomadicImperialFormation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4398796320 [GLT4398796320].md",
+          "key": "166-genghis-khan-lord-of-the-mongols-glt4398796320",
+          "show": "The Rest Is History",
+          "title": "166. Genghis Khan: Lord of the Mongols",
+          "url": "/wiki/sources/166-genghis-khan-lord-of-the-mongols-glt4398796320/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/nomadicimperialformation/"
     },
     "NominalTitleInflation": {
       "episode_count": 2,
@@ -179369,6 +179463,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/concepts/substancesleeparchitectureboundary/"
+    },
+    "Subutai": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4398796320 [GLT4398796320].md",
+          "key": "166-genghis-khan-lord-of-the-mongols-glt4398796320",
+          "show": "The Rest Is History",
+          "title": "166. Genghis Khan: Lord of the Mongols",
+          "url": "/wiki/sources/166-genghis-khan-lord-of-the-mongols-glt4398796320/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/subutai/"
     },
     "SuccessfulAging": {
       "episode_count": 1,

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 9170
+wiki_total_pages: 9172
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -368,6 +368,9 @@ wiki_pages:
   - key: "NomadicCavalryRaidingAsymmetry"
     title: "Nomadic Cavalry Raiding Asymmetry / 游牧骑兵劫掠不对称"
     url: "/wiki/concepts/nomadiccavalryraidingasymmetry/"
+  - key: "NomadicImperialFormation"
+    title: "Nomadic Imperial Formation"
+    url: "/wiki/concepts/nomadicimperialformation/"
   - key: "NominalAuthorityMobilizationTrap"
     title: "Nominal Authority Mobilization Trap / 虚名权威动员陷阱"
     url: "/wiki/concepts/nominalauthoritymobilizationtrap/"

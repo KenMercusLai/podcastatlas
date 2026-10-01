@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 11828
+wiki_total_pages: 11831
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1460,6 +1460,9 @@ wiki_pages:
   - key: "MondayCom"
     title: "monday.com"
     url: "/wiki/entities/mondaycom/"
+  - key: "MongolEmpire"
+    title: "Mongol Empire"
+    url: "/wiki/entities/mongolempire/"
   - key: "MonicaStoney"
     title: "Monica Stoney"
     url: "/wiki/entities/monicastoney/"

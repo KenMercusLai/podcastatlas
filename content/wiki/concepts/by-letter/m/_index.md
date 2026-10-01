@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9170
+wiki_total_pages: 9172
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1199,6 +1199,9 @@ wiki_pages:
   - key: "MoneyMovementInfrastructure"
     title: "Money Movement Infrastructure"
     url: "/wiki/concepts/moneymovementinfrastructure/"
+  - key: "MongolStrategicTerror"
+    title: "Mongol Strategic Terror"
+    url: "/wiki/concepts/mongolstrategicterror/"
   - key: "MonogamyAsStabilityStructure"
     title: "Monogamy As Stability Structure"
     url: "/wiki/concepts/monogamyasstabilitystructure/"

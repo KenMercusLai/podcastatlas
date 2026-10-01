@@ -27021,3 +27021,11 @@ Added source `167-oil-the-making-of-the-modern-world-glt7483911964`; and resynth
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | 166. Genghis Khan: Lord of the Mongols
+
+Added source `166-genghis-khan-lord-of-the-mongols-glt4398796320`; created `MongolEmpire`, `Subutai`, `KhwarazmianEmpire`, `MongolStrategicTerror`, and `NomadicImperialFormation`; and resynthesized `GenghisKhan` and `AliAnsari` from their complete preserved evidence inventories. Core synthesis: Genghis Khan's aims widened from steppe unification and plunder toward empire through repeated success, composite military capacity, and personal authority; Mongol terror was conditional and strategically communicative but still catastrophic; and the realm at his death was territorially vast while lightly institutionalized. No settled contradiction was adopted. Drinking restraint versus reported teetotalism, casualty totals, the Great Yasa, speeches, death and burial stories, Tangut genocide terminology, genetic descent, carbon, plague, and climate claims remain qualified, contested, or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten because the source opens a focused Mongol-history branch without changing the wiki-wide synthesis. The downstream manifest and paragraph ledger were refreshed to 3,377-source coverage; no topic claim set was dirty and global compaction was not due. Identity, knowledge-schema, whitespace, synthesis, index coverage, health, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

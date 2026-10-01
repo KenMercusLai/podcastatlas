@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 11828
+wiki_total_pages: 11831
 wiki_pages:
   - key: "KennedyAssassination"
     title: "Assassination of John F. Kennedy"
@@ -359,6 +359,9 @@ wiki_pages:
   - key: "KhurshidAhmed"
     title: "Khurshid Ahmed"
     url: "/wiki/entities/khurshidahmed/"
+  - key: "KhwarazmianEmpire"
+    title: "Khwarazmian Empire"
+    url: "/wiki/entities/khwarazmianempire/"
   - key: "Kickstarter"
     title: "Kickstarter"
     url: "/wiki/entities/kickstarter/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [166. Genghis Khan: Lord of the Mongols](sources/166-genghis-khan-lord-of-the-mongols-glt4398796320.md) — The Rest Is History conversation with Ali Ansari on Genghis Khan's widening ambitions, conditional terror, Central Asian destruction, and the Mongol realm as an empire in formation.
 - [167. Oil: The Making of the Modern World](sources/167-oil-the-making-of-the-modern-world-glt7483911964.md) — The Rest Is History conversation with Helen Thompson on oil's role in imperial competition, world-war logistics, postwar security, OPEC, and Soviet fiscal pressure.
 - [168. Oil: Conflict, Chaos and Climate Change](sources/168-oil-conflict-chaos-and-climate-change-glt4572551005.md) — The Rest Is History conversation with Helen Thompson on oil's political power, European-Russian energy dependence, pipeline leverage, and overlapping fossil and green geopolitics.
 - [169. The Falklands War: Countdown to Invasion (Part 1)](sources/169-the-falklands-war-countdown-to-invasion-part-1-glt6828599585.md) — The Rest Is History on sovereignty, Islander identity, junta weakness, British deterrence signals, leaseback, South Georgia, and the rushed invasion.
@@ -3436,6 +3437,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Founder-Led Sales: He Learned to Sell and Closed 50 Customers](sources/d5efc401.md) — The SaaS Podcast episode with Shahar Azulay on Groundcover's eBPF and bring-your-own-cloud architecture, founder-led sales, infrastructure-based pricing, and incumbent replacement migration.
 
 ## Entities
+- [Mongol Empire](entities/MongolEmpire.md) — Eurasian conquest polity that grew from Genghis Khan's steppe coalition before its administration fully institutionalized.
+- [Subutai](entities/Subutai.md) — Mongol commander whose western reconnaissance connected Central Asian victory to later expansion into Rus and Europe.
+- [Khwarazmian Empire](entities/KhwarazmianEmpire.md) — Central Asian power destroyed after the killing of Mongol merchants and mistreatment of envoys triggered the 1219 campaign.
 - [Helen Thompson](entities/HelenThompson.md) — Political economist linking oil to empire, war, political power, energy infrastructure, and transition without reducing history to a single cause.
 - [Nord Stream](entities/NordStream.md) — Baltic gas-pipeline project whose route reduced Ukraine's transit role while deepening German exposure to Russian supply.
 - [Jorge Anaya](entities/JorgeAnaya.md) — Argentine admiral and junta strategist who advocated the Falklands seizure and misread British and U.S. responses.
@@ -3640,7 +3644,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Costa Rica](entities/CostaRica.md) — Central American republic whose post-1948 settlement joined expanded citizenship, civilian rule, and army abolition.
 - [Jose Figueres Ferrer](entities/JoseFigueresFerrer.md) — Costa Rican rebel leader, temporary junta head, institutional reformer, and later elected president.
 - [Rafael Angel Calderon](entities/RafaelAngelCalderon.md) — Costa Rican welfare populist and defeated 1948 candidate central to the election crisis preceding civil war.
-- [Ali Ansari](entities/AliAnsari.md) — Historian who interprets Anglo-Iranian relations through institutional attraction, imperial power, and disappointed political trust.
+- [Ali Ansari](entities/AliAnsari.md) — Historian interpreting Anglo-Iranian relations and Mongol conquest through institutional context, source criticism, and resistance to simple moral narratives.
 - [Anglo-Iranian Oil Company](entities/AngloIranianOilCompany.md) — British-linked oil enterprise that built strategic industrial capacity while becoming a focus of Iranian sovereignty and revenue conflict.
 - [Mohammad Mossadegh](entities/MohammadMossadegh.md) — Iranian prime minister associated with oil nationalization and overthrown in the 1953 coup.
 - [Tupamaros](entities/Tupamaros.md) — Uruguayan urban guerrilla movement whose robberies, kidnappings, armed propaganda, and defeat were bound to a wider democratic collapse.
@@ -8162,7 +8166,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [巨鹿 / Julu](entities/Julu.md) — Besieged Zhao refuge whose crisis pulls Song Yi, Xiang Yu, and Fan Zeng into the Chu rescue mission and later exposes Song Yi's delayed-rescue command failure.
 - [关中 / Guanzhong Region](entities/GuanzhongRegion.md) — Qin heartland and Huaiwang-agreement prize that Han Xin later treats as recoverable through Liu Bang's people-support and Three Qin weakness.
 - [杜甫 / Du Fu](entities/DuFu.md) — Tang poet whose Drinking Eight Immortals poem lets the source present wine as social portrait and poetic culture.
-- [成吉思汗 / Genghis Khan](entities/GenghisKhan.md) — Mongol leader used as Qinji 131-3's example of drinking customs disciplined by self-control.
+- [成吉思汗 / Genghis Khan](entities/GenghisKhan.md) — Mongol ruler whose expanding conquests, conditional terror, charismatic authority, and later memory shaped an empire in formation.
 - [《礼记》 / Book of Rites](entities/LijiText.md) — Confucian classic cited for drinking without losing composure and for alcohol as harmonious social ritual.
 - [王仲闻 / Wang Zhongwen](entities/WangZhongwen.md) — Scholar whose Li Qingzhao annotation statistics are used to quantify wine in her ci corpus.
 - [张绣 / Zhang Xiu](entities/ZhangXiu.md) — Late Han commander who inherits Zhang Ji's troops, turns the first Cao Cao surrender into the Wancheng disaster, remains dangerous around Anzhong, then submits again before Guandu through Jia Xu's advice.
@@ -15303,6 +15307,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gareth Southgate](entities/GarethSouthgate.md) — England manager presented as joining inherited patriotic symbols to progressive and multiracial belonging.
 
 ## Concepts
+- [Mongol Strategic Terror](concepts/MongolStrategicTerror.md) — Conditional surrender-and-punishment system using exemplary destruction to deter resistance without making the violence random or moderate.
+- [Nomadic Imperial Formation](concepts/NomadicImperialFormation.md) — Transition from plunder-supported steppe coalition toward composite conquest forces, territorial rule, and borrowed administration.
 - [Oil Political Power](concepts/OilPoliticalPower.md) — Non-deterministic framework for how petroleum geography, supply, revenue, transport, and infrastructure reshape state power and strategic choice.
 - [Energy Transition Geopolitics](concepts/EnergyTransitionGeopolitics.md) — Strategic overlap in which low-carbon manufacturing and mineral dependencies grow before fossil-fuel geopolitics disappears.
 - [Falklands War Origins](concepts/FalklandsWarOrigins.md) — Multi-causal interaction of sovereignty, Islander identity, junta insecurity, deterrence signaling, and operational acceleration.
