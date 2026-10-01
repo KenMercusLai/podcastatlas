@@ -611,6 +611,10 @@
     "title": "163.教一只猞猁忘记动物园：西野的故事，比疯狂动物城2更精彩！",
     "url": "/wiki/sources/163-jiao-yi-zhi-sheli-wangji-dongwuyuan-xiye-de-gushi-bi-fengkuang-dongwucheng-2-geng-jingcai-939887179/"
   },
+  "163-the-last-emperor-of-mexico-glt3817272823": {
+    "title": "163. The Last Emperor of Mexico",
+    "url": "/wiki/sources/163-the-last-emperor-of-mexico-glt3817272823/"
+  },
   "164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576": {
     "title": "164.古文的力量：请收下这份千年未变的深情、洞见和勇气",
     "url": "/wiki/sources/164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576/"
@@ -10843,6 +10847,10 @@
     "title": "Benign Gynecological Finding Triage / 妇科良性发现分诊",
     "url": "/wiki/concepts/benigngynecologicalfindingtriage/"
   },
+  "BenitoJuarez": {
+    "title": "Benito Juarez",
+    "url": "/wiki/entities/benitojuarez/"
+  },
   "BenitoMussolini": {
     "title": "Benito Mussolini",
     "url": "/wiki/entities/benitomussolini/"
@@ -14042,6 +14050,10 @@
   "CarlosStartupEmbassy": {
     "title": "Carlos (Startup Embassy)",
     "url": "/wiki/entities/carlosstartupembassy/"
+  },
+  "CarlotaOfMexico": {
+    "title": "Carlota of Mexico",
+    "url": "/wiki/entities/carlotaofmexico/"
   },
   "CarlotaPerez": {
     "title": "Carlota Perez",
@@ -24575,6 +24587,10 @@
     "title": "Edward Said",
     "url": "/wiki/entities/edwardsaid/"
   },
+  "EdwardShawcross": {
+    "title": "Edward Shawcross",
+    "url": "/wiki/entities/edwardshawcross/"
+  },
   "EdwardSmith": {
     "title": "Edward Smith",
     "url": "/wiki/entities/edwardsmith/"
@@ -28051,6 +28067,10 @@
     "title": "Ferdinand II of Aragon",
     "url": "/wiki/entities/ferdinandiiofaragon/"
   },
+  "FerdinandMaximilian": {
+    "title": "Ferdinand Maximilian",
+    "url": "/wiki/entities/ferdinandmaximilian/"
+  },
   "FermatsPrincipleOfLeastTime": {
     "title": "Fermat's Principle of Least Time",
     "url": "/wiki/concepts/fermatsprincipleofleasttime/"
@@ -29078,6 +29098,10 @@
   "ForeignBackedCivilWar": {
     "title": "Foreign-Backed Civil War",
     "url": "/wiki/concepts/foreignbackedcivilwar/"
+  },
+  "ForeignBackedMonarchyLegitimacy": {
+    "title": "Foreign-Backed Monarchy Legitimacy",
+    "url": "/wiki/concepts/foreignbackedmonarchylegitimacy/"
   },
   "ForeignBankingInChina": {
     "title": "Foreign Banking In China",
@@ -37511,6 +37535,10 @@
     "title": "Identity Resolution Error",
     "url": "/wiki/concepts/identityresolutionerror/"
   },
+  "IdeologicalCoalitionMismatch": {
+    "title": "Ideological Coalition Mismatch",
+    "url": "/wiki/concepts/ideologicalcoalitionmismatch/"
+  },
   "IdeologicalDefection": {
     "title": "Ideological Defection / 意识形态叛逃",
     "url": "/wiki/concepts/ideologicaldefection/"
@@ -37826,6 +37854,10 @@
   "ImperialNameTaboo": {
     "title": "避讳 / Imperial Name Taboo",
     "url": "/wiki/concepts/imperialnametaboo/"
+  },
+  "ImperialPatronDependency": {
+    "title": "Imperial Patron Dependency",
+    "url": "/wiki/concepts/imperialpatrondependency/"
   },
   "ImperialPetitionOffenseRisk": {
     "title": "Imperial Petition Offense Risk / 申冤上书冒犯风险",
@@ -53259,6 +53291,10 @@
     "title": "Napoleon Bonaparte / 拿破仑",
     "url": "/wiki/entities/napoleonbonaparte/"
   },
+  "NapoleonIII": {
+    "title": "Napoleon III",
+    "url": "/wiki/entities/napoleoniii/"
+  },
   "Napster": {
     "title": "Napster",
     "url": "/wiki/entities/napster/"
@@ -67130,6 +67166,10 @@
   "SecondLifeEVBatteryStorage": {
     "title": "Second-Life EV Battery Storage",
     "url": "/wiki/concepts/secondlifeevbatterystorage/"
+  },
+  "SecondMexicanEmpire": {
+    "title": "Second Mexican Empire",
+    "url": "/wiki/entities/secondmexicanempire/"
   },
   "SecondOpinionStrategy": {
     "title": "Second Opinion Strategy / 第二意见策略",

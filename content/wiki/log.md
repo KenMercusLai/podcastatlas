@@ -27059,3 +27059,11 @@ Added source `using-salt-to-optimize-mental-physical-performance-scim4397006205`
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | 163. The Last Emperor of Mexico
+
+Added source `163-the-last-emperor-of-mexico-glt3817272823`; created `FerdinandMaximilian`, `BenitoJuarez`, `NapoleonIII`, `CarlotaOfMexico`, `EdwardShawcross`, `SecondMexicanEmpire`, `ForeignBackedMonarchyLegitimacy`, `IdeologicalCoalitionMismatch`, and `ImperialPatronDependency`; and resynthesized `Mexico` and `HabsburgDynasty` from their complete preserved evidence inventories. Core synthesis: Maximilian's sincere liberalism and personal courage could not overcome a foreign-occupation origin, conflict with his conservative sponsors, bankruptcy, dependence on French arms, renewed United States pressure, and Juarez's continuing republican resistance. No settled contradiction was adopted. Popular support, territorial and troop figures, British intentions, personal motives, Carlota's diagnosis, the betrayal at Queretaro, and the necessity of execution remain qualified or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten because this source opens a focused nineteenth-century Mexico branch rather than changing the wiki-wide synthesis. The downstream manifest and paragraph ledger were refreshed to 3,382-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge-schema, whitespace, synthesis, health, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

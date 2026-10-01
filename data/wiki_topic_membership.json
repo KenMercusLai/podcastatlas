@@ -942,6 +942,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "163-the-last-emperor-of-mexico-glt3817272823": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576": [
     {
       "key": "history",
@@ -41283,6 +41290,13 @@
       "label": "Technology",
       "url": "/topics/technology/"
     },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "IdeologicalCoalitionMismatch": [
     {
       "key": "politics",
       "label": "Politics",

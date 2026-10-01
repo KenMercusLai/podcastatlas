@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 9177
+wiki_total_pages: 9180
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -35,6 +35,9 @@ wiki_pages:
   - key: "IdentityProxiedBorderEnforcement"
     title: "Identity-Proxied Border Enforcement"
     url: "/wiki/concepts/identityproxiedborderenforcement/"
+  - key: "IdeologicalCoalitionMismatch"
+    title: "Ideological Coalition Mismatch"
+    url: "/wiki/concepts/ideologicalcoalitionmismatch/"
   - key: "IdeologicalDefection"
     title: "Ideological Defection / 意识形态叛逃"
     url: "/wiki/concepts/ideologicaldefection/"
@@ -197,6 +200,9 @@ wiki_pages:
   - key: "ImperialMetropolisIntegration"
     title: "Imperial Metropolis Integration"
     url: "/wiki/concepts/imperialmetropolisintegration/"
+  - key: "ImperialPatronDependency"
+    title: "Imperial Patron Dependency"
+    url: "/wiki/concepts/imperialpatrondependency/"
   - key: "ImperialPetitionOffenseRisk"
     title: "Imperial Petition Offense Risk / 申冤上书冒犯风险"
     url: "/wiki/concepts/imperialpetitionoffenserisk/"

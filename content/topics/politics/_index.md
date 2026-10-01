@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2957
+topic_total_pages: 2958
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1870,6 +1870,9 @@ topic_concepts:
   - key: "IdentityResolutionError"
     title: "Identity Resolution Error"
     url: "/wiki/concepts/identityresolutionerror/"
+  - key: "IdeologicalCoalitionMismatch"
+    title: "Ideological Coalition Mismatch"
+    url: "/wiki/concepts/ideologicalcoalitionmismatch/"
   - key: "IdeologicalDefection"
     title: "Ideological Defection / 意识形态叛逃"
     url: "/wiki/concepts/ideologicaldefection/"

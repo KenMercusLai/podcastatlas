@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 9177
+wiki_total_pages: 9180
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -866,6 +866,9 @@ wiki_pages:
   - key: "ForeignBackedCivilWar"
     title: "Foreign-Backed Civil War"
     url: "/wiki/concepts/foreignbackedcivilwar/"
+  - key: "ForeignBackedMonarchyLegitimacy"
+    title: "Foreign-Backed Monarchy Legitimacy"
+    url: "/wiki/concepts/foreignbackedmonarchylegitimacy/"
   - key: "ForeignRelativeCourtPolitics"
     title: "Foreign-Relative Court Politics / 楚系外戚政治"
     url: "/wiki/concepts/foreignrelativecourtpolitics/"

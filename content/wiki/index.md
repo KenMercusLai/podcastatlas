@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [163. The Last Emperor of Mexico](sources/163-the-last-emperor-of-mexico-glt3817272823.md) — The Rest Is History with Edward Shawcross on Maximilian, Juarez, Napoleon III, French intervention, coalition mismatch, patron dependency, and the fall of the Second Mexican Empire.
 - [Using Salt to Optimize Mental & Physical Performance](sources/using-salt-to-optimize-mental-physical-performance-scim4397006205.md) — Huberman Lab solo episode on sodium-water homeostasis, thirst, vasopressin, kidney handling, blood pressure, exercise losses, electrolyte context, and the limits of universal intake targets.
 - [164. Saint Patrick](sources/164-saint-patrick-glt2665917893.md) — The Rest Is History episode separating Patrick's first-person late-antique evidence from later legend, while tracing mission beyond Rome and patronal reuse.
 - [165. The Rise of Genghis Khan](sources/165-the-rise-of-genghis-khan-glt3370086758.md) — The Rest Is History conversation with Ali Ansari on Temujin's early ordeals, alliances, loyalty network, military reorganization, and 1206 unification.
@@ -3441,6 +3442,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Founder-Led Sales: He Learned to Sell and Closed 50 Customers](sources/d5efc401.md) — The SaaS Podcast episode with Shahar Azulay on Groundcover's eBPF and bring-your-own-cloud architecture, founder-led sales, infrastructure-based pricing, and incumbent replacement migration.
 
 ## Entities
+- [Ferdinand Maximilian](entities/FerdinandMaximilian.md) — Liberal Habsburg archduke whose foreign-backed Mexican throne ended at Queretaro in 1867.
+- [Benito Juarez](entities/BenitoJuarez.md) — Liberal Mexican president who preserved republican resistance and defeated the Second Mexican Empire.
+- [Napoleon III](entities/NapoleonIII.md) — French emperor who created and later abandoned the Mexican imperial project.
+- [Carlota of Mexico](entities/CarlotaOfMexico.md) — Maximilian's consort, political partner, and unsuccessful diplomatic advocate in Europe.
+- [Edward Shawcross](entities/EdwardShawcross.md) — Historian interpreting Maximilian's Mexican empire through domestic conflict, dynastic ambition, and geopolitics.
+- [Second Mexican Empire](entities/SecondMexicanEmpire.md) — French-backed monarchy whose legitimacy and capacity collapsed after patron withdrawal.
 - [Saint Patrick](entities/SaintPatrick.md) — Roman-British missionary bishop known through two first-person texts and a much larger later legendary and national afterlife.
 - [Palladius](entities/Palladius.md) — Bishop sent in 431 to existing Irish Christians whose mission qualifies a single-founder account of Irish Christianity.
 - [Borte](entities/Borte.md) — Temujin's wife, whose abduction and recovery exposed the role of marriage, humiliation, and alliance mobilization in steppe politics.
@@ -15316,6 +15323,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gareth Southgate](entities/GarethSouthgate.md) — England manager presented as joining inherited patriotic symbols to progressive and multiracial belonging.
 
 ## Concepts
+- [Foreign-Backed Monarchy Legitimacy](concepts/ForeignBackedMonarchyLegitimacy.md) — Difficulty of converting an externally sponsored dynastic claim into accepted domestic authority.
+- [Ideological Coalition Mismatch](concepts/IdeologicalCoalitionMismatch.md) — Failure mode in which a leader's policies conflict with the expectations of the coalition that installed them.
+- [Imperial Patron Dependency](concepts/ImperialPatronDependency.md) — Client-regime reliance on an external power for military force, finance, and diplomatic protection.
 - [Mission Beyond the Roman Frontier](concepts/MissionBeyondRomanFrontier.md) — Christian missionary vision directed deliberately toward non-Roman peoples rather than only established Christian communities.
 - [Late Antique First-Person Evidence](concepts/LateAntiqueFirstPersonEvidence.md) — Rare participant testimony whose proximity is historically valuable but bounded by genre, memory, purpose, and self-presentation.
 - [Cross-Kinship Steppe Organization](concepts/CrossKinshipSteppeOrganization.md) — Political and military loyalty built across inherited clan divisions through chosen bonds, ability, discipline, and mixed decimal units.

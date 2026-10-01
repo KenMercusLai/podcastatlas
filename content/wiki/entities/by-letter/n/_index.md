@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 11836
+wiki_total_pages: 11842
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -65,6 +65,9 @@ wiki_pages:
   - key: "NapoleonBonaparte"
     title: "Napoleon Bonaparte / 拿破仑"
     url: "/wiki/entities/napoleonbonaparte/"
+  - key: "NapoleonIII"
+    title: "Napoleon III"
+    url: "/wiki/entities/napoleoniii/"
   - key: "Napster"
     title: "Napster"
     url: "/wiki/entities/napster/"

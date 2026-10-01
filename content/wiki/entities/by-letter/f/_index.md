@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 11836
+wiki_total_pages: 11842
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -206,6 +206,9 @@ wiki_pages:
   - key: "FerdinandIIOfAragon"
     title: "Ferdinand II of Aragon"
     url: "/wiki/entities/ferdinandiiofaragon/"
+  - key: "FerdinandMaximilian"
+    title: "Ferdinand Maximilian"
+    url: "/wiki/entities/ferdinandmaximilian/"
   - key: "Ferrari"
     title: "Ferrari"
     url: "/wiki/entities/ferrari/"
