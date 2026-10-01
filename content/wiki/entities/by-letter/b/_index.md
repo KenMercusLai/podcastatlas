@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 11687
+wiki_total_pages: 11691
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -896,6 +896,9 @@ wiki_pages:
   - key: "Bournville"
     title: "Bournville"
     url: "/wiki/entities/bournville/"
+  - key: "BowStreetRunners"
+    title: "Bow Street Runners"
+    url: "/wiki/entities/bowstreetrunners/"
   - key: "BowieKuhn"
     title: "Bowie Kuhn"
     url: "/wiki/entities/bowiekuhn/"
@@ -1031,6 +1034,9 @@ wiki_pages:
   - key: "BrittanyMaynard"
     title: "Brittany Maynard / 布列塔尼"
     url: "/wiki/entities/brittanymaynard/"
+  - key: "Brixton"
+    title: "Brixton"
+    url: "/wiki/entities/brixton/"
   - key: "Broadcom"
     title: "Broadcom"
     url: "/wiki/entities/broadcom/"

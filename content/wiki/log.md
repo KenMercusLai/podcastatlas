@@ -26459,3 +26459,11 @@ Added source `212-haunted-london-part-4-glt8938796735`; created `NewgatePrison`,
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | 211. London: People (Part 3)
+
+Added source `211-london-people-part-3-glt1562041230`; created `HenryFielding`, `CLRJames`, `BowStreetRunners`, `Brixton`, `AdoptedLondonIdentity`, and `EarlyProfessionalPolicing`; and resynthesized `London` and `PostwarCaribbeanBritishSettlement` from their complete preserved evidence inventories. Core synthesis: London identity can be made through work, institutions, residence, neighborhood participation, and memory rather than birthplace alone, while Fielding's Bow Street group represents a limited professionalizing experiment rather than a complete modern police force and James's Brixton afterlife adds political, sporting, and cultural depth to Caribbean British settlement. No settled contradiction was adopted. Biographical anecdotes, institutional lineage, numerical details, migration geography, book rankings, cricket decline, and comparisons across unlike forms of mobility remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,308-source coverage; no topic claim set was dirty and global compaction was not due. Publish validation passed.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

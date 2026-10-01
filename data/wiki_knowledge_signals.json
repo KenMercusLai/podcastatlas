@@ -6095,6 +6095,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/entities/adolfhitler/"
     },
+    "AdoptedLondonIdentity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1562041230 [GLT1562041230].md",
+          "key": "211-london-people-part-3-glt1562041230",
+          "show": "The Rest Is History",
+          "title": "211. London: People (Part 3)",
+          "url": "/wiki/sources/211-london-people-part-3-glt1562041230/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/adoptedlondonidentity/"
+    },
     "AdoptiveLineageRitualPolitics": {
       "episode_count": 3,
       "show_count": 1,
@@ -22269,6 +22285,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/entities/bournville/"
     },
+    "BowStreetRunners": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1562041230 [GLT1562041230].md",
+          "key": "211-london-people-part-3-glt1562041230",
+          "show": "The Rest Is History",
+          "title": "211. London: People (Part 3)",
+          "url": "/wiki/sources/211-london-people-part-3-glt1562041230/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/bowstreetrunners/"
+    },
     "BowangSlopeBattleLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -23623,6 +23655,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/britishunionoffascists/"
     },
+    "Brixton": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1562041230 [GLT1562041230].md",
+          "key": "211-london-people-part-3-glt1562041230",
+          "show": "The Rest Is History",
+          "title": "211. London: People (Part 3)",
+          "url": "/wiki/sources/211-london-people-part-3-glt1562041230/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/brixton/"
+    },
     "Broadcom": {
       "episode_count": 2,
       "show_count": 1,
@@ -24417,6 +24465,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/chipsact/"
+    },
+    "CLRJames": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1562041230 [GLT1562041230].md",
+          "key": "211-london-people-part-3-glt1562041230",
+          "show": "The Rest Is History",
+          "title": "211. London: People (Part 3)",
+          "url": "/wiki/sources/211-london-people-part-3-glt1562041230/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/clrjames/"
     },
     "CODIS": {
       "episode_count": 1,
@@ -52321,6 +52385,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/concepts/earlyportugueseatlanticplantationslavery/"
+    },
+    "EarlyProfessionalPolicing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1562041230 [GLT1562041230].md",
+          "key": "211-london-people-part-3-glt1562041230",
+          "show": "The Rest Is History",
+          "title": "211. London: People (Part 3)",
+          "url": "/wiki/sources/211-london-people-part-3-glt1562041230/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/earlyprofessionalpolicing/"
     },
     "EarlyRestorationCoalitionIntegration": {
       "episode_count": 2,
@@ -82921,6 +83001,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/entities/henoko/"
+    },
+    "HenryFielding": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1562041230 [GLT1562041230].md",
+          "key": "211-london-people-part-3-glt1562041230",
+          "show": "The Rest Is History",
+          "title": "211. London: People (Part 3)",
+          "url": "/wiki/sources/211-london-people-part-3-glt1562041230/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/henryfielding/"
     },
     "HenryFok": {
       "episode_count": 1,
@@ -113751,9 +113847,9 @@
       "url": "/wiki/concepts/lollardy/"
     },
     "London": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "TRAILER： Shire folk [6aa271d1a6e9aef4cc74ef3b].md",
@@ -113782,6 +113878,13 @@
           "show": "The Rest Is History",
           "title": "212. Haunted London (Part 4)",
           "url": "/wiki/sources/212-haunted-london-part-4-glt8938796735/"
+        },
+        {
+          "episode_file": "GLT1562041230 [GLT1562041230].md",
+          "key": "211-london-people-part-3-glt1562041230",
+          "show": "The Rest Is History",
+          "title": "211. London: People (Part 3)",
+          "url": "/wiki/sources/211-london-people-part-3-glt1562041230/"
         }
       ],
       "updated": "2026-10-01",
@@ -145500,9 +145603,9 @@
       "url": "/wiki/concepts/postwaradministrativeretrenchment/"
     },
     "PostwarCaribbeanBritishSettlement": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4826407019 [GLT4826407019].md",
@@ -145510,6 +145613,13 @@
           "show": "The Rest Is History",
           "title": "401. Windrush: The Story of Black Britain",
           "url": "/wiki/sources/401-windrush-the-story-of-black-britain-glt4826407019/"
+        },
+        {
+          "episode_file": "GLT1562041230 [GLT1562041230].md",
+          "key": "211-london-people-part-3-glt1562041230",
+          "show": "The Rest Is History",
+          "title": "211. London: People (Part 3)",
+          "url": "/wiki/sources/211-london-people-part-3-glt1562041230/"
         }
       ],
       "updated": "2026-09-27",

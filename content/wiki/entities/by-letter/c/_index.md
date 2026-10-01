@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 11687
+wiki_total_pages: 11691
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -17,6 +17,9 @@ wiki_pages:
   - key: "Cestbon"
     title: "C'estbon / 怡宝"
     url: "/wiki/entities/cestbon/"
+  - key: "CLRJames"
+    title: "C. L. R. James"
+    url: "/wiki/entities/clrjames/"
   - key: "CNorthcoteParkinson"
     title: "C. Northcote Parkinson"
     url: "/wiki/entities/cnorthcoteparkinson/"

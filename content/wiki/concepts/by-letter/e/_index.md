@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 9061
+wiki_total_pages: 9063
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -41,6 +41,9 @@ wiki_pages:
   - key: "EarlyPortugueseAtlanticPlantationSlavery"
     title: "Early Portuguese Atlantic Plantation Slavery"
     url: "/wiki/concepts/earlyportugueseatlanticplantationslavery/"
+  - key: "EarlyProfessionalPolicing"
+    title: "Early Professional Policing"
+    url: "/wiki/concepts/earlyprofessionalpolicing/"
   - key: "EarlyTransplantationImaginary"
     title: "Early Transplantation Imaginary / 早期移植想象"
     url: "/wiki/concepts/earlytransplantationimaginary/"

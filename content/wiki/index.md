@@ -3362,6 +3362,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [214. The Battle of Stalingrad (Part 1)](sources/214-the-battle-of-stalingrad-part-1-glt4564292022.md) — The Rest Is History episode on Case Blue's oil logic and logistical overreach, the bombing of Stalingrad, Soviet coercive discipline, and close-range urban defence.
 - [213. London: Moments (Part 5)](sources/213-london-moments-part-5-glt4986306476.md) — The Rest Is History finale pairing the Tower menagerie with the Metropolitan Railway's transport, property, publicity, and Metroland suburban project.
 - [212. Haunted London (Part 4)](sources/212-haunted-london-part-4-glt8938796735.md) — The Rest Is History walk through Newgate, Smithfield, St Bartholomew's, the buried Fleet, and Dickensian Saffron Hill as layered urban memory.
+- [211. London: People (Part 3)](sources/211-london-people-part-3-glt1562041230.md) — The Rest Is History pairing of Henry Fielding and C. L. R. James through adopted London identity, early policing, Brixton, Caribbean settlement, cricket, and post-colonial writing.
 
 ## Entities
 - [Tower of London](entities/TowerOfLondon.md) — Royal fortress whose menagerie joined diplomatic animal gifts, public spectacle, care limits, reform, and folklore.
@@ -15084,6 +15085,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Smithfield](entities/Smithfield.md) — London market and open space layered with commerce, religion, punishment, revolt, and commemoration.
 - [St Bartholomew the Great](entities/StBartholomewTheGreat.md) — Surviving medieval priory church shaped by institutional continuity, Reformation reuse, folklore, and cultural afterlife.
 - [River Fleet](entities/RiverFleet.md) — Buried London river still legible through topography, names, sanitation history, and literature.
+- [Henry Fielding](entities/HenryFielding.md) — Novelist, satirist, and London magistrate connecting literary culture, social reform, and the Bow Street policing experiment.
+- [C. L. R. James](entities/CLRJames.md) — Trinidad-born Marxist writer and cricket thinker whose post-colonial work and final Brixton residence shaped his London afterlife.
+- [Bow Street Runners](entities/BowStreetRunners.md) — Small paid eighteenth-century investigative group treated as a precursor rather than a complete modern police force.
+- [Brixton](entities/Brixton.md) — South London district connecting Caribbean settlement, Race Today, Black British activism, cricket memory, and C. L. R. James.
 
 ## Concepts
 - [Royal Animal Spectacle](concepts/RoyalAnimalSpectacle.md) — Diplomatic and dynastic animal display whose prestige creates care obligations that spectacle alone cannot satisfy.
@@ -24190,5 +24195,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Communication Resilience](concepts/CommunicationResilience.md) — Capacity to preserve high-value information flows through prepared channels with failure modes different from the primary system.
 - [Soviet Urban Active Defence](concepts/SovietUrbanActiveDefense.md) — Stalingrad method joining small storm teams, fortified positions, observation, reinforcement, and local counterattack.
 - [Stalingrad War Memory](concepts/StalingradWarMemory.md) — Wartime-created and institutionally sustained public narrative contested through archives, naming, education, and commemoration.
+- [Adopted London Identity](concepts/AdoptedLondonIdentity.md) — Urban belonging produced through consequential participation, residence, institutions, neighborhood life, and public memory rather than birthplace alone.
+- [Early Professional Policing](concepts/EarlyProfessionalPolicing.md) — Incomplete transition from volunteer and private enforcement toward trained, paid, equipped, and publicly supervised personnel.
 
 ## Syntheses
