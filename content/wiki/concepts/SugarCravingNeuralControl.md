@@ -7,7 +7,8 @@ sources:
   - the-science-of-your-gut-sense-the-gut-brain-axis-dr-diego-bohorquez-scim8970398714
   - how-sugar-processed-foods-impact-your-health-dr-robert-lustig-scim6504027968
   - the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim7979038386
-last_updated: 2026-10-01
+  - controlling-sugar-cravings-metabolism-with-science-based-tools-scim2411268681
+last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
 
@@ -27,8 +28,10 @@ The Lustig interview adds a proposed insulin-leptin-reward loop: insulin is said
 
 The Zuker interview adds a behavioral dissociation: mice lacking sweet receptors initially could not distinguish sugar from water but developed a strong sugar preference after longer exposure. It also sharpens the sweetener boundary—artificial sweeteners can activate oral sweet receptors while failing to activate the described intestinal glucose pathway. This supports a mechanistic distinction, not a universal claim that sweeteners cause craving or cannot help any person reduce sugar.
 
+The full-length solo episode adds a third reinforcing input alongside oral sweetness and gut sensing: glucose uptake and use by neurons. It also places that mechanism inside energy state—ghrelin, insulin, astrocyte-mediated fuel delivery, cognitive or motor demand, exercise, and sleep all change the context in which sugar is sought or used. This broadens the model without turning neuronal glucose demand into a reason for unrestricted refined-sugar intake.
+
 ## Key Claims
-- Sugar seeking is shaped by hormone, glucose, brain-energy, dopamine, gut-sensing, and proposed insulin-leptin-reward systems rather than only conscious preference.
+- Sugar seeking is shaped by hormone, neuronal glucose use, brain-energy demand, dopamine, gut-sensing, and proposed insulin-leptin-reward systems rather than only conscious preference.
 - Sweet taste and post-ingestive nutritive sensing can reinforce sugar seeking through partly distinct pathways.
 - Immediate sweet liking and delayed nutritive wanting can dissociate, as shown by sugar preference developing in sweet-receptor-knockout mice.
 - Dopamine-linked wanting can make a sweet stimulus increase pursuit for more food rather than simply end the craving.
@@ -45,14 +48,15 @@ The Zuker interview adds a behavioral dissociation: mice lacking sweet receptors
 - Insulin-leptin-reward proposal - [[how-sugar-processed-foods-impact-your-health-dr-robert-lustig-scim6504027968]] links insulin to reduced leptin signaling and repeated dopamine stimulation to receptor downregulation, tolerance, hunger, and continued seeking.
 - Liking-versus-wanting dissociation - [[the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim7979038386]] reports delayed sugar preference in sweet-receptor-knockout mice and distinguishes oral sweetness from intestinal glucose sensing.
 - Sweetener boundary - [[the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim7979038386]] says artificial sweeteners activate tongue sweet receptors but not the described gut glucose pathway.
+- Third-input and state context - [[controlling-sugar-cravings-metabolism-with-science-based-tools-scim2411268681]] adds neuronal glucose uptake, astrocyte delivery, cognitive and motor demand, exercise context, and sleep to the oral and gut reinforcement pathways.
 
 ## Counterevidence & Qualifications
-The page is based on four Huberman Lab source notes and should not be treated as a full clinical model of appetite, diabetes, obesity, eating disorders, hypoglycemia, cancer care, gastrointestinal disease, medication effects, addiction diagnosis, or individualized nutrition. The Bohórquez and Zuker notes supply no primary-paper methods, sample sizes, or effect sizes, and mouse liquid-choice behavior does not establish identical human craving experience. The Lustig note likewise does not provide study-level evidence for receptor downregulation, insulin-leptin effects, price elasticity as proof of addiction, or equivalence with drug addiction. Artificial-sweetener outcomes vary by compound, dose, person, and substitution context; the missing glucose signal does not prove that all sweeteners increase appetite or fail as reduction tools. Fructose, glutamine, lemon/lime juice, cinnamon, berberine, sleep, gastric bypass, processed-food timing, and broader intuition claims remain source-scoped unless supported by stronger evidence.
+The page is based on five Huberman Lab source notes and should not be treated as a full clinical model of appetite, diabetes, obesity, eating disorders, hypoglycemia, cancer care, gastrointestinal disease, medication effects, addiction diagnosis, or individualized nutrition. The Bohórquez and Zuker notes supply no primary-paper methods, sample sizes, or effect sizes, and mouse liquid-choice behavior does not establish identical human craving experience. The Lustig note likewise does not provide study-level evidence for receptor downregulation, insulin-leptin effects, price elasticity as proof of addiction, or equivalence with drug addiction. Artificial-sweetener outcomes vary by compound, dose, pairing, person, and substitution context; the missing gut glucose signal or conditioned flavor response does not prove that all sweeteners increase appetite or fail as reduction tools. The visual-cortex feeding study, neuronal glucose-blockade experiments, fructose, glutamine, lemon/lime juice, cinnamon, berberine, sleep, gastric bypass, processed-food timing, and broader intuition claims remain source-scoped unless supported by stronger evidence.
 
 ## What Changed
-- Added sweet-receptor-knockout evidence separating immediate sweetness from delayed sugar preference.
-- Clarified the artificial-sweetener mechanism without generalizing it into a universal appetite outcome.
-- Sharpened liking as oral taste and wanting as post-ingestive reinforcement while retaining their interaction.
+- Added neuronal glucose use as a third reinforcing input alongside oral sweetness and gut sensing.
+- Placed sugar seeking inside astrocyte fuel delivery, energy demand, exercise, and sleep context.
+- Kept conditioned sweetener responses and glucose-blockade experiments source-scoped rather than universal human outcomes.
 
 ## Related Concepts
 - [[PracticalSugarControl]] - behavior and label-literacy frame that this mechanism helps explain.

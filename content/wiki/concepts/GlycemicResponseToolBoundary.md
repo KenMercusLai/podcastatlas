@@ -5,7 +5,8 @@ tags: [nutrition, metabolism, supplements, medical-risk]
 sources:
   - essentials-control-sugar-cravings-metabolism-with-science-based-tools-scim2821501065
   - essentials-how-to-control-hunger-eating-satiety-scim9260736648
-last_updated: 2026-09-22
+  - controlling-sugar-cravings-metabolism-with-science-based-tools-scim2411268681
+last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
 
@@ -19,8 +20,10 @@ The sources place glycemic response inside craving, appetite, and meal managemen
 
 The boundary matters because not all tools have the same risk profile. Cinnamon is discussed as a possible gastric-emptying or glycemic-response modifier but bounded by coumarin toxicity at higher intake. Glutamine is framed as experimental for cravings, with gastric and cancer-context cautions. Berberine, metformin, glibenclamide, sodium caprate, and AMPK-linked interventions move into stronger glucose-lowering territory where excessive drops, drug interactions, disease context, and clinician guidance become central.
 
+The full episode adds timing and state boundaries. A rapid glucose rise after hard exercise may serve glycogen replenishment differently from an unplanned sugary drink, while lemon or lime juice during fasting or already-low glucose may worsen hypoglycemia. It also treats conditioned flavor-insulin responses and personal CGM observations as hypotheses or individual measurements, not universal prescriptions.
+
 ## Key Claims
-- Glycemic index and glycemic load should be read in food context because isolated-food measurements do not capture mixed meals.
+- Glycemic index and glycemic load should be read in food and state context because mixed meals, exercise, fasting, baseline glucose, and timing can change whether the same tactic is useful or risky.
 - Fiber and fat can slow or reduce the glucose impact of sweet foods or carbohydrate-heavy meals.
 - Eating fibrous foods before protein and carbohydrate, followed by light movement, is presented as a possible way to moderate the post-meal rise.
 - Lemon or lime juice is presented as an accessible but source-scoped tool for blunting glucose response.
@@ -34,13 +37,15 @@ The boundary matters because not all tools have the same risk profile. Cinnamon 
 - Cinnamon boundary - [[essentials-control-sugar-cravings-metabolism-with-science-based-tools-scim2821501065]] pairs cinnamon's possible gastric-emptying effect with a daily dose caution.
 - Stronger-tool boundary - [[essentials-control-sugar-cravings-metabolism-with-science-based-tools-scim2821501065]] warns that berberine and glucose-lowering drugs can cause excessive glucose drops and should be taken seriously.
 - Food order and movement - [[essentials-how-to-control-hunger-eating-satiety-scim9260736648]] proposes fiber first, then protein and carbohydrate, plus a calm post-meal walk or regular exercise as glucose-regulation tools.
+- State and timing boundary - [[controlling-sugar-cravings-metabolism-with-science-based-tools-scim2411268681]] distinguishes post-exercise glycogen context from casual intake and warns that acidic-juice or stronger lowering tools can be hazardous when glucose is already low.
 
 ## Counterevidence & Qualifications
-This is public nutrition and supplement literacy, not individualized diabetes care, weight-loss treatment, oncology advice, pregnancy guidance, medication adjustment, or hypoglycemia management. CGM self-experimentation can reveal patterns, but it does not establish universal causal effects or replace clinical interpretation. The food-order and exercise claims come from a condensed episode without effect sizes or participant details, and the source's "nanograms per deciliter" glucose unit is not adopted.
+This is public nutrition and supplement literacy, not individualized diabetes care, weight-loss treatment, oncology advice, pregnancy guidance, medication adjustment, or hypoglycemia management. CGM self-experimentation can reveal patterns, but it does not establish universal causal effects or replace clinical interpretation. The food-order and exercise claims come from condensed notes without effect sizes or participant details, and the hunger source's "nanograms per deciliter" glucose unit is not adopted. Conditioned insulin responses to sweetener flavors do not establish that all sweeteners have the same effect; pairing, compound, dose, species, and substitution context matter.
 
 ## What Changed
-- Added food order and post-meal movement as source-scoped meal-context tools.
-- Explicitly rejected the source's suspect blood-glucose unit while preserving its clinical-risk boundary.
+- Added exercise, fasting, baseline glucose, and timing as boundaries on interpreting glucose-response tools.
+- Clarified that CGM self-observation and conditioned sweetener responses do not establish universal effects.
+- Retained food order and post-meal movement as source-scoped meal-context tools.
 
 ## Related Concepts
 - [[PracticalSugarControl]] - broad dietary behavior frame that this tool boundary operationalizes.

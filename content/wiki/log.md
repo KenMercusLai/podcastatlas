@@ -27029,3 +27029,9 @@ Added source `166-genghis-khan-lord-of-the-mongols-glt4398796320`; created `Mong
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | Controlling Sugar Cravings & Metabolism with Science-Based Tools
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

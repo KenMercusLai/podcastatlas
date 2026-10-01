@@ -77233,9 +77233,9 @@
       "url": "/wiki/concepts/glycationskinanxiety/"
     },
     "GlycemicResponseToolBoundary": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM2821501065 [SCIM2821501065].md",
@@ -77250,9 +77250,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Control Hunger, Eating & Satiety",
           "url": "/wiki/sources/essentials-how-to-control-hunger-eating-satiety-scim9260736648/"
+        },
+        {
+          "episode_file": "SCIM2411268681 [SCIM2411268681].md",
+          "key": "controlling-sugar-cravings-metabolism-with-science-based-tools-scim2411268681",
+          "show": "Huberman Lab",
+          "title": "Controlling Sugar Cravings & Metabolism with Science-Based Tools",
+          "url": "/wiki/sources/controlling-sugar-cravings-metabolism-with-science-based-tools-scim2411268681/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/glycemicresponsetoolboundary/"
     },
     "GnaeusJuliusAgricola": {
@@ -179781,9 +179788,9 @@
       "url": "/wiki/concepts/sufferingbasedmoralsubjecthood/"
     },
     "SugarCravingNeuralControl": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM2821501065 [SCIM2821501065].md",
@@ -179812,9 +179819,16 @@
           "show": "Huberman Lab",
           "title": "The Biology of Taste Perception & Sugar Craving | Dr. Charles Zuker",
           "url": "/wiki/sources/the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim7979038386/"
+        },
+        {
+          "episode_file": "SCIM2411268681 [SCIM2411268681].md",
+          "key": "controlling-sugar-cravings-metabolism-with-science-based-tools-scim2411268681",
+          "show": "Huberman Lab",
+          "title": "Controlling Sugar Cravings & Metabolism with Science-Based Tools",
+          "url": "/wiki/sources/controlling-sugar-cravings-metabolism-with-science-based-tools-scim2411268681/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/sugarcravingneuralcontrol/"
     },
     "SuiHongWesternHan": {

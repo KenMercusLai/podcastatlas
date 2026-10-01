@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1380
+topic_total_pages: 1381
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -3585,6 +3585,9 @@ topic_sources:
   - key: "claire-isabel-webb-nina-miolane-the-geometry-of-consciousness-iulbwkinatk"
     title: "Claire Isabel Webb & Nina Miolane: The Geometry of Consciousness"
     url: "/wiki/sources/claire-isabel-webb-nina-miolane-the-geometry-of-consciousness-iulbwkinatk/"
+  - key: "controlling-sugar-cravings-metabolism-with-science-based-tools-scim2411268681"
+    title: "Controlling Sugar Cravings & Metabolism with Science-Based Tools"
+    url: "/wiki/sources/controlling-sugar-cravings-metabolism-with-science-based-tools-scim2411268681/"
   - key: "create-your-ideal-future-using-science-based-protocols-ari-wallach-scim9541341305"
     title: "Create Your Ideal Future Using Science-Based Protocols | Ari Wallach"
     url: "/wiki/sources/create-your-ideal-future-using-science-based-protocols-ari-wallach-scim9541341305/"
