@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [183. History's Biggest Questions with Dan Carlin (Part 1)](sources/183-historys-biggest-questions-with-dan-carlin-part-1-glt3395544177.md) — The Rest Is History crossover on counterfactual method, siege survival, the First World War's causal reach, lost ancient perspectives, nuclear choices, and a surviving Confederacy.
 - [Understanding & Controlling Aggression](sources/understanding-controlling-aggression-scim4257261370.md) — Full Huberman Lab episode on aggression categories, VMH circuitry, hormone and photoperiod context, alcohol and caffeine disinhibition, and cumulative pressure-reduction tools.
 - [184. History's Biggest Questions with Dan Carlin (Part 2)](sources/184-historys-biggest-questions-with-dan-carlin-part-2-glt1976082798.md) — The Rest Is History crossover on historical memory, contextual judgment, Cold War contingency, Putin's miscalculation, and whether the past remains knowable.
 - [185. Agatha Christie](sources/185-agatha-christie-glt9092045420.md) — The Rest Is History episode on Christie's life, middle-class social anxieties, stereotype-based misdirection, moral judgment, and rule-bound formal innovation.
@@ -3408,8 +3409,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Tools to Improve Your Focus & Concentration](sources/essentials-tools-to-improve-your-focus-concentration-scim2328129388.md) — Huberman Lab Essentials episode on behavior-first focus training, 90-minute work bouts, repeated refocusing, deliberate recovery, optional state tools, supplement caution, and medication boundaries.
 
 ## Entities
-- [Dan Carlin](entities/DanCarlin.md) — Hardcore History host represented through qualified realism about memory, moral judgment, contingency, and knowledge of the past.
-- [Hardcore History](entities/HardcoreHistory.md) — Dan Carlin's history podcast, represented through a big-questions crossover with The Rest Is History.
+- [Dan Carlin](entities/DanCarlin.md) — Hardcore History host using long-form research, comparison, counterfactuals, and qualified realism about the past.
+- [Hardcore History](entities/HardcoreHistory.md) — Dan Carlin's long-form history podcast, represented through research-led big-question crossovers with The Rest Is History.
 - [Hercule Poirot](entities/HerculePoirot.md) — Christie's Belgian outsider detective, whose modern unheroic persona exposes prejudice and hidden guilt.
 - [Miss Marple](entities/MissMarple.md) — Christie's underestimated village detective, whose social knowledge reveals ordinary respectable evil.
 - [Frances Christie](entities/FrancesChristie.md) — Sotheby's curator whose Jubilee exhibition interprets Elizabeth II's reign through portraits, ritual objects, protest graphics, art, and jewelry.
@@ -15236,6 +15237,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Nocs Provisions](entities/NocsProvisions.md) — Colorful compact-optics brand weighing connected sharing against analog presence.
 
 ## Concepts
+- [Historical Counterfactual Reasoning](concepts/HistoricalCounterfactualReasoning.md) — Method for testing causal claims through specified alternatives while retaining structural constraints and uncertainty.
 - [Propaganda Feedback and Strategic Miscalculation](concepts/PropagandaFeedbackStrategicMiscalculation.md) — Risk that mobilizing narratives, ideological contempt, and incentive-distorted intelligence become inputs to strategic planning.
 - [Social Stereotype Misdirection](concepts/SocialStereotypeMisdirection.md) — Detective-fiction technique that turns assumptions about social identity and role into mechanisms of concealment.
 - [Detective Fiction Moral Order](concepts/DetectiveFictionMoralOrder.md) — Structure joining causal explanation to moral disclosure, accountability, and bounded restoration.

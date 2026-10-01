@@ -1263,6 +1263,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "183-historys-biggest-questions-with-dan-carlin-part-1-glt3395544177": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260": [
     {
       "key": "culture",
@@ -38908,6 +38915,13 @@
     }
   ],
   "HistoricalCompositeAllegory": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
+  "HistoricalCounterfactualReasoning": [
     {
       "key": "history",
       "label": "History",

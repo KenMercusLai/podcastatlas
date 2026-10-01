@@ -9682,9 +9682,9 @@
       "url": "/wiki/concepts/ambientvoiceagentinterface/"
     },
     "AmericanCivilWar": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT5256515778 [GLT5256515778].md",
@@ -9706,6 +9706,13 @@
           "show": "The Rest Is History",
           "title": "200: American Civil War: The Causes (Part 1)",
           "url": "/wiki/sources/200-american-civil-war-the-causes-part-1-glt1124511401/"
+        },
+        {
+          "episode_file": "GLT3395544177 [GLT3395544177].md",
+          "key": "183-historys-biggest-questions-with-dan-carlin-part-1-glt3395544177",
+          "show": "The Rest Is History",
+          "title": "183. History's Biggest Questions with Dan Carlin (Part 1)",
+          "url": "/wiki/sources/183-historys-biggest-questions-with-dan-carlin-part-1-glt3395544177/"
         }
       ],
       "updated": "2026-10-01",
@@ -43830,9 +43837,9 @@
       "url": "/wiki/entities/dallaspolicedepartment/"
     },
     "DanCarlin": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1976082798 [GLT1976082798].md",
@@ -43840,6 +43847,13 @@
           "show": "The Rest Is History",
           "title": "184. History's Biggest Questions with Dan Carlin (Part 2)",
           "url": "/wiki/sources/184-historys-biggest-questions-with-dan-carlin-part-2-glt1976082798/"
+        },
+        {
+          "episode_file": "GLT3395544177 [GLT3395544177].md",
+          "key": "183-historys-biggest-questions-with-dan-carlin-part-1-glt3395544177",
+          "show": "The Rest Is History",
+          "title": "183. History's Biggest Questions with Dan Carlin (Part 1)",
+          "url": "/wiki/sources/183-historys-biggest-questions-with-dan-carlin-part-1-glt3395544177/"
         }
       ],
       "updated": "2026-10-01",
@@ -82844,9 +82858,9 @@
       "url": "/wiki/concepts/hardtechfinancingdiscipline/"
     },
     "HardcoreHistory": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1976082798 [GLT1976082798].md",
@@ -82854,6 +82868,13 @@
           "show": "The Rest Is History",
           "title": "184. History's Biggest Questions with Dan Carlin (Part 2)",
           "url": "/wiki/sources/184-historys-biggest-questions-with-dan-carlin-part-2-glt1976082798/"
+        },
+        {
+          "episode_file": "GLT3395544177 [GLT3395544177].md",
+          "key": "183-historys-biggest-questions-with-dan-carlin-part-1-glt3395544177",
+          "show": "The Rest Is History",
+          "title": "183. History's Biggest Questions with Dan Carlin (Part 1)",
+          "url": "/wiki/sources/183-historys-biggest-questions-with-dan-carlin-part-1-glt3395544177/"
         }
       ],
       "updated": "2026-10-01",
@@ -86317,6 +86338,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/historicalcompositeallegory/"
+    },
+    "HistoricalCounterfactualReasoning": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3395544177 [GLT3395544177].md",
+          "key": "183-historys-biggest-questions-with-dan-carlin-part-1-glt3395544177",
+          "show": "The Rest Is History",
+          "title": "183. History's Biggest Questions with Dan Carlin (Part 1)",
+          "url": "/wiki/sources/183-historys-biggest-questions-with-dan-carlin-part-1-glt3395544177/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/historicalcounterfactualreasoning/"
     },
     "HistoricalCritiqueTolerance": {
       "episode_count": 1,
@@ -103991,9 +104028,9 @@
       "url": "/wiki/entities/kailas/"
     },
     "KaiserWilhelmII": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "GLT7203783068 [GLT7203783068].md",
@@ -104050,9 +104087,16 @@
           "show": "The Rest Is History",
           "title": "467. The Murder of Franz Ferdinand: The Victim (Part 3)",
           "url": "/wiki/sources/467-the-murder-of-franz-ferdinand-the-victim-part-3-glt9071060087/"
+        },
+        {
+          "episode_file": "GLT3395544177 [GLT3395544177].md",
+          "key": "183-historys-biggest-questions-with-dan-carlin-part-1-glt3395544177",
+          "show": "The Rest Is History",
+          "title": "183. History's Biggest Questions with Dan Carlin (Part 1)",
+          "url": "/wiki/sources/183-historys-biggest-questions-with-dan-carlin-part-1-glt3395544177/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/kaiserwilhelmii/"
     },
     "KamakuraShogunateFormation": {

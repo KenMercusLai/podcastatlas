@@ -26173,6 +26173,10 @@ Added source `239-young-churchill-born-to-lead-part-1-glt1969009161`; created `J
 
 Ran lint. See lint-report.md for details.
 
+## [2026-10-01] ingest | 183. History's Biggest Questions with Dan Carlin (Part 1)
+
+Added source `183-historys-biggest-questions-with-dan-carlin-part-1-glt3395544177`; created `HistoricalCounterfactualReasoning`; and resynthesized `DanCarlin`, `HardcoreHistory`, `KaiserWilhelmII`, and `AmericanCivilWar` from their complete preserved evidence inventories. Core synthesis: counterfactuals clarify causation when they specify the changed choice, preserve structural constraints, and trace an explicit mechanism; the episode's siege, leader-ranking, nuclear, archive, and Confederate futures remain source-scoped rather than settled findings. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,351-source coverage; no topic claim set was dirty and global compaction was not due.
+
 ## [2026-10-01] ingest | 189. Australian Prime Ministers: Bob Hawke - Scott Morrison (Part 3)
 
 Added source `189-australian-prime-ministers-bob-hawke-scott-morrison-part-3-glt2222829202`; created `BobHawke`, `PaulKeating`, `JohnHoward`, `KevinRudd`, `JuliaGillard`, `TonyAbbott`, `MalcolmTurnbull`, `ScottMorrison`, and `HawkeKeatingReformSettlement`; and resynthesized `Australia` and `PrimeMinisterialRegicide` from their complete preserved evidence inventories. Core synthesis: Hawke and Keating joined universal social provision and labor legitimacy to market opening, Howard consolidated a long conservative era, and the Rudd-Gillard-Rudd plus Abbott-Turnbull-Morrison sequences turned party-room replacement into a recurrent feature of Australian leadership. No settled contradiction was adopted. Third-way influence, economic attribution, political-character judgments, policy influence abroad, spill-era causation, and claims about national decline remain interpretive or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,340-source coverage; no topic claim set was dirty and global compaction was not due.
@@ -26805,6 +26809,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-01] ingest | Understanding & Controlling Aggression
 
 Added source `understanding-controlling-aggression-scim4257261370`; resynthesized `AggressionCircuitBiology`, `HormoneContextAggression`, `AggressionPressureReduction`, `PeriaqueductalGray`, `VentromedialHypothalamus`, `KonradLorenz`, `WalterHess`, `DaiYuLin`, and `DavidAnderson` from their complete preserved evidence inventories. Core synthesis: aggression is a context-dependent family of behaviors whose expression depends on neural circuits, aromatization and estrogen-receptor signaling, stress and serotonin state, photoperiod, social context, and self-regulation; alcohol-related disinhibition and caffeine-related arousal add distinct practical risk contexts. No settled contradiction was adopted. The full episode and later Essentials edit are shared editorial provenance rather than independent replication, while animal-to-human translation, hormone correlations, seasonal effects, supplements, sauna, and pediatric ADHD findings remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,350-source coverage; no topic claim set was dirty and global compaction was not due. Identity, knowledge-schema, whitespace, health, changed-page link, index coverage, synthesis, and publish validation passed.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-10-01] lint | Wiki health check
 

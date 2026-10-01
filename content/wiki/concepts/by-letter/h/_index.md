@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 9128
+wiki_total_pages: 9129
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -449,6 +449,9 @@ wiki_pages:
   - key: "HistoricalCompositeAllegory"
     title: "Historical Composite Allegory"
     url: "/wiki/concepts/historicalcompositeallegory/"
+  - key: "HistoricalCounterfactualReasoning"
+    title: "Historical Counterfactual Reasoning"
+    url: "/wiki/concepts/historicalcounterfactualreasoning/"
   - key: "HistoricalDetectiveReasoning"
     title: "Historical Detective Reasoning"
     url: "/wiki/concepts/historicaldetectivereasoning/"

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2312
+topic_total_pages: 2314
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -553,6 +553,9 @@ topic_concepts:
   - key: "HistoricalCompositeAllegory"
     title: "Historical Composite Allegory"
     url: "/wiki/concepts/historicalcompositeallegory/"
+  - key: "HistoricalCounterfactualReasoning"
+    title: "Historical Counterfactual Reasoning"
+    url: "/wiki/concepts/historicalcounterfactualreasoning/"
   - key: "HistoricalDetectiveReasoning"
     title: "Historical Detective Reasoning"
     url: "/wiki/concepts/historicaldetectivereasoning/"
@@ -4800,6 +4803,9 @@ topic_sources:
   - key: "171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962"
     title: "171.闲聊十二生肖之马：观音大士的兴趣爱好,及老头环角色的灵感"
     url: "/wiki/sources/171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962/"
+  - key: "183-historys-biggest-questions-with-dan-carlin-part-1-glt3395544177"
+    title: "183. History's Biggest Questions with Dan Carlin (Part 1)"
+    url: "/wiki/sources/183-historys-biggest-questions-with-dan-carlin-part-1-glt3395544177/"
   - key: "184-historys-biggest-questions-with-dan-carlin-part-2-glt1976082798"
     title: "184. History's Biggest Questions with Dan Carlin (Part 2)"
     url: "/wiki/sources/184-historys-biggest-questions-with-dan-carlin-part-2-glt1976082798/"
