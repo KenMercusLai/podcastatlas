@@ -25466,9 +25466,9 @@
       "url": "/wiki/entities/cameroon/"
     },
     "CamilleDesmoulins": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5485693441 [GLT5485693441].md",
@@ -25476,9 +25476,16 @@
           "show": "The Rest Is History",
           "title": "479. The French Revolution: The Storming of the Bastille (Part 5)",
           "url": "/wiki/sources/479-the-french-revolution-the-storming-of-the-bastille-part-5-glt5485693441/"
+        },
+        {
+          "episode_file": "GLT5038102951 [GLT5038102951].md",
+          "key": "710-the-terror-death-at-the-guillotine-part-4-glt5038102951",
+          "show": "The Rest Is History",
+          "title": "710. The Terror: Death at the Guillotine (Part 4)",
+          "url": "/wiki/sources/710-the-terror-death-at-the-guillotine-part-4-glt5038102951/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/camilledesmoulins/"
     },
     "CampaignCoordinationWithoutCommunication": {
@@ -36953,10 +36960,26 @@
       "updated": "2026-09-15",
       "url": "/wiki/concepts/commitmentbiaspublicpromise/"
     },
-    "CommitteeOfPublicSafety": {
-      "episode_count": 2,
+    "CommitteeOfGeneralSecurity": {
+      "episode_count": 1,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5038102951 [GLT5038102951].md",
+          "key": "710-the-terror-death-at-the-guillotine-part-4-glt5038102951",
+          "show": "The Rest Is History",
+          "title": "710. The Terror: Death at the Guillotine (Part 4)",
+          "url": "/wiki/sources/710-the-terror-death-at-the-guillotine-part-4-glt5038102951/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/committeeofgeneralsecurity/"
+    },
+    "CommitteeOfPublicSafety": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6580043397 [GLT6580043397].md",
@@ -36971,9 +36994,16 @@
           "show": "The Rest Is History",
           "title": "708. The Terror: The Reign of Robespierre (Part 2)",
           "url": "/wiki/sources/708-the-terror-the-reign-of-robespierre-part-2-glt2099451333/"
+        },
+        {
+          "episode_file": "GLT5038102951 [GLT5038102951].md",
+          "key": "710-the-terror-death-at-the-guillotine-part-4-glt5038102951",
+          "show": "The Rest Is History",
+          "title": "710. The Terror: Death at the Guillotine (Part 4)",
+          "url": "/wiki/sources/710-the-terror-death-at-the-guillotine-part-4-glt5038102951/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/committeeofpublicsafety/"
     },
     "Commius": {
@@ -41057,9 +41087,9 @@
       "url": "/wiki/concepts/crisisrumordeamplification/"
     },
     "CrisisValidatedConspiracyPolitics": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT6580043397 [GLT6580043397].md",
@@ -41095,9 +41125,16 @@
           "show": "The Rest Is History",
           "title": "708. The Terror: The Reign of Robespierre (Part 2)",
           "url": "/wiki/sources/708-the-terror-the-reign-of-robespierre-part-2-glt2099451333/"
+        },
+        {
+          "episode_file": "GLT5038102951 [GLT5038102951].md",
+          "key": "710-the-terror-death-at-the-guillotine-part-4-glt5038102951",
+          "show": "The Rest Is History",
+          "title": "710. The Terror: Death at the Guillotine (Part 4)",
+          "url": "/wiki/sources/710-the-terror-death-at-the-guillotine-part-4-glt5038102951/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/crisisvalidatedconspiracypolitics/"
     },
     "CrisisWithdrawalSelfProtection": {
@@ -54765,9 +54802,9 @@
       "url": "/wiki/concepts/emergencyfrontierdiscretion/"
     },
     "EmergencyInstitutionsToTerror": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6580043397 [GLT6580043397].md",
@@ -54782,9 +54819,16 @@
           "show": "The Rest Is History",
           "title": "708. The Terror: The Reign of Robespierre (Part 2)",
           "url": "/wiki/sources/708-the-terror-the-reign-of-robespierre-part-2-glt2099451333/"
+        },
+        {
+          "episode_file": "GLT5038102951 [GLT5038102951].md",
+          "key": "710-the-terror-death-at-the-guillotine-part-4-glt5038102951",
+          "show": "The Rest Is History",
+          "title": "710. The Terror: Death at the Guillotine (Part 4)",
+          "url": "/wiki/sources/710-the-terror-death-at-the-guillotine-part-4-glt5038102951/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/emergencyinstitutionstoterror/"
     },
     "EmergencyRescueLegalProtection": {
@@ -68575,6 +68619,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/francoscottishalliance/"
     },
+    "FrancoisChabot": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5038102951 [GLT5038102951].md",
+          "key": "710-the-terror-death-at-the-guillotine-part-4-glt5038102951",
+          "show": "The Rest Is History",
+          "title": "710. The Terror: Death at the Guillotine (Part 4)",
+          "url": "/wiki/sources/710-the-terror-death-at-the-guillotine-part-4-glt5038102951/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/francoischabot/"
+    },
     "FrancoisJourgniacSaintMeard": {
       "episode_count": 1,
       "show_count": 1,
@@ -74211,9 +74271,9 @@
       "url": "/wiki/entities/georgescouthon/"
     },
     "GeorgesDanton": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
@@ -74242,9 +74302,16 @@
           "show": "The Rest Is History",
           "title": "506. The French Revolution: Massacre at the Palace (Part 4)",
           "url": "/wiki/sources/506-the-french-revolution-massacre-at-the-palace-part-4-glt9954902163/"
+        },
+        {
+          "episode_file": "GLT5038102951 [GLT5038102951].md",
+          "key": "710-the-terror-death-at-the-guillotine-part-4-glt5038102951",
+          "show": "The Rest Is History",
+          "title": "710. The Terror: Death at the Guillotine (Part 4)",
+          "url": "/wiki/sources/710-the-terror-death-at-the-guillotine-part-4-glt5038102951/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/georgesdanton/"
     },
     "GeorgesPompidou": {
@@ -82394,6 +82461,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/concepts/heavyagriculturelightcommercepolicy/"
+    },
+    "Hebertists": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5038102951 [GLT5038102951].md",
+          "key": "710-the-terror-death-at-the-guillotine-part-4-glt5038102951",
+          "show": "The Rest Is History",
+          "title": "710. The Terror: Death at the Guillotine (Part 4)",
+          "url": "/wiki/sources/710-the-terror-death-at-the-guillotine-part-4-glt5038102951/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/hebertists/"
     },
     "HedongCommandery": {
       "episode_count": 6,
@@ -92603,6 +92686,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/concepts/indulgenceeconomy/"
     },
+    "Indulgents": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5038102951 [GLT5038102951].md",
+          "key": "710-the-terror-death-at-the-guillotine-part-4-glt5038102951",
+          "show": "The Rest Is History",
+          "title": "710. The Terror: Death at the Guillotine (Part 4)",
+          "url": "/wiki/sources/710-the-terror-death-at-the-guillotine-part-4-glt5038102951/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/indulgents/"
+    },
     "Industrial5GDeploymentConstraint": {
       "episode_count": 1,
       "show_count": 1,
@@ -96784,9 +96883,9 @@
       "url": "/wiki/entities/jacquerie/"
     },
     "JacquesHebert": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8774364224 [GLT8774364224].md",
@@ -96794,9 +96893,16 @@
           "show": "The Rest Is History",
           "title": "709. The Terror: The Execution of Marie Antoinette (Part 3)",
           "url": "/wiki/sources/709-the-terror-the-execution-of-marie-antoinette-part-3-glt8774364224/"
+        },
+        {
+          "episode_file": "GLT5038102951 [GLT5038102951].md",
+          "key": "710-the-terror-death-at-the-guillotine-part-4-glt5038102951",
+          "show": "The Rest Is History",
+          "title": "710. The Terror: Death at the Guillotine (Part 4)",
+          "url": "/wiki/sources/710-the-terror-death-at-the-guillotine-part-4-glt5038102951/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/jacqueshebert/"
     },
     "JacquesLouisDavid": {
@@ -105819,9 +105925,9 @@
       "url": "/wiki/concepts/lawenforcementagainsteliteprivilege/"
     },
     "LawOfSuspects": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2099451333 [GLT2099451333].md",
@@ -105829,9 +105935,16 @@
           "show": "The Rest Is History",
           "title": "708. The Terror: The Reign of Robespierre (Part 2)",
           "url": "/wiki/sources/708-the-terror-the-reign-of-robespierre-part-2-glt2099451333/"
+        },
+        {
+          "episode_file": "GLT5038102951 [GLT5038102951].md",
+          "key": "710-the-terror-death-at-the-guillotine-part-4-glt5038102951",
+          "show": "The Rest Is History",
+          "title": "710. The Terror: Death at the Guillotine (Part 4)",
+          "url": "/wiki/sources/710-the-terror-death-at-the-guillotine-part-4-glt5038102951/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/lawofsuspects/"
     },
     "LayeredInstitutionalRealism": {
@@ -106125,6 +106238,22 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/entities/levanelgindi/"
+    },
+    "LeVieuxCordelier": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5038102951 [GLT5038102951].md",
+          "key": "710-the-terror-death-at-the-guillotine-part-4-glt5038102951",
+          "show": "The Rest Is History",
+          "title": "710. The Terror: Death at the Guillotine (Part 4)",
+          "url": "/wiki/sources/710-the-terror-death-at-the-guillotine-part-4-glt5038102951/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/levieuxcordelier/"
     },
     "LeaderPersonalExposure": {
       "episode_count": 3,
@@ -114804,9 +114933,9 @@
       "url": "/wiki/entities/louhuwesternhan/"
     },
     "LouisAntoineSaintJust": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT3779628370 [GLT3779628370].md",
@@ -114821,9 +114950,16 @@
           "show": "The Rest Is History",
           "title": "708. The Terror: The Reign of Robespierre (Part 2)",
           "url": "/wiki/sources/708-the-terror-the-reign-of-robespierre-part-2-glt2099451333/"
+        },
+        {
+          "episode_file": "GLT5038102951 [GLT5038102951].md",
+          "key": "710-the-terror-death-at-the-guillotine-part-4-glt5038102951",
+          "show": "The Rest Is History",
+          "title": "710. The Terror: Death at the Guillotine (Part 4)",
+          "url": "/wiki/sources/710-the-terror-death-at-the-guillotine-part-4-glt5038102951/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/louisantoinesaintjust/"
     },
     "LouisCharles": {
@@ -116121,6 +116257,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/concepts/luciddreamingevidenceboundary/"
+    },
+    "LucileDesmoulins": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5038102951 [GLT5038102951].md",
+          "key": "710-the-terror-death-at-the-guillotine-part-4-glt5038102951",
+          "show": "The Rest Is History",
+          "title": "710. The Terror: Death at the Guillotine (Part 4)",
+          "url": "/wiki/sources/710-the-terror-death-at-the-guillotine-part-4-glt5038102951/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/luciledesmoulins/"
     },
     "LuciusCorneliusCinna": {
       "episode_count": 2,
@@ -121886,9 +122038,9 @@
       "url": "/wiki/entities/maximian/"
     },
     "MaximilienRobespierre": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 2,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
@@ -121959,9 +122111,16 @@
           "show": "The Rest Is History",
           "title": "708. The Terror: The Reign of Robespierre (Part 2)",
           "url": "/wiki/sources/708-the-terror-the-reign-of-robespierre-part-2-glt2099451333/"
+        },
+        {
+          "episode_file": "GLT5038102951 [GLT5038102951].md",
+          "key": "710-the-terror-death-at-the-guillotine-part-4-glt5038102951",
+          "show": "The Rest Is History",
+          "title": "710. The Terror: Death at the Guillotine (Part 4)",
+          "url": "/wiki/sources/710-the-terror-death-at-the-guillotine-part-4-glt5038102951/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/maximilienrobespierre/"
     },
     "May1968France": {
@@ -142113,6 +142272,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/philippaoflancaster/"
     },
+    "PhilippeFabreDEglantine": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5038102951 [GLT5038102951].md",
+          "key": "710-the-terror-death-at-the-guillotine-part-4-glt5038102951",
+          "show": "The Rest Is History",
+          "title": "710. The Terror: Death at the Guillotine (Part 4)",
+          "url": "/wiki/sources/710-the-terror-death-at-the-guillotine-part-4-glt5038102951/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/philippefabredeglantine/"
+    },
     "Philippines": {
       "episode_count": 3,
       "show_count": 1,
@@ -155634,9 +155809,9 @@
       "url": "/wiki/concepts/revolutionarydresspoliticalidentity/"
     },
     "RevolutionaryFactionalOutflanking": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3779628370 [GLT3779628370].md",
@@ -155644,9 +155819,16 @@
           "show": "The Rest Is History",
           "title": "546. The French Revolution: The Monarchy Falls (Part 3)",
           "url": "/wiki/sources/546-the-french-revolution-the-monarchy-falls-part-3-glt3779628370/"
+        },
+        {
+          "episode_file": "GLT5038102951 [GLT5038102951].md",
+          "key": "710-the-terror-death-at-the-guillotine-part-4-glt5038102951",
+          "show": "The Rest Is History",
+          "title": "710. The Terror: Death at the Guillotine (Part 4)",
+          "url": "/wiki/sources/710-the-terror-death-at-the-guillotine-part-4-glt5038102951/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/revolutionaryfactionaloutflanking/"
     },
     "RevolutionaryFailurePoliticalSuccess": {
@@ -155872,6 +156054,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/concepts/revolutionarypopularjustice/"
     },
+    "RevolutionaryPurgeSecurityDilemma": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5038102951 [GLT5038102951].md",
+          "key": "710-the-terror-death-at-the-guillotine-part-4-glt5038102951",
+          "show": "The Rest Is History",
+          "title": "710. The Terror: Death at the Guillotine (Part 4)",
+          "url": "/wiki/sources/710-the-terror-death-at-the-guillotine-part-4-glt5038102951/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/revolutionarypurgesecuritydilemma/"
+    },
     "RevolutionaryRomanism": {
       "episode_count": 2,
       "show_count": 1,
@@ -155912,9 +156110,9 @@
       "url": "/wiki/concepts/revolutionaryruralpoliticization/"
     },
     "RevolutionaryTerrorPolitics": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
@@ -155950,15 +156148,22 @@
           "show": "The Rest Is History",
           "title": "708. The Terror: The Reign of Robespierre (Part 2)",
           "url": "/wiki/sources/708-the-terror-the-reign-of-robespierre-part-2-glt2099451333/"
+        },
+        {
+          "episode_file": "GLT5038102951 [GLT5038102951].md",
+          "key": "710-the-terror-death-at-the-guillotine-part-4-glt5038102951",
+          "show": "The Rest Is History",
+          "title": "710. The Terror: Death at the Guillotine (Part 4)",
+          "url": "/wiki/sources/710-the-terror-death-at-the-guillotine-part-4-glt5038102951/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/revolutionaryterrorpolitics/"
     },
     "RevolutionaryTribunal": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6580043397 [GLT6580043397].md",
@@ -155973,9 +156178,16 @@
           "show": "The Rest Is History",
           "title": "708. The Terror: The Reign of Robespierre (Part 2)",
           "url": "/wiki/sources/708-the-terror-the-reign-of-robespierre-part-2-glt2099451333/"
+        },
+        {
+          "episode_file": "GLT5038102951 [GLT5038102951].md",
+          "key": "710-the-terror-death-at-the-guillotine-part-4-glt5038102951",
+          "show": "The Rest Is History",
+          "title": "710. The Terror: Death at the Guillotine (Part 4)",
+          "url": "/wiki/sources/710-the-terror-death-at-the-guillotine-part-4-glt5038102951/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/revolutionarytribunal/"
     },
     "RevolutionaryUniversalismIdentity": {
@@ -156002,9 +156214,9 @@
       "url": "/wiki/concepts/revolutionaryuniversalismidentity/"
     },
     "RevolutionaryVirtuePolitics": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
@@ -156026,9 +156238,16 @@
           "show": "The Rest Is History",
           "title": "708. The Terror: The Reign of Robespierre (Part 2)",
           "url": "/wiki/sources/708-the-terror-the-reign-of-robespierre-part-2-glt2099451333/"
+        },
+        {
+          "episode_file": "GLT5038102951 [GLT5038102951].md",
+          "key": "710-the-terror-death-at-the-guillotine-part-4-glt5038102951",
+          "show": "The Rest Is History",
+          "title": "710. The Terror: Death at the Guillotine (Part 4)",
+          "url": "/wiki/sources/710-the-terror-death-at-the-guillotine-part-4-glt5038102951/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/revolutionaryvirtuepolitics/"
     },
     "RevolutionsOf1848": {

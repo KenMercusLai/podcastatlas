@@ -5,8 +5,9 @@ tags: [institution, france, french-revolution, reign-of-terror]
 sources:
   - 707-the-terror-an-assassination-in-paris-part-1-glt6580043397
   - 708-the-terror-the-reign-of-robespierre-part-2-glt2099451333
+  - 710-the-terror-death-at-the-guillotine-part-4-glt5038102951
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-21
+last_updated: 2026-10-01
 ---
 
 # Committee of Public Safety
@@ -17,17 +18,17 @@ The Committee of Public Safety was the emergency executive body created by the N
 
 ## Current Profile
 
-The sources present the committee as one part of an improvised emergency architecture rather than the execution of a pre-existing Terror blueprint. [[GeorgesDanton|Danton]] initially dominated its nine members, but [[MaximilienRobespierre|Robespierre]] joined after Marat's assassination and became its defining later figure. His incorruptible reputation, joined to support from [[LouisAntoineSaintJust|Saint-Just]] and [[GeorgesCouthon|Couthon]], helped the body centralize repression, influence tribunal personnel, suspend constitutional government, and connect military survival to a single conspiracy framework.
+The sources present the committee as one part of an improvised emergency architecture rather than a pre-existing Terror blueprint. [[GeorgesDanton|Danton]] initially dominated its nine members, but [[MaximilienRobespierre|Robespierre]] joined after Marat's assassination and became its defining political figure beside military and administrative specialists. The committee helped centralize repression, influence tribunal personnel, suspend constitutional government, and connect military survival to a single conspiracy framework. By early 1794, military recovery did not dissolve emergency rule: the committee joined the [[CommitteeOfGeneralSecurity|Committee of General Security]] in destroying Hébertist and Dantonist opposition, after which fear and internal division intensified inside the governing apparatus.
 
 ## Key Characteristics
 
-- It was created to coordinate military and political emergency response.
-- Its initial form had nine members, with Danton as the dominant figure.
-- Its meaning changed as compromise became suspect and revolutionary fear intensified.
+- It was created with nine members to coordinate military and political emergency response, initially under Danton's dominance.
+- Its crisis role became durable coercive capacity as compromise grew suspect and revolutionary fear intensified.
 - It operated alongside the [[RevolutionaryTribunal]], surveillance committees, and deputies on mission.
-- It illustrates how temporary crisis powers can combine into durable coercive capacity.
 - Robespierre's moral authority helped supporters treat committee policy as an extension of personal virtue.
 - Its influence over judges and jurors reduced the independence of political adjudication.
+- It continued coercive government after battlefield and internal-security improvements weakened the original emergency rationale.
+- Successive purges increased immediate authority while making members and deputies less confident about their own safety.
 
 ## Evidence
 
@@ -51,17 +52,24 @@ The sources present the committee as one part of an improvised emergency archite
 
 - [[708-the-terror-the-reign-of-robespierre-part-2-glt2099451333]] presents Robespierre, Saint-Just, and Couthon as a powerful alignment and explains how Robespierre's incorruptible reputation reassured supporters about committee action.
 
+### Recovery, factional purges, and internal fear
+
+- [[710-the-terror-death-at-the-guillotine-part-4-glt5038102951]] distinguishes collective committee government from personal dictatorship, describes military and administrative specialization, and follows the committee through the Hébertist and Dantonist purges.
+- [[710-the-terror-death-at-the-guillotine-part-4-glt5038102951]] links the Danton executions to greater secrecy, internal conflict, and fear among surviving officials.
+
 ## Qualifications
 
-- The sources cover formation through the Girondin executions, not the committee's complete later record or internal divisions.
+- The sources now cover formation through the Dantonist executions, not the committee's complete later record or Robespierre's fall.
 - The episode interprets institutional accumulation as a pathway to terror without claiming that every emergency measure was designed from the outset for that end.
 - Committee members differed over the reach of repression, as Robespierre's rejection of Couthon's proposed Lyon deportation indicates.
+- Continued terror after military recovery does not prove that every member shared one ideology, motive, or desired endpoint.
+- The source explicitly rejects reducing collective committee government to Robespierre's sole dictatorship.
 
 ## What Changed
 
-- Extended the committee from improvised emergency origin into explicit state-terror administration.
-- Added the transfer of Robespierre's personal moral authority to committee policy.
-- Added its role in tribunal staffing, constitutional suspension, and the leadership alignment with Saint-Just and Couthon.
+- Extended the committee through military recovery and the successive Hébertist and Dantonist purges.
+- Added functional specialization and the distinction between collective committee rule and sole dictatorship.
+- Added the paradox by which successful purges increased authority and internal insecurity together.
 
 ## Relationships
 
@@ -74,3 +82,7 @@ The sources present the committee as one part of an improvised emergency archite
 - [[ConstitutionOf1793]] - democratic settlement suspended while the committee governed through emergency.
 - [[LouisAntoineSaintJust]] - leading ally in committee policy and constitutional design.
 - [[GeorgesCouthon]] - leading ally whose repressive proposals also reveal internal differences.
+- [[CommitteeOfGeneralSecurity]] - parallel police body that joined the decision to arrest Danton.
+- [[Hebertists]] - radical faction eliminated after its failed insurrection.
+- [[Indulgents]] - moderate faction eliminated immediately afterward.
+- [[RevolutionaryPurgeSecurityDilemma]] - dynamic through which the committee's victories enlarged fear among survivors.

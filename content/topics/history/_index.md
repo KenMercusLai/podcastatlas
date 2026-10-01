@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2277
+topic_total_pages: 2278
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5880,6 +5880,9 @@ topic_sources:
   - key: "71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384"
     title: "71.美妆帝国蝴蝶牌：言情小说家的国货创业往事"
     url: "/wiki/sources/71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384/"
+  - key: "710-the-terror-death-at-the-guillotine-part-4-glt5038102951"
+    title: "710. The Terror: Death at the Guillotine (Part 4)"
+    url: "/wiki/sources/710-the-terror-death-at-the-guillotine-part-4-glt5038102951/"
   - key: "72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837"
     title: "72.君主论：读它是一场危险的冒险"
     url: "/wiki/sources/72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837/"

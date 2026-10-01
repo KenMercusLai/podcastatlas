@@ -13,29 +13,30 @@ sources:
   - 503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194
   - 478-the-french-revolution-showdown-in-versailles-part-4-glt4803391126
   - 708-the-terror-the-reign-of-robespierre-part-2-glt2099451333
+  - 710-the-terror-death-at-the-guillotine-part-4-glt5038102951
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-24
+last_updated: 2026-10-01
 ---
 
 # Maximilien Robespierre / 罗伯斯庇尔
 
 ## Overview
 
-Maximilien Robespierre was a leading Montagnard revolutionary who opposed evacuation during the Prussian advance, defended necessary revolutionary violence, demanded [[LouisXVI|Louis XVI]]'s death, supported the June 1793 insurrection, and became a defining figure of the Terror.
+Maximilien Robespierre was a leading Montagnard revolutionary whose trajectory ran from democratic and abolitionist commitments through regicide, emergency government, virtue-based terror, and the successive destruction of radical and moderate rivals.
 
 ## Current Profile
 
-The sources connect Robespierre's rise from a bereaved, socially insecure Arras childhood and principled legal career to sharp changes in virtue, war, punishment, and emergency. In 1785 he preferred abolition; after entering the [[EstatesGeneral1789|Estates-General]], he supported popular sovereignty, male suffrage, education, progressive taxation, rights, and abolition of slavery. He later opposed armed missionary war, predicted military dictatorship, defended Paris during invasion, argued that Louis must die, called for insurrection, and entered the [[CommitteeOfPublicSafety|Committee of Public Safety]]. His incorruptible reputation and Rousseauian faith in a virtuous people then gave moral authority to a unified conspiracy diagnosis, suspension of the [[ConstitutionOf1793|Constitution of 1793]], wider suspect categories, and politically necessary execution.
+The sources connect Robespierre's rise from a bereaved Arras childhood and principled legal career to sharp changes in virtue, war, punishment, and emergency. He preferred abolition in 1785; later supported popular sovereignty, male suffrage, education, progressive taxation, rights, and abolition of slavery; opposed armed missionary war; and predicted military dictatorship. He nevertheless moved through regicide and insurrection into the [[CommitteeOfPublicSafety|Committee of Public Safety]], where his incorruptible reputation and Rousseauian faith in a virtuous people gave moral authority to constitutional suspension, broad suspicion, and terror as moral defence. By early 1794 he opposed Hébertist de-Christianization, tolerated Desmoulins's initial attack on Hébert, then helped eliminate both the radical Hébertists and moderate Dantonists when criticism of terror persisted. This strengthened him immediately but widened fear inside the Convention and committees.
 
 ## Key Characteristics
 
-- Childhood loss, scholarship education, legal work for poor clients, and political consistency helped establish his reputation for virtue.
-- He combined incorruptible public character with an increasingly binary language of patriots, corruption, and conspiracy.
-- He opposed the 1792 war as expansionary armed mission and warned that military emergency could produce dictatorship.
-- He supported wide democratic and social commitments while excluding women from suffrage.
-- He moved from abolitionist principle to regicide and punishment justified by revolutionary necessity.
+- Personal integrity, democratic commitments, and legal advocacy established exceptional moral authority.
+- He opposed expansionary war and some indiscriminate repression while later supporting regicide, terror, and manipulated political trials.
 - He treated distinct crises as one conspiracy and claimed emergency government had to precede constitutional rule.
-- He reshaped Girondin procedure toward conviction while rejecting some indiscriminate provincial punishments.
+- He defined terror as justice armed by virtue, removing a clear endpoint once moral transformation exceeded military survival.
+- He opposed Hébertist de-Christianization while using central authority to suppress the radical faction.
+- He subordinated friendship with Danton and Desmoulins to a revolutionary necessity he believed morally binding.
+- Destroying both factional wings increased his immediate supremacy but weakened reliable assurances of safety for other revolutionaries.
 
 ## Evidence
 
@@ -75,6 +76,16 @@ The sources connect Robespierre's rise from a bereaved, socially insecure Arras 
 
 - [[708-the-terror-the-reign-of-robespierre-part-2-glt2099451333]] records his intervention in the Girondin trial, support for exemplary punishment, opposition to Couthon's Lyon deportation proposal, and continued belief in the common people's virtue.
 
+### Virtue doctrine and terror without a military endpoint
+
+- [[710-the-terror-death-at-the-guillotine-part-4-glt5038102951]] links Robespierre's February 1794 definition of terror as severe justice to the claim that virtue would be powerless without it.
+- [[710-the-terror-death-at-the-guillotine-part-4-glt5038102951]] shows military recovery coexisting with continued coercion because the desired endpoint had become a morally transformed republic.
+
+### Hébertist and Dantonist elimination
+
+- [[710-the-terror-death-at-the-guillotine-part-4-glt5038102951]] follows his opposition to de-Christianization, destruction of the Hébertists, failed reconciliation with Danton, and decision to prosecute former friends.
+- [[710-the-terror-death-at-the-guillotine-part-4-glt5038102951]] distinguishes his political centrality from sole dictatorship and links the double purge to fear among surviving deputies.
+
 ## Qualifications
 
 - The sources do not prove that Robespierre directed the September prison killings.
@@ -82,17 +93,19 @@ The sources connect Robespierre's rise from a bereaved, socially insecure Arras 
 - Tactical accuracy about the Champ de Mars repression does not validate the source's broader characterization of his conspiratorial worldview.
 - One 1785 position does not establish an unchanged lifelong program or erase his later support for regicide and extraordinary violence.
 - Refusing evacuation during invasion is not by itself evidence of support for every act that followed in Paris.
-- The sequence now reaches the Girondin executions but still does not cover his full later record or downfall.
+- The sequence now reaches the Dantonist executions but does not yet provide a full account of his later record or downfall.
 - Marat's assassination was one driver among war, revolt, scarcity, and factional collapse; female admiration does not establish what most women believed.
 - The new source identifies his presence but does not yet establish his distinctive role in the June 1789 confrontations.
 - Childhood psychology, personal sincerity, the causal weight of Rousseau, committee authorship, execution totals, and reported dialogue remain source-scoped.
 - Rejecting mass deportation or some provincial atrocities qualifies the scope of his coercion without erasing his support for terror, execution, and weakened due process.
+- His initial reluctance to kill Danton and attempt to spare Desmoulins qualify a simple personal-power account without changing his final responsibility for their prosecution.
+- Fabre's and Chabot's real corruption did not establish the unified foreign plot into which Robespierre incorporated their allegations.
 
 ## What Changed
 
-- Extended the profile from committee entry into emergency government, the Law of Suspects, and the Girondin convictions.
-- Integrated his progressive commitments and early abolitionism with, rather than treating them as erased by, his later coercive politics.
-- Added the role of personal incorruptibility and Rousseauian general-will reasoning in legitimating committee authority.
+- Extended the profile through the Hébertist and Dantonist purges.
+- Added terror's shift from temporary wartime instrument to a means of constructing virtue.
+- Added the immediate-power versus survivor-fear tradeoff produced by eliminating both factional wings.
 
 ## Relationships
 
@@ -114,3 +127,7 @@ The sources connect Robespierre's rise from a bereaved, socially insecure Arras 
 - [[LawOfSuspects]] - broad arrest regime consistent with his widening conspiracy diagnosis.
 - [[LouisAntoineSaintJust]] - close committee ally in virtue, emergency government, and constitutional design.
 - [[GeorgesCouthon]] - committee ally whose Lyon deportation proposal he rejected as excessive.
+- [[JacquesHebert]] - radical opponent whose de-Christianization and failed insurrection preceded execution.
+- [[CamilleDesmoulins]] - former schoolmate and ally whom he tried and failed to separate from anti-terror journalism.
+- [[PhilippeFabreDEglantine]] - corrupt Danton associate whose fabricated plot entered Robespierre's conspiracy framework.
+- [[RevolutionaryPurgeSecurityDilemma]] - mechanism through which repeated victories increased the governing center's vulnerability.

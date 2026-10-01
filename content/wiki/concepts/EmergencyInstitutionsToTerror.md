@@ -5,8 +5,9 @@ tags: [politics, emergency-powers, institutions, terror]
 sources:
   - 707-the-terror-an-assassination-in-paris-part-1-glt6580043397
   - 708-the-terror-the-reign-of-robespierre-part-2-glt2099451333
+  - 710-the-terror-death-at-the-guillotine-part-4-glt5038102951
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-21
+last_updated: 2026-10-01
 ---
 
 # Emergency Institutions to Terror
@@ -17,7 +18,7 @@ Emergency institutions to terror is the process by which separately justified cr
 
 ## Current Synthesis
 
-The 1793 French case shows a two-stage movement from accumulation to consolidation. War, rebellion, scarcity, military betrayal, and factional collapse first produced the [[RevolutionaryTribunal]], surveillance committees, deputies on mission, and [[CommitteeOfPublicSafety]] for different immediate purposes. By September, tribunal expansion, committee influence over judicial personnel, the [[LawOfSuspects|Law of Suspects]], and suspension of the [[ConstitutionOf1793|Constitution of 1793]] turned those parts into an explicit state policy of terror while preserving the promise that ordinary democracy would return after the emergency.
+The 1793–94 French case shows movement from accumulation to consolidation and then persistence. War, rebellion, scarcity, military betrayal, and factional collapse first produced the [[RevolutionaryTribunal]], surveillance committees, deputies on mission, and [[CommitteeOfPublicSafety]] for distinct purposes. Tribunal expansion, committee influence, the [[LawOfSuspects|Law of Suspects]], and suspension of the [[ConstitutionOf1793|Constitution of 1793]] then turned those parts into explicit state terror. When military recovery and centralization improved the emergency, the machinery remained available for factional purges because peace had acquired a moral as well as military definition and the committees could alter trial procedure when ordinary process threatened the desired result.
 
 ## Key Claims
 
@@ -25,9 +26,9 @@ The 1793 French case shows a two-stage movement from accumulation to consolidati
 - Reduced appeal rights and accelerated punishment convert urgency into procedural vulnerability.
 - Surveillance and denunciation expand the number of people and behaviors legible as political threats.
 - Central executive coordination links local coercion, military necessity, and factional judgment.
-- Institutions created under genuine danger can outlast or broaden beyond the evidence that first justified them.
+- Institutions created under genuine danger can outlast battlefield recovery when rulers redefine the emergency in moral or political terms.
 - Suspending constitutional rule until victory creates an emergency end point that rulers themselves interpret.
-- Legal form can persist while staffing, suspect categories, and evidentiary standards are altered toward conviction.
+- Legal form can persist while staffing, suspect categories, defendant grouping, and defence rights are altered toward conviction.
 
 ## Evidence
 
@@ -51,6 +52,11 @@ The 1793 French case shows a two-stage movement from accumulation to consolidati
 
 - [[708-the-terror-the-reign-of-robespierre-part-2-glt2099451333]] joins suspension of the approved Constitution of 1793 to the Girondin trial's shift from ordinary evidence toward juror conscience.
 
+### Persistence and procedural override
+
+- [[710-the-terror-death-at-the-guillotine-part-4-glt5038102951]] shows military recovery coexisting with continued emergency government and terror justified by a morally defined peace.
+- [[710-the-terror-death-at-the-guillotine-part-4-glt5038102951]] distinguishes the public-safety and general-security committees, then follows their joint arrest decision and the decree used to remove Danton's defendants from court.
+
 ## Counterevidence & Qualifications
 
 - Institutional origin does not establish a single intention shared by every founder or participant.
@@ -58,12 +64,14 @@ The 1793 French case shows a two-stage movement from accumulation to consolidati
 - This source establishes the formation sequence, not a general law that all emergency institutions become terror regimes.
 - The sources argue that terror helped revolutionary survival, but they do not isolate its effect from mass mobilization, battlefield change, administration, or other causes.
 - Continued legal and constitutional language did not make the system ordinary rule of law, but neither does suspension alone prove every participant intended permanent dictatorship.
+- Military, economic, and administrative recovery had multiple causes; the source does not isolate terror as the decisive input.
+- Committee overlap did not erase disagreement, specialization, or refusals to endorse particular arrests.
 
 ## What Changed
 
-- Extended the mechanism from improvised institutional accumulation to deliberate centralization as state terror.
-- Added constitutional suspension, broad suspect categories, judicial staffing, and evidentiary compression.
-- Preserved genuine crisis and possible military effectiveness as context without treating them as moral or legal vindication.
+- Extended the mechanism from consolidation into persistence after military recovery.
+- Added moralized emergency endpoints, overlapping committee authority, defendant grouping, and removal of defence rights.
+- Preserved institutional specialization and internal dissent inside the coercive system.
 
 ## Related Concepts
 
@@ -73,3 +81,5 @@ The 1793 French case shows a two-stage movement from accumulation to consolidati
 - [[PowerViolenceDistinction]] - explains why coercive capacity does not itself create durable political legitimacy.
 - [[LawOfSuspects]] - measure that converted generalized suspicion into scalable arrest categories.
 - [[ConstitutionOf1793]] - democratic settlement displaced by the emergency regime.
+- [[CommitteeOfGeneralSecurity]] - police body whose overlap with executive and judicial power deepened the system.
+- [[RevolutionaryPurgeSecurityDilemma]] - insider fear created when the machinery turns against successive revolutionary factions.

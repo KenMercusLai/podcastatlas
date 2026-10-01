@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 11695
+wiki_total_pages: 11702
 wiki_pages:
   - key: "IHaveADreamSpeech"
     title: "I Have a Dream Speech"
@@ -134,6 +134,9 @@ wiki_pages:
   - key: "Indonesia"
     title: "Indonesia"
     url: "/wiki/entities/indonesia/"
+  - key: "Indulgents"
+    title: "Indulgents"
+    url: "/wiki/entities/indulgents/"
   - key: "IndyJohar"
     title: "Indy Johar"
     url: "/wiki/entities/indyjohar/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 11695
+wiki_total_pages: 11702
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -215,6 +215,9 @@ wiki_pages:
   - key: "LeVanElgindi"
     title: "Le Van Elgindi"
     url: "/wiki/entities/levanelgindi/"
+  - key: "LeVieuxCordelier"
+    title: "Le Vieux Cordelier"
+    url: "/wiki/entities/levieuxcordelier/"
   - key: "LeahCrum"
     title: "Leah Crum"
     url: "/wiki/entities/leahcrum/"
@@ -884,6 +887,9 @@ wiki_pages:
   - key: "LucentTechnologies"
     title: "Lucent Technologies"
     url: "/wiki/entities/lucenttechnologies/"
+  - key: "LucileDesmoulins"
+    title: "Lucile Desmoulins"
+    url: "/wiki/entities/luciledesmoulins/"
   - key: "LuciusCorneliusCinna"
     title: "Lucius Cornelius Cinna / 卢基乌斯·科尔内利乌斯·秦纳"
     url: "/wiki/entities/luciuscorneliuscinna/"

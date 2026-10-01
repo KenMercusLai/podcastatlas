@@ -586,6 +586,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [707. The Terror: An Assassination in Paris (Part 1)](sources/707-the-terror-an-assassination-in-paris-part-1-glt6580043397.md) — The Rest Is History episode on Marat, Corday, the 1793 crisis system, Girondin collapse, emergency institutions, conspiracy validation, and martyrdom accelerating the road to Terror.
 - [708. The Terror: The Reign of Robespierre (Part 2)](sources/708-the-terror-the-reign-of-robespierre-part-2-glt2099451333.md) — The Rest Is History episode on Robespierre's formation, virtue and conspiracy politics, mass mobilization, constitutional suspension, the Law of Suspects, and the Girondin convictions.
 - [709. The Terror: The Execution of Marie Antoinette (Part 3)](sources/709-the-terror-the-execution-of-marie-antoinette-part-3-glt8774364224.md) — The Rest Is History episode on Marie Antoinette's mixed culpability, Louis-Charles's dynastic danger, Hébert's propaganda, de-royalization, trial, and execution.
+- [710. The Terror: Death at the Guillotine (Part 4)](sources/710-the-terror-death-at-the-guillotine-part-4-glt5038102951.md) — The Rest Is History episode on Dantonist clemency, Hébertist and Indulgent purges, fabricated conspiracy, manipulated trial procedure, and survivor fear inside revolutionary government.
 - [《资治通鉴·汉纪》1119丨他生前归顺孙权，死后为何家族被赶尽杀绝？](sources/zizhi-tongjian-hanji-1119-ta-shengqian-guishun-sunquan-sihou-weihe-jiazu-bei-ganjin-shajue-ll4mblhk7ydn3pdxg-5zucstokzz.md) — 士燮以地方根基、名义服从、质子和进贡维持交趾权力；其死后士徽抗拒孙权任命，吕岱诱降并处死六兄弟，完成孙吴对交州地方势力的拆解。
 - [“我看到了 Scaling Law 的信号”｜对谈清华叉院助理教授徐梦迪：具身智能、世界模型、真正的泛化](sources/wo-kandao-le-scaling-law-de-xinhao-duitan-qinghua-chayuan-zhuli-jiaoshou-xu-mengdi-jushen-zhineng-shijie-moxing-zhenzheng-de-fanhua-ltdn8trgg55fluenullokxdiz1y5.md) — 十字路口Crossing interview with Xu Mengdi on robot in-context learning, world models and VLA systems, capability-driven data mixtures, deployment feedback loops, and why held-out loss is not yet a scaling law for unseen-task success.
 - [《资治通鉴·汉纪》1120丨潼关之战背后的博弈：马超开局就中套？](sources/zizhi-tongjian-hanji-1120-tongguan-zhizhan-beihou-de-boyi-ma-chao-kaiju-jiu-zhongtao-lkchglvk7g5zxtohkuqi_4y4wdw3.md) — 211年潼关战役的政治开局：曹操以进攻汉中为名施压关中，马超、韩遂先行起兵后失去名分优势，并暴露马腾家属的人质代价。
@@ -15097,6 +15098,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The 2i's Coffee Bar](entities/The2isCoffeeBar.md) — Small Soho basement venue connecting coffee-bar culture, skiffle, media, and early British pop careers.
 - [Londinium](entities/Londinium.md) — Roman Thames crossing, port, road hub, commercial center, and provincial capital recovered through buried archaeology.
 
+- [Philippe Fabre d'Églantine](entities/PhilippeFabreDEglantine.md) — Corrupt Danton associate whose fabricated foreign-plot claim helped construct the wider conspiracy case.
+- [François Chabot](entities/FrancoisChabot.md) — Corrupt deputy whose East India Company allegation merged real fraud with false political coordination.
+- [Committee of General Security](entities/CommitteeOfGeneralSecurity.md) — Revolutionary policing body that joined the public-safety committee in approving Danton's arrest.
+- [Le Vieux Cordelier](entities/LeVieuxCordelier.md) — Desmoulins newspaper that moved from approved anti-Hébertism to a public campaign for clemency.
+- [Indulgents](entities/Indulgents.md) — Dantonist faction associated with peace, moderation, and an end to terror.
+- [Hébertists](entities/Hebertists.md) — Radical faction whose economic, surveillance, and de-Christianization program ended in a failed insurrection and purge.
+- [Lucile Desmoulins](entities/LucileDesmoulins.md) — Camille Desmoulins's wife, falsely implicated in a prison plot and executed after the Dantonist trial.
+
 ## Concepts
 - [Taste Identity and Valence Circuit](concepts/TasteIdentityValenceCircuit.md) — Circuit model separating chemical detection, perceptual quality, positive or negative value, action, and post-ingestive reinforcement.
 - [Royal Animal Spectacle](concepts/RoyalAnimalSpectacle.md) — Diplomatic and dynastic animal display whose prestige creates care obligations that spectacle alone cannot satisfy.
@@ -24206,5 +24215,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Adopted London Identity](concepts/AdoptedLondonIdentity.md) — Urban belonging produced through consequential participation, residence, institutions, neighborhood life, and public memory rather than birthplace alone.
 - [Early Professional Policing](concepts/EarlyProfessionalPolicing.md) — Incomplete transition from volunteer and private enforcement toward trained, paid, equipped, and publicly supervised personnel.
 - [Small-Venue Cultural Incubation](concepts/SmallVenueCulturalIncubation.md) — Process by which modest low-cost rooms concentrate performers, audiences, gatekeepers, and media during an emerging cultural moment.
+
+- [Revolutionary Purge Security Dilemma](concepts/RevolutionaryPurgeSecurityDilemma.md) — Dynamic in which destroying rival factions makes survivors less secure and aligns them against the purging center.
 
 ## Syntheses

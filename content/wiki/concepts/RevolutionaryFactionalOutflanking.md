@@ -4,8 +4,9 @@ type: concept
 tags: [revolution, factions, radicalization, legitimacy]
 sources:
   - 546-the-french-revolution-the-monarchy-falls-part-3-glt3779628370
+  - 710-the-terror-death-at-the-guillotine-part-4-glt5038102951
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-22
+last_updated: 2026-10-01
 ---
 
 # Revolutionary Factional Outflanking
@@ -16,7 +17,7 @@ Revolutionary factional outflanking is the dynamic by which one revolutionary ca
 
 ## Current Synthesis
 
-The episode locates this mechanism in the opening conflict between the [[Girondins]] and [[Montagnards]]. The Girondins attacked Marat and Robespierre as violent anarchists or aspiring dictators, but failed to remove them; Robespierre then defended extraordinary violence as necessary to revolution, leaving moderates exposed to the claim that reluctance itself signaled disloyalty.
+The sources trace the mechanism from Girondin-Montagnard conflict into the Terror's destruction of both wings. The Girondins attacked Marat and Robespierre as violent anarchists or aspiring dictators but failed to remove them; Robespierre then defended extraordinary violence as necessary, making hesitation vulnerable to betrayal language. The [[Hebertists]] later tried to outflank the government from the radical left, while the [[Indulgents]] argued for clemency after first helping attack Hébert. Central authority defeated both, showing that positional radicalism could mobilize pressure but could not supply durable safety once the state claimed the right to define every faction as conspiratorial.
 
 ## Key Claims
 
@@ -26,6 +27,7 @@ The episode locates this mechanism in the opening conflict between the [[Girondi
 - A failed purge or prosecution may increase the authority of its target.
 - Justifying past violence as necessary creates precedent for future exceptional measures.
 - Fluid camps become more polarized even without modern party discipline.
+- Eliminating both the radical and moderate flanks can end the outflanking contest by making the center itself the universal threat.
 
 ## Evidence
 
@@ -41,15 +43,24 @@ The episode locates this mechanism in the opening conflict between the [[Girondi
 
 - [[546-the-french-revolution-the-monarchy-falls-part-3-glt3779628370]] explicitly frames the revolutionary ratchet as making hesitation vulnerable to betrayal language.
 
+### Radical challenge, moderate counterturn, and double defeat
+
+- [[710-the-terror-death-at-the-guillotine-part-4-glt5038102951]] follows Hébert's failed attempt to outflank the Convention and Desmoulins's movement from anti-Hébertist attack to clemency advocacy.
+- [[710-the-terror-death-at-the-guillotine-part-4-glt5038102951]] shows central authority executing both factions and thereby making ideological position an unreliable guarantee of safety.
+
 ## Counterevidence & Qualifications
 
 - Radicalization was not purely rhetorical; foreign invasion, massacre, and genuine counterrevolutionary contacts created real security pressures.
 - The Girondins also escalated conflict through their own denunciations and cannot be treated only as passive victims.
 - “Leftward” describes the episode's factional geometry, not a universal law of all revolutions.
+- Hébertist failure depended on concrete institutional weakness: the Commune, National Guard, and most sections did not support the insurrection.
+- Dantonist moderation remained compromised by earlier violence and corruption, so relative position does not establish innocence or consistent liberal principle.
 
 ## What Changed
 
-- A canonical mechanism now links failed factional attack, purity competition, and the conversion of moderation into suspected treason.
+- Extended the mechanism from Girondin-Montagnard struggle into Hébertist radical pressure and Indulgent clemency.
+- Added the possibility that a central authority ends factional outflanking by destroying both wings.
+- Connected double elimination to a new shared-survival threat among remaining insiders.
 
 ## Related Concepts
 
@@ -57,3 +68,4 @@ The episode locates this mechanism in the opening conflict between the [[Girondi
 - [[RevolutionaryVirtuePolitics]] - moral vocabulary that can turn sincerity and virtue into political tests.
 - [[CrisisValidatedConspiracyPolitics]] - real betrayal can strengthen the evidentiary reach of factional suspicion.
 - [[PostVictoryOppressionRisk]] - broader danger that victorious dissenters suppress later dissent.
+- [[RevolutionaryPurgeSecurityDilemma]] - next-stage mechanism when both factional flanks have been eliminated.

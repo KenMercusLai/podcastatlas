@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 9065
+wiki_total_pages: 9066
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -854,6 +854,9 @@ wiki_pages:
   - key: "RevolutionaryPopularJustice"
     title: "Revolutionary Popular Justice"
     url: "/wiki/concepts/revolutionarypopularjustice/"
+  - key: "RevolutionaryPurgeSecurityDilemma"
+    title: "Revolutionary Purge Security Dilemma"
+    url: "/wiki/concepts/revolutionarypurgesecuritydilemma/"
   - key: "RevolutionaryRomanism"
     title: "Revolutionary Romanism"
     url: "/wiki/concepts/revolutionaryromanism/"

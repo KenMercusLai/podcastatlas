@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 11695
+wiki_total_pages: 11702
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -1286,6 +1286,9 @@ wiki_pages:
   - key: "Comcast"
     title: "Comcast"
     url: "/wiki/entities/comcast/"
+  - key: "CommitteeOfGeneralSecurity"
+    title: "Committee of General Security"
+    url: "/wiki/entities/committeeofgeneralsecurity/"
   - key: "CommitteeOfPublicSafety"
     title: "Committee of Public Safety"
     url: "/wiki/entities/committeeofpublicsafety/"

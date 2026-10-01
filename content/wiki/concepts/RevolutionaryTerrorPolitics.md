@@ -8,8 +8,9 @@ sources:
   - 544-the-french-revolution-the-september-massacres-part-1-glt8301042051
   - 506-the-french-revolution-massacre-at-the-palace-part-4-glt9954902163
   - 708-the-terror-the-reign-of-robespierre-part-2-glt2099451333
+  - 710-the-terror-death-at-the-guillotine-part-4-glt5038102951
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-22
+last_updated: 2026-10-01
 ---
 
 # Revolutionary Terror Politics / 革命恐怖政治
@@ -20,7 +21,7 @@ Revolutionary terror politics is the interaction of emergency threat, material d
 
 ## Current Synthesis
 
-The combined sources trace terror across four stages. After the monarchy's August 1792 collapse, competing authorities, surveillance, censorship, denunciation, exceptional justice, and mass arrest widened coercion. In September, invasion rumor enabled local killing teams and improvised tribunals before a mature terror state existed. In early 1793, war, scarcity, revolt, betrayal, factional purge, the [[RevolutionaryTribunal]], and [[CommitteeOfPublicSafety]] accumulated coercive capacity; Marat's assassination intensified fear. By September, leaders openly named terror as policy, expanded the tribunal, enacted the [[LawOfSuspects|Law of Suspects]], suspended the [[ConstitutionOf1793|Constitution of 1793]], and joined military effectiveness to virtue, citizenship exclusion, and politically necessary conviction.
+The combined sources trace terror from fragmented coercion into a system that survived improvement in the emergency used to justify it. After the monarchy's August 1792 collapse, surveillance, censorship, denunciation, exceptional justice, and mass arrest widened coercion; invasion rumor then enabled local killing teams and improvised tribunals. In 1793, war, scarcity, revolt, betrayal, factional purge, the [[RevolutionaryTribunal]], and [[CommitteeOfPublicSafety]] accumulated and centralized coercive capacity. By early 1794, military recovery and stronger central authority did not end terror because leaders treated it as an instrument of republican virtue. The successive destruction of [[Hebertists]] and [[Indulgents]] then made political position an unreliable defence against punishment and turned apparent supremacy into shared fear among survivors.
 
 ## Key Claims
 
@@ -30,7 +31,7 @@ The combined sources trace terror across four stages. After the monarchy's Augus
 - Extra-legal violence can acquire legitimacy through improvised procedure, selective acquittal, and claims of popular justice.
 - Elite rhetoric, public approval, local organization, and official non-intervention can produce terror without one central command.
 - Material hardship and military crisis make sabotage explanations persuasive when revolution fails to improve security or daily life.
-- Separate emergency institutions can accumulate and later be centralized into explicit state terror without a single initial blueprint.
+- Separate emergency institutions can accumulate into explicit state terror, then persist after battlefield recovery by adopting moral transformation as their endpoint.
 
 ## Evidence
 
@@ -59,6 +60,11 @@ The combined sources trace terror across four stages. After the monarchy's Augus
 
 - [[708-the-terror-the-reign-of-robespierre-part-2-glt2099451333]] shows terror justified as forceful virtue, opponents placed outside citizenship, and revolutionary survival used as retrospective validation.
 
+### Persistence after recovery and double purge
+
+- [[710-the-terror-death-at-the-guillotine-part-4-glt5038102951]] juxtaposes military, administrative, and economic recovery with continued terror justified as necessary for a virtuous republic.
+- [[710-the-terror-death-at-the-guillotine-part-4-glt5038102951]] follows the rapid elimination of Hébertist and Dantonist opponents through constructed conspiracy trials and compressed defence.
+
 ## Counterevidence & Qualifications
 
 - French security threats were not wholly manufactured: invasion, rebellion, military betrayal, scarcity, and political violence were real.
@@ -69,12 +75,14 @@ The combined sources trace terror across four stages. After the monarchy's Augus
 - The sources do not exhaust regional, colonial, social, or later chronological dimensions of the Terror.
 - Robespierre was central but not the Terror's sole architect, and he rejected some indiscriminate punishments while supporting severe repression.
 - Immediate military effectiveness does not establish that every measure was necessary, just, or causally decisive.
+- Dantonist moderation was real but did not erase Danton's earlier emergency violence or corruption vulnerability.
+- The episode's formal and total death figures, prison estimate, economic effects, and causal attribution of military success remain source-scoped.
 
 ## What Changed
 
-- Extended the sequence from institutional formation into the openly declared state policy of September 1793.
-- Added constitutional suspension, citizenship exclusion, the Law of Suspects, and procedural compression.
-- Added effectiveness as a source of legitimacy while keeping causal and moral qualifications explicit.
+- Extended the sequence from declared terror through military recovery and the spring 1794 factional purges.
+- Added moral transformation as an endpoint that can outlast the original emergency rationale.
+- Added survivor insecurity as a political cost of eliminating both radical and moderate rivals.
 
 ## Related Concepts
 
@@ -89,3 +97,4 @@ The combined sources trace terror across four stages. After the monarchy's Augus
 - [[LawOfSuspects]] - statutory widening of people and conduct exposed to arrest.
 - [[ConstitutionOf1793]] - democratic promise suspended during emergency rule.
 - [[LeveeEnMasse]] - whole-society mobilization that joined military survival to revolutionary government.
+- [[RevolutionaryPurgeSecurityDilemma]] - mechanism by which successful terror against rivals can align fearful survivors against the center.
